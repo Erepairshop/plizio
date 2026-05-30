@@ -87,6 +87,15 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/split_pois_by_country.mts
 
+      # POI id -> URL-per-lang index. REQUIRED before build-static-maps, which
+      # reads _poi-url-index.json for the map-popup "Details" links. Without it
+      # the file is missing on the runner (it's not committed) and every map
+      # POI loses its link to the HTML page.
+      - name: Build POI URL index
+        env:
+          NODE_OPTIONS: --max-old-space-size=16384
+        run: npx tsx scripts/build-poi-url-index.mts
+
       # Regenerate the static country + metro maps from the freshly-split POI
       # JSONs so map markers always reflect the current data + dedup blocklist.
       # Runs before the Next build so public/*-map is copied into out/.
