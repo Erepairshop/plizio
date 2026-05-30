@@ -103,18 +103,67 @@ function poiHref(p: POI, lang: Lang): string | null {
   return e ? (e[lang] || e.de || e.en || null) : null;
 }
 
+// generic tokens that must NOT alone trigger a same-place merge
+const NAME_STOP = new Set(["von","der","die","das","den","dem","des","de","la","le","les","of","the","and","und","in","im","am","zu","kirche","church","biserica","templom","kathedrale","cathedral","catedrala","katedralis","castle","burg","var","castel","festung","fortress","fortareata","erod","kloster","monastery","manastire","kolostor","park","parc","see","lake","lac","to","insel","island","insula","sziget","altstadt","oldtown","stadt","city","oras","varos","nationalpark","national","palast","palace","palat","palota","museum","muzeu","muzeum","denkmal","monument","emlekmu","turm","tower","turn","torony","brucke","bridge","pod","hid","ruine","ruins","ruine","rom"]);
+function nameTokens(p: POI): Set<string> {
+  const s = new Set<string>();
+  for (const l of LANGS) {
+    for (const w of ((p.name?.[l] || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").split(/[^a-z0-9]+/))) {
+      if (w.length >= 4 && !NAME_STOP.has(w)) s.add(w);
+    }
+  }
+  return s;
+}
+function km(a: number[], b: number[]): number {
+  const R=6371, dLat=(b[1]-a[1])*Math.PI/180, dLon=(b[0]-a[0])*Math.PI/180;
+  const x=Math.sin(dLat/2)**2+Math.cos(a[1]*Math.PI/180)*Math.cos(b[1]*Math.PI/180)*Math.sin(dLon/2)**2;
+  return 2*R*Math.asin(Math.min(1,Math.sqrt(x)));
+}
+
 function selectTop(pois: POI[]): POI[] {
   const attractions = pois.filter(p => p.type && !EXCLUDE.has(p.type) && p.coords);
-  const TYPE_W: Record<string,number> = { landmark: 60, castle: 55, cathedral: 50, church: 30, monastery: 40, ruins: 35, palace: 55, waterfall: 55, lake: 45, peak: 35, mountain: 30, park: 45, wildlife: 40, museum: 35, fortress: 50, monument: 30, tower: 30, bridge: 30 };
+  const TYPE_W: Record<string,number> = { landmark: 60, castle: 55, cathedral: 50, church: 30, monastery: 40, ruins: 35, palace: 55, waterfall: 65, lake: 55, peak: 35, mountain: 30, park: 60, wildlife: 45, museum: 35, fortress: 50, monument: 30, tower: 30, bridge: 30, nature: 55, coast: 45, gorge: 45, canyon: 45 };
   function score(p: POI): number {
     let s = 0;
     if (p.image) s += 250;
-    s += Math.min(richness(p), 4000) / 8;     // up to 500
+    s += Math.min(richness(p), 2500) / 12;     // tempered (~max 208) so long articles about obscure places don't dominate
     s += TYPE_W[p.type||""] ?? 20;
     if (typeof p.tier === "number") s += (6 - Math.min(p.tier, 5)) * 15;
+    // notability proxy: curated landmark/national-park sets (nat-/cult-/hr-) are the famous editorial picks
+    if (/^(nat|cult)-/.test(p.id)) s += 230;
+    else if (/^hr-/.test(p.id)) s += 170;
     return s;
   }
-  return attractions.sort((a,b)=> score(b)-score(a) || a.id.localeCompare(b.id)).slice(0, 50);
+  // city/town names → extra stopwords, so a shared CITY token (Split, Pula, Zagreb)
+  // never merges two distinct attractions in the same town.
+  const cityStop = new Set<string>();
+  for (const p of pois) {
+    if (p.type && /^(city|capital|state-capital|town|village|municipality|commune)$/.test(p.type)) {
+      for (const l of LANGS) for (const w of ((p.name?.[l]||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").split(/[^a-z0-9]+/))) if (w.length>=4) cityStop.add(w);
+    }
+  }
+  const tok = (p: POI) => new Set([...nameTokens(p)].filter(t => !cityStop.has(t)));
+  // base-id (strip country prefix + layer/-v2 + descriptor suffix) catches `<x>-history-v2` vs `<x>-landmarks-v2` twins
+  const baseId = (id: string) => id
+    .replace(/^(croatia|hr|nat|cult|hist|city|geo)-/,"")
+    .replace(/-(history|landmarks|nature|cities|economic|relief|life|culture)-v2$/,"")
+    .replace(/-v2$/,"").replace(/-extra$/,"")
+    .replace(/-(islands?|nationalpark|national-park|np|byzantine-castrum|fortica)$/,"");
+  const ranked = attractions.map(p=>({p,s:score(p),tok:tok(p),b:baseId(p.id)}))
+    .sort((a,b)=> b.s-a.s || a.p.id.localeCompare(b.p.id));
+  const kept: typeof ranked = [];
+  for (const cand of ranked) {
+    const dup = kept.some(k => {
+      if (k.b === cand.b) return true;
+      const shared = [...cand.tok].filter(t => k.tok.has(t));
+      const d = km(k.p.coords!, cand.p.coords!);
+      // close + any shared name token, OR same distinctive proper-noun within national-park scale
+      return (d <= 0.4 && shared.length > 0) || (d <= 15 && shared.some(t => t.length >= 5));
+    });
+    if (!dup) kept.push(cand);
+    if (kept.length >= 50) break;
+  }
+  return kept.map(k=>k.p);
 }
 
 function alternatesFor(c: CountryCfg): Record<Lang,string> {
