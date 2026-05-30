@@ -38,6 +38,15 @@ const T_NATURE: Record<Lang, any> = {
   en: { heading: (c: string) => `National Parks & Nature in ${c}`, sub: "Top nature spots", intro: (c: string) => `The national parks and finest natural wonders in ${c}: waterfalls, lakes, islands and mountains. Each place links to a detailed page with map, tips and photos.`, onMap: "See all on the map", more: "Learn more", home: "Home", cats: { nature: "Nature & National Parks", history: "Culture & History", urban: "Cities & Architecture", other: "More nature spots" }, faqH: "Frequently asked questions", titleTpl: (c: string) => `National Parks in ${c}: the finest natural wonders (2026)`, metaTpl: (c: string) => `The national parks and natural wonders of ${c}: waterfalls, lakes, islands, mountains – with map, photos and travel tips.` },
 };
 
+// --- category: PlizioGo travel itineraries (ready day-plans per city) ---
+const PLIZIOGO_SLUG: Record<Lang, string> = { de: "reiseroute", hu: "utiterv", ro: "itinerar", en: "itinerary" };
+const T_PLIZIOGO: Record<Lang, any> = {
+  de: { heading: (c: string) => `${c} Reiseroute`, sub: "100+ Städte mit Tagesplan", intro: (c: string) => `Plizio Go erstellt dir für über 100 Städte in ${c} einen fertigen Tagesplan – kostenlos und ohne Anmeldung. Wähle einfach Wetter und Verkehrsmittel, und du bekommst sofort eine konkrete Route für den Tag: welche Sehenswürdigkeiten in welcher Reihenfolge, Tipps zum Essen, Öffnungszeiten und alles auf der Karte. Wähle unten deine Stadt und starte deinen Tag.`, onMap: "Auf der Karte ansehen", more: "Tagesplan öffnen", home: "Startseite", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Häufige Fragen", titleTpl: (c: string) => `${c} Reiseroute: fertige Tagespläne für 100+ Städte (2026)`, metaTpl: (c: string) => `Fertige Tagespläne für über 100 Städte in ${c}: Wähle Wetter und Verkehrsmittel, erhalte sofort eine Route mit Sehenswürdigkeiten, Tipps und Karte. Kostenlos mit Plizio Go.` },
+  hu: { heading: (c: string) => `${c} útiterv`, sub: "100+ város napi tervvel", intro: (c: string) => `A Plizio Go több mint 100 ${c}-i városhoz készít kész napi tervet – ingyen, regisztráció nélkül. Csak válaszd ki az időjárást és a közlekedési módot, és azonnal kapsz egy konkrét napi útvonalat: mely látnivalókat milyen sorrendben, hol egyél, nyitvatartás, és minden a térképen. Válassz alább egy várost és indítsd a napod.`, onMap: "Megnézés a térképen", more: "Napi terv megnyitása", home: "Főoldal", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Gyakori kérdések", titleTpl: (c: string) => `${c} útiterv: kész napi tervek 100+ városhoz (2026)`, metaTpl: (c: string) => `Kész napi tervek több mint 100 ${c}-i városhoz: válaszd az időjárást és a közlekedést, kapj azonnal útvonalat látnivalókkal, tippekkel és térképpel. Ingyen, a Plizio Go-val.` },
+  ro: { heading: (c: string) => `Itinerar ${c}`, sub: "100+ orașe cu plan zilnic", intro: (c: string) => `Plizio Go îți creează un plan gata făcut pentru o zi în peste 100 de orașe din ${c} – gratuit și fără cont. Alege vremea și mijlocul de transport și primești imediat un traseu concret: ce obiective, în ce ordine, unde să mănânci, programul și totul pe hartă. Alege mai jos un oraș și începe-ți ziua.`, onMap: "Vezi pe hartă", more: "Deschide planul zilei", home: "Acasă", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Întrebări frecvente", titleTpl: (c: string) => `Itinerar ${c}: planuri zilnice gata făcute pentru 100+ orașe (2026)`, metaTpl: (c: string) => `Planuri de o zi gata făcute pentru peste 100 de orașe din ${c}: alege vremea și transportul, primești imediat un traseu cu obiective, sfaturi și hartă. Gratuit cu Plizio Go.` },
+  en: { heading: (c: string) => `${c} Itinerary`, sub: "100+ cities with a day plan", intro: (c: string) => `Plizio Go builds a ready-made one-day plan for over 100 cities in ${c} – free, no sign-up. Just pick the weather and how you get around, and you instantly get a concrete route for the day: which sights in what order, where to eat, opening hours, all on the map. Pick your city below and start your day.`, onMap: "View on the map", more: "Open day plan", home: "Home", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Frequently asked questions", titleTpl: (c: string) => `${c} Itinerary: ready-made day plans for 100+ cities (2026)`, metaTpl: (c: string) => `Ready-made one-day plans for over 100 cities in ${c}: pick the weather and transport, get an instant route with sights, tips and map. Free with Plizio Go.` },
+};
+
 // localized type badge labels (subset; fallback = raw type)
 const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
   castle: { de: "Burg", hu: "Vár", ro: "Castel", en: "Castle" },
@@ -90,6 +99,14 @@ const SITE = "https://plizio.com";
 const URLIDX: Record<string, Record<string,string>> = (() => {
   try { return JSON.parse(fs.readFileSync(path.resolve(process.cwd(),"public/data/_poi-url-index.json"),"utf8")); } catch { return {}; }
 })();
+// PlizioGo itinerary set (basename = poi-id) + dedup blocklist (avoid linking removed pages)
+const ITIN: Set<string> = (() => {
+  try { return new Set(fs.readdirSync(path.resolve(process.cwd(),"public/data/itinerary")).filter(f=>f.endsWith(".json")).map(f=>f.slice(0,-5))); } catch { return new Set(); }
+})();
+const BLOCK: Set<string> = (() => {
+  try { return new Set<string>(JSON.parse(fs.readFileSync(path.resolve(process.cwd(),"lib/visualLab/data/_dedup_blocklist.json"),"utf8"))); } catch { return new Set(); }
+})();
+let FLAT = false; // PlizioGo flat-grid mode (cities, no category buckets)
 
 function esc(s: string): string { return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 function firstSentence(s: string, max = 150): string {
@@ -179,6 +196,14 @@ function selectTop(pois: POI[]): POI[] {
   return kept.map(k=>k.p);
 }
 
+// PlizioGo: cities that have a ready day-itinerary (canonical, not blocklisted, routable)
+function selectPliziogo(pois: POI[]): POI[] {
+  const elig = pois.filter(p => p.id && ITIN.has(p.id) && !BLOCK.has(p.id) && URLIDX[p.id] && p.coords);
+  elig.sort((a, b) => (b.population || 0) - (a.population || 0)
+    || ((a.tier ?? 9) - (b.tier ?? 9)) || richness(b) - richness(a) || a.id.localeCompare(b.id));
+  return elig.slice(0, 120);
+}
+
 function alternatesFor(c: CountryCfg): Record<Lang,string> {
   const out = {} as Record<Lang,string>;
   for (const l of LANGS) out[l] = `${SITE}/${slugify(c.names[l])}-${SIGHTS_SLUG[l]}/`;
@@ -207,14 +232,23 @@ function render(c: CountryCfg, lang: Lang, top: POI[]): string {
     return href ? `<a class="card" href="${esc(href)}">${inner}</a>` : `<div class="card">${inner}</div>`;
   }
 
-  const sections = (["history","nature","urban","other"] as const).filter(k=>groups[k].length).map(k => {
-    let rank = 0;
-    return `<section class="catsec" id="${k}"><h2>${esc(t.cats[k])}</h2><div class="grid">${groups[k].map(p=>card(p, ++rank)).join("")}</div></section>`;
-  }).join("");
+  const catChips = FLAT ? "" : (["history","nature","urban","other"] as const).filter(k=>groups[k].length).map(k=>`<a class="chip" href="#${k}">${esc(t.cats[k])} (${groups[k].length})</a>`).join("");
+  const sections = FLAT
+    ? `<section class="catsec"><div class="grid">${top.map((p,i)=>card(p, i+1)).join("")}</div></section>`
+    : (["history","nature","urban","other"] as const).filter(k=>groups[k].length).map(k => {
+        let rank = 0;
+        return `<section class="catsec" id="${k}"><h2>${esc(t.cats[k])}</h2><div class="grid">${groups[k].map(p=>card(p, ++rank)).join("")}</div></section>`;
+      }).join("");
 
   // schema: ItemList of TouristAttraction
   const itemList = { "@context":"https://schema.org","@type":"ItemList","name":t.titleTpl(country),"numberOfItems":top.length,"itemListElement": top.map((p,i)=>({ "@type":"ListItem","position":i+1,"item":{ "@type":"TouristAttraction","name":localizedName(p,lang),...(poiHref(p,lang)?{"url":SITE+poiHref(p,lang)}:{}),...(p.image?{"image":SITE+p.image}:{}) } })) };
-  const faqs = lang === "de"
+  const PG_FAQ: Record<Lang, string[][]> = {
+    de: [["Was ist Plizio Go?", "Plizio Go ist ein kostenloser Tagesplaner: Du wählst eine Stadt, das Wetter und dein Verkehrsmittel, und bekommst sofort eine fertige Route für einen Tag – mit Sehenswürdigkeiten in sinnvoller Reihenfolge, Essens-Tipps, Öffnungszeiten und Karte."],["Wie viele Städte in "+country+" sind verfügbar?", "Über 100 Städte haben bereits einen fertigen Tagesplan, und es kommen laufend neue dazu."],["Kostet das etwas?", "Nein. Plizio Go ist komplett kostenlos und ohne Anmeldung nutzbar."]],
+    hu: [["Mi az a Plizio Go?", "A Plizio Go egy ingyenes napi tervező: kiválasztasz egy várost, az időjárást és a közlekedési módot, és azonnal kész napi útvonalat kapsz – látnivalókkal logikus sorrendben, étkezési tippekkel, nyitvatartással és térképpel."],["Hány "+country+"-i város érhető el?", "Több mint 100 városnak van már kész napi terve, és folyamatosan jönnek újak."],["Kerül valamibe?", "Nem. A Plizio Go teljesen ingyenes és regisztráció nélkül használható."]],
+    ro: [["Ce este Plizio Go?", "Plizio Go este un planificator zilnic gratuit: alegi un oraș, vremea și mijlocul de transport și primești imediat un traseu gata făcut pentru o zi – cu obiective într-o ordine logică, sfaturi de masă, program și hartă."],["Câte orașe din "+country+" sunt disponibile?", "Peste 100 de orașe au deja un plan zilnic gata făcut și se adaugă mereu altele noi."],["Costă ceva?", "Nu. Plizio Go este complet gratuit și se folosește fără cont."]],
+    en: [["What is Plizio Go?", "Plizio Go is a free day planner: pick a city, the weather and how you get around, and instantly get a ready-made one-day route – with sights in a sensible order, food tips, opening hours and a map."],["How many cities in "+country+" are available?", "Over 100 cities already have a ready day plan, and new ones are added all the time."],["Is it free?", "Yes. Plizio Go is completely free and needs no sign-up."]],
+  };
+  const faqs = FLAT ? PG_FAQ[lang] : lang === "de"
     ? [["Was sind die Top-Sehenswürdigkeiten in "+country+"?", "Zu den beliebtesten zählen "+top.slice(0,5).map(p=>localizedName(p,"de")).join(", ")+" und viele weitere – die vollständige Top-50-Liste findest du auf dieser Seite."],["Wann ist die beste Reisezeit für "+country+"?","Mai bis Oktober bietet das angenehmste Wetter; Juli und August sind am wärmsten und am stärksten besucht."]]
     : lang === "hu"
     ? [["Melyek "+country+" legjobb látnivalói?","A legnépszerűbbek közé tartozik "+top.slice(0,5).map(p=>localizedName(p,"hu")).join(", ")+" és még sok más – a teljes top 50 listát ezen az oldalon találod."],["Mikor a legjobb "+country+"-ba utazni?","Május és október között a legkellemesebb az időjárás; július és augusztus a legmelegebb és leglátogatottabb."]]
@@ -266,8 +300,8 @@ footer{border-top:1px solid var(--line);padding:24px 0;color:var(--mut);font-siz
 </style></head><body>
 <div class="wrap">
 <nav class="crumb"><a href="${SITE}/${lang==="de"?"":lang+"/"}">${esc(t.home)}</a> › ${esc(t.heading(country))}</nav>
-<header class="hero">${heroImg?`<img src="${heroImg}" alt=""/>`:""}<div class="ov"><div class="sub">${esc(t.sub)} · ${top.length}</div><h1>${esc(t.heading(country))}</h1><p>${esc(t.intro(country))}</p></div></header>
-<div class="bar"><a class="chip map" href="${mapHref}">🗺️ ${esc(t.onMap)}</a>${(["history","nature","urban","other"] as const).filter(k=>groups[k].length).map(k=>`<a class="chip" href="#${k}">${esc(t.cats[k])} (${groups[k].length})</a>`).join("")}</div>
+<header class="hero">${heroImg?`<img src="${heroImg}" alt=""/>`:""}<div class="ov"><div class="sub">${esc(t.sub)}${FLAT?"":" · "+top.length}</div><h1>${esc(t.heading(country))}</h1><p>${esc(t.intro(country))}</p></div></header>
+<div class="bar"><a class="chip map" href="${mapHref}">🗺️ ${esc(t.onMap)}</a>${catChips}</div>
 ${sections}
 <section class="faq"><h2>${esc(t.faqH)}</h2>${faqs.map(([q,a])=>`<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join("")}</section>
 <footer>© Plizio · <a href="${mapHref}">${esc(t.onMap)}</a></footer>
@@ -279,7 +313,7 @@ function buildOne(c: CountryCfg): void {
   if (!fs.existsSync(jsonp)) { console.log(`SKIP ${c.iso}: no ${c.iso.toUpperCase()}.json`); return; }
   const j = JSON.parse(fs.readFileSync(jsonp, "utf8"));
   const pois: POI[] = (j.pois || j) as POI[];
-  const top = selectTop(pois);
+  const top = FLAT ? selectPliziogo(pois) : selectTop(pois);
   for (const lang of LANGS) {
     const slug = `${slugify(c.names[lang])}-${SIGHTS_SLUG[lang]}`;
     const dir = path.resolve(process.cwd(), "public", slug);
@@ -291,7 +325,12 @@ function buildOne(c: CountryCfg): void {
 
 const target = (process.argv[2] || "all").toLowerCase();
 const category = (process.argv[3] || "attractions").toLowerCase();
-if (category === "nature" || category === "nationalparks") {
+if (category === "pliziogo" || category === "itinerary" || category === "reiseroute") {
+  SIGHTS_SLUG = PLIZIOGO_SLUG;
+  T = T_PLIZIOGO;
+  FLAT = true;
+  console.log("category: PlizioGo itineraries (cities with a day plan)");
+} else if (category === "nature" || category === "nationalparks") {
   SIGHTS_SLUG = NATURE_SLUG;
   T = T_NATURE;
   // Many iconic national parks are typed "landmark" (Plitvice "Plitvicer Seen",
