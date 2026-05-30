@@ -4,6 +4,7 @@ export const hongkongNatureV2: POI[] = [
 
   {
     id: "hongkong-lantau-peak-nature-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Lantau Peak", hu: "Lantau-csúcs", ro: "Vârful Lantau", en: "Lantau Peak" },
     coords: [113.9131, 22.2477],
@@ -48,6 +49,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-tai-mo-shan-nature-v2",
+    parent: "HK",
     type: "mountain",
     name: { de: "Tai Mo Shan", hu: "Tai Mo Shan", ro: "Tai Mo Shan", en: "Tai Mo Shan" },
     coords: [114.1231, 22.4116],
@@ -92,6 +94,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-sunset-peak-nature-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Sunset Peak", hu: "Sunset-csúcs", ro: "Vârful Sunset", en: "Sunset Peak" },
     coords: [113.9547, 22.2575],
@@ -136,6 +139,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-lion-rock-nature-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Lion Rock", hu: "Oroszlán-szikla", ro: "Lion Rock", en: "Lion Rock" },
     coords: [114.1884, 22.3524],
@@ -180,6 +184,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-dragons-back-nature-v2",
+    parent: "HK",
     type: "mountain",
     name: { de: "Dragon's Back", hu: "Sárkányhát", ro: "Dragon's Back", en: "Dragon's Back" },
     coords: [114.2411, 22.2347],
@@ -224,6 +229,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-po-toi-island-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Po Toi Island", hu: "Po Toi-sziget", ro: "Insula Po Toi", en: "Po Toi Island" },
     coords: [114.2547, 22.1706],
@@ -268,6 +274,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-high-island-reservoir-nature-v2",
+    parent: "HK",
     type: "lake",
     name: { de: "High Island Reservoir", hu: "High Island-víztározó", ro: "Rezervorul High Island", en: "High Island Reservoir" },
     coords: [114.35, 22.3667],
@@ -312,6 +319,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-plover-cove-reservoir-nature-v2",
+    parent: "HK",
     type: "lake",
     name: { de: "Plover Cove Reservoir", hu: "Plover Cove-víztározó", ro: "Rezervorul Plover Cove", en: "Plover Cove Reservoir" },
     coords: [114.2667, 22.45],
@@ -356,6 +364,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-ng-tung-chai-waterfalls-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ng Tung Chai Waterfalls", hu: "Ng Tung Chai-vízesések", ro: "Cascadele Ng Tung Chai", en: "Ng Tung Chai Waterfalls" },
     coords: [114.1333, 22.4333],
@@ -400,6 +409,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-brides-pool-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Bride's Pool", hu: "Bride's Pool", ro: "Bride's Pool", en: "Bride's Pool" },
     coords: [114.2333, 22.4833],
@@ -444,6 +454,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-mirror-pool-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Mirror Pool", hu: "Mirror Pool", ro: "Mirror Pool", en: "Mirror Pool" },
     coords: [114.2355, 22.4845],
@@ -488,6 +499,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-sharp-island-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Sharp Island", hu: "Kiu Tsui Chau", ro: "Insula Sharp", en: "Sharp Island" },
     coords: [114.3, 22.3667],
@@ -532,6 +544,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-tung-ping-chau-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tung Ping Chau", hu: "Tung Ping Chau", ro: "Tung Ping Chau", en: "Tung Ping Chau" },
     coords: [114.4361, 22.5444],
@@ -576,6 +589,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-pat-sin-leng-nature-v2",
+    parent: "HK",
     type: "mountain",
     name: { de: "Pat Sin Leng", hu: "Pat Sin Leng", ro: "Pat Sin Leng", en: "Pat Sin Leng" },
     coords: [114.2167, 22.4833],
@@ -620,6 +634,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-tai-long-wan-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tai Long Wan", hu: "Tai Long Wan", ro: "Tai Long Wan", en: "Tai Long Wan" },
     coords: [114.3667, 22.4],
@@ -664,6 +679,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-hoi-ha-wan-nature-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Hoi Ha Wan", hu: "Hoi Ha Wan", ro: "Hoi Ha Wan", en: "Hoi Ha Wan" },
     coords: [114.3333, 22.4667],
@@ -708,6 +724,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-double-haven-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Double Haven", hu: "Yan Chau Tong", ro: "Double Haven", en: "Double Haven" },
     coords: [114.3167, 22.5167],
@@ -752,6 +769,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-shing-mun-reservoir-nature-v2",
+    parent: "HK",
     type: "lake",
     name: { de: "Shing Mun Reservoir", hu: "Shing Mun-víztározó", ro: "Rezervorul Shing Mun", en: "Shing Mun Reservoir" },
     coords: [114.15, 22.3833],
@@ -796,6 +814,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-kam-shan-nature-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Kam Shan", hu: "Kam Shan", ro: "Kam Shan", en: "Kam Shan" },
     coords: [114.15, 22.3667],
@@ -840,6 +859,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-tai-tam-tuk-reservoir-nature-v2",
+    parent: "HK",
     type: "lake",
     name: { de: "Tai Tam Tuk Reservoir", hu: "Tai Tam Tuk-víztározó", ro: "Rezervorul Tai Tam Tuk", en: "Tai Tam Tuk Reservoir" },
     coords: [114.2167, 22.2333],
@@ -884,6 +904,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-cape-daguilar-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Cape D'Aguilar", hu: "Cape D'Aguilar", ro: "Cape D'Aguilar", en: "Cape D'Aguilar" },
     coords: [114.25, 22.2],
@@ -928,6 +949,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-sharp-peak-nature-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Sharp Peak", hu: "Sharp-csúcs", ro: "Sharp Peak", en: "Sharp Peak" },
     coords: [114.3667, 22.4333],
@@ -972,6 +994,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-kowloon-peak-nature-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Kowloon Peak", hu: "Kowloon-csúcs", ro: "Vârful Kowloon", en: "Kowloon Peak" },
     coords: [114.225, 22.3417],
@@ -1016,6 +1039,7 @@ export const hongkongNatureV2: POI[] = [
   },
   {
     id: "hongkong-ap-chau-nature-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ap Chau", hu: "Ap Chau", ro: "Ap Chau", en: "Ap Chau" },
     coords: [114.2686, 22.5461],

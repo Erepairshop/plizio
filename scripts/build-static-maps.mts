@@ -378,7 +378,7 @@ const COUNTRIES: Country[] = [
     names:{ de:"Vietnam", hu:"Vietnám", ro:"Vietnam", en:"Vietnam" } },
   { iso:"ye", slug:"yemen", svgFile:"yemen.svg.ts", mapVar:"yemenMap", vbVar:"yemenViewBox", projFn:"projectCoordsYE",
     names:{ de:"Jemen", hu:"Jemen", ro:"Yemen", en:"Yemen" } },
-  { iso:"hk", slug:"hongkong", svgFile:"asia.svg.ts", mapVar:"asiaMap", vbVar:"asiaViewBox", projFn:"projectCoordsAS",
+  { iso:"hk", slug:"hongkong", svgFile:"hongkong.svg.ts", mapVar:"hongkongMap", vbVar:"hongkongViewBox", projFn:"projectCoordsHK",
     names:{ de:"Hongkong", hu:"Hongkong", ro:"Hong Kong", en:"Hong Kong" } },
 
   // === Oceania (2026-05-27) ===

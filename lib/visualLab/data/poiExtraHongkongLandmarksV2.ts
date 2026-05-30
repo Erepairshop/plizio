@@ -4,6 +4,7 @@ export const hongkongLandmarksV2: POI[] = [
 
   {
     id: "hongkong-po-lin-monastery-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Po Lin Kloster", hu: "Po Lin kolostor", ro: "Mănăstirea Po Lin", en: "Po Lin Monastery" },
     coords: [113.9077, 22.2559],
@@ -48,6 +49,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-victoria-peak-tower-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Peak Tower", hu: "Peak Tower", ro: "Turnul Peak", en: "Peak Tower" },
     coords: [114.1497, 22.2708],
@@ -92,6 +94,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-tsim-sha-tsui-clock-tower-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Uhrturm von Tsim Sha Tsui", hu: "Tsim Sha Tsui óratorony", ro: "Turnul cu Ceas Tsim Sha Tsui", en: "Tsim Sha Tsui Clock Tower" },
     coords: [114.1693, 22.2937],
@@ -136,6 +139,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-convention-exhibition-centre-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Hong Kong Convention Centre", hu: "Hong Kong-i Kongresszusi Központ", ro: "Centrul de Convenții Hong Kong", en: "Hong Kong Convention Centre" },
     coords: [114.1736, 22.2831],
@@ -180,6 +184,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-observation-wheel-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Hong Kong Riesenrad", hu: "Hongkongi óriáskerék", ro: "Roata de Observare Hong Kong", en: "Hong Kong Observation Wheel" },
     coords: [114.1623, 22.2852],
@@ -224,6 +229,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-statue-square-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Statue Square", hu: "Statue Square", ro: "Piața Statuii", en: "Statue Square" },
     coords: [114.1601, 22.2811],
@@ -268,6 +274,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-cenotaph-landmarks-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Kenotaph", hu: "Kenotáfium", ro: "Cenotaf", en: "Cenotaph" },
     coords: [114.161, 22.2818],
@@ -312,6 +319,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-court-of-final-appeal-building-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Gerichtshof für letzte Instanz", hu: "Végső fellebbviteli bíróság", ro: "Curtea de Apel Final", en: "Court of Final Appeal" },
     coords: [114.1604, 22.2812],
@@ -356,6 +364,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-st-johns-cathedral-landmarks-v2",
+    parent: "HK",
     type: "cathedral",
     name: { de: "St. John's Kathedrale", hu: "Szent János-székesegyház", ro: "Catedrala Sfântul Ioan", en: "St. John's Cathedral" },
     coords: [114.1598, 22.2792],
@@ -400,6 +409,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-museum-of-art-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Museum of Art", hu: "Hongkongi Művészeti Múzeum", ro: "Muzeul de Artă Hong Kong", en: "Hong Kong Museum of Art" },
     coords: [114.1724, 22.2935],
@@ -444,6 +454,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-museum-of-history-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Museum of History", hu: "Hongkongi Történeti Múzeum", ro: "Muzeul de Istorie Hong Kong", en: "Hong Kong Museum of History" },
     coords: [114.1775, 22.3019],
@@ -488,6 +499,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-science-museum-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Science Museum", hu: "Hongkongi Tudományos Múzeum", ro: "Muzeul de Știință Hong Kong", en: "Hong Kong Science Museum" },
     coords: [114.1774, 22.3011],
@@ -532,6 +544,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-space-museum-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Space Museum", hu: "Hongkongi Űrmúzeum", ro: "Muzeul Spațial Hong Kong", en: "Hong Kong Space Museum" },
     coords: [114.1718, 22.2941],
@@ -576,6 +589,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-m-plus-museum-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "M+ Museum", hu: "M+ Múzeum", ro: "Muzeul M+", en: "M+ Museum" },
     coords: [114.1596, 22.3011],
@@ -620,6 +634,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-palace-museum-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Palace Museum", hu: "Hongkongi Palotamúzeum", ro: "Muzeul Palatului Hong Kong", en: "Hong Kong Palace Museum" },
     coords: [114.1555, 22.3015],
@@ -664,6 +679,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-tsing-ma-bridge-landmarks-v2",
+    parent: "HK",
     type: "bridge",
     name: { de: "Tsing Ma Brücke", hu: "Tsing Ma híd", ro: "Podul Tsing Ma", en: "Tsing Ma Bridge" },
     coords: [114.0722, 22.3512],
@@ -708,6 +724,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-stonecutters-bridge-landmarks-v2",
+    parent: "HK",
     type: "bridge",
     name: { de: "Stonecutters Brücke", hu: "Stonecutters híd", ro: "Podul Stonecutters", en: "Stonecutters Bridge" },
     coords: [114.12, 22.3275],
@@ -752,6 +769,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-legislative-council-complex-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Legislativrat-Komplex", hu: "Törvényhozó Tanács épülete", ro: "Complexul Consiliului Legislativ", en: "Legislative Council Complex" },
     coords: [114.1651, 22.2817],
@@ -796,6 +814,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-ten-thousand-buddhas-monastery-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Kloster der Zehntausend Buddhas", hu: "Tízezer Buddha kolostora", ro: "Mănăstirea celor Zece Mii de Buddha", en: "Ten Thousand Buddhas Monastery" },
     coords: [114.1848, 22.3876],
@@ -840,6 +859,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-chi-lin-nunnery-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Chi Lin Nonnenkloster", hu: "Chi Lin apácazárda", ro: "Mănăstirea Chi Lin", en: "Chi Lin Nunnery" },
     coords: [114.2052, 22.34],
@@ -884,6 +904,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-nan-lian-garden-pavilion-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Nan Lian Garten Pavillon", hu: "Nan Lian kert pavilon", ro: "Pavilionul Grădinii Nan Lian", en: "Nan Lian Garden Pavilion" },
     coords: [114.2045, 22.3392],
@@ -928,6 +949,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-central-mid-levels-escalator-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Mid-Levels Rolltreppe", hu: "Mid-Levels mozgólépcső", ro: "Scara Rulantă Mid-Levels", en: "Mid-Levels Escalator" },
     coords: [114.1545, 22.2842],
@@ -972,6 +994,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-aberdeen-floating-village-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Aberdeen Floating Village", hu: "Aberdeen úszó falu", ro: "Satul Plutitor Aberdeen", en: "Aberdeen Floating Village" },
     coords: [114.1535, 22.2458],
@@ -1016,6 +1039,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-repulse-bay-tin-hau-temple-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Repulse Bay Tin Hau Tempel", hu: "Repulse Bay Tin Hau templom", ro: "Templul Tin Hau din Repulse Bay", en: "Repulse Bay Tin Hau Temple" },
     coords: [114.1972, 22.2355],
@@ -1060,6 +1084,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-university-hall-hku-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "University Hall", hu: "University Hall", ro: "University Hall", en: "University Hall" },
     coords: [114.1278, 22.2635],
@@ -1104,6 +1129,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-cultural-centre-landmarks-v2",
+    parent: "HK",
     type: "theater",
     name: { de: "Hong Kong Cultural Centre", hu: "Hongkongi Kulturális Központ", ro: "Centrul Cultural Hong Kong", en: "Hong Kong Cultural Centre" },
     coords: [114.1706, 22.294],
@@ -1148,6 +1174,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-city-hall-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Hong Kong City Hall", hu: "Hongkongi városháza", ro: "Primăria Hong Kong", en: "Hong Kong City Hall" },
     coords: [114.1616, 22.2825],
@@ -1180,6 +1207,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-sun-yat-sen-museum-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Dr. Sun Yat-sen Museum", hu: "Dr. Sun Yat-sen Múzeum", ro: "Muzeul Dr. Sun Yat-sen", en: "Dr Sun Yat-sen Museum" },
     coords: [114.1508, 22.2817],
@@ -1224,6 +1252,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-railway-museum-tai-po-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Railway Museum", hu: "Hongkongi Vasúti Múzeum", ro: "Muzeul Căilor Ferate Hong Kong", en: "Hong Kong Railway Museum" },
     coords: [114.1654, 22.4478],
@@ -1268,6 +1297,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-hopewell-centre-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Hopewell Centre", hu: "Hopewell Centre", ro: "Centrul Hopewell", en: "Hopewell Centre" },
     coords: [114.172, 22.2745],
@@ -1312,6 +1342,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-central-plaza-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Central Plaza", hu: "Central Plaza", ro: "Central Plaza", en: "Central Plaza" },
     coords: [114.173, 22.28],
@@ -1356,6 +1387,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-the-center-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "The Center", hu: "The Center", ro: "The Center", en: "The Center" },
     coords: [114.1544, 22.2844],
@@ -1400,6 +1432,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-nina-tower-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Nina Tower", hu: "Nina Tower", ro: "Turnul Nina", en: "Nina Tower" },
     coords: [114.112, 22.368],
@@ -1444,6 +1477,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-langham-place-office-tower-landmarks-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Langham Place Turm", hu: "Langham Place torony", ro: "Turnul Langham Place", en: "Langham Place Tower" },
     coords: [114.1685, 22.3185],
@@ -1488,6 +1522,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-citygate-outlets-tung-chung-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Citygate Outlets", hu: "Citygate Outlets", ro: "Citygate Outlets", en: "Citygate Outlets" },
     coords: [113.941, 22.289],
@@ -1532,6 +1567,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-elements-mall-west-kowloon-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Elements Mall", hu: "Elements Mall", ro: "Mall Elements", en: "Elements Mall" },
     coords: [114.161, 22.304],
@@ -1576,6 +1612,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-harbour-city-tsim-sha-tsui-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Harbour City", hu: "Harbour City", ro: "Harbour City", en: "Harbour City" },
     coords: [114.168, 22.298],
@@ -1620,6 +1657,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-ocean-park-summit-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ocean Park Summit", hu: "Ocean Park Summit", ro: "Ocean Park Summit", en: "Ocean Park Summit" },
     coords: [114.174, 22.231],
@@ -1664,6 +1702,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-disneyland-sleeping-beauty-castle-landmarks-v2",
+    parent: "HK",
     type: "castle",
     name: { de: "Castle of Magical Dreams", hu: "Castle of Magical Dreams", ro: "Castelul Viselor Magice", en: "Castle of Magical Dreams" },
     coords: [114.0413, 22.313],
@@ -1708,6 +1747,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-wun-chuen-sin-koon-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Wun Chuen Sin Koon", hu: "Wun Chuen Sin Koon", ro: "Wun Chuen Sin Koon", en: "Wun Chuen Sin Koon" },
     coords: [114.155, 22.528],
@@ -1752,6 +1792,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-maclehose-trail-marker-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "MacLehose Trail Startpunkt", hu: "MacLehose-ösvény kezdőpontja", ro: "Punctul de start MacLehose Trail", en: "MacLehose Trail Start Point" },
     coords: [114.321, 22.378],
@@ -1796,6 +1837,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-kwun-tong-promenade-landmarks-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Kwun Tong Promenade", hu: "Kwun Tong sétány", ro: "Faleza Kwun Tong", en: "Kwun Tong Promenade" },
     coords: [114.218, 22.312],
@@ -1840,6 +1882,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-tai-o-heritage-hotel-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tai O Heritage Hotel", hu: "Tai O Heritage Hotel", ro: "Tai O Heritage Hotel", en: "Tai O Heritage Hotel" },
     coords: [113.858, 22.254],
@@ -1884,6 +1927,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-ping-shan-heritage-trail-hall-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ancestral Hall Ping Shan", hu: "Ancestral Hall Ping Shan", ro: "Sala Ancestrală Ping Shan", en: "Ancestral Hall Ping Shan" },
     coords: [114.008, 22.446],
@@ -1928,6 +1972,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-university-museum-art-gallery-landmarks-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "UMAG Hong Kong", hu: "UMAG Hongkong", ro: "UMAG Hong Kong", en: "UMAG Hong Kong" },
     coords: [114.139, 22.284],
@@ -1972,6 +2017,7 @@ export const hongkongLandmarksV2: POI[] = [
   },
   {
     id: "hongkong-tai-kwun-prison-yard-landmarks-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tai Kwun Gefängnishof", hu: "Tai Kwun börtönudvar", ro: "Curtea închisorii Tai Kwun", en: "Tai Kwun Prison Yard" },
     coords: [114.154, 22.281],

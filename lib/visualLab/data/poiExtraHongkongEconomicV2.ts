@@ -4,6 +4,7 @@ export const hongkongEconomicV2: POI[] = [
 
   {
     id: "hongkong-central-district-economic-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Central Business District", hu: "Központi üzleti negyed", ro: "Districtul financiar Central", en: "Central Business District" },
     coords: [114.1581, 22.2819],
@@ -48,6 +49,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-kwai-tsing-container-terminals-economic-v2",
+    parent: "HK",
     type: "port",
     name: { de: "Kwai Tsing Containerterminals", hu: "Kwai Tsing konténerterminál", ro: "Terminalul de containere Kwai Tsing", en: "Kwai Tsing Container Terminals" },
     coords: [114.1256, 22.3389],
@@ -92,6 +94,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-international-airport-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Internationaler Flughafen Hongkong", hu: "Hongkongi nemzetközi repülőtér", ro: "Aeroportul Internațional Hong Kong", en: "Hong Kong International Airport" },
     coords: [113.9147, 22.3089],
@@ -136,6 +139,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-international-commerce-centre-economic-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "International Commerce Centre", hu: "International Commerce Centre", ro: "Centrul Comercial Internațional", en: "International Commerce Centre" },
     coords: [114.1602, 22.3033],
@@ -180,6 +184,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-two-international-finance-centre-economic-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Two International Finance Centre", hu: "Two International Finance Centre", ro: "Two International Finance Centre", en: "Two International Finance Centre" },
     coords: [114.1592, 22.2858],
@@ -224,6 +229,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-cyberport-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Cyberport", hu: "Cyberport", ro: "Cyberport", en: "Cyberport" },
     coords: [114.1297, 22.2611],
@@ -268,6 +274,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-science-park-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Hong Kong Science Park", hu: "Hongkongi Tudományos Park", ro: "Parcul Științific Hong Kong", en: "Hong Kong Science Park" },
     coords: [114.2106, 22.4286],
@@ -312,6 +319,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-bank-of-china-tower-economic-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Bank of China Tower", hu: "Bank of China Tower", ro: "Turnul Bank of China", en: "Bank of China Tower" },
     coords: [114.1614, 22.2792],
@@ -356,6 +364,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-hsbc-main-building-economic-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "HSBC Main Building", hu: "HSBC főépület", ro: "Clădirea principală HSBC", en: "HSBC Main Building" },
     coords: [114.1594, 22.2803],
@@ -400,6 +409,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-exchange-square-economic-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Exchange Square", hu: "Exchange Square", ro: "Exchange Square", en: "Exchange Square" },
     coords: [114.1581, 22.2842],
@@ -444,6 +454,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-convention-exhibition-centre-economic-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "HK Convention and Exhibition Centre", hu: "Hongkongi Kongresszusi és Kiállítási Központ", ro: "Centrul de Convenții și Expoziții HK", en: "HK Convention and Exhibition Centre" },
     coords: [114.1736, 22.2831],
@@ -488,6 +499,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-tai-po-industrial-estate-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Tai Po Industrial Estate", hu: "Tai Po ipari negyed", ro: "Zona industrială Tai Po", en: "Tai Po Industrial Estate" },
     coords: [114.1864, 22.4608],
@@ -532,6 +544,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-yuen-long-industrial-estate-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Yuen Long Industrial Estate", hu: "Yuen Long ipari negyed", ro: "Zona industrială Yuen Long", en: "Yuen Long Industrial Estate" },
     coords: [114.0247, 22.4703],
@@ -576,6 +589,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-tseung-kwan-o-industrial-estate-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Tseung Kwan O Industrial Estate", hu: "Tseung Kwan O ipari negyed", ro: "Zona industrială Tseung Kwan O", en: "Tseung Kwan O Industrial Estate" },
     coords: [114.2739, 22.2858],
@@ -620,6 +634,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-tsim-sha-tsui-commercial-economic-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Tsim Sha Tsui Handelsviertel", hu: "Tsim Sha Tsui kereskedelmi negyed", ro: "Districtul comercial Tsim Sha Tsui", en: "Tsim Sha Tsui Commercial District" },
     coords: [114.1722, 22.2988],
@@ -664,6 +679,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-causeway-bay-economic-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Causeway Bay", hu: "Causeway Bay", ro: "Causeway Bay", en: "Causeway Bay" },
     coords: [114.185, 22.2806],
@@ -708,6 +724,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-quarry-bay-taikoo-place-economic-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Quarry Bay (Taikoo Place)", hu: "Quarry Bay (Taikoo Place)", ro: "Quarry Bay (Taikoo Place)", en: "Quarry Bay (Taikoo Place)" },
     coords: [114.2125, 22.2861],
@@ -752,6 +769,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-kwun-tong-business-area-economic-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Kwun Tong Geschäftsviertel", hu: "Kwun Tong üzleti negyed", ro: "Zona de afaceri Kwun Tong", en: "Kwun Tong Business Area" },
     coords: [114.2217, 22.3131],
@@ -796,6 +814,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-kowloon-bay-business-district-economic-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Kowloon Bay Geschäftsviertel", hu: "Kowloon Bay üzleti negyed", ro: "Districtul de afaceri Kowloon Bay", en: "Kowloon Bay Business District" },
     coords: [114.2094, 22.3217],
@@ -840,6 +859,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-sheung-wan-trade-area-economic-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Sheung Wan Handelsviertel", hu: "Sheung Wan kereskedelmi negyed", ro: "Zona comercială Sheung Wan", en: "Sheung Wan Trade Area" },
     coords: [114.1506, 22.2856],
@@ -884,6 +904,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-mong-kok-retail-economic-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Mong Kok Einzelhandelsviertel", hu: "Mong Kok kiskereskedelmi negyed", ro: "Districtul de retail Mong Kok", en: "Mong Kok Retail District" },
     coords: [114.1694, 22.3197],
@@ -928,6 +949,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-hzmb-port-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "HZMB Hongkong Port", hu: "HZMB Hongkongi kikötő", ro: "Portul HZMB Hong Kong", en: "HZMB Hong Kong Port" },
     coords: [113.9536, 22.3025],
@@ -972,6 +994,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-lamma-power-station-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Kraftwerk Lamma", hu: "Lamma erőmű", ro: "Centrala electrică Lamma", en: "Lamma Power Station" },
     coords: [114.1114, 22.215],
@@ -1016,6 +1039,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-black-point-power-station-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Kraftwerk Black Point", hu: "Black Point erőmű", ro: "Centrala electrică Black Point", en: "Black Point Power Station" },
     coords: [113.9114, 22.4117],
@@ -1060,6 +1084,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-castle-peak-power-station-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Kraftwerk Castle Peak", hu: "Castle Peak erőmű", ro: "Centrala electrică Castle Peak", en: "Castle Peak Power Station" },
     coords: [113.9208, 22.3756],
@@ -1104,6 +1129,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-pacific-place-economic-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Pacific Place", hu: "Pacific Place", ro: "Pacific Place", en: "Pacific Place" },
     coords: [114.165, 22.2775],
@@ -1148,6 +1174,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-lippo-centre-economic-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Lippo Centre", hu: "Lippo Centre", ro: "Centrul Lippo", en: "Lippo Centre" },
     coords: [114.1625, 22.2797],
@@ -1192,6 +1219,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-jardine-house-economic-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Jardine House", hu: "Jardine House", ro: "Jardine House", en: "Jardine House" },
     coords: [114.1594, 22.2828],
@@ -1236,6 +1264,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-skycity-airport-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "SkyCity", hu: "SkyCity", ro: "SkyCity", en: "SkyCity" },
     coords: [113.9381, 22.3081],
@@ -1280,6 +1309,7 @@ export const hongkongEconomicV2: POI[] = [
   },
   {
     id: "hongkong-stonecutters-island-infrastructure-economic-v2",
+    parent: "HK",
     type: "industry",
     name: { de: "Stonecutters Island Infrastruktur", hu: "Stonecutters-szigeti infrastruktúra", ro: "Infrastructura Insulei Stonecutters", en: "Stonecutters Island Infrastructure" },
     coords: [114.1331, 22.3247],

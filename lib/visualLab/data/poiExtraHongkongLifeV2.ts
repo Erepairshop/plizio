@@ -4,6 +4,7 @@ export const hongkongLifeV2: POI[] = [
 
   {
     id: "hongkong-mai-po-nature-reserve-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Mai Po Naturschutzgebiet", hu: "Mai Po Természetvédelmi Terület", ro: "Rezervația Naturală Mai Po", en: "Mai Po Nature Reserve" },
     coords: [114.037, 22.484],
@@ -48,6 +49,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-wetland-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Hongkong Wetland Park", hu: "Hong Kong Vizes Élőhely Park", ro: "Parcul Zonelor Umede Hong Kong", en: "Hong Kong Wetland Park" },
     coords: [113.992, 22.468],
@@ -92,6 +94,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-lantau-south-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Lantau South Country Park", hu: "Dél-Lantau Vidéki Park", ro: "Parcul Lantau de Sud", en: "Lantau South Country Park" },
     coords: [113.923, 22.247],
@@ -136,6 +139,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-sai-kung-east-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Sai Kung East Country Park", hu: "Kelet-Sai Kung Vidéki Park", ro: "Parcul Sai Kung de Est", en: "Sai Kung East Country Park" },
     coords: [114.373, 22.394],
@@ -180,6 +184,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-zoological-botanical-gardens-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Zoologischer und Botanischer Garten", hu: "Zoológiai és Botanikus Kert", ro: "Grădinile Zoologice și Botanice", en: "Zoological and Botanical Gardens" },
     coords: [114.155, 22.277],
@@ -224,6 +229,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-kadoorie-farm-botanic-garden-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Kadoorie Farm und Botanischer Garten", hu: "Kadoorie Farm és Botanikus Kert", ro: "Ferma și Grădina Botanică Kadoorie", en: "Kadoorie Farm and Botanic Garden" },
     coords: [114.118, 22.428],
@@ -268,6 +274,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-hoi-ha-wan-marine-park-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Hoi Ha Wan Marinepark", hu: "Hoi Ha Wan Tengeri Park", ro: "Parcul Marin Hoi Ha Wan", en: "Hoi Ha Wan Marine Park" },
     coords: [114.333, 22.467],
@@ -312,6 +319,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-tai-po-kau-nature-reserve-life-v2",
+    parent: "HK",
     type: "forest",
     name: { de: "Tai Po Kau Naturschutzgebiet", hu: "Tai Po Kau Természetvédelmi Terület", ro: "Rezervația Naturală Tai Po Kau", en: "Tai Po Kau Nature Reserve" },
     coords: [114.185, 22.428],
@@ -356,6 +364,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-plover-cove-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Plover Cove Country Park", hu: "Plover Cove Vidéki Park", ro: "Parcul Plover Cove", en: "Plover Cove Country Park" },
     coords: [114.283, 22.483],
@@ -400,6 +409,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-shing-mun-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Shing Mun Country Park", hu: "Shing Mun Vidéki Park", ro: "Parcul Shing Mun", en: "Shing Mun Country Park" },
     coords: [114.152, 22.385],
@@ -444,6 +454,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-lion-rock-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Lion Rock Country Park", hu: "Lion Rock Vidéki Park", ro: "Parcul Lion Rock", en: "Lion Rock Country Park" },
     coords: [114.179, 22.355],
@@ -488,6 +499,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-kam-shan-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Kam Shan Country Park", hu: "Kam Shan Vidéki Park", ro: "Parcul Kam Shan", en: "Kam Shan Country Park" },
     coords: [114.155, 22.361],
@@ -532,6 +544,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-aberdeen-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Aberdeen Country Park", hu: "Aberdeen Vidéki Park", ro: "Parcul Aberdeen", en: "Aberdeen Country Park" },
     coords: [114.167, 22.257],
@@ -576,6 +589,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-pok-fu-lam-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Pok Fu Lam Country Park", hu: "Pok Fu Lam Vidéki Park", ro: "Parcul Pok Fu Lam", en: "Pok Fu Lam Country Park" },
     coords: [114.142, 22.262],
@@ -620,6 +634,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-victoria-peak-garden-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Victoria Peak Garten", hu: "Victoria-csúcs kert", ro: "Grădina Victoria Peak", en: "Victoria Peak Garden" },
     coords: [114.143, 22.274],
@@ -664,6 +679,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-nan-lian-garden-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Nan Lian Garten", hu: "Nan Lian kert", ro: "Grădina Nan Lian", en: "Nan Lian Garden" },
     coords: [114.204, 22.339],
@@ -708,6 +724,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Hongkong Park", hu: "Hong Kong Park", ro: "Parcul Hong Kong", en: "Hong Kong Park" },
     coords: [114.161, 22.277],
@@ -752,6 +769,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-kowloon-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Kowloon Park", hu: "Kowloon Park", ro: "Parcul Kowloon", en: "Kowloon Park" },
     coords: [114.17, 22.301],
@@ -796,6 +814,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-edward-youde-aviary-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Edward Youde Voliere", hu: "Edward Youde madárház", ro: "Voliera Edward Youde", en: "Edward Youde Aviary" },
     coords: [114.162, 22.277],
@@ -840,6 +859,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-ma-wan-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Ma Wan Park", hu: "Ma Wan Park", ro: "Parcul Ma Wan", en: "Ma Wan Park" },
     coords: [114.062, 22.349],
@@ -884,6 +904,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-nam-sang-wai-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Nam Sang Wai", hu: "Nam Sang Wai", ro: "Nam Sang Wai", en: "Nam Sang Wai" },
     coords: [114.037, 22.454],
@@ -928,6 +949,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-long-valley-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Long Valley", hu: "Long Valley", ro: "Long Valley", en: "Long Valley" },
     coords: [114.113, 22.505],
@@ -972,6 +994,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-cape-daguilar-marine-reserve-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Cape D'Aguilar Meeresreservat", hu: "Cape D'Aguilar Tengeri Rezervátum", ro: "Rezervația Marină Cape D'Aguilar", en: "Cape D'Aguilar Marine Reserve" },
     coords: [114.258, 22.209],
@@ -1016,6 +1039,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-sha-chau-lung-kwu-chau-marine-park-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Sha Chau Meerespark", hu: "Sha Chau Tengeri Park", ro: "Parcul Marin Sha Chau", en: "Sha Chau and Lung Kwu Chau Marine Park" },
     coords: [113.882, 22.348],
@@ -1060,6 +1084,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-yan-chau-tong-marine-park-life-v2",
+    parent: "HK",
     type: "wildlife",
     name: { de: "Yan Chau Tong Marinepark", hu: "Yan Chau Tong Tengeri Park", ro: "Parcul Marin Yan Chau Tong", en: "Yan Chau Tong Marine Park" },
     coords: [114.274, 22.511],
@@ -1104,6 +1129,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-tung-lung-chau-special-area-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Tung Lung Chau Sondergebiet", hu: "Tung Lung Chau különleges terület", ro: "Zona Specială Tung Lung Chau", en: "Tung Lung Chau Special Area" },
     coords: [114.288, 22.253],
@@ -1148,6 +1174,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-lung-fu-shan-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Lung Fu Shan Country Park", hu: "Lung Fu Shan Vidéki Park", ro: "Parcul Lung Fu Shan", en: "Lung Fu Shan Country Park" },
     coords: [114.135, 22.279],
@@ -1192,6 +1219,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-shek-o-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Shek O Country Park", hu: "Shek O Vidéki Park", ro: "Parcul Shek O", en: "Shek O Country Park" },
     coords: [114.238, 22.235],
@@ -1236,6 +1264,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-tai-tam-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Tai Tam Country Park", hu: "Tai Tam Vidéki Park", ro: "Parcul Tai Tam", en: "Tai Tam Country Park" },
     coords: [114.214, 22.253],
@@ -1280,6 +1309,7 @@ export const hongkongLifeV2: POI[] = [
   },
   {
     id: "hongkong-clear-water-bay-country-park-life-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Clear Water Bay Country Park", hu: "Clear Water Bay Vidéki Park", ro: "Parcul Clear Water Bay", en: "Clear Water Bay Country Park" },
     coords: [114.291, 22.296],

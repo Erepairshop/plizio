@@ -4,6 +4,7 @@ export const hongkongCitiesV2: POI[] = [
 
   {
     id: "hongkong-central-cities-v2",
+    parent: "HK",
     type: "capital",
     name: { de: "Central", hu: "Central", ro: "Central", en: "Central" },
     coords: [114.1581, 22.2819],
@@ -48,6 +49,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tsim-sha-tsui-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Tsim Sha Tsui", hu: "Tsim Sha Tsui", ro: "Tsim Sha Tsui", en: "Tsim Sha Tsui" },
     coords: [114.1722, 22.2988],
@@ -92,6 +94,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sha-tin-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Sha Tin", hu: "Sha Tin", ro: "Sha Tin", en: "Sha Tin" },
     coords: [114.1889, 22.3813],
@@ -136,6 +139,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tuen-mun-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tuen Mun", hu: "Tuen Mun", ro: "Tuen Mun", en: "Tuen Mun" },
     coords: [113.9778, 22.3916],
@@ -180,6 +184,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tsuen-wan-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tsuen Wan", hu: "Tsuen Wan", ro: "Tsuen Wan", en: "Tsuen Wan" },
     coords: [114.1131, 22.3686],
@@ -224,6 +229,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-mong-kok-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Mong Kok", hu: "Mong Kok", ro: "Mong Kok", en: "Mong Kok" },
     coords: [114.1697, 22.3204],
@@ -268,6 +274,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-yuen-long-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Yuen Long", hu: "Yuen Long", ro: "Yuen Long", en: "Yuen Long" },
     coords: [114.0256, 22.4447],
@@ -312,6 +319,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tai-po-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tai Po", hu: "Tai Po", ro: "Tai Po", en: "Tai Po" },
     coords: [114.1642, 22.4508],
@@ -356,6 +364,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tseung-kwan-o-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tseung Kwan O", hu: "Tseung Kwan O", ro: "Tseung Kwan O", en: "Tseung Kwan O" },
     coords: [114.2639, 22.3132],
@@ -400,6 +409,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-kwun-tong-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Kwun Tong", hu: "Kwun Tong", ro: "Kwun Tong", en: "Kwun Tong" },
     coords: [114.2259, 22.3133],
@@ -444,6 +454,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-wan-chai-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Wan Chai", hu: "Wan Chai", ro: "Wan Chai", en: "Wan Chai" },
     coords: [114.173, 22.276],
@@ -488,6 +499,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-north-point-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "North Point", hu: "North Point", ro: "North Point", en: "North Point" },
     coords: [114.195, 22.29],
@@ -532,6 +544,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-stanley-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Stanley", hu: "Stanley", ro: "Stanley", en: "Stanley" },
     coords: [114.2127, 22.2185],
@@ -576,6 +589,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sai-kung-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Sai Kung", hu: "Sai Kung", ro: "Sai Kung", en: "Sai Kung" },
     coords: [114.2705, 22.3814],
@@ -620,6 +634,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tung-chung-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tung Chung", hu: "Tung Chung", ro: "Tung Chung", en: "Tung Chung" },
     coords: [113.9419, 22.2891],
@@ -664,6 +679,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sheung-shui-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Sheung Shui", hu: "Sheung Shui", ro: "Sheung Shui", en: "Sheung Shui" },
     coords: [114.1278, 22.5011],
@@ -708,6 +724,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-fanling-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Fanling", hu: "Fanling", ro: "Fanling", en: "Fanling" },
     coords: [114.1396, 22.4925],
@@ -752,6 +769,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ma-on-shan-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Ma On Shan", hu: "Ma On Shan", ro: "Ma On Shan", en: "Ma On Shan" },
     coords: [114.2312, 22.4245],
@@ -796,6 +814,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tin-shui-wai-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tin Shui Wai", hu: "Tin Shui Wai", ro: "Tin Shui Wai", en: "Tin Shui Wai" },
     coords: [113.9986, 22.4555],
@@ -840,6 +859,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tsing-yi-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tsing Yi", hu: "Tsing Yi", ro: "Tsing Yi", en: "Tsing Yi" },
     coords: [114.1064, 22.3522],
@@ -884,6 +904,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tai-wai-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tai Wai", hu: "Tai Wai", ro: "Tai Wai", en: "Tai Wai" },
     coords: [114.1782, 22.3738],
@@ -928,6 +949,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-fo-tan-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Fo Tan", hu: "Fo Tan", ro: "Fo Tan", en: "Fo Tan" },
     coords: [114.1921, 22.3969],
@@ -972,6 +994,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sham-shui-po-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Sham Shui Po", hu: "Sham Shui Po", ro: "Sham Shui Po", en: "Sham Shui Po" },
     coords: [114.1622, 22.3307],
@@ -1016,6 +1039,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-kowloon-tong-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Kowloon Tong", hu: "Kowloon Tong", ro: "Kowloon Tong", en: "Kowloon Tong" },
     coords: [114.1772, 22.3361],
@@ -1060,6 +1084,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-wong-tai-sin-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Wong Tai Sin", hu: "Wong Tai Sin", ro: "Wong Tai Sin", en: "Wong Tai Sin" },
     coords: [114.1932, 22.3421],
@@ -1104,6 +1129,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-diamond-hill-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Diamond Hill", hu: "Diamond Hill", ro: "Diamond Hill", en: "Diamond Hill" },
     coords: [114.2019, 22.3411],
@@ -1148,6 +1174,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ngau-tau-kok-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Ngau Tau Kok", hu: "Ngau Tau Kok", ro: "Ngau Tau Kok", en: "Ngau Tau Kok" },
     coords: [114.2152, 22.3204],
@@ -1192,6 +1219,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lam-tin-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Lam Tin", hu: "Lam Tin", ro: "Lam Tin", en: "Lam Tin" },
     coords: [114.2356, 22.3088],
@@ -1236,6 +1264,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-yau-tong-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Yau Tong", hu: "Yau Tong", ro: "Yau Tong", en: "Yau Tong" },
     coords: [114.2381, 22.2995],
@@ -1280,6 +1309,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-quarry-bay-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Quarry Bay", hu: "Quarry Bay", ro: "Quarry Bay", en: "Quarry Bay" },
     coords: [114.2132, 22.2855],
@@ -1324,6 +1354,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-shau-kei-wan-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Shau Kei Wan", hu: "Shau Kei Wan", ro: "Shau Kei Wan", en: "Shau Kei Wan" },
     coords: [114.2291, 22.2795],
@@ -1368,6 +1399,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-chai-wan-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Chai Wan", hu: "Chai Wan", ro: "Chai Wan", en: "Chai Wan" },
     coords: [114.2364, 22.2642],
@@ -1412,6 +1444,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-kennedy-town-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Kennedy Town", hu: "Kennedy Town", ro: "Kennedy Town", en: "Kennedy Town" },
     coords: [114.1289, 22.2825],
@@ -1456,6 +1489,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sheung-wan-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Sheung Wan", hu: "Sheung Wan", ro: "Sheung Wan", en: "Sheung Wan" },
     coords: [114.1512, 22.2865],
@@ -1500,6 +1534,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-admiralty-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Admiralty", hu: "Admiralty", ro: "Admiralty", en: "Admiralty" },
     coords: [114.1652, 22.2798],
@@ -1544,6 +1579,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-happy-valley-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Happy Valley", hu: "Happy Valley", ro: "Happy Valley", en: "Happy Valley" },
     coords: [114.1842, 22.2708],
@@ -1588,6 +1624,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-pok-fu-lam-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Pok Fu Lam", hu: "Pok Fu Lam", ro: "Pok Fu Lam", en: "Pok Fu Lam" },
     coords: [114.1342, 22.2671],
@@ -1632,6 +1669,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-repulse-bay-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Repulse Bay", hu: "Repulse Bay", ro: "Repulse Bay", en: "Repulse Bay" },
     coords: [114.1972, 22.2368],
@@ -1676,6 +1714,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ap-lei-chau-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Ap Lei Chau", hu: "Ap Lei Chau", ro: "Ap Lei Chau", en: "Ap Lei Chau" },
     coords: [114.1558, 22.2442],
@@ -1720,6 +1759,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-jordan-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Jordan", hu: "Jordan", ro: "Jordan", en: "Jordan" },
     coords: [114.1712, 22.3045],
@@ -1764,6 +1804,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-yau-ma-tei-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Yau Ma Tei", hu: "Yau Ma Tei", ro: "Yau Ma Tei", en: "Yau Ma Tei" },
     coords: [114.1702, 22.3131],
@@ -1808,6 +1849,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-prince-edward-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Prince Edward", hu: "Prince Edward", ro: "Prince Edward", en: "Prince Edward" },
     coords: [114.1691, 22.3248],
@@ -1852,6 +1894,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-cheung-sha-wan-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Cheung Sha Wan", hu: "Cheung Sha Wan", ro: "Cheung Sha Wan", en: "Cheung Sha Wan" },
     coords: [114.1542, 22.3381],
@@ -1896,6 +1939,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lai-chi-kok-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Lai Chi Kok", hu: "Lai Chi Kok", ro: "Lai Chi Kok", en: "Lai Chi Kok" },
     coords: [114.1481, 22.3375],
@@ -1940,6 +1984,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-mei-foo-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Mei Foo", hu: "Mei Foo", ro: "Mei Foo", en: "Mei Foo" },
     coords: [114.1382, 22.3365],
@@ -1984,6 +2029,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-san-po-kong-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "San Po Kong", hu: "San Po Kong", ro: "San Po Kong", en: "San Po Kong" },
     coords: [114.1981, 22.3372],
@@ -2028,6 +2074,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-hung-shui-kiu-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Hung Shui Kiu", hu: "Hung Shui Kiu", ro: "Hung Shui Kiu", en: "Hung Shui Kiu" },
     coords: [113.9962, 22.4358],
@@ -2072,6 +2119,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-kam-tin-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Kam Tin", hu: "Kam Tin", ro: "Kam Tin", en: "Kam Tin" },
     coords: [114.0664, 22.4411],
@@ -2116,6 +2164,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ping-shan-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Ping Shan", hu: "Ping Shan", ro: "Ping Shan", en: "Ping Shan" },
     coords: [114.0042, 22.4422],
@@ -2160,6 +2209,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lau-fau-shan-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Lau Fau Shan", hu: "Lau Fau Shan", ro: "Lau Fau Shan", en: "Lau Fau Shan" },
     coords: [113.9856, 22.4691],
@@ -2204,6 +2254,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ha-tsuen-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Ha Tsuen", hu: "Ha Tsuen", ro: "Ha Tsuen", en: "Ha Tsuen" },
     coords: [113.9892, 22.4515],
@@ -2248,6 +2299,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sha-tau-kok-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Sha Tau Kok", hu: "Sha Tau Kok", ro: "Sha Tau Kok", en: "Sha Tau Kok" },
     coords: [114.2264, 22.5448],
@@ -2292,6 +2344,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-mui-wo-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Mui Wo", hu: "Mui Wo", ro: "Mui Wo", en: "Mui Wo" },
     coords: [113.9982, 22.2678],
@@ -2336,6 +2389,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tai-o-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Tai O", hu: "Tai O", ro: "Tai O", en: "Tai O" },
     coords: [113.8615, 22.2542],
@@ -2380,6 +2434,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-peng-chau-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Peng Chau", hu: "Peng Chau", ro: "Peng Chau", en: "Peng Chau" },
     coords: [114.0381, 22.2855],
@@ -2424,6 +2479,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-cheung-chau-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Cheung Chau", hu: "Cheung Chau", ro: "Cheung Chau", en: "Cheung Chau" },
     coords: [114.1785, 22.2075],
@@ -2468,6 +2524,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-discovery-bay-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Discovery Bay", hu: "Discovery Bay", ro: "Discovery Bay", en: "Discovery Bay" },
     coords: [114.0151, 22.3025],
@@ -2512,6 +2569,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sok-kwu-wan-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Sok Kwu Wan", hu: "Sok Kwu Wan", ro: "Sok Kwu Wan", en: "Sok Kwu Wan" },
     coords: [114.1331, 22.2045],
@@ -2556,6 +2614,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-yung-shue-wan-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Yung Shue Wan", hu: "Yung Shue Wan", ro: "Yung Shue Wan", en: "Yung Shue Wan" },
     coords: [114.1112, 22.2255],
@@ -2600,6 +2659,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tai-wai-village-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Tai Wai Village", hu: "Tai Wai Village", ro: "Tai Wai Village", en: "Tai Wai Village" },
     coords: [114.1772, 22.3752],
@@ -2644,6 +2704,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tsang-tai-uk-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Tsang Tai Uk", hu: "Tsang Tai Uk", ro: "Tsang Tai Uk", en: "Tsang Tai Uk" },
     coords: [114.1925, 22.3761],
@@ -2688,6 +2749,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sheung-shui-wai-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Sheung Shui Wai", hu: "Sheung Shui Wai", ro: "Sheung Shui Wai", en: "Sheung Shui Wai" },
     coords: [114.1242, 22.5035],
@@ -2732,6 +2794,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-fanling-wai-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Fanling Wai", hu: "Fanling Wai", ro: "Fanling Wai", en: "Fanling Wai" },
     coords: [114.1352, 22.4981],
@@ -2776,6 +2839,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lung-yeuk-tau-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Lung Yeuk Tau", hu: "Lung Yeuk Tau", ro: "Lung Yeuk Tau", en: "Lung Yeuk Tau" },
     coords: [114.1502, 22.4952],
@@ -2820,6 +2884,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-san-tin-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "San Tin", hu: "San Tin", ro: "San Tin", en: "San Tin" },
     coords: [114.0764, 22.5028],
@@ -2864,6 +2929,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-sham-tseng-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Sham Tseng", hu: "Sham Tseng", ro: "Sham Tseng", en: "Sham Tseng" },
     coords: [114.0622, 22.3664],
@@ -2908,6 +2974,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-so-kwun-wat-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "So Kwun Wat", hu: "So Kwun Wat", ro: "So Kwun Wat", en: "So Kwun Wat" },
     coords: [113.9961, 22.3735],
@@ -2952,6 +3019,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lam-tsuen-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Lam Tsuen", hu: "Lam Tsuen", ro: "Lam Tsuen", en: "Lam Tsuen" },
     coords: [114.1252, 22.4572],
@@ -2996,6 +3064,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-shek-o-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Shek O", hu: "Shek O", ro: "Shek O", en: "Shek O" },
     coords: [114.2519, 22.2305],
@@ -3040,6 +3109,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-big-wave-bay-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Big Wave Bay", hu: "Big Wave Bay", ro: "Big Wave Bay", en: "Big Wave Bay" },
     coords: [114.2482, 22.2458],
@@ -3084,6 +3154,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-pok-fu-lam-village-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Pok Fu Lam Village", hu: "Pok Fu Lam Village", ro: "Pok Fu Lam Village", en: "Pok Fu Lam Village" },
     coords: [114.1319, 22.2612],
@@ -3128,6 +3199,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-shanghai-street-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Shanghai Street", hu: "Shanghai Street", ro: "Shanghai Street", en: "Shanghai Street" },
     coords: [114.1691, 22.3115],
@@ -3172,6 +3244,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lei-yue-mun-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Lei Yue Mun", hu: "Lei Yue Mun", ro: "Lei Yue Mun", en: "Lei Yue Mun" },
     coords: [114.2395, 22.2895],
@@ -3216,6 +3289,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-lamma-island-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Lamma Island", hu: "Lamma-sziget", ro: "Insula Lamma", en: "Lamma Island" },
     coords: [114.1285, 22.2152],
@@ -3260,6 +3334,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-pui-o-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Pui O", hu: "Pui O", ro: "Pui O", en: "Pui O" },
     coords: [113.9742, 22.2385],
@@ -3304,6 +3379,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-cheung-sha-beach-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Cheung Sha", hu: "Cheung Sha", ro: "Cheung Sha", en: "Cheung Sha" },
     coords: [113.9452, 22.2335],
@@ -3348,6 +3424,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ngong-ping-cities-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Ngong Ping", hu: "Ngong Ping", ro: "Ngong Ping", en: "Ngong Ping" },
     coords: [113.9048, 22.2561],
@@ -3392,6 +3469,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tai-tam-cities-v2",
+    parent: "HK",
     type: "town",
     name: { de: "Tai Tam", hu: "Tai Tam", ro: "Tai Tam", en: "Tai Tam" },
     coords: [114.2185, 22.2352],
@@ -3436,6 +3514,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-shek-kip-mei-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Shek Kip Mei", hu: "Shek Kip Mei", ro: "Shek Kip Mei", en: "Shek Kip Mei" },
     coords: [114.1681, 22.3325],
@@ -3480,6 +3559,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-nam-cheong-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Nam Cheong", hu: "Nam Cheong", ro: "Nam Cheong", en: "Nam Cheong" },
     coords: [114.1532, 22.3278],
@@ -3524,6 +3604,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-tai-kok-tsui-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Tai Kok Tsui", hu: "Tai Kok Tsui", ro: "Tai Kok Tsui", en: "Tai Kok Tsui" },
     coords: [114.1612, 22.3215],
@@ -3568,6 +3649,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-to-kwa-wan-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "To Kwa Wan", hu: "To Kwa Wan", ro: "To Kwa Wan", en: "To Kwa Wan" },
     coords: [114.1882, 22.3164],
@@ -3612,6 +3694,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-hung-hom-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Hung Hom", hu: "Hung Hom", ro: "Hung Hom", en: "Hung Hom" },
     coords: [114.1845, 22.3032],
@@ -3656,6 +3739,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ho-man-tin-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Ho Man Tin", hu: "Ho Man Tin", ro: "Ho Man Tin", en: "Ho Man Tin" },
     coords: [114.1792, 22.3161],
@@ -3700,6 +3784,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ma-tau-wai-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Ma Tau Wai", hu: "Ma Tau Wai", ro: "Ma Tau Wai", en: "Ma Tau Wai" },
     coords: [114.1895, 22.3218],
@@ -3744,6 +3829,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-ping-shek-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Ping Shek", hu: "Ping Shek", ro: "Ping Shek", en: "Ping Shek" },
     coords: [114.2085, 22.3338],
@@ -3788,6 +3874,7 @@ export const hongkongCitiesV2: POI[] = [
   },
   {
     id: "hongkong-choi-hung-cities-v2",
+    parent: "HK",
     type: "city",
     name: { de: "Choi Hung", hu: "Choi Hung", ro: "Choi Hung", en: "Choi Hung" },
     coords: [114.2052, 22.3352],

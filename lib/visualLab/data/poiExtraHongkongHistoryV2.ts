@@ -4,6 +4,7 @@ export const hongkongHistoryV2: POI[] = [
 
   {
     id: "hongkong-sung-wong-toi-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Sung Wong Toi", hu: "Sung Wong Toi", ro: "Sung Wong Toi", en: "Sung Wong Toi" },
     coords: [114.1915, 22.3255],
@@ -48,6 +49,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-kowloon-walled-city-park-history-v2",
+    parent: "HK",
     type: "park",
     name: { de: "Kowloon Walled City Park", hu: "Kowloon Walled City Park", ro: "Kowloon Walled City Park", en: "Kowloon Walled City Park" },
     coords: [114.1903, 22.3322],
@@ -92,6 +94,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tung-chung-fort-history-v2",
+    parent: "HK",
     type: "castle",
     name: { de: "Tung Chung Fort", hu: "Tung Chung erőd", ro: "Fortul Tung Chung", en: "Tung Chung Fort" },
     coords: [113.9372, 22.2797],
@@ -136,6 +139,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-fan-lau-fort-history-v2",
+    parent: "HK",
     type: "ruins",
     name: { de: "Fan Lau Fort", hu: "Fan Lau erőd", ro: "Fortul Fan Lau", en: "Fan Lau Fort" },
     coords: [113.8542, 22.1983],
@@ -180,6 +184,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-murray-house-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Murray House", hu: "Murray House", ro: "Murray House", en: "Murray House" },
     coords: [114.2105, 22.2178],
@@ -224,6 +229,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-flagstaff-house-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Flagstaff House", hu: "Flagstaff House", ro: "Flagstaff House", en: "Flagstaff House" },
     coords: [114.1625, 22.2778],
@@ -268,6 +274,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-st-johns-cathedral-history-v2",
+    parent: "HK",
     type: "cathedral",
     name: { de: "St. John's Cathedral", hu: "Szent János-székesegyház", ro: "Catedrala Sf. Ioan", en: "St. John's Cathedral" },
     coords: [114.1594, 22.2792],
@@ -312,6 +319,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-kat-hing-wai-history-v2",
+    parent: "HK",
     type: "village",
     name: { de: "Kat Hing Wai", hu: "Kat Hing Wai", ro: "Kat Hing Wai", en: "Kat Hing Wai" },
     coords: [114.0628, 22.4452],
@@ -356,6 +364,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-sam-tung-uk-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Sam Tung Uk Museum", hu: "Sam Tung Uk Múzeum", ro: "Muzeul Sam Tung Uk", en: "Sam Tung Uk Museum" },
     coords: [114.1205, 22.3731],
@@ -400,6 +409,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-kun-ting-study-hall-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Kun Ting Study Hall", hu: "Kun Ting Tanulócsarnok", ro: "Kun Ting Study Hall", en: "Kun Ting Study Hall" },
     coords: [114.0078, 22.4447],
@@ -444,6 +454,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tang-ancestral-hall-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Tang Ancestral Hall", hu: "Tang Ősi Csarnok", ro: "Tang Ancestral Hall", en: "Tang Ancestral Hall" },
     coords: [114.0075, 22.4439],
@@ -488,6 +499,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tsui-sing-lau-pagoda-history-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Tsui Sing Lau Pagode", hu: "Tsui Sing Lau pagoda", ro: "Pagoda Tsui Sing Lau", en: "Tsui Sing Lau Pagoda" },
     coords: [114.0081, 22.4491],
@@ -532,6 +544,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-maryknoll-convent-school-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Maryknoll Convent School", hu: "Maryknoll Convent School", ro: "Maryknoll Convent School", en: "Maryknoll Convent School" },
     coords: [114.1775, 22.3275],
@@ -576,6 +589,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-blue-house-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Blue House", hu: "Kék Ház", ro: "Casa Albastră", en: "Blue House" },
     coords: [114.1744, 22.2725],
@@ -620,6 +634,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-western-market-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Western Market", hu: "Nyugati Piac", ro: "Piața de Vest", en: "Western Market" },
     coords: [114.1508, 22.2869],
@@ -664,6 +679,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-former-french-mission-building-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ehem. Gebäude der französischen Mission", hu: "Egykori Francia Missziós Épület", ro: "Fosta clădire a misiunii franceze", en: "Former French Mission Building" },
     coords: [114.1603, 22.2792],
@@ -708,6 +724,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-old-supreme-court-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Altes Oberstes Gericht", hu: "Régi Legfelsőbb Bíróság", ro: "Vechea Curte Supremă", en: "Old Supreme Court Building" },
     coords: [114.1605, 22.2813],
@@ -752,6 +769,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tst-clock-tower-history-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "TST Glockenturm", hu: "TST óratorony", ro: "Turnul cu ceas TST", en: "TST Clock Tower" },
     coords: [114.1692, 22.2936],
@@ -796,6 +814,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-peninsula-hotel-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "The Peninsula Hong Kong", hu: "The Peninsula Hong Kong", ro: "The Peninsula Hong Kong", en: "The Peninsula Hong Kong" },
     coords: [114.1719, 22.295],
@@ -840,6 +859,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-bethanie-sanatorium-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Bethanie Sanatorium", hu: "Bethanie Szanatórium", ro: "Bethanie Sanatorium", en: "Bethanie Sanatorium" },
     coords: [114.1378, 22.2475],
@@ -884,6 +904,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-lei-yue-mun-fort-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Lei Yue Mun Fort", hu: "Lei Yue Mun erőd", ro: "Fortul Lei Yue Mun", en: "Lei Yue Mun Fort" },
     coords: [114.2344, 22.2831],
@@ -928,6 +949,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-shing-mun-redoubt-history-v2",
+    parent: "HK",
     type: "battlefield",
     name: { de: "Shing Mun Redoute", hu: "Shing Mun redut", ro: "Reduta Shing Mun", en: "Shing Mun Redoubt" },
     coords: [114.1506, 22.3781],
@@ -972,6 +994,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-wong-nai-chung-gap-history-v2",
+    parent: "HK",
     type: "battlefield",
     name: { de: "Wong Nai Chung Gap", hu: "Wong Nai Chung Gap", ro: "Wong Nai Chung Gap", en: "Wong Nai Chung Gap" },
     coords: [114.1917, 22.2589],
@@ -1016,6 +1039,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-mount-davis-battery-history-v2",
+    parent: "HK",
     type: "ruins",
     name: { de: "Mount Davis Batterie", hu: "Mount Davis üteg", ro: "Bateria Mount Davis", en: "Mount Davis Battery" },
     coords: [114.1169, 22.2783],
@@ -1060,6 +1084,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-pinewood-battery-history-v2",
+    parent: "HK",
     type: "ruins",
     name: { de: "Pinewood Batterie", hu: "Pinewood üteg", ro: "Bateria Pinewood", en: "Pinewood Battery" },
     coords: [114.135, 22.2797],
@@ -1104,6 +1129,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-stanley-military-cemetery-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Militärfriedhof Stanley", hu: "Stanley katonai temető", ro: "Cimitirul militar Stanley", en: "Stanley Military Cemetery" },
     coords: [114.2158, 22.2172],
@@ -1148,6 +1174,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-sai-wan-war-cemetery-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Sai Wan Kriegsgräberstätte", hu: "Sai Wan katonai temető", ro: "Cimitirul de război Sai Wan", en: "Sai Wan War Cemetery" },
     coords: [114.235, 22.2611],
@@ -1192,6 +1219,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-sheung-yiu-kiln-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Sheung Yiu Kalkofen", hu: "Sheung Yiu mészégető kemence", ro: "Cuptorul de var Sheung Yiu", en: "Sheung Yiu Lime Kiln" },
     coords: [114.3211, 22.3847],
@@ -1236,6 +1264,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-cheung-chau-rock-carvings-history-v2",
+    parent: "HK",
     type: "ruins",
     name: { de: "Cheung Chau Felsritzungen", hu: "Cheung Chau sziklarajzok", ro: "Gravurile rupestre Cheung Chau", en: "Cheung Chau Rock Carvings" },
     coords: [114.1333, 22.2039],
@@ -1280,6 +1309,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-shek-pik-rock-carvings-history-v2",
+    parent: "HK",
     type: "ruins",
     name: { de: "Shek Pik Felsritzungen", hu: "Shek Pik sziklarajzok", ro: "Gravurile rupestre Shek Pik", en: "Shek Pik Rock Carvings" },
     coords: [113.8967, 22.2272],
@@ -1324,6 +1354,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-big-wave-bay-carvings-history-v2",
+    parent: "HK",
     type: "ruins",
     name: { de: "Big Wave Bay Ritzungen", hu: "Big Wave Bay sziklarajzok", ro: "Gravurile din Big Wave Bay", en: "Big Wave Bay Rock Carvings" },
     coords: [114.2483, 22.2464],
@@ -1368,6 +1399,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-lung-yeuk-tau-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Lung Yeuk Tau", hu: "Lung Yeuk Tau", ro: "Lung Yeuk Tau", en: "Lung Yeuk Tau Heritage Trail" },
     coords: [114.1481, 22.4975],
@@ -1412,6 +1444,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-man-mo-temple-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Man Mo Tempel", hu: "Man Mo templom", ro: "Templul Man Mo", en: "Man Mo Temple" },
     coords: [114.1503, 22.284],
@@ -1456,6 +1489,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tin-hau-temple-causeway-bay-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tin Hau Tempel Causeway Bay", hu: "Tin Hau templom (Causeway Bay)", ro: "Templul Tin Hau Causeway Bay", en: "Tin Hau Temple Causeway Bay" },
     coords: [114.1919, 22.2825],
@@ -1500,6 +1534,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-wong-tai-sin-temple-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Wong Tai Sin Tempel", hu: "Wong Tai Sin templom", ro: "Templul Wong Tai Sin", en: "Wong Tai Sin Temple" },
     coords: [114.1936, 22.3422],
@@ -1544,6 +1579,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-1881-heritage-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "1881 Heritage", hu: "1881 Heritage", ro: "1881 Heritage", en: "1881 Heritage" },
     coords: [114.17, 22.295],
@@ -1588,6 +1624,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-hk-observatory-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Hong Kong Observatory", hu: "Hongkongi Obszervatórium", ro: "Observatorul din Hong Kong", en: "Hong Kong Observatory" },
     coords: [114.1742, 22.3022],
@@ -1632,6 +1669,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-hku-main-building-history-v2",
+    parent: "HK",
     type: "university",
     name: { de: "HKU Hauptgebäude", hu: "HKU főépület", ro: "Clădirea principală HKU", en: "HKU Main Building" },
     coords: [114.1378, 22.2842],
@@ -1676,6 +1714,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tai-kwun-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Tai Kwun", hu: "Tai Kwun", ro: "Tai Kwun", en: "Tai Kwun" },
     coords: [114.1539, 22.2819],
@@ -1720,6 +1759,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-pmq-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "PMQ", hu: "PMQ", ro: "PMQ", en: "PMQ" },
     coords: [114.1517, 22.2833],
@@ -1764,6 +1804,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-haw-par-mansion-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Haw Par Mansion", hu: "Haw Par Mansion", ro: "Haw Par Mansion", en: "Haw Par Mansion" },
     coords: [114.1917, 22.27],
@@ -1808,6 +1849,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-kom-tong-hall-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Kom Tong Hall", hu: "Kom Tong Hall", ro: "Kom Tong Hall", en: "Kom Tong Hall" },
     coords: [114.1508, 22.2811],
@@ -1852,6 +1894,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-kings-college-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "King's College", hu: "King's College", ro: "King's College", en: "King's College" },
     coords: [114.14, 22.2844],
@@ -1896,6 +1939,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-ping-shan-heritage-trail-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ping Shan Heritage Trail", hu: "Ping Shan Örökség Tanösvény", ro: "Traseul istoric Ping Shan", en: "Ping Shan Heritage Trail" },
     coords: [114.0061, 22.4461],
@@ -1940,6 +1984,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-old-tai-po-police-station-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Alte Tai Po Polizeistation", hu: "Régi Tai Po rendőrállomás", ro: "Vechea secție de poliție Tai Po", en: "Old Tai Po Police Station" },
     coords: [114.1644, 22.4475],
@@ -1984,6 +2029,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-man-lun-fung-ancestral-hall-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Man Lun Fung Ahnentalle", hu: "Man Lun Fung Ősi Csarnok", ro: "Sala Ancestrală Man Lun Fung", en: "Man Lun Fung Ancestral Hall" },
     coords: [114.0758, 22.4975],
@@ -2028,6 +2074,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tai-tam-tuk-dam-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tai Tam Tuk Staudamm", hu: "Tai Tam Tuk gát", ro: "Barajul Tai Tam Tuk", en: "Tai Tam Tuk Dam" },
     coords: [114.2183, 22.235],
@@ -2072,6 +2119,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-old-wan-chai-post-office-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Altes Postamt Wan Chai", hu: "Régi Wan Chai postahivatal", ro: "Vechiul oficiu poștal Wan Chai", en: "Old Wan Chai Post Office" },
     coords: [114.1736, 22.2747],
@@ -2116,6 +2164,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-former-kowloon-british-school-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ehem. Britische Schule Kowloon", hu: "Egykori kowlooni brit iskola", ro: "Fosta școală britanică Kowloon", en: "Former Kowloon British School" },
     coords: [114.1717, 22.3025],
@@ -2160,6 +2209,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-university-hall-hku-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "University Hall (HKU)", hu: "University Hall (HKU)", ro: "University Hall (HKU)", en: "University Hall (HKU)" },
     coords: [114.1306, 22.2597],
@@ -2204,6 +2254,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-liu-man-shek-tong-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Liu Man Shek Tong", hu: "Liu Man Shek Tong", ro: "Liu Man Shek Tong", en: "Liu Man Shek Tong Ancestral Hall" },
     coords: [114.1264, 22.5064],
@@ -2248,6 +2299,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-western-monastery-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Western Monastery", hu: "Nyugati Kolostor", ro: "Mănăstirea de Vest", en: "Western Monastery" },
     coords: [114.1219, 22.3811],
@@ -2292,6 +2344,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-tung-lin-kok-yuen-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Tung Lin Kok Yuen", hu: "Tung Lin Kok Yuen", ro: "Tung Lin Kok Yuen", en: "Tung Lin Kok Yuen" },
     coords: [114.1869, 22.2694],
@@ -2336,6 +2389,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-former-yc-college-building-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ehem. YC College Gebäude", hu: "Egykori YC College épület", ro: "Fosta clădire YC College", en: "Former Ying Wa Girl's School" },
     coords: [114.1489, 22.2825],
@@ -2380,6 +2434,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-old-supreme-court-statue-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Themis Statue", hu: "Themisz szobor", ro: "Statuia Themis", en: "Statue of Justice" },
     coords: [114.1606, 22.2813],
@@ -2424,6 +2479,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-noonday-gun-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Noonday Gun", hu: "Noonday Gun", ro: "Tunul de la amiază", en: "Noonday Gun" },
     coords: [114.185, 22.2825],
@@ -2468,6 +2524,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-st-andrews-church-history-v2",
+    parent: "HK",
     type: "church",
     name: { de: "St. Andrew's Church", hu: "Szent András-templom", ro: "Biserica Sf. Andrei", en: "St. Andrew's Church" },
     coords: [114.1722, 22.3017],
@@ -2512,6 +2569,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-former-french-convent-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ehem. Französisches Kloster", hu: "Egykori Francia Kolostor", ro: "Fosta mănăstire franceză", en: "Former French Convent" },
     coords: [114.175, 22.28],
@@ -2556,6 +2614,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-ohel-leah-synagogue-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ohel Leah Synagoge", hu: "Ohel Leah zsinagóga", ro: "Sinagoga Ohel Leah", en: "Ohel Leah Synagogue" },
     coords: [114.15, 22.2811],
@@ -2600,6 +2659,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-jamia-mosque-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Jamia Moschee", hu: "Jamia mecset", ro: "Moscheea Jamia", en: "Jamia Mosque" },
     coords: [114.1508, 22.2817],
@@ -2644,6 +2704,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-hong-kong-heritage-museum-history-v2",
+    parent: "HK",
     type: "museum",
     name: { de: "Hong Kong Heritage Museum", hu: "Hongkongi Örökség Múzeum", ro: "Muzeul Patrimoniului din Hong Kong", en: "Hong Kong Heritage Museum" },
     coords: [114.1856, 22.3778],
@@ -2688,6 +2749,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-yuen-long-old-market-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Alter Markt Yuen Long", hu: "Régi Yuen Long piac", ro: "Piața veche Yuen Long", en: "Yuen Long Old Market" },
     coords: [114.0333, 22.4472],
@@ -2732,6 +2794,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-cheung-po-tsai-cave-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Cheung Po Tsai Höhle", hu: "Cheung Po Tsai barlang", ro: "Peștera Cheung Po Tsai", en: "Cheung Po Tsai Cave" },
     coords: [114.12, 22.2],
@@ -2776,6 +2839,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-lin-fa-kung-temple-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Lin Fa Kung Tempel", hu: "Lin Fa Kung templom", ro: "Templul Lin Fa Kung", en: "Lin Fa Kung Temple" },
     coords: [114.1925, 22.2794],
@@ -2820,6 +2884,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-st-stephens-college-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "St. Stephen's College", hu: "St. Stephen's College", ro: "St. Stephen's College", en: "St. Stephen's College" },
     coords: [114.2167, 22.215],
@@ -2864,6 +2929,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-former-supreme-court-statue-of-justice-history-v2",
+    parent: "HK",
     type: "monument",
     name: { de: "Blinde Justitia", hu: "Vak Iustitia", ro: "Justiția oarbă", en: "Blindfolded Justice" },
     coords: [114.1607, 22.2813],
@@ -2908,6 +2974,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-loke-yew-hall-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Loke Yew Hall", hu: "Loke Yew Hall", ro: "Loke Yew Hall", en: "Loke Yew Hall" },
     coords: [114.1375, 22.2842],
@@ -2952,6 +3019,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-green-island-lighthouse-history-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Green Island Leuchtturm", hu: "Green Island világítótorony", ro: "Farul Green Island", en: "Green Island Lighthouse" },
     coords: [114.1111, 22.2839],
@@ -2996,6 +3064,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-waglan-lighthouse-history-v2",
+    parent: "HK",
     type: "tower",
     name: { de: "Waglan Leuchtturm", hu: "Waglan világítótorony", ro: "Farul Waglan", en: "Waglan Lighthouse" },
     coords: [114.3019, 22.1822],
@@ -3040,6 +3109,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-former-central-magistracy-history-v2",
+    parent: "HK",
     type: "landmark",
     name: { de: "Ehem. Zentralmagistrat", hu: "Egykori Központi Magistracy", ro: "Fosta magistratură centrală", en: "Former Central Magistracy" },
     coords: [114.1536, 22.2817],
@@ -3084,6 +3154,7 @@ export const hongkongHistoryV2: POI[] = [
   },
   {
     id: "hongkong-old-path-military-trail-history-v2",
+    parent: "HK",
     type: "battlefield",
     name: { de: "Old Path Militärpfad", hu: "Old Path katonai ösvény", ro: "Vechiul traseu militar", en: "Old Path Military Trail" },
     coords: [114.195, 22.2581],

@@ -4,6 +4,7 @@ export const hongkongReliefV2: POI[] = [
 
   {
     id: "hongkong-mount-parker-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Parker", hu: "Parker-hegy", ro: "Muntele Parker", en: "Mount Parker" },
     coords: [114.2197, 22.2661],
@@ -48,6 +49,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-butler-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Butler", hu: "Butler-hegy", ro: "Muntele Butler", en: "Mount Butler" },
     coords: [114.2017, 22.2619],
@@ -92,6 +94,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-high-west-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "High West", hu: "High West", ro: "High West", en: "High West" },
     coords: [114.1333, 22.2708],
@@ -136,6 +139,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-davis-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Davis", hu: "Mount Davis", ro: "Mount Davis", en: "Mount Davis" },
     coords: [114.1164, 22.2764],
@@ -180,6 +184,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-tai-to-yan-relief-v2",
+    parent: "HK",
     type: "mountain",
     name: { de: "Tai To Yan", hu: "Tai To Yan", ro: "Tai To Yan", en: "Tai To Yan" },
     coords: [114.1167, 22.4583],
@@ -224,6 +229,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-kai-kung-leng-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Kai Kung Leng", hu: "Kai Kung Leng", ro: "Kai Kung Leng", en: "Kai Kung Leng" },
     coords: [114.0933, 22.4786],
@@ -268,6 +274,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-nei-lak-shan-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Nei Lak Shan", hu: "Nei Lak Shan", ro: "Nei Lak Shan", en: "Nei Lak Shan" },
     coords: [113.9058, 22.2606],
@@ -312,6 +319,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-buffalo-hill-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Buffalo Hill", hu: "Buffalo-hegy", ro: "Buffalo Hill", en: "Buffalo Hill" },
     coords: [114.2253, 22.3831],
@@ -356,6 +364,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-tates-cairn-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Tate's Cairn", hu: "Tate's Cairn", ro: "Tate's Cairn", en: "Tate's Cairn" },
     coords: [114.2181, 22.3575],
@@ -400,6 +409,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-needle-hill-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Needle Hill", hu: "Needle-hegy", ro: "Needle Hill", en: "Needle Hill" },
     coords: [114.1539, 22.385],
@@ -444,6 +454,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-grassy-hill-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Grassy Hill", hu: "Grassy-hegy", ro: "Grassy Hill", en: "Grassy Hill" },
     coords: [114.1594, 22.4042],
@@ -488,6 +499,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-pyramid-hill-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Pyramid Hill", hu: "Pyramid-hegy", ro: "Pyramid Hill", en: "Pyramid Hill" },
     coords: [114.2403, 22.4044],
@@ -532,6 +544,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-stenhouse-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Stenhouse", hu: "Mount Stenhouse", ro: "Mount Stenhouse", en: "Mount Stenhouse" },
     coords: [114.1325, 22.2033],
@@ -576,6 +589,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-lo-fu-tau-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Lo Fu Tau", hu: "Lo Fu Tau", ro: "Lo Fu Tau", en: "Lo Fu Tau" },
     coords: [113.985, 22.2858],
@@ -620,6 +634,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-kellett-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Kellett", hu: "Mount Kellett", ro: "Mount Kellett", en: "Mount Kellett" },
     coords: [114.1533, 22.2581],
@@ -664,6 +679,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-nicholson-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Nicholson", hu: "Mount Nicholson", ro: "Mount Nicholson", en: "Mount Nicholson" },
     coords: [114.1742, 22.2597],
@@ -708,6 +724,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-jardines-lookout-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Jardine's Lookout", hu: "Jardine's Lookout", ro: "Jardine's Lookout", en: "Jardine's Lookout" },
     coords: [114.1897, 22.2639],
@@ -752,6 +769,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-violet-hill-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Violet Hill", hu: "Violet-hegy", ro: "Violet Hill", en: "Violet Hill" },
     coords: [114.1953, 22.2503],
@@ -796,6 +814,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-devils-peak-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Devil's Peak", hu: "Ördög-csúcs", ro: "Devil's Peak", en: "Devil's Peak" },
     coords: [114.2428, 22.2961],
@@ -840,6 +859,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-beacon-hill-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Beacon Hill", hu: "Beacon-hegy", ro: "Beacon Hill", en: "Beacon Hill" },
     coords: [114.1706, 22.3453],
@@ -884,6 +904,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-ma-nam-wat-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Ma Nam Wat", hu: "Ma Nam Wat", ro: "Ma Nam Wat", en: "Ma Nam Wat" },
     coords: [114.265, 22.368],
@@ -928,6 +949,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-high-junk-peak-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "High Junk Peak", hu: "High Junk-csúcs", ro: "High Junk Peak", en: "High Junk Peak" },
     coords: [114.288, 22.288],
@@ -972,6 +994,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-cameron-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Cameron", hu: "Mount Cameron", ro: "Mount Cameron", en: "Mount Cameron" },
     coords: [114.167, 22.261],
@@ -1016,6 +1039,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-wa-shan-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Wa Shan", hu: "Wa Shan", ro: "Wa Shan", en: "Wa Shan" },
     coords: [114.133, 22.516],
@@ -1060,6 +1084,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-buffalo-hill-west-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "West Buffalo Hill", hu: "Nyugati Buffalo-hegy", ro: "West Buffalo Hill", en: "West Buffalo Hill" },
     coords: [114.218, 22.381],
@@ -1104,6 +1129,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-gough-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Gough", hu: "Mount Gough", ro: "Mount Gough", en: "Mount Gough" },
     coords: [114.155, 22.27],
@@ -1148,6 +1174,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-austin-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Austin", hu: "Mount Austin", ro: "Mount Austin", en: "Mount Austin" },
     coords: [114.144, 22.275],
@@ -1192,6 +1219,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-luk-keng-chan-uk-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Luk Keng Chan Uk", hu: "Luk Keng Chan Uk", ro: "Luk Keng Chan Uk", en: "Luk Keng Chan Uk" },
     coords: [114.225, 22.525],
@@ -1236,6 +1264,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-pottinger-peak-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Pottinger Peak", hu: "Pottinger-csúcs", ro: "Vârful Pottinger", en: "Pottinger Peak" },
     coords: [114.248, 22.245],
@@ -1280,6 +1309,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-collinson-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Collinson", hu: "Mount Collinson", ro: "Mount Collinson", en: "Mount Collinson" },
     coords: [114.238, 22.241],
@@ -1324,6 +1354,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-nan-she-tsim-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Sharp Peak (Nam She Tsim)", hu: "Nam She Tsim", ro: "Nam She Tsim", en: "Nam She Tsim" },
     coords: [114.3644, 22.4419],
@@ -1368,6 +1399,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-kau-to-shan-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Kau To Shan", hu: "Kau To Shan", ro: "Kau To Shan", en: "Kau To Shan" },
     coords: [114.195, 22.428],
@@ -1412,6 +1444,7 @@ export const hongkongReliefV2: POI[] = [
   },
   {
     id: "hongkong-mount-hallowes-relief-v2",
+    parent: "HK",
     type: "peak",
     name: { de: "Mount Hallowes", hu: "Mount Hallowes", ro: "Mount Hallowes", en: "Mount Hallowes" },
     coords: [114.335, 22.465],
