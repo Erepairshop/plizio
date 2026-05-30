@@ -1,0 +1,1008 @@
+{
+  "city_id": "recklinghausen-extra",
+  "anchor": {
+    "name": "Altstadtmarkt",
+    "coords": [
+      51.614,
+      7.198
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadtmarkt",
+          "coords": [
+            51.614,
+            7.198
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee auf dem historischen Marktplatz.",
+            "hu": "Igyon meg egy kávét a történelmi piactéren.",
+            "ro": "Savurați o cafea în piața istorică a orașului.",
+            "en": "Enjoy a coffee at the historic marketplace."
+          }
+        },
+        {
+          "name": "Propsteikirche St. Peter",
+          "coords": [
+            51.615,
+            7.199
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das romanische Taufbecken im Inneren.",
+            "hu": "Csodálja meg a belső román stílusú keresztelőmedencét.",
+            "ro": "Admirați cristelnița romanică din interior.",
+            "en": "Admire the Romanesque baptismal font inside."
+          }
+        },
+        {
+          "name": "Ikonen-Museum Recklinghausen",
+          "coords": [
+            51.615,
+            7.199
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das bedeutendste Museum für Ostkirchliche Kunst in der westlichen Welt.",
+            "hu": "A nyugati világ legjelentősebb keleti egyházművészeti múzeuma.",
+            "ro": "Cel mai important muzeu de artă bisericească răsăriteană din Occident.",
+            "en": "The most important museum of Eastern Church art in the Western world."
+          }
+        },
+        {
+          "name": "Palais Vest",
+          "coords": [
+            51.613,
+            7.202
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause und modernes Shopping-Flair.",
+            "hu": "Tökéletes ebédszünetre és modern vásárlásra.",
+            "ro": "Perfect pentru o pauză de prânz și cumpărături moderne.",
+            "en": "Perfect for a lunch break and modern shopping flair."
+          }
+        },
+        {
+          "name": "Kunsthalle Recklinghausen",
+          "coords": [
+            51.618,
+            7.197
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in einem ehemaligen Hochbunker.",
+            "hu": "Kortárs művészet egy egykori légvédelmi bunkerben.",
+            "ro": "Artă contemporană într-un fost buncăr de suprafață.",
+            "en": "Contemporary art in a former high-rise bunker."
+          }
+        },
+        {
+          "name": "Ruhrfestspielhaus",
+          "coords": [
+            51.628,
+            7.189
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Das Herzstück der berühmten Ruhrfestspiele.",
+            "hu": "A híres Ruhr-fesztivál központi helyszíne.",
+            "ro": "Inima celebrului festival Ruhrfestspiele.",
+            "en": "The heart of the famous Ruhr Arts Festival."
+          }
+        },
+        {
+          "name": "Tiergarten Recklinghausen",
+          "coords": [
+            51.63,
+            7.188
+          ],
+          "category": "natural features",
+          "arrive_at": "17:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kleiner, charmanter Tierpark im Stadtgarten.",
+            "hu": "Kicsi, bájos állatkert a városligetben.",
+            "ro": "O mică și fermecătoare grădină zoologică în parcul orașului.",
+            "en": "Small, charming zoo in the city garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die historische Altstadt rund um den Marktplatz und die St. Peter Kirche. Mittags tauchen Sie im Ikonen-Museum in die Welt der spirituellen Kunst ein, gefolgt von einem Lunch im Palais Vest. Der Nachmittag steht im Zeichen der Kunsthalle und der Kultur am Ruhrfestspielhaus. Den Abend lassen Sie entspannt bei einem Spaziergang durch den Tiergarten im Stadtgarten ausklingen.",
+        "hu": "Reggel a történelmi óvárost fedezzük fel a piactér és a Szent Péter-templom környékén. Délben az Ikon-múzeumban merülünk el a szakrális művészetben, majd ebédelünk a Palais Vestben. A délután a Kunsthalle és a Ruhr-fesztiválház kulturális kínálatáé. Az estét pihentető sétával zárjuk a városligeti állatkertben.",
+        "ro": "Dimineața explorăm centrul istoric în jurul pieței vechi și a bisericii Sf. Petru. La prânz, vizităm Muzeul de Icoane pentru o incursiune în arta sacră, urmată de o masă la Palais Vest. După-amiaza este dedicată Kunsthalle și culturii de la Ruhrfestspielhaus. Seara se încheie relaxant cu o plimbare prin grădina zoologică din parcul orașului.",
+        "en": "In the morning, explore the historic old town around the marketplace and St. Peter's Church. At noon, immerse yourself in spiritual art at the Icon Museum, followed by lunch at Palais Vest. The afternoon is dedicated to the Kunsthalle and the culture at the Ruhrfestspielhaus. End your evening with a relaxing stroll through the zoo in the city garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Suberg's bei Boente",
+            "tip": "Hausbrauerei mit westfälischer Küche."
+          },
+          {
+            "name": "Palais Vest",
+            "tip": "Große Auswahl an Food-Courts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suberg's bei Boente",
+            "tip": "Házi sörfőzde vesztfáliai konyhával."
+          },
+          {
+            "name": "Palais Vest",
+            "tip": "Széles választék az ételudvarban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suberg's bei Boente",
+            "tip": "Berărie artizanală cu bucătărie vestfaliană."
+          },
+          {
+            "name": "Palais Vest",
+            "tip": "O selecție largă de restaurante tip food-court."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suberg's bei Boente",
+            "tip": "Home-style brewery with Westphalian cuisine."
+          },
+          {
+            "name": "Palais Vest",
+            "tip": "Large selection of food court options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Grüne Oase hinter dem Festspielhaus.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. Peter Kirchplatz",
+            "tip": "Ruhiger Platz im Schatten der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városkert",
+            "tip": "Zöld oázis a Fesztiválház mögött.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Szent Péter templomkert",
+            "tip": "Csendes tér a templom árnyékában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina orașului",
+            "tip": "Oază verde în spatele teatrului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Piața Sf. Petru",
+            "tip": "Loc liniștit la umbra bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Garden",
+            "tip": "Green oasis behind the festival house.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. Peter's Church Square",
+            "tip": "Quiet spot in the shadow of the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Palais Vest",
+            "tip": "Modernes Einkaufszentrum mit über 120 Geschäften."
+          },
+          {
+            "name": "Altstadtgassen",
+            "tip": "Kleine Boutiquen in historischen Gebäuden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palais Vest",
+            "tip": "Modern bevásárlóközpont több mint 120 üzlettel."
+          },
+          {
+            "name": "Óvárosi sikátorok",
+            "tip": "Kis butikok történelmi épületekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palais Vest",
+            "tip": "Centru comercial modern cu peste 120 de magazine."
+          },
+          {
+            "name": "Ulițele centrului vechi",
+            "tip": "Mici buticuri în clădiri istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palais Vest",
+            "tip": "Modern shopping mall with over 120 stores."
+          },
+          {
+            "name": "Old Town Alleys",
+            "tip": "Small boutiques in historic buildings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Besuchen Sie das Ikonen-Museum unbedingt – es ist weltweit einzigartig.",
+          "Parken Sie am besten im Parkhaus des Palais Vest.",
+          "Im Mai und Juni finden die Ruhrfestspiele statt – rechtzeitig Karten sichern!"
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, gyalogosan tökéletesen bejárható.",
+          "Mindenképpen látogassa meg az Ikon-múzeumot – világszinten egyedülálló.",
+          "A legcélszerűbb a Palais Vest parkolóházában megállni.",
+          "Májusban és júniusban tartják a Ruhr-fesztivált – foglaljon jegyet időben!"
+        ],
+        "ro": [
+          "Centrul vechi este foarte compact și poate fi explorat excelent la pas.",
+          "Vizitați neapărat Muzeul de Icoane – este unic în lume.",
+          "Cel mai bine este să parcați în parcarea centrului Palais Vest.",
+          "În mai și iunie are loc festivalul Ruhrfestspiele – rezervați bilete din timp!"
+        ],
+        "en": [
+          "The old town is very compact and can be explored perfectly on foot.",
+          "Be sure to visit the Icon Museum – it is unique in the world.",
+          "It is best to park in the Palais Vest parking garage.",
+          "The Ruhr Arts Festival takes place in May and June – book tickets early!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadtmarkt",
+          "coords": [
+            51.614,
+            7.198
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Kiindulópont a város szívében.",
+            "ro": "Punctul de plecare din inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": "Kunsthalle Recklinghausen",
+          "coords": [
+            51.618,
+            7.197
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nahe am Hauptbahnhof gelegen.",
+            "hu": "A főpályaudvar közelében található.",
+            "ro": "Situat aproape de gara centrală.",
+            "en": "Located near the main station."
+          }
+        },
+        {
+          "name": "Ruhrfestspielhaus",
+          "coords": [
+            51.628,
+            7.189
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Panoramablick vom grünen Hügel.",
+            "hu": "Panoráma a zöld dombról.",
+            "ro": "Vedere panoramică de pe dealul verde.",
+            "en": "Panoramic view from the green hill."
+          }
+        },
+        {
+          "name": "Tiergarten Recklinghausen",
+          "coords": [
+            51.63,
+            7.188
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurze Pause im Grünen.",
+            "hu": "Rövid szünet a zöldben.",
+            "ro": "O scurtă pauză în natură.",
+            "en": "Short break in the greenery."
+          }
+        },
+        {
+          "name": "Stadthafen Recklinghausen",
+          "coords": [
+            51.58,
+            7.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Entspannen am Rhein-Herne-Kanal.",
+            "hu": "Pihenés a Rajna-Herne-csatornánál.",
+            "ro": "Relaxare pe malul canalului Rhein-Herne.",
+            "en": "Relax at the Rhein-Herne Canal."
+          }
+        },
+        {
+          "name": "Palais Vest",
+          "coords": [
+            51.613,
+            7.202
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Abschluss-Shopping im Zentrum.",
+            "hu": "Záró vásárlás a központban.",
+            "ro": "Final de zi cu cumpărături în centru.",
+            "en": "Closing shopping in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet das kulturelle Zentrum mit dem industriellen Erbe. Nach dem Start am Altstadtmarkt führt der Weg über die Kunsthalle hinauf zum Ruhrfestspielhaus. Nach einem Besuch im Tiergarten radeln Sie gen Süden zum Stadthafen am Kanal, wo Sie echtes Ruhrgebiets-Feeling erleben, bevor es zurück zum Palais Vest geht.",
+        "hu": "Ez a kerékpártúra összeköti a kulturális központot az ipari örökséggel. Az óvárosi piactól indulva a Kunsthalle érintésével tekerünk fel a Ruhr-fesztiválházhoz. Az állatkerti látogatás után délnek vesszük az irányt a csatorna menti kikötőhöz, ahol igazi Ruhr-vidéki hangulatot élhetünk át, mielőtt visszatérünk a központba.",
+        "ro": "Acest tur cu bicicleta îmbină centrul cultural cu moștenirea industrială. De la piața veche, drumul trece pe lângă Kunsthalle până la Ruhrfestspielhaus. După o vizită la grădina zoologică, pedalați spre sud către portul orașului de pe canal, unde experimentați atmosfera autentică a regiunii Ruhr, înainte de a reveni în centru.",
+        "en": "This bike tour connects the cultural center with industrial heritage. Starting at the Old Town market, the path leads via the Kunsthalle up to the Ruhrfestspielhaus. After a visit to the zoo, cycle south to the city harbor on the canal for a true Ruhr area feeling before heading back to Palais Vest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bootshaus Recklinghausen",
+            "tip": "Restaurant direkt am Wasser am Stadthafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bootshaus Recklinghausen",
+            "tip": "Étterem közvetlenül a vízparton a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bootshaus Recklinghausen",
+            "tip": "Restaurant direct pe malul apei în portul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bootshaus Recklinghausen",
+            "tip": "Restaurant right on the waterfront at the city harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadthafen",
+            "tip": "Maritimes Flair am Kanal.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi kikötő",
+            "tip": "Vizi hangulat a csatornánál.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul orașului",
+            "tip": "Atmosferă maritimă pe canal.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Harbor",
+            "tip": "Maritime flair on the canal.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen in der Altstadt",
+            "tip": "Ausrüstung für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt az óvárosban",
+            "tip": "Felszerelés bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete în centrul vechi",
+            "tip": "Echipament pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shop in the old town",
+            "tip": "Equipment for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum Stadthafen ist eben und gut ausgebaut.",
+          "Nutzen Sie das RevierRad-System für Mieträder.",
+          "Achten Sie auf die Beschilderung der Route der Industriekultur."
+        ],
+        "hu": [
+          "A kikötőhöz vezető út sík és jól kiépített.",
+          "Használja a RevierRad bérbicikli-rendszert.",
+          "Figyelje az Ipari Kultúra Útja jelzéseit."
+        ],
+        "ro": [
+          "Drumul spre port este plan și bine amenajat.",
+          "Utilizați sistemul RevierRad pentru închirierea bicicletelor.",
+          "Urmăriți indicatoarele rutei Culturii Industriale."
+        ],
+        "en": [
+          "The path to the city harbor is flat and well-maintained.",
+          "Use the RevierRad system for rental bikes.",
+          "Follow the signs for the Industrial Heritage Route."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadtmarkt",
+          "coords": [
+            51.614,
+            7.198
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken im Parkhaus Palais Vest.",
+            "hu": "Parkolás a Palais Vest parkolóházban.",
+            "ro": "Parcare în garajul Palais Vest.",
+            "en": "Park in the Palais Vest garage."
+          }
+        },
+        {
+          "name": "Propsteikirche St. Peter",
+          "coords": [
+            51.615,
+            7.199
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Wahrzeichen.",
+            "hu": "Történelmi jelkép.",
+            "ro": "Simbol istoric.",
+            "en": "Historical landmark."
+          }
+        },
+        {
+          "name": "Ikonen-Museum Recklinghausen",
+          "coords": [
+            51.615,
+            7.199
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "In direkter Nähe zur Kirche.",
+            "hu": "Közvetlenül a templom mellett.",
+            "ro": "În imediata apropiere a bisericii.",
+            "en": "Directly next to the church."
+          }
+        },
+        {
+          "name": "Ruhrfestspielhaus",
+          "coords": [
+            51.628,
+            7.189
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ausreichend Parkplätze vor Ort.",
+            "hu": "Bőséges parkolóhely a helyszínen.",
+            "ro": "Suficiente locuri de parcare la fața locului.",
+            "en": "Ample parking available on-site."
+          }
+        },
+        {
+          "name": "Tiergarten Recklinghausen",
+          "coords": [
+            51.63,
+            7.188
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Festspielhaus.",
+            "hu": "Rövid séta a Fesztiválháztól.",
+            "ro": "Scurtă plimbare de la teatrul festivalului.",
+            "en": "Short walk from the festival house."
+          }
+        },
+        {
+          "name": "Stadthafen Recklinghausen",
+          "coords": [
+            51.58,
+            7.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Maritimer Hotspot im Süden.",
+            "hu": "Vizi találkahely délen.",
+            "ro": "Hotspot maritim în sud.",
+            "en": "Maritime hotspot in the south."
+          }
+        },
+        {
+          "name": "Palais Vest",
+          "coords": [
+            51.613,
+            7.202
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Souvenirs.",
+            "hu": "Tökéletes hely szuveníreknek.",
+            "ro": "Locul perfect pentru suveniruri.",
+            "en": "Perfect place for souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster der Stadt. Starten Sie in der Altstadt (Cluster A) mit Markt, Kirche und Ikonen-Museum. Danach fahren Sie zum Festspielpark (Cluster B) für Kultur und Natur. Den Nachmittag verbringen Sie am Stadthafen (Cluster C), bevor Sie den Tag für einen kurzen Einkaufsbummel im Palais Vest beenden.",
+        "hu": "Autóval kényelmesen elérheti a város különböző központjait. Kezdjen az óvárosban (A klaszter) a piaccal, a templommal és az Ikon-múzeummal. Ezután hajtson a Fesztiválparkhoz (B klaszter) kultúráért és természetért. A délutánt a kikötőben (C klaszter) töltse, majd zárja a napot egy rövid vásárlással a Palais Vestben.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele grupuri de obiective ale orașului. Începeți în centrul vechi (Cluster A) cu piața, biserica și Muzeul de Icoane. Apoi mergeți la parcul festivalului (Cluster B) pentru cultură și natură. Petreceți după-amiaza în port (Cluster C), înainte de a încheia ziua cu o scurtă sesiune de cumpărături la Palais Vest.",
+        "en": "By car, you can easily reach the city's various clusters. Start in the old town (Cluster A) with the market, church, and Icon Museum. Then drive to the Festival Park (Cluster B) for culture and nature. Spend the afternoon at the city harbor (Cluster C) before ending the day with a short shopping trip at Palais Vest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller",
+            "tip": "Traditionell westfälisch im Rathaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller",
+            "tip": "Hagyományos vesztfáliai konyha a városházán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller",
+            "tip": "Bucătărie tradițională vestfaliană în primărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller",
+            "tip": "Traditional Westphalian food in the town hall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Ruhiges Grün.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városkert",
+            "tip": "Csendes zöldövezet.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina orașului",
+            "tip": "Verdeață liniștită.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Garden",
+            "tip": "Quiet greenery.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte am Dienstag und Freitag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek kedden és pénteken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete marți și vineri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh products on Tuesdays and Fridays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem der Stadt.",
+          "Die Fahrt zwischen den Clustern dauert meist unter 10 Minuten."
+        ],
+        "hu": [
+          "Használja a város parkolási rendszerét.",
+          "A klaszterek közötti út általában kevesebb mint 10 perc."
+        ],
+        "ro": [
+          "Utilizați sistemul de ghidare pentru parcare al orașului.",
+          "Drumul între clustere durează de obicei sub 10 minute."
+        ],
+        "en": [
+          "Use the city's parking guidance system.",
+          "The drive between clusters usually takes less than 10 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadtmarkt",
+          "coords": [
+            51.614,
+            7.198
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknoten in der Nähe.",
+            "hu": "Központi buszcsomópont a közelben.",
+            "ro": "Nod central de autobuze în apropiere.",
+            "en": "Central bus hub nearby."
+          }
+        },
+        {
+          "name": "Propsteikirche St. Peter",
+          "coords": [
+            51.615,
+            7.199
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Markt.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market."
+          }
+        },
+        {
+          "name": "Kunsthalle Recklinghausen",
+          "coords": [
+            51.618,
+            7.197
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gegenüber vom Hauptbahnhof.",
+            "hu": "Szemben a főpályaudvarral.",
+            "ro": "Vis-a-vis de gara centrală.",
+            "en": "Opposite the main station."
+          }
+        },
+        {
+          "name": "Ruhrfestspielhaus",
+          "coords": [
+            51.628,
+            7.189
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Mit dem Bus Linie 270 erreichbar.",
+            "hu": "A 270-es busszal elérhető.",
+            "ro": "Accesibil cu autobuzul linia 270.",
+            "en": "Accessible via bus line 270."
+          }
+        },
+        {
+          "name": "Stadthafen Recklinghausen",
+          "coords": [
+            51.58,
+            7.2
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Linie SB20 Richtung Herne.",
+            "hu": "SB20-as vonal Herne irányába.",
+            "ro": "Linia SB20 în direcția Herne.",
+            "en": "Line SB20 towards Herne."
+          }
+        },
+        {
+          "name": "Palais Vest",
+          "coords": [
+            51.613,
+            7.202
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Zurück am Busbahnhof Viehtor.",
+            "hu": "Vissza a Viehtor buszpályaudvarhoz.",
+            "ro": "Înapoi la autogara Viehtor.",
+            "en": "Back at Viehtor bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des dichten Busnetzes erkunden Sie Recklinghausen ganz entspannt ohne Parkplatzsuche. Vom Altstadtmarkt gelangen Sie schnell zum Bahnhofsviertel mit der Kunsthalle und weiter zum Festspielhaus. Ein besonderes Highlight ist die Fahrt zum Stadthafen im Süden, bevor es zurück zum Shopping ins Zentrum geht.",
+        "hu": "A sűrű buszhálózatnak köszönhetően kényelmesen, parkolóhely-keresés nélkül fedezheti fel Recklinghausent. Az óvárosi piactól gyorsan eljuthat a vasútállomás környékére a Kunsthalléhoz, majd tovább a Fesztiválházhoz. Különleges élmény a déli kikötőhöz tett kirándulás, mielőtt visszatérne a központba vásárolni.",
+        "ro": "Datorită rețelei dense de autobuze, explorați Recklinghausen relaxat, fără grija parcării. De la piața veche ajungeți rapid în zona gării la Kunsthalle și mai departe la teatrul festivalului. Un punct culminant este drumul spre portul din sud, înainte de a reveni în centru pentru cumpărături.",
+        "en": "Thanks to the dense bus network, you can explore Recklinghausen in a relaxed way without searching for parking. From the Old Town market, you can quickly reach the station district with the Kunsthalle and continue to the Festival House. A special highlight is the trip to the city harbor in the south before returning to the center for shopping."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Ikonen-Museum",
+            "tip": "Kleiner Snack in künstlerischer Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro az Ikon-múzeumban",
+            "tip": "Kis harapnivaló művészi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro în Muzeul de Icoane",
+            "tip": "O mică gustare într-un mediu artistic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro in the Icon Museum",
+            "tip": "Small snack in an artistic environment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt zum Hafen",
+            "tip": "Blick auf die Kanallandschaft.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a kikötőhöz",
+            "tip": "Kilátás a csatorna vidékére.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu autobuzul spre port",
+            "tip": "Vedere asupra peisajului canalului.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride to the harbor",
+            "tip": "View of the canal landscape.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk-Kultur",
+            "tip": "Typische Ruhrgebiets-Trinkhallen an den Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk-kultúra",
+            "tip": "Tipikus Ruhr-vidéki italmérések a megállókban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cultura chioșcurilor",
+            "tip": "Chioșcuri tipice regiunii Ruhr la stații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk culture",
+            "tip": "Typical Ruhr area kiosks at the stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Preisstufe A.",
+          "Nutzen Sie die VRR-App für Live-Abfahrtszeiten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet az 'A' zónára.",
+          "Használja a VRR applikációt az élő menetrendhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona A.",
+          "Utilizați aplicația VRR pentru orele de plecare în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for price level A.",
+          "Use the VRR app for live departure times."
+        ]
+      }
+    }
+  }
+}

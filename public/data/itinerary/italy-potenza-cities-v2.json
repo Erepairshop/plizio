@@ -1,0 +1,978 @@
+{
+  "city_id": "italy-potenza-cities-v2",
+  "anchor": {
+    "name": "Piazza Mario Pagano",
+    "coords": [
+      15.8055,
+      40.6398
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Mario Pagano",
+          "coords": [
+            15.8055,
+            40.6398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso im historischen Café am Platz.",
+            "hu": "Igyon egy eszpresszót a tér egyik történelmi kávézójában.",
+            "ro": "Savurați un espresso la o cafenea istorică din piață.",
+            "en": "Enjoy an espresso at a historic café in the square."
+          }
+        },
+        {
+          "name": "Teatro Francesco Stabile",
+          "coords": [
+            15.8058,
+            40.6395
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade dieses Kulturjuwels.",
+            "hu": "Csodálja meg e kulturális ékszerdoboz neoklasszicista homlokzatát.",
+            "ro": "Admirați fațada neoclasică a acestei bijuterii culturale.",
+            "en": "Admire the neoclassical facade of this cultural gem."
+          }
+        },
+        {
+          "name": "Via Pretoria",
+          "coords": [
+            15.8075,
+            40.6405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Haupteinkaufsstraße, ideal für einen gemütlichen Spaziergang.",
+            "hu": "A fő bevásárlóutca, tökéletes egy kényelmes sétához.",
+            "ro": "Principala stradă comercială, ideală pentru o plimbare relaxantă.",
+            "en": "The main shopping spine, perfect for a leisurely stroll."
+          }
+        },
+        {
+          "name": "Cattedrale di San Gerardo",
+          "coords": [
+            15.8085,
+            40.6412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta mit ihren römischen Mosaiken.",
+            "hu": "Látogassa meg a kriptát a római kori mozaikokkal.",
+            "ro": "Vizitați cripta cu mozaicurile sale din epoca romană.",
+            "en": "Visit the crypt with its Roman-era mosaics."
+          }
+        },
+        {
+          "name": "Museo Archeologico Nazionale",
+          "coords": [
+            15.8092,
+            40.6415
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antike Geschichte der Basilikata im Palazzo Loffredo.",
+            "hu": "Fedezze fel Basilicata ókori történelmét a Palazzo Loffredóban.",
+            "ro": "Descoperiți istoria antică a Basilicatâi în Palazzo Loffredo.",
+            "en": "Explore the ancient history of Basilicata in Palazzo Loffredo."
+          }
+        },
+        {
+          "name": "Torre Guevara",
+          "coords": [
+            15.8115,
+            40.6425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der letzte Rest der alten Burg bietet einen tollen Ausblick.",
+            "hu": "A régi vár utolsó maradványa, nagyszerű kilátással.",
+            "ro": "Ultima rămășiță a vechiului castel oferă o priveliște superbă.",
+            "en": "The last remnant of the old castle offers a great view."
+          }
+        },
+        {
+          "name": "Chiesa di San Michele",
+          "coords": [
+            15.8035,
+            40.6408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein romanisches Juwel abseits der Hauptwege; inkl. Abendessen.",
+            "hu": "Román stílusú ékszer a főúttól távol; vacsorával egybekötve.",
+            "ro": "O bijuterie romanică departe de drumul principal; incl. cina.",
+            "en": "A Romanesque gem off the main path; includes dinner time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört dem pulsierenden Herzen von Potenza in der Via Pretoria und am Theater Stabile. Nach der Besichtigung der Kathedrale und des Archäologischen Museums im Palazzo Loffredo tauchen wir in die tiefe Geschichte der Region ein. Der Nachmittag endet mit dem Blick vom Guevara-Turm und einem ruhigen Abschluss bei der Kirche San Michele.",
+        "hu": "A délelőtt Potenza lüktető szívében, a Via Pretorián és a Stabile Színháznál telik. A székesegyház és a Palazzo Loffredóban található Régészeti Múzeum megtekintése után elmerülünk a régió mély történelmében. A délután a Guevara-toronytól nyíló kilátással és a San Michele templom környéki nyugodt pihenéssel zárul.",
+        "ro": "Dimineața aparține inimii vibrante a Potenzei, pe Via Pretoria și la Teatrul Stabile. După vizitarea catedralei și a Muzeului Arheologic din Palazzo Loffredo, ne scufundăm în istoria profundă a regiunii. După-amiaza se încheie cu priveliștea de la Turnul Guevara și un final liniștit lângă biserica San Michele.",
+        "en": "Morning is dedicated to the vibrant heart of Potenza along Via Pretoria and the Stabile Theatre. After visiting the Cathedral and the Archaeological Museum in Palazzo Loffredo, we dive into the region's deep history. The afternoon concludes with views from the Guevara Tower and a peaceful finish near the Church of San Michele."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Knusprig frittierte Paprika aus der Region."
+          },
+          {
+            "name": "Antica Osteria Marconi",
+            "tip": "Traditionelle lukanische Küche in modernem Gewand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Ropogósra sült helyi paprika specialitás."
+          },
+          {
+            "name": "Antica Osteria Marconi",
+            "tip": "Hagyományos lukan konyha modern köntösben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Ardei locali prăjiți crocanți, o specialitate regională."
+          },
+          {
+            "name": "Antica Osteria Marconi",
+            "tip": "Bucătărie tradițională lucană într-o prezentare modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peperoni Cruschi",
+            "tip": "Crunchy fried local peppers, a regional specialty."
+          },
+          {
+            "name": "Antica Osteria Marconi",
+            "tip": "Traditional Lucanian cuisine with a modern twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Ein schattiger Park für eine Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Torre Guevara Aussicht",
+            "tip": "Panorama über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Árnyas park egy kis pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Torre Guevara kilátás",
+            "tip": "Panoráma a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Un parc umbrit pentru o pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Panorama Torre Guevara",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Comunale",
+            "tip": "A shaded park for a quiet break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Torre Guevara View",
+            "tip": "Panorama over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Pretoria",
+            "tip": "Boutiquen und lokale Delikatessläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Pretoria",
+            "tip": "Butikok és helyi csemegeüzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Pretoria",
+            "tip": "Boutique-uri și magazine cu delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Pretoria",
+            "tip": "Boutiques and local specialty food shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, es gibt viele Stufen.",
+          "Die meisten Museen schließen zur Mittagszeit.",
+          "Nutzen Sie die Rolltreppen (Scale Mobili), um Höhenmeter zu sparen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, sok a lépcső.",
+          "A legtöbb múzeum bezár ebédidőben.",
+          "Használja a mozgólépcsőket (Scale Mobili) a szintkülönbségek leküzdéséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, sunt multe trepte.",
+          "Majoritatea muzeelor se închid la prânz.",
+          "Folosiți scările rulante (Scale Mobili) pentru a economisi energie."
+        ],
+        "en": [
+          "Wear comfortable shoes as there are many steps.",
+          "Most museums close during lunch hours.",
+          "Use the public escalators (Scale Mobili) to navigate the vertical city."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Scale Mobili (Cluster A)",
+          "coords": [
+            15.8015,
+            40.6355
+          ],
+          "category": "industry",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und nutzen Sie das längste Rolltreppensystem Europas.",
+            "hu": "Parkoljon itt, és használja Európa leghosszabb mozgólépcsőrendszerét.",
+            "ro": "Parcați aici și folosiți cel mai lung sistem de scări rulante din Europa.",
+            "en": "Park here and use Europe's longest public escalator system."
+          }
+        },
+        {
+          "name": "Via Pretoria (Cluster A)",
+          "coords": [
+            15.8075,
+            40.6405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang im historischen Zentrum; hop_mode ist Fußweg.",
+            "hu": "Séta a történelmi központban; a hop_mode gyalogos.",
+            "ro": "Plimbare în centrul istoric; hop_mode este pietonal.",
+            "en": "Walk through the historic center; hop_mode is walk."
+          }
+        },
+        {
+          "name": "Cattedrale San Gerardo (Cluster A)",
+          "coords": [
+            15.8085,
+            40.6412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prachtvoller Dom; Rückweg zum Auto per Rolltreppe.",
+            "hu": "Pompás dóm; visszatérés az autóhoz mozgólépcsővel.",
+            "ro": "Catedrală magnifică; întoarcere la mașină cu scara rulantă.",
+            "en": "Magnificent cathedral; return to car via escalator."
+          }
+        },
+        {
+          "name": "Ponte Musmeci (Cluster B)",
+          "coords": [
+            15.7945,
+            40.6305
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der modernen Architektur unter dem Auto.",
+            "hu": "A modern építészet remekműve az autó alatt.",
+            "ro": "O capodoperă a arhitecturii moderne sub mașină.",
+            "en": "A masterpiece of modern engineering beneath your wheels."
+          }
+        },
+        {
+          "name": "Pranzo Locale (Cluster B)",
+          "coords": [
+            15.7965,
+            40.6325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie Pasta Mollicata in einem Restaurant im Tal.",
+            "hu": "Kóstolja meg a Pasta Mollicatát egy völgyi étteremben.",
+            "ro": "Savurați Pasta Mollicata într-un restaurant din vale.",
+            "en": "Try Pasta Mollicata at a restaurant in the lower valley."
+          }
+        },
+        {
+          "name": "Chiesa di San Michele (Cluster C)",
+          "coords": [
+            15.8035,
+            40.6408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt bergauf zu dieser abgelegenen romanischen Kirche.",
+            "hu": "Rövid autózás felfelé ehhez az elszigetelt román templomhoz.",
+            "ro": "Scurtă urcare cu mașina până la această biserică romanică izolată.",
+            "en": "Short drive uphill to this secluded Romanesque church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen wir die Scale Mobili als Basislager für die Oberstadt. Nach dem Kulturprogramm fahren wir ins Tal zum beeindruckenden Ponte Musmeci, einer Ikone des modernen Designs. Der Tag endet mit einer Fahrt zu den höher gelegenen, ruhigen Kirchen der Stadt.",
+        "hu": "Autóval a Scale Mobilit használjuk bázisként a felsővároshoz. A kulturális program után a völgybe hajtunk a lenyűgöző Ponte Musmecihez, amely a modern design ikonja. A napot a város magasabban fekvő, csendes templomaihoz tett kirándulással zárjuk.",
+        "ro": "Cu mașina, folosim Scale Mobili ca bază pentru orașul de sus. După programul cultural, coborâm în vale la impresionantul Ponte Musmeci, o icoană a designului modern. Ziua se încheie cu o vizită la bisericile liniștite din zonele mai înalte ale orașului.",
+        "en": "By car, we use the Scale Mobili as a base for the upper town. After the cultural tour, we drive down to the valley to see the impressive Ponte Musmeci, a modern design icon. The day ends with a drive to the quieter, elevated churches of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Pasta mit Brotkrumen und Sardellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Tészta zsemlemorzsával és szardellával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Paste cu pesmet și anșoa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta Mollicata",
+            "tip": "Pasta with breadcrumbs and anchovies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ponte Musmeci Ufer",
+            "tip": "Einzigartige Perspektive von unten.",
+            "emoji": "🌉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ponte Musmeci part",
+            "tip": "Egyedülálló perspektíva alulról.",
+            "emoji": "🌉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Ponte Musmeci",
+            "tip": "O perspectivă unică de jos.",
+            "emoji": "🌉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ponte Musmeci Bank",
+            "tip": "Unique perspective from below.",
+            "emoji": "🌉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lukanische Weine",
+            "tip": "Kaufen Sie eine Flasche Aglianico del Vulture."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lukan borok",
+            "tip": "Vásároljon egy üveg Aglianico del Vulture-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri lucane",
+            "tip": "Cumpărați o sticlă de Aglianico del Vulture."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lucanian Wines",
+            "tip": "Buy a bottle of Aglianico del Vulture."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Oberstadt ist sehr schwierig; nutzen Sie Parkhäuser im Tal.",
+          "Der Ponte Musmeci ist ein Muss für Architekturfans.",
+          "Die Straßen können eng und steil sein."
+        ],
+        "hu": [
+          "A felsővárosban a parkolás nehéz; használja a völgyi parkolóházakat.",
+          "A Ponte Musmeci kötelező az építészet kedvelőinek.",
+          "Az utcák szűkek és meredekek lehetnek."
+        ],
+        "ro": [
+          "Parcarea în orașul de sus este dificilă; folosiți parcările din vale.",
+          "Ponte Musmeci este obligatoriu pentru fanii arhitecturii.",
+          "Străzile pot fi înguste și abrupte."
+        ],
+        "en": [
+          "Parking in the upper town is very limited; use the multi-story lots in the valley.",
+          "Ponte Musmeci is a must-see for architecture enthusiasts.",
+          "Be prepared for narrow and steep winding roads."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ponte Musmeci",
+          "coords": [
+            15.7945,
+            40.6305
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie im Tal und bewundern Sie die organischen Formen.",
+            "hu": "Kezdjen a völgyben, és csodálja meg az organikus formákat.",
+            "ro": "Începeți în vale și admirați formele organice.",
+            "en": "Start in the valley and admire the organic concrete shapes."
+          }
+        },
+        {
+          "name": "Scale Mobili",
+          "coords": [
+            15.8015,
+            40.6355
+          ],
+          "category": "industry",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und den Aufstieg verkürzen.",
+            "hu": "Hagyja itt a biciklit, és rövidítse le a felfelé utat.",
+            "ro": "Lăsați bicicleta și scurtați urcarea.",
+            "en": "Park your bike and take the easy way up."
+          }
+        },
+        {
+          "name": "Piazza Mario Pagano",
+          "coords": [
+            15.8055,
+            40.6398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt auf dem Hügel.",
+            "hu": "A város szíve a dombtetőn.",
+            "ro": "Inima orașului pe deal.",
+            "en": "The heart of the city atop the ridge."
+          }
+        },
+        {
+          "name": "Palazzo Loffredo",
+          "coords": [
+            15.8092,
+            40.6415
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Geschichte und Kunst in einem prächtigen Palast.",
+            "hu": "Történelem és művészet egy pompás palotában.",
+            "ro": "Istorie și artă într-un palat somptuos.",
+            "en": "History and art inside a magnificent palace."
+          }
+        },
+        {
+          "name": "Via Pretoria",
+          "coords": [
+            15.8075,
+            40.6405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die Fußgängerzone.",
+            "hu": "Tolja a biciklit a sétálóutcán.",
+            "ro": "Împingeți bicicleta prin zona pietonală.",
+            "en": "Push your bike through the pedestrian zone."
+          }
+        },
+        {
+          "name": "Torre Guevara",
+          "coords": [
+            15.8115,
+            40.6425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang nach der Abfahrt.",
+            "hu": "Élvezze a naplementét a lejtmenet után.",
+            "ro": "Bucurați-vă de apus după coborâre.",
+            "en": "Enjoy the sunset after a rewarding ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour ist herausfordernd, aber belohnend. Wir starten im Tal am modernen Ponte Musmeci und erklimmen die Stadt, unterstützt durch die Rolltreppen für den steilsten Teil. Oben genießen wir das Panorama und die kühle Brise der Via Pretoria, bevor es rasant bergab geht.",
+        "hu": "Ez a kerékpártúra kihívást jelentő, de kifizetődő. A völgyben kezdünk a modern Ponte Musmecinél, majd felkapaszkodunk a városba, a legmeredekebb szakaszon a mozgólépcsőket hívva segítségül. Fent élvezzük a panorámát és a Via Pretoria hűvös szellőjét, mielőtt visszagurulnánk.",
+        "ro": "Acest tur cu bicicleta este provocator, dar plin de satisfacții. Începem în vale la modernul Ponte Musmeci și urcăm în oraș, ajutați de scările rulante pentru cea mai abruptă parte. Sus, ne bucurăm de panoramă și de briza răcoroasă de pe Via Pretoria înainte de coborâre.",
+        "en": "This bike tour is challenging but rewarding. We start in the valley at the modern Musmeci Bridge and climb into the city, using the escalators for the steepest section. At the top, enjoy the panorama and the cool breeze of Via Pretoria before a scenic descent."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Edler Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Nemes helyi sajtkülönlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "Brânză locală nobilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caciocavallo Podolico",
+            "tip": "A prized regional cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wald von San Michele",
+            "tip": "Natur pur in Stadtnähe.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Michele erdő",
+            "tip": "Tiszta természet a város közelében.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea San Michele",
+            "tip": "Natură pură lângă oraș.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Michele Woods",
+            "tip": "Pure nature near the city center.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Handwerk",
+            "tip": "Keramik und Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművestermékek",
+            "tip": "Kerámia és fafaragások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Ceramică și sculptură în lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Pottery and woodworking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind aufgrund der Steigungen sehr zu empfehlen.",
+          "In der Via Pretoria herrscht reger Fußgängerverkehr.",
+          "Achten Sie auf die Einbahnstraßen in der Altstadt."
+        ],
+        "hu": [
+          "Az emelkedők miatt az e-bike erősen ajánlott.",
+          "A Via Pretorián nagy a gyalogosforgalom.",
+          "Figyeljen az egyirányú utcákra az óvárosban."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate din cauza pantelor.",
+          "Pe Via Pretoria este trafic pietonal intens.",
+          "Atenție la străzile cu sens unic din centrul vechi."
+        ],
+        "en": [
+          "E-bikes are highly recommended due to the steep terrain.",
+          "Via Pretoria is often crowded with pedestrians.",
+          "Watch out for narrow one-way streets in the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Scale Mobili S. Lucia",
+          "coords": [
+            15.8015,
+            40.6355
+          ],
+          "category": "industry",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise auf den berühmten Rolltreppen.",
+            "hu": "Kezdje az utazást a híres mozgólépcsőkön.",
+            "ro": "Începeți călătoria pe faimoasele scări rulante.",
+            "en": "Begin your vertical journey on the famous escalators."
+          }
+        },
+        {
+          "name": "Piazza Mario Pagano",
+          "coords": [
+            15.8055,
+            40.6398
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang nach der Ankunft oben.",
+            "hu": "Rövid séta a fenti megérkezés után.",
+            "ro": "O scurtă plimbare după sosirea sus.",
+            "en": "A short walk after arriving at the upper city."
+          }
+        },
+        {
+          "name": "Museo Archeologico",
+          "coords": [
+            15.8092,
+            40.6415
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Im Palazzo Loffredo; leicht zu Fuß erreichbar.",
+            "hu": "A Palazzo Loffredóban; gyalogosan is könnyen elérhető.",
+            "ro": "În Palazzo Loffredo; ușor de ajuns pe jos.",
+            "en": "Located in Palazzo Loffredo; easy walk from the square."
+          }
+        },
+        {
+          "name": "Via Pretoria",
+          "coords": [
+            15.8075,
+            40.6405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagspause und Shopping im Zentrum.",
+            "hu": "Ebédszünet és vásárlás a központban.",
+            "ro": "Pauză de prânz și cumpărături în centru.",
+            "en": "Lunch break and shopping in the heart of town."
+          }
+        },
+        {
+          "name": "Cattedrale San Gerardo",
+          "coords": [
+            15.8085,
+            40.6412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigung des Doms, bevor es mit dem Bus weitergeht.",
+            "hu": "A dóm megtekintése, mielőtt busszal továbbmennénk.",
+            "ro": "Vizitarea domului înainte de a continua cu autobuzul.",
+            "en": "Visit the cathedral before taking a local bus."
+          }
+        },
+        {
+          "name": "Ponte Musmeci",
+          "coords": [
+            15.7945,
+            40.6305
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 1 oder 2 ins Tal zum Brücken-Meisterwerk.",
+            "hu": "Szálljon fel az 1-es vagy 2-es buszra a völgyi hídhoz.",
+            "ro": "Luați linia 1 sau 2 spre vale pentru capodopera podului.",
+            "en": "Take bus line 1 or 2 down to the valley for the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Potenzas Nahverkehr ist einzigartig: Wir nutzen die berühmten Rolltreppen, um mühelos die Oberstadt zu erreichen. Nach dem kulturellen Vormittag bringt uns der Stadtbus ins Tal zum futuristischen Ponte Musmeci, einem Kontrastprogramm zur historischen Altstadt.",
+        "hu": "Potenza tömegközlekedése egyedülálló: a híres mozgólépcsőkkel könnyedén elérjük a felsővárost. A kulturális délelőtt után helyi busszal ereszkedünk le a völgybe a futurista Ponte Musmecihez, amely remek kontrasztot ad a történelmi óvárosnak.",
+        "ro": "Transportul public din Potenza este unic: folosim faimoasele scări rulante pentru a ajunge fără efort în orașul de sus. După o dimineață culturală, autobuzul urban ne duce în vale la futuristul Ponte Musmeci, un contrast perfect cu centrul vechi istoric.",
+        "en": "Potenza's public transit is one-of-a-kind: we use the famous public escalators to reach the upper city effortlessly. After a morning of culture, a local bus takes us down to the valley to see the futuristic Musmeci Bridge, a sharp contrast to the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strazzate",
+            "tip": "Traditionelle süße Kekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strazzate",
+            "tip": "Hagyományos édes kekszek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strazzate",
+            "tip": "Biscuiți dulci tradiționali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strazzate",
+            "tip": "Traditional sweet cookies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Pagano Bänke",
+            "tip": "Beobachten Sie das Treiben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Pagano padjai",
+            "tip": "Figyelje a városi életet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din Piazza Pagano",
+            "tip": "Observați viața orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Pagano Benches",
+            "tip": "Watch the world go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk-Spezialitäten",
+            "tip": "Lokale Zeitschriften und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos standok",
+            "tip": "Helyi lapok és rágcsálnivalók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de ziare",
+            "tip": "Reviste locale și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newsstand treats",
+            "tip": "Local papers and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus in Tabakläden.",
+          "Die Scale Mobili sind Teil des öffentlichen Verkehrsnetzes.",
+          "Achten Sie auf die Fahrpläne am Wochenende."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre a dohányboltokban.",
+          "A Scale Mobili a tömegközlekedési hálózat része.",
+          "Figyeljen a hétvégi menetrendre."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la tutungerii.",
+          "Scale Mobili fac parte din rețeaua de transport public.",
+          "Atenție la orarul de weekend."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops (tabacchi).",
+          "The Scale Mobili are an integral part of the city's transit.",
+          "Check weekend schedules as bus frequency may decrease."
+        ]
+      }
+    }
+  }
+}

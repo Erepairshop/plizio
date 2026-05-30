@@ -1,0 +1,1082 @@
+{
+  "city_id": "heilbronn-extra",
+  "anchor": {
+    "name": "Heilbronn Rathaus",
+    "coords": [
+      9.2192,
+      49.1414
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            9.2192,
+            49.1414
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die astronomische Kunstuhr aus dem 16. Jahrhundert.",
+            "hu": "Csodáld meg a 16. századi csillagászati műórát a homlokzaton.",
+            "ro": "Admirați ceasul astronomic de artă din secolul al XVI-lea.",
+            "en": "Admire the 16th-century astronomical clock on the facade."
+          }
+        },
+        {
+          "name": "Kilianskirche",
+          "coords": [
+            9.2194,
+            49.1424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Der Westturm gilt als bedeutendes Renaissance-Bauwerk nördlich der Alpen.",
+            "hu": "A nyugati torony az Alpoktól északra fekvő reneszánsz építészet remekműve.",
+            "ro": "Turnul de vest este o lucrare importantă a Renașterii la nord de Alpi.",
+            "en": "The west tower is a major Renaissance structure north of the Alps."
+          }
+        },
+        {
+          "name": "Deutschhof",
+          "coords": [
+            9.2162,
+            49.141
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ehemalige Hauskommende des Deutschen Ordens mit Stadtmuseum.",
+            "hu": "A Német Lovagrend egykori székhelye, ma városi múzeum.",
+            "ro": "Fosta comandă a Ordinului Teuton, acum muzeu municipal.",
+            "en": "Former commandery of the Teutonic Order, now a city museum."
+          }
+        },
+        {
+          "name": "Götzenturm",
+          "coords": [
+            9.2181,
+            49.1383
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Historischer Wehrturm, benannt nach Götz von Berlichingen.",
+            "hu": "Történelmi védműtorony, mely Götz von Berlichingenről kapta nevét.",
+            "ro": "Turn de apărare istoric, numit după Götz von Berlichingen.",
+            "en": "Historic defense tower named after Götz von Berlichingen."
+          }
+        },
+        {
+          "name": "Neckarmeile",
+          "coords": [
+            9.216,
+            49.143
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Lebendige Uferpromenade mit vielen Cafés direkt am Neckar.",
+            "hu": "Élettel teli vízparti sétány kávézókkal a Neckar mentén.",
+            "ro": "Promenadă plină de viață cu multe cafenele direct pe Neckar.",
+            "en": "Lively waterfront promenade with many cafés directly on the Neckar."
+          }
+        },
+        {
+          "name": "Experimenta Heilbronn",
+          "coords": [
+            9.2155,
+            49.1441
+          ],
+          "category": "museums",
+          "arrive_at": "13:54",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Deutschlands größtes Science Center in spektakulärer Architektur.",
+            "hu": "Németország legnagyobb interaktív tudományos központja.",
+            "ro": "Cel mai mare centru de știință din Germania într-o arhitectură spectaculoasă.",
+            "en": "Germany's largest science center in spectacular architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Marktplatz mit dem prächtigen Rathaus und der Kilianskirche. Danach tauchen Sie im Deutschhof in die Geschichte des Deutschen Ordens ein. Nach einem kurzen Stopp am Götzenturm genießen Sie die Atmosphäre an der Neckarmeile, bevor Sie den Nachmittag in der faszinierenden Welt der Experimenta ausklingen lassen.",
+        "hu": "A napot a főtéren kezdjük a pompás városházával és a Kilián-templommal. Ezután a Deutschhof falai között ismerkedünk meg a Német Lovagrend történetével. A Götzenturm érintése után a Neckar-parti sétányon pihenhetünk meg, végül az Experimenta interaktív világa vár ránk.",
+        "ro": "Ziua începe în piața centrală cu primăria magnifică și Biserica Sf. Kilian. Apoi, explorați istoria Ordinului Teuton la Deutschhof. După o scurtă oprire la Götzenturm, bucurați-vă de atmosfera de pe Neckarmeile înainte de a încheia după-amiaza în lumea fascinantă a Experimenta.",
+        "en": "Your day starts at the market square with the magnificent town hall and St. Kilian's Church. Next, dive into the history of the Teutonic Order at the Deutschhof. After a quick stop at the Götzenturm, enjoy the atmosphere on the Neckarmeile before ending the afternoon in the fascinating world of Experimenta."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Besenwirtschaft",
+            "tip": "Probieren Sie lokalen Riesling oder Trollinger direkt beim Winzer."
+          },
+          {
+            "name": "Heilbronner Leibgericht",
+            "tip": "Maultaschen mit Kartoffelsalat und Zwiebelrostbraten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Besenwirtschaft",
+            "tip": "Kóstolja meg a helyi Rajnai Rizlinget vagy Trollingert közvetlenül a borásznál."
+          },
+          {
+            "name": "Heilbronni kedvenc",
+            "tip": "Maultaschen (töltött tészta) burgonyasalátával és hagymás rostélyossal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Besenwirtschaft",
+            "tip": "Gustați Riesling sau Trollinger local direct de la vinificator."
+          },
+          {
+            "name": "Preparat local",
+            "tip": "Maultaschen cu salată de cartofi și friptură cu ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Besenwirtschaft",
+            "tip": "Try local Riesling or Trollinger wine directly from the winemaker."
+          },
+          {
+            "name": "Heilbronn Specialty",
+            "tip": "Maultaschen (dumplings) with potato salad and onion roast beef."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hagenbucher See",
+            "tip": "Ruhiger Platz direkt hinter der Experimenta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Neckarufer",
+            "tip": "Abseits der Meile finden sich stille Bänke am Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagenbucher-tó",
+            "tip": "Csendes hely közvetlenül az Experimenta mögött.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Neckar-part",
+            "tip": "A nyüzsgő sétánytól távolabb csendes padok várnak a folyónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Hagenbucher",
+            "tip": "Loc liniștit direct în spatele Experimenta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Neckarului",
+            "tip": "Departe de agitație găsiți bănci liniștite lângă râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hagenbucher See",
+            "tip": "Quiet spot located directly behind Experimenta.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Neckar Banks",
+            "tip": "Away from the main promenade, find peaceful benches by the river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtgalerie",
+            "tip": "Großes Einkaufszentrum im Herzen der Innenstadt."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte aus der Region Heilbronn-Franken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtgalerie",
+            "tip": "Nagy bevásárlóközpont a belváros szívében."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek a Heilbronn-Franken régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtgalerie",
+            "tip": "Centru comercial mare în inima orașului."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete din regiunea Heilbronn-Franken."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtgalerie",
+            "tip": "Large shopping center in the heart of the city center."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh local products from the Heilbronn-Franken region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist flach und sehr gut zu Fuß erreichbar.",
+          "Achten Sie auf das 'Käthchenhaus' am Marktplatz.",
+          "Die Neckarmeile ist besonders abends sehr stimmungsvoll.",
+          "Buchen Sie Tickets für die Experimenta vorab online."
+        ],
+        "hu": [
+          "A belváros sík és kiválóan bejárható gyalogosan.",
+          "Keresd a híres 'Käthchenhaus'-t a főtéren.",
+          "A Neckar-parti sétány különösen este hangulatos.",
+          "Az Experimenta jegyeket érdemes előre online lefoglalni."
+        ],
+        "ro": [
+          "Centrul orașului este plat și foarte ușor de parcurs pe jos.",
+          "Căutați 'Käthchenhaus' în piața centrală.",
+          "Neckarmeile este deosebit de atmosferică seara.",
+          "Rezervați biletele pentru Experimenta online în avans."
+        ],
+        "en": [
+          "The city center is flat and very easy to explore on foot.",
+          "Look out for the 'Käthchenhaus' on the market square.",
+          "The Neckarmeile is particularly atmospheric in the evening.",
+          "Book tickets for Experimenta online in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            9.2192,
+            49.1414
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Startpunkt im Zentrum mit vielen Abstellmöglichkeiten.",
+            "hu": "Központi kiindulópont számos kerékpártárolóval.",
+            "ro": "Punct de plecare în centru cu multe facilități de parcare.",
+            "en": "Central starting point with plenty of bike parking."
+          }
+        },
+        {
+          "name": "Kilianskirche",
+          "coords": [
+            9.2194,
+            49.1424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Kurzer Stopp am Wahrzeichen der Stadt.",
+            "hu": "Rövid megálló a város jelképénél.",
+            "ro": "Scurtă oprire la simbolul orașului.",
+            "en": "Short stop at the city's landmark."
+          }
+        },
+        {
+          "name": "Experimenta",
+          "coords": [
+            9.2155,
+            49.1441
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ideal erreichbar über den Neckarradweg.",
+            "hu": "Kiválóan elérhető a Neckar menti kerékpárúton.",
+            "ro": "Ideal accesibil prin pista de biciclete Neckar.",
+            "en": "Ideally accessible via the Neckar bike path."
+          }
+        },
+        {
+          "name": "Botanischer Obstgarten",
+          "coords": [
+            9.2428,
+            49.1558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Historische Gartenanlage mit alten Obstsorten.",
+            "hu": "Történelmi kert régi gyümölcsfajtákkal.",
+            "ro": "Grădină istorică cu soiuri vechi de fructe.",
+            "en": "Historic garden layout with old fruit varieties."
+          }
+        },
+        {
+          "name": "Trappensee",
+          "coords": [
+            9.2482,
+            49.1425
+          ],
+          "category": "natural features",
+          "arrive_at": "13:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Kleiner See mit idyllischem Wasserschloss.",
+            "hu": "Kis tó idilli vízi kastéllyal.",
+            "ro": "Mic lac cu un castel pe apă idilic.",
+            "en": "Small lake with an idyllic moated castle."
+          }
+        },
+        {
+          "name": "Wertwiesenpark",
+          "coords": [
+            9.2152,
+            49.1255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Großzügiges Parkgelände am Neckar, ideal für eine Pause.",
+            "hu": "Tágas park a Neckar mentén, ideális pihenőhely.",
+            "ro": "Zonă de parc generoasă pe Neckar, ideală pentru o pauză.",
+            "en": "Spacious parkland on the Neckar, ideal for a break."
+          }
+        },
+        {
+          "name": "Götzenturm",
+          "coords": [
+            9.2181,
+            49.1383
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Markanter Turm an der alten Stadtmauer.",
+            "hu": "Jellegzetes torony a régi városfalnál.",
+            "ro": "Turn distinctiv la vechiul zid al orașului.",
+            "en": "Striking tower at the old city wall."
+          }
+        },
+        {
+          "name": "Deutschhof",
+          "coords": [
+            9.2162,
+            49.141
+          ],
+          "category": "museums",
+          "arrive_at": "16:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Abschluss im historischen Hofareal.",
+            "hu": "Befejezés a történelmi udvarban.",
+            "ro": "Finalizare în zona istorică a curții.",
+            "en": "Conclusion in the historic courtyard area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Heilbronn auf zwei Rädern! Nach dem Start im Zentrum führt Sie der Weg zur Experimenta und weiter in den Osten zum Botanischen Obstgarten und dem idyllischen Trappensee. Entlang des Neckars radeln Sie zum weitläufigen Wertwiesenpark und kehren über den Götzenturm zurück in die Altstadt.",
+        "hu": "Fedezze fel Heilbronnt két keréken! A központból indulva az utunk az Experimentához, majd keletre, a Botanikus Gyümölcsöskerthez és az idilli Trappensee-hez vezet. A Neckar mentén kerekezünk a tágas Wertwiesenparkig, majd a Götzenturm érintésével térünk vissza az óvárosba.",
+        "ro": "Explorați Heilbronn pe două roți! După pornirea din centru, drumul vă duce la Experimenta și mai departe spre est la Grădina Botanică de Livezi și idilicul Trappensee. Mergeți cu bicicleta de-a lungul Neckarului până la vastul Wertwiesenpark și întoarceți-vă în orașul vechi prin Götzenturm.",
+        "en": "Explore Heilbronn on two wheels! After starting in the center, the path leads you to Experimenta and further east to the Botanical Orchard and the idyllic Trappensee. Cycle along the Neckar to the spacious Wertwiesenpark and return to the old town via the Götzenturm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten im Wertwiesenpark",
+            "tip": "Entspannte Pause im Grünen."
+          },
+          {
+            "name": "Neckarmeile Gastro",
+            "tip": "Vielseitige Auswahl direkt am Radweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sörkert a Wertwiesenparkban",
+            "tip": "Kellemes pihenő a zöldben."
+          },
+          {
+            "name": "Neckarmeile gasztronómia",
+            "tip": "Változatos kínálat közvetlenül a kerékpárút mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădină de bere în Wertwiesenpark",
+            "tip": "Pauză relaxantă în verdeață."
+          },
+          {
+            "name": "Gastro Neckarmeile",
+            "tip": "Selecție versatilă direct pe pista de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beer Garden in Wertwiesenpark",
+            "tip": "Relaxing break in the greenery."
+          },
+          {
+            "name": "Neckarmeile Dining",
+            "tip": "Diverse selection directly on the bike path."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Obstgarten",
+            "tip": "Wunderschöner Rückzugsort mit alten Gartenhäusern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trappensee",
+            "tip": "Ruhiger Spaziergang um den See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Gyümölcsöskert",
+            "tip": "Gyönyörű menedék régi kerti házakkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trappensee",
+            "tip": "Csendes séta a tó körül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică de Livezi",
+            "tip": "Refugiu frumos cu căsuțe de grădină vechi.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trappensee",
+            "tip": "Plimbare liniștită în jurul lacului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Orchard",
+            "tip": "Beautiful retreat with old garden houses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Trappensee",
+            "tip": "Quiet walk around the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in der Umgebung",
+            "tip": "Frisches Obst und Wein direkt ab Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Környékbeli udvari boltok",
+            "tip": "Friss gyümölcs és bor közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în zonă",
+            "tip": "Fructe proaspete și vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Fresh fruit and wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Neckarradweg für flache Etappen.",
+          "Die Strecke zum Obstgarten hat eine leichte Steigung.",
+          "Es gibt viele Fahrradverleihstationen in der Stadt.",
+          "Der Wertwiesenpark ist ideal für Familien."
+        ],
+        "hu": [
+          "Használja a Neckar menti kerékpárutat a sík szakaszokhoz.",
+          "A Gyümölcsöskert felé vezető úton van egy kis emelkedő.",
+          "A városban számos kerékpárkölcsönző található.",
+          "A Wertwiesenpark ideális választás családoknak."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete Neckar pentru etape plane.",
+          "Traseul către livadă are o pantă ușoară.",
+          "Există multe stații de închiriere de biciclete în oraș.",
+          "Wertwiesenpark este ideal pentru familii."
+        ],
+        "en": [
+          "Use the Neckar bike path for flat sections.",
+          "The route to the orchard has a slight incline.",
+          "There are many bike rental stations in the city.",
+          "Wertwiesenpark is ideal for families."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            9.2192,
+            49.1414
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie im Parkhaus am Marktplatz (Cluster Zentrum).",
+            "hu": "Parkoljon a főtéri parkolóházban (Központi klaszter).",
+            "ro": "Parcați în parcarea de la piața centrală (Cluster Centru).",
+            "en": "Park in the market square car park (Center cluster)."
+          }
+        },
+        {
+          "name": "Kilianskirche",
+          "coords": [
+            9.2194,
+            49.1424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Zufuß vom Rathaus erreichbar (Cluster Zentrum).",
+            "hu": "Gyalogosan elérhető a városházától (Központi klaszter).",
+            "ro": "Accesibil pe jos de la primărie (Cluster Centru).",
+            "en": "Accessible on foot from the town hall (Center cluster)."
+          }
+        },
+        {
+          "name": "Deutschhof",
+          "coords": [
+            9.2162,
+            49.141
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Kurzer Fußweg innerhalb der Innenstadt (Cluster Zentrum).",
+            "hu": "Rövid gyalogút a belvároson belül (Központi klaszter).",
+            "ro": "Scurtă plimbare în centrul orașului (Cluster Centru).",
+            "en": "Short walk within the city center (Center cluster)."
+          }
+        },
+        {
+          "name": "Experimenta",
+          "coords": [
+            9.2155,
+            49.1441
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Kurze Fahrt zum Parkhaus Experimenta (Cluster Fluss).",
+            "hu": "Rövid autóút az Experimenta parkolóházhoz (Folyó klaszter).",
+            "ro": "Scurtă călătorie până la parcarea Experimenta (Cluster Râu).",
+            "en": "Short drive to the Experimenta car park (River cluster)."
+          }
+        },
+        {
+          "name": "Neckarmeile",
+          "coords": [
+            9.216,
+            49.143
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Zufuß von der Experimenta erreichbar (Cluster Fluss).",
+            "hu": "Gyalogosan elérhető az Experimentától (Folyó klaszter).",
+            "ro": "Accesibil pe jos de la Experimenta (Cluster Râu).",
+            "en": "Accessible on foot from Experimenta (River cluster)."
+          }
+        },
+        {
+          "name": "Trappensee",
+          "coords": [
+            9.2482,
+            49.1425
+          ],
+          "category": "natural features",
+          "arrive_at": "14:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Fahrt zum Parkplatz am Trappensee (Cluster Ost).",
+            "hu": "Autózás a Trappensee parkolóhoz (Keleti klaszter).",
+            "ro": "Călătorie până la parcarea de la Trappensee (Cluster Est).",
+            "en": "Drive to the Trappensee car park (East cluster)."
+          }
+        },
+        {
+          "name": "Botanischer Obstgarten",
+          "coords": [
+            9.2428,
+            49.1558
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.2,
+          "tip_4lang": {
+            "de": "Abschluss im Grünen (Cluster Ost).",
+            "hu": "Befejezés a zöldben (Keleti klaszter).",
+            "ro": "Final în verdeață (Cluster Est).",
+            "en": "Ending in the greenery (East cluster)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet die Highlights im Zentrum mit den idyllischen Randgebieten. Nach der Erkundung der Altstadt zu Fuß (Rathaus, Kirche, Deutschhof) fahren Sie kurz zur Experimenta am Neckar. Den Nachmittag verbringen Sie im Osten der Stadt am Trappensee und im Botanischen Obstgarten, die bequem mit dem Auto erreichbar sind.",
+        "hu": "Ez a túra összeköti a központ látnivalóit az idilli peremterületekkel. Az óváros gyalogos felfedezése után (Városháza, templom, Deutschhof) egy rövid autózással elérjük a Neckar-parti Experimentát. A délutánt a város keleti részén, a Trappensee-nél és a Botanikus Gyümölcsöskertben töltjük.",
+        "ro": "Acest tur combină punctele de atracție din centru cu zonele periferice idilice. După explorarea centrului vechi pe jos (primărie, biserică, Deutschhof), conduceți puțin până la Experimenta de pe Neckar. Petreceți după-amiaza în estul orașului, la Trappensee și la Grădina Botanică de Livezi.",
+        "en": "This tour combines the highlights of the center with the idyllic outskirts. After exploring the old town on foot (town hall, church, Deutschhof), take a short drive to Experimenta on the Neckar. Spend the afternoon in the east of the city at Trappensee and the Botanical Orchard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Trappensee",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Trappensee-nél",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Trappensee",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Trappensee",
+            "tip": "Fine dining in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Trappensee",
+            "tip": "Idyllischer Ort zum Durchatmen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trappensee",
+            "tip": "Idilli hely egy kis kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trappensee",
+            "tip": "Loc idilic pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trappensee",
+            "tip": "Idyllic spot to take a breath.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadtgalerie Parkhaus",
+            "tip": "Idealer Ausgangspunkt für Shopping in der City."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtgalerie parkolóház",
+            "tip": "Ideális kiindulópont a belvárosi vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Stadtgalerie",
+            "tip": "Punct de plecare ideal pentru cumpărături în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtgalerie Car Park",
+            "tip": "Ideal starting point for shopping in the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkleitsysteme der Stadt.",
+          "Parkhäuser im Zentrum sind samstags oft voll.",
+          "Die Fahrt zum Trappensee dauert nur ca. 10 Minuten.",
+          "Experimenta bietet ein eigenes Parkhaus an."
+        ],
+        "hu": [
+          "Használja a város parkolási irányító rendszerét.",
+          "A központi parkolóházak szombaton gyakran megtelnek.",
+          "Az út a Trappensee-hez mindössze 10 perc.",
+          "Az Experimenta saját parkolóházzal rendelkezik."
+        ],
+        "ro": [
+          "Utilizați sistemele de ghidare pentru parcare ale orașului.",
+          "Parcările din centru sunt adesea pline sâmbăta.",
+          "Călătoria până la Trappensee durează doar aproximativ 10 minute.",
+          "Experimenta oferă propria parcare supraetajată."
+        ],
+        "en": [
+          "Use the city's parking guidance systems.",
+          "City center car parks are often full on Saturdays.",
+          "The drive to Trappensee takes only about 10 minutes.",
+          "Experimenta has its own multi-story car park."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            9.2192,
+            49.1414
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Haltestelle Rathaus liegt direkt im Herzen der Stadt.",
+            "hu": "A Rathaus megálló közvetlenül a város szívében található.",
+            "ro": "Stația Rathaus se află direct în inima orașului.",
+            "en": "The Rathaus stop is located right in the heart of the city."
+          }
+        },
+        {
+          "name": "Kilianskirche",
+          "coords": [
+            9.2194,
+            49.1424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Nur wenige Schritte von der Haltestelle Rathaus.",
+            "hu": "Csak pár lépés a Rathaus megállótól.",
+            "ro": "La doar câțiva pași de stația Rathaus.",
+            "en": "Just a few steps from the Rathaus stop."
+          }
+        },
+        {
+          "name": "Deutschhof",
+          "coords": [
+            9.2162,
+            49.141
+          ],
+          "category": "museums",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Zentraler Museumsstandort in Laufnähe.",
+            "hu": "Központi múzeum gyalogos távolságra.",
+            "ro": "Locație centrală a muzeului la mică distanță de mers pe jos.",
+            "en": "Central museum location within walking distance."
+          }
+        },
+        {
+          "name": "Trappensee",
+          "coords": [
+            9.2482,
+            49.1425
+          ],
+          "category": "natural features",
+          "arrive_at": "11:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_4lang": {
+            "de": "Erreichbar mit der Stadtbahnlinie S4 (Richtung Weinsberg).",
+            "hu": "Az S4-es HÉV-vel érhető el (Weinsberg irányába).",
+            "ro": "Accesibil cu linia de tren urban S4 (direcția Weinsberg).",
+            "en": "Accessible via city train line S4 (towards Weinsberg)."
+          }
+        },
+        {
+          "name": "Experimenta",
+          "coords": [
+            9.2155,
+            49.1441
+          ],
+          "category": "museums",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Haltestelle Neckarturm am Vorplatz.",
+            "hu": "Neckarturm megálló közvetlenül az épületnél.",
+            "ro": "Stația Neckarturm în piața din față.",
+            "en": "Neckarturm stop in the forecourt."
+          }
+        },
+        {
+          "name": "Wertwiesenpark",
+          "coords": [
+            9.2152,
+            49.1255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Mit dem Bus direkt zum Parkeingang.",
+            "hu": "Busszal közvetlenül a park bejáratához.",
+            "ro": "Cu autobuzul direct la intrarea în parc.",
+            "en": "Take the bus directly to the park entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Stadtbahn- und Bussystem von Heilbronn. Starten Sie im Herzen am Rathaus und fahren Sie mit der S-Bahn hinaus zum Trappensee. Zurück im Zentrum besuchen Sie die Experimenta und fahren zum Abschluss in den Süden zum entspannten Wertwiesenpark.",
+        "hu": "Használja ki Heilbronn kiváló HÉV- és buszhálózatát. Kezdjen a központban a városházánál, majd az S-Bahnnal utazzon ki a Trappensee-hez. Visszatérve a belvárosba látogassa meg az Experimentát, végül buszozzon el délre, a pihentető Wertwiesenparkba.",
+        "ro": "Profitați de sistemul excelent de trenuri urbane și autobuze din Heilbronn. Începeți în centru la primărie și mergeți cu S-Bahn până la Trappensee. Întors în centru, vizitați Experimenta și mergeți la final în sud, la relaxantul Wertwiesenpark.",
+        "en": "Take advantage of Heilbronn's excellent city train and bus system. Start in the heart at the town hall and take the S-Bahn out to Trappensee. Back in the center, visit Experimenta and finish by heading south to the relaxing Wertwiesenpark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk im Wertwiesenpark",
+            "tip": "Schneller Snack während der Parkpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk a Wertwiesenparkban",
+            "tip": "Gyors falatok a parki pihenő alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în Wertwiesenpark",
+            "tip": "Gustare rapidă în timpul pauzei din parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk in Wertwiesenpark",
+            "tip": "Quick snack during the park break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Trappensee Seeufer",
+            "tip": "Ruhiger Spot außerhalb des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trappensee tópart",
+            "tip": "Csendes pont a nyüzsgésen kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țărmul lacului Trappensee",
+            "tip": "Loc liniștit în afara agitației.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trappensee Lakeshore",
+            "tip": "Quiet spot away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Haupteinkaufsstraße, direkt an den Stadtbahn-Linien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Fő bevásárlóutca, közvetlenül a HÉV vonalak mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Principala stradă comercială, direct pe liniile de tren urban."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Main shopping street, directly on the city train lines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die S-Bahn fährt im 20-Minuten-Takt durch die City.",
+          "Ein Tagesticket der HNV lohnt sich ab drei Fahrten.",
+          "Die Stadtbahn fungiert im Zentrum wie eine Straßenbahn.",
+          "Aushänge an den Haltestellen sind sehr übersichtlich."
+        ],
+        "hu": [
+          "A HÉV (S-Bahn) 20 percenként közlekedik a városban.",
+          "Egy HNV napijegy már három utazástól megéri.",
+          "A HÉV a belvárosban villamosként funkcionál.",
+          "A megállókban lévő hirdetmények nagyon egyértelműek."
+        ],
+        "ro": [
+          "S-Bahn circulă la fiecare 20 de minute prin oraș.",
+          "Un bilet de o zi HNV merită de la trei călătorii în sus.",
+          "Trenul urban funcționează ca un tramvai în centru.",
+          "Afișele din stații sunt foarte clare."
+        ],
+        "en": [
+          "The S-Bahn runs every 20 minutes through the city.",
+          "An HNV day ticket is worth it after three trips.",
+          "The city train functions like a tram in the center.",
+          "Posters at the stops are very clear."
+        ]
+      }
+    }
+  }
+}

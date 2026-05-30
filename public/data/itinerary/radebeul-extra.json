@@ -1,0 +1,1098 @@
+{
+  "city_id": "radebeul-extra",
+  "anchor": {
+    "name": "Radebeul Zentrum",
+    "coords": [
+      13.6667,
+      51.1
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altkötzschenbroda",
+            "hu": "Altkötzschenbroda",
+            "ro": "Altkötzschenbroda",
+            "en": "Altkötzschenbroda"
+          },
+          "coords": [
+            13.633,
+            51.104
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den historischen Dorfanger am Morgen.",
+            "hu": "Élvezze a történelmi falusi főteret reggel.",
+            "ro": "Bucurați-vă de piața istorică a satului dimineața.",
+            "en": "Enjoy the historic village green in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherkirche",
+            "hu": "Luther-templom",
+            "ro": "Biserica Luther",
+            "en": "Luther Church"
+          },
+          "coords": [
+            13.631,
+            51.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die neogotische Architektur im Inneren.",
+            "hu": "Figyelje meg a neogótikus belső építészetet.",
+            "ro": "Admirați arhitectura neogotică din interior.",
+            "en": "Note the neo-Gothic interior architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Karl-May-Museum",
+            "hu": "Karl May Múzeum",
+            "ro": "Muzeul Karl May",
+            "en": "Karl May Museum"
+          },
+          "coords": [
+            13.673,
+            51.102
+          ],
+          "category": "museums",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Villa Shatterhand, Mays echtes Wohnhaus.",
+            "hu": "Látogasson el a Villa Shatterhandbe, May valódi házába.",
+            "ro": "Vizitați Villa Shatterhand, casa reală a lui Karl May.",
+            "en": "Visit Villa Shatterhand, Karl May's real residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoflößnitz",
+            "hu": "Hoflößnitz borászat",
+            "ro": "Domeniul Hoflößnitz",
+            "en": "Hoflößnitz Winery"
+          },
+          "coords": [
+            13.662,
+            51.113
+          ],
+          "category": "museums",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Wein im sächsischen Weinbaumuseum.",
+            "hu": "Kóstolja meg a helyi bort a szász borászati múzeumban.",
+            "ro": "Gustați vinul local la muzeul viticulturii săsești.",
+            "en": "Taste local wine at the Saxon viticulture museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzhaus",
+            "hu": "Spitzhaus kilátó",
+            "ro": "Spitzhaus",
+            "en": "Spitzhaus Viewpoint"
+          },
+          "coords": [
+            13.667,
+            51.116
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der beste Blick über das Elbtal nach Dresden.",
+            "hu": "A legjobb kilátás az Elba-völgyre és Drezdára.",
+            "ro": "Cea mai bună vedere asupra văii Elbei spre Dresda.",
+            "en": "The best view over the Elbe valley towards Dresden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch Radebeul beginnt im charmanten Altkötzschenbroda. Vormittags erkunden Sie die Kirchengeschichte und tauchen dann tief in die Welt von Winnetou im Karl-May-Museum ein. Der Nachmittag gehört dem Wein in Hoflößnitz, bevor der Tag mit einem spektakulären Blick vom Spitzhaus über die Weinberge und das Elbtal ausklingt.",
+        "hu": "A nyugodt séta Radebeulban a bájos Altkötzschenbrodában kezdődik. Délelőtt a templom történetét ismerheti meg, majd elmélyedhet Winnetou világában a Karl May Múzeumban. A délután a boré Hoflößnitzben, mielőtt a napot a Spitzhaus-ról nyíló, szőlőültetvényekre és az Elba-völgyre néző látványos kilátással zárná.",
+        "ro": "O plimbare relaxantă prin Radebeul începe în fermecătorul Altkötzschenbroda. Dimineața explorați istoria bisericii, apoi pătrundeți în lumea lui Winnetou la Muzeul Karl May. După-amiaza este dedicată vinului la Hoflößnitz, înainte de a încheia ziua cu o vedere spectaculoasă de la Spitzhaus peste podgorii și valea Elbei.",
+        "en": "A relaxed walk through Radebeul begins in charming Altkötzschenbroda. Spend the morning exploring church history and the world of Winnetou at the Karl May Museum. The afternoon is dedicated to wine at Hoflößnitz, before concluding the day with a spectacular view from Spitzhaus over the vineyards and the Elbe valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altkötzschenbroda Gastronomie",
+            "tip": "Probieren Sie 'Quarkkeulchen' in einem der gemütlichen Hinterhöfe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altkötzschenbroda éttermek",
+            "tip": "Kóstolja meg a 'Quarkkeulchen'-t az egyik hangulatos udvarban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gastronomia Altkötzschenbroda",
+            "tip": "Încercați 'Quarkkeulchen' într-una dintre curțile interioare primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altkötzschenbroda Dining",
+            "tip": "Try local 'Quarkkeulchen' (curd pancakes) in one of the cozy backyards."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge am Spitzhaus",
+            "tip": "Ein ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spitzhaus szőlőhegyek",
+            "tip": "Csendes hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile de la Spitzhaus",
+            "tip": "Un loc liniștit pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spitzhaus Vineyards",
+            "tip": "A quiet spot for sunset views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Karl May",
+            "tip": "Einzigartige Souvenirs rund um den Wilden Westen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karl May Múzeumbolt",
+            "tip": "Egyedi szuvenírek a Vadnyugat világából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Karl May",
+            "tip": "Suveniruri unice despre Vestul Sălbatic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karl May Museum Shop",
+            "tip": "Unique souvenirs related to the Wild West."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für den Aufstieg zum Spitzhaus unerlässlich.",
+          "Die Weine der Region sind meist trocken und sehr mineralisch."
+        ],
+        "hu": [
+          "A Spitzhaus-hoz vezető emelkedőhöz kényelmes cipő szükséges.",
+          "A régió borai többnyire szárazak és ásványosak."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt esențiali pentru urcarea spre Spitzhaus.",
+          "Vinurile din regiune sunt de obicei seci și minerale."
+        ],
+        "en": [
+          "Comfortable shoes are essential for the climb to Spitzhaus.",
+          "Local wines are mostly dry and very mineral."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Wackerbarth",
+            "hu": "Wackerbarth-kastély",
+            "ro": "Castelul Wackerbarth",
+            "en": "Wackerbarth Castle"
+          },
+          "coords": [
+            13.618,
+            51.114
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Barocke Gartenanlage und Sektmanufaktur.",
+            "hu": "Barokk kert és pezsgőmanufaktúra.",
+            "ro": "Grădină barocă și manufactură de vin spumant.",
+            "en": "Baroque gardens and sparkling wine manufactory."
+          }
+        },
+        {
+          "name": {
+            "de": "Altkötzschenbroda",
+            "hu": "Altkötzschenbroda",
+            "ro": "Altkötzschenbroda",
+            "en": "Altkötzschenbroda"
+          },
+          "coords": [
+            13.633,
+            51.104
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für eine kurze Kaffeepause.",
+            "hu": "Ideális egy rövid kávészünetre.",
+            "ro": "Ideal pentru o scurtă pauză de cafea.",
+            "en": "Ideal for a quick coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherkirche",
+            "hu": "Luther-templom",
+            "ro": "Biserica Luther",
+            "en": "Luther Church"
+          },
+          "coords": [
+            13.631,
+            51.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe am Kirchplatz.",
+            "hu": "A nyugalom helye a templom téren.",
+            "ro": "Un loc de liniște în piața bisericii.",
+            "en": "A place of peace at the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Karl-May-Museum",
+            "hu": "Karl May Múzeum",
+            "ro": "Muzeul Karl May",
+            "en": "Karl May Museum"
+          },
+          "coords": [
+            13.673,
+            51.102
+          ],
+          "category": "museums",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schauen Sie sich den 'Silberschatz' im Museum an.",
+            "hu": "Nézze meg az 'ezüstkincset' a múzeumban.",
+            "ro": "Vedeți 'comoara de argint' din muzeu.",
+            "en": "See the 'silver treasure' in the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Lößnitzgrundbahn",
+            "hu": "Lößnitzgrund vasút",
+            "ro": "Calea ferată Lößnitzgrund",
+            "en": "Lößnitzgrund Railway"
+          },
+          "coords": [
+            13.678,
+            51.105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie die Dampflokomotive bei der Abfahrt.",
+            "hu": "Nézze meg az induló gőzmozdonyt.",
+            "ro": "Vedeți locomotiva cu abur la plecare.",
+            "en": "Watch the steam locomotive departing."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoflößnitz",
+            "hu": "Hoflößnitz borászat",
+            "ro": "Domeniul Hoflößnitz",
+            "en": "Hoflößnitz Winery"
+          },
+          "coords": [
+            13.662,
+            51.113
+          ],
+          "category": "museums",
+          "arrive_at": "14:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Pressenkeller zeigt alte Weinpressen.",
+            "hu": "A présház régi borpréseket mutat be.",
+            "ro": "Pivnița de prese expune prese de vin vechi.",
+            "en": "The press cellar shows old wine presses."
+          }
+        },
+        {
+          "name": {
+            "de": "Bismarckturm",
+            "hu": "Bismarck-torony",
+            "ro": "Turnul Bismarck",
+            "en": "Bismarck Tower"
+          },
+          "coords": [
+            13.665,
+            51.118
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Markanter Turm inmitten der Weinberge.",
+            "hu": "Jellegzetes torony a szőlőhegyek közepén.",
+            "ro": "Turn distinctiv în mijlocul podgoriilor.",
+            "en": "Distinctive tower in the middle of the vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzhaus",
+            "hu": "Spitzhaus kilátó",
+            "ro": "Spitzhaus",
+            "en": "Spitzhaus Viewpoint"
+          },
+          "coords": [
+            13.667,
+            51.116
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abschluss mit Panoramablick über Sachsen.",
+            "hu": "Zárás panorámás kilátással Szászországra.",
+            "ro": "Final cu vedere panoramică asupra Saxoniei.",
+            "en": "Finish with a panoramic view over Saxony."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die prachtvollen Schlösser und Museen von Radebeul. Von Schloss Wackerbarth radeln Sie durch das historische Zentrum zum Karl-May-Museum. Nach einem kurzen Halt bei der Schmalspurbahn geht es bergauf zu den Weinbergen, vorbei an Hoflößnitz und dem Bismarckturm bis zum Spitzhaus.",
+        "hu": "Ez a kerékpártúra Radebeul pompás kastélyait és múzeumait köti össze. A Wackerbarth-kastélytól a történelmi központon át tekerhet a Karl May Múzeumig. Egy rövid megálló után a keskeny nyomtávú vasútnál, felfelé vezet az út a szőlőhegyekbe, érintve Hoflößnitzet és a Bismarck-tornyot, egészen a Spitzhausig.",
+        "ro": "Acest tur cu bicicleta conectează castelele și muzeele magnifice din Radebeul. De la Castelul Wackerbarth pedalați prin centrul istoric spre Muzeul Karl May. După o scurtă oprire la calea ferată cu ecartament îngust, urcați spre podgorii, trecând pe lângă Hoflößnitz și Turnul Bismarck până la Spitzhaus.",
+        "en": "This bike tour connects Radebeul's magnificent castles and museums. From Wackerbarth Castle, cycle through the historic center to the Karl May Museum. After a short stop at the narrow-gauge railway, head uphill to the vineyards, passing Hoflößnitz and the Bismarck Tower, ending at Spitzhaus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinhaus Schuh",
+            "tip": "Hervorragende sächsische Küche direkt am Radweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weinhaus Schuh",
+            "tip": "Kiváló szász konyha közvetlenül a kerékpárút mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weinhaus Schuh",
+            "tip": "Bucătărie săsească excelentă chiar lângă pista de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weinhaus Schuh",
+            "tip": "Excellent Saxon cuisine right on the bike path."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbradweg Radebeul",
+            "tip": "Ruhiges Fahren entlang des Flusses.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba kerékpárút",
+            "tip": "Csendes tekerés a folyó mentén.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete de pe Elba",
+            "tip": "Plimbare liniștită de-a lungul râului.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbe Bike Path",
+            "tip": "Quiet cycling along the river.",
+            "emoji": "🚴‍♂️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wackerbarth Vinothek",
+            "tip": "Sekt und Wein zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wackerbarth Vinotéka",
+            "tip": "Pezsgő és bor elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinoteca Wackerbarth",
+            "tip": "Vin spumant și vin pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wackerbarth Vinothek",
+            "tip": "Sparkling wine and wine to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Elbradweg für die flachen Abschnitte.",
+          "Die Anstiege in die Weinberge erfordern eine gute Grundkondition."
+        ],
+        "hu": [
+          "Használja az Elba-menti kerékpárutat a sík szakaszokon.",
+          "A szőlőhegyekbe vezető emelkedők jó kondíciót igényelnek."
+        ],
+        "ro": [
+          "Folosiți pista de pe Elba pentru secțiunile plane.",
+          "Urcările spre podgorii necesită o condiție fizică bună."
+        ],
+        "en": [
+          "Use the Elbe cycle path for the flat sections.",
+          "The climbs into the vineyards require good basic fitness."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Wackerbarth",
+            "hu": "Wackerbarth-kastély",
+            "ro": "Castelul Wackerbarth",
+            "en": "Wackerbarth Castle"
+          },
+          "coords": [
+            13.618,
+            51.114
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt auf dem Schlossgelände.",
+            "hu": "Parkoljon közvetlenül a kastély területén.",
+            "ro": "Parcați direct pe domeniul castelului.",
+            "en": "Park directly on the castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Altkötzschenbroda",
+            "hu": "Altkötzschenbroda",
+            "ro": "Altkötzschenbroda",
+            "en": "Altkötzschenbroda"
+          },
+          "coords": [
+            13.633,
+            51.104
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parkplatz an der Festwiese nutzen.",
+            "hu": "Használja a Festwiese melletti parkolót.",
+            "ro": "Folosiți parcarea de la Festwiese.",
+            "en": "Use the parking lot at Festwiese."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherkirche",
+            "hu": "Luther-templom",
+            "ro": "Biserica Luther",
+            "en": "Luther Church"
+          },
+          "coords": [
+            13.631,
+            51.105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz Altkötzschenbroda.",
+            "hu": "Gyalog az Altkötzschenbroda parkolótól.",
+            "ro": "Pe jos de la parcarea Altkötzschenbroda.",
+            "en": "On foot from the Altkötzschenbroda parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Karl-May-Museum",
+            "hu": "Karl May Múzeum",
+            "ro": "Muzeul Karl May",
+            "en": "Karl May Museum"
+          },
+          "coords": [
+            13.673,
+            51.102
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkplätze in der Nähe der Meißner Straße.",
+            "hu": "Parkolók a Meißner Straße közelében.",
+            "ro": "Parcări în apropierea străzii Meißner.",
+            "en": "Parking spaces near Meißner Straße."
+          }
+        },
+        {
+          "name": {
+            "de": "Lößnitzgrundbahn",
+            "hu": "Lößnitzgrund vasút",
+            "ro": "Calea ferată Lößnitzgrund",
+            "en": "Lößnitzgrund Railway"
+          },
+          "coords": [
+            13.678,
+            51.105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Bahnhof Radebeul Ost.",
+            "hu": "Rövid megálló a Radebeul Ost állomáson.",
+            "ro": "Scurtă oprire la gara Radebeul Ost.",
+            "en": "Short stop at Radebeul Ost station."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoflößnitz",
+            "hu": "Hoflößnitz borászat",
+            "ro": "Domeniul Hoflößnitz",
+            "en": "Hoflößnitz Winery"
+          },
+          "coords": [
+            13.662,
+            51.113
+          ],
+          "category": "museums",
+          "arrive_at": "14:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historisches Weingut mit Weinausschank.",
+            "hu": "Történelmi borászat borkóstolóval.",
+            "ro": "Podgorie istorică cu servire de vin.",
+            "en": "Historic winery with wine serving."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzhaus",
+            "hu": "Spitzhaus kilátó",
+            "ro": "Spitzhaus",
+            "en": "Spitzhaus Viewpoint"
+          },
+          "coords": [
+            13.667,
+            51.116
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Parkplatz Hoflößnitz zu Fuß bergauf.",
+            "hu": "Gyalog felfelé a Hoflößnitz parkolótól.",
+            "ro": "Pe jos la deal de la parcarea Hoflößnitz.",
+            "en": "Walk uphill from the Hoflößnitz parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Bismarckturm",
+            "hu": "Bismarck-torony",
+            "ro": "Turnul Bismarck",
+            "en": "Bismarck Tower"
+          },
+          "coords": [
+            13.665,
+            51.118
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in den Weinbergen.",
+            "hu": "Élvezze a nyugalmat a szőlőhegyekben.",
+            "ro": "Bucurați-vă de liniște în podgorii.",
+            "en": "Enjoy the peace in the vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Radebeuls. Starten Sie beim prunkvollen Schloss Wackerbarth, besuchen Sie das historische Dorfanger-Zentrum und das berühmte Karl-May-Museum. Den Abschluss bildet die Fahrt hinauf in die Weinberge zu Hoflößnitz und dem Bismarckturm, wo Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Autóval kényelmesen elérheti Radebeul különböző részeit. Kezdjen a pompás Wackerbarth-kastélynál, látogasson el a történelmi faluközpontba és a híres Karl May Múzeumba. A napot a szőlőhegyekbe való felhajtás zárja Hoflößnitzhez és a Bismarck-toronyhoz, ahol nyugodtan fejezheti be a napot.",
+        "ro": "Cu mașina ajungeți confortabil la diferitele niveluri ale Radebeulului. Începeți la somptuosul Castel Wackerbarth, vizitați centrul istoric al satului și celebrul Muzeu Karl May. Finalul este marcat de drumul spre podgorii la Hoflößnitz și Turnul Bismarck, unde puteți încheia ziua relaxat.",
+        "en": "By car, you can easily reach the different levels of Radebeul. Start at the magnificent Wackerbarth Castle, visit the historic village center and the famous Karl May Museum. End the day with a drive up to the vineyards to Hoflößnitz and the Bismarck Tower, where you can relax and unwind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus Schloss Wackerbarth",
+            "tip": "Gehobene Küche in fürstlichem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus Schloss Wackerbarth",
+            "tip": "Színvonalas konyha fejedelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus Schloss Wackerbarth",
+            "tip": "Bucătărie rafinată într-un ambient princiar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus Schloss Wackerbarth",
+            "tip": "Fine dining in a princely atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinbergshöhen",
+            "tip": "Panorama-Spaziergang oberhalb der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegyi magaslatok",
+            "tip": "Panorámás séta a város felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înălțimile podgoriilor",
+            "tip": "Plimbare panoramică deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Heights",
+            "tip": "Panoramic walk above the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hoflößnitz Weinladen",
+            "tip": "Biologische Weine aus eigenem Anbau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hoflößnitz borbolt",
+            "tip": "Saját termesztésű bioborok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de vinuri Hoflößnitz",
+            "tip": "Vinuri biologice din producție proprie.",
+            "en": "Organic wines from own cultivation."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hoflößnitz Wine Shop",
+            "tip": "Organic wines from their own vineyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen in Altkötzschenbroda.",
+          "Kombinieren Sie Hoflößnitz und Spitzhaus zu einem kleinen Rundgang."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra Altkötzschenbrodában.",
+          "Kombinálja Hoflößnitzet és a Spitzhaust egy kis körsétává."
+        ],
+        "ro": [
+          "Atenție la zonele de parcare în Altkötzschenbroda.",
+          "Combinați Hoflößnitz și Spitzhaus într-un mic tur pietonal."
+        ],
+        "en": [
+          "Pay attention to parking zones in Altkötzschenbroda.",
+          "Combine Hoflößnitz and Spitzhaus into a small walking loop."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Wackerbarth",
+            "hu": "Wackerbarth-kastély",
+            "ro": "Castelul Wackerbarth",
+            "en": "Wackerbarth Castle"
+          },
+          "coords": [
+            13.618,
+            51.114
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Straßenbahnlinie 4 hält direkt vor dem Schloss.",
+            "hu": "A 4-es villamos közvetlenül a kastély előtt áll meg.",
+            "ro": "Linia 4 de tramvai oprește chiar în fața castelului.",
+            "en": "Tram line 4 stops directly in front of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Altkötzschenbroda",
+            "hu": "Altkötzschenbroda",
+            "ro": "Altkötzschenbroda",
+            "en": "Altkötzschenbroda"
+          },
+          "coords": [
+            13.633,
+            51.104
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ausstieg Haltestelle Moritzburger Straße.",
+            "hu": "Szálljon le a Moritzburger Straße megállónál.",
+            "ro": "Coborâți la stația Moritzburger Straße.",
+            "en": "Exit at Moritzburger Straße stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Karl-May-Museum",
+            "hu": "Karl May Múzeum",
+            "ro": "Muzeul Karl May",
+            "en": "Karl May Museum"
+          },
+          "coords": [
+            13.673,
+            51.102
+          ],
+          "category": "museums",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Mit der Linie 4 bis Haltestelle Schildenstraße.",
+            "hu": "4-es villamossal a Schildenstraße megállóig.",
+            "ro": "Cu linia 4 până la stația Schildenstraße.",
+            "en": "Take line 4 to Schildenstraße stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Lößnitzgrundbahn",
+            "hu": "Lößnitzgrund vasút",
+            "ro": "Calea ferată Lößnitzgrund",
+            "en": "Lößnitzgrund Railway"
+          },
+          "coords": [
+            13.678,
+            51.105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In der Nähe des Bahnhofs Radebeul Ost.",
+            "hu": "A Radebeul Ost állomás közelében.",
+            "ro": "În apropierea gării Radebeul Ost.",
+            "en": "Near the Radebeul Ost station."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoflößnitz",
+            "hu": "Hoflößnitz borászat",
+            "ro": "Domeniul Hoflößnitz",
+            "en": "Hoflößnitz Winery"
+          },
+          "coords": [
+            13.662,
+            51.113
+          ],
+          "category": "museums",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Von Haltestelle Landesbühnen zu Fuß bergauf.",
+            "hu": "A Landesbühnen megállótól gyalog felfelé.",
+            "ro": "De la stația Landesbühnen pe jos la deal.",
+            "en": "Walk uphill from Landesbühnen stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzhaus",
+            "hu": "Spitzhaus kilátó",
+            "ro": "Spitzhaus",
+            "en": "Spitzhaus Viewpoint"
+          },
+          "coords": [
+            13.667,
+            51.116
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:26",
+          "stay_min": 79,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Über die Spitzhaustreppe erreichbar.",
+            "hu": "A Spitzhaus-lépcsőn keresztül érhető el.",
+            "ro": "Accesibil prin scările Spitzhaus.",
+            "en": "Accessible via the Spitzhaus stairs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Kulturlinie 4 der Dresdner Verkehrsbetriebe ist Ihr idealer Begleiter durch Radebeul. Sie verbindet die Highlights wie Schloss Wackerbarth und das Karl-May-Museum im 10-Minuten-Takt. Den steilen Aufstieg zu den Weinbergen bewältigen Sie am besten zu Fuß ab der Haltestelle Landesbühnen Sachsen, belohnt durch den besten Ausblick der Stadt.",
+        "hu": "A drezdai közlekedési vállalat 4-es kultúrvonala az ideális kísérője Radebeulban. 10 perces ütemben köti össze a fénypontokat, mint a Wackerbarth-kastély és a Karl May Múzeum. A szőlőhegyekbe vezető meredek utat legjobb gyalog megtenni a Landesbühnen Sachsen megállótól, aminek jutalma a város legjobb kilátása.",
+        "ro": "Linia culturală 4 a transportului public din Dresda este companionul ideal prin Radebeul. Conectează atracțiile principale precum Castelul Wackerbarth și Muzeul Karl May la fiecare 10 minute. Urcarea abruptă spre podgorii se face cel mai bine pe jos de la stația Landesbühnen Sachsen, fiind răsplătită cu cea mai bună vedere a orașului.",
+        "en": "Dresden's 'Culture Line 4' tram is your ideal companion through Radebeul. It connects highlights like Wackerbarth Castle and the Karl May Museum every 10 minutes. The steep climb to the vineyards is best done on foot from the Landesbühnen Sachsen stop, rewarded with the city's best view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Goldener Anker",
+            "tip": "Traditionelles Gasthaus in Altkötzschenbroda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Goldener Anker",
+            "tip": "Hagyományos vendéglő Altkötzschenbrodában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Goldener Anker",
+            "tip": "Han tradițional în Altkötzschenbroda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goldener Anker",
+            "tip": "Traditional inn in Altkötzschenbroda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedenskirchplatz",
+            "tip": "Ruhiger Platz zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friedenskirchplatz",
+            "tip": "Csendes tér a megálláshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bisericii Păcii",
+            "tip": "Piață liniștită pentru popas.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Friedenskirchplatz",
+            "tip": "Quiet square to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleine Läden in Altkötzschenbroda",
+            "tip": "Kunsthandwerk und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis boltok Altkötzschenbrodában",
+            "tip": "Kézműves termékek és helyi különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine mici în Altkötzschenbroda",
+            "tip": "Artizanat și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Shops in Altkötzschenbroda",
+            "tip": "Handicrafts and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie eine Tageskarte für die Tarifzone Radebeul.",
+          "Die Linie 4 fährt bis spät in die Nacht zurück nach Dresden."
+        ],
+        "hu": [
+          "Használjon napijegyet a radebeuli díjzónában.",
+          "A 4-es vonal késő éjszakáig közlekedik vissza Drezdába."
+        ],
+        "ro": [
+          "Folosiți un bilet de o zi pentru zona tarifară Radebeul.",
+          "Linia 4 circulă până târziu în noapte înapoi spre Dresda."
+        ],
+        "en": [
+          "Use a day ticket for the Radebeul fare zone.",
+          "Line 4 runs late into the night back to Dresden."
+        ]
+      }
+    }
+  }
+}

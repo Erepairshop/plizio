@@ -1,0 +1,1051 @@
+{
+  "city_id": "elmshorn-extra",
+  "anchor": {
+    "name": "Elmshorn Zentrum",
+    "coords": [
+      9.6543,
+      53.7535
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Buttermarkt",
+            "hu": "Vajpiac (Buttermarkt)",
+            "ro": "Piața de unt",
+            "en": "Buttermarkt Square"
+          },
+          "coords": [
+            9.6521,
+            53.7542
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Mittwoch oder Samstag für frische regionale Produkte.",
+            "hu": "Szerdán és szombaton friss helyi termékekkel telik meg a tér.",
+            "ro": "Vizitați piața miercuri sau sâmbătă pentru produse locale proaspete.",
+            "en": "Visit the market on Wednesday or Saturday for fresh local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolai-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            9.6535,
+            53.7538
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur und die historische Orgel.",
+            "hu": "Csodálja meg a barokk építészetet és a történelmi orgonát.",
+            "ro": "Admirați arhitectura barocă și orga istorică.",
+            "en": "Admire the baroque architecture and the historic organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Krückau-Brücke",
+            "hu": "Krückau-híd",
+            "ro": "Podul Krückau",
+            "en": "Krückau Bridge"
+          },
+          "coords": [
+            9.6515,
+            53.7515
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Fotospot mit Blick auf den Fluss und die alten Lagerhäuser.",
+            "hu": "Szép fotóhelyszín kilátással a folyóra és a régi raktárakra.",
+            "ro": "Un loc excelent pentru fotografii, cu vedere la râu și depozitele vechi.",
+            "en": "A beautiful photo spot with views of the river and old warehouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Industriemuseum Elmshorn",
+            "hu": "Elmshorni Ipari Múzeum",
+            "ro": "Muzeul Industriei Elmshorn",
+            "en": "Elmshorn Industry Museum"
+          },
+          "coords": [
+            9.6495,
+            53.7558
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte der Leder- und Tuchindustrie.",
+            "hu": "Merüljön el a bőr- és textilipar történelmében.",
+            "ro": "Descoperiți istoria industriei de piele și textile.",
+            "en": "Immerse yourself in the history of the leather and textile industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Torhaus Elmshorn",
+            "hu": "Torhaus kulturális központ",
+            "ro": "Centrul cultural Torhaus",
+            "en": "Torhaus Cultural Centre"
+          },
+          "coords": [
+            9.6538,
+            53.7555
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Oft gibt es hier wechselnde Kunstausstellungen regionaler Künstler.",
+            "hu": "Gyakran láthatók itt helyi művészek időszaki kiállításai.",
+            "ro": "Aici au loc adesea expoziții de artă ale artiștilor regionali.",
+            "en": "There are often rotating art exhibitions by regional artists here."
+          }
+        },
+        {
+          "name": {
+            "de": "Steindammpark",
+            "hu": "Steindammpark",
+            "ro": "Parcul Steindamm",
+            "en": "Steindamm Park"
+          },
+          "coords": [
+            9.6645,
+            53.7485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den See und den Rosengarten zum Abschluss des Tages.",
+            "hu": "Élvezze a tavat és a rózsakertet a nap végén.",
+            "ro": "Bucurați-vă de lac și de grădina de trandafiri la finalul zilei.",
+            "en": "Enjoy the lake and the rose garden to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den industriellen Charme und die grünen Seiten Elmshorns zu Fuß. Der Tag beginnt im historischen Zentrum am Buttermarkt und führt durch die bewegte Industriegeschichte bis hin zum entspannten Steindammpark. Ein perfekter Mix aus Kultur, Geschichte und Natur in der größten Stadt des Kreises Pinneberg.",
+        "hu": "Fedezze fel Elmshorn ipari báját és zöld oldalát gyalogosan. A nap a történelmi központban, a Buttermarkton indul, majd az ipari múzeumon keresztül vezet a pihentető Steindammparkig. A kultúra, a történelem és a természet tökéletes keveréke Pinneberg járás legnagyobb városában.",
+        "ro": "Descoperiți farmecul industrial și latura verde a orașului Elmshorn la pas. Ziua începe în centrul istoric la Buttermarkt și continuă prin istoria industrială până la relaxantul Parc Steindamm. Un amestec perfect de cultură, istorie și natură în cel mai mare oraș din districtul Pinneberg.",
+        "en": "Discover the industrial charm and green sides of Elmshorn on foot. The day begins in the historic center at Buttermarkt and leads through the turbulent industrial history to the relaxing Steindamm Park. A perfect mix of culture, history, and nature in the largest city of the Pinneberg district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Industriemuseum",
+            "tip": "Herzhafte Suppen und Snacks in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro im Industriemuseum",
+            "tip": "Kiadós levesek és snackek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro im Industriemuseum",
+            "tip": "Supe consistente și gustări într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro im Industriemuseum",
+            "tip": "Hearty soups and snacks in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten im Steindammpark",
+            "tip": "Ein ruhiger Rückzugsort mit Duftgarantie.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steindammpark rózsakertje",
+            "tip": "Csendes menedék illatos virágokkal.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri din Parcul Steindamm",
+            "tip": "Un refugiu liniștit cu mirosuri îmbătătoare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in Steindamm Park",
+            "tip": "A quiet retreat with guaranteed fragrance.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt am Buttermarkt",
+            "tip": "Regionale Spezialitäten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buttermarkt heti piac",
+            "tip": "Regionális különlegességek közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Buttermarkt",
+            "tip": "Specialități regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market at Buttermarkt",
+            "tip": "Regional specialties directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster im Zentrum alt ist.",
+          "Achten Sie auf die Marktzeiten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a központ macskakövei régiek.",
+          "Figyeljen a piaci nyitvatartásra."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece pavajul din centru este vechi.",
+          "Verificați programul pieței."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones in the center are old.",
+          "Pay attention to market days and times."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wasserturm Elmshorn",
+            "hu": "Elmshorni Víztorony",
+            "ro": "Turnul de apă Elmshorn",
+            "en": "Elmshorn Water Tower"
+          },
+          "coords": [
+            9.6585,
+            53.7445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Stadt, das weithin sichtbar ist.",
+            "hu": "A város jelképe, amely már messziről látható.",
+            "ro": "Un simbol al orașului, vizibil de la distanță.",
+            "en": "A landmark of the city that is visible from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Steindammpark",
+            "hu": "Steindammpark",
+            "ro": "Parcul Steindamm",
+            "en": "Steindamm Park"
+          },
+          "coords": [
+            9.6645,
+            53.7485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal zum Radfahren auf den gut ausgebauten Wegen.",
+            "hu": "Ideális kerékpározáshoz a jól kiépített utakon.",
+            "ro": "Ideal pentru ciclism pe potecile bine întreținute.",
+            "en": "Ideal for cycling on the well-maintained paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Liether Wald",
+            "hu": "Liether-erdő",
+            "ro": "Pădurea Liether",
+            "en": "Liether Forest"
+          },
+          "coords": [
+            9.6855,
+            53.7325
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Liether Kalkgrube, ein nationales Geotop.",
+            "hu": "Fedezze fel a Liether mészbányát, egy nemzeti jelentőségű geotópot.",
+            "ro": "Descoperiți cariera de var Liether, un geotop național.",
+            "en": "Discover the Liether lime pit, a national geotope."
+          }
+        },
+        {
+          "name": {
+            "de": "Krückau-Brücke",
+            "hu": "Krückau-híd",
+            "ro": "Podul Krückau",
+            "en": "Krückau Bridge"
+          },
+          "coords": [
+            9.6515,
+            53.7515
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Krückau-Weges direkt ins Zentrum.",
+            "hu": "Kerekezzen a Krückau-menti úton egyenesen a központba.",
+            "ro": "Mergeți cu bicicleta pe poteca de-a lungul râului Krückau direct spre centru.",
+            "en": "Cycle along the Krückau path directly into the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Buttermarkt",
+            "hu": "Vajpiac (Buttermarkt)",
+            "ro": "Piața de unt",
+            "en": "Buttermarkt Square"
+          },
+          "coords": [
+            9.6521,
+            53.7542
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad ab und genießen Sie einen Kaffee.",
+            "hu": "Tegye le a biciklit és élvezzen egy kávét.",
+            "ro": "Lăsați bicicleta și savurați o cafea.",
+            "en": "Park your bike and enjoy a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Industriemuseum Elmshorn",
+            "hu": "Elmshorni Ipari Múzeum",
+            "ro": "Muzeul Industriei Elmshorn",
+            "en": "Elmshorn Industry Museum"
+          },
+          "coords": [
+            9.6495,
+            53.7558
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum bietet Fahrradabstellplätze direkt vor dem Eingang.",
+            "hu": "A múzeum előtt közvetlenül vannak kerékpártárolók.",
+            "ro": "Muzeul oferă locuri de parcare pentru biciclete chiar în fața intrării.",
+            "en": "The museum offers bike parking right in front of the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet das urbane Elmshorn mit der umliegenden Natur. Vom markanten Wasserturm geht es durch den Steindammpark bis zum geologisch spannenden Liether Wald. Die Rückfahrt führt entspannt am Flussufer der Krückau zurück in das Herz der Stadt.",
+        "hu": "Ez a kerékpártúra összeköti Elmshorn városias részeit a környező természettel. A jellegzetes víztoronytól a Steindammparkon át a geológiailag izgalmas Liether-erdőig tekerhetünk. A visszaút a Krückau folyó partján vezet kényelmesen a város szívébe.",
+        "ro": "Acest tur cu bicicleta combină zona urbană din Elmshorn cu natura înconjurătoare. De la turnul de apă emblematic, traseul trece prin Parcul Steindamm până la pădurea Liether, fascinantă din punct de vedere geologic. Întoarcerea pe malul râului Krückau vă aduce relaxat în inima orașului.",
+        "en": "This bike tour connects urban Elmshorn with the surrounding nature. From the striking water tower, it goes through Steindamm Park to the geologically exciting Liether Forest. The return trip leads relaxedly along the banks of the Krückau river back into the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffeehaus Elmshorn",
+            "tip": "Traditionelle Torten für die Pause zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaffeehaus Elmshorn",
+            "tip": "Hagyományos torták a pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaffeehaus Elmshorn",
+            "tip": "Prăjituri tradiționale pentru o pauză binemeritată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaffeehaus Elmshorn",
+            "tip": "Traditional cakes for a break in between."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Liether Kalkgrube",
+            "tip": "Stille in der beeindruckenden geologischen Senke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liether mészbánya",
+            "tip": "Csend a lenyűgöző geológiai mélyedésben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cariera de var Liether",
+            "tip": "Liniște în depresiunea geologică impresionantă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Liether Lime Pit",
+            "tip": "Silence in the impressive geological depression.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte im Zentrum",
+            "tip": "Zubehör und Service für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi kerékpárboltok",
+            "tip": "Kiegészítők és szerviz bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete în centru",
+            "tip": "Accesorii și service pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops in the center",
+            "tip": "Accessories and service for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Krückau-Wanderwege, diese sind für Radfahrer freigegeben.",
+          "Vorsicht bei Fußgängern im Park."
+        ],
+        "hu": [
+          "Használja a Krückau-turistautakat, ezeket kerékpárosok is használhatják.",
+          "Vigyázzon a gyalogosokra a parkban."
+        ],
+        "ro": [
+          "Utilizați potecile de drumeție de-a lungul râului Krückau, acestea sunt permise bicicliștilor.",
+          "Atenție la pietoni în parc."
+        ],
+        "en": [
+          "Use the Krückau hiking trails, these are open to cyclists.",
+          "Be careful of pedestrians in the park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Buttermarkt (Parkplatz)",
+            "hu": "Buttermarkt (Parkoló)",
+            "ro": "Buttermarkt (Parcare)",
+            "en": "Buttermarkt (Parking)"
+          },
+          "coords": [
+            9.6521,
+            53.7542
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral für den ersten Cluster-Walk.",
+            "hu": "Parkoljon a központban az első séta-fürtöz.",
+            "ro": "Parcați central pentru prima plimbare în grup.",
+            "en": "Park centrally for the first cluster walk."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolai-Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            9.6535,
+            53.7538
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz Buttermarkt erreichbar.",
+            "hu": "Gyalogosan elérhető a Buttermarkt parkolótól.",
+            "ro": "Accesibil pe jos de la parcarea Buttermarkt.",
+            "en": "Accessible on foot from the Buttermarkt parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Industriemuseum Elmshorn",
+            "hu": "Elmshorni Ipari Múzeum",
+            "ro": "Muzeul Industriei Elmshorn",
+            "en": "Elmshorn Industry Museum"
+          },
+          "coords": [
+            9.6495,
+            53.7558
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kostenfreie Parkplätze direkt am Museum verfügbar.",
+            "hu": "Ingyenes parkolóhelyek közvetlenül a múzeumnál.",
+            "ro": "Locuri de parcare gratuite disponibile chiar la muzeu.",
+            "en": "Free parking spaces available directly at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Torhaus Elmshorn",
+            "hu": "Torhaus kulturális központ",
+            "ro": "Centrul cultural Torhaus",
+            "en": "Torhaus Cultural Centre"
+          },
+          "coords": [
+            9.6538,
+            53.7555
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "O scurtă plimbare de la muzeu.",
+            "en": "A short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Liether Wald",
+            "hu": "Liether-erdő",
+            "ro": "Pădurea Liether",
+            "en": "Liether Forest"
+          },
+          "coords": [
+            9.6855,
+            53.7325
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Großer Wanderparkplatz am Waldrand.",
+            "hu": "Nagy kirándulóparkoló az erdő szélén.",
+            "ro": "Parcare mare pentru drumeții la marginea pădurii.",
+            "en": "Large hiking parking lot at the edge of the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Steindammpark",
+            "hu": "Steindammpark",
+            "ro": "Parcul Steindamm",
+            "en": "Steindamm Park"
+          },
+          "coords": [
+            9.6645,
+            53.7485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Steindamm für den letzten Cluster.",
+            "hu": "Parkoljon a Steindammon az utolsó fürtöz.",
+            "ro": "Parcați pe Steindamm pentru ultimul grup.",
+            "en": "Park on Steindamm for the final cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Elmshorn",
+            "hu": "Elmshorni Víztorony",
+            "ro": "Turnul de apă Elmshorn",
+            "en": "Elmshorn Water Tower"
+          },
+          "coords": [
+            9.6585,
+            53.7445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Steindammpark zu Fuß erreichbar.",
+            "hu": "A Steindammparkból gyalogosan elérhető.",
+            "ro": "Accesibil pe jos din Parcul Steindamm.",
+            "en": "Accessible on foot from Steindamm Park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem alle Highlights von Elmshorn, einschließlich des etwas außerhalb gelegenen Liether Waldes. Die Route nutzt das Cluster-Prinzip: Parken im Zentrum für Markt und Kirche, dann Fahrt zum Industriemuseum und zum Abschluss Natur pur im Wald und Park. Effizient und abwechslungsreich.",
+        "hu": "Autóval kényelmesen elérheti Elmshorn összes látnivalóját, beleértve a kicsit távolabb eső Liether-erdőt is. Az útvonal a fürtözési elvet követi: parkolás a központban a piachoz és a templomhoz, majd autózás az ipari múzeumhoz, végül tiszta természet az erdőben és a parkban. Hatékony és változatos.",
+        "ro": "Cu mașina puteți ajunge confortabil la toate punctele de atracție din Elmshorn, inclusiv la pădurea Liether, situată puțin în afara orașului. Traseul folosește principiul grupurilor: parcare în centru pentru piață și biserică, apoi deplasare la Muzeul Industriei și, la final, natură pură în pădure și parc. Eficient și variat.",
+        "en": "By car, you can comfortably reach all the highlights of Elmshorn, including the slightly outlying Liether Forest. The route uses the cluster principle: parking in the center for the market and church, then driving to the Industry Museum, and finally pure nature in the forest and park. Efficient and varied."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Blick auf den Steindammsee bei gutem Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Kilátás a Steindammsee-re jó ételek mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant am See",
+            "tip": "Vedere la lacul Steindamm cu mâncare excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant am See",
+            "tip": "View of the Steindamm lake with good food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Liether Wald",
+            "tip": "Weitläufige Wege fernab vom Verkehr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liether-erdő",
+            "tip": "Tágas utak távol a forgalomtól.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Liether",
+            "tip": "Poteci lungi departe de trafic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Liether Forest",
+            "tip": "Spacious paths far away from traffic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Famila Elmshorn",
+            "tip": "Großes Einkaufszentrum für alles Nötige."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Famila Elmshorn",
+            "tip": "Nagy bevásárlóközpont minden szükségessel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Famila Elmshorn",
+            "tip": "Centru comercial mare pentru tot ce aveți nevoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Famila Elmshorn",
+            "tip": "Large shopping center for all essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser im Zentrum, da Straßenparkplätze oft belegt sind.",
+          "In Schleswig-Holstein ist das Parken am Sonntag oft kostenlos."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolóházakat, mert az utcai helyek gyakran foglaltak.",
+          "Schleswig-Holsteinben a parkolás vasárnap gyakran ingyenes."
+        ],
+        "ro": [
+          "Utilizați parcările etajate din centru, deoarece locurile de pe stradă sunt adesea ocupate.",
+          "În Schleswig-Holstein, parcarea este adesea gratuită duminica."
+        ],
+        "en": [
+          "Use the parking garages in the center, as street parking is often full.",
+          "In Schleswig-Holstein, parking is often free on Sundays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Elmshorn",
+            "hu": "Elmshorn vasútállomás",
+            "ro": "Gara Elmshorn",
+            "en": "Elmshorn Station"
+          },
+          "coords": [
+            9.6543,
+            53.7535
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für alle Buslinien.",
+            "hu": "A központi csomópont minden buszjárat számára.",
+            "ro": "Nodul central pentru toate liniile de autobuz.",
+            "en": "The central hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Buttermarkt",
+            "hu": "Vajpiac (Buttermarkt)",
+            "ro": "Piața de unt",
+            "en": "Buttermarkt Square"
+          },
+          "coords": [
+            9.6521,
+            53.7542
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Bahnhof in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "Az állomástól pár perc sétával elérhető.",
+            "ro": "Accesibil pe jos de la gară în câteva minute.",
+            "en": "Accessible on foot from the station in a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Industriemuseum Elmshorn",
+            "hu": "Elmshorni Ipari Múzeum",
+            "ro": "Muzeul Industriei Elmshorn",
+            "en": "Elmshorn Industry Museum"
+          },
+          "coords": [
+            9.6495,
+            53.7558
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Stadtbuslinie bis zur Haltestelle 'Industriemuseum'.",
+            "hu": "Használja a városi buszt az 'Industriemuseum' megállóig.",
+            "ro": "Utilizați linia de autobuz urban până la stația „Industriemuseum”.",
+            "en": "Use the city bus line to the 'Industriemuseum' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Steindammpark",
+            "hu": "Steindammpark",
+            "ro": "Parcul Steindamm",
+            "en": "Steindamm Park"
+          },
+          "coords": [
+            9.6645,
+            53.7485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Busfahrt bis zum Steindamm, danach kurzer Fußweg.",
+            "hu": "Buszozás a Steindammig, majd rövid séta.",
+            "ro": "Călătorie cu autobuzul până la Steindamm, apoi o scurtă plimbare.",
+            "en": "Bus ride to Steindamm, followed by a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm Elmshorn",
+            "hu": "Elmshorni Víztorony",
+            "ro": "Turnul de apă Elmshorn",
+            "en": "Elmshorn Water Tower"
+          },
+          "coords": [
+            9.6585,
+            53.7445
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Park aus erreichbar.",
+            "hu": "A parkból gyalogosan elérhető.",
+            "ro": "Accesibil pe jos din parc.",
+            "en": "Accessible on foot from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Liether Wald",
+            "hu": "Liether-erdő",
+            "ro": "Pădurea Liether",
+            "en": "Liether Forest"
+          },
+          "coords": [
+            9.6855,
+            53.7325
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Regionale Buslinien führen in die Nähe des Waldes.",
+            "hu": "Regionális buszjáratok állnak meg az erdő közelében.",
+            "ro": "Liniile de autobuz regionale opresc în apropierea pădurii.",
+            "en": "Regional bus lines stop near the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Stadtbusnetzes lässt sich Elmshorn auch ohne eigenes Fahrzeug hervorragend erkunden. Starten Sie am Bahnhof, dem Herzen der Stadt, besuchen Sie die historischen Stätten im Zentrum und lassen Sie den Tag in den weitläufigen Parks und Wäldern ausklingen, die alle gut angebunden sind.",
+        "hu": "A jól kiépített városi buszhálózatnak köszönhetően Elmshorn saját jármű nélkül is kiválóan felfedezhető. Kezdjen az állomáson, a város szívében, látogassa meg a központ történelmi helyszíneit, majd zárja a napot a tágas parkokban és erdőkben, amelyek mind jól megközelíthetők.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze urbane, Elmshorn poate fi explorat excelent și fără vehicul propriu. Începeți de la gară, inima orașului, vizitați siturile istorice din centru și încheiați ziua în parcurile și pădurile vaste, toate fiind bine conectate.",
+        "en": "Thanks to the well-developed city bus network, Elmshorn can be explored excellently even without your own vehicle. Start at the station, the heart of the city, visit the historic sites in the center, and end the day in the spacious parks and forests, all of which are well-connected."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Döner- & Imbissstände am Bahnhof",
+            "tip": "Schnelle und beliebte Verpflegung für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyorsbüfék az állomásnál",
+            "tip": "Gyors és népszerű étkezési lehetőség útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast-food-uri la gară",
+            "tip": "Mâncare rapidă și populară pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack bars at the station",
+            "tip": "Quick and popular food for on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Steindammsee",
+            "tip": "Einfach auf eine Bank setzen und den Enten zuschauen.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steindammsee",
+            "tip": "Csak üljön le egy padra és figyelje a kacsákat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Steindamm",
+            "tip": "Pur și simplu așezați-vă pe o bancă și priviți rațele.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Steindamm Lake",
+            "tip": "Simply sit on a bench and watch the ducks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Die Haupteinkaufsstraße direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "A fő bevásárlóutca közvetlenül az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Principala stradă comercială direct lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "The main shopping street right by the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die HVV-App für Echtzeit-Fahrpläne herunter.",
+          "Ein Tagesticket ist meist günstiger als Einzelfahrten."
+        ],
+        "hu": [
+          "Töltse le a HVV-alkalmazást a valós idejű menetrendekhez.",
+          "A napijegy általában olcsóbb, mint az egyedi jegyek."
+        ],
+        "ro": [
+          "Descărcați aplicația HVV pentru orare în timp real.",
+          "Un bilet de o zi este de obicei mai ieftin decât călătoriile individuale."
+        ],
+        "en": [
+          "Download the HVV app for real-time schedules.",
+          "A day ticket is usually cheaper than single trips."
+        ]
+      }
+    }
+  }
+}

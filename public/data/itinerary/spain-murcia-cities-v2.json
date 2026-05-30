@@ -1,0 +1,1170 @@
+{
+  "city_id": "spain-murcia-cities-v2",
+  "anchor": {
+    "name": "Catedral de Murcia",
+    "coords": [
+      -1.1285,
+      37.9837
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Murcia",
+            "hu": "Murciai székesegyház",
+            "ro": "Catedrala din Murcia",
+            "en": "Murcia Cathedral"
+          },
+          "coords": [
+            -1.1285,
+            37.9837
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Barockfassade am Morgenlicht.",
+            "hu": "Nézze meg a pompás barokk homlokzatot a reggeli fényben.",
+            "ro": "Admirați fațada barocă magnifică în lumina dimineții.",
+            "en": "Admire the magnificent Baroque facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast",
+            "hu": "Püspöki palota",
+            "ro": "Palatul Episcopal",
+            "en": "Episcopal Palace"
+          },
+          "coords": [
+            -1.1289,
+            37.9833
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Innenhof ist ein verstecktes Juwel der Rokoko-Architektur.",
+            "hu": "A belső udvar a rokokó építészet rejtett ékköve.",
+            "ro": "Curtea interioară este o bijuterie ascunsă a arhitecturii rococo.",
+            "en": "The inner courtyard is a hidden gem of Rococo architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Casino de Murcia",
+            "hu": "Real Casino de Murcia",
+            "ro": "Real Casino de Murcia",
+            "en": "Real Casino de Murcia"
+          },
+          "coords": [
+            -1.1303,
+            37.9848
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der maurische Innenhof wurde vom Alhambra-Palast inspiriert.",
+            "hu": "A mór udvart az Alhambra palota ihlette.",
+            "ro": "Curtea maură a fost inspirată de palatul Alhambra.",
+            "en": "The Moorish courtyard was inspired by the Alhambra palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -1.1335,
+            37.9842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie eine 'Marinera' in einer der Tapas-Bars.",
+            "hu": "Kóstoljon meg egy 'Marinera' tapaszt valamelyik bárban.",
+            "ro": "Încercați o 'Marinera' la unul dintre barurile de tapas.",
+            "en": "Try a 'Marinera' tapa at one of the terrace bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzillo Museum",
+            "hu": "Salzillo Múzeum",
+            "ro": "Muzeul Salzillo",
+            "en": "Salzillo Museum"
+          },
+          "coords": [
+            -1.1392,
+            37.9875
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beherbergt die berühmten Osterprozessionsfiguren von Francisco Salzillo.",
+            "hu": "Itt őrzik Francisco Salzillo híres húsvéti körmeneti szobrait.",
+            "ro": "Găzduiește faimoasele sculpturi de procesiune ale lui Francisco Salzillo.",
+            "en": "Houses the famous Easter procession sculptures by Francisco Salzillo."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de los Peligros",
+            "hu": "Veszélyek hídja",
+            "ro": "Puente de los Peligros",
+            "en": "Bridge of Dangers"
+          },
+          "coords": [
+            -1.1311,
+            37.9815
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die älteste Brücke der Stadt mit Blick auf den Fluss Segura.",
+            "hu": "A város legrégebbi hídja, kilátással a Segura-folyóra.",
+            "ro": "Cel mai vechi pod din oraș, cu vedere la râul Segura.",
+            "en": "The oldest bridge in the city with views of the Segura river."
+          }
+        },
+        {
+          "name": {
+            "de": "El Malecón",
+            "hu": "El Malecón sétány",
+            "ro": "El Malecón",
+            "en": "El Malecón"
+          },
+          "coords": [
+            -1.1355,
+            37.9825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein historischer Damm, der heute ein beliebter Park ist.",
+            "hu": "Történelmi gát, amely ma a város kedvelt parkja.",
+            "ro": "Un dig istoric care astăzi este un parc popular.",
+            "en": "A historic embankment that is now a popular city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Murcia an der Kathedrale, einem Meisterwerk des spanischen Barocks. Nach einem Besuch des prunkvollen Bischofspalastes und des exklusiven Real Casino tauchen Sie in das lebhafte Treiben auf der Plaza de las Flores ein, wo die Einheimischen ihre Tapas genießen. Der Nachmittag gehört der Kunst im Salzillo-Museum, bevor Sie den Tag entspannt am Fluss Segura und auf der historischen Promenade El Malecón ausklingen lassen.",
+        "hu": "Kezdje a napot Murcia szívében a katedrálisnál, amely a spanyol barokk remekműve. A püspöki palota és az exkluzív Real Casino megtekintése után merüljön el a Plaza de las Flores pezsgő életében, ahol a helyiek tízóraiznak. A délután Salzillo szobrászművész lenyűgöző alkotásairól szól, majd zárja a napot a Segura-folyó partján, a történelmi El Malecón sétányon.",
+        "ro": "Începeți ziua în inima Murciei la Catedrală, o capodoperă a barocului spaniol. După o vizită la Palatul Episcopal și la exclusivistul Real Casino, scufundați-vă în atmosfera vibrantă din Plaza de las Flores, unde localnicii își savurează gustările. După-amiaza este dedicată artei la Muzeul Salzillo, înainte de a încheia ziua relaxat pe malul râului Segura și pe promenada istorică El Malecón.",
+        "en": "Start your day in the heart of Murcia at the Cathedral, a masterpiece of Spanish Baroque. After visiting the ornate Episcopal Palace and the exclusive Real Casino, immerse yourself in the lively atmosphere of Plaza de las Flores, where locals enjoy their tapas. The afternoon is dedicated to art at the Salzillo Museum, before ending the day with a relaxed stroll by the Segura River and the historic El Malecón promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastel de Carne",
+            "tip": "Herzhafte Blätterteigpastete mit Fleisch und Ei."
+          },
+          {
+            "name": "Marinera",
+            "tip": "Russischer Salat auf einem Brotring mit einer Sardelle."
+          },
+          {
+            "name": "Paparajote",
+            "tip": "Frittiertes Zitronenblatt mit Zimt und Zucker (Blatt nicht essen!)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastel de Carne",
+            "tip": "Leveles tésztában sült húsos-tojásos pite."
+          },
+          {
+            "name": "Marinera",
+            "tip": "Orosz saláta kenyérgyűrűn, egy szem szardellával a tetején."
+          },
+          {
+            "name": "Paparajote",
+            "tip": "Fahéjas cukorba forgatott, rántott citromlevél (a levelet ne egye meg!)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastel de Carne",
+            "tip": "Plăcintă sărată din foietaj cu carne și ou."
+          },
+          {
+            "name": "Marinera",
+            "tip": "Salată rusească pe un inel de pâine cu o anșoa deasupra."
+          },
+          {
+            "name": "Paparajote",
+            "tip": "Frunze de lămâi prăjite cu zahăr și scorțișoară (nu mâncați frunza!)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastel de Carne",
+            "tip": "Savory puff pastry meat pie with egg and spices."
+          },
+          {
+            "name": "Marinera",
+            "tip": "Russian salad served on a bread ring with an anchovy."
+          },
+          {
+            "name": "Paparajote",
+            "tip": "Deep-fried lemon leaf coated in cinnamon sugar (do not eat the leaf!)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín de Floridablanca",
+            "tip": "Ältester öffentlicher Garten der Stadt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Paseo del Malecón",
+            "tip": "Ruhiger Spazierweg weg vom Verkehr.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Kloster Santa Clara la Real",
+            "tip": "Ein stiller Ort mit islamischen Wurzeln.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardín de Floridablanca",
+            "tip": "A város legrégebbi nyilvános kertje.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Paseo del Malecón",
+            "tip": "Csendes sétány távol a forgalomtól.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Santa Clara la Real kolostor",
+            "tip": "Békés hely iszlám építészeti maradványokkal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardín de Floridablanca",
+            "tip": "Cea mai veche grădină publică din oraș.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Paseo del Malecón",
+            "tip": "Promenadă liniștită departe de trafic.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Mănăstirea Santa Clara la Real",
+            "tip": "Un loc liniștit cu rădăcini islamice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardín de Floridablanca",
+            "tip": "The city's oldest public garden.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Paseo del Malecón",
+            "tip": "Quiet promenade away from the noise.",
+            "emoji": "🚶"
+          },
+          {
+            "name": "Santa Clara la Real Convent",
+            "tip": "A peaceful spot with Islamic heritage.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "Die Haupthalle für frische Produkte aus der 'Huerta'."
+          },
+          {
+            "name": "Calle Trapería",
+            "tip": "Traditionelle Einkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "A főpiac friss zöldségekkel és helyi termékekkel."
+          },
+          {
+            "name": "Calle Trapería",
+            "tip": "Hagyományos bevásárlóutca a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "Piața principală pentru produse proaspete locale."
+          },
+          {
+            "name": "Calle Trapería",
+            "tip": "Stradă comercială tradițională în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "The main market for fresh produce from the local orchard."
+          },
+          {
+            "name": "Calle Trapería",
+            "tip": "Traditional shopping street in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Murcia ist im Sommer sehr heiß; planen Sie die Mittagszeit drinnen ein.",
+          "Die meisten Sehenswürdigkeiten liegen in der Fußgängerzone.",
+          "Sonntags sind viele Museen kostenlos, aber kürzer geöffnet.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt."
+        ],
+        "hu": [
+          "Murcia nyáron rendkívül forró; a délidőt töltse fedett helyen.",
+          "A legtöbb látnivaló a gyalogos zónán belül található.",
+          "Vasárnap sok múzeum ingyenes, de rövidebb ideig tart nyitva.",
+          "Viseljen kényelmes cipőt az óvárosi macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Murcia este foarte caldă vara; planificați orele amiezii la interior.",
+          "Majoritatea obiectivelor turistice se află în zona pietonală.",
+          "Duminica multe muzee sunt gratuite, dar au program scurt.",
+          "Purtați încălțăminte comodă pentru străzile pavate din centrul vechi."
+        ],
+        "en": [
+          "Murcia gets very hot in summer; plan indoor activities for midday.",
+          "Most main sights are located within the pedestrianized zone.",
+          "Many museums are free on Sundays but have shorter opening hours.",
+          "Wear comfortable shoes for the cobblestone streets in the old town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -1.1335,
+            37.9842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für eine Tour durch die Stadt.",
+            "hu": "Kiváló kiindulópont a városi tekeréshez.",
+            "ro": "Punct de plecare pentru un tur prin oraș.",
+            "en": "Great starting point for a city ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Murcia",
+            "hu": "Murciai székesegyház",
+            "ro": "Catedrala din Murcia",
+            "en": "Murcia Cathedral"
+          },
+          "coords": [
+            -1.1285,
+            37.9837
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher auf der Plaza del Cardenal Belluga.",
+            "hu": "Zárja le biztonságosan a biciklit a téren.",
+            "ro": "Parcați bicicleta în siguranță în piață.",
+            "en": "Park your bike safely in the plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Casino de Murcia",
+            "hu": "Real Casino de Murcia",
+            "ro": "Real Casino de Murcia",
+            "en": "Real Casino de Murcia"
+          },
+          "coords": [
+            -1.1303,
+            37.9848
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Stopp in der Fußgängerzone.",
+            "hu": "Rövid megálló a gyalogos zónában.",
+            "ro": "Scurtă oprire în zona pietonală.",
+            "en": "Short stop in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "El Malecón",
+            "hu": "El Malecón sétány",
+            "ro": "El Malecón",
+            "en": "El Malecón"
+          },
+          "coords": [
+            -1.1355,
+            37.9825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Radweg entlang des Segura-Flusses.",
+            "hu": "Élvezze a Segura-folyó menti kerékpárutat.",
+            "ro": "Bucurați-vă de pista de biciclete de-a lungul râului.",
+            "en": "Enjoy the bike path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario de la Fuensanta",
+            "hu": "Fuensantai szentély",
+            "ro": "Sanctuarul Fuensanta",
+            "en": "Sanctuary of Fuensanta"
+          },
+          "coords": [
+            -1.1195,
+            37.9355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg, aber die Aussicht ist es wert.",
+            "hu": "Kihívást jelentő emelkedő, de a kilátás megéri.",
+            "ro": "Urcare solicitantă, dar vederea merită.",
+            "en": "Challenging climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de los Peligros",
+            "hu": "Veszélyek hídja",
+            "ro": "Puente de los Peligros",
+            "en": "Bridge of Dangers"
+          },
+          "coords": [
+            -1.1311,
+            37.9815
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp auf dem Rückweg ins Zentrum.",
+            "hu": "Utolsó megálló a központba visszavezető úton.",
+            "ro": "Ultima oprire în drumul de întoarcere spre centru.",
+            "en": "Final stop on the way back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Murcia auf zwei Rädern. Nach den Highlights der Altstadt führt Sie die Route entlang des Flusses Segura auf den gut ausgebauten Radwegen. Das Highlight ist die Fahrt hinauf zum Santuario de la Fuensanta, von wo aus Sie das gesamte Tal der 'Huerta' überblicken können.",
+        "hu": "Fedezze fel Murciát két keréken. Az óváros nevezetességei után az út a Segura-folyó menti kerékpárutakon vezet. A túra csúcspontja a Fuensanta szentélyhez való feltekerés, ahonnan belátni az egész völgyet.",
+        "ro": "Explorați Murcia pe două roți. După atracțiile centrului vechi, traseul vă duce pe pistele de biciclete de-a lungul râului Segura. Punctul culminant este urcarea la Sanctuarul Fuensanta, de unde puteți vedea întreaga vale.",
+        "en": "Explore Murcia on two wheels. After the old town highlights, the route takes you along the Segura river on well-maintained bike paths. The highlight is the ride up to the Sanctuary of Fuensanta for a panoramic view of the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas an der Plaza",
+            "tip": "Schnelle Energie für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a téren",
+            "tip": "Gyors energiaforrás bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas în piață",
+            "tip": "Energie rapidă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza Tapas",
+            "tip": "Quick energy for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Berg Fuensanta",
+            "tip": "Ruhe in den Kiefernwäldern.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuensanta-hegy",
+            "tip": "Csend a fenyőerdőkben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Fuensanta",
+            "tip": "Liniște în pădurile de pini.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuensanta Mountain",
+            "tip": "Peace among the pine trees.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Obst direkt aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Gyümölcs egyenesen a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Fructe direct din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Fruit straight from the orchard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege am Flussufer.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg zum Santuario mit."
+        ],
+        "hu": [
+          "Használja a folyóparti kerékpárutakat.",
+          "Vigyen elég vizet a szentélyhez vezető emelkedőhöz."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de pe malul râului.",
+          "Luați suficientă apă pentru urcarea spre sanctuar."
+        ],
+        "en": [
+          "Use the riverbank bike paths.",
+          "Take plenty of water for the climb to the sanctuary."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 16.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Murcia (Cluster Altstadt)",
+            "hu": "Murciai székesegyház",
+            "ro": "Catedrala din Murcia",
+            "en": "Murcia Cathedral"
+          },
+          "coords": [
+            -1.1285,
+            37.9837
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Glorieta'.",
+            "hu": "Parkoljon a 'Glorieta' mélygarázsban.",
+            "ro": "Parcați în parcarea 'Glorieta'.",
+            "en": "Park in the 'Glorieta' underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Bischofspalast",
+            "hu": "Püspöki palota",
+            "ro": "Palatul Episcopal",
+            "en": "Episcopal Palace"
+          },
+          "coords": [
+            -1.1289,
+            37.9833
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur 1 Minute zu Fuß von der Kathedrale.",
+            "hu": "Csak 1 perc séta a katedrálistól.",
+            "ro": "Doar 1 minut pe jos de la catedrală.",
+            "en": "Just a 1-minute walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Casino de Murcia",
+            "hu": "Real Casino de Murcia",
+            "ro": "Real Casino de Murcia",
+            "en": "Real Casino de Murcia"
+          },
+          "coords": [
+            -1.1303,
+            37.9848
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Fedezze fel a belvárost gyalog.",
+            "ro": "Explorați centrul pe jos.",
+            "en": "Explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -1.1335,
+            37.9842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Idealer Ort für ein Mittagessen.",
+            "hu": "Ideális helyszín az ebédhez.",
+            "ro": "Locul ideal pentru prânz.",
+            "en": "Ideal spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario de la Fuensanta (Cluster Berge)",
+            "hu": "Fuensantai szentély",
+            "ro": "Sanctuarul Fuensanta",
+            "en": "Sanctuary of Fuensanta"
+          },
+          "coords": [
+            -1.1195,
+            37.9355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz direkt am Heiligtum.",
+            "hu": "Nagy ingyenes parkoló közvetlenül a szentélynél.",
+            "ro": "Parcare mare gratuită chiar lângă sanctuar.",
+            "en": "Large free parking right by the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzillo Museum",
+            "hu": "Salzillo Múzeum",
+            "ro": "Muzeul Salzillo",
+            "en": "Salzillo Museum"
+          },
+          "coords": [
+            -1.1392,
+            37.9875
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bequem mit dem Auto erreichbar, Parkplätze in der Nähe.",
+            "hu": "Autóval könnyen megközelíthető, parkolók a közelben.",
+            "ro": "Accesibil ușor cu mașina, parcări în apropiere.",
+            "en": "Easy access by car, parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de los Peligros",
+            "hu": "Veszélyek hídja",
+            "ro": "Puente de los Peligros",
+            "en": "Bridge of Dangers"
+          },
+          "coords": [
+            -1.1311,
+            37.9815
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Abfahrt.",
+            "hu": "Rövid megálló a távozás előtt.",
+            "ro": "Scurtă oprire înainte de plecare.",
+            "en": "Short stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route kombiniert die barocke Pracht des Stadtzentrums mit der spirituellen Ruhe des Fuensanta-Heiligtums in den umliegenden Bergen. Nutzen Sie das Auto, um bequem zwischen dem Stadtkern und den Aussichtspunkten zu wechseln, und genießen Sie die Flexibilität für kulturelle Pausen.",
+        "hu": "Ez az útvonal ötvözi a belváros barokk pompáját a Fuensanta szentély spirituális nyugalmával a környező hegyekben. Használja az autót a városmag és a kilátópontok közötti kényelmes közlekedéshez.",
+        "ro": "Acest traseu combină splendoarea barocă a centrului orașului cu liniștea spirituală a sanctuarului Fuensanta din munții învecinați. Folosiți mașina pentru a vă deplasa confortabil între nucleul urban și punctele de belvedere.",
+        "en": "This route combines the Baroque splendor of the city center with the spiritual peace of the Fuensanta Sanctuary in the surrounding mountains. Use your car to easily transition between the urban core and the scenic viewpoints."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Venta la Fuensanta",
+            "tip": "Traditionelles Restaurant am Berg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Venta la Fuensanta",
+            "tip": "Hagyományos étterem a hegyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Venta la Fuensanta",
+            "tip": "Restaurant tradițional pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Venta la Fuensanta",
+            "tip": "Traditional restaurant on the mountain."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Berg Fuensanta",
+            "tip": "Panoramablick über Murcia.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuensanta-hegy",
+            "tip": "Panorámás kilátás Murciára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Fuensanta",
+            "tip": "Vedere panoramică asupra Murciei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuensanta Mountain",
+            "tip": "Panoramic view over Murcia.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Großes Kaufhaus mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Nagy áruház saját parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Magazin universal mare cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Large department store with parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour im Stadtzentrum.",
+          "Parkhäuser sind im Zentrum oft eng."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat a belvárosban.",
+          "A belvárosi parkolóházak gyakran szűkek."
+        ],
+        "ro": [
+          "Evitați orele de vârf în centrul orașului.",
+          "Parcările etajate din centru sunt adesea înguste."
+        ],
+        "en": [
+          "Avoid rush hour in the city center.",
+          "City center parking garages are often narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Murcia",
+            "hu": "Murciai székesegyház",
+            "ro": "Catedrala din Murcia",
+            "en": "Murcia Cathedral"
+          },
+          "coords": [
+            -1.1285,
+            37.9837
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt vieler Buslinien.",
+            "hu": "Számos buszjárat központi csomópontja.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Casino de Murcia",
+            "hu": "Real Casino de Murcia",
+            "ro": "Real Casino de Murcia",
+            "en": "Real Casino de Murcia"
+          },
+          "coords": [
+            -1.1303,
+            37.9848
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bequem zu Fuß vom Kathedralplatz erreichbar.",
+            "hu": "Könnyen elérhető gyalog a katedrálistól.",
+            "ro": "Accesibil ușor pe jos de la catedrală.",
+            "en": "Easy walk from the cathedral square."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Flores",
+            "hu": "Virágok tere",
+            "ro": "Plaza de las Flores",
+            "en": "Plaza de las Flores"
+          },
+          "coords": [
+            -1.1335,
+            37.9842
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten.",
+            "hu": "Kóstolja meg a helyi specialitásokat.",
+            "ro": "Savurați specialitățile locale.",
+            "en": "Enjoy local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzillo Museum",
+            "hu": "Salzillo Múzeum",
+            "ro": "Muzeul Salzillo",
+            "en": "Salzillo Museum"
+          },
+          "coords": [
+            -1.1392,
+            37.9875
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Stadtbus Richtung San Andrés.",
+            "hu": "Használja a San Andrés irányába tartó buszt.",
+            "ro": "Folosiți autobuzul spre San Andrés.",
+            "en": "Take the city bus towards San Andrés."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario de la Fuensanta",
+            "hu": "Fuensantai szentély",
+            "ro": "Sanctuarul Fuensanta",
+            "en": "Sanctuary of Fuensanta"
+          },
+          "coords": [
+            -1.1195,
+            37.9355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Buslinie 50 fährt direkt zum Heiligtum.",
+            "hu": "Az 50-es busz közvetlenül a szentélyhez visz.",
+            "ro": "Linia 50 de autobuz merge direct la sanctuar.",
+            "en": "Bus line 50 goes directly to the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de los Peligros",
+            "hu": "Veszélyek hídja",
+            "ro": "Puente de los Peligros",
+            "en": "Bridge of Dangers"
+          },
+          "coords": [
+            -1.1311,
+            37.9815
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestellen am Fluss.",
+            "hu": "Közel a folyóparti buszmegállókhoz.",
+            "ro": "Aproape de stațiile de autobuz de pe râu.",
+            "en": "Close to the riverside bus stops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Murcia lässt sich hervorragend mit dem dichten Busnetz erkunden. Diese Tour führt Sie durch das historische Zentrum und bietet einen bequemen Ausflug mit der Linie 50 zum Bergheiligtum der Fuensanta, ohne dass Sie sich um das Parken sorgen müssen.",
+        "hu": "Murcia kiválóan felfedezhető a sűrű buszhálózattal. Ez a túra végigvezeti az óvároson, és egy kényelmes kirándulást kínál az 50-es busszal a Fuensanta hegyi szentélyhez, parkolási gondok nélkül.",
+        "ro": "Murcia poate fi explorată excelent cu rețeaua densă de autobuze. Acest tur vă poartă prin centrul istoric și oferă o excursie confortabilă cu linia 50 la sanctuarul montan Fuensanta.",
+        "en": "Murcia is easily explored using its extensive bus network. This tour takes you through the historical center and offers a convenient trip via bus line 50 to the Fuensanta mountain sanctuary, hassle-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "Günstige lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "Olcsó helyi falatok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "Gustări locale ieftine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Verónicas",
+            "tip": "Affordable local snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaza de Santo Domingo",
+            "tip": "Ein ruhiger Platz zum Beobachten.",
+            "emoji": "⛲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaza de Santo Domingo",
+            "tip": "Csendes tér nézelődéshez.",
+            "emoji": "⛲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaza de Santo Domingo",
+            "tip": "O piață liniștită pentru relaxare.",
+            "emoji": "⛲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plaza de Santo Domingo",
+            "tip": "A quiet square for people watching.",
+            "emoji": "⛲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gran Vía",
+            "tip": "Hauptverkehrsader mit vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gran Vía",
+            "tip": "Főútvonal sok üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gran Vía",
+            "tip": "Artera principală cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gran Vía",
+            "tip": "Main thoroughfare with many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Zehnerticket (Bono), um zu sparen.",
+          "Prüfen Sie die Fahrpläne der Linie 50 am Wochenende."
+        ],
+        "hu": [
+          "Vegyen gyűjtőjegyet (Bono) a megtakarításhoz.",
+          "Hétvégén ellenőrizze az 50-es busz menetrendjét."
+        ],
+        "ro": [
+          "Cumpărați un abonament de 10 călătorii (Bono) pentru a economisi.",
+          "Verificați orarul liniei 50 în weekend."
+        ],
+        "en": [
+          "Buy a multi-trip card (Bono) to save money.",
+          "Check the schedules for line 50 on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1279 @@
+{
+  "city_id": "zweibruecken-extra",
+  "anchor": {
+    "name": "Zweibrücken",
+    "coords": [
+      7.3627,
+      49.2494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hallplatz",
+            "hu": "Hallplatz",
+            "ro": "Hallplatz",
+            "en": "Hallplatz"
+          },
+          "coords": [
+            7.3621,
+            49.2491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Kaffee am Morgen auf dem belebten Marktplatz.",
+            "hu": "Élvezze a reggeli kávét a nyüzsgő piactéren.",
+            "ro": "Savurați o cafea de dimineață în piața plină de viață.",
+            "en": "Enjoy a morning coffee in the lively market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexanderskirche",
+            "hu": "Sándor-templom",
+            "ro": "Biserica Alexandru",
+            "en": "Alexander's Church"
+          },
+          "coords": [
+            7.3598,
+            49.2502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt mit beeindruckender Architektur.",
+            "hu": "A város legrégebbi temploma lenyűgöző építészettel.",
+            "ro": "Cea mai veche biserică din oraș, cu o arhitectură impresionantă.",
+            "en": "The oldest church in the city with impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogschloss",
+            "hu": "Hercegi kastély",
+            "ro": "Castelul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            7.3642,
+            49.2482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das imposante Schloss dient heute als Oberlandesgericht.",
+            "hu": "Az impozáns kastély ma felsőbb bíróságként működik.",
+            "ro": "Impunătorul castel servește astăzi drept tribunal regional superior.",
+            "en": "The imposing castle now serves as a high regional court."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlskirche",
+            "hu": "Károly-templom",
+            "ro": "Biserica Carol",
+            "en": "Charles' Church"
+          },
+          "coords": [
+            7.3631,
+            49.2488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine bedeutende Barockkirche direkt am Schloss.",
+            "hu": "Jelentős barokk templom közvetlenül a kastély mellett.",
+            "ro": "O biserică barocă importantă situată chiar lângă castel.",
+            "en": "An important Baroque church right next to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarzbachaue",
+            "hu": "Schwarzbach-liget",
+            "ro": "Lunca Schwarzbach",
+            "en": "Schwarzbach Meadow"
+          },
+          "coords": [
+            7.3552,
+            49.2511
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang am Wasser.",
+            "hu": "Tökéletes egy pihentető sétához a vízparton.",
+            "ro": "Perfect pentru o plimbare relaxantă pe malul apei.",
+            "en": "Perfect for a relaxing walk along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Europas Rosengarten",
+            "hu": "Európa Rózsakert",
+            "ro": "Grădina de Trandafiri a Europei",
+            "en": "Europe's Rose Garden"
+          },
+          "coords": [
+            7.3755,
+            49.2452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Über 60.000 Rosenstöcke in voller Pracht erleben.",
+            "hu": "Több mint 60 000 tő rózsa teljes pompájában.",
+            "ro": "Experimentați peste 60.000 de fire de trandafiri în plină splendoare.",
+            "en": "Experience over 60,000 rose bushes in full bloom."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgestüt",
+            "hu": "Állami Ménes",
+            "ro": "Herghelia de Stat",
+            "en": "State Stud"
+          },
+          "coords": [
+            7.3718,
+            49.2465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historischen Stallungen der berühmten Pferde.",
+            "hu": "Látogasson el a híres lovak történelmi istállóiba.",
+            "ro": "Vizitați grajdurile istorice ale cailor celebri.",
+            "en": "Visit the historic stables of the famous horses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am zentralen Hallplatz, dem pulsierenden Herzen der Stadt. Nach dem Besuch der historischen Alexanderskirche spazieren Sie zum prächtigen Herzogschloss, das die Stadtgeschichte widerspiegelt. Die Karlskirche bietet einen barocken Kontrast. Mittags genießen Sie die Frische in der Schwarzbachaue. Der krönende Abschluss ist der weltberühmte Rosengarten, gefolgt von einem kurzen Blick in das Landgestüt Zweibrücken.",
+        "hu": "A napot a központi Hallplatzon kezdi, a város lüktető szívében. A történelmi Sándor-templom megtekintése után a pompás Hercegi kastélyhoz sétál, amely a város történelmét tükrözi. A Károly-templom barokk kontrasztot nyújt. Délben a Schwarzbachaue frissességét élvezheti. A nap fénypontja a világhírű Rózsakert, majd egy rövid pillantás az Állami Ménesbe.",
+        "ro": "Ziua începe în centrul Hallplatz, inima vibrantă a orașului. După vizitarea bisericii istorice Alexandru, mergeți spre magnificul Castel Ducal, care reflectă istoria orașului. Biserica Carol oferă un contrast baroc. La prânz, bucurați-vă de prospețimea din Lunca Schwarzbach. Punctul culminant este faimoasa Grădină de Trandafiri, urmată de o scurtă vizită la Herghelia de Stat.",
+        "en": "Your day begins at the central Hallplatz, the pulsing heart of the city. After visiting the historic Alexander's Church, walk to the magnificent Ducal Palace, which reflects the city's history. Charles' Church offers a Baroque contrast. At midday, enjoy the freshness in the Schwarzbachaue. The crowning finale is the world-famous Rose Garden, followed by a quick look at the Zweibrücken State Stud."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zabbe Brauhaus",
+            "tip": "Probieren Sie das hausgebraute Bier und den Pfälzer Saumagen."
+          },
+          {
+            "name": "Rosengarten Restaurant",
+            "tip": "Elegantes Essen mit Blick auf die Blütenpracht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zabbe Brauhaus",
+            "tip": "Kóstolja meg a házilag főzött sört és a palatinuszi Saumagent."
+          },
+          {
+            "name": "Rosengarten Étterem",
+            "tip": "Elegáns vacsora kilátással a virágpompára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zabbe Brauhaus",
+            "tip": "Încercați berea de casă și celebrul Saumagen din Palatinat."
+          },
+          {
+            "name": "Rosengarten Restaurant",
+            "tip": "Cină elegantă cu vedere la splendoarea florilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zabbe Brauhaus",
+            "tip": "Try the house-brewed beer and the Palatinate Saumagen."
+          },
+          {
+            "name": "Rosengarten Restaurant",
+            "tip": "Elegant dining with a view of the blooming flowers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Europas Rosengarten",
+            "tip": "Ruhe finden inmitten Tausender Rosen.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Schwarzbachaue",
+            "tip": "Entspannung direkt am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Európa Rózsakert",
+            "tip": "Találja meg a békét több ezer rózsa között.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Schwarzbach-liget",
+            "tip": "Kikapcsolódás közvetlenül a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Trandafiri a Europei",
+            "tip": "Găsiți liniștea în mijlocul miilor de trandafiri.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Lunca Schwarzbach",
+            "tip": "Relaxare direct pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Europe's Rose Garden",
+            "tip": "Find peace amidst thousands of roses.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Schwarzbach Meadow",
+            "tip": "Relaxation right by the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Hallplatz",
+            "tip": "Regionale Spezialitäten direkt vom Erzeuger."
+          },
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Designer-Marken zu reduzierten Preisen (kurze Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hallplatz hetipiac",
+            "tip": "Regionális különlegességek közvetlenül a termelőtől."
+          },
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Designer márkák kedvezményes áron (rövid autóút)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Hallplatz",
+            "tip": "Specialități regionale direct de la producători."
+          },
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Branduri de designer la prețuri reduse (scurtă călătorie)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hallplatz Weekly Market",
+            "tip": "Regional specialties directly from the producers."
+          },
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Designer brands at reduced prices (short drive)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und sehr gut zu Fuß erreichbar.",
+          "Kombinieren Sie den Rosengarten-Besuch mit einem Spaziergang zum Landgestüt.",
+          "Parken Sie am besten im Parkhaus am Schloss.",
+          "Samstags ist Markttag am Hallplatz – ideal für Souvenirs."
+        ],
+        "hu": [
+          "A belváros kompakt és gyalogosan is kiválóan bejárható.",
+          "Kombinálja a Rózsakert látogatását egy sétával az Állami Méneshez.",
+          "A legjobb parkolási lehetőség a kastélynál lévő parkolóházban van.",
+          "Szombatonként piacnap van a Hallplatzon – ideális szuvenírekhez."
+        ],
+        "ro": [
+          "Centrul orașului este compact și foarte ușor de parcurs pe jos.",
+          "Combinați vizita la Grădina de Trandafiri cu o plimbare la Herghelia de Stat.",
+          "Cel mai bine este să parcați în parcarea de la castel.",
+          "Sâmbăta este zi de piață în Hallplatz – ideal pentru suveniruri."
+        ],
+        "en": [
+          "The city center is compact and very easy to explore on foot.",
+          "Combine the Rose Garden visit with a walk to the State Stud.",
+          "It is best to park in the parking garage at the castle.",
+          "Saturdays are market days at Hallplatz – ideal for souvenirs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hallplatz",
+            "hu": "Hallplatz",
+            "ro": "Hallplatz",
+            "en": "Hallplatz"
+          },
+          "coords": [
+            7.3621,
+            49.2491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Radtour durch die Stadt.",
+            "hu": "A városi kerékpártúra kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul cu bicicleta prin oraș.",
+            "en": "Starting point for the bike tour through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogschloss",
+            "hu": "Hercegi kastély",
+            "ro": "Castelul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            7.3642,
+            49.2482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur vom Sattel aus.",
+            "hu": "Csodálja meg az építészetet a nyeregből.",
+            "ro": "Admirați arhitectura direct din șa.",
+            "en": "Admire the architecture from the saddle."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexanderskirche",
+            "hu": "Sándor-templom",
+            "ro": "Biserica Alexandru",
+            "en": "Alexander's Church"
+          },
+          "coords": [
+            7.3598,
+            49.2502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an der historischen Kirche.",
+            "hu": "Egy rövid megálló a történelmi templomnál.",
+            "ro": "O scurtă oprire la biserica istorică.",
+            "en": "A short stop at the historic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarzbachaue",
+            "hu": "Schwarzbach-liget",
+            "ro": "Lunca Schwarzbach",
+            "en": "Schwarzbach Meadow"
+          },
+          "coords": [
+            7.3552,
+            49.2511
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Radfahren auf ebenen Wegen entlang des Wassers.",
+            "hu": "Kerékpározás sík utakon a víz mentén.",
+            "ro": "Ciclism pe trasee plane de-a lungul apei.",
+            "en": "Cycling on level paths along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Europas Rosengarten",
+            "hu": "Európa Rózsakert",
+            "ro": "Grădina de Trandafiri a Europei",
+            "en": "Europe's Rose Garden"
+          },
+          "coords": [
+            7.3755,
+            49.2452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad und genießen Sie den Garten.",
+            "hu": "Parkolja le a bringát és élvezze a kertet.",
+            "ro": "Parcați bicicleta și bucurați-vă de grădină.",
+            "en": "Park the bike and enjoy the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgestüt",
+            "hu": "Állami Ménes",
+            "ro": "Herghelia de Stat",
+            "en": "State Stud"
+          },
+          "coords": [
+            7.3718,
+            49.2465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Historisches Areal mit viel Platz für Radler.",
+            "hu": "Történelmi terület sok hellyel a bringásoknak.",
+            "ro": "Zonă istorică cu mult spațiu pentru bicicliști.",
+            "en": "Historic area with plenty of space for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Fasanerie",
+            "hu": "Fácános",
+            "ro": "Fazaneria",
+            "en": "Fasanerie"
+          },
+          "coords": [
+            7.3982,
+            49.2421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Waldreicher Park mit Schlossruine und Wildpark.",
+            "hu": "Erdős park kastélyrommal és vadasparkkal.",
+            "ro": "Parc împădurit cu ruine de castel și parc de animale.",
+            "en": "Wooded park with castle ruins and wildlife park."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlskirche",
+            "hu": "Károly-templom",
+            "ro": "Biserica Carol",
+            "en": "Charles' Church"
+          },
+          "coords": [
+            7.3631,
+            49.2488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum zum barocken Abschluss.",
+            "hu": "Visszatérés a központba a barokk záráshoz.",
+            "ro": "Revenire în centru pentru un final baroc.",
+            "en": "Return to the center for a Baroque finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Zweibrücken lässt sich hervorragend mit dem Fahrrad erkunden. Vom Hallplatz aus führt die Route über das Schloss zur Alexanderskirche. Entlang der Schwarzbachaue radeln Sie entspannt zum Rosengarten und dem Landgestüt. Der weiteste, aber lohnenswerteste Teil führt Sie hinaus zur Fasanerie, einem idyllischen Parkgelände. Zum Abschluss kehren Sie für einen Blick in die Karlskirche ins Stadtzentrum zurück.",
+        "hu": "Zweibrücken kiválóan felfedezhető kerékpárral. A Hallplatztól az út a kastélyon keresztül vezet a Sándor-templomhoz. A Schwarzbachaue mentén nyugodtan kerekezhet a Rózsakerthez és a Méneshez. A legtávolabbi, de legkifizetődőbb szakasz a Fácánoshoz vezet, amely egy idilli parkterület. Végül visszatér a városközpontba a Károly-templom megtekintésére.",
+        "ro": "Zweibrücken poate fi explorat excelent cu bicicleta. Din Hallplatz, traseul trece pe lângă castel spre biserica Alexandru. De-a lungul Lunca Schwarzbach, pedalați relaxat spre Grădina de Trandafiri și Herghelie. Cea mai îndepărtată, dar cea mai profitabilă parte vă duce la Fazanerie, un parc idilic. La final, reveniți în centrul orașului pentru a vedea Biserica Carol.",
+        "en": "Zweibrücken is excellent for exploring by bike. From Hallplatz, the route leads past the palace to Alexander's Church. Cycle relaxedly along the Schwarzbachaue to the Rose Garden and the State Stud. The furthest but most rewarding part takes you out to the Fasanerie, an idyllic park area. Finally, return to the city center for a look at Charles' Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bierstübel",
+            "tip": "Rustikales Lokal für Radfahrer mit deftiger Küche."
+          },
+          {
+            "name": "Landschloss Fasanerie",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bierstübel",
+            "tip": "Rusztikus hely bringásoknak kiadós ételekkel."
+          },
+          {
+            "name": "Landschloss Fasanerie",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bierstübel",
+            "tip": "Local rustic pentru bicicliști, cu mâncare consistentă."
+          },
+          {
+            "name": "Landschloss Fasanerie",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bierstübel",
+            "tip": "Rustic pub for cyclists with hearty food."
+          },
+          {
+            "name": "Landschloss Fasanerie",
+            "tip": "Upscale cuisine in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wildpark Fasanerie",
+            "tip": "Natur pur am Stadtrand.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Rosengarten Teiche",
+            "tip": "Sitzbänke am Wasser genießen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fácános Vadaspark",
+            "tip": "Tiszta természet a városszélen.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Rózsakerti tavak",
+            "tip": "Élvezze a padokat a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de animale Fasanerie",
+            "tip": "Natură pură la marginea orașului.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Iazurile din Grădina de Trandafiri",
+            "tip": "Bănci relaxante pe malul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildlife Park Fasanerie",
+            "tip": "Pure nature at the city's edge.",
+            "emoji": "🦌"
+          },
+          {
+            "name": "Rose Garden Ponds",
+            "tip": "Enjoy benches by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City Outlet",
+            "tip": "Große Auswahl an Sport- und Outdoorkleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City Outlet",
+            "tip": "Nagy választék sport- és outdoor ruházatból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City Outlet",
+            "tip": "O selecție largă de haine sport și outdoor."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Outlet",
+            "tip": "Large selection of sports and outdoor clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den ebenen Radweg entlang des Schwarzbachs.",
+          "In der Fasanerie gibt es leichte Steigungen.",
+          "Die Stadt bietet zahlreiche Fahrradständer an den Hauptsehenswürdigkeiten.",
+          "Vergessen Sie Ihr Schloss nicht!"
+        ],
+        "hu": [
+          "Használja a sík kerékpárutat a Schwarzbach mentén.",
+          "A Fácánosnál enyhe emelkedők vannak.",
+          "A város számos kerékpártárolót kínál a főbb látnivalóknál.",
+          "Ne felejtse el a lakatot!"
+        ],
+        "ro": [
+          "Folosiți pista de biciclete plană de-a lungul pârâului Schwarzbach.",
+          "Există pante ușoare în zona Fazanerie.",
+          "Orașul oferă numeroase rastele pentru biciclete la principalele atracții.",
+          "Nu vă uitați lacătul!"
+        ],
+        "en": [
+          "Use the level bike path along the Schwarzbach.",
+          "There are slight inclines in the Fasanerie area.",
+          "The city offers numerous bike racks at the main sights.",
+          "Don't forget your lock!"
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hallplatz",
+            "hu": "Hallplatz",
+            "ro": "Hallplatz",
+            "en": "Hallplatz"
+          },
+          "coords": [
+            7.3621,
+            49.2491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel az első klasztert gyalog.",
+            "ro": "Parcați în centru și explorați primul grup de obiective la pas.",
+            "en": "Park in the center and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogschloss",
+            "hu": "Hercegi kastély",
+            "ro": "Castelul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            7.3642,
+            49.2482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkhaus am Schloss.",
+            "hu": "Rövid séta a kastély melletti parkolóházból.",
+            "ro": "Scurtă plimbare de la parcarea de lângă castel.",
+            "en": "Short walk from the parking garage at the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexanderskirche",
+            "hu": "Sándor-templom",
+            "ro": "Biserica Alexandru",
+            "en": "Alexander's Church"
+          },
+          "coords": [
+            7.3598,
+            49.2502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Teil des Innenstadt-Clusters (zu Fuß).",
+            "hu": "A belvárosi klaszter része (gyalog).",
+            "ro": "Parte din grupul de obiective din centrul vechi (pe jos).",
+            "en": "Part of the city center cluster (on foot)."
+          }
+        },
+        {
+          "name": {
+            "de": "Europas Rosengarten",
+            "hu": "Európa Rózsakert",
+            "ro": "Grădina de Trandafiri a Europei",
+            "en": "Europe's Rose Garden"
+          },
+          "coords": [
+            7.3755,
+            49.2452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Haupteingang.",
+            "hu": "Nagy parkoló közvetlenül a főbejáratnál.",
+            "ro": "Parcare mare situată chiar la intrarea principală.",
+            "en": "Large parking lot right at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgestüt",
+            "hu": "Állami Ménes",
+            "ro": "Herghelia de Stat",
+            "en": "State Stud"
+          },
+          "coords": [
+            7.3718,
+            49.2465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zweiter Cluster: Lassen Sie das Auto am Rosengarten stehen.",
+            "hu": "Második klaszter: Hagyja az autót a Rózsakertnél.",
+            "ro": "Al doilea grup: lăsați mașina la Grădina de Trandafiri.",
+            "en": "Second cluster: Leave the car at the Rose Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Fasanerie",
+            "hu": "Fácános",
+            "ro": "Fazaneria",
+            "en": "Fasanerie"
+          },
+          "coords": [
+            7.3982,
+            49.2421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Stadtrand, Parken direkt am Wildpark.",
+            "hu": "Utazás a városszélre, parkolás közvetlenül a vadasparknál.",
+            "ro": "Călătorie la marginea orașului, parcare chiar la parcul de animale.",
+            "en": "Drive to the city outskirts, park directly at the wildlife park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fashion Outlet",
+            "hu": "Fashion Outlet",
+            "ro": "Fashion Outlet",
+            "en": "Fashion Outlet"
+          },
+          "coords": [
+            7.4021,
+            49.2155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss für Shopping-Liebhaber.",
+            "hu": "Tökéletes befejezés a vásárlás szerelmeseinek.",
+            "ro": "Finalul perfect pentru iubitorii de cumpărături.",
+            "en": "Perfect finale for shopping enthusiasts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Zweibrücken mit dem Auto bietet Flexibilität für Stadt und Umland. Beginnen Sie im Zentrum mit dem Schloss und den Kirchen (Cluster 1). Danach fahren Sie zum weltberühmten Rosengarten und dem benachbarten Landgestüt (Cluster 2). Ein kurzer Trip bringt Sie zur idyllischen Fasanerie am Stadtrand. Den Tag beenden Sie im berühmten Fashion Outlet, das bequem mit dem Auto erreichbar ist.",
+        "hu": "Zweibrücken autóval rugalmasságot kínál a városban és környékén. Kezdje a központban a kastéllyal és a templomokkal (1. klaszter). Ezután utazzon a világhírű Rózsakerthez és a szomszédos Méneshez (2. klaszter). Egy rövid út a városszéli idilli Fácánoshoz vezet. A napot a híres Fashion Outletben fejezheti be, amely autóval könnyen megközelíthető.",
+        "ro": "Zweibrücken cu mașina oferă flexibilitate pentru oraș și împrejurimi. Începeți în centru cu castelul și bisericile (Grupul 1). Apoi conduceți spre faimoasa Grădină de Trandafiri și Herghelia vecină (Grupul 2). O scurtă călătorie vă duce la idilica Fazanerie de la marginea orașului. Încheiați ziua la faimosul Fashion Outlet, accesibil ușor cu mașina.",
+        "en": "Zweibrücken by car offers flexibility for both the city and surroundings. Start in the center with the palace and churches (Cluster 1). Then drive to the world-famous Rose Garden and the neighboring State Stud (Cluster 2). A short trip takes you to the idyllic Fasanerie on the outskirts. End the day at the famous Fashion Outlet, easily reachable by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Gute italienische Küche nahe dem Schloss."
+          },
+          {
+            "name": "Outlet Food Court",
+            "tip": "Schnelle und abwechslungsreiche Verpflegung beim Shopping."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Jó olasz konyha a kastély közelében."
+          },
+          {
+            "name": "Outlet Food Court",
+            "tip": "Gyors és változatos étkezés vásárlás közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Bucătărie italiană bună lângă castel."
+          },
+          {
+            "name": "Outlet Food Court",
+            "tip": "Mâncare rapidă și variată în timpul cumpărăturilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Good Italian cuisine near the palace."
+          },
+          {
+            "name": "Outlet Food Court",
+            "tip": "Quick and diverse food options while shopping."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Fasanerie",
+            "tip": "Startpunkt für Waldspaziergänge.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fácános parkoló",
+            "tip": "Kiindulópont erdei sétákhoz.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Fasanerie",
+            "tip": "Punct de plecare pentru plimbări în pădure.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fasanerie Parking",
+            "tip": "Starting point for forest walks.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Eines der größten Outlet-Center Deutschlands."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Németország egyik legnagyobb outlet központja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "Unul dintre cele mai mari centre outlet din Germania."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zweibrücken Fashion Outlet",
+            "tip": "One of Germany's largest outlet centers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkleitsystem in der Stadt ist gut ausgeschildert.",
+          "Nutzen Sie die Cluster-Strategie, um Parkgebühren zu sparen.",
+          "Das Fashion Outlet hat sehr viele kostenlose Parkplätze.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "A városi parkolási rendszer jól ki van táblázva.",
+          "Használja a klaszter-stratégiát a parkolási díjak megtakarításához.",
+          "A Fashion Outletben rengeteg ingyenes parkolóhely van.",
+          "Ügyeljen az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Sistemul de ghidare pentru parcare din oraș este bine semnalizat.",
+          "Folosiți strategia grupurilor de obiective pentru a economisi taxe de parcare.",
+          "Fashion Outlet are foarte multe locuri de parcare gratuite.",
+          "Atenție la străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "The city's parking guidance system is well signposted.",
+          "Use the cluster strategy to save on parking fees.",
+          "The Fashion Outlet has plenty of free parking spaces.",
+          "Watch out for one-way streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hallplatz / ZOB",
+            "hu": "Hallplatz / ZOB",
+            "ro": "Hallplatz / ZOB",
+            "en": "Hallplatz / ZOB"
+          },
+          "coords": [
+            7.3621,
+            49.2491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt der Stadt.",
+            "hu": "A város központi buszcsomópontja.",
+            "ro": "Nodul central de autobuze al orașului.",
+            "en": "The city's central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogschloss",
+            "hu": "Hercegi kastély",
+            "ro": "Castelul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            7.3642,
+            49.2482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom ZOB bequem zu Fuß erreichbar.",
+            "hu": "A ZOB-tól könnyen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos de la stația centrală (ZOB).",
+            "en": "Easily reachable on foot from the central bus station (ZOB)."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexanderskirche",
+            "hu": "Sándor-templom",
+            "ro": "Biserica Alexandru",
+            "en": "Alexander's Church"
+          },
+          "coords": [
+            7.3598,
+            49.2502
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Fußgängerzone.",
+            "hu": "Séta a sétálóutcán keresztül.",
+            "ro": "Plimbare prin zona pietonală.",
+            "en": "A walk through the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Europas Rosengarten",
+            "hu": "Európa Rózsakert",
+            "ro": "Grădina de Trandafiri a Europei",
+            "en": "Europe's Rose Garden"
+          },
+          "coords": [
+            7.3755,
+            49.2452
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Buslinie 225 oder 226 ab ZOB.",
+            "hu": "225-ös vagy 226-os busz a ZOB-tól.",
+            "ro": "Linia de autobuz 225 sau 226 de la ZOB.",
+            "en": "Bus line 225 or 226 from ZOB."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgestüt",
+            "hu": "Állami Ménes",
+            "ro": "Herghelia de Stat",
+            "en": "State Stud"
+          },
+          "coords": [
+            7.3718,
+            49.2465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben dem Rosengarten (Fußweg).",
+            "hu": "Közvetlenül a Rózsakert mellett (gyalogút).",
+            "ro": "Chiar lângă Grădina de Trandafiri (pe jos).",
+            "en": "Right next to the Rose Garden (walking path)."
+          }
+        },
+        {
+          "name": {
+            "de": "Fasanerie",
+            "hu": "Fácános",
+            "ro": "Fazaneria",
+            "en": "Fasanerie"
+          },
+          "coords": [
+            7.3982,
+            49.2421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Buslinie 221 Richtung Fasanerie.",
+            "hu": "221-es busz a Fácános felé.",
+            "ro": "Linia de autobuz 221 în direcția Fasanerie.",
+            "en": "Bus line 221 towards Fasanerie."
+          }
+        },
+        {
+          "name": {
+            "de": "Karlskirche",
+            "hu": "Károly-templom",
+            "ro": "Biserica Carol",
+            "en": "Charles' Church"
+          },
+          "coords": [
+            7.3631,
+            49.2488
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Rückfahrt zum ZOB für den letzten Stopp.",
+            "hu": "Visszautazás a ZOB-hoz az utolsó megállóhoz.",
+            "ro": "Întoarcere la ZOB pentru ultima oprire.",
+            "en": "Return to ZOB for the last stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des zentralen Omnibusbahnhofs (ZOB) am Hallplatz ist Zweibrücken gut vernetzt. Erkunden Sie zuerst den historischen Kern zu Fuß. Mit den lokalen Buslinien erreichen Sie bequem den prächtigen Rosengarten und das traditionsreiche Landgestüt. Ein weiterer Bus bringt Sie hinaus zur Fasanerie, einer Oase der Ruhe. Den Tag beschließen Sie wieder im Zentrum an der Karlskirche.",
+        "hu": "A Hallplatznál lévő központi autóbusz-állomásnak (ZOB) köszönhetően Zweibrücken jól hálózatba van kötve. Először fedezze fel gyalog a történelmi magot. A helyi buszjáratokkal kényelmesen elérheti a pompás Rózsakertet és a hagyományőrző Állami Ménest. Egy másik busz a városszéli Fácánoshoz viszi. A napot ismét a központban, a Károly-templomnál zárja.",
+        "ro": "Datorită stației centrale de autobuz (ZOB) din Hallplatz, Zweibrücken este bine conectat. Explorați mai întâi centrul istoric la pas. Cu liniile locale de autobuz, puteți ajunge confortabil la Grădina de Trandafiri și la tradiționala Herghelie de Stat. Un alt autobuz vă duce la Fazanerie, o oază de liniște. Încheiați ziua tot în centru, la Biserica Carol.",
+        "en": "Thanks to the central bus station (ZOB) at Hallplatz, Zweibrücken is well connected. First, explore the historic core on foot. With local bus lines, you can easily reach the magnificent Rose Garden and the traditional State Stud. Another bus takes you out to the Fasanerie, an oasis of calm. End the day back in the center at Charles' Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Gillen",
+            "tip": "Ideal für einen schnellen Snack am ZOB."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Gillen",
+            "tip": "Ideális egy gyors snackre a ZOB-nál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buzinăria Gillen",
+            "tip": "Ideal pentru o gustare rapidă la ZOB."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Gillen",
+            "tip": "Ideal for a quick snack at the ZOB."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fasanerie",
+            "tip": "Naturgenuss ohne Parkplatzsuche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fácános",
+            "tip": "Természet élvezete parkolóhely-keresés nélkül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fasanerie",
+            "tip": "Bucurați-vă de natură fără a căuta loc de parcare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fasanerie",
+            "tip": "Enjoy nature without the search for parking.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauptstraße",
+            "tip": "Kleine Boutiquen in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hauptstraße",
+            "tip": "Kis butikok a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hauptstraße",
+            "tip": "Mici buticuri în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hauptstraße",
+            "tip": "Small boutiques in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Stadtgebiet.",
+          "Die Fahrpläne hängen am ZOB groß aus.",
+          "Die Busse fahren unter der Woche häufiger als am Wochenende.",
+          "Nutzen Sie die App des VRN für Live-Abfahrten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi területre.",
+          "A menetrendek nagyban ki vannak függesztve a ZOB-nál.",
+          "A buszok hétköznap gyakrabban járnak, mint hétvégén.",
+          "Használja a VRN alkalmazást az élő indulásokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona urbană.",
+          "Orarele sunt afișate mare în stația centrală (ZOB).",
+          "Autobuzele circulă mai frecvent în timpul săptămânii decât în weekend.",
+          "Folosiți aplicația VRN pentru plecări în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for the city area.",
+          "Schedules are posted prominently at the ZOB.",
+          "Buses run more frequently during the week than on weekends.",
+          "Use the VRN app for live departures."
+        ]
+      }
+    }
+  }
+}

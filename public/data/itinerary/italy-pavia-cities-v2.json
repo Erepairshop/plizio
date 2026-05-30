@@ -1,0 +1,1172 @@
+{
+  "city_id": "italy-pavia-cities-v2",
+  "anchor": {
+    "name": "Pavia Centro",
+    "coords": [
+      9.1555,
+      45.1852
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Visconteo",
+            "hu": "Visconti-kastély",
+            "ro": "Castelul Visconteo",
+            "en": "Visconti Castle"
+          },
+          "coords": [
+            9.162,
+            45.191
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Musei Civici im Inneren für lokale Kunstgeschichte.",
+            "hu": "Nézze meg a belső udvart és a helytörténeti gyűjteményt.",
+            "ro": "Vizitați Musei Civici din interior pentru artă și istorie locală.",
+            "en": "Visit the Musei Civici inside for local art and history."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro in Ciel d'Oro",
+            "hu": "San Pietro in Ciel d'Oro bazilika",
+            "ro": "Basilica San Pietro in Ciel d'Oro",
+            "en": "San Pietro in Ciel d'Oro"
+          },
+          "coords": [
+            9.1618,
+            45.1902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie das Grab des Heiligen Augustinus am Altar.",
+            "hu": "Keresse Szent Ágoston sírját a főoltárnál.",
+            "ro": "Căutați mormântul Sfântului Augustin la altar.",
+            "en": "Look for the tomb of Saint Augustine at the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität Pavia",
+            "hu": "Paviai Egyetem",
+            "ro": "Universitatea din Pavia",
+            "en": "University of Pavia"
+          },
+          "coords": [
+            9.1565,
+            45.1865
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die historischen Innenhöfe der alten Universität.",
+            "hu": "Sétáljon végig a patinás belső udvarokon.",
+            "ro": "Plimbați-vă prin curțile istorice ale vechii universități.",
+            "en": "Walk through the historic courtyards of the old university."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen - Piazza della Vittoria",
+            "hu": "Ebéd - Piazza della Vittoria",
+            "ro": "Prânz - Piazza della Vittoria",
+            "en": "Lunch - Piazza della Vittoria"
+          },
+          "coords": [
+            9.1575,
+            45.185
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Risotto alla Pavese in einer der Trattorien.",
+            "hu": "Kóstolja meg a helyi rizottót az egyik hangulatos étteremben.",
+            "ro": "Gustați Risotto alla Pavese la una dintre tratorii.",
+            "en": "Try Risotto alla Pavese at one of the cozy trattorias."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Vittoria",
+            "hu": "Vittoria tér",
+            "ro": "Piazza della Vittoria",
+            "en": "Piazza della Vittoria"
+          },
+          "coords": [
+            9.1575,
+            45.185
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt mit Blick auf den Broletto.",
+            "hu": "A város szíve, kiváló rálátással a Broletto palotára.",
+            "ro": "Inima orașului, cu o vedere excelentă spre Broletto.",
+            "en": "The heart of the city with a great view of the Broletto."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Pavia",
+            "hu": "Paviai dóm",
+            "ro": "Domul din Pavia",
+            "en": "Pavia Cathedral"
+          },
+          "coords": [
+            9.156,
+            45.1852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eine der größten Kuppeln Italiens.",
+            "hu": "Csodálja meg Olaszország egyik legnagyobb kupoláját.",
+            "ro": "Admirați una dintre cele mai mari cupole din Italia.",
+            "en": "Admire one of the largest domes in Italy."
+          }
+        },
+        {
+          "name": {
+            "de": "San Michele Maggiore",
+            "hu": "San Michele Maggiore bazilika",
+            "ro": "Basilica San Michele Maggiore",
+            "en": "San Michele Maggiore"
+          },
+          "coords": [
+            9.1592,
+            45.1832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wichtiger Ort der Krönungen mittelalterlicher Könige.",
+            "hu": "Középkori királykoronázások fontos helyszíne.",
+            "ro": "Loc important pentru încoronările regilor medievali.",
+            "en": "Important site for medieval royal coronations."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Coperto",
+            "hu": "Fedett híd",
+            "ro": "Ponte Coperto",
+            "en": "Covered Bridge"
+          },
+          "coords": [
+            9.1555,
+            45.1812
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang über dem Fluss Ticino.",
+            "hu": "Élvezze a naplementét a Ticino-folyó felett.",
+            "ro": "Bucurați-vă de apusul de soare peste râul Ticino.",
+            "en": "Enjoy the sunset over the Ticino River."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die Macht der Visconti im Schloss und die akademische Pracht der Universität. Mittags pulsiert das Leben auf der Piazza della Vittoria bei einem traditionellen Risotto. Nachmittags führen Sie die Wege zu den monumentalen Kirchen, bis Sie den Tag am malerischen Ticino-Fluss auf der berühmten überdachten Brücke ausklingen lassen.",
+        "hu": "A reggelt a Visconti-kastély hatalmas falai között és az ősi egyetem udvarain töltjük. Délben a Piazza della Vittoria hangulata és egy tál gőzölgő rizottó várja. Délután Pavia lélegzetelállító templomait fedezzük fel, majd a napot a Ticino-folyó partján, a Fedett hídon átkelve zárjuk, ahol a legszebb a panoráma.",
+        "ro": "Dimineața este dedicată puterii familiei Visconti la castel și prestigiului academic al universității. La prânz, viața pulsează în Piazza della Vittoria, acompaniată de un risotto tradițional. După-amiaza vă poartă prin bisericile monumentale ale orașului, terminând ziua pe malul râului Ticino, la faimosul pod acoperit.",
+        "en": "Start your morning exploring the Visconti Castle's might and the academic grandeur of the University. At midday, immerse yourself in the vibrant life of Piazza della Vittoria over a traditional risotto. Spend the afternoon visiting monumental churches, then conclude your day at the scenic Ticino River crossing the famous Covered Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Risotto alla Pavese",
+            "tip": "Cremiger Risotto mit Wein und lokalem Käse."
+          },
+          {
+            "name": "Torta del Paradiso",
+            "tip": "Ein luftiger, süßer Kuchen, erfunden in Pavia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Risotto alla Pavese",
+            "tip": "Krémes rizottó borral és helyi sajtokkal."
+          },
+          {
+            "name": "Torta del Paradiso",
+            "tip": "Könnyű, piskótaszerű édesség, Pavia jelképe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto alla Pavese",
+            "tip": "Risotto cremos cu vin și brânzeturi locale."
+          },
+          {
+            "name": "Torta del Paradiso",
+            "tip": "O prăjitură pufoasă și dulce, creată în Pavia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Risotto alla Pavese",
+            "tip": "Creamy risotto made with wine and local cheeses."
+          },
+          {
+            "name": "Torta del Paradiso",
+            "tip": "A light, airy sweet cake invented in Pavia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Borgo Ticino",
+            "tip": "Ruhiger Spaziergang am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "Botanischer Garten der Universität.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgo Ticino",
+            "tip": "Csendes séta a folyóparti házak között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "Az egyetem eldugott botanikus kertje.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borgo Ticino",
+            "tip": "Plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "Grădina botanică a universității.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgo Ticino",
+            "tip": "Quiet walk along the riverbanks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orto Botanico",
+            "tip": "The university's hidden botanical garden.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strada Nuova",
+            "tip": "Die Haupteinkaufsstraße mit Mode und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strada Nuova",
+            "tip": "A fő sétálóutca elegáns divatüzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Nuova",
+            "tip": "Strada principală de cumpărături cu modă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strada Nuova",
+            "tip": "The main shopping street with fashion and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pavia lässt sich am besten zu Fuß erkunden, da das Zentrum größtenteils Fußgängerzone ist.",
+          "Achten Sie auf die Öffnungszeiten der Kirchen, viele schließen zur Mittagszeit.",
+          "Kombinieren Sie den Besuch mit der nahegelegenen Certosa di Pavia (ca. 8 km nördlich)."
+        ],
+        "hu": [
+          "Pavia központja nagyrészt sétálóövezet, így a gyalogos felfedezés a legcélszerűbb.",
+          "Figyeljen a templomok nyitvatartására, sok helyen van ebédszünet.",
+          "Érdemes a napot a várostól 8 km-re északra fekvő Certosa di Pavia kolostorral kezdeni."
+        ],
+        "ro": [
+          "Centrul orașului Pavia este în mare parte pietonal, deci explorarea pe jos este ideală.",
+          "Verificați programul bisericilor, multe se închid în timpul prânzului.",
+          "Nu ratați mănăstirea Certosa di Pavia, aflată la 8 km nord de oraș."
+        ],
+        "en": [
+          "Pavia is best explored on foot as the center is mostly pedestrianized.",
+          "Keep an eye on church opening hours, as many close during lunchtime.",
+          "Consider starting your trip at the Certosa di Pavia monastery, 8km north."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Visconteo",
+            "hu": "Visconti-kastély",
+            "ro": "Castelul Visconteo",
+            "en": "Visconti Castle"
+          },
+          "coords": [
+            9.162,
+            45.191
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze direkt am Eingang.",
+            "hu": "Kerékpártárolók közvetlenül a bejáratnál.",
+            "ro": "Rasteluri de biciclete chiar la intrare.",
+            "en": "Bicycle parking right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro in Ciel d'Oro",
+            "hu": "San Pietro in Ciel d'Oro",
+            "ro": "San Pietro in Ciel d'Oro",
+            "en": "San Pietro in Ciel d'Oro"
+          },
+          "coords": [
+            9.1618,
+            45.1902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ruhige Gasse, ideal für Radfahrer.",
+            "hu": "Csendes kis utca, tökéletes bringásoknak.",
+            "ro": "Alee liniștită, ideală pentru bicicliști.",
+            "en": "Quiet alley, ideal for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität Pavia",
+            "hu": "Paviai Egyetem",
+            "ro": "Universitatea din Pavia",
+            "en": "University of Pavia"
+          },
+          "coords": [
+            9.1565,
+            45.1865
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster.",
+            "hu": "Vigyázzon a macskaköveken tekerve.",
+            "ro": "Atenție la condusul pe pavaj.",
+            "en": "Be careful when riding on the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Vittoria",
+            "hu": "Vittoria tér",
+            "ro": "Piazza della Vittoria",
+            "en": "Piazza della Vittoria"
+          },
+          "coords": [
+            9.1575,
+            45.185
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hier darf man das Rad schieben.",
+            "hu": "A téren ajánlott tolni a kerékpárt.",
+            "ro": "Se recomandă să mergeți pe lângă bicicletă în piață.",
+            "en": "It is recommended to walk your bike in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Pavia",
+            "hu": "Paviai dóm",
+            "ro": "Domul din Pavia",
+            "en": "Pavia Cathedral"
+          },
+          "coords": [
+            9.156,
+            45.1852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prachtvolle Aussicht vom Vorplatz.",
+            "hu": "Pazar kilátás a dóm előtti térről.",
+            "ro": "Vedere magnifică din fața domului.",
+            "en": "Magnificent view from the cathedral square."
+          }
+        },
+        {
+          "name": {
+            "de": "San Michele Maggiore",
+            "hu": "San Michele Maggiore",
+            "ro": "San Michele Maggiore",
+            "en": "San Michele Maggiore"
+          },
+          "coords": [
+            9.1592,
+            45.1832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Juwel der Romanik.",
+            "hu": "A román stílus egyik gyöngyszeme.",
+            "ro": "O bijuterie a stilului romanic.",
+            "en": "A jewel of Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Coperto",
+            "hu": "Fedett híd",
+            "ro": "Ponte Coperto",
+            "en": "Covered Bridge"
+          },
+          "coords": [
+            9.1555,
+            45.1812
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke in den Borgo.",
+            "hu": "Tekerjen át a hídon a Borgo negyedbe.",
+            "ro": "Traversați podul spre cartierul Borgo.",
+            "en": "Ride across the bridge into the Borgo district."
+          }
+        },
+        {
+          "name": {
+            "de": "Ticino Flussufer",
+            "hu": "Ticino-part",
+            "ro": "Malul râului Ticino",
+            "en": "Ticino Riverbank"
+          },
+          "coords": [
+            9.154,
+            45.179
+          ],
+          "category": "park/beach",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Radweg entlang des Wassers.",
+            "hu": "Szuper kerékpárút közvetlenül a vízparton.",
+            "ro": "Pistă de biciclete excelentă chiar pe malul apei.",
+            "en": "Excellent bike path right along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Pavia dynamisch auf zwei Rädern! Vormittags besuchen wir das Schloss und die Universität, mittags genießen wir das Flair der Altstadt. Der Nachmittag gehört den romanischen Kirchen und einer entspannten Fahrt entlang des Ticino-Ufers.",
+        "hu": "Fedezze fel Paviát dinamikusan, két keréken! Délelőtt a kastélyt és az egyetemet érintjük, délben az óváros hangulatát élvezzük. A délután a román kori templomoké és egy pihentető tekerésé a Ticino partján.",
+        "ro": "Descoperiți Pavia în mod dinamic, pe două roți! Dimineața vizităm castelul și universitatea, la prânz ne bucurăm de atmosfera centrului vechi. După-amiaza este dedicată bisericilor romanice și unei plimbări relaxante pe malul râului Ticino.",
+        "en": "Discover Pavia dynamically on two wheels! Spend the morning at the castle and university, enjoy the old town vibe at lunch, and dedicate the afternoon to Romanesque churches and a relaxing ride along the Ticino banks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biscotto di San Riccardo",
+            "tip": "Energieschub für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscotto di San Riccardo",
+            "tip": "Szuper energiapótlás bringázás közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscotto di San Riccardo",
+            "tip": "Sursă excelentă de energie pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscotto di San Riccardo",
+            "tip": "A great energy boost while cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fahrradweg am Ticino",
+            "tip": "Natur pur am Fluss.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ticino menti bicikliút",
+            "tip": "Természetközeli élmény a folyó mentén.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete pe Ticino",
+            "tip": "Natură pură de-a lungul râului.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ticino bike path",
+            "tip": "Pure nature along the river.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Halle mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Vásárcsarnok friss helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Piață acoperită cu produse locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Indoor market with fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist flach und sehr fahrradfreundlich.",
+          "Vorsicht bei Straßenbahnschienen (falls vorhanden) und engem Kopfsteinpflaster."
+        ],
+        "hu": [
+          "A város sík terep, így rendkívül kényelmes a kerékpározás.",
+          "Vigyázzon a szűk utcák macskakövein és a gyalogosforgalomra."
+        ],
+        "ro": [
+          "Orașul este plat și foarte prietenos cu bicicliștii.",
+          "Atenție la pavajul îngust și la traficul pietonal."
+        ],
+        "en": [
+          "The city is flat and very bicycle-friendly.",
+          "Be careful on narrow cobblestone streets and watch for pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Certosa di Pavia",
+            "hu": "Paviai karthauzi kolostor",
+            "ro": "Certosa di Pavia",
+            "en": "Certosa di Pavia"
+          },
+          "coords": [
+            9.1485,
+            45.2568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz vor der Anlage.",
+            "hu": "Ingyenes parkoló a komplexum előtt.",
+            "ro": "Parcare gratuită în fața complexului.",
+            "en": "Free parking available in front of the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Visconteo (Cluster Centro)",
+            "hu": "Visconti-kastély (Belváros klaszter)",
+            "ro": "Castelul Visconteo (Cluster Centru)",
+            "en": "Visconti Castle (Center Cluster)"
+          },
+          "coords": [
+            9.162,
+            45.191
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Viale Matteotti.",
+            "hu": "Parkoljon a Viale Matteotti mélygarázsban.",
+            "ro": "Parcați în parcarea Viale Matteotti.",
+            "en": "Park at the Viale Matteotti parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Vittoria",
+            "hu": "Vittoria tér",
+            "ro": "Piazza della Vittoria",
+            "en": "Piazza della Vittoria"
+          },
+          "coords": [
+            9.1575,
+            45.185
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für ein ausgiebiges Mittagessen.",
+            "hu": "Központi találkozóhely egy kiadós ebédhez.",
+            "ro": "Loc de întâlnire central pentru un prânz copios.",
+            "en": "Central meeting spot for a hearty lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Pavia",
+            "hu": "Paviai dóm",
+            "ro": "Domul din Pavia",
+            "en": "Pavia Cathedral"
+          },
+          "coords": [
+            9.156,
+            45.1852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Piazza entfernt.",
+            "hu": "Csak pár perc séta a tértől.",
+            "ro": "La doar câteva minute de mers pe jos de piață.",
+            "en": "Just a few minutes' walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Coperto",
+            "hu": "Fedett híd",
+            "ro": "Ponte Coperto",
+            "en": "Covered Bridge"
+          },
+          "coords": [
+            9.1555,
+            45.1812
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt über dem Ticino.",
+            "hu": "A város jelképe a Ticino felett.",
+            "ro": "Simbolul orașului peste Ticino.",
+            "en": "The city's landmark over the Ticino."
+          }
+        },
+        {
+          "name": {
+            "de": "Borgo Ticino (Aussichtspunkt)",
+            "hu": "Borgo Ticino kilátópont",
+            "ro": "Borgo Ticino (Punct de belvedere)",
+            "en": "Borgo Ticino (Viewpoint)"
+          },
+          "coords": [
+            9.154,
+            45.179
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bester Blick zurück auf die Skyline von Pavia.",
+            "hu": "A legjobb kilátás Pavia sziluettjére.",
+            "ro": "Cea mai bună vedere spre panorama orașului Pavia.",
+            "en": "The best view back at Pavia's skyline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir das Juwel Certosa di Pavia mit dem historischen Stadtkern. Der Vormittag gehört der beeindruckenden Kartause, ab Mittag erkunden wir zu Fuß die Schätze der Altstadt, vom Dom bis zur überdachten Brücke.",
+        "hu": "Autóval ötvözzük a városon kívüli Certosa di Pavia ékszerdobozát a történelmi központtal. A délelőtt a lenyűgöző kolostoré, déltől pedig gyalogosan fedezzük fel az óváros kincseit a dómtól a Fedett hídig.",
+        "ro": "Cu mașina combinăm bijuteria Certosa di Pavia cu centrul istoric. Dimineața este dedicată mănăstirii impresionante, iar de la prânz explorăm pe jos comorile centrului vechi, de la dom până la podul acoperit.",
+        "en": "By car, we combine the gem of Certosa di Pavia with the historic city center. Spend the morning at the impressive monastery, and from midday onwards, explore the old town's treasures on foot, from the cathedral to the covered bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antica Trattoria del Borgo",
+            "tip": "Authentische Küche im Fischerviertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antica Trattoria del Borgo",
+            "tip": "Autentikus konyha a halásznegyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antica Trattoria del Borgo",
+            "tip": "Bucătărie autentică în cartierul pescarilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antica Trattoria del Borgo",
+            "tip": "Authentic cuisine in the fishermen's district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Certosa Kreuzgang",
+            "tip": "Absolute Stille und Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Certosa keringője",
+            "tip": "Abszolút csend és meditáció.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Certosa",
+            "tip": "Liniște absolută și meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Certosa Cloister",
+            "tip": "Absolute silence and meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs der Mönche",
+            "tip": "In der Certosa gibt es Liköre und Seifen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szerzetesi termékek",
+            "tip": "Likőrök és szappanok a kolostor boltjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse monahale",
+            "tip": "Lichioruri și săpunuri în magazinul mănăstirii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastic products",
+            "tip": "Liqueurs and soaps in the monastery shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsuche im Zentrum ist schwierig, nutzen Sie die großen Parkhäuser am Rand der ZTL.",
+          "Certosa di Pavia ist am Montag oft geschlossen."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használja a ZTL zónán kívüli nagy parkolóházakat.",
+          "A Certosa di Pavia hétfőnként gyakran zárva tart."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă, folosiți parcările mari de la marginea zonei ZTL.",
+          "Certosa di Pavia este adesea închisă lunea."
+        ],
+        "en": [
+          "Parking in the center is difficult; use the large parking garages on the edge of the ZTL zone.",
+          "Certosa di Pavia is often closed on Mondays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pavia Stazione (Zentrum)",
+            "hu": "Pavia vasútállomás",
+            "ro": "Gara Pavia",
+            "en": "Pavia Station"
+          },
+          "coords": [
+            9.145,
+            45.187
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kaufen Sie hier Ihr Ticket für den Regionalzug.",
+            "hu": "Vegye meg itt a jegyét a regionális vonatra.",
+            "ro": "Cumpărați biletul pentru trenul regional de aici.",
+            "en": "Buy your regional train ticket here."
+          }
+        },
+        {
+          "name": {
+            "de": "Certosa di Pavia",
+            "hu": "Paviai karthauzi kolostor",
+            "ro": "Certosa di Pavia",
+            "en": "Certosa di Pavia"
+          },
+          "coords": [
+            9.1485,
+            45.2568
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Certosa sind es 15 Min. Fußweg.",
+            "hu": "A Certosa állomástól 15 perc séta a kolostor.",
+            "ro": "De la gara Certosa sunt 15 minute de mers pe jos.",
+            "en": "It is a 15-min walk from the Certosa station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Vittoria",
+            "hu": "Vittoria tér",
+            "ro": "Piazza della Vittoria",
+            "en": "Piazza della Vittoria"
+          },
+          "coords": [
+            9.1575,
+            45.185
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 1 verbindet den Bahnhof mit dem Zentrum.",
+            "hu": "Az 1-es busz köti össze az állomást a központtal.",
+            "ro": "Autobuzul linia 1 leagă gara de centru.",
+            "en": "Bus line 1 connects the station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität Pavia",
+            "hu": "Paviai Egyetem",
+            "ro": "Universitatea din Pavia",
+            "en": "University of Pavia"
+          },
+          "coords": [
+            9.1565,
+            45.1865
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mitten im pulsierenden Studentenviertel.",
+            "hu": "A pezsgő diáknegyed közepén található.",
+            "ro": "În mijlocul cartierului studențesc vibrant.",
+            "en": "Located in the heart of the vibrant student district."
+          }
+        },
+        {
+          "name": {
+            "de": "San Michele Maggiore",
+            "hu": "San Michele Maggiore",
+            "ro": "San Michele Maggiore",
+            "en": "San Michele Maggiore"
+          },
+          "coords": [
+            9.1592,
+            45.1832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Architektonisches Highlight der Stadt.",
+            "hu": "A város építészeti csúcspontja.",
+            "ro": "Punctul culminant arhitectural al orașului.",
+            "en": "The architectural highlight of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Coperto",
+            "hu": "Fedett híd",
+            "ro": "Ponte Coperto",
+            "en": "Covered Bridge"
+          },
+          "coords": [
+            9.1555,
+            45.1812
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für Fotos am frühen Abend.",
+            "hu": "Tökéletes helyszín kora esti fotózáshoz.",
+            "ro": "Ideal pentru fotografii la începutul serii.",
+            "en": "Ideal for early evening photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Bus und Bahn, um Pavia stressfrei zu erleben. Vormittags führt der Zug zur berühmten Certosa, ab Mittag bringt Sie der Bus zurück in die pulsierende Altstadt zu den historischen Monumenten.",
+        "hu": "Használja a buszt és a vonatot Pavia stresszmentes felfedezéséhez. Délelőtt a vonat kiviszi a híres Certosához, déltől pedig a helyi járat visszahozza a lüktető óvárosba a történelmi emlékekhez.",
+        "ro": "Folosiți autobuzul și trenul pentru o experiență fără stres în Pavia. Dimineața, trenul vă duce la faimoasa Certosa, iar de la prânz autobuzul vă readuce în centrul vechi vibrant pentru monumentele istorice.",
+        "en": "Use bus and train for a stress-free Pavia experience. In the morning, the train takes you to the famous Certosa, and from midday, the local bus brings you back to the vibrant old town and its historic monuments."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Vigoni",
+            "tip": "Historisches Café direkt gegenüber der Uni."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria Vigoni",
+            "tip": "Történelmi cukrászda közvetlenül az egyetemmel szemben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Vigoni",
+            "tip": "Cofetărie istorică chiar vizavi de universitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticceria Vigoni",
+            "tip": "Historic pastry shop right opposite the university."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Malaspina",
+            "tip": "Kleine grüne Oase im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Malaspina",
+            "tip": "Kis zöld oázis a belvárosban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Malaspina",
+            "tip": "Mică oază de verdeață în centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Malaspina",
+            "tip": "A small green oasis in the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Boutiquen und Markenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Boutique-ok és márkaboltok utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Boutique-uri și magazine de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Boutiques and brand-name stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge nach Certosa di Pavia fahren stündlich vom Hauptbahnhof.",
+          "Laden Sie die 'Autoguidovie' App für Busfahrpläne herunter."
+        ],
+        "hu": [
+          "A Certosa felé tartó vonatok óránként indulnak a főpályaudvarról.",
+          "Töltse le az 'Autoguidovie' alkalmazást a buszmenetrendekhez."
+        ],
+        "ro": [
+          "Trenurile spre Certosa di Pavia pleacă la fiecare oră din gara principală.",
+          "Descărcați aplicația 'Autoguidovie' pentru orarul autobuzelor."
+        ],
+        "en": [
+          "Trains to Certosa di Pavia depart hourly from the main station.",
+          "Download the 'Autoguidovie' app for local bus schedules."
+        ]
+      }
+    }
+  }
+}

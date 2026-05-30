@@ -3,278 +3,318 @@
   "anchor": {
     "name": "Pamplona",
     "coords": [
-      42.8125,
-      -1.6458
+      -1.6458,
+      42.8125
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:35",
-      "total_km": 3.8,
-      "stop_count": 8,
+      "end_estimate": "17:40",
+      "total_km": 3.9,
+      "stop_count": 7,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
             "de": "Plaza del Castillo",
-            "hu": "Plaza del Castillo",
+            "hu": "Vár tér (Plaza del Castillo)",
             "ro": "Plaza del Castillo",
             "en": "Plaza del Castillo"
           },
           "coords": [
-            42.816,
-            -1.6433
+            -1.6458,
+            42.8125
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 35,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Besuchen Sie das Café Iruña, Hemingways Lieblingsort.",
-            "hu": "Igyon egy kávét a Café Iruñában, Hemingway kedvenc helyén.",
-            "ro": "Savurați o cafea la Café Iruña, locul preferat al lui Hemingway.",
-            "en": "Have a coffee at Café Iruña, Hemingway's favorite haunt."
+            "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz, wie dem berühmten Café Iruña.",
+            "hu": "Kezdje a napot egy kávéval a tér egyik híres kávézójában, például a Café Iruñában.",
+            "ro": "Începeți ziua cu o cafea la una dintre faimoasele cafenele din piață, precum Café Iruña.",
+            "en": "Start your day with a coffee at one of the famous cafés in the square, like the Café Iruña."
           }
         },
         {
-          "name": {
-            "de": "Denkmal für das Stiertreiben",
-            "hu": "Bikafuttatás emlékműve",
-            "ro": "Monumentul Fugii Taurilor",
-            "en": "Running of the Bulls Monument"
-          },
-          "coords": [
-            42.8155,
-            -1.6415
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "10:00",
-          "stay_min": 20,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Perfekter Ort für ein dynamisches Urlaubsfoto.",
-            "hu": "Tökéletes helyszín egy dinamikus csoportképhez.",
-            "ro": "Locul perfect pentru o fotografie de grup dinamică.",
-            "en": "The perfect spot for a dynamic action photo."
-          }
-        },
-        {
-          "name": {
-            "de": "Kathedrale von Pamplona",
-            "hu": "Pamplonai katedrális",
-            "ro": "Catedrala din Pamplona",
-            "en": "Pamplona Cathedral"
-          },
-          "coords": [
-            42.819,
-            -1.642
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:35",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Der gotische Kreuzgang gilt als einer der schönsten Europas.",
-            "hu": "A gótikus kolostorkeringő Európa egyik legszebbje.",
-            "ro": "Cloastrul gotic este considerat unul dintre cele mai frumoase din Europa.",
-            "en": "The Gothic cloister is considered one of Europe's finest."
-          }
-        },
-        {
-          "name": {
-            "de": "Stadtmauern",
-            "hu": "Városfalak",
-            "ro": "Zidurile Cetății",
-            "en": "City Walls"
-          },
-          "coords": [
-            42.8198,
-            -1.6435
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "12:05",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Spazieren Sie zum Bastion Redín für die beste Aussicht.",
-            "hu": "Sétáljon el a Redín-bástyához a legjobb kilátásért.",
-            "ro": "Plimbați-vă până la Bastionul Redín pentru cea mai bună vedere.",
-            "en": "Walk to the Redín Bastion for the best panoramic views."
-          }
-        },
-        {
-          "name": {
-            "de": "Museum von Navarra",
-            "hu": "Navarrai Múzeum",
-            "ro": "Muzeul Navarei",
-            "en": "Museum of Navarra"
-          },
-          "coords": [
-            42.8205,
-            -1.6455
-          ],
-          "category": "museums",
-          "arrive_at": "13:05",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Verpassen Sie nicht das Goya-Porträt des Markgrafen von San Adrián.",
-            "hu": "Ne hagyja ki Goya San Adrián márkiról készült portréját.",
-            "ro": "Nu ratați portretul Marchizului de San Adrián pictat de Goya.",
-            "en": "Don't miss the Goya portrait of the Marquis of San Adrián."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Rathaus von Pamplona",
             "hu": "Pamplonai városháza",
             "ro": "Primăria din Pamplona",
             "en": "Pamplona Town Hall"
           },
           "coords": [
-            42.8184,
-            -1.6445
+            -1.644,
+            42.818
           ],
           "category": "monuments/statues",
-          "arrive_at": "14:50",
-          "stay_min": 25,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Hier startet am 6. Juli die berühmte Chupinazo-Rakete.",
-            "hu": "Innen lövik ki július 6-án a híres Chupinazo rakétát.",
-            "ro": "De aici se lansează celebra rachetă Chupinazo pe 6 iulie.",
-            "en": "This is where the famous Chupinazo rocket fires on July 6."
+            "de": "Bewundern Sie die barocke Fassade, von der aus das berühmte Chupinazo zur Eröffnung der Sanfermines-Feierlichkeiten gezündet wird.",
+            "hu": "Csodálja meg a barokk homlokzatot, ahonnan a Sanfermines fesztivált megnyitó híres Chupinazo rakétát kilövik.",
+            "ro": "Admirați fațada barocă de unde se lansează faimosul Chupinazo pentru a deschide festivalul Sanfermines.",
+            "en": "Admire the baroque facade, from where the famous Chupinazo rocket is launched to open the Sanfermines festival."
           }
         },
         {
-          "name": {
+          "name_4lang": {
+            "de": "Kathedrale von Pamplona",
+            "hu": "Pamplonai székesegyház",
+            "ro": "Catedrala din Pamplona",
+            "en": "Pamplona Cathedral"
+          },
+          "coords": [
+            -1.643,
+            42.82
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie unbedingt den gotischen Kreuzgang, der als einer der schönsten Europas gilt.",
+            "hu": "Feltétlenül látogassa meg a gótikus kerengőt, amelyet Európa egyik legszebbjének tartanak.",
+            "ro": "Asigurați-vă că vizitați claustrul gotic, considerat unul dintre cele mai frumoase din Europa.",
+            "en": "Be sure to visit the Gothic cloister, considered one of the most beautiful in Europe."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Stadtmauern",
+            "hu": "Városfalak",
+            "ro": "Zidurile orașului",
+            "en": "City Walls"
+          },
+          "coords": [
+            -1.642,
+            42.822
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang entlang der Mauern bietet fantastische Ausblicke auf die Stadt und die umliegende Landschaft.",
+            "hu": "Sétáljon végig a falakon, ahonnan fantasztikus kilátás nyílik a városra és a környező tájra.",
+            "ro": "O plimbare de-a lungul zidurilor oferă vederi fantastice ale orașului și ale peisajului înconjurător.",
+            "en": "A walk along the walls offers fantastic views of the city and the surrounding landscape."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Museum von Navarra",
+            "hu": "Navarrai Múzeum",
+            "ro": "Muzeul Navarrei",
+            "en": "Museum of Navarre"
+          },
+          "coords": [
+            -1.645,
+            42.821
+          ],
+          "category": "museums",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht Goyas Porträt des Marquis von San Adrián und das römische Mosaik des Triumphs des Bacchus.",
+            "hu": "Ne hagyja ki Goya San Adrián márkiját ábrázoló portréját és Bacchus diadalának római mozaikját.",
+            "ro": "Nu ratați portretul marchizului de San Adrián, realizat de Goya, și mozaicul roman al Triumfului lui Bacchus.",
+            "en": "Don't miss Goya's portrait of the Marquis of San Adrián and the Roman mosaic of the Triumph of Bacchus."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Taconera Park",
             "hu": "Taconera park",
             "ro": "Parcul Taconera",
             "en": "Taconera Park"
           },
           "coords": [
-            42.8185,
-            -1.648
+            -1.651,
+            42.819
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "15:35",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
           "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Beobachten Sie die Hirsche und Pfauen in den alten Gräben.",
-            "hu": "Nézze meg a szarvasokat és pávákat a várárokban.",
-            "ro": "Observați cerbii și păunii din vechile șanțuri de apărare.",
-            "en": "Watch the deer and peacocks living in the old moats."
+            "de": "Halten Sie Ausschau nach den Hirschen, Pfauen und Schwänen, die frei im Park umherlaufen.",
+            "hu": "Keresse a parkban szabadon sétáló szarvasokat, pávákat és hattyúkat.",
+            "ro": "Fiți atenți la căprioarele, păunii și lebedele care se plimbă libere prin parc.",
+            "en": "Look out for the deer, peacocks, and swans that roam freely in the park."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Ciudadela",
             "hu": "Citadella",
-            "ro": "Citadela",
-            "en": "Ciudadela"
+            "ro": "Cetățuia",
+            "en": "Citadel"
           },
           "coords": [
-            42.812,
-            -1.649
+            -1.655,
+            42.812
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "16:55",
-          "stay_min": 70,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.9,
+          "arrive_at": "16:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Ein herrlicher Ort für den Sonnenuntergang auf den Graswällen.",
-            "hu": "Pompás helyszín a naplementéhez a füves sáncokon.",
-            "ro": "Un loc superb pentru apusul soarelui pe meterezele verzi.",
-            "en": "A superb spot for sunset on the grassy ramparts."
+            "de": "Die riesige Parkanlage ist ideal für einen entspannten Spätnachmittagsspaziergang.",
+            "hu": "A hatalmas park ideális egy laza késő délutáni sétához.",
+            "ro": "Parcul vast este ideal pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "The vast park area is ideal for a relaxing late afternoon stroll."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Der Vormittag beginnt im Herzen der Stadt auf der Plaza del Castillo, wo die Atmosphäre vergangener Jahrhunderte spürbar ist. Nach einem Besuch der prächtigen Kathedrale spazieren wir entlang der massiven Stadtmauern. Mittags erkunden wir das Museum von Navarra, bevor wir das ikonische Rathaus besichtigen. Den Nachmittag verbringen wir entspannt im Taconera Park und beenden den Tag in der sternförmigen Ciudadela, dem grünen Juwel Pamplonas.",
-        "hu": "A délelőtt a város szívében, a Plaza del Castillón kezdődik, ahol a századelő hangulata fogad minket. A katedrális gótikus belső tere után a középkori városfalakon sétálunk tovább. Ebéd után a Navarrai Múzeum kincseit fedezzük fel, majd a városháza barokk homlokzatát csodáljuk meg. A délutánt a Taconera park ősfái között töltjük, a napot pedig a monumentális Citadella füves sáncain zárjuk.",
-        "ro": "Dimineața începe în inima orașului, în Plaza del Castillo, unde atmosfera secolului trecut este încă vie. După vizitarea catedralei impunătoare, ne plimbăm pe zidurile vechi ale cetății. La prânz explorăm artefactele de la Muzeul Navarei, apoi admirăm fațada primăriei. După-amiaza este dedicată relaxării în Parcul Taconera, încheind ziua între bastioanele în formă de stea ale Citadelei.",
-        "en": "The morning starts in the heart of the city at Plaza del Castillo, steeped in old-world charm. After visiting the grand Cathedral, we walk along the medieval city walls. Midday is spent exploring the Museum of Navarra followed by the iconic Town Hall. We spend a relaxed afternoon in Taconera Park and conclude the day at the massive star-shaped Ciudadela, Pamplona's green lung."
+        "de": "Ihr Tag in Pamplona beginnt am lebhaften Plaza del Castillo, dem Herzen der Stadt. Am Vormittag erkunden Sie das historische Zentrum mit seinem beeindruckenden Rathaus und der prächtigen gotischen Kathedrale. Später schlendern Sie entlang der alten Stadtmauern und genießen die Aussicht. Der Nachmittag ist der Kunst im Museum von Navarra und der Entspannung in den Gärten des Taconera Parks gewidmet. Zum Abschluss des Tages tauchen Sie in die Geschichte der mächtigen Zitadelle ein, einem Ort der Ruhe und Weite.",
+        "hu": "Pamplonai napja a város szívében, a nyüzsgő Plaza del Castillon kezdődik. Délelőtt felfedezi a történelmi központot a lenyűgöző városházával és a pompás gótikus katedrálissal. Később végigsétál az ősi városfalakon, gyönyörködve a kilátásban. A délután a művészeté a Navarrai Múzeumban és a pihenésé a Taconera park kertjeiben. A nap zárásaként elmerül a hatalmas Citadella történelmében, amely a béke és a tágasság helye.",
+        "ro": "Ziua dumneavoastră în Pamplona începe în vibranta Plaza del Castillo, inima orașului. Dimineața explorați centrul istoric cu primăria sa impresionantă și magnifica catedrală gotică. Mai târziu, vă plimbați de-a lungul zidurilor vechi ale orașului, bucurându-vă de priveliști. După-amiaza este dedicată artei la Muzeul Navarrei și relaxării în grădinile Parcului Taconera. Încheiați ziua scufundându-vă în istoria puternicei Cetățui, un loc de pace și spațiu.",
+        "en": "Your day in Pamplona begins in the vibrant Plaza del Castillo, the heart of the city. In the morning, you'll explore the historic center with its impressive Town Hall and magnificent Gothic Cathedral. Later, you'll stroll along the ancient city walls, enjoying the views. The afternoon is dedicated to art at the Museum of Navarre and relaxation in the gardens of Taconera Park. To end the day, immerse yourself in the history of the mighty Citadel, a place of peace and space."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bar Gaucho",
-            "tip": "Berühmt für innovative Pintxos wie Trüffel-Ei."
+            "name": "Pintxos",
+            "tip": "Probieren Sie die unzähligen Variationen in den Bars der Altstadt, besonders in der Calle Estafeta."
           },
           {
-            "name": "Café Iruña",
-            "tip": "Historisches Interieur, perfekt für einen Nachmittagskaffee."
+            "name": "Chistorra de Navarra",
+            "tip": "Eine lokale, dünne Chorizo-Wurst, oft gegrillt und in einem Brötchen serviert."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Ein herzhafter Lammeintopf mit Paprika, Tomaten und Zwiebeln."
           }
         ],
         "hu": [
           {
-            "name": "Bar Gaucho",
-            "tip": "Híres az innovatív pintxosokról, próbálja ki a szarvasgombás tojást."
+            "name": "Pintxos",
+            "tip": "Kóstolja meg a számtalan variációt az óváros bárjaiban, különösen a Calle Estafeta utcában."
           },
           {
-            "name": "Café Iruña",
-            "tip": "Történelmi belső tér, ideális egy délutáni kávéhoz."
+            "name": "Chistorra de Navarra",
+            "tip": "Helyi, vékony chorizo kolbász, gyakran grillezve és zsemlében tálalva."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "Kiadós báránypörkölt paprikával, paradicsommal és hagymával."
           }
         ],
         "ro": [
           {
-            "name": "Bar Gaucho",
-            "tip": "Faimos pentru pintxos inovatori, cum ar fi oul cu trufe."
+            "name": "Pintxos",
+            "tip": "Încercați nenumăratele variante în barurile din centrul vechi, în special pe Calle Estafeta."
           },
           {
-            "name": "Café Iruña",
-            "tip": "Interior istoric superb, ideal pentru o cafea după-amiaza."
+            "name": "Chistorra de Navarra",
+            "tip": "Un cârnat chorizo local, subțire, adesea la grătar și servit într-o chiflă."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "O tocană consistentă de miel cu ardei, roșii și ceapă."
           }
         ],
         "en": [
           {
-            "name": "Bar Gaucho",
-            "tip": "Famous for innovative pintxos like the truffle egg."
+            "name": "Pintxos",
+            "tip": "Try the countless variations in the bars of the Old Town, especially on Calle Estafeta."
           },
           {
-            "name": "Café Iruña",
-            "tip": "Historical interior, perfect for an afternoon coffee."
+            "name": "Chistorra de Navarra",
+            "tip": "A local, thin chorizo sausage, often grilled and served in a bun."
+          },
+          {
+            "name": "Cordero al Chilindrón",
+            "tip": "A hearty lamb stew with peppers, tomatoes, and onions."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Caballo Blanco",
-            "tip": "Ruhige Ecke auf den Mauern mit Blick auf den Fluss Arga.",
-            "emoji": "🌅"
+            "name": "Taconera Park",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie die Tiere.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreuzgang der Kathedrale",
+            "tip": "Ein Meisterwerk der Gotik und eine Oase der Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Baluarte de la Taconera",
+            "tip": "Ein ruhiger Abschnitt der Stadtmauern mit herrlichem Blick ins Grüne.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Caballo Blanco",
-            "tip": "Csendes szeglet a várfalon, kilátással az Arga folyóra.",
+            "name": "Taconera park",
+            "tip": "Keressen egy csendes padot, és figyelje az állatokat.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "A katedrális kerengője",
+            "tip": "A gótika mesterműve és a csend oázisa.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Baluarte de la Taconera",
+            "tip": "A városfal csendes szakasza, ahonnan gyönyörű kilátás nyílik a zöldre.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Caballo Blanco",
-            "tip": "Un colț liniștit pe ziduri cu vedere spre râul Arga.",
+            "name": "Parcul Taconera",
+            "tip": "Găsiți o bancă liniștită și priviți animalele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "O capodoperă gotică și o oază de liniște.",
             "emoji": "🧘"
+          },
+          {
+            "name": "Baluarte de la Taconera",
+            "tip": "O secțiune liniștită a zidurilor orașului cu o priveliște minunată spre verdeață.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Caballo Blanco",
-            "tip": "A quiet corner on the walls overlooking the Arga river.",
+            "name": "Taconera Park",
+            "tip": "Find a quiet bench and watch the animals.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A masterpiece of Gothic art and an oasis of tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Baluarte de la Taconera",
+            "tip": "A quiet section of the city walls with a lovely view of the greenery.",
             "emoji": "🍃"
           }
         ]
@@ -283,48 +323,64 @@
         "de": [
           {
             "name": "Mercado de Santo Domingo",
-            "tip": "Ältester Markt der Stadt für lokalen Käse und Wein."
+            "tip": "Ein traditioneller Markt, um lokale Produkte und Delikatessen zu entdecken."
+          },
+          {
+            "name": "Calle Estafeta",
+            "tip": "Bekannt für seine Pintxo-Bars, aber auch für Souvenirläden mit Bezug zum Stierlauf."
           }
         ],
         "hu": [
           {
             "name": "Mercado de Santo Domingo",
-            "tip": "A város legrégebbi piaca helyi sajtokkal és borokkal."
+            "tip": "Hagyományos piac, ahol helyi termékeket és finomságokat fedezhet fel."
+          },
+          {
+            "name": "Calle Estafeta",
+            "tip": "Híres a pintxo bárjairól, de a bikafuttatással kapcsolatos ajándékboltokról is."
           }
         ],
         "ro": [
           {
             "name": "Mercado de Santo Domingo",
-            "tip": "Cea mai veche piață din oraș pentru brânzeturi și vinuri locale."
+            "tip": "O piață tradițională pentru a descoperi produse și delicatese locale."
+          },
+          {
+            "name": "Calle Estafeta",
+            "tip": "Faimoasă pentru barurile sale de pintxos, dar și pentru magazinele de suveniruri legate de coridă."
           }
         ],
         "en": [
           {
             "name": "Mercado de Santo Domingo",
-            "tip": "The city's oldest market for local cheese and wine."
+            "tip": "A traditional market to discover local products and delicacies."
+          },
+          {
+            "name": "Calle Estafeta",
+            "tip": "Famous for its pintxo bars, but also for souvenir shops related to the bull run."
           }
         ]
       },
       "tips": {
         "de": [
-          "Pamplona ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe.",
-          "Die meisten Sehenswürdigkeiten liegen in der verkehrsberuhigten Altstadt.",
-          "Probieren Sie Pintxos in der Calle Estafeta."
+          "Tragen Sie bequeme Schuhe, da das Kopfsteinpflaster in der Altstadt uneben sein kann.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Planen Sie am späten Nachmittag eine Pintxo-Tour ein, wenn die Bars am lebhaftesten sind."
         ],
         "hu": [
-          "Pamplona rendkívül gyalogosbarát, viseljen kényelmes cipőt.",
-          "A legtöbb látnivaló az autómentes óvárosban található.",
-          "Kóstoljon pintxos-t az Estafeta utcában."
+          "Viseljen kényelmes cipőt, mivel az óváros macskakövei egyenetlenek lehetnek.",
+          "A belváros legtöbb látnivalója könnyen megközelíthető gyalog.",
+          "Tervezzen egy pintxo-túrát késő délutánra, amikor a bárok a legélénkebbek."
         ],
         "ro": [
-          "Pamplona este foarte prietenos cu pietonii, purtați pantofi comozi.",
-          "Majoritatea atracțiilor sunt în centrul istoric pietonal.",
-          "Încercați pintxos pe strada Estafeta."
+          "Purtați încălțăminte confortabilă, deoarece pavajul din centrul vechi poate fi denivelat.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Planificați un tur de pintxos după-amiaza târziu, când barurile sunt cele mai animate."
         ],
         "en": [
-          "Pamplona is very pedestrian-friendly; wear comfortable shoes.",
-          "Most sights are within the traffic-restricted Old Town.",
-          "Try pintxos on Estafeta Street."
+          "Wear comfortable shoes, as the cobblestones in the Old Town can be uneven.",
+          "Most sights in the city center are easily within walking distance.",
+          "Plan a pintxo tour for the late afternoon when the bars are at their liveliest."
         ]
       }
     },
@@ -332,230 +388,309 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:15",
-      "total_km": 7.5,
+      "end_estimate": "17:11",
+      "total_km": 8.5,
       "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Plaza del Castillo",
-            "hu": "Plaza del Castillo",
-            "ro": "Plaza del Castillo",
-            "en": "Plaza del Castillo"
+          "name_4lang": {
+            "de": "Ciudadela",
+            "hu": "Citadella",
+            "ro": "Cetățuia",
+            "en": "Citadel"
           },
           "coords": [
-            42.816,
-            -1.6433
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Starten Sie hier, aber schieben Sie das Rad in der Menge.",
-            "hu": "Itt induljon, de a tömegben tolja a kerékpárt.",
-            "ro": "Începeți aici, dar mergeți pe lângă bicicletă în mulțime.",
-            "en": "Start here, but walk your bike through the crowds."
-          }
-        },
-        {
-          "name": {
-            "de": "Kathedrale von Pamplona",
-            "hu": "Pamplonai katedrális",
-            "ro": "Catedrala din Pamplona",
-            "en": "Pamplona Cathedral"
-          },
-          "coords": [
-            42.819,
-            -1.642
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
-            "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
-            "ro": "Există rastele sigure pentru biciclete lângă intrare.",
-            "en": "Secure bike racks are located near the entrance."
-          }
-        },
-        {
-          "name": {
-            "de": "Stadtmauern",
-            "hu": "Városfalak",
-            "ro": "Zidurile Cetății",
-            "en": "City Walls"
-          },
-          "coords": [
-            42.8198,
-            -1.6435
+            -1.655,
+            42.812
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "10:50",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Radfahren auf den Mauern bietet tolle Perspektiven.",
-            "hu": "A falakon kerékpározva remek perspektívák nyílnak.",
-            "ro": "Mersul pe bicicletă pe ziduri oferă perspective deosebite.",
-            "en": "Cycling along the walls offers great perspectives."
+            "de": "Beginnen Sie den Tag mit einer Radtour um die beeindruckende Festungsanlage.",
+            "hu": "Kezdje a napot egy biciklitúrával a lenyűgöző erődítmény körül.",
+            "ro": "Începeți ziua cu o plimbare cu bicicleta în jurul impresionantei fortărețe.",
+            "en": "Start the day with a bike ride around the impressive fortress."
           }
         },
         {
-          "name": {
-            "de": "Museum von Navarra",
-            "hu": "Navarrai Múzeum",
-            "ro": "Muzeul Navarei",
-            "en": "Museum of Navarra"
-          },
-          "coords": [
-            42.8205,
-            -1.6455
-          ],
-          "category": "museums",
-          "arrive_at": "11:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Parken Sie vor dem Museum am Abhang zum Fluss.",
-            "hu": "Parkoljon a múzeum előtt a folyó felé néző lejtőn.",
-            "ro": "Parcați în fața muzeului, pe versantul dinspre râu.",
-            "en": "Park in front of the museum on the slope facing the river."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Taconera Park",
             "hu": "Taconera park",
             "ro": "Parcul Taconera",
             "en": "Taconera Park"
           },
           "coords": [
-            42.8185,
-            -1.648
+            -1.651,
+            42.819
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "13:05",
-          "stay_min": 50,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Die breiten Wege sind ideal für Radfahrer.",
-            "hu": "A széles utak ideálisak a kerékpárosok számára.",
-            "ro": "Aleile largi sunt ideale pentru bicicliști.",
-            "en": "The wide paths are ideal for cyclists."
-          }
-        },
-        {
-          "name": {
-            "de": "Ciudadela",
-            "hu": "Citadella",
-            "ro": "Citadela",
-            "en": "Ciudadela"
-          },
-          "coords": [
-            42.812,
-            -1.649
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "14:05",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
+          "arrive_at": "10:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
           "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Umrunden Sie die Festung auf dem äußeren Parkring.",
-            "hu": "Kerülje meg az erődöt a külső parkgyűrűn.",
-            "ro": "Ocoliți fortăreața pe inelul exterior al parcului.",
-            "en": "Circle the fortress on the outer park ring."
+            "de": "Fahren Sie durch die schönen Alleen und halten Sie am japanischen Garten an.",
+            "hu": "Kerékpározzon végig a gyönyörű sétányokon és álljon meg a japánkertnél.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile frumoase și opriți-vă la grădina japoneză.",
+            "en": "Cycle through the beautiful avenues and stop at the Japanese garden."
           }
         },
         {
-          "name": {
-            "de": "Denkmal für das Stiertreiben",
-            "hu": "Bikafuttatás emlékműve",
-            "ro": "Monumentul Fugii Taurilor",
-            "en": "Running of the Bulls Monument"
+          "name_4lang": {
+            "de": "Plaza del Castillo",
+            "hu": "Vár tér (Plaza del Castillo)",
+            "ro": "Plaza del Castillo",
+            "en": "Plaza del Castillo"
           },
           "coords": [
-            42.8155,
-            -1.6415
+            -1.6458,
+            42.8125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
+            "hu": "Parkolja le a kerékpárt, és élvezze a főtér hangulatát.",
+            "ro": "Parcați bicicleta și bucurați-vă de atmosfera din piața principală.",
+            "en": "Park your bike and soak in the atmosphere of the main square."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Denkmal für das Stiertreiben",
+            "hu": "A bikafuttatás emlékműve",
+            "ro": "Monumentul Coridei",
+            "en": "Monument to the Bull Run"
+          },
+          "coords": [
+            -1.641,
+            42.815
           ],
           "category": "monuments/statues",
-          "arrive_at": "15:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
+          "arrive_at": "11:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Ein kurzer Stopp zum Abschluss im modernen Teil.",
-            "hu": "Egy rövid záró megálló a modern városrészben.",
-            "ro": "O scurtă oprire finală în partea modernă.",
-            "en": "A short final stop in the modern district."
+            "de": "Ein beeindruckendes Denkmal, das die Dynamik und Spannung der Sanfermines einfängt.",
+            "hu": "Lenyűgöző emlékmű, amely megragadja a Sanfermines dinamikáját és feszültségét.",
+            "ro": "Un monument impresionant care surprinde dinamismul și tensiunea festivalului Sanfermines.",
+            "en": "An impressive monument that captures the dynamism and tension of the Sanfermines."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kathedrale von Pamplona",
+            "hu": "Pamplonai székesegyház",
+            "ro": "Catedrala din Pamplona",
+            "en": "Pamplona Cathedral"
+          },
+          "coords": [
+            -1.643,
+            42.82
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad an und nehmen Sie sich Zeit für das Innere und den Kreuzgang.",
+            "hu": "Zárja le a kerékpárt, és szánjon időt a belső tér és a kerengő megtekintésére.",
+            "ro": "Legați-vă bicicleta și acordați-vă timp pentru a explora interiorul și claustrul.",
+            "en": "Lock up your bike and take your time to explore the interior and the cloister."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Stadtmauern",
+            "hu": "Városfalak",
+            "ro": "Zidurile orașului",
+            "en": "City Walls"
+          },
+          "coords": [
+            -1.642,
+            42.822
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einige Abschnitte der Mauern haben Radwege. Genießen Sie die Fahrt mit Panoramablick.",
+            "hu": "A falak egyes szakaszain kerékpárutak is vannak. Élvezze a panorámás utat.",
+            "ro": "Unele secțiuni ale zidurilor au piste pentru biciclete. Bucurați-vă de plimbare cu vederi panoramice.",
+            "en": "Some sections of the walls have bike paths. Enjoy the ride with panoramic views."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Museum von Navarra",
+            "hu": "Navarrai Múzeum",
+            "ro": "Muzeul Navarrei",
+            "en": "Museum of Navarre"
+          },
+          "coords": [
+            -1.645,
+            42.821
+          ],
+          "category": "museums",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um nach einer Radtour in die reiche Geschichte und Kunst Navarras einzutauchen.",
+            "hu": "Tökéletes hely, hogy egy biciklitúra után elmerüljön Navarra gazdag történelmében és művészetében.",
+            "ro": "Un loc perfect pentru a vă cufunda în istoria și arta bogată a Navarrei după o plimbare cu bicicleta.",
+            "en": "A perfect place to delve into the rich history and art of Navarre after a bike ride."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Fahrrad erkunden wir Pamplona effizient und naturnah. Von der Plaza del Castillo geht es zur Kathedrale und dann auf die historischen Mauern, die fantastische Ausblicke bieten. Nach der Kultur im Museum von Navarra radeln wir durch den idyllischen Taconera Park zur massiven Ciudadela. Die Tour endet am beeindruckenden Stiertreiben-Denkmal, das den Geist der Stadt perfekt verkörpert.",
-        "hu": "Kerékpárral hatékonyan és természetközelien fedezzük fel Pamplonát. A Plaza del Castillótól a katedrálishoz tekerünk, majd a történelmi falakra, amelyek fantasztikus kilátást nyújtanak. A Navarrai Múzeumban tett kulturális kitérő után az idilli Taconera parkon át a monumentális Citadellához gurulunk. A túra a lenyűgöző Bikafuttatás emlékműnél ér véget, amely tökéletesen tükrözi a város szellemét.",
-        "ro": "Explorăm Pamplona eficient și aproape de natură cu bicicleta. De la Plaza del Castillo mergem spre catedrală și apoi pe zidurile istorice, care oferă vederi fantastice. După o oprire culturală la Muzeul Navarei, pedalăm prin parcul idilic Taconera până la masiva Citadelă. Turul se încheie la impresionantul Monument al Fugii Taurilor, care întruchipează perfect spiritul orașului.",
-        "en": "We explore Pamplona efficiently and close to nature by bike. From Plaza del Castillo, we pedal to the Cathedral and then onto the historical walls, which offer fantastic views. After a cultural stop at the Museum of Navarra, we ride through the idyllic Taconera Park to the massive Ciudadela. The tour ends at the impressive Running of the Bulls monument, perfectly capturing the city's spirit."
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour an der imposanten Zitadelle. Radeln Sie weiter zum Taconera Park, einer grünen Oase. Am späten Vormittag erreichen Sie das Herz der Stadt, die Plaza del Castillo, und besichtigen das nahegelegene Denkmal für das Stiertreiben. Gönnen Sie sich eine Pause an der Kathedrale, bevor Sie am Nachmittag entlang der historischen Stadtmauern radeln. Der Tag endet mit einem kulturellen Höhepunkt im Museum von Navarra.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát a lenyűgöző Citadellánál. Tekerjen tovább a Taconera parkba, egy zöld oázisba. Késő délelőtt elérkezik a város szívébe, a Plaza del Castillóra, és megtekinti a közeli bikafuttatás emlékművét. Tartson egy szünetet a katedrálisnál, mielőtt délután a történelmi városfalak mentén kerékpározna. A nap a Navarrai Múzeum kulturális csúcspontjával zárul.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul la impunătoarea Cetățuie. Continuați spre Parcul Taconera, o oază de verdeață. Spre sfârșitul dimineții, ajungeți în inima orașului, Plaza del Castillo, și vizitați Monumentul Coridei din apropiere. Luați o pauză la catedrală înainte de a pedala de-a lungul zidurilor istorice ale orașului după-amiaza. Ziua se încheie cu un punct culminant cultural la Muzeul Navarrei.",
+        "en": "Get on your bike and start your tour at the imposing Citadel. Continue to Taconera Park, a green oasis. In the late morning, you'll reach the heart of the city, Plaza del Castillo, and visit the nearby Monument to the Bull Run. Take a break at the cathedral before cycling along the historic city walls in the afternoon. The day ends with a cultural highlight at the Museum of Navarre."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Mercado de Santo Domingo",
-            "tip": "Holen Sie sich frisches Obst für die Tour."
+            "name": "Bocadillo de Chistorra",
+            "tip": "Ein perfekter, schneller Snack für Radfahrer."
+          },
+          {
+            "name": "Idiazabal-Käse",
+            "tip": "Ein geräucherter Schafskäse aus der Region, köstlich mit Quittengelee."
+          },
+          {
+            "name": "Patxaran",
+            "tip": "Ein lokaler Schlehenlikör, der oft als Digestif getrunken wird."
           }
         ],
         "hu": [
           {
-            "name": "Mercado de Santo Domingo",
-            "tip": "Vegyünk friss gyümölcsöt az útra."
+            "name": "Bocadillo de Chistorra",
+            "tip": "Tökéletes, gyors harapnivaló a kerékpárosoknak."
+          },
+          {
+            "name": "Idiazabal sajt",
+            "tip": "Helyi, füstölt juhsajt, finom birsalma lekvárral."
+          },
+          {
+            "name": "Patxaran",
+            "tip": "Helyi kökénylikőr, amelyet gyakran emésztést segítő italként fogyasztanak."
           }
         ],
         "ro": [
           {
-            "name": "Mercado de Santo Domingo",
-            "tip": "Luați fructe proaspete pentru drum."
+            "name": "Bocadillo de Chistorra",
+            "tip": "O gustare perfectă și rapidă pentru bicicliști."
+          },
+          {
+            "name": "Brânză Idiazabal",
+            "tip": "O brânză de oaie afumată din regiune, delicioasă cu jeleu de gutui."
+          },
+          {
+            "name": "Patxaran",
+            "tip": "Un lichior local de porumbar, adesea băut ca digestiv."
           }
         ],
         "en": [
           {
-            "name": "Mercado de Santo Domingo",
-            "tip": "Pick up fresh fruit for the ride."
+            "name": "Bocadillo de Chistorra",
+            "tip": "A perfect, quick snack for cyclists."
+          },
+          {
+            "name": "Idiazabal Cheese",
+            "tip": "A smoked sheep's cheese from the region, delicious with quince jelly."
+          },
+          {
+            "name": "Patxaran",
+            "tip": "A local sloe liqueur, often drunk as a digestif."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Arga-Flusspark",
-            "tip": "Ruhiger Radweg entlang des Flusses unterhalb der Stadt.",
+            "name": "Flussufer des Arga",
+            "tip": "Ein Radweg führt entlang des Flusses und bietet eine ruhige Flucht aus der Stadt.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Gärten der Zitadelle",
+            "tip": "Weitläufige Grünflächen innerhalb der Festungsmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador del Caballo Blanco",
+            "tip": "Ein Aussichtspunkt an den Stadtmauern mit spektakulärem Blick.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Arga folyóparti park",
-            "tip": "Csendes kerékpárút a folyó mentén a város alatt.",
-            "emoji": "🧘"
+            "name": "Arga folyó partja",
+            "tip": "Kerékpárút vezet a folyó mentén, csendes kikapcsolódást nyújtva a városból.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Citadella kertjei",
+            "tip": "Tágas zöldterületek az erőd falain belül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador del Caballo Blanco",
+            "tip": "Kilátó a városfalon, ahonnan lenyűgöző a kilátás.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul de pe malul râului Arga",
-            "tip": "Pistă de biciclete liniștită de-a lungul râului, sub oraș.",
+            "name": "Malurile râului Arga",
+            "tip": "O pistă de biciclete de-a lungul râului oferă o evadare liniștită din oraș.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile Cetățuii",
+            "tip": "Spații verzi extinse în interiorul zidurilor fortăreței.",
             "emoji": "🍃"
+          },
+          {
+            "name": "Mirador del Caballo Blanco",
+            "tip": "Un punct de belvedere pe zidurile orașului cu vederi spectaculoase.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Arga River Park",
-            "tip": "Quiet cycle path along the river below the city.",
+            "name": "Arga Riverbank",
+            "tip": "A bike path runs along the river, offering a quiet escape from the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gardens of the Citadel",
+            "tip": "Expansive green spaces within the fortress walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mirador del Caballo Blanco",
+            "tip": "A viewpoint on the city walls with spectacular views.",
             "emoji": "🌅"
           }
         ]
@@ -563,49 +698,65 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Tienda de Guarnicionería",
-            "tip": "Traditionelle Lederwaren in der Altstadt."
+            "name": "Lokale Radläden",
+            "tip": "Pamplona ist eine fahrradfreundliche Stadt mit vielen Geschäften für Zubehör."
+          },
+          {
+            "name": "Bota-Tasche",
+            "tip": "Ein traditioneller spanischer Weinbeutel aus Leder, ein einzigartiges Souvenir."
           }
         ],
         "hu": [
           {
-            "name": "Tienda de Guarnicionería",
-            "tip": "Hagyományos bőráruk az óvárosban."
+            "name": "Helyi kerékpárboltok",
+            "tip": "Pamplona egy kerékpárbarát város, ahol számos bolt kínál kiegészítőket."
+          },
+          {
+            "name": "Bota táska",
+            "tip": "Hagyományos spanyol, bőrből készült bortáska, egyedi szuvenír."
           }
         ],
         "ro": [
           {
-            "name": "Tienda de Guarnicionería",
-            "tip": "Produse tradiționale din piele în centrul vechi."
+            "name": "Magazine locale de biciclete",
+            "tip": "Pamplona este un oraș prietenos cu bicicletele, cu multe magazine pentru accesorii."
+          },
+          {
+            "name": "Geantă Bota",
+            "tip": "O geantă tradițională spaniolă de vin din piele, un suvenir unic."
           }
         ],
         "en": [
           {
-            "name": "Tienda de Guarnicionería",
-            "tip": "Traditional leather goods in the Old Town."
+            "name": "Local bike shops",
+            "tip": "Pamplona is a bike-friendly city with many shops for accessories."
+          },
+          {
+            "name": "Bota bag",
+            "tip": "A traditional Spanish leather wine bag, a unique souvenir."
           }
         ]
       },
       "tips": {
         "de": [
-          "Nutzen Sie das städtische E-Bike-System 'Pamplona e-bike'.",
-          "In der Altstadt ist das Radfahren in einigen Fußgängerzonen eingeschränkt.",
-          "Der Parkring um die Stadt ist ideal zum Radfahren."
+          "Pamplona ist hügelig, stellen Sie sich auf einige Steigungen ein.",
+          "Nutzen Sie die vielen Radwege, besonders entlang des Flusses Arga.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, besonders im Stadtzentrum."
         ],
         "hu": [
-          "Használja a városi 'Pamplona e-bike' elektromos kerékpárrendszert.",
-          "Az óváros egyes sétálóövezeteiben korlátozott a kerékpározás.",
-          "A várost körülvevő parkgyűrű kiválóan alkalmas biciklizésre."
+          "Pamplona dombos, készüljön fel néhány emelkedőre.",
+          "Használja a számos kerékpárutat, különösen az Arga folyó mentén.",
+          "Mindig gondosan zárja le a kerékpárt, különösen a belvárosban."
         ],
         "ro": [
-          "Utilizați sistemul municipal de biciclete electrice 'Pamplona e-bike'.",
-          "În centrul vechi, mersul pe bicicletă este restricționat în unele zone pietonale.",
-          "Centura de parcuri din jurul orașului este ideală pentru ciclism."
+          "Pamplona este deluroasă, fiți pregătiți pentru câteva urcări.",
+          "Folosiți numeroasele piste de biciclete, în special de-a lungul râului Arga.",
+          "Încuiați-vă întotdeauna bine bicicleta, mai ales în centrul orașului."
         ],
         "en": [
-          "Use the 'Pamplona e-bike' municipal electric bike system.",
-          "Cycling is restricted in some pedestrian areas of the Old Town.",
-          "The park ring around the city is excellent for cycling."
+          "Pamplona is hilly, be prepared for some climbs.",
+          "Make use of the many bike paths, especially along the Arga River.",
+          "Always lock your bike securely, especially in the city center."
         ]
       }
     },
@@ -613,280 +764,351 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 18.5,
-      "stop_count": 7,
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Plaza del Castillo (Cluster A)",
-            "hu": "Plaza del Castillo (A klaszter)",
-            "ro": "Plaza del Castillo (Cluster A)",
-            "en": "Plaza del Castillo (Cluster A)"
+          "name_4lang": {
+            "de": "Ciudadela",
+            "hu": "Citadella",
+            "ro": "Cetățuia",
+            "en": "Citadel"
           },
           "coords": [
-            42.816,
-            -1.6433
+            -1.655,
+            42.812
           ],
-          "category": "squares/old-town",
+          "category": "castles/fortresses/towers",
           "arrive_at": "09:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Parken Sie in der Tiefgarage unter dem Platz.",
-            "hu": "Parkoljon a tér alatti mélygarázsban.",
-            "ro": "Parcați în parcarea subterană de sub piață.",
-            "en": "Park in the underground garage below the square."
+            "de": "Parken Sie in der Nähe der Zitadelle (Cluster A) und erkunden Sie die Festung zu Fuß.",
+            "hu": "Parkoljon a Citadella (A klaszter) közelében, és fedezze fel gyalog az erődöt.",
+            "ro": "Parcați lângă Cetățuie (Cluster A) și explorați fortăreața pe jos.",
+            "en": "Park near the Citadel (Cluster A) and explore the fortress on foot."
           }
         },
         {
-          "name": {
-            "de": "Kathedrale von Pamplona (Cluster A)",
-            "hu": "Pamplonai katedrális (A klaszter)",
-            "ro": "Catedrala din Pamplona (Cluster A)",
-            "en": "Pamplona Cathedral (Cluster A)"
+          "name_4lang": {
+            "de": "Taconera Park",
+            "hu": "Taconera park",
+            "ro": "Parcul Taconera",
+            "en": "Taconera Park"
           },
           "coords": [
-            42.819,
-            -1.642
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:55",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Kurzer Fußweg vom Parkplatz Plaza del Castillo.",
-            "hu": "Rövid séta a Plaza del Castillo parkolótól.",
-            "ro": "Scurtă plimbare de la parcarea Plaza del Castillo.",
-            "en": "Short walk from the Plaza del Castillo parking."
-          }
-        },
-        {
-          "name": {
-            "de": "Taconera Park (Cluster B)",
-            "hu": "Taconera park (B klaszter)",
-            "ro": "Parcul Taconera (Cluster B)",
-            "en": "Taconera Park (Cluster B)"
-          },
-          "coords": [
-            42.8185,
-            -1.648
+            -1.651,
+            42.819
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "11:25",
+          "arrive_at": "10:40",
           "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Parken Sie in der Nähe der Calle Taconera.",
-            "hu": "Parkoljon a Calle Taconera közelében.",
-            "ro": "Parcați în apropierea străzii Taconera.",
-            "en": "Park near Calle Taconera."
-          }
-        },
-        {
-          "name": {
-            "de": "Ciudadela (Cluster B)",
-            "hu": "Citadella (B klaszter)",
-            "ro": "Citadela (Cluster B)",
-            "en": "Ciudadela (Cluster B)"
-          },
-          "coords": [
-            42.812,
-            -1.649
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "12:35",
-          "stay_min": 80,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Zu Fuß vom Taconera Park erreichbar.",
-            "hu": "Gyalogosan elérhető a Taconera parktól.",
-            "ro": "Accesibil pe jos din Parcul Taconera.",
-            "en": "Accessible on foot from Taconera Park."
+            "de": "Ein kurzer Spaziergang von der Zitadelle bringt Sie in diesen charmanten Park.",
+            "hu": "Egy rövid séta a Citadellától, és máris ebben a bájos parkban találja magát.",
+            "ro": "O scurtă plimbare de la Cetățuie vă duce la acest parc fermecător.",
+            "en": "A short walk from the Citadel takes you to this charming park."
           }
         },
         {
-          "name": {
-            "de": "Aquädukt von Noáin",
-            "hu": "Noáini akveduktusz",
-            "ro": "Apeductul din Noáin",
-            "en": "Noáin Aqueduct"
+          "name_4lang": {
+            "de": "Plaza del Castillo",
+            "hu": "Vár tér (Plaza del Castillo)",
+            "ro": "Plaza del Castillo",
+            "en": "Plaza del Castillo"
           },
           "coords": [
-            42.7565,
-            -1.6325
+            -1.6458,
+            42.8125
           ],
-          "category": "monuments/statues",
-          "arrive_at": "14:15",
+          "category": "squares/old-town",
+          "arrive_at": "11:53",
           "stay_min": 30,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 8.5,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Beeindruckendes Bauwerk aus dem 18. Jahrhundert vor den Toren der Stadt.",
-            "hu": "Lenyűgöző 18. századi építmény a város határában.",
-            "ro": "Construcție impresionantă din secolul al XVIII-lea la porțile orașului.",
-            "en": "Impressive 18th-century structure just outside the city."
+            "de": "Fahren Sie zum Parkhaus unter dem Platz (Cluster B), um das historische Zentrum zu erkunden.",
+            "hu": "Hajtson a tér alatti parkolóházba (B klaszter), hogy felfedezze a történelmi központot.",
+            "ro": "Conduceți la parcarea subterană de sub piață (Cluster B) pentru a explora centrul istoric.",
+            "en": "Drive to the underground car park beneath the square (Cluster B) to explore the historic center."
           }
         },
         {
-          "name": {
-            "de": "Aussichtspunkt Berg Ezcaba",
-            "hu": "Ezcaba-hegyi kilátó",
-            "ro": "Belvedere Muntele Ezcaba",
-            "en": "Mount Ezcaba Viewpoint"
+          "name_4lang": {
+            "de": "Kathedrale von Pamplona",
+            "hu": "Pamplonai székesegyház",
+            "ro": "Catedrala din Pamplona",
+            "en": "Pamplona Cathedral"
           },
           "coords": [
-            42.8525,
-            -1.6315
+            -1.643,
+            42.82
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "15:05",
-          "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 11.5,
+          "category": "churches/cathedrals",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Bester Panoramablick über das gesamte Becken von Pamplona.",
-            "hu": "A legjobb panoráma az egész Pamplonai-medencére.",
-            "ro": "Cea mai bună vedere panoramică asupra întregului bazin Pamplona.",
-            "en": "Best panoramic view over the entire Pamplona basin."
+            "de": "Vom Plaza del Castillo aus ist die Kathedrale nur einen kurzen, angenehmen Spaziergang entfernt.",
+            "hu": "A Plaza del Castillótól a katedrális csak egy rövid, kellemes sétára van.",
+            "ro": "De la Plaza del Castillo, catedrala este la o scurtă și plăcută plimbare.",
+            "en": "From Plaza del Castillo, the cathedral is just a short, pleasant walk away."
           }
         },
         {
-          "name": {
-            "de": "Denkmal für das Stiertreiben",
-            "hu": "Bikafuttatás emlékműve",
-            "ro": "Monumentul Fugii Taurilor",
-            "en": "Running of the Bulls Monument"
+          "name_4lang": {
+            "de": "Museum von Navarra",
+            "hu": "Navarrai Múzeum",
+            "ro": "Muzeul Navarrei",
+            "en": "Museum of Navarre"
           },
           "coords": [
-            42.8155,
-            -1.6415
+            -1.645,
+            42.821
+          ],
+          "category": "museums",
+          "arrive_at": "13:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt günstig in der Nähe der Kathedrale.",
+            "hu": "A múzeum kényelmesen, a katedrális közelében található.",
+            "ro": "Muzeul este convenabil situat lângă catedrală.",
+            "en": "The museum is conveniently located near the cathedral."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Denkmal für das Stiertreiben",
+            "hu": "A bikafuttatás emlékműve",
+            "ro": "Monumentul Coridei",
+            "en": "Monument to the Bull Run"
+          },
+          "coords": [
+            -1.641,
+            42.815
           ],
           "category": "monuments/statues",
-          "arrive_at": "16:05",
-          "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 6.5,
+          "arrive_at": "15:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Parken Sie im Parkhaus Baluarte in der Nähe.",
-            "hu": "Parkoljon a közeli Baluarte parkolóházban.",
-            "ro": "Parcați în parcarea Baluarte din apropiere.",
-            "en": "Park in the nearby Baluarte parking garage."
+            "de": "Schließen Sie den Rundgang durch die Altstadt mit diesem dynamischen Denkmal ab, bevor Sie zum Auto zurückkehren.",
+            "hu": "Zárja az óvárosi sétát ezzel a dinamikus emlékművel, mielőtt visszatérne az autóhoz.",
+            "ro": "Încheiați turul centrului vechi cu acest monument dinamic înainte de a vă întoarce la mașină.",
+            "en": "Conclude the Old Town tour with this dynamic monument before returning to the car."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto kombinieren wir das historische Zentrum mit spektakulären Ausblicken in der Umgebung. Zuerst erkunden wir zu Fuß den Kern um die Plaza del Castillo und die Kathedrale. Danach besuchen wir die Parks Taconera und Ciudadela. Den Nachmittag krönen wir mit einer kurzen Fahrt zum monumentalen Aquädukt von Noáin und dem Berg Ezcaba, von dem aus man die ganze Region überblickt, bevor wir zum Stiertreiben-Denkmal zurückkehren.",
-        "hu": "Autóval kombináljuk a történelmi központot a környék látványos kilátópontjaival. Először gyalogosan fedezzük fel a Plaza del Castillo és a katedrális környékét. Ezután a Taconera parkot és a Citadellát látogatjuk meg. A délutánt egy rövid autóúttal koronázzuk meg a monumentális noáini akveduktuszhoz és az Ezcaba-hegyre, ahonnan az egész régió belátható, majd visszatérünk a Bikafuttatás emlékműhöz.",
-        "ro": "Cu mașina combinăm centrul istoric cu puncte de belvedere spectaculoase din împrejurimi. Mai întâi explorăm pe jos nucleul din jurul Plaza del Castillo și catedralei. Apoi vizităm parcurile Taconera și Citadela. Încununăm după-amiaza cu o scurtă călătorie până la apeductul monumental din Noáin și muntele Ezcaba, de unde se poate vedea întreaga regiune, înainte de a ne întoarce la Monumentul Fugii Taurilor.",
-        "en": "By car, we combine the historical center with spectacular viewpoints in the surroundings. First, we explore the core around Plaza del Castillo and the Cathedral on foot. Then, we visit Taconera Park and the Ciudadela. We top off the afternoon with a short drive to the monumental Noáin Aqueduct and Mount Ezcaba, offering views over the entire region, before returning to the Running of the Bulls monument."
+        "de": "Beginnen Sie Ihren Tag mit dem Auto bei der Zitadelle (Cluster A). Nach der Erkundung der Festung und des Taconera Parks fahren Sie ins Zentrum (Cluster B). Parken Sie unter der Plaza del Castillo und widmen Sie den Rest des Tages dem Herzen von Pamplona. Ein Spaziergang führt Sie zur Kathedrale, zum Museum und schließlich zum Denkmal des Stiertreibens, alles bequem zu Fuß erreichbar, bevor Sie die Heimreise antreten.",
+        "hu": "Kezdje a napot autóval a Citadellánál (A klaszter). Miután felfedezte az erődöt és a Taconera parkot, hajtson be a központba (B klaszter). Parkoljon a Plaza del Castillo alatt, és szentelje a nap hátralévő részét Pamplona szívének. Egy séta elvezeti a katedrálishoz, a múzeumhoz és végül a bikafuttatás emlékművéhez, mindezt kényelmesen, gyalogosan, mielőtt hazaindulna.",
+        "ro": "Începeți ziua cu mașina la Cetățuie (Cluster A). După ce explorați fortăreața și Parcul Taconera, conduceți spre centru (Cluster B). Parcați sub Plaza del Castillo și dedicați restul zilei inimii Pamplonei. O plimbare vă va duce la catedrală, muzeu și, în final, la Monumentul Coridei, toate la distanță de mers pe jos, înainte de a vă întoarce acasă.",
+        "en": "Start your day by car at the Citadel (Cluster A). After exploring the fortress and Taconera Park, drive to the center (Cluster B). Park under Plaza del Castillo and dedicate the rest of the day to the heart of Pamplona. A walk will take you to the cathedral, the museum, and finally the Monument to the Bull Run, all within easy walking distance before you head home."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "Restaurante Europa",
-            "tip": "Gehobene Küche mit Michelin-Stern nahe der Altstadt."
+            "tip": "Ein mit einem Michelin-Stern ausgezeichnetes Restaurant in der Nähe der Plaza del Castillo für ein besonderes Mittagessen."
+          },
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Gefüllte rote Paprika, eine Spezialität, die man in vielen Restaurants findet."
+          },
+          {
+            "name": "Vino de Navarra",
+            "tip": "Probieren Sie einen lokalen Rosé- oder Rotwein."
           }
         ],
         "hu": [
           {
             "name": "Restaurante Europa",
-            "tip": "Michelin-csillagos konyha az óváros közelében."
+            "tip": "Michelin-csillagos étterem a Plaza del Castillo közelében egy különleges ebédhez."
+          },
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Töltött pirospaprika, egy specialitás, amelyet sok étteremben megtalálhat."
+          },
+          {
+            "name": "Vino de Navarra",
+            "tip": "Kóstoljon meg egy helyi rozé vagy vörösbort."
           }
         ],
         "ro": [
           {
             "name": "Restaurante Europa",
-            "tip": "Bucătărie rafinată cu stea Michelin lângă centrul vechi."
+            "tip": "Un restaurant cu stele Michelin lângă Plaza del Castillo pentru un prânz special."
+          },
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Ardei roșii umpluți, o specialitate găsită în multe restaurante."
+          },
+          {
+            "name": "Vino de Navarra",
+            "tip": "Încercați un vin local rosé sau roșu."
           }
         ],
         "en": [
           {
             "name": "Restaurante Europa",
-            "tip": "Fine dining with a Michelin star near the Old Town."
+            "tip": "A Michelin-starred restaurant near Plaza del Castillo for a special lunch."
+          },
+          {
+            "name": "Pimientos del Piquillo",
+            "tip": "Stuffed red peppers, a specialty found in many restaurants."
+          },
+          {
+            "name": "Vino de Navarra",
+            "tip": "Try a local rosé or red wine."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Ezcaba-Gipfel",
-            "tip": "Ruhe und Weitblick hoch über dem Trubel der Stadt.",
-            "emoji": "🏞️"
+            "name": "Monte San Cristóbal",
+            "tip": "Eine kurze Autofahrt von der Stadt entfernt für einen atemberaubenden Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Die Gärten der Zitadelle",
+            "tip": "Ein riesiger, friedlicher Raum, um dem Trubel zu entkommen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardín de la Galaxia",
+            "tip": "Ein moderner, kontemplativer Garten in der Nähe des Planetariums.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Ezcaba-csúcs",
-            "tip": "Csend és tágas kilátás magasan a város felett.",
+            "name": "Monte San Cristóbal",
+            "tip": "Rövid autóútra a várostól, ahonnan lélegzetelállító panoráma nyílik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Citadella kertjei",
+            "tip": "Hatalmas, békés tér a nyüzsgés elől való meneküléshez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardín de la Galaxia",
+            "tip": "Modern, elmélkedő kert a planetárium közelében.",
             "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Vârful Ezcaba",
-            "tip": "Liniște și perspectivă largă deasupra agitației orașului.",
+            "name": "Monte San Cristóbal",
+            "tip": "La o scurtă distanță cu mașina de oraș pentru vederi panoramice uluitoare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Cetățuii",
+            "tip": "Un spațiu vast și pașnic pentru a scăpa de agitație.",
             "emoji": "🍃"
+          },
+          {
+            "name": "Jardín de la Galaxia",
+            "tip": "O grădină modernă, contemplativă, lângă planetariu.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Ezcaba Summit",
-            "tip": "Peace and wide views high above the city bustle.",
+            "name": "Monte San Cristóbal",
+            "tip": "A short drive from the city for breathtaking panoramic views.",
             "emoji": "🌅"
+          },
+          {
+            "name": "The Gardens of the Citadel",
+            "tip": "A vast, peaceful space to escape the hustle and bustle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardín de la Galaxia",
+            "tip": "A modern, contemplative garden near the planetarium.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Centro Comercial Itaroa",
-            "tip": "Großes Einkaufszentrum am Stadtrand mit viel Parkplatz."
+            "name": "La Morea Einkaufszentrum",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand für eine breite Auswahl an Geschäften."
+          },
+          {
+            "name": "Pañuelo Rojo",
+            "tip": "Das rote Halstuch der Sanfermines ist das klassische Souvenir."
           }
         ],
         "hu": [
           {
-            "name": "Centro Comercial Itaroa",
-            "tip": "Nagy bevásárlóközpont a város szélén, bőséges parkolóval."
+            "name": "La Morea bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a város szélén, széles üzletválasztékkal."
+          },
+          {
+            "name": "Pañuelo Rojo",
+            "tip": "A Sanfermines piros kendője a klasszikus szuvenír."
           }
         ],
         "ro": [
           {
-            "name": "Centro Comercial Itaroa",
-            "tip": "Centru comercial mare la marginea orașului, cu parcare vastă."
+            "name": "Centrul Comercial La Morea",
+            "tip": "Un centru comercial mare la periferia orașului pentru o selecție largă de magazine."
+          },
+          {
+            "name": "Pañuelo Rojo",
+            "tip": "Eșarfa roșie a festivalului Sanfermines este suvenirul clasic."
           }
         ],
         "en": [
           {
-            "name": "Centro Comercial Itaroa",
-            "tip": "Large shopping center on the outskirts with ample parking."
+            "name": "La Morea Shopping Center",
+            "tip": "A large shopping center on the outskirts of the city for a wide selection of stores."
+          },
+          {
+            "name": "Pañuelo Rojo",
+            "tip": "The red scarf of the Sanfermines festival is the classic souvenir."
           }
         ]
       },
       "tips": {
         "de": [
-          "Vermeiden Sie die Einfahrt in die 'ZAS'-Zonen der Altstadt.",
-          "Nutzen Sie die Tiefgaragen (Plaza del Castillo, Baluarte, Plaza de Toros).",
-          "Die Fahrt zum Berg Ezcaba dauert etwa 15-20 Minuten."
+          "Parken im Stadtzentrum ist schwierig und teuer. Nutzen Sie die Tiefgaragen.",
+          "Die Altstadt ist größtenteils Fußgängerzone; das Auto ist hier nutzlos.",
+          "Achten Sie auf die Umweltzonen (ZBE - Zona de Bajas Emisiones)."
         ],
         "hu": [
-          "Kerülje az óvárosi 'ZAS' (korlátozott behajtási) zónákat.",
-          "Használja a mélygarázsokat (Plaza del Castillo, Baluarte, Plaza de Toros).",
-          "Az Ezcaba-hegyre vezető út kb. 15-20 percet vesz igénybe."
+          "A belvárosban nehéz és drága a parkolás. Használja a mélygarázsokat.",
+          "Az óváros nagyrészt sétálóövezet; az autó itt haszontalan.",
+          "Ügyeljen a környezetvédelmi zónákra (ZBE - Zona de Bajas Emisiones)."
         ],
         "ro": [
-          "Evitați intrarea în zonele 'ZAS' (acces restricționat) din centrul vechi.",
-          "Utilizați parcările subterane (Plaza del Castillo, Baluarte, Plaza de Toros).",
-          "Drumul până la muntele Ezcaba durează aproximativ 15-20 de minute."
+          "Parcarea în centrul orașului este dificilă și scumpă. Folosiți parcările subterane.",
+          "Centrul vechi este în mare parte pietonal; mașina este inutilă aici.",
+          "Fiți atenți la zonele cu emisii scăzute (ZBE - Zona de Bajas Emisiones)."
         ],
         "en": [
-          "Avoid entering the 'ZAS' (restricted access) zones in the Old Town.",
-          "Use underground parking (Plaza del Castillo, Baluarte, Plaza de Toros).",
-          "The drive to Mount Ezcaba takes about 15-20 minutes."
+          "Parking in the city center is difficult and expensive. Use the underground car parks.",
+          "The Old Town is mostly a pedestrian zone; the car is useless here.",
+          "Be aware of the low-emission zones (ZBE - Zona de Bajas Emisiones)."
         ]
       }
     },
@@ -894,230 +1116,285 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 6.2,
-      "stop_count": 7,
+      "end_estimate": "16:51",
+      "total_km": 5.2,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
             "de": "Plaza del Castillo",
-            "hu": "Plaza del Castillo",
+            "hu": "Vár tér (Plaza del Castillo)",
             "ro": "Plaza del Castillo",
             "en": "Plaza del Castillo"
           },
           "coords": [
-            42.816,
-            -1.6433
+            -1.6458,
+            42.8125
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:15",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.0,
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Knotenpunkt für viele Buslinien der 'Villavesa'.",
-            "hu": "Számos 'Villavesa' buszjárat csomópontja.",
-            "ro": "Nod central pentru multe linii de autobuz 'Villavesa'.",
-            "en": "Hub for many 'Villavesa' bus lines."
+            "de": "Nehmen Sie einen Bus zum Paseo de Sarasate oder zur Avenida de San Ignacio (Cluster A).",
+            "hu": "Menjen busszal a Paseo de Sarasate vagy az Avenida de San Ignacio megállóig (A klaszter).",
+            "ro": "Luați un autobuz până la Paseo de Sarasate sau Avenida de San Ignacio (Cluster A).",
+            "en": "Take a bus to Paseo de Sarasate or Avenida de San Ignacio (Cluster A)."
           }
         },
         {
-          "name": {
-            "de": "Kathedrale von Pamplona",
-            "hu": "Pamplonai katedrális",
-            "ro": "Catedrala din Pamplona",
-            "en": "Pamplona Cathedral"
+          "name_4lang": {
+            "de": "Denkmal für das Stiertreiben",
+            "hu": "A bikafuttatás emlékműve",
+            "ro": "Monumentul Coridei",
+            "en": "Monument to the Bull Run"
           },
           "coords": [
-            42.819,
-            -1.642
+            -1.641,
+            42.815
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:00",
-          "stay_min": 70,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5,
+          "category": "monuments/statues",
+          "arrive_at": "09:43",
+          "stay_min": 20,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Zu Fuß erreichbar von der Plaza del Castillo.",
-            "hu": "Gyalogosan elérhető a Plaza del Castillótól.",
-            "ro": "Accesibil pe jos din Plaza del Castillo.",
-            "en": "Accessible on foot from Plaza del Castillo."
+            "de": "Ein kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "La o scurtă plimbare de piața principală.",
+            "en": "A short walk from the main square."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Rathaus von Pamplona",
             "hu": "Pamplonai városháza",
             "ro": "Primăria din Pamplona",
             "en": "Pamplona Town Hall"
           },
           "coords": [
-            42.8184,
-            -1.6445
+            -1.644,
+            42.818
           ],
           "category": "monuments/statues",
-          "arrive_at": "11:15",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Zentraler Punkt in der verkehrsberuhigten Zone.",
-            "hu": "Központi pont a gyalogosövezetben.",
-            "ro": "Punct central în zona pietonală.",
-            "en": "Central point in the pedestrian zone."
+            "de": "Schlendern Sie durch die Gassen der Altstadt zum Rathausplatz.",
+            "hu": "Sétáljon végig az óváros sikátorain a Városháza térre.",
+            "ro": "Plimbați-vă pe străduțele din centrul vechi până la piața primăriei.",
+            "en": "Stroll through the alleys of the Old Town to the Town Hall square."
           }
         },
         {
-          "name": {
-            "de": "Planetarium / Yamaguchi Park",
-            "hu": "Planetárium / Yamaguchi park",
-            "ro": "Planetariu / Parcul Yamaguchi",
-            "en": "Planetarium / Yamaguchi Park"
+          "name_4lang": {
+            "de": "Kathedrale von Pamplona",
+            "hu": "Pamplonai székesegyház",
+            "ro": "Catedrala din Pamplona",
+            "en": "Pamplona Cathedral"
           },
           "coords": [
-            42.809,
-            -1.661
+            -1.643,
+            42.82
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.2,
+          "category": "churches/cathedrals",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Nehmen Sie die Linie 4 oder 18 vom Zentrum.",
-            "hu": "Szálljon a 4-es vagy 18-as buszra a központból.",
-            "ro": "Luați linia 4 sau 18 din centru.",
-            "en": "Take line 4 or 18 from the city center."
+            "de": "Die Kathedrale bildet den Abschluss des morgendlichen Spaziergangs durch die Altstadt.",
+            "hu": "A katedrális zárja a délelőtti sétát az óvárosban.",
+            "ro": "Catedrala încheie plimbarea de dimineață prin centrul vechi.",
+            "en": "The cathedral concludes the morning walk through the Old Town."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Ciudadela",
             "hu": "Citadella",
-            "ro": "Citadela",
-            "en": "Ciudadela"
+            "ro": "Cetățuia",
+            "en": "Citadel"
           },
           "coords": [
-            42.812,
-            -1.649
+            -1.655,
+            42.812
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "13:15",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "arrive_at": "12:18",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Bushaltestellen befinden sich direkt am Eingang (Av. del Ejército).",
-            "hu": "A buszmegállók közvetlenül a bejáratnál vannak.",
-            "ro": "Stațiile de autobuz sunt chiar la intrare.",
-            "en": "Bus stops are located right at the entrance."
+            "de": "Nehmen Sie eine Buslinie, die zur Zitadelle fährt (Cluster B), für den Nachmittag.",
+            "hu": "Menjen busszal a Citadellához (B klaszter) a délutáni programhoz.",
+            "ro": "Luați un autobuz spre Cetățuie (Cluster B) pentru după-amiază.",
+            "en": "Take a bus line that goes to the Citadel (Cluster B) for the afternoon."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Taconera Park",
             "hu": "Taconera park",
             "ro": "Parcul Taconera",
             "en": "Taconera Park"
           },
           "coords": [
-            42.8185,
-            -1.648
+            -1.651,
+            42.819
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "14:40",
-          "stay_min": 50,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
+          "arrive_at": "14:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Ein schöner Spaziergang von der Ciudadela.",
-            "hu": "Szép séta a Citadellától.",
-            "ro": "O plimbare frumoasă de la Citadelă.",
-            "en": "A beautiful walk from the Ciudadela."
-          }
-        },
-        {
-          "name": {
-            "de": "Denkmal für das Stiertreiben",
-            "hu": "Bikafuttatás emlékműve",
-            "ro": "Monumentul Fugii Taurilor",
-            "en": "Running of the Bulls Monument"
-          },
-          "coords": [
-            42.8155,
-            -1.6415
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "15:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.9,
-          "tip_5lang": {
-            "de": "Ganz in der Nähe der Haltestellen Merindades.",
-            "hu": "Nagyon közel a Merindades megállókhoz.",
-            "ro": "Foarte aproape de stațiile Merindades.",
-            "en": "Very close to the Merindades stops."
+            "de": "Verbringen Sie den Rest des Nachmittags in den Gärten, die nur einen kurzen Spaziergang von der Zitadelle entfernt sind.",
+            "hu": "Töltse a délután hátralévő részét a kertekben, amelyek csak egy rövid sétára vannak a Citadellától.",
+            "ro": "Petreceți restul după-amiezii în grădini, la o scurtă plimbare de Cetățuie.",
+            "en": "Spend the rest of the afternoon in the gardens, just a short walk from the Citadel."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem exzellenten Bussystem Pamplonas, der 'Villavesa', entdecken wir die Stadt wie ein Einheimischer. Wir starten im Zentrum und besichtigen die Kathedrale und das Rathaus. Danach fahren wir in den Westen zum japanisch inspirierten Yamaguchi-Park und dem Planetarium. Den Rückweg legen wir über die monumentale Ciudadela und den Taconera Park zurück, bevor wir die Tour am symbolträchtigen Stiertreiben-Denkmal beenden.",
-        "hu": "Pamplona kiváló buszhálózatával, a 'Villavesával' úgy fedezzük fel a várost, mint a helyiek. A központból indulunk, megtekintve a katedrálist és a városházát. Ezután nyugatra utazunk a japán ihletésű Yamaguchi parkhoz és a Planetáriumhoz. A visszafelé vezető utat a monumentális Citadellán és a Taconera parkon keresztül tesszük meg, mielőtt a túrát a jelképes Bikafuttatás emlékműnél zárnánk.",
-        "ro": "Cu excelenta rețea de autobuze din Pamplona, 'Villavesa', descoperim orașul ca un localnic. Începem în centru, vizitând catedrala și primăria. Apoi mergem spre vest către parcul de inspirație japoneză Yamaguchi și Planetariu. Drumul de întoarcere trece prin monumentala Citadelă și Parcul Taconera, încheind turul la emblematicul Monument al Fugii Taurilor.",
-        "en": "Using Pamplona's excellent bus system, the 'Villavesa,' we discover the city like a local. We start in the center, visiting the Cathedral and the Town Hall. Then, we head west to the Japanese-inspired Yamaguchi Park and the Planetarium. The return route takes us through the monumental Ciudadela and Taconera Park, concluding at the symbolic Running of the Bulls monument."
+        "de": "Ihr Tag beginnt mit einer Busfahrt ins Zentrum von Pamplona (Cluster A). Erkunden Sie die Plaza del Castillo und die umliegenden Highlights wie das Stierlaufdenkmal, das Rathaus und die Kathedrale zu Fuß. Am Nachmittag bringt Sie ein weiterer Bus zur beeindruckenden Zitadelle (Cluster B). Von dort aus spazieren Sie in den nahegelegenen Taconera Park und genießen eine entspannte Zeit im Grünen, bevor Sie die öffentlichen Verkehrsmittel für die Rückfahrt nutzen.",
+        "hu": "A nap egy buszúttal kezdődik Pamplona központjába (A klaszter). Fedezze fel gyalog a Plaza del Castillót és a környező látnivalókat, mint a bikafuttatás emlékműve, a városháza és a katedrális. Délután egy másik busz elviszi a lenyűgöző Citadellához (B klaszter). Onnan sétáljon át a közeli Taconera parkba, és élvezze a pihentető időt a zöldben, mielőtt a tömegközlekedést használná a visszaúthoz.",
+        "ro": "Ziua începe cu o călătorie cu autobuzul spre centrul Pamplonei (Cluster A). Explorați pe jos Plaza del Castillo și atracțiile din jur, cum ar fi Monumentul Coridei, primăria și catedrala. După-amiaza, un alt autobuz vă va duce la impresionanta Cetățuie (Cluster B). De acolo, plimbați-vă până la Parcul Taconera din apropiere și bucurați-vă de un timp relaxant în natură înainte de a folosi transportul public pentru întoarcere.",
+        "en": "Your day begins with a bus ride to the center of Pamplona (Cluster A). Explore Plaza del Castillo and the surrounding highlights like the Monument to the Bull Run, the Town Hall, and the Cathedral on foot. In the afternoon, another bus will take you to the impressive Citadel (Cluster B). From there, stroll to the nearby Taconera Park and enjoy some relaxing time in the green before taking public transport for your return journey."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bar Otano",
-            "tip": "Traditionelle navarresische Gerichte in der Calle San Nicolas."
+            "name": "Bar Gaucho",
+            "tip": "Eine sehr beliebte Pintxo-Bar in der Nähe der Plaza del Castillo, berühmt für ihre kreativen Kreationen."
+          },
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Forelle, gefüllt mit Schinken, eine klassische Delikatesse."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "Ein Gericht aus gesalzenem Kabeljau, Paprika, Tomaten, Knoblauch und Kartoffeln."
           }
         ],
         "hu": [
           {
-            "name": "Bar Otano",
-            "tip": "Hagyományos navarrai ételek a San Nicolas utcában."
+            "name": "Bar Gaucho",
+            "tip": "Nagyon népszerű pintxo bár a Plaza del Castillo közelében, híres a kreatív kreációiról."
+          },
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Sonkával töltött pisztráng, egy klasszikus finomság."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "Sózott tőkehalból, paprikából, paradicsomból, fokhagymából és krumpliból készült étel."
           }
         ],
         "ro": [
           {
-            "name": "Bar Otano",
-            "tip": "Mâncăruri tradiționale navareze pe strada San Nicolas."
+            "name": "Bar Gaucho",
+            "tip": "Un bar de pintxos foarte popular lângă Plaza del Castillo, renumit pentru creațiile sale creative."
+          },
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Păstrăv umplut cu șuncă, o delicatesă clasică."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "Un preparat din cod sărat, ardei, roșii, usturoi și cartofi."
           }
         ],
         "en": [
           {
-            "name": "Bar Otano",
-            "tip": "Traditional Navarrese dishes on San Nicolas Street."
+            "name": "Bar Gaucho",
+            "tip": "A very popular pintxo bar near Plaza del Castillo, famous for its creative creations."
+          },
+          {
+            "name": "Trucha a la Navarra",
+            "tip": "Trout stuffed with ham, a classic delicacy."
+          },
+          {
+            "name": "Ajoarriero",
+            "tip": "A dish made of salted cod, peppers, tomatoes, garlic, and potatoes."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Yamaguchi-Park",
-            "tip": "Ein friedlicher japanischer Garten fernab vom Zentrum.",
+            "name": "Media Luna Park",
+            "tip": "Ein weiterer schöner Park, etwas abseits des Zentrums, leicht mit dem Bus zu erreichen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche San Saturnino",
+            "tip": "Eine ruhigere Kirche als die Kathedrale, mit einem schönen gotischen Portal.",
             "emoji": "🧘"
+          },
+          {
+            "name": "Rincón del Caballo Blanco",
+            "tip": "Ein ruhiger, romantischer Winkel der Stadtmauern.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Yamaguchi park",
-            "tip": "Békés japánkert távol a belváros zajától.",
+            "name": "Media Luna Park",
+            "tip": "Egy másik gyönyörű park, kissé távolabb a központtól, busszal könnyen megközelíthető.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "San Saturnino templom",
+            "tip": "Csendesebb templom, mint a katedrális, gyönyörű gótikus portállal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rincón del Caballo Blanco",
+            "tip": "A városfal csendes, romantikus zuga.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Yamaguchi",
-            "tip": "O grădină japoneză liniștită, departe de agitația centrală.",
-            "emoji": "🍃"
+            "name": "Parcul Media Luna",
+            "tip": "Un alt parc frumos, puțin mai departe de centru, ușor accesibil cu autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica San Saturnino",
+            "tip": "O biserică mai liniștită decât catedrala, cu un frumos portal gotic.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rincón del Caballo Blanco",
+            "tip": "Un colț liniștit și romantic al zidurilor orașului.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Yamaguchi Park",
-            "tip": "A peaceful Japanese garden away from the city center.",
+            "name": "Media Luna Park",
+            "tip": "Another beautiful park, a bit further from the center, easily accessible by bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of San Saturnino",
+            "tip": "A quieter church than the cathedral, with a beautiful Gothic portal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Rincón del Caballo Blanco",
+            "tip": "A quiet, romantic corner of the city walls.",
             "emoji": "🌅"
           }
         ]
@@ -1125,49 +1402,65 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Avenida de Carlos III",
-            "tip": "Die Haupteinkaufsstraße im modernen Stadtteil."
+            "name": "Avenida Carlos III",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          },
+          {
+            "name": "Käseläden",
+            "tip": "Suchen Sie nach Geschäften, die Idiazabal- und Roncal-Käse verkaufen."
           }
         ],
         "hu": [
           {
-            "name": "Avenida de Carlos III",
-            "tip": "A modern városrész fő bevásárlóutcája."
+            "name": "Avenida Carlos III",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          },
+          {
+            "name": "Sajtboltok",
+            "tip": "Keressen olyan üzleteket, amelyek Idiazabal és Roncal sajtot árulnak."
           }
         ],
         "ro": [
           {
-            "name": "Avenida de Carlos III",
-            "tip": "Principala stradă comercială din cartierul modern."
+            "name": "Avenida Carlos III",
+            "tip": "Principala stradă comercială cu multe mărci cunoscute."
+          },
+          {
+            "name": "Magazine de brânzeturi",
+            "tip": "Căutați magazine care vând brânzeturi Idiazabal și Roncal."
           }
         ],
         "en": [
           {
-            "name": "Avenida de Carlos III",
-            "tip": "The main shopping street in the modern district."
+            "name": "Avenida Carlos III",
+            "tip": "The main shopping street with many well-known brands."
+          },
+          {
+            "name": "Cheese shops",
+            "tip": "Look for shops selling Idiazabal and Roncal cheeses."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine 'Transporte Comarcal' Karte für günstigere Fahrten.",
-          "Die Busse sind pünktlich und decken die ganze Stadt ab.",
-          "Die Haltestelle 'Plaza de las Merindades' ist der wichtigste Knotenpunkt."
+          "Kaufen Sie eine wiederaufladbare Buskarte (Tarjeta Ciudadana oder eine Touristenkarte) für günstigere Tarife.",
+          "Die Busse sind effizient, aber planen Sie zusätzliche Zeit für mögliche Wartezeiten ein.",
+          "Die meisten Buslinien kreuzen sich im Stadtzentrum, was den Umstieg erleichtert."
         ],
         "hu": [
-          "Vásároljon 'Transporte Comarcal' kártyát az olcsóbb utazáshoz.",
-          "A buszok pontosak és az egész várost lefedik.",
-          "A 'Plaza de las Merindades' megálló a legfontosabb átszállópont."
+          "Vásároljon újratölthető buszkártyát (Tarjeta Ciudadana vagy turistakártya) az olcsóbb díjakért.",
+          "A buszok hatékonyak, de tervezzen plusz időt az esetleges várakozásra.",
+          "A legtöbb buszjárat a belvárosban keresztezi egymást, ami megkönnyíti az átszállást."
         ],
         "ro": [
-          "Cumpărați un card 'Transporte Comarcal' pentru călătorii mai ieftine.",
-          "Autobuzele sunt punctuale și acoperă întreg orașul.",
-          "Stația 'Plaza de las Merindades' este cel mai important nod de transport."
+          "Cumpărați un card de autobuz reîncărcabil (Tarjeta Ciudadana sau un card turistic) pentru tarife mai ieftine.",
+          "Autobuzele sunt eficiente, dar planificați timp suplimentar pentru posibile așteptări.",
+          "Majoritatea liniilor de autobuz se intersectează în centrul orașului, ceea ce facilitează transferurile."
         ],
         "en": [
-          "Buy a 'Transporte Comarcal' card for cheaper fares.",
-          "Buses are punctual and cover the entire city.",
-          "The 'Plaza de las Merindades' stop is the main transit hub."
+          "Buy a rechargeable bus card (Tarjeta Ciudadana or a tourist card) for cheaper fares.",
+          "Buses are efficient, but plan for extra time for potential waits.",
+          "Most bus lines intersect in the city center, making transfers easy."
         ]
       }
     }

@@ -1,0 +1,958 @@
+{
+  "city_id": "compiegne",
+  "anchor": {
+    "name": "Compiègne Centre",
+    "coords": [
+      2.826,
+      49.414
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            2.8228,
+            49.4178
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Picantins-Automaten, die jede Stunde an der Fassade schlagen.",
+            "hu": "Nézze meg a homlokzaton óránként ütő Picantins bábukat.",
+            "ro": "Admirați automatele Picantins care bat ora pe fațada primăriei.",
+            "en": "Watch the Picantins automatons strike the hour on the town hall facade."
+          }
+        },
+        {
+          "name": "Église Saint-Jacques",
+          "coords": [
+            2.8245,
+            49.4168
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela.",
+            "hu": "A Szent Jakab-út egyik fontos állomása.",
+            "ro": "O oprire importantă pe drumul spre Santiago de Compostela.",
+            "en": "An important stop on the Way of St. James pilgrimage route."
+          }
+        },
+        {
+          "name": "Musée de la Figurine Historique",
+          "coords": [
+            2.8235,
+            49.4182
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tausende von Zinnfiguren stellen berühmte Schlachten der Geschichte dar.",
+            "hu": "Több ezer ólomkatona mutatja be a történelem híres csatáit.",
+            "ro": "Mii de figurine de plumb reconstituie bătălii celebre din istorie.",
+            "en": "Thousands of lead figurines recreate famous battles from history."
+          }
+        },
+        {
+          "name": "Palais de Compiègne",
+          "coords": [
+            2.8306,
+            49.4198
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kaiserlichen Gemächer und das Automobilmuseum im Inneren.",
+            "hu": "Látogassa meg a császári lakosztályokat és az autómúzeumot is.",
+            "ro": "Vizitați apartamentele imperiale și muzeul automobilului din interior.",
+            "en": "Visit the imperial apartments and the automobile museum inside."
+          }
+        },
+        {
+          "name": "Haras National",
+          "coords": [
+            2.832,
+            49.4175
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prächtigen Ställe, die von Napoleon gegründet wurden.",
+            "hu": "Fedezze fel a Napóleon által alapított királyi istállókat.",
+            "ro": "Descoperiți grajdurile regale magnifice fondate de Napoleon.",
+            "en": "Discover the magnificent royal stables founded by Napoleon."
+          }
+        },
+        {
+          "name": "Parc de Bayser",
+          "coords": [
+            2.818,
+            49.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Park, ideal für einen entspannten Abschluss des Tages.",
+            "hu": "Csendes park, ideális a nap nyugodt lezárásához.",
+            "ro": "Un parc liniștit, ideal pentru a încheia ziua relaxat.",
+            "en": "A quiet park, ideal for a relaxed end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das kaiserliche Erbe von Compiègne zu Fuß. Der Tag beginnt am prächtigen gotischen Rathaus und führt durch die historischen Gassen zur Kirche Saint-Jacques. Nach einem faszinierenden Besuch im Zinnfigurenmuseum tauchen Sie in den Glanz des Schlosses ein. Der Nachmittag gehört den edlen Pferden des Nationalgestüts und endet in der Ruhe der städtischen Parks.",
+        "hu": "Fedezze fel Compiègne császári örökségét gyalogosan. A nap a lenyűgöző gótikus Városházánál indul, majd a történelmi utcákon át a Szent Jakab-templomhoz vezet. A különleges figuramúzeum után a hatalmas kastély pompája várja. Délután a nemzeti ménes nemes lovait csodálhatja meg, végül a városi parkok nyugalmában pihenhet meg.",
+        "ro": "Descoperiți moștenirea imperială a orașului Compiègne la pas. Ziua începe la superba Primărie gotică și continuă prin străzile istorice până la Biserica Saint-Jacques. După o vizită fascinantă la muzeul de figurine, scufundați-vă în splendoarea palatului. După-amiaza este dedicată cailor nobili de la herghelia națională, încheind ziua în liniștea parcurilor orașului.",
+        "en": "Explore the imperial heritage of Compiègne on foot. The day starts at the magnificent Gothic Town Hall and leads through historic streets to Saint-Jacques Church. After a fascinating visit to the figurine museum, immerse yourself in the splendor of the Palace. The afternoon is dedicated to the noble horses of the National Stud, ending in the peace of the city parks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Ficelle Picarde",
+            "tip": "Ein herzhafter überbackener Pfannkuchen mit Schinken und Pilzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ficelle Picarde",
+            "tip": "Helyi sós palacsinta sonkával, gombával és tejszínes mártással besütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Ficelle Picarde",
+            "tip": "O clătită sărată cu șuncă și ciuperci, gratinată la cuptor."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Ficelle Picarde",
+            "tip": "A savory gratinated crepe filled with ham, mushrooms, and cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petit Parc du Palais",
+            "tip": "Ruhige Gärten direkt hinter dem Schloss.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Békés kertek közvetlenül a palota mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petit Parc du Palais",
+            "tip": "Grădini liniștite situate chiar în spatele palatului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Palace Park",
+            "tip": "Peaceful gardens located right behind the palace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Compiègne",
+            "tip": "Wochenmarkt am Mittwoch und Samstag auf dem Rathausplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Compiègne-i piac",
+            "tip": "Helyi termelői piac szerdán és szombaton a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Compiègne",
+            "tip": "Piață locală în zilele de miercuri și sâmbătă în fața primăriei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Compiègne Market",
+            "tip": "Local outdoor market on Wednesday and Saturday at the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die meisten Sehenswürdigkeiten liegen nah beieinander im Zentrum.",
+          "Die Innenstadt ist kopfsteingepflastert, tragen Sie bequeme Schuhe.",
+          "Reservieren Sie für das Mittagessen in der Nähe des Schlosses.",
+          "Verpassen Sie nicht den Wald von Compiègne direkt am Stadtrand."
+        ],
+        "hu": [
+          "A legtöbb látnivaló sétatávolságra van a központban.",
+          "A belváros macskaköves, viseljen kényelmes cipőt.",
+          "Érdemes előre asztalt foglalni az ebédhez a kastély környékén.",
+          "Ne hagyja ki a város szélén kezdődő hatalmas compiègne-i erdőt."
+        ],
+        "ro": [
+          "Majoritatea obiectivelor turistice sunt aproape unele de altele în centru.",
+          "Centrul orașului are pavaj cu piatră cubică, purtați pantofi comozi.",
+          "Rezervați o masă pentru prânz în apropierea palatului.",
+          "Nu ratați pădurea Compiègne situată chiar la marginea orașului."
+        ],
+        "en": [
+          "Most sights are within easy walking distance in the city center.",
+          "The town center has cobblestones, so wear comfortable shoes.",
+          "Book your lunch table in advance near the palace area.",
+          "Don't miss the vast Compiègne Forest right on the edge of town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            2.8228,
+            49.4178
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt am prächtigen gotischen Platz.",
+            "hu": "Kezdje a túrát a gótikus főtéren.",
+            "ro": "Punct de plecare în superba piață gotică.",
+            "en": "Starting point at the magnificent Gothic square."
+          }
+        },
+        {
+          "name": "Palais de Compiègne",
+          "coords": [
+            2.8306,
+            49.4198
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze befinden sich direkt am Eingang.",
+            "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók.",
+            "ro": "Parcare pentru biciclete disponibilă chiar la intrare.",
+            "en": "Bicycle parking is available right at the entrance."
+          }
+        },
+        {
+          "name": "Théâtre Impérial",
+          "coords": [
+            2.833,
+            49.418
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein akustisches Meisterwerk, erbaut auf Befehl von Napoleon III.",
+            "hu": "Akusztikai remekmű, amelyet III. Napóleon építtetett.",
+            "ro": "O capodoperă acustică, construită la ordinul lui Napoleon al III-lea.",
+            "en": "An acoustic masterpiece, built by order of Napoleon III."
+          }
+        },
+        {
+          "name": "Clairière de l'Armistice",
+          "coords": [
+            2.903,
+            49.427
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Ort des Waffenstillstands von 1918, erreichbar über Waldwege.",
+            "hu": "Az 1918-as fegyverszünet helyszíne, erdei utakon elérhető.",
+            "ro": "Locul armistițiului din 1918, accesibil prin trasee în pădure.",
+            "en": "Site of the 1918 Armistice, accessible via forest bike paths."
+          }
+        },
+        {
+          "name": "Haras National",
+          "coords": [
+            2.832,
+            49.4175
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Stallungen auf dem Rückweg ins Zentrum.",
+            "hu": "Látogassa meg az istállókat a városba menet.",
+            "ro": "Vizitați grajdurile la întoarcerea spre centru.",
+            "en": "Visit the stables on the way back to the center."
+          }
+        },
+        {
+          "name": "Parc de Bayser",
+          "coords": [
+            2.818,
+            49.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang im südlichen Stadtpark.",
+            "hu": "Pihentető lezárás a déli városi parkban.",
+            "ro": "O încheiere relaxată în parcul din sudul orașului.",
+            "en": "Relaxing finish in the southern city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad verbinden Sie die Pracht der Stadt mit der Stille des Waldes. Nach den kulturellen Highlights im Zentrum führt ein herrlicher Radweg direkt zur historischen Clairière de l'Armistice. Die Route führt durch die weite Natur der Picardie und zurück zum Nationalgestüt, bevor Sie den Tag entspannt in den grünen Lungen der Stadt ausklingen lassen.",
+        "hu": "Kerékpárral összekötheti a városi pompát az erdő csendjével. A központi kulturális látnivalók után kiváló kerékpárút vezet ki a történelmi Fegyverszüneti tisztásra. Az útvonal a picardiai természet lágy ölén halad át, érintve a ménest, majd a városi parkok zöldjében zárul az aktív nap.",
+        "ro": "Cu bicicleta, combinați splendoarea orașului cu liniștea pădurii. După punctele culturale din centru, o pistă excelentă vă duce direct la istorica poiană a Armistițiului. Traseul trece prin natura vastă a Picardiei, revine la herghelie și se încheie relaxat în plămânii verzi ai orașului.",
+        "en": "By bike, you combine city splendor with the silence of the forest. After the cultural highlights in the center, an excellent bike path leads directly to the historic Armistice Clearing. The route passes through the vast Picardy nature, back to the National Stud, and ends with a relaxed ride in the city's green parks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Macarons de Compiègne",
+            "tip": "Traditionelles Honiggebäck, perfekt als Energieschub beim Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Compiègne-i macaron",
+            "tip": "Hagyományos mézes édesség, tökéletes energiaforrás biciklizés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Macarons de Compiègne",
+            "tip": "Desert tradițional cu miere, perfect pentru energie pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Compiègne Macarons",
+            "tip": "Traditional honey-based sweets, perfect for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt de Compiègne",
+            "tip": "Endlose Radwege unter uralten Eichen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Compiègne-i erdő",
+            "tip": "Végtelen kerékpárutak ősi tölgyek alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Compiègne",
+            "tip": "Piste nesfârșite de biciclete sub stejari seculari.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Compiègne Forest",
+            "tip": "Endless bike paths under ancient oak trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Artisanale",
+            "tip": "Holen Sie sich frisches Baguette für ein Picknick im Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves pékség",
+            "tip": "Vegyél friss bagettet egy erdei piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie artizanală",
+            "tip": "Luați o baghetă proaspătă pentru un picnic în pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Bakery",
+            "tip": "Grab a fresh baguette for a picnic in the forest."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt zahlreiche Fahrradverleihstationen am Bahnhof.",
+          "Die Wege im Wald sind meist flach und gut ausgeschildert.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt zur Clairière mit.",
+          "Achten Sie auf Wanderer in den Parkzonen."
+        ],
+        "hu": [
+          "Számos kerékpárkölcsönző található a vasútállomásnál.",
+          "Az erdei utak többnyire síkok és jól ki vannak táblázva.",
+          "Vigyél magaddal elég vizet a tisztáshoz vezető útra.",
+          "Figyelj a gyalogosokra a parkokban."
+        ],
+        "ro": [
+          "Există numeroase centre de închiriat biciclete la gară.",
+          "Traseele din pădure sunt în mare parte plate și bine semnalizate.",
+          "Luați suficientă apă pentru drumul spre poiană.",
+          "Atenție la pietoni în zonele de parc."
+        ],
+        "en": [
+          "There are several bike rental shops near the train station.",
+          "Forest paths are mostly flat and well-signposted.",
+          "Take enough water for the trip to the Armistice Clearing.",
+          "Watch out for pedestrians in the park areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            2.8228,
+            49.4178
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Place du Marché.",
+            "hu": "Parkoljon a Place du Marché alatti parkolóházban.",
+            "ro": "Parcați în parcarea subterană din Place du Marché.",
+            "en": "Park in the underground garage at Place du Marché."
+          }
+        },
+        {
+          "name": "Musée de la Figurine Historique",
+          "coords": [
+            2.8235,
+            49.4182
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Rathaus entfernt (Clusterzentrum).",
+            "hu": "Rövid séta a városházától (központi klaszter).",
+            "ro": "La scurtă distanță de mers pe jos de primărie (centru).",
+            "en": "Short walk from the town hall (cluster center)."
+          }
+        },
+        {
+          "name": "Église Saint-Jacques",
+          "coords": [
+            2.8245,
+            49.4168
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehört zum UNESCO-Weltkulturerbe (Jakobsweg).",
+            "hu": "Az UNESCO Világörökség része (Szent Jakab-út).",
+            "ro": "Parte din Patrimoniul Mondial UNESCO (Drumul lui Iacob).",
+            "en": "Part of the UNESCO World Heritage (Way of St. James)."
+          }
+        },
+        {
+          "name": "Palais de Compiègne",
+          "coords": [
+            2.8306,
+            49.4198
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz vor dem Schloss.",
+            "hu": "Használja a kastély előtti nagy parkolót.",
+            "ro": "Folosiți parcarea mare din fața palatului.",
+            "en": "Use the large parking lot in front of the palace."
+          }
+        },
+        {
+          "name": "Théâtre Impérial",
+          "coords": [
+            2.833,
+            49.418
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein architektonisches Juwel direkt neben dem Schlosspark.",
+            "hu": "Építészeti gyöngyszem a kastélypark mellett.",
+            "ro": "O bijuterie arhitecturală lângă parcul palatului.",
+            "en": "An architectural gem right next to the palace park."
+          }
+        },
+        {
+          "name": "Clairière de l'Armistice",
+          "coords": [
+            2.903,
+            49.427
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahrt durch den Wald von Compiègne zum Denkmal.",
+            "hu": "Autózás a compiègne-i erdőn át az emlékműhöz.",
+            "ro": "Drum prin pădurea Compiègne către monument.",
+            "en": "Drive through the Compiègne forest to the monument."
+          }
+        },
+        {
+          "name": "Haras National",
+          "coords": [
+            2.832,
+            49.4175
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuch der historischen Stallanlagen vor der Abfahrt.",
+            "hu": "A történelmi istállók megtekintése indulás előtt.",
+            "ro": "Vizitarea grajdurilor istorice înainte de plecare.",
+            "en": "Visit the historic stables before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Compiègne effizient in Clustern. Zuerst parken Sie im Zentrum für Rathaus, Museum und Kirche. Danach fahren Sie zum prachtvollen Schloss und dem Imperial-Theater. Der Höhepunkt ist die kurze Fahrt durch den Wald zur geschichtsträchtigen Clairière de l'Armistice, bevor Sie den Tag am Nationalgestüt abrunden.",
+        "hu": "Autóval hatékonyan, klaszterekre bontva fedezheti fel Compiègne-t. Először a központban parkolva nézze meg a városházát és a múzeumot, majd autózzon át a kastélyhoz és a színházhoz. A nap fénypontja az erdei út a történelmi Fegyverszüneti tisztáshoz, végül a ménes meglátogatásával zárul a körút.",
+        "ro": "Cu mașina, explorați eficient orașul în clustere. Parcați întâi în centru pentru primărie și muzee, apoi conduceți către palat și teatru. Punctul culminant este scurta călătorie prin pădure către poiana Armistițiului, încheind ziua la herghelia națională.",
+        "en": "By car, you efficiently explore Compiègne in clusters. First, park in the center for the town hall and museums, then drive to the magnificent palace and theater. The highlight is the short drive through the forest to the historic Armistice Clearing, finishing the day at the National Stud."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistrot du Château",
+            "tip": "Klassische französische Küche mit Blick auf den Schlosspark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistrot du Château",
+            "tip": "Klasszikus francia konyha kilátással a kastélyparkra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistrot du Château",
+            "tip": "Bucătărie franceză clasică cu vedere spre parcul palatului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistrot du Château",
+            "tip": "Classic French cuisine with a view of the palace park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Allée des Beaux-Monts",
+            "tip": "Ein 5 km langer Ausblick durch den Wald vom Schloss aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beaux-Monts sétány",
+            "tip": "5 km hosszú panorámás kilátás az erdőn át a kastélytól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Allée des Beaux-Monts",
+            "tip": "O perspectivă de 5 km prin pădure, pornind de la palat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beaux-Monts Alley",
+            "tip": "A 5 km long panoramic vista through the forest from the palace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Epicerie Fine du Centre",
+            "tip": "Lokale Spezialitäten der Picardie zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi csemegebolt",
+            "tip": "Picardiai helyi különlegességek és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Epicerie Fine du Centre",
+            "tip": "Specialități locale din Picardia ideale pentru cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Town Center Delicatessen",
+            "tip": "Local Picardy specialties and gourmet products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist samstags oft schwierig.",
+          "Die Straßen im Wald sind schmal, fahren Sie vorsichtig.",
+          "Die Zufahrt zur Clairière ist gut ausgeschildert (Wegweiser 'Armistice').",
+          "Einige Parkzonen erfordern eine Parkscheibe."
+        ],
+        "hu": [
+          "A belvárosi parkolás szombatonként nehézkes lehet.",
+          "Az erdei utak keskenyek, vezessen óvatosan.",
+          "A tisztáshoz vezető út jól ki van táblázva (Armistice jelzések).",
+          "Néhány parkolózónához parkolótárcsa szükséges."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă sâmbăta.",
+          "Drumurile din pădure sunt înguste, conduceți cu atenție.",
+          "Accesul către poiana Armistițiului este bine semnalizat.",
+          "Unele zone de parcare necesită disc de parcare."
+        ],
+        "en": [
+          "Parking in the city center can be difficult on Saturdays.",
+          "Forest roads are narrow, so drive carefully.",
+          "Access to the Clearing is well-signposted ('Armistice' signs).",
+          "Some parking zones require a parking disc."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            2.8228,
+            49.4178
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die TIC-Busse im Zentrum sind kostenlos.",
+            "hu": "A központban közlekedő TIC buszok ingyenesek.",
+            "ro": "Autobuzele TIC din centru sunt gratuite.",
+            "en": "The TIC buses in the center are free of charge."
+          }
+        },
+        {
+          "name": "Musée de la Figurine Historique",
+          "coords": [
+            2.8235,
+            49.4182
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur 2 Minuten Fußweg von der Bushaltestelle Hôtel de Ville.",
+            "hu": "Mindössze 2 perc séta a Városháza buszmegállótól.",
+            "ro": "La doar 2 minute de mers pe jos de stația de autobuz Primărie.",
+            "en": "Just a 2-minute walk from the Town Hall bus stop."
+          }
+        },
+        {
+          "name": "Palais de Compiègne",
+          "coords": [
+            2.8306,
+            49.4198
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 1 oder 2 bis zur Haltestelle 'Palais'.",
+            "hu": "Használja az 1-es vagy 2-es buszt a 'Palais' megállóig.",
+            "ro": "Luați linia 1 sau 2 până la stația 'Palais'.",
+            "en": "Take line 1 or 2 to the 'Palais' stop."
+          }
+        },
+        {
+          "name": "Haras National",
+          "coords": [
+            2.832,
+            49.4175
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss, bequem zu Fuß erreichbar.",
+            "hu": "Közvetlenül a kastély mellett, gyalog is kényelmes.",
+            "ro": "Chiar lângă palat, ușor accesibil pe jos.",
+            "en": "Right next to the palace, easily reachable on foot."
+          }
+        },
+        {
+          "name": "Clairière de l'Armistice",
+          "coords": [
+            2.903,
+            49.427
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Spezielle Busverbindungen (TIC) führen in den Wald.",
+            "hu": "Speciális buszjáratok (TIC) indulnak az erdőbe.",
+            "ro": "Curse speciale de autobuz (TIC) duc spre pădure.",
+            "en": "Special bus routes (TIC) lead into the forest."
+          }
+        },
+        {
+          "name": "Parc de Bayser",
+          "coords": [
+            2.818,
+            49.41
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum und kurzer Transfer zum Park.",
+            "hu": "Visszatérés a központba, majd rövid átszállás a parkhoz.",
+            "ro": "Întoarcere în centru și transfer scurt către parc.",
+            "en": "Return to the center and short transfer to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das kostenlose Bussystem TIC, um Compiègne stressfrei zu erkunden. Der Vormittag gehört den historischen Stätten im Stadtkern. Mit dem Bus gelangen Sie bequem zum Schloss und später zur Clairière de l'Armistice im Wald. Diese Route kombiniert die Flexibilität des Nahverkehrs mit den wichtigsten Sehenswürdigkeiten der Stadt und ihrer Umgebung.",
+        "hu": "Használja az ingyenes TIC buszrendszert Compiègne stresszmentes felfedezéséhez. A délelőtt a belvárosi történelmi helyszíneké, majd busszal kényelmesen elérheti a kastélyt és később az erdei Fegyverszüneti tisztást. Ez az útvonal ötvözi a tömegközlekedés kényelmét a város legfontosabb látnivalóival.",
+        "ro": "Folosiți sistemul gratuit de autobuze TIC pentru a explora orașul fără stres. Dimineața este dedicată locurilor istorice din centru, apoi puteți ajunge ușor cu autobuzul la palat și ulterior la poiana Armistițiului. Acest traseu combină flexibilitatea transportului public cu cele mai importante atracții ale orașului.",
+        "en": "Use the free TIC bus system to explore Compiègne stress-free. The morning is spent at the historic sites in the city center, then take the bus to the palace and later to the Armistice Clearing in the forest. This route combines the convenience of public transit with the city's key landmarks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pâtisserie du Palais",
+            "tip": "Perfekte kleine Törtchen für eine Pause zwischen zwei Busfahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pâtisserie du Palais",
+            "tip": "Kiváló sütemények egy gyors pihenőhöz két busz között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pâtisserie du Palais",
+            "tip": "Prăjituri delicioase pentru o pauză scurtă între două autobuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Pastry Shop",
+            "tip": "Exquisite pastries perfect for a quick break between bus rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quartier Saint-Corneille",
+            "tip": "Ruhige Gassen rund um die ehemalige Abtei.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Kornél negyed",
+            "tip": "Csendes utcák az egykori apátság körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Saint-Corneille",
+            "tip": "Străzi liniștite în jurul fostei abații.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Corneille Quarter",
+            "tip": "Quiet streets around the former abbey.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Librairie des Signes",
+            "tip": "Wunderschöne Buchhandlung im Zentrum für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Librairie des Signes",
+            "tip": "Gyönyörű könyvesbolt a központban ajándéktárgyakhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librairie des Signes",
+            "tip": "O librărie superbă în centru pentru suveniruri culturale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Signs Bookstore",
+            "tip": "Beautiful bookstore in the center for cultural souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die TIC-Busse sind für alle Fahrgäste kostenlos.",
+          "Laden Sie die App 'Oise Mobilité' für Live-Abfahrtszeiten herunter.",
+          "Busse verkehren sonntags nur eingeschränkt.",
+          "Die Haltestellen im Wald liegen etwas abseits, planen Sie Fußwege ein."
+        ],
+        "hu": [
+          "A TIC buszok minden utas számára ingyenesek.",
+          "Töltse le az 'Oise Mobilité' appot az élő menetrendekhez.",
+          "Vasárnap a buszközlekedés korlátozott.",
+          "Az erdei megállók kicsit távolabb vannak, számoljon némi sétával."
+        ],
+        "ro": [
+          "Autobuzele TIC sunt gratuite pentru toți pasagerii.",
+          "Descărcați aplicația 'Oise Mobilité' pentru orele de plecare în timp real.",
+          "Autobuzele circulă cu program redus duminica.",
+          "Stațiile din pădure sunt puțin retrase, planificați timp pentru mers pe jos."
+        ],
+        "en": [
+          "TIC buses are free of charge for all passengers.",
+          "Download the 'Oise Mobilité' app for real-time departure times.",
+          "Buses have a limited schedule on Sundays.",
+          "Forest stops are a bit further out, so plan for some walking."
+        ]
+      }
+    }
+  }
+}

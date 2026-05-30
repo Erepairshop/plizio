@@ -1,0 +1,1169 @@
+{
+  "city_id": "france-poitiers-bis-cities-v2",
+  "anchor": {
+    "name": "Place du Maréchal-Leclerc",
+    "coords": [
+      0.34,
+      46.581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais des Comtes de Poitou",
+            "hu": "Poitou grófjainak palotája",
+            "ro": "Palatul Contelui de Poitou",
+            "en": "Palace of the Counts of Poitou"
+          },
+          "coords": [
+            0.3385,
+            46.5822
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Salle des Pas Perdus, einen der größten Säle Europas.",
+            "hu": "Csodáld meg a Salle des Pas Perdus termet, Európa egyik legnagyobb gótikus csarnokát.",
+            "ro": "Admirați Salle des Pas Perdus, una dintre cele mai mari săli gotice din Europa.",
+            "en": "Admire the Salle des Pas Perdus, one of the largest Gothic halls in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-la-Grande",
+            "hu": "Notre-Dame-la-Grande templom",
+            "ro": "Biserica Notre-Dame-la-Grande",
+            "en": "Church of Notre-Dame-la-Grande"
+          },
+          "coords": [
+            0.3421,
+            46.5832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Fassade ist ein Meisterwerk der romanischen Kunst mit reichen Skulpturen.",
+            "hu": "A homlokzat a román stílusú szobrászat mesterműve, tele bibliai jelenetekkel.",
+            "ro": "Fațada este o capodoperă a artei romanice, cu sculpturi biblice bogate.",
+            "en": "The facade is a masterpiece of Romanesque art, rich with biblical sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter katedrális",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            0.3478,
+            46.5798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta und bewundern Sie die Glasfenster aus dem 12. Jahrhundert.",
+            "hu": "Nézd meg a 12. századi üvegablakokat, amelyek a legrégebbiek közé tartoznak Franciaországban.",
+            "ro": "Vizitați vitraliile din secolul al XII-lea, printre cele mai vechi din Franța.",
+            "en": "Check out the 12th-century stained glass windows, among the oldest in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptisterium Saint-Jean",
+            "hu": "Szent János keresztelőkápolna",
+            "ro": "Baptisteriul Sfântul Ioan",
+            "en": "Baptistery of Saint-Jean"
+          },
+          "coords": [
+            0.3485,
+            46.5794
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dies ist eines der ältesten christlichen Gebäude Europas (4. Jahrhundert).",
+            "hu": "Ez Európa egyik legrégebbi keresztény épülete, a 4. századból származik.",
+            "ro": "Aceasta este una dintre cele mai vechi clădiri creștine din Europa (secolul IV).",
+            "en": "This is one of the oldest Christian buildings in Europe (4th century)."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Viertel Saint-Croix",
+            "hu": "Ebéd a Saint-Croix negyedben",
+            "ro": "Prânz în cartierul Saint-Croix",
+            "en": "Lunch in Saint-Croix District"
+          },
+          "coords": [
+            0.349,
+            46.5788
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie den 'Broyé du Poitou', einen traditionellen Butterkuchen.",
+            "hu": "Kóstold meg a 'Broyé du Poitou'-t, a hagyományos vajas süteményt.",
+            "ro": "Încercați 'Broyé du Poitou', o prăjitură tradițională cu unt.",
+            "en": "Try the 'Broyé du Poitou', a traditional butter shortbread."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Sainte-Croix",
+            "hu": "Sainte-Croix Múzeum",
+            "ro": "Muzeul Sainte-Croix",
+            "en": "Sainte-Croix Museum"
+          },
+          "coords": [
+            0.3495,
+            46.5791
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze und Werke von Camille Claudel.",
+            "hu": "Fedezd fel a régészeti kincseket és Camille Claudel szobrait.",
+            "ro": "Descoperiți comorile arheologice și lucrările lui Camille Claudel.",
+            "en": "Discover the archaeological treasures and works by Camille Claudel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Radegonde",
+            "hu": "Szent Radegunda templom",
+            "ro": "Biserica Sainte-Radegonde",
+            "en": "Church of Sainte-Radegonde"
+          },
+          "coords": [
+            0.3512,
+            46.5801
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche beherbergt das Grab der heiligen Radegunde, der Schutzpatronin der Stadt.",
+            "hu": "Itt található Szent Radegunda, a város védőszentjének sírja.",
+            "ro": "Biserica adăpostește mormântul Sfintei Radegunda, patroana orașului.",
+            "en": "The church houses the tomb of Saint Radegonde, the city's patron saint."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Blossac",
+            "hu": "Blossac park",
+            "ro": "Parcul de Blossac",
+            "en": "Blossac Park"
+          },
+          "coords": [
+            0.3365,
+            46.5745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den französischen Garten und die Aussicht auf das Clain-Tal.",
+            "hu": "Élvezd a francia kertet és a Clain-völgyre nyíló kilátást.",
+            "ro": "Bucurați-vă de grădina franceză și de priveliștea asupra văii Clain.",
+            "en": "Enjoy the French garden and the views over the Clain valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Poitiers, die Stadt der hundert Türme, offenbart ihren mittelalterlichen Charme bei einem Spaziergang durch das historische Zentrum. Beginnen Sie am alten Grafenpalast, bewundern Sie die romanischen Reliefs von Notre-Dame und tauchen Sie ein in die frühe christliche Geschichte im Baptisterium. Der Tag endet entspannt im prächtigen Parc de Blossac, wo sich französische und englische Gartenkunst treffen.",
+        "hu": "Poitiers, a száz torony városa, középkori bájt áraszt a történelmi központban tett séta során. Kezdje a grófi palotánál, csodálja meg a Notre-Dame román kori domborműveit, és merüljön el a korai keresztény történelemben a keresztelőkápolnánál. A napot a pompás Blossac parkban zárjuk, ahol a francia és angol kertépítészet találkozik a völgy felett.",
+        "ro": "Poitiers, orașul celor o sută de clopotnițe, își dezvăluie farmecul medieval printr-o plimbare în centrul istoric. Începeți la palatul conților, admirați reliefurile romanice de la Notre-Dame și explorați istoria creștină timpurie la baptisteriu. Ziua se încheie relaxant în superbul Parc de Blossac, unde grădinile franceze și engleze se întâlnesc deasupra văii.",
+        "en": "Poitiers, the city of a hundred steeples, reveals its medieval charm on a stroll through the historic center. Start at the Palace of the Counts, admire the Romanesque carvings of Notre-Dame, and delve into early Christian history at the Baptistery. The day ends perfectly in the grand Blossac Park, where French and English garden styles blend above the Clain valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 16 express",
+            "tip": "Probieren Sie lokale Spezialitäten in moderner Atmosphäre."
+          },
+          {
+            "name": "Macarons de Montmorillon",
+            "tip": "Die berühmten Mandelkekse der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 16 express",
+            "tip": "Kóstolja meg a helyi specialitásokat modern környezetben."
+          },
+          {
+            "name": "Macarons de Montmorillon",
+            "tip": "A régió híres mandulás süteménye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 16 express",
+            "tip": "Gustați specialități locale într-o atmosferă modernă."
+          },
+          {
+            "name": "Macarons de Montmorillon",
+            "tip": "Celebrele fursecuri cu migdale din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 16 express",
+            "tip": "Taste local specialties in a modern setting."
+          },
+          {
+            "name": "Macarons de Montmorillon",
+            "tip": "The region's famous almond cookies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ein ruhiger botanischer Garten.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Clain-Ufer",
+            "tip": "Ein entspannender Spaziergang am Fluss.",
+            "emoji": "💧"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Csendes botanikus kert a pihenéshez.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Clain folyópart",
+            "tip": "Pihentető séta a víz mentén.",
+            "emoji": "💧"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "O grădină botanică liniștită.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Malul râului Clain",
+            "tip": "O plimbare relaxantă pe malul apei.",
+            "emoji": "💧"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A quiet botanical garden for relaxation.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Clain River Banks",
+            "tip": "A relaxing walk along the water.",
+            "emoji": "💧"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen."
+          },
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Lokaler Markt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "A fő bevásárlóutca butikokkal."
+          },
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "Principala stradă comercială cu buticuri."
+          },
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Piață locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "The main shopping street with local boutiques."
+          },
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Local market for fresh regional produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist recht hügelig, tragen Sie bequeme Schuhe.",
+          "Die meisten Sehenswürdigkeiten liegen im kompakten Zentrum.",
+          "Versäumen Sie nicht die Lichtshow an der Notre-Dame im Sommer.",
+          "Kaufen Sie ein Ticket für das Musée Sainte-Croix im Voraus."
+        ],
+        "hu": [
+          "A város elég dombos, viseljen kényelmes cipőt.",
+          "A legtöbb látnivaló a kompakt központban található.",
+          "Ne hagyja ki a Notre-Dame esti fényjátékát nyáron.",
+          "Érdemes előre jegyet váltani a Sainte-Croix múzeumba."
+        ],
+        "ro": [
+          "Orașul este destul de deluros, purtați pantofi confortabili.",
+          "Majoritatea obiectivelor sunt în centrul compact.",
+          "Nu ratați spectacolul de lumini de la Notre-Dame în timpul verii.",
+          "Cumpărați biletele pentru Muzeul Sainte-Croix în avans."
+        ],
+        "en": [
+          "The city is quite hilly, so wear comfortable walking shoes.",
+          "Most sights are within the compact historic center.",
+          "Don't miss the evening light show at Notre-Dame in summer.",
+          "Book your Musée Sainte-Croix tickets in advance to save time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de Blossac",
+            "hu": "Blossac park",
+            "ro": "Parcul de Blossac",
+            "en": "Blossac Park"
+          },
+          "coords": [
+            0.3365,
+            46.5745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein idealer Startpunkt für eine Radtour.",
+            "hu": "Ideális kiindulópont egy kerékpáros túrához.",
+            "ro": "Un punct de plecare ideal pentru o tură cu bicicleta.",
+            "en": "An ideal starting point for a bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Comtes de Poitou",
+            "hu": "Poitou grófjainak palotája",
+            "ro": "Palatul Contelui de Poitou",
+            "en": "Palace of the Counts of Poitou"
+          },
+          "coords": [
+            0.3385,
+            46.5822
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad auf dem Place Lepetit.",
+            "hu": "Parkolja le a kerékpárját a Place Lepetit-en.",
+            "ro": "Parcați bicicleta în Place Lepetit.",
+            "en": "Park your bike at Place Lepetit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-la-Grande",
+            "hu": "Notre-Dame-la-Grande templom",
+            "ro": "Biserica Notre-Dame-la-Grande",
+            "en": "Church of Notre-Dame-la-Grande"
+          },
+          "coords": [
+            0.3421,
+            46.5832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt ist fahrradfreundlich.",
+            "hu": "A városközpont kerékpárosbarát.",
+            "ro": "Centrul orașului este prietenos cu bicicliștii.",
+            "en": "The city center is bike-friendly."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptisterium Saint-Jean",
+            "hu": "Szent János keresztelőkápolna",
+            "ro": "Baptisteriul Sfântul Ioan",
+            "en": "Baptistery of Saint-Jean"
+          },
+          "coords": [
+            0.3485,
+            46.5794
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bergab zum Fluss.",
+            "hu": "Rövid gurulás lefelé a folyó irányába.",
+            "ro": "O scurtă plimbare la vale spre râu.",
+            "en": "A short downhill ride towards the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Clain-Ufer",
+            "hu": "Ebéd a Clain partján",
+            "ro": "Prânz pe malul râului Clain",
+            "en": "Lunch by the Clain River"
+          },
+          "coords": [
+            0.354,
+            46.5815
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Wasser.",
+            "hu": "Élvezze a nyugalmat a vízparton.",
+            "ro": "Bucurați-vă de liniștea de pe malul apei.",
+            "en": "Enjoy the peaceful atmosphere by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Hypogée des Dunes",
+            "hu": "Dűnék hipogeuma",
+            "ro": "Hipogeul Dunelor",
+            "en": "Hypogeum of the Dunes"
+          },
+          "coords": [
+            0.362,
+            46.578
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die Aussicht lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "O urcare abruptă, dar priveliștea merită.",
+            "en": "A steep climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Sainte-Croix",
+            "hu": "Sainte-Croix Múzeum",
+            "ro": "Muzeul Sainte-Croix",
+            "en": "Sainte-Croix Museum"
+          },
+          "coords": [
+            0.3495,
+            46.5791
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schließen Sie die Tour mit Kultur ab.",
+            "hu": "Zárja a túrát egy kis kultúrával.",
+            "ro": "Încheiați turul cu puțină cultură.",
+            "en": "Finish your tour with a bit of culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Poitiers auf zwei Rädern! Diese Tour führt Sie von den grünen Parks über die historischen Monumente bis hin zu den Aussichtspunkten über dem Fluss Clain. Mit dem Fahrrad erreichen Sie auch entlegenere Schätze wie das Hypogée des Dunes mühelos.",
+        "hu": "Fedezze fel Poitiers-t két keréken! Ez a túra a zöld parkoktól a történelmi műemlékeken át a Clain folyó feletti kilátópontokig vezet. Kerékpárral a távolabbi kincsek, mint a Dűnék hipogeuma is könnyen elérhetőek.",
+        "ro": "Explorați orașul Poitiers pe două roți! Acest tur vă poartă de la parcurile verzi, prin monumentele istorice, până la punctele de belvedere de deasupra râului Clain. Cu bicicleta, comorile mai îndepărtate, cum ar fi Hipogeul Dunelor, sunt ușor de vizitat.",
+        "en": "Explore Poitiers on two wheels! This tour takes you from green parks through historic monuments to viewpoints overlooking the Clain River. By bike, you can easily reach more distant treasures like the Hypogeum of the Dunes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Snacks im Grünen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Frissítők a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Gustări în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Quick snacks in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade des Cours",
+            "tip": "Schattiger Weg am Fluss.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade des Cours",
+            "tip": "Árnyas sétány a folyó mentén.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade des Cours",
+            "tip": "Alee umbrită lângă râu.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade des Cours",
+            "tip": "Shady promenade by the river.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cyclo Cafe",
+            "tip": "Zubehör und Kaffee für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cyclo Cafe",
+            "tip": "Kiegészítők és kávé bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cyclo Cafe",
+            "tip": "Accesorii și cafea pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cyclo Cafe",
+            "tip": "Gear and coffee for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Pony' Bike-Sharing-System.",
+          "Einige Gassen im Zentrum sind sehr steil.",
+          "Achten Sie auf die Einbahnstraßenregelung."
+        ],
+        "hu": [
+          "Használja a 'Pony' közösségi kerékpármegosztót.",
+          "A belváros egyes utcái nagyon meredekek.",
+          "Ügyeljen az egyirányú utcák szabályaira."
+        ],
+        "ro": [
+          "Folosiți sistemul de bike-sharing 'Pony'.",
+          "Unele străzi din centru sunt foarte abrupte.",
+          "Atenție la regulile străzilor cu sens unic."
+        ],
+        "en": [
+          "Use the 'Pony' bike-sharing system.",
+          "Some alleys in the center are very steep.",
+          "Pay attention to one-way street regulations."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais des Comtes de Poitou",
+            "hu": "Poitou grófjainak palotája",
+            "ro": "Palatul Contelui de Poitou",
+            "en": "Palace of the Counts of Poitou"
+          },
+          "coords": [
+            0.3385,
+            46.5822
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Hôtel de Ville'.",
+            "hu": "Parkoljon az 'Hôtel de Ville' parkolóházban.",
+            "ro": "Parcați în parcarea 'Hôtel de Ville'.",
+            "en": "Park at the 'Hôtel de Ville' underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-la-Grande",
+            "hu": "Notre-Dame-la-Grande templom",
+            "ro": "Biserica Notre-Dame-la-Grande",
+            "en": "Church of Notre-Dame-la-Grande"
+          },
+          "coords": [
+            0.3421,
+            46.5832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Walking distance from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter katedrális",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            0.3478,
+            46.5798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Innerhalb des Stadtzentrum-Clusters zu Fuß.",
+            "hu": "Gyalogosan a belvárosi körzeten belül.",
+            "ro": "Pe jos, în cadrul clusterului din centrul orașului.",
+            "en": "Walk between center cluster stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Sainte-Croix",
+            "hu": "Sainte-Croix Múzeum",
+            "ro": "Muzeul Sainte-Croix",
+            "en": "Sainte-Croix Museum"
+          },
+          "coords": [
+            0.3495,
+            46.5791
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt zum nächsten Cluster am Clain-Ufer.",
+            "hu": "Autózás a következő körzetbe a Clain partján.",
+            "ro": "Mergeți cu mașina spre următorul cluster de pe malul râului.",
+            "en": "Drive to the next cluster near the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Hypogée des Dunes",
+            "hu": "Dűnék hipogeuma",
+            "ro": "Hipogeul Dunelor",
+            "en": "Hypogeum of the Dunes"
+          },
+          "coords": [
+            0.362,
+            46.578
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze in der Nähe des Standorts.",
+            "hu": "Ingyenes parkolás a helyszín közelében.",
+            "ro": "Parcare gratuită lângă locație.",
+            "en": "Free parking available near the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Blossac",
+            "hu": "Blossac park",
+            "ro": "Parcul de Blossac",
+            "en": "Blossac Park"
+          },
+          "coords": [
+            0.3365,
+            46.5745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkhaus 'Blossac' liegt direkt unter dem Park.",
+            "hu": "A 'Blossac' parkolóház közvetlenül a park alatt van.",
+            "ro": "Parcarea 'Blossac' este chiar sub parc.",
+            "en": "The 'Blossac' parking is right under the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die verschiedenen Stadtteile von Poitiers bequem verbinden. Beginnen Sie im historischen Kern, bevor Sie die Flussseite wechseln, um das geheimnisvolle Hypogée des Dunes zu besuchen, und beenden Sie den Tag im weitläufigen Blossac-Park.",
+        "hu": "Autóval kényelmesen összekötheti Poitiers különböző városrészeit. Kezdje a történelmi magban, majd váltson folyópartot a rejtélyes Dűnék hipogeumának meglátogatásához, végül zárja a napot a tágas Blossac parkban.",
+        "ro": "Cu mașina, puteți conecta confortabil diferitele districte ale orașului Poitiers. Începeți în nucleul istoric înainte de a schimba malul râului pentru a vizita misteriosul Hipogeul Dunelor, terminând ziua în spațiosul Parc de Blossac.",
+        "en": "By car, you can comfortably link the different districts of Poitiers. Start in the historic core before crossing the river to visit the mysterious Hypogeum of the Dunes, ending the day in the spacious Blossac Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Archives",
+            "tip": "Restaurant in einer alten Kapelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Archives",
+            "tip": "Étterem egy régi kápolnában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Archives",
+            "tip": "Restaurant într-o veche capelă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Archives",
+            "tip": "Fine dining restaurant in an old chapel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saint-Benoît",
+            "tip": "Kurze Fahrt zu diesem malerischen Dorf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Benoît",
+            "tip": "Rövid autóút ehhez a festői faluhoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saint-Benoît",
+            "tip": "O scurtă călătorie cu mașina până în acest sat pitoresc.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Benoît",
+            "tip": "A short drive to this picturesque nearby village.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zone Nord",
+            "tip": "Große Einkaufszentren am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zone Nord",
+            "tip": "Nagy bevásárlóközpontok a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zone Nord",
+            "tip": "Centre comerciale mari la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zone Nord",
+            "tip": "Large shopping centers on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in den unterirdischen Parkhäusern.",
+          "Das Zentrum ist teilweise Fußgängerzone.",
+          "Navigieren Sie vorsichtig durch die engen Einbahnstraßen."
+        ],
+        "hu": [
+          "Használja a földalatti parkolóházakat.",
+          "A központ egy része sétálóövezet.",
+          "Navigáljon óvatosan a szűk, egyirányú utcákban."
+        ],
+        "ro": [
+          "Folosiți parcările subterane.",
+          "Centrul este parțial pietonal.",
+          "Navigați cu atenție pe străzile înguste cu sens unic."
+        ],
+        "en": [
+          "Utilize the underground parking garages.",
+          "The very center is a pedestrian zone.",
+          "Navigate carefully through the narrow one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville (Zentrum)",
+            "hu": "Hôtel de Ville (Központ)",
+            "ro": "Hôtel de Ville (Centru)",
+            "en": "Hôtel de Ville (Center)"
+          },
+          "coords": [
+            0.3405,
+            46.5805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Knotenpunkt für fast alle Buslinien.",
+            "hu": "Szinte minden buszjárat csomópontja.",
+            "ro": "Hub pentru aproape toate liniile de autobuz.",
+            "en": "Hub for almost all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-la-Grande",
+            "hu": "Notre-Dame-la-Grande templom",
+            "ro": "Biserica Notre-Dame-la-Grande",
+            "en": "Church of Notre-Dame-la-Grande"
+          },
+          "coords": [
+            0.3421,
+            46.5832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Rathaus aus leicht zu Fuß erreichbar.",
+            "hu": "A városházától könnyen elérhető gyalog.",
+            "ro": "Ușor de accesat pe jos de la primărie.",
+            "en": "Easy walk from the City Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptisterium Saint-Jean",
+            "hu": "Szent János keresztelőkápolna",
+            "ro": "Baptisteriul Sfântul Ioan",
+            "en": "Baptistery of Saint-Jean"
+          },
+          "coords": [
+            0.3485,
+            46.5794
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus (Linie 12/15) zum Clain-Viertel.",
+            "hu": "Szálljon buszra (12/15-ös vonal) a Clain negyed felé.",
+            "ro": "Luați autobuzul (linia 12/15) spre cartierul Clain.",
+            "en": "Take the bus (line 12/15) towards the Clain district."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Sainte-Croix",
+            "hu": "Sainte-Croix Múzeum",
+            "ro": "Muzeul Sainte-Croix",
+            "en": "Sainte-Croix Museum"
+          },
+          "coords": [
+            0.3495,
+            46.5791
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Baptisterium.",
+            "hu": "Közvetlenül a keresztelőkápolna mellett.",
+            "ro": "Chiar lângă baptisteriu.",
+            "en": "Located right next to the Baptistery."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Blossac",
+            "hu": "Blossac park",
+            "ro": "Parcul de Blossac",
+            "en": "Blossac Park"
+          },
+          "coords": [
+            0.3365,
+            46.5745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bus zurück ins Zentrum, dann kurzer Fußweg.",
+            "hu": "Busszal vissza a központba, majd rövid séta.",
+            "ro": "Autobuz înapoi spre centru, apoi o scurtă plimbare.",
+            "en": "Bus back to center, then a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Poitiers (Gare)",
+            "hu": "Poitiers vasútállomás",
+            "ro": "Gara Poitiers",
+            "en": "Poitiers Railway Station"
+          },
+          "coords": [
+            0.332,
+            46.5815
+          ],
+          "category": "port",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wichtiger Verkehrsknotenpunkt mit futuristischer Architektur.",
+            "hu": "Fontos közlekedési csomópont futurisztikus építészettel.",
+            "ro": "Nod important de transport cu o arhitectură futuristă.",
+            "en": "Major transport hub with futuristic architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Vitalis-Busnetz von Poitiers, um zwischen dem erhöhten Zentrum und dem Clain-Tal zu pendeln. Diese Route verbindet die kulturellen Highlights wie das Musée Sainte-Croix mit den Entspannungspunkten der Stadt, ohne dass Sie alles zu Fuß bewältigen müssen.",
+        "hu": "Használja Poitiers hatékony Vitalis buszhálózatát a dombtetőn lévő központ és a Clain-völgy közötti közlekedéshez. Ez az útvonal összeköti a kulturális látnivalókat, mint a Sainte-Croix Múzeum, a város pihenőhelyeivel, anélkül, hogy mindent gyalog kellene megtennie.",
+        "ro": "Folosiți rețeaua eficientă de autobuze Vitalis din Poitiers pentru a naviga între centrul aflat pe deal și valea Clain. Acest traseu conectează atracțiile culturale, cum ar fi Muzeul Sainte-Croix, cu zonele de relaxare ale orașului, fără a fi nevoie de mult mers pe jos.",
+        "en": "Use Poitiers' efficient Vitalis bus network to travel between the hilltop center and the Clain valley. This route connects cultural highlights like the Sainte-Croix Museum with the city's relaxation spots without needing to walk long distances."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Schnelles Essen am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Gyors étkezés az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Masă rapidă la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Quick meal at the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Îlot Tison",
+            "tip": "Entspannungszone am Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Îlot Tison",
+            "tip": "Pihenőzóna a folyónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Îlot Tison",
+            "tip": "Zonă de relaxare lângă râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Îlot Tison",
+            "tip": "Relaxation zone by the river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Cordeliers",
+            "tip": "Einkaufszentrum im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial Cordeliers",
+            "tip": "Bevásárlóközpont a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial Cordeliers",
+            "tip": "Centru comercial în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Commercial Cordeliers",
+            "tip": "Shopping center in the city heart."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets per Vitalis-App.",
+          "Einzelfahrscheine gelten 1 Stunde.",
+          "Die Linie 'O' verbindet die wichtigsten Punkte."
+        ],
+        "hu": [
+          "Vásároljon jegyet a Vitalis appon keresztül.",
+          "A vonaljegyek 1 óráig érvényesek.",
+          "Az 'O' vonal köti össze a legfontosabb pontokat."
+        ],
+        "ro": [
+          "Cumpărați bilete prin aplicația Vitalis.",
+          "Biletele simple sunt valabile 1 oră.",
+          "Linia 'O' conectează punctele principale."
+        ],
+        "en": [
+          "Buy tickets via the Vitalis app.",
+          "Single tickets are valid for 1 hour.",
+          "The 'O' line links the main city points."
+        ]
+      }
+    }
+  }
+}

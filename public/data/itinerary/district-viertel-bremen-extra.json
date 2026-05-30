@@ -1,0 +1,1165 @@
+{
+  "city_id": "district-viertel-bremen-extra",
+  "anchor": {
+    "name": "Bremen Das Viertel",
+    "coords": [
+      8.825,
+      53.08
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Ichon",
+            "hu": "Villa Ichon",
+            "ro": "Villa Ichon",
+            "en": "Villa Ichon"
+          },
+          "coords": [
+            8.8152,
+            53.0735
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wunderschöne Villa mit friedlichem Garten am Wall.",
+            "hu": "Gyönyörű villa békés kerttel a városfal mentén.",
+            "ro": "Vilă superbă cu o grădină liniștită lângă Wall.",
+            "en": "Beautiful villa with a peaceful garden by the Wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Bremen",
+            "hu": "Bremeni Műcsarnok",
+            "ro": "Kunsthalle Bremen",
+            "en": "Kunsthalle Bremen"
+          },
+          "coords": [
+            8.817,
+            53.073
+          ],
+          "category": "museums",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Kunstmuseen Deutschlands.",
+            "hu": "Németország egyik legjelentősebb művészeti múzeuma.",
+            "ro": "Unul dintre cele mai importante muzee de artă din Germania.",
+            "en": "One of Germany's most significant art museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater am Goetheplatz",
+            "hu": "Goetheplatz Színház",
+            "ro": "Teatrul de pe Goetheplatz",
+            "en": "Theater am Goetheplatz"
+          },
+          "coords": [
+            8.8185,
+            53.0738
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Bremer Staatstheaters.",
+            "hu": "Csodálja meg a bremeni állami színház építészetét.",
+            "ro": "Admirați arhitectura teatrului de stat din Bremen.",
+            "en": "Admire the architecture of the Bremen State Theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostertorwache",
+            "hu": "Ostertorwache (Börtönmúzeum)",
+            "ro": "Ostertorwache",
+            "en": "Ostertorwache"
+          },
+          "coords": [
+            8.8192,
+            53.0742
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ehemaliges Gefängnis, heute ein faszinierendes Dokumentationszentrum.",
+            "hu": "Egykori börtön, ma lenyűgöző dokumentációs központ.",
+            "ro": "Fosta închisoare, astăzi un centru de documentare fascinant.",
+            "en": "Former prison, now a fascinating documentation center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Lagerhaus",
+            "hu": "Lagerhaus Kulturális Központ",
+            "ro": "Centrul Cultural Lagerhaus",
+            "en": "Kulturzentrum Lagerhaus"
+          },
+          "coords": [
+            8.823,
+            53.075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz der alternativen Szene im Viertel.",
+            "hu": "A negyed alternatív színterének szíve.",
+            "ro": "Inima scenei alternative din Viertel.",
+            "en": "The heart of the alternative scene in the Viertel."
+          }
+        },
+        {
+          "name": {
+            "de": "Sielwallfähre",
+            "hu": "Sielwall komp",
+            "ro": "Bac Sielwall",
+            "en": "Sielwall Ferry"
+          },
+          "coords": [
+            8.822,
+            53.071
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Setzen Sie mit der Fähre über zum Osterdeich.",
+            "hu": "Keljen át a komppal az Osterdeich oldalára.",
+            "ro": "Traversați cu bacul spre Osterdeich.",
+            "en": "Cross with the ferry to the Osterdeich side."
+          }
+        },
+        {
+          "name": {
+            "de": "Bremer Shakespeare Company",
+            "hu": "Bremeni Shakespeare Társulat",
+            "ro": "Compania Shakespeare Bremen",
+            "en": "Bremer Shakespeare Company"
+          },
+          "coords": [
+            8.812,
+            53.078
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Aufführung in diesem intimen Theater.",
+            "hu": "Élvezzen egy előadást ebben a hangulatos színházban.",
+            "ro": "Bucurați-vă de un spectacol în acest teatru intim.",
+            "en": "Enjoy a performance in this intimate theater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Viertel, dem buntesten Stadtteil Bremens. Der Morgen startet klassisch mit Kunst und Architektur an der Kulturmeile, wo die Kunsthalle und die Villa Ichon eine ruhige Atmosphäre bieten. Mittags tauchen Sie tiefer in die Gassen ein, vorbei an der Ostertorwache und dem lebendigen Goetheplatz. Der Nachmittag gehört der alternativen Kultur im Lagerhaus und einer erfrischenden Fährfahrt über die Weser. Den Abend lassen Sie bei einer Aufführung der Shakespeare Company oder in den zahlreichen Bars des Viertels ausklingen.",
+        "hu": "Kezdje a napot a Viertelben, Bréma legszínesebb negyedében. A reggel klasszikus művészettel és építészettel indul a Kulturmeile mentén, ahol a Műcsarnok és a Villa Ichon nyugodt légkört áraszt. Délben merüljön el a sikátorokban, érintve a börtönmúzeumot és a nyüzsgő Goetheplatzot. A délután az alternatív kultúráé a Lagerhausban, majd egy frissítő kompozás következik a Weser folyón. Az estét a Shakespeare Társulat előadásával vagy a negyed számtalan bárjának egyikében zárhatja.",
+        "ro": "Începeți ziua în Viertel, cel mai colorat cartier din Bremen. Dimineața începe clasic cu artă și arhitectură pe Kulturmeile, unde Kunsthalle și Villa Ichon oferă o atmosferă liniștită. La prânz, pătrundeți mai adânc în străduțe, trecând pe lângă fosta închisoare și animația de pe Goetheplatz. După-amiaza aparține culturii alternative de la Lagerhaus și unei traversări revigorante cu bacul peste Weser. Încheiați seara cu un spectacol al Companiei Shakespeare sau în numeroasele baruri din cartier.",
+        "en": "Start your day in the Viertel, Bremen's most colorful district. The morning begins with classic art and architecture along the Kulturmeile, where the Kunsthalle and Villa Ichon offer a peaceful atmosphere. At noon, dive deeper into the alleys, passing by the old prison museum and the lively Goetheplatz. The afternoon is dedicated to alternative culture at the Lagerhaus and a refreshing ferry ride across the Weser. End the evening with a performance by the Shakespeare Company or in one of the district's many bars."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rollo bei Arabiano",
+            "tip": "Probieren Sie das Rollo, Bremens berühmteste Fast-Food-Spezialität."
+          },
+          {
+            "name": "Eisen",
+            "tip": "Kultkneipe mit einer riesigen Auswahl an lokalen Bieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rollo az Arabiano-nál",
+            "tip": "Kóstolja meg a Rollót, Bréma leghíresebb gyorsétel-specialitását."
+          },
+          {
+            "name": "Eisen",
+            "tip": "Kultikus kocsma hatalmas helyi sörválasztékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rollo la Arabiano",
+            "tip": "Încercați Rollo, cea mai faimoasă specialitate fast-food din Bremen."
+          },
+          {
+            "name": "Eisen",
+            "tip": "Pub cult cu o selecție uriașă de beri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rollo at Arabiano",
+            "tip": "Try the Rollo, Bremen's most famous fast-food specialty."
+          },
+          {
+            "name": "Eisen",
+            "tip": "Cult pub with a huge selection of local beers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Osterdeich",
+            "tip": "Die grüne Lunge am Weserufer, perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wallanlagen",
+            "tip": "Historischer Parkgürtel mit idyllischen Spazierwegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osterdeich",
+            "tip": "Zöld tüdő a Weser partján, tökéletes naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wallanlagen",
+            "tip": "Történelmi parkövezet idilli sétautakkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osterdeich",
+            "tip": "Plămânul verde de pe malul Weser, perfect pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wallanlagen",
+            "tip": "Parc istoric cu alei de plimbare idilice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Osterdeich",
+            "tip": "The green lung on the Weser bank, perfect for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Wallanlagen",
+            "tip": "Historic park belt with idyllic walking paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Holtorf Feinkost",
+            "tip": "Ein historischer Kolonialwarenladen mit besonderem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holtorf Feinkost",
+            "tip": "Történelmi csemegeüzlet különleges hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Holtorf Feinkost",
+            "tip": "Un magazin istoric de delicatese cu un farmec aparte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Holtorf Feinkost",
+            "tip": "A historic grocery store with a very special atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die bunte Street Art in den Seitenstraßen.",
+          "Das Viertel ist abends sehr lebendig, ideal für Bar-Hopping.",
+          "Die Sielwall-Kreuzung ist das pulsierende Zentrum des Viertels.",
+          "Besuchen Sie das Viertel am besten zu Fuß, um die Details zu sehen."
+        ],
+        "hu": [
+          "Figyeljen a színes street art alkotásokra a mellékutcákban.",
+          "A negyed este nagyon élénk, ideális kocsmatúrához.",
+          "A Sielwall-kereszteződés a negyed lüktető központja.",
+          "A negyedet legjobb gyalogosan felfedezni a részletek miatt."
+        ],
+        "ro": [
+          "Atenție la street art-ul colorat din străduțele laterale.",
+          "Cartierul este foarte plin de viață seara, ideal pentru bar-hopping.",
+          "Intersecția Sielwall este centrul vibrant al cartierului.",
+          "Vizitați cartierul de preferință la pas pentru a vedea detaliile."
+        ],
+        "en": [
+          "Look out for the colorful street art in the side streets.",
+          "The district is very lively in the evenings, ideal for bar hopping.",
+          "The Sielwall crossing is the pulsating center of the district.",
+          "It's best to explore the Viertel on foot to see all the details."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikolonialdenkmal (Elefant)",
+            "hu": "Antikoloniális emlékmű (Elefánt)",
+            "ro": "Monumentul Anticolonial (Elefantul)",
+            "en": "Anticolonial Monument (Elephant)"
+          },
+          "coords": [
+            8.813,
+            53.084
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein wichtiges Denkmal mit kolonialer Geschichte hinter dem Bahnhof.",
+            "hu": "Fontos emlékmű koloniális múlttal a vasútállomás mögött.",
+            "ro": "Un monument important cu istorie colonială în spatele gării.",
+            "en": "An important monument with colonial history behind the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Lagerhaus",
+            "hu": "Lagerhaus Kulturális Központ",
+            "ro": "Centrul Cultural Lagerhaus",
+            "en": "Kulturzentrum Lagerhaus"
+          },
+          "coords": [
+            8.823,
+            53.075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen ersten Kaffee im Viertel.",
+            "hu": "Tökéletes hely az első kávéhoz a negyedben.",
+            "ro": "Locul perfect pentru prima cafea în cartier.",
+            "en": "Perfect place for a first coffee in the Viertel."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostertorwache",
+            "hu": "Ostertorwache",
+            "ro": "Ostertorwache",
+            "en": "Ostertorwache"
+          },
+          "coords": [
+            8.8192,
+            53.0742
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher am Goetheplatz ab.",
+            "hu": "Zárja le biztonságosan a biciklit a Goetheplatzon.",
+            "ro": "Parcați bicicleta în siguranță la Goetheplatz.",
+            "en": "Park your bike safely at Goetheplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Bremen",
+            "hu": "Bremeni Műcsarnok",
+            "ro": "Kunsthalle Bremen",
+            "en": "Kunsthalle Bremen"
+          },
+          "coords": [
+            8.817,
+            53.073
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Großartige Sammlung direkt am Radweg durch die Wallanlagen.",
+            "hu": "Nagyszerű gyűjtemény a parkon átvezető kerékpárút mellett.",
+            "ro": "Colecție grozavă direct pe pista de biciclete prin Wallanlagen.",
+            "en": "Great collection right on the bike path through the Wallanlagen."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ichon",
+            "hu": "Villa Ichon",
+            "ro": "Villa Ichon",
+            "en": "Villa Ichon"
+          },
+          "coords": [
+            8.8152,
+            53.0735
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein herrschaftliches Haus mit kulturellen Veranstaltungen.",
+            "hu": "Egy impozáns ház kulturális rendezvényekkel.",
+            "ro": "O casă impunătoare cu evenimente culturale.",
+            "en": "A grand house hosting various cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Sielwallfähre",
+            "hu": "Sielwall komp",
+            "ro": "Bac Sielwall",
+            "en": "Sielwall Ferry"
+          },
+          "coords": [
+            8.822,
+            53.071
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Fähre nimmt Fahrräder mit – genießen Sie den Weserradweg.",
+            "hu": "A komp szállít kerékpárt is – élvezze a Weser menti bicikliutat.",
+            "ro": "Bacul transportă și biciclete – bucurați-vă de pista de pe malul Weser.",
+            "en": "The ferry takes bicycles – enjoy the Weser bike path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bremen auf zwei Rädern. Die Tour beginnt am beeindruckenden Elefanten-Denkmal und führt durch die grünen Wallanlagen ins Viertel. Hier kombinieren Sie Kunstbesuche in der Kunsthalle mit dem entspannten Flair der Villa Ichon. Nachmittags nutzen Sie die Sielwallfähre, um auf die andere Weserseite zu gelangen und den weiten Blick auf den Fluss zu genießen. Eine perfekte Mischung aus urbanem Leben und grüner Erholung.",
+        "hu": "Fedezze fel Brémát két keréken. A túra a lenyűgöző Elefánt-emlékműnél kezdődik, és a zöld Wallanlagenen keresztül vezet a Viertelbe. Itt kombinálhatja a Műcsarnok látogatását a Villa Ichon nyugodt hangulatával. Délután használja a Sielwall kompot, hogy átjusson a Weser túloldalára, és élvezze a folyóra nyíló kilátást. A városi élet és a zöld kikapcsolódás tökéletes keveréke.",
+        "ro": "Descoperiți Bremen pe două roți. Turul începe la impresionantul monument Elefantul și duce prin parcurile Wallanlagen spre Viertel. Aici combinați vizitele la Kunsthalle cu farmecul relaxat al Vilei Ichon. După-amiaza, folosiți bacul Sielwall pentru a ajunge pe cealaltă parte a râului Weser și pentru a vă bucura de priveliștea largă asupra apei. Un mix perfect între viața urbană și recreere în natură.",
+        "en": "Explore Bremen on two wheels. The tour starts at the impressive Elephant Monument and leads through the green Wallanlagen into the Viertel. Here you combine art visits at the Kunsthalle with the relaxed flair of Villa Ichon. In the afternoon, use the Sielwall ferry to get to the other side of the Weser and enjoy the wide view of the river. A perfect mix of urban life and green relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kukoon",
+            "tip": "Vegetarisches Bistro mit viel Kultur im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kukoon",
+            "tip": "Vegetáriánus bisztró sok kultúrával a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kukoon",
+            "tip": "Bistro vegetarian cu multă cultură în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kukoon",
+            "tip": "Vegetarian bistro with lots of culture in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weserstrand",
+            "tip": "Kleiner Sandstrand am Café Sand, erreichbar mit der Fähre.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weserstrand",
+            "tip": "Kis homokos strand a Café Sand-nál, komppal elérhető.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weserstrand",
+            "tip": "Mică plajă cu nisip la Café Sand, accesibilă cu bacul.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Weserstrand",
+            "tip": "Small sandy beach at Café Sand, accessible by ferry.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradstation am Bahnhof",
+            "tip": "Bester Ort für Mieträder und Infos."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradstation a vasútállomásnál",
+            "tip": "A legjobb hely bérelhető biciklihez és infóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stația de biciclete de la gară",
+            "tip": "Cel mai bun loc pentru închirieri și informații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrradstation at the station",
+            "tip": "Best place for rental bikes and information."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weserradweg ist flach und sehr gut ausgebaut.",
+          "In der Sielwall-Kreuzung bitte absteigen – zu viele Fußgänger.",
+          "Nutzen Sie die Wallanlagen für eine ampelfreie Fahrt ins Zentrum.",
+          "Bremen ist eine der fahrradfreundlichsten Städte Deutschlands."
+        ],
+        "hu": [
+          "A Weser menti kerékpárút sík és nagyon jól kiépített.",
+          "A Sielwall-kereszteződésnél szálljon le – túl sok a gyalogos.",
+          "Használja a Wallanlagent a lámpamentes közlekedéshez a központ felé.",
+          "Bréma Németország egyik leginkább kerékpárosbarát városa."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Weser este plană și foarte bine amenajată.",
+          "La intersecția Sielwall vă rugăm să coborâți – sunt prea mulți pietoni.",
+          "Folosiți Wallanlagen pentru un drum fără semafoare spre centru.",
+          "Bremen este unul dintre cele mai prietenoase orașe cu bicicliștii din Germania."
+        ],
+        "en": [
+          "The Weser bike path is flat and very well maintained.",
+          "Please dismount at the Sielwall crossing – too many pedestrians.",
+          "Use the Wallanlagen for a traffic-light-free ride to the center.",
+          "Bremen is one of the most bicycle-friendly cities in Germany."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikolonialdenkmal (Elefant)",
+            "hu": "Antikoloniális emlékmű (Elefánt)",
+            "ro": "Monumentul Anticolonial (Elefantul)",
+            "en": "Anticolonial Monument (Elephant)"
+          },
+          "coords": [
+            8.813,
+            53.084
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie kurz am Nelson-Mandela-Park.",
+            "hu": "Parkoljon le rövid időre a Nelson-Mandela-Parknál.",
+            "ro": "Parcați scurt la Nelson-Mandela-Park.",
+            "en": "Park briefly at Nelson Mandela Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ichon",
+            "hu": "Villa Ichon",
+            "ro": "Villa Ichon",
+            "en": "Villa Ichon"
+          },
+          "coords": [
+            8.8152,
+            53.0735
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkhaus am Ostertor nutzen für den Tag.",
+            "hu": "Használja az Ostertor parkolóházat a napra.",
+            "ro": "Folosiți parcarea supraetajată de la Ostertor pentru zi.",
+            "en": "Use the Ostertor parking garage for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater am Goetheplatz",
+            "hu": "Goetheplatz Színház",
+            "ro": "Teatrul de pe Goetheplatz",
+            "en": "Theater am Goetheplatz"
+          },
+          "coords": [
+            8.8185,
+            53.0738
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Parkhaus.",
+            "hu": "Rövid séta a parkolóháztól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Bremen",
+            "hu": "Bremeni Műcsarnok",
+            "ro": "Kunsthalle Bremen",
+            "en": "Kunsthalle Bremen"
+          },
+          "coords": [
+            8.817,
+            53.073
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kulturelles Highlight in direkter Nachbarschaft.",
+            "hu": "Kulturális fénypont a közvetlen szomszédságban.",
+            "ro": "Punct culminant cultural în imediata vecinătate.",
+            "en": "Cultural highlight in the immediate neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostertorwache",
+            "hu": "Ostertorwache",
+            "ro": "Ostertorwache",
+            "en": "Ostertorwache"
+          },
+          "coords": [
+            8.8192,
+            53.0742
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Gebäude im Zentrum des Viertels.",
+            "hu": "Történelmi épület a negyed központjában.",
+            "ro": "Clădire istorică în centrul cartierului.",
+            "en": "Historic building in the center of the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Lagerhaus",
+            "hu": "Lagerhaus Kulturális Központ",
+            "ro": "Centrul Cultural Lagerhaus",
+            "en": "Kulturzentrum Lagerhaus"
+          },
+          "coords": [
+            8.823,
+            53.075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alternative Szene zu Fuß.",
+            "hu": "Fedezze fel az alternatív színteret gyalog.",
+            "ro": "Explorați scena alternativă la pas.",
+            "en": "Explore the alternative scene on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sielwallfähre",
+            "hu": "Sielwall komp",
+            "ro": "Bac Sielwall",
+            "en": "Sielwall Ferry"
+          },
+          "coords": [
+            8.822,
+            53.071
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie die Brise.",
+            "hu": "Hagyja az autót, és élvezze a szellőt.",
+            "ro": "Lăsați mașina și bucurați-vă de briză.",
+            "en": "Leave the car behind and enjoy the breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights rund um das Viertel. Nach einem Stopp am Elefanten-Denkmal parken Sie am besten im zentralen Parkhaus Ostertor. Von dort aus liegen alle wichtigen Sights wie die Kunsthalle, das Theater und die Villa Ichon in bequemer walking-Distanz. Innerhalb des Viertels ist Gehen die beste Wahl, da die Straßen eng und belebt sind. Am Nachmittag bietet die Sielwallfähre eine willkommene Abwechslung vom Stadtverkehr.",
+        "hu": "Autóval fedezheti fel a negyed környékének fénypontjait. Az Elefánt-emlékműnél tett megálló után a legjobb a központi Ostertor parkolóházban leparkolni. Onnan minden fontos látnivaló, mint a Műcsarnok, a színház és a Villa Ichon kényelmes sétatávolságra van. A negyeden belül a gyaloglás a legjobb választás, mivel az utcák szűkek és zsúfoltak. Délután a Sielwall komp kellemes felfrissülést nyújt a városi forgalom után.",
+        "ro": "Cu mașina explorați punctele de atracție din jurul Viertel. După o oprire la monumentul Elefantul, cel mai bine este să parcați în parcarea centrală Ostertor. De acolo, toate obiectivele importante precum Kunsthalle, teatrul și Villa Ichon sunt la o distanță confortabilă de mers pe jos. În interiorul cartierului, mersul pe jos este cea mai bună alegere, deoarece străzile sunt înguste și animate. După-amiaza, bacul Sielwall oferă o schimbare binevenită față de traficul urban.",
+        "en": "Explore the highlights around the Viertel by car. After a stop at the Elephant Monument, it's best to park in the central Ostertor parking garage. From there, all major sights like the Kunsthalle, the theater, and Villa Ichon are within easy walking distance. Within the district, walking is the best choice as the streets are narrow and busy. In the afternoon, the Sielwall ferry provides a welcome break from city traffic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pannekoekschip Admiral Nelson",
+            "tip": "Pfannkuchen auf einem Schiff an der Schlachte essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pannekoekschip Admiral Nelson",
+            "tip": "Palacsintázás egy hajón a Schlachte mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pannekoekschip Admiral Nelson",
+            "tip": "Mâncați clătite pe o navă la Schlachte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pannekoekschip Admiral Nelson",
+            "tip": "Eat pancakes on a ship at the Schlachte."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weserwehr",
+            "tip": "Beeindruckendes Bauwerk mit Aussicht auf den Fluss.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weserwehr",
+            "tip": "Lenyűgöző építmény kilátással a folyóra.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weserwehr",
+            "tip": "Construcție impresionantă cu vedere la râu.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Weserwehr",
+            "tip": "Impressive structure with a view of the river.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weserpark",
+            "tip": "Großes Einkaufszentrum am Stadtrand (mit dem Auto)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weserpark",
+            "tip": "Nagy bevásárlóközpont a város szélén (autóval)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weserpark",
+            "tip": "Centru comercial mare la marginea orașului (cu mașina)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weserpark",
+            "tip": "Large shopping mall on the outskirts (by car)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Viertel selbst ist parkplatzarm, Parkhäuser sind Pflicht.",
+          "Vermeiden Sie die Rushhour auf dem Rembertiring.",
+          "Sonntags ist das Parken oft einfacher.",
+          "Die engen Gassen im Viertel sind für große Autos ungeeignet."
+        ],
+        "hu": [
+          "A negyedben kevés a parkolóhely, a parkolóház kötelező.",
+          "Kerülje a csúcsforgalmat a Rembertiringen.",
+          "Vasárnap gyakran könnyebb a parkolás.",
+          "A negyed szűk utcái nem alkalmasak nagy autóknak."
+        ],
+        "ro": [
+          "Viertel în sine are puține locuri de parcare, parcările sunt obligatorii.",
+          "Evitați ora de vârf pe Rembertiring.",
+          "Duminica parcarea este adesea mai ușoară.",
+          "Străduțele înguste din Viertel sunt nepotrivite pentru mașini mari."
+        ],
+        "en": [
+          "The Viertel has very few parking spots; garages are a must.",
+          "Avoid rush hour on the Rembertiring.",
+          "Parking is often easier on Sundays.",
+          "The narrow alleys in the Viertel are unsuitable for large cars."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikolonialdenkmal (Elefant)",
+            "hu": "Antikoloniális emlékmű (Elefánt)",
+            "ro": "Monumentul Anticolonial (Elefantul)",
+            "en": "Anticolonial Monument (Elephant)"
+          },
+          "coords": [
+            8.813,
+            53.084
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof direkt zu Fuß erreichbar.",
+            "hu": "A főpályaudvartól közvetlenül gyalog elérhető.",
+            "ro": "Accesibil direct la pas de la gara centrală.",
+            "en": "Directly accessible on foot from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater am Goetheplatz",
+            "hu": "Goetheplatz Színház",
+            "ro": "Teatrul de pe Goetheplatz",
+            "en": "Theater am Goetheplatz"
+          },
+          "coords": [
+            8.8185,
+            53.0738
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tram Linie 2 oder 3 bis Haltestelle Theater am Goetheplatz.",
+            "hu": "2-es vagy 3-as villamos a Theater am Goetheplatz megállóig.",
+            "ro": "Tramvaiul linia 2 sau 3 până la stația Theater am Goetheplatz.",
+            "en": "Tram line 2 or 3 to Theater am Goetheplatz stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Bremen",
+            "hu": "Bremeni Műcsarnok",
+            "ro": "Kunsthalle Bremen",
+            "en": "Kunsthalle Bremen"
+          },
+          "coords": [
+            8.817,
+            53.073
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Theater gelegen.",
+            "hu": "Közvetlenül a színház mellett található.",
+            "ro": "Situat direct lângă teatru.",
+            "en": "Located directly next to the theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ichon",
+            "hu": "Villa Ichon",
+            "ro": "Villa Ichon",
+            "en": "Villa Ichon"
+          },
+          "coords": [
+            8.8152,
+            53.0735
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Wallanlagen.",
+            "hu": "Szép séta a parkon keresztül.",
+            "ro": "O plimbare frumoasă prin Wallanlagen.",
+            "en": "A lovely walk through the Wallanlagen park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostertorwache",
+            "hu": "Ostertorwache",
+            "ro": "Ostertorwache",
+            "en": "Ostertorwache"
+          },
+          "coords": [
+            8.8192,
+            53.0742
+          ],
+          "category": "museums",
+          "arrive_at": "12:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mitten im pulsierenden Ostertor-Viertel.",
+            "hu": "Az Ostertor negyed lüktető központjában.",
+            "ro": "În mijlocul vibrantului cartier Ostertor.",
+            "en": "In the middle of the vibrant Ostertor district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Lagerhaus",
+            "hu": "Lagerhaus Kulturális Központ",
+            "ro": "Centrul Cultural Lagerhaus",
+            "en": "Kulturzentrum Lagerhaus"
+          },
+          "coords": [
+            8.823,
+            53.075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:53",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur eine Station mit der Tram oder 10 Min zu Fuß.",
+            "hu": "Csak egy megálló villamossal vagy 10 perc gyalog.",
+            "ro": "Doar o stație cu tramvaiul sau 10 minute la pas.",
+            "en": "Just one stop with the tram or 10 min on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sielwallfähre",
+            "hu": "Sielwall komp",
+            "ro": "Bac Sielwall",
+            "en": "Sielwall Ferry"
+          },
+          "coords": [
+            8.822,
+            53.071
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie Ihre BSAG-Fahrkarte für die Fähre (meistens inkl.).",
+            "hu": "Használja a BSAG jegyét a komphoz (többnyire benne van).",
+            "ro": "Folosiți biletul BSAG pentru bac (de regulă este inclus).",
+            "en": "Use your BSAG ticket for the ferry (usually included)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Bremens exzellentes Tram-Netz für Ihren Tag im Viertel. Von Hauptbahnhof aus bringt Sie die Tram direkt ins Herz der Kulturmeile. Entdecken Sie die Museen und Villen am Vormittag. Den Nachmittag verbringen Sie entspannt im Steintor-Viertel, bevor Sie die Fähre zum Osterdeich nehmen. Mit dem Transit-Tag kombinieren Sie weite Wege mit gemütlichen walking-Clustern in den interessantesten Straßen der Stadt.",
+        "hu": "Használja Bréma kiváló villamoshálózatát a negyed felfedezéséhez. A főpályaudvartól a villamos közvetlenül a Kulturmeile szívébe viszi. Fedezze fel a múzeumokat és villákat délelőtt. A délutánt töltse lazán a Steintor negyedben, mielőtt kompra szállna az Osterdeich felé. A tömegközlekedés segítségével a nagyobb távolságokat kényelmes sétatúrákkal kombinálhatja a város legérdekesebb utcáiban.",
+        "ro": "Folosiți excelenta rețea de tramvaie din Bremen pentru ziua dumneavoastră în Viertel. De la gara centrală, tramvaiul vă duce direct în inima Kulturmeile. Descoperiți muzeele și vilele în cursul dimineții. Petreceți după-amiaza relaxat în cartierul Steintor, înainte de a lua bacul spre Osterdeich. Cu ziua de tranzit, combinați distanțele mari cu grupuri confortabile de mers pe jos în cele mai interesante străzi ale orașului.",
+        "en": "Use Bremen's excellent tram network for your day in the Viertel. From the main station, the tram takes you directly into the heart of the Kulturmeile. Discover museums and villas in the morning. Spend the afternoon relaxed in the Steintor district before taking the ferry to Osterdeich. With a transit day, you combine longer distances with cozy walking clusters in the city's most interesting streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katzencafé",
+            "tip": "Traditionsreiches Restaurant im Schnoor (nahebei)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katzencafé",
+            "tip": "Tradicionális étterem a közeli Schnoor negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Katzencafé",
+            "tip": "Restaurant cu tradiție în cartierul Schnoor (din apropiere)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Katzencafé",
+            "tip": "Traditional restaurant in the nearby Schnoor district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bürgerpark",
+            "tip": "Großer Stadtpark, mit der Tram gut erreichbar.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bürgerpark",
+            "tip": "Nagy városi park, villamossal könnyen elérhető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bürgerpark",
+            "tip": "Parc municipal mare, ușor accesibil cu tramvaiul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bürgerpark",
+            "tip": "Large city park, easily accessible by tram.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt auf dem Domshof",
+            "tip": "Zentraler Markt mit frischen Produkten (Tram Domshof)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Domshofon",
+            "tip": "Központi piac friss termékekkel (Domshof megálló)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Domshof",
+            "tip": "Piață centrală cu produse proaspete (tramvai Domshof)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market at Domshof",
+            "tip": "Central market with fresh products (Tram stop Domshof)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die BSAG.",
+          "Die Linien 2 und 3 sind die Hauptadern ins Viertel.",
+          "In Bremen ist die Tram oft schneller als das Auto.",
+          "Nutzen Sie die App 'FahrPlaner' für Echtzeit-Infos."
+        ],
+        "hu": [
+          "Vásároljon BSAG napijegyet.",
+          "A 2-es és 3-as vonalak a negyed fő ütőerei.",
+          "Brémában a villamos gyakran gyorsabb az autónál.",
+          "Használja a 'FahrPlaner' appot a valós idejű infókért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru BSAG.",
+          "Liniile 2 și 3 sunt principalele artere spre cartier.",
+          "În Bremen, tramvaiul este adesea mai rapid decât mașina.",
+          "Folosiți aplicația 'FahrPlaner' pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a BSAG day ticket.",
+          "Lines 2 and 3 are the main arteries to the Viertel.",
+          "In Bremen, the tram is often faster than the car.",
+          "Use the 'FahrPlaner' app for real-time information."
+        ]
+      }
+    }
+  }
+}

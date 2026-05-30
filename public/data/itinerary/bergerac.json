@@ -1,0 +1,1157 @@
+{
+  "city_id": "bergerac",
+  "anchor": {
+    "name": "Bergerac",
+    "coords": [
+      0.485,
+      44.851
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Bergerac",
+            "hu": "Bergerac óvárosa",
+            "ro": "Centrul vechi din Bergerac",
+            "en": "Old Bergerac"
+          },
+          "coords": [
+            0.484,
+            44.85
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkhäuser am frühen Morgen.",
+            "hu": "Csodálja meg a favázas házakat a reggeli fényben.",
+            "ro": "Admirați casele cu bârne de lemn în lumina dimineții.",
+            "en": "Admire the half-timbered houses in the early morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue de Cyrano de Bergerac",
+            "hu": "Cyrano de Bergerac szobra",
+            "ro": "Statuia lui Cyrano de Bergerac",
+            "en": "Statue of Cyrano de Bergerac"
+          },
+          "coords": [
+            0.484,
+            44.851
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das meistfotografierte Denkmal der Stadt.",
+            "hu": "A város legtöbbet fényképezett emlékműve.",
+            "ro": "Cel mai fotografiat monument din oraș.",
+            "en": "The most photographed monument in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Tabac (Maison Peyrarède)",
+            "hu": "Dohánymúzeum",
+            "ro": "Muzeul Tutunului",
+            "en": "Tobacco Museum"
+          },
+          "coords": [
+            0.483,
+            44.85
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einzigartiges Museum in einem Renaissance-Palast.",
+            "hu": "Egyedülálló múzeum egy reneszánsz palotában.",
+            "ro": "Muzeu unic într-un palat renascentist.",
+            "en": "Unique museum housed in a Renaissance palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloître des Récollets",
+            "hu": "Récollets kolostor",
+            "ro": "Mănăstirea Récollets",
+            "en": "Récollets Cloister"
+          },
+          "coords": [
+            0.483,
+            44.851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Maison des Vins im Inneren.",
+            "hu": "Látogasson el a belső Maison des Vins borházba.",
+            "ro": "Vizitați Maison des Vins din interior.",
+            "en": "Visit the Maison des Vins located inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            0.486,
+            44.852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur.",
+            "hu": "Csodálja meg a neogótikus építészetet.",
+            "ro": "Admirați arhitectura neogotică.",
+            "en": "Admire the neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Bergerac",
+            "hu": "Bergerac kikötője",
+            "ro": "Portul din Bergerac",
+            "en": "Port of Bergerac"
+          },
+          "coords": [
+            0.483,
+            44.849
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Gabares-Boote.",
+            "hu": "Figyelje meg a hagyományos Gabares hajókat.",
+            "ro": "Observați bărcile tradiționale Gabares.",
+            "en": "Watch the traditional Gabares boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai de la Salvette",
+            "hu": "Quai de la Salvette rakpart",
+            "ro": "Quai de la Salvette",
+            "en": "Quai de la Salvette"
+          },
+          "coords": [
+            0.484,
+            44.849
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Spaziergang an der Dordogne.",
+            "hu": "Tökéletes hely egy sétához a Dordogne partján.",
+            "ro": "Locul perfect pentru o plimbare pe malul râului Dordogne.",
+            "en": "Perfect spot for a stroll along the Dordogne."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Bergerac beginnt im Herzen der Altstadt, wo Fachwerkhäuser und die Statue des berühmten Cyrano eine romantische Atmosphäre schaffen. Am Vormittag erkunden Sie die Geschichte des Tabaks und entspannen im historischen Kreuzgang der Récollets. Nach einem regionalen Mittagessen bewundern Sie die Kirche Notre-Dame und beenden den Tag am malerischen Flussufer der Dordogne, während die Gabares-Boote sanft vorbeiziehen.",
+        "hu": "Bergeraci napja az óváros szívében indul, ahol a gerendavázas házak és a híres Cyrano szobra romantikus hangulatot áraszt. Délelőtt felfedezheti a dohánytörténeti múzeumot, majd megpihenhet a Récollets kolostor udvarán. Egy kiadós helyi ebéd után megcsodálhatja a Notre-Dame templomot, a napot pedig a Dordogne folyó partján, a hagyományos hajók látványa mellett zárhatja.",
+        "ro": "Ziua dumneavoastră în Bergerac începe în inima centrului vechi, unde casele medievale și statuia faimosului Cyrano creează o atmosferă romantică. Dimineața, explorați istoria tutunului și relaxați-vă în curtea mănăstirii Récollets. După un prânz tradițional, admirați biserica Notre-Dame și încheiați ziua pe malul pitoresc al râului Dordogne, privind bărcile tradiționale Gabares trecând agale.",
+        "en": "Your day in Bergerac begins in the heart of the old town, where timber-framed houses and the statue of the famous Cyrano set a romantic scene. In the morning, explore the unique tobacco museum and relax in the historic Récollets cloister. After a local lunch, admire the Notre-Dame church and finish your day at the scenic Dordogne riverbanks as the traditional Gabares boats drift slowly by."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confit de Canard",
+            "tip": "Enten-Confit ist die Spezialität des Périgord."
+          },
+          {
+            "name": "Bergerac-Weine",
+            "tip": "Probieren Sie den süßen Monbazillac in der Maison des Vins."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kacsasült (Confit)",
+            "tip": "A Périgord régió legfontosabb specialitása."
+          },
+          {
+            "name": "Bergeraci borok",
+            "tip": "Kóstolja meg az édes Monbazillacot a Maison des Vins-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confit de rață",
+            "tip": "Specialitatea de bază a regiunii Périgord."
+          },
+          {
+            "name": "Vinuri de Bergerac",
+            "tip": "Gustați vinul dulce Monbazillac la Maison des Vins."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duck Confit",
+            "tip": "The staple specialty of the Périgord region."
+          },
+          {
+            "name": "Bergerac Wines",
+            "tip": "Try the sweet Monbazillac at the Maison des Vins."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dordogne-Ufer",
+            "tip": "Ruhiger Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cloître des Récollets",
+            "tip": "Ein friedlicher Innenhof im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dordogne part",
+            "tip": "Csendes séta naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Récollets kolostor",
+            "tip": "Békés belső udvar a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Dordogne",
+            "tip": "O plimbare liniștită la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstirea Récollets",
+            "tip": "O curte interioară liniștită în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dordogne Banks",
+            "tip": "Quiet stroll at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Récollets Cloister",
+            "tip": "A peaceful inner courtyard in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Markthalle für Trüffel und Foie Gras."
+          },
+          {
+            "name": "Vieux Bergerac Kunsthandwerk",
+            "tip": "Lokale Souvenirs und Töpferwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Vásárcsarnok szarvasgomba és libamáj árusokkal."
+          },
+          {
+            "name": "Óvárosi kézművesek",
+            "tip": "Helyi szuvenírek és kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Piață acoperită pentru trufe și foie gras."
+          },
+          {
+            "name": "Artizani din centrul vechi",
+            "tip": "Suveniruri locale și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Covered market for truffles and foie gras."
+          },
+          {
+            "name": "Old Town Artisans",
+            "tip": "Local souvenirs and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist klein, bequeme Schuhe sind für das Kopfsteinpflaster dennoch wichtig.",
+          "Parken Sie Ihr Auto am Port de Bergerac, dort ist es oft einfacher.",
+          "Die Weinhäuser schließen oft über Mittag zwischen 12:30 und 14:00 Uhr.",
+          "Buchen Sie eine Gabares-Bootsfahrt im Voraus, besonders im Sommer."
+        ],
+        "hu": [
+          "Az óváros kicsi, de a macskakövek miatt kényelmes cipő javasolt.",
+          "A kikötőnél (Port de Bergerac) gyakran könnyebb parkolóhelyet találni.",
+          "A borüzletek gyakran bezárnak délben 12:30 és 14:00 között.",
+          "A Gabares hajóutat érdemes előre lefoglalni, főleg nyáron."
+        ],
+        "ro": [
+          "Centrul vechi este mic, dar pantofii confortabili sunt importanți pentru piatra cubică.",
+          "Parcați mașina în Port de Bergerac, este adesea mai ușor.",
+          "Magazinele de vinuri se închid adesea la prânz între 12:30 și 14:00.",
+          "Rezervați o plimbare cu Gabares în avans, mai ales vara."
+        ],
+        "en": [
+          "The old town is small, but comfortable shoes are key for the cobblestones.",
+          "Park your car at the Port de Bergerac, it is often easier.",
+          "Wine shops often close for lunch between 12:30 and 14:00.",
+          "Book a Gabares boat trip in advance, especially during summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Bergerac",
+            "hu": "Óváros",
+            "ro": "Centrul vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            0.484,
+            44.85
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Früher Start, bevor die Gassen voll werden.",
+            "hu": "Induljon korán, mielőtt a szűk utcák megtelnek.",
+            "ro": "Începeți devreme, înainte ca străzile să se aglomereze.",
+            "en": "Start early before the alleys get crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            0.486,
+            44.852
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze befinden sich am Place de la République.",
+            "hu": "Kerékpártárolók a Place de la République téren.",
+            "ro": "Parcare pentru biciclete în Place de la République.",
+            "en": "Bike parking is available at Place de la République."
+          }
+        },
+        {
+          "name": {
+            "de": "Piste Cyclable de la Dordogne",
+            "hu": "Dordogne kerékpárút",
+            "ro": "Pista de biciclete Dordogne",
+            "en": "Dordogne Cycle Path"
+          },
+          "coords": [
+            0.47,
+            44.845
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Flache und wunderschöne Strecke entlang des Flusses.",
+            "hu": "Lapos és gyönyörű szakasz a folyó mentén.",
+            "ro": "Traseu plat și superb de-a lungul râului.",
+            "en": "Flat and beautiful stretch along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Bergerac",
+            "hu": "Kikötő",
+            "ro": "Portul",
+            "en": "Port"
+          },
+          "coords": [
+            0.483,
+            44.849
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Idealer Ort für ein Mittagessen am Wasser.",
+            "hu": "Ideális hely egy vízparti ebédhez.",
+            "ro": "Loc ideal pentru prânzul la malul apei.",
+            "en": "Ideal spot for lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue de Cyrano",
+            "hu": "Cyrano szobra",
+            "ro": "Statuia lui Cyrano",
+            "en": "Cyrano Statue"
+          },
+          "coords": [
+            0.484,
+            44.851
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für ein Foto mit dem Helden.",
+            "hu": "Gyors fotómegálló a hős szobránál.",
+            "ro": "O scurtă oprire pentru o fotografie cu eroul.",
+            "en": "Quick photo stop with the hero."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai de la Salvette",
+            "hu": "Rakpart",
+            "ro": "Faleza",
+            "en": "Riverbank"
+          },
+          "coords": [
+            0.484,
+            44.849
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 95,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach der Fahrt im Gras.",
+            "hu": "Pihenjen meg a fűben a biciklizés után.",
+            "ro": "Relaxați-vă pe iarbă după plimbare.",
+            "en": "Relax on the grass after your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bergerac und seine grüne Umgebung mit dem Fahrrad. Nach einem kurzen Besuch im historischen Zentrum führt Sie die Route auf den ausgebauten Radweg entlang der Dordogne. Genießen Sie die frische Luft und die Aussicht auf den Fluss, bevor Sie zum Hafen zurückkehren, um die regionale Küche zu probieren und den Tag entspannt ausklingen zu lassen.",
+        "hu": "Fedezze fel Bergeracot és zöld környezetét kerékpáron. A történelmi központ rövid látogatása után az út a Dordogne menti kiépített kerékpárútra vezet. Élvezze a friss levegőt és a folyóra nyíló kilátást, mielőtt visszatérne a kikötőbe, hogy megkóstolja a helyi konyhát és pihentetően zárja a napot.",
+        "ro": "Descoperiți Bergerac și împrejurimile sale verzi cu bicicleta. După o scurtă vizită în centrul istoric, traseul vă duce pe pista de biciclete amenajată de-a lungul râului Dordogne. Bucurați-vă de aerul curat și de priveliștile asupra râului înainte de a reveni în port pentru a gusta bucătăria locală.",
+        "en": "Explore Bergerac and its green surroundings by bike. After a quick visit to the historical center, the route takes you onto the dedicated cycle path along the Dordogne river. Enjoy the fresh air and river views before returning to the port to taste the regional cuisine and end the day in a relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tourtière",
+            "tip": "Apfelkuchen mit hauchdünnem Teig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourtière",
+            "tip": "Almás pite hajszálvékony tésztával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tourtière",
+            "tip": "Plăcintă cu mere cu aluat foarte subțire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourtière",
+            "tip": "Apple tart with paper-thin pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dordogne-Weg",
+            "tip": "Abgelegene Plätze am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dordogne-ösvény",
+            "tip": "Elszigetelt helyek a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca Dordogne",
+            "tip": "Locuri izolate lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dordogne Path",
+            "tip": "Secluded spots along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vignobles de Bergerac",
+            "tip": "Kaufen Sie Wein direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vignobles de Bergerac",
+            "tip": "Vásároljon bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vignobles de Bergerac",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vignobles de Bergerac",
+            "tip": "Buy wine directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes, wenn Sie die umliegenden Hügel erkunden möchten.",
+          "Tragen Sie einen Helm, da einige Abschnitte im Stadtzentrum Autoverkehr haben."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot, ha a környékbeli dombokat is felfedezné.",
+          "Viseljen sisakot, mert a városközpontban néhol van autóforgalom."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice dacă doriți să explorați dealurile din jur.",
+          "Purtați cască, deoarece unele secțiuni din centru au trafic auto."
+        ],
+        "en": [
+          "Rent e-bikes if you plan to explore the surrounding hills.",
+          "Wear a helmet as some sections in the city center share space with cars."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Bergerac (Cluster A)",
+            "hu": "Bergerac óvárosa",
+            "ro": "Centrul vechi",
+            "en": "Old Bergerac"
+          },
+          "coords": [
+            0.484,
+            44.85
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Quai.",
+            "hu": "Parkoljon a rakparti parkolóban.",
+            "ro": "Parcați în parcarea de pe faleză.",
+            "en": "Park in the riverside parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue de Cyrano (Cluster A)",
+            "hu": "Cyrano szobra",
+            "ro": "Statuia lui Cyrano",
+            "en": "Cyrano Statue"
+          },
+          "coords": [
+            0.484,
+            44.851
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Tabac (Cluster A)",
+            "hu": "Dohánymúzeum",
+            "ro": "Muzeul Tutunului",
+            "en": "Tobacco Museum"
+          },
+          "coords": [
+            0.483,
+            44.85
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "A történelemkedvelőknek kötelező látnivaló.",
+            "ro": "Obligatoriu pentru iubitorii de istorie.",
+            "en": "A must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Monbazillac (Cluster B)",
+            "hu": "Monbazillac kastély",
+            "ro": "Castelul Monbazillac",
+            "en": "Chateau de Monbazillac"
+          },
+          "coords": [
+            0.493,
+            44.795
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht auf das Tal der Dordogne.",
+            "hu": "Látványos kilátás a Dordogne völgyére.",
+            "ro": "Vedere spectaculoasă asupra văii Dordogne.",
+            "en": "Spectacular views over the Dordogne valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinprobe Monbazillac (Cluster B)",
+            "hu": "Monbazillac borkóstoló",
+            "ro": "Degustare Monbazillac",
+            "en": "Monbazillac Tasting"
+          },
+          "coords": [
+            0.495,
+            44.793
+          ],
+          "category": "agriculture",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten edelsüßen Wein.",
+            "hu": "Kóstolja meg a híres természetes édes bort.",
+            "ro": "Gustați faimosul vin dulce licoros.",
+            "en": "Taste the famous naturally sweet wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Bergerac (Cluster C)",
+            "hu": "Bergeraci kikötő",
+            "ro": "Portul Bergerac",
+            "en": "Port of Bergerac"
+          },
+          "coords": [
+            0.483,
+            44.849
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Zurück in der Stadt für eine Bootsfahrt.",
+            "hu": "Vissza a városba egy hajókirándulásra.",
+            "ro": "Înapoi în oraș pentru o croazieră.",
+            "en": "Back in town for a boat cruise."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai de la Salvette (Cluster C)",
+            "hu": "Rakpart",
+            "ro": "Faleza",
+            "en": "Quayside"
+          },
+          "coords": [
+            0.484,
+            44.849
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abendspaziergang am Wasser.",
+            "hu": "Esti séta a vízparton.",
+            "ro": "Plimbare de seară pe malul apei.",
+            "en": "Evening walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Peyrarède (Cluster C)",
+            "hu": "Peyrarède ház",
+            "ro": "Maison Peyrarède",
+            "en": "Peyrarède House"
+          },
+          "coords": [
+            0.483,
+            44.85
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Renaissance-Fassade.",
+            "hu": "Utolsó pillantás a reneszánsz homlokzatra.",
+            "ro": "Ultima privire asupra fațadei renascentiste.",
+            "en": "Final look at the Renaissance facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das historische Bergerac mit einem Ausflug in die Weinberge. Der Vormittag gehört der Altstadt und dem Tabakmuseum. Mittags fahren Sie zum prächtigen Château de Monbazillac, um die Aussicht und den berühmten Dessertwein zu genießen. Am Nachmittag kehren Sie zum Hafen von Bergerac zurück, um die maritime Atmosphäre der Dordogne aufzusaugen.",
+        "hu": "Autóval kombinálhatja a történelmi Bergeracot egy szőlőültetvények közötti kirándulással. A délelőtt az óvárosé és a dohánytörténeti múzeumé. Délben a pompás Monbazillac kastélyhoz vezet az út, ahol a kilátás és a híres desszertbor várja. Délután térjen vissza a bergeraci kikötőbe, hogy magába szívja a Dordogne folyó hangulatát.",
+        "ro": "Cu mașina, combinați istoria orașului Bergerac cu o excursie în podgorii. Dimineața aparține centrului vechi și muzeului tutunului. La prânz, conduceți către magnificul Castel Monbazillac pentru a vă bucura de priveliște și de faimosul vin de desert. După-amiaza, reveniți în portul Bergerac pentru a absorbi atmosfera fluvială a râului Dordogne.",
+        "en": "By car, you can combine historic Bergerac with a trip into the vineyards. The morning is dedicated to the old town and the tobacco museum. At noon, drive to the magnificent Chateau de Monbazillac to enjoy the views and the famous dessert wine. In the afternoon, return to the port of Bergerac to soak up the maritime atmosphere of the Dordogne."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Magret de Canard",
+            "tip": "Entenbrust, perfekt mit einem Glas Bergerac Rouge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kacsasült (Magret)",
+            "tip": "Kacsamell, tökéletes egy pohár Bergerac Rouge-zsal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magret de rață",
+            "tip": "Piept de rață, perfect cu un pahar de Bergerac Rouge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duck Magret",
+            "tip": "Duck breast, perfect with a glass of Bergerac Rouge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten Monbazillac",
+            "tip": "Stille zwischen den Reben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monbazillac kastélykert",
+            "tip": "Csend a tőkék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Monbazillac",
+            "tip": "Liniște printre vii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monbazillac Castle Gardens",
+            "tip": "Quiet among the vines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffelöl",
+            "tip": "Ein edles Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgombaolaj",
+            "tip": "Nemes szuvenír a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de trufe",
+            "tip": "Un suvenir nobil din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Oil",
+            "tip": "A noble souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Promillegrenze bei Weinproben.",
+          "Parken in Monbazillac ist meist kostenlos."
+        ],
+        "hu": [
+          "Vigyázzon az alkoholhatárra a borkóstolók során.",
+          "Monbazillacban a parkolás általában ingyenes."
+        ],
+        "ro": [
+          "Atenție la limita de alcoolemie în timpul degustărilor.",
+          "Parcarea în Monbazillac este de obicei gratuită."
+        ],
+        "en": [
+          "Be careful with alcohol limits during wine tastings.",
+          "Parking in Monbazillac is usually free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Bergerac",
+            "hu": "Bergerac vasútállomás",
+            "ro": "Gara Bergerac",
+            "en": "Bergerac Station"
+          },
+          "coords": [
+            0.49,
+            44.858
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Züge aus Bordeaux.",
+            "hu": "Indulópont a Bordeaux-ból érkező vonatoknak.",
+            "ro": "Punct de plecare pentru trenurile din Bordeaux.",
+            "en": "Starting point for trains from Bordeaux."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Bergerac",
+            "hu": "Óváros",
+            "ro": "Centrul vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            0.484,
+            44.85
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus ins Zentrum.",
+            "hu": "Szálljon fel a helyi buszra a központ felé.",
+            "ro": "Luați autobuzul local spre centru.",
+            "en": "Take the local bus to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue de Cyrano",
+            "hu": "Cyrano szobra",
+            "ro": "Statuia lui Cyrano",
+            "en": "Cyrano Statue"
+          },
+          "coords": [
+            0.484,
+            44.851
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Zentrum erreichbar.",
+            "hu": "Gyalogosan elérhető a központból.",
+            "ro": "Accesibil pe jos din centru.",
+            "en": "Accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloître des Récollets",
+            "hu": "Récollets kolostor",
+            "ro": "Mănăstirea Récollets",
+            "en": "Récollets Cloister"
+          },
+          "coords": [
+            0.483,
+            44.851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier befindet sich das Tourismusbüro.",
+            "hu": "Itt található a turisztikai iroda.",
+            "ro": "Biroul de turism se află aici.",
+            "en": "The tourist office is located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Bergerac",
+            "hu": "Bergeraci kikötő",
+            "ro": "Portul Bergerac",
+            "en": "Port of Bergerac"
+          },
+          "coords": [
+            0.483,
+            44.849
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Ort für das Mittagessen.",
+            "hu": "Központi hely az ebédhez.",
+            "ro": "Loc central pentru prânz.",
+            "en": "Central spot for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai de la Salvette",
+            "hu": "Rakpart",
+            "ro": "Faleza",
+            "en": "Riverbank"
+          },
+          "coords": [
+            0.484,
+            44.849
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich vor der Rückreise.",
+            "hu": "Pihenjen meg a visszautazás előtt.",
+            "ro": "Relaxați-vă înainte de plecare.",
+            "en": "Relax before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Nahverkehr, um Bergerac stressfrei zu erleben. Vom Bahnhof bringt Sie ein kurzer Busweg direkt ins historische Herz der Stadt. Spazieren Sie zwischen den Sehenswürdigkeiten der Altstadt und genießen Sie die maritime Stimmung am Hafen, bevor Sie am späten Nachmittag bequem mit dem Zug oder Bus die Rückreise antreten.",
+        "hu": "Használja a tömegközlekedést, hogy stresszmentesen élje át Bergeracot. A vasútállomástól rövid buszút vezet a város történelmi szívébe. Sétáljon az óváros látnivalói között, élvezze a kikötő hangulatát, majd késő délután kényelmesen utazzon vissza vonattal vagy busszal.",
+        "ro": "Utilizați transportul public pentru a experimenta Bergerac fără stres. De la gară, un scurt drum cu autobuzul vă duce direct în inima istorică a orașului. Plimbați-vă printre obiectivele din centrul vechi și bucurați-vă de atmosfera portului înainte de a pleca spre casă cu trenul sau autobuzul.",
+        "en": "Use public transport to experience Bergerac stress-free. From the train station, a short bus ride takes you straight to the historic heart of the city. Stroll between the sights of the old town and enjoy the maritime vibes at the port before heading back conveniently by train or bus in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pommes Sarladaises",
+            "tip": "In Entenfett gebratene Kartoffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pommes Sarladaises",
+            "tip": "Kacsazsírban sült burgonya."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pommes Sarladaises",
+            "tip": "Cartofi prăjiți în grăsime de rață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pommes Sarladaises",
+            "tip": "Potatoes sautéed in duck fat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Quai de la Salvette",
+            "tip": "Ruhiges Sitzen am Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai de la Salvette padok",
+            "tip": "Csendes pihenés a folyónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile de pe Quai de la Salvette",
+            "tip": "Relaxare lângă râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quai de la Salvette benches",
+            "tip": "Quiet sitting by the river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place Gambetta",
+            "tip": "Lokale Geschäfte und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Gambetta",
+            "tip": "Helyi üzletek és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place Gambetta",
+            "tip": "Magazine locale și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Gambetta",
+            "tip": "Local shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne der CAB (Communauté d'Agglomération Bergeracoise).",
+          "Fahrkarten können direkt beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "Ellenőrizze a CAB helyi buszjáratok menetrendjét.",
+          "Jegyeket közvetlenül a sofőrnél lehet vásárolni."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor locale CAB.",
+          "Biletele pot fi cumpărate direct de la șofer."
+        ],
+        "en": [
+          "Check the local bus schedules of the CAB service.",
+          "Tickets can be purchased directly from the driver."
+        ]
+      }
+    }
+  }
+}

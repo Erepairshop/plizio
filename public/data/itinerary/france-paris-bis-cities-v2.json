@@ -1,0 +1,1050 @@
+{
+  "city_id": "france-paris-bis-cities-v2",
+  "anchor": {
+    "name": "Paris-Nord / Montmartre",
+    "coords": [
+      2.36,
+      48.88
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Sacré-Cœur",
+            "hu": "Szent Szív-bazilika",
+            "ro": "Basilica Sacré-Cœur",
+            "en": "Sacré-Cœur Basilica"
+          },
+          "coords": [
+            2.3431,
+            48.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kommen Sie vor 09:30 Uhr an, um den Touristenmassen am Eingang zu entgehen.",
+            "hu": "Érkezz 9:30 előtt, hogy elkerüld a lépcsőknél feltorlódó tömeget.",
+            "ro": "Veniți înainte de 09:30 pentru a evita aglomerația de la intrare.",
+            "en": "Arrive before 09:30 to avoid the heavy tourist crowds at the steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Tertre",
+            "hu": "Place du Tertre",
+            "ro": "Place du Tertre",
+            "en": "Place du Tertre"
+          },
+          "coords": [
+            2.3408,
+            48.8865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Karikaturisten, aber verhandeln Sie den Preis vorher.",
+            "hu": "Figyeld a karikaturistákat, de az árban mindig előre egyezz meg.",
+            "ro": "Observați caricaturiștii, dar negociați prețul în prealabil.",
+            "en": "Watch the caricaturists, but always negotiate the price beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Montmartre",
+            "hu": "Montmartre Múzeum",
+            "ro": "Muzeul Montmartre",
+            "en": "Montmartre Museum"
+          },
+          "coords": [
+            2.3405,
+            48.889
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Renoir-Gärten bieten einen der ruhigsten Ausblicke über die Weinberge.",
+            "hu": "A Renoir-kertből nyílik a legnyugodtabb kilátás a közeli szőlőskertre.",
+            "ro": "Grădinile Renoir oferă una dintre cele mai liniștite vederi spre podgorii.",
+            "en": "The Renoir Gardens offer one of the quietest views over the vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Léandre",
+            "hu": "Villa Léandre",
+            "ro": "Villa Léandre",
+            "en": "Villa Léandre"
+          },
+          "coords": [
+            2.3365,
+            48.8885
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese Sackgasse im englischen Stil ist perfekt für ruhige Fotos.",
+            "hu": "Ez az angol stílusú zsákutca tökéletes helyszín a csendes fotózáshoz.",
+            "ro": "Această fundătură în stil englezesc este perfectă pentru fotografii liniștite.",
+            "en": "This English-style cul-de-sac is perfect for quiet photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de la Galette",
+            "hu": "Moulin de la Galette",
+            "ro": "Moulin de la Galette",
+            "en": "Moulin de la Galette"
+          },
+          "coords": [
+            2.3362,
+            48.8877
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie hier ein Mittagessen direkt unter der historischen Windmühle.",
+            "hu": "Ebédelj közvetlenül a történelmi szélmalom lábánál.",
+            "ro": "Savurați prânzul chiar sub moara de vânt istorică.",
+            "en": "Enjoy lunch right under the historical windmill."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Passe-Muraille",
+            "hu": "A falonjáró szobra",
+            "ro": "Statuia Passe-Muraille",
+            "en": "Le Passe-Muraille Statue"
+          },
+          "coords": [
+            2.3385,
+            48.8888
+          ],
+          "category": "monument",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Berühren Sie die Hand der Statue für viel Glück auf Ihrer Reise.",
+            "hu": "Érintsd meg a szobor kezét, a helyi legenda szerint szerencsét hoz.",
+            "ro": "Atingeți mâna statuii pentru noroc în călătoria dumneavoastră.",
+            "en": "Touch the hand of the statue for good luck on your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Spaziergang führt Sie durch das Herz von Montmartre. Wir beginnen am Morgen bei der Basilika Sacré-Cœur, bevor die großen Busgruppen eintreffen. Über den künstlerischen Place du Tertre erreichen wir das Musée de Montmartre, das tief in die Bohème-Geschichte eintaucht. Nach einem kurzen Stopp in der versteckten Villa Léandre lassen wir den Nachmittag bei einem gemütlichen Essen an der Moulin de la Galette ausklingen.",
+        "hu": "Ez a séta a Montmartre szívébe kalauzol. Reggel a Sacré-Cœur bazilikánál kezdünk, mielőtt a nagy turistabuszok megérkeznének. A művészi Place du Tertre-en keresztül jutunk el a Montmartre Múzeumba, ahol megismerhetjük a bohém negyed múltját. A rejtett Villa Léandre megtekintése után a délutánt egy kényelmes ebéddel zárjuk a Moulin de la Galette szélmalom árnyékában.",
+        "ro": "Această plimbare vă poartă prin inima cartierului Montmartre. Începem dimineața la Basilica Sacré-Cœur, înainte de sosirea grupurilor mari de turiști. Prin piața artistică Place du Tertre ajungem la Muzeul Montmartre, care explorează istoria boemă a zonei. După o scurtă oprire la Villa Léandre, încheiem după-amiaza cu un prânz relaxat la Moulin de la Galette.",
+        "en": "This walk takes you through the heart of Montmartre. We begin in the morning at the Sacré-Cœur Basilica before the large tour buses arrive. Through the artistic Place du Tertre, we reach the Musée de Montmartre to dive into bohemian history. After a short stop at the hidden Villa Léandre, we finish the afternoon with a cozy lunch at the Moulin de la Galette windmill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Moulin de la Galette",
+            "tip": "Klassische französische Küche in einer historischen Mühle."
+          },
+          {
+            "name": "Boulangerie Boris Lumé",
+            "tip": "Hervorragendes Baguette und Gebäck in einem denkmalgeschützten Laden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Moulin de la Galette",
+            "tip": "Klasszikus francia konyha egy történelmi malomépületben."
+          },
+          {
+            "name": "Boulangerie Boris Lumé",
+            "tip": "Kiváló baguette és sütemények egy műemléki védettségű pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Moulin de la Galette",
+            "tip": "Bucătărie franceză clasică într-o moară istorică."
+          },
+          {
+            "name": "Boulangerie Boris Lumé",
+            "tip": "Baghete și produse de patiserie excelente într-un magazin de patrimoniu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Moulin de la Galette",
+            "tip": "Classic French cuisine inside a historical windmill building."
+          },
+          {
+            "name": "Boulangerie Boris Lumé",
+            "tip": "Excellent baguettes and pastries in a listed heritage shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins Renoir",
+            "tip": "Ruhige Gärten mit Blick auf den Weinberg von Montmartre.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Villa Léandre",
+            "tip": "Eine Oase der Stille abseits der Touristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins Renoir",
+            "tip": "Csendes kertek kilátással a Montmartre szőlőskertjére.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Villa Léandre",
+            "tip": "A béke szigete a turistaáradattól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins Renoir",
+            "tip": "Grădini liniștite cu vedere spre podgoria Montmartre.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Villa Léandre",
+            "tip": "O oază de liniște departe de fluxurile de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins Renoir",
+            "tip": "Quiet gardens with a view of the Montmartre vineyard.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Villa Léandre",
+            "tip": "An oasis of silence away from the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place du Tertre",
+            "tip": "Lokale Kunst und Porträts direkt vom Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place du Tertre",
+            "tip": "Helyi képzőművészeti alkotások közvetlenül a festőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place du Tertre",
+            "tip": "Artă locală și portrete direct de la artiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place du Tertre",
+            "tip": "Local art and portraits directly from the artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Kopfsteinpflasterstraßen steil sind.",
+          "Nutzen Sie die kleinen Gassen hinter der Basilika für bessere Fotos.",
+          "Achten Sie auf Taschendiebe in der Nähe der Sacré-Cœur-Treppen.",
+          "Die Touristen-Bimmelbahn ist teuer, laufen lohnt sich mehr."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert a macskaköves utcák meredekek.",
+          "Használd a bazilika mögötti kis utcákat a jobb fotókért.",
+          "Vigyázz a zsebtolvajokra a Sacré-Cœur lépcsőinek környékén.",
+          "A kis turistavonat drága, gyalogosan sokkal hangulatosabb."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece străzile cu piatră cubică sunt abrupte.",
+          "Folosiți străduțele din spatele basilicii pentru fotografii mai bune.",
+          "Atenție la hoții de buzunare lângă scările Sacré-Cœur.",
+          "Trenulețul turistic este scump, mersul pe jos merită mai mult."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets are steep.",
+          "Use the small alleys behind the Basilica for better photo ops.",
+          "Watch out for pickpockets near the Sacré-Cœur steps.",
+          "The tourist train is expensive; walking is much more rewarding."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Sacré-Cœur",
+            "hu": "Szent Szív-bazilika",
+            "ro": "Basilica Sacré-Cœur",
+            "en": "Sacré-Cœur Basilica"
+          },
+          "coords": [
+            2.3431,
+            48.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Fuß des Hügels, um den steilen Aufstieg zu Fuß zu machen.",
+            "hu": "Hagyd a biciklit a domb alján, a meredek utolsó szakaszt tedd meg gyalog.",
+            "ro": "Parcați bicicleta la baza dealului pentru a face urcarea abruptă pe jos.",
+            "en": "Park your bike at the foot of the hill for the steep final climb on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Léandre",
+            "hu": "Villa Léandre",
+            "ro": "Villa Léandre",
+            "en": "Villa Léandre"
+          },
+          "coords": [
+            2.3365,
+            48.8885
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster in diesem Viertel.",
+            "hu": "Vezess óvatosan a macskaköveken ebben a negyedben.",
+            "ro": "Conduceți cu atenție pe piatra cubică din acest cartier.",
+            "en": "Ride carefully on the cobblestones in this district."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal Saint-Martin (Nord)",
+            "hu": "Canal Saint-Martin (észak)",
+            "ro": "Canal Saint-Martin (Nord)",
+            "en": "Canal Saint-Martin (North)"
+          },
+          "coords": [
+            2.363,
+            48.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Radweg entlang des Kanals ist flach und sehr angenehm zu fahren.",
+            "hu": "A csatorna menti kerékpárút sík és nagyon kellemes szakasz.",
+            "ro": "Pista de biciclete de-a lungul canalului este plană și foarte plăcută.",
+            "en": "The bike path along the canal is flat and very pleasant to ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Buttes-Chaumont",
+            "hu": "Buttes-Chaumont park",
+            "ro": "Parcul Buttes-Chaumont",
+            "en": "Parc des Buttes-Chaumont"
+          },
+          "coords": [
+            2.382,
+            48.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Picknick am See ist der perfekte Abschluss der Radtour.",
+            "hu": "Egy piknik a tóparton a tökéletes lezárása a biciklis túrának.",
+            "ro": "Un picnic lângă lac este încheierea perfectă a turului cu bicicleta.",
+            "en": "A picnic by the lake is the perfect ending to the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosa Bonheur",
+            "hu": "Rosa Bonheur",
+            "ro": "Rosa Bonheur",
+            "en": "Rosa Bonheur"
+          },
+          "coords": [
+            2.383,
+            48.881
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beliebter Treffpunkt im Park für Erfrischungen und Musik.",
+            "hu": "Népszerű találkozóhely a parkban frissítőkhöz és zenéhez.",
+            "ro": "Loc de întâlnire popular în parc pentru băuturi și muzică.",
+            "en": "Popular meeting spot in the park for refreshments and music."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet die Höhen von Montmartre mit den entspannten Wasserwegen des Nordostens. Wir starten sportlich bei der Sacré-Cœur und fahren dann hinunter zur malerischen Villa Léandre. Danach genießen wir die flache Strecke entlang des Canal Saint-Martin, bevor wir die Hügel des Parc des Buttes-Chaumont erkunden, wo wir den Tag entspannt ausklingen lassen.",
+        "hu": "Ez a biciklitúra összeköti a Montmartre magaslatait az északkeleti rész nyugodt vízi útjaival. Sportosan kezdünk a Sacré-Cœur-nél, majd legurulunk a festői Villa Léandre-hoz. Ezután élvezzük a sík terepet a Canal Saint-Martin mentén, végül pedig felfedezzük a Buttes-Chaumont park dombjait, ahol pihenéssel zárjuk a napot.",
+        "ro": "Acest tur cu bicicleta conectează înălțimile Montmartre cu căile navigabile relaxate din nord-est. Începem sportiv la Sacré-Cœur și coborâm spre pitoreasca Villa Léandre. Apoi ne bucurăm de traseul plan de-a lungul Canalului Saint-Martin, înainte de a explora dealurile Parcului Buttes-Chaumont.",
+        "en": "This bike tour connects the heights of Montmartre with the relaxed waterways of the Northeast. We start energetically at Sacré-Cœur and ride down to the picturesque Villa Léandre. Then, we enjoy the flat route along Canal Saint-Martin before exploring the hills of Parc des Buttes-Chaumont for a relaxed finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rosa Bonheur",
+            "tip": "Tapas und Rosé in einer entspannten Guinguette-Atmosphäre im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosa Bonheur",
+            "tip": "Tapas és rosé egy lazulós kerti bárban a park közepén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rosa Bonheur",
+            "tip": "Tapas și rosé într-o atmosferă relaxată de grădină în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rosa Bonheur",
+            "tip": "Tapas and rosé in a relaxed outdoor bar atmosphere inside the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Temple de la Sybille",
+            "tip": "Ein Tempel auf einer Insel im Buttes-Chaumont mit tollem Panorama.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temple de la Sybille",
+            "tip": "Sziklaszigeten álló templom a parkban, remek panorámával.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Temple de la Sybille",
+            "tip": "Un templu pe o insulă în Buttes-Chaumont cu o panoramă excelentă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Temple de la Sybille",
+            "tip": "A temple on a rocky island in the park with a great panorama.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velib Stationen",
+            "tip": "Überall im Viertel gibt es Leihfahrräder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velib állomások",
+            "tip": "A negyedben mindenhol találsz bérelhető kerékpárokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații Velib",
+            "tip": "Biciclete de închiriat sunt disponibile peste tot în cartier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velib Stations",
+            "tip": "Rental bikes are available everywhere in the district."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Velib-Leihräder, sie sind günstig und praktisch.",
+          "Vermeiden Sie die Hauptverkehrsstraßen, nutzen Sie Nebenstraßen.",
+          "Schließen Sie Ihr Fahrrad immer gut an massiven Bügeln ab.",
+          "Im Parc des Buttes-Chaumont müssen Sie auf den Wegen bleiben."
+        ],
+        "hu": [
+          "Használd a Velib közösségi bicikliket, olcsók és praktikusak.",
+          "Kerüld a főutakat, válassz inkább mellékutcákat.",
+          "Mindig gondosan zárd le a biciklit stabil tárolókhoz.",
+          "A Buttes-Chaumont parkban kötelező a kijelölt utakon maradni."
+        ],
+        "ro": [
+          "Folosiți bicicletele Velib, sunt ieftine și practice.",
+          "Evitați drumurile principale, folosiți străzile secundare.",
+          "Încuiați întotdeauna bicicleta de suporturi solide.",
+          "În Parcul Buttes-Chaumont trebuie să rămâneți pe alei."
+        ],
+        "en": [
+          "Use Velib rental bikes; they are cheap and practical.",
+          "Avoid main roads and prefer side streets for safety.",
+          "Always lock your bike securely to solid structures.",
+          "In Parc des Buttes-Chaumont, you must stay on the designated paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Sacré-Cœur",
+            "hu": "Szent Szív-bazilika",
+            "ro": "Basilica Sacré-Cœur",
+            "en": "Sacré-Cœur Basilica"
+          },
+          "coords": [
+            2.3431,
+            48.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Square d'Anvers, Parken auf dem Hügel ist fast unmöglich.",
+            "hu": "Használd a Square d'Anvers parkolóházat, a dombon szinte lehetetlen parkolni.",
+            "ro": "Folosiți parcarea de la Square d'Anvers, parcarea pe deal este aproape imposibilă.",
+            "en": "Use the Square d'Anvers parking garage; parking on the hill is nearly impossible."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Tertre",
+            "hu": "Place du Tertre",
+            "ro": "Place du Tertre",
+            "en": "Place du Tertre"
+          },
+          "coords": [
+            2.3408,
+            48.8865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkhaus aus führt Sie hierher.",
+            "hu": "Egy rövid séta a parkolótól, és már itt is vagy.",
+            "ro": "O scurtă plimbare de la parcare vă aduce aici.",
+            "en": "A short walk from the parking area brings you here."
+          }
+        },
+        {
+          "name": {
+            "de": "Flohmarkt von Saint-Ouen",
+            "hu": "Saint-Ouen bolhapiac",
+            "ro": "Piața de vechituri Saint-Ouen",
+            "en": "Saint-Ouen Flea Market"
+          },
+          "coords": [
+            2.3425,
+            48.903
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "ACHTUNG: Nur Sa-Mo geöffnet. Parken Sie in den bewachten Parkhäusern der Märkte.",
+            "hu": "FIGYELEM: Csak szo-hé nyitva. Használd a piacok őrzött parkolóit.",
+            "ro": "ATENȚIE: Deschis doar sâmbătă-luni. Parcați în parcările păzite ale piețelor.",
+            "en": "NOTE: Only open Sat-Mon. Use the guarded parking lots of the markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Comptoir des Puces",
+            "hu": "Le Comptoir des Puces",
+            "ro": "Le Comptoir des Puces",
+            "en": "Le Comptoir des Puces"
+          },
+          "coords": [
+            2.343,
+            48.904
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Authentisches Bistro-Erlebnis direkt im Herzen des Flohmarkts.",
+            "hu": "Eredeti bisztró élmény a bolhapiac szívében.",
+            "ro": "Experiență autentică de bistro chiar în inima pieței de vechituri.",
+            "en": "Authentic bistro experience right in the heart of the flea market."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Buttes-Chaumont",
+            "hu": "Buttes-Chaumont park",
+            "ro": "Parcul Buttes-Chaumont",
+            "en": "Parc des Buttes-Chaumont"
+          },
+          "coords": [
+            2.382,
+            48.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Eingangs Mairie du 19e.",
+            "hu": "Parkolj a Mairie du 19e bejárat közelében.",
+            "ro": "Parcați lângă intrarea Mairie du 19e.",
+            "en": "Park near the Mairie du 19e entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon Puebla",
+            "hu": "Pavillon Puebla",
+            "ro": "Pavillon Puebla",
+            "en": "Pavillon Puebla"
+          },
+          "coords": [
+            2.384,
+            48.882
+          ],
+          "category": "gastro",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel im Grünen für einen abschließenden Drink.",
+            "hu": "Rejtett gyöngyszem a zöldben egy záró italhoz.",
+            "ro": "O bijuterie ascunsă în verdeață pentru o băutură de final.",
+            "en": "A hidden gem in the greenery for a final drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt den Wagen, um zwei große Cluster im Norden zu verbinden. Zuerst erkunden wir Montmartre (Cluster A), indem wir das Auto sicher parken und zu Fuß zur Sacré-Cœur und zum Place du Tertre gehen. Danach fahren wir zum weltberühmten Flohmarkt von Saint-Ouen (Cluster B), wo wir stöbern und zu Mittag essen. Den Abschluss bildet ein Besuch im weitläufigen Parc des Buttes-Chaumont.",
+        "hu": "Ez az autós túra két nagy északi központot köt össze. Először a Montmartre-t (A klaszter) fedezzük fel: leparkolunk, majd gyalog keressük fel a Sacré-Cœur-t és a Place du Tertre-t. Ezután a világ hírű Saint-Ouen bolhapiachoz (B klaszter) hajtunk, ahol ebédelünk és kincsek után kutatunk. A napot a tágas Buttes-Chaumont parkban zárjuk.",
+        "ro": "Acest tur auto folosește mașina pentru a conecta două zone majore din nord. Mai întâi explorăm Montmartre (Cluster A), parcând mașina în siguranță și mergând pe jos la Sacré-Cœur și Place du Tertre. Apoi conducem la faimoasa piață de vechituri Saint-Ouen (Cluster B). Încheiem cu o vizită în vastul Parc des Buttes-Chaumont.",
+        "en": "This car tour uses the vehicle to connect two major clusters in the north. First, we explore Montmartre (Cluster A) by parking safely and walking to Sacré-Cœur and Place du Tertre. Then, we drive to the world-famous Saint-Ouen Flea Market (Cluster B) for browsing and lunch. The day concludes with a visit to the expansive Parc des Buttes-Chaumont."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir des Puces",
+            "tip": "Traditionelle Gerichte in der lebhaften Atmosphäre des Marktes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Comptoir des Puces",
+            "tip": "Hagyományos ételek a piac élénk forgatagában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Comptoir des Puces",
+            "tip": "Mâncăruri tradiționale în atmosfera plină de viață a pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir des Puces",
+            "tip": "Traditional dishes in the lively atmosphere of the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buttes-Chaumont Grotte",
+            "tip": "Eine künstliche Grotte mit Wasserfall im Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buttes-Chaumont barlang",
+            "tip": "Mesterséges barlang vízeséssel a park közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grota Buttes-Chaumont",
+            "tip": "O grotă artificială cu cascadă în interiorul parcului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buttes-Chaumont Grotto",
+            "tip": "An artificial grotto with a waterfall inside the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Vernaison",
+            "tip": "Bester Teil des Flohmarkts für Vintage-Deko und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Vernaison",
+            "tip": "A bolhapiac legjobb része vintage dekorációkhoz és ékszerekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Vernaison",
+            "tip": "Cea mai bună parte a pieței pentru decorațiuni vintage și bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Vernaison",
+            "tip": "Best part of the flea market for vintage decor and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour am Périphérique.",
+          "Parkhäuser sind teuer, aber sicherer als Parken auf der Straße.",
+          "Lassen Sie niemals Wertsachen sichtbar im Auto liegen.",
+          "Prüfen Sie vorher die Öffnungszeiten der Markthallen in Saint-Ouen."
+        ],
+        "hu": [
+          "Kerüld a csúcsforgalmat a körgyűrűn (Périphérique).",
+          "A parkolóházak drágák, de biztonságosabbak az utcai parkolásnál.",
+          "Soha ne hagyj értéket látható helyen az autóban.",
+          "Előre ellenőrizd a Saint-Ouen piac csarnokainak nyitvatartását."
+        ],
+        "ro": [
+          "Evitați orele de vârf pe centură (Périphérique).",
+          "Parcările subterane sunt scumpe, dar mai sigure decât pe stradă.",
+          "Nu lăsați niciodată obiecte de valoare la vedere în mașină.",
+          "Verificați programul halelor din piața Saint-Ouen în prealabil."
+        ],
+        "en": [
+          "Avoid rush hour on the Périphérique ring road.",
+          "Parking garages are expensive but safer than street parking.",
+          "Never leave valuables visible inside the car.",
+          "Check the opening hours of the market halls in Saint-Ouen beforehand."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 9.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Sacré-Cœur",
+            "hu": "Szent Szív-bazilika",
+            "ro": "Basilica Sacré-Cœur",
+            "en": "Sacré-Cœur Basilica"
+          },
+          "coords": [
+            2.3431,
+            48.8865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Linie 12 bis Abbesses und nehmen Sie den Aufzug.",
+            "hu": "Utazz a 12-es metróval az Abbesses megállóig, és használd a liftet.",
+            "ro": "Luați linia 12 până la stația Abbesses și folosiți liftul.",
+            "en": "Take Metro line 12 to Abbesses and use the station elevator."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Tertre",
+            "hu": "Place du Tertre",
+            "ro": "Place du Tertre",
+            "en": "Place du Tertre"
+          },
+          "coords": [
+            2.3408,
+            48.8865
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur 5 Gehminuten von der Basilika entfernt.",
+            "hu": "Mindössze 5 perc séta a bazilikától.",
+            "ro": "La doar 5 minute de mers pe jos de basilică.",
+            "en": "Only a 5-minute walk from the Basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Flohmarkt von Saint-Ouen",
+            "hu": "Saint-Ouen bolhapiac",
+            "ro": "Piața de vechituri Saint-Ouen",
+            "en": "Saint-Ouen Flea Market"
+          },
+          "coords": [
+            2.3425,
+            48.903
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 4 bis Porte de Clignancourt.",
+            "hu": "Használd a 4-es metrót a Porte de Clignancourt megállóig.",
+            "ro": "Luați linia 4 până la Porte de Clignancourt.",
+            "en": "Take Metro line 4 to Porte de Clignancourt station."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal Saint-Martin (Nord)",
+            "hu": "Canal Saint-Martin (észak)",
+            "ro": "Canal Saint-Martin (Nord)",
+            "en": "Canal Saint-Martin (North)"
+          },
+          "coords": [
+            2.363,
+            48.875
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Linie 5 bis Jaurès bringt Sie direkt an den Kanal.",
+            "hu": "Az 5-ös metróval a Jaurès megállóig utazva közvetlenül a csatornához érsz.",
+            "ro": "Linia 5 până la Jaurès vă aduce direct la canal.",
+            "en": "Take line 5 to Jaurès for direct access to the canal side."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Buttes-Chaumont",
+            "hu": "Buttes-Chaumont park",
+            "ro": "Parcul Buttes-Chaumont",
+            "en": "Parc des Buttes-Chaumont"
+          },
+          "coords": [
+            2.382,
+            48.88
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Linie 7bis hält direkt am Park (Buttes Chaumont).",
+            "hu": "A 7bis metróvonal közvetlenül a parknál áll meg.",
+            "ro": "Linia 7bis oprește chiar lângă parc (Buttes Chaumont).",
+            "en": "Metro line 7bis stops right at the park entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Paris-Nord lässt sich hervorragend mit der Metro erkunden. Wir starten in Montmartre (Abbesses), spazieren zur Basilika und fahren dann mit der Linie 4 direkt zum Flohmarkt von Saint-Ouen. Nachmittags wechseln wir zum Canal Saint-Martin, um die moderne Atmosphäre am Wasser zu genießen, und beenden den Tag im malerischen Parc des Buttes-Chaumont, einem der schönsten Parks der Stadt.",
+        "hu": "Párizs északi része kiválóan felfedezhető metróval. A Montmartre-on kezdünk (Abbesses), elgyalogolunk a bazilikához, majd a 4-es metróval egyenesen a Saint-Ouen bolhapiachoz utazunk. Délután a Canal Saint-Martin partján élvezzük a modern, vízparti hangulatot, végül pedig a város egyik legszebb parkjában, a Buttes-Chaumont-ban zárjuk a napot.",
+        "ro": "Nordul Parisului poate fi explorat excelent cu metroul. Începem în Montmartre (Abbesses), mergem la basilică și apoi luăm linia 4 direct către piața de vechituri Saint-Ouen. După-amiaza ne mutăm la Canal Saint-Martin pentru a ne bucura de atmosfera modernă de pe malul apei și încheiem ziua în pitorescul Parc des Buttes-Chaumont.",
+        "en": "Northern Paris is perfectly explored via Metro. We start in Montmartre (Abbesses), walk to the Basilica, and then take line 4 directly to the Saint-Ouen Flea Market. In the afternoon, we head to Canal Saint-Martin to enjoy the modern waterside vibe, ending the day in the picturesque Parc des Buttes-Chaumont, one of the city's most beautiful parks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Holybelly 5",
+            "tip": "Legendäres Frühstück und Kaffee in der Nähe des Kanals."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holybelly 5",
+            "tip": "Legendás reggeli és kávé a csatorna közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Holybelly 5",
+            "tip": "Mic dejun și cafea legendare lângă canal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Holybelly 5",
+            "tip": "Legendary breakfast and coffee near the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal Saint-Martin Brücken",
+            "tip": "Beobachten Sie das Schleusen der Boote von den Eisenbrücken aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal Saint-Martin hidak",
+            "tip": "Figyeld a hajók zsilipelését a vas hidakról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podurile Canal Saint-Martin",
+            "tip": "Priviți bărcile trecând prin ecluze de pe podurile de fier.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Saint-Martin Bridges",
+            "tip": "Watch the boats passing through locks from the iron bridges.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Artazart Design Bookstore",
+            "tip": "Toller Buchladen für Design und Kunst direkt am Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artazart Design Bookstore",
+            "tip": "Remek dizájn és művészeti könyvesbolt közvetlenül a csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artazart Design Bookstore",
+            "tip": "Librărie excelentă de design și artă chiar lângă canal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artazart Design Bookstore",
+            "tip": "Great design and art bookstore located right on the canal bank."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Carnet oder einen Tagestransfer-Pass.",
+          "Die Station Abbesses ist eine der tiefsten, nutzen Sie den Aufzug.",
+          "Vermeiden Sie den Umstieg an der Gare du Nord, wenn möglich.",
+          "In der Metro immer die Tasche vor dem Körper tragen."
+        ],
+        "hu": [
+          "Vegyél gyűjtőjegyet (Carnet) vagy napijegyet.",
+          "Az Abbesses állomás az egyik legmélyebb, mindenképp használd a liftet.",
+          "Ha lehet, kerüld az átszállást a Gare du Nord-nál.",
+          "A metrón mindig a tested előtt tartsd a táskádat."
+        ],
+        "ro": [
+          "Cumpărați un set de bilete (Carnet) sau un permis de o zi.",
+          "Stația Abbesses este una dintre cele mai adânci, folosiți liftul.",
+          "Evitați transferul la Gare du Nord dacă este posibil.",
+          "În metrou, purtați întotdeauna geanta în față."
+        ],
+        "en": [
+          "Buy a set of tickets (Carnet) or a day pass for convenience.",
+          "Abbesses station is one of the deepest; use the elevator.",
+          "Avoid transferring at Gare du Nord if possible.",
+          "Always keep your bag in front of you while on the Metro."
+        ]
+      }
+    }
+  }
+}

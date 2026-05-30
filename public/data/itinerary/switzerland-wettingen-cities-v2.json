@@ -1,284 +1,244 @@
 {
   "city_id": "switzerland-wettingen-cities-v2",
   "anchor": {
-    "name": "Rathaus Wettingen",
+    "name": "Wettingen",
     "coords": [
-      8.326,
-      47.466
+      47.466,
+      8.326
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 4.2,
-      "stop_count": 7,
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Rathaus Wettingen",
-            "hu": "Wettingen városháza",
-            "ro": "Primăria Wettingen",
-            "en": "Wettingen Town Hall"
-          },
-          "coords": [
-            8.3262,
-            47.4665
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "09:10",
-          "stay_min": 20,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Bewundern Sie die moderne Architektur des Zentrums.",
-            "hu": "Csodálja meg a központ modern építészetét.",
-            "ro": "Admirați arhitectura modernă a centrului.",
-            "en": "Admire the modern architecture of the center."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche St. Sebastian",
-            "hu": "Szent Sebestyén-templom",
-            "ro": "Biserica Sfântul Sebastian",
-            "en": "St. Sebastian Church"
-          },
-          "coords": [
-            8.3255,
-            47.4658
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein Ort der Ruhe direkt im Stadtkern.",
-            "hu": "A nyugalom szigete a városközpontban.",
-            "ro": "Un loc de liniște chiar în centrul orașului.",
-            "en": "A place of peace right in the city center."
-          }
-        },
-        {
-          "name": {
-            "de": "Gluri-Suter-Huus",
-            "hu": "Gluri-Suter-Huus Múzeum",
-            "ro": "Gluri-Suter-Huus",
-            "en": "Gluri-Suter-Huus"
-          },
-          "coords": [
-            8.3285,
-            47.4662
-          ],
-          "category": "museums",
-          "arrive_at": "10:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Besuchen Sie die wechselnden Kunstausstellungen im Fachwerkhaus.",
-            "hu": "Nézze meg az időszaki kiállításokat a gerendavázas házban.",
-            "ro": "Vizitați expozițiile de artă în casa tradițională.",
-            "en": "Visit the changing art exhibitions in the half-timbered house."
-          }
-        },
-        {
-          "name": {
-            "de": "Limmatsteg",
-            "hu": "Limmat-híd",
-            "ro": "Limmatsteg",
-            "en": "Limmatsteg"
-          },
-          "coords": [
-            8.3298,
-            47.4585
-          ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "12:05",
-          "stay_min": 25,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Genießen Sie den Blick auf den Fluss Limmat.",
-            "hu": "Élvezze a kilátást a Limmat folyóra.",
-            "ro": "Bucurați-vă de priveliștea asupra râului Limmat.",
-            "en": "Enjoy the view over the Limmat River."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Kloster Wettingen",
-            "hu": "Wettingeni apátság",
+            "hu": "Wettingeni kolostor",
             "ro": "Mănăstirea Wettingen",
             "en": "Wettingen Abbey"
           },
           "coords": [
-            8.3288,
-            47.4568
+            8.321,
+            47.468
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "12:35",
-          "stay_min": 120,
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die detailreichen Glasfenster aus dem 13. Jahrhundert.",
+            "hu": "Csodálja meg a 13. századi, részletgazdag üvegablakokat.",
+            "ro": "Admirați vitraliile detaliate din secolul al XIII-lea.",
+            "en": "Admire the detailed 13th-century stained glass windows."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Limmatsteg",
+            "hu": "Limmat-híd",
+            "ro": "Puntea Limmat",
+            "en": "Limmat Footbridge"
+          },
+          "coords": [
+            8.323,
+            47.469
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:30",
+          "stay_min": 25,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Das am besten erhaltene Zisterzienserkloster der Schweiz.",
-            "hu": "Svájc legjobb állapotban fennmaradt ciszterci kolostora.",
-            "ro": "Cea mai bine conservată mănăstire cisterciană din Elveția.",
-            "en": "The best-preserved Cistercian abbey in Switzerland."
+          "tip_4lang": {
+            "de": "Perfekter Ort für ein Foto vom Kloster und dem Fluss.",
+            "hu": "Tökéletes hely egy fotóhoz a kolostorról és a folyóról.",
+            "ro": "Locul perfect pentru o fotografie cu mănăstirea și râul.",
+            "en": "Perfect spot for a photo of the abbey and the river."
           }
         },
         {
-          "name": {
-            "de": "Marienkapelle",
-            "hu": "Mária-kápolna",
-            "ro": "Capela Maria",
-            "en": "Marienkapelle"
+          "name_4lang": {
+            "de": "Kulturweg Limmat",
+            "hu": "Limmat kultúrút",
+            "ro": "Traseul Cultural Limmat",
+            "en": "Limmat Culture Trail"
           },
           "coords": [
-            8.3275,
-            47.4565
+            8.325,
+            47.471
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses mit Skulpturen und Kunstinstallationen.",
+            "hu": "Egy pihentető séta a folyó mentén szobrokkal és művészeti installációkkal.",
+            "ro": "O plimbare relaxantă de-a lungul râului cu sculpturi și instalații de artă.",
+            "en": "A relaxing walk along the river featuring sculptures and art installations."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche St. Sebastian",
+            "hu": "Szent Sebestyén-templom",
+            "ro": "Biserica Sf. Sebastian",
+            "en": "St. Sebastian Church"
+          },
+          "coords": [
+            8.318,
+            47.465
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "14:40",
-          "stay_min": 35,
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Achten Sie auf das barocke Interieur und die ruhige Atmosphäre.",
+            "hu": "Figyelje meg a barokk belső teret és a csendes légkört.",
+            "ro": "Observați interiorul baroc și atmosfera liniștită.",
+            "en": "Notice the baroque interior and the quiet atmosphere."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Gluri-Suter-Huus",
+            "hu": "Gluri-Suter-Huus",
+            "ro": "Casa Gluri-Suter",
+            "en": "Gluri-Suter House"
+          },
+          "coords": [
+            8.317,
+            47.464
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 100,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.2,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Kleine, stimmungsvolle Kapelle nahe der Abtei.",
-            "hu": "Kicsi, hangulatos kápolna az apátság közelében.",
-            "ro": "O capelă mică și atmosferică lângă mănăstire.",
-            "en": "Small, atmospheric chapel near the abbey."
+          "tip_4lang": {
+            "de": "Lokale Kunstgalerie mit wechselnden Ausstellungen. Überprüfen Sie das aktuelle Programm.",
+            "hu": "Helyi művészeti galéria változó kiállításokkal. Ellenőrizze az aktuális programot.",
+            "ro": "Galerie de artă locală cu expoziții temporare. Verificați programul actual.",
+            "en": "Local art gallery with changing exhibitions. Check the current schedule."
           }
         },
         {
-          "name": {
-            "de": "Kulturweg Limmat",
-            "hu": "Limmat kulturális ösvény",
-            "ro": "Kulturweg Limmat",
-            "en": "Kulturweg Limmat"
+          "name_4lang": {
+            "de": "Rathaus Wettingen",
+            "hu": "Wettingeni Városháza",
+            "ro": "Primăria Wettingen",
+            "en": "Wettingen Town Hall"
           },
           "coords": [
-            8.3245,
-            47.458
+            8.319,
+            47.463
           ],
-          "category": "natural features",
-          "arrive_at": "15:35",
-          "stay_min": 70,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.1,
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Wandern Sie entlang der Skulpturen am Flussufer.",
-            "hu": "Sétáljon a folyóparti szobrok mentén.",
-            "ro": "Plimbați-vă de-a lungul sculpturilor de pe malul râului.",
-            "en": "Hike along the sculptures on the riverbank."
+          "tip_4lang": {
+            "de": "Ein modernes architektonisches Wahrzeichen im Herzen der Stadt.",
+            "hu": "Modern építészeti jelkép a város szívében.",
+            "ro": "Un reper arhitectural modern în inima orașului.",
+            "en": "A modern architectural landmark in the heart of the town."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihr Tag beginnt im modernen Zentrum von Wettingen beim Rathaus und der St. Sebastian Kirche. Danach tauchen Sie im Gluri-Suter-Huus in die lokale Kunstszene ein. Der Höhepunkt folgt am Nachmittag: die prächtige Klosterhalbinsel mit dem Zisterzienserkloster. Den Abschluss bildet ein entspannter Spaziergang auf dem Kulturweg entlang der Limmat, wo Kunst und Natur verschmelzen.",
-        "hu": "A napot Wettingen modern központjában kezdi a városházánál és a Szent Sebestyén-templomnál. Ezután a Gluri-Suter-Huus kiállításain ismerkedhet a helyi művészettel. A délután fénypontja a kolostorfélsziget a lenyűgöző ciszterci apátsággal. Végezetül egy pihentető sétát tehet a Limmat menti kulturális ösvényen, ahol a szobrok és a természet harmóniája várja.",
-        "ro": "Ziua începe în centrul modern din Wettingen, lângă primărie și biserica Sf. Sebastian. Apoi, explorați scena artistică locală la Gluri-Suter-Huus. Punctul culminant urmează după-amiaza: peninsula mănăstirii cu superba abație cisterciană. Încheiați cu o plimbare relaxantă pe drumul cultural de-a lungul râului Limmat, unde arta se întâlnește cu natura.",
-        "en": "Your day starts in the modern center of Wettingen at the Town Hall and St. Sebastian Church. Afterward, immerse yourself in the local art scene at Gluri-Suter-Huus. The highlight follows in the afternoon: the magnificent monastery peninsula with the Cistercian Abbey. End with a relaxing stroll along the Kulturweg Limmat, where art and nature blend seamlessly."
+        "de": "Beginnen Sie Ihren Tag am historischen Kloster Wettingen, einer ehemaligen Zisterzienserabtei mit prächtigen Gärten. Überqueren Sie mittags den Limmatsteg und folgen Sie dem Kulturweg entlang des Flusses, um Kunst in der Natur zu genießen. Am Nachmittag erkunden Sie das kulturelle Zentrum mit der Kirche St. Sebastian und dem Kunstmuseum Gluri-Suter-Huus. Beenden Sie Ihren Spaziergang am modernen Rathaus, einem Kontrast zur alten Geschichte.",
+        "hu": "Kezdje a napot a történelmi Wettingeni kolostornál, egy egykori ciszterci apátságnál, csodás kertekkel. Délben keljen át a Limmat-hídon, és kövesse a Limmat kultúrutat a folyó mentén, hogy élvezze a természetbe ágyazott művészetet. Délután fedezze fel a kulturális központot a Szent Sebestyén-templommal és a Gluri-Suter-Huus művészeti múzeummal. Sétáját a modern Városházánál fejezze be, amely kontrasztot alkot a régi történelemmel.",
+        "ro": "Începeți ziua la istorica Mănăstire Wettingen, o fostă abație cisterciană cu grădini magnifice. La prânz, traversați puntea Limmat și urmați Traseul Cultural de-a lungul râului pentru a vă bucura de artă în natură. După-amiaza, explorați centrul cultural cu Biserica Sf. Sebastian și muzeul de artă Gluri-Suter-Huus. Încheiați plimbarea la Primăria modernă, un contrast cu istoria veche.",
+        "en": "Start your day at the historic Wettingen Abbey, a former Cistercian monastery with magnificent gardens. At noon, cross the Limmat Footbridge and follow the Culture Trail along the river to enjoy art in nature. In the afternoon, explore the cultural center with St. Sebastian Church and the Gluri-Suter-Huus art museum. End your walk at the modern Town Hall, a contrast to the old history."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Gasthof Sternen",
-            "tip": "Traditionelle Schweizer Küche direkt beim Kloster."
-          },
-          {
-            "name": "Aargauer Rüeblitorte",
-            "tip": "Probieren Sie den berühmten Karottenkuchen der Region."
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Probieren Sie dieses klassische Schweizer Gericht in einem der traditionellen Restaurants im Stadtzentrum."
           }
         ],
         "hu": [
           {
-            "name": "Gasthof Sternen",
-            "tip": "Hagyományos svájci konyha közvetlenül a kolostornál."
-          },
-          {
-            "name": "Aargauer Rüeblitorte",
-            "tip": "Kóstolja meg a régió híres répatortáját."
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Kóstolja meg ezt a klasszikus svájci ételt a belváros egyik hagyományos éttermében."
           }
         ],
         "ro": [
           {
-            "name": "Gasthof Sternen",
-            "tip": "Bucătărie tradițională elvețiană chiar lângă mănăstire."
-          },
-          {
-            "name": "Aargauer Rüeblitorte",
-            "tip": "Gustați celebrul tort de morcovi al regiunii."
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Încercați acest fel de mâncare elvețian clasic la unul dintre restaurantele tradiționale din centrul orașului."
           }
         ],
         "en": [
           {
-            "name": "Gasthof Sternen",
-            "tip": "Traditional Swiss cuisine located right by the abbey."
-          },
-          {
-            "name": "Aargauer Rüeblitorte",
-            "tip": "Try the famous carrot cake of the region."
+            "name": "Zürcher Geschnetzeltes",
+            "tip": "Try this classic Swiss dish at one of the traditional restaurants in the town center."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Klosterpark",
-            "tip": "Ein ruhiger Ort für Meditation unter alten Bäumen.",
-            "emoji": "🧘"
+            "name": "Klostergarten",
+            "tip": "Finden Sie eine ruhige Bank im restaurierten Klostergarten.",
+            "emoji": "🍃"
           },
           {
-            "name": "Limmatufer",
-            "tip": "Lauschen Sie dem Rauschen des Wassers.",
+            "name": "Limmatauenpark",
+            "tip": "Ein friedlicher Ort am Flussufer, ideal für eine Pause.",
             "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Kolostorpark",
-            "tip": "Csendes hely meditációhoz az öreg fák alatt.",
-            "emoji": "🧘"
+            "name": "Kolostorkert",
+            "tip": "Keressen egy csendes padot a felújított kolostorkertben.",
+            "emoji": "🍃"
           },
           {
-            "name": "Limmat-part",
-            "tip": "Hallgassa a folyó megnyugtató csobogását.",
+            "name": "Limmatauen Park",
+            "tip": "Békés hely a folyóparton, ideális egy kis szünetre.",
             "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Mănăstirii",
-            "tip": "Un loc liniștit pentru meditație sub copaci bătrâni.",
-            "emoji": "🧘"
+            "name": "Grădina Mănăstirii",
+            "tip": "Găsiți o bancă liniștită în grădina restaurată a mănăstirii.",
+            "emoji": "🍃"
           },
           {
-            "name": "Malul Limmatului",
-            "tip": "Ascultați clipocitul relaxant al apei.",
+            "name": "Parcul Limmatauen",
+            "tip": "Un loc pașnic pe malul râului, ideal pentru o pauză.",
             "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Monastery Park",
-            "tip": "A quiet place for meditation under old trees.",
-            "emoji": "🧘"
+            "name": "Monastery Garden",
+            "tip": "Find a quiet bench in the restored monastery garden.",
+            "emoji": "🍃"
           },
           {
-            "name": "Limmat Banks",
-            "tip": "Listen to the soothing sound of the river.",
+            "name": "Limmatauen Park",
+            "tip": "A peaceful spot on the riverbank, ideal for a break.",
             "emoji": "🏞️"
           }
         ]
@@ -286,53 +246,49 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Klosterladen",
-            "tip": "Regionale Produkte und handwerkliche Geschenke."
+            "name": "Wochenmarkt",
+            "tip": "Jeden Samstagmorgen auf dem Rathausplatz für lokale Produkte und Spezialitäten."
           }
         ],
         "hu": [
           {
-            "name": "Kolostorbolt",
-            "tip": "Regionális termékek és kézműves ajándéktárgyak."
+            "name": "Heti piac",
+            "tip": "Minden szombat reggel a Városháza téren, helyi termékekért és különlegességekért."
           }
         ],
         "ro": [
           {
-            "name": "Magazinul Mănăstirii",
-            "tip": "Produse regionale și cadouri artizanale."
+            "name": "Piața săptămânală",
+            "tip": "În fiecare sâmbătă dimineața în Piața Primăriei pentru produse și specialități locale."
           }
         ],
         "en": [
           {
-            "name": "Monastery Shop",
-            "tip": "Regional products and handcrafted gifts."
+            "name": "Weekly Market",
+            "tip": "Every Saturday morning in the Town Hall square for local products and specialties."
           }
         ]
       },
       "tips": {
         "de": [
-          "Wettingen ist sehr fussgängerfreundlich.",
-          "Die Klosterhalbinsel ist ein Muss für jeden Besucher.",
-          "Kombinieren Sie den Besuch mit einem Abstecher nach Baden.",
-          "Tragen Sie bequeme Schuhe für den Kulturweg."
+          "Tragen Sie bequeme Schuhe, da das Zentrum kopfsteingepflasterte Strassen hat.",
+          "Viele Sehenswürdigkeiten liegen nahe beieinander.",
+          "Nehmen Sie sich Zeit, die Ruhe am Flussufer zu geniessen."
         ],
         "hu": [
-          "Wettingen nagyon gyalogosbarát város.",
-          "A kolostorfélsziget kötelező látnivaló mindenki számára.",
-          "Érdemes összekötni a látogatást a szomszédos Badennel.",
-          "Viseljen kényelmes cipőt a kulturális ösvényhez."
+          "Viseljen kényelmes cipőt, mivel a központ macskaköves utcákkal rendelkezik.",
+          "Sok látnivaló közel van egymáshoz.",
+          "Szánjon időt a folyóparti csend élvezetére."
         ],
         "ro": [
-          "Wettingen este un oraș foarte prietenos cu pietonii.",
-          "Peninsula mănăstirii este obligatorie pentru orice vizitator.",
-          "Combinați vizita cu o excursie în orașul vecin, Baden.",
-          "Purtați încălțăminte comodă pentru drumul cultural."
+          "Purtați încălțăminte confortabilă, deoarece centrul are străzi pietruite.",
+          "Multe atracții sunt aproape una de cealaltă.",
+          "Luați-vă timp să vă bucurați de liniștea de pe malul râului."
         ],
         "en": [
-          "Wettingen is very pedestrian-friendly.",
-          "The monastery peninsula is a must-see for every visitor.",
-          "Combine your visit with a trip to nearby Baden.",
-          "Wear comfortable shoes for the Kulturweg walk."
+          "Wear comfortable shoes as the center has cobblestone streets.",
+          "Many sights are located close to each other.",
+          "Take your time to enjoy the tranquility on the riverbank."
         ]
       },
       "variants": {
@@ -520,261 +476,285 @@
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "16:45",
+      "end_estimate": "17:05",
       "total_km": 12.5,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Rathaus Wettingen",
-            "hu": "Wettingen városháza",
-            "ro": "Primăria Wettingen",
-            "en": "Wettingen Town Hall"
-          },
-          "coords": [
-            8.3262,
-            47.4665
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "09:10",
-          "stay_min": 15,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Startpunkt im Herzen der Gemeinde.",
-            "hu": "Kiindulópont a közösség szívében.",
-            "ro": "Punct de plecare în inima comunei.",
-            "en": "Starting point in the heart of the community."
-          }
-        },
-        {
-          "name": {
-            "de": "Lägern (Aussichtspunkt)",
-            "hu": "Lägern kilátó",
-            "ro": "Lägern (punct de belvedere)",
-            "en": "Lägern (Viewpoint)"
-          },
-          "coords": [
-            8.335,
-            47.478
-          ],
-          "category": "natural features",
-          "arrive_at": "09:55",
-          "stay_min": 45,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 4.5,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Steiler Aufstieg, belohnt mit toller Fernsicht.",
-            "hu": "Meredek emelkedő, csodás kilátással a végén.",
-            "ro": "Urcare abruptă, răsplătită cu o priveliște superbă.",
-            "en": "Steep climb rewarded with great panoramic views."
-          }
-        },
-        {
-          "name": {
-            "de": "Gluri-Suter-Huus",
-            "hu": "Gluri-Suter-Huus",
-            "ro": "Gluri-Suter-Huus",
-            "en": "Gluri-Suter-Huus"
-          },
-          "coords": [
-            8.3285,
-            47.4662
-          ],
-          "category": "museums",
-          "arrive_at": "11:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.8,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Kulturstopp im historischen Riegelhaus.",
-            "hu": "Kulturális megálló a történelmi gerendavázas házban.",
-            "ro": "Popas cultural în casa istorică.",
-            "en": "Cultural stop in the historic timber-framed house."
-          }
-        },
-        {
-          "name": {
-            "de": "Limmatsteg",
-            "hu": "Limmat-híd",
-            "ro": "Limmatsteg",
-            "en": "Limmatsteg"
-          },
-          "coords": [
-            8.3298,
-            47.4585
-          ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "12:15",
-          "stay_min": 20,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.1,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Überqueren Sie die Limmat trockenen Fusses.",
-            "hu": "Keljen át a Limmaton száraz lábbal.",
-            "ro": "Traversați râul Limmat fără să vă udați.",
-            "en": "Cross the Limmat River with dry feet."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Kloster Wettingen",
-            "hu": "Wettingeni apátság",
+            "hu": "Wettingeni kolostor",
             "ro": "Mănăstirea Wettingen",
             "en": "Wettingen Abbey"
           },
           "coords": [
-            8.3288,
-            47.4568
+            8.321,
+            47.468
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "12:40",
-          "stay_min": 90,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
           "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Parken Sie das Rad vor dem prächtigen Portal.",
-            "hu": "Parkolja le a bringát a díszes kapu előtt.",
-            "ro": "Parcați bicicleta în fața porții magnifice.",
-            "en": "Park your bike in front of the magnificent portal."
+          "tip_4lang": {
+            "de": "Schliessen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Anlage zu Fuss.",
+            "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a területet gyalog.",
+            "ro": "Asigurați-vă bicicleta la intrare și explorați complexul pe jos.",
+            "en": "Lock your bike at the entrance and explore the complex on foot."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Kulturweg Limmat",
-            "hu": "Limmat kulturális ösvény",
-            "ro": "Kulturweg Limmat",
-            "en": "Kulturweg Limmat"
+            "hu": "Limmat kultúrút",
+            "ro": "Traseul Cultural Limmat",
+            "en": "Limmat Culture Trail"
           },
           "coords": [
-            8.321,
-            47.46
+            8.335,
+            47.475
           ],
           "category": "natural features",
-          "arrive_at": "14:25",
-          "stay_min": 60,
+          "arrive_at": "10:25",
+          "stay_min": 75,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.8,
+          "hop_from_prev_km": 2.5,
           "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Befahren Sie die Uferwege bis zur Stadtgrenze.",
-            "hu": "Tekerjen a folyóparti utakon a városhatárig.",
-            "ro": "Mergeți pe potecile de pe mal până la marginea orașului.",
-            "en": "Ride along the riverbank paths to the city limits."
+          "tip_4lang": {
+            "de": "Der Radweg entlang des Flusses ist flach und ideal für eine gemütliche Fahrt.",
+            "hu": "A folyó menti kerékpárút sík és ideális egy kényelmes tekeréshez.",
+            "ro": "Pista de biciclete de-a lungul râului este plată și ideală pentru o plimbare lejeră.",
+            "en": "The bike path along the river is flat and ideal for a leisurely ride."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche St. Sebastian",
+            "hu": "Szent Sebestyén-templom",
+            "ro": "Biserica Sf. Sebastian",
+            "en": "St. Sebastian Church"
+          },
+          "coords": [
+            8.318,
+            47.465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Eine kurze Pause, um die barocke Schönheit dieses ruhigen Ortes zu bewundern.",
+            "hu": "Egy rövid szünet, hogy megcsodálhassa e csendes hely barokk szépségét.",
+            "ro": "O scurtă pauză pentru a admira frumusețea barocă a acestui loc liniștit.",
+            "en": "A short break to admire the baroque beauty of this quiet place."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Gluri-Suter-Huus",
+            "hu": "Gluri-Suter-Huus",
+            "ro": "Casa Gluri-Suter",
+            "en": "Gluri-Suter House"
+          },
+          "coords": [
+            8.317,
+            47.464
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie ein in die lokale Kunstszene.",
+            "hu": "Parkolja le a kerékpárt, és merüljön el a helyi művészeti életben.",
+            "ro": "Parcați bicicleta și scufundați-vă în scena artistică locală.",
+            "en": "Park your bike and immerse yourself in the local art scene."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Lägern (unterer Teil)",
+            "hu": "Lägern (alsó rész)",
+            "ro": "Lägern (partea inferioară)",
+            "en": "Lägern (lower part)"
+          },
+          "coords": [
+            8.35,
+            47.455
+          ],
+          "category": "natural features",
+          "arrive_at": "14:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Der Anstieg kann anspruchsvoll sein, aber die Aussicht belohnt die Mühe.",
+            "hu": "Az emelkedő kihívást jelenthet, de a kilátás megéri a fáradozást.",
+            "ro": "Urcușul poate fi solicitant, dar priveliștea răsplătește efortul.",
+            "en": "The climb can be challenging, but the view rewards the effort."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Marienkapelle",
+            "hu": "Mária-kápolna",
+            "ro": "Capela Maria",
+            "en": "Marienkapelle"
+          },
+          "coords": [
+            8.32,
+            47.466
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein ruhiger Ort für eine letzte Besinnung am Ende Ihrer Tour.",
+            "hu": "Egy békés hely egy utolsó elmélkedésre a túra végén.",
+            "ro": "Un loc liniștit pentru o ultimă reflecție la sfârșitul turului.",
+            "en": "A peaceful place for a final reflection at the end of your tour."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Wettingen sportlich! Nach dem Start im Zentrum erklimmen Sie den Lägern-Hang für eine tolle Aussicht. Zurück im Tal besuchen Sie das Gluri-Suter-Huus, bevor Sie zur Klosterhalbinsel radeln. Der Tag endet mit einer entspannten Fahrt entlang der Limmat auf dem Kulturweg.",
-        "hu": "Fedezze fel Wettingent sportosan! A központi indulás után tekerjen fel a Lägern-hegyoldalba a kilátásért. Visszatérve a völgybe látogassa meg a Gluri-Suter-Huust, majd guruljon el a kolostorfélszigethez. A napot a Limmat menti kulturális ösvényen zárhatja egy kellemes bringázással.",
-        "ro": "Explorați Wettingen în mod sportiv! După plecarea din centru, urcați pe versantul Lägern pentru o vedere superbă. Revenind în vale, vizitați Gluri-Suter-Huus înainte de a pedala spre peninsula mănăstirii. Ziua se încheie cu o plimbare relaxantă pe malul Limmatului.",
-        "en": "Explore Wettingen actively! After starting in the center, climb the Lägern slope for a great view. Back in the valley, visit Gluri-Suter-Huus before cycling to the monastery peninsula. The day ends with a relaxed ride along the Limmat on the Kulturweg."
+        "de": "Starten Sie Ihre Radtour am prächtigen Kloster Wettingen. Fahren Sie entlang des malerischen Kulturwegs Limmat und genießen Sie die flache Strecke am Fluss. Am Mittag erklimmen Sie die ersten Hänge des Lägern für eine fantastische Aussicht über das Limmattal. Der Nachmittag führt Sie zurück ins Zentrum, wo Sie die lokale Kunst im Gluri-Suter-Huus entdecken, bevor Sie den Tag in der stillen Marienkapelle ausklingen lassen.",
+        "hu": "Kezdje kerékpártúráját a lenyűgöző Wettingeni kolostornál. Tekerjen végig a festői Limmat kultúrúton, és élvezze a sík szakaszt a folyó mentén. Délben mássza meg a Lägern első lejtőit a fantasztikus kilátásért a Limmat-völgyre. A délután visszavezeti a központba, ahol felfedezheti a helyi művészetet a Gluri-Suter-Huus-ban, mielőtt a napot a csendes Mária-kápolnában zárná.",
+        "ro": "Începeți turul cu bicicleta la magnifica Mănăstire Wettingen. Pedalați de-a lungul pitorescului Traseu Cultural Limmat, bucurându-vă de traseul plat de pe malul râului. La prânz, urcați primele pante ale Lägern pentru o priveliște fantastică asupra văii Limmat. După-amiaza vă aduce înapoi în centru pentru a descoperi arta locală la Casa Gluri-Suter, înainte de a încheia ziua la liniștita Capelă Maria.",
+        "en": "Start your bike tour at the magnificent Wettingen Abbey. Ride along the scenic Limmat Culture Trail, enjoying the flat route by the river. At noon, climb the first slopes of the Lägern for a fantastic view over the Limmat valley. The afternoon brings you back to the center to discover local art at the Gluri-Suter House before ending the day at the quiet Marienkapelle."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bäckerei Frei",
-            "tip": "Holen Sie sich Energie für die Fahrt."
+            "name": "Gasthof zum Sternen",
+            "tip": "Ein historisches Restaurant mit einem schönen Garten, ideal für eine Mittagspause."
           }
         ],
         "hu": [
           {
-            "name": "Bäckerei Frei",
-            "tip": "Szerezzen energiát a tekeréshez."
+            "name": "Gasthof zum Sternen",
+            "tip": "Történelmi étterem szép kerttel, ideális egy ebédszünetre."
           }
         ],
         "ro": [
           {
-            "name": "Bäckerei Frei",
-            "tip": "Luați-vă energie pentru drum."
+            "name": "Gasthof zum Sternen",
+            "tip": "Un restaurant istoric cu o grădină frumoasă, ideal pentru o pauză de prânz."
           }
         ],
         "en": [
           {
-            "name": "Bäckerei Frei",
-            "tip": "Get some energy for the ride."
+            "name": "Gasthof zum Sternen",
+            "tip": "A historic restaurant with a beautiful garden, ideal for a lunch break."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Waldrand Lägern",
-            "tip": "Natur pur oberhalb der Stadt.",
-            "emoji": "🌲"
+            "name": "Aussichtspunkt Lägern",
+            "tip": "Geniessen Sie die Panoramasicht nach dem Anstieg.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Limmatufer",
+            "tip": "Halten Sie an einem ruhigen Abschnitt des Flusses an.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Lägern erdőszéle",
-            "tip": "Tiszta természet a város felett.",
-            "emoji": "🌲"
+            "name": "Lägern kilátó",
+            "tip": "Élvezze a panorámát a hegymászás után.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Limmat-part",
+            "tip": "Álljon meg a folyó egy csendes szakaszán.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Marginea pădurii Lägern",
-            "tip": "Natură pură deasupra orașului.",
-            "emoji": "🌲"
+            "name": "Punct de belvedere Lägern",
+            "tip": "Bucurați-vă de vederea panoramică după urcare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Limmat",
+            "tip": "Opriți-vă pe o porțiune liniștită a râului.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Lägern Forest Edge",
-            "tip": "Pure nature above the city.",
-            "emoji": "🌲"
+            "name": "Lägern viewpoint",
+            "tip": "Enjoy the panoramic view after the climb.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Limmat riverbank",
+            "tip": "Stop at a quiet section of the river.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Telli Einkaufszentrum",
-            "tip": "Nahegelegenes Center für alles Nötige."
+            "name": "Lokale Hofläden",
+            "tip": "Entlang der Radwege finden sich oft kleine Läden mit frischen Produkten."
           }
         ],
         "hu": [
           {
-            "name": "Telli bevásárlóközpont",
-            "tip": "Közeli központ minden szükségessel."
+            "name": "Helyi termelői boltok",
+            "tip": "A kerékpárutak mentén gyakran találhatók kis boltok friss termékekkel."
           }
         ],
         "ro": [
           {
-            "name": "Centrul Telli",
-            "tip": "Centru comercial din apropiere."
+            "name": "Magazine agricole locale",
+            "tip": "De-a lungul pistelor de biciclete veți găsi adesea mici magazine cu produse proaspete."
           }
         ],
         "en": [
           {
-            "name": "Telli Shopping Center",
-            "tip": "Nearby center for all essentials."
+            "name": "Local farm shops",
+            "tip": "Along the bike paths, you'll often find small shops with fresh produce."
           }
         ]
       },
       "tips": {
         "de": [
-          "Vorsicht beim steilen Aufstieg zum Lägern.",
-          "Nutzen Sie die markierten Radwege am Fluss."
+          "Ein E-Bike kann den Anstieg zum Lägern erleichtern.",
+          "Prüfen Sie den Reifendruck vor der Abfahrt.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Bergfahrt."
         ],
         "hu": [
-          "Vigyázzon a Lägernre vezető meredek emelkedőn.",
-          "Használja a jelölt kerékpárutakat a folyó mentén."
+          "Egy e-kerékpár megkönnyítheti a Lägernre való feljutást.",
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Vigyen magával elegendő vizet, különösen a hegyi szakaszra."
         ],
         "ro": [
-          "Atenție la urcarea abruptă spre Lägern.",
-          "Folosiți pistele de biciclete marcate de-a lungul râului."
+          "O bicicletă electrică poate face urcarea pe Lägern mai ușoară.",
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Luați suficientă apă, mai ales pentru urcare."
         ],
         "en": [
-          "Be careful on the steep climb to Lägern.",
-          "Use the marked bike paths along the river."
+          "An e-bike can make the climb to Lägern easier.",
+          "Check your tire pressure before setting off.",
+          "Bring enough water, especially for the uphill section."
         ]
       },
       "variants": {
@@ -964,259 +944,307 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 15.2,
-      "stop_count": 6,
+      "end_estimate": "17:18",
+      "total_km": 19.4,
+      "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Rathaus Wettingen",
-            "hu": "Wettingen városháza",
-            "ro": "Primăria Wettingen",
-            "en": "Wettingen Town Hall"
+          "name_4lang": {
+            "de": "Parkplatz Lägern Hochwacht",
+            "hu": "Lägern Hochwacht parkoló",
+            "ro": "Parcare Lägern Hochwacht",
+            "en": "Lägern Hochwacht Parking"
           },
           "coords": [
-            8.3262,
-            47.4665
+            8.375,
+            47.472
           ],
-          "category": "monuments/statues",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
           "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parkhaus direkt im Zentrum nutzen.",
-            "hu": "Használja a központi parkolóházat.",
-            "ro": "Folosiți parcarea direct din centru.",
-            "en": "Use the parking garage right in the center."
+          "tip_4lang": {
+            "de": "Starten Sie hier Ihre Erkundung des Lägern-Grats. Guter Ausgangspunkt.",
+            "hu": "Innen induljon a Lägern-gerinc felfedezésére. Jó kiindulópont.",
+            "ro": "Începeți explorarea crestei Lägern de aici. Un bun punct de plecare.",
+            "en": "Start your exploration of the Lägern ridge from here. Good starting point."
           }
         },
         {
-          "name": {
-            "de": "Kirche St. Sebastian",
-            "hu": "Szent Sebestyén-templom",
-            "ro": "Biserica Sfântul Sebastian",
-            "en": "St. Sebastian Church"
+          "name_4lang": {
+            "de": "Lägern Aussichtspunkt",
+            "hu": "Lägern kilátó",
+            "ro": "Punct de belvedere Lägern",
+            "en": "Lägern Viewpoint"
           },
           "coords": [
-            8.3255,
-            47.4658
+            8.378,
+            47.473
           ],
-          "category": "churches/cathedrals",
+          "category": "natural features",
           "arrive_at": "09:40",
           "stay_min": 40,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.4,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Kurzer Spaziergang vom Rathaus.",
-            "hu": "Rövid séta a városházától.",
-            "ro": "Scurtă plimbare de la primărie.",
-            "en": "Short walk from the Town Hall."
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zur atemberaubenden Aussicht.",
+            "hu": "Rövid séta a parkolótól a lélegzetelállító kilátásig.",
+            "ro": "O scurtă plimbare de la parcare la priveliștea uluitoare.",
+            "en": "A short walk from the parking lot to the breathtaking view."
           }
         },
         {
-          "name": {
+          "name_4lang": {
+            "de": "Parkplatz Kloster Wettingen",
+            "hu": "Wettingeni kolostor parkolója",
+            "ro": "Parcare Mănăstirea Wettingen",
+            "en": "Wettingen Abbey Parking"
+          },
+          "coords": [
+            8.32,
+            47.469
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie hier für den Vormittagscluster. Von hier ist alles zu Fuss erreichbar.",
+            "hu": "Parkoljon itt a délelőtti látnivalókhoz. Innen minden gyalog elérhető.",
+            "ro": "Parcați aici pentru clusterul de dimineață. Totul este accesibil pe jos de aici.",
+            "en": "Park here for the morning cluster. Everything is within walking distance from here."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Kloster Wettingen",
-            "hu": "Wettingeni apátság",
+            "hu": "Wettingeni kolostor",
             "ro": "Mănăstirea Wettingen",
             "en": "Wettingen Abbey"
           },
           "coords": [
-            8.3288,
-            47.4568
+            8.321,
+            47.468
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "10:35",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Großer Parkplatz vor der Klosteranlage.",
-            "hu": "Nagy parkoló a kolostor előtt.",
-            "ro": "Parcare mare în fața mănăstirii.",
-            "en": "Large parking lot in front of the abbey."
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nehmen Sie sich Zeit für das Klostermuseum und die Gärten.",
+            "hu": "Szánjon időt a kolostormúzeumra és a kertekre.",
+            "ro": "Acordați-vă timp pentru muzeul mănăstirii și grădini.",
+            "en": "Take your time for the monastery museum and the gardens."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Limmatsteg",
             "hu": "Limmat-híd",
-            "ro": "Limmatsteg",
-            "en": "Limmatsteg"
+            "ro": "Puntea Limmat",
+            "en": "Limmat Footbridge"
           },
           "coords": [
-            8.3298,
-            47.4585
+            8.323,
+            47.469
           ],
           "category": "bridges/lighthouses",
-          "arrive_at": "12:20",
-          "stay_min": 30,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Zu Fuß vom Klosterparkplatz erreichbar.",
-            "hu": "Gyalog elérhető a kolostor parkolójától.",
-            "ro": "Accesibil pe jos din parcarea mănăstirii.",
-            "en": "Accessible on foot from the abbey parking lot."
+          "tip_4lang": {
+            "de": "Ein schöner Spaziergang nach dem Mittagessen über den Fluss.",
+            "hu": "Egy kellemes séta ebéd után a folyó felett.",
+            "ro": "O plimbare plăcută peste râu după prânz.",
+            "en": "A nice walk across the river after lunch."
           }
         },
         {
-          "name": {
-            "de": "Gluri-Suter-Huus",
-            "hu": "Gluri-Suter-Huus",
-            "ro": "Gluri-Suter-Huus",
-            "en": "Gluri-Suter-Huus"
+          "name_4lang": {
+            "de": "Parkplatz Zentrum",
+            "hu": "Központi parkoló",
+            "ro": "Parcare Centru",
+            "en": "Center Parking"
           },
           "coords": [
-            8.3285,
-            47.4662
+            8.318,
+            47.464
           ],
           "category": "museums",
-          "arrive_at": "13:05",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.2,
+          "arrive_at": "13:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parkmöglichkeiten in den umliegenden Straßen.",
-            "hu": "Parkolási lehetőség a környező utcákban.",
-            "ro": "Locuri de parcare în străzile din jur.",
-            "en": "Parking available in the surrounding streets."
+          "tip_4lang": {
+            "de": "Nutzen Sie dieses Parkhaus für den Nachmittagscluster.",
+            "hu": "Használja ezt a parkolóházat a délutáni látnivalókhoz.",
+            "ro": "Folosiți această parcare pentru clusterul de după-amiază.",
+            "en": "Use this parking garage for the afternoon cluster."
           }
         },
         {
-          "name": {
-            "de": "Lägern (Aussichtspunkt)",
-            "hu": "Lägern kilátó",
-            "ro": "Lägern (punct de belvedere)",
-            "en": "Lägern (Viewpoint)"
+          "name_4lang": {
+            "de": "Gluri-Suter-Huus & St. Sebastian",
+            "hu": "Gluri-Suter-Huus és Szent Sebestyén",
+            "ro": "Casa Gluri-Suter & Sf. Sebastian",
+            "en": "Gluri-Suter House & St. Sebastian"
           },
           "coords": [
-            8.335,
-            47.478
+            8.317,
+            47.465
           ],
-          "category": "natural features",
-          "arrive_at": "14:40",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.5,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Fahrt zum höchsten Punkt möglich (mit Bewilligung/Wanderparkplatz).",
-            "hu": "Felhajtás a legmagasabb pont közelébe.",
-            "ro": "Conducerea spre cel mai înalt punct posibil.",
-            "en": "Drive to the highest point possible (parking available)."
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 150,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beide Sehenswürdigkeiten liegen direkt nebeneinander, ideal zum Kombinieren.",
+            "hu": "Mindkét látnivaló közvetlenül egymás mellett található, ideális kombinálni őket.",
+            "ro": "Ambele atracții sunt chiar una lângă cealaltă, ideale pentru a fi combinate.",
+            "en": "Both sights are right next to each other, ideal for combining."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto erkunden Sie Wettingen in drei praktischen Clustern. Zuerst das Stadtzentrum mit Rathaus und Kirche. Danach fahren Sie zur Klosterhalbinsel, wo Sie parken und das Kloster sowie die Limmatbrücke zu Fuß entdecken. Zum Abschluss geht es hinauf zum Lägern für den besten Ausblick über das Limmattal.",
-        "hu": "Autóval három praktikus egységben fedezheti fel Wettingent. Először a városközpontot a városházával és a templommal. Ezután a kolostorfélszigethez hajt, ahol leparkolva gyalog nézheti meg az apátságot és a Limmat-hidat. Befejezésül felvezet a Lägernhez a legszebb kilátásért a Limmat-völgyre.",
-        "ro": "Cu mașina, explorați Wettingen în trei grupuri practice. Mai întâi centrul orașului cu primăria și biserica. Apoi conduceți spre peninsula mănăstirii, unde parcați și descoperiți abația și podul Limmat pe jos. La final, urcați spre Lägern pentru cea mai bună vedere asupra văii Limmat.",
-        "en": "By car, explore Wettingen in three practical clusters. First, the city center with the Town Hall and church. Then, drive to the monastery peninsula, park your car, and discover the abbey and the Limmat bridge on foot. Finally, drive up to Lägern for the best view over the Limmat Valley."
+        "de": "Beginnen Sie den Tag mit einer Fahrt auf den Lägern-Grat für eine spektakuläre Aussicht. Parken Sie danach am Kloster Wettingen und erkunden Sie die historische Anlage und das Limmatufer zu Fuss. Nach einer kurzen Fahrt am Nachmittag parken Sie im Zentrum, um in die Kunst im Gluri-Suter-Huus einzutauchen und die Ruhe der Kirche St. Sebastian zu geniessen. Dieser Plan kombiniert Naturerlebnis mit kultureller Entdeckung.",
+        "hu": "Kezdje a napot egy autózással a Lägern-gerincre, ahonnan lenyűgöző a kilátás. Ezután parkoljon a Wettingeni kolostornál, és fedezze fel gyalog a történelmi komplexumot és a Limmat partját. Egy rövid délutáni autózás után parkoljon a központban, hogy elmerüljön a Gluri-Suter-Huus művészetében és élvezze a Szent Sebestyén-templom csendjét. Ez a terv ötvözi a természeti élményt a kulturális felfedezéssel.",
+        "ro": "Începeți ziua cu o călătorie cu mașina pe creasta Lägern pentru o priveliște spectaculoasă. Apoi, parcați la Mănăstirea Wettingen și explorați complexul istoric și malul râului Limmat pe jos. După o scurtă călătorie cu mașina după-amiaza, parcați în centru pentru a vă cufunda în arta de la Casa Gluri-Suter și a vă bucura de liniștea Bisericii Sf. Sebastian. Acest plan combină experiența naturii cu descoperirea culturală.",
+        "en": "Start the day with a drive up to the Lägern ridge for a spectacular view. Afterwards, park at Wettingen Abbey and explore the historic complex and the Limmat riverbank on foot. After a short drive in the afternoon, park in the center to immerse yourself in the art at the Gluri-Suter House and enjoy the tranquility of St. Sebastian Church. This plan combines nature experience with cultural discovery."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Restaurant Zwyssighof",
-            "tip": "Gehobene Küche im Zentrum."
+            "name": "Restaurant Lägern Hochwacht",
+            "tip": "Belohnen Sie sich mit einem Mittagessen mit Aussicht nach Ihrer morgendlichen Wanderung."
           }
         ],
         "hu": [
           {
-            "name": "Restaurant Zwyssighof",
-            "tip": "Színvonalas konyha a központban."
+            "name": "Lägern Hochwacht Étterem",
+            "tip": "Jutalmazza meg magát egy ebéddel a kilátás mellett a reggeli túra után."
           }
         ],
         "ro": [
           {
-            "name": "Restaurant Zwyssighof",
-            "tip": "Bucătărie rafinată în centru."
+            "name": "Restaurant Lägern Hochwacht",
+            "tip": "Recompensați-vă cu un prânz cu vedere după drumeția de dimineață."
           }
         ],
         "en": [
           {
-            "name": "Restaurant Zwyssighof",
-            "tip": "Fine dining in the center."
+            "name": "Restaurant Lägern Hochwacht",
+            "tip": "Reward yourself with lunch with a view after your morning hike."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Lägern Aussicht",
-            "tip": "Blick bis zu den Alpen bei klarem Wetter.",
-            "emoji": "🏔️"
+            "name": "Lägern-Gratweg",
+            "tip": "Ein Spaziergang auf dem Grat bietet Ruhe und weite Blicke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Ein abgeschiedener Ort der Stille mitten in der Stadt.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Lägern kilátás",
-            "tip": "Tiszta időben az Alpokig is ellátni.",
-            "emoji": "🏔️"
+            "name": "Lägern-gerincút",
+            "tip": "Egy séta a gerincen nyugalmat és pazar kilátást kínál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "Egy eldugott, csendes hely a város közepén.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Belvedere Lägern",
-            "tip": "Vedere până la Alpi pe vreme senină.",
-            "emoji": "🏔️"
+            "name": "Poteca de pe creasta Lägern",
+            "tip": "O plimbare pe creastă oferă liniște și priveliști largi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "Un loc retras de liniște în mijlocul orașului.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Lägern View",
-            "tip": "Views all the way to the Alps on clear days.",
-            "emoji": "🏔️"
+            "name": "Lägern ridge path",
+            "tip": "A walk on the ridge offers tranquility and wide views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "A secluded place of silence in the middle of the city.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Landi Wettingen",
-            "tip": "Lokale Produkte und Spezialitäten."
+            "name": "Käserei in der Region",
+            "tip": "Suchen Sie nach lokalen Käsereien für authentischen Schweizer Käse."
           }
         ],
         "hu": [
           {
-            "name": "Landi Wettingen",
-            "tip": "Helyi termékek és különlegességek."
+            "name": "Sajtüzem a régióban",
+            "tip": "Keressen helyi sajtüzemeket autentikus svájci sajtért."
           }
         ],
         "ro": [
           {
-            "name": "Landi Wettingen",
-            "tip": "Produse locale și specialități."
+            "name": "Fabrică de brânzeturi din regiune",
+            "tip": "Căutați fabrici de brânzeturi locale pentru brânză elvețiană autentică."
           }
         ],
         "en": [
           {
-            "name": "Landi Wettingen",
-            "tip": "Local products and specialties."
+            "name": "Cheese dairy in the region",
+            "tip": "Look for local cheese dairies for authentic Swiss cheese."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parkplätze beim Kloster sind an Wochenenden oft voll.",
-          "Blaue Zone im Stadtgebiet beachten."
+          "Prüfen Sie die Parkgebühren und -zeiten.",
+          "Die Bergstrassen zum Lägern können eng sein.",
+          "Kombinieren Sie kurze Fahrten mit längeren Spaziergängen für das beste Erlebnis."
         ],
         "hu": [
-          "A kolostornál a parkoló hétvégén hamar megtelik.",
-          "Ügyeljen a kék zónás parkolási szabályokra."
+          "Ellenőrizze a parkolási díjakat és időket.",
+          "A Lägernre vezető hegyi utak szűkek lehetnek.",
+          "Kombinálja a rövid autóutakat hosszabb sétákkal a legjobb élmény érdekében."
         ],
         "ro": [
-          "Parcările de la mănăstire sunt adesea pline în weekend.",
-          "Atenție la regulile de parcare din zona albastră."
+          "Verificați taxele și orele de parcare.",
+          "Drumurile montane către Lägern pot fi înguste.",
+          "Combinați călătoriile scurte cu plimbări mai lungi pentru cea mai bună experiență."
         ],
         "en": [
-          "Parking at the abbey is often full on weekends.",
-          "Observe the Blue Zone parking rules in the city."
+          "Check parking fees and times.",
+          "The mountain roads to Lägern can be narrow.",
+          "Combine short drives with longer walks for the best experience."
         ]
       },
       "variants": {
@@ -1424,235 +1452,283 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:50",
-      "total_km": 7.5,
-      "stop_count": 5,
+      "end_estimate": "16:45",
+      "total_km": 7.8,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
             "de": "Bahnhof Wettingen",
             "hu": "Wettingen vasútállomás",
             "ro": "Gara Wettingen",
-            "en": "Wettingen Railway Station"
+            "en": "Wettingen Train Station"
           },
           "coords": [
-            8.3215,
-            47.4655
+            8.315,
+            47.461
           ],
-          "category": "port",
+          "category": "transit",
           "arrive_at": "09:10",
-          "stay_min": 15,
+          "stay_min": 10,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
+          "hop_from_prev_km": 0.0,
           "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Zentraler Ankunftspunkt mit dem Zug.",
-            "hu": "Központi érkezési pont vonattal.",
-            "ro": "Punct central de sosire cu trenul.",
-            "en": "Central arrival point by train."
+          "tip_4lang": {
+            "de": "Kaufen Sie eine Tageskarte für die lokalen Busse.",
+            "hu": "Vásároljon napijegyet a helyi buszokra.",
+            "ro": "Cumpărați un bilet de o zi pentru autobuzele locale.",
+            "en": "Buy a day pass for the local buses."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Kloster Wettingen",
-            "hu": "Wettingeni apátság",
+            "hu": "Wettingeni kolostor",
             "ro": "Mănăstirea Wettingen",
             "en": "Wettingen Abbey"
           },
           "coords": [
-            8.3288,
-            47.4568
+            8.321,
+            47.468
           ],
           "category": "churches/cathedrals",
           "arrive_at": "09:40",
-          "stay_min": 110,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 3.2,
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
           "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Buslinie 7 ab Bahnhof bringt Sie direkt zum Kloster.",
-            "hu": "A 7-es busz az állomástól direkt a kolostorhoz visz.",
-            "ro": "Linia de autobuz 7 de la gară vă duce direct la mănăstire.",
-            "en": "Bus line 7 from the station takes you directly to the abbey."
+          "tip_4lang": {
+            "de": "Mehrere Buslinien halten in der Nähe des Klosters.",
+            "hu": "Több buszjárat is megáll a kolostor közelében.",
+            "ro": "Mai multe linii de autobuz opresc lângă mănăstire.",
+            "en": "Several bus lines stop near the abbey."
           }
         },
         {
-          "name": {
-            "de": "Marienkapelle",
-            "hu": "Mária-kápolna",
-            "ro": "Capela Maria",
-            "en": "Marienkapelle"
+          "name_4lang": {
+            "de": "Limmatsteg",
+            "hu": "Limmat-híd",
+            "ro": "Puntea Limmat",
+            "en": "Limmat Footbridge"
           },
           "coords": [
-            8.3275,
-            47.4565
+            8.323,
+            47.469
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:35",
-          "stay_min": 35,
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:05",
+          "stay_min": 25,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.3,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Gleich neben der Abtei zu Fuß erkunden.",
-            "hu": "Gyalog fedezze fel közvetlenül az apátság mellett.",
-            "ro": "Explorați pe jos, chiar lângă abație.",
-            "en": "Explore on foot, right next to the abbey."
+          "tip_4lang": {
+            "de": "Vom Kloster aus ein kurzer Spaziergang zum Flussufer.",
+            "hu": "A kolostortól egy rövid séta a folyópartra.",
+            "ro": "O scurtă plimbare de la mănăstire la malul râului.",
+            "en": "A short walk from the abbey to the riverbank."
           }
         },
         {
-          "name": {
-            "de": "Rathaus Wettingen",
-            "hu": "Wettingen városháza",
-            "ro": "Primăria Wettingen",
-            "en": "Wettingen Town Hall"
+          "name_4lang": {
+            "de": "Bushaltestelle Rathaus",
+            "hu": "Városháza buszmegálló",
+            "ro": "Stația de autobuz Primărie",
+            "en": "Rathaus Bus Stop"
           },
           "coords": [
-            8.3262,
-            47.4665
+            8.319,
+            47.463
           ],
-          "category": "monuments/statues",
-          "arrive_at": "12:25",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.8,
+          "category": "transit",
+          "arrive_at": "11:55",
+          "stay_min": 10,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
           "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Das Zentrum ist gut per Bus vernetzt.",
-            "hu": "A központ jól elérhető buszhálózattal.",
-            "ro": "Centrul este bine conectat prin rețeaua de autobuze.",
-            "en": "The center is well connected by the bus network."
+          "tip_4lang": {
+            "de": "Steigen Sie hier aus für den zweiten Cluster.",
+            "hu": "Szálljon le itt a második látnivalócsoporthoz.",
+            "ro": "Coborâți aici pentru al doilea cluster.",
+            "en": "Get off here for the second cluster."
           }
         },
         {
-          "name": {
-            "de": "Gluri-Suter-Huus",
-            "hu": "Gluri-Suter-Huus",
-            "ro": "Gluri-Suter-Huus",
-            "en": "Gluri-Suter-Huus"
+          "name_4lang": {
+            "de": "Gluri-Suter-Huus & Rathaus",
+            "hu": "Gluri-Suter-Huus és Városháza",
+            "ro": "Casa Gluri-Suter & Primărie",
+            "en": "Gluri-Suter House & Town Hall"
           },
           "coords": [
-            8.3285,
-            47.4662
+            8.318,
+            47.463
           ],
           "category": "museums",
-          "arrive_at": "13:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "arrive_at": "12:07",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Wenige Gehminuten vom Rathaus entfernt.",
-            "hu": "Pár perc sétára a városházától.",
-            "ro": "La câteva minute de mers pe jos de primărie.",
-            "en": "A few minutes' walk from the Town Hall."
+          "tip_4lang": {
+            "de": "Kombinieren Sie den Besuch des Kunstmuseums mit einem Blick auf die moderne Architektur des Rathauses.",
+            "hu": "Kombinálja a művészeti múzeum látogatását a Városháza modern építészetének megtekintésével.",
+            "ro": "Combinați vizita la muzeul de artă cu o privire la arhitectura modernă a primăriei.",
+            "en": "Combine the visit to the art museum with a look at the modern architecture of the town hall."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche St. Sebastian",
+            "hu": "Szent Sebestyén-templom",
+            "ro": "Biserica Sf. Sebastian",
+            "en": "St. Sebastian Church"
+          },
+          "coords": [
+            8.318,
+            47.465
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 2.3,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Bushaltestelle zu diesem ruhigen Ort.",
+            "hu": "Egy rövid séta a buszmegállótól ehhez a csendes helyhez.",
+            "ro": "O scurtă plimbare de la stația de autobuz la acest loc liniștit.",
+            "en": "A short walk from the bus stop to this peaceful place."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Bequem mit ÖV! Start am Bahnhof, dann per Bus direkt zur berühmten Klosterhalbinsel. Nach der Besichtigung fahren Sie zurück ins Zentrum zum Rathaus und besuchen das nahegelegene Gluri-Suter-Huus. Wettingen ist dank dichter Busverbindungen ideal für Transit-Nutzer.",
-        "hu": "Kényelmesen közösségi közlekedéssel! Kezdjen az állomáson, majd busszal menjen egyenesen a híres kolostorfélszigethez. A látogatás után buszozzon vissza a központba a városházához, és nézze meg a közeli Gluri-Suter-Huust. Wettingen buszhálózata kiváló.",
-        "ro": "Confortabil cu transportul public! Începeți la gară, apoi luați autobuzul direct spre celebra peninsulă a mănăstirii. După vizitare, întoarceți-vă în centru la primărie și vizitați Gluri-Suter-Huus. Wettingen este ideal pentru utilizatorii de tranzit datorită conexiunilor dense.",
-        "en": "Conveniently by public transport! Start at the railway station, then take a bus directly to the famous monastery peninsula. After the visit, head back to the center to the Town Hall and visit the nearby Gluri-Suter-Huus. Wettingen is ideal for transit users thanks to its dense bus network."
+        "de": "Nutzen Sie das effiziente Busnetz von Wettingen. Starten Sie am Bahnhof und fahren Sie zum Kloster-Cluster, wo Sie die Abtei und den Limmatsteg zu Fuss erkunden. Eine zweite Busfahrt bringt Sie ins Zentrum, wo Sie das Rathaus und das Gluri-Suter-Huus entdecken können. Der Nachmittag endet nach einer weiteren kurzen Fahrt bei der besinnlichen Kirche St. Sebastian. Dieser Plan ist ideal, um die Distanzen bequem zu überbrücken.",
+        "hu": "Használja ki Wettingen hatékony buszhálózatát. Induljon a vasútállomásról, és utazzon a kolostor-csoporthoz, ahol gyalog fedezheti fel az apátságot és a Limmat-hidat. Egy második buszozás elviszi a központba, ahol felfedezheti a Városházát és a Gluri-Suter-Huust. A délután egy újabb rövid buszút után a meditatív Szent Sebestyén-templomnál ér véget. Ez a terv ideális a távolságok kényelmes áthidalására.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Wettingen. Porniți de la gară și mergeți la clusterul mănăstirii, unde explorați abația și puntea Limmat pe jos. O a doua călătorie cu autobuzul vă duce în centru, unde puteți descoperi primăria și Casa Gluri-Suter. După-amiaza se încheie după o altă scurtă călătorie cu autobuzul la contemplativa Biserică Sf. Sebastian. Acest plan este ideal pentru a acoperi distanțele în mod confortabil.",
+        "en": "Use Wettingen's efficient bus network. Start at the train station and travel to the monastery cluster, where you can explore the abbey and the Limmat Footbridge on foot. A second bus ride takes you to the center, where you can discover the town hall and the Gluri-Suter House. The afternoon ends after another short bus ride at the contemplative St. Sebastian Church. This plan is ideal for covering the distances comfortably."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Kanti-Mensa",
-            "tip": "Günstige und gute Verpflegung nahe dem Kloster."
+            "name": "Bäckerei-Café",
+            "tip": "Gönnen Sie sich ein frisches Gebäck und einen Kaffee in einem der vielen Cafés in der Nähe der Bushaltestellen."
           }
         ],
         "hu": [
           {
-            "name": "Kanti-Mensa",
-            "tip": "Olcsó és jó étkezési lehetőség a kolostor közelében."
+            "name": "Pékség-kávézó",
+            "tip": "Kényeztesse magát egy friss péksüteménnyel és egy kávéval a buszmegállók közelében található számos kávézó egyikében."
           }
         ],
         "ro": [
           {
-            "name": "Kanti-Mensa",
-            "tip": "Mâncare bună și ieftină lângă mănăstire."
+            "name": "Brutărie-cafenea",
+            "tip": "Răsfățați-vă cu un produs de patiserie proaspăt și o cafea la una dintre numeroasele cafenele de lângă stațiile de autobuz."
           }
         ],
         "en": [
           {
-            "name": "Kanti-Mensa",
-            "tip": "Affordable and good food near the abbey."
+            "name": "Bakery-Café",
+            "tip": "Treat yourself to a fresh pastry and a coffee at one of the many cafés near the bus stops."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Abteigarten",
-            "tip": "Inmitten von Blumen zur Ruhe kommen.",
-            "emoji": "🌻"
+            "name": "Friedhof St. Sebastian",
+            "tip": "Der Friedhof neben der Kirche ist ein Ort der Ruhe und des Gedenkens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Limmatuferweg",
+            "tip": "Auch mit dem Bus erreichbar, bietet der Weg ruhige Abschnitte.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Apátsági kert",
-            "tip": "Pihenjen meg a virágok között.",
-            "emoji": "🌻"
+            "name": "Szent Sebestyén temető",
+            "tip": "A templom melletti temető a béke és az emlékezés helye.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Limmat-parti út",
+            "tip": "Busszal is elérhető, az út csendes szakaszokat kínál.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Grădina Abației",
-            "tip": "Liniște în mijlocul florilor.",
-            "emoji": "🌻"
+            "name": "Cimitirul Sf. Sebastian",
+            "tip": "Cimitirul de lângă biserică este un loc de pace și comemorare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Potecă pe malul Limmatului",
+            "tip": "Accesibilă și cu autobuzul, poteca oferă secțiuni liniștite.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Abbey Garden",
-            "tip": "Find peace amidst the flowers.",
-            "emoji": "🌻"
+            "name": "St. Sebastian Cemetery",
+            "tip": "The cemetery next to the church is a place of peace and remembrance.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Limmat riverside path",
+            "tip": "Also accessible by bus, the path offers quiet sections.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Zentrumspassage",
-            "tip": "Diverse Läden im Herzen der Stadt."
+            "name": "Geschäfte an der Landstrasse",
+            "tip": "Die Hauptstrasse bietet eine Vielzahl von Geschäften für einen Einkaufsbummel."
           }
         ],
         "hu": [
           {
-            "name": "Zentrumspassage",
-            "tip": "Különféle boltok a város szívében."
+            "name": "Boltok a Landstrasse-n",
+            "tip": "A főutca számos üzletet kínál egy bevásárló körúthoz."
           }
         ],
         "ro": [
           {
-            "name": "Zentrumspassage",
-            "tip": "Diverse magazine în inima orașului."
+            "name": "Magazine pe Landstrasse",
+            "tip": "Strada principală oferă o varietate de magazine pentru o sesiune de cumpărături."
           }
         ],
         "en": [
           {
-            "name": "Zentrumspassage",
-            "tip": "Various shops in the heart of the city."
+            "name": "Shops on Landstrasse",
+            "tip": "The main street offers a variety of shops for a shopping spree."
           }
         ]
       },
       "tips": {
         "de": [
-          "Nutzen Sie die App des RVBW für Echtzeit-Fahrpläne.",
-          "Tagestickets sind oft günstiger."
+          "Laden Sie die Fahrplan-App des lokalen Verkehrsverbunds herunter.",
+          "Eine Tageskarte ist oft günstiger als Einzeltickets.",
+          "Beachten Sie die Abfahrtszeiten, um Wartezeiten zu minimieren."
         ],
         "hu": [
-          "Használja az RVBW appot a valós idejű menetrendhez.",
-          "A napijegy gyakran jobban megéri."
+          "Töltse le a helyi közlekedési vállalat menetrend-alkalmazását.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "A várakozási idők minimalizálása érdekében figyeljen az indulási időkre."
         ],
         "ro": [
-          "Folosiți aplicația RVBW pentru orare în timp real.",
-          "Biletele de o zi sunt adesea mai avantajoase."
+          "Descărcați aplicația de orare a companiei locale de transport.",
+          "Un bilet de o zi este adesea mai ieftin decât biletele individuale.",
+          "Fiți atenți la orele de plecare pentru a minimiza timpii de așteptare."
         ],
         "en": [
-          "Use the RVBW app for real-time schedules.",
-          "Day tickets are often more economical."
+          "Download the schedule app of the local transport association.",
+          "A day pass is often cheaper than single tickets.",
+          "Pay attention to departure times to minimize waiting times."
         ]
       },
       "variants": {

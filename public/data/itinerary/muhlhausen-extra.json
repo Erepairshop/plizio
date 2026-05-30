@@ -1,0 +1,992 @@
+{
+  "city_id": "muhlhausen-extra",
+  "anchor": {
+    "name": "Mühlhausen",
+    "coords": [
+      10.4578,
+      51.2096
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            10.4565,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Archiv im gotischen Teil des Rathauses.",
+            "hu": "Nézze meg a gótikus városháza levéltári szárnyát.",
+            "ro": "Vizitați arhiva din secțiunea gotică a primăriei.",
+            "en": "Visit the archive in the Gothic section of the town hall."
+          }
+        },
+        {
+          "name": "Divi-Blasii-Kirche",
+          "coords": [
+            10.4552,
+            51.2078
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hier wirkte Johann Sebastian Bach als Organist.",
+            "hu": "Itt dolgozott Johann Sebastian Bach orgonistaként.",
+            "ro": "Aici a activat Johann Sebastian Bach ca organist.",
+            "en": "Johann Sebastian Bach worked here as an organist."
+          }
+        },
+        {
+          "name": "Inneres Frauentor",
+          "coords": [
+            10.4532,
+            51.2085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das imposante Tor markiert den Beginn der Stadtmauer.",
+            "hu": "Az impozáns kapu jelzi a városfal kezdetét.",
+            "ro": "Poarta impunătoare marchează începutul zidului cetății.",
+            "en": "The imposing gate marks the start of the city wall."
+          }
+        },
+        {
+          "name": "Mühlhäuser Stadtmauer",
+          "coords": [
+            10.4535,
+            51.2105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Begehen Sie den fast vollständig erhaltenen Wehrgang.",
+            "hu": "Sétáljon végig a szinte teljesen ép védművön.",
+            "ro": "Mergeți pe galeria de apărare aproape complet conservată.",
+            "en": "Walk along the almost completely preserved ramparts."
+          }
+        },
+        {
+          "name": "Marienkirche",
+          "coords": [
+            10.4583,
+            51.2104
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die fünfschiffige Hallenkirche ist das Wahrzeichen der Stadt.",
+            "hu": "Az öthajós csarnoktemplom a város jelképe.",
+            "ro": "Biserica cu cinci nave este simbolul orașului.",
+            "en": "The five-aisled hall church is the city's landmark."
+          }
+        },
+        {
+          "name": "Kornmarktkirche",
+          "coords": [
+            10.4585,
+            51.2088
+          ],
+          "category": "museums",
+          "arrive_at": "13:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Museum zur Geschichte des Bauernkrieges.",
+            "hu": "A német parasztháború történetét bemutató múzeum.",
+            "ro": "Muzeu dedicat istoriei Războiului Țărănesc German.",
+            "en": "Museum dedicated to the history of the Peasants' War."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mühlhausen empfängt Sie mit einer Zeitreise ins Mittelalter. Der Vormittag beginnt im Zentrum der ehemaligen freien Reichsstadt, wo das historische Rathaus und die Kirchen von der einstigen Macht zeugen. Mittags erkunden Sie die Spuren Bachs und Müntzers. Der Nachmittag gehört der beeindruckenden Stadtmauer, auf der Sie hoch über den Gassen wandeln können, bevor der Tag in der Unterstadt gemütlich ausklingt.",
+        "hu": "Mühlhausen középkori időutazásra hívja Önt. A délelőtt az egykori szabad birodalmi város központjában kezdődik, ahol a történelmi városháza és a monumentális templomok tanúskodnak a múltbeli hatalomról. Délben Bach és Müntzer nyomába eredünk. A délután az impozáns városfalé, ahol a sikátorok felett sétálhatunk, majd a nap az alsóváros hangulatos utcáin zárul.",
+        "ro": "Mühlhausen vă întâmpină cu o călătorie în timp în epoca medievală. Dimineața începe în centrul fostului oraș imperial liber, unde primăria istorică și bisericile monumentale atestă puterea de odinioară. La prânz, explorăm urmele lui Bach și Müntzer. După-amiaza este dedicată zidului impresionant al cetății, pe unde puteți merge deasupra străduțelor, înainte ca ziua să se încheie relaxat în orașul de jos.",
+        "en": "Mühlhausen welcomes you with a journey back to the Middle Ages. The morning begins in the center of the former Free Imperial City, where the historic town hall and grand churches bear witness to past power. At midday, follow in the footsteps of Bach and Müntzer. The afternoon is dedicated to the impressive city wall, where you can walk high above the alleys, before ending the day in the lower town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus zum Löwen",
+            "tip": "Probieren Sie das hausgebraute Bier und Thüringer Klöße."
+          },
+          {
+            "name": "Mühlhäuser Pflaumenmus",
+            "tip": "Das berühmte lokale Souvenir, traditionell hergestellt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus zum Löwen",
+            "tip": "Kóstolja meg a helyi sört és a türingiai gombócot."
+          },
+          {
+            "name": "Mühlhäuser Pflaumenmus",
+            "tip": "A híres helyi szilvalekvár, hagyományos recept alapján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus zum Löwen",
+            "tip": "Încercați berea artizanală și găluștele turingiene."
+          },
+          {
+            "name": "Mühlhäuser Pflaumenmus",
+            "tip": "Celebrul magun de prune local, produs tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus zum Löwen",
+            "tip": "Try the house-brewed beer and Thuringian dumplings."
+          },
+          {
+            "name": "Mühlhäuser Pflaumenmus",
+            "tip": "The famous local plum jam, made traditionally."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauer Wehrgang",
+            "tip": "Ruhiger Spaziergang mit Blick über die Dächer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marienkirchplatz",
+            "tip": "Ein stiller Ort im Schatten des großen Turms.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfal védmű",
+            "tip": "Csendes séta kilátással a háztetőkre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marienkirchplatz",
+            "tip": "Nyugodt tér a hatalmas torony árnyékában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria zidului cetății",
+            "tip": "O plimbare liniștită cu vedere peste acoperișuri.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marienkirchplatz",
+            "tip": "Un loc liniștit la umbra turnului mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Wall Walkway",
+            "tip": "Quiet walk with views over the rooftops.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marienkirchplatz",
+            "tip": "A peaceful spot in the shadow of the great tower.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinweg",
+            "tip": "Die zentrale Einkaufsstraße mit kleinen Fachgeschäften."
+          },
+          {
+            "name": "Wochenmarkt auf dem Obermarkt",
+            "tip": "Regionale Produkte direkt von Thüringer Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steinweg",
+            "tip": "A központi bevásárlóutca kis szaküzletekkel."
+          },
+          {
+            "name": "Wochenmarkt (Obermarkt)",
+            "tip": "Regionális termékek közvetlenül a türingiai termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Steinweg",
+            "tip": "Principala stradă comercială cu mici magazine specializate."
+          },
+          {
+            "name": "Piața săptămânală din Obermarkt",
+            "tip": "Produse regionale direct de la producătorii turingieni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steinweg",
+            "tip": "The central shopping street with small specialty shops."
+          },
+          {
+            "name": "Weekly Market at Obermarkt",
+            "tip": "Regional products directly from Thuringian producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequemes Schuhwerk für das historische Kopfsteinpflaster.",
+          "Die Marienkirche bietet einen tollen Blick vom Turm.",
+          "Kombinieren Sie den Stadtmauerbesuch mit dem Museum im Rabenturm.",
+          "Mühlhausen ist klein genug, um alles entspannt zu Fuß zu erreichen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a történelmi macskaköves utcákhoz.",
+          "A Marienkirche tornyából nagyszerű kilátás nyílik.",
+          "A városfal látogatását kösse össze a Rabenturm múzeumával.",
+          "Mühlhausen elég kicsi ahhoz, hogy mindent kényelmesen, gyalog érjen el."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Biserica Sfânta Maria oferă o vedere excelentă din turn.",
+          "Combinați vizita la zidul cetății cu muzeul din turnul Rabenturm.",
+          "Mühlhausen este destul de mic pentru a ajunge peste tot pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes for the historic cobblestone streets.",
+          "St. Mary's Church offers a great view from its tower.",
+          "Combine the city wall visit with the museum in the Rabenturm.",
+          "Mühlhausen is small enough to reach everything easily on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            10.4565,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt am gotischen Rathaus.",
+            "hu": "Központi indulópont a gótikus városházánál.",
+            "ro": "Punct central de plecare de la primăria gotică.",
+            "en": "Central starting point at the Gothic town hall."
+          }
+        },
+        {
+          "name": "Puschkinhaus",
+          "coords": [
+            10.4505,
+            51.2098
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kulturelles Zentrum am Rande der Altstadt.",
+            "hu": "Kulturális központ az óváros szélén.",
+            "ro": "Un centru cultural la marginea centrului vechi.",
+            "en": "A cultural center on the edge of the old town."
+          }
+        },
+        {
+          "name": "Popperöder Brunnenhaus",
+          "coords": [
+            10.4285,
+            51.1997
+          ],
+          "category": "natural features",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen im Grünen, ein Juwel der Renaissance.",
+            "hu": "Reneszánsz ékszerdoboz a zöldben, a város egyik jelképe.",
+            "ro": "O bijuterie renascentistă în natură, un simbol al orașului.",
+            "en": "A Renaissance gem in the greenery, a city symbol."
+          }
+        },
+        {
+          "name": "Inneres Frauentor",
+          "coords": [
+            10.4532,
+            51.2085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Befahrbares historisches Stadttor.",
+            "hu": "Kerékpárral is megközelíthető történelmi városkapu.",
+            "ro": "Poartă istorică a orașului, accesibilă cu bicicleta.",
+            "en": "Historic city gate accessible by bike."
+          }
+        },
+        {
+          "name": "Marienkirche",
+          "coords": [
+            10.4583,
+            51.2104
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad sicher am Kirchplatz ab.",
+            "hu": "Zárja le biztonságosan a biciklit a templomtéren.",
+            "ro": "Parcați bicicleta în siguranță în piața bisericii.",
+            "en": "Park your bike securely at the church square."
+          }
+        },
+        {
+          "name": "Kornmarktkirche",
+          "coords": [
+            10.4585,
+            51.2088
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am geschichtsträchtigen Museum.",
+            "hu": "A túra zárása a nagy múltú múzeumnál.",
+            "ro": "Finalul turului la muzeul plin de istorie.",
+            "en": "End the tour at the history-steeped museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour verbindet das mittelalterliche Mühlhausen mit der idyllischen Umgebung Thüringens. Nach dem Start in der Altstadt radeln Sie durch grüne Alleen zum Popperöder Brunnenhaus, einem Renaissance-Kleinod. Zurück im Stadtkern erkunden Sie die prächtigen gotischen Kirchen und die Wehranlagen. Eine perfekte Mischung aus Kultur und Naturgenuss auf zwei Rädern.",
+        "hu": "Ez a kerékpártúra összeköti a középkori Mühlhausent Türingia idilli környezetével. Az óvárosi indulás után zöld fasorokon keresztül kerekezünk a Popperöder Brunnenhaushoz, amely egy reneszánsz ékszerdoboz. A városközpontba visszatérve felfedezzük a pompás gótikus templomokat és a védműveket. A kultúra és a természet élvezetének tökéletes keveréke két keréken.",
+        "ro": "Turul cu bicicleta conectează orașul medieval Mühlhausen cu împrejurimile idilice ale Turingiei. După plecarea din centrul vechi, pedalați prin alei verzi către Popperöder Brunnenhaus, o bijuterie renascentistă. Revenind în centrul orașului, explorați bisericile gotice splendide și fortificațiile. Un amestec perfect de cultură și natură pe două roți.",
+        "en": "This bike tour connects medieval Mühlhausen with the idyllic Thuringian countryside. After starting in the old town, cycle through green avenues to the Popperöder Brunnenhaus, a Renaissance gem. Back in the city center, explore the magnificent Gothic churches and defensive structures. A perfect mix of culture and nature on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "LPG-Hofladen",
+            "tip": "Frische Thüringer Produkte für ein Picknick im Grünen."
+          },
+          {
+            "name": "Eiscafé am Schwanenteich",
+            "tip": "Perfekte Erfrischung nach der Fahrt zum Brunnenhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "LPG-Hofladen",
+            "tip": "Friss türingiai termékek egy szabadtéri piknikhez."
+          },
+          {
+            "name": "Eiscafé am Schwanenteich",
+            "tip": "Tökéletes felfrissülés a kútházhoz tett út után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "LPG-Hofladen",
+            "tip": "Produse proaspete turingiene pentru un picnic în natură."
+          },
+          {
+            "name": "Eiscafé am Schwanenteich",
+            "tip": "Răcorire perfectă după drumul spre casa fântânii."
+          }
+        ],
+        "en": [
+          {
+            "name": "LPG-Hofladen",
+            "tip": "Fresh Thuringian products for a picnic in the countryside."
+          },
+          {
+            "name": "Eiscafé am Schwanenteich",
+            "tip": "Perfect refreshment after the ride to the well house."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Popperöder Brunnen",
+            "tip": "Idyllischer Quellort außerhalb der Stadtmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Ein weitläufiger Park ideal für eine Radpause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Popperöder Brunnen",
+            "tip": "Idilli forráshely a városfalakon kívül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Tágas park, ideális egy kerékpáros pihenőhöz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popperöder Brunnen",
+            "tip": "Izvor idilic în afara zidurilor orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Un parc vast ideal pentru o pauză cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Popperöder Brunnen",
+            "tip": "Idyllic spring location outside the city walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "A spacious park ideal for a bike break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen am Steinweg",
+            "tip": "Zubehör und lokale Karten für Radwanderer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradladen am Steinweg",
+            "tip": "Kiegészítők és helyi térképek túrázóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fahrradladen am Steinweg",
+            "tip": "Accesorii și hărți locale pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrradladen am Steinweg",
+            "tip": "Accessories and local maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Unstrut-Radweg für längere Touren ab Mühlhausen.",
+          "Die Strecke zum Brunnenhaus ist eben und sehr gut ausgebaut.",
+          "In der Altstadt ist das Radfahren in manchen Fußgängerzonen eingeschränkt.",
+          "Ein Helm ist auf den Landstraßen ringsum empfehlenswert."
+        ],
+        "hu": [
+          "Használja az Unstrut-kerékpárutat hosszabb túrákhoz Mühlhausenből.",
+          "A kútházhoz vezető út sík és kiválóan kiépített.",
+          "Az óvárosban bizonyos sétálóövezetekben korlátozott a kerékpározás.",
+          "A környező országutakon ajánlott a bukósisak használata."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete Unstrut pentru tururi mai lungi din Mühlhausen.",
+          "Traseul către casa fântânii este plat și foarte bine amenajat.",
+          "În centrul vechi, mersul pe bicicletă este limitat în unele zone pietonale.",
+          "Se recomandă purtarea căștii pe drumurile județene din jur."
+        ],
+        "en": [
+          "Use the Unstrut cycle path for longer tours from Mühlhausen.",
+          "The route to the well house is flat and very well maintained.",
+          "Cycling is restricted in some pedestrian zones within the old town.",
+          "A helmet is recommended on the surrounding country roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            10.4565,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Entenbühl für den Altstadtrundgang.",
+            "hu": "Parkoljon az Entenbühl parkolóházban az óvárosi sétához.",
+            "ro": "Parcați în parcarea Entenbühl pentru turul centrului vechi.",
+            "en": "Park at the Entenbühl parking garage for the old town walk."
+          }
+        },
+        {
+          "name": "Marienkirche",
+          "coords": [
+            10.4583,
+            51.2104
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:46",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster A: Kurzer Fußweg vom Rathaus.",
+            "hu": "A Klaszter: Rövid sétára a városházától.",
+            "ro": "Cluster A: Scurtă plimbare de la primărie.",
+            "en": "Cluster A: Short walk from the town hall."
+          }
+        },
+        {
+          "name": "Mühlhäuser Stadtmauer",
+          "coords": [
+            10.4535,
+            51.2105
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Cluster A: Zu Fuß erreichbar, Auto stehen lassen.",
+            "hu": "A Klaszter: Gyalog elérhető, hagyja az autót a parkolóban.",
+            "ro": "Cluster A: Accesibil pe jos, lăsați mașina în parcare.",
+            "en": "Cluster A: Accessible on foot, leave the car parked."
+          }
+        },
+        {
+          "name": "Popperöder Brunnenhaus",
+          "coords": [
+            10.4285,
+            51.1997
+          ],
+          "category": "natural features",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Cluster B: Kurze Fahrt zum Stadtrand mit Parkplatz vor Ort.",
+            "hu": "B Klaszter: Rövid autóút a város szélére, helyszíni parkolóval.",
+            "ro": "Cluster B: Scurtă călătorie la marginea orașului, cu parcare.",
+            "en": "Cluster B: Short drive to the outskirts with on-site parking."
+          }
+        },
+        {
+          "name": "Puschkinhaus",
+          "coords": [
+            10.4505,
+            51.2098
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Cluster C: Kulturzentrum mit schöner Parkanlage.",
+            "hu": "C Klaszter: Kulturális központ szép parkkal.",
+            "ro": "Cluster C: Centru cultural cu un parc frumos.",
+            "en": "Cluster C: Cultural center with a beautiful park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Mühlhausen flexibel und komfortabel. Die Tour beginnt mit einem Cluster-Spaziergang durch den historischen Kern, wo Sie Rathaus, Stadtmauer und die mächtige Marienkirche erkunden. Danach führt eine kurze Fahrt zum Stadtrand zum malerischen Popperöder Brunnenhaus, bevor Sie den Nachmittag am Puschkinhaus ausklingen lassen. Diese Route minimiert Parkplatzsorgen durch strategische Stopps.",
+        "hu": "Autóval rugalmasan és kényelmesen fedezheti fel Mühlhausent. A túra egy óvárosi sétával indul, ahol a városházát, a városfalat és a hatalmas Marienkirchét ismerheti meg. Ezután egy rövid autóút vezet a város szélére, a festői Popperöder Brunnenhaushoz, majd a délutánt a Puschkinhausnál zárjuk. Ez az útvonal stratégiai megállókkal minimalizálja a parkolási gondokat.",
+        "ro": "Cu mașina, experimentați Mühlhausen într-un mod flexibil și confortabil. Turul începe cu o plimbare în centrul istoric, unde explorați primăria, zidul cetății și biserica Sfânta Maria. Apoi, o scurtă călătorie vă duce la marginea orașului, la pitoreasca Popperöder Brunnenhaus, înainte de a încheia după-amiaza la Puschkinhaus. Acest traseu minimizează grijile legate de parcare prin opriri strategice.",
+        "en": "With a car, you can experience Mühlhausen flexibly and comfortably. The tour begins with a cluster walk through the historic core, exploring the town hall, city wall, and the mighty St. Mary's Church. A short drive then leads to the outskirts to the picturesque Popperöder Brunnenhaus, before ending the afternoon at Puschkinhaus. This route minimizes parking worries through strategic stops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antoniusmühle",
+            "tip": "Historische Mühle mit gehobener Thüringer Küche und Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antoniusmühle",
+            "tip": "Történelmi malom kiváló türingiai konyhával és parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antoniusmühle",
+            "tip": "Moară istorică cu bucătărie turingiană rafinată și parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antoniusmühle",
+            "tip": "Historic mill with upscale Thuringian cuisine and parking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lindenbühl",
+            "tip": "Parkähnliche Anlage am Rande der Altstadt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lindenbühl",
+            "tip": "Parkszerű terület az óváros szélén.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lindenbühl",
+            "tip": "Zonă tip parc la marginea centrului vechi.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lindenbühl",
+            "tip": "Park-like area on the edge of the old town.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Burggalerie",
+            "tip": "Kleines Einkaufszentrum mit bequemer Tiefgarage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burggalerie",
+            "tip": "Kis bevásárlóközpont kényelmes mélygarázzsal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burggalerie",
+            "tip": "Mic centru comercial cu parcare subterană convenabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burggalerie",
+            "tip": "Small shopping center with convenient underground parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride Möglichkeiten, um die enge Altstadt zu meiden.",
+          "Die Parkgebühren sind in Mühlhausen moderat.",
+          "Ein Abstecher zum nahegelegenen Nationalpark Hainich lohnt sich mit dem Auto.",
+          "Achten Sie in der Altstadt auf Einbahnstraßenregelungen."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket, hogy elkerülje a szűk óvárosi utcákat.",
+          "A parkolási díjak Mühlhausenben mérsékeltek.",
+          "Autóval érdemes egy kitérőt tenni a közeli Hainich Nemzeti Parkba.",
+          "Ügyeljen az óvárosban az egyirányú utcákra."
+        ],
+        "ro": [
+          "Folosiți opțiunile Park-and-Ride pentru a evita centrul vechi îngust.",
+          "Taxele de parcare în Mühlhausen sunt moderate.",
+          "O excursie la Parcul Național Hainich din apropiere merită făcută cu mașina.",
+          "Atenție la sensurile unice din centrul istoric."
+        ],
+        "en": [
+          "Use Park-and-Ride options to avoid the narrow old town streets.",
+          "Parking fees in Mühlhausen are moderate.",
+          "A detour to the nearby Hainich National Park is worthwhile by car.",
+          "Watch out for one-way street regulations in the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Historisches Rathaus",
+          "coords": [
+            10.4565,
+            51.2092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle 'Obermarkt' ganz in der Nähe.",
+            "hu": "Az 'Obermarkt' központi buszmegálló a közvetlen közelben.",
+            "ro": "Stația centrală de autobuz 'Obermarkt' este foarte aproape.",
+            "en": "Central bus stop 'Obermarkt' is very close by."
+          }
+        },
+        {
+          "name": "Divi-Blasii-Kirche",
+          "coords": [
+            10.4552,
+            51.2078
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "District A: Zu Fuß vom Rathaus erreichbar.",
+            "hu": "A körzet: Gyalog elérhető a városházától.",
+            "ro": "District A: Accesibil pe jos de la primărie.",
+            "en": "District A: Reachable on foot from the town hall."
+          }
+        },
+        {
+          "name": "Marienkirche",
+          "coords": [
+            10.4583,
+            51.2104
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "District A: Kurzer Spaziergang durch die Fußgängerzone.",
+            "hu": "A körzet: Rövid séta a sétálóövezeten keresztül.",
+            "ro": "District A: Scurtă plimbare prin zona pietonală.",
+            "en": "District A: Short walk through the pedestrian zone."
+          }
+        },
+        {
+          "name": "Popperöder Brunnenhaus",
+          "coords": [
+            10.4285,
+            51.1997
+          ],
+          "category": "natural features",
+          "arrive_at": "12:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Buslinie Richtung 'Schwanenteich/Weisse Haus'.",
+            "hu": "Használja a 'Schwanenteich/Weisse Haus' felé tartó buszjáratot.",
+            "ro": "Folosiți linia de autobuz spre 'Schwanenteich/Weisse Haus'.",
+            "en": "Take the bus line towards 'Schwanenteich/Weisse Haus'."
+          }
+        },
+        {
+          "name": "Kornmarktkirche",
+          "coords": [
+            10.4585,
+            51.2088
+          ],
+          "category": "museums",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum zum Kornmarkt.",
+            "hu": "Visszautazás a központba, a Kornmarkthoz.",
+            "ro": "Întoarcerea în centru la Kornmarkt.",
+            "en": "Return trip to the center at Kornmarkt."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mühlhausen lässt sich hervorragend mit den Stadtbussen erkunden. Der Tag beginnt im historischen Zentrum, wo die wichtigsten Sehenswürdigkeiten eng beieinander liegen. Nach der Erkundung der großen Kirchen bringt Sie der Bus bequem zum idyllischen Popperöder Brunnenhaus am Stadtrand. Diese Route kombiniert die dichte Geschichte der Altstadt mit einem entspannten Ausflug ins Grüne, ohne Parkplatzsuche.",
+        "hu": "Mühlhausen kiválóan felfedezhető a városi buszokkal. A nap a történelmi központban kezdődik, ahol a legfontosabb látnivalók közel vannak egymáshoz. A nagy templomok megtekintése után a busz kényelmesen elviszi Önt a város szélén található idilli Popperöder Brunnenhaushoz. Ez az útvonal ötvözi az óváros sűrű történelmét egy pihentető zöld kirándulással, parkolási gondok nélkül.",
+        "ro": "Mühlhausen poate fi explorat excelent cu autobuzele urbane. Ziua începe în centrul istoric, unde cele mai importante atracții sunt aproape una de cealaltă. După vizitarea bisericilor mari, autobuzul vă duce confortabil la idilica Popperöder Brunnenhaus de la marginea orașului. Acest traseu combină istoria densă a centrului vechi cu o excursie relaxantă în natură, fără grija parcării.",
+        "en": "Mühlhausen can be excellently explored with city buses. The day begins in the historic center, where the most important sights are clustered together. After exploring the grand churches, the bus takes you comfortably to the idyllic Popperöder Brunnenhaus on the outskirts. This route combines the dense history of the old town with a relaxed green excursion, without the need for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Kornmarkt",
+            "tip": "Holen Sie sich ein Stück Thüringer Blechkuchen für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei am Kornmarkt",
+            "tip": "Vegyünk egy szelet türingiai süteményt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei am Kornmarkt",
+            "tip": "Luați o felie de prăjitură turingiană pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei am Kornmarkt",
+            "tip": "Grab a piece of Thuringian sheet cake for the way."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Popperöder Park",
+            "tip": "Ruhige Grünanlage rund um das Brunnenhaus.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Popperöder Park",
+            "tip": "Nyugodt zöldövezet a kútház körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popperöder Park",
+            "tip": "Zonă verde liniștită în jurul casei fântânii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Popperöder Park",
+            "tip": "Quiet green area around the well house.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop in der Tourist-Info",
+            "tip": "Regionale Spezialitäten und Bach-Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourinform ajándékbolt",
+            "tip": "Regionális specialitások és Bach-emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la info-turist",
+            "tip": "Specialități regionale și amintiri cu Bach."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at Tourist Info",
+            "tip": "Regional specialties and Bach souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtbus Mühlhausen.",
+          "Die Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan.",
+          "Der Obermarkt ist der zentrale Umsteigepunkt für alle Linien.",
+          "Vom Bahnhof in die Altstadt sind es nur wenige Minuten mit dem Bus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a mühlhauseni városi buszra.",
+          "A buszok hétvégén ritkábban járnak, ellenőrizze a menetrendet.",
+          "Az Obermarkt a központi átszállási pont minden vonalhoz.",
+          "A vasútállomástól az óváros csak néhány perc busszal."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul urban din Mühlhausen.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul.",
+          "Obermarkt este punctul central de transfer pentru toate liniile.",
+          "De la gară la centrul vechi sunt doar câteva minute cu autobuzul."
+        ],
+        "en": [
+          "Purchase a day ticket for the Mühlhausen city bus.",
+          "Buses run less frequently on weekends, so check the timetable.",
+          "Obermarkt is the central transfer point for all lines.",
+          "It's only a few minutes by bus from the train station to the old town."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "city_id": "krefeld-extra",
+  "anchor": {
+    "name": "Krefeld City Center",
+    "coords": [
+      6.57,
+      51.33
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Dionysiuskirche",
+          "coords": [
+            6.563,
+            51.332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur im Stadtzentrum.",
+            "hu": "Csodálja meg a városközpont neogótikus építészetét.",
+            "ro": "Admirați arhitectura neogotică din centrul orașului.",
+            "en": "Admire the neo-Gothic architecture in the city center."
+          }
+        },
+        {
+          "name": "Kulturfabrik Krefeld",
+          "coords": [
+            6.568,
+            51.322
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Zentrum für alternative Kultur in einem alten Schlachthof.",
+            "hu": "Alternatív kulturális központ egy régi vágóhídon.",
+            "ro": "Un centru pentru cultură alternativă într-un fost abator.",
+            "en": "A center for alternative culture in an old slaughterhouse."
+          }
+        },
+        {
+          "name": "Zoo Krefeld",
+          "coords": [
+            6.588,
+            51.342
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Regenwaldhaus und den Schmetterlingspark.",
+            "hu": "Látogassa meg az esőerdő-házat és a pillangóparkot.",
+            "ro": "Vizitați casa pădurii tropicale și parcul de fluturi.",
+            "en": "Visit the rainforest house and the butterfly park."
+          }
+        },
+        {
+          "name": "Stadtwald",
+          "coords": [
+            6.583,
+            51.352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Spaziergang am See.",
+            "hu": "Gyönyörű hely egy sétához a tó partján.",
+            "ro": "Un loc minunat pentru o plimbare pe malul lacului.",
+            "en": "A beautiful place for a walk by the lake."
+          }
+        },
+        {
+          "name": "Haus Lange und Haus Esters",
+          "coords": [
+            6.581,
+            51.351
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entworfen von Ludwig Mies van der Rohe, heute Museen.",
+            "hu": "Mies van der Rohe tervezte, ma múzeumként működnek.",
+            "ro": "Proiectate de Mies van der Rohe, astăzi sunt muzee.",
+            "en": "Designed by Ludwig Mies van der Rohe, now museums."
+          }
+        },
+        {
+          "name": "Stadtwaldhaus (Gastro)",
+          "coords": [
+            6.584,
+            51.353
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie ein lokales Bier im großen Biergarten.",
+            "hu": "Élvezzen egy helyi sört a hatalmas sörkertben.",
+            "ro": "Savurați o bere locală în marea grădină de vară.",
+            "en": "Enjoy a local beer in the large beer garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Krefeld zu Fuß entdecken bedeutet, die Mischung aus Industrieerbe und grünen Oasen zu erleben. Wir beginnen im Herzen der Stadt an der Dionysiuskirche und spazieren durch das Stadtzentrum zur Kulturfabrik. Danach führt uns der Weg nach Nordosten zum Zoo und in den weitläufigen Stadtwald, wo moderne Architektur auf Mies van der Rohe trifft.",
+        "hu": "Krefeld gyalogos felfedezése az ipari örökség és a zöld oázisok keverékét jelenti. A város szívében, a Dionysius-templomnál kezdünk, majd a belvároson át a Kulturfabrikhoz sétálunk. Ezután az út északkeletre, az Állatkertbe és a tágas Stadtwaldba vezet, ahol Mies van der Rohe modern építészete vár ránk.",
+        "ro": "Descoperirea orașului Krefeld la pas înseamnă experimentarea amestecului de patrimoniu industrial și oaze verzi. Începem în inima orașului, la Biserica Dionysius, și ne plimbăm prin centru până la Kulturfabrik. Apoi, drumul ne poartă spre nord-est, la Grădina Zoologică și în vastul Stadtwald, unde întâlnim arhitectura modernă a lui Mies van der Rohe.",
+        "en": "Discovering Krefeld on foot means experiencing the mix of industrial heritage and green oases. We start in the heart of the city at the Dionysius Church and walk through the city center to the Kulturfabrik. Then the path leads northeast to the Zoo and into the spacious Stadtwald, where modern architecture meets Mies van der Rohe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stadtwaldhaus",
+            "tip": "Großer Biergarten mit traditioneller Küche."
+          },
+          {
+            "name": "Brauerei Gleumes",
+            "tip": "Hauseigenes Bier und rustikale Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtwaldhaus",
+            "tip": "Hatalmas sörkert hagyományos konyhával."
+          },
+          {
+            "name": "Brauerei Gleumes",
+            "tip": "Saját főzésű sör és rusztikus ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtwaldhaus",
+            "tip": "O grădină de vară mare cu bucătărie tradițională."
+          },
+          {
+            "name": "Brauerei Gleumes",
+            "tip": "Bere proprie și preparate rustice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtwaldhaus",
+            "tip": "Large beer garden with traditional cuisine."
+          },
+          {
+            "name": "Brauerei Gleumes",
+            "tip": "In-house beer and rustic dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtwald Weiher",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtwald Weiher",
+            "tip": "Csendes séta a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtwald Weiher",
+            "tip": "O plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtwald Weiher",
+            "tip": "Quiet walk by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krefelder Innenstadt",
+            "tip": "Einkaufsstraßen rund um die Hochstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krefelder Innenstadt",
+            "tip": "Bevásárlóutcák a Hochstraße környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Krefelder Innenstadt",
+            "tip": "Străzi comerciale în jurul Hochstraße."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krefelder Innenstadt",
+            "tip": "Shopping streets around Hochstraße."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Krefeld ist sehr flach, ideal zum Gehen.",
+          "Achten Sie auf die Seidenweber-Statue im Zentrum.",
+          "Die Stadtwald-Region ist perfekt für einen entspannten Nachmittag."
+        ],
+        "hu": [
+          "Krefeld nagyon sík, ideális a gyalogláshoz.",
+          "Keresse a Selyemszövő szobrát a központban.",
+          "A Stadtwald környéke tökéletes egy pihentető délutánhoz."
+        ],
+        "ro": [
+          "Krefeld este foarte plat, ideal pentru mersul pe jos.",
+          "Căutați statuia Țesătorului de Mătase în centru.",
+          "Regiunea Stadtwald este perfectă pentru o după-amiază relaxantă."
+        ],
+        "en": [
+          "Krefeld is very flat, ideal for walking.",
+          "Look out for the Silk Weaver statue in the center.",
+          "The Stadtwald region is perfect for a relaxed afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Burg Linn",
+          "coords": [
+            6.633,
+            51.333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Wasserburg und das Jagdschloss.",
+            "hu": "Látogassa meg a vízi várat és a vadászkastélyt.",
+            "ro": "Vizitați castelul cu apă și castelul de vânătoare.",
+            "en": "Visit the water castle and the hunting lodge."
+          }
+        },
+        {
+          "name": "Historische Altstadt Linn",
+          "coords": [
+            6.632,
+            51.334
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die charmanten mittelalterlichen Gassen.",
+            "hu": "Sétáljon a bájos középkori utcákon.",
+            "ro": "Plimbați-vă pe străzile medievale fermecătoare.",
+            "en": "Stroll through the charming medieval streets."
+          }
+        },
+        {
+          "name": "Deutsches Textilmuseum",
+          "coords": [
+            6.634,
+            51.332
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über Krefelds Seidengeschichte.",
+            "hu": "Tudjon meg mindent Krefeld selyemgyártásának történetéről.",
+            "ro": "Aflați totul despre istoria mătăsii din Krefeld.",
+            "en": "Learn all about Krefeld's silk history."
+          }
+        },
+        {
+          "name": "Zoo Krefeld",
+          "coords": [
+            6.588,
+            51.342
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für die Elefanten und Nashörner.",
+            "hu": "Rövid megálló az elefántoknál és orrszarvúknál.",
+            "ro": "O scurtă oprire pentru elefanți și rinoceri.",
+            "en": "A short stop for the elephants and rhinos."
+          }
+        },
+        {
+          "name": "Haus Lange und Haus Esters",
+          "coords": [
+            6.581,
+            51.351
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wichtige Station der Architektur-Moderne.",
+            "hu": "A modern építészet egyik fontos állomása.",
+            "ro": "Stație importantă a arhitecturii moderne.",
+            "en": "Important station of modern architecture."
+          }
+        },
+        {
+          "name": "Stadtwald",
+          "coords": [
+            6.583,
+            51.352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch den größten Park der Stadt.",
+            "hu": "Kerekezzen át a város legnagyobb parkján.",
+            "ro": "Pedalați prin cel mai mare parc al orașului.",
+            "en": "Cycle through the largest park in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir das grüne Krefeld und seine historische Seite in Linn. Wir radeln von der beeindruckenden Burg Linn durch die Altstadt und erfahren mehr über die Seidentradition im Textilmuseum. Der Rückweg führt uns quer durch die Stadt zum Zoo und endet in der entspannten Atmosphäre des Stadtwaldes.",
+        "hu": "Kerékpárral fedezzük fel a zöld Krefeldet és Linn történelmi oldalát. A lenyűgöző Linn várától indulunk, átkerekezünk az óvároson, és megismerjük a selyemhagyományt a Textilmúzeumban. A visszaút a városon keresztül az Állatkertbe vezet, majd a Stadtwald nyugodt légkörében ér véget.",
+        "ro": "Cu bicicleta explorăm Krefeldul verde și latura sa istorică din Linn. Pedalăm de la impresionantul castel Linn prin centrul vechi și aflăm mai multe despre tradiția mătăsii la Muzeul Textil. Drumul de întoarcere ne poartă prin oraș către Grădina Zoologică și se termină în atmosfera relaxantă a parcului Stadtwald.",
+        "en": "By bike, we explore green Krefeld and its historical side in Linn. We cycle from the impressive Linn Castle through the old town and learn more about the silk tradition in the Textile Museum. The return path leads across the city to the Zoo and ends in the relaxed atmosphere of the Stadtwald."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten Burg Linn",
+            "tip": "Idyllischer Halt direkt an der Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biergarten Burg Linn",
+            "tip": "Idilli megálló közvetlenül a várnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten Burg Linn",
+            "tip": "Oprire idilică chiar lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biergarten Burg Linn",
+            "tip": "Idyllic stop right by the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgpark Linn",
+            "tip": "Historische Parkanlage.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgpark Linn",
+            "tip": "Történelmi parkerdő.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burgpark Linn",
+            "tip": "Parc istoric.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burgpark Linn",
+            "tip": "Historical parkland.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Seidentücher und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Museumsshop",
+            "tip": "Selyemsálak és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Museumsshop",
+            "tip": "Eșarfe de mătase și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museumsshop",
+            "tip": "Silk scarves and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele Radwege abseits der Hauptstraßen.",
+          "Linn ist besonders fahrradfreundlich.",
+          "Kombinieren Sie die Tour mit einer Fahrt zum Rhein (Uerdingen)."
+        ],
+        "hu": [
+          "Sok kerékpárút vezet távol a főutaktól.",
+          "Linn különösen kerékpárosbarát környék.",
+          "Kombinálja a túrát egy Rajna-parti tekeréssel (Uerdingen)."
+        ],
+        "ro": [
+          "Există multe piste de biciclete departe de străzile principale.",
+          "Linn este o zonă deosebit de prietenoasă cu bicicletele.",
+          "Combinați turul cu o plimbare spre Rin (Uerdingen)."
+        ],
+        "en": [
+          "There are many bike paths away from the main roads.",
+          "Linn is particularly bike-friendly.",
+          "Combine the tour with a ride to the Rhine (Uerdingen)."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Burg Linn",
+          "coords": [
+            6.633,
+            51.333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Museumsplatz.",
+            "hu": "Parkoljon a Múzeum téren.",
+            "ro": "Parcați în piața muzeului.",
+            "en": "Park at the museum square."
+          }
+        },
+        {
+          "name": "Historische Altstadt Linn",
+          "coords": [
+            6.632,
+            51.334
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Cluster-Spaziergang in Krefeld.",
+            "hu": "A legjobb gyalogos klaszter Krefeldben.",
+            "ro": "Cea mai bună zonă de plimbare din Krefeld.",
+            "en": "Best cluster walk in Krefeld."
+          }
+        },
+        {
+          "name": "Deutsches Textilmuseum",
+          "coords": [
+            6.634,
+            51.332
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Weltberühmte Sammlung von Textilien.",
+            "hu": "Világhírű textilgyűjtemény.",
+            "ro": "Colecție de textile faimoasă în întreaga lume.",
+            "en": "World-famous collection of textiles."
+          }
+        },
+        {
+          "name": "Stadtwald",
+          "coords": [
+            6.583,
+            51.352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Cluster Nord: Stadtwald & Haus Lange.",
+            "hu": "Északi klaszter: Stadtwald és Haus Lange.",
+            "ro": "Clusterul de Nord: Stadtwald și Haus Lange.",
+            "en": "North cluster: Stadtwald & Haus Lange."
+          }
+        },
+        {
+          "name": "Haus Lange und Haus Esters",
+          "coords": [
+            6.581,
+            51.351
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Moderne Kunst in Bauhaus-Architektur.",
+            "hu": "Modern művészet Bauhaus építészetben.",
+            "ro": "Artă modernă în arhitectură Bauhaus.",
+            "en": "Modern art in Bauhaus architecture."
+          }
+        },
+        {
+          "name": "Zoo Krefeld",
+          "coords": [
+            6.588,
+            51.342
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt vom Stadtwald zum Zoo.",
+            "hu": "Rövid autóút a Stadtwaldtól az Állatkertig.",
+            "ro": "Drum scurt cu mașina de la Stadtwald la Zoo.",
+            "en": "Short drive from Stadtwald to the Zoo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt das Cluster-Prinzip: Wir erkunden zuerst den historischen Stadtteil Linn mit seiner Burg und dem Textilmuseum zu Fuß. Danach fahren wir in den Norden zum Stadtwald und den Mies-van-der-Rohe-Häusern, bevor wir den Tag im Zoo oder bei einer kurzen Fahrt in die Innenstadt abschließen.",
+        "hu": "Ez az autós túra a klaszter-elvet használja: először Linn történelmi negyedét fedezzük fel gyalogosan (vár, múzeum), majd északra hajtunk a Stadtwaldhoz és a Mies van der Rohe házakhoz, végül az Állatkerttel vagy egy rövid belvárosi kitérővel zárjuk a napot.",
+        "ro": "Acest tur cu mașina folosește principiul clusterelor: explorăm mai întâi cartierul istoric Linn cu castelul și Muzeul Textil pe jos. Apoi conducem spre nord către Stadtwald și casele Mies van der Rohe, înainte de a încheia ziua la Grădina Zoologică sau cu o scurtă vizită în centru.",
+        "en": "This car tour uses the cluster principle: we first explore the historical district of Linn with its castle and the Textile Museum on foot. Then we drive north to the Stadtwald and the Mies van der Rohe houses, before ending the day at the Zoo or with a short drive to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Em Kontörke",
+            "tip": "Historische Gaststätte in Linn."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Em Kontörke",
+            "tip": "Történelmi vendéglő Linnben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Em Kontörke",
+            "tip": "Restaurant istoric în Linn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Em Kontörke",
+            "tip": "Historical restaurant in Linn."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Greiffenhorstpark",
+            "tip": "Ruhiger Park in der Nähe von Linn.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greiffenhorstpark",
+            "tip": "Csendes park Linn közelében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Greiffenhorstpark",
+            "tip": "Parc liniștit lângă Linn.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Greiffenhorstpark",
+            "tip": "Quiet park near Linn.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schwanenmarkt",
+            "tip": "Einkaufszentrum im Herzen Krefelds."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schwanenmarkt",
+            "tip": "Bevásárlóközpont Krefeld szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schwanenmarkt",
+            "tip": "Centru comercial în inima Krefeldului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schwanenmarkt",
+            "tip": "Shopping mall in the heart of Krefeld."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Linn gibt es gute Parkmöglichkeiten am Rand des historischen Kerns.",
+          "Die Verbindung zwischen den Stadtteilen ist mit dem Auto schnell.",
+          "Parken Sie im Stadtwald direkt am Restaurant."
+        ],
+        "hu": [
+          "Linnben jó parkolási lehetőségek vannak a történelmi központ szélén.",
+          "A városrészek közötti kapcsolat autóval gyors.",
+          "A Stadtwaldnál parkoljon közvetlenül az étteremnél."
+        ],
+        "ro": [
+          "În Linn există locuri bune de parcare la marginea centrului istoric.",
+          "Legătura între cartiere este rapidă cu mașina.",
+          "Parcați în Stadtwald chiar lângă restaurant."
+        ],
+        "en": [
+          "In Linn, there are good parking options at the edge of the historic core.",
+          "The connection between districts is fast by car.",
+          "Park in the Stadtwald right by the restaurant."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Dionysiuskirche",
+          "coords": [
+            6.563,
+            51.332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt am Rheinstraße-Knotenpunkt.",
+            "hu": "Központi indulópont a Rheinstraße csomópontnál.",
+            "ro": "Punct de plecare central la nodul Rheinstraße.",
+            "en": "Central starting point at the Rheinstraße junction."
+          }
+        },
+        {
+          "name": "Burg Linn",
+          "coords": [
+            6.633,
+            51.333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Straßenbahn 044 bis Burg Linn.",
+            "hu": "Használja a 044-es villamost Burg Linnig.",
+            "ro": "Utilizați tramvaiul 044 până la Burg Linn.",
+            "en": "Use tram 044 to Burg Linn."
+          }
+        },
+        {
+          "name": "Historische Altstadt Linn",
+          "coords": [
+            6.632,
+            51.334
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar von der Burg.",
+            "hu": "Gyalogosan elérhető a vártól.",
+            "ro": "Accesibil pe jos de la castel.",
+            "en": "Accessible on foot from the castle."
+          }
+        },
+        {
+          "name": "Deutsches Textilmuseum",
+          "coords": [
+            6.634,
+            51.332
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte in Linn.",
+            "hu": "Történelemkedvelőknek kötelező Linnben.",
+            "ro": "O necesitate pentru cei interesați de istorie în Linn.",
+            "en": "A must for history buffs in Linn."
+          }
+        },
+        {
+          "name": "Zoo Krefeld",
+          "coords": [
+            6.588,
+            51.342
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Mit Bus/Bahn zurück Richtung Zentrum/Zoo.",
+            "hu": "Busszal vagy villamossal vissza a központ/állatkert felé.",
+            "ro": "Cu autobuzul/tramvaiul înapoi spre centru/zoo.",
+            "en": "Take the bus/tram back towards center/zoo."
+          }
+        },
+        {
+          "name": "Stadtwald",
+          "coords": [
+            6.583,
+            51.352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannung zum Abschluss des Tages.",
+            "hu": "Pihenés a nap végén.",
+            "ro": "Relaxare la sfârșitul zilei.",
+            "en": "Relaxation to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Krefelds öffentlicher Nahverkehr verbindet die Zentren effizient. Wir starten in der City und fahren mit der Straßenbahn 044 direkt in das mittelalterliche Linn. Nach einem Cluster-Spaziergang durch Burg, Altstadt und Textilmuseum führt uns der Transit zurück in den grünen Norden zum Zoo und Stadtwald.",
+        "hu": "Krefeld tömegközlekedése hatékonyan köti össze a központokat. A belvárosból indulunk, és a 044-es villamossal közvetlenül a középkori Linnbe utazunk. A vár, az óváros és a Textilmúzeum gyalogos bejárása után tömegközlekedéssel térünk vissza az északi zöldövezetbe, az Állatkerthez és a Stadtwaldhoz.",
+        "ro": "Transportul public din Krefeld conectează eficient centrele. Începem în oraș și mergem cu tramvaiul 044 direct în Linn-ul medieval. După o plimbare prin castel, centrul vechi și Muzeul Textil, tranzitul ne duce înapoi în nordul verde, la Grădina Zoologică și Stadtwald.",
+        "en": "Krefeld's public transport connects the centers efficiently. We start in the city and take tram 044 directly to medieval Linn. After a cluster walk through the castle, old town, and Textile Museum, transit leads us back to the green north to the Zoo and Stadtwald."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Stadtwaldhaus",
+            "tip": "Direkt mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biergarten am Stadtwaldhaus",
+            "tip": "Közvetlenül elérhető busszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten am Stadtwaldhaus",
+            "tip": "Accesibil direct cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biergarten am Stadtwaldhaus",
+            "tip": "Directly accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Neben dem Zoo, sehr ruhig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Az állatkert mellett, nagyon csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Lângă grădina zoologică, foarte liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Next to the Zoo, very quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krefeld Hauptbahnhof",
+            "tip": "Reiseproviant und kleine Shops."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krefeld Hauptbahnhof",
+            "tip": "Úti élelem és kis üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Krefeld Hauptbahnhof",
+            "tip": "Proviant și magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krefeld Hauptbahnhof",
+            "tip": "Travel snacks and small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die VRR-App für Live-Fahrpläne.",
+          "Ein Tagesticket lohnt sich für diese Route.",
+          "Die Straßenbahn 044 fährt alle 15 Minuten nach Linn."
+        ],
+        "hu": [
+          "Töltse le a VRR alkalmazást az élő menetrendhez.",
+          "Egy napijegy megéri ehhez az útvonalhoz.",
+          "A 044-es villamos 15 percenként jár Linnbe."
+        ],
+        "ro": [
+          "Descărcați aplicația VRR pentru orare live.",
+          "Un bilet de o zi merită pentru această rută.",
+          "Tramvaiul 044 circulă la fiecare 15 minute spre Linn."
+        ],
+        "en": [
+          "Download the VRR app for live schedules.",
+          "A day ticket is worth it for this route.",
+          "Tram 044 runs every 15 minutes to Linn."
+        ]
+      }
+    }
+  }
+}

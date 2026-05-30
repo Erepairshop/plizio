@@ -1,0 +1,1175 @@
+{
+  "city_id": "thionville",
+  "anchor": {
+    "name": "Hôtel de Ville de Thionville",
+    "coords": [
+      6.167,
+      49.358
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Thionville",
+            "hu": "Városháza",
+            "ro": "Primăria Thionville",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            6.167,
+            49.358
+          ],
+          "category": "monuments",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses ehemaligen Klosters.",
+            "hu": "Csodálja meg az egykori kolostor épületének homlokzatát.",
+            "ro": "Admirați fațada acestei foste mănăstiri.",
+            "en": "Admire the facade of this former monastery building."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Thionville",
+            "hu": "Harangtorony (Beffroi)",
+            "ro": "Turnul cu clopot (Beffroi)",
+            "en": "Belfry of Thionville"
+          },
+          "coords": [
+            6.168,
+            49.359
+          ],
+          "category": "castles",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Symbol der städtischen Freiheiten aus dem 14. Jahrhundert.",
+            "hu": "A városi szabadságjogok 14. századi szimbóluma.",
+            "ro": "Simbolul libertăților municipale din secolul al XIV-lea.",
+            "en": "The 14th-century symbol of municipal liberties."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maximin",
+            "hu": "Szent Maximilián-templom",
+            "ro": "Biserica Saint-Maximin",
+            "en": "Saint-Maximin Church"
+          },
+          "coords": [
+            6.169,
+            49.359
+          ],
+          "category": "churches",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche wegen ihrer beeindruckenden Orgel.",
+            "hu": "Látogasson el ide a lenyűgöző orgona miatt.",
+            "ro": "Vizitați biserica pentru orga sa impresionantă.",
+            "en": "Visit the church for its impressive pipe organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Flohturm (Tour aux Puces)",
+            "hu": "Püspöktorony (Tour aux Puces)",
+            "ro": "Turnul Puricilor",
+            "en": "Tower of the Fleas (Museum)"
+          },
+          "coords": [
+            6.17,
+            49.359
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Archäologisches Museum in einem 28-seitigen Turm.",
+            "hu": "Régészeti múzeum egy különleges, 28 oldalú toronyban.",
+            "ro": "Muzeu arheologic într-un turn cu 28 de laturi.",
+            "en": "Archaeological museum housed in a 28-sided tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Altar des Vaterlandes",
+            "hu": "A Haza Oltára",
+            "ro": "Altarul Patriei",
+            "en": "Altar of the Fatherland"
+          },
+          "coords": [
+            6.167,
+            49.36
+          ],
+          "category": "monuments",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein seltenes Denkmal aus der Zeit der Französischen Revolution.",
+            "hu": "Ritka emlékmű a francia forradalom idejéből.",
+            "ro": "Un monument rar din perioada Revoluției Franceze.",
+            "en": "A rare monument from the French Revolution era."
+          }
+        },
+        {
+          "name": {
+            "de": "Napoleon-Park",
+            "hu": "Napóleon park",
+            "ro": "Parcul Napoléon",
+            "en": "Napoleon Park"
+          },
+          "coords": [
+            6.173,
+            49.357
+          ],
+          "category": "parks",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Schatten alter Bäume an der Mosel.",
+            "hu": "Pihenjen az öreg fák árnyékában a Mosel partján.",
+            "ro": "Relaxați-vă la umbra copacilor bătrâni de pe malul Moselei.",
+            "en": "Relax in the shade of old trees by the Moselle river."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der Alliierten",
+            "hu": "Szövetségesek hídja",
+            "ro": "Podul Aliaților",
+            "en": "Bridge of the Allies"
+          },
+          "coords": [
+            6.171,
+            49.358
+          ],
+          "category": "bridges",
+          "arrive_at": "15:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss und die Stadtsilhouette.",
+            "hu": "Élvezze a kilátást a folyóra és a város sziluettjére.",
+            "ro": "Bucurați-vă de priveliștea asupra râului și a siluetei orașului.",
+            "en": "Enjoy the view of the river and the city skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokales Abendessen",
+            "hu": "Helyi vacsora",
+            "ro": "Cină locală",
+            "en": "Local Dinner"
+          },
+          "coords": [
+            6.168,
+            49.358
+          ],
+          "category": "gastro",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Quiche Lorraine in ihrem Ursprungsland.",
+            "hu": "Kóstoljon meg egy Quiche Lorraine-t a hazájában.",
+            "ro": "Gustați un Quiche Lorraine în țara sa de origine.",
+            "en": "Try a Quiche Lorraine in its homeland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Thionville am prächtigen Rathaus und dem mittelalterlichen Belfried. Schlendern Sie durch die Gassen zur Kirche Saint-Maximin, bevor Sie tief in die Geschichte im Flohturm eintauchen. Der Nachmittag gehört der Entspannung im Napoleon-Park und einem Spaziergang entlang der Mosel, um die Brücke der Alliierten zu bewundern.",
+        "hu": "Kezdje a napot Thionville történelmi szívében, a pompás városházánál és a középkori harangtoronynál. Sétáljon a szűk utcákon a Szent Maximilián-templomig, majd merüljön el a múltban a Püspöktorony régészeti kiállításain. A délutánt töltse pihenéssel a Napóleon parkban és a Mosel-parti sétányon, megcsodálva a Szövetségesek hídját.",
+        "ro": "Începeți ziua în inima istorică a Thionville-ului, la primăria somptuoasă și turnul cu clopot medieval. Plimbați-vă pe străduțe până la Biserica Saint-Maximin, înainte de a explora istoria locală în Turnul Puricilor. După-amiaza este dedicată relaxării în Parcul Napoléon și unei plimbări pe malul Moselei pentru a admira Podul Aliaților.",
+        "en": "Start your day in the historic heart of Thionville at the grand Town Hall and the medieval Belfry. Wander through the narrow streets to Saint-Maximin Church before diving into local history at the Tower of the Fleas. Spend your afternoon relaxing in Napoleon Park and strolling along the Moselle riverbanks to admire the Bridge of the Allies."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Der Klassiker der Region mit Speck und Sahne."
+          },
+          {
+            "name": "L'Horizon",
+            "tip": "Feine französische Küche mit modernem Touch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "A régió klasszikus szalonnás-tejszínes pitéje."
+          },
+          {
+            "name": "Au P'tit Thionvillois",
+            "tip": "Kézműves pékáruk és helyi sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Clasicul regional cu bacon și smântână."
+          },
+          {
+            "name": "La Scala",
+            "tip": "Atmosferă plăcută și preparate regionale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "The region's classic savory tart with bacon."
+          },
+          {
+            "name": "Moselle Wines",
+            "tip": "Dry white wines from the nearby vineyards."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mosel-Ufer",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Napóleon park",
+            "tip": "Csendes zugok az évszázados fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Moselei",
+            "tip": "Loc perfect pentru meditație la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Napoléon",
+            "tip": "Quiet corners away from the city noise.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Thionville",
+            "tip": "Lokale Produkte jeden Samstagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue du Luxembourg",
+            "tip": "A város fő bevásárlóutcája butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Piața acoperită cu specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cour des Capucines",
+            "tip": "Charming shopping area in a historic setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und ideal zu Fuß zu erkunden.",
+          "Besuchen Sie das Tourismusbüro im Belfried für Stadtpläne.",
+          "Samstag ist Markttag, perfekt für lokale Delikatessen."
+        ],
+        "hu": [
+          "A belváros kompakt, minden fontos látnivaló elérhető gyalog.",
+          "A Tour aux Puces hétfőnként általában zárva tart.",
+          "Érdemes kényelmes cipőt viselni a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Centrul vechi este compact și perfect pentru explorarea la pas.",
+          "Vizitați biroul de turism din Beffroi pentru hărți detaliate.",
+          "Sâmbăta este zi de piață, ideală pentru suveniruri gastronomice."
+        ],
+        "en": [
+          "The city center is compact and best explored on foot.",
+          "Check the museum opening hours as they vary by season.",
+          "Enjoy a walk along the river for the best city views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            6.167,
+            49.358
+          ],
+          "category": "monuments",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de start central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi",
+            "hu": "Harangtorony",
+            "ro": "Beffroi",
+            "en": "Belfry"
+          },
+          "coords": [
+            6.168,
+            49.359
+          ],
+          "category": "castles",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Wahrzeichen.",
+            "hu": "Történelmi jelkép.",
+            "ro": "Simbol istoric.",
+            "en": "Historic landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosel-Radweg (V50)",
+            "hu": "Mosel kerékpárút",
+            "ro": "Pista de biciclete Moselle",
+            "en": "Moselle Cycle Path"
+          },
+          "coords": [
+            6.173,
+            49.362
+          ],
+          "category": "parks",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Strecke entlang des Wassers.",
+            "hu": "Gyönyörű útvonal a víz mentén.",
+            "ro": "Traseu superb de-a lungul apei.",
+            "en": "Beautiful route along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss La Grange",
+            "hu": "La Grange kastély",
+            "ro": "Castelul La Grange",
+            "en": "La Grange Castle"
+          },
+          "coords": [
+            6.175,
+            49.385
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein Barockschloss mit herrlichen Gärten.",
+            "hu": "Barokk kastély csodálatos kertekkel.",
+            "ro": "Un castel baroc cu grădini superbe.",
+            "en": "A Baroque castle with magnificent gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick im Park",
+            "hu": "Piknik a parkban",
+            "ro": "Picnic în parc",
+            "en": "Picnic in the Park"
+          },
+          "coords": [
+            6.173,
+            49.357
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Pause im Napoleon-Park.",
+            "hu": "Pihenő a Napóleon parkban.",
+            "ro": "Pauză în Parcul Napoléon.",
+            "en": "Break in Napoleon Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour aux Puces",
+            "hu": "Püspöktorony",
+            "ro": "Turnul Puricilor",
+            "en": "Tower of the Fleas"
+          },
+          "coords": [
+            6.17,
+            49.359
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Museumsbesuch.",
+            "hu": "Rövid múzeumlátogatás.",
+            "ro": "Vizită scurtă la muzeu.",
+            "en": "Short museum visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Alliés",
+            "hu": "Szövetségesek hídja",
+            "ro": "Podul Aliaților",
+            "en": "Bridge of the Allies"
+          },
+          "coords": [
+            6.171,
+            49.358
+          ],
+          "category": "bridges",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abschluss mit Aussicht.",
+            "hu": "Zárás kilátással.",
+            "ro": "Final cu priveliște.",
+            "en": "Wrap up with a view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Thionville und seine grüne Umgebung auf zwei Rädern. Nach dem Start im Zentrum fahren Sie auf dem Mosel-Radweg V50 nach Norden zum prächtigen Schloss La Grange. Genießen Sie die barocke Architektur und die Gärten, bevor Sie für ein Picknick im Napoleon-Park zurückkehren und den Tag am Ufer ausklingen lassen.",
+        "hu": "Fedezze fel Thionville-t és zöld környezetét két keréken. A központból indulva tekerjen északra a Mosel menti V50 kerékpárúton a pompás La Grange kastélyig. Élvezze a barokk építészetet és a kerteket, majd térjen vissza egy piknikre a Napóleon parkba, és zárja a napot a folyóparton.",
+        "ro": "Explorați Thionville și împrejurimile sale verzi pe două roți. După startul din centru, pedalați spre nord pe pista Moselle V50 până la somptuosul Castel La Grange. Bucurați-vă de arhitectura barocă și de grădini, înainte de a reveni pentru un picnic în Parcul Napoléon.",
+        "en": "Explore Thionville and its green surroundings on two wheels. After starting in the center, cycle north on the V50 Moselle path to the magnificent La Grange Castle. Enjoy the Baroque architecture and gardens before returning for a picnic in Napoleon Park and ending your day by the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hiesige Weine",
+            "tip": "Perfekt für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékáru",
+            "tip": "Vásároljon be a piacon a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități locale",
+            "tip": "Ideale pentru un picnic la castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Snacks",
+            "tip": "Grab some local treats for your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ruhe pur im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosel-part",
+            "tip": "Csendes pihenőhelyek a víz mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Oază de liniște barocă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Path",
+            "tip": "Peaceful cycling away from traffic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "In der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Disponibile în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop",
+            "tip": "Local rentals available near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Mosel-Radweg ist flach und sehr gut ausgebaut.",
+          "Schloss La Grange ist ein Muss für Gartenliebhaber.",
+          "Nutzen Sie die Brücke der Alliierten für den Rückweg."
+        ],
+        "hu": [
+          "A Mosel menti kerékpárút sík és kiválóan kiépített.",
+          "A La Grange kastély kertjei lenyűgözőek.",
+          "Vigyázzon a gyalogosokra a Napoleon park környékén."
+        ],
+        "ro": [
+          "Pista de biciclete de-a lungul Moselei este plană și bine întreținută.",
+          "Castelul La Grange este obligatoriu pentru iubitorii de grădini.",
+          "Folosiți Podul Aliaților pentru a traversa râul."
+        ],
+        "en": [
+          "The Moselle cycle path is flat and well-maintained.",
+          "La Grange Castle is a highlight for garden lovers.",
+          "Be mindful of pedestrians in the park areas."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum (Cluster A)",
+            "hu": "Városközpont (A csoport)",
+            "ro": "Centru (Cluster A)",
+            "en": "City Center (Cluster A)"
+          },
+          "coords": [
+            6.167,
+            49.358
+          ],
+          "category": "monuments",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Place de la Liberté.",
+            "hu": "Parkoljon a Place de la Liberté téren.",
+            "ro": "Parcați în Place de la Liberté.",
+            "en": "Park at Place de la Liberté."
+          }
+        },
+        {
+          "name": {
+            "de": "Flohturm",
+            "hu": "Püspöktorony",
+            "ro": "Turnul Puricilor",
+            "en": "Tower of Fleas"
+          },
+          "coords": [
+            6.17,
+            49.359
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Maximin Kirche",
+            "hu": "Szent Maximilián-templom",
+            "ro": "Biserica Saint-Maximin",
+            "en": "Saint-Maximin Church"
+          },
+          "coords": [
+            6.169,
+            49.359
+          ],
+          "category": "churches",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Berühmte Orgel.",
+            "hu": "Híres orgona.",
+            "ro": "Orgă faimoasă.",
+            "en": "Famous organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in Center"
+          },
+          "coords": [
+            6.168,
+            49.358
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Gastronomie.",
+            "hu": "Élvezze a helyi gasztronómiát.",
+            "ro": "Bucurați-vă de gastronomia locală.",
+            "en": "Enjoy local gastronomy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss La Grange (Cluster B)",
+            "hu": "La Grange kastély (B csoport)",
+            "ro": "Castelul La Grange (Cluster B)",
+            "en": "La Grange Castle (Cluster B)"
+          },
+          "coords": [
+            6.175,
+            49.385
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Norden.",
+            "hu": "Rövid autóút északra.",
+            "ro": "Drum scurt cu mașina spre nord.",
+            "en": "Short drive to the north."
+          }
+        },
+        {
+          "name": {
+            "de": "Autel de la Patrie",
+            "hu": "A Haza Oltára",
+            "ro": "Altarul Patriei",
+            "en": "Altar of the Fatherland"
+          },
+          "coords": [
+            6.167,
+            49.36
+          ],
+          "category": "monuments",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum.",
+            "hu": "Vissza a központba.",
+            "ro": "Înapoi în centru.",
+            "en": "Back in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Napoleon-Park",
+            "hu": "Napóleon park",
+            "ro": "Parcul Napoléon",
+            "en": "Napoleon Park"
+          },
+          "coords": [
+            6.173,
+            49.357
+          ],
+          "category": "parks",
+          "arrive_at": "16:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Abschluss im Grünen.",
+            "hu": "Zárás a zöldben.",
+            "ro": "Final în natură.",
+            "en": "Wrap up in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das historische Zentrum mit dem nahegelegenen Schloss La Grange. Parken Sie einmal im Zentrum, um den Belfried und die Museen zu Fuß zu erkunden. Nach einem entspannten Mittagessen fahren Sie wenige Minuten zum barocken Schloss La Grange, bevor Sie für einen Spaziergang im Napoleon-Park in die Stadt zurückkehren.",
+        "hu": "Ez az autós túra ötvözi a történelmi központot a közeli La Grange kastéllyal. Parkoljon le a központban, és fedezze fel a harangtornyot és a múzeumokat gyalog. Egy pihentető ebéd után autózzon néhány percet a barokk kastélyhoz, majd térjen vissza a városba egy sétára a Napóleon parkban.",
+        "ro": "Acest tur auto combină centrul istoric cu apropiatul Castel La Grange. Parcați în centru pentru a explora Beffroi și muzeele pe jos. După un prânz relaxat, conduceți câteva minute până la castelul baroc, înainte de a reveni în oraș pentru o plimbare în Parcul Napoléon.",
+        "en": "This car tour combines the historic center with the nearby La Grange Castle. Park in the center to explore the Belfry and museums on foot. After a relaxed lunch, drive a few minutes to the Baroque castle before returning to the city for a stroll in Napoleon Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Concorde",
+            "tip": "Gute Parkmöglichkeiten in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirabelle sütemény",
+            "tip": "Helyi szilvás specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri de Moselle",
+            "tip": "Căutați producători locali în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Horizon",
+            "tip": "Upscale dining with easy access by car."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ideal für eine ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosel-part",
+            "tip": "Panorámás kilátás az autóból is.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Liniște și eleganță barocă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Napoleon Park",
+            "tip": "Riverside peace near the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geric Centre",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Vásároljon a közeli pincészetekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse regionale",
+            "tip": "Disponibile în piețele centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Mall",
+            "tip": "Convenient parking for heavy bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Place de la Liberté ist sehr zentral.",
+          "Die Fahrt zum Schloss dauert nur 10 Minuten.",
+          "Achten Sie auf die Einbahnstraßen im Zentrum."
+        ],
+        "hu": [
+          "A központi parkolás egyszerű és biztonságos.",
+          "A kastélyhoz vezető út jól táblázott.",
+          "Érdemes az autóban hagyni a nehezebb csomagokat."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este facilă.",
+          "Drumul către castel este scurt și pitoresc.",
+          "Atenție la zonele cu acces limitat din centrul vechi."
+        ],
+        "en": [
+          "Central parking is affordable and convenient.",
+          "The drive to the castle is very straightforward.",
+          "Be mindful of pedestrians in the historic core."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Thionville",
+            "hu": "Thionville vasútállomás",
+            "ro": "Gara Thionville",
+            "en": "Thionville Station"
+          },
+          "coords": [
+            6.175,
+            49.355
+          ],
+          "category": "monuments",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt mit Busanbindungen.",
+            "hu": "Érkezési pont buszcsatlakozásokkal.",
+            "ro": "Punct de sosire cu conexiuni de autobuz.",
+            "en": "Arrival point with bus connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi (Zentrum)",
+            "hu": "Harangtorony (Központ)",
+            "ro": "Beffroi (Centru)",
+            "en": "Belfry (Center)"
+          },
+          "coords": [
+            6.168,
+            49.359
+          ],
+          "category": "castles",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie Citéline ins Zentrum.",
+            "hu": "Citéline buszjárat a központba.",
+            "ro": "Linia de autobuz Citéline spre centru.",
+            "en": "Citéline bus line to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour aux Puces",
+            "hu": "Püspöktorony",
+            "ro": "Turnul Puricilor",
+            "en": "Tower of the Fleas"
+          },
+          "coords": [
+            6.17,
+            49.359
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Belfried.",
+            "hu": "Rövid séta a harangtoronytól.",
+            "ro": "Scurtă plimbare de la Beffroi.",
+            "en": "Short walk from the Belfry."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            6.168,
+            49.358
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Optionen im Zentrum.",
+            "hu": "Sok lehetőség a központban.",
+            "ro": "Multe opțiuni în centru.",
+            "en": "Many options in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss La Grange (Bus)",
+            "hu": "La Grange kastély (Busz)",
+            "ro": "Castelul La Grange (Autobuz)",
+            "en": "La Grange Castle (Bus)"
+          },
+          "coords": [
+            6.175,
+            49.385
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Bus Richtung Manom nehmen.",
+            "hu": "Szálljon buszra Manom felé.",
+            "ro": "Luați autobuzul spre Manom.",
+            "en": "Take the bus towards Manom."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Napoléon",
+            "hu": "Napóleon park",
+            "ro": "Parcul Napoléon",
+            "en": "Napoleon Park"
+          },
+          "coords": [
+            6.173,
+            49.357
+          ],
+          "category": "parks",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Rückkehr mit dem Bus.",
+            "hu": "Visszatérés busszal.",
+            "ro": "Revenire cu autobuzul.",
+            "en": "Return by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Alliés",
+            "hu": "Szövetségesek hídja",
+            "ro": "Podul Aliaților",
+            "en": "Bridge of the Allies"
+          },
+          "coords": [
+            6.171,
+            49.358
+          ],
+          "category": "bridges",
+          "arrive_at": "17:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick vor der Abreise.",
+            "hu": "Kilátás távozás előtt.",
+            "ro": "Priveliște înainte de plecare.",
+            "en": "View before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Citéline-Bussystem von Thionville. Starten Sie am Bahnhof und fahren Sie ins Zentrum, um den historischen Kern zu erkunden. Ein Bus bringt Sie am Nachmittag zum Schloss La Grange in Manom, bevor Sie zurückkehren, um im Napoleon-Park zu entspannen und die Aussicht auf die Mosel zu genießen.",
+        "hu": "Használja Thionville hatékony Citéline buszhálózatát. Kezdje a vasútállomáson, majd menjen a központba a történelmi városrész felfedezéséhez. Délután buszozzon el a Manomban található La Grange kastélyhoz, majd térjen vissza a városba, hogy a Napóleon parkban és a Mosel-parton zárja a napot.",
+        "ro": "Utilizați sistemul eficient de autobuze Citéline din Thionville. Începeți la gară și mergeți în centru pentru a explora nucleul istoric. După-amiaza, un autobuz vă va duce la Castelul La Grange din Manom, înainte de a reveni pentru relaxare în Parcul Napoléon.",
+        "en": "Use Thionville's efficient Citéline bus system. Start at the station and head to the center to explore the historic core. A bus will take you to La Grange Castle in Manom in the afternoon before you return to relax in Napoleon Park and enjoy the Moselle views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Snacks",
+            "tip": "Ideal für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bisztró",
+            "tip": "Gyors ebéd a buszok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserie locală",
+            "tip": "Gustări delicioase în gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Citéline Café",
+            "tip": "Quick bites near bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Napoléon",
+            "tip": "Ruhe am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosel-part",
+            "tip": "Csendes séta az állomás felé.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Evadare din zgomotul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside walk",
+            "tip": "Calm spots along the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Relay",
+            "tip": "Zeitschriften und Snacks am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cour des Capucines",
+            "tip": "Hangulatos üzletek a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri",
+            "tip": "Disponibile în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Shops",
+            "tip": "Convenient shopping along the main bus route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Citéline-Busse.",
+          "Die Linien S01 und S02 sind sehr nützlich.",
+          "Busfahrpläne sind an den meisten Haltestellen digital."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Citéline buszokra.",
+          "Az S01 és S02 járatok érintik a legtöbb látnivalót.",
+          "A buszok menetrendje hétvégén ritkább."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua Citéline.",
+          "Liniile S01 și S02 sunt cele mai utile pentru turiști.",
+          "Verificați orarul autobuzelor sâmbăta."
+        ],
+        "en": [
+          "Buy a day pass for the Citéline bus network.",
+          "Lines S01 and S02 cover most major sights.",
+          "Bus frequency is lower on weekends."
+        ]
+      }
+    }
+  }
+}

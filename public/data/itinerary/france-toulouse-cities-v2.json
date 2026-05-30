@@ -1,0 +1,1112 @@
+{
+  "city_id": "france-toulouse-cities-v2",
+  "anchor": {
+    "name": "Toulouse",
+    "coords": [
+      1.4442,
+      43.6045
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Capitole",
+            "hu": "Capitole tér",
+            "ro": "Piața Capitoliului",
+            "en": "Place du Capitole"
+          },
+          "coords": [
+            1.4442,
+            43.6045
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Prachtsäle im ersten Stock, wenn keine Zeremonie stattfindet.",
+            "hu": "Látogassa meg az emeleti dísztermeket, ha épp nem tartanak hivatalos fogadást.",
+            "ro": "Vizitați sălile de onoare de la etaj dacă nu sunt recepții oficiale.",
+            "en": "Visit the state rooms on the first floor if no official ceremony is taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Sernin",
+            "hu": "Szent Sernin-bazilika",
+            "ro": "Bazilica Saint-Sernin",
+            "en": "Basilique Saint-Sernin"
+          },
+          "coords": [
+            1.4421,
+            43.6083
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die größte romanische Kirche Frankreichs beeindruckt durch ihre gewaltige Krypta.",
+            "hu": "Franciaország legnagyobb román stílusú temploma hatalmas kriptájáról híres.",
+            "ro": "Cea mai mare biserică romanică din Franța impresionează prin cripta sa vastă.",
+            "en": "The largest Romanesque church in France, famous for its massive crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobinerkonvent",
+            "hu": "Jakobinusok kolostora",
+            "ro": "Mănăstirea Iacobinilor",
+            "en": "Couvent des Jacobins"
+          },
+          "coords": [
+            1.4404,
+            43.6033
+          ],
+          "category": "church",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die 'Palme', eine 22 Meter hohe Säule, die das Gewölbe stützt.",
+            "hu": "Csodálja meg a 'Pálmát', a 22 méter magas, boltozatot tartó oszlopot.",
+            "ro": "Admirați 'Palmierul', o coloană de 22 de metri care susține bolta stelată.",
+            "en": "Admire the 'Palm Tree', a 22-meter high column supporting the starry vault."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Neuf",
+            "hu": "Pont Neuf híd",
+            "ro": "Pont Neuf",
+            "en": "Pont Neuf"
+          },
+          "coords": [
+            1.4367,
+            43.5998
+          ],
+          "category": "bridge",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Trotz des Namens ist dies die älteste Brücke der Stadt über die Garonne.",
+            "hu": "A neve ellenére ez a város legöregebb hídja a Garonne folyó felett.",
+            "ro": "În ciuda numelui său, acesta este cel mai vechi pod din oraș peste Garonne.",
+            "en": "Despite its name, this is the oldest bridge in the city across the Garonne."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Augustins",
+            "hu": "Ágoston-rendi Múzeum",
+            "ro": "Muzeul Augustins",
+            "en": "Musée des Augustins"
+          },
+          "coords": [
+            1.4455,
+            43.6011
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein ehemaliges Kloster, das heute eine reiche Sammlung an Skulpturen beherbergt.",
+            "hu": "Egykori kolostor, amely ma gazdag szoborgyűjteménynek ad otthont.",
+            "ro": "O fostă mănăstire care găzduiește astăzi o colecție bogată de sculpturi.",
+            "en": "A former monastery that now houses a rich collection of fine art sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            1.4501,
+            43.5999
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf das seltsame, asymmetrische Erscheinungsbild dieses Gebäudes.",
+            "hu": "Figyelje meg az épület furcsa, aszimmetrikus külső megjelenését.",
+            "ro": "Observați aspectul exterior bizar și asimetric al acestei clădiri.",
+            "en": "Notice the strange, asymmetrical exterior appearance of this building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am Capitole, dem Herzen der rosa Stadt, wo Geschichte und Politik aufeinandertreffen. Danach spazieren Sie zur monumentalen Basilika Saint-Sernin, einem Juwel der Romanik. Mittags erkunden Sie den Jakobinerkonvent und genießen die frische Brise auf der Pont Neuf. Der Nachmittag gehört der Kunst im Augustiner-Museum und der einzigartigen Architektur der Kathedrale Saint-Étienne.",
+        "hu": "Reggel a Capitole téren kezdünk, a 'rózsaszín város' szívében, ahol találkozik a történelem és a politika. Ezután a monumentális Saint-Sernin-bazilikához sétálunk, ami a román építészet gyöngyszeme. Délben a Jakobinusok kolostorát fedezzük fel, majd a Pont Neuf hídon élvezzük a Garonne látványát. A délutánt az Ágoston-rendi Múzeum kincsei és a különleges Szent István-székesegyház zárja.",
+        "ro": "Dimineața începe în Piața Capitoliului, inima orașului roz, unde istoria și politica se întâlnesc. Apoi, vă plimbați spre monumentala Bazilică Saint-Sernin, o bijuterie a stilului romanic. La prânz, explorați mănăstirea Iacobinilor și vă bucurați de briza de pe Pont Neuf. După-amiaza este dedicată artei la Muzeul Augustins și arhitecturii unice a Catedralei Saint-Étienne.",
+        "en": "Your morning starts at the Capitole, the heart of the Pink City, where history and politics meet. Then, stroll to the monumental Saint-Sernin Basilica, a Romanesque gem. At midday, explore the Jacobins Convent and enjoy the fresh breeze on the Pont Neuf bridge. Spend your afternoon among the art of the Augustins Museum and the unique architecture of the Saint-Étienne Cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bibent",
+            "tip": "Historische Brasserie am Capitole mit prachtvollem Dekor."
+          },
+          {
+            "name": "Cassoulet",
+            "tip": "Probieren Sie den berühmten Bohneneintopf der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bibent",
+            "tip": "Történelmi brasserie a Capitole téren, lenyűgöző belsővel."
+          },
+          {
+            "name": "Cassoulet",
+            "tip": "Kóstolja meg a régió híres húsos babételét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bibent",
+            "tip": "Braserie istorică în Piața Capitoliului, cu un decor splendid."
+          },
+          {
+            "name": "Cassoulet",
+            "tip": "Gustați faimoasa tocană de fasole specifică regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bibent",
+            "tip": "Historic brasserie on Place du Capitole with magnificent decor."
+          },
+          {
+            "name": "Cassoulet",
+            "tip": "Try the region's famous hearty bean and meat stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quai de la Daurade",
+            "tip": "Entspannter Platz am Flussufer, ideal für eine Pause.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai de la Daurade",
+            "tip": "Hangulatos folyóparti rakpart, kiváló pihenőhely.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quai de la Daurade",
+            "tip": "Malul râului Garonne, locul ideal pentru o pauză relaxantă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quai de la Daurade",
+            "tip": "Relaxing riverside spot, perfect for a quiet break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue d'Alsace-Lorraine",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue d'Alsace-Lorraine",
+            "tip": "A város fő bevásárlóutcája népszerű márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue d'Alsace-Lorraine",
+            "tip": "Principala stradă comercială cu numeroase branduri cunoscute."
+          },
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Helyi finomságok és sajtok piaca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue d'Alsace-Lorraine",
+            "tip": "The main shopping street with many popular brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Toulouse lässt sich hervorragend zu Fuß erkunden.",
+          "Die meisten Sehenswürdigkeiten liegen in der verkehrsberuhigten Zone.",
+          "Achten Sie auf die rosa Backsteinfassaden, die im Sonnenuntergang leuchten."
+        ],
+        "hu": [
+          "Toulouse belvárosa kiválóan bejárható gyalogosan.",
+          "A legtöbb látnivaló a forgalomcsillapított zónában található.",
+          "Figyelje meg a rózsaszín téglafalakat, ahogy ragyognak a naplementében."
+        ],
+        "ro": [
+          "Centrul orașului Toulouse este excelent pentru explorat la pas.",
+          "Majoritatea obiectivelor sunt în zona cu trafic limitat.",
+          "Observați fațadele din cărămidă roz care strălucesc la apus."
+        ],
+        "en": [
+          "Toulouse city center is perfectly explored on foot.",
+          "Most sights are located within the traffic-calmed zone.",
+          "Watch the pink brick facades glow beautifully at sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Canal du Midi",
+            "hu": "Canal du Midi",
+            "ro": "Canal du Midi",
+            "en": "Canal du Midi"
+          },
+          "coords": [
+            1.4548,
+            43.6102
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie unter schattigen Platanen entlang des UNESCO-Welterbes.",
+            "hu": "Tekerjen az árnyas platánfák alatt az UNESCO világörökségi csatorna partján.",
+            "ro": "Pedalați sub platanii umbroși de-a lungul canalului UNESCO.",
+            "en": "Cycle under shaded plane trees along this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Sernin",
+            "hu": "Szent Sernin-bazilika",
+            "ro": "Bazilica Saint-Sernin",
+            "en": "Basilique Saint-Sernin"
+          },
+          "coords": [
+            1.4421,
+            43.6083
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher auf dem Platz vor der Basilika.",
+            "hu": "A bazilika előtti téren biztonságosan lezárhatja kerékpárját.",
+            "ro": "Puteți parca bicicleta în siguranță în piața din fața bazilicii.",
+            "en": "You can safely park your bike in the square in front of the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Capitole",
+            "hu": "Capitole tér",
+            "ro": "Piața Capitoliului",
+            "en": "Place du Capitole"
+          },
+          "coords": [
+            1.4442,
+            43.6045
+          ],
+          "category": "square",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad über den belebten Platz, um Fußgänger zu achten.",
+            "hu": "A gyalogosok érdekében tolja a biciklit a forgalmas téren keresztül.",
+            "ro": "Împingeți bicicleta prin piața aglomerată pentru a respecta pietonii.",
+            "en": "Walk your bike across the busy square to respect pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobinerkonvent",
+            "hu": "Jakobinusok kolostora",
+            "ro": "Mănăstirea Iacobinilor",
+            "en": "Couvent des Jacobins"
+          },
+          "coords": [
+            1.4404,
+            43.6033
+          ],
+          "category": "church",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp für dieses Meisterwerk der Backsteingotik.",
+            "hu": "Rövid pihenő a téglagótika remekművének megtekintéséhez.",
+            "ro": "O scurtă oprire pentru a vedea această capodoperă gotică din cărămidă.",
+            "en": "A brief stop to see this masterpiece of Southern Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Neuf",
+            "hu": "Pont Neuf híd",
+            "ro": "Pont Neuf",
+            "en": "Pont Neuf"
+          },
+          "coords": [
+            1.4367,
+            43.5998
+          ],
+          "category": "bridge",
+          "arrive_at": "12:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Radwege auf der Brücke bieten eine tolle Aussicht auf den Fluss.",
+            "hu": "A hídon lévő kerékpárút kiváló kilátást nyújt a folyóra.",
+            "ro": "Pistele de biciclete de pe pod oferă o vedere excelentă spre râu.",
+            "en": "The bike lanes on the bridge offer a great view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            1.4501,
+            43.5999
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Gassen rund um das Kathedralenviertel.",
+            "hu": "Fedezze fel a székesegyház környéki negyed csendes kis utcáit.",
+            "ro": "Explorați străduțele liniștite din jurul cartierului catedralei.",
+            "en": "Explore the quiet backstreets around the cathedral district."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Augustins",
+            "hu": "Ágoston-rendi Múzeum",
+            "ro": "Muzeul Augustins",
+            "en": "Musée des Augustins"
+          },
+          "coords": [
+            1.4455,
+            43.6011
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein kultureller Abschluss, bevor Sie das Leihrad zurückgeben.",
+            "hu": "Kulturális zárópont, mielőtt leadná a bérautót.",
+            "ro": "Un final cultural înainte de a preda bicicleta închiriată.",
+            "en": "A cultural finale before returning your rental bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erleben Sie Toulouse von seiner grünsten Seite. Sie starten am Canal du Midi und radeln zur Basilika Saint-Sernin. Nach einem Stopp am Capitole und den Jakobinern überqueren Sie die Pont Neuf. Der Rückweg führt über die asymmetrische Kathedrale zum Augustiner-Museum, wobei Sie die fahrradfreundlichen Ufer der Garonne genießen.",
+        "hu": "Két keréken Toulouse legzöldebb arcát ismerheti meg. A Canal du Midi partjától indulva tekerünk a Saint-Sernin-bazilikához. A Capitole és a Jakobinusok után átkelünk a Pont Neuf hídon. A visszaút az aszimmetrikus székesegyházon keresztül vezet az Ágoston-rendi Múzeumhoz, miközben élvezzük a Garonne kerékpárosbarát partjait.",
+        "ro": "Pe două roți veți descoperi cea mai verde latură a orașului Toulouse. Începeți pe malul Canal du Midi și pedalați spre Bazilica Saint-Sernin. După o oprire la Capitoliu și la Iacobini, traversați Pont Neuf. Drumul de întoarcere trece pe la catedrala asimetrică spre Muzeul Augustins, bucurându-vă de malurile prietenoase ale Garonne.",
+        "en": "Experience the greenest side of Toulouse on two wheels. Start along the Canal du Midi and cycle to the Saint-Sernin Basilica. After stopping at the Capitole and the Jacobins, cross the Pont Neuf bridge. The return route takes you past the asymmetrical cathedral to the Augustins Museum, enjoying the bike-friendly banks of the Garonne."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Saint-Aubin",
+            "tip": "Holen Sie sich ein Croissant für den Weg am Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Saint-Aubin",
+            "tip": "Vegyünk egy friss croissant-t a csatornaparti útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Saint-Aubin",
+            "tip": "Luați un croissant pentru drumul de-a lungul canalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Saint-Aubin",
+            "tip": "Grab a fresh croissant for your ride along the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal du Midi Ufer",
+            "tip": "Kilometerlange Wege unter alten Bäumen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal du Midi partja",
+            "tip": "Kilométereken át kanyargó út az öreg fák alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canal du Midi",
+            "tip": "Kilometri de alei sub copaci seculari.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal du Midi banks",
+            "tip": "Miles of paths under ancient trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélostation",
+            "tip": "Zubehör und Karten für Radfahrer im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélostation",
+            "tip": "Kiegészítők és térképek bicikliseknek a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélostation",
+            "tip": "Accesorii și hărți pentru bicicliști în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélostation",
+            "tip": "Accessories and maps for cyclists in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'VélôToulouse' Verleihsystem der Stadt.",
+          "Die Radwege entlang der Garonne sind sehr gut ausgebaut.",
+          "Vermeiden Sie die Haupteinkaufsstraßen während der Stoßzeiten."
+        ],
+        "hu": [
+          "Használja a város 'VélôToulouse' bérbringa-rendszerét.",
+          "A Garonne menti kerékpárutak kiváló állapotban vannak.",
+          "Csúcsidőben kerülje a fő bevásárlóutcákat a nagy tömeg miatt."
+        ],
+        "ro": [
+          "Folosiți sistemul de închirieri 'VélôToulouse' al orașului.",
+          "Pistele de biciclete de-a lungul Garonne sunt foarte bine amenajate.",
+          "Evitați străzile comerciale principale în orele de vârf."
+        ],
+        "en": [
+          "Use the city's 'VélôToulouse' bike-sharing system.",
+          "The bike paths along the Garonne are very well maintained.",
+          "Avoid main shopping streets during peak hours due to crowds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Capitole",
+            "hu": "Capitole tér",
+            "ro": "Piața Capitoliului",
+            "en": "Place du Capitole"
+          },
+          "coords": [
+            1.4442,
+            43.6045
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Indigo direkt unter dem Platz.",
+            "hu": "Parkoljon az Indigo mélygarázsban közvetlenül a tér alatt.",
+            "ro": "Parcați în parcarea subterană Indigo chiar sub piață.",
+            "en": "Park in the Indigo underground garage directly beneath the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Sernin",
+            "hu": "Szent Sernin-bazilika",
+            "ro": "Bazilica Saint-Sernin",
+            "en": "Basilique Saint-Sernin"
+          },
+          "coords": [
+            1.4421,
+            43.6083
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Capitole; lassen Sie das Auto geparkt.",
+            "hu": "Rövid séta a Capitole-tól; hagyja az autót a garázsban.",
+            "ro": "O scurtă plimbare de la Capitoliu; lăsați mașina parcată.",
+            "en": "A short walk from the Capitole; leave your car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobinerkonvent",
+            "hu": "Jakobinusok kolostora",
+            "ro": "Mănăstirea Iacobinilor",
+            "en": "Couvent des Jacobins"
+          },
+          "coords": [
+            1.4404,
+            43.6033
+          ],
+          "category": "church",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der letzte Punkt im Stadtzentrum, bevor Sie zum Auto zurückkehren.",
+            "hu": "Az utolsó belvárosi helyszín, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultimul obiectiv din centru înainte de a vă întoarce la mașină.",
+            "en": "The final city center spot before returning to your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité de l'Espace",
+            "hu": "Cité de l'Espace",
+            "ro": "Cité de l'Espace",
+            "en": "Cité de l'Espace"
+          },
+          "coords": [
+            1.4931,
+            43.5866
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze direkt vor dem Eingang des Themenparks.",
+            "hu": "Ingyenes parkolási lehetőség közvetlenül az élménypark bejáratánál.",
+            "ro": "Parcare gratuită chiar la intrarea în parcul tematic.",
+            "en": "Free parking available directly at the entrance of the theme park."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Augustins",
+            "hu": "Ágoston-rendi Múzeum",
+            "ro": "Muzeul Augustins",
+            "en": "Musée des Augustins"
+          },
+          "coords": [
+            1.4455,
+            43.6011
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Esquirol' für den Besuch am Nachmittag.",
+            "hu": "Használja az 'Esquirol' parkolóházat a délutáni látogatáshoz.",
+            "ro": "Folosiți parcarea 'Esquirol' pentru vizita de după-amiază.",
+            "en": "Use the 'Esquirol' parking garage for your afternoon visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Neuf",
+            "hu": "Pont Neuf híd",
+            "ro": "Pont Neuf",
+            "en": "Pont Neuf"
+          },
+          "coords": [
+            1.4367,
+            43.5998
+          ],
+          "category": "bridge",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang über der Garonne zum Abschluss.",
+            "hu": "Zárja a napot a Garonne feletti naplemente megtekintésével.",
+            "ro": "Încheiați ziua admirând apusul peste râul Garonne.",
+            "en": "Finish your day watching the sunset over the Garonne river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route verbindet das historische Erbe mit der technologischen Zukunft von Toulouse. Sie parken im Zentrum und erkunden das Capitole und Saint-Sernin zu Fuß. Danach fahren Sie zur Cité de l'Espace, einem Highlight für Raumfahrtfans. Nachmittags kehren Sie ins Zentrum zurück, um das Augustiner-Museum zu besuchen und den Tag an der Pont Neuf ausklingen zu lassen.",
+        "hu": "Ez az útvonal ötvözi Toulouse történelmi örökségét a technológiai jövővel. A belvárosban parkolva gyalog fedezzük fel a Capitole-t és a Saint-Sernin-t. Ezután a Cité de l'Espace űrközpontba hajtunk. Délután visszatérünk a központba az Ágoston-rendi Múzeum kedvéért, a napot pedig a Pont Neuf hídnál zárjuk.",
+        "ro": "Acest traseu îmbină moștenirea istorică cu viitorul tehnologic al orașului Toulouse. Parcați în centru și explorați Capitoliul și Saint-Sernin pe jos. Apoi, conduceți spre Cité de l'Espace, un punct de reper pentru fanii spațiului. După-amiaza reveniți în centru pentru Muzeul Augustins și încheiați ziua la Pont Neuf.",
+        "en": "This route combines the historical heritage with the technological future of Toulouse. Park in the center and explore the Capitole and Saint-Sernin on foot. Then, drive to the Cité de l'Espace, a highlight for space enthusiasts. Return to the center in the afternoon for the Augustins Museum and end your day at the Pont Neuf."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Berühmtes Restaurant mit nur einem Menü, oft Warteschlangen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Híres étterem egyetlen menüvel, gyakran hosszú sorokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Restaurant faimos cu un singur meniu, adesea se stă la coadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Famous restaurant with a single set menu, often has long queues."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ein friedlicher Park, ideal nach dem Museumsbesuch.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Békés park, tökéletes a múzeumlátogatás után.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Un parc liniștit, ideal după vizita la muzeu.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A peaceful park, ideal for a break after the museum visit.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Kaufhaus mit einer tollen Aussicht von der Dachterrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Áruház kiváló kilátással a tetőteraszáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Magazin universal cu o vedere superbă de pe terasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Department store with a great view from the rooftop terrace."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour auf der Périphérique (Ringstraße).",
+          "Parken Sie im Stadtzentrum bevorzugt in Parkhäusern.",
+          "Einige Zonen im Zentrum sind nur für Anwohner befahrbar."
+        ],
+        "hu": [
+          "Kerülje el a csúcsforgalmat a körgyűrűn (Périphérique).",
+          "A belvárosban válassza a nagy parkolóházakat.",
+          "Néhány belső utca csak a helyi lakosok számára behajtható."
+        ],
+        "ro": [
+          "Evitați orele de vârf pe Périphérique (centura orașului).",
+          "În centrul orașului preferați parcările etajate sau subterane.",
+          "Unele zone centrale sunt accesibile doar rezidenților."
+        ],
+        "en": [
+          "Avoid rush hour on the Périphérique (ring road).",
+          "Prefer parking garages when visiting the city center.",
+          "Some central zones are restricted to residents only."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Capitole",
+            "hu": "Capitole tér",
+            "ro": "Piața Capitoliului",
+            "en": "Place du Capitole"
+          },
+          "coords": [
+            1.4442,
+            43.6045
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Direkter Zugang über die Metrostation 'Capitole' (Linie A).",
+            "hu": "Közvetlen elérés a 'Capitole' metrómegállótól (A vonal).",
+            "ro": "Acces direct prin stația de metrou 'Capitole' (Linia A).",
+            "en": "Direct access via the 'Capitole' metro station (Line A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Neuf",
+            "hu": "Pont Neuf híd",
+            "ro": "Pont Neuf",
+            "en": "Pont Neuf"
+          },
+          "coords": [
+            1.4367,
+            43.5998
+          ],
+          "category": "bridge",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Station 'Esquirol' (Linie A).",
+            "hu": "Rövid séta az 'Esquirol' metrómegállótól (A vonal).",
+            "ro": "O scurtă plimbare de la stația 'Esquirol' (Linia A).",
+            "en": "A short walk from the 'Esquirol' metro station (Line A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Augustins",
+            "hu": "Ágoston-rendi Múzeum",
+            "ro": "Muzeul Augustins",
+            "en": "Musée des Augustins"
+          },
+          "coords": [
+            1.4455,
+            43.6011
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Liegt nur wenige Gehminuten von der Metrostation 'Esquirol' entfernt.",
+            "hu": "Mindössze pár perc sétára az 'Esquirol' metrómegállótól.",
+            "ro": "Situat la doar câteva minute de mers pe jos de metroul 'Esquirol'.",
+            "en": "Located just a few minutes' walk from the 'Esquirol' metro station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité de l'Espace",
+            "hu": "Cité de l'Espace",
+            "ro": "Cité de l'Espace",
+            "en": "Cité de l'Espace"
+          },
+          "coords": [
+            1.4931,
+            43.5866
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie L1 ab 'Jean Jaurès' bringt Sie direkt zum Park.",
+            "hu": "Az L1 buszjárat a 'Jean Jaurès' megállótól közvetlenül a parkhoz visz.",
+            "ro": "Linia de autobuz L1 de la 'Jean Jaurès' vă duce direct la parc.",
+            "en": "Bus line L1 from 'Jean Jaurès' takes you directly to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Sernin",
+            "hu": "Szent Sernin-bazilika",
+            "ro": "Bazilica Saint-Sernin",
+            "en": "Basilique Saint-Sernin"
+          },
+          "coords": [
+            1.4421,
+            43.6083
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Metrostation 'Jeanne d'Arc' (Linie B) für die Basilika.",
+            "hu": "Használja a 'Jeanne d'Arc' metrómegállót (B vonal) a bazilikához.",
+            "ro": "Folosiți stația de metrou 'Jeanne d'Arc' (Linia B) pentru bazilică.",
+            "en": "Use the 'Jeanne d'Arc' metro station (Line B) to reach the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            1.4501,
+            43.5999
+          ],
+          "category": "cathedral",
+          "arrive_at": "17:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Station 'François Verdier' (Linie B) ist der ideale Ausstiegspunkt.",
+            "hu": "A 'François Verdier' megálló (B vonal) az ideális kiszállási pont.",
+            "ro": "Stația 'François Verdier' (Linia B) este punctul ideal de coborâre.",
+            "en": "The 'François Verdier' station (Line B) is the ideal drop-off point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das hervorragende Verkehrsnetz von Toulouse macht diesen Tag zum Vergnügen. Sie starten im Zentrum mit Metro Linie A, erkunden die Pont Neuf und das Augustiner-Museum. Der Bus L1 bringt Sie bequem zur Cité de l'Espace. Zum Abschluss nutzen Sie die Linie B, um die monumentale Basilika Saint-Sernin und die faszinierende Kathedrale Saint-Étienne zu besichtigen.",
+        "hu": "Toulouse kiváló tömegközlekedési hálózata örömmé teszi a napot. Az A metróval kezdünk a központban, felfedezzük a Pont Neuf-öt és az Ágoston-rendi Múzeumot. Az L1 busz kényelmesen kijuttat a Cité de l'Espace-hoz. A nap végén a B metróval keressük fel a monumentális Saint-Sernin-bazilikát és a lenyűgöző Szent István-székesegyházat.",
+        "ro": "Rețeaua excelentă de transport din Toulouse face ca această zi să fie o plăcere. Începeți cu linia A de metrou în centru, explorând Pont Neuf și Muzeul Augustins. Autobuzul L1 vă duce confortabil la Cité de l'Espace. La final, folosiți linia B pentru a vizita monumentala Bazilică Saint-Sernin și fascinanta Catedrală Saint-Étienne.",
+        "en": "Toulouse's excellent transport network makes this day a pleasure. Start with metro Line A in the center, exploring the Pont Neuf and the Augustins Museum. Bus L1 takes you comfortably to the Cité de l'Espace. To finish, use Line B to visit the monumental Saint-Sernin Basilica and the fascinating Saint-Étienne Cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Halle mit tollen Bistros im Obergeschoss, nah an der Metro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Vásárcsarnok remek bisztrókkal az emeleten, közel a metróhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Piață cu bistrouri excelente la etaj, aproape de metrou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Indoor market with great bistros upstairs, close to the metro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Japonais",
+            "tip": "Ein kleiner, friedlicher Garten nahe der Metro Compans-Caffarelli.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Japonais",
+            "tip": "Kicsi, békés kert a Compans-Caffarelli metrómegálló közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Japonais",
+            "tip": "O mică grădină liniștită lângă metroul Compans-Caffarelli.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Japonais",
+            "tip": "A small, peaceful garden near the Compans-Caffarelli metro stop.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de Rome",
+            "tip": "Viele Geschäfte direkt an der Route der Metro Linie A."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de Rome",
+            "tip": "Számos üzlet közvetlenül az A metró útvonalán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de Rome",
+            "tip": "Multe magazine chiar pe traseul liniei A de metrou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de Rome",
+            "tip": "Many shops located directly along the Line A metro route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für Busse und U-Bahnen.",
+          "Die U-Bahnen fahren in sehr kurzen Abständen.",
+          "Laden Sie die 'Tisséo' App für Echtzeit-Fahrpläne herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszokra és metrókra.",
+          "A metrók nagyon sűrűn közlekednek.",
+          "Töltse le a 'Tisséo' alkalmazást a valós idejű menetrendért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi valabil pe autobuze și metrou.",
+          "Metrourile circulă la intervale foarte scurte.",
+          "Descărcați aplicația 'Tisséo' pentru orarele în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for buses and the metro.",
+          "The metro trains run at very frequent intervals.",
+          "Download the 'Tisséo' app for real-time schedules."
+        ]
+      }
+    }
+  }
+}

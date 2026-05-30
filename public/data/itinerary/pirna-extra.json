@@ -1,0 +1,1157 @@
+{
+  "city_id": "pirna-extra",
+  "anchor": {
+    "name": "Marktplatz Pirna",
+    "coords": [
+      13.9419,
+      50.9625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Pirna",
+            "hu": "Pirnai Piactér",
+            "ro": "Piața Centrală Pirna",
+            "en": "Pirna Market Square"
+          },
+          "coords": [
+            13.9419,
+            50.9625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Brunnen.",
+            "hu": "Nézze meg a kutakat.",
+            "ro": "Observați fântânile arteziene.",
+            "en": "Look at the central fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Canalettohaus",
+            "hu": "Canaletto-ház",
+            "ro": "Casa Canaletto",
+            "en": "Canaletto House"
+          },
+          "coords": [
+            13.9421,
+            50.9623
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier ist die Tourist-Information.",
+            "hu": "Itt található a turista iroda.",
+            "ro": "Aici este centrul de informare.",
+            "en": "Houses the tourist info center."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            13.943,
+            50.9622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestunern Sie das Netzgewölbe.",
+            "hu": "Csodálja meg a hálóboltozatot.",
+            "ro": "Admirați bolta reticulată.",
+            "en": "Admire the intricate net vaulting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sonnenstein",
+            "hu": "Sonnenstein vár",
+            "ro": "Castelul Sonnenstein",
+            "en": "Sonnenstein Castle"
+          },
+          "coords": [
+            13.9468,
+            50.9615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gedenkstätte.",
+            "hu": "Látogassa meg az emlékhelyet.",
+            "ro": "Vizitați memorialul istoric.",
+            "en": "Visit the historical memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            13.941,
+            50.961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ruheoase mitten in der Stadt.",
+            "hu": "Csendes oázis a belvárosban.",
+            "ro": "Oază de liniște în centru.",
+            "en": "A quiet oasis in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Teufelserkerhaus",
+            "hu": "Teufelserker-ház",
+            "ro": "Casa Teufelserker",
+            "en": "Teufelserker House"
+          },
+          "coords": [
+            13.9405,
+            50.962
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Detailreicher Renaissancestil.",
+            "hu": "Részletgazdag reneszánsz stílus.",
+            "ro": "Stil renascentist detaliat.",
+            "en": "Detailed Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "DDR-Museum Pirna",
+            "hu": "Pirnai NDK Múzeum",
+            "ro": "Muzeul RDG Pirna",
+            "en": "DDR Museum Pirna"
+          },
+          "coords": [
+            13.9455,
+            50.97
+          ],
+          "category": "museums",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit ein.",
+            "hu": "Szánjon rá elég időt.",
+            "ro": "Alocați timp suficient vizitei.",
+            "en": "Allow plenty of time for exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen der Pirnaer Altstadt auf dem Marktplatz, den Canaletto in seinen berühmten Veduten verewigte. Die Marienkirche beeindruckt mit ihrem monumentalen Dachstuhl. Mittags steigen wir zum Schloss Sonnenstein hinauf, das über der Elbe thront. Nach einer Pause im Klosterhof erkunden wir die Geschichte im DDR-Museum, bevor der Tag gemütlich am Elbufer ausklingt.",
+        "hu": "A nap Pirna óvárosának szívében kezdődik, a Marktplatzon, amelyet Canaletto tett híressé festményeivel. A Marienkirche gótikus hálóboltozata egyedülálló látvány. Délben felsétálunk a Sonnenstein várba, ahonnan kilátás nyílik az Elbára. A délutánt a kolostorudvar csendje és a DDR-Museum nosztalgikus tárlata tölti ki, bemutatva a térség 20. századi történetét.",
+        "ro": "Ziua începe în inima orașului vechi Pirna, în Piața Centrală imortalizată de Canaletto. Biserica Sfânta Maria impresionează prin arhitectura sa gotică târzie. La prânz urcăm la Castelul Sonnenstein pentru o panoramă asupra Elbei. După o pauză în curtea mănăstirii, explorăm istoria recentă la Muzeul RDG, încheind ziua cu o plimbare pe faleza râului.",
+        "en": "Start your day at the historic Marktplatz, famously depicted by painter Canaletto. Visit the late Gothic St. Mary's Church before heading up to Schloss Sonnenstein for a view over the Elbe valley. After enjoying the tranquility of the Klosterhof, spend your afternoon at the DDR Museum exploring 20th-century history, followed by a relaxing evening walk along the riverbanks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Zur Post",
+            "tip": "Sächsische Kartoffelsuppe und lokales Bier."
+          },
+          {
+            "name": "Canaletto-Torte",
+            "tip": "Süße Spezialität in den Cafés am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Zur Post",
+            "tip": "Szász burgonyaleves és helyi sörök."
+          },
+          {
+            "name": "Canaletto-torta",
+            "tip": "Édes különlegesség a főtéri kávézókban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Zur Post",
+            "tip": "Supă de cartofi saxonă și bere locală."
+          },
+          {
+            "name": "Tort Canaletto",
+            "tip": "Specialitate dulce în cafenelele din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Zur Post",
+            "tip": "Saxonian potato soup and local beers."
+          },
+          {
+            "name": "Canaletto Cake",
+            "tip": "A sweet specialty found in market cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossberghang",
+            "tip": "Blick auf die Elbe ohne Trubel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Klostergarten",
+            "tip": "Stiller Ort für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossberghang",
+            "tip": "Kilátás az Elbára tömeg nélkül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kolostorkert",
+            "tip": "Csendes hely egy pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossberghang",
+            "tip": "Vedere spre Elba fără aglomerație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "Loc liniștit pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossberghang",
+            "tip": "Views of the Elbe away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Monastery Garden",
+            "tip": "A quiet spot for a meditation break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pirnaer Unikat",
+            "tip": "Handgefertigte Souvenirs aus der Region."
+          },
+          {
+            "name": "Weinhandlung am Markt",
+            "tip": "Sächsische Weine direkt vom Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirnaer Unikat",
+            "tip": "Kézműves ajándéktárgyak a régióból."
+          },
+          {
+            "name": "Weinhandlung am Markt",
+            "tip": "Szász borok közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirnaer Unikat",
+            "tip": "Suveniruri artizanale din regiune."
+          },
+          {
+            "name": "Weinhandlung am Markt",
+            "tip": "Vinuri saxone direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirnaer Unikat",
+            "tip": "Handmade souvenirs from the region."
+          },
+          {
+            "name": "Weinhandlung am Markt",
+            "tip": "Local Saxonian wines from nearby vineyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist fast komplett verkehrsberuhigt.",
+          "Festes Schuhwerk für den Aufstieg zum Schloss empfohlen.",
+          "Der Marktplatz bietet viele Fotomotive aus der Canaletto-Perspektive.",
+          "Die S-Bahn S1 verbindet Pirna direkt mit Dresden."
+        ],
+        "hu": [
+          "Az óváros szinte teljes egésze gyalogos zóna.",
+          "A várba vezető úthoz kényelmes lábbeli ajánlott.",
+          "A Marktplatz számos fotótémát kínál Canaletto nézőpontjából.",
+          "Az S1-es vonat közvetlen összeköttetést nyújt Drezdával."
+        ],
+        "ro": [
+          "Centrul vechi este aproape în întregime pietonal.",
+          "Se recomandă încălțăminte comodă pentru urcarea la castel.",
+          "Piața oferă multe unghiuri foto din perspectiva lui Canaletto.",
+          "Trenul S1 face legătura directă între Pirna și Dresda."
+        ],
+        "en": [
+          "The old town is almost entirely a pedestrian zone.",
+          "Sturdy shoes are recommended for the walk up to the castle.",
+          "The market square offers many photo ops from Canaletto's perspective.",
+          "The S1 suburban train connects Pirna directly to Dresden."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața",
+            "en": "Market Square"
+          },
+          "coords": [
+            13.9419,
+            50.9625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare.",
+            "en": "Start of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Elberadweg",
+            "hu": "Elba-menti kerékpárút",
+            "ro": "Traseul bicicletei Elba",
+            "en": "Elbe Cycle Path"
+          },
+          "coords": [
+            13.94,
+            50.965
+          ],
+          "category": "park/beach",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einer der schönsten Radwege.",
+            "hu": "Az egyik legszebb kerékpárút.",
+            "ro": "Unul dintre cele mai frumoase trasee.",
+            "en": "One of Germany's scenic paths."
+          }
+        },
+        {
+          "name": {
+            "de": "DDR-Museum",
+            "hu": "NDK Múzeum",
+            "ro": "Muzeul RDG",
+            "en": "DDR Museum"
+          },
+          "coords": [
+            13.9455,
+            50.97
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrradständer am Eingang.",
+            "hu": "Kerékpártároló a bejáratnál.",
+            "ro": "Suport biciclete la intrare.",
+            "en": "Bike racks available at entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sonnenstein",
+            "hu": "Sonnenstein vár",
+            "ro": "Castelul Sonnenstein",
+            "en": "Sonnenstein Castle"
+          },
+          "coords": [
+            13.9468,
+            50.9615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, schieben möglich.",
+            "hu": "Meredek emelkedő, tolni ér.",
+            "ro": "Urcare abruptă, împingeți bicicleta.",
+            "en": "Steep climb, walking the bike is okay."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            13.941,
+            50.961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurze Rast im Schatten.",
+            "hu": "Rövid pihenő az árnyékban.",
+            "ro": "Scurt popas la umbră.",
+            "en": "Quick rest in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            13.943,
+            50.9622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrrad sicher abschließen.",
+            "hu": "Zárja le biztonságosan a biciklit.",
+            "ro": "Încuiați bine bicicleta.",
+            "en": "Lock your bike securely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pirna und Umgebung auf zwei Rädern. Wir starten am Marktplatz und fahren ein Stück auf dem berühmten Elberadweg. Nach einem Besuch im DDR-Museum radeln wir hinauf zum Schloss Sonnenstein. Der Rückweg führt uns durch die verwinkelten Gassen der Altstadt zur Marienkirche und zum Klosterhof, wo wir die Tour entspannt beenden.",
+        "hu": "Fedezze fel Pirnát két keréken! A piactérről indulva teszünk egy kört a híres Elba-menti kerékpárúton. Az NDK Múzeum megtekintése után feltekerünk a Sonnenstein várhoz a kilátásért. Visszafelé az óváros szűk utcáin keresztül érintjük a Marienkirchét és a kolostorudvart, ahol a túra véget ér.",
+        "ro": "Explorați Pirna pe două roți. Pornim din piață și parcurgem o secțiune din faimosul traseu de pe malul Elbei. După vizita la Muzeul RDG, pedalăm spre Castelul Sonnenstein. Drumul de întoarcere ne poartă prin străduțele orașului vechi până la Biserica Sf. Maria și curtea mănăstirii.",
+        "en": "Explore Pirna and its surroundings on two wheels. Starting from the market square, we take a ride along the famous Elbe Cycle Path. After visiting the DDR Museum, we cycle up to Sonnenstein Castle. The return trip takes us through the narrow alleys of the old town to St. Mary's Church and the Monastery Courtyard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elbschlösschen",
+            "tip": "Biergarten direkt am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elbschlösschen",
+            "tip": "Sörkert közvetlenül a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elbschlösschen",
+            "tip": "Grădină de vară pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbschlösschen",
+            "tip": "Beer garden directly by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbwiesen",
+            "tip": "Viel Platz zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elbwiesen",
+            "tip": "Tágas rét a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elbwiesen",
+            "tip": "Pajiște vastă pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbwiesen",
+            "tip": "Wide meadows for relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Pirna",
+            "tip": "Zubehör und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Kiegészítők és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin biciclete",
+            "tip": "Accesorii și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Pirna",
+            "tip": "Accessories and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Elberadweg ist sehr flach und gut ausgebaut.",
+          "In der Altstadt ist Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Es gibt Ladestationen für E-Bikes am Markt."
+        ],
+        "hu": [
+          "Az Elbe kerékpárút sík és kiváló minőségű.",
+          "Az óvárosban macskakő van, óvatosan hajtson.",
+          "A piacon van e-bike töltőállomás."
+        ],
+        "ro": [
+          "Traseul Elbei este plat și bine amenajat.",
+          "Atenție la pavajul din piatră cubică din centrul vechi.",
+          "Există stații de încărcare e-bike în piață."
+        ],
+        "en": [
+          "The Elbe Cycle Path is flat and well-paved.",
+          "Watch out for cobblestones in the old town area.",
+          "E-bike charging stations are available at the market."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Centru Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            13.94,
+            50.964
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ausgangspunkt.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Rathaus",
+            "hu": "Piactér és Városháza",
+            "ro": "Piața și Primăria",
+            "en": "Market & Town Hall"
+          },
+          "coords": [
+            13.9419,
+            50.9625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:24",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Gassen.",
+            "hu": "Séta a szűk utcákon át.",
+            "ro": "Plimbare pe străduțe.",
+            "en": "Walk through the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            13.943,
+            50.9622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Markt.",
+            "hu": "Rövid séta a piactérről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sonnenstein",
+            "hu": "Sonnenstein vár",
+            "ro": "Castelul Sonnenstein",
+            "en": "Sonnenstein Castle"
+          },
+          "coords": [
+            13.9468,
+            50.9615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken direkt am Schloss.",
+            "hu": "Parkolás közvetlenül a várnál.",
+            "ro": "Parcare direct la castel.",
+            "en": "Parking available at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "DDR-Museum",
+            "hu": "NDK Múzeum",
+            "ro": "Muzeul RDG",
+            "en": "DDR Museum"
+          },
+          "coords": [
+            13.9455,
+            50.97
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Saját nagy parkolója van.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            13.941,
+            50.961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 35,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Rückkehr in die Altstadt.",
+            "hu": "Visszatérés az óvárosba.",
+            "ro": "Revenire în centrul vechi.",
+            "en": "Return to the old town area."
+          }
+        },
+        {
+          "name": {
+            "de": "Teufelserkerhaus",
+            "hu": "Teufelserker-ház",
+            "ro": "Casa Teufelserker",
+            "en": "Teufelserker House"
+          },
+          "coords": [
+            13.9405,
+            50.962
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:05",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzter Stop zu Fuß.",
+            "hu": "Utolsó megálló gyalog.",
+            "ro": "Ultima oprire pe jos.",
+            "en": "Last stop on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights der Altstadt mit den etwas weiter entfernten Zielen. Wir parken zunächst zentral, um den Marktplatz und die Marienkirche zu Fuß zu erkunden. Danach fahren wir hinauf zum Schloss Sonnenstein und weiter zum DDR-Museum im Norden der Stadt. Die Tour endet wieder in der Altstadt mit einem Besuch des Klosterhofs und des Teufelserkerhauses.",
+        "hu": "Ez az autós túra ötvözi az óváros látnivalóit a távolabbi célpontokkal. Először a központban parkolunk, hogy gyalog fedezzük fel a piacteret és a Marienkirchét. Ezután felhajtunk a Sonnenstein várhoz, majd tovább az északi részen fekvő NDK Múzeumhoz. A túra az óvárosban ér véget a kolostorudvar és a Teufelserker-ház megtekintésével.",
+        "ro": "Acest tur cu mașina combină atracțiile centrului vechi cu destinațiile mai îndepărtate. Parcăm central pentru a explora pe jos piața și Biserica Sf. Maria. Ulterior conducem spre Castelul Sonnenstein și mai departe spre Muzeul RDG din nordul orașului. Turul se încheie în centrul vechi cu vizitarea curții mănăstirii și a casei Teufelserker.",
+        "en": "This car tour combines the highlights of the old town with more distant sites. We start by parking centrally to explore the market square and St. Mary's Church on foot. Next, we drive up to Sonnenstein Castle and further north to the DDR Museum. The tour concludes back in the old town with a visit to the Monastery Courtyard and the Teufelserker House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Deutsches Haus",
+            "tip": "Traditionelle sächsische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deutsches Haus",
+            "tip": "Hagyományos szász konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deutsches Haus",
+            "tip": "Bucătărie tradițională saxonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deutsches Haus",
+            "tip": "Traditional Saxonian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ruhiger Park am Sonnenstein.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlosspark",
+            "tip": "Csendes park a várnál.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlosspark",
+            "tip": "Parc liniștit la castel.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlosspark",
+            "tip": "Quiet park at the castle.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sachsen-Forum",
+            "tip": "Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sachsen-Forum",
+            "tip": "Bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sachsen-Forum",
+            "tip": "Centru comercial la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sachsen-Forum",
+            "tip": "Shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkhaus 'Altstadt' am Elbufer.",
+          "Achtung: Enge Gassen in der Altstadt sind für Autos gesperrt.",
+          "Das DDR-Museum hat einen eigenen kostenlosen Parkplatz."
+        ],
+        "hu": [
+          "Használja az óvárosi 'Altstadt' parkolóházat a parton.",
+          "Figyelem: a szűk utcák az óvárosban le vannak zárva az autók elől.",
+          "Az NDK Múzeumnak saját ingyenes parkolója van."
+        ],
+        "ro": [
+          "Folosiți parcarea 'Altstadt' de pe malul Elbei.",
+          "Atenție: străzile înguste din centrul vechi sunt pietonale.",
+          "Muzeul RDG are parcare proprie gratuită."
+        ],
+        "en": [
+          "Use the 'Altstadt' parking garage by the riverbank.",
+          "Note: Narrow alleys in the old town are closed to cars.",
+          "The DDR Museum offers free on-site parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Omnibusbahnhof (ZOB)",
+            "hu": "Központi buszállomás",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
+          },
+          "coords": [
+            13.938,
+            50.963
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Direkt am Bahnhof Pirna.",
+            "hu": "Közvetlenül a pályaudvar mellett.",
+            "ro": "Lângă gara Pirna.",
+            "en": "Right next to Pirna station."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața",
+            "en": "Market Square"
+          },
+          "coords": [
+            13.9419,
+            50.9625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Buslinie G/L zum Markt.",
+            "hu": "G/L buszjárat a piacra.",
+            "ro": "Linia G/L până în piață.",
+            "en": "Bus lines G/L to the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            13.943,
+            50.9622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Markt.",
+            "hu": "Rövid séta a piactérről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sonnenstein",
+            "hu": "Sonnenstein vár",
+            "ro": "Castelul Sonnenstein",
+            "en": "Sonnenstein Castle"
+          },
+          "coords": [
+            13.9468,
+            50.9615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Aufstieg zu Fuß lohnt sich.",
+            "hu": "Megéri felsétálni.",
+            "ro": "Urcarea pe jos merită efortul.",
+            "en": "The walk up is rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "DDR-Museum",
+            "hu": "NDK Múzeum",
+            "ro": "Muzeul RDG",
+            "en": "DDR Museum"
+          },
+          "coords": [
+            13.9455,
+            50.97
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 19 in Richtung Copitz.",
+            "hu": "19-es busz Copitz felé.",
+            "ro": "Linia 19 spre Copitz.",
+            "en": "Bus line 19 towards Copitz."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            13.941,
+            50.961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rückfahrt in die Altstadt.",
+            "hu": "Visszautazás az óvárosba.",
+            "ro": "Retur în centrul vechi.",
+            "en": "Ride back to the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus Pirna entdecken: Wir starten am Bahnhof und fahren zum Marktplatz. Von dort erkunden wir die Marienkirche und steigen zum Schloss Sonnenstein hinauf. Mit dem Stadtbus geht es weiter zum DDR-Museum auf der anderen Elbseite in Copitz. Zum Abschluss führt uns der Weg zurück in die Altstadt zum Klosterhof, bevor wir wieder den Bahnhof erreichen.",
+        "hu": "Fedezze fel Pirnát busszal! A pályaudvarról indulva a piactérre utazunk. Innen gyalog keressük fel a Marienkirchét és a Sonnenstein várat. Városi busszal megyünk tovább az Elba túloldalán, Copitzban található NDK Múzeumhoz. A nap végén visszatérünk az óvárosba a kolostorudvarhoz, majd vissza a pályaudvarra.",
+        "ro": "Descoperiți Pirna cu autobuzul: Pornim de la gară spre piața centrală. De acolo explorăm Biserica Sf. Maria și urcăm la Castelul Sonnenstein. Cu autobuzul urban mergem spre Muzeul RDG din Copitz, pe cealaltă parte a Elbei. La final revenim în centrul vechi la curtea mănăstirii, înainte de a ne întoarce la gară.",
+        "en": "Discover Pirna by bus: We start at the station and ride to the market square. From there, we explore St. Mary's Church and walk up to Sonnenstein Castle. A city bus then takes us to the DDR Museum in the Copitz district across the Elbe. Finally, we return to the old town's Monastery Courtyard before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Gröger",
+            "tip": "Frisches Gebäck am ZOB."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gröger pékség",
+            "tip": "Friss pékáru az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Gröger",
+            "tip": "Produse proaspete la autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gröger Bakery",
+            "tip": "Fresh pastries at the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbe-Ufer Copitz",
+            "tip": "Ruhige Seite des Flusses.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Copitzi Elbe-part",
+            "tip": "A folyó csendesebb oldala.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Elbei în Copitz",
+            "tip": "Partea liniștită a râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Copitz Riverbank",
+            "tip": "The quieter side of the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Karten und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási újságos",
+            "tip": "Térképek és magazinok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Hărți și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Maps and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Einzelticket gilt für eine Stunde.",
+          "Die Busse fahren meist im 30-Minuten-Takt.",
+          "Fahrpläne hängen an jeder größeren Haltestelle."
+        ],
+        "hu": [
+          "Egy vonaljegy egy óráig érvényes.",
+          "A buszok általában 30 percenként járnak.",
+          "A menetrendek minden nagyobb megállóban kint vannak."
+        ],
+        "ro": [
+          "Un bilet simplu este valabil o oră.",
+          "Autobuzele circulă de regulă la 30 de minute.",
+          "Orarele sunt afișate în fiecare stație principală."
+        ],
+        "en": [
+          "A single ticket is valid for one hour.",
+          "Buses usually run every 30 minutes.",
+          "Timetables are posted at every major stop."
+        ]
+      }
+    }
+  }
+}

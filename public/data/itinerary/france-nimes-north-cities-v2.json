@@ -1,0 +1,1136 @@
+{
+  "city_id": "france-nimes-north-cities-v2",
+  "anchor": {
+    "name": "Nîmes",
+    "coords": [
+      4.36,
+      43.85
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade Charles-de-Gaulle",
+            "hu": "Esplanade Charles-de-Gaulle",
+            "ro": "Esplanade Charles-de-Gaulle",
+            "en": "Esplanade Charles-de-Gaulle"
+          },
+          "coords": [
+            4.363,
+            43.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blick auf den Pradier-Brunnen.",
+            "hu": "Nézd meg a Pradier-szökőkutat.",
+            "ro": "Admirați fântâna Pradier.",
+            "en": "Check out the Pradier Fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes de Nîmes",
+            "hu": "Nîmes-i Aréna",
+            "ro": "Amfiteatrul din Nîmes",
+            "en": "Arena of Nîmes"
+          },
+          "coords": [
+            4.36,
+            43.835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Holen Sie sich den Audioguide.",
+            "hu": "Kérj audioguide-ot a bejáratnál.",
+            "ro": "Luați un ghid audio la intrare.",
+            "en": "Get the audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Romanité",
+            "hu": "Római kori Múzeum",
+            "ro": "Muzeul Romanității",
+            "en": "Musée de la Romanité"
+          },
+          "coords": [
+            4.361,
+            43.834
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dachterrasse mit Stadtblick.",
+            "hu": "Menj fel a tetőteraszra a panorámáért.",
+            "ro": "Mergeți pe terasă pentru panoramă.",
+            "en": "Go to the roof terrace for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-et-Saint-Castor",
+            "hu": "Szent Castor-székesegyház",
+            "ro": "Catedrala Notre-Dame-et-Saint-Castor",
+            "en": "Cathedral of Saint Castor"
+          },
+          "coords": [
+            4.359,
+            43.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Romanischer Fries an der Fassade.",
+            "hu": "Keresd a román kori frízt a homlokzaton.",
+            "ro": "Căutați friza romanică pe fațadă.",
+            "en": "Look for the Romanesque frieze on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Carrée",
+            "hu": "Maison Carrée",
+            "ro": "Maison Carrée",
+            "en": "Maison Carrée"
+          },
+          "coords": [
+            4.356,
+            43.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigung des inneren Films.",
+            "hu": "Nézd meg a benti rövidfilmet.",
+            "ro": "Urmăriți filmul scurt din interior.",
+            "en": "Watch the short film inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine",
+            "hu": "Fontaine-kertek",
+            "ro": "Grădinile Fontaine",
+            "en": "Jardins de la Fontaine"
+          },
+          "coords": [
+            4.35,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Diana-Tempel.",
+            "hu": "Keresd meg a Diana-templomot a kertben.",
+            "ro": "Vizitați Templul Dianei din grădină.",
+            "en": "Visit the Temple of Diana in the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Magne",
+            "hu": "Magne-torony",
+            "ro": "Turnul Magne",
+            "en": "Tour Magne"
+          },
+          "coords": [
+            4.349,
+            43.844
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Stadt.",
+            "hu": "A város legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al orașului.",
+            "en": "Highest point in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der Esplanade, bevor Sie das majestätische Amphitheater und das moderne Museum der Romanik erkunden. Nach einem Mittagessen in der Altstadt besichtigen Sie die Kathedrale und die perfekt erhaltene Maison Carrée. Der Nachmittag gehört der Ruhe in den Fontaine-Gärten, gekrönt von der Aussicht vom Tour Magne. Ein Spaziergang voller Geschichte und mediterranem Charme.",
+        "hu": "A nap az Esplanade-on indul, majd a lenyűgöző amfiteátrum és a modern Római kori Múzeum következik. Egy óvárosi ebéd után a székesegyház és a tökéletes állapotú Maison Carrée vár. A délutánt a Fontaine-kertek nyugalmában töltjük, végül felkapaszkodunk a Magne-toronyba a kilátásért. Történelmi séta mediterrán hangulatban.",
+        "ro": "Ziua începe pe Esplanadă, urmată de amfiteatrul maiestuos și modernul Muzeu al Romanității. După un prânz în centrul vechi, vizitați catedrala și Maison Carrée, conservată impecabil. După-amiaza este dedicată liniștii din Grădinile Fontaine, culminând cu panorama de la Turnul Magne. O plimbare plină de istorie și farmec mediteranean.",
+        "en": "Your day starts at the Esplanade before exploring the majestic amphitheater and the modern Museum of Romanity. After lunch in the old town, visit the cathedral and the perfectly preserved Maison Carrée. Spend the afternoon in the peace of the Fontaine Gardens, crowned by the view from Tour Magne. A stroll full of history and Mediterranean charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Kabeljau-Spezialität im Restaurant Le Déjà Vu."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Helyi tőkehal-krém a Le Déjà Vu étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Specialitate de cod la restaurantul Le Déjà Vu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Local cod specialty at Le Déjà Vu restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de la Fontaine",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontaine-kertek",
+            "tip": "Csendes séta a vízparti sétányokon.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Fontaine",
+            "tip": "Plimbare liniștită pe aleile de lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins de la Fontaine",
+            "tip": "Quiet stroll along the water alleys.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Markthalle für lokale Köstlichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Vásárcsarnok helyi finomságokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Piață acoperită cu delicii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Covered market for local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für das Kopfsteinpflaster.",
+          "Kaufen Sie den Pass Nîmes für Rabatte.",
+          "Mittagspause in der Nähe der Maison Carrée einplanen."
+        ],
+        "hu": [
+          "Kényelmes cipő kell a macskaköves utcákhoz.",
+          "Vegyél Nîmes-kártyát a kedvezményekhez.",
+          "Az ebédet a Maison Carrée környékén érdemes megoldani."
+        ],
+        "ro": [
+          "Pantofi confortabili pentru străzile pietruite.",
+          "Cumpărați cardul Nîmes pentru reduceri.",
+          "Planificați prânzul lângă Maison Carrée."
+        ],
+        "en": [
+          "Comfortable shoes are a must for cobblestones.",
+          "Get the Nîmes City Pass for discounts.",
+          "Plan lunch in the area around Maison Carrée."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade",
+            "hu": "Esplanade",
+            "ro": "Esplanade",
+            "en": "Esplanade"
+          },
+          "coords": [
+            4.363,
+            43.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt.",
+            "hu": "Indulópont.",
+            "ro": "Punct de start.",
+            "en": "Starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes",
+            "hu": "Aréna",
+            "ro": "Arenă",
+            "en": "Arena"
+          },
+          "coords": [
+            4.36,
+            43.835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Rad abstellen am Eingang.",
+            "hu": "Lakatold le a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta la intrare.",
+            "en": "Lock your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Romanité",
+            "hu": "Római Múzeum",
+            "ro": "Muzeu Roman",
+            "en": "Roman Museum"
+          },
+          "coords": [
+            4.361,
+            43.834
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Moderne Architektur.",
+            "hu": "Modern építészet.",
+            "ro": "Arhitectură modernă.",
+            "en": "Modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Carrée",
+            "hu": "Maison Carrée",
+            "ro": "Maison Carrée",
+            "en": "Maison Carrée"
+          },
+          "coords": [
+            4.356,
+            43.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "UNESCO Weltkulturerbe.",
+            "hu": "UNESCO Világörökség.",
+            "ro": "Patrimoniu UNESCO.",
+            "en": "UNESCO World Heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            4.359,
+            43.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Alte Innenstadt.",
+            "hu": "Régi városközpont.",
+            "ro": "Centru vechi.",
+            "en": "Old city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine",
+            "hu": "Fontaine-kertek",
+            "ro": "Grădini",
+            "en": "Gardens"
+          },
+          "coords": [
+            4.35,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radfahren erlaubt.",
+            "hu": "Biciklizhető utak.",
+            "ro": "Permis cu bicicleta.",
+            "en": "Cycling allowed on paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Diane",
+            "hu": "Diana-templom",
+            "ro": "Templul Dianei",
+            "en": "Temple of Diana"
+          },
+          "coords": [
+            4.348,
+            43.84
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mystische Ruine.",
+            "hu": "Misztikus rom.",
+            "ro": "Ruină mistică.",
+            "en": "Mystical ruin."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Magne",
+            "hu": "Magne-torony",
+            "ro": "Turnul Magne",
+            "en": "Tour Magne"
+          },
+          "coords": [
+            4.349,
+            43.844
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steile Auffahrt.",
+            "hu": "Meredek emelkedő.",
+            "ro": "Urcare abruptă.",
+            "en": "Steep climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie Nîmes effizient. Vom Zentrum geht es schnell zu den römischen Monumenten und dann durch die schattigen Alleen zu den Gärten. Der Aufstieg zum Tour Magne ist sportlich, belohnt aber mit der besten Aussicht.",
+        "hu": "Biciklivel hatékonyan fedezheted fel Nîmes-t. A központból gyorsan elérhetők a római emlékek, majd az árnyas sugárutakon át a kertekbe tekerünk. A Magne-toronyhoz vezető út sportos, de a kilátás kárpótol.",
+        "ro": "Cu bicicleta explorați Nîmes eficient. Din centru ajungeți rapid la monumentele romane, apoi prin bulevardele umbrite spre grădini. Urcarea la Turnul Magne este sportivă, dar panorama merită efortul.",
+        "en": "Explore Nîmes efficiently by bike. From the center, quickly reach the Roman monuments, then pedal through shaded avenues to the gardens. The climb to Tour Magne is sporty, but the view is worth it."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Snack-Pause auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "Gyors falatok a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Gustare rapidă la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Quick snack at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Diana-Tempel",
+            "tip": "Ruhige Ecke im Park.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diana-templom",
+            "tip": "Csendes zug a parkban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul Dianei",
+            "tip": "Colț liniștit în parc.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Temple of Diana",
+            "tip": "Quiet spot in the park.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs de Nîmes",
+            "tip": "Nahe der Arena."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenirs de Nîmes",
+            "tip": "Az Aréna mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenirs de Nîmes",
+            "tip": "Lângă Arenă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs de Nîmes",
+            "tip": "Next to the Arena."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VéliT'N-Leihräder.",
+          "Achtung in Einbahnstraßen.",
+          "Trinkflasche mitnehmen."
+        ],
+        "hu": [
+          "Használd a VéliT'N bérbicikliket.",
+          "Figyelj az egyirányú utcákra.",
+          "Vigyél vizet."
+        ],
+        "ro": [
+          "Folosiți bicicletele de închiriat VéliT'N.",
+          "Atenție la străzile cu sens unic.",
+          "Luați apă la voi."
+        ],
+        "en": [
+          "Use VéliT'N rental bikes.",
+          "Watch out for one-way streets.",
+          "Bring a water bottle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade (Cluster A)",
+            "hu": "Esplanade (A klaszter)",
+            "ro": "Esplanadă (Cluster A)",
+            "en": "Esplanade (Cluster A)"
+          },
+          "coords": [
+            4.363,
+            43.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus Arena nutzen.",
+            "hu": "Használd az Arena parkolóházat.",
+            "ro": "Folosiți parcarea Arena.",
+            "en": "Use the Arena parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes de Nîmes",
+            "hu": "Nîmes-i Aréna",
+            "ro": "Amfiteatru",
+            "en": "Arena"
+          },
+          "coords": [
+            4.36,
+            43.835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Walkable from parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Romanité",
+            "hu": "Római Múzeum",
+            "ro": "Muzeu",
+            "en": "Museum"
+          },
+          "coords": [
+            4.361,
+            43.834
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Letzter Stopp in Cluster A.",
+            "hu": "Az A klaszter utolsó állomása.",
+            "ro": "Ultima oprire din Cluster A.",
+            "en": "Last stop in Cluster A."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine (Cluster B)",
+            "hu": "Fontaine-kertek (B klaszter)",
+            "ro": "Grădini (Cluster B)",
+            "en": "Gardens (Cluster B)"
+          },
+          "coords": [
+            4.35,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken am Quai de la Fontaine.",
+            "hu": "Parkolás a Quai de la Fontaine-nál.",
+            "ro": "Parcare la Quai de la Fontaine.",
+            "en": "Park at Quai de la Fontaine."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Diane",
+            "hu": "Diana-templom",
+            "ro": "Templul Dianei",
+            "en": "Temple of Diane"
+          },
+          "coords": [
+            4.348,
+            43.84
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang im Park.",
+            "hu": "Séta a parkon át.",
+            "ro": "Plimbare prin parc.",
+            "en": "Walk through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Magne",
+            "hu": "Magne-torony",
+            "ro": "Turnul Magne",
+            "en": "Tour Magne"
+          },
+          "coords": [
+            4.349,
+            43.844
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Garten.",
+            "hu": "Gyalog a kertből.",
+            "ro": "Pe jos din grădină.",
+            "en": "Walk from the garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Zwei Haupt-Cluster minimieren den Parkstress. Zuerst erkunden Sie das römische Erbe rund um die Arena zu Fuß, dann fahren Sie zu den Fontaine-Gärten für einen entspannten Nachmittag im Grünen mit Besuch des Aussichtsturms.",
+        "hu": "Két fő állomással minimalizáljuk a parkolási stresszt. Először gyalogosan fedezzük fel az Aréna környékét, majd átgurulunk a Fontaine-kertekbe egy nyugodt délutánra és a kilátóhoz.",
+        "ro": "Două clustere principale minimizează stresul parcării. Întâi explorați pe jos moștenirea romană de lângă Arenă, apoi conduceți spre Grădinile Fontaine pentru o după-amiază relaxantă și turnul de observație.",
+        "en": "Two main clusters minimize parking stress. First, explore the Roman heritage around the Arena on foot, then drive to the Fontaine Gardens for a relaxed afternoon in the greenery and the lookout tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aux Plaisirs des Halles",
+            "tip": "Gourmet-Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aux Plaisirs des Halles",
+            "tip": "Gourmet konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aux Plaisirs des Halles",
+            "tip": "Bucătărie gourmet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aux Plaisirs des Halles",
+            "tip": "Gourmet cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tour Magne Blick",
+            "tip": "Weite Sicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magne-torony kilátás",
+            "tip": "Tágas panoráma.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Magne",
+            "tip": "Vedere amplă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tour Magne view",
+            "tip": "Wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jean Trogneux",
+            "tip": "Macarons und Schokolade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jean Trogneux",
+            "tip": "Macaron és csokoládé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jean Trogneux",
+            "tip": "Macarons și ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jean Trogneux",
+            "tip": "Macarons and chocolate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Parkhäuser statt Straßensuche.",
+          "Vermeiden Sie die Rushhour.",
+          "Schattenparkplätze suchen."
+        ],
+        "hu": [
+          "Használj parkolóházat az utcai keresgélés helyett.",
+          "Kerüld a csúcsforgalmat.",
+          "Keress árnyékos helyet."
+        ],
+        "ro": [
+          "Folosiți parcările etajate.",
+          "Evitați orele de vârf.",
+          "Căutați locuri la umbră."
+        ],
+        "en": [
+          "Use parking garages instead of street searching.",
+          "Avoid rush hour.",
+          "Look for shaded parking spots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade",
+            "hu": "Esplanade",
+            "ro": "Esplanade",
+            "en": "Esplanade"
+          },
+          "coords": [
+            4.363,
+            43.834
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt vieler Linien.",
+            "hu": "Számos buszjárat csomópontja.",
+            "ro": "Nod principal de transport.",
+            "en": "Hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes",
+            "hu": "Aréna",
+            "ro": "Arenă",
+            "en": "Arena"
+          },
+          "coords": [
+            4.36,
+            43.835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Stopp.",
+            "hu": "Központi megálló.",
+            "ro": "Stație centrală.",
+            "en": "Central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            4.359,
+            43.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gyalog a busztól.",
+            "hu": "Séta a megállótól.",
+            "ro": "Pe jos de la stație.",
+            "en": "Walk from bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Carrée",
+            "hu": "Maison Carrée",
+            "ro": "Maison Carrée",
+            "en": "Maison Carrée"
+          },
+          "coords": [
+            4.356,
+            43.838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nahe der Buslinie T1.",
+            "hu": "A T1-es vonal közelében.",
+            "ro": "Lângă linia T1.",
+            "en": "Near T1 line."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine",
+            "hu": "Fontaine-kertek",
+            "ro": "Grădini",
+            "en": "Gardens"
+          },
+          "coords": [
+            4.35,
+            43.84
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Haltestelle 'Jean Jaurès'.",
+            "hu": "Jean Jaurès megálló.",
+            "ro": "Stația Jean Jaurès.",
+            "en": "Jean Jaurès stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple de Diane",
+            "hu": "Diana-templom",
+            "ro": "Templul Dianei",
+            "en": "Temple of Diane"
+          },
+          "coords": [
+            4.348,
+            43.84
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß im Park.",
+            "hu": "Gyalog a parkban.",
+            "ro": "Pe jos în parc.",
+            "en": "Walk in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Magne",
+            "hu": "Magne-torony",
+            "ro": "Turnul Magne",
+            "en": "Tour Magne"
+          },
+          "coords": [
+            4.349,
+            43.844
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöner Spazierweg.",
+            "hu": "Szép sétaút.",
+            "ro": "Traseu frumos de mers.",
+            "en": "Nice walking path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Tram-Bus-Linien T1 und T2 gelangen Sie bequem zu allen Sehenswürdigkeiten. Beginnen Sie im antiken Zentrum und nutzen Sie den Bus, um zu den Fontaine-Gärten zu fahren, was Ihnen den Marsch durch die Sonne erspart.",
+        "hu": "A T1 és T2 busz-villamos vonalaknak köszönhetően kényelmesen elérsz mindent. Kezdj az ókori központban, majd buszozz el a Fontaine-kertekig, így megspórolod a napsütésben való gyaloglást.",
+        "ro": "Datorită liniilor de tram-bus T1 și T2, ajungeți confortabil la toate atracțiile. Începeți în centrul antic și folosiți autobuzul pentru a merge la Grădinile Fontaine, evitând mersul prin soare.",
+        "en": "Thanks to the T1 and T2 tram-bus lines, you can reach all sights comfortably. Start in the ancient center and take the bus to the Fontaine Gardens to save yourself the walk in the sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Ancien Théâtre",
+            "tip": "In der Nähe der Arena."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Ancien Théâtre",
+            "tip": "Az Aréna közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Ancien Théâtre",
+            "tip": "Lângă Arenă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Ancien Théâtre",
+            "tip": "Near the Arena."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de la Fontaine",
+            "tip": "Parkbank am Kanal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontaine-kertek",
+            "tip": "Pad a csatorna mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Fontaine",
+            "tip": "Bancă lângă canal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins de la Fontaine",
+            "tip": "Bench by the canal.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de l'Aspic",
+            "tip": "Haupteinkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de l'Aspic",
+            "tip": "Fő bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de l'Aspic",
+            "tip": "Principala stradă comercială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de l'Aspic",
+            "tip": "Main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Tango-App herunter.",
+          "Tageskarte lohnt sich ab 3 Fahrten.",
+          "T1 hält direkt an der Maison Carrée."
+        ],
+        "hu": [
+          "Töltsd le a Tango appot.",
+          "A napijegy 3 utazástól megéri.",
+          "A T1 megáll a Maison Carrée-nél."
+        ],
+        "ro": [
+          "Descărcați aplicația Tango.",
+          "Abonamentul de o zi merită de la 3 călătorii.",
+          "T1 oprește fix la Maison Carrée."
+        ],
+        "en": [
+          "Download the Tango app.",
+          "Day pass is worth it after 3 rides.",
+          "T1 stops right at Maison Carrée."
+        ]
+      }
+    }
+  }
+}

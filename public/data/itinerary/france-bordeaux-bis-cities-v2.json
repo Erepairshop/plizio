@@ -1,0 +1,980 @@
+{
+  "city_id": "france-bordeaux-bis-cities-v2",
+  "anchor": {
+    "name": "Bordeaux-Sud",
+    "coords": [
+      -0.57,
+      44.81
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place de la Bourse",
+          "coords": [
+            -0.57,
+            44.841
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Spiegelbild im Miroir d'Eau.",
+            "hu": "Csodálja meg a tükröződést a Miroir d'Eau-ban.",
+            "ro": "Admirați reflexia în Miroir d'Eau.",
+            "en": "Admire the reflection in the Miroir d'Eau."
+          }
+        },
+        {
+          "name": "Grand Théâtre",
+          "coords": [
+            -0.574,
+            44.842
+          ],
+          "category": "cultural",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eines der schönsten Theater des 18. Jahrhunderts.",
+            "hu": "A 18. század egyik legszebb színháza.",
+            "ro": "Unul dintre cele mai frumoase teatre din secolul al XVIII-lea.",
+            "en": "One of the most beautiful 18th-century theaters."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.579,
+            44.848
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause im Grünen.",
+            "hu": "Tökéletes hely egy zöld pihenőhöz.",
+            "ro": "Un loc perfect pentru o pauză în aer liber.",
+            "en": "A perfect spot for a green break."
+          }
+        },
+        {
+          "name": "Cité du Vin",
+          "coords": [
+            -0.55,
+            44.862
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom Belvedere im 8. Stock.",
+            "hu": "Élvezze a kilátást a 8. emeleti Belvedere-ből.",
+            "ro": "Bucurați-vă de vedere de la Belvedere de la etajul 8.",
+            "en": "Enjoy the view from the 8th floor Belvedere."
+          }
+        },
+        {
+          "name": "Pont de Pierre",
+          "coords": [
+            -0.565,
+            44.838
+          ],
+          "category": "bridge",
+          "arrive_at": "15:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Die erste Brücke über die Garonne in Bordeaux.",
+            "hu": "Az első híd a Garonne felett Bordeaux-ban.",
+            "ro": "Primul pod peste Garonne din Bordeaux.",
+            "en": "The first bridge over the Garonne in Bordeaux."
+          }
+        },
+        {
+          "name": "Grosse Cloche",
+          "coords": [
+            -0.571,
+            44.835
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das alte Stadttor mit der monumentalen Glocke.",
+            "hu": "A régi városkapu a monumentális haranggal.",
+            "ro": "Vechea poartă a orașului cu clopotul monumental.",
+            "en": "The old city gate with the monumental bell."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-André",
+          "coords": [
+            -0.577,
+            44.837
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Pey-Berland-Turm für das Panorama.",
+            "hu": "Másszon fel a Pey-Berland toronyba a panorámáért.",
+            "ro": "Urcați în turnul Pey-Berland pentru panoramă.",
+            "en": "Climb the Pey-Berland tower for the panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bordeaux zu Fuß zu erkunden bedeutet, in die Eleganz des 18. Jahrhunderts einzutauchen. Beginnen Sie am glitzernden Miroir d'Eau am Place de la Bourse und spazieren Sie durch das 'Goldene Dreieck'. Nach einem Besuch in der futuristischen Cité du Vin führt der Weg zurück am Flussufer entlang zum historischen Zentrum, wo die Kathedrale und die Grosse Cloche die reiche mittelalterliche Vergangenheit der Stadt offenbaren.",
+        "hu": "Bordeaux felfedezése gyalogosan a 18. századi elegancia megismerését jelenti. Kezdje a Tőzsde tér csillogó vízitükrénél, majd sétáljon át az 'Aranyháromszögön'. A futurisztikus Bor Városa után az út a folyópart mentén vezet vissza a történelmi központba, ahol a székesegyház és a Nagy Harang tanúskodik a város gazdag középkori múltjáról.",
+        "ro": "Explorarea Bordeaux-ului pe jos înseamnă scufundarea în eleganța secolului al XVIII-lea. Începeți la sclipitoarea oglindă de apă de la Place de la Bourse și mergeți prin „Triunghiul de Aur”. După o vizită la futurista Cité du Vin, drumul vă duce înapoi pe malul râului spre centrul istoric, unde catedrala și Grosse Cloche dezvăluie trecutul medieval bogat al orașului.",
+        "en": "Exploring Bordeaux on foot means immersing yourself in 18th-century elegance. Start at the glistening Water Mirror at Place de la Bourse and walk through the 'Golden Triangle'. After visiting the futuristic Cité du Vin, the path leads back along the riverbanks to the historical center, where the Cathedral and the Grosse Cloche reveal the city's rich medieval past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Chapon Fin",
+            "tip": "Ein historisches Restaurant mit spektakulärer Architektur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Híres a titkos szószáról és a marhasültjéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "A tökéletes hely friss osztrigához és fehérborhoz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canelés Baillardran",
+            "tip": "Try the iconic caramelized rum and vanilla pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Public",
+            "tip": "Eine Oase der Ruhe im Stadtzentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai des Queyries",
+            "tip": "Naplemente a folyó túloldalán.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc aux Angéliques",
+            "tip": "Liniște de-a lungul Garonne-ului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilique Saint-Seurin",
+            "tip": "Quiet contemplation in the ancient crypts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Sainte-Catherine",
+            "tip": "Europas längste Einkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Village Notre-Dame",
+            "tip": "Antikváriumok és művészeti galériák a Chartrons negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cours de l'Intendance",
+            "tip": "Luxusmárkák elegáns környezetben."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Royal",
+            "tip": "Great for local food and secondhand finds."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, Bordeaux ist sehr weitläufig.",
+          "Nutzen Sie die App 'TBM' für den öffentlichen Nahverkehr."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a városnézés hosszú sétákkal jár.",
+          "A villamos jegyek a megállók automatáiból vehetők meg."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, Bordeaux este un oraș al plimbărilor lungi.",
+          "Nu uitați să validați biletul la fiecare urcare în tramvai."
+        ],
+        "en": [
+          "Wear comfortable shoes, the quays offer long but beautiful walks.",
+          "The 'City Pass' includes the Cité du Vin and public transport."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place de la Bourse",
+          "coords": [
+            -0.57,
+            44.841
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Rand des Miroir d'Eau.",
+            "hu": "Parkoljon a biciklivel a Miroir d'Eau szélénél.",
+            "ro": "Parcați bicicleta la marginea Miroir d'Eau.",
+            "en": "Park your bike at the edge of the Miroir d'Eau."
+          }
+        },
+        {
+          "name": "Grand Théâtre",
+          "coords": [
+            -0.574,
+            44.842
+          ],
+          "category": "cultural",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp am Place de la Comédie.",
+            "hu": "Rövid megálló a Place de la Comédie-n.",
+            "ro": "O scurtă oprire în Place de la Comédie.",
+            "en": "A quick stop at Place de la Comédie."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.579,
+            44.848
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radfahren ist auf den Hauptwegen des Parks erlaubt.",
+            "hu": "A kerékpározás megengedett a park főútjain.",
+            "ro": "Biciclismul este permis pe aleile principale ale parcului.",
+            "en": "Cycling is allowed on the main paths of the park."
+          }
+        },
+        {
+          "name": "Cité du Vin",
+          "coords": [
+            -0.55,
+            44.862
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den breiten Radweg entlang der Kais.",
+            "hu": "Használja a széles kerékpárutat a rakpart mentén.",
+            "ro": "Folosiți pista largă de biciclete de-a lungul cheiurilor.",
+            "en": "Use the wide bike path along the quays."
+          }
+        },
+        {
+          "name": "Pont de Pierre",
+          "coords": [
+            -0.565,
+            44.838
+          ],
+          "category": "bridge",
+          "arrive_at": "14:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Brückenquerung mit Blick auf die Stadt.",
+            "hu": "Élvezze az átkelést a hídon, kilátással a városra.",
+            "ro": "Bucurați-vă de traversarea podului cu vedere la oraș.",
+            "en": "Enjoy crossing the bridge with views of the city."
+          }
+        },
+        {
+          "name": "Grosse Cloche",
+          "coords": [
+            -0.571,
+            44.835
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher an den dafür vorgesehenen Stellen.",
+            "hu": "Zárja le biztonságosan a biciklit a kijelölt helyeken.",
+            "ro": "Încuiați bicicleta în siguranță în locurile desemnate.",
+            "en": "Lock your bike securely in the designated spots."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-André",
+          "coords": [
+            -0.577,
+            44.837
+          ],
+          "category": "cathedral",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kathedrale vor der Rückgabe des Rades.",
+            "hu": "Látogassa meg a székesegyházat a bringa leadása előtt.",
+            "ro": "Vizitați catedrala înainte de a returna bicicleta.",
+            "en": "Visit the cathedral before returning your bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bordeaux ist eine der fahrradfreundlichsten Städte Frankreichs. Auf zwei Rädern erreichen Sie mühelos die modernen Kais und die futuristische Cité du Vin im Norden, während Sie das historische Zentrum flexibel erkunden können. Die flache Topographie macht die Fahrt über den Pont de Pierre zu einem entspannten Erlebnis mit Panoramablick.",
+        "hu": "Bordeaux Franciaország egyik leginkább kerékpárosbarát városa. Két keréken könnyedén elérheti a modern rakpartokat és a futurisztikus Bor Városát északon, miközben rugalmasan fedezheti fel a történelmi központot. A sík terepnek köszönhetően a Kőhídon való átkelés pihentető élmény, panorámás kilátással.",
+        "ro": "Bordeaux este unul dintre cele mai prietenoase orașe pentru bicicliști din Franța. Pe două roți, puteți ajunge fără efort la cheiurile moderne și la futurista Cité du Vin din nord, explorând în același timp flexibil centrul istoric. Topografia plană face ca traversarea Pont de Pierre să fie o experiență relaxantă, cu vederi panoramice.",
+        "en": "Bordeaux is one of France's most bike-friendly cities. On two wheels, you can effortlessly reach the modern quays and the futuristic Cité du Vin in the north, while flexibly exploring the historic center. The flat topography makes crossing the Pont de Pierre a relaxed experience with panoramic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Darwin Ecosystem",
+            "tip": "Ein Bio-Bistro in einem ehemaligen Kasernengelände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magasin Général",
+            "tip": "Friss és környezettudatos ételek a folyó túloldalán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café Piha",
+            "tip": "Locul perfect pentru o cafea artizanală între două plimbări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Alriq",
+            "tip": "A riverside 'guinguette' for snacks and music."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc aux Angéliques",
+            "tip": "Ruhiger Radweg am rechten Garonneufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Botanique",
+            "tip": "Botanikus kert a modern Bastide negyedben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quai de Bacalan",
+            "tip": "O zonă liniștită lângă vechile docuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Floral",
+            "tip": "A bit further out, but worth the ride.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Quais",
+            "tip": "Sonntagsmarkt am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue des Remparts",
+            "tip": "Kézműves boltok és butikok a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade Sainte-Catherine",
+            "tip": "Modern shopping center cu locuri de parcare pentru biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Intendant",
+            "tip": "Spectacular spiral wine shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'V3' Leihräder der Stadt.",
+          "Fahren Sie vorsichtig auf den Straßenbahnschienen."
+        ],
+        "hu": [
+          "Használja a városi 'V3' közbringa-rendszert.",
+          "Vigyázzon a villamossíneken való átkeléskor."
+        ],
+        "ro": [
+          "Utilizați sistemul de bike-sharing 'V3' al orașului.",
+          "Aveți grijă când traversați șinele de tramvai."
+        ],
+        "en": [
+          "Rent a 'V3' city bike at any station.",
+          "Be careful with bike tires near tram tracks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Cité du Vin",
+          "coords": [
+            -0.55,
+            44.862
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Interparking Cité du Vin'.",
+            "hu": "Parkoljon az 'Interparking Cité du Vin' garázsban.",
+            "ro": "Parcați la 'Interparking Cité du Vin'.",
+            "en": "Park at the 'Interparking Cité du Vin'."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.579,
+            44.848
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Parken Sie am 'Parking Auditorum' (Cluster B).",
+            "hu": "Parkoljon a 'Parking Auditorum'-nál (B klaszter).",
+            "ro": "Parcați la 'Parking Auditorum' (Cluster B).",
+            "en": "Park at 'Parking Auditorium' (Cluster B)."
+          }
+        },
+        {
+          "name": "Grand Théâtre",
+          "coords": [
+            -0.574,
+            44.842
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Parkplatz Auditorum zu Fuß erreichbar.",
+            "hu": "Sétatávolságra az Auditorum parkolótól.",
+            "ro": "Accesibil pe jos de la parcarea Auditorum.",
+            "en": "Walkable from the Auditorium parking."
+          }
+        },
+        {
+          "name": "Place de la Bourse",
+          "coords": [
+            -0.57,
+            44.841
+          ],
+          "category": "square",
+          "arrive_at": "13:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Kais.",
+            "hu": "Rövid séta a rakpart mentén.",
+            "ro": "O scurtă plimbare de-a lungul cheiurilor.",
+            "en": "A short walk along the quays."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-André",
+          "coords": [
+            -0.577,
+            44.837
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie am 'Parking Pey-Berland' (Cluster C).",
+            "hu": "Parkoljon a 'Parking Pey-Berland'-nál (C klaszter).",
+            "ro": "Parcați la 'Parking Pey-Berland' (Cluster C).",
+            "en": "Park at 'Parking Pey-Berland' (Cluster C)."
+          }
+        },
+        {
+          "name": "Musée d'Aquitaine",
+          "coords": [
+            -0.575,
+            44.835
+          ],
+          "category": "museum",
+          "arrive_at": "15:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Pey-Berland Parkplatz.",
+            "hu": "Gyalog a Pey-Berland parkolótól.",
+            "ro": "Pe jos de la parcarea Pey-Berland.",
+            "en": "On foot from the Pey-Berland parking."
+          }
+        },
+        {
+          "name": "Grosse Cloche",
+          "coords": [
+            -0.571,
+            44.835
+          ],
+          "category": "historical",
+          "arrive_at": "16:57",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss im Herzen der Altstadt.",
+            "hu": "Szép zárás az óváros szívében.",
+            "ro": "O încheiere frumoasă în inima orașului vechi.",
+            "en": "A beautiful finish in the heart of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt Cluster-Parken, um den Verkehr in der Innenstadt zu vermeiden. Sie besuchen zuerst die Cité du Vin im Norden, wechseln dann zum zentralen Cluster (Jardin Public/Bourse) und beenden den Tag im historischen Viertel Pey-Berland. So erleben Sie Bordeaux entspannt und sehen dennoch alle wichtigen Sehenswürdigkeiten.",
+        "hu": "Ez az autós túra klaszter-parkolást használ, hogy elkerülje a belvárosi forgalmat. Először a Bor Városát látogatja meg északon, majd átvált a központi klaszterre (Jardin Public/Bourse), végül a történelmi Pey-Berland negyedben zárja a napot. Így kényelmesen látja Bordeaux minden fontos nevezetességét.",
+        "ro": "Acest tur auto folosește parcarea pe clustere pentru a evita traficul din centrul orașului. Vizitați mai întâi Cité du Vin în nord, apoi treceți la clusterul central (Jardin Public/Bourse) și încheiați ziua în cartierul istoric Pey-Berland. Astfel vedeți toate atracțiile importante din Bordeaux într-un mod relaxat.",
+        "en": "This car tour uses cluster parking to avoid city center traffic. You first visit the Cité du Vin in the north, then switch to the central cluster (Jardin Public/Bourse), and end the day in the historic Pey-Berland district. This way you see all major Bordeaux sights in a relaxed manner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Tupina",
+            "tip": "Berühmt für seine traditionelle südwestfranzösische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Petit Commerce",
+            "tip": "Friss tengeri ételek a Szent Péter negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie Bordelaise",
+            "tip": "Ideal pentru degustarea vinurilor locale și a mezelurilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baud et Millet",
+            "tip": "A heaven for cheese and wine lovers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Bordelais",
+            "tip": "Ein großer Park etwas außerhalb des Zentrums.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai des Salinières",
+            "tip": "Csendes folyóparti séta naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "O mică grădină liniștită lângă primărie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chartrons Riverfront",
+            "tip": "Peaceful atmosphere in the old wine merchant district.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quai des Marques",
+            "tip": "Outlet-Shopping direkt am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "A város 'gyomra', helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Luxus și modă într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Echoppe de la Lune",
+            "tip": "Bordeaux specialties and gourmet gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser ('Parkings P+R') am Stadtrand.",
+          "Achten Sie auf die verkehrsberuhigten Zonen im Zentrum."
+        ],
+        "hu": [
+          "Használja a városszéli P+R parkolókat.",
+          "Ügyeljen a belvárosi korlátozott forgalmú zónákra."
+        ],
+        "ro": [
+          "Utilizați parcările 'P+R' de la periferie.",
+          "Atenție la zonele cu trafic restricționat din centru."
+        ],
+        "en": [
+          "Use underground parkings to avoid street traffic.",
+          "Download the 'EasyPark' app for easier payments."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Cité du Vin",
+          "coords": [
+            -0.55,
+            44.862
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Straßenbahnlinie B, Haltestelle 'Cité du Vin'.",
+            "hu": "B villamos vonal, 'Cité du Vin' megálló.",
+            "ro": "Tramvaiul linia B, stația 'Cité du Vin'.",
+            "en": "Tram line B, station 'Cité du Vin'."
+          }
+        },
+        {
+          "name": "Place de la Bourse",
+          "coords": [
+            -0.57,
+            44.841
+          ],
+          "category": "square",
+          "arrive_at": "11:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Straßenbahn C oder D, Haltestelle 'Place de la Bourse'.",
+            "hu": "C vagy D villamos, 'Place de la Bourse' megálló.",
+            "ro": "Tramvaiul C sau D, stația 'Place de la Bourse'.",
+            "en": "Tram C or D, station 'Place de la Bourse'."
+          }
+        },
+        {
+          "name": "Grand Théâtre",
+          "coords": [
+            -0.574,
+            44.842
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Fußweg von Quinconces entfernt.",
+            "hu": "Csak egy rövid séta a Quinconces-tól.",
+            "ro": "La doar o scurtă plimbare de Quinconces.",
+            "en": "Just a short walk from Quinconces."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.579,
+            44.848
+          ],
+          "category": "park",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar durch das Goldene Dreieck.",
+            "hu": "Gyalogosan elérhető az Aranyháromszögön át.",
+            "ro": "Accesibil pe jos prin Triunghiul de Aur.",
+            "en": "Walkable through the Golden Triangle."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-André",
+          "coords": [
+            -0.577,
+            44.837
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Straßenbahn B oder A, Haltestelle 'Hôtel de Ville'.",
+            "hu": "B vagy A villamos, 'Hôtel de Ville' megálló.",
+            "ro": "Tramvaiul B sau A, stația 'Hôtel de Ville'.",
+            "en": "Tram B or A, station 'Hôtel de Ville'."
+          }
+        },
+        {
+          "name": "Musée d'Aquitaine",
+          "coords": [
+            -0.575,
+            44.835
+          ],
+          "category": "museum",
+          "arrive_at": "15:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Straßenbahn B, Haltestelle 'Musée d'Aquitaine'.",
+            "hu": "B villamos, 'Musée d'Aquitaine' megálló.",
+            "ro": "Tramvaiul B, stația 'Musée d'Aquitaine'.",
+            "en": "Tram line B, station 'Musée d'Aquitaine'."
+          }
+        },
+        {
+          "name": "Pont de Pierre",
+          "coords": [
+            -0.565,
+            44.838
+          ],
+          "category": "bridge",
+          "arrive_at": "17:06",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Straßenbahn A, Haltestelle 'Stalingrad' am anderen Ende.",
+            "hu": "A villamos, 'Stalingrad' megálló a híd túloldalán.",
+            "ro": "Tramvaiul A, stația 'Stalingrad' la celălalt capăt.",
+            "en": "Tram line A, station 'Stalingrad' at the other end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das moderne Straßenbahnnetz von Bordeaux macht die Erkundung einfach und umweltfreundlich. Die Linien B, A und C verbinden die wichtigsten Viertel: von der modernen Weinwelt im Norden über das prachtvolle Zentrum bis hin zum historischen Rathausviertel. Ein Tagesticket ermöglicht Ihnen maximale Flexibilität.",
+        "hu": "Bordeaux modern villamoshálózata egyszerűvé és környezetbaráttá teszi a városnézést. A B, A és C vonalak összekötik a legfontosabb negyedeket: az északi modern borvilágtól a pompás központon át a történelmi városháza negyedig. Egy napijegy maximális rugalmasságot biztosít.",
+        "ro": "Rețeaua modernă de tramvaie din Bordeaux face explorarea ușoară și ecologică. Liniile B, A și C conectează cele mai importante cartiere: de la lumea modernă a vinului din nord, prin centrul fastuos, până la cartierul istoric al primăriei. Un bilet de o zi vă oferă flexibilitate maximă.",
+        "en": "Bordeaux's modern tram network makes exploration easy and eco-friendly. Lines B, A, and C connect the key districts: from the modern wine world in the north through the grand center to the historic town hall district. A day ticket provides maximum flexibility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Belle Campagne",
+            "tip": "Lokale Produkte in entspannter Atmosphäre in Saint-Pierre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karl",
+            "tip": "Kiváló reggeli és brunch a Place du Parlement közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miles",
+            "tip": "Creativitate culinară în inima orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Books & Coffee",
+            "tip": "Great for a break near the Grosse Cloche."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Béchade",
+            "tip": "Ein kleiner Nachbarschaftspark.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square Vinet",
+            "tip": "Vertikális kert a belváros szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quai de la Monnaie",
+            "tip": "Liniște lângă Garonne, departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Michel Gardens",
+            "tip": "Green space near the famous spire.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Saint-James",
+            "tip": "Trendige Läden und Vintage-Shops."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "Könnyen elérhető a B villamossal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cours Victor Hugo",
+            "tip": "Mix de magazine locale și branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison du Vin",
+            "tip": "Directly opposite the Grand Théâtre."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket ('Pass 24h').",
+          "Validieren Sie Ihr Ticket immer beim Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet.",
+          "Mindig érvényesítse jegyét a felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un abonament de 24 de ore.",
+          "Validați întotdeauna biletul la urcare."
+        ],
+        "en": [
+          "Buy a 'Pass 24h' for unlimited travel.",
+          "The 'TBM' app shows live tram times."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1102 @@
+{
+  "city_id": "france-chambery-south-cities-v2",
+  "anchor": {
+    "name": "Chambéry-Sud",
+    "coords": [
+      45.54,
+      5.92
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rue de Boigne",
+            "hu": "Rue de Boigne",
+            "ro": "Rue de Boigne",
+            "en": "Rue de Boigne"
+          },
+          "coords": [
+            45.5662,
+            5.9215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Turiner Architektur unter den Arkaden.",
+            "hu": "Csodálja meg a torinói stílusú árkádokat és butikokat.",
+            "ro": "Admirați arhitectura torineză sub arcadele elegante.",
+            "en": "Admire the Turin-style architecture under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Elefantenbrunnen",
+            "hu": "Elefántos kút",
+            "ro": "Fântâna Elefanților",
+            "en": "Elephant Fountain"
+          },
+          "coords": [
+            45.5665,
+            5.9223
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt, lokal 'Les Quatre Sans Cul' genannt.",
+            "hu": "A város jelképe, a helyiek 'Négy feneketlennek' hívják.",
+            "ro": "Simbolul orașului, poreclit 'Cei patru fără fund'.",
+            "en": "The city symbol, locally called 'The Four Without Butts'."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-François-de-Sales",
+            "hu": "Saint-François-de-Sales katedrális",
+            "ro": "Catedrala Saint-François-de-Sales",
+            "en": "Saint-François-de-Sales Cathedral"
+          },
+          "coords": [
+            45.5658,
+            5.9225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_at": "11:40",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die größte Trompe-l'œil-Malerei Europas.",
+            "hu": "Nézze meg Európa legnagyobb trompe-l’œil festményét.",
+            "ro": "Admirați cea mai mare pictură trompe-l’œil din Europa.",
+            "en": "Admire the largest trompe-l’œil painting in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Musée des Beaux-Arts"
+          },
+          "coords": [
+            45.5655,
+            5.9218
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hervorragende Sammlung italienischer Renaissance-Werke.",
+            "hu": "Kiváló olasz reneszánsz gyűjtemény várja itt.",
+            "ro": "O colecție remarcabilă de lucrări renascentiste italiene.",
+            "en": "Outstanding collection of Italian Renaissance works."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge von Savoyen",
+            "hu": "Savoyai hercegek vára",
+            "ro": "Castelul Ducilor de Savoia",
+            "en": "Château des Ducs de Savoie"
+          },
+          "coords": [
+            45.5645,
+            5.9185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Sainte-Chapelle, in der einst das Grabtuch lag.",
+            "hu": "Látogasson el a kápolnába, ahol egykor a Leplet őrizték.",
+            "ro": "Vizitați capela unde a fost păstrat odinioară Giulgiul.",
+            "en": "Visit the Sainte-Chapelle, once home to the Shroud."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré Curial",
+            "hu": "Carré Curial",
+            "ro": "Carré Curial",
+            "en": "Carré Curial"
+          },
+          "coords": [
+            45.563,
+            5.924
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ehemalige Kaserne, heute das kulturelle Herz mit Bars.",
+            "hu": "Egykori laktanya, ma kulturális központ bárokkal.",
+            "ro": "Fostă cazarmă, astăzi inima culturală cu baruri.",
+            "en": "Former barracks, now the cultural heart with bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Halles de Chambéry",
+            "hu": "Chambéry vásárcsarnok",
+            "ro": "Halele din Chambéry",
+            "en": "Les Halles de Chambéry"
+          },
+          "coords": [
+            45.568,
+            5.9205
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um Savoyer Käse für den Abend zu kaufen.",
+            "hu": "Tökéletes hely savoyai sajtok beszerzéséhez.",
+            "ro": "Locul ideal pentru a cumpăra brânzeturi savoiarde.",
+            "en": "Perfect place to buy Savoyard cheeses for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag unter den prächtigen Arkaden der Rue de Boigne, die direkt zum berühmten Elefantenbrunnen führen. Nach der spirituellen Stille der Kathedrale tauchen Sie im Musée des Beaux-Arts in die Kunstgeschichte ein. Der Nachmittag gehört dem monumentalen Schloss der Herzöge von Savoyen. Zum Abschluss genießen Sie die lebendige Atmosphäre im Carré Curial oder stöbern in den regionalen Köstlichkeiten der Markthallen.",
+        "hu": "Kezdje a napot a Rue de Boigne elegáns árkádjai alatt, amely egyenesen a híres Elefántos kúthoz vezet. A katedrális spirituális csendje után merüljön el a Szépművészeti Múzeum kincseiben. A délutánt a Savoyai hercegek monumentális várkastélyának felfedezésére szánjuk. A napot a Carré Curial vibráló kulturális negyedében vagy a vásárcsarnok helyi finomságai között zárjuk.",
+        "ro": "Începeți ziua sub arcadele elegante ale străzii Rue de Boigne, care duc direct la celebra Fântână a Elefanților. După liniștea spirituală a catedralei, explorați tezaurul Muzeului de Arte Frumoase. După-amiaza este dedicată monumentalului Castel al Ducilor de Savoia. Încheiați ziua în atmosfera vibrantă din Carré Curial sau printre delicatesele locale din halele pieței.",
+        "en": "Start your day under the elegant arcades of Rue de Boigne, leading straight to the famous Elephant Fountain. After the spiritual silence of the cathedral, dive into the treasures of the Fine Arts Museum. The afternoon is dedicated to the monumental Castle of the Dukes of Savoy. End your day in the vibrant cultural atmosphere of Carré Curial or among local delicacies in the market halls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Probieren Sie die klassische Käsemischung im 'Le Savoyard'."
+          },
+          {
+            "name": "Crozets de Savoie",
+            "tip": "Kleine quadratische Nudeln, oft als Gratin serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Kóstolja meg a klasszikus sajtfonduet a 'Le Savoyard' étteremben."
+          },
+          {
+            "name": "Crozets",
+            "tip": "Helyi négyzet alakú tészta, gyakran gratin formában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Încercați amestecul clasic de brânzeturi la 'Le Savoyard'."
+          },
+          {
+            "name": "Gâteau de Savoie",
+            "tip": "Un pandișpan ușor și aerat, tradițional din 1358."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Try the classic cheese mix at 'Le Savoyard' restaurant."
+          },
+          {
+            "name": "Tome des Bauges",
+            "tip": "A local mountain cheese with a unique gray rind."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Buisson-Rond",
+            "tip": "Ruhiger Landschaftspark am Stadtrand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kathedrale",
+            "tip": "Stille Einkehr inmitten der Trompe-l'œil-Pracht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Buisson-Rond",
+            "tip": "Csendes tájképi park a város szélén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Katedrális belső",
+            "tip": "Lelki nyugalom a lenyűgöző festmények között.",
+            "emoji": "🙏"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Buisson-Rond",
+            "tip": "Parc peisagistic liniștit la marginea orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Curtea Castelului",
+            "tip": "Un loc liniștit pentru a admira arhitectura medievală.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Buisson-Rond",
+            "tip": "Quiet landscape park on the city outskirts.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rose Garden",
+            "tip": "A peaceful spot near the Buisson-Rond castle.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de Boigne",
+            "tip": "Elegante Boutiquen unter den Arkaden."
+          },
+          {
+            "name": "Les Halles",
+            "tip": "Frische regionale Produkte und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de Boigne",
+            "tip": "Elegáns üzletek az árkádok hűvösében."
+          },
+          {
+            "name": "Opinel Boutique",
+            "tip": "A híres savoyai bicskák otthona."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Les Halles",
+            "tip": "Locul ideal pentru specialități locale."
+          },
+          {
+            "name": "Buticurile din Centrul Vechi",
+            "tip": "Produse artizanale și suveniruri savoiarde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de Boigne",
+            "tip": "Elegant boutiques under the historic arcades."
+          },
+          {
+            "name": "Market Hall",
+            "tip": "Best spot for regional wine and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist eine reine Fußgängerzone.",
+          "Die Kathedrale ist über Mittag oft geschlossen.",
+          "Kaufen Sie ein Opinel-Messer, das hier in Savoyen erfunden wurde.",
+          "Trinken Sie einen lokalen Wermut (Vermouth de Chambéry) zum Aperitif."
+        ],
+        "hu": [
+          "Az óváros nagy része sétálóövezet.",
+          "A katedrális délidőben gyakran zárva tart.",
+          "Vásároljon eredeti Opinel kést, amit itt találtak fel.",
+          "Kóstolja meg a híres Chambéry-i vermutot vacsora előtt."
+        ],
+        "ro": [
+          "Centrul vechi este în mare parte pietonal.",
+          "Catedrala este adesea închisă la prânz.",
+          "Căutați cuțitele Opinel, un simbol local al Savoiei.",
+          "Încercați vermutul local ca aperitiv înainte de cină."
+        ],
+        "en": [
+          "The old town is mostly pedestrian-friendly.",
+          "The cathedral is often closed during lunch hours.",
+          "Buy an original Opinel knife, invented here in Savoy.",
+          "Sample the local Chambéry vermouth for an authentic aperitif."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Elefantenbrunnen",
+            "hu": "Elefántos kút",
+            "ro": "Fântâna Elefanților",
+            "en": "Elephant Fountain"
+          },
+          "coords": [
+            45.5665,
+            5.9223
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rue de Boigne",
+            "hu": "Rue de Boigne",
+            "ro": "Rue de Boigne",
+            "en": "Rue de Boigne"
+          },
+          "coords": [
+            45.5662,
+            5.9215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge",
+            "hu": "Hercegi vár",
+            "ro": "Castelul Ducilor",
+            "en": "Château des Ducs"
+          },
+          "coords": [
+            45.5645,
+            5.9185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8
+        },
+        {
+          "name": {
+            "de": "Parc de Buisson-Rond",
+            "hu": "Parc de Buisson-Rond",
+            "ro": "Parcul Buisson-Rond",
+            "en": "Parc de Buisson-Rond"
+          },
+          "coords": [
+            45.558,
+            5.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Carré Curial",
+            "hu": "Carré Curial",
+            "ro": "Carré Curial",
+            "en": "Carré Curial"
+          },
+          "coords": [
+            45.563,
+            5.924
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Musée des Beaux-Arts"
+          },
+          "coords": [
+            45.5655,
+            5.9218
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Katedrális",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            45.5658,
+            5.9225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Les Halles",
+            "hu": "Vásárcsarnok",
+            "ro": "Halele",
+            "en": "Les Halles"
+          },
+          "coords": [
+            45.568,
+            5.9205
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet das historische Zentrum mit dem grünen Südosten der Stadt. Nach dem Schloss führt ein schöner Radweg zum Parc de Buisson-Rond. Am Nachmittag radeln wir zurück ins kulturelle Viertel Curial und beschließen den Tag bei den Markthallen.",
+        "hu": "Ez a kerékpáros túra összeköti a történelmi központot a város zöld délkeleti részével. A vár után egy kellemes kerékpárút vezet a Buisson-Rond parkhoz. Délután visszatekerünk a Curial negyedbe, és a napot a vásárcsarnoknál zárjuk.",
+        "ro": "Acest tur cu bicicleta îmbină centrul istoric cu sud-estul verde al orașului. După castel, o pistă de biciclete plăcută duce la Parcul Buisson-Rond. După-amiaza pedalăm înapoi în cartierul Curial și încheiem ziua la hale.",
+        "en": "This bike tour connects the historic center with the green southeast of the city. After the castle, a pleasant bike path leads to Parc de Buisson-Rond. In the afternoon, we cycle back to the Curial district and finish the day at the market halls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bike-Picknick",
+            "tip": "Holen Sie sich Brot und Käse in den Hallen für den Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bringás piknik",
+            "tip": "Vegyünk friss pékárut és sajtot a vásárcsarnokban a parkba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pique-nique",
+            "tip": "Luați brânză și baghete din hale pentru o pauză în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Picnic",
+            "tip": "Grab some cheese and bread at Les Halles for the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buisson-Rond Rosenbach",
+            "tip": "Ein idyllischer Bachlauf im Park.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buisson-Rond patakpart",
+            "tip": "Idilli kis patak a park mélyén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Un loc romantic lângă castelul Buisson-Rond.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park stream",
+            "tip": "A peaceful water feature in the large park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélostation",
+            "tip": "Fahrradverleih direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélostation",
+            "tip": "Biciklikölcsönző közvetlenül a vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélostation",
+            "tip": "Închiriere de biciclete lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélostation",
+            "tip": "Bike rental station located right at the train station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Fahrt zum Park.",
+          "Achten Sie auf die Einbahnstraßen in der Altstadt."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a park felé tartó emelkedőkhöz.",
+          "Figyeljen az egyirányú utcákra az óvárosban."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru drumul spre parc.",
+          "Atenție la sensurile unice din zona istorică."
+        ],
+        "en": [
+          "Rent an e-bike for the slight uphill sections to the park.",
+          "Be careful with one-way streets in the historical center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Q-Park Curial",
+            "hu": "Q-Park Curial parkoló",
+            "ro": "Parcare Q-Park Curial",
+            "en": "Q-Park Curial Parking"
+          },
+          "coords": [
+            45.5635,
+            5.9245
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rue de Boigne (Cluster A)",
+            "hu": "Rue de Boigne",
+            "ro": "Rue de Boigne",
+            "en": "Rue de Boigne"
+          },
+          "coords": [
+            45.5662,
+            5.9215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Elefantenbrunnen (Cluster A)",
+            "hu": "Elefántos kút",
+            "ro": "Fântâna Elefanților",
+            "en": "Elephant Fountain"
+          },
+          "coords": [
+            45.5665,
+            5.9223
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kathedrale (Cluster A)",
+            "hu": "Katedrális",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            45.5658,
+            5.9225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge (Cluster A)",
+            "hu": "Hercegi vár",
+            "ro": "Castelul Ducilor",
+            "en": "Château des Ducs"
+          },
+          "coords": [
+            45.5645,
+            5.9185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Parc de Buisson-Rond (Cluster B)",
+            "hu": "Parc de Buisson-Rond",
+            "ro": "Parcul Buisson-Rond",
+            "en": "Parc de Buisson-Rond"
+          },
+          "coords": [
+            45.558,
+            5.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5
+        },
+        {
+          "name": {
+            "de": "Carré Curial (Cluster C)",
+            "hu": "Carré Curial",
+            "ro": "Carré Curial",
+            "en": "Carré Curial"
+          },
+          "coords": [
+            45.563,
+            5.924
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8
+        },
+        {
+          "name": {
+            "de": "Les Halles (Cluster C)",
+            "hu": "Vásárcsarnok",
+            "ro": "Halele",
+            "en": "Les Halles"
+          },
+          "coords": [
+            45.568,
+            5.9205
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto parken wir zentral am Carré Curial und erkunden die Altstadt zu Fuß. Danach fahren wir in den Süden zum weitläufigen Buisson-Rond Park, der ideal für eine Pause ist. Den Abschluss bildet der Besuch der Markthallen, bevor wir den Tag im Kulturviertel ausklingen lassen.",
+        "hu": "Autóval a központi Carré Curial parkolóban állunk meg, és gyalog fedezzük fel az óvárost. Ezután délre hajtunk a tágas Buisson-Rond parkhoz, amely tökéletes egy kis pihenőre. A napot a vásárcsarnoknál zárjuk, mielőtt visszatérnénk a kulturális negyedbe.",
+        "ro": "Cu mașina parcăm central la Carré Curial și explorăm centrul vechi pe jos. Apoi conducem spre sud către vastul Parc Buisson-Rond, ideal pentru o pauză. Încheiem vizita la halele pieței înainte de a reveni în cartierul cultural.",
+        "en": "By car, we park centrally at Carré Curial and explore the old town on foot. Then we drive south to the spacious Buisson-Rond Park, ideal for a break. We finish with a visit to the market halls before winding down in the cultural district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Atelier du Goût",
+            "tip": "Moderne Savoyer Küche direkt im Carré Curial."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Atelier du Goût",
+            "tip": "Modern savoyai konyha a Carré Curial negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Atelier du Goût",
+            "tip": "Bucătărie savoiardă modernă chiar în Carré Curial."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Atelier du Goût",
+            "tip": "Modern Savoyard cuisine right in the Carré Curial area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosshof",
+            "tip": "Ein ruhiger Rückzugsort im historischen Zentrum.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várudvar",
+            "tip": "Csendes menedék a történelmi központban.",
+            "emoji": "🛡️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Castelului",
+            "tip": "Un refugiu liniștit în centrul istoric.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Courtyard",
+            "tip": "A quiet retreat in the heart of the historic center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parkhaus Curial",
+            "tip": "Günstiges und sicheres Parken im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Curial parkolóház",
+            "tip": "Olcsó és biztonságos parkolás a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Curial",
+            "tip": "Loc sigur și accesibil de parcare în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Curial Parking",
+            "tip": "Affordable and secure parking in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Park & Ride' System am Stadtrand.",
+          "Vermeiden Sie die Rushhour rund um die Avenue de Lyon."
+        ],
+        "hu": [
+          "Használja a P+R rendszert a város szélén.",
+          "Kerülje el a csúcsforgalmat az Avenue de Lyon környékén."
+        ],
+        "ro": [
+          "Folosiți sistemul Park & Ride de la periferie.",
+          "Evitați orele de vârf pe Avenue de Lyon."
+        ],
+        "en": [
+          "Use the Park & Ride system on the outskirts.",
+          "Avoid rush hour traffic around Avenue de Lyon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Elefantenbrunnen (Zentrum)",
+            "hu": "Elefántos kút",
+            "ro": "Fântâna Elefanților",
+            "en": "Elephant Fountain"
+          },
+          "coords": [
+            45.5665,
+            5.9223
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Rue de Boigne (Zentrum)",
+            "hu": "Rue de Boigne",
+            "ro": "Rue de Boigne",
+            "en": "Rue de Boigne"
+          },
+          "coords": [
+            45.5662,
+            5.9215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge",
+            "hu": "Hercegi vár",
+            "ro": "Castelul Ducilor",
+            "en": "Château des Ducs"
+          },
+          "coords": [
+            45.5645,
+            5.9185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Musée des Beaux-Arts"
+          },
+          "coords": [
+            45.5655,
+            5.9218
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Parc de Buisson-Rond (Süd)",
+            "hu": "Parc de Buisson-Rond",
+            "ro": "Parcul Buisson-Rond",
+            "en": "Parc de Buisson-Rond"
+          },
+          "coords": [
+            45.558,
+            5.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2
+        },
+        {
+          "name": {
+            "de": "Carré Curial",
+            "hu": "Carré Curial",
+            "ro": "Carré Curial",
+            "en": "Carré Curial"
+          },
+          "coords": [
+            45.563,
+            5.924
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Les Halles",
+            "hu": "Vásárcsarnok",
+            "ro": "Halele",
+            "en": "Les Halles"
+          },
+          "coords": [
+            45.568,
+            5.9205
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den Synchro-Bussen erreichen wir mühelos alle Viertel. Wir starten im historischen Kern und fahren dann mit der Linie B in den Süden zum Park. Am späten Nachmittag kehren wir ins kulturelle Zentrum zurück.",
+        "hu": "A Synchro buszhálózattal könnyedén elérjük a város minden részét. A történelmi központban kezdünk, majd a B jelű busszal délre utazunk a parkhoz. Késő délután térünk vissza a kulturális központba.",
+        "ro": "Cu rețeaua de autobuze Synchro ajungem ușor în toate cartierele. Începem în nucleul istoric, apoi luăm linia B spre sud către parc. La sfârșitul după-amiezii revenim în centrul cultural.",
+        "en": "With the Synchro bus network, we easily reach all districts. We start in the historic core and then take Line B south to the park. In the late afternoon, we return to the cultural center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie de la Cathedrale",
+            "tip": "Frische Snacks für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie de la Cathedrale",
+            "tip": "Friss szendvicsek és sütemények útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie de la Cathedrale",
+            "tip": "Gustări proaspete pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie de la Cathedrale",
+            "tip": "Fresh snacks and pastries on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbank am Buisson-Rond",
+            "tip": "Ideal zum Beobachten der Einheimischen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a Buisson-Rond parkban",
+            "tip": "Ideális hely a helyi élet megfigyelésére.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în parcul Buisson-Rond",
+            "tip": "Un loc perfect pentru a urmări viața locală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Bench at Buisson-Rond",
+            "tip": "Ideal for people-watching and relaxing.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Synchro Bus App",
+            "tip": "Einfach Tickets digital kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Synchro Bus App",
+            "tip": "Digitális jegyvásárlás egyszerűen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aplicația Synchro Bus",
+            "tip": "Cumpărați bilete digitale rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Synchro Bus App",
+            "tip": "Easily buy digital tickets on your phone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte (Pass Journée).",
+          "Busse fahren am Wochenende seltener."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Pass Journée).",
+          "Hétvégén a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi (Pass Journée).",
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Buy a day pass (Pass Journée) for unlimited rides.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

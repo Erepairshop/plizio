@@ -1,0 +1,932 @@
+{
+  "city_id": "idar-oberstein-extra",
+  "anchor": {
+    "name": "Marktplatz Oberstein",
+    "coords": [
+      7.3292,
+      49.7038
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Deutsches Mineralienmuseum",
+          "coords": [
+            7.3285,
+            49.7035
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesigen Bergkristalle im Erdgeschoss.",
+            "hu": "Nézze meg az óriási hegyikristályokat a földszinten.",
+            "ro": "Admirați cristalele de stâncă uriașe de la parter.",
+            "en": "Check out the giant rock crystals on the ground floor."
+          }
+        },
+        {
+          "name": "Felsenkirche",
+          "coords": [
+            7.3292,
+            49.7045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steile Treppen, aber der Ausblick aus dem Felsenfenster lohnt sich.",
+            "hu": "Meredek lépcsők, de a kilátás a sziklaablakból megéri.",
+            "ro": "Scări abrupte, dar vederea de la fereastra din stâncă merită.",
+            "en": "Steep stairs, but the view from the rock window is worth it."
+          }
+        },
+        {
+          "name": "Schloss Oberstein",
+          "coords": [
+            7.3308,
+            49.7042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die restaurierten Räume im inneren Teil.",
+            "hu": "Látogassa meg a restaurált termeket a belső részen.",
+            "ro": "Vizitați camerele restaurate din partea interioară.",
+            "en": "Visit the restored rooms in the inner section."
+          }
+        },
+        {
+          "name": "Burg Bosselstein",
+          "coords": [
+            7.3315,
+            49.7052
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Ruine bietet den besten Blick auf die Felsenkirche von oben.",
+            "hu": "A romról nyílik a legjobb kilátás fentről a sziklatemplomra.",
+            "ro": "Ruina oferă cea mai bună priveliște asupra bisericii de sus.",
+            "en": "The ruins offer the best view of the rock church from above."
+          }
+        },
+        {
+          "name": "Marktplatz Gastronomie",
+          "coords": [
+            7.3295,
+            49.7035
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie den Idar-Obersteiner Spießbraten über Buchenfeuer.",
+            "hu": "Kóstolja meg a bükkfaparázson sült helyi nyársas húst.",
+            "ro": "Încercați friptura locală la proțap pe foc de fag.",
+            "en": "Try the local spit-roast prepared over beechwood fire."
+          }
+        },
+        {
+          "name": "Stadttheater",
+          "coords": [
+            7.325,
+            49.703
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein modernes Kulturzentrum inmitten der historischen Stadt.",
+            "hu": "Modern kulturális központ a történelmi város közepén.",
+            "ro": "Un centru cultural modern în mijlocul orașului istoric.",
+            "en": "A modern cultural center in the middle of the historic town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Mineralienmuseum, gefolgt vom Aufstieg zur ikonischen Felsenkirche. Nach der Erkundung der Burgruinen Bosselstein und dem Schloss Oberstein genießen Sie die lokale Küche am Marktplatz. Ein entspannter Spaziergang zum Stadttheater schließt den Tag ab.",
+        "hu": "A nap az Ásványmúzeumban kezdődik, majd következik az ikonikus sziklatemplom megmászása. Bosselstein várromja és az Oberstein-kastély után a főtéren élvezheti a helyi konyhát. Egy pihentető séta a Városi Színházhoz zárja a napot.",
+        "ro": "Ziua începe la Muzeul Mineralelor, urmată de urcarea la emblematica biserică în stâncă. După explorarea ruinelor Bosselstein și a castelului Oberstein, savurați bucătăria locală în piață. O plimbare relaxantă spre teatrul orașului încheie ziua.",
+        "en": "The day starts at the Mineral Museum, followed by a climb to the iconic Rock Church. After exploring Bosselstein ruins and Oberstein Castle, enjoy local cuisine in the market square. A relaxed walk to the City Theater concludes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spießbratenhaus",
+            "tip": "Traditioneller Spießbraten vom offenen Feuer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spießbratenhaus",
+            "tip": "Hagyományos nyársas hús nyílt tűzről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spießbratenhaus",
+            "tip": "Friptură tradițională la proțap pe foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spießbratenhaus",
+            "tip": "Traditional spit-roast cooked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burg Bosselstein",
+            "tip": "Ruhiger Rückzugsort mit Fernsicht.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bosselstein vára",
+            "tip": "Csendes pihenőhely pazar kilátással.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Bosselstein",
+            "tip": "Refugiu liniștit cu vedere panoramică.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bosselstein Castle",
+            "tip": "Quiet retreat with long-distance views.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edelstein-Shops Oberstein",
+            "tip": "Lokaler Schmuck und Heilsteine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Obersteini drágakőboltok",
+            "tip": "Helyi ékszerek és gyógyító kövek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de nestemate",
+            "tip": "Bijuterii locale și pietre tămăduitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gemstone Shops Oberstein",
+            "tip": "Local jewelry and healing stones."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für die steilen Pfade zur Felsenkirche.",
+          "Die Museen schließen oft montags."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a sziklatemplomhoz vezető meredek úthoz.",
+          "A múzeumok hétfőnként gyakran zárva tartanak."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru potecile abrupte spre biserică.",
+          "Muzeele sunt adesea închise lunea."
+        ],
+        "en": [
+          "Wear sturdy shoes for the steep paths to the rock church.",
+          "Museums are often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Historische Weiherschleife",
+          "coords": [
+            7.2885,
+            49.7185
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sehen Sie, wie Edelsteine mit Wasserkraft geschliffen wurden.",
+            "hu": "Nézze meg, hogyan csiszolták a köveket vízi erővel.",
+            "ro": "Vedeți cum erau șlefuite pietrele folosind forța apei.",
+            "en": "See how gemstones were ground using water power."
+          }
+        },
+        {
+          "name": "Edelsteinmine Steinkaulenberg",
+          "coords": [
+            7.283,
+            49.709
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einzige für Besucher zugängliche Edelsteinmine Europas.",
+            "hu": "Európa egyetlen látogatható drágakőbányája.",
+            "ro": "Singura mină de nestemate din Europa deschisă vizitatorilor.",
+            "en": "The only gemstone mine in Europe open to visitors."
+          }
+        },
+        {
+          "name": "Deutsches Edelsteinmuseum",
+          "coords": [
+            7.3032,
+            49.7095
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Umfassende Sammlung in einer prachtvollen Gründerzeitvilla.",
+            "hu": "Átfogó gyűjtemény egy pompás neobarokk villában.",
+            "ro": "Colecție vastă într-o vilă splendidă din epoca fondatoare.",
+            "en": "Comprehensive collection in a magnificent historicist villa."
+          }
+        },
+        {
+          "name": "Gastro-Pause (Idar)",
+          "coords": [
+            7.305,
+            49.71
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich im Stadtteil Idar vor der Weiterfahrt.",
+            "hu": "Frissüljön fel Idar városrészben a folytatás előtt.",
+            "ro": "Reîncărcați-vă bateriile în cartierul Idar înainte de plecare.",
+            "en": "Refuel in the Idar district before continuing your ride."
+          }
+        },
+        {
+          "name": "Radweg an der Nahe",
+          "coords": [
+            7.315,
+            49.705
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Flache Strecke entlang des Flusses Richtung Oberstein.",
+            "hu": "Lapos szakasz a folyó mentén Oberstein irányába.",
+            "ro": "Traseu plat de-a lungul râului spre Oberstein.",
+            "en": "Flat stretch along the river towards Oberstein."
+          }
+        },
+        {
+          "name": "Oberstein Marktplatz",
+          "coords": [
+            7.3292,
+            49.7038
+          ],
+          "category": "square",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ziel der Tour unterhalb der Felsenkirche.",
+            "hu": "A túra célpontja közvetlenül a sziklatemplom alatt.",
+            "ro": "Destinația turului sub biserica în stâncă.",
+            "en": "The tour destination just below the rock church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die industrielle Geschichte an der Weiherschleife mit der Geologie der Edelsteinminen. Nach dem Besuch des großen Edelsteinmuseums radeln Sie entspannt am Fluss Nahe entlang bis zum historischen Zentrum von Oberstein.",
+        "hu": "Ez a kerékpártúra összeköti a Weiherschleife ipari múltját a drágakőbányák geológiájával. A nagy Drágakőmúzeum megtekintése után kényelmesen kerekezhet a Nahe folyó mentén Oberstein történelmi központjáig.",
+        "ro": "Acest tur pe bicicletă îmbină istoria industrială de la Weiherschleife cu geologia minelor de nestemate. După vizitarea marelui muzeu, pedalați relaxat de-a lungul râului Nahe până în centrul istoric din Oberstein.",
+        "en": "This bike tour connects industrial history at Weiherschleife with the geology of the gemstone mines. After visiting the grand Gemstone Museum, enjoy a relaxed ride along the Nahe river to the historic center of Oberstein."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Börsenkeller",
+            "tip": "Herzhafte regionale Küche in Idar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Börsenkeller",
+            "tip": "Kiadós regionális konyha Idarban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Börsenkeller",
+            "tip": "Bucătărie regională consistentă în Idar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Börsenkeller",
+            "tip": "Hearty regional cuisine in the Idar district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nahe-Ufer",
+            "tip": "Ruhiger Weg am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nahe-part",
+            "tip": "Csendes út a víz mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Nahe",
+            "tip": "Drum liniștit pe lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nahe Riverbank",
+            "tip": "Quiet path along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Goldschmiedehaus Idar",
+            "tip": "Hochwertiges Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Idari aranyműves ház",
+            "tip": "Kiváló minőségű kézműves munka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa aurarilor din Idar",
+            "tip": "Meșteșug de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goldsmith House Idar",
+            "tip": "High-quality local craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Steinkaulenberg hat einige Steigungen.",
+          "Fahrradschloss am Edelsteinmuseum nutzen."
+        ],
+        "hu": [
+          "A Steinkaulenberg felé vezető úton van néhány emelkedő.",
+          "Használjon kerékpárzárat a Drágakőmúzeumnál."
+        ],
+        "ro": [
+          "Traseul spre Steinkaulenberg are câteva pante.",
+          "Folosiți un antivolt la Muzeul Nestematelor."
+        ],
+        "en": [
+          "The path to Steinkaulenberg has some inclines.",
+          "Use a bike lock at the Gemstone Museum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Edelsteinmine Steinkaulenberg",
+          "coords": [
+            7.283,
+            49.709
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Tragen Sie warme Kleidung (ca. 8-10 Grad im Stollen).",
+            "hu": "Viseljen meleg ruhát (kb. 8-10 fok van odabent).",
+            "ro": "Purtați haine groase (cca. 8-10 grade în galerie).",
+            "en": "Wear warm clothing (approx. 8-10 degrees Celsius inside)."
+          }
+        },
+        {
+          "name": "Historische Weiherschleife",
+          "coords": [
+            7.2885,
+            49.7185
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Direkt am Weiher gelegen, idyllischer Parkplatz.",
+            "hu": "Közvetlenül a tó partján, idilli parkolóhely.",
+            "ro": "Situată chiar lângă iaz, parcare idilică.",
+            "en": "Located right by the pond, idyllic parking spot."
+          }
+        },
+        {
+          "name": "Deutsches Edelsteinmuseum",
+          "coords": [
+            7.3032,
+            49.7095
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor dem Museum verfügbar.",
+            "hu": "Parkolóhely közvetlenül a múzeum előtt.",
+            "ro": "Loc de parcare disponibil chiar în fața muzeului.",
+            "en": "Parking available directly in front of the museum."
+          }
+        },
+        {
+          "name": "Gastro-Cluster Oberstein",
+          "coords": [
+            7.3292,
+            49.7038
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Marktplatz für den Stadtbummel.",
+            "hu": "Parkoljon a főtéri parkolóházban a városi sétához.",
+            "ro": "Parcați în parcarea supraetajată din piață pentru plimbare.",
+            "en": "Park in the multi-story car park for the town walk."
+          }
+        },
+        {
+          "name": "Felsenkirche",
+          "coords": [
+            7.3292,
+            49.7045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkhaus aus zu Fuß erreichbar.",
+            "hu": "A parkolóháztól gyalogosan elérhető.",
+            "ro": "Accesibilă pe jos din parcarea supraetajată.",
+            "en": "Accessible on foot from the parking garage."
+          }
+        },
+        {
+          "name": "Schloss Oberstein",
+          "coords": [
+            7.3308,
+            49.7042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer, steiler Weg von der Felsenkirche weiter bergauf.",
+            "hu": "Rövid, meredek út a sziklatemplomtól tovább felfelé.",
+            "ro": "Drum scurt și abrupt de la biserică spre deal.",
+            "en": "Short, steep path further uphill from the rock church."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Oberstein",
+          "coords": [
+            7.332,
+            49.706
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Letzter Blick über das Nahetal vor der Abfahrt.",
+            "hu": "Utolsó pillantás a Nahe-völgyre a távozás előtt.",
+            "ro": "Ultima vedere asupra văii Nahe înainte de plecare.",
+            "en": "Final view over the Nahe valley before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die etwas außerhalb gelegenen Minen und Schleifen. Danach parken Sie zentral in Oberstein, um die historischen Highlights wie die Felsenkirche und das Schloss zu Fuß zu erkunden. Der Tag verbindet Natur-Erlebnisse mit kulturellen Schätzen.",
+        "hu": "Autóval kényelmesen elérheti a városon kívül fekvő bányákat és csiszolókat. Ezután parkoljon le Oberstein központjában, hogy gyalogosan fedezze fel a sziklatemplomot és a kastélyt. A nap a természeti élményeket ötvözi a kulturális kincsekkel.",
+        "ro": "Cu mașina ajungeți ușor la minele și atelierele din afara orașului. Ulterior, parcați central în Oberstein pentru a explora pe jos biserica în stâncă și castelul. Ziua combină experiențele în natură cu tezaurele culturale.",
+        "en": "By car, you can easily reach the mines and grinding mills located outside town. Afterward, park centrally in Oberstein to explore the historic highlights like the rock church and castle on foot. The day blends nature experiences with cultural treasures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hotel Restaurant Schloßschenke",
+            "tip": "Essen mit Aussicht auf die Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hotel Restaurant Schloßschenke",
+            "tip": "Étkezés kilátással a várra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hotel Restaurant Schloßschenke",
+            "tip": "Masă cu vedere spre cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hotel Restaurant Schloßschenke",
+            "tip": "Dining with a view of the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Steinkaulenberg Umfeld",
+            "tip": "Waldspaziergang an der Mine.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steinkaulenberg környéke",
+            "tip": "Erdei séta a bányánál.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Steinkaulenberg",
+            "tip": "Plimbare prin pădure lângă mină.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Steinkaulenberg Surroundings",
+            "tip": "Forest walk near the mine.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edelstein Erlebniswelt",
+            "tip": "Große Auswahl direkt an der B41."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Edelstein Erlebniswelt",
+            "tip": "Nagy választék közvetlenül a B41 út mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Edelstein Erlebniswelt",
+            "tip": "Selecție vastă chiar lângă drumul B41."
+          }
+        ],
+        "en": [
+          {
+            "name": "Edelstein Erlebniswelt",
+            "tip": "Huge selection located right on the B41."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkhaus 'Auf der Idar', es ist am günstigsten.",
+          "Achten Sie auf die engen Straßen in der Altstadt."
+        ],
+        "hu": [
+          "Használja az 'Auf der Idar' parkolóházat, ez a legolcsóbb.",
+          "Figyeljen az óváros szűk utcáira."
+        ],
+        "ro": [
+          "Folosiți parcarea 'Auf der Idar', este cea mai ieftină.",
+          "Atenție la străzile înguste din orașul vechi."
+        ],
+        "en": [
+          "Use the 'Auf der Idar' parking garage; it's the most affordable.",
+          "Be careful on the narrow streets of the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bahnhof Idar-Oberstein",
+          "coords": [
+            7.325,
+            49.7025
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt zwischen Idar und Oberstein.",
+            "hu": "Idar és Oberstein közötti központi csomópont.",
+            "ro": "Nod central între Idar și Oberstein.",
+            "en": "Central hub between the Idar and Oberstein districts."
+          }
+        },
+        {
+          "name": "Deutsches Mineralienmuseum",
+          "coords": [
+            7.3285,
+            49.7035
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nur 5 Minuten Fußweg vom Bahnhof Oberstein.",
+            "hu": "Csak 5 perc séta az obersteini vasútállomástól.",
+            "ro": "La doar 5 minute de mers pe jos de gară.",
+            "en": "Just a 5-minute walk from the Oberstein station."
+          }
+        },
+        {
+          "name": "Felsenkirche & Schloss",
+          "coords": [
+            7.3292,
+            49.7045
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beide Ziele lassen sich hervorragend zu Fuß kombinieren.",
+            "hu": "A két célpont gyalogosan remekül kombinálható.",
+            "ro": "Ambele obiective pot fi combinate excelent pe jos.",
+            "en": "Both sights can be perfectly combined on foot."
+          }
+        },
+        {
+          "name": "Busfahrt nach Idar",
+          "coords": [
+            7.3032,
+            49.7095
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Linie 801 verbindet die Stadtteile im 15-Minuten-Takt.",
+            "hu": "A 801-es busz 15 percenként köti össze a városrészeket.",
+            "ro": "Linia 801 face legătura între cartiere la fiecare 15 minute.",
+            "en": "Bus line 801 connects the districts every 15 minutes."
+          }
+        },
+        {
+          "name": "Stadttheater",
+          "coords": [
+            7.325,
+            49.703
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückfahrt zum Bahnhof bequem per Bus möglich.",
+            "hu": "A visszatérés az állomásra kényelmesen, busszal megoldható.",
+            "ro": "Întoarcerea la gară se poate face ușor cu autobuzul.",
+            "en": "Return to the station is easily possible by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der dichten Bustaktung lassen sich Oberstein und Idar perfekt ohne Auto verbinden. Nach der Ankunft am Bahnhof erkunden Sie das Zentrum von Oberstein zu Fuß, bevor Sie mit dem Bus nach Idar zum großen Edelsteinmuseum fahren.",
+        "hu": "A sűrű buszjáratoknak köszönhetően Oberstein és Idar tökéletesen összeköthető autó nélkül is. Az állomásra érkezés után gyalog fedezze fel Oberstein központját, majd busszal menjen át Idarba a nagy Drágakőmúzeumhoz.",
+        "ro": "Datorită frecvenței mari a autobuzelor, Oberstein și Idar pot fi conectate perfect fără mașină. După sosirea la gară, explorați centrul pe jos, apoi luați autobuzul spre Idar pentru marele muzeu.",
+        "en": "Thanks to the frequent bus service, Oberstein and Idar can be perfectly combined without a car. After arriving at the station, explore the center of Oberstein on foot before taking a bus to Idar for the grand Gemstone Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Museum",
+            "tip": "Kleiner Snack zwischen den Ausstellungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro im Museum",
+            "tip": "Gyors falatok a kiállítások között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro im Museum",
+            "tip": "Gustare rapidă între expoziții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro im Museum",
+            "tip": "Small snack between the exhibitions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platz am Stadttheater",
+            "tip": "Moderne Anlage mit Sitzbänken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Színház tere",
+            "tip": "Modern terület padokkal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața teatrului",
+            "tip": "Zonă modernă cu bănci.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Theater Square",
+            "tip": "Modern area with benches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbuchhandlung",
+            "tip": "Reiselektüre und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási könyvesbolt",
+            "tip": "Olvasnivaló és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din gară",
+            "tip": "Lectură de călătorie și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bookstore",
+            "tip": "Travel reads and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtbus.",
+          "Die Busse fahren ab dem Bahnhofplatz."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszokra.",
+          "A buszok a vasútállomás elől indulnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul urban.",
+          "Autobuzele pleacă din piața gării."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus.",
+          "Buses depart from the station square."
+        ]
+      }
+    }
+  }
+}

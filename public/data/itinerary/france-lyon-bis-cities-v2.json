@@ -1,0 +1,994 @@
+{
+  "city_id": "france-lyon-bis-cities-v2",
+  "anchor": {
+    "name": "Lyon-Nord (Croix-Rousse)",
+    "coords": [
+      4.83,
+      45.78
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Mur des Canuts",
+          "coords": [
+            4.831,
+            45.777
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den versteckten Details und Personen im riesigen Wandgemälde.",
+            "hu": "Keresd meg az apró, élethű részleteket és a festményen szereplő embereket.",
+            "ro": "Căutați detaliile ascunse și personajele din pictura murală gigantică.",
+            "en": "Look for the hidden details and characters in the massive trompe-l'œil mural."
+          }
+        },
+        {
+          "name": "Maison de la Croix-Rousse",
+          "coords": [
+            4.833,
+            45.775
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Webstühle und die Geschichte der Seidenweber.",
+            "hu": "Ismerd meg a selyemszövő gépek működését és a lyoni takácsok életét.",
+            "ro": "Aflați totul despre războaiele de țesut și istoria mătăsarilor.",
+            "en": "Learn about the looms and the fascinating history of Lyon's silk weavers."
+          }
+        },
+        {
+          "name": "Gros Caillou",
+          "coords": [
+            4.836,
+            45.774
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Alpen bei klarem Wetter.",
+            "hu": "Tiszta időben élvezd az Alpokra nyíló panorámát erről a pontról.",
+            "ro": "Bucurați-vă de panorama spre Alpi în zilele cu cer senin.",
+            "en": "Enjoy the panoramic view of the Alps on clear days from this iconic rock."
+          }
+        },
+        {
+          "name": "Jardin Rosa Mir",
+          "coords": [
+            4.832,
+            45.779
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel aus Muscheln und Steinen; prüfen Sie die Öffnungszeiten.",
+            "hu": "Kagylókból és kövekből épült rejtett ékszerdoboz; ellenőrizd a nyitvatartást.",
+            "ro": "O bijuterie ascunsă din scoici și pietre; verificați programul de vizitare.",
+            "en": "A hidden gem made of shells and stones; check seasonal opening hours."
+          }
+        },
+        {
+          "name": "Amphithéâtre des Trois Gaules",
+          "coords": [
+            4.831,
+            45.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die antiken römischen Ruinen am Fuße des Hügels atmen Geschichte.",
+            "hu": "A domb alján fekvő ókori római romok a város legrégebbi emlékei.",
+            "ro": "Ruinele romane antice de la baza dealului respiră istorie pură.",
+            "en": "The ancient Roman ruins at the foot of the hill breathe pure history."
+          }
+        },
+        {
+          "name": "Kirche Saint-Bruno-des-Chartreux",
+          "coords": [
+            4.825,
+            45.772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das prächtige Baldachin im Inneren dieser Barockkirche.",
+            "hu": "Csodáld meg a barokk templom lenyűgöző belső terét és baldachinját.",
+            "ro": "Admirați baldachinul magnific din interiorul acestei biserici baroce.",
+            "en": "Admire the magnificent canopy inside this stunning Baroque church."
+          }
+        },
+        {
+          "name": "Fresque des Lyonnais",
+          "coords": [
+            4.828,
+            45.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Finden Sie berühmte Lyoner wie den Kleinen Prinzen oder Paul Bocuse.",
+            "hu": "Keresd meg a híres lyoniakat, mint a Kis Herceg vagy Paul Bocuse.",
+            "ro": "Găsiți lyonezi celebri precum Micul Prinț sau Paul Bocuse.",
+            "en": "Find famous Lyonnais like the Little Prince or Paul Bocuse on this wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Spaziergang führt Sie durch das Herz von Croix-Rousse, dem Hügel der Seidenweber. Am Vormittag erkunden wir die faszinierende Geschichte der 'Canuts' durch monumentale Wandbilder und Webereimuseen. Nach einem Mittagessen in einem lokalen Bistro steigen wir zu den römischen Wurzeln Lyons hinab und beenden den Tag an der berühmten Fresque des Lyonnais am Ufer der Saône.",
+        "hu": "Ez a séta a selyemszövők dombjának, a Croix-Rousse-nak a szívébe vezet. Délelőtt a 'Canuts' izgalmas történelmét fedezzük fel óriási falfestményeken és szövőműhelyeken keresztül. Ebéd után a domboldal római gyökereihez ereszkedünk le, majd a napot a híres lyoniakat ábrázoló Fresque des Lyonnais előtt zárjuk a Saône partján.",
+        "ro": "Această plimbare vă poartă prin inima Croix-Rousse, dealul mătăsarilor. Dimineața explorăm istoria fascinantă a 'Canuts' prin picturi murale monumentale și muzee de țesătorie. După un prânz într-un bistro local, coborâm spre rădăcinile romane ale Lyonului și încheiem ziua la faimoasa Fresque des Lyonnais, pe malul râului Saône.",
+        "en": "This walk takes you through the heart of Croix-Rousse, the hill of silk weavers. In the morning, we explore the fascinating history of the 'Canuts' through monumental murals and weaving museums. After lunch in a local bistro, we descend to Lyon's Roman roots and end the day at the famous Fresque des Lyonnais on the banks of the Saône."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bouchon des Canuts",
+            "tip": "Probieren Sie die Quenelle de Brochet in diesem traditionellen Bistro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouchon des Canuts",
+            "tip": "Kóstold meg a klasszikus Quenelle de Brochet-t ebben a hagyományos kisvendéglőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouchon des Canuts",
+            "tip": "Încercați Quenelle de Brochet în acest bistro tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouchon des Canuts",
+            "tip": "Try the classic Quenelle de Brochet in this traditional local eatery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "Ein surrealer Ort der Stille inmitten der Stadt.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "Szürreális, csendes menedék a város közepén.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "Un loc suprarealist de liniște în mijlocul orașului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Rosa Mir",
+            "tip": "A surreal, quiet sanctuary in the middle of the city.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de la Croix-Rousse",
+            "tip": "Einer der besten Lebensmittelmärkte Lyons (außer montags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Croix-Rousse piac",
+            "tip": "Lyon egyik legjobb élelmiszerpiaca (hétfő kivételével)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Croix-Rousse",
+            "tip": "Una dintre cele mai bune piețe alimentare din Lyon (cu excepția zilei de luni)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Croix-Rousse Market",
+            "tip": "One of Lyon's best food markets (daily except Mondays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Treppen von Croix-Rousse sind steil; tragen Sie bequeme Schuhe.",
+          "Nutzen Sie die 'Traboules' (versteckte Passagen), um zwischen den Straßen zu wechseln.",
+          "Der Markt am Boulevard de la Croix-Rousse ist am Wochenende besonders lebhaft.",
+          "Kaufen Sie ein echtes Seiden-Souvenir in der Maison des Canuts."
+        ],
+        "hu": [
+          "A Croix-Rousse lépcsői meredekek, kényelmes cipő kötelező.",
+          "Használd a 'Traboule'-okat (rejtett átjárókat) a szintek közötti közlekedéshez.",
+          "A Boulevard de la Croix-Rousse piaca hétvégén a leghangulatosabb.",
+          "Vegyél valódi selyem sálat ajándékba a Maison des Canuts boltjában."
+        ],
+        "ro": [
+          "Scările din Croix-Rousse sunt abrupte; purtați încălțăminte confortabilă.",
+          "Folosiți 'Traboules' (pasaje ascunse) pentru a trece de la o stradă la alta.",
+          "Piața de pe Bulevardul Croix-Rousse este deosebit de animată în weekend.",
+          "Cumpărați un suvenir autentic din mătase de la Maison des Canuts."
+        ],
+        "en": [
+          "The stairs of Croix-Rousse are steep; comfortable shoes are a must.",
+          "Use the 'Traboules' (hidden passages) to navigate between street levels.",
+          "The market on Boulevard de la Croix-Rousse is most vibrant on weekends.",
+          "Buy an authentic silk souvenir at the Maison des Canuts shop."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Mur des Canuts",
+          "coords": [
+            4.831,
+            45.777
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt auf dem Plateau.",
+            "hu": "Indulópont a fennsíkon.",
+            "ro": "Punct de plecare pe platou.",
+            "en": "Starting point on the plateau."
+          }
+        },
+        {
+          "name": "Gros Caillou",
+          "coords": [
+            4.836,
+            45.774
+          ],
+          "category": "natural features",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick vor der Abfahrt.",
+            "hu": "Kilátás a gurulás előtt.",
+            "ro": "Vedere înainte de coborâre.",
+            "en": "View before the descent."
+          }
+        },
+        {
+          "name": "Parc de la Tête d'Or (Nord)",
+          "coords": [
+            4.855,
+            45.783
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Radfahren ist auf den Hauptwegen im Park erlaubt und ideal.",
+            "hu": "A park főútjain szabad és élvezetes a kerékpározás.",
+            "ro": "Ciclismul este permis și ideal pe aleile principale din parc.",
+            "en": "Cycling is allowed and ideal on the main paths throughout the park."
+          }
+        },
+        {
+          "name": "Fresque des Lyonnais",
+          "coords": [
+            4.828,
+            45.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Radeln Sie am Saône-Ufer entlang.",
+            "hu": "Tekerj végig a Saône-parti kerékpárúton.",
+            "ro": "Mergeți pe bicicletă de-a lungul malului râului Saône.",
+            "en": "Ride along the dedicated bike paths on the Saône riverbanks."
+          }
+        },
+        {
+          "name": "Amphithéâtre des Trois Gaules",
+          "coords": [
+            4.831,
+            45.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg zurück.",
+            "hu": "Meredek emelkedő következik visszafelé.",
+            "ro": "O urcare abruptă înapoi.",
+            "en": "A steep climb back up the hill starts here."
+          }
+        },
+        {
+          "name": "Kirche Saint-Bruno-des-Chartreux",
+          "coords": [
+            4.825,
+            45.772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückgabe.",
+            "hu": "Utolsó megálló pihenésképpen.",
+            "ro": "Ultima oprire înainte de final.",
+            "en": "Final stop for a bit of quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert den Croix-Rousse-Hügel mit dem weitläufigen Parc de la Tête d'Or. Wir starten oben auf dem Plateau, genießen die Abfahrt zum Ufer der Rhone und erkunden den größten Stadtpark Lyons. Nach einer entspannten Fahrt entlang der Saône-Ufer kehren wir zum Amphitheater und den historischen Gassen zurück.",
+        "hu": "Ez a kerékpáros túra ötvözi a Croix-Rousse dombját a hatalmas Tête d'Or parkkal. A fennsíkról indulunk, leereszkedünk a Rhône partjára, és felfedezzük Lyon legnagyobb városi parkját. A Saône-parti tekerés után visszakanyarodunk az amfiteátrumhoz és a történelmi negyedbe.",
+        "ro": "Acest tur cu bicicleta combină dealul Croix-Rousse cu vastul Parc de la Tête d'Or. Începem sus pe platou, ne bucurăm de coborârea spre malurile Ronului și explorăm cel mai mare parc urban din Lyon. După o plimbare relaxată de-a lungul Sonei, revenim la amfiteatru și străzile istorice.",
+        "en": "This bike tour combines the Croix-Rousse hill with the vast Parc de la Tête d'Or. We start on the plateau, enjoy the descent to the Rhone banks, and explore Lyon's largest urban park. After a relaxed ride along the Saône riverfront, we return to the amphitheater and the historical slopes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir de la Bourse",
+            "tip": "Perfekt für eine Pause in der Nähe des Flusses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Comptoir de la Bourse",
+            "tip": "Tökéletes pihenőhely a folyó közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Comptoir de la Bourse",
+            "tip": "Perfect pentru o pauză lângă râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir de la Bourse",
+            "tip": "Perfect spot for a break near the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tête d'Or See",
+            "tip": "Mieten Sie ein Boot für maximale Ruhe.",
+            "emoji": "🚣"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tête d'Or tó",
+            "tip": "Bérelj csónakot a maximális nyugalomért.",
+            "emoji": "🚣"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Tête d'Or",
+            "tip": "Închiriați o barcă pentru liniște maximă.",
+            "emoji": "🚣"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tête d'Or Lake",
+            "tip": "Rent a boat for maximum tranquility on the water.",
+            "emoji": "🚣"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo'v Stationen",
+            "tip": "Nutzen Sie das städtische Leihradsystem überall."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo'v állomások",
+            "tip": "Használd a városi bérbringarendszert bárhol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații Velo'v",
+            "tip": "Folosiți sistemul public de închiriat biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo'v Stations",
+            "tip": "Use the city's bike-sharing system available everywhere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Elektrische Velo'v-Räder werden für den Rückweg auf den Hügel dringend empfohlen.",
+          "Achten Sie auf Fußgänger in den engen Gassen von Croix-Rousse.",
+          "Der Tunnel 'Mode Doux' unter dem Croix-Rousse-Hügel ist ein Erlebnis.",
+          "Vermeiden Sie das Radfahren auf dem steilen Amphitheater-Gelände."
+        ],
+        "hu": [
+          "Az elektromos Velo'v bicikliket ajánljuk a dombra való visszatéréshez.",
+          "Figyelj a gyalogosokra a Croix-Rousse szűk utcáin.",
+          "A Croix-Rousse alatti 'Mode Doux' alagút különleges élmény bringával.",
+          "Ne bringázz az amfiteátrum területén, ott told a gépet."
+        ],
+        "ro": [
+          "Bicicletele electrice Velo'v sunt recomandate pentru urcarea înapoi pe deal.",
+          "Atenție la pietoni pe străzile înguste din Croix-Rousse.",
+          "Tunelul 'Mode Doux' de sub dealul Croix-Rousse este o experiență unică.",
+          "Evitați ciclismul direct pe terenul amfiteatrului."
+        ],
+        "en": [
+          "Electric Velo'v bikes are highly recommended for the return climb.",
+          "Watch out for pedestrians in the narrow Croix-Rousse streets.",
+          "The 'Mode Doux' tunnel under the Croix-Rousse hill is a great bike experience.",
+          "Avoid cycling directly inside the amphitheater grounds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Mur des Canuts (Cluster A)",
+          "coords": [
+            4.831,
+            45.777
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Gros Caillou'.",
+            "hu": "Parkolj a 'Gros Caillou' parkolóházban.",
+            "ro": "Parcați în parcarea 'Gros Caillou'.",
+            "en": "Park at the 'Gros Caillou' parking garage for this cluster."
+          }
+        },
+        {
+          "name": "Maison de la Croix-Rousse",
+          "coords": [
+            4.833,
+            45.775
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar von Cluster A.",
+            "hu": "Gyalogos megközelítés az A-klaszteren belül.",
+            "ro": "Accesibil pe jos în cadrul clusterului A.",
+            "en": "Walking distance within the first cluster."
+          }
+        },
+        {
+          "name": "Gros Caillou",
+          "coords": [
+            4.836,
+            45.774
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Weiterfahrt.",
+            "hu": "Utolsó megálló az autós továbbhaladás előtt.",
+            "ro": "Ultima oprire înainte de a conduce mai departe.",
+            "en": "Last stop before driving to the next cluster."
+          }
+        },
+        {
+          "name": "Parc de la Tête d'Or (Nord - Cluster B)",
+          "coords": [
+            4.855,
+            45.783
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz an der Avenue de Grande Bretagne.",
+            "hu": "Parkolóhely az Avenue de Grande Bretagne mentén.",
+            "ro": "Loc de parcare pe Avenue de Grande Bretagne.",
+            "en": "Parking spot along Avenue de Grande Bretagne for the park."
+          }
+        },
+        {
+          "name": "Kirche Saint-Bruno-des-Chartreux (Cluster C)",
+          "coords": [
+            4.825,
+            45.772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Fahrt zurück zum Westhang.",
+            "hu": "Autózás vissza a nyugati domboldalra.",
+            "ro": "Conduceți înapoi spre versantul vestic.",
+            "en": "Drive back towards the western slope."
+          }
+        },
+        {
+          "name": "Amphithéâtre des Trois Gaules",
+          "coords": [
+            4.831,
+            45.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von Saint-Bruno.",
+            "hu": "Rövid séta a Saint-Bruno templomtól.",
+            "ro": "Scurtă plimbare de la Saint-Bruno.",
+            "en": "Short walk from the Saint-Bruno church."
+          }
+        },
+        {
+          "name": "Fresque des Lyonnais",
+          "coords": [
+            4.828,
+            45.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Abschluss am Flussufer.",
+            "hu": "A nap zárása a folyóparton.",
+            "ro": "Finalul zilei pe malul râului.",
+            "en": "Wrapping up the day by the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt das Cluster-Prinzip: Wir parken oben in Croix-Rousse für die Seidenweber-Geschichte, fahren dann zum weitläufigen Tête d'Or Park für Natur pur und beenden den Tag an den historischen Hängen und dem Saône-Ufer. So vermeiden wir unnötiges Laufen an steilen Hängen, genießen aber die besten Aussichtspunkte Lyons.",
+        "hu": "Ez az autós túra a klaszter-elvet követi: leparkolunk a Croix-Rousse tetején a selyemszövők emlékeiért, majd átgurulunk a hatalmas Tête d'Or parkba a természetért, végül a történelmi domboldalon és a Saône partján zárunk. Így elkerüljük a felesleges hegymenetet, de látjuk Lyon legszebb pontjait.",
+        "ro": "Acest tur auto folosește principiul clusterelor: parcăm sus în Croix-Rousse pentru istoria mătăsarilor, apoi conducem la vastul parc Tête d'Or pentru natură și terminăm ziua pe versanții istorici și malul Sonei. Astfel evităm mersul inutil pe pante abrupte, dar vedem cele mai frumoase puncte din Lyon.",
+        "en": "This car tour uses the cluster principle: we park at the top of Croix-Rousse for the silk history, then drive to the sprawling Tête d'Or park for nature, and finish on the historical slopes and Saône riverbank. This avoids unnecessary steep climbs while ensuring you see Lyon's top highlights comfortably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Assiette du Parc",
+            "tip": "Gourmet-Mittagessen direkt am Rande des Parks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Assiette du Parc",
+            "tip": "Gourmet ebéd közvetlenül a park szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Assiette du Parc",
+            "tip": "Prânz gourmet chiar la marginea parcului."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Assiette du Parc",
+            "tip": "Gourmet lunch located right at the edge of the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten (Tête d'Or)",
+            "tip": "Wunderschön und ruhig im Frühling.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert (Tête d'Or)",
+            "tip": "Gyönyörű és csendes, különösen tavasszal.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Trandafiri",
+            "tip": "Superbă și liniștită, mai ales primăvara.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden (Tête d'Or)",
+            "tip": "Beautiful and quiet, especially during spring bloom.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "Ein kurzer Umweg mit dem Auto wert für Feinschmecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "Egy rövid autós kitérőt megér az ínyenceknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "Merită o scurtă abatere cu mașina pentru gurmanzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "Worth a short drive for serious foodies (indoor market)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Croix-Rousse ist schwierig; nutzen Sie die Parkhäuser.",
+          "Vermeiden Sie die Rushhour am Saône-Ufer.",
+          "Die Straßen auf dem Hügel sind oft Einbahnstraßen.",
+          "Nutzen Sie eine Park-App wie 'EasyPark' für die Straßenparkplätze."
+        ],
+        "hu": [
+          "A parkolás nehéz a Croix-Rousse-on, használd a parkolóházakat.",
+          "Kerüld a csúcsforgalmat a Saône-parti utakon.",
+          "A dombon lévő utcák gyakran egyirányúak és szűkek.",
+          "Használj parkoló appot az utcai díjfizetéshez."
+        ],
+        "ro": [
+          "Parcarea este dificilă în Croix-Rousse; folosiți parcările etajate.",
+          "Evitați orele de vârf pe malul râului Saône.",
+          "Străzile de pe deal sunt adesea cu sens unic.",
+          "Folosiți o aplicație de parcare pentru locurile de pe stradă."
+        ],
+        "en": [
+          "Parking is tough in Croix-Rousse; use official parking garages.",
+          "Avoid rush hour traffic on the Saône riverfront roads.",
+          "Hill streets are often narrow and one-way only.",
+          "Use a parking app like 'EasyPark' for street parking payments."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Mur des Canuts",
+          "coords": [
+            4.831,
+            45.777
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Metro C bis Station 'Hénon'.",
+            "hu": "C metróval a 'Hénon' megállóig.",
+            "ro": "Metrou linia C până la stația 'Hénon'.",
+            "en": "Take Metro Line C to 'Hénon' station."
+          }
+        },
+        {
+          "name": "Maison de la Croix-Rousse",
+          "coords": [
+            4.833,
+            45.775
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß innerhalb des Viertels.",
+            "hu": "Gyalogos séta a negyeden belül.",
+            "ro": "Mers pe jos în interiorul cartierului.",
+            "en": "Short walk within the district."
+          }
+        },
+        {
+          "name": "Gros Caillou",
+          "coords": [
+            4.836,
+            45.774
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nähe Metro 'Croix-Rousse'.",
+            "hu": "A 'Croix-Rousse' metró közelében.",
+            "ro": "Aproape de metrou 'Croix-Rousse'.",
+            "en": "Near the 'Croix-Rousse' metro station."
+          }
+        },
+        {
+          "name": "Parc de la Tête d'Or (Nord)",
+          "coords": [
+            4.855,
+            45.783
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bus C1 oder C6 vom Hotel de Ville.",
+            "hu": "C1 vagy C6 busz az Hotel de Ville felől.",
+            "ro": "Autobuz C1 sau C6 de la Hotel de Ville.",
+            "en": "Take bus C1 or C6 from Hotel de Ville area."
+          }
+        },
+        {
+          "name": "Amphithéâtre des Trois Gaules",
+          "coords": [
+            4.831,
+            45.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bus S6 verbindet den Hügel effizient.",
+            "hu": "Az S6-os busz hatékonyan közlekedik a dombon.",
+            "ro": "Autobuzul S6 face legătura eficientă pe deal.",
+            "en": "Bus S6 is the efficient 'shuttle' for the hill slopes."
+          }
+        },
+        {
+          "name": "Kirche Saint-Bruno-des-Chartreux",
+          "coords": [
+            4.825,
+            45.772
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder Spaziergang.",
+            "hu": "Rövid buszozás vagy séta.",
+            "ro": "O scurtă călătorie cu autobuzul sau plimbare.",
+            "en": "Short bus ride or a 10-minute walk."
+          }
+        },
+        {
+          "name": "Fresque des Lyonnais",
+          "coords": [
+            4.828,
+            45.768
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nähe Busstation 'La Feuillée'.",
+            "hu": "A 'La Feuillée' buszmegálló közelében.",
+            "ro": "Lângă stația de autobuz 'La Feuillée'.",
+            "en": "Close to the 'La Feuillée' bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Lyon hat ein exzellentes ÖPNV-Netz. Wir nutzen die einzigartige Zahnradbahn-Metro C, um das Croix-Rousse-Plateau zu erreichen. Die Busse C1 und S6 verbinden uns mit dem Park und den steilen Hängen, sodass wir die Stadt ohne große Anstrengung von oben nach unten erleben können, von den Seidenwebern bis zu den Ufern der Saône.",
+        "hu": "Lyon tömegközlekedése kiváló. A különleges C metróval (fogaskerekű) jutunk fel a Croix-Rousse fennsíkjára. A C1-es és S6-os buszok összekötnek minket a parkkal és a meredek domboldalakkal, így erőlködés nélkül járhatjuk be a várost a selyemszövőktől a Saône partjáig.",
+        "ro": "Transportul public din Lyon este excelent. Folosim metroul special linia C pentru a ajunge pe platoul Croix-Rousse. Autobuzele C1 și S6 ne conectează cu parcul și versanții abrupți, permițându-ne să experimentăm orașul fără efort, de la mătăsari până la malurile Sonei.",
+        "en": "Lyon has an excellent transit network. We use the unique Metro Line C (cogwheel) to reach the Croix-Rousse plateau. Buses C1 and S6 link us to the park and steep slopes, allowing you to experience the city from top to bottom—from silk history to the Saône banks—without the strenuous climbs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Holen Sie sich eine Praline-Tarte zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Vegyél egy szelet híres lyoni pralinés tart-ot útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Luați o tartă cu praline pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Grab a famous pink praline tart to enjoy on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Im Gewächshaus des Tête d'Or Parks.",
+            "emoji": "🌵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "A Tête d'Or park pálmaházaiban.",
+            "emoji": "🌵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "În serele parcului Tête d'Or.",
+            "emoji": "🌵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Inside the greenhouses of Tête d'Or Park.",
+            "emoji": "🌵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "TCL Boutique",
+            "tip": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "TCL iroda",
+            "tip": "Vegyél napijegyet a korlátlan utazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique TCL",
+            "tip": "Cumpărați un abonament de o zi pentru călătorii nelimitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "TCL Boutique",
+            "tip": "Buy a day pass for unlimited travel on all transit modes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Einzelticket ist 60 Minuten lang gültig für Umstiege.",
+          "Die Metro C ist die steilste U-Bahn der Welt.",
+          "Nutzen Sie die App 'TCL Lyon' für Echtzeit-Fahrpläne.",
+          "Validieren Sie Ihr Ticket bei jedem Einstieg, auch beim Umsteigen."
+        ],
+        "hu": [
+          "Egy sima vonaljegy 60 percig érvényes átszállással is.",
+          "A C metró a világ egyik legmeredekebb földalattija.",
+          "Használd a 'TCL Lyon' appot a valós idejű menetrendhez.",
+          "Minden felszállásnál és átszállásnál érvényesítsd a jegyed."
+        ],
+        "ro": [
+          "Un bilet simplu este valabil 60 de minute pentru transferuri.",
+          "Metroul C este unul dintre cele mai abrupte din lume.",
+          "Folosiți aplicația 'TCL Lyon' pentru orare în timp real.",
+          "Validați biletul la fiecare urcare, inclusiv la transfer."
+        ],
+        "en": [
+          "A single ticket is valid for 60 minutes including transfers.",
+          "Metro Line C is one of the steepest subway lines in the world.",
+          "Use the 'TCL Lyon' app for real-time schedules and routes.",
+          "Validate your ticket every time you board, even when transferring."
+        ]
+      }
+    }
+  }
+}

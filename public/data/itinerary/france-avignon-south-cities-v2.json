@@ -1,0 +1,1034 @@
+{
+  "city_id": "france-avignon-south-cities-v2",
+  "anchor": {
+    "name": "Avignon Centre",
+    "coords": [
+      4.8,
+      43.92
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place de l'Horloge",
+          "coords": [
+            4.8058,
+            43.9488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus und das Opernhaus bei einem Morgenkaffee.",
+            "hu": "Csodálja meg a városházát és az operát egy reggeli kávé mellett.",
+            "ro": "Admirați primăria și opera la o cafea de dimineață.",
+            "en": "Admire the town hall and the opera house over a morning coffee."
+          }
+        },
+        {
+          "name": "Papstpalast (Palais des Papes)",
+          "coords": [
+            4.8075,
+            43.9507
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Histopad für eine virtuelle Zeitreise ins 14. Jahrhundert.",
+            "hu": "Használja a Histopadot egy virtuális időutazáshoz a 14. századba.",
+            "ro": "Folosiți Histopad-ul pentru o călătorie virtuală în secolul al XIV-lea.",
+            "en": "Use the Histopad for a virtual time travel back to the 14th century."
+          }
+        },
+        {
+          "name": "Kathedrale Notre-Dame des Doms",
+          "coords": [
+            4.8078,
+            43.9515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die vergoldete Bleistatue der Jungfrau Maria auf dem Turm.",
+            "hu": "Figyelje meg a torony tetején lévő aranyozott Szűz Mária szobrot.",
+            "ro": "Observați statuia aurită a Fecioarei Maria de pe turn.",
+            "en": "Look for the gilded lead statue of the Virgin Mary atop the tower."
+          }
+        },
+        {
+          "name": "Jardin des Doms",
+          "coords": [
+            4.8075,
+            43.9525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Rhône und den Mont Ventoux.",
+            "hu": "Élvezze a panorámát a Rhone-folyóra és a Mont Ventoux-ra.",
+            "ro": "Bucurați-vă de panorama asupra Ronului și a Muntelui Ventoux.",
+            "en": "Enjoy the panoramic view of the Rhône and Mont Ventoux."
+          }
+        },
+        {
+          "name": "Musée du Petit Palais",
+          "coords": [
+            4.8068,
+            43.952
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Herausragende Sammlung italienischer Renaissance-Malerei.",
+            "hu": "Az olasz reneszánsz festészet kiemelkedő gyűjteménye.",
+            "ro": "Colecție remarcabilă de pictură renascentistă italiană.",
+            "en": "Outstanding collection of Italian Renaissance paintings."
+          }
+        },
+        {
+          "name": "Pont d'Avignon (Saint-Bénézet)",
+          "coords": [
+            4.805,
+            43.954
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tanzen Sie auf der Brücke, wie es das berühmte Volkslied vorschlägt.",
+            "hu": "Táncoljon a hídon, ahogy a híres népdal javasolja.",
+            "ro": "Dansati pe pod, așa cum sugerează celebrul cântec popular.",
+            "en": "Dance on the bridge as the famous folk song suggests."
+          }
+        },
+        {
+          "name": "Rue des Teinturiers",
+          "coords": [
+            4.815,
+            43.945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die charmanteste Straße der Stadt mit alten Wasserrädern.",
+            "hu": "A város legbájosabb utcája régi vízimalom-kerekekkel.",
+            "ro": "Cea mai fermecătoare stradă din oraș, cu roți hidraulice vechi.",
+            "en": "The city's most charming street with old water wheels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Spaziergang führt Sie durch das Herz von Avignon. Der Vormittag ist der Erforschung der pápstlichen Macht gewidmet, vom belebten Place de l'Horloge bis zum monumentalen Papstpalast. Nach dem Besuch der Kathedrale bietet der Jardin des Doms eine willkommene Ruhepause. Der Nachmittag steht im Zeichen der Kunst im Petit Palais und der Legende der Brücke Saint-Bénézet, bevor der Tag in der malerischen Rue des Teinturiers ausklingt.",
+        "hu": "Ez a séta Avignon szívén vezet keresztül. A délelőtt a pápai hatalom felfedezésének szentelt, a pezsgő Place de l'Horloge-tól a monumentális Pápai Palotáig. A katedrális meglátogatása után a Jardin des Doms kertje kínál pihenőt. A délután a művészeté a Petit Palais-ban és a Szent Bénezet-híd legendájáé, mielőtt a nap a festői Rue des Teinturiers utcáján zárulna.",
+        "ro": "Această plimbare vă poartă prin inima Avignonului. Dimineața este dedicată explorării puterii papale, de la animata Place de l'Horloge până la monumentalul Palat al Papilor. După vizitarea catedralei, Jardin des Doms oferă o pauză binemeritată. După-amiaza este marcată de artă la Petit Palais și de legenda podului Saint-Bénézet, înainte de a încheia ziua pe pitoreasca Rue des Teinturiers.",
+        "en": "This walk takes you through the heart of Avignon. The morning is dedicated to exploring papal power, from the bustling Place de l'Horloge to the monumental Palais des Papes. After visiting the cathedral, the Jardin des Doms offers a welcome break. The afternoon focuses on art at the Petit Palais and the legend of the Saint-Bénézet bridge, before ending the day in the picturesque Rue des Teinturiers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Mirande",
+            "tip": "Gehobene provenzalische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Les Halles d'Avignon",
+            "tip": "Überdachter Markt für lokale Spezialitäten wie Oliven und Pastis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Mirande",
+            "tip": "Elegáns provence-i konyha történelmi környezetben."
+          },
+          {
+            "name": "Les Halles d'Avignon",
+            "tip": "Fedett piac helyi különlegességekkel, például olajbogyóval és pastisszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Mirande",
+            "tip": "Bucătărie provensală rafinată într-un cadru istoric."
+          },
+          {
+            "name": "Les Halles d'Avignon",
+            "tip": "Piață acoperită pentru specialități locale, cum ar fi măslinele și pastisul."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Mirande",
+            "tip": "Upscale Provençal cuisine in a historical setting."
+          },
+          {
+            "name": "Les Halles d'Avignon",
+            "tip": "Indoor market for local specialties like olives and pastis."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Doms",
+            "tip": "Ruhiger Park mit Aussichtsterrassen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Île de la Barthelasse",
+            "tip": "Grüne Oase auf der anderen Seite der Rhône.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Doms",
+            "tip": "Csendes park kilátóteraszokkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Île de la Barthelasse",
+            "tip": "Zöld oázis a Rhone túlsó partján.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Doms",
+            "tip": "Parc liniștit cu terase panoramice.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Île de la Barthelasse",
+            "tip": "Oază de verdeață pe cealaltă parte a Ronului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Doms",
+            "tip": "Quiet park with panoramic terraces.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Île de la Barthelasse",
+            "tip": "Green oasis on the other side of the Rhône.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la République",
+            "tip": "Haupteinkaufsstraße mit bekannten Marken."
+          },
+          {
+            "name": "Lavender & Co",
+            "tip": "Authentische Lavendelprodukte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la République",
+            "tip": "Fő bevásárlóutca ismert márkákkal."
+          },
+          {
+            "name": "Lavender & Co",
+            "tip": "Eredeti levendulatermékek a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la République",
+            "tip": "Principala stradă comercială cu mărci cunoscute."
+          },
+          {
+            "name": "Lavender & Co",
+            "tip": "Produse autentice de lavandă din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la République",
+            "tip": "Main shopping street with well-known brands."
+          },
+          {
+            "name": "Lavender & Co",
+            "tip": "Authentic lavender products from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besorgen Sie sich den Avignon City Pass für Rabatte bei Eintritten.",
+          "Während des Theaterfestivals im Juli ist die Stadt sehr voll.",
+          "Die meisten Sehenswürdigkeiten liegen innerhalb der Stadtmauern.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Vásároljon Avignon City Pass-t a kedvezményes belépőkhöz.",
+          "A júliusi színházi fesztivál idején a város nagyon zsúfolt.",
+          "A legtöbb látnivaló a városfalakon belül található.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Cumpărați Avignon City Pass pentru reduceri la intrări.",
+          "În timpul festivalului de teatru din iulie, orașul este foarte aglomerat.",
+          "Majoritatea obiectivelor turistice se află în interiorul zidurilor cetății.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite."
+        ],
+        "en": [
+          "Get the Avignon City Pass for discounts on entrance fees.",
+          "The city is very crowded during the theater festival in July.",
+          "Most attractions are located within the city walls.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Rue des Teinturiers",
+          "coords": [
+            4.815,
+            43.945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie ruhig in den Tag in dieser historischen Gasse.",
+            "hu": "Kezdje nyugodtan a napot ebben a történelmi utcában.",
+            "ro": "Începeți ziua liniștit pe această alee istorică.",
+            "en": "Start your day quietly in this historic lane."
+          }
+        },
+        {
+          "name": "Papstpalast",
+          "coords": [
+            4.8075,
+            43.9507
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Place du Palais sicher ab.",
+            "hu": "Parkolja le biciklijét biztonságosan a Place du Palais-n.",
+            "ro": "Parcați bicicleta în siguranță în Place du Palais.",
+            "en": "Park your bike safely at Place du Palais."
+          }
+        },
+        {
+          "name": "Pont d'Avignon",
+          "coords": [
+            4.805,
+            43.954
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:50",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das obligatorische Foto der halben Brücke.",
+            "hu": "Rövid megálló a kötelező fotóhoz a fél hídról.",
+            "ro": "Scurtă oprire pentru fotografia obligatorie a podului pe jumătate.",
+            "en": "Short stop for the obligatory photo of the half bridge."
+          }
+        },
+        {
+          "name": "Île de la Barthelasse",
+          "coords": [
+            4.795,
+            43.96
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick mit Blick auf die Stadtmauer.",
+            "hu": "Tökéletes egy piknikhez, kilátással a városfalakra.",
+            "ro": "Perfect pentru un picnic cu vedere la zidurile orașului.",
+            "en": "Perfect for a picnic with a view of the city walls."
+          }
+        },
+        {
+          "name": "Musée Calvet",
+          "coords": [
+            4.803,
+            43.946
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kunst und Archäologie in einem prächtigen Palais.",
+            "hu": "Fedezze fel a művészetet és a régészetet egy pompás palotában.",
+            "ro": "Descoperiți arta și arheologia într-un palat magnific.",
+            "en": "Discover art and archaeology in a magnificent palace."
+          }
+        },
+        {
+          "name": "Place de l'Horloge",
+          "coords": [
+            4.8058,
+            43.9488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag bei einem Glas Wein aus der Region ausklingen.",
+            "hu": "Zárja a napot egy pohár helyi borral.",
+            "ro": "Încheiați ziua cu un pahar de vin local.",
+            "en": "End the day with a glass of local wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie nicht nur das Zentrum, sondern auch die grüne Île de la Barthelasse. Der Vormittag gehört den Highlights der Altstadt, während die Mittagszeit auf der Insel eine entspannte Flucht aus dem Trubel bietet. Die Rückfahrt führt Sie zum eleganten Musée Calvet und endet schließlich am belebten Uhrenplatz.",
+        "hu": "Kerékpárral nemcsak a központot, hanem a zöldellő Île de la Barthelasse szigetet is felfedezheti. A délelőtt az óváros fénypontjaié, míg a délidő a szigeten pihentető menekülést kínál a nyüzsgés elől. A visszaút az elegáns Musée Calvet-hez vezet, majd végül a pezsgő óratoronynál ér véget.",
+        "ro": "Cu bicicleta veți explora nu doar centrul, ci și insula verde Île de la Barthelasse. Dimineața aparține punctelor de atracție din centrul vechi, în timp ce amiaza pe insulă oferă o evadare relaxantă din agitație. Drumul de întoarcere vă poartă la elegantul Musée Calvet și se încheie în final în animata Place de l'Horloge.",
+        "en": "By bike, you will explore not only the center but also the green Île de la Barthelasse. The morning belongs to the highlights of the old town, while midday on the island offers a relaxed escape from the hustle and bustle. The return trip leads to the elegant Musée Calvet and finally ends at the lively Place de l'Horloge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bercail",
+            "tip": "Restaurant auf der Insel mit tollem Blick auf den Papstpalast."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bercail",
+            "tip": "Étterem a szigeten, remek kilátással a Pápai Palotára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bercail",
+            "tip": "Restaurant pe insulă cu o vedere minunată spre Palatul Papilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bercail",
+            "tip": "Restaurant on the island with a great view of the Palais des Papes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Rhône",
+            "tip": "Ruhige Radwege entlang des Flusses.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rhone partja",
+            "tip": "Csendes kerékpárutak a folyó mentén.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Ronului",
+            "tip": "Piste de biciclete liniștite de-a lungul râului.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhône banks",
+            "tip": "Quiet bike paths along the river.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo Cité",
+            "tip": "Fahrradverleih und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo Cité",
+            "tip": "Kerékpárkölcsönző és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velo Cité",
+            "tip": "Închiriere de biciclete și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo Cité",
+            "tip": "Bike rental and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die kostenlose Fähre (Navette fluviale) zur Insel.",
+          "Achten Sie in der Altstadt auf Fußgängerzonen.",
+          "Die Insel Barthelasse ist flach und sehr angenehm zu befahren."
+        ],
+        "hu": [
+          "Használja az ingyenes kompot (Navette fluviale) a szigetre.",
+          "Figyeljen a gyalogos zónákra az óvárosban.",
+          "A Barthelasse-sziget sík és nagyon kellemes rajta biciklizni."
+        ],
+        "ro": [
+          "Folosiți feribotul gratuit (Navette fluviale) către insulă.",
+          "Atenție la zonele pietonale din centrul vechi.",
+          "Insula Barthelasse este plată și foarte plăcută pentru pedalat."
+        ],
+        "en": [
+          "Use the free ferry (Navette fluviale) to the island.",
+          "Pay attention to pedestrian zones in the old town.",
+          "Barthelasse island is flat and very pleasant to cycle on."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place de l'Horloge (Cluster A)",
+          "coords": [
+            4.8058,
+            43.9488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Palais des Papes.",
+            "hu": "Parkoljon a Palais des Papes parkolóházban.",
+            "ro": "Parcați în parcarea Palais des Papes.",
+            "en": "Park at the Palais des Papes parking garage."
+          }
+        },
+        {
+          "name": "Papstpalast (Cluster A)",
+          "coords": [
+            4.8075,
+            43.9507
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": "Jardin des Doms (Cluster A)",
+          "coords": [
+            4.8075,
+            43.9525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang im Park vor der Weiterfahrt.",
+            "hu": "Séta a parkban a továbbutazás előtt.",
+            "ro": "Plimbare în parc înainte de a pleca mai departe.",
+            "en": "Walk in the park before continuing the drive."
+          }
+        },
+        {
+          "name": "Fort Saint-André (Cluster B)",
+          "coords": [
+            4.799,
+            43.966
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Villeneuve-lès-Avignon für eine tolle Aussicht.",
+            "hu": "Rövid autóút Villeneuve-lès-Avignonba a nagyszerű kilátásért.",
+            "ro": "Scurt drum cu mașina până la Villeneuve-lès-Avignon pentru o vedere superbă.",
+            "en": "Short drive to Villeneuve-lès-Avignon for a great view."
+          }
+        },
+        {
+          "name": "Chartreuse du Val de Bénédiction (Cluster B)",
+          "coords": [
+            4.796,
+            43.964
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beeindruckendes ehemaliges Kartäuserkloster.",
+            "hu": "Lenyűgöző egykori karthauzi kolostor.",
+            "ro": "Fostă mănăstire cartusiană impresionantă.",
+            "en": "Impressive former Carthusian monastery."
+          }
+        },
+        {
+          "name": "Musée Calvet (Cluster C)",
+          "coords": [
+            4.803,
+            43.946
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Rückkehr nach Avignon Süd.",
+            "hu": "Visszatérés Avignon déli részére.",
+            "ro": "Întoarcere în Avignon Sud.",
+            "en": "Return to Avignon South."
+          }
+        },
+        {
+          "name": "Rue des Teinturiers (Cluster C)",
+          "coords": [
+            4.815,
+            43.945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang entlang des Kanals Sorgue.",
+            "hu": "Séta a Sorgue-csatorna mentén.",
+            "ro": "Plimbare de-a lungul canalului Sorgue.",
+            "en": "Walk along the Sorgue canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Auto-Tour kombiniert das historische Zentrum von Avignon mit dem charmanten Villeneuve-lès-Avignon auf der anderen Rheinseite. Nach den Highlights am Vormittag fahren Sie über die Brücke, um die mächtige Festung Saint-André zu besichtigen. Den Abschluss bilden das Musée Calvet und die stimmungsvolle Rue des Teinturiers.",
+        "hu": "Ez az autós túra Avignon történelmi központját ötvözi a túloldalon fekvő bájos Villeneuve-lès-Avignonnal. A délelőtti látnivalók után átkel a hídon, hogy megtekintse a hatalmas Saint-André erődöt. A napot a Musée Calvet és a hangulatos Rue des Teinturiers zárja.",
+        "ro": "Acest tur cu mașina combină centrul istoric al Avignonului cu fermecătorul Villeneuve-lès-Avignon de pe cealaltă parte. După punctele de atracție de dimineață, veți traversa podul pentru a vizita puternica cetate Saint-André. Încheierea este formată de Musée Calvet și atmosfera de pe Rue des Teinturiers.",
+        "en": "This car tour combines the historical center of Avignon with charming Villeneuve-lès-Avignon on the other side. After the morning highlights, you drive across the bridge to visit the mighty Saint-André fortress. The day ends with Musée Calvet and the atmospheric Rue des Teinturiers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Moutardier du Pape",
+            "tip": "Traditionelle Gerichte direkt am Papstpalast."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Moutardier du Pape",
+            "tip": "Hagyományos ételek közvetlenül a Pápai Palotánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Moutardier du Pape",
+            "tip": "Mâncăruri tradiționale chiar lângă Palatul Papilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Moutardier du Pape",
+            "tip": "Traditional dishes right by the Palais des Papes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villeneuve-lès-Avignon",
+            "tip": "Ruhigere Alternative zur Altstadt von Avignon.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villeneuve-lès-Avignon",
+            "tip": "Csendesebb alternatíva Avignon óvárosához képest.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villeneuve-lès-Avignon",
+            "tip": "O alternativă mai liniștită la centrul vechi din Avignon.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villeneuve-lès-Avignon",
+            "tip": "Quieter alternative to Avignon's old town.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitäten in Villeneuve",
+            "tip": "Bekannt für seine Antiquitätenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikvitások Villeneuve-ben",
+            "tip": "Híres az antikváriusairól és régiségboltjairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antichități în Villeneuve",
+            "tip": "Cunoscut pentru magazinele sale de antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antiques in Villeneuve",
+            "tip": "Known for its antique shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die großen Parkhäuser am Rande der Altstadt.",
+          "Vermeiden Sie es, in die engen Gassen des Zentrums zu fahren.",
+          "Parken in Villeneuve ist oft einfacher als in Avignon."
+        ],
+        "hu": [
+          "Használja az óváros szélén található nagy parkolóházakat.",
+          "Kerülje az autóval való behajtást a központ szűk utcáiba.",
+          "A parkolás Villeneuve-ben gyakran egyszerűbb, mint Avignonban."
+        ],
+        "ro": [
+          "Folosiți parcările mari de la marginea centrului vechi.",
+          "Evitați să intrați cu mașina pe străzile înguste din centru.",
+          "Parcarea în Villeneuve este adesea mai ușoară decât în Avignon."
+        ],
+        "en": [
+          "Use the large parking garages on the edge of the old town.",
+          "Avoid driving into the narrow streets of the center.",
+          "Parking in Villeneuve is often easier than in Avignon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Avignon Centre Station",
+          "coords": [
+            4.805,
+            43.942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Busse und Züge direkt vor der Stadtmauer.",
+            "hu": "Buszok és vonatok indítóállomása közvetlenül a városfal előtt.",
+            "ro": "Punct de plecare pentru autobuze și trenuri, chiar în fața zidurilor.",
+            "en": "Starting point for buses and trains right in front of the city walls."
+          }
+        },
+        {
+          "name": "Place de l'Horloge (District A)",
+          "coords": [
+            4.8058,
+            43.9488
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem kleinen Elektrobus (Baladine) ins Zentrum.",
+            "hu": "Kis elektromos busszal (Baladine) a központba.",
+            "ro": "Cu micul autobuz electric (Baladine) în centru.",
+            "en": "Take the small electric bus (Baladine) to the center."
+          }
+        },
+        {
+          "name": "Papstpalast (District A)",
+          "coords": [
+            4.8075,
+            43.9507
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Uhrenplatz.",
+            "hu": "Rövid séta az óratoronytól.",
+            "ro": "Scurtă plimbare de la piața ceasului.",
+            "en": "Short walk from Clock Square."
+          }
+        },
+        {
+          "name": "Pont d'Avignon (District B)",
+          "coords": [
+            4.805,
+            43.954
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Buslinie 4 oder 5 Richtung Rhône.",
+            "hu": "4-es vagy 5-ös busz a Rhone felé.",
+            "ro": "Linia de autobuz 4 sau 5 spre Ron.",
+            "en": "Bus line 4 or 5 towards the Rhône."
+          }
+        },
+        {
+          "name": "Jardin des Doms (District B)",
+          "coords": [
+            4.8075,
+            43.9525
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Pont d'Avignon.",
+            "hu": "Gyalogosan elérhető a hídtól.",
+            "ro": "Accesibil pe jos de la pod.",
+            "en": "Accessible on foot from the bridge."
+          }
+        },
+        {
+          "name": "Rue des Teinturiers (District C)",
+          "coords": [
+            4.815,
+            43.945
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Bus für die Fahrt durch die Altstadt.",
+            "hu": "Használja a városi buszt az óvároson keresztüli úthoz.",
+            "ro": "Folosiți autobuzul urban pentru drumul prin centrul vechi.",
+            "en": "Use the city bus for the ride through the old town."
+          }
+        },
+        {
+          "name": "Musée Calvet (District C)",
+          "coords": [
+            4.803,
+            43.946
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestelle 'République'.",
+            "hu": "A 'République' megálló közelében.",
+            "ro": "În apropierea stației 'République'.",
+            "en": "Near the 'République' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der City-Busse und der 'Baladine' ist Avignon auch ohne Auto leicht zu erkunden. Der Vormittag konzentriert sich auf den Papstpalast-Bereich, während der Nachmittag Sie zur berühmten Brücke und zum entspannenden Jardin des Doms führt. Der Tag endet in den südlichen Vierteln der Altstadt bei der Rue des Teinturiers.",
+        "hu": "A városi buszoknak és a 'Baladine'-nak köszönhetően Avignon autó nélkül is könnyen felfedezhető. A délelőtt a Pápai Palota környékére összpontosít, míg a délután a híres hídhoz és a pihentető Jardin des Doms-hoz vezet. A nap az óváros déli negyedeiben, a Rue des Teinturiers-nél zárul.",
+        "ro": "Datorită autobuzelor urbane și sistemului 'Baladine', Avignon este ușor de explorat și fără mașină. Dimineața se concentrează pe zona Palatului Papilor, în timp ce după-amiaza vă poartă la celebrul pod și la relaxanta Jardin des Doms. Ziua se încheie în cartierele sudice ale centrului vechi, lângă Rue des Teinturiers.",
+        "en": "Thanks to city buses and the 'Baladine', Avignon is easy to explore even without a car. The morning focuses on the Palais des Papes area, while the afternoon leads you to the famous bridge and the relaxing Jardin des Doms. The day ends in the southern quarters of the old town near Rue des Teinturiers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Isle Sonnante",
+            "tip": "Kleines, gemütliches Restaurant mit kreativer Marktküche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Isle Sonnante",
+            "tip": "Kicsi, hangulatos étterem kreatív piaci konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Isle Sonnante",
+            "tip": "Restaurant mic și primitor, cu bucătărie creativă bazată pe produse din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Isle Sonnante",
+            "tip": "Small, cozy restaurant with creative market cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abtei Saint-Ruf",
+            "tip": "Ruhige Ruinen etwas abseits des Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Ruf apátság",
+            "tip": "Csendes romok kicsit távolabb a központtól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abația Saint-Ruf",
+            "tip": "Ruine liniștite, puțin în afara centrului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Ruf Abbey",
+            "tip": "Quiet ruins a bit away from the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pure Provence",
+            "tip": "Lokale Seifen und Düfte direkt am Bahnhofsweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pure Provence",
+            "tip": "Helyi szappanok és illatok az állomáshoz vezető úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pure Provence",
+            "tip": "Săpunuri și parfumuri locale, chiar pe drumul spre gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pure Provence",
+            "tip": "Local soaps and scents right on the way to the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Pass Journée) für den Nahverkehr Orizo.",
+          "Die Baladine-Busse fahren auf Abruf in der Altstadt.",
+          "Die Fahrpläne sind am Wochenende eingeschränkt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Pass Journée) az Orizo tömegközlekedési hálózatára.",
+          "A Baladine buszok igény szerint közlekednek az óvárosban.",
+          "A menetrendek hétvégén korlátozottabbak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Pass Journée) pentru transportul public Orizo.",
+          "Autobuzele Baladine circulă la cerere în centrul vechi.",
+          "Orarele sunt mai limitate în weekend."
+        ],
+        "en": [
+          "Buy a day ticket (Pass Journée) for the Orizo public transport.",
+          "Baladine buses run on demand in the old town.",
+          "Schedules are more limited on weekends."
+        ]
+      }
+    }
+  }
+}

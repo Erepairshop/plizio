@@ -43,7 +43,7 @@ header .langs{display:flex;gap:.25rem}
 <header>
 <a class="back" href="/learn/" aria-label="Vissza">‹</a>
 <h1>Óceánia térkép</h1>
-<div class="langs"><a class="lang" href="../de/">DE</a><span class="lang on">HU</span><a class="lang" href="../ro/">RO</a><a class="lang" href="../en/">EN</a></div>
+<div class="langs"><a class="lang" href="/oceania-map/de/">DE</a><span class="lang on">HU</span><a class="lang" href="/oceania-map/ro/">RO</a><a class="lang" href="/oceania-map/en/">EN</a></div>
 </header>
 <div id="stage">
   <svg id="svg" viewBox="0 0 1000.00 658.52" preserveAspectRatio="xMidYMid meet">
@@ -56,6 +56,7 @@ header .langs{display:flex;gap:.25rem}
 <div class="toast" id="toast"></div>
 <script>
 const LANG="hu",W=1000,H=658.52,SOON="Hamarosan";
+try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gC=document.getElementById('gC');
 let s=1,tx=0,ty=0;

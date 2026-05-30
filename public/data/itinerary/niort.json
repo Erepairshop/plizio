@@ -1,0 +1,990 @@
+{
+  "city_id": "niort",
+  "anchor": {
+    "name": "Niort",
+    "coords": [
+      -0.46,
+      46.323
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im Herzen der Stadt auf diesem weitläufigen Platz mit seinen Gärten.",
+            "hu": "Kezdje a napot a város szívében, a kertekkel övezett hatalmas téren.",
+            "ro": "Începeți ziua în inima orașului, în această piață vastă cu grădini.",
+            "en": "Start your day in the heart of the city on this vast square with its gardens."
+          }
+        },
+        {
+          "name": "Les Halles",
+          "coords": [
+            -0.461,
+            46.324
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Markthalle im Baltard-Stil für lokale Produkte.",
+            "hu": "Látogasson el a Baltard-stílusú vásárcsarnokba helyi termékekért.",
+            "ro": "Vizitați hala de piață în stil Baltard pentru produse locale.",
+            "en": "Visit the Baltard-style market hall for local regional products."
+          }
+        },
+        {
+          "name": "Donjon von Niort",
+          "coords": [
+            -0.463,
+            46.325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein prächtiger Doppel-Wohnturm aus dem 12. Jahrhundert.",
+            "hu": "Pompás 12. századi kettős lakótorony a Sèvre partján.",
+            "ro": "Un magnific turn dublu de locuit din secolul al XII-lea.",
+            "en": "A magnificent 12th-century double keep on the banks of the Sèvre."
+          }
+        },
+        {
+          "name": "Le Pilori",
+          "coords": [
+            -0.462,
+            46.326
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das ehemalige Rathaus im Renaissance-Stil ist ein architektonisches Juwel.",
+            "hu": "A reneszánsz stílusú egykori városháza igazi építészeti ékszerdoboz.",
+            "ro": "Fosta primărie în stil renascentist este o bijuterie arhitecturală.",
+            "en": "The Renaissance-style former town hall is an architectural gem."
+          }
+        },
+        {
+          "name": "Kirche Notre-Dame",
+          "coords": [
+            -0.465,
+            46.326
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die hohen Glasfenster.",
+            "hu": "Csodálja meg a gótikus építészetet és a magas ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura gotică și vitraliile înalte.",
+            "en": "Admire the Gothic architecture and the high stained-glass windows."
+          }
+        },
+        {
+          "name": "Kirche Saint-André",
+          "coords": [
+            -0.46,
+            46.328
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Zwillingsspitzen dieser Kirche prägen die Skyline von Niort.",
+            "hu": "A templom kettős tornya meghatározza Niort látképét.",
+            "ro": "Turlele gemene ale acestei biserici definesc orizontul orașului.",
+            "en": "The twin spires of this church define the Niort skyline."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            -0.468,
+            46.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem wunderschönen botanischen Garten.",
+            "hu": "Lazítson ebben a gyönyörű botanikus kertben.",
+            "ro": "Relaxați-vă în această minunată grădină botanică.",
+            "en": "Relax in this beautiful botanical garden overlooking the river."
+          }
+        },
+        {
+          "name": "Port Boinot",
+          "coords": [
+            -0.472,
+            46.325
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ehemaliges Industriegebiet, das in einen lebendigen Kulturraum umgewandelt wurde.",
+            "hu": "Egykori ipari terület, amelyet életteli kulturális térré alakítottak át.",
+            "ro": "Un fost sit industrial transformat într-un spațiu cultural vibrant.",
+            "en": "A former industrial site transformed into a vibrant cultural space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Place de la Brèche, dem modernen Zentrum von Niort, bevor Sie in das geschäftige Treiben der Markthallen eintauchen. Am Vormittag erkunden Sie den imposanten Donjon, ein Erbe der Plantagenets, und schlendern durch die mittelalterlichen Gassen zum Pilori. Nach einem Mittagessen in der Altstadt besuchen Sie die prächtigen Kirchen Notre-Dame und Saint-André. Den Nachmittag verbringen Sie entspannt im botanischen Garten, um schließlich den Tag im innovativen Port Boinot am Ufer der Sèvre ausklingen zu lassen.",
+        "hu": "A nap a modern Place de la Brèche téren indul, majd a történelmi vásárcsarnok forgatagában folytatódik. Délelőtt a monumentális Donjont, a Plantagenet-dinasztia örökségét fedezzük fel, majd a középkori utcákon át a Pilori épületéhez sétálunk. Ebéd után Niort két jelentős templomát, a Notre-Dame-ot és a Saint-André-t érintjük. A délutáni pihenőt a botanikus kert zöldje kínálja, a napot pedig a Sèvre partján újjászületett, modern Port Boinot kulturális negyedben zárjuk.",
+        "ro": "Ziua începe în Place de la Brèche, inima modernă a orașului, urmată de o vizită în piața istorică plină de viață. Dimineața explorăm impunătorul Donjon, moștenire a dinastiei Plantagenet, și ne plimbăm pe străzile medievale până la Pilori. După prânz, vizităm bisericile emblematice Notre-Dame și Saint-André. După-amiaza este dedicată relaxării în grădina botanică, încheind ziua la Port Boinot, un spațiu industrial reconvertit creativ pe malul râului Sèvre.",
+        "en": "Your journey starts at Place de la Brèche, Niort's modern hub, before diving into the lively atmosphere of the historic market hall. Spend your morning exploring the imposing Donjon, a legacy of the Plantagenet dynasty, and wander through medieval streets to the Renaissance Pilori. After lunch, visit the grand churches of Notre-Dame and Saint-André. Enjoy a peaceful afternoon in the botanical garden, finishing your day at Port Boinot, a beautifully reclaimed industrial space on the banks of the Sèvre Niortaise."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Tourteau Fromagé",
+            "tip": "Ein traditioneller Käsekuchen mit schwarzer Kruste."
+          },
+          {
+            "name": "Angélique de Niort",
+            "tip": "Kandierte Arznei-Engelwurz, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourteau Fromagé",
+            "tip": "Hagyományos sajtos sütemény jellegzetes fekete kéreggel."
+          },
+          {
+            "name": "Niort-i Angyalgyökér",
+            "tip": "Kandírozott gyógynövény, a város egyik fő jelképe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tourteau Fromagé",
+            "tip": "O prăjitură tradițională cu brânză și o crustă neagră specifică."
+          },
+          {
+            "name": "Angélique de Niort",
+            "tip": "Angelică confiată, o delicatesă locală celebră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourteau Fromagé",
+            "tip": "A traditional cheese cake with a unique burnt black crust."
+          },
+          {
+            "name": "Angélique de Niort",
+            "tip": "Candied Angelica, a famous local sweet specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ein ruhiger Rückzugsort über dem Fluss.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Ufer der Sèvre",
+            "tip": "Spaziergang entlang der Kanäle.",
+            "emoji": "🛶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Csendes menedék a folyó felett.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Sèvre partja",
+            "tip": "Séta a hangulatos csatornák mentén.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Un refugiu liniștit deasupra râului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Malurile râului Sèvre",
+            "tip": "Plimbare relaxantă de-a lungul canalelor.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A quiet botanical sanctuary overlooking the river.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Sèvre Riverbanks",
+            "tip": "Stroll along the peaceful canals and pathways.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles de Niort",
+            "tip": "Lokale Produkte und frische Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Niort-i Vásárcsarnok",
+            "tip": "Helyi termelők portékái és friss áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles de Niort",
+            "tip": "Produse locale și alimente proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles de Niort",
+            "tip": "Local regional products and fresh food market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Niort ist sehr fußgängerfreundlich, das Zentrum ist kompakt.",
+          "Besuchen Sie die Markthalle am Vormittag, wenn sie am belebtesten ist.",
+          "Von Niort aus ist das Marais Poitevin nur einen Katzensprung entfernt."
+        ],
+        "hu": [
+          "Niort nagyon gyalogosbarát, a központ könnyen bejárható.",
+          "A vásárcsarnokot délelőtt érdemes felkeresni, akkor a legpezsgőbb.",
+          "Niort a kapuja a híres Marais Poitevin lápi vidéknek."
+        ],
+        "ro": [
+          "Niort este foarte prietenos cu pietonii, centrul fiind compact.",
+          "Vizitați piața dimineața, când este cea mai animată.",
+          "Niort este poarta de intrare către faimoasa mlaștină Marais Poitevin."
+        ],
+        "en": [
+          "Niort is very pedestrian-friendly; the historical center is compact.",
+          "Visit the market hall in the morning when it's most atmospheric.",
+          "Niort serves as the perfect gateway to the Marais Poitevin park."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "hu": "Tökéletes indulópont kerékpárral."
+          }
+        },
+        {
+          "name": "Les Halles",
+          "coords": [
+            -0.461,
+            46.324
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Helyi finomságok a kosárba."
+          }
+        },
+        {
+          "name": "Donjon von Niort",
+          "coords": [
+            -0.463,
+            46.325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "hu": "Középkori erőd a folyó felett."
+          }
+        },
+        {
+          "name": "Port Boinot",
+          "coords": [
+            -0.472,
+            46.325
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Kerékpáros pihenő a folyóparton."
+          }
+        },
+        {
+          "name": "Marais Poitevin (Eingang)",
+          "coords": [
+            -0.51,
+            46.32
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "hu": "Tekerjen be a zöld Velence szívébe."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            -0.468,
+            46.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "hu": "Botanikai szépség a város szélén."
+          }
+        },
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "hu": "Visszatérés a központba."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie nicht nur das historische Zentrum, sondern folgen auch der Sèvre bis zum Tor des Marais Poitevin. Genießen Sie die flachen Wege entlang der Kanäle.",
+        "hu": "Kerékpárral nemcsak a történelmi központot járhatja be, hanem követheti a Sèvre folyót egészen a Marais Poitevin lápi vidékének kapujáig. Élvezze a sík utakat a csatornák mentén.",
+        "ro": "Cu bicicleta, veți explora nu doar centrul istoric, ci veți urma și râul Sèvre până la porțile Marais Poitevin. Bucurați-vă de traseele plate de-a lungul canalelor.",
+        "en": "By bike, you'll explore both the historic center and follow the Sèvre river towards the start of the Marais Poitevin. Enjoy the flat paths along the scenic canals."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Piac közeli kávézók",
+            "tip": "Tökéletes megálló egy gyors falatra."
+          }
+        ],
+        "de": [
+          {
+            "name": "Cafés am Markt",
+            "tip": "Ideal für eine kurze Pause."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele lângă piață",
+            "tip": "Perfect pentru o scurtă pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market area cafés",
+            "tip": "Perfect spots for a quick local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Sèvre-parti utak",
+            "tip": "Békés tekerés a víz mellett.",
+            "emoji": "🚴"
+          }
+        ],
+        "de": [
+          {
+            "name": "Sèvre-Ufer",
+            "tip": "Friedliches Radfahren am Wasser.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Sèvre",
+            "tip": "Plimbare liniștită pe lângă apă.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sèvre River paths",
+            "tip": "Peaceful cycling routes by the water.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Friss úti elemózsia a kosárba."
+          }
+        ],
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Frische Vorräte für unterwegs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața centrală",
+            "tip": "Provizii proaspete pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Get fresh supplies for your ride."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A Sèvre mentén jól kiépített kerékpárutak vannak.",
+          "Niort-ban ingyenesen is lehet kerékpárt kölcsönözni bizonyos pontokon."
+        ],
+        "de": [
+          "Entlang der Sèvre gibt es gut ausgebaute Radwege.",
+          "Niort bietet an einigen Stellen kostenlose Leihfahrräder an."
+        ],
+        "ro": [
+          "Există piste de biciclete bine amenajate de-a lungul Sèvre.",
+          "Niort oferă biciclete de închiriat gratuit în anumite puncte."
+        ],
+        "en": [
+          "There are well-maintained cycling paths along the Sèvre river.",
+          "Niort offers free bicycle rentals at several city points."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "hu": "Parkoljon a tér alatt és induljon felfedezni."
+          }
+        },
+        {
+          "name": "Les Halles",
+          "coords": [
+            -0.461,
+            46.324
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "hu": "Gyalogos kör a belvárosban (Cluster A)."
+          }
+        },
+        {
+          "name": "Donjon von Niort",
+          "coords": [
+            -0.463,
+            46.325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "hu": "A város legfontosabb történelmi látnivalója."
+          }
+        },
+        {
+          "name": "Port Boinot",
+          "coords": [
+            -0.472,
+            46.325
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Autózás a folyóparti parkhoz (Cluster B)."
+          }
+        },
+        {
+          "name": "Coulon (Marais Poitevin)",
+          "coords": [
+            -0.585,
+            46.322
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "hu": "Kirándulás a zöld Velence szívébe (Cluster C)."
+          }
+        },
+        {
+          "name": "Sèvre-parti csónakázás",
+          "coords": [
+            -0.587,
+            46.323
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "hu": "Gyalogos távolság Coulon központjától."
+          }
+        },
+        {
+          "name": "Magné",
+          "coords": [
+            -0.54,
+            46.315
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "hu": "Rövid megálló a bájos faluban visszafelé."
+          }
+        },
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "hu": "Zárja a napot egy vacsorával Niort-ban."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die urbanen Schätze von Niort mit der natürlichen Schönheit des Marais Poitevin. Nach dem Stadtzentrum fahren Sie ins nahegelegene Coulon, das Herz der 'Grünen Venedig'.",
+        "hu": "Ez az autós túra ötvözi Niort városi kincseit a Marais Poitevin természetes szépségével. A belváros után a közeli Coulon-ba, a 'zöld Velence' szívébe látogatunk.",
+        "ro": "Acest tur cu mașina combină comorile urbane din Niort cu frumusețea naturală a Marais Poitevin. După centrul orașului, conduceți spre Coulon, inima 'Veneției Verzi'.",
+        "en": "This car tour combines Niort's urban highlights with the natural beauty of the Marais Poitevin. After exploring the center, drive to nearby Coulon, the heart of 'Green Venice'."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Coulon-i éttermek",
+            "tip": "Próbálja ki a sült angolnát vagy a békacombot."
+          }
+        ],
+        "de": [
+          {
+            "name": "Restaurants in Coulon",
+            "tip": "Probieren Sie Aal oder Froschschenkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante în Coulon",
+            "tip": "Încercați țiparul prăjit sau picioarele de broască."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coulon Restaurants",
+            "tip": "Try local eels or frog legs in the marais."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Marais Poitevin csatornái",
+            "tip": "Béke és csend a vízen.",
+            "emoji": "🛶"
+          }
+        ],
+        "de": [
+          {
+            "name": "Kanäle des Marais",
+            "tip": "Frieden und Stille auf dem Wasser.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalele din Marais",
+            "tip": "Pace și liniște pe apă.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marais Canals",
+            "tip": "Peace and quiet on the waterway.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Helyi termékek boltja",
+            "tip": "Angelika likőr és helyi pástétomok."
+          }
+        ],
+        "de": [
+          {
+            "name": "Laden für lokale Produkte",
+            "tip": "Angelika-Likör und lokale Pasteten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de produse locale",
+            "tip": "Lichior de angelică și pateuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Product Shops",
+            "tip": "Angelica liqueur and regional pâtés."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A Place de la Brèche alatt nagy mélygarázs található.",
+          "Coulon-ban főszezonban nehéz lehet parkolót találni, érkezzen időben."
+        ],
+        "de": [
+          "Unter dem Place de la Brèche gibt es eine große Tiefgarage.",
+          "In Coulon kann es in der Hochsaison schwierig sein, einen Parkplatz zu finden."
+        ],
+        "ro": [
+          "Există o parcare subterană mare sub Place de la Brèche.",
+          "În Coulon poate fi dificil să găsești parcare în plin sezon."
+        ],
+        "en": [
+          "There's a large underground car park at Place de la Brèche.",
+          "In Coulon, parking can be tricky during peak season; arrive early."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "hu": "Központi buszcsomópont."
+          }
+        },
+        {
+          "name": "Les Halles",
+          "coords": [
+            -0.461,
+            46.324
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "hu": "Gyalogos távolság a Brèche-től (Cluster A)."
+          }
+        },
+        {
+          "name": "Donjon von Niort",
+          "coords": [
+            -0.463,
+            46.325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "hu": "A Sèvre partján fekvő erőd."
+          }
+        },
+        {
+          "name": "Port Boinot",
+          "coords": [
+            -0.472,
+            46.325
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Buszozás a folyóparti kulturális térhez (Cluster B)."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            -0.468,
+            46.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "hu": "Helyi busszal megközelíthető botanikus kert."
+          }
+        },
+        {
+          "name": "Kirche Saint-André",
+          "coords": [
+            -0.46,
+            46.328
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Gyalogos távolság a kerttől (Cluster C)."
+          }
+        },
+        {
+          "name": "Place de la Brèche",
+          "coords": [
+            -0.457,
+            46.323
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "hu": "Visszatérés a buszcsomópontra."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das kostenlose Busnetz von Niort (Tanlib), um zwischen den Stadtteilen zu pendeln. Die Route verbindet das Zentrum mit den Grünflächen am Fluss.",
+        "hu": "Használja Niort ingyenes buszhálózatát (Tanlib), hogy közlekedjen a városnegyedek között. Az útvonal összeköti a központot a folyóparti zöldterületekkel.",
+        "ro": "Folosiți rețeaua gratuită de autobuze din Niort (Tanlib) pentru a călători între cartiere. Ruta conectează centrul cu spațiile verzi de pe malul râului.",
+        "en": "Take advantage of Niort's free bus network (Tanlib) to travel between districts. This route links the historic center with the riverside parks and culture hubs."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Brèche környéki bisztrók",
+            "tip": "A helyi közlekedés központjában."
+          }
+        ],
+        "de": [
+          {
+            "name": "Bistros an der Brèche",
+            "tip": "Im Zentrum des lokalen Verkehrs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrouri lângă Brèche",
+            "tip": "În centrul transportului local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brèche District Bistros",
+            "tip": "Convenient dining near the transit hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Tökéletes hely a kikapcsolódáshoz.",
+            "emoji": "🌸"
+          }
+        ],
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Perfekter Ort zum Entspannen.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Locul perfect pentru relaxare.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A perfect botanical escape.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Rue Victor Hugo",
+            "tip": "Niort fő bevásárlóutcája."
+          }
+        ],
+        "de": [
+          {
+            "name": "Rue Victor Hugo",
+            "tip": "Die Haupteinkaufsstraße von Niort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Victor Hugo",
+            "tip": "Principala stradă comercială din Niort."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Victor Hugo",
+            "tip": "Niort's primary shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A Tanlib buszhálózat Niort-ban ingyenes mindenki számára.",
+          "A buszok ritkábban járnak hétvégén, ellenőrizze a menetrendet."
+        ],
+        "de": [
+          "Das Tanlib-Busnetz in Niort ist für alle kostenlos.",
+          "Die Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan."
+        ],
+        "ro": [
+          "Rețeaua de autobuze Tanlib din Niort este gratuită pentru toată lumea.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul."
+        ],
+        "en": [
+          "The Tanlib bus network in Niort is completely free for everyone.",
+          "Buses run less frequently on weekends; check schedules in advance."
+        ]
+      }
+    }
+  }
+}

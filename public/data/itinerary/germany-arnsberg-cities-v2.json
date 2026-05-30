@@ -1,0 +1,1061 @@
+{
+  "city_id": "germany-arnsberg-cities-v2",
+  "anchor": {
+    "name": "Arnsberg Altstadt",
+    "coords": [
+      8.062,
+      51.396
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Neumarkt",
+            "hu": "Neumarkt",
+            "ro": "Neumarkt",
+            "en": "Neumarkt"
+          },
+          "coords": [
+            8.061,
+            51.394
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Das klassizistische Herz der preußischen Stadterweiterung.",
+            "hu": "A porosz városbővítés klasszicista központja.",
+            "ro": "Inima clasicistă a expansiunii prusace a orașului.",
+            "en": "The neoclassical heart of the Prussian city expansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            8.063,
+            51.397
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein prächtiger Renaissancebau aus dem Jahr 1710.",
+            "hu": "Pompás reneszánsz épület 1710-ből.",
+            "ro": "O clădire renascentistă magnifică din 1710.",
+            "en": "A magnificent Renaissance building dating back to 1710."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm",
+            "hu": "Harangtorony",
+            "ro": "Turnul cu clopot",
+            "en": "Bell Tower"
+          },
+          "coords": [
+            8.062,
+            51.399
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Wahrzeichen der Stadt mit Blick auf die Ruhrschleife.",
+            "hu": "A város jelképe, kilátással a Ruhr-kanyarra.",
+            "ro": "Simbolul orașului cu vedere la bucla râului Ruhr.",
+            "en": "Symbol of the city with a view of the Ruhr loop."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossruine Arnsberg",
+            "hu": "Arnsbergi várrom",
+            "ro": "Ruina Castelului Arnsberg",
+            "en": "Arnsberg Castle Ruins"
+          },
+          "coords": [
+            8.063,
+            51.401
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Frühere Residenz der Kölner Kurfürsten auf dem Schlossberg.",
+            "hu": "A kölni választófejedelmek egykori rezidenciája a várhegyen.",
+            "ro": "Fosta reședință a electorilor din Köln pe dealul castelului.",
+            "en": "Former residence of the Electors of Cologne on the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauerland-Museum",
+            "hu": "Sauerland-Múzeum",
+            "ro": "Muzeul Sauerland",
+            "en": "Sauerland Museum"
+          },
+          "coords": [
+            8.065,
+            51.397
+          ],
+          "category": "museums",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Untergebracht im historischen Landsberger Hof.",
+            "hu": "A történelmi Landsberger Hof épületében található.",
+            "ro": "Găzduit în clădirea istorică Landsberger Hof.",
+            "en": "Housed in the historic Landsberger Hof building."
+          }
+        },
+        {
+          "name": {
+            "de": "Hirschberger Tor",
+            "hu": "Hirschbergi Kapu",
+            "ro": "Poarta Hirschberg",
+            "en": "Hirschberg Gate"
+          },
+          "coords": [
+            8.065,
+            51.393
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Prachtvolles barockes Portal am Kloster Wedinghausen.",
+            "hu": "Pompás barokk kapu a Wedinghausen-kolostornál.",
+            "ro": "Portal baroc magnific la mănăstirea Wedinghausen.",
+            "en": "Magnificent baroque portal at the Wedinghausen monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Propsteikirche St. Laurentius",
+            "hu": "Szt. Lőrinc prépostsági templom",
+            "ro": "Biserica St. Laurentius",
+            "en": "Propsteikirche St. Laurentius"
+          },
+          "coords": [
+            8.066,
+            51.393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Beeindruckendes Interieur mit dem Grafen-Mausoleum.",
+            "hu": "Lenyűgöző belső tér a grófi mauzóleummal.",
+            "ro": "Interior impresionant cu mausoleul contelui.",
+            "en": "Impressive interior featuring the count's mausoleum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Wedinghausen",
+            "hu": "Wedinghausen-kolostor",
+            "ro": "Mănăstirea Wedinghausen",
+            "en": "Wedinghausen Monastery"
+          },
+          "coords": [
+            8.067,
+            51.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Geistliches Zentrum des Sauerlandes mit dem berühmten Skriptorium.",
+            "hu": "Sauerland szellemi központja a híres szkriptóriummal.",
+            "ro": "Centrul spiritual al regiunii Sauerland, cu faimosul scriptorium.",
+            "en": "Spiritual center of Sauerland with the famous scriptorium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den klassizistischen Neumarkt und das historische Rathaus, bevor Sie den steilen Pfad zum Glockenturm nehmen. Mittags bietet die Schlossruine ein Panorama über die Ruhrschleife. Der Nachmittag steht im Zeichen der Geschichte im Sauerland-Museum und dem barocken Hirschberger Tor. Den Tag beschließen Sie in der Ruhe des Klosters Wedinghausen.",
+        "hu": "Reggel a klasszicista Neumarktot és a városházát fedezzük fel, majd felsétálunk a Harangtoronyhoz. Délben a várromoktól csodálhatjuk meg a Ruhr folyó kanyarulatát. A délután a Sauerland-Múzeum és a barokk Hirschbergi Kapu történeteié. A napot a Wedinghausen-kolostor békéjében zárjuk.",
+        "ro": "Dimineața explorați Neumarkt-ul clasicist și primăria istorică, înainte de a urca spre Turnul cu clopot. La prânz, ruinele castelului oferă o panoramă asupra buclei râului Ruhr. După-amiaza este dedicată istoriei la Muzeul Sauerland și Porții Hirschberg. Încheiați ziua în liniștea mănăstirii Wedinghausen.",
+        "en": "In the morning, explore the neoclassical Neumarkt and the historic town hall before taking the steep path to the Bell Tower. At midday, the castle ruins offer a panorama over the Ruhr loop. The afternoon is dedicated to history at the Sauerland Museum and the baroque Hirschberg Gate. End your day in the peaceful atmosphere of the Wedinghausen Monastery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Arnsberg",
+            "tip": "Probieren Sie das Sauerländer Krüstchen und lokale Bierspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Arnsberg",
+            "tip": "Kóstolja meg a Sauerländer Krüstchent és a helyi sörkülönlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Arnsberg",
+            "tip": "Încercați Sauerländer Krüstchen și specialitățile locale de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Arnsberg",
+            "tip": "Try the Sauerländer Krüstchen and local beer specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossberg-Hänge",
+            "tip": "Ruhiger Spaziergang unterhalb der Ruine.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várhegy oldala",
+            "tip": "Csendes séta a várromok alatti ösvényeken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pantele Schlossberg",
+            "tip": "O plimbare liniștită sub ruinele castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossberg Slopes",
+            "tip": "Quiet walk on the paths below the ruins.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Neumarkt",
+            "tip": "Regionale Spezialitäten direkt von Erzeugern aus dem Sauerland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neumarkt piac",
+            "tip": "Regionális specialitások közvetlenül a sauerlandi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Neumarkt",
+            "tip": "Specialități regionale direct de la producătorii din Sauerland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neumarkt Market",
+            "tip": "Regional specialties directly from Sauerland producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen der Altstadt.",
+          "Besuchen Sie das Sauerland-Museum für tiefere Einblicke in die kurkölnische Zeit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros meredek utcáihoz.",
+          "Látogasson el a Sauerland-Múzeumba a kölni választófejedelmi korszak megismeréséhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile abrupte ale orașului vechi.",
+          "Vizitați Muzeul Sauerland pentru o perspectivă asupra epocii electorale."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep alleys of the old town.",
+          "Visit the Sauerland Museum for deeper insights into the Electorate of Cologne era."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Wedinghausen",
+            "hu": "Wedinghausen-kolostor",
+            "ro": "Mănăstirea Wedinghausen",
+            "en": "Wedinghausen Monastery"
+          },
+          "coords": [
+            8.067,
+            51.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Startpunkt am RuhrtalRadweg.",
+            "hu": "Kiindulópont a Ruhr-völgyi kerékpárúton.",
+            "ro": "Punct de plecare pe pista RuhrtalRadweg.",
+            "en": "Starting point on the Ruhr Valley Cycle Path."
+          }
+        },
+        {
+          "name": {
+            "de": "Neumarkt",
+            "hu": "Neumarkt",
+            "ro": "Neumarkt",
+            "en": "Neumarkt"
+          },
+          "coords": [
+            8.061,
+            51.394
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Großzügiger Platz zum Abstellen der Räder.",
+            "hu": "Tágas tér a biciklik leállításához.",
+            "ro": "Piață spațioasă pentru lăsarea bicicletelor.",
+            "en": "Spacious square for parking your bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauerland-Museum",
+            "hu": "Sauerland-Múzeum",
+            "ro": "Muzeul Sauerland",
+            "en": "Sauerland Museum"
+          },
+          "coords": [
+            8.065,
+            51.397
+          ],
+          "category": "museums",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Modernes Museum in historischer Hülle.",
+            "hu": "Modern múzeum történelmi köntösben.",
+            "ro": "Muzeu modern într-un înveliș istoric.",
+            "en": "Modern museum in a historic shell."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            8.063,
+            51.397
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Mittelpunkt der Arnsberger Oberstadt.",
+            "hu": "Arnsberg felsővárosának középpontja.",
+            "ro": "Centrul orașului de sus din Arnsberg.",
+            "en": "Center of Arnsberg's upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossruine Arnsberg",
+            "hu": "Arnsbergi várrom",
+            "ro": "Ruina Castelului Arnsberg",
+            "en": "Arnsberg Castle Ruins"
+          },
+          "coords": [
+            8.063,
+            51.401
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Kurze, steile Auffahrt, die mit Aussicht belohnt.",
+            "hu": "Rövid, meredek emelkedő, amely kilátással jutalmaz.",
+            "ro": "Urcare scurtă și abruptă, răsplătită cu o priveliște.",
+            "en": "Short, steep climb rewarded with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm",
+            "hu": "Harangtorony",
+            "ro": "Turnul cu clopot",
+            "en": "Bell Tower"
+          },
+          "coords": [
+            8.062,
+            51.399
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Das markanteste Wahrzeichen am Wegesrand.",
+            "hu": "Az út menti legjelentősebb jelkép.",
+            "ro": "Cel mai proeminent simbol de pe traseu.",
+            "en": "The most prominent landmark along the way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Talauen der Ruhr mit der historischen Oberstadt. Sie starten am Kloster Wedinghausen und radeln zum klassizistischen Neumarkt. Nach einem Museumsbesuch erklimmen Sie mit dem Rad den Schlossberg für ein Picknick an der Ruine, bevor der Glockenturm den Rückweg einläutet.",
+        "hu": "Ez a kerékpártúra összeköti a Ruhr völgyét a történelmi felsővárossal. A Wedinghausen-kolostortól indulunk a klasszicista Neumarkt felé. Egy múzeumlátogatás után feltekerünk a várhegyre egy piknikre a romoknál, majd a Harangtoronynál fejezzük be a kört.",
+        "ro": "Acest tur pe bicicletă conectează luncile râului Ruhr cu orașul istoric de sus. Începeți la mănăstirea Wedinghausen și pedalați spre Neumarkt-ul clasicist. După o vizită la muzeu, urcați pe bicicletă dealul castelului pentru un picnic la ruine, înainte ca Turnul cu clopot să anunțe drumul de întoarcere.",
+        "en": "This bike tour connects the Ruhr valley meadows with the historic upper town. Start at Wedinghausen Monastery and cycle to the neoclassical Neumarkt. After a museum visit, climb the castle hill by bike for a picnic at the ruins before the Bell Tower marks the return leg."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radler-Treff an der Ruhr",
+            "tip": "Erfrischung direkt am RuhrtalRadweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklis pihenő",
+            "tip": "Frissítő közvetlenül a Ruhr-parti kerékpárúton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popas pentru bicicliști",
+            "tip": "Răcoritoare direct pe pista de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cyclist Stop",
+            "tip": "Refreshments directly on the Ruhr Valley Cycle Path."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruhrpromenade",
+            "tip": "Entspannter Weg am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ruhr-sétány",
+            "tip": "Pihentető út a folyóparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Ruhr",
+            "tip": "Drum relaxant pe malul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ruhr Promenade",
+            "tip": "Relaxed path along the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Sauerländer Spezialitäten für den Rucksack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gazdaboltok",
+            "tip": "Sauerlandi specialitások a hátizsákba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Specialități din Sauerland pentru rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farm Shops",
+            "tip": "Sauerland specialties for your backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen für die Abfahrt von der Oberstadt.",
+          "Nutzen Sie den RuhrtalRadweg für eine einfache Anfahrt."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a felsővárosból való leereszkedéshez.",
+          "Használja a Ruhr-völgyi kerékpárutat a könnyű megközelítéshez."
+        ],
+        "ro": [
+          "Verificați frânele pentru coborârea din orașul de sus.",
+          "Folosiți RuhrtalRadweg pentru un acces ușor."
+        ],
+        "en": [
+          "Check your brakes for the descent from the upper town.",
+          "Use the RuhrtalRadweg for an easy approach."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neumarkt (Parkplatz)",
+            "hu": "Neumarkt (parkoló)",
+            "ro": "Neumarkt (Parcare)",
+            "en": "Neumarkt (Parking)"
+          },
+          "coords": [
+            8.061,
+            51.394
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Zentraler Parkplatz für den Cluster Oberstadt.",
+            "hu": "Központi parkoló a felsővároshoz.",
+            "ro": "Parcare centrală pentru zona orașului de sus.",
+            "en": "Central parking for the upper town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauerland-Museum",
+            "hu": "Sauerland-Múzeum",
+            "ro": "Muzeul Sauerland",
+            "en": "Sauerland Museum"
+          },
+          "coords": [
+            8.065,
+            51.397
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Wenige Gehminuten vom Parkplatz entfernt.",
+            "hu": "Pár perc séta a parkolótól.",
+            "ro": "La câteva minute de mers pe jos de parcare.",
+            "en": "A few minutes' walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossruine Arnsberg",
+            "hu": "Arnsbergi várrom",
+            "ro": "Ruina Castelului Arnsberg",
+            "en": "Arnsberg Castle Ruins"
+          },
+          "coords": [
+            8.063,
+            51.401
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Der schönste Aussichtspunkt der Stadt.",
+            "hu": "A város legszebb kilátópontja.",
+            "ro": "Cel mai frumos punct de belvedere din oraș.",
+            "en": "The most beautiful viewpoint in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hirschberger Tor",
+            "hu": "Hirschbergi Kapu",
+            "ro": "Poarta Hirschberg",
+            "en": "Hirschberg Gate"
+          },
+          "coords": [
+            8.065,
+            51.393
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:10",
+          "stay_min": 15,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Parken Sie kurz am Klosterbezirk.",
+            "hu": "Rövid parkolás a kolostornegyednél.",
+            "ro": "Parcați scurt la districtul mănăstirii.",
+            "en": "Briefly park at the monastery district."
+          }
+        },
+        {
+          "name": {
+            "de": "Propsteikirche St. Laurentius",
+            "hu": "Szt. Lőrinc prépostsági templom",
+            "ro": "Biserica St. Laurentius",
+            "en": "Propsteikirche St. Laurentius"
+          },
+          "coords": [
+            8.066,
+            51.393
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Barocke Pracht im Inneren.",
+            "hu": "Barokk pompa a belső térben.",
+            "ro": "Splendoare barocă în interior.",
+            "en": "Baroque splendor inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Wedinghausen",
+            "hu": "Wedinghausen-kolostor",
+            "ro": "Mănăstirea Wedinghausen",
+            "en": "Wedinghausen Monastery"
+          },
+          "coords": [
+            8.067,
+            51.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Kulturhistorisches Highlight zum Abschluss.",
+            "hu": "Kultúrtörténeti csúcspont a végére.",
+            "ro": "Punct culminant cultural-istoric la final.",
+            "en": "Cultural-historical highlight to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie Arnsberg in zwei Clustern. Zuerst parken Sie am Neumarkt für das Sauerland-Museum und die Schlossruine. Danach fahren Sie zum Klosterbezirk Wedinghausen, um das barocke Tor und die Propsteikirche ohne weite Fußwege zu besichtigen.",
+        "hu": "Autóval két központ köré csoportosítva fedezzük fel Arnsberget. Először a Neumarktnál parkolunk a múzeumhoz és a várromhoz. Ezután átgurulunk a Wedinghausen-kolostorhoz, hogy a barokk kaput és a templomot nagyobb gyaloglás nélkül nézzük meg.",
+        "ro": "Cu mașina explorați Arnsberg în două clustere. Mai întâi parcați la Neumarkt pentru Muzeul Sauerland și ruinele castelului. Apoi conduceți către districtul mănăstirii Wedinghausen pentru a vizita poarta barocă și biserica fără deplasări lungi pe jos.",
+        "en": "By car, you can explore Arnsberg in two clusters. First, park at Neumarkt for the Sauerland Museum and the castle ruins. Then, drive to the Wedinghausen monastery district to visit the baroque gate and the church without long walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hotel zur Krone",
+            "tip": "Gehobene sauerländische Küche mit Parkplatznähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hotel zur Krone",
+            "tip": "Színvonalas sauerlandi konyha a parkoló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hotel zur Krone",
+            "tip": "Bucătărie sofisticată din Sauerland lângă parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hotel zur Krone",
+            "tip": "Upscale Sauerland cuisine near the parking lot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lohmühle",
+            "tip": "Ruhiger Platz an der Ruhr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lohmühle",
+            "tip": "Csendes hely a Ruhr-parton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lohmühle",
+            "tip": "Loc liniștit pe malul râului Ruhr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lohmühle",
+            "tip": "Quiet spot by the Ruhr river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Individuelle Geschenke rund um den Alten Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Egyedi ajándékok az Alte Markt körül.",
+            "emoji": "🎁"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri în orașul vechi",
+            "tip": "Cadouri individuale în jurul pieței vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Individual gifts around the Alte Markt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkhaus Altstadt für längere Aufenthalte.",
+          "Achten Sie auf Einbahnstraßen in der engen Oberstadt."
+        ],
+        "hu": [
+          "Hosszabb tartózkodáshoz használja az óvárosi parkolóházat.",
+          "Figyeljen az egyirányú utcákra a szűk felsővárosban."
+        ],
+        "ro": [
+          "Folosiți parcarea supraetajată din orașul vechi pentru șederi mai lungi.",
+          "Atenție la străzile cu sens unic din orașul de sus îngust."
+        ],
+        "en": [
+          "Use the Old Town parking garage for longer stays.",
+          "Watch out for one-way streets in the narrow upper town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Arnsberg",
+            "hu": "Arnsbergi vasútállomás",
+            "ro": "Gara Arnsberg",
+            "en": "Arnsberg Station"
+          },
+          "coords": [
+            8.075,
+            51.405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Startpunkt für Busse in die Oberstadt.",
+            "hu": "Kiindulópont a felsővárosba tartó buszokhoz.",
+            "ro": "Punct de plecare pentru autobuzele către orașul de sus.",
+            "en": "Starting point for buses to the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Neumarkt",
+            "hu": "Neumarkt",
+            "ro": "Neumarkt",
+            "en": "Neumarkt"
+          },
+          "coords": [
+            8.061,
+            51.394
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Zentrale Bushaltestelle am Marktplatz.",
+            "hu": "Központi buszmegálló a piactéren.",
+            "ro": "Stație centrală de autobuz în piață.",
+            "en": "Central bus stop at the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossruine Arnsberg",
+            "hu": "Arnsbergi várrom",
+            "ro": "Ruina Castelului Arnsberg",
+            "en": "Arnsberg Castle Ruins"
+          },
+          "coords": [
+            8.063,
+            51.401
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Fußweg von der Haltestelle Neumarkt.",
+            "hu": "Gyalogút a Neumarkt megállótól.",
+            "ro": "Drum pe jos de la stația Neumarkt.",
+            "en": "Walk from the Neumarkt stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauerland-Museum",
+            "hu": "Sauerland-Múzeum",
+            "ro": "Muzeul Sauerland",
+            "en": "Sauerland Museum"
+          },
+          "coords": [
+            8.065,
+            51.397
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Im Herzen der Altstadt gelegen.",
+            "hu": "Az óváros szívében fekszik.",
+            "ro": "Situat în inima orașului vechi.",
+            "en": "Located in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Wedinghausen",
+            "hu": "Wedinghausen-kolostor",
+            "ro": "Mănăstirea Wedinghausen",
+            "en": "Wedinghausen Monastery"
+          },
+          "coords": [
+            8.067,
+            51.391
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Bushaltestelle direkt vor dem Kloster.",
+            "hu": "Buszmegálló közvetlenül a kolostor előtt.",
+            "ro": "Stație de autobuz chiar în fața mănăstirii.",
+            "en": "Bus stop right in front of the monastery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof Arnsberg bringt Sie der Bus direkt zum Neumarkt. Von dort erkunden Sie zu Fuß die Schlossruine und das Sauerland-Museum. Eine kurze Busfahrt führt Sie weiter zum Kloster Wedinghausen, bevor Sie bequem zum Bahnhof zurückkehren.",
+        "hu": "Az arnsbergi vasútállomástól busz visz közvetlenül a Neumarktra. Onnan gyalog fedezzük fel a várromot és a Sauerland-Múzeumot. Egy rövid buszozás után érünk a Wedinghausen-kolostorhoz, majd kényelmesen visszatérünk az állomásra.",
+        "ro": "De la gara Arnsberg, autobuzul vă duce direct la Neumarkt. De acolo explorați pe jos ruinele castelului și Muzeul Sauerland. O scurtă călătorie cu autobuzul vă duce mai departe la mănăstirea Wedinghausen, înainte de a reveni confortabil la gară.",
+        "en": "From Arnsberg station, the bus takes you directly to Neumarkt. From there, explore the castle ruins and the Sauerland Museum on foot. A short bus ride takes you further to Wedinghausen Monastery before returning comfortably to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Museum",
+            "tip": "Kleiner Snack in modernem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bisztró",
+            "tip": "Könnyű harapnivaló modern környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro în muzeu",
+            "tip": "Gustare mică într-un ambient modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Bistro",
+            "tip": "Small snack in a modern setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Stiller Rückzugsort hinter dem Skriptorium.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Csendes menedék a szkriptórium mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Refugiu liniștit în spatele scriptoriumului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Quiet retreat behind the scriptorium.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Bücher und regionales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Könyvek és regionális kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cărți și artizanat regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Books and regional handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 9-Euro-Ticket oder lokale Tageskarten.",
+          "Die Linie C1 verbindet den Bahnhof mit der Oberstadt im 15-Minuten-Takt."
+        ],
+        "hu": [
+          "Használjon napijegyet a helyi közlekedéshez.",
+          "A C1 buszjárat 15 percenként köti össze az állomást a felsővárossal."
+        ],
+        "ro": [
+          "Folosiți bilete de o zi pentru transportul local.",
+          "Linia C1 conectează gara de orașul de sus la fiecare 15 minute."
+        ],
+        "en": [
+          "Use day tickets for local transport.",
+          "Bus line C1 connects the station to the upper town every 15 minutes."
+        ]
+      }
+    }
+  }
+}

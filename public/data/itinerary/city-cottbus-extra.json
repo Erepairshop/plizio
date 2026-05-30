@@ -1,0 +1,1202 @@
+{
+  "city_id": "city-cottbus-extra",
+  "anchor": {
+    "name": "Cottbus Altmarkt",
+    "coords": [
+      14.335,
+      51.7607
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altmarkt",
+            "hu": "Altmarkt (Ópiac tér)",
+            "ro": "Piața Veche",
+            "en": "Old Market Square"
+          },
+          "coords": [
+            14.3331,
+            51.7604
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bester Startpunkt für einen Kaffee.",
+            "hu": "Kezdje itt a napot egy jó kávéval.",
+            "ro": "Cel mai bun punct de plecare pentru o cafea.",
+            "en": "Best starting point for a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberkirche St. Nikolai",
+            "hu": "Szt. Miklós felsőtemplom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            14.3348,
+            51.7612
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Turm hat man eine tolle Aussicht.",
+            "hu": "A toronyból remek a kilátás.",
+            "ro": "Turnul oferă o vedere excelentă.",
+            "en": "The tower offers a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spremberger Turm",
+            "hu": "Sprembergi torony",
+            "ro": "Turnul Spremberger",
+            "en": "Spremberg Tower"
+          },
+          "coords": [
+            14.3324,
+            51.7578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt.",
+            "hu": "A város jelképe, érdemes megmászni.",
+            "ro": "Simbolul orașului, merită urcat.",
+            "en": "The landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater Cottbus",
+            "hu": "Cottbusi Állami Színház",
+            "ro": "Teatrul de Stat",
+            "en": "State Theatre Cottbus"
+          },
+          "coords": [
+            14.3268,
+            51.7572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Jugendstil-Juwel.",
+            "hu": "A szecesszió egyik gyöngyszeme.",
+            "ro": "O bijuterie în stil Jugendstil.",
+            "en": "An Art Nouveau jewel."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Altmarkt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch at Old Market"
+          },
+          "coords": [
+            14.3335,
+            51.7602
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Plinsen.",
+            "hu": "Kóstolja meg a helyi lepényt (Plinsen).",
+            "ro": "Încercați clătitele locale (Plinsen).",
+            "en": "Try the local pancakes (Plinsen)."
+          }
+        },
+        {
+          "name": {
+            "de": "Fürst-Pückler-Park Branitz",
+            "hu": "Branitzi kastélypark",
+            "ro": "Parcul Branitz",
+            "en": "Branitz Park"
+          },
+          "coords": [
+            14.3645,
+            51.7431
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Wasserpyramide.",
+            "hu": "Nézze meg a vízben álló piramist.",
+            "ro": "Vizitați piramida de apă.",
+            "en": "Visit the water pyramid."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Branitz",
+            "hu": "Branitzi kastély",
+            "ro": "Castelul Branitz",
+            "en": "Branitz Castle"
+          },
+          "coords": [
+            14.3628,
+            51.7425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Pücklers Erbe hautnah erleben.",
+            "hu": "Pückler herceg hagyatéka.",
+            "ro": "Moștenirea prințului Pückler.",
+            "en": "Experience Pückler's legacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Cottbus auf dem Altmarkt, umgeben von barocken Bürgerhäusern. Nach einem Blick in die Oberkirche führt Sie der Weg zum Spremberger Turm, dem markanten Stadttor. Der Vormittag endet am prachtvollen Staatstheater im Jugendstil. Nach einer Stärkung spazieren Sie durch das Grüne zum Branitzer Park, wo die einzigartigen Erdpyramiden des Fürsten Pückler auf Sie warten. Ein Besuch im Schloss rundet den Tag ab.",
+        "hu": "Kezdje a napot Cottbus történelmi szívében, az Altmarkton, barokk polgárházak gyűrűjében. A gótikus felsőtemplom után irány a Sprembergi torony, amely a város kapujaként tornyosul. A délelőttöt a szecessziós Állami Színház lenyűgöző épületénél zárjuk. Ebéd után egy hosszabb séta következik a Branitzi parkba, ahol Pückler herceg világhírű földpiramisait és elegáns kastélyát fedezheti fel az esti búcsú előtt.",
+        "ro": "Începeți ziua în inima istorică a orașului Cottbus, la Altmarkt, înconjurat de case baroce. După o vizită la Biserica Superioară, drumul vă duce la Turnul Spremberger, poarta emblematică a orașului. Dimineața se încheie la magnificul Teatru de Stat în stil Art Nouveau. După prânz, o plimbare prin zone verzi vă conduce la Parcul Branitz, unde vă așteaptă piramidele de pământ unice ale prințului Pückler și castelul său elegant.",
+        "en": "Start your day in the historical heart of Cottbus at Altmarkt, surrounded by Baroque townhouses. After visiting St. Nicholas Church, head to the Spremberg Tower, the city's iconic gate. The morning ends at the magnificent Art Nouveau State Theatre. After a lunch break, take a walk through the greenery to Branitz Park, where Prince Pückler's unique earth pyramids and his elegant castle await you for a relaxing afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stadtwächter",
+            "tip": "Rustikales Ambiente mit Cottbuser Bier."
+          },
+          {
+            "name": "Cavalierhaus",
+            "tip": "Gehobene Küche direkt im Branitzer Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtwächter",
+            "tip": "Rusztikus hangulat helyi sörökkel a várfalnál."
+          },
+          {
+            "name": "Cavalierhaus",
+            "tip": "Elegáns étterem a Branitzi park szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtwächter",
+            "tip": "Ambiantă rustică cu bere locală lângă zidul cetății."
+          },
+          {
+            "name": "Cavalierhaus",
+            "tip": "Bucătărie rafinată direct în Parcul Branitz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtwächter",
+            "tip": "Rustic atmosphere with local beer near the city wall."
+          },
+          {
+            "name": "Cavalierhaus",
+            "tip": "Upscale dining in the heart of Branitz Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wasserpyramide",
+            "tip": "Stille am Seeufer im Park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Puschkinpark",
+            "tip": "Grüne Oase direkt an der Spree.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízpiramis",
+            "tip": "Csendes pihenő a tóparton a parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Puschkinpark",
+            "tip": "Zöld oázis a Spree folyó partján.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piramida de apă",
+            "tip": "Liniște pe malul lacului din parc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Puschkinpark",
+            "tip": "Oază verde chiar pe malul râului Spree.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Water Pyramid",
+            "tip": "Quiet spot by the lake in the park.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Puschkinpark",
+            "tip": "Green oasis right on the Spree river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Spreewald-Laden",
+            "tip": "Lokale Spezialitäten und Gurken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spreewald-Laden",
+            "tip": "Helyi különlegességek és híres savanyúságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spreewald-Laden",
+            "tip": "Specialități locale și faimoșii castraveți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spreewald-Laden",
+            "tip": "Local specialties and famous pickles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cottbus ist sehr flach und ideal zu Fuß zu erkunden.",
+          "Der Branitzer Park ist weitläufig, planen Sie genug Zeit ein."
+        ],
+        "hu": [
+          "Cottbus teljesen sík, gyalogosan is kényelmesen bejárható.",
+          "A Branitzi park hatalmas, hagyjon elég időt a felfedezésére."
+        ],
+        "ro": [
+          "Cottbus este foarte plat și ideal pentru a fi explorat la pas.",
+          "Parcul Branitz este vast, alocați suficient timp pentru explorare."
+        ],
+        "en": [
+          "Cottbus is very flat and ideal for exploring on foot.",
+          "Branitz Park is extensive, so plan enough time for a stroll."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altmarkt",
+            "hu": "Altmarkt",
+            "ro": "Altmarkt",
+            "en": "Altmarkt"
+          },
+          "coords": [
+            14.3331,
+            51.7604
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt am Platz.",
+            "hu": "Kerékpártárolók közvetlenül a téren.",
+            "ro": "Parcare pentru biciclete chiar în piață.",
+            "en": "Bicycle parking right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Flugplatzmuseum",
+            "hu": "Repülőtéri Múzeum",
+            "ro": "Muzeul Aviației",
+            "en": "Airfield Museum"
+          },
+          "coords": [
+            14.2931,
+            51.7682
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Viele historische Flugzeuge im Freien.",
+            "hu": "Sok történelmi repülőgép a szabadban.",
+            "ro": "Multe avioane istorice în aer liber.",
+            "en": "Many historic aircraft outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Spremberger Turm",
+            "hu": "Sprembergi torony",
+            "ro": "Turnul Spremberger",
+            "en": "Spremberg Tower"
+          },
+          "coords": [
+            14.3324,
+            51.7578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das Panorama.",
+            "hu": "Gyors megálló a panorámáért.",
+            "ro": "Scurtă oprire pentru panoramă.",
+            "en": "Short stop for the panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater",
+            "hu": "Állami Színház",
+            "ro": "Teatrul de Stat",
+            "en": "State Theatre"
+          },
+          "coords": [
+            14.3268,
+            51.7572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Fassade.",
+            "hu": "Lenyűgöző homlokzat.",
+            "ro": "Fațadă impresionantă.",
+            "en": "Impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Gartenrestaurant",
+            "hu": "Kerti étterem",
+            "ro": "Restaurant de grădină",
+            "en": "Garden Restaurant"
+          },
+          "coords": [
+            14.335,
+            51.755
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radler-freundlich.",
+            "hu": "Biciklisbarát vendéglő.",
+            "ro": "Prietenos cu bicicliștii.",
+            "en": "Cyclist-friendly spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Cottbus",
+            "hu": "Cottbusi Állatpark",
+            "ro": "Grădina Zoologică",
+            "en": "Cottbus Zoo"
+          },
+          "coords": [
+            14.3551,
+            51.7445
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schön gelegen an der Spree.",
+            "hu": "Szép fekvés a Spree partján.",
+            "ro": "Situată frumos pe malul râului Spree.",
+            "en": "Beautifully located by the Spree."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Branitz",
+            "hu": "Branitzi kastély",
+            "ro": "Castelul Branitz",
+            "en": "Branitz Castle"
+          },
+          "coords": [
+            14.3628,
+            51.7425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrräder müssen im Park geschoben werden.",
+            "hu": "A parkban tolni kell a kerékpárt.",
+            "ro": "Bicicletele trebuie împinse în parc.",
+            "en": "Bicycles must be pushed in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Landpyramide",
+            "hu": "Földpiramis",
+            "ro": "Piramida de pământ",
+            "en": "Land Pyramid"
+          },
+          "coords": [
+            14.368,
+            51.745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einmaliger Anblick.",
+            "hu": "Egyedülálló látvány.",
+            "ro": "O vedere unică.",
+            "en": "A unique sight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie sowohl das Zentrum als auch die Außenbezirke. Nach dem Altmarkt fahren Sie zum Flugplatzmuseum im Nordwesten. Zurück in der Stadt passieren Sie den Turm und das Theater, bevor Sie entlang der Spree zum Tierpark und in den weitläufigen Branitzer Park radeln. Perfekt für alle, die gerne Strecke machen.",
+        "hu": "Kerékpárral a központot és a külső részeket is bejárhatja. Az Altmarkt után északnyugatnak indulunk a Repülőtéri Múzeumhoz. Visszatérve a városba érintjük a tornyot és a színházat, majd a Spree mentén tekerve érjük el az Állatparkot és a hatalmas Branitzi parkot. Ideális választás a mozgás kedvelőinek.",
+        "ro": "Cu bicicleta explorați atât centrul, cât și zonele periferice. După Altmarkt, pedalați spre Muzeul Aviației în nord-vest. Revenind în oraș, treceți pe lângă turn și teatru înainte de a pedala de-a lungul râului Spree spre Grădina Zoologică și parcul vast Branitz. Perfect pentru cei cărora le place să parcurgă distanțe mai mari.",
+        "en": "By bike, you can explore both the center and the outskirts. After Altmarkt, ride to the Airfield Museum in the northwest. Back in town, pass the tower and the theatre before cycling along the Spree to the Zoo and the extensive Branitz Park. Perfect for those who like to cover some distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spreeauenpark Café",
+            "tip": "Ideal für eine Pause zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spreeauenpark Café",
+            "tip": "Ideális egy gyors kávéra tekerés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spreeauenpark Café",
+            "tip": "Ideal pentru o pauză în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spreeauenpark Café",
+            "tip": "Ideal for a break during your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spreeuferweg",
+            "tip": "Ruhiger Weg am Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spree-parti út",
+            "tip": "Csendes útvonal a folyó mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul pe malul râului Spree",
+            "tip": "Traseu liniștit pe lângă râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spree Riverside Path",
+            "tip": "Quiet path along the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blechen-Carré",
+            "tip": "Modernes Einkaufszentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blechen-Carré",
+            "tip": "Modern bevásárlóközpont a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blechen-Carré",
+            "tip": "Centru comercial modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blechen-Carré",
+            "tip": "Modern shopping mall in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Spreeradweg für eine entspannte Fahrt.",
+          "In den Parks ist teilweise nur Schieben erlaubt."
+        ],
+        "hu": [
+          "Használja a Spree kerékpárutat a kényelmes haladáshoz.",
+          "A parkokban néhol csak tolni szabad a biciklit."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete de-a lungul Spree pentru o călătorie relaxată.",
+          "În parcuri, uneori este permisă doar împingerea bicicletei."
+        ],
+        "en": [
+          "Use the Spree cycle path for a relaxed ride.",
+          "In some parts of the parks, you must walk your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altmarkt (Cluster A)",
+            "hu": "Altmarkt (A-klaszter)",
+            "ro": "Altmarkt (Cluster A)",
+            "en": "Altmarkt (Cluster A)"
+          },
+          "coords": [
+            14.3331,
+            51.7604
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus am Schloßkirchplatz nutzen.",
+            "hu": "Parkoljon a Schloßkirchplatz közeli házban.",
+            "ro": "Folosiți parcarea de la Schloßkirchplatz.",
+            "en": "Use the parking garage at Schloßkirchplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Spremberger Turm (Cluster A)",
+            "hu": "Sprembergi torony",
+            "ro": "Turnul Spremberger",
+            "en": "Spremberg Tower"
+          },
+          "coords": [
+            14.3324,
+            51.7578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Altmarkt erreichbar.",
+            "hu": "Gyalogosan elérhető az Altmarkttól.",
+            "ro": "Accesibil pe jos de la Altmarkt.",
+            "en": "Accessible on foot from Altmarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater (Cluster A)",
+            "hu": "Állami Színház",
+            "ro": "Teatrul de Stat",
+            "en": "State Theatre"
+          },
+          "coords": [
+            14.3268,
+            51.7572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang durch den Park.",
+            "hu": "Rövid séta a parkon át.",
+            "ro": "Scurtă plimbare prin parc.",
+            "en": "Short walk through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Flugplatzmuseum (Cluster B)",
+            "hu": "Repülőtéri Múzeum (B-klaszter)",
+            "ro": "Muzeul Aviației (Cluster B)",
+            "en": "Airfield Museum (Cluster B)"
+          },
+          "coords": [
+            14.2931,
+            51.7682
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor Ort.",
+            "hu": "Nagy parkoló a helyszínen.",
+            "ro": "Parcare mare la fața locului.",
+            "en": "Large parking lot on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster B)",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.305,
+            51.765
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hiesige Gastronomie entdecken.",
+            "hu": "Fedezze fel a környék ízeit.",
+            "ro": "Descoperiți aromele locale.",
+            "en": "Discover local flavors."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Branitz (Cluster C)",
+            "hu": "Branitzi kastély (C-klaszter)",
+            "ro": "Castelul Branitz (Cluster C)",
+            "en": "Branitz Castle (Cluster C)"
+          },
+          "coords": [
+            14.3628,
+            51.7425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parkplatz an der Kastanienallee.",
+            "hu": "Parkoló a Kastanienallee mentén.",
+            "ro": "Parcare pe Kastanienallee.",
+            "en": "Parking at Kastanienallee."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Cottbus (Cluster C)",
+            "hu": "Cottbusi Állatpark",
+            "ro": "Grădina Zoologică",
+            "en": "Cottbus Zoo"
+          },
+          "coords": [
+            14.3551,
+            51.7445
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nur 5 Min Fahrt vom Schloss.",
+            "hu": "Csak 5 perc autóval a kastélytól.",
+            "ro": "Doar 5 minute cu mașina de la castel.",
+            "en": "Only 5 mins drive from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Fürst-Pückler-Park (Cluster C)",
+            "hu": "Kastélypark",
+            "ro": "Parcul Branitz",
+            "en": "Branitz Park"
+          },
+          "coords": [
+            14.3645,
+            51.7431
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Abendspaziergang.",
+            "hu": "Rövid esti séta.",
+            "ro": "Scurtă plimbare de seară.",
+            "en": "Short evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das historische Zentrum effizient mit den kulturellen Highlights am Stadtrand. Nach einem Vormittag in der Altstadt (Cluster A) fahren Sie zum beeindruckenden Flugplatzmuseum (Cluster B). Den Nachmittag verbringen Sie im weitläufigen Branitz (Cluster C), wo Sie Schloss, Park und Tierpark ohne Zeitdruck erkunden können. Die Parkmöglichkeiten sind an allen Clustern hervorragend.",
+        "hu": "Autóval hatékonyan kötheti össze a történelmi belvárost a külvárosi látnivalókkal. Az óvárosi délelőtt (A-klaszter) után irány az északnyugati Repülőtéri Múzeum (B-klaszter). A délutánt a tágas Branitzban (C-klaszter) töltjük, ahol a kastély, a park és az állatpark kényelmesen felfedezhető. A parkolás minden klaszternél megoldott és egyszerű.",
+        "ro": "Cu mașina, conectați eficient centrul istoric cu atracțiile culturale de la periferie. După o dimineață în centrul vechi (Cluster A), conduceți spre impresionantul Muzeu al Aviației (Cluster B). Petreceți după-amiaza în zona vastă Branitz (Cluster C), unde puteți explora castelul, parcul și grădina zoologică fără grabă. Facilitățile de parcare sunt excelente la toate clusterele.",
+        "en": "By car, you can efficiently combine the historic center with cultural highlights on the outskirts. After a morning in the old town (Cluster A), drive to the impressive Airfield Museum (Cluster B). Spend the afternoon in the spacious Branitz area (Cluster C), where you can explore the castle, park, and zoo at your own pace. Parking facilities are excellent at all clusters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alte Chemiefabrik",
+            "tip": "Besonderes Ambiente für den Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alte Chemiefabrik",
+            "tip": "Különleges ipari hangulat az esti vacsorához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alte Chemiefabrik",
+            "tip": "Ambiantă specială pentru seară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alte Chemiefabrik",
+            "tip": "Special atmosphere for the evening."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park-Pyramiden",
+            "tip": "Ruhe am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park-piramisok",
+            "tip": "Csend és nyugalom a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piramidele din parc",
+            "tip": "Liniște lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Pyramids",
+            "tip": "Peace and quiet by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lausitz Park",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lausitz Park",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lausitz Park",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lausitz Park",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum am besten im Parkhaus.",
+          "Die Wege zwischen den Clustern sind kurz (ca. 10-15 Min)."
+        ],
+        "hu": [
+          "A belvárosban érdemes parkolóházat használni.",
+          "A klaszterek közötti távolság rövid (kb. 10-15 perc)."
+        ],
+        "ro": [
+          "În centru, cel mai bine este să parcați într-o parcare supraetajată.",
+          "Distanțele între clustere sunt scurte (aprox. 10-15 min)."
+        ],
+        "en": [
+          "In the center, it's best to use a parking garage.",
+          "The distances between clusters are short (approx. 10-15 mins)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altmarkt (Bezirk A)",
+            "hu": "Altmarkt (A-kerület)",
+            "ro": "Altmarkt (District A)",
+            "en": "Altmarkt (District A)"
+          },
+          "coords": [
+            14.3331,
+            51.7604
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Straßenbahnen.",
+            "hu": "A villamoshálózat központi csomópontja.",
+            "ro": "Nod central pentru tramvaie.",
+            "en": "Central hub for trams."
+          }
+        },
+        {
+          "name": {
+            "de": "Spremberger Turm (Bezirk A)",
+            "hu": "Sprembergi torony",
+            "ro": "Turnul Spremberger",
+            "en": "Spremberg Tower"
+          },
+          "coords": [
+            14.3324,
+            51.7578
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Altmarkt.",
+            "hu": "Rövid séta az Altmarkttól.",
+            "ro": "Scurtă plimbare de la Altmarkt.",
+            "en": "Short walk from Altmarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater (Bezirk A)",
+            "hu": "Állami Színház",
+            "ro": "Teatrul de Stat",
+            "en": "State Theatre"
+          },
+          "coords": [
+            14.3268,
+            51.7572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Haltestelle 'Schillerplatz' direkt davor.",
+            "hu": "Megálló a Schillerplatznál közvetlenül előtte.",
+            "ro": "Stația 'Schillerplatz' chiar în față.",
+            "en": "Stop 'Schillerplatz' right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            14.334,
+            51.76
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Große Auswahl an Lokalen.",
+            "hu": "Sok étterem közül választhat.",
+            "ro": "O selecție largă de restaurante.",
+            "en": "Large selection of restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Branitzer Park (Bezirk B)",
+            "hu": "Branitzi park (B-kerület)",
+            "ro": "Parcul Branitz (District B)",
+            "en": "Branitz Park (District B)"
+          },
+          "coords": [
+            14.3645,
+            51.7431
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie 10 fährt direkt zum Park.",
+            "hu": "A 10-es busz közvetlenül a parkhoz visz.",
+            "ro": "Linia de autobuz 10 merge direct la parc.",
+            "en": "Bus line 10 goes directly to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Branitz (Bezirk B)",
+            "hu": "Branitzi kastély",
+            "ro": "Castelul Branitz",
+            "en": "Branitz Castle"
+          },
+          "coords": [
+            14.3628,
+            51.7425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historische Räume besichtigen.",
+            "hu": "Látogassa meg a történelmi szobákat.",
+            "ro": "Vizitați camerele istorice.",
+            "en": "Visit the historical rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark (Bezirk B)",
+            "hu": "Állatpark",
+            "ro": "Grădina Zoologică",
+            "en": "Zoo"
+          },
+          "coords": [
+            14.3551,
+            51.7445
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Abfahrt mit Bus 10 zurück zum Hbf.",
+            "hu": "A 10-es busszal vissza a főpályaudvarra.",
+            "ro": "Înapoi la gară cu autobuzul 10.",
+            "en": "Back to the main station with bus 10."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cottbus lässt sich hervorragend mit Tram und Bus entdecken. Der Vormittag gehört dem Zentrum (Bezirk A) mit Altmarkt, Turm und Theater. Nach dem Mittagessen bringt Sie der Bus bequem zum Branitzer Park (Bezirk B). Dort erkunden Sie die Pückler-Pyramiden und das Schloss, bevor Sie vom Tierpark aus wieder den Rückweg antreten. Ein Tag ohne Parkplatzsuche.",
+        "hu": "Cottbus kiválóan felfedezhető villamossal és busszal. A délelőtt a belvárosé (A-kerület): Altmarkt, torony és színház. Ebéd után a 10-es busz kényelmesen elviszi a Branitzi parkba (B-kerület). Ott felfedezheti a Pückler-piramisokat és a kastélyt, majd az Állatparktól indulhat vissza. Egy nap parkolóhely-keresés nélkül.",
+        "ro": "Cottbus poate fi explorat excelent cu tramvaiul și autobuzul. Dimineața aparține centrului (District A) cu Altmarkt, turnul și teatrul. După prânz, autobuzul vă duce confortabil la Parcul Branitz (District B). Acolo explorați piramidele Pückler și castelul, înainte de a pleca înapoi de la Grădina Zoologică. O zi fără grija parcării.",
+        "en": "Cottbus can be easily explored by tram and bus. The morning is dedicated to the center (District A) with Altmarkt, the tower, and the theatre. After lunch, the bus takes you comfortably to Branitz Park (District B). There, you can explore the Pückler pyramids and the castle before heading back from the Zoo. A day without the stress of finding parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jimmy's Diners",
+            "tip": "Nahe dem Staatstheater, Kult-Status."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jimmy's Diners",
+            "tip": "Kultikus étterem az Állami Színház közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jimmy's Diners",
+            "tip": "Restaurant cult lângă Teatrul de Stat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jimmy's Diners",
+            "tip": "Cult status diner near the State Theatre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parksee",
+            "tip": "Entspannung am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park-tó",
+            "tip": "Lazítás a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din parc",
+            "tip": "Relaxare lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Lake",
+            "tip": "Relaxation by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Diverse kleine Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Különböző kis üzletek az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Diverse magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Various small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtverkehr.",
+          "Die App 'VBB Bus & Bahn' hilft bei den Abfahrtszeiten."
+        ],
+        "hu": [
+          "Vegyen napijegyet a városi közlekedéshez.",
+          "A 'VBB Bus & Bahn' app segít a menetrendben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul urban.",
+          "Aplicația 'VBB Bus & Bahn' ajută cu orele de plecare."
+        ],
+        "en": [
+          "Buy a day ticket for city transport.",
+          "The 'VBB Bus & Bahn' app helps with departure times."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "city_id": "france-nantes-bis-cities-v2",
+  "anchor": {
+    "name": "Nantes-Nord (Beaujoire-Erdre)",
+    "coords": [
+      -1.528,
+      47.256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Petit Port Hafen",
+            "hu": "Petit Port kikötő",
+            "ro": "Portul Petit Port",
+            "en": "Petit Port Harbor"
+          },
+          "coords": [
+            -1.554,
+            47.243
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Start am Treffpunkt der Studenten und Ruderer.",
+            "hu": "Csendes kezdés az egyetemisták és evezősök találkozóhelyén.",
+            "ro": "Un început liniștit la locul de întâlnire al studenților și canotorilor.",
+            "en": "A quiet start at the meeting point for students and rowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Saint-Hubert",
+            "hu": "Szent Hubert villa",
+            "ro": "Vila Saint-Hubert",
+            "en": "Villa Saint-Hubert"
+          },
+          "coords": [
+            -1.552,
+            47.244
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Herrenhauses.",
+            "hu": "Csodálja meg ennek a történelmi kúriának az építészetét.",
+            "ro": "Admirați arhitectura acestui conac istoric.",
+            "en": "Admire the architecture of this historic manor house."
+          }
+        },
+        {
+          "name": {
+            "de": "Erdre Flussufer",
+            "hu": "Erdre folyópart",
+            "ro": "Malul râului Erdre",
+            "en": "Erdre Riverbanks"
+          },
+          "coords": [
+            -1.545,
+            47.248
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Flusses, den Franz I. als den schönsten Frankreichs bezeichnete.",
+            "hu": "Sétáljon a folyó mentén, melyet I. Ferenc Franciaország legszebb folyójának nevezett.",
+            "ro": "Plimbați-vă de-a lungul râului pe care Francisc I l-a numit cel mai frumos din Franța.",
+            "en": "Stroll along the river that Francis I called the most beautiful in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion de la Beaujoire",
+            "hu": "Beaujoire Stadion",
+            "ro": "Stadionul Beaujoire",
+            "en": "Stadion de la Beaujoire"
+          },
+          "coords": [
+            -1.525,
+            47.255
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Heimat des FC Nantes, berühmt für seine einzigartige Architektur.",
+            "hu": "Az FC Nantes otthona, híres egyedi építészetéről.",
+            "ro": "Casa clubului FC Nantes, faimoasă pentru arhitectura sa unică.",
+            "en": "Home of FC Nantes, famous for its unique architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Beaujoire",
+            "hu": "Beaujoire park",
+            "ro": "Parcul Beaujoire",
+            "en": "Beaujoire Park"
+          },
+          "coords": [
+            -1.528,
+            47.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick am Flussufer.",
+            "hu": "Ideális helyszín egy piknikhez a folyóparton.",
+            "ro": "Loc ideal pentru un picnic pe malul râului.",
+            "en": "Ideal spot for a picnic by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten Beaujoire",
+            "hu": "Beaujoire rózsakert",
+            "ro": "Grădina de trandafiri Beaujoire",
+            "en": "Beaujoire Rose Garden"
+          },
+          "coords": [
+            -1.53,
+            47.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Über 20.000 Rosenstöcke in voller Blüte im Juni.",
+            "hu": "Több mint 20 000 tő rózsa teljes pompájában júniusban.",
+            "ro": "Peste 20.000 de fire de trandafiri în plină floare în iunie.",
+            "en": "Over 20,000 rose bushes in full bloom during June."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Spaziergang führt Sie durch das grüne Herz von Nantes-Nord. Wir beginnen am malerischen Petit Port und folgen dem Ufer der Erdre, vorbei an eleganten Villen. Der Nachmittag gehört der prachtvollen Beaujoire, wo Sport und Botanik aufeinandertreffen, gekrönt von einem Besuch im preisgekrönten Rosengarten.",
+        "hu": "Ez a séta Nantes-Nord zöld szívébe kalauzolja Önt. A festői Petit Port kikötőből indulva az Erdre partját követjük, elhaladva az elegáns villák mellett. A délutánt a pompás Beaujoire-ban töltjük, ahol a sport és a botanika találkozik, a napot pedig a díjnyertes rózsakert látogatása koronázza meg.",
+        "ro": "Această plimbare vă poartă prin inima verde a zonei Nantes-Nord. Începem la pitorescul Petit Port și urmăm malul râului Erdre, trecând pe lângă vile elegante. După-amiaza este dedicată zonei Beaujoire, unde sportul și botanica se întâlnesc, culminând cu o vizită la grădina de trandafiri premiată.",
+        "en": "This walk takes you through the green heart of Nantes-Nord. Starting at the picturesque Petit Port, we follow the banks of the Erdre past elegant villas. The afternoon is spent in the magnificent Beaujoire, where sport and botany meet, crowned by a visit to the award-winning rose garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Nantais",
+            "tip": "Probieren Sie den berühmten Mandelkuchen Gâteau Nantais."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Nantais",
+            "tip": "Kóstolja meg a híres mandulás süteményt, a Gâteau Nantais-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Nantais",
+            "tip": "Încercați celebra prăjitură cu migdale Gâteau Nantais."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Nantais",
+            "tip": "Try the famous almond cake, Gâteau Nantais."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erdre Ufer",
+            "tip": "Schatten unter alten Trauerweiden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdre-part",
+            "tip": "Árnyék az öreg szomorúfüzek alatt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Erdre",
+            "tip": "Umbră sub sălciile plângătoare bătrâne.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erdre Banks",
+            "tip": "Shade under old weeping willows.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beaujoire Markt",
+            "tip": "Regionale Spezialitäten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beaujoire piac",
+            "tip": "Regionális specialitások közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Beaujoire",
+            "tip": "Specialități regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beaujoire Market",
+            "tip": "Regional specialties directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für die Uferwege ein Muss.",
+          "Besuchen Sie den Rosengarten vorzugsweise im Juni."
+        ],
+        "hu": [
+          "A parti ösvényekhez kényelmes cipő kötelező.",
+          "A rózsakertet lehetőleg júniusban látogassa meg."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt obligatorii pentru potecile de pe mal.",
+          "Vizitați grădina de trandafiri preferabil în luna iunie."
+        ],
+        "en": [
+          "Comfortable shoes are a must for the riverside paths.",
+          "Visit the rose garden preferably in June."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Petit Port",
+            "hu": "Petit Port",
+            "ro": "Petit Port",
+            "en": "Petit Port"
+          },
+          "coords": [
+            -1.554,
+            47.243
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt der Velodyssée-Route.",
+            "hu": "A Velodyssée útvonal kezdőpontja.",
+            "ro": "Punctul de plecare al rutei Velodyssée.",
+            "en": "Starting point of the Velodyssée route."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodrome de la Touche",
+            "hu": "La Touche Lóversenypálya",
+            "ro": "Hipodromul de la Touche",
+            "en": "Hippodrome de la Touche"
+          },
+          "coords": [
+            -1.556,
+            47.246
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein geschäftiger Ort an Renntagen.",
+            "hu": "Nyüzsgő hely a versenynapokon.",
+            "ro": "Un loc plin de viață în zilele de curse.",
+            "en": "A busy place on race days."
+          }
+        },
+        {
+          "name": {
+            "de": "Erdre Radweg",
+            "hu": "Erdre kerékpárút",
+            "ro": "Pista de biciclete Erdre",
+            "en": "Erdre Bike Path"
+          },
+          "coords": [
+            -1.54,
+            47.252
+          ],
+          "category": "natural features",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Flach und perfekt für eine entspannte Fahrt.",
+            "hu": "Lapos és tökéletes egy pihentető tekeréshez.",
+            "ro": "Plan și perfect pentru o plimbare relaxantă.",
+            "en": "Flat and perfect for a relaxed ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion & Beaujoire Park",
+            "hu": "Stadion és Beaujoire park",
+            "ro": "Stadion și Parcul Beaujoire",
+            "en": "Stadion & Beaujoire Park"
+          },
+          "coords": [
+            -1.528,
+            47.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt am Parkeingang.",
+            "hu": "Kerékpárparkolók közvetlenül a park bejáratánál.",
+            "ro": "Parcare pentru biciclete chiar la intrarea în parc.",
+            "en": "Bike parking available right at the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Grand-Blottereau",
+            "hu": "Grand-Blottereau park",
+            "ro": "Parcul Grand-Blottereau",
+            "en": "Parc du Grand-Blottereau"
+          },
+          "coords": [
+            -1.512,
+            47.234
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das tropische Gewächshaus.",
+            "hu": "Látogassa meg a trópusi üvegházat.",
+            "ro": "Vizitați sera tropicală.",
+            "en": "Visit the tropical greenhouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die weiten Grünflächen von Nantes-Nord. Von den Sportanlagen am Petit Port radeln wir flussaufwärts zur Beaujoire und machen dann einen Sprung in den botanisch reichen Grand-Blottereau Park, der eine Weltreise der Pflanzen bietet.",
+        "hu": "Kerékpárral fedezzük fel Nantes-Nord tágas zöldterületeit. A Petit Port sportlétesítményeitől a folyó mentén tekerünk fel a Beaujoire-ig, majd egy ugrással a botanikai ritkaságokban gazdag Grand-Blottereau parkba érünk, amely a növények világkörüli utazását kínálja.",
+        "ro": "Cu bicicleta explorăm spațiile verzi vaste din Nantes-Nord. De la facilitățile sportive de la Petit Port, pedalăm în amonte către Beaujoire și apoi facem un salt în parcul Grand-Blottereau, bogat din punct de vedere botanic, care oferă o călătorie în jurul lumii prin plante.",
+        "en": "By bike, we explore the vast green spaces of Nantes-Nord. From the sports facilities at Petit Port, we cycle upstream to Beaujoire and then take a leap to the botanically rich Grand-Blottereau Park, which offers a world tour of plants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Erfrischender Apfelwein nach der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Frissítő almabor a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Cidru răcoritor după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette du Parc",
+            "tip": "Refreshing cider after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grand-Blottereau",
+            "tip": "Japanischer Gartenbereich für Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand-Blottereau",
+            "tip": "Japán kertrészlet meditációhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand-Blottereau",
+            "tip": "Secțiunea grădinii japoneze pentru meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand-Blottereau",
+            "tip": "Japanese garden section for meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bicloo Stationen",
+            "tip": "Nutzen Sie das städtische Leihradsystem."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicloo állomások",
+            "tip": "Használja a városi bérbringa-rendszert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații Bicloo",
+            "tip": "Folosiți sistemul municipal de închiriere biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicloo Stations",
+            "tip": "Use the municipal bike-sharing system."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Wege entlang der Erdre.",
+          "Helme werden für die längeren Abschnitte empfohlen."
+        ],
+        "hu": [
+          "Használja a kijelölt utakat az Erdre mentén.",
+          "A hosszabb szakaszokon bukósisak viselése javasolt."
+        ],
+        "ro": [
+          "Folosiți pistele marcate de-a lungul Erdre.",
+          "Cască recomandată pentru secțiunile mai lungi."
+        ],
+        "en": [
+          "Use the marked paths along the Erdre.",
+          "Helmets recommended for the longer sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Petit Port Cluster",
+            "hu": "Petit Port negyed",
+            "ro": "Clusterul Petit Port",
+            "en": "Petit Port Cluster"
+          },
+          "coords": [
+            -1.554,
+            47.243
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz Petit Port.",
+            "hu": "Parkoljon a nagy Petit Port parkolóban.",
+            "ro": "Parcați în parcarea mare de la Petit Port.",
+            "en": "Park at the large Petit Port parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodrome (Walk)",
+            "hu": "Lóversenypálya (séta)",
+            "ro": "Hipodrom (pe jos)",
+            "en": "Hippodrome (Walk)"
+          },
+          "coords": [
+            -1.556,
+            47.246
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaujoire Cluster",
+            "hu": "Beaujoire negyed",
+            "ro": "Clusterul Beaujoire",
+            "en": "Beaujoire Cluster"
+          },
+          "coords": [
+            -1.525,
+            47.255
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahrt zum Stadion-Parkplatz.",
+            "hu": "Autózás a stadion parkolójához.",
+            "ro": "Mergeți cu mașina până la parcarea stadionului.",
+            "en": "Drive to the stadium parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten (Walk)",
+            "hu": "Rózsakert (séta)",
+            "ro": "Grădina de trandafiri (pe jos)",
+            "en": "Rose Garden (Walk)"
+          },
+          "coords": [
+            -1.53,
+            47.261
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto am Stadion stehen.",
+            "hu": "Hagyja az autót a stadionnál.",
+            "ro": "Lăsați mașina la stadion.",
+            "en": "Leave the car at the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Blottereau",
+            "hu": "Grand-Blottereau",
+            "ro": "Grand-Blottereau",
+            "en": "Grand-Blottereau"
+          },
+          "coords": [
+            -1.512,
+            47.234
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken beim Schloss Grand-Blottereau.",
+            "hu": "Parkolás a Grand-Blottereau kastélynál.",
+            "ro": "Parcare lângă castelul Grand-Blottereau.",
+            "en": "Parking near the Grand-Blottereau chateau."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die wichtigsten Cluster von Nantes-Nord effizient. Wir erkunden erst den Campus- und Hafenbereich am Petit Port zu Fuß, fahren dann zur Beaujoire für Stadion und Park, und beenden den Tag im prachtvollen Grand-Blottereau Park im Osten.",
+        "hu": "Ez az autós túra hatékonyan köti össze Nantes-Nord legfontosabb negyedeit. Előbb a Petit Port kampuszát és kikötőjét fedezzük fel gyalog, majd a Beaujoire-hoz hajtunk a stadionért és a parkért, végül a napot a keleti Grand-Blottereau parkban zárjuk.",
+        "ro": "Acest tur cu mașina conectează eficient principalele clustere din Nantes-Nord. Explorăm mai întâi zona campusului și a portului de la Petit Port pe jos, apoi conducem la Beaujoire pentru stadion și parc, și încheiem ziua în splendidul parc Grand-Blottereau din est.",
+        "en": "This car tour efficiently connects the most important clusters of Nantes-Nord. We first explore the campus and harbor area at Petit Port on foot, then drive to Beaujoire for the stadium and park, and end the day in the magnificent Grand-Blottereau Park in the east."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Erdre",
+            "tip": "Restaurant mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Erdre",
+            "tip": "Étterem kilátással a folyóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Erdre",
+            "tip": "Restaurant cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Erdre",
+            "tip": "Restaurant with river views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petit Port",
+            "tip": "Ruhiger Blick auf die Kanuten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petit Port",
+            "tip": "Csendes kilátás a kenusokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petit Port",
+            "tip": "Vedere liniștită către canoiști.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petit Port",
+            "tip": "Quiet view of the canoeists.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paridis Shopping Center",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paridis Bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Paridis",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paridis Shopping Center",
+            "tip": "Large shopping center nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Petit Port ist an Spieltagen schwierig.",
+          "Nutzen Sie den Boulevard de la Beaujoire für schnelle Verbindungen."
+        ],
+        "hu": [
+          "A Petit Port-nál nehéz a parkolás meccsnapokon.",
+          "Használja a Boulevard de la Beaujoire-t a gyors közlekedéshez."
+        ],
+        "ro": [
+          "Parcarea la Petit Port este dificilă în zilele de meci.",
+          "Folosiți Boulevard de la Beaujoire pentru conexiuni rapide."
+        ],
+        "en": [
+          "Parking at Petit Port is difficult on match days.",
+          "Use the Boulevard de la Beaujoire for quick connections."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Petit Port (Tram T2)",
+            "hu": "Petit Port (T2 villamos)",
+            "ro": "Petit Port (Tramvai T2)",
+            "en": "Petit Port (Tram T2)"
+          },
+          "coords": [
+            -1.554,
+            47.243
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt an der Linie 2.",
+            "hu": "Közvetlenül a 2-es vonal mellett.",
+            "ro": "Chiar pe linia 2.",
+            "en": "Right on line 2."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Saint-Hubert (Walk)",
+            "hu": "Szent Hubert villa (séta)",
+            "ro": "Vila Saint-Hubert (pe jos)",
+            "en": "Villa Saint-Hubert (Walk)"
+          },
+          "coords": [
+            -1.552,
+            47.244
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "5 Minuten Fußweg von der Haltestelle.",
+            "hu": "5 perc séta a megállótól.",
+            "ro": "5 minute de mers de la stație.",
+            "en": "5-minute walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaujoire (Tram T1)",
+            "hu": "Beaujoire (T1 villamos)",
+            "ro": "Beaujoire (Tramvai T1)",
+            "en": "Beaujoire (Tram T1)"
+          },
+          "coords": [
+            -1.528,
+            47.259
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Endstation der Linie 1.",
+            "hu": "Az 1-es vonal végállomása.",
+            "ro": "Capătul liniei 1.",
+            "en": "Terminus of line 1."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion (Walk)",
+            "hu": "Stadion (séta)",
+            "ro": "Stadion (pe jos)",
+            "en": "Stadion (Walk)"
+          },
+          "coords": [
+            -1.525,
+            47.255
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben dem Park.",
+            "hu": "Közvetlenül a park mellett.",
+            "ro": "Chiar lângă parc.",
+            "en": "Right next to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Blottereau (Tram T1)",
+            "hu": "Grand-Blottereau (T1 villamos)",
+            "ro": "Grand-Blottereau (Tramvai T1)",
+            "en": "Grand-Blottereau (Tram T1)"
+          },
+          "coords": [
+            -1.512,
+            47.234
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Haltestelle Mairie de Doulon.",
+            "hu": "Mairie de Doulon megálló.",
+            "ro": "Stația Mairie de Doulon.",
+            "en": "Mairie de Doulon stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Tramnetzes von Nantes verbinden wir die Nordbezirke spielend leicht. Die Linie 2 bringt uns zum Petit Port, und die Linie 1 führt uns direkt zu den grünen Lungen der Stadt: Beaujoire und Grand-Blottereau.",
+        "hu": "Nantes kiváló villamoshálózatának köszönhetően könnyedén kapcsoljuk össze az északi negyedeket. A 2-es vonal a Petit Porthoz repít, az 1-es vonal pedig egyenesen a város zöld tüdejébe kalauzol: a Beaujoire-ba és a Grand-Blottereau-ba.",
+        "ro": "Datorită rețelei excelente de tramvai din Nantes, conectăm districtele nordice foarte ușor. Linia 2 ne duce la Petit Port, iar linia 1 ne poartă direct către plămânii verzi ai orașului: Beaujoire și Grand-Blottereau.",
+        "en": "Thanks to Nantes' excellent tram network, we connect the northern districts with ease. Line 2 takes us to Petit Port, and Line 1 leads us straight to the city's green lungs: Beaujoire and Grand-Blottereau."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Doulon",
+            "tip": "Frische Croissants für die Parkpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Doulon",
+            "tip": "Friss croissant a parkbéli pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Doulon",
+            "tip": "Croasante proaspete pentru pauza din parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Doulon",
+            "tip": "Fresh croissants for the park break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten",
+            "tip": "Meditative Stille zwischen den Blüten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Meditatív csend a virágok között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Liniște meditativă printre flori.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden",
+            "tip": "Meditative silence among the blooms.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "TAN Kiosk",
+            "tip": "Kaufen Sie ein Tagesticket für das gesamte Netz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "TAN kioszk",
+            "tip": "Vegyen napijegyet a teljes hálózatra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc TAN",
+            "tip": "Cumpărați un bilet de o zi pentru întreaga rețea."
+          }
+        ],
+        "en": [
+          {
+            "name": "TAN Kiosk",
+            "tip": "Buy a day pass for the entire network."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die TAN-App für Echtzeit-Infos herunter.",
+          "Die Tramlinie 1 ist die schnellste Verbindung zum Zentrum."
+        ],
+        "hu": [
+          "Töltse le a TAN appot a valós idejű infókért.",
+          "Az 1-es villamos a leggyorsabb kapcsolat a központtal."
+        ],
+        "ro": [
+          "Descărcați aplicația TAN pentru informații în timp real.",
+          "Linia de tramvai 1 este cea mai rapidă conexiune către centru."
+        ],
+        "en": [
+          "Download the TAN app for real-time info.",
+          "Tram line 1 is the fastest connection to the city center."
+        ]
+      }
+    }
+  }
+}

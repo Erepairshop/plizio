@@ -1,0 +1,1161 @@
+{
+  "city_id": "it-taormina",
+  "anchor": {
+    "name": "Taormina",
+    "coords": [
+      15.29,
+      37.852
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "id": "porta-messina",
+          "name": {
+            "de": "Porta Messina",
+            "hu": "Porta Messina",
+            "ro": "Poarta Messina",
+            "en": "Porta Messina"
+          },
+          "coords": [
+            15.2892,
+            37.8531
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der historische Nordeingang zur Altstadt.",
+            "hu": "Az óváros történelmi északi kapuja.",
+            "ro": "Intrarea istorică de nord în orașul vechi.",
+            "en": "The historical northern entrance to the old town."
+          }
+        },
+        {
+          "id": "teatro-antico",
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Görög színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theatre"
+          },
+          "coords": [
+            15.2922,
+            37.8525
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Blick auf den Ätna vom obersten Rang.",
+            "hu": "A legszebb kilátás az Etnára a felső sorokból.",
+            "ro": "Cea mai bună priveliște spre Etna de la ultimul rând.",
+            "en": "Best view of Mount Etna from the top tier."
+          }
+        },
+        {
+          "id": "palazzo-corvaja",
+          "name": {
+            "de": "Palazzo Corvaja",
+            "hu": "Corvaja-palota",
+            "ro": "Palatul Corvaja",
+            "en": "Corvaja Palace"
+          },
+          "coords": [
+            15.2895,
+            37.8528
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus arabischen und normannischen Stilen.",
+            "hu": "Csodálja meg az arab és normann stílusok keveredését.",
+            "ro": "Admirați amestecul de stiluri arabe și normande.",
+            "en": "Admire the mix of Arabic and Norman architectural styles."
+          }
+        },
+        {
+          "id": "corso-umberto",
+          "name": {
+            "de": "Corso Umberto",
+            "hu": "Corso Umberto",
+            "ro": "Corso Umberto",
+            "en": "Corso Umberto"
+          },
+          "coords": [
+            15.2882,
+            37.8521
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für Schaufensterbummel und Souvenirs.",
+            "hu": "Tökéletes kirakatnézegetéshez és szuvenírekhez.",
+            "ro": "Perfect pentru shopping și suveniruri.",
+            "en": "Perfect for window shopping and local souvenirs."
+          }
+        },
+        {
+          "id": "piazza-ix-aprile",
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2871,
+            37.8517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der Panoramaterrasse.",
+            "hu": "Készítsen fotót a panorámateraszról.",
+            "ro": "Faceți o fotografie de pe terasa panoramică.",
+            "en": "Take a photo from the panoramic terrace."
+          }
+        },
+        {
+          "id": "lunch-taormina",
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebédidő",
+            "ro": "Prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            15.2865,
+            37.8515
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie Pasta alla Norma in einer kleinen Gasse.",
+            "hu": "Kóstolja meg a Pasta alla Norma-t egy kis mellékutcában.",
+            "ro": "Încercați Pasta alla Norma într-o străduță lăturalnică.",
+            "en": "Try Pasta alla Norma in a small side street."
+          }
+        },
+        {
+          "id": "villa-comunale",
+          "name": {
+            "de": "Giardini della Villa Comunale",
+            "hu": "Városi park",
+            "ro": "Grădinile Publice",
+            "en": "Public Gardens"
+          },
+          "coords": [
+            15.289,
+            37.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schattiger Rückzugsort mit exotischen Pflanzen.",
+            "hu": "Árnyas menedék egzotikus növényekkel.",
+            "ro": "Un refugiu umbros cu plante exotice.",
+            "en": "A shaded retreat with exotic plants and structures."
+          }
+        },
+        {
+          "id": "duomo-taormina",
+          "name": {
+            "de": "Duomo di Taormina",
+            "hu": "Taorminai dóm",
+            "ro": "Domul din Taormina",
+            "en": "Taormina Cathedral"
+          },
+          "coords": [
+            15.2848,
+            37.8512
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Festungskirche aus dem 13. Jahrhundert.",
+            "hu": "Látogasson el a 13. századi erődtemplomba.",
+            "ro": "Vizitați biserica-fortăreață din secolul al XIII-lea.",
+            "en": "Visit the 13th-century fortress-like cathedral."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir das antike Theater mit seinem weltberühmten Ätna-Blick. Danach schlendern wir über den Corso Umberto zur Piazza IX Aprile, dem Herzstück der Stadt. Nach einem sizilianischen Mittagessen entspannen wir im kühlen Schatten des Stadtparks und beenden den Tag am historischen Dom. Ein perfekter Mix aus Geschichte, Shopping und mediterranem Flair.",
+        "hu": "A reggelt az ókori görög színházban kezdjük, ahonnan páratlan kilátás nyílik az Etnára. Ezután a Corso Umberto hangulatos utcáján sétálunk a város főterére, a Piazza IX Aprile-re. Egy kiadós szicíliai ebéd után a Villa Comunale botanikus kertjében pihenünk meg az árnyas fák alatt, majd a napot a monumentális dóm megtekintésével zárjuk.",
+        "ro": "Dimineața explorăm teatrul antic cu faimoasa sa vedere spre Etna. Apoi ne plimbăm pe Corso Umberto până în Piazza IX Aprile, inima orașului. După un prânz sicilian, ne relaxăm la umbra grădinilor publice și încheiem ziua la catedrala istorică. Un amestec perfect de istorie, cumpărături și atmosferă mediteraneană autentică.",
+        "en": "Start your morning at the Ancient Theatre for iconic views of Mt. Etna. Then, stroll along Corso Umberto to Piazza IX Aprile, the town's social heart. After a traditional Sicilian lunch, find peace in the shaded Public Gardens before finishing your tour at the historic Cathedral. This route blends Taormina's rich history with its elegant lifestyle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bam Bar",
+            "tip": "Beste Granita mit Brioche in Taormina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bam Bar",
+            "tip": "A legjobb granita és briós Taorminában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bam Bar",
+            "tip": "Cea mai bună granita cu brioche din Taormina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bam Bar",
+            "tip": "The best granita and brioche in Taormina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Ruhiger Park abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park",
+            "tip": "Csendes park távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Publice",
+            "tip": "Parc liniștit departe de aglomerație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Public Gardens",
+            "tip": "Quiet park away from the main crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Keramik und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Kerámia és divatüzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Ceramică și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Umberto",
+            "tip": "Ceramics and fashion boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Früh am Morgen zum Theater gehen, um die Hitze zu vermeiden.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Érdemes korán menni a színházhoz a tömeg elkerülése végett.",
+          "Kényelmes cipőt viseljen a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Mergeți devreme la teatru pentru a evita căldura.",
+          "Purtați încălțăminte comodă pentru străzile pietruite."
+        ],
+        "en": [
+          "Head to the theatre early to beat the crowds and heat.",
+          "Wear comfortable shoes for the hilly cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "porta-messina",
+          "name": {
+            "de": "Porta Messina",
+            "hu": "Porta Messina",
+            "ro": "Poarta Messina",
+            "en": "Porta Messina"
+          },
+          "coords": [
+            15.2892,
+            37.8531
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare.",
+            "en": "Tour starting point."
+          }
+        },
+        {
+          "id": "isola-bella-bike",
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            15.3005,
+            37.8505
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abfahrt zum Strand.",
+            "hu": "Lekerékpározás a tengerpartra.",
+            "ro": "Coborâre spre plajă.",
+            "en": "Ride down to the beach."
+          }
+        },
+        {
+          "id": "giardini-naxos-bike",
+          "name": {
+            "de": "Giardini Naxos",
+            "hu": "Giardini Naxos",
+            "ro": "Giardini Naxos",
+            "en": "Giardini Naxos"
+          },
+          "coords": [
+            15.267,
+            37.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Flache Strandpromenade zum Radeln.",
+            "hu": "Lapos tengerparti sétány kerékpározáshoz.",
+            "ro": "Faleză plană pentru ciclism.",
+            "en": "Flat coastal promenade for easy riding."
+          }
+        },
+        {
+          "id": "teatro-antico-bike",
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Görög színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theatre"
+          },
+          "coords": [
+            15.2922,
+            37.8525
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Aufstieg zurück.",
+            "hu": "Kihívást jelentő emelkedő visszafelé.",
+            "ro": "Urcare solicitantă la întoarcere.",
+            "en": "Challenging climb back to town."
+          }
+        },
+        {
+          "id": "piazza-ix-aprile-bike",
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2871,
+            37.8517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erholung nach dem Aufstieg.",
+            "hu": "Pihenés az emelkedő után.",
+            "ro": "Odihnă după urcare.",
+            "en": "Rest after the climb."
+          }
+        },
+        {
+          "id": "gastro-bike",
+          "name": {
+            "de": "E-Bike Belohnung",
+            "hu": "Bringás jutalom",
+            "ro": "Răsplata ciclistului",
+            "en": "Cyclist Reward"
+          },
+          "coords": [
+            15.286,
+            37.851
+          ],
+          "category": "gastro",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Arancini zum Mitnehmen.",
+            "hu": "Arancini elvitelre.",
+            "ro": "Arancini la pachet.",
+            "en": "Grab an arancino to go."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese sportliche Tour führt uns hinunter zum kristallklaren Wasser von Isola Bella und weiter entlang der Küste nach Giardini Naxos. Der Rückweg bergauf nach Taormina erfordert Kondition (oder ein E-Bike!), wird aber mit dem Besuch des antiken Theaters und einem Sonnenuntergang auf der Piazza IX Aprile belohnt.",
+        "hu": "Ez a sportos túra levezet az Isola Bella kristálytiszta vizéhez, majd tovább a part mentén Giardini Naxos-ig. A visszatérés Taorminába komoly emelkedőt jelent (vagy e-bike-ot igényel), de a görög színház látványa és a Piazza IX Aprile-n töltött naplemente minden fáradtságot megér.",
+        "ro": "Acest tur sportiv ne duce jos la apele cristaline de la Isola Bella și mai departe pe coastă spre Giardini Naxos. Întoarcerea în pantă spre Taormina necesită condiție fizică (sau un e-bike!), dar este răsplătită cu vizitarea teatrului antic și un apus în Piazza IX Aprile.",
+        "en": "This active tour takes you down to the crystal-clear waters of Isola Bella and along the coast to Giardini Naxos. The ride back up to Taormina is a challenge (E-bike recommended), but the reward is a late afternoon visit to the Ancient Theatre and sunset views from the main square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Da Cristina",
+            "tip": "Beste Arancini der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Da Cristina",
+            "tip": "A város legjobb arancinija."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Da Cristina",
+            "tip": "Cea mai bună arancini din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Da Cristina",
+            "tip": "The best arancini in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Isola Bella",
+            "tip": "Frühmorgens am ruhigsten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isola Bella",
+            "tip": "Kora reggel a legnyugodtabb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Isola Bella",
+            "tip": "Cea mai liniștită dimineața devreme.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Isola Bella",
+            "tip": "Quietist in the early morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radverleih",
+            "tip": "E-Bikes empfohlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "E-bike ajánlott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete",
+            "tip": "E-bike recomandat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rentals",
+            "tip": "E-bikes strongly recommended."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ein E-Bike wegen der steilen Hänge.",
+          "Vorsicht im Stadtverkehr."
+        ],
+        "hu": [
+          "Használjon e-bike-ot a meredek emelkedők miatt.",
+          "Vigyázzon a városi forgalomban."
+        ],
+        "ro": [
+          "Folosiți un e-bike din cauza pantelor abrupte.",
+          "Atenție la traficul urban."
+        ],
+        "en": [
+          "Use an E-bike due to the steep coastal slopes.",
+          "Be careful with tourist traffic on the main roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 18.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "id": "castelmola-view",
+          "name": {
+            "de": "Castelmola",
+            "hu": "Castelmola",
+            "ro": "Castelmola",
+            "en": "Castelmola"
+          },
+          "coords": [
+            15.277,
+            37.859
+          ],
+          "category": "landmark",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Blick von oben auf Taormina.",
+            "hu": "Kilátás Taorminára felülről.",
+            "ro": "Vedere de sus asupra Taorminei.",
+            "en": "Look down on Taormina from above."
+          }
+        },
+        {
+          "id": "taormina-center-car",
+          "name": {
+            "de": "Taormina Zentrum",
+            "hu": "Taormina központ",
+            "ro": "Centrul Taorminei",
+            "en": "Taormina Center"
+          },
+          "coords": [
+            15.2892,
+            37.8531
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken im Lumbi-Parkhaus.",
+            "hu": "Parkolás a Lumbi parkolóházban.",
+            "ro": "Parcați în parcarea Lumbi.",
+            "en": "Park at Lumbi parking garage."
+          }
+        },
+        {
+          "id": "teatro-antico-car",
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Görög színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theatre"
+          },
+          "coords": [
+            15.2922,
+            37.8525
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz.",
+            "hu": "Séta a parkolóból.",
+            "ro": "Pe jos de la parcare.",
+            "en": "Walk from the car park drop-off."
+          }
+        },
+        {
+          "id": "piazza-ix-aprile-car",
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2871,
+            37.8517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Herz der Altstadt.",
+            "hu": "Az óváros szíve.",
+            "ro": "Inima orașului vechi.",
+            "en": "The heart of the old town."
+          }
+        },
+        {
+          "id": "lunch-car",
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            15.286,
+            37.851
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sizilianische Spezialitäten.",
+            "hu": "Szicíliai specialitások.",
+            "ro": "Specialități siciliene.",
+            "en": "Authentic Sicilian specialties."
+          }
+        },
+        {
+          "id": "isola-bella-car",
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            15.3005,
+            37.8505
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt hinunter zum Meer.",
+            "hu": "Autózás le a tengerhez.",
+            "ro": "Drum spre mare.",
+            "en": "Drive down to the seaside."
+          }
+        },
+        {
+          "id": "giardini-naxos-sunset",
+          "name": {
+            "de": "Giardini Naxos",
+            "hu": "Giardini Naxos",
+            "ro": "Giardini Naxos",
+            "en": "Giardini Naxos"
+          },
+          "coords": [
+            15.267,
+            37.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Blick auf Taormina beleuchtet.",
+            "hu": "Kilátás a kivilágított Taorminára.",
+            "ro": "Vedere spre Taormina iluminată.",
+            "en": "View of Taormina lit up at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten wir im Bergdorf Castelmola für den besten Überblick. Danach parken wir in Taormina, um das antike Theater und den Corso zu Fuß zu erkunden. Am Nachmittag fahren wir hinunter zur Isola Bella für eine Brise Meeresluft und beenden den Tag mit einem Blick auf die beleuchtete Stadt von Giardini Naxos aus.",
+        "hu": "Autóval a hegyi faluban, Castelmolában kezdünk a legjobb panoráma kedvéért. Ezután Taorminában parkolunk, hogy gyalog fedezzük fel a görög színházat és a belvárost. Délután lehajtunk az Isola Bella-hoz egy kis tengerparti kikapcsolódásra, majd a napot Giardini Naxos-ban zárjuk, ahonnan rálátni a kivilágított városra.",
+        "ro": "Cu mașina începem în satul de munte Castelmola pentru cea mai bună panoramă. Apoi parcăm în Taormina pentru a explora teatrul antic și Corso pe jos. După-amiaza coborâm la Isola Bella pentru briza mării și încheiem ziua cu o vedere spre orașul iluminat din Giardini Naxos.",
+        "en": "Start by driving up to Castelmola for a bird's-eye view. Then, park in Taormina to explore the Ancient Theatre and old town on foot. In the afternoon, drive down to Isola Bella for a coastal break, finishing your day with a scenic view of the illuminated hillside from the Giardini Naxos promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Tavernetta",
+            "tip": "Frischer Fisch am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Tavernetta",
+            "tip": "Friss halételek a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Tavernetta",
+            "tip": "Pește proaspăt lângă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Tavernetta",
+            "tip": "Fresh seafood by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castelmola",
+            "tip": "Panoramablick ohne Trubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castelmola",
+            "tip": "Panoráma tömeg nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelmola",
+            "tip": "Vedere panoramică fără agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castelmola",
+            "tip": "Panoramic views without the main crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mandelwein",
+            "tip": "Spezialität aus Castelmola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mandulabor",
+            "tip": "Castelmolai specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de migdale",
+            "tip": "Specialitate din Castelmola."
+          }
+        ],
+        "en": [
+          {
+            "name": "Almond Wine",
+            "tip": "The specialty of Castelmola."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkhaus Lumbi, das Zentrum ist ZTL.",
+          "Fahren Sie vorsichtig auf den Serpentinen."
+        ],
+        "hu": [
+          "Használja a Lumbi parkolót, a központ korlátozott forgalmú (ZTL).",
+          "Vezessen óvatosan a szerpentineken."
+        ],
+        "ro": [
+          "Folosiți parcarea Lumbi, centrul este zonă ZTL.",
+          "Conduceți cu atenție pe serpentine."
+        ],
+        "en": [
+          "Park at Lumbi or Mazzarò; the center is a ZTL (restricted) zone.",
+          "Drive carefully on the narrow mountain switchbacks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "id": "taormina-bus-terminal",
+          "name": {
+            "de": "Bus-Terminal",
+            "hu": "Buszpályaudvar",
+            "ro": "Terminal Autobuz",
+            "en": "Bus Terminal"
+          },
+          "coords": [
+            15.291,
+            37.854
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunft aus Catania oder Messina.",
+            "hu": "Érkezés Catania vagy Messina felől.",
+            "ro": "Sosire din Catania sau Messina.",
+            "en": "Arrival point from Catania or Messina."
+          }
+        },
+        {
+          "id": "teatro-antico-transit",
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Görög színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theatre"
+          },
+          "coords": [
+            15.2922,
+            37.8525
+          ],
+          "category": "landmark",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Terminal.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la terminal.",
+            "en": "Short walk from the bus terminal."
+          }
+        },
+        {
+          "id": "piazza-ix-aprile-transit",
+          "name": {
+            "de": "Piazza IX Aprile",
+            "hu": "Piazza IX Aprile",
+            "ro": "Piazza IX Aprile",
+            "en": "Piazza IX Aprile"
+          },
+          "coords": [
+            15.2871,
+            37.8517
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Blick über die Bucht.",
+            "hu": "Kilátás az öbölre.",
+            "ro": "Vedere peste golf.",
+            "en": "Panoramic views over the bay."
+          }
+        },
+        {
+          "id": "lunch-transit",
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            15.2855,
+            37.851
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Pasta und Wein.",
+            "hu": "Tészta és bor.",
+            "ro": "Paste și vin.",
+            "en": "Local pasta and Etna wine."
+          }
+        },
+        {
+          "id": "funivia-top",
+          "name": {
+            "de": "Seilbahn (Oben)",
+            "hu": "Sikló (Felső állomás)",
+            "ro": "Telecabina (Sus)",
+            "en": "Cable Car (Top)"
+          },
+          "coords": [
+            15.2905,
+            37.8535
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fahrt hinunter zum Strand.",
+            "hu": "Siklózás le a tengerpartra.",
+            "ro": "Călătorie spre plajă.",
+            "en": "Take the cable car down to the beach."
+          }
+        },
+        {
+          "id": "isola-bella-transit",
+          "name": {
+            "de": "Isola Bella",
+            "hu": "Isola Bella",
+            "ro": "Isola Bella",
+            "en": "Isola Bella"
+          },
+          "coords": [
+            15.3005,
+            37.8505
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kristallklares Wasser.",
+            "hu": "Kristálytiszta víz.",
+            "ro": "Apă cristalină.",
+            "en": "Stunning pebble beach and island."
+          }
+        },
+        {
+          "id": "giardini-naxos-bus",
+          "name": {
+            "de": "Giardini Naxos",
+            "hu": "Giardini Naxos",
+            "ro": "Giardini Naxos",
+            "en": "Giardini Naxos"
+          },
+          "coords": [
+            15.267,
+            37.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus zurück zum Bahnhof.",
+            "hu": "Busz vissza a vasútállomáshoz.",
+            "ro": "Autobuz spre gară.",
+            "en": "Bus back to the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bus-Terminal erreichen wir schnell das antike Theater. Nach einem Bummel durch die Altstadt und einem Mittagessen nutzen wir die Seilbahn, um bequem zur Isola Bella hinunterzufahren. Mit dem Lokalbus geht es schließlich nach Giardini Naxos, von wo aus Züge und Busse die Rückreise ermöglichen.",
+        "hu": "A buszpályaudvarról érkezve hamar elérjük a görög színházat. Az óvárosi séta és ebéd után siklóval ereszkedünk le az Isola Bella-hoz, hogy élvezzük a tengert. Végül helyi busszal megyünk át Giardini Naxos-ba, ahonnan könnyen elérhetők a távolsági buszok és vonatok.",
+        "ro": "De la terminalul de autobuz ajungem rapid la teatrul antic. După o plimbare prin orașul vechi și prânz, folosim telecabina pentru a coborî confortabil la Isola Bella. Cu autobuzul local mergem în final la Giardini Naxos, de unde sunt disponibile conexiuni de tren și autobuz pentru retur.",
+        "en": "Arrive at the main bus terminal and walk to the Ancient Theatre. After exploring the historic center and lunch, take the scenic cable car down to Isola Bella beach. Use the local bus to reach Giardini Naxos for a final seaside stroll before catching your return bus or train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Tiramisù",
+            "tip": "Gute Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Tiramisù",
+            "tip": "Kiváló tengeri ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Tiramisù",
+            "tip": "Fructe de mare bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Tiramisù",
+            "tip": "Great seafood pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mazzarò",
+            "tip": "Ruhiger Strandabschnitt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mazzarò",
+            "tip": "Csendesebb partszakasz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mazzarò",
+            "tip": "Zonă de plajă liniștită.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mazzarò",
+            "tip": "Quieter beach area near the cable car.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabacchi",
+            "tip": "Busfahrkarten vorab kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabacchi",
+            "tip": "Vegye meg előre a buszjegyet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabacchi",
+            "tip": "Cumpărați biletele de autobuz în avans."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabacchi",
+            "tip": "Buy bus tickets in advance at newsstands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Seilbahn fährt alle 15 Minuten.",
+          "Kaufen Sie ein Tagesticket für den Interbus."
+        ],
+        "hu": [
+          "A sikló 15 percenként jár.",
+          "Váltson napijegyet az Interbus járataira."
+        ],
+        "ro": [
+          "Telecabina circulă la fiecare 15 minute.",
+          "Cumpărați un bilet de o zi pentru Interbus."
+        ],
+        "en": [
+          "The cable car runs every 15 minutes.",
+          "Check the 'Interbus' schedule for trips to nearby towns."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1183 @@
+{
+  "city_id": "friedberg-extra",
+  "anchor": {
+    "name": "Friedberg (Hessen)",
+    "coords": [
+      50.33,
+      8.75
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaiserstraße",
+            "hu": "Kaiserstraße",
+            "ro": "Kaiserstraße",
+            "en": "Kaiserstraße"
+          },
+          "coords": [
+            50.332,
+            8.751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die breiteste mittelalterliche Marktstraße Deutschlands.",
+            "hu": "Németország legszélesebb középkori piaci utcája.",
+            "ro": "Cea mai lată stradă comercială medievală din Germania.",
+            "en": "The widest medieval market street in Germany."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche Unserer Lieben Frau",
+            "hu": "Miasszonyunk Várostemplom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            50.334,
+            8.753
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wichtige gotische Hallenkirche mit wertvollen Glasmalereien.",
+            "hu": "Fontos gótikus csarnoktemplom értékes üvegablakokkal.",
+            "ro": "Biserică gotică importantă cu vitralii valoroase.",
+            "en": "Important Gothic hall church with valuable stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Judenbad (Mikwe)",
+            "hu": "Zsidó fürdő (Mikve)",
+            "ro": "Baia Rituală Evreiască (Mikve)",
+            "en": "Jewish Bath (Mikveh)"
+          },
+          "coords": [
+            50.335,
+            8.752
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einzigartige mittelalterliche Mikwe, 25 Meter tief im Boden.",
+            "hu": "Egyedülálló középkori mikve, 25 méter mélyen a föld alatt.",
+            "ro": "O mikve medievală unică, situată la 25 de metri sub pământ.",
+            "en": "Unique medieval mikveh, 25 meters deep in the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus (Mittagessen)",
+            "hu": "Régi Városháza (Ebéd)",
+            "ro": "Primăria Veche (Prânz)",
+            "en": "Old Town Hall (Lunch)"
+          },
+          "coords": [
+            50.336,
+            8.751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Gebäude im Herzen der Altstadt.",
+            "hu": "Történelmi épület az óváros szívében.",
+            "ro": "Clădire istorică în inima orașului vechi.",
+            "en": "Historic building in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetterau-Museum",
+            "hu": "Wetterau Múzeum",
+            "ro": "Muzeul Wetterau",
+            "en": "Wetterau Museum"
+          },
+          "coords": [
+            50.337,
+            8.754
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spannende Einblicke in die regionale Geschichte und Archäologie.",
+            "hu": "Izgalmas betekintés a régió történelmébe és régészetébe.",
+            "ro": "Perspective fascinante asupra istoriei și arheologiei regionale.",
+            "en": "Exciting insights into regional history and archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Friedberg",
+            "hu": "Friedbergi vár",
+            "ro": "Castelul Friedberg",
+            "en": "Friedberg Castle"
+          },
+          "coords": [
+            50.341,
+            8.758
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine der größten Burganlagen Deutschlands.",
+            "hu": "Németország egyik legnagyobb várkomplexuma.",
+            "ro": "Una dintre cele mai mari fortificații din Germania.",
+            "en": "One of the largest castle complexes in Germany."
+          }
+        },
+        {
+          "name": {
+            "de": "Adolfsturm",
+            "hu": "Adolf-torony",
+            "ro": "Turnul Adolf",
+            "en": "Adolfsturm Tower"
+          },
+          "coords": [
+            50.342,
+            8.759
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt mit tollem Rundblick.",
+            "hu": "A város jelképe, remek körpanorámával.",
+            "ro": "Simbolul orașului, cu o vedere panoramică superbă.",
+            "en": "Landmark of the city with a great panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Diebsturm",
+            "hu": "Diebsturm (Tolvaj-torony)",
+            "ro": "Turnul Diebsturm",
+            "en": "Diebsturm Tower"
+          },
+          "coords": [
+            50.339,
+            8.755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mittelalterlicher Wehrturm der Stadtbefestigung.",
+            "hu": "Középkori védőtorony a városi erődből.",
+            "ro": "Turn de apărare medieval din fortificația orașului.",
+            "en": "Medieval defensive tower of the city fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der imposanten Kaiserstraße und besuchen Sie die gotische Stadtkirche. Ein absolutes Highlight ist die mittelalterliche Mikwe, die tief in den Boden reicht. Nach einem Mittagessen am Alten Rathaus erkunden Sie das Wetterau-Museum, bevor Sie zur gewaltigen Burg Friedberg aufbrechen. Besteigen Sie den Adolfsturm für die beste Aussicht.",
+        "hu": "Kezdje a napot az impozáns Kaiserstraßén, majd látogasson el a gótikus Várostemplomba. A nap fénypontja a középkori mikve, amely mélyen a föld alá nyúlik. Az Óvárosházánál elköltött ebéd után fedezze fel a Wetterau Múzeumot, mielőtt a hatalmas Friedbergi vár felé venné az irányt. Másszon fel az Adolf-toronyba a legjobb kilátásért.",
+        "ro": "Începeți ziua pe impresionanta Kaiserstraße și vizitați biserica gotică a orașului. Un punct culminant este mikve medievală, care coboară adânc în pământ. După un prânz la Primăria Veche, explorați Muzeul Wetterau înainte de a porni spre masivul Castel Friedberg. Urcați în Turnul Adolf pentru cea mai bună priveliște.",
+        "en": "Start your day on the impressive Kaiserstraße and visit the Gothic city church. A highlight is the medieval Mikveh, which reaches deep into the ground. After lunch at the Old Town Hall, explore the Wetterau Museum before heading to the massive Friedberg Castle. Climb the Adolfsturm tower for the best panoramic view of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wetterauer Apfelwein",
+            "tip": "Probieren Sie den regionalen 'Stöffche' in einer lokalen Gaststätte."
+          },
+          {
+            "name": "Handkäse mit Musik",
+            "tip": "Ein klassisches hessisches Gericht, ideal zum Vesper."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wetteraui almabor",
+            "tip": "Kóstolja meg a helyi 'Stöffche'-t egy hangulatos vendéglőben."
+          },
+          {
+            "name": "Handkäse mit Musik",
+            "tip": "Klasszikus hesseni sajtétel hagymás öntettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de mere Wetterau",
+            "tip": "Gustați faimosul 'Stöffche' regional într-o tavernă locală."
+          },
+          {
+            "name": "Handkäse mit Musik",
+            "tip": "Un preparat clasic din Hessa, ideal pentru o gustare autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wetterau Apple Wine",
+            "tip": "Try the regional 'Stöffche' in a traditional local tavern."
+          },
+          {
+            "name": "Handkäse mit Musik",
+            "tip": "A classic Hessian cheese dish served with onions and vinegar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burggarten",
+            "tip": "Ein ruhiger Ort für eine Pause innerhalb der Burgmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seewiese",
+            "tip": "Große Grünanlage am Rande der Altstadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Csendes pihenőhely a várfalakon belül.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seewiese",
+            "tip": "Tágas park az óváros szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Un loc liniștit pentru o pauză între zidurile cetății.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seewiese",
+            "tip": "Zonă verde vastă la marginea orașului vechi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "A quiet spot for a break within the castle walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Seewiese",
+            "tip": "Large green park area at the edge of the old town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaiserstraße Wochenmarkt",
+            "tip": "Regionale Spezialitäten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserstraße hetipiac",
+            "tip": "Regionális specialitások közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Kaiserstraße",
+            "tip": "Specialități regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserstraße Weekly Market",
+            "tip": "Regional specialties directly from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Mikwe ist nur zu bestimmten Zeiten zugänglich, prüfen Sie die Öffnungszeiten vorab.",
+          "Tragen Sie festes Schuhwerk für das Kopfsteinpflaster in der Burg.",
+          "Friedberg lässt sich wunderbar mit dem benachbarten Bad Nauheim kombinieren."
+        ],
+        "hu": [
+          "A mikve csak bizonyos időpontokban látogatható, ellenőrizze előre a nyitvatartást.",
+          "Viseljen kényelmes cipőt a vár macskaköves útjaihoz.",
+          "Friedberg remekül kombinálható a szomszédos Bad Nauheim fürdővárossal."
+        ],
+        "ro": [
+          "Mikve este accesibilă doar la anumite ore, verificați programul în avans.",
+          "Purtați încălțăminte comodă pentru pavajul de piatră din castel.",
+          "Friedberg poate fi combinat minunat cu orașul vecin Bad Nauheim."
+        ],
+        "en": [
+          "The Mikveh is only accessible at certain times, check opening hours in advance.",
+          "Wear sturdy shoes for the cobblestone streets in the castle area.",
+          "Friedberg can be perfectly combined with the neighboring spa town of Bad Nauheim."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaiserstraße",
+            "hu": "Kaiserstraße",
+            "ro": "Kaiserstraße",
+            "en": "Kaiserstraße"
+          },
+          "coords": [
+            50.332,
+            8.751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Viel Platz zum Radeln auf der breiten Straße.",
+            "hu": "Rengeteg hely a biciklizéshez a széles utcán.",
+            "ro": "Mult spațiu pentru ciclism pe strada lată.",
+            "en": "Plenty of space for cycling on the wide street."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche",
+            "hu": "Várostemplom",
+            "ro": "Biserica orașului",
+            "en": "City Church"
+          },
+          "coords": [
+            50.334,
+            8.753
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt am Kirchplatz vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a templomtéren.",
+            "ro": "Suporturi pentru biciclete disponibile chiar în piața bisericii.",
+            "en": "Bike racks available directly at the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Judenbad",
+            "hu": "Zsidó fürdő",
+            "ro": "Baia rituală",
+            "en": "Jewish Bath"
+          },
+          "coords": [
+            50.335,
+            8.752
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abstellen der Räder am Eingang problemlos.",
+            "hu": "A biciklik leállítása a bejáratnál problémamentes.",
+            "ro": "Parcarea bicicletelor la intrare este facilă.",
+            "en": "Parking bikes at the entrance is easy."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.336,
+            8.751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine kurze Trinkpause.",
+            "hu": "Tökéletes hely egy rövid frissítő szünetre.",
+            "ro": "Loc perfect pentru o scurtă pauză de hidratare.",
+            "en": "Perfect spot for a quick hydration break."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetterau-Museum",
+            "hu": "Wetterau Múzeum",
+            "ro": "Muzeul Wetterau",
+            "en": "Wetterau Museum"
+          },
+          "coords": [
+            50.337,
+            8.754
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kulturstopp im Zentrum.",
+            "hu": "Kulturális megálló a központban.",
+            "ro": "Oprire culturală în centru.",
+            "en": "Cultural stop in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Friedberg",
+            "hu": "Friedbergi vár",
+            "ro": "Castelul Friedberg",
+            "en": "Friedberg Castle"
+          },
+          "coords": [
+            50.341,
+            8.758
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vorsicht bei Kopfsteinpflaster in der Burg.",
+            "hu": "Vigyázat a macskakővel a várban.",
+            "ro": "Atenție la pavajul de piatră din castel.",
+            "en": "Watch out for cobblestones inside the castle area."
+          }
+        },
+        {
+          "name": {
+            "de": "Adolfsturm",
+            "hu": "Adolf-torony",
+            "ro": "Turnul Adolf",
+            "en": "Adolfsturm Tower"
+          },
+          "coords": [
+            50.342,
+            8.759
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schließen Sie die Räder unten gut an.",
+            "hu": "Zárja le jól a bicikliket lenn.",
+            "ro": "Asigurați bine bicicletele jos.",
+            "en": "Lock your bikes securely at the bottom."
+          }
+        },
+        {
+          "name": {
+            "de": "Usa-Wanderweg",
+            "hu": "Usa-parti út",
+            "ro": "Traseul Usa",
+            "en": "Usa Riverside Path"
+          },
+          "coords": [
+            50.345,
+            8.76
+          ],
+          "category": "forest",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang des Flusses Usa.",
+            "hu": "Szép kerékpárút az Usa folyó mentén.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul râului Usa.",
+            "en": "Beautiful bike path along the Usa river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Friedberg entspannt mit dem Rad. Nach der Altstadt und dem beeindruckenden Judenbad führt der Weg hinauf zur Burg. Der Adolfsturm bietet einen weiten Blick über die Wetterau. Zum Abschluss genießen Sie eine Fahrt entlang der Usa im Grünen.",
+        "hu": "Fedezze fel Friedberget kényelmesen kerékpárral. Az óváros és a lenyűgöző Zsidó fürdő után az út felvezet a várba. Az Adolf-toronyból messzire ellátni a Wetterau vidékén. Végezetül élvezze a tekerést az Usa folyó menti zöldövezetben.",
+        "ro": "Explorați Friedberg relaxat cu bicicleta. După orașul vechi și baia rituală impresionantă, drumul urcă spre castel. Turnul Adolf oferă o vedere largă asupra regiunii Wetterau. La final, bucurați-vă de o plimbare de-a lungul râului Usa în natură.",
+        "en": "Explore Friedberg in a relaxed way by bike. After visiting the old town and the impressive Jewish bath, the path leads up to the castle. The Adolfsturm tower offers a wide view over the Wetterau region. Finally, enjoy a ride along the Usa river in the greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radler-Stopp",
+            "tip": "Erfrischen Sie sich mit einem lokalen Bier oder Apfelwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklis pihenő",
+            "tip": "Frissüljön fel egy helyi sörrel vagy almaborral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popas pentru bicicliști",
+            "tip": "Răcoriți-vă cu o bere locală sau un vin de mere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cyclist Stop",
+            "tip": "Refresh yourself with a local beer or apple wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Usa-Auen",
+            "tip": "Natur pur am Flusslauf.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Usa-árterület",
+            "tip": "Tiszta természet a folyóparton.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lunca Usa",
+            "tip": "Natură pură pe malul râului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Usa Meadows",
+            "tip": "Pure nature along the river course.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "In der Umgebung finden sich tolle regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gazdaboltok",
+            "tip": "A környéken remek regionális termékek találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de fermă",
+            "tip": "În împrejurimi găsiți produse regionale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farm Shops",
+            "tip": "Great regional products can be found in the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt hat einige steile Abschnitte, Schieben ist manchmal bequemer.",
+          "Nutzen Sie den Usa-Radweg für die Rückfahrt."
+        ],
+        "hu": [
+          "Az óvárosban vannak meredek szakaszok, néha kényelmesebb tolni a biciklit.",
+          "Használja az Usa-kerékpárutat a visszatéréshez."
+        ],
+        "ro": [
+          "Orașul vechi are porțiuni abrupte, uneori este mai comod să mergeți pe lângă bicicletă.",
+          "Folosiți pista de biciclete Usa pentru drumul de întoarcere."
+        ],
+        "en": [
+          "The old town has some steep sections, walking the bike is sometimes easier.",
+          "Use the Usa bike path for a scenic return journey."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Parkplatz",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Orașul Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            50.331,
+            8.75
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz, idealer Startpunkt.",
+            "hu": "Központi parkoló, ideális kiindulópont.",
+            "ro": "Parcare centrală, punct de pornire ideal.",
+            "en": "Central parking lot, ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Judenbad (Mikwe)",
+            "hu": "Zsidó fürdő",
+            "ro": "Baia rituală",
+            "en": "Jewish Bath"
+          },
+          "coords": [
+            50.335,
+            8.752
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche",
+            "hu": "Várostemplom",
+            "ro": "Biserica orașului",
+            "en": "City Church"
+          },
+          "coords": [
+            50.334,
+            8.753
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beeindruckende Architektur.",
+            "hu": "Lenyűgöző építészet.",
+            "ro": "Arhitectură impresionantă.",
+            "en": "Impressive architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Friedberg (Cluster 2)",
+            "hu": "Friedbergi vár",
+            "ro": "Castelul Friedberg",
+            "en": "Friedberg Castle"
+          },
+          "coords": [
+            50.341,
+            8.758
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Burg.",
+            "hu": "Parkoljon közvetlenül a várnál.",
+            "ro": "Parcați direct la castel.",
+            "en": "Park directly at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Adolfsturm",
+            "hu": "Adolf-torony",
+            "ro": "Turnul Adolf",
+            "en": "Adolfsturm Tower"
+          },
+          "coords": [
+            50.342,
+            8.759
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bester Aussichtspunkt der Region.",
+            "hu": "A régió legjobb kilátópontja.",
+            "ro": "Cel mai bun punct de observare din regiune.",
+            "en": "Best viewpoint in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Bad Nauheim Sprudelhof",
+            "hu": "Bad Nauheim Sprudelhof",
+            "ro": "Sprudelhof Bad Nauheim",
+            "en": "Bad Nauheim Sprudelhof"
+          },
+          "coords": [
+            50.366,
+            8.745
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Prachtvolle Jugendstil-Anlage im Nachbarort.",
+            "hu": "Pompás szecessziós épületegyüttes a szomszédban.",
+            "ro": "Ansamblu superb în stil Jugendstil în localitatea vecină.",
+            "en": "Magnificent Art Nouveau complex in the neighboring town."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannisberg (Ausblick)",
+            "hu": "Johannisberg (kilátás)",
+            "ro": "Johannisberg (panoramă)",
+            "en": "Johannisberg (view)"
+          },
+          "coords": [
+            50.363,
+            8.73
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Panoramablick über die Wetterau zum Abschluss.",
+            "hu": "Panorámás kilátás a Wetterau-ra befejezésül.",
+            "ro": "Vedere panoramică asupra regiunii Wetterau la final.",
+            "en": "Panoramic view over the Wetterau to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das historische Friedberg perfekt mit dem benachbarten Bad Nauheim. Nach dem Besuch der Mikwe und der Burg Friedberg fahren Sie zum beeindruckenden Sprudelhof. Den Tag lassen Sie mit einem herrlichen Ausblick vom Johannisberg ausklingen.",
+        "hu": "Autóval tökéletesen összekötheti a történelmi Friedberget a szomszédos Bad Nauheimmal. A mikve és a Friedbergi vár megtekintése után utazzon a lenyűgöző Sprudelhofhoz. A napot a Johannisbergről nyíló csodás kilátással zárhatja.",
+        "ro": "Cu mașina, puteți combina perfect Friedberg-ul istoric cu localitatea vecină Bad Nauheim. După vizitarea băii rituale și a Castelului Friedberg, conduceți spre impresionantul Sprudelhof. Încheiați ziua cu o vedere magnifică de pe Johannisberg.",
+        "en": "By car, you can perfectly combine historic Friedberg with neighboring Bad Nauheim. After visiting the Mikveh and Friedberg Castle, drive to the impressive Sprudelhof. End the day with a magnificent panoramic view from Johannisberg hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Johannisberg Restaurant",
+            "tip": "Speisen mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Johannisberg étterem",
+            "tip": "Étkezés kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Johannisberg",
+            "tip": "Masă cu panoramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Johannisberg Restaurant",
+            "tip": "Dining with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark Bad Nauheim",
+            "tip": "Wunderschöne Parkanlage zum Flanieren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bad Nauheim-i Kurpark",
+            "tip": "Gyönyörű park a sétáláshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Kurpark Bad Nauheim",
+            "tip": "Zonă de parc minunată pentru plimbări.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bad Nauheim Spa Park",
+            "tip": "Beautiful park area for a stroll.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bad Nauheim Innenstadt",
+            "tip": "Kleine Boutiquen und Fachgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bad Nauheim belvárosa",
+            "tip": "Kis butikok és szaküzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului Bad Nauheim",
+            "tip": "Mici buticuri și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bad Nauheim City Center",
+            "tip": "Small boutiques and specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser in der Innenstadt.",
+          "In Bad Nauheim ist das Parken oft zeitlich begrenzt."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolóházakat.",
+          "Bad Nauheimban a parkolás gyakran időkorlátos."
+        ],
+        "ro": [
+          "Utilizați parcările supraetajate din centrul orașului.",
+          "În Bad Nauheim, parcarea este adesea limitată în timp."
+        ],
+        "en": [
+          "Use the multi-story car parks in the city center.",
+          "Parking in Bad Nauheim is often time-limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedberg Bahnhof",
+            "hu": "Friedberg vasútállomás",
+            "ro": "Gara Friedberg",
+            "en": "Friedberg Station"
+          },
+          "coords": [
+            50.33,
+            8.761
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wichtiger Verkehrsknotenpunkt in Hessen.",
+            "hu": "Fontos közlekedési csomópont Hessenben.",
+            "ro": "Nod important de transport în Hessa.",
+            "en": "Important transport hub in Hesse."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserstraße (Bus)",
+            "hu": "Kaiserstraße (busz)",
+            "ro": "Kaiserstraße (autobuz)",
+            "en": "Kaiserstraße (Bus)"
+          },
+          "coords": [
+            50.332,
+            8.751
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schnell erreichbar mit dem Stadtbus.",
+            "hu": "Gyorsan elérhető a helyi busszal.",
+            "ro": "Accesibil rapid cu autobuzul urban.",
+            "en": "Quickly reachable by city bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Judenbad",
+            "hu": "Zsidó fürdő",
+            "ro": "Baia rituală",
+            "en": "Jewish Bath"
+          },
+          "coords": [
+            50.335,
+            8.752
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Besucher.",
+            "hu": "Minden látogató számára kötelező látnivaló.",
+            "ro": "O necesitate pentru fiecare vizitator.",
+            "en": "A must-see for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Friedberg",
+            "hu": "Friedbergi vár",
+            "ro": "Castelul Friedberg",
+            "en": "Friedberg Castle"
+          },
+          "coords": [
+            50.341,
+            8.758
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Burg ist gut zu Fuß oder per Bus angebunden.",
+            "hu": "A vár jól elérhető gyalog vagy busszal.",
+            "ro": "Castelul este bine conectat pe jos sau cu autobuzul.",
+            "en": "The castle is well connected by foot or bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetterau-Museum",
+            "hu": "Wetterau Múzeum",
+            "ro": "Muzeul Wetterau",
+            "en": "Wetterau Museum"
+          },
+          "coords": [
+            50.337,
+            8.754
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spannende Ausstellungen.",
+            "hu": "Izgalmas kiállítások.",
+            "ro": "Expoziții fascinante.",
+            "en": "Exciting exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserstraße (Shopping/Eis)",
+            "hu": "Kaiserstraße (vásárlás/fagyi)",
+            "ro": "Kaiserstraße (cumpărături/înghețată)",
+            "en": "Kaiserstraße (Shopping/Ice cream)"
+          },
+          "coords": [
+            50.333,
+            8.752
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang in der Einkaufsstraße.",
+            "hu": "Kellemes befejezés a bevásárlóutcában.",
+            "ro": "Final relaxat pe strada comercială.",
+            "en": "Relaxing end of the day on the shopping street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Bahnanbindung starten Sie bequem am Bahnhof Friedberg. Mit dem Stadtbus gelangen Sie schnell ins Zentrum zur Kaiserstraße und zum Judenbad. Nach der Erkundung der Burg bringt Sie der Bus zurück zum Shopping und schließlich zum Bahnhof.",
+        "hu": "A jó vasúti összeköttetésnek köszönhetően kényelmesen indulhat a friedbergi állomásról. A helyi busszal gyorsan bejuthat a központba, a Kaiserstraßéhoz és a Zsidó fürdőhöz. A vár felfedezése után a busz visszaviszi Önt vásárolni, majd végül az állomásra.",
+        "ro": "Datorită conexiunii feroviare bune, porniți comod de la gara Friedberg. Cu autobuzul urban ajungeți rapid în centru, pe Kaiserstraße și la baia rituală. După explorarea castelului, autobuzul vă aduce înapoi pentru cumpărături și, în final, la gară.",
+        "en": "Thanks to excellent rail connections, start your trip conveniently at Friedberg station. Take the city bus to the center for Kaiserstraße and the Jewish bath. After exploring the castle, the bus takes you back for some shopping before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscafé Rialto",
+            "tip": "Leckeres Eis direkt an der Kaiserstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eiscafé Rialto",
+            "tip": "Finom fagylalt közvetlenül a Kaiserstraßén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eiscafé Rialto",
+            "tip": "Înghețată delicioasă chiar pe Kaiserstraße."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eiscafé Rialto",
+            "tip": "Delicious ice cream right on Kaiserstraße."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofspark",
+            "tip": "Kleine Grünanlage für die Wartezeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomás parkja",
+            "tip": "Kis zöldövezet a várakozáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gării",
+            "tip": "Mică zonă verde pentru timpul de așteptare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Park",
+            "tip": "Small green area for your waiting time.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Zahlreiche Geschäfte des täglichen Bedarfs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Számos üzlet a mindennapi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Numeroase magazine pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Numerous shops for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App des RMV für aktuelle Abfahrtszeiten.",
+          "Ein Gruppenticket kann sich bereits ab 2 Personen lohnen."
+        ],
+        "hu": [
+          "Használja az RMV alkalmazást az aktuális indulási időkhöz.",
+          "A csoportos jegy már 2 főtől megérheti."
+        ],
+        "ro": [
+          "Utilizați aplicația RMV pentru orele de plecare actualizate.",
+          "Un bilet de grup poate fi rentabil chiar de la 2 persoane."
+        ],
+        "en": [
+          "Use the RMV app for up-to-date departure times.",
+          "A group ticket can be worth it for as few as 2 people."
+        ]
+      }
+    }
+  }
+}

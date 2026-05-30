@@ -1,0 +1,1077 @@
+{
+  "city_id": "city-it-catania",
+  "anchor": {
+    "name": "Piazza del Duomo",
+    "coords": [
+      15.0873,
+      37.5025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontana dell'Elefante",
+            "hu": "Elefánt-kút",
+            "ro": "Fântâna Elefantului",
+            "en": "Elephant Fountain"
+          },
+          "coords": [
+            15.0873,
+            37.5025
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Symbol Catanias aus Lavagestein.",
+            "hu": "Catania lávakőből készült jelképe.",
+            "ro": "Simbolul orașului Catania, sculptat în lavă.",
+            "en": "The iconic lava-stone symbol of Catania."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Catania",
+            "hu": "Cataniai székesegyház",
+            "ro": "Catedrala din Catania",
+            "en": "Catania Cathedral"
+          },
+          "coords": [
+            15.0881,
+            37.5023
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kapelle der Heiligen Agatha.",
+            "hu": "Látogassa meg Szent Ágota kápolnáját.",
+            "ro": "Vizitați capela Sfintei Agata.",
+            "en": "Visit the chapel of Saint Agatha."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Biscari",
+            "hu": "Biscari palota",
+            "ro": "Palatul Biscari",
+            "en": "Biscari Palace"
+          },
+          "coords": [
+            15.0898,
+            37.5032
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des sizilianischen Barocks.",
+            "hu": "A szicíliai barokk egyik remekműve.",
+            "ro": "O capodoperă a barocului sicilian.",
+            "en": "A masterpiece of Sicilian Baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            15.0833,
+            37.5024
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Antike Ruinen mitten im modernen Zentrum.",
+            "hu": "Antik romok a modern városközpont közepén.",
+            "ro": "Ruine antice chiar în centrul modern.",
+            "en": "Ancient ruins tucked inside the modern center."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Ursino",
+            "hu": "Ursino-vár",
+            "ro": "Castelul Ursino",
+            "en": "Ursino Castle"
+          },
+          "coords": [
+            15.0841,
+            37.4994
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einst direkt am Meer, heute von Lava umgeben.",
+            "hu": "Egykor a tengerparton állt, ma láva veszi körül.",
+            "ro": "Cândva pe malul mării, azi înconjurat de lavă.",
+            "en": "Once by the sea, now surrounded by lava fields."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Etnea",
+            "hu": "Via Etnea",
+            "ro": "Via Etnea",
+            "en": "Via Etnea"
+          },
+          "coords": [
+            15.0858,
+            37.5085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die Hauptader mit Blick auf den Ätna.",
+            "hu": "A város főútja kilátással az Etnára.",
+            "ro": "Principala arteră cu vedere spre muntele Etna.",
+            "en": "The main shopping street with Etna views."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bellini",
+            "hu": "Villa Bellini",
+            "ro": "Villa Bellini",
+            "en": "Villa Bellini"
+          },
+          "coords": [
+            15.0845,
+            37.5108
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der schönste Park für einen Spaziergang am Abend.",
+            "hu": "A város legszebb parkja egy esti sétához.",
+            "ro": "Cel mai frumos parc pentru o plimbare de seară.",
+            "en": "The city's finest park for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Rundgang führt Sie durch das barocke Herz von Catania, das nach dem Vulkanausbruch von 1693 aus dunklem Lavagestein wiederaufgebaut wurde. Wir beginnen am prächtigen Domplatz mit dem berühmten Elefantenbrunnen, erkunden antike römische Spuren und enden im grünen Park Villa Bellini. Erleben Sie die einzigartige Mischung aus Geschichte, Architektur und dem ständigen Blick auf den Ätna.",
+        "hu": "Ez a séta Catania barokk szívén vezet keresztül, amelyet az 1693-as vulkánkitörés után sötét lávakőből építettek újjá. A pompás dóm téren kezdünk a híres Elefánt-kúttal, felfedezzük az ókori római nyomokat, majd a Villa Bellini park zöldjében fejezzük be a napot. Tapasztalja meg a történelem, az építészet és az Etna állandó jelenlétének egyedülálló keverékét.",
+        "ro": "Acest traseu pietonal vă poartă prin inima barocă a Cataniei, reconstruită din piatră de lavă neagră după erupția din 1693. Începem în superba Piazza del Duomo cu celebra Fântână a Elefantului, explorăm vestigiile romane antice și încheiem în verdeața parcului Villa Bellini. Experimentați amestecul unic de istorie, arhitectură și prezența constantă a muntelui Etna.",
+        "en": "This walking tour takes you through the Baroque heart of Catania, rebuilt from dark lava stone after the 1693 eruption. We begin at the magnificent Cathedral Square with the famous Elephant Fountain, explore ancient Roman traces, and conclude in the lush Villa Bellini park. Experience the unique blend of history, architecture, and the ever-present silhouette of Mount Etna."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Probieren Sie die Arancini bei Savia in der Via Etnea."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Siziliens berühmtestes Nudelgericht mit Auberginen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Kóstolja meg az arancinit a Savia-ban a Via Etnea-n."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Szicília leghíresebb padlizsános tésztaétele."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Încercați arancini la Savia, pe Via Etnea."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Cel mai faimos preparat sicilian cu paste și vinete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancini di riso",
+            "tip": "Try the arancini at Savia on Via Etnea."
+          },
+          {
+            "name": "Pasta alla Norma",
+            "tip": "Sicily's most famous pasta dish with eggplant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Bellini",
+            "tip": "Ein ruhiger Rückzugsort im Zentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Giovanni Li Cuti",
+            "tip": "Kleiner Hafen mit schwarzem Lavastrand.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Bellini",
+            "tip": "Csendes menedék a városközpontban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Giovanni Li Cuti",
+            "tip": "Kis kikötő fekete lávahomokos stranddal.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Bellini",
+            "tip": "Un refugiu liniștit în centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Giovanni Li Cuti",
+            "tip": "Mic port cu plajă de lavă neagră.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Bellini",
+            "tip": "A quiet escape in the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Giovanni Li Cuti",
+            "tip": "Small harbor with black lava beach.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Etnea",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          },
+          {
+            "name": "Mercato della Pescheria",
+            "tip": "Der lebhafte Fischmarkt hinter der Piazza Duomo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Etnea",
+            "tip": "A város fő bevásárlóutcája."
+          },
+          {
+            "name": "Mercato della Pescheria",
+            "tip": "A nyüzsgő halpiac a Piazza Duomo mögött."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Etnea",
+            "tip": "Principala stradă comercială a orașului."
+          },
+          {
+            "name": "Mercato della Pescheria",
+            "tip": "Piața de pește vibrantă din spatele Piazza Duomo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Etnea",
+            "tip": "The city's main shopping boulevard."
+          },
+          {
+            "name": "Mercato della Pescheria",
+            "tip": "The lively fish market behind Piazza Duomo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster aus Lavagestein.",
+          "Die beste Zeit für den Fischmarkt ist der frühe Vormittag.",
+          "Achten Sie in engen Gassen auf Motorroller.",
+          "Trinken Sie eine Granita mit Brioche zum Frühstück."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a lávakőből készült macskakövekhez.",
+          "A halpiacot kora délelőtt érdemes meglátogatni.",
+          "Figyeljen a robogókra a szűk utcákban.",
+          "Próbálja ki a granitát brióssal reggelire."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul din piatră de lavă.",
+          "Cea mai bună oră pentru piața de pește este dimineața devreme.",
+          "Fiți atenți la scutere în zonele înguste.",
+          "Savurați o granita cu brioșă la micul dejun."
+        ],
+        "en": [
+          "Wear comfortable shoes for the lava stone cobblestones.",
+          "Early morning is the best time for the fish market.",
+          "Watch out for scooters in the narrow alleys.",
+          "Try a granita with brioche for breakfast."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Via Etnea",
+            "hu": "Via Etnea",
+            "ro": "Via Etnea",
+            "en": "Via Etnea"
+          },
+          "coords": [
+            15.0858,
+            37.5085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Morgendliche Fahrt auf der Hauptstraße.",
+            "hu": "Reggeli tekerés a főúton.",
+            "ro": "Plimbare de dimineață pe strada principală.",
+            "en": "Morning ride on the main boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bellini",
+            "hu": "Villa Bellini",
+            "ro": "Villa Bellini",
+            "en": "Villa Bellini"
+          },
+          "coords": [
+            15.0845,
+            37.5108
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspanntes Radeln durch die Parkwege.",
+            "hu": "Pihentető biciklizés a park ösvényein.",
+            "ro": "Pedalare relaxată pe aleile parcului.",
+            "en": "Relaxing cycling through the park paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Benediktinerkloster",
+            "hu": "Bencés kolostor",
+            "ro": "Mănăstirea Benedictină",
+            "en": "Benedictine Monastery"
+          },
+          "coords": [
+            15.0801,
+            37.5042
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eines der größten Klöster Europas.",
+            "hu": "Európa egyik legnagyobb kolostora.",
+            "ro": "Una dintre cele mai mari mănăstiri din Europa.",
+            "en": "One of the largest monasteries in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Duomo",
+            "hu": "Dóm tér",
+            "ro": "Piazza del Duomo",
+            "en": "Cathedral Square"
+          },
+          "coords": [
+            15.0873,
+            37.5025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mittagspause im Schatten des Doms.",
+            "hu": "Ebédszünet a dóm árnyékában.",
+            "ro": "Pauză de prânz la umbra catedralei.",
+            "en": "Lunch break in the cathedral's shadow."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto di Catania",
+            "hu": "Cataniai kikötő",
+            "ro": "Portul Catania",
+            "en": "Catania Harbor"
+          },
+          "coords": [
+            15.0935,
+            37.4995
+          ],
+          "category": "port",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln entlang der Hafenmauer.",
+            "hu": "Biciklizés a kikötő fala mentén.",
+            "ro": "Pedalare de-a lungul zidului portului.",
+            "en": "Cycling along the harbor wall."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Li Cuti",
+            "hu": "San Giovanni Li Cuti",
+            "ro": "San Giovanni Li Cuti",
+            "en": "San Giovanni Li Cuti"
+          },
+          "coords": [
+            15.1115,
+            37.5185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schwimmen am schwarzen Lavastrand.",
+            "hu": "Úszás a fekete lávahomokos strandon.",
+            "ro": "Înot la plaja de lavă neagră.",
+            "en": "Swimming at the black lava beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet das historische Zentrum mit der Meeresbrise. Nach dem Besuch der imposanten Klosteranlage und des Barockzentrums fahren wir entlang der Küste zum charmanten Viertel San Giovanni Li Cuti, bekannt für seine schwarzen Felsen und entspannte Atmosphäre.",
+        "hu": "Ez a kerékpártúra összeköti a történelmi központot a tengeri szellővel. Az impozáns kolostor és a barokk városközpont megtekintése után a tengerpart mentén tekerünk a bájos San Giovanni Li Cuti negyedbe, amely fekete szikláiról és nyugodt légköréről ismert.",
+        "ro": "Acest tur cu bicicleta îmbină centrul istoric cu briza mării. După vizitarea mănăstirii impunătoare și a centrului baroc, pedalăm pe coastă spre fermecătorul cartier San Giovanni Li Cuti, renumit pentru stâncile sale negre și atmosfera relaxată.",
+        "en": "This bike tour connects the historic center with the sea breeze. After visiting the imposing monastery and the Baroque center, we ride along the coast to the charming San Giovanni Li Cuti district, known for its black rocks and relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Granita al limone",
+            "tip": "Erfrischend nach dem Radeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citromos granita",
+            "tip": "Frissítő a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Granita de lămâie",
+            "tip": "Răcoritoare după pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon granita",
+            "tip": "Refreshing after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungomare",
+            "tip": "Die Uferpromenade für den Rückweg.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungomare",
+            "tip": "A tengerparti sétány a visszaúthoz.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungomare",
+            "tip": "Faleza pentru drumul de întoarcere.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungomare",
+            "tip": "The seaside promenade for the return ride.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pescheria",
+            "tip": "Lokale Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Helyi tengeri herkentyűk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Fructe de mare locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Local seafood specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Verkehr in Catania kann chaotisch sein, fahren Sie vorsichtig.",
+          "Nutzen Sie den Radweg am Lungomare.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Catania közlekedése kaotikus lehet, vezessen óvatosan.",
+          "Használja a tengerparti kerékpárutat.",
+          "Mindig zárja le jól a biciklijét."
+        ],
+        "ro": [
+          "Traficul din Catania poate fi haotic, pedalați cu atenție.",
+          "Folosiți pista de biciclete de pe Lungomare.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Catania's traffic can be chaotic, ride carefully.",
+          "Use the cycle path along the Lungomare.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo & Fontana Elefante",
+            "hu": "Dóm és Elefánt-kút",
+            "ro": "Duomo și Fântâna Elefantului",
+            "en": "Duomo & Elephant Fountain"
+          },
+          "coords": [
+            15.0873,
+            37.5025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Borsellino'.",
+            "hu": "Parkoljon a 'Borsellino' parkolóházban.",
+            "ro": "Parcați în parcarea 'Borsellino'.",
+            "en": "Park at 'Borsellino' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Biscari",
+            "hu": "Biscari palota",
+            "ro": "Palatul Biscari",
+            "en": "Biscari Palace"
+          },
+          "coords": [
+            15.0898,
+            37.5032
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Duomo.",
+            "hu": "Rövid séta a Dómtól.",
+            "ro": "Scurtă plimbare de la Duomo.",
+            "en": "Short walk from the Duomo."
+          }
+        },
+        {
+          "name": {
+            "de": "Aci Castello",
+            "hu": "Aci Castello",
+            "ro": "Aci Castello",
+            "en": "Aci Castello"
+          },
+          "coords": [
+            15.1485,
+            37.5552
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Normannische Burg auf einem Lavatelsen.",
+            "hu": "Normann vár egy lávasziklán.",
+            "ro": "Castel normand pe o stâncă de lavă.",
+            "en": "Norman castle built on a lava cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Faraglioni di Aci Trezza",
+            "hu": "Aci Trezza sziklái",
+            "ro": "Stâncile din Aci Trezza",
+            "en": "Aci Trezza Sea Stacks"
+          },
+          "coords": [
+            15.1615,
+            37.5625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zyklopen-Inseln aus der Odyssee.",
+            "hu": "Küklopsz-szigetek az Odüsszeiából.",
+            "ro": "Insulele Ciclope din Odiseea.",
+            "en": "Cyclopean Isles from the Odyssey."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bellini",
+            "hu": "Villa Bellini",
+            "ro": "Villa Bellini",
+            "en": "Villa Bellini"
+          },
+          "coords": [
+            15.0845,
+            37.5108
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für den Ausklang.",
+            "hu": "Visszatérés a központba a nap végén.",
+            "ro": "Revenire în centru pentru finalul zilei.",
+            "en": "Return to the center for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das barocke Catania mit der mystischen Zyklopenküste. Nach den Prachtbauten im Zentrum fahren wir nach Norden nach Aci Castello und Aci Trezza, wo dunkle Lavafelsen spektakulär aus dem blauen Meer ragen.",
+        "hu": "Ez az autós túra ötvözi a barokk Cataniát a misztikus Küklopsz-parttal. A központi paloták után északra hajtunk Aci Castello és Aci Trezza felé, ahol a sötét lávasziklák látványosan emelkednek ki a kék tengerből.",
+        "ro": "Acest tur cu mașina îmbină Catania barocă cu mistica Coastă a Ciclopilor. După palatele centrale, conducem spre nord către Aci Castello și Aci Trezza, unde stâncile negre de lavă răsar spectaculos din marea albastră.",
+        "en": "This car tour combines Baroque Catania with the mystical Cyclops Coast. After the central palaces, we drive north to Aci Castello and Aci Trezza, where dark lava rocks rise spectacularly from the blue sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch in Aci Trezza",
+            "tip": "Direkt am kleinen Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal Aci Trezzában",
+            "tip": "Élvezze közvetlenül a kis kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt în Aci Trezza",
+            "tip": "Savurați-l chiar în micul port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh fish in Aci Trezza",
+            "tip": "Enjoy it right by the small harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aci Trezza Ufer",
+            "tip": "Blick auf die Faraglioni.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aci Trezza part",
+            "tip": "Kilátás a Faraglioni sziklákra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țărmul Aci Trezza",
+            "tip": "Vedere spre stâncile Faraglioni.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aci Trezza Waterfront",
+            "tip": "Views of the sea stacks.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Lavagestein",
+            "tip": "Überall im Zentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lávakő szuvenírek",
+            "tip": "A központban mindenhol kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din lavă",
+            "tip": "Disponibile peste tot în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lava stone souvenirs",
+            "tip": "Available throughout the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die ZTL-Zonen im Stadtzentrum.",
+          "Das Parken kann schwierig sein, nutzen Sie bewachte Parkplätze.",
+          "Die Küstenstraße nach Norden ist sehr malerisch."
+        ],
+        "hu": [
+          "Kerülje el a ZTL zónákat a városközpontban.",
+          "A parkolás nehéz lehet, használjon őrzött parkolókat.",
+          "Az északi part menti út nagyon látványos."
+        ],
+        "ro": [
+          "Evitați zonele ZTL din centrul orașului.",
+          "Parcarea poate fi dificilă, folosiți parcări păzite.",
+          "Drumul de coastă spre nord este foarte pitoresc."
+        ],
+        "en": [
+          "Avoid ZTL zones in the city center.",
+          "Parking can be tough, use guarded parking lots.",
+          "The coastal road to the north is very scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stazione Centrale",
+            "hu": "Központi pályaudvar",
+            "ro": "Gara Centrală",
+            "en": "Central Station"
+          },
+          "coords": [
+            15.1005,
+            37.5065
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Knotenpunkt für Bus und Metro.",
+            "hu": "A busz és a metró csomópontja.",
+            "ro": "Nodul pentru autobuze și metrou.",
+            "en": "The hub for buses and metro."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Duomo",
+            "hu": "Dóm tér",
+            "ro": "Piazza del Duomo",
+            "en": "Cathedral Square"
+          },
+          "coords": [
+            15.0873,
+            37.5025
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus Linie ALIBUS oder 534.",
+            "hu": "ALIBUS vagy 534-es busz.",
+            "ro": "Autobuz linia ALIBUS sau 534.",
+            "en": "Bus line ALIBUS or 534."
+          }
+        },
+        {
+          "name": {
+            "de": "Benediktinerkloster",
+            "hu": "Bencés kolostor",
+            "ro": "Mănăstirea Benedictină",
+            "en": "Benedictine Monastery"
+          },
+          "coords": [
+            15.0801,
+            37.5042
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Duomo oder Bus.",
+            "hu": "Rövid séta a Dómtól vagy busz.",
+            "ro": "Scurtă plimbare de la Duomo sau autobuz.",
+            "en": "Short walk from Duomo or bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bellini (Metro Stesicoro)",
+            "hu": "Villa Bellini (Stesicoro metró)",
+            "ro": "Villa Bellini (Metrou Stesicoro)",
+            "en": "Villa Bellini (Metro Stesicoro)"
+          },
+          "coords": [
+            15.0845,
+            37.5108
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die moderne Metro Catania.",
+            "hu": "Használja a modern cataniai metrót.",
+            "ro": "Folosiți metroul modern din Catania.",
+            "en": "Use the modern Catania Metro."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Li Cuti (Bus)",
+            "hu": "San Giovanni Li Cuti (Busz)",
+            "ro": "San Giovanni Li Cuti (Autobuz)",
+            "en": "San Giovanni Li Cuti (Bus)"
+          },
+          "coords": [
+            15.1115,
+            37.5185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Buslinie 534 zum Lavastrand.",
+            "hu": "534-es busz a lávastrandhoz.",
+            "ro": "Linia 534 spre plaja de lavă.",
+            "en": "Bus 534 to the lava beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Catania stressfrei mit Bus und Metro. Vom Hauptbahnhof gelangen Sie schnell zum Domplatz, besichtigen das imposante Benediktinerkloster und fahren mit der Metro zur Villa Bellini, bevor es mit dem Bus an den Lavastrand geht.",
+        "hu": "Fedezze fel Cataniát stresszmentesen busszal és metróval. A főpályaudvartól gyorsan elérheti a Dóm teret, megtekintheti az impozáns bencés kolostort, majd metróval utazhat a Villa Bellinihez, mielőtt busszal a lávastrandra indulna.",
+        "ro": "Descoperiți Catania fără stres folosind autobuzul și metroul. De la gară ajungeți rapid la Piazza del Duomo, vizitați mănăstirea benedictină și luați metroul spre Villa Bellini, înainte de a merge cu autobuzul la plaja de lavă.",
+        "en": "Explore Catania stress-free using bus and metro. From the central station, quickly reach Cathedral Square, visit the imposing monastery, and take the metro to Villa Bellini before heading to the lava beach by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cannolo Siciliano",
+            "tip": "Gefüllt mit frischem Ricotta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szicíliai cannolo",
+            "tip": "Friss ricottával töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cannolo sicilian",
+            "tip": "Umplut cu ricotta proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sicilian Cannolo",
+            "tip": "Filled with fresh ricotta cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Bellini Gärten",
+            "tip": "Perfekt für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Bellini kertjei",
+            "tip": "Tökéletes egy pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Villa Bellini",
+            "tip": "Perfecte pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Bellini Gardens",
+            "tip": "Perfect for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Italia",
+            "tip": "Elegante Boutiquen nahe der Metro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Italia",
+            "tip": "Elegáns butikok a metró közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Boutique-uri elegante lângă metrou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Italia",
+            "tip": "Elegant boutiques near the metro."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für Bus und Metro.",
+          "Die Metro fährt nicht am Sonntag.",
+          "Nutzen Sie die App 'AMT Catania' für Fahrpläne."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra és a metróra.",
+          "A metró vasárnap nem közlekedik.",
+          "Használja az 'AMT Catania' alkalmazást a menetrendekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz și metrou.",
+          "Metroul nu circulă duminica.",
+          "Folosiți aplicația 'AMT Catania' pentru orare."
+        ],
+        "en": [
+          "Buy a day ticket for bus and metro.",
+          "The metro does not run on Sundays.",
+          "Use the 'AMT Catania' app for schedules."
+        ]
+      }
+    }
+  }
+}

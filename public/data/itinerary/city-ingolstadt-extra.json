@@ -1,0 +1,1144 @@
+{
+  "city_id": "city-ingolstadt-extra",
+  "anchor": {
+    "name": "Altes Rathaus",
+    "coords": [
+      11.4234,
+      48.7665
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            11.4251,
+            48.7642
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus Gotik und Renaissance.",
+            "hu": "Csodáld meg a gótikus és reneszánsz stílus keveredését.",
+            "ro": "Admiră amestecul de stiluri gotic și renascentist.",
+            "en": "Admire the blend of Gothic and Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Asamkirche Maria de Victoria",
+            "hu": "Asam-templom",
+            "ro": "Biserica Asam",
+            "en": "Asam Church"
+          },
+          "coords": [
+            11.4225,
+            48.7638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Deckenfresko ist ein Meisterwerk des Barock.",
+            "hu": "A mennyezeti freskó a barokk igazi mesterműve.",
+            "ro": "Fresca de pe tavan este o capodoperă a barocului.",
+            "en": "The ceiling fresco is a masterpiece of Baroque art."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenmünster",
+            "hu": "Miasszonyunk-székesegyház",
+            "ro": "Catedrala Liebfrauenmünster",
+            "en": "Liebfrauenmünster"
+          },
+          "coords": [
+            11.4212,
+            48.7651
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den schiefen Hochaltar.",
+            "hu": "Figyeld meg a különleges, ferde főoltárt.",
+            "ro": "Observă altarul principal neobișnuit de înclinat.",
+            "en": "Look out for the uniquely tilted high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            11.4235,
+            48.7645
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie bayerische Weisswurst mit Breze.",
+            "hu": "Kóstolj bajor fehérkolbászt pereccel.",
+            "ro": "Încearcă faimosul Weisswurst bavarez cu covrigi.",
+            "en": "Try authentic Bavarian Weisswurst with pretzels."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Medizinhistorisches Museum",
+            "hu": "Orvostörténeti Múzeum",
+            "ro": "Muzeul de Istorie a Medicinei",
+            "en": "Medical History Museum"
+          },
+          "coords": [
+            11.4195,
+            48.7648
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Arzneipflanzengarten ist besonders im Sommer schön.",
+            "hu": "A gyógynövénykert nyáron a legszebb.",
+            "ro": "Grădina de plante medicinale este superbă vara.",
+            "en": "The medicinal herb garden is beautiful in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss",
+            "hu": "Új Kastély",
+            "ro": "Castelul Nou",
+            "en": "New Castle"
+          },
+          "coords": [
+            11.4292,
+            48.7644
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Bayerische Armeemuseum im Inneren.",
+            "hu": "Látogasd meg a benne lévő Bajor Hadtörténeti Múzeumot.",
+            "ro": "Vizitează Muzeul Armatei Bavareze din interior.",
+            "en": "Visit the Bavarian Army Museum located inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Klenzepark",
+            "hu": "Klenzepark",
+            "ro": "Klenzepark",
+            "en": "Klenzepark"
+          },
+          "coords": [
+            11.4298,
+            48.7605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Spaziergang an der Donau.",
+            "hu": "Tökéletes hely egy Duna-parti sétához.",
+            "ro": "Locul perfect pentru o plimbare pe malul Dunării.",
+            "en": "Perfect spot for a walk along the Danube river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ingolstadt zu Fuß. Wir starten am historischen Rathausplatz und tauchen in die barocke Welt der Asamkirche ein. Nach dem Besuch des imposanten Münsters genießen wir ein bayerisches Mittagessen. Der Nachmittag gehört der Wissenschaft im Medizinhistorischen Museum und der herzoglichen Macht im Neuen Schloss, bevor wir den Tag entspannt im Klenzepark ausklingen lassen.",
+        "hu": "Fedezze fel Ingolstadtot gyalogosan! A történelmi városháza térről indulunk, majd elmerülünk az Asam-templom barokk világában. Az impozáns székesegyház után egy hamisítatlan bajor ebédet élvezünk. A délután az orvostudományé és a hercegi hatalomé az Új Kastélyban, végül a napot a Klenzepark zöldjében, a Duna-parton zárjuk.",
+        "ro": "Descoperiți Ingolstadt la pas. Începem în piața istorică a primăriei și ne cufundăm în lumea barocă a Bisericii Asam. După vizitarea catedralei impunătoare, savurăm un prânz bavarez. După-amiaza este dedicată științei la Muzeul de Istorie a Medicinei și puterii ducale la Castelul Nou, înainte de a încheia ziua relaxați în Klenzepark.",
+        "en": "Explore Ingolstadt on foot. We start at the historic Town Hall Square and dive into the Baroque world of the Asam Church. After visiting the imposing Cathedral, we enjoy a genuine Bavarian lunch. The afternoon is dedicated to science at the Medical History Museum and ducal power at the New Castle, finally ending the day relaxed in the greenery of Klenzepark by the Danube."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weissbräuhaus",
+            "tip": "Traditionelles bayerisches Wirtshaus mit eigenem Bier."
+          },
+          {
+            "name": "Goldener Schlüssel",
+            "tip": "Klassische bayerische Küche im Herzen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weissbräuhaus",
+            "tip": "Hagyományos bajor vendéglő saját főzésű sörrel."
+          },
+          {
+            "name": "Goldener Schlüssel",
+            "tip": "Klasszikus bajor konyha az óváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weissbräuhaus",
+            "tip": "Han tradițional bavarez cu bere artizanală proprie."
+          },
+          {
+            "name": "Goldener Schlüssel",
+            "tip": "Bucătărie bavareză clasică în inima orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weissbräuhaus",
+            "tip": "Traditional Bavarian inn with its own brewed beer."
+          },
+          {
+            "name": "Goldener Schlüssel",
+            "tip": "Classic Bavarian cuisine in the heart of the Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donauufer im Klenzepark",
+            "tip": "Ruhiger Blick auf den Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Arzneipflanzengarten",
+            "tip": "Idyllischer Garten hinter dem Museum.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-part a Klenzeparkban",
+            "tip": "Nyugodt kilátás a folyóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Gyógynövénykert",
+            "tip": "Idilli kert a múzeum mögött.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dunării în Klenzepark",
+            "tip": "Vedere liniștită spre râu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina de plante medicinale",
+            "tip": "O grădină idilică în spatele muzeului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube bank in Klenzepark",
+            "tip": "Quiet views of the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Medicinal Herb Garden",
+            "tip": "Idyllic garden behind the museum.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Die Haupteinkaufsmeile der Altstadt."
+          },
+          {
+            "name": "Theresienstraße",
+            "tip": "Schöne Boutiquen und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Az óváros fő bevásárlóutcája."
+          },
+          {
+            "name": "Theresienstraße",
+            "tip": "Szép butikok és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Principala stradă comercială din centrul vechi."
+          },
+          {
+            "name": "Theresienstraße",
+            "tip": "Boutique-uri frumoase și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "The main shopping street in the Old Town."
+          },
+          {
+            "name": "Theresienstraße",
+            "tip": "Charming boutiques and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt und ideal zu Fuß zu erkunden.",
+          "Sonntags sind die Kirchen während der Gottesdienste nur eingeschränkt besuchbar.",
+          "Nutzen Sie die Parkhäuser am Altstadtring, falls Sie mit dem Auto anreisen."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Vasárnap a templomok a mise alatt csak korlátozottan látogathatók.",
+          "Használd az óvárosi körgyűrű parkolóházait, ha autóval érkezel."
+        ],
+        "ro": [
+          "Orașul vechi este compact și ideal pentru a fi explorat la pas.",
+          "Duminica, accesul în biserici este limitat în timpul slujbelor.",
+          "Folosiți parcările de pe inelul exterior al orașului vechi dacă veniți cu mașina."
+        ],
+        "en": [
+          "The Old Town is compact and best explored on foot.",
+          "On Sundays, church access is limited during services.",
+          "Use the parking garages on the Old Town ring road if arriving by car."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audi Forum Ingolstadt",
+            "hu": "Audi Forum",
+            "ro": "Audi Forum",
+            "en": "Audi Forum"
+          },
+          "coords": [
+            11.4142,
+            48.7831
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Muss für Autofans.",
+            "hu": "Autórajongóknak kötelező.",
+            "ro": "Obligatoriu pentru fanii auto.",
+            "en": "A must-visit for car enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuztor",
+            "hu": "Kereszt-kapu",
+            "ro": "Poarta Crucii",
+            "en": "Kreuztor"
+          },
+          "coords": [
+            11.4188,
+            48.7655
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "The landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenmünster",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            11.4212,
+            48.7651
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beeindruckende Spätgotik.",
+            "hu": "Lenyűgöző késő gótika.",
+            "ro": "Gotic târziu impresionant.",
+            "en": "Impressive Late Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            11.4245,
+            48.7642
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken für die Weiterfahrt.",
+            "hu": "Gyűjts erőt a folytatáshoz.",
+            "ro": "Prinde puteri pentru drum.",
+            "en": "Fuel up for the rest of the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark am Baggersee",
+            "hu": "Vadaspark a Baggersee-nél",
+            "ro": "Parcul de animale la Baggersee",
+            "en": "Wildpark am Baggersee"
+          },
+          "coords": [
+            11.4005,
+            48.7455
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hirsche und Wildschweine hautnah.",
+            "hu": "Szarvasok és vaddisznók testközelből.",
+            "ro": "Căprioare și mistreți de aproape.",
+            "en": "See deer and wild boars up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Klenzepark",
+            "hu": "Klenzepark",
+            "ro": "Klenzepark",
+            "en": "Klenzepark"
+          },
+          "coords": [
+            11.4298,
+            48.7605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Radwege entlang der Donau.",
+            "hu": "Szép kerékpárutak a Duna mentén.",
+            "ro": "Piste de biciclete frumoase pe malul Dunării.",
+            "en": "Beautiful bike paths along the Danube."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir Ingolstadt weitläufiger. Von der modernen Audi-Welt radeln wir zum historischen Kreuztor und in die Altstadt. Nach einer Pause geht es hinaus zum Baggersee und dem Wildpark, bevor wir über die Donau-Radwege zurück zum Klenzepark fahren.",
+        "hu": "Kerékpárral tágabb körben fedezzük fel Ingolstadtot. A modern Audi-világtól a történelmi Kreuztorig és az óvárosig tekerünk. Pihenő után irány a Baggersee és a vadaspark, majd a Duna menti bringautakon térünk vissza a Klenzeparkhoz.",
+        "ro": "Cu bicicleta explorăm Ingolstadt pe o rază mai largă. De la lumea modernă Audi pedalăm spre poarta istorică Kreuztor și centrul vechi. După o pauză, mergem spre lacul Baggersee și parcul de animale, revenind pe pistele de pe malul Dunării spre Klenzepark.",
+        "en": "By bike, we explore Ingolstadt more extensively. From the modern Audi world, we cycle to the historic Kreuztor and the Old Town. After a break, we head out to the Baggersee lake and the wild park, before returning via the Danube bike paths to Klenzepark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seehaus am Baggersee",
+            "tip": "Essen mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seehaus am Baggersee",
+            "tip": "Étel kilátással a tóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seehaus am Baggersee",
+            "tip": "Masă cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seehaus am Baggersee",
+            "tip": "Dining with a lake view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baggersee Rundweg",
+            "tip": "Natur pur am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baggersee körút",
+            "tip": "Tiszta természet a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul Baggersee",
+            "tip": "Natură pură la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baggersee loop",
+            "tip": "Pure nature at the city edge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte in der Innenstadt",
+            "tip": "Für Zubehör und Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi kerékpárboltok",
+            "tip": "Kiegészítőkért és felszerelésért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete în centru",
+            "tip": "Pentru accesorii și echipament."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops in the city center",
+            "tip": "For accessories and gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ingolstadt ist sehr fahrradfreundlich.",
+          "Nutzen Sie den Donauradweg für entspanntes Fahren.",
+          "Achten Sie in der Altstadt auf Fußgängerzonen."
+        ],
+        "hu": [
+          "Ingolstadt nagyon kerékpárosbarát város.",
+          "Használd a Duna menti kerékpárutat a nyugodt tekeréshez.",
+          "Az óvárosban ügyelj a sétálóövezetekre."
+        ],
+        "ro": [
+          "Ingolstadt este un oraș foarte prietenos cu bicicliștii.",
+          "Folosiți pista de pe malul Dunării pentru o călătorie relaxantă.",
+          "Atenție la zonele pietonale din centrul vechi."
+        ],
+        "en": [
+          "Ingolstadt is very bike-friendly.",
+          "Use the Danube Bike Path for relaxed riding.",
+          "Watch out for pedestrian zones in the Old Town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audi Forum Ingolstadt",
+            "hu": "Audi Forum",
+            "ro": "Audi Forum",
+            "en": "Audi Forum"
+          },
+          "coords": [
+            11.4142,
+            48.7831
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot available."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            11.4251,
+            48.7642
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Theater'.",
+            "hu": "Parkolj a Theater parkolóházban.",
+            "ro": "Parcați în parcarea 'Theater'.",
+            "en": "Park in the 'Theater' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenmünster",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            11.4212,
+            48.7651
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Rathaus.",
+            "hu": "Rövid séta a városházától.",
+            "ro": "Scurtă plimbare de la primărie.",
+            "en": "Short walk from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Bayerisches Mittagessen",
+            "hu": "Bajor ebéd",
+            "ro": "Prânz bavarez",
+            "en": "Bavarian Lunch"
+          },
+          "coords": [
+            11.4235,
+            48.7645
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Regionale Spezialitäten genießen.",
+            "hu": "Élvezd a regionális specialitásokat.",
+            "ro": "Savurează specialități regionale.",
+            "en": "Enjoy regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Schloss",
+            "hu": "Új Kastély",
+            "ro": "Castelul Nou",
+            "en": "New Castle"
+          },
+          "coords": [
+            11.4292,
+            48.7644
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang am Schlossgraben.",
+            "hu": "Séta a várárok mentén.",
+            "ro": "Plimbare pe lângă șanțul castelului.",
+            "en": "Walk along the castle moat."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark am Baggersee",
+            "hu": "Vadaspark",
+            "ro": "Parcul de animale",
+            "en": "Wild Park"
+          },
+          "coords": [
+            11.4005,
+            48.7455
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Stadtrand.",
+            "hu": "Rövid autóút a város szélére.",
+            "ro": "Scurtă călătorie spre marginea orașului.",
+            "en": "Short drive to the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Auto-Tour kombiniert Technik, Geschichte und Natur. Wir starten im Audi Forum, bevor wir das Auto im Zentrum abstellen und die Altstadt zu Fuß erkunden (Münster, Schloss, Mittagessen). Zum Abschluss fahren wir zum Wildpark am Baggersee für eine entspannte Naturpause.",
+        "hu": "Ez az autós túra ötvözi a technikát, a történelmet és a természetet. Az Audi Forumban kezdünk, majd az autót a központban hagyva gyalog fedezzük fel az óvárost (székesegyház, kastély, ebéd). Végezetül a Baggersee melletti vadasparkhoz hajtunk egy pihentető erdei sétára.",
+        "ro": "Acest tur cu mașina combină tehnologia, istoria și natura. Începem la Audi Forum, apoi lăsăm mașina în centru și explorăm orașul vechi la pas (Catedrala, Castelul, prânzul). La final, mergem la parcul de animale de lângă lacul Baggersee pentru o pauză relaxantă în natură.",
+        "en": "This car tour combines technology, history, and nature. We start at the Audi Forum, then leave the car in the center to explore the Old Town on foot (Cathedral, Castle, lunch). Finally, we drive to the wild park near Baggersee lake for a relaxing nature break."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Audi Forum Restaurant",
+            "tip": "Moderne Küche vor Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Audi Forum étterem",
+            "tip": "Modern konyha helyben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Audi Forum Restaurant",
+            "tip": "Bucătărie modernă la fața locului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Audi Forum Restaurant",
+            "tip": "Modern cuisine on-site."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wildpark Rundgang",
+            "tip": "Ruhiger Waldspaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadaspark körút",
+            "tip": "Csendes erdei séta.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul Parcului",
+            "tip": "O plimbare liniștită prin pădure.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild Park loop",
+            "tip": "Quiet forest walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ingolstadt Village",
+            "tip": "Outlet Shopping (10 Min Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ingolstadt Village",
+            "tip": "Outlet bevásárlóközpont (10 perc autóval)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ingolstadt Village",
+            "tip": "Shopping la outlet (10 min cu mașina)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ingolstadt Village",
+            "tip": "Outlet shopping (10 min drive)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ingolstadt Village ist ein großes Outlet-Center in der Nähe.",
+          "In der Altstadt ist das Parken oft kostenpflichtig.",
+          "Planen Sie Zeit für die Parkhaussuche ein."
+        ],
+        "hu": [
+          "Az Ingolstadt Village egy nagy outlet központ a közelben.",
+          "Az óvárosban a parkolás általában fizetős.",
+          "Szánj időt a parkolóház megkeresésére."
+        ],
+        "ro": [
+          "Ingolstadt Village este un mare centru outlet în apropiere.",
+          "Parcarea în centrul vechi este de obicei contra cost.",
+          "Alocați timp pentru găsirea unui loc în parcare."
+        ],
+        "en": [
+          "Ingolstadt Village is a large outlet center nearby.",
+          "Parking in the Old Town is usually paid.",
+          "Plan time for finding a spot in the parking garages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audi Forum Ingolstadt",
+            "hu": "Audi Forum",
+            "ro": "Audi Forum",
+            "en": "Audi Forum"
+          },
+          "coords": [
+            11.4142,
+            48.7831
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 11 hält direkt davor.",
+            "hu": "A 11-es busz közvetlenül előtte áll meg.",
+            "ro": "Linia 11 de autobuz oprește chiar în față.",
+            "en": "Bus line 11 stops right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            11.4251,
+            48.7642
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Busse.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Asamkirche",
+            "hu": "Asam-templom",
+            "ro": "Biserica Asam",
+            "en": "Asam Church"
+          },
+          "coords": [
+            11.4225,
+            48.7638
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "Doar o scurtă plimbare din piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            11.4235,
+            48.7645
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bayerische Gemütlichkeit erleben.",
+            "hu": "Éld át a bajor vendégszeretetet.",
+            "ro": "Experimentează ospitalitatea bavareză.",
+            "en": "Experience Bavarian coziness."
+          }
+        },
+        {
+          "name": {
+            "de": "Reduit Tilly",
+            "hu": "Reduit Tilly",
+            "ro": "Reduit Tilly",
+            "en": "Reduit Tilly"
+          },
+          "coords": [
+            11.4295,
+            48.7595
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Teil des Armeemuseums.",
+            "hu": "A Hadtörténeti Múzeum része.",
+            "ro": "Parte a Muzeului Armatei.",
+            "en": "Part of the Army Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Klenzepark",
+            "hu": "Klenzepark",
+            "ro": "Klenzepark",
+            "en": "Klenzepark"
+          },
+          "coords": [
+            11.4298,
+            48.7605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekter Ausklang an der Donau.",
+            "hu": "Tökéletes befejezés a Dunánál.",
+            "ro": "Finalul perfect pe malul Dunării.",
+            "en": "Perfect ending by the Danube."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ingolstadt ist mit Bussen gut vernetzt. Wir starten im Audi Forum und fahren dann ins Herz der Altstadt (Rathausplatz, Asamkirche). Nach dem Mittagessen bringt uns der Bus über die Donau zum Reduit Tilly und in den Klenzepark, wo wir den Tag entspannt beenden.",
+        "hu": "Ingolstadt buszhálózata kiváló. Az Audi Forumban kezdünk, majd az óváros szívébe utazunk (városháza, Asam-templom). Ebéd után buszra szállunk a Duna túloldalára, a Reduit Tilly-hez és a Klenzeparkhoz, ahol kellemesen zárjuk a napot.",
+        "ro": "Rețeaua de autobuze din Ingolstadt este excelentă. Începem la Audi Forum, apoi mergem în inima orașului vechi (Piața Primăriei, Biserica Asam). După prânz, luăm autobuzul spre celălalt mal al Dunării, la Reduit Tilly și Klenzepark.",
+        "en": "Ingolstadt's bus network is excellent. We start at the Audi Forum and then travel to the heart of the Old Town (Town Hall, Asam Church). After lunch, we take the bus across the Danube to Reduit Tilly and Klenzepark, where we end the day pleasantly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bayerischer Hof",
+            "tip": "Gute Küche nahe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bayerischer Hof",
+            "tip": "Jó konyha a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bayerischer Hof",
+            "tip": "Bucătărie bună lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bayerischer Hof",
+            "tip": "Good cuisine near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten im Klenzepark",
+            "tip": "Wunderschön im Frühling.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a Klenzeparkban",
+            "tip": "Gyönyörű tavasszal.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Superbă primăvara în Klenzepark.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in Klenzepark",
+            "tip": "Beautiful in spring.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Westpark Shopping Center",
+            "tip": "Mit dem Bus gut erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Westpark bevásárlóközpont",
+            "tip": "Busszal jól megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Westpark",
+            "tip": "Accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Westpark Shopping Center",
+            "tip": "Easily accessible by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die Zone 1.",
+          "Die INVG-App bietet Fahrpläne in Echtzeit.",
+          "Der Rathausplatz ist der zentrale Umsteigepunkt."
+        ],
+        "hu": [
+          "Vegyél napijegyet az 1-es zónára.",
+          "Az INVG app valós idejű menetrendet kínál.",
+          "A városháza tér a központi átszállási pont."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona 1.",
+          "Aplicația INVG oferă orare în timp real.",
+          "Piața Primăriei este principalul punct de transfer."
+        ],
+        "en": [
+          "Buy a day ticket for Zone 1.",
+          "The INVG app offers real-time schedules.",
+          "Town Hall Square is the central transfer point."
+        ]
+      }
+    }
+  }
+}

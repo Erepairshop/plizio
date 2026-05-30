@@ -1,0 +1,1107 @@
+{
+  "city_id": "france-aigues-mortes-history-v2",
+  "anchor": {
+    "name": "Aigues-Mortes",
+    "coords": [
+      4.19,
+      43.56
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Louis",
+            "hu": "Szent Lajos tér",
+            "ro": "Piața Saint-Louis",
+            "en": "Place Saint-Louis"
+          },
+          "coords": [
+            4.1908,
+            43.5668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Statue des Stadtgründers Ludwig IX. steht genau in der Mitte.",
+            "hu": "A városalapító IX. Lajos szobra áll a tér közepén.",
+            "ro": "Statuia fondatorului Ludovic al IX-lea se află chiar în centru.",
+            "en": "The statue of founder Louis IX stands right in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-des-Sablons",
+            "hu": "Notre-Dame-des-Sablons templom",
+            "ro": "Biserica Notre-Dame-des-Sablons",
+            "en": "Notre-Dame-des-Sablons Church"
+          },
+          "coords": [
+            4.1912,
+            43.5672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Glasfenster im gotischen Gebäude.",
+            "hu": "Csodálja meg a gótikus épület modern üvegablakait.",
+            "ro": "Admirați vitraliile moderne din clădirea gotică.",
+            "en": "Admire the modern stained glass windows in the Gothic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Constance",
+            "hu": "Konstancia-torony",
+            "ro": "Turnul Constanței",
+            "en": "Tour de Constance"
+          },
+          "coords": [
+            4.1888,
+            43.5684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser massive Turm diente als Gefängnis für Hugenotten.",
+            "hu": "Ez a hatalmas torony a hugenották börtöneként szolgált.",
+            "ro": "Acest turn masiv a servit drept închisoare pentru hughenoți.",
+            "en": "This massive tower served as a prison for Huguenots."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Aigues-Mortes",
+            "hu": "Aigues-Mortes városfala",
+            "ro": "Zidurile cetății Aigues-Mortes",
+            "en": "Ramparts of Aigues-Mortes"
+          },
+          "coords": [
+            4.1895,
+            43.568
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der 1,6 km lange Rundgang bietet Panorama auf die Salinen.",
+            "hu": "Az 1,6 km-es körút panorámát nyújt a sólepárlókra.",
+            "ro": "Traseul de 1,6 km oferă o panoramă asupra salinelor.",
+            "en": "The 1.6 km circuit offers panoramas over the salt marshes."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Gardette",
+            "hu": "Porte de la Gardette kapu",
+            "ro": "Porte de la Gardette",
+            "en": "Porte de la Gardette"
+          },
+          "coords": [
+            4.1886,
+            43.567
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das ursprüngliche Haupttor der befestigten Stadt.",
+            "hu": "Az erődváros eredeti főkapuja.",
+            "ro": "Principala poartă originală a orașului fortificat.",
+            "en": "The original main gate of the fortified city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            4.1915,
+            43.5665
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokale Fougasse (süßes Gebäck).",
+            "hu": "Kóstolja meg a helyi Fougasse-t (édes sütemény).",
+            "ro": "Încercați Fougasse locală (patiserie dulce).",
+            "en": "Try the local Fougasse (sweet pastry)."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Rhône à Sète",
+            "hu": "Rhône–Sète-csatorna",
+            "ro": "Canalul Rhône à Sète",
+            "en": "Canal du Rhône à Sète"
+          },
+          "coords": [
+            4.185,
+            43.565
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen Spaziergang am Wasser zum Abschluss.",
+            "hu": "Szép hely egy vízparti sétához a nap zárásaként.",
+            "ro": "Un loc frumos pentru o plimbare pe malul apei la final.",
+            "en": "A beautiful spot for a waterfront walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Aigues-Mortes ist eine Zeitkapsel des 13. Jahrhunderts. Ihr Rundgang beginnt am belebten Place Saint-Louis, dem Herzen der Stadt. Nach der Besichtigung der schlichten gotischen Kirche erklimmen Sie die mächtige Stadtmauer. Von oben sehen Sie die rosa schimmernden Salinen. Der Nachmittag gehört den wehrhaften Türmen und einem entspannten Spaziergang am Kanal, wo früher die Kreuzritterflotten in See stachen.",
+        "hu": "Aigues-Mortes egy 13. századi időkapszula. A túra a nyüzsgő Szent Lajos téren kezdődik, amely a város szíve. A gótikus templom megtekintése után másszon fel a hatalmas városfalakra. Fentről látni fogja a rózsaszínben csillogó sólepárlókat. A délután az erődített tornyoké és egy pihentető sétáé a csatorna mentén, ahonnan egykor a keresztes lovagok flottái indultak útnak.",
+        "ro": "Aigues-Mortes este o capsulă a timpului din secolul al XIII-lea. Turul începe în animata Piață Saint-Louis, inima orașului. După vizitarea bisericii gotice, urcați pe zidurile impunătoare ale cetății. De sus, veți vedea salinele sclipind în nuanțe roz. După-amiaza este dedicată turnurilor defensive și unei plimbări relaxante pe malul canalului, de unde plecau odinioară flotele cruciaților.",
+        "en": "Aigues-Mortes is a 13th-century time capsule. Your tour begins at the lively Place Saint-Louis, the heart of the city. After visiting the simple Gothic church, climb the mighty ramparts. From the top, you'll see the pink-shimmering salt marshes. The afternoon is dedicated to the defensive towers and a relaxed walk along the canal, where crusader fleets once set sail."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Traditioneller Stiergulasch aus der Camargue."
+          },
+          {
+            "name": "Fougasse d'Aigues-Mortes",
+            "tip": "Ein mit Orangenblütenwasser aromatisiertes süßes Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Hagyományos bikapörkölt a Camargue-vidékről."
+          },
+          {
+            "name": "Fougasse d'Aigues-Mortes",
+            "tip": "Narancsvirágvízzel ízesített helyi édes sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Tocăniță tradițională de taur din Camargue."
+          },
+          {
+            "name": "Fougasse d'Aigues-Mortes",
+            "tip": "O patiserie dulce aromatizată cu apă de flori de portocal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Traditional bull stew from the Camargue region."
+          },
+          {
+            "name": "Fougasse d'Aigues-Mortes",
+            "tip": "A local sweet pastry flavored with orange blossom water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal-Ufer",
+            "tip": "Ruhiger Spaziergang abseits der Touristenmassen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Südliche Stadtmauer",
+            "tip": "Blick auf die einsamen Salinen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatornapart",
+            "tip": "Csendes séta a turistatömegtől távol.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Déli városfal",
+            "tip": "Kilátás a magányos sólepárlókra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul canalului",
+            "tip": "O plimbare liniștită departe de mulțime.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zidul de sud",
+            "tip": "Privire peste salinele solitare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal banks",
+            "tip": "Quiet walk away from the tourist crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Southern Ramparts",
+            "tip": "View over the lonely salt marshes.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sel de Camargue",
+            "tip": "Das berühmte Meersalz in dekorativen Dosen."
+          },
+          {
+            "name": "Boutiquen in der Rue Emile Zola",
+            "tip": "Lokales Kunsthandwerk und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sel de Camargue",
+            "tip": "A híres tengeri só dekoratív dobozokban."
+          },
+          {
+            "name": "Rue Emile Zola boltjai",
+            "tip": "Helyi kézműves termékek és divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sel de Camargue",
+            "tip": "Faimoasa sare de mare în cutii decorative."
+          },
+          {
+            "name": "Boutique-urile de pe Rue Emile Zola",
+            "tip": "Artizanat local și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sel de Camargue",
+            "tip": "The famous sea salt in decorative tins."
+          },
+          {
+            "name": "Shops on Rue Emile Zola",
+            "tip": "Local crafts and fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie das Ticket für die Stadtmauer online, um Wartezeiten am Tour de Constance zu vermeiden.",
+          "Die Stadt ist komplett flach, ideal für bequemes Schuhwerk.",
+          "Besuchen Sie die Salinen am späten Nachmittag für das beste Fotolicht."
+        ],
+        "hu": [
+          "Vegye meg online a jegyet a városfalra, hogy elkerülje a sorban állást a Konstancia-toronynál.",
+          "A város teljesen sík, ideális kényelmes sétákhoz.",
+          "Látogasson el a sólepárlókhoz késő délután a legjobb fényekért."
+        ],
+        "ro": [
+          "Cumpărați biletul pentru ziduri online pentru a evita cozile la Turnul Constanței.",
+          "Orașul este complet plat, ideal pentru încălțăminte comodă.",
+          "Vizitați salinele după-amiaza târziu pentru cea mai bună lumină foto."
+        ],
+        "en": [
+          "Buy your ramparts ticket online to avoid queues at the Tour de Constance.",
+          "The town is completely flat, making it ideal for walking in comfortable shoes.",
+          "Visit the salt marshes in the late afternoon for the best photographic light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Louis",
+            "hu": "Szent Lajos tér",
+            "ro": "Piața Saint-Louis",
+            "en": "Place Saint-Louis"
+          },
+          "coords": [
+            4.1908,
+            43.5668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Constance",
+            "hu": "Konstancia-torony",
+            "ro": "Turnul Constanței",
+            "en": "Tour de Constance"
+          },
+          "coords": [
+            4.1888,
+            43.5684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und den Turm besteigen.",
+            "hu": "Tegye le a biciklit és másszon fel a toronyba.",
+            "ro": "Lăsați bicicleta și urcați în turn.",
+            "en": "Park your bike and climb the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Bourguignons",
+            "hu": "Burgundi-torony",
+            "ro": "Turnul Burgundezilor",
+            "en": "Tour des Bourguignons"
+          },
+          "coords": [
+            4.193,
+            43.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein einsamerer Teil der Mauer im Südosten.",
+            "hu": "A fal egy elszigeteltebb része a délkeleti oldalon.",
+            "ro": "O parte mai izolată a zidului în sud-est.",
+            "en": "A more secluded part of the wall in the southeast."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinen von Aigues-Mortes",
+            "hu": "Aigues-Mortes sólepárlói",
+            "ro": "Salinele din Aigues-Mortes",
+            "en": "Salins of Aigues-Mortes"
+          },
+          "coords": [
+            4.198,
+            43.552
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit dem Fahrrad entlang der Salzbecken fahren.",
+            "hu": "Biciklizzen a sós medencék mentén.",
+            "ro": "Mergeți cu bicicleta pe lângă bazinele de sare.",
+            "en": "Cycle along the salt pans."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Rhône à Sète",
+            "hu": "Rhône–Sète-csatorna",
+            "ro": "Canalul Rhône à Sète",
+            "en": "Canal du Rhône à Sète"
+          },
+          "coords": [
+            4.18,
+            43.562
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ebener Radweg am Kanalufer.",
+            "hu": "Sík kerékpárút a csatornaparton.",
+            "ro": "Pistă de biciclete plată pe malul canalului.",
+            "en": "Flat bike path along the canal bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer (Abschluss)",
+            "hu": "Városfal (zárás)",
+            "ro": "Zidurile cetății",
+            "en": "Ramparts (Finish)"
+          },
+          "coords": [
+            4.1886,
+            43.567
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Festung.",
+            "hu": "Utolsó pillantás az erődre.",
+            "ro": "Ultima privire asupra cetății.",
+            "en": "Final look at the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie nicht nur die Stadt, sondern auch die weiten Salinen. Starten Sie im Zentrum und fahren Sie dann hinaus zu den rosa Salzbecken der Camargue. Die flache Landschaft bietet endlose Ausblicke und der Wind vom Mittelmeer sorgt für Kühlung.",
+        "hu": "Kerékpárral nemcsak a várost, hanem a tágas sólepárlókat is felfedezheti. Kezdjen a központban, majd tekerjen ki a Camargue rózsaszín sós medencéihez. A sík táj végtelen kilátást nyújt, a tenger felőli szél pedig hűsíti az utat.",
+        "ro": "Cu bicicleta, explorați nu doar orașul, ci și salinele vaste. Începeți în centru, apoi pedalați spre bazinele roz de sare din Camargue. Peisajul plat oferă vederi nesfârșite, iar vântul mediteranean vă va răcori.",
+        "en": "By bike, you explore not only the town but also the vast salt marshes. Start in the center and then ride out to the pink salt pans of the Camargue. The flat landscape offers endless views, and the Mediterranean breeze keeps you cool."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Camargue-Reis",
+            "tip": "Probieren Sie den schwarzen Reis der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Camargue-i rizs",
+            "tip": "Kóstolja meg a régió fekete rizsét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orez de Camargue",
+            "tip": "Încercați orezul negru al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Camargue Rice",
+            "tip": "Try the region's famous black rice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Via Rhôna",
+            "tip": "Ruhiger Radweg am Wasser.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Rhôna",
+            "tip": "Csendes kerékpárút a víz mentén.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Rhôna",
+            "tip": "Pistă de biciclete liniștită pe malul apei.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Rhôna",
+            "tip": "Quiet cycle path by the water.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih-Shops",
+            "tip": "Lokale Karten und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönzők",
+            "tip": "Helyi térképek és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre de închirieri",
+            "tip": "Hărți locale și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike rental shops",
+            "tip": "Local maps and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Mistral-Wind, der das Treten erschweren kann.",
+          "Nehmen Sie ausreichend Wasser mit, da es in den Salinen kaum Schatten gibt."
+        ],
+        "hu": [
+          "Figyeljen a misztrál szélre, amely megnehezítheti a tekerést.",
+          "Vigyen magával elég vizet, mert a sólepárlóknál alig van árnyék."
+        ],
+        "ro": [
+          "Atenție la vântul Mistral, care poate îngreuna pedalarea.",
+          "Luați suficientă apă, deoarece în saline este puțină umbră."
+        ],
+        "en": [
+          "Watch out for the Mistral wind, which can make pedaling difficult.",
+          "Take plenty of water, as there is little shade in the salt marshes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Louis (Cluster Altstadt)",
+            "hu": "Szent Lajos tér (Óváros klaszter)",
+            "ro": "Piața Saint-Louis (Cluster Centru)",
+            "en": "Place Saint-Louis (Old Town Cluster)"
+          },
+          "coords": [
+            4.1908,
+            43.5668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der Mauern.",
+            "hu": "Parkoljon a falakon kívül.",
+            "ro": "Parcați în afara zidurilor.",
+            "en": "Park outside the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Constance",
+            "hu": "Konstancia-torony",
+            "ro": "Turnul Constanței",
+            "en": "Tour de Constance"
+          },
+          "coords": [
+            4.1888,
+            43.5684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar (Walk-Hop).",
+            "hu": "Gyalog elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer (Ost-Sektion)",
+            "hu": "Városfal (keleti rész)",
+            "ro": "Zidul de est",
+            "en": "Ramparts (East Section)"
+          },
+          "coords": [
+            4.194,
+            43.567
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Innerhalb des Altstadt-Clusters (Walk-Hop).",
+            "hu": "Az óvárosi klaszteren belül.",
+            "ro": "În cadrul clusterului vechi.",
+            "en": "Within the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinen von Aigues-Mortes (Cluster Süd)",
+            "hu": "Sólepárlók (Déli klaszter)",
+            "ro": "Saline (Cluster Sud)",
+            "en": "Salt Marshes (South Cluster)"
+          },
+          "coords": [
+            4.195,
+            43.555
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Eingang der Salinen (Car-Hop).",
+            "hu": "Rövid autózás a sólepárlók bejáratához.",
+            "ro": "Scurtă călătorie cu mașina până la intrare.",
+            "en": "Short drive to the salt pans entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Bourguignons",
+            "hu": "Burgundi-torony",
+            "ro": "Turnul Burgundezilor",
+            "en": "Tour des Bourguignons"
+          },
+          "coords": [
+            4.193,
+            43.565
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Rückfahrt Richtung Stadt (Car-Hop).",
+            "hu": "Visszaút a város felé.",
+            "ro": "Întoarcere spre oraș.",
+            "en": "Drive back towards town."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Rhône à Sète",
+            "hu": "Rhône–Sète-csatorna",
+            "ro": "Canalul Rhône à Sète",
+            "en": "Canal du Rhône à Sète"
+          },
+          "coords": [
+            4.185,
+            43.565
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Kanal.",
+            "hu": "Parkoló közvetlenül a csatornánál.",
+            "ro": "Parcare chiar lângă canal.",
+            "en": "Parking right by the canal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das mittelalterliche Zentrum mit den weiten Landschaften der Camargue. Nachdem Sie die Festung zu Fuß erkundet haben, fahren Sie direkt zu den berühmten Salinen, um die rosa Becken zu sehen. Ein Stopp am Kanal rundet den Tag ab.",
+        "hu": "Ez az autós túra a középkori központot ötvözi Camargue tágas tájaival. Miután gyalog felfedezte az erődöt, hajtson közvetlenül a híres sólepárlókhoz. A napot egy csatornaparti megálló zárja.",
+        "ro": "Acest tur cu mașina combină centrul medieval cu peisajele vaste din Camargue. După ce ați explorat cetatea pe jos, conduceți direct spre faimoasele saline. O oprire la canal încheie ziua.",
+        "en": "This car tour combines the medieval center with the vast landscapes of the Camargue. After exploring the fortress on foot, drive directly to the famous salt marshes to see the pink pans. A stop at the canal completes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Patio",
+            "tip": "Restaurant mit Camargue-Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Patio",
+            "tip": "Étterem camargue-i specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Patio",
+            "tip": "Restaurant cu specialități din Camargue."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Patio",
+            "tip": "Restaurant serving Camargue specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz am Kanal",
+            "tip": "Ruhiger Blick auf die Boote.",
+            "emoji": "🚤"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatornaparti parkoló",
+            "tip": "Csendes kilátás a hajókra.",
+            "emoji": "🚤"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare la canal",
+            "tip": "Vedere liniștită spre bărci.",
+            "emoji": "🚤"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal parking lot",
+            "tip": "Quiet view of the boats.",
+            "emoji": "🚤"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Salinen-Shop",
+            "tip": "Alle Salzvariationen an einem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salines-bolt",
+            "tip": "Minden sóvariáció egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul salinei",
+            "tip": "Toate variațiile de sare într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt pans shop",
+            "tip": "All salt variations in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die großen Parkplätze P1-P4 außerhalb der Stadtmauer.",
+          "Die Einfahrt in die Altstadt ist für Touristen nicht empfohlen."
+        ],
+        "hu": [
+          "Használja a falakon kívüli nagy P1-P4 parkolókat.",
+          "Az óvárosba való behajtás turistáknak nem ajánlott."
+        ],
+        "ro": [
+          "Folosiți parcările mari P1-P4 din afara zidurilor.",
+          "Intrarea în orașul vechi cu mașina nu este recomandată turiștilor."
+        ],
+        "en": [
+          "Use the large P1-P4 parking lots outside the ramparts.",
+          "Driving into the Old Town is not recommended for tourists."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Aigues-Mortes",
+            "hu": "Aigues-Mortes vasútállomás",
+            "ro": "Gara Aigues-Mortes",
+            "en": "Aigues-Mortes Train Station"
+          },
+          "coords": [
+            4.186,
+            43.568
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkter Zugang zur Altstadt.",
+            "hu": "Közvetlen bejárat az óvároshoz.",
+            "ro": "Acces direct către orașul vechi.",
+            "en": "Direct access to the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Constance (Cluster Nord)",
+            "hu": "Konstancia-torony (Északi klaszter)",
+            "ro": "Turnul Constanței (Cluster Nord)",
+            "en": "Tour de Constance (North Cluster)"
+          },
+          "coords": [
+            4.1888,
+            43.5684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof (Walk-Hop).",
+            "hu": "Rövid séta az állomástól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Saint-Louis",
+            "hu": "Szent Lajos tér",
+            "ro": "Piața Saint-Louis",
+            "en": "Place Saint-Louis"
+          },
+          "coords": [
+            4.1908,
+            43.5668
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß innerhalb der Mauern (Walk-Hop).",
+            "hu": "Gyalog a falakon belül.",
+            "ro": "Pe jos în interiorul zidurilor.",
+            "en": "On foot within the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bimmelbahn zu den Salinen (Cluster Süd)",
+            "hu": "Kisvasút a sólepárlókhoz (Déli klaszter)",
+            "ro": "Trenulețul salinelor (Cluster Sud)",
+            "en": "Salt Pans Train (South Cluster)"
+          },
+          "coords": [
+            4.195,
+            43.555
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der 'Petit Train' fährt vom Parkplatz zu den Salinen.",
+            "hu": "A 'Petit Train' kisvasút a parkolótól indul a sólepárlókhoz.",
+            "ro": "„Petit Train” pleacă din parcare spre saline.",
+            "en": "The 'Petit Train' runs from the parking lot to the salt pans."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-des-Sablons",
+            "hu": "Notre-Dame-des-Sablons templom",
+            "ro": "Biserica Notre-Dame-des-Sablons",
+            "en": "Notre-Dame-des-Sablons Church"
+          },
+          "coords": [
+            4.1912,
+            43.5672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum (Transit-Hop).",
+            "hu": "Visszatérés a központba.",
+            "ro": "Întoarcere în centru.",
+            "en": "Return to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen / Canal",
+            "hu": "Kikötő / Csatorna",
+            "ro": "Port / Canal",
+            "en": "Harbor / Canal"
+          },
+          "coords": [
+            4.185,
+            43.565
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "In der Nähe des Bahnhofs für die Abreise.",
+            "hu": "Az állomás közelében az induláshoz.",
+            "ro": "Aproape de gară pentru plecare.",
+            "en": "Near the station for departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug erreichen Sie Aigues-Mortes bequem aus Nîmes oder Montpellier. Die Stadt ist kompakt genug, um sie zu Fuß zu erkunden. Für die Salinen nutzen Sie die beliebte Bimmelbahn, die Sie direkt in das Herz der Salzproduktion bringt.",
+        "hu": "Vonattal kényelmesen elérheti Aigues-Mortes-t Nîmes-ből vagy Montpellier-ből. A város elég kompakt a gyalogos felfedezéshez. A sólepárlókhoz használja a népszerű kisvasutat, amely egyenesen a sótermelés szívébe viszi.",
+        "ro": "Cu trenul puteți ajunge ușor la Aigues-Mortes din Nîmes sau Montpellier. Orașul este suficient de compact pentru a fi explorat pe jos. Pentru saline, folosiți popularul trenuleț turistic care vă duce direct în inima producției de sare.",
+        "en": "By train, you can easily reach Aigues-Mortes from Nîmes or Montpellier. The town is compact enough to explore on foot. For the salt pans, use the popular tourist train that takes you directly into the heart of salt production."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Platz",
+            "tip": "Frische Fougasse zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a téren",
+            "tip": "Friss Fougasse elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din piață",
+            "tip": "Fougasse proaspătă la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on the square",
+            "tip": "Fresh Fougasse to take away."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wartesaal Bahnhof",
+            "tip": "Kleiner, historischer Bahnhof.",
+            "emoji": "🚉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási váró",
+            "tip": "Kicsi, történelmi vasútállomás.",
+            "emoji": "🚉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sala de așteptare",
+            "tip": "O gară mică, istorică.",
+            "emoji": "🚉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station waiting area",
+            "tip": "Small, historic train station.",
+            "emoji": "🚉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstände am Kanal",
+            "tip": "Kleine Andenken vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírárusok a csatornánál",
+            "tip": "Apró emlékek indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe de suveniruri la canal",
+            "tip": "Mici amintiri înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir stalls by the canal",
+            "tip": "Small mementos before departure."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Abfahrtszeiten der Züge (Linie Nîmes - Le Grau-du-Roi) genau.",
+          "Die Bimmelbahn zu den Salinen ist in der Hochsaison oft ausgebucht."
+        ],
+        "hu": [
+          "Pontosan ellenőrizze a vonatok indulási idejét (Nîmes - Le Grau-du-Roi vonal).",
+          "A sólepárlókhoz járó kisvasút főszezonban gyakran megtelik."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul trenurilor (linia Nîmes - Le Grau-du-Roi).",
+          "Trenulețul către saline este adesea rezervat complet în plin sezon."
+        ],
+        "en": [
+          "Check train times carefully (Nîmes - Le Grau-du-Roi line).",
+          "The tourist train to the salt pans is often fully booked in high season."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "city_id": "bensheim-extra",
+  "anchor": {
+    "name": "Bensheim Marktplatz",
+    "coords": [
+      49.6813,
+      8.6215
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz & Baunack-Haus",
+            "hu": "Piactér és Baunack-ház",
+            "ro": "Piața Mare și Casa Baunack",
+            "en": "Market Square & Baunack House"
+          },
+          "coords": [
+            49.6813,
+            8.6215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fachwerk-Idylle pur.",
+            "hu": "Csodás favázas házak.",
+            "ro": "Case tradiționale superbe.",
+            "en": "Beautiful half-timbered houses."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Georg Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            49.6819,
+            8.6208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Klassizistische Architektur.",
+            "hu": "Klasszicista stílusú épület.",
+            "ro": "Arhitectură clasicistă.",
+            "en": "Classicist architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Wambolter Hof",
+            "hu": "Wambolter-udvar",
+            "ro": "Curtea Wambolter",
+            "en": "Wambolter Hof"
+          },
+          "coords": [
+            49.682,
+            8.6225
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ehemaliger Adelshof.",
+            "hu": "Egykori nemesi kúria.",
+            "ro": "Fost conac nobiliar.",
+            "en": "Former noble residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Roter Turm",
+            "hu": "Vörös torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            49.6802,
+            8.6235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Teil der alten Stadtmauer.",
+            "hu": "A városfal maradványa.",
+            "ro": "Parte din vechiul zid.",
+            "en": "Part of the old city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalberger Hof",
+            "hu": "Dalberger-udvar",
+            "ro": "Curtea Dalberger",
+            "en": "Dalberger Hof"
+          },
+          "coords": [
+            49.6815,
+            8.6245
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Barocker Adelshof.",
+            "hu": "Barokk nemesi udvarház.",
+            "ro": "Curte nobiliară barocă.",
+            "en": "Baroque noble court."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchberghäuschen",
+            "hu": "Kirchberg-házikó",
+            "ro": "Căsuța de pe Kirchberg",
+            "en": "Kirchberghäuschen"
+          },
+          "coords": [
+            49.6853,
+            8.6085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bester Blick über die Reben.",
+            "hu": "Legjobb kilátás a dűlőkre.",
+            "ro": "Cea mai bună vedere spre vii.",
+            "en": "Best view over the vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden wir die historische Altstadt mit ihren prächtigen Fachwerkhäusern rund um den Marktplatz. Mittags spazieren wir vorbei an den Adelshöfen zum markanten Roten Turm. Nachmittags führt uns ein moderater Anstieg hinauf zum Kirchberghäuschen, wo wir bei regionalem Wein den Blick über die Hessische Bergstraße genießen und den Tag entspannt ausklingen lassen.",
+        "hu": "Délelőtt a történelmi óváros favázas házaival ismerkedünk a piactér környékén. Délben az egykori nemesi udvarházak és a középkori Vörös torony mentén sétálunk. Délután egy közepes emelkedővel felkapaszkodunk a Kirchberghäuschenhez, ahol a szőlőültetvényekre nyíló panoráma és egy pohár helyi bor társaságában pihenhetünk meg a túra végén.",
+        "ro": "Dimineața explorăm centrul istoric cu casele sale tradiționale din jurul pieței centrale. La prânz ne plimbăm pe lângă fostele curți nobiliare până la Turnul Roșu medieval. După-amiaza urcăm panta spre Kirchberghäuschen, unde ne bucurăm de o panoramă spectaculoasă asupra podgoriilor din Bergstraße, însoțită de un pahar de vin local, într-o atmosferă relaxantă.",
+        "en": "Morning starts in the historic old town, admiring half-timbered houses around the Market Square. Midday takes us past noble courts to the medieval Red Tower. In the afternoon, we take a moderate hike up to the Kirchberghäuschen viewpoint, where we enjoy panoramic views over the vineyards of the Hessische Bergstraße and local wine before concluding the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bergsträßer Wein",
+            "tip": "Probieren Sie Riesling oder Grauburgunder direkt am Kirchberg."
+          },
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Klassische hessische Spezialität in den Weinstuben der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bergstraßei bor",
+            "tip": "Kóstoljon helyi rizlinget közvetlenül a dűlők mellett."
+          },
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Hagyományos hesseni sajt különlegesség hagymás pácban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Bergstraße",
+            "tip": "Gustați un Riesling local chiar pe dealul Kirchberg."
+          },
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Specialitate de brânză din Hessa servită cu ceapă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bergstraße Wine",
+            "tip": "Try a local Riesling or Pinot Gris at the Kirchberg hut."
+          },
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Traditional Hessian marinated cheese specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchberghäuschen",
+            "tip": "Sonnenuntergang über der Rheinebene.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Georg Innenhof",
+            "tip": "Ruhiger Moment im Schatten der Kirche.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kirchberghäuschen",
+            "tip": "Naplemente a Rajna-völgy felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent György udvar",
+            "tip": "Csendes pihenő a templom árnyékában.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kirchberghäuschen",
+            "tip": "Apus de soare peste valea Rinului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea Sf. Gheorghe",
+            "tip": "Moment de liniște lângă biserică.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kirchberghäuschen",
+            "tip": "Sunset over the Rhine valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. George Courtyard",
+            "tip": "Quiet moment in the church shadows.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte mittwochs und samstags am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek szerdán és szombaton a Piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale în fiecare miercuri și sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Local produce on Market Square (Wed/Sat)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bensheim liegt an der sonnigen Bergstraße, Sonnenschutz ist Pflicht.",
+          "Die Wanderung zum Kirchberg ist kurz, aber stetig ansteigend.",
+          "Parken Sie am besten im Parkhaus am Griesel."
+        ],
+        "hu": [
+          "Bensheim a napos Bergstraße mentén fekszik, naptej ajánlott.",
+          "A Kirchberg-túra rövid, de folyamatosan emelkedik.",
+          "Érdemes a Griesel melletti parkolóházat használni."
+        ],
+        "ro": [
+          "Bensheim e pe însorita Bergstraße, folosiți protecție solară.",
+          "Urcarea spre Kirchberg e scurtă dar constantă.",
+          "Parcați de preferință în garajul de la Griesel."
+        ],
+        "en": [
+          "Bensheim is on the sunny Bergstraße; sun protection is advised.",
+          "The hike to Kirchberg is short but steadily uphill.",
+          "Best parking is at the Griesel parking garage."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            49.6813,
+            8.6215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt.",
+            "hu": "Tökéletes kiindulópont.",
+            "ro": "Punct de plecare ideal.",
+            "en": "Perfect starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Roter Turm",
+            "hu": "Vörös torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            49.6802,
+            8.6235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp.",
+            "hu": "Rövid fotómegálló.",
+            "ro": "Scurt popas foto.",
+            "en": "Quick photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatspark Fürstenlager",
+            "hu": "Fürstenlager Állami Park",
+            "ro": "Parcul Statului Fürstenlager",
+            "en": "Staatspark Fürstenlager"
+          },
+          "coords": [
+            49.704,
+            8.636
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Englischer Landschaftspark.",
+            "hu": "Angol tájképi kert.",
+            "ro": "Parc peisagistic englez.",
+            "en": "English landscape park."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalberger Hof",
+            "hu": "Dalberger-udvar",
+            "ro": "Curtea Dalberger",
+            "en": "Dalberger Hof"
+          },
+          "coords": [
+            49.6815,
+            8.6245
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Historisches Ambiente.",
+            "hu": "Történelmi hangulat.",
+            "ro": "Ambiantă istorică.",
+            "en": "Historical ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wambolter Hof",
+            "hu": "Wambolter-udvar",
+            "ro": "Curtea Wambolter",
+            "en": "Wambolter Hof"
+          },
+          "coords": [
+            49.682,
+            8.6225
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prachtbau der Renaissance.",
+            "hu": "Reneszánsz épület.",
+            "ro": "Clădire renascentistă.",
+            "en": "Renaissance building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchberghäuschen",
+            "hu": "Kirchberg-házikó",
+            "ro": "Căsuța de pe Kirchberg",
+            "en": "Kirchberghäuschen"
+          },
+          "coords": [
+            49.6853,
+            8.6085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:35",
+          "stay_min": 95,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Anstrengung lohnt sich.",
+            "hu": "Megéri a fáradtságot.",
+            "ro": "Merită efortul.",
+            "en": "Worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert Stadtgeschichte mit herrlicher Natur. Nach dem Start in der Altstadt radeln wir in den Norden zum Staatspark Fürstenlager, einer weitläufigen Parkanlage. Mittags kehren wir zurück zu den historischen Höfen von Bensheim. Der krönende Abschluss ist die Fahrt hinauf zum Kirchberg, die etwas Kondition erfordert, aber mit einer grandiosen Aussicht belohnt wird.",
+        "hu": "Ez a kerékpártúra ötvözi a várostörténetet a lenyűgöző természettel. Az óvárosi rajt után északra tekerünk a Fürstenlager Állami Parkba. Délben visszatérünk Bensheim történelmi nemesi udvarházaihoz. A nap fénypontja a Kirchbergre való feltekerés, ami bár igényel némi kondíciót, de a pazar kilátás kárpótol minden fáradozásért.",
+        "ro": "Acest tur cu bicicleta îmbină istoria orașului cu natura splendidă. După pornirea din centrul vechi, pedalăm spre nord către Parcul Fürstenlager, o zonă vastă de relaxare. La prânz revenim la curțile istorice din Bensheim. Finalul perfect este urcarea pe Kirchberg, care necesită puțină condiție fizică, dar răsplătește cu o vedere panoramică superbă.",
+        "en": "This cycling tour combines city history with stunning nature. After starting in the old town, we ride north to Staatspark Fürstenlager, an expansive parkland. At midday, we return to Bensheim's historic noble courts. The highlight is the climb up to Kirchberg, which requires some stamina but rewards you with a magnificent panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Herrenhaus Fürstenlager",
+            "tip": "Kaffee und Kuchen im Schlosspark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herrenhaus Fürstenlager",
+            "tip": "Kávé és sütemény a kastélyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herrenhaus Fürstenlager",
+            "tip": "Cafea și prăjituri în parcul castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herrenhaus Fürstenlager",
+            "tip": "Coffee and cake in the palace park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Goethebrunnen",
+            "tip": "Idyllischer Platz im Fürstenlager.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Goethe-kút",
+            "tip": "Idilli hely a Fürstenlager parkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fântâna lui Goethe",
+            "tip": "Loc idilic în Fürstenlager.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Goethe Fountain",
+            "tip": "Idyllic spot in Fürstenlager.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Bensheim",
+            "tip": "Zubehör und Karten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bensheimi kerékpárbolt",
+            "tip": "Kiegészítők és régiós térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bensheim Bike Shop",
+            "tip": "Accessories and regional maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Radweg 'Die Bergstraße'.",
+          "Für den Kirchberg sind gute Bremsen wichtig.",
+          "Im Fürstenlager bitte Rücksicht auf Spaziergänger nehmen."
+        ],
+        "hu": [
+          "Használja a 'Bergstraße' kerékpárutat.",
+          "A Kirchbergre menet jó fékek szükségesek.",
+          "A Fürstenlager parkban ügyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete 'Die Bergstraße'.",
+          "Pentru Kirchberg aveți nevoie de frâne bune.",
+          "În Fürstenlager acordați prioritate pietonilor."
+        ],
+        "en": [
+          "Use 'The Bergstraße' cycle path.",
+          "Good brakes are essential for the Kirchberg descent.",
+          "Please be considerate of pedestrians in Fürstenlager."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Parkplatz Griesel",
+            "hu": "Griesel parkoló (Óváros)",
+            "ro": "Parcare Centrul Vechi Griesel",
+            "en": "Old Town Parking Griesel"
+          },
+          "coords": [
+            49.6835,
+            8.621
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz.",
+            "hu": "Központi parkoló.",
+            "ro": "Parcare centrală.",
+            "en": "Central parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (Cluster A)",
+            "hu": "Piactér (A csoport)",
+            "ro": "Piața Centrală (Cluster A)",
+            "en": "Market Square (Cluster A)"
+          },
+          "coords": [
+            49.6813,
+            8.6215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz.",
+            "hu": "Gyalog a parkolótól.",
+            "ro": "Pe jos de la parcare.",
+            "en": "On foot from parking."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Georg Kirche (Cluster A)",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            49.6819,
+            8.6208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg.",
+            "hu": "Rövid séta.",
+            "ro": "Scurtă plimbare.",
+            "en": "Short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatspark Fürstenlager (Cluster B)",
+            "hu": "Fürstenlager Állami Park",
+            "ro": "Parcul Fürstenlager",
+            "en": "Staatspark Fürstenlager"
+          },
+          "coords": [
+            49.704,
+            8.636
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Parken am Parkeingang.",
+            "hu": "Parkolás a bejáratnál.",
+            "ro": "Parcare la intrare.",
+            "en": "Parking at entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wambolter Hof",
+            "hu": "Wambolter-udvar",
+            "ro": "Curtea Wambolter",
+            "en": "Wambolter Hof"
+          },
+          "coords": [
+            49.682,
+            8.6225
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Zurück in der Stadt.",
+            "hu": "Vissza a városba.",
+            "ro": "Înapoi în oraș.",
+            "en": "Back in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Roter Turm",
+            "hu": "Vörös torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            49.6802,
+            8.6235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehem. Festungsturm.",
+            "hu": "Egykori vártorony.",
+            "ro": "Fost turn de cetate.",
+            "en": "Former fortress tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchberghäuschen",
+            "hu": "Kirchberg-házikó",
+            "ro": "Căsuța de pe Kirchberg",
+            "en": "Kirchberghäuschen"
+          },
+          "coords": [
+            49.6853,
+            8.6085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplatz unterhalb.",
+            "hu": "Lenti parkoló.",
+            "ro": "Parcare mai jos.",
+            "en": "Parking below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir die Highlights von Bensheim und dem Stadtteil Auerbach. Zuerst erkunden wir das Zentrum zu Fuß. Dann fahren wir nach Auerbach zum Staatspark Fürstenlager, um die weitläufige Parkanlage zu genießen. Den Abschluss bildet die kurze Fahrt zum Kirchberg, von wo aus wir einen fantastischen Blick über das Rheintal bis zum Odenwald haben.",
+        "hu": "Autóval kényelmesen összekötjük Bensheim és Auerbach városrész látnivalóit. Előbb gyalogosan fedezzük fel a központot. Ezután Auerbachba hajtunk a Fürstenlager Állami Parkhoz. A napot a Kirchbergnél zárjuk, ahonnan fantasztikus kilátás nyílik a Rajna-völgytől egészen az Odenwald hegységig.",
+        "ro": "Cu mașina legăm atracțiile principale din Bensheim și cartierul Auerbach. Întâi explorăm centrul pe jos. Apoi conducem spre Auerbach la Parcul Fürstenlager pentru a ne bucura de zona verde vastă. Încheiem cu o scurtă deplasare spre Kirchberg, de unde avem o vedere panoramică superbă peste valea Rinului până la Odenwald.",
+        "en": "By car, we combine the highlights of Bensheim and the Auerbach district. We start by exploring the center on foot. Then, we drive to Auerbach for the Staatspark Fürstenlager to enjoy the expansive parklands. The day ends with a short drive to the Kirchberg parking, offering a fantastic view from the Rhine valley to the Odenwald mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinhaus Blauer Aff",
+            "tip": "Uriges Restaurant in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weinhaus Blauer Aff",
+            "tip": "Hangulatos étterem az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weinhaus Blauer Aff",
+            "tip": "Restaurant rustic în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weinhaus Blauer Aff",
+            "tip": "Quaint restaurant in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eremitage Fürstenlager",
+            "tip": "Stiller Ort im Waldpark.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fürstenlager remetelak",
+            "tip": "Csendes hely az erdei parkban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eremitul din Fürstenlager",
+            "tip": "Loc liniștit în parcul pădurii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hermitage Fürstenlager",
+            "tip": "Quiet spot in the forest park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinothek Bergstraße",
+            "tip": "Große Auswahl an lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bergstraße Vinotéka",
+            "tip": "Széles választék helyi borokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinoteca Bergstraße",
+            "tip": "Selecție mare de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinothek Bergstraße",
+            "tip": "Large selection of local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsuche in der Altstadt kann schwierig sein.",
+          "Nutzen Sie die Parkhäuser Griesel oder Neumarkt.",
+          "Fahren Sie vorsichtig in den engen Gassen Auerbachs."
+        ],
+        "hu": [
+          "Az óvárosban nehéz lehet parkolóhelyet találni.",
+          "Használja a Griesel vagy Neumarkt parkolóházakat.",
+          "Vezessen óvatosan Auerbach szűk utcáin."
+        ],
+        "ro": [
+          "Găsirea unui loc de parcare în centrul vechi poate fi dificilă.",
+          "Folosiți parcările Griesel sau Neumarkt.",
+          "Conduceți cu atenție pe străzile înguste din Auerbach."
+        ],
+        "en": [
+          "Finding street parking in the old town can be tricky.",
+          "Use the Griesel or Neumarkt parking garages.",
+          "Drive carefully through the narrow streets of Auerbach."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bensheim Bahnhof / Marktplatz",
+            "hu": "Bensheim vasútállomás / Piactér",
+            "ro": "Gara Bensheim / Piața Centrală",
+            "en": "Bensheim Station / Market Square"
+          },
+          "coords": [
+            49.6813,
+            8.6215
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Knotenpunkt aller Busse.",
+            "hu": "Buszjáratok csomópontja.",
+            "ro": "Nod principal pentru autobuze.",
+            "en": "Hub for all local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Georg Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            49.6819,
+            8.6208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußläufig erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatspark Fürstenlager",
+            "hu": "Fürstenlager Állami Park",
+            "ro": "Parcul Fürstenlager",
+            "en": "Staatspark Fürstenlager"
+          },
+          "coords": [
+            49.704,
+            8.636
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie 669 nach Auerbach.",
+            "hu": "669-es busz Auerbach felé.",
+            "ro": "Autobuzul 669 spre Auerbach.",
+            "en": "Bus 669 towards Auerbach."
+          }
+        },
+        {
+          "name": {
+            "de": "Roter Turm",
+            "hu": "Vörös torony",
+            "ro": "Turnul Roșu",
+            "en": "Red Tower"
+          },
+          "coords": [
+            49.6802,
+            8.6235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Zurück mit dem Bus.",
+            "hu": "Vissza busszal.",
+            "ro": "Înapoi cu autobuzul.",
+            "en": "Back by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchberghäuschen",
+            "hu": "Kirchberg-házikó",
+            "ro": "Căsuța de pe Kirchberg",
+            "en": "Kirchberghäuschen"
+          },
+          "coords": [
+            49.6853,
+            8.6085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurze Wanderung am Ende.",
+            "hu": "Rövid túra a végén.",
+            "ro": "Scurtă drumeție la final.",
+            "en": "Short hike at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bensheim lässt sich hervorragend mit Bus und Bahn erkunden. Vom Bahnhof starten wir in die Altstadt. Mit dem Bus 669 gelangen wir bequem nach Auerbach zum Staatspark Fürstenlager. Mittags kehren wir ins Zentrum zurück, um den geschichtsträchtigen Roten Turm zu sehen. Den Tag beenden wir mit einem Spaziergang hinauf zum Kirchberg, dem Wahrzeichen der Stadt.",
+        "hu": "Bensheim kiválóan felfedezhető busszal és vonattal. Az állomástól indulunk az óvárosba. A 669-es busszal kényelmesen eljutunk Auerbachba, a Fürstenlager Állami Parkhoz. Délben visszatérünk a központba a történelmi Vörös toronyhoz. A napot egy sétával zárjuk a város jelképéhez, a Kirchberg-házikóhoz.",
+        "ro": "Bensheim poate fi explorat excelent cu autobuzul și trenul. De la gară pornim spre centrul vechi. Cu autobuzul 669 ajungem confortabil în Auerbach la Parcul Fürstenlager. La prânz revenim în centru pentru a vedea Turnul Roșu istoric. Încheiem ziua cu o plimbare spre Kirchberghäuschen, simbolul orașului.",
+        "en": "Bensheim is easily explored by bus and train. From the station, we start in the old town. Bus line 669 takes us comfortably to Auerbach for the Staatspark Fürstenlager. At midday, we return to the center to see the historic Red Tower. We conclude the day with a walk up to the Kirchberg, the city's iconic landmark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Braustüb'l Bensheim",
+            "tip": "Hessische Küche direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Braustüb'l Bensheim",
+            "tip": "Hesseni konyha az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Braustüb'l Bensheim",
+            "tip": "Bucătărie hessiană lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Braustüb'l Bensheim",
+            "tip": "Hessian cuisine right by the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hainturm",
+            "tip": "Ruhiger Aussichtspunkt im Wald.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hainturm",
+            "tip": "Csendes kilátópont az erdőben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hainturm",
+            "tip": "Punct de belvedere liniștit în pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hainturm",
+            "tip": "Quiet viewpoint in the forest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufhaus Ganz",
+            "tip": "Traditionelles Kaufhaus in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ganz Áruház",
+            "tip": "Hagyományos áruház a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Ganz",
+            "tip": "Magazin tradițional în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ganz Department Store",
+            "tip": "Traditional department store downtown."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die VRN-Ticket-App herunter.",
+          "Die Busse verkehren meist im 20-30-Minuten-Takt.",
+          "Das Ticket 'Tages-Karte' lohnt sich für Gruppen."
+        ],
+        "hu": [
+          "Töltse le a VRN jegyvásárló alkalmazást.",
+          "A buszok általában 20-30 percenként járnak.",
+          "A 'Tages-Karte' napijegy megéri csoportoknak."
+        ],
+        "ro": [
+          "Descărcați aplicația VRN pentru bilete.",
+          "Autobuzele circulă de regulă la 20-30 de minute.",
+          "Biletul de o zi 'Tages-Karte' este avantajos la grup."
+        ],
+        "en": [
+          "Download the VRN ticket app.",
+          "Buses usually run every 20-30 minutes.",
+          "The 'Tages-Karte' (day ticket) is great for groups."
+        ]
+      }
+    }
+  }
+}

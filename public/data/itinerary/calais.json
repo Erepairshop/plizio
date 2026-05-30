@@ -1,0 +1,1116 @@
+{
+  "city_id": "calais",
+  "anchor": {
+    "name": "Hôtel de Ville de Calais",
+    "coords": [
+      1.8587,
+      50.9513
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hôtel de Ville & Beffroi",
+          "coords": [
+            1.8587,
+            50.9513
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für den Blick auf den Ärmelkanal.",
+            "hu": "Mássz fel a toronyba a csatornára nyíló kilátásért.",
+            "ro": "Urcați în turn pentru vederea spre Canalul Mânecii.",
+            "en": "Climb the belfry for views across the English Channel."
+          }
+        },
+        {
+          "name": "Les Bourgeois de Calais",
+          "coords": [
+            1.858,
+            50.9515
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Rodins Meisterwerk direkt vor dem Rathaus.",
+            "hu": "Rodin mesterműve közvetlenül a városháza előtt.",
+            "ro": "Capodopera lui Rodin chiar în fața primăriei.",
+            "en": "Rodin's masterpiece located right in front of the town hall."
+          }
+        },
+        {
+          "name": "Musée de la Dentelle et de la Mode",
+          "coords": [
+            1.851,
+            50.95
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die berühmte Calais-Spitze.",
+            "hu": "Ismerd meg a híres calais-i csipke történetét.",
+            "ro": "Aflați totul despre celebra dantelă de Calais.",
+            "en": "Discover the intricate history of famous Calais lace."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            1.852,
+            50.957
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einzigartige englisch-gotische Architektur in Frankreich.",
+            "hu": "Egyedülálló angol gótikus stílus Franciaországban.",
+            "ro": "Arhitectură gotică engleză unică în Franța.",
+            "en": "Unique English-Gothic architecture found in France."
+          }
+        },
+        {
+          "name": "Phare de Calais",
+          "coords": [
+            1.854,
+            50.96
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein 58 Meter hoher Leuchtturm im Stadtzentrum.",
+            "hu": "58 méter magas világítótorony a városközpontban.",
+            "ro": "Un far de 58 de metri în centrul orașului.",
+            "en": "A 58-meter tall lighthouse located in the city center."
+          }
+        },
+        {
+          "name": "Fort Risban",
+          "coords": [
+            1.848,
+            50.963
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Alte Festung, die den Hafen bewacht.",
+            "hu": "A kikötőt őrző régi erődítmény.",
+            "ro": "Vechea fortăreață care păzește portul.",
+            "en": "Old fortress guarding the entrance to the port."
+          }
+        },
+        {
+          "name": "Plage de Calais",
+          "coords": [
+            1.838,
+            50.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 115,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und den Blick auf die Fähren.",
+            "hu": "Élvezd a finom homokot és a kompok látványát.",
+            "ro": "Bucurați-vă de nisipul fin și de vederea feriboturilor.",
+            "en": "Enjoy the fine sand and watch the ferries depart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im prächtigen Rathaus und bewundern Sie Rodins berühmte Statuen. Nach einem Einblick in die Textilgeschichte im Spitzenmuseum spazieren Sie durch das historische Viertel zur Kirche Notre-Dame. Der Nachmittag gehört dem maritimen Erbe am Leuchtturm und dem Fort Risban, bevor Sie den Tag entspannt am weitläufigen Sandstrand ausklingen lassen.",
+        "hu": "Kezdje a napot a pompás városházánál, megcsodálva Rodin híres szobrait. A csipkemúzeum textilipari történetei után sétáljon át a történelmi negyeden a Notre-Dame templomig. A délután a tengeri örökségé: látogasson el a világítótoronyhoz és a Fort Risban erődbe, majd zárja a napot pihenéssel a tágas homokos tengerparton.",
+        "ro": "Începeți ziua la magnifica primărie și admirați faimoasele statui ale lui Rodin. După o incursiune în istoria textilă la Muzeul Dantelei, plimbați-vă prin cartierul istoric până la Biserica Notre-Dame. După-amiaza este dedicată moștenirii maritime la far și la Fort Risban, înainte de a încheia ziua relaxându-vă pe plaja întinsă de nisip.",
+        "en": "Start your day at the magnificent Town Hall and admire Rodin's famous statues. After diving into textile history at the Lace Museum, walk through the historic district to Notre-Dame Church. The afternoon focuses on maritime heritage at the lighthouse and Fort Risban, before ending the day relaxing on the expansive sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Welsh",
+            "tip": "Klassisches lokales Gericht mit geschmolzenem Cheddar und Brot."
+          },
+          {
+            "name": "Histoire de...",
+            "tip": "Frische Meeresfrüchte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Welsh",
+            "tip": "Helyi klasszikus olvasztott cheddar sajttal és kenyérrel."
+          },
+          {
+            "name": "Histoire de...",
+            "tip": "Friss tenger gyümölcsei közvetlenül a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Welsh",
+            "tip": "Preparat local clasic cu cheddar topit și pâine."
+          },
+          {
+            "name": "Histoire de...",
+            "tip": "Fructe de mare proaspete chiar lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Welsh",
+            "tip": "Classic local dish with melted cheddar cheese and bread."
+          },
+          {
+            "name": "Histoire de...",
+            "tip": "Fresh seafood served right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Richelieu",
+            "tip": "Ruhiger Garten im Stadtzentrum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Digue de Calais",
+            "tip": "Abendlicher Spaziergang an der Mole.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Richelieu",
+            "tip": "Csendes kert a városközpontban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Digue de Calais",
+            "tip": "Esti séta a gáton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Richelieu",
+            "tip": "Grădină liniștită în centrul orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Digue de Calais",
+            "tip": "Plimbare de seară pe dig.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Richelieu",
+            "tip": "Quiet garden in the city center.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Digue de Calais",
+            "tip": "Evening walk along the sea wall.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Place d'Armes",
+            "tip": "Lokaler Markt für frische Produkte (Mi & Sa)."
+          },
+          {
+            "name": "Cité Europe",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Place d'Armes",
+            "tip": "Helyi piac friss termékekkel (Sze és Szo)."
+          },
+          {
+            "name": "Cité Europe",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Place d'Armes",
+            "tip": "Piață locală cu produse proaspete (Mie și Sâm)."
+          },
+          {
+            "name": "Cité Europe",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Place d'Armes",
+            "tip": "Local market for fresh produce (Wed & Sat)."
+          },
+          {
+            "name": "Cité Europe",
+            "tip": "Large shopping mall located nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Calais ist sehr flach und ideal zum Wandern.",
+          "Achten Sie auf die Abfahrtszeiten der Fähren am Horizont.",
+          "Das Wetter kann sich an der Küste schnell ändern.",
+          "Kombinieren Sie den Stadtbesuch mit einem Strandspaziergang."
+        ],
+        "hu": [
+          "Calais nagyon sík, így ideális a gyalogos felfedezéshez.",
+          "Figyelje a horizonton induló kompok látványát.",
+          "Az időjárás a parton gyorsan változhat.",
+          "Kombinálja a városnézést egy tengerparti sétával."
+        ],
+        "ro": [
+          "Calais este foarte plat, ideal pentru explorarea pe jos.",
+          "Urmăriți feriboturile care pleacă la orizont.",
+          "Vremea se poate schimba rapid la malul mării.",
+          "Combinați vizitarea orașului cu o plimbare pe plajă."
+        ],
+        "en": [
+          "Calais is very flat and perfect for exploring on foot.",
+          "Watch the ferries departing on the horizon.",
+          "Weather can change quickly by the coast.",
+          "Combine city sightseeing with a long beach walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            1.8587,
+            50.9513
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz am Rathaus.",
+            "hu": "Biztonságos kerékpártároló a városházánál.",
+            "ro": "Parcare sigură pentru biciclete la primărie.",
+            "en": "Secure bike parking available at the town hall."
+          }
+        },
+        {
+          "name": "Musée de la Dentelle",
+          "coords": [
+            1.851,
+            50.95
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Mode- und Geschichtsinteressierte.",
+            "hu": "Divat és történelem kedvelőinek kötelező.",
+            "ro": "Obligatoriu pentru iubitorii de modă și istorie.",
+            "en": "A must-visit for fashion and history enthusiasts."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            1.852,
+            50.957
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Garten der Kirche.",
+            "hu": "Látogasson el a templom kertjébe.",
+            "ro": "Vizitați grădina bisericii.",
+            "en": "Visit the peaceful church garden."
+          }
+        },
+        {
+          "name": "Phare de Calais",
+          "coords": [
+            1.854,
+            50.96
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Fuße des Leuchtturms.",
+            "hu": "Rövid megálló a világítótorony lábánál.",
+            "ro": "Scurtă oprire la baza farului.",
+            "en": "Short stop at the base of the lighthouse."
+          }
+        },
+        {
+          "name": "Quai de la Colonne",
+          "coords": [
+            1.849,
+            50.961
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Hafenbeckens.",
+            "hu": "Tekerjen végig a kikötői medence mentén.",
+            "ro": "Pedalați de-a lungul bazinului portului.",
+            "en": "Cycle along the harbor basin."
+          }
+        },
+        {
+          "name": "Fort Risban",
+          "coords": [
+            1.848,
+            50.963
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historische Mauern mit Meerblick.",
+            "hu": "Történelmi falak tengeri kilátással.",
+            "ro": "Ziduri istorice cu vedere la mare.",
+            "en": "Historic walls with a sea view."
+          }
+        },
+        {
+          "name": "Plage de Calais",
+          "coords": [
+            1.838,
+            50.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem Radweg direkt am Strand.",
+            "hu": "Tekerjen a közvetlenül a parton lévő kerékpárúton.",
+            "ro": "Mergeți pe pista de biciclete direct de pe plajă.",
+            "en": "Ride on the dedicated bike path right by the beach."
+          }
+        },
+        {
+          "name": "Bassin du Paradis",
+          "coords": [
+            1.85,
+            50.959
+          ],
+          "category": "gastro",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Charmantes altes Hafenviertel.",
+            "hu": "Bájos régi kikötőnegyed.",
+            "ro": "Cartier portuar vechi și fermecător.",
+            "en": "Charming old harbor district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Calais mit dem Fahrrad auf flachen, Küstenwegen. Vom prunkvollen Zentrum radeln Sie zum Spitzenmuseum und weiter durch das Hafenviertel. Genießen Sie die Freiheit auf zwei Rädern entlang der Strandpromenade und besuchen Sie historische Festungen wie das Fort Risban. Ein perfekter Mix aus Kultur und frischer Meeresbrise.",
+        "hu": "Fedezze fel Calais-t kerékpárral a sík, part menti utakon. A pompás központból tekerjen a csipkemúzeumhoz, majd tovább a kikötői negyeden át. Élvezze a szabadságot két keréken a tengerparti sétányon, és látogasson el olyan történelmi erődökbe, mint a Fort Risban. A kultúra és a friss tengeri szellő tökéletes keveréke.",
+        "ro": "Descoperiți Calais cu bicicleta pe trasee plate de coastă. Din centrul somptuos, pedalați spre Muzeul Dantelei și continuați prin zona portuară. Bucurați-vă de libertatea pe două roți de-a lungul falezei și vizitați fortărețe istorice precum Fort Risban. Un mix perfect de cultură și briză marină proaspătă.",
+        "en": "Discover Calais by bike along flat, coastal paths. From the grand center, cycle to the Lace Museum and then through the harbor district. Enjoy the freedom of two wheels along the beachfront promenade and visit historic fortifications like Fort Risban. A perfect mix of culture and fresh sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Friterie des Nations",
+            "tip": "Beste Pommes am Strand."
+          },
+          {
+            "name": "Au Vieux Fourneau",
+            "tip": "Rustikale französische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friterie des Nations",
+            "tip": "A legjobb sült krumpli a parton."
+          },
+          {
+            "name": "Au Vieux Fourneau",
+            "tip": "Rusztikus francia konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friterie des Nations",
+            "tip": "Cei mai buni cartofi prăjiți de pe plajă."
+          },
+          {
+            "name": "Au Vieux Fourneau",
+            "tip": "Bucătărie franceză rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friterie des Nations",
+            "tip": "Best fries by the beach."
+          },
+          {
+            "name": "Au Vieux Fourneau",
+            "tip": "Rustic French cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Dragon de Calais",
+            "tip": "Beobachten Sie den mechanischen Drachen am Strand.",
+            "emoji": "🐉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Dragon de Calais",
+            "tip": "Nézze meg a mechanikus sárkányt a parton.",
+            "emoji": "🐉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Dragon de Calais",
+            "tip": "Urmăriți dragonul mecanic pe plajă.",
+            "emoji": "🐉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Dragon de Calais",
+            "tip": "Watch the giant mechanical dragon on the beach.",
+            "emoji": "🐉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vél'in",
+            "tip": "Fahrradverleih-Stationen in der ganzen Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vél'in",
+            "tip": "Kerékpárkölcsönző állomások városszerte."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vél'in",
+            "tip": "Stații de închiriere biciclete în tot orașul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vél'in",
+            "tip": "Bike sharing stations located throughout the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege am Meer.",
+          "Der Wind kann beim Radfahren an der Küste stark sein.",
+          "Schließen Sie Ihr Fahrrad immer gut ab.",
+          "Die Stadt ist sehr fahrradfreundlich und eben."
+        ],
+        "hu": [
+          "Használja a tengerparti kijelölt kerékpárutakat.",
+          "A szél erős lehet a parton tekerés közben.",
+          "Mindig zárja le biztonságosan a kerékpárt.",
+          "A város nagyon kerékpárosbarát és sík."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate de la malul mării.",
+          "Vântul poate fi puternic când pedalați pe coastă.",
+          "Încuiați întotdeauna bine bicicleta.",
+          "Orașul este foarte prietenos cu bicicliștii și plat."
+        ],
+        "en": [
+          "Use the marked cycle paths along the seafront.",
+          "The wind can be strong when cycling on the coast.",
+          "Always lock your bike securely.",
+          "The city is very bike-friendly and flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hôtel de Ville (Center Cluster)",
+          "coords": [
+            1.8587,
+            50.9513
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parkplatz direkt hinter dem Rathaus.",
+            "hu": "Parkoló közvetlenül a városháza mögött.",
+            "ro": "Parcare chiar în spatele primăriei.",
+            "en": "Parking available right behind the town hall."
+          }
+        },
+        {
+          "name": "Les Bourgeois de Calais",
+          "coords": [
+            1.858,
+            50.9515
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Rathaus erreichbar.",
+            "hu": "Gyalogosan elérhető a városházától.",
+            "ro": "Accesibil pe jos de la primărie.",
+            "en": "Accessible on foot from the town hall."
+          }
+        },
+        {
+          "name": "Musée de la Dentelle (Museum Cluster)",
+          "coords": [
+            1.851,
+            50.95
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Großer Parkplatz für Museumsbesucher.",
+            "hu": "Nagy parkoló a múzeum látogatóinak.",
+            "ro": "Parcare mare pentru vizitatorii muzeului.",
+            "en": "Large parking lot for museum visitors."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            1.852,
+            50.957
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Museum (kurzer Spaziergang).",
+            "hu": "Gyalog a múzeumtól (rövid séta).",
+            "ro": "Pe jos de la muzeu (o scurtă plimbare).",
+            "en": "Walk from the museum (short stroll)."
+          }
+        },
+        {
+          "name": "Phare de Calais (Port Cluster)",
+          "coords": [
+            1.854,
+            50.96
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken in der Nähe des Courgain Maritime.",
+            "hu": "Parkolás a Courgain Maritime közelében.",
+            "ro": "Parcare în apropiere de Courgain Maritime.",
+            "en": "Park near the Courgain Maritime district."
+          }
+        },
+        {
+          "name": "Fort Risban",
+          "coords": [
+            1.848,
+            50.963
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahrt zum Hafen-Eingang.",
+            "hu": "Vezetés a kikötő bejáratához.",
+            "ro": "Conducți până la intrarea în port.",
+            "en": "Drive to the port entrance."
+          }
+        },
+        {
+          "name": "Plage de Calais (Beach Cluster)",
+          "coords": [
+            1.838,
+            50.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele kostenlose Parkplätze direkt am Deich.",
+            "hu": "Sok ingyenes parkoló közvetlenül a gáton.",
+            "ro": "Multe locuri de parcare gratuite chiar pe dig.",
+            "en": "Plenty of free parking available right on the dike."
+          }
+        },
+        {
+          "name": "Cap Blanc-Nez (Nearby Excursion)",
+          "coords": [
+            1.71,
+            50.92
+          ],
+          "category": "mountain",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Spektakuläre Klippen 15 Min. von Calais entfernt.",
+            "hu": "Látványos sziklák 15 percre Calais-tól.",
+            "ro": "Stânci spectaculoase la 15 minute de Calais.",
+            "en": "Spectacular cliffs just 15 mins from Calais."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die kulturellen Highlights von Calais mit der wilden Natur der Opalküste. Nach der Besichtigung des Zentrums und der Museen fahren Sie bequem zum Hafen und zum Strand. Den krönenden Abschluss bildet eine kurze Fahrt zum Cap Blanc-Nez, wo Sie einen atemberaubenden Blick über den Ärmelkanal bis nach England genießen können.",
+        "hu": "Autóval összekötheti Calais kulturális látnivalóit az Opálpart vad természetével. A központ és a múzeumok megtekintése után kényelmesen átgurulhat a kikötőhöz és a strandra. A nap fénypontja egy rövid autóút a Cap Blanc-Nez-hez, ahonnan lélegzetelállító kilátás nyílik a csatornára, egészen Angliáig.",
+        "ro": "Cu mașina, combinați punctele culturale ale Calais-ului cu natura sălbatică a Coastei de Opal. După vizitarea centrului și a muzeelor, conduceți confortabil spre port și plajă. Punctul culminant al zilei este o scurtă călătorie la Cap Blanc-Nez, de unde puteți savura o vedere uluitoare peste Canal spre Anglia.",
+        "en": "By car, you can combine the cultural highlights of Calais with the wild nature of the Opal Coast. After touring the center and museums, drive comfortably to the harbor and beach. The day concludes with a short drive to Cap Blanc-Nez, where you can enjoy breathtaking views across the Channel to England."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aquar'aile",
+            "tip": "Restaurant mit Panoramablick auf das Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aquar'aile",
+            "tip": "Étterem panorámás kilátással a tengerre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aquar'aile",
+            "tip": "Restaurant cu vedere panoramică la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aquar'aile",
+            "tip": "Restaurant with panoramic sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap Blanc-Nez Panorama",
+            "tip": "Bester Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Blanc-Nez panoráma",
+            "tip": "A legjobb hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cap Blanc-Nez Panorama",
+            "tip": "Cel mai bun loc pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap Blanc-Nez Panorama",
+            "tip": "The best spot for sunset views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Channel Outlet Store",
+            "tip": "Markenartikel zu reduzierten Preisen in Coquelles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Channel Outlet Store",
+            "tip": "Márkás termékek kedvezményes áron Coquelles-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Channel Outlet Store",
+            "tip": "Produse de marcă la prețuri reduse în Coquelles."
+          }
+        ],
+        "en": [
+          {
+            "name": "Channel Outlet Store",
+            "tip": "Brand name items at discount prices in Coquelles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Strand ist oft kostenlos.",
+          "Die Küstenstraße D940 bietet eine tolle Aussicht.",
+          "Vermeiden Sie die Stoßzeiten rund um den Fährhafen.",
+          "Ein Auto ist ideal, um die Klippen in der Umgebung zu besuchen."
+        ],
+        "hu": [
+          "A parkolás a strandon gyakran ingyenes.",
+          "A D940-es parti út nagyszerű kilátást nyújt.",
+          "Kerülje a csúcsidőt a kompátkelő környékén.",
+          "Az autó ideális a környékbeli sziklák meglátogatásához."
+        ],
+        "ro": [
+          "Parcarea la plajă este adesea gratuită.",
+          "Drumul de coastă D940 oferă vederi superbe.",
+          "Evitați orele de vârf în jurul portului de feribot.",
+          "O mașină este ideală pentru a vizita stâncile din împrejurimi."
+        ],
+        "en": [
+          "Parking at the beach is often free.",
+          "The coastal road D940 offers great scenic views.",
+          "Avoid rush hours around the ferry terminal.",
+          "A car is ideal for visiting the nearby cliffs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hôtel de Ville",
+          "coords": [
+            1.8587,
+            50.9513
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle 'Théâtre' in der Nähe.",
+            "hu": "Központi buszmegálló 'Théâtre' a közelben.",
+            "ro": "Stația centrală de autobuz 'Théâtre' este în apropiere.",
+            "en": "Central bus stop 'Théâtre' is located nearby."
+          }
+        },
+        {
+          "name": "Musée de la Dentelle",
+          "coords": [
+            1.851,
+            50.95
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mit der Linie 1 oder 4 erreichbar.",
+            "hu": "Az 1-es vagy 4-es busszal elérhető.",
+            "ro": "Accesibil cu linia 1 sau 4.",
+            "en": "Accessible via bus line 1 or 4."
+          }
+        },
+        {
+          "name": "Place d'Armes",
+          "coords": [
+            1.851,
+            50.958
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Historischer Platz im Herzen von Calais-Nord.",
+            "hu": "Történelmi tér Calais-Nord szívében.",
+            "ro": "Piață istorică în inima Calais-Nord.",
+            "en": "Historic square in the heart of Calais-Nord."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            1.852,
+            50.957
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Place d'Armes.",
+            "hu": "Rövid séta a Place d'Armes-tól.",
+            "ro": "Scurtă plimbare de la Place d'Armes.",
+            "en": "Short walk from Place d'Armes."
+          }
+        },
+        {
+          "name": "Phare de Calais",
+          "coords": [
+            1.854,
+            50.96
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Haltestelle 'Phare' direkt vor dem Turm.",
+            "hu": "'Phare' megálló közvetlenül a torony előtt.",
+            "ro": "Stația 'Phare' chiar în fața turnului.",
+            "en": "Bus stop 'Phare' right in front of the tower."
+          }
+        },
+        {
+          "name": "Fort Risban",
+          "coords": [
+            1.848,
+            50.963
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Grenzbereich zwischen Hafen und Stadt.",
+            "hu": "Határterület a kikötő és a város között.",
+            "ro": "Zona de graniță între port și oraș.",
+            "en": "The border area between the harbor and the city."
+          }
+        },
+        {
+          "name": "Plage de Calais",
+          "coords": [
+            1.838,
+            50.965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die 'Navette de la Plage' (Strand-Shuttle) nutzen.",
+            "hu": "Használja a 'Navette de la Plage' strandjáratot.",
+            "ro": "Folosiți 'Navette de la Plage' (naveta plajei).",
+            "en": "Use the 'Navette de la Plage' beach shuttle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Calais, um stressfrei zwischen dem Zentrum, den Museen und dem Strand zu pendeln. Die kurzen Wege und gut getakteten Shuttles bringen Sie bequem zu allen Sehenswürdigkeiten, vom historischen Rathaus bis zum maritimen Hafenviertel, ohne Parkplatzsorgen.",
+        "hu": "Használja Calais hatékony buszhálózatát, hogy stresszmentesen közlekedjen a központ, a múzeumok és a strand között. A rövid távolságok és a sűrűn járó buszok kényelmesen elviszik minden látnivalóhoz a városházától a kikötőig, parkolási gondok nélkül.",
+        "ro": "Folosiți sistemul eficient de autobuze din Calais pentru a naveta fără stres între centru, muzee și plajă. Distanțele scurte și navetele bine programate vă duc confortabil la toate obiectivele, de la primăria istorică până la zona portuară, fără grija parcării.",
+        "en": "Use Calais's efficient bus system to commute stress-free between the center, museums, and the beach. Short distances and well-timed shuttles take you comfortably to all sights, from the historic Town Hall to the maritime harbor district, without any parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Hovercraft",
+            "tip": "Beliebtes Bistro am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Hovercraft",
+            "tip": "Népszerű bisztró a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Hovercraft",
+            "tip": "Bistro popular lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Hovercraft",
+            "tip": "Popular bistro located by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jetée de l'Ouest",
+            "tip": "Ruhiger Platz zum Beobachten der Schiffe.",
+            "emoji": "⛴️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jetée de l'Ouest",
+            "tip": "Csendes hely a hajók megfigyeléséhez.",
+            "emoji": "⛴️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jetée de l'Ouest",
+            "tip": "Loc liniștit pentru a observa navele.",
+            "emoji": "⛴️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jetée de l'Ouest",
+            "tip": "A quiet spot to watch the ships pass by.",
+            "emoji": "⛴️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulevard Lafayette",
+            "tip": "Haupteinkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulevard Lafayette",
+            "tip": "Fő bevásárlóutca a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulevard Lafayette",
+            "tip": "Strada comercială principală din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulevard Lafayette",
+            "tip": "Main shopping street in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse in Calais sind teilweise kostenlos (Imag'in).",
+          "Nutzen Sie die App 'Vivabus' für Live-Abfahrten.",
+          "Die Linie 5 fährt direkt zum Strand.",
+          "Der Bahnhof Calais-Ville ist der zentrale Knotenpunkt."
+        ],
+        "hu": [
+          "A buszok Calais-ban részben ingyenesek (Imag'in).",
+          "Használja a 'Vivabus' alkalmazást az élő indulásokhoz.",
+          "Az 5-ös vonal közvetlenül a strandra megy.",
+          "A Calais-Ville vasútállomás a központi csomópont."
+        ],
+        "ro": [
+          "Autobuzele din Calais sunt parțial gratuite (Imag'in).",
+          "Folosiți aplicația 'Vivabus' pentru plecări în timp real.",
+          "Linia 5 merge direct la plajă.",
+          "Gara Calais-Ville este principalul nod de transport."
+        ],
+        "en": [
+          "Buses in Calais are partially free (Imag'in network).",
+          "Use the 'Vivabus' app for real-time departures.",
+          "Line 5 goes directly to the beach.",
+          "Calais-Ville station is the central transit hub."
+        ]
+      }
+    }
+  }
+}

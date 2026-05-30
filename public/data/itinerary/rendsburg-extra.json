@@ -1,0 +1,1276 @@
+{
+  "city_id": "rendsburg-extra",
+  "anchor": {
+    "name": "Rendsburg",
+    "coords": [
+      9.6644,
+      54.3041
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            9.6646,
+            54.3043
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiger Backsteinbau im Herzen der Altstadt.",
+            "hu": "Pompás tégláépület az óváros szívében.",
+            "ro": "O clădire magnifică din cărămidă în inima centrului vechi.",
+            "en": "A magnificent brick building in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            9.6656,
+            54.3044
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Gewölbe und den Altar.",
+            "hu": "Csodálja meg a gótikus boltozatot és az oltárt.",
+            "ro": "Admirați bolta gotică și altarul.",
+            "en": "Admire the Gothic vaulting and the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum",
+            "hu": "Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc",
+            "en": "Jewish Museum"
+          },
+          "coords": [
+            9.6686,
+            54.3051
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten jüdischen Museen Deutschlands.",
+            "hu": "Németország egyik legjelentősebb zsidó múzeuma.",
+            "ro": "Unul dintre cele mai importante muzee evreiești din Germania.",
+            "en": "One of Germany's most significant Jewish museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenal / Kulturzentrum",
+            "hu": "Arsenal Kulturális Központ",
+            "ro": "Centrul Cultural Arsenal",
+            "en": "Arsenal Cultural Center"
+          },
+          "coords": [
+            9.663,
+            54.3015
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Historisches Militärgebäude, heute ein Kulturzentrum.",
+            "hu": "Történelmi katonai épület, ma kulturális központ.",
+            "ro": "Clădire militară istorică, astăzi centru cultural.",
+            "en": "Historic military building, now a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Kanal",
+            "hu": "Ebéd a csatornánál",
+            "ro": "Prânz la canal",
+            "en": "Lunch by the canal"
+          },
+          "coords": [
+            9.682,
+            54.294
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Fischgerichte mit Blick auf die Schiffe.",
+            "hu": "Élvezze a halételeket a hajókra nyíló kilátással.",
+            "ro": "Savurați preparate din pește cu vedere la nave.",
+            "en": "Enjoy fish dishes with a view of the ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Rendsburger Hochbrücke",
+            "hu": "Rendsburgi magasvasúti híd",
+            "ro": "Podul înalt Rendsburg",
+            "en": "Rendsburg High Bridge"
+          },
+          "coords": [
+            9.683,
+            54.293
+          ],
+          "category": "bridges",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Ingenieurskunst aus dem Jahr 1913.",
+            "hu": "A mérnöki művészet jelképe 1913-ból.",
+            "ro": "Un simbol al ingineriei construit în 1913.",
+            "en": "A landmark of engineering from 1913."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwebefähre Erlebnis",
+            "hu": "Lebegő komp élmény",
+            "ro": "Experiența bacului transbordor",
+            "en": "Transporter Bridge Experience"
+          },
+          "coords": [
+            9.6835,
+            54.2925
+          ],
+          "category": "industrial",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Überqueren Sie den Kanal hängend unter der Brücke.",
+            "hu": "Keljen át a csatornán a híd alatt függve.",
+            "ro": "Traversați canalul suspendați sub pod.",
+            "en": "Cross the canal suspended under the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie das Herz von Rendsburg: das Alte Rathaus, die Marienkirche und das bedeutende Jüdische Museum. Nach einem Spaziergang zum Arsenal tauchen Sie in die Stadtgeschichte ein. Der Nachmittag führt Sie zum Nord-Ostsee-Kanal, wo Sie nach einem regionalen Mittagessen das technische Wunderwerk der Hochbrücke und die seltene Schwebefähre hautnah erleben können.",
+        "hu": "Délelőtt Rendsburg szívét fedezzük fel: a régi városházát, a Mária-templomot és a jelentős Zsidó Múzeumot. Az Arsenalhoz tett séta után elmélyedünk a várostörténetben. A délután a Kiel-csatornához vezet, ahol egy helyi ebéd után testközelből élhetjük át a magasvasúti híd mérnöki csodáját és a ritka lebegő kompot.",
+        "ro": "Dimineața explorați inima orașului Rendsburg: Primăria Veche, Biserica Sfânta Maria și importantul Muzeu Evreiesc. După o plimbare spre Arsenal, vă scufundați în istoria orașului. După-amiaza vă conduce la Canalul Kiel, unde, după un prânz regional, puteți experimenta de aproape minunea tehnică a podului înalt și rarul bac transbordor.",
+        "en": "In the morning, explore the heart of Rendsburg: the Old Town Hall, St. Mary's Church, and the significant Jewish Museum. After a walk to the Arsenal, dive into the city's history. The afternoon leads you to the Kiel Canal, where after a regional lunch, you can experience the engineering marvel of the high bridge and the rare transporter bridge up close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant zum Brückenterrassen",
+            "tip": "Blick auf den Kanal und die Ozeanriesen."
+          },
+          {
+            "name": "Kaffeehaus in der Altstadt",
+            "tip": "Hausgemachte Torten in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brückenterrassen étterem",
+            "tip": "Kilátás a csatornára és az óceánjárókra."
+          },
+          {
+            "name": "Óvárosi kávéház",
+            "tip": "Házias torták történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Brückenterrassen",
+            "tip": "Vedere la canal și la navele uriașe."
+          },
+          {
+            "name": "Cafenea în centrul vechi",
+            "tip": "Prăjituri de casă într-un decor istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Brückenterrassen",
+            "tip": "View of the canal and the ocean giants."
+          },
+          {
+            "name": "Old Town Coffee House",
+            "tip": "Homemade cakes in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase im Zentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kanalufer",
+            "tip": "Entspannter Blick auf die Schifffahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a központban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Csatornapart",
+            "tip": "Pihentető kilátás a hajóforgalomra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde în centru.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul Canalului",
+            "tip": "Vedere relaxantă la traficul naval.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green oasis in the center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Canal Bank",
+            "tip": "Relaxing view of the shipping traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte am Altstädter Markt."
+          },
+          {
+            "name": "Hohe Straße",
+            "tip": "Lokale Geschäfte und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek az óvárosi piacon."
+          },
+          {
+            "name": "Hohe Straße",
+            "tip": "Helyi üzletek és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete în piața veche."
+          },
+          {
+            "name": "Hohe Straße",
+            "tip": "Magazine locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh products at the Old Town Market."
+          },
+          {
+            "name": "Hohe Straße",
+            "tip": "Local shops and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Folgen Sie der blauen Linie am Boden für einen perfekten Rundgang.",
+          "Die Schwebefähre ist bei starkem Wind außer Betrieb.",
+          "Ein Fernglas lohnt sich für die Kanalschiffe."
+        ],
+        "hu": [
+          "Kövesse a kék vonalat a földön a tökéletes városnézéshez.",
+          "Erős szél esetén a lebegő komp nem üzemel.",
+          "A csatornán járó hajókhoz érdemes távcsövet vinni."
+        ],
+        "ro": [
+          "Urmați linia albastră de pe jos pentru un tur perfect.",
+          "Bacul transbordor este scos din funcțiune pe vânt puternic.",
+          "Un binoclu este util pentru navele de pe canal."
+        ],
+        "en": [
+          "Follow the blue line on the ground for a perfect city tour.",
+          "The transporter bridge is out of service during strong winds.",
+          "Binoculars are worth bringing for the canal ships."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 16.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rendsburger Hochbrücke",
+            "hu": "Magasvasúti híd",
+            "ro": "Podul înalt Rendsburg",
+            "en": "Rendsburg High Bridge"
+          },
+          "coords": [
+            9.683,
+            54.293
+          ],
+          "category": "bridges",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf die Eisenbahnbrücke.",
+            "hu": "Látványos kilátás a vasúti hídra.",
+            "ro": "Vedere spectaculoasă la podul feroviar.",
+            "en": "Spectacular view of the railway bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffsbegrüßungsanlage",
+            "hu": "Hajóköszöntő állomás",
+            "ro": "Stația de salut a navelor",
+            "en": "Ship Welcome Point"
+          },
+          "coords": [
+            9.703,
+            54.295
+          ],
+          "category": "industrial",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Hören Sie die Nationalhymnen der vorbeifahrenden Schiffe.",
+            "hu": "Hallgassa meg az elhaladó hajók nemzeti himnuszait.",
+            "ro": "Ascultați imnurile naționale ale navelor care trec prin canal.",
+            "en": "Listen to the national anthems of the passing ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Radweg am Nord-Ostsee-Kanal",
+            "hu": "Kiel-csatorna kerékpárút",
+            "ro": "Pista de biciclete pe Canal",
+            "en": "Canal Cycling Path"
+          },
+          "coords": [
+            9.65,
+            54.288
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ebenes Radeln direkt am Wasserweg.",
+            "hu": "Sík terepen való tekerés közvetlenül a víz mellett.",
+            "ro": "Pedalat pe teren drept chiar lângă apă.",
+            "en": "Flat cycling right next to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Westerrönfeld",
+            "hu": "Ebéd Westerrönfeldben",
+            "ro": "Prânz în Westerrönfeld",
+            "en": "Lunch in Westerrönfeld"
+          },
+          "coords": [
+            9.655,
+            54.29
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Gemütliche Einkehr auf der Südseite des Kanals.",
+            "hu": "Hangulatos étterem a csatorna déli oldalán.",
+            "ro": "Popas primitor pe partea de sud a canalului.",
+            "en": "Cozy stop on the south side of the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanaltunnel (Fahrradlift)",
+            "hu": "Csatorna-alagút (biciklilift)",
+            "ro": "Tunelul Canalului (lift biciclete)",
+            "en": "Canal Tunnel (Bike Lift)"
+          },
+          "coords": [
+            9.66,
+            54.295
+          ],
+          "category": "industrial",
+          "arrive_at": "13:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrt unter dem Kanal durch den Fußgängertunnel.",
+            "hu": "Átkelés a csatorna alatt a gyalogos alagúton.",
+            "ro": "Traversare pe sub canal prin tunelul pietonal.",
+            "en": "Ride under the canal through the pedestrian tunnel."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche & Altstadt",
+            "hu": "Mária-templom és óváros",
+            "ro": "Biserica și centrul vechi",
+            "en": "St. Mary's & Old Town"
+          },
+          "coords": [
+            9.6656,
+            54.3044
+          ],
+          "category": "churches",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Abstecher in den historischen Stadtkern.",
+            "hu": "Rövid kitérő a történelmi városmagba.",
+            "ro": "Scurtă abatere în centrul istoric.",
+            "en": "Short detour into the historic city core."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum",
+            "hu": "Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc",
+            "en": "Jewish Museum"
+          },
+          "coords": [
+            9.6686,
+            54.3051
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kulturelles Highlight am Nachmittag.",
+            "hu": "Délutáni kulturális fénypont.",
+            "ro": "Punct culminant cultural al după-amiezii.",
+            "en": "Cultural highlight of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Eider-Schleife",
+            "hu": "Eider-kanyar",
+            "ro": "Bucla râului Eider",
+            "en": "Eider Loop"
+          },
+          "coords": [
+            9.65,
+            54.308
+          ],
+          "category": "natural",
+          "arrive_at": "15:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ruhige Naturpfade entlang der alten Eider.",
+            "hu": "Csendes ösvények a régi Eider mentén.",
+            "ro": "Cărări liniștite în natură de-a lungul vechiului râu Eider.",
+            "en": "Quiet nature trails along the old Eider."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Rendsburg und seine Wasserwege per Rad. Die Tour führt Sie entlang des imposanten Kanals zur Schiffsbegrüßungsanlage und bietet weite Blicke auf die Wasserstraße. Nach einer Überquerung durch den Kanaltunnel erkunden Sie die Altstadt und das Jüdische Museum, bevor Sie durch die idyllische Eider-Schleife zurückradeln.",
+        "hu": "Fedezze fel Rendsburgot és víziútjait kerékpárral. A túra a lenyűgöző csatorna mentén vezet a hajóköszöntő állomáshoz, széles kilátást nyújtva a víziútra. A csatorna-alagúton való átkelés után felfedezzük az óvárost és a Zsidó Múzeumot, majd az idilli Eider-kanyaron keresztül tekerünk vissza.",
+        "ro": "Experimentați Rendsburg și căile sale navigabile cu bicicleta. Turul vă duce de-a lungul canalului impunător până la stația de salut a navelor și oferă vederi largi asupra căii navigabile. După o traversare prin tunelul pe sub canal, explorați orașul vechi și Muzeul Evreiesc, înainte de a pedala înapoi prin idilica buclă a râului Eider.",
+        "en": "Experience Rendsburg and its waterways by bike. The tour takes you along the imposing canal to the ship greeting station and offers wide views of the waterway. After crossing through the canal tunnel, explore the old town and the Jewish Museum before cycling back through the idyllic Eider loop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kanal-Imbiss",
+            "tip": "Fischbrötchen direkt am Fahrradweg."
+          },
+          {
+            "name": "Eiscafé am Markt",
+            "tip": "Erfrischung im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanal-Imbiss",
+            "tip": "Halas zsemle közvetlenül a kerékpárút mellett."
+          },
+          {
+            "name": "Eiscafé am Markt",
+            "tip": "Frissítő a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kanal-Imbiss",
+            "tip": "Sendvișuri cu pește direct pe pista de biciclete."
+          },
+          {
+            "name": "Cafenea la piață",
+            "tip": "Răcoritoare în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kanal-Imbiss",
+            "tip": "Fish rolls directly on the cycling path."
+          },
+          {
+            "name": "Ice Cream Parlor at the Market",
+            "tip": "Refreshment in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obereider",
+            "tip": "Ruhiger Seeabschnitt mit Parkbänken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Obereider",
+            "tip": "Csendes tóparti szakasz padokkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Obereider",
+            "tip": "Secțiune liniștită de lac cu bănci.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Obereider",
+            "tip": "Quiet section of the lake with benches.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radstation Rendsburg",
+            "tip": "Ausrüstung und Karten für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radstation Rendsburg",
+            "tip": "Felszerelés és térképek bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radstation Rendsburg",
+            "tip": "Echipament și hărți pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radstation Rendsburg",
+            "tip": "Equipment and maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der NOK-Radweg ist sehr beliebt, achten Sie auf Gegenverkehr.",
+          "Nutzen Sie den Tunnel-Lift, um Treppen zu vermeiden.",
+          "Ein Fernglas für die Schiffs-Details mitnehmen."
+        ],
+        "hu": [
+          "A csatorna menti bringaút népszerű, figyeljen a szembejövőkre.",
+          "Használja az alagútliftet a lépcsők elkerülésére.",
+          "Vigyen távcsövet a hajók részleteinek megfigyeléséhez."
+        ],
+        "ro": [
+          "Pista de biciclete pe canal este foarte populară, atenție la trafic.",
+          "Folosiți liftul tunelului pentru a evita scările.",
+          "Luați un binoclu pentru a vedea detaliile navelor."
+        ],
+        "en": [
+          "The canal cycling path is very popular, watch for oncoming traffic.",
+          "Use the tunnel lift to avoid stairs.",
+          "Bring binoculars for ship details."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 19.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus (Cluster Altstadt)",
+            "hu": "Régi Városháza (Óváros klaszter)",
+            "ro": "Primăria Veche (Cluster Centru)",
+            "en": "Old Town Hall (Old Town Cluster)"
+          },
+          "coords": [
+            9.6646,
+            54.3043
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den Kern zu Fuß.",
+            "hu": "Parkoljon a központban, és gyalog fedezze fel a magot.",
+            "ro": "Parcați central și explorați centrul pe jos.",
+            "en": "Park centrally and explore the core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            9.6656,
+            54.3044
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur 2 Minuten Fußweg vom Rathaus.",
+            "hu": "Csak 2 perc séta a városházától.",
+            "ro": "Doar 2 minute de mers pe jos de la primărie.",
+            "en": "Just a 2-minute walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdisches Museum",
+            "hu": "Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc",
+            "en": "Jewish Museum"
+          },
+          "coords": [
+            9.6686,
+            54.3051
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bedeutende Sammlung im historischen Viertel.",
+            "hu": "Jelentős gyűjtemény a történelmi negyedben.",
+            "ro": "Colecție importantă în cartierul istoric.",
+            "en": "Significant collection in the historic district."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenal (Cluster Altstadt)",
+            "hu": "Arsenal (Óváros klaszter)",
+            "ro": "Arsenal (Cluster Centru)",
+            "en": "Arsenal (Old Town Cluster)"
+          },
+          "coords": [
+            9.663,
+            54.3015
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Abschluss des Altstadt-Rundgangs.",
+            "hu": "Az óvárosi körséta lezárása.",
+            "ro": "Finalul turului prin centrul vechi.",
+            "en": "Wrapping up the old town tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster Kanal)",
+            "hu": "Ebéd (Csatorna klaszter)",
+            "ro": "Prânz (Cluster Canal)",
+            "en": "Lunch (Canal Cluster)"
+          },
+          "coords": [
+            9.682,
+            54.294
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum Kanalparkplatz für regionale Spezialitäten.",
+            "hu": "Autózás a csatornaparti parkolóhoz a helyi ételekért.",
+            "ro": "Călătorie până la parcarea de la canal pentru specialități regionale.",
+            "en": "Drive to the canal parking lot for regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Rendsburger Hochbrücke",
+            "hu": "Magasvasúti híd",
+            "ro": "Podul înalt Rendsburg",
+            "en": "Rendsburg High Bridge"
+          },
+          "coords": [
+            9.683,
+            54.293
+          ],
+          "category": "bridges",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben den Brückenterrassen.",
+            "hu": "Közvetlenül a Brückenterrassen mellett.",
+            "ro": "Chiar lângă Brückenterrassen.",
+            "en": "Right next to the Brückenterrassen."
+          }
+        },
+        {
+          "name": {
+            "de": "Schiffsbegrüßungsanlage",
+            "hu": "Hajóköszöntő állomás",
+            "ro": "Stația de salut a navelor",
+            "en": "Ship Welcome Point"
+          },
+          "coords": [
+            9.703,
+            54.295
+          ],
+          "category": "industrial",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Einzigartiges Schiffserlebnis in Osterrönfeld.",
+            "hu": "Egyedülálló hajós élmény Osterrönfeldben.",
+            "ro": "Experiență navală unică în Osterrönfeld.",
+            "en": "Unique ship experience in Osterrönfeld."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanaltunnel (Erlebnisfahrt)",
+            "hu": "Csatorna-alagút (élményút)",
+            "ro": "Tunelul Canalului (traversare)",
+            "en": "Canal Tunnel (Drive)"
+          },
+          "coords": [
+            9.66,
+            54.295
+          ],
+          "category": "industrial",
+          "arrive_at": "16:25",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt unter dem Kanal zurück zum Ausgangspunkt.",
+            "hu": "Autózás a csatorna alatt vissza a kiindulópontra.",
+            "ro": "Traversare pe sub canal înapoi la punctul de plecare.",
+            "en": "Driving under the canal back to the starting point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie bequem die historische Altstadt mit den technischen Wundern am Nord-Ostsee-Kanal. Vormittags erkunden Sie zu Fuß den Kern mit Rathaus, Marienkirche und Jüdischem Museum. Nachmittags wechseln Sie zum Kanal-Cluster, um die gigantische Hochbrücke und die Schiffsbegrüßungsanlage zu erleben, bevor Sie durch den Kanaltunnel unter dem Wasserweg hindurchfahren.",
+        "hu": "Autóval kényelmesen kombinálhatja a történelmi óvárost a Kiel-csatorna technikai csodáival. Délelőtt gyalog fedezzük fel a központot a városházával, a Mária-templommal és a Zsidó Múzeummal. Délután a csatorna-klaszterhez megyünk, hogy megnézzük a gigantikus magasvasúti hidat és a hajóköszöntő állomást, majd a csatorna-alagúton keresztül hajtunk át a víziút alatt.",
+        "ro": "Cu mașina, puteți combina confortabil orașul vechi istoric cu minunile tehnice de pe Canalul Kiel. Dimineața explorați pe jos centrul, cu primăria, biserica Marienkirche și Muzeul Evreiesc. După-amiaza vă mutați la clusterul canalului pentru a vedea giganticul pod înalt și stația de salut a navelor, înainte de a trece prin tunelul de sub calea navigabilă.",
+        "en": "By car, you can comfortably combine the historic old town with the technical wonders on the Kiel Canal. In the morning, explore the center on foot with the town hall, St. Mary's Church, and the Jewish Museum. In the afternoon, switch to the canal cluster to experience the gigantic high bridge and the ship greeting station before driving through the canal tunnel under the waterway."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kanal-Feuer",
+            "tip": "Rustikales Steakhouse am Kanalufer."
+          },
+          {
+            "name": "Café im Arsenal",
+            "tip": "Entpannte Pause im Kulturzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanal-Feuer",
+            "tip": "Rusztikus steakhouse a csatornaparton."
+          },
+          {
+            "name": "Café im Arsenal",
+            "tip": "Pihentető szünet a kulturális központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kanal-Feuer",
+            "tip": "Steakhouse rustic pe malul canalului."
+          },
+          {
+            "name": "Café im Arsenal",
+            "tip": "Pauză relaxantă la centrul cultural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kanal-Feuer",
+            "tip": "Rustic steakhouse on the canal bank."
+          },
+          {
+            "name": "Café at the Arsenal",
+            "tip": "Relaxing break at the cultural center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Audorf",
+            "tip": "Blick über den See und den Kanal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Audorf kilátópont",
+            "tip": "Kilátás a tóra és a csatornára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Audorf",
+            "tip": "Vedere peste lac și canal.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Audorf Viewpoint",
+            "tip": "View over the lake and the canal.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eiderpark",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eiderpark",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eiderpark",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eiderpark",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze an der Hochbrücke (Kreishafen).",
+          "Die Schwebefähre nimmt auch PKW mit.",
+          "Achten Sie auf die Höhenbegrenzung im Kanaltunnel."
+        ],
+        "hu": [
+          "Használja a magasvasúti hídnál lévő parkolókat (Kreishafen).",
+          "A lebegő komp személyautókat is szállít.",
+          "Figyeljen a magasságkorlátozásra a csatorna-alagútban."
+        ],
+        "ro": [
+          "Folosiți parcările de la podul înalt (Kreishafen).",
+          "Bacul transbordor transportă și autoturisme.",
+          "Atenție la limita de înălțime în tunelul pe sub canal."
+        ],
+        "en": [
+          "Use the parking lots at the high bridge (Kreishafen).",
+          "The transporter bridge also carries cars.",
+          "Watch out for the height limit in the canal tunnel."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Rendsburg",
+            "hu": "Rendsburg vasútállomás",
+            "ro": "Gara Rendsburg",
+            "en": "Rendsburg Station"
+          },
+          "coords": [
+            9.67,
+            54.305
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Nah- und Fernverkehr.",
+            "hu": "Központi érkezési pont a helyi és távolsági forgalomnak.",
+            "ro": "Punct central de sosire pentru traficul local și pe distanțe lungi.",
+            "en": "Central arrival point for local and long-distance traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Altes Rathaus)",
+            "hu": "Óváros (Régi Városháza)",
+            "ro": "Centrul vechi (Primăria)",
+            "en": "Old Town (Town Hall)"
+          },
+          "coords": [
+            9.6646,
+            54.3043
+          ],
+          "category": "squares",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nur 5 Min. mit dem Stadtbus vom Bahnhof.",
+            "hu": "Csak 5 perc városi busszal az állomástól.",
+            "ro": "Doar 5 minute cu autobuzul urban de la gară.",
+            "en": "Just 5 min by city bus from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            9.6656,
+            54.3044
+          ],
+          "category": "churches",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kulturelles Highlight im Zentrum.",
+            "hu": "Kulturális fénypont a központban.",
+            "ro": "Punct culminant cultural în centru.",
+            "en": "Cultural highlight in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rendsburger Hochbrücke",
+            "hu": "Magasvasúti híd",
+            "ro": "Podul înalt Rendsburg",
+            "en": "Rendsburg High Bridge"
+          },
+          "coords": [
+            9.683,
+            54.293
+          ],
+          "category": "bridges",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus 12 oder 15 Richtung Kreishafen nehmen.",
+            "hu": "A 12-es vagy 15-ös buszt válassza Kreishafen felé.",
+            "ro": "Luați autobuzul 12 sau 15 spre Kreishafen.",
+            "en": "Take bus 12 or 15 towards Kreishafen."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwebefähre & Tunnel",
+            "hu": "Lebegő komp és alagút",
+            "ro": "Bacul și tunelul",
+            "en": "Transporter Bridge & Tunnel"
+          },
+          "coords": [
+            9.6835,
+            54.2925
+          ],
+          "category": "industrial",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß durch den Tunnel zurück zur Stadt.",
+            "hu": "Gyalog az alagúton keresztül vissza a városba.",
+            "ro": "Pe jos prin tunel înapoi spre oraș.",
+            "en": "On foot through the tunnel back to the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenal / Kulturzentrum",
+            "hu": "Arsenal Kulturális Központ",
+            "ro": "Centrul Cultural Arsenal",
+            "en": "Arsenal Cultural Center"
+          },
+          "coords": [
+            9.663,
+            54.3015
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló az indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Last stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rendsburg lässt sich perfekt mit Bus und Bahn erkunden. Vom Bahnhof erreichen Sie schnell die Altstadt zum Rathaus und zur Marienkirche. Ein Stadtbus bringt Sie direkt zum Wahrzeichen, der Hochbrücke. Erleben Sie die Schwebefähre und nutzen Sie den Kanaltunnel als Fußgänger, bevor es mit dem Bus zurück zum Arsenal und zum Bahnhof geht.",
+        "hu": "Rendsburg tökéletesen felfedezhető busszal és vonattal. Az állomástól gyorsan elérhető az óváros a városházával és a Mária-templommal. Egy városi busz egyenesen a város jelképéhez, a magasvasúti hídhoz visz. Próbálja ki a lebegő kompot és használja a csatorna-alagutat gyalogosként, mielőtt busszal visszatérne az Arsenalhoz és az állomáshoz.",
+        "ro": "Rendsburg poate fi explorat perfect cu autobuzul și trenul. De la gară ajungeți rapid în orașul vechi la primărie și biserica Marienkirche. Un autobuz urban vă duce direct la simbolul orașului, podul înalt. Experimentați bacul transbordor și folosiți tunelul pe sub canal ca pieton, înainte de a reveni cu autobuzul la Arsenal și la gară.",
+        "en": "Rendsburg can be perfectly explored by bus and train. From the station, you quickly reach the old town and the town hall. A city bus takes you directly to the landmark, the high bridge. Experience the transporter bridge ferry and use the canal tunnel as a pedestrian before taking the bus back to the Arsenal and the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Bistro",
+            "tip": "Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofs-Bistro",
+            "tip": "Falatozó útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofs-Bistro",
+            "tip": "Gustare pe parcurs."
+          },
+          {
+            "name": "Bistro Gara",
+            "tip": "Gustare pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bistro",
+            "tip": "Quick snack for travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Arsenal",
+            "tip": "Ruhiger Platz zum Warten.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arsenal park",
+            "tip": "Csendes hely a várakozáshoz.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la Arsenal",
+            "tip": "Loc liniștit pentru așteptare.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arsenal Park",
+            "tip": "Quiet spot for waiting.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am ZOB",
+            "tip": "Reiselektüre und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ZOB kioszk",
+            "tip": "Úti olvasmányok és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul de la autogară",
+            "tip": "Cărți și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "ZOB Kiosk",
+            "tip": "Travel reading and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die SH-Card bietet Rabatte auf Museen.",
+          "Die NAH.SH-App zeigt Echtzeit-Abfahrten.",
+          "Ein Tagesticket ist oft günstiger als Einzelfahrten."
+        ],
+        "hu": [
+          "Az SH-Card kedvezményeket ad a múzeumokba.",
+          "A NAH.SH alkalmazás mutatja a valós idejű indulásokat.",
+          "A napijegy gyakran olcsóbb, mint az egyedi jegyek."
+        ],
+        "ro": [
+          "SH-Card oferă reduceri la muzee.",
+          "Aplicația NAH.SH arată plecările în timp real.",
+          "Un bilet de o zi este adesea mai ieftin decât călătoriile individuale."
+        ],
+        "en": [
+          "The SH-Card offers discounts on museums.",
+          "The NAH.SH app shows real-time departures.",
+          "A day ticket is often cheaper than single trips."
+        ]
+      }
+    }
+  }
+}

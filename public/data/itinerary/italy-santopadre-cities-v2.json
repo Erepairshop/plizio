@@ -1,0 +1,940 @@
+{
+  "city_id": "italy-santopadre-cities-v2",
+  "anchor": {
+    "name": "Santopadre",
+    "coords": [
+      41.63,
+      13.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Guglielmo Marconi",
+          "coords": [
+            41.6295,
+            13.5012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Espresso mit den Einheimischen.",
+            "hu": "Igya meg itt az első eszpresszóját a helyiekkel.",
+            "ro": "Beți primul espresso aici alături de localnici.",
+            "en": "Have your first espresso here with the locals."
+          }
+        },
+        {
+          "name": "Monumento ai Caduti",
+          "coords": [
+            41.6298,
+            13.5015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort des Gedenkens im Herzen des Dorfes.",
+            "hu": "Csendes emlékhely a falu szívében.",
+            "ro": "Un loc liniștit de memorie în inima satului.",
+            "en": "A quiet place of remembrance in the heart of the village."
+          }
+        },
+        {
+          "name": "Centro Storico",
+          "coords": [
+            41.6305,
+            13.502
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den mittelalterlichen Gassen.",
+            "hu": "Vesszen el a középkori szűk utcácskákban.",
+            "ro": "Pierdeți-vă pe străduțele medievale înguste.",
+            "en": "Get lost in the narrow medieval alleys."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria delle Grazie",
+          "coords": [
+            41.6312,
+            13.5025
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche.",
+            "hu": "Csodálja meg e történelmi templom egyszerű eleganciáját.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice.",
+            "en": "Admire the simple elegance of this historic church."
+          }
+        },
+        {
+          "name": "Castello di Santopadre",
+          "coords": [
+            41.6318,
+            13.5032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die befestigte Anlage dominiert die Skyline des Ortes.",
+            "hu": "Az erődített épület uralja a falu látképét.",
+            "ro": "Structura fortificată domină orizontul satului.",
+            "en": "The fortified structure dominates the village skyline."
+          }
+        },
+        {
+          "name": "Belvedere Valle del Liri",
+          "coords": [
+            41.6325,
+            13.504
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das Liri-Tal.",
+            "hu": "Élvezze a panorámát a Liri-völgy felett.",
+            "ro": "Bucurați-vă de panorama asupra Văii Liri.",
+            "en": "Enjoy the panoramic view over the Liri Valley."
+          }
+        },
+        {
+          "name": "Chiesa di San Folco",
+          "coords": [
+            41.6308,
+            13.5018
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein spiritueller Abschluss Ihres Rundgangs.",
+            "hu": "Sétaútjának spirituális lezárása.",
+            "ro": "Un final spiritual al turului dumneavoastră.",
+            "en": "A spiritual conclusion to your walking tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens empfängt Sie die Piazza Marconi mit italienischer Gelassenheit. Nach einem kurzen Halt am Denkmal erkunden Sie das Labyrinth des Centro Storico. Mittags steht das imposante Castello im Mittelpunkt, gefolgt von der Ruhe in Santa Maria delle Grazie. Der Nachmittag bietet spektakuläre Ausblicke am Belvedere, bevor der Tag an der Kirche San Folco besinnlich ausklingt.",
+        "hu": "A reggel a Piazza Marconin fogadja Önt igazi olasz nyugalommal. Egy rövid megálló után az emlékműnél, fedezze fel a Centro Storico labirintusát. Délben az impozáns vár áll a középpontban, majd a Santa Maria delle Grazie templom csendje következik. A délután látványos kilátást kínál a Belvederénél, mielőtt a nap a San Folco templomnál áhítattal véget ér.",
+        "ro": "Dimineața vă întâmpină în Piazza Marconi cu seninătate italiană. După o scurtă oprire la monument, explorați labirintul din Centro Storico. La prânz, castelul impunător este în centrul atenției, urmat de liniștea din Santa Maria delle Grazie. După-amiaza oferă vederi spectaculoase la Belvedere, înainte ca ziua să se încheie liniștit la biserica San Folco.",
+        "en": "The morning greets you at Piazza Marconi with Italian serenity. After a short stop at the monument, explore the labyrinth of the Centro Storico. At midday, the imposing castle takes center stage, followed by the quiet of Santa Maria delle Grazie. The afternoon offers spectacular views at the Belvedere before the day concludes peacefully at the San Folco church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Da Nonna",
+            "tip": "Probieren Sie hausgemachte Fettuccine mit lokalen Pilzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Da Nonna",
+            "tip": "Kóstolja meg a házi készítésű fettuccine-t helyi gombával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Da Nonna",
+            "tip": "Încercați fettuccine de casă cu ciuperci locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Da Nonna",
+            "tip": "Try the homemade fettuccine with local mushrooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere Valle del Liri",
+            "tip": "Ein idealer Ort für Meditation mit Weitblick.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere Valle del Liri",
+            "tip": "Ideális hely meditációhoz a messzeségbe nézve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Valle del Liri",
+            "tip": "Un loc ideal pentru meditație cu vedere largă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere Valle del Liri",
+            "tip": "An ideal spot for meditation with a long view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt vom Erzeuger in den kleinen Läden der Altstadt kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőtől az óváros kisboltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producător din micile magazine din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from the producer in the small shops of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Mittagsruhe wird hier streng eingehalten.",
+          "Besuchen Sie das Dorf im Spätsommer für lokale Feste.",
+          "Kameras für das Panorama nicht vergessen!"
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A délutáni sziesztát itt szigorúan betartják.",
+          "Látogassa meg a falut késő nyáron a helyi fesztiválok idején.",
+          "Ne felejtse otthon a fényképezőgépet a panoráma miatt!"
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru pavajul cu piatră cubică.",
+          "Siesta de prânz este strict respectată aici.",
+          "Vizitați satul la sfârșitul verii pentru festivalurile locale.",
+          "Nu uitați camera foto pentru panoramă!"
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The midday siesta is strictly observed here.",
+          "Visit the village in late summer for local festivals.",
+          "Don't forget your camera for the panorama!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Guglielmo Marconi",
+          "coords": [
+            41.6295,
+            13.5012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit guter Parkmöglichkeit für Räder.",
+            "hu": "Kiindulópont jó kerékpárparkolási lehetőséggel.",
+            "ro": "Punct de plecare cu posibilități bune de parcare pentru biciclete.",
+            "en": "Starting point with good bike parking options."
+          }
+        },
+        {
+          "name": "Castello di Santopadre",
+          "coords": [
+            41.6318,
+            13.5032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer, steiler Anstieg zur Burg.",
+            "hu": "Rövid, meredek emelkedő a várig.",
+            "ro": "Urcare scurtă și abruptă spre castel.",
+            "en": "Short, steep climb to the castle."
+          }
+        },
+        {
+          "name": "Belvedere Valle del Liri",
+          "coords": [
+            41.6325,
+            13.504
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Trinkpause.",
+            "hu": "Tökéletes hely egy frissítő szünethez.",
+            "ro": "Loc perfect pentru o pauză de hidratare.",
+            "en": "Perfect spot for a hydration break."
+          }
+        },
+        {
+          "name": "Grotta di San Folco",
+          "coords": [
+            41.6412,
+            13.5152
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Mystischer Ort etwas außerhalb des Zentrums.",
+            "hu": "Misztikus hely kicsivel a központon kívül.",
+            "ro": "Loc mistic situat puțin în afara centrului.",
+            "en": "Mystical spot located slightly outside the center."
+          }
+        },
+        {
+          "name": "Chiesa di San Folco",
+          "coords": [
+            41.6308,
+            13.5018
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Rückkehr ins Dorfzentrum zur Besichtigung.",
+            "hu": "Visszatérés a falu központjába a látogatáshoz.",
+            "ro": "Revenire în centrul satului pentru vizită.",
+            "en": "Return to the village center for the visit."
+          }
+        },
+        {
+          "name": "Piazza Marconi (Gastro Finish)",
+          "coords": [
+            41.6295,
+            13.5012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verdienter Ausklang nach der Tour.",
+            "hu": "Megérdemelt pihenés a túra után.",
+            "ro": "Final meritat după tur.",
+            "en": "Well-deserved finish after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie nicht nur das historische Herz von Santopadre, sondern wagen sich auch in die hügelige Umgebung. Nach dem Besuch der Burg und dem Genießen der Aussicht führt Sie der Weg zur abgelegenen Grotta di San Folco. Die Route ist anspruchsvoll, belohnt aber mit unberührter Natur und tiefen Einblicken in die lokale Geschichte und Spiritualität.",
+        "hu": "Kerékpárral nemcsak Santopadre történelmi szívét fedezi fel, hanem a dombos környékre is kimerészkedik. A vár megtekintése és a kilátás élvezete után az út a távoli San Folco barlanghoz vezet. Az útvonal kihívást jelent, de érintetlen természettel, valamint a helyi történelembe és spiritualitásba való mély betekintéssel jutalmazza Önt.",
+        "ro": "Cu bicicleta, nu explorați doar inima istorică a Santopadre, ci vă aventurați și în împrejurimile deluroase. După vizitarea castelului și savurarea priveliștii, drumul vă duce la Grotta di San Folco, aflată la distanță. Traseul este solicitant, dar vă recompensează cu natură virgină și perspective profunde asupra istoriei și spiritualității locale.",
+        "en": "By bike, you explore not only the historical heart of Santopadre but also venture into the hilly surroundings. After visiting the castle and enjoying the view, the path leads you to the remote Grotta di San Folco. The route is challenging but rewards you with untouched nature and deep insights into local history and spirituality."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Ein kühles Getränk und herzhafte Bruschetta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Egy hűsítő ital és bőséges bruschetta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Centrale",
+            "tip": "O băutură rece și bruschete consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Centrale",
+            "tip": "A cold drink and hearty bruschetta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grotta di San Folco",
+            "tip": "Absolute Stille in der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grotta di San Folco",
+            "tip": "Abszolút csend a természet lágy ölén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grotta di San Folco",
+            "tip": "Liniște absolută în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grotta di San Folco",
+            "tip": "Absolute silence in nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Kleine Werkstätten am Dorfrand besuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Látogassa meg a falu szélén található kis műhelyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică lucrată manual",
+            "tip": "Vizitați micile ateliere de la marginea satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Visit small workshops on the edge of the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird wegen der Steigungen empfohlen.",
+          "Ausreichend Wasser mitführen.",
+          "Die Straßen sind schmal, Vorsicht bei Kurven.",
+          "Prüfen Sie vorab die Bremsen!"
+        ],
+        "hu": [
+          "Az emelkedők miatt elektromos kerékpár ajánlott.",
+          "Vigyen magával elegendő vizet.",
+          "Az utak szűkek, vigyázzon a kanyarokban.",
+          "Indulás előtt ellenőrizze a fékeket!"
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată din cauza pantelor.",
+          "Luați suficientă apă cu voi.",
+          "Drumurile sunt înguste, atenție în curbe.",
+          "Verificați frânele înainte de plecare!"
+        ],
+        "en": [
+          "An e-bike is recommended due to the gradients.",
+          "Carry sufficient water.",
+          "The roads are narrow, be careful in curves.",
+          "Check your brakes beforehand!"
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Marconi (Cluster A)",
+          "coords": [
+            41.6295,
+            13.5012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang.",
+            "hu": "Parkoljon a falu bejáratánál.",
+            "ro": "Parcați la intrarea în sat.",
+            "en": "Park at the village entrance."
+          }
+        },
+        {
+          "name": "Castello di Santopadre",
+          "coords": [
+            41.6318,
+            13.5032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": "Belvedere Valle del Liri",
+          "coords": [
+            41.6325,
+            13.504
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum Aussichtspunkt.",
+            "hu": "Rövid séta a kilátóponthoz.",
+            "ro": "Scurtă plimbare până la punctul de belvedere.",
+            "en": "Short walk to the viewpoint."
+          }
+        },
+        {
+          "name": "Grotta di San Folco (Cluster B)",
+          "coords": [
+            41.6412,
+            13.5152
+          ],
+          "category": "natural features",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Straße zur Grotte.",
+            "hu": "Parkoló közvetlenül a barlanghoz vezető út mellett.",
+            "ro": "Parcare chiar lângă drumul spre grotă.",
+            "en": "Parking right by the road to the cave."
+          }
+        },
+        {
+          "name": "Liri River Valley View",
+          "coords": [
+            41.65,
+            13.53
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Fotostopp an der Bergstraße.",
+            "hu": "Szép fotómegálló a hegyi úton.",
+            "ro": "O oprire frumoasă pentru fotografii pe drumul de munte.",
+            "en": "A beautiful photo stop on the mountain road."
+          }
+        },
+        {
+          "name": "Centro Storico (Dinner/Finish)",
+          "coords": [
+            41.6305,
+            13.502
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:45",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Letzter Stopp für ein gemütliches Essen.",
+            "hu": "Utolsó megálló egy kellemes ebédhez.",
+            "ro": "Ultima oprire pentru o masă relaxată.",
+            "en": "Final stop for a cozy meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour verbindet das historische Santopadre mit den versteckten Schätzen der Ciociaria. Sie starten im Zentrum, erkunden die Burg und den Aussichtspunkt zu Fuß, bevor Sie mit dem Wagen zur mystischen San Folco Grotte fahren. Eine Panoramafahrt durch das Liri-Tal rundet das Erlebnis ab, bevor Sie für ein traditionelles Mittagessen in den historischen Kern zurückkehren.",
+        "hu": "Az autós túra összeköti a történelmi Santopadrét Ciociaria rejtett kincseivel. A központban kezd, gyalog fedezi fel a várat és a kilátót, majd autóval a misztikus San Folco barlanghoz utazik. Egy panorámás autózás a Liri-völgyben teszi teljessé az élményt, mielőtt visszatérne a történelmi központba egy hagyományos ebédre.",
+        "ro": "Turul cu mașina combină Santopadre istoric cu comorile ascunse ale Ciociariei. Începeți în centru, explorând castelul și punctul de belvedere pe jos, înainte de a conduce spre misticul Grotta di San Folco. O călătorie panoramică prin Valea Liri completează experiența, înainte de a vă întoarce în centrul istoric pentru un prânz tradițional.",
+        "en": "The car tour combines historic Santopadre with the hidden treasures of Ciociaria. You start in the center, exploring the castle and viewpoint on foot, before driving to the mystical San Folco Cave. A scenic drive through the Liri Valley rounds off the experience before returning to the historic core for a traditional lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Il Castello",
+            "tip": "Wildgerichte und kräftige Rotweine der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Il Castello",
+            "tip": "Vadhúsételek és a régió karakteres vörösborai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Il Castello",
+            "tip": "Preparate din vânat și vinuri roșii corpolente din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Il Castello",
+            "tip": "Game dishes and strong red wines from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramastraße Liri",
+            "tip": "Halten Sie an den Ausbuchtungen für die Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liri panorámaút",
+            "tip": "Álljon meg a pihenőhelyeken a csendért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul panoramic Liri",
+            "tip": "Opriți în alveole pentru a savura liniștea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Liri Scenic Road",
+            "tip": "Stop at the pull-offs for the silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Frischer Käse und Honig direkt vom Hof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Friss sajt és méz közvetlenül a tanyáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Brânză proaspătă și miere direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers Market",
+            "tip": "Fresh cheese and honey directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen sind kurvenreich und oft schmal.",
+          "Parken im historischen Kern ist fast unmöglich.",
+          "Nutzen Sie den großen Parkplatz am Ortseingang.",
+          "Achten Sie auf Wanderer am Straßenrand."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak és gyakran szűkek.",
+          "A történelmi központban szinte lehetetlen parkolni.",
+          "Használja a falu bejáratánál lévő nagy parkolót.",
+          "Ügyeljen az út mentén haladó túrázókra."
+        ],
+        "ro": [
+          "Drumurile de munte sunt sinuoase și adesea înguste.",
+          "Parcarea în centrul istoric este aproape imposibilă.",
+          "Folosiți parcarea mare de la intrarea în sat.",
+          "Fiți atenți la excursioniștii de pe marginea drumului."
+        ],
+        "en": [
+          "The mountain roads are winding and often narrow.",
+          "Parking in the historic core is almost impossible.",
+          "Use the large parking lot at the village entrance.",
+          "Watch out for hikers on the roadside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fermata Bus Piazza Marconi",
+          "coords": [
+            41.6295,
+            13.5012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt der Regionalbusse.",
+            "hu": "A regionális buszok központi érkezési helye.",
+            "ro": "Punct central de sosire pentru autobuzele regionale.",
+            "en": "Central arrival point for regional buses."
+          }
+        },
+        {
+          "name": "Centro Storico Loop (Walk)",
+          "coords": [
+            41.6305,
+            13.502
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Rundgang durch die Gassen.",
+            "hu": "Kényelmes séta a szűk utcákon.",
+            "ro": "O plimbare relaxată prin străduțe.",
+            "en": "A leisurely stroll through the alleys."
+          }
+        },
+        {
+          "name": "Castello di Santopadre",
+          "coords": [
+            41.6318,
+            13.5032
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Highlight für Geschichtsliebhaber.",
+            "hu": "A történelem kedvelőinek csúcspontja.",
+            "ro": "Punctul culminant pentru iubitorii de istorie.",
+            "en": "The highlight for history lovers."
+          }
+        },
+        {
+          "name": "Belvedere Valle del Liri",
+          "coords": [
+            41.6325,
+            13.504
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zeit zum Verweilen und Genießen.",
+            "hu": "Idő az időzésre és az élvezetre.",
+            "ro": "Timp pentru relaxare și contemplare.",
+            "en": "Time to linger and enjoy."
+          }
+        },
+        {
+          "name": "Piazza Marconi (Bus Departure)",
+          "coords": [
+            41.6295,
+            13.5012
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Warten auf den Bus bei einem Gelato.",
+            "hu": "Várja a buszt egy finom fagylalttal.",
+            "ro": "Așteptați autobuzul savurând o gelato.",
+            "en": "Wait for the bus with a gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach der Ankunft mit dem Regionalbus in Santopadre entfaltet sich der Charme des Ortes direkt vor Ihren Füßen. Ein ausgedehnter Rundgang führt Sie durch das historische Zentrum bis zur Burg. Ohne Parkplatzsorgen genießen Sie die Aussicht am Belvedere und das entspannte Tempo des Dorflebens, bevor Sie am Nachmittag wieder den Bus zurück nehmen.",
+        "hu": "A regionális busszal Santopadrébe érkezve a falu varázsa közvetlenül Ön előtt bontakozik ki. Egy kiterjedt séta vezeti végig a történelmi központon egészen a várig. Parkolási gondok nélkül élvezheti a Belvedere kilátását és a falusi élet nyugodt tempóját, mielőtt délután visszaszállna a buszra.",
+        "ro": "După sosirea cu autobuzul regional în Santopadre, farmecul locului se dezvăluie chiar în fața dumneavoastră. Un tur extins vă poartă prin centrul istoric până la castel. Fără grija parcării, vă bucurați de priveliștea de la Belvedere și de ritmul relaxat al vieții de sat, înainte de a lua autobuzul înapoi după-amiaza.",
+        "en": "After arriving by regional bus in Santopadre, the charm of the village unfolds right before your feet. An extensive walk leads you through the historic center up to the castle. Without parking worries, you enjoy the view at the Belvedere and the relaxed pace of village life before taking the bus back in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelateria del Borgo",
+            "tip": "Hausgemachtes Eis mit regionalen Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelateria del Borgo",
+            "tip": "Házi fagylalt regionális gyümölcsökkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria del Borgo",
+            "tip": "Înghețată de casă cu fructe regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria del Borgo",
+            "tip": "Homemade ice cream with regional fruits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Beobachten Sie das Dorfleben im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Figyelje a falu életét az árnyékban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Observați viața satului la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Marconi",
+            "tip": "Watch village life in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ansichtskarten & Souvenirs",
+            "tip": "Im kleinen Tabakladen an der Piazza."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok és szuvenírek",
+            "tip": "A főtéren található kis trafikban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi și suveniruri",
+            "tip": "La micul magazin de tutun din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards & Souvenirs",
+            "tip": "At the small tobacco shop in the square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan (Cotral) vorab genau.",
+          "Sonntags verkehren nur sehr wenige Busse.",
+          "Tickets müssen oft vorab im Tabacchi gekauft werden.",
+          "Seien Sie 5 Minuten vor Abfahrt an der Haltestelle."
+        ],
+        "hu": [
+          "Előzetesen pontosan ellenőrizze a buszmenetrendet (Cotral).",
+          "Vasárnap csak nagyon kevés busz közlekedik.",
+          "A jegyeket gyakran előre, a dohányboltban kell megvenni.",
+          "Legyen a megállóban 5 perccel indulás előtt."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor (Cotral) în prealabil.",
+          "Duminica circulă foarte puține autobuze.",
+          "Biletele trebuie adesea cumpărate în avans de la Tabacchi.",
+          "Fiți în stație cu 5 minute înainte de plecare."
+        ],
+        "en": [
+          "Check the bus schedule (Cotral) carefully in advance.",
+          "Very few buses run on Sundays.",
+          "Tickets often need to be bought in advance at a Tabacchi.",
+          "Be at the stop 5 minutes before departure."
+        ]
+      }
+    }
+  }
+}

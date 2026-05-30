@@ -1,0 +1,1034 @@
+{
+  "city_id": "city-altona-hh-extra",
+  "anchor": {
+    "name": "Altona",
+    "coords": [
+      9.9352,
+      53.5528
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altonaer Museum",
+          "coords": [
+            9.9348,
+            53.5505
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Spielzeugsammlung im Obergeschoss.",
+            "hu": "Nézze meg a történelmi játékgyűjteményt az emeleten.",
+            "ro": "Vizitați colecția de jucării istorice de la etajul superior.",
+            "en": "Visit the historical toy collection on the upper floor."
+          }
+        },
+        {
+          "name": "Platz der Republik",
+          "coords": [
+            9.9355,
+            53.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den monumentalen Stuhlmannbrunnen.",
+            "hu": "Csodálja meg a monumentális Stuhlmann-kutat.",
+            "ro": "Admirați fântâna monumentală Stuhlmann.",
+            "en": "Admire the monumental Stuhlmannbrunnen fountain."
+          }
+        },
+        {
+          "name": "Christianskirche",
+          "coords": [
+            9.9325,
+            53.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hier ruht der berühmte Dichter Klopstock.",
+            "hu": "Itt nyugszik a híres költő, Klopstock.",
+            "ro": "Aici se odihnește celebrul poet Klopstock.",
+            "en": "The famous poet Klopstock is buried here."
+          }
+        },
+        {
+          "name": "Altonaer Rathaus",
+          "coords": [
+            9.9352,
+            53.5472
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Architektur des ehemaligen Bahnhofs.",
+            "hu": "Figyelje meg az egykori pályaudvar lenyűgöző építészetét.",
+            "ro": "Observați arhitectura impresionantă a fostei gări.",
+            "en": "Note the impressive architecture of the former railway station."
+          }
+        },
+        {
+          "name": "Altonaer Balkon",
+          "coords": [
+            9.9358,
+            53.5445
+          ],
+          "category": "natural features",
+          "arrive_at": "14:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der beste Ort für ein Panoramafoto vom Containerterminal.",
+            "hu": "A legjobb hely egy panorámaképhez a konténerterminálról.",
+            "ro": "Cel mai bun loc pentru o fotografie panoramică a terminalului de containere.",
+            "en": "The best spot for a panoramic photo of the container terminal."
+          }
+        },
+        {
+          "name": "Schellfischposten",
+          "coords": [
+            9.9515,
+            53.5448
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bekannt aus der TV-Show 'Inas Nacht'.",
+            "hu": "Az 'Inas Nacht' című TV-műsorból ismert helyszín.",
+            "ro": "Cunoscut din emisiunea TV 'Inas Nacht'.",
+            "en": "Famous location from the TV show 'Inas Nacht'."
+          }
+        },
+        {
+          "name": "Altonaer Fischmarkt",
+          "coords": [
+            9.9545,
+            53.5452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die Atmosphäre des Hamburger Hafens zum Abschluss.",
+            "hu": "Érezze át a hamburgi kikötő hangulatát a nap végén.",
+            "ro": "Simțiți atmosfera portului Hamburg la finalul zilei.",
+            "en": "Feel the atmosphere of the Hamburg harbor at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen wir im Altonaer Museum tief in die Kulturgeschichte ein. Mittags spazieren wir über den Platz der Republik zum prächtigen Rathaus und der Christianskirche. Der Nachmittag gehört dem weiten Blick vom Altonaer Balkon über die Elbe. Den Tag lassen wir urig am Schellfischposten und dem historischen Fischmarkt ausklingen.",
+        "hu": "Reggel az Altonai Múzeumban merülünk el a kultúrtörténetben. Délben a Köztársaság téren át sétálunk a pompás városháza és a Keresztény-templom felé. A délután az Altonai Balkonról nyíló elbai panorámáé. A napot a hangulatos Schellfischpostennél és a történelmi Halpiacnál zárjuk.",
+        "ro": "Dimineața explorăm istoria culturală la Muzeul Altona. La prânz, ne plimbăm prin Piața Republicii către primăria magnifică și biserica Christianskirche. După-amiaza aparține vederii panoramice de pe Balconul Altona peste Elba. Încheiem ziua într-un mod autentic la Schellfischposten și piața istorică de pește.",
+        "en": "Morning starts with cultural history at the Altona Museum. At midday, we walk across Platz der Republik to the grand Rathaus and Christianskirche. The afternoon is dedicated to the sweeping views of the Elbe from the Altona Balcony. We wrap up the day with local vibes at Schellfischposten and the historic Fish Market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schellfischposten",
+            "tip": "Probieren Sie echtes Hamburger Labskaus in dieser Seemannskneipe."
+          },
+          {
+            "name": "Klippkroog",
+            "tip": "Moderne norddeutsche Küche in entspannter Atmosphäre in Ottensen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schellfischposten",
+            "tip": "Kóstolja meg az igazi hamburgi Labskaust ebben a tengerész kocsmában."
+          },
+          {
+            "name": "Klippkroog",
+            "tip": "Modern észak-német konyha laza hangulatban Ottensenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schellfischposten",
+            "tip": "Încercați un Labskaus autentic din Hamburg în această tavernă marinărească."
+          },
+          {
+            "name": "Klippkroog",
+            "tip": "Bucătărie modernă din nordul Germaniei într-o atmosferă relaxată în Ottensen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schellfischposten",
+            "tip": "Try authentic Hamburg Labskaus in this traditional sailor's pub."
+          },
+          {
+            "name": "Klippkroog",
+            "tip": "Modern Northern German cuisine in a relaxed Ottensen atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Altonaer Balkon",
+            "tip": "Ruhepause mit Blick auf die dicken Pötte.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jüdischer Friedhof",
+            "tip": "Ein mystischer Ort der Stille in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altonai Balkon",
+            "tip": "Pihenő a hatalmas konténerszállító hajók látványával.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Zsidó temető",
+            "tip": "Misztikus csendes sziget a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balconul Altona",
+            "tip": "O pauză liniștită cu vedere la navele gigantice.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Cimitirul Evreiesc",
+            "tip": "Un loc mistic de liniște în interiorul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Altona Balcony",
+            "tip": "A quiet break watching the massive container ships.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jewish Cemetery",
+            "tip": "A mystical place of silence within the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ottensen",
+            "tip": "Stöbern Sie in den kleinen Boutiquen rund um die Ottenser Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ottensen",
+            "tip": "Böngésszen a kis butikokban az Ottenser Hauptstraße környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ottensen",
+            "tip": "Explorați micile boutiquri din jurul străzii Ottenser Hauptstraße."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ottensen",
+            "tip": "Browse the small boutiques around Ottenser Hauptstraße."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Elbufer-Kopfsteinpflaster.",
+          "Sonntagmorgens ist der Fischmarkt ein absolutes Muss."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az elbai part macskaköveihez.",
+          "Vasárnap reggel a halpiac kötelező program."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul de pe malul Elbei.",
+          "Duminică dimineața, piața de pește este absolut obligatorie."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones along the Elbe.",
+          "The fish market is a must-see on Sunday mornings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Jüdischer Friedhof Altona",
+          "coords": [
+            9.9442,
+            53.5495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Melden Sie sich für eine Führung durch das UNESCO-Welterbe an.",
+            "hu": "Regisztráljon egy túrára az UNESCO Világörökség részeként.",
+            "ro": "Înscrieți-vă pentru un tur al sitului UNESCO.",
+            "en": "Book a tour of this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": "Altonaer Museum",
+          "coords": [
+            9.9348,
+            53.5505
+          ],
+          "category": "museums",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher am Bahnhof Altona ab.",
+            "hu": "Zárja le biztonságosan a biciklit az altonai pályaudvarnál.",
+            "ro": "Parcați bicicleta în siguranță la gara Altona.",
+            "en": "Park your bike securely at the Altona station."
+          }
+        },
+        {
+          "name": "Platz der Republik",
+          "coords": [
+            9.9355,
+            53.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stop für ein Foto vom Brunnen.",
+            "hu": "Rövid megálló egy fotóra a kútnál.",
+            "ro": "O scurtă oprire pentru o fotografie la fântână.",
+            "en": "A quick stop for a photo at the fountain."
+          }
+        },
+        {
+          "name": "Christianskirche",
+          "coords": [
+            9.9325,
+            53.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab von Matthias Claudius.",
+            "hu": "Látogassa meg Matthias Claudius sírját.",
+            "ro": "Vizitați mormântul lui Matthias Claudius.",
+            "en": "Visit the grave of Matthias Claudius."
+          }
+        },
+        {
+          "name": "Altonaer Rathaus",
+          "coords": [
+            9.9352,
+            53.5472
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause im prachtvollen Innenhof.",
+            "hu": "Tökéletes hely egy rövid szünetre a pompás belső udvaron.",
+            "ro": "Perfect pentru o scurtă pauză în curtea interioară magnifică.",
+            "en": "Perfect for a quick break in the grand inner courtyard."
+          }
+        },
+        {
+          "name": "Altonaer Balkon",
+          "coords": [
+            9.9358,
+            53.5445
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Wind vom Fluss.",
+            "hu": "Élvezze a folyó felől fújó szelet.",
+            "ro": "Bucurați-vă de briza de pe râu.",
+            "en": "Enjoy the breeze from the river."
+          }
+        },
+        {
+          "name": "Schellfischposten",
+          "coords": [
+            9.9515,
+            53.5448
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine längere Verschnaufpause ein.",
+            "hu": "Itt tarthat egy hosszabb pihenőt.",
+            "ro": "Luați o pauză mai lungă de respirație aici.",
+            "en": "Take a longer breathing break here."
+          }
+        },
+        {
+          "name": "Altonaer Fischmarkt",
+          "coords": [
+            9.9545,
+            53.5452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie von hier aus entspannt am Elbufer weiter.",
+            "hu": "Innen kényelmesen tekerhet tovább az Elba-parton.",
+            "ro": "De aici puteți pedala relaxat mai departe pe malul Elbei.",
+            "en": "From here, continue cycling relaxed along the Elbe bank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Per Rad erkunden wir erst den mystischen Jüdischen Friedhof, bevor wir über Ottensen zum Altonaer Museum fahren. Nach dem Kulturprogramm geht es zügig zum Rathaus und Balkon. Die Abfahrt zum Fischmarkt ist spektakulär und bietet ständigen Blick auf den Hafen.",
+        "hu": "Biciklivel először a misztikus zsidó temetőt fedezzük fel, majd Ottensenen át az Altonai Múzeumba tekerünk. A kulturális program után gyorsan elérjük a városházát és a balkont. A lemenet a halpiachoz látványos, folyamatos kilátással a kikötőre.",
+        "ro": "Cu bicicleta, explorăm mai întâi cimitirul evreiesc mistic înainte de a pedala prin Ottensen către Muzeul Altona. După programul cultural, ajungem rapid la primărie și la balcon. Coborârea spre piața de pește este spectaculoasă și oferă o vedere constantă asupra portului.",
+        "en": "By bike, we first explore the mystical Jewish Cemetery before cycling through Ottensen to the Altona Museum. After the culture fix, it's a quick ride to the Rathaus and Balcony. The ride down to the Fish Market is spectacular with constant harbor views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Azeitona",
+            "tip": "Hervorragende Falafel und Mezze für den schnellen Energie-Schub."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azeitona",
+            "tip": "Kiváló falafel és mezze a gyors energiapótláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Azeitona",
+            "tip": "Falafel și mezze excelente pentru un impuls rapid de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azeitona",
+            "tip": "Excellent falafel and mezze for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park an der Christianskirche",
+            "tip": "Kleiner Park mit viel Schatten für heiße Tage.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keresztény-templom parkja",
+            "tip": "Kis park sok árnyékkal a forró napokra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la Christianskirche",
+            "tip": "Parc mic cu multă umbră pentru zilele toride.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park at Christianskirche",
+            "tip": "Small park with plenty of shade for hot days.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Am frühen Sonntagmorgen direkt vom LKW kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Vasárnap kora reggel közvetlenül a teherautókról vásárolhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Cumpărați direct din camion duminică dimineața devreme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Buy directly from trucks early Sunday morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die StadtRAD-Stationen am Bahnhof Altona.",
+          "Vorsicht bei der Abfahrt zum Elbufer, sie ist steil."
+        ],
+        "hu": [
+          "Használja a StadtRAD állomásokat az altonai pályaudvarnál.",
+          "Vigyázzon az Elba-parti lejtőn, mert meredek."
+        ],
+        "ro": [
+          "Folosiți stațiile StadtRAD de la gara Altona.",
+          "Atenție la coborârea spre malul Elbei, este abruptă."
+        ],
+        "en": [
+          "Use the StadtRAD bike-sharing stations at Altona station.",
+          "Be careful on the steep descent to the Elbe bank."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altonaer Museum",
+          "coords": [
+            9.9348,
+            53.5505
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus am Bahnhof Altona nutzen.",
+            "hu": "Használja az altonai pályaudvar parkolóházát.",
+            "ro": "Folosiți parcarea supraetajată de la gara Altona.",
+            "en": "Use the parking garage at Altona station."
+          }
+        },
+        {
+          "name": "Platz der Republik",
+          "coords": [
+            9.9355,
+            53.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Cluster 1: Fußläufig vom Museum erreichbar.",
+            "hu": "1. klaszter: Gyalogosan elérhető a múzeumtól.",
+            "ro": "Cluster 1: Accesibil pe jos de la muzeu.",
+            "en": "Cluster 1: Reachable on foot from the museum."
+          }
+        },
+        {
+          "name": "Altonaer Rathaus",
+          "coords": [
+            9.9352,
+            53.5472
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Cluster 2: Parkplatzsuche rund um das Rathaus.",
+            "hu": "2. klaszter: Parkolás a városháza környékén.",
+            "ro": "Cluster 2: Căutarea unui loc de parcare în jurul primăriei.",
+            "en": "Cluster 2: Parking search around the Rathaus."
+          }
+        },
+        {
+          "name": "Christianskirche",
+          "coords": [
+            9.9325,
+            53.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Rathaus aus.",
+            "hu": "Gyalogút a városházától.",
+            "ro": "Acces pietonal de la primărie.",
+            "en": "Walking path from the Rathaus."
+          }
+        },
+        {
+          "name": "Altonaer Balkon",
+          "coords": [
+            9.9358,
+            53.5445
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Highlight von Cluster 2.",
+            "hu": "A 2. klaszter fénypontja.",
+            "ro": "Punctul culminant al Clusterului 2.",
+            "en": "Highlight of Cluster 2."
+          }
+        },
+        {
+          "name": "Schellfischposten",
+          "coords": [
+            9.9515,
+            53.5448
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Cluster 3: Parkplatz am Fischmarkt suchen.",
+            "hu": "3. klaszter: Parkolás a halpiacnál.",
+            "ro": "Cluster 3: Căutarea unui loc de parcare la piața de pește.",
+            "en": "Cluster 3: Parking at the Fish Market."
+          }
+        },
+        {
+          "name": "Altonaer Fischmarkt",
+          "coords": [
+            9.9545,
+            53.5452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:07",
+          "stay_min": 98,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang am Wasser.",
+            "hu": "Kellemes zárás a vízparton.",
+            "ro": "Final relaxant pe malul apei.",
+            "en": "Cozy wrap-up by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir nutzen das Auto für drei Hauptstopps. Erst erkunden wir das Zentrum um den Bahnhof, dann fahren wir zum historischen Rathaus-Areal. Den Abschluss bildet der Hafenrand, wo wir das Fahrzeug abstellen und zwischen Schellfischposten und Fischauktionshalle spazieren.",
+        "hu": "Az autót három fő megállóhoz használjuk. Először a pályaudvar környékét fedezzük fel, majd a történelmi városháza területére hajtunk. A napot a kikötő szélén zárjuk, ahol leparkolunk, és a Schellfischposten és a Halárverési Csarnok között sétálunk.",
+        "ro": "Folosim mașina pentru trei opriri principale. Mai întâi explorăm centrul din jurul gării, apoi mergem către zona istorică a primăriei. Finalizăm la marginea portului, unde lăsăm mașina și ne plimbăm între Schellfischposten și hala de licitații de pește.",
+        "en": "We use the car for three main stops. First, we explore the area around the station, then drive to the historic Rathaus district. We finish at the harbor edge, parking the car to walk between Schellfischposten and the Fish Auction Hall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischauktionshalle",
+            "tip": "Historisches Ambiente mit Blick auf die Elbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halárverési Csarnok",
+            "tip": "Történelmi környezet kilátással az Elbára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala de licitații de pește",
+            "tip": "Ambianță istorică cu vedere la Elba."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Auction Hall",
+            "tip": "Historic ambiance with views over the Elbe."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbufer",
+            "tip": "Kurzer Spaziergang direkt am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba-part",
+            "tip": "Rövid séta közvetlenül a víz mellett.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Elbei",
+            "tip": "O scurtă plimbare direct pe malul apei.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbe Bank",
+            "tip": "Short walk directly by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado",
+            "tip": "Einkaufszentrum direkt am Bahnhof Altona mit tollen Essensständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado",
+            "tip": "Bevásárlóközpont az altonai pályaudvarnál remek ételstandokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado",
+            "tip": "Centru comercial lângă gara Altona cu standuri excelente de mâncare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado",
+            "tip": "Shopping mall at Altona station with great food stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsituation in Altona ist oft schwierig, Parkhäuser nutzen.",
+          "An Sonntagen ist die Anfahrt zum Fischmarkt gesperrt."
+        ],
+        "hu": [
+          "A parkolás Altonában gyakran nehéz, használjon parkolóházakat.",
+          "Vasárnaponként a halpiachoz vezető utakat lezárják."
+        ],
+        "ro": [
+          "Parcarea în Altona este adesea dificilă, folosiți parcările etajate.",
+          "Duminica, accesul auto către piața de pește este blocat."
+        ],
+        "en": [
+          "Parking in Altona is often difficult; use parking garages.",
+          "Roads to the Fish Market are closed on Sundays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altonaer Museum",
+          "coords": [
+            9.9348,
+            53.5505
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkt am S-Bahnhof Altona gelegen.",
+            "hu": "Közvetlenül az Altona S-Bahn megállónál.",
+            "ro": "Situat direct la gara S-Bahn Altona.",
+            "en": "Located directly at Altona S-Bahn station."
+          }
+        },
+        {
+          "name": "Platz der Republik",
+          "coords": [
+            9.9355,
+            53.5492
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Museum aus.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "O scurtă plimbare de la muzeu.",
+            "en": "A short walk from the museum."
+          }
+        },
+        {
+          "name": "Altonaer Rathaus",
+          "coords": [
+            9.9352,
+            53.5472
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus 111 bis zur Station 'Rathaus Altona'.",
+            "hu": "Használja a 111-es buszt a 'Rathaus Altona' megállóig.",
+            "ro": "Folosiți autobuzul 111 până la stația 'Rathaus Altona'.",
+            "en": "Use bus 111 to 'Rathaus Altona' station."
+          }
+        },
+        {
+          "name": "Christianskirche",
+          "coords": [
+            9.9325,
+            53.5478
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Rathaus erreichbar.",
+            "hu": "Gyalogosan elérhető a városházától.",
+            "ro": "Accesibil pe jos de la primărie.",
+            "en": "Reachable on foot from the Rathaus."
+          }
+        },
+        {
+          "name": "Altonaer Balkon",
+          "coords": [
+            9.9358,
+            53.5445
+          ],
+          "category": "natural features",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Aussichtspunkt im Cluster.",
+            "hu": "Központi kilátópont a klaszterben.",
+            "ro": "Punct de observație central în cluster.",
+            "en": "Central viewpoint in the cluster."
+          }
+        },
+        {
+          "name": "Altonaer Fischmarkt",
+          "coords": [
+            9.9545,
+            53.5452
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:51",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bus 111 oder 112 Richtung Hafenstraße.",
+            "hu": "111-es vagy 112-es busz a Hafenstraße irányába.",
+            "ro": "Autobuzul 111 sau 112 în direcția Hafenstraße.",
+            "en": "Bus 111 or 112 towards Hafenstraße."
+          }
+        },
+        {
+          "name": "Schellfischposten",
+          "coords": [
+            9.9515,
+            53.5448
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzter Stopp, ideal für ein kühles Getränk.",
+            "hu": "Utolsó állomás, ideális egy hűsítő italra.",
+            "ro": "Ultima oprire, ideală pentru o băutură rece.",
+            "en": "Final stop, ideal for a cold drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Bus und S-Bahn verbinden wir die Höhepunkte Altonas. Das Museum am S-Bahnhof ist der Startpunkt. Der Bus 111 bringt uns bequem zum Rathaus und Balkon, bevor wir die Elblinie Richtung Fischmarkt nehmen, wo das maritime Hamburg am lebendigsten ist.",
+        "hu": "Busszal és S-Bahn-nal kötjük össze Altona fénypontjait. A múzeum a kiindulópont. A 111-es busz kényelmesen elvisz a városházához és a balkonhoz, mielőtt az elbai vonalon a halpiac felé vesszük az irányt, ahol a legélénkebb a tengeri Hamburg.",
+        "ro": "Conectăm punctele culminante ale Altonei cu autobuzul și S-Bahn-ul. Muzeul de la gară este punctul de plecare. Autobuzul 111 ne duce confortabil la primărie și balcon, înainte de a urma linia Elbei spre piața de pește, unde Hamburgul maritim este cel mai animat.",
+        "en": "We connect Altona's highlights by bus and S-Bahn. The museum at the station is our starting point. Bus 111 takes us comfortably to the Rathaus and Balcony before we follow the Elbe line towards the Fish Market, where maritime Hamburg is at its liveliest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbrötchen am Anleger",
+            "tip": "Ein Muss am Hamburger Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halas zsemle a mólónál",
+            "tip": "Kihagyhatatlan a hamburgi kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu pește la debarcader",
+            "tip": "Obligatoriu în portul Hamburg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish roll at the pier",
+            "tip": "A must-try in Hamburg harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Rathaus",
+            "tip": "Grüne Oase hinter dem Verwaltungsgebäude.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városháza parkja",
+            "tip": "Zöld oázis a hivatali épület mögött.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de la primărie",
+            "tip": "Oază verde în spatele clădirii administrative.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rathaus Park",
+            "tip": "Green oasis behind the administrative building.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhof Altona",
+            "tip": "Viele Geschäfte haben hier auch sonntags geöffnet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altona pályaudvar",
+            "tip": "Sok üzlet vasárnap is nyitva tart itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gara Altona",
+            "tip": "Multe magazine sunt deschise aici și duminica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altona Station",
+            "tip": "Many shops here are open even on Sundays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine HVV-Tageskarte für maximale Flexibilität.",
+          "Die Elbfähre 62 ist mit dem HVV-Ticket nutzbar."
+        ],
+        "hu": [
+          "Vásároljon HVV napijegyet a maximális rugalmasságért.",
+          "A 62-es elbai komp HVV-jeggyel használható."
+        ],
+        "ro": [
+          "Cumpărați un abonament de zi HVV pentru flexibilitate maximă.",
+          "Feribotul 62 de pe Elba poate fi folosit cu biletul HVV."
+        ],
+        "en": [
+          "Buy an HVV day ticket for maximum flexibility.",
+          "The Elbe ferry 62 can be used with a standard HVV ticket."
+        ]
+      }
+    }
+  }
+}

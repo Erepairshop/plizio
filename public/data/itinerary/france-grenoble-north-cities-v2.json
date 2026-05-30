@@ -1,0 +1,1205 @@
+{
+  "city_id": "france-grenoble-north-cities-v2",
+  "anchor": {
+    "name": "Grenoble-Nord",
+    "coords": [
+      5.72,
+      45.2
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin de Ville",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "Jardin de Ville"
+          },
+          "coords": [
+            5.726,
+            45.192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der ehemalige herzogliche Garten.",
+            "hu": "Az egykori hercegi kert.",
+            "ro": "Fosta grădină ducală.",
+            "en": "The former ducal garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Grenette",
+            "hu": "Place Grenette",
+            "ro": "Piața Grenette",
+            "en": "Place Grenette"
+          },
+          "coords": [
+            5.728,
+            45.191
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das pulsierende Herz der Altstadt.",
+            "hu": "Az óváros lüktető szíve.",
+            "ro": "Inima vibrantă a orașului vechi.",
+            "en": "The pulsating heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            5.731,
+            45.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beeindruckende Architektur aus dem 13. Jh.",
+            "hu": "Lenyűgöző 13. századi építészet.",
+            "ro": "Arhitectură impresionantă din sec. XIII.",
+            "en": "Impressive 13th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Grenoble",
+            "hu": "Grenoble-i Múzeum",
+            "ro": "Muzeul din Grenoble",
+            "en": "Musée de Grenoble"
+          },
+          "coords": [
+            5.734,
+            45.194
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Kunstmuseen Frankreichs.",
+            "hu": "Franciaország egyik legjelentősebb művészeti múzeuma.",
+            "ro": "Unul dintre cele mai importante muzee de artă din Franța.",
+            "en": "One of France's most significant art museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Téléphérique de la Bastille",
+            "hu": "Bastille felvonó",
+            "ro": "Telefericul Bastille",
+            "en": "Bastille Cable Car"
+          },
+          "coords": [
+            5.726,
+            45.193
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrt in den berühmten 'Bubbles'.",
+            "hu": "Utazás a híres 'Buborékokban'.",
+            "ro": "Călătorie în celebrele 'Bule'.",
+            "en": "Ride in the famous 'Bubbles'."
+          }
+        },
+        {
+          "name": {
+            "de": "La Bastille",
+            "hu": "Bastille erőd",
+            "ro": "Cetatea Bastille",
+            "en": "La Bastille"
+          },
+          "coords": [
+            5.725,
+            45.199
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Alpen.",
+            "hu": "Panorámás kilátás az Alpokra.",
+            "ro": "Vedere panoramică asupra Alpilor.",
+            "en": "Panoramic view of the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée dauphinois",
+            "hu": "Dauphinois Múzeum",
+            "ro": "Muzeul Dauphinois",
+            "en": "Musée dauphinois"
+          },
+          "coords": [
+            5.727,
+            45.195
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Geschichte der Alpen in einem alten Kloster.",
+            "hu": "Az Alpok története egy régi kolostorban.",
+            "ro": "Istoria Alpilor într-o veche mănăstire.",
+            "en": "History of the Alps in an old convent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die historische Altstadt und den Jardin de Ville. Nach dem Kunstgenuss im Musée de Grenoble schweben Sie mit der Seilbahn zur Bastille hoch. Der Nachmittag gehört der Festung und der regionalen Geschichte im Musée dauphinois, bevor Sie den Tag bei einem Glas Chartreuse ausklingen lassen.",
+        "hu": "A reggelt az óvárosban és a Városkertben töltjük. A Grenoble-i Múzeum művészeti kincsei után a híres buborék-felvonóval jutunk fel a Bastille-ba. Délután az erődöt és az alpesi kultúrát bemutató Dauphinois Múzeumot fedezzük fel, majd egy pohár Chartreuse likőrrel zárjuk a napot.",
+        "ro": "Dimineața este dedicată centrului istoric și Grădinii Orașului. După o vizită la Muzeul din Grenoble, urcați cu telefericul la Bastille. După-amiaza explorăm fortăreața și istoria regională la Muzeul dauphinois, încheind ziua cu o priveliște superbă asupra munților și un pahar de Chartreuse.",
+        "en": "Morning starts in the historic center and Jardin de Ville. After admiring art at the Musée de Grenoble, glide up to the Bastille in the iconic bubbles. The afternoon is for the fortress and regional history at the Musée dauphinois, followed by a glass of local Chartreuse as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gratin dauphinois",
+            "tip": "Kartoffelgratin mit Sahne und Knoblauch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gratin dauphinois",
+            "tip": "Tejszínes-fokhagymás rakott burgonya."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gratin dauphinois",
+            "tip": "Cartofi gratinați cu smântână și usturoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gratin dauphinois",
+            "tip": "Creamy potato gratin with garlic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastille-Aussichtspunkt",
+            "tip": "Stille über den Dächern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastille kilátó",
+            "tip": "Csend a tetők felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Bastille",
+            "tip": "Liniște deasupra acoperișurilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastille Viewpoint",
+            "tip": "Quiet spot above the city rooftops.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles Sainte-Claire",
+            "tip": "Frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles Sainte-Claire",
+            "tip": "Friss áruk és helyi specialitások piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles Sainte-Claire",
+            "tip": "Piață cu produse proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles Sainte-Claire",
+            "tip": "Market for fresh produce and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Grenoble ist sehr flach, ideal zum Gehen.",
+          "Die Bastille-Seilbahn ist ein Muss.",
+          "Probieren Sie die Walnüsse aus Grenoble."
+        ],
+        "hu": [
+          "Grenoble nagyon sík, kiváló gyalogos felfedezésre.",
+          "A Bastille-felvonó kötelező program.",
+          "Kóstolja meg a helyi diót."
+        ],
+        "ro": [
+          "Grenoble este un oraș plat, ideal pentru mers pe jos.",
+          "Telefericul Bastille este un obiectiv obligatoriu.",
+          "Gustați nucile de Grenoble."
+        ],
+        "en": [
+          "Grenoble is very flat, making it easy to walk.",
+          "The Bastille cable car is a must-do.",
+          "Try the local Grenoble walnuts."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Paul Mistral",
+            "hu": "Paul Mistral park",
+            "ro": "Parcul Paul Mistral",
+            "en": "Parc Paul Mistral"
+          },
+          "coords": [
+            5.738,
+            45.186
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Park mit dem Olympiaturm.",
+            "hu": "Hatalmas park az olimpiai toronnyal.",
+            "ro": "Parc mare cu turnul olimpic.",
+            "en": "Large park featuring the Olympic tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Grenoble",
+            "hu": "Grenoble-i Múzeum",
+            "ro": "Muzeul din Grenoble",
+            "en": "Musée de Grenoble"
+          },
+          "coords": [
+            5.734,
+            45.194
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt vor dem Eingang.",
+            "hu": "Kerékpártárolók közvetlenül a bejáratnál.",
+            "ro": "Parcare de biciclete chiar la intrare.",
+            "en": "Bike racks available right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            5.731,
+            45.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das historische Viertel ist gut befahrbar.",
+            "hu": "A történelmi negyed jól kerékpározható.",
+            "ro": "Cartierul istoric este ușor de parcurs.",
+            "en": "The historic district is easy to cycle through."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Grenette",
+            "hu": "Place Grenette",
+            "ro": "Piața Grenette",
+            "en": "Place Grenette"
+          },
+          "coords": [
+            5.728,
+            45.191
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause.",
+            "hu": "Ideális egy ebédszünethez.",
+            "ro": "Ideal pentru o pauză de prânz.",
+            "en": "Ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de Ville",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "Jardin de Ville"
+          },
+          "coords": [
+            5.726,
+            45.192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schatten unter alten Bäumen.",
+            "hu": "Árnyas pihenő az öreg fák alatt.",
+            "ro": "Umbră sub copaci seculari.",
+            "en": "Shade under old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Téléphérique de la Bastille",
+            "hu": "Bastille felvonó",
+            "ro": "Telefericul Bastille",
+            "en": "Bastille Cable Car"
+          },
+          "coords": [
+            5.726,
+            45.193
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fahrräder können unten abgeschlossen werden.",
+            "hu": "A bicikliket lent le lehet zárni.",
+            "ro": "Bicicletele pot fi legate la bază.",
+            "en": "Bikes can be locked at the base station."
+          }
+        },
+        {
+          "name": {
+            "de": "La Bastille",
+            "hu": "Bastille erőd",
+            "ro": "Cetatea Bastille",
+            "en": "La Bastille"
+          },
+          "coords": [
+            5.725,
+            45.199
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Blick auf das Isère-Tal.",
+            "hu": "Kilátás az Isère-völgyre.",
+            "ro": "Vedere spre valea Isère.",
+            "en": "View over the Isère valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée dauphinois",
+            "hu": "Dauphinois Múzeum",
+            "ro": "Muzeul Dauphinois",
+            "en": "Musée dauphinois"
+          },
+          "coords": [
+            5.727,
+            45.195
+          ],
+          "category": "museums",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Abfahrt mit dem Rad zurück zur Stadt.",
+            "hu": "Gurulás vissza a városba.",
+            "ro": "Coborâre cu bicicleta înapoi în oraș.",
+            "en": "Cycle back down to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Grenoble ist die flachste Stadt Frankreichs – perfekt für das Rad! Starten Sie im Parc Paul Mistral, radeln Sie zum Museum und durch die Altstadt. Den Berg bezwingen Sie bequem mit der Seilbahn, bevor Sie mit dem Rad die Isère-Ufer erkunden.",
+        "hu": "Grenoble Franciaország leglaposabb városa – tökéletes kerékpározáshoz! Kezdjen a Paul Mistral parkban, tekerjen a múzeumhoz és az óvároson át. A hegyet a felvonóval hódítjuk meg, majd az Isère-parton biciklizünk tovább.",
+        "ro": "Grenoble este cel mai plat oraș din Franța – perfect pentru bicicletă! Începeți în Parcul Paul Mistral, pedalați spre muzeu și prin centrul vechi. Cucerim muntele cu telefericul, apoi explorăm malurile Isère pe două roți.",
+        "en": "Grenoble is the flattest city in France – perfect for cycling! Start at Parc Paul Mistral, ride to the museum and through the old town. Conquer the mountain with the cable car, then explore the Isère riverbanks by bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caillette",
+            "tip": "Fleischbällchen mit Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caillette",
+            "tip": "Húsos-füvészes gombóc."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caillette",
+            "tip": "Chiftele cu ierburi aromatice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caillette",
+            "tip": "Meatballs with herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Paul Mistral",
+            "tip": "Viel Platz zum Ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paul Mistral park",
+            "tip": "Sok hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Paul Mistral",
+            "tip": "Mult spațiu pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Paul Mistral",
+            "tip": "Plenty of space to relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grenoble Walnuss-Laden",
+            "tip": "Spezialitäten rund um die Nuss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grenoble-i Dióbolt",
+            "tip": "Minden, ami dió."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de nuci Grenoble",
+            "tip": "Specialități pe bază de nuci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grenoble Walnut Shop",
+            "tip": "All things walnut-related."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Métrovélo' Leihräder.",
+          "Die Radwege entlang der Isère sind herrlich.",
+          "Grenoble ist fahrradfreundlich."
+        ],
+        "hu": [
+          "Használja a 'Métrovélo' bérbicikli-hálózatot.",
+          "Az Isère menti kerékpárutak csodásak.",
+          "Grenoble kerékpárosbarát város."
+        ],
+        "ro": [
+          "Folosiți rețeaua 'Métrovélo' pentru închirieri.",
+          "Pistele de-a lungul Isère sunt superbe.",
+          "Grenoble este un oraș prietenos cu bicicliștii."
+        ],
+        "en": [
+          "Use the 'Métrovélo' bike rental system.",
+          "Cycle paths along the Isère are wonderful.",
+          "Grenoble is very bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Grenette (Cluster Zentrum)",
+            "hu": "Place Grenette (Belváros klaszter)",
+            "ro": "Piața Grenette (Cluster Centru)",
+            "en": "Place Grenette (Center Cluster)"
+          },
+          "coords": [
+            5.728,
+            45.191
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Grenette' Parkhaus.",
+            "hu": "Parkoljon a 'Grenette' parkolóházban.",
+            "ro": "Parcați în parcarea 'Grenette'.",
+            "en": "Park at the 'Grenette' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            5.731,
+            45.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Grenoble",
+            "hu": "Grenoble-i Múzeum",
+            "ro": "Muzeul din Grenoble",
+            "en": "Musée de Grenoble"
+          },
+          "coords": [
+            5.734,
+            45.194
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang innerhalb des Zentrums.",
+            "hu": "Rövid séta a központon belül.",
+            "ro": "Scurtă plimbare în interiorul centrului.",
+            "en": "Short walk within the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Téléphérique de la Bastille (Fahrt)",
+            "hu": "Bastille felvonó (út)",
+            "ro": "Telefericul Bastille (drum)",
+            "en": "Bastille Cable Car (ride)"
+          },
+          "coords": [
+            5.726,
+            45.193
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Quai Stephane Jay.",
+            "hu": "Hajtson a Quai Stephane Jay-hez.",
+            "ro": "Mergeți la Quai Stephane Jay.",
+            "en": "Drive to Quai Stephane Jay."
+          }
+        },
+        {
+          "name": {
+            "de": "La Bastille",
+            "hu": "Bastille erőd",
+            "ro": "Cetatea Bastille",
+            "en": "La Bastille"
+          },
+          "coords": [
+            5.725,
+            45.199
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Mittagessen mit Aussicht.",
+            "hu": "Ebéd kilátással.",
+            "ro": "Prânz cu priveliște.",
+            "en": "Lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée dauphinois",
+            "hu": "Dauphinois Múzeum",
+            "ro": "Muzeul Dauphinois",
+            "en": "Musée dauphinois"
+          },
+          "coords": [
+            5.727,
+            45.195
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Seilbahnstation.",
+            "hu": "Nagyon közel a felvonó állomáshoz.",
+            "ro": "Foarte aproape de stația telefericului.",
+            "en": "Very close to the cable car station."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Paul Mistral (Cluster Park)",
+            "hu": "Paul Mistral park (Park klaszter)",
+            "ro": "Parcul Paul Mistral (Cluster Parc)",
+            "en": "Parc Paul Mistral (Park Cluster)"
+          },
+          "coords": [
+            5.738,
+            45.186
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkhaus am Stadion nutzen.",
+            "hu": "Használja a stadion melletti parkolót.",
+            "ro": "Folosiți parcarea de lângă stadion.",
+            "en": "Use the parking near the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de Ville",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "Jardin de Ville"
+          },
+          "coords": [
+            5.726,
+            45.192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Abschluss im Herzen der Stadt.",
+            "hu": "Zárás a város szívében.",
+            "ro": "Final în inima orașului.",
+            "en": "Wrap up in the city heart."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Drei Cluster prägen den Tag: Die historische Altstadt (zu Fuß erkunden), der Bastille-Felsen (Seilbahn-Erlebnis) und der weitläufige Parc Paul Mistral. Mit dem Auto erreichen Sie bequem die Parkhäuser der verschiedenen Viertel und genießen maximale Flexibilität.",
+        "hu": "Három klaszter köré szervezzük a napot: a történelmi óváros (gyalogosan), a Bastille-szikla (felvonózással) és a tágas Paul Mistral park. Autóval kényelmesen elérheti a különböző negyedek parkolóházait, élvezve a maximális rugalmasságot.",
+        "ro": "Ziua este organizată în trei clustere: centrul istoric (explorat la pas), stânca Bastille (experiență cu telefericul) și vastul Parc Paul Mistral. Cu mașina ajungeți ușor la parcările din diferite cartiere, beneficiind de flexibilitate maximă.",
+        "en": "The day is structured in three clusters: the historic old town (explore on foot), the Bastille rock (cable car experience), and the spacious Parc Paul Mistral. By car, you can easily reach the parking garages of different districts, enjoying maximum flexibility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Saint-Christophe",
+            "tip": "Traditionelles Restaurant in der Nähe der Bastille."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Saint-Christophe",
+            "tip": "Hagyományos étterem a Bastille közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Saint-Christophe",
+            "tip": "Restaurant tradițional lângă Bastille."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Saint-Christophe",
+            "tip": "Traditional restaurant near the Bastille."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de Ville",
+            "tip": "Ruhiger Park im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városkert",
+            "tip": "Csendes park a központban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Orașului",
+            "tip": "Parc liniștit în centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de Ville",
+            "tip": "Quiet park in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand'Place",
+            "tip": "Großes Einkaufszentrum im Süden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand'Place",
+            "tip": "Nagy bevásárlóközpont délen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand'Place",
+            "tip": "Centru comercial mare în sud."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand'Place",
+            "tip": "Large shopping mall in the south."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride (P+R) Parkplätze.",
+          "Das Zentrum ist teilweise Fußgängerzone.",
+          "Achten Sie auf die Einbahnstraßen."
+        ],
+        "hu": [
+          "Használja a P+R parkolókat.",
+          "A központ részben sétálóövezet.",
+          "Figyeljen az egyirányú utcákra."
+        ],
+        "ro": [
+          "Folosiți parcările Park-and-Ride (P+R).",
+          "Centrul este parțial pietonal.",
+          "Atenție la străzile cu sens unic."
+        ],
+        "en": [
+          "Use Park-and-Ride (P+R) facilities.",
+          "The center is partially pedestrianized.",
+          "Watch out for one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Grenette (Tram A/B)",
+            "hu": "Place Grenette (Tram A/B)",
+            "ro": "Piața Grenette (Tram A/B)",
+            "en": "Place Grenette (Tram A/B)"
+          },
+          "coords": [
+            5.728,
+            45.191
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der Straßenbahn.",
+            "hu": "Központi villamoscsomópont.",
+            "ro": "Nod central de tramvai.",
+            "en": "Central tram hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            5.731,
+            45.192
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Haltestelle 'Hubert Dubedout'.",
+            "hu": "A 'Hubert Dubedout' megálló közelében.",
+            "ro": "Foarte aproape de stația 'Hubert Dubedout'.",
+            "en": "Close to 'Hubert Dubedout' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Grenoble",
+            "hu": "Grenoble-i Múzeum",
+            "ro": "Muzeul din Grenoble",
+            "en": "Musée de Grenoble"
+          },
+          "coords": [
+            5.734,
+            45.194
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Tramstation.",
+            "hu": "Rövid séta a villamosmegállótól.",
+            "ro": "Scurtă plimbare de la stația de tramvai.",
+            "en": "Short walk from the tram station."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Paul Mistral (Tram C)",
+            "hu": "Paul Mistral park (Tram C)",
+            "ro": "Parcul Paul Mistral (Tram C)",
+            "en": "Parc Paul Mistral (Tram C)"
+          },
+          "coords": [
+            5.738,
+            45.186
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Direkt an der Haltestelle 'Chavant'.",
+            "hu": "Közvetlenül a 'Chavant' megállónál.",
+            "ro": "Chiar lângă stația 'Chavant'.",
+            "en": "Right at the 'Chavant' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de Ville",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "Jardin de Ville"
+          },
+          "coords": [
+            5.726,
+            45.192
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Tram A/B zurück ins Zentrum.",
+            "hu": "Tram A/B villamossal vissza a központba.",
+            "ro": "Luați tramvaiul A/B înapoi în centru.",
+            "en": "Take tram A/B back to center."
+          }
+        },
+        {
+          "name": {
+            "de": "Téléphérique de la Bastille",
+            "hu": "Bastille felvonó",
+            "ro": "Telefericul Bastille",
+            "en": "Bastille Cable Car"
+          },
+          "coords": [
+            5.726,
+            45.193
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Talstation an den Quais.",
+            "hu": "Völgyállomás a rakparton.",
+            "ro": "Stația de bază pe cheiuri.",
+            "en": "Base station on the quays."
+          }
+        },
+        {
+          "name": {
+            "de": "La Bastille",
+            "hu": "Bastille erőd",
+            "ro": "Cetatea Bastille",
+            "en": "La Bastille"
+          },
+          "coords": [
+            5.725,
+            45.199
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick.",
+            "hu": "Élvezze a kilátást.",
+            "ro": "Bucurați-vă de priveliște.",
+            "en": "Enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée dauphinois",
+            "hu": "Dauphinois Múzeum",
+            "ro": "Muzeul Dauphinois",
+            "en": "Musée dauphinois"
+          },
+          "coords": [
+            5.727,
+            45.195
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang hinunter zur Stadt.",
+            "hu": "Sétáljon le a városba.",
+            "ro": "Plimbare la vale spre oraș.",
+            "en": "Walk down back to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Straßenbahnnetzes (TAG) erreichen Sie alle Highlights mühelos. Entdecken Sie die Museen und den Parc Paul Mistral bequem mit der Tram, bevor Sie das Zentrum und die Bastille zu Fuß erkunden.",
+        "hu": "A kiváló villamoshálózatnak (TAG) köszönhetően minden látnivalót könnyen elérhet. Fedezze fel a múzeumokat és a Paul Mistral parkot villamossal, majd járja be a belvárost és a Bastille-t gyalogosan.",
+        "ro": "Datorită rețelei excelente de tramvai (TAG), ajungeți fără efort la toate punctele de atracție. Descoperiți muzeele și Parcul Paul Mistral cu tramvaiul, apoi explorați centrul și Bastille la pas.",
+        "en": "Thanks to the excellent tram network (TAG), you can reach all highlights effortlessly. Discover the museums and Parc Paul Mistral by tram, then explore the center and Bastille on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chartreuse",
+            "tip": "Probieren Sie den berühmten Kräuterlikör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chartreuse",
+            "tip": "Kóstolja meg a híres gyógynövénylikőrt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chartreuse",
+            "tip": "Gustați celebrul lichior de plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chartreuse",
+            "tip": "Taste the famous herbal liqueur."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastille-Gärten",
+            "tip": "Abseits der Massen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastille kertek",
+            "tip": "Távol a tömegtől.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Bastille",
+            "tip": "Departe de mulțime.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastille Gardens",
+            "tip": "Away from the crowds.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Poste",
+            "tip": "Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Poste",
+            "tip": "Butikok és boltok utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Poste",
+            "tip": "Boutique-uri și magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la Poste",
+            "tip": "Boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine TAG-Tageskarte.",
+          "Die Straßenbahnen fahren sehr häufig.",
+          "Validieren Sie Ihr Ticket vor dem Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon TAG napijegyet.",
+          "A villamosok nagyon gyakran járnak.",
+          "Érvényesítse jegyét felszállás előtt."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi TAG.",
+          "Tramvaiele circulă foarte frecvent.",
+          "Validați biletul înainte de urcare."
+        ],
+        "en": [
+          "Buy a TAG day pass.",
+          "Trams run very frequently.",
+          "Validate your ticket before boarding."
+        ]
+      }
+    }
+  }
+}

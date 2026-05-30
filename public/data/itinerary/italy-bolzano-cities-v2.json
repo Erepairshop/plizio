@@ -1,0 +1,1238 @@
+{
+  "city_id": "italy-bolzano-cities-v2",
+  "anchor": {
+    "name": "Waltherplatz",
+    "coords": [
+      11.3548,
+      46.4981
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Waltherplatz",
+          "coords": [
+            11.3548,
+            46.4981
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso im Schatten der Walther-von-der-Vogelweide-Statue.",
+            "hu": "Igyon egy eszpresszót Walther von der Vogelweide szobrának árnyékában.",
+            "ro": "Savurați un espresso la umbra statuii lui Walther von der Vogelweide.",
+            "en": "Enjoy an espresso in the shadow of the Walther von der Vogelweide statue."
+          }
+        },
+        {
+          "name": "Bozner Dom",
+          "coords": [
+            11.3538,
+            46.4975
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das bunt gedeckte Dach und die gotische Kanzel.",
+            "hu": "Csodálja meg a színes tetőcserepeket és a gótikus szószéket.",
+            "ro": "Admirați acoperișul colorat și amvonul gotic sculptat.",
+            "en": "Admire the colorful tiled roof and the intricate Gothic pulpit."
+          }
+        },
+        {
+          "name": "Obstmarkt",
+          "coords": [
+            11.353,
+            46.4995
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie lokalen Speck und Schüttelbrot direkt am Markt.",
+            "hu": "Kóstoljon helyi szalonnát és ropogós kenyeret (Schüttelbrot) a piacon.",
+            "ro": "Gustați speck local și pâine crocantă direct de la tarabe.",
+            "en": "Try local speck and Schüttelbrot directly at the market stalls."
+          }
+        },
+        {
+          "name": "Südtiroler Archäologiemuseum",
+          "coords": [
+            11.3488,
+            46.4998
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie Ötzi, die über 5000 Jahre alte Gletschermumie.",
+            "hu": "Látogassa meg Ötzit, az több mint 5000 éves gleccsermúmiát.",
+            "ro": "Vizitați-l pe Ötzi, omul ghețurilor vechi de peste 5000 de ani.",
+            "en": "Meet Ötzi, the world-famous copper age mummy found in the glacier."
+          }
+        },
+        {
+          "name": "Franziskanerkirche",
+          "coords": [
+            11.3525,
+            46.5002
+          ],
+          "category": "churches",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der gotische Kreuzgang bietet eine Oase der Ruhe in der Altstadt.",
+            "hu": "A gótikus keresztfolyosó a nyugalom szigete az óvárosban.",
+            "ro": "Claustrul gotic oferă o oază de liniște în centrul vechi.",
+            "en": "The Gothic cloister is a peaceful sanctuary in the heart of the old town."
+          }
+        },
+        {
+          "name": "Wirtshaus-Lunch",
+          "coords": [
+            11.351,
+            46.499
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie Südtiroler Knödel mit einem Glas Lagrein-Wein.",
+            "hu": "Élvezze a tiroli gombócokat egy pohár Lagrein vörösborral.",
+            "ro": "Savurați găluște tiroleze cu un pahar de vin roșu Lagrein.",
+            "en": "Savor South Tyrolean dumplings with a glass of local Lagrein wine."
+          }
+        },
+        {
+          "name": "Schloss Maretsch",
+          "coords": [
+            11.3505,
+            46.5025
+          ],
+          "category": "castles",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Weinberge und den Rosengarten im Hintergrund.",
+            "hu": "Élvezze a kilátást a szőlőültetvényekre és a háttérben lévő Rosengarten-hegyre.",
+            "ro": "Bucurați-vă de priveliștea spre podgorii și muntele Rosengarten.",
+            "en": "Enjoy views of the vineyards and the Rosengarten mountains in the background."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch das Herz Bozens. Wir beginnen am prächtigen Waltherplatz, besuchen den Dom und den lebhaften Obstmarkt. Nach dem faszinierenden Besuch bei Ötzi kehren wir in ein traditionelles Wirtshaus ein, um die Alpen-Adria-Küche zu genießen. Der Nachmittag endet ruhig bei Schloss Maretsch, umgeben von Weinreben und Berggipfeln.",
+        "hu": "Pihentető séta Bozen szívében. A Walther téren kezdünk, megnézzük a dómot és a nyüzsgő gyümölcspiacot. Ötzi, a jégember megtekintése után egy hagyományos fogadóban kóstoljuk meg a dél-tiroli konyhát. A délután csendesen ér véget a Maretsch-kastélynál, szőlőskerttel és hegycsúcsokkal övezve.",
+        "ro": "O plimbare relaxantă prin inima orașului Bolzano. Începem în Waltherplatz, vizităm Domul și piața de fructe plină de viață. După fascinanta întâlnire cu Ötzi, ne oprim la un han tradițional pentru bucătăria locală. După-amiaza se încheie liniștit la Castelul Maretsch, înconjurat de vii și creste muntoase.",
+        "en": "A relaxed walk through the heart of Bolzano. We start at Waltherplatz, visit the Cathedral and the lively fruit market. After the fascinating visit to Ötzi, we stop at a traditional tavern for local South Tyrolean cuisine. The afternoon ends peacefully at Maretsch Castle, surrounded by vineyards and Alpine peaks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wirtshaus Vögele",
+            "tip": "Traditionelles Ambiente mit hervorragenden Schlutzkrapfen."
+          },
+          {
+            "name": "Batzen Häusl",
+            "tip": "Uriges Gasthaus mit eigenem Bier und deftigen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wirtshaus Vögele",
+            "tip": "Hagyományos hangulat kiváló tiroli töltött tésztával."
+          },
+          {
+            "name": "Batzen Häusl",
+            "tip": "Patinás vendéglő saját sörrel és bőséges fogásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wirtshaus Vögele",
+            "tip": "Ambiantă tradițională cu ravioli tirolezi excelenți."
+          },
+          {
+            "name": "Batzen Häusl",
+            "tip": "Han istoric cu bere proprie și preparate consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wirtshaus Vögele",
+            "tip": "Historic setting serving excellent Schlutzkrapfen pasta."
+          },
+          {
+            "name": "Batzen Häusl",
+            "tip": "Rustic brewery house with craft beer and local staples."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talferwiesen",
+            "tip": "Weitläufige Parkanlage am Fluss für eine Pause im Grünen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maretsch-Garten",
+            "tip": "Ruhiger Platz direkt vor dem Schloss mit Blick auf Weinberge.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talferwiesen",
+            "tip": "Hatalmas folyóparti park zöld övezettel a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maretsch kert",
+            "tip": "Csendes hely a kastély előtt, kilátással a szőlőkre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Talferwiesen",
+            "tip": "Parc vast de-a lungul râului pentru o pauză în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Maretsch",
+            "tip": "Loc liniștit lângă castel cu vedere spre vii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Talferwiesen",
+            "tip": "Expansive riverside park perfect for a green escape.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maretsch Gardens",
+            "tip": "Serene spot in front of the castle facing vineyards.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bozner Lauben",
+            "tip": "Elegante Arkaden mit exklusiven Modegeschäften und Feinkost."
+          },
+          {
+            "name": "Loacker Store",
+            "tip": "Berühmte Südtiroler Waffeln und Schokolade direkt am Waltherplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bozner Lauben",
+            "tip": "Elegáns árkádok divatüzletekkel és csemegeboltokkal."
+          },
+          {
+            "name": "Loacker Store",
+            "tip": "Híres dél-tiroli ostyák és csokoládék a Walther téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bozner Lauben",
+            "tip": "Arcade elegante cu magazine de modă și delicatese."
+          },
+          {
+            "name": "Loacker Store",
+            "tip": "Celebrele napolitane tiroleze direct în Waltherplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bozen Arcades",
+            "tip": "Elegant medieval arcades with high-end boutiques."
+          },
+          {
+            "name": "Loacker Store",
+            "tip": "Famous South Tyrolean wafers and chocolate near the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bozen ist zweisprachig – wundern Sie sich nicht über italienische und deutsche Namen.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "In der Mittagshitze bieten die Lauben angenehmen Schatten."
+        ],
+        "hu": [
+          "Bozen kétnyelvű – ne lepődjön meg az olasz és német neveken.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Déli hőségben az árkádok (Lauben) kellemes árnyékot adnak."
+        ],
+        "ro": [
+          "Bolzano este bilingv – nu vă mirați de numele în italiană și germană.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+          "În arșița amiezii, arcadele (Lauben) oferă o umbră plăcută."
+        ],
+        "en": [
+          "Bolzano is bilingual – don't be surprised by Italian and German signage.",
+          "Most museums are closed on Mondays.",
+          "Wear comfortable walking shoes for the cobblestone streets.",
+          "The medieval arcades provide great shade during the midday sun."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Waltherplatz",
+          "coords": [
+            11.3548,
+            46.4981
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am zentralen Treffpunkt der Stadt.",
+            "hu": "Kezdje a túrát a város központi találkozóhelyén.",
+            "ro": "Începeți turul în principalul punct de întâlnire al orașului.",
+            "en": "Start your cycling tour at the city's central meeting point."
+          }
+        },
+        {
+          "name": "Rittner Seilbahn Station",
+          "coords": [
+            11.3595,
+            46.4995
+          ],
+          "category": "natural features",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder kurz ab für einen schnellen Blick auf die Dolomiten.",
+            "hu": "Tegye le a bringát egy pillanatra a Dolomitok panorámájáért.",
+            "ro": "Lăsați bicicletele un moment pentru o privire rapidă spre Dolomiți.",
+            "en": "Park your bike for a moment to catch a glimpse of the Dolomites."
+          }
+        },
+        {
+          "name": "Schloss Maretsch",
+          "coords": [
+            11.3505,
+            46.5025
+          ],
+          "category": "castles",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt durch die idyllischen Weinberge.",
+            "hu": "A kerékpárút közvetlenül az idilli szőlőskerteken át vezet.",
+            "ro": "Pista de biciclete trece direct prin podgoriile idilice.",
+            "en": "The bike path leads you directly through the idyllic vineyards."
+          }
+        },
+        {
+          "name": "Schloss Runkelstein",
+          "coords": [
+            11.3485,
+            46.5175
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die 'Bilderburg' beherbergt die größten profanen Freskenzyklen des Mittelalters.",
+            "hu": "A 'Képes vár' a középkor legnagyobb világi freskóciklusának ad otthont.",
+            "ro": "Supranumit 'Castelul Ilustrat', găzduiește cele mai mari fresce medievale laice.",
+            "en": "Known as the 'Illustrated Castle', it hosts a massive cycle of medieval frescoes."
+          }
+        },
+        {
+          "name": "Talferwiesen Picknick",
+          "coords": [
+            11.3475,
+            46.5015
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine Pause im grünen Herzen Bozens direkt am Fluss Talfer.",
+            "hu": "Pihenő Bozen zöld szívében, közvetlenül a Talfer-folyó partján.",
+            "ro": "O pauză în inima verde a orașului, pe malul râului Talfer.",
+            "en": "A break in Bolzano's green lung, right along the Talfer river."
+          }
+        },
+        {
+          "name": "Siegesdenkmal",
+          "coords": [
+            11.3445,
+            46.4998
+          ],
+          "category": "monuments",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein historisch wichtiges Monument zur modernen Geschichte der Stadt.",
+            "hu": "Történelmileg fontos emlékmű a város modern kori múltjáról.",
+            "ro": "Un monument istoric important despre istoria modernă a orașului.",
+            "en": "A historically significant monument regarding the city's modern history."
+          }
+        },
+        {
+          "name": "Obstmarkt Snack",
+          "coords": [
+            11.353,
+            46.4995
+          ],
+          "category": "squares",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit frischem Obst oder einem Saft am Markt.",
+            "hu": "Zárja a túrát friss gyümölccsel vagy egy gyümölcslével a piacon.",
+            "ro": "Încheiați turul cu fructe proaspete sau un suc natural în piață.",
+            "en": "Finish your ride with fresh fruit or a juice at the market stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bozen ist eine Radfahrerstadt. Diese Route führt uns vom Zentrum über die Seilbahnstation zu den Weinhängen von Schloss Maretsch. Über den landschaftlich reizvollen Talfer-Radweg erreichen wir Schloss Runkelstein. Nach einer Entspannungspause in den Talferwiesen sehen wir das Siegesdenkmal und kehren zum Obstmarkt zurück.",
+        "hu": "Bozen a kerékpárosok városa. Ez az útvonal a központból indulva érinti a felvonó állomását, majd a Maretsch-kastély szőlőskertjeit. A látványos Talfer-kerékpárúton jutunk el a Runkelstein-várhoz. Egy folyóparti pihenő után érintjük a Győzelmi emlékművet, majd a gyümölcspiacon fejezzük be a napot.",
+        "ro": "Bolzano este un oraș al bicicliștilor. Traseul ne poartă din centru pe lângă telecabină spre viile Castelului Maretsch. Pe pista pitorească de-a lungul râului Talfer ajungem la Castelul Runkelstein. După o pauză în parc, trecem pe la Monumentul Victoriei și revenim în Piața de Fructe.",
+        "en": "Bolzano is a cycling city. This route takes us from the center past the cable car station to the vineyards of Maretsch Castle. Following the scenic Talfer river path, we reach Runkelstein Castle. After a relaxing break in the riverside park, we visit the Victory Monument and return to the fruit market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burgschänke Runkelstein",
+            "tip": "Einkehren direkt auf der Burg mit mittelalterlichem Flair."
+          },
+          {
+            "name": "Loacker Cafe",
+            "tip": "Perfekter Zwischenstopp für einen schnellen Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgschänke Runkelstein",
+            "tip": "Vendéglő közvetlenül a várban, középkori hangulatban."
+          },
+          {
+            "name": "Loacker Cafe",
+            "tip": "Tökéletes megálló egy gyors eszpresszóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burgschänke Runkelstein",
+            "tip": "Han aflat chiar în castel cu atmosferă medievală."
+          },
+          {
+            "name": "Loacker Cafe",
+            "tip": "Oprire ideală pentru un espresso rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Runkelstein Castle Tavern",
+            "tip": "Dine right inside the castle with a medieval vibe."
+          },
+          {
+            "name": "Loacker Cafe",
+            "tip": "The perfect stop for a quick high-quality coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talferwiesen Promenade",
+            "tip": "Schattenreiche Wege entlang des Wassers.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Burginnenhof Runkelstein",
+            "tip": "Stille Zeugen der Ritterzeit fernab vom Verkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talferwiesen sétány",
+            "tip": "Árnyas utak a víz mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Runkelstein belső udvara",
+            "tip": "A lovagkor csendes tanúi messze a forgalomtól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Talferwiesen",
+            "tip": "Alei umbroase de-a lungul cursului de apă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea interioară Runkelstein",
+            "tip": "Liniște medievală departe de zgomotul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Talfer Promenade",
+            "tip": "Shaded paths along the riverbank.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Runkelstein Courtyard",
+            "tip": "Quiet medieval atmosphere far from traffic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportler Bozen",
+            "tip": "Südtirols größte Auswahl für Outdoor- und Radsport."
+          },
+          {
+            "name": "Pur Südtirol",
+            "tip": "Regionaler Bauernmarkt mit besten lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportler Bozen",
+            "tip": "Dél-Tirol legnagyobb szabadtéri és kerékpáros sportboltja."
+          },
+          {
+            "name": "Pur Südtirol",
+            "tip": "Regionális termelői piac a legjobb helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sportler Bolzano",
+            "tip": "Cea mai mare selecție din Tirol pentru outdoor și ciclism."
+          },
+          {
+            "name": "Pur Südtirol",
+            "tip": "Piață cu cele mai bune produse locale și artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sportler Bolzano",
+            "tip": "The best place for outdoor and cycling gear in the region."
+          },
+          {
+            "name": "Pur Südtirol",
+            "tip": "High-end regional market with the best local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bozen hat ein exzellentes Netz an Radwegen.",
+          "Nutzen Sie die Radstation am Bahnhof für Mieträder.",
+          "Fahren Sie rücksichtsvoll auf den gemischten Wegen in den Talferwiesen.",
+          "Ein Schloss am Rad ist in der Stadt obligatorisch."
+        ],
+        "hu": [
+          "Bozen kiváló kerékpárút-hálózattal rendelkezik.",
+          "Használja a vasútállomás melletti bringakölcsönzőt.",
+          "Közlekedjen figyelmesen a Talferwiesen vegyes használatú útjain.",
+          "A városban a biciklizár használata kötelező."
+        ],
+        "ro": [
+          "Bolzano are o rețea excelentă de piste de biciclete.",
+          "Folosiți centrul de închiriere de la gară.",
+          "Conduceți cu atenție pe aleile mixte din parcul Talfer.",
+          "Un sistem antifurt este obligatoriu în oraș."
+        ],
+        "en": [
+          "Bolzano has an excellent and safe bicycle lane network.",
+          "Check the bike rental station right at the train station.",
+          "Be mindful of pedestrians on shared paths in the parks.",
+          "Always lock your bike when parking in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cluster A: Waltherplatz",
+          "coords": [
+            11.3548,
+            46.4981
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage Waltherplatz direkt im Zentrum.",
+            "hu": "Parkoljon a Walther tér alatti mélygarázsban, közvetlenül a központban.",
+            "ro": "Parcați în parcarea subterană Waltherplatz, direct în centru.",
+            "en": "Park at the Waltherplatz underground garage for direct city access."
+          }
+        },
+        {
+          "name": "Cluster A: Bozner Dom",
+          "coords": [
+            11.3538,
+            46.4975
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar. Sehenswert: der Domschatz.",
+            "hu": "Gyalogosan elérhető a parkolótól. Érdemes megnézni a dómkincstárat.",
+            "ro": "Accesibil pe jos din parcare. De văzut: Tezaurul Domului.",
+            "en": "Short walk from the garage. Don't miss the cathedral treasury."
+          }
+        },
+        {
+          "name": "Cluster A: Obstmarkt",
+          "coords": [
+            11.353,
+            46.4995
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die bunten Stände der Altstadt zu Fuß.",
+            "hu": "Fedezze fel gyalog az óváros színes standjait.",
+            "ro": "Explorați pe jos tarabele colorate din centrul vechi.",
+            "en": "Explore the colorful market stalls of the old town on foot."
+          }
+        },
+        {
+          "name": "Cluster A: Mittagessen",
+          "coords": [
+            11.352,
+            46.4985
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Südtiroler Küche, bevor es zum nächsten Cluster geht.",
+            "hu": "Élvezze a dél-tiroli konyhát, mielőtt a következő városrészbe indul.",
+            "ro": "Savurați bucătăria tiroleză înainte de a pleca spre următorul district.",
+            "en": "Enjoy local cuisine before driving to the next cluster."
+          }
+        },
+        {
+          "name": "Cluster B: Schloss Runkelstein",
+          "coords": [
+            11.3485,
+            46.5175
+          ],
+          "category": "castles",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Norden. Parkplatz direkt unter der Burg vorhanden.",
+            "hu": "Rövid autóút északra. Parkoló közvetlenül a vár alatt található.",
+            "ro": "Scurt drum spre nord. Parcare disponibilă chiar sub castel.",
+            "en": "Short drive north. There is a parking lot right below the castle."
+          }
+        },
+        {
+          "name": "Cluster B: Schloss Maretsch",
+          "coords": [
+            11.3505,
+            46.5025
+          ],
+          "category": "castles",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zurück Richtung Zentrum, Parken am Stadtrand möglich.",
+            "hu": "Visszautazás a központ felé, parkolás a város szélén lehetséges.",
+            "ro": "Întoarcere spre centru, parcare posibilă la marginea zonei pietonale.",
+            "en": "Drive back towards the center, park near the pedestrian zone edge."
+          }
+        },
+        {
+          "name": "Cluster C: Rittner Seilbahn",
+          "coords": [
+            11.3595,
+            46.4995
+          ],
+          "category": "natural features",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkhaus direkt an der Talstation für die Fahrt auf den Ritten.",
+            "hu": "Parkolóház közvetlenül a völgyállomásnál a Ritten-hegyi utazáshoz.",
+            "ro": "Parcare chiar la stația de bază pentru urcarea pe platoul Ritten.",
+            "en": "Parking garage available at the base station for the cable car ride."
+          }
+        },
+        {
+          "name": "Cluster C: Siegesdenkmal",
+          "coords": [
+            11.3445,
+            46.4998
+          ],
+          "category": "monuments",
+          "arrive_at": "17:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Abschluss der Tour im modernen Stadtteil jenseits der Talfer.",
+            "hu": "A túra lezárása a Talfer-folyón túli modern városrészben.",
+            "ro": "Finalul turului în zona modernă de peste râul Talfer.",
+            "en": "Final stop in the modern district across the Talfer river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das historische Zentrum mit den umliegenden Highlights. Wir parken zentral am Waltherplatz für die Altstadt-Cluster. Danach fahren wir nördlich zur beeindruckenden Burg Runkelstein. Den Nachmittag nutzen wir für Schloss Maretsch und eine Fahrt mit der Rittner Seilbahn, bevor wir den Tag am Siegesdenkmal ausklingen lassen.",
+        "hu": "Ez az autós túra ötvözi a történelmi központot a környék nevezetességeivel. A Walther téren parkolunk az óvárosi részhez, majd északra hajtunk a lenyűgöző Runkelstein-várhoz. A délutánt a Maretsch-kastélynak és a ritteni felvonónak szenteljük, végül a Győzelmi emlékműnél zárjuk a napot.",
+        "ro": "Acest tur cu mașina combină centrul istoric cu atracțiile limitrofe. Parcăm central în Waltherplatz pentru districtul vechi. Apoi conducem spre nord la impresionantul Castel Runkelstein. După-amiaza vizităm Castelul Maretsch și urcăm cu telecabina Ritten, încheind ziua la Monumentul Victoriei.",
+        "en": "This driving tour combines the historic core with surrounding highlights. Park centrally at Waltherplatz to explore the old town cluster on foot. Then, drive north to the impressive Runkelstein Castle. Spend the afternoon at Maretsch Castle and take the Ritten cable car before finishing at the Victory Monument."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haselburg",
+            "tip": "Exzellentes Restaurant über der Stadt mit Panoramablick."
+          },
+          {
+            "name": "Franziskaner Stuben",
+            "tip": "Gehobene Südtiroler Küche in historischem Gemäuer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haselburg",
+            "tip": "Kiváló étterem a város felett, panorámás kilátással."
+          },
+          {
+            "name": "Franziskaner Stuben",
+            "tip": "Színvonalas dél-tiroli konyha történelmi falak között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haselburg",
+            "tip": "Restaurant excelent deasupra orașului cu vedere panoramică."
+          },
+          {
+            "name": "Franziskaner Stuben",
+            "tip": "Bucătărie tiroleză rafinată într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haselburg",
+            "tip": "Excellent restaurant above the city with panoramic views."
+          },
+          {
+            "name": "Franziskaner Stuben",
+            "tip": "High-end South Tyrolean cuisine in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ritten Plateau",
+            "tip": "Frische Bergluft und Ruhe nach der Seilbahnfahrt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schloss Runkelstein Garten",
+            "tip": "Abgelegene Winkel innerhalb der Burgmauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ritten-fennsík",
+            "tip": "Friss hegyi levegő és nyugalom a felvonó után.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Runkelstein várkert",
+            "tip": "Elszigetelt zugok a várfalakon belül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Ritten",
+            "tip": "Aer curat de munte și liniște după drumul cu telecabina.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Castelului Runkelstein",
+            "tip": "Unghiuri retrase între zidurile cetății.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ritten Plateau",
+            "tip": "Fresh mountain air and peace after the cable car ride.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Runkelstein Castle Garden",
+            "tip": "Secluded corners within the castle walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Twenty Shopping Center",
+            "tip": "Großes Einkaufszentrum am Stadtrand mit Parkplätzen."
+          },
+          {
+            "name": "Oberrauch Zitt",
+            "tip": "Traditionelles Modehaus für hochwertige Trachten und Loden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Twenty Shopping Center",
+            "tip": "Nagy bevásárlóközpont a város szélén, saját parkolóval."
+          },
+          {
+            "name": "Oberrauch Zitt",
+            "tip": "Hagyományos divatház kiváló minőségű tiroli népviselettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Twenty Shopping Center",
+            "tip": "Centru comercial mare la marginea orașului cu parcare facilă."
+          },
+          {
+            "name": "Oberrauch Zitt",
+            "tip": "Casă de modă tradițională pentru costume tiroleze de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Twenty Shopping Center",
+            "tip": "Large mall on the outskirts with easy parking access."
+          },
+          {
+            "name": "Oberrauch Zitt",
+            "tip": "Traditional fashion house for high-quality local attire."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist verkehrsberuhigt (ZTL) – achten Sie auf Verbotsschilder.",
+          "Nutzen Sie die großen Parkhäuser (Walther, BZ Mitte).",
+          "Fahren Sie auf den Ritten für eine spektakuläre Aussicht auf die Dolomiten.",
+          "Parkgebühren im Zentrum können recht hoch sein."
+        ],
+        "hu": [
+          "A városközpont korlátozott forgalmú övezet (ZTL) – figyeljen a behajtani tilos táblákra.",
+          "Használja a nagy parkolóházakat (Walther, BZ Mitte).",
+          "Menjen fel a Ritten-fennsíkra a Dolomitokra nyíló pazar kilátásért.",
+          "A központi parkolási díjak elég magasak lehetnek."
+        ],
+        "ro": [
+          "Centrul orașului este zonă cu trafic limitat (ZTL) – atenție la semnele de interdicție.",
+          "Folosiți parcările mari amenajate (Walther, BZ Mitte).",
+          "Urcați pe platoul Ritten pentru o vedere spectaculoasă spre Dolomiți.",
+          "Tarifele de parcare în centru pot fi destul de ridicate."
+        ],
+        "en": [
+          "The city center is a Restricted Traffic Zone (ZTL) – watch out for warning signs.",
+          "Stick to large parking garages like Walther or BZ Mitte.",
+          "Drive to the cable car and head up to Ritten for stunning Dolomite views.",
+          "Parking fees in the center are relatively expensive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "District A: Waltherplatz",
+          "coords": [
+            11.3548,
+            46.4981
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hauptknotenpunkt für viele Buslinien direkt am Bahnhofsnähe.",
+            "hu": "Számos buszjárat központi csomópontja a vasútállomás közelében.",
+            "ro": "Principalul nod pentru liniile de autobuz, situat lângă gară.",
+            "en": "Central hub for many bus lines located right near the train station."
+          }
+        },
+        {
+          "name": "District A: Bozner Dom",
+          "coords": [
+            11.3538,
+            46.4975
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Waltherplatz.",
+            "hu": "Rövid séta a Walther térről.",
+            "ro": "Scurtă plimbare din Waltherplatz.",
+            "en": "Short walking distance from Waltherplatz."
+          }
+        },
+        {
+          "name": "District B: Archäologiemuseum",
+          "coords": [
+            11.3488,
+            46.4998
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus bis zur Haltestelle Museumstraße.",
+            "hu": "Szálljon buszra a Museumstraße megállóig.",
+            "ro": "Luați autobuzul până la stația Museumstraße.",
+            "en": "Take the bus to the Museumstraße stop."
+          }
+        },
+        {
+          "name": "District B: Museion",
+          "coords": [
+            11.3475,
+            46.4985
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in einem spektakulären Glasbau (zu Fuß erreichbar).",
+            "hu": "Kortárs művészet látványos üvegépületben (gyalogosan elérhető).",
+            "ro": "Artă contemporană într-o clădire spectaculoasă de sticlă (accesibil pe jos).",
+            "en": "Contemporary art in a stunning glass building (walking distance)."
+          }
+        },
+        {
+          "name": "District C: Schloss Runkelstein",
+          "coords": [
+            11.3485,
+            46.5175
+          ],
+          "category": "castles",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Buslinie 12 bringt Sie direkt zum Fuß der Burg.",
+            "hu": "A 12-es buszjárat közvetlenül a vár lábához viszi.",
+            "ro": "Linia 12 de autobuz vă duce direct la baza castelului.",
+            "en": "Bus line 12 takes you directly to the foot of the castle."
+          }
+        },
+        {
+          "name": "District A: Obstmarkt",
+          "coords": [
+            11.353,
+            46.4995
+          ],
+          "category": "squares",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Bus ins Zentrum für den späten Marktbesuch.",
+            "hu": "Visszautazás busszal a központba egy késői piaci látogatásra.",
+            "ro": "Retur cu autobuzul în centru pentru o vizită târzie în piață.",
+            "en": "Return by bus to the center for a late market visit."
+          }
+        },
+        {
+          "name": "District A: Waltherplatz Ausklang",
+          "coords": [
+            11.3548,
+            46.4981
+          ],
+          "category": "squares",
+          "arrive_at": "17:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Kaffee oder Aperitif am Hauptplatz.",
+            "hu": "Utolsó kávé vagy aperitif a főtéren.",
+            "ro": "O ultimă cafea sau un aperitiv în piața principală.",
+            "en": "Final coffee or aperitif at the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bozens öffentliches Verkehrsnetz ist effizient und sauber. Wir starten am zentralen Waltherplatz und nutzen die Stadtbusse, um zwischen dem Museumsdistrikt und dem nördlich gelegenen Schloss Runkelstein zu pendeln. Innerhalb der Stadtteile erkunden wir die Sehenswürdigkeiten bequem zu Fuß.",
+        "hu": "Bozen tömegközlekedési hálózata hatékony és tiszta. A központi Walther téren kezdünk, és városi buszokkal ingázunk a múzeumi negyed és az északon fekvő Runkelstein-vár között. Az egyes városrészeken belül gyalogosan fedezzük fel a látnivalókat.",
+        "ro": "Rețeaua de transport public din Bolzano este eficientă și curată. Începem în Waltherplatz și folosim autobuzele urbane pentru a naviga între districtul muzeelor și Castelul Runkelstein situat la nord. În interiorul fiecărei zone, explorăm atracțiile pe jos.",
+        "en": "Bolzano's public transit system is efficient and clean. Starting at Waltherplatz, we use city buses to shuttle between the museum district and Runkelstein Castle in the north. Within each district, we explore the main sights comfortably on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hopfen & Co.",
+            "tip": "Wirtshausbrauerei direkt am Obstmarkt mit hausgemachter Pasta."
+          },
+          {
+            "name": "Pizzeria Walthers",
+            "tip": "Beste Pizza direkt am Hauptplatz mit Blick auf den Dom."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hopfen & Co.",
+            "tip": "Sörfőzde-étterem a gyümölcspiacon házi készítésű tésztákkal."
+          },
+          {
+            "name": "Pizzeria Walthers",
+            "tip": "Kiváló pizza a főtéren, kilátással a dómra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hopfen & Co.",
+            "tip": "Berărie-restaurant în Piața de Fructe cu paste de casă."
+          },
+          {
+            "name": "Pizzeria Walthers",
+            "tip": "Cea mai bună pizza din piața principală cu vedere la Dom."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hopfen & Co.",
+            "tip": "Brewery tavern at the market serving great homemade pasta."
+          },
+          {
+            "name": "Pizzeria Walthers",
+            "tip": "Top-tier pizza at the main square with views of the Cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museion Passage",
+            "tip": "Moderne Architektur und Ruhe am Ufer der Talfer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Franziskaner-Kreuzgang",
+            "tip": "Besinnliche Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Museion átjáró",
+            "tip": "Modern építészet és nyugalom a Talfer partján.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ferences keresztfolyosó",
+            "tip": "Meghitt csend a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul Museion",
+            "tip": "Arhitectură modernă și liniște pe malul râului Talfer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Claustrul Franciscan",
+            "tip": "Liniște meditativă în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museion Passage",
+            "tip": "Modern architecture meets riverside serenity.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Franciscan Cloister",
+            "tip": "Contemplative silence in the very heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Selis Feinkost",
+            "tip": "Südtiroler Spezialitäten zum Mitnehmen."
+          },
+          {
+            "name": "Globus",
+            "tip": "Traditionelles Kaufhaus mit Fokus auf Mode und Qualität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Selis Feinkost",
+            "tip": "Dél-tiroli ételkülönlegességek elvitelre."
+          },
+          {
+            "name": "Globus",
+            "tip": "Hagyományos áruház a minőségi divat jegyében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Selis Feinkost",
+            "tip": "Specialități tiroleze ideale pentru cadouri."
+          },
+          {
+            "name": "Globus",
+            "tip": "Magazin universal tradițional axat pe modă de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Selis Delicatessen",
+            "tip": "The best place to buy local South Tyrolean specialties."
+          },
+          {
+            "name": "Globus",
+            "tip": "A traditional department store with a focus on quality fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Bozen Card für kostenlose Nutzung aller Verkehrsmittel.",
+          "Busse fahren pünktlich und regelmäßig.",
+          "Die Fahrpläne hängen an jeder Haltestelle aus.",
+          "Zahlen Sie kontaktlos im Bus oder kaufen Sie Tickets am Automaten."
+        ],
+        "hu": [
+          "Vásároljon Bozen Card-ot az összes közlekedési eszköz ingyenes használatához.",
+          "A buszok pontosak és gyakran járnak.",
+          "A menetrendek minden megállóban ki vannak függesztve.",
+          "Fizessen érintésmentesen a buszon vagy vegyen jegyet az automatából."
+        ],
+        "ro": [
+          "Cumpărați Bozen Card pentru utilizarea gratuită a transportului public.",
+          "Autobuzele sunt punctuale și circulă frecvent.",
+          "Orarele sunt afișate în fiecare stație.",
+          "Plătiți contactless în autobuz sau cumpărați bilete de la automate."
+        ],
+        "en": [
+          "Get the Bozen Card for free access to all public transportation.",
+          "City buses are punctual and run on a frequent schedule.",
+          "Timetables are clearly displayed at every bus stop.",
+          "Use contactless payment on the bus or buy tickets at the kiosks."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "city_id": "rochefort",
+  "anchor": {
+    "name": "Rochefort",
+    "coords": [
+      -0.957,
+      45.943
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Colbert",
+          "coords": [
+            -0.9612,
+            45.9378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee auf dem berühmten Platz aus dem Film 'Die Mädchen von Rochefort'.",
+            "hu": "Igyon egy kávét a híres téren, ahol a 'Rochefort-i lányok' filmet forgatták.",
+            "ro": "Savurați o cafea în celebra piață din filmul 'Domnișoarele din Rochefort'.",
+            "en": "Enjoy a coffee in the famous square from the film 'The Young Ladies of Rochefort'."
+          }
+        },
+        {
+          "name": "Haus von Pierre Loti",
+          "coords": [
+            -0.9625,
+            45.9365
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein exotisches Haus, das die Reisen des berühmten Schriftstellers widerspiegelt.",
+            "hu": "Egy egzotikus ház, amely a híres író utazásait tükrözi.",
+            "ro": "O casă exotică ce reflectă călătoriile celebrului scriitor.",
+            "en": "An exotic house reflecting the travels of the famous writer."
+          }
+        },
+        {
+          "name": "Garten der Rückkehr",
+          "coords": [
+            -0.9575,
+            45.9405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen Garten, der an die Expeditionen der Marine erinnert.",
+            "hu": "Sétáljon ebben a kertben, amely a tengerészeti expedíciókra emlékeztet.",
+            "ro": "Plimbați-vă prin această grădină care amintește de expedițiile marinei.",
+            "en": "Stroll through this garden that recalls naval expeditions."
+          }
+        },
+        {
+          "name": "Corderie Royale",
+          "coords": [
+            -0.9568,
+            45.9398
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 95,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die beeindruckende 374 Meter lange Seilerei aus dem 17. Jahrhundert.",
+            "hu": "A lenyűgöző, 374 méter hosszú kötélverőde a 17. századból.",
+            "ro": "Impresionanta frânghierie de 374 de metri lungime din secolul al XVII-lea.",
+            "en": "The impressive 374-meter long rope factory from the 17th century."
+          }
+        },
+        {
+          "name": "Marinemuseum",
+          "coords": [
+            -0.9585,
+            45.9422
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des Arsenals von Rochefort.",
+            "hu": "Fedezze fel a rochefort-i arzenál történetét.",
+            "ro": "Descoperiți istoria arsenalului din Rochefort.",
+            "en": "Discover the history of the Rochefort arsenal."
+          }
+        },
+        {
+          "name": "L'Hermione",
+          "coords": [
+            -0.9545,
+            45.9428
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Nachbildung der berühmten Fregatte von Lafayette.",
+            "hu": "Látogasson el Lafayette híres fregattjának másolatához.",
+            "ro": "Vizitați replica celebrei fregate a lui Lafayette.",
+            "en": "Visit the replica of Lafayette's famous frigate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie im Stadtzentrum auf dem Place Colbert in die Atmosphäre des 17. Jahrhunderts ein. Mittags erkunden Sie die prächtige Corderie Royale am Ufer der Charente. Nachmittags widmen Sie sich der maritimen Geschichte im Marinemuseum und bewundern das Abenteuer der Hermione. Der Abend klingt entspannt am Hafen aus, umgeben von der Geschichte der französischen Marine.",
+        "hu": "Reggel a Place Colbert-en merüljön el a 17. századi hangulatban. Délben fedezze fel a pompás Corderie Royale-t a Charente partján. Délután szentelje idejét a tengerészeti történelemnek a Marinemuseumban, és csodálja meg a Hermione fregatt kalandjait. Az este pihentetően telik a kikötőben, a francia haditengerészet történelmével körülvéve.",
+        "ro": "Dimineața, în Place Colbert, scufundați-vă în atmosfera secolului al XVII-lea. La prânz, explorați splendida Corderie Royale pe malul râului Charente. După-amiaza, dedicați-vă istoriei maritime la Marinemuseum și admirați aventura fregatei Hermione. Seara se încheie relaxant în port, înconjurat de istoria marinei franceze.",
+        "en": "In the morning, immerse yourself in the 17th-century atmosphere at Place Colbert. At noon, explore the magnificent Corderie Royale on the banks of the Charente. In the afternoon, dedicate your time to maritime history at the Marinemuseum and admire the adventure of the Hermione. The evening ends relaxingly at the harbor, surrounded by French naval history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mouclade Charentaise",
+            "tip": "Miesmuscheln in einer cremigen Curry-Sahne-Sauce."
+          },
+          {
+            "name": "Jonchée",
+            "tip": "Ein traditioneller Frischkäse, serviert auf Schilfmatten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mouclade Charentaise",
+            "tip": "Feketekagyló krémes curry-s tejszínes mártásban."
+          },
+          {
+            "name": "Jonchée",
+            "tip": "Hagyományos friss sajt, sásfonaton tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mouclade Charentaise",
+            "tip": "Midii într-un sos cremos de smântână și curry."
+          },
+          {
+            "name": "Jonchée",
+            "tip": "O brânză proaspătă tradițională, servită pe rogojini de trestie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mouclade Charentaise",
+            "tip": "Mussels in a creamy curry and cream sauce."
+          },
+          {
+            "name": "Jonchée",
+            "tip": "A traditional fresh cheese served on rush mats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Charente-Ufer",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Charente-part",
+            "tip": "Egy csendes séta a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Charente",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Charente Banks",
+            "tip": "A quiet stroll along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Rochefort",
+            "tip": "Einer der größten Märkte der Region (Di, Do, Sa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rochefort-i piac",
+            "tip": "A régió egyik legnagyobb piaca (K, Cs, Szo)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Rochefort",
+            "tip": "Una dintre cele mai mari piețe din regiune (Ma, Jo, Sâ)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rochefort Market",
+            "tip": "One of the largest markets in the region (Tue, Thu, Sat)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rochefort ist flach und ideal zum Wandern.",
+          "Besuchen Sie das Fremdenverkehrsamt für Kombi-Tickets für die Museen.",
+          "Die Corderie Royale bietet im Sommer Abendführungen an."
+        ],
+        "hu": [
+          "Rochefort sík terepe ideális a gyalogos felfedezéshez.",
+          "Kérjen kombinált jegyet a múzeumokba a turisztikai irodában.",
+          "A Corderie Royale nyáron esti vezetett túrákat is kínál."
+        ],
+        "ro": [
+          "Rochefort este plat și ideal pentru mersul pe jos.",
+          "Cereți bilete combinate pentru muzee la biroul de turism.",
+          "Corderie Royale oferă tururi ghidate de seară în timpul verii."
+        ],
+        "en": [
+          "Rochefort is flat and ideal for walking.",
+          "Ask for combo tickets for the museums at the tourist office.",
+          "The Corderie Royale offers evening guided tours in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Colbert",
+          "coords": [
+            -0.9612,
+            45.9378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt.",
+            "hu": "Központi találkozóhely.",
+            "ro": "Punct central de întâlnire.",
+            "en": "Central meeting point."
+          }
+        },
+        {
+          "name": "Corderie Royale",
+          "coords": [
+            -0.9568,
+            45.9398
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einzigartige Architektur.",
+            "hu": "Egyedülálló építészet.",
+            "ro": "Arhitectură unică.",
+            "en": "Unique architecture."
+          }
+        },
+        {
+          "name": "L'Hermione",
+          "coords": [
+            -0.9545,
+            45.9428
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Stück lebendige Geschichte.",
+            "hu": "Egy darab élő történelem.",
+            "ro": "O parte din istoria vie.",
+            "en": "A piece of living history."
+          }
+        },
+        {
+          "name": "Schwebefähre",
+          "coords": [
+            -0.9595,
+            45.9145
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Charente mit der letzten Schwebefähre Frankreichs.",
+            "hu": "Keljen át a Charente-on Franciaország utolsó lebegő hídján.",
+            "ro": "Traversați Charente cu ultimul pod transbordor din Franța.",
+            "en": "Cross the Charente with the last transporter bridge in France."
+          }
+        },
+        {
+          "name": "Marinefliegermuseum",
+          "coords": [
+            -0.9845,
+            45.9285
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Flugzeuge und Hubschrauber der Marine.",
+            "hu": "A haditengerészet repülőgépei és helikopterei.",
+            "ro": "Avioane și elicoptere ale marinei.",
+            "en": "Naval aircraft and helicopters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie das Arsenal und fahren dann entlang des Flusses zur spektakulären Schwebefähre. Nach einer Überfahrt besuchen Sie das Marinefliegermuseum am Stadtrand.",
+        "hu": "Kerékpárral fedezze fel az arzenált, majd tekerjen a folyó mentén a látványos lebegő hídig. Az átkelés után látogasson el a város szélén lévő tengerészeti repülőmúzeumba.",
+        "ro": "Cu bicicleta, explorați arsenalul și apoi pedalați de-a lungul râului până la spectaculosul pod transbordor. După o traversare, vizitați muzeul aviației navale de la marginea orașului.",
+        "en": "By bike, explore the arsenal and then cycle along the river to the spectacular transporter bridge. After a crossing, visit the naval aviation museum on the outskirts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Galion",
+            "tip": "Meeresfrüchte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Galion",
+            "tip": "Tenger gyümölcsei közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Galion",
+            "tip": "Fructe de mare direct în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Galion",
+            "tip": "Seafood directly at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marais d'Yves",
+            "tip": "Naturreservat in der Nähe.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marais d'Yves",
+            "tip": "Közeli természetvédelmi terület.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marais d'Yves",
+            "tip": "Rezervație naturală în apropiere.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marais d'Yves",
+            "tip": "Nearby nature reserve.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atelier des Cordes",
+            "tip": "Handgefertigte Seile und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atelier des Cordes",
+            "tip": "Kézzel készített kötelek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelier des Cordes",
+            "tip": "Frânghii lucrate manual și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atelier des Cordes",
+            "tip": "Handmade ropes and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege entlang der Charente sind perfekt für Radfahrer."
+        ],
+        "hu": [
+          "A Charente menti utak tökéletesek a kerékpárosoknak."
+        ],
+        "ro": [
+          "Traseele de-a lungul Charente sunt perfecte pentru bicicliști."
+        ],
+        "en": [
+          "The paths along the Charente are perfect for cyclists."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Corderie Royale (Cluster A)",
+          "coords": [
+            -0.9568,
+            45.9398
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie hier für das Arsenal.",
+            "hu": "Parkoljon itt az arzenálhoz.",
+            "ro": "Parcați aici pentru arsenal.",
+            "en": "Park here for the arsenal."
+          }
+        },
+        {
+          "name": "Marinemuseum (Cluster A)",
+          "coords": [
+            -0.9585,
+            45.9422
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": "Place Colbert (Cluster B)",
+          "coords": [
+            -0.9612,
+            45.9378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkhaus im Zentrum nutzen.",
+            "hu": "Használja a központi parkolóházat.",
+            "ro": "Folosiți parcarea din centru.",
+            "en": "Use the central parking garage."
+          }
+        },
+        {
+          "name": "Mittagessen (Cluster B)",
+          "coords": [
+            -0.962,
+            45.937
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Regionale Spezialitäten.",
+            "hu": "Regionális specialitások.",
+            "ro": "Specialități regionale.",
+            "en": "Regional specialties."
+          }
+        },
+        {
+          "name": "Schwebefähre (Cluster C)",
+          "coords": [
+            -0.9595,
+            45.9145
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einzigartiges Fotomotiv.",
+            "hu": "Egyedülálló fotótéma.",
+            "ro": "Subiect foto unic.",
+            "en": "Unique photo spot."
+          }
+        },
+        {
+          "name": "Marinefliegermuseum",
+          "coords": [
+            -0.9845,
+            45.9285
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ideal für Flugzeugfans.",
+            "hu": "Ideális repülőgép-rajongóknak.",
+            "ro": "Ideal pentru fanii avioanelor.",
+            "en": "Ideal for aviation fans."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um zwischen dem historischen Arsenal, dem lebhaften Zentrum und den technischeren Sehenswürdigkeiten wie der Schwebefähre und dem Fliegermuseum zu pendeln. Parken Sie in Clustern, um die Atmosphäre zu Fuß zu genießen.",
+        "hu": "Használja az autót a történelmi arzenál, a nyüzsgő központ és a technikai látnivalók, például a lebegő híd és a repülőmúzeum közötti ingázáshoz. Parkoljon le a csomópontoknál, hogy gyalogosan is élvezhesse a hangulatot.",
+        "ro": "Folosiți mașina pentru a face naveta între arsenalul istoric, centrul plin de viață și obiectivele tehnice precum podul transbordor și muzeul aviației. Parcați în clustere pentru a vă bucura de atmosferă pe jos.",
+        "en": "Use the car to commute between the historic arsenal, the lively center, and technical sights like the transporter bridge and the aviation museum. Park in clusters to enjoy the atmosphere on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vivier de la Charente",
+            "tip": "Frische Austern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vivier de la Charente",
+            "tip": "Friss osztriga."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vivier de la Charente",
+            "tip": "Stridii proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vivier de la Charente",
+            "tip": "Fresh oysters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Port des Barques",
+            "tip": "Insel Madame bei Ebbe befahrbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port des Barques",
+            "tip": "Madame-sziget apálykor járható autóval.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port des Barques",
+            "tip": "Insula Madame accesibilă cu mașina la reflux.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port des Barques",
+            "tip": "Île Madame accessible by car at low tide.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Super U",
+            "tip": "Lokale Produkte zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Super U",
+            "tip": "Helyi termékek elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Super U",
+            "tip": "Produse locale de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Super U",
+            "tip": "Local products to take away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen im Stadtzentrum."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra a városközpontban."
+        ],
+        "ro": [
+          "Atenție la zonele de parcare din centrul orașului."
+        ],
+        "en": [
+          "Pay attention to parking zones in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place Colbert",
+          "coords": [
+            -0.9612,
+            45.9378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central de autobuz.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": "Corderie Royale",
+          "coords": [
+            -0.9568,
+            45.9398
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum.",
+            "hu": "Rövid séta a központból.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": "L'Hermione",
+          "coords": [
+            -0.9545,
+            45.9428
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchermagnet.",
+            "hu": "Látogatói mágnes.",
+            "ro": "Magnet pentru vizitatori.",
+            "en": "Visitor magnet."
+          }
+        },
+        {
+          "name": "Schwebefähre (Bus D)",
+          "coords": [
+            -0.9595,
+            45.9145
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Buslinie D ab Place Colbert.",
+            "hu": "D buszjárat a Place Colbert-ről.",
+            "ro": "Linia de autobuz D din Place Colbert.",
+            "en": "Bus line D from Place Colbert."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Busnetz von Rochefort (R'bus), um die Stadtteile zu verbinden. Das Zentrum und das Arsenal sind zu Fuß erreichbar, während der Bus Sie bequem zur Schwebefähre bringt.",
+        "hu": "Használja Rochefort hatékony buszhálózatát (R'bus) a városrészek összekapcsolásához. A központ és az arzenál gyalog is bejárható, míg a busz kényelmesen elviszi a lebegő hídhoz.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Rochefort (R'bus) pentru a conecta cartierele. Centrul și arsenalul sunt accesibile pe jos, în timp ce autobuzul vă duce confortabil la podul transbordor.",
+        "en": "Use Rochefort's efficient bus network (R'bus) to connect the districts. The center and the arsenal can be explored on foot, while the bus takes you comfortably to the transporter bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Musée",
+            "tip": "Süße und herzhafte Galettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Musée",
+            "tip": "Édes és sós galettek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Musée",
+            "tip": "Clătite dulci și sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Musée",
+            "tip": "Sweet and savory galettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Kleiner Park im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Kis park a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Mic parc în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Small park in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Cochon-Duvivier",
+            "tip": "Haupteinkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Cochon-Duvivier",
+            "tip": "Fő bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Cochon-Duvivier",
+            "tip": "Strada comercială principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Cochon-Duvivier",
+            "tip": "Main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die App 'R'bus' zeigt Abfahrtszeiten in Echtzeit."
+        ],
+        "hu": [
+          "Az 'R'bus' alkalmazás valós időben mutatja az indulásokat."
+        ],
+        "ro": [
+          "Aplicația 'R'bus' arată plecările în timp real."
+        ],
+        "en": [
+          "The 'R'bus' app shows departures in real time."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1250 @@
+{
+  "city_id": "italy-alessandria-cities-v2",
+  "anchor": {
+    "name": "Piazza della Libertà",
+    "coords": [
+      8.6154,
+      44.9129
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            8.6154,
+            44.9129
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mosaike unter den Arkaden.",
+            "hu": "Nézze meg az árkádok alatti mozaikokat.",
+            "ro": "Admirați mozaicurile de sub arcade.",
+            "en": "Check out the mosaics under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ghilini",
+            "hu": "Palazzo Ghilini",
+            "ro": "Palazzo Ghilini",
+            "en": "Palazzo Ghilini"
+          },
+          "coords": [
+            8.6168,
+            44.9135
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des piemontesischen Barocks.",
+            "hu": "A piemonti barokk építészet remekműve.",
+            "ro": "O capodoperă a barocului piemontez.",
+            "en": "A masterpiece of Piedmontese Baroque."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Peter und Markus",
+            "hu": "Szent Péter és Márk-székesegyház",
+            "ro": "Catedrala Sfinții Petru și Marcu",
+            "en": "Cathedral of Saints Peter and Mark"
+          },
+          "coords": [
+            8.6185,
+            44.9122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die neoklassizistische Fassade.",
+            "hu": "Figyelje meg a neoklasszicista homlokzatot.",
+            "ro": "Observați fațada neoclasică impunătoare.",
+            "en": "Note the imposing neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Cuttica di Cassine",
+            "hu": "Palazzo Cuttica di Cassine",
+            "ro": "Palazzo Cuttica di Cassine",
+            "en": "Palazzo Cuttica di Cassine"
+          },
+          "coords": [
+            8.6175,
+            44.911
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beherbergt das Stadtmuseum und wertvolle Wandteppiche.",
+            "hu": "Városi múzeum és értékes falikárpitok otthona.",
+            "ro": "Găzduiește muzeul civic și tapiserii valoroase.",
+            "en": "Houses the civic museum and valuable tapestries."
+          }
+        },
+        {
+          "name": {
+            "de": "Borsalino Hutmuseum",
+            "hu": "Borsalino Kalapmúzeum",
+            "ro": "Muzeul Pălăriilor Borsalino",
+            "en": "Borsalino Hat Museum"
+          },
+          "coords": [
+            8.612,
+            44.9155
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den berühmtesten Hut der Welt.",
+            "hu": "Ismerje meg a világ leghíresebb kalapjának titkait.",
+            "ro": "Aflați povestea celei mai faimoase pălării din lume.",
+            "en": "Learn the story of the world's most famous hat."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria di Castello",
+            "hu": "Santa Maria di Castello templom",
+            "ro": "Biserica Santa Maria di Castello",
+            "en": "Church of Santa Maria di Castello"
+          },
+          "coords": [
+            8.6105,
+            44.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die älteste Kirche im Viertel Borgo Rovereto.",
+            "hu": "Borgo Rovereto negyedének legősibb temploma.",
+            "ro": "Cea mai veche biserică din cartierul Borgo Rovereto.",
+            "en": "The oldest church in the Borgo Rovereto district."
+          }
+        },
+        {
+          "name": {
+            "de": "Meier-Brücke",
+            "hu": "Meier-híd",
+            "ro": "Podul Meier",
+            "en": "Meier Bridge"
+          },
+          "coords": [
+            8.6085,
+            44.9185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Modernes Design von Richard Meier über den Tanaro.",
+            "hu": "Richard Meier modern dizájnja a Tanaro folyó felett.",
+            "ro": "Design modern de Richard Meier peste râul Tanaro.",
+            "en": "Modern design by Richard Meier over the Tanaro river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Alessandria",
+            "hu": "Alessandriai Citadella",
+            "ro": "Citadela din Alessandria",
+            "en": "Cittadella di Alessandria"
+          },
+          "coords": [
+            8.604,
+            44.921
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine der besterhaltenen Festungen Europas.",
+            "hu": "Európa egyik legjobb állapotban megmaradt erődítménye.",
+            "ro": "Una dintre cele mai bine conservate cetăți din Europa.",
+            "en": "One of the best-preserved star forts in Europe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Alessandria auf der Piazza della Libertà, umgeben von herrschaftlichen Palästen wie dem Palazzo Ghilini. Ein kurzer Spaziergang führt Sie zur beeindruckenden Kathedrale und in die Welt der Kunst im Palazzo Cuttica. Nach einem typisch piemontesischen Mittagessen tauchen Sie im Borsalino-Museum in die Modegeschichte ein. Der Nachmittag gehört der Altstadt Borgo Rovereto, bevor Sie die moderne Meier-Brücke überqueren, um die monumentale Zitadelle zu erkunden, die als militärisches Meisterwerk gilt.",
+        "hu": "Kezdje a napot Alessandria szívében, a Piazza della Libertà téren, ahol a Palazzo Ghilini barokk homlokzata dominál. Egy rövid séta a neoklasszicista székesegyházhoz és a Palazzo Cuttica műkincseihez vezet. Az ebédet követően látogasson el a híres Borsalino múzeumba, ahol a kalapkészítés művészetét ismerheti meg. Délután fedezze fel a Borgo Rovereto negyed középkori hangulatát, majd keljen át a futurisztikus Meier-hídon a hatalmas Citadellához, amely Európa egyik legjelentősebb katonai emléke.",
+        "ro": "Începeți ziua în inima orașului Alessandria, în Piazza della Libertà, admirând eleganța palatului Ghilini. O scurtă plimbare vă poartă spre Catedrală și tezaurul artistic din Palazzo Cuttica. După un prânz autentic, descoperiți eleganța legendară la Muzeul Borsalino. După-amiaza este dedicată farmecului vechi din Borgo Rovereto, urmată de o traversare a podului modern Meier pentru a ajunge la uriașa Citadelă, o fortăreață stelată de o importanță istorică excepțională.",
+        "en": "Start your day in the heart of Alessandria at Piazza della Libertà, surrounded by grand buildings like Palazzo Ghilini. A short walk leads to the impressive Cathedral and the artistic treasures of Palazzo Cuttica. After a local lunch, dive into fashion history at the Borsalino Museum. The afternoon is spent exploring the historic Borgo Rovereto district, followed by a walk across the modern Meier Bridge to reach the massive Cittadella, one of Europe's most significant military fortresses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rabaton",
+            "tip": "Gebackene Klößchen aus Spinat und Ricotta."
+          },
+          {
+            "name": "Pollo alla Marengo",
+            "tip": "Hühnchengericht mit Garnelen und Spiegelei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rabaton",
+            "tip": "Spenótos-túrós sült gombócok, helyi specialitás."
+          },
+          {
+            "name": "Pollo alla Marengo",
+            "tip": "Csirke rákokkal és tükörtojással díszítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rabaton",
+            "tip": "Găluște la cuptor cu spanac și urdă."
+          },
+          {
+            "name": "Pollo alla Marengo",
+            "tip": "Pui servit cu raci și ou ochi, o rețetă istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rabaton",
+            "tip": "Baked dumplings made with spinach and ricotta."
+          },
+          {
+            "name": "Pollo alla Marengo",
+            "tip": "Chicken dish served with crawfish and a fried egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cittadella Park",
+            "tip": "Große Grünflächen innerhalb der Festungsmauern.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tanaro Ufer",
+            "tip": "Ruhiger Weg entlang des Flusses beim Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella park",
+            "tip": "Hatalmas zöldterület az erődítmény falain belül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tanaro part",
+            "tip": "Csendes folyóparti sétány naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Citadelei",
+            "tip": "Spații verzi vaste în interiorul zidurilor cetății.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Tanaro",
+            "tip": "Promenadă liniștită la apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cittadella Grounds",
+            "tip": "Vast green spaces within the fortress walls.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Tanaro Riverbank",
+            "tip": "Quiet promenade along the river at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Borsalino Boutique",
+            "tip": "Der Ort für den originalen Filzhut."
+          },
+          {
+            "name": "Corso Roma",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borsalino Boutique",
+            "tip": "Az eredeti filckalapok beszerzőhelye."
+          },
+          {
+            "name": "Corso Roma",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Borsalino",
+            "tip": "Locul de unde puteți lua celebra pălărie de fetru."
+          },
+          {
+            "name": "Corso Roma",
+            "tip": "Principala stradă comercială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borsalino Boutique",
+            "tip": "The place to buy the original felt hat."
+          },
+          {
+            "name": "Corso Roma",
+            "tip": "The city's main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Alessandria ist sehr flach und ideal zu Fuß zu erkunden.",
+          "Die Museen sind oft über die Mittagszeit geschlossen.",
+          "Parken Sie Ihr Auto in der Nähe des Bahnhofs oder der Piazza della Libertà.",
+          "Probieren Sie die 'Baci di Gallina' in einer lokalen Konditorei."
+        ],
+        "hu": [
+          "Alessandria teljesen sík, így a gyalogos városnézés nagyon kényelmes.",
+          "A múzeumok gyakran bezárnak a déli ebédszünet idejére.",
+          "Érdemes a vasútállomás közelében vagy a Piazza della Libertà környékén parkolni.",
+          "Kóstolja meg a 'Baci di Gallina' édességet egy helyi cukrászdában."
+        ],
+        "ro": [
+          "Alessandria este un oraș plat, ideal pentru explorarea la pas.",
+          "Muzeele au adesea pauză de prânz la mijlocul zilei.",
+          "Parcați mașina lângă gară sau în zona Piazza della Libertà.",
+          "Gustați dulciurile 'Baci di Gallina' la o patiserie locală."
+        ],
+        "en": [
+          "Alessandria is very flat, making it perfect for walking tours.",
+          "Museums often close for a lunch break in the middle of the day.",
+          "Park your car near the train station or Piazza della Libertà.",
+          "Try the 'Baci di Gallina' cookies at a local pastry shop."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            8.6154,
+            44.9129
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Großer Platz, idealer Treffpunkt.",
+            "hu": "Hatalmas tér, ideális találkozópont.",
+            "ro": "Piață mare, punct de întâlnire ideal.",
+            "en": "Grand square, ideal meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ghilini",
+            "hu": "Palazzo Ghilini",
+            "ro": "Palazzo Ghilini",
+            "en": "Palazzo Ghilini"
+          },
+          "coords": [
+            8.6168,
+            44.9135
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze in der Nähe.",
+            "hu": "Kerékpártárolók a közelben.",
+            "ro": "Parcare pentru biciclete în apropiere.",
+            "en": "Bike parking available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            8.6185,
+            44.9122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Innenraum im Barockstil.",
+            "hu": "Barokk stílusú belső tér.",
+            "ro": "Interior în stil baroc.",
+            "en": "Baroque style interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Comunale",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Comunale",
+            "en": "Teatro Comunale"
+          },
+          "coords": [
+            8.6135,
+            44.9115
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kulturelles Zentrum der Stadt.",
+            "hu": "A város kulturális központja.",
+            "ro": "Centrul cultural al orașului.",
+            "en": "Cultural hub of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Borsalino Museum",
+            "hu": "Borsalino Múzeum",
+            "ro": "Muzeul Borsalino",
+            "en": "Borsalino Museum"
+          },
+          "coords": [
+            8.612,
+            44.9155
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadtgeschichte.",
+            "hu": "A város történelmének jelképe.",
+            "ro": "Simbolul istoriei orașului.",
+            "en": "Symbol of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria di Castello",
+            "hu": "Santa Maria di Castello",
+            "ro": "Santa Maria di Castello",
+            "en": "Santa Maria di Castello"
+          },
+          "coords": [
+            8.6105,
+            44.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta.",
+            "hu": "Látogassa meg az altemplomot.",
+            "ro": "Vizitați cripta.",
+            "en": "Visit the crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Meier",
+            "hu": "Meier-híd",
+            "ro": "Podul Meier",
+            "en": "Meier Bridge"
+          },
+          "coords": [
+            8.6085,
+            44.9185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sicherer Radweg über den Fluss.",
+            "hu": "Biztonságos kerékpárút a folyó felett.",
+            "ro": "Pistă sigură pentru biciclete peste râu.",
+            "en": "Safe bike path over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle",
+            "hu": "Citadella",
+            "ro": "Citadelă",
+            "en": "Cittadella"
+          },
+          "coords": [
+            8.604,
+            44.921
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine Runde mit dem Rad.",
+            "hu": "Tökéletes helyszín egy körbetekeréshez.",
+            "ro": "Loc perfect pentru o plimbare cu bicicleta.",
+            "en": "Perfect place for a bike loop inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Alessandria auf zwei Rädern. Die flachen Straßen und Alleen machen das Radfahren hier zum Vergnügen. Von den barocken Palätzen des Zentrums radeln Sie zum berühmten Hutmuseum und durch die verwinkelten Gassen von Borgo Rovereto. Über die architektonisch spektakuläre Meier-Brücke erreichen Sie die weitläufige Zitadelle, deren riesiges Areal sich ideal mit dem Fahrrad erkunden lässt.",
+        "hu": "Fedezze fel Alessandriát két keréken! A sík utcák és sugárutak örömmé teszik a biciklizést. A belváros barokk palotáitól indulva tekerjen el a híres kalapmúzeumhoz, majd a Borgo Rovereto negyed szűk utcáin át a modern Meier-hídig. A túra csúcspontja a Citadella, amelynek hatalmas területe kerékpárral is bejárható.",
+        "ro": "Explorați Alessandria pe două roți. Străzile plate și bulevardele fac din ciclism o plăcere aici. De la palatele baroce din centru, pedalați spre faimosul muzeu al pălăriilor și prin străzile înguste din Borgo Rovereto. Prin podul spectaculos Meier, ajungeți la vasta Citadelă, a cărei incintă uriașă este ideală de explorat cu bicicleta.",
+        "en": "Explore Alessandria on two wheels. The flat streets and avenues make cycling a breeze here. From the Baroque palaces of the center, pedal to the famous hat museum and through the winding alleys of Borgo Rovereto. Cross the architecturally spectacular Meier Bridge to reach the sprawling Cittadella, whose massive area is perfect for exploring by bike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baci di Alessandria",
+            "tip": "Schokoladenkekse mit Haselnusscreme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baci di Alessandria",
+            "tip": "Csokoládés keksz mogyorókrémmel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baci di Alessandria",
+            "tip": "Biscuiți cu ciocolată și cremă de alune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baci di Alessandria",
+            "tip": "Chocolate cookies filled with hazelnut cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale della Repubblica",
+            "tip": "Schattige Allee für eine entspannte Fahrt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale della Repubblica",
+            "tip": "Árnyas sugárút egy kellemes tekeréshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale della Repubblica",
+            "tip": "Bulevard umbros pentru o plimbare relaxată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale della Repubblica",
+            "tip": "Shady avenue for a relaxed ride.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piac tér",
+            "tip": "Helyi termékek és gasztro különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Produse locale și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Local produce and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Flusses.",
+          "Das Stadtzentrum ist verkehrsberuhigt.",
+          "Sichern Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Használja a folyó menti kerékpárutakat.",
+          "A városközpont forgalomcsillapított terület.",
+          "Mindig alaposan zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul râului.",
+          "Centrul orașului are trafic restricționat.",
+          "Asigurați-vă întotdeauna bicicleta."
+        ],
+        "en": [
+          "Use the bike paths along the river.",
+          "The city center is a low-traffic zone.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà (Parken)",
+            "hu": "Piazza della Libertà (Parkolás)",
+            "ro": "Piazza della Libertà (Parcare)",
+            "en": "Piazza della Libertà (Parking)"
+          },
+          "coords": [
+            8.6154,
+            44.9129
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Großer zentraler Parkplatz.",
+            "hu": "Hatalmas központi parkoló.",
+            "ro": "Parcare centrală mare.",
+            "en": "Large central parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            8.6185,
+            44.9122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Cuttica",
+            "hu": "Palazzo Cuttica",
+            "ro": "Palazzo Cuttica",
+            "en": "Palazzo Cuttica"
+          },
+          "coords": [
+            8.6175,
+            44.911
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beeindruckende Kunstsammlungen.",
+            "hu": "Lenyűgöző művészeti gyűjtemények.",
+            "ro": "Colecții de artă impresionante.",
+            "en": "Impressive art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Borsalino Museum",
+            "hu": "Borsalino Múzeum",
+            "ro": "Muzeul Borsalino",
+            "en": "Borsalino Museum"
+          },
+          "coords": [
+            8.612,
+            44.9155
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museumsbereich.",
+            "hu": "Hajtson át a múzeumi negyedbe.",
+            "ro": "Conduceți spre zona muzeului.",
+            "en": "Drive to the museum area."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria di Castello",
+            "hu": "Santa Maria di Castello",
+            "ro": "Santa Maria di Castello",
+            "en": "Santa Maria di Castello"
+          },
+          "coords": [
+            8.6105,
+            44.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie im Borgo Rovereto.",
+            "hu": "Parkoljon a Borgo Rovereto negyedben.",
+            "ro": "Parcați în Borgo Rovereto.",
+            "en": "Park in Borgo Rovereto."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle",
+            "hu": "Citadella",
+            "ro": "Citadelă",
+            "en": "Cittadella"
+          },
+          "coords": [
+            8.604,
+            44.921
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Eingang.",
+            "hu": "Parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare chiar la intrare.",
+            "en": "Parking available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Marengo Schlachtfeld",
+            "hu": "Marengói csatatér",
+            "ro": "Câmpul de luptă Marengo",
+            "en": "Marengo Battlefield"
+          },
+          "coords": [
+            8.675,
+            44.895
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Napoleon-Museum.",
+            "hu": "Rövid autóút a Napóleon-múzeumhoz.",
+            "ro": "Scurtă călătorie spre muzeul Napoleon.",
+            "en": "Short drive to the Napoleon museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die Highlights von Alessandria und die geschichtsträchtige Umgebung bequem verbinden. Nach der Besichtigung des Zentrums und der wichtigsten Museen fahren Sie über den Tanaro zur Zitadelle. Zum Abschluss bietet sich ein Abstecher zum nahegelegenen Marengo an, wo Napoleon einen seiner berühmtesten Siege errang und heute ein interessantes Museum an die Schlacht erinnert.",
+        "hu": "Autóval kényelmesen összekötheti Alessandria látnivalóit a történelmi környékkel. A központ és a legfontosabb múzeumok megtekintése után hajtson át a Tanaro folyón a Citadellához. A nap végén érdemes ellátogatni a közeli Marengóba, ahol Napóleon egyik leghíresebb győzelmét aratta, és ma érdekes múzeum emlékezik a csatára.",
+        "ro": "Cu mașina puteți combina confortabil punctele de atracție din Alessandria cu împrejurimile istorice. După vizitarea centrului și a muzeelor principale, conduceți peste râul Tanaro spre Citadelă. La final, merită o excursie la Marengo, locul unde Napoleon a obținut una dintre cele mai faimoase victorii, astăzi existând acolo un muzeu interesant dedicat bătăliei.",
+        "en": "By car, you can comfortably combine Alessandria's highlights with its historic surroundings. After visiting the center and the main museums, drive across the Tanaro to the Cittadella. End the day with a trip to nearby Marengo, where Napoleon won one of his most famous victories, now home to an interesting museum commemorating the battle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo Marengo",
+            "tip": "Traditionelle Gerichte in ländlicher Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo Marengo",
+            "tip": "Hagyományos ételek vidéki környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo Marengo",
+            "tip": "Preparate tradiționale în decor rural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo Marengo",
+            "tip": "Traditional dishes in a rural setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marengo Park",
+            "tip": "Ruhiger Park rund um die Villa Delavo.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marengo Park",
+            "tip": "Csendes park a Villa Delavo körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Marengo",
+            "tip": "Parc liniștit în jurul Vilei Delavo.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marengo Park",
+            "tip": "Quiet park surrounding Villa Delavo.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Retail Park Alessandria",
+            "tip": "Große Auswahl an Geschäften am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Retail Park Alessandria",
+            "tip": "Nagy üzletválaszték a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Retail Park Alessandria",
+            "tip": "Gamă largă de magazine la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Retail Park Alessandria",
+            "tip": "Wide selection of shops on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf ZTL-Zonen (verkehrsbeschränkt) im Stadtkern.",
+          "Blaue Linien bedeuten gebührenpflichtiges Parken.",
+          "Die Straße nach Marengo ist gut ausgeschildert."
+        ],
+        "hu": [
+          "Ügyeljen a ZTL (korlátozott forgalmú) zónákra a belvárosban.",
+          "A kék vonal fizetős parkolást jelent.",
+          "Marengo felé az út jól ki van táblázva."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (trafic restricționat) din centrul orașului.",
+          "Liniile albastre indică parcare cu plată.",
+          "Drumul spre Marengo este bine semnalizat."
+        ],
+        "en": [
+          "Watch out for ZTL (limited traffic) zones in the city center.",
+          "Blue lines indicate paid parking.",
+          "The road to Marengo is well signposted."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Alessandria",
+            "hu": "Alessandria vasútállomás",
+            "ro": "Gara Alessandria",
+            "en": "Alessandria Train Station"
+          },
+          "coords": [
+            8.608,
+            44.91
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Busse.",
+            "hu": "A helyi buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            8.6154,
+            44.9129
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt vom Bahnhof.",
+            "hu": "Rövid buszút az állomástól.",
+            "ro": "Călătorie scurtă cu autobuzul de la gară.",
+            "en": "Short bus ride from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            8.6185,
+            44.9122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In der Nähe der Piazza della Libertà.",
+            "hu": "A Piazza della Libertà közelében.",
+            "ro": "Aproape de Piazza della Libertà.",
+            "en": "Close to Piazza della Libertà."
+          }
+        },
+        {
+          "name": {
+            "de": "Borsalino Museum",
+            "hu": "Borsalino Múzeum",
+            "ro": "Muzeul Borsalino",
+            "en": "Borsalino Museum"
+          },
+          "coords": [
+            8.612,
+            44.9155
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linienbusse.",
+            "hu": "Használja a helyi buszjáratokat.",
+            "ro": "Folosiți liniile de autobuz locale.",
+            "en": "Use local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria di Castello",
+            "hu": "Santa Maria di Castello",
+            "ro": "Santa Maria di Castello",
+            "en": "Santa Maria di Castello"
+          },
+          "coords": [
+            8.6105,
+            44.914
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang durch Borgo Rovereto.",
+            "hu": "Séta a Borgo Rovereto negyedben.",
+            "ro": "Plimbare prin Borgo Rovereto.",
+            "en": "Walk through Borgo Rovereto."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Meier",
+            "hu": "Meier-híd",
+            "ro": "Podul Meier",
+            "en": "Meier Bridge"
+          },
+          "coords": [
+            8.6085,
+            44.9185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wichtiger Übergang für Fußgänger.",
+            "hu": "Fontos átkelőhely gyalogosoknak.",
+            "ro": "Trecere importantă pentru pietoni.",
+            "en": "Important pedestrian crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle",
+            "hu": "Citadella",
+            "ro": "Citadelă",
+            "en": "Cittadella"
+          },
+          "coords": [
+            8.604,
+            44.921
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Endstation der Erkundung.",
+            "hu": "A felfedezőút végállomása.",
+            "ro": "Punctul final al explorării.",
+            "en": "The final stop of your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Alessandria lässt sich gut mit dem öffentlichen Busnetz (AMAG) erkunden. Vom Bahnhof aus erreichen Sie schnell das historische Zentrum und die Piazza della Libertà. Das Busnetz verbindet die wichtigsten Viertel wie Borgo Rovereto mit den Museen. Ein kurzer Spaziergang über die Meier-Brücke bringt Sie schließlich zur Zitadelle, dem militärischen Wahrzeichen der Stadt.",
+        "hu": "Alessandria jól felfedezhető a helyi buszhálózattal (AMAG). A vasútállomástól indulva gyorsan elérheti a történelmi központot és a Piazza della Libertà teret. A buszok összekötik a fontosabb negyedeket, mint például Borgo Roveretót a múzeumokkal. Egy rövid séta a Meier-hídon át végül a Citadellához vezet, amely a város katonai jelképe.",
+        "ro": "Alessandria poate fi explorată cu ușurință folosind rețeaua locală de autobuze (AMAG). De la gară puteți ajunge rapid în centrul istoric și în Piazza della Libertà. Autobuzele fac legătura între cartierele importante, precum Borgo Rovereto, și muzee. O scurtă plimbare peste podul Meier vă duce în cele din urmă la Citadelă, simbolul militar al orașului.",
+        "en": "Alessandria is easy to explore using the local bus network (AMAG). From the train station, you can quickly reach the historic center and Piazza della Libertà. The buses connect key districts like Borgo Rovereto with the museums. A short walk across the Meier Bridge finally brings you to the Cittadella, the city's military landmark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Trattoria",
+            "tip": "Probieren Sie Polenta mit Gorgonzola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi trattoria",
+            "tip": "Kóstolja meg a polentát gorgonzolával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria locală",
+            "tip": "Încercați mămăliga cu gorgonzola."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Trattoria",
+            "tip": "Try polenta with gorgonzola."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Öffentliche Gärten in der Nähe des Bahnhofs.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Közpark a vasútállomás közelében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Grădini publice lângă gară.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Public gardens near the station.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza Garibaldi",
+            "tip": "Märkte unter den Arkaden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Garibaldi",
+            "tip": "Vásárok az árkádok alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Garibaldi",
+            "tip": "Piețe sub arcade."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Garibaldi",
+            "tip": "Markets under the arcades."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können in Tabakläden gekauft werden.",
+          "Laden Sie die AMAG-App für Fahrpläne herunter.",
+          "Busse verkehren sonntags seltener."
+        ],
+        "hu": [
+          "Jegyeket a dohányboltokban (Tabaccheria) vehet.",
+          "Töltse le az AMAG appot a menetrendekhez.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la chioșcurile de ziare.",
+          "Descărcați aplicația AMAG pentru orare.",
+          "Autobuzele circulă mai rar duminica."
+        ],
+        "en": [
+          "Tickets can be purchased at tobacco shops.",
+          "Download the AMAG app for schedules.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

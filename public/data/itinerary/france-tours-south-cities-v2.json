@@ -1,0 +1,996 @@
+{
+  "city_id": "france-tours-south-cities-v2",
+  "anchor": {
+    "name": "Tours-Sud",
+    "coords": [
+      0.68,
+      47.37
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Plumereau",
+          "coords": [
+            0.6812,
+            47.3942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Genießen Sie den Kaffee zwischen den Fachwerkhäusern aus dem 15. Jahrhundert.",
+            "hu": "Kávézzon a 15. századi gerendás házak között a város legélénkebb terén.",
+            "ro": "Savurați o cafea între casele cu bârne de lemn din secolul al XV-lea.",
+            "en": "Enjoy a coffee among the 15th-century timber-framed houses in the liveliest square."
+          }
+        },
+        {
+          "name": "Basilika Saint-Martin",
+          "coords": [
+            0.6825,
+            47.3931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Krypta mit dem Grab des Heiligen Martin, dem Schutzpatron von Tours.",
+            "hu": "Látogasson el a kriptába, ahol Szent Márton, Tours védőszentjének sírja található.",
+            "ro": "Vizitați cripta cu mormântul Sfântului Martin, patronul orașului Tours.",
+            "en": "Visit the crypt containing the tomb of Saint Martin, the patron saint of Tours."
+          }
+        },
+        {
+          "name": "Hôtel Goüin",
+          "coords": [
+            0.6841,
+            47.3945
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie die prächtige Renaissance-Fassade dieses ehemaligen Privathauses.",
+            "hu": "Csodálja meg ennek az egykori magánháznak a pompás reneszánsz homlokzatát.",
+            "ro": "Admirați fațada splendidă în stil renascentist a acestei foste reședințe private.",
+            "en": "Admire the magnificent Renaissance facade of this former private residence."
+          }
+        },
+        {
+          "name": "Pont Wilson",
+          "coords": [
+            0.6852,
+            47.3965
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Der beste Ort für Fotos der Loire und der Stadt Silhouette.",
+            "hu": "A legjobb hely fotózáshoz a Loire-folyóról és a város sziluettjéről.",
+            "ro": "Cel mai bun loc pentru fotografii cu Loira și silueta orașului.",
+            "en": "The best spot for photos of the Loire river and the city skyline."
+          }
+        },
+        {
+          "name": "Schloss von Tours",
+          "coords": [
+            0.6931,
+            47.3962
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Entdecken Sie die wechselnden Kunstausstellungen in den historischen Mauern.",
+            "hu": "Fedezze fel a változó művészeti kiállításokat a történelmi falak között.",
+            "ro": "Descoperiți expozițiile de artă temporare în interiorul zidurilor istorice.",
+            "en": "Discover the rotating art exhibitions within the historic walls."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Gatien",
+          "coords": [
+            0.6945,
+            47.3941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Staunen Sie über die Glasmalereien aus dem 13. Jahrhundert in der Hauptkapelle.",
+            "hu": "Ámuljon el a főhajó 13. századi üvegablakainak színein.",
+            "ro": "Admirați vitraliile din secolul al XIII-lea din capela principală.",
+            "en": "Marvel at the 13th-century stained glass windows in the main chapel."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            0.6942,
+            47.3932
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Verpassen Sie nicht die beeindruckende Zeder im Garten des Museums.",
+            "hu": "Ne hagyja ki a múzeum kertjében álló lenyűgöző cédrusfát.",
+            "ro": "Nu ratați cedrul impresionant din grădina muzeului.",
+            "en": "Don't miss the impressive cedar tree in the museum's garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz des mittelalterlichen Tours am Place Plumereau und besuchen die Basilika des Heiligen Martin. Mittags spazieren Sie entlang der Loire über die Pont Wilson. Der Nachmittag gehört der Kunst im Schloss von Tours und der prächtigen Kathedrale Saint-Gatien. Den Tag beenden Sie im Kunstmuseum, umgeben von Geschichte und einem wunderschönen Garten.",
+        "hu": "A reggelt Tours középkori szívében, a Place Plumereau-n indítjuk, majd Szent Márton nyomába eredünk. Délben a Loire partján és a Pont Wilsonon sétálunk. A délután a művészeté és a történelemé: a Tours-i kastély és a gótikus katedrális vár ránk. A napot a Szépművészeti Múzeum kincsei és kertje körében zárjuk.",
+        "ro": "Dimineața explorăm inima medievală a orașului în Place Plumereau și vizităm Basilica Sfântului Martin. La prânz ne plimbăm pe malul Loirei și pe Pont Wilson. După-amiaza este dedicată artei la Castelul din Tours și măreței Catedrale Saint-Gatien. Încheiem ziua la Muzeul de Arte Frumoase, înconjurați de istorie și o grădină superbă.",
+        "en": "In the morning, explore the heart of medieval Tours at Place Plumereau and visit Saint Martin's Basilica. At midday, stroll along the Loire via Pont Wilson. The afternoon is dedicated to art at the Castle of Tours and the magnificent Saint-Gatien Cathedral. Finish the day at the Museum of Fine Arts, surrounded by history and a beautiful garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Probieren Sie diese traditionelle Schweinefleischspezialität auf frischem Baguette."
+          },
+          {
+            "name": "Vouvray Wein",
+            "tip": "Ein lokaler Weißwein, der perfekt zu den Käsesorten der Region passt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Kóstolja meg ezt a hagyományos sertéshús-pástétomot friss bagetten."
+          },
+          {
+            "name": "Vouvray bor",
+            "tip": "Helyi fehérbor, amely tökéletesen illik a régió sajtjaihoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Gustați acest pateu tradițional de porc pe o baghetă proaspătă."
+          },
+          {
+            "name": "Vin de Vouvray",
+            "tip": "Un vin alb local care se potrivește perfect cu brânzeturile regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Try this traditional pork specialty on fresh baguette."
+          },
+          {
+            "name": "Vouvray Wine",
+            "tip": "A local white wine that pairs perfectly with regional cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Musée",
+            "tip": "Ein ruhiger Ort unter der libanesischen Zeder.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loire-Ufer",
+            "tip": "Perfekt für einen entspannten Abendspaziergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumkert",
+            "tip": "Csendes hely a libanoni cédrus árnyékában.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loire-part",
+            "tip": "Tökéletes egy nyugodt esti sétához a folyó mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului",
+            "tip": "Un loc liniștit sub cedrul libanez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul Loirei",
+            "tip": "Perfect pentru o plimbare relaxantă de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Garden",
+            "tip": "A quiet spot under the Lebanese cedar.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loire Banks",
+            "tip": "Perfect for a relaxed evening stroll by the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Tours",
+            "tip": "Der beste Markt für lokale Delikatessen und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Tours",
+            "tip": "A legjobb piac helyi finomságokért és sajtokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Tours",
+            "tip": "Cea mai bună piață pentru delicatese locale și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Tours",
+            "tip": "The best market for local delicacies and cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tours ist sehr flach und perfekt zu Fuß zu erkunden.",
+          "Die meisten Sehenswürdigkeiten im Zentrum liegen nah beieinander.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt."
+        ],
+        "hu": [
+          "Tours nagyon sík terep, tökéletes a gyalogos felfedezéshez.",
+          "A központ legtöbb látnivalója sétatávolságra van egymástól.",
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz."
+        ],
+        "ro": [
+          "Tours este un oraș plat, perfect pentru explorarea pe jos.",
+          "Majoritatea obiectivelor turistice din centru sunt aproape unele de altele.",
+          "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi."
+        ],
+        "en": [
+          "Tours is very flat and perfect for exploring on foot.",
+          "Most sights in the center are within easy walking distance of each other.",
+          "Wear comfortable shoes for the cobblestone streets in the old town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Jardin Botanique",
+          "coords": [
+            0.6721,
+            47.3912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Besuchen Sie das kleine Gehege mit den Tieren im hinteren Teil des Gartens.",
+            "hu": "Látogassa meg a kert hátuljában található kis állatkarámot.",
+            "ro": "Vizitați mica incintă cu animale din partea din spate a grădinii.",
+            "en": "Visit the small animal enclosure at the back of the garden."
+          }
+        },
+        {
+          "name": "Basilika Saint-Martin",
+          "coords": [
+            0.6825,
+            47.3931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher an den markierten Ständern an.",
+            "hu": "Zárja le biztonságosan kerékpárját a kijelölt tárolóknál.",
+            "ro": "Legatț bicicleta în siguranță la suporturile marcate.",
+            "en": "Lock your bike securely at the designated stands."
+          }
+        },
+        {
+          "name": "Place Plumereau",
+          "coords": [
+            0.6812,
+            47.3942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "In den engen Gassen ist Schieben oft besser als Fahren.",
+            "hu": "A szűk utcákban gyakran jobb tolni a biciklit, mint tekerni.",
+            "ro": "În străzile înguste, este adesea mai bine să mergeți pe lângă bicicletă.",
+            "en": "In the narrow streets, pushing your bike is often better than riding."
+          }
+        },
+        {
+          "name": "Pont Wilson",
+          "coords": [
+            0.6852,
+            47.3965
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie den breiten Radweg für die Überquerung der Loire.",
+            "hu": "Használja a széles kerékpárutat a Loire-on való átkeléshez.",
+            "ro": "Folosiți pista largă de biciclete pentru a traversa Loira.",
+            "en": "Use the wide bike lane for crossing the Loire river."
+          }
+        },
+        {
+          "name": "Schloss von Tours",
+          "coords": [
+            0.6931,
+            47.3962
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Die Uferstraße bietet eine flache und schnelle Verbindung zum Schloss.",
+            "hu": "A folyóparti út sík és gyors összeköttetést kínál a kastélyhoz.",
+            "ro": "Drumul de pe malul râului oferă o legătură plată și rapidă către castel.",
+            "en": "The riverside road offers a flat and fast connection to the castle."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Gatien",
+          "coords": [
+            0.6945,
+            47.3941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Das Viertel um die Kathedrale ist ruhig und ideal zum Radeln.",
+            "hu": "A székesegyház környéke csendes és ideális a biciklizéshez.",
+            "ro": "Cartierul din jurul catedralei este liniștit și ideal pentru ciclism.",
+            "en": "The area around the cathedral is quiet and ideal for cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie vom üppigen Botanischen Garten durch die Altstadt bis zur Loire. Sie überqueren den Fluss auf der Pont Wilson und fahren entlang des Ufers zum Schloss. Die Tour endet an der majestätischen Kathedrale, nachdem Sie die Stadt aus einer dynamischen Perspektive erlebt haben.",
+        "hu": "Ez a kerékpáros túra a dús Botanikus kerttől az óvároson át egészen a Loire-ig vezet. Átkelünk a folyón a Pont Wilsonon, majd a part mentén tekerünk a kastélyig. A túra a fenséges székesegyháznál ér véget, miután dinamikus perspektívából ismertük meg a várost.",
+        "ro": "Acest tur cu bicicleta vă poartă de la Grădina Botanică luxuriantă, prin centrul vechi, până la Loira. Traversăm râul pe Pont Wilson și pedalăm de-a lungul malului până la castel. Turul se încheie la catedrala maiestuoasă, după ce ați experimentat orașul dintr-o perspectivă dinamică.",
+        "en": "This bike tour takes you from the lush Botanical Garden through the old town all the way to the Loire. Cross the river on Pont Wilson and ride along the banks to the castle. The tour ends at the majestic cathedral after experiencing the city from a dynamic perspective."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Guinguette de Tours",
+            "tip": "Ein Open-Air-Lokal an der Loire, perfekt für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Guinguette de Tours",
+            "tip": "Szabadtéri hely a Loire partján, tökéletes egy pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Guinguette de Tours",
+            "tip": "Un local în aer liber pe malul Loirei, perfect pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Guinguette de Tours",
+            "tip": "An open-air spot on the banks of the Loire, perfect for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ile Simon",
+            "tip": "Eine Insel in der Loire, ideal für eine ruhige Pause im Grünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ile Simon",
+            "tip": "Sziget a Loire közepén, ideális egy csendes pihenőhöz a zöldben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ile Simon",
+            "tip": "O insulă în mijlocul Loirei, ideală pentru o pauză liniștită în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ile Simon",
+            "tip": "An island in the Loire, ideal for a quiet break in the greenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo-Märkte",
+            "tip": "Gelegentliche Fahrradmärkte in der Nähe des Rathauses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklis piacok",
+            "tip": "Alkalmankénti kerékpáros vásárok a városháza közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe de biciclete",
+            "tip": "Piețe ocazionale de biciclete în apropierea primăriei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Markets",
+            "tip": "Occasional bicycle markets near the city hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tours ist Teil der Route 'La Loire à Vélo'.",
+          "Die Wege sind hervorragend ausgebaut und markiert.",
+          "Nutzen Sie die 'Indigo'-Fahrradleihstationen im Stadtzentrum."
+        ],
+        "hu": [
+          "Tours a 'La Loire à Vélo' kerékpáros útvonal része.",
+          "Az utak kiválóan kiépítettek és táblákkal jelzettek.",
+          "Használja az 'Indigo' kerékpárkölcsönző állomásokat a belvárosban."
+        ],
+        "ro": [
+          "Tours face parte din traseul 'La Loire à Vélo'.",
+          "Pistele sunt excelent amenajate și marcate.",
+          "Folosiți stațiile de închiriere de biciclete 'Indigo' din centrul orașului."
+        ],
+        "en": [
+          "Tours is part of the 'La Loire à Vélo' cycling route.",
+          "The paths are excellently developed and well-marked.",
+          "Use the 'Indigo' bike rental stations in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place Plumereau",
+          "coords": [
+            0.6812,
+            47.3942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie im Parkhaus 'Halles' und gehen Sie zu Fuß weiter.",
+            "hu": "Parkoljon a 'Halles' parkolóházban, és menjen tovább gyalog.",
+            "ro": "Parcați în parcarea 'Halles' și continuați pe jos.",
+            "en": "Park in the 'Halles' parking garage and continue on foot."
+          }
+        },
+        {
+          "name": "Basilika Saint-Martin",
+          "coords": [
+            0.6825,
+            47.3931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Kurzer Fußweg vom Place Plumereau (Cluster Altstadt).",
+            "hu": "Rövid séta a Place Plumereau-tól (Óváros klaszter).",
+            "ro": "Scurtă plimbare din Place Plumereau (Clusterul Orașul Vechi).",
+            "en": "Short walk from Place Plumereau (Old Town cluster)."
+          }
+        },
+        {
+          "name": "Hôtel Goüin",
+          "coords": [
+            0.6841,
+            47.3945
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Teil des geführten Spaziergangs durch das Viertel Vieux Tours.",
+            "hu": "A Vieux Tours negyeden átvezető vezetett séta része.",
+            "ro": "Parte a plimbării ghidate prin cartierul Vieux Tours.",
+            "en": "Part of the guided walk through the Vieux Tours district."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Gatien",
+          "coords": [
+            0.6945,
+            47.3941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Fahrt zum Cluster Kathedrale; nutzen Sie die Parkplätze an der Place de la Cathédrale.",
+            "hu": "Vezetés a Székesegyház klaszterhez; használja a katedrális téri parkolókat.",
+            "ro": "Mergeți spre Clusterul Catedralei; folosiți locurile de parcare din Place de la Cathédrale.",
+            "en": "Drive to the Cathedral cluster; use the parking spots at Place de la Cathédrale."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            0.6942,
+            47.3932
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Direkt neben der Kathedrale (zu Fuß erreichbar).",
+            "hu": "Közvetlenül a katedrális mellett (gyalogosan elérhető).",
+            "ro": "Chiar lângă catedrală (accesibil pe jos).",
+            "en": "Right next to the cathedral (accessible on foot)."
+          }
+        },
+        {
+          "name": "Schloss von Tours",
+          "coords": [
+            0.6931,
+            47.3962
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Letzter Stopp in diesem Cluster, bevor es zum Garten geht.",
+            "hu": "Utolsó állomás ebben a klaszterben, mielőtt a kerthez mennénk.",
+            "ro": "Ultima oprire în acest cluster înainte de a merge la grădină.",
+            "en": "Last stop in this cluster before heading to the garden."
+          }
+        },
+        {
+          "name": "Jardin Botanique",
+          "coords": [
+            0.6721,
+            47.3912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Fahrt zum westlichen Ende der Stadt; Parkplatz direkt am Haupteingang.",
+            "hu": "Vezetés a város nyugati szélére; parkoló közvetlenül a főbejáratnál.",
+            "ro": "Mergeți spre marginea de vest a orașului; parcare chiar la intrarea principală.",
+            "en": "Drive to the western edge of the city; parking right at the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Tours in effizienten Clustern. Zuerst parken Sie in der Altstadt für den Place Plumereau und Saint-Martin. Danach fahren Sie zum Kathedralen-Viertel, wo Sie die Kirche, das Schloss und das Kunstmuseum gesammelt besuchen. Zum Abschluss führt die Fahrt zum ruhigen Botanischen Garten im Westen der Stadt.",
+        "hu": "Autóval hatékony klaszterekben fedezzük fel Tours-t. Először az óvárosban parkolunk a Place Plumereau és a Szent Márton bazilika meglátogatásához. Ezután a Katedrális-negyedbe hajtunk, ahol a templom, a kastély és a múzeum vár. Végül a város nyugati részén fekvő csendes Botanikus kertbe látogatunk.",
+        "ro": "Cu mașina, explorăm orașul Tours în clustere eficiente. Mai întâi parcați în centrul vechi pentru Place Plumereau și Saint-Martin. Apoi conduceți spre cartierul Catedralei, unde vizitați biserica, castelul și muzeul de artă. La final, drumul vă duce la liniștita Grădină Botanică din vestul orașului.",
+        "en": "By car, explore Tours in efficient clusters. First, park in the old town for Place Plumereau and Saint Martin. Then, drive to the Cathedral district to visit the church, castle, and art museum together. Finally, head to the peaceful Botanical Garden on the western edge of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Turon",
+            "tip": "Gehobene regionale Küche in der Nähe der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Turon",
+            "tip": "Színvonalas regionális konyha a székesegyház közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Turon",
+            "tip": "Bucătărie regională rafinată în apropierea catedralei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Turon",
+            "tip": "Upscale regional cuisine near the cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Prébendes",
+            "tip": "Ein wunderschöner, ruhiger Landschaftspark im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Prébendes",
+            "tip": "Gyönyörű, csendes tájképi kert a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Prébendes",
+            "tip": "O grădină peisagistică superbă și liniștită în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Prébendes",
+            "tip": "A beautiful, quiet landscaped park in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue de Grammont",
+            "tip": "Viele Geschäfte und Cafés entlang dieser großen Achse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue de Grammont",
+            "tip": "Számos üzlet és kávézó ezen a nagy sugárúton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue de Grammont",
+            "tip": "Multe magazine și cafenele de-a lungul acestei mari axe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue de Grammont",
+            "tip": "Many shops and cafes along this major boulevard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Fahren direkt in die Fußgängerzonen der Altstadt.",
+          "Nutzen Sie die Park-and-Ride-Plätze (P+R) an den Tram-Endstationen.",
+          "Das Parken am Straßenrand ist im Zentrum oft zeitlich begrenzt."
+        ],
+        "hu": [
+          "Kerülje az autóval való behajtást az óváros sétálóövezeteibe.",
+          "Használja a P+R parkolókat a villamos végállomásainál.",
+          "A belvárosi utcai parkolás gyakran időben korlátozott."
+        ],
+        "ro": [
+          "Evitați să conduceți direct în zonele pietonale din centrul vechi.",
+          "Folosiți parcările de tip P+R de la capetele liniilor de tramvai.",
+          "Parcarea pe stradă în centru este adesea limitată ca timp."
+        ],
+        "en": [
+          "Avoid driving directly into the pedestrian zones of the old town.",
+          "Use the Park-and-Ride (P+R) lots at the tram termini.",
+          "On-street parking in the center is often time-limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Plumereau",
+          "coords": [
+            0.6812,
+            47.3942
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Nehmen Sie die Tram Linie A bis zur Haltestelle 'Porte de Loire'.",
+            "hu": "Szálljon fel az 'A' villamosra a 'Porte de Loire' megállóig.",
+            "ro": "Luați tramvaiul linia A până la stația 'Porte de Loire'.",
+            "en": "Take tram line A to the 'Porte de Loire' stop."
+          }
+        },
+        {
+          "name": "Basilika Saint-Martin",
+          "coords": [
+            0.6825,
+            47.3931
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Vom Place Plumereau aus leicht zu Fuß erreichbar.",
+            "hu": "A Place Plumereau-tól könnyen elérhető gyalogosan.",
+            "ro": "Accesibil ușor pe jos din Place Plumereau.",
+            "en": "Easily accessible on foot from Place Plumereau."
+          }
+        },
+        {
+          "name": "Pont Wilson",
+          "coords": [
+            0.6852,
+            47.3965
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Die Tram überquert die Brücke; steigen Sie für die Aussicht aus.",
+            "hu": "A villamos áthalad a hídon; szálljon le a kilátás kedvéért.",
+            "ro": "Tramvaiul traversează podul; coborâți pentru panoramă.",
+            "en": "The tram crosses the bridge; get off to enjoy the view."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Gatien",
+          "coords": [
+            0.6945,
+            47.3941
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_4lang": {
+            "de": "Nutzen Sie den Bus Linie 54 oder die Tram bis 'Nationale'.",
+            "hu": "Használja az 54-es buszt vagy a villamost a 'Nationale' megállóig.",
+            "ro": "Folosiți autobuzul linia 54 sau tramvaiul până la 'Nationale'.",
+            "en": "Use bus line 54 or the tram to the 'Nationale' stop."
+          }
+        },
+        {
+          "name": "Schloss von Tours",
+          "coords": [
+            0.6931,
+            47.3962
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Vom Kathedralen-Distrikt aus ein kurzer Spaziergang zum Fluss.",
+            "hu": "A Katedrális-negyedtől rövid séta a folyó felé.",
+            "ro": "Din zona catedralei, o scurtă plimbare spre râu.",
+            "en": "A short walk towards the river from the cathedral district."
+          }
+        },
+        {
+          "name": "Jardin Botanique",
+          "coords": [
+            0.6721,
+            47.3912
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Nehmen Sie den Bus Linie 4 direkt bis zur Haltestelle 'Botanique'.",
+            "hu": "Szálljon fel a 4-es buszra közvetlenül a 'Botanique' megállóig.",
+            "ro": "Luați autobuzul linia 4 direct până la stația 'Botanique'.",
+            "en": "Take bus line 4 directly to the 'Botanique' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Tram- und Bussystem von Tours. Wir starten im Zentrum und fahren über die Pont Wilson zum Kathedralen-Viertel. Nach dem Besuch der historischen Monumente bringt uns der Bus direkt zum Botanischen Garten, wo wir die Tour im Grünen entspannt ausklingen lassen.",
+        "hu": "Használja Tours kiváló villamos- és buszhálózatát. A központból indulunk, átkelünk a Pont Wilsonon a Katedrális-negyedig. A történelmi műemlékek megtekintése után busz visz minket közvetlenül a Botanikus kertbe, ahol a túrát a zöldben, pihentetően zárjuk.",
+        "ro": "Folosiți sistemul excelent de tramvai și autobuz din Tours. Pornim din centru și traversăm Pont Wilson spre cartierul Catedralei. După vizitarea monumentelor istorice, autobuzul ne duce direct la Grădina Botanică, unde încheiem turul relaxat, în mijlocul naturii.",
+        "en": "Make use of Tours' excellent tram and bus network. We start in the center and travel via Pont Wilson to the Cathedral district. After visiting the historic monuments, a bus takes us directly to the Botanical Garden, where we end the tour with a relaxing break in the greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Perfekt für ein schnelles Mittagessen zum Mitnehmen zwischen den Fahrten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Tökéletes egy gyors elvihető ebédhez a járatok között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Perfect pentru un prânz rapid la pachet între curse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie du Palais",
+            "tip": "Perfect for a quick take-away lunch between rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place Chateauneuf",
+            "tip": "Ein ruhiger Platz abseits der Touristenmassen des Place Plumereau.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Chateauneuf",
+            "tip": "Csendes tér a Place Plumereau turistatömegétől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place Chateauneuf",
+            "tip": "O piață liniștită, departe de aglomerația turistică din Place Plumereau.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Chateauneuf",
+            "tip": "A quiet square away from the tourist crowds of Place Plumereau.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Nationale",
+            "tip": "Die Haupteinkaufsstraße, durch die auch die Tram fährt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Nationale",
+            "tip": "A fő bevásárlóutca, amelyen a villamos is végighalad."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Nationale",
+            "tip": "Principala stradă comercială, pe unde trece și tramvaiul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Nationale",
+            "tip": "The main shopping street, along which the tram also runs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die App 'Fil Bleu' für Echtzeit-Fahrpläne herunter.",
+          "Tickets können direkt an den Automaten an den Tramhaltestellen gekauft werden.",
+          "Ein Tagesticket ist oft günstiger als Einzelfahrten."
+        ],
+        "hu": [
+          "Töltse le a 'Fil Bleu' alkalmazást a valós idejű menetrendekhez.",
+          "Jegyet közvetlenül a villamosmegállók automatáinál vásárolhat.",
+          "A napijegy gyakran olcsóbb, mint több vonaljegy."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Fil Bleu' pentru orarele în timp real.",
+          "Biletele pot fi cumpărate direct de la automatele din stațiile de tramvai.",
+          "Un bilet de o zi este adesea mai avantajos decât mai multe călătorii simple."
+        ],
+        "en": [
+          "Download the 'Fil Bleu' app for real-time schedules.",
+          "Tickets can be purchased directly from machines at the tram stops.",
+          "A day pass is often cheaper than multiple single tickets."
+        ]
+      }
+    }
+  }
+}

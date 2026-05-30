@@ -1,0 +1,982 @@
+{
+  "city_id": "offenbach-extra",
+  "anchor": {
+    "name": "Wilhelmsplatz",
+    "coords": [
+      8.7621,
+      50.1045
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wilhelmsplatz",
+            "hu": "Wilhelmsplatz",
+            "ro": "Wilhelmsplatz",
+            "en": "Wilhelmsplatz"
+          },
+          "coords": [
+            8.7622,
+            50.1044
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Wochenmarkt am Dienstag, Freitag oder Samstag.",
+            "hu": "Kedden, pénteken és szombaton fantasztikus termelői piac van itt.",
+            "ro": "Vizitați piața săptămânală marțea, vinerea sau sâmbăta.",
+            "en": "Visit the weekly market on Tuesdays, Fridays, or Saturdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            8.7615,
+            50.1062
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Architektur dieser katholischen Hauptkirche.",
+            "hu": "Csodálja meg a város fő katolikus templomának neobarokk stílusát.",
+            "ro": "Admirați arhitectura neobarocă a acestei biserici catolice principale.",
+            "en": "Admire the neo-baroque architecture of this main Catholic church."
+          }
+        },
+        {
+          "name": {
+            "de": "Klingspor Museum",
+            "hu": "Klingspor Múzeum",
+            "ro": "Muzeul Klingspor",
+            "en": "Klingspor Museum"
+          },
+          "coords": [
+            8.76,
+            50.108
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans von Typografie und Buchkunst im Büsing-Palais.",
+            "hu": "A tipográfia és a könyvművészet rajongóinak kötelező látnivaló.",
+            "ro": "O necesitate pentru fanii tipografiei și artei cărții.",
+            "en": "A must-see for fans of typography and book art."
+          }
+        },
+        {
+          "name": {
+            "de": "Büsing-Palais",
+            "hu": "Büsing-palota",
+            "ro": "Palatul Büsing",
+            "en": "Büsing Palais"
+          },
+          "coords": [
+            8.759,
+            50.1075
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den angrenzenden Park dieses prächtigen Stadtpalais.",
+            "hu": "Sétáljon egyet a pompás városi palota melletti parkban.",
+            "ro": "Plimbați-vă prin parcul adiacent al acestui magnific palat urban.",
+            "en": "Stroll through the adjacent park of this magnificent city palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Isenburger Schloss",
+            "hu": "Isenburgi kastély",
+            "ro": "Castelul Isenburg",
+            "en": "Isenburger Schloss"
+          },
+          "coords": [
+            8.7635,
+            50.1085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Renaissance-Schloss beherbergt heute die Design-Hochschule.",
+            "hu": "A reneszánsz kastély ma a formatervezési főiskolának ad otthont.",
+            "ro": "Castelul renascentist găzduiește astăzi universitatea de design.",
+            "en": "The Renaissance castle now houses the University of Art and Design."
+          }
+        },
+        {
+          "name": {
+            "de": "Capitol",
+            "hu": "Capitol Színház",
+            "ro": "Teatrul Capitol",
+            "en": "Capitol Theatre"
+          },
+          "coords": [
+            8.7645,
+            50.107
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Früher eine Synagoge, heute ein beeindruckendes Veranstaltungszentrum.",
+            "hu": "Egykori zsinagóga, ma lenyűgöző rendezvényközpont.",
+            "ro": "Fostă sinagogă, astăzi un centru de evenimente impresionant.",
+            "en": "Formerly a synagogue, now an impressive event center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am lebendigen Wilhelmsplatz, dem Herzstück der Stadt. Nach einem Besuch der Marienkirche tauchen Sie im Klingspor Museum in die Welt der Schriften ein. Mittags genießen Sie die Ruhe am Büsing-Palais, bevor Sie das Isenburger Schloss direkt am Mainufer erkunden. Den Nachmittag lassen Sie am Capitol ausklingen, einem architektonischen Juwel mit bewegter Geschichte.",
+        "hu": "A napot a nyüzsgő Wilhelmsplatzon kezdi, amely a város igazi szíve. A Szent Mária-templom megtekintése után a Klingspor Múzeumban elmerülhet a betűk világában. Délben a Büsing-palota nyugalmát élvezheti, majd felfedezheti a Majna-parti Isenburgi kastélyt. A délutánt a Capitol színháznál zárja, amely egy hányatott sorsú építészeti ékszerdoboz.",
+        "ro": "Ziua începe în vibranta Wilhelmsplatz, inima orașului. După o vizită la Biserica Sfânta Maria, vă scufundați în lumea fonturilor la Muzeul Klingspor. La prânz vă bucurați de liniștea de la Palatul Büsing, înainte de a explora Castelul Isenburg direct pe malul râului Main. Încheiați după-amiaza la Capitol, o bijuterie arhitecturală cu o istorie bogată.",
+        "en": "Your day starts at the lively Wilhelmsplatz, the heart of the city. After visiting St. Mary's Church, dive into the world of typography at the Klingspor Museum. At noon, enjoy the tranquility at the Büsing Palais before exploring the Isenburger Schloss on the banks of the Main. End the afternoon at the Capitol, an architectural gem with a moving history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tafelspitz & Co",
+            "tip": "Hessische Spezialitäten direkt am Wilhelmsplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tafelspitz & Co",
+            "tip": "Helyi hesseni specialitások közvetlenül a Wilhelmsplatznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tafelspitz & Co",
+            "tip": "Specialități hesseane chiar în Wilhelmsplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tafelspitz & Co",
+            "tip": "Hessian specialties right at Wilhelmsplatz."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Büsing-Park",
+            "tip": "Eine grüne Oase mitten in der Innenstadt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Büsing-Park",
+            "tip": "Zöld oázis a belváros közepén.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Büsing-Park",
+            "tip": "O oază de verdeață în mijlocul centrului orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Büsing-Park",
+            "tip": "A green oasis in the middle of the city center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte und eine tolle Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionális termékek és remek hangulat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Produse regionale și o atmosferă grozavă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products and a great atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Offenbach ist flach und perfekt zu Fuß zu erkunden.",
+          "Die S-Bahn Station Marktplatz ist der beste Einstiegspunkt."
+        ],
+        "hu": [
+          "Offenbach sík területen fekszik, gyalogosan tökéletesen bejárható.",
+          "A Marktplatz S-Bahn megálló a legjobb kezdőpont."
+        ],
+        "ro": [
+          "Offenbach este plat și perfect pentru a fi explorat pe jos.",
+          "Stația de S-Bahn Marktplatz este cel mai bun punct de plecare."
+        ],
+        "en": [
+          "Offenbach is flat and perfect to explore on foot.",
+          "The Marktplatz S-Bahn station is the best starting point."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wilhelmsplatz",
+            "hu": "Wilhelmsplatz",
+            "ro": "Wilhelmsplatz",
+            "en": "Wilhelmsplatz"
+          },
+          "coords": [
+            8.7622,
+            50.1044
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich auf dem Markt für die Radtour.",
+            "hu": "Reggelizzen a piacon a biciklitúra előtt.",
+            "ro": "Luați micul dejun la piață înainte de turul cu bicicleta.",
+            "en": "Get some breakfast at the market before the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Ledermuseum",
+            "hu": "Német Bőrmúzeum",
+            "ro": "Muzeul German al Pielăriei",
+            "en": "German Leather Museum"
+          },
+          "coords": [
+            8.752,
+            50.104
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Weltweit einzigartige Sammlung zur Geschichte des Leders.",
+            "hu": "Világszinten egyedülálló gyűjtemény a bőr történetéről.",
+            "ro": "Colecție unică la nivel mondial despre istoria pielăriei.",
+            "en": "World-unique collection on the history of leather."
+          }
+        },
+        {
+          "name": {
+            "de": "Lilientempel",
+            "hu": "Lili-templom",
+            "ro": "Templul Lilie",
+            "en": "Lilientempel"
+          },
+          "coords": [
+            8.755,
+            50.108
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kleiner Pavillon am Main, verbunden mit Goethes Lili Schönemann.",
+            "hu": "Kis pavilon a Majna-parton, Goethe szerelméhez kapcsolódva.",
+            "ro": "Un mic pavilion pe malul Mainului, legat de Lili Schönemann a lui Goethe.",
+            "en": "A small pavilion on the Main, associated with Goethe's Lili Schönemann."
+          }
+        },
+        {
+          "name": {
+            "de": "Büsing-Palais",
+            "hu": "Büsing-palota",
+            "ro": "Palatul Büsing",
+            "en": "Büsing Palais"
+          },
+          "coords": [
+            8.759,
+            50.1075
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den breiten Radweg entlang der Berliner Straße.",
+            "hu": "Használja a széles bicikliutat a Berliner Straße mentén.",
+            "ro": "Utilizați pista largă de biciclete de-a lungul străzii Berliner Straße.",
+            "en": "Use the wide bike path along Berliner Straße."
+          }
+        },
+        {
+          "name": {
+            "de": "Isenburger Schloss",
+            "hu": "Isenburgi kastély",
+            "ro": "Castelul Isenburg",
+            "en": "Isenburger Schloss"
+          },
+          "coords": [
+            8.7635,
+            50.1085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Mainradweg führt direkt am Schloss vorbei.",
+            "hu": "A Majna-menti kerékpárút közvetlenül a kastély mellett halad el.",
+            "ro": "Pista de biciclete Mainradweg trece chiar pe lângă castel.",
+            "en": "The Main river bike path passes directly by the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Capitol",
+            "hu": "Capitol Színház",
+            "ro": "Teatrul Capitol",
+            "en": "Capitol Theatre"
+          },
+          "coords": [
+            8.7645,
+            50.107
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gute Abstellmöglichkeiten für Fahrräder im Innenhof.",
+            "hu": "Jó biciklitárolási lehetőség a belső udvarban.",
+            "ro": "Posibilități bune de parcare a bicicletelor în curtea interioară.",
+            "en": "Good bicycle parking available in the inner courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie Offenbach auf zwei Rädern! Vom Wilhelmsplatz geht es zum weltberühmten Ledermuseum. Genießen Sie die Fahrt am Mainufer zum Lilientempel und weiter zum Büsing-Palais. Der Isenburger Schloss ist ein Highlight direkt an der Route, bevor Sie Ihre Tour am Capitol abschließen. Die flachen Wege machen die Tour entspannt.",
+        "hu": "Fedezze fel Offenbachot két keréken! A Wilhelmsplatztól a világhírű Bőrmúzeumig tekerhet. Élvezze a Majna-parti utat a Lili-templomhoz, majd tovább a Büsing-palotához. Az Isenburgi kastély az útvonal egyik fénypontja, mielőtt a Capitolnál befejezné a túrát. A sík utak miatt a tekerés kényelmes és pihentető.",
+        "ro": "Descoperiți Offenbach pe două roți! De la Wilhelmsplatz mergeți la faimosul Muzeu al Pielăriei. Bucurați-vă de plimbarea pe malul Mainului până la Templul Lilie și mai departe la Palatul Büsing. Castelul Isenburg este un punct culminant direct pe traseu, înainte de a vă încheia turul la Capitol. Traseele plate fac turul relaxant.",
+        "en": "Explore Offenbach on two wheels! From Wilhelmsplatz, head to the world-famous Leather Museum. Enjoy the ride along the Main river to the Lilientempel and on to the Büsing Palais. The Isenburger Schloss is a highlight directly on the route before concluding your tour at the Capitol. The flat paths make the ride relaxed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kafé im Ledermuseum",
+            "tip": "Perfekt für eine kleine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kafé im Ledermuseum",
+            "tip": "Tökéletes hely egy kis kávészünetre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kafé im Ledermuseum",
+            "tip": "Perfect pentru o mică pauză de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kafé im Ledermuseum",
+            "tip": "Perfect for a small coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mainuferpromenade",
+            "tip": "Bester Platz für eine Pause mit Flussblick.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Majna-parti sétány",
+            "tip": "A legjobb hely egy pihenőre folyóra néző kilátással.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Mainului",
+            "tip": "Cel mai bun loc pentru o pauză cu vedere la râu.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Main river promenade",
+            "tip": "Best place for a break with river views.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ledershops",
+            "tip": "In der Innenstadt finden Sie hochwertige Lederwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bőrdíszműves boltok",
+            "tip": "A belvárosban kiváló minőségű bőrárut találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de pielărie",
+            "tip": "În centrul orașului găsiți articole din piele de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leather shops",
+            "tip": "You can find high-quality leather goods in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Mainradweg verbindet Offenbach perfekt mit Frankfurt.",
+          "Achten Sie auf die Beschilderung 'Hessischer Radfernweg R3'."
+        ],
+        "hu": [
+          "A Majna-menti kerékpárút tökéletesen összeköti Offenbachot Frankfurttal.",
+          "Figyelje a 'Hessischer Radfernweg R3' jelzéseket."
+        ],
+        "ro": [
+          "Pista de biciclete Mainradweg conectează perfect Offenbach de Frankfurt.",
+          "Urmăriți indicatoarele 'Hessischer Radfernweg R3'."
+        ],
+        "en": [
+          "The Main river bike path connects Offenbach perfectly with Frankfurt.",
+          "Look for the 'Hessischer Radfernweg R3' signs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Ledermuseum",
+            "hu": "Német Bőrmúzeum",
+            "ro": "Muzeul German al Pielăriei",
+            "en": "German Leather Museum"
+          },
+          "coords": [
+            8.752,
+            50.104
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus direkt am Museum verfügbar (Cluster A).",
+            "hu": "Parkolóház közvetlenül a múzeumnál elérhető (A klaszter).",
+            "ro": "Parcare disponibilă chiar lângă muzeu (Cluster A).",
+            "en": "Parking garage available directly at the museum (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Lilientempel",
+            "hu": "Lili-templom",
+            "ro": "Templul Lilie",
+            "en": "Lilientempel"
+          },
+          "coords": [
+            8.755,
+            50.108
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Ledermuseum durch das Westend.",
+            "hu": "Rövid séta a Bőrmúzeumtól a Westend negyeden át.",
+            "ro": "O scurtă plimbare de la Muzeul Pielăriei prin Westend.",
+            "en": "A short walk from the Leather Museum through the Westend."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelmsplatz",
+            "hu": "Wilhelmsplatz",
+            "ro": "Wilhelmsplatz",
+            "en": "Wilhelmsplatz"
+          },
+          "coords": [
+            8.7622,
+            50.1044
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Marktplatz (Cluster B).",
+            "hu": "Parkoljon a Marktplatz alatti garázsban (B klaszter).",
+            "ro": "Parcați în parcarea de la Marktplatz (Cluster B).",
+            "en": "Park in the parking garage at Marktplatz (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Büsing-Palais",
+            "hu": "Büsing-palota",
+            "ro": "Palatul Büsing",
+            "en": "Büsing Palais"
+          },
+          "coords": [
+            8.759,
+            50.1075
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Marktplatz bequem zu Fuß erreichbar.",
+            "hu": "A Marktplatztól kényelmesen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la Marktplatz.",
+            "en": "Easily accessible on foot from Marktplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Isenburger Schloss",
+            "hu": "Isenburgi kastély",
+            "ro": "Castelul Isenburg",
+            "en": "Isenburger Schloss"
+          },
+          "coords": [
+            8.7635,
+            50.1085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Mainstraße zum Renaissance-Bau.",
+            "hu": "Séta a Mainstraße mentén a reneszánsz épületig.",
+            "ro": "Plimbare pe strada Mainstraße până la clădirea renascentistă.",
+            "en": "Walk along Mainstraße to the Renaissance building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Offenbach effizient in zwei Clustern. Zuerst besuchen Sie das Ledermuseum und das charmante Westend. Danach parken Sie zentral am Marktplatz, um den Wilhelmsplatz, das Büsing-Palais und das Isenburger Schloss zu Fuß zu entdecken. Diese Kombination spart Parkplatzsuche und bietet maximale Flexibilität.",
+        "hu": "Autóval két klaszterre osztva fedezheti fel Offenbachot. Először a Bőrmúzeumot és a hangulatos Westend negyedet keresi fel. Ezután a Marktplatznál parkolva gyalogosan járhatja be a Wilhelmsplatzot, a Büsing-palotát és az Isenburgi kastélyt. Ez a kombináció megkíméli a parkolóhely-kereséstől és maximális rugalmasságot biztosít.",
+        "ro": "Cu mașina explorați Offenbach eficient în două clustere. Mai întâi vizitați Muzeul Pielăriei și fermecătorul Westend. Apoi parcați central la Marktplatz pentru a descoperi pe jos Wilhelmsplatz, Palatul Büsing și Castelul Isenburg. Această combinație economisește căutarea unui loc de parcare și oferă flexibilitate maximă.",
+        "en": "Explore Offenbach efficiently by car in two clusters. First, visit the Leather Museum and the charming Westend. Then, park centrally at Marktplatz to discover Wilhelmsplatz, the Büsing Palais, and the Isenburger Schloss on foot. This combination saves time on parking and offers maximum flexibility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schöne Aussicht",
+            "tip": "Traditionelles Gasthaus am Mainbogen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schöne Aussicht",
+            "tip": "Hagyományos vendéglő a Majna-kanyarban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schöne Aussicht",
+            "tip": "Han tradițional pe malul Mainului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schöne Aussicht",
+            "tip": "Traditional inn at the Main river bend."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lili-Park",
+            "tip": "Ruhiger Park am Main beim Lilientempel.",
+            "emoji": "🚗"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lili-Park",
+            "tip": "Csendes park a Majna-parton a Lili-templomnál.",
+            "emoji": "🚗"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lili-Park",
+            "tip": "Parc liniștit pe malul Mainului lângă Templul Lilie.",
+            "emoji": "🚗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lili-Park",
+            "tip": "Quiet park by the Main near the Lilientempel.",
+            "emoji": "🚗"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "KOMM Shopping Center",
+            "tip": "Parkhaus vorhanden, direkt in der City."
+          }
+        ],
+        "hu": [
+          {
+            "name": "KOMM bevásárlóközpont",
+            "tip": "Saját parkolóház, közvetlenül a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial KOMM",
+            "tip": "Parcare proprie, chiar în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "KOMM Shopping Center",
+            "tip": "Parking garage available, right in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser 'Marktplatz' oder 'Berliner Straße'.",
+          "Vermeiden Sie die Rushhour auf der Frankfurter Straße."
+        ],
+        "hu": [
+          "Használja a 'Marktplatz' vagy a 'Berliner Straße' parkolóházakat.",
+          "Kerülje a csúcsforgalmat a Frankfurter Straßén."
+        ],
+        "ro": [
+          "Utilizați parcările 'Marktplatz' sau 'Berliner Straße'.",
+          "Evitați orele de vârf pe strada Frankfurter Straße."
+        ],
+        "en": [
+          "Use the 'Marktplatz' or 'Berliner Straße' parking garages.",
+          "Avoid rush hour on Frankfurter Straße."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Ledermuseum",
+            "hu": "Német Bőrmúzeum",
+            "ro": "Muzeul German al Pielăriei",
+            "en": "German Leather Museum"
+          },
+          "coords": [
+            8.752,
+            50.104
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkt an der S-Bahn Station Ledermuseum gelegen.",
+            "hu": "Közvetlenül a Ledermuseum S-Bahn megállónál található.",
+            "ro": "Situat chiar lângă stația de S-Bahn Ledermuseum.",
+            "en": "Located right at the Ledermuseum S-Bahn station."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Marktplatz",
+            "ro": "Marktplatz",
+            "en": "Marktplatz"
+          },
+          "coords": [
+            8.761,
+            50.107
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nur eine S-Bahn Station vom Ledermuseum entfernt.",
+            "hu": "Csak egy S-Bahn megálló a Bőrmúzeumtól.",
+            "ro": "La doar o stație de S-Bahn de Muzeul Pielăriei.",
+            "en": "Just one S-Bahn stop away from the Leather Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Klingspor Museum",
+            "hu": "Klingspor Múzeum",
+            "ro": "Muzeul Klingspor",
+            "en": "Klingspor Museum"
+          },
+          "coords": [
+            8.76,
+            50.108
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Marktplatz.",
+            "hu": "Rövid séta a Marktplatztól.",
+            "ro": "O scurtă plimbare de la Marktplatz.",
+            "en": "A short walk from Marktplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Isenburger Schloss",
+            "hu": "Isenburgi kastély",
+            "ro": "Castelul Isenburg",
+            "en": "Isenburger Schloss"
+          },
+          "coords": [
+            8.7635,
+            50.1085
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausstellungen der HfG Offenbach.",
+            "hu": "Nézze meg az Offenbachi Művészeti Főiskola kiállításait.",
+            "ro": "Vizitați expozițiile universității HfG Offenbach.",
+            "en": "Visit the exhibitions of the HfG Offenbach."
+          }
+        },
+        {
+          "name": {
+            "de": "Capitol",
+            "hu": "Capitol Színház",
+            "ro": "Teatrul Capitol",
+            "en": "Capitol Theatre"
+          },
+          "coords": [
+            8.7645,
+            50.107
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Von hier aus sind es nur wenige Gehminuten zurück zur S-Bahn.",
+            "hu": "Innen csak pár perc séta vissza az S-Bahn megállóhoz.",
+            "ro": "De aici sunt doar câteva minute de mers pe jos până la S-Bahn.",
+            "en": "From here, it's just a few minutes' walk back to the S-Bahn."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die hervorragende S-Bahn-Anbindung Offenbachs! Starten Sie am Ledermuseum und fahren Sie eine Station zum Marktplatz. Von dort erreichen Sie das Klingspor Museum, das Isenburger Schloss und das Capitol bequem zu Fuß. Der öffentliche Nahverkehr macht die Wege kurz und unkompliziert.",
+        "hu": "Használja ki Offenbach kiváló S-Bahn közlekedését! Kezdjen a Bőrmúzeumnál, majd utazzon egy megállót a Marktplatzig. Onnan a Klingspor Múzeum, az Isenburgi kastély és a Capitol színház is kényelmes sétával elérhető. A tömegközlekedéssel az utak rövidek és egyszerűek.",
+        "ro": "Utilizați conexiunile excelente de S-Bahn din Offenbach! Începeți la Muzeul Pielăriei și mergeți o stație până la Marktplatz. De acolo, puteți ajunge cu ușurință pe jos la Muzeul Klingspor, Castelul Isenburg și Capitol. Transportul public face drumurile scurte și simple.",
+        "en": "Take advantage of Offenbach's excellent S-Bahn connections! Start at the Leather Museum and ride one stop to Marktplatz. From there, you can easily reach the Klingspor Museum, the Isenburger Schloss, and the Capitol on foot. Public transit makes getting around short and uncomplicated."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kismet",
+            "tip": "Beliebtes Bistro am Marktplatz mit orientalischem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kismet",
+            "tip": "Népszerű bisztró a Marktplatzon keleties hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kismet",
+            "tip": "Bistro popular în Marktplatz cu fler oriental."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kismet",
+            "tip": "Popular bistro at Marktplatz with oriental flair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mainufer",
+            "tip": "In der Nähe vom Schloss zum Entspannen am Wasser.",
+            "emoji": "🚆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Majna-part",
+            "tip": "A kastély közelében, tökéletes a vízparti pihenéshez.",
+            "emoji": "🚆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Mainului",
+            "tip": "Lângă castel, pentru relaxare lângă apă.",
+            "emoji": "🚆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Main river bank",
+            "tip": "Near the castle, for relaxing by the water.",
+            "emoji": "🚆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Frankfurter Straße",
+            "tip": "Die Haupteinkaufsstraße beginnt direkt am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frankfurter Straße",
+            "tip": "A fő bevásárlóutca közvetlenül a Marktplatznál kezdődik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Frankfurter Straße",
+            "tip": "Principala stradă comercială începe chiar de la Marktplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frankfurter Straße",
+            "tip": "The main shopping street begins right at Marktplatz."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die S-Bahnen S1, S2, S8 und S9 fahren im 5-Minuten-Takt.",
+          "Ein Einzelticket 'Kurzstrecke' reicht oft für eine Station."
+        ],
+        "hu": [
+          "Az S1, S2, S8 és S9 járatok 5 percenként közlekednek.",
+          "A 'Kurzstrecke' (rövid távú) jegy gyakran elég egy megállóra."
+        ],
+        "ro": [
+          "Trenurile S-Bahn S1, S2, S8 și S9 circulă la fiecare 5 minute.",
+          "Un bilet individual 'Kurzstrecke' este adesea suficient pentru o stație."
+        ],
+        "en": [
+          "The S-Bahn lines S1, S2, S8, and S9 run every 5 minutes.",
+          "A 'Kurzstrecke' (short trip) ticket is often enough for one stop."
+        ]
+      }
+    }
+  }
+}

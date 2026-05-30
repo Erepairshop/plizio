@@ -1,0 +1,1184 @@
+{
+  "city_id": "bingen-extra",
+  "anchor": {
+    "name": "Bingen am Rhein",
+    "coords": [
+      7.8931,
+      49.9669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Klopp",
+            "hu": "Klopp-vár",
+            "ro": "Castelul Klopp",
+            "en": "Klopp Castle"
+          },
+          "coords": [
+            7.8935,
+            49.9665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bester Panoramablick über das Binger Loch und das Rheintal.",
+            "hu": "A legjobb panoráma a Binger Lochra és a Rajna-völgyre.",
+            "ro": "Cea mai bună panoramă asupra văii Rinului și Binger Loch.",
+            "en": "Best panoramic view over the Binger Loch and the Rhine Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Martin",
+            "hu": "Szt. Márton-bazilika",
+            "ro": "Bazilica Sf. Martin",
+            "en": "Basilica of St. Martin"
+          },
+          "coords": [
+            7.8945,
+            49.9672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spätgotische Architektur mit romanischer Krypta aus dem 11. Jahrhundert.",
+            "hu": "Késő gótikus építészet 11. századi román kori kriptával.",
+            "ro": "Arhitectură gotică târzie cu o criptă romanică din secolul al XI-lea.",
+            "en": "Late Gothic architecture with an 11th-century Romanesque crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Stefan-George-Haus",
+            "hu": "Stefan-George-ház",
+            "ro": "Casa Stefan George",
+            "en": "Stefan George House"
+          },
+          "coords": [
+            7.8955,
+            49.9678
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Museum im Geburtshaus des berühmten Dichters.",
+            "hu": "Múzeum a híres költő szülőházában.",
+            "ro": "Muzeu în casa natală a celebrului poet.",
+            "en": "Museum in the birthplace of the famous poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            7.8948,
+            49.9682
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie regionale Weine und den Binger Zwiebelkuchen.",
+            "hu": "Kóstolja meg a helyi borokat és a bingeni hagymás lepényt.",
+            "ro": "Gustați vinurile locale și tarta cu ceapă din Bingen.",
+            "en": "Try local wines and the Bingen onion cake."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturufer Bingen",
+            "hu": "Bingeni kultúrpart",
+            "ro": "Faleza Culturală Bingen",
+            "en": "Bingen Culture Bank"
+          },
+          "coords": [
+            7.897,
+            49.9705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "3 km lange Rheinpromenade mit Gärten und Spielplätzen.",
+            "hu": "3 km hosszú Rajna-parti sétány kertekkel és játszóterekkel.",
+            "ro": "Faleză de 3 km de-a lungul Rinului cu grădini și locuri de joacă.",
+            "en": "3 km long Rhine promenade with gardens and playgrounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum am Strom",
+            "hu": "Múzeum a folyónál",
+            "ro": "Muzeul de lângă râu",
+            "en": "Museum am Strom"
+          },
+          "coords": [
+            7.8985,
+            49.9715
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ausstellung zu Hildegard von Bingen und römischer Medizingeschichte.",
+            "hu": "Bingeni Szent Hildegárd és a római orvostudomány története.",
+            "ro": "Expoziție despre Hildegard von Bingen și medicina romană.",
+            "en": "Exhibition on Hildegard von Bingen and Roman medical history."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf den Mäuseturm",
+            "hu": "Kilátás az Egértoronyra",
+            "ro": "Vedere spre Turnul Șoarecilor",
+            "en": "View of the Mouse Tower"
+          },
+          "coords": [
+            7.882,
+            49.972
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Park am Mäuseturm bietet den besten Blick auf das Wahrzeichen.",
+            "hu": "Az Egértorony parkjából nyílik a legjobb kilátás a jelképre.",
+            "ro": "Parcul de lângă Turnul Șoarecilor oferă cea mai bună priveliște.",
+            "en": "The Park am Mäuseturm offers the best view of the landmark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag auf der Burg Klopp mit einem fantastischen Blick auf den Rhein. Danach spazieren Sie in die Altstadt zur gotischen Basilika und zum Stefan-George-Haus. Mittags genießen Sie regionale Köstlichkeiten in einem der gemütlichen Gasthäuser. Der Nachmittag gehört dem Kulturufer, wo Sie am Rhein entlang schlendern und im Museum am Strom mehr über Hildegard von Bingen erfahren. Zum Abschluss genießen Sie die Abendstimmung mit Blick auf den legendären Mäuseturm.",
+        "hu": "Kezdje a napot a Klopp-várban, ahonnan fantasztikus kilátás nyílik a Rajnára. Ezután sétáljon az óvárosba a gótikus bazilikához és a Stefan-George-házhoz. Délben kóstolja meg a régió finomságait egy hangulatos vendéglőben. A délután a kultúrparté, ahol a Rajna mentén korzózhat, és a folyó menti múzeumban megismerheti Bingeni Szent Hildegárd életét. Zárásként élvezze az estét az Egértoronynál.",
+        "ro": "Începeți ziua la Castelul Klopp cu o vedere fantastică asupra Rinului. Apoi mergeți în centrul vechi la bazilica gotică și la Casa Stefan George. La prânz, savurați delicatese regionale într-o tavernă primitoare. După-amiaza aparține falezei culturale, unde vă puteți plimba de-a lungul Rinului și puteți afla mai multe despre Hildegard von Bingen la muzeu. Încheiați ziua admirând legendarul Turn al Șoarecilor în lumina apusului.",
+        "en": "Start your day at Klopp Castle with a fantastic view of the Rhine. Then walk into the old town to the Gothic basilica and the Stefan George House. At noon, enjoy regional delicacies in a cozy inn. The afternoon is dedicated to the Kulturufer, where you can stroll along the Rhine and learn more about Hildegard von Bingen at the museum. Finally, enjoy the evening atmosphere with a view of the legendary Mouse Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinothek Bingen",
+            "tip": "Hervorragende Auswahl an Nahe- und Rheinhessenweinen direkt am Ufer."
+          },
+          {
+            "name": "Zollamt Restaurant",
+            "tip": "Gehobene Küche in einem historischen Gebäude am Kulturufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinothek Bingen",
+            "tip": "Kiváló válogatás Nahe és Rheinhessen boraiból közvetlenül a parton."
+          },
+          {
+            "name": "Zollamt Restaurant",
+            "tip": "Minőségi konyha egy történelmi épületben a kultúrparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinothek Bingen",
+            "tip": "O selecție excelentă de vinuri din regiune chiar pe malul apei."
+          },
+          {
+            "name": "Zollamt Restaurant",
+            "tip": "Bucătărie rafinată într-o clădire istorică pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinothek Bingen",
+            "tip": "Excellent selection of local wines right on the waterfront."
+          },
+          {
+            "name": "Zollamt Restaurant",
+            "tip": "Upscale dining in a historic building on the Culture Bank."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hildegarten",
+            "tip": "Ein Kräutergarten nach dem Wissen von Hildegard von Bingen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Park am Mäuseturm",
+            "tip": "Ruhige Wiesenflächen am westlichen Ende der Promenade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hildegarten",
+            "tip": "Fűszerkert Szent Hildegárd tanításai alapján.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Park am Mäuseturm",
+            "tip": "Csendes füves területek a sétány nyugati végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hildegarten",
+            "tip": "O grădină de ierburi bazată pe cunoștințele lui Hildegard von Bingen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Park am Mäuseturm",
+            "tip": "Zone verzi liniștite la capătul de vest al falezei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hildegarten",
+            "tip": "A herb garden based on the knowledge of Hildegard von Bingen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Park am Mäuseturm",
+            "tip": "Quiet green areas at the western end of the promenade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Binger Wochenmarkt",
+            "tip": "Regionale Produkte auf dem Speisemarkt (Di & Fr)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Binger Wochenmarkt",
+            "tip": "Helyi termékek a Speisemarkton (kedd és péntek)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Binger Wochenmarkt",
+            "tip": "Produse regionale în piața Speisemarkt (marțea și vinerea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bingen Weekly Market",
+            "tip": "Regional products at the Speisemarkt (Tue & Fri)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bingen ist sehr fußgängerfreundlich, die meisten Sehenswürdigkeiten liegen nah beieinander.",
+          "Nutzen Sie die Fähre nach Rüdesheim für einen kurzen Abstecher auf die andere Rheinseite."
+        ],
+        "hu": [
+          "Bingen nagyon gyalogosbarát, a legtöbb látnivaló közel van egymáshoz.",
+          "Használja a kompot Rüdesheimbe, ha szeretne átnézni a Rajna túloldalára is."
+        ],
+        "ro": [
+          "Bingen este foarte prietenos cu pietonii, majoritatea obiectivelor fiind aproape unele de altele.",
+          "Folosiți feribotul către Rüdesheim pentru o scurtă vizită pe malul celălalt al Rinului."
+        ],
+        "en": [
+          "Bingen is very pedestrian-friendly, most sights are located close to each other.",
+          "Take the ferry to Rüdesheim for a short trip to the other side of the Rhine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Drususbrücke",
+            "hu": "Drusus-híd",
+            "ro": "Podul Drusus",
+            "en": "Drusus Bridge"
+          },
+          "coords": [
+            7.8865,
+            49.9615
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Älteste Steinbrücke Deutschlands über die Nahe.",
+            "hu": "Németország legrégebbi kőhídja a Nahe folyón.",
+            "ro": "Cel mai vechi pod de piatră din Germania, peste râul Nahe.",
+            "en": "Oldest stone bridge in Germany over the Nahe river."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Klopp",
+            "hu": "Klopp-vár",
+            "ro": "Castelul Klopp",
+            "en": "Klopp Castle"
+          },
+          "coords": [
+            7.8935,
+            49.9665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, der mit bester Aussicht belohnt wird.",
+            "hu": "Meredek emelkedő, amit a legjobb kilátás hálál meg.",
+            "ro": "O urcare abruptă, răsplătită cu cea mai bună priveliște.",
+            "en": "A steep climb rewarded with the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rochuskapelle",
+            "hu": "Rókus-kápolna",
+            "ro": "Capela Sf. Rochus",
+            "en": "Rochus Chapel"
+          },
+          "coords": [
+            7.915,
+            49.9625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wallfahrtskapelle auf dem Rochusberg mit weitem Blick.",
+            "hu": "Zarándokkápolna a Rochus-hegyen, messzire nyúló kilátással.",
+            "ro": "Capelă de pelerinaj pe muntele Rochus cu o vedere panoramică.",
+            "en": "Pilgrimage chapel on the Rochusberg with a far-reaching view."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro am Rhein",
+            "hu": "Gasztro a Rajnánál",
+            "ro": "Gastro pe Rin",
+            "en": "Gastro on the Rhine"
+          },
+          "coords": [
+            7.897,
+            49.97
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radler-Stopp direkt am Kulturufer.",
+            "hu": "Biciklis pihenő közvetlenül a kultúrparton.",
+            "ro": "Popas pentru bicicliști chiar pe malul Rinului.",
+            "en": "Cyclist stop right on the Culture Bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturufer Bingen",
+            "hu": "Bingeni kultúrpart",
+            "ro": "Faleza Culturală Bingen",
+            "en": "Bingen Culture Bank"
+          },
+          "coords": [
+            7.8975,
+            49.9708
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekt ausgebaute Wege entlang des Stroms.",
+            "hu": "Tökéletesen kiépített utak a folyó mentén.",
+            "ro": "Piste perfect amenajate de-a lungul fluviului.",
+            "en": "Perfectly developed paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum am Strom",
+            "hu": "Múzeum a folyónál",
+            "ro": "Muzeul de lângă râu",
+            "en": "Museum am Strom"
+          },
+          "coords": [
+            7.8985,
+            49.9715
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz direkt vor dem Museum.",
+            "hu": "Biztonságos biciklitároló közvetlenül a múzeum előtt.",
+            "ro": "Parcare sigură pentru biciclete chiar în fața muzeului.",
+            "en": "Secure bike parking right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Park am Mäuseturm",
+            "hu": "Egértorony-park",
+            "ro": "Parcul de lângă Turnul Șoarecilor",
+            "en": "Park am Mäuseturm"
+          },
+          "coords": [
+            7.882,
+            49.972
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspannung pur mit Blick auf den Rheinarm.",
+            "hu": "Tiszta kikapcsolódás a Rajna-ágra nyíló kilátással.",
+            "ro": "Relaxare pură cu vedere spre brațul Rinului.",
+            "en": "Pure relaxation with a view of the Rhine arm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bingen auf zwei Rädern. Starten Sie an der historischen Drususbrücke und radeln Sie hinauf zur Burg Klopp. Ein sportlicher Abstecher führt Sie zur Rochuskapelle auf den Rochusberg, bevor Sie zum Rheinufer hinunterrollen. Nach einer Stärkung am Kulturufer radeln Sie gemütlich am Fluss entlang bis zum Park am Mäuseturm, wo Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Fedezze fel Bingent két keréken. Kezdjen a történelmi Drusus-hídnál, majd tekerjen fel a Klopp-várba. Egy sportos kitérővel látogasson el a Rochus-hegyi kápolnához, mielőtt legurulna a Rajna-partra. A kultúrparti frissítő után kényelmesen biciklizhet a folyó mentén az Egértorony parkjáig, ahol nyugodtan zárhatja a napot.",
+        "ro": "Explorați Bingen pe două roți. Începeți la istoricul pod Drusus și pedalați până la Castelul Klopp. O abatere sportivă vă duce la Capela Sf. Rochus de pe munte, înainte de a coborî spre malul Rinului. După o gustare pe faleză, pedalați relaxat de-a lungul fluviului până la Parcul Turnului Șoarecilor.",
+        "en": "Explore Bingen on two wheels. Start at the historic Drusus Bridge and cycle up to Klopp Castle. A sporty detour takes you to the Rochus Chapel on the Rochusberg before rolling down to the Rhine bank. After strengthening yourself at the Kulturufer, cycle comfortably along the river to the Park am Mäuseturm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinhit Bingen",
+            "tip": "Moderner Wein-Stop für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinhit Bingen",
+            "tip": "Modern borozó egy gyors megállóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinhit Bingen",
+            "tip": "Un bar de vinuri modern pentru o pauză scurtă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinhit Bingen",
+            "tip": "Modern wine stop for a quick break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nahemündung",
+            "tip": "Wo die Nahe in den Rhein fließt – ein ruhiger Ort zum Beobachten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nahe-torkolat",
+            "tip": "Ahol a Nahe a Rajnába ömlik – csendes megfigyelőhely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vărsarea râului Nahe",
+            "tip": "Unde Nahe se varsă în Rin – un loc liniștit de observație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nahe Confluence",
+            "tip": "Where the Nahe flows into the Rhine – a quiet spot for observation.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radsport Bingen",
+            "tip": "Zubehör und Karten für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radsport Bingen",
+            "tip": "Kiegészítők és térképek a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radsport Bingen",
+            "tip": "Accesorii și hărți pentru turul tău."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radsport Bingen",
+            "tip": "Accessories and maps for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Rheinradweg ist hier besonders flach und gut ausgebaut.",
+          "Für den Rochusberg ist ein E-Bike oder gute Kondition empfehlenswert."
+        ],
+        "hu": [
+          "A Rajna menti kerékpárút itt különösen sík és jól kiépített.",
+          "A Rochus-hegyre való feljutáshoz elektromos bicikli vagy jó kondíció ajánlott."
+        ],
+        "ro": [
+          "Pista de biciclete de-a lungul Rinului este plată și bine întreținută.",
+          "Pentru muntele Rochus se recomandă o bicicletă electrică sau o condiție fizică bună."
+        ],
+        "en": [
+          "The Rhine cycle path is particularly flat and well-developed here.",
+          "An e-bike or good fitness is recommended for the Rochusberg."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Klopp (Cluster A)",
+            "hu": "Klopp-vár (A klaszter)",
+            "ro": "Castelul Klopp (Cluster A)",
+            "en": "Klopp Castle (Cluster A)"
+          },
+          "coords": [
+            7.8935,
+            49.9665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Burg oder am nahen Parkplatz.",
+            "hu": "Parkoljon közvetlenül a várnál vagy a közeli parkolóban.",
+            "ro": "Parcați chiar la castel sau în parcarea din apropiere.",
+            "en": "Park directly at the castle or at the nearby parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Martin (Cluster A)",
+            "hu": "Szt. Márton-bazilika (A klaszter)",
+            "ro": "Bazilica Sf. Martin (Cluster A)",
+            "en": "Basilica of St. Martin (Cluster A)"
+          },
+          "coords": [
+            7.8945,
+            49.9672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Burg hinunter in die Stadt.",
+            "hu": "Rövid séta a vártól lefelé a városba.",
+            "ro": "Scurtă plimbare de la castel în jos spre oraș.",
+            "en": "Short walk from the castle down into the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rochuskapelle (Cluster B)",
+            "hu": "Rókus-kápolna (B klaszter)",
+            "ro": "Capela Sf. Rochus (Cluster B)",
+            "en": "Rochus Chapel (Cluster B)"
+          },
+          "coords": [
+            7.915,
+            49.9625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bequeme Anfahrt mit dem Auto auf den Rochusberg.",
+            "hu": "Kényelmes feljutás autóval a Rochus-hegyre.",
+            "ro": "Acces ușor cu mașina pe muntele Rochus.",
+            "en": "Easy drive up the Rochusberg by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster B)",
+            "hu": "Ebéd (B klaszter)",
+            "ro": "Prânz (Cluster B)",
+            "en": "Lunch (Cluster B)"
+          },
+          "coords": [
+            7.916,
+            49.961
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Ausblick beim Essen auf dem Berg.",
+            "hu": "Élvezze a kilátást étkezés közben a hegyen.",
+            "ro": "Bucurați-vă de priveliște în timp ce luați masa pe munte.",
+            "en": "Enjoy the view while eating on the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum am Strom (Cluster C)",
+            "hu": "Múzeum a folyónál (C klaszter)",
+            "ro": "Muzeul de lângă râu (Cluster C)",
+            "en": "Museum am Strom (Cluster C)"
+          },
+          "coords": [
+            7.8985,
+            49.9715
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Kulturufer.",
+            "hu": "Nagy parkoló közvetlenül a kultúrparton.",
+            "ro": "Parcare mare chiar pe faleza culturală.",
+            "en": "Large parking lot directly at the Culture Bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturufer (Cluster C)",
+            "hu": "Kultúrpart (C klaszter)",
+            "ro": "Faleza (Cluster C)",
+            "en": "Kulturufer (Cluster C)"
+          },
+          "coords": [
+            7.897,
+            49.9705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie das Ufer zu Fuß.",
+            "hu": "Hagyja az autót, és fedezze fel a partot gyalog.",
+            "ro": "Lăsați mașina și explorați faleza la pas.",
+            "en": "Leave the car and explore the bank on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mäuseturm View (Cluster C)",
+            "hu": "Egértorony kilátás (C klaszter)",
+            "ro": "Vedere Turnul Șoarecilor (Cluster C)",
+            "en": "Mouse Tower View (Cluster C)"
+          },
+          "coords": [
+            7.882,
+            49.972
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der schönste Abschluss einer Tagestour.",
+            "hu": "Az egynapos túra legszebb lezárása.",
+            "ro": "Cea mai frumoasă încheiere a turului de o zi.",
+            "en": "The most beautiful way to end a day tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Bingens. Starten Sie im Stadtzentrum an der Burg Klopp und der Basilika. Danach fahren Sie hinauf zum Rochusberg für ein Mittagessen mit Weitblick. Am Nachmittag parken Sie am Kulturufer, um das Museum am Strom und die weitläufigen Parkanlagen zu Fuß zu genießen. Den Blick auf den Mäuseturm gibt es zum krönenden Abschluss.",
+        "hu": "Autóval kényelmesen elérheti Bingen különböző szintjeit. Kezdjen a városközpontban a Klopp-várnál és a bazilikánál. Ezután hajtson fel a Rochus-hegyre egy panorámás ebédhez. Délután parkoljon le a kultúrparton, hogy gyalogosan fedezhesse fel a múzeumot és a tágas parkokat. Az Egértorony látványa lesz a nap koronája.",
+        "ro": "Cu mașina puteți ajunge ușor în diferitele zone ale orașului. Începeți în centru la castel și bazilică. Apoi urcați pe muntele Rochus pentru un prânz cu vedere panoramică. După-amiaza parcați la faleză pentru a vizita muzeul și parcurile pe jos. Vederea spre Turnul Șoarecilor este punctul culminant al zilei.",
+        "en": "By car, you can easily reach the different levels of Bingen. Start in the city center at Klopp Castle and the Basilica. Then drive up the Rochusberg for a lunch with a view. In the afternoon, park at the Culture Bank to enjoy the museum and the extensive parks on foot. The view of the Mouse Tower is the crowning finale."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rochusberg Restaurant",
+            "tip": "Terrasse mit spektakulärem Blick ins Rheintal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rochusberg Restaurant",
+            "tip": "Terasz látványos kilátással a Rajna-völgyre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rochusberg Restaurant",
+            "tip": "Terasă cu o vedere spectaculoasă spre valea Rinului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rochusberg Restaurant",
+            "tip": "Terrace with a spectacular view of the Rhine Valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedenskreuz",
+            "tip": "Ein ruhiger Aussichtspunkt auf dem Rochusberg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friedenskreuz",
+            "tip": "Csendes kilátóhely a Rochus-hegyen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friedenskreuz",
+            "tip": "Un punct de observație liniștit pe muntele Rochus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Friedenskreuz",
+            "tip": "A quiet viewpoint on the Rochusberg.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nahe-Vinothek",
+            "tip": "Weinverkauf direkt am Erzeuger auf dem Rochusberg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nahe-Vinothek",
+            "tip": "Borvásárlás közvetlenül a termelőtől a Rochus-hegyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nahe-Vinothek",
+            "tip": "Vânzare de vinuri direct de la producător pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nahe-Vinothek",
+            "tip": "Wine sales directly from the producer on the Rochusberg."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt ist das Parken oft zeitlich begrenzt, nutzen Sie Parkhäuser.",
+          "Die Straße zum Rochusberg ist gut ausgebaut und bietet viele Parkmöglichkeiten."
+        ],
+        "hu": [
+          "A belvárosban a parkolás gyakran időhöz kötött, használja a parkolóházakat.",
+          "A Rochus-hegyre vezető út jól kiépített és sok parkolóhelyet kínál."
+        ],
+        "ro": [
+          "În centrul orașului parcarea este adesea limitată în timp, folosiți garajele publice.",
+          "Drumul spre muntele Rochus este bine amenajat și oferă multe locuri de parcare."
+        ],
+        "en": [
+          "Parking in the city center is often time-limited, use parking garages.",
+          "The road to the Rochusberg is well-developed and offers many parking options."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bingen Stadtbahnhof",
+            "hu": "Bingen városi pályaudvar",
+            "ro": "Gara Bingen Stadt",
+            "en": "Bingen Stadt Station"
+          },
+          "coords": [
+            7.896,
+            49.968
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Regionalzüge.",
+            "hu": "Központi érkezési pont a regionális vonatok számára.",
+            "ro": "Punct central de sosire pentru trenurile regionale.",
+            "en": "Central arrival point for regional trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Klopp",
+            "hu": "Klopp-vár",
+            "ro": "Castelul Klopp",
+            "en": "Klopp Castle"
+          },
+          "coords": [
+            7.8935,
+            49.9665
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Stadtbahnhof in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A városi pályaudvartól pár perc sétával elérhető.",
+            "ro": "Accesibil în câteva minute pe jos de la gară.",
+            "en": "Accessible on foot from the station in a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt / Basilica",
+            "hu": "Óváros / Bazilika",
+            "ro": "Orașul vechi / Bazilica",
+            "en": "Old Town / Basilica"
+          },
+          "coords": [
+            7.8945,
+            49.9672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das historische Herz der Stadt.",
+            "hu": "A város történelmi szíve.",
+            "ro": "Inima istorică a orașului.",
+            "en": "The historical heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturufer",
+            "hu": "Kultúrpart",
+            "ro": "Faleza Culturală",
+            "en": "Culture Bank"
+          },
+          "coords": [
+            7.897,
+            49.9705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Ihr Mittagessen am Rheinufer.",
+            "hu": "Élvezze az ebédet a Rajna partján.",
+            "ro": "Savurați prânzul pe malul Rinului.",
+            "en": "Enjoy your lunch on the Rhine bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum am Strom",
+            "hu": "Múzeum a folyónál",
+            "ro": "Muzeul de lângă râu",
+            "en": "Museum am Strom"
+          },
+          "coords": [
+            7.8985,
+            49.9715
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt an der Promenade gelegen.",
+            "hu": "Közvetlenül a sétányon található.",
+            "ro": "Situat direct pe faleză.",
+            "en": "Located directly on the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bingen Hbf",
+            "hu": "Bingen főpályaudvar",
+            "ro": "Gara Centrală Bingen",
+            "en": "Bingen Central Station"
+          },
+          "coords": [
+            7.886,
+            49.97
+          ],
+          "category": "port",
+          "arrive_at": "16:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus- oder Zugverbindung vom Stadtzentrum.",
+            "hu": "Busz- vagy vonatkapcsolat a városközpontból.",
+            "ro": "Legătură cu autobuzul sau trenul din centru.",
+            "en": "Bus or train connection from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mäuseturm Panorama",
+            "hu": "Egértorony panoráma",
+            "ro": "Panoramă Turnul Șoarecilor",
+            "en": "Mouse Tower Panorama"
+          },
+          "coords": [
+            7.882,
+            49.972
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof aus in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A főpályaudvartól pár perc sétára.",
+            "ro": "La câteva minute de mers pe jos de gara centrală.",
+            "en": "A few minutes' walk from the central station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die hervorragende Bahnanbindung Bingens. Starten Sie am Stadtbahnhof und erkunden Sie die historische Oberstadt mit der Burg Klopp. Mittags schlendern Sie zum Kulturufer, das bequem zu Fuß erreichbar ist. Am Nachmittag bringt Sie ein kurzer Transit zum Hauptbahnhof (Bingen Hbf), von wo aus Sie das Panorama des Mäuseturms und die Nahemündung entdecken können.",
+        "hu": "Használja ki Bingen kiváló vasúti összeköttetéseit. Kezdjen a városi pályaudvarnál, és fedezze fel a történelmi felsővárost a Klopp-várral. Délben sétáljon le a kultúrpartra, amely gyalog is könnyen elérhető. Délután egy rövid utazással érje el a főpályaudvart, ahonnan az Egértorony panorámája és a Nahe-torkolat fedezhető fel.",
+        "ro": "Profitați de legăturile feroviare excelente din Bingen. Începeți la gara de oraș și explorați centrul istoric și Castelul Klopp. La prânz, mergeți pe faleză, care este ușor accesibilă pe jos. După-amiaza, un scurt tranzit vă duce la gara centrală (Bingen Hbf), de unde puteți descoperi panorama Turnului Șoarecilor.",
+        "en": "Take advantage of Bingen's excellent rail connections. Start at the city station and explore the historic upper town with Klopp Castle. At noon, stroll to the Culture Bank, which is easily accessible on foot. In the afternoon, a short transit takes you to the main station (Bingen Hbf), from where you can discover the Mouse Tower panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Binger Weinstand",
+            "tip": "Saisonaler Weinstand am Kulturufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Binger borozó",
+            "tip": "Szezonális boros stand a kultúrparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standul de vinuri Bingen",
+            "tip": "Stand de vinuri sezonier pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bingen Wine Stand",
+            "tip": "Seasonal wine stand on the Culture Bank."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Mäuseturm",
+            "tip": "Viel Platz und Ruhe am Ende der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egértorony-park",
+            "tip": "Tágas tér és nyugalom a város végén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Turnului Șoarecilor",
+            "tip": "Mult spațiu și liniște la marginea orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park am Mäuseturm",
+            "tip": "Plenty of space and quiet at the edge of town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Kulturufer",
+            "tip": "Postkarten und kleine Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kultúrparti kioszk",
+            "tip": "Képeslapok és apró emlékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul de pe faleză",
+            "tip": "Cărți poștale și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at Culture Bank",
+            "tip": "Postcards and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bingen hat zwei Bahnhöfe: 'Stadt' liegt zentraler, 'Hbf' liegt näher am Mäuseturm.",
+          "Die Regionalbahn zwischen beiden Bahnhöfen fährt sehr häufig."
+        ],
+        "hu": [
+          "Bingennek két pályaudvara van: a 'Stadt' központibb, a 'Hbf' közelebb van az Egértoronyhoz.",
+          "A két állomás között nagyon gyakran járnak a regionális vonatok."
+        ],
+        "ro": [
+          "Bingen are două gări: 'Stadt' este mai centrală, iar 'Hbf' este mai aproape de Turnul Șoarecilor.",
+          "Trenurile regionale între cele două gări circulă foarte frecvent."
+        ],
+        "en": [
+          "Bingen has two stations: 'Stadt' is more central, 'Hbf' is closer to the Mouse Tower.",
+          "The regional train between both stations runs very frequently."
+        ]
+      }
+    }
+  }
+}

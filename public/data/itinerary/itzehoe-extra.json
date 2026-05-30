@@ -1,0 +1,1235 @@
+{
+  "city_id": "itzehoe-extra",
+  "anchor": {
+    "name": "Itzehoe Historisches Rathaus",
+    "coords": [
+      9.5161,
+      53.9213
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historical Town Hall"
+          },
+          "coords": [
+            9.517,
+            53.921
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockfassade am Marktplatz.",
+            "hu": "Csodálja meg a főtéri barokk homlokzatot.",
+            "ro": "Admirați fațada barocă din piața centrală.",
+            "en": "Admire the Baroque facade on the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurentii-Kirche",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sf. Laurențiu",
+            "en": "St. Lawrence Church"
+          },
+          "coords": [
+            9.5165,
+            53.9215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Größte Barockkirche in Schleswig-Holstein.",
+            "hu": "Schleswig-Holstein legnagyobb barokk temploma.",
+            "ro": "Cea mai mare biserică barocă din Schleswig-Holstein.",
+            "en": "Largest Baroque church in Schleswig-Holstein."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            9.5155,
+            53.922
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille mit historischem Flair.",
+            "hu": "A nyugalom szigete történelmi hangulattal.",
+            "ro": "Un loc al liniștii cu aer istoric.",
+            "en": "A place of silence with historical flair."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Alapítványi templom",
+            "ro": "Biserica Mănăstirii",
+            "en": "Abbey Church"
+          },
+          "coords": [
+            9.5152,
+            53.9222
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Adelige Damenstift.",
+            "hu": "Látogasson el a nemesi hölgyalapítványhoz.",
+            "ro": "Vizitați fundația pentru doamne nobile.",
+            "en": "Visit the noble ladies' foundation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreismuseum Prinzeßhof",
+            "hu": "Prinzeßhof Megyei Múzeum",
+            "ro": "Muzeul Prinzeßhof",
+            "en": "Prinzeßhof District Museum"
+          },
+          "coords": [
+            9.514,
+            53.9225
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stadtgeschichte in einem ehemaligen Adelshof.",
+            "hu": "Várostörténet egy egykori nemesi udvarházban.",
+            "ro": "Istoria orașului într-o fostă reședință nobiliară.",
+            "en": "City history in a former noble residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Itzehoe",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            9.525,
+            53.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause am Seerosenteich.",
+            "hu": "Tökéletes pihenőhely a tavirózsás tónál.",
+            "ro": "Perfect pentru o pauză lângă lacul cu nuferi.",
+            "en": "Perfect for a break by the lily pond."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgericht Itzehoe",
+            "hu": "Megyei Bíróság",
+            "ro": "Tribunalul Itzehoe",
+            "en": "Regional Court"
+          },
+          "coords": [
+            9.519,
+            53.924
+          ],
+          "category": "historical",
+          "arrive_at": "16:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Imposantes Gebäude aus der preußischen Zeit.",
+            "hu": "Impozáns épület a porosz időkből.",
+            "ro": "Clădire impunătoare din perioada prusacă.",
+            "en": "Imposing building from the Prussian era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch die historische Mitte von Itzehoe. Vormittags erkunden wir das barocke Rathaus und die monumentale St. Laurentii-Kirche. Der Mittag gehört dem Klosterhof und dem Prinzeßhof-Museum, wo Sie tief in die Geschichte von Schleswig-Holstein eintauchen. Den Nachmittag lassen wir im weitläufigen Stadtpark ausklingen, bevor wir das prächtige Landgerichtsgebäude bewundern.",
+        "hu": "Kényelmes séta Itzehoe történelmi központjában. Délelőtt a barokk városházát és a monumentális Szent Lőrinc-templomot fedezzük fel. A dél körüli időt a kolostorudvarban és a Prinzeßhof múzeumban töltjük, mélyebbre ásva a régió történelmében. A délutánt a tágas városi parkban zárjuk, majd megcsodáljuk az igazságügyi palota impozáns épületét.",
+        "ro": "O plimbare relaxată prin centrul istoric al orașului Itzehoe. Dimineața explorăm primăria barocă și biserica monumentală Sf. Laurențiu. Amiaza este dedicată Curții Mănăstirii și Muzeului Prinzeßhof, unde descoperiți istoria regiunii. După-amiaza ne relaxăm în parcul orașului, înainte de a admira clădirea impunătoare a Tribunalului.",
+        "en": "A relaxed walk through the historical heart of Itzehoe. In the morning, explore the Baroque town hall and the monumental St. Lawrence Church. Midday is spent at the Monastery Courtyard and Prinzeßhof Museum, diving deep into local history. The afternoon ends in the spacious City Park, followed by a view of the grand Regional Court building."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kohl & Deel",
+            "tip": "Probieren Sie regionale Dithmarscher Kohlgerichte."
+          },
+          {
+            "name": "Himmel + Erde",
+            "tip": "Norddeutsche Hausmannskost in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kohl & Deel",
+            "tip": "Kóstolja meg a híres észak-német káposztás ételeket."
+          },
+          {
+            "name": "Himmel + Erde",
+            "tip": "Házias észak-német konyha rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kohl & Deel",
+            "tip": "Încercați preparatele regionale din varză Dithmarscher."
+          },
+          {
+            "name": "Himmel + Erde",
+            "tip": "Mâncare tradițională nord-germană în ambient rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kohl & Deel",
+            "tip": "Try regional Dithmarscher cabbage dishes."
+          },
+          {
+            "name": "Himmel + Erde",
+            "tip": "North German home cooking in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein versteckter Garten voller Ruhe.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stadtpark-See",
+            "tip": "Entspannung am Ufer unter alten Bäumen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Rejtett kert a csend szerelmeseinek.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Városi park tava",
+            "tip": "Lazítás a parton ősi fák árnyékában.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "O grădină ascunsă plină de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacul din Stadtpark",
+            "tip": "Relaxare pe mal sub copaci bătrâni.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "A hidden garden full of tranquility.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "City Park Lake",
+            "tip": "Relaxation on the shore under ancient trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte aus der Marsch (Mi & Sa)."
+          },
+          {
+            "name": "Holstein Center",
+            "tip": "Einkaufspassage im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek a mocsárvidékről (Sze és Szo)."
+          },
+          {
+            "name": "Holstein Center",
+            "tip": "Bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Săptămânală",
+            "tip": "Produse proaspete locale (mie. și sâm.)."
+          },
+          {
+            "name": "Holstein Center",
+            "tip": "Pasaj comercial în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh local produce from the marshlands (Wed & Sat)."
+          },
+          {
+            "name": "Holstein Center",
+            "tip": "Shopping mall in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist flach und sehr gut zu Fuß erreichbar.",
+          "Mittwochs und Samstags lohnt sich der Marktbesuch besonders.",
+          "Achten Sie auf die Stolpersteine in der Fußgängerzone."
+        ],
+        "hu": [
+          "A belváros sík, így gyalogosan kényelmesen bejárható.",
+          "Szerdán és szombaton érdemes a piacot meglátogatni.",
+          "Figyeljen az emlékbotlatókövekre a sétálóutcában."
+        ],
+        "ro": [
+          "Centrul orașului este plat și foarte ușor de parcurs pe jos.",
+          "Miercurea și sâmbăta merită vizitată piața locală.",
+          "Atenție la pietrele de poticnire (Stolpersteine) din zona pietonală."
+        ],
+        "en": [
+          "The city center is flat and very easy to explore on foot.",
+          "Market days (Wed & Sat) are especially vibrant.",
+          "Look out for the memorial 'Stolpersteine' in the pedestrian zone."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historical Town Hall"
+          },
+          "coords": [
+            9.517,
+            53.921
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Marktplatz.",
+            "hu": "Kiindulópont a főtéren.",
+            "ro": "Punct de plecare în piață.",
+            "en": "Starting point at the market."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurentii-Kirche",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sf. Laurențiu",
+            "en": "St. Lawrence Church"
+          },
+          "coords": [
+            9.5165,
+            53.9215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prachtvoller Barock-Innenraum.",
+            "hu": "Pompás barokk belső tér.",
+            "ro": "Interior baroc splendid.",
+            "en": "Splendid Baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            9.5155,
+            53.922
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ruhiger Innenhof zum Verweilen.",
+            "hu": "Csendes belső udvar pihenéshez.",
+            "ro": "Curte interioară liniștită.",
+            "en": "Quiet courtyard for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreismuseum Prinzeßhof",
+            "hu": "Prinzeßhof Múzeum",
+            "ro": "Muzeul Prinzeßhof",
+            "en": "Prinzeßhof Museum"
+          },
+          "coords": [
+            9.514,
+            53.9225
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kulturgeschichte hautnah.",
+            "hu": "Kulturális történelem testközelből.",
+            "ro": "Istorie culturală autentică.",
+            "en": "Cultural history firsthand."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Itzehoe",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            9.525,
+            53.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schöne Radwege durch das Grüne.",
+            "hu": "Szép kerékpárutak a zöldben.",
+            "ro": "Piste frumoase prin verdeață.",
+            "en": "Beautiful bike paths through the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgericht Itzehoe",
+            "hu": "Bíróság",
+            "ro": "Tribunalul",
+            "en": "Regional Court"
+          },
+          "coords": [
+            9.519,
+            53.924
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Backsteinarchitektur bewundern.",
+            "hu": "Téglaépítészet megcsodálása.",
+            "ro": "Admirați arhitectura din cărămidă.",
+            "en": "Admire the brick architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Germanisches Grabmal",
+            "hu": "Germán síremlék",
+            "ro": "Monument Germanic",
+            "en": "Germanic Monument"
+          },
+          "coords": [
+            9.505,
+            53.935
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Aussichtspunkt auf dem Galgenberg.",
+            "hu": "Kilátópont a Galgenbergen.",
+            "ro": "Punct de belvedere pe Galgenberg.",
+            "en": "Viewpoint on Galgenberg hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Stör-Promenade",
+            "hu": "Stör-sétány",
+            "ro": "Promenada Stör",
+            "en": "Stör Promenade"
+          },
+          "coords": [
+            9.51,
+            53.915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Rückfahrt entlang des Flusses.",
+            "hu": "Visszaút a folyó mentén.",
+            "ro": "Întoarcere de-a lungul râului.",
+            "en": "Return ride along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet städtische Geschichte mit der Natur rund um die Stör. Nach den Highlights im Zentrum radeln wir zum Galgenberg zum Germanischen Grabmal, von wo man einen weiten Blick über die Marschlandschaft hat. Die Rückfahrt führt uns entspannt an der Stör-Promenade entlang.",
+        "hu": "Ez a túra összeköti a városi történelmet a Stör folyó körüli természettel. A központ látnivalói után kitekerünk a Galgenbergre a germán síremlékhez, ahonnan pazar kilátás nyílik a mocsárvidékre. A visszaút a Stör-sétányon vezet.",
+        "ro": "Acest tur îmbină istoria urbană cu natura din jurul râului Stör. După atracțiile din centru, pedalăm spre Galgenberg la monumentul germanic, de unde aveți o vedere panoramică asupra mlaștinilor. Întoarcerea este relaxată pe promenada Stör.",
+        "en": "This tour combines urban history with the nature surrounding the Stör river. After the city center highlights, we cycle to Galgenberg hill to see the Germanic monument, offering wide views over the marshlands. The return ride follows the scenic Stör promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fährhaus Itzehoe",
+            "tip": "Direkt an der Stör gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fährhaus Itzehoe",
+            "tip": "Közvetlenül a Stör partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fährhaus Itzehoe",
+            "tip": "Situat direct pe malul râului Stör."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fährhaus Itzehoe",
+            "tip": "Located directly on the Stör river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Galgenberg",
+            "tip": "Blick über die Weiten der Marsch.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galgenberg",
+            "tip": "Kilátás a végtelen mocsárvilágra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galgenberg",
+            "tip": "Vedere peste mlaștinile întinse.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Galgenberg",
+            "tip": "View over the vast marshlands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradhaus Itzehoe",
+            "tip": "Für alles rund ums Rad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradhaus Itzehoe",
+            "tip": "Minden, ami kerékpár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fahrradhaus Itzehoe",
+            "tip": "Totul pentru bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrradhaus Itzehoe",
+            "tip": "Everything for your bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgeschilderten Radwege entlang der Stör.",
+          "Vorsicht bei Wind in der offenen Marschlandschaft."
+        ],
+        "hu": [
+          "Használja a Stör menti jól kitáblázott kerékpárutakat.",
+          "Vigyázzon a széllel a nyílt mocsárvidéken."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete bine semnalizate de-a lungul râului.",
+          "Atenție la vânt în zona deschisă a mlaștinilor."
+        ],
+        "en": [
+          "Use the well-marked bike paths along the Stör river.",
+          "Be careful with the wind in the open marshlands."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historical Town Hall"
+          },
+          "coords": [
+            9.517,
+            53.921
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Cluster A: Parken in der Innenstadt.",
+            "hu": "A klaszter: Parkolás a belvárosban.",
+            "ro": "Cluster A: Parcare în centrul orașului.",
+            "en": "Cluster A: Parking in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurentii-Kirche",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sf. Laurențiu",
+            "en": "St. Lawrence Church"
+          },
+          "coords": [
+            9.5165,
+            53.9215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            9.5155,
+            53.922
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß innerhalb des Zentrums erreichbar.",
+            "hu": "Gyalogosan elérhető a központon belül.",
+            "ro": "Accesibil pe jos în interiorul centrului.",
+            "en": "Accessible on foot within the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Alapítványi templom",
+            "ro": "Biserica Mănăstirii",
+            "en": "Abbey Church"
+          },
+          "coords": [
+            9.5152,
+            53.9222
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Teil des historischen Ensembles.",
+            "hu": "A történelmi együttes része.",
+            "ro": "Parte a ansamblului istoric.",
+            "en": "Part of the historical ensemble."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreismuseum Prinzeßhof",
+            "hu": "Prinzeßhof Múzeum",
+            "ro": "Muzeul Prinzeßhof",
+            "en": "Prinzeßhof Museum"
+          },
+          "coords": [
+            9.514,
+            53.9225
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Cluster B: Fahrt zum Prinzeßhof.",
+            "hu": "B klaszter: Hajtás a Prinzeßhofhoz.",
+            "ro": "Cluster B: Deplasare la Prinzeßhof.",
+            "en": "Cluster B: Drive to Prinzeßhof."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgericht Itzehoe",
+            "hu": "Bíróság",
+            "ro": "Tribunalul",
+            "en": "Regional Court"
+          },
+          "coords": [
+            9.519,
+            53.924
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Itzehoe",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            9.525,
+            53.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Cluster C: Parken am Stadtpark.",
+            "hu": "C klaszter: Parkolás a városi parknál.",
+            "ro": "Cluster C: Parcare la parcul orașului.",
+            "en": "Cluster C: Parking at the city park."
+          }
+        },
+        {
+          "name": {
+            "de": "Germanisches Grabmal",
+            "hu": "Germán síremlék",
+            "ro": "Monument Germanic",
+            "en": "Germanic Monument"
+          },
+          "coords": [
+            9.505,
+            53.935
+          ],
+          "category": "historical",
+          "arrive_at": "16:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurzer Stopp zum Abschluss.",
+            "hu": "Rövid megálló a befejezéshez.",
+            "ro": "Scurtă oprire la final.",
+            "en": "Short stop to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken wir Itzehoe in drei bequemen Etappen. Zuerst erkunden wir zu Fuß den historischen Kern rund um das Rathaus und den Klosterhof. Danach fahren wir zum Prinzeßhof-Museum und zum Landgericht. Den Abschluss bildet ein Besuch im Stadtpark und eine kurze Fahrt zum Germanischen Grabmal mit seiner markanten Aussicht.",
+        "hu": "Autóval három kényelmes szakaszban fedezzük fel Itzehoe-t. Először gyalogosan járjuk be a történelmi magot a városháza és a kolostorudvar körül. Ezután a Prinzeßhof múzeumhoz és a bírósághoz hajtunk. A napot a városi parkban zárjuk, majd egy rövid autózással a germán síremlékhez látogatunk.",
+        "ro": "Cu mașina descoperim Itzehoe în trei etape confortabile. Mai întâi explorăm pe jos nucleul istoric din jurul primăriei și curții mănăstirii. Apoi conducem spre Muzeul Prinzeßhof și Tribunal. Încheiem cu o vizită în parcul orașului și o scurtă deplasare la monumentul germanic.",
+        "en": "By car, we discover Itzehoe in three comfortable stages. First, explore the historical core around the town hall and monastery on foot. Then, drive to the Prinzeßhof Museum and the Regional Court. We finish with a visit to the city park and a short drive to the Germanic monument with its striking view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant zum dicken Wilhelm",
+            "tip": "Herzhafte regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant zum dicken Wilhelm",
+            "tip": "Kiadós helyi konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant zum dicken Wilhelm",
+            "tip": "Bucătărie regională consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant zum dicken Wilhelm",
+            "tip": "Hearty regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase im Osten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis a keleti részen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtpark",
+            "tip": "Oază verde în est.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green oasis in the east.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fachmarktzentrum",
+            "tip": "Bequem mit dem Auto erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fachmarktzentrum",
+            "tip": "Kényelmesen megközelíthető autóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fachmarktzentrum",
+            "tip": "Accesibil ușor cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fachmarktzentrum",
+            "tip": "Easily accessible by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser in der Innenstadt für den ersten Teil der Tour.",
+          "Die Ziele außerhalb sind gut beschildert."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolóházakat a túra első részéhez.",
+          "A városon kívüli célpontok jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Utilizați parcările supraetajate din centru pentru prima parte a turului.",
+          "Destinațiile exterioare sunt bine semnalizate."
+        ],
+        "en": [
+          "Use the multi-storey car parks in the city center for the first part of the tour.",
+          "Outer destinations are well-signposted."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historical Town Hall"
+          },
+          "coords": [
+            9.517,
+            53.921
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der Busse.",
+            "hu": "A buszjáratok központi csomópontja.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurentii-Kirche",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Sf. Laurențiu",
+            "en": "St. Lawrence Church"
+          },
+          "coords": [
+            9.5165,
+            53.9215
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In Sichtweite vom Marktplatz.",
+            "hu": "Látótávolságra a főtértől.",
+            "ro": "La vedere din piață.",
+            "en": "Within sight of the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterhof",
+            "hu": "Kolostorudvar",
+            "ro": "Curtea Mănăstirii",
+            "en": "Monastery Courtyard"
+          },
+          "coords": [
+            9.5155,
+            53.922
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gemütlicher Gang durch das Viertel.",
+            "hu": "Hangulatos séta a negyeden át.",
+            "ro": "Plimbare plăcută prin cartier.",
+            "en": "Atmospheric walk through the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreismuseum Prinzeßhof",
+            "hu": "Prinzeßhof Múzeum",
+            "ro": "Muzeul Prinzeßhof",
+            "en": "Prinzeßhof Museum"
+          },
+          "coords": [
+            9.514,
+            53.9225
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzung der Stadtbuslinie.",
+            "hu": "Városi buszjárat használata.",
+            "ro": "Utilizarea liniei de autobuz urban.",
+            "en": "Use the city bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgericht Itzehoe",
+            "hu": "Bíróság",
+            "ro": "Tribunalul",
+            "en": "Regional Court"
+          },
+          "coords": [
+            9.519,
+            53.924
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang durch die Justizstraßen.",
+            "hu": "Séta az igazságügyi utcákon.",
+            "ro": "Plimbare prin străzile tribunalului.",
+            "en": "Walk through the judicial streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Itzehoe",
+            "hu": "Városi park",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            9.525,
+            53.925
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Busfahrt zum Erholungsgebiet.",
+            "hu": "Buszozás az üdülőterületre.",
+            "ro": "Călătorie cu autobuzul spre zona de recreere.",
+            "en": "Bus ride to the recreation area."
+          }
+        },
+        {
+          "name": {
+            "de": "Germanisches Grabmal",
+            "hu": "Germán síremlék",
+            "ro": "Monument Germanic",
+            "en": "Germanic Monument"
+          },
+          "coords": [
+            9.505,
+            53.935
+          ],
+          "category": "historical",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Letzte Etappe mit dem Bus.",
+            "hu": "Utolsó szakasz busszal.",
+            "ro": "Ultima etapă cu autobuzul.",
+            "en": "Final leg by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Stadtbusnetz von Itzehoe. Vom Marktplatz aus erkunden wir die historischen Zentren, bevor wir mit dem Bus zum Prinzeßhof-Museum und später zum Stadtpark fahren. Den Tag beenden wir mit einer Fahrt zum Galgenberg, um das Germanische Grabmal zu sehen.",
+        "hu": "Használja Itzehoe sűrű városi buszhálózatát. A főtérről kiindulva felfedezzük a történelmi látnivalókat, majd busszal megyünk a Prinzeßhof múzeumhoz és a városi parkhoz. A napot a Galgenbergre való utazással zárjuk a germán síremlék megtekintéséhez.",
+        "ro": "Utilizați rețeaua densă de autobuze din Itzehoe. Din piața centrală explorăm centrele istorice, înainte de a merge cu autobuzul la Muzeul Prinzeßhof și mai târziu în parcul orașului. Încheiem ziua cu o călătorie spre Galgenberg pentru a vedea monumentul germanic.",
+        "en": "Make use of Itzehoe's dense city bus network. Starting from the market square, we explore the historical sites before taking the bus to the Prinzeßhof Museum and later to the city park. We end the day with a trip to Galgenberg to see the Germanic monument."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am ZOB",
+            "tip": "Schneller Imbiss für Pendler und Gäste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro am ZOB",
+            "tip": "Gyors falatok az utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro am ZOB",
+            "tip": "Gustare rapidă pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro am ZOB",
+            "tip": "Quick bites for commuters and guests."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stiftsgarten",
+            "tip": "Ruheoase in der Nähe der Bushaltestelle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alapítványi kert",
+            "tip": "Csendes oázis a buszmegálló közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Mănăstirii",
+            "tip": "Oază de liniște lângă stația de autobuz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Garden",
+            "tip": "Quiet oasis near the bus stop.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kirchenstraße",
+            "tip": "Kleine Läden in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kirchenstraße",
+            "tip": "Kis üzletek a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kirchenstraße",
+            "tip": "Magazine mici în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kirchenstraße",
+            "tip": "Small shops in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Tagesticket der HVV deckt alle Busfahrten im Stadtgebiet ab.",
+          "Achten Sie auf die Aushänge an den Haltestellen."
+        ],
+        "hu": [
+          "A HVV napijegy minden városi buszútra érvényes.",
+          "Figyelje a menetrendeket a megállókban."
+        ],
+        "ro": [
+          "Un bilet de o zi HVV acoperă toate călătoriile cu autobuzul în oraș.",
+          "Verificați orarul afișat în stații."
+        ],
+        "en": [
+          "An HVV day ticket covers all bus rides within the city area.",
+          "Check the timetables posted at the bus stops."
+        ]
+      }
+    }
+  }
+}

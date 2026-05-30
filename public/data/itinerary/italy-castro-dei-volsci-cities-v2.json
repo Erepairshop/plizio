@@ -1,0 +1,1108 @@
+{
+  "city_id": "italy-castro-dei-volsci-cities-v2",
+  "anchor": {
+    "name": "Castro dei Volsci",
+    "coords": [
+      13.305,
+      41.533
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Civitas (Altstadt)",
+            "hu": "Civitas (Óváros)",
+            "ro": "Civitas (Centrul Vechi)",
+            "en": "Civitas (Old Town)"
+          },
+          "coords": [
+            13.3052,
+            41.5335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Labyrinth der gepflasterten Gassen.",
+            "hu": "Kezdje a napot a kanyargós kőutcák útvesztőjében.",
+            "ro": "Începeți ziua în labirintul străduțelor pietruite.",
+            "en": "Start your day in the labyrinth of cobbled alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre dell'Orologio)",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            13.3055,
+            41.5331
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein markantes Wahrzeichen am höchsten Punkt der Stadt.",
+            "hu": "A város legmagasabb pontjának jellegzetes építménye.",
+            "ro": "Un punct de reper distinctiv în cel mai înalt punct al orașului.",
+            "en": "A distinctive landmark at the town's highest point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Assunta",
+            "hu": "Santa Maria Assunta templom",
+            "ro": "Biserica Santa Maria Assunta",
+            "en": "Church of Santa Maria Assunta"
+          },
+          "coords": [
+            13.305,
+            41.5328
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockaltäre im Inneren.",
+            "hu": "Csodálja meg a belső tér barokk oltárait.",
+            "ro": "Admirați altarele baroce din interior.",
+            "en": "Admire the Baroque altars inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicola",
+            "hu": "San Nicola templom",
+            "ro": "Biserica San Nicola",
+            "en": "Church of San Nicola"
+          },
+          "coords": [
+            13.306,
+            41.5332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen spirituellen Ort in der Altstadt.",
+            "hu": "Látogasson el ebbe a hangulatos óvárosi templomba.",
+            "ro": "Vizitați acest lăcaș spiritual din centrul vechi.",
+            "en": "Visit this spiritual spot in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mamma-Ciociara-Denkmal",
+            "hu": "Mamma Ciociara emlékmű",
+            "ro": "Monumentul Mamma Ciociara",
+            "en": "Mamma Ciociara Monument"
+          },
+          "coords": [
+            13.3065,
+            41.534
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein bewegendes Denkmal für die Frauen der Region.",
+            "hu": "Megható emlékmű a régió asszonyainak tiszteletére.",
+            "ro": "Un monument emoționant dedicat femeilor din regiune.",
+            "en": "A moving monument dedicated to the women of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick Sacco-Tal",
+            "hu": "Sacco-völgy panoráma",
+            "ro": "Panorama Văii Sacco",
+            "en": "Sacco Valley Viewpoint"
+          },
+          "coords": [
+            13.3068,
+            41.5342
+          ],
+          "category": "natural features",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht vom 'Balkon der Ciociaria'.",
+            "hu": "Élvezze a kilátást a 'Ciociaria erkélyéről'.",
+            "ro": "Bucurați-vă de priveliște de pe 'Balconul regiunii Ciociaria'.",
+            "en": "Enjoy the view from the 'Balcony of Ciociaria'."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bauernkultur",
+            "hu": "Parasztkultúra Múzeuma",
+            "ro": "Muzeul Culturii Țărănești",
+            "en": "Museum of Rural Culture"
+          },
+          "coords": [
+            13.3045,
+            41.5338
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das traditionelle Leben in Latium.",
+            "hu": "Ismerje meg Lazio hagyományos vidéki életmódját.",
+            "ro": "Aflați mai multe despre viața tradițională din Lazio.",
+            "en": "Learn about traditional rural life in Lazio."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im mittelalterlichen Herzen von Castro dei Volsci, wo die Zeit stehen geblieben scheint. Nach dem Besuch der barocken Kirchen steigen Sie zum markanten Uhrturm auf. Am Nachmittag besuchen Sie das bewegende Mamma-Ciociara-Denkmal und genießen den weiten Blick über das Sacco-Tal. Den Abschluss bildet ein tiefer Einblick in die lokale Geschichte im Museum für Bauernkultur.",
+        "hu": "A napot Castro dei Volsci középkori szívében kezdi, ahol megállt az idő. A barokk templomok megtekintése után felkapaszkodunk a jellegzetes óratoronyhoz. Délután meglátogatjuk a megható Mamma Ciociara emlékművet, és gyönyörködünk a Sacco-völgyre nyíló panorámában. A programot a helyi történelembe való mélyebb betekintés zárja a Parasztkultúra Múzeumában.",
+        "ro": "Ziua începe în inima medievală a localității Castro dei Volsci, unde timpul pare să stea în loc. După vizitarea bisericilor baroce, urcați la emblematicul Turn cu Ceas. După-amiaza vizitați emoționantul monument Mamma Ciociara și admirați panorama vastă asupra Văii Sacco. Experiența se încheie cu o incursiune în istoria locală la Muzeul Culturii Țărănești.",
+        "en": "Your day starts in the medieval heart of Castro dei Volsci, where time seems to stand still. After visiting the Baroque churches, climb up to the iconic Clock Tower. In the afternoon, visit the moving Mamma Ciociara monument and enjoy the vast views over the Sacco Valley. The experience concludes with a deep dive into local history at the Museum of Rural Culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Traditionelle handgemachte Pasta mit Bohnen."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "Ein kräftiger Schafskäse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Hagyományos kézi tészta babbal, helyi specialitás."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "Intenzív ízű juhsajt a környékbeli legelőkről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Paste tradiționale făcute manual cu fasole."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "Brânză de oaie maturată, specifică zonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Traditional handmade pasta with beans, a local staple."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "Strong sheep's cheese from the surrounding pastures."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Sacco-Tal",
+            "tip": "Perfekt für den Sonnenuntergang über dem Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sacco-völgy kilátó",
+            "tip": "Tökéletes hely a völgy feletti naplemente nézéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Sacco",
+            "tip": "Perfect pentru apusul de soare deasupra văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sacco Valley Overlook",
+            "tip": "Perfect for watching the sunset over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ciociaria Olivenöl",
+            "tip": "Natives Olivenöl extra aus lokalen Hainen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciociaria olívaolaj",
+            "tip": "Extra szűz olívaolaj a helyi ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Ciociaria",
+            "tip": "Ulei de măsline extravirgin din livezile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciociaria Olive Oil",
+            "tip": "Extra virgin olive oil from local groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Steinstraßen.",
+          "Die Stadt ist oft in den Morgennebel gehüllt, was ihr eine magische Atmosphäre verleiht.",
+          "Besuchen Sie das Dorf im Dezember für die berühmte lebende Krippe."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek, köves utcákhoz.",
+          "A város reggelente gyakran ködbe burkolózik, ami varázslatos hangulatot áraszt.",
+          "Látogasson el decemberben a híres élő betlehem megtekintésére."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte din piatră.",
+          "Orașul este adesea învăluit în ceața dimineții, oferind o atmosferă magică.",
+          "Vizitați satul în decembrie pentru faimoasa iesle vie."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep, stony streets.",
+          "The town is often shrouded in morning mist, giving it a magical atmosphere.",
+          "Visit in December for the famous live nativity scene."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Civitas (Altstadt)",
+            "hu": "Civitas (Óváros)",
+            "ro": "Civitas (Centrul Vechi)",
+            "en": "Civitas (Old Town)"
+          },
+          "coords": [
+            13.3052,
+            41.5335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad am Eingang der Fußgängerzone ab.",
+            "hu": "Hagyja a kerékpárt a sétálóövezet bejáratánál.",
+            "ro": "Lăsați bicicleta la intrarea în zona pietonală.",
+            "en": "Park your bike at the entrance of the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Zone Casale",
+            "hu": "Casale régészeti terület",
+            "ro": "Zona Arheologică Casale",
+            "en": "Casale Archaeological Zone"
+          },
+          "coords": [
+            13.325,
+            41.542
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Reste einer römischen Villa am Fuße des Hügels.",
+            "hu": "Egy római villa maradványai a domb lábánál.",
+            "ro": "Vestigiile unei vile romane la poalele dealului.",
+            "en": "Remains of a Roman villa at the foot of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Assunta",
+            "hu": "Santa Maria Assunta templom",
+            "ro": "Biserica Santa Maria Assunta",
+            "en": "Church of Santa Maria Assunta"
+          },
+          "coords": [
+            13.305,
+            41.5328
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine angenehme Abfahrt zurück in den Ort.",
+            "hu": "Kellemes gurulás vissza a településre.",
+            "ro": "O coborâre plăcută înapoi în localitate.",
+            "en": "A pleasant ride back into the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mamma-Ciociara-Denkmal",
+            "hu": "Mamma Ciociara emlékmű",
+            "ro": "Monumentul Mamma Ciociara",
+            "en": "Mamma Ciociara Monument"
+          },
+          "coords": [
+            13.3065,
+            41.534
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Halt für ein kurzes Gedenken und Fotos.",
+            "hu": "Álljon meg egy rövid megemlékezésre és fotózásra.",
+            "ro": "Oprire pentru o scurtă reculegere și fotografii.",
+            "en": "Stop for a brief commemoration and photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick Sacco-Tal",
+            "hu": "Sacco-völgy panoráma",
+            "ro": "Panorama Văii Sacco",
+            "en": "Sacco Valley Viewpoint"
+          },
+          "coords": [
+            13.3068,
+            41.5342
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der schönste Rastplatz auf Ihrer Tour.",
+            "hu": "A túra legszebb pihenőhelye.",
+            "ro": "Cel mai frumos loc de popas din turul tău.",
+            "en": "The most beautiful rest stop on your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bauernkultur",
+            "hu": "Parasztkultúra Múzeuma",
+            "ro": "Muzeul Culturii Țărănești",
+            "en": "Museum of Rural Culture"
+          },
+          "coords": [
+            13.3045,
+            41.5338
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie sicher, dass das Museum geöffnet ist.",
+            "hu": "Ellenőrizze előre a múzeum nyitvatartását.",
+            "ro": "Asigurați-vă că muzeul este deschis.",
+            "en": "Make sure to check the museum's opening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Castro dei Volsci mit dem E-Bike, um die steilen Anstiege mühelos zu bewältigen. Die Route führt Sie von der Altstadt hinunter zur archäologischen Zone von Casale und wieder hinauf zu den Kirchen und Aussichtspunkten. Es ist eine perfekte Mischung aus Natur, Sport und Geschichte in der Hügellandschaft von Latium.",
+        "hu": "Fedezze fel Castro dei Volscit elektromos kerékpárral, hogy könnyedén leküzdje a meredek emelkedőket. Az útvonal az óvárosból levezet a Casale régészeti területhez, majd vissza a templomokhoz és kilátópontokhoz. A túra a természet, a sport és a történelem tökéletes keveréke Lazio dombjai között.",
+        "ro": "Explorați Castro dei Volsci cu o bicicletă electrică pentru a depăși cu ușurință pantele abrupte. Traseul vă duce din centrul vechi până la zona arheologică Casale și înapoi sus la biserici și puncte de belvedere. Este un amestec perfect de natură, sport și istorie în peisajul colinar din Lazio.",
+        "en": "Explore Castro dei Volsci by e-bike to easily tackle the steep climbs. The route takes you from the old town down to the Casale archaeological zone and back up to the churches and viewpoints. It’s a perfect mix of nature, sport, and history in the hilly landscape of Lazio."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Amaretti di Castro",
+            "tip": "Lokale Mandelkekse, perfekt als Energie-Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Amaretti di Castro",
+            "tip": "Helyi mandulás sütemény, kiváló energiapótló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Amaretti di Castro",
+            "tip": "Biscuiți locali cu migdale, perfecți pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Amaretti di Castro",
+            "tip": "Local almond biscuits, perfect for a quick energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landstraßen um Casale",
+            "tip": "Ruhige Wege durch Olivenhaine.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casale környéki dűlőutak",
+            "tip": "Csendes utak az olajfaligetek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumurile rurale din jurul Casale",
+            "tip": "Poteci liniștite prin livezi de măslini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rural roads around Casale",
+            "tip": "Quiet paths through olive groves.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Wildblütenhonig direkt vom Imker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vadvirágméz közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere de flori de câmp direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Wildflower honey directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für diese hügelige Gegend dringend empfohlen.",
+          "Achten Sie auf den Verkehr auf den schmalen Zufahrtsstraßen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "Erősen javasolt az elektromos kerékpár a dombos terep miatt.",
+          "Ügyeljen a forgalomra a keskeny bekötőutakon.",
+          "Vigyen magával elegendő vizet, különösen nyáron."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru acest teren deluros.",
+          "Fiți atenți la trafic pe drumurile înguste de acces.",
+          "Luați suficientă apă cu voi, mai ales vara."
+        ],
+        "en": [
+          "An e-bike is strongly recommended for this hilly area.",
+          "Watch out for traffic on the narrow access roads.",
+          "Take plenty of water with you, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Zone Casale",
+            "hu": "Casale régészeti terület",
+            "ro": "Zona Arheologică Casale",
+            "en": "Casale Archaeological Zone"
+          },
+          "coords": [
+            13.325,
+            41.542
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Beginnen Sie im Tal mit der römischen Geschichte.",
+            "hu": "Kezdje a völgyben a római kori emlékekkel.",
+            "ro": "Începeți în vale cu vestigiile romane.",
+            "en": "Start in the valley with Roman history."
+          }
+        },
+        {
+          "name": {
+            "de": "Civitas (Altstadt)",
+            "hu": "Civitas (Óváros)",
+            "ro": "Civitas (Centrul Vechi)",
+            "en": "Civitas (Old Town)"
+          },
+          "coords": [
+            13.3052,
+            41.5335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Platz vor dem Stadtzentrum.",
+            "hu": "Parkoljon a városközpont előtti nagy téren.",
+            "ro": "Parcați în piața mare de la intrarea în centrul orașului.",
+            "en": "Park in the large square at the entrance to the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Assunta",
+            "hu": "Santa Maria Assunta templom",
+            "ro": "Biserica Santa Maria Assunta",
+            "en": "Church of Santa Maria Assunta"
+          },
+          "coords": [
+            13.305,
+            41.5328
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mamma-Ciociara-Denkmal",
+            "hu": "Mamma Ciociara emlékmű",
+            "ro": "Monumentul Mamma Ciociara",
+            "en": "Mamma Ciociara Monument"
+          },
+          "coords": [
+            13.3065,
+            41.534
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Wind und die Aussicht hier oben.",
+            "hu": "Élvezze a szelet és a kilátást itt fent.",
+            "ro": "Bucurați-vă de adiere și de priveliște aici sus.",
+            "en": "Enjoy the breeze and the view up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre dell'Orologio)",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            13.3055,
+            41.5331
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen ist von weitem sichtbar.",
+            "hu": "A torony már messziről jól látható.",
+            "ro": "Turnul este vizibil de la distanță.",
+            "en": "The tower is visible from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bauernkultur",
+            "hu": "Parasztkultúra Múzeuma",
+            "ro": "Muzeul Culturii Țărănești",
+            "en": "Museum of Rural Culture"
+          },
+          "coords": [
+            13.3045,
+            41.5338
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein würdiger Abschluss Ihres Kulturausflugs.",
+            "hu": "Kulturális kirándulásának méltó zárása.",
+            "ro": "Un final pe măsură pentru excursia ta culturală.",
+            "en": "A worthy conclusion to your cultural excursion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die tiefer gelegene archäologische Zone von Casale, bevor Sie den Hügel nach Castro dei Volsci erklimmen. Parken Sie am Stadtrand und erkunden Sie das historische Zentrum zu Fuß. Diese Cluster-Struktur ermöglicht es Ihnen, sowohl die antiken Ruinen als auch das mittelalterliche Flair stressfrei zu erleben.",
+        "hu": "Autóval kényelmesen elérheti a völgyben fekvő Casale régészeti területet, mielőtt felkapaszkodna a Castro dei Volsci dombjára. Parkoljon a város szélén, és gyalog fedezze fel a történelmi központot. Ez a felosztás lehetővé teszi a római romok és a középkori hangulat stresszmentes megismerését.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la zona arheologică Casale din vale, înainte de a urca dealul spre Castro dei Volsci. Parcați la intrarea în oraș și explorați centrul istoric pe jos. Această structură vă permite să vizitați atât ruinele antice, cât și farmecul medieval fără stres.",
+        "en": "By car, you can easily reach the lower-lying Casale archaeological zone before climbing the hill to Castro dei Volsci. Park on the outskirts and explore the historical center on foot. This cluster structure allows you to experience both the ancient ruins and the medieval flair stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Trattoria",
+            "tip": "Probieren Sie hausgemachte Gnocchi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi trattoria",
+            "tip": "Kóstolja meg a házi készítésű gnocchit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria locală",
+            "tip": "Încercați gnocchi de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Trattoria",
+            "tip": "Try the homemade gnocchi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten-Atmosphäre",
+            "tip": "Ruhige Ecken bei der San Nicola Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkerti hangulat",
+            "tip": "Csendes zugok a San Nicola templom környékén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atmosferă de grădină monahală",
+            "tip": "Colțuri liniștite lângă biserica San Nicola.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastic atmosphere",
+            "tip": "Quiet corners near San Nicola church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Traditionelle Muster aus Latium."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Hagyományos lazio-i minták."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Modele tradiționale din Lazio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Traditional patterns from Lazio."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Zentrum sind extrem schmal, bleiben Sie auf dem Hauptparkplatz.",
+          "Die Fahrt den Hügel hinauf bietet tolle Fotomöglichkeiten.",
+          "Prüfen Sie die Parkgebühren am Wochenende."
+        ],
+        "hu": [
+          "A központ utcái rendkívül szűkek, maradjon a főparkolóban.",
+          "A dombra vezető út nagyszerű fotózási lehetőségeket kínál.",
+          "Ellenőrizze a parkolási díjakat hétvégén."
+        ],
+        "ro": [
+          "Străzile din centru sunt extrem de înguste, rămâneți în parcarea principală.",
+          "Drumul spre vârful dealului oferă ocazii excelente pentru fotografii.",
+          "Verificați taxele de parcare în weekend."
+        ],
+        "en": [
+          "The streets in the center are extremely narrow, stick to the main parking lot.",
+          "The drive up the hill offers great photo opportunities.",
+          "Check parking fees during weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro-Pofi Bahnhof",
+            "hu": "Castro-Pofi vasútállomás",
+            "ro": "Gara Castro-Pofi",
+            "en": "Castro-Pofi Train Station"
+          },
+          "coords": [
+            13.33,
+            41.55
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ankunft mit dem Zug von Rom oder Neapel.",
+            "hu": "Érkezés vonattal Róma vagy Nápoly felől.",
+            "ro": "Sosire cu trenul de la Roma sau Napoli.",
+            "en": "Arrival by train from Rome or Naples."
+          }
+        },
+        {
+          "name": {
+            "de": "Civitas (Altstadt)",
+            "hu": "Civitas (Óváros)",
+            "ro": "Civitas (Centrul Vechi)",
+            "en": "Civitas (Old Town)"
+          },
+          "coords": [
+            13.3052,
+            41.5335
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Busshuttle den Hügel hinauf.",
+            "hu": "Használja a helyi buszjáratot a dombra való feljutáshoz.",
+            "ro": "Folosiți autobuzul local pentru a urca dealul.",
+            "en": "Use the local shuttle bus to get up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicola",
+            "hu": "San Nicola templom",
+            "ro": "Biserica San Nicola",
+            "en": "Church of San Nicola"
+          },
+          "coords": [
+            13.306,
+            41.5332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schattiger Ort für eine kurze Pause.",
+            "hu": "Árnyékos hely egy rövid pihenőhöz.",
+            "ro": "Un loc umbros pentru o scurtă pauză.",
+            "en": "A shaded spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre dell'Orologio)",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            13.3055,
+            41.5331
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Blick entschädigt für den Aufstieg.",
+            "hu": "A kilátás kárpótol a kaptatóért.",
+            "ro": "Priveliștea merită efortul urcușului.",
+            "en": "The view makes the climb worthwhile."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick Sacco-Tal",
+            "hu": "Sacco-völgy panoráma",
+            "ro": "Panorama Văii Sacco",
+            "en": "Sacco Valley Viewpoint"
+          },
+          "coords": [
+            13.3068,
+            41.5342
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Verweilen Sie hier, bevor der Bus zurückfährt.",
+            "hu": "Időzzön itt, mielőtt indulna a busz vissza.",
+            "ro": "Mai zăboviți aici înainte de plecarea autobuzului.",
+            "en": "Linger here before the bus head back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Bauernkultur",
+            "hu": "Parasztkultúra Múzeuma",
+            "ro": "Muzeul Culturii Țărănești",
+            "en": "Museum of Rural Culture"
+          },
+          "coords": [
+            13.3045,
+            41.5338
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie.",
+            "en": "A must-see for history buffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit der Regionalbahn zum Bahnhof Castro-Pofi und nehmen Sie den lokalen Bus in die Altstadt. In der 'Civitas' können Sie alles zu Fuß erkunden. Diese nachhaltige Art der Reise ermöglicht es Ihnen, die Ciociaria wie ein Einheimischer zu erleben und dabei die malerischen Ausblicke ohne Parkplatzsorgen zu genießen.",
+        "hu": "Utazzon regionális vonattal Castro-Pofi állomásig, majd szálljon át a helyi buszra az óváros felé. A 'Civitas' negyedben minden nevezetesség elérhető gyalogosan. Ez a fenntartható utazási mód lehetővé teszi, hogy úgy élje át Ciociaria hangulatát, mint egy helyi, parkolási gondok nélkül.",
+        "ro": "Călătoriți cu trenul regional până la gara Castro-Pofi și luați autobuzul local către centrul vechi. În 'Civitas', totul poate fi explorat la pas. Acest mod de călătorie sustenabil vă permite să trăiți experiența regiunii Ciociaria ca un localnic, bucurându-vă de priveliști fără grija parcării.",
+        "en": "Travel by regional train to Castro-Pofi station and take the local bus to the old town. In the 'Civitas' area, everything can be explored on foot. This sustainable way of traveling allows you to experience Ciociaria like a local, enjoying the scenic views without any parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panino con porchetta",
+            "tip": "Ein schneller und leckerer Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panino con porchetta",
+            "tip": "Gyors és finom sült malachúsos szendvics."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panino con porchetta",
+            "tip": "O gustare rapidă și delicioasă cu friptură de porc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panino con porchetta",
+            "tip": "A quick and delicious roast pork sandwich."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofswartebereich",
+            "tip": "Oft sehr ruhig mit Blick auf die Felder.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomás környéke",
+            "tip": "Gyakran nagyon csendes, rálátással a mezőkre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona gării",
+            "tip": "Adesea foarte liniștită, cu vedere spre câmpuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station area",
+            "tip": "Often very quiet with a view of the fields.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten aus der Ciociaria",
+            "tip": "Wunderschöne Motive der Bergdörfer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciociaria képeslapok",
+            "tip": "Gyönyörű felvételek a hegyi falvakról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi din Ciociaria",
+            "tip": "Imagini superbe cu satele de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciociaria Postcards",
+            "tip": "Beautiful shots of the mountain villages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busverbindungen (Cotral), da diese am Sonntag eingeschränkt sein können.",
+          "Validieren Sie Ihr Zugticket vor der Abfahrt am Entwerter.",
+          "Der Bahnhof liegt einige Kilometer vom Zentrum entfernt."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet (Cotral), vasárnap ritkábbak a járatok.",
+          "Indulás előtt érvényesítse a vonatjegyét az automatánál.",
+          "A vasútállomás néhány kilométerre található a központtól."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor (Cotral), duminica pot fi mai rare.",
+          "Validați biletul de tren înainte de plecare la aparatele de pe peron.",
+          "Gara se află la câțiva kilometri de centrul orașului."
+        ],
+        "en": [
+          "Check the bus schedules (Cotral), as they can be limited on Sundays.",
+          "Validate your train ticket at the machine before departure.",
+          "The train station is a few kilometers away from the center."
+        ]
+      }
+    }
+  }
+}

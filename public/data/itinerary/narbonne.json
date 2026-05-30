@@ -1,0 +1,862 @@
+{
+  "city_id": "narbonne",
+  "anchor": {
+    "name": "Narbonne Centre",
+    "coords": [
+      3.005,
+      43.183
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Halles",
+            "hu": "Vásárcsarnok",
+            "ro": "Piața Centrală",
+            "en": "Les Halles Market"
+          },
+          "coords": [
+            3.0042,
+            43.1841
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühstück bei Chez Bebelle.",
+            "hu": "Reggelizzen Chez Bebelle-nél.",
+            "ro": "Mic dejun la Chez Bebelle.",
+            "en": "Have breakfast at Chez Bebelle."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de la Robine",
+            "hu": "Canal de la Robine",
+            "ro": "Canal de la Robine",
+            "en": "Canal de la Robine"
+          },
+          "coords": [
+            3.0035,
+            43.1832
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang unter Platanen.",
+            "hu": "Séta a platánfák alatt.",
+            "ro": "Plimbare sub platani.",
+            "en": "Stroll under the plane trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Marchands",
+            "hu": "Kereskedők hídja",
+            "ro": "Podul Negustorilor",
+            "en": "Merchants' Bridge"
+          },
+          "coords": [
+            3.0031,
+            43.1835
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einzigartige Brücke mit Häusern.",
+            "hu": "Különleges, házakkal beépített híd.",
+            "ro": "Pod unic cu case construite pe el.",
+            "en": "Unique bridge with houses built on it."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Horreum",
+            "hu": "Római Horreum",
+            "ro": "Horreum Roman",
+            "en": "Roman Horreum"
+          },
+          "coords": [
+            3.0028,
+            43.1852
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Unterirdische römische Gänge.",
+            "hu": "Föld alatti római raktárfolyosók.",
+            "ro": "Galerii romane subterane.",
+            "en": "Underground Roman warehouse tunnels."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Just",
+            "hu": "Saint-Just katedrális",
+            "ro": "Catedrala Saint-Just",
+            "en": "Saint-Just Cathedral"
+          },
+          "coords": [
+            3.0061,
+            43.1851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Unvollendetes Meisterwerk.",
+            "hu": "Befejezetlen gótikus remekmű.",
+            "ro": "Capodoperă gotică neterminată.",
+            "en": "Unfinished Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzbischofspalast",
+            "hu": "Érseki Palota",
+            "ro": "Palatul Arhiepiscopal",
+            "en": "Archbishop's Palace"
+          },
+          "coords": [
+            3.0071,
+            43.1844
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zweitgrößter Palast nach Avignon.",
+            "hu": "A második legnagyobb palota Avignon után.",
+            "ro": "Al doilea palat ca mărime după Avignon.",
+            "en": "Second largest palace after Avignon."
+          }
+        },
+        {
+          "name": {
+            "de": "Gilles-Aycelin-Turm",
+            "hu": "Gilles-Aycelin torony",
+            "ro": "Turnul Gilles-Aycelin",
+            "en": "Gilles-Aycelin Tower"
+          },
+          "coords": [
+            3.0074,
+            43.1842
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bester Blick über die Stadt.",
+            "hu": "A legjobb kilátás a városra.",
+            "ro": "Cea mai bună vedere asupra orașului.",
+            "en": "Best view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der lebhaften Markthalle Les Halles, wo Sie lokale Spezialitäten probieren können. Schlendern Sie entlang des Canal de la Robine und überqueren Sie die Pont des Marchands, eine der wenigen Brücken Europas, die mit Häusern bebaut ist. Tauchen Sie im Horreum in die römische Geschichte ein und bestaunen Sie die gewaltige, wenn auch unvollendete Kathedrale Saint-Just. Der prachtvolle Erzbischofspalast und der Aufstieg auf den Gilles-Aycelin-Turm bilden den krönenden Abschluss mit einem Panorama über das Languedoc.",
+        "hu": "Kezdje a napot a nyüzsgő Les Halles vásárcsarnokban, ahol megkóstolhatja a helyi finomságokat. Sétáljon a Canal de la Robine partján, és keljen át a Pont des Marchands-on, amely Európa kevés lakott hídjainak egyike. Merüljön el a római történelemben a Horreum föld alatti folyosóin, majd csodálja meg a monumentális, befejezetlen Saint-Just katedrálist. Az impozáns Érseki Palota és a Gilles-Aycelin torony megmászása tökéletes zárása a napnak, lenyűgöző panorámával a városra.",
+        "ro": "Începeți ziua în vibranta hală Les Halles, unde puteți degusta specialități locale. Plimbați-vă de-a lungul Canalului de la Robine și traversați Pont des Marchands, unul dintre puținele poduri locuite din Europa. Explorați istoria romană în galeriile subterane Horreum și admirați uriașa Catedrală Saint-Just, rămasă neterminată. Palatul Arhiepiscopal și urcarea în Turnul Gilles-Aycelin oferă finalul perfect, cu o panoramă spectaculoasă asupra regiunii Languedoc.",
+        "en": "Start your day at the lively Les Halles market, where you can sample local delicacies. Stroll along the Canal de la Robine and cross the Pont des Marchands, one of Europe's few remaining bridges with houses built on it. Dive into Roman history at the underground Horreum and marvel at the massive, unfinished Saint-Just Cathedral. The grand Archbishop's Palace and a climb up the Gilles-Aycelin Tower provide the perfect conclusion, offering a panoramic view over the city and beyond."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Narbonne",
+            "tip": "Probieren Sie frische Austern und lokale Weine."
+          },
+          {
+            "name": "Cassoulet Narbonnais",
+            "tip": "Deftiger Eintopf mit Bohnen und Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Narbonne",
+            "tip": "Kóstoljon friss osztrigát és helyi borokat."
+          },
+          {
+            "name": "Miel de Narbonne",
+            "tip": "Híres helyi rozmaringméz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Narbonne",
+            "tip": "Încercați stridii proaspete și vinuri locale."
+          },
+          {
+            "name": "Bourride de Narbonne",
+            "tip": "Specialitate locală de pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Narbonne",
+            "tip": "Try fresh oysters and local wines at the stalls."
+          },
+          {
+            "name": "Rosemary Honey",
+            "tip": "The famous local 'Miel de Narbonne'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de l'Archevêché",
+            "tip": "Ruhiger Garten hinter dem Palast.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Canal-Ufer",
+            "tip": "Abendspaziergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Érseki kert",
+            "tip": "Csendes kert a palota mögött.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Csatornapart",
+            "tip": "Esti séta a víz mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Arhiepiscopiei",
+            "tip": "Grădină liniștită în spatele palatului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Malul Canalului",
+            "tip": "Plimbare de seară pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archbishop's Garden",
+            "tip": "Peaceful garden behind the palace.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Canal Banks",
+            "tip": "Evening walk by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Beste Adresse für Wein, Käse und Olivenöl."
+          },
+          {
+            "name": "Rue de l'Ancien Courrier",
+            "tip": "Kleine Boutiquen in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "A legjobb hely borok, sajtok és olívaolaj beszerzésére."
+          },
+          {
+            "name": "Rue de l'Ancien Courrier",
+            "tip": "Hangulatos butikok az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Cea mai bună locație pentru vin, brânzeturi și ulei de măsline."
+          },
+          {
+            "name": "Rue de l'Ancien Courrier",
+            "tip": "Boutique-uri cochete în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Best spot for wine, cheese, and olive oil."
+          },
+          {
+            "name": "Rue de l'Ancien Courrier",
+            "tip": "Quaint boutiques in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Kathedrale ist über Mittag meist geschlossen.",
+          "Parken Sie im Parkhaus 'Quai de la Robine' direkt am Zentrum.",
+          "Narbonne ist sehr flach und perfekt zu Fuß erkundbar.",
+          "Sonntag ist in Les Halles besonders viel los.",
+          "Kaufen Sie das Kombiticket für Palast und Horreum."
+        ],
+        "hu": [
+          "A katedrális délben általában zárva tart.",
+          "Parkoljon a központhoz közeli 'Quai de la Robine' parkolóban.",
+          "Narbonne sík terep, ideális gyalogos felfedezésre.",
+          "A vasárnap a legnyüzsgőbb nap a vásárcsarnokban.",
+          "Vegyen kombinált jegyet a palotához és a Horreumhoz."
+        ],
+        "ro": [
+          "Catedrala este de obicei închisă la prânz.",
+          "Parcați la 'Quai de la Robine', chiar lângă centru.",
+          "Narbonne este plat și perfect pentru explorat pe jos.",
+          "Duminica este cea mai aglomerată zi la Les Halles.",
+          "Cumpărați biletul combinat pentru palat și Horreum."
+        ],
+        "en": [
+          "The cathedral is usually closed during lunch hours.",
+          "Park at the 'Quai de la Robine' garage right by the center.",
+          "Narbonne is flat and perfect for walking.",
+          "Sunday is the busiest and best day at Les Halles.",
+          "Get the combo ticket for the Palace and the Horreum museum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 32.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster: Historisches Zentrum",
+            "hu": "Klaszter: Történelmi központ",
+            "ro": "Cluster: Centrul istoric",
+            "en": "Cluster: Historical Center"
+          },
+          "coords": [
+            3.0042,
+            43.1841
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Les Halles und Kathedrale zu Fuß erkunden.",
+            "hu": "Sétáljon a vásárcsarnok és a katedrális között.",
+            "ro": "Explorați piața și catedrala la pas.",
+            "en": "Explore the market and cathedral on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Fontfroide",
+            "hu": "Fontfroide apátság",
+            "ro": "Abatia Fontfroide",
+            "en": "Fontfroide Abbey"
+          },
+          "coords": [
+            2.8981,
+            43.1285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 14.2,
+          "tip_5lang": {
+            "de": "Zisterzienserkloster in den Corbières.",
+            "hu": "Ciszterci kolostor a hegyek lábánál.",
+            "ro": "Mănăstire cisterciană în munții Corbières.",
+            "en": "Cistercian monastery in the Corbières hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Narbonne-Plage",
+            "hu": "Narbonne-Plage",
+            "ro": "Narbonne-Plage",
+            "en": "Narbonne-Plage"
+          },
+          "coords": [
+            3.1552,
+            43.1511
+          ],
+          "category": "sea",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 24.5,
+          "tip_5lang": {
+            "de": "Breiter Sandstrand.",
+            "hu": "Hatalmas homokos tengerpart.",
+            "ro": "Plajă largă cu nisip.",
+            "en": "Wide sandy Mediterranean beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das Zentrum mit der wilden Natur. Nach einem Vormittag in der Altstadt fahren Sie zur Abtei Fontfroide, einem Juwel der Zisterzienser-Architektur. Den Nachmittag verbringen Sie am weiten Strand von Narbonne-Plage oder im Fischerdorf Gruissan.",
+        "hu": "Autóval kombinálhatja a városi kultúrát a természettel. Az óvárosi délelőtt után látogasson el a Fontfroide apátsághoz, a ciszterci építészet remekéhez, majd fejezze be a napot a tengerparton Narbonne-Plage-nál.",
+        "ro": "Cu mașina, puteți combina centrul istoric cu natura sălbatică. După o dimineață în oraș, conduceți spre Abația Fontfroide, o bijuterie cisterciană, apoi relaxați-vă după-amiaza pe plaja lungă din Narbonne-Plage.",
+        "en": "By car, you can combine city culture with wild nature. After a morning in the old town, drive to Fontfroide Abbey, a masterpiece of Cistercian architecture, then spend the afternoon at the vast Narbonne-Plage beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Table d'Auberge",
+            "tip": "Essen im Kloster Fontfroide."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Table d'Auberge",
+            "tip": "Ebéd a Fontfroide apátságnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Table d'Auberge",
+            "tip": "Masă la mănăstirea Fontfroide."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table d'Auberge",
+            "tip": "Dine at the Fontfroide Abbey restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Massif de la Clape",
+            "tip": "Wandern mit Meerblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Massif de la Clape",
+            "tip": "Túra tengeri kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Massif de la Clape",
+            "tip": "Drumeție cu vedere la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Massif de la Clape",
+            "tip": "Hiking with sea views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Hospitalet",
+            "tip": "Weinprobe und Shop direkt an der Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Hospitalet",
+            "tip": "Borkóstoló és szaküzlet az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Hospitalet",
+            "tip": "Degustare de vinuri și magazin la drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Hospitalet",
+            "tip": "Wine tasting and shop on the road to the beach."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Windböen (Tramontane) am Strand.",
+          "Fontfroide hat kostenlose Parkplätze."
+        ],
+        "hu": [
+          "Vigyázzon az erős szélre (Tramontane) a parton.",
+          "Fontfroide ingyenes parkolóval rendelkezik."
+        ],
+        "ro": [
+          "Atenție la vântul puternic (Tramontane) pe plajă.",
+          "Fontfroide are parcare gratuită."
+        ],
+        "en": [
+          "Watch out for strong winds (Tramontane) at the beach.",
+          "Fontfroide Abbey has free parking."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Canal de la Robine Radweg",
+            "hu": "Canal de la Robine kerékpárút",
+            "ro": "Pista de biciclete Canal de la Robine",
+            "en": "Canal de la Robine Cycle Path"
+          },
+          "coords": [
+            3.0035,
+            43.1832
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Flacher Weg entlang des Wassers.",
+            "hu": "Sík út a víz mentén.",
+            "ro": "Drum plat de-a lungul apei.",
+            "en": "Flat path along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Écluse de Mandirac",
+            "hu": "Mandirac zsilip",
+            "ro": "Ecluza Mandirac",
+            "en": "Mandirac Lock"
+          },
+          "coords": [
+            3.0351,
+            43.1252
+          ],
+          "category": "industry",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Typische Kanalschleuse.",
+            "hu": "Tipikus csatornazsilip.",
+            "ro": "Ecluză tipică de canal.",
+            "en": "Typical canal lock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie auf dem Treppelpfad des Canal de la Robine, der zum UNESCO-Welterbe gehört. Die Strecke ist flach und führt durch Salzwiesen und Weinberge Richtung Süden.",
+        "hu": "Tekerjen a Canal de la Robine mentén, amely az UNESCO Világörökség része. Az útvonal sík, sós mocsarak és szőlőültetvények között vezet dél felé.",
+        "ro": "Pedalați pe drumul de halaj al Canalului de la Robine, sit UNESCO. Traseul este plat și trece prin mlaștini sărate și podgorii spre sud.",
+        "en": "Cycle along the towpath of the Canal de la Robine, a UNESCO World Heritage site. The route is flat, leading south through salt marshes and vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Kanal",
+            "tip": "Holen Sie Vorräte in Les Halles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a csatornánál",
+            "tip": "Vásároljon be a Les Halles-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe canal",
+            "tip": "Luați provizii de la Les Halles."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canalside Picnic",
+            "tip": "Grab supplies from Les Halles before leaving."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Étang de Bages",
+            "tip": "Beobachten Sie Flamingos.",
+            "emoji": "🦩"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étang de Bages",
+            "tip": "Figyelje meg a flamingókat.",
+            "emoji": "🦩"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Étang de Bages",
+            "tip": "Observați flamingii.",
+            "emoji": "🦩"
+          }
+        ],
+        "en": [
+          {
+            "name": "Étang de Bages",
+            "tip": "Spot flamingos in the lagoons.",
+            "emoji": "🦩"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélos de la Robine",
+            "tip": "Lokaler Fahrradverleih."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélos de la Robine",
+            "tip": "Helyi kerékpárkölcsönző."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélos de la Robine",
+            "tip": "Închirieri biciclete locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélos de la Robine",
+            "tip": "Local bike rental shop near the canal."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Der Weg hat wenig Schatten."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet.",
+          "Az úton kevés az árnyék."
+        ],
+        "ro": [
+          "Luați suficientă apă cu voi.",
+          "Drumul are puțină umbră."
+        ],
+        "en": [
+          "Take plenty of water with you.",
+          "The path has very little shade."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Narbonne",
+            "hu": "Narbonne óváros",
+            "ro": "Orașul vechi Narbonne",
+            "en": "Narbonne Old Town"
+          },
+          "coords": [
+            3.0061,
+            43.1851
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Alle Sehenswürdigkeiten sind nah beieinander.",
+            "hu": "Minden látnivaló sétatávolságra van.",
+            "ro": "Toate atracțiile sunt aproape una de alta.",
+            "en": "All main sights are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Narbo Via Museum",
+            "hu": "Narbo Via Múzeum",
+            "ro": "Muzeul Narbo Via",
+            "en": "Narbo Via Museum"
+          },
+          "coords": [
+            3.0181,
+            43.1782
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Neues Museum für römische Geschichte.",
+            "hu": "Új római kori történeti múzeum.",
+            "ro": "Nou muzeu de istorie romană.",
+            "en": "New state-of-the-art Roman history museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Citadine-Busse im Zentrum und regionale Busse für das Umland. Besuchen Sie das moderne Narbo Via Museum, das bequem per Transit erreichbar ist.",
+        "hu": "Használja a Citadine buszokat a központban és a regionális járatokat a környékhez. Látogasson el a modern Narbo Via múzeumba.",
+        "ro": "Folosiți autobuzele Citadine în centru și liniile regionale pentru împrejurimi. Vizitați modernul muzeu Narbo Via.",
+        "en": "Use the Citadine shuttle buses in the center and regional lines for the surroundings. Visit the modern Narbo Via museum, easily accessible by transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie Co",
+            "tip": "Gute Küche nahe der Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie Co",
+            "tip": "Jó konyha a megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie Co",
+            "tip": "Bucătărie bună lângă stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie Co",
+            "tip": "Quality dining near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Liberté",
+            "tip": "Grüne Oase.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Liberté",
+            "tip": "Zöld oázis.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de la Liberté",
+            "tip": "Oază verde.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Liberté",
+            "tip": "A green oasis in the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cours Mirabeau",
+            "tip": "Einkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cours Mirabeau",
+            "tip": "Bevásárlóutca a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cours Mirabeau",
+            "tip": "Stradă comercială centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cours Mirabeau",
+            "tip": "Main shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Citadine-Shuttles sind oft kostenlos.",
+          "Prüfen Sie den Fahrplan für die Strände."
+        ],
+        "hu": [
+          "A Citadine buszok gyakran ingyenesek.",
+          "Ellenőrizze a tengerparti járatok menetrendjét."
+        ],
+        "ro": [
+          "Navetele Citadine sunt adesea gratuite.",
+          "Verificați orarul pentru plaje."
+        ],
+        "en": [
+          "Citadine shuttles are often free of charge.",
+          "Check the seasonal bus schedules for the beaches."
+        ]
+      }
+    }
+  }
+}

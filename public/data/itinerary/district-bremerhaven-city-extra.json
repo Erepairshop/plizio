@@ -1,0 +1,1064 @@
+{
+  "city_id": "district-bremerhaven-city-extra",
+  "anchor": {
+    "name": "Bremerhaven Havenwelten",
+    "coords": [
+      53.543,
+      8.578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Auswandererhaus",
+            "hu": "Német Kivándorlási Központ",
+            "ro": "Centrul German de Emigrare",
+            "en": "German Emigration Center"
+          },
+          "coords": [
+            53.545,
+            8.573
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Interaktive Zeitreise mit persönlichen Schicksalen.",
+            "hu": "Interaktív időutazás személyes élettörténetekkel.",
+            "ro": "O călătorie interactivă în timp cu povești personale.",
+            "en": "Interactive time travel with personal life stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumshafen",
+            "hu": "Múzeumi Kikötő",
+            "ro": "Portul Muzeu",
+            "en": "Museum Harbor"
+          },
+          "coords": [
+            53.542,
+            8.576
+          ],
+          "category": "port",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historische Schiffe wie die 'Seute Deern' bewundern.",
+            "hu": "Csodáld meg a történelmi hajókat, mint a Seute Deern.",
+            "ro": "Admirați navele istorice precum Seute Deern.",
+            "en": "Admire historical ships like the Seute Deern."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimahaus Bremerhaven 8° Ost",
+            "hu": "Klímaház 8° Kelet",
+            "ro": "Casa Climei 8° Est",
+            "en": "Klimahaus Bremerhaven 8° Ost"
+          },
+          "coords": [
+            53.543,
+            8.574
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Alle Klimazonen der Erde an einem Tag erleben.",
+            "hu": "Éld át a Föld összes éghajlati övét egy nap alatt.",
+            "ro": "Experimentați toate zonele climatice ale lumii într-o zi.",
+            "en": "Experience all the Earth's climate zones in one day."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo am Meer",
+            "hu": "Tengeri Állatkert",
+            "ro": "Grădina Zoologică de la Mare",
+            "en": "Zoo at the Sea"
+          },
+          "coords": [
+            53.544,
+            8.571
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eisbären und Pinguine direkt an der Weser.",
+            "hu": "Jegesmedvék és pingvinek közvetlenül a Weser partján.",
+            "ro": "Urși polari și pinguini chiar pe malul râului Weser.",
+            "en": "Polar bears and penguins right on the Weser river."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Leuchtturm",
+            "hu": "Nagy Világítótorony",
+            "ro": "Farul Mare",
+            "en": "Great Lighthouse"
+          },
+          "coords": [
+            53.546,
+            8.571
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der älteste Festland-Leuchtturm an der deutschen Küste.",
+            "hu": "A német tengerpart legrégebbi szárazföldi világítótornya.",
+            "ro": "Cel mai vechi far de pe coasta germană continentală.",
+            "en": "The oldest mainland lighthouse on the German coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Schifffahrtsmuseum",
+            "hu": "Német Hajózási Múzeum",
+            "ro": "Muzeul Maritim German",
+            "en": "German Maritime Museum"
+          },
+          "coords": [
+            53.54,
+            8.577
+          ],
+          "category": "museums",
+          "arrive_at": "16:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sehenswert: Die Hansekogge von 1380.",
+            "hu": "Látnivaló: Az 1380-ból származó Hanza-kogge.",
+            "ro": "De vizitat: Hanseatic Kogge din 1380.",
+            "en": "Must see: The Hanseatic Kogge from 1380."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bremerhaven empfängt Sie mit salziger Meeresluft und dem Flair einer traditionsreichen Hafenstadt. Der Morgen beginnt im Auswandererhaus, wo die berührenden Geschichten von Millionen Menschen lebendig werden. Mittags schlendern Sie durch den Museumshafen, vorbei an stolzen Traditionsschiffen. Der Nachmittag gehört der Weltreise im Klimahaus, bevor Sie den Tag entspannt am Großen Leuchtturm ausklingen lassen.",
+        "hu": "Bremerhaven sós tengeri levegővel és egy hagyományőrző kikötőváros hangulatával várja Önt. A reggel a Kivándorlási Központban kezdődik, ahol milliók megható történetei elevenednek meg. Délben a Múzeumi Kikötőben sétálhat büszke történelmi hajók között. A délután a Klímaház világkörüli utazásáé, mielőtt a napot a Nagy Világítótoronynál zárná.",
+        "ro": "Bremerhaven vă întâmpină cu aer sărat de mare și atmosfera unui oraș portuar bogat în tradiții. Dimineața începe la Centrul de Emigrare, unde prind viață poveștile emoționante ale milioanelor de oameni. La prânz, vă plimbați prin Portul Muzeu pe lângă nave istorice mândre. După-amiaza este dedicată călătoriei în jurul lumii la Casa Climei, înainte de a încheia ziua la Farul Mare.",
+        "en": "Bremerhaven welcomes you with salty sea air and the flair of a traditional port city. The morning begins at the Emigration Center, where the touching stories of millions come to life. At noon, stroll through the Museum Harbor past proud historic ships. The afternoon is dedicated to a world tour in the Klimahaus before ending the day relaxed at the Great Lighthouse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seute Deern",
+            "tip": "Traditionelles Fischrestaurant auf einem historischen Segelschiff."
+          },
+          {
+            "name": "Fischräucherei Franke",
+            "tip": "Frisch geräucherter Fisch direkt auf die Hand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seute Deern",
+            "tip": "Hagyományos halétterem egy történelmi vitorláshajón."
+          },
+          {
+            "name": "Fischräucherei Franke",
+            "tip": "Frissen füstölt hal közvetlenül a kézbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seute Deern",
+            "tip": "Restaurant tradițional cu specific de pește pe o navă istorică."
+          },
+          {
+            "name": "Fischräucherei Franke",
+            "tip": "Pește proaspăt afumat, servit direct."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seute Deern",
+            "tip": "Traditional fish restaurant on a historic sailing ship."
+          },
+          {
+            "name": "Fischräucherei Franke",
+            "tip": "Freshly smoked fish straight to your hand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weserdeich",
+            "tip": "Spaziergang auf dem Deich mit Blick auf die Nordsee.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Großer Leuchtturm Vorplatz",
+            "tip": "Ruhiger Platz zum Schiffe beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weserdeich",
+            "tip": "Séta a gáton, kilátással az Északi-tengerre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Großer Leuchtturm tér",
+            "tip": "Csendes hely a hajók megfigyeléséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weserdeich",
+            "tip": "Plimbare pe dig cu vedere la Marea Nordului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Farului Mare",
+            "tip": "Loc liniștit pentru a observa navele.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Weserdeich",
+            "tip": "Walk on the dike with a view of the North Sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Great Lighthouse Plaza",
+            "tip": "Quiet spot for ship watching.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mein Outlet & Shopping-Center",
+            "tip": "Markenartikel in maritimer Architektur."
+          },
+          {
+            "name": "Hafen-Souvenirs",
+            "tip": "Modelle von Segelschiffen und maritime Deko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mein Outlet & Shopping-Center",
+            "tip": "Márkás termékek tengeri építészeti környezetben."
+          },
+          {
+            "name": "Hafen-Souvenirs",
+            "tip": "Vitorláshajó makettek és tengeri dekoráció."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mein Outlet & Shopping-Center",
+            "tip": "Produse de marcă într-o arhitectură maritimă."
+          },
+          {
+            "name": "Hafen-Souvenirs",
+            "tip": "Machete de nave și decorațiuni maritime."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mein Outlet & Shopping-Center",
+            "tip": "Brand items in maritime architecture."
+          },
+          {
+            "name": "Harbor Souvenirs",
+            "tip": "Model sailing ships and maritime decor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Havenwelten sind sehr kompakt und gut zu Fuß erkundbar.",
+          "Kaufen Sie Kombitickets für Museen, um Geld zu sparen.",
+          "Ein Fischbrötchen am Hafen ist ein Muss.",
+          "Achten Sie auf die Gezeiten, wenn Sie an den Deich gehen."
+        ],
+        "hu": [
+          "A Havenwelten negyed kompakt és kiválóan bejárható gyalog.",
+          "Vásároljon kombinált jegyet a múzeumokba a spóroláshoz.",
+          "Egy halas zsemle a kikötőben kötelező program.",
+          "Figyelje az árapályt, ha a gátra indul."
+        ],
+        "ro": [
+          "Cartierul Havenwelten este compact și ușor de explorat la pas.",
+          "Cumpărați bilete combinate pentru muzee pentru a economisi.",
+          "Un sendviș cu pește în port este obligatoriu.",
+          "Verificați fluxul și refluxul când mergeți pe dig."
+        ],
+        "en": [
+          "The Havenwelten area is very compact and easy to explore on foot.",
+          "Buy combined tickets for museums to save money.",
+          "A fish bun (Fischbrötchen) at the harbor is a must.",
+          "Check the tides if you plan to walk on the dike."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Container-Aussichtsturm",
+            "hu": "Konténer-kilátó",
+            "ro": "Turnul de observație Container",
+            "en": "Container Lookout Tower"
+          },
+          "coords": [
+            53.54,
+            53.54
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Blick über den Containerterminal und die Schleusen.",
+            "hu": "Kilátás a konténerterminálra és a zsilipekre.",
+            "ro": "Vedere asupra terminalului de containere și a ecluzelor.",
+            "en": "View over the container terminal and the locks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumshafen",
+            "hu": "Múzeumi Kikötő",
+            "ro": "Portul Muzeu",
+            "en": "Museum Harbor"
+          },
+          "coords": [
+            53.542,
+            8.576
+          ],
+          "category": "port",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei den historischen Seglern.",
+            "hu": "Rövid megálló a történelmi vitorlásoknál.",
+            "ro": "O scurtă oprire la velierele istorice.",
+            "en": "Short stop at the historic sailing ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Schifffahrtsmuseum",
+            "hu": "Német Hajózási Múzeum",
+            "ro": "Muzeul Maritim German",
+            "en": "German Maritime Museum"
+          },
+          "coords": [
+            53.54,
+            8.577
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Maritime Geschichte zum Anfassen.",
+            "hu": "Kézzel fogható tengerészeti történelem.",
+            "ro": "Istoria maritimă pe care o poți atinge.",
+            "en": "Maritime history you can touch."
+          }
+        },
+        {
+          "name": {
+            "de": "U-Boot Wilhelm Bauer",
+            "hu": "Wilhelm Bauer tengeralattjáró",
+            "ro": "Submarinul Wilhelm Bauer",
+            "en": "U-Boot Wilhelm Bauer"
+          },
+          "coords": [
+            53.541,
+            8.578
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einziges erhaltenes U-Boot des Typs XXI.",
+            "hu": "Az egyetlen megmaradt XXI-es típusú tengeralattjáró.",
+            "ro": "Singurul submarin de tip XXI păstrat.",
+            "en": "The only preserved Type XXI submarine."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimahaus Bremerhaven 8° Ost",
+            "hu": "Klímaház 8° Kelet",
+            "ro": "Casa Climei 8° Est",
+            "en": "Klimahaus Bremerhaven 8° Ost"
+          },
+          "coords": [
+            53.543,
+            8.574
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Faszinierende Reise durch die Klimazonen.",
+            "hu": "Lenyűgöző utazás az éghajlati öveken át.",
+            "ro": "Călătorie fascinantă prin zonele climatice.",
+            "en": "Fascinating journey through climate zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo am Meer",
+            "hu": "Tengeri Állatkert",
+            "ro": "Grădina Zoologică de la Mare",
+            "en": "Zoo at the Sea"
+          },
+          "coords": [
+            53.544,
+            8.571
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nordische Tiere in moderner Anlage.",
+            "hu": "Északi állatok modern környezetben.",
+            "ro": "Animale nordice într-un cadru modern.",
+            "en": "Nordic animals in a modern facility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie Bremerhaven flexibel und weitläufig. Starten Sie im Süden am Container-Aussichtsturm mit Blick auf den Welthandel. Entlang der Weser geht es zurück in die Havenwelten zum Schifffahrtsmuseum und dem beeindruckenden U-Boot. Nach der Weltreise im Klimahaus beenden Sie Ihre Tour bei den Seehunden im Zoo am Meer.",
+        "hu": "Kerékpárral rugalmasan és tágabb körben fedezheti fel Bremerhavent. Kezdjen délen, a Konténer-kilátónál, rálátással a világkereskedelemre. A Weser mentén tekerjen vissza a Havenwelten negyedbe a Hajózási Múzeumhoz és a lenyűgöző tengeralattjáróhoz. A Klímaház után zárja túráját a fókáknál a Tengeri Állatkertben.",
+        "ro": "Cu bicicleta explorați Bremerhaven flexibil și pe o arie mai extinsă. Începeți în sud, la Turnul Container, cu vedere la comerțul mondial. De-a lungul râului Weser reveniți în Havenwelten la Muzeul Maritim și la submarinul impresionant. După călătoria la Casa Climei, încheiați turul la focile de la Grădina Zoologică.",
+        "en": "By bike, you explore Bremerhaven flexibly and extensively. Start in the south at the Container Lookout Tower with a view of global trade. Along the Weser, ride back to the Havenwelten to the Maritime Museum and the impressive submarine. After the journey in the Klimahaus, end your tour at the seals in the Zoo at the Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schaufenster Fischereihafen",
+            "tip": "Viele Fischrestaurants in historischer Kulisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schaufenster Fischereihafen",
+            "tip": "Számos halétterem történelmi díszletek között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schaufenster Fischereihafen",
+            "tip": "Multe restaurante cu specific de pește în decor istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schaufenster Fischereihafen",
+            "tip": "Many fish restaurants in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deichpromenade",
+            "tip": "Lange Radwege direkt am Wasser.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gát sétány",
+            "tip": "Hosszú kerékpárutak közvetlenül a vízparton.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe dig",
+            "tip": "Piste lungi de biciclete chiar lângă apă.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dike Promenade",
+            "tip": "Long bike paths right by the water.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Columbus Center",
+            "tip": "Großes Einkaufszentrum direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Columbus Center",
+            "tip": "Nagy bevásárlóközpont közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Columbus Center",
+            "tip": "Centru comercial mare chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Columbus Center",
+            "tip": "Large shopping mall right at the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege auf dem Weserdeich.",
+          "Schließen Sie Ihr Rad an den vorgesehenen Plätzen in den Havenwelten ab.",
+          "Der Wind kann an der Küste sehr kräftig sein."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat a Weser gátján.",
+          "Zárja le kerékpárját a kijelölt helyeken a Havenwelten negyedben.",
+          "A szél a tengerparton nagyon erős lehet."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine amenajate de pe digul Weser.",
+          "Încuiați bicicleta în locurile special amenajate în Havenwelten.",
+          "Vântul poate fi foarte puternic pe coastă."
+        ],
+        "en": [
+          "Use the well-developed bike paths on the Weser dike.",
+          "Lock your bike at the designated areas in the Havenwelten.",
+          "The wind can be very strong on the coast."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Auswandererhaus (Cluster A)",
+            "hu": "Német Kivándorlási Központ (A klaszter)",
+            "ro": "Centrul German de Emigrare (Cluster A)",
+            "en": "German Emigration Center (Cluster A)"
+          },
+          "coords": [
+            53.545,
+            8.573
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken im Parkhaus Havenwelten.",
+            "hu": "Parkolás a Havenwelten parkolóházban.",
+            "ro": "Parcare în parcarea Havenwelten.",
+            "en": "Park at the Havenwelten parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimahaus Bremerhaven 8° Ost",
+            "hu": "Klímaház 8° Kelet",
+            "ro": "Casa Climei 8° Est",
+            "en": "Klimahaus Bremerhaven 8° Ost"
+          },
+          "coords": [
+            53.543,
+            8.574
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fußläufig vom Auswandererhaus erreichbar.",
+            "hu": "Gyalogosan elérhető a Kivándorlási Központtól.",
+            "ro": "Accesibil pe jos de la Centrul de Emigrare.",
+            "en": "Within walking distance from the Emigration Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo am Meer",
+            "hu": "Tengeri Állatkert",
+            "ro": "Grădina Zoologică de la Mare",
+            "en": "Zoo at the Sea"
+          },
+          "coords": [
+            53.544,
+            8.571
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einzigartige Lage am Deich.",
+            "hu": "Egyedülálló elhelyezkedés a gáton.",
+            "ro": "Locație unică pe dig.",
+            "en": "Unique location on the dike."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumshafen (Cluster B)",
+            "hu": "Múzeumi Kikötő (B klaszter)",
+            "ro": "Portul Muzeu (Cluster B)",
+            "en": "Museum Harbor (Cluster B)"
+          },
+          "coords": [
+            53.542,
+            8.576
+          ],
+          "category": "port",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nächsten Parkplatz.",
+            "hu": "Rövid út a következő parkolóig.",
+            "ro": "Scurtă călătorie până la următoarea parcare.",
+            "en": "Short drive to the next parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Schifffahrtsmuseum",
+            "hu": "Német Hajózási Múzeum",
+            "ro": "Muzeul Maritim German",
+            "en": "German Maritime Museum"
+          },
+          "coords": [
+            53.54,
+            8.577
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wichtiger Ankerpunkt der maritimen Geschichte.",
+            "hu": "A tengerészeti történelem fontos horgonypontja.",
+            "ro": "Un punct important al istoriei maritime.",
+            "en": "Important anchor point of maritime history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die bequemen Parkmöglichkeiten der Havenwelten. Der Tag beginnt mit einer Zeitreise im Auswandererhaus, gefolgt von einer Weltreise im Klimahaus und einem Besuch bei den Tieren im Zoo. Alle drei liegen nah beieinander. Nach einem kurzen Fahrzeugwechsel erkunden Sie den Museumshafen und das Schifffahrtsmuseum im südlichen Cluster.",
+        "hu": "Autóval használja ki a Havenwelten kényelmes parkolási lehetőségeit. A nap egy időutazással kezdődik a Kivándorlási Központban, amelyet a Klímaház világkörüli útja és az állatkert látogatása követ. Mindhárom közel fekszik egymáshoz. Egy rövid autós áthelyezkedés után a déli klaszterben a Múzeumi Kikötőt és a Hajózási Múzeumot fedezheti fel.",
+        "ro": "Cu mașina, profitați de locurile de parcare convenabile din Havenwelten. Ziua începe cu o călătorie în timp la Centrul de Emigrare, urmată de o călătorie în jurul lumii la Casa Climei și o vizită la animalele de la grădina zoologică. Toate trei sunt situate aproape una de alta. După o scurtă deplasare cu mașina, explorați Portul Muzeu și Muzeul Maritim în clusterul sudic.",
+        "en": "By car, take advantage of the convenient parking in Havenwelten. The day begins with time travel at the Emigration Center, followed by a world tour in the Klimahaus and a visit to the animals at the zoo. All three are located close to each other. After a short drive, explore the Museum Harbor and the Maritime Museum in the southern cluster."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Natusch",
+            "tip": "Exquisites Fischrestaurant, eine Institution in Bremerhaven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Natusch",
+            "tip": "Kiváló halétterem, igazi intézmény Bremerhavenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Natusch",
+            "tip": "Restaurant cu specific de pește rafinat, o instituție în Bremerhaven."
+          }
+        ],
+        "en": [
+          {
+            "name": "Natusch",
+            "tip": "Exquisite fish restaurant, an institution in Bremerhaven."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deichpromenade",
+            "tip": "Ideal für einen ruhigen Spaziergang.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gát sétány",
+            "tip": "Ideális egy csendes sétához.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe dig",
+            "tip": "Ideală pentru o plimbare liniștită.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dike Promenade",
+            "tip": "Ideal for a quiet stroll.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hanse Carré",
+            "tip": "Modernes Shopping-Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hanse Carré",
+            "tip": "Modern bevásárlási élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanse Carré",
+            "tip": "Experiență modernă de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hanse Carré",
+            "tip": "Modern shopping experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie zentral im Parkhaus Havenwelten.",
+          "Innerhalb der Havenwelten können Sie alles zu Fuß erreichen.",
+          "Nutzen Sie Park-Apps für einfaches Bezahlen."
+        ],
+        "hu": [
+          "Parkoljon központilag a Havenwelten parkolóházban.",
+          "A negyeden belül minden elérhető gyalog.",
+          "Használjon parkolási appokat az egyszerű fizetéshez."
+        ],
+        "ro": [
+          "Parcați central în parcarea Havenwelten.",
+          "În interiorul Havenwelten, puteți ajunge peste tot pe jos.",
+          "Folosiți aplicații de parcare pentru o plată simplă."
+        ],
+        "en": [
+          "Park centrally in the Havenwelten parking garage.",
+          "Everything within Havenwelten is accessible on foot.",
+          "Use parking apps for easy payment."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Auswandererhaus",
+            "hu": "Német Kivándorlási Központ",
+            "ro": "Centrul German de Emigrare",
+            "en": "German Emigration Center"
+          },
+          "coords": [
+            53.545,
+            8.573
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Havenwelten' direkt vor der Tür.",
+            "hu": "A Havenwelten buszmegálló közvetlenül az ajtó előtt.",
+            "ro": "Stația de autobuz 'Havenwelten' chiar în față.",
+            "en": "Havenwelten bus stop right in front of the door."
+          }
+        },
+        {
+          "name": {
+            "de": "Klimahaus Bremerhaven 8° Ost",
+            "hu": "Klímaház 8° Kelet",
+            "ro": "Casa Climei 8° Est",
+            "en": "Klimahaus Bremerhaven 8° Ost"
+          },
+          "coords": [
+            53.543,
+            8.574
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Havenwelten.",
+            "hu": "Rövid séta a Havenwelten negyeden át.",
+            "ro": "O scurtă plimbare prin Havenwelten.",
+            "en": "A short walk through the Havenwelten."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo am Meer",
+            "hu": "Tengeri Állatkert",
+            "ro": "Grădina Zoologică de la Mare",
+            "en": "Zoo at the Sea"
+          },
+          "coords": [
+            53.544,
+            8.571
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Pinguinfütterung nicht verpassen.",
+            "hu": "Ne hagyja ki a pingvinetetést.",
+            "ro": "Nu ratați hrănirea pinguinilor.",
+            "en": "Don't miss the penguin feeding."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Schifffahrtsmuseum",
+            "hu": "Német Hajózási Múzeum",
+            "ro": "Muzeul Maritim German",
+            "en": "German Maritime Museum"
+          },
+          "coords": [
+            53.54,
+            8.577
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mit dem Hafen-Bus schnell erreichbar.",
+            "hu": "A kikötői busszal gyorsan elérhető.",
+            "ro": "Accesibil rapid cu autobuzul portuar.",
+            "en": "Quickly accessible with the harbor bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumshafen",
+            "hu": "Múzeumi Kikötő",
+            "ro": "Portul Muzeu",
+            "en": "Museum Harbor"
+          },
+          "coords": [
+            53.542,
+            8.576
+          ],
+          "category": "port",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Abendstimmung im Hafen genießen.",
+            "hu": "Élvezze a kikötői esti hangulatot.",
+            "ro": "Bucurați-vă de atmosfera de seară în port.",
+            "en": "Enjoy the evening atmosphere in the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bremerhaven lässt sich hervorragend mit dem Bus erkunden. Vom Hauptbahnhof bringt Sie die Linie 502 oder der Hafenbus direkt in die Havenwelten. Dort erleben Sie das Auswandererhaus, das Klimahaus und den Zoo in unmittelbarer Nähe. Ein weiterer Bus-Sprung führt Sie zum Schifffahrtsmuseum und dem Museumshafen, wo der Tag maritim endet.",
+        "hu": "Bremerhaven kiválóan felfedezhető busszal. A főpályaudvarról az 502-es járat vagy a kikötői busz viszi közvetlenül a Havenwelten negyedbe. Ott a Kivándorlási Központ, a Klímaház és az állatkert közvetlen közelben látogatható. Egy további buszozással a Hajózási Múzeumhoz és a Múzeumi Kikötőhöz juthat, ahol a nap tengeri hangulatban zárul.",
+        "ro": "Bremerhaven poate fi explorat excelent cu autobuzul. De la gara centrală, linia 502 sau autobuzul portuar vă duce direct în Havenwelten. Acolo puteți vizita Centrul de Emigrare, Casa Climei și grădina zoologică în imediata apropiere. O altă scurtă călătorie cu autobuzul vă duce la Muzeul Maritim și Portul Muzeu, unde ziua se încheie în stil maritim.",
+        "en": "Bremerhaven can be excellently explored by bus. From the main station, line 502 or the harbor bus takes you directly to the Havenwelten. There you can experience the Emigration Center, the Klimahaus, and the zoo in close proximity. Another bus ride takes you to the Maritime Museum and the Museum Harbor, where the day ends with a maritime vibe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kogge",
+            "tip": "Rustikale Kneipe mit authentischem Seemanns-Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kogge",
+            "tip": "Rusztikus kocsma autentikus tengerész hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kogge",
+            "tip": "Pub rustic cu atmosferă autentică de marinar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kogge",
+            "tip": "Rustic pub with authentic sailor flair."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Vorhafen",
+            "tip": "Ruhiger Blick auf die ein- und auslaufenden Schiffe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alter Vorhafen",
+            "tip": "Csendes rálátás az érkező és induló hajókra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alter Vorhafen",
+            "tip": "Vedere liniștită asupra navelor care sosesc și pleacă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alter Vorhafen",
+            "tip": "Quiet view of arriving and departing ships.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bürger",
+            "tip": "Die Haupteinkaufsstraße in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bürger",
+            "tip": "A belváros fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bürger",
+            "tip": "Principala stradă comercială din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bürger",
+            "tip": "The main shopping street in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Hafenbus für eine schnelle Verbindung zwischen den Museen.",
+          "Ein Tagesticket lohnt sich für mehrere Fahrten.",
+          "Die Busse fahren im 10-Minuten-Takt."
+        ],
+        "hu": [
+          "Használja a kikötői buszt a múzeumok közötti gyors közlekedéshez.",
+          "Több utazás esetén megéri a napijegy.",
+          "A buszok 10 perces ütemben közlekednek."
+        ],
+        "ro": [
+          "Folosiți autobuzul portuar pentru o conexiune rapidă între muzee.",
+          "Un bilet de o zi merită pentru mai multe călătorii.",
+          "Autobuzele circulă la un interval de 10 minute."
+        ],
+        "en": [
+          "Use the harbor bus for a quick connection between museums.",
+          "A day ticket is worth it for multiple rides.",
+          "Buses run every 10 minutes."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1025 @@
+{
+  "city_id": "italy-busto-arsizio-cities-v2",
+  "anchor": {
+    "name": "Busto Arsizio",
+    "coords": [
+      8.854,
+      45.6067
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria di Piazza",
+            "hu": "Santa Maria di Piazza templom",
+            "ro": "Santa Maria di Piazza",
+            "en": "Santa Maria di Piazza"
+          },
+          "coords": [
+            8.8502,
+            45.6115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Kuppel von Bramante.",
+            "hu": "Csodáld meg a Bramante-stílusú reneszánsz kupolát.",
+            "ro": "Admirați cupola renascentistă în stil Bramante.",
+            "en": "Admire the Renaissance dome in Bramante style."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giovanni Battista",
+            "hu": "Keresztelő Szent János-bazilika",
+            "ro": "Basilica di San Giovanni Battista",
+            "en": "Basilica of San Giovanni Battista"
+          },
+          "coords": [
+            8.8521,
+            45.6121
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Barockfassade ist das Wahrzeichen der Stadt.",
+            "hu": "A barokk homlokzat a város egyik fő jelképe.",
+            "ro": "Fațada barocă este un simbol al orașului.",
+            "en": "The Baroque facade is a landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Gilardoni (Rathaus)",
+            "hu": "Palazzo Gilardoni (Városháza)",
+            "ro": "Palazzo Gilardoni",
+            "en": "Palazzo Gilardoni (City Hall)"
+          },
+          "coords": [
+            8.8535,
+            45.6105
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel neoklassizistischer Architektur.",
+            "hu": "A neoklasszicista építészet pompás példája.",
+            "ro": "Un exemplu splendid de arhitectură neoclasică.",
+            "en": "A splendid example of neoclassical architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Cicogna",
+            "hu": "Palazzo Cicogna művészeti gyűjtemény",
+            "ro": "Palazzo Cicogna",
+            "en": "Palazzo Cicogna"
+          },
+          "coords": [
+            8.8552,
+            45.6101
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die städtischen Kunstsammlungen im Inneren.",
+            "hu": "Nézd meg a városi művészeti gyűjteményt az épületben.",
+            "ro": "Vizitați colecțiile civice de artă din interior.",
+            "en": "Visit the civic art collections inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseum",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            8.8585,
+            45.6075
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die industrielle Geschichte der Stadt.",
+            "hu": "Ismerd meg a város ipari múltját és a textilgyártást.",
+            "ro": "Aflați totul despre istoria industrială a orașului.",
+            "en": "Learn all about the industrial history of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sociale",
+            "hu": "Teatro Sociale",
+            "ro": "Teatro Sociale",
+            "en": "Teatro Sociale"
+          },
+          "coords": [
+            8.8515,
+            45.6085
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein historisches Theater im Herzen des Zentrums.",
+            "hu": "Történelmi színház a belváros szívében.",
+            "ro": "Un teatru istoric în inima centrului.",
+            "en": "A historical theatre in the heart of the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Busto Arsizio überrascht mit seinem reichen industriellen Erbe und eleganten Renaissance-Bauten. Der Vormittag ist den prächtigen Kirchen gewidmet, gefolgt von einem Spaziergang durch das neoklassizistische Zentrum. Nach dem Mittagessen tauchen wir tief in die Textilgeschichte ein, die die Stadt einst wohlhabend machte, und lassen den Tag entspannt am historischen Theater ausklingen.",
+        "hu": "Busto Arsizio meglepően gazdag ipari örökséggel és elegáns reneszánsz épületekkel büszkélkedhet. A délelőttöt a város lenyűgöző templomainak szenteljük, majd sétát teszünk a neoklasszicista központban. Ebéd után elmélyedünk a várost naggyá tevő textilipar történetében, a napot pedig a patinás Teatro Sociale környékén fejezzük be.",
+        "ro": "Busto Arsizio surprinde prin moștenirea sa industrială bogată și clădirile elegante din perioada Renașterii. Dimineața este dedicată bisericilor splendide, urmată de o plimbare prin centrul neoclasic. După prânz, explorăm istoria textilă care a adus prosperitate orașului și încheiem ziua relaxat lângă teatrul istoric.",
+        "en": "Busto Arsizio surprises with its rich industrial heritage and elegant Renaissance buildings. The morning is dedicated to splendid churches, followed by a stroll through the neoclassical center. After lunch, we dive deep into the textile history that once made the city wealthy, and end the day relaxed by the historic theatre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bruscitti di Busto Arsizio",
+            "tip": "Geschmortes Rindfleisch mit Fenchelsamen und Wein."
+          },
+          {
+            "name": "Osteria del 30",
+            "tip": "Traditionelle lombardische Küche in gemütlichem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruscitti di Busto Arsizio",
+            "tip": "Darált marhahús édesköménnyel és borral párolva."
+          },
+          {
+            "name": "Osteria del 30",
+            "tip": "Hagyományos lombard konyha barátságos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruscitti di Busto Arsizio",
+            "tip": "Carne de vită tocată, înăbușită cu semințe de fenicul și vin."
+          },
+          {
+            "name": "Osteria del 30",
+            "tip": "Bucătărie tradițională lombardă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruscitti di Busto Arsizio",
+            "tip": "Stewed beef with fennel seeds and wine, a local classic."
+          },
+          {
+            "name": "Osteria del 30",
+            "tip": "Traditional Lombard cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino di Palazzo Cicogna",
+            "tip": "Ein ruhiger Rückzugsort im Museumshof.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palazzo Cicogna kertje",
+            "tip": "Csendes menedék a múzeum belső udvarán.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Palazzo Cicogna",
+            "tip": "Un refugiu liniștit în curtea muzeului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palazzo Cicogna Garden",
+            "tip": "A quiet retreat in the museum courtyard.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Italia",
+            "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Italia",
+            "tip": "A fő bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Principala stradă comercială cu numeroase buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Italia",
+            "tip": "The main shopping street with many boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Zentrum ist weitgehend verkehrsberuhigt und ideal zu Fuß erkundbar.",
+          "Probieren Sie unbedingt die Cupeta, eine lokale Süßigkeit mit Nüssen und Honig.",
+          "Montags sind die meisten Museen geschlossen."
+        ],
+        "hu": [
+          "A belváros nagyrészt sétálóövezet, így gyalogosan a legkönnyebb felfedezni.",
+          "Kóstold meg a Cupetát, a helyi mogyorós-mézes édességet.",
+          "Hétfőnként a legtöbb múzeum zárva tart."
+        ],
+        "ro": [
+          "Centrul este în mare parte pietonal, ideal pentru explorarea la pas.",
+          "Nu ratați Cupeta, un desert local cu nuci și miere.",
+          "Lunea majoritatea muzeelor sunt închise."
+        ],
+        "en": [
+          "The city center is mostly pedestrian-friendly and best explored on foot.",
+          "Be sure to try Cupeta, a local sweet made with nuts and honey.",
+          "Most museums are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Textilmuseum",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            8.8585,
+            45.6075
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit der Industriegeschichte.",
+            "hu": "Kezdd a város ipari múltjával.",
+            "ro": "Începeți cu istoria industrială.",
+            "en": "Start with the industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giovanni",
+            "hu": "San Giovanni bazilika",
+            "ro": "Basilica di San Giovanni",
+            "en": "Basilica of San Giovanni"
+          },
+          "coords": [
+            8.8521,
+            45.6121
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz am Platz.",
+            "hu": "Biztonságos biciklitároló a téren.",
+            "ro": "Loc sigur de parcare pentru biciclete în piață.",
+            "en": "Secure bike parking available on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ottolini-Tosi",
+            "hu": "Villa Ottolini-Tosi",
+            "ro": "Villa Ottolini-Tosi",
+            "en": "Villa Ottolini-Tosi"
+          },
+          "coords": [
+            8.8475,
+            45.6125
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Liberty-Stil Architektur.",
+            "hu": "Csodáld meg a szecessziós (Liberty) építészetet.",
+            "ro": "Admirați arhitectura în stil Liberty.",
+            "en": "Admire the Liberty style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Alto Milanese",
+            "hu": "Parco Alto Milanese",
+            "ro": "Parco Alto Milanese",
+            "en": "Parco Alto Milanese"
+          },
+          "coords": [
+            8.875,
+            45.595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine lange Radtour im Grünen.",
+            "hu": "Tökéletes hely egy hosszú erdei kerékpározáshoz.",
+            "ro": "Perfect pentru o tură lungă cu bicicleta în natură.",
+            "en": "Perfect for a long bike ride in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria di Piazza",
+            "hu": "Santa Maria di Piazza",
+            "ro": "Santa Maria di Piazza",
+            "en": "Santa Maria di Piazza"
+          },
+          "coords": [
+            8.8502,
+            45.6115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp zurück im Zentrum.",
+            "hu": "Rövid megálló visszaérve a központba.",
+            "ro": "O scurtă oprire la revenirea în centru.",
+            "en": "A short stop back in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir nicht nur das Zentrum, sondern auch die grüne Lunge der Region. Nach dem kulturellen Start am Textilmuseum und der Basilica radeln wir hinaus zum Parco Alto Milanese, wo weite Wege zum Entspannen einladen. Ein sportlicher Tag zwischen Industriegeschichte und Natur.",
+        "hu": "Kerékpárral nemcsak a központot, hanem a régió zöld tüdejét is felfedezzük. A Textilmúzeum és a bazilika kulturális kezdete után kitekerünk a Parco Alto Milanese parkba, ahol tágas utak várják a kikapcsolódni vágyókat. Sportos nap az ipartörténet és a természet határán.",
+        "ro": "Cu bicicleta explorăm nu doar centrul, ci și plămânul verde al regiunii. După startul cultural la Muzeul Textilelor și basilică, pedalăm spre Parco Alto Milanese, unde aleile largi ne invită la relaxare. O zi sportivă între istorie industrială și natură.",
+        "en": "By bike, we explore not only the center but also the green lungs of the region. After a cultural start at the Textile Museum and the Basilica, we cycle out to Parco Alto Milanese, where wide paths invite you to relax. A sporty day between industrial history and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bicigrill",
+            "tip": "Ein idealer Stopp für Radfahrer im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicigrill",
+            "tip": "Ideális megálló kerékpárosoknak a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bicigrill",
+            "tip": "O oprire ideală pentru biciclisti în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicigrill",
+            "tip": "An ideal stop for cyclists inside the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Alto Milanese",
+            "tip": "Viel Platz zum Durchatmen abseits der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Alto Milanese",
+            "tip": "Hatalmas terület a városon kívüli pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Alto Milanese",
+            "tip": "Mult spațiu pentru relaxare în afara orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Alto Milanese",
+            "tip": "Plenty of space to breathe away from the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Frische Produkte direkt am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Friss termékek a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Produse proaspete la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local markets",
+            "tip": "Fresh products right on the edge of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege Richtung Legnano.",
+          "Der Park ist am Wochenende sehr belebt."
+        ],
+        "hu": [
+          "Használd a Legnano felé vezető kerékpárutakat.",
+          "A park hétvégente nagyon forgalmas."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete spre Legnano.",
+          "Parcul este foarte aglomerat în weekend."
+        ],
+        "en": [
+          "Use the bike paths towards Legnano.",
+          "The park is very busy on weekends."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Cluster: Santa Maria",
+            "hu": "Központi klaszter: Santa Maria",
+            "ro": "Cluster Centru: Santa Maria",
+            "en": "Center Cluster: Santa Maria"
+          },
+          "coords": [
+            8.8502,
+            45.6115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Zentrum.",
+            "hu": "Parkolj a belvárosi parkolóházban.",
+            "ro": "Parcați în parcarea etajată de lângă centru.",
+            "en": "Park in the multi-storey car park near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giovanni",
+            "hu": "San Giovanni bazilika",
+            "ro": "Basilica di San Giovanni",
+            "en": "Basilica of San Giovanni"
+          },
+          "coords": [
+            8.8521,
+            45.6121
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Museums Cluster: Palazzo Cicogna",
+            "hu": "Múzeumi klaszter: Palazzo Cicogna",
+            "ro": "Cluster Muzee: Palazzo Cicogna",
+            "en": "Museums Cluster: Palazzo Cicogna"
+          },
+          "coords": [
+            8.8552,
+            45.6101
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nächsten Cluster.",
+            "hu": "Rövid autóút a következő klaszterhez.",
+            "ro": "Scurtă deplasare auto către următorul cluster.",
+            "en": "Short drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseum",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            8.8585,
+            45.6075
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Museum.",
+            "hu": "Saját nagy parkoló a múzeumnál.",
+            "ro": "Parcare mare chiar lângă muzeu.",
+            "en": "Large parking lot right at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Alto Milanese",
+            "hu": "Parco Alto Milanese",
+            "ro": "Parco Alto Milanese",
+            "en": "Parco Alto Milanese"
+          },
+          "coords": [
+            8.875,
+            45.595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrt ins Grüne am Stadtrand.",
+            "hu": "Autózás a város széli zöldövezetbe.",
+            "ro": "Deplasare spre zona verde de la marginea orașului.",
+            "en": "Drive to the green outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanctuario di Santa Maria di Gallarate",
+            "hu": "Gallaratei kegytemplom",
+            "ro": "Sanctuarul din Gallarate",
+            "en": "Sanctuary of Gallarate"
+          },
+          "coords": [
+            8.791,
+            45.664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss im nahen Gallarate.",
+            "hu": "Szép zárás a közeli Gallarate városában.",
+            "ro": "O încheiere frumoasă în orașul apropiat Gallarate.",
+            "en": "A nice conclusion in the nearby city of Gallarate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir die kulturellen Highlights von Busto Arsizio mit einem Ausflug ins Grüne und einem Abstecher ins benachbarte Gallarate. Wir nutzen die Flexibilität, um bequem zwischen den Museen zu wechseln und den Tag in der wunderschönen Basilika von Gallarate ausklingen zu lassen.",
+        "hu": "Autóval kényelmesen összekötjük Busto Arsizio kulturális látnivalóit egy zöldövezeti kirándulással és a szomszédos Gallarate felfedezésével. Kihasználjuk a rugalmasságot a múzeumok közötti váltáshoz, a napot pedig a gyönyörű gallaratei bazilikánál zárjuk.",
+        "ro": "Cu mașina conectăm atracțiile culturale din Busto Arsizio cu o excursie în natură și o vizită în orașul vecin, Gallarate. Profităm de flexibilitate pentru a ne deplasa comod între muzee și încheiem ziua la frumoasa basilică din Gallarate.",
+        "en": "By car, we combine the cultural highlights of Busto Arsizio with a trip to the greenery and a detour to nearby Gallarate. We use the flexibility to move easily between museums and end the day at the beautiful basilica in Gallarate."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante I 5 Campanili",
+            "tip": "Gehobene Küche in einem historischen Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante I 5 Campanili",
+            "tip": "Elegáns étterem egy patinás épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante I 5 Campanili",
+            "tip": "Bucătărie rafinată într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante I 5 Campanili",
+            "tip": "Fine dining in a historic building."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale Rimembranze",
+            "tip": "Eine ruhige, von Bäumen gesäumte Allee.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Rimembranze",
+            "tip": "Csendes, fákkal szegélyezett sétány.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Rimembranze",
+            "tip": "O alee liniștită mărginită de copaci.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Rimembranze",
+            "tip": "A quiet, tree-lined avenue.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Malpensa UNO",
+            "tip": "Große Auswahl an Marken in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malpensa UNO bevásárlóközpont",
+            "tip": "Nagy márkaválaszték a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Malpensa UNO",
+            "tip": "O gamă largă de branduri în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Malpensa UNO Shopping Center",
+            "tip": "Wide selection of brands nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Hauptverkehrszeiten auf der SS33.",
+          "Parken im blauen Bereich ist gebührenpflichtig."
+        ],
+        "hu": [
+          "Kerüld a csúcsforgalmat az SS33-as úton.",
+          "A kék zónás parkolás díjköteles."
+        ],
+        "ro": [
+          "Evitați orele de vârf pe drumul SS33.",
+          "Parcarea în zona albastră este cu plată."
+        ],
+        "en": [
+          "Avoid rush hour on the SS33 road.",
+          "Blue zone parking requires payment."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Busto Arsizio FS",
+            "hu": "Busto Arsizio FS vasútállomás",
+            "ro": "Gara Busto Arsizio FS",
+            "en": "Busto Arsizio FS Station"
+          },
+          "coords": [
+            8.8595,
+            45.6065
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit Busanschlüssen.",
+            "hu": "Központi érkezési pont buszcsatlakozásokkal.",
+            "ro": "Punct central de sosire cu legături de autobuz.",
+            "en": "Central arrival point with bus connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilmuseum",
+            "hu": "Textilmúzeum",
+            "ro": "Muzeul Textilelor",
+            "en": "Textile Museum"
+          },
+          "coords": [
+            8.8585,
+            45.6075
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bahnhof entfernt.",
+            "hu": "Csak pár perc séta az állomástól.",
+            "ro": "La doar câteva minute de mers pe jos de gară.",
+            "en": "Just a few minutes walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Giovanni (via Bus)",
+            "hu": "San Giovanni bazilika (busszal)",
+            "ro": "Basilica di San Giovanni",
+            "en": "Basilica of San Giovanni"
+          },
+          "coords": [
+            8.8521,
+            45.6121
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die lokale Buslinie ins Zentrum.",
+            "hu": "Használd a helyi buszjáratot a központba.",
+            "ro": "Utilizați linia locală de autobuz spre centru.",
+            "en": "Use the local bus line to reach the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria di Piazza",
+            "hu": "Santa Maria di Piazza",
+            "ro": "Santa Maria di Piazza",
+            "en": "Santa Maria di Piazza"
+          },
+          "coords": [
+            8.8502,
+            45.6115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Basilika.",
+            "hu": "Nagyon közel a bazilikához.",
+            "ro": "Foarte aproape de basilică.",
+            "en": "Very close to the Basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Cicogna",
+            "hu": "Palazzo Cicogna",
+            "ro": "Palazzo Cicogna",
+            "en": "Palazzo Cicogna"
+          },
+          "coords": [
+            8.8552,
+            45.6101
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Altstadt.",
+            "hu": "Kellemes séta az óvároson keresztül.",
+            "ro": "O plimbare plăcută prin centrul vechi.",
+            "en": "A pleasant walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ottolini-Tosi",
+            "hu": "Villa Ottolini-Tosi",
+            "ro": "Villa Ottolini-Tosi",
+            "en": "Villa Ottolini-Tosi"
+          },
+          "coords": [
+            8.8475,
+            45.6125
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gut mit dem Bus erreichbar.",
+            "hu": "Busszal jól megközelíthető.",
+            "ro": "Ușor accesibil cu autobuzul.",
+            "en": "Easily accessible by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Zugverbindung von Mailand ist Busto Arsizio ideal mit öffentlichen Verkehrsmitteln erreichbar. Wir starten direkt am Bahnhof mit dem Textilmuseum und nutzen die Stadtbusse, um die wichtigsten Kirchen und Paläste im Zentrum zu besuchen, bevor wir die elegante Villa Ottolini-Tosi bewundern.",
+        "hu": "A Milánóból induló kiváló vonatkapcsolatnak köszönhetően Busto Arsizio ideálisan megközelíthető tömegközlekedéssel. Közvetlenül az állomásnál kezdünk a Textilmúzeumban, majd helyi buszokkal járjuk be a belváros templomait és palotáit, végül megcsodáljuk az elegáns Villa Ottolini-Tosi-t.",
+        "ro": "Datorită legăturilor excelente de tren din Milano, Busto Arsizio este ușor accesibil cu transportul public. Începem chiar de la gară cu Muzeul Textilelor și folosim autobuzele locale pentru a vizita bisericile și palatele principale din centru, înainte de a admira eleganta Villa Ottolini-Tosi.",
+        "en": "Thanks to excellent train connections from Milan, Busto Arsizio is ideally accessible by public transport. We start right at the station with the Textile Museum and use local buses to visit the main churches and palaces in the center, before admiring the elegant Villa Ottolini-Tosi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar della Stazione",
+            "tip": "Schneller Espresso vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar della Stazione",
+            "tip": "Gyors eszpresszó indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar della Stazione",
+            "tip": "Un espresso rapid înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar della Stazione",
+            "tip": "Quick espresso before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza San Giovanni",
+            "tip": "Beobachten Sie das Treiben bei einem Gelato.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza San Giovanni",
+            "tip": "Figyeld a várost egy fagylalt mellől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza San Giovanni",
+            "tip": "Observați agitația orașului cu o înghețată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza San Giovanni",
+            "tip": "Watch the world go by with a gelato.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Immer donnerstags und samstags am Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtökön és szombaton délelőtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare joi și sâmbătă dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Thursday and Saturday morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Voraus in Tabakläden.",
+          "Der Bahnhof Busto Nord bedient andere Ziele als FS."
+        ],
+        "hu": [
+          "Vegyél jegyet előre a dohányboltokban (Tabacchi).",
+          "A Busto Nord állomás más irányokba indít vonatokat, mint az FS."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcurile de ziare.",
+          "Gara Busto Nord deservește alte destinații decât FS."
+        ],
+        "en": [
+          "Buy tickets in advance at tobacco shops (Tabacchi).",
+          "Busto Nord station serves different destinations than FS."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1050 @@
+{
+  "city_id": "kaiserslautern-extra",
+  "anchor": {
+    "name": "Kaiserslautern City Center",
+    "coords": [
+      7.769,
+      49.4447
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaiserbrunnen",
+          "coords": [
+            7.7711,
+            49.4452
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie die kleinen Details und Tiere im Brunnen, die die Stadtgeschichte erzählen.",
+            "hu": "Keresd meg a kis részleteket és állatokat a kúton, amelyek a város történetét mesélik el.",
+            "ro": "Căutați micile detalii și animale de pe fântână care spun istoria orașului.",
+            "en": "Look for the small details and animals on the fountain that tell the city's history."
+          }
+        },
+        {
+          "name": "Stiftskirche",
+          "coords": [
+            7.7704,
+            49.4443
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die älteste Hallenkirche der Pfalz mit beeindruckender gotischer Architektur.",
+            "hu": "Pfalz legrégebbi csarnoktemploma, lenyűgöző gótikus építészettel.",
+            "ro": "Cea mai veche biserică de tip hală din Palatinat, cu o arhitectură gotică impresionantă.",
+            "en": "The oldest hall church in the Palatinate with impressive Gothic architecture."
+          }
+        },
+        {
+          "name": "Fruchthalle",
+          "coords": [
+            7.769,
+            49.4465
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein prächtiges Renaissance-Gebäude, das heute als Konzerthalle dient.",
+            "hu": "Pompás reneszánsz épület, amely ma koncertteremként szolgál.",
+            "ro": "O clădire renascentistă magnifică care servește astăzi ca sală de concerte.",
+            "en": "A magnificent Renaissance building that serves as a concert hall today."
+          }
+        },
+        {
+          "name": "Casimirschloss",
+          "coords": [
+            7.7682,
+            49.4475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die unterirdischen Gänge der ehemaligen Kaiserpfalz.",
+            "hu": "Látogasd meg az egykori császári palota földalatti járatait.",
+            "ro": "Vizitați pasajele subterane ale fostului palat imperial.",
+            "en": "Visit the underground passages of the former imperial palace."
+          }
+        },
+        {
+          "name": "Museum Pfalzgalerie",
+          "coords": [
+            7.7655,
+            49.4492
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Hervorragende Sammlung moderner Kunst in einem neobarocken Gebäude.",
+            "hu": "Kiváló modern művészeti gyűjtemény egy neobarokk épületben.",
+            "ro": "O colecție excelentă de artă modernă într-o clădire neobarocă.",
+            "en": "Excellent collection of modern art in a neo-baroque building."
+          }
+        },
+        {
+          "name": "Japanischer Garten",
+          "coords": [
+            7.7628,
+            49.4504
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Einer der größten japanischen Gärten Europas mit Teehaus und Wasserfällen.",
+            "hu": "Európa egyik legnagyobb japánkertje teaházzal és vízesésekkel.",
+            "ro": "Una dintre cele mai mari grădini japoneze din Europa, cu o ceainărie și cascade.",
+            "en": "One of the largest Japanese gardens in Europe with a tea house and waterfalls."
+          }
+        },
+        {
+          "name": "Gartenschau Kaiserslautern",
+          "coords": [
+            7.7595,
+            49.4485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Berühmt für die Dinosaurier-Ausstellung und die wechselnden Blumenschauen.",
+            "hu": "Híres a dinoszaurusz-kiállításáról és a változó virágbemutatóiról.",
+            "ro": "Renumită pentru expoziția de dinozauri și spectacolele florale schimbătoare.",
+            "en": "Famous for its dinosaur exhibition and changing flower shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt am kunstvollen Kaiserbrunnen, bevor Sie die ehrwürdige Stiftskirche besuchen. Nach einem Blick auf die Renaissance-Architektur der Fruchthalle erkunden Sie die historischen Reste des Casimirschlosses. Mittags erwartet Sie hochkarätige Kunst in der Pfalzgalerie. Den Nachmittag verbringen Sie entspannt im fernöstlichen Flair des Japanischen Gartens und beenden die Tour zwischen farbenfrohen Blumen und Dinosauriern in der Gartenschau.",
+        "hu": "Kezdje a napot az óváros szívében, a művészi Kaiserbrunnen-nél, mielőtt meglátogatná a tiszteletreméltó Stiftskirche-t. A Fruchthalle reneszánsz építészetének megtekintése után fedezze fel a Casimirschloss történelmi maradványait. Délben kiváló művészeti alkotások várják a Pfalzgalerie-ben. A délutánt töltse lazítással a Japánkert távol-keleti hangulatában, majd zárja a túrát a színes virágok és dinoszauruszok között a Gartenschau területén.",
+        "ro": "Începeți ziua în inima centrului vechi, la fântâna artistică Kaiserbrunnen, înainte de a vizita venerabila Stiftskirche. După o privire asupra arhitecturii renascentiste a Fruchthalle, explorați resturile istorice ale Casimirschloss. La prânz, vă așteaptă artă de înaltă calitate la Pfalzgalerie. Petreceți după-amiaza relaxându-vă în atmosfera orientală a Grădinii Japoneze și încheiați turul printre flori colorate și dinozauri la Gartenschau.",
+        "en": "Start your day in the heart of the old town at the artistic Kaiserbrunnen fountain before visiting the venerable Stiftskirche. After a look at the Renaissance architecture of the Fruchthalle, explore the historical remains of Casimirschloss. At noon, high-quality art awaits you at the Pfalzgalerie. Spend the afternoon relaxing in the Far Eastern flair of the Japanese Garden and finish the tour among colorful flowers and dinosaurs at the Gartenschau."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spinnrädl",
+            "tip": "Das älteste Fachwerkhaus der Stadt mit traditioneller Pfälzer Küche."
+          },
+          {
+            "name": "Brauhaus am Markt",
+            "tip": "Hausgebrautes Bier und deftige regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spinnrädl",
+            "tip": "A város legrégebbi favázas háza, hagyományos pfalzi konyhával."
+          },
+          {
+            "name": "Brauhaus am Markt",
+            "tip": "Helyben főzött sör és bőséges regionális specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spinnrädl",
+            "tip": "Cea mai veche casă cu structură din lemn din oraș, cu bucătărie tradițională palatină."
+          },
+          {
+            "name": "Brauhaus am Markt",
+            "tip": "Bere artizanală locală și specialități regionale consistente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spinnrädl",
+            "tip": "The oldest half-timbered house in town with traditional Palatinate cuisine."
+          },
+          {
+            "name": "Brauhaus am Markt",
+            "tip": "Home-brewed beer and hearty regional specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten",
+            "tip": "Perfekter Ort für Meditation am Zen-Garten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedenskapelle",
+            "tip": "Ein ruhiger Rückzugsort im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert",
+            "tip": "Tökéletes hely a meditációra a Zen-kertnél.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedenskapelle",
+            "tip": "Csendes menedék a zöldben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză",
+            "tip": "Locul perfect pentru meditație la grădina Zen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedenskapelle",
+            "tip": "Un refugiu liniștit în mijlocul naturii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden",
+            "tip": "Perfect place for meditation at the Zen garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedenskapelle",
+            "tip": "A quiet retreat in the greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt auf dem Stiftsplatz",
+            "tip": "Regionale Produkte und lokale Atmosphäre (Dienstag und Samstag)."
+          },
+          {
+            "name": "K-In Lautern",
+            "tip": "Modernes Einkaufszentrum im Stadtkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wochenmarkt a Stiftsplatzon",
+            "tip": "Regionális termékek és helyi hangulat (kedd és szombat)."
+          },
+          {
+            "name": "K-In Lautern",
+            "tip": "Modern bevásárlóközpont a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Stiftsplatz",
+            "tip": "Produse regionale și atmosferă locală (marți și sâmbătă)."
+          },
+          {
+            "name": "K-In Lautern",
+            "tip": "Centru comercial modern în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market at Stiftsplatz",
+            "tip": "Regional products and local atmosphere (Tuesday and Saturday)."
+          },
+          {
+            "name": "K-In Lautern",
+            "tip": "Modern shopping mall in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und gut zu Fuß erkundbar.",
+          "Nutzen Sie die Kombi-Karte für Japanischen Garten und Gartenschau.",
+          "Besuchen Sie das Casimirschloss nur mit einer geführten Tour für die Gänge.",
+          "Planen Sie für die Gartenschau ausreichend Zeit ein, wenn Sie Kinder dabei haben."
+        ],
+        "hu": [
+          "A belváros kompakt és gyalogosan is jól bejárható.",
+          "Használja a Japánkert és a Gartenschau kombinált jegyét.",
+          "A Casimirschloss földalatti járatait csak vezetett túrával látogathatja.",
+          "Tervezzen elegendő időt a Gartenschau-ra, ha gyerekekkel van."
+        ],
+        "ro": [
+          "Centrul orașului este compact și ușor de explorat pe jos.",
+          "Utilizați biletul combinat pentru Grădina Japoneză și Gartenschau.",
+          "Vizitați Casimirschloss doar cu un tur ghidat pentru galerii.",
+          "Alocați suficient timp pentru Gartenschau dacă sunteți cu copii."
+        ],
+        "en": [
+          "The city center is compact and easy to explore on foot.",
+          "Use the combo ticket for the Japanese Garden and Gartenschau.",
+          "Visit the Casimirschloss only with a guided tour for the tunnels.",
+          "Plan enough time for the Gartenschau if you are with children."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stiftskirche",
+          "coords": [
+            7.7704,
+            49.4443
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt mit schöner gotischer Fassade.",
+            "hu": "Központi találkozóhely gyönyörű gótikus homlokzattal.",
+            "ro": "Punct de întâlnire central cu o frumoasă fațadă gotică.",
+            "en": "Central meeting point with a beautiful Gothic facade."
+          }
+        },
+        {
+          "name": "Japanischer Garten",
+          "coords": [
+            7.7628,
+            49.4504
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich direkt am Haupteingang.",
+            "hu": "Kerékpártárolók közvetlenül a főbejáratnál találhatók.",
+            "ro": "Suporturile pentru biciclete se află direct la intrarea principală.",
+            "en": "Bicycle racks are located directly at the main entrance."
+          }
+        },
+        {
+          "name": "Gartenschau Kaiserslautern",
+          "coords": [
+            7.7595,
+            49.4485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Großes Gelände, ideal um zwischendurch eine Pause einzulegen.",
+            "hu": "Hatalmas terület, ideális egy kis pihenőhöz.",
+            "ro": "Zonă mare, ideală pentru a lua o pauză între vizite.",
+            "en": "Large grounds, ideal for taking a break in between."
+          }
+        },
+        {
+          "name": "Humbergturm",
+          "coords": [
+            7.7765,
+            49.4182
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Anspruchsvolle Auffahrt durch den Pfälzerwald – die Aussicht lohnt sich!",
+            "hu": "Kihívást jelentő emelkedő a pfalzi erdőn keresztül – a kilátás megéri!",
+            "ro": "Urcare solicitantă prin pădurea Palatinatului – priveliștea merită efortul!",
+            "en": "Challenging climb through the Palatinate Forest – the view is worth it!"
+          }
+        },
+        {
+          "name": "Museum Pfalzgalerie",
+          "coords": [
+            7.7655,
+            49.4492
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kunstgenuss nach der sportlichen Waldtour.",
+            "hu": "Művészeti élvezet az erdei sporttúra után.",
+            "ro": "Bucurați-vă de artă după tura sportivă prin pădure.",
+            "en": "Enjoy art after the sporty forest tour."
+          }
+        },
+        {
+          "name": "Kaiserbrunnen",
+          "coords": [
+            7.7711,
+            49.4452
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss im Stadtzentrum.",
+            "hu": "Tökéletes befejezés a városközpontban.",
+            "ro": "Finalul perfect în centrul orașului.",
+            "en": "Perfect conclusion in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kaiserslautern aktiv mit dem Rad. Nach dem Start an der Stiftskirche radeln Sie zu den Parkanlagen im Norden. Das Highlight ist die Fahrt durch den Pfälzerwald hinauf zum Humbergturm, von wo aus Sie einen Panoramablick über die Stadt genießen. Über das Kunstmuseum Pfalzgalerie kehren Sie zurück zum Kaiserbrunnen in die Altstadt.",
+        "hu": "Fedezze fel Kaiserslauternt aktívan kerékpárral. A Stiftskirche-től való indulás után tekerjen az északi parkokhoz. A túra csúcspontja a pfalzi erdőn át vezető út a Humbergturm-hoz, ahonnan panorámás kilátás nyílik a városra. A Pfalzgalerie művészeti múzeum érintésével térjen vissza az óvárosi Kaiserbrunnen-hez.",
+        "ro": "Explorați Kaiserslautern în mod activ cu bicicleta. După startul de la Stiftskirche, pedalați spre parcurile din nord. Punctul culminant este drumul prin pădurea Palatinatului până la Humbergturm, de unde vă puteți bucura de o vedere panoramică asupra orașului. Prin muzeul de artă Pfalzgalerie, reveniți la Kaiserbrunnen în centrul vechi.",
+        "en": "Explore Kaiserslautern actively by bike. After starting at the Stiftskirche, cycle to the parks in the north. The highlight is the ride through the Palatinate Forest up to the Humbergturm, from where you can enjoy a panoramic view over the city. Return to the Kaiserbrunnen in the old town via the Pfalzgalerie art museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bremerhof",
+            "tip": "Idyllischer Biergarten im Wald, idealer Stopp auf dem Weg zum Turm."
+          },
+          {
+            "name": "Eiscafe Rialto",
+            "tip": "Beste Belohnung nach dem Radeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bremerhof",
+            "tip": "Idilli sörkert az erdőben, ideális megálló a torony felé vezető úton."
+          },
+          {
+            "name": "Eiscafe Rialto",
+            "tip": "A legjobb jutalom a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bremerhof",
+            "tip": "Grădină de bere idilică în pădure, oprire ideală în drum spre turn."
+          },
+          {
+            "name": "Eiscafe Rialto",
+            "tip": "Cea mai bună recompensă după pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bremerhof",
+            "tip": "Idyllic beer garden in the forest, ideal stop on the way to the tower."
+          },
+          {
+            "name": "Eiscafe Rialto",
+            "tip": "Best reward after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wildpark Betzenberg",
+            "tip": "Ruhige Waldwege zum Radeln.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wildpark Betzenberg",
+            "tip": "Csendes erdei utak a kerékpározáshoz.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wildpark Betzenberg",
+            "tip": "Trasee forestiere liniștite pentru ciclism.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildpark Betzenberg",
+            "tip": "Quiet forest paths for cycling.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radhaus",
+            "tip": "Falls Sie Zubehör oder Reparaturen benötigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radhaus",
+            "tip": "Ha kiegészítőre vagy javításra van szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radhaus",
+            "tip": "În caz că aveți nevoie de accesorii sau reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radhaus",
+            "tip": "In case you need accessories or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Tour zum Humbergturm erfordert gute Kondition.",
+          "Im Stadtgebiet gibt es viele Einbahnstraßen, achten Sie auf Radfreigaben.",
+          "Schließen Sie Ihr Rad an den Eingängen der Gärten immer sicher ab."
+        ],
+        "hu": [
+          "A Humbergturm túra jó kondíciót igényel.",
+          "A város területén sok az egyirányú utca, figyeljen a kerékpáros jelzésekre.",
+          "Mindig zárja le biztonságosan a kerékpárját a kertek bejáratánál."
+        ],
+        "ro": [
+          "Turul spre Humbergturm necesită o condiție fizică bună.",
+          "În zona orașului sunt multe străzi cu sens unic, atenție la semnele pentru biciclete.",
+          "Încuiați întotdeauna bicicleta în siguranță la intrările grădinilor."
+        ],
+        "en": [
+          "The tour to Humbergturm requires good physical condition.",
+          "In the city area there are many one-way streets, look for bicycle permissions.",
+          "Always lock your bike securely at the garden entrances."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kaiserbrunnen",
+          "coords": [
+            7.7711,
+            49.4452
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Stiftsplatz.",
+            "hu": "Parkoljon a Stiftsplatz melletti parkolóházban.",
+            "ro": "Parcați în parcarea de la Stiftsplatz.",
+            "en": "Park in the parking garage at Stiftsplatz."
+          }
+        },
+        {
+          "name": "Stiftskirche",
+          "coords": [
+            7.7704,
+            49.4443
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Brunnen.",
+            "hu": "Rövid séta a kúttól.",
+            "ro": "Scurtă plimbare de la fântână.",
+            "en": "Short walk from the fountain."
+          }
+        },
+        {
+          "name": "Fruchthalle",
+          "coords": [
+            7.769,
+            49.4465
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentraler kultureller Hotspot.",
+            "hu": "Központi kulturális csomópont.",
+            "ro": "Punct cultural central.",
+            "en": "Central cultural hotspot."
+          }
+        },
+        {
+          "name": "Japanischer Garten",
+          "coords": [
+            7.7628,
+            49.4504
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz direkt vor dem Garten.",
+            "hu": "Használja a közvetlenül a kert előtti parkolót.",
+            "ro": "Utilizați parcarea direct în fața grădinii.",
+            "en": "Use the parking lot directly in front of the garden."
+          }
+        },
+        {
+          "name": "Gartenschau Kaiserslautern",
+          "coords": [
+            7.7595,
+            49.4485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Innerhalb desselben Clusters wie der Japanische Garten.",
+            "hu": "Ugyanabban a klaszterben van, mint a Japánkert.",
+            "ro": "În același cluster cu Grădina Japoneză.",
+            "en": "Within the same cluster as the Japanese Garden."
+          }
+        },
+        {
+          "name": "Humbergturm",
+          "coords": [
+            7.7765,
+            49.4182
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Wanderparkplatz am Bremerhof.",
+            "hu": "Hajtson a Bremerhof melletti kirándulóparkolóhoz.",
+            "ro": "Conduceți până la parcarea pentru drumeții de la Bremerhof.",
+            "en": "Drive to the hiking parking lot at Bremerhof."
+          }
+        },
+        {
+          "name": "Casimirschloss",
+          "coords": [
+            7.7682,
+            49.4475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für die historische Pfalz.",
+            "hu": "Vissza a központba a történelmi Pfalzért.",
+            "ro": "Înapoi în centru pentru Palatinatul istoric.",
+            "en": "Back in the center for the historical Palatinate."
+          }
+        },
+        {
+          "name": "Museum Pfalzgalerie",
+          "coords": [
+            7.7655,
+            49.4492
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschluss mit moderner Kunst.",
+            "hu": "Zárás modern művészettel.",
+            "ro": "Final cu artă modernă.",
+            "en": "Finish with modern art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Highlights der Stadt. Vormittags erkunden Sie die Altstadt rund um den Stiftsplatz. Danach fahren Sie zum Park-Cluster im Nordwesten (Japanischer Garten & Gartenschau). Am frühen Nachmittag führt die Fahrt in den Pfälzerwald zum Humbergturm für eine tolle Aussicht, bevor Sie den Tag kulturell im Museum Pfalzgalerie ausklingen lassen.",
+        "hu": "Autóval kényelmesen elérheti a város különböző látnivalóit. Délelőtt fedezze fel az óvárost a Stiftsplatz környékén. Ezután hajtson az északnyugati park-klaszterhez (Japánkert és Gartenschau). Kora délután az út a pfalzi erdőbe vezet a Humbergturm-hoz a nagyszerű kilátásért, majd zárja a napot kulturálisan a Pfalzgalerie múzeumban.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele puncte de atracție ale orașului. Dimineața explorați centrul vechi în jurul Stiftsplatz. Apoi conduceți spre clusterul de parcuri din nord-vest (Grădina Japoneză și Gartenschau). La începutul după-amiezii, drumul vă duce în pădurea Palatinatului la Humbergturm pentru o priveliște minunată, înainte de a încheia ziua cultural la muzeul Pfalzgalerie.",
+        "en": "By car, you can comfortably reach the various highlights of the city. In the morning, explore the old town around Stiftsplatz. Then drive to the park cluster in the northwest (Japanese Garden & Gartenschau). In the early afternoon, the drive leads into the Palatinate Forest to the Humbergturm for a great view before ending the day culturally at the Pfalzgalerie museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Bremerhof",
+            "tip": "Perfekt für Autofahrer mit eigenem großen Parkplatz im Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Bremerhof",
+            "tip": "Tökéletes autósoknak, saját nagy parkolóval az erdőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Bremerhof",
+            "tip": "Perfect pentru șoferi, cu parcare proprie mare în pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Bremerhof",
+            "tip": "Perfect for car drivers with its own large parking lot in the forest."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Humbergturm",
+            "tip": "Blick über das weite Grün.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Humbergturm",
+            "tip": "Kilátás a tágas zöldre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Humbergturm",
+            "tip": "Vedere asupra verdelui infinit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Humbergturm",
+            "tip": "View over the vast greenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "K-In Lautern",
+            "tip": "Verfügt über ein großes Parkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "K-In Lautern",
+            "tip": "Nagy parkolóházzal rendelkezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "K-In Lautern",
+            "tip": "Dispune de o parcare mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "K-In Lautern",
+            "tip": "Has a large parking garage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Beachten Sie die Parkgebühren im Zentrum.",
+          "Die Fahrt zum Humbergturm endet auf einem Waldparkplatz, danach sind es ca. 15-20 Min. Fußweg bergauf.",
+          "In der Innenstadt ist das Einbahnstraßensystem teils kompliziert."
+        ],
+        "hu": [
+          "Ügyeljen a belvárosi parkolási díjakra.",
+          "A Humbergturm felé vezető út egy erdei parkolóban ér véget, utána kb. 15-20 perc séta felfelé.",
+          "A belvárosban az egyirányú utcák rendszere néha bonyolult."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare în centru.",
+          "Drumul spre Humbergturm se termină într-o parcare forestieră, după care urmează aprox. 15-20 min. de mers pe jos la deal.",
+          "În centrul orașului, sistemul de străzi cu sens unic este parțial complicat."
+        ],
+        "en": [
+          "Watch out for parking fees in the center.",
+          "The drive to Humbergturm ends at a forest parking lot, followed by a approx. 15-20 min. uphill walk.",
+          "The one-way street system in the city center can be complicated."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stiftskirche",
+          "coords": [
+            7.7704,
+            49.4443
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Stadtmitte' ganz in der Nähe.",
+            "hu": "Központi 'Stadtmitte' megálló a közelben.",
+            "ro": "Stația centrală 'Stadtmitte' este foarte aproape.",
+            "en": "Central station 'Stadtmitte' is very close by."
+          }
+        },
+        {
+          "name": "Fruchthalle",
+          "coords": [
+            7.769,
+            49.4465
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Stiftsplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A Stiftsplatztól könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la Stiftsplatz.",
+            "en": "Easily accessible on foot from Stiftsplatz."
+          }
+        },
+        {
+          "name": "Museum Pfalzgalerie",
+          "coords": [
+            7.7655,
+            49.4492
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus zur Haltestelle 'Pfalzgalerie'.",
+            "hu": "Használja a buszt a 'Pfalzgalerie' megállóig.",
+            "ro": "Utilizați autobuzul până la stația 'Pfalzgalerie'.",
+            "en": "Use the bus to the 'Pfalzgalerie' stop."
+          }
+        },
+        {
+          "name": "Japanischer Garten",
+          "coords": [
+            7.7628,
+            49.4504
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Museum.",
+            "hu": "Csak egy rövid séta a múzeumtól.",
+            "ro": "La doar o scurtă plimbare de muzeu.",
+            "en": "Just a short walk from the museum."
+          }
+        },
+        {
+          "name": "Gartenschau Kaiserslautern",
+          "coords": [
+            7.7595,
+            49.4485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Vom Japanischen Garten zum Eingang Lauterstraße.",
+            "hu": "A Japánkerttől a Lauterstraße bejáratig.",
+            "ro": "De la Grădina Japoneză la intrarea din Lauterstraße.",
+            "en": "From the Japanese Garden to the Lauterstraße entrance."
+          }
+        },
+        {
+          "name": "Kaiserbrunnen",
+          "coords": [
+            7.7711,
+            49.4452
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Zurück in die Stadtmitte mit dem Bus.",
+            "hu": "Vissza a városközpontba busszal.",
+            "ro": "Înapoi în centrul orașului cu autobuzul.",
+            "en": "Back to the city center by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Kaiserslautern (VRN). Starten Sie in der Stadtmitte bei der Stiftskirche und der Fruchthalle. Mit einer kurzen Busfahrt erreichen Sie das Kultur-Cluster Pfalzgalerie und Japanischer Garten. Von dort gelangen Sie bequem zur Gartenschau, bevor Sie mit dem Bus zurück zum Kaiserbrunnen in die Altstadt fahren.",
+        "hu": "Használja ki Kaiserslautern sűrű buszhálózatát (VRN). Kezdjen a városközpontban a Stiftskirche-nél és a Fruchthalle-nál. Egy rövid buszozással elérheti a Pfalzgalerie és a Japánkert kulturális klaszterét. Onnan kényelmesen eljuthat a Gartenschau-hoz, majd busszal térjen vissza az óvárosi Kaiserbrunnen-hez.",
+        "ro": "Profitați de rețeaua densă de autobuze din Kaiserslautern (VRN). Începeți în centrul orașului la Stiftskirche și Fruchthalle. Cu o scurtă călătorie cu autobuzul ajungeți la clusterul cultural Pfalzgalerie și Grădina Japoneză. De acolo ajungeți ușor la Gartenschau, înainte de a reveni cu autobuzul la Kaiserbrunnen în centrul vechi.",
+        "en": "Take advantage of Kaiserslautern's dense bus network (VRN). Start in the city center at the Stiftskirche and Fruchthalle. A short bus ride takes you to the Pfalzgalerie and Japanese Garden cultural cluster. From there, you can easily reach the Gartenschau before taking the bus back to the Kaiserbrunnen in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hannenfass",
+            "tip": "Uriges Lokal am Stiftsplatz, sehr gut mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hannenfass",
+            "tip": "Eredeti hely a Stiftsplatzon, busszal kiválóan megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hannenfass",
+            "tip": "Local tradițional în Stiftsplatz, foarte ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hannenfass",
+            "tip": "Rustic pub at Stiftsplatz, very easy to reach by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Japanischer Garten",
+            "tip": "Ruheoase inmitten der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japánkert",
+            "tip": "Béke szigete a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză",
+            "tip": "Oază de liniște în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden",
+            "tip": "Oasis of calm in the middle of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Individuelle Läden in den Gassen rund um die Stiftskirche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Egyedi üzletek a Stiftskirche körüli utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri din centrul vechi",
+            "tip": "Magazine individuale în străduțele din jurul Stiftskirche."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Individual shops in the alleys around the Stiftskirche."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine VRN-Tageskarte für die Kernzone Kaiserslautern.",
+          "Die Haltestelle 'Stadtmitte' ist der zentrale Umsteigepunkt für fast alle Linien.",
+          "Die Busse fahren unter der Woche sehr regelmäßig, am Wochenende seltener."
+        ],
+        "hu": [
+          "Vásároljon VRN napijegyet Kaiserslautern központi zónájára.",
+          "A 'Stadtmitte' megálló a központi átszállási pont szinte minden vonalhoz.",
+          "A buszok hétköznap nagyon rendszeresen járnak, hétvégén ritkábban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi VRN pentru zona centrală a Kaiserslautern.",
+          "Stația 'Stadtmitte' este punctul central de transfer pentru aproape toate liniile.",
+          "Autobuzele circulă foarte regulat în timpul săptămânii, mai rar în weekend."
+        ],
+        "en": [
+          "Buy a VRN day ticket for the core zone of Kaiserslautern.",
+          "The 'Stadtmitte' stop is the central transfer point for almost all lines.",
+          "Buses run very regularly during the week, less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

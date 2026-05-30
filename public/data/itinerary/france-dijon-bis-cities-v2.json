@@ -1,0 +1,1104 @@
+{
+  "city_id": "france-dijon-bis-cities-v2",
+  "anchor": {
+    "name": "Dijon-Centre",
+    "coords": [
+      5.03,
+      47.32
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Guillaume",
+            "hu": "Porte Guillaume (Diadalív)",
+            "ro": "Porte Guillaume",
+            "en": "Porte Guillaume"
+          },
+          "coords": [
+            5.0331,
+            47.3235
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das Tor zum historischen Zentrum, erbaut im 18. Jahrhundert.",
+            "hu": "A 18. századi diadalív, amely a történelmi belváros kapuja.",
+            "ro": "Poarta de intrare în centrul istoric, construită în secolul XVIII.",
+            "en": "The 18th-century triumphal arch, the gateway to the old city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Bénigne",
+            "hu": "Saint-Bénigne katedrális",
+            "ro": "Catedrala Saint-Bénigne",
+            "en": "Saint-Bénigne Cathedral"
+          },
+          "coords": [
+            5.0348,
+            47.3216
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta aus dem 11. Jahrhundert.",
+            "hu": "Nézd meg a 11. századi román stílusú kriptát.",
+            "ro": "Vizitați cripta din secolul al XI-lea.",
+            "en": "Be sure to visit the 11th-century Romanesque crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            5.0415,
+            47.3228
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Streicheln Sie die Eule an der Fassade für Glück.",
+            "hu": "Simogasd meg a templom falán lévő baglyot a szerencséért.",
+            "ro": "Atingeți bufnița de pe fațadă pentru noroc.",
+            "en": "Stroke the owl on the facade with your left hand for luck."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Libération & Lunch",
+            "hu": "Place de la Libération és ebéd",
+            "ro": "Place de la Libération și prânz",
+            "en": "Place de la Libération & Lunch"
+          },
+          "coords": [
+            5.0418,
+            47.3214
+          ],
+          "category": "squares",
+          "arrive_at": "12:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Herzogspalast beim Essen.",
+            "hu": "Ebédelj a város legszebb terén, a palotával szemben.",
+            "ro": "Savurați prânzul în cea mai frumoasă piață a orașului.",
+            "en": "Enjoy lunch in the most beautiful square of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Herzogspalast von Burgund",
+            "hu": "Burgundiai hercegi palota",
+            "ro": "Palatul Ducilor de Burgundia",
+            "en": "Palace of the Dukes of Burgundy"
+          },
+          "coords": [
+            5.0422,
+            47.3218
+          ],
+          "category": "castles",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Tour Philippe le Bon für Panorama.",
+            "hu": "Mássz fel a Philippe le Bon toronyba a kilátásért.",
+            "ro": "Urcați în turnul Philippe le Bon pentru panoramă.",
+            "en": "Climb the Philippe le Bon tower for a great panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            5.0428,
+            47.3219
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eines der ältesten Museen Frankreichs im Palastflügel.",
+            "hu": "Franciaország egyik legrégebbi múzeuma a palota szárnyában.",
+            "ro": "Unul dintre cele mai vechi muzee din Franța.",
+            "en": "One of France's oldest museums, located inside the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Sciences",
+            "hu": "Füvészkert (Jardin des Sciences)",
+            "ro": "Grădina Botanică",
+            "en": "Science Garden & Botanical Garden"
+          },
+          "coords": [
+            5.0285,
+            47.3215
+          ],
+          "category": "parks",
+          "arrive_at": "17:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein friedlicher botanischer Garten für den Tagesabschluss.",
+            "hu": "Békés botanikus kert a nap tökéletes lezárásához.",
+            "ro": "O grădină botanică liniștită pentru sfârșitul zilei.",
+            "en": "A peaceful botanical garden to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Porte Guillaume, dem prächtigen Eingang zur Altstadt. Nach dem Besuch der imposanten Kathedrale schlendern Sie zur Notre-Dame, um die berühmte Glückseule zu finden. Mittags lockt die Place de la Libération mit burgundischen Spezialitäten. Nachmittags tauchen Sie in die Geschichte der Herzöge ein und bewundern Kunst im Palast, bevor Sie im Botanischen Garten entspannen.",
+        "hu": "A napot a Porte Guillaume diadalívnél kezdjük, majd a katedrális méltóságteljes belső terét csodáljuk meg. A Notre-Dame templomnál ne felejtse el megsimogatni a szerencsehozó baglyot! Az ebédet a Place de la Libération teraszain költjük el, majd a Burgundiai hercegek egykori palotájában és múzeumában kalandozunk. A napot a Jardin des Sciences egzotikus növényei között zárjuk.",
+        "ro": "Începeți ziua la Porte Guillaume, poarta de intrare în inima Dijonului. După vizitarea catedralei, mergeți la Biserica Notre-Dame pentru a găsi faimoasa bufniță norocoasă. Prânzul în Place de la Libération este o experiență culinară de neuitat. După-amiaza este dedicată Palatului Ducilor și Muzeului de Arte Frumoase, iar seara se încheie cu o plimbare relaxantă în Grădina Botanică.",
+        "en": "Start your day at Porte Guillaume, the grand entrance to the old town. After visiting the majestic Cathedral, head to Notre-Dame Church to find the lucky owl carved into the stone. Enjoy a traditional Burgundian lunch at Place de la Libération. Spend your afternoon exploring the Palace of the Dukes and the Fine Arts Museum, ending with a peaceful stroll through the Jardin des Sciences botanical garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boeuf Bourguignon",
+            "tip": "Der Klassiker aus Dijon in Rotwein geschmort."
+          },
+          {
+            "name": "Moutarde de Dijon",
+            "tip": "Probieren Sie frischen Senf bei Maille oder Fallot."
+          },
+          {
+            "name": "Pain d'épices",
+            "tip": "Traditioneller Honigkuchen von Mulot & Petitjean."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgundi marha",
+            "tip": "Vörösborban párolt marhahús, a régió büszkesége."
+          },
+          {
+            "name": "Dijoni mustár",
+            "tip": "Kóstolj friss mustárt a Maille vagy az Edmond Fallot üzletben."
+          },
+          {
+            "name": "Mézeskalács",
+            "tip": "Hagyományos 'Pain d'épices' a Mulot & Petitjean-tól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boeuf Bourguignon",
+            "tip": "Vită gătită lent în vin roșu, specifică regiunii."
+          },
+          {
+            "name": "Muștar de Dijon",
+            "tip": "Degustați muștar proaspăt la buticurile Maille sau Fallot."
+          },
+          {
+            "name": "Pain d'épices",
+            "tip": "Turtă dulce tradițională de la Mulot & Petitjean."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beef Bourguignon",
+            "tip": "The iconic local stew slow-cooked in red wine."
+          },
+          {
+            "name": "Dijon Mustard",
+            "tip": "Sample fresh mustard at the Maille or Edmond Fallot boutiques."
+          },
+          {
+            "name": "Gingerbread",
+            "tip": "Traditional 'Pain d'épices' from Mulot & Petitjean."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Sciences",
+            "tip": "Botanischer Garten mit Planetarium.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Square des Ducs",
+            "tip": "Ruhiger Park hinter dem Herzogspalast.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Sciences",
+            "tip": "Botanikus kert és planetárium a nyugalom szigete.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Square des Ducs",
+            "tip": "Csendes kis park közvetlenül a palota mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Sciences",
+            "tip": "Grădină botanică liniștită lângă gară.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Square des Ducs",
+            "tip": "Un scuar liniștit în spatele palatului ducal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Sciences",
+            "tip": "A peaceful botanical garden and planetarium.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Square des Ducs",
+            "tip": "Quiet square right behind the Ducal Palace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique Maille",
+            "tip": "Exklusiver Senf direkt vom Fass."
+          },
+          {
+            "name": "Mulot & Petitjean",
+            "tip": "Historischer Laden für feinsten Honigkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique Maille",
+            "tip": "Exkluzív mustárok közvetlenül a csapból."
+          },
+          {
+            "name": "Mulot & Petitjean",
+            "tip": "Történelmi bolt a legjobb mézeskalácsokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Maille",
+            "tip": "Muștar exclusivist servit direct din pompă."
+          },
+          {
+            "name": "Mulot & Petitjean",
+            "tip": "Magazin istoric pentru turtă dulce artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique Maille",
+            "tip": "Exclusive mustards served directly from the pump."
+          },
+          {
+            "name": "Mulot & Petitjean",
+            "tip": "Historic shop for the best local gingerbread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Folgen Sie den Messing-Eulen auf dem Boden, um die Stadt zu erkunden.",
+          "Die meisten Museen in Dijon sind für die ständige Sammlung kostenlos.",
+          "Reservieren Sie für den Tour Philippe le Bon im Voraus.",
+          "Probieren Sie einen Kir (Cassis mit Weißwein) als Aperitif."
+        ],
+        "hu": [
+          "Kövesse a réz bagoly-szimbólumokat a járdán a városnézéshez.",
+          "Dijon legtöbb múzeuma ingyenesen látogatható az állandó tárlatokra.",
+          "A Philippe le Bon toronyba érdemes előre jegyet foglalni.",
+          "Kóstoljon meg egy Kir koktélt (cassis likőr és fehérbor) aperitífként."
+        ],
+        "ro": [
+          "Urmați simbolurile cu bufnițe din alamă de pe trotuar pentru a vizita orașul.",
+          "Majoritatea muzeelor din Dijon au intrare gratuită la expozițiile permanente.",
+          "Rezervați din timp biletele pentru Turnul Philippe le Bon.",
+          "Încercați un Kir (lichior de coacăze negre cu vin alb) ca aperitiv."
+        ],
+        "en": [
+          "Follow the brass owl plaques on the sidewalk to see the main sights.",
+          "Most museums in Dijon are free for their permanent collections.",
+          "Book your tickets for the Philippe le Bon tower in advance.",
+          "Try a Kir (cassis liqueur and white wine) as a local aperitif."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin des Sciences",
+            "hu": "Jardin des Sciences",
+            "ro": "Grădina Botanică",
+            "en": "Science Garden"
+          },
+          "coords": [
+            5.0285,
+            47.3215
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie ruhig im Park.",
+            "hu": "Indítsa a napot a park nyugalmában.",
+            "ro": "Începeți ziua în liniștea parcului.",
+            "en": "Start your day in the quiet park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Bénigne",
+            "hu": "Saint-Bénigne katedrális",
+            "ro": "Catedrala Saint-Bénigne",
+            "en": "Saint-Bénigne Cathedral"
+          },
+          "coords": [
+            5.0348,
+            47.3216
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Ritt zur Kathedrale.",
+            "hu": "Rövid tekerés a katedrálisig.",
+            "ro": "O scurtă plimbare până la catedrală.",
+            "en": "A short ride to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Guillaume",
+            "hu": "Porte Guillaume",
+            "ro": "Porte Guillaume",
+            "en": "Porte Guillaume"
+          },
+          "coords": [
+            5.0331,
+            47.3235
+          ],
+          "category": "monuments",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historisches Stadttor.",
+            "hu": "Történelmi városkapu.",
+            "ro": "Poarta istorică a orașului.",
+            "en": "Historic city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Libération & Lunch",
+            "hu": "Ebéd a Place de la Libération-ön",
+            "ro": "Prânz în Place de la Libération",
+            "en": "Lunch at Place de la Libération"
+          },
+          "coords": [
+            5.0418,
+            47.3214
+          ],
+          "category": "squares",
+          "arrive_at": "12:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze am Rand.",
+            "hu": "Kerékpártárolók a tér szélén.",
+            "ro": "Parcare pentru biciclete la marginea pieței.",
+            "en": "Bike racks available at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Vie Bourguignonne",
+            "hu": "Burgundiai Élet Múzeuma",
+            "ro": "Muzeul Vieții Burgundiene",
+            "en": "Museum of Burgundian Life"
+          },
+          "coords": [
+            5.0345,
+            47.3175
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einblicke in lokale Traditionen.",
+            "hu": "Betekintés a helyi népi hagyományokba.",
+            "ro": "O incursiune în tradițiile locale.",
+            "en": "Insights into local traditions and folk art."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Ducs",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            5.0422,
+            47.3218
+          ],
+          "category": "castles",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Herz der Stadt.",
+            "hu": "A város szíve.",
+            "ro": "Inima orașului.",
+            "en": "The heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Dijon auf zwei Rädern! Starten Sie im grünen Jardin des Sciences und radeln Sie zur Kathedrale. Nach dem Mittagessen auf dem Prachtplatz besuchen Sie das Museum für burgundisches Leben, bevor Sie den Herzogspalast erreichen.",
+        "hu": "Fedezze fel Dijont két keréken! Kezdjen a Jardin des Sciences parkban, majd tekerjen a katedrálishoz. Ebéd után látogassa meg a néprajzi múzeumot, végül érkezzen meg a monumentális hercegi palotához.",
+        "ro": "Explorați Dijon pe două roți! Începeți în Grădina Botanică, apoi pedalați spre catedrală. După prânz, vizitați Muzeul Vieții Burgundiene, terminând turul la Palatul Ducal.",
+        "en": "Explore Dijon on two wheels! Start in the green Science Garden, cycle to the Cathedral, and after lunch, visit the folk museum before reaching the majestic Ducal Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassis-Sorbet",
+            "tip": "Erfrischend nach dem Radeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cassis szörbet",
+            "tip": "Frissítő a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sorbet de coacăze",
+            "tip": "Răcoritor după plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cassis Sorbet",
+            "tip": "Refreshing after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ouche-Ufer",
+            "tip": "Schöner Radweg am Fluss.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ouche partja",
+            "tip": "Szép kerékpárút a folyó mentén.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ouche",
+            "tip": "Pistă de biciclete frumoasă de-a lungul râului.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ouche Riverside",
+            "tip": "Beautiful bike path along the river.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Lokale Produkte kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok (Halles)",
+            "tip": "Helyi termékek beszerzése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală (Halles)",
+            "tip": "Cumpărați produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Market",
+            "tip": "Buy local fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Vélodi' Fahrradverleihsystem.",
+          "Die Altstadt ist größtenteils fahrradfreundlich."
+        ],
+        "hu": [
+          "Használja a 'Vélodi' kerékpármegosztót.",
+          "A belváros nagy része kerékpárosbarát."
+        ],
+        "ro": [
+          "Folosiți sistemul de închiriat biciclete 'Vélodi'.",
+          "Centrul vechi este în mare parte prietenos cu bicicliștii."
+        ],
+        "en": [
+          "Use the 'Vélodi' bike-sharing system.",
+          "Most of the old town is bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin des Sciences (Cluster A)",
+            "hu": "Jardin des Sciences (A csoport)",
+            "ro": "Grădina Botanică (Cluster A)",
+            "en": "Science Garden (Cluster A)"
+          },
+          "coords": [
+            5.0285,
+            47.3215
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken am Bahnhof.",
+            "hu": "Parkolás a vasútállomás közelében.",
+            "ro": "Parcare lângă gară.",
+            "en": "Park near the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Bénigne",
+            "hu": "Saint-Bénigne katedrális",
+            "ro": "Catedrala Saint-Bénigne",
+            "en": "Saint-Bénigne Cathedral"
+          },
+          "coords": [
+            5.0348,
+            47.3216
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Park erreichbar.",
+            "hu": "Gyalog a parktól.",
+            "ro": "Accesibil pe jos din parc.",
+            "en": "Walkable from the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Ducs (Cluster B)",
+            "hu": "Hercegi palota (B csoport)",
+            "ro": "Palatul Ducal (Cluster B)",
+            "en": "Ducal Palace (Cluster B)"
+          },
+          "coords": [
+            5.0422,
+            47.3218
+          ],
+          "category": "castles",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken im 'Parking Darcy' oder 'Grangier'.",
+            "hu": "Parkolás a Darcy vagy Grangier mélygarázsban.",
+            "ro": "Parcare la Darcy sau Grangier.",
+            "en": "Park at Parking Darcy or Grangier."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Libération & Lunch",
+            "hu": "Place de la Libération és ebéd",
+            "ro": "Place de la Libération și prânz",
+            "en": "Place de la Libération & Lunch"
+          },
+          "coords": [
+            5.0418,
+            47.3214
+          ],
+          "category": "squares",
+          "arrive_at": "13:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ganz nah am Palast.",
+            "hu": "Közvetlenül a palota mellett.",
+            "ro": "Chiar lângă palat.",
+            "en": "Right next to the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            5.0428,
+            47.3219
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im gleichen Komplex.",
+            "hu": "Ugyanabban az épületben.",
+            "ro": "În același complex.",
+            "en": "In the same complex."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dijon mit dem Auto erkunden bedeutet, strategisch zu parken. Besuchen Sie zuerst das Cluster am Bahnhof mit dem Botanischen Garten und der Kathedrale. Danach fahren Sie zum Zentrum für den Herzogspalast und ein gemütliches Mittagessen.",
+        "hu": "Autóval Dijonban a stratégiai parkolás a kulcs. Kezdjen az állomás melletti parknál és katedrálisnál, majd parkoljon le a belvárosban a hercegi palota és a Szépművészeti Múzeum felfedezéséhez.",
+        "ro": "Explorarea Dijonului cu mașina necesită parcare strategică. Vizitați mai întâi zona gării cu Grădina Botanică și Catedrala, apoi parcați în centru pentru Palatul Ducal și un prânz relaxat.",
+        "en": "Exploring Dijon by car means strategic parking. First, visit the cluster near the station (Garden and Cathedral), then drive to the city center for the Ducal Palace and a leisurely lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Epoisses Käse",
+            "tip": "Starker lokaler Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Epoisses sajt",
+            "tip": "Erős ízű helyi sajt különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Epoisses",
+            "tip": "Brânză locală cu aromă puternică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Epoisses Cheese",
+            "tip": "Strong local cheese specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac Kir",
+            "tip": "Ein See am Stadtrand (kurze Fahrt).",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac Kir",
+            "tip": "Tó a város szélén (rövid autóút).",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Kir",
+            "tip": "Lac la marginea orașului.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Kir",
+            "tip": "A lake on the outskirts (short drive).",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Toison d'Or",
+            "tip": "Großes Einkaufszentrum im Norden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toison d'Or",
+            "tip": "Nagy bevásárlóközpont északon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Toison d'Or",
+            "tip": "Centru comercial mare în nord."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toison d'Or",
+            "tip": "Large shopping mall in the north."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride (P+R) Parkplätze.",
+          "Das Zentrum ist oft für Autos gesperrt."
+        ],
+        "hu": [
+          "Használja a P+R parkolókat.",
+          "A belváros nagy része sétálóutca."
+        ],
+        "ro": [
+          "Folosiți parcările P+R.",
+          "Centrul vechi este în mare parte pietonal."
+        ],
+        "en": [
+          "Use P+R parking lots.",
+          "The historical center is mostly pedestrianized."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin des Sciences",
+            "hu": "Jardin des Sciences",
+            "ro": "Grădina Botanică",
+            "en": "Science Garden"
+          },
+          "coords": [
+            5.0285,
+            47.3215
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkt bei der Tramhaltestelle Gare.",
+            "hu": "Közvetlenül a Gare villamosmegállónál.",
+            "ro": "Lângă stația de tramvai Gare.",
+            "en": "Right by the Gare tram stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Bénigne",
+            "hu": "Saint-Bénigne katedrális",
+            "ro": "Catedrala Saint-Bénigne",
+            "en": "Saint-Bénigne Cathedral"
+          },
+          "coords": [
+            5.0348,
+            47.3216
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang.",
+            "hu": "Rövid séta.",
+            "ro": "Scurtă plimbare.",
+            "en": "Short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Guillaume",
+            "hu": "Porte Guillaume",
+            "ro": "Porte Guillaume",
+            "en": "Porte Guillaume"
+          },
+          "coords": [
+            5.0331,
+            47.3235
+          ],
+          "category": "monuments",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Haltestelle Darcy (Tram T1/T2).",
+            "hu": "Darcy villamosmegálló (T1/T2).",
+            "ro": "Stația de tramvai Darcy.",
+            "en": "Darcy tram stop (T1/T2 lines)."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Libération & Lunch",
+            "hu": "Place de la Libération és ebéd",
+            "ro": "Place de la Libération și prânz",
+            "en": "Place de la Libération & Lunch"
+          },
+          "coords": [
+            5.0418,
+            47.3214
+          ],
+          "category": "squares",
+          "arrive_at": "12:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Platz.",
+            "hu": "Központi tér.",
+            "ro": "Piața centrală.",
+            "en": "Central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Ducs",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            5.0422,
+            47.3218
+          ],
+          "category": "castles",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            5.0428,
+            47.3219
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im Palastgebäude.",
+            "hu": "A palota épületében.",
+            "ro": "În clădirea palatului.",
+            "en": "Inside the palace building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dijon lässt sich wunderbar mit der Tram (Divia) erkunden. Starten Sie am Bahnhof und nutzen Sie die Tramlinien T1 oder T2, um zwischen den historischen Vierteln zu pendeln. Die meisten Sehenswürdigkeiten im Zentrum liegen jedoch nah beieinander.",
+        "hu": "Dijon kiválóan felfedezhető villamossal (Divia). Kezdjen a vasútállomásnál, majd a T1 vagy T2 vonalakkal közlekedjen a történelmi negyedek között. A központban a legtöbb látnivaló gyalog is kényelmesen elérhető.",
+        "ro": "Dijonul poate fi explorat excelent cu tramvaiul (Divia). Începeți de la gară și folosiți liniile T1 sau T2 pentru a pendula între cartierele istorice. Majoritatea obiectivelor din centru sunt apropiate.",
+        "en": "Dijon is easily explored by tram (Divia). Start at the main station and use the T1 or T2 lines to shuttle between historic districts. Once in the center, most sights are within walking distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gougères",
+            "tip": "Herzhaftes Brandteiggebäck mit Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gougères",
+            "tip": "Sajtos égetett tészta, remek snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gougères",
+            "tip": "Gogoșele sărate cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gougères",
+            "tip": "Savory choux pastry with cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square Darcy",
+            "tip": "Schöner Park am Eingang zum Zentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square Darcy",
+            "tip": "Szép park a belváros kapujában.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square Darcy",
+            "tip": "Parc frumos la intrarea în centru.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square Darcy",
+            "tip": "Beautiful park at the entrance of the center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "Die Haupteinkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "A fő bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "Principala stradă comercială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "The main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die Tram.",
+          "Die Tram fährt sehr häufig."
+        ],
+        "hu": [
+          "Vegyen napijegyet a villamosra.",
+          "A villamosok nagyon sűrűn járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru tramvai.",
+          "Tramvaiele circulă foarte des."
+        ],
+        "en": [
+          "Buy a day pass for the tram system.",
+          "Trams run very frequently."
+        ]
+      }
+    }
+  }
+}

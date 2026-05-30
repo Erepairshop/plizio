@@ -1,0 +1,1151 @@
+{
+  "city_id": "italy-teramo-cities-v2",
+  "anchor": {
+    "name": "Teramo",
+    "coords": [
+      13.7042,
+      42.6589
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 2.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Teramo (Duomo)",
+            "hu": "Teramói dóm",
+            "ro": "Catedrala din Teramo",
+            "en": "Cathedral of Teramo"
+          },
+          "coords": [
+            13.7032,
+            42.6588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das Antependium von Nicola da Guardiagrele.",
+            "hu": "Nézzék meg Nicola da Guardiagrele híres oltárelőjét.",
+            "ro": "Admirați celebrul antependium realizat de Nicola da Guardiagrele.",
+            "en": "Admire the famous antependium by Nicola da Guardiagrele."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            13.7045,
+            42.6595
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hervorragende römische Mosaike sind hier ausgestellt.",
+            "hu": "Kiváló római mozaikok láthatók a kiállításon.",
+            "ro": "Mozaicuri romane superbe sunt expuse aici.",
+            "en": "Superb Roman mosaics are on display here."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.7038,
+            42.6582
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Ruinen stammen aus der Zeit von Kaiser Augustus.",
+            "hu": "A romok Augustus császár idejéből származnak.",
+            "ro": "Ruinele datează din timpul împăratului Augustus.",
+            "en": "The ruins date back to the era of Emperor Augustus."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Melatino",
+            "hu": "Palazzo Melatino",
+            "ro": "Palazzo Melatino",
+            "en": "Palazzo Melatino"
+          },
+          "coords": [
+            13.7055,
+            42.6592
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für mittelalterliche Adelspaläste.",
+            "hu": "A középkori nemesi paloták szép példája.",
+            "ro": "Un exemplu frumos de palat nobiliar medieval.",
+            "en": "A beautiful example of a medieval noble palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            13.704,
+            42.6585
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Maccheroni alla chitarra teramana.",
+            "hu": "Kóstolja meg a Maccheroni alla chitarra teramana-t.",
+            "ro": "Gustați Maccheroni alla chitarra teramana.",
+            "en": "Try the Maccheroni alla chitarra teramana."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Monica",
+            "hu": "Castello della Monica",
+            "ro": "Castelul della Monica",
+            "en": "Castello della Monica"
+          },
+          "coords": [
+            13.6985,
+            42.661
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein eklektisches Schloss, erbaut von einem lokalen Künstler.",
+            "hu": "Egy helyi művész által épített eklektikus kastély.",
+            "ro": "Un castel eclectic construit de un artist local.",
+            "en": "An eclectic castle built by a local artist."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Getulio",
+            "hu": "San Getulio templom",
+            "ro": "Biserica San Getulio",
+            "en": "Church of San Getulio"
+          },
+          "coords": [
+            13.7028,
+            42.6585
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:20",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erbaut auf den Ruinen eines römischen Tempels.",
+            "hu": "Egy római templom romjaira épült.",
+            "ro": "Construită pe ruinele unui templu roman.",
+            "en": "Built on the ruins of a Roman temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Fluviale",
+            "hu": "Folyóparti park",
+            "ro": "Parcul Fluvial",
+            "en": "River Park"
+          },
+          "coords": [
+            13.701,
+            42.663
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für einen Spaziergang im Grünen am Abend.",
+            "hu": "Ideális egy esti sétához a zöldben.",
+            "ro": "Ideal pentru o plimbare de seară în natură.",
+            "en": "Ideal for an evening stroll in the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am beeindruckenden Dom von Teramo, gefolgt von archäologischen Entdeckungen im Museo Civico. Mittags erkunden wir die römischen Ruinen und genießen lokale Pasta-Spezialitäten in der Altstadt. Am Nachmittag bewundern wir den Palazzo Melatino und das märchenhafte Castello della Monica. Der Tag endet entspannt mit einem Spaziergang im grünen Parco Fluviale am Flussufer.",
+        "hu": "A reggelt a teramói dómban kezdjük, majd a közeli régészeti múzeumban merülünk el a város ókori múltjában. Délben a római színház romjaihoz látogatunk, és megkóstoljuk a híres helyi tésztát. Délután a Palazzo Melatino eleganciáját és a különleges Castello della Monica várkastélyt csodáljuk meg. A napot a folyóparti parkban, a Parco Fluviale-ban tett pihentető séta zárja.",
+        "ro": "Dimineața începe la Domul din Teramo, urmat de o vizită la Muzeul de Arheologie pentru a descoperi rădăcinile romane ale orașului. La prânz explorăm teatrul antic și savurăm pastele tradiționale locale. După-amiaza este dedicată palatului Melatino și castelului eclectic della Monica. Seara se încheie relaxant cu o plimbare în Parcul Fluvial, o oază de liniște pe malul râului.",
+        "en": "Morning begins at the stunning Duomo of Teramo, followed by archaeological discoveries at the Civic Museum. At midday, we explore Roman ruins and enjoy local pasta specialties in the old town. In the afternoon, we admire Palazzo Melatino and the fairy-tale Castello della Monica. The day ends with a relaxing stroll through the green River Park along the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Duomo",
+            "tip": "Probieren Sie die mazzarelle (Lamm-Innereien-Röllchen)."
+          },
+          {
+            "name": "Pasticceria San Giorgio",
+            "tip": "Hausgemachte italienische Dolci zum Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Duomo",
+            "tip": "Kóstolja meg a mazzarelle-t, a helyi bárányspecialitást."
+          },
+          {
+            "name": "Pasticceria San Giorgio",
+            "tip": "Házi készítésű olasz sütemények az eszpresszó mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Duomo",
+            "tip": "Încercați mazzarelle, rulouri tradiționale din organe de miel."
+          },
+          {
+            "name": "Pasticceria San Giorgio",
+            "tip": "Dulciuri italiene de casă servite lângă un espresso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Duomo",
+            "tip": "Try the mazzarelle, traditional lamb offal rolls."
+          },
+          {
+            "name": "Pasticceria San Giorgio",
+            "tip": "Homemade Italian sweets served with espresso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Fluviale",
+            "tip": "Ruhiger Spaziergang am Fluss Vezzola.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Comunale",
+            "tip": "Ein schattiger Park mit üppigem Grün.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti park",
+            "tip": "Csendes séta a Vezzola-folyó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Comunale",
+            "tip": "Árnyas park buja növényzettel.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Fluvial",
+            "tip": "O plimbare liniștită pe malul râului Vezzola.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Comunale",
+            "tip": "Un parc umbros cu vegetație bogată.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Park",
+            "tip": "A quiet stroll along the Vezzola river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Villa Comunale",
+            "tip": "A shaded park with lush greenery.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso San Giorgio",
+            "tip": "Die Haupteinkaufsstraße mit lokalen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso San Giorgio",
+            "tip": "A fő bevásárlóutca helyi butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso San Giorgio",
+            "tip": "Principala stradă comercială cu buticuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso San Giorgio",
+            "tip": "The main shopping street with local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie den Dom am Vormittag, wenn das Licht am schönsten ist.",
+          "Mittagspause ist in Teramo heilig, viele Geschäfte schließen von 13 bis 16 Uhr."
+        ],
+        "hu": [
+          "A történelmi központ kompakt, legjobb gyalogosan felfedezni.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A dómot délelőtt látogassa meg, ekkor a legszebbek a fények.",
+          "A déli pihenőidő Teramóban szent, sok üzlet zárva tart 13 és 16 óra között."
+        ],
+        "ro": [
+          "Centrul istoric este compact și cel mai bine este explorat la pas.",
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Vizitați Domul dimineața, când lumina este cea mai potrivită.",
+          "Siesta de la prânz este respectată, multe magazine închid între 13 și 16."
+        ],
+        "en": [
+          "The historic center is compact and best explored on foot.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the Cathedral in the morning when the light is best.",
+          "Midday break is sacred in Teramo; many shops close from 1 PM to 4 PM."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo di Teramo",
+            "hu": "Teramói dóm",
+            "ro": "Domul din Teramo",
+            "en": "Teramo Cathedral"
+          },
+          "coords": [
+            13.7032,
+            42.6588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt für Radfahrer.",
+            "hu": "Központi kiindulópont kerékpárosoknak.",
+            "ro": "Punct central de plecare pentru bicicliști.",
+            "en": "Central starting point for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Monica",
+            "hu": "Castello della Monica",
+            "ro": "Castelul della Monica",
+            "en": "Castello della Monica"
+          },
+          "coords": [
+            13.6985,
+            42.661
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Anstieg, aber tolle Aussicht.",
+            "hu": "Rövid emelkedő, de remek kilátás.",
+            "ro": "Urcare scurtă, dar priveliște excelentă.",
+            "en": "Short climb, but great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            13.7045,
+            42.6595
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang.",
+            "hu": "Parkolja le biztonságosan a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen / Corso",
+            "hu": "Ebéd a Corso-n",
+            "ro": "Prânz pe Corso",
+            "en": "Lunch on the Corso"
+          },
+          "coords": [
+            13.705,
+            42.6585
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele schattige Plätze für eine Pause.",
+            "hu": "Sok árnyékos hely egy pihenőhöz.",
+            "ro": "Multe locuri umbrite pentru o pauză.",
+            "en": "Many shaded spots for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.7038,
+            42.6582
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt im Stadtzentrum gelegen.",
+            "hu": "Közvetlenül a városközpontban található.",
+            "ro": "Situat chiar în centrul orașului.",
+            "en": "Located right in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Romano",
+            "hu": "Római Amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            13.705,
+            42.658
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Teilweise in moderne Gebäude integriert.",
+            "hu": "Részben modern épületekbe integrálva.",
+            "ro": "Integrat parțial în clădiri moderne.",
+            "en": "Partially integrated into modern buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Fluviale",
+            "hu": "Folyóparti park",
+            "ro": "Parcul Fluvial",
+            "en": "River Park"
+          },
+          "coords": [
+            13.701,
+            42.663
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekte Radwege am Fluss entlang.",
+            "hu": "Tökéletes kerékpárutak a folyó mentén.",
+            "ro": "Piste de biciclete perfecte de-a lungul râului.",
+            "en": "Perfect bike paths along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir Teramo dynamisch: vom historischen Dom radeln wir zum höher gelegenen Castello della Monica. Nach dem Museumsbesuch genießen wir ein Mittagessen am Corso. Die römischen Ruinen liegen direkt am Weg, bevor wir die Tour auf den hervorragenden Radwegen des Parco Fluviale ausklingen lassen.",
+        "hu": "Kerékpárral dinamikusan fedezzük fel Teramót: a dóm után feltekerünk a Castello della Monica kastélyhoz. A múzeumlátogatás után a Corso mentén ebédelünk. A római emlékek érintésével végül a Parco Fluviale kiváló bicikliútjain tekerünk a naplementében.",
+        "ro": "Cu bicicleta explorăm Teramo în mod dinamic: de la dom pedalăm spre Castelul della Monica. După muzeu, luăm prânzul pe Corso. Vestigiile romane sunt chiar în drumul nostru spre finalul relaxant pe pistele de biciclete din Parcul Fluvial.",
+        "en": "Explore Teramo dynamically by bike: cycle from the Cathedral to the elevated Castello della Monica. After the museum, enjoy lunch along the Corso. Pass by the Roman ruins before finishing the tour on the excellent bike paths of the River Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bio-Café",
+            "tip": "Erfrischende Säfte für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bio-Café",
+            "tip": "Frissítőlevek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bio-Café",
+            "tip": "Sucuri revigorante pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bio-Café",
+            "tip": "Refreshing juices for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vezzola-Ufer",
+            "tip": "Grüne Ruheoase.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vezzola-part",
+            "tip": "Zöld oázis.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Vezzola",
+            "tip": "Oază de liniște.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vezzola bank",
+            "tip": "Green oasis.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cicli Petrucci",
+            "tip": "Lokaler Fahrradladen für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cicli Petrucci",
+            "tip": "Helyi kerékpárbolt kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cicli Petrucci",
+            "tip": "Magazin local de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cicli Petrucci",
+            "tip": "Local bike shop for gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege im Parco Fluviale.",
+          "Vorsicht in den engen Gassen der Altstadt."
+        ],
+        "hu": [
+          "Használja a Parco Fluviale kerékpárútjait.",
+          "Vigyázzon a szűk óvárosi utcákban."
+        ],
+        "ro": [
+          "Folosiți pistele din Parcul Fluvial.",
+          "Atenție pe străzile înguste din centrul vechi."
+        ],
+        "en": [
+          "Use the bike paths in River Park.",
+          "Be careful in the narrow streets of the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale (Cluster Zentrum)",
+            "hu": "Dóm (Belvárosi klaszter)",
+            "ro": "Catedrala (Cluster Centru)",
+            "en": "Cathedral (Center Cluster)"
+          },
+          "coords": [
+            13.7032,
+            42.6588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Parcheggio San Francesco'.",
+            "hu": "Parkoljon a 'Parcheggio San Francesco' parkolóban.",
+            "ro": "Parcați la 'Parcheggio San Francesco'.",
+            "en": "Park at 'Parcheggio San Francesco'."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.7038,
+            42.6582
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Dom erreichbar.",
+            "hu": "Gyalogosan elérhető a dómtól.",
+            "ro": "Accesibil pe jos de la catedrală.",
+            "en": "Accessible on foot from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Melatino",
+            "hu": "Palazzo Melatino",
+            "ro": "Palazzo Melatino",
+            "en": "Palazzo Melatino"
+          },
+          "coords": [
+            13.7055,
+            42.6592
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Letzter Stop im Stadt-Cluster.",
+            "hu": "Utolsó állomás a városi klaszterben.",
+            "ro": "Ultima oprire din clusterul central.",
+            "en": "Last stop in the city cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Monica",
+            "hu": "Castello della Monica",
+            "ro": "Castelul della Monica",
+            "en": "Castello della Monica"
+          },
+          "coords": [
+            13.6985,
+            42.661
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Schloss vorhanden.",
+            "hu": "Parkoló közvetlenül a kastélynál.",
+            "ro": "Parcare disponibilă chiar la castel.",
+            "en": "Parking available right at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Hügel-Cluster)",
+            "hu": "Ebéd (Dombi klaszter)",
+            "ro": "Prânz (Cluster Dealuri)",
+            "en": "Lunch (Hill Cluster)"
+          },
+          "coords": [
+            13.68,
+            42.65
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Besuchen Sie ein Agriturismo in den Hügeln.",
+            "hu": "Látogasson el egy domboldali agriturismo-ba.",
+            "ro": "Vizitați un agriturismo pe dealuri.",
+            "en": "Visit an agriturismo in the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Fluviale",
+            "hu": "Folyóparti park",
+            "ro": "Parcul Fluvial",
+            "en": "River Park"
+          },
+          "coords": [
+            13.701,
+            42.663
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Eingang Nord.",
+            "hu": "Nagy parkoló az északi bejáratnál.",
+            "ro": "Parcare mare la intrarea de nord.",
+            "en": "Large parking at the North entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto parken wir zentral für das Stadt-Cluster (Dom, Theater, Palast). Danach fahren wir zum Castello della Monica und weiter in die Hügel für ein authentisches Agriturismo-Mittagessen. Der Nachmittag endet mit einem Naturstopp im Parco Fluviale, bevor es zurück geht.",
+        "hu": "Autóval a belvárosi klaszterben parkolunk (dóm, színház, palota). Ezután átgurulunk a Castello della Monica kastélyhoz, majd a közeli dombok közé egy autentikus agriturismo ebédre. A délutánt a folyóparti parkban zárjuk, kényelmesen elérve minden helyszínt.",
+        "ro": "Cu mașina parcăm central pentru clusterul urban (dom, teatru, palat). Apoi conducem spre Castelul della Monica și mai departe pe dealuri pentru un prânz autentic la agriturismo. După-amiaza se încheie cu o oprire în natură în Parcul Fluvial.",
+        "en": "By car, we park centrally for the city cluster (Cathedral, theater, palace). Then we drive to Castello della Monica and further into the hills for an authentic agriturismo lunch. The afternoon ends with a nature stop at the River Park before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo Villa",
+            "tip": "Lokale Weine und Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo Villa",
+            "tip": "Helyi borok és húsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo Villa",
+            "tip": "Vinuri locale și preparate din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo Villa",
+            "tip": "Local wines and meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Teramo",
+            "tip": "Panoramablick auf den Gran Sasso.",
+            "emoji": "🏔️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Teramói dombok",
+            "tip": "Panoráma a Gran Sassóra.",
+            "emoji": "🏔️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Teramo",
+            "tip": "Vedere panoramică spre Gran Sasso.",
+            "emoji": "🏔️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hills of Teramo",
+            "tip": "Panoramic view of Gran Sasso.",
+            "emoji": "🏔️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Kaufen Sie lokalen Montepulciano d'Abruzzo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Vásároljon helyi Montepulciano d'Abruzzo bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Cumpărați vin local Montepulciano d'Abruzzo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantina Sociale",
+            "tip": "Buy local Montepulciano d'Abruzzo wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der ZTL-Zonen.",
+          "Die Straßen im Umland sind kurvenreich aber schön."
+        ],
+        "hu": [
+          "Parkoljon a ZTL zónákon kívül.",
+          "A környékbeli utak kanyargósak, de szépek."
+        ],
+        "ro": [
+          "Parcați în afara zonelor ZTL.",
+          "Drumurile din împrejurimi sunt șerpuite, dar frumoase."
+        ],
+        "en": [
+          "Park outside the ZTL zones.",
+          "The surrounding roads are winding but scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Teramo",
+            "hu": "Teramo vasútállomás",
+            "ro": "Gara Teramo",
+            "en": "Teramo Station"
+          },
+          "coords": [
+            13.715,
+            42.66
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Züge aus Pescara.",
+            "hu": "Kiindulópont a Pescarából érkező vonatoknak.",
+            "ro": "Punct de plecare pentru trenurile din Pescara.",
+            "en": "Starting point for trains from Pescara."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Martiri (Zentrum)",
+            "hu": "Piazza Martiri (Központ)",
+            "ro": "Piazza Martiri (Centru)",
+            "en": "Piazza Martiri (Center)"
+          },
+          "coords": [
+            13.7032,
+            42.6588
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinien 1 oder 2 nehmen.",
+            "hu": "Használja az 1-es vagy 2-es buszvonalat.",
+            "ro": "Folosiți liniile de autobuz 1 sau 2.",
+            "en": "Take bus lines 1 or 2."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.7038,
+            42.6582
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hauptplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare de la piața principală.",
+            "en": "Short walk from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            13.7045,
+            42.6595
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mitten im historischen Zentrum.",
+            "hu": "A történelmi központ szívében.",
+            "ro": "Chiar în centrul istoric.",
+            "en": "Right in the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Monica",
+            "hu": "Castello della Monica",
+            "ro": "Castelul della Monica",
+            "en": "Castello della Monica"
+          },
+          "coords": [
+            13.6985,
+            42.661
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Haltestelle in der Nähe des Schlosses.",
+            "hu": "Megálló a kastély közelében.",
+            "ro": "Stație în apropierea castelului.",
+            "en": "Stop near the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Fluviale",
+            "hu": "Folyóparti park",
+            "ro": "Parcul Fluvial",
+            "en": "River Park"
+          },
+          "coords": [
+            13.701,
+            42.663
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Gute Anbindung an das Busnetz.",
+            "hu": "Jó összeköttetés a buszhálózattal.",
+            "ro": "Conexiune bună la rețeaua de autobuze.",
+            "en": "Good connection to the bus network."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof Teramo nehmen wir den Bus zum Stadtzentrum (Piazza Martiri). Wir besichtigen den Dom, das römische Theater und das Museum bequem zu Fuß. Danach bringt uns der Bus zum Castello della Monica und schließlich zum Parco Fluviale, bevor wir die Rückreise zum Bahnhof antreten.",
+        "hu": "A teramói vasútállomásról busszal megyünk a városközpontba (Piazza Martiri). Gyalogosan keressük fel a dómot, a római színházat és a múzeumot. Ezután busszal megyünk tovább a Castello della Monica kastélyhoz és a folyóparti parkhoz, majd visszatérünk az állomásra.",
+        "ro": "De la gara Teramo luăm autobuzul spre centrul orașului (Piazza Martiri). Vizităm domul, teatrul roman și muzeul pe jos. Ulterior, autobuzul ne duce la Castelul della Monica și la Parcul Fluvial, înainte de a ne întoarce la gară.",
+        "en": "From Teramo station, take the bus to the city center (Piazza Martiri). Visit the Cathedral, Roman Theater, and Museum on foot. Then, use the bus to reach Castello della Monica and the River Park before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baretto",
+            "tip": "Schneller Snack am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baretto",
+            "tip": "Gyors snack az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baretto",
+            "tip": "Gustare rapidă la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baretto",
+            "tip": "Quick snack at the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Warteraum Park",
+            "tip": "Grünflächen am Bahnhof.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási park",
+            "tip": "Zöldterület az állomásnál.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gării",
+            "tip": "Spații verzi lângă gară.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Park",
+            "tip": "Green areas at the station.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edicola Stazione",
+            "tip": "Zeitungen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Edicola Stazione",
+            "tip": "Újságok és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Edicola Stazione",
+            "tip": "Ziare și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Edicola Stazione",
+            "tip": "Newspapers and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab am Kiosk.",
+          "Die Busse fahren am Wochenende seltener."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre az újságosnál.",
+          "Hétvégén ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșc.",
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Buy bus tickets in advance at the kiosk.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

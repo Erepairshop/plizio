@@ -1,0 +1,1076 @@
+{
+  "city_id": "italy-colleferro-cities-v2",
+  "anchor": {
+    "name": "Colleferro",
+    "coords": [
+      13.003,
+      41.728
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Italia",
+            "hu": "Piazza Italia",
+            "ro": "Piazza Italia",
+            "en": "Piazza Italia"
+          },
+          "coords": [
+            13.002,
+            41.729
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rationale Architektur des frühen 20. Jahrhunderts.",
+            "hu": "Csodálja meg a 20. század eleji racionalista építészetet.",
+            "ro": "Admirați arhitectura raționalistă de la începutul secolului XX.",
+            "en": "Admire the early 20th-century rationalist architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Barbara",
+            "hu": "Szent Borbála-templom",
+            "ro": "Biserica Santa Barbara",
+            "en": "Santa Barbara Church"
+          },
+          "coords": [
+            13.001,
+            41.728
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Schutzpatronin der Bergleute und Chemiker wird hier besonders geehrt.",
+            "hu": "A bányászok védőszentjét tisztelik ebben az ipari múltú városban.",
+            "ro": "Sfânta patroană a minerilor este onorată în acest oraș industrial.",
+            "en": "The patron saint of miners is highly honored in this industrial city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunales Archäologisches Museum",
+            "hu": "Városi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Comunal",
+            "en": "Municipal Archaeological Museum"
+          },
+          "coords": [
+            13.005,
+            41.73
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorischen Funde aus dem Sacco-Tal.",
+            "hu": "Fedezze fel a Sacco-völgy őskori leleteit a múzeumban.",
+            "ro": "Descoperiți vestigiile preistorice din valea Sacco.",
+            "en": "Discover prehistoric finds from the Sacco Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftschutzbunker-Museum",
+            "hu": "Légvédelmi Óvóhely Múzeum",
+            "ro": "Muzeul Adăposturilor Antiaeriene",
+            "en": "Air Raid Shelter Museum"
+          },
+          "coords": [
+            13.004,
+            41.727
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein 6 km langes unterirdisches Labyrinth aus dem Zweiten Weltkrieg.",
+            "hu": "Egy 6 km hosszú föld alatti labirintus a második világháborúból.",
+            "ro": "Un labirint subteran de 6 km din al Doilea Război Mondial.",
+            "en": "A 6 km long underground labyrinth from WWII."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer der Arbeit",
+            "hu": "A munka áldozatainak emlékműve",
+            "ro": "Monumentul Victimelor Muncii",
+            "en": "Monument to the Victims of Labor"
+          },
+          "coords": [
+            13.003,
+            41.731
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein wichtiges Denkmal für die industrielle Identität der Stadt.",
+            "hu": "Fontos emlékmű, amely a város ipari identitását tükrözi.",
+            "ro": "Un monument important pentru identitatea industrială a orașului.",
+            "en": "A significant monument reflecting the city's industrial identity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die Piazza Italia und die Kirche Santa Barbara, die das industrielle Herz von Colleferro widerspiegeln. Mittags tauchen Sie im Archäologischen Museum in die ferne Vergangenheit ein. Nachmittags erleben Sie die beeindruckenden Luftschutzbunker unter der Stadt. Der Tag endet mit einem besinnlichen Moment am Denkmal für die Opfer der Arbeit, das die Geschichte der Region ehrt.",
+        "hu": "A reggelt a Piazza Italia és a Szent Borbála-templom felfedezésével töltjük, melyek a város ipari múltját idézik. Délben a Régészeti Múzeumban a környék őskori titkaival ismerkedhetünk meg. A délután csúcspontja a hatalmas föld alatti óvóhely-rendszer bejárása. A napot a munka áldozatainak emlékművénél zárjuk, tisztelegve a város alapítóinak áldozatvállalása előtt.",
+        "ro": "Dimineața este dedicată explorării Pieței Italia și a Bisericii Santa Barbara, simboluri ale identității industriale locale. La prânz, vizităm Muzeul Arheologic pentru a înțelege istoria antică a zonei. După-amiaza oferă o experiență unică în labirintul adăposturilor antiaeriene. Încheiem ziua la Monumentul Victimelor Muncii, un punct de reflecție asupra istoriei sociale a orașului.",
+        "en": "Start your morning at Piazza Italia and Santa Barbara Church, reflecting Colleferro's industrial roots. At midday, dive into the prehistoric past at the Archaeological Museum. The afternoon highlight is the immersive journey through the extensive WWII air raid shelters. Conclude your day at the Monument to the Victims of Labor, a poignant site honoring the city's workforce history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Probieren Sie diese lokale Pasta mit herzhaftem Ragù."
+          },
+          {
+            "name": "Cesanese del Piglio",
+            "tip": "Ein hervorragender Rotwein aus der nahen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Kóstolja meg a helyi tésztát gazdag húsos raguval."
+          },
+          {
+            "name": "Cesanese del Piglio",
+            "tip": "Kiváló vörösbor a szomszédos borvidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Încercați pastele locale cu ragu bogat de carne."
+          },
+          {
+            "name": "Cesanese del Piglio",
+            "tip": "Un vin roșu deosebit din regiunea vecină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Try this local pasta with a hearty meat ragù."
+          },
+          {
+            "name": "Cesanese del Piglio",
+            "tip": "An excellent red wine from the nearby region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ein ruhiger Ort für einen Spaziergang im Grünen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes zöldövezet egy pihentető sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "O zonă verde liniștită pentru o plimbare relaxantă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlosspark",
+            "tip": "A quiet green space for a relaxing stroll.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Lokale Produkte und Spezialitäten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek és specialitások közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale și specialități direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Local products and specialties direct from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie das Bunker-Museum nur mit Führung, buchen Sie vorab.",
+          "Die Piazza Italia ist am Abend besonders lebendig.",
+          "Bequeme Schuhe sind für die unterirdischen Gänge Pflicht.",
+          "Colleferro ist eine 'moderne' Stadt, achten Sie auf die rationalistischen Details."
+        ],
+        "hu": [
+          "Az óvóhely-múzeumba érdemes előre bejelentkezni vezetésre.",
+          "A Piazza Italia este a legélénkebb, igazi helyi találkozóhely.",
+          "Kényelmes cipő kötelező a föld alatti járatok felfedezéséhez.",
+          "Colleferro egy tervezett város, figyelje a korai 20. századi építészeti részleteket."
+        ],
+        "ro": [
+          "Vizitați muzeul buncărelor doar cu ghid, rezervați în avans.",
+          "Piazza Italia este foarte animată seara, locul ideal de socializare.",
+          "Încălțămintea comodă este obligatorie pentru tunelurile subterane.",
+          "Colleferro este un oraș plănuit; observați detaliile arhitecturale raționaliste."
+        ],
+        "en": [
+          "Visit the Bunker Museum only with a guide; book in advance.",
+          "Piazza Italia is most lively in the evening, perfect for people-watching.",
+          "Comfortable shoes are a must for exploring the underground tunnels.",
+          "Colleferro is a planned city; look out for early 20th-century architectural details."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Italia",
+            "hu": "Piazza Italia",
+            "ro": "Piazza Italia",
+            "en": "Piazza Italia"
+          },
+          "coords": [
+            13.002,
+            41.729
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Kiindulópont a központban.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Barbara",
+            "hu": "Szent Borbála-templom",
+            "ro": "Biserica Santa Barbara",
+            "en": "Santa Barbara Church"
+          },
+          "coords": [
+            13.001,
+            41.728
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Moderne Sakralarchitektur.",
+            "hu": "Modern szakrális építészet.",
+            "ro": "Arhitectură sacră modernă.",
+            "en": "Modern sacred architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftschutzbunker-Museum",
+            "hu": "Légvédelmi Óvóhely Múzeum",
+            "ro": "Muzeul Adăposturilor Antiaeriene",
+            "en": "Air Raid Shelter Museum"
+          },
+          "coords": [
+            13.004,
+            41.727
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher am Eingang.",
+            "hu": "Zárja le biztonságosan a bringát a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike securely at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunales Archäologisches Museum",
+            "hu": "Városi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Comunal",
+            "en": "Municipal Archaeological Museum"
+          },
+          "coords": [
+            13.005,
+            41.73
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wichtige paläontologische Sammlung.",
+            "hu": "Fontos őslénytani gyűjtemény.",
+            "ro": "Colecție paleontologică importantă.",
+            "en": "Important paleontological collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Vecchio (Ruinen)",
+            "hu": "Castello Vecchio romok",
+            "ro": "Ruinele Castello Vecchio",
+            "en": "Castello Vecchio (Ruins)"
+          },
+          "coords": [
+            13.008,
+            41.735
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Anstieg, der sich für die Aussicht lohnt.",
+            "hu": "Rövid emelkedő, de a kilátás megéri.",
+            "ro": "O urcare scurtă, dar panorama merită.",
+            "en": "A short climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Schlosspark"
+          },
+          "coords": [
+            13.006,
+            41.734
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Schatten der alten Bäume.",
+            "hu": "Pihenjen az öreg fák árnyékában.",
+            "ro": "Relaxați-vă la umbra arborilor bătrâni.",
+            "en": "Relax in the shade of ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempietto di Sant'Antonino",
+            "hu": "Szent Antoninus-kápolna",
+            "ro": "Tempietto di Sant'Antonino",
+            "en": "Tempietto di Sant'Antonino"
+          },
+          "coords": [
+            13.007,
+            41.734
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kleines architektonisches Juwel.",
+            "hu": "Egy kis építészeti ékszerdoboz.",
+            "ro": "O mică bijuterie arhitecturală.",
+            "en": "A small architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Opfer der Arbeit",
+            "hu": "A munka áldozatainak emlékműve",
+            "ro": "Monumentul Victimelor Muncii",
+            "en": "Monument to the Victims of Labor"
+          },
+          "coords": [
+            13.003,
+            41.731
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abschluss der Tour im Stadtzentrum.",
+            "hu": "Túra zárása a városközpontban.",
+            "ro": "Finalul turului în centrul orașului.",
+            "en": "Conclusion of the tour in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet das moderne Colleferro mit seinen mittelalterlichen Wurzeln am Castello Vecchio. Nach dem Besuch der Bunker und Museen im Zentrum radeln Sie hinauf zum alten Schloss und genießen den Park. Die Tour ist abwechslungsreich und bietet sowohl Geschichte als auch Entspannung im Grünen.",
+        "hu": "Ez a kerékpáros túra összeköti a modern Colleferrót a középkori gyökereivel a Castello Vecchiónál. A központi bunkerek és múzeumok után feltekerünk a régi várromokhoz és a kastélyparkba. A túra változatos, történelmi látnivalókat és zöldövezeti pihenést egyaránt kínál.",
+        "ro": "Acest tur cu bicicleta îmbină Colleferro modern cu rădăcinile sale medievale de la Castello Vecchio. După vizitarea buncărelor și muzeelor din centru, urcăm spre vechiul castel și parcul adiacent. Traseul este variat, oferind istorie și relaxare în natură.",
+        "en": "This bike tour connects modern Colleferro with its medieval roots at Castello Vecchio. After exploring the central bunkers and museums, cycle up to the old castle ruins and the castle park. The tour offers a diverse mix of history and green spaces for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Locale",
+            "tip": "Probieren Sie typisches Gebäck aus Latium."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria Locale",
+            "tip": "Kóstolja meg a jellegzetes lazioi süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Locale",
+            "tip": "Gustați produsele de patiserie tipice din Lazio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pasticceria",
+            "tip": "Try typical pastries from the Lazio region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Perfekt für eine Pause im Grünen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Tökéletes hely egy zöld pihenőhöz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Perfect pentru o pauză în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlosspark",
+            "tip": "Perfect for a break in the green.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Turati",
+            "tip": "Einkaufsstraße mit vielen kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Turati",
+            "tip": "Bevásárlóutca számos kis üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Turati",
+            "tip": "Stradă comercială cu multe magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Turati",
+            "tip": "Shopping street with many small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Castello Vecchio ist etwas steil.",
+          "Nutzen Sie die Radwege, wo vorhanden.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg mit.",
+          "In Italien herrscht im Verkehr Vorsicht, tragen Sie einen Helm."
+        ],
+        "hu": [
+          "A Castello Vecchio felé vezető út kicsit meredek.",
+          "Használja a kerékpárutakat, ahol csak lehet.",
+          "Vigyen magával vizet az emelkedőhöz.",
+          "Az olasz forgalomban legyen óvatos, viseljen sisakot."
+        ],
+        "ro": [
+          "Drumul spre Castello Vecchio este puțin abrupt.",
+          "Folosiți pistele de biciclete acolo unde există.",
+          "Luați suficientă apă pentru urcare.",
+          "Fiți prudenți în traficul italian și purtați cască."
+        ],
+        "en": [
+          "The road to Castello Vecchio is slightly steep.",
+          "Use bike lanes where available.",
+          "Bring plenty of water for the climb.",
+          "Be cautious in Italian traffic; always wear a helmet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Luftschutzbunker-Museum",
+            "hu": "Légvédelmi Óvóhely Múzeum",
+            "ro": "Muzeul Adăposturilor Antiaeriene",
+            "en": "Air Raid Shelter Museum"
+          },
+          "coords": [
+            13.004,
+            41.727
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum.",
+            "hu": "Parkoljon a városközpontban.",
+            "ro": "Parcați în centrul orașului.",
+            "en": "Park in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Italia",
+            "hu": "Piazza Italia",
+            "ro": "Piazza Italia",
+            "en": "Piazza Italia"
+          },
+          "coords": [
+            13.002,
+            41.729
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunales Archäologisches Museum",
+            "hu": "Városi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Comunal",
+            "en": "Municipal Archaeological Museum"
+          },
+          "coords": [
+            13.005,
+            41.73
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Cluster: Stadtzentrum zu Fuß erkunden.",
+            "hu": "Cluster: fedezze fel a központot gyalog.",
+            "ro": "Cluster: explorați centrul pe jos.",
+            "en": "Cluster: explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Vecchio (Ruinen)",
+            "hu": "Castello Vecchio romok",
+            "ro": "Ruinele Castello Vecchio",
+            "en": "Castello Vecchio (Ruins)"
+          },
+          "coords": [
+            13.008,
+            41.735
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Hügel-Cluster.",
+            "hu": "Vezetés a dombtetői klaszterhez.",
+            "ro": "Drum spre clusterul de pe deal.",
+            "en": "Drive to the hilltop cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Schlosspark"
+          },
+          "coords": [
+            13.006,
+            41.734
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Guter Parkplatz direkt am Eingang.",
+            "hu": "Jó parkolóhely közvetlenül a bejáratnál.",
+            "ro": "Parcare bună chiar la intrare.",
+            "en": "Good parking right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick Segni",
+            "hu": "Segni panoráma",
+            "ro": "Panorama Segni",
+            "en": "Segni Panorama View"
+          },
+          "coords": [
+            13.021,
+            41.692
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt ins benachbarte Segni für die beste Aussicht.",
+            "hu": "Rövid autózás a szomszédos Segni-be a legjobb kilátásért.",
+            "ro": "Scurtă plimbare cu mașina până în Segni pentru cea mai bună vedere.",
+            "en": "Short drive to neighboring Segni for the best views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen wir die Cluster-Philosophie: Zuerst parken wir im Zentrum und erkunden die Bunker und Museen zu Fuß. Danach fahren wir zum höher gelegenen Castello Vecchio und genießen den Park. Zum Abschluss bietet eine kurze Fahrt nach Segni einen spektakulären Panoramablick über das Sacco-Tal.",
+        "hu": "Autóval a klaszter-elvet követjük: először a központban parkolunk, és gyalog járjuk be a bunkereket és múzeumokat. Ezután felautózunk a Castello Vecchióhoz és a kastélyparkhoz. A nap végén egy rövid kitérőt teszünk a közeli Segni felé, ahonnan fantasztikus panoráma nyílik a Sacco-völgyre.",
+        "ro": "Cu mașina folosim filosofia clusterelor: mai întâi parcăm în centru și explorăm buncărele și muzeele pe jos. Apoi, conducem spre Castello Vecchio și parcul său. La final, o scurtă incursiune spre Segni ne oferă o panoramă spectaculoasă asupra văii Sacco.",
+        "en": "By car, we follow the cluster philosophy: first, park in the center and explore the bunkers and museums on foot. Next, drive to the hilltop Castello Vecchio and its park. Finally, a short drive towards nearby Segni rewards you with a spectacular panoramic view of the Sacco Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Rustikale Küche mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Rusztikus konyha helyi alapanyagokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Bucătărie rustică cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Rustic cuisine with local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panorama Segni",
+            "tip": "Sonnenuntergang über dem Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Segni panoráma",
+            "tip": "Naplemente a völgy felett.",
+            "emoji": "🌇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Segni",
+            "tip": "Apus de soare peste vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Segni Panorama",
+            "tip": "Sunset over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Outlet Valmontone",
+            "tip": "Nur 10 Min. mit dem Auto entfernt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valmontone Outlet",
+            "tip": "Csak 10 perc autóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Outlet Valmontone",
+            "tip": "La doar 10 minute cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Valmontone Outlet",
+            "tip": "Only 10 minutes away by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zentrum-Parken ist oft zeitlich begrenzt (blaue Zonen).",
+          "Fahren Sie vorsichtig auf den engen Straßen nach Segni.",
+          "Ein Mietwagen ermöglicht auch Besuche in den umliegenden Dörfern.",
+          "Tanken Sie im Industriegebiet von Colleferro für bessere Preise."
+        ],
+        "hu": [
+          "A központi parkolás gyakran időhöz kötött (kék zónák).",
+          "Vezessen óvatosan a Segni felé vezető szűk utakon.",
+          "Az autó lehetővé teszi a környező falvak gyors meglátogatását is.",
+          "Tankoljon a Colleferro ipari negyedében a kedvezőbb árakért."
+        ],
+        "ro": [
+          "Parcarea în centru este adesea limitată (zone albastre).",
+          "Conduceți cu atenție pe drumurile înguste spre Segni.",
+          "Mașina vă permite să vizitați rapid și satele învecinate.",
+          "Alimentați în zona industrială din Colleferro pentru prețuri mai bune."
+        ],
+        "en": [
+          "Center parking is often time-limited (blue zones).",
+          "Drive carefully on the narrow roads leading to Segni.",
+          "A car allows you to easily visit the surrounding hilltop villages.",
+          "Refuel in Colleferro's industrial area for better prices."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Colleferro-Segni-Paliano",
+            "hu": "Colleferro-Segni-Paliano vasútállomás",
+            "ro": "Gara Colleferro-Segni-Paliano",
+            "en": "Colleferro-Segni-Paliano Train Station"
+          },
+          "coords": [
+            13.003,
+            41.745
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Regionalzug aus Rom.",
+            "hu": "Érkezés a római regionális vonattal.",
+            "ro": "Sosire cu trenul regional din Roma.",
+            "en": "Arrival with the regional train from Rome."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Italia",
+            "hu": "Piazza Italia",
+            "ro": "Piazza Italia",
+            "en": "Piazza Italia"
+          },
+          "coords": [
+            13.002,
+            41.729
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus zum Zentrum.",
+            "hu": "Szálljon fel a helyi buszra a központba.",
+            "ro": "Luați autobuzul local spre centru.",
+            "en": "Take the local bus to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kommunales Archäologisches Museum",
+            "hu": "Városi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Comunal",
+            "en": "Municipal Archaeological Museum"
+          },
+          "coords": [
+            13.005,
+            41.73
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Piazza Italia erreichbar.",
+            "hu": "Gyalogosan elérhető a Piazza Italiától.",
+            "ro": "Accesibil pe jos din Piazza Italia.",
+            "en": "Accessible on foot from Piazza Italia."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftschutzbunker-Museum",
+            "hu": "Légvédelmi Óvóhely Múzeum",
+            "ro": "Muzeul Adăposturilor Antiaeriene",
+            "en": "Air Raid Shelter Museum"
+          },
+          "coords": [
+            13.004,
+            41.727
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentral gelegen, ideal für Fußgänger.",
+            "hu": "Központi fekvésű, ideális gyalogosoknak.",
+            "ro": "Locație centrală, ideală pentru pietoni.",
+            "en": "Centrally located, ideal for pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Schlosspark"
+          },
+          "coords": [
+            13.006,
+            41.734
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lokaler Bus oder ein etwas längerer Spaziergang.",
+            "hu": "Helyi busz vagy egy hosszabb séta.",
+            "ro": "Autobuz local sau o plimbare mai lungă.",
+            "en": "Local bus or a slightly longer walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof gelangen Sie mit dem Bus schnell ins Zentrum von Colleferro. Hier erkunden Sie die Piazza Italia und die Museen zu Fuß. Ein Besuch in den Bunkern ist ein Muss, bevor Sie den Tag im Schlosspark ausklingen lassen. Der Transit-Modus ist ideal für Besucher aus Rom, da die Stadt gut an das Bahnnetz angebunden ist.",
+        "hu": "Az állomástól busszal gyorsan bejuthatunk Colleferro központjába. Itt gyalogosan fedezzük fel a Piazza Italiát és a múzeumokat. A bunkerek megtekintése kötelező program, mielőtt a kastélyparkban pihennénk. Ez az útvonal ideális a Rómából érkezőknek, mivel a város kiváló vasúti összeköttetéssel rendelkezik.",
+        "ro": "De la gară, ajungeți rapid cu autobuzul în centrul orașului Colleferro. Aici explorați Piazza Italia și muzeele pe jos. O vizită la buncăre este obligatorie înainte de a vă relaxa în parcul castelului. Acest mod este ideal pentru vizitatorii din Roma, datorită conexiunii feroviare bune.",
+        "en": "From the station, take a quick bus ride to Colleferro's center. Explore Piazza Italia and the museums on foot. A visit to the shelters is essential before winding down in the castle park. This transit-friendly route is perfect for visitors arriving from Rome by train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tavola Calda Centro",
+            "tip": "Schnelles und gutes Mittagessen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavola Calda Centro",
+            "tip": "Gyors és jó ebéd a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tavola Calda Centro",
+            "tip": "Prânz rapid și bun în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tavola Calda Centro",
+            "tip": "Quick and good lunch in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Grüne Oase im Stadtgebiet.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Zöld oázis a városban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Oază verde în zona urbană.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlosspark",
+            "tip": "Green oasis in the urban area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabaccheria Centrale",
+            "tip": "Souvenirs und lokale Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabaccheria Centrale",
+            "tip": "Szuvenírek és helyi újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabaccheria Centrale",
+            "tip": "Suveniruri și ziare locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabaccheria Centrale",
+            "tip": "Souvenirs and local newspapers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan (Cotral oder lokale Linien) im Voraus.",
+          "Die Fahrkarten für die Bahn können am Automaten gekauft werden.",
+          "Der Bahnhof liegt etwas außerhalb des eigentlichen Zentrums.",
+          "Sonntags verkehren Busse seltener."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet (Cotral vagy helyi járatok).",
+          "A vonatjegyet az állomáson automatából veheti meg.",
+          "A vasútállomás kicsit távolabb esik a tényleges központtól.",
+          "Vasárnaponként a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (Cotral sau linii locale) în avans.",
+          "Biletele de tren pot fi cumpărate de la automatele din gară.",
+          "Gara este situată puțin în afara centrului propriu-zis.",
+          "Duminica autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Check bus schedules (Cotral or local lines) in advance.",
+          "Train tickets can be purchased at station vending machines.",
+          "The train station is located a bit outside the main center.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

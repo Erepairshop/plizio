@@ -1,0 +1,960 @@
+{
+  "city_id": "hagen-extra",
+  "anchor": {
+    "name": "Hagen Zentrum",
+    "coords": [
+      7.47,
+      51.36
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hagener Stadttheater",
+            "hu": "Hageni Városi Színház",
+            "ro": "Teatrul Municipal din Hagen",
+            "en": "Hagen City Theater"
+          },
+          "coords": [
+            7.473,
+            51.358
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstil-Architektur vor der ersten Vorstellung.",
+            "hu": "Csodáld meg a szecessziós épületet az előadások előtt.",
+            "ro": "Admirați arhitectura Art Nouveau înainte de spectacol.",
+            "en": "Admire the Art Nouveau architecture before the shows start."
+          }
+        },
+        {
+          "name": {
+            "de": "Osthaus Museum Hagen",
+            "hu": "Osthaus Múzeum",
+            "ro": "Muzeul Osthaus",
+            "en": "Osthaus Museum"
+          },
+          "coords": [
+            7.475,
+            51.359
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Interieur wurde von Henry van de Velde gestaltet.",
+            "hu": "A belső teret Henry van de Velde tervezte.",
+            "ro": "Interiorul a fost proiectat de Henry van de Velde.",
+            "en": "The interior was designed by Henry van de Velde."
+          }
+        },
+        {
+          "name": {
+            "de": "Emil Schumacher Museum",
+            "hu": "Emil Schumacher Múzeum",
+            "ro": "Muzeul Emil Schumacher",
+            "en": "Emil Schumacher Museum"
+          },
+          "coords": [
+            7.475,
+            51.358
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Osthaus Museum in einem modernen Glasbau.",
+            "hu": "Közvetlenül az Osthaus mellett, modern üvegépületben.",
+            "ro": "Chiar lângă Osthaus, într-o clădire modernă de sticlă.",
+            "en": "Located right next to Osthaus in a modern glass building."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            7.472,
+            51.359
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie westfälische Spezialitäten in der Fußgängerzone.",
+            "hu": "Kóstold meg a vesztfáliai ételeket a sétálóutcában.",
+            "ro": "Încercați specialități vestfaliene în zona pietonală.",
+            "en": "Try Westphalian specialties in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseum Hagen",
+            "hu": "Hageni Bunkermúzeum",
+            "ro": "Muzeul Bunkerului Hagen",
+            "en": "Hagen Bunker Museum"
+          },
+          "coords": [
+            7.471,
+            51.362
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein beklemmender, aber wichtiger Einblick in die Geschichte.",
+            "hu": "Nyomasztó, de fontos betekintés a történelembe.",
+            "ro": "O privire apăsătoare, dar importantă asupra istoriei.",
+            "en": "An oppressive but important insight into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten Hagen",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "Hagen City Garden"
+          },
+          "coords": [
+            7.465,
+            51.355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen entspannten Spaziergang zum Abschluss.",
+            "hu": "Tökéletes hely egy pihentető sétához a nap végén.",
+            "ro": "Locul perfect pentru o plimbare relaxantă la final.",
+            "en": "Perfect place for a relaxing walk to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Hagen beginnt im kulturellen Herzen der Stadt. Vormittags tauchen Sie im Museumsquartier in die Welt des Impressionismus und der abstrakten Kunst ein. Nach einer Stärkung im Zentrum erkunden Sie die unterirdische Geschichte im Bunkermuseum, bevor Sie den späten Nachmittag im idyllischen Stadtgarten ausklingen lassen.",
+        "hu": "Hageni napja a város kulturális szívében kezdődik. Délelőtt a múzeumi negyedben merülhet el az impresszionizmus és az absztrakt művészet világában. A központban elfogyasztott ebéd után a Bunkermúzeumban fedezheti fel a föld alatti történelmet, majd a késő délutánt az idilli Városi Parkban zárhatja.",
+        "ro": "Ziua ta în Hagen începe în inima culturală a orașului. Dimineața, te vei cufunda în lumea impresionismului și a artei abstracte în cartierul muzeelor. După un prânz în centru, vei explora istoria subterană la Muzeul Bunkerului, înainte de a încheia după-amiaza târzie în idilicul Stadtgarten.",
+        "en": "Your day in Hagen starts in the cultural heart of the city. In the morning, immerse yourself in the world of Impressionism and abstract art in the museum quarter. After a meal in the center, explore underground history at the Bunker Museum before ending the late afternoon in the idyllic City Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinn",
+            "tip": "Moderne Küche mit regionalen Einflüssen."
+          },
+          {
+            "name": "Hagener Krüstchen",
+            "tip": "Klassisches Schnitzel auf Toast mit Spiegelei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinn",
+            "tip": "Modern konyha helyi alapanyagokkal."
+          },
+          {
+            "name": "Hagener Krüstchen",
+            "tip": "Klasszikus szelet pirítóson, tükörtojással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinn",
+            "tip": "Bucătărie modernă cu influențe regionale."
+          },
+          {
+            "name": "Hagener Krüstchen",
+            "tip": "Șnițel clasic pe pâine prăjită cu ou ochi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinn",
+            "tip": "Modern cuisine with regional influences."
+          },
+          {
+            "name": "Hagener Krüstchen",
+            "tip": "Classic schnitzel on toast with a fried egg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten Teiche",
+            "tip": "Ruhiges Plätschern am Ententeich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Park tavai",
+            "tip": "Csendes pihenő a kacsás tónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacurile din Stadtgarten",
+            "tip": "Relaxare liniștită lângă lacul cu rațe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Garden Ponds",
+            "tip": "Quiet rest by the duck pond.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Volme Galerie",
+            "tip": "Großes Einkaufszentrum im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Volme Galerie",
+            "tip": "Nagy bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Volme Galerie",
+            "tip": "Centru comercial mare în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Volme Galerie",
+            "tip": "Large shopping mall in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Museen liegen sehr nah beieinander, ideal zu Fuß.",
+          "Tragen Sie bequeme Schuhe für den Weg zum Stadtgarten."
+        ],
+        "hu": [
+          "A múzeumok nagyon közel vannak egymáshoz, gyalog kényelmes.",
+          "Viselj kényelmes cipőt a Városi Parkhoz vezető úton."
+        ],
+        "ro": [
+          "Muzeele sunt foarte aproape unul de celălalt, ideal de mers pe jos.",
+          "Purtați pantofi confortabili pentru drumul spre Stadtgarten."
+        ],
+        "en": [
+          "The museums are very close to each other, ideal on foot.",
+          "Wear comfortable shoes for the walk to the City Garden."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Osthaus Museum",
+            "hu": "Osthaus Múzeum",
+            "ro": "Muzeul Osthaus",
+            "en": "Osthaus Museum"
+          },
+          "coords": [
+            7.475,
+            51.359
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum mit hervorragender Kunst.",
+            "hu": "Központi kezdőpont kiváló művészeti alkotásokkal.",
+            "ro": "Punct de pornire în centru cu artă excelentă.",
+            "en": "Starting point in the center with excellent art."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark im Stadtwald",
+            "hu": "Vadaspark a városi erdőben",
+            "ro": "Parcul de animale din pădurea orașului",
+            "en": "Wildpark in the City Forest"
+          },
+          "coords": [
+            7.458,
+            51.342
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber tolle Waldwege.",
+            "hu": "Meredek emelkedő, de remek erdei utak.",
+            "ro": "Urcare abruptă, dar trasee forestiere superbe.",
+            "en": "Steep climb, but great forest trails."
+          }
+        },
+        {
+          "name": {
+            "de": "LWL-Freilichtmuseum Hagen",
+            "hu": "Hageni Szabadtéri Múzeum",
+            "ro": "Muzeul în aer liber din Hagen",
+            "en": "LWL Open-air Museum Hagen"
+          },
+          "coords": [
+            7.485,
+            51.325
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Das Mäckingerbachtal ist ideal für Radfahrer.",
+            "hu": "A Mäckingerbachtal völgy ideális kerékpárosoknak.",
+            "ro": "Valea Mäckingerbachtal este ideală pentru bicicliști.",
+            "en": "The Mäckingerbach valley is ideal for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohenlimburg",
+            "hu": "Hohenlimburgi kastély",
+            "ro": "Castelul Hohenlimburg",
+            "en": "Hohenlimburg Castle"
+          },
+          "coords": [
+            7.57,
+            51.345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Historisches Schloss mit Blick über das Lennetal.",
+            "hu": "Történelmi kastély kilátással a Lenne-völgyre.",
+            "ro": "Castel istoric cu vedere spre Valea Lenne.",
+            "en": "Historic castle with views over the Lenne valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Hagen mit dem Rad zu erkunden bedeutet, die Höhenzüge des Sauerlands zu spüren. Vom Zentrum aus fahren Sie in den Stadtwald zum Wildpark. Das absolute Highlight ist das Freilichtmuseum, wo Handwerk lebendig wird. Zum Abschluss radeln Sie entlang der Lenne bis zum beeindruckenden Schloss Hohenlimburg.",
+        "hu": "Hagen kerékpáros felfedezése a Sauerland dombjainak megtapasztalását jelenti. A központból a városi erdőbe, a vadasparkhoz tekerhetünk. Az abszolút csúcspont a Szabadtéri Múzeum, ahol a kézművesség életre kel. Végezetül a Lenne mentén tekerhetünk a lenyűgöző Hohenlimburgi kastélyig.",
+        "ro": "Explorarea orașului Hagen cu bicicleta înseamnă să simți dealurile din Sauerland. Din centru, mergi spre pădurea orașului la Wildpark. Punctul culminant absolut este muzeul în aer liber, unde meșteșugurile prind viață. La final, pedalează de-a lungul Lennei până la impresionantul Castel Hohenlimburg.",
+        "en": "Exploring Hagen by bike means feeling the ridges of the Sauerland. From the center, ride into the city forest to the game park. The absolute highlight is the open-air museum, where craftsmanship comes to life. Finally, cycle along the Lenne to the impressive Hohenlimburg Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Museumsterrasse",
+            "tip": "Frisches Brot direkt aus dem Ofen des Freilichtmuseums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumterasz",
+            "tip": "Friss kenyér közvetlenül a skanzen kemencéjéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Muzeului",
+            "tip": "Pâine proaspătă direct din cuptorul muzeului în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Terrace",
+            "tip": "Fresh bread straight from the open-air museum's oven."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hagener Stadtwald",
+            "tip": "Stundenlange Ruhe unter hohen Buchen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hageni Városi Erdő",
+            "tip": "Órákig tartó csend a magas bükkfák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Hagen",
+            "tip": "Liniște timp de ore întregi sub fagi înalți.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hagen City Forest",
+            "tip": "Hours of peace under tall beech trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsladen",
+            "tip": "Handgefertigte Produkte aus den Werkstätten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Kézzel készült termékek a műhelyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului",
+            "tip": "Produse realizate manual în ateliere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Handmade products from the workshops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sich auf einige Steigungen ein.",
+          "Nutzen Sie den Lenneradweg für die Fahrt nach Hohenlimburg."
+        ],
+        "hu": [
+          "Készülj fel néhány komolyabb emelkedőre.",
+          "Használd a Lenne-menti kerékpárutat Hohenlimburg felé."
+        ],
+        "ro": [
+          "Pregătiți-vă pentru câteva pante.",
+          "Folosiți pista de biciclete Lenneradweg spre Hohenlimburg."
+        ],
+        "en": [
+          "Be prepared for some climbs.",
+          "Use the Lenneradweg cycle path for the trip to Hohenlimburg."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 21.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Osthaus Museum (Cluster Zentrum)",
+            "hu": "Osthaus Múzeum (Belváros klaszter)",
+            "ro": "Muzeul Osthaus (Cluster Centru)",
+            "en": "Osthaus Museum (Center Cluster)"
+          },
+          "coords": [
+            7.475,
+            51.359
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Theater.",
+            "hu": "Parkolj a színház melletti parkolóházban.",
+            "ro": "Parcați în parcarea de la teatru.",
+            "en": "Park in the parking garage at the theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Emil Schumacher Museum",
+            "hu": "Emil Schumacher Múzeum",
+            "ro": "Muzeul Emil Schumacher",
+            "en": "Emil Schumacher Museum"
+          },
+          "coords": [
+            7.475,
+            51.358
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Osthaus Museum erreichbar.",
+            "hu": "Gyalog elérhető az Osthaustól.",
+            "ro": "Accesibil pe jos de la Muzeul Osthaus.",
+            "en": "Accessible on foot from the Osthaus Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseum Hagen",
+            "hu": "Hageni Bunkermúzeum",
+            "ro": "Muzeul Bunkerului Hagen",
+            "en": "Hagen Bunker Museum"
+          },
+          "coords": [
+            7.471,
+            51.362
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp im Zentrum-Cluster.",
+            "hu": "Utolsó állomás a belvárosi klaszterben.",
+            "ro": "Ultima oprire în clusterul central.",
+            "en": "Last stop in the center cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "LWL-Freilichtmuseum (Cluster Süd)",
+            "hu": "Hageni skanzen (Déli klaszter)",
+            "ro": "Muzeul în aer liber (Cluster Sud)",
+            "en": "LWL Open-air Museum (South Cluster)"
+          },
+          "coords": [
+            7.485,
+            51.325
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Eingang.",
+            "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare chiar la intrare.",
+            "en": "Large parking lot right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohenlimburg (Cluster Ost)",
+            "hu": "Hohenlimburgi kastély (Keleti klaszter)",
+            "ro": "Castelul Hohenlimburg (Cluster Est)",
+            "en": "Hohenlimburg Castle (East Cluster)"
+          },
+          "coords": [
+            7.57,
+            51.345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Höhenburg mit reicher Geschichte.",
+            "hu": "Gazdag történelmű hegyi vár.",
+            "ro": "Castel pe deal cu o istorie bogată.",
+            "en": "Hilltop castle with a rich history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die weitläufigen Highlights Hagens mühelos. Sie starten im Zentrum-Cluster mit hochkarätiger Kunst und Zeitgeschichte. Danach fahren Sie in den Süden zum Freilichtmuseum, um die Technikgeschichte im Grünen zu erleben. Den krönenden Abschluss bildet das Schloss Hohenlimburg im Osten der Stadt.",
+        "hu": "Autóval könnyedén összekötheti Hagen távoli látnivalóit. A belvárosi klaszterben kezdhet magas színvonalú művészettel és kortárs történelemmel. Ezután délre utazik a Szabadtéri Múzeumba, hogy a természetben tapasztalja meg a technikatörténetet. A napot a város keleti részén található Hohenlimburgi kastély koronázza meg.",
+        "ro": "Cu mașina, puteți conecta fără efort punctele de atracție din Hagen. Începeți în clusterul central cu artă de înaltă calitate și istorie contemporană. Apoi mergeți spre sud la muzeul în aer liber pentru a experimenta istoria tehnologiei în natură. Finalul perfect este Castelul Hohenlimburg din estul orașului.",
+        "en": "By car, you can effortlessly connect Hagen's spread-out highlights. Start in the center cluster with high-caliber art and contemporary history. Then drive south to the open-air museum to experience technical history in a green setting. The crowning finale is Hohenlimburg Castle in the east of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haus Kehrenkamp",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haus Kehrenkamp",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haus Kehrenkamp",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haus Kehrenkamp",
+            "tip": "Fine dining in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten Hohenlimburg",
+            "tip": "Panoramablick über das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hohenlimburgi kastélykert",
+            "tip": "Panorámás kilátás a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului Hohenlimburg",
+            "tip": "Vedere panoramică asupra văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hohenlimburg Castle Garden",
+            "tip": "Panoramic view over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rathaus Galerie",
+            "tip": "Vielfältige Einkaufsmöglichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rathaus Galerie",
+            "tip": "Változatos vásárlási lehetőségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rathaus Galerie",
+            "tip": "Oportunități variate de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rathaus Galerie",
+            "tip": "Diverse shopping opportunities."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist kostenpflichtig, am Freilichtmuseum meist frei.",
+          "Die Fahrzeit nach Hohenlimburg kann im Berufsverkehr länger sein."
+        ],
+        "hu": [
+          "A központban fizetős a parkolás, a skanzennél általában ingyenes.",
+          "Hohenlimburg felé a menetidő csúcsforgalomban hosszabb lehet."
+        ],
+        "ro": [
+          "Parcarea în centru este cu plată, la muzeul în aer liber este de obicei gratuită.",
+          "Timpul de condus spre Hohenlimburg poate fi mai lung la orele de vârf."
+        ],
+        "en": [
+          "Parking in the center is paid, usually free at the open-air museum.",
+          "Travel time to Hohenlimburg can be longer during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hagener Stadttheater (Bezirk Zentrum)",
+            "hu": "Hageni Városi Színház (Központi negyed)",
+            "ro": "Teatrul Municipal din Hagen (District Centru)",
+            "en": "Hagen City Theater (Center District)"
+          },
+          "coords": [
+            7.473,
+            51.358
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof in 10 Min. zu Fuß erreichbar.",
+            "hu": "A főpályaudvartól 10 perc gyalog.",
+            "ro": "Accesibil în 10 minute pe jos de la gara centrală.",
+            "en": "Reach in 10 mins on foot from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Osthaus Museum",
+            "hu": "Osthaus Múzeum",
+            "ro": "Muzeul Osthaus",
+            "en": "Osthaus Museum"
+          },
+          "coords": [
+            7.475,
+            51.359
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wichtiger Ankerpunkt der Route Industriekultur.",
+            "hu": "Az Ipari Kultúra Útvonalának fontos állomása.",
+            "ro": "Punct de ancorare important pe Traseul Culturii Industriale.",
+            "en": "Important anchor point on the Industrial Culture Route."
+          }
+        },
+        {
+          "name": {
+            "de": "LWL-Freilichtmuseum (Bezirk Selbecke)",
+            "hu": "Hageni skanzen (Selbecke negyed)",
+            "ro": "Muzeul în aer liber (District Selbecke)",
+            "en": "LWL Open-air Museum (Selbecke District)"
+          },
+          "coords": [
+            7.485,
+            51.325
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "hop_mode": "transit",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Buslinie 512 hält direkt vor dem Museum.",
+            "hu": "Az 512-es busz közvetlenül a múzeum előtt áll meg.",
+            "ro": "Linia de autobuz 512 oprește chiar în fața muzeului.",
+            "en": "Bus line 512 stops right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohenlimburg (Bezirk Hohenlimburg)",
+            "hu": "Hohenlimburgi kastély (Hohenlimburg negyed)",
+            "ro": "Castelul Hohenlimburg (District Hohenlimburg)",
+            "en": "Hohenlimburg Castle (Hohenlimburg District)"
+          },
+          "coords": [
+            7.57,
+            51.345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "hop_mode": "transit",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "RB91 oder RE16 ab Hagen Hbf nach Hohenlimburg.",
+            "hu": "RB91 vagy RE16 vonat Hagen főpályaudvarról.",
+            "ro": "Trenul RB91 sau RE16 de la gara Hagen spre Hohenlimburg.",
+            "en": "RB91 or RE16 train from Hagen Hbf to Hohenlimburg."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten Hagen",
+            "hu": "Városi Park",
+            "ro": "Parcul Orașului",
+            "en": "Hagen City Garden"
+          },
+          "coords": [
+            7.465,
+            51.355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:20",
+          "hop_mode": "transit",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Gute Busverbindung zurück ins Zentrum.",
+            "hu": "Jó buszközlekedés vissza a központba.",
+            "ro": "Legătură bună de autobuz înapoi în centru.",
+            "en": "Good bus connection back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank eines gut ausgebauten Bus- und Bahnnetzes ist Hagen ideal ohne Auto zu erleben. Sie starten kulturell im Zentrum und nutzen dann die direkte Busverbindung zum weitläufigen Freilichtmuseum. Mit dem Regionalzug erreichen Sie schnell Hohenlimburg für eine Zeitreise ins Mittelalter, bevor Sie den Tag entspannt im Stadtgarten beenden.",
+        "hu": "A jól kiépített busz- és vasúthálózatnak köszönhetően Hagen autó nélkül is kiválóan felfedezhető. Kulturális kezdés után közvetlen busszal juthat el a tágas Szabadtéri Múzeumba. Regionális vonattal gyorsan elérheti Hohenlimburgot egy középkori időutazáshoz, majd a napot a Városi Parkban zárhatja.",
+        "ro": "Datorită unei rețele bune de autobuze și trenuri, Hagen este ideal de experimentat fără mașină. Începeți cultural în centru și apoi folosiți legătura directă de autobuz către muzeul în aer liber. Cu trenul regional ajungeți rapid la Hohenlimburg pentru o călătorie în timp în Evul Mediu, înainte de a încheia ziua relaxat în Stadtgarten.",
+        "en": "Thanks to a well-developed bus and train network, Hagen is ideal to experience without a car. Start culturally in the center and then take the direct bus to the extensive open-air museum. Reach Hohenlimburg quickly by regional train for a journey back to the Middle Ages before ending the day relaxed in the City Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kupferpfanne",
+            "tip": "Rustikales Restaurant in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kupferpfanne",
+            "tip": "Rusztikus étterem a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kupferpfanne",
+            "tip": "Restaurant rustic în apropierea gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupferpfanne",
+            "tip": "Rustic restaurant near the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lennepromenade",
+            "tip": "Spaziergang am Flussufer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lenne-sétány",
+            "tip": "Séta a folyóparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Lenne",
+            "tip": "Plimbare pe malul râului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lenne Promenade",
+            "tip": "Walk along the riverbank.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kampstraße",
+            "tip": "Lokale Geschäfte und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kampstraße",
+            "tip": "Helyi üzletek és kávézók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kampstraße",
+            "tip": "Magazine locale și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kampstraße",
+            "tip": "Local shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ein Tagesticket für den VRR.",
+          "Die Buslinie 512 fährt im 15- oder 30-Minuten-Takt zum Freilichtmuseum."
+        ],
+        "hu": [
+          "Vegyél VRR napijegyet.",
+          "Az 512-es busz 15 vagy 30 percenként jár a skanzenhez."
+        ],
+        "ro": [
+          "Utilizați un bilet de o zi pentru VRR.",
+          "Linia de autobuz 512 circulă la intervale de 15 sau 30 de minute spre muzeul în aer liber."
+        ],
+        "en": [
+          "Use a day ticket for the VRR.",
+          "Bus line 512 runs every 15 or 30 minutes to the open-air museum."
+        ]
+      }
+    }
+  }
+}

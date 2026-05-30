@@ -1,0 +1,1046 @@
+{
+  "city_id": "italy-pesaro-cities-v2",
+  "anchor": {
+    "name": "Piazza del Popolo",
+    "coords": [
+      43.9108,
+      12.913
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            43.9111,
+            12.9131
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Fassade am Hauptplatz.",
+            "hu": "Csodáld meg a reneszánsz homlokzatot a főtéren.",
+            "ro": "Admirați fațada renascentistă din piața principală.",
+            "en": "Admire the Renaissance facade on the main square."
+          }
+        },
+        {
+          "name": "Cattedrale di Pesaro",
+          "coords": [
+            43.9117,
+            12.9099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die antiken Bodenmosaike unter dem Glas.",
+            "hu": "Ne hagyd ki az üvegpadló alatti ókori mozaikokat.",
+            "ro": "Nu ratați mozaicurile antice de sub podeaua de sticlă.",
+            "en": "Don't miss the ancient floor mosaics under the glass."
+          }
+        },
+        {
+          "name": "Casa Rossini",
+          "coords": [
+            43.9105,
+            12.9089
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Geburtshaus des berühmten Komponisten.",
+            "hu": "Látogass el a híres zeneszerző szülőházába.",
+            "ro": "Vizitați casa natală a celebrului compozitor.",
+            "en": "Visit the birthplace of the famous composer."
+          }
+        },
+        {
+          "name": "Gastro Stop - Via Rossini",
+          "coords": [
+            43.911,
+            12.9115
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Pizza Rossini mit Ei und Mayonnaise.",
+            "hu": "Kóstold meg a Rossini-pizzát tojással és majonézzel.",
+            "ro": "Încercați Pizza Rossini cu ou și maioneză.",
+            "en": "Try the Pizza Rossini with egg and mayonnaise."
+          }
+        },
+        {
+          "name": "Musei Civici",
+          "coords": [
+            43.9114,
+            12.9118
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die berühmte Keramiksammlung von Pesaro.",
+            "hu": "Fedezd fel Pesaro híres kerámiagyűjteményét.",
+            "ro": "Descoperiți faimoasa colecție de ceramică din Pesaro.",
+            "en": "Discover the famous ceramics collection of Pesaro."
+          }
+        },
+        {
+          "name": "Teatro Rossini",
+          "coords": [
+            43.9095,
+            12.9115
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Tempel der Opernmusik im Herzen der Stadt.",
+            "hu": "Az operazene temploma a város szívében.",
+            "ro": "Un templu al muzicii de operă în inima orașului.",
+            "en": "A temple of opera music in the heart of the city."
+          }
+        },
+        {
+          "name": "Palla di Pomodoro",
+          "coords": [
+            43.9142,
+            12.9212
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Das Symbol von Pesaro direkt am Meer.",
+            "hu": "Pesaro szimbóluma közvetlenül a tengerparton.",
+            "ro": "Simbolul orașului Pesaro chiar pe malul mării.",
+            "en": "The symbol of Pesaro right by the sea."
+          }
+        },
+        {
+          "name": "Villino Ruggeri",
+          "coords": [
+            43.9146,
+            12.9205
+          ],
+          "category": "famous residences",
+          "arrive_at": "18:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des italienischen Jugendstils.",
+            "hu": "Az olasz szecesszió egyik mesterműve.",
+            "ro": "O capodoperă a stilului Liberty italian.",
+            "en": "A masterpiece of Italian Liberty style."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Pesaro, die Stadt der Musik und des Meeres. Ihr Spaziergang beginnt im Renaissance-Zentrum am Palazzo Ducale und führt durch das Erbe von Rossini. Nach einem kulturellen Vormittag in den Museen und der Kathedrale spazieren Sie zur Strandpromenade. Den Abschluss bildet die ikonische Palla di Pomodoro vor der Kulisse der Adria bei Sonnenuntergang.",
+        "hu": "Fedezze fel Pesarót, a zene és a tenger városát. Sétája a reneszánsz központban, a Palazzo Ducale mellett indul, és Rossini örökségén keresztül vezet. A múzeumokban és a katedrálisban töltött kulturális délelőtt után sétáljon ki a tengerparti sétányra. A napot az ikonikus Pomodoro-gömb zárja az Adria látványával a naplementében.",
+        "ro": "Descoperiți Pesaro, orașul muzicii și al mării. Plimbarea dvs. începe în centrul renascentist de la Palazzo Ducale și trece prin moștenirea lui Rossini. După o dimineață culturală în muzee și catedrală, plimbați-vă spre faleza mării. Finalul este marcat de emblematica Palla di Pomodoro, pe fundalul Adriaticii la apus.",
+        "en": "Discover Pesaro, the city of music and the sea. Your walk begins in the Renaissance center at Palazzo Ducale and leads through Rossini's heritage. After a cultural morning in the museums and cathedral, stroll towards the seaside promenade. The day concludes at the iconic Palla di Pomodoro against the backdrop of the Adriatic at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizza Rossini",
+            "tip": "Mit Mayonnaise und hartgekochtem Ei – eine lokale Institution."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Handgemachte Pasta in Fleischbrühe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rossini pizza",
+            "tip": "Majonézzel és főtt tojással – igazi helyi specialitás."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Kézzel készített tészta húslevesben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza Rossini",
+            "tip": "Cu maioneză și ou fiert – o instituție locală."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Paste lucrate manual în supă de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizza Rossini",
+            "tip": "With mayonnaise and hard-boiled egg – a local institution."
+          },
+          {
+            "name": "Cappelletti in Brodo",
+            "tip": "Handmade pasta in meat broth."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molo di Pesaro",
+            "tip": "Ruhiger Spaziergang auf der Hafenmole.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orti Giulii",
+            "tip": "Pesaros ältester öffentlicher Garten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molo di Pesaro",
+            "tip": "Csendes séta a kikötői gáton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orti Giulii",
+            "tip": "Pesaro legrégebbi nyilvános kertje.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molo di Pesaro",
+            "tip": "Plimbare liniștită pe digul portului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orti Giulii",
+            "tip": "Cea mai veche grădină publică din Pesaro.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Molo di Pesaro",
+            "tip": "Quiet stroll on the harbor pier.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Orti Giulii",
+            "tip": "Pesaro's oldest public garden.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso II Giugno",
+            "tip": "Die Haupteinkaufsstraße im Zentrum."
+          },
+          {
+            "name": "Bottega d'Arte Ceramica",
+            "tip": "Traditionelle Pesaro-Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso II Giugno",
+            "tip": "A belváros fő bevásárlóutcája."
+          },
+          {
+            "name": "Bottega d'Arte Ceramica",
+            "tip": "Hagyományos pesarói kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso II Giugno",
+            "tip": "Principala stradă comercială din centru."
+          },
+          {
+            "name": "Bottega d'Arte Ceramica",
+            "tip": "Ceramică tradițională din Pesaro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso II Giugno",
+            "tip": "The main shopping street in the center."
+          },
+          {
+            "name": "Bottega d'Arte Ceramica",
+            "tip": "Traditional Pesaro ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist fast vollständig Fußgängerzone.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Trinken Sie einen Kaffee am Piazza del Popolo für echtes italienisches Flair.",
+          "Besuchen Sie die Kathedrale früh, um die Mosaike in Ruhe zu sehen."
+        ],
+        "hu": [
+          "A történelmi központ szinte teljes egészében sétálóövezet.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Igyál egy kávét a Piazza del Popolón az igazi olasz hangulatért.",
+          "Látogasd meg a katedrálist korán, hogy nyugodtan nézhesd meg a mozaikokat."
+        ],
+        "ro": [
+          "Centrul istoric este aproape în întregime zonă pietonală.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Beți o cafea în Piazza del Popolo pentru o atmosferă autentic italiană.",
+          "Vizitați catedrala devreme pentru a vedea mozaicurile în liniște."
+        ],
+        "en": [
+          "The historic center is almost entirely pedestrianized.",
+          "Most museums are closed on Mondays.",
+          "Have a coffee at Piazza del Popolo for real Italian flair.",
+          "Visit the cathedral early to see the mosaics in peace."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Rocca Costanza",
+          "coords": [
+            43.9082,
+            12.9152
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Imposante Festung aus dem 15. Jahrhundert.",
+            "hu": "Impozáns 15. századi erődítmény.",
+            "ro": "Fortăreață impunătoare din secolul al XV-lea.",
+            "en": "Imposing 15th-century fortress."
+          }
+        },
+        {
+          "name": "Musei Civici",
+          "coords": [
+            43.9114,
+            12.9118
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Piazza Toschi-Mosca ab.",
+            "hu": "Zárd le a biciklit a Piazza Toschi-Moscán.",
+            "ro": "Parcați bicicleta în Piazza Toschi-Mosca.",
+            "en": "Park your bike at Piazza Toschi-Mosca."
+          }
+        },
+        {
+          "name": "Cattedrale di Pesaro",
+          "coords": [
+            43.9117,
+            12.9099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kühler Stopp in der Altstadt.",
+            "hu": "Hűsítő megálló az óvárosban.",
+            "ro": "O oprire răcoroasă în orașul vechi.",
+            "en": "A cool stop in the old town."
+          }
+        },
+        {
+          "name": "Palla di Pomodoro",
+          "coords": [
+            43.9142,
+            12.9212
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginn der Bicipolitana-Küstenroute.",
+            "hu": "A Bicipolitana tengerparti útvonalának kezdete.",
+            "ro": "Începutul rutei de coastă Bicipolitana.",
+            "en": "Start of the Bicipolitana coastal route."
+          }
+        },
+        {
+          "name": "Villino Ruggeri",
+          "coords": [
+            43.9146,
+            12.9205
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halt für ein Foto der prächtigen Villa.",
+            "hu": "Állj meg egy fotóra a pompás villánál.",
+            "ro": "Opriți-vă pentru o fotografie cu vila magnifică.",
+            "en": "Stop for a photo of the magnificent villa."
+          }
+        },
+        {
+          "name": "Viale Trieste Beach Ride",
+          "coords": [
+            43.918,
+            12.928
+          ],
+          "category": "beach",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise auf dem Radweg.",
+            "hu": "Élvezd a tengeri szellőt a kerékpárúton.",
+            "ro": "Bucurați-vă de briza mării pe pista de biciclete.",
+            "en": "Enjoy the sea breeze on the bike path."
+          }
+        },
+        {
+          "name": "Baia Flaminia",
+          "coords": [
+            43.923,
+            12.905
+          ],
+          "category": "beach",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Aperitif am Strand.",
+            "hu": "Tökéletes hely egy tengerparti aperitifhez.",
+            "ro": "Locul perfect pentru un aperitiv pe plajă.",
+            "en": "The perfect spot for a beachside aperitif."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Pesaro ist die 'Stadt der Fahrräder'. Nutzen Sie das exzellente Bicipolitana-Netzwerk, um vom historischen Zentrum zum Meer zu gelangen. Diese Route verbindet militärische Architektur wie Rocca Costanza mit der maritimen Schönheit der Viale Trieste und endet in der malerischen Baia Flaminia.",
+        "hu": "Pesaro a 'kerékpárok városa'. Használja ki a kiváló Bicipolitana hálózatot, hogy a történelmi központból a tengerhez jusson. Ez az útvonal összeköti a katonai építészetet (Rocca Costanza) a Viale Trieste tengerparti szépségével, és a festői Baia Flaminiában ér véget.",
+        "ro": "Pesaro este 'orașul bicicletelor'. Profitați de excelenta rețea Bicipolitana pentru a ajunge din centrul istoric la mare. Acest traseu îmbină arhitectura militară precum Rocca Costanza cu frumusețea maritimă de pe Viale Trieste, terminând în pitoreasca Baia Flaminia.",
+        "en": "Pesaro is the 'city of bicycles'. Take advantage of the excellent Bicipolitana network to get from the historic center to the sea. This route combines military architecture like Rocca Costanza with the maritime beauty of Viale Trieste, ending in the picturesque Baia Flaminia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiosco sulla Spiaggia",
+            "tip": "Frische Piadina direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiosco sulla Spiaggia",
+            "tip": "Friss piadina közvetlenül a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiosco sulla Spiaggia",
+            "tip": "Piadina proaspătă direct pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiosco sulla Spiaggia",
+            "tip": "Fresh piadina right on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Miralfiore",
+            "tip": "Grüne Lunge mit Radwegen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Miralfiore",
+            "tip": "Zöld tüdő kerékpárutakkal.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Miralfiore",
+            "tip": "Plămânul verde cu piste de biciclete.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Miralfiore",
+            "tip": "Green lung with bike paths.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cicli Pesaro",
+            "tip": "Lokale Fahrradläden für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cicli Pesaro",
+            "tip": "Helyi kerékpárboltok kiegészítőkért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cicli Pesaro",
+            "tip": "Magazine locale de biciclete pentru accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cicli Pesaro",
+            "tip": "Local bike shops for accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Folgen Sie den Liniennummern der Bicipolitana auf dem Boden.",
+          "Mieten Sie ein Fahrrad an einem der vielen Verleihpunkte am Meer.",
+          "Die Küstenstrecke ist völlig flach und für jeden geeignet.",
+          "Achten Sie in der Altstadt auf Fußgänger."
+        ],
+        "hu": [
+          "Kövesd a Bicipolitana vonalszámait a földön.",
+          "Bérelj kerékpárt a tengerparti kölcsönzők egyikében.",
+          "A parti szakasz teljesen sík, mindenki számára könnyen tekerhető.",
+          "Az óvárosban ügyelj a gyalogosokra."
+        ],
+        "ro": [
+          "Urmați numerele liniilor Bicipolitana marcate pe asfalt.",
+          "Închiriați o bicicletă de la punctele de pe faleză.",
+          "Traseul de coastă este complet plat și accesibil oricui.",
+          "Aveți grijă la pietoni în zona veche."
+        ],
+        "en": [
+          "Follow the Bicipolitana line numbers marked on the ground.",
+          "Rent a bike at one of the many rental points along the sea.",
+          "The coastal route is completely flat and suitable for everyone.",
+          "Be careful with pedestrians in the old town area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Palazzo Ducale (Cluster Center)",
+          "coords": [
+            43.9111,
+            12.9131
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Curvone.",
+            "hu": "Parkolj a Curvone parkolóházban.",
+            "ro": "Parcați în parcarea Curvone.",
+            "en": "Park at the Curvone parking garage."
+          }
+        },
+        {
+          "name": "Cattedrale di Pesaro",
+          "coords": [
+            43.9117,
+            12.9099
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Palast (Walk-Hop).",
+            "hu": "Rövid séta a palotától (gyalogos szakasz).",
+            "ro": "Scurtă plimbare de la palat (mers pe jos).",
+            "en": "Short walk from the palace (walking hop)."
+          }
+        },
+        {
+          "name": "Palla di Pomodoro (Cluster Beach)",
+          "coords": [
+            43.9142,
+            12.9212
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahrt zur Strandpromenade (Car-Hop).",
+            "hu": "Autózás a tengerparti sétányhoz.",
+            "ro": "Conduceți spre faleza mării.",
+            "en": "Drive to the seaside promenade (car hop)."
+          }
+        },
+        {
+          "name": "Villino Ruggeri",
+          "coords": [
+            43.9146,
+            12.9205
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Kugel entfernt (Walk-Hop).",
+            "hu": "Pár lépésre a gömbtől (gyalogos szakasz).",
+            "ro": "La doar câțiva pași de sferă (mers pe jos).",
+            "en": "Just a few steps from the ball (walking hop)."
+          }
+        },
+        {
+          "name": "Gastro - Lungomare",
+          "coords": [
+            43.916,
+            12.925
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frische Meeresfrüchte mit Blick auf die Adria.",
+            "hu": "Friss tenger gyümölcsei kilátással az Adriára.",
+            "ro": "Fructe de mare proaspete cu vedere la Adriatică.",
+            "en": "Fresh seafood with a view of the Adriatic."
+          }
+        },
+        {
+          "name": "Parco San Bartolo (Viewpoint)",
+          "coords": [
+            43.94,
+            12.87
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Panoramafahrt auf der Strada Panoramica.",
+            "hu": "Panorámaút a Strada Panoramicán.",
+            "ro": "Drum panoramic pe Strada Panoramica.",
+            "en": "Panoramic drive on the Strada Panoramica."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kombinieren Sie die Eleganz des Zentrums mit der wilden Schönheit der Küste. Diese Autotour ermöglicht es Ihnen, die historischen Schätze schnell zu besichtigen und dann die beeindruckende Strada Panoramica im Naturpark San Bartolo zu befahren, wo die Klippen steil in die Adria abfallen.",
+        "hu": "Kombinálja a központ eleganciáját a tengerpart vad szépségével. Ez az autós túra lehetővé teszi a történelmi kincsek gyors megtekintését, majd autózást a lenyűgöző Strada Panoramicán a San Bartolo natúrparkban, ahol a sziklák meredeken szakadnak az Adriába.",
+        "ro": "Combinați eleganța centrului cu frumusețea sălbatică a coastei. Acest tur auto vă permite să vedeți rapid comorile istorice și apoi să parcurgeți impresionanta Strada Panoramica din Parcul Natural San Bartolo, unde stâncile cad abrupt în Adriatică.",
+        "en": "Combine the elegance of the center with the wild beauty of the coast. This car tour allows you to see the historic treasures quickly and then drive the stunning Strada Panoramica in the San Bartolo Nature Park, where cliffs drop steeply into the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Lo Scudiero",
+            "tip": "Gehobene Küche in einem historischen Weinkeller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Lo Scudiero",
+            "tip": "Elegáns étterem egy történelmi borospincében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Lo Scudiero",
+            "tip": "Bucătărie rafinată într-o cramă istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Lo Scudiero",
+            "tip": "Fine dining in a historic wine cellar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fiorenzuola di Focara",
+            "tip": "Mittelalterliches Dorf mit Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fiorenzuola di Focara",
+            "tip": "Középkori falu panorámás kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fiorenzuola di Focara",
+            "tip": "Sat medieval cu vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fiorenzuola di Focara",
+            "tip": "Medieval village with panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Iper Rossini",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Iper Rossini",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iper Rossini",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iper Rossini",
+            "tip": "Large shopping mall on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "ZTL-Zonen in der Altstadt beachten – nur in erlaubten Parkhäusern parken.",
+          "Die Panoramastraße nach San Bartolo ist besonders bei Sonnenuntergang schön.",
+          "In der Hochsaison kann die Parkplatzsuche am Meer schwierig sein.",
+          "Nutzen Sie die App 'Phonzie' für die Parkplatzbezahlung."
+        ],
+        "hu": [
+          "Ügyelj a ZTL zónákra – csak engedélyezett parkolóházakban állj meg.",
+          "A San Bartolo panorámaút különösen szép naplementekor.",
+          "Főszezonban a tengerparti parkolás nehézkes lehet.",
+          "Használd a 'Phonzie' appot a parkolás fizetéséhez."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL din centru – parcați doar în garajele permise.",
+          "Drumul panoramic spre San Bartolo este superb la apus.",
+          "În sezon, găsirea unui loc de parcare la mare poate fi dificilă.",
+          "Folosiți aplicația 'Phonzie' pentru plata parcării."
+        ],
+        "en": [
+          "Watch out for ZTL zones in the center – park only in authorized garages.",
+          "The San Bartolo panoramic road is especially beautiful at sunset.",
+          "In high season, finding parking at the seaside can be difficult.",
+          "Use the 'Phonzie' app for parking payments."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza del Popolo (Cluster A)",
+          "coords": [
+            43.9108,
+            12.913
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit dem Bus vom Bahnhof.",
+            "hu": "Központi érkezési pont busszal a vasútállomástól.",
+            "ro": "Punct central de sosire cu autobuzul de la gară.",
+            "en": "Central arrival point by bus from the station."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            43.9111,
+            12.9131
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt am Platz (Walk-Hop).",
+            "hu": "Közvetlenül a téren (gyalogos szakasz).",
+            "ro": "Chiar în piață (mers pe jos).",
+            "en": "Right on the square (walking hop)."
+          }
+        },
+        {
+          "name": "Casa Rossini",
+          "coords": [
+            43.9105,
+            12.9089
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang durch die Gassen (Walk-Hop).",
+            "hu": "Rövid séta a szűk utcákon (gyalogos szakasz).",
+            "ro": "Scurtă plimbare prin străduțe (mers pe jos).",
+            "en": "Short walk through the alleys (walking hop)."
+          }
+        },
+        {
+          "name": "Palla di Pomodoro (Cluster B)",
+          "coords": [
+            43.9142,
+            12.9212
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie AS zum Meer (Transit-Hop).",
+            "hu": "Szállj fel az AS vonalra a tenger felé (tömegközlekedés).",
+            "ro": "Luați linia AS spre mare (transport public).",
+            "en": "Take the AS line to the sea (transit hop)."
+          }
+        },
+        {
+          "name": "Villino Ruggeri",
+          "coords": [
+            43.9146,
+            12.9205
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Befindet sich direkt gegenüber der Kugel (Walk-Hop).",
+            "hu": "Közvetlenül a gömbbel szemben található (gyalogos szakasz).",
+            "ro": "Situată chiar vizavi de sferă (mers pe jos).",
+            "en": "Located right across from the ball (walking hop)."
+          }
+        },
+        {
+          "name": "Baia Flaminia",
+          "coords": [
+            43.923,
+            12.905
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Buslinie 10 verbindet den Strand mit dem Zentrum.",
+            "hu": "A 10-es busz köti össze a strandot a központtal.",
+            "ro": "Linia 10 de autobuz leagă plaja de centru.",
+            "en": "Bus line 10 connects the beach with the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Pesaro, um mühelos zwischen der mittelalterlichen Altstadt und den modernen Strandvierteln zu pendeln. Diese Route führt Sie von den kulturellen Highlights wie dem Palazzo Ducale zu den Entspannungspunkten an der Baia Flaminia, ohne Parkplatzsorgen.",
+        "hu": "Használja ki Pesaro sűrű buszhálózatát, hogy könnyedén ingázzon a középkori óváros és a modern tengerparti negyedek között. Ez az útvonal a Palazzo Ducale kulturális látnivalóitól a Baia Flaminia pihentető partjáig vezet, parkolási gondok nélkül.",
+        "ro": "Profitați de rețeaua densă de autobuze din Pesaro pentru a face naveta fără efort între orașul vechi medieval și cartierele moderne de plajă. Acest traseu vă duce de la punctele culturale precum Palazzo Ducale la momentele de relaxare din Baia Flaminia.",
+        "en": "Take advantage of Pesaro's dense bus network to commute effortlessly between the medieval old town and modern beach districts. This route takes you from cultural highlights like Palazzo Ducale to relaxation points at Baia Flaminia, without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria del Porto",
+            "tip": "Beliebt bei Einheimischen für Pizza am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria del Porto",
+            "tip": "A helyiek kedvenc pizzázója a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria del Porto",
+            "tip": "Preferata localnicilor pentru pizza în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria del Porto",
+            "tip": "A local favorite for pizza by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baia Flaminia Park",
+            "tip": "Ruhiger Park am Fuße des Monte San Bartolo.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baia Flaminia Park",
+            "tip": "Csendes park a Monte San Bartolo lábánál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baia Flaminia Park",
+            "tip": "Parc liniștit la poalele Muntelui San Bartolo.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baia Flaminia Park",
+            "tip": "Quiet park at the foot of Monte San Bartolo.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Lokaler Markt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Piață locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato delle Erbe",
+            "tip": "Local market for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets vorab in Tabakläden (Tabaccheria).",
+          "Die Linien AS und AD bedienen die wichtigsten Punkte für Touristen.",
+          "Sonntags verkehren die Busse seltener.",
+          "Nutzen Sie den Shuttle 'Navetta Mare' im Sommer."
+        ],
+        "hu": [
+          "Vásárolj jegyet előre a dohányboltokban (Tabaccheria).",
+          "Az AS és AD vonalak érintik a turisták számára legfontosabb pontokat.",
+          "Vasárnap ritkábban járnak a buszok.",
+          "Nyáron használd a 'Navetta Mare' ingajáratot."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcurile de ziare sau tutungerii.",
+          "Liniile AS și AD deservesc principalele puncte de interes turistic.",
+          "Duminica autobuzele circulă mai rar.",
+          "Folosiți naveta 'Navetta Mare' în timpul verii."
+        ],
+        "en": [
+          "Buy tickets in advance at tobacco shops (Tabaccheria).",
+          "Lines AS and AD serve the most important points for tourists.",
+          "Buses run less frequently on Sundays.",
+          "Use the 'Navetta Mare' shuttle during summer."
+        ]
+      }
+    }
+  }
+}

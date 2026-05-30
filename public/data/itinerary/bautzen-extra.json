@@ -1,0 +1,1106 @@
+{
+  "city_id": "bautzen-extra",
+  "anchor": {
+    "name": "Bautzen Hauptmarkt",
+    "coords": [
+      14.4241,
+      51.1814
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Reichenturm",
+            "hu": "Reichenturm (Gazdag-torony)",
+            "ro": "Reichenturm",
+            "en": "Reichenturm"
+          },
+          "coords": [
+            14.4278,
+            51.1818
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der schiefe Turm von Bautzen bietet eine tolle Aussicht.",
+            "hu": "Bautzen ferde tornya, nagyszerű panorámával.",
+            "ro": "Turnul înclinat din Bautzen oferă o vedere panoramică excelentă.",
+            "en": "Bautzen's leaning tower offers a great panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptmarkt & Rathaus",
+            "hu": "Főtér és Városháza",
+            "ro": "Piața Principală și Primăria",
+            "en": "Main Market & Town Hall"
+          },
+          "coords": [
+            14.4242,
+            51.1811
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Senfläden direkt am Platz an.",
+            "hu": "Nézze meg a mustárboltokat közvetlenül a téren.",
+            "ro": "Vizitați magazinele de muștar direct în piață.",
+            "en": "Check out the mustard shops right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Petri",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            14.4239,
+            51.1824
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Deutschlands größte Simultankirche (evangelisch & katholisch).",
+            "hu": "Németország legnagyobb szimultán (közös) temploma.",
+            "ro": "Cea mai mare biserică simultană (catolică și protestantă) din Germania.",
+            "en": "Germany's largest simultaneous church (Protestant & Catholic)."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortenburg",
+            "hu": "Ortenburg vára",
+            "ro": "Castelul Ortenburg",
+            "en": "Ortenburg Castle"
+          },
+          "coords": [
+            14.4206,
+            51.1834
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Matthiastor mit dem Reiterstandbild.",
+            "hu": "Nézze meg a Mátyás-kaput a lovasszoborral.",
+            "ro": "Vizitați Poarta lui Matia cu statuia ecvestră.",
+            "en": "Visit the Matthias Gate with the equestrian statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorbische Museum",
+            "hu": "Szorb Múzeum",
+            "ro": "Muzeul Sorb",
+            "en": "Sorbian Museum"
+          },
+          "coords": [
+            14.4208,
+            51.183
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eintauchen in die sorbische Kultur und Sprache.",
+            "hu": "Merüljön el a szorb kultúrában és nyelvben.",
+            "ro": "Descoperiți cultura și limba sorabilor.",
+            "en": "Dive into the Sorbian culture and language."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Wasserkunst",
+            "hu": "Régi Vízmű",
+            "ro": "Vechea Moară de Apă",
+            "en": "Old Waterworks"
+          },
+          "coords": [
+            14.4205,
+            51.1802
+          ],
+          "category": "industrial",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Technisches Denkmal und Wahrzeichen der Stadt.",
+            "hu": "Technikai műemlék és a város jelképe.",
+            "ro": "Monument tehnic și simbol al orașului.",
+            "en": "Technical monument and landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Michaeliskirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            14.4208,
+            51.1804
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Alten Wasserkunst gelegen.",
+            "hu": "Közvetlenül a Régi Vízmű mellett található.",
+            "ro": "Situată chiar lângă Vechea Moară de Apă.",
+            "en": "Located right next to the Old Waterworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke",
+            "hu": "Béke-híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            14.4215,
+            51.1795
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Stadtsilhouette und die Spree.",
+            "hu": "A legjobb kilátás a város sziluettjére és a Spreere.",
+            "ro": "Cea mai bună vedere a siluetei orașului și a râului Spree.",
+            "en": "Best view of the city skyline and the Spree river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bautzen, die Stadt der Türme, empfängt Sie mit einer beeindruckenden mittelalterlichen Silhouette. Der Vormittag steht im Zeichen der Geschichte und der sorbischen Kultur, während der Nachmittag Sie zu den technischen Wundern an der Spree führt. Den Abschluss bildet ein Spaziergang über die Friedensbrücke mit dem ikonischen Postkartenblick.",
+        "hu": "Bautzen, a tornyok városa, lenyűgöző középkori sziluettjével várja Önt. A délelőtt a történelem és a szorb kultúra jegyében telik, míg a délután a Spree-parti technikai csodákhoz vezet. A napot a Béke-hídon tett séta zárja, az ikonikus képeslap-kilátással.",
+        "ro": "Bautzen, orașul turnurilor, vă întâmpină cu o siluetă medievală impresionantă. Dimineața este dedicată istoriei și culturii sorabilor, în timp ce după-amiaza vă conduce la minunile tehnice de pe râul Spree. Ziua se încheie cu o plimbare pe Podul Păcii, oferind acea vedere emblematică de carte poștală.",
+        "en": "Bautzen, the city of towers, welcomes you with an impressive medieval skyline. The morning is dedicated to history and Sorbian culture, while the afternoon leads you to the technical wonders along the Spree. The day concludes with a stroll across the Peace Bridge, featuring the iconic postcard view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bautz'ner Senfladen",
+            "tip": "Probieren Sie verschiedene Senfsorten im Museumsladen."
+          },
+          {
+            "name": "Mönchshof",
+            "tip": "Rustikale Küche im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bautz'ner Senfladen",
+            "tip": "Kóstoljon meg különböző mustárfajtákat a múzeumboltban."
+          },
+          {
+            "name": "Mönchshof",
+            "tip": "Rusztikus konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bautz'ner Senfladen",
+            "tip": "Gustați diverse sortimente de muștar în magazinul muzeului."
+          },
+          {
+            "name": "Mönchshof",
+            "tip": "Bucătărie rustică într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bautz'ner Senfladen",
+            "tip": "Try various mustard varieties in the museum shop."
+          },
+          {
+            "name": "Mönchshof",
+            "tip": "Rustic cuisine in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spreeufer",
+            "tip": "Ruhiger Spaziergang direkt am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spree-part",
+            "tip": "Csendes séta közvetlenül a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Spree",
+            "tip": "O plimbare liniștită chiar lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spree bank",
+            "tip": "Quiet stroll directly along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sorbische Ostereier",
+            "tip": "Handgefertigte Kunstwerke im Museumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szorb hímes tojások",
+            "tip": "Kézzel készített műalkotások a múzeumi boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ouă de Paște sorabe",
+            "tip": "Opere de artă lucrate manual în magazinul muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sorbian Easter eggs",
+            "tip": "Handcrafted artworks in the museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Achten Sie auf die zweisprachigen Straßenschilder (Deutsch/Sorbisch).",
+          "Kaufen Sie den berühmten Bautz'ner Senf als Mitbringsel."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, kiválóan felfedezhető gyalog.",
+          "Figyelje a kétnyelvű utcatáblákat (német/szorb).",
+          "Vásároljon híres bautzeni mustárt ajándékba."
+        ],
+        "ro": [
+          "Orașul vechi este foarte compact și poate fi explorat excelent pe jos.",
+          "Fiți atenți la indicatoarele stradale bilingve (germană/sorabă).",
+          "Cumpărați faimosul muștar de Bautzen ca suvenir."
+        ],
+        "en": [
+          "The old town is very compact and can be explored perfectly on foot.",
+          "Look out for the bilingual street signs (German/Sorbian).",
+          "Buy the famous Bautzen mustard as a souvenir."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Reichenturm",
+            "hu": "Reichenturm",
+            "ro": "Reichenturm",
+            "en": "Reichenturm"
+          },
+          "coords": [
+            14.4278,
+            51.1818
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Indulópont a központban.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Petri",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            14.4239,
+            51.1824
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am beeindruckenden Dom.",
+            "hu": "Rövid megálló a lenyűgöző dómnál.",
+            "ro": "Scurtă oprire la catedrala impresionantă.",
+            "en": "Short stop at the impressive cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke",
+            "hu": "Béke-híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            14.4215,
+            51.1795
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotostopp auf dem Weg aus der Stadt.",
+            "hu": "Fotómegálló a városból kifelé menet.",
+            "ro": "Oprire pentru fotografii la ieșirea din oraș.",
+            "en": "Photo stop on the way out of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Talsperre Bautzen",
+            "hu": "Bautzeni víztározó",
+            "ro": "Barajul Bautzen",
+            "en": "Bautzen Reservoir"
+          },
+          "coords": [
+            14.445,
+            51.21
+          ],
+          "category": "lake",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause am Wasser.",
+            "hu": "Tökéletes egy pihenőhöz a víznél.",
+            "ro": "Perfect pentru o pauză lângă apă.",
+            "en": "Perfect for a break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaurierpark Kleinwelka",
+            "hu": "Kleinwelka dinoszaurusz park",
+            "ro": "Parcul de dinozauri Kleinwelka",
+            "en": "Dinosaur Park Kleinwelka"
+          },
+          "coords": [
+            14.385,
+            51.21
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Deutschlands größter Saurierpark.",
+            "hu": "Németország legnagyobb dínóparkja.",
+            "ro": "Cel mai mare parc de dinozauri din Germania.",
+            "en": "Germany's largest dinosaur park."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortenburg",
+            "hu": "Ortenburg vára",
+            "ro": "Castelul Ortenburg",
+            "en": "Ortenburg Castle"
+          },
+          "coords": [
+            14.4206,
+            51.1834
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Zurück in der Altstadt.",
+            "hu": "Vissza az óvárosba.",
+            "ro": "Înapoi în orașul vechi.",
+            "en": "Back in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert den mittelalterlichen Charme von Bautzen mit der Natur der Umgebung. Nach einer Erkundung der Türme radeln Sie zur Talsperre und zum berühmten Saurierpark in Kleinwelka, bevor Sie über ruhige Wege zurückkehren.",
+        "hu": "Ez a kerékpártúra ötvözi Bautzen középkori báját a környék természetével. A tornyok felfedezése után a víztározóhoz és a híres Kleinwelka dínóparkhoz teker, majd csendes utakon tér vissza.",
+        "ro": "Acest tur cu bicicleta combină farmecul medieval al orașului Bautzen cu natura din împrejurimi. După explorarea turnurilor, pedalați spre baraj și faimosul parc de dinozauri din Kleinwelka, înainte de a reveni pe drumuri liniștite.",
+        "en": "This bike tour combines Bautzen's medieval charm with the surrounding nature. After exploring the towers, you cycle to the reservoir and the famous Dinosaur Park in Kleinwelka before returning via quiet paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ocean Beach Bar",
+            "tip": "Entspannte Atmosphäre an der Talsperre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ocean Beach Bar",
+            "tip": "Laza hangulat a víztározónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ocean Beach Bar",
+            "tip": "Atmosferă relaxată la baraj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ocean Beach Bar",
+            "tip": "Relaxed atmosphere at the reservoir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talsperre Rundweg",
+            "tip": "Natur pur am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Víztározó körút",
+            "tip": "Tiszta természet a víznél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul din jurul barajului",
+            "tip": "Natură pură lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reservoir circuit",
+            "tip": "Pure nature by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dino-Souvenirs",
+            "tip": "In Kleinwelka für kleine Entdecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dínó-szuvenírek",
+            "tip": "Kleinwelkában a kis felfedezőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri cu dinozauri",
+            "tip": "În Kleinwelka pentru mici exploratori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dino souvenirs",
+            "tip": "In Kleinwelka for small explorers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege um die Talsperre sind flach und gut ausgebaut.",
+          "In der Altstadt gibt es viel Kopfsteinpflaster, schieben ist oft besser.",
+          "Ein Schloss für die Räder ist am Saurierpark Pflicht."
+        ],
+        "hu": [
+          "A víztározó körüli utak síkak és jól kiépítettek.",
+          "Az óvárosban sok a macskakő, gyakran jobb tolni a biciklit.",
+          "A dínóparknál kötelező a biciklizár."
+        ],
+        "ro": [
+          "Drumurile din jurul barajului sunt plate și bine amenajate.",
+          "În orașul vechi sunt multe pavaje cu piatră cubică, mersul pe lângă bicicletă e adesea mai bun.",
+          "Un lacăt pentru biciclete este obligatoriu la parcul de dinozauri."
+        ],
+        "en": [
+          "The paths around the reservoir are flat and well-developed.",
+          "The old town has many cobblestones, pushing is often better.",
+          "A bike lock is mandatory at the Dinosaur Park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Reichenturm (Cluster Altstadt)",
+            "hu": "Reichenturm (Óváros klaszter)",
+            "ro": "Reichenturm (Clusterul orașului vechi)",
+            "en": "Reichenturm (Old Town Cluster)"
+          },
+          "coords": [
+            14.4278,
+            51.1818
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Krone-Parkplatz.",
+            "hu": "Parkoljon a Krone parkolóban.",
+            "ro": "Parcați la parcarea Krone.",
+            "en": "Park at the Krone parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Petri",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            14.4239,
+            51.1824
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalog elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortenburg",
+            "hu": "Ortenburg",
+            "ro": "Castelul Ortenburg",
+            "en": "Ortenburg Castle"
+          },
+          "coords": [
+            14.4206,
+            51.1834
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschluss des Altstadt-Clusters.",
+            "hu": "Az óvárosi klaszter zárása.",
+            "ro": "Finalul clusterului orașului vechi.",
+            "en": "End of the old town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinosaurierpark Kleinwelka",
+            "hu": "Saurierpark Kleinwelka",
+            "ro": "Parcul de dinozauri Kleinwelka",
+            "en": "Dinosaur Park Kleinwelka"
+          },
+          "coords": [
+            14.385,
+            51.21
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahrt zum nächsten Cluster.",
+            "hu": "Utazás a következő klaszterhez.",
+            "ro": "Conduceți spre următorul cluster.",
+            "en": "Drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Irrgarten Kleinwelka",
+            "hu": "Kleinwelkai útvesztő",
+            "ro": "Labirintul Kleinwelka",
+            "en": "Kleinwelka Maze"
+          },
+          "coords": [
+            14.386,
+            51.2105
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Saurierpark (zu Fuß).",
+            "hu": "Közvetlenül a dínópark mellett (gyalog).",
+            "ro": "Chiar lângă parcul de dinozauri (pe jos).",
+            "en": "Right next to the Dinosaur Park (on foot)."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedenkstätte Bautzen",
+            "hu": "Bautzeni Emlékhely",
+            "ro": "Memorialul Bautzen",
+            "en": "Bautzen Memorial"
+          },
+          "coords": [
+            14.4375,
+            51.1755
+          ],
+          "category": "museum",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahrt zurück in die Stadt (Bautzen II).",
+            "hu": "Utazás vissza a városba (Bautzen II).",
+            "ro": "Conduceți înapoi în oraș (Bautzen II).",
+            "en": "Drive back to town (Bautzen II)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Bautzen effizient in Clustern. Zuerst die historische Altstadt zu Fuß, dann ein Ausflug in den Norden zum Saurierpark Kleinwelka. Zum Abschluss besuchen Sie die bewegende Gedenkstätte im Stadtgebiet.",
+        "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Bautzent. Először a történelmi óvárost gyalog, majd egy kirándulás északra, a Kleinwelka dínóparkba. Végül látogasson el a megrendítő városi emlékhelyre.",
+        "ro": "Cu mașina, explorați Bautzen eficient în clustere. Mai întâi orașul vechi istoric pe jos, apoi o excursie în nord la parcul de dinozauri Kleinwelka. La final, vizitați memorialul emoționant din oraș.",
+        "en": "By car, you explore Bautzen efficiently in clusters. First, the historical old town on foot, then a trip north to the Dinosaur Park Kleinwelka. Finally, visit the moving memorial in the city area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Senfrestaurant",
+            "tip": "Spezialitäten rund um den Bautz'ner Senf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Senfrestaurant",
+            "tip": "Specialitások a bautzeni mustár köré építve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Senfrestaurant",
+            "tip": "Specialități pe bază de muștar de Bautzen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Senfrestaurant",
+            "tip": "Specialties centered around Bautzen mustard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schützenplatz",
+            "tip": "Ruhiger Parkplatz und Grünanlage.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schützenplatz",
+            "tip": "Csendes parkoló és zöldövezet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schützenplatz",
+            "tip": "Parcare liniștită și zonă verde.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schützenplatz",
+            "tip": "Quiet parking area and green space.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kornmarkt-Center",
+            "tip": "Modernes Shopping-Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kornmarkt-Center",
+            "tip": "Modern vásárlási élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kornmarkt-Center",
+            "tip": "Experiență modernă de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kornmarkt-Center",
+            "tip": "Modern shopping experience."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die zentralen Parkplätze, die Altstadt ist weitgehend autofrei.",
+          "Planen Sie für den Saurierpark genug Zeit ein, wenn Kinder dabei sind.",
+          "Achten Sie auf Einbahnstraßen in der Nähe des Doms."
+        ],
+        "hu": [
+          "Használja a központi parkolókat, az óváros nagyrészt autómentes.",
+          "Szánjon elég időt a dínóparkra, ha gyerekekkel van.",
+          "Figyeljen az egyirányú utcákra a dóm közelében."
+        ],
+        "ro": [
+          "Utilizați parcările centrale, orașul vechi este în mare parte pietonal.",
+          "Alocați suficient timp pentru parcul de dinozauri dacă sunteți cu copii.",
+          "Atenție la străzile cu sens unic din apropierea catedralei."
+        ],
+        "en": [
+          "Use central parking lots; the old town is largely car-free.",
+          "Allow enough time for the Dinosaur Park if you're with kids.",
+          "Watch out for one-way streets near the cathedral."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Bautzen",
+            "hu": "Bautzeni vasútállomás",
+            "ro": "Gara Bautzen",
+            "en": "Bautzen Station"
+          },
+          "coords": [
+            14.43,
+            51.174
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Reisende.",
+            "hu": "Indulópont az utazóknak.",
+            "ro": "Punct de plecare pentru călători.",
+            "en": "Starting point for travelers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornmarkt",
+            "hu": "Kornmarkt",
+            "ro": "Kornmarkt",
+            "en": "Kornmarkt"
+          },
+          "coords": [
+            14.4275,
+            51.181
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Busfahrt vom Bahnhof ins Zentrum.",
+            "hu": "Buszozás az állomástól a központba.",
+            "ro": "Călătorie cu autobuzul de la gară la centru.",
+            "en": "Bus ride from the station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichenturm",
+            "hu": "Reichenturm",
+            "ro": "Reichenturm",
+            "en": "Reichenturm"
+          },
+          "coords": [
+            14.4278,
+            51.1818
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt am Kornmarkt gelegen (zu Fuß).",
+            "hu": "Közvetlenül a Kornmarktnál (gyalog).",
+            "ro": "Situat chiar la Kornmarkt (pe jos).",
+            "en": "Located right at Kornmarkt (on foot)."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Petri",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "St. Peter's Cathedral"
+          },
+          "coords": [
+            14.4239,
+            51.1824
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Altstadt.",
+            "hu": "Séta az óvároson keresztül.",
+            "ro": "Plimbare prin orașul vechi.",
+            "en": "Stroll through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleinwelka (Saurierpark)",
+            "hu": "Kleinwelka (Dínópark)",
+            "ro": "Kleinwelka (Parcul de dinozauri)",
+            "en": "Kleinwelka (Dinosaur Park)"
+          },
+          "coords": [
+            14.385,
+            51.21
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Buslinie 103/104 ab Lauengraben.",
+            "hu": "103/104-es busz a Lauengrabentől.",
+            "ro": "Linia de autobuz 103/104 de la Lauengraben.",
+            "en": "Bus line 103/104 from Lauengraben."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptmarkt",
+            "hu": "Főtér",
+            "ro": "Piața Principală",
+            "en": "Main Market"
+          },
+          "coords": [
+            14.4242,
+            51.1811
+          ],
+          "category": "square",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Zurück im Herzen der Stadt.",
+            "hu": "Vissza a város szívébe.",
+            "ro": "Înapoi în inima orașului.",
+            "en": "Back in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bautzen lässt sich gut mit Bus und Bahn entdecken. Vom Bahnhof geht es ins historische Zentrum, wo die wichtigsten Sights fußläufig beieinander liegen. Ein Regionalbus bringt Sie bequem zum Saurierpark Kleinwelka und zurück.",
+        "hu": "Bautzen jól felfedezhető busszal és vonattal. Az állomástól a történelmi központba megyünk, ahol a legfontosabb látnivalók gyalogosan is közel vannak. Egy helyközi busz kényelmesen elviszi a Kleinwelka dínóparkba és vissza.",
+        "ro": "Bautzen poate fi descoperit ușor cu autobuzul și trenul. De la gară mergem spre centrul istoric, unde principalele obiective turistice sunt la distanță de mers pe jos. Un autobuz regional vă duce confortabil la parcul de dinozauri Kleinwelka și înapoi.",
+        "en": "Bautzen is easy to discover by bus and train. From the station, you head to the historical center, where the main sights are within walking distance. A regional bus takes you comfortably to the Dinosaur Park Kleinwelka and back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäcker am Kornmarkt",
+            "tip": "Schneller Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a Kornmarkton",
+            "tip": "Gyors snack két megálló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria de la Kornmarkt",
+            "tip": "O gustare rapidă între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at Kornmarkt",
+            "tip": "Quick snack between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wartehalle Bahnhof",
+            "tip": "Modernisiertes Empfangsgebäude.",
+            "emoji": "🚉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási váróterem",
+            "tip": "Modernizált fogadóépület.",
+            "emoji": "🚉"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sala de așteptare din gară",
+            "tip": "Clădire de recepție modernizată.",
+            "emoji": "🚉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station waiting hall",
+            "tip": "Modernized reception building.",
+            "emoji": "🚉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbuchhandlung",
+            "tip": "Lokale Zeitschriften und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási könyvesbolt",
+            "tip": "Helyi újságok és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din gară",
+            "tip": "Reviste și hărți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station bookstore",
+            "tip": "Local magazines and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VVO-App für Echtzeit-Fahrpläne.",
+          "Die Busse nach Kleinwelka fahren regelmäßig, aber seltener am Wochenende.",
+          "Vom Bahnhof ins Zentrum sind es ca. 15 Minuten zu Fuß, falls Sie den Bus verpassen."
+        ],
+        "hu": [
+          "Használja a VVO-alkalmazást a valós idejű menetrendekhez.",
+          "A buszok Kleinwelkába rendszeresen járnak, de hétvégén ritkábban.",
+          "Az állomástól a központig kb. 15 perc gyalog, ha lekési a buszt."
+        ],
+        "ro": [
+          "Utilizați aplicația VVO pentru orare în timp real.",
+          "Autobuzele spre Kleinwelka circulă regulat, dar mai rar în weekend.",
+          "De la gară la centru sunt aproximativ 15 minute de mers pe jos, în caz că pierdeți autobuzul."
+        ],
+        "en": [
+          "Use the VVO app for real-time schedules.",
+          "Buses to Kleinwelka run regularly but less frequently on weekends.",
+          "It's a 15-minute walk from the station to the center if you miss the bus."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1204 @@
+{
+  "city_id": "france-lyon-cities-v2",
+  "anchor": {
+    "name": "Place Bellecour",
+    "coords": [
+      4.8322,
+      45.7578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Bellecour",
+            "hu": "Place Bellecour",
+            "ro": "Place Bellecour",
+            "en": "Place Bellecour"
+          },
+          "coords": [
+            4.8322,
+            45.7578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Suchen Sie die Reiterstatue von Ludwig XIV. in der Mitte des Platzes.",
+            "hu": "Keresd meg XIV. Lajos lovasszobrát a tér közepén.",
+            "ro": "Căutați statuia ecvestră a lui Ludovic al XIV-lea în centrul pieței.",
+            "en": "Look for the equestrian statue of Louis XIV in the center of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean-Baptiste",
+            "hu": "Szent János-társszékesegyház",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "Cathédrale Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.8276,
+            45.7606
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die astronomische Uhr im Inneren ist ein Meisterwerk des 14. Jahrhunderts.",
+            "hu": "A belső térben található csillagászati óra 14. századi mestermű.",
+            "ro": "Ceasul astronomic din interior este o capodoperă a secolului al XIV-lea.",
+            "en": "The astronomical clock inside is a 14th-century masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Lyon (Altstadt)",
+            "hu": "Vieux Lyon (Óváros)",
+            "ro": "Vieux Lyon (Orașul Vechi)",
+            "en": "Vieux Lyon (Old Town)"
+          },
+          "coords": [
+            4.8272,
+            45.7624
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die 'Traboules', versteckte Durchgänge zwischen den Straßen.",
+            "hu": "Fedezd fel a 'traboule'-okat, az utcák közötti rejtett átjárókat.",
+            "ro": "Descoperiți „traboules”, pasaje ascunse între străzi.",
+            "en": "Explore the 'traboules', hidden passageways between streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Notre-Dame de Fourvière",
+            "hu": "Notre-Dame de Fourvière bazilika",
+            "ro": "Basilica Notre-Dame de Fourvière",
+            "en": "Basilique Notre-Dame de Fourvière"
+          },
+          "coords": [
+            4.8226,
+            45.7622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn (Funiculaire), um den steilen Aufstieg zu vermeiden.",
+            "hu": "Használd a siklót (Funiculaire), hogy elkerüld a meredek emelkedőt.",
+            "ro": "Luați funicularul pentru a evita urcarea abruptă.",
+            "en": "Take the funicular to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater von Lyon",
+            "hu": "Lugdunum ókori színháza",
+            "ro": "Teatrul Antic din Lyon",
+            "en": "Théâtre Antique de Lyon"
+          },
+          "coords": [
+            4.8202,
+            45.7597
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Akustik ist auch nach 2000 Jahren noch beeindruckend.",
+            "hu": "Az akusztika még 2000 év után is lenyűgöző.",
+            "ro": "Acustica este încă impresionantă după 2000 de ani.",
+            "en": "The acoustics are still impressive after 2000 years."
+          }
+        },
+        {
+          "name": {
+            "de": "Mur des Canuts",
+            "hu": "Mur des Canuts (Falfestmény)",
+            "ro": "Mur des Canuts",
+            "en": "Mur des Canuts"
+          },
+          "coords": [
+            4.8335,
+            45.7772
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses riesige Trompe-l'œil verändert sich alle paar Jahre.",
+            "hu": "Ez az óriási falfestmény néhány évente megújul.",
+            "ro": "Această pictură murală gigantică se schimbă la câțiva ani.",
+            "en": "This giant trompe-l'œil mural is updated every few years."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt auf dem majestätischen Place Bellecour, bevor Sie die Saône überqueren, um die gotische Kathedrale zu bewundern. Mittags tauchen Sie in die Renaissance-Gassen von Vieux Lyon ein, wo Sie traditionelle Bouchons finden. Am Nachmittag erklimmen Sie den Fourvière-Hügel für die prunkvolle Basilika und das römische Erbe. Der Tag endet im Künstlerviertel Croix-Rousse mit seinen beeindruckenden Wandgemälden.",
+        "hu": "Kezdje a napot a város szívében, a fenséges Place Bellecour téren, majd keljen át a Saône folyón a gótikus katedrálishoz. Ebédidőben merüljön el Vieux Lyon reneszánsz utcáiban és rejtett átjáróiban. Délután hódítsa meg a Fourvière-dombot a bazilika és a római színház miatt. A napot a Croix-Rousse negyedben zárjuk, ahol megcsodálhatjuk a híres selyemszövők emlékét őrző óriási falfestményt.",
+        "ro": "Începeți ziua în inima orașului, în maiestuoasa Place Bellecour, apoi traversați râul Saône pentru a admira catedrala gotică. La prânz, pierdeți-vă pe străzile renascentiste din Vieux Lyon și descoperiți pasajele traboules. După-amiaza, urcați dealul Fourvière pentru basilică și teatrul roman. Ziua se încheie în cartierul Croix-Rousse, admirând pictura murală monumentală a țesătorilor de mătase.",
+        "en": "Start your day in the heart of the city at the majestic Place Bellecour, then cross the Saône to admire the Gothic cathedral. At midday, immerse yourself in the Renaissance streets and hidden traboules of Vieux Lyon. In the afternoon, conquer the Fourvière hill to visit the basilica and the ancient Roman theatre. End your day in the Croix-Rousse district, marveling at the giant Mur des Canuts mural."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bouchon Lyonnais",
+            "tip": "Probieren Sie Quenelle de Brochet in einem zertifizierten Restaurant."
+          },
+          {
+            "name": "Praline Rose",
+            "tip": "Ein rosa Mandelkuchen, typisch für die Bäckereien der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouchon Lyonnais",
+            "tip": "Kóstolja meg a Quenelle de Brochet-t (csuka gombóc) egy hagyományos kisvendéglőben."
+          },
+          {
+            "name": "Praline Rose",
+            "tip": "Rózsaszín mandulás sütemény, a város cukrászdáinak büszkesége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouchon Lyonnais",
+            "tip": "Încercați Quenelle de Brochet într-un restaurant tradițional certificat."
+          },
+          {
+            "name": "Praline Rose",
+            "tip": "O prăjitură roz cu migdale, tipică pentru patiseriile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouchon Lyonnais",
+            "tip": "Try Quenelle de Brochet in a certified traditional restaurant."
+          },
+          {
+            "name": "Praline Rose",
+            "tip": "A pink almond tart, iconic to the city's bakeries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Rosaire",
+            "tip": "Ein friedlicher Garten am Hang von Fourvière.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Esplanade de Fourvière",
+            "tip": "Bester Panoramablick über die gesamte Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Rosaire",
+            "tip": "Békés kert a Fourvière-domb oldalában.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Esplanade de Fourvière",
+            "tip": "A legjobb panoráma az egész városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Rosaire",
+            "tip": "O grădină liniștită pe versantul dealului Fourvière.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Esplanade de Fourvière",
+            "tip": "Cea mai bună vedere panoramică asupra întregului oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Rosaire",
+            "tip": "A peaceful garden on the slopes of Fourvière hill.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Esplanade de Fourvière",
+            "tip": "The best panoramic view over the entire city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "Der ultimative Ort für Feinschmecker."
+          },
+          {
+            "name": "Rue de la République",
+            "tip": "Die Haupteinkaufsstraße für große Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "A gasztronómia fellegvára, prémium helyi termékekkel."
+          },
+          {
+            "name": "Rue de la République",
+            "tip": "A fő bevásárlóutca a nagy márkák kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "Locul suprem pentru gurmanzi."
+          },
+          {
+            "name": "Rue de la République",
+            "tip": "Principala stradă comercială pentru marile branduri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "tip": "The ultimate indoor market for foodies."
+          },
+          {
+            "name": "Rue de la République",
+            "tip": "The main pedestrian shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Lyon City Card für unbegrenzten Nahverkehr und Museumseintritte.",
+          "Die Traboules in Vieux Lyon sind oft morgens am besten zugänglich.",
+          "Nutzen Sie die Velo'v Leihräder für Fahrten entlang der Rhone.",
+          "Trinkgeld ist in Frankreich enthalten, aber ein kleiner Euro wird geschätzt."
+        ],
+        "hu": [
+          "Vásároljon Lyon City Card-ot a korlátlan közlekedéshez és múzeumi belépőkhöz.",
+          "A Vieux Lyon rejtett átjárói (traboules) délelőtt a legkönnyebben látogathatók.",
+          "Használja a Velo'v közösségi bicikliket a folyóparti tekeréshez.",
+          "A borravaló benne van az árban, de pár apró eurót illik hagyni az asztalon."
+        ],
+        "ro": [
+          "Cumpărați Lyon City Card pentru transport nelimitat și intrări la muzee.",
+          "Pasajele traboules din Vieux Lyon sunt mai accesibile dimineața.",
+          "Utilizați bicicletele Velo'v pentru plimbări de-a lungul râului Rhone.",
+          "Bacșișul este inclus în preț, dar un mic supliment este întotdeauna apreciat."
+        ],
+        "en": [
+          "Get a Lyon City Card for unlimited transit and free museum access.",
+          "The traboules in Vieux Lyon are most accessible during the morning hours.",
+          "Use the Velo'v bike-sharing system for easy rides along the river banks.",
+          "Tipping is included in the bill, but leaving a few euros is a nice gesture."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de la Tête d'Or",
+            "hu": "Parc de la Tête d'Or",
+            "ro": "Parcul Tête d'Or",
+            "en": "Parc de la Tête d'Or"
+          },
+          "coords": [
+            4.8592,
+            45.7792
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für eine erste Runde um den See.",
+            "hu": "Tökéletes egy körre a tó körül.",
+            "ro": "Ideal pentru o primă tură în jurul lacului.",
+            "en": "Perfect for a first loop around the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Mur des Canuts",
+            "hu": "Mur des Canuts",
+            "ro": "Mur des Canuts",
+            "en": "Mur des Canuts"
+          },
+          "coords": [
+            4.8335,
+            45.7772
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg nach Croix-Rousse ist sportlich, aber lohnenswert.",
+            "hu": "A kaptató a Croix-Rousse-ra sportos, de megéri.",
+            "ro": "Urcarea spre Croix-Rousse este sportivă, dar merită.",
+            "en": "The climb to Croix-Rousse is sporty but rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Lyon",
+            "hu": "Vieux Lyon",
+            "ro": "Vieux Lyon",
+            "en": "Vieux Lyon"
+          },
+          "coords": [
+            4.8272,
+            45.7624
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher ab, bevor Sie die Gassen zu Fuß erkunden.",
+            "hu": "Zárd le biztonságosan a biciklit, mielőtt gyalog indulsz a sikátorokba.",
+            "ro": "Încuiați bine bicicleta înainte de a explora străzile pe jos.",
+            "en": "Lock your bike securely before exploring the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Jean",
+            "hu": "Szent János katedrális",
+            "ro": "Catedrala Sf. Ioan",
+            "en": "Cathédrale Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.8276,
+            45.7606
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade direkt vom Platz aus.",
+            "hu": "Csodáld meg a homlokzatot közvetlenül a térről.",
+            "ro": "Admirați fațada direct din piață.",
+            "en": "Admire the facade directly from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Bellecour",
+            "hu": "Place Bellecour",
+            "ro": "Place Bellecour",
+            "en": "Place Bellecour"
+          },
+          "coords": [
+            4.8322,
+            45.7578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für alle Radtouren.",
+            "hu": "Központi találkozóhely minden biciklitúrához.",
+            "ro": "Punct central de întâlnire pentru toate tururile pe bicicletă.",
+            "en": "Central meeting point for all bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Confluences",
+            "hu": "Confluences Múzeum",
+            "ro": "Muzeul Confluences",
+            "en": "Musée des Confluences"
+          },
+          "coords": [
+            4.8182,
+            45.7326
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Architektur des Gebäudes ist so futuristisch wie die Exponate.",
+            "hu": "Az épület építészete olyan futurisztikus, mint a kiállítások.",
+            "ro": "Arhitectura clădirii este la fel de futuristă ca exponatele.",
+            "en": "The building's architecture is as futuristic as the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Saône-Ufer Promenade",
+            "hu": "Saône-parti sétány",
+            "ro": "Promenada pe malul Saône",
+            "en": "Saône River Banks"
+          },
+          "coords": [
+            4.826,
+            45.745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Abendsonne am Flussufer.",
+            "hu": "Élvezd az esti napsütést a folyóparton.",
+            "ro": "Bucurați-vă de soarele serii pe malul râului.",
+            "en": "Enjoy the evening sun along the river banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Lyon auf zwei Rädern, beginnend im grünen Parc de la Tête d'Or. Nach einem Anstieg zur Croix-Rousse fahren Sie entspannt hinunter nach Vieux Lyon. Der Nachmittag gehört dem modernen Confluence-Viertel, bevor Sie den Tag an den malerischen Ufern der Saône ausklingen lassen.",
+        "hu": "Fedezze fel Lyont két keréken, a zöldellő Parc de la Tête d'Or parkból indulva. A Croix-Rousse dombja után guruljon le az óvárosba. A délután a modern Confluence negyedé, majd a napot a Saône festői partján zárjuk egy kellemes tekeréssel.",
+        "ro": "Descoperiți Lyonul pe două roți, începând din parcul Tête d'Or. După o urcare spre Croix-Rousse, coborâți relaxat spre Vieux Lyon. După-amiaza aparține cartierului modern Confluence, înainte de a încheia ziua pe malurile pitorești ale Saône.",
+        "en": "Discover Lyon on two wheels, starting from the lush Tête d'Or Park. After a climb to Croix-Rousse, glide down to the Old Town. The afternoon is dedicated to the modern Confluence district, finishing with a scenic ride along the Saône river banks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Lyon",
+            "tip": "Holen Sie sich ein Picknick für den Park."
+          },
+          {
+            "name": "Barge Cafés",
+            "tip": "Trinken Sie einen Kaffee auf einem der Rhone-Schiffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Lyon",
+            "tip": "Vásároljon be egy piknikhez a parkban."
+          },
+          {
+            "name": "Hajós kávézók",
+            "tip": "Igyon egy kávét a Rhône folyón horgonyzó hajók egyikén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Lyon",
+            "tip": "Luați provizii pentru un picnic în parc."
+          },
+          {
+            "name": "Cafenele pe barjă",
+            "tip": "Beți o cafea pe una dintre navele de pe Rhône."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Lyon",
+            "tip": "Pick up supplies for a picnic in the park."
+          },
+          {
+            "name": "Barge Cafés",
+            "tip": "Have a coffee on one of the boats moored on the Rhône."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Île Barbe",
+            "tip": "Eine versteckte Insel im Norden für totale Ruhe.",
+            "emoji": "🏝️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Île Barbe",
+            "tip": "Rejtett sziget északon a teljes nyugalomért.",
+            "emoji": "🏝️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Île Barbe",
+            "tip": "O insulă ascunsă în nord pentru liniște totală.",
+            "emoji": "🏝️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Île Barbe",
+            "tip": "A hidden island in the north for total peace.",
+            "emoji": "🏝️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo'v Stationen",
+            "tip": "Mieten Sie ein Fahrrad an fast jeder Ecke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo'v állomások",
+            "tip": "Béreljen biciklit szinte minden sarkon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații Velo'v",
+            "tip": "Închiriați o bicicletă la aproape orice colț."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo'v stations",
+            "tip": "Rent a bike at almost any street corner."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege an beiden Flüssen.",
+          "In der Innenstadt gibt es viele Einbahnstraßen, die für Radfahrer offen sind."
+        ],
+        "hu": [
+          "Használja a mindkét folyó mentén kijelölt kerékpárutakat.",
+          "A belvárosban sok egyirányú utca nyitva van a biciklisek előtt mindkét irányban."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate de-a lungul ambelor râuri.",
+          "În centrul orașului există multe străzi cu sens unic deschise bicicliștilor."
+        ],
+        "en": [
+          "Use the dedicated bike paths along both rivers.",
+          "Many one-way streets in the center are open to cyclists in both directions."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Fourvière (Cluster A)",
+            "hu": "Fourvière bazilika (A klaszter)",
+            "ro": "Basilica Fourvière (Cluster A)",
+            "en": "Fourvière Basilica (Cluster A)"
+          },
+          "coords": [
+            4.8226,
+            45.7622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie direkt oben auf dem Hügel.",
+            "hu": "Parkolj közvetlenül fent a dombtetőn.",
+            "ro": "Parcați chiar sus pe deal.",
+            "en": "Park directly at the top of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Antique (Cluster A)",
+            "hu": "Ókori színház (A klaszter)",
+            "ro": "Teatrul Antic (Cluster A)",
+            "en": "Ancient Theatre (Cluster A)"
+          },
+          "coords": [
+            4.8202,
+            45.7597
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Basilika.",
+            "hu": "Rövid séta a bazilikától.",
+            "ro": "Scurtă plimbare de la basilică.",
+            "en": "Short walk from the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Lyon (Cluster B)",
+            "hu": "Óváros (B klaszter)",
+            "ro": "Vieux Lyon (Cluster B)",
+            "en": "Vieux Lyon (Cluster B)"
+          },
+          "coords": [
+            4.8272,
+            45.7624
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Saint-Georges'.",
+            "hu": "Használd a 'Saint-Georges' parkolóházat.",
+            "ro": "Utilizați parcarea subterană 'Saint-Georges'.",
+            "en": "Use the 'Saint-Georges' underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Jean (Cluster B)",
+            "hu": "Szent János katedrális (B klaszter)",
+            "ro": "Catedrala Sf. Ioan (Cluster B)",
+            "en": "St. John Cathedral (Cluster B)"
+          },
+          "coords": [
+            4.8276,
+            45.7606
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mitten im Herzen des alten Viertels.",
+            "hu": "Az óvárosi negyed szívében.",
+            "ro": "În inima cartierului vechi.",
+            "en": "In the heart of the old district."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Confluences (Cluster C)",
+            "hu": "Confluences Múzeum (C klaszter)",
+            "ro": "Muzeul Confluences (Cluster C)",
+            "en": "Musée des Confluences (Cluster C)"
+          },
+          "coords": [
+            4.8182,
+            45.7326
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Einfacher Zugang von der Autobahn A7.",
+            "hu": "Könnyen megközelíthető az A7-es autópályáról.",
+            "ro": "Acces ușor de pe autostrada A7.",
+            "en": "Easy access from the A7 motorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Tête d'Or",
+            "hu": "Parc de la Tête d'Or",
+            "ro": "Parcul Tête d'Or",
+            "en": "Parc de la Tête d'Or"
+          },
+          "coords": [
+            4.8592,
+            45.7792
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Eingang 'Porte des Enfants du Rhône'.",
+            "hu": "Nagy parkoló a 'Porte des Enfants du Rhône' bejáratnál.",
+            "ro": "Parcare mare la intrarea 'Porte des Enfants du Rhône'.",
+            "en": "Large parking area at the 'Porte des Enfants du Rhône' entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss am Place Bellecour",
+            "hu": "Búcsú a Place Bellecour-on",
+            "ro": "Final în Place Bellecour",
+            "en": "Farewell at Place Bellecour"
+          },
+          "coords": [
+            4.8322,
+            45.7578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Abendessen in der Nähe.",
+            "hu": "Tökéletes hely egy közeli vacsorához.",
+            "ro": "Locul perfect pentru o cină în apropiere.",
+            "en": "Perfect spot for dinner nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt das Auto, um die drei Haupt-Cluster der Stadt effizient zu verbinden: Den historischen Fourvière-Hügel, die Renaissance-Altstadt und das ultramoderne Confluence-Viertel. Zwischen den Sehenswürdigkeiten erkunden Sie die Viertel bequem zu Fuß.",
+        "hu": "Ez a túra az autót használja Lyon három fő területének összekötésére: a történelmi Fourvière-dombot, a reneszánsz óvárost és az ultramodern Confluence negyedet. A látnivalók között kényelmes sétával fedezhetjük fel a környező utcákat.",
+        "ro": "Acest tur folosește mașina pentru a conecta eficient cele trei zone principale: dealul istoric Fourvière, orașul vechi renascentist și cartierul ultramodern Confluence. Între obiective, veți explora zonele pe jos, în ritm relaxat.",
+        "en": "This tour uses the car to efficiently link Lyon's three main clusters: the historical Fourvière hill, the Renaissance Old Town, and the ultra-modern Confluence district. Between sights, you'll explore the areas comfortably on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie Georges",
+            "tip": "Legendäre Art-Déco-Brasserie in der Nähe des Bahnhofs Perrache."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie Georges",
+            "tip": "Legendás szecessziós étterem a Perrache pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie Georges",
+            "tip": "Braserie legendară în stil Art Déco lângă gara Perrache."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie Georges",
+            "tip": "Legendary Art Deco brasserie near Perrache station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Jardin des Curiosités",
+            "tip": "Ein kleiner, versteckter Park mit unglaublichem Blick.",
+            "emoji": "🔭"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Jardin des Curiosités",
+            "tip": "Kicsi, rejtett park hihetetlen kilátással.",
+            "emoji": "🔭"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Jardin des Curiosités",
+            "tip": "Un parc mic și ascuns cu o vedere incredibilă.",
+            "emoji": "🔭"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Jardin des Curiosités",
+            "tip": "A small, hidden park with an incredible view.",
+            "emoji": "🔭"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confluence Shopping Center",
+            "tip": "Modernes Einkaufszentrum mit toller Architektur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confluence bevásárlóközpont",
+            "tip": "Modern pláza remek építészettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Confluence",
+            "tip": "Centru comercial modern cu arhitectură deosebită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confluence Shopping Center",
+            "tip": "Modern mall with striking architecture."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour am Tunnel de Fourvière.",
+          "Parkhäuser sind im Zentrum teuer, aber sicherer."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat a Fourvière-alagútnál.",
+          "A belvárosi parkolóházak drágák, de biztonságosabbak."
+        ],
+        "ro": [
+          "Evitați orele de vârf în tunelul Fourvière.",
+          "Parcările subterane sunt scumpe în centru, dar mai sigure."
+        ],
+        "en": [
+          "Avoid rush hour traffic near the Fourvière tunnel.",
+          "Underground car parks are expensive but safer in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Bellecour",
+            "hu": "Place Bellecour",
+            "ro": "Place Bellecour",
+            "en": "Place Bellecour"
+          },
+          "coords": [
+            4.8322,
+            45.7578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Knotenpunkt der Metrolinien A und D.",
+            "hu": "Az A és D metróvonalak csomópontja.",
+            "ro": "Nod principal pentru liniile de metrou A și D.",
+            "en": "Hub for metro lines A and D."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Jean",
+            "hu": "Szent János katedrális",
+            "ro": "Catedrala Sf. Ioan",
+            "en": "St. John Cathedral"
+          },
+          "coords": [
+            4.8276,
+            45.7606
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Metro D bis 'Vieux Lyon'.",
+            "hu": "D metróval a 'Vieux Lyon' megállóig.",
+            "ro": "Metrou linia D până la 'Vieux Lyon'.",
+            "en": "Metro line D to 'Vieux Lyon' station."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Fourvière",
+            "hu": "Fourvière bazilika",
+            "ro": "Basilica Fourvière",
+            "en": "Fourvière Basilica"
+          },
+          "coords": [
+            4.8226,
+            45.7622
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Seilbahn F2 direkt von Vieux Lyon.",
+            "hu": "Használd az F2-es siklót közvetlenül Vieux Lyon-ból.",
+            "ro": "Luați funicularul F2 direct din Vieux Lyon.",
+            "en": "Take the F2 funicular directly from Vieux Lyon."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Lyon",
+            "hu": "Vieux Lyon",
+            "ro": "Vieux Lyon",
+            "en": "Vieux Lyon"
+          },
+          "coords": [
+            4.8272,
+            45.7624
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Wieder hinunter mit der Seilbahn für die Altstadt.",
+            "hu": "Siklóval vissza le az óvárosba.",
+            "ro": "Înapoi jos cu funicularul pentru orașul vechi.",
+            "en": "Funicular back down for the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Tête d'Or",
+            "hu": "Parc de la Tête d'Or",
+            "ro": "Parcul Tête d'Or",
+            "en": "Parc de la Tête d'Or"
+          },
+          "coords": [
+            4.8592,
+            45.7792
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Metro A bis 'Masséna' oder Bus C1/C6.",
+            "hu": "A metróval 'Masséna' megállóig vagy C1/C6 busz.",
+            "ro": "Linia A de metrou până la 'Masséna' sau autobuzul C1/C6.",
+            "en": "Metro line A to 'Masséna' or bus C1/C6."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Confluences",
+            "hu": "Confluences Múzeum",
+            "ro": "Muzeul Confluences",
+            "en": "Musée des Confluences"
+          },
+          "coords": [
+            4.8182,
+            45.7326
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Straßenbahn T1 hält direkt vor dem Museum.",
+            "hu": "A T1-es villamos közvetlenül a múzeumnál áll meg.",
+            "ro": "Tramvaiul T1 oprește chiar în fața muzeului.",
+            "en": "Tram line T1 stops right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Bellecour",
+            "hu": "Place Bellecour",
+            "ro": "Place Bellecour",
+            "en": "Place Bellecour"
+          },
+          "coords": [
+            4.8322,
+            45.7578
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück ins Zentrum mit der Tram T1 und Metro A.",
+            "hu": "Vissza a központba T1 villamossal és A metróval.",
+            "ro": "Înapoi în centru cu tramvaiul T1 și metroul A.",
+            "en": "Back to the center via tram T1 and metro A."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete TCL-Netzwerk von Lyon. Diese Route kombiniert die ikonische Seilbahn zum Fourvière-Hügel, die Metro durch die Altstadt und die moderne Straßenbahn zum futuristischen Confluence-Viertel. Ein Tag voller Kontraste, bequem erreichbar mit nur einem Tagesticket.",
+        "hu": "Használja ki Lyon kiváló TCL közlekedési hálózatát. Ez az útvonal ötvözi az ikonikus siklót a Fourvière-dombra, a metrót az óvároson keresztül és a modern villamost a futurisztikus Confluence negyedbe. Kontrasztokkal teli nap, egyetlen napijeggyel.",
+        "ro": "Profitați de excelenta rețea de transport TCL din Lyon. Acest traseu combină funicularul iconic spre dealul Fourvière, metroul prin orașul vechi și tramvaiul modern către cartierul futurist Confluence. O zi plină de contraste, accesibilă cu un singur bilet de zi.",
+        "en": "Make the most of Lyon's excellent TCL transit network. This route combines the iconic funicular to Fourvière hill, the metro through the Old Town, and the modern tram to the futuristic Confluence district. A day of contrasts, all reachable with a single day pass."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vaporetto Lyon",
+            "tip": "Nutzen Sie das Wassertaxi auf der Saône zwischen Bellecour und Confluence."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaporetto Lyon",
+            "tip": "Használd a vízibuszt a Saône-on Bellecour és Confluence között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vaporetto Lyon",
+            "tip": "Folosiți taxiul pe apă pe râul Saône între Bellecour și Confluence."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vaporetto Lyon",
+            "tip": "Take the river shuttle boat on the Saône between Bellecour and Confluence."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ein ruhiger Park in Croix-Rousse, erreichbar mit der Metro C.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Csendes park a Croix-Rousse-on, a C metróval elérhető.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Un parc liniștit în Croix-Rousse, accesibil cu metroul C.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A quiet park in Croix-Rousse, accessible via metro line C.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Part-Dieu Mall",
+            "tip": "Eines der größten Einkaufszentren Europas, direkt am Bahnhof.",
+            "emoji": "🛍️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Part-Dieu Pláza",
+            "tip": "Európa egyik legnagyobb bevásárlóközpontja, közvetlenül a pályaudvarnál.",
+            "emoji": "🛍️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mall Part-Dieu",
+            "tip": "Unul dintre cele mai mari centre comerciale din Europa, lângă gară.",
+            "emoji": "🛍️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Part-Dieu Mall",
+            "tip": "One of Europe's largest shopping centers, located right by the train station.",
+            "emoji": "🛍️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Ticket ist eine Stunde lang für alle Verkehrsmittel gültig.",
+          "Die Seilbahnen sind Teil des normalen Tarifsystems."
+        ],
+        "hu": [
+          "Egy jegy egy órán át érvényes minden közlekedési eszközre.",
+          "A siklók a normál tarifarendszer részét képezik."
+        ],
+        "ro": [
+          "Un bilet este valabil o oră pe toate mijloacele de transport.",
+          "Funicularele fac parte din sistemul normal de tarifare."
+        ],
+        "en": [
+          "A single ticket is valid for one hour across all modes of transport.",
+          "The funiculars are part of the standard transit pricing system."
+        ]
+      }
+    }
+  }
+}

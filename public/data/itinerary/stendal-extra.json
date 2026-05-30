@@ -1,0 +1,994 @@
+{
+  "city_id": "stendal-extra",
+  "anchor": {
+    "name": "Stendal Marktplatz",
+    "coords": [
+      11.859,
+      52.605
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Rathaus mit Rolandstatue",
+          "coords": [
+            11.8596,
+            52.6053
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Roland von 1525 ist eines der Wahrzeichen der Hansezeit.",
+            "hu": "Az 1525-ös Roland-szobor a város hanza-kori büszkesége.",
+            "ro": "Statuia lui Roland din 1525 este simbolul libertății hanseatice.",
+            "en": "The Roland statue from 1525 is a prime symbol of Hanseatic liberty."
+          }
+        },
+        {
+          "name": "St. Marien Kirche",
+          "coords": [
+            11.8591,
+            52.6058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Astronomische Uhr im Inneren dieser spätgotischen Kirche.",
+            "hu": "Nézze meg a csillagászati órát a késő gótikus templom belsejében.",
+            "ro": "Admirați ceasul astronomic din interiorul acestei biserici gotice târzii.",
+            "en": "Admire the astronomical clock inside this late Gothic church."
+          }
+        },
+        {
+          "name": "Winckelmann-Museum",
+          "coords": [
+            11.8618,
+            52.6041
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den Begründer der klassischen Archäologie.",
+            "hu": "Ismerje meg a klasszikus régészet atyjának életművét.",
+            "ro": "Aflați totul despre fondatorul arheologiei clasice.",
+            "en": "Learn about the founder of classical archaeology in his birthplace."
+          }
+        },
+        {
+          "name": "St. Nikolaus Dom",
+          "coords": [
+            11.8605,
+            52.5998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Backsteingotik mit beeindruckenden Glasmalereien.",
+            "hu": "Téglagótikus remekmű lenyűgöző üvegfestményekkel.",
+            "ro": "O capodoperă a goticului din cărămidă cu vitralii impresionante.",
+            "en": "A masterpiece of brick Gothic with impressive stained glass windows."
+          }
+        },
+        {
+          "name": "Tangermünder Tor",
+          "coords": [
+            11.8645,
+            52.5992
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das älteste Stadttor der Region, erbaut im 13. Jahrhundert.",
+            "hu": "A régió legrégebbi városkapuja, a 13. században épült.",
+            "ro": "Cea mai veche poartă a orașului din regiune, construită în secolul XIII.",
+            "en": "The oldest city gate in the region, built in the 13th century."
+          }
+        },
+        {
+          "name": "Uenglinger Tor",
+          "coords": [
+            11.8542,
+            52.6088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eines der schönsten spätgotischen Stadttore Deutschlands.",
+            "hu": "Németország egyik legszebb késő gótikus városkapuja.",
+            "ro": "Una dintre cele mai frumoase porți de oraș gotice din Germania.",
+            "en": "One of the most beautiful late Gothic city gates in Germany."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz der Hansestadt am Marktplatz mit dem prächtigen Rathaus. Mittags tauchen Sie im Winckelmann-Museum in die Welt der Antike ein. Nachmittags spazieren Sie zum monumentalen Dom St. Nikolaus, bevor Sie die massiven Stadttore besichtigen. Den Abend lassen Sie in der historischen Altstadt bei regionaler Küche ausklingen.",
+        "hu": "Reggel a Hanza-város szívét, a főteret és a díszes városházát fedezzük fel. Délben a Winckelmann-múzeumban az ókor világába repülünk. Délután a monumentális Szent Miklós dómot és a középkori városkapukat látogatjuk meg. Az estét az óváros történelmi falai között, helyi ízek társaságában tölthetjük.",
+        "ro": "Dimineața explorăm inima orașului hanseatic în piața centrală, cu primăria sa magnifică. La prânz, ne scufundăm în lumea antichității la Muzeul Winckelmann. După-amiaza, ne plimbăm spre catedrala monumentală Sf. Nicolae, înainte de a vizita porțile masive ale orașului. Seara se încheie în centrul istoric, savurând preparate regionale.",
+        "en": "Morning starts in the heart of the Hanseatic city at the market square with the magnificent town hall. At midday, dive into the ancient world at the Winckelmann Museum. Afternoon features a walk to the monumental St. Nicholas Cathedral and the massive medieval city gates. End your day in the historic old town enjoying local Altmark cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffeekult am Markt",
+            "tip": "Hauseigene Röstungen und hausgemachter Kuchen direkt am Roland."
+          },
+          {
+            "name": "Altmark-Spezialitäten",
+            "tip": "Probieren Sie die Altmärkische Hochzeitssuppe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaffeekult am Markt",
+            "tip": "Saját pörkölésű kávé és házi sütemények a Roland-szobornál."
+          },
+          {
+            "name": "Altmark-Spezialitäten",
+            "tip": "Kóstolja meg a híres Altmärkische Hochzeitssuppe levest."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaffeekult am Markt",
+            "tip": "Cafea prăjită local și prăjituri de casă chiar lângă Roland."
+          },
+          {
+            "name": "Altmark-Spezialitäten",
+            "tip": "Încercați ciorba tradițională de nuntă Altmärkische Hochzeitssuppe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaffeekult am Markt",
+            "tip": "In-house roasted coffee and homemade cakes right by the Roland statue."
+          },
+          {
+            "name": "Altmark-Spezialitäten",
+            "tip": "Try the famous Altmärkische Hochzeitssuppe (wedding soup)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dombezirk",
+            "tip": "Die ruhigen Gassen rund um den Dom bieten Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dóm-negyed",
+            "tip": "A székesegyház körüli csendes utcák nyugalmat árasztanak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartierul Catedralei",
+            "tip": "Străzile liniștite din jurul catedralei oferă un moment de tăcere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral District",
+            "tip": "The quiet alleys surrounding the cathedral offer peace and quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Stendal",
+            "tip": "Regionale Produkte direkt von Erzeugern der Altmark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stendali piac",
+            "tip": "Helyi termékek közvetlenül az Altmark környéki termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale direct de la producătorii din Altmark."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stendal Weekly Market",
+            "tip": "Regional products directly from local Altmark producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich ideal zu Fuß erkunden.",
+          "Achten Sie auf die kleinen Details der Backsteingotik an den Fassaden.",
+          "Kombinieren Sie den Stadtrundgang mit einer Turmbesteigung, falls möglich."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyelje meg a téglagótika apró részleteit a homlokzatokon.",
+          "Ha teheti, menjen fel valamelyik templomtoronyba a kilátásért."
+        ],
+        "ro": [
+          "Centrul istoric este compact și poate fi explorat ideal la pas.",
+          "Fiți atenți la micile detalii ale goticului din cărămidă pe fațade.",
+          "Combinați turul orașului cu urcarea într-un turn, dacă este posibil."
+        ],
+        "en": [
+          "The old town is very compact and perfect for exploring on foot.",
+          "Pay attention to the small brick Gothic details on the facades.",
+          "Combine your city tour with a tower climb for a great view if available."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Rathaus mit Rolandstatue",
+          "coords": [
+            11.8596,
+            52.6053
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie zentral am Marktplatz.",
+            "hu": "Kezdje a túrát a város szívében.",
+            "ro": "Începeți turul central, în piața primăriei.",
+            "en": "Start centrally at the market square."
+          }
+        },
+        {
+          "name": "St. Marien Kirche",
+          "coords": [
+            11.8591,
+            52.6058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Stopp direkt neben dem Rathaus.",
+            "hu": "Rövid megálló a városháza mellett.",
+            "ro": "Scurt popas chiar lângă primărie.",
+            "en": "Quick stop right next to the town hall."
+          }
+        },
+        {
+          "name": "Uenglinger Tor",
+          "coords": [
+            11.8542,
+            52.6088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eines der Wahrzeichen Stendals auf dem Weg nach Norden.",
+            "hu": "Stendal egyik jelképe az északi útvonalon.",
+            "ro": "Unul dintre simbolurile orașului în drum spre nord.",
+            "en": "One of Stendal's landmarks on your way north."
+          }
+        },
+        {
+          "name": "Theater der Altmark",
+          "coords": [
+            11.8515,
+            52.6075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das kulturelle Zentrum der Region Altmark.",
+            "hu": "Az Altmark régió kulturális központja.",
+            "ro": "Centrul cultural al regiunii Altmark.",
+            "en": "The cultural heart of the Altmark region."
+          }
+        },
+        {
+          "name": "Winckelmann-Museum",
+          "coords": [
+            11.8618,
+            52.6041
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mittagspause und Kultur im Museumsgarten.",
+            "hu": "Kulturális élmény és pihenő a múzeumkertben.",
+            "ro": "Pauză de prânz și cultură în grădina muzeului.",
+            "en": "Midday break and culture in the museum garden."
+          }
+        },
+        {
+          "name": "St. Nikolaus Dom",
+          "coords": [
+            11.8605,
+            52.5998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie bequem durch den Dombezirk.",
+            "hu": "Kényelmes tekerés a dómnegyeden át.",
+            "ro": "Pedalați lejer prin districtul catedralei.",
+            "en": "Cycle easily through the cathedral district."
+          }
+        },
+        {
+          "name": "Tangermünder Tor",
+          "coords": [
+            11.8645,
+            52.5992
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Tor markiert den östlichen Rand der Altstadt.",
+            "hu": "A kapu az óváros keleti szélét jelzi.",
+            "ro": "Poarta marchează marginea estică a centrului vechi.",
+            "en": "The gate marks the eastern edge of the old town."
+          }
+        },
+        {
+          "name": "Tiergarten Stendal",
+          "coords": [
+            11.8485,
+            52.5935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss im Grünen mit heimischen Tieren.",
+            "hu": "Pihentető befejezés a zöldben, hazai állatokkal.",
+            "ro": "Final relaxant în natură, cu animale locale.",
+            "en": "Relaxing end in the greenery with local animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erreichen Sie mühelos alle Sehenswürdigkeiten. Vormittags besuchen Sie den Markt und das Theater. Nachmittags geht es vom Dom zu den historischen Toren. Den krönenden Abschluss bildet eine Fahrt zum Tiergarten am Stadtrand, wo Sie die Natur genießen können.",
+        "hu": "Kerékpárral könnyedén elérhető minden látnivaló. Délelőtt a piacot és a színházat látogatjuk meg, délután a dóm és a városkapuk következnek. A napot a város szélén található vadasparkban zárjuk, ahol élvezhetjük a természet nyugalmát.",
+        "ro": "Cu bicicleta ajungeți fără efort la toate atracțiile. Dimineața vizitați piața și teatrul. După-amiaza traseul trece pe la catedrală și porțile istorice. Punctul culminant este plimbarea spre grădina zoologică de la marginea orașului, unde puteți savura natura.",
+        "en": "By bike, you can effortlessly reach all sights. Visit the market and theater in the morning, followed by the cathedral and historical gates in the afternoon. The highlight is a ride to the Tiergarten on the outskirts, where you can enjoy local nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altmärker Kaffeestube",
+            "tip": "Traditionell und gemütlich in der Nähe der Marienkirche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altmärker Kaffeestube",
+            "tip": "Hagyományos és hangulatos kávézó a Marienkirche közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altmärker Kaffeestube",
+            "tip": "Tradițional și primitor în apropierea bisericii St. Marien."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altmärker Kaffeestube",
+            "tip": "Traditional and cozy coffee shop near St. Mary's Church."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tiergarten Stendal",
+            "tip": "Viel Platz und Ruhe im südlichen Parkgelände.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadaspark",
+            "tip": "Tágas tér és nyugalom a déli park területén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tiergarten",
+            "tip": "Mult spațiu și liniște în zona parcului din sud.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiergarten Stendal",
+            "tip": "Plenty of space and peace in the southern park grounds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tourist-Information",
+            "tip": "Regionale Souvenirs und Wanderkarten für die Altmark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turisztikai iroda",
+            "tip": "Regionális szuvenírek és túratérképek az Altmarkhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Informare Turistică",
+            "tip": "Suveniruri regionale și hărți pentru drumeții în Altmark."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourist Information",
+            "tip": "Regional souvenirs and hiking maps for the Altmark."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stendal ist fahrradfreundlich mit flachen Wegen.",
+          "Nutzen Sie die Radwege entlang der Stadtmauerreste.",
+          "Ein Abstecher in die umliegende Altmark-Landschaft lohnt sich."
+        ],
+        "hu": [
+          "Stendal kerékpárosbarát város sík utakkal.",
+          "Használja a városfal maradványai melletti kerékpárutakat.",
+          "Érdemes egy kis kitérőt tenni a környékbeli Altmark tájaira."
+        ],
+        "ro": [
+          "Stendal este prietenos cu bicicliștii, având trasee plate.",
+          "Folosiți pistele de biciclete de-a lungul resturilor zidului cetății.",
+          "O mică excursie în peisajul înconjurător din Altmark merită efortul."
+        ],
+        "en": [
+          "Stendal is bike-friendly with mostly flat paths.",
+          "Use the cycling paths along the remnants of the city walls.",
+          "A detour into the surrounding Altmark countryside is well worth it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Rathaus mit Rolandstatue",
+          "coords": [
+            11.8596,
+            52.6053
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral am Marktplatz (Cluster A).",
+            "hu": "Parkoljon a főtéren (A klaszter).",
+            "ro": "Parcați central în piața primăriei (Cluster A).",
+            "en": "Park centrally at the market square (Cluster A)."
+          }
+        },
+        {
+          "name": "St. Marien Kirche",
+          "coords": [
+            11.8591,
+            52.6058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fußläufig vom Rathaus erreichbar (Cluster A).",
+            "hu": "Gyalogosan elérhető a városházától (A klaszter).",
+            "ro": "Accesibil pe jos de la primărie (Cluster A).",
+            "en": "Accessible on foot from the town hall (Cluster A)."
+          }
+        },
+        {
+          "name": "Winckelmann-Museum",
+          "coords": [
+            11.8618,
+            52.6041
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Stopp in Cluster A zu Fuß.",
+            "hu": "Az A klaszter utolsó gyalogos megállója.",
+            "ro": "Ultima oprire pe jos din Cluster A.",
+            "en": "Last walking stop in Cluster A."
+          }
+        },
+        {
+          "name": "St. Nikolaus Dom",
+          "coords": [
+            11.8605,
+            52.5998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Dombezirk (Cluster B).",
+            "hu": "Autózás a dómnegyedbe (B klaszter).",
+            "ro": "Deplasare cu mașina spre districtul catedralei (Cluster B).",
+            "en": "Drive to the cathedral district (Cluster B)."
+          }
+        },
+        {
+          "name": "Tangermünder Tor",
+          "coords": [
+            11.8645,
+            52.5992
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Dom aus (Cluster B).",
+            "hu": "Gyalogosan a dómtól (B klaszter).",
+            "ro": "Pe jos de la catedrală (Cluster B).",
+            "en": "Walking from the cathedral (Cluster B)."
+          }
+        },
+        {
+          "name": "Uenglinger Tor",
+          "coords": [
+            11.8542,
+            52.6088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum nördlichen Stadttor (Cluster C).",
+            "hu": "Autózás az északi városkapuhoz (C klaszter).",
+            "ro": "Deplasare spre poarta de nord a orașului (Cluster C).",
+            "en": "Drive to the northern city gate (Cluster C)."
+          }
+        },
+        {
+          "name": "Tiergarten Stendal",
+          "coords": [
+            11.8485,
+            52.5935
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Tiergarten im Süden.",
+            "hu": "Rövid autózás a déli vadasparkhoz.",
+            "ro": "Scurtă deplasare spre grădina zoologică din sud.",
+            "en": "Short drive to the Tiergarten in the south."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Stendal effizient in Clustern. Zuerst besichtigen Sie das Zentrum zu Fuß, dann fahren Sie zum Dombezirk. Nachmittags besuchen Sie das Uenglinger Tor und beenden den Tag entspannt im Tiergarten. Ideal, um viel in kurzer Zeit zu sehen.",
+        "hu": "Autóval hatékonyan, klaszterekre bontva fedezzük fel Stendalt. Előbb a központot járjuk be gyalog, majd átgurulunk a dóm környékére. Délután az északi kaput és végül a vadasparkot látogatjuk meg. Ideális választás, ha kevés idő alatt sokat szeretne látni.",
+        "ro": "Cu mașina explorați Stendal eficient, pe zone. Mai întâi vizitați centrul pe jos, apoi conduceți spre districtul catedralei. După-amiaza vizitați Poarta Uenglinger și încheiați ziua relaxat la grădina zoologică. Ideal pentru a vedea multe într-un timp scurt.",
+        "en": "By car, you explore Stendal efficiently in clusters. First, tour the center on foot, then drive to the cathedral district. In the afternoon, visit the Uenglinger Gate and finish the day relaxed at the Tiergarten. Perfect for seeing a lot in a limited time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzer Adler",
+            "tip": "Gehobene regionale Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schwarzer Adler",
+            "tip": "Színvonalas helyi konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schwarzer Adler",
+            "tip": "Bucătărie regională rafinată într-un ambient istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schwarzer Adler",
+            "tip": "Upscale regional cuisine in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tiergarten Parkplatz",
+            "tip": "Viel Grün direkt vor den Toren des Tiergartens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadaspark parkoló",
+            "tip": "Sok zöldterület közvetlenül a vadaspark kapujában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Tiergarten",
+            "tip": "Multă verdeață chiar la porțile grădinii zoologice.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiergarten Parking",
+            "tip": "Plenty of greenery right at the gates of the zoo.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Winckelmann Buchhandlung",
+            "tip": "Fachliteratur und lokale Bildbände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Winckelmann könyvesbolt",
+            "tip": "Szakirodalom és helyi fotóalbumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria Winckelmann",
+            "tip": "Literatură de specialitate și albume locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Winckelmann Bookstore",
+            "tip": "Specialist literature and local photo books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Rand der Altstadt.",
+          "In der Innenstadt gilt oft Anwohnerparken.",
+          "Planen Sie für Cluster A 2-3 Stunden ein."
+        ],
+        "hu": [
+          "Használja az óváros szélén lévő parkolókat.",
+          "A belvárosban gyakran csak lakossági parkolás engedélyezett.",
+          "Az A klaszterre szánjon legalább 2-3 órát."
+        ],
+        "ro": [
+          "Folosiți parcările de la marginea centrului vechi.",
+          "În centrul orașului parcarea este adesea rezervată rezidenților.",
+          "Alocați 2-3 ore pentru Clusterul A."
+        ],
+        "en": [
+          "Use the parking lots at the edge of the old town.",
+          "Residential parking often applies in the inner city.",
+          "Plan for about 2-3 hours for Cluster A."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Rathaus mit Rolandstatue",
+          "coords": [
+            11.8596,
+            52.6053
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle am Markt.",
+            "hu": "Központi megálló a piacnál.",
+            "ro": "Stație centrală în piață.",
+            "en": "Central bus stop at the market."
+          }
+        },
+        {
+          "name": "St. Marien Kirche",
+          "coords": [
+            11.8591,
+            52.6058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Markt erreichbar.",
+            "hu": "Gyalogosan elérhető a piactól.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Walking distance from the market."
+          }
+        },
+        {
+          "name": "Winckelmann-Museum",
+          "coords": [
+            11.8618,
+            52.6041
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang durch die historische Gasse.",
+            "hu": "Séta a történelmi kisutcán.",
+            "ro": "O plimbare pe strada istorică.",
+            "en": "A stroll through the historic alley."
+          }
+        },
+        {
+          "name": "St. Nikolaus Dom",
+          "coords": [
+            11.8605,
+            52.5998
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busfahrt zum Dom.",
+            "hu": "Busszal a dómhoz.",
+            "ro": "Cu autobuzul spre catedrală.",
+            "en": "Bus ride to the cathedral."
+          }
+        },
+        {
+          "name": "Uenglinger Tor",
+          "coords": [
+            11.8542,
+            52.6088
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Busverbindung Richtung Norden.",
+            "hu": "Buszjárat észak felé.",
+            "ro": "Conexiune de autobuz spre nord.",
+            "en": "Bus connection heading north."
+          }
+        },
+        {
+          "name": "Theater der Altmark",
+          "coords": [
+            11.8515,
+            52.6075
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Abschluss im kulturellen Viertel.",
+            "hu": "Befejezés a kulturális negyedben.",
+            "ro": "Final în cartierul cultural.",
+            "en": "Conclusion in the cultural district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Stendal lässt sich gut mit dem lokalen Bussystem erkunden. Nach dem kulturellen Start im Zentrum bringt Sie der Bus zum Dom. Nachmittags besuchen Sie das Theater und das Uenglinger Tor. Die Wege zwischen den Haltestellen und Sehenswürdigkeiten sind kurz und gut ausgeschildert.",
+        "hu": "Stendal jól bejárható a helyi buszhálózattal. A központi kulturális kezdés után a busz egészen a dómig visz. Délután a színházat és az északi városkaput látogatjuk meg. A megállók és a látnivalók közötti távolság rövid és jól ki van táblázva.",
+        "ro": "Stendal poate fi explorat bine cu sistemul local de autobuze. După un start cultural în centru, autobuzul vă duce la catedrală. După-amiaza vizitați teatrul și Poarta Uenglinger. Distanțele dintre stații și obiective sunt scurte și bine semnalizate.",
+        "en": "Stendal is easy to explore using the local bus system. After a cultural start in the center, the bus takes you to the cathedral. In the afternoon, visit the theater and the Uenglinger Gate. Walking distances between stops and sights are short and well-marked."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Gabriel",
+            "tip": "Traditionelles Gebäck für den kleinen Hunger unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Gabriel",
+            "tip": "Hagyományos péksütemények útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Gabriel",
+            "tip": "Produse de patiserie tradiționale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Gabriel",
+            "tip": "Traditional pastries for a quick bite on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Theaterpark",
+            "tip": "Kleine Grünanlage für eine Pause zwischen den Fahrten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Színházpark",
+            "tip": "Kis zöldövezet egy pihenőre két buszút között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Teatrului",
+            "tip": "Mic spațiu verde pentru o pauză între călătorii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Theater Park",
+            "tip": "Small green space for a break between bus rides.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Breite Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Breite Straße",
+            "tip": "A fő bevásárlóutca számos kis üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Breite Straße",
+            "tip": "Principala stradă comercială cu multe magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Breite Straße",
+            "tip": "The main shopping street with many small local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan vorab online.",
+          "Ein Tagesticket ist oft die günstigste Option.",
+          "Die meisten Linien treffen sich am Hauptbahnhof oder Markt."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet online.",
+          "A napijegy gyakran a legolcsóbb megoldás.",
+          "A legtöbb vonal a főpályaudvaron vagy a piacon találkozik."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor online în prealabil.",
+          "Un bilet de o zi este adesea cea mai ieftină opțiune.",
+          "Cele mai multe linii se întâlnesc la gara centrală sau în piață."
+        ],
+        "en": [
+          "Check the bus schedule online in advance.",
+          "A day ticket is often the cheapest option.",
+          "Most lines meet at the main station or the market square."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1187 @@
+{
+  "city_id": "saint-denis",
+  "anchor": {
+    "name": "Basilika Saint-Denis",
+    "coords": [
+      48.9355,
+      2.3598
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt von Saint-Denis",
+            "hu": "Saint-Denis piac",
+            "ro": "Piața Saint-Denis",
+            "en": "Saint-Denis Market"
+          },
+          "coords": [
+            48.9372,
+            2.3555
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Markthalle für authentische nordafrikanische Gewürze.",
+            "hu": "A csarnokban kóstolja meg az autentikus észak-afrikai fűszereket.",
+            "ro": "Vizitați hala pentru condimente autentice nord-africane.",
+            "en": "Visit the hall for authentic North African spices."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Saint-Denis",
+            "hu": "Saint-Denis-székesegyház",
+            "ro": "Bazilica Saint-Denis",
+            "en": "Basilica of Saint-Denis"
+          },
+          "coords": [
+            48.9355,
+            2.3598
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Grablege der französischen Könige; achten Sie auf die Glasmalereien.",
+            "hu": "A francia királyok nyughelye; figyelje meg a gótikus üvegablakokat.",
+            "ro": "Necropola regilor Franței; admirați vitraliile gotice.",
+            "en": "The necropolis of French kings; look at the Gothic stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Éducation de la Légion d'Honneur",
+            "hu": "A Becsületrend nevelőintézete",
+            "ro": "Maison d'Éducation de la Légion d'Honneur",
+            "en": "Maison d'Éducation de la Légion d'Honneur"
+          },
+          "coords": [
+            48.936,
+            2.358
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ehemalige Abtei, heute eine renommierte Schule; nur von außen sichtbar.",
+            "hu": "Egykori apátság, ma neves iskola; csak kívülről tekinthető meg.",
+            "ro": "Fosta abație, azi o școală de renume; vizibilă doar din exterior.",
+            "en": "Former abbey, now a prestigious school; visible from the outside only."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
+            48.9345,
+            2.356
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein traditionelles Couscous in einer der Seitenstraßen.",
+            "hu": "Kóstoljon meg egy hagyományos kuszkuszt a mellékutcák egyikében.",
+            "ro": "Încercați un cușcuș tradițional pe una dintre străzile laterale.",
+            "en": "Try a traditional couscous in one of the side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte Paul Éluard",
+            "hu": "Paul Éluard Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie Paul Éluard",
+            "en": "Musée d'Art et d'Histoire Paul Éluard"
+          },
+          "coords": [
+            48.9348,
+            2.3533
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In einem ehemaligen Karmeliterkloster untergebracht; beeindruckende Archäologie.",
+            "hu": "Egykori karmelita kolostorban; lenyűgöző régészeti gyűjtemény.",
+            "ro": "Găzduit într-o fostă mănăstire carmelită; arheologie impresionantă.",
+            "en": "Housed in a former Carmelite convent; impressive archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Légion d'Honneur",
+            "hu": "Becsületrend parkja",
+            "ro": "Parcul Legiunii de Onoare",
+            "en": "Parc de la Légion d'Honneur"
+          },
+          "coords": [
+            48.938,
+            2.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die größte Grünfläche der Stadt, ideal für eine Pause im Schatten.",
+            "hu": "A város legnagyobb zöldfelülete, ideális pihenőre az árnyékban.",
+            "ro": "Cea mai mare zonă verde din oraș, ideală pentru o pauză la umbră.",
+            "en": "The largest green space in the city, ideal for a break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denys-de-l'Estrée",
+            "hu": "Saint-Denys-de-l'Estrée templom",
+            "ro": "Biserica Saint-Denys-de-l'Estrée",
+            "en": "Église Saint-Denys-de-l'Estrée"
+          },
+          "coords": [
+            48.932,
+            2.348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Werk von Viollet-le-Duc mit markanter Backsteinarchitektur.",
+            "hu": "Viollet-le-Duc alkotása jellegzetes téglaarchitektúrával.",
+            "ro": "O lucrare de Viollet-le-Duc cu o arhitectură distinctivă din cărămidă.",
+            "en": "A work by Viollet-le-Duc with distinctive brick architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Markt, wo die Düfte des Orients auf französisches Flair treffen. Der Vormittag gehört der majestätischen Basilika, der Wiege der Gotik. Nach einem herzhaften Mittagessen in der Altstadt erkunden Sie das lokale Museum in einem alten Kloster. Den Nachmittag verbringen Sie entspannt im weitläufigen Park der Legion d'Honneur, bevor Sie die architektonischen Details der Estrée-Kirche bewundern.",
+        "hu": "Kezdje a napot a nyüzsgő piacon, ahol a keleti illatok találkoznak a francia hangulattal. A délelőtt a gótika bölcsőjéé, a fenséges bazilikáé. Egy kiadós óvárosi ebéd után fedezze fel a helyi múzeumot egy régi kolostor falai között. A délutánt töltse pihenéssel a Becsületrend tágas parkjában, majd csodálja meg az Estrée-templom építészeti részleteit.",
+        "ro": "Începeți ziua în piața plină de viață, unde aromele Orientului se întâlnesc cu flerul francez. Dimineața este dedicată maiestuoasei bazilici, leagănul goticului. După un prânz copios în orașul vechi, explorați muzeul local într-o fostă mănăstire. Petreceți după-amiaza relaxându-vă în parcul spațios al Legiunii de Onoare, înainte de a admira detaliile arhitecturale ale bisericii Estrée.",
+        "en": "Start your day at the lively market, where the scents of the Orient meet French flair. The morning belongs to the majestic basilica, the cradle of Gothic art. After a hearty lunch in the old town, explore the local museum inside a former convent. Spend the afternoon relaxing in the spacious Legion of Honour park before admiring the architectural details of the Estrée church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Khédive",
+            "tip": "Klassisches Brasserie-Ambiente direkt gegenüber der Basilika."
+          },
+          {
+            "name": "Chez l'Habitant",
+            "tip": "Bekannt für den besten Couscous in Saint-Denis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Khédive",
+            "tip": "Klasszikus söröző hangulat közvetlenül a bazilikával szemben."
+          },
+          {
+            "name": "Chez l'Habitant",
+            "tip": "A legjobb kuszkuszról híres Saint-Denis-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Khédive",
+            "tip": "Atmosferă clasică de braserie chiar vizavi de bazilică."
+          },
+          {
+            "name": "Chez l'Habitant",
+            "tip": "Cunoscut pentru cel mai bun cușcuș din Saint-Denis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Khédive",
+            "tip": "Classic brasserie atmosphere right across from the basilica."
+          },
+          {
+            "name": "Chez l'Habitant",
+            "tip": "Famous for the best couscous in Saint-Denis."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Légion d'Honneur",
+            "tip": "Ruhige Alleen fernab des Stadtlärms.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kreuzgang des Museums",
+            "tip": "Stille Kontemplation im ehemaligen Kloster.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Becsületrend parkja",
+            "tip": "Csendes sugárutak távol a város zajától.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Múzeumi kerengő",
+            "tip": "Csendes elmélyülés az egykori kolostorban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Legiunii de Onoare",
+            "tip": "Alei liniștite departe de zgomotul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Claustrul muzeului",
+            "tip": "Contemplare silențioasă în fosta mănăstire.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Légion d'Honneur",
+            "tip": "Quiet avenues away from city noise.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Museum Cloister",
+            "tip": "Silent contemplation in the former convent.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Saint-Denis",
+            "tip": "Einer der größten und buntesten Märkte der Île-de-France."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Denis piac",
+            "tip": "Az Île-de-France egyik legnagyobb és legszínesebb piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Saint-Denis",
+            "tip": "Una dintre cele mai mari și colorate piețe din Île-de-France."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Denis Market",
+            "tip": "One of the largest and most colorful markets in the Île-de-France."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie die Basilika an einem sonnigen Tag, um das Lichtspiel der Glasfenster zu sehen.",
+          "Der Markt ist am Dienstag, Freitag und Sonntag am belebtesten.",
+          "Saint-Denis ist multikulturell; probieren Sie die lokalen Spezialitäten aus dem Maghreb.",
+          "Achten Sie in der Nähe der Basilika auf Ihre Wertsachen."
+        ],
+        "hu": [
+          "Napsütéses napon látogassa meg a bazilikát az üvegablakok fényjátéka miatt.",
+          "A piac kedden, pénteken és vasárnap a legélénkebb.",
+          "Saint-Denis multikulturális; kóstolja meg a maghrebi helyi különlegességeket.",
+          "A bazilika környékén ügyeljen az értékeire."
+        ],
+        "ro": [
+          "Vizitați bazilica într-o zi însorită pentru a vedea jocul de lumini al vitraliilor.",
+          "Piața este cea mai aglomerată marțea, vinerea și duminica.",
+          "Saint-Denis este multicultural; încercați specialitățile locale din Maghreb.",
+          "Aveți grijă de obiectele de valoare în apropierea bazilicii."
+        ],
+        "en": [
+          "Visit the basilica on a sunny day to see the light play of the stained glass.",
+          "The market is liveliest on Tuesday, Friday, and Sunday.",
+          "Saint-Denis is multicultural; try the local specialties from the Maghreb.",
+          "Watch your valuables in the vicinity of the basilica."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt Saint-Denis",
+            "hu": "Saint-Denis piac",
+            "ro": "Piața Saint-Denis",
+            "en": "Saint-Denis Market"
+          },
+          "coords": [
+            48.9372,
+            2.3555
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sichere Fahrradständer befinden sich am Rande des Marktplatzes.",
+            "hu": "Biztonságos kerékpártárolók találhatók a piactér szélén.",
+            "ro": "Rastele sigure pentru biciclete se află la marginea pieței.",
+            "en": "Secure bike racks are located at the edge of the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Denis",
+            "hu": "Saint-Denis bazilika",
+            "ro": "Bazilica Saint-Denis",
+            "en": "Basilica Saint-Denis"
+          },
+          "coords": [
+            48.9355,
+            2.3598
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad auf dem Vorplatz ab.",
+            "hu": "Hagyja kerékpárját az előtéren.",
+            "ro": "Lăsați bicicleta în piața din față.",
+            "en": "Park your bike in the forecourt."
+          }
+        },
+        {
+          "name": {
+            "de": "Street Art Avenue (Kanal)",
+            "hu": "Street Art Avenue (Csatorna)",
+            "ro": "Street Art Avenue (Canal)",
+            "en": "Street Art Avenue (Canal)"
+          },
+          "coords": [
+            48.928,
+            2.365
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren entlang des Kanals Saint-Denis bietet den besten Blick auf die Graffitis.",
+            "hu": "A Saint-Denis-csatorna mentén bringázva látszanak legjobban a graffitik.",
+            "ro": "Mersul pe bicicletă de-a lungul canalului oferă cea mai bună vedere asupra grafitti-urilor.",
+            "en": "Cycling along the Canal Saint-Denis gives the best view of the graffiti."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade de France",
+            "hu": "Stade de France",
+            "ro": "Stade de France",
+            "en": "Stade de France"
+          },
+          "coords": [
+            48.9244,
+            2.3602
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Umrunden Sie das Stadion mit dem Fahrrad für die volle Perspektive.",
+            "hu": "Kerülje meg a stadiont bringával a teljes perspektíváért.",
+            "ro": "Ocoliți stadionul cu bicicleta pentru o perspectivă completă.",
+            "en": "Circle the stadium by bike for the full perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch am Kanal",
+            "hu": "Ebéd a csatornánál",
+            "ro": "Prânz la canal",
+            "en": "Lunch by the canal"
+          },
+          "coords": [
+            48.921,
+            2.358
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele moderne Bistros mit Außenterrassen.",
+            "hu": "Sok modern bisztró szabadtéri terasszal.",
+            "ro": "Multe bistrouri moderne cu terase exterioare.",
+            "en": "Many modern bistros with outdoor terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité du Cinéma",
+            "hu": "Cité du Cinéma",
+            "ro": "Cité du Cinéma",
+            "en": "Cité du Cinéma"
+          },
+          "coords": [
+            48.922,
+            2.342
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Das 'Hollywood an der Seine', ein Projekt von Luc Besson.",
+            "hu": "A 'Szajna-parti Hollywood', Luc Besson projektje.",
+            "ro": "'Hollywood-ul de pe Sena', un proiect de Luc Besson.",
+            "en": "The 'Hollywood on the Seine', a project by Luc Besson."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Légion d'Honneur",
+            "hu": "Becsületrend parkja",
+            "ro": "Parcul Legiunii de Onoare",
+            "en": "Parc de la Légion d'Honneur"
+          },
+          "coords": [
+            48.938,
+            2.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den breiten Wegen.",
+            "hu": "Óvatosan hajtson a széles utakon.",
+            "ro": "Conduceți cu atenție pe aleile largi.",
+            "en": "Ride carefully on the wide paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet das historische Erbe mit der modernen, urbanen Kunst von Saint-Denis. Vom lebhaften Markt und der königlichen Basilika radeln Sie zum Kanal Saint-Denis, wo die Street Art Avenue beeindruckende Wandmalereien zeigt. Vorbei am imposanten Stade de France geht es zur Cité du Cinéma, bevor Sie im großen Stadtpark den Tag ausklingen lassen.",
+        "hu": "Ez a kerékpártúra összeköti a történelmi örökséget Saint-Denis modern, városi művészetével. A nyüzsgő piactól és a királyi bazilikától a Saint-Denis-csatornához tekerünk, ahol a Street Art Avenue lenyűgöző falfestményei láthatók. Az impozáns Stade de France mellett elhaladva a Cité du Cinéma felé vesszük az irányt, majd a nagy városi parkban zárjuk a napot.",
+        "ro": "Acest tur cu bicicleta combină moștenirea istorică cu arta urbană modernă din Saint-Denis. De la piața plină de viață și bazilica regală, pedalați spre Canalul Saint-Denis, unde Street Art Avenue prezintă picturi murale impresionante. Trecând pe lângă impunătorul Stade de France, mergeți spre Cité du Cinéma, înainte de a încheia ziua în marele parc al orașului.",
+        "en": "This bike tour combines historical heritage with the modern, urban art of Saint-Denis. From the lively market and the royal basilica, cycle to the Canal Saint-Denis, where the Street Art Avenue displays impressive murals. Passing the imposing Stade de France, head towards the Cité du Cinéma before ending the day in the large city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot du Stade",
+            "tip": "Sportliches Flair direkt am Nationalstadion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistrot du Stade",
+            "tip": "Sportos hangulat közvetlenül a nemzeti stadionnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrot du Stade",
+            "tip": "Atmosferă sportivă chiar lângă stadionul național."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot du Stade",
+            "tip": "Sporty flair right by the national stadium."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal Saint-Denis",
+            "tip": "Ruhige Fahrt am Wasser.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Denis-csatorna",
+            "tip": "Csendes utazás a víz mentén.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Saint-Denis",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Saint-Denis",
+            "tip": "Quiet ride by the water.",
+            "emoji": "🚴‍♂️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stade de France Boutique",
+            "tip": "Offizielles Fan-Equipment."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stade de France Boutique",
+            "tip": "Hivatalos szurkolói felszerelések."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stade de France Boutique",
+            "tip": "Echipament oficial pentru fani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stade de France Boutique",
+            "tip": "Official fan gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Kanals.",
+          "Schließen Sie Ihr Rad immer sicher ab."
+        ],
+        "hu": [
+          "Használja a csatorna menti kerékpárutakat.",
+          "Mindig biztonságosan zárja le a biciklijét."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete de-a lungul canalului.",
+          "Încuiați întotdeauna bicicleta în siguranță."
+        ],
+        "en": [
+          "Use the bike paths along the canal.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Saint-Denis (Cluster A)",
+            "hu": "Saint-Denis bazilika (A klaszter)",
+            "ro": "Bazilica Saint-Denis (Cluster A)",
+            "en": "Basilica Saint-Denis (Cluster A)"
+          },
+          "coords": [
+            48.9355,
+            2.3598
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkhaus 'Basilique' nutzen.",
+            "hu": "Használja a 'Basilique' parkolóházat.",
+            "ro": "Utilizați parcarea 'Basilique'.",
+            "en": "Use the 'Basilique' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Légion d'Honneur (Cluster A)",
+            "hu": "Becsületrend háza (A klaszter)",
+            "ro": "Maison de la Légion d'Honneur (Cluster A)",
+            "en": "Maison de la Légion d'Honneur (Cluster A)"
+          },
+          "coords": [
+            48.936,
+            2.358
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur 2 Minuten zu Fuß von der Basilika.",
+            "hu": "Csak 2 perc séta a bazilikától.",
+            "ro": "La doar 2 minute de mers pe jos de bazilică.",
+            "en": "Just a 2-minute walk from the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et d'Histoire (Cluster A)",
+            "hu": "Művészeti és Történeti Múzeum (A klaszter)",
+            "ro": "Muzeul de Artă și Istorie (Cluster A)",
+            "en": "Musée d'Art et d'Histoire (Cluster A)"
+          },
+          "coords": [
+            48.9348,
+            2.3533
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß innerhalb des Zentrums erreichbar.",
+            "hu": "Gyalogosan elérhető a központon belül.",
+            "ro": "Accesibil pe jos în interiorul centrului.",
+            "en": "Accessible on foot within the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade de France (Cluster B)",
+            "hu": "Stade de France (B klaszter)",
+            "ro": "Stade de France (Cluster B)",
+            "en": "Stade de France (Cluster B)"
+          },
+          "coords": [
+            48.9244,
+            2.3602
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Stadion vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre a stadionnál.",
+            "ro": "Parcare mare disponibilă la stadion.",
+            "en": "Large parking lot available at the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Stop am Stadion (Cluster B)",
+            "hu": "Gasztro-megálló a stadionnál (B klaszter)",
+            "ro": "Oprire gastro la stadion (Cluster B)",
+            "en": "Gastro stop by the stadium (Cluster B)"
+          },
+          "coords": [
+            48.923,
+            2.361
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Moderne Restaurants im Viertel La Plaine.",
+            "hu": "Modern éttermek a La Plaine negyedben.",
+            "ro": "Restaurante moderne în cartierul La Plaine.",
+            "en": "Modern restaurants in the La Plaine district."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité du Cinéma (Cluster C)",
+            "hu": "Cité du Cinéma (C klaszter)",
+            "ro": "Cité du Cinéma (Cluster C)",
+            "en": "Cité du Cinéma (Cluster C)"
+          },
+          "coords": [
+            48.922,
+            2.342
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken in der Nähe der Filmstudios.",
+            "hu": "Parkolás a filmstúdiók közelében.",
+            "ro": "Parcare în apropierea studiourilor de film.",
+            "en": "Parking near the film studios."
+          }
+        },
+        {
+          "name": {
+            "de": "Street Art Avenue (Cluster C)",
+            "hu": "Street Art Avenue (C klaszter)",
+            "ro": "Street Art Avenue (Cluster C)",
+            "en": "Street Art Avenue (Cluster C)"
+          },
+          "coords": [
+            48.918,
+            2.358
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spaziergang am Kanalufer.",
+            "hu": "Séta a csatornaparton.",
+            "ro": "Plimbare pe malul canalului.",
+            "en": "Walk along the canal bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Enghien-les-Bains (Abstecher)",
+            "hu": "Enghien-les-Bains (Kitérő)",
+            "ro": "Enghien-les-Bains (Excursie)",
+            "en": "Enghien-les-Bains (Detour)"
+          },
+          "coords": [
+            48.97,
+            2.305
+          ],
+          "category": "lake",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nahen See für den Sonnenuntergang.",
+            "hu": "Rövid út a közeli tóhoz a naplementéért.",
+            "ro": "Scurtă călătorie până la lacul din apropiere pentru apus.",
+            "en": "Short drive to the nearby lake for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Saint-Denis in drei bequemen Etappen. Zuerst parken Sie im Zentrum für die Basilika und das Museum. Danach fahren Sie zum Stade de France im modernen Viertel La Plaine. Die letzte Etappe führt Sie zur Cité du Cinéma und zur Street Art am Kanal. Zum Abschluss bietet sich ein Abstecher zum eleganten See von Enghien-les-Bains an.",
+        "hu": "Autóval három kényelmes szakaszban fedezheti fel Saint-Denis-t. Először parkoljon a központban a bazilika és a múzeum megtekintéséhez. Ezután hajtson a Stade de France-hoz a modern La Plaine negyedbe. Az utolsó szakasz a Cité du Cinéma-hoz és a csatorna menti street arthoz vezet. Zárásként tegyen egy kitérőt Enghien-les-Bains elegáns tavához.",
+        "ro": "Cu mașina, explorați Saint-Denis în trei etape confortabile. Mai întâi, parcați în centru pentru bazilică și muzeu. Apoi, conduceți spre Stade de France în cartierul modern La Plaine. Ultima etapă vă duce la Cité du Cinéma și la arta stradală de pe canal. În încheiere, se recomandă o excursie la lacul elegant din Enghien-les-Bains.",
+        "en": "By car, explore Saint-Denis in three convenient stages. First, park in the center for the basilica and the museum. Then, drive to the Stade de France in the modern La Plaine district. The final stage takes you to the Cité du Cinéma and the street art by the canal. To finish, a detour to the elegant lake of Enghien-les-Bains is recommended."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 3ème Art",
+            "tip": "Schickes Restaurant in der Nähe der Filmstudios."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 3ème Art",
+            "tip": "Elegáns étterem a filmstúdiók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 3ème Art",
+            "tip": "Restaurant chic lângă studiourile de film."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 3ème Art",
+            "tip": "Chic restaurant near the film studios."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac d'Enghien",
+            "tip": "Wunderschöner See für den Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac d'Enghien",
+            "tip": "Gyönyörű tó estére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lac d'Enghien",
+            "tip": "Lac minunat pentru seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac d'Enghien",
+            "tip": "Beautiful lake for the evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Basilique",
+            "tip": "Einkaufszentrum im Stadtkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial Basilique",
+            "tip": "Bevásárlóközpont a városmagban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial Basilique",
+            "tip": "Centru comercial în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Commercial Basilique",
+            "tip": "Shopping mall in the city core."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour auf der A1.",
+          "Parkhäuser sind sicherer als Parken auf der Straße."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat az A1-es autópályán.",
+          "A parkolóházak biztonságosabbak, mint az utcai parkolás."
+        ],
+        "ro": [
+          "Evitați ora de vârf pe A1.",
+          "Parcările etajate sunt mai sigure decât parcarea pe stradă."
+        ],
+        "en": [
+          "Avoid rush hour on the A1 motorway.",
+          "Parking garages are safer than street parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Saint-Denis",
+            "hu": "Saint-Denis bazilika",
+            "ro": "Bazilica Saint-Denis",
+            "en": "Basilica Saint-Denis"
+          },
+          "coords": [
+            48.9355,
+            2.3598
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Metro Linie 13, Station 'Basilique de Saint-Denis'.",
+            "hu": "13-as metró, 'Basilique de Saint-Denis' megálló.",
+            "ro": "Linia 13 de metrou, stația 'Basilique de Saint-Denis'.",
+            "en": "Metro Line 13, station 'Basilique de Saint-Denis'."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et d'Histoire",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Musée d'Art et d'Histoire"
+          },
+          "coords": [
+            48.9348,
+            2.3533
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Metropolplatz.",
+            "hu": "Rövid séta a metróállomástól.",
+            "ro": "Scurtă plimbare de la stația de metrou.",
+            "en": "Short walk from the metro station."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            48.936,
+            2.355
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rund um den Rathausplatz gibt es viele Optionen.",
+            "hu": "A városháza tér körül számos lehetőség van.",
+            "ro": "Există multe opțiuni în jurul pieței primăriei.",
+            "en": "Many options around the city hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade de France",
+            "hu": "Stade de France",
+            "ro": "Stade de France",
+            "en": "Stade de France"
+          },
+          "coords": [
+            48.9244,
+            2.3602
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "RER B (La Plaine-Stade de France) oder RER D.",
+            "hu": "RER B (La Plaine-Stade de France) vagy RER D.",
+            "ro": "RER B (La Plaine-Stade de France) sau RER D.",
+            "en": "RER B (La Plaine-Stade de France) or RER D."
+          }
+        },
+        {
+          "name": {
+            "de": "Street Art Avenue",
+            "hu": "Street Art Avenue",
+            "ro": "Street Art Avenue",
+            "en": "Street Art Avenue"
+          },
+          "coords": [
+            48.921,
+            2.359
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom RER-Bahnhof erreichbar.",
+            "hu": "Gyalogosan elérhető az RER állomástól.",
+            "ro": "Accesibil pe jos de la stația RER.",
+            "en": "Accessible on foot from the RER station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité du Cinéma",
+            "hu": "Cité du Cinéma",
+            "ro": "Cité du Cinéma",
+            "en": "Cité du Cinéma"
+          },
+          "coords": [
+            48.922,
+            2.342
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie 139 oder Metro 13 (Carrefour Pleyel).",
+            "hu": "139-es busz vagy 13-as metró (Carrefour Pleyel).",
+            "ro": "Autobuzul 139 sau metroul 13 (Carrefour Pleyel).",
+            "en": "Bus 139 or Metro 13 (Carrefour Pleyel)."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Légion d'Honneur",
+            "hu": "Becsületrend parkja",
+            "ro": "Parcul Legiunii de Onoare",
+            "en": "Parc de la Légion d'Honneur"
+          },
+          "coords": [
+            48.938,
+            2.361
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Zentrum mit der Tram T1.",
+            "hu": "Visszatérés a központba a T1 villamossal.",
+            "ro": "Întoarcere în centru cu tramvaiul T1.",
+            "en": "Return to the center with tram T1."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Verkehrsnetz von Saint-Denis. Mit der Metro 13 erreichen Sie bequem die Basilika und das historische Zentrum. Der RER bringt Sie schnell zum Stade de France. Zwischen den modernen Filmstudios und der Street Art am Kanal bewegen Sie sich mit Bussen oder kurzen Fußwegen, bevor die Tram T1 Sie zurück zum Stadtpark führt.",
+        "hu": "Használja Saint-Denis sűrű közlekedési hálózatát. A 13-as metróval kényelmesen elérheti a bazilikát és a történelmi központot. Az RER gyorsan elviszi a Stade de France-hoz. A modern filmstúdiók és a csatorna menti street art között busszal vagy rövid sétával közlekedhet, mielőtt a T1-es villamos visszaviszi a városi parkhoz.",
+        "ro": "Utilizați rețeaua densă de transport din Saint-Denis. Cu linia 13 de metrou puteți ajunge ușor la bazilică și la centrul istoric. RER-ul vă duce rapid la Stade de France. Între studiourile de film moderne și arta stradală de pe canal vă deplasați cu autobuze sau pe jos, înainte ca tramvaiul T1 să vă ducă înapoi la parcul orașului.",
+        "en": "Use Saint-Denis's dense transport network. Metro Line 13 easily takes you to the basilica and the historical center. The RER brings you quickly to the Stade de France. Move between the modern film studios and the street art by the canal using buses or short walks before tram T1 takes you back to the city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Mets du Roy",
+            "tip": "Traditionelle französische Küche direkt bei der Basilika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Mets du Roy",
+            "tip": "Hagyományos francia konyha közvetlenül a bazilikánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Mets du Roy",
+            "tip": "Bucătărie tradițională franceză chiar lângă bazilică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Mets du Roy",
+            "tip": "Traditional French cuisine right by the basilica."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Basilika-Krypta",
+            "tip": "Ein Ort tiefer Stille.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bazilika kriptája",
+            "tip": "A mély csend helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cripta bazilicii",
+            "tip": "Un loc de liniște profundă.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilica Crypt",
+            "tip": "A place of deep silence.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la République",
+            "tip": "Haupteinkaufsstraße für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la République",
+            "tip": "Fő bevásárlóutca a napi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la République",
+            "tip": "Principala stradă comercială pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la République",
+            "tip": "Main shopping street for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein 'Navigo'-Pass ist sehr praktisch.",
+          "Vermeiden Sie die Metro 13 während der Stoßzeiten."
+        ],
+        "hu": [
+          "A 'Navigo' bérlet nagyon praktikus.",
+          "Kerülje a 13-as metrót a csúcsidőben."
+        ],
+        "ro": [
+          "Un permis 'Navigo' este foarte practic.",
+          "Evitați linia 13 de metrou în orele de vârf."
+        ],
+        "en": [
+          "A 'Navigo' pass is very practical.",
+          "Avoid Metro Line 13 during peak hours."
+        ]
+      }
+    }
+  }
+}

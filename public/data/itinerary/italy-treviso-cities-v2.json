@@ -1,0 +1,1099 @@
+{
+  "city_id": "italy-treviso-cities-v2",
+  "anchor": {
+    "name": "Treviso",
+    "coords": [
+      12.2432,
+      45.6669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dom von Treviso",
+            "hu": "Trevisói dóm",
+            "ro": "Domul din Treviso",
+            "en": "Treviso Cathedral"
+          },
+          "coords": [
+            12.2435,
+            45.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta aus dem 11. Jahrhundert und Tizians Malerei in der Malchiostro-Kapelle.",
+            "hu": "Nézd meg a 11. századi kriptát és Tiziano festményét a Malchiostro-kápolnában.",
+            "ro": "Vizitați cripta din secolul al XI-lea și pictura lui Titian din Capela Malchiostro.",
+            "en": "Visit the 11th-century crypt and Titian's painting in the Malchiostro Chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Luigi Bailo",
+            "hu": "Museo Luigi Bailo",
+            "ro": "Muzeul Luigi Bailo",
+            "en": "Luigi Bailo Museum"
+          },
+          "coords": [
+            12.241,
+            45.6685
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Berühmt für die größte Sammlung von Werken von Arturo Martini.",
+            "hu": "Arturo Martini szobrainak legnagyobb gyűjteményéről híres galéria.",
+            "ro": "Cunoscut pentru cea mai mare colecție de lucrări ale lui Arturo Martini.",
+            "en": "Famous for the largest collection of works by Arturo Martini."
+          }
+        },
+        {
+          "name": {
+            "de": "Canale dei Buranelli",
+            "hu": "Canale dei Buranelli",
+            "ro": "Canalul Buranelli",
+            "en": "Canale dei Buranelli"
+          },
+          "coords": [
+            12.2455,
+            45.6675
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der fotogenste Ort der Stadt mit mittelalterlichen Arkaden am Wasser.",
+            "hu": "A város legfotogénebb pontja, középkori árkádokkal a víz mentén.",
+            "ro": "Cel mai fotogenic loc din oraș, cu arcade medievale pe malul apei.",
+            "en": "The most photogenic spot in town with medieval arcades along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola della Pescheria",
+            "hu": "Isola della Pescheria",
+            "ro": "Isola della Pescheria",
+            "en": "Fish Market Island"
+          },
+          "coords": [
+            12.2475,
+            45.6678
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Fischmarkt auf einer kleinen Flussinsel ist ein lokales Erlebnis.",
+            "hu": "A kis folyóparti szigeten lévő halpiac igazi helyi élmény délelőtt.",
+            "ro": "Piața de pește de pe o mică insulă fluvială este o experiență locală.",
+            "en": "The fish market on a small river island is a true local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            12.2458,
+            45.666
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in einem der Cafés unter dem Palazzo dei Trecento.",
+            "hu": "Tarts egy szünetet a Palazzo dei Trecento alatti kávézók egyikében.",
+            "ro": "Luați o pauză la una dintre cafenelele de sub Palazzo dei Trecento.",
+            "en": "Take a break at one of the cafes under the Palazzo dei Trecento."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana delle Tette",
+            "hu": "Fontana delle Tette",
+            "ro": "Fontana delle Tette",
+            "en": "Fontana delle Tette"
+          },
+          "coords": [
+            12.245,
+            45.6655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Kuriosum: Aus dieser Statue floss einst Wein bei Volksfesten.",
+            "hu": "Különlegesség: ebből a szoborból egykor bor folyt a népünnepélyeken.",
+            "ro": "O curiozitate: din această statuie curgea odinioară vin la sărbători.",
+            "en": "A curiosity: wine used to flow from this statue during public festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicolò",
+            "hu": "San Nicolò-templom",
+            "ro": "Biserica San Nicolò",
+            "en": "San Nicolò Church"
+          },
+          "coords": [
+            12.24,
+            45.6645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie das Porträt eines Dominikaners mit Brille im Kapitelsaal.",
+            "hu": "Keresd meg a szemüveges szerzetest ábrázoló portrét a káptalani teremben.",
+            "ro": "Căutați portretul unui călugăr cu ochelari în sala capitulară.",
+            "en": "Look for the portrait of a monk with glasses in the chapter house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treviso, oft als 'kleines Venedig' bezeichnet, besticht durch seine Eleganz und Ruhe. Unsere Wanderung führt durch das mittelalterliche Herz der Stadt. Wir starten am monumentalen Dom und entdecken moderne Kunst im Museo Bailo. Die Buranelli-Kanäle und die Fischmarkt-Insel zeigen das harmonische Zusammenspiel von Wasser und Architektur, bevor wir den Tag auf der Piazza dei Signori ausklingen lassen.",
+        "hu": "Treviso, az 'apró Velence', eleganciájával és nyugalmával varázsol el. Sétánk a város középkori szívén vezet keresztül. A monumentális dómnál kezdünk, majd a Museo Bailo modern művészetét fedezzük fel. A Buranelli-csatornák és a halpiac szigete a víz és az építészet harmonikus kapcsolatát mutatják be, mielőtt a napot a Piazza dei Signori elegáns terén zárnánk egy pohár Proseccóval.",
+        "ro": "Treviso, supranumit 'micuța Veneție', impresionează prin eleganță și liniște. Traseul nostru pe jos străbate inima medievală a orașului. Începem la Domul monumental și descoperim arta modernă la Muzeul Bailo. Canalele Buranelli și insula pieței de pește arată relația armonioasă dintre apă și arhitectură, înainte de a încheia ziua în Piazza dei Signori cu un pahar de Prosecco local.",
+        "en": "Treviso, often called 'little Venice', charms with its elegance and tranquility. Our walking tour leads through the medieval heart of the city. We start at the monumental Cathedral and discover modern art at the Bailo Museum. The Buranelli canals and the fish market island showcase the harmonious bond between water and architecture, before ending the day at the elegant Piazza dei Signori."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Beccherie",
+            "tip": "Der Geburtsort des Tiramisù. Ein absolutes Muss für Dessert-Liebhaber."
+          },
+          {
+            "name": "Osteria dalla Gigia",
+            "tip": "Berühmt für die 'Mozzarella in Carrozza' und ein schnelles Glas Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Beccherie",
+            "tip": "A Tiramisù szülőhelye. Édességkedvelőknek kötelező megálló."
+          },
+          {
+            "name": "Osteria dalla Gigia",
+            "tip": "Híres a 'Mozzarella in Carrozza' falatkákról és a gyors pohár borról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Beccherie",
+            "tip": "Locul unde s-a născut Tiramisù. O oprire obligatorie pentru iubitorii de desert."
+          },
+          {
+            "name": "Osteria dalla Gigia",
+            "tip": "Faimoasă pentru 'Mozzarella in Carrozza' și un pahar rapid de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Beccherie",
+            "tip": "The birthplace of Tiramisù. An absolute must for dessert lovers."
+          },
+          {
+            "name": "Osteria dalla Gigia",
+            "tip": "Famous for their 'Mozzarella in Carrozza' and a quick glass of wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riviera Santa Margherita",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses Sile.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riviera Santa Margherita",
+            "tip": "Csendes séta a Sile-folyó mentén, távol a főtér zajától.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riviera Santa Margherita",
+            "tip": "O plimbare liniștită de-a lungul râului Sile.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riviera Santa Margherita",
+            "tip": "A peaceful stroll along the banks of the Sile river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Calmaggiore",
+            "tip": "Die Haupteinkaufsstraße mit eleganten Boutiquen und Arkaden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Calmaggiore",
+            "tip": "A fő bevásárlóutca elegáns butikokkal és árkádokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Calmaggiore",
+            "tip": "Principala stradă comercială cu buticuri elegante și arcade."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Calmaggiore",
+            "tip": "The main shopping street with elegant boutiques and arcades."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Achten Sie auf die freskierten Fassaden vieler Gebäude, Treviso war als 'urbs picta' bekannt.",
+          "Bestellen Sie einen Prosecco, der hier in der Region produziert wird.",
+          "Die meisten Sehenswürdigkeiten schließen zur Mittagszeit (12:30-15:30)."
+        ],
+        "hu": [
+          "A történelmi központ kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyeld az épületek freskókkal díszített homlokzatát, Treviso 'urbs picta'-ként is ismert.",
+          "Kóstold meg a helyi Proseccót, a régió világhírű italát.",
+          "A legtöbb látnivaló ebédszünetet tart (12:30 és 15:30 között)."
+        ],
+        "ro": [
+          "Centrul istoric este compact și se explorează cel mai bine la pas.",
+          "Observați fațadele cu fresce ale clădirilor, Treviso era cunoscut ca 'urbs picta'.",
+          "Comandați un Prosecco, produs chiar aici în regiune.",
+          "Majoritatea obiectivelor se închid la prânz (între 12:30 și 15:30)."
+        ],
+        "en": [
+          "The historical center is compact and best explored on foot.",
+          "Look up at the frescoed facades; Treviso was once known as the 'urbs picta' (painted city).",
+          "Order a Prosecco, which is produced in the nearby hills.",
+          "Most sights close for a lunch break between 12:30 and 15:30."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmauern von Treviso",
+            "hu": "Trevisói városfal",
+            "ro": "Zidurile cetății Treviso",
+            "en": "Mura di Treviso"
+          },
+          "coords": [
+            12.253,
+            45.672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie auf dem Wallweg, der die gesamte Altstadt umgibt.",
+            "hu": "Tekerj végig a bástyák tetején kialakított parkosított úton.",
+            "ro": "Mergeți cu bicicleta pe drumul de pe ziduri care înconjoară orașul vechi.",
+            "en": "Cycle along the ramparts on the landscaped path surrounding the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Luigi Bailo",
+            "hu": "Museo Luigi Bailo",
+            "ro": "Muzeul Luigi Bailo",
+            "en": "Luigi Bailo Museum"
+          },
+          "coords": [
+            12.241,
+            45.6685
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich direkt vor dem Eingang am Borgo Cavour.",
+            "hu": "Kerékpártárolók közvetlenül a bejárat előtt, a Borgo Cavouron találhatók.",
+            "ro": "Suporturile pentru biciclete sunt chiar în fața intrării de pe Borgo Cavour.",
+            "en": "Bicycle racks are located right in front of the entrance on Borgo Cavour."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Treviso",
+            "hu": "Trevisói dóm",
+            "ro": "Domul din Treviso",
+            "en": "Treviso Cathedral"
+          },
+          "coords": [
+            12.2435,
+            45.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Fahrrad in der Fußgängerzone rund um den Dom.",
+            "hu": "A dóm körüli sétálóövezetben told a kerékpárt.",
+            "ro": "Împingeți bicicleta în zona pietonală din jurul Domului.",
+            "en": "Walk your bike in the pedestrian zone around the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            12.2458,
+            45.666
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen schnellen 'Cicchetto' (Snack) im Stehen.",
+            "hu": "Tökéletes hely egy gyors 'cicchetto' (falatka) elfogyasztásához.",
+            "ro": "Locul perfect pentru un 'cicchetto' (gustare) rapid, în picioare.",
+            "en": "Perfect spot for a quick 'cicchetto' (local snack) while standing."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana delle Tette",
+            "hu": "Fontana delle Tette",
+            "ro": "Fontana delle Tette",
+            "en": "Fontana delle Tette"
+          },
+          "coords": [
+            12.245,
+            45.6655
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Versteckt in einem Innenhof, achten Sie auf die Beschilderung.",
+            "hu": "Egy udvarban rejtőzik, figyeld az útbaigazító táblákat.",
+            "ro": "Ascunsă într-o curte interioară, atenție la indicatoare.",
+            "en": "Hidden in a courtyard, keep an eye out for the signs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicolò",
+            "hu": "San Nicolò-templom",
+            "ro": "Biserica San Nicolò",
+            "en": "San Nicolò Church"
+          },
+          "coords": [
+            12.24,
+            45.6645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die größte Kirche der Stadt mit beeindruckender Backsteingotik.",
+            "hu": "A város legnagyobb temploma lenyűgöző tégla-gótikus stílusban.",
+            "ro": "Cea mai mare biserică din oraș, în stil gotic din cărămidă.",
+            "en": "The largest church in town with impressive brick Gothic architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Treviso wie ein Einheimischer auf zwei Rädern. Unsere Route kombiniert die grünen Bastionen der venezianischen Mauern mit den kunstvollen Gassen des Zentrums. Radeln Sie entlang der Kanäle und entdecken Sie versteckte Schätze wie den Tittenbrunnen. Die flache Topographie macht Treviso zu einer idealen Fahrradstadt für jedermann.",
+        "hu": "Fedezd fel Trevisót helyiként, két keréken. Útvonalunk a velencei falak zöld bástyáit ötvözi a belváros művészi sikátoraival. Tekerj a csatornák mentén, és találd meg a rejtett kincseket, mint a Tette-kút. A sík terep miatt Treviso ideális kerékpáros város mindenki számára.",
+        "ro": "Explorați Treviso ca un localnic pe două roți. Traseul nostru combină bastioanele verzi ale zidurilor venețiene cu străduțele artistice din centru. Pedalați de-a lungul canalelor și descoperiți comori ascunse precum Fontana delle Tette. Relieful plat face din Treviso un oraș ideal pentru ciclism.",
+        "en": "Explore Treviso like a local on two wheels. Our route combines the green bastions of the Venetian walls with the artistic alleys of the center. Cycle along the canals and discover hidden gems like the Fontana delle Tette. The flat topography makes Treviso an ideal cycling city for everyone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "I Sette Nani",
+            "tip": "Hervorragende Tramezzini, perfekt für eine kurze Radpause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "I Sette Nani",
+            "tip": "Kiváló tramezzini szendvicsek, tökéletes egy rövid bringás pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "I Sette Nani",
+            "tip": "Tramezzini excelente, ideale pentru o pauză scurtă de pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "I Sette Nani",
+            "tip": "Excellent tramezzini sandwiches, perfect for a short cycling break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale Bartolomeo Burchiellati",
+            "tip": "Breite, baumbestandene Allee auf den Mauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Bartolomeo Burchiellati",
+            "tip": "Széles, fás sétány a városfal tetején.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Bartolomeo Burchiellati",
+            "tip": "Bulevard larg, străjuit de copaci, pe zidurile cetății.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Bartolomeo Burchiellati",
+            "tip": "Wide, tree-lined avenue on top of the walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenmarkt",
+            "tip": "Jeden 4. Sonntag im Monat in der Nähe von Borgo Cavour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régiségpiac",
+            "tip": "Minden hónap 4. vasárnapján a Borgo Cavour közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de antichități",
+            "tip": "În fiecare a 4-a duminică din lună, lângă Borgo Cavour."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Market",
+            "tip": "Every 4th Sunday of the month near Borgo Cavour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad bei einem der lokalen 'Bike Sharing'-Anbieter.",
+          "Achten Sie auf das Kopfsteinpflaster in einigen Gassen des Zentrums.",
+          "Kombinieren Sie die Tour mit dem Radweg 'GiraSile' entlang des Flusses.",
+          "Fahrräder müssen in Fußgängerzonen oft geschoben werden."
+        ],
+        "hu": [
+          "Bérelj kerékpárt a helyi közösségi kerékpár-megosztókból.",
+          "Vigyázz a macskaköves burkolatra a belváros szűk utcáiban.",
+          "Kombináld a túrát a Sile-folyó menti 'GiraSile' kerékpárúttal.",
+          "A sétálóövezetekben sokszor tolni kell a kerékpárt."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la serviciile locale de bike-sharing.",
+          "Atenție la pavajul cu piatră cubică în unele străduțe din centru.",
+          "Combinați turul cu pista de biciclete 'GiraSile' de-a lungul râului.",
+          "Bicicletele trebuie adesea împinse în zonele pietonale."
+        ],
+        "en": [
+          "Rent a bike from one of the local bike-sharing providers.",
+          "Be careful with the cobblestones in some alleys of the city center.",
+          "Combine the tour with the 'GiraSile' cycle path along the river.",
+          "In pedestrian zones, you may need to walk your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmauern von Treviso",
+            "hu": "Trevisói városfal",
+            "ro": "Zidurile cetății Treviso",
+            "en": "Mura di Treviso"
+          },
+          "coords": [
+            12.253,
+            45.672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Parcheggio Stadio oder in der Nähe der Porta San Tomaso.",
+            "hu": "Parkolj a Parcheggio Stadio-nál vagy a Porta San Tomaso közelében.",
+            "ro": "Parcați la Parcheggio Stadio sau lângă Porta San Tomaso.",
+            "en": "Park at Parcheggio Stadio or near Porta San Tomaso."
+          }
+        },
+        {
+          "name": {
+            "de": "Canale dei Buranelli",
+            "hu": "Canale dei Buranelli",
+            "ro": "Canalul Buranelli",
+            "en": "Canale dei Buranelli"
+          },
+          "coords": [
+            12.2455,
+            45.6675
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang von den Mauern zum Zentrum entlang der Kanäle.",
+            "hu": "Kellemes séta a falaktól a központ felé a csatornák mentén.",
+            "ro": "O plimbare frumoasă de la ziduri spre centru, de-a lungul canalelor.",
+            "en": "A pleasant walk from the walls toward the center along the canals."
+          }
+        },
+        {
+          "name": {
+            "de": "Isola della Pescheria",
+            "hu": "Isola della Pescheria",
+            "ro": "Isola della Pescheria",
+            "en": "Isola della Pescheria"
+          },
+          "coords": [
+            12.2475,
+            45.6678
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des historischen Marktes.",
+            "hu": "Élvezd a történelmi piac hangulatát a kis szigeten.",
+            "ro": "Bucurați-vă de atmosfera pieței istorice de pe mica insulă.",
+            "en": "Enjoy the atmosphere of the historic market on the small island."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            12.2458,
+            45.666
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Dal Negro' und laufen Sie zum Hauptplatz.",
+            "hu": "Parkolj a 'Dal Negro' parkolóházban, és sétálj a főtérre.",
+            "ro": "Parcați în parcarea 'Dal Negro' și mergeți pe jos spre piața principală.",
+            "en": "Park at the 'Dal Negro' parking garage and walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Treviso",
+            "hu": "Trevisói dóm",
+            "ro": "Domul din Treviso",
+            "en": "Treviso Cathedral"
+          },
+          "coords": [
+            12.2435,
+            45.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Dom befindet sich in einer Fußgängerzone (ZTL), nicht befahrbar.",
+            "hu": "A dóm autómentes övezetben (ZTL) van, ne hajts be oda.",
+            "ro": "Domul este într-o zonă pietonală (ZTL), nu intrați cu mașina.",
+            "en": "The Cathedral is in a pedestrian zone (ZTL), do not drive there."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicolò",
+            "hu": "San Nicolò-templom",
+            "ro": "Biserica San Nicolò",
+            "en": "San Nicolò Church"
+          },
+          "coords": [
+            12.24,
+            45.6645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parkplätze finden Sie in den umliegenden Straßen (blaue Zone).",
+            "hu": "A környező utcákban találsz parkolóhelyet (kék zóna).",
+            "ro": "Găsiți locuri de parcare în străzile adiacente (zona albastră).",
+            "en": "You can find parking spots in the surrounding streets (blue zone)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt Cluster-Walking, um Treviso stressfrei zu erleben. Wir parken an strategischen Punkten außerhalb der ZTL, um die venezianischen Mauern und das historische Zentrum zu erkunden. Entdecken Sie die Kanäle und Plätze zu Fuß, während das Auto sicher am Rand der Altstadt steht. So genießen Sie das Beste aus beiden Welten.",
+        "hu": "Ez az autós túra a 'cluster-walking' elvét követi Treviso felfedezéséhez. Stratégiai pontokon parkolunk a belvároson kívül, hogy gyalogosan fedezzük fel a velencei falakat és a történelmi központot. Éld át a csatornák és terek hangulatát, miközben az autó biztonságban áll az óváros szélén.",
+        "ro": "Acest tur auto folosește principiul cluster-walking pentru a experimenta Treviso fără stres. Parcăm în puncte strategice în afara zonei ZTL pentru a explora zidurile venețiene și centrul istoric la pas. Descoperiți canalele și piețele mergând pe jos, în timp ce mașina rămâne în siguranță la marginea orașului vechi.",
+        "en": "This car tour uses the cluster-walking philosophy to experience Treviso stress-free. We park at strategic points outside the restricted ZTL zone to explore the Venetian walls and the historical center on foot. Enjoy the canals and squares while the car stays safely at the edge of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antico Ristorante Le Beccherie",
+            "tip": "Gönnen Sie sich das klassische Tiramisù-Erlebnis nach dem Parken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antico Ristorante Le Beccherie",
+            "tip": "Kényeztesd magad a klasszikus Tiramisùval a parkolás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antico Ristorante Le Beccherie",
+            "tip": "Răsfățați-vă cu experiența clasică Tiramisù după ce parcați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antico Ristorante Le Beccherie",
+            "tip": "Indulge in the classic Tiramisù experience after parking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco degli Alberi Parlanti",
+            "tip": "Etwas außerhalb des Zentrums, ideal mit dem Auto erreichbar.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco degli Alberi Parlanti",
+            "tip": "Kicsit a központon kívül, autóval könnyen elérhető park.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco degli Alberi Parlanti",
+            "tip": "Puțin în afara centrului, ideal de accesat cu mașina.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco degli Alberi Parlanti",
+            "tip": "Slightly outside the center, easily reachable by car.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Scarpa",
+            "tip": "Hochwertige italienische Schuhe in der Nähe des Corso del Popolo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scarpa",
+            "tip": "Kiváló minőségű olasz cipők a Corso del Popolo közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scarpa",
+            "tip": "Pantofi italieni de înaltă calitate lângă Corso del Popolo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scarpa",
+            "tip": "High-quality Italian shoes near Corso del Popolo."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in die ZTL (begrenzter Verkehrsbereich), die Strafen sind hoch.",
+          "Blaue Linien bedeuten kostenpflichtiges Parken, weiße Linien sind kostenlos.",
+          "Nutzen Sie das Parkhaus 'Dal Negro' für einen bequemen Zugang zum Zentrum.",
+          "Verbinden Sie den Besuch mit einer Fahrt in die nahegelegenen Prosecco-Hügel."
+        ],
+        "hu": [
+          "Soha ne hajts be a ZTL (korlátozott forgalmú) övezetbe, a bírság magas.",
+          "A kék vonal fizetős parkolást jelöl, a fehér vonal ingyenes.",
+          "Használd a 'Dal Negro' parkolóházat a belváros kényelmes eléréséhez.",
+          "Kösd össze a látogatást egy autózással a közeli Prosecco-dombokhoz."
+        ],
+        "ro": [
+          "Nu intrați niciodată în zona ZTL (trafic limitat), amenzile sunt mari.",
+          "Liniile albastre indică parcare cu plată, cele albe sunt gratuite.",
+          "Folosiți parcarea supraetajată 'Dal Negro' pentru acces facil în centru.",
+          "Combinați vizita cu o plimbare spre dealurile Prosecco din apropiere."
+        ],
+        "en": [
+          "Never drive into the ZTL (restricted traffic zone); fines are heavy.",
+          "Blue lines mean paid parking, white lines are free.",
+          "Use the 'Dal Negro' parking garage for easy access to the center.",
+          "Combine your visit with a drive to the nearby Prosecco hills."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche San Nicolò",
+            "hu": "San Nicolò-templom",
+            "ro": "Biserica San Nicolò",
+            "en": "San Nicolò Church"
+          },
+          "coords": [
+            12.24,
+            45.6645
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nur 10 Minuten zu Fuß vom Bahnhof Treviso Centrale entfernt.",
+            "hu": "Mindössze 10 perc séta a Treviso Centrale vasútállomástól.",
+            "ro": "La doar 10 minute de mers pe jos de gara Treviso Centrale.",
+            "en": "Just a 10-minute walk from the Treviso Centrale train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dei Signori",
+            "hu": "Piazza dei Signori",
+            "ro": "Piazza dei Signori",
+            "en": "Piazza dei Signori"
+          },
+          "coords": [
+            12.2458,
+            45.666
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Buslinie 1 verbindet den Bahnhof mit dem Stadtzentrum.",
+            "hu": "Az 1-es buszvonal köti össze az állomást a városközponttal.",
+            "ro": "Linia de autobuz 1 leagă gara de centrul orașului.",
+            "en": "Bus line 1 connects the station with the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Canale dei Buranelli",
+            "hu": "Canale dei Buranelli",
+            "ro": "Canalul Buranelli",
+            "en": "Canale dei Buranelli"
+          },
+          "coords": [
+            12.2455,
+            45.6675
+          ],
+          "category": "natural features",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Hauptplatz aus in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A főtértől pár perc sétával elérhető.",
+            "ro": "Accesibil în câteva minute de mers pe jos din piața principală.",
+            "en": "Reach it in a few minutes on foot from the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Treviso",
+            "hu": "Trevisói dóm",
+            "ro": "Domul din Treviso",
+            "en": "Treviso Cathedral"
+          },
+          "coords": [
+            12.2435,
+            45.6665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Calmaggiore führt zum Dom.",
+            "hu": "Rövid séta a Calmaggiore utcán keresztül a dómig.",
+            "ro": "O scurtă plimbare prin Calmaggiore duce la Dom.",
+            "en": "A short walk through Calmaggiore leads to the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Luigi Bailo",
+            "hu": "Museo Luigi Bailo",
+            "ro": "Muzeul Luigi Bailo",
+            "en": "Luigi Bailo Museum"
+          },
+          "coords": [
+            12.241,
+            45.6685
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Borgo Cavour' befindet sich direkt in der Nähe.",
+            "hu": "A 'Borgo Cavour' buszmegálló közvetlenül a közelben van.",
+            "ro": "Stația de autobuz 'Borgo Cavour' se află chiar în apropiere.",
+            "en": "The 'Borgo Cavour' bus stop is located right nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Treviso",
+            "hu": "Trevisói városfal",
+            "ro": "Zidurile cetății Treviso",
+            "en": "Mura di Treviso"
+          },
+          "coords": [
+            12.253,
+            45.672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Rundbus (Linie 7), um zu den Mauern zu gelangen.",
+            "hu": "Használd a 7-es buszt, hogy kijuss a városfalakhoz.",
+            "ro": "Folosiți autobuzul circular (linia 7) pentru a ajunge la ziduri.",
+            "en": "Use the circular bus (Line 7) to reach the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Treviso entspannt mit dem öffentlichen Nahverkehr. Vom Bahnhof aus erreichen wir schnell die gotische San Nicolò Kirche und das Herz der Stadt. Kurze Busfahrten wechseln sich mit Spaziergängen durch die schönsten Viertel ab. Die Linie 1 und 7 sind Ihre idealen Begleiter, um sowohl das Zentrum als auch die venezianischen Mauern zu erkunden.",
+        "hu": "Fedezd fel Trevisót kényelmesen a tömegközlekedéssel. A vasútállomástól gyorsan elérjük a gótikus San Nicolò templomot és a város szívét. A rövid buszutak és a hangulatos séták váltják egymást a legszebb negyedekben. Az 1-es és 7-es buszjáratok ideálisak a belváros és a városfalak felfedezéséhez.",
+        "ro": "Descoperiți Treviso relaxat folosind transportul public. De la gară ajungem rapid la biserica gotică San Nicolò și în inima orașului. Scurtele călătorii cu autobuzul alternează cu plimbări prin cele mai frumoase cartiere. Liniile 1 și 7 sunt partenerii ideali pentru a explora atât centrul, cât și zidurile venețiene.",
+        "en": "Discover Treviso at a relaxed pace using public transit. From the station, we quickly reach the Gothic San Nicolò church and the heart of the city. Short bus rides alternate with strolls through the most beautiful districts. Bus lines 1 and 7 are your ideal companions for exploring both the center and the Venetian walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hostaria Dai Negheri",
+            "tip": "Hervorragende lokale Küche in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hostaria Dai Negheri",
+            "tip": "Kiváló helyi konyha a belváros közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hostaria Dai Negheri",
+            "tip": "Bucătărie locală excelentă aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hostaria Dai Negheri",
+            "tip": "Excellent local cuisine near the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein kleiner, versteckter Garten in der Nähe der Universität.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Kicsi, rejtett kert az egyetem közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O grădină mică și ascunsă lângă universitate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A small, hidden garden near the university area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Libreria Lovat",
+            "tip": "Eine der schönsten Buchhandlungen der Region (kurze Busfahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Libreria Lovat",
+            "tip": "A régió egyik legszebb könyvesboltja (rövid buszútra)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Libreria Lovat",
+            "tip": "Una dintre cele mai frumoase librării din regiune (scurt drum cu autobuzul)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Libreria Lovat",
+            "tip": "One of the region's finest bookstores (a short bus ride away)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab in Tabakläden oder über die MOM-App.",
+          "Die Busse verkehren regelmäßig, aber seltener an Sonntagen.",
+          "Der Bahnhof Treviso Centrale ist der ideale Ausgangspunkt für Pendler aus Venedig.",
+          "Nutzen Sie die App 'Moovit' für Echtzeit-Fahrpläne."
+        ],
+        "hu": [
+          "Vásárolj buszjegyet előre a dohányboltokban vagy a MOM alkalmazásban.",
+          "A buszok rendszeresen járnak, de vasárnap ritkább a menetrend.",
+          "A Treviso Centrale állomás ideális kiindulópont a Velencéből érkezőknek.",
+          "Használd a 'Moovit' alkalmazást a valós idejű menetrendekhez."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcurile de ziare sau prin aplicația MOM.",
+          "Autobuzele circulă regulat, dar mai rar în zilele de duminică.",
+          "Gara Treviso Centrale este punctul ideal de plecare pentru cei care vin din Veneția.",
+          "Folosiți aplicația 'Moovit' pentru orare în timp real."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops or via the MOM app.",
+          "Buses run regularly, but the schedule is more limited on Sundays.",
+          "Treviso Centrale station is the perfect starting point for visitors from Venice.",
+          "Use the 'Moovit' app for real-time transit information."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "city_id": "city-marburg-extra",
+  "anchor": {
+    "name": "Marburg",
+    "coords": [
+      8.7667,
+      50.8021
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethkirche",
+            "hu": "Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "St. Elizabeth's Church"
+          },
+          "coords": [
+            8.7702,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Früh am Morgen ist es am ruhigsten bei der Heiligen Elisabeth.",
+            "hu": "Kora reggel a legcsendesebb Árpád-házi Szent Erzsébet sírjánál.",
+            "ro": "Dimineața devreme este cea mai liniștită la mormântul Sfintei Elisabeta.",
+            "en": "Early morning is the quietest time at the shrine of St. Elizabeth."
+          }
+        },
+        {
+          "name": {
+            "de": "Marburger Oberstadt",
+            "hu": "Marburgi felsőváros",
+            "ro": "Orașul de Sus din Marburg",
+            "en": "Marburg Oberstadt"
+          },
+          "coords": [
+            8.7695,
+            50.8105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Oberstadt-Aufzug, um sich einige Stufen zu sparen.",
+            "hu": "Használja a felsővárosi liftet, hogy megspóroljon néhány lépcsőfokot.",
+            "ro": "Folosiți liftul spre Orașul de Sus pentru a economisi câteva trepte.",
+            "en": "Use the Oberstadt elevator to save yourself some steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Marburg",
+            "hu": "Marburgi városháza",
+            "ro": "Primăria Marburg",
+            "en": "Marburg Town Hall"
+          },
+          "coords": [
+            8.7692,
+            50.8092
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Gockel auf dem Rathaus schlägt zu jeder vollen Stunde mit den Flügeln.",
+            "hu": "A városháza óráján lévő kakas minden egész órakor csapkod a szárnyával.",
+            "ro": "Cocoșul de pe primărie dă din aripi la fiecare oră fixă.",
+            "en": "The rooster on the town hall clock flaps its wings every full hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Universität",
+            "hu": "Régi Egyetem",
+            "ro": "Vechea Universitate",
+            "en": "Old University"
+          },
+          "coords": [
+            8.7712,
+            50.8085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein neugotisches Prachtstück direkt am Lahnufer gelegen.",
+            "hu": "Neogótikus remekmű közvetlenül a Lahn folyó partján.",
+            "ro": "O capodoperă neogotică situată direct pe malul râului Lahn.",
+            "en": "A neo-Gothic masterpiece located directly on the banks of the Lahn."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgrafenschloss Marburg",
+            "hu": "Marburgi várkastély",
+            "ro": "Castelul Landgraf din Marburg",
+            "en": "Marburg Landgrafenschloss"
+          },
+          "coords": [
+            8.7668,
+            50.8102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Rittersaal, einen der größten gotischen Säle Deutschlands.",
+            "hu": "Látogassa meg a lovagtermet, Németország egyik legnagyobb gótikus termét.",
+            "ro": "Vizitați Sala Cavalerilor, una dintre cele mai mari săli gotice din Germania.",
+            "en": "Visit the Knight's Hall, one of the largest Gothic halls in Germany."
+          }
+        },
+        {
+          "name": {
+            "de": "Religionskundliche Sammlung",
+            "hu": "Vallástudományi Gyűjtemény",
+            "ro": "Colecția de Istorie a Religiilor",
+            "en": "Religionskundliche Sammlung"
+          },
+          "coords": [
+            8.7725,
+            50.8105
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein weltweit einzigartiges Museum über die Vielfalt der Religionen.",
+            "hu": "Világszerte egyedülálló múzeum a vallások sokszínűségéről.",
+            "ro": "Un muzeu unic în lume despre diversitatea religiilor.",
+            "en": "A globally unique museum about the diversity of religions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der imposanten Elisabethkirche. Von dort spazieren Sie durch die verwinkelten Gassen der Oberstadt bis zum historischen Marktplatz. Nach der Besichtigung der Alten Universität erklimmen Sie den Schlossberg. Der Nachmittag gehört dem Landgrafenschloss und der spannenden Religionskundlichen Sammlung, bevor der Tag in der malerischen Altstadt ausklingt.",
+        "hu": "A nap az impozáns Erzsébet-templomnál kezdődik. Innen a felsőváros kanyargós utcáin át sétálunk a történelmi piactérre. A Régi Egyetem megtekintése után felkapaszkodunk a várhegyre. A délután a várkastélyé és az izgalmas Vallástudományi Gyűjteményé, mielőtt a nap a festői óvárosban véget érne.",
+        "ro": "Ziua începe la impunătoarea Biserică Sfânta Elisabeta. De acolo, vă plimbați prin străduțele întortocheate ale Orașului de Sus până în piața istorică. După vizitarea Vechii Universități, urcați pe dealul castelului. După-amiaza este dedicată Castelului Landgraf și Colecției de Istorie a Religiilor, înainte ca ziua să se încheie în centrul vechi pitoresc.",
+        "en": "Your day starts at the impressive St. Elizabeth's Church. From there, stroll through the winding alleys of the Oberstadt to the historic marketplace. After visiting the Old University, climb the castle hill. The afternoon is dedicated to the Landgrafenschloss and the fascinating Religious Studies Collection, before the day ends in the picturesque old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bückingsgarten",
+            "tip": "Direkt unter dem Schloss mit herrlicher Terrasse."
+          },
+          {
+            "name": "Cafe Barfuess",
+            "tip": "Gemütliches Studentenflair in der Oberstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bückingsgarten",
+            "tip": "Közvetlenül a vár alatt, csodálatos terasszal."
+          },
+          {
+            "name": "Cafe Barfuess",
+            "tip": "Hangulatos egyetemi légkör a felsővárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bückingsgarten",
+            "tip": "Direct sub castel, cu o terasă superbă."
+          },
+          {
+            "name": "Cafe Barfuess",
+            "tip": "Atmosferă studențească primitoare în Orașul de Sus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bückingsgarten",
+            "tip": "Right below the castle with a magnificent terrace."
+          },
+          {
+            "name": "Cafe Barfuess",
+            "tip": "Cozy student atmosphere in the Oberstadt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Hinter dem Schloss für eine ruhige Pause im Grünen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lahnufer",
+            "tip": "Entspannung direkt am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark",
+            "tip": "A vár mögött, egy nyugodt zöld pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lahn-part",
+            "tip": "Pihenés közvetlenül a vízparton.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "În spatele castelului pentru o pauză liniștită în natură.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Lahn",
+            "tip": "Relaxare direct pe malul apei.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Behind the castle for a quiet break in the greenery.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Lahn Riverbank",
+            "tip": "Relaxation right by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oberstadt-Boutiquen",
+            "tip": "Kleine Läden mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felsővárosi butikok",
+            "tip": "Kis üzletek helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticurile din Orașul de Sus",
+            "tip": "Magazine mici cu artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oberstadt Boutiques",
+            "tip": "Small shops with local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Marburg ist sehr hügelig, bequemes Schuhwerk ist ein Muss.",
+          "Der Aufzug am Pilgrimstein verbindet Unter- und Oberstadt.",
+          "Achten Sie auf die Marburger Grimm-Dich-Pfad Figuren überall in der Stadt."
+        ],
+        "hu": [
+          "Marburg nagyon dombos, a kényelmes cipő elengedhetetlen.",
+          "A Pilgrimstein melletti lift összeköti az alsó- és felsővárost.",
+          "Keresse a városban mindenhol megtalálható Grimm-Dich-Pfad mesefigurákat."
+        ],
+        "ro": [
+          "Marburg este foarte deluros, încălțămintea comodă este obligatorie.",
+          "Liftul de la Pilgrimstein face legătura între orașul de jos și cel de sus.",
+          "Căutați personajele Grimm-Dich-Pfad răspândite prin tot orașul."
+        ],
+        "en": [
+          "Marburg is very hilly, comfortable shoes are a must.",
+          "The elevator at Pilgrimstein connects the lower and upper town.",
+          "Look out for the Marburg Grimm-Dich-Pfad fairy tale figures throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethkirche",
+            "hu": "Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "St. Elizabeth's Church"
+          },
+          "coords": [
+            8.7702,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie flach im Tal.",
+            "hu": "Kezdjen sík terepen a völgyben.",
+            "ro": "Începeți pe teren plat în vale.",
+            "en": "Start on flat ground in the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Lahnradweg",
+            "hu": "Lahn kerékpárút",
+            "ro": "Traseul de biciclete Lahn",
+            "en": "Lahn Cycle Path"
+          },
+          "coords": [
+            8.775,
+            50.81
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Strecke entlang des Flusses.",
+            "hu": "Gyönyörű szakasz a folyó mentén.",
+            "ro": "Un traseu superb de-a lungul râului.",
+            "en": "Beautiful stretch along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Marburg",
+            "hu": "Marburgi Botanikus Kert",
+            "ro": "Grădina Botanică Marburg",
+            "en": "Botanical Garden Marburg"
+          },
+          "coords": [
+            8.8105,
+            50.8085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der neue Garten auf den Lahnbergen bietet viel Platz.",
+            "hu": "Az új kert a Lahn-hegyen tágas tereket kínál.",
+            "ro": "Noua grădină de pe Lahnberge oferă mult spațiu.",
+            "en": "The new garden on the Lahnberge offers plenty of space."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiegelslustturm",
+            "hu": "Spiegelslust-torony",
+            "ro": "Turnul Spiegelslust",
+            "en": "Spiegelslustturm"
+          },
+          "coords": [
+            8.7885,
+            50.8155
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Der Anstieg wird mit dem besten Blick auf Marburg belohnt.",
+            "hu": "Az emelkedőt a legjobb marburgi kilátás jutalmazza.",
+            "ro": "Urcarea este răsplătită cu cea mai bună priveliște asupra Marburgului.",
+            "en": "The climb is rewarded with the best view of Marburg."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgrafenschloss Marburg",
+            "hu": "Marburgi várkastély",
+            "ro": "Castelul Landgraf din Marburg",
+            "en": "Marburg Landgrafenschloss"
+          },
+          "coords": [
+            8.7668,
+            50.8102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch die steilen Gassen.",
+            "hu": "Óvatosan közlekedjen a meredek utcákon.",
+            "ro": "Conduceți cu atenție prin străduțele abrupte.",
+            "en": "Ride carefully through the steep alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Universität",
+            "hu": "Régi Egyetem",
+            "ro": "Vechea Universitate",
+            "en": "Old University"
+          },
+          "coords": [
+            8.7712,
+            50.8085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss im Tal.",
+            "hu": "Nyugodt befejezés a völgyben.",
+            "ro": "O încheiere relaxată în vale.",
+            "en": "A relaxed conclusion in the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert die Lahn-Aue mit den Höhenzügen um Marburg. Nach dem Start an der Elisabethkirche radeln Sie zum Neuen Botanischen Garten. Es folgt der sportliche Anstieg zum Spiegelslustturm für das perfekte Panorama. Über den Schlossberg geht es zurück in die Altstadt zur Alten Universität.",
+        "hu": "Ez a kerékpártúra ötvözi a Lahn-völgyet a Marburg körüli dombokkal. Az Erzsébet-templomtól az új Botanikus Kertig tekerünk. Ezután következik a sportos emelkedő a Spiegelslust-toronyhoz a tökéletes panorámáért. A várhegyen keresztül térünk vissza az óvárosba a Régi Egyetemhez.",
+        "ro": "Acest tur cu bicicleta combină lunca râului Lahn cu dealurile din jurul Marburgului. După startul de la Biserica Sfânta Elisabeta, pedalați spre Noua Grădină Botanică. Urmează urcarea sportivă spre Turnul Spiegelslust pentru o panoramă perfectă. Prin dealul castelului reveniți în centrul vechi la Vechea Universitate.",
+        "en": "This bike tour combines the Lahn valley with the ridges around Marburg. After starting at St. Elizabeth's Church, cycle to the New Botanical Garden. This is followed by a sporty climb to the Spiegelslustturm for the perfect panorama. Via the castle hill, return to the old town to the Old University."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turm-Café",
+            "tip": "Kuchen mit Weitblick am Spiegelslustturm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turm-Café",
+            "tip": "Sütemény panorámával a Spiegelslust-toronynál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turm-Café",
+            "tip": "Prăjituri cu vedere panoramică la Turnul Spiegelslust."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turm-Café",
+            "tip": "Cake with a view at Spiegelslustturm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heilige Grund",
+            "tip": "Ruhiges Tal für Naturfreunde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heilige Grund",
+            "tip": "Nyugodt völgy a természetbarátoknak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heilige Grund",
+            "tip": "O vale liniștită pentru iubitorii de natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heilige Grund",
+            "tip": "Quiet valley for nature lovers.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Marburg",
+            "tip": "Equipment und Infos für Biker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marburgi kerékpárbolt",
+            "tip": "Felszerelés és infók bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Marburg",
+            "tip": "Echipament și info pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marburg Bicycle Shop",
+            "tip": "Equipment and info for bikers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Für die Lahnberge ist ein E-Bike empfehlenswert.",
+          "In der Oberstadt herrscht teilweise Kopfsteinpflaster.",
+          "Nutzen Sie den Lahnradweg für flache Etappen."
+        ],
+        "hu": [
+          "A Lahn-hegyhez ajánlott az elektromos kerékpár.",
+          "A felsővárosban néhol macskaköves az út.",
+          "Használja a Lahn kerékpárutat a sík szakaszokhoz."
+        ],
+        "ro": [
+          "Pentru Lahnberge este recomandată o bicicletă electrică.",
+          "În Orașul de Sus există porțiuni cu piatră cubică.",
+          "Folosiți traseul Lahn pentru etapele plane."
+        ],
+        "en": [
+          "An e-bike is recommended for the Lahnberge hills.",
+          "There is partial cobblestone in the Oberstadt.",
+          "Use the Lahn cycle path for flat sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethkirche",
+            "hu": "Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "St. Elizabeth's Church"
+          },
+          "coords": [
+            8.7702,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus Nord ist in direkter Nähe.",
+            "hu": "Az északi parkolóház közvetlen közelben van.",
+            "ro": "Parcarea Nord este în imediata apropiere.",
+            "en": "Parkhaus Nord is in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Marburger Oberstadt",
+            "hu": "Marburgi felsőváros",
+            "ro": "Orașul de Sus din Marburg",
+            "en": "Marburg Oberstadt"
+          },
+          "coords": [
+            8.7695,
+            50.8105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Hagyja az autót, és fedezze fel az utcákat gyalog.",
+            "ro": "Lăsați mașina și explorați străduțele la pas.",
+            "en": "Leave the car and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgrafenschloss Marburg",
+            "hu": "Marburgi várkastély",
+            "ro": "Castelul Landgraf din Marburg",
+            "en": "Marburg Landgrafenschloss"
+          },
+          "coords": [
+            8.7668,
+            50.8102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wenige Parkplätze direkt am Schloss, besser im Parkhaus Oberstadt.",
+            "hu": "Kevés parkolóhely a várnál, jobb a felsővárosi parkolóház.",
+            "ro": "Puține locuri de parcare la castel, mai bine în parcarea Oberstadt.",
+            "en": "Few parking spots at the castle, better use the Oberstadt parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiegelslustturm",
+            "hu": "Spiegelslust-torony",
+            "ro": "Turnul Spiegelslust",
+            "en": "Spiegelslustturm"
+          },
+          "coords": [
+            8.7885,
+            50.8155
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Bequeme Auffahrt zum Aussichtspunkt.",
+            "hu": "Kényelmes feljutás autóval a kilátóhoz.",
+            "ro": "Acces auto facil până la punctul de belvedere.",
+            "en": "Comfortable drive up to the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Marburg",
+            "hu": "Marburgi Botanikus Kert",
+            "ro": "Grădina Botanică Marburg",
+            "en": "Botanical Garden Marburg"
+          },
+          "coords": [
+            8.8105,
+            50.8085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz auf den Lahnbergen.",
+            "hu": "Nagy parkoló a Lahn-hegyen.",
+            "ro": "Parcare mare pe Lahnberge.",
+            "en": "Large parking area on the Lahnberge."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Universität",
+            "hu": "Régi Egyetem",
+            "ro": "Vechea Universitate",
+            "en": "Old University"
+          },
+          "coords": [
+            8.7712,
+            50.8085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkhaus Erlenring nutzen.",
+            "hu": "Használja az Erlenring parkolóházat.",
+            "ro": "Folosiți parcarea Erlenring.",
+            "en": "Use the Erlenring parking garage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Marburgs. Nach der Elisabethkirche und der Oberstadt fahren Sie hinauf zum Schloss. Danach geht es zu den Lahnbergen: erst zum Spiegelslustturm für den Ausblick, dann in den weitläufigen Botanischen Garten, bevor Sie den Tag am Lahnufer beenden.",
+        "hu": "Autóval kényelmesen elérheti Marburg különböző szintjeit. Az Erzsébet-templom és a felsőváros után felhajtunk a várhoz. Ezután a Lahn-hegy következik: előbb a Spiegelslust-torony a kilátásért, majd a tágas Botanikus Kert, mielőtt a napot a Lahn partján zárnánk.",
+        "ro": "Cu mașina ajungeți ușor la diferitele niveluri ale Marburgului. După Biserica Sfânta Elisabeta și Orașul de Sus, urcați spre castel. Urmează Lahnberge: mai întâi Turnul Spiegelslust pentru priveliște, apoi Grădina Botanică vastă, înainte de a încheia ziua pe malul râului Lahn.",
+        "en": "By car, you can easily reach the different levels of Marburg. After St. Elizabeth's Church and the Oberstadt, drive up to the castle. Then head to the Lahnberge: first to the Spiegelslustturm for the view, then to the extensive Botanical Garden, before ending the day on the banks of the Lahn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Waldschlösschen",
+            "tip": "Traditionelle Küche in der Nähe der Lahnberge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waldschlösschen",
+            "tip": "Hagyományos konyha a Lahn-hegy közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Waldschlösschen",
+            "tip": "Bucătărie tradițională în apropiere de Lahnberge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Waldschlösschen",
+            "tip": "Traditional cuisine near the Lahnberge hills."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spiegelslust",
+            "tip": "Sonnenuntergang über der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spiegelslust",
+            "tip": "Naplemente a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spiegelslust",
+            "tip": "Apus de soare deasupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spiegelslust",
+            "tip": "Sunset over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufhaus Ahrens",
+            "tip": "Zentrales Einkaufshaus im Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufhaus Ahrens",
+            "tip": "Központi áruház a völgyben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufhaus Ahrens",
+            "tip": "Magazin central în vale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufhaus Ahrens",
+            "tip": "Central department store in the valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Oberstadt ist schwierig, nutzen Sie Parkhäuser.",
+          "Die Straßen zum Schloss sind sehr eng.",
+          "Ein Parkticket gilt oft für mehrere Zonen."
+        ],
+        "hu": [
+          "A felsővárosban nehéz parkolni, használja a parkolóházakat.",
+          "A várhoz vezető utak nagyon szűkek.",
+          "A parkolójegy gyakran több zónára is érvényes."
+        ],
+        "ro": [
+          "Parcarea în Orașul de Sus este dificilă, folosiți parcările etajate.",
+          "Străzile spre castel sunt foarte înguste.",
+          "Un bilet de parcare este adesea valabil pentru mai multe zone."
+        ],
+        "en": [
+          "Parking in the Oberstadt is difficult, use parking garages.",
+          "The roads to the castle are very narrow.",
+          "A parking ticket is often valid for multiple zones."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Elisabethkirche",
+            "hu": "Erzsébet-templom",
+            "ro": "Biserica Sfânta Elisabeta",
+            "en": "St. Elizabeth's Church"
+          },
+          "coords": [
+            8.7702,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Elisabethkirche' direkt davor.",
+            "hu": "'Elisabethkirche' buszmegálló közvetlenül előtte.",
+            "ro": "Stația de autobuz 'Elisabethkirche' este chiar în față.",
+            "en": "Bus stop 'Elisabethkirche' is right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Marburger Oberstadt",
+            "hu": "Marburgi felsőváros",
+            "ro": "Orașul de Sus din Marburg",
+            "en": "Marburg Oberstadt"
+          },
+          "coords": [
+            8.7695,
+            50.8105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang oder Schlossbus (Linie 10) nutzen.",
+            "hu": "Rövid séta vagy használja a várbuszt (10-es vonal).",
+            "ro": "O scurtă plimbare sau folosiți autobuzul castelului (linia 10).",
+            "en": "Short walk or use the Castle Bus (Line 10)."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgrafenschloss Marburg",
+            "hu": "Marburgi várkastély",
+            "ro": "Castelul Landgraf din Marburg",
+            "en": "Marburg Landgrafenschloss"
+          },
+          "coords": [
+            8.7668,
+            50.8102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Linie 10 bringt Sie direkt zum Schlossberg.",
+            "hu": "A 10-es busz közvetlenül a várhegyre visz.",
+            "ro": "Linia 10 vă duce direct pe dealul castelului.",
+            "en": "Line 10 takes you directly to the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Marburg",
+            "hu": "Marburgi Botanikus Kert",
+            "ro": "Grădina Botanică Marburg",
+            "en": "Botanical Garden Marburg"
+          },
+          "coords": [
+            8.8105,
+            50.8085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Buslinie 7 oder 9 Richtung Lahnberge.",
+            "hu": "7-es vagy 9-es busz a Lahn-hegy irányába.",
+            "ro": "Linia 7 sau 9 spre Lahnberge.",
+            "en": "Bus line 7 or 9 towards Lahnberge."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Universität",
+            "hu": "Régi Egyetem",
+            "ro": "Vechea Universitate",
+            "en": "Old University"
+          },
+          "coords": [
+            8.7712,
+            50.8085
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Zentraler Umstieg am Rudolf-Platz möglich.",
+            "hu": "Központi átszállás a Rudolf-Platznál.",
+            "ro": "Schimb central posibil la Rudolf-Platz.",
+            "en": "Central transfer possible at Rudolf-Platz."
+          }
+        },
+        {
+          "name": {
+            "de": "Religionskundliche Sammlung",
+            "hu": "Vallástudományi Gyűjtemény",
+            "ro": "Colecția de Istorie a Religiilor",
+            "en": "Religionskundliche Sammlung"
+          },
+          "coords": [
+            8.7725,
+            50.8105
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Alten Universität erreichbar.",
+            "hu": "Gyalogosan elérhető a Régi Egyetemtől.",
+            "ro": "Accesibil pe jos de la Vechea Universitate.",
+            "en": "Within walking distance from the Old University."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Marburg lässt sich hervorragend mit dem Bus erkunden. Der Schlossbus erspart Ihnen den steilen Aufstieg. Nach dem Stadtzentrum bringt Sie der Stadtbus zu den Lahnbergen in den Botanischen Garten. Ein perfekt vernetzter Tag zwischen Kultur und Natur.",
+        "hu": "Marburg kiválóan felfedezhető busszal. A várbusz megkíméli a meredek emelkedőtől. A városközpont után a helyi járat kivisz a Lahn-hegyre a Botanikus Kertbe. Tökéletesen összekapcsolt nap a kultúra és a természet között.",
+        "ro": "Marburg poate fi explorat excelent cu autobuzul. Autobuzul castelului vă scutește de urcarea abruptă. După centrul orașului, autobuzul urban vă duce pe Lahnberge la Grădina Botanică. O zi perfect conectată între cultură și natură.",
+        "en": "Marburg can be explored excellently by bus. The Castle Bus saves you the steep climb. After the city center, the city bus takes you to the Lahnberge hills and the Botanical Garden. A perfectly networked day between culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mensa am Erlenring",
+            "tip": "Günstig und gut essen am Lahnufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mensa am Erlenring",
+            "tip": "Olcsó és jó étkezés a Lahn partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mensa am Erlenring",
+            "tip": "Mâncare ieftină și bună pe malul râului Lahn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mensa am Erlenring",
+            "tip": "Inexpensive and good food on the Lahn riverbank."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Botanischer Garten",
+            "tip": "Grüne Oase mitten im Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi Botanikus Kert",
+            "tip": "Zöld oázis a völgy közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică Veche",
+            "tip": "Oază verde în mijlocul văii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Botanical Garden",
+            "tip": "Green oasis in the middle of the valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marburg-Gutschein",
+            "tip": "Lokal shoppen in vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marburg-utalvány",
+            "tip": "Helyi vásárlás számos üzletben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Voucher Marburg",
+            "tip": "Cumpărături locale în multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marburg Voucher",
+            "tip": "Shop locally in many stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Tagesticket für die Zone 1 reicht meist aus.",
+          "Die RMV-App zeigt Echtzeit-Abfahrten.",
+          "Linie 10 (Schlossbus) fährt halbstündlich."
+        ],
+        "hu": [
+          "A legtöbbször elég egy napijegy az 1-es zónára.",
+          "Az RMV-app mutatja a valós idejű indulásokat.",
+          "A 10-es busz (várbusz) félóránként jár."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru zona 1 este de obicei suficient.",
+          "Aplicația RMV arată plecările în timp real.",
+          "Linia 10 (autobuzul castelului) circulă la fiecare jumătate de oră."
+        ],
+        "en": [
+          "A day ticket for zone 1 is usually sufficient.",
+          "The RMV app shows real-time departures.",
+          "Line 10 (Castle Bus) runs every half hour."
+        ]
+      }
+    }
+  }
+}

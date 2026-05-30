@@ -1,0 +1,1005 @@
+{
+  "city_id": "germany-brandenburg-cities-v2",
+  "anchor": {
+    "name": "Jahrtausendbrücke",
+    "coords": [
+      12.555,
+      52.412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Landesmuseum (Paulikloster)",
+            "hu": "Tartományi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic de Stat",
+            "en": "State Archaeological Museum"
+          },
+          "coords": [
+            12.557,
+            52.41
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "In einem restaurierten Dominikanerkloster untergebracht.",
+            "hu": "Egy helyreállított dominikánus kolostorban található.",
+            "ro": "Găzduit într-o mănăstire dominicană restaurată.",
+            "en": "Housed in a beautifully restored Dominican monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Katharinenkirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            12.561,
+            52.411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Meisterwerk der norddeutschen Backsteingotik.",
+            "hu": "Az észak-német gótikus téglaépítészet remekműve.",
+            "ro": "Capodoperă a goticului de cărămidă din nordul Germaniei.",
+            "en": "A masterpiece of North German Brick Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Jahrtausendbrücke",
+            "hu": "Millenniumi híd",
+            "ro": "Podul Mileniului",
+            "en": "Millennium Bridge"
+          },
+          "coords": [
+            12.556,
+            52.412
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbindet die Altstadt mit der Neustadt über die Havel.",
+            "hu": "Összeköti az óvárost az újvárossal a Havel folyó felett.",
+            "ro": "Conectează orașul vechi de cel nou peste râul Havel.",
+            "en": "Connects the Old Town with the New Town over the Havel."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstädtisches Rathaus",
+            "hu": "Óvárosi városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            12.553,
+            52.413
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Rolandstatue vor dem Portal.",
+            "hu": "Csodálja meg a Roland-szobrot a bejárat előtt.",
+            "ro": "Admirați statuia lui Roland din fața portalului.",
+            "en": "Admire the Roland statue in front of the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandenburger Dom",
+            "hu": "Brandenburgi dóm",
+            "ro": "Catedrala din Brandenburg",
+            "en": "Brandenburg Cathedral"
+          },
+          "coords": [
+            12.562,
+            52.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Wiege der Mark Brandenburg auf der Dominsel.",
+            "hu": "A Brandenburgi Márka bölcsője a Dóm-szigeten.",
+            "ro": "Leagănul mărcii Brandenburg pe Insula Catedralei.",
+            "en": "The cradle of the March of Brandenburg on Cathedral Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Steintorturm",
+            "hu": "Kőkapu-torony",
+            "ro": "Turnul Porții de Piatră",
+            "en": "Stone Gate Tower"
+          },
+          "coords": [
+            12.559,
+            52.408
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Teil der alten Stadtbefestigung mit Museum im Inneren.",
+            "hu": "A régi városfal része, belsejében múzeummal.",
+            "ro": "Parte a vechii fortificații a orașului, cu muzeu în interior.",
+            "en": "Part of the old city fortifications with a museum inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die archäologischen Schätze im Paulikloster. Der Weg führt über die prächtige Katharinenkirche zur Jahrtausendbrücke, dem Herzstück der Wasserstadt. Nach einem Mittagessen am Rathaus besuchen Sie den Dom auf seiner eigenen Insel. Zum Abschluss bietet der Steintorturm Einblicke in die wehrhafte Geschichte der Stadt.",
+        "hu": "Reggel a Paulikloster régészeti kincseit fedezzük fel. Az út a gótikus Katalin-templomon keresztül a Millenniumi hídhoz vezet. Az óvárosi városháza melletti ebéd után a Dóm-szigetre látogatunk, a város bölcsőjéhez. A napot a monumentális Kőkapu-toronynál zárjuk, amely a város egykori védelmi erejét jelképezi.",
+        "ro": "Dimineața este dedicată comorilor arheologice din Mănăstirea Sf. Pavel. Traseul trece pe lângă biserica Sf. Ecaterina către Podul Mileniului, inima orașului. După un prânz lângă Primăria Veche, vizităm Catedrala de pe insula sa. Încheiem ziua la Turnul Porții de Piatră, martor al istoriei defensive a orașului.",
+        "en": "Morning begins with archaeological treasures in the Paulikloster. Walk past the magnificent St. Catherine's to the Millennium Bridge, the city's scenic center. After lunch by the Old Town Hall, visit the historic Cathedral on its own island. Finish the day at the Stone Gate Tower, exploring the medieval fortifications of this water-surrounded city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Havel-Zander",
+            "tip": "Frischer Fisch direkt aus den umliegenden Gewässern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haveli süllő",
+            "tip": "Friss halétel közvetlenül a környékbeli tavakból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șalău de Havel",
+            "tip": "Pește proaspăt pescuit direct din apele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Havel Pike-perch",
+            "tip": "Fresh fish sourced directly from the surrounding river and lakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domstiftsgut",
+            "tip": "Ruhige Gärten direkt am Havelufer.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dóm-szigeti kertek",
+            "tip": "Csendes pihenőhely a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Catedralei",
+            "tip": "Loc liniștit pe malul râului Havel.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Precinct",
+            "tip": "Quiet gardens right on the banks of the Havel.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "St. Annen Galerie",
+            "tip": "Modernes Einkaufszentrum im Herzen der Neustadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "St. Annen Galéria",
+            "tip": "Modern bevásárlóközpont az újváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria St. Annen",
+            "tip": "Centru comercial modern în inima orașului nou."
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Annen Gallery",
+            "tip": "Modern shopping center in the heart of the New Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Brandenburg ist eine Wasserstadt, nutzen Sie die Uferwege.",
+          "Die Rolandstatue ist ein Muss für Fotos."
+        ],
+        "hu": [
+          "Brandenburg vizi város, használja a parti sétányokat.",
+          "A Roland-szobor kötelező fotóhelyszín."
+        ],
+        "ro": [
+          "Brandenburg este un oraș pe apă, folosiți potecile de pe mal.",
+          "Statuia lui Roland este un punct obligatoriu pentru fotografii."
+        ],
+        "en": [
+          "Brandenburg is a city of water; always prefer the riverside paths.",
+          "The Roland statue is the city's iconic photo spot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marienberg und Friedenswarte",
+            "hu": "Marienberg és Béke-kilátó",
+            "ro": "Marienberg și Turnul Păcii",
+            "en": "Marienberg and Peace Tower"
+          },
+          "coords": [
+            12.545,
+            52.416
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick über die gesamte Havellandschaft.",
+            "hu": "A legjobb panoráma a teljes Havel-vidékre.",
+            "ro": "Cea mai bună vedere panoramică asupra peisajului Havel.",
+            "en": "Best panoramic view over the entire Havel landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Slawendorf",
+            "hu": "Szláv falu",
+            "ro": "Satul Slav",
+            "en": "Slavic Village"
+          },
+          "coords": [
+            12.548,
+            52.414
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Freilichtmuseum zur slawischen Frühgeschichte.",
+            "hu": "Szabadtéri múzeum a korai szláv történelemről.",
+            "ro": "Muzeu în aer liber despre istoria timpurie a slavilor.",
+            "en": "Open-air museum showcasing early Slavic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstädtisches Rathaus",
+            "hu": "Óvárosi városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            12.553,
+            52.413
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Historischer Marktplatz mit Rolandstatue.",
+            "hu": "Történelmi piactér a Roland-szoborral.",
+            "ro": "Piața istorică cu statuia lui Roland.",
+            "en": "Historic marketplace with the Roland statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandenburger Dom",
+            "hu": "Brandenburgi dóm",
+            "ro": "Catedrala din Brandenburg",
+            "en": "Brandenburg Cathedral"
+          },
+          "coords": [
+            12.562,
+            52.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Kreuzgang und das Dommuseum.",
+            "hu": "Látogassa meg a kolostort és a dóm múzeumát.",
+            "ro": "Vizitați mănăstirea și muzeul catedralei.",
+            "en": "Visit the cloister and the cathedral museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Plauer See",
+            "hu": "Plauer See",
+            "ro": "Lacul Plauer",
+            "en": "Plauer See"
+          },
+          "coords": [
+            12.43,
+            52.405
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Radstrecke am Wasser entlang.",
+            "hu": "Gyönyörű kerékpárút a víz mentén.",
+            "ro": "Traseu superb pentru biciclete de-a lungul apei.",
+            "en": "Beautiful cycling route along the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Katharinenkirche",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            12.561,
+            52.411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Backsteinpracht im Zentrum der Neustadt.",
+            "hu": "Téglagótikus pompa az újváros központjában.",
+            "ro": "Splendoare de cărămidă în centrul orașului nou.",
+            "en": "Brick Gothic splendor in the New Town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Höhen des Marienbergs mit der weiten Seenlandschaft. Nach dem Panoramablick radeln Sie durch das historische Zentrum zur Dominsel. Am Nachmittag führt eine entspannte Strecke zum Plauer See, ideal für eine Pause am Wasser, bevor es zurück in die Neustadt geht.",
+        "hu": "Ez a kerékpártúra összeköti a Marienberg magaslatait a tágas tóvidékkel. A panoráma után a történelmi központon át a Dóm-szigetre tekerünk. Délután pihentető útvonal vezet a Plauer See-hez, amely tökéletes egy vízparti pihenőhöz, mielőtt visszatérnénk az újvárosba.",
+        "ro": "Acest tur cu bicicleta combină înălțimile Marienberg cu peisajul vast al lacurilor. După vederea panoramică, pedalați prin centrul istoric către Insula Catedralei. După-amiaza, un traseu relaxat vă duce la Lacul Plauer, ideal pentru o pauză la apă înainte de revenirea în oraș.",
+        "en": "This bike tour links the heights of Marienberg with the expansive lake district. After the panorama, cycle through the historic core to Cathedral Island. In the afternoon, a relaxed route leads to Plauer See, perfect for a lakeside break before returning to the New Town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischerhütte",
+            "tip": "Direkt am Seeufer gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halászház",
+            "tip": "Közvetlenül a tóparton található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabana Pescărească",
+            "tip": "Situată direct pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Hut",
+            "tip": "Located directly on the lakeshore."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Havelradweg",
+            "tip": "Ruhige Abschnitte fernab der Straßen.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Havel-kerékpárút",
+            "tip": "Csendes szakaszok távol az utaktól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Havel",
+            "tip": "Secțiuni liniștite departe de drumuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Havel Cycle Path",
+            "tip": "Quiet sections away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradhaus",
+            "tip": "Zubehör und lokale Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárház",
+            "tip": "Kiegészítők és helyi térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Bicicletei",
+            "tip": "Accesorii și hărți locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike House",
+            "tip": "Accessories and local cycle maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Havel.",
+          "Achten Sie auf die Kopfsteinpflaster in der Altstadt."
+        ],
+        "hu": [
+          "Használja a Havel menti jól kiépített kerékpárutakat.",
+          "Vigyázzon az óváros macskaköves utcáin."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine amenajate de-a lungul Havelului.",
+          "Atenție la pavajul cu piatră cubică din orașul vechi."
+        ],
+        "en": [
+          "Use the well-maintained cycle paths along the Havel.",
+          "Watch out for cobblestones in the historic Old Town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstädtisches Rathaus (Cluster A)",
+            "hu": "Óvárosi városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            12.553,
+            52.413
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Parkoljon központilag és fedezze fel az óvárost gyalog.",
+            "ro": "Parcați central și explorați orașul vechi pe jos.",
+            "en": "Park centrally and explore the Old Town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Slawendorf (Cluster A)",
+            "hu": "Szláv falu",
+            "ro": "Satul Slav",
+            "en": "Slavic Village"
+          },
+          "coords": [
+            12.548,
+            52.414
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang vom Rathaus zum Havelufer.",
+            "hu": "Séta a városházától a Havel-partig.",
+            "ro": "Plimbare de la primărie către malul Havelului.",
+            "en": "Short walk from the town hall to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandenburger Dom (Cluster B)",
+            "hu": "Brandenburgi dóm",
+            "ro": "Catedrala din Brandenburg",
+            "en": "Brandenburg Cathedral"
+          },
+          "coords": [
+            12.562,
+            52.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zur Dominsel, Parkplätze vorhanden.",
+            "hu": "Rövid út a Dóm-szigetre, parkolási lehetőség van.",
+            "ro": "Scurtă călătorie către Insula Catedralei, parcări disponibile.",
+            "en": "Short drive to Cathedral Island, parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Katharinenkirche (Cluster B)",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            12.561,
+            52.411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Dominsel in die Neustadt.",
+            "hu": "Gyalog a Dóm-szigetről az újvárosba.",
+            "ro": "Pe jos de la Insula Catedralei în orașul nou.",
+            "en": "Walk from Cathedral Island to the New Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Plauer See (Cluster C)",
+            "hu": "Plauer See",
+            "ro": "Lacul Plauer",
+            "en": "Plauer See"
+          },
+          "coords": [
+            12.43,
+            52.405
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Ausflug zum westlichen Ende der Stadt.",
+            "hu": "Kirándulás a város nyugati végébe.",
+            "ro": "Excursie către capătul vestic al orașului.",
+            "en": "Excursion to the western edge of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie bequem die historischen Kerne mit der Natur. Vormittags erkunden Sie die Altstadt und das Slawendorf. Nach einem Wechsel zur Dominsel besuchen Sie den imposanten Dom und die Neustadt. Den Nachmittag verbringen Sie entspannt am Plauer See, dem Tor zur Seenplatte.",
+        "hu": "Autóval kényelmesen összeköthetjük a történelmi városmagokat a természettel. Délelőtt az óvárost és a szláv falut fedezzük fel. A Dóm-szigetre átváltva megnézzük a lenyűgöző székesegyházat és az újvárost. A délutánt pihentetően töltjük a Plauer See-nél, amely a tóvidék kapuja.",
+        "ro": "Cu mașina conectați confortabil nucleele istorice cu natura. Dimineața explorați orașul vechi și satul slav. După mutarea pe Insula Catedralei, vizitați catedrala impunătoare și orașul nou. După-amiaza o petreceți relaxat la Lacul Plauer, poarta către zona lacurilor.",
+        "en": "By car, you can easily link the historic centers with nature. Morning is for the Old Town and the Slavic Village. After moving to Cathedral Island, visit the grand Cathedral and the New Town. Spend your afternoon relaxing by Plauer See, the gateway to the local lake district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Werft",
+            "tip": "Gehobene Küche mit Havelblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Werft Étterem",
+            "tip": "Színvonalas konyha kilátással a Havelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Werft",
+            "tip": "Bucătărie rafinată cu vedere la Havel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Werft",
+            "tip": "Upscale dining with a view of the Havel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buhnenhaus",
+            "tip": "Ruhiges Restaurant direkt am See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buhnenhaus",
+            "tip": "Csendes étterem közvetlenül a tónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buhnenhaus",
+            "tip": "Restaurant liniștit direct pe lac.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buhnenhaus",
+            "tip": "Quiet restaurant directly on the lake.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Regionale Produkte am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tanyasi bolt",
+            "tip": "Regionális termékek a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Produse regionale la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Regional products on the outskirts of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride Möglichkeiten.",
+          "Die Brücken in der Stadt können eng sein."
+        ],
+        "hu": [
+          "Használja a P+R lehetőségeket.",
+          "A város hídjai szűkek lehetnek."
+        ],
+        "ro": [
+          "Folosiți facilitățile Park-and-Ride.",
+          "Podurile din oraș pot fi înguste."
+        ],
+        "en": [
+          "Make use of Park-and-Ride facilities.",
+          "Be aware that some city bridges are quite narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hbf Brandenburg",
+            "hu": "Brandenburg főpályaudvar",
+            "ro": "Gara Centrală Brandenburg",
+            "en": "Brandenburg Main Station"
+          },
+          "coords": [
+            12.563,
+            52.402
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für Straßenbahnen ins Zentrum.",
+            "hu": "Kiindulópont a központba tartó villamosokhoz.",
+            "ro": "Punct de plecare pentru tramvaiele către centru.",
+            "en": "Starting point for trams into the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Landesmuseum (Cluster 1)",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            12.557,
+            52.41
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Linie 1 oder 6 bis Haltestelle Neustädtischer Markt.",
+            "hu": "1-es vagy 6-os vonal a Neustädtischer Markt megállóig.",
+            "ro": "Linia 1 sau 6 până la stația Neustädtischer Markt.",
+            "en": "Tram line 1 or 6 to Neustädtischer Markt."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Katharinenkirche (Cluster 1)",
+            "hu": "Szent Katalin-templom",
+            "ro": "Biserica Sfânta Ecaterina",
+            "en": "St. Catherine's Church"
+          },
+          "coords": [
+            12.561,
+            52.411
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstädtisches Rathaus (Cluster 2)",
+            "hu": "Óvárosi városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            12.553,
+            52.413
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tram bis Rathaus - Zentrum der Altstadt.",
+            "hu": "Villamossal a Városházáig - az óváros központja.",
+            "ro": "Tramvai până la primărie - centrul orașului vechi.",
+            "en": "Tram to Rathaus - the heart of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandenburger Dom (Cluster 3)",
+            "hu": "Brandenburgi dóm",
+            "ro": "Catedrala din Brandenburg",
+            "en": "Brandenburg Cathedral"
+          },
+          "coords": [
+            12.562,
+            52.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie F bringt Sie direkt zur Dominsel.",
+            "hu": "Az F jelű buszjárat közvetlenül a Dóm-szigetre visz.",
+            "ro": "Linia de autobuz F vă duce direct pe Insula Catedralei.",
+            "en": "Bus line F takes you directly to Cathedral Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienberg und Friedenswarte",
+            "hu": "Marienberg és Béke-kilátó",
+            "ro": "Marienberg și Turnul Păcii",
+            "en": "Marienberg and Peace Tower"
+          },
+          "coords": [
+            12.545,
+            52.416
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Buslinie C bis Marienberg/Klinikum.",
+            "hu": "C jelű busz a Marienberg/Klinikum megállóig.",
+            "ro": "Linia de autobuz C până la Marienberg/Klinikum.",
+            "en": "Bus line C to Marienberg/Klinikum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Hauptbahnhof aus erschließen Sie die Stadt mit der historischen Straßenbahn und Bussen. Vormittags besuchen Sie das Museum und die Katharinenkirche in der Neustadt. Nach dem Mittagessen am Altstädtischen Rathaus bringt Sie der Bus zum Dom. Den Abschluss bildet der Marienberg mit seinem weiten Blick, bevor es zurück zum Bahnhof geht.",
+        "hu": "A főpályaudvartól indulva a történelmi villamosokkal és buszokkal fedezzük fel a várost. Délelőtt a múzeumot és az újvárosi Katalin-templomot keressük fel. Az óvárosi városháza melletti ebéd után busszal megyünk a dómhoz. A napot a Marienberg tágas kilátása zárja, mielőtt visszatérnénk az állomásra.",
+        "ro": "De la gara centrală, descoperiți orașul cu tramvaie și autobuze istorice. Dimineața vizitați muzeul și biserica Sf. Ecaterina din orașul nou. După prânzul la Primăria Veche, autobuzul vă duce la catedrală. Încheierea zilei are loc la Marienberg, cu vederea sa vastă, înainte de revenirea la gară.",
+        "en": "Starting from the main station, explore the city using historic trams and buses. Visit the museum and St. Catherine's in the New Town during the morning. After lunch at the Old Town Hall, take the bus to the Cathedral. End your day at Marienberg with its far-reaching views before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartoffelgasthaus",
+            "tip": "Traditionelle brandenburgische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgonya-fogadó",
+            "tip": "Hagyományos brandenburgi konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hana Cartofului",
+            "tip": "Bucătărie tradițională din Brandenburg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Potato Inn",
+            "tip": "Traditional Brandenburg cuisine focusing on local staples."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Packhof",
+            "tip": "Ehemaliges BUGA-Gelände am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Packhof",
+            "tip": "Egykori kertészeti kiállítási terület a víznél.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Packhof",
+            "tip": "Fosta zonă expozițională BUGA de lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Packhof",
+            "tip": "Former garden show grounds right by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Neustädtischer Markt",
+            "tip": "Wochenmarkt mit lokalen Händlern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neustädtischer Markt",
+            "tip": "Heti piac helyi árusokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Neustädtischer",
+            "tip": "Piață săptămânală cu negustori locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "New Town Market",
+            "tip": "Weekly market featuring local vendors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den ÖPNV.",
+          "Achten Sie auf die Taktzeiten der Buslinien zur Dominsel."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez.",
+          "Figyeljen a Dóm-szigetre tartó buszok menetrendjére."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public.",
+          "Atenție la orarul autobuzelor către Insula Catedralei."
+        ],
+        "en": [
+          "Purchase a day ticket for the local public transit.",
+          "Check the frequency of the bus lines serving Cathedral Island."
+        ]
+      }
+    }
+  }
+}

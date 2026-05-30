@@ -1,0 +1,1038 @@
+{
+  "city_id": "france-domremy-history-v2",
+  "anchor": {
+    "name": "Domrémy-la-Pucelle",
+    "coords": [
+      5.67,
+      48.43
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Jeanne d'Arc szülőháza",
+          "coords": [
+            5.6743,
+            48.4422
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das authentische Haus, in dem Jeanne d'Arc 1412 geboren wurde.",
+            "hu": "Az eredeti középkori ház, ahol Jeanne d'Arc 1412-ben született.",
+            "ro": "Casa autentică în care s-a născut Ioana d'Arc în 1412.",
+            "en": "The authentic medieval house where Joan of Arc was born in 1412."
+          }
+        },
+        {
+          "name": "Szent Remigius-templom",
+          "coords": [
+            5.6751,
+            48.4424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier befindet sich das Taufbecken, in dem Jeanne getauft wurde.",
+            "hu": "Itt látható a keresztelőmedence, amelyben Jeanne-t megkeresztelték.",
+            "ro": "Aici se află cristelnița în care a fost botezată Ioana.",
+            "en": "Inside is the baptismal font where Joan was baptized."
+          }
+        },
+        {
+          "name": "Maison de l'Arbre de Mai",
+          "coords": [
+            5.6755,
+            48.4421
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein altes Haus, das die dörfliche Atmosphäre des 15. Jahrhunderts bewahrt.",
+            "hu": "Régi ház, amely hűen őrzi a 15. századi falusi hangulatot.",
+            "ro": "O casă veche care păstrează atmosfera rurală din secolul al XV-lea.",
+            "en": "An old house preserving the village atmosphere of the 15th century."
+          }
+        },
+        {
+          "name": "Centre Johannique",
+          "coords": [
+            5.6741,
+            48.4418
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interaktives Museum über das Schicksal der Jungfrau von Orléans.",
+            "hu": "Interaktív múzeum az orléans-i szűz sorsáról és koráról.",
+            "ro": "Muzeu interactiv despre destinul Fecioarei din Orléans.",
+            "en": "Interactive museum about the fate of the Maid of Orléans."
+          }
+        },
+        {
+          "name": "A Meuse partja",
+          "coords": [
+            5.6772,
+            48.4428
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Spaziergang entlang des Flusses, der das Dorf durchquert.",
+            "hu": "Csendes séta a falun átkanyargó Meuse folyó partján.",
+            "ro": "O plimbare liniștită de-a lungul râului care traversează satul.",
+            "en": "A quiet walk along the river that flows through the village."
+          }
+        },
+        {
+          "name": "Bois-Chenu bazilika",
+          "coords": [
+            5.6712,
+            48.4285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Auf dem Hügel errichtet, wo Jeanne ihre Stimmen hörte.",
+            "hu": "A dombon áll, ahol Jeanne a titokzatos hangokat hallotta.",
+            "ro": "Ridicat pe dealul unde Ioana și-a auzit vocile cerești.",
+            "en": "Built on the hill where Joan heard her celestial voices."
+          }
+        },
+        {
+          "name": "Jeanne d'Arc emlékmű",
+          "coords": [
+            5.6715,
+            48.4282
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Imposantes Denkmal direkt neben der Basilika.",
+            "hu": "Impozáns emlékmű közvetlenül a bazilika szomszédságában.",
+            "ro": "Monument impunător situat chiar lângă basilică.",
+            "en": "Imposing monument located right next to the basilica."
+          }
+        },
+        {
+          "name": "A bazilika kertje",
+          "coords": [
+            5.6718,
+            48.4288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort mit Panoramablick auf das Meuse-Tal.",
+            "hu": "Békés kert panorámával a Meuse-völgyre.",
+            "ro": "O grădină liniștită cu vedere panoramică asupra văii Meuse.",
+            "en": "A peaceful garden with a panoramic view of the Meuse valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Domrémy am Geburtshaus von Jeanne d'Arc und der benachbarten Kirche, in der die Heilige getauft wurde. Nach einem Besuch im Centre Johannique spazieren Sie am Ufer der Maas, bevor Sie den Hügel zur prachtvollen Basilika Bois-Chenu erklimmen. Der Tag endet friedlich in den Gärten der Basilika mit einem weiten Blick über das lothringische Land.",
+        "hu": "Kezdje a napot Domrémy szívében, Jeanne d'Arc szülőházánál és a szomszédos templomnál, ahol a szentet megkeresztelték. A Centre Johannique látogatása után tegyen egy kellemes sétát a Meuse partján, majd vágjon neki a dombnak a pompás Bois-Chenu bazilikáig. A napot a bazilika kertjében zárjuk, ahonnan lenyűgöző kilátás nyílik a lotharingiai tájra.",
+        "ro": "Începeți ziua în inima localității Domrémy, la casa natală a Ioanei d'Arc și la biserica vecină unde sfânta a fost botezată. După vizitarea Centrului Johannique, plimbați-vă pe malul râului Meuse, apoi urcați dealul până la splendida Basilică Bois-Chenu. Ziua se încheie liniștit în grădinile basilicii, cu o priveliște largă asupra peisajului din Lorena.",
+        "en": "Start your day in the heart of Domrémy at Joan of Arc's birthplace and the neighboring church where the saint was baptized. After visiting the Centre Johannique, take a stroll along the Meuse banks before heading up the hill to the magnificent Bois-Chenu Basilica. The day ends peacefully in the basilica's gardens with a vast view over the Lorraine countryside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Probieren Sie das Originalgericht der Region in einer lokalen Bäckerei."
+          },
+          {
+            "name": "Madeleines de Commercy",
+            "tip": "Ein berühmtes Gebäck aus der nahen Stadt Commercy."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Kóstolja meg a régió ikonikus sós pitéjét egy helyi pékségben."
+          },
+          {
+            "name": "Mirabelle szilva",
+            "tip": "Lotharingia jellegzetes gyümölcse lekvárként vagy süteményben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Gustați celebra tarta sărată a regiunii la o brutărie locală."
+          },
+          {
+            "name": "Madeleines",
+            "tip": "Prăjituri pufoase originare din regiunea apropiată Commercy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Try the authentic regional savory tart at a local bakery."
+          },
+          {
+            "name": "Mirabelle Plum",
+            "tip": "The signature fruit of Lorraine, often found in jams or tarts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Maas-Ufer",
+            "tip": "Ein stiller Ort zum Nachdenken am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Basilika-Garten",
+            "tip": "Ruhe und Weite hoch über dem Dorf.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meuse partja",
+            "tip": "Csendes szakasz az elmélkedéshez a víz mellett.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Bazilika kertje",
+            "tip": "Nyugalom és tágas terek a falu felett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Meuse",
+            "tip": "Un loc liniștit pentru reflecție lângă apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Basilicii",
+            "tip": "Liniște și spațiu generos deasupra satului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meuse Banks",
+            "tip": "A quiet spot for reflection by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Basilica Garden",
+            "tip": "Peace and wide-open views above the village.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Bücher und Figuren zum Thema Jeanne d'Arc."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Könyvek és szobrocskák Jeanne d'Arc emlékére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului",
+            "tip": "Cărți și figurine tematice cu Ioana d'Arc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Books and figurines related to Joan of Arc's history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Basilika.",
+          "Kombitickets für Haus und Museum sind am günstigsten.",
+          "Die Basilika ist besonders am späten Nachmittag stimmungsvoll."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a bazilikához vezető emelkedőhöz.",
+          "A szülőház és a múzeum közös jeggyel látogatható.",
+          "A bazilika késő délután, a lemenő nap fényében a legszebb."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea spre basilică.",
+          "Biletele combinate pentru casă și muzeu sunt cele mai avantajoase.",
+          "Basilica are o atmosferă deosebită în lumina după-amiezii."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk up to the Basilica.",
+          "Combined tickets for the house and museum offer the best value.",
+          "The Basilica is especially atmospheric in the late afternoon light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Jeanne d'Arc szülőháza",
+          "coords": [
+            5.6743,
+            48.4422
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz am Eingang.",
+            "hu": "Biztonságos kerékpártároló a bejáratnál.",
+            "ro": "Parcare sigură pentru biciclete la intrare.",
+            "en": "Secure bike parking available at the entrance."
+          }
+        },
+        {
+          "name": "Szent Remigius-templom",
+          "coords": [
+            5.6751,
+            48.4424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kleine Kirche mit großer historischer Bedeutung.",
+            "hu": "Kis templom hatalmas történelmi jelentőséggel.",
+            "ro": "O biserică mică cu o mare importanță istorică.",
+            "en": "Small church with immense historical significance."
+          }
+        },
+        {
+          "name": "Centre Johannique",
+          "coords": [
+            5.6741,
+            48.4418
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über das Mittelalter.",
+            "hu": "Mélyítse el tudását a középkorról.",
+            "ro": "Aprofundați-vă cunoștințele despre Evul Mediu.",
+            "en": "Deepen your knowledge of the Middle Ages."
+          }
+        },
+        {
+          "name": "A Meuse partja",
+          "coords": [
+            5.6772,
+            48.4428
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Idealer Ort für ein Picknick am Fluss.",
+            "hu": "Ideális helyszín egy folyóparti piknikhez.",
+            "ro": "Loc ideal pentru un picnic pe malul râului.",
+            "en": "Ideal spot for a riverside picnic."
+          }
+        },
+        {
+          "name": "Környékbeli mezők",
+          "coords": [
+            5.685,
+            48.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radfahren durch die Landschaften, die Jeanne kannte.",
+            "hu": "Kerékpározás a tájakon, amelyeket Jeanne is ismert.",
+            "ro": "Pedalați prin peisajele pe care Ioana le cunoștea.",
+            "en": "Cycling through the landscapes that Joan knew."
+          }
+        },
+        {
+          "name": "Bois-Chenu bazilika",
+          "coords": [
+            5.6712,
+            48.4285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber die Aussicht lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri a fáradtságot.",
+            "ro": "Urcare abruptă, dar priveliștea merită efortul.",
+            "en": "Steep climb, but the view is worth the effort."
+          }
+        },
+        {
+          "name": "Jeanne d'Arc emlékmű",
+          "coords": [
+            5.6715,
+            48.4282
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Ort des Gedenkens auf der Höhe.",
+            "hu": "Az emlékezés helyszíne a magaslaton.",
+            "ro": "Un loc de comemorare pe înălțime.",
+            "en": "A place of remembrance on the heights."
+          }
+        },
+        {
+          "name": "A bazilika kertje",
+          "coords": [
+            5.6718,
+            48.4288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung vor der Abfahrt ins Dorf.",
+            "hu": "Pihenő a faluba való legurulás előtt.",
+            "ro": "Relaxare înainte de coborârea în sat.",
+            "en": "Relax before the descent back to the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Domrémy und das Meuse-Tal auf zwei Rädern. Nach der Besichtigung der historischen Stätten im Dorfzentrum bietet eine Radtour entlang der sanften Hügel von Bois-Chenu eine neue Perspektive auf Jeannes Heimat. Die Fahrt durch die lothringischen Felder verbindet Natur mit Geschichte.",
+        "hu": "Fedezze fel Domrémy-t és a Meuse-völgyet két keréken. A falu központjának történelmi látnivalói után egy kerékpártúra a Bois-Chenu lankáin új perspektívát nyit Jeanne hazájára. A lotharingiai mezőkön átvezető út természetet és történelmet ötvöz.",
+        "ro": "Descoperiți Domrémy și valea Meuse pe două roți. După vizitarea siturilor istorice din centrul satului, o tură cu bicicleta pe colinele de la Bois-Chenu oferă o nouă perspectivă asupra patriei Ioanei. Traseul prin câmpurile Lorenei îmbină natura cu istoria.",
+        "en": "Discover Domrémy and the Meuse Valley on two wheels. After visiting the historical sites in the village center, a bike ride along the slopes of Bois-Chenu offers a new perspective on Joan's homeland. The route through the fields of Lorraine blends nature with history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Süße Energie für Radfahrer direkt vom Imker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Édes energia kerékpárosoknak közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Energie dulce pentru bicicliști direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Sweet energy for cyclists straight from local beekeepers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Meuse-Wiesen",
+            "tip": "Abseits der Hauptstraße die Ruhe genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meuse-menti rétek",
+            "tip": "Élvezze a csendet távol a főúttól.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Meuse",
+            "tip": "Bucurați-vă de liniște departe de drumul principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meuse Meadows",
+            "tip": "Enjoy the silence away from the main road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Saisonale Produkte aus der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Szezonális termékek a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Produse sezoniere din împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers Market",
+            "tip": "Seasonal products from the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Bois-Chenu.",
+          "Die Wege am Flussufer sind meist flach und gut befahrbar."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Bois-Chenu dombról való legurulás előtt.",
+          "A folyóparti utak többnyire síkok és jól járhatóak."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de la Bois-Chenu.",
+          "Drumurile de pe malul râului sunt în mare parte plate și accesibile."
+        ],
+        "en": [
+          "Check your brakes before the descent from Bois-Chenu.",
+          "The riverside paths are mostly flat and easy to ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Jeanne d'Arc szülőháza",
+          "coords": [
+            5.6743,
+            48.4422
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem zentralen Platz des Dorfes.",
+            "hu": "Parkoljon a falu központi terén.",
+            "ro": "Parcați în piața centrală a satului.",
+            "en": "Park in the central square of the village."
+          }
+        },
+        {
+          "name": "Szent Remigius-templom",
+          "coords": [
+            5.6751,
+            48.4424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": "Centre Johannique",
+          "coords": [
+            5.6741,
+            48.4418
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Klimatisiertes Museum, ideal für die Mittagszeit.",
+            "hu": "Légkondicionált múzeum, ideális a déli órákban.",
+            "ro": "Muzeu cu aer condiționat, ideal pentru orele prânzului.",
+            "en": "Air-conditioned museum, ideal for the midday hours."
+          }
+        },
+        {
+          "name": "A Meuse partja",
+          "coords": [
+            5.6772,
+            48.4428
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurze Fahrt oder 5 Minuten zu Fuß vom Zentrum.",
+            "hu": "Rövid autóút vagy 5 perc séta a központból.",
+            "ro": "Scurtă călătorie cu mașina sau 5 minute pe jos.",
+            "en": "Short drive or 5-minute walk from the center."
+          }
+        },
+        {
+          "name": "Bois-Chenu bazilika",
+          "coords": [
+            5.6712,
+            48.4285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor der Basilika.",
+            "hu": "Tágas parkoló közvetlenül a bazilika előtt.",
+            "ro": "Parcare spațioasă chiar în fața basilicii.",
+            "en": "Spacious parking right in front of the basilica."
+          }
+        },
+        {
+          "name": "Jeanne d'Arc emlékmű",
+          "coords": [
+            5.6715,
+            48.4282
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für ein schnelles Foto mit Aussicht.",
+            "hu": "Tökéletes helyszín egy gyors fotóhoz kilátással.",
+            "ro": "Loc perfect pentru o fotografie rapidă cu vedere.",
+            "en": "Perfect spot for a quick photo with a view."
+          }
+        },
+        {
+          "name": "A bazilika kertje",
+          "coords": [
+            5.6718,
+            48.4288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang vor der Weiterreise.",
+            "hu": "Pihentető zárás a továbbutazás előtt.",
+            "ro": "Final relaxant înainte de a continua drumul.",
+            "en": "Relaxing finish before continuing your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich das Dorfzentrum und die höher gelegene Basilika bequem verbinden. Besuchen Sie am Vormittag die historischen Wurzeln im Zentrum und fahren Sie dann zum Bois-Chenu, um die monumentale Basilika zu bewundern. Die Cluster-Strategie spart Zeit beim Parken und lässt mehr Raum für die Geschichte.",
+        "hu": "Autóval kényelmesen összekötheti a falu központját és a magasabban fekvő bazilikát. Délelőtt keresse fel a történelmi gyökereket a centrumban, majd autózzon fel a Bois-Chenu-höz, hogy megcsodálja a monumentális bazilikát. A klaszter-stratégia időt spórol a parkolással, több teret hagyva a történelemnek.",
+        "ro": "Cu mașina puteți conecta confortabil centrul satului cu basilica situată la înălțime. Vizitați dimineața rădăcinile istorice din centru, apoi conduceți până la Bois-Chenu pentru a admira basilica monumentală. Strategia pe grupuri de obiective economisește timp cu parcarea.",
+        "en": "By car, you can comfortably connect the village center and the elevated basilica. Visit the historical roots in the center in the morning, then drive up to Bois-Chenu to admire the monumental basilica. The cluster strategy saves time on parking, leaving more room for history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de la Pucelle",
+            "tip": "Traditionelle Gerichte in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de la Pucelle",
+            "tip": "Hagyományos ételek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de la Pucelle",
+            "tip": "Preparate tradiționale într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de la Pucelle",
+            "tip": "Traditional dishes in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Bois-Chenu",
+            "tip": "Panoramablick über das gesamte Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois-Chenu domb",
+            "tip": "Panoráma az egész völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Bois-Chenu",
+            "tip": "Vedere panoramică asupra întregii văi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois-Chenu Hill",
+            "tip": "Panoramic view over the entire valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Handgefertigte Souvenirs aus Lothringen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Kézzel készült lotharingiai ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Suveniruri lucrate manual din Lorena."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "Handmade souvenirs from the Lorraine region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Dorfzentrum ist begrenzt, kommen Sie früh.",
+          "Die Auffahrt zur Basilika ist gut ausgeschildert."
+        ],
+        "hu": [
+          "A parkolás a falu központjában korlátozott, érkezzen időben.",
+          "A bazilikához vezető út jól ki van táblázva."
+        ],
+        "ro": [
+          "Parcarea în centrul satului este limitată, veniți devreme.",
+          "Drumul spre basilică este bine semnalizat."
+        ],
+        "en": [
+          "Parking in the village center is limited, arrive early.",
+          "The drive up to the Basilica is well signposted."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Jeanne d'Arc szülőháza",
+          "coords": [
+            5.6743,
+            48.4422
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle in Gehweite.",
+            "hu": "Buszmegálló sétatávolságra.",
+            "ro": "Stație de autobuz la mică distanță.",
+            "en": "Bus stop within walking distance."
+          }
+        },
+        {
+          "name": "Szent Remigius-templom",
+          "coords": [
+            5.6751,
+            48.4424
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Geburtshaus.",
+            "hu": "Közvetlenül a szülőház mellett.",
+            "ro": "Chiar lângă casa natală.",
+            "en": "Right next to the birthplace."
+          }
+        },
+        {
+          "name": "Centre Johannique",
+          "coords": [
+            5.6741,
+            48.4418
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Umfassende Ausstellung zur Geschichte.",
+            "hu": "Átfogó kiállítás a történelemről.",
+            "ro": "Expoziție cuprinzătoare despre istorie.",
+            "en": "Comprehensive exhibition on history."
+          }
+        },
+        {
+          "name": "A Meuse partja",
+          "coords": [
+            5.6772,
+            48.4428
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannung pur am Wasser.",
+            "hu": "Tiszta kikapcsolódás a víznél.",
+            "ro": "Relaxare pură lângă apă.",
+            "en": "Pure relaxation by the water."
+          }
+        },
+        {
+          "name": "Bois-Chenu bazilika",
+          "coords": [
+            5.6712,
+            48.4285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus oder ein Taxi für den Hügel.",
+            "hu": "Használja a helyi buszt vagy taxit a dombhoz.",
+            "ro": "Folosiți autobuzul local sau un taxi pentru deal.",
+            "en": "Use the local bus or a taxi for the hill."
+          }
+        },
+        {
+          "name": "A bazilika kertje",
+          "coords": [
+            5.6718,
+            48.4288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe vor der Rückfahrt.",
+            "hu": "Élvezze a csendet a visszaindulás előtt.",
+            "ro": "Bucurați-vă de liniște înainte de întoarcere.",
+            "en": "Enjoy the peace before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Domrémy ist mit öffentlichen Verkehrsmitteln erreichbar, erfordert jedoch Planung. Das Dorfzentrum lässt sich hervorragend zu Fuß erkunden, während für den Weg zur Basilika Bois-Chenu ein kurzer Transfer oder ein längerer Spaziergang nötig ist. Ein Tag voller Spiritualität und Geschichte erwartet Sie.",
+        "hu": "Domrémy tömegközlekedéssel elérhető, de tervezést igényel. A falu központja kiválóan felfedezhető gyalog, míg a Bois-Chenu bazilikához vezető úthoz rövid transzfer vagy hosszabb séta szükséges. Spirituális és történelmi nap vár ránk.",
+        "ro": "Domrémy este accesibil cu transportul public, dar necesită planificare. Centrul satului poate fi explorat excelent pe jos, în timp ce drumul spre Basilica Bois-Chenu necesită un transfer scurt sau o plimbare mai lungă. Vă așteaptă o zi plină de spiritualitate și istorie.",
+        "en": "Domrémy is accessible by public transport but requires planning. The village center is excellent for exploring on foot, while reaching the Bois-Chenu Basilica requires a short transfer or a longer walk. A day of spirituality and history awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Probieren Sie Käsesorten aus Lothringen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtok",
+            "tip": "Kóstolja meg Lotharingia sajtjait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Gustați brânzeturile specifice Lorenei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Taste authentic cheeses from the Lorraine region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenraum der Basilika",
+            "tip": "Stille und imposante Architektur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bazilika belső tere",
+            "tip": "Csend és lenyűgöző építészet.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Basilicii",
+            "tip": "Liniște și arhitectură impunătoare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilica Interior",
+            "tip": "Silence and impressive architecture.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Schöne Motive aus dem Dorf der Johanna."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Szép motívumok Jeanne falujáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Motive frumoase din satul Ioanei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Beautiful motifs from Joan's village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Informieren Sie sich vorab über die Busfahrzeiten (TER Grand Est).",
+          "Sonntags fahren weniger Busse."
+        ],
+        "hu": [
+          "Tájékozódjon előre a buszmenetrendről (TER Grand Est).",
+          "Vasárnaponként kevesebb buszjárat indul."
+        ],
+        "ro": [
+          "Informați-vă din timp despre orarul autobuzelor (TER Grand Est).",
+          "Duminica circulă mai puține autobuze."
+        ],
+        "en": [
+          "Check bus schedules (TER Grand Est) in advance.",
+          "Fewer buses run on Sundays."
+        ]
+      }
+    }
+  }
+}

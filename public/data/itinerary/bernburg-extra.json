@@ -1,0 +1,1184 @@
+{
+  "city_id": "bernburg-extra",
+  "anchor": {
+    "name": "Bernburg",
+    "coords": [
+      11.7333,
+      51.8
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Bernburg & Blumenuhr",
+            "hu": "Bernburgi városháza és virágóra",
+            "ro": "Primăria Bernburg și ceasul de flori",
+            "en": "Bernburg City Hall & Flower Clock"
+          },
+          "coords": [
+            11.7412,
+            51.7964
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Blumenuhr spielt zu jeder vollen Stunde ein Glockenspiel.",
+            "hu": "A virágóra minden egész órakor harangjátékkal szórakoztat.",
+            "ro": "Ceasul de flori cântă un carillon la fiecare oră fixă.",
+            "en": "The flower clock plays a carillon every full hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Carl-Maria-von-Weber-Theater",
+            "hu": "Carl-Maria-von-Weber Színház",
+            "ro": "Teatrul Carl-Maria-von-Weber",
+            "en": "Carl-Maria-von-Weber-Theater"
+          },
+          "coords": [
+            11.7418,
+            51.7948
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade dieses historischen Hauses.",
+            "hu": "Csodálja meg ennek a történelmi épületnek a klasszicista homlokzatát.",
+            "ro": "Admirați fațada clasicistă a acestei clădiri istorice.",
+            "en": "Admire the Neoclassical facade of this historic theater."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "Marienkirche"
+          },
+          "coords": [
+            11.7435,
+            51.7952
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die gotische Hallenkirche aus dem 13. Jahrhundert.",
+            "hu": "Látogasson el a 13. századi gótikus csarnoktemplomba.",
+            "ro": "Vizitați biserica gotică de tip hală din secolul al XIII-lea.",
+            "en": "Visit the 13th-century Gothic hall church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bernburg",
+            "hu": "Bernburgi vár",
+            "ro": "Castelul Bernburg",
+            "en": "Bernburg Castle"
+          },
+          "coords": [
+            11.7345,
+            51.7941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das 'Krone Anhalts' bietet ein Museum zur Regionalgeschichte.",
+            "hu": "Az 'Anhalt koronája' helytörténeti múzeumnak ad otthont.",
+            "ro": "„Coroana Anhaltului” găzduiește un muzeu de istorie regională.",
+            "en": "The 'Crown of Anhalt' houses a museum of regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bärenzwinger",
+            "hu": "Medveárok",
+            "ro": "Groapa urșilor",
+            "en": "Bear Pit"
+          },
+          "coords": [
+            11.7338,
+            51.7938
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Bärenhaltung im Schlossgraben hat eine lange Tradition.",
+            "hu": "A várárokban való medvetartás hosszú hagyományra tekint vissza.",
+            "ro": "Creșterea urșilor în șanțul castelului are o tradiție lungă.",
+            "en": "Keeping bears in the castle moat is a long-standing tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Eulenspiegelturm",
+            "hu": "Eulenspiegel-torony",
+            "ro": "Turnul Eulenspiegel",
+            "en": "Eulenspiegel Tower"
+          },
+          "coords": [
+            11.7348,
+            51.7945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für den besten Blick über die Saale.",
+            "hu": "Másszon fel a toronyba a Saale-folyóra nyíló legjobb kilátásért.",
+            "ro": "Urcați în turn pentru cea mai bună vedere asupra râului Saale.",
+            "en": "Climb the tower for the best view over the Saale river."
+          }
+        },
+        {
+          "name": {
+            "de": "Saale-Promenade",
+            "hu": "Saale-sétány",
+            "ro": "Promenada Saale",
+            "en": "Saale Promenade"
+          },
+          "coords": [
+            11.7365,
+            51.7955
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine späte Mittagspause direkt am Wasser.",
+            "hu": "Ideális egy késő ebédhez közvetlenül a vízparton.",
+            "ro": "Ideal pentru o pauză de prânz târzie direct pe malul apei.",
+            "en": "Ideal for a late lunch break right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bernburg zu Fuß, beginnend am prachtvollen Rathaus mit seiner berühmten Blumenuhr. Der Weg führt Sie durch die historische Talstadt zur Marienkirche und hinauf zum monumentalen Schlosskomplex. Hier begegnen Sie den traditionellen Bären im Schlossgraben und erklimmen den Eulenspiegelturm. Den Nachmittag lassen Sie entspannt an der Saale-Promenade ausklingen.",
+        "hu": "Fedezze fel Bernburgot gyalogosan, a pompás városházától indulva, ahol a híres virágóra található. Az út a történelmi alsóvároson és a Mária-templomon keresztül vezet fel a monumentális várkomplexumhoz. Itt találkozhat a várárok hagyományos medvéivel, és megmászhatja az Eulenspiegel-tornyot. A délutánt a Saale-parti sétányon, pihentető környezetben zárhatja.",
+        "ro": "Descoperiți Bernburgul la pas, începând de la primăria splendidă cu faimosul său ceas de flori. Traseul vă poartă prin orașul istoric de jos către Biserica Sfânta Maria și sus la complexul monumental al castelului. Aici veți întâlni urșii tradiționali din șanțul castelului și veți urca în Turnul Eulenspiegel. Încheiați după-amiaza relaxat pe promenada râului Saale.",
+        "en": "Explore Bernburg on foot, starting at the magnificent City Hall with its famous flower clock. The path leads through the historic lower town to St. Mary's Church and up to the monumental castle complex. Here, encounter the traditional bears in the castle moat and climb the Eulenspiegel Tower. End your afternoon with a relaxing stroll along the Saale promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bernburger Kräuterlikör",
+            "tip": "Ein lokaler Klassiker aus regionalen Kräutern."
+          },
+          {
+            "name": "Ausflugsgaststätte Reimann",
+            "tip": "Traditionelle Küche direkt an der Saale-Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernburger Kräuterlikör",
+            "tip": "Helyi gyógynövénylikőr-különlegesség."
+          },
+          {
+            "name": "Ausflugsgaststätte Reimann",
+            "tip": "Hagyományos konyha közvetlenül a Saale-sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bernburger Kräuterlikör",
+            "tip": "Un lichior de ierburi local, un clasic al regiunii."
+          },
+          {
+            "name": "Ausflugsgaststätte Reimann",
+            "tip": "Bucătărie tradițională chiar pe promenada Saale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernburger Kräuterlikör",
+            "tip": "A local herb liqueur classic from regional plants."
+          },
+          {
+            "name": "Ausflugsgaststätte Reimann",
+            "tip": "Traditional cuisine located directly on the Saale promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten Panorama",
+            "tip": "Ruhiger Blick über die Saale-Schleife.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert panoráma",
+            "tip": "Csendes kilátás a Saale-kanyarulatra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama grădinii castelului",
+            "tip": "Vedere liniștită asupra cotului râului Saale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden Panorama",
+            "tip": "Quiet view over the Saale river bend.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt auf dem Markt",
+            "tip": "Regionale Spezialitäten direkt vor dem Rathaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a főtéren",
+            "tip": "Regionális specialitások közvetlenül a városháza előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Specialități regionale chiar în fața primăriei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional specialties right in front of the City Hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Talstadt.",
+          "Die Blumenuhr ist ein tolles Fotomotiv, besonders im Frühling.",
+          "Im Schlossmuseum gibt es oft spannende Sonderausstellungen.",
+          "Die Parkplatzsuche in der Altstadt kann schwierig sein, nutzen Sie Randparkplätze."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az alsóváros macskaköves utcáihoz.",
+          "A virágóra remek fotótéma, különösen tavasszal.",
+          "A vármúzeumban gyakran vannak izgalmas időszaki kiállítások.",
+          "Az óvárosban nehéz parkolni, használja a külsőbb parkolókat."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din orașul de jos.",
+          "Ceasul de flori este un subiect excelent pentru fotografii, mai ales primăvara.",
+          "Muzeul castelului găzduiește adesea expoziții temporare captivante.",
+          "Parcarea în orașul vechi poate fi dificilă, folosiți parcările de la periferie."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the lower town.",
+          "The flower clock is a great photo spot, especially in spring.",
+          "The castle museum often hosts exciting special exhibitions.",
+          "Parking in the old town can be tricky; use peripheral parking lots."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Bernburg",
+            "hu": "Bernburgi vár",
+            "ro": "Castelul Bernburg",
+            "en": "Bernburg Castle"
+          },
+          "coords": [
+            11.7345,
+            51.7941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Schlosshof sicher ab.",
+            "hu": "Zárja le biztonságosan a kerékpárt a várudvaron.",
+            "ro": "Parcați bicicleta în siguranță în curtea castelului.",
+            "en": "Park your bike securely in the castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Eulenspiegelturm",
+            "hu": "Eulenspiegel-torony",
+            "ro": "Turnul Eulenspiegel",
+            "en": "Eulenspiegel Tower"
+          },
+          "coords": [
+            11.7348,
+            51.7945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Turm erinnert an Till Eulenspiegel, der hier Turmbläser war.",
+            "hu": "A torony Till Eulenspiegelre emlékeztet, aki itt volt toronyőr.",
+            "ro": "Turnul amintește de Till Eulenspiegel, care a fost gornist aici.",
+            "en": "The tower recalls Till Eulenspiegel, who was a watchman here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Marktplatz",
+            "hu": "Városháza és piactér",
+            "ro": "Primăria și piața",
+            "en": "City Hall & Market Square"
+          },
+          "coords": [
+            11.7412,
+            51.7964
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für die Blumenuhr und Architektur.",
+            "hu": "Rövid megálló a virágóra és az építészet megtekintéséhez.",
+            "ro": "Scurtă oprire pentru ceasul de flori și arhitectură.",
+            "en": "Short stop for the flower clock and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Saale-Schifffahrt Anlegestelle",
+            "hu": "Saale-hajózás állomása",
+            "ro": "Debarcaderul Saale",
+            "en": "Saale Cruise Pier"
+          },
+          "coords": [
+            11.7385,
+            51.7975
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kleine Rundfahrt mit der 'MS Bernburg'.",
+            "hu": "Tegyen egy rövid körutat az 'MS Bernburg' hajóval.",
+            "ro": "Faceți o mică croazieră cu 'MS Bernburg'.",
+            "en": "Take a short cruise on the 'MS Bernburg'."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Bernburg",
+            "hu": "Bernburgi állatkert",
+            "ro": "Grădina Zoologică Bernburg",
+            "en": "Bernburg Zoo"
+          },
+          "coords": [
+            11.7245,
+            51.8105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Zoo liegt idyllisch im Naturpark Unteres Saaletal.",
+            "hu": "Az állatkert az Alsó-Saale-völgy Natúrparkban fekszik.",
+            "ro": "Grădina zoologică este situată în parcul natural Unteres Saaletal.",
+            "en": "The zoo is idyllically located in the Lower Saale Valley Nature Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Krumbholz Park",
+            "hu": "Krumbholz park",
+            "ro": "Parcul Krumbholz",
+            "en": "Krumbholz Park"
+          },
+          "coords": [
+            11.7285,
+            51.8055
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die waldreiche Parkanlage per Rad.",
+            "hu": "Élvezze az erdős parkot kerékpárral.",
+            "ro": "Bucurați-vă de parcul împădurit pe bicicletă.",
+            "en": "Enjoy the wooded parkland by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Saale-Radweg (Süd)",
+            "hu": "Saale-kerékpárút (dél)",
+            "ro": "Pista de biciclete Saale (Sud)",
+            "en": "Saale Cycle Path (South)"
+          },
+          "coords": [
+            11.7325,
+            51.7985
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspanntes Radeln entlang des Flussufers.",
+            "hu": "Pihentető kerekezés a folyópart mentén.",
+            "ro": "Plimbare relaxată cu bicicleta pe malul râului.",
+            "en": "Relaxed cycling along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Fährhaus Bernburg",
+            "hu": "Bernburgi kompház",
+            "ro": "Fährhaus Bernburg",
+            "en": "Fährhaus Bernburg"
+          },
+          "coords": [
+            11.7355,
+            51.7965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beliebter Ausklang für Radfahrer direkt an der Saale.",
+            "hu": "Népszerű befejezés kerékpárosoknak közvetlenül a Saale partján.",
+            "ro": "Un loc popular de relaxare pentru bicicliști, lângă Saale.",
+            "en": "Popular spot to end the day for cyclists right by the Saale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die kulturellen Highlights im Zentrum mit der grünen Oase Krumbholz. Starten Sie am Schloss, erkunden Sie die Altstadt und radeln Sie dann entlang der Saale zum Tiergarten. Der Saale-Radweg bietet dabei flache, gut ausgebaute Wege mit herrlichem Blick auf den Fluss und die bewaldeten Hänge.",
+        "hu": "Ez a kerékpártúra összeköti a központ kulturális látnivalóit a Krumbholz zöld oázisával. Kezdjen a várnál, fedezze fel az óvárost, majd kerekezzen a Saale mentén az állatkertig. A Saale-kerékpárút sík, jól kiépített utakat kínál, csodálatos kilátással a folyóra és az erdős domboldalakra.",
+        "ro": "Acest tur cu bicicleta combină atracțiile culturale din centru cu oaza verde Krumbholz. Începeți la castel, explorați orașul vechi și apoi pedalați de-a lungul râului Saale până la grădina zoologică. Pista de biciclete Saale oferă trasee plate, bine amenajate, cu vederi superbe asupra râului și a versanților împăduriți.",
+        "en": "This bike tour connects the cultural highlights in the center with the green oasis of Krumbholz. Start at the castle, explore the old town, and then cycle along the Saale to the zoo. The Saale cycle path offers flat, well-maintained paths with wonderful views of the river and the wooded slopes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonderbar Bernburg",
+            "tip": "Moderne Küche mit schöner Terrasse."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Ideal für einen Snack während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sonderbar Bernburg",
+            "tip": "Modern konyha szép terasszal."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Ideális egy falatozáshoz a túra közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sonderbar Bernburg",
+            "tip": "Bucătărie modernă cu o terasă frumoasă."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Ideal pentru o gustare în timpul turului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sonderbar Bernburg",
+            "tip": "Modern cuisine with a nice terrace."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Ideal for a snack during your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saale-Radweg Nord",
+            "tip": "Ruhige Flussabschnitte abseits der Straßen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saale-kerékpárút észak",
+            "tip": "Csendes folyószakaszok távol az utaktól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista Saale Nord",
+            "tip": "Secțiuni liniștite de râu, departe de străzi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saale Path North",
+            "tip": "Quiet river sections away from the roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Bernburg",
+            "tip": "Für Ersatzteile oder lokales Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernburgi kerékpárbolt",
+            "tip": "Pótalkatrészekhez vagy helyi kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru piese de schimb sau accesorii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Bernburg",
+            "tip": "For spare parts or local accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Saale-Radweg ist bestens beschildert.",
+          "Nehmen Sie ausreichend Wasser für die Strecke zum Tiergarten mit.",
+          "An Wochenenden sind viele Radwanderer unterwegs.",
+          "Nutzen Sie die Saale-Fähre für einen schnellen Uferwechsel."
+        ],
+        "hu": [
+          "A Saale-kerékpárút kitűnően ki van táblázva.",
+          "Vigyen elég vizet az állatkertig tartó szakaszra.",
+          "Hétvégén sok a túrakerékpáros az úton.",
+          "Használja a Saale-kompot a gyors partváltáshoz."
+        ],
+        "ro": [
+          "Pista de biciclete Saale este excelent semnalizată.",
+          "Luați suficientă apă pentru porțiunea până la grădina zoologică.",
+          "În weekend sunt mulți turiști pe bicicletă pe traseu.",
+          "Folosiți bacul de pe Saale pentru a schimba rapid malul."
+        ],
+        "en": [
+          "The Saale cycle path is very well signposted.",
+          "Take enough water for the stretch to the zoo.",
+          "Many cyclists are on the road during weekends.",
+          "Use the Saale ferry for a quick crossing to the other bank."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Schloss (Cluster A)",
+            "hu": "Várparkoló (A-klaszter)",
+            "ro": "Parcare Castel (Cluster A)",
+            "en": "Castle Parking (Cluster A)"
+          },
+          "coords": [
+            11.7325,
+            51.7935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für den Schlosshügel.",
+            "hu": "Központi parkoló a várdombhoz.",
+            "ro": "Parcare centrală pentru dealul castelului.",
+            "en": "Central parking lot for the castle hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bernburg (Walk)",
+            "hu": "Bernburgi vár (gyalog)",
+            "ro": "Castelul Bernburg (Walk)",
+            "en": "Bernburg Castle (Walk)"
+          },
+          "coords": [
+            11.7345,
+            51.7941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Renaissanceschloss mit beeindruckendem Blick.",
+            "hu": "Reneszánsz vár lenyűgöző kilátással.",
+            "ro": "Castel renascentist cu o priveliște impresionantă.",
+            "en": "Renaissance castle with an impressive view."
+          }
+        },
+        {
+          "name": {
+            "de": "Eulenspiegelturm (Walk)",
+            "hu": "Eulenspiegel-torony (gyalog)",
+            "ro": "Turnul Eulenspiegel (Walk)",
+            "en": "Eulenspiegel Tower (Walk)"
+          },
+          "coords": [
+            11.7348,
+            51.7945
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Benannt nach dem legendären Schalk.",
+            "hu": "A legendás tréfamesterről nevezték el.",
+            "ro": "Numit după legendarul farsor.",
+            "en": "Named after the legendary jester."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Marktplatz (Cluster B)",
+            "hu": "Városháza és piactér (B-klaszter)",
+            "ro": "Primăria și piața (Cluster B)",
+            "en": "City Hall & Market (Cluster B)"
+          },
+          "coords": [
+            11.7412,
+            51.7964
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Stadtbummel und Mittag.",
+            "hu": "Parkoljon itt a városi sétához és ebédhez.",
+            "ro": "Parcați aici pentru plimbarea prin oraș și prânz.",
+            "en": "Park here for a city stroll and lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Bernburg (Cluster C)",
+            "hu": "Bernburgi állatkert (C-klaszter)",
+            "ro": "Grădina Zoologică (Cluster C)",
+            "en": "Bernburg Zoo (Cluster C)"
+          },
+          "coords": [
+            11.7245,
+            51.8105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Eingang vorhanden.",
+            "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare disponibilă chiar la intrare.",
+            "en": "Large parking lot available right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Saale-Schifffahrt (Walk)",
+            "hu": "Saale-hajózás (gyalog)",
+            "ro": "Saale Cruise (Walk)",
+            "en": "Saale Cruise (Walk)"
+          },
+          "coords": [
+            11.7265,
+            51.8115
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kombinieren Sie den Zoo-Besuch mit einer Flussfahrt.",
+            "hu": "Kombinálja az állatkerti látogatást egy hajózással.",
+            "ro": "Combinați vizita la grădina zoologică cu o plimbare pe râu.",
+            "en": "Combine the zoo visit with a river cruise."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Saaletal",
+            "hu": "Saale-völgyi kilátópont",
+            "ro": "Punct de belvedere Saaletal",
+            "en": "Saale Valley Lookout"
+          },
+          "coords": [
+            11.7155,
+            51.8155
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Etwas außerhalb gelegen, toller Panoramablick.",
+            "hu": "Kicsit kijjebb fekszik, remek panorámával.",
+            "ro": "Situat puțin în afara orașului, oferă o panoramă superbă.",
+            "en": "Located slightly outside, great panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Bernburgs. Nutzen Sie die zentralen Parkplätze an der Ober- und Unterstadt, um die historischen Cluster zu Fuß zu erkunden. Besuchen Sie das Schlossensemble, bummeln Sie zum Rathaus und fahren Sie anschließend in den Norden zum Tiergarten und den Saale-Wiesen, die etwas abseits des Zentrums liegen.",
+        "hu": "Autóval kényelmesen elérheti Bernburg különböző szintjeit. Használja a felső- és alsóváros központi parkolóit a történelmi negyedek gyalogos felfedezéséhez. Látogasson el a várkomplexumhoz, sétáljon el a városházához, majd hajtson északra az állatkerthez és a Saale-rétekhez, amelyek kicsit távolabb esnek a központtól.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele niveluri ale Bernburgului. Folosiți parcările centrale din orașul de sus și de jos pentru a explora pe jos clusterele istorice. Vizitați ansamblul castelului, plimbați-vă până la primărie și apoi conduceți spre nord către grădina zoologică și pajiștile râului Saale, situate puțin în afara centrului.",
+        "en": "By car, you can easily reach the different levels of Bernburg. Use the central parking lots in the upper and lower town to explore the historic clusters on foot. Visit the castle ensemble, stroll to the City Hall, and then drive north to the zoo and the Saale meadows, which are located slightly outside the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sägewerk Bernburg",
+            "tip": "Rustikales Ambiente mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sägewerk Bernburg",
+            "tip": "Rusztikus környezet parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sägewerk Bernburg",
+            "tip": "Ambianță rustică cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sägewerk Bernburg",
+            "tip": "Rustic atmosphere with parking available."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Hang",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópont a domboldalon",
+            "tip": "Tökéletes naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere pe versant",
+            "tip": "Perfect pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hillside Lookout",
+            "tip": "Perfect for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pep Markt Bernburg",
+            "tip": "Größeres Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pep Markt Bernburg",
+            "tip": "Nagyobb bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pep Markt Bernburg",
+            "tip": "Centru comercial mai mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pep Markt Bernburg",
+            "tip": "Larger shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Einbahnstraßenregelung in der Talstadt.",
+          "Der Parkplatz am Schloss ist kostenpflichtig, aber günstig.",
+          "Fahren Sie vorsichtig auf den engen Wegen zum Aussichtspunkt.",
+          "Die B6 bietet eine schnelle Anbindung an das Umland."
+        ],
+        "hu": [
+          "Figyeljen az egyirányú utcákra az alsóvárosban.",
+          "A várparkoló fizetős, de olcsó.",
+          "Vezessen óvatosan a kilátóhoz vezető szűk utakon.",
+          "A B6-os út gyors összeköttetést biztosít a környékkel."
+        ],
+        "ro": [
+          "Atenție la regimul de sens unic în orașul de jos.",
+          "Parcarea de la castel este cu plată, dar ieftină.",
+          "Conduceți cu atenție pe drumurile înguste spre punctul de belvedere.",
+          "Drumul B6 oferă o conexiune rapidă cu împrejurimile."
+        ],
+        "en": [
+          "Watch out for one-way streets in the lower town.",
+          "The castle parking lot requires a fee but is inexpensive.",
+          "Drive carefully on the narrow paths to the lookout point.",
+          "The B6 road provides a quick connection to the surrounding area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Bernburg",
+            "hu": "Bernburg vasútállomás",
+            "ro": "Gara Bernburg",
+            "en": "Bernburg Station"
+          },
+          "coords": [
+            11.7512,
+            51.7955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für den lokalen Busverkehr.",
+            "hu": "A helyi buszjáratok kiindulópontja.",
+            "ro": "Punct de plecare pentru transportul local cu autobuzul.",
+            "en": "Starting point for local bus services."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt (Talstadt)",
+            "hu": "Piactér (alsóváros)",
+            "ro": "Piața (Talstadt)",
+            "en": "Market Square (Lower Town)"
+          },
+          "coords": [
+            11.7412,
+            51.7964
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt und Zugang zur Blumenuhr.",
+            "hu": "Központi átszállóhely és bejárat a virágórához.",
+            "ro": "Punct central de transfer și acces la ceasul de flori.",
+            "en": "Central transfer point and access to the flower clock."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bernburg",
+            "hu": "Bernburgi vár",
+            "ro": "Castelul Bernburg",
+            "en": "Bernburg Castle"
+          },
+          "coords": [
+            11.7345,
+            51.7941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle bergauf.",
+            "hu": "Rövid gyalogút a buszmegállótól felfelé.",
+            "ro": "Scurtă plimbare de la stația de autobuz la deal.",
+            "en": "Short walk uphill from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Bernburg",
+            "hu": "Bernburgi állatkert",
+            "ro": "Grădina Zoologică",
+            "en": "Bernburg Zoo"
+          },
+          "coords": [
+            11.7245,
+            51.8105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Buslinie Richtung Tiergarten.",
+            "hu": "Használja az állatkert felé tartó buszjáratot.",
+            "ro": "Folosiți linia de autobuz spre grădina zoologică.",
+            "en": "Use the bus line heading towards the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkeisenbahn Krumbholz",
+            "hu": "Krumbholz parki kisvasút",
+            "ro": "Calea ferată din Krumbholz",
+            "en": "Krumbholz Park Railway"
+          },
+          "coords": [
+            11.7265,
+            51.8085
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein besonderes Erlebnis für Familien im Park.",
+            "hu": "Különleges élmény családoknak a parkban.",
+            "ro": "O experiență deosebită pentru familii în parc.",
+            "en": "A special experience for families in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Saale-Promenade",
+            "hu": "Saale-sétány",
+            "ro": "Promenada Saale",
+            "en": "Saale Promenade"
+          },
+          "coords": [
+            11.7365,
+            51.7955
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Von hier aus gelangen Sie schnell zurück zum Markt/Bahnhof.",
+            "hu": "Innentől gyorsan visszajuthat a főtérre vagy az állomásra.",
+            "ro": "De aici puteți ajunge rapid înapoi la piață/gară.",
+            "en": "From here, you can quickly return to the market/station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bernburg lässt sich gut mit dem dichten Netz aus Stadtbussen und der Regionalbahn erschließen. Vom Bahnhof aus gelangen Sie schnell ins historische Zentrum und zum Schloss. Eine Busfahrt bringt Sie in den grünen Norden zum Tiergarten. Ein Highlight für Kinder ist die Parkeisenbahn, die zwischen den Grünanlagen verkehrt.",
+        "hu": "Bernburg jól felfedezhető a városi buszok és a regionális vasút sűrű hálózatával. Az állomástól gyorsan elérheti a történelmi központot és a várat. Buszjárat visz északra, az állatkerthez. A gyerekek számára különleges élmény a parki kisvasút, amely a zöldterületek között közlekedik.",
+        "ro": "Bernburgul poate fi explorat ușor folosind rețeaua densă de autobuze urbane și trenul regional. De la gară ajungeți rapid în centrul istoric și la castel. O călătorie cu autobuzul vă duce în nordul verde, la grădina zoologică. O atracție pentru copii este calea ferată din parc, care circulă între spațiile verzi.",
+        "en": "Bernburg is well-connected by a dense network of city buses and regional trains. From the station, you can quickly reach the historic center and the castle. A bus ride takes you north to the green zoo area. A highlight for children is the park railway, which runs between the green spaces."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Schneller Snack für Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro az állomáson",
+            "tip": "Gyors harapnivaló utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la gară",
+            "tip": "O gustare rapidă pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bistro",
+            "tip": "Quick snack for travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krumbholz-Wald",
+            "tip": "Ruhige Wege abseits der Bushaltestellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krumbholz-erdő",
+            "tip": "Csendes utak távol a buszmegállóktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Krumbholz",
+            "tip": "Trasee liniștite departe de stațiile de autobuz.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krumbholz Forest",
+            "tip": "Quiet paths away from the bus stops.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lotto-Shop & Souvenirs",
+            "tip": "Kleine Mitbringsel direkt im Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lottózó és szuvenírbolt",
+            "tip": "Apró ajándékok közvetlenül az állomáson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Mici cadouri chiar în gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop",
+            "tip": "Small gifts directly in the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Stadtbusnetz.",
+          "Die Busse verkehren am Wochenende seltener.",
+          "Die Parkeisenbahn fährt nur während der Saison.",
+          "Vom Markt zum Schloss ist ein steiler Anstieg zu bewältigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszhálózatra.",
+          "A buszok hétvégén ritkábban járnak.",
+          "A parki kisvasút csak szezonban közlekedik.",
+          "A piactértől a várig meredek emelkedő vezet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de autobuze.",
+          "Autobuzele circulă mai rar în weekend.",
+          "Calea ferată din parc funcționează doar în sezon.",
+          "De la piață la castel este o urcare abruptă."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus network.",
+          "Buses run less frequently on weekends.",
+          "The park railway only operates during the season.",
+          "There is a steep climb from the market to the castle."
+        ]
+      }
+    }
+  }
+}

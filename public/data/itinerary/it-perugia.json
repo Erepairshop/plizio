@@ -1,0 +1,1198 @@
+{
+  "city_id": "it-perugia",
+  "anchor": {
+    "name": "Fontana Maggiore",
+    "coords": [
+      43.1121,
+      12.3891
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontana Maggiore",
+            "hu": "Fontana Maggiore",
+            "ro": "Fontana Maggiore",
+            "en": "Fontana Maggiore"
+          },
+          "coords": [
+            43.1121,
+            12.3891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Tierkreiszeichen-Reliefs am Brunnen.",
+            "hu": "Figyeld meg az állatövi jegyeket a kút domborművein.",
+            "ro": "Observați reliefurile cu semnele zodiacale de pe fântână.",
+            "en": "Look for the zodiac signs on the fountain's reliefs."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Lorenzo",
+            "hu": "San Lorenzo-székesegyház",
+            "ro": "Catedrala San Lorenzo",
+            "en": "Cattedrale di San Lorenzo"
+          },
+          "coords": [
+            43.1123,
+            12.3893
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den 'Heiligen Ring' in der Seitenkapelle.",
+            "hu": "Nézd meg a 'Szent Gyűrűt' az oldalkápolnában.",
+            "ro": "Vizitați „Inelul Sfânt” din capela laterală.",
+            "en": "Visit the 'Holy Ring' in the side chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Priori",
+            "hu": "Palazzo dei Priori",
+            "ro": "Palazzo dei Priori",
+            "en": "Palazzo dei Priori"
+          },
+          "coords": [
+            43.1118,
+            12.3888
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Greifen-Symbole am Eingang.",
+            "hu": "Csodáld meg a griffmadár szimbólumokat a bejáratnál.",
+            "ro": "Admirați simbolurile grifonului de la intrare.",
+            "en": "Admire the griffin symbols at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Nazionale dell'Umbria",
+            "hu": "Umbriai Nemzeti Galéria",
+            "ro": "Galeria Națională a Umbriei",
+            "en": "Galleria Nazionale dell'Umbria"
+          },
+          "coords": [
+            43.1117,
+            12.3887
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Meisterwerke von Perugino und Fra Angelico warten hier.",
+            "hu": "Perugino és Fra Angelico remekművei láthatók itt.",
+            "ro": "Capodopere de Perugino și Fra Angelico vă așteaptă aici.",
+            "en": "Masterpieces by Perugino and Fra Angelico await here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo Etrusco",
+            "hu": "Etruszk kút",
+            "ro": "Puțul Etrusc",
+            "en": "Pozzo Etrusco"
+          },
+          "coords": [
+            43.1128,
+            12.3901
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie 37 Meter tief in die etruskische Geschichte hinab.",
+            "hu": "Ereszkedj le 37 méter mélyre az etruszk történelembe.",
+            "ro": "Coborâți 37 de metri în istoria etruscă.",
+            "en": "Descend 37 meters deep into Etruscan history."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Etrusco",
+            "hu": "Etruszk kapu",
+            "ro": "Arcul Etrusc",
+            "en": "Arco Etrusco"
+          },
+          "coords": [
+            43.1135,
+            12.3895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das am besten erhaltene etruskische Stadttor.",
+            "hu": "A legjobb állapotban fennmaradt etruszk városkapu.",
+            "ro": "Cea mai bine conservată poartă etruscă a orașului.",
+            "en": "The best-preserved Etruscan city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Paolina",
+            "hu": "Rocca Paolina",
+            "ro": "Rocca Paolina",
+            "en": "Rocca Paolina"
+          },
+          "coords": [
+            43.1095,
+            12.3885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein unterirdisches Labyrinth aus mittelalterlichen Gassen.",
+            "hu": "Középkori utcák föld alatti labirintusa.",
+            "ro": "Un labirint subteran de străduțe medievale.",
+            "en": "An underground labyrinth of medieval streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie im Herzen von Perugia auf der Piazza IV Novembre in die Geschichte ein. Mittags genießen Sie die Kunstschätze der Galleria Nazionale und steigen in die etruskische Unterwelt ab. Der Nachmittag führt Sie durch das imposante etruskische Tor, bevor Sie den Tag in den mystischen Gewölben der Rocca Paolina ausklingen lassen.",
+        "hu": "Reggel a Piazza IV Novembre szívében merülhet el Perugia történelmében. Délben a Nemzeti Galéria műkincseit csodálhatja meg, majd leereszkedhet az etruszk alvilágba. A délután az impozáns etruszk kapun keresztül vezet, mielőtt a napot a Rocca Paolina misztikus boltívei alatt zárná.",
+        "ro": "Dimineața vă scufundați în istoria Perugiei în inima Piazza IV Novembre. La prânz admirați comorile de artă ale Galeriei Naționale și coborâți în subteranul etrusc. După-amiaza vă poartă prin poarta etruscă impunătoare, înainte de a încheia ziua în bolțile mistice ale Rocca Paolina.",
+        "en": "Morning begins in the heart of Perugia at Piazza IV Novembre, soaking in history. Midday is for admiring the art treasures of the National Gallery and descending into the Etruscan underworld. The afternoon leads through the imposing Etruscan gate, before ending the day in the mystical vaults of Rocca Paolina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Traditionelles Fladenbrot, oft mit Wurst oder Spinat gefüllt."
+          },
+          {
+            "name": "Baci Perugina",
+            "tip": "Die berühmten Schokoladenpralinen mit Liebesbotschaften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Hagyományos lepénykenyér, gyakran kolbásszal vagy spenóttal töltve."
+          },
+          {
+            "name": "Baci Perugina",
+            "tip": "A híres csokoládé bonbon szerelmes üzenetekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Lipie tradițională, adesea umplută cu cârnați sau spanac."
+          },
+          {
+            "name": "Baci Perugina",
+            "tip": "Celebrele bomboane de ciocolată cu mesaje de dragoste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torta al Testo",
+            "tip": "Traditional flatbread, often filled with sausage or spinach."
+          },
+          {
+            "name": "Baci Perugina",
+            "tip": "The famous chocolate pralines with love notes inside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Bester Panoramablick auf das umbrische Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "A legjobb panoráma az umbriai völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Cea mai bună vedere panoramică asupra văii Umbriei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Carducci",
+            "tip": "Best panoramic view over the Umbrian valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Vannucci",
+            "tip": "Die Haupteinkaufsstraße mit Cafés und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Vannucci",
+            "tip": "A fő bevásárlóutca kávézókkal és butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Vannucci",
+            "tip": "Principala stradă comercială cu cafenele și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Vannucci",
+            "tip": "The main shopping street with cafés and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Perugia ist sehr hügelig; tragen Sie bequeme Schuhe.",
+          "Nutzen Sie die Rolltreppen (Scale Mobili) in der Rocca Paolina.",
+          "Trinken Sie einen Espresso im historischen Caffè Sandri."
+        ],
+        "hu": [
+          "Perugia nagyon dombos; viselj kényelmes cipőt.",
+          "Használd a mozgólépcsőket (Scale Mobili) a Rocca Paolina területén.",
+          "Igyál egy eszpresszót a történelmi Caffè Sandri-ban."
+        ],
+        "ro": [
+          "Perugia este foarte deluroasă; purtați pantofi confortabili.",
+          "Folosiți scările rulante (Scale Mobili) din Rocca Paolina.",
+          "Beți un espresso la istorica Caffè Sandri."
+        ],
+        "en": [
+          "Perugia is very hilly; wear comfortable shoes.",
+          "Use the escalators (Scale Mobili) inside Rocca Paolina.",
+          "Have an espresso at the historic Caffè Sandri."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Arco Etrusco",
+            "hu": "Etruszk kapu",
+            "ro": "Arcul Etrusc",
+            "en": "Arco Etrusco"
+          },
+          "coords": [
+            43.1135,
+            12.3895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt am beeindruckenden Tor.",
+            "hu": "Kezdőpont a lenyűgöző kapunál.",
+            "ro": "Punct de plecare la poarta impresionantă.",
+            "en": "Starting point at the impressive gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Sant'Angelo",
+            "hu": "Sant'Angelo-templom",
+            "ro": "Templul Sant'Angelo",
+            "en": "Tempio di Sant'Angelo"
+          },
+          "coords": [
+            43.1179,
+            12.3846
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Rundkirche auf den Mauern eines alten Tempels.",
+            "hu": "Kerektemplom egy ősi templom falaira építve.",
+            "ro": "Biserică rotundă construită pe zidurile unui templu vechi.",
+            "en": "Circular church built on the walls of an ancient temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo Etrusco",
+            "hu": "Etruszk kút",
+            "ro": "Puțul Etrusc",
+            "en": "Pozzo Etrusco"
+          },
+          "coords": [
+            43.1128,
+            12.3901
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Wunder der antiken Ingenieurskunst.",
+            "hu": "Az ókori mérnöki munka csodája.",
+            "ro": "O minune a ingineriei antice.",
+            "en": "A marvel of ancient engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana Maggiore",
+            "hu": "Fontana Maggiore",
+            "ro": "Fontana Maggiore",
+            "en": "Fontana Maggiore"
+          },
+          "coords": [
+            43.1121,
+            12.3891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Platz für eine kurze Pause.",
+            "hu": "Központi tér egy rövid szünethez.",
+            "ro": "Piața centrală pentru o scurtă pauză.",
+            "en": "Central square for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Priori",
+            "hu": "Palazzo dei Priori",
+            "ro": "Palazzo dei Priori",
+            "en": "Palazzo dei Priori"
+          },
+          "coords": [
+            43.1118,
+            12.3888
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Saal der Notare.",
+            "hu": "Fedezd fel a Közjegyzők termét.",
+            "ro": "Descoperiți Sala Notarilor.",
+            "en": "Discover the Notaries' Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegio del Cambio",
+            "hu": "Collegio del Cambio",
+            "ro": "Collegio del Cambio",
+            "en": "Collegio del Cambio"
+          },
+          "coords": [
+            43.1115,
+            12.3883
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschöne Fresken von Perugino.",
+            "hu": "Gyönyörű freskók Peruginótól.",
+            "ro": "Fresce superbe de Perugino.",
+            "en": "Beautiful frescoes by Perugino."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Domenico",
+            "hu": "Szent Domonkos-bazilika",
+            "ro": "Bazilica San Domenico",
+            "en": "Basilica di San Domenico"
+          },
+          "coords": [
+            43.1065,
+            12.3925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die größte Kirche Umbriens.",
+            "hu": "Umbria legnagyobb temploma.",
+            "ro": "Cea mai mare biserică din Umbria.",
+            "en": "The largest church in Umbria."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Paolina",
+            "hu": "Rocca Paolina",
+            "ro": "Rocca Paolina",
+            "en": "Rocca Paolina"
+          },
+          "coords": [
+            43.1095,
+            12.3885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad ab und erkunden Sie die Gänge.",
+            "hu": "Tedd le a biciklit és fedezd fel a járatokat.",
+            "ro": "Lăsați bicicleta și explorați pasajele.",
+            "en": "Park the bike and explore the passages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Biketour startet am etruskischen Tor und führt Sie bergauf zum Sant'Angelo Tempel. Nach einer rasanten Abfahrt erreichen Sie das historische Zentrum. Der Nachmittag ist der prächtigen Basilica San Domenico und den unterirdischen Gängen der Rocca Paolina gewidmet, wobei Sie die steilen Gassen sportlich meistern.",
+        "hu": "A kerékpártúra az etruszk kapunál indul, majd felfelé vezet a Sant'Angelo templomhoz. Egy gyors legurulás után éri el a történelmi központot. A délutánt a pompás Szent Domonkos-bazilikának és a Rocca Paolina föld alatti járatainak szenteljük, miközben sportosan küzdjük le a meredek utcákat.",
+        "ro": "Turul cu bicicleta începe la poarta etruscă și vă duce în sus spre Templul Sant'Angelo. După o coborâre rapidă ajungeți în centrul istoric. După-amiaza este dedicată splendidei Bazilici San Domenico și pasajelor subterane din Rocca Paolina, stăpânind sportiv străzile abrupte.",
+        "en": "The bike tour starts at the Etruscan gate and leads uphill to the Sant'Angelo Temple. After a swift descent, you reach the historical center. The afternoon is dedicated to the grand Basilica San Domenico and the underground passages of Rocca Paolina, mastering the steep streets with a sporty spirit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Porchetta",
+            "tip": "Gebackenes Spanferkel, ideal als schneller Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porchetta",
+            "tip": "Sült malac hús, ideális gyors snackként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porchetta",
+            "tip": "Purcel la cuptor, ideal ca gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porchetta",
+            "tip": "Roasted suckling pig, ideal as a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale Indipendenza",
+            "tip": "Schöne Allee mit Blick auf die Dächer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Indipendenza",
+            "tip": "Gyönyörű fasor kilátással a háztetőkre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Indipendenza",
+            "tip": "Alee frumoasă cu vedere spre acoperișuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Indipendenza",
+            "tip": "Beautiful avenue with views over the rooftops.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Handgefertigte Keramik aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Kézzel készített helyi kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Ceramică artizanală din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega d'Arte",
+            "tip": "Handmade ceramics from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind aufgrund der Steigungen sehr zu empfehlen.",
+          "Meiden Sie den Corso Vannucci während der Stoßzeiten zu Fuß.",
+          "Die Altstadt ist teilweise kopfsteingepflastert."
+        ],
+        "hu": [
+          "Az emelkedők miatt az e-bike kifejezetten ajánlott.",
+          "Csúcsidőben kerüld a Corso Vannucci-t kerékpárral.",
+          "Az óváros egy része macskaköves."
+        ],
+        "ro": [
+          "E-bike-urile sunt foarte recomandate din cauza pantelor.",
+          "Evitați Corso Vannucci cu bicicleta în orele de vârf.",
+          "Centrul vechi este parțial pavat cu piatră cubică."
+        ],
+        "en": [
+          "E-bikes are highly recommended due to the steep inclines.",
+          "Avoid biking on Corso Vannucci during peak pedestrian hours.",
+          "The old town is partially cobblestoned."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rocca Paolina (Cluster A)",
+            "hu": "Rocca Paolina (A-klaszter)",
+            "ro": "Rocca Paolina (Cluster A)",
+            "en": "Rocca Paolina (Cluster A)"
+          },
+          "coords": [
+            43.1095,
+            12.3885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Piazza Partigiani und nutzen Sie die Rolltreppe.",
+            "hu": "Parkolj a Piazza Partigiani-nál és használd a mozgólépcsőt.",
+            "ro": "Parcați la Piazza Partigiani și folosiți scara rulantă.",
+            "en": "Park at Piazza Partigiani and use the escalator."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Priori (Cluster A)",
+            "hu": "Palazzo dei Priori (A-klaszter)",
+            "ro": "Palazzo dei Priori (Cluster A)",
+            "en": "Palazzo dei Priori (Cluster A)"
+          },
+          "coords": [
+            43.1118,
+            12.3888
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß durch den Corso Vannucci erreichbar.",
+            "hu": "Gyalogosan elérhető a Corso Vannucci-n keresztül.",
+            "ro": "Accesibil pe jos prin Corso Vannucci.",
+            "en": "Accessible on foot through Corso Vannucci."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana Maggiore (Cluster A)",
+            "hu": "Fontana Maggiore (A-klaszter)",
+            "ro": "Fontana Maggiore (Cluster A)",
+            "en": "Fontana Maggiore (Cluster A)"
+          },
+          "coords": [
+            43.1121,
+            12.3891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herzstück des mittelalterlichen Platzes.",
+            "hu": "A középkori tér központi eleme.",
+            "ro": "Piesa centrală a pieței medievale.",
+            "en": "The centerpiece of the medieval square."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Etrusco (Cluster B)",
+            "hu": "Etruszk kapu (B-klaszter)",
+            "ro": "Arcul Etrusc (Cluster B)",
+            "en": "Arco Etrusco (Cluster B)"
+          },
+          "coords": [
+            43.1135,
+            12.3895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nördlichen Rand der Altstadt.",
+            "hu": "Rövid autózás az óváros északi szélére.",
+            "ro": "Scurtă călătorie spre marginea de nord a centrului vechi.",
+            "en": "Short drive to the northern edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Sant'Angelo (Cluster B)",
+            "hu": "Sant'Angelo-templom (B-klaszter)",
+            "ro": "Templul Sant'Angelo (Cluster B)",
+            "en": "Tempio di Sant'Angelo (Cluster B)"
+          },
+          "coords": [
+            43.1179,
+            12.3846
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß vom etruskischen Tor erreichbar.",
+            "hu": "Gyalogosan elérhető az etruszk kaputól.",
+            "ro": "Accesibil pe jos de la poarta etruscă.",
+            "en": "Accessible on foot from the Etruscan gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Domenico (Cluster C)",
+            "hu": "Szent Domonkos-bazilika (C-klaszter)",
+            "ro": "Bazilica San Domenico (Cluster C)",
+            "en": "Basilica di San Domenico (Cluster C)"
+          },
+          "coords": [
+            43.1065,
+            12.3925
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum südlichen Teil des historischen Zentrums.",
+            "hu": "Autózás a történelmi központ déli részére.",
+            "ro": "Călătorie spre partea de sud a centrului istoric.",
+            "en": "Drive to the southern part of the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Nazionale (Cluster C)",
+            "hu": "Nemzeti Galéria (C-klaszter)",
+            "ro": "Galeria Națională (Cluster C)",
+            "en": "Galleria Nazionale (Cluster C)"
+          },
+          "coords": [
+            43.1117,
+            12.3887
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber.",
+            "hu": "Művészetkedvelőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de artă.",
+            "en": "A must-visit for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza IV Novembre",
+            "hu": "Piazza IV Novembre",
+            "ro": "Piazza IV Novembre",
+            "en": "Piazza IV Novembre"
+          },
+          "coords": [
+            43.1122,
+            12.3892
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss des Tages auf dem Hauptplatz.",
+            "hu": "A nap zárása a főtéren.",
+            "ro": "Încheierea zilei în piața principală.",
+            "en": "Ending the day at the main square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto parken Sie bequem am Stadtrand und erkunden die Cluster zu Fuß. Der Morgen gehört der Rocca Paolina und dem Zentrum. Nach einer kurzen Fahrt in den Norden bewundern Sie das antike Tor und den Sant'Angelo Tempel. Der Nachmittag führt Sie in den Süden zur Basilika San Domenico, bevor Sie zur Galleria Nazionale zurückkehren.",
+        "hu": "Autóval kényelmesen parkolhat a város szélén, majd gyalog fedezheti fel a klasztereket. A reggel a Rocca Paolina és a központé. Egy rövid északi autózás után megcsodálhatja az ősi kaput és a Sant'Angelo templomot. A délután délre vezet a Szent Domonkos-bazilikához, mielőtt visszatérne a Nemzeti Galériához.",
+        "ro": "Cu mașina parcați confortabil la marginea orașului și explorați clusterele pe jos. Dimineața aparține Rocca Paolina și centrului. După o scurtă călătorie spre nord, admirați poarta antică și Templul Sant'Angelo. După-amiaza vă poartă spre sud la Bazilica San Domenico, înainte de a reveni la Galeria Națională.",
+        "en": "By car, you park conveniently at the city's edge and explore the clusters on foot. The morning belongs to Rocca Paolina and the center. After a short drive north, admire the ancient gate and Sant'Angelo Temple. The afternoon takes you south to Basilica San Domenico before returning to the National Gallery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strangozzi",
+            "tip": "Lokale Nudelsorte mit Trüffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strangozzi",
+            "tip": "Helyi tésztafajta szarvasgombával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strangozzi",
+            "tip": "Tip de paste locale cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strangozzi",
+            "tip": "Local pasta variety with truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Pietro Kloster",
+            "tip": "Ruhiger Kreuzgang mit Garten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pietro kolostor",
+            "tip": "Csendes kolostorkert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea San Pietro",
+            "tip": "Claustru liniștit cu grădină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pietro Cloister",
+            "tip": "Quiet cloister with a garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via dei Priori",
+            "tip": "Handwerksläden und Kunstgalerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via dei Priori",
+            "tip": "Kézműves boltok és galériák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via dei Priori",
+            "tip": "Magazine de meșteșuguri și galerii de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via dei Priori",
+            "tip": "Craft shops and art galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achtung: Die gesamte Altstadt ist eine ZTL (verkehrsberuhigte Zone).",
+          "Nutzen Sie das Parkhaus 'Piazza Partigiani'.",
+          "Ein Mietwagen lohnt sich für Ausflüge nach Assisi oder zum Lago Trasimeno."
+        ],
+        "hu": [
+          "Figyelem: A teljes óváros ZTL (forgalomkorlátozott zóna).",
+          "Használd a 'Piazza Partigiani' parkolóházat.",
+          "A bérautó megéri Assisi vagy a Trasimeno-tó felé tett kirándulásokhoz."
+        ],
+        "ro": [
+          "Atenție: Întregul centru vechi este ZTL (zonă cu trafic limitat).",
+          "Folosiți parcarea 'Piazza Partigiani'.",
+          "O mașină închiriată merită pentru excursii la Assisi sau Lacul Trasimeno."
+        ],
+        "en": [
+          "Warning: The entire old town is a ZTL (Limited Traffic Zone).",
+          "Use the 'Piazza Partigiani' parking garage.",
+          "A rental car is great for trips to Assisi or Lake Trasimeno."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pian di Massiano (Minimetro)",
+            "hu": "Pian di Massiano (Minimetro)",
+            "ro": "Pian di Massiano (Minimetro)",
+            "en": "Pian di Massiano (Minimetro)"
+          },
+          "coords": [
+            43.1068,
+            12.3615
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit dem futuristischen Minimetro in die Stadt.",
+            "hu": "Indulj a városba a futurisztikus Minimetróval.",
+            "ro": "Începeți călătoria spre oraș cu futuristul Minimetro.",
+            "en": "Start your trip into town with the futuristic Minimetro."
+          }
+        },
+        {
+          "name": {
+            "de": "Pincetto (Stazione)",
+            "hu": "Pincetto (állomás)",
+            "ro": "Pincetto (Stație)",
+            "en": "Pincetto (Station)"
+          },
+          "coords": [
+            43.1115,
+            12.3921
+          ],
+          "category": "port",
+          "arrive_at": "09:40",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Endstation direkt am Rande der Altstadt.",
+            "hu": "A végállomás közvetlenül az óváros szélén.",
+            "ro": "Stația terminus chiar la marginea centrului vechi.",
+            "en": "The terminal station right at the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Lorenzo",
+            "hu": "San Lorenzo-székesegyház",
+            "ro": "Catedrala San Lorenzo",
+            "en": "Cattedrale di San Lorenzo"
+          },
+          "coords": [
+            43.1123,
+            12.3893
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang vom Pincetto zum Hauptplatz.",
+            "hu": "Séta a Pincetto állomástól a főtérig.",
+            "ro": "Plimbare de la Pincetto spre piața principală.",
+            "en": "Walk from Pincetto to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Priori",
+            "hu": "Palazzo dei Priori",
+            "ro": "Palazzo dei Priori",
+            "en": "Palazzo dei Priori"
+          },
+          "coords": [
+            43.1118,
+            12.3888
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt im historischen Kern.",
+            "hu": "Központi találkozóhely a történelmi magban.",
+            "ro": "Punct central de interes în nucleul istoric.",
+            "en": "Central point of interest in the historical core."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Nazionale",
+            "hu": "Nemzeti Galéria",
+            "ro": "Galeria Națională",
+            "en": "Galleria Nazionale"
+          },
+          "coords": [
+            43.1117,
+            12.3887
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für den Mittag im Kühlen.",
+            "hu": "Tökéletes hűsölésre délben.",
+            "ro": "Perfect pentru amiaza la răcoare.",
+            "en": "Perfect for a midday break in the cool museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Paolina",
+            "hu": "Rocca Paolina",
+            "ro": "Rocca Paolina",
+            "en": "Rocca Paolina"
+          },
+          "coords": [
+            43.1095,
+            12.3885
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Ausgang Richtung Piazza Italia.",
+            "hu": "Használd a Piazza Italia felé vezető kijáratot.",
+            "ro": "Folosiți ieșirea spre Piazza Italia.",
+            "en": "Use the exit towards Piazza Italia."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Etrusco",
+            "hu": "Etruszk kapu",
+            "ro": "Arcul Etrusc",
+            "en": "Arco Etrusco"
+          },
+          "coords": [
+            43.1135,
+            12.3895
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückfahrt mit dem Bus oder Minimetro.",
+            "hu": "Utolsó állomás a buszos vagy minimetróval való visszatérés előtt.",
+            "ro": "Ultima oprire înainte de întoarcerea cu autobuzul sau Minimetro.",
+            "en": "Final stop before returning by bus or Minimetro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Perugia mit dem innovativen Minimetro, das Sie mühelos in die Oberstadt bringt. Der Vormittag ist der Kathedrale und dem Palazzo dei Priori gewidmet. Nach einem Besuch in der Nationalgalerie erkunden Sie die unterirdische Festung Rocca Paolina. Der Tag endet am antiken etruskischen Tor, von wo aus Sie bequem den Rückweg antreten.",
+        "hu": "Ismerje meg Perugiát az innovatív Minimetróval, amely könnyedén repíti fel a felsővárosba. A délelőtt a székesegyházé és a Palazzo dei Priorié. A Nemzeti Galéria megtekintése után fedezze fel a Rocca Paolina föld alatti erődjét. A nap az ősi etruszk kapunál zárul, ahonnan kényelmesen visszaindulhat.",
+        "ro": "Experimentați Perugia cu inovatorul Minimetro, care vă duce fără efort în orașul de sus. Dimineața este dedicată catedralei și Palazzo dei Priori. După o vizită la Galeria Națională, explorați fortăreața subterană Rocca Paolina. Ziua se încheie la poarta etruscă antică, de unde puteți porni confortabil înapoi.",
+        "en": "Experience Perugia with the innovative Minimetro, which whisk you effortlessly to the upper city. The morning is dedicated to the Cathedral and Palazzo dei Priori. After a visit to the National Gallery, explore the underground fortress of Rocca Paolina. The day ends at the ancient Etruscan gate, from where you can easily return."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panzanella",
+            "tip": "Erfrischender Brotsalat aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panzanella",
+            "tip": "Frissítő kenyérsaláta a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panzanella",
+            "tip": "Salată revigorantă de pâine din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panzanella",
+            "tip": "Refreshing bread salad from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza IV Novembre Stufen",
+            "tip": "Beobachten Sie das Treiben auf dem Platz.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza IV Novembre lépcsők",
+            "tip": "Figyeld a tér nyüzsgését a lépcsőkről.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Treptele Piazza IV Novembre",
+            "tip": "Observați agitația pieței de pe trepte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza IV Novembre steps",
+            "tip": "Watch the square's bustle from the steps.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Markthalle mit lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Vásárcsarnok helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Piață acoperită cu specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Covered market with local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Minimetro-Ticket gilt auch für Stadtbusse.",
+          "Die Züge fahren alle paar Minuten.",
+          "Vom Bahnhof Fontivegge können Sie ebenfalls das Minimetro nehmen."
+        ],
+        "hu": [
+          "A Minimetro jegy érvényes a városi buszokra is.",
+          "A vonatok pár percenként járnak.",
+          "A Fontivegge vasútállomástól is felszállhatsz a Minimetróra."
+        ],
+        "ro": [
+          "Biletul pentru Minimetro este valabil și pe autobuzele urbane.",
+          "Trenurile circulă la fiecare câteva minute.",
+          "De la gara Fontivegge puteți lua de asemenea Minimetro."
+        ],
+        "en": [
+          "The Minimetro ticket is also valid for city buses.",
+          "Trains run every few minutes.",
+          "You can also catch the Minimetro from the Fontivegge railway station."
+        ]
+      }
+    }
+  }
+}

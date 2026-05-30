@@ -1,0 +1,1200 @@
+{
+  "city_id": "germany-ratingen-cities-v2",
+  "anchor": {
+    "name": "Ratingen Marktplatz",
+    "coords": [
+      51.2974,
+      6.8498
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Ratingen",
+            "hu": "Ratingeni Piactér",
+            "ro": "Piața Centrală din Ratingen",
+            "en": "Ratingen Market Square"
+          },
+          "coords": [
+            51.2974,
+            6.8498
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dienstags, donnerstags und samstags findet hier der lebhafte Wochenmarkt statt.",
+            "hu": "Kedden, csütörtökön és szombaton nyüzsgő hetipiac várja a látogatókat.",
+            "ro": "Marțea, joia și sâmbăta are loc aici piața săptămânală plină de viață.",
+            "en": "A lively weekly market takes place here on Tuesdays, Thursdays, and Saturdays."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter und Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Pavel",
+            "en": "St. Peter and Paul Church"
+          },
+          "coords": [
+            51.2978,
+            6.8492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die bedeutenden Kunstwerke im Inneren.",
+            "hu": "Csodálja meg a gótikus építészetet és a belső tér jelentős műalkotásait.",
+            "ro": "Admirați arhitectura gotică și operele de artă semnificative din interior.",
+            "en": "Admire the Gothic architecture and the significant artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dumeklemmerbrunnen",
+            "hu": "Dumeklemmer-kút",
+            "ro": "Fântâna Dumeklemmer",
+            "en": "Dumeklemmer Fountain"
+          },
+          "coords": [
+            51.2972,
+            6.8495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Bronzefiguren erzählen die Legende vom 'Daumenklemmen' der Ratinger.",
+            "hu": "A bronzfigurák a helyiek híres legendáját mesélik el a beszorult hüvelykujjról.",
+            "ro": "Figurile de bronz spun legenda locală despre degetele prinse la poartă.",
+            "en": "The bronze figures tell the legend of the Ratingen 'thumb-squeezers'."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Ratingen",
+            "hu": "Ratingeni Múzeum",
+            "ro": "Muzeul Ratingen",
+            "en": "Ratingen Museum"
+          },
+          "coords": [
+            51.2968,
+            6.8485
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Stadtgeschichte und zeitgenössische Kunst direkt neben der Stadtmauer.",
+            "hu": "Fedezze fel a város történelmét és a kortárs művészetet a várfal mellett.",
+            "ro": "Descoperiți istoria orașului și arta contemporană lângă zidurile vechi.",
+            "en": "Explore town history and contemporary art right next to the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornsturm",
+            "hu": "Gabona-torony",
+            "ro": "Turnul Kornsturm",
+            "en": "Kornsturm Tower"
+          },
+          "coords": [
+            51.2965,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der besterhaltenen Türme der ehemaligen Stadtbefestigung.",
+            "hu": "Az egykori városfal egyik legjobb állapotban fennmaradt bástyája.",
+            "ro": "Unul dintre cele mai bine conservate turnuri ale fostei fortificații.",
+            "en": "One of the best-preserved towers of the former city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilfabrik Cromford",
+            "hu": "Cromford textilgyár",
+            "ro": "Fabrica de textile Cromford",
+            "en": "Cromford Textile Factory"
+          },
+          "coords": [
+            51.3062,
+            6.8465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die erste Fabrik des Kontinents bietet Einblicke in die Frühindustrialisierung.",
+            "hu": "A kontinens első gyára izgalmas betekintést nyújt a korai iparosodásba.",
+            "ro": "Prima fabrică de pe continent oferă perspective asupra industrializării timpurii.",
+            "en": "The continent's first factory offers insights into early industrialization."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserburg Haus Zum Haus",
+            "hu": "Haus Zum Haus vízi vár",
+            "ro": "Castelul pe apă Haus Zum Haus",
+            "en": "Moated Castle Haus Zum Haus"
+          },
+          "coords": [
+            51.3052,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die malerische Anlage dieser mittelalterlichen Wasserburg.",
+            "hu": "Sétáljon körbe e középkori vízi vár festői kertjében és udvarán.",
+            "ro": "Plimbați-vă prin incinta pitorească a acestui castel medieval cu șanțuri.",
+            "en": "Stroll through the picturesque grounds of this medieval moated castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum am Marktplatz, wo die Stadtgeschichte lebendig wird. Nach einem Besuch der gotischen Hauptkirche erkunden Sie die alten Wehrtürme und das Stadtmuseum. Der Nachmittag führt Sie in den Norden zur Geburtsstätte der Industrie in Cromford und zur romantischen Wasserburg, einem perfekten Abschluss für Ihren kulturellen Stadtspaziergang.",
+        "hu": "Napja a történelmi központban kezdődik, ahol a Piactéren életre kel a múlt. A gótikus főtemplom után megnézzük a városfal megmaradt tornyait és a modern múzeumot. Délután észak felé vesszük az irányt, ahol a Cromford textilgyár ipari öröksége és a Haus Zum Haus vízi vár romantikus környezete várja a sétálókat.",
+        "ro": "Ziua începe în centrul istoric, unde Piața Mare pulsează de viață. După vizitarea bisericii gotice, explorați turnurile vechi de apărare și muzeul orașului. După-amiaza vă conduce spre nord, la locul de naștere al industriei în Cromford și la castelul medieval pe apă, oferind un final romantic plimbării dumneavoastră culturale.",
+        "en": "Your day begins in the historic center at the Market Square, where town history comes alive. After visiting the Gothic main church, explore the old defensive towers and the city museum. The afternoon takes you north to the birthplace of industry at Cromford and the romantic moated castle, providing a perfect conclusion to your cultural walking tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratinger Brauhaus",
+            "tip": "Probieren Sie ein frisch gezapftes Ratinger Alt in uriger Atmosphäre."
+          },
+          {
+            "name": "Kaffeehaus am Markt",
+            "tip": "Perfekter Ort für ein Frühstück oder hausgemachten Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratinger Brauhaus",
+            "tip": "Kóstolja meg a frissen csapolt helyi barna sört tradicionális környezetben."
+          },
+          {
+            "name": "Kaffeehaus am Markt",
+            "tip": "Kiváló hely egy reggelihez vagy egy szelet házi süteményhez a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratinger Brauhaus",
+            "tip": "Încercați o bere Alt locală proaspătă într-o atmosferă tradițională."
+          },
+          {
+            "name": "Kaffeehaus am Markt",
+            "tip": "Locul perfect pentru micul dejun sau prăjituri de casă lângă piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratinger Brauhaus",
+            "tip": "Try a freshly tapped local Alt beer in an authentic rustic atmosphere."
+          },
+          {
+            "name": "Kaffeehaus am Markt",
+            "tip": "Perfect spot for breakfast or homemade cakes right on the square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Poensgenpark",
+            "tip": "Ein weitläufiger englischer Landschaftspark für ruhige Momente.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poensgenpark",
+            "tip": "Tágas angol tájképi kert a város szélén a nyugodt percekhez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poensgenpark",
+            "tip": "Un parc peisagistic englezesc vast pentru momente de liniște.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Poensgenpark",
+            "tip": "An extensive English landscape park for quiet moments.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Ratingen",
+            "tip": "Frische regionale Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratingeni hetipiac",
+            "tip": "Friss regionális termékek és helyi különlegességek a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh regional products and local specialties direct from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist sehr kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Der Marktplatz ist das Herz der Stadt, idealer Startpunkt für jede Tour."
+        ],
+        "hu": [
+          "A városközpont kompakt, gyalogosan minden fontos látnivaló kényelmesen elérhető.",
+          "A Piactér a város szíve, minden túra ideális kiindulópontja."
+        ],
+        "ro": [
+          "Centrul orașului este compact și poate fi explorat excelent la pas.",
+          "Piața Mare este inima orașului, punctul ideal de pornire pentru orice tur."
+        ],
+        "en": [
+          "The city center is very compact and can be easily explored on foot.",
+          "The Market Square is the heart of the city, an ideal starting point for any tour."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 16.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            51.2974,
+            6.8498
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am belebten Marktplatz.",
+            "hu": "Kezdje a túrát a forgalmas főtéren.",
+            "ro": "Începeți turul în piața animată.",
+            "en": "Start your tour at the busy market square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter und Paul",
+            "hu": "Szent Péter és Pál",
+            "ro": "Sf. Petru și Pavel",
+            "en": "St. Peter and Paul"
+          },
+          "coords": [
+            51.2978,
+            6.8492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckende Stadtpfarrkirche.",
+            "hu": "Látogassa meg a lenyűgöző plébániatemplomot.",
+            "ro": "Vizitați impresionanta biserică parohială.",
+            "en": "Visit the impressive town parish church."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilfabrik Cromford",
+            "hu": "Cromford gyár",
+            "ro": "Fabrica Cromford",
+            "en": "Cromford Factory"
+          },
+          "coords": [
+            51.3062,
+            6.8465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Fabrikmuseum in der ehemaligen Spinnerei.",
+            "hu": "Látogassa meg a gyármúzeumot az egykori fonodában.",
+            "ro": "Vizitați muzeul fabricii în fosta filatură.",
+            "en": "Visit the factory museum in the former spinning mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserburg Haus Zum Haus",
+            "hu": "Haus Zum Haus vár",
+            "ro": "Castelul Haus Zum Haus",
+            "en": "Haus Zum Haus Castle"
+          },
+          "coords": [
+            51.3052,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Burg ist ein beliebtes Ziel für Radfahrer im Angertal.",
+            "hu": "A vár népszerű célpont a kerékpárosok körében az Anger-völgyben.",
+            "ro": "Castelul este o destinație populară pentru bicicliști în Valea Anger.",
+            "en": "The castle is a popular destination for cyclists in the Anger valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Linnep",
+            "hu": "Linnep kastély",
+            "ro": "Castelul Linnep",
+            "en": "Linnep Castle"
+          },
+          "coords": [
+            51.3505,
+            6.8552
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Eine schöne Radstrecke führt durch Felder zu diesem Adelssitz.",
+            "hu": "Szép kerékpárút vezet a mezőkön át ehhez a nemesi rezidenciához.",
+            "ro": "Un traseu frumos de ciclism duce prin câmpuri la această reședință nobiliară.",
+            "en": "A beautiful cycling route leads through fields to this noble seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Blauer See",
+            "hu": "Kék-tó",
+            "ro": "Lacul Albastru",
+            "en": "Blue Lake"
+          },
+          "coords": [
+            51.2952,
+            6.8705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur und den Blick auf das Wasser.",
+            "hu": "Élvezze a természetet és a vízparti kilátást.",
+            "ro": "Bucurați-vă de natură și de priveliștea spre apă.",
+            "en": "Enjoy nature and the view over the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Ratingen",
+            "hu": "Városi Színház",
+            "ro": "Teatrul din Ratingen",
+            "en": "City Theatre"
+          },
+          "coords": [
+            51.2945,
+            6.8525
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das kulturelle Zentrum der Stadt mit markanter Architektur.",
+            "hu": "A város kulturális központja jellegzetes építészeti stílussal.",
+            "ro": "Centrul cultural al orașului cu o arhitectură distinctivă.",
+            "en": "The cultural center of the town with striking architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornsturm",
+            "hu": "Gabona-torony",
+            "ro": "Kornsturm",
+            "en": "Kornsturm"
+          },
+          "coords": [
+            51.2965,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Letzter Stopp an der alten Stadtmauer vor der Rückkehr.",
+            "hu": "Utolsó megálló a városfalnál a visszatérés előtt.",
+            "ro": "Ultimul popas la vechiul zid al orașului înainte de întoarcere.",
+            "en": "Last stop at the old city wall before returning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ratingen und sein grünes Umland auf zwei Rädern. Von der Altstadt radeln Sie zur historischen Textilfabrik und zur Wasserburg. Die Route führt weiter durch ländliche Gebiete zum Schloss Linnep im Norden und zurück über den erholsamen Blauen See. Eine perfekte Mischung aus Kultur und Naturerlebnis.",
+        "hu": "Fedezze fel Ratingent és zöld környékét két keréken. Az óvárosból a történelmi textilgyárhoz és a vízi várhoz tekerünk. Az út vidéki tájakon át vezet az északi Linnep kastélyhoz, majd a Kék-tó érintésével térünk vissza. A túra a kultúra és a természet élvezetének tökéletes keveréke.",
+        "ro": "Explorați Ratingen și împrejurimile sale verzi pe două roți. De la centrul vechi pedalați spre fabrica istorică de textile și castelul pe apă. Traseul continuă prin zone rurale spre castelul Linnep din nord și înapoi prin zona de recreere a Lacului Albastru. O combinație perfectă de cultură și natură.",
+        "en": "Explore Ratingen and its green surroundings on two wheels. From the old town, cycle to the historic textile factory and the moated castle. The route continues through rural landscapes to Linnep Castle in the north and back via the relaxing Blue Lake. A perfect blend of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auermühle",
+            "tip": "Beliebtes Ausflugslokal im Angertal für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auermühle",
+            "tip": "Népszerű kirándulóhely és étterem a kerékpárosoknak az Anger-völgyben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auermühle",
+            "tip": "Restaurant popular pentru excursioniști în Valea Anger."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auermühle",
+            "tip": "Popular excursion spot and restaurant for cyclists in the Anger valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Angertal",
+            "tip": "Ruhige Wege entlang des Baches.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angertal",
+            "tip": "Csendes ösvények a patak mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Angertal",
+            "tip": "Trasee liniștite de-a lungul pârâului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Angertal",
+            "tip": "Quiet paths along the stream.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Regionale Produkte direkt an der Radstrecke kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazdasági boltok",
+            "tip": "Vásároljon helyi termékeket közvetlenül a farmoktól az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Cumpărați produse regionale direct de pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shops",
+            "tip": "Buy regional products directly from farms along the route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege im Angertal."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat az Anger-völgyben."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine întreținute din Valea Anger."
+        ],
+        "en": [
+          "Use the well-developed cycle paths in the Anger valley."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Cluster A)",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            51.2974,
+            6.8498
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Markt.",
+            "hu": "Parkoljon a főtér melletti parkolóházban.",
+            "ro": "Parcați în parcarea de lângă piață.",
+            "en": "Park in the parking garage near the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter und Paul (Cluster A)",
+            "hu": "Szent Péter és Pál",
+            "ro": "Sf. Petru și Pavel",
+            "en": "St. Peter and Paul"
+          },
+          "coords": [
+            51.2978,
+            6.8492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a Piactérről.",
+            "ro": "Accesibil pe jos din Piața Mare.",
+            "en": "Accessible on foot from the Market Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Ratingen (Cluster A)",
+            "hu": "Múzeum",
+            "ro": "Muzeul",
+            "en": "Museum"
+          },
+          "coords": [
+            51.2968,
+            6.8485
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang innerhalb des Zentrums.",
+            "hu": "Rövid séta a központon belül.",
+            "ro": "Scurtă plimbare în interiorul centrului.",
+            "en": "Short walk within the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilfabrik Cromford (Cluster B)",
+            "hu": "Cromford gyár",
+            "ro": "Fabrica Cromford",
+            "en": "Cromford Factory"
+          },
+          "coords": [
+            51.3062,
+            6.8465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplätze direkt am Industriemuseum vorhanden.",
+            "hu": "Parkolási lehetőség közvetlenül az ipari múzeumnál.",
+            "ro": "Locuri de parcare disponibile direct la muzeu.",
+            "en": "Parking spaces available directly at the factory museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Zum Haus (Cluster B)",
+            "hu": "Haus Zum Haus vár",
+            "ro": "Castelul Haus Zum Haus",
+            "en": "Haus Zum Haus Castle"
+          },
+          "coords": [
+            51.3052,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Cromford-Parkplatz in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A Cromford parkolóból pár perc sétával elérhető.",
+            "ro": "Accesibil în câteva minute pe jos de la parcarea Cromford.",
+            "en": "Reach it in a few minutes on foot from the Cromford parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Linnep (Cluster C)",
+            "hu": "Linnep kastély",
+            "ro": "Castelul Linnep",
+            "en": "Linnep Castle"
+          },
+          "coords": [
+            51.3505,
+            6.8552
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Das Schloss liegt malerisch in Ratingen-Breitscheid.",
+            "hu": "A kastély festői környezetben fekszik Ratingen-Breitscheidben.",
+            "ro": "Castelul este situat pitoresc în Ratingen-Breitscheid.",
+            "en": "The castle is picturesquely located in Ratingen-Breitscheid."
+          }
+        },
+        {
+          "name": {
+            "de": "Blauer See (Cluster D)",
+            "hu": "Kék-tó",
+            "ro": "Lacul Albastru",
+            "en": "Blue Lake"
+          },
+          "coords": [
+            51.2952,
+            6.8705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz für Besucher direkt am See.",
+            "hu": "Nagy látogatói parkoló közvetlenül a tónál.",
+            "ro": "Parcare mare pentru vizitatori direct la lac.",
+            "en": "Large visitor parking right by the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Dumeklemmerbrunnen",
+            "hu": "Dumeklemmer-kút",
+            "ro": "Fântâna Dumeklemmer",
+            "en": "Dumeklemmer Fountain"
+          },
+          "coords": [
+            51.2972,
+            6.8495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Zentrum vor dem Abendessen.",
+            "hu": "Rövid megálló a központban vacsora előtt.",
+            "ro": "Scurt popas în centru înainte de cină.",
+            "en": "Short stop in the center before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die Highlights von Ratingen effizient durch Clustering. Wir erkunden erst das historische Zentrum zu Fuß, fahren dann zur Textilfabrik Cromford und zur Wasserburg. Ein Abstecher führt uns zum Schloss Linnep im Norden, bevor wir den Tag am Blauen See entspannt ausklingen lassen.",
+        "hu": "Ez az autós túra hatékonyan köti össze Ratingen látnivalóit. Előbb a központot fedezzük fel gyalogosan, majd a Cromford gyárhoz és a vízi várhoz autózunk. Egy kis kitérőt teszünk északra a Linnep kastélyhoz, mielőtt a napot a Kék-tónál pihenéssel zárnánk.",
+        "ro": "Acest tur cu mașina conectează eficient atracțiile din Ratingen prin gruparea lor pe zone. Explorăm mai întâi centrul istoric pe jos, apoi conducem la fabrica Cromford și castelul pe apă. O escapadă ne duce la castelul Linnep din nord, înainte de a încheia ziua relaxat la Lacul Albastru.",
+        "en": "This car tour efficiently connects Ratingen's highlights by clustering. We first explore the historic center on foot, then drive to the Cromford Textile Factory and the moated castle. A short trip takes us to Linnep Castle in the north before ending the day with relaxation at the Blue Lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Liebevoll in der Auermühle",
+            "tip": "Gehobene Küche in einer restaurierten Mühle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liebevoll in der Auermühle",
+            "tip": "Színvonalas konyha egy gyönyörűen felújított malomban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liebevoll in der Auermühle",
+            "tip": "Bucătărie rafinată într-o moară restaurată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liebevoll in der Auermühle",
+            "tip": "Fine dining in a beautifully restored historic mill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Linnep",
+            "tip": "Ruhiger Spaziergang im Schatten alter Bäume.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Linnep kastélypark",
+            "tip": "Csendes séta az ősfák árnyékában.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Linnep",
+            "tip": "Plimbare liniștită la umbra arborilor bătrâni.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Linnep Castle Park",
+            "tip": "Quiet stroll in the shade of ancient trees.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ratingen Outlet",
+            "tip": "Markenartikel zu reduzierten Preisen im Umland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratingen Outlet",
+            "tip": "Márkás termékek kedvezményes áron a környéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratingen Outlet",
+            "tip": "Articole de marcă la prețuri reduse în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratingen Outlet",
+            "tip": "Branded goods at discounted prices in the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser im Zentrum, um die Altstadt stressfrei zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "Használja a központi parkolóházakat az óváros kényelmes felfedezéséhez."
+        ],
+        "ro": [
+          "Utilizați parcările din centru pentru a explora orașul vechi pe jos fără stres."
+        ],
+        "en": [
+          "Use the central parking garages to explore the old town on foot stress-free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            51.2974,
+            6.8498
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt vieler Buslinien.",
+            "hu": "Számos buszjárat központi csomópontja.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter und Paul",
+            "hu": "Szent Péter és Pál",
+            "ro": "Sf. Petru și Pavel",
+            "en": "St. Peter and Paul"
+          },
+          "coords": [
+            51.2978,
+            6.8492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Haltestelle Marktplatz.",
+            "hu": "Nagyon közel a Marktplatz megállóhoz.",
+            "ro": "Foarte aproape de stația Marktplatz.",
+            "en": "Very close to the Marktplatz stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Textilfabrik Cromford",
+            "hu": "Cromford gyár",
+            "ro": "Fabrica Cromford",
+            "en": "Cromford Factory"
+          },
+          "coords": [
+            51.3062,
+            6.8465
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 773 oder 770 bis Haltestelle 'Cromford'.",
+            "hu": "Használja a 773-as vagy 770-es buszt a 'Cromford' megállóig.",
+            "ro": "Linia de autobuz 773 sau 770 până la stația 'Cromford'.",
+            "en": "Take bus 773 or 770 to the 'Cromford' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserburg Haus Zum Haus",
+            "hu": "Haus Zum Haus vár",
+            "ro": "Castelul Haus Zum Haus",
+            "en": "Moated Castle"
+          },
+          "coords": [
+            51.3052,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schöner Fußweg durch den Park von Cromford aus.",
+            "hu": "Szép gyalogút a parkon át Cromford felől.",
+            "ro": "Plimbare frumoasă prin parc de la Cromford.",
+            "en": "Nice walk through the park from Cromford."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Ratingen",
+            "hu": "Múzeum",
+            "ro": "Muzeul",
+            "en": "Museum"
+          },
+          "coords": [
+            51.2968,
+            6.8485
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum mit dem Bus.",
+            "hu": "Visszatérés a központba busszal.",
+            "ro": "Întoarcerea în centru cu autobuzul.",
+            "en": "Return to the center by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Blauer See",
+            "hu": "Kék-tó",
+            "ro": "Lacul Albastru",
+            "en": "Blue Lake"
+          },
+          "coords": [
+            51.2952,
+            6.8705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus 773 bis Haltestelle 'Blauer See'.",
+            "hu": "A 773-as busszal a 'Blauer See' megállóig.",
+            "ro": "Autobuzul 773 până la stația 'Blauer See'.",
+            "en": "Take bus 773 to the 'Blauer See' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornsturm",
+            "hu": "Gabona-torony",
+            "ro": "Kornsturm",
+            "en": "Kornsturm"
+          },
+          "coords": [
+            51.2965,
+            6.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Stadtbefestigung.",
+            "hu": "Utolsó pillantás a város erődítményeire.",
+            "ro": "Ultima privire asupra fortificațiilor orașului.",
+            "en": "Final look at the town's fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank eines dichten Busnetzes ist Ratingen ideal ohne Auto zu erleben. Wir starten im Zentrum, nutzen den Bus für den Weg zur geschichtsträchtigen Textilfabrik Cromford und zur Wasserburg. Nach einem Museumsbesuch im Herzen der Stadt beenden wir die Tour an der Freizeitoase Blauer See, bevor es mit dem ÖPNV zurückgeht.",
+        "hu": "A sűrű buszhálózatnak köszönhetően Ratingen autó nélkül is kiválóan felfedezhető. A központból indulunk, busszal megyünk a történelmi Cromford textilgyárhoz és a vízi várhoz. Egy belvárosi múzeumlátogatás után a napot a Kék-tó pihenőövezetében zárjuk, majd tömegközlekedéssel térünk vissza.",
+        "ro": "Datorită unei rețele dense de autobuze, Ratingen este ideal de experimentat fără mașină. Începem în centru, folosim autobuzul pentru drumul către fabrica istorică de textile Cromford și castelul pe apă. După o vizită la muzeu în inima orașului, încheiem turul la oaza de agrement Lacul Albastru.",
+        "en": "Thanks to a dense bus network, Ratingen is ideal to experience without a car. We start in the center, using the bus for the trip to the historic Cromford Textile Factory and the moated castle. After a museum visit in the heart of the town, we end the tour at the Blue Lake leisure oasis before returning by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie am Markt",
+            "tip": "Gute Küche direkt am Busknotenpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie am Markt",
+            "tip": "Jó konyha közvetlenül a buszközpontnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie am Markt",
+            "tip": "Bucătărie bună direct la nodul de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie am Markt",
+            "tip": "Good cuisine right at the bus hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grüner See",
+            "tip": "Ein weiterer See in der Nähe für noch mehr Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zöld-tó",
+            "tip": "Egy másik közeli tó a még nagyobb nyugalomért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grüner See",
+            "tip": "Un alt lac în apropiere pentru și mai multă liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grüner See",
+            "tip": "Another nearby lake for even more tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Bequem erreichbar für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Kényelmesen elérhető ajándéktárgyakért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Mare",
+            "tip": "Ușor accesibil pentru suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Easily accessible for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Tagesticket der VRR Preisstufe A ist meist am günstigsten."
+        ],
+        "hu": [
+          "A VRR A-szintű napijegye általában a leggazdaságosabb választás."
+        ],
+        "ro": [
+          "Un bilet de o zi VRR nivel A este de obicei cea mai ieftină variantă."
+        ],
+        "en": [
+          "A VRR day ticket (Price level A) is usually the most economical choice."
+        ]
+      }
+    }
+  }
+}

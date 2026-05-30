@@ -1,0 +1,1032 @@
+{
+  "city_id": "italy-rocca-d-arce-cities-v2",
+  "anchor": {
+    "name": "Rocca d'Arce",
+    "coords": [
+      13.56,
+      41.6
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Centro Storico",
+          "coords": [
+            13.561,
+            41.591
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Kaffee auf der Piazza, bevor Sie den Aufstieg beginnen.",
+            "hu": "Igyon meg egy kávét a főtéren, mielőtt elkezdi a kapaszkodót.",
+            "ro": "Savurați o cafea în piață înainte de a începe urcușul.",
+            "en": "Enjoy a coffee in the piazza before starting your climb."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            13.56,
+            41.592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockaltäre im Inneren dieser Hauptkirche.",
+            "hu": "Csodálja meg a főtemplom barokk oltárait.",
+            "ro": "Admirați altarele baroce din interiorul acestei biserici principale.",
+            "en": "Admire the Baroque altars inside this main church."
+          }
+        },
+        {
+          "name": "Mura Poligonali",
+          "coords": [
+            13.562,
+            41.589
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese antiken Mauern stammen aus der vorrömischen Zeit der Volsker.",
+            "hu": "Ezek az ókori falak a római kor előtti volszk időkből származnak.",
+            "ro": "Aceste ziduri antice datează din perioada preromană a volscilor.",
+            "en": "These ancient walls date back to the pre-Roman Volscian era."
+          }
+        },
+        {
+          "name": "Porta di Sant'Agostino",
+          "coords": [
+            13.561,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das historische Stadttor markiert den Weg zur oberen Festung.",
+            "hu": "A történelmi városkapu jelzi a felső vár felé vezető utat.",
+            "ro": "Poarta istorică a orașului marchează drumul spre fortăreața de sus.",
+            "en": "The historical city gate marks the path to the upper fortress."
+          }
+        },
+        {
+          "name": "Castello di Rocca d'Arce",
+          "coords": [
+            13.563,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Burgruine thront auf dem Gipfel des Monte del Sole.",
+            "hu": "A várrom a Monte del Sole csúcsán trónol.",
+            "ro": "Ruinele castelului tronează pe vârful Monte del Sole.",
+            "en": "The castle ruins tower on the summit of Monte del Sole."
+          }
+        },
+        {
+          "name": "Belvedere",
+          "coords": [
+            13.564,
+            41.592
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Blick auf das Liri-Tal und die umliegenden Berge.",
+            "hu": "A legjobb kilátás a Liri-völgyre és a környező hegyekre.",
+            "ro": "Cea mai bună vedere asupra văii Liri și a munților din jur.",
+            "en": "Best view over the Liri Valley and the surrounding mountains."
+          }
+        },
+        {
+          "name": "Monumento a Sant'Antonio",
+          "coords": [
+            13.562,
+            41.594
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort des Gedenkens unweit der Burg.",
+            "hu": "Csendes emlékhely nem messze a vártól.",
+            "ro": "Un loc liniștit de comemorare nu departe de castel.",
+            "en": "A quiet place of remembrance not far from the castle."
+          }
+        },
+        {
+          "name": "Chiesa di Sant'Antonio",
+          "coords": [
+            13.561,
+            41.595
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche mit intimer Atmosphäre.",
+            "hu": "Egy bájos kis templom meghitt hangulattal.",
+            "ro": "O biserică mică și fermecătoare, cu o atmosferă intimă.",
+            "en": "A charming small church with an intimate atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie in die mittelalterliche Stille der Gassen von Rocca d'Arce ein. Mittags bewundern Sie die monumentalen polygonalen Mauern aus vorrömischer Zeit. Der Nachmittag gehört der beeindruckenden Burgruine auf dem Gipfel und dem weiten Panorama über das Liri-Tal. Den Tag lassen Sie bei einem Sonnenuntergang am Belvedere ausklingen.",
+        "hu": "Reggel Rocca d'Arce középkori sikátorainak csendjében merülhet el. Délben a római kor előtti monumentális ciklopfalakat csodálhatja meg. A délután az impozáns várromé és a Liri-völgyre nyíló lenyűgöző panorámáé. A napot a Belvedere kilátópontnál, a lemenő nap sugaraiban zárhatja.",
+        "ro": "Dimineața vă pierdeți în liniștea străduțelor medievale din Rocca d'Arce. La prânz admirați zidurile poligonale monumentale din epoca preromană. După-amiaza este dedicată ruinelor castelului de pe vârf și panoramei vaste asupra văii Liri. Încheiați ziua cu un apus spectaculos la Belvedere.",
+        "en": "In the morning, immerse yourself in the medieval silence of Rocca d'Arce's alleys. At noon, admire the monumental polygonal walls from the pre-Roman era. The afternoon is dedicated to the impressive castle ruins on the summit and the vast panorama over the Liri Valley. End your day with a beautiful sunset at the Belvedere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Hausgemachte Pasta mit Bohnen, ein Klassiker der Ciociaria."
+          },
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Knusprige Kekse aus lokalem Wein und Anis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Házias tészta babbal, a Ciociaria vidék klasszikusa."
+          },
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Ropogós keksz helyi borból és ánizsból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Paste de casă cu fasole, un clasic al regiunii Ciociaria."
+          },
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Biscuiți crocanți făcuți cu vin local și anason."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Homemade pasta with beans, a classic of the Ciociaria region."
+          },
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Crunchy cookies made with local wine and anise."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere",
+            "tip": "Perfekter Ort für stille Momente beim Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castello Ruinen",
+            "tip": "Abseits der Hektik zwischen alten Steinen entspannen.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere",
+            "tip": "Tökéletes hely csendes percekhez naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Várromok",
+            "tip": "Pihenjen meg a régi kövek között a tömegtől távol.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere",
+            "tip": "Loc perfect pentru momente de liniște la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ruinele Castelului",
+            "tip": "Relaxați-vă printre pietrele vechi, departe de agitație.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere",
+            "tip": "Perfect spot for quiet moments during sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Ruins",
+            "tip": "Relax among ancient stones away from the hustle.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaltgepresstes Öl aus den Olivenhainen der Ciociaria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Hidegen sajtolt olaj a Ciociaria olajfaligeteiből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Ulei presat la rece din livezile de măslini din Ciociaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Cold-pressed oil from the olive groves of Ciociaria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Wege steil und kopfsteingepflastert sind.",
+          "Die Wasserstellen im Ort bieten frisches Trinkwasser.",
+          "Parken Sie Ihr Auto am Fuße des Ortes, um das Zentrum zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az utak meredekek és macskakövesek.",
+          "A faluban található kutak friss ivóvizet kínálnak.",
+          "Parkoljon a falu alján, és gyalogosan fedezze fel a központot."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece drumurile sunt abrupte și pavate cu piatră.",
+          "Cișmelele din sat oferă apă potabilă proaspătă.",
+          "Parcați mașina la intrarea în sat pentru a explora centrul la pas."
+        ],
+        "en": [
+          "Wear comfortable shoes as the paths are steep and cobbled.",
+          "The village fountains offer fresh drinking water.",
+          "Park your car at the bottom of the village to explore the center on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Centro Storico",
+          "coords": [
+            13.561,
+            41.591
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf einen extrem steilen Anstieg vor.",
+            "hu": "Készüljön fel egy rendkívül meredek emelkedőre.",
+            "ro": "Pregătiți-vă pentru o urcare extrem de abruptă.",
+            "en": "Prepare yourself for an extremely steep climb."
+          }
+        },
+        {
+          "name": "Mura Poligonali",
+          "coords": [
+            13.562,
+            41.589
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an den antiken Mauern auf dem Weg nach oben.",
+            "hu": "Rövid megálló az ókori falaknál felfelé menet.",
+            "ro": "Scurtă oprire la zidurile antice în drum spre vârf.",
+            "en": "Short stop at the ancient walls on the way up."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            13.56,
+            41.592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Pause im Kühlen der Kirche nach der Anstrengung.",
+            "hu": "Pihenjen meg a templom hűvösében a megerőltetés után.",
+            "ro": "Pauză în răcoarea bisericii după efort.",
+            "en": "Break in the cool of the church after the exertion."
+          }
+        },
+        {
+          "name": "Porta di Sant'Agostino",
+          "coords": [
+            13.561,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad hier ab für den letzten Fußmarsch zur Burg.",
+            "hu": "Itt hagyhatja a biciklit a vár felé vezető utolsó szakaszra.",
+            "ro": "Lăsați bicicleta aici pentru ultima porțiune pe jos spre castel.",
+            "en": "Leave your bike here for the final walk to the castle."
+          }
+        },
+        {
+          "name": "Castello di Rocca d'Arce",
+          "coords": [
+            13.563,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Harte Arbeit wird mit dem besten Panorama belohnt.",
+            "hu": "A kemény munka jutalma a legjobb panoráma.",
+            "ro": "Munca grea este răsplătită cu cea mai bună panoramă.",
+            "en": "Hard work is rewarded with the best panorama."
+          }
+        },
+        {
+          "name": "Belvedere",
+          "coords": [
+            13.564,
+            41.592
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Abfahrt nach dem Stopp am Belvedere.",
+            "hu": "Élvezze a lejtmenetet a Belvedere után.",
+            "ro": "Bucurați-vă de coborâre după oprirea la Belvedere.",
+            "en": "Enjoy the descent after the stop at Belvedere."
+          }
+        },
+        {
+          "name": "Monumento a Sant'Antonio",
+          "coords": [
+            13.562,
+            41.594
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Aussichtspunkt, bevor es ganz zurück geht.",
+            "hu": "Utolsó kilátópont, mielőtt teljesen visszatérne.",
+            "ro": "Ultimul punct de observație înainte de întoarcerea completă.",
+            "en": "Last viewpoint before heading all the way back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour ist eine echte Herausforderung für Bergsteiger. Von der Altstadt aus erklimmen Sie die steilen Hänge bis zu den antiken Mauern und der Burg. Die Abfahrt bietet spektakuläre Ausblicke, erfordert aber gute Bremsen.",
+        "hu": "Ez a kerékpártúra igazi kihívás a hegyi bicikliseknek. Az óvárostól indulva mássza meg a meredek lankákat az ókori falakig és a várig. A lejtmenet látványos, de jó fékeket igényel.",
+        "ro": "Acest tur cu bicicleta este o adevărată provocare. Din centrul istoric, urcați pantele abrupte până la zidurile antice și castel. Coborârea oferă vederi spectaculoase, dar necesită frâne bune.",
+        "en": "This bike tour is a real challenge for mountain bikers. From the old town, climb the steep slopes up to the ancient walls and the castle. The descent offers spectacular views but requires good brakes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Energieriegel & Lokaler Wein",
+            "tip": "Nach der Tour den lokalen Wein in der Piazza probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor az óvárosban",
+            "tip": "A túra után kóstolja meg a helyi bort a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local în centrul istoric",
+            "tip": "După tur, gustați vinul local în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine in the Piazza",
+            "tip": "After the tour, taste the local wine in the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgmauer",
+            "tip": "Stille Pause mit Blick auf das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várfal",
+            "tip": "Csendes pihenő a völgyre nyíló kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidul castelului",
+            "tip": "Pauză liniștită cu vedere spre vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Wall",
+            "tip": "Quiet break with a view of the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerk",
+            "tip": "Kleine Souvenirs in den Gassen des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek",
+            "tip": "Apró szuvenírek a központ sikátoraiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat",
+            "tip": "Mici suveniruri în străduțele centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handicrafts",
+            "tip": "Small souvenirs in the center's alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nur für erfahrene Radfahrer geeignet (sehr steil).",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+          "Ausreichend Wasser mitnehmen."
+        ],
+        "hu": [
+          "Csak tapasztalt bicikliseknek ajánlott (nagyon meredek).",
+          "Ellenőrizze a fékeit a lejtmenet előtt.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Recomandat doar bicicliștilor experimentați (foarte abrupt).",
+          "Verificați frânele înainte de coborâre.",
+          "Luați suficientă apă la voi."
+        ],
+        "en": [
+          "Only recommended for experienced cyclists (very steep).",
+          "Check your brakes before the descent.",
+          "Take plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Centro Storico",
+          "coords": [
+            13.561,
+            41.591
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați aici și explorați străduțele la pas.",
+            "en": "Park here and explore the alleys on foot."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            13.56,
+            41.592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Parkplatz im Zentrum.",
+            "hu": "Gyalogos távolság a központi parkolótól.",
+            "ro": "Distanță de mers pe jos de la parcarea centrală.",
+            "en": "Walking distance from the central parking."
+          }
+        },
+        {
+          "name": "Mura Poligonali",
+          "coords": [
+            13.562,
+            41.589
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der alten Stadtgrenze.",
+            "hu": "Rövid séta a régi városfal mentén.",
+            "ro": "O scurtă plimbare de-a lungul vechii limite a orașului.",
+            "en": "A short walk along the old city boundary."
+          }
+        },
+        {
+          "name": "Porta di Sant'Agostino",
+          "coords": [
+            13.561,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach oben, begrenztes Parken.",
+            "hu": "Rövid út felfelé, korlátozott parkolási lehetőség.",
+            "ro": "Scurt drum cu mașina spre vârf, parcare limitată.",
+            "en": "Short drive uphill, limited parking available."
+          }
+        },
+        {
+          "name": "Castello di Rocca d'Arce",
+          "coords": [
+            13.563,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom oberen Parkplatz aus zu Fuß erreichbar.",
+            "hu": "A felső parkolótól gyalogosan elérhető.",
+            "ro": "Accesibil pe jos de la parcarea superioară.",
+            "en": "Accessible on foot from the upper parking area."
+          }
+        },
+        {
+          "name": "Belvedere",
+          "coords": [
+            13.564,
+            41.592
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick direkt neben dem Pfad.",
+            "hu": "Élvezze a panorámát közvetlenül az ösvény mellett.",
+            "ro": "Bucurați-vă de panoramă chiar lângă potecă.",
+            "en": "Enjoy the panoramic view right next to the path."
+          }
+        },
+        {
+          "name": "Monumento a Sant'Antonio",
+          "coords": [
+            13.562,
+            41.594
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt ins Tal.",
+            "hu": "Utolsó megálló a völgybe való leereszkedés előtt.",
+            "ro": "Ultima oprire înainte de a coborî în vale.",
+            "en": "Last stop before heading down to the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen von Rocca d'Arce. Beginnen Sie im historischen Zentrum und fahren Sie dann hinauf zum Schlossbezirk. Diese Route minimiert die steilen Anstiege und bietet dennoch alle kulturellen Highlights.",
+        "hu": "Autóval kényelmesen elérheti Rocca d'Arce különböző szintjeit. Kezdje a történelmi központban, majd hajtson fel a várnegyedbe. Ez az útvonal minimalizálja a meredek gyaloglást, miközben minden kulturális látnivalót érint.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele niveluri ale orașului Rocca d'Arce. Începeți în centrul istoric și apoi urcați spre zona castelului. Acest traseu minimizează urcușurile abrupte, oferind în același timp toate punctele de interes cultural.",
+        "en": "By car, you can comfortably reach the different levels of Rocca d'Arce. Start in the historical center and then drive up to the castle district. This route minimizes steep climbs while still covering all cultural highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria im Zentrum",
+            "tip": "Hausgemachte Ciociaria-Küche in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi trattoria",
+            "tip": "Házias Ciociaria konyha rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria din centru",
+            "tip": "Bucătărie casnică din Ciociaria într-un ambient rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Trattoria",
+            "tip": "Homemade Ciociaria cuisine in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramastraße",
+            "tip": "Halten Sie für Fotos an den Aussichtspunkten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámaút",
+            "tip": "Álljon meg fotózni a kilátópontoknál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul panoramic",
+            "tip": "Opriți-vă pentru fotografii la punctele de belvedere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Scenic Road",
+            "tip": "Stop for photos at the panoramic viewpoints.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf",
+            "tip": "Kaufen Sie lokalen Wein direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borkereskedés",
+            "tip": "Vásároljon helyi bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin",
+            "tip": "Cumpărați vin local direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Shop",
+            "tip": "Buy local wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Zentrum sind sehr eng, parken Sie auf den markierten Flächen.",
+          "Ein kleiner Wagen ist für die engen Serpentinen von Vorteil.",
+          "Achten Sie auf die Einbahnstraßenregelung."
+        ],
+        "hu": [
+          "A központ utcái nagyon szűkek, parkoljon a kijelölt helyeken.",
+          "A kisautó előnyösebb a szűk szerpentineken.",
+          "Figyeljen az egyirányú utcákra."
+        ],
+        "ro": [
+          "Străzile din centru sunt foarte înguste, parcați în locurile marcate.",
+          "O mașină mică este un avantaj pe serpentinele strâmte.",
+          "Atenție la regimul de sens unic."
+        ],
+        "en": [
+          "The center's streets are very narrow, park in marked areas.",
+          "A small car is an advantage for the narrow serpentines.",
+          "Pay attention to one-way street regulations."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Centro Storico",
+          "coords": [
+            13.561,
+            41.591
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle befindet sich am Rande des Zentrums.",
+            "hu": "A buszmegálló a központ szélén található.",
+            "ro": "Stația de autobuz se află la marginea centrului.",
+            "en": "The bus stop is located at the edge of the center."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta",
+          "coords": [
+            13.56,
+            41.592
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp im Zentrum.",
+            "hu": "Rövid séta a központi buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz centrală.",
+            "en": "Short walk from the central bus stop."
+          }
+        },
+        {
+          "name": "Mura Poligonali",
+          "coords": [
+            13.562,
+            41.589
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antike Geschichte zu Fuß.",
+            "hu": "Fedezze fel az ókori történelmet gyalogosan.",
+            "ro": "Explorați istoria antică pe jos.",
+            "en": "Explore the ancient history on foot."
+          }
+        },
+        {
+          "name": "Porta di Sant'Agostino",
+          "coords": [
+            13.561,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus für den Anstieg (falls verfügbar).",
+            "hu": "Használja a helyi buszt az emelkedőhöz (ha elérhető).",
+            "ro": "Folosiți autobuzul local pentru urcare (dacă este disponibil).",
+            "en": "Use the local bus for the climb (if available)."
+          }
+        },
+        {
+          "name": "Castello di Rocca d'Arce",
+          "coords": [
+            13.563,
+            41.593
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der letzte Abschnitt zur Burg muss zu Fuß zurückgelegt werden.",
+            "hu": "A várig tartó utolsó szakaszt gyalog kell megtenni.",
+            "ro": "Ultima porțiune până la castel trebuie parcursă pe jos.",
+            "en": "The final section to the castle must be done on foot."
+          }
+        },
+        {
+          "name": "Belvedere",
+          "coords": [
+            13.564,
+            41.592
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich vor der Rückfahrt mit dem Bus.",
+            "hu": "Pihenjen meg a busz visszaindulása előtt.",
+            "ro": "Relaxați-vă înainte de plecarea autobuzului.",
+            "en": "Relax before the bus departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln (Cotral-Busse) erreichen Sie Rocca d'Arce von den umliegenden Städten aus. Vor Ort bewegen Sie sich zwischen den Sehenswürdigkeiten am besten zu Fuß. Diese Route verbindet die Ankunft im Zentrum mit dem Aufstieg zur Burg.",
+        "hu": "Tömegközlekedéssel (Cotral buszok) érheti el Rocca d'Arce-t a környező városokból. Helyben a legjobb gyalogosan közlekedni a látnivalók között. Ez az útvonal összeköti a központba érkezést a várba való feljutással.",
+        "ro": "Cu transportul public (autobuzele Cotral) puteți ajunge la Rocca d'Arce din orașele învecinate. Odată ajunși, cel mai bine este să vă deplasați pe jos între obiective. Acest traseu combină sosirea în centru cu urcarea la castel.",
+        "en": "By public transport (Cotral buses), you can reach Rocca d'Arce from surrounding towns. Once there, it's best to move between sights on foot. This route combines arriving in the center with the climb to the castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Kleiner Snack und lokaler Kaffee bei der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Gyors harapnivaló és helyi kávé a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Gustare rapidă și cafea locală lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Quick snack and local coffee near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ruhiges Warten auf den Bus mit Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom előtti tér",
+            "tip": "Csendes várakozás a buszra szép kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piațeta bisericii",
+            "tip": "Așteptare liniștită a autobuzului cu vedere frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "Quiet wait for the bus with a nice view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Krämerladen",
+            "tip": "Typische Produkte der Region zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kisbolt",
+            "tip": "A régió tipikus termékei elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băcănie locală",
+            "tip": "Produse tipice ale regiunii pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Grocery",
+            "tip": "Typical products of the region to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrpläne der Cotral-Busse im Voraus (begrenzte Fahrten).",
+          "Entwerten Sie Ihr Ticket beim Einstieg.",
+          "Sonntags verkehren nur sehr wenige Busse."
+        ],
+        "hu": [
+          "Előre ellenőrizze a Cotral buszok menetrendjét (korlátozott járatok).",
+          "Érvényesítse jegyét felszálláskor.",
+          "Vasárnaponként nagyon kevés busz közlekedik."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor Cotral în avans (cursă limitată).",
+          "Validați biletul la urcare.",
+          "Duminica circulă foarte puține autobuze."
+        ],
+        "en": [
+          "Check Cotral bus schedules in advance (limited trips).",
+          "Validate your ticket upon boarding.",
+          "Very few buses run on Sundays."
+        ]
+      }
+    }
+  }
+}

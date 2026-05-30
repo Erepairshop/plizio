@@ -1,0 +1,1195 @@
+{
+  "city_id": "italy-piacenza-cities-v2",
+  "anchor": {
+    "name": "Piazza Cavalli",
+    "coords": [
+      9.693,
+      45.0526
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Cavalli",
+            "hu": "Piazza Cavalli",
+            "ro": "Piazza Cavalli",
+            "en": "Piazza Cavalli"
+          },
+          "coords": [
+            9.693,
+            45.0526
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bronzenen Reiterstatuen von Mochi.",
+            "hu": "Csodáld meg Mochi bronz lovasszobrait.",
+            "ro": "Admirați statuile ecvestre din bronz ale lui Mochi.",
+            "en": "Admire the bronze equestrian statues by Mochi."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Gotico",
+            "hu": "Palazzo Gotico",
+            "ro": "Palazzo Gotico",
+            "en": "Palazzo Gotico"
+          },
+          "coords": [
+            9.6932,
+            45.0525
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Zivilgotik aus dem 13. Jahrhundert.",
+            "hu": "A 13. századi polgári gótika remekműve.",
+            "ro": "O capodoperă a goticului civil din secolul al XIII-lea.",
+            "en": "A 13th-century masterpiece of civil Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "San Francesco",
+            "hu": "Szent Ferenc templom",
+            "ro": "Biserica San Francesco",
+            "en": "San Francesco Church"
+          },
+          "coords": [
+            9.6942,
+            45.0521
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die gotische Basilika direkt am Platz.",
+            "hu": "Látogasd meg a közvetlenül a téren álló gótikus bazilikát.",
+            "ro": "Vizitați bazilica gotică situată chiar în piață.",
+            "en": "Visit the Gothic basilica located right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Piacenza",
+            "hu": "Piacenzai dóm",
+            "ro": "Domul din Piacenza",
+            "en": "Piacenza Cathedral"
+          },
+          "coords": [
+            9.6975,
+            45.0505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die romanischen Fresken in der Kuppel.",
+            "hu": "Figyeld meg a kupola román stílusú freskóit.",
+            "ro": "Observați frescele romanice din cupolă.",
+            "en": "Look for the Romanesque frescoes in the dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Ricci Oddi",
+            "hu": "Galleria Ricci Oddi",
+            "ro": "Galleria Ricci Oddi",
+            "en": "Galleria Ricci Oddi"
+          },
+          "coords": [
+            9.6935,
+            45.0485
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Berühmt für das wiedergefundene Klimt-Gemälde.",
+            "hu": "A nemrég előkerült Klimt-festményről híres.",
+            "ro": "Celebră pentru tabloul lui Klimt recuperat.",
+            "en": "Famous for the recovered Klimt painting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Farnese",
+            "hu": "Palazzo Farnese",
+            "ro": "Palazzo Farnese",
+            "en": "Palazzo Farnese"
+          },
+          "coords": [
+            9.697,
+            45.056
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Kutschensammlung im Untergeschoss ist einzigartig.",
+            "hu": "Az alagsori kocsigyűjtemény egyedülálló.",
+            "ro": "Colecția de trăsuri de la subsol este unică.",
+            "en": "The carriage collection in the basement is unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Piacenza",
+            "hu": "Piacenza városfala",
+            "ro": "Zidurile din Piacenza",
+            "en": "Walls of Piacenza"
+          },
+          "coords": [
+            9.7,
+            45.057
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang zum Sonnenuntergang.",
+            "hu": "Tökéletes helyszín egy naplementés sétához.",
+            "ro": "Perfect pentru o plimbare la apus.",
+            "en": "Perfect for a sunset stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Piacenza auf der Piazza Cavalli, wo der gotische Palast die Geschichte der Stadt erzählt. Mittags erkunden Sie den prächtigen Dom, bevor Sie in der Galerie Ricci Oddi moderne Kunst bewundern. Der Nachmittag gehört dem gewaltigen Palazzo Farnese, gefolgt von einem entspannten Spaziergang entlang der alten Stadtmauern im Abendlicht.",
+        "hu": "Kezdd a napot Piacenza szívében, a Piazza Cavalli téren, ahol a gótikus palota őrzi a város múltját. Délben fedezd fel a fenséges dómot, majd csodálkozz rá a modern művészetre a Ricci Oddi galériában. A délután a monumentális Palazzo Farnese látogatásával telik, végül pedig a régi városfalak mentén tett sétával zárhatod az estét a lemenő nap fényében.",
+        "ro": "Începeți ziua în inima orașului Piacenza, în Piazza Cavalli, unde palatul gotic povestește istoria urbei. La prânz, explorați domul maiestuos, apoi admirați arta modernă la Galeria Ricci Oddi. După-amiaza aparține monumentalului Palazzo Farnese, urmat de o plimbare relaxantă de-a lungul vechilor ziduri ale orașului sub lumina caldă a serii.",
+        "en": "Start your day in the heart of Piacenza at Piazza Cavalli, where the Gothic palace tells the city's story. At midday, explore the magnificent Cathedral, then admire modern art at the Ricci Oddi Gallery. The afternoon is dedicated to the massive Palazzo Farnese, followed by a relaxed walk along the ancient city walls in the evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pisarei e Fasö",
+            "tip": "Klassische Gnocchi mit Bohnensauce."
+          },
+          {
+            "name": "Antica Trattoria dell'Angelo",
+            "tip": "Traditionelle Küche im historischen Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisarei e Fasö",
+            "tip": "Klasszikus gnocchi babmártással."
+          },
+          {
+            "name": "Antica Trattoria dell'Angelo",
+            "tip": "Hagyományos konyha a történelmi központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pisarei e Fasö",
+            "tip": "Gnocchi clasici cu sos de fasole."
+          },
+          {
+            "name": "Antica Trattoria dell'Angelo",
+            "tip": "Bucătărie tradițională în centrul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pisarei e Fasö",
+            "tip": "Classic gnocchi with bean sauce."
+          },
+          {
+            "name": "Antica Trattoria dell'Angelo",
+            "tip": "Traditional cuisine in the historic center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Facsal Park",
+            "tip": "Ein ruhiger Boulevard auf den Stadtmauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Facsal park",
+            "tip": "Csendes sugárút a városfalakon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Facsal",
+            "tip": "Un bulevard liniștit pe zidurile cetății.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Facsal Park",
+            "tip": "A quiet boulevard on the city walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "Principala stradă comercială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "The city's main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die meisten Sehenswürdigkeiten sind bequem zu Fuß erreichbar.",
+          "Probieren Sie den lokalen Wein Gutturnio in einer der vielen Enoteken."
+        ],
+        "hu": [
+          "A legtöbb látnivaló kényelmesen elérhető gyalogosan.",
+          "Kóstold meg a helyi Gutturnio bort a számos borbár egyikében."
+        ],
+        "ro": [
+          "Majoritatea obiectivelor turistice sunt ușor accesibile pe jos.",
+          "Gustați vinul local Gutturnio într-una dintre numeroasele enoteci."
+        ],
+        "en": [
+          "Most sights are easily accessible on foot.",
+          "Try the local Gutturnio wine in one of the many wine bars."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Cavalli",
+            "hu": "Piazza Cavalli",
+            "ro": "Piazza Cavalli",
+            "en": "Piazza Cavalli"
+          },
+          "coords": [
+            9.693,
+            45.0526
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt für die Erkundung.",
+            "hu": "Ideális kiindulópont a felfedezéshez.",
+            "ro": "Punct de plecare ideal pentru explorare.",
+            "en": "Ideal starting point for exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Piacenza",
+            "hu": "Piacenzai dóm",
+            "ro": "Domul din Piacenza",
+            "en": "Piacenza Cathedral"
+          },
+          "coords": [
+            9.6975,
+            45.0505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer vor dem Dom.",
+            "hu": "Használd a dóm előtti kerékpártárolókat.",
+            "ro": "Folosiți suporturile de biciclete din fața domului.",
+            "en": "Use the bike racks in front of the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Sant'Antonino",
+            "hu": "Sant'Antonino bazilika",
+            "ro": "Bazilica Sant'Antonino",
+            "en": "Basilica Sant'Antonino"
+          },
+          "coords": [
+            9.695,
+            45.049
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den achteckigen Turm.",
+            "hu": "Csodáld meg a nyolcszögletű tornyot.",
+            "ro": "Admirați turnul octogonal.",
+            "en": "Admire the octagonal tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Savino",
+            "hu": "San Savino bazilika",
+            "ro": "Bazilica San Savino",
+            "en": "Basilica San Savino"
+          },
+          "coords": [
+            9.704,
+            45.051
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sehenswert sind die Mosaikböden in der Krypta.",
+            "hu": "A kripta mozaikpadlói lenyűgözőek.",
+            "ro": "Mozaicurile din criptă merită văzute.",
+            "en": "The mosaic floors in the crypt are worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Farnese",
+            "hu": "Palazzo Farnese",
+            "ro": "Palazzo Farnese",
+            "en": "Palazzo Farnese"
+          },
+          "coords": [
+            9.697,
+            45.056
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Hier können Sie Ihr Fahrrad sicher abstellen.",
+            "hu": "Itt biztonságban lezárhatod a biciklidet.",
+            "ro": "Puteți lăsa bicicleta în siguranță aici.",
+            "en": "You can park your bike safely here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Piacenza",
+            "hu": "Piacenza városfala",
+            "ro": "Zidurile din Piacenza",
+            "en": "Walls of Piacenza"
+          },
+          "coords": [
+            9.7,
+            45.057
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Radweg führt entlang der Mauern.",
+            "hu": "Szép kerékpárút vezet a falak mentén.",
+            "ro": "O pistă de biciclete frumoasă trece pe lângă ziduri.",
+            "en": "A nice bike path runs along the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Landi",
+            "hu": "Palazzo Landi",
+            "ro": "Palazzo Landi",
+            "en": "Palazzo Landi"
+          },
+          "coords": [
+            9.696,
+            45.052
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein prächtiges Renaissance-Portal.",
+            "hu": "Pompás reneszánsz kapuzat.",
+            "ro": "Un portal renascentist magnific.",
+            "en": "A magnificent Renaissance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Ricci Oddi",
+            "hu": "Galleria Ricci Oddi",
+            "ro": "Galleria Ricci Oddi",
+            "en": "Galleria Ricci Oddi"
+          },
+          "coords": [
+            9.6935,
+            45.0485
+          ],
+          "category": "museums",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages.",
+            "hu": "Szép lezárása a napnak.",
+            "ro": "Un final frumos al zilei.",
+            "en": "A beautiful way to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Piacenza auf zwei Rädern! Von der zentralen Piazza Cavalli radeln Sie zum Dom und weiter zu den versteckten Basiliken San Savino und Sant'Antonino. Entdecken Sie die weitläufigen Museen im Palazzo Farnese und genießen Sie die Fahrt entlang der grünen Stadtmauern, bevor Sie den Tag in der Galerie Ricci Oddi ausklingen lassen.",
+        "hu": "Fedezd fel Piacenzát két keréken! A központi Piazza Cavalli térről indulva tekerj a dómhoz, majd a rejtett bazilikákhoz, a San Savinóhoz és a Sant'Antoninóhoz. Ismerd meg a Palazzo Farnese múzeumait, élvezd a tekerést a zöldellő városfalak mentén, végül pedig zárd a napot a Ricci Oddi galériában.",
+        "ro": "Explorați Piacenza pe două roți! Pornind din centrul Piazza Cavalli, pedalați spre Dom și mai departe spre bazilicile ascunse San Savino și Sant'Antonino. Descoperiți muzeele din Palazzo Farnese și bucurați-se de traseul de-a lungul zidurilor verzi ale cetății, înainte de a încheia ziua la Galeria Ricci Oddi.",
+        "en": "Explore Piacenza on two wheels! From the central Piazza Cavalli, bike to the Cathedral and on to the hidden basilicas of San Savino and Sant'Antonino. Discover the extensive museums in Palazzo Farnese and enjoy the ride along the green city walls before finishing your day at the Ricci Oddi Gallery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortelli con la coda",
+            "tip": "Gefüllte Pasta in Form eines Zopfes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortelli con la coda",
+            "tip": "Fonott alakú töltött tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortelli con la coda",
+            "tip": "Paste umplute în formă de coadă împletită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortelli con la coda",
+            "tip": "Filled pasta shaped like a braid."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giro Mura",
+            "tip": "Rundweg um die Stadt auf dem Fahrrad.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giro Mura",
+            "tip": "Kerékpáros körút a városfalakon.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giro Mura",
+            "tip": "Traseu circular cu bicicleta pe ziduri.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giro Mura",
+            "tip": "Bike loop along the city walls.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Lokale Lebensmittel und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Helyi élelmiszerek és specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Produse alimentare locale și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Local food and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Piacenza ist sehr fahrradfreundlich und flach.",
+          "Achten Sie auf die Einbahnstraßen in der Altstadt."
+        ],
+        "hu": [
+          "Piacenza nagyon kerékpárosbarát és sík terep.",
+          "Figyelj az egyirányú utcákra az óvárosban."
+        ],
+        "ro": [
+          "Piacenza este un oraș plat și foarte prietenos cu bicicliștii.",
+          "Atenție la străzile cu sens unic din centrul vechi."
+        ],
+        "en": [
+          "Piacenza is very bike-friendly and flat.",
+          "Watch out for one-way streets in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Palazzo Farnese",
+            "hu": "Palazzo Farnese parkoló",
+            "ro": "Parcare Palazzo Farnese",
+            "en": "Palazzo Farnese Parking"
+          },
+          "coords": [
+            9.698,
+            45.0565
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Guter Ausgangspunkt für das nördliche Viertel.",
+            "hu": "Jó kiindulópont az északi negyedhez.",
+            "ro": "Punct de plecare bun pentru cartierul de nord.",
+            "en": "Good starting point for the northern district."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Farnese",
+            "hu": "Palazzo Farnese",
+            "ro": "Palazzo Farnese",
+            "en": "Palazzo Farnese"
+          },
+          "coords": [
+            9.697,
+            45.056
+          ],
+          "category": "museums",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Pinakothek im Inneren.",
+            "hu": "Látogasd meg a belső képtárat.",
+            "ro": "Vizitați pinacoteca din interior.",
+            "en": "Visit the art gallery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Cavalli",
+            "hu": "Piazza Cavalli",
+            "ro": "Piazza Cavalli",
+            "en": "Piazza Cavalli"
+          },
+          "coords": [
+            9.693,
+            45.0526
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im unterirdischen Parkplatz in der Nähe.",
+            "hu": "Parkolj a közeli földalatti garázsban.",
+            "ro": "Parcați în parcarea subterană din apropiere.",
+            "en": "Park in the nearby underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Gotico",
+            "hu": "Palazzo Gotico",
+            "ro": "Palazzo Gotico",
+            "en": "Palazzo Gotico"
+          },
+          "coords": [
+            9.6932,
+            45.0525
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "The landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Piacenza",
+            "hu": "Piacenzai dóm",
+            "ro": "Domul din Piacenza",
+            "en": "Piacenza Cathedral"
+          },
+          "coords": [
+            9.6975,
+            45.0505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum.",
+            "hu": "Rövid séta a központtól.",
+            "ro": "Scurtă plimbare de la centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Ricci Oddi",
+            "hu": "Galleria Ricci Oddi",
+            "ro": "Galleria Ricci Oddi",
+            "en": "Galleria Ricci Oddi"
+          },
+          "coords": [
+            9.6935,
+            45.0485
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parkplätze sind in dieser Gegend leichter zu finden.",
+            "hu": "Ebben a negyedben könnyebb parkolót találni.",
+            "ro": "Parcarea este mai ușor de găsit în această zonă.",
+            "en": "Parking is easier to find in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Piacenza (Viale Pubblico Passeggio)",
+            "hu": "Piacenza városfala (Viale Pubblico Passeggio)",
+            "ro": "Zidurile din Piacenza (Viale Pubblico Passeggio)",
+            "en": "Walls of Piacenza (Viale Pubblico Passeggio)"
+          },
+          "coords": [
+            9.7,
+            45.045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spaziergang auf der begrünten Wallanlage.",
+            "hu": "Séta a parkosított várfalakon.",
+            "ro": "Plimbare pe zidurile amenajate ca parc.",
+            "en": "Walk on the landscaped ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Savino",
+            "hu": "San Savino bazilika",
+            "ro": "Bazilica San Savino",
+            "en": "Basilica San Savino"
+          },
+          "coords": [
+            9.704,
+            45.051
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Abschluss vor der Abfahrt.",
+            "hu": "Csendes lezárás indulás előtt.",
+            "ro": "Un final liniștit înainte de plecare.",
+            "en": "A quiet end before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Piacenza in effizienten Clustern. Starten Sie im Norden am Palazzo Farnese, wechseln Sie dann ins Zentrum zur Piazza Cavalli und zum Dom, wo Sie das Auto einmal parken und alles zu Fuß erkunden. Am Nachmittag fahren Sie zur Galerie Ricci Oddi und genießen abschließend die Fahrt entlang der historischen Stadtmauern.",
+        "hu": "Ez az autós túra hatékony csoportokba gyűjti Piacenza fénypontjait. Kezdj északon a Palazzo Farnese-nél, majd hajts a központba, a Piazza Cavalli és a dóm környékére, ahol leparkolva mindent gyalog fedezhetsz fel. Délután látogasd meg a Ricci Oddi galériát, végül élvezd az utazást a történelmi városfalak mentén.",
+        "ro": "Acest tur cu mașina combină punctele de atracție din Piacenza în grupuri eficiente. Începeți în nord la Palazzo Farnese, apoi mutați-vă în centru spre Piazza Cavalli și Dom, unde puteți parca o singură dată pentru a explora totul pe jos. După-amiaza, mergeți la Galeria Ricci Oddi și bucurați-vă de o plimbare finală de-a lungul zidurilor istorice.",
+        "en": "This car tour combines Piacenza's highlights into efficient clusters. Start in the north at Palazzo Farnese, then move to the center near Piazza Cavalli and the Cathedral, where you can park once and explore everything on foot. In the afternoon, drive to the Ricci Oddi Gallery and finally enjoy a drive along the historic city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coppa Piacentina",
+            "tip": "Berühmte lokale Wurstspezialität (DOP)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coppa Piacentina",
+            "tip": "Híres helyi húskészítmény (DOP)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coppa Piacentina",
+            "tip": "Faimosul preparat local din carne (DOP)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coppa Piacentina",
+            "tip": "Famous local cured meat (DOP)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungo Po",
+            "tip": "Ein ruhiger Bereich am Flussufer (kurze Fahrt).",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungo Po",
+            "tip": "Csendes folyóparti rész (rövid autóút).",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungo Po",
+            "tip": "O zonă liniștită pe malul râului (scurt drum cu mașina).",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungo Po",
+            "tip": "A quiet area by the riverbank (short drive).",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eataly Piacenza",
+            "tip": "Große Auswahl an italienischen Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eataly Piacenza",
+            "tip": "Olasz finomságok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eataly Piacenza",
+            "tip": "O selecție largă de delicatese italiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eataly Piacenza",
+            "tip": "Wide selection of Italian delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL-Zonen (verkehrsberuhigte Bereiche) im Zentrum.",
+          "Parken Sie auf dem 'Parcheggio Cavallerizza' für einfachen Zugang zur Innenstadt."
+        ],
+        "hu": [
+          "Figyelj a ZTL (forgalomkorlátozott) zónákra a központban.",
+          "Parkolj a 'Parcheggio Cavallerizza' parkolóban a könnyű belvárosi eléréshez."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (acces restricționat) din centru.",
+          "Parcați la 'Parcheggio Cavallerizza' pentru un acces ușor în centrul orașului."
+        ],
+        "en": [
+          "Watch out for ZTL (limited traffic) zones in the center.",
+          "Park at 'Parcheggio Cavallerizza' for easy access to the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Cavalli",
+            "hu": "Piazza Cavalli",
+            "ro": "Piazza Cavalli",
+            "en": "Piazza Cavalli"
+          },
+          "coords": [
+            9.693,
+            45.0526
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die meisten Buslinien halten in der Nähe.",
+            "hu": "A legtöbb buszjárat megáll a közelben.",
+            "ro": "Majoritatea liniilor de autobuz opresc în apropiere.",
+            "en": "Most bus lines stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Gotico",
+            "hu": "Palazzo Gotico",
+            "ro": "Palazzo Gotico",
+            "en": "Palazzo Gotico"
+          },
+          "coords": [
+            9.6932,
+            45.0525
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Punkt des Cluster-Spaziergangs.",
+            "hu": "A gyalogos felfedezés központi pontja.",
+            "ro": "Punctul central al plimbării din grup.",
+            "en": "Central point of the cluster walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Sant'Antonino",
+            "hu": "Sant'Antonino bazilika",
+            "ro": "Bazilica Sant'Antonino",
+            "en": "Basilica Sant'Antonino"
+          },
+          "coords": [
+            9.695,
+            45.049
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zwischen den historischen Kirchen.",
+            "hu": "Rövid séta a történelmi templomok között.",
+            "ro": "Scurtă plimbare între bisericile istorice.",
+            "en": "Short walk between historic churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Piacenza",
+            "hu": "Piacenzai dóm",
+            "ro": "Domul din Piacenza",
+            "en": "Piacenza Cathedral"
+          },
+          "coords": [
+            9.6975,
+            45.0505
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ende des ersten Clusters.",
+            "hu": "Az első csoport vége.",
+            "ro": "Sfârșitul primului grup.",
+            "en": "End of the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Farnese",
+            "hu": "Palazzo Farnese",
+            "ro": "Palazzo Farnese",
+            "en": "Palazzo Farnese"
+          },
+          "coords": [
+            9.697,
+            45.056
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus, um in den Norden der Stadt zu gelangen.",
+            "hu": "Használd a buszt, hogy a város északi részébe juss.",
+            "ro": "Folosiți autobuzul pentru a ajunge în nordul orașului.",
+            "en": "Use the bus to get to the north of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Ricci Oddi",
+            "hu": "Galleria Ricci Oddi",
+            "ro": "Galleria Ricci Oddi",
+            "en": "Galleria Ricci Oddi"
+          },
+          "coords": [
+            9.6935,
+            45.0485
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Palazzo Farnese mit dem Bus zurück nach Süden.",
+            "hu": "A Palazzo Farnese-től busszal vissza délre.",
+            "ro": "De la Palazzo Farnese înapoi spre sud cu autobuzul.",
+            "en": "From Palazzo Farnese back south by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Piacenza",
+            "hu": "Piacenza városfala",
+            "ro": "Zidurile din Piacenza",
+            "en": "Walls of Piacenza"
+          },
+          "coords": [
+            9.7,
+            45.057
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Stadtmauer ist von vielen Punkten aus mit dem Bus erreichbar.",
+            "hu": "A városfal számos pontról elérhető busszal.",
+            "ro": "Zidul cetății este accesibil cu autobuzul din multe puncte.",
+            "en": "The city wall is accessible by bus from many points."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Piacenza! Beginnen Sie im Zentrum mit einem Rundgang zu Fuß zwischen Piazza Cavalli, Sant'Antonino und dem Dom. Danach bringt Sie der Bus bequem zum Palazzo Farnese im Norden und später zur Galerie Ricci Oddi. Beenden Sie den Tag an den historischen Stadtmauern, die das gesamte historische Zentrum umschließen.",
+        "hu": "Használd Piacenza hatékony buszhálózatát! Kezdj a központban egy gyalogos körúttal a Piazza Cavalli, a Sant'Antonino és a dóm között. Ezután a busz kényelmesen elvisz az északi Palazzo Farnese-hez, később pedig a Ricci Oddi galériához. Zárd a napot a történelmi városfalaknál, amelyek körbeölelik az egész óvárost.",
+        "ro": "Utilizați sistemul eficient de autobuze din Piacenza! Începeți în centru cu un tur pietonal între Piazza Cavalli, Sant'Antonino și Dom. Ulterior, autobuzul vă va duce confortabil la Palazzo Farnese în nord și mai târziu la Galeria Ricci Oddi. Încheiați ziua la zidurile istorice care înconjoară întregul centru vechi.",
+        "en": "Use Piacenza's efficient bus system! Start in the center with a walking tour between Piazza Cavalli, Sant'Antonino, and the Cathedral. Then, the bus takes you comfortably to Palazzo Farnese in the north and later to the Ricci Oddi Gallery. End the day at the historic city walls that surround the entire old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panino col Salame",
+            "tip": "Ein schneller, leckerer Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panino col Salame",
+            "tip": "Gyors és finom szalámis szendvics útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panino col Salame",
+            "tip": "Un sandviș cu salam rapid și gustos pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panino col Salame",
+            "tip": "A quick and tasty salami sandwich for on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Margherita",
+            "tip": "Ein friedlicher Park in der Nähe des Bahnhofs.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Margherita",
+            "tip": "Békés park a vasútállomás közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Margherita",
+            "tip": "Un parc liniștit lângă gara feroviară.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Margherita",
+            "tip": "A peaceful park near the train station.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Einkaufsstraße mit vielen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Bevásárlóutca számos kávézóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Stradă comercială cu multe cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via XX Settembre",
+            "tip": "Shopping street with many cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus in Tabakläden (Tabaccheria).",
+          "Die Linien 1, 2 und 3 verbinden die wichtigsten Punkte des Zentrums."
+        ],
+        "hu": [
+          "Vegyél buszjegyet előre a dohányboltokban (Tabaccheria).",
+          "Az 1-es, 2-es és 3-as vonalak kötik össze a központ legfontosabb pontjait."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcurile de ziare (Tabaccheria).",
+          "Liniile 1, 2 și 3 conectează cele mai importante puncte din centru."
+        ],
+        "en": [
+          "Buy bus tickets in advance at tobacco shops (Tabaccheria).",
+          "Lines 1, 2, and 3 connect the most important points in the center."
+        ]
+      }
+    }
+  }
+}

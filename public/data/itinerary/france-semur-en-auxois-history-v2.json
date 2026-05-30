@@ -1,0 +1,1117 @@
+{
+  "city_id": "france-semur-en-auxois-history-v2",
+  "anchor": {
+    "name": "Semur-en-Auxois Vieille Ville",
+    "coords": [
+      4.33,
+      47.49
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadttor Porte Sauvigny",
+            "hu": "Porte Sauvigny városkapu",
+            "ro": "Poarta Sauvigny",
+            "en": "Porte Sauvigny"
+          },
+          "coords": [
+            4.334,
+            47.491
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Wappen über dem Torbogen.",
+            "hu": "Nézd meg a címert a kapuív felett.",
+            "ro": "Observați stema de deasupra arcadei.",
+            "en": "Check out the coat of arms above the archway."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame apátsági templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Collegiate Church of Notre-Dame"
+          },
+          "coords": [
+            4.332,
+            47.491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Glasmalereien stammen teilweise aus dem 13. Jahrhundert.",
+            "hu": "Az üvegablakok egy része a 13. századból való.",
+            "ro": "Vitraliile datează parțial din secolul al XIII-lea.",
+            "en": "Some stained glass windows date back to the 13th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Guillier",
+            "hu": "Porte Guillier kapu",
+            "ro": "Poarta Guillier",
+            "en": "Porte Guillier"
+          },
+          "coords": [
+            4.331,
+            47.491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der perfekte Übergang in das Herz der Oberstadt.",
+            "hu": "Tökéletes átjáró a felsőváros szívébe.",
+            "ro": "Tranziția perfectă spre inima orașului de sus.",
+            "en": "The perfect gateway into the heart of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            4.33,
+            47.492
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kleine, aber feine Sammlung lokaler Archäologie.",
+            "hu": "Kicsi, de igényes helyi régészeti gyűjtemény.",
+            "ro": "Colecție mică dar rafinată de arheologie locală.",
+            "en": "Small but refined collection of local archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Ancienne Comédie",
+            "hu": "Régi Komédia tér",
+            "ro": "Piața Vechii Comedii",
+            "en": "Place de l'Ancienne Comédie"
+          },
+          "coords": [
+            4.33,
+            47.489
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen im Freien.",
+            "hu": "Ideális hely egy szabadtéri ebédhez.",
+            "ro": "Ideal pentru un prânz în aer liber.",
+            "en": "Ideal spot for an outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Orle d'Or",
+            "hu": "Orle d'Or torony",
+            "ro": "Turnul Orle d'Or",
+            "en": "Tour de l'Orle d'Or"
+          },
+          "coords": [
+            4.329,
+            47.489
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das kleine Museum im Inneren des Turms.",
+            "hu": "Látogasd meg a torony belsejében lévő kis múzeumot.",
+            "ro": "Vizitați micul muzeu din interiorul turnului.",
+            "en": "Visit the small museum inside the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Joly & Promenade",
+            "hu": "Joly híd és sétány",
+            "ro": "Podul Joly și faleza",
+            "en": "Pont Joly & Promenade"
+          },
+          "coords": [
+            4.328,
+            47.487
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der klassische Fotopunkt für das Stadtpanorama.",
+            "hu": "A klasszikus fotópont a városi panorámához.",
+            "ro": "Punctul clasic de fotografie pentru panorama orașului.",
+            "en": "The classic photo spot for the town panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen betreten wir die Altstadt durch die Porte Sauvigny und bewundern den gotischen Dom Notre-Dame aus dem 13. Jahrhundert. Mittags genießen wir regionale Spezialitäten auf den gemütlichen Plätzen der Oberstadt. Am Nachmittag erkunden wir die massiven Wehrtürme und wandern entlang der Stadtmauer mit Blick auf das Armançon-Tal. Der Abend klingt an der Pont Joly aus, wo sich die Silhouette der mittelalterlichen Stadt perfekt im Wasser spiegelt.",
+        "hu": "Reggel a középkori városkapukon keresztül lépünk be a történelmi magba, ahol a rózsaszín gránit házak és a gótikus Notre-Dame templom vár. Délben a Place de l'Ancienne Comédie teraszain kóstolhatjuk meg a burgundi konyha remekeit. Délután a bástyák mentén és az Orle d'Or torony tövében sétálva csodáljuk meg a várost. Este a Pont Joly hídjáról nézzük a folyóparti panorámát és a kivilágított falakat.",
+        "ro": "Dimineața intrăm în orașul medieval prin porțile fortificate, descoperind arhitectura gotică a bisericii Notre-Dame. La prânz, explorăm piețele pitorești unde gastronomia burgundă este la ea acasă. După-amiaza este dedicată plimbărilor pe zidurile cetății și vizitării Turnului Orle d'Or, oferind vederi panoramice asupra văii Armançon. Seara se încheie pe Pont Joly, punctul ideal pentru a fotografia reflectarea orașului în râul de jos.",
+        "en": "In the morning, enter the medieval core through ancient gates to discover the 13th-century Gothic Notre-Dame church. Midday is perfect for savoring Burgundy specialties on the terraces of the old town squares. Afternoon is spent exploring the massive ramparts and the Orle d'Or tower, offering sweeping views of the river loop. The evening concludes at Pont Joly, the most iconic viewpoint to capture the town's reflection in the Armançon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Entr'acte",
+            "tip": "Traditionelles Boeuf Bourguignon."
+          },
+          {
+            "name": "Fromagerie locale",
+            "tip": "Epoisses-Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Entr'acte",
+            "tip": "Tradicionális burgundi marharagu."
+          },
+          {
+            "name": "Helyi sajtbolt",
+            "tip": "Kóstold meg a híres Epoisses sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Entr'acte",
+            "tip": "Tocăniță tradițională de vită burgundă."
+          },
+          {
+            "name": "Fromagerie locală",
+            "tip": "Brânză Epoisses din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Entr'acte",
+            "tip": "Traditional Boeuf Bourguignon."
+          },
+          {
+            "name": "Local fromagerie",
+            "tip": "Try the famous Epoisses cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade des Remparts",
+            "tip": "Ruhiger Weg entlang der Stadtmauer.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade des Remparts",
+            "tip": "Csendes sétaút a várfalak mentén.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade des Remparts",
+            "tip": "Drum liniștit de-a lungul zidurilor.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade des Remparts",
+            "tip": "Quiet path along the city walls.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "Lokales Kunsthandwerk und Töpferei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "Helyi kézműves termékek és kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "Artizanat local și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la Liberté",
+            "tip": "Local crafts and pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr hügelig, bequeme Schuhe sind Pflicht.",
+          "Parken Sie am besten am Rande der Altstadt.",
+          "Die Türme sind abends wunderschön beleuchtet."
+        ],
+        "hu": [
+          "A város dombos, kényelmes cipő kötelező.",
+          "Érdemes az óváros szélén parkolni.",
+          "A tornyok este gyönyörűen ki vannak világítva."
+        ],
+        "ro": [
+          "Orașul este deluros, pantofii confortabili sunt obligatorii.",
+          "Este recomandat să parcați la marginea centrului vechi.",
+          "Turnurile sunt frumos iluminate seara."
+        ],
+        "en": [
+          "The town is hilly, comfortable shoes are a must.",
+          "Better to park on the edge of the old town.",
+          "The towers are beautifully lit up in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Sauvigny",
+            "hu": "Porte Sauvigny",
+            "ro": "Poarta Sauvigny",
+            "en": "Porte Sauvigny"
+          },
+          "coords": [
+            4.334,
+            47.491
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad gut.",
+            "hu": "Zárd le jól a kerékpárt.",
+            "ro": "Asigurați-vă bicicleta bine.",
+            "en": "Lock your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame & Guillier",
+            "hu": "Notre-Dame és Guillier kapu",
+            "ro": "Notre-Dame și Guillier",
+            "en": "Notre-Dame & Guillier"
+          },
+          "coords": [
+            4.331,
+            47.491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "A szűk utcákban told a biciklit.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Walk your bike in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Remparts",
+            "hu": "Várfal sétány",
+            "ro": "Promenada Zidurilor",
+            "en": "Promenade des Remparts"
+          },
+          "coords": [
+            4.33,
+            47.489
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Herrlicher Ausblick auf das Tal.",
+            "hu": "Pazar kilátás a völgyre.",
+            "ro": "Vedere magnifică asupra văii.",
+            "en": "Magnificent view over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Joly",
+            "hu": "Joly híd",
+            "ro": "Podul Joly",
+            "en": "Pont Joly"
+          },
+          "coords": [
+            4.328,
+            47.487
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steile Abfahrt zum Fluss.",
+            "hu": "Meredek lejtő a folyóhoz.",
+            "ro": "Coborâre abruptă spre râu.",
+            "en": "Steep descent to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Chemin de l'Armançon",
+            "hu": "Armançon folyó menti út",
+            "ro": "Drumul Armançon",
+            "en": "Chemin de l'Armançon"
+          },
+          "coords": [
+            4.332,
+            47.485
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause am Wasser.",
+            "hu": "Tökéletes pihenő a vízparton.",
+            "ro": "Perfect pentru o pauză lângă apă.",
+            "en": "Perfect for a break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieille Ville (Gastro Stop)",
+            "hu": "Óváros (Gasztró megálló)",
+            "ro": "Orașul Vechi (Gastro)",
+            "en": "Old Town (Gastro Stop)"
+          },
+          "coords": [
+            4.331,
+            47.49
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der Anstieg zurück in die Stadt ist fordernd.",
+            "hu": "A visszakapaszkodás a városba fárasztó.",
+            "ro": "Urcarea înapoi în oraș este solicitantă.",
+            "en": "The climb back into town is demanding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Fahrradausflug in Semur-en-Auxois kombiniert mittelalterliche Geschichte mit der Natur des Armançon-Tals. Wir starten in der Oberstadt und fahren hinunter zum Fluss, um die Festung aus einer anderen Perspektive zu sehen. Die Tour führt entlang der alten Mauern und bietet sportliche Herausforderungen bei den Anstiegen zurück ins Zentrum.",
+        "hu": "A kerékpáros túra Semur-en-Auxois-ban ötvözi a középkori történelmet az Armançon-völgy természetével. A felsővárosból indulunk, majd leereszkedünk a folyóhoz, hogy más perspektívából lássuk az erődítményt. Az út a régi falak mentén vezet, és a városba való visszatéréskor sportos kihívást jelent az emelkedő.",
+        "ro": "O excursie cu bicicleta în Semur-en-Auxois combină istoria medievală cu natura văii Armançon. Începem în orașul de sus și coborâm spre râu pentru a vedea fortăreața dintr-o altă perspectivă. Traseul trece pe lângă vechile ziduri și oferă provocări sportive la urcările înapoi spre centru.",
+        "en": "A bike trip in Semur-en-Auxois combines medieval history with the nature of the Armançon valley. We start in the upper town and descend to the river to see the fortress from a different perspective. The route follows the old walls and offers a sporty challenge during the climbs back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Vieux Semur",
+            "tip": "Schnelle und leckere Galettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Vieux Semur",
+            "tip": "Gyors és finom sós palacsinták."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Vieux Semur",
+            "tip": "Galette rapide și delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Vieux Semur",
+            "tip": "Quick and tasty savory crepes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Armançon Ufer",
+            "tip": "Idyllischer Ort zum Ausruhen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Armançon part",
+            "tip": "Idilli hely a pihenésre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Armançon",
+            "tip": "Loc idilic pentru odihnă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Armançon Banks",
+            "tip": "Idyllic spot to rest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Epicerie fine",
+            "tip": "Burgunder Senf und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csemegebolt",
+            "tip": "Burgundi mustár és bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Epicerie fine",
+            "tip": "Muștar și vin de Burgundia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gourmet shop",
+            "tip": "Burgundy mustard and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Fluss.",
+          "Ein Mountainbike oder E-Bike ist wegen der Steigungen ideal."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeket a folyóhoz való leereszkedés előtt.",
+          "A szintek miatt a hegyi kerékpár vagy e-bike az ideális."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea spre râu.",
+          "O bicicletă montană sau e-bike este ideală din cauza pantelor."
+        ],
+        "en": [
+          "Check your brakes before descending to the river.",
+          "A mountain bike or e-bike is ideal due to the slopes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Sauvigny (Cluster A)",
+            "hu": "Porte Sauvigny (A klaszter)",
+            "ro": "Poarta Sauvigny (Cluster A)",
+            "en": "Porte Sauvigny (Cluster A)"
+          },
+          "coords": [
+            4.334,
+            47.491
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Place du Champ de Foire.",
+            "hu": "Parkolj a Place du Champ de Foire téren.",
+            "ro": "Parcați în Place du Champ de Foire.",
+            "en": "Park at Place du Champ de Foire."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame (Cluster A)",
+            "hu": "Notre-Dame (A klaszter)",
+            "ro": "Notre-Dame (Cluster A)",
+            "en": "Notre-Dame (Cluster A)"
+          },
+          "coords": [
+            4.332,
+            47.491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Ancienne Comédie (Cluster A)",
+            "hu": "Régi Komédia tér (A klaszter)",
+            "ro": "Piața Vechii Comedii (Cluster A)",
+            "en": "Place de l'Ancienne Comédie (Cluster A)"
+          },
+          "coords": [
+            4.33,
+            47.489
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gemütliche Atmosphäre.",
+            "hu": "Hangulatos környezet.",
+            "ro": "Atmosferă primitoare.",
+            "en": "Cozy atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Joly (Cluster B)",
+            "hu": "Joly híd (B klaszter)",
+            "ro": "Podul Joly (Cluster B)",
+            "en": "Pont Joly (Cluster B)"
+          },
+          "coords": [
+            4.328,
+            47.487
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Flussufer.",
+            "hu": "Autózás a folyópartra.",
+            "ro": "Conduceți spre malul râului.",
+            "en": "Drive down to the river bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Remparts (Cluster B)",
+            "hu": "Várfal sétány (B klaszter)",
+            "ro": "Promenada Zidurilor (Cluster B)",
+            "en": "Promenade des Remparts (Cluster B)"
+          },
+          "coords": [
+            4.33,
+            47.488
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Mauern.",
+            "hu": "Séta a falak mentén.",
+            "ro": "Plimbare pe lângă ziduri.",
+            "en": "Walk along the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro Stop: Zentrum",
+            "hu": "Gasztró megálló: Központ",
+            "ro": "Gastro: Centru",
+            "en": "Gastro Stop: Center"
+          },
+          "coords": [
+            4.331,
+            47.49
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie erneut oben.",
+            "hu": "Parkolj le ismét fent.",
+            "ro": "Parcați din nou sus.",
+            "en": "Park back up top."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Orle d'Or",
+            "hu": "Orle d'Or torony",
+            "ro": "Turnul Orle d'Or",
+            "en": "Tour de l'Orle d'Or"
+          },
+          "coords": [
+            4.329,
+            47.489
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Restaurant.",
+            "hu": "Gyalog az étteremtől.",
+            "ro": "Pe jos de la restaurant.",
+            "en": "On foot from the restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramapunkt Calvaire (Cluster C)",
+            "hu": "Kálvária panorámapont (C klaszter)",
+            "ro": "Punct panoramic Calvaire (Cluster C)",
+            "en": "Calvaire Viewpoint (Cluster C)"
+          },
+          "coords": [
+            4.325,
+            47.484
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bester Fernblick auf die Stadt.",
+            "hu": "A legjobb távoli kilátás a városra.",
+            "ro": "Cea mai bună vedere de la distanță asupra orașului.",
+            "en": "Best distant view of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir Semur-en-Auxois in Clustern. Zuerst parken wir in der Oberstadt für die Kirchen und Plätze, dann fahren wir hinunter zum Fluss für die ikonischen Brücken und Stadtmauer-Promenaden. Ein kurzer Ausflug zum Aussichtspunkt Calvaire bietet das perfekte Panorama-Foto der gesamten mittelalterlichen Anlage.",
+        "hu": "Autóval klaszterekben fedezzük fel Semur-en-Auxois-t. Először a felsővárosban parkolunk a templomok és terek megtekintéséhez, majd leautózunk a folyóhoz az ikonikus hidakhoz és a várfal-sétányokhoz. Egy rövid kitérő a Kálvária kilátóhoz megadja a tökéletes panorámafotót az egész középkori együttesről.",
+        "ro": "Cu mașina explorăm Semur-en-Auxois în clustere. Mai întâi parcăm în orașul de sus pentru biserici și piețe, apoi conducem spre râu pentru podurile iconice și promenadele zidurilor. O scurtă excursie la punctul de observație Calvaire oferă fotografia panoramică perfectă a întregului ansamblu medieval.",
+        "en": "By car, we explore Semur-en-Auxois in clusters. First, we park in the upper town for the churches and squares, then we drive down to the river for the iconic bridges and rampart promenades. A short trip to the Calvaire viewpoint provides the perfect panoramic photo of the entire medieval complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hostellerie d'Aussois",
+            "tip": "Gehobene burgundische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hostellerie d'Aussois",
+            "tip": "Színvonalas burgundi konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hostellerie d'Aussois",
+            "tip": "Bucătărie burgundă rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hostellerie d'Aussois",
+            "tip": "Upscale Burgundy cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Ruhiger Aussichtspunkt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Csendes kilátópont.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Punct panoramic liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Quiet viewpoint.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie locale",
+            "tip": "Traditionelles Gebäck der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kekszbolt",
+            "tip": "Tradicionális régiós sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie locală",
+            "tip": "Patiserie tradițională regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local biscuit shop",
+            "tip": "Traditional regional pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Zentrum sind sehr eng, parken Sie lieber außerhalb.",
+          "Ein kleiner Abstecher nach Flavigny-sur-Ozerain (20 Min) lohnt sich."
+        ],
+        "hu": [
+          "A központ utcái nagyon szűkek, inkább kívül parkolj.",
+          "Egy rövid kitérő Flavigny-sur-Ozerain-be (20 perc) megéri."
+        ],
+        "ro": [
+          "Străzile din centru sunt foarte înguste, parcați mai degrabă în exterior.",
+          "O scurtă vizită la Flavigny-sur-Ozerain (20 min) merită."
+        ],
+        "en": [
+          "Center streets are very narrow, better to park outside.",
+          "A short detour to Flavigny-sur-Ozerain (20 min) is worth it."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Champ de Foire (Bus Stop)",
+            "hu": "Place du Champ de Foire (Buszmegálló)",
+            "ro": "Place du Champ de Foire (Stație bus)",
+            "en": "Place du Champ de Foire (Bus Stop)"
+          },
+          "coords": [
+            4.335,
+            47.491
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Bus LR120.",
+            "hu": "Érkezés az LR120-as busszal.",
+            "ro": "Sosire cu autobuzul LR120.",
+            "en": "Arrival with the LR120 bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame (Upper Town Cluster)",
+            "hu": "Notre-Dame (Felsőváros klaszter)",
+            "ro": "Notre-Dame (Cluster Sus)",
+            "en": "Notre-Dame (Upper Town Cluster)"
+          },
+          "coords": [
+            4.332,
+            47.491
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Punkt der Oberstadt.",
+            "hu": "A felsőváros központi pontja.",
+            "ro": "Punctul central al orașului de sus.",
+            "en": "Central point of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Orle d'Or",
+            "hu": "Orle d'Or torony",
+            "ro": "Turnul Orle d'Or",
+            "en": "Tour de l'Orle d'Or"
+          },
+          "coords": [
+            4.329,
+            47.489
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Gassen.",
+            "hu": "Rövid séta a szűk utcákon.",
+            "ro": "Scurtă plimbare pe străduțe.",
+            "en": "Short walk through the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Ancienne Comédie (Lunch)",
+            "hu": "Régi Komédia tér (Ebéd)",
+            "ro": "Piața Vechii Comedii (Prânz)",
+            "en": "Place de l'Ancienne Comédie (Lunch)"
+          },
+          "coords": [
+            4.33,
+            47.489
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Cafés zur Auswahl.",
+            "hu": "Számos kávézó közül választhatsz.",
+            "ro": "Multe cafenele de ales.",
+            "en": "Many cafes to choose from."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Joly (Lower Town Cluster)",
+            "hu": "Joly híd (Alsóváros klaszter)",
+            "ro": "Podul Joly (Cluster Jos)",
+            "en": "Pont Joly (Lower Town Cluster)"
+          },
+          "coords": [
+            4.328,
+            47.487
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steiler Abstieg zu Fuß.",
+            "hu": "Meredek leereszkedés gyalog.",
+            "ro": "Coborâre abruptă pe jos.",
+            "en": "Steep descent on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Sauvigny (Departure)",
+            "hu": "Porte Sauvigny (Indulás)",
+            "ro": "Poarta Sauvigny (Plecare)",
+            "en": "Porte Sauvigny (Departure)"
+          },
+          "coords": [
+            4.334,
+            47.491
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Bummel vor der Busabfahrt.",
+            "hu": "Utolsó séta a busz indulása előtt.",
+            "ro": "Ultima plimbare înainte de plecarea busului.",
+            "en": "Final stroll before bus departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Semur-en-Auxois kompakt ist, nutzen wir den regionalen Bus zur Ankunft und erkunden die Stadt zu Fuß in zwei Clustern: die historische Oberstadt mit ihren Schätzen und die malerische Unterstadt am Fluss. Die Wege sind kurz, aber steil, was die Erkundung zu einem intensiven Erlebnis macht.",
+        "hu": "Mivel Semur-en-Auxois kompakt, a regionális buszt használjuk az érkezéshez, majd gyalogosan fedezzük fel a várost két klaszterben: a kincsekkel teli felsővárost és a festői folyóparti alsóvárost. Az utak rövidek, de meredekek, ami intenzív élménnyé teszi a felfedezést.",
+        "ro": "Deoarece Semur-en-Auxois este compact, folosim autobuzul regional pentru sosire și explorăm orașul pe jos în două clustere: orașul de sus cu comorile sale și orașul de jos pitoresc de pe râu. Drumurile sunt scurte dar abrupte, făcând explorarea o experiență intensă.",
+        "en": "Since Semur-en-Auxois is compact, we use the regional bus for arrival and explore the town on foot in two clusters: the historical upper town with its treasures and the picturesque lower town by the river. Paths are short but steep, making the exploration an intense experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie de la Porte",
+            "tip": "Holen Sie sich ein Picknick für den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie de la Porte",
+            "tip": "Vegyél egy kis útravalót a folyóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie de la Porte",
+            "tip": "Luați ceva pentru un picnic la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie de la Porte",
+            "tip": "Get some supplies for a picnic by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "Kleiner, ruhiger Garten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polgármesteri Hivatal kertje",
+            "tip": "Kicsi, csendes kert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Primăriei",
+            "tip": "O grădină mică și liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Town Hall Garden",
+            "tip": "Small, quiet garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Petit Marché",
+            "tip": "Regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis piac",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața mică",
+            "tip": "Produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small market",
+            "tip": "Regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne (LR120) genau, sie sind selten.",
+          "Das Touristenbüro bietet kostenlose Stadtpläne an."
+        ],
+        "hu": [
+          "Ellenőrizd pontosan a buszmenetrendet (LR120), ritkán jár.",
+          "A turisztikai iroda ingyenes várostérképet kínál."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (LR120) cu atenție, sunt rare.",
+          "Biroul de turism oferă hărți gratuite ale orașului."
+        ],
+        "en": [
+          "Check bus schedules (LR120) carefully, they are infrequent.",
+          "The tourist office offers free town maps."
+        ]
+      }
+    }
+  }
+}

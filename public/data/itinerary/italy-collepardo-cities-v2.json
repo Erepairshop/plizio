@@ -1,0 +1,1037 @@
+{
+  "city_id": "italy-collepardo-cities-v2",
+  "anchor": {
+    "name": "Collepardo",
+    "coords": [
+      13.366,
+      41.765
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Storico",
+            "hu": "Centro Storico (Óváros)",
+            "ro": "Centro Storico",
+            "en": "Historic Center"
+          },
+          "coords": [
+            13.3665,
+            41.7655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die engen Gassen aus grauem Stein.",
+            "hu": "Sétáljon végig a szűk, szürke kőből épült utcákon.",
+            "ro": "Plimbați-vă pe străzile înguste din piatră gri.",
+            "en": "Wander through the narrow, grey stone alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta San Nicola",
+            "hu": "Porta San Nicola",
+            "ro": "Porta San Nicola",
+            "en": "San Nicola Gate"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das mittelalterliche Tor markiert den Eingang zur Stadt.",
+            "hu": "A középkori kapu jelzi a város bejáratát.",
+            "ro": "Poarta medievală marchează intrarea în oraș.",
+            "en": "The medieval gate marks the entrance to the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Salvatore",
+            "hu": "Megváltó-templom",
+            "ro": "Biserica Santissimo Salvatore",
+            "en": "Church of the Most Holy Savior"
+          },
+          "coords": [
+            13.367,
+            41.766
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockaltäre im Inneren.",
+            "hu": "Csodálja meg a belső barokk oltárokat.",
+            "ro": "Admirați altarele baroce din interior.",
+            "en": "Admire the baroque altars inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto del Centauro",
+            "hu": "Kentaur-kert",
+            "ro": "Orto del Centauro",
+            "en": "Centaur's Garden"
+          },
+          "coords": [
+            13.368,
+            41.767
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein botanischer Garten mit lokalen Heilpflanzen.",
+            "hu": "Botanikus kert helyi gyógynövényekkel.",
+            "ro": "O grădină botanică cu plante medicinale locale.",
+            "en": "A botanical garden with local medicinal plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Pause",
+            "hu": "Gasztro-szünet",
+            "ro": "Pauză gastronomică",
+            "en": "Gastro Break"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie die handgemachten Pasta-Gerichte.",
+            "hu": "Kóstolja meg a kézzel készített tésztaételeket.",
+            "ro": "Gustați preparatele de paste făcute manual.",
+            "en": "Try the handmade pasta dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario della Madonna delle Cese",
+            "hu": "Madonna delle Cese szentély",
+            "ro": "Santuario della Madonna delle Cese",
+            "en": "Sanctuary of Madonna delle Cese"
+          },
+          "coords": [
+            13.372,
+            41.768
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine kleine Kapelle direkt in den Felsen gebaut.",
+            "hu": "Egy kis kápolna közvetlenül a sziklába építve.",
+            "ro": "O mică capelă construită direct în stâncă.",
+            "en": "A small chapel built directly into the rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Herzen von Collepardo, wo die Zeit stehen geblieben scheint. Nach der Erkundung der mittelalterlichen Gassen führt Sie der Weg zum botanischen Garten des Kentauren. Den Mittag verbringen Sie bei lokaler Ciociaria-Küche, bevor Sie den kurzen Spaziergang zum beeindruckenden Felsheiligtum unternehmen.",
+        "hu": "Kezdje a napot Collepardo festői szívében, ahol megállt az idő. A középkori sikátorok felfedezése után az út a Kentaur botanikus kertjébe vezet. Az ebédet a helyi Ciociaria konyha remekeivel töltse, majd tegyen egy rövid sétát a lenyűgöző sziklába vájt szentélyhez.",
+        "ro": "Începeți ziua în inima pitorească a orașului Collepardo, unde timpul pare să fi stat pe loc. După explorarea aleilor medievale, drumul vă duce la grădina botanică a Centaurului. Petreceți prânzul savurând bucătăria locală din Ciociaria, înainte de o scurtă plimbare către impresionantul sanctuar săpat în stâncă.",
+        "en": "Start your day in the picturesque heart of Collepardo, where time seems to stand still. After exploring the medieval alleys, the path leads to the Centaur's botanical garden. Spend your lunch enjoying local Ciociaria cuisine, then take a short walk to the impressive sanctuary carved into the rock."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Traditionelle Pasta mit Bohnen."
+          },
+          {
+            "name": "Amaretti di Guarcino",
+            "tip": "Lokale Mandelkekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Hagyományos tészta babbal."
+          },
+          {
+            "name": "Amaretti di Guarcino",
+            "tip": "Helyi mandulás sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Paste tradiționale cu fasole."
+          },
+          {
+            "name": "Amaretti di Guarcino",
+            "tip": "Biscuiți locali cu migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Traditional pasta with beans."
+          },
+          {
+            "name": "Amaretti di Guarcino",
+            "tip": "Local almond cookies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orto del Centauro",
+            "tip": "Ein ruhiger Ort voller Düfte.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orto del Centauro",
+            "tip": "Csendes hely, tele illatokkal.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orto del Centauro",
+            "tip": "Un loc liniștit plin de parfumuri.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orto del Centauro",
+            "tip": "A quiet spot full of scents.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaltgepresstes Öl aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Hidegen sajtolt olaj a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Ulei presat la rece din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Cold-pressed oil from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Stadt ist klein, alles ist in 15 Minuten erreichbar.",
+          "Besuchen Sie das Infobüro für Wanderkarten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A város kicsi, minden 15 percen belül elérhető.",
+          "Látogassa meg az információs irodát túratérképekért."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Orașul este mic, totul este la 15 minute distanță.",
+          "Vizitați biroul de informații pentru hărți de drumeție."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The town is small, everything is within 15 minutes.",
+          "Visit the info office for hiking maps."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Storico",
+            "hu": "Óváros",
+            "ro": "Centrul Istoric",
+            "en": "Old Town"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad am Parkplatz am Eingang.",
+            "hu": "Zárja le a kerékpárját a bejárati parkolónál.",
+            "ro": "Asigurați-vă bicicleta la parcarea de la intrare.",
+            "en": "Secure your bike at the entrance parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte di Collepardo",
+            "hu": "Collepardo-barlangok",
+            "ro": "Grotele din Collepardo",
+            "en": "Collepardo Caves"
+          },
+          "coords": [
+            13.375,
+            41.758
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spektakuläre Stalaktiten, auch 'Grotte der Bambocci' genannt.",
+            "hu": "Látványos sztalaktitok, más néven a 'Bambocci-barlang'.",
+            "ro": "Stalactite spectaculoase, cunoscute și sub numele de 'Grota Bambocci'.",
+            "en": "Spectacular stalactites, also known as 'Bambocci Cave'."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo d'Antullo",
+            "hu": "Pozzo d'Antullo (Víznyelő)",
+            "ro": "Pozzo d'Antullo",
+            "en": "Pozzo d'Antullo"
+          },
+          "coords": [
+            13.362,
+            41.751
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein riesiges natürliches Sinkloch, 60m tief.",
+            "hu": "Egy hatalmas természetes víznyelő, 60 méter mély.",
+            "ro": "O dolină naturală uriașă, adâncă de 60 m.",
+            "en": "A huge natural sinkhole, 60m deep."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Dorf",
+            "hu": "Ebéd a faluban",
+            "ro": "Prânz în sat",
+            "en": "Lunch in the village"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe auf der Piazza.",
+            "hu": "Élvezze a nyugalmat a téren.",
+            "ro": "Bucurați-vă de liniște în piață.",
+            "en": "Enjoy the quiet on the piazza."
+          }
+        },
+        {
+          "name": {
+            "de": "Certosa di Trisulti",
+            "hu": "Trisulti karthauzi kolostor",
+            "ro": "Certosa di Trisulti",
+            "en": "Trisulti Charterhouse"
+          },
+          "coords": [
+            13.395,
+            41.779
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber das Kloster ist es wert.",
+            "hu": "Meredek emelkedő, de a kolostor megéri a fáradtságot.",
+            "ro": "O urcare abruptă, dar mănăstirea merită efortul.",
+            "en": "A steep climb, but the monastery is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert geologische Wunder mit spiritueller Erhabenheit. Nach einer kurzen Fahrt bergab erreichen Sie die berühmten Höhlen und das Pozzo d'Antullo. Der Nachmittag erfordert Ausdauer für den Anstieg zur Certosa di Trisulti, einem architektonischen Juwel in den Bergen.",
+        "hu": "Ez a kerékpártúra a geológiai csodákat ötvözi a spirituális fenséggel. Rövid lejtmenet után eléri a híres barlangokat és a Pozzo d'Antullo víznyelőt. A délután kitartást igényel a hegyekben fekvő Trisulti kolostorhoz való feljutáshoz.",
+        "ro": "Acest tur cu bicicleta combină minunile geologice cu măreția spirituală. După o scurtă coborâre, veți ajunge la faimoasele grote și la Pozzo d'Antullo. După-amiaza necesită rezistență pentru urcarea la Certosa di Trisulti, o bijuterie arhitecturală în munți.",
+        "en": "This bike tour combines geological wonders with spiritual grandeur. After a short downhill ride, you'll reach the famous caves and the Pozzo d'Antullo sinkhole. The afternoon requires stamina for the climb to the Trisulti Charterhouse, an architectural gem in the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pecorino di Collepardo",
+            "tip": "Würziger lokaler Schafskäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pecorino di Collepardo",
+            "tip": "Fűszeres helyi juhsajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pecorino di Collepardo",
+            "tip": "Brânză de oaie locală picantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pecorino di Collepardo",
+            "tip": "Spicy local sheep cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten Trisulti",
+            "tip": "Stille zwischen alten Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trisulti kolostorkert",
+            "tip": "Csend a régi falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii Trisulti",
+            "tip": "Liniște între zidurile vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trisulti Monastery Garden",
+            "tip": "Silence between old walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kloster-Liköre",
+            "tip": "Nach alten Rezepten der Mönche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostori likőrök",
+            "tip": "Szerzetesek régi receptjei alapján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichioruri de mănăstire",
+            "tip": "După rețetele vechi ale călugărilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Liqueurs",
+            "tip": "Based on old monk recipes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele Steigungen, ein E-Bike wird empfohlen.",
+          "Die Straßen sind schmal, achten Sie auf den Autoverkehr.",
+          "In den Höhlen ist es kühl (14°C), nehmen Sie eine Jacke mit."
+        ],
+        "hu": [
+          "Sok az emelkedő, elektromos kerékpár ajánlott.",
+          "Az utak szűkek, figyeljen az autóforgalomra.",
+          "A barlangokban hűvös van (14°C), vigyen kabátot."
+        ],
+        "ro": [
+          "Sunt multe pante, se recomandă o bicicletă electrică.",
+          "Drumurile sunt înguste, atenție la traficul auto.",
+          "În grote este răcoare (14°C), luați o jachetă."
+        ],
+        "en": [
+          "There are many inclines, an e-bike is recommended.",
+          "Roads are narrow, watch out for car traffic.",
+          "It's cool in the caves (14°C), take a jacket."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Certosa di Trisulti",
+            "hu": "Trisulti karthauzi kolostor",
+            "ro": "Certosa di Trisulti",
+            "en": "Trisulti Charterhouse"
+          },
+          "coords": [
+            13.395,
+            41.779
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die antike Apotheke aus dem 18. Jahrhundert.",
+            "hu": "Látogassa meg a 18. századi antik patikát.",
+            "ro": "Vizitați farmacia antică din secolul al XVIII-lea.",
+            "en": "Visit the ancient 18th-century pharmacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Storico (Cluster)",
+            "hu": "Óváros (Cluster)",
+            "ro": "Centrul Istoric (Cluster)",
+            "en": "Old Town (Cluster)"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang und erkunden Sie den Ort zu Fuß.",
+            "hu": "Parkoljon a bejáratnál, és fedezze fel a helyet gyalog.",
+            "ro": "Parcați la intrare și explorați satul pe jos.",
+            "en": "Park at the entrance and explore the town on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Salvatore",
+            "hu": "Megváltó-templom",
+            "ro": "Biserica Santissimo Salvatore",
+            "en": "Church of the Most Holy Savior"
+          },
+          "coords": [
+            13.367,
+            41.766
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Collepardo",
+            "hu": "Ebéd Collepardóban",
+            "ro": "Prânz în Collepardo",
+            "en": "Lunch in Collepardo"
+          },
+          "coords": [
+            13.365,
+            41.765
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Weine aus dem Latium.",
+            "hu": "Kóstolja meg a helyi lazio-i borokat.",
+            "ro": "Încercați vinurile locale din Lazio.",
+            "en": "Try local Lazio wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozzo d'Antullo",
+            "hu": "Pozzo d'Antullo",
+            "ro": "Pozzo d'Antullo",
+            "en": "Pozzo d'Antullo"
+          },
+          "coords": [
+            13.362,
+            41.751
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beeindruckendes Panorama des Einsturzkraters.",
+            "hu": "Lenyűgöző panoráma a beomlott kráterről.",
+            "ro": "Panoramă impresionantă a craterului de prăbușire.",
+            "en": "Impressive panorama of the collapse crater."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte di Collepardo",
+            "hu": "Collepardo-barlangok",
+            "ro": "Grotele din Collepardo",
+            "en": "Collepardo Caves"
+          },
+          "coords": [
+            13.375,
+            41.758
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Geführte Touren zeigen die schönsten Formationen.",
+            "hu": "Vezetett túrák mutatják be a legszebb alakzatokat.",
+            "ro": "Tururile ghidate prezintă cele mai frumoase formațiuni.",
+            "en": "Guided tours show the most beautiful formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta San Nicola (Panorama)",
+            "hu": "Porta San Nicola (Panoráma)",
+            "ro": "Porta San Nicola (Panoramă)",
+            "en": "San Nicola Gate (Panorama)"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht zum Abschluss des Tages.",
+            "hu": "Élvezze a kilátást a nap zárásaként.",
+            "ro": "Bucurați-vă de priveliște la finalul zilei.",
+            "en": "Enjoy the view as the day ends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Certosa di Trisulti, eine Oase der Ruhe in den Bergen. Danach erkunden Sie das historische Zentrum von Collepardo zu Fuß, bevor Sie zu den spektakulären Naturphänomenen Pozzo d'Antullo und den Grotten weiterfahren. Ein perfekter Mix aus Kultur und Natur.",
+        "hu": "Autóval kényelmesen elérheti a Trisulti kolostort, a nyugalom oázisát a hegyekben. Ezután gyalog fedezze fel Collepardo történelmi központját, mielőtt továbbutazna a Pozzo d'Antullo és a barlangok lenyűgöző természeti jelenségeihez. A kultúra és a természet tökéletes keveréke.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la Certosa di Trisulti, o oază de liniște în munți. Apoi explorați centrul istoric din Collepardo pe jos, înainte de a continua spre fenomenele naturale spectaculoase Pozzo d'Antullo și grotele. Un mix perfect de cultură și natură.",
+        "en": "By car, you can easily reach the Trisulti Charterhouse, an oasis of peace in the mountains. Then explore the historic center of Collepardo on foot before continuing to the spectacular natural phenomena of Pozzo d'Antullo and the caves. A perfect mix of culture and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fettuccine ai funghi porcini",
+            "tip": "Hausgemachte Nudeln mit Steinpilzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fettuccine ai funghi porcini",
+            "tip": "Házilag készített tészta vargányával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fettuccine ai funghi porcini",
+            "tip": "Paste de casă cu hribi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fettuccine ai funghi porcini",
+            "tip": "Homemade pasta with porcini mushrooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pozzo d'Antullo Rand",
+            "tip": "Meditativer Blick in die Tiefe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pozzo d'Antullo széle",
+            "tip": "Meditatív kilátás a mélybe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea Pozzo d'Antullo",
+            "tip": "Privire meditativă în adâncuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pozzo d'Antullo Rim",
+            "tip": "Meditative view into the depth.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig aus Collepardo",
+            "tip": "Wildblütenhonig aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Collepardói méz",
+            "tip": "Vadvirágméz a hegyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere din Collepardo",
+            "tip": "Miere de flori de câmp din munți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Collepardo Honey",
+            "tip": "Wildflower honey from the mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Certosa ist kurvenreich, fahren Sie vorsichtig.",
+          "Parkplätze sind im Dorf begrenzt, kommen Sie früh.",
+          "Kombinieren Sie den Besuch der Grotte und des Pozzo für Rabatte."
+        ],
+        "hu": [
+          "A kolostorhoz vezető út kanyargós, vezessen óvatosan.",
+          "A faluban korlátozott a parkolóhely, érkezzen korán.",
+          "Kombinálja a barlang és a víznyelő látogatását kedvezményekért."
+        ],
+        "ro": [
+          "Drumul spre mănăstire este virajat, conduceți cu atenție.",
+          "Locurile de parcare în sat sunt limitate, veniți devreme.",
+          "Combinați vizita la grotă și Pozzo pentru reduceri."
+        ],
+        "en": [
+          "The road to the Charterhouse is winding, drive carefully.",
+          "Parking in the village is limited, arrive early.",
+          "Combine the visit to the cave and Pozzo for discounts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piazza della Libertà",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Hauptplatz und Ankunftspunkt der Busse.",
+            "hu": "A főtér és a buszok érkezési pontja.",
+            "ro": "Piața principală și punctul de sosire a autobuzelor.",
+            "en": "The main square and arrival point for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Storico",
+            "hu": "Óváros",
+            "ro": "Centrul Istoric",
+            "en": "Old Town"
+          },
+          "coords": [
+            13.367,
+            41.766
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den charmanten Gassen.",
+            "hu": "Vesszen el a bájos szűk utcákban.",
+            "ro": "Pierdeți-vă pe străzile fermecătoare.",
+            "en": "Get lost in the charming alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Salvatore",
+            "hu": "Megváltó-templom",
+            "ro": "Biserica Santissimo Salvatore",
+            "en": "Church of the Most Holy Savior"
+          },
+          "coords": [
+            13.3665,
+            41.7655
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Ort der Besinnung im Dorfzentrum.",
+            "hu": "Az elmélkedés helye a faluközpontban.",
+            "ro": "Un loc de reflecție în centrul satului.",
+            "en": "A place of reflection in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Collepardo",
+            "hu": "Ebéd Collepardóban",
+            "ro": "Prânz în Collepardo",
+            "en": "Lunch in Collepardo"
+          },
+          "coords": [
+            13.366,
+            41.765
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesgericht (Piatto del giorno).",
+            "hu": "Kérdezze a napi ajánlatot (Piatto del giorno).",
+            "ro": "Întrebați de meniul zilei (Piatto del giorno).",
+            "en": "Ask for the dish of the day (Piatto del giorno)."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto del Centauro",
+            "hu": "Kentaur-kert",
+            "ro": "Orto del Centauro",
+            "en": "Centaur's Garden"
+          },
+          "coords": [
+            13.368,
+            41.767
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss vor der Busrückfahrt.",
+            "hu": "Pihentető lezárás a busz visszaindulása előtt.",
+            "ro": "O încheiere relaxantă înainte de întoarcerea cu autobuzul.",
+            "en": "A relaxing finish before the bus ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Regionalbus erreichen Sie das Herz von Collepardo. Dieser Plan konzentriert sich auf die Entschleunigung im Dorf: Erkunden Sie die Kirche, das mittelalterliche Zentrum und den botanischen Garten ganz ohne Eile, bevor Sie die Rückreise antreten.",
+        "hu": "Regionális busszal érkezhet Collepardo szívébe. Ez a terv a faluban való lassításra összpontosít: fedezze fel a templomot, a középkori központot és a botanikus kertet minden sietség nélkül, mielőtt visszaindulna.",
+        "ro": "Cu autobuzul regional ajungeți în inima orașului Collepardo. Acest plan se concentrează pe relaxarea în sat: explorați biserica, centrul medieval și grădina botanică fără nicio grabă, înainte de a pleca înapoi.",
+        "en": "By regional bus, you reach the heart of Collepardo. This plan focuses on slowing down in the village: explore the church, the medieval center, and the botanical garden without any rush before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bruschetta con olio locale",
+            "tip": "Einfach und köstlich mit frischem Öl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bruschetta helyi olajjal",
+            "tip": "Egyszerű és finom friss olajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bruschetta cu ulei local",
+            "tip": "Simplu și delicios cu ulei proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bruschetta with local oil",
+            "tip": "Simple and delicious with fresh oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza V. Emanuele",
+            "tip": "Beobachten Sie das Dorfleben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza V. Emanuele",
+            "tip": "Figyelje a falu életét.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza V. Emanuele",
+            "tip": "Observați viața satului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza V. Emanuele",
+            "tip": "Watch the village life unfold.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Kleine Souvenirs aus dem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Kis szuvenírek a faluból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Mici suveniruri din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Small souvenirs from the town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die COTRAL-Busfahrpläne vorab genau.",
+          "Sonntags fahren deutlich weniger Busse.",
+          "Kaufen Sie Bustickets in der Bar im Voraus."
+        ],
+        "hu": [
+          "Előre pontosan ellenőrizze a COTRAL buszmenetrendet.",
+          "Vasárnap jelentősen kevesebb busz jár.",
+          "Vegye meg előre a buszjegyeket a helyi bárban."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor COTRAL cu atenție în prealabil.",
+          "Duminica circulă mult mai puține autobuze.",
+          "Cumpărați biletele de autobuz în avans de la bar."
+        ],
+        "en": [
+          "Check COTRAL bus schedules carefully in advance.",
+          "Significantly fewer buses run on Sundays.",
+          "Buy bus tickets in advance at the local bar."
+        ]
+      }
+    }
+  }
+}

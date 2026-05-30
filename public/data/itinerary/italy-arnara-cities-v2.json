@@ -1,0 +1,1257 @@
+{
+  "city_id": "italy-arnara-cities-v2",
+  "anchor": {
+    "name": "Arnara",
+    "coords": [
+      13.38,
+      41.6
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            13.387,
+            41.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Espresso in einer der kleinen Bars am Platz.",
+            "hu": "Kezdje a napot egy eszpresszóval a tér egyik kis bárjában.",
+            "ro": "Începeți ziua cu un espresso la unul dintre barurile mici din piață.",
+            "en": "Start the day with an espresso at one of the small bars on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadttore",
+            "hu": "Óvárosi kapuk",
+            "ro": "Porțile orașului vechi",
+            "en": "Old Town Gates"
+          },
+          "coords": [
+            13.387,
+            41.585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Details im Mauerwerk der antiken Tore.",
+            "hu": "Figyelje meg a középkori részleteket az ősi kapuk falazatában.",
+            "ro": "Observați detaliile medievale în zidăria porților antice.",
+            "en": "Look for medieval details in the masonry of the ancient gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Colonna",
+            "hu": "Colonna-kastély",
+            "ro": "Castelul Colonna",
+            "en": "Colonna Castle"
+          },
+          "coords": [
+            13.388,
+            41.586
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Burg dominiert die Spitze des Hügels und bietet einen tiefen Einblick in die Geschichte.",
+            "hu": "A vár uralja a dombtetőt, és mély betekintést nyújt a történelembe.",
+            "ro": "Castelul domină vârful dealului și oferă o incursiune profundă în istorie.",
+            "en": "The castle dominates the hilltop and offers deep insight into history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Santa Maria Church"
+          },
+          "coords": [
+            13.389,
+            41.584
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung mit schönen sakralen Kunstwerken im Inneren.",
+            "hu": "Csendes hely az elmélkedésre, szép szakrális műalkotásokkal a belső térben.",
+            "ro": "Un loc liniștit pentru reflecție, cu frumoase opere de artă sacră în interior.",
+            "en": "A quiet place for reflection with beautiful sacred artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Sebastiano",
+            "hu": "San Sebastiano templom",
+            "ro": "Biserica San Sebastiano",
+            "en": "San Sebastiano Church"
+          },
+          "coords": [
+            13.388,
+            41.583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche vor der Mittagspause, wenn das Licht ideal fällt.",
+            "hu": "Látogassa meg a templomot az ebédszünet előtt, amikor a fényviszonyok ideálisak.",
+            "ro": "Vizitați biserica înainte de pauza de prânz, când lumina cade ideal.",
+            "en": "Visit the church before the lunch break when the light is ideal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Centre"
+          },
+          "coords": [
+            13.386,
+            41.583
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über lokale Ausstellungen oder Veranstaltungen.",
+            "hu": "Tájékozódjon a helyi kiállításokról vagy rendezvényekről.",
+            "ro": "Informați-vă despre expozițiile sau evenimentele locale.",
+            "en": "Find out about local exhibitions or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            13.385,
+            41.584
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein würdevoller Ort des Gedenkens mit Blick auf die umliegenden Hügel.",
+            "hu": "A megemlékezés méltóságteljes helye, kilátással a környező dombokra.",
+            "ro": "Un loc demn de comemorare, cu vedere spre dealurile din jur.",
+            "en": "A dignified place of remembrance with views of the surrounding hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaterrasse (Belvedere)",
+            "hu": "Panorámaterasz (Belvedere)",
+            "ro": "Terasa Panoramică (Belvedere)",
+            "en": "Panorama Terrace (Belvedere)"
+          },
+          "coords": [
+            13.386,
+            41.585
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über die Ciociaria zum Abschluss der Tour.",
+            "hu": "Élvezze a Ciociaria-vidékre nyíló tágas kilátást a túra lezárásaként.",
+            "ro": "Bucurați-vă de vederea largă asupra Ciociariei la finalul turului.",
+            "en": "Enjoy the wide view over the Ciociaria region to conclude the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Arnara beginnt lebhaft auf der Piazza Garibaldi, dem pulsierenden Herzstück der Gemeinde. Nach einem kurzen Streifzug durch die historischen Tore führt der Weg hinauf zum imposanten Castello Colonna, das stolz über den Dächern thront. Mittags erkunden Sie die sakrale Stille der Kirchen Santa Maria und San Sebastiano, bevor Sie im Kulturzentrum in die lokale Kunstszene eintauchen. Der Nachmittag steht im Zeichen des Gedenkens am Kriegerdenkmal. Zum Ausklang des Tages bietet die Panoramaterrasse Belvedere einen unvergesslichen Blick über die sanften Hügel der Ciociaria.",
+        "hu": "A reggel Arnarában élénken indul a Piazza Garibaldin, a település lüktető szívében. Az óvárosi kapuk felfedezése után az út a tekintélyes Colonna-kastélyhoz vezet, amely büszkén tornyosul a tetők fölé. Délben a Santa Maria és San Sebastiano templomok szakrális csendjét ismerhetik meg, mielőtt a Kulturális Központban elmélyednének a helyi művészetben. A délután a Háborús emlékműnél tett látogatással a megemlékezésé. A nap végén a Belvedere panorámaterasz felejthetetlen kilátást nyújt a Ciociaria-vidék szelíd dombjaira.",
+        "ro": "Dimineața în Arnara începe plină de viață în Piazza Garibaldi, inima vibrantă a localității. După o scurtă explorare a porților istorice, drumul urcă spre impunătorul Castel Colonna, care domină mândru acoperișurile. La prânz, descoperiți liniștea sacră a bisericilor Santa Maria și San Sebastiano, înainte de a pătrunde în scena artistică locală la Centrul Cultural. După-amiaza este dedicată memoriei la Monumentul Eroilor. La finalul zilei, terasa panoramică Belvedere oferă o priveliște de neuitat peste dealurile blânde ale Ciociariei.",
+        "en": "The morning in Arnara begins vibrantly at Piazza Garibaldi, the pulsating heart of the town. After a brief stroll through the historic gates, the path leads up to the imposing Colonna Castle, which stands proudly above the rooftops. At noon, explore the sacred silence of the Santa Maria and San Sebastiano churches before diving into the local art scene at the Cultural Centre. The afternoon is dedicated to remembrance at the War Memorial. To round off the day, the Belvedere panorama terrace offers an unforgettable view over the rolling hills of Ciociaria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Probieren Sie das native Olivenöl extra aus Arnara, bekannt für sein fruchtiges Aroma."
+          },
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Handgemachte Pasta mit Pilzen oder Fleischragout in den kleinen Trattorien am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Kóstolja meg az arnari extra szűz olívaolajat, amely gyümölcsös aromájáról híres."
+          },
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Kézzel készített tészta gombával vagy húsos raguval a főtér melletti kis trattoriákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Gustați uleiul de măsline extravirgin din Arnara, renumit pentru aroma sa fructată."
+          },
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Paste lucrate manual cu ciuperci sau ragu de carne în micile trattorii de lângă piața principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Try the extra virgin olive oil from Arnara, famous for its fruity aroma."
+          },
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Handmade pasta with mushrooms or meat ragout in the small trattorias near the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere di Arnara",
+            "tip": "Der ideale Ort für den Sonnenuntergang über dem Tal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchenhof Santa Maria",
+            "tip": "Ein stiller Winkel abseits der Gassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arnara Belvedere",
+            "tip": "Ideális hely a völgy feletti naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Maria templomudvar",
+            "tip": "Csendes zug a sikátoroktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere di Arnara",
+            "tip": "Locul ideal pentru apusul de soare peste vale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea bisericii Santa Maria",
+            "tip": "Un colț liniștit departe de ulițe.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere di Arnara",
+            "tip": "The ideal spot for sunset over the valley.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Santa Maria Church Courtyard",
+            "tip": "A quiet nook away from the alleys.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofverkauf Olivenöl",
+            "tip": "Kaufen Sie Öl direkt beim Produzenten in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj háztól",
+            "tip": "Vásároljon olajat közvetlenül a környékbeli termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de ulei",
+            "tip": "Cumpărați ulei direct de la producătorii din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Farm Sale",
+            "tip": "Buy oil directly from the producers in the surroundings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen zum Schloss.",
+          "Besuchen Sie das Dorf während des Olivenfests im Herbst.",
+          "Parken Sie unterhalb der Piazza Garibaldi.",
+          "Fragen Sie die Einheimischen nach der Geschichte der Familie Colonna."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kastélyhoz vezető meredek utcákhoz.",
+          "Látogassa meg a falut az őszi olívaünnep idején.",
+          "Parkoljon a Piazza Garibaldi alatti területen.",
+          "Kérdezze a helyieket a Colonna család történetéről."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile abrupte spre castel.",
+          "Vizitați satul în timpul festivalului măslinelor din toamnă.",
+          "Parcați sub Piazza Garibaldi.",
+          "Întrebați localnicii despre istoria familiei Colonna."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep alleys up to the castle.",
+          "Visit the village during the olive festival in autumn.",
+          "Park below Piazza Garibaldi.",
+          "Ask locals about the history of the Colonna family."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            13.387,
+            41.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bereiten Sie Ihre Ausrüstung vor und genießen Sie die kühle Morgenluft.",
+            "hu": "Készítse elő felszerelését, és élvezze a hűvös reggeli levegőt.",
+            "ro": "Pregătiți-vă echipamentul și bucurați-vă de aerul răcoros al dimineții.",
+            "en": "Prepare your gear and enjoy the cool morning air."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Centre"
+          },
+          "coords": [
+            13.386,
+            41.583
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein moderner Stopp vor der Fahrt in die historische Oberstadt.",
+            "hu": "Modern megálló a történelmi felsővárosba való feltekerés előtt.",
+            "ro": "O oprire modernă înainte de a urca în centrul istoric.",
+            "en": "A modern stop before riding up to the historic upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadttore",
+            "hu": "Óvárosi kapuk",
+            "ro": "Porțile orașului vechi",
+            "en": "Old Town Gates"
+          },
+          "coords": [
+            13.387,
+            41.585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad kurz ab, um die Tore zu fotografieren.",
+            "hu": "Állítsa le rövid időre a biciklit, hogy lefotózhassa a kapukat.",
+            "ro": "Opriți scurt bicicleta pentru a fotografia porțile.",
+            "en": "Briefly park your bike to photograph the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Colonna",
+            "hu": "Colonna-kastély",
+            "ro": "Castelul Colonna",
+            "en": "Colonna Castle"
+          },
+          "coords": [
+            13.388,
+            41.586
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Auffahrt zum Schloss ist anspruchsvoll, aber die Aussicht lohnt sich.",
+            "hu": "A kastélyhoz vezető emelkedő megerőltető, de a kilátás megéri.",
+            "ro": "Urcarea spre castel este solicitantă, dar priveliștea merită efortul.",
+            "en": "The climb to the castle is challenging, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Santa Maria Church"
+          },
+          "coords": [
+            13.389,
+            41.584
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die kühle Kirche für eine kleine Erholungspause.",
+            "hu": "Használja ki a hűvös templomot egy kis pihenésre.",
+            "ro": "Folosiți răcoarea bisericii pentru o mică pauză de odihnă.",
+            "en": "Take advantage of the cool church for a small rest break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Sebastiano",
+            "hu": "San Sebastiano templom",
+            "ro": "Biserica San Sebastiano",
+            "en": "San Sebastiano Church"
+          },
+          "coords": [
+            13.388,
+            41.583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner architektonischer Stopp auf dem Weg zurück.",
+            "hu": "Szép építészeti megálló a visszaúton.",
+            "ro": "O oprire arhitecturală frumoasă pe drumul de întoarcere.",
+            "en": "A beautiful architectural stop on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            13.385,
+            41.584
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Innehalten-Moment, bevor es zur letzten Etappe geht.",
+            "hu": "Egy rövid pillanat az elcsendesedésre az utolsó szakasz előtt.",
+            "ro": "Un scurt moment de reculegere înainte de ultima etapă.",
+            "en": "A brief moment of pause before the final leg."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaterrasse (Belvedere)",
+            "hu": "Panorámaterasz (Belvedere)",
+            "ro": "Terasa Panoramică (Belvedere)",
+            "en": "Panorama Terrace (Belvedere)"
+          },
+          "coords": [
+            13.386,
+            41.585
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Radtour mit Panoramablick ausklingen zu lassen.",
+            "hu": "Tökéletes hely a kerékpártúra lezárásához panorámás kilátással.",
+            "ro": "Locul perfect pentru a încheia turul cu bicicleta cu o vedere panoramică.",
+            "en": "The perfect place to end the bike tour with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Arnara auf zwei Rädern zu erkunden, bietet eine sportliche Herausforderung inmitten der italienischen Hügellandschaft. Vom belebten Zentrum geht es zunächst zum modernen Kulturzentrum und dann stetig bergauf durch die alten Stadttore zum Schloss der Colonna. Diese Strecke belohnt mit spektakulären Ausblicken und kühlen Momenten in den Kirchen am Wegesrand. Die Tour verbindet historische Sehenswürdigkeiten mit der Freiheit des Radfahrens, wobei die Panoramaterrasse Belvedere den krönenden Abschluss bildet, bevor man sanft zurück in das Herz der Stadt rollt.",
+        "hu": "Arnara felfedezése két keréken sportos kihívást jelent az olasz dombvidék szívében. A nyüzsgő központból először a modern Kulturális Központ felé vesszük az irányt, majd folyamatos emelkedővel, az ősi városkapukon át jutunk fel a Colonna-kastélyhoz. Ez az útvonal látványos kilátással és az út menti templomok hűvös pillanataival jutalmazza a kerekezőket. A túra ötvözi a történelmi látnivalókat a kerékpározás szabadságával, ahol a Belvedere panorámaterasz teszi fel a koronát az élményre, mielőtt lágyan visszagurulnánk a város szívébe.",
+        "ro": "Explorarea Arnarei pe două roți oferă o provocare sportivă în mijlocul peisajului deluros italian. Din centrul animat, traseul duce mai întâi spre Centrul Cultural modern și apoi urcă constant prin vechile porți ale orașului până la Castelul Colonna. Acest traseu răsplătește efortul cu vederi spectaculoase și momente răcoroase în bisericile de pe marginea drumului. Turul combină obiectivele istorice cu libertatea mersului pe bicicletă, terasa panoramică Belvedere fiind punctul culminant înainte de a coborî lin înapoi în inima orașului.",
+        "en": "Exploring Arnara on two wheels offers a sporting challenge amidst the Italian hills. From the bustling center, the route first heads to the modern Cultural Centre and then steadily uphill through the old city gates to the Colonna Castle. This route rewards you with spectacular views and cool moments in the churches along the way. The tour combines historic sights with the freedom of cycling, with the Belvedere panorama terrace providing the crowning finale before gently rolling back into the heart of the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Energieschub in der Bar",
+            "tip": "Ein schneller Espresso und italienisches Gebäck für die nächste Steigung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Energialöket a bárban",
+            "tip": "Egy gyors eszpresszó és olasz sütemény a következő emelkedő előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plus de energie la bar",
+            "tip": "Un espresso rapid și patiserie italiană pentru următoarea urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Energy Boost at the Bar",
+            "tip": "A quick espresso and Italian pastry for the next climb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere",
+            "tip": "Ruhiger Punkt nach der Anstrengung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere",
+            "tip": "Csendes pont a megerőltetés után.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere",
+            "tip": "Punct de liniște după efort.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere",
+            "tip": "Quiet point after the exertion.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Direktverkauf",
+            "tip": "Praktisch für kleine Flaschen im Rucksack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj közvetlen eladás",
+            "tip": "Praktikus kis üvegek a hátizsákba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare ulei",
+            "tip": "Practic pentru sticle mici în rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Sales",
+            "tip": "Convenient for small bottles in your backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor der Abfahrt vom Schloss.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Brunnen.",
+          "Die Bergauf-Passagen erfordern Kondition.",
+          "Nutzen Sie ein E-Bike für mehr Komfort."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a kastélytól való leereszkedés előtt.",
+          "Vigyen magával elegendő vizet, kevés a kút.",
+          "A hegyi szakaszok jó kondíciót igényelnek.",
+          "Használjon elektromos kerékpárt a nagyobb kényelem érdekében."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de la castel.",
+          "Luați suficientă apă, sunt puține fântâni.",
+          "Pasajele în urcare necesită condiție fizică.",
+          "Utilizați o bicicletă electrică pentru mai mult confort."
+        ],
+        "en": [
+          "Check your brakes before descending from the castle.",
+          "Carry enough water, there are few fountains.",
+          "The uphill sections require fitness.",
+          "Use an e-bike for more comfort."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: Piazza Garibaldi",
+            "hu": "A csoport: Piazza Garibaldi",
+            "ro": "Cluster A: Piazza Garibaldi",
+            "en": "Cluster A: Piazza Garibaldi"
+          },
+          "coords": [
+            13.387,
+            41.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den ersten Kern zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel az első magot gyalog.",
+            "ro": "Parcați central și explorați primul nucleu la pas.",
+            "en": "Park centrally and explore the first core on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadttore",
+            "hu": "Óvárosi kapuk",
+            "ro": "Porțile orașului vechi",
+            "en": "Old Town Gates"
+          },
+          "coords": [
+            13.387,
+            41.585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die historischen Durchgänge.",
+            "hu": "Rövid séta a történelmi átjárókon keresztül.",
+            "ro": "O scurtă plimbare prin pasajele istorice.",
+            "en": "A short walk through the historical passages."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Colonna",
+            "hu": "Colonna-kastély",
+            "ro": "Castelul Colonna",
+            "en": "Colonna Castle"
+          },
+          "coords": [
+            13.388,
+            41.586
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Highlight der Stadtführung, zu Fuß vom Parkplatz erreichbar.",
+            "hu": "A városnézés csúcspontja, gyalogosan elérhető a parkolótól.",
+            "ro": "Punctul culminant al turului, accesibil pe jos din parcare.",
+            "en": "The highlight of the city tour, accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Kirche Santa Maria",
+            "hu": "B csoport: Santa Maria templom",
+            "ro": "Cluster B: Biserica Santa Maria",
+            "en": "Cluster B: Santa Maria Church"
+          },
+          "coords": [
+            13.389,
+            41.584
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nächsten Cluster am Rande des Zentrums.",
+            "hu": "Rövid autózás a következő csoporthoz a központ szélén.",
+            "ro": "Scurtă deplasare cu mașina către următorul cluster la marginea centrului.",
+            "en": "Short drive to the next cluster at the edge of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Sebastiano",
+            "hu": "San Sebastiano templom",
+            "ro": "Biserica San Sebastiano",
+            "en": "San Sebastiano Church"
+          },
+          "coords": [
+            13.388,
+            41.583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Parkplatz des zweiten Clusters bequem zu Fuß erreichbar.",
+            "hu": "A második csoport parkolójától kényelmesen, gyalog elérhető.",
+            "ro": "Accesibil ușor pe jos din parcarea celui de-al doilea cluster.",
+            "en": "Easily accessible on foot from the parking of the second cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Kulturzentrum",
+            "hu": "C csoport: Kulturális Központ",
+            "ro": "Cluster C: Centrul Cultural",
+            "en": "Cluster C: Cultural Centre"
+          },
+          "coords": [
+            13.386,
+            41.583
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den letzten Teil der kulturellen Tour.",
+            "hu": "Parkoljon itt a kulturális túra utolsó szakaszához.",
+            "ro": "Parcați aici pentru ultima parte a turului cultural.",
+            "en": "Park here for the final part of the cultural tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            13.385,
+            41.584
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Kulturzentrum entfernt.",
+            "hu": "Csak egy rövid séta a Kulturális Központtól.",
+            "ro": "La doar o scurtă plimbare de Centrul Cultural.",
+            "en": "Just a short walk from the Cultural Centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaterrasse (Belvedere)",
+            "hu": "Panorámaterasz (Belvedere)",
+            "ro": "Terasa Panoramică (Belvedere)",
+            "en": "Panorama Terrace (Belvedere)"
+          },
+          "coords": [
+            13.386,
+            41.585
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss des Tages mit dem Auto-Bequemlichkeitsvorteil.",
+            "hu": "A nap lezárása az autó nyújtotta kényelemmel.",
+            "ro": "Încheierea zilei cu avantajul confortului oferit de mașină.",
+            "en": "Concluding the day with the convenience of a car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Arnara effizient in Clustern erkunden. Wir beginnen im historischen Zentrum, wo wir den Wagen abstellen, um die Colonna-Burg und die antiken Stadttore zu Fuß zu entdecken. Danach führt eine kurze Fahrt zum religiösen Cluster mit den Kirchen Santa Maria und San Sebastiano. Den Abschluss bildet der Bereich um das Kulturzentrum und die Panoramaterrasse Belvedere. Diese Strategie verbindet die Bequemlichkeit des PKW für die Anreise mit der Immersion beim Spaziergang durch die malerischen Viertel, ohne dabei zu ermüden.",
+        "hu": "Autóval Arnara hatékonyan felfedezhető csoportokra osztva. A történelmi központban kezdünk, ahol leparkolunk, hogy gyalogosan fedezzük fel a Colonna-várat és az ősi városkapukat. Ezután rövid autózás következik a vallási negyedbe, a Santa Maria és San Sebastiano templomokhoz. A túrát a Kulturális Központ és a Belvedere panorámaterasz környékén zárjuk. Ez a stratégia ötvözi az autó kényelmét a festői negyedekben tett séta élményével, anélkül, hogy túlságosan elfáradnánk.",
+        "ro": "Cu mașina, Arnara poate fi explorată eficient în clustere. Începem în centrul istoric, unde parcăm pentru a descoperi la pas Castelul Colonna și porțile antice ale orașului. Apoi, o scurtă deplasare ne duce la clusterul religios cu bisericile Santa Maria și San Sebastiano. Încheiem în zona Centrului Cultural și a terasei panoramice Belvedere. Această strategie combină confortul mașinii pentru deplasări cu imersiunea plimbărilor prin cartierele pitorești, fără a acumula oboseală.",
+        "en": "By car, Arnara can be explored efficiently in clusters. We start in the historic center, where we park the car to discover the Colonna Castle and the ancient city gates on foot. Then a short drive leads to the religious cluster with the Santa Maria and San Sebastiano churches. We conclude in the area around the Cultural Centre and the Belvedere panorama terrace. This strategy combines the convenience of the car for travel with the immersion of walking through the picturesque neighborhoods without getting too tired."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria im Zentrum",
+            "tip": "Nutzen Sie den Parkplatz für einen entspannten Lunch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria a központban",
+            "tip": "Használja ki a parkolót egy kényelmes ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria în centru",
+            "tip": "Folosiți parcarea pentru un prânz relaxat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria in the Center",
+            "tip": "Use the parking for a relaxed lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere",
+            "tip": "Bequem erreichbar für einen letzten Ausblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere",
+            "tip": "Kényelmesen elérhető az utolsó kilátáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere",
+            "tip": "Ușor accesibil pentru o ultimă vedere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere",
+            "tip": "Easily accessible for a final view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühle in der Nähe",
+            "tip": "Mit dem Auto können Sie größere Kanister Olivenöl transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Közeli olajütő",
+            "tip": "Autóval nagyobb kanna olívaolajat is szállíthat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei în apropiere",
+            "tip": "Cu mașina puteți transporta canistre mai mari de ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nearby Oil Mill",
+            "tip": "With a car, you can transport larger canisters of olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die engen Einbahnstraßen im alten Kern.",
+          "Parken Sie auf den markierten Flächen unterhalb der Burg.",
+          "Die Straßen zwischen den Clustern sind gut ausgebaut.",
+          "Ein kleiner PKW ist in den Gassen von Vorteil."
+        ],
+        "hu": [
+          "Figyeljen a szűk egyirányú utcákra a régi városmagban.",
+          "Parkoljon a kijelölt helyeken a vár alatt.",
+          "A csoportok közötti utak jól kiépítettek.",
+          "Egy kisautó előnyösebb a sikátorokban."
+        ],
+        "ro": [
+          "Atenție la străzile înguste cu sens unic din nucleul vechi.",
+          "Parcați în spațiile marcate de sub castel.",
+          "Drumurile dintre clustere sunt bine întreținute.",
+          "O mașină mică este un avantaj pe ulițe."
+        ],
+        "en": [
+          "Watch out for narrow one-way streets in the old core.",
+          "Park in marked areas below the castle.",
+          "The roads between clusters are well-maintained.",
+          "A small car is an advantage in the alleys."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi (Busstopp)",
+            "hu": "Piazza Garibaldi (buszmegálló)",
+            "ro": "Piazza Garibaldi (stație bus)",
+            "en": "Piazza Garibaldi (Bus stop)"
+          },
+          "coords": [
+            13.387,
+            41.584
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit dem Regionalbus.",
+            "hu": "Központi érkezési pont a helyközi busszal.",
+            "ro": "Punct central de sosire cu autobuzul regional.",
+            "en": "Central arrival point with the regional bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadttore",
+            "hu": "Óvárosi kapuk",
+            "ro": "Porțile orașului vechi",
+            "en": "Old Town Gates"
+          },
+          "coords": [
+            13.387,
+            41.585
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp in das historische Viertel.",
+            "hu": "Rövid séta a buszmegállótól a történelmi negyedbe.",
+            "ro": "Scurtă plimbare de la stația de autobuz în cartierul istoric.",
+            "en": "Short walk from the bus stop into the historic district."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Colonna",
+            "hu": "Colonna-kastély",
+            "ro": "Castelul Colonna",
+            "en": "Colonna Castle"
+          },
+          "coords": [
+            13.388,
+            41.586
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für die Aussicht und die Geschichte.",
+            "hu": "Az emelkedő megéri a kilátás és a történelem miatt.",
+            "ro": "Urcarea merită pentru priveliște și istorie.",
+            "en": "The climb is worth it for the view and the history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria",
+            "hu": "Santa Maria templom",
+            "ro": "Biserica Santa Maria",
+            "en": "Santa Maria Church"
+          },
+          "coords": [
+            13.389,
+            41.584
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Ort der Ruhe zwischen den Bustouren.",
+            "hu": "Szép, nyugodt hely a buszos szakaszok között.",
+            "ro": "Un loc frumos de liniște între etapele cu autobuzul.",
+            "en": "A beautiful place of peace between bus segments."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum (Transit-Stopp)",
+            "hu": "Kulturális Központ (tranzit megálló)",
+            "ro": "Centrul Cultural (stație tranzit)",
+            "en": "Cultural Centre (Transit stop)"
+          },
+          "coords": [
+            13.386,
+            41.583
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wechseln Sie den Bezirk mit einer kurzen Busfahrt.",
+            "hu": "Váltson városrészt egy rövid buszozással.",
+            "ro": "Schimbați cartierul cu o scurtă călătorie cu autobuzul.",
+            "en": "Change districts with a short bus ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            13.385,
+            41.584
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Kulturzentrum erreichbar.",
+            "hu": "Gyalogosan elérhető a Kulturális Központtól.",
+            "ro": "Accesibil pe jos de la Centrul Cultural.",
+            "en": "Accessible on foot from the Cultural Centre."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaterrasse (Belvedere)",
+            "hu": "Panorámaterasz (Belvedere)",
+            "ro": "Terasa Panoramică (Belvedere)",
+            "en": "Panorama Terrace (Belvedere)"
+          },
+          "coords": [
+            13.386,
+            41.585
+          ],
+          "category": "natural features",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein letzter Blick, bevor es zurück zur Haltestelle geht.",
+            "hu": "Egy utolsó pillantás, mielőtt visszatérne a megállóhoz.",
+            "ro": "O ultimă privire înainte de a reveni la stație.",
+            "en": "A final look before heading back to the stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Arnara mit öffentlichen Verkehrsmitteln zu besuchen, erfordert etwas Planung, belohnt aber mit einer entspannten Anreise. Der Regionalbus bringt Sie direkt zur Piazza Garibaldi, dem idealen Startpunkt für die Erkundung der historischen Oberstadt. Zu Fuß erreichen Sie das Schloss und die bedeutendsten Kirchen. Ein kurzer Transfer führt Sie zum modernen Kulturzentrum, von wo aus Sie das Panorama am Belvedere genießen können. Diese Route nutzt den Transit für den Weg zwischen den Vierteln und setzt auf das Gehen innerhalb der Cluster, um den authentischen Charme der Ciociaria hautnah zu erleben.",
+        "hu": "Arnara meglátogatása tömegközlekedéssel némi tervezést igényel, de kényelmes érkezéssel jutalmaz. A helyközi busz közvetlenül a Piazza Garibaldira visz, amely ideális kiindulópont a történelmi felsőváros felfedezéséhez. Gyalogosan elérheti a kastélyt és a legjelentősebb templomokat. Egy rövid átszállással juthat el a modern Kulturális Központba, ahonnan a Belvedere panorámáját élvezheti. Ez az útvonal a negyedek közötti közlekedésre használja a tranzitot, a többi részen pedig a gyaloglásra épít, hogy testközelből élhesse át a Ciociaria-vidék autentikus báját.",
+        "ro": "Vizitarea Arnarei cu mijloacele de transport în comun necesită puțină planificare, dar oferă o sosire relaxată. Autobuzul regional vă lasă direct în Piazza Garibaldi, punctul de pornire ideal pentru explorarea centrului istoric. Pe jos puteți ajunge la castel și la cele mai importante biserici. Un scurt transfer vă duce la Centrul Cultural modern, de unde puteți admira panorama de la Belvedere. Acest traseu folosește tranzitul pentru deplasarea între cartiere și se bazează pe mersul pe jos în interiorul clusterelor pentru a experimenta farmecul autentic al Ciociariei.",
+        "en": "Visiting Arnara by public transport requires some planning but rewards you with a relaxed arrival. The regional bus takes you directly to Piazza Garibaldi, the ideal starting point for exploring the historic upper town. You can reach the castle and the most important churches on foot. A short transfer takes you to the modern Cultural Centre, from where you can enjoy the panorama at the Belvedere. This route uses transit for travel between districts and relies on walking within the clusters to experience the authentic charm of Ciociaria firsthand."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panini in der Bar",
+            "tip": "Schnell und lecker direkt am Busstopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panini a bárban",
+            "tip": "Gyors és finom, közvetlenül a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panini la bar",
+            "tip": "Rapid și gustos, chiar lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panini at the Bar",
+            "tip": "Quick and tasty right by the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere",
+            "tip": "Warten auf den Bus mit Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere",
+            "tip": "Buszra várva, kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere",
+            "tip": "Așteptând autobuzul cu o vedere frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere",
+            "tip": "Waiting for the bus with a view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Kleine Souvenirs, die gut in die Tasche passen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Kisméretű szuvenírek, amelyek beférnek a táskába."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Suveniruri mici care încap ușor în geantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Products",
+            "tip": "Small souvenirs that fit well in a bag."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan (COTRAL) vorab.",
+          "Kaufen Sie Fahrkarten in den Tabakläden (Tabacchi).",
+          "Am Wochenende verkehren weniger Busse.",
+          "Die Haltestellen sind oft informell markiert."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet (COTRAL).",
+          "Vásároljon jegyet a dohányboltokban (Tabacchi).",
+          "Hétvégén kevesebb busz jár.",
+          "A megállókat gyakran csak informálisan jelzik."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (COTRAL) în prealabil.",
+          "Cumpărați bilete de la magazinele de tutun (Tabacchi).",
+          "În weekend circulă mai puține autobuze.",
+          "Stațiile sunt adesea marcate informal."
+        ],
+        "en": [
+          "Check the bus schedule (COTRAL) in advance.",
+          "Buy tickets at tobacco shops (Tabacchi).",
+          "Fewer buses run on weekends.",
+          "Stops are often informally marked."
+        ]
+      }
+    }
+  }
+}

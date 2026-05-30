@@ -1,0 +1,946 @@
+{
+  "city_id": "saintes",
+  "anchor": {
+    "name": "Saintes",
+    "coords": [
+      -0.632,
+      45.746
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Germanicusbogen",
+          "coords": [
+            -0.628,
+            45.744
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das antike Tor zur Stadt am Ufer der Charente.",
+            "hu": "Az ókori városkapu a Charente partján.",
+            "ro": "Vechea poartă a orașului pe malul râului Charente.",
+            "en": "The ancient gateway to the city on the banks of the Charente."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.628,
+            45.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen Morgenspaziergang am Fluss.",
+            "hu": "Tökéletes reggeli sétához a folyó mentén.",
+            "ro": "Perfect pentru o plimbare de dimineață pe malul râului.",
+            "en": "Perfect for a morning stroll by the river."
+          }
+        },
+        {
+          "name": "Museum de l'Échevinage",
+          "coords": [
+            -0.632,
+            45.745
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schöne Kunstsammlung in einem historischen Gebäude.",
+            "hu": "Szép művészeti gyűjtemény egy történelmi épületben.",
+            "ro": "O colecție frumoasă de artă într-o clădire istorică.",
+            "en": "Beautiful art collection in a historical building."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Pierre",
+          "coords": [
+            -0.632,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Portal und den unvollendeten Turm.",
+            "hu": "Csodálja meg a gótikus kaput és a befejezetlen tornyot.",
+            "ro": "Admirați portalul gotic și turnul neterminat.",
+            "en": "Admire the Gothic portal and the unfinished tower."
+          }
+        },
+        {
+          "name": "Gastro Pause",
+          "coords": [
+            -0.633,
+            45.744
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Pineau des Charentes.",
+            "hu": "Kóstolja meg a helyi Pineau des Charentes likőrbort.",
+            "ro": "Gustați faimosul Pineau des Charentes local.",
+            "en": "Taste the local Pineau des Charentes liqueur wine."
+          }
+        },
+        {
+          "name": "Basilika Saint-Eutrope",
+          "coords": [
+            -0.638,
+            45.743
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit einer beeindruckenden Krypta.",
+            "hu": "UNESCO világörökség lenyűgöző kriptával.",
+            "ro": "Patrimoniu UNESCO cu o criptă impresionantă.",
+            "en": "UNESCO World Heritage site with an impressive crypt."
+          }
+        },
+        {
+          "name": "Römisches Amphitheater",
+          "coords": [
+            -0.641,
+            45.746
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eines der ältesten erhaltenen Arenen Galliens.",
+            "hu": "Gallia egyik legrégebbi fennmaradt arénája.",
+            "ro": "Una dintre cele mai vechi arene conservate din Galia.",
+            "en": "One of the oldest surviving arenas in Gaul."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am majestätischen Germanicusbogen und genießen Sie die Ruhe im Jardin Public. Nach einer Dosis Kunst im Museum de l'Échevinage erkunden wir die gotischen Details der Kathedrale. Der Nachmittag gehört der Spiritualität in der Basilika Saint-Eutrope, bevor wir den Tag in der monumentalen römischen Arena ausklingen lassen.",
+        "hu": "Kezdje a napot a fenséges Germanicus-diadalívnél, majd élvezze a nyugalmat a Jardin Public parkban. Az Échevinage Múzeum művészeti élménye után felfedezzük a katedrális gótikus részleteit. A délután a Szent Eutropius-bazilika spirituális világáé, a napot pedig a monumentális római arénában zárjuk.",
+        "ro": "Începeți ziua la maiestuosul Arc al lui Germanicus și bucurați-vă de liniște în Jardin Public. După o doză de artă la Muzeul Échevinage, explorăm detaliile gotice ale catedralei. După-amiaza aparține spiritualității din Bazilica Saint-Eutrope, înainte de a încheia ziua în monumentala arenă romană.",
+        "en": "Start your day at the majestic Arch of Germanicus and enjoy the peace of the Jardin Public. After a dose of art at the Échevinage Museum, we explore the Gothic details of the cathedral. The afternoon belongs to the spirituality of the Basilica of Saint-Eutrope, before ending the day in the monumental Roman arena."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Relais du Bois",
+            "tip": "Traditionelle Küche der Charente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Relais du Bois",
+            "tip": "Hagyományos charente-i konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Relais du Bois",
+            "tip": "Bucătărie tradițională din Charente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Relais du Bois",
+            "tip": "Traditional Charente cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Charente Ufer",
+            "tip": "Ruhiger Blick auf den Fluss bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Charente partja",
+            "tip": "Csendes kilátás a folyóra naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Charente",
+            "tip": "Vedere liniștită spre râu la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Charente Banks",
+            "tip": "Quiet river views at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle",
+            "tip": "Frische Produkte und lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Friss termékek és helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Produse proaspete și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "Fresh produce and local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Saintes ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Die Basilika Saint-Eutrope hat zwei Ebenen, verpassen Sie die untere nicht."
+        ],
+        "hu": [
+          "Saintes dombos város, viseljen kényelmes cipőt.",
+          "A Szent Eutropius-bazilika kétszintes, ne hagyja ki az alsó templomot."
+        ],
+        "ro": [
+          "Saintes este un oraș deluros, purtați pantofi confortabili.",
+          "Bazilica Saint-Eutrope are două niveluri, nu o ratați pe cea inferioară."
+        ],
+        "en": [
+          "Saintes is quite hilly, wear comfortable shoes.",
+          "Saint-Eutrope Basilica has two levels, don't miss the lower one."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Abbaye aux Dames",
+          "coords": [
+            -0.624,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das Herz der Musik in Saintes.",
+            "hu": "A zene szíve Saintes-ben.",
+            "ro": "Inima muzicii din Saintes.",
+            "en": "The heart of music in Saintes."
+          }
+        },
+        {
+          "name": "Germanicusbogen",
+          "coords": [
+            -0.628,
+            45.744
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Römische Pracht am Fluss.",
+            "hu": "Római pompa a folyóparton.",
+            "ro": "Splendoare romană pe malul râului.",
+            "en": "Roman splendor by the river."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.628,
+            45.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die grünen Alleen.",
+            "hu": "Kerékpározzon a zöld fasorok között.",
+            "ro": "Pedalați prin aleile verzi.",
+            "en": "Cycle through the green avenues."
+          }
+        },
+        {
+          "name": "Museum Dupuy-Mestreau",
+          "coords": [
+            -0.633,
+            45.743
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einblicke in das regionale Leben.",
+            "hu": "Betekintés a régió életébe.",
+            "ro": "O privire asupra vieții regionale.",
+            "en": "Insight into regional life."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Pierre",
+          "coords": [
+            -0.632,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gotisches Wahrzeichen der Stadt.",
+            "hu": "A város gótikus jelképe.",
+            "ro": "Simbolul gotic al orașului.",
+            "en": "Gothic landmark of the city."
+          }
+        },
+        {
+          "name": "Charente-Ufer Radweg",
+          "coords": [
+            -0.635,
+            45.748
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Brise am Wasser.",
+            "hu": "Élvezze a szellőt a vízparton.",
+            "ro": "Bucurați-vă de briză pe malul apei.",
+            "en": "Enjoy the breeze by the water."
+          }
+        },
+        {
+          "name": "Basilika Saint-Eutrope",
+          "coords": [
+            -0.638,
+            45.743
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Romanisches Meisterwerk auf dem Hügel.",
+            "hu": "Román stílusú remekmű a dombon.",
+            "ro": "Capodoperă romanică pe deal.",
+            "en": "Romanesque masterpiece on the hill."
+          }
+        },
+        {
+          "name": "Römisches Amphitheater",
+          "coords": [
+            -0.641,
+            45.746
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad vor dem Eingang.",
+            "hu": "Parkolja le a bringát a bejáratnál.",
+            "ro": "Parcați bicicleta la intrare.",
+            "en": "Park your bike at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die beiden Ufer der Charente. Wir starten bei der Abbaye aux Dames, überqueren den Fluss zum Germanicusbogen und dem Stadtgarten. Nach einem Besuch in der Kathedrale radeln wir am Ufer entlang, bevor wir die Basilika und schließlich das antike Amphitheater erreichen.",
+        "hu": "Ez a kerékpáros túra összeköti a Charente két partját. Az Abbaye aux Dames-tól indulunk, átkelünk a folyón a Germanicus-diadalívhez és a városi kerthez. A katedrális után a folyóparton tekerünk, majd érintjük a bazilikát és végül az ókori amfiteátrumot.",
+        "ro": "Acest tur cu bicicleta conectează cele două maluri ale râului Charente. Începem la Abbaye aux Dames, traversăm râul spre Arcul lui Germanicus și grădina publică. După o vizită la catedrală, pedalăm pe malul apei înainte de a ajunge la bazilică și, în final, la amfiteatrul antic.",
+        "en": "This bike tour connects the two banks of the Charente. We start at Abbaye aux Dames, cross the river to the Arch of Germanicus and the public garden. After a visit to the cathedral, we cycle along the banks before reaching the basilica and finally the ancient amphitheater."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Palais",
+            "tip": "Perfekt für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Palais",
+            "tip": "Tökéletes egy gyors falathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Palais",
+            "tip": "Perfect pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Palais",
+            "tip": "Perfect for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbaye Kreuzgang",
+            "tip": "Ein Ort der totalen Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apátsági keringő",
+            "tip": "A teljes csend helyszíne.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Abației",
+            "tip": "Un loc de liniște totală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Cloister",
+            "tip": "A place of total silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir des Charentes",
+            "tip": "Lokale Spezialitäten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Comptoir des Charentes",
+            "tip": "Helyi specialitások és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Comptoir des Charentes",
+            "tip": "Specialități locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir des Charentes",
+            "tip": "Local specialties and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Brücke 'Passerelle' für eine tolle Aussicht.",
+          "Die Straßen in der Altstadt sind eng, achten Sie auf Fußgänger."
+        ],
+        "hu": [
+          "Használja a 'Passerelle' hidat a nagyszerű kilátásért.",
+          "Az óváros utcái szűkek, ügyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Folosiți podul 'Passerelle' pentru o vedere superbă.",
+          "Străzile din centrul vechi sunt înguste, atenție la pietoni."
+        ],
+        "en": [
+          "Use the 'Passerelle' bridge for great views.",
+          "The old town streets are narrow, watch out for pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Abbaye aux Dames",
+          "coords": [
+            -0.624,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car"
+        },
+        {
+          "name": "Germanicusbogen",
+          "coords": [
+            -0.628,
+            45.744
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Parken Sie bei der Abbaye und gehen Sie zum Bogen.",
+            "hu": "Parkoljon az apátságnál, és sétáljon a diadalívhez.",
+            "ro": "Parcați la abație și mergeți pe jos la arc.",
+            "en": "Park at the abbey and walk to the arch."
+          }
+        },
+        {
+          "name": "Kathedrale Saint-Pierre",
+          "coords": [
+            -0.632,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car"
+        },
+        {
+          "name": "Museum de l'Échevinage",
+          "coords": [
+            -0.632,
+            45.745
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentrumsnah parken für Cluster 2.",
+            "hu": "Parkoljon a központban a 2. klaszterhez.",
+            "ro": "Parcați în centru pentru clusterul 2.",
+            "en": "Park in the center for cluster 2."
+          }
+        },
+        {
+          "name": "Gastro Pause",
+          "coords": [
+            -0.634,
+            45.745
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Basilika Saint-Eutrope",
+          "coords": [
+            -0.638,
+            45.743
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car"
+        },
+        {
+          "name": "Römisches Amphitheater",
+          "coords": [
+            -0.641,
+            45.746
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Cluster 3: Kurzer Spaziergang zwischen den Ruinen.",
+            "hu": "3. klaszter: Rövid séta a romok között.",
+            "ro": "Cluster 3: Scurtă plimbare între ruine.",
+            "en": "Cluster 3: Short walk between the ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir Saintes in drei praktischen Clustern. Zuerst das rechte Ufer mit der Abtei und dem Bogen. Dann das historische Zentrum für die Kathedrale und ein gemütliches Mittagessen. Schließlich fahren wir zu den römischen Wundern im Westen der Stadt.",
+        "hu": "Autóval három praktikus klaszterben fedezzük fel Saintes-t. Először a jobb partot az apátsággal és a diadalívvel. Majd a történelmi központot a katedrálissal és egy kellemes ebéddel. Végül a város nyugati részén található római csodákhoz hajtunk.",
+        "ro": "Cu mașina, explorăm Saintes în trei clustere practice. Mai întâi malul drept cu abația și arcul. Apoi centrul istoric pentru catedrală și un prânz plăcut. În final, conducem spre minunile romane din vestul orașului.",
+        "en": "By car, we explore Saintes in three practical clusters. First, the right bank with the abbey and the arch. Then the historical center for the cathedral and a pleasant lunch. Finally, we drive to the Roman wonders in the west of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Les Saveurs de l'Abbaye",
+            "tip": "Gehobene Küche nahe der Abbaye."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Les Saveurs de l'Abbaye",
+            "tip": "Színvonalas konyha az apátság közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Les Saveurs de l'Abbaye",
+            "tip": "Bucătărie rafinată lângă abație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Les Saveurs de l'Abbaye",
+            "tip": "Fine dining near the abbey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vallon des Arènes",
+            "tip": "Grünes Tal rund um das Amphitheater.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallon des Arènes",
+            "tip": "Zöld völgy az amfiteátrum körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vallon des Arènes",
+            "tip": "Vale verde în jurul amfiteatrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallon des Arènes",
+            "tip": "Green valley surrounding the amphitheater.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cognac-Häuser",
+            "tip": "Kaufen Sie direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cognac-házak",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Case de Cognac",
+            "tip": "Cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cognac Houses",
+            "tip": "Buy directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Parkplatz 'Place du 11 Novembre'.",
+          "Einige Viertel sind Fußgängerzonen, planen Sie kurze Fußwege ein."
+        ],
+        "hu": [
+          "Használja a 'Place du 11 Novembre' parkolót.",
+          "Néhány negyed sétálóövezet, tervezzen rövid gyalogutakat."
+        ],
+        "ro": [
+          "Folosiți parcarea 'Place du 11 Novembre'.",
+          "Unele cartiere sunt pietonale, planificați scurte plimbări."
+        ],
+        "en": [
+          "Use the 'Place du 11 Novembre' parking lot.",
+          "Some districts are pedestrianized, plan for short walks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Germanicusbogen",
+          "coords": [
+            -0.628,
+            45.744
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Abbaye aux Dames",
+          "coords": [
+            -0.624,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            -0.628,
+            45.746
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Kathedrale Saint-Pierre",
+          "coords": [
+            -0.632,
+            45.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Gastro Pause",
+          "coords": [
+            -0.634,
+            45.744
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk"
+        },
+        {
+          "name": "Basilika Saint-Eutrope",
+          "coords": [
+            -0.638,
+            45.743
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit"
+        },
+        {
+          "name": "Römisches Amphitheater",
+          "coords": [
+            -0.641,
+            45.746
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk"
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Buss-Netzwerk, um Saintes effizient zu erkunden. Wir verbinden die archäologischen Stätten mit dem Stadtzentrum durch gezielte Busfahrten und kurze Spaziergänge innerhalb der Viertel.",
+        "hu": "Használja a Buss hálózatot Saintes hatékony felfedezéséhez. Az archeológiai lelőhelyeket célzott buszjáratokkal és rövid városrészi sétákkal kötjük össze a városközponttal.",
+        "ro": "Folosiți rețeaua Buss pentru a explora eficient Saintes. Conectăm siturile arheologice cu centrul orașului prin călătorii cu autobuzul și scurte plimbări prin cartiere.",
+        "en": "Use the Buss network to explore Saintes efficiently. We connect the archaeological sites with the city center through targeted bus trips and short walks within the districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Amphitryon",
+            "tip": "Klassische französische Küche im Herzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Amphitryon",
+            "tip": "Klasszikus francia konyha a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Amphitryon",
+            "tip": "Bucătărie franceză clasică în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Amphitryon",
+            "tip": "Classic French cuisine in the heart."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saint-Pallais Kirchplatz",
+            "tip": "Ein ruhiger Platz abseits der Massen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Pallais templom tér",
+            "tip": "Csendes tér a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii Saint-Pallais",
+            "tip": "O piață liniștită departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Pallais Church Square",
+            "tip": "A quiet square away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cours National",
+            "tip": "Einkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cours National",
+            "tip": "Bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cours National",
+            "tip": "Stradă comercială cu multe buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cours National",
+            "tip": "Shopping street with many boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
+          "Die Linien A und B decken die meisten Sehenswürdigkeiten ab."
+        ],
+        "hu": [
+          "Vásároljon napijegyet közvetlenül a vezetőnél.",
+          "Az A és B vonalak a legtöbb látnivalót érintik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer.",
+          "Liniile A și B acoperă majoritatea obiectivelor turistice."
+        ],
+        "en": [
+          "Buy a day ticket directly from the driver.",
+          "Lines A and B cover most of the sights."
+        ]
+      }
+    }
+  }
+}

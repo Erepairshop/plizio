@@ -1,0 +1,1211 @@
+{
+  "city_id": "ruesselsheim-extra",
+  "anchor": {
+    "name": "Rüsselsheim am Main",
+    "coords": [
+      8.41,
+      49.99
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            8.4121,
+            49.9952
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des Zentrums.",
+            "hu": "Csodálja meg a központ modern építészetét.",
+            "ro": "Admirați arhitectura modernă a centrului.",
+            "en": "Admire the modern architecture of the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätgotische Stadtkirche",
+            "hu": "Késő gótikus városi templom",
+            "ro": "Biserica gotică târzie",
+            "en": "Late Gothic City Church"
+          },
+          "coords": [
+            8.4132,
+            49.9961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe mitten in der Stadt.",
+            "hu": "A nyugalom szigete a város közepén.",
+            "ro": "Un loc de liniște în centrul orașului.",
+            "en": "A place of peace in the middle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Verna-Park",
+            "hu": "Verna-park",
+            "ro": "Parcul Verna",
+            "en": "Verna Park"
+          },
+          "coords": [
+            8.4155,
+            49.9924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein spätromantischer Garten im englischen Stil.",
+            "hu": "Késő romantikus angolkert a város szívében.",
+            "ro": "O grădină romantică târzie în stil englezesc.",
+            "en": "A late Romantic English-style garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Festung",
+            "hu": "Ebéd az erődnél",
+            "ro": "Prânz la cetate",
+            "en": "Lunch at the Fortress"
+          },
+          "coords": [
+            8.4192,
+            49.9935
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie hessische Spezialitäten im Festungshof.",
+            "hu": "Kóstolja meg a hesseni specialitásokat az udvaron.",
+            "ro": "Gustați specialități hesse în curtea cetății.",
+            "en": "Try Hessian specialties in the fortress courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadt- und Industriemuseum",
+            "hu": "Városi és Ipari Múzeum",
+            "ro": "Muzeul de Oraș și Industrie",
+            "en": "City and Industrial Museum"
+          },
+          "coords": [
+            8.4198,
+            49.9932
+          ],
+          "category": "museums",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Geschichte von Opel.",
+            "hu": "Ismerje meg az Opel gyár teljes történetét.",
+            "ro": "Aflați totul despre istoria mărcii Opel.",
+            "en": "Learn everything about the history of Opel."
+          }
+        },
+        {
+          "name": {
+            "de": "Opel-Villen",
+            "hu": "Opel-villák",
+            "ro": "Vilele Opel",
+            "en": "Opel Villas"
+          },
+          "coords": [
+            8.4215,
+            49.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in herrschaftlichem Ambiente.",
+            "hu": "Kortárs művészet főúri környezetben.",
+            "ro": "Artă contemporană într-un ambient nobiliar.",
+            "en": "Contemporary art in a grand aristocratic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Mainvorland",
+            "hu": "Majna-parti sétány",
+            "ro": "Promenada de pe Main",
+            "en": "Main Riverfront"
+          },
+          "coords": [
+            8.4182,
+            49.9985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang am Flussufer zum Abschluss des Tages.",
+            "hu": "Séta a folyóparton a nap lezárásaként.",
+            "ro": "O plimbare pe malul râului la finalul zilei.",
+            "en": "A riverside walk to conclude the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Rathaus und der Stadtkirche, bevor der idyllische Verna-Park mit seiner romantischen Atmosphäre verzaubert. Mittags genießen Sie hessische Küche in den historischen Mauern der Festung. Der Nachmittag steht im Zeichen der Industriekultur im Museum und der Kunst in den Opel-Villen. Den Abend lassen Sie entspannt am Mainufer ausklingen.",
+        "hu": "A reggel a városházánál és a templomnál indul, majd a Verna-park romantikus kertje következik. Ebédre kóstoljon helyi ízeket az erőd falai között. Délután az ipari örökség és a művészet várja a múzeumban és az Opel-villákban. A napot a Majna-parti sétányon, a víz közelségében zárhatja.",
+        "ro": "Dimineața începe la primărie și biserica orașului, urmată de atmosfera romantică din Parcul Verna. La prânz, savurați bucătăria locală între zidurile cetății. După-amiaza este dedicată istoriei industriale și artei la vilele Opel. Seara se încheie relaxant pe malul râului Main, cu o vedere superbă.",
+        "en": "Start your morning at the City Hall and the historic church, followed by the enchanting Verna Park. For lunch, enjoy Hessian specialties within the fortress walls. The afternoon focuses on industrial heritage at the museum and fine arts at the Opel Villas. End your day with a peaceful stroll along the Main riverfront."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Hessischer Käse-Klassiker mit Zwiebeln."
+          },
+          {
+            "name": "Festungskeller",
+            "tip": "Uriges Restaurant direkt in der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Hesseni sajtos klasszikus hagymával."
+          },
+          {
+            "name": "Festungskeller",
+            "tip": "Hangulatos étterem az erőd pincéjében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Specialitate de brânză cu ceapă din Hesse."
+          },
+          {
+            "name": "Festungskeller",
+            "tip": "Restaurant tradițional chiar în cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handkäs mit Musik",
+            "tip": "Classic Hessian cheese with onions."
+          },
+          {
+            "name": "Festungskeller",
+            "tip": "Atmospheric restaurant inside the fortress."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Verna-Park",
+            "tip": "Stille Ecken unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mainufer",
+            "tip": "Sonnenuntergang am Fluss genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verna-park",
+            "tip": "Csendes zugok az ősfák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Majna-part",
+            "tip": "Naplemente a folyóparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Verna",
+            "tip": "Colțuri liniștite sub arbori seculari.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul Mainului",
+            "tip": "Apus de soare pe malul râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Verna Park",
+            "tip": "Quiet corners under ancient trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Main Riverfront",
+            "tip": "Enjoy the sunset by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Opel Shop",
+            "tip": "Modellautos und Fan-Artikel."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Opel Shop",
+            "tip": "Modellautók és ajándéktárgyak."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Opel",
+            "tip": "Mașinuțe și articole pentru fani."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Opel Shop",
+            "tip": "Scale models and fan merchandise."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh local produce from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr flach und ideal zu Fuß zu erkunden.",
+          "Besuchen Sie das Museum am späten Vormittag, um den Massen zu entgehen.",
+          "Kombinieren Sie den Stadtbesuch mit einem Spaziergang am Main."
+        ],
+        "hu": [
+          "A város sík, így gyalogosan is kényelmesen bejárható.",
+          "A múzeumot érdemes délelőtt látogatni a tömeg elkerülése végett.",
+          "Kösse össze a városnézést egy kellemes Majna-parti sétával."
+        ],
+        "ro": [
+          "Orașul este plat și ideal pentru explorarea pe jos.",
+          "Vizitați muzeul spre sfârșitul dimineții pentru a evita aglomerația.",
+          "Combinați vizita în oraș cu o plimbare pe malul Mainului."
+        ],
+        "en": [
+          "The city is flat and perfect for exploring on foot.",
+          "Visit the museum in the late morning to avoid crowds.",
+          "Combine your city tour with a stroll along the Main river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Opel-Werk Portal",
+            "hu": "Opel-gyár főkapu",
+            "ro": "Poarta fabricii Opel",
+            "en": "Opel Factory Portal"
+          },
+          "coords": [
+            8.4062,
+            49.9925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Industriestadt.",
+            "hu": "Az iparváros jelképe.",
+            "ro": "Simbolul orașului industrial.",
+            "en": "The landmark of the industrial city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            8.4121,
+            49.9952
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zentraler Platz mit Cafés.",
+            "hu": "Központi tér kávézókkal.",
+            "ro": "Piața centrală cu cafenele.",
+            "en": "Central square with cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Verna-Park",
+            "hu": "Verna-park",
+            "ro": "Parcul Verna",
+            "en": "Verna Park"
+          },
+          "coords": [
+            8.4155,
+            49.9924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schattige Wege für Radfahrer.",
+            "hu": "Árnyas utak kerékpárosoknak.",
+            "ro": "Alei umbroase pentru bicicliști.",
+            "en": "Shady paths for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Rüsselsheim",
+            "hu": "Rüsselsheimi erőd",
+            "ro": "Cetatea Rüsselsheim",
+            "en": "Rüsselsheim Fortress"
+          },
+          "coords": [
+            8.4192,
+            49.9935
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historische Festung mit Graben.",
+            "hu": "Történelmi erőd vizesárokkal.",
+            "ro": "Cetate istorică cu șanț de apă.",
+            "en": "Historic fortress with a moat."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause am Main",
+            "hu": "Ebéd a Majnánál",
+            "ro": "Prânz pe Main",
+            "en": "Lunch by the Main"
+          },
+          "coords": [
+            8.4182,
+            49.9985
+          ],
+          "category": "gastro",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radler-Stopp mit Blick auf den Fluss.",
+            "hu": "Bringás megálló folyóra néző kilátással.",
+            "ro": "Oprire pentru bicicliști cu vedere la râu.",
+            "en": "Cyclist stop with a river view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadt- und Industriemuseum",
+            "hu": "Városi és Ipari Múzeum",
+            "ro": "Muzeul de Oraș și Industrie",
+            "en": "City and Industrial Museum"
+          },
+          "coords": [
+            8.4198,
+            49.9932
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spannende Technikgeschichte.",
+            "hu": "Izgalmas technikatörténet.",
+            "ro": "Istorie tehnică fascinantă.",
+            "en": "Exciting technical history."
+          }
+        },
+        {
+          "name": {
+            "de": "Opel-Villen",
+            "hu": "Opel-villák",
+            "ro": "Vilele Opel",
+            "en": "Opel Villas"
+          },
+          "coords": [
+            8.4215,
+            49.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurze Kunstpause einlegen.",
+            "hu": "Tartson egy rövid művészeti szünetet.",
+            "ro": "O scurtă pauză pentru artă.",
+            "en": "Take a short art break."
+          }
+        },
+        {
+          "name": {
+            "de": "Main-Radweg",
+            "hu": "Majna-menti kerékpárút",
+            "ro": "Pista de biciclete Main",
+            "en": "Main Cycle Path"
+          },
+          "coords": [
+            8.435,
+            50.001
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:59",
+          "stay_min": 31,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahrt entlang der Main-Wiesen.",
+            "hu": "Tekerés a Majna-menti réteken.",
+            "ro": "Plimbare pe pajiștile de pe Main.",
+            "en": "Ride along the Main meadows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Rüsselsheim auf zwei Rädern! Von den imposanten Toren des Opel-Werks geht es durch das Zentrum zum Verna-Park. Nach dem Besuch der Festung und des Museums führt der Weg entlang des Mains. Der Main-Radweg bietet weite Ausblicke und frische Luft zum Abschluss.",
+        "hu": "Fedezze fel Rüsselsheimet két keréken! Az Opel-gyár impozáns kapuitól a központon át a Verna-parkig tekerhet. Az erőd és a múzeum után az út a Majna mentén folytatódik, ahol a kerékpárút tágas tereket és friss levegőt kínál a nap végére.",
+        "ro": "Explorați Rüsselsheim pe două roți! De la porțile impunătoare ale fabricii Opel, treceți prin centru spre Parcul Verna. După vizitarea cetății și a muzeului, traseul continuă pe malul Mainului, oferind panorame deschise și aer curat pe pista de biciclete.",
+        "en": "Explore Rüsselsheim on two wheels! From the imposing gates of the Opel plant, ride through the center to Verna Park. After visiting the fortress and museum, the path leads along the Main river, where the cycle path offers wide views and fresh air to finish the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Main",
+            "tip": "Idealer Stopp für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Börkert a Majnánál",
+            "tip": "Ideális megálló bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten pe Main",
+            "tip": "Oprire ideală pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beer Garden by the Main",
+            "tip": "Ideal stop for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mainwiesen",
+            "tip": "Ruhe abseits der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Majna-rétek",
+            "tip": "Csend a városon kívül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile Mainului",
+            "tip": "Liniște în afara orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Meadows",
+            "tip": "Quiet away from the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Rüsselsheim",
+            "tip": "Zubehör und Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Kiegészítők és szerviz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și service."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shop",
+            "tip": "Accessories and service."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Main-Radweg ist sehr gut ausgebaut.",
+          "Nutzen Sie die Radwege durch den Verna-Park.",
+          "Parken Sie Ihr Rad sicher an der Festung."
+        ],
+        "hu": [
+          "A Majna-menti kerékpárút kiváló minőségű.",
+          "Használja a Verna-parkon átvezető utakat.",
+          "Zárja le biztonságosan a biciklit az erődnél."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Main este excelent amenajată.",
+          "Folosiți pistele care traversează Parcul Verna.",
+          "Parcați bicicleta în siguranță la cetate."
+        ],
+        "en": [
+          "The Main cycle path is very well maintained.",
+          "Use the designated paths through Verna Park.",
+          "Park your bike securely at the fortress."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Opel-Werk (Parkplatz Portal)",
+            "hu": "Opel-gyár (Főkapu parkoló)",
+            "ro": "Parcare Poarta Opel",
+            "en": "Opel Factory (Portal Parking)"
+          },
+          "coords": [
+            8.4062,
+            49.9925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Fotos am Werkstor.",
+            "hu": "Rövid fotómegálló a gyárkapunál.",
+            "ro": "Scurtă oprire pentru poze la poartă.",
+            "en": "Short photo stop at the factory gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Parkhaus Zentrum)",
+            "hu": "Városháza (Központi parkoló)",
+            "ro": "Primăria (Parcare Centru)",
+            "en": "City Hall (Center Parking)"
+          },
+          "coords": [
+            8.4121,
+            49.9952
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Parkpunkt für den Stadtkern.",
+            "hu": "Központi parkolópont a belvároshoz.",
+            "ro": "Punct de parcare central pentru centru.",
+            "en": "Central parking spot for the city core."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätgotische Stadtkirche",
+            "hu": "Késő gótikus városi templom",
+            "ro": "Biserica gotică târzie",
+            "en": "Late Gothic City Church"
+          },
+          "coords": [
+            8.4132,
+            49.9961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Rathausparkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcarea primăriei.",
+            "en": "Walkable from the city hall parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Verna-Park",
+            "hu": "Verna-park",
+            "ro": "Parcul Verna",
+            "en": "Verna Park"
+          },
+          "coords": [
+            8.4155,
+            49.9924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannter Spaziergang im Grünen.",
+            "hu": "Pihentető séta a zöldben.",
+            "ro": "O plimbare relaxantă în natură.",
+            "en": "Relaxing stroll in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung & Museum (Cluster)",
+            "hu": "Erőd és Múzeum",
+            "ro": "Cetatea și Muzeul",
+            "en": "Fortress & Museum"
+          },
+          "coords": [
+            8.4198,
+            49.9932
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Festung.",
+            "hu": "Parkoljon közvetlenül az erődnél.",
+            "ro": "Parcați direct la cetate.",
+            "en": "Park directly at the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Opel-Villen",
+            "hu": "Opel-villák",
+            "ro": "Vilele Opel",
+            "en": "Opel Villas"
+          },
+          "coords": [
+            8.4215,
+            49.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wenige Meter Fußweg von der Festung.",
+            "hu": "Pár méter séta az erődtől.",
+            "ro": "Câțiva metri de mers pe jos de la cetate.",
+            "en": "A few meters walk from the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mainvorland",
+            "hu": "Majna-parti sétány",
+            "ro": "Promenada de pe Main",
+            "en": "Main Riverfront"
+          },
+          "coords": [
+            8.4182,
+            49.9985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:11",
+          "stay_min": 64,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Abschluss am Flussufer.",
+            "hu": "Szép lezárás a folyóparton.",
+            "ro": "Un final frumos pe malul râului.",
+            "en": "A beautiful finish on the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights effizient. Nach einem Fotostopp am Opel-Werk parken Sie im Zentrum für Rathaus und Kirche. Ein zweiter Cluster an der Festung vereint Geschichte, Technik und Kunst in den Opel-Villen. Den Tag beenden Sie mit einem kurzen Drive zum Mainvorland.",
+        "hu": "Autóval hatékonyan fedezheti fel a város fénypontjait. Az Opel-gyár után a központban parkolhat a városháza és a templom megtekintéséhez. A második nagy állomás az erőd, ahol a történelem, a technika és az Opel-villák művészete találkozik. A napot a Majna-parton zárhatja.",
+        "ro": "Cu mașina descoperiți punctele cheie în mod eficient. După o oprire la fabrica Opel, parcați în centru pentru primărie și biserică. Un al doilea cluster la cetate reunește istoria, tehnica și arta de la vilele Opel. Ziua se încheie cu o scurtă deplasare spre promenada Mainului.",
+        "en": "Explore the highlights efficiently by car. After a photo stop at the Opel plant, park in the center for the City Hall and church. A second cluster at the fortress combines history, technology, and art at the Opel Villas. End your day with a short drive to the Main riverfront."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mainterrasse",
+            "tip": "Restaurant mit Flussblick und Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mainterrasse",
+            "tip": "Étterem folyóra néző kilátással és parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mainterrasse",
+            "tip": "Restaurant cu vedere la râu și parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mainterrasse",
+            "tip": "Restaurant with river view and parking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Mainvorland",
+            "tip": "Direkt am Wasser entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Majna-parti parkoló",
+            "tip": "Közvetlenül a víznél pihenhet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Mainvorland",
+            "tip": "Relaxare direct lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mainfront Parking",
+            "tip": "Relax directly by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Rüsselsheim",
+            "tip": "Große Auswahl und Parken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rüsselsheimi Bevásárlóközpont",
+            "tip": "Nagy választék és parkolás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Rüsselsheim",
+            "tip": "Gamă largă și parcare ușoară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rüsselsheim Shopping Mall",
+            "tip": "Large selection and easy parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser in der Innenstadt.",
+          "In der Nähe der Festung gibt es meist freie Plätze.",
+          "Achten Sie auf die Einbahnstraßen im Zentrum."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolóházakat.",
+          "Az erőd közelében általában van szabad hely.",
+          "Figyeljen az egyirányú utcákra a központban."
+        ],
+        "ro": [
+          "Folosiți parcările supraetajate din centru.",
+          "Lângă cetate se găsesc de obicei locuri libere.",
+          "Atenție la străzile cu sens unic din centru."
+        ],
+        "en": [
+          "Use the multi-story car parks in the city center.",
+          "There are usually free spots near the fortress.",
+          "Watch out for one-way streets in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Rüsselsheim",
+            "hu": "Rüsselsheim vasútállomás",
+            "ro": "Gara Rüsselsheim",
+            "en": "Rüsselsheim Station"
+          },
+          "coords": [
+            8.411,
+            49.994
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit S-Bahn Anschluss.",
+            "hu": "Központi érkezési pont S-Bahn kapcsolattal.",
+            "ro": "Punct central de sosire cu conexiune S-Bahn.",
+            "en": "Central arrival point with S-Bahn connection."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Stadtkirche",
+            "hu": "Városháza és templom",
+            "ro": "Primăria și biserica",
+            "en": "City Hall & Church"
+          },
+          "coords": [
+            8.4132,
+            49.9961
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:29",
+          "stay_min": 65,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof.",
+            "hu": "Rövid séta az állomástól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Opel-Werk Portal",
+            "hu": "Opel-gyár főkapu",
+            "ro": "Poarta fabricii Opel",
+            "en": "Opel Factory Portal"
+          },
+          "coords": [
+            8.4062,
+            49.9925
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus direkt zum Werkstor.",
+            "hu": "Busszal közvetlenül a gyárkapuhoz.",
+            "ro": "Cu autobuzul direct la poarta fabricii.",
+            "en": "By bus directly to the factory gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Verna-Park",
+            "hu": "Verna-park",
+            "ro": "Parcul Verna",
+            "en": "Verna Park"
+          },
+          "coords": [
+            8.4155,
+            49.9924
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busstopp in der Nähe des Parks.",
+            "hu": "Buszmegálló a park közelében.",
+            "ro": "Stație de autobuz în apropierea parcului.",
+            "en": "Bus stop near the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung & Museum",
+            "hu": "Erőd és Múzeum",
+            "ro": "Cetatea și Muzeul",
+            "en": "Fortress & Museum"
+          },
+          "coords": [
+            8.4198,
+            49.9932
+          ],
+          "category": "museums",
+          "arrive_at": "12:51",
+          "stay_min": 140,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Park aus zu Fuß erreichbar.",
+            "hu": "A parktól gyalogosan elérhető.",
+            "ro": "Accesibil pe jos din parc.",
+            "en": "Walkable from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Opel-Villen",
+            "hu": "Opel-villák",
+            "ro": "Vilele Opel",
+            "en": "Opel Villas"
+          },
+          "coords": [
+            8.4215,
+            49.9941
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Festung.",
+            "hu": "Közvetlenül az erőd mellett.",
+            "ro": "Chiar lângă cetate.",
+            "en": "Right next to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Mainvorland",
+            "hu": "Majna-parti sétány",
+            "ro": "Promenada de pe Main",
+            "en": "Main Riverfront"
+          },
+          "coords": [
+            8.4182,
+            49.9985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:37",
+          "stay_min": 68,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Rückweg zum Bahnhof bequem per Bus.",
+            "hu": "Visszaút az állomáshoz busszal.",
+            "ro": "Întoarcerea la gară comodă cu autobuzul.",
+            "en": "Return to the station easily by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank S-Bahn und Bussen ist Rüsselsheim bestens vernetzt. Vom Bahnhof geht es zur Stadtkirche, dann mit dem Bus zum Opel-Werk. Ein entspannter Spaziergang verbindet Verna-Park, Festung und Opel-Villen. Den Abschluss bildet das Mainvorland, bevor Sie bequem zurück zum Bahnhof fahren.",
+        "hu": "Az S-Bahn-nak és buszoknak köszönhetően a város jól bejárható. Az állomástól a templomig, majd busszal az Opel-gyárig juthat. Egy kényelmes séta összeköti a Verna-parkot, az erődöt és az Opel-villákat. A napot a Majna-parton zárja, ahonnan busszal térhet vissza a vonathoz.",
+        "ro": "Datorită trenurilor S-Bahn și autobuzelor, orașul este foarte accesibil. De la gară mergeți la biserică, apoi cu autobuzul la fabrica Opel. O plimbare relaxantă leagă Parcul Verna, cetatea și vilele Opel. Finalul este pe promenada Mainului, înainte de întoarcerea comodă la gară.",
+        "en": "With S-Bahn and buses, Rüsselsheim is very well connected. From the station to the church, then by bus to the Opel plant. A relaxed walk connects Verna Park, the fortress, and the Opel Villas. Finish your day at the Main riverfront before taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofscafé",
+            "tip": "Schneller Snack vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási kávézó",
+            "tip": "Gyors snack indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafeneaua gării",
+            "tip": "Gustare rapidă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Café",
+            "tip": "Quick snack before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Verna-Park",
+            "tip": "Oase der Ruhe nah am Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verna-park",
+            "tip": "Nyugalom szigete a központ közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Verna",
+            "tip": "Oază de liniște aproape de centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Verna Park",
+            "tip": "Oasis of peace near the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lotto-Laden im Bahnhof",
+            "tip": "Reisebedarf und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási hírlapbolt",
+            "tip": "Úti holmik és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Articole de voiaj și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Newsstand",
+            "tip": "Travel essentials and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die RMV-App für Echtzeit-Fahrpläne.",
+          "Die S-Bahn Linien S8 und S9 fahren regelmäßig.",
+          "Vom Bahnhof sind viele Ziele fußläufig."
+        ],
+        "hu": [
+          "Használja az RMV alkalmazást a menetrendhez.",
+          "Az S8 és S9 járatok rendszeresen közlekednek.",
+          "Sok látnivaló gyalog is elérhető az állomástól."
+        ],
+        "ro": [
+          "Folosiți aplicația RMV pentru orare în timp real.",
+          "Liniile S8 și S9 circulă regulat.",
+          "Multe obiective sunt la mică distanță de gară."
+        ],
+        "en": [
+          "Use the RMV app for real-time schedules.",
+          "The S8 and S9 lines run frequently.",
+          "Many destinations are walkable from the station."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1100 @@
+{
+  "city_id": "aschaffenburg-extra",
+  "anchor": {
+    "name": "Schloss Johannisburg",
+    "coords": [
+      9.142,
+      49.976
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt & Stiftsplatz",
+            "hu": "Óváros és Stiftsplatz",
+            "ro": "Orașul Vechi și Stiftsplatz",
+            "en": "Old Town & Stiftsplatz"
+          },
+          "coords": [
+            9.146,
+            49.973
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die engen Gassen rund um den Stiftsplatz atmen Geschichte.",
+            "hu": "A Stiftsplatz körüli szűk utcák történelmi hangulatot árasztanak.",
+            "ro": "Străduțele înguste din jurul Stiftsplatz respiră istorie.",
+            "en": "The narrow alleys around Stiftsplatz breathe history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftsbasilika St. Peter und Alexander",
+            "hu": "Szent Péter és Sándor apátsági bazilika",
+            "ro": "Bazilica Sf. Petru și Alexandru",
+            "en": "Collegiate Church of St. Peter and Alexander"
+          },
+          "coords": [
+            9.146,
+            49.974
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen romanischen Kreuzgang.",
+            "hu": "Nézze meg a gyönyörű román stílusú kolostorfolyosót.",
+            "ro": "Vizitați frumosul claustru romanic.",
+            "en": "Visit the beautiful Romanesque cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Johannisburg",
+            "hu": "Johannisburg-kastély",
+            "ro": "Castelul Johannisburg",
+            "en": "Johannisburg Palace"
+          },
+          "coords": [
+            9.142,
+            49.976
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Weltgrößte Korkmodellsammlung historischer Bauten im Inneren.",
+            "hu": "A világ legnagyobb parafa-modell gyűjteménye található itt.",
+            "ro": "Cea mai mare colecție de machete din plută din lume.",
+            "en": "World's largest collection of cork models of ancient buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Pompejanum",
+            "hu": "Pompejanum",
+            "ro": "Pompejanum",
+            "en": "Pompejanum"
+          },
+          "coords": [
+            9.141,
+            49.978
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Nachbau einer römischen Villa über dem Mainufer.",
+            "hu": "Egy római villa másolata a Majna-part felett.",
+            "ro": "O replică a unei vile romane deasupra malului Mainului.",
+            "en": "A replica of a Roman villa above the banks of the Main."
+          }
+        },
+        {
+          "name": {
+            "de": "Christian Schad Museum",
+            "hu": "Christian Schad Múzeum",
+            "ro": "Muzeul Christian Schad",
+            "en": "Christian Schad Museum"
+          },
+          "coords": [
+            9.147,
+            49.972
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wichtige Werke der Neuen Sachlichkeit entdecken.",
+            "hu": "Fedezze fel az Új Tárgyilagosság fontos műveit.",
+            "ro": "Descoperiți opere importante ale Noii Obiectivități.",
+            "en": "Discover important works of New Objectivity."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Schöntal",
+            "hu": "Schöntal Park",
+            "ro": "Parcul Schöntal",
+            "en": "Schöntal Park"
+          },
+          "coords": [
+            9.154,
+            49.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besonders zur Magnolienblüte im Frühjahr traumhaft.",
+            "hu": "Különösen tavasszal, a magnóliák virágzásakor csodás.",
+            "ro": "Superb mai ales primăvara, când înfloresc magnoliile.",
+            "en": "Wonderful especially during the magnolia bloom in spring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das 'Bayerische Nizza' zu Fuß. Der Vormittag gehört dem monumentalen Renaissanceschloss und der verwinkelten Altstadt. Nach dem Besuch des einzigartigen Pompejanums tauchen Sie in die Kunstszene ein und lassen den Tag entspannt im Park Schöntal zwischen historischen Ruinen und prächtigen Blüten ausklingen.",
+        "hu": "Fedezze fel gyalogosan a 'Bajor Nizzát'. A délelőtt a monumentális reneszánsz kastélyé és a kanyargós óvárosé. Az egyedülálló Pompejanum megtekintése után merüljön el a művészeti életben, majd zárja a napot pihenéssel a Schöntal parkban, történelmi romok és pompás virágok között.",
+        "ro": "Explorați pe jos 'Nisa Bavariei'. Dimineața este dedicată castelului renascentist monumental și centrului vechi pitoresc. După vizitarea unicului Pompejanum, pătrundeți în scena artistică și încheiați ziua relaxându-vă în Parcul Schöntal, printre ruine istorice și flori superbe.",
+        "en": "Explore 'Bavarian Nice' on foot. Spend the morning at the monumental Renaissance palace and the winding streets of the Old Town. After visiting the unique Pompejanum, dive into the local art scene and end your day relaxing in Schöntal Park amidst historical ruins and magnificent blossoms."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlossweinstuben",
+            "tip": "Fränkische Küche in herrschaftlichem Ambiente."
+          },
+          {
+            "name": "Schlappeseppel",
+            "tip": "Urige Brauereigaststätte mit lokalem Bier und Vesper."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossweinstuben",
+            "tip": "Frankföldi konyha méltóságteljes környezetben."
+          },
+          {
+            "name": "Schlappeseppel",
+            "tip": "Hagyományos söröző helyi sörökkel és falatokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossweinstuben",
+            "tip": "Bucătărie franconă într-un ambient nobiliar."
+          },
+          {
+            "name": "Schlappeseppel",
+            "tip": "Berărie tradițională cu bere locală și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossweinstuben",
+            "tip": "Franconian cuisine in a stately atmosphere."
+          },
+          {
+            "name": "Schlappeseppel",
+            "tip": "Rustic brewery tavern with local beer and hearty snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Magnolienhain im Schöntal",
+            "tip": "Ruhepol mit historischer Klosterruine.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Mainuferweg",
+            "tip": "Entspannter Spaziergang mit Blick auf den Fluss.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magnólia liget a Schöntalban",
+            "tip": "Csendes sziget történelmi kolostorrommal.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Majna-parti sétány",
+            "tip": "Pihentető séta folyóra néző kilátással.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livada de magnolii din Schöntal",
+            "tip": "Oază de liniște cu ruine de mănăstire.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Faleza râului Main",
+            "tip": "Plimbare relaxantă cu vedere la râu.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Magnolia grove in Schöntal",
+            "tip": "Peaceful spot with historical monastery ruins.",
+            "emoji": "🌸"
+          },
+          {
+            "name": "Main riverbank path",
+            "tip": "Relaxing walk with river views.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City-Galerie",
+            "tip": "Großes Einkaufszentrum im Herzen der Stadt."
+          },
+          {
+            "name": "Roßmarkt",
+            "tip": "Kleine Boutiquen und Fachgeschäfte in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City-Galerie",
+            "tip": "Nagy bevásárlóközpont a város szívében."
+          },
+          {
+            "name": "Roßmarkt",
+            "tip": "Kis butikok és szaküzletek a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City-Galerie",
+            "tip": "Centru comercial mare în inima orașului."
+          },
+          {
+            "name": "Roßmarkt",
+            "tip": "Boutique-uri și magazine specializate în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "City-Galerie",
+            "tip": "Large shopping mall in the heart of the city."
+          },
+          {
+            "name": "Roßmarkt",
+            "tip": "Small boutiques and specialty shops in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich am besten ohne festen Plan durchwandern.",
+          "Achten Sie auf das Carillon (Glockenspiel) im Schlosshof.",
+          "Der Aufstieg zum Pompejanum bietet den besten Blick auf das Schloss.",
+          "Sonntags sind die Museen oft weniger überlaufen als am Samstag."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, a legjobb terv nélkül barangolni az utcákon.",
+          "Figyeljen a kastélyudvarban található harangjátékra (Carillon).",
+          "A Pompejanumhoz vezető út kínálja a legjobb kilátást a kastélyra.",
+          "Vasárnaponként a múzeumok gyakran kevésbé zsúfoltak, mint szombaton."
+        ],
+        "ro": [
+          "Centrul vechi este foarte compact și se explorează cel mai bine fără un plan fix.",
+          "Fiți atenți la carillon-ul (clopotele) din curtea castelului.",
+          "Urcarea spre Pompejanum oferă cea mai bună vedere asupra castelului.",
+          "Duminica, muzeele sunt adesea mai puțin aglomerate decât sâmbăta."
+        ],
+        "en": [
+          "The Old Town is very compact and best explored by wandering without a fixed plan.",
+          "Listen for the carillon (glockenspiel) in the palace courtyard.",
+          "The walk up to the Pompejanum offers the best view of the palace.",
+          "On Sundays, museums are often less crowded than on Saturdays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            9.146,
+            49.973
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kopfsteinpflaster in den Gassen erfordert Vorsicht.",
+            "hu": "A macskaköves utcákon óvatosan tekerjünk.",
+            "ro": "Atenție la pavajul cu piatră cubică.",
+            "en": "Watch out for cobblestones in the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Johannisburg",
+            "hu": "Johannisburg-kastély",
+            "ro": "Castelul Johannisburg",
+            "en": "Johannisburg Palace"
+          },
+          "coords": [
+            9.142,
+            49.976
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze direkt am Schlossplatz.",
+            "hu": "Kerékpártárolók közvetlenül a kastély téren.",
+            "ro": "Parcare pentru biciclete chiar în piața castelului.",
+            "en": "Bike parking available directly at the palace square."
+          }
+        },
+        {
+          "name": {
+            "de": "Pompejanum",
+            "hu": "Pompejanum",
+            "ro": "Pompejanum",
+            "en": "Pompejanum"
+          },
+          "coords": [
+            9.141,
+            49.978
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Vom Mainradweg aus gut erreichbar.",
+            "hu": "A Majna-menti kerékpárútról jól megközelíthető.",
+            "ro": "Accesibil ușor de pe pista de biciclete Main.",
+            "en": "Easily accessible from the Main river bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Mainufer & Radweg",
+            "hu": "Majna-parti kerékpárút",
+            "ro": "Malul Mainului și pista",
+            "en": "Main Riverbank & Bike Path"
+          },
+          "coords": [
+            9.13,
+            49.97
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Flache Strecke mit schönem Panorama.",
+            "hu": "Lapos szakasz szép panorámával.",
+            "ro": "Traseu plat cu o panoramă frumoasă.",
+            "en": "Flat route with a beautiful panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Schönbusch",
+            "hu": "Schönbusch Park",
+            "ro": "Parcul Schönbusch",
+            "en": "Schönbusch Park"
+          },
+          "coords": [
+            9.105,
+            49.957
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Einer der ältesten englischen Landschaftsgärten in Bayern.",
+            "hu": "Bajorország egyik legrégebbi angolkertje.",
+            "ro": "Una dintre cele mai vechi grădini englezești din Bavaria.",
+            "en": "One of the oldest English landscape gardens in Bavaria."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "City Theatre"
+          },
+          "coords": [
+            9.149,
+            49.976
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Moderner Bau in historischer Umgebung.",
+            "hu": "Modern épület történelmi környezetben.",
+            "ro": "Clădire modernă într-un cadru istoric.",
+            "en": "Modern building in a historical setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Schöntal",
+            "hu": "Schöntal Park",
+            "ro": "Parcul Schöntal",
+            "en": "Schöntal Park"
+          },
+          "coords": [
+            9.154,
+            49.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Abschluss der Tour im Grünen.",
+            "hu": "A túra tökéletes befejezése a zöldben.",
+            "ro": "Finalul perfect al turului, în natură.",
+            "en": "Perfect ending to the tour in the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Per Rad lässt sich Aschaffenburg am dynamischsten erleben. Neben dem klassischen Zentrum führt diese Route hinaus zum weitläufigen Park Schönbusch. Genießen Sie die Fahrt entlang des Mains, wo Sie das mediterrane Flair der Stadt am besten spüren. Ein idealer Mix aus Kultur und entspanntem Radeln durch grüne Oasen.",
+        "hu": "Kerékpárral élhető át a legdinamikusabban Aschaffenburg. A klasszikus központ mellett ez az útvonal kiviszi a városon kívüli tágas Schönbusch parkba. Élvezze a Majna menti tekerést, ahol a legjobban érezhető a város mediterrán hangulata. A kultúra és a pihentető tekerés ideális keveréke zöld oázisokon keresztül.",
+        "ro": "Cu bicicleta, Aschaffenburg se experimentează cel mai dinamic. Pe lângă centrul clasic, acest traseu vă duce spre vastul parc Schönbusch. Bucurați-vă de plimbarea de-a lungul Mainului, unde se simte cel mai bine aerul mediteranean al orașului. Un mix ideal de cultură și pedalat relaxat prin oaze verzi.",
+        "en": "Cycling is the most dynamic way to experience Aschaffenburg. Besides the classic center, this route takes you out to the expansive Schönbusch Park. Enjoy the ride along the Main river, where the city's Mediterranean flair is most evident. An ideal mix of culture and relaxed cycling through green oases."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten Schönbusch",
+            "tip": "Bayerische Gemütlichkeit unter Kastanien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biergarten Schönbusch",
+            "tip": "Bajor vendégszeretet vadgesztenyefák alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten Schönbusch",
+            "tip": "Atmosferă bavareză relaxată sub castani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biergarten Schönbusch",
+            "tip": "Bavarian coziness under chestnut trees."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schönbusch See",
+            "tip": "Ideal für eine Pause am Wasser.",
+            "emoji": "🚣"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schönbusch-tó",
+            "tip": "Ideális egy pihenőre a víznél.",
+            "emoji": "🚣"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Schönbusch",
+            "tip": "Ideal pentru o pauză lângă apă.",
+            "emoji": "🚣"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schönbusch Lake",
+            "tip": "Ideal for a break by the water.",
+            "emoji": "🚣"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrale Fußgängerzone",
+            "tip": "Fahrrad abstellen und bummeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi sétálóutca",
+            "tip": "Tegyük le a bringát és sétáljunk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală centrală",
+            "tip": "Parcați bicicleta și plimbați-vă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Pedestrian Zone",
+            "tip": "Park your bike and take a stroll."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Mainradweg ist hervorragend ausgebaut und fast eben.",
+          "Im Park Schönbusch ist das Radfahren auf den Hauptwegen erlaubt.",
+          "Nutzen Sie die Unterführung am Schloss, um sicher zum Mainufer zu gelangen."
+        ],
+        "hu": [
+          "A Majna menti kerékpárút kiválóan kiépített és szinte teljesen sík.",
+          "A Schönbusch parkban a fő utakon megengedett a kerékpározás.",
+          "Használja a kastélynál lévő aluljárót, hogy biztonságban kijusson a Majna-partra."
+        ],
+        "ro": [
+          "Pista de biciclete de-a lungul Mainului este excelent amenajată și aproape plată.",
+          "În parcul Schönbusch, mersul pe bicicletă este permis pe aleile principale.",
+          "Folosiți pasajul subteran de la castel pentru a ajunge în siguranță pe malul râului."
+        ],
+        "en": [
+          "The Main river bike path is excellently developed and almost flat.",
+          "Cycling is permitted on the main paths within Schönbusch Park.",
+          "Use the underpass at the palace to safely reach the banks of the Main."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Johannisburg (Cluster A)",
+            "hu": "Johannisburg-kastély (A klaszter)",
+            "ro": "Castelul Johannisburg (Cluster A)",
+            "en": "Johannisburg Palace (Cluster A)"
+          },
+          "coords": [
+            9.142,
+            49.976
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkhaus am Schlossplatz direkt unter dem Kastell.",
+            "hu": "Mélygarázs a kastélynál, közvetlenül az épület alatt.",
+            "ro": "Parcare subterană la Schlossplatz, chiar sub castel.",
+            "en": "Underground parking at Schlossplatz directly beneath the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Pompejanum (Cluster A)",
+            "hu": "Óváros és Pompejanum (A klaszter)",
+            "ro": "Orașul Vechi și Pompejanum (Cluster A)",
+            "en": "Old Town & Pompejanum (Cluster A)"
+          },
+          "coords": [
+            9.141,
+            49.978
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Schloss aus erkunden.",
+            "hu": "Gyalogosan fedezzük fel a kastélytól.",
+            "ro": "Explorați pe jos pornind de la castel.",
+            "en": "Explore on foot starting from the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Schönbusch (Cluster B)",
+            "hu": "Schönbusch Park (B klaszter)",
+            "ro": "Parcul Schönbusch (Cluster B)",
+            "en": "Schönbusch Park (Cluster B)"
+          },
+          "coords": [
+            9.105,
+            49.957
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz am Haupteingang.",
+            "hu": "Nagy látogatói parkoló a főbejáratnál.",
+            "ro": "Parcare mare pentru vizitatori la intrarea principală.",
+            "en": "Large visitor parking at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater (Cluster C)",
+            "hu": "Városi Színház (C klaszter)",
+            "ro": "Teatrul Municipal (Cluster C)",
+            "en": "City Theatre (Cluster C)"
+          },
+          "coords": [
+            9.149,
+            49.976
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz an der Stadthalle nutzen.",
+            "hu": "Használjuk a városi csarnok parkolóját.",
+            "ro": "Folosiți parcarea de la primărie.",
+            "en": "Use the parking lot at the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Schöntal (Cluster C)",
+            "hu": "Schöntal Park (C klaszter)",
+            "ro": "Parcul Schöntal (Cluster C)",
+            "en": "Schöntal Park (Cluster C)"
+          },
+          "coords": [
+            9.154,
+            49.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Theater aus ein kurzer Spaziergang.",
+            "hu": "A színháztól egy rövid sétával elérhető.",
+            "ro": "O scurtă plimbare de la teatru.",
+            "en": "A short walk from the theatre."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour bündelt die Highlights in Clustern. Zuerst parken Sie zentral für Schloss und Altstadt. Danach fahren Sie bequem zum etwas außerhalb gelegenen Park Schönbusch für eine ausgiebige Naturpause. Den Abschluss bildet das Kulturviertel rund um das Stadttheater und den Park Schöntal, alles effizient erreichbar.",
+        "hu": "Ez az autós túra klaszterekbe gyűjti a látnivalókat. Először parkoljon a központban a kastélyhoz és az óvároshoz. Ezután hajtson ki kényelmesen a városon kívüli Schönbusch parkba egy kiadós erdei pihenőre. A napot a Városi Színház környéki kulturális negyed és a Schöntal park zárja, minden hatékonyan elérhető.",
+        "ro": "Acest tur auto grupează punctele de interes în clustere. Mai întâi, parcați central pentru castel și centrul vechi. Apoi conduceți confortabil spre parcul Schönbusch, situat puțin în afara orașului, pentru o pauză în natură. Finalul aparține cartierului cultural din jurul teatrului și parcului Schöntal.",
+        "en": "This car tour bundles highlights into clusters. First, park centrally for the palace and Old Town. Then, drive comfortably to Schönbusch Park on the outskirts for an extensive nature break. The day concludes at the cultural district around the City Theatre and Schöntal Park, all reached efficiently."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Jedermann",
+            "tip": "Moderne Küche in der Nähe des Theaters."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jedermann",
+            "tip": "Modern konyha a színház közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jedermann",
+            "tip": "Bucătărie modernă în apropierea teatrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jedermann",
+            "tip": "Modern cuisine near the theatre."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Schönbusch",
+            "tip": "Weitläufiges Areal für Ruhe suchende.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schönbusch Park",
+            "tip": "Tágas terület a nyugalomra vágyóknak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Schönbusch",
+            "tip": "Zonă vastă pentru cei care caută liniștea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schönbusch Park",
+            "tip": "Expansive area for those seeking peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parkhaus City-Galerie",
+            "tip": "Direkter Zugang zum größten Shoppingcenter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City-Galerie parkolóház",
+            "tip": "Közvetlen bejárat a legnagyobb plázába."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare City-Galerie",
+            "tip": "Acces direct la cel mai mare mall."
+          }
+        ],
+        "en": [
+          {
+            "name": "City-Galerie Parking",
+            "tip": "Direct access to the largest shopping mall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkleitsysteme der Stadt.",
+          "Parken am Schlossplatz ist zwar teuer, aber unschlagbar zentral.",
+          "Am Wochenende ist der Parkplatz Schönbusch oft sehr voll."
+        ],
+        "hu": [
+          "Használja a városi parkolóirányító rendszert.",
+          "A Schlossplatzon drága a parkolás, de verhetetlenül központi.",
+          "Hétvégente a Schönbusch parkolója gyakran teljesen megtelik."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare pentru parcare al orașului.",
+          "Parcarea la Schlossplatz este scumpă, dar extrem de centrală.",
+          "În weekend, parcarea de la Schönbusch este adesea foarte plină."
+        ],
+        "en": [
+          "Use the city's parking guidance system.",
+          "Parking at Schlossplatz is expensive but unbeatable for its central location.",
+          "On weekends, the Schönbusch parking lot is often very full."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schlossplatz (Zentrum)",
+            "hu": "Schlossplatz (Központ)",
+            "ro": "Schlossplatz (Centru)",
+            "en": "Schlossplatz (Center)"
+          },
+          "coords": [
+            9.142,
+            49.976
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt vieler Buslinien.",
+            "hu": "Sok buszvonal központi csomópontja.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt & Basilica",
+            "hu": "Óváros és Bazilika",
+            "ro": "Centrul Vechi și Bazilica",
+            "en": "Old Town & Basilica"
+          },
+          "coords": [
+            9.146,
+            49.974
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Schlossplatz aus in wenigen Minuten zu Fuß.",
+            "hu": "A Schlossplatztól pár perc séta.",
+            "ro": "Câteva minute de mers pe jos de la Schlossplatz.",
+            "en": "A few minutes walk from Schlossplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Schönbusch",
+            "hu": "Schönbusch Park",
+            "ro": "Parcul Schönbusch",
+            "en": "Schönbusch Park"
+          },
+          "coords": [
+            9.105,
+            49.957
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 1 oder 4 ab Schlossplatz oder ROB.",
+            "hu": "1-es vagy 4-es busz a Schlossplatzról.",
+            "ro": "Linia de autobuz 1 sau 4 de la Schlossplatz.",
+            "en": "Bus line 1 or 4 from Schlossplatz or ROB."
+          }
+        },
+        {
+          "name": {
+            "de": "City-Galerie / Schöntal",
+            "hu": "City-Galerie / Schöntal",
+            "ro": "City-Galerie / Schöntal",
+            "en": "City-Galerie / Schöntal"
+          },
+          "coords": [
+            9.154,
+            49.975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.1,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt am Einkaufszentrum.",
+            "hu": "Buszmegálló közvetlenül a bevásárlóközpontnál.",
+            "ro": "Stație de autobuz chiar la centrul comercial.",
+            "en": "Bus stop directly at the shopping center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "City Theatre"
+          },
+          "coords": [
+            9.149,
+            49.976
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Schöntal aus.",
+            "hu": "Rövid séta a Schöntaltól.",
+            "ro": "Scurtă plimbare de la Schöntal.",
+            "en": "Short walk from Schöntal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Aschaffenburg. Diese Route verbindet das historische Herz der Stadt mit dem malerischen Park Schönbusch. Dank der guten Taktung gelangen Sie stressfrei von den monumentalen Sehenswürdigkeiten im Zentrum zu den grünen Rückzugsorten und Shopping-Meilen, ohne sich um Parkplätze kümmern zu müssen.",
+        "hu": "Használja ki Aschaffenburg sűrű buszhálózatát. Ez az útvonal összeköti a történelmi városközpontot a festői Schönbusch parkkal. A jó menetrendnek köszönhetően stresszmentesen juthat el a központi monumentális látnivalóktól a zöld pihenőhelyekig és a bevásárlóutcákig, parkolási gondok nélkül.",
+        "ro": "Profitați de rețeaua densă de autobuze din Aschaffenburg. Acest traseu conectează inima istorică a orașului cu pitorescul parc Schönbusch. Datorită frecvenței bune, ajungeți fără stres de la atracțiile monumentale din centru la zonele verzi și magazine, fără grija locului de parcare.",
+        "en": "Take advantage of Aschaffenburg's dense bus network. This route connects the historical heart of the city with the picturesque Schönbusch Park. Thanks to the good frequency, you can travel stress-free from the monumental sights in the center to the green retreats and shopping miles without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Müller",
+            "tip": "Bekannt für das original Aschaffenburger Laugencroissant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Müller",
+            "tip": "Híres az eredeti aschaffenburgi sós-vajas kiflijéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Müller",
+            "tip": "Cunoscută pentru cornul cu sare original din Aschaffenburg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Müller",
+            "tip": "Famous for the original Aschaffenburg lye croissant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stiftskreuzgang",
+            "tip": "Ein Ort tiefer Stille im Herzen der Stadt.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentély-kolostorudvar",
+            "tip": "A mély csend helye a város szívében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul bazilicii",
+            "tip": "Un loc de liniște deplină în inima orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stifts-Cloister",
+            "tip": "A place of deep silence in the heart of the city.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Herstallstraße",
+            "tip": "Die Haupteinkaufsmeile der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herstallstraße",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herstallstraße",
+            "tip": "Principala arteră comercială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herstallstraße",
+            "tip": "The city's main shopping mile."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Tagesticket der VAB ist oft günstiger als Einzelfahrten.",
+          "Die Busse fahren am Wochenende in einem anderen Takt, Plan prüfen.",
+          "Der zentrale Busbahnhof (ROB) liegt direkt am Hauptbahnhof."
+        ],
+        "hu": [
+          "A VAB napijegye gyakran olcsóbb, mint az egyedi jegyek.",
+          "A buszok hétvégén más menetrend szerint járnak, ellenőrizzük.",
+          "A központi buszpályaudvar (ROB) közvetlenül a főpályaudvarnál van."
+        ],
+        "ro": [
+          "Biletul de o zi VAB este adesea mai ieftin decât călătoriile individuale.",
+          "Autobuzele circulă după un alt program în weekend, verificați orarul.",
+          "Gara centrală de autobuze (ROB) este chiar lângă gara centrală."
+        ],
+        "en": [
+          "A VAB day ticket is often cheaper than single trips.",
+          "Buses run on a different schedule on weekends, check the timetable.",
+          "The central bus station (ROB) is located directly at the main train station."
+        ]
+      }
+    }
+  }
+}

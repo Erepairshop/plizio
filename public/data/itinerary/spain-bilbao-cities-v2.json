@@ -1,0 +1,1156 @@
+{
+  "city_id": "spain-bilbao-cities-v2",
+  "anchor": {
+    "name": "Bilbao",
+    "coords": [
+      -2.935,
+      43.263
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Guggenheim-Museum Bilbao",
+            "hu": "Guggenheim Múzeum Bilbao",
+            "ro": "Muzeul Guggenheim Bilbao",
+            "en": "Guggenheim Museum Bilbao"
+          },
+          "coords": [
+            -2.936,
+            43.268
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit Puppy vor dem Eingang.",
+            "hu": "Készítsen fotót Puppy-val a bejárat előtt.",
+            "ro": "Faceți o poză cu Puppy în fața intrării.",
+            "en": "Take a photo with Puppy in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Azkuna Zentroa",
+            "hu": "Azkuna Zentroa",
+            "ro": "Azkuna Zentroa",
+            "en": "Azkuna Zentroa"
+          },
+          "coords": [
+            -2.937,
+            43.261
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schauen Sie sich die 43 verschiedenen Säulen im Atrium an.",
+            "hu": "Nézze meg az átrium 43 különböző oszlopát.",
+            "ro": "Vedeți cele 43 de coloane diferite din atrium.",
+            "en": "Check out the 43 different columns in the atrium."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Arriaga",
+            "hu": "Arriaga Színház",
+            "ro": "Teatrul Arriaga",
+            "en": "Arriaga Theatre"
+          },
+          "coords": [
+            -2.925,
+            43.259
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Fassade am Rande der Altstadt.",
+            "hu": "Csodálja meg az óváros szélén álló neobarokk homlokzatot.",
+            "ro": "Admirați fațada neobarocă de la marginea centrului vechi.",
+            "en": "Admire the neo-baroque facade at the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de Santiago",
+            "hu": "Szent Jakab-székesegyház",
+            "ro": "Catedrala Sfântul Iacob",
+            "en": "Santiago Cathedral"
+          },
+          "coords": [
+            -2.924,
+            43.259
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein verstecktes gotisches Juwel im Herzen des Casco Viejo.",
+            "hu": "Egy rejtett gótikus ékszerdoboz a Casco Viejo szívében.",
+            "ro": "O bijuterie gotică ascunsă în inima cartierului Casco Viejo.",
+            "en": "A hidden gothic gem in the heart of Casco Viejo."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Viejo (Pintxos Pause)",
+            "hu": "Casco Viejo (Pintxos szünet)",
+            "ro": "Casco Viejo (Pauză de Pintxos)",
+            "en": "Casco Viejo (Pintxos Break)"
+          },
+          "coords": [
+            -2.924,
+            43.258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie Pintxos in den 'Siete Calles'.",
+            "hu": "Kóstoljon pintxos-t a 'Hét utcában'.",
+            "ro": "Gustați pintxos în cele 'Șapte Străzi'.",
+            "en": "Try pintxos in the 'Siete Calles'."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de la Ribera",
+            "hu": "Ribera piac",
+            "ro": "Piața Ribera",
+            "en": "Ribera Market"
+          },
+          "coords": [
+            -2.925,
+            43.257
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gastro-Bar im Erdgeschoss.",
+            "hu": "Látogasson el a földszinti gasztro-bárba.",
+            "ro": "Vizitați barul gastronomic de la parter.",
+            "en": "Visit the gastro-bar on the ground floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Start am ikonischen Guggenheim-Museum mit moderner Kunst. Vormittag: Spaziergang zum Azkuna Zentroa Kulturzentrum. Mittag: Erkundung des Arriaga-Theaters und der Kathedrale in der Altstadt. Nachmittag: Pintxos-Verkostung in den Gassen des Casco Viejo und Ausklang in der Ribera-Markthalle.",
+        "hu": "Reggel: Kezdés az ikonikus Guggenheim Múzeumnál. Délelőtt: Séta az Azkuna Zentroa kulturális központhoz. Délben: Az Arriaga Színház és a katedrális felfedezése az óvárosban. Délután: Pintxos kóstolás a Casco Viejo szűk utcáin, majd zárás a Ribera piacon.",
+        "ro": "Dimineața: Începeți la iconicul Muzeu Guggenheim. Înainte de prânz: Plimbare către centrul cultural Azkuna Zentroa. Prânz: Explorarea Teatrului Arriaga și a Catedralei în centrul vechi. După-amiaza: Degustare de pintxos în Casco Viejo și final la Piața Ribera.",
+        "en": "Morning: Start at the iconic Guggenheim Museum. Late morning: Walk to the Azkuna Zentroa cultural center. Midday: Explore the Arriaga Theatre and the Cathedral in the old town. Afternoon: Enjoy pintxos in the streets of Casco Viejo and finish at the Ribera Market."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gilda",
+            "tip": "Klassischer Pintxo mit Olive, Peperoni und Sardelle."
+          },
+          {
+            "name": "Gure Toki",
+            "tip": "Moderne Pintxos auf der Plaza Nueva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gilda",
+            "tip": "Klasszikus pintxo olívabogyóval, paprikával és szardellával."
+          },
+          {
+            "name": "Gure Toki",
+            "tip": "Modern pintxos a Plaza Nueva-n."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gilda",
+            "tip": "Pintxo clasic cu măsline, ardei iute și anșoa."
+          },
+          {
+            "name": "Gure Toki",
+            "tip": "Pintxos moderne în Plaza Nueva."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gilda",
+            "tip": "Classic pintxo with olive, pepper, and anchovy."
+          },
+          {
+            "name": "Gure Toki",
+            "tip": "Modern pintxos at Plaza Nueva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Doña Casilda Park",
+            "tip": "Ruhige Grünanlage in der Nähe des Museums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doña Casilda park",
+            "tip": "Nyugodt zöldövezet a múzeum közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Doña Casilda",
+            "tip": "Zonă verde liniștită lângă muzeu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Doña Casilda Park",
+            "tip": "Quiet green area near the museum.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de la Ribera",
+            "tip": "Lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribera piac",
+            "tip": "Helyi termékek és különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Ribera",
+            "tip": "Produse locale și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribera Market",
+            "tip": "Local products and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Altstadt sind die meisten Wege Fußgängerzonen.",
+          "Pintxos-Hopping ist die beste Art zu essen.",
+          "Achten Sie auf die Gezeiten am Fluss Nervión."
+        ],
+        "hu": [
+          "Az óváros legtöbb utcája sétálóövezet.",
+          "A Pintxos-túra a legjobb módja az étkezésnek.",
+          "Figyelje az apály-dagály jelenséget a Nervión folyón."
+        ],
+        "ro": [
+          "Majoritatea drumurilor din centrul vechi sunt pietonale.",
+          "Turul de pintxos este cea mai bună modalitate de a mânca.",
+          "Atenție la mareele de pe râul Nervión."
+        ],
+        "en": [
+          "Most streets in the old town are pedestrianized.",
+          "Pintxos-hopping is the best way to eat.",
+          "Watch the tides on the Nervión river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Guggenheim Promenade",
+            "hu": "Guggenheim sétány",
+            "ro": "Promenada Guggenheim",
+            "en": "Guggenheim Promenade"
+          },
+          "coords": [
+            -2.936,
+            43.269
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Radweg entlang des Flusses.",
+            "hu": "Tökéletes kerékpárút a folyó mentén.",
+            "ro": "Pistă de biciclete perfectă de-a lungul râului.",
+            "en": "Perfect bike path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Funicular de Artxanda",
+            "hu": "Artxanda sikló",
+            "ro": "Funicularul Artxanda",
+            "en": "Artxanda Funicular"
+          },
+          "coords": [
+            -2.927,
+            43.269
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrräder dürfen im Funicular mitgenommen werden.",
+            "hu": "A kerékpárok felvihetők a siklóval.",
+            "ro": "Bicicletele pot fi transportate cu funicularul.",
+            "en": "Bikes are allowed on the funicular."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Viejo",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            -2.924,
+            43.259
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "Tolja a biciklit a szűk utcákban.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de San Antón",
+            "hu": "San Antón híd",
+            "ro": "Podul San Antón",
+            "en": "San Antón Bridge"
+          },
+          "coords": [
+            -2.925,
+            43.256
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Älteste Brücke der Stadt.",
+            "hu": "A város legrégebbi hídja.",
+            "ro": "Cel mai vechi pod din oraș.",
+            "en": "Oldest bridge in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Olabeaga Riverside",
+            "hu": "Olabeaga folyópart",
+            "ro": "Malul Olabeaga",
+            "en": "Olabeaga Riverside"
+          },
+          "coords": [
+            -2.948,
+            43.267
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Mittagspause mit Blick auf die Zorrozaurre-Insel.",
+            "hu": "Ebédszünet kilátással a Zorrozaurre-szigetre.",
+            "ro": "Pauză de prânz cu vedere la insula Zorrozaurre.",
+            "en": "Lunch break with a view of Zorrozaurre island."
+          }
+        },
+        {
+          "name": {
+            "de": "Itsasmuseum",
+            "hu": "Itsasmúzeum",
+            "ro": "Itsasmuseum",
+            "en": "Itsasmuseum"
+          },
+          "coords": [
+            -2.945,
+            43.265
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Meeresmuseum direkt am Radweg.",
+            "hu": "A tengerészeti múzeum közvetlenül a bicikliút mellett.",
+            "ro": "Muzeul maritim situat direct pe pista de biciclete.",
+            "en": "The maritime museum right on the bike path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radtour am Flussufer beim Guggenheim. Vormittag: Mit dem Funicular auf den Artxanda für den besten Ausblick. Mittag: Besuch des Casco Viejo und der San Antón Brücke. Nachmittag: Entspannte Fahrt zum Olabeaga-Viertel für ein Mittagessen am Wasser und Rückfahrt vorbei am Meeresmuseum.",
+        "hu": "Reggel: Kerékpártúra a folyóparton a Guggenheimmel szemben. Délelőtt: Felvonulás az Artxanda-hegyre a legjobb kilátásért. Délben: Az óváros és a San Antón híd felkeresése. Délután: Kényelmes tekerés az Olabeaga negyedbe egy vízparti ebédre, majd visszaút a tengerészeti múzeum mellett.",
+        "ro": "Dimineața: Tur cu bicicleta pe malul râului lângă Guggenheim. Înainte de prânz: Urcare cu funicularul pe Artxanda pentru cea mai bună priveliște. Prânz: Vizitarea centrului vechi și a podului San Antón. După-amiaza: Plimbare relaxantă spre Olabeaga pentru prânz și întoarcere pe lângă muzeul maritim.",
+        "en": "Morning: Bike tour along the riverbank near Guggenheim. Late morning: Take the funicular up Artxanda for the best view. Midday: Visit the Old Town and San Antón Bridge. Afternoon: Leisurely ride to Olabeaga for a riverside lunch and ride back past the maritime museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karola Etxea",
+            "tip": "Traditionelles Restaurant in Olabeaga."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karola Etxea",
+            "tip": "Hagyományos étterem Olabeaga-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karola Etxea",
+            "tip": "Restaurant tradițional în Olabeaga."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karola Etxea",
+            "tip": "Traditional restaurant in Olabeaga."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de Artxanda",
+            "tip": "Panoramablick über die ganze Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artxanda kilátó",
+            "tip": "Panoráma az egész városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Artxanda",
+            "tip": "Vedere panoramică asupra întregului oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Artxanda Viewpoint",
+            "tip": "Panoramic view over the whole city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ciclos Zubero",
+            "tip": "Legendärer Fahrradladen in Bilbao."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciclos Zubero",
+            "tip": "Legendás kerékpárbolt Bilbaóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciclos Zubero",
+            "tip": "Magazin de biciclete legendar în Bilbao."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciclos Zubero",
+            "tip": "Legendary bike shop in Bilbao."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "BilbaBizi ist das öffentliche Fahrradverleihsystem.",
+          "Die Wege am Fluss sind flach und sicher.",
+          "Meiden Sie die steilen Hügel ohne E-Bike."
+        ],
+        "hu": [
+          "BilbaBizi a helyi közösségi kerékpárrendszer.",
+          "A folyóparti utak síkak és biztonságosak.",
+          "E-bike nélkül kerülje a meredek dombokat."
+        ],
+        "ro": [
+          "BilbaBizi este sistemul public de închirieri biciclete.",
+          "Drumurile de pe malul râului sunt plate și sigure.",
+          "Evitați dealurile abrupte fără o bicicletă electrică."
+        ],
+        "en": [
+          "BilbaBizi is the public bike-sharing system.",
+          "The riverside paths are flat and safe.",
+          "Avoid steep hills without an e-bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 32.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Guggenheim Museum (Cluster A)",
+            "hu": "Guggenheim Múzeum (A klaszter)",
+            "ro": "Muzeul Guggenheim (Cluster A)",
+            "en": "Guggenheim Museum (Cluster A)"
+          },
+          "coords": [
+            -2.936,
+            43.268
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Plaza Euskadi.",
+            "hu": "Parkoljon a Plaza Euskadi mélygarázsában.",
+            "ro": "Parcați în parcarea de la Plaza Euskadi.",
+            "en": "Park in the underground parking at Plaza Euskadi."
+          }
+        },
+        {
+          "name": {
+            "de": "Azkuna Zentroa",
+            "hu": "Azkuna Zentroa",
+            "ro": "Azkuna Zentroa",
+            "en": "Azkuna Zentroa"
+          },
+          "coords": [
+            -2.937,
+            43.261
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ehemaliges Weinlager, heute Kulturzentrum.",
+            "hu": "Egykori bortár, ma kulturális központ.",
+            "ro": "Fost depozit de vinuri, acum centru cultural.",
+            "en": "Former wine warehouse, now a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Arriaga (Cluster B)",
+            "hu": "Arriaga Színház (B klaszter)",
+            "ro": "Teatrul Arriaga (Cluster B)",
+            "en": "Arriaga Theatre (Cluster B)"
+          },
+          "coords": [
+            -2.925,
+            43.259
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zentraler Punkt am Eingang zur Altstadt.",
+            "hu": "Központi pont az óváros bejáratánál.",
+            "ro": "Punct central la intrarea în centrul vechi.",
+            "en": "Central point at the entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Casco Viejo",
+            "hu": "Óváros",
+            "ro": "Centrul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            -2.924,
+            43.258
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der baskischen Gastronomie.",
+            "hu": "A baszk gasztronómia szíve.",
+            "ro": "Inima gastronomiei basce.",
+            "en": "The heart of Basque gastronomy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de la Ribera",
+            "hu": "Ribera piac",
+            "ro": "Piața Ribera",
+            "en": "Ribera Market"
+          },
+          "coords": [
+            -2.925,
+            43.257
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Größte überdachte Markthalle Europas.",
+            "hu": "Európa legnagyobb fedett piaca.",
+            "ro": "Cea mai mare piață acoperită din Europa.",
+            "en": "Europe's largest covered market."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de Vizcaya (Getxo)",
+            "hu": "Vizcaya-híd (Getxo)",
+            "ro": "Podul Vizcaya (Getxo)",
+            "en": "Vizcaya Bridge (Getxo)"
+          },
+          "coords": [
+            -3.017,
+            43.323
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe Schwebefähre.",
+            "hu": "UNESCO világörökség függőhíd.",
+            "ro": "Pod transbordor patrimoniu UNESCO.",
+            "en": "UNESCO World Heritage transporter bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Getxo Promenade",
+            "hu": "Getxo sétány",
+            "ro": "Promenada Getxo",
+            "en": "Getxo Promenade"
+          },
+          "coords": [
+            -3.01,
+            43.335
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wunderschöne Villen am Meer.",
+            "hu": "Gyönyörű villák a tengerparton.",
+            "ro": "Vile superbe pe malul mării.",
+            "en": "Beautiful villas by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Artxanda",
+            "hu": "Artxanda kilátó",
+            "ro": "Mirador de Artxanda",
+            "en": "Artxanda Viewpoint"
+          },
+          "coords": [
+            -2.922,
+            43.273
+          ],
+          "category": "natural features",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bester Sonnenuntergangs-Spot mit Auto erreichbar.",
+            "hu": "A legjobb naplemente-helyszín autóval.",
+            "ro": "Cel mai bun loc pentru apus, accesibil cu mașina.",
+            "en": "Best sunset spot accessible by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Besuch des Guggenheim und Azkuna Zentroa im Stadtzentrum. Mittag: Fahrt zur Altstadt für Arriaga-Theater, Kathedrale und Mittagessen im Casco Viejo. Nachmittag: Ausflug nach Getxo zur berühmten Schwebefähre (UNESCO) und Abschluss mit Panoramablick vom Artxanda-Hügel.",
+        "hu": "Reggel: A Guggenheim és az Azkuna Zentroa felkeresése a belvárosban. Délben: Utazás az óvárosba, az Arriaga Színházhoz és ebéd a Casco Viejo-ban. Délután: Kirándulás Getxóba a híres függőhídhoz (UNESCO), majd zárás panorámával az Artxanda-dombról.",
+        "ro": "Dimineața: Vizitarea muzeului Guggenheim și Azkuna Zentroa. Prânz: Mers în centrul vechi pentru Teatrul Arriaga și prânz în Casco Viejo. După-amiaza: Excursie la Getxo pentru faimosul pod Vizcaya (UNESCO) și final cu vedere panoramică de pe dealul Artxanda.",
+        "en": "Morning: Visit Guggenheim and Azkuna Zentroa in the city center. Midday: Drive to the old town for Arriaga Theatre and lunch in Casco Viejo. Afternoon: Trip to Getxo to see the famous transporter bridge (UNESCO) and finish with panoramic views from Artxanda hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tamarises Izarra",
+            "tip": "Gehobene Küche in Getxo mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tamarises Izarra",
+            "tip": "Színvonalas konyha Getxóban, tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tamarises Izarra",
+            "tip": "Bucătărie rafinată în Getxo cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tamarises Izarra",
+            "tip": "Fine dining in Getxo with sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Artxanda Park",
+            "tip": "Viel Platz und Ruhe über der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Artxanda park",
+            "tip": "Sok hely és nyugalom a város felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Artxanda",
+            "tip": "Mult spațiu și liniște deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Artxanda Park",
+            "tip": "Plenty of space and peace above the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gran Vía",
+            "tip": "Haupteinkaufsstraße mit vielen Parkhäusern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gran Vía",
+            "tip": "Fő bevásárlóutca sok parkolóházzal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gran Vía",
+            "tip": "Strada principală de cumpărături cu multe parcări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gran Vía",
+            "tip": "Main shopping street with many parking garages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Parkhäusern, Straßenparkplätze sind rar.",
+          "Die Autobahn nach Getxo ist gut ausgebaut.",
+          "Vermeiden Sie die Rushhour (8:00-9:30 und 18:00-19:30)."
+        ],
+        "hu": [
+          "Használjon parkolóházakat, az utcai parkolás nehézkes.",
+          "A Getxóba vezető autópálya kiváló.",
+          "Kerülje a csúcsforgalmat (8:00-9:30 és 18:00-19:30)."
+        ],
+        "ro": [
+          "Parcați în parcări subterane, locurile de pe stradă sunt rare.",
+          "Autostrada către Getxo este foarte bună.",
+          "Evitați orele de vârf (8:00-9:30 și 18:00-19:30)."
+        ],
+        "en": [
+          "Park in garages, street parking is scarce.",
+          "The highway to Getxo is well maintained.",
+          "Avoid rush hour (8:00-9:30 and 18:00-19:30)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Viejo (Catedral)",
+            "hu": "Óváros (Katedrális)",
+            "ro": "Centrul Vechi (Catedrala)",
+            "en": "Old Town (Cathedral)"
+          },
+          "coords": [
+            -2.924,
+            43.259
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Metrostation 'Casco Viejo' ist direkt hier.",
+            "hu": "A 'Casco Viejo' metróállomás közvetlenül itt van.",
+            "ro": "Stația de metrou 'Casco Viejo' este chiar aici.",
+            "en": "Metro station 'Casco Viejo' is right here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de la Ribera",
+            "hu": "Ribera piac",
+            "ro": "Piața Ribera",
+            "en": "Ribera Market"
+          },
+          "coords": [
+            -2.925,
+            43.257
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein zweites Frühstück.",
+            "hu": "Tökéletes egy második reggelihez.",
+            "ro": "Perfect pentru un al doilea mic dejun.",
+            "en": "Perfect for a second breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Azkuna Zentroa",
+            "hu": "Azkuna Zentroa",
+            "ro": "Azkuna Zentroa",
+            "en": "Azkuna Zentroa"
+          },
+          "coords": [
+            -2.937,
+            43.261
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro bis 'Indautxu'.",
+            "hu": "Menjen metróval 'Indautxu' megállóig.",
+            "ro": "Luați metroul până la 'Indautxu'.",
+            "en": "Take the metro to 'Indautxu' station."
+          }
+        },
+        {
+          "name": {
+            "de": "Guggenheim Museum",
+            "hu": "Guggenheim Múzeum",
+            "ro": "Muzeul Guggenheim",
+            "en": "Guggenheim Museum"
+          },
+          "coords": [
+            -2.936,
+            43.268
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Straßenbahn (Euskotren) hält direkt vor der Tür.",
+            "hu": "A villamos (Euskotren) közvetlenül az ajtó előtt áll meg.",
+            "ro": "Tramvaiul (Euskotren) oprește chiar în față.",
+            "en": "The tram (Euskotren) stops right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Abandoibarra Promenade",
+            "hu": "Abandoibarra sétány",
+            "ro": "Promenada Abandoibarra",
+            "en": "Abandoibarra Promenade"
+          },
+          "coords": [
+            -2.938,
+            43.268
+          ],
+          "category": "natural features",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schöner Spaziergang entlang der modernen Architektur.",
+            "hu": "Szép séta a modern építészeti alkotások között.",
+            "ro": "Plimbare frumoasă printre clădirile moderne.",
+            "en": "Nice walk along modern architectural landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Funicular de Artxanda",
+            "hu": "Artxanda sikló",
+            "ro": "Funicularul Artxanda",
+            "en": "Artxanda Funicular"
+          },
+          "coords": [
+            -2.927,
+            43.269
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zubringer mit der Linie 3 der Metro.",
+            "hu": "A 3-as metróvonallal közelíthető meg.",
+            "ro": "Accesibil cu linia 3 de metrou.",
+            "en": "Accessible via Metro Line 3."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de San Antón",
+            "hu": "San Antón híd",
+            "ro": "Podul San Antón",
+            "en": "San Antón Bridge"
+          },
+          "coords": [
+            -2.925,
+            43.256
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf das historische Bilbao.",
+            "hu": "Egy utolsó pillantás a történelmi Bilbaóra.",
+            "ro": "O ultimă privire asupra Bilbaoului istoric.",
+            "en": "A final look at historic Bilbao."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Start in der Altstadt bei der Kathedrale und dem Ribera Markt. Vormittag: Mit der Metro zum modernen Azkuna Zentroa. Mittag: Mit der Straßenbahn zum Guggenheim und Spaziergang am Fluss. Nachmittag: Fahrt mit dem Funicular auf den Artxanda für den Panoramablick und Rückkehr zur San Antón Brücke.",
+        "hu": "Reggel: Kezdés az óvárosban a katedrálisnál és a Ribera piacon. Délelőtt: Metróval a modern Azkuna Zentroa központba. Délben: Villamossal a Guggenheimhez és séta a folyóparton. Délután: Siklóval az Artxanda-hegyre a panorámáért, majd visszatérés a San Antón hídhoz.",
+        "ro": "Dimineața: Începere în centrul vechi la Catedrală și Piața Ribera. Înainte de prânz: Cu metroul la centrul modern Azkuna Zentroa. Prânz: Cu tramvaiul la Guggenheim și plimbare pe malul râului. După-amiaza: Urcare cu funicularul pe Artxanda pentru panoramă și revenire la Podul San Antón.",
+        "en": "Morning: Start in the Old Town at the Cathedral and Ribera Market. Late morning: Take the metro to the modern Azkuna Zentroa. Midday: Tram ride to Guggenheim and a walk along the river. Afternoon: Take the funicular up Artxanda for panoramic views and return to San Antón Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Viña del Ensanche",
+            "tip": "Legendärer Schinken und Tapas in der Nähe der Metro Abando."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Viña del Ensanche",
+            "tip": "Legendás sonka és tapas az Abando metró közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Viña del Ensanche",
+            "tip": "Șuncă legendară și tapas lângă metroul Abando."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Viña del Ensanche",
+            "tip": "Legendary ham and tapas near Abando metro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Euskadi Plaza",
+            "tip": "Moderner, ruhiger Platz im Schatten der Iberdrola-Torre.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Euskadi Plaza",
+            "tip": "Modern, nyugodt tér az Iberdrola torony árnyékában.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Euskadi Plaza",
+            "tip": "Piață modernă și liniștită la umbra turnului Iberdrola.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Euskadi Plaza",
+            "tip": "Modern, quiet square in the shadow of Iberdrola Tower.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zubiarte Shopping",
+            "tip": "Einkaufszentrum direkt an der Straßenbahnhaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zubiarte Shopping",
+            "tip": "Bevásárlóközpont közvetlenül a villamosmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zubiarte Shopping",
+            "tip": "Centru comercial chiar lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zubiarte Shopping",
+            "tip": "Shopping mall right by the tram stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich eine Barik-Karte für alle Verkehrsmittel.",
+          "Die Metro Bilbao ist berühmt für ihr Design von Norman Foster.",
+          "Straßenbahnen fahren alle 10-15 Minuten."
+        ],
+        "hu": [
+          "Váltson Barik-kártyát minden közlekedési eszközhöz.",
+          "A bilbaói metró híres Norman Foster által tervezett bejáratairól.",
+          "A villamosok 10-15 percenként járnak."
+        ],
+        "ro": [
+          "Luați un card Barik pentru toate mijloacele de transport.",
+          "Metroul din Bilbao este faimos pentru designul lui Norman Foster.",
+          "Tramvaiele circulă la fiecare 10-15 minute."
+        ],
+        "en": [
+          "Get a Barik card for all public transport.",
+          "Bilbao Metro is famous for its Norman Foster design.",
+          "Trams run every 10-15 minutes."
+        ]
+      }
+    }
+  }
+}

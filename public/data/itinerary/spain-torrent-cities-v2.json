@@ -1,10 +1,10 @@
 {
   "city_id": "spain-torrent-cities-v2",
   "anchor": {
-    "name": "Torre de Torrent",
+    "name": "Torrent",
     "coords": [
-      39.4372,
-      -0.4658
+      -0.4658,
+      39.4372
     ]
   },
   "modes": {
@@ -12,200 +12,194 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "16:20",
-      "total_km": 2.8,
+      "end_estimate": "17:35",
+      "total_km": 3.8,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Our Lady"
+          },
+          "coords": [
+            -0.465,
+            39.4365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Bewundern Sie den barocken Altaraufsatz und die beeindruckenden Deckenfresken.",
+            "hu": "Csodálja meg a barokk oltárképet és a lenyűgöző mennyezeti freskókat.",
+            "ro": "Admirați altarul baroc și frescele impresionante de pe tavan.",
+            "en": "Admire the Baroque altarpiece and the impressive ceiling frescoes."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
             "en": "Tower of Torrent"
           },
           "coords": [
-            -0.466,
-            39.437
+            -0.4665,
+            39.4378
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "09:10",
-          "stay_min": 80,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Das Wahrzeichen der Stadt aus der Maurenzeit.",
-            "hu": "A város mór eredetű jelképe a főtéren.",
-            "ro": "Simbolul maur al orașului în piața principală.",
-            "en": "The Moorish symbol of the city in the main square."
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Erklimmen Sie die Spitze für einen Panoramablick über die Altstadt.",
+            "hu": "Másszon fel a tetejére, ahonnan panorámás kilátás nyílik az óvárosra.",
+            "ro": "Urcați în vârf pentru o vedere panoramică asupra orașului vechi.",
+            "en": "Climb to the top for a panoramic view over the old town."
           }
         },
         {
-          "name": {
-            "de": "Kirche Mariä Himmelfahrt",
-            "hu": "Nagyboldogasszony-templom",
-            "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
-          },
-          "coords": [
-            -0.4655,
-            39.4375
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Wunderschönes Barock-Retabel im Inneren.",
-            "hu": "Csodálatos barokk oltárkép a belső térben.",
-            "ro": "Retablu baroc superb în interior.",
-            "en": "Beautiful Baroque altarpiece inside."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Ethnologisches Museum",
             "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul de Etnologie",
+            "ro": "Muzeul Etnologic",
             "en": "Ethnological Museum"
           },
           "coords": [
             -0.467,
-            39.4365
+            39.4385
           ],
-          "category": "museums",
-          "arrive_at": "11:25",
+          "arrive_at": "11:05",
           "stay_min": 100,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Einblick in das traditionelle Leben der Horta Sud.",
-            "hu": "Betekintés a Horta Sud hagyományos életébe.",
-            "ro": "O privire asupra vieții tradiționale din Horta Sud.",
-            "en": "Insight into traditional life in Horta Sud."
+          "hop_from_prev_km": 0.5,
+          "category": "museums",
+          "tip_4lang": {
+            "de": "Entdecken Sie die landwirtschaftliche Vergangenheit von Torrent und die Orangenanbau-Tradition.",
+            "hu": "Fedezze fel Torrent mezőgazdasági múltját és a narancstermesztés hagyományát.",
+            "ro": "Descoperiți trecutul agricol al orașului Torrent și tradiția cultivării portocalelor.",
+            "en": "Discover Torrent's agricultural past and the tradition of orange cultivation."
           }
         },
         {
-          "name": {
+          "name_4lang": {
+            "de": "Mittagessen in der Nähe des Museums",
+            "hu": "Ebéd a múzeum közelében",
+            "ro": "Prânz lângă muzeu",
+            "en": "Lunch near the museum"
+          },
+          "coords": [
+            -0.4672,
+            39.4388
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Probieren Sie 'Rossejat torrentí', ein lokales Reisgericht.",
+            "hu": "Kóstolja meg a 'Rossejat torrentí'-t, egy helyi rizsételt.",
+            "ro": "Încercați 'Rossejat torrentí', un preparat local din orez.",
+            "en": "Try 'Rossejat torrentí', a local rice dish."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Kirche San Luis Beltrán",
-            "hu": "San Luis Beltrán-templom",
+            "hu": "Szent Lluís Beltrán-templom",
             "ro": "Biserica San Luis Beltrán",
-            "en": "San Luis Beltrán Church"
+            "en": "Church of San Luis Beltrán"
           },
           "coords": [
             -0.462,
-            39.434
+            39.435
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "13:20",
+          "arrive_at": "14:35",
           "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.7,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Gewidmet dem Schutzpatron der Stadt.",
-            "hu": "A város védőszentjének szentelt templom.",
-            "ro": "Biserică dedicată patronului spiritual al orașului.",
-            "en": "Church dedicated to the city's patron saint."
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Beachten Sie die neugotische Architektur, eine Seltenheit in dieser Region.",
+            "hu": "Figyelje meg a neogótikus építészetet, amely ritkaságnak számít ebben a régióban.",
+            "ro": "Observați arhitectura neogotică, o raritate în această regiune.",
+            "en": "Note the neo-Gothic architecture, a rarity in this region."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Hort de Trénor",
-            "hu": "Trénor-kert",
-            "ro": "Grădina Trénor",
-            "en": "Hort de Trénor"
+            "hu": "Hort de Trénor kert",
+            "ro": "Grădina Hort de Trénor",
+            "en": "Hort de Trénor Garden"
           },
           "coords": [
-            -0.461,
-            39.432
+            -0.458,
+            39.439
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "14:15",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.7,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Historischer Garten mit exotischen Pflanzen.",
-            "hu": "Történelmi kert egzotikus növényekkel.",
-            "ro": "Grădină istorică cu plante exotice.",
-            "en": "Historical garden with exotic plants."
-          }
-        },
-        {
-          "name": {
-            "de": "Chalet de Trénor",
-            "hu": "Trénor-villa",
-            "ro": "Vila Trénor",
-            "en": "Chalet de Trénor"
-          },
-          "coords": [
-            -0.4615,
-            39.4315
-          ],
-          "category": "famous residences",
-          "arrive_at": "15:40",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein Juwel der modernistischen Architektur.",
-            "hu": "A modernista építészet egyik gyöngyszeme.",
-            "ro": "O bijuterie a arhitecturii moderniste.",
-            "en": "A gem of modernist architecture."
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag. Suchen Sie nach dem Chalet.",
+            "hu": "Tökéletes hely egy pihentető délutáni sétához. Keresse meg a villát.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază. Căutați cabana.",
+            "en": "A perfect spot for a relaxing afternoon walk. Look for the Chalet."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie den Tag am historischen Turm von Torrent, dem maurischen Erbe im Stadtzentrum. Ein kurzer Spaziergang führt Sie zur prächtigen Barockkirche und zum ethnologischen Museum, wo Sie die lokale Kultur hautnah erleben können. Nach dem Mittagessen entspannen Sie in den üppigen Gärten des Hort de Trénor und bewundern das elegante Chalet, ein Meisterwerk des Modernismus.",
-        "hu": "Kezdje a napot a történelmi mór toronynál, a város szívében. Egy rövid séta elvezeti a pompás barokk templomhoz és a néprajzi múzeumhoz, ahol megismerheti a helyi kultúrát. Ebéd után pihenjen a Trénor-kert dús növényzete között, és csodálja meg az elegáns villát, amely a modernista építészet remekműve.",
-        "ro": "Începeți ziua la turnul istoric din Torrent, moștenirea maură din centrul orașului. O scurtă plimbare vă duce la biserica barocă și la muzeul de etnologie, unde puteți descoperi cultura locală. După prânz, relaxați-vă în grădinile luxuriante din Hort de Trénor și admirați vila elegantă, o capodoperă a modernismului.",
-        "en": "Start your day at the historic Tower of Torrent, a Moorish legacy in the city center. A short walk leads you to the magnificent Baroque church and the ethnological museum, where you can experience local culture. After lunch, relax in the lush gardens of Hort de Trénor and admire the elegant chalet, a masterpiece of modernist architecture."
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Torrent mit einem Besuch der prächtigen Kirche Mariä Himmelfahrt. Steigen Sie anschließend auf den mittelalterlichen Turm, um eine atemberaubende Aussicht zu genießen. Am Nachmittag tauchen Sie im Ethnologischen Museum in die lokale Kultur ein, bevor Sie in den ruhigen Gärten von Hort de Trénor entspannen. Beenden Sie den Tag mit der Entdeckung weiterer architektonischer Juwelen.",
+        "hu": "Kezdje a napot Torrent történelmi szívében a csodálatos Nagyboldogasszony-templom meglátogatásával. Ezután másszon fel a középkori toronyba a lélegzetelállító kilátásért. Délután merüljön el a helyi kultúrában a Néprajzi Múzeumban, mielőtt kikapcsolódna a Hort de Trénor csendes kertjeiben. Zárja a napot további építészeti gyöngyszemek felfedezésével.",
+        "ro": "Începeți ziua în inima istorică a orașului Torrent vizitând magnifica Biserică a Adormirii Maicii Domnului. Apoi, urcați în turnul medieval pentru priveliști uluitoare. După-amiaza, pătrundeți în cultura locală la Muzeul Etnologic înainte de a vă relaxa în grădinile liniștite din Hort de Trénor. Încheiați ziua descoperind mai multe bijuterii arhitecturale.",
+        "en": "Start your day in the historic heart of Torrent by visiting the magnificent Church of the Assumption. Then, climb the medieval tower for breathtaking views. In the afternoon, immerse yourself in local culture at the Ethnological Museum before relaxing in the quiet gardens of Hort de Trénor. End the day discovering more architectural gems."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Cassola de Sant Blai",
-            "tip": "Traditionelles Reisgericht mit Fleisch und Blutwurst."
+            "name": "Rossejat torrentí",
+            "tip": "Ein traditionelles Reisgericht, ähnlich wie Paella, aber mit Nudeln statt Reis, oft mit Meeresfrüchten."
           },
           {
-            "name": "Chocolate de Torrent",
-            "tip": "Probieren Sie die berühmte handgemachte Schokolade 'Bollet'."
+            "name": "All i pebre",
+            "tip": "Ein würziger Aal-Eintopf mit Knoblauch und Paprika, eine Spezialität der Region Valencia."
           }
         ],
         "hu": [
           {
-            "name": "Cassola de Sant Blai",
-            "tip": "Hagyományos rizses étel hússal és véres hurkával."
+            "name": "Rossejat torrentí",
+            "tip": "Hagyományos rizsétel, hasonló a paellához, de tésztával rizs helyett, gyakran tenger gyümölcseivel."
           },
           {
-            "name": "Chocolate de Torrent",
-            "tip": "Kóstolja meg a híres kézműves 'Bollet' csokoládét."
+            "name": "All i pebre",
+            "tip": "Fűszeres angolnaragu fokhagymával és paprikával, a valenciai régió specialitása."
           }
         ],
         "ro": [
           {
-            "name": "Cassola de Sant Blai",
-            "tip": "Mâncare tradițională de orez cu carne și sângerete."
+            "name": "Rossejat torrentí",
+            "tip": "Un fel de mâncare tradițional din orez, similar cu paella, dar cu fidea în loc de orez, adesea cu fructe de mare."
           },
           {
-            "name": "Chocolate de Torrent",
-            "tip": "Gustați faimoasa ciocolată artizanală 'Bollet'."
+            "name": "All i pebre",
+            "tip": "O tocană picantă de anghilă cu usturoi și boia de ardei, o specialitate din regiunea Valencia."
           }
         ],
         "en": [
           {
-            "name": "Cassola de Sant Blai",
-            "tip": "Traditional rice dish with meat and blood sausage."
+            "name": "Rossejat torrentí",
+            "tip": "A traditional rice dish, similar to paella but with noodles instead of rice, often with seafood."
           },
           {
-            "name": "Chocolate de Torrent",
-            "tip": "Try the famous handmade 'Bollet' chocolate."
+            "name": "All i pebre",
+            "tip": "A spicy eel stew with garlic and paprika, a specialty of the Valencia region."
           }
         ]
       },
@@ -213,82 +207,114 @@
         "de": [
           {
             "name": "Hort de Trénor",
-            "tip": "Stille Oase inmitten exotischer Vegetation.",
-            "emoji": "🌿"
+            "tip": "Finden Sie eine ruhige Bank unter den Palmen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "El Vedat de Torrent",
+            "tip": "Wandern Sie auf den ruhigeren Wegen abseits der Hauptstraßen.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Trénor-kert",
-            "tip": "Csendes oázis az egzotikus növényzet között.",
-            "emoji": "🌿"
+            "name": "Hort de Trénor",
+            "tip": "Keressen egy csendes padot a pálmafák alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "El Vedat de Torrent",
+            "tip": "Túrázzon a csendesebb ösvényeken, távol a főutaktól.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Grădina Trénor",
-            "tip": "Oază de liniște în mijlocul vegetației exotice.",
-            "emoji": "🌿"
+            "name": "Hort de Trénor",
+            "tip": "Găsiți o bancă liniștită sub palmieri.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "El Vedat de Torrent",
+            "tip": "Drumeți pe potecile mai liniștite, departe de drumurile principale.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
             "name": "Hort de Trénor",
-            "tip": "Quiet oasis amidst exotic vegetation.",
-            "emoji": "🌿"
+            "tip": "Find a quiet bench under the palm trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "El Vedat de Torrent",
+            "tip": "Hike the quieter trails away from the main roads.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Mercat de Torrent",
-            "tip": "Lokale Produkte und frische Lebensmittel."
+            "name": "Mercado Municipal",
+            "tip": "Kaufen Sie lokale Produkte, Käse und 'embutidos' (Wurstwaren)."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Probieren Sie 'panquemao', ein traditionelles süßes Brot."
           }
         ],
         "hu": [
           {
-            "name": "Torrenti piac",
-            "tip": "Helyi termékek és friss élelmiszerek válogatása."
+            "name": "Mercado Municipal",
+            "tip": "Vásároljon helyi termékeket, sajtokat és 'embutidos'-t (felvágottakat)."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Kóstolja meg a 'panquemao'-t, egy hagyományos édes kenyeret."
           }
         ],
         "ro": [
           {
-            "name": "Piața din Torrent",
-            "tip": "Produse locale și alimente proaspete."
+            "name": "Mercado Municipal",
+            "tip": "Cumpărați produse locale, brânzeturi și 'embutidos' (mezeluri)."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Încercați 'panquemao', o pâine dulce tradițională."
           }
         ],
         "en": [
           {
-            "name": "Torrent Market",
-            "tip": "Local products and fresh food selection."
+            "name": "Mercado Municipal",
+            "tip": "Buy local produce, cheeses, and 'embutidos' (cured sausages)."
+          },
+          {
+            "name": "Local bakeries",
+            "tip": "Try 'panquemao', a traditional sweet bread."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Altstadt lässt sich am besten zu Fuß erkunden.",
-          "Besuchen Sie das Museum am Vormittag für weniger Andrang.",
-          "Achten Sie auf die Öffnungszeiten während der Siesta (14-17 Uhr).",
-          "Probieren Sie die Schokolade direkt in einer der lokalen Konditoreien."
+          "Tragen Sie bequeme Schuhe, da das Zentrum Kopfsteinpflaster hat.",
+          "Viele Geschäfte halten eine 'Siesta' von 14:00 bis 17:00 Uhr.",
+          "Nehmen Sie viel Wasser mit, besonders im Sommer."
         ],
         "hu": [
-          "Az óvárost a legjobb gyalogosan felfedezni.",
-          "Látogassa meg a múzeumot délelőtt a tömeg elkerülése végett.",
-          "Ügyeljen a szieszta alatti nyitvatartásra (14-17 óra).",
-          "Kóstolja meg a csokoládét közvetlenül a helyi cukrászdákban."
+          "Viseljen kényelmes cipőt, mivel a központ macskaköves.",
+          "Sok üzlet 'siestát' tart 14:00 és 17:00 között.",
+          "Hozzon magával sok vizet, különösen nyáron."
         ],
         "ro": [
-          "Centrul vechi poate fi explorat cel mai bine la pas.",
-          "Vizitați muzeul dimineața pentru a evita aglomerația.",
-          "Atenție la orele de funcționare în timpul siestei (14-17).",
-          "Gustați ciocolata direct în cofetăriile locale."
+          "Purtați încălțăminte confortabilă, deoarece centrul are pavaj.",
+          "Multe magazine țin o 'siesta' între orele 14:00 și 17:00.",
+          "Luați multă apă, mai ales vara."
         ],
         "en": [
-          "The old town is best explored on foot.",
-          "Visit the museum in the morning to avoid crowds.",
-          "Be mindful of opening hours during siesta (2 PM - 5 PM).",
-          "Try the chocolate directly in one of the local pastry shops."
+          "Wear comfortable shoes as the center has cobblestones.",
+          "Many shops observe a 'siesta' from 2 PM to 5 PM.",
+          "Bring plenty of water, especially in summer."
         ]
       },
       "variants": {
@@ -476,245 +502,311 @@
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 11.5,
+      "end_estimate": "17:15",
+      "total_km": 12.5,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
+            "de": "Hort de Trénor",
+            "hu": "Hort de Trénor kert",
+            "ro": "Grădina Hort de Trénor",
+            "en": "Hort de Trénor Garden"
+          },
+          "coords": [
+            -0.458,
+            39.439
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer entspannten Radtour durch diesen wunderschönen Garten.",
+            "hu": "Kezdje a napot egy pihentető biciklizéssel ebben a gyönyörű kertben.",
+            "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta prin această grădină frumoasă.",
+            "en": "Start your day with a relaxing bike ride through this beautiful garden."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Our Lady"
+          },
+          "coords": [
+            -0.465,
+            39.4365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, das Innere zu erkunden.",
+            "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a belső tér felfedezésére.",
+            "ro": "Legați-vă bicicleta în siguranță și luați-vă timp să explorați interiorul.",
+            "en": "Lock your bike securely and take time to explore the interior."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
             "en": "Tower of Torrent"
           },
           "coords": [
+            -0.4665,
+            39.4378
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:08",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Lassen Sie Ihr Fahrrad unten und genießen Sie die Aussicht von oben.",
+            "hu": "Hagyja lent a kerékpárját, és élvezze a kilátást fentről.",
+            "ro": "Lăsați bicicleta jos și bucurați-vă de priveliștea de sus.",
+            "en": "Leave your bike at the bottom and enjoy the view from the top."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mittagessen im Stadtzentrum",
+            "hu": "Ebéd a városközpontban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the city center"
+          },
+          "coords": [
             -0.466,
             39.437
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Startpunkt im historischen Zentrum.",
-            "hu": "Kiindulópont a történelmi központban.",
-            "ro": "Punct de plecare în centrul istoric.",
-            "en": "Starting point in the historical center."
+          "category": "gastro",
+          "arrive_at": "12:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Suchen Sie nach einem Restaurant mit einer Terrasse, um Ihr Fahrrad im Auge zu behalten.",
+            "hu": "Keressen egy teraszos éttermet, hogy szemmel tarthassa a kerékpárját.",
+            "ro": "Căutați un restaurant cu terasă pentru a vă putea supraveghea bicicleta.",
+            "en": "Look for a restaurant with a terrace to keep an eye on your bike."
           }
         },
         {
-          "name": {
-            "de": "Eremitage San Vicente Ferrer",
-            "hu": "San Vicente Ferrer-remetelak",
-            "ro": "Ermitul San Vicente Ferrer",
-            "en": "Hermitage San Vicente Ferrer"
+          "name_4lang": {
+            "de": "Radtour nach El Vedat de Torrent",
+            "hu": "Kerékpártúra El Vedat de Torrentbe",
+            "ro": "Tur cu bicicleta la El Vedat de Torrent",
+            "en": "Bike ride to El Vedat de Torrent"
           },
           "coords": [
-            -0.471,
-            39.442
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:05",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Ruhiger Ort mit lokaler religiöser Bedeutung.",
-            "hu": "Csendes helyi vallási jelentőségű emlékhely.",
-            "ro": "Loc liniștit cu semnificație religioasă locală.",
-            "en": "Quiet place with local religious significance."
-          }
-        },
-        {
-          "name": {
-            "de": "El Vedat de Torrent",
-            "hu": "El Vedat-erdő",
-            "ro": "El Vedat de Torrent",
-            "en": "El Vedat de Torrent"
-          },
-          "coords": [
-            -0.485,
-            39.425
+            -0.49,
+            39.42
           ],
           "category": "natural features",
-          "arrive_at": "11:10",
-          "stay_min": 90,
-          "hop_from_prev_min": 25,
+          "arrive_at": "13:58",
+          "stay_min": 120,
+          "hop_from_prev_min": 27,
           "hop_from_prev_km": 4.5,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Die 'Lunge' der Stadt mit Pinienwäldern.",
-            "hu": "A város tüdeje fenyőerdőkkel.",
-            "ro": "Plămânul orașului cu păduri de pini.",
-            "en": "The lung of the city with pine forests."
+          "tip_4lang": {
+            "de": "Dies ist ein hügeliges Gebiet; stellen Sie sicher, dass Ihr Fahrrad Gänge hat. Genießen Sie die Natur.",
+            "hu": "Ez egy dombos terület; győződjön meg róla, hogy a kerékpárján van sebességváltó. Élvezze a természetet.",
+            "ro": "Aceasta este o zonă deluroasă; asigurați-vă că bicicleta dvs. are viteze. Bucurați-vă de natură.",
+            "en": "This is a hilly area; make sure your bike has gears. Enjoy nature."
           }
         },
         {
-          "name": {
-            "de": "Hort de Trénor",
-            "hu": "Trénor-kert",
-            "ro": "Grădina Trénor",
-            "en": "Hort de Trénor"
+          "name_4lang": {
+            "de": "Rückfahrt und Eremitage San Vicente Ferrer",
+            "hu": "Visszaút és a San Vicente Ferrer remetelak",
+            "ro": "Întoarcere și Schitul San Vicente Ferrer",
+            "en": "Return ride and Hermitage of San Vicente Ferrer"
           },
           "coords": [
-            -0.461,
-            39.432
+            -0.469,
+            39.441
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "13:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.8,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Botanische Vielfalt am Stadtrand.",
-            "hu": "Botanikai sokszínűség a város szélén.",
-            "ro": "Diversitate botanică la marginea orașului.",
-            "en": "Botanical diversity on the edge of the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Ethnologisches Museum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul de Etnologie",
-            "en": "Ethnological Museum"
-          },
-          "coords": [
-            -0.467,
-            39.4365
-          ],
-          "category": "museums",
-          "arrive_at": "14:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.7,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Interaktive Ausstellungen zur Landwirtschaft.",
-            "hu": "Interaktív kiállítások a mezőgazdaságról.",
-            "ro": "Expoziții interactive despre agricultură.",
-            "en": "Interactive exhibitions on agriculture."
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Ein kurzer Halt, um dieses kleine, charmante Heiligtum am Ende Ihrer Tour zu sehen.",
+            "hu": "Egy rövid megálló, hogy megnézze ezt a kicsi, bájos szentélyt a túra végén.",
+            "ro": "O oprire scurtă pentru a vedea acest mic și fermecător sanctuar la sfârșitul turului.",
+            "en": "A brief stop to see this small, charming sanctuary at the end of your tour."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Torrent auf zwei Rädern. Nach einem kurzen Stopp am Turm radeln Sie zur Eremitage und weiter in das grüne Herz von El Vedat. Hier genießen Sie die frische Luft und die Pinienwälder, bevor es zurück in die Stadt zu den Trénor-Gärten und dem Museum geht.",
-        "hu": "Fedezze fel Torrentet két keréken. A toronynál tett rövid megálló után tekerjen el a remetelakhoz, majd tovább El Vedat zöld szívébe. Itt élvezze a friss levegőt és a fenyőerdőket, mielőtt visszatérne a városba a Trénor-kertekhez és a múzeumhoz.",
-        "ro": "Explorați Torrent pe două roți. După o scurtă oprire la turn, pedalați spre ermitaj și apoi în inima verde din El Vedat. Bucurați-vă de aerul curat și pădurile de pini înainte de a reveni în oraș la grădinile Trénor și la muzeu.",
-        "en": "Explore Torrent on two wheels. After a quick stop at the tower, cycle to the hermitage and further into the green heart of El Vedat. Enjoy the fresh air and pine forests here before returning to the city to visit the Trénor gardens and the museum."
+        "de": "Starten Sie Ihre Radtour in den grünen Hort de Trénor-Gärten, bevor Sie ins historische Zentrum radeln. Erkunden Sie die Hauptkirche und den mittelalterlichen Turm. Nach einem stärkenden Mittagessen nehmen Sie die Herausforderung an und radeln in die hügelige Landschaft von El Vedat. Der Nachmittag ist der Natur gewidmet, bevor Sie auf dem Rückweg für einen kurzen besinnlichen Moment an der Eremitage San Vicente Ferrer anhalten.",
+        "hu": "Kezdje a kerékpártúrát a zöld Hort de Trénor kertekben, mielőtt a történelmi központba teker. Fedezze fel a főtemplomot és a középkori tornyot. Egy kiadós ebéd után vállalja a kihívást, és tekerjen El Vedat dombos vidékére. A délután a természeté, mielőtt visszafelé megállna egy rövid, elmélkedő pillanatra a San Vicente Ferrer remetelaknál.",
+        "ro": "Începeți turul cu bicicleta în grădinile verzi Hort de Trénor înainte de a pedala spre centrul istoric. Explorați biserica principală și turnul medieval. După un prânz consistent, acceptați provocarea de a pedala spre peisajul deluros din El Vedat. După-amiaza este dedicată naturii, înainte de a vă opri pentru un scurt moment de reflecție la Schitul San Vicente Ferrer pe drumul de întoarcere.",
+        "en": "Start your bike tour in the green Hort de Trénor gardens before cycling to the historic center. Explore the main church and the medieval tower. After a hearty lunch, take on the challenge of cycling to the hilly landscape of El Vedat. The afternoon is dedicated to nature before stopping for a brief moment of reflection at the Hermitage of San Vicente Ferrer on the way back."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Arroz con fesols i naps",
-            "tip": "Herzhafter Reis mit Bohnen und Rüben."
+            "name": "Orxata amb fartons",
+            "tip": "Ein erfrischendes lokales Getränk aus Erdmandeln, serviert mit süßem Gebäck."
+          },
+          {
+            "name": "Bocadillos",
+            "tip": "Suchen Sie nach einer Bar, die großzügig belegte Sandwiches für eine schnelle und sättigende Mahlzeit anbietet."
           }
         ],
         "hu": [
           {
-            "name": "Arroz con fesols i naps",
-            "tip": "Kiadós rizs babbal és tarlórépával."
+            "name": "Orxata amb fartons",
+            "tip": "Frissítő helyi ital tigrismogyoróból, édes süteménnyel tálalva."
+          },
+          {
+            "name": "Bocadillók",
+            "tip": "Keressen egy bárt, amely bőségesen megrakott szendvicseket kínál egy gyors és laktató étkezéshez."
           }
         ],
         "ro": [
           {
-            "name": "Arroz con fesols i naps",
-            "tip": "Orez consistent cu fasole și napi."
+            "name": "Orxata amb fartons",
+            "tip": "O băutură locală răcoritoare din alune tigrate, servită cu produse de patiserie dulci."
+          },
+          {
+            "name": "Bocadillos",
+            "tip": "Căutați un bar care servește sandvișuri generoase pentru o masă rapidă și sățioasă."
           }
         ],
         "en": [
           {
-            "name": "Arroz con fesols i naps",
-            "tip": "Hearty rice with beans and turnips."
+            "name": "Orxata amb fartons",
+            "tip": "A refreshing local drink made from tiger nuts, served with sweet pastries."
+          },
+          {
+            "name": "Bocadillos",
+            "tip": "Look for a bar serving generous sandwiches for a quick and filling meal."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "El Vedat Waldwege",
-            "tip": "Perfekt für eine Pause im Schatten.",
+            "name": "Spaziergang in El Vedat",
+            "tip": "Abseits der Hauptwege finden Sie absolute Stille.",
             "emoji": "🌲"
+          },
+          {
+            "name": "Chalet de Trénor im Hort de Trénor",
+            "tip": "Ein ruhiger Anblick inmitten des Gartens.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "El Vedat erdei utak",
-            "tip": "Tökéletes pihenőhely az árnyékban.",
+            "name": "Séta El Vedatban",
+            "tip": "A fő ösvényektől távol teljes csendet talál.",
             "emoji": "🌲"
+          },
+          {
+            "name": "Chalet de Trénor a Hort de Trénorban",
+            "tip": "Csendes látvány a kert közepén.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Poteci forestiere El Vedat",
-            "tip": "Perfect pentru o pauză la umbră.",
+            "name": "Plimbare în El Vedat",
+            "tip": "Veți găsi liniște completă departe de potecile principale.",
             "emoji": "🌲"
+          },
+          {
+            "name": "Cabana de Trénor în Hort de Trénor",
+            "tip": "O priveliște liniștită în mijlocul grădinii.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "El Vedat Forest Trails",
-            "tip": "Perfect for a break in the shade.",
+            "name": "A walk in El Vedat",
+            "tip": "You'll find complete silence away from the main paths.",
             "emoji": "🌲"
+          },
+          {
+            "name": "Chalet de Trénor in Hort de Trénor",
+            "tip": "A quiet sight in the middle of the garden.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Xocolateria Artisana",
-            "tip": "Kaufen Sie handgemachte Schokolade als Souvenir."
+            "name": "Fahrradgeschäfte",
+            "tip": "Für alle Last-Minute-Bedürfnisse oder ein lokales Trikot."
+          },
+          {
+            "name": "Lokale Keramik",
+            "tip": "Halten Sie Ausschau nach handbemalter Keramik, einer Spezialität der Region."
           }
         ],
         "hu": [
           {
-            "name": "Kézműves csokoládébolt",
-            "tip": "Vásároljon kézműves csokoládét ajándékba."
+            "name": "Kerékpárboltok",
+            "tip": "Bármilyen utolsó pillanatban felmerülő igényre vagy egy helyi mezre."
+          },
+          {
+            "name": "Helyi kerámia",
+            "tip": "Keresse a kézzel festett kerámiát, a régió specialitását."
           }
         ],
         "ro": [
           {
-            "name": "Ciocolaterie Artizanală",
-            "tip": "Cumpărați ciocolată artizanală ca suvenir."
+            "name": "Magazine de biciclete",
+            "tip": "Pentru orice nevoi de ultim moment sau un tricou local."
+          },
+          {
+            "name": "Ceramică locală",
+            "tip": "Căutați ceramică pictată manual, o specialitate a regiunii."
           }
         ],
         "en": [
           {
-            "name": "Artisan Chocolate Shop",
-            "tip": "Buy handmade chocolate as a souvenir."
+            "name": "Bike shops",
+            "tip": "For any last-minute needs or a local jersey."
+          },
+          {
+            "name": "Local pottery",
+            "tip": "Look out for hand-painted ceramics, a regional specialty."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Strecke nach El Vedat weist einige Steigungen auf.",
-          "Tragen Sie ausreichend Wasser bei sich, besonders im Sommer.",
-          "Nutzen Sie die markierten Radwege in der Stadt.",
-          "In El Vedat gibt es viele schattige Picknickplätze."
+          "Überprüfen Sie den Reifendruck, bevor Sie losfahren.",
+          "Benutzen Sie ein starkes Schloss, besonders im Stadtzentrum.",
+          "Ein Helm wird dringend empfohlen, besonders für die Fahrt nach El Vedat."
         ],
         "hu": [
-          "Az El Vedat felé vezető úton vannak emelkedők.",
-          "Vigyen magával elegendő vizet, különösen nyáron.",
-          "Használja a városban kijelölt kerékpárutakat.",
-          "El Vedatban sok árnyékos piknikezőhely található."
+          "Indulás előtt ellenőrizze a guminyomást.",
+          "Használjon erős lakatot, különösen a városközpontban.",
+          "Sisak viselése erősen ajánlott, különösen az El Vedatba vezető úton."
         ],
         "ro": [
-          "Traseul spre El Vedat are câteva pante.",
-          "Aveți la voi suficientă apă, mai ales vara.",
-          "Folosiți pistele de biciclete marcate în oraș.",
-          "În El Vedat există multe locuri de picnic umbrite."
+          "Verificați presiunea anvelopelor înainte de a pleca.",
+          "Folosiți un lacăt puternic, mai ales în centrul orașului.",
+          "O cască este foarte recomandată, mai ales pentru drumul spre El Vedat."
         ],
         "en": [
-          "The route to El Vedat has some inclines.",
-          "Carry enough water, especially in summer.",
-          "Use the marked bike paths within the city.",
-          "There are many shaded picnic spots in El Vedat."
+          "Check your tire pressure before you leave.",
+          "Use a strong lock, especially in the city center.",
+          "A helmet is highly recommended, especially for the ride to El Vedat."
         ]
       },
       "variants": {
@@ -904,267 +996,339 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 14.2,
+      "end_estimate": "17:54",
+      "total_km": 11.2,
       "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Turm von Torrent (Cluster Zentrum)",
-            "hu": "Torrenti torony (Központi klaszter)",
-            "ro": "Turnul din Torrent (Cluster Centru)",
-            "en": "Tower of Torrent (Center Cluster)"
+          "name_4lang": {
+            "de": "Parken und Erkunden von El Vedat",
+            "hu": "Parkolás és El Vedat felfedezése",
+            "ro": "Parcați și explorați El Vedat",
+            "en": "Park and explore El Vedat"
           },
           "coords": [
-            -0.466,
-            39.437
+            -0.49,
+            39.42
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:10",
-          "stay_min": 70,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parken Sie am Plaza Mayor.",
-            "hu": "Parkoljon a Plaza Mayor környékén.",
-            "ro": "Parcați lângă Plaza Mayor.",
-            "en": "Park near Plaza Mayor."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche Mariä Himmelfahrt",
-            "hu": "Nagyboldogasszony-templom",
-            "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
-          },
-          "coords": [
-            -0.4655,
-            39.4375
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:25",
-          "stay_min": 35,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Nur 2 Minuten Fußweg vom Turm.",
-            "hu": "Csak 2 perc séta a toronytól.",
-            "ro": "La doar 2 minute de mers pe jos de turn.",
-            "en": "Just a 2-minute walk from the tower."
-          }
-        },
-        {
-          "name": {
-            "de": "Ethnologisches Museum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul de Etnologie",
-            "en": "Ethnological Museum"
-          },
-          "coords": [
-            -0.467,
-            39.4365
-          ],
-          "category": "museums",
-          "arrive_at": "11:10",
+          "category": "natural features",
+          "arrive_at": "09:27",
           "stay_min": 90,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Teil der Walking-Tour im Zentrum.",
-            "hu": "A központi gyalogos túra része.",
-            "ro": "Parte din turul pietonal din centru.",
-            "en": "Part of the center walking tour."
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Beginnen Sie mit einem Naturspaziergang. Parken Sie in der Nähe eines Wanderwegs.",
+            "hu": "Kezdje egy természetjáró sétával. Parkoljon egy turistaút közelében.",
+            "ro": "Începeți cu o plimbare în natură. Parcați lângă un traseu de drumeție.",
+            "en": "Start with a nature walk. Park near a hiking trail."
           }
         },
         {
-          "name": {
-            "de": "El Vedat de Torrent (Cluster Natur)",
-            "hu": "El Vedat (Természeti klaszter)",
-            "ro": "El Vedat (Cluster Natură)",
-            "en": "El Vedat (Nature Cluster)"
+          "name_4lang": {
+            "de": "Eremitage San Vicente Ferrer",
+            "hu": "San Vicente Ferrer remetelak",
+            "ro": "Schitul San Vicente Ferrer",
+            "en": "Hermitage of San Vicente Ferrer"
           },
           "coords": [
             -0.485,
             39.425
           ],
-          "category": "natural features",
-          "arrive_at": "13:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.2,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Genießen Sie den Panoramablick über die Region.",
-            "hu": "Élvezze a panorámát a régióra.",
-            "ro": "Bucurați-vă de panorama asupra regiunii.",
-            "en": "Enjoy the panorama over the region."
-          }
-        },
-        {
-          "name": {
-            "de": "Hort de Trénor (Cluster Garten)",
-            "hu": "Trénor-kert (Kerti klaszter)",
-            "ro": "Grădina Trénor (Cluster Grădină)",
-            "en": "Hort de Trénor (Garden Cluster)"
-          },
-          "coords": [
-            -0.461,
-            39.432
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:50",
-          "stay_min": 70,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.8,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Einfacher Zugang mit Parkmöglichkeiten.",
-            "hu": "Könnyen megközelíthető, jó parkolással.",
-            "ro": "Acces ușor cu posibilități de parcare.",
-            "en": "Easy access with parking possibilities."
-          }
-        },
-        {
-          "name": {
-            "de": "Chalet de Trénor",
-            "hu": "Trénor-villa",
-            "ro": "Vila Trénor",
-            "en": "Chalet de Trénor"
-          },
-          "coords": [
-            -0.4615,
-            39.4315
-          ],
-          "category": "famous residences",
-          "arrive_at": "16:10",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
           "hop_from_prev_km": 0.2,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Gleich neben dem Garten.",
-            "hu": "Közvetlenül a kert mellett.",
-            "ro": "Chiar lângă grădină.",
-            "en": "Right next to the garden."
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz zum ruhigen Heiligtum.",
+            "hu": "Rövid séta a parkolótól a csendes szentélyig.",
+            "ro": "O scurtă plimbare de la parcare la sanctuarul liniștit.",
+            "en": "A short walk from your parking spot to the quiet sanctuary."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Fahrt zum historischen Zentrum & Parken",
+            "hu": "Utazás a történelmi központba és parkolás",
+            "ro": "Conduceți spre centrul istoric și parcați",
+            "en": "Drive to historic center & Park"
+          },
+          "coords": [
+            -0.468,
+            39.438
+          ],
+          "category": "transport",
+          "arrive_at": "11:27",
+          "stay_min": 0,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Finden Sie einen öffentlichen Parkplatz; das Zentrum ist zu Fuß erreichbar.",
+            "hu": "Keressen egy nyilvános parkolót; a központ gyalogosan is elérhető.",
+            "ro": "Găsiți o parcare publică; centrul este accesibil pe jos.",
+            "en": "Find a public parking garage; the center is walkable."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Turm von Torrent",
+            "hu": "Torrenti torony",
+            "ro": "Turnul din Torrent",
+            "en": "Tower of Torrent"
+          },
+          "coords": [
+            -0.4665,
+            39.4378
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Parkplatz aus ist es nur ein kurzer Spaziergang zu diesem Wahrzeichen.",
+            "hu": "A parkolótól csak egy rövid séta ez a nevezetesség.",
+            "ro": "Este la o scurtă plimbare de parcare până la acest punct de reper.",
+            "en": "It's a short walk from the parking garage to this landmark."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Mariä Himmelfahrt & Mittagessen",
+            "hu": "Nagyboldogasszony-templom és ebéd",
+            "ro": "Biserica Adormirea Maicii Domnului și prânzul",
+            "en": "Church of the Assumption & Lunch"
+          },
+          "coords": [
+            -0.465,
+            39.4365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:21",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Besichtigen Sie die Kirche und finden Sie dann ein Restaurant in der Nähe zum Mittagessen.",
+            "hu": "Nézze meg a templomot, majd keressen egy közeli éttermet ebédre.",
+            "ro": "Vizitați biserica și apoi găsiți un restaurant în apropiere pentru prânz.",
+            "en": "Visit the church and then find a nearby restaurant for lunch."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Ethnologisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnologic",
+            "en": "Ethnological Museum"
+          },
+          "coords": [
+            -0.467,
+            39.4385
+          ],
+          "category": "museums",
+          "arrive_at": "14:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Der letzte Halt in diesem Rundgang, bevor es zurück zum Auto geht.",
+            "hu": "Az utolsó megálló ezen a sétaúton, mielőtt visszatérne az autóhoz.",
+            "ro": "Ultima oprire în acest tur pietonal înainte de a vă întoarce la mașină.",
+            "en": "The last stop on this walking cluster before heading back to the car."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Hort de Trénor und Chalet",
+            "hu": "Hort de Trénor és a villa",
+            "ro": "Hort de Trénor și cabana",
+            "en": "Hort de Trénor and Chalet"
+          },
+          "coords": [
+            -0.458,
+            39.439
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie zum Garten für einen entspannten Ausklang des Tages. Suchen Sie nach einem Parkplatz in der Nähe.",
+            "hu": "Vezessen el a kertbe egy pihentető nap lezárásaként. Keressen parkolót a közelben.",
+            "ro": "Conduceți spre grădină pentru un final de zi relaxant. Căutați parcare în apropiere.",
+            "en": "Drive to the garden for a relaxing end to the day. Look for nearby parking."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie das Auto für eine flexible Tour. Entdecken Sie zuerst das historische Zentrum zu Fuß (Turm, Kirche, Museum). Danach fahren Sie zum grünen Hügel El Vedat für eine Naturpause und beenden den Tag bei den Trénor-Gärten. Diese Route kombiniert kulturelles Erbe mit der natürlichen Schönheit der Horta Sud.",
-        "hu": "Használja az autót a rugalmas felfedezéshez. Először gyalogosan fedezze fel a központot (torony, templom, múzeum). Ezután hajtson fel El Vedat zöld dombjára egy kis természetre, majd zárja a napot a Trénor-kerteknél. Ez az útvonal ötvözi a kulturális örökséget Horta Sud természeti szépségével.",
-        "ro": "Folosiți mașina pentru un tur flexibil. Descoperiți mai întâi centrul istoric pe jos (turn, biserică, muzeu). Apoi mergeți la colina verde El Vedat pentru o pauză în natură și încheiați ziua la grădinile Trénor. Acest traseu combină moștenirea culturală cu frumusețea naturală din Horta Sud.",
-        "en": "Use the car for a flexible tour. First, discover the historic center on foot (tower, church, museum). Then drive up to the green hill of El Vedat for a nature break and finish the day at the Trénor gardens. This route combines cultural heritage with the natural beauty of Horta Sud."
+        "de": "Beginnen Sie Ihren Tag mit dem Auto im ruhigen El Vedat für einen Morgenspaziergang. Fahren Sie dann ins Zentrum von Torrent, parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß: den Turm, die Kirche und das Museum. Nach dem Mittagessen fahren Sie zu Ihrem letzten Ziel, den schönen Gärten von Hort de Trénor, um sich vor der Heimfahrt zu entspannen.",
+        "hu": "Kezdje a napot autóval a csendes El Vedatban egy reggeli sétával. Ezután vezessen Torrent központjába, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a tornyot, a templomot és a múzeumot. Ebéd után vezessen az utolsó állomáshoz, a gyönyörű Hort de Trénor kertekhez, hogy pihenjen a hazaút előtt.",
+        "ro": "Începeți ziua cu mașina în liniștitul El Vedat pentru o plimbare de dimineață. Apoi, conduceți spre centrul orașului Torrent, parcați mașina și explorați nucleul istoric pe jos: turnul, biserica și muzeul. După prânz, conduceți spre destinația finală, frumoasele grădini Hort de Trénor, pentru a vă relaxa înainte de a pleca acasă.",
+        "en": "Start your day by car in the tranquil El Vedat for a morning walk. Then, drive to the center of Torrent, park your car, and explore the historic core on foot: the tower, the church, and the museum. After lunch, drive to your final destination, the beautiful Hort de Trénor gardens, to relax before heading home."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Restaurante El Vedat",
-            "tip": "Probieren Sie Paella in waldnaher Umgebung."
+            "name": "Paella Valenciana",
+            "tip": "In der Nähe von Valencia ist dies ein Muss. Suchen Sie nach einem Restaurant, das es traditionell mit Kaninchen und Huhn zubereitet."
+          },
+          {
+            "name": "Cassola",
+            "tip": "Ein herzhafter Eintopf aus dem Ofen, oft mit Rippchen und Kartoffeln."
           }
         ],
         "hu": [
           {
-            "name": "Restaurante El Vedat",
-            "tip": "Kóstolja meg a paellát erdei környezetben."
+            "name": "Paella Valenciana",
+            "tip": "Valencia közelében ez kötelező. Keressen egy éttermet, amely hagyományosan nyúllal és csirkével készíti."
+          },
+          {
+            "name": "Cassola",
+            "tip": "Kiadós, kemencében sült egytálétel, gyakran bordával és burgonyával."
           }
         ],
         "ro": [
           {
-            "name": "Restaurante El Vedat",
-            "tip": "Gustați paella într-un cadru forestier."
+            "name": "Paella Valenciana",
+            "tip": "Fiind aproape de Valencia, aceasta este o necesitate. Căutați un restaurant care o prepară în mod tradițional cu iepure și pui."
+          },
+          {
+            "name": "Cassola",
+            "tip": "O tocană consistentă la cuptor, adesea cu coaste și cartofi."
           }
         ],
         "en": [
           {
-            "name": "Restaurante El Vedat",
-            "tip": "Try paella in a forest-side setting."
+            "name": "Paella Valenciana",
+            "tip": "Being close to Valencia, this is a must-try. Look for a restaurant that makes it traditionally with rabbit and chicken."
+          },
+          {
+            "name": "Cassola",
+            "tip": "A hearty oven-baked stew, often with ribs and potatoes."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Mirador de El Vedat",
-            "tip": "Panoramablick über das Mittelmeer-Becken.",
-            "emoji": "🌅"
+            "name": "Ein früher Morgen in El Vedat",
+            "tip": "Die beste Zeit für Vogelbeobachtung und Stille.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Chalet de Trénor",
+            "tip": "Stellen Sie sich das Leben im 19. Jahrhundert in dieser ruhigen Ecke vor.",
+            "emoji": "🏛️"
           }
         ],
         "hu": [
           {
-            "name": "El Vedat kilátó",
-            "tip": "Panorámás kilátás a földközi-tengeri medencére.",
-            "emoji": "🌅"
+            "name": "Kora reggel El Vedatban",
+            "tip": "A legjobb idő a madármegfigyelésre és a csendre.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Chalet de Trénor",
+            "tip": "Képzelje el a 19. századi életet ebben a csendes sarokban.",
+            "emoji": "🏛️"
           }
         ],
         "ro": [
           {
-            "name": "Mirador de El Vedat",
-            "tip": "Vedere panoramică asupra bazinului mediteranean.",
-            "emoji": "🌅"
+            "name": "O dimineață devreme în El Vedat",
+            "tip": "Cel mai bun moment pentru observarea păsărilor și liniște.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Cabana de Trénor",
+            "tip": "Imaginați-vă viața din secolul al XIX-lea în acest colț liniștit.",
+            "emoji": "🏛️"
           }
         ],
         "en": [
           {
-            "name": "Mirador de El Vedat",
-            "tip": "Panoramic view over the Mediterranean basin.",
-            "emoji": "🌅"
+            "name": "An early morning in El Vedat",
+            "tip": "The best time for birdwatching and quiet.",
+            "emoji": "🐦"
+          },
+          {
+            "name": "Chalet de Trénor",
+            "tip": "Imagine 19th-century life in this quiet corner.",
+            "emoji": "🏛️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Las Américas Shopping",
-            "tip": "Modernes Einkaufszentrum in der Nähe."
+            "name": "Handwerkerläden",
+            "tip": "Suchen Sie nach 'abanicos' (handbemalte Fächer) oder Lederwaren."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Informieren Sie sich über den Markttag für Kleidung, Haushaltswaren und lokale Atmosphäre."
           }
         ],
         "hu": [
           {
-            "name": "Las Américas Shopping",
-            "tip": "Modern bevásárlóközpont a közelben."
+            "name": "Kézműves boltok",
+            "tip": "Keressen 'abanicos'-t (kézzel festett legyezőket) vagy bőrárukat."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Nézze meg, melyik nap van a piac, ahol ruhákat, háztartási cikkeket és helyi hangulatot talál."
           }
         ],
         "ro": [
           {
-            "name": "Las Américas Shopping",
-            "tip": "Centru comercial modern în apropiere."
+            "name": "Magazine de artizanat",
+            "tip": "Căutați 'abanicos' (evantaie pictate manual) sau articole din piele."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Verificați ziua pieței pentru haine, articole de uz casnic și o atmosferă locală."
           }
         ],
         "en": [
           {
-            "name": "Las Américas Shopping",
-            "tip": "Modern shopping center nearby."
+            "name": "Artisan shops",
+            "tip": "Look for 'abanicos' (hand-painted fans) or leather goods."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Check for the market day for clothes, home goods, and a local vibe."
           }
         ]
       },
       "tips": {
         "de": [
-          "Das Zentrum ist teilweise für den Verkehr gesperrt, parken Sie außerhalb.",
-          "Die Fahrt nach El Vedat dauert nur 10 Minuten.",
-          "Parkplätze sind am Hort de Trénor meist gut verfügbar.",
-          "Besuchen Sie El Vedat zum Sonnenuntergang."
+          "Parken kann im Zentrum schwierig sein; Tiefgaragen sind die beste Wahl.",
+          "Achten Sie auf Einbahnstraßen in der Altstadt.",
+          "Planen Sie Ihre Route im Voraus, um Verkehr zu vermeiden."
         ],
         "hu": [
-          "A központ részben lezárt a forgalom elől, parkoljon kívül.",
-          "Az út El Vedatba mindössze 10 perc.",
-          "A Trénor-kertnél általában jól elérhető a parkolás.",
-          "Látogassa meg El Vedatot naplementekor."
+          "A parkolás nehézkes lehet a központban; a mélygarázsok a legjobb választás.",
+          "Vigyázzon az egyirányú utcákra az óvárosban.",
+          "Tervezze meg előre az útvonalat a forgalom elkerülése érdekében."
         ],
         "ro": [
-          "Centrul este parțial închis traficului, parcați în exterior.",
-          "Drumul spre El Vedat durează doar 10 minute.",
-          "Locurile de parcare sunt de obicei disponibile la Grădina Trénor.",
-          "Vizitați El Vedat la apus."
+          "Parcarea poate fi dificilă în centru; garajele subterane sunt cea mai bună opțiune.",
+          "Atenție la străzile cu sens unic din orașul vechi.",
+          "Planificați-vă traseul în avans pentru a evita traficul."
         ],
         "en": [
-          "The center is partially closed to traffic, park outside.",
-          "The drive to El Vedat takes only 10 minutes.",
-          "Parking is usually well available at Hort de Trénor.",
-          "Visit El Vedat at sunset."
+          "Parking can be difficult in the center; underground garages are your best bet.",
+          "Be aware of one-way streets in the old town.",
+          "Plan your route in advance to avoid traffic."
         ]
       },
       "variants": {
@@ -1372,243 +1536,315 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 8.5,
-      "stop_count": 5,
+      "end_estimate": "17:11",
+      "total_km": 5.4,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
+            "de": "Ankunft im Zentrum (Bus/Metro)",
+            "hu": "Érkezés a központba (busz/metró)",
+            "ro": "Sosire în centru (autobuz/metrou)",
+            "en": "Arrive in Center (Bus/Metro)"
+          },
+          "coords": [
+            -0.466,
+            39.437
+          ],
+          "category": "transport",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Our Lady"
+          },
+          "coords": [
+            -0.465,
+            39.4365
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nur einen kurzen Spaziergang von der Haltestelle entfernt.",
+            "hu": "Csak egy rövid séta a megállótól.",
+            "ro": "La o scurtă plimbare de stație.",
+            "en": "Just a short walk from the stop."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
             "en": "Tower of Torrent"
           },
           "coords": [
-            -0.466,
-            39.437
+            -0.4665,
+            39.4378
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "09:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nahe der Metrostation Torrent Avinguda.",
-            "hu": "Közel a Torrent Avinguda metróállomáshoz.",
-            "ro": "Aproape de stația de metrou Torrent Avinguda.",
-            "en": "Near the Torrent Avinguda metro station."
+          "arrive_at": "10:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Folgen Sie den Schildern durch die engen Gassen.",
+            "hu": "Kövesse a táblákat a szűk utcákon.",
+            "ro": "Urmați indicatoarele pe străzile înguste.",
+            "en": "Follow the signs through the narrow streets."
           }
         },
         {
-          "name": {
-            "de": "Ethnologisches Museum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul de Etnologie",
-            "en": "Ethnological Museum"
+          "name_4lang": {
+            "de": "Ethnologisches Museum und Mittagessen",
+            "hu": "Néprajzi Múzeum és ebéd",
+            "ro": "Muzeul Etnologic și prânzul",
+            "en": "Ethnological Museum and Lunch"
           },
           "coords": [
             -0.467,
-            39.4365
+            39.4385
           ],
           "category": "museums",
-          "arrive_at": "10:30",
-          "stay_min": 90,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "11:03",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Bequem zu Fuß vom Zentrum aus erreichbar.",
-            "hu": "Kényelmesen elérhető gyalog a központból.",
-            "ro": "Accesibil pe jos din centrul orașului.",
-            "en": "Easily accessible on foot from the center."
+          "tip_4lang": {
+            "de": "Kombinieren Sie den Museumsbesuch mit einem Mittagessen in einem nahegelegenen Restaurant.",
+            "hu": "Kombinálja a múzeumlátogatást egy ebéddel egy közeli étteremben.",
+            "ro": "Combinați vizita la muzeu cu prânzul la un restaurant din apropiere.",
+            "en": "Combine the museum visit with lunch at a nearby restaurant."
           }
         },
         {
-          "name": {
-            "de": "Hort de Trénor",
-            "hu": "Trénor-kert",
-            "ro": "Grădina Trénor",
-            "en": "Hort de Trénor"
+          "name_4lang": {
+            "de": "Fahrt zum Hort de Trénor",
+            "hu": "Utazás a Hort de Trénorhoz",
+            "ro": "Călătorie spre Hort de Trénor",
+            "en": "Trip to Hort de Trénor"
           },
           "coords": [
-            -0.461,
-            39.432
+            -0.458,
+            39.439
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "12:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
           "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nutzen Sie den lokalen Bus zur Gartenanlage.",
-            "hu": "Használja a helyi buszt a kerthez.",
-            "ro": "Folosiți autobuzul local către grădină.",
-            "en": "Use the local bus to reach the garden."
+          "tip_4lang": {
+            "de": "Nehmen Sie einen Bus, der in der Nähe des Gartens hält, für einen entspannten Nachmittag.",
+            "hu": "Vegyen egy buszt, amely a kert közelében áll meg egy pihentető délutánhoz.",
+            "ro": "Luați un autobuz care oprește lângă grădină pentru o după-amiază relaxantă.",
+            "en": "Take a bus that stops near the garden for a relaxing afternoon."
           }
         },
         {
-          "name": {
-            "de": "Kirche San Luis Beltrán",
-            "hu": "San Luis Beltrán-templom",
-            "ro": "Biserica San Luis Beltrán",
-            "en": "San Luis Beltrán Church"
+          "name_4lang": {
+            "de": "Chalet de Trénor",
+            "hu": "Chalet de Trénor",
+            "ro": "Cabana de Trénor",
+            "en": "Chalet de Trénor"
           },
           "coords": [
-            -0.462,
-            39.434
+            -0.457,
+            39.4385
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "13:30",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.5,
+          "category": "famous residences",
+          "arrive_at": "15:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
           "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Spaziergang durch die Wohnviertel.",
-            "hu": "Séta a lakónegyedeken keresztül.",
-            "ro": "Plimbare prin cartierele rezidențiale.",
-            "en": "Walk through the residential neighborhoods."
-          }
-        },
-        {
-          "name": {
-            "de": "El Vedat de Torrent",
-            "hu": "El Vedat",
-            "ro": "El Vedat",
-            "en": "El Vedat"
-          },
-          "coords": [
-            -0.485,
-            39.425
-          ],
-          "category": "natural features",
-          "arrive_at": "14:40",
-          "stay_min": 60,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 4.5,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Metro-Bus Verbindung in das Waldgebiet.",
-            "hu": "Metro-busz kapcsolat az erdős területre.",
-            "ro": "Conexiune metrou-autobuz către zona forestieră.",
-            "en": "Metro-bus connection to the forested area."
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang innerhalb des Gartens, um dieses historische Gebäude zu sehen.",
+            "hu": "Rövid séta a kerten belül, hogy megnézze ezt a történelmi épületet.",
+            "ro": "O scurtă plimbare în interiorul grădinii pentru a vedea această clădire istorică.",
+            "en": "A short walk within the garden to see this historic building."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Entdecken Sie Torrent mit den öffentlichen Verkehrsmitteln. Die Metro bringt Sie direkt ins Herz der Stadt zum historischen Turm. Mit lokalen Bussen erreichen Sie mühelos die Gärten von Trénor und das Naturgebiet El Vedat. Eine entspannte Art, die verschiedenen Facetten der Stadt ohne Parkplatzsuche zu erleben.",
-        "hu": "Fedezze fel Torrentet tömegközlekedéssel. A metró egyenesen a város szívébe, a történelmi toronyhoz viszi. Helyi buszokkal könnyedén elérheti a Trénor-kerteket és az El Vedat természeti területet. Pihentető módon ismerheti meg a város különböző arcait parkolási gondok nélkül.",
-        "ro": "Descoperiți Torrent cu transportul public. Metroul vă duce direct în inima orașului, la turnul istoric. Cu autobuzele locale puteți ajunge ușor la grădinile Trénor și la zona naturală El Vedat. Un mod relaxant de a experimenta diversele fațete ale orașului fără grija parcării.",
-        "en": "Discover Torrent by public transport. The metro takes you directly into the heart of the city to the historic tower. With local buses, you can easily reach the Trénor gardens and the El Vedat nature area. A relaxed way to experience the different facets of the city without parking worries."
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um direkt ins Herz von Torrent zu gelangen. Verbringen Sie den Vormittag damit, das historische Zentrum zu Fuß zu erkunden, einschließlich der Kirche, des Turms und des Museums. Nach dem Mittagessen bringt Sie ein kurzer Bus Sie zu den ruhigen Gärten von Hort de Trénor, wo Sie einen entspannten Nachmittag verbringen, bevor Sie Ihre Rückreise antreten.",
+        "hu": "Használja a tömegközlekedést, hogy közvetlenül Torrent szívébe jusson. Töltse a délelőttöt a történelmi központ gyalogos felfedezésével, beleértve a templomot, a tornyot és a múzeumot. Ebéd után egy rövid buszozás elviszi a csendes Hort de Trénor kertekhez, ahol egy pihentető délutánt tölthet, mielőtt visszaindulna.",
+        "ro": "Folosiți transportul public pentru a ajunge direct în inima orașului Torrent. Petreceți dimineața explorând centrul istoric pe jos, inclusiv biserica, turnul și muzeul. După prânz, o scurtă călătorie cu autobuzul vă va duce la grădinile liniștite Hort de Trénor pentru o după-amiază relaxantă înainte de a vă întoarce.",
+        "en": "Use public transport to get directly to the heart of Torrent. Spend the morning exploring the historic center on foot, including the church, tower, and museum. After lunch, a short bus ride will take you to the peaceful Hort de Trénor gardens for a relaxing afternoon before you head back."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bar El Museo",
-            "tip": "Lokale Tapas in authentischer Atmosphäre."
+            "name": "Menú del día",
+            "tip": "Suchen Sie nach Restaurants, die ein Mittagsmenü mit drei Gängen zu einem festen Preis anbieten. Ein gutes Preis-Leistungs-Verhältnis."
+          },
+          {
+            "name": "Tapas-Bars",
+            "tip": "Perfekt für eine leichte Mahlzeit oder einen Snack zwischen den Besichtigungen."
           }
         ],
         "hu": [
           {
-            "name": "Bar El Museo",
-            "tip": "Helyi tapasok autentikus környezetben."
+            "name": "Menú del día",
+            "tip": "Keressen olyan éttermeket, amelyek fix áras, háromfogásos ebédmenüt kínálnak. Jó ár-érték arány."
+          },
+          {
+            "name": "Tapas bárok",
+            "tip": "Tökéletes egy könnyű étkezéshez vagy harapnivalóhoz a látnivalók között."
           }
         ],
         "ro": [
           {
-            "name": "Bar El Museo",
-            "tip": "Tapas locale într-o atmosferă autentică."
+            "name": "Menú del día",
+            "tip": "Căutați restaurante care oferă un meniu de prânz cu trei feluri la preț fix. O valoare excelentă."
+          },
+          {
+            "name": "Baruri de tapas",
+            "tip": "Perfect pentru o masă ușoară sau o gustare între vizite."
           }
         ],
         "en": [
           {
-            "name": "Bar El Museo",
-            "tip": "Local tapas in an authentic atmosphere."
+            "name": "Menú del día",
+            "tip": "Look for restaurants offering a fixed-price three-course lunch menu. Great value."
+          },
+          {
+            "name": "Tapas bars",
+            "tip": "Perfect for a light meal or a snack between sights."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Plaça de l'Ermita",
-            "tip": "Ruhiger Platz für eine Pause zwischen den Fahrten.",
-            "emoji": "🧘"
+            "name": "Seitenstraßen der Altstadt",
+            "tip": "Verlieren Sie sich in den ruhigen Gassen abseits der Hauptplätze.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Eine Bank im Hort de Trénor",
+            "tip": "Hören Sie dem Plätschern der Brunnen zu.",
+            "emoji": "⛲"
           }
         ],
         "hu": [
           {
-            "name": "Plaça de l'Ermita",
-            "tip": "Csendes tér a megállók közötti pihenéshez.",
-            "emoji": "🧘"
+            "name": "Az óváros mellékutcái",
+            "tip": "Vesszen el a csendes sikátorokban, távol a fő terektől.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "Egy pad a Hort de Trénorban",
+            "tip": "Hallgassa a szökőkutak csobogását.",
+            "emoji": "⛲"
           }
         ],
         "ro": [
           {
-            "name": "Plaça de l'Ermita",
-            "tip": "Piață liniștită pentru o pauză între drumuri.",
-            "emoji": "🧘"
+            "name": "Străduțele secundare din orașul vechi",
+            "tip": "Pierdeți-vă pe aleile liniștite, departe de piețele principale.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "O bancă în Hort de Trénor",
+            "tip": "Ascultați susurul fântânilor.",
+            "emoji": "⛲"
           }
         ],
         "en": [
           {
-            "name": "Plaça de l'Ermita",
-            "tip": "Quiet square for a break between rides.",
-            "emoji": "🧘"
+            "name": "Side streets of the old town",
+            "tip": "Get lost in the quiet alleys away from the main squares.",
+            "emoji": "🤫"
+          },
+          {
+            "name": "A bench in Hort de Trénor",
+            "tip": "Listen to the sound of the fountains.",
+            "emoji": "⛲"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Avinguda al Vedat",
-            "tip": "Die Haupteinkaufsstraße mit vielen Geschäften."
+            "name": "Avenida al Vedat",
+            "tip": "Die Haupteinkaufsstraße mit bekannten Marken und lokalen Geschäften."
+          },
+          {
+            "name": "Kioske",
+            "tip": "Kaufen Sie eine lokale Zeitung oder ein Magazin als Souvenir."
           }
         ],
         "hu": [
           {
-            "name": "Avinguda al Vedat",
-            "tip": "A fő bevásárlóutca számos üzlettel."
+            "name": "Avenida al Vedat",
+            "tip": "A fő bevásárlóutca ismert márkákkal és helyi boltokkal."
+          },
+          {
+            "name": "Kioszkok",
+            "tip": "Vásároljon egy helyi újságot vagy magazint szuvenírként."
           }
         ],
         "ro": [
           {
-            "name": "Avinguda al Vedat",
-            "tip": "Principala stradă comercială cu multe magazine."
+            "name": "Avenida al Vedat",
+            "tip": "Principala stradă comercială cu mărci cunoscute și magazine locale."
+          },
+          {
+            "name": "Chioșcuri",
+            "tip": "Cumpărați un ziar sau o revistă locală ca suvenir."
           }
         ],
         "en": [
           {
-            "name": "Avinguda al Vedat",
-            "tip": "The main shopping street with many stores."
+            "name": "Avenida al Vedat",
+            "tip": "The main shopping street with known brands and local shops."
+          },
+          {
+            "name": "Kiosks",
+            "tip": "Buy a local newspaper or magazine as a souvenir."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine Metrovalencia-Karte für kombinierte Fahrten.",
-          "Die Linien 2 und 7 verbinden Torrent mit Valencia.",
-          "Busfahrpläne hängen an den Hauptstationen aus.",
-          "Die Station 'Torrent Avinguda' ist der beste Ausgangspunkt."
+          "Validieren Sie Ihr Ticket bei jeder Fahrt.",
+          "Die Metrovalencia-App ist nützlich für die Planung von Routen und die Überprüfung von Fahrplänen.",
+          "Beachten Sie die letzte Abfahrtszeit, um nicht stecken zu bleiben."
         ],
         "hu": [
-          "Vásároljon Metrovalencia kártyát a kombinált utazásokhoz.",
-          "A 2-es és 7-es vonal köti össze Torrentet Valenciával.",
-          "A buszmenetrendek ki vannak függesztve a főbb megállókban.",
-          "A 'Torrent Avinguda' állomás a legjobb kiindulópont."
+          "Érvényesítse a jegyét minden utazáskor.",
+          "A Metrovalencia alkalmazás hasznos az útvonaltervezéshez és a menetrendek ellenőrzéséhez.",
+          "Figyeljen az utolsó indulási időpontra, hogy ne ragadjon ott."
         ],
         "ro": [
-          "Cumpărați un card Metrovalencia pentru călătorii combinate.",
-          "Liniile 2 și 7 conectează Torrent de Valencia.",
-          "Orarele autobuzelor sunt afișate în stațiile principale.",
-          "Stația 'Torrent Avinguda' este cel mai bun punct de plecare."
+          "Validați biletul la fiecare călătorie.",
+          "Aplicația Metrovalencia este utilă pentru planificarea rutelor și verificarea orarelor.",
+          "Fiți atenți la ora ultimului tren pentru a nu rămâne blocat."
         ],
         "en": [
-          "Buy a Metrovalencia card for combined travel.",
-          "Lines 2 and 7 connect Torrent with Valencia.",
-          "Bus schedules are posted at the main stations.",
-          "The 'Torrent Avinguda' station is the best starting point."
+          "Validate your ticket each time you ride.",
+          "The Metrovalencia app is useful for planning routes and checking schedules.",
+          "Be mindful of the last departure time to avoid getting stranded."
         ]
       },
       "variants": {

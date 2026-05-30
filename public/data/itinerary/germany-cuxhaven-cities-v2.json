@@ -1,0 +1,1068 @@
+{
+  "city_id": "germany-cuxhaven-cities-v2",
+  "anchor": {
+    "name": "Cuxhaven Zentrum",
+    "coords": [
+      8.69,
+      53.85
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ritzebüttel",
+            "hu": "Ritzebüttel-kastély",
+            "ro": "Castelul Ritzebüttel",
+            "en": "Ritzebüttel Castle"
+          },
+          "coords": [
+            8.701,
+            53.858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Schlossgarten für eine ruhige Pause am Morgen.",
+            "hu": "A kastélykert reggel a legnyugodtabb egy rövid sétához.",
+            "ro": "Grădina castelului este ideală pentru o pauză liniștită dimineața.",
+            "en": "The castle garden is perfect for a quiet morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Joachim-Ringelnatz-Museum",
+            "hu": "Joachim Ringelnatz Múzeum",
+            "ro": "Muzeul Joachim Ringelnatz",
+            "en": "Joachim Ringelnatz Museum"
+          },
+          "coords": [
+            8.702,
+            53.861
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die skurrile Welt des Dichters und Malers.",
+            "hu": "Fedezze fel a költő és festő különc világát.",
+            "ro": "Descoperiți lumea bizară a poetului și pictorului.",
+            "en": "Discover the quirky world of the poet and painter."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Liebe",
+            "hu": "Alte Liebe móló",
+            "ro": "Pontonul Alte Liebe",
+            "en": "Alte Liebe Pier"
+          },
+          "coords": [
+            8.712,
+            53.871
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Hören Sie den Ansagen des Schiffsansagedienstes zu.",
+            "hu": "Hallgassa meg az elhaladó hajókról szóló tájékoztatót.",
+            "ro": "Ascultați anunțurile despre navele care trec prin port.",
+            "en": "Listen to the ship announcing service about passing vessels."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Harbor"
+          },
+          "coords": [
+            8.711,
+            53.869
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Nordseekrabben direkt vom Kutter.",
+            "hu": "Kóstolja meg a friss északi-tengeri rákot közvetlenül a hajóról.",
+            "ro": "Încercați creveții proaspeți din Marea Nordului direct de pe barcă.",
+            "en": "Try fresh North Sea shrimp directly from the cutter."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerschiff Elbe 1",
+            "hu": "Elbe 1 világítóhajó",
+            "ro": "Nava-far Elbe 1",
+            "en": "Lightship Elbe 1"
+          },
+          "coords": [
+            8.713,
+            53.872
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den Maschinenraum und die Brücke.",
+            "hu": "Nézze meg a gépházat és a kapitányi hidat.",
+            "ro": "Vizitați camera motoarelor și puntea de comandă.",
+            "en": "Visit the engine room and the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade",
+            "hu": "Kikötői sétány",
+            "ro": "Promenada portului",
+            "en": "Harbor Promenade"
+          },
+          "coords": [
+            8.708,
+            53.866
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Nordsee zum Abschluss.",
+            "hu": "Élvezze az északi-tengeri kilátást a nap végén.",
+            "ro": "Bucurați-vă de vederea spre Marea Nordului la finalul zilei.",
+            "en": "Enjoy the North Sea view to wrap up your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Cuxhaven beim Schloss Ritzebüttel. Nach einem kulturellen Vormittag spazieren Sie Richtung Hafen zur berühmten 'Alten Liebe'. Mittags genießen Sie frischen Fisch, bevor Sie das beeindruckende Feuerschiff Elbe 1 erkunden. Ein entspannter Spaziergang an der Hafenpromenade rundet das maritime Erlebnis ab.",
+        "hu": "A nap a történelmi központban indul a Ritzebüttel-kastélynál. Egy kulturális délelőtt után a kikötő felé vesszük az irányt a híres 'Alte Liebe' mólóhoz. Ebédre friss halat választhatunk, majd felfedezzük az Elbe 1 világítóhajót. A napot egy kellemes tengerparti séta zárja a kikötői sétányon.",
+        "ro": "Ziua începe în centrul istoric al orașului Cuxhaven, la Castelul Ritzebüttel. După o dimineață culturală, mergeți spre port către celebrul debarcader 'Alte Liebe'. La prânz savurați pește proaspăt, înainte de a explora impresionanta navă-far Elbe 1. O plimbare relaxantă pe promenada portului completează experiența maritimă.",
+        "en": "Your day starts in Cuxhaven's historic center at Ritzebüttel Castle. After a cultural morning, walk towards the harbor to the famous 'Alte Liebe' pier. Enjoy fresh fish for lunch before exploring the impressive lightship Elbe 1. A relaxed stroll along the harbor promenade perfectly concludes your maritime experience."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischbörse Cuxhaven",
+            "tip": "Frische Fischbrötchen direkt am Wasser."
+          },
+          {
+            "name": "Krabben-Spezialitäten",
+            "tip": "Probieren Sie Nordseekrabben mit Rührei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fischbörse Cuxhaven",
+            "tip": "Friss halas zsemle közvetlenül a víznél."
+          },
+          {
+            "name": "Krabben-Spezialitäten",
+            "tip": "Északi-tengeri rák rántottával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fischbörse Cuxhaven",
+            "tip": "Sandwich-uri proaspete cu pește chiar lângă apă."
+          },
+          {
+            "name": "Krabben-Spezialitäten",
+            "tip": "Încercați creveții cu omletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fischbörse Cuxhaven",
+            "tip": "Fresh fish rolls right by the water."
+          },
+          {
+            "name": "Krabben-Spezialitäten",
+            "tip": "Try North Sea shrimp with scrambled eggs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ruhige Oase abseits der Hafenhektik.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Alte Liebe",
+            "tip": "Abends Blick auf die Elbmündung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélykert",
+            "tip": "Csendes oázis a kikötői nyüzsgéstől távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Alte Liebe",
+            "tip": "Esti kilátás az Elba torkolatára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Oază de liniște departe de agitația portului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Alte Liebe",
+            "tip": "Vedere de seară asupra gurii de vărsare a Elbei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "Quiet oasis away from the harbor hustle.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Alte Liebe",
+            "tip": "Evening view of the Elbe estuary.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hafenshop",
+            "tip": "Maritime Souvenirs und Buddelschiffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hafenshop",
+            "tip": "Tengeri szuvenírek és palackba zárt hajók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hafenshop",
+            "tip": "Suveniruri maritime și corăbii în sticlă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hafenshop",
+            "tip": "Maritime souvenirs and ships in a bottle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie windfeste Kleidung, es zieht am Hafen oft.",
+          "Die 'Alte Liebe' ist kostenlos zugänglich.",
+          "Achten Sie auf die Ansagen der vorbeifahrenden Schiffe."
+        ],
+        "hu": [
+          "Viseljen szélálló ruhát, a kikötőben gyakran erős a szél.",
+          "Az 'Alte Liebe' móló ingyenesen látogatható.",
+          "Figyelje a bemondásokat az elhaladó nagy hajókról."
+        ],
+        "ro": [
+          "Purtați haine rezistente la vânt, în port suflă des.",
+          "Debarcaderul 'Alte Liebe' are acces gratuit.",
+          "Fiți atenți la anunțurile despre navele mari care trec pe lângă."
+        ],
+        "en": [
+          "Wear windproof clothing, it's often breezy at the harbor.",
+          "The 'Alte Liebe' pier is free to access.",
+          "Listen for announcements about the large passing ships."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Liebe",
+            "hu": "Alte Liebe móló",
+            "ro": "Alte Liebe",
+            "en": "Alte Liebe"
+          },
+          "coords": [
+            8.712,
+            53.871
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt mit Blick auf die Elbe.",
+            "hu": "Kiindulópont kilátással az Elbára.",
+            "ro": "Punct de plecare cu vedere la Elba.",
+            "en": "Starting point with a view of the Elbe."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Kugelbake",
+            "hu": "Kugelbake erőd",
+            "ro": "Fortul Kugelbake",
+            "en": "Fort Kugelbake"
+          },
+          "coords": [
+            8.691,
+            53.891
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Historische Marinefestung.",
+            "hu": "Történelmi tengerészeti erőd.",
+            "ro": "Fortăreață navală istorică.",
+            "en": "Historic naval fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Kugelbake",
+            "hu": "Kugelbake jelzőtorony",
+            "ro": "Kugelbake",
+            "en": "Kugelbake"
+          },
+          "coords": [
+            8.689,
+            53.892
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Cuxhaven.",
+            "hu": "Cuxhaven jelképe.",
+            "ro": "Simbolul orașului Cuxhaven.",
+            "en": "The landmark of Cuxhaven."
+          }
+        },
+        {
+          "name": {
+            "de": "Duhner Strand",
+            "hu": "Duhner strand",
+            "ro": "Plaja Duhnen",
+            "en": "Duhner Strand"
+          },
+          "coords": [
+            8.642,
+            53.884
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause am Meer.",
+            "hu": "Tökéletes pihenőhely a tengernél.",
+            "ro": "Perfect pentru o pauză la malul mării.",
+            "en": "Perfect for a break by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Wattenmeer-Besucherzentrum",
+            "hu": "Watt-tenger látogatóközpont",
+            "ro": "Centrul de vizitare Wadden",
+            "en": "Wadden Sea Center"
+          },
+          "coords": [
+            8.641,
+            53.885
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lernen Sie alles über Ebbe und Flut.",
+            "hu": "Tudjon meg mindent az ár-apály jelenségről.",
+            "ro": "Învățați totul despre flux și reflux.",
+            "en": "Learn everything about the tides."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ritzebüttel",
+            "hu": "Ritzebüttel-kastély",
+            "ro": "Castelul Ritzebüttel",
+            "en": "Ritzebüttel Castle"
+          },
+          "coords": [
+            8.701,
+            53.858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Abschluss im grünen Schlosspark.",
+            "hu": "Zárás a zöld kastélyparkban.",
+            "ro": "Final în parcul verde al castelului.",
+            "en": "Conclusion in the green castle park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Küste von Cuxhaven. Sie starten an der 'Alten Liebe' und radeln zum historischen Fort Kugelbake sowie zum ikonischen Holzturm Kugelbake. Nach einer Pause am Duhner Strand besuchen Sie das Wattenmeer-Besucherzentrum, bevor es zurück zum Schloss Ritzebüttel geht.",
+        "hu": "Ez a kerékpártúra Cuxhaven partvidékén vezet végig. Az 'Alte Liebe'-től indulva a Kugelbake erődhöz és az ikonikus fa jelzőtoronyhoz tekerünk. A Duhner strandnál tartott pihenő után a látogatóközpontba megyünk, majd visszakerekezünk a kastélyhoz.",
+        "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei orașului Cuxhaven. Începeți la 'Alte Liebe' și pedalați către Fortul Kugelbake și iconicul turn de lemn Kugelbake. După o pauză pe plaja Duhnen, vizitați centrul Wadden înainte de a reveni la castel.",
+        "en": "This bike tour takes you along the Cuxhaven coast. Start at 'Alte Liebe' and cycle to the historic Fort Kugelbake and the iconic wooden Kugelbake tower. After a break at Duhner Strand, visit the Wadden Sea center before heading back to the castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Duhner Fischhus",
+            "tip": "Frische Fischspezialitäten in Strandnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duhner Fischhus",
+            "tip": "Friss halspecialitások a strand közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Duhner Fischhus",
+            "tip": "Specialități de pește lângă plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duhner Fischhus",
+            "tip": "Fresh fish specialties near the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kugelbake",
+            "tip": "Genießen Sie die Weite des Meeres.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kugelbake",
+            "tip": "Élvezze a tenger végtelenségét.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kugelbake",
+            "tip": "Bucurați-vă de imensitatea mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kugelbake",
+            "tip": "Enjoy the vastness of the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Duhner Meile",
+            "tip": "Kleine Läden für Strandbedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duhner Meile",
+            "tip": "Kis boltok strandfelszereléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Duhner Meile",
+            "tip": "Magazine mici pentru articole de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duhner Meile",
+            "tip": "Small shops for beach supplies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Radweg am Deich ist flach und gut befestigt.",
+          "Achten Sie auf Fußgänger an der Promenade."
+        ],
+        "hu": [
+          "A gáton lévő kerékpárút sík és jól kiépített.",
+          "Figyeljen a gyalogosokra a sétányon."
+        ],
+        "ro": [
+          "Pista de biciclete de pe dig este plată și bine amenajată.",
+          "Atenție la pietoni pe promenadă."
+        ],
+        "en": [
+          "The bike path on the dike is flat and well-paved.",
+          "Watch out for pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ritzebüttel",
+            "hu": "Ritzebüttel-kastély",
+            "ro": "Castelul Ritzebüttel",
+            "en": "Ritzebüttel Castle"
+          },
+          "coords": [
+            8.701,
+            53.858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Schloss.",
+            "hu": "Parkoljon közvetlenül a kastélynál.",
+            "ro": "Parcați chiar lângă castel.",
+            "en": "Park directly at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Joachim-Ringelnatz-Museum",
+            "hu": "Joachim Ringelnatz Múzeum",
+            "ro": "Muzeul Joachim Ringelnatz",
+            "en": "Joachim Ringelnatz Museum"
+          },
+          "coords": [
+            8.702,
+            53.861
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Schloss.",
+            "hu": "Rövid séta a kastélytól.",
+            "ro": "O scurtă plimbare de la castel.",
+            "en": "A short walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Liebe",
+            "hu": "Alte Liebe móló",
+            "ro": "Alte Liebe",
+            "en": "Alte Liebe"
+          },
+          "coords": [
+            8.712,
+            53.871
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Fährhafen.",
+            "hu": "Nagy parkoló a kompkikötőnél.",
+            "ro": "Parcare mare la portul de feribot.",
+            "en": "Large parking lot at the ferry port."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerschiff Elbe 1",
+            "hu": "Elbe 1 világítóhajó",
+            "ro": "Nava-far Elbe 1",
+            "en": "Lightship Elbe 1"
+          },
+          "coords": [
+            8.713,
+            53.872
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Alten Liebe.",
+            "hu": "Csak pár lépés az Alte Liebe-től.",
+            "ro": "La doar câțiva pași de Alte Liebe.",
+            "en": "Just a few steps from Alte Liebe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kugelbake",
+            "hu": "Kugelbake jelzőtorony",
+            "ro": "Kugelbake",
+            "en": "Kugelbake"
+          },
+          "coords": [
+            8.689,
+            53.892
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wahrzeichen am nördlichsten Punkt.",
+            "hu": "Jelzőtorony a legészakibb ponton.",
+            "ro": "Simbol la cel mai nordic punct.",
+            "en": "Landmark at the northernmost point."
+          }
+        },
+        {
+          "name": {
+            "de": "Duhner Strand",
+            "hu": "Duhner strand",
+            "ro": "Plaja Duhnen",
+            "en": "Duhner Strand"
+          },
+          "coords": [
+            8.642,
+            53.884
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Duhner Zentrum.",
+            "hu": "Parkoljon Duhnen központjában.",
+            "ro": "Parcați în centrul stațiunii Duhnen.",
+            "en": "Park in the center of Duhnen."
+          }
+        },
+        {
+          "name": {
+            "de": "Wattenmeer-Besucherzentrum",
+            "hu": "Látogatóközpont",
+            "ro": "Centrul Wadden",
+            "en": "Wadden Center"
+          },
+          "coords": [
+            8.641,
+            53.885
+          ],
+          "category": "museums",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Strand erreichbar.",
+            "hu": "Gyalog elérhető a strandtól.",
+            "ro": "Accesibil pe jos de la plajă.",
+            "en": "Accessible on foot from the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Cuxhaven in Clustern. Zuerst das historische Zentrum (Schloss & Museum), dann der Hafenbereich (Alte Liebe & Elbe 1) und schließlich der Duhner Strand mit dem Wattenmeer-Besucherzentrum. So sparen Sie Laufwege und sehen alles Wichtige.",
+        "hu": "Autóval csoportosítva fedezzük fel Cuxhaven nevezetességeit. Először a történelmi központot (kastély és múzeum), majd a kikötőt (Alte Liebe és Elbe 1), végül a Duhner strandot és a látogatóközpontot érintjük. Így kényelmesen mindent láthatunk.",
+        "ro": "Cu mașina descoperiți atracțiile din Cuxhaven în grupuri. Mai întâi centrul istoric (Castelul și Muzeul), apoi zona portului (Alte Liebe și Elbe 1) și în final plaja Duhnen cu centrul Wadden. Astfel economisiți timp și vedeți tot ce este important.",
+        "en": "By car, you'll discover Cuxhaven's highlights in clusters. First the historic center (Castle & Museum), then the harbor area (Alte Liebe & Elbe 1), and finally Duhner Strand with the Wadden Sea Center. This way you minimize walking and see everything essential."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seelust",
+            "tip": "Restaurant mit Meerblick in Duhnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seelust",
+            "tip": "Étterem tengeri kilátással Duhnenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seelust",
+            "tip": "Restaurant cu vedere la mare în Duhnen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seelust",
+            "tip": "Restaurant with sea view in Duhnen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wattenmeer",
+            "tip": "Stille bei Ebbe weit draußen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wattenmeer",
+            "tip": "Csend apály idején a távolban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wattenmeer",
+            "tip": "Liniște la reflux departe în larg.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wadden Sea",
+            "tip": "Silence at low tide far out.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cuxhaven Zentrum",
+            "tip": "Fußgängerzone mit vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cuxhaven Zentrum",
+            "tip": "Sétálóutca számos üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cuxhaven Zentrum",
+            "tip": "Zonă pietonală cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cuxhaven Center",
+            "tip": "Pedestrian zone with many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren sind fast überall fällig.",
+          "Nutzen Sie Park-and-Ride bei hohem Andrang im Sommer."
+        ],
+        "hu": [
+          "Szinte mindenhol kell parkolási díjat fizetni.",
+          "Nyáron nagy tömeg esetén használja a P+R parkolókat."
+        ],
+        "ro": [
+          "Taxele de parcare sunt obligatorii aproape peste tot.",
+          "Folosiți parcările P+R în timpul aglomerației de vară."
+        ],
+        "en": [
+          "Parking fees apply almost everywhere.",
+          "Use Park-and-Ride during high summer crowds."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ritzebüttel",
+            "hu": "Ritzebüttel-kastély",
+            "ro": "Castelul Ritzebüttel",
+            "en": "Ritzebüttel Castle"
+          },
+          "coords": [
+            8.701,
+            53.858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Schloßgarten'.",
+            "hu": "Megálló a 'Schloßgarten'-nél.",
+            "ro": "Stația de autobuz 'Schloßgarten'.",
+            "en": "Bus stop 'Schloßgarten'."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Liebe",
+            "hu": "Alte Liebe móló",
+            "ro": "Alte Liebe",
+            "en": "Alte Liebe"
+          },
+          "coords": [
+            8.712,
+            53.871
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus zum Fährhafen.",
+            "hu": "Busszal a kompkikötőhöz.",
+            "ro": "Cu autobuzul la portul de feribot.",
+            "en": "By bus to the ferry port."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerschiff Elbe 1",
+            "hu": "Elbe 1 világítóhajó",
+            "ro": "Nava-far Elbe 1",
+            "en": "Lightship Elbe 1"
+          },
+          "coords": [
+            8.713,
+            53.872
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich neben der Alten Liebe.",
+            "hu": "Közvetlenül az Alte Liebe mellett.",
+            "ro": "Chiar lângă Alte Liebe.",
+            "en": "Right next to Alte Liebe."
+          }
+        },
+        {
+          "name": {
+            "de": "Duhner Strand",
+            "hu": "Duhner strand",
+            "ro": "Plaja Duhnen",
+            "en": "Duhner Strand"
+          },
+          "coords": [
+            8.642,
+            53.884
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Buslinie 1001 Richtung Duhnen.",
+            "hu": "1001-es busz Duhnen felé.",
+            "ro": "Linia de autobuz 1001 spre Duhnen.",
+            "en": "Bus line 1001 towards Duhnen."
+          }
+        },
+        {
+          "name": {
+            "de": "Wattenmeer-Besucherzentrum",
+            "hu": "Látogatóközpont",
+            "ro": "Centrul Wadden",
+            "en": "Wadden Center"
+          },
+          "coords": [
+            8.641,
+            53.885
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Strand.",
+            "hu": "Rövid séta a strandtól.",
+            "ro": "Scurtă plimbare de la plajă.",
+            "en": "Short walk from the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das gut ausgebaute Busnetz von Cuxhaven. Sie starten kulturell im Zentrum, besuchen dann den maritimen Hafenbereich und fahren schließlich bequem mit dem Bus ins Urlauberzentrum Duhnen zum Strand und zum Wattenmeer-Besucherzentrum.",
+        "hu": "Használja Cuxhaven jól kiépített buszhálózatát. Kulturális kezdés után a központban, a kikötő felé vesszük az irányt, majd busszal kényelmesen átmegyünk Duhnenbe a strandhoz és a látogatóközponthoz.",
+        "ro": "Folosiți rețeaua de autobuze bine dezvoltată din Cuxhaven. Începeți cultural în centru, vizitați apoi zona portului și mergeți confortabil cu autobuzul în stațiunea Duhnen, la plajă și la centrul Wadden.",
+        "en": "Take advantage of Cuxhaven's well-developed bus network. Start with culture in the center, visit the maritime harbor area, and then ride comfortably to the tourist hub of Duhnen for the beach and the Wadden Sea center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscafé am Brunnen",
+            "tip": "Beliebtes Eis in Duhnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eiscafé am Brunnen",
+            "tip": "Népszerű fagylaltozó Duhnenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eiscafé am Brunnen",
+            "tip": "Înghețată populară în Duhnen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eiscafé am Brunnen",
+            "tip": "Popular ice cream in Duhnen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deichspaziergang",
+            "tip": "Ruhige Momente mit Seeluft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Séta a gáton",
+            "tip": "Csendes pillanatok tengeri levegővel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe dig",
+            "tip": "Momente de liniște cu aer marin.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dike Walk",
+            "tip": "Quiet moments with sea air.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Einkaufen nahe dem Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Vásárlás a vasútállomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Cumpărături lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Shopping near the train station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus.",
+          "Die Busse fahren im Sommer sehr regelmäßig."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "Nyáron a buszok nagyon sűrűn járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Autobuzele circulă foarte regulat în timpul verii."
+        ],
+        "en": [
+          "Buy a day ticket for the bus.",
+          "Buses run very regularly during the summer."
+        ]
+      }
+    }
+  }
+}

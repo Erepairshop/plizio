@@ -1,0 +1,1075 @@
+{
+  "city_id": "germany-cloppenburg-cities-v2",
+  "anchor": {
+    "name": "Cloppenburger Rathaus",
+    "coords": [
+      52.848,
+      8.044
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cloppenburger Rathaus",
+            "hu": "Cloppenburgi Városháza",
+            "ro": "Primăria din Cloppenburg",
+            "en": "Cloppenburg Town Hall"
+          },
+          "coords": [
+            8.044,
+            52.848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur im Kontrast zur Altstadt.",
+            "hu": "Csodálja meg a modern építészetet az óvárosi környezetben.",
+            "ro": "Admirați arhitectura modernă în contrast cu orașul vechi.",
+            "en": "Admire the modern architecture contrasting with the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andreas Church"
+          },
+          "coords": [
+            8.043,
+            52.847
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die barocke Innenausstattung ist besonders sehenswert.",
+            "hu": "A barokk belső díszítés különösen figyelemre méltó.",
+            "ro": "Interiorul baroc este deosebit de spectaculos.",
+            "en": "The baroque interior decoration is particularly worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Amtsgericht Cloppenburg",
+            "hu": "Cloppenburgi Járásbíróság",
+            "ro": "Tribunalul din Cloppenburg",
+            "en": "Cloppenburg District Court"
+          },
+          "coords": [
+            8.042,
+            52.846
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein prächtiger Backsteinbau aus dem 19. Jahrhundert.",
+            "hu": "Egy pompás 19. századi téglaépület.",
+            "ro": "O clădire magnifică din cărămidă din secolul al XIX-lea.",
+            "en": "A magnificent 19th-century brick building."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsdorf Cloppenburg",
+            "hu": "Cloppenburgi Falumúzeum",
+            "ro": "Satul-Muzeu Cloppenburg",
+            "en": "Cloppenburg Museum Village"
+          },
+          "coords": [
+            8.048,
+            52.853
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Bäckerei für frisches Brot.",
+            "hu": "Látogasson el a történelmi pékségbe friss kenyérért.",
+            "ro": "Vizitați brutăria istorică pentru pâine proaspătă.",
+            "en": "Visit the historic bakery for fresh bread."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Cloppenburg",
+            "hu": "Cloppenburgi Városliget",
+            "ro": "Parcul Orașului Cloppenburg",
+            "en": "Cloppenburg City Park"
+          },
+          "coords": [
+            8.045,
+            52.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Wasser.",
+            "hu": "Ideális egy pihentető sétához a vízparton.",
+            "ro": "Ideal pentru o plimbare relaxantă pe malul apei.",
+            "en": "Ideal for a relaxing stroll by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturbahnhof",
+            "hu": "Kultúrállomás",
+            "ro": "Gara Culturală",
+            "en": "Kulturbahnhof"
+          },
+          "coords": [
+            8.052,
+            52.845
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie das aktuelle Programm für lokale Ausstellungen.",
+            "hu": "Ellenőrizze az aktuális programot a helyi kiállításokért.",
+            "ro": "Verificați programul actual pentru expoziții locale.",
+            "en": "Check the current program for local exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im modernen Herzen von Cloppenburg am Rathaus und besuchen Sie die prachtvolle St. Andreas Kirche. Am späten Vormittag tauchen Sie im berühmten Museumsdorf in die ländliche Geschichte ein. Nach einem deftigen Mittagessen bietet der Stadtpark Ruhe, bevor Sie den Tag kulturell im Kulturbahnhof ausklingen lassen.",
+        "hu": "Kezdje a napot Cloppenburg modern szívében, a Városházánál, majd látogasson el a pompás Szent András-templomba. Késő délelőtt merüljön el a vidéki történelemben a híres Falumúzeumban. Egy bőséges ebéd után a városliget nyújt kikapcsolódást, mielőtt a napot kulturális programmal zárná a Kultúrállomáson.",
+        "ro": "Începeți ziua în inima modernă a orașului Cloppenburg, la Primărie, și vizitați magnifica Biserică Sf. Andrei. Mai târziu, scufundați-vă în istoria rurală la faimosul Sat-Muzeu. După un prânz copios, parcul orașului oferă liniște, înainte de a încheia ziua cultural la Gara Culturală.",
+        "en": "Start your day in the modern heart of Cloppenburg at the Town Hall and visit the magnificent St. Andreas Church. In the late morning, immerse yourself in rural history at the famous Museum Village. After a hearty lunch, the city park offers tranquility before ending the day culturally at the Kulturbahnhof."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Museumskrug",
+            "tip": "Probieren Sie Grünkohl mit Pinkel im historischen Ambiente."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Regionale Küche direkt am Stadtpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Museumskrug",
+            "tip": "Kóstolja meg a Grünkohl mit Pinkel-t történelmi környezetben."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Regionális konyha közvetlenül a Városligetnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Museumskrug",
+            "tip": "Încercați Grünkohl mit Pinkel într-o ambianță istorică."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Bucătărie regională chiar lângă parcul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museumskrug",
+            "tip": "Try Grünkohl mit Pinkel in a historical atmosphere."
+          },
+          {
+            "name": "Haus am See",
+            "tip": "Regional cuisine right next to the city park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Teiche",
+            "tip": "Stille Momente am Wasser genießen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Andreas Innenraum",
+            "tip": "Ort der spirituellen Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városligeti tavak",
+            "tip": "Élvezze a csendes pillanatokat a víznél.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent András belső tér",
+            "tip": "A spirituális nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazurile din parcul orașului",
+            "tip": "Bucurați-vă de momente de liniște lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Interiorul Sf. Andrei",
+            "tip": "Loc de liniște spirituală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park Ponds",
+            "tip": "Enjoy quiet moments by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Andreas Interior",
+            "tip": "Place of spiritual peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische regionale Produkte jeden Donnerstag und Samstag."
+          },
+          {
+            "name": "Lange Straße",
+            "tip": "Die Haupteinkaufsstraße mit vielen Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss regionális termékek minden csütörtökön és szombaton."
+          },
+          {
+            "name": "Lange Straße",
+            "tip": "A fő bevásárlóutca számos szaküzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale proaspete în fiecare joi și sâmbătă."
+          },
+          {
+            "name": "Lange Straße",
+            "tip": "Principala stradă comercială cu multe magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh regional products every Thursday and Saturday."
+          },
+          {
+            "name": "Lange Straße",
+            "tip": "The main shopping street with many specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cloppenburg ist sehr flach und ideal zu Fuß zu erkunden.",
+          "Das Museumsdorf ist eines der ältesten Freilichtmuseen Deutschlands.",
+          "Donnerstags ist Markttag, perfekt für lokale Spezialitäten.",
+          "Viele Cafés in der Innenstadt bieten hausgemachten Kuchen an."
+        ],
+        "hu": [
+          "Cloppenburg nagyon sík, így ideális gyalogos felfedezésre.",
+          "A Falumúzeum Németország egyik legrégebbi szabadtéri múzeuma.",
+          "A csütörtöki piaci nap tökéletes a helyi különlegességekhez.",
+          "Sok belvárosi kávézó kínál házi készítésű süteményeket."
+        ],
+        "ro": [
+          "Cloppenburg este foarte plat și ideal pentru explorarea pe jos.",
+          "Satul-Muzeu este unul dintre cele mai vechi muzee în aer liber din Germania.",
+          "Joia este zi de piață, perfectă pentru specialități locale.",
+          "Multe cafenele din centrul orașului oferă prăjituri de casă."
+        ],
+        "en": [
+          "Cloppenburg is very flat and ideal for exploring on foot.",
+          "The Museum Village is one of the oldest open-air museums in Germany.",
+          "Thursday is market day, perfect for local specialties.",
+          "Many downtown cafes offer homemade cakes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museumsdorf Cloppenburg",
+            "hu": "Falumúzeum",
+            "ro": "Satul-Muzeu",
+            "en": "Museum Village"
+          },
+          "coords": [
+            8.048,
+            52.853
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Fahrradparkplatz am Haupteingang.",
+            "hu": "Nagy kerékpárparkoló a főbejáratnál.",
+            "ro": "Parcare mare pentru biciclete la intrarea principală.",
+            "en": "Large bike parking at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebkensche Windmühle",
+            "hu": "Ebkens-féle szélmalom",
+            "ro": "Moara de vânt Ebkensche",
+            "en": "Ebkensche Windmill"
+          },
+          "coords": [
+            8.058,
+            52.842
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine der wenigen erhaltenen Galerieholländer der Region.",
+            "hu": "A régió kevés fennmaradt holland típusú szélmalmának egyike.",
+            "ro": "Una dintre puținele mori de vânt olandeze conservate în regiune.",
+            "en": "One of the few preserved gallery Dutch windmills in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Cloppenburg",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            8.045,
+            52.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöne Radwege durchziehen das gesamte Parkgelände.",
+            "hu": "Szép kerékpárutak szelik át az egész parkot.",
+            "ro": "Piste frumoase de biciclete traversează întregul parc.",
+            "en": "Beautiful bike paths cross the entire park area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloppenburger Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            8.044,
+            52.848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für ein Eis in der Fußgängerzone.",
+            "hu": "Rövid megálló egy fagyira a sétálóutcában.",
+            "ro": "Scurtă oprire pentru o înghețată în zona pietonală.",
+            "en": "Short stop for an ice cream in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturbahnhof",
+            "hu": "Kultúrállomás",
+            "ro": "Gara Culturală",
+            "en": "Kulturbahnhof"
+          },
+          "coords": [
+            8.052,
+            52.845
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Direkt am Radfernweg gelegen.",
+            "hu": "Közvetlenül a távolsági kerékpárút mellett található.",
+            "ro": "Situat direct pe traseul de biciclete pe distanțe lungi.",
+            "en": "Located directly on the long-distance cycle path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Cloppenburg auf zwei Rädern. Starten Sie beim weitläufigen Museumsdorf und radeln Sie dann zur historischen Ebkenschen Windmühle. Der Stadtpark bietet eine grüne Route zurück ins Zentrum, wo Sie das Rathaus besuchen, bevor die Tour am Kulturbahnhof endet.",
+        "hu": "Fedezze fel Cloppenburgot két keréken. Kezdjen a tágas Falumúzeumnál, majd tekerjen el a történelmi Ebkens-féle szélmalomhoz. A Városliget zöld útvonalat kínál vissza a központba, ahol meglátogatja a Városházát, mielőtt a túra a Kultúrállomásnál véget érne.",
+        "ro": "Explorați Cloppenburg pe două roți. Începeți de la Satul-Muzeu spațios și apoi pedalați până la moara de vânt istorică Ebkensche. Parcul orașului oferă o rută verde înapoi în centru, unde vizitați primăria înainte ca turul să se încheie la Gara Culturală.",
+        "en": "Explore Cloppenburg on two wheels. Start at the spacious Museum Village and then cycle to the historic Ebkensche Windmill. The city park offers a green route back to the center, where you visit the town hall before the tour ends at the Kulturbahnhof."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Ebkens",
+            "tip": "Frisches Gebäck direkt an der Mühle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Ebkens",
+            "tip": "Friss pékáru közvetlenül a malomnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Ebkens",
+            "tip": "Patiserie proaspătă chiar lângă moară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Ebkens",
+            "tip": "Fresh pastries right by the mill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mühlenumfeld",
+            "tip": "Ländliche Ruhe am Stadtrand.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malom környéke",
+            "tip": "Vidéki nyugalom a város szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona morii",
+            "tip": "Liniște rurală la marginea orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mill area",
+            "tip": "Rural quiet on the outskirts.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Cloppenburg",
+            "tip": "Zubehör und Karten für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cloppenburgi kerékpárbolt",
+            "tip": "Kiegészítők és térképek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloppenburg Bike Shop",
+            "tip": "Accessories and maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege 'Soeste-Radweg'.",
+          "Ein Schloss ist am Museumsdorf obligatorisch."
+        ],
+        "hu": [
+          "Használja a jól kiépített 'Soeste-Radweg' kerékpárutakat.",
+          "A Falumúzeumnál kötelező a kerékpárzár."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete bine dezvoltate 'Soeste-Radweg'.",
+          "Un sistem de blocare este obligatoriu la Satul-Muzeu."
+        ],
+        "en": [
+          "Use the well-developed 'Soeste-Radweg' cycle paths.",
+          "A lock is mandatory at the Museum Village."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museumsdorf Cloppenburg",
+            "hu": "Falumúzeum",
+            "ro": "Satul-Muzeu",
+            "en": "Museum Village"
+          },
+          "coords": [
+            8.048,
+            52.853
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 140,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden (Cluster A).",
+            "hu": "Nagy parkoló áll rendelkezésre (A klaszter).",
+            "ro": "Parcare mare disponibilă (Cluster A).",
+            "en": "Large parking available (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andreas Church"
+          },
+          "coords": [
+            8.043,
+            52.847
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken am Marktplatz (Cluster B).",
+            "hu": "Parkolás a piactéren (B klaszter).",
+            "ro": "Parcare în piață (Cluster B).",
+            "en": "Park at the market square (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloppenburger Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            8.044,
+            52.848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fußläufig von St. Andreas erreichbar.",
+            "hu": "Gyalogosan elérhető a Szent Andrástól.",
+            "ro": "Accesibil pe jos de la Sf. Andrei.",
+            "en": "Accessible on foot from St. Andreas."
+          }
+        },
+        {
+          "name": {
+            "de": "Amtsgericht Cloppenburg",
+            "hu": "Járásbíróság",
+            "ro": "Tribunalul",
+            "en": "District Court"
+          },
+          "coords": [
+            8.042,
+            52.846
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Teil des Innenstadt-Clusters B.",
+            "hu": "A belvárosi B klaszter része.",
+            "ro": "Parte a clusterului central B.",
+            "en": "Part of the downtown Cluster B."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebkensche Windmühle",
+            "hu": "Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            8.058,
+            52.842
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Separater Parkplatz direkt an der Mühle (Cluster C).",
+            "hu": "Külön parkoló közvetlenül a malomnál (C klaszter).",
+            "ro": "Parcare separată chiar lângă moară (Cluster C).",
+            "en": "Separate parking right at the mill (Cluster C)."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Cloppenburg",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            8.045,
+            52.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken am Parkeingang (Cluster D).",
+            "hu": "Parkolás a park bejáratánál (D klaszter).",
+            "ro": "Parcare la intrarea în parc (Cluster D).",
+            "en": "Park at the park entrance (Cluster D)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturbahnhof",
+            "hu": "Kultúrállomás",
+            "ro": "Gara Culturală",
+            "en": "Kulturbahnhof"
+          },
+          "coords": [
+            8.052,
+            52.845
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplätze am Bahnhof nutzen.",
+            "hu": "Használja az állomási parkolókat.",
+            "ro": "Utilizați locurile de parcare de la gară.",
+            "en": "Use the parking spaces at the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die wichtigsten Cluster von Cloppenburg. Starten Sie im Norden beim Museumsdorf, fahren Sie dann ins Zentrum für einen Stadtrundgang zu Fuß (Rathaus, Kirche, Gericht) und besuchen Sie abschließend die Windmühle und den Stadtpark.",
+        "hu": "Ez az autós túra Cloppenburg legfontosabb gócpontjait köti össze. Kezdjen északon a Falumúzeumnál, majd hajtson a központba egy gyalogos városnézésre (Városháza, templom, bíróság), végül látogassa meg a szélmalmot és a Városligetet.",
+        "ro": "Acest tur cu mașina conectează cele mai importante clustere din Cloppenburg. Începeți în nord la Satul-Muzeu, apoi conduceți spre centru pentru un tur pietonal (Primărie, biserică, tribunal) și în final vizitați moara de vânt și parcul orașului.",
+        "en": "This car tour connects Cloppenburg's most important clusters. Start in the north at the Museum Village, then drive to the center for a walking tour (town hall, church, court), and finally visit the windmill and the city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwan",
+            "tip": "Gute Parkmöglichkeiten und bürgerliche Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schwan",
+            "tip": "Jó parkolási lehetőség és polgári konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schwan",
+            "tip": "Posibilități bune de parcare și bucătărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schwan",
+            "tip": "Good parking and traditional German cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Andreas",
+            "tip": "Ruhiger Rückzugsort im Zentrum.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent András",
+            "tip": "Csendes menedék a központban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sf. Andrei",
+            "tip": "Refugiu liniștit în centru.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Andreas",
+            "tip": "Quiet retreat in the center.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Famila Center",
+            "tip": "Großes Einkaufszentrum am Stadtrand mit viel Parkraum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Famila Center",
+            "tip": "Nagy bevásárlóközpont a város szélén, sok parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Famila Center",
+            "tip": "Centru comercial mare la marginea orașului cu multă parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Famila Center",
+            "tip": "Large shopping center on the outskirts with plenty of parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum einmal und erkunden Sie Cluster B zu Fuß.",
+          "Das Parken am Museumsdorf ist meist kostenlos."
+        ],
+        "hu": [
+          "Parkoljon le egyszer a központban, és fedezze fel a B klasztert gyalog.",
+          "A parkolás a Falumúzeumnál többnyire ingyenes."
+        ],
+        "ro": [
+          "Parcați o dată în centru și explorați clusterul B pe jos.",
+          "Parcarea la Satul-Muzeu este de obicei gratuită."
+        ],
+        "en": [
+          "Park once in the center and explore Cluster B on foot.",
+          "Parking at the Museum Village is mostly free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturbahnhof",
+            "hu": "Kultúrállomás",
+            "ro": "Gara Culturală",
+            "en": "Kulturbahnhof"
+          },
+          "coords": [
+            8.052,
+            52.845
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt am Bahnhof.",
+            "hu": "Ideális kiindulópont az állomásnál.",
+            "ro": "Punct de plecare ideal la gară.",
+            "en": "Ideal starting point at the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsdorf Cloppenburg",
+            "hu": "Falumúzeum",
+            "ro": "Satul-Muzeu",
+            "en": "Museum Village"
+          },
+          "coords": [
+            8.048,
+            52.853
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 931 oder 935 vom Bahnhof.",
+            "hu": "931-es vagy 935-ös busz az állomástól.",
+            "ro": "Linia de autobuz 931 sau 935 de la gară.",
+            "en": "Bus line 931 or 935 from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloppenburger Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            8.044,
+            52.848
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Haltestelle 'Rathaus' direkt im Zentrum.",
+            "hu": "'Rathaus' megálló közvetlenül a központban.",
+            "ro": "Stația 'Rathaus' chiar în centru.",
+            "en": "Stop 'Rathaus' right in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andreas Church"
+          },
+          "coords": [
+            8.043,
+            52.847
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Rathaus.",
+            "hu": "Rövid séta a Városházától.",
+            "ro": "Scurtă plimbare de la primărie.",
+            "en": "Short walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Cloppenburg",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            8.045,
+            52.842
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang durch die Innenstadt zum Park.",
+            "hu": "Séta a belvároson át a parkig.",
+            "ro": "Plimbare prin centrul orașului până la parc.",
+            "en": "Walk through the city center to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Kulturbahnhof als Ihr Drehkreuz. Fahren Sie mit dem Stadtbus zum Museumsdorf und kehren Sie dann ins Zentrum zurück, um das Rathaus und die Kirche zu besichtigen. Den Abschluss bildet ein Spaziergang zum Stadtpark, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Használja a Kultúrállomást csomópontként. Menjen helyi busszal a Falumúzeumhoz, majd térjen vissza a központba a Városháza és a templom megtekintéséhez. A napot egy Városligeti séta zárja, mielőtt visszatérne az állomásra.",
+        "ro": "Utilizați Gara Culturală ca hub. Luați autobuzul local până la Satul-Muzeu și apoi reveniți în centru pentru a vizita primăria și biserica. Încheiați cu o plimbare în parcul orașului înainte de a vă întoarce la gară.",
+        "en": "Use the Kulturbahnhof as your hub. Take the city bus to the Museum Village and then return to the center to visit the town hall and the church. End with a walk to the city park before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Café",
+            "tip": "Guter Kaffee für die Wartezeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofs-Café",
+            "tip": "Jó kávé a várakozási időre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofs-Café",
+            "tip": "Cafea bună pentru timpul de așteptare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofs-Café",
+            "tip": "Good coffee while waiting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbank am See",
+            "tip": "Entspannung pur vor der Rückfahrt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pad a tóparton",
+            "tip": "Tiszta relaxáció a visszautazás előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă lângă lac",
+            "tip": "Relaxare pură înainte de plecare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park bench by the lake",
+            "tip": "Pure relaxation before the return journey.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zeitschriftenladen am Bahnhof",
+            "tip": "Reiselektüre und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos az állomáson",
+            "tip": "Úti olvasmányok és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de ziare în gară",
+            "tip": "Lectură de călătorie și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Newsstand at the station",
+            "tip": "Travel reading and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VGC-App für aktuelle Busfahrpläne.",
+          "Am Wochenende fahren weniger Busse, planen Sie voraus."
+        ],
+        "hu": [
+          "Használja a VGC alkalmazást az aktuális buszmenetrendekhez.",
+          "Hétvégén kevesebb busz jár, tervezzen előre."
+        ],
+        "ro": [
+          "Utilizați aplicația VGC pentru orarul actualizat al autobuzelor.",
+          "În weekend circulă mai puține autobuze, planificați din timp."
+        ],
+        "en": [
+          "Use the VGC app for current bus schedules.",
+          "Fewer buses run on weekends, plan ahead."
+        ]
+      }
+    }
+  }
+}

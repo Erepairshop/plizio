@@ -1,0 +1,1060 @@
+{
+  "city_id": "city-neubrandenburg-extra",
+  "anchor": {
+    "name": "Neubrandenburg",
+    "coords": [
+      13.2602,
+      53.5568
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stargarder Tor",
+          "coords": [
+            13.2621,
+            53.5548
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Terrakotta-Figuren am Tor.",
+            "hu": "Nézze meg a kapu különleges terrakotta figuráit.",
+            "ro": "Admirați figurile de teracotă de pe poartă.",
+            "en": "Check out the unique terracotta figures on the gate."
+          }
+        },
+        {
+          "name": "Wiekhäuser an der Stadtmauer",
+          "coords": [
+            13.2645,
+            53.5582
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fachwerkhäuser, die direkt in die Mauer gebaut wurden.",
+            "hu": "Közvetlenül a városfalba épített fachwerk házak.",
+            "ro": "Case din lemn construite direct în zidul cetății.",
+            "en": "Half-timbered houses built directly into the wall."
+          }
+        },
+        {
+          "name": "Friedländer Tor",
+          "coords": [
+            13.2652,
+            53.5618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das am besten erhaltene Vortor der Anlage.",
+            "hu": "Az erődrendszer legépségben maradt előkapuja.",
+            "ro": "Cea mai bine conservată poartă exterioară a complexului.",
+            "en": "The best-preserved outer gate of the fortification."
+          }
+        },
+        {
+          "name": "Konzertkirche (Marienkirche)",
+          "coords": [
+            13.2595,
+            53.5572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine gotische Kirche mit modernem Konzertsaal im Inneren.",
+            "hu": "Gótikus templom, belül modern koncertteremmel.",
+            "ro": "O biserică gotică cu o sală de concerte modernă în interior.",
+            "en": "A Gothic church with a modern concert hall inside."
+          }
+        },
+        {
+          "name": "Marktplatz Mittagessen",
+          "coords": [
+            13.2605,
+            53.5585
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Mecklenburger Küche.",
+            "hu": "Kóstolja meg a helyi mecklenburgi konyhát.",
+            "ro": "Încercați bucătăria locală din Mecklenburg.",
+            "en": "Try local Mecklenburg cuisine."
+          }
+        },
+        {
+          "name": "Treptower Tor",
+          "coords": [
+            13.2558,
+            53.5588
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadtgeschichtsmuseum im Tor.",
+            "hu": "Látogassa meg a várostörténeti múzeumot a kapuban.",
+            "ro": "Vizitați muzeul de istorie a orașului din poartă.",
+            "en": "Visit the city history museum inside the gate."
+          }
+        },
+        {
+          "name": "Kulturpark Neubrandenburg",
+          "coords": [
+            13.2525,
+            53.5535
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein entspanner Spaziergang Richtung Tollensesee.",
+            "hu": "Pihentető séta a Tollensesee irányába.",
+            "ro": "O plimbare relaxantă spre lacul Tollensesee.",
+            "en": "A relaxing stroll towards Lake Tollensesee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die 'Stadt der vier Tore' entlang der mittelalterlichen Stadtmauer mit ihren einzigartigen Wiekhäusern. Nach der Besichtigung der beeindruckenden Konzertkirche genießen Sie ein lokales Mittagessen am Marktplatz. Der Nachmittag führt Sie durch das historische Treptower Tor bis zum weitläufigen Kulturpark am Rande des Tollensesees.",
+        "hu": "Délelőtt a 'négy kapu városát' fedezzük fel a középkori városfal mentén, megcsodálva az egyedülálló Wiekhäusereket. A lenyűgöző Konzertkirche megtekintése után helyi ebédet fogyasztunk a főtéren. Délután a történelmi Treptower Toron keresztül sétálunk ki a Tollensesee partján fekvő Kulturparkba.",
+        "ro": "Dimineața explorăm 'orașul celor patru porți' de-a lungul zidului medieval al cetății, cu casele sale unice Wiekhäuser. După vizitarea impresionantei Konzertkirche, savurați un prânz local în piața centrală. După-amiaza vă conduce prin poarta istorică Treptower Tor până la Kulturpark, situat pe malul lacului Tollensesee.",
+        "en": "In the morning, explore the 'City of Four Gates' along the medieval city wall with its unique Wiekhäuser. After visiting the impressive Concert Church, enjoy a local lunch at the market square. The afternoon leads you through the historic Treptower Tor to the expansive Kulturpark on the shores of Lake Tollensesee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller",
+            "tip": "Traditionelle mecklenburgische Gerichte im historischen Keller."
+          },
+          {
+            "name": "Badehaus am See",
+            "tip": "Frischer Fisch direkt am Tollensesee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller",
+            "tip": "Hagyományos mecklenburgi ételek a történelmi pincében."
+          },
+          {
+            "name": "Badehaus am See",
+            "tip": "Friss halételek közvetlenül a tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller",
+            "tip": "Mâncăruri tradiționale din Mecklenburg în pivnița istorică."
+          },
+          {
+            "name": "Badehaus am See",
+            "tip": "Pește proaspăt chiar pe malul lacului Tollensesee."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller",
+            "tip": "Traditional Mecklenburg dishes in a historic cellar."
+          },
+          {
+            "name": "Badehaus am See",
+            "tip": "Fresh fish right by Lake Tollensesee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauerweg",
+            "tip": "Ruhiger Pfad unter alten Bäumen entlang der Mauer.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere Park",
+            "tip": "Panoramablick über den Tollensesee.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtmauerweg",
+            "tip": "Csendes ösvény öreg fák alatt a fal mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere Park",
+            "tip": "Panoráma kilátás a Tollensesee-re.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtmauerweg",
+            "tip": "Potecă liniștită sub copaci bătrâni de-a lungul zidului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere Park",
+            "tip": "Vedere panoramică peste lacul Tollensesee.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Wall Path",
+            "tip": "Quiet path under old trees along the wall.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere Park",
+            "tip": "Panoramic view over Lake Tollensesee.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz Center",
+            "tip": "Großes Einkaufszentrum im Herzen der Stadt."
+          },
+          {
+            "name": "Regionale Produkte am Markt",
+            "tip": "Honig und Handwerk aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marktplatz Center",
+            "tip": "Nagy bevásárlóközpont a város szívében."
+          },
+          {
+            "name": "Helyi termékek a piacon",
+            "tip": "Regionális méz és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marktplatz Center",
+            "tip": "Centru comercial mare în inima orașului."
+          },
+          {
+            "name": "Produse regionale în piață",
+            "tip": "Miere și artizanat din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marktplatz Center",
+            "tip": "Large shopping mall in the heart of the city."
+          },
+          {
+            "name": "Regional Products at the Market",
+            "tip": "Honey and crafts from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadtmauer ist komplett begehbar (ca. 2,3 km).",
+          "Informieren Sie sich vorab über Konzerttermine in der Marienkirche.",
+          "Die Tore beherbergen oft kleine, interessante Ausstellungen.",
+          "Parken Sie am besten am Ring außerhalb der Stadtmauer."
+        ],
+        "hu": [
+          "A városfal teljesen körbejárható (kb. 2,3 km).",
+          "Érdemes előre tájékozódni a koncertidőpontokról a Marienkirche-ben.",
+          "A kapukban gyakran kis, érdekes kiállítások kapnak helyet.",
+          "A parkolás a városfalon kívüli gyűrűn a legegyszerűbb."
+        ],
+        "ro": [
+          "Zidul cetății poate fi parcurs în întregime (aprox. 2,3 km).",
+          "Informați-vă din timp despre programul concertelor de la Marienkirche.",
+          "Porțile găzduiesc adesea expoziții mici și interesante.",
+          "Cel mai bine este să parcați pe inelul din afara zidului cetății."
+        ],
+        "en": [
+          "The city wall is fully accessible for walking (approx. 2.3 km).",
+          "Check the concert schedule for the Marienkirche in advance.",
+          "The gates often house small, interesting exhibitions.",
+          "It is best to park on the ring road outside the city wall."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stadtmauer-Ring",
+          "coords": [
+            13.2625,
+            53.5595
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Umrunden Sie die Altstadt entlang der Tore.",
+            "hu": "Kerülje meg az óvárost a kapuk mentén.",
+            "ro": "Înconjurați orașul vechi de-a lungul porților.",
+            "en": "Circle the old town along the gates."
+          }
+        },
+        {
+          "name": "Konzertkirche",
+          "coords": [
+            13.2595,
+            53.5572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an der Backsteingotik.",
+            "hu": "Rövid megálló a vörös téglás gótikánál.",
+            "ro": "Scurt popas la arhitectura gotică din cărămidă.",
+            "en": "Quick stop at the Brick Gothic landmark."
+          }
+        },
+        {
+          "name": "Tollensesee Promenade",
+          "coords": [
+            13.2485,
+            53.5482
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt entlang des Nordufers.",
+            "hu": "Kerékpározás az északi part mentén.",
+            "ro": "Plimbare pe malul de nord al lacului.",
+            "en": "Ride along the northern shore."
+          }
+        },
+        {
+          "name": "Belvedere Neubrandenburg",
+          "coords": [
+            13.2378,
+            53.5355
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, der sich für die Aussicht lohnt.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "O urcare abruptă care merită pentru priveliște.",
+            "en": "A steep climb, but worth it for the view."
+          }
+        },
+        {
+          "name": "Picknick am Tollensesee",
+          "coords": [
+            13.2325,
+            53.5185
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ruhiger Platz am Seeufer für eine Pause.",
+            "hu": "Csendes hely a tóparton a pihenéshez.",
+            "ro": "Loc liniștit pe malul lacului pentru o pauză.",
+            "en": "Quiet spot by the lakeshore for a break."
+          }
+        },
+        {
+          "name": "Augustabad (Strand)",
+          "coords": [
+            13.2415,
+            53.5425
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich im sauberen Wasser.",
+            "hu": "Frissüljön fel a tiszta vízben.",
+            "ro": "Răcoriți-vă în apa curată.",
+            "en": "Refresh yourself in the clean water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer schnellen Umrundung der Stadtmauer, bevor Sie die Konzertkirche besichtigen. Dann geht es hinaus zum Tollensesee, wo Sie dem Uferweg bis zum Belvedere folgen, einem Tempelbau mit herrlicher Aussicht. Nach einem Picknick am See führt der Rückweg zum Augustabad, wo Sie den Tag entspannt ausklingen lassen können.",
+        "hu": "Kezdje a napot a városfal gyors megkerülésével, majd látogassa meg a koncerttemplomot. Ezután tekerjen ki a Tollensesee-hez, ahol a parti utat követve eljut a Belvedere-hez, amely pazar kilátást nyújt. Egy tóparti piknik után az út az Augustabad strandhoz vezet, ahol kellemesen zárhatja a napot.",
+        "ro": "Începeți cu un ocol rapid al zidului cetății înainte de a vizita biserica de concerte. Apoi porniți spre lacul Tollensesee, urmând drumul de pe mal până la Belvedere, un edificiu tip templu cu o vedere magnifică. După un picnic pe malul lacului, drumul de întoarcere vă duce la Augustabad, unde vă puteți relaxa la finalul zilei.",
+        "en": "Start with a quick loop around the city wall before visiting the Concert Church. Then head out to Lake Tollensesee, following the shore path to the Belvedere, a temple-like building with magnificent views. After a picnic by the lake, the return journey takes you to Augustabad beach for a relaxed finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eis-Oase am See",
+            "tip": "Beliebtes Eisgeschäft direkt an der Promenade."
+          },
+          {
+            "name": "Seehotel Heidehof",
+            "tip": "Gute Küche mit Seeblick für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eis-Oase am See",
+            "tip": "Népszerű fagylaltozó közvetlenül a sétányon."
+          },
+          {
+            "name": "Seehotel Heidehof",
+            "tip": "Kiváló konyha tóparti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eis-Oase am See",
+            "tip": "Gelaterie populară chiar pe faleză."
+          },
+          {
+            "name": "Seehotel Heidehof",
+            "tip": "Bucătărie bună cu vedere la lac pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eis-Oase am See",
+            "tip": "Popular ice cream shop right on the promenade."
+          },
+          {
+            "name": "Seehotel Heidehof",
+            "tip": "Good cuisine with lake views for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Westufer Tollensesee",
+            "tip": "Natur pur und wenig Verkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tollensesee nyugati part",
+            "tip": "Tiszta természet és minimális forgalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul de vest al lacului",
+            "tip": "Natură pură și trafic redus.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "West Shore Tollensesee",
+            "tip": "Pure nature and very little traffic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen am Ring",
+            "tip": "Zubehör und Reparaturen für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradladen am Ring",
+            "tip": "Kiegészítők és szerviz kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete pe inel",
+            "tip": "Accesorii și reparații pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop on the Ring",
+            "tip": "Accessories and repairs for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Rundweg um den See ist ca. 35 km lang.",
+          "Achten Sie auf Fußgänger an der Promenade.",
+          "Das Belvedere ist über einen Waldweg erreichbar.",
+          "Nehmen Sie ausreichend Wasser mit, am Westufer gibt es wenig Verpflegung."
+        ],
+        "hu": [
+          "A tó körüli út kb. 35 km hosszú.",
+          "Ügyeljen a gyalogosokra a sétányon.",
+          "A Belvedere erdei úton érhető el.",
+          "Vigyen magával elég vizet, a nyugati parton kevés az ellátóhely."
+        ],
+        "ro": [
+          "Traseul în jurul lacului are aproximativ 35 km.",
+          "Atenție la pietoni pe faleză.",
+          "Belvedere este accesibil printr-o potecă prin pădure.",
+          "Luați suficientă apă, pe malul de vest sunt puține locuri de aprovizionare."
+        ],
+        "en": [
+          "The loop around the lake is about 35 km long.",
+          "Watch out for pedestrians on the promenade.",
+          "The Belvedere is accessible via a forest path.",
+          "Take enough water with you, as there are few shops on the west shore."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Altstadt Cluster: Marienkirche",
+          "coords": [
+            13.2595,
+            53.5572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Marktplatz.",
+            "hu": "Parkoljon a Marktplatz alatti mélygarázsban.",
+            "ro": "Parcați în parcarea de la Marktplatz.",
+            "en": "Park in the underground garage at the market square."
+          }
+        },
+        {
+          "name": "Altstadt Cluster: Treptower Tor",
+          "coords": [
+            13.2558,
+            53.5588
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a főtértől.",
+            "ro": "Accesibil pe jos din piața centrală.",
+            "en": "Accessible on foot from the market square."
+          }
+        },
+        {
+          "name": "Altstadt Cluster: Wiekhäuser",
+          "coords": [
+            13.2645,
+            53.5582
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Ostmauer.",
+            "hu": "Séta a keleti városfal mentén.",
+            "ro": "Plimbare de-a lungul zidului de est.",
+            "en": "Stroll along the eastern wall."
+          }
+        },
+        {
+          "name": "Belvedere Cluster: Aussichtspunkt",
+          "coords": [
+            13.2378,
+            53.5355
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Belvedere vorhanden.",
+            "hu": "Parkoló közvetlenül a Belvedere mellett.",
+            "ro": "Parcare disponibilă chiar la Belvedere.",
+            "en": "Parking available right at the Belvedere."
+          }
+        },
+        {
+          "name": "Belvedere Cluster: Seeufer-Sonne",
+          "coords": [
+            13.2355,
+            53.5325
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Abstieg zum See.",
+            "hu": "Rövid leereszkedés a tóhoz.",
+            "ro": "Scurtă coborâre spre lac.",
+            "en": "Short descent to the lake."
+          }
+        },
+        {
+          "name": "Tollensesee Cluster: Mittagessen",
+          "coords": [
+            13.2452,
+            53.5465
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Restaurant am Badehaus.",
+            "hu": "Étterem a Badehaus-nál.",
+            "ro": "Restaurant la Badehaus.",
+            "en": "Restaurant at the Badehaus."
+          }
+        },
+        {
+          "name": "Tollensesee Cluster: Strandspaziergang",
+          "coords": [
+            13.2415,
+            53.5425
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf das Wasser.",
+            "hu": "Még egy utolsó pillantás a vízre.",
+            "ro": "O ultimă privire asupra apei.",
+            "en": "A last look at the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt das Auto, um bequem zwischen der historischen Altstadt und den Highlights am Tollensesee zu wechseln. Vormittags parken Sie zentral für einen Rundgang zu den Toren und Wiekhäusern. Danach fahren Sie hinauf zum Belvedere für das beste Panorama der Region, gefolgt von einem entspannten Mittagessen direkt am Seeufer.",
+        "hu": "Ez a túra az autót használja, hogy kényelmesen váltson a történelmi óváros és a Tollensesee látnivalói között. Délelőtt a központban parkolunk a kapuk és Wiekhäuserek megtekintéséhez. Ezután felautózunk a Belvedere-hez a régió legjobb panorámájáért, majd egy pihentető ebédet fogyasztunk közvetlenül a tóparton.",
+        "ro": "Acest tur folosește mașina pentru a face legătura confortabil între centrul istoric și atracțiile de pe malul lacului Tollensesee. Dimineața parcați central pentru un tur al porților și caselor Wiekhäuser. Apoi conduceți până la Belvedere pentru cea mai bună panoramă din regiune, urmată de un prânz relaxant chiar pe malul lacului.",
+        "en": "This tour uses the car to comfortably switch between the historic old town and the highlights at Lake Tollensesee. In the morning, park centrally for a tour of the gates and Wiekhäuser. Then drive up to the Belvedere for the region's best panorama, followed by a relaxed lunch directly on the lakeshore."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Parkvilla",
+            "tip": "Gehobene Küche in Seenähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Parkvilla",
+            "tip": "Színvonalas konyha a tó közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Parkvilla",
+            "tip": "Bucătărie rafinată aproape de lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Parkvilla",
+            "tip": "Upscale cuisine near the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere Aussicht",
+            "tip": "Oft windig, aber herrlich ruhig.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere kilátás",
+            "tip": "Gyakran szeles, de csodásan nyugodt.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perspectiva Belvedere",
+            "tip": "Adesea vântos, dar minunat de liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere View",
+            "tip": "Often windy but wonderfully quiet.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gutschein-Shop Touristeninfo",
+            "tip": "Lokale Souvenirs und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gutschein-Shop Touristeninfo",
+            "tip": "Helyi szuvenírek és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri info turistic",
+            "tip": "Suveniruri locale și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourist Info Gift Shop",
+            "tip": "Local souvenirs and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren in der Innenstadt sind moderat.",
+          "Vermeiden Sie die Rushhour auf dem Friedrich-Engels-Ring.",
+          "Zum Belvedere führt eine schmale Straße durch den Wald.",
+          "Kombinieren Sie die Fahrt mit einem Abstecher zur Burg Stargard (10 Min Fahrt)."
+        ],
+        "hu": [
+          "A belvárosi parkolási díjak mérsékeltek.",
+          "Kerülje a csúcsforgalmat a Friedrich-Engels-Ring-en.",
+          "A Belvedere-hez keskeny erdei út vezet.",
+          "Kombinálja az utat egy Burg Stargard-i kitérővel (10 perc autóval)."
+        ],
+        "ro": [
+          "Taxele de parcare în centru sunt moderate.",
+          "Evitați orele de vârf pe Friedrich-Engels-Ring.",
+          "Spre Belvedere duce un drum îngust prin pădure.",
+          "Combinați drumul cu o vizită la Burg Stargard (10 minute cu mașina)."
+        ],
+        "en": [
+          "Parking fees in the city center are moderate.",
+          "Avoid rush hour on the Friedrich-Engels-Ring.",
+          "A narrow forest road leads to the Belvedere.",
+          "Combine the trip with a detour to Burg Stargard (10 min drive)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "ZOB Neubrandenburg",
+          "coords": [
+            13.2625,
+            53.5615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Központi csomópont minden buszjáratnak.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": "Altstadt: Konzertkirche",
+          "coords": [
+            13.2595,
+            53.5572
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß vom ZOB durch die Fußgängerzone.",
+            "hu": "Gyalog a buszpályaudvartól a sétálóutcán át.",
+            "ro": "Pe jos de la autogară prin zona pietonală.",
+            "en": "On foot from the bus station through the pedestrian zone."
+          }
+        },
+        {
+          "name": "Altstadt: Stadtmauer",
+          "coords": [
+            13.2558,
+            53.5588
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang zum Treptower Tor.",
+            "hu": "Séta a Treptower Tor irányába.",
+            "ro": "Plimbare spre poarta Treptower Tor.",
+            "en": "Walk towards Treptower Tor."
+          }
+        },
+        {
+          "name": "Busfahrt zum See (Linie 2/22)",
+          "coords": [
+            13.2452,
+            53.5465
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Stadtbusse Richtung Broda.",
+            "hu": "Használja a helyi buszokat Broda irányába.",
+            "ro": "Folosiți autobuzele locale spre Broda.",
+            "en": "Use the city buses towards Broda."
+          }
+        },
+        {
+          "name": "Mittagessen am Tollensesee",
+          "coords": [
+            13.2425,
+            53.5445
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung am Nordufer.",
+            "hu": "Pihenés az északi parton.",
+            "ro": "Relaxare pe malul de nord.",
+            "en": "Relaxing on the northern shore."
+          }
+        },
+        {
+          "name": "Kulturpark & Rückfahrt",
+          "coords": [
+            13.2515,
+            53.5525
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang zurück Richtung Zentrum.",
+            "hu": "Szép séta vissza a központ irányába.",
+            "ro": "O plimbare frumoasă înapoi spre centru.",
+            "en": "A nice walk back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Stadtbus verbinden Sie die historische Innenstadt bequem mit dem Tollensesee. Nach einem Vormittag inmitten der Backsteingotik und der Stadtmauer bringt Sie die Linie 2 direkt zum Seeufer. Genießen Sie dort die frische Luft und ein Mittagessen, bevor Sie durch den Kulturpark zurück zum Bahnhof schlendern.",
+        "hu": "A helyi autóbuszokkal kényelmesen összeköthetjük a történelmi belvárost a Tollensesee-vel. A vörös téglás gótika és a városfal megtekintése után a 2-es busz egyenesen a tópartra viszi. Élvezze a friss levegőt és az ebédet, majd sétáljon át a Kulturparkon vissza az állomásig.",
+        "ro": "Cu autobuzul urban faceți legătura confortabil între centrul istoric și lacul Tollensesee. După o dimineață petrecută în mijlocul arhitecturii gotice și al zidului cetății, linia 2 vă duce direct pe malul lacului. Bucurați-vă de aerul proaspăt și de prânz înainte de a vă întoarce pe jos prin Kulturpark spre gară.",
+        "en": "With the city bus, you can easily connect the historic city center with Lake Tollensesee. After a morning spent among Brick Gothic architecture and the city wall, line 2 takes you directly to the lakeshore. Enjoy the fresh air and lunch there before strolling back through the Kulturpark to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am ZOB",
+            "tip": "Schneller Snack für unterwegs."
+          },
+          {
+            "name": "Augustaström",
+            "tip": "Gute regionale Küche am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei am ZOB",
+            "tip": "Gyors falatok útközben."
+          },
+          {
+            "name": "Augustaström",
+            "tip": "Kiváló regionális konyha a tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei am ZOB",
+            "tip": "Gustare rapidă pentru drum."
+          },
+          {
+            "name": "Augustaström",
+            "tip": "Bucătărie regională bună pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Station Bakery",
+            "tip": "Quick snack for the road."
+          },
+          {
+            "name": "Augustaström",
+            "tip": "Good regional cuisine by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberbach",
+            "tip": "Ruhiger Wasserlauf zwischen Stadt und See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oberbach",
+            "tip": "Csendes vízfolyás a város és a tó között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oberbach",
+            "tip": "Curs de apă liniștit între oraș și lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oberbach",
+            "tip": "Quiet waterway between the city and the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz-Center",
+            "tip": "Direkt an der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marktplatz-Center",
+            "tip": "Közvetlenül a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marktplatz-Center",
+            "tip": "Chiar lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marktplatz-Center",
+            "tip": "Right next to the bus stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das Stadtbusnetz.",
+          "Die Busse fahren am Wochenende seltener.",
+          "Die Haltestelle 'Kulturpark' ist ideal für den Seezugang.",
+          "In der 'neubrandenburg App' finden Sie Echtzeit-Abfahrten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a helyi buszhálózatra.",
+          "A buszok hétvégén ritkábban járnak.",
+          "A 'Kulturpark' megálló ideális a tó megközelítéséhez.",
+          "A 'neubrandenburg App'-ban valós idejű menetrendet talál."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de autobuze.",
+          "Autobuzele circulă mai rar în weekend.",
+          "Stația 'Kulturpark' este ideală pentru accesul la lac.",
+          "În aplicația 'neubrandenburg' găsiți plecările în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus network.",
+          "Buses run less frequently on weekends.",
+          "The 'Kulturpark' stop is ideal for lake access.",
+          "You can find real-time departures in the 'neubrandenburg App'."
+        ]
+      }
+    }
+  }
+}

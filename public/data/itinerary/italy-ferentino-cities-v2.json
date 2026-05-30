@@ -1,0 +1,1272 @@
+{
+  "city_id": "italy-ferentino-cities-v2",
+  "anchor": {
+    "name": "Ferentino",
+    "coords": [
+      13.25,
+      41.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "end_estimate": "17:15",
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Casamari",
+            "hu": "Casamari-kapu",
+            "ro": "Porta Casamari",
+            "en": "Porta Casamari"
+          },
+          "coords": [
+            13.251,
+            41.686
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die massiven Kalksteinblöcke der antiken Stadtmauer.",
+            "hu": "Csodálja meg az ókori városfal hatalmas mészkőtömbjeit.",
+            "ro": "Admirați blocurile masive de calcar ale vechiului zid al orașului.",
+            "en": "Admire the massive limestone blocks of the ancient city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Biserica Santa Maria Maggiore",
+            "en": "Santa Maria Maggiore Church"
+          },
+          "coords": [
+            13.252,
+            41.687
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Zisterzienser-Gotik mit schlichten Linien.",
+            "hu": "A ciszterci gótika remekműve letisztult vonalakkal.",
+            "ro": "O capodoperă a goticului cistercian cu linii sobre.",
+            "en": "A masterpiece of Cistercian Gothic with clean lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Markt",
+            "hu": "Római piac",
+            "ro": "Piața Romană",
+            "en": "Roman Market"
+          },
+          "coords": [
+            13.254,
+            41.689
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein seltener überdachter Markt aus der republikanischen Ära.",
+            "hu": "Ritka fedett piac a köztársasági korból.",
+            "ro": "O piață acoperită rară din epoca republicană.",
+            "en": "A rare covered market from the Republican era."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.255,
+            41.69
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einst bot es Platz für 3.000 Zuschauer in herrlicher Lage.",
+            "hu": "Egykor 3000 néző befogadására volt alkalmas.",
+            "ro": "Odată avea o capacitate de 3.000 de spectatori.",
+            "en": "Once held 3,000 spectators in a magnificent setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Sanguinaria",
+            "hu": "Sanguinaria-kapu",
+            "ro": "Porta Sanguinaria",
+            "en": "Porta Sanguinaria"
+          },
+          "coords": [
+            13.256,
+            41.69
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eines der besterhaltenen antiken Tore der Region.",
+            "hu": "A régió egyik legjobb állapotban megmaradt ókori kapuja.",
+            "ro": "Una dintre cele mai bine conservate porți antice din regiune.",
+            "en": "One of the best-preserved ancient gates in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Cavalieri Gaetani",
+            "hu": "Cavalieri Gaetani palota",
+            "ro": "Palazzo dei Cavalieri Gaetani",
+            "en": "Cavalieri Gaetani Palace"
+          },
+          "coords": [
+            13.255,
+            41.691
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier spüren Sie den mittelalterlichen Geist von Ferentino (Mittagspause inkl.).",
+            "hu": "Érezze Ferentino középkori hangulatát (ebédszünettel együtt).",
+            "ro": "Simțiți spiritul medieval al orașului Ferentino (pauză de prânz inclusă).",
+            "en": "Feel the medieval spirit of Ferentino (lunch break included)."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Ferentino",
+            "hu": "Ferentino akropolisza",
+            "ro": "Acropola din Ferentino",
+            "en": "Acropolis of Ferentino"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Riesige zyklopische Mauern stützen dieses beeindruckende Plateau.",
+            "hu": "Hatalmas küklopszi falak tartják ezt a lenyűgöző fennsíkot.",
+            "ro": "Ziduri ciclopice uriașe susțin acest platou impresionant.",
+            "en": "Huge cyclopean walls support this impressive plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom San Paolo",
+            "hu": "Szent Pál-székesegyház",
+            "ro": "Catedrala San Paolo",
+            "en": "St. Paul Cathedral"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mosaikböden und das Ziborium im Inneren (+30m Puffer).",
+            "hu": "Csodálja meg a mozaikpadlót és a cibóriumot (+30p puffer).",
+            "ro": "Admirați pardoselile de mozaic și ciboriumul (+30m buffer).",
+            "en": "Admire the mosaic floors and the ciborium inside (+30m buffer)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im unteren Teil der Altstadt an der monumentalen Porta Casamari. Ein kurzer Spaziergang führt Sie zur schlichten, aber majestätischen Kirche Santa Maria Maggiore. Am Mittag erkunden Sie den außergewöhnlichen römischen Markt, ein technisches Wunderwerk der Antike. Der Nachmittag gehört dem Aufstieg zum Römsichen Theater und zur gewaltigen Akropolis, wo die zyklopischen Mauern bis heute die Geschichte der Stadt bewahren. Den Abschluss bildet der prächtige Dom San Paolo mit seinem weiten Ausblick.",
+        "hu": "A nap az óváros alsó részén, a monumentális Casamari-kapunál kezdődik. Rövid séta után elérjük a Santa Maria Maggiore templomot, amely a ciszterci építészet ékköve. Délben felfedezzük a különleges római piacot, az ókori mérnöki munka remekét. Délután a Római Színház és az Akropolisz felé vesszük az irányt, ahol a hatalmas küklopszi falak ma is állnak. A napot a Szent Pál-székesegyházban zárjuk, ahonnan csodás panoráma nyílik a Sacco-völgyre.",
+        "ro": "Ziua începe în partea de jos a orașului vechi, la monumentala Porta Casamari. O scurtă plimbare vă duce la biserica Santa Maria Maggiore, o bijuterie a arhitecturii cisterciene. La prânz, explorați piața romană acoperită, o minune inginerească a antichității. După-amiaza este dedicată urcării către Teatrul Roman și imensa Acropolă, unde zidurile ciclopice păstrează și astăzi istoria orașului. Încheiați ziua la splendida Catedrală San Paolo, admirând panorama asupra văii.",
+        "en": "The day begins in the lower old town at the monumental Porta Casamari. A short walk leads to the Santa Maria Maggiore church, a jewel of Cistercian architecture. At noon, explore the extraordinary Roman market, an ancient engineering marvel. The afternoon is dedicated to the ascent towards the Roman Theater and the massive Acropolis, where cyclopean walls still stand strong. Conclude your journey at the magnificent St. Paul Cathedral, enjoying the sweeping views over the Sacco Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Traditionelle hausgemachte Pasta mit Bohnen und lokalem Olivenöl."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "Ein kräftiger lokaler Schafskäse aus der Ciociaria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Hagyományos házi tészta babbal és helyi olívaolajjal."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "Karakteres helyi juhsajt a Ciociaria régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Paste tradiționale de casă cu fasole și ulei de măsline local."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "O brânză de oaie locală puternică din regiunea Ciociaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sagne e fagioli",
+            "tip": "Traditional homemade pasta with beans and local olive oil."
+          },
+          {
+            "name": "Pecorino di Picinisco",
+            "tip": "A strong local sheep cheese from the Ciociaria region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Akropolis-Plateau",
+            "tip": "Genießen Sie die Stille und den weiten Blick über Latium.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kreuzgang von Santa Maria",
+            "tip": "Ein ruhiger Ort für Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akropolisz-fennsík",
+            "tip": "Élvezze a csendet és a kilátást Lazio dombjaira.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santa Maria kolostorkert",
+            "tip": "Békés hely az elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Acropolei",
+            "tip": "Bucurați-vă de liniște și de vederea panoramică asupra regiunii Lazio.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustrul Santa Maria",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Acropolis Plateau",
+            "tip": "Enjoy the silence and the panoramic view over Lazio.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cloister of Santa Maria",
+            "tip": "A peaceful spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olio Extravergine",
+            "tip": "Kaufen Sie das berühmte goldene Olivenöl der Ciociaria."
+          },
+          {
+            "name": "Lokale Weine",
+            "tip": "Probieren Sie den Cesanese del Piglio."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olio Extravergine",
+            "tip": "Vásároljon a Ciociaria híres aranyló olívaolajából."
+          },
+          {
+            "name": "Helyi borok",
+            "tip": "Kóstolja meg a Cesanese del Piglio vörösbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olio Extravergine",
+            "tip": "Cumpărați faimosul ulei de măsline auriu din Ciociaria."
+          },
+          {
+            "name": "Vinuri locale",
+            "tip": "Încercați vinul Cesanese del Piglio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olio Extravergine",
+            "tip": "Buy the famous golden olive oil of Ciociaria."
+          },
+          {
+            "name": "Local Wines",
+            "tip": "Try the Cesanese del Piglio red wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+          "Die zyklopischen Mauern sind am besten von außen sichtbar.",
+          "Probieren Sie das lokale Brot in den kleinen Bäckereien.",
+          "Die Akropolis ist besonders bei Sonnenuntergang magisch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek sikátorokhoz.",
+          "A küklopszi falak kívülről látszanak a legjobban.",
+          "Kóstolja meg a helyi kenyeret a kis pékségekben.",
+          "Az Akropolisz különösen naplementekor varázslatos."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile abrupte.",
+          "Zidurile ciclopice sunt cel mai bine vizibile din exterior.",
+          "Gustați pâinea locală în brutăriile mici.",
+          "Acropola este magică mai ales la apus."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep alleys.",
+          "The cyclopean walls are best seen from the outside.",
+          "Taste the local bread in the small bakeries.",
+          "The Acropolis is magical, especially at sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "end_estimate": "16:00",
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Casamari",
+            "hu": "Casamari-kapu",
+            "ro": "Porta Casamari",
+            "en": "Porta Casamari"
+          },
+          "coords": [
+            13.251,
+            41.686
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Erkundung der Mauern.",
+            "hu": "Kiindulópont a városfalak felfedezéséhez.",
+            "ro": "Punct de plecare pentru explorarea zidurilor.",
+            "en": "Starting point for exploring the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Biserica Santa Maria Maggiore",
+            "en": "Santa Maria Maggiore Church"
+          },
+          "coords": [
+            13.252,
+            41.687
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher vor dem Portal.",
+            "hu": "Parkolja le a biciklit biztonságosan a kapu előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața portalului.",
+            "en": "Park your bike safely in front of the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Markt",
+            "hu": "Római piac",
+            "ro": "Piața Romană",
+            "en": "Roman Market"
+          },
+          "coords": [
+            13.254,
+            41.689
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein kühler Ort für eine Pause.",
+            "hu": "Hűvös hely egy pihenőhöz.",
+            "ro": "Un loc răcoros pentru o pauză.",
+            "en": "A cool spot for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.255,
+            41.69
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blick auf das Tal während der Fahrt.",
+            "hu": "Kilátás a völgyre tekerés közben.",
+            "ro": "Vedere asupra văii în timpul mersului.",
+            "en": "Valley views while riding."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Sanguinaria",
+            "hu": "Sanguinaria-kapu",
+            "ro": "Porta Sanguinaria",
+            "en": "Porta Sanguinaria"
+          },
+          "coords": [
+            13.256,
+            41.69
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steile Auffahrt, aber es lohnt sich.",
+            "hu": "Meredek kaptató, de megéri.",
+            "ro": "Urcare abruptă, dar merită.",
+            "en": "Steep climb, but worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Ferentino",
+            "hu": "Ferentino akropolisza",
+            "ro": "Acropola din Ferentino",
+            "en": "Acropolis of Ferentino"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mittagspause auf dem Gipfel.",
+            "hu": "Ebédszünet a csúcson.",
+            "ro": "Pauză de prânz în vârf.",
+            "en": "Lunch break at the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom San Paolo",
+            "hu": "Szent Pál-székesegyház",
+            "ro": "Catedrala San Paolo",
+            "en": "St. Paul Cathedral"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der höchste Punkt Ihrer Tour.",
+            "hu": "A túra legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al turului.",
+            "en": "The highest point of your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Cavalieri Gaetani",
+            "hu": "Cavalieri Gaetani palota",
+            "ro": "Palazzo dei Cavalieri Gaetani",
+            "en": "Cavalieri Gaetani Palace"
+          },
+          "coords": [
+            13.255,
+            41.691
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannte Abfahrt zurück (+30m Puffer).",
+            "hu": "Laza gurulás vissza (+30p puffer).",
+            "ro": "Coborâre relaxată înapoi (+30m buffer).",
+            "en": "Relaxed downhill ride back (+30m buffer)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour fordert Sie mit den steilen Gängen Ferentinos heraus, belohnt Sie aber mit fantastischen Ausblicken. Sie umrunden die Stadtmauer und erklimmen die Akropolis, wobei Sie die wichtigsten römischen und mittelalterlichen Monumente passieren.",
+        "hu": "Ez a kerékpártúra kihívást jelent Ferentino meredek utcáin, de fantasztikus kilátással jutalmaz. Megkerüljük a városfalat, feltekerünk az Akropoliszra, érintve a legfontosabb római és középkori műemlékeket.",
+        "ro": "Acest tur cu bicicleta vă provoacă pe străzile abrupte din Ferentino, dar vă răsplătește cu vederi fantastice. Veți ocoli zidurile orașului și veți urca la Acropolă, trecând pe lângă cele mai importante monumente romane și medievale.",
+        "en": "This bike tour challenges you with Ferentino's steep alleys but rewards you with fantastic views. You will circle the city walls and climb to the Acropolis, passing the most important Roman and medieval monuments."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciociaria Picknick",
+            "tip": "Lokaler Käse und Schinken für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciociaria piknik",
+            "tip": "Helyi sajt és sonka az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic Ciociaria",
+            "tip": "Brânză și șuncă locală pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciociaria Picnic",
+            "tip": "Local cheese and ham for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Via dell'Acropoli",
+            "tip": "Ruhige Fahrt entlang der Mauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via dell'Acropoli",
+            "tip": "Csendes tekerés a falak mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via dell'Acropoli",
+            "tip": "Plimbare liniștită de-a lungul zidurilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Via dell'Acropoli",
+            "tip": "Quiet ride along the walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bicicletta-Shop",
+            "tip": "Lokale Fahrradkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicicletta-bolt",
+            "tip": "Helyi kerékpáros térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Bicicletta",
+            "tip": "Hărți locale pentru ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicicletta Shop",
+            "tip": "Local cycling maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für die Steigungen sehr zu empfehlen.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt."
+        ],
+        "hu": [
+          "Az emelkedők miatt az e-bike erősen ajánlott.",
+          "Ellenőrizze a fékeket az indulás előtt."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru pante.",
+          "Verificați frânele înainte de plecare."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the climbs.",
+          "Check your brakes before starting."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "end_estimate": "16:45",
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Casamari",
+            "hu": "Casamari-kapu",
+            "ro": "Porta Casamari",
+            "en": "Porta Casamari"
+          },
+          "coords": [
+            13.251,
+            41.686
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkplatz in der Nähe vorhanden (Cluster A).",
+            "hu": "Parkoló a közelben (A klaszter).",
+            "ro": "Parcare disponibilă în apropiere (Cluster A).",
+            "en": "Parking available nearby (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Biserica Santa Maria Maggiore",
+            "en": "Santa Maria Maggiore Church"
+          },
+          "coords": [
+            13.252,
+            41.687
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Porta Casamari.",
+            "hu": "Rövid séta a Casamari-kaputól.",
+            "ro": "O scurtă plimbare de la Porta Casamari.",
+            "en": "Short walk from Porta Casamari."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Markt",
+            "hu": "Római piac",
+            "ro": "Piața Romană",
+            "en": "Roman Market"
+          },
+          "coords": [
+            13.254,
+            41.689
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt zum zentralen Parkplatz (Cluster B).",
+            "hu": "Hajtson a központi parkolóhoz (B klaszter).",
+            "ro": "Conduceți spre parcarea centrală (Cluster B).",
+            "en": "Drive to central parking (Cluster B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.255,
+            41.69
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Markt erreichbar.",
+            "hu": "Gyalogosan elérhető a piactól.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Accessible on foot from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Sanguinaria",
+            "hu": "Sanguinaria-kapu",
+            "ro": "Porta Sanguinaria",
+            "en": "Porta Sanguinaria"
+          },
+          "coords": [
+            13.256,
+            41.69
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsfans.",
+            "hu": "Történelemrajongóknak kötelező.",
+            "ro": "O necesitate pentru fanii istoriei.",
+            "en": "A must-see for history fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Ferentino",
+            "hu": "Ferentino akropolisza",
+            "ro": "Acropola din Ferentino",
+            "en": "Acropolis of Ferentino"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Gipfel (Cluster C, inkl. Mittag).",
+            "hu": "Hajtson fel a csúcsra (C klaszter, ebéddel).",
+            "ro": "Conduceți spre vârf (Cluster C, prânz inclus).",
+            "en": "Drive to the top (Cluster C, incl. lunch)."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom San Paolo",
+            "hu": "Szent Pál-székesegyház",
+            "ro": "Catedrala San Paolo",
+            "en": "St. Paul Cathedral"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hinter der Akropolis gelegen.",
+            "hu": "Az Akropolisz mögött található.",
+            "ro": "Situată în spatele Acropolei.",
+            "en": "Located behind the Acropolis."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Cavalieri Gaetani",
+            "hu": "Cavalieri Gaetani palota",
+            "ro": "Palazzo dei Cavalieri Gaetani",
+            "en": "Cavalieri Gaetani Palace"
+          },
+          "coords": [
+            13.255,
+            41.691
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt (+30m Puffer).",
+            "hu": "Utolsó megálló az indulás előtt (+30p puffer).",
+            "ro": "Ultima oprire înainte de plecare (+30m buffer).",
+            "en": "Last stop before departure (+30m buffer)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Ferentino in drei Clustern. Zuerst der untere Teil mit der gotischen Kirche, dann das Zentrum mit dem römischen Markt und schließlich das Highlight: die Akropolis auf dem Gipfel.",
+        "hu": "Autóval három klaszterre osztva fedezzük fel Ferentinót. Először az alsó rész gótikus templomát, majd a központot a római piaccal, végül a csúcspontot: az Akropoliszt.",
+        "ro": "Cu mașina, explorați Ferentino în trei grupuri. Mai întâi partea de jos cu biserica gotică, apoi centrul cu piața romană și, în final, punctul culminant: Acropola de pe vârf.",
+        "en": "By car, you explore Ferentino in three clusters. First the lower part with the Gothic church, then the center with the Roman market, and finally the highlight: the Acropolis at the summit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Hervorragende Pasta-Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Kiváló tésztaételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Preparate de paste excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Excellent pasta dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale Marconi",
+            "tip": "Panoramastraße mit Blick auf das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Marconi",
+            "tip": "Panorámaút kilátással a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Marconi",
+            "tip": "Drum panoramic cu vedere spre vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Marconi",
+            "tip": "Panoramic road with valley views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ciociaria Spezialitäten",
+            "tip": "Lokaler Honig und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciociaria különlegességek",
+            "tip": "Helyi méz és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități Ciociaria",
+            "tip": "Miere și ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciociaria Specialties",
+            "tip": "Local honey and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (begrenzter Verkehr) im Zentrum.",
+          "Parken Sie bevorzugt auf den markierten Plätzen am Hang."
+        ],
+        "hu": [
+          "Figyeljen a központi ZTL-re (korlátozott forgalmú övezet).",
+          "Lehetőleg a kijelölt parkolókban álljon meg a hegyoldalban."
+        ],
+        "ro": [
+          "Atenție la ZTL (zonă cu trafic limitat) în centru.",
+          "Parcați de preferință în locurile marcate de pe versant."
+        ],
+        "en": [
+          "Watch out for the ZTL (limited traffic zone) in the center.",
+          "Preferably park in the marked spots on the hillside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "end_estimate": "17:00",
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Casamari",
+            "hu": "Casamari-kapu",
+            "ro": "Porta Casamari",
+            "en": "Porta Casamari"
+          },
+          "coords": [
+            13.251,
+            41.686
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Busstopp in der Nähe des Stadteingangs.",
+            "hu": "Buszmegálló a város bejáratánál.",
+            "ro": "Stație de autobuz lângă intrarea în oraș.",
+            "en": "Bus stop near the city entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Biserica Santa Maria Maggiore",
+            "en": "Santa Maria Maggiore Church"
+          },
+          "coords": [
+            13.252,
+            41.687
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Stadteingang.",
+            "hu": "Rövid séta a városkaputól.",
+            "ro": "Scurtă plimbare de la intrarea în oraș.",
+            "en": "Short walk from the city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Markt",
+            "hu": "Római piac",
+            "ro": "Piața Romană",
+            "en": "Roman Market"
+          },
+          "coords": [
+            13.254,
+            41.689
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Ortsbus ins Zentrum.",
+            "hu": "Szálljon fel a helyi buszra a központ felé.",
+            "ro": "Luați autobuzul local spre centru.",
+            "en": "Take the local bus to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theater"
+          },
+          "coords": [
+            13.255,
+            41.69
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar (District B).",
+            "hu": "Gyalogosan elérhető (B körzet).",
+            "ro": "Accesibil pe jos (District B).",
+            "en": "Accessible on foot (District B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Sanguinaria",
+            "hu": "Sanguinaria-kapu",
+            "ro": "Porta Sanguinaria",
+            "en": "Porta Sanguinaria"
+          },
+          "coords": [
+            13.256,
+            41.69
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Imposantes Mauerwerk.",
+            "hu": "Impozáns falazat.",
+            "ro": "Zidărie impresionantă.",
+            "en": "Impressive masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Ferentino",
+            "hu": "Ferentino akropolisza",
+            "ro": "Acropola din Ferentino",
+            "en": "Acropolis of Ferentino"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus oder Fußweg zum Gipfel (inkl. Mittag).",
+            "hu": "Busz vagy séta a csúcsra (ebéddel).",
+            "ro": "Autobuz sau plimbare spre vârf (prânz inclus).",
+            "en": "Bus or walk to the summit (incl. lunch)."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom San Paolo",
+            "hu": "Szent Pál-székesegyház",
+            "ro": "Catedrala San Paolo",
+            "en": "St. Paul Cathedral"
+          },
+          "coords": [
+            13.256,
+            41.692
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ruhepol über der Stadt.",
+            "hu": "A nyugalom szigete a város felett.",
+            "ro": "Un loc de liniște deasupra orașului.",
+            "en": "A place of peace above the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Cavalieri Gaetani",
+            "hu": "Cavalieri Gaetani palota",
+            "ro": "Palazzo dei Cavalieri Gaetani",
+            "en": "Cavalieri Gaetani Palace"
+          },
+          "coords": [
+            13.255,
+            41.691
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Blick auf den Palast (+30m Puffer).",
+            "hu": "Utolsó pillantás a palotára (+30p puffer).",
+            "ro": "Ultima privire asupra palatului (+30m buffer).",
+            "en": "Last look at the palace (+30m buffer)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der lokalen Busse erreichen Sie bequem die verschiedenen Ebenen Ferentinos. Vom Stadteingang bis zur Akropolis bietet der öffentliche Verkehr eine gute Alternative zu den steilen Anstiegen, während Sie die historischen Distrikte erkunden.",
+        "hu": "A helyi buszoknak köszönhetően kényelmesen elérheti Ferentino különböző szintjeit. A város bejáratától az Akropoliszig a tömegközlekedés jó alternatívát kínál a meredek emelkedők helyett a történelmi körzetek felfedezése közben.",
+        "ro": "Datorită autobuzelor locale, puteți ajunge confortabil la diferitele niveluri ale orașului Ferentino. De la intrarea în oraș până la Acropolă, transportul public oferă o alternativă bună la urcușurile abrupte în timp ce explorați districtele istorice.",
+        "en": "Thanks to local buses, you can comfortably reach the different levels of Ferentino. From the city entrance to the Acropolis, public transport offers a good alternative to the steep climbs while you explore the historical districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Probieren Sie das lokale Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Kóstolja meg a helyi süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Gustați produsele de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Try the local pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domvorplatz",
+            "tip": "Blick über das Sacco-Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dóm előtti tér",
+            "tip": "Kilátás a Sacco-völgyre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Catedralei",
+            "tip": "Vedere peste Valea Sacco.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Square",
+            "tip": "View over the Sacco Valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Locale",
+            "tip": "Frische Produkte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss termékek a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Produse proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh products from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus (COTRAL oder Stadtbus).",
+          "Kaufen Sie Tickets in den Tabacchi-Läden."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet előre (COTRAL vagy helyi járat).",
+          "Vásároljon jegyet előre a trafikokban (Tabacchi)."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor în avans (COTRAL sau urban).",
+          "Cumpărați bilete de la magazinele Tabacchi."
+        ],
+        "en": [
+          "Check the bus schedule in advance (COTRAL or local bus).",
+          "Buy tickets in advance at Tabacchi shops."
+        ]
+      }
+    }
+  }
+}

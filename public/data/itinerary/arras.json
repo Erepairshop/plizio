@@ -1,0 +1,1052 @@
+{
+  "city_id": "arras",
+  "anchor": {
+    "name": "Place des Héros",
+    "coords": [
+      2.777,
+      50.291
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Grand'Place",
+          "coords": [
+            2.779,
+            50.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die flämischen Barockfassaden mit ihren Giebeln.",
+            "hu": "Figyeld meg a flamand barokk házsorok díszes oromzatait.",
+            "ro": "Admirați fațadele baroce flamande cu frontoane decorate.",
+            "en": "Look up at the Flemish Baroque facades and their unique gables."
+          }
+        },
+        {
+          "name": "Place des Héros & Beffroi",
+          "coords": [
+            2.777,
+            50.291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg auf den UNESCO-Beffroi bietet den besten Stadtblick.",
+            "hu": "Az UNESCO világörökség harangtoronyból nyílik a legjobb kilátás.",
+            "ro": "Urcarea în turnul UNESCO oferă cea mai bună panoramă a orașului.",
+            "en": "Climbing the UNESCO belfry offers the best panoramic city view."
+          }
+        },
+        {
+          "name": "Les Boves",
+          "coords": [
+            2.778,
+            50.291
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Unterirdischer Rundgang durch die mittelalterlichen Kreidekeller.",
+            "hu": "Föld alatti túra a középkori mészkőpincékben a főtér alatt.",
+            "ro": "Tur subteran prin pivnițele de cretă medievale de sub piețe.",
+            "en": "Underground tour through medieval chalk cellars beneath the squares."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Vaast",
+          "coords": [
+            2.772,
+            50.292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine klassizistische Kathedrale mit beeindruckend hellem Innenraum.",
+            "hu": "Klasszicista stílusú székesegyház hatalmas, világos belső térrel.",
+            "ro": "Catedrală clasicistă cu un interior impresionant de luminos.",
+            "en": "A classicist cathedral featuring an impressively bright interior."
+          }
+        },
+        {
+          "name": "Abbaye Saint-Vaast",
+          "coords": [
+            2.773,
+            50.293
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beherbergt das Musée des Beaux-Arts in einem prächtigen Abteibau.",
+            "hu": "A Szépművészeti Múzeumnak otthont adó monumentális apátság.",
+            "ro": "Găzduiește Muzeul de Arte Frumoase într-o fostă abație grandioasă.",
+            "en": "Houses the Fine Arts Museum within a magnificent abbey building."
+          }
+        },
+        {
+          "name": "Citadelle d'Arras",
+          "coords": [
+            2.766,
+            50.285
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die von Vauban entworfene Festung ist heute ein ruhiger Park.",
+            "hu": "Vauban erődítménye, amely ma békés parkként és emlékhelyként üzemel.",
+            "ro": "Fortăreața proiectată de Vauban este astăzi un parc liniștit.",
+            "en": "The fortress designed by Vauban is now a peaceful public park."
+          }
+        },
+        {
+          "name": "Carrière Wellington",
+          "coords": [
+            2.783,
+            50.281
+          ],
+          "category": "museums",
+          "arrive_at": "16:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein berührendes Museum in den Tunneln des Ersten Weltkriegs.",
+            "hu": "Megható múzeum az első világháborús alagútrendszer mélyén.",
+            "ro": "Un muzeu emoționant în tunelurile din Primul Război Mondial.",
+            "en": "A moving museum located in the tunnels of the First World War."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt auf der Grand'Place, umgeben von 155 Barockhäusern. Nach dem Aufstieg auf den Beffroi erkunden wir das unterirdische Arras in den Boves. Der Nachmittag gehört der klassischen Eleganz der Abtei Saint-Vaast und der Kathedrale. Wir beenden die Tour an der Citadelle und dem Carrière Wellington, Zeugen der bewegten Militärgeschichte der Stadt.",
+        "hu": "A napot a Grand'Place-on kezdjük, ahol 155 egyedi barokk homlokzat vesz körül. A harangtorony megmászása után a föld alá ereszkedünk a Boves járataiba. Délután a Saint-Vaast apátság és a katedrális művészeti kincseit fedezzük fel, majd a Citadella és a Wellington-emlékhely katonai történelmével zárjuk a sétát.",
+        "ro": "Ziua începe în Grand'Place, înconjurată de 155 de case baroce. După urcarea în Beffroi, explorăm Arrasul subteran în Les Boves. După-amiaza este dedicată eleganței clasice a Abației Saint-Vaast și a catedralei. Încheiem turul la Citadelă și Carrière Wellington, martori ai istoriei militare zbuciumate a orașului.",
+        "en": "Start the day at the Grand'Place, surrounded by 155 unique Baroque facades. After climbing the UNESCO belfry, explore the underground world of Les Boves. Spend the afternoon admiring the art at Saint-Vaast Abbey and the cathedral, finishing with a visit to the Vauban Citadel and the moving Wellington Quarry museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Andouillette d'Arras",
+            "tip": "Traditionelle Wurstspezialität, oft mit Senfsauce serviert."
+          },
+          {
+            "name": "Coeurs d'Arras",
+            "tip": "Herzförmige Pralinen, eine süße Tradition der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andouillette d'Arras",
+            "tip": "Helyi kolbászkülönlegesség, gyakran mustármártással."
+          },
+          {
+            "name": "Coeurs d'Arras",
+            "tip": "Szív alakú csokoládé, Arras édes szimbóluma."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Andouillette d'Arras",
+            "tip": "Specialitate locală de cârnat, servită des cu sos de muștar."
+          },
+          {
+            "name": "Coeurs d'Arras",
+            "tip": "Bomboane de ciocolată în formă de inimă, tradiția orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Andouillette d'Arras",
+            "tip": "Traditional local sausage, often served with mustard sauce."
+          },
+          {
+            "name": "Coeurs d'Arras",
+            "tip": "Heart-shaped chocolates, a sweet symbol of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Gouverneur",
+            "tip": "Ein versteckter, ruhiger Garten hinter der Abtei.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Citadelle Park",
+            "tip": "Ideal für einen entspannten Spaziergang im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Gouverneur",
+            "tip": "Rejtett, csendes kert az apátság mögött.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Citadella park",
+            "tip": "Tökéletes hely egy nyugodt sétához a várfalak mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Gouverneur",
+            "tip": "O grădină ascunsă și liniștită în spatele abației.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Parcul Citadelei",
+            "tip": "Ideal pentru o plimbare relaxantă în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Gouverneur",
+            "tip": "A hidden, quiet garden located behind the abbey.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Citadelle Park",
+            "tip": "Perfect for a relaxing walk amidst historical greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Mittwochs und samstags auf den großen Plätzen."
+          },
+          {
+            "name": "Jean Trogneux",
+            "tip": "Bekannter Chocolatier für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szerdán és szombaton a főtereken, helyi termelőkkel."
+          },
+          {
+            "name": "Jean Trogneux",
+            "tip": "Híres csokoládébolt, ahol a Coeurs d'Arras kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Miercurea și sâmbăta în piețele principale."
+          },
+          {
+            "name": "Jean Trogneux",
+            "tip": "Ciocolatier celebru pentru specialitățile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Held on Wednesdays and Saturdays on the main squares."
+          },
+          {
+            "name": "Jean Trogneux",
+            "tip": "Famous chocolatier for local sweets and treats."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die beiden Hauptplätze sind fast vollständig unterkellert; eine Tour durch die Boves ist Pflicht.",
+          "Buchen Sie Tickets für den Beffroi-Aufstieg im Voraus, besonders an Markttagen.",
+          "Die Carrière Wellington liegt etwa 15-20 Gehminuten vom Zentrum entfernt.",
+          "Arras ist sehr fußgängerfreundlich, das Zentrum ist fast komplett gepflastert."
+        ],
+        "hu": [
+          "A két főtér alatt kiterjedt pincerendszer húzódik; a Boves túra kötelező program.",
+          "A harangtoronyba (Beffroi) érdemes előre jegyet foglalni, főleg piaci napokon.",
+          "A Wellington-emlékhely kb. 15-20 perc séta a városközponttól délre.",
+          "Arras központja gyalogosan kiválóan bejárható, a legtöbb látnivaló közel van."
+        ],
+        "ro": [
+          "Cele două piețe principale au pivnițe vaste dedesubt; turul Les Boves este obligatoriu.",
+          "Rezervați bilete pentru urcarea în Beffroi în avans, mai ales în zilele de piață.",
+          "Carrière Wellington se află la aproximativ 15-20 de minute de mers pe jos de centru.",
+          "Centrul orașului Arras este foarte accesibil pietonilor, fiind majoritar pavat."
+        ],
+        "en": [
+          "The two main squares are almost entirely vaulted underneath; a Boves tour is a must.",
+          "Book your tickets for the Belfry climb in advance, especially on market days.",
+          "The Wellington Quarry is about a 15-20 minute walk from the city center.",
+          "Arras is very pedestrian-friendly; most key sights are clustered near the squares."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Grand'Place",
+          "coords": [
+            2.779,
+            50.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour auf dem imposanten Marktplatz.",
+            "hu": "Kezdd a bringatúrát a lenyűgöző flamand piacon.",
+            "ro": "Începeți turul cu bicicleta în piața centrală grandioasă.",
+            "en": "Start your cycling tour in the grand Flemish marketplace."
+          }
+        },
+        {
+          "name": "Place des Héros",
+          "coords": [
+            2.777,
+            50.291
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie kurz für ein Foto vom Rathaus.",
+            "hu": "Állj meg egy fotóra a városháza előtt.",
+            "ro": "Opriți pentru o fotografie în fața primăriei.",
+            "en": "Park briefly for a photo in front of the town hall."
+          }
+        },
+        {
+          "name": "Beffroi d'Arras",
+          "coords": [
+            2.777,
+            50.291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit weitem Rundblick.",
+            "hu": "Világörökségi helyszín pazar körpanorámával.",
+            "ro": "Sit UNESCO cu o vedere panoramică vastă.",
+            "en": "UNESCO world heritage site with a vast circular view."
+          }
+        },
+        {
+          "name": "Abbaye Saint-Vaast",
+          "coords": [
+            2.773,
+            50.293
+          ],
+          "category": "museums",
+          "arrive_at": "11:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Großer Innenhof, ideal zum Abstellen der Räder.",
+            "hu": "Hatalmas belső udvar, ideális a biciklik lezárásához.",
+            "ro": "Curte interioară mare, ideală pentru parcat bicicletele.",
+            "en": "Large inner courtyard, perfect for parking your bikes."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Vaast",
+          "coords": [
+            2.772,
+            50.292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das helle Kirchenschiff.",
+            "hu": "Nézd meg a katedrális monumentális, világos hajóját.",
+            "ro": "Vizitați nava luminoasă a catedralei.",
+            "en": "Visit the monumental and bright cathedral nave."
+          }
+        },
+        {
+          "name": "Citadelle d'Arras",
+          "coords": [
+            2.766,
+            50.285
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radfahren auf den Wallanlagen von Vauban.",
+            "hu": "Biciklizés a Vauban-féle várfalak mentén.",
+            "ro": "Ciclism de-a lungul zidurilor cetății Vauban.",
+            "en": "Cycling along the impressive Vauban fortress walls."
+          }
+        },
+        {
+          "name": "Carrière Wellington",
+          "coords": [
+            2.783,
+            50.281
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Das Museum bietet Fahrradständer direkt am Eingang.",
+            "hu": "A múzeum bejáratánál kiépített biciklitárolók vannak.",
+            "ro": "Muzeul oferă rasteluri de biciclete chiar la intrare.",
+            "en": "The museum provides bike racks right by the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Arras effizient erkunden. Von den historischen Plätzen im Zentrum radeln wir zur monumentalen Abtei. Der Weg zur Vauban-Zitadelle führt durch grüne Alleen. Zum Abschluss besuchen wir die Carrière Wellington am Stadtrand, die mit dem Rad in wenigen Minuten erreichbar ist.",
+        "hu": "Kerékpárral Arras kényelmesen és gyorsan bejárható. A történelmi főterekről áttekerünk a monumentális apátsághoz, majd a zöld sugárutakon a Vauban-citadellához látogatunk. A napot a város szélén található Wellington-emlékhelynél zárjuk, ami biciklivel pár perc alatt elérhető.",
+        "ro": "Cu bicicleta, Arras poate fi explorat eficient. De la piețele istorice din centru, pedalăm spre abația monumentală. Drumul către citadela Vauban trece prin alei verzi. La final, vizităm Carrière Wellington de la marginea orașului, accesibilă în câteva minute cu bicicleta.",
+        "en": "Explore Arras efficiently on two wheels. Cycle from the historic central squares to the monumental abbey, then take the leafy avenues to the Vauban Citadel. End your tour at the Wellington Quarry on the outskirts, easily reachable by bike within minutes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Petit Rat Porteur",
+            "tip": "Regionale Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Petit Rat Porteur",
+            "tip": "Helyi fogások egy történelmi boltíves pincében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Petit Rat Porteur",
+            "tip": "Bucătărie regională într-un decor istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Petit Rat Porteur",
+            "tip": "Regional dishes in a historic vaulted cellar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois de Saint-Sauveur",
+            "tip": "Ein Waldgebiet am Rande der Stadt für Natur pur.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois de Saint-Sauveur",
+            "tip": "Erdős terület a város szélén a természet kedvelőinek.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois de Saint-Sauveur",
+            "tip": "O zonă împădurită la marginea orașului pentru natură pură.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois de Saint-Sauveur",
+            "tip": "A forested area on the edge of town for nature lovers.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place des Héros",
+            "tip": "Boutiquen für lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place des Héros",
+            "tip": "Helyi kézműves termékeket kínáló kis boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place des Héros",
+            "tip": "Boutique-uri cu produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place des Héros",
+            "tip": "Boutiques offering local crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die kostenlosen Fahrradparkplätze am Bahnhof.",
+          "Achtung auf das Kopfsteinpflaster in der Altstadt.",
+          "Die Zitadelle ist fast komplett mit dem Rad befahrbar."
+        ],
+        "hu": [
+          "Használd a vasútállomásnál lévő ingyenes biciklitárolót.",
+          "Vigyázz a macskakövekre a történelmi belvárosban.",
+          "A Citadella területe szinte teljes egészében bejárható bringával."
+        ],
+        "ro": [
+          "Folosiți parcările de biciclete gratuite de la gară.",
+          "Atenție la pavajul cu piatră cubică din centrul vechi.",
+          "Citadela este aproape în întregime accesibilă cu bicicleta."
+        ],
+        "en": [
+          "Use the free bicycle parking available at the train station.",
+          "Be careful with the cobblestones in the historic old town.",
+          "The Citadel area is almost entirely accessible by bicycle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Grand'Place (Parken)",
+          "coords": [
+            2.779,
+            50.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tiefgarage unter der Grand'Place nutzen.",
+            "hu": "Használd a Grand'Place alatti mélygarázst.",
+            "ro": "Folosiți parcarea subterană de sub Grand'Place.",
+            "en": "Use the underground parking beneath Grand'Place."
+          }
+        },
+        {
+          "name": "Beffroi d'Arras",
+          "coords": [
+            2.777,
+            50.291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkhaus Grand'Place.",
+            "hu": "Gyalogos távolságra a Grand'Place parkolótól.",
+            "ro": "Accesibil pe jos din parcarea Grand'Place.",
+            "en": "Within walking distance from the Grand'Place parking."
+          }
+        },
+        {
+          "name": "Les Boves",
+          "coords": [
+            2.778,
+            50.291
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Eingang befindet sich im Rathaus.",
+            "hu": "A bejárat a Városháza épületében van.",
+            "ro": "Intrarea se află în clădirea primăriei.",
+            "en": "The entrance is located inside the Town Hall."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Vaast",
+          "coords": [
+            2.772,
+            50.292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Cluster Abtei/Kathedrale.",
+            "hu": "Rövid gurulás az Apátság/Katedrális negyedbe.",
+            "ro": "Scurtă deplasare către zona Abație/Catedrală.",
+            "en": "Short drive to the Abbey/Cathedral cluster."
+          }
+        },
+        {
+          "name": "Abbaye Saint-Vaast",
+          "coords": [
+            2.773,
+            50.293
+          ],
+          "category": "museums",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parkplätze in der Nähe der Abtei vorhanden.",
+            "hu": "Az apátság közelében találhatók parkolóhelyek.",
+            "ro": "Parcări disponibile în apropierea abației.",
+            "en": "Parking spaces available near the abbey."
+          }
+        },
+        {
+          "name": "Carrière Wellington",
+          "coords": [
+            2.783,
+            50.281
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz direkt am Museum.",
+            "hu": "Hatalmas ingyenes parkoló a múzeum mellett.",
+            "ro": "Parcare gratuită mare direct la muzeu.",
+            "en": "Large free parking lot directly at the museum."
+          }
+        },
+        {
+          "name": "Citadelle d'Arras",
+          "coords": [
+            2.766,
+            50.285
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken am Eingang der Zitadelle.",
+            "hu": "Parkolás közvetlenül a Citadella bejáratánál.",
+            "ro": "Parcare la intrarea în citadelă.",
+            "en": "Parking available at the citadel entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet das historische Zentrum mit den Außenbezirken. Wir nutzen die Tiefgarage an der Grand'Place für den Kernbereich, fahren dann bequem zur Abtei und schließen den Tag an der Carrière Wellington und der Zitadelle ab, wo Parken problemlos möglich ist.",
+        "hu": "Ez az autós túra összeköti a történelmi központot a külvárosi részekkel. A belváros felfedezéséhez a Grand'Place mélygarázsát használjuk, majd kényelmesen átgurulunk az apátsághoz, végül a Wellington-emlékhelynél és a Citadellánál zárjuk a napot.",
+        "ro": "Acest tur cu mașina conectează centrul istoric cu zonele periferice. Folosim parcarea subterană din Grand'Place pentru zona centrală, apoi mergem confortabil la abație și încheiem ziua la Carrière Wellington și Citadelă, unde parcarea este facilă.",
+        "en": "This car tour links the historic center with the outer districts. Use the underground parking at Grand'Place for the core area, then drive conveniently to the abbey, finishing the day at the Wellington Quarry and the Citadel, where parking is easy to find."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Coupole",
+            "tip": "Beliebtes Restaurant mit Blick auf die Plätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Coupole",
+            "tip": "Népszerű étterem kilátással a főterekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Coupole",
+            "tip": "Restaurant popular cu vedere spre piețe."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Coupole",
+            "tip": "Popular restaurant overlooking the main squares."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cimetière du Faubourg d'Amiens",
+            "tip": "Ein würdevoller Gedenkort mit britischem Mahnmal.",
+            "emoji": "🕊️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cimetière du Faubourg d'Amiens",
+            "tip": "Méltóságteljes emlékhely brit katonai emlékművel.",
+            "emoji": "🕊️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimetière du Faubourg d'Amiens",
+            "tip": "Un loc de comemorare solemn cu un monument britanic.",
+            "emoji": "🕊️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cimetière du Faubourg d'Amiens",
+            "tip": "A solemn memorial site with a British war memorial.",
+            "emoji": "🕊️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Auchan Arras",
+            "tip": "Großes Einkaufszentrum für regionale Produkte am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auchan Arras",
+            "tip": "Nagy bevásárlóközpont helyi termékekkel a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auchan Arras",
+            "tip": "Centru comercial mare pentru produse regionale la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auchan Arras",
+            "tip": "Large shopping mall for regional products on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkhaus Grand'Place ist sonntags oft günstiger.",
+          "Die Straßen im Zentrum sind schmal, parken Sie lieber in den Parkhäusern.",
+          "Wellington Quarry hat einen eigenen Parkplatz für Besucher."
+        ],
+        "hu": [
+          "A Grand'Place alatti mélygarázs vasárnap gyakran kedvezményes.",
+          "A belvárosi utcák szűkek, érdemesebb a kijelölt parkolóházakat használni.",
+          "A Wellington-emlékhelynek saját, ingyenes látogatói parkolója van."
+        ],
+        "ro": [
+          "Parcarea Grand'Place este adesea mai ieftină duminica.",
+          "Străzile din centru sunt înguste, preferați parcările etajate.",
+          "Carrière Wellington are propria parcare pentru vizitatori."
+        ],
+        "en": [
+          "Grand'Place parking is often cheaper on Sundays.",
+          "Center streets are narrow; it's better to use designated parking garages.",
+          "The Wellington Quarry has its own dedicated parking for visitors."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Grand'Place",
+          "coords": [
+            2.779,
+            50.292
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Arras in 10 Min. zu Fuß erreichbar.",
+            "hu": "Az állomástól 10 perc sétára található.",
+            "ro": "Accesibil în 10 minute de mers pe jos de la gară.",
+            "en": "Reachable in 10 minutes on foot from Arras station."
+          }
+        },
+        {
+          "name": "Beffroi d'Arras",
+          "coords": [
+            2.777,
+            50.291
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, direkt neben den Plätzen.",
+            "hu": "A város szíve, közvetlenül a főterek mellett.",
+            "ro": "Inima orașului, chiar lângă piețele centrale.",
+            "en": "The heart of the city, right next to the squares."
+          }
+        },
+        {
+          "name": "Les Boves",
+          "coords": [
+            2.778,
+            50.291
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tickets im Tourismusbüro im Rathaus.",
+            "hu": "Jegyek a városházán lévő turisztikai irodában.",
+            "ro": "Bilete la biroul de turism din primărie.",
+            "en": "Tickets at the tourism office inside the Town Hall."
+          }
+        },
+        {
+          "name": "Abbaye Saint-Vaast",
+          "coords": [
+            2.773,
+            50.293
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle 'Ma Citadine' (Elektrobus).",
+            "hu": "Használd a 'Ma Citadine' elektromos buszjáratot.",
+            "ro": "Folosiți naveta 'Ma Citadine' (autobuz electric).",
+            "en": "Use the 'Ma Citadine' electric shuttle bus."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Vaast",
+          "coords": [
+            2.772,
+            50.292
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Abtei gelegen.",
+            "hu": "Közvetlenül az apátság mellett található.",
+            "ro": "Situată chiar lângă abație.",
+            "en": "Located right next to the abbey complex."
+          }
+        },
+        {
+          "name": "Carrière Wellington",
+          "coords": [
+            2.783,
+            50.281
+          ],
+          "category": "museums",
+          "arrive_at": "14:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 1 oder 4 ab dem Stadtzentrum.",
+            "hu": "1-es vagy 4-es busz a belvárosból.",
+            "ro": "Linia de autobuz 1 sau 4 din centrul orașului.",
+            "en": "Bus line 1 or 4 from the city center."
+          }
+        },
+        {
+          "name": "Citadelle d'Arras",
+          "coords": [
+            2.766,
+            50.285
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Citadelle' direkt am Tor.",
+            "hu": "'Citadelle' buszmegálló közvetlenül a kapunál.",
+            "ro": "Stația de autobuz 'Citadelle' chiar la poartă.",
+            "en": "Bus stop 'Citadelle' located right at the gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des kostenlosen Elektro-Shuttles 'Ma Citadine' ist das Zentrum von Arras ideal mit dem ÖPNV zu erkunden. Wir starten an den Plätzen, besuchen die kulturellen Highlights wie die Abtei und nutzen die Stadtbusse, um die etwas entfernteren Orte wie die Carrière Wellington und die Zitadelle bequem zu erreichen.",
+        "hu": "A 'Ma Citadine' nevű ingyenes elektromos busznak köszönhetően Arras központja tömegközlekedéssel is remekül bejárható. A főterektől indulunk, megnézzük az apátságot, majd a helyi buszokat használva látogatunk el a távolabbi Wellington-emlékhelyhez és a Citadellához.",
+        "ro": "Datorită navetei electrice gratuite 'Ma Citadine', centrul orașului Arras este ideal de explorat cu transportul public. Începem de la piețe, vizităm reperele culturale precum abația și folosim autobuzele urbane pentru a ajunge la obiectivele mai îndepărtate.",
+        "en": "Arras is easy to explore via transit thanks to the free 'Ma Citadine' electric shuttle. Start at the squares, visit cultural highlights like the abbey, and use the local bus network to comfortably reach sites like the Wellington Quarry and the Vauban Citadel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Table d'Arras",
+            "tip": "Qualitätsküche in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Table d'Arras",
+            "tip": "Minőségi konyha a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Table d'Arras",
+            "tip": "Bucătărie de calitate în apropierea gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table d'Arras",
+            "tip": "High-quality dining located near the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Kleiner Park in der Nähe der Präfektur.",
+            "emoji": "⛲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Kis park a prefektúra közelében, padokkal.",
+            "emoji": "⛲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Un mic parc lângă prefectură, cu bănci.",
+            "emoji": "⛲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la Légion d'Honneur",
+            "tip": "Small park near the prefecture, ideal for a rest.",
+            "emoji": "⛲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "Haupteinkaufsstraße mit vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "A város fő bevásárlóutcája számos üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "Principala stradă comercială cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Gambetta",
+            "tip": "The main shopping street with various stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Shuttle 'Ma Citadine' ist für alle Nutzer kostenlos.",
+          "Die Busfrequenzen sind samstags etwas niedriger.",
+          "Vom Bahnhof bis zur Grand'Place sind es nur wenige Gehminuten."
+        ],
+        "hu": [
+          "A 'Ma Citadine' kisbusz mindenki számára ingyenesen igénybe vehető.",
+          "Szombatonként a buszjáratok ritkábban közlekednek.",
+          "A vasútállomástól a Grand'Place mindössze pár perc séta."
+        ],
+        "ro": [
+          "Naveta 'Ma Citadine' este gratuită pentru toți utilizatorii.",
+          "Frecvența autobuzelor este ceva mai redusă sâmbăta.",
+          "De la gară până la Grand'Place sunt doar câteva minute de mers pe jos."
+        ],
+        "en": [
+          "The 'Ma Citadine' shuttle is free for everyone to use.",
+          "Bus frequencies are slightly lower on Saturdays.",
+          "The Grand'Place is just a few minutes' walk from the train station."
+        ]
+      }
+    }
+  }
+}

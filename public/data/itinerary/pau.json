@@ -1,0 +1,756 @@
+{
+  "city_id": "pau",
+  "anchor": {
+    "name": "Place Royale",
+    "coords": [
+      -0.3708,
+      43.2951
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Château de Pau",
+          "coords": [
+            -0.3745,
+            43.2947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Buchen Sie die Führung, um das prunkvolle Geburtshaus von Heinrich IV. zu sehen.",
+            "hu": "Foglalj vezetést, hogy lásd IV. Henrik fényűző szülőhelyét.",
+            "ro": "Rezervă un tur ghidat pentru a vedea locul de naștere al lui Henric al IV-lea.",
+            "en": "Book a guided tour to see the birthplace of King Henry IV in its full glory."
+          }
+        },
+        {
+          "name": "Église Saint-Martin",
+          "coords": [
+            -0.373,
+            43.295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die feinen Buntglasfenster.",
+            "hu": "Csodáld meg a neogótikus építészetet és a finom színes üvegablakokat.",
+            "ro": "Admiră arhitectura neogotică și vitraliile fine din interior.",
+            "en": "Admire the neo-Gothic architecture and the fine stained-glass windows."
+          }
+        },
+        {
+          "name": "Boulevard des Pyrénées",
+          "coords": [
+            -0.371,
+            43.294
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Panoramablick auf die Pyrenäenkette ist an klaren Tagen atemberaubend.",
+            "hu": "A Pireneusok vonulatára nyíló panoráma tiszta időben lélegzetelállító.",
+            "ro": "Panorama asupra lanțului Pirineilor este uluitoare în zilele senine.",
+            "en": "The panoramic view of the Pyrenees chain is breathtaking on clear days."
+          }
+        },
+        {
+          "name": "Funiculaire de Pau",
+          "coords": [
+            -0.3698,
+            43.2938
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine kostenlose Fahrt mit der historischen Standseilbahn zum Bahnhof hinunter.",
+            "hu": "Ingyenes utazás a történelmi siklóval le a vasútállomáshoz.",
+            "ro": "O călătorie gratuită cu funicularul istoric până la gară.",
+            "en": "Take a free ride on the historic funicular down to the train station level."
+          }
+        },
+        {
+          "name": "Mittagessen in der Altstadt",
+          "coords": [
+            -0.37,
+            43.2955
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die 'Poule au pot', das traditionelle Gericht der Region Béarn.",
+            "hu": "Kóstold meg a 'Poule au pot'-ot, a Béarn régió hagyományos ételét.",
+            "ro": "Încearcă 'Poule au pot', mâncarea tradițională a regiunii Béarn.",
+            "en": "Try the 'Poule au pot', the traditional hen stew of the Béarn region."
+          }
+        },
+        {
+          "name": "Musée Bernadotte",
+          "coords": [
+            -0.372,
+            43.299
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Geburtshaus des Marschalls, der König von Schweden wurde.",
+            "hu": "Látogasd meg a Svédország királyává vált marsall szülőházát.",
+            "ro": "Vizitează casa natală a mareșalului care a devenit rege al Suediei.",
+            "en": "Visit the birthplace of the Marshal who became King of Sweden."
+          }
+        },
+        {
+          "name": "Parc Beaumont",
+          "coords": [
+            -0.36,
+            43.297
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am See und genießen Sie die Ruhe im englischen Garten.",
+            "hu": "Pihenj a tónál és élvezd a nyugalmat az angolkertben.",
+            "ro": "Relaxează-te lângă lac și bucură-te de liniște în grădina englezească.",
+            "en": "Relax by the lake and enjoy the tranquility of this English-style garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das majestätische Schloss und die Altstadt. Der Vormittag gehört dem Boulevard des Pyrénées mit seinem Alpen-Panorama. Nach einem traditionellen Béarn-Mittagessen tauchen Sie im Bernadotte-Museum in die Geschichte ein. Den Nachmittag verbringen Sie entspannt im Beaumont-Park, bevor der Tag am Place Royale ausklingt.",
+        "hu": "A reggelt a fenséges kastély és az óváros felfedezésével töltöd. Délelőtt a Pireneusok sugárútján csodálhatod meg a hegyi panorámát. Egy hagyományos béarni ebéd után a Bernadotte Múzeumban merülhetsz el a történelemben. A délután a Beaumont park nyugalmáé, majd a nap a Place Royale-on ér véget.",
+        "ro": "Dimineața este dedicată explorării castelului maiestuos și a centrului vechi. Continuăm pe Bulevardul Pirineilor pentru o panoramă montană superbă. După un prânz tradițional în Béarn, vizităm Muzeul Bernadotte. După-amiaza se încheie relaxant în Parcul Beaumont, înainte de o seară liniștită în Place Royale.",
+        "en": "Start your morning at the majestic Château and the old town streets. Midday is perfect for a stroll along the Boulevard des Pyrénées with its mountain views. After a traditional Béarn lunch, dive into history at the Bernadotte Museum. Spend a relaxing afternoon in Parc Beaumont before ending your walk back at Place Royale."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Berry",
+            "tip": "Legendäres Brasserie-Erlebnis mit lokalen Fleischgerichten."
+          },
+          {
+            "name": "Garbure",
+            "tip": "Ein herzhafter Eintopf aus Kohl, Gemüse und Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Berry",
+            "tip": "Legendás bisztróélmény helyi húsételekkel."
+          },
+          {
+            "name": "Garbure",
+            "tip": "Kiadós káposztás, zöldséges, húsos egytálétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Berry",
+            "tip": "O experiență legendară de brasierie cu preparate locale din carne."
+          },
+          {
+            "name": "Garbure",
+            "tip": "O tocană consistentă cu varză, legume și carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Berry",
+            "tip": "Legendary brasserie experience known for local meat dishes."
+          },
+          {
+            "name": "Garbure",
+            "tip": "A hearty cabbage, vegetable, and meat stew of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Beaumont",
+            "tip": "Schatten unter 100-jährigen Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Beaumont",
+            "tip": "Árnyas pihenés a 100 éves fák alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Beaumont",
+            "tip": "Umbră sub arbori centenari.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Beaumont",
+            "tip": "Shady spots under 100-year-old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Béret Français",
+            "tip": "Holen Sie sich ein echtes Baskenmütze-Original aus Pau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Béret Français",
+            "tip": "Vegyél egy igazi eredeti francia sapkát (beret) Pauban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Béret Français",
+            "tip": "Cumpără o beretă franceză autentică fabricată în Pau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Béret Français",
+            "tip": "Get an authentic French beret made locally in Pau."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr hügelig, bequeme Schuhe sind Pflicht.",
+          "Die Standseilbahn ist kostenlos und fährt alle paar Minuten.",
+          "Buchen Sie das Schloss vorab, da die Plätze begrenzt sind."
+        ],
+        "hu": [
+          "A város dombos, a kényelmes cipő kötelező.",
+          "A sikló ingyenes és pár percenként közlekedik.",
+          "Érdemes előre foglalni a kastélyba, mert korlátozott a létszám."
+        ],
+        "ro": [
+          "Orașul are multe pante, încălțămintea comodă este obligatorie.",
+          "Funicularul este gratuit și circulă la fiecare câteva minute.",
+          "Rezervă vizita la castel în avans, locurile sunt limitate."
+        ],
+        "en": [
+          "The city is hilly, so comfortable walking shoes are essential.",
+          "The funicular is free and runs every few minutes.",
+          "Pre-book the castle visit as group sizes are strictly limited."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Château de Pau",
+          "coords": [
+            -0.3745,
+            43.2947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "hu": "Parkold a biciklit a kastély bejáratánál.",
+            "en": "Park your bike at the castle entrance racks."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            -0.365,
+            43.2985
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "hu": "Regionális művészek és európai mesterek válogatott művei.",
+            "en": "A fine selection of regional artists and European masters."
+          }
+        },
+        {
+          "name": "Palais Beaumont",
+          "coords": [
+            -0.362,
+            43.2965
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Belle Époque stílusú palota és kaszinó a park szélén.",
+            "en": "Belle Époque style palace and casino at the edge of the park."
+          }
+        },
+        {
+          "name": "Ebéd a Parc Beaumont közelében",
+          "coords": [
+            -0.36,
+            43.296
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "hu": "Élvezd a kilátást egy teraszon ebéd közben.",
+            "en": "Enjoy a terrace lunch with mountain views."
+          }
+        },
+        {
+          "name": "Gave de Pau folyópart",
+          "coords": [
+            -0.365,
+            43.288
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Tekeregj le a folyóparti kerékpárúton.",
+            "en": "Cycle down to the riverside paths for a flat, easy ride."
+          }
+        },
+        {
+          "name": "Stade d'Eaux Vives",
+          "coords": [
+            -0.363,
+            43.285
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "hu": "Nézd meg a vadvízi pályát, ahol az olimpikonok edzenek.",
+            "en": "Watch the white-water stadium where Olympic athletes train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie sowohl das historische Zentrum als auch die Ufer des Gave de Pau. Vormittags Kunst im Musée des Beaux-Arts, mittags Entspannung im Park und nachmittags eine sportliche Fahrt zum Wildwasserstadion. Eine perfekte Mischung aus Kultur und Bewegung.",
+        "hu": "Kerékpárral felfedezheted a történelmi központot és a Gave de Pau folyó partját is. Délelőtt művészet a Szépművészeti Múzeumban, délben pihenés a parkban, délután pedig sportos tekerés a vadvízi stadionhoz. A kultúra és a mozgás tökéletes keveréke.",
+        "ro": "Cu bicicleta explorezi atât centrul istoric, cât și malurile râului Gave de Pau. Dimineața artă la Muzeul de Arte Frumoase, prânz în parc și după-amiază o tură sportivă până la stadionul de ape repezi. Un amestec perfect de cultură și mișcare.",
+        "en": "Explore both the historic center and the banks of the Gave de Pau by bike. Art in the morning, park relaxation at noon, and a sporty ride to the white-water stadium in the afternoon. A perfect blend of culture and active sightseeing."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "L'Aragon",
+            "tip": "Klasszikus söröző a Boulevard des Pyrénées-en."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Aragon",
+            "tip": "Classic brasserie on the Boulevard des Pyrénées."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Gave de Pau folyópart",
+            "tip": "Csendes folyóparti ösvények.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gave de Pau Riverside",
+            "tip": "Quiet riverside paths for a peaceful ride.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Halles de Pau",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles de Pau",
+            "tip": "Local market with fresh regional produce."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A felsővárosból az alsóvárosba vezető utak meredekek.",
+          "Használd a kijelölt kerékpárutakat a folyó mentén."
+        ],
+        "en": [
+          "The transition from upper city to lower city can be very steep.",
+          "Stick to the dedicated cycling paths along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cluster A: Château & Old Pau",
+          "coords": [
+            -0.3745,
+            43.2947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "hu": "Parkolj a Place de la Monnaie mélygarázsában.",
+            "en": "Park at Place de la Monnaie underground parking."
+          }
+        },
+        {
+          "name": "Cluster A: Église Saint-Martin",
+          "coords": [
+            -0.373,
+            43.295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "hu": "Gyalogos távolságra a kastélytól.",
+            "en": "Within walking distance from the castle."
+          }
+        },
+        {
+          "name": "Cluster B: Palais & Parc Beaumont",
+          "coords": [
+            -0.362,
+            43.2965
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "hu": "Autós áthelyezés a város keleti felébe.",
+            "en": "Short drive to the eastern part of the city."
+          }
+        },
+        {
+          "name": "Ebéd: Place Clemenceau környéke",
+          "coords": [
+            -0.368,
+            43.296
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "hu": "Sok étterem és kávézó vár itt.",
+            "en": "Plenty of restaurant options in this central square area."
+          }
+        },
+        {
+          "name": "Cluster C: Cathédrale de Lescar",
+          "coords": [
+            -0.433,
+            43.333
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "hu": "Középkori katedrális híres mozaikokkal Pau mellett.",
+            "en": "Medieval cathedral with famous mosaics just outside Pau."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet das Beste von Pau mit einem Ausflug zur historischen Kathedrale von Lescar. Sie verbringen den Vormittag im historischen Zentrum (Cluster A), erkunden mittags die Parkanlagen am Palais Beaumont (Cluster B) und krönen den Nachmittag mit dem Besuch der mittelalterlichen Kathedrale von Lescar (Cluster C).",
+        "hu": "Ez az autós túra Pau legjavát ötvözi egy kirándulással a közeli Lescar katedrálisához. A délelőttöt a történelmi központban töltöd (A klaszter), délben a Palais Beaumont környéki parkokat fedezed fel (B klaszter), a délutánt pedig a Lescar középkori katedrálisa koronázza meg (C klaszter).",
+        "ro": "Acest tur auto îmbină ce e mai bun în Pau cu o excursie la catedrala istorică din Lescar. Petreceți dimineața în centrul istoric (Cluster A), explorați la prânz parcurile de lângă Palais Beaumont (Cluster B) și încheiați după-amiaza cu vizita la catedrala medievală din Lescar (Cluster C).",
+        "en": "This car tour combines the best of Pau with an excursion to the historic Cathedral of Lescar. Spend the morning in the historic center (Cluster A), explore the parks around Palais Beaumont at noon (Cluster B), and top off the afternoon with a visit to the medieval Cathedral of Lescar (Cluster C)."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "La Table d'Hôte",
+            "tip": "Helyi specialitások elegáns környezetben."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table d'Hôte",
+            "tip": "Local specialties served in an elegant setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Lescar óvárosa",
+            "tip": "Csendes középkori utcák a katedrális körül.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Lescar",
+            "tip": "Quiet medieval streets surrounding the cathedral.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Maison Francis Miot",
+            "tip": "Híres lekvárok és édességek."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison Francis Miot",
+            "tip": "World-famous jams and sweets from a local master."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A belvárosban nehéz a parkolás, használd a mélygarázsokat.",
+          "Lescar mindössze 15-20 perc autóval."
+        ],
+        "en": [
+          "Parking in the city center is difficult; use designated underground car parks.",
+          "Lescar is a short 15-20 minute drive from Pau center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Gare de Pau / Funiculaire",
+          "coords": [
+            -0.3698,
+            43.2938
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "hu": "Indíts a vasútállomástól és menj fel a siklóval.",
+            "en": "Start from the station and take the funicular up for free."
+          }
+        },
+        {
+          "name": "Place Royale & Boulevard",
+          "coords": [
+            -0.3708,
+            43.2951
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "hu": "Sétálj végig a panoráma sétányon.",
+            "en": "Walk along the panoramic promenade after exiting the funicular."
+          }
+        },
+        {
+          "name": "Château de Pau",
+          "coords": [
+            -0.3745,
+            43.2947
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "hu": "Gyalogos távolság a sikló felső állomásától.",
+            "en": "Short walk from the upper funicular station."
+          }
+        },
+        {
+          "name": "Ebéd a városközpontban",
+          "coords": [
+            -0.37,
+            43.297
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Próbálj ki egy helyi crêperie-t.",
+            "en": "Try a local crêperie for a quick but tasty lunch."
+          }
+        },
+        {
+          "name": "Busz: Palais Beaumont",
+          "coords": [
+            -0.362,
+            43.2965
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Használd az 'Idelis' buszjáratokat.",
+            "en": "Use the 'Idelis' city bus lines to cross the center."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            -0.365,
+            43.2985
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "hu": "Könnyen elérhető busszal a parktól.",
+            "en": "Easily reachable by bus from the park area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete ÖPNV-Netz von Pau, beginnend mit der kostenlosen Standseilbahn. Vormittags Schloss und Panorama-Boulevard, nachmittags bequem per Bus zum Palais Beaumont und dem Kunstmuseum. Effizient und entspannt durch die Stadt.",
+        "hu": "Használd Pau kiváló tömegközlekedési hálózatát, kezdve az ingyenes siklóval. Délelőtt a kastély és a panoráma sugárút vár, délután kényelmesen busszal jutsz el a Palais Beaumont-hoz és a Szépművészeti Múzeumhoz. Hatékony és stresszmentes városnézés.",
+        "ro": "Folosiți rețeaua excelentă de transport public din Pau, începând cu funicularul gratuit. Dimineața vizităm castelul și bulevardul panoramic, iar după-amiaza mergem cu autobuzul spre Palais Beaumont și Muzeul de Arte Frumoase. Eficient și fără stres.",
+        "en": "Make use of Pau's excellent public transport, starting with the free funicular. Explore the castle and panoramic boulevard in the morning, then take the bus comfortably to Palais Beaumont and the Fine Arts Museum in the afternoon. Efficient and stress-free."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Boulangerie-Pâtisserie",
+            "tip": "Vegyél egy friss 'Gâteau Basque'-ot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a fresh slice of 'Gâteau Basque'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Sikló alsó állomása",
+            "tip": "Csendes kis kert a vasútállomásnál.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Funicular Lower Station",
+            "tip": "A quiet little garden area near the train station.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Rue Serviez",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Serviez",
+            "tip": "The main pedestrian shopping street of Pau."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A sikló ingyenes, a buszhoz vegyél jegyet az automatából.",
+          "Az Idelis app segít a buszjáratok követésében."
+        ],
+        "en": [
+          "The funicular is free; buy bus tickets from the machines at main stops.",
+          "The Idelis app is great for real-time bus tracking."
+        ]
+      }
+    }
+  }
+}

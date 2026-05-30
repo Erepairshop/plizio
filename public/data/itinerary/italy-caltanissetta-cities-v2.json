@@ -1,0 +1,1046 @@
+{
+  "city_id": "italy-caltanissetta-cities-v2",
+  "anchor": {
+    "name": "Piazza Garibaldi",
+    "coords": [
+      14.0621,
+      37.4916
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontana del Tritone",
+            "hu": "Triton-kút",
+            "ro": "Fontana del Tritone",
+            "en": "Triton Fountain"
+          },
+          "coords": [
+            14.0621,
+            37.4916
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt auf der Piazza Garibaldi.",
+            "hu": "A város központja a Piazza Garibaldi téren.",
+            "ro": "Inima orașului în Piazza Garibaldi.",
+            "en": "The heart of the city in Piazza Garibaldi."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Santa Maria la Nova",
+            "hu": "Santa Maria la Nova székesegyház",
+            "ro": "Catedrala Santa Maria la Nova",
+            "en": "Cathedral of Santa Maria la Nova"
+          },
+          "coords": [
+            14.0628,
+            37.4915
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken von Borremans.",
+            "hu": "Csodálja meg Borremans freskóit.",
+            "ro": "Admirați frescele lui Borremans.",
+            "en": "Admire the frescoes by Borremans."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Moncada",
+            "hu": "Moncada-palota",
+            "ro": "Palatul Moncada",
+            "en": "Moncada Palace"
+          },
+          "coords": [
+            14.0615,
+            37.4922
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Unvollendetes Barock-Meisterwerk mit Fratzengesichtern.",
+            "hu": "Befejezetlen barokk remekmű különös vízköpőkkel.",
+            "ro": "Capodoperă barocă neterminată cu figuri grotești.",
+            "en": "Unfinished Baroque masterpiece with grotesque masks."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Regina Margherita",
+            "hu": "Regina Margherita Színház",
+            "ro": "Teatrul Regina Margherita",
+            "en": "Regina Margherita Theatre"
+          },
+          "coords": [
+            14.0608,
+            37.4912
+          ],
+          "category": "theatres",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Juwel des 19. Jahrhunderts im Stadtzentrum.",
+            "hu": "A 19. századi építészet ékköve a belvárosban.",
+            "ro": "O bijuterie a secolului al XIX-lea în centrul orașului.",
+            "en": "A 19th-century jewel in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Pietrarossa",
+            "hu": "Pietrarossa vár",
+            "ro": "Castelul Pietrarossa",
+            "en": "Pietrarossa Castle"
+          },
+          "coords": [
+            14.0675,
+            37.4878
+          ],
+          "category": "castles",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mittelalterliche Ruinen mit Blick über das Tal.",
+            "hu": "Középkori romok kilátással a völgyre.",
+            "ro": "Ruine medievale cu vedere peste vale.",
+            "en": "Medieval ruins with views over the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            14.0685,
+            37.4885
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die sikanischen Fundstücke der Region.",
+            "hu": "Fedezze fel a környék szikán leleteit.",
+            "ro": "Descoperiți vestigiile sicanilor din regiune.",
+            "en": "Discover the Sicanian artifacts of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Caltanissetta auf der Piazza Garibaldi, wo der Triton-Brunnen und die prächtige Kathedrale den barocken Geist Siziliens versprühen. Nach der Besichtigung des beeindruckenden Palazzo Moncada genießen Sie ein typisches Mittagessen mit lokalen Spezialitäten. Am Nachmittag spazieren Sie zu den atmosphärischen Ruinen des Castello di Pietrarossa, gefolgt von einer Reise in die Antike im Archäologischen Museum, bevor Sie den Abend mit einem berühmten lokalen Torrone ausklingen lassen.",
+        "hu": "A napot Caltanissetta szívében, a Piazza Garibaldi téren kezdjük, ahol a Triton-kút és a monumentális székesegyház hirdeti Szicília barokk pompáját. A Moncada-palota különös díszítései után egy kellemes ebédet követően a város színházát érintve sétálunk ki a Pietrarossa vár misztikus romjaihoz. A napot a környék gazdag történelmét bemutató Régészeti Múzeumban zárjuk, ne felejtsenek el vásárolni a város világhírű nugátjából, a torronéból.",
+        "ro": "Ziua începe în inima orașului Caltanissetta, în Piazza Garibaldi, unde Fontana del Tritone și catedrala impunătoare dezvăluie spiritul baroc al Siciliei. După ce vizitați neobișnuitul Palazzo Moncada, bucurați-vă de un prânz tradițional. După-amiaza este dedicată ruinelor sugestive ale Castelului Pietrarossa și explorării antichității la Muzeul Arheologic. Încheiați seara degustând faimosul torrone local, mândria dulce a regiunii.",
+        "en": "Your day begins in the heart of Caltanissetta at Piazza Garibaldi, where the Triton Fountain and the grand Cathedral showcase the Baroque spirit of Sicily. After visiting the unique Moncada Palace, enjoy a traditional lunch. The afternoon leads you to the atmospheric ruins of Pietrarossa Castle, followed by a journey into antiquity at the Archaeological Museum. End your day by tasting the city's world-famous torrone, a sweet local specialty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torrone di Caltanissetta",
+            "tip": "Probieren Sie den traditionellen Honignougat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torrone di Caltanissetta",
+            "tip": "Kóstolja meg a város híres mézes nugátját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torrone di Caltanissetta",
+            "tip": "Gustați nuga tradițională cu miere și migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torrone di Caltanissetta",
+            "tip": "Try the traditional honey and almond nougat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castello di Pietrarossa",
+            "tip": "Stille unter alten Mauern mit Aussicht.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pietrarossa várromok",
+            "tip": "Csendes pihenő a régi falak tövében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castelul Pietrarossa",
+            "tip": "Liniște printre ziduri vechi cu panoramă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pietrarossa Castle",
+            "tip": "Quiet moments among ancient walls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Boutiquen und Konditoreien im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Elegáns üzletek és cukrászdák a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Magazine și cofetării în centrul istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Umberto I",
+            "tip": "Boutiques and pastry shops in the historical center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Caltanissetta ist die Hauptstadt des sizilianischen Nougats.",
+          "Die Stadt ist hügelig, tragen Sie bequeme Schuhe.",
+          "Besuchen Sie die Kathedrale während der Öffnungszeiten (meist 9-12 & 16-19)."
+        ],
+        "hu": [
+          "Caltanissetta a szicíliai nugátgyártás központja.",
+          "A város dombos, kényelmes cipő ajánlott.",
+          "A székesegyház általában 9-12 és 16-19 óra között van nyitva."
+        ],
+        "ro": [
+          "Caltanissetta este capitala nutei siciliene.",
+          "Orașul este deluros, purtați încălțăminte comodă.",
+          "Catedrala este deschisă de obicei între 9-12 și 16-19."
+        ],
+        "en": [
+          "Caltanissetta is the capital of Sicilian nougat production.",
+          "The city is hilly, so wear comfortable walking shoes.",
+          "The Cathedral is usually open 9-12 and 16-19."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontana del Tritone",
+            "hu": "Triton-kút",
+            "ro": "Fontana del Tritone",
+            "en": "Triton Fountain"
+          },
+          "coords": [
+            14.0621,
+            37.4916
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Startpunkt im Stadtzentrum.",
+            "hu": "Kiindulópont a belvárosban.",
+            "ro": "Punctul de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            14.0628,
+            37.4915
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Barocke Pracht im Inneren.",
+            "hu": "Barokk pompa odabenn.",
+            "ro": "Splendoare barocă în interior.",
+            "en": "Baroque splendor inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di Santo Spirito",
+            "hu": "Szentlélek-apátság",
+            "ro": "Abbazia di Santo Spirito",
+            "en": "Abbey of Santo Spirito"
+          },
+          "coords": [
+            14.0845,
+            37.5118
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Normannische Architektur am Stadtrand.",
+            "hu": "Normann építészet a város szélén.",
+            "ro": "Arhitectură normandă la periferie.",
+            "en": "Norman architecture on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            14.0685,
+            37.4885
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wichtige Funde aus prähistorischer Zeit.",
+            "hu": "Fontos leletek az őskorból.",
+            "ro": "Descoperiri importante din preistorie.",
+            "en": "Important prehistoric finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Pietrarossa",
+            "hu": "Pietrarossa vár",
+            "ro": "Castelul Pietrarossa",
+            "en": "Pietrarossa Castle"
+          },
+          "coords": [
+            14.0675,
+            37.4878
+          ],
+          "category": "castles",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht vom Felsen.",
+            "hu": "Látványos kilátás a szikláról.",
+            "ro": "Vedere spectaculoasă de pe stâncă.",
+            "en": "Spectacular view from the cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mineralogico",
+            "hu": "Ásványtani Múzeum",
+            "ro": "Muzeul Mineralogic",
+            "en": "Mineralogical Museum"
+          },
+          "coords": [
+            14.0535,
+            37.4845
+          ],
+          "category": "museums",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schwefelminen-Geschichte der Region.",
+            "hu": "A régió kénbányászatának emlékei.",
+            "ro": "Istoria minelor de sulf din regiune.",
+            "en": "History of the region's sulfur mines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Caltanissetta auf zwei Rädern! Nach dem Start im Zentrum radeln Sie zur historischen Abbazia di Santo Spirito. Zurück im Stadtgebiet erkunden Sie das Archäologische Museum und das markante Schloss Pietrarossa. Die Tour endet beim Mineralogischen Museum, das an die Schwefelminen-Tradition erinnert.",
+        "hu": "Fedezze fel Caltanissettát két keréken! A központ után tekerjen ki a történelmi Szentlélek-apátsághoz. Visszatérve a városba, a Régészeti Múzeum és a Pietrarossa vár várja. A túrát az Ásványtani Múzeumnál zárjuk, amely a környék kénbányászatának állít emléket.",
+        "ro": "Explorați Caltanissetta pe două roți! După pornirea din centru, pedalați spre istorica Abbazia di Santo Spirito. Revenind în oraș, vizitați Muzeul Arheologic și castelul Pietrarossa. Turul se încheie la Muzeul Mineralogic, care amintește de tradiția minelor de sulf.",
+        "en": "Explore Caltanissetta on two wheels! After starting in the center, cycle to the historic Abbey of Santo Spirito. Returning to the city, explore the Archaeological Museum and the iconic Pietrarossa Castle. The tour ends at the Mineralogical Museum, reflecting the region's sulfur mining heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cannolo Siciliano",
+            "tip": "Energie für die Fahrt mit süßer Ricotta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szicíliai cannolo",
+            "tip": "Energia a tekeréshez édes ricottával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cannolo sicilian",
+            "tip": "Energie pentru drum cu ricotta dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sicilian Cannolo",
+            "tip": "Energy for the ride with sweet ricotta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbazia Garten",
+            "tip": "Ruhiger Kreuzgang und Grünanlagen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apátsági kert",
+            "tip": "Csendes kolostorkert a város szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Abației",
+            "tip": "Liniște în grădina mănăstirii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Garden",
+            "tip": "Quiet monastery garden on the outskirts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Honig direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon mézet közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy honey directly from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen sind steil, eine gute Gangschaltung ist nötig.",
+          "Vorsicht vor dem Verkehr im Stadtzentrum.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Néhány utca meredek, jó sebességváltó szükséges.",
+          "Vigyázzon a forgalomra a belvárosban.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Unele străzi sunt abrupte, este necesară o cutie de viteze bună.",
+          "Atenție la trafic în centrul orașului.",
+          "Luați suficientă apă la voi."
+        ],
+        "en": [
+          "Some streets are steep, so a good gear system is necessary.",
+          "Be careful with traffic in the city center.",
+          "Carry plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi (Cluster A)",
+            "hu": "Piazza Garibaldi (A-klaszter)",
+            "ro": "Piazza Garibaldi (Cluster A)",
+            "en": "Piazza Garibaldi (Cluster A)"
+          },
+          "coords": [
+            14.0621,
+            37.4916
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus im Zentrum.",
+            "hu": "Parkoljon a központi parkolóházban.",
+            "ro": "Parcați în parcarea centrală.",
+            "en": "Park in the central parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            14.0628,
+            37.4915
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogos távolság.",
+            "ro": "Accesibil pe jos.",
+            "en": "Within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Moncada",
+            "hu": "Moncada-palota",
+            "ro": "Palatul Moncada",
+            "en": "Moncada Palace"
+          },
+          "coords": [
+            14.0615,
+            37.4922
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Brunnen.",
+            "hu": "Rövid séta a kúttól.",
+            "ro": "Scurtă plimbare de la fântână.",
+            "en": "Short walk from the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di Santo Spirito (Cluster B)",
+            "hu": "Szentlélek-apátság (B-klaszter)",
+            "ro": "Abbazia di Santo Spirito (Cluster B)",
+            "en": "Abbey of Santo Spirito (Cluster B)"
+          },
+          "coords": [
+            14.0845,
+            37.5118
+          ],
+          "category": "churches",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Fahrt zum Stadtrand.",
+            "hu": "Autózás a város szélére.",
+            "ro": "Drum spre marginea orașului.",
+            "en": "Drive to the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Pietrarossa (Cluster C)",
+            "hu": "Pietrarossa vár (C-klaszter)",
+            "ro": "Castelul Pietrarossa (Cluster C)",
+            "en": "Pietrarossa Castle (Cluster C)"
+          },
+          "coords": [
+            14.0675,
+            37.4878
+          ],
+          "category": "castles",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb der Ruine.",
+            "hu": "Parkoló közvetlenül a romok alatt.",
+            "ro": "Parcare chiar sub ruine.",
+            "en": "Parking right below the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            14.0685,
+            37.4885
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Schlossparkplatz.",
+            "hu": "Gyalog a vár parkolójából.",
+            "ro": "Pe jos de la parcarea castelului.",
+            "en": "Walk from the castle parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie bequem die Highlights von Caltanissetta. Starten Sie im Zentrum, besuchen Sie die Kathedrale und den Moncada-Palast. Ein kurzer Trip führt Sie zur normannischen Abbazia di Santo Spirito. Am Nachmittag erkunden Sie die Burgruinen und das Museum am östlichen Rand, bevor Sie bequem zum Abendessen zurückfahren.",
+        "hu": "Autóval kényelmesen bejárhatja Caltanissetta minden szegletét. Kezdjen a központban a katedrálisnál, majd guruljon ki a normann kori Szentlélek-apátsághoz. A délutánt a vár és a múzeum környékén töltheti, elkerülve a hosszú sétákat a dombos terepen.",
+        "ro": "Cu mașina puteți descoperi confortabil toate atracțiile din Caltanissetta. Începeți în centru cu catedrala, apoi conduceți până la abația normandă Santo Spirito. După-amiaza este dedicată castelului și muzeului, evitând efortul urcușurilor pe jos.",
+        "en": "By car, you can easily explore all of Caltanissetta's highlights. Start in the center at the Cathedral, then drive out to the Norman Abbey of Santo Spirito. Spend your afternoon at the castle and museum, avoiding the steep climbs on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frittedda",
+            "tip": "Herzhafter Gemüseeintopf der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frittedda",
+            "tip": "Kiadós helyi zöldségragu."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frittedda",
+            "tip": "Tocăniță de legume specifică zonei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frittedda",
+            "tip": "Hearty local vegetable stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbazia di Santo Spirito",
+            "tip": "Ruhe außerhalb des Zentrums.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentlélek-apátság",
+            "tip": "Csend és nyugalom a városon kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abbazia di Santo Spirito",
+            "tip": "Liniște în afara centrului aglomerat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey of Santo Spirito",
+            "tip": "Peace and quiet outside the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Torrone-Manufakturen",
+            "tip": "Kaufen Sie direkt ab Werk am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torrone manufaktúrák",
+            "tip": "Vásároljon friss nugátot közvetlenül az üzemekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrici de nuga",
+            "tip": "Cumpărați nuga proaspătă direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torrone workshops",
+            "tip": "Buy fresh nougat directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zentrumsparken ist oft schwierig, nutzen Sie Parkhäuser.",
+          "Die Fahrt zur Abbazia lohnt sich wegen der Aussicht.",
+          "Achten Sie auf ZTL-Zonen im historischen Zentrum."
+        ],
+        "hu": [
+          "A központi parkolás nehéz, használja a mélygarázsokat.",
+          "Az apátság felé vezető út látványos.",
+          "Figyeljen a korlátozott forgalmú övezetekre (ZTL)."
+        ],
+        "ro": [
+          "Parcarea centrală este dificilă, folosiți parcările etajate.",
+          "Drumul spre abație merită pentru priveliște.",
+          "Atenție la zonele cu trafic limitat (ZTL) din centru."
+        ],
+        "en": [
+          "Central parking can be difficult, use designated garages.",
+          "The drive to the Abbey is worth it for the views.",
+          "Watch out for ZTL (limited traffic) zones in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            14.0621,
+            37.4916
+          ],
+          "category": "monuments",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt der lokalen Busse.",
+            "hu": "A helyi buszjáratok csomópontja.",
+            "ro": "Nodul principal al autobuzelor locale.",
+            "en": "Main hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            14.0628,
+            37.4915
+          ],
+          "category": "cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur ein paar Schritte vom Busstopp.",
+            "hu": "Csak pár lépésre a megállótól.",
+            "ro": "La câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Regina Margherita",
+            "hu": "Regina Margherita Színház",
+            "ro": "Teatrul Regina Margherita",
+            "en": "Regina Margherita Theatre"
+          },
+          "coords": [
+            14.0608,
+            37.4912
+          ],
+          "category": "theatres",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß im historischen Zentrum.",
+            "hu": "Gyalog a történelmi negyedben.",
+            "ro": "La pas în centrul istoric.",
+            "en": "On foot in the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mineralogico",
+            "hu": "Ásványtani Múzeum",
+            "ro": "Muzeul Mineralogic",
+            "en": "Mineralogical Museum"
+          },
+          "coords": [
+            14.0535,
+            37.4845
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus Linie 1 oder 4 erreichbar.",
+            "hu": "Az 1-es vagy 4-es busszal elérhető.",
+            "ro": "Accesibil cu autobuzul linia 1 sau 4.",
+            "en": "Accessible via bus line 1 or 4."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Pietrarossa",
+            "hu": "Pietrarossa vár",
+            "ro": "Castelul Pietrarossa",
+            "en": "Pietrarossa Castle"
+          },
+          "coords": [
+            14.0675,
+            37.4878
+          ],
+          "category": "castles",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bus in Richtung Santa Flavia.",
+            "hu": "Busz Santa Flavia irányába.",
+            "ro": "Autobuz spre Santa Flavia.",
+            "en": "Bus towards Santa Flavia."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Moncada",
+            "hu": "Moncada-palota",
+            "ro": "Palatul Moncada",
+            "en": "Moncada Palace"
+          },
+          "coords": [
+            14.0615,
+            37.4922
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum per Bus.",
+            "hu": "Visszatérés a központba busszal.",
+            "ro": "Întoarcere în centru cu autobuzul.",
+            "en": "Return to the center by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um Caltanissetta zu erkunden. Starten Sie an der Piazza Garibaldi, besuchen Sie die Kathedrale und das Theater. Am Nachmittag bringt Sie der Bus zum Mineralogischen Museum und zum beeindruckenden Castello, bevor Sie wieder ins geschäftige Zentrum zurückkehren.",
+        "hu": "Használja a helyi buszhálózatot Caltanissetta felfedezéséhez! A Piazza Garibaldi után a székesegyház és a színház következik. Délután busszal látogathat el az Ásványtani Múzeumba és a várhoz, majd zárja a napot a belváros hangulatos utcáin.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a explora orașul. Începeți din Piazza Garibaldi, vizitați catedrala și teatrul. După-amiaza, autobuzul vă duce la Muzeul Mineralogic și la castel, înainte de a reveni în centrul animat.",
+        "en": "Use the local bus network to discover Caltanissetta. Start at Piazza Garibaldi, visit the Cathedral and the Theatre. In the afternoon, the bus takes you to the Mineralogical Museum and the castle, before returning to the lively city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Arancina",
+            "tip": "Schneller Snack an den Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arancina",
+            "tip": "Gyors és finom falat a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arancina",
+            "tip": "Gustare rapidă lângă stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arancina",
+            "tip": "Quick snack near the bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Amedeo",
+            "tip": "Stadtpark unweit der Buslinien.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Amedeo",
+            "tip": "Városi park a buszjáratok közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Amedeo",
+            "tip": "Parc municipal lângă liniile de autobuz.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Amedeo",
+            "tip": "City park near the bus lines.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Viale Testasecca",
+            "tip": "Geschäfte entlang der Busroute."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Testasecca",
+            "tip": "Üzletek a buszútvonal mentén.",
+            "emoji": "🛒"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Testasecca",
+            "tip": "Magazine de-a lungul rutei autobuzului.",
+            "emoji": "🛍️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Testasecca",
+            "tip": "Shops along the bus route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets im Tabakladen (Tabacchi).",
+          "Die Fahrpläne können variieren, planen Sie Pufferzeit ein.",
+          "Die Linie 1 verbindet die wichtigsten Punkte."
+        ],
+        "hu": [
+          "Vegyen jegyet előre a dohányboltokban (Tabacchi).",
+          "A menetrend változhat, hagyjon időt a csatlakozásra.",
+          "Az 1-es busz köti össze a legfontosabb pontokat."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcurile de ziare sau Tabacchi.",
+          "Orarele pot varia, lăsați o marjă de timp.",
+          "Linia 1 conectează cele mai importante puncte."
+        ],
+        "en": [
+          "Buy tickets in advance at tobacco shops (Tabacchi).",
+          "Schedules can vary, so plan for some buffer time.",
+          "Bus line 1 connects the main points of interest."
+        ]
+      }
+    }
+  }
+}

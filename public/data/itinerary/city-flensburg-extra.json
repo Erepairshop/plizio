@@ -1,0 +1,974 @@
+{
+  "city_id": "city-flensburg-extra",
+  "anchor": {
+    "name": "Flensburg Museumshafen",
+    "coords": [
+      9.4352,
+      54.792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Rote Straße",
+          "coords": [
+            9.4365,
+            54.7845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die versteckten Rum-Höfe in den Seitenarmen.",
+            "hu": "Nézzen be a rejtett rumos udvarokba az oldalsó sikátorokban.",
+            "ro": "Vizitați curțile ascunse unde se producea romul.",
+            "en": "Visit the hidden rum courtyards in the side alleys."
+          }
+        },
+        {
+          "name": "St.-Marien-Kirche",
+          "coords": [
+            9.4335,
+            54.7892
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die alte Orgel.",
+            "hu": "Csodálja meg a gótikus építészetet és a régi orgonát.",
+            "ro": "Admirați arhitectura gotică și orga veche.",
+            "en": "Admire the Gothic architecture and the old organ."
+          }
+        },
+        {
+          "name": "Schifffahrtsmuseum",
+          "coords": [
+            9.4345,
+            54.7915
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Flensburger Rum-Tradition.",
+            "hu": "Tudjon meg mindent a flensburgi rumkereskedelemről.",
+            "ro": "Aflați totul despre tradiția romului din Flensburg.",
+            "en": "Learn all about the Flensburg rum tradition."
+          }
+        },
+        {
+          "name": "Museumshafen",
+          "coords": [
+            9.4358,
+            54.7925
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Dampfschiff Alexandra ist das Wahrzeichen im Hafen.",
+            "hu": "Az Alexandra gőzhajó a kikötő igazi jelképe.",
+            "ro": "Nava cu aburi Alexandra este simbolul portului.",
+            "en": "The steamship Alexandra is the landmark of the harbor."
+          }
+        },
+        {
+          "name": "Nordertor",
+          "coords": [
+            9.4318,
+            54.7955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das einzige erhaltene Stadttor Flensburgs.",
+            "hu": "Flensburg egyetlen épségben maradt városkapuja.",
+            "ro": "Singura poartă a orașului care a supraviețuit în Flensburg.",
+            "en": "The only surviving city gate of Flensburg."
+          }
+        },
+        {
+          "name": "Phänomenta",
+          "coords": [
+            9.4308,
+            54.7965
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spannende physikalische Experimente zum Mitmachen.",
+            "hu": "Izgalmas fizikai kísérletek és interaktív játékok.",
+            "ro": "Experimente fizice captivante la care puteți participa.",
+            "en": "Exciting physical experiments to participate in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der malerischen Roten Straße, wo Kaufmannshöfe und Rum-Häuser hanseatisches Flair versprühen. Nach einem Besuch der Marienkirche tauchen Sie im Schifffahrtsmuseum tief in die maritime Geschichte ein. Der Nachmittag gehört dem Hafen mit seinen historischen Seglern. Den Abschluss bildet das Nordertor, bevor Sie im Phänomenta spielerisch die Welt der Wissenschaft entdecken.",
+        "hu": "A napot a festői Rote Straße-n kezdjük, ahol a kereskedőudvarok és rumházak hanzai hangulatot árasztanak. A Mária-templom után a Hajózási Múzeumban merülhet el a tengeri múltban. A délután a kikötőé és a történelmi vitorlásoké. A városnézést az északi városkapunál zárjuk, majd a Phänomenta interaktív kiállításán fedezhetjük fel a tudomány világát.",
+        "ro": "Ziua începe pe pitoreasca Rote Straße, unde curțile negustorilor și casele de rom emană un farmec hanseatic. După o vizită la Biserica Sf. Maria, explorați istoria maritimă la muzeul dedicat. După-amiaza este dedicată portului cu navele sale istorice cu pânze. Încheiați la Poarta de Nord, înainte de a descoperi lumea științei la Phänomenta.",
+        "en": "Your day begins in the picturesque Rote Straße, where merchant courtyards and rum houses exude Hanseatic flair. After visiting St. Mary's Church, dive deep into maritime history at the Nautical Museum. The afternoon is dedicated to the harbor and its historic sailing ships. Finish at the Nordertor before playfully exploring the world of science at Phänomenta."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hansens Brauerei",
+            "tip": "Probieren Sie das Flensburger Pils direkt am Hafen."
+          },
+          {
+            "name": "Braasch Rum",
+            "tip": "Eine Verkostung des legendären Flensburger Rums ist Pflicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hansens Brauerei",
+            "tip": "Kóstolja meg a helyi sört közvetlenül a kikötőben."
+          },
+          {
+            "name": "Braasch Rum",
+            "tip": "A legendás flensburgi rumkóstolás kötelező program."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hansens Brauerei",
+            "tip": "Încercați berea locală direct în port."
+          },
+          {
+            "name": "Braasch Rum",
+            "tip": "O degustare a legendarului rom din Flensburg este obligatorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hansens Brauerei",
+            "tip": "Try the local Flensburger beer right at the harbor."
+          },
+          {
+            "name": "Braasch Rum",
+            "tip": "A tasting of the legendary Flensburg rum is a must."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumswerft",
+            "tip": "Beobachten Sie Bootsbauer bei der Arbeit am Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Altes Gymnasium",
+            "tip": "Ein ruhiger historischer Ort oberhalb der Altstadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Museumswerft",
+            "tip": "Figyelje meg a hajóépítőket munka közben a vízparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Altes Gymnasium",
+            "tip": "Csendes történelmi helyszín az óváros felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Museumswerft",
+            "tip": "Observați constructorii de bărci la lucru pe malul apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Altes Gymnasium",
+            "tip": "Un loc istoric liniștit deasupra orașului vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museumswerft",
+            "tip": "Watch boat builders at work by the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Altes Gymnasium",
+            "tip": "A quiet historical spot above the old town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Holm & Große Straße",
+            "tip": "Die Haupteinkaufsmeile mit nordischem Charme."
+          },
+          {
+            "name": "Rote Straße Manufakturen",
+            "tip": "Einzigartiges Kunsthandwerk und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Holm & Große Straße",
+            "tip": "A fő bevásárlóutca északi bájjal."
+          },
+          {
+            "name": "Rote Straße Manufakturen",
+            "tip": "Egyedi kézműves termékek és helyi különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Holm & Große Straße",
+            "tip": "Principala zonă comercială cu farmec nordic."
+          },
+          {
+            "name": "Rote Straße Manufakturen",
+            "tip": "Artizanat unic și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Holm & Große Straße",
+            "tip": "The main shopping mile with Nordic charm."
+          },
+          {
+            "name": "Rote Straße Manufakturen",
+            "tip": "Unique handicrafts and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Flensburg ist hügelig – bequemes Schuhwerk für das Kopfsteinpflaster einplanen.",
+          "Die meisten Sehenswürdigkeiten liegen entlang der 'Maritimen Meile'.",
+          "Verpassen Sie nicht die Schuhe, die über der Norderstraße hängen.",
+          "Ein Abstecher in die Hinterhöfe lohnt sich fast überall."
+        ],
+        "hu": [
+          "Flensburg dombos – kényelmes cipőt válasszunk a macskaköves utcákhoz.",
+          "A legtöbb látnivaló a 'Tengeri Mérföld' mentén található.",
+          "Ne hagyja ki a Norderstraße felett lógó híres cipőket.",
+          "Szinte mindenhol érdemes benézni a hangulatos hátsó udvarokba."
+        ],
+        "ro": [
+          "Flensburg este deluros – planificați încălțăminte confortabilă pentru pavaj.",
+          "Cele mai multe atracții se află de-a lungul 'Milei Maritime'.",
+          "Nu ratați pantofii care atârnă deasupra străzii Norderstraße.",
+          "O vizită în curțile interioare merită aproape peste tot."
+        ],
+        "en": [
+          "Flensburg is hilly – plan for comfortable shoes for the cobblestones.",
+          "Most sights are located along the 'Maritime Mile'.",
+          "Don't miss the shoes hanging over Norderstraße.",
+          "A detour into the backyards is worth it almost everywhere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Johanniskirche",
+          "coords": [
+            9.4415,
+            54.7842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt mit mittelalterlichen Fresken.",
+            "hu": "A város legidősebb temploma középkori freskókkal.",
+            "ro": "Cea mai veche biserică din oraș, cu fresce medievale.",
+            "en": "The oldest church in the city with medieval frescoes."
+          }
+        },
+        {
+          "name": "Rote Straße",
+          "coords": [
+            9.4365,
+            54.7845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrräder am Eingang der Straße parken und zu Fuß erkunden.",
+            "hu": "Tegye le a bringát az utca elején, és sétáljon egyet.",
+            "ro": "Parcați bicicletele la intrare și explorați pe jos.",
+            "en": "Park bikes at the entrance and explore on foot."
+          }
+        },
+        {
+          "name": "Museumshafen",
+          "coords": [
+            9.4358,
+            54.7925
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Brise am Hafenbecken.",
+            "hu": "Élvezze a friss szellőt a kikötői mólón.",
+            "ro": "Bucurați-vă de briză pe marginea portului.",
+            "en": "Enjoy the breeze by the harbor basin."
+          }
+        },
+        {
+          "name": "Nordertor",
+          "coords": [
+            9.4318,
+            54.7955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein tolles Fotomotiv für Radfahrer.",
+            "hu": "Remek fotótéma a kerékpárosoknak.",
+            "ro": "Un motiv foto excelent pentru bicicliști.",
+            "en": "A great photo opportunity for cyclists."
+          }
+        },
+        {
+          "name": "Marineschule Mürwik",
+          "coords": [
+            9.4605,
+            54.8145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das 'Rote Schloss am Meer' ist beeindruckend groß.",
+            "hu": "A 'tengerparti vörös kastély' lenyűgöző méretű.",
+            "ro": "„Castelul Roșu de la Mare” este impresionant de mare.",
+            "en": "The 'Red Castle by the Sea' is impressively large."
+          }
+        },
+        {
+          "name": "Solitüde Strand",
+          "coords": [
+            9.4885,
+            54.8185
+          ],
+          "category": "park/beach",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung in der Förde.",
+            "hu": "Tökéletes hely egy frissítő csobbanáshoz a fjordban.",
+            "ro": "Perfect pentru o revigorare în fiord.",
+            "en": "Perfect for a refreshment in the fjord."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie die gesamte Flensburger Förde. Nach dem Start an der Johanniskirche radeln Sie durch die historische Altstadt zum Hafen. Das Highlight der Tour ist die Fahrt entlang der Küste zur Marineschule Mürwik. Den Tag lassen Sie entspannt am Strand von Solitüde ausklingen, wo Sie den Blick auf das dänische Ufer genießen können.",
+        "hu": "Kerékpárral az egész flensburgi fjordot felfedezhetjük. A Szent János-templomtól indulva az óvároson át tekerünk a kikötőig. A túra csúcspontja a part menti szakasz a mürwiki tengerészeti iskoláig. A napot a Solitüde strandon zárjuk, ahol a dán partokban gyönyörködve pihenhetünk meg.",
+        "ro": "Cu bicicleta explorați întregul fiord Flensburg. După pornirea de la Biserica Sf. Ioan, pedalați prin orașul vechi istoric până în port. Punctul culminant al turului este plimbarea de-a lungul coastei până la Școala Navală Mürwik. Încheiați ziua relaxat pe plaja Solitüde, admirând țărmul danez.",
+        "en": "By bike, you can explore the entire Flensburg Fjord. Starting at St. John's Church, cycle through the historic old town to the harbor. The highlight of the tour is the ride along the coast to the Mürwik Naval School. End the day relaxed at Solitüde beach, where you can enjoy views of the Danish shore."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Solitüde Imbiss",
+            "tip": "Klassisches Fischbrötchen direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solitüde Imbiss",
+            "tip": "Klasszikus halas szendvics közvetlenül a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Solitüde Imbiss",
+            "tip": "Sandviș clasic cu pește direct pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Solitüde Imbiss",
+            "tip": "Classic fish roll right on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Westerwerker See",
+            "tip": "Ein ruhiger See unweit der Küste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Westerwerker See",
+            "tip": "Csendes tó nem messze a parttól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Westerwerker See",
+            "tip": "Un lac liniștit nu departe de coastă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Westerwerker See",
+            "tip": "A quiet lake not far from the coast.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Flensburg",
+            "tip": "Falls Sie Ausrüstung oder Tipps brauchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradladen Flensburg",
+            "tip": "Ha felszerelésre vagy tippekre lenne szüksége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fahrradladen Flensburg",
+            "tip": "Dacă aveți nevoie de echipament sau sfaturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrradladen Flensburg",
+            "tip": "In case you need equipment or tips."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Förderadweg bietet fantastische Ausblicke aufs Wasser.",
+          "Achtung: In der Fußgängerzone müssen Fahrräder teilweise geschoben werden.",
+          "Nutzen Sie die Fahrradständer an den zentralen Plätzen.",
+          "Die Strecke nach Mürwik ist leicht hügelig."
+        ],
+        "hu": [
+          "A fjord menti kerékpárút fantasztikus kilátást nyújt a vízre.",
+          "Figyelem: A sétálóövezetben néhol tolni kell a kerékpárt.",
+          "Használja a kijelölt tárolókat a központi tereken.",
+          "A Mürwik felé vezető út enyhén dombos."
+        ],
+        "ro": [
+          "Pista de biciclete de-a lungul fiordului oferă vederi fantastice.",
+          "Atenție: În zona pietonală, bicicletele trebuie parțial împinse.",
+          "Folosiți suporturile de biciclete din piețele centrale.",
+          "Traseul spre Mürwik este ușor deluros."
+        ],
+        "en": [
+          "The fjord cycle path offers fantastic views of the water.",
+          "Note: In the pedestrian zone, bikes must sometimes be pushed.",
+          "Use the bike racks at the central squares.",
+          "The route to Mürwik is slightly hilly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Rote Straße (Cluster A)",
+          "coords": [
+            9.4365,
+            54.7845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus Südermarkt nutzen.",
+            "hu": "Használja a Südermarkt parkolóházat.",
+            "ro": "Folosiți parcarea Südermarkt.",
+            "en": "Use the Südermarkt parking garage."
+          }
+        },
+        {
+          "name": "St.-Marien-Kirche (Cluster A)",
+          "coords": [
+            9.4335,
+            54.7892
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkhaus erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolóháztól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking garage."
+          }
+        },
+        {
+          "name": "Museumshafen (Cluster B)",
+          "coords": [
+            9.4358,
+            54.7925
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken direkt am Hafenplatz.",
+            "hu": "Parkoljon közvetlenül a kikötő téren.",
+            "ro": "Parcați chiar în piața portului.",
+            "en": "Park right at the harbor square."
+          }
+        },
+        {
+          "name": "Schifffahrtsmuseum (Cluster B)",
+          "coords": [
+            9.4345,
+            54.7915
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hafen.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "Scurtă plimbare din port.",
+            "en": "Short walk from the harbor."
+          }
+        },
+        {
+          "name": "Glücksburg Schloss",
+          "coords": [
+            9.5442,
+            54.8325
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Renaissanceschlösser Nordeuropas.",
+            "hu": "Észak-Európa egyik legjelentősebb reneszánsz kastélya.",
+            "ro": "Unul dintre cele mai importante castele renascentiste din Europa de Nord.",
+            "en": "One of North Europe's most significant Renaissance castles."
+          }
+        },
+        {
+          "name": "Marineschule Mürwik (Cluster C)",
+          "coords": [
+            9.4605,
+            54.8145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Gute Parkmöglichkeiten vor dem Gelände.",
+            "hu": "Jó parkolási lehetőség a terület előtt.",
+            "ro": "Posibilități bune de parcare în fața incintei.",
+            "en": "Good parking options in front of the premises."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das Beste von Flensburg mit einem Ausflug zum Wasserschloss Glücksburg. Morgens erkunden Sie die Altstadt und den Museumshafen zu Fuß, nachdem Sie das Auto zentral geparkt haben. Nachmittags fahren Sie zum beeindruckenden Schloss Glücksburg, bevor Sie auf dem Rückweg die Marineschule Mürwik besuchen und den Blick über die Förde genießen.",
+        "hu": "Autóval kombinálhatjuk Flensburg legjavát a közeli Glücksburg vízi kastélyával. Reggel az óvárost és a kikötőt fedezzük fel gyalogosan a központi parkolás után. Délután a lenyűgöző Glücksburg kastélyhoz hajtunk, majd visszafelé útba ejtjük a mürwiki tengerészeti iskolát, ahonnan csodás kilátás nyílik a fjordra.",
+        "ro": "Cu mașina combinați ce este mai bun în Flensburg cu o excursie la castelul Glücksburg. Dimineața explorați orașul vechi și portul muzeu pe jos, după ce parcați central. După-amiaza conduceți spre impresionantul castel Glücksburg, înainte de a vizita Școala Navală Mürwik la întoarcere.",
+        "en": "By car, you combine the best of Flensburg with a trip to Glücksburg Castle. In the morning, explore the old town and the museum harbor on foot after parking centrally. In the afternoon, drive to the impressive Glücksburg Castle before visiting the Mürwik Naval School on the way back to enjoy views over the fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glückselig",
+            "tip": "Restaurant mit tollem Blick auf das Schloss Glücksburg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glückselig",
+            "tip": "Étterem remek kilátással a Glücksburg kastélyra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glückselig",
+            "tip": "Restaurant cu o vedere minunată spre castelul Glücksburg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glückselig",
+            "tip": "Restaurant with a great view of Glücksburg Castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Glücksburg",
+            "tip": "Weitläufige Parkanlage für entspannte Spaziergänge.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlosspark Glücksburg",
+            "tip": "Hatalmas park pihentető sétákhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlosspark Glücksburg",
+            "tip": "Parc vast pentru plimbări relaxante.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlosspark Glücksburg",
+            "tip": "Spacious park for relaxing walks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "CITTI-PARK",
+            "tip": "Großes Einkaufszentrum am Stadtrand mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "CITTI-PARK",
+            "tip": "Nagy bevásárlóközpont a város szélén, rengeteg parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "CITTI-PARK",
+            "tip": "Centru comercial mare la marginea orașului, cu multe locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "CITTI-PARK",
+            "tip": "Large shopping center on the outskirts with plenty of parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt ist das Parkleitsystem sehr hilfreich.",
+          "Die Fahrt nach Glücksburg dauert etwa 15-20 Minuten.",
+          "Parken Sie für die Altstadt am besten im Parkhaus 'Südermarkt'.",
+          "Beachten Sie die Parkgebühren in Hafennähe."
+        ],
+        "hu": [
+          "A belvárosban a parkolási irányító rendszer nagyon hasznos.",
+          "Az út Glücksburgba kb. 15-20 percet vesz igénybe.",
+          "Az óvároshoz a legjobb a 'Südermarkt' parkolóházban megállni.",
+          "Ügyeljen a kikötő közeli parkolási díjakra."
+        ],
+        "ro": [
+          "Sistemul de ghidare pentru parcare din centru este foarte util.",
+          "Drumul spre Glücksburg durează aproximativ 15-20 de minute.",
+          "Cel mai bine este să parcați în parcarea 'Südermarkt' pentru orașul vechi.",
+          "Atenție la taxele de parcare din apropierea portului."
+        ],
+        "en": [
+          "The parking guidance system in the city center is very helpful.",
+          "The drive to Glücksburg takes about 15-20 minutes.",
+          "For the old town, it's best to park in the 'Südermarkt' garage.",
+          "Watch out for parking fees near the harbor."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Nordertor (Dist A)",
+          "coords": [
+            9.4318,
+            54.7955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt an der Bushaltestelle Nordertor.",
+            "hu": "Kiindulópont a Nordertor buszmegállónál.",
+            "ro": "Punct de plecare la stația de autobuz Nordertor.",
+            "en": "Starting point at the Nordertor bus stop."
+          }
+        },
+        {
+          "name": "Phänomenta (Dist A)",
+          "coords": [
+            9.4308,
+            54.7965
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Nordertor zu Fuß erreichbar.",
+            "hu": "Közvetlenül a Nordertor mellett, gyalog elérhető.",
+            "ro": "Accesibil pe jos, chiar lângă Nordertor.",
+            "en": "Accessible on foot right next to Nordertor."
+          }
+        },
+        {
+          "name": "Museumshafen (Dist B)",
+          "coords": [
+            9.4358,
+            54.7925
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus zum ZOB und kurzer Fußweg.",
+            "hu": "Busszal a központi állomásig (ZOB), majd rövid séta.",
+            "ro": "Cu autobuzul până la ZOB și o scurtă plimbare.",
+            "en": "By bus to the central station (ZOB) and a short walk."
+          }
+        },
+        {
+          "name": "Rote Straße (Dist B)",
+          "coords": [
+            9.4365,
+            54.7845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Südende der historischen Meile.",
+            "hu": "A történelmi mérföld déli vége.",
+            "ro": "Capătul sudic al milei istorice.",
+            "en": "The southern end of the historical mile."
+          }
+        },
+        {
+          "name": "Marineschule Mürwik (Dist C)",
+          "coords": [
+            9.4605,
+            54.8145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Buslinie 3 oder 7 Richtung Mürwik nehmen.",
+            "hu": "Válassza a 3-as vagy 7-es buszt Mürwik felé.",
+            "ro": "Luați linia de autobuz 3 sau 7 spre Mürwik.",
+            "en": "Take bus line 3 or 7 towards Mürwik."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Busnetzes erreichen Sie alle wichtigen Punkte Flensburgs stressfrei. Beginnen Sie im Norden am Stadttor und dem Phänomenta. Mit dem Bus geht es weiter ins Zentrum zum Hafen und zur Roten Straße. Ein besonderes Erlebnis ist die Fahrt nach Mürwik, um die monumentale Marineschule direkt an der Förde zu besichtigen.",
+        "hu": "A jól kiépített buszhálózatnak köszönhetően stresszmentesen érhetjük el Flensburg minden fontos pontját. Kezdjünk északon a városkapunál és a Phänomenta-nál. Busszal megyünk tovább a központba, a kikötőhöz és a Rote Straße-hoz. Különleges élmény a mürwiki utazás, ahol a közvetlenül a fjord partján álló monumentális tengerészeti iskolát nézhetjük meg.",
+        "ro": "Datorită rețelei de autobuze bine dezvoltate, ajungeți la toate punctele importante din Flensburg fără stres. Începeți în nord, la poarta orașului și Phänomenta. Continuați cu autobuzul spre centru, la port și pe Rote Straße. O experiență specială este drumul spre Mürwik pentru a vizita școala navală monumentală direct pe fiord.",
+        "en": "Thanks to the well-developed bus network, you can reach all important points of Flensburg stress-free. Start in the north at the city gate and Phänomenta. Continue by bus to the center to the harbor and Rote Straße. A special experience is the trip to Mürwik to visit the monumental naval school right on the fjord."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "ZOB Imbiss",
+            "tip": "Schneller Snack am zentralen Knotenpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ZOB Imbiss",
+            "tip": "Gyors falat a központi buszpályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "ZOB Imbiss",
+            "tip": "Gustare rapidă la nodul central de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "ZOB Imbiss",
+            "tip": "Quick snack at the central bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mürwiker Wasserturm",
+            "tip": "Aussichtspunkt mit ruhigem Park.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mürwiker Wasserturm",
+            "tip": "Kilátópont csendes parkkal.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mürwiker Wasserturm",
+            "tip": "Punct de belvedere cu un parc liniștit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mürwiker Wasserturm",
+            "tip": "Viewpoint with a quiet park.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Flensburg Galerie",
+            "tip": "Direkt am ZOB gelegen, ideal für einen Zwischenstopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flensburg Galerie",
+            "tip": "Közvetlenül a ZOB-nál található, ideális egy megállóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flensburg Galerie",
+            "tip": "Situată chiar lângă ZOB, ideală pentru o oprire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flensburg Galerie",
+            "tip": "Located right at the ZOB, ideal for a stopover."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der ZOB ist der zentrale Umsteigepunkt für alle Linien.",
+          "Lösen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Busse fahren tagsüber in dichtem Takt.",
+          "Die Linien 3 und 7 sind ideal für Fahrten entlang der Förde."
+        ],
+        "hu": [
+          "A ZOB a központi átszállási pont minden járat számára.",
+          "Váltson napijegyet a korlátlan utazáshoz.",
+          "A buszok napközben sűrűn járnak.",
+          "A 3-as és 7-es járatok ideálisak a fjord menti közlekedéshez."
+        ],
+        "ro": [
+          "ZOB este punctul central de transfer pentru toate liniile.",
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Autobuzele circulă la intervale scurte în timpul zilei.",
+          "Liniile 3 și 7 sunt ideale pentru călătoriile de-a lungul fiordului."
+        ],
+        "en": [
+          "The ZOB is the central transfer point for all lines.",
+          "Buy a day ticket for unlimited travel.",
+          "Buses run frequently during the day.",
+          "Lines 3 and 7 are ideal for trips along the fjord."
+        ]
+      }
+    }
+  }
+}

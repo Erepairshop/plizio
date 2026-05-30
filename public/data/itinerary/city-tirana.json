@@ -1,7 +1,7 @@
 {
   "city_id": "city-tirana",
   "anchor": {
-    "name": "Tirana",
+    "name": "Skanderbeg-Platz",
     "coords": [
       19.8187,
       41.3275
@@ -10,269 +10,255 @@
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "18:26",
-      "total_km": 3.3,
-      "stop_count": 7,
+      "end_estimate": "17:40",
+      "total_km": 3.2,
+      "stop_count": 8,
       "stops": [
         {
-          "name": "Skanderbeg-Platz",
+          "name": {
+            "de": "Skanderbeg-Platz",
+            "hu": "Szkander bég tér",
+            "ro": "Piața Skanderbeg",
+            "en": "Skanderbeg Square"
+          },
           "coords": [
             19.8187,
             41.3275
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Ideal für erste Fotos und Orientierung.",
-            "hu": "Tökéletes a tájékozódáshoz és fotózáshoz.",
-            "ro": "Ideal pentru primele fotografii.",
-            "en": "Great for getting your bearings and photos."
+            "de": "Der Reiterstandbild des Nationalhelden steht im Zentrum.",
+            "hu": "A nemzeti hős lovasszobra a tér központi eleme.",
+            "ro": "Statuia ecvestră a eroului național domină piața.",
+            "en": "The equestrian statue of the national hero is the center point."
           }
         },
         {
-          "name": "Et'hem-Bey-Moschee",
+          "name": {
+            "de": "Nationales Historisches Museum",
+            "hu": "Nemzeti Történeti Múzeum",
+            "ro": "Muzeul Național de Istorie",
+            "en": "National Historical Museum"
+          },
           "coords": [
-            19.8192,
-            41.3278
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:38",
-          "stay_min": 40,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Achten Sie auf die feinen Fresken draußen.",
-            "hu": "Figyelje meg a külső freskókat.",
-            "ro": "Admirați frescele exterioare detaliate.",
-            "en": "Notice the detailed exterior frescoes."
-          }
-        },
-        {
-          "name": "Uhrturm von Tirana",
-          "coords": [
-            19.8195,
-            41.3276
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "10:20",
-          "stay_min": 80,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Steigen Sie hinauf für die beste Aussicht.",
-            "hu": "Másszon fel a legjobb kilátásért a térre.",
-            "ro": "Urcați pentru cea mai bună vedere.",
-            "en": "Climb up for the best view of the square."
-          }
-        },
-        {
-          "name": "Bunk'Art 2",
-          "coords": [
-            19.82,
-            41.327
+            19.8187,
+            41.3288
           ],
           "category": "museums",
-          "arrive_at": "11:45",
+          "arrive_at": "09:50",
           "stay_min": 100,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Tiefgreifende Einblicke in die dunkle Geschichte.",
-            "hu": "Mély betekintés a sötét múltba.",
-            "ro": "O privire profundă în istoria întunecată.",
-            "en": "Deep dive into the dark communist history."
+            "de": "Das Mosaik an der Fassade zeigt die albanische Geschichte.",
+            "hu": "A homlokzati mozaik az albán történelem büszke pillanatait mutatja.",
+            "ro": "Mozaicul de pe fațadă ilustrează istoria Albaniei.",
+            "en": "The facade mosaic depicts proud moments of Albanian history."
           }
         },
         {
-          "name": "Auferstehungskathedrale",
+          "name": {
+            "de": "Et'hem-Bey-Moschee",
+            "hu": "Et'hem bég mecset",
+            "ro": "Moscheea Et'hem Bey",
+            "en": "Et'hem Bey Mosque"
+          },
           "coords": [
-            19.8178,
-            41.3262
+            19.8196,
+            41.3275
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "13:31",
-          "stay_min": 75,
-          "hop_from_prev_min": 6,
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschöne Fresken mit Naturmotiven im Inneren.",
+            "hu": "Gyönyörű tájképi freskók díszítik a belső tereket.",
+            "ro": "Fresce superbe cu motive naturale în interior.",
+            "en": "Beautiful frescoes with nature motifs decorate the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Tirana",
+            "hu": "Tiranai óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            19.8198,
+            41.3274
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die 90 Stufen für einen Blick auf den Platz hinauf.",
+            "hu": "Mássz fel a 90 lépcsőn a téri panorámáért.",
+            "ro": "Urcați cele 90 de trepte pentru o vedere asupra pieței.",
+            "en": "Climb the 90 steps for a view over the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás székesegyház",
+            "ro": "Catedrala Învierea Domnului",
+            "en": "Resurrection Cathedral"
+          },
+          "coords": [
+            19.8164,
+            41.3268
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Beeindruckende moderne orthodoxe Architektur.",
-            "hu": "Lenyűgöző modern ortodox építészet.",
-            "ro": "Arhitectură ortodoxă modernă impresionantă.",
-            "en": "Impressive modern Orthodox architecture."
+            "de": "Moderne orthodoxe Architektur mit einer beeindruckenden Kuppel.",
+            "hu": "Modern ortodox építészet lenyűgöző kupolával.",
+            "ro": "Arhitectură ortodoxă modernă cu o cupolă impresionantă.",
+            "en": "Modern Orthodox architecture with an impressive dome."
           }
         },
         {
-          "name": "Pyramide von Tirana",
+          "name": {
+            "de": "Bunk'Art 2",
+            "hu": "Bunk'Art 2",
+            "ro": "Bunk'Art 2",
+            "en": "Bunk'Art 2"
+          },
+          "coords": [
+            19.8202,
+            41.3267
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ehemaliger Atombunker, der heute die Polizeigeschichte zeigt.",
+            "hu": "Egykori atomóvóhely, ma a rendőrség történetét mutatja be.",
+            "ro": "Fost buncăr atomic care acum prezintă istoria poliției.",
+            "en": "Former atomic bunker now showcasing police history."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide von Tirana",
+            "hu": "Tiranai piramis",
+            "ro": "Piramida din Tirana",
+            "en": "Pyramid of Tirana"
+          },
           "coords": [
             19.8217,
-            41.3235
+            41.3231
           ],
           "category": "historical",
-          "arrive_at": "14:58",
-          "stay_min": 80,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 0.8,
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Erklimmen Sie die renovierten Stufen.",
-            "hu": "Mássza meg a felújított lépcsőket.",
-            "ro": "Urcați treptele recent renovate.",
-            "en": "Climb the newly renovated steps."
+            "de": "Einst Hoxha-Museum, heute ein Kultur- und IT-Zentrum.",
+            "hu": "Egykor Hoxha-múzeum, ma kulturális és IT központ.",
+            "ro": "Fost muzeu Hoxha, azi centru cultural și IT.",
+            "en": "Once a Hoxha museum, now a cultural and IT hub."
           }
         },
         {
-          "name": "Großer Park von Tirana",
+          "name": {
+            "de": "Gerberbrücke",
+            "hu": "Tímárok hídja",
+            "ro": "Podul Tăbăcarilor",
+            "en": "Tanners' Bridge"
+          },
           "coords": [
-            19.823,
-            41.314
+            19.8267,
+            41.3261
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "16:41",
-          "stay_min": 105,
-          "hop_from_prev_min": 23,
-          "hop_from_prev_km": 1.5,
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
           "tip_5lang": {
-            "de": "Perfekt für einen entspannten Spaziergang am See.",
-            "hu": "Tökéletes egy tóparti sétára napvégén.",
-            "ro": "Perfect pentru o plimbare de seară pe malul lacului.",
-            "en": "Perfect for a relaxing evening lakeside walk."
+            "de": "Osmanische Steinbrücke aus dem 18. Jahrhundert.",
+            "hu": "18. századi oszmán kőhíd a belváros szélén.",
+            "ro": "Pod de piatră otoman din secolul al XVIII-lea.",
+            "en": "18th-century Ottoman stone bridge near the center."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen von Tirana, dem Skanderbeg-Platz, umgeben von historischen Wahrzeichen. Tauchen Sie in die Geheimnisse des Bunk'Art 2 ein und bewundern Sie moderne Sakralbauten. Nachmittags erkunden Sie die ikonische Pyramide, bevor Sie den Abend entspannt im Großen Park am See ausklingen lassen.",
-        "hu": "Indítsa napját Tirana lüktető szívében, a Szkander bég téren, történelmi látnivalók ölelésében. Fedezze fel a Bunk'Art 2 titkait és csodálja meg a modern templomokat. Délután mássza meg az ikonikus Piramist, majd a napot a Nagy Park tópartján, nyugodt környezetben zárhatja.",
-        "ro": "Începeți ziua în inima vibrantă a Tiranei, Piața Skanderbeg, înconjurată de repere istorice. Explorați secretele din Bunk'Art 2 și admirați arhitectura religioasă. După-amiaza, descoperiți faimoasa Piramidă, terminând ziua relaxant în Marele Parc lângă lac.",
-        "en": "Start your day in the vibrant heart of Tirana at Skanderbeg Square, surrounded by historic landmarks. Dive into the secrets of Bunk'Art 2 and admire modern religious architecture. In the afternoon, explore the iconic Pyramid before winding down by the lake in the Grand Park."
+        "de": "Beginnen Sie Ihren Tag im Herzen von Tirana am Skanderbeg-Platz, umgeben von Geschichte. Vormittags erkunden Sie die kommunistische Vergangenheit in den Museen und Bunkern. Nach dem Mittagessen führt der Weg zur ikonischen Pyramide und über die historische Gerberbrücke, wobei Sie den Mix aus osmanischen Erbe und moderner Architektur erleben.",
+        "hu": "Kezdje a napot Tirana szívében, a Szkander bég téren. Délelőtt merüljön el az albán történelemben a nemzeti múzeum és a Bunk'Art falai között. Ebéd után sétáljon el a brutalista piramishoz, majd fejezze be a városnézést a 18. századi Tímárok hídjánál, ahol érezhető a város oszmán múltja.",
+        "ro": "Începeți ziua în inima Tiranei, în Piața Skanderbeg, înconjurați de istorie. Dimineața explorați trecutul comunist în muzee și buncăre. După prânz, drumul vă duce la emblematica Piramidă și peste podul istoric al Tăbăcarilor, experimentând amestecul de moștenire otomană și arhitectură modernă.",
+        "en": "Start your day in the heart of Tirana at Skanderbeg Square, surrounded by history. Spend your morning exploring the communist past in museums and bunkers. After lunch, walk to the iconic Pyramid and across the historical Tanners' Bridge, witnessing the unique mix of Ottoman heritage and modern architecture."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fërgesë",
-            "tip": "Herzhaftes Gericht mit Paprika, Tomaten und Käse."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Traditionell überbackenes Lamm mit Joghurt."
-          },
-          {
-            "name": "Byrek",
-            "tip": "Knuspriger Teig mit Spinat oder Käse gefüllt."
+            "name": "Oda",
+            "tip": "Traditionelles Restaurant in einem alten Haus, probieren Sie Tavë Kosi."
           }
         ],
         "hu": [
           {
-            "name": "Fërgesë",
-            "tip": "Sűrű, sajtos-paprikás hagyományos egytálétel."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Joghurtban sült omlós bárányhús."
-          },
-          {
-            "name": "Byrek",
-            "tip": "Ropogós tészta spenóttal vagy sajttal töltve."
+            "name": "Oda",
+            "tip": "Hagyományos étterem egy régi házban, kóstolja meg a Tavë Kosival készült bárányt."
           }
         ],
         "ro": [
           {
-            "name": "Fërgesë",
-            "tip": "O mâncare delicioasă cu ardei, roșii și brânză."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Miel tradițional copt cu iaurt."
-          },
-          {
-            "name": "Byrek",
-            "tip": "Patiserie crocantă umplută cu spanac sau brânză."
+            "name": "Oda",
+            "tip": "Restaurant tradițional într-o casă veche, încercați Tavë Kosi."
           }
         ],
         "en": [
           {
-            "name": "Fërgesë",
-            "tip": "Hearty dish made with peppers, tomatoes, and cheese."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Traditional baked lamb with yogurt sauce."
-          },
-          {
-            "name": "Byrek",
-            "tip": "Crispy pastry filled with spinach or cheese."
+            "name": "Oda",
+            "tip": "Traditional restaurant in an old house, try the Tavë Kosi (baked lamb)."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Künstlicher See",
-            "tip": "Abends herrlich ruhig am Damm.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Parkpavillons",
-            "tip": "Versteckte Bänke im Großen Park.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Dajti Aussichtspunkt",
-            "tip": "Stille hoch über der lauten Stadt.",
+            "name": "Postbllok",
+            "tip": "Ein ruhiges Denkmal im Blloku-Viertel.",
             "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Mesterséges tó",
-            "tip": "Esti békés séta a gát mentén.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Park pavilonok",
-            "tip": "Elrejtett padok a Nagy Parkban.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Dajti kilátó",
-            "tip": "Csend a zajos város felett.",
+            "name": "Postbllok",
+            "tip": "Csendes emlékhely a Blloku negyedben.",
             "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Lacul Artificial",
-            "tip": "O seară pașnică pe baraj.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Pavilioanele din Parc",
-            "tip": "Bănci ascunse în Marele Parc.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Punct de belvedere Dajti",
-            "tip": "Liniște deasupra orașului aglomerat.",
+            "name": "Postbllok",
+            "tip": "Un monument liniștit în cartierul Blloku.",
             "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Artificial Lake",
-            "tip": "Peaceful evening walk along the dam.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Park Pavilions",
-            "tip": "Hidden benches in the Grand Park.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Dajti Viewpoint",
-            "tip": "Silence high above the busy city.",
+            "name": "Postbllok",
+            "tip": "A quiet memorial spot in the Blloku district.",
             "emoji": "🧘"
           }
         ]
@@ -281,68 +267,44 @@
         "de": [
           {
             "name": "Pazari i Ri",
-            "tip": "Traditioneller Markt für lokale Produkte."
-          },
-          {
-            "name": "Blloku Viertel",
-            "tip": "Boutiquen und moderne albanische Designs."
+            "tip": "Der Neue Basar für lokale Produkte und Olivenöl."
           }
         ],
         "hu": [
           {
             "name": "Pazari i Ri",
-            "tip": "Hagyományos piac helyi termékekkel."
-          },
-          {
-            "name": "Blloku negyed",
-            "tip": "Butikok és modern albán designerek."
+            "tip": "Az Új Bazár helyi termékekért és olívaolajért."
           }
         ],
         "ro": [
           {
             "name": "Pazari i Ri",
-            "tip": "Piață tradițională pentru produse locale."
-          },
-          {
-            "name": "Cartierul Blloku",
-            "tip": "Boutique-uri și design modern albanez."
+            "tip": "Noul Bazar pentru produse locale și ulei de măsline."
           }
         ],
         "en": [
           {
             "name": "Pazari i Ri",
-            "tip": "Traditional market for local produce and crafts."
-          },
-          {
-            "name": "Blloku District",
-            "tip": "Boutiques and modern Albanian design shops."
+            "tip": "The New Bazaar for local produce and olive oil."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Innenstadt lässt sich am besten zu Fuß erkunden.",
-          "Achten Sie beim Überqueren der Straßen auf den dichten Verkehr.",
-          "Viele kleine Cafés akzeptieren nur Bargeld (Lek).",
-          "Das Leitungswasser sollte nicht getrunken werden."
+          "Tirana ist sehr flach im Zentrum, ideal zum Laufen.",
+          "Trinken Sie morgens einen starken türkischen Kaffee."
         ],
         "hu": [
-          "A belváros kényelmesen, gyalogosan is bejárható.",
-          "Legyen óvatos az úttesten, a forgalom gyakran kaotikus.",
-          "A kisebb kávézókban sokszor csak készpénzzel (Lek) lehet fizetni.",
-          "A csapvíz fogyasztása nem javasolt."
+          "Tirana központja teljesen sík, kényelmesen bejárható gyalog.",
+          "Igyon egy erős török kávét reggel valamelyik kávézóban."
         ],
         "ro": [
-          "Centrul orașului poate fi explorat cel mai bine pe jos.",
-          "Fiți atenți la trafic când traversați străzile.",
-          "Multe cafenele mici acceptă doar numerar (Lek).",
-          "Apa de la robinet nu este potabilă."
+          "Centrul Tiranei este foarte plat, ideal pentru mers pe jos.",
+          "Beți o cafea turcească tare dimineața la o cafenea."
         ],
         "en": [
-          "The city center is best explored on foot.",
-          "Be cautious when crossing streets due to heavy traffic.",
-          "Many small cafes only accept cash (Lek).",
-          "It is recommended not to drink the tap water."
+          "Tirana's center is very flat, making it perfect for walking.",
+          "Enjoy a strong Turkish coffee in the morning at a local cafe."
         ]
       }
     },
@@ -350,301 +312,253 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "17:09",
-      "total_km": 5.0,
-      "stop_count": 5,
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Skanderbeg-Platz",
+          "name": {
+            "de": "Skanderbeg-Platz",
+            "hu": "Szkander bég tér",
+            "ro": "Piața Skanderbeg",
+            "en": "Skanderbeg Square"
+          },
           "coords": [
             19.8187,
             41.3275
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Großer autofreier Bereich für Radfahrer.",
-            "hu": "Hatalmas autómentes tér, jó kezdés.",
-            "ro": "Zonă mare pietonală, perfectă pentru biciclete.",
-            "en": "Huge car-free area, great start."
+            "de": "Großer Platz mit viel Platz zum Radfahren.",
+            "hu": "Tágas tér, bőven van hely a biciklizéshez.",
+            "ro": "Piață mare cu mult spațiu pentru bicicletă.",
+            "en": "Spacious square with plenty of room for cycling."
           }
         },
         {
-          "name": "Nationales Historisches Museum",
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás székesegyház",
+            "ro": "Catedrala Învierea Domnului",
+            "en": "Resurrection Cathedral"
+          },
           "coords": [
-            19.8175,
-            41.3285
+            19.8164,
+            41.3268
           ],
-          "category": "museums",
-          "arrive_at": "09:38",
-          "stay_min": 100,
-          "hop_from_prev_min": 3,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Fahrrad sicher vor dem Eingang abschließen.",
-            "hu": "Zárja le biztonságosan a kerékpárt a bejáratnál.",
-            "ro": "Asigurați bicicleta la intrare.",
-            "en": "Lock your bike safely near the entrance."
+            "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+            "hu": "Biciklitárolók találhatók a bejárat közelében.",
+            "ro": "Suporturi de biciclete se află lângă intrare.",
+            "en": "Bike racks are located near the entrance."
           }
         },
         {
-          "name": "Gerberbrücke (Ura e Tabakëve)",
-          "coords": [
-            19.8252,
-            41.3272
-          ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "11:27",
-          "stay_min": 80,
-          "hop_from_prev_min": 9,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Kurze Pause an der osmanischen Steinbrücke.",
-            "hu": "Rövid pihenő az oszmán kőhídnál.",
-            "ro": "O scurtă oprire la podul de piatră otoman.",
-            "en": "Short break at the Ottoman stone bridge."
-          }
-        },
-        {
-          "name": "Pyramide von Tirana",
+          "name": {
+            "de": "Pyramide von Tirana",
+            "hu": "Tiranai piramis",
+            "ro": "Piramida din Tirana",
+            "en": "Pyramid of Tirana"
+          },
           "coords": [
             19.8217,
-            41.3235
+            41.3231
           ],
           "category": "historical",
-          "arrive_at": "12:53",
-          "stay_min": 80,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1.0,
+          "arrive_at": "10:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Nehmen Sie die Radwege rund um das Gebäude.",
-            "hu": "Használja a környező kerékpárutakat.",
-            "ro": "Folosiți pistele de biciclete din jur.",
-            "en": "Use the cycling paths around the structure."
+            "de": "Die Umgebung der Pyramide ist jetzt modernisiert.",
+            "hu": "A piramis környéke mára teljesen megújult.",
+            "ro": "Zona din jurul Piramidei este acum modernizată.",
+            "en": "The area around the Pyramid is now fully modernized."
           }
         },
         {
-          "name": "Großer Park von Tirana",
+          "name": {
+            "de": "Großer Park von Tirana",
+            "hu": "Tiranai Nagy Park",
+            "ro": "Marele Parc din Tirana",
+            "en": "Grand Park of Tirana"
+          },
           "coords": [
-            19.823,
-            41.314
+            19.8234,
+            41.3134
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "14:25",
-          "stay_min": 105,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Sehr schöne, schattige Radwege am See.",
-            "hu": "Gyönyörű, árnyékos kerékpárutak a tó körül.",
-            "ro": "Piste umbrite minunate în jurul lacului.",
-            "en": "Beautiful shaded cycling paths around the lake."
+            "de": "Perfekte Radwege rund um den künstlichen See.",
+            "hu": "Tökéletes kerékpárutak a mesterséges tó körül.",
+            "ro": "Piste de biciclete perfecte în jurul lacului artificial.",
+            "en": "Perfect bike paths around the artificial lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerberbrücke",
+            "hu": "Tímárok hídja",
+            "ro": "Podul Tăbăcarilor",
+            "en": "Tanners' Bridge"
+          },
+          "coords": [
+            19.8267,
+            41.3261
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Brücke ist eine reine Fußgängerzone.",
+            "hu": "A híd tisztán gyalogos zóna, tolni kell a gépet.",
+            "ro": "Podul este exclusiv pietonal.",
+            "en": "The bridge is a pedestrian-only zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Et'hem-Bey-Moschee",
+            "hu": "Et'hem bég mecset",
+            "ro": "Moscheea Et'hem Bey",
+            "en": "Et'hem Bey Mosque"
+          },
+          "coords": [
+            19.8196,
+            41.3275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Abschluss der Tour wieder am zentralen Platz.",
+            "hu": "A túra lezárása ismét a központi téren.",
+            "ro": "Finalul turului din nou în piața centrală.",
+            "en": "End of the tour back at the central square."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Tirana entspannt auf zwei Rädern. Nach einem Start am weiten Skanderbeg-Platz radeln Sie zum Historischen Museum und zur steinernen Gerberbrücke. Der neu gestaltete Bereich der Pyramide ist ideal, bevor Sie den Nachmittag auf den grünen, gut ausgebauten Wegen des Großen Parks verbringen.",
-        "hu": "Fedezze fel Tiranát kényelmesen két keréken. A tágas Szkander bég térről a Történeti Múzeumhoz, majd az oszmán kőhídhoz vezet az út. A megújult Piramis környéke után a nap hátralévő részét a Nagy Park zöld, jól kiépített kerékpárútjain töltheti.",
-        "ro": "Explorați Tirana pe două roți. După Piața Skanderbeg, pedalați spre Muzeul de Istorie și podul vechi de piatră. Zona Piramidei este perfectă pentru o oprire înainte de a petrece după-amiaza pe pistele verzi din Marele Parc.",
-        "en": "Explore Tirana easily on two wheels. Starting from the vast Skanderbeg Square, ride to the History Museum and the old stone bridge. The renewed area around the Pyramid is great before spending your afternoon on the green cycling paths of the Grand Park."
+        "de": "Erkunden Sie Tirana auf zwei Rädern. Starten Sie im Zentrum und radeln Sie in Richtung Süden zum Großen Park, wo Sie entspannt um den See fahren können. Die Stadt hat in den letzten Jahren viele neue Radwege bekommen, was die Fahrt zwischen der Pyramide und dem Blloku-Viertel sicher und angenehm macht.",
+        "hu": "Fedezze fel Tiranát két keréken! Kezdje a központban, majd tekerjen délre a Nagy Parkhoz, ahol a tó körül pihentető köröket tehet. Az utóbbi években kiépült kerékpárutak biztonságossá teszik a közlekedést a piramis és a nyüzsgő Blloku negyed között.",
+        "ro": "Explorați Tirana pe două roți. Începeți în centru și pedalați spre sud către Marele Parc, unde puteți face o tură relaxantă în jurul lacului. Orașul a primit multe piste noi de biciclete în ultimii ani, făcând drumul între Piramidă și cartierul Blloku sigur și plăcut.",
+        "en": "Explore Tirana on two wheels. Start in the center and cycle south to the Grand Park for a relaxing ride around the lake. The city has developed many new bike lanes recently, making the journey between the Pyramid and the Blloku district safe and enjoyable."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Tavë Kosi",
-            "tip": "In den Restaurants rund um den neuen Basar."
-          },
-          {
-            "name": "Trilece",
-            "tip": "Süßer Milchkuchen, perfekt nach dem Radfahren."
-          },
-          {
-            "name": "Byrek",
-            "tip": "Schneller Snack für unterwegs."
+            "name": "Mullixhiu",
+            "tip": "In der Nähe des Parks, moderne albanische Küche vom Feinsten."
           }
         ],
         "hu": [
           {
-            "name": "Tavë Kosi",
-            "tip": "A helyi piachoz közeli éttermekben a legjobb."
-          },
-          {
-            "name": "Trilece",
-            "tip": "Édes tejes sütemény kerékpározás után."
-          },
-          {
-            "name": "Byrek",
-            "tip": "Gyors és laktató útravaló."
+            "name": "Mullixhiu",
+            "tip": "A park közelében található, kiváló modern albán konyha."
           }
         ],
         "ro": [
           {
-            "name": "Tavë Kosi",
-            "tip": "În restaurantele din jurul pieței noi."
-          },
-          {
-            "name": "Trilece",
-            "tip": "Prăjitură dulce cu lapte, perfectă după pedalat."
-          },
-          {
-            "name": "Byrek",
-            "tip": "O gustare rapidă la pachet."
+            "name": "Mullixhiu",
+            "tip": "Lângă parc, bucătărie albaneză modernă de top."
           }
         ],
         "en": [
           {
-            "name": "Tavë Kosi",
-            "tip": "Best found in restaurants around the New Bazaar."
-          },
-          {
-            "name": "Trilece",
-            "tip": "Sweet milk cake, perfect energy boost after cycling."
-          },
-          {
-            "name": "Byrek",
-            "tip": "A quick and filling snack on the go."
+            "name": "Mullixhiu",
+            "tip": "Located near the park, fine modern Albanian cuisine."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Tirana See",
-            "tip": "Radweg mit Blick auf das Wasser.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Botanik-Garten",
-            "tip": "Ruhiger Halt nahe dem Park.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Blloku Vormittag",
-            "tip": "Café-Pause vor dem Trubel.",
-            "emoji": "🧘"
+            "name": "Künstlicher See",
+            "tip": "Ruhige Uferwege im Park.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Tiranai tó",
-            "tip": "Kerékpárút csodás vízparti kilátással.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Botanikus kert",
-            "tip": "Nyugodt megálló a park szélén.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Blloku délelőtt",
-            "tip": "Kávészünet még a nagy nyüzsgés előtt.",
-            "emoji": "🧘"
+            "name": "Mesterséges tó",
+            "tip": "Csendes tóparti utak a parkban.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Lacul Tirana",
-            "tip": "Pistă de biciclete cu vedere la apă.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Grădina Botanică",
-            "tip": "Oprire liniștită lângă parc.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Blloku dimineața",
-            "tip": "O cafea înainte de agitație.",
-            "emoji": "🧘"
+            "name": "Lacul artificial",
+            "tip": "Maluri liniștite în parc.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Tirana Lake",
-            "tip": "Cycling path with lovely water views.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Botanical Garden",
-            "tip": "Quiet stop on the edge of the park.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Blloku Morning",
-            "tip": "Coffee break before the crowds arrive.",
-            "emoji": "🧘"
+            "name": "Artificial Lake",
+            "tip": "Quiet lakeside paths in the park.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Pazari i Ri",
-            "tip": "Mit dem Rad leicht erreichbar."
-          },
-          {
-            "name": "Toptani Einkaufszentrum",
-            "tip": "Modernes Zentrum mit Fahrradstellplätzen."
+            "name": "Toptani Shopping",
+            "tip": "Ein modernes Einkaufszentrum mit Fahrradparkplatz."
           }
         ],
         "hu": [
           {
-            "name": "Pazari i Ri",
-            "tip": "Kerékpárral is könnyen megközelíthető."
-          },
-          {
             "name": "Toptani bevásárlóközpont",
-            "tip": "Modern központ kerékpártárolóval."
+            "tip": "Modern pláza bicikliparkolóval."
           }
         ],
         "ro": [
           {
-            "name": "Pazari i Ri",
-            "tip": "Ușor accesibil cu bicicleta."
-          },
-          {
-            "name": "Mall Toptani",
-            "tip": "Centru modern cu parcare pentru biciclete."
+            "name": "Toptani Shopping",
+            "tip": "Un mall modern cu parcare pentru biciclete."
           }
         ],
         "en": [
           {
-            "name": "Pazari i Ri",
-            "tip": "Easily accessible by bike."
-          },
-          {
-            "name": "Toptani Mall",
-            "tip": "Modern mall with bike parking outside."
+            "name": "Toptani Shopping",
+            "tip": "A modern mall with bicycle parking."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tirana investiert in grüne Radwege, nutzen Sie diese.",
-          "Tragen Sie bei starkem Verkehr einen Helm.",
-          "Die Uferpromenade am See ist oft voller Fußgänger, fahren Sie langsam.",
-          "Fahrradschlösser sind bei Museumsbesuchen Pflicht."
+          "Nutzen Sie die grünen Radspuren auf den Hauptboulevards.",
+          "Achten Sie auf Fußgänger auf dem Skanderbeg-Platz."
         ],
         "hu": [
-          "Tirana folyamatosan fejleszti a zöld sávokat, használja őket.",
-          "A forgalmas utakon erősen ajánlott a sisak viselése.",
-          "A tóparti sétány gyakran tele van gyalogosokkal, lassítson.",
-          "A múzeumlátogatásoknál mindig használjon erős zárat."
+          "Használja a fő sugárutak zöld kerékpársávjait.",
+          "Vigyázzon a gyalogosokra a Szkander bég téren."
         ],
         "ro": [
-          "Tirana dezvoltă piste noi, asigurați-vă că le folosiți.",
-          "Purtați cască pe străzile aglomerate.",
-          "Promenada lacului este plină de pietoni, mergeți încet.",
-          "Asigurați-vă bicicleta cu un lacăt solid la muzee."
+          "Folosiți benzile verzi de biciclete de pe bulevardele principale.",
+          "Atenție la pietoni în Piața Skanderbeg."
         ],
         "en": [
-          "Tirana is expanding its green cycling lanes, make use of them.",
-          "Wear a helmet on busy multi-lane roads.",
-          "The lakeside promenade is often crowded with pedestrians, ride slowly.",
-          "Always use a sturdy lock when visiting museums."
+          "Use the green bike lanes on the main boulevards.",
+          "Watch out for pedestrians on Skanderbeg Square."
         ]
       }
     },
@@ -652,324 +566,276 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:41",
-      "total_km": 17.8,
-      "stop_count": 6,
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Nationales Historisches Museum",
-          "coords": [
-            19.8175,
-            41.3285
-          ],
-          "category": "museums",
-          "arrive_at": "09:10",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Parken Sie im unterirdischen Skanderbeg-Parkhaus.",
-            "hu": "Parkoljon a Szkander bég téri mélygarázsban.",
-            "ro": "Parcați în parcarea subterană Skanderbeg.",
-            "en": "Park in the underground Skanderbeg garage."
-          }
-        },
-        {
-          "name": "Skanderbeg-Platz",
+          "name": {
+            "de": "Skanderbeg-Platz",
+            "hu": "Szkander bég tér",
+            "ro": "Piața Skanderbeg",
+            "en": "Skanderbeg Square"
+          },
           "coords": [
             19.8187,
             41.3275
           ],
           "category": "squares/old-town",
-          "arrive_at": "10:55",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Kurzer Spaziergang auf dem weiten Platz.",
-            "hu": "Rövid séta a tágas téren.",
-            "ro": "O scurtă plimbare prin piața vastă.",
-            "en": "A short walk across the vast square."
+            "de": "Parken Sie in der Tiefgarage direkt unter dem Platz.",
+            "hu": "Parkoljon a tér alatti mélygarázsban.",
+            "ro": "Parcați în garajul subteran direct sub piață.",
+            "en": "Park in the underground garage directly under the square."
           }
         },
         {
-          "name": "Et'hem-Bey-Moschee",
+          "name": {
+            "de": "Nationales Historisches Museum",
+            "hu": "Nemzeti Történeti Múzeum",
+            "ro": "Muzeul Național de Istorie",
+            "en": "National Historical Museum"
+          },
           "coords": [
-            19.8192,
-            41.3278
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:23",
-          "stay_min": 40,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Gleich neben dem Platz gelegen.",
-            "hu": "Közvetlenül a tér mellett található.",
-            "ro": "Situată chiar lângă piață.",
-            "en": "Located just off the square."
-          }
-        },
-        {
-          "name": "Bunk'Art 2",
-          "coords": [
-            19.82,
-            41.327
+            19.8187,
+            41.3288
           ],
           "category": "museums",
-          "arrive_at": "12:08",
+          "arrive_at": "09:45",
           "stay_min": 100,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Danach zurück zum Auto im Parkhaus.",
-            "hu": "Ezután térjen vissza az autóhoz a mélygarázsba.",
-            "ro": "Apoi întoarceți-vă la mașina din parcare.",
-            "en": "Afterward, head back to your car in the garage."
+            "de": "Fußläufig vom Parkplatz am Platz erreichbar.",
+            "hu": "Gyalogosan elérhető a téri parkolótól.",
+            "ro": "Accesibil pe jos de la parcarea din piață.",
+            "en": "Accessible on foot from the square parking."
           }
         },
         {
-          "name": "Dajti Ekspres Seilbahn",
+          "name": {
+            "de": "Dajti Ekspres Seilbahn",
+            "hu": "Dajti Ekspres felvonó",
+            "ro": "Telecabina Dajti Ekspres",
+            "en": "Dajti Ekspres Cable Car"
+          },
           "coords": [
-            19.855,
-            41.3485
+            19.8833,
+            41.3523
           ],
           "category": "natural features",
-          "arrive_at": "14:06",
-          "stay_min": 75,
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 8.0,
-          "hop_mode": "car",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
           "tip_5lang": {
-            "de": "Kostenfreie Parkplätze an der Talstation.",
-            "hu": "Ingyenes parkolás az alsó állomásnál.",
-            "ro": "Parcare gratuită la stația de jos.",
-            "en": "Free parking available at the lower station."
+            "de": "Fahrt zum Berg Dajti für eine Panorama-Aussicht.",
+            "hu": "Utazás a Dajti-hegyre a panorámáért.",
+            "ro": "Călătorie spre muntele Dajti pentru o vedere panoramică.",
+            "en": "Ride to Mount Dajti for a panoramic view."
           }
         },
         {
-          "name": "Großer Park von Tirana",
+          "name": {
+            "de": "Großer Park von Tirana",
+            "hu": "Tiranai Nagy Park",
+            "ro": "Marele Parc din Tirana",
+            "en": "Grand Park of Tirana"
+          },
           "coords": [
-            19.823,
-            41.314
+            19.8234,
+            41.3134
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "15:41",
-          "stay_min": 105,
+          "arrive_at": "14:05",
+          "stay_min": 80,
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 9.0,
-          "hop_mode": "car",
+          "hop_from_prev_km": 7.5,
           "tip_5lang": {
-            "de": "Straßenparkplätze in der Nähe des Damms suchen.",
-            "hu": "Keressen utcai parkolót a gát közelében.",
-            "ro": "Căutați parcare pe stradă lângă baraj.",
-            "en": "Look for street parking near the dam."
+            "de": "Parken Sie am südlichen Ende des Parks.",
+            "hu": "Parkoljon a park déli végénél.",
+            "ro": "Parcați la capătul sudic al parcului.",
+            "en": "Park at the southern end of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide von Tirana",
+            "hu": "Tiranai piramis",
+            "ro": "Piramida din Tirana",
+            "en": "Pyramid of Tirana"
+          },
+          "coords": [
+            19.8217,
+            41.3231
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die renovierte Struktur.",
+            "hu": "Nézze meg a felújított építményt.",
+            "ro": "Vizitați structura renovată.",
+            "en": "Visit the renovated structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunk'Art 2",
+            "hu": "Bunk'Art 2",
+            "ro": "Bunk'Art 2",
+            "en": "Bunk'Art 2"
+          },
+          "coords": [
+            19.8202,
+            41.3267
+          ],
+          "category": "museums",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kompakter Besuch am späten Nachmittag.",
+            "hu": "Rövid látogatás késő délután.",
+            "ro": "O vizită compactă târziu după-amiaza.",
+            "en": "A compact visit in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm von Tirana",
+            "hu": "Tiranai óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            19.8198,
+            41.3274
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Abendlicher Blick über den beleuchteten Platz.",
+            "hu": "Esti kilátás a kivilágított térre.",
+            "ro": "Vedere de seară asupra pieței iluminate.",
+            "en": "Evening view over the illuminated square."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie das Auto strategisch: Parken Sie morgens im Zentrum, um Museum, Platz und Moschee bequem zu Fuß zu erkunden. Mittags fahren Sie zur Dajti-Seilbahn für spektakuläre Ausblicke aus den Bergen, bevor Sie den Nachmittag am Großen Park ausklingen lassen.",
-        "hu": "Használja stratégiailag az autót: parkoljon le reggel a központban, és járja be gyalog a múzeumot, a teret és a mecsetet. Délben hajtson a Dajti felvonóhoz egy hegyi panorámáért, majd zárja a napot a Nagy Park zöld övezetében.",
-        "ro": "Folosiți mașina strategic: parcați dimineața în centru pentru a explora pe jos muzeul, piața și moscheea. La prânz, conduceți spre telecabina Dajti pentru priveliști montane spectaculoase, relaxându-vă apoi în Marele Parc.",
-        "en": "Use your car strategically: park in the center in the morning to explore the museum, square, and mosque on foot. At noon, drive to the Dajti cable car for spectacular mountain views before relaxing at the Grand Park."
+        "de": "Mit dem Auto kombinieren Sie das Stadtzentrum mit dem Berg Dajti. Nutzen Sie die Tiefgarage am Skanderbeg-Platz für die Museen im Zentrum. Mittags fahren Sie zur Dajti Ekspres Seilbahn am Stadtrand für frische Bergluft und einen Blick über ganz Tirana. Nachmittags geht es zurück zum Großen Park und zur Pyramide.",
+        "hu": "Autóval kényelmesen kombinálhatja a belvárost a Dajti-heggyel. Használja a Szkander bég tér alatti garázst a központi múzeumokhoz. Délben hajtson ki a város szélére a Dajti felvonóhoz a friss hegyi levegőért és a panorámáért. Délután térjen vissza a Nagy Parkhoz és a Piramishoz.",
+        "ro": "Cu mașina puteți combina centrul orașului cu muntele Dajti. Folosiți parcarea subterană din Piața Skanderbeg pentru muzeele din centru. La prânz mergeți la telecabina Dajti Ekspres de la marginea orașului pentru aer curat de munte și o vedere panoramică. După-amiază reveniți la Marele Parc și la Piramidă.",
+        "en": "By car, you can easily combine the city center with Mount Dajti. Use the underground parking at Skanderbeg Square for the central museums. At noon, drive to the outskirts for the Dajti Ekspres cable car to enjoy fresh mountain air and city views. Spend the afternoon back at the Grand Park and the Pyramid."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Ballokume",
-            "tip": "Süßer Keks, oft mit Tee genossen."
-          },
-          {
-            "name": "Dajti Balkon",
-            "tip": "Mittagessen mit Bergsicht nahe der Bergstation."
-          },
-          {
-            "name": "Tavë Dheu",
-            "tip": "Herzhafter Schmortopf."
+            "name": "Ballkoni Dajtit",
+            "tip": "Restaurant auf dem Berggipfel mit atemberaubendem Blick."
           }
         ],
         "hu": [
           {
-            "name": "Ballokume",
-            "tip": "Hagyományos édes keksz teához."
-          },
-          {
-            "name": "Dajti Balcony",
-            "tip": "Ebéd hegyi kilátással a felvonó hegyi állomásánál."
-          },
-          {
-            "name": "Tavë Dheu",
-            "tip": "Kiadós agyagedényes ragu."
+            "name": "Ballkoni Dajtit",
+            "tip": "Étterem a hegytetőn, lélegzetelállító kilátással."
           }
         ],
         "ro": [
           {
-            "name": "Ballokume",
-            "tip": "Biscuiți dulci tradiționali pentru ceai."
-          },
-          {
-            "name": "Dajti Balcony",
-            "tip": "Prânz cu vedere la munte lângă stația de sus."
-          },
-          {
-            "name": "Tavë Dheu",
-            "tip": "O tocană consistentă gătită în lut."
+            "name": "Ballkoni Dajtit",
+            "tip": "Restaurant pe vârful muntelui cu o vedere uluitoare."
           }
         ],
         "en": [
           {
-            "name": "Ballokume",
-            "tip": "Traditional sweet cookie, great with tea."
-          },
-          {
-            "name": "Dajti Balcony",
-            "tip": "Lunch with a mountain view near the top station."
-          },
-          {
-            "name": "Tavë Dheu",
-            "tip": "Hearty slow-cooked stew."
+            "name": "Ballkoni Dajtit",
+            "tip": "Restaurant on the mountain top with a breathtaking view."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Dajti Berg",
-            "tip": "Absolute Ruhe abseits der Stadt.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Park Wald",
-            "tip": "Dichte Baumkronen im südlichen Teil.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Dammblick",
-            "tip": "Sonnenuntergang am See.",
-            "emoji": "🌅"
+            "name": "Berg Dajti",
+            "tip": "Waldspaziergänge weit weg vom Stadtlärm.",
+            "emoji": "🌲"
           }
         ],
         "hu": [
           {
-            "name": "Dajti hegy",
-            "tip": "Abszolút csend a városon kívül.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Park erdő",
-            "tip": "Sűrű lombok a déli részen.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Gát kilátás",
-            "tip": "Naplemente a tónál.",
-            "emoji": "🌅"
+            "name": "Dajti-hegy",
+            "tip": "Erdei séták távol a város zajától.",
+            "emoji": "🌲"
           }
         ],
         "ro": [
           {
             "name": "Muntele Dajti",
-            "tip": "Liniște absolută departe de oraș.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Pădurea din Parc",
-            "tip": "Coroane dese în partea de sud.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Vedere la Baraj",
-            "tip": "Apus de soare lângă lac.",
-            "emoji": "🌅"
+            "tip": "Plimbări în pădure departe de zgomotul orașului.",
+            "emoji": "🌲"
           }
         ],
         "en": [
           {
             "name": "Mount Dajti",
-            "tip": "Absolute silence away from the city.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Park Forest",
-            "tip": "Thick tree canopies in the southern part.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Dam View",
-            "tip": "Sunset by the lake.",
-            "emoji": "🌅"
+            "tip": "Forest walks far from the city noise.",
+            "emoji": "🌲"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Ring Center",
-            "tip": "Großes Einkaufszentrum mit Tiefgarage."
-          },
-          {
-            "name": "Myslym Shyri Straße",
-            "tip": "Beliebte Straße für Bekleidungsgeschäfte."
+            "name": "TEG (Tirana East Gate)",
+            "tip": "Das größte Einkaufszentrum, erreichbar mit dem Auto."
           }
         ],
         "hu": [
           {
-            "name": "Ring Center",
-            "tip": "Nagy bevásárlóközpont saját mélygarázzsal."
-          },
-          {
-            "name": "Myslym Shyri utca",
-            "tip": "Népszerű utca ruhaüzletekkel."
+            "name": "TEG (Tirana East Gate)",
+            "tip": "A legnagyobb pláza, autóval könnyen elérhető."
           }
         ],
         "ro": [
           {
-            "name": "Ring Center",
-            "tip": "Mall mare cu parcare subterană."
-          },
-          {
-            "name": "Strada Myslym Shyri",
-            "tip": "Stradă populară pentru magazine de haine."
+            "name": "TEG (Tirana East Gate)",
+            "tip": "Cel mai mare mall, accesibil cu mașina."
           }
         ],
         "en": [
           {
-            "name": "Ring Center",
-            "tip": "Large mall with underground parking."
-          },
-          {
-            "name": "Myslym Shyri Street",
-            "tip": "Popular street for clothing boutiques."
+            "name": "TEG (Tirana East Gate)",
+            "tip": "The largest mall, easily accessible by car."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Verkehr im Zentrum von Tirana kann sehr hektisch sein.",
-          "Parken Sie auf großen, bewachten Parkplätzen, nicht am Straßenrand.",
-          "Achten Sie auf unübersichtliche Kreisverkehre.",
-          "Nutzen Sie Offline-Karten, da das Netz manchmal instabil ist."
+          "Der Verkehr in Tirana kann sehr chaotisch sein.",
+          "Nutzen Sie bewachte Parkplätze oder Tiefgaragen."
         ],
         "hu": [
-          "Tirana központjában a forgalom nagyon kaotikus lehet.",
-          "Nagy, őrzött parkolókban álljon meg, ne az út szélén.",
-          "A körforgalmakban különösen legyen óvatos.",
-          "Töltsön le offline térképet, mert a hálózat olykor akadozik."
+          "Tirana közlekedése kaotikus lehet, legyen türelmes.",
+          "Használjon őrzött parkolókat vagy mélygarázsokat."
         ],
         "ro": [
-          "Traficul în centrul Tiranei poate fi foarte haotic.",
-          "Parcați în parcări mari păzite, nu pe stradă.",
-          "Atenție mare în sensurile giratorii.",
-          "Folosiți hărți offline, deoarece semnalul poate fi slab."
+          "Traficul în Tirana poate fi haotic.",
+          "Folosiți parcări păzite sau garaje subterane."
         ],
         "en": [
-          "Traffic in central Tirana can be very chaotic.",
-          "Park in large, guarded lots rather than on the street.",
-          "Be extra cautious when navigating roundabouts.",
-          "Download offline maps as cell service can be spotty."
+          "Traffic in Tirana can be chaotic.",
+          "Use guarded parking lots or underground garages."
         ]
       }
     },
@@ -977,324 +843,253 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "18:10",
-      "total_km": 14.4,
+      "end_estimate": "17:30",
+      "total_km": 12.0,
       "stop_count": 6,
       "stops": [
         {
-          "name": "Skanderbeg-Platz",
+          "name": {
+            "de": "Skanderbeg-Platz",
+            "hu": "Szkander bég tér",
+            "ro": "Piața Skanderbeg",
+            "en": "Skanderbeg Square"
+          },
           "coords": [
             19.8187,
             41.3275
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "tip_5lang": {
             "de": "Zentraler Knotenpunkt für fast alle Buslinien.",
-            "hu": "A legtöbb buszjárat központi csomópontja.",
-            "ro": "Nod central pentru majoritatea autobuzelor.",
+            "hu": "Szinte minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru aproape toate liniile de autobuz.",
             "en": "Central hub for almost all bus lines."
           }
         },
         {
-          "name": "Bunk'Art 2",
+          "name": {
+            "de": "Et'hem-Bey-Moschee",
+            "hu": "Et'hem bég mecset",
+            "ro": "Moscheea Et'hem Bey",
+            "en": "Et'hem Bey Mosque"
+          },
           "coords": [
-            19.82,
-            41.327
+            19.8196,
+            41.3275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt am Platz gelegen.",
+            "hu": "Közvetlenül a téren található.",
+            "ro": "Situată direct în piață.",
+            "en": "Located directly on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunk'Art 2",
+            "hu": "Bunk'Art 2",
+            "ro": "Bunk'Art 2",
+            "en": "Bunk'Art 2"
+          },
+          "coords": [
+            19.8202,
+            41.3267
           ],
           "category": "museums",
-          "arrive_at": "09:40",
-          "stay_min": 100,
-          "hop_from_prev_min": 5,
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Bequem zu Fuß vom Platz erreichbar.",
-            "hu": "Könnyű séta a központi térről.",
-            "ro": "Ușor de ajuns pe jos din piață.",
-            "en": "Easy walking distance from the square."
+            "de": "Zu Fuß vom Platz aus erreichbar.",
+            "hu": "Gyalogosan elérhető a térről.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Accessible on foot from the square."
           }
         },
         {
-          "name": "Uhrturm von Tirana",
+          "name": {
+            "de": "Großer Park von Tirana",
+            "hu": "Tiranai Nagy Park",
+            "ro": "Marele Parc din Tirana",
+            "en": "Grand Park of Tirana"
+          },
           "coords": [
-            19.8195,
-            41.3276
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Direkt um die Ecke, bevor es zur Bushaltestelle geht.",
-            "hu": "Közvetlenül a sarok mögött, a buszmegálló előtt.",
-            "ro": "Chiar după colț înainte de a lua autobuzul.",
-            "en": "Just around the corner before catching your bus."
-          }
-        },
-        {
-          "name": "Dajti Ekspres Seilbahn",
-          "coords": [
-            19.855,
-            41.3485
-          ],
-          "category": "natural features",
-          "arrive_at": "13:15",
-          "stay_min": 75,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 6.0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nehmen Sie den blauen Bus 'Porcelan' aus dem Zentrum.",
-            "hu": "Keresse a kék színű 'Porcelan' buszt a központból.",
-            "ro": "Luați autobuzul albastru 'Porcelan' din centru.",
-            "en": "Take the blue 'Porcelan' bus from the center."
-          }
-        },
-        {
-          "name": "Pyramide von Tirana",
-          "coords": [
-            19.8217,
-            41.3235
-          ],
-          "category": "historical",
-          "arrive_at": "15:00",
-          "stay_min": 80,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 7.0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Mit dem Bus zurück Richtung Blloku fahren.",
-            "hu": "Busszal térjen vissza a Blloku negyed irányába.",
-            "ro": "Luați autobuzul înapoi spre zona Blloku.",
-            "en": "Take the bus back towards the Blloku area."
-          }
-        },
-        {
-          "name": "Großer Park von Tirana",
-          "coords": [
-            19.823,
-            41.314
+            19.8234,
+            41.3134
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "16:25",
-          "stay_min": 105,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
           "tip_5lang": {
-            "de": "Kurzer Spaziergang von der Pyramide nach Süden.",
-            "hu": "Rövid séta a Piramistól délre.",
-            "ro": "O scurtă plimbare la sud de Piramidă.",
-            "en": "A short walk south from the Pyramid."
+            "de": "Nehmen Sie den Bus Richtung Tirana e Re.",
+            "hu": "Szálljon a Tirana e Re irányú buszra.",
+            "ro": "Luați autobuzul spre Tirana e Re.",
+            "en": "Take the bus towards Tirana e Re."
+          }
+        },
+        {
+          "name": {
+            "de": "Dajti Ekspres Seilbahn",
+            "hu": "Dajti Ekspres felvonó",
+            "ro": "Telecabina Dajti Ekspres",
+            "en": "Dajti Ekspres Cable Car"
+          },
+          "coords": [
+            19.8833,
+            41.3523
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Buslinie L11 (Porcelan) bringt Sie zur Seilbahn.",
+            "hu": "Az L11 (Porcelan) buszjárat visz a felvonóhoz.",
+            "ro": "Linia L11 (Porcelan) vă duce la telecabină.",
+            "en": "Bus line L11 (Porcelan) takes you to the cable car."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide von Tirana",
+            "hu": "Tiranai piramis",
+            "ro": "Piramida din Tirana",
+            "en": "Pyramid of Tirana"
+          },
+          "coords": [
+            19.8217,
+            41.3231
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum mit dem Bus.",
+            "hu": "Visszautazás a központba busszal.",
+            "ro": "Întoarcere în centru cu autobuzul.",
+            "en": "Return to the center by bus."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Tiranas Busnetz verbindet die Hauptviertel gut miteinander. Erkunden Sie zunächst die zentralen Highlights rund um den Skanderbeg-Platz zu Fuß. Steigen Sie dann in den Bus zur Dajti-Seilbahn für Bergpanoramen, und fahren Sie nachmittags zurück ins Zentrum zur Pyramide und dem angrenzenden Großen Park.",
-        "hu": "Tirana buszhálózata jól összeköti a főbb negyedeket. Először gyalogosan járja be a Szkander bég tér körüli látnivalókat. Ezután busszal jusson el a Dajti felvonóhoz egy hegyi panorámára, majd délután térjen vissza a Piramishoz és a közeli Nagy Parkhoz.",
-        "ro": "Rețeaua de autobuze conectează bine cartierele principale. Explorați mai întâi atracțiile centrale din jurul Pieței Skanderbeg pe jos. Apoi, luați autobuzul către telecabina Dajti, întorcându-vă după-amiaza la Piramidă și Marele Parc.",
-        "en": "Tirana's bus network connects the main districts well. First explore the central highlights around Skanderbeg Square on foot. Then catch a bus to the Dajti cable car for mountain views, returning in the afternoon to the Pyramid and the adjacent Grand Park."
+        "de": "Nutzen Sie das dichte Busnetz von Tirana, um die Highlights zu verbinden. Starten Sie im Zentrum, besuchen Sie die Moschee und den Bunk'Art. Fahren Sie dann mit dem Bus zum Großen Park im Süden und am Nachmittag mit der Linie 'Porcelan' zur Dajti Ekspres Seilbahn für den Sonnenuntergang über der Stadt.",
+        "hu": "Használja Tirana sűrű buszhálózatát a látnivalók összekötésére. Kezdjen a központban a mecsetnél és a Bunk'Artnál. Ezután buszozzon el délre a Nagy Parkhoz, majd délután a 'Porcelan' járattal a Dajti felvonóhoz, hogy onnan nézze meg a város feletti naplementét.",
+        "ro": "Folosiți rețeaua densă de autobuze din Tirana pentru a conecta punctele de atracție. Începeți în centru cu moscheea și Bunk'Art. Mergeți apoi cu autobuzul la Marele Parc în sud, iar după-amiază cu linia 'Porcelan' la telecabina Dajti Ekspres pentru apusul peste oraș.",
+        "en": "Use Tirana's dense bus network to link the highlights. Start in the center visiting the mosque and Bunk'Art. Then take a bus to the Grand Park in the south, and in the afternoon use the 'Porcelan' line to reach the Dajti Ekspres cable car for sunset views over the city."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Blloku Viertel",
-            "tip": "Viele Restaurants in Gehweite der Pyramide."
-          },
-          {
-            "name": "Qofte",
-            "tip": "Albanische Fleischbällchen, perfekt als schneller Snack."
-          },
-          {
-            "name": "Kafe Turke",
-            "tip": "Traditioneller Kaffee für zwischendurch."
+            "name": "Era Blloku",
+            "tip": "Beliebtes Restaurant im Blloku-Viertel, leicht mit dem Bus erreichbar."
           }
         ],
         "hu": [
           {
-            "name": "Blloku negyed",
-            "tip": "Sok étterem sétatávolságra a Piramistól."
-          },
-          {
-            "name": "Qofte",
-            "tip": "Albán húsgombóc, gyors harapnivalónak."
-          },
-          {
-            "name": "Kafe Turke",
-            "tip": "Hagyományos török kávé a pihenőhöz."
+            "name": "Era Blloku",
+            "tip": "Népszerű étterem a Blloku negyedben, busszal könnyen elérhető."
           }
         ],
         "ro": [
           {
-            "name": "Cartierul Blloku",
-            "tip": "Multe restaurante la câțiva pași de Piramidă."
-          },
-          {
-            "name": "Qofte",
-            "tip": "Chiftele albaneze, o gustare rapidă perfectă."
-          },
-          {
-            "name": "Kafe Turke",
-            "tip": "Cafea tradițională de savurat în pauze."
+            "name": "Era Blloku",
+            "tip": "Restaurant popular în cartierul Blloku, ușor accesibil cu autobuzul."
           }
         ],
         "en": [
           {
-            "name": "Blloku District",
-            "tip": "Many restaurants within walking distance of the Pyramid."
-          },
-          {
-            "name": "Qofte",
-            "tip": "Albanian meatballs, perfect for a quick snack."
-          },
-          {
-            "name": "Kafe Turke",
-            "tip": "Traditional coffee for a mid-day break."
+            "name": "Era Blloku",
+            "tip": "Popular restaurant in the Blloku district, easily accessible by bus."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Seilbahnkabine",
-            "tip": "Ruhiger Aufstieg über dem Trubel.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Künstlicher See",
-            "tip": "Abends ein friedlicher Rückzugsort.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Nationalmuseum Garten",
-            "tip": "Kleiner Bereich hinter dem Gebäude.",
-            "emoji": "🍃"
+            "name": "Dajti Mountain",
+            "tip": "Ruhe über den Wolken.",
+            "emoji": "☁️"
           }
         ],
         "hu": [
           {
-            "name": "Felvonó kabin",
-            "tip": "Nyugodt emelkedés a nyüzsgés fölött.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Mesterséges tó",
-            "tip": "Békés menedék estére.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Nemzeti Múzeum kert",
-            "tip": "Kisebb terület az épület mögött.",
-            "emoji": "🍃"
+            "name": "Dajti-hegy",
+            "tip": "Csend a felhők felett.",
+            "emoji": "☁️"
           }
         ],
         "ro": [
           {
-            "name": "Cabina telecabinei",
-            "tip": "Urcare liniștită deasupra agitației.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Lacul Artificial",
-            "tip": "Un refugiu pașnic seara.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Grădina Muzeului",
-            "tip": "Mică zonă în spatele clădirii.",
-            "emoji": "🍃"
+            "name": "Muntele Dajti",
+            "tip": "Liniște deasupra norilor.",
+            "emoji": "☁️"
           }
         ],
         "en": [
           {
-            "name": "Cable Car Cabin",
-            "tip": "Quiet ascent above the hustle and bustle.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Artificial Lake",
-            "tip": "A peaceful evening retreat.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "National Museum Garden",
-            "tip": "Small area behind the main building.",
-            "emoji": "🍃"
+            "name": "Mount Dajti",
+            "tip": "Quietness above the clouds.",
+            "emoji": "☁️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Souvenirstände",
-            "tip": "Rund um den zentralen Platz."
-          },
-          {
-            "name": "Galerien im Blloku",
-            "tip": "Lokale Kunstwerke nach der Busfahrt."
+            "name": "Ring Center",
+            "tip": "Einkaufszentrum direkt an einem Bus-Knotenpunkt."
           }
         ],
         "hu": [
           {
-            "name": "Ajándékárusok",
-            "tip": "A központi tér környékén."
-          },
-          {
-            "name": "Blloku galériák",
-            "tip": "Helyi műalkotások a buszozás után."
+            "name": "Ring Center",
+            "tip": "Pláza közvetlenül egy buszos csomópontnál."
           }
         ],
         "ro": [
           {
-            "name": "Tarabe de suveniruri",
-            "tip": "În jurul pieței centrale."
-          },
-          {
-            "name": "Galeriile din Blloku",
-            "tip": "Artă locală după călătoria cu autobuzul."
+            "name": "Ring Center",
+            "tip": "Mall situat direct la un nod de autobuz."
           }
         ],
         "en": [
           {
-            "name": "Souvenir stands",
-            "tip": "Found around the central square."
-          },
-          {
-            "name": "Blloku Galleries",
-            "tip": "Local artwork after your bus ride."
+            "name": "Ring Center",
+            "tip": "Mall located directly at a bus hub."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie die Bustickets direkt im Bus beim Schaffner.",
-          "Tickets kosten meist nur 40 Lek (nur Bargeld).",
-          "Busse können während der Stoßzeiten sehr voll sein.",
-          "Haltestellen sind nicht immer klar markiert, fragen Sie Einheimische."
+          "Tickets werden im Bus beim Schaffner gekauft.",
+          "Busse haben keine festen Fahrpläne, sie kommen oft."
         ],
         "hu": [
-          "A buszjegyeket közvetlenül a járművön lévő kalauztól veheti meg.",
-          "A jegy ára általában csak 40 Lek (csak készpénz).",
-          "Csúcsidőben a buszok rendkívül zsúfoltak lehetnek.",
-          "A megállók nincsenek mindig jól kitáblázva, kérdezze a helyieket."
+          "A jegyet a buszon, a kalauztól kell megvenni.",
+          "A buszoknak nincs fix menetrendjük, de gyakran járnak."
         ],
         "ro": [
-          "Cumpărați biletele direct în autobuz de la taxator.",
-          "Biletele costă de obicei 40 Lek (doar numerar).",
-          "Autobuzele pot fi foarte aglomerate la orele de vârf.",
-          "Stațiile nu sunt mereu marcate clar, întrebați localnicii."
+          "Biletele se cumpără în autobuz de la taxator.",
+          "Autobuzele nu au orare fixe, dar circulă des."
         ],
         "en": [
-          "Buy your bus tickets directly on board from the conductor.",
-          "Tickets usually cost only 40 Lek (cash only).",
-          "Buses can be extremely crowded during rush hours.",
-          "Bus stops are not always clearly marked, ask locals if unsure."
+          "Tickets are bought on the bus from the conductor.",
+          "Buses don't have fixed schedules but they run frequently."
         ]
       }
     }

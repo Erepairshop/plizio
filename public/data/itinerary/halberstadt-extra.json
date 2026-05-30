@@ -1,0 +1,960 @@
+{
+  "city_id": "halberstadt-extra",
+  "anchor": {
+    "name": "Halberstadt Domplatz",
+    "coords": [
+      11.0458,
+      51.895
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Petershof",
+          "coords": [
+            11.0452,
+            51.8958
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehemalige Bischofsresidenz mit prächtiger Renaissance-Fassade.",
+            "hu": "Egykori püspöki rezidencia lenyűgöző reneszánsz homlokzattal.",
+            "ro": "Fosta reședință episcopală cu o fațadă renascentistă splendidă.",
+            "en": "Former episcopal residence featuring a grand Renaissance facade."
+          }
+        },
+        {
+          "name": "Halberstädter Dom",
+          "coords": [
+            11.0485,
+            51.8962
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die gotischen Glasmalereien aus dem 14. Jahrhundert.",
+            "hu": "Nézze meg a 14. századi gótikus üvegablakokat.",
+            "ro": "Admirați vitraliile gotice din secolul al XIV-lea.",
+            "en": "View the 14th-century Gothic stained glass windows."
+          }
+        },
+        {
+          "name": "Domschatz Halberstadt",
+          "coords": [
+            11.0488,
+            51.8965
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einer der wertvollsten mittelalterlichen Kirchenschätze Europas.",
+            "hu": "Európa egyik legértékesebb középkori egyházi kincstára.",
+            "ro": "Unul dintre cele mai valoroase tezaure bisericești medievale din Europa.",
+            "en": "One of Europe's most valuable medieval church treasuries."
+          }
+        },
+        {
+          "name": "Gastro Pause: Domplatz",
+          "coords": [
+            11.0465,
+            51.8955
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten Halberstädter Würstchen direkt am Platz.",
+            "hu": "Kóstolja meg a híres halberstadti virslit közvetlenül a téren.",
+            "ro": "Gustați faimoșii crenvurști de Halberstadt chiar în piață.",
+            "en": "Try the famous Halberstadt sausages right on the square."
+          }
+        },
+        {
+          "name": "Gleimhaus",
+          "coords": [
+            11.0495,
+            51.8961
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Museum der deutschen Aufklärung in einem historischen Domherrenhaus.",
+            "hu": "A német felvilágosodás múzeuma egy történelmi kanonokházban.",
+            "ro": "Muzeul iluminismului german într-o casă istorică a canonicilor.",
+            "en": "Museum of German Enlightenment in a historical canon's house."
+          }
+        },
+        {
+          "name": "Liebfrauenkirche",
+          "coords": [
+            11.0455,
+            51.8945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Romanische Basilika mit einzigartigen Chorschranken-Reliefs.",
+            "hu": "Román stílusú bazilika egyedülálló kórusszentély-reliefekkel.",
+            "ro": "Bazilică romanică cu reliefuri unice pe ecranele corului.",
+            "en": "Romanesque basilica with unique choir screen reliefs."
+          }
+        },
+        {
+          "name": "Städtisches Museum",
+          "coords": [
+            11.047,
+            51.8935
+          ],
+          "category": "museums",
+          "arrive_at": "16:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Stadtgeschichte und die Zerstörung 1945.",
+            "hu": "Ismerje meg a város történelmét és az 1945-ös pusztítást.",
+            "ro": "Aflați despre istoria orașului și distrugerea din 1945.",
+            "en": "Learn about city history and the destruction in 1945."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie den monumentalen Domplatz mit dem Petershof und dem gotischen Dom. Der Domschatz bietet einen tiefen Einblick in das Mittelalter. Nach dem Mittagessen besuchen Sie das Gleimhaus, um in die Zeit der Aufklärung einzutauchen. Der Nachmittag endet an der romanischen Liebfrauenkirche und im Stadtmuseum, wo die bewegte Geschichte Halberstadts dokumentiert ist.",
+        "hu": "A délelőttöt a monumentális Domplatzon töltjük a Petershof és a gótikus székesegyház felfedezésével. A Domschatz mély betekintést nyújt a középkorba. Ebéd után a Gleimhausba látogatunk, hogy elmerüljünk a felvilágosodás korában. A délután a román stílusú Liebfrauenkirchénél és a Városi Múzeumban zárul, ahol Halberstadt mozgalmas történelmét dokumentálják.",
+        "ro": "Dimineața explorați monumentala Domplatz, cu Petershof și catedrala gotică. Tezaurul oferă o incursiune profundă în Evul Mediu. După prânz, vizitați Gleimhaus pentru a vă cufunda în epoca iluminismului. După-amiaza se încheie la biserica romanică Liebfrauenkirche și la Muzeul Municipal, unde este documentată istoria zbuciumată a orașului Halberstadt.",
+        "en": "In the morning, explore the monumental Domplatz with the Petershof and the Gothic Cathedral. The Treasury offers deep insight into the Middle Ages. After lunch, visit the Gleimhaus to immerse yourself in the Age of Enlightenment. The afternoon ends at the Romanesque Liebfrauenkirche and the City Museum, documenting Halberstadt's turbulent history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffeehaus am Dom",
+            "tip": "Traditionelles Café mit Blick auf die Kathedrale."
+          },
+          {
+            "name": "Halberstädter Würstchen",
+            "tip": "Die erste Wurst der Welt in Dosen, direkt am Markt probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaffeehaus am Dom",
+            "tip": "Hagyományos kávézó kilátással a székesegyházra."
+          },
+          {
+            "name": "Halberstädter virsli",
+            "tip": "A világ első konzervvirslije, kóstolja meg a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaffeehaus am Dom",
+            "tip": "Cafenea tradițională cu vedere la catedrală."
+          },
+          {
+            "name": "Crenvurști de Halberstadt",
+            "tip": "Primii crenvurști la conservă din lume, degustați-i în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaffeehaus am Dom",
+            "tip": "Traditional cafe with views of the cathedral."
+          },
+          {
+            "name": "Halberstadt Sausages",
+            "tip": "The world's first canned sausages, try them at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domkreuzgang",
+            "tip": "Stiller Ort für Besinnung im Schatten der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dóm keresztfolyosó",
+            "tip": "Csendes hely az elmélkedésre a székesegyház árnyékában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "Loc liniștit pentru reflecție la umbra catedralei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloister",
+            "tip": "Quiet place for reflection in the cathedral's shadow.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Domladen",
+            "tip": "Hochwertige Repliken und Bücher zum Domschatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dómbolt",
+            "tip": "Kiváló minőségű másolatok és könyvek a kincstárról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Catedralei",
+            "tip": "Replici de înaltă calitate și cărți despre tezaur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Shop",
+            "tip": "High-quality replicas and books about the treasury."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Domplatz ist verkehrsberuhigt und ideal zu Fuß erkundbar.",
+          "Kombitickets für Dom und Domschatz sparen Zeit und Geld."
+        ],
+        "hu": [
+          "A Domplatz forgalomcsillapított, gyalogosan tökéletesen bejárható.",
+          "A dóm és a kincstár kombinált jegyeivel időt és pénzt spórolhat."
+        ],
+        "ro": [
+          "Domplatz este zonă cu trafic limitat, ideală pentru explorarea pe jos.",
+          "Biletele combinate pentru catedrală și tezaur economisesc timp și bani."
+        ],
+        "en": [
+          "Domplatz is a traffic-calmed area, ideal for exploring on foot.",
+          "Combined tickets for the Cathedral and Treasury save time and money."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Halberstädter Dom",
+          "coords": [
+            11.0485,
+            51.8962
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Rad am Domplatz vor dem Haupteingang.",
+            "hu": "Zárja le kerékpárját a Domplatzon a főbejárat előtt.",
+            "ro": "Securizați bicicleta în Domplatz, în fața intrării principale.",
+            "en": "Lock your bike at Domplatz in front of the main entrance."
+          }
+        },
+        {
+          "name": "Klaussynagoge",
+          "coords": [
+            11.0425,
+            51.893
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentrum für jüdische Geschichte und Kultur in Halberstadt.",
+            "hu": "A zsidó történelem és kultúra központja Halberstadtban.",
+            "ro": "Centru pentru istoria și cultura evreiască din Halberstadt.",
+            "en": "Center for Jewish history and culture in Halberstadt."
+          }
+        },
+        {
+          "name": "Mittagessen in der Altstadt",
+          "coords": [
+            11.044,
+            51.8915
+          ],
+          "category": "gastro",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie regionale Küche in den restaurierten Fachwerkhäusern.",
+            "hu": "Élvezze a regionális konyhát a felújított fagerendás házakban.",
+            "ro": "Bucurați-vă de bucătăria regională în casele cu bârne restaurate.",
+            "en": "Enjoy regional cuisine in the restored half-timbered houses."
+          }
+        },
+        {
+          "name": "Spiegelsberge - Riesenweinfass",
+          "coords": [
+            11.0365,
+            51.8765
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das größte Riesenweinfass der Welt von 1594.",
+            "hu": "Nézze meg a világ legnagyobb, 1594-ből származó boroshordóját.",
+            "ro": "Vizitați cel mai mare butoi de vin din lume, datând din 1594.",
+            "en": "Visit the world's largest giant wine barrel from 1594."
+          }
+        },
+        {
+          "name": "Jagdschloss Spiegelsberge",
+          "coords": [
+            11.0375,
+            51.8755
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Schlösschen mit herrlicher Parkanlage zum Radeln.",
+            "hu": "Történelmi kastély gyönyörű parkkal a kerékpározáshoz.",
+            "ro": "Castel istoric cu un parc minunat pentru ciclism.",
+            "en": "Historical castle with a beautiful park for cycling."
+          }
+        },
+        {
+          "name": "Spiegelsberge Aussichtspunkt",
+          "coords": [
+            11.035,
+            51.874
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick über Halberstadt bis zum Harz bei klarem Wetter.",
+            "hu": "Kilátás Halberstadtra és tiszta időben a Harz-hegységre.",
+            "ro": "Vedere peste Halberstadt până la munții Harz pe vreme senină.",
+            "en": "View over Halberstadt to the Harz mountains in clear weather."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die historische Altstadt mit der Natur im Süden. Nach dem Besuch des Doms fahren Sie zur Klaussynagoge und stärken sich in der Altstadt. Die Route führt Sie dann hinaus in die Spiegelsberge, wo Sie das berühmte Riesenweinfass im Jagdschloss bestaunen und den Panoramablick genießen können.",
+        "hu": "Ez a kerékpártúra összeköti a történelmi óvárost a déli természettel. A dóm meglátogatása után a Klaussynagoge felé tekerünk, majd az óvárosban frissülünk fel. Az útvonal ezután a Spiegelsberge felé vezet, ahol megcsodálhatja a híres óriás hordót a vadászkastélyban, és élvezheti a panorámát.",
+        "ro": "Acest tur cu bicicleta combină orașul vechi istoric cu natura din sud. După vizitarea catedralei, pedalați spre Klaussynagoge și vă realimentați în centrul vechi. Traseul vă duce apoi spre Spiegelsberge, unde puteți admira faimosul butoi uriaș din castelul de vânătoare și vă puteți bucura de panorama.",
+        "en": "This bike tour connects the historical old town with nature in the south. After visiting the Cathedral, cycle to the Klaussynagoge and recharge in the old town. The route then leads you out to Spiegelsberge, where you can marvel at the famous giant wine barrel in the hunting lodge and enjoy the panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gaststätte Spiegelsberge",
+            "tip": "Rustikale Einkehr im Parkgelände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gaststätte Spiegelsberge",
+            "tip": "Rusztikus vendéglő a park területén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gaststätte Spiegelsberge",
+            "tip": "Restaurant rustic în zona parcului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gaststätte Spiegelsberge",
+            "tip": "Rustic inn located in the park grounds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere Spiegelsberge",
+            "tip": "Ruhiger Aussichtsturm im Wald.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere Spiegelsberge",
+            "tip": "Csendes kilátótorony az erdőben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Spiegelsberge",
+            "tip": "Turn de observație liniștit în pădure.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere Spiegelsberge",
+            "tip": "Quiet observation tower in the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Lokale Produkte und Märkte im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Helyi termékek és piacok a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Produse locale și piețe în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Local products and markets in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg in die Spiegelsberge ist leicht ansteigend.",
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Holtemme."
+        ],
+        "hu": [
+          "A Spiegelsberge felé vezető út enyhén emelkedik.",
+          "Használja a jól kiépített kerékpárutakat a Holtemme mentén."
+        ],
+        "ro": [
+          "Drumul spre Spiegelsberge este ușor în pantă.",
+          "Folosiți pistele de biciclete bine amenajate de-a lungul râului Holtemme."
+        ],
+        "en": [
+          "The path to Spiegelsberge has a slight incline.",
+          "Use the well-maintained bike paths along the Holtemme river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Domplatz Parkplatz",
+          "coords": [
+            11.045,
+            51.895
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz, idealer Startpunkt für den Dom-Cluster.",
+            "hu": "Központi parkoló, ideális kiindulópont a dóm-környékhez.",
+            "ro": "Parcare centrală, punct de plecare ideal pentru zona catedralei.",
+            "en": "Central parking lot, ideal starting point for the Cathedral cluster."
+          }
+        },
+        {
+          "name": "Halberstädter Dom",
+          "coords": [
+            11.0485,
+            51.8962
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Architektur-Liebhaber (Cluster-Spaziergang).",
+            "hu": "Építészet-kedvelőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de arhitectură.",
+            "en": "A must-see for architecture lovers."
+          }
+        },
+        {
+          "name": "Domschatz Halberstadt",
+          "coords": [
+            11.0488,
+            51.8965
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Planen Sie ausreichend Zeit für die Teppiche ein.",
+            "hu": "Hagyjon elég időt a faliszőnyegek megtekintésére.",
+            "ro": "Alocați suficient timp pentru tapiserii.",
+            "en": "Allow enough time to see the tapestries."
+          }
+        },
+        {
+          "name": "Mittagessen: Domplatz",
+          "coords": [
+            11.046,
+            51.8955
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parkplatz ist in Gehweite zum Restaurant.",
+            "hu": "A parkoló sétatávolságra van az étteremtől.",
+            "ro": "Parcarea este la câțiva pași de restaurant.",
+            "en": "Parking is within walking distance of the restaurant."
+          }
+        },
+        {
+          "name": "Spiegelsberge Jagdschloss",
+          "coords": [
+            11.0375,
+            51.8755
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nächsten Cluster im Süden der Stadt.",
+            "hu": "Rövid autóút a következő klaszterhez a város déli részén.",
+            "ro": "Scurtă călătorie spre următorul grup de obiective din sud.",
+            "en": "Short drive to the next cluster in the south of the city."
+          }
+        },
+        {
+          "name": "Spiegelsberge Park",
+          "coords": [
+            11.036,
+            51.876
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang zum Riesenweinfass und zur Eremitage.",
+            "hu": "Séta az óriáshordóhoz és a remetelakhoz.",
+            "ro": "Plimbare spre butoiul uriaș și schit.",
+            "en": "Walk to the giant wine barrel and the hermitage."
+          }
+        },
+        {
+          "name": "Bismarckturm",
+          "coords": [
+            11.04,
+            51.872
+          ],
+          "category": "landmark",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Noch ein kurzer Stopp für den perfekten Rundblick.",
+            "hu": "Egy rövid megálló a tökéletes körpanorámáért.",
+            "ro": "Încă o scurtă oprire pentru o vedere panoramică perfectă.",
+            "en": "Another short stop for a perfect panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Halberstadt in zwei Clustern. Zuerst parken Sie am Domplatz und besuchen zu Fuß den Dom und den weltberühmten Domschatz. Nach dem Mittagessen fahren Sie in den Süden zum Landschaftspark Spiegelsberge. Dort spazieren Sie vom Jagdschloss zum Riesenweinfass und beenden den Tag mit einem Ausblick vom Bismarckturm.",
+        "hu": "Autóval két klaszterben fedezzük fel Halberstadtot. Először a Domplatzon parkolunk, majd gyalog látogatjuk meg a dómot és a világhírű kincstárat. Ebéd után délre autózunk a Spiegelsberge tájparkba. Ott a vadászkastélytól az óriáshordóhoz sétálunk, a napot pedig a Bismarck-torony kilátójával zárjuk.",
+        "ro": "Cu mașina, explorați Halberstadt în două grupuri de obiective. Mai întâi parcați la Domplatz și vizitați pe jos catedrala și faimosul tezaur. După prânz, conduceți spre sud către parcul Spiegelsberge. Acolo vă plimbați de la castelul de vânătoare la butoiul uriaș și încheiați ziua cu o priveliște de la Turnul Bismarck.",
+        "en": "By car, explore Halberstadt in two clusters. First, park at Domplatz and visit the Cathedral and world-famous Treasury on foot. After lunch, drive south to Spiegelsberge landscape park. There, walk from the hunting lodge to the giant wine barrel and end the day with a view from the Bismarck Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Domplatz",
+            "tip": "Gute Parkmöglichkeiten in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Domplatzon",
+            "tip": "Jó parkolási lehetőség a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant în Domplatz",
+            "tip": "Posibilități bune de parcare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at Domplatz",
+            "tip": "Good parking facilities nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landschaftspark",
+            "tip": "Weitläufige Wege abseits der Touristenströme.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tájpark",
+            "tip": "Tágas utak távol a turistaáradattól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul peisagistic",
+            "tip": "Poteci largi departe de fluxul de turiști.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Landscape Park",
+            "tip": "Spacious paths away from the tourist crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rathauspassagen",
+            "tip": "Modernes Einkaufszentrum mit Tiefgarage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rathauspassagen",
+            "tip": "Modern bevásárlóközpont mélygarázzsal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rathauspassagen",
+            "tip": "Centru comercial modern cu parcare subterană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rathauspassagen",
+            "tip": "Modern shopping mall with underground parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Kopfsteinpflastergassen in der Altstadt.",
+          "Parken am Domplatz ist oft zeitlich begrenzt (Parkscheibe)."
+        ],
+        "hu": [
+          "Ügyeljen a macskaköves utcákra az óvárosban.",
+          "A Domplatzon a parkolás gyakran időben korlátozott."
+        ],
+        "ro": [
+          "Atenție la străzile cu piatră cubică din orașul vechi.",
+          "Parcarea în Domplatz este adesea limitată ca timp."
+        ],
+        "en": [
+          "Watch out for cobblestone streets in the old town.",
+          "Parking at Domplatz is often time-limited (parking disc required)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Domplatz (Ankunft)",
+          "coords": [
+            11.0458,
+            51.895
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof mit der Straßenbahn Linie 2 erreichbar.",
+            "hu": "A főpályaudvartól a 2-es villamossal érhető el.",
+            "ro": "Accesibil de la gara centrală cu tramvaiul linia 2.",
+            "en": "Accessible from the main station via tram line 2."
+          }
+        },
+        {
+          "name": "Halberstädter Dom",
+          "coords": [
+            11.0485,
+            51.8962
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt, nur wenige Meter von der Haltestelle.",
+            "hu": "A város jelképe, csak pár méterre a megállótól.",
+            "ro": "Simbolul orașului, la doar câțiva metri de stație.",
+            "en": "City landmark, just a few meters from the stop."
+          }
+        },
+        {
+          "name": "Liebfrauenkirche",
+          "coords": [
+            11.0455,
+            51.8945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuch der romanischen Basilika im Zentrum.",
+            "hu": "A központi román stílusú bazilika meglátogatása.",
+            "ro": "Vizita bazilicii romanice din centru.",
+            "en": "Visit to the Romanesque basilica in the center."
+          }
+        },
+        {
+          "name": "Mittagessen: Altstadt",
+          "coords": [
+            11.0445,
+            51.8925
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gut erreichbar zu Fuß innerhalb des Zentrums-Clusters.",
+            "hu": "Gyalogosan jól elérhető a központi klaszteren belül.",
+            "ro": "Accesibil ușor pe jos în cadrul grupului central.",
+            "en": "Easily accessible on foot within the central cluster."
+          }
+        },
+        {
+          "name": "Spiegelsberge (Tramfahrt)",
+          "coords": [
+            11.0405,
+            51.881
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Straßenbahn Linie 2 Richtung Klus/Sargstedter Weg.",
+            "hu": "2-es villamos Klus/Sargstedter Weg irányba.",
+            "ro": "Tramvaiul linia 2 în direcția Klus/Sargstedter Weg.",
+            "en": "Tram line 2 towards Klus/Sargstedter Weg."
+          }
+        },
+        {
+          "name": "Jagdschloss Spiegelsberge",
+          "coords": [
+            11.0375,
+            51.8755
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fußweg von der Endhaltestelle in den Park.",
+            "hu": "Gyalogút a végállomástól a parkba.",
+            "ro": "Traseu pietonal de la capătul liniei în parc.",
+            "en": "Walking path from the terminus into the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Straßenbahnnetzes lassen sich der Domplatz und die Spiegelsberge ideal kombinieren. Morgens besichtigen Sie das geistliche Zentrum Halberstadts rund um den Domplatz. Nach dem Mittagessen bringt Sie die Linie 2 direkt zum Naturpark im Süden, wo Sie den Tag im Grünen ausklingen lassen können.",
+        "hu": "A jól kiépített villamoshálózatnak köszönhetően a Domplatz és a Spiegelsberge ideálisan kombinálható. Reggel Halberstadt szellemi központját látogatjuk meg a Domplatz körül. Ebéd után a 2-es villamos közvetlenül a déli natúrparkba visz, ahol a természetben fejezheti be a napot.",
+        "ro": "Datorită rețelei de tramvai bine dezvoltate, Domplatz și Spiegelsberge pot fi combinate ideal. Dimineața vizitați centrul spiritual al orașului în jurul Domplatz. După prânz, linia 2 vă duce direct în parcul natural din sud, unde vă puteți încheia ziua în mijlocul naturii.",
+        "en": "Thanks to the well-developed tram network, Domplatz and Spiegelsberge can be ideally combined. In the morning, visit Halberstadt's spiritual center around Domplatz. After lunch, line 2 takes you directly to the nature park in the south, where you can end your day in the greenery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäcker am Fischmarkt",
+            "tip": "Snacks für die Fahrt in die Spiegelsberge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a Fischmarkton",
+            "tip": "Uzsonna a Spiegelsberge felé vezető útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din Fischmarkt",
+            "tip": "Gustări pentru drumul spre Spiegelsberge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at Fischmarkt",
+            "tip": "Snacks for the trip to Spiegelsberge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege",
+            "tip": "Ruhige Pfade hinter dem Jagdschloss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei utak",
+            "tip": "Csendes ösvények a vadászkastély mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci de pădure",
+            "tip": "Căi liniștite în spatele castelului de vânătoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths",
+            "tip": "Quiet trails behind the hunting lodge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Immer Dienstags und Freitags im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kedd és péntek napokon a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare marți și vineri în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Tuesday and Friday in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tageskarten für die Straßenbahn sind am Automaten erhältlich.",
+          "Die Linie 2 verkehrt tagsüber im 15-Minuten-Takt."
+        ],
+        "hu": [
+          "Napijegyek a villamosra az automatákban kaphatók.",
+          "A 2-es villamos napközben 15 percenként jár."
+        ],
+        "ro": [
+          "Abonamentele de o zi pentru tramvai sunt disponibile la automate.",
+          "Linia 2 circulă la fiecare 15 minute în timpul zilei."
+        ],
+        "en": [
+          "Day tickets for the tram are available at vending machines.",
+          "Line 2 runs every 15 minutes during the day."
+        ]
+      }
+    }
+  }
+}

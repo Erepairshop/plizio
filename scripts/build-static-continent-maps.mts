@@ -320,7 +320,7 @@ function renderHtml(c: Continent, lang: Lang, mapData: any[], viewBox: string): 
   const t = c.title[lang], hint = c.hint[lang], back = BACK[lang], soon = SOON[lang];
   const langLinks = LANGS.map(l => l === lang
     ? `<span class="lang on">${l.toUpperCase()}</span>`
-    : `<a class="lang" href="${l==='hu'?'./':'../'+l+'/'}">${l.toUpperCase()}</a>`
+    : `<a class="lang" href="/${c.slug}-map/${l==='hu'?'':l+'/'}">${l.toUpperCase()}</a>`
   ).join("");
 
   const simplifyPath = (d: string, minDist = 0.5): string => {
@@ -426,6 +426,7 @@ header .langs{display:flex;gap:.25rem}
 <div class="toast" id="toast"></div>
 <script>
 const LANG=${JSON.stringify(lang)},W=${vbW},H=${vbH},SOON=${JSON.stringify(soon)};
+try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gC=document.getElementById('gC');
 let s=1,tx=0,ty=0;

@@ -1,0 +1,1076 @@
+{
+  "city_id": "norderstedt-extra",
+  "anchor": {
+    "name": "Norderstedt Mitte",
+    "coords": [
+      53.7061,
+      9.9882
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Willy-Brandt-Park",
+            "hu": "Willy-Brandt-Park",
+            "ro": "Parcul Willy-Brandt",
+            "en": "Willy Brandt Park"
+          },
+          "coords": [
+            53.7052,
+            9.9855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ruhiger Start im Zentrum.",
+            "hu": "Csendes kezdés a központban.",
+            "ro": "Început liniștit în centru.",
+            "en": "Quiet start in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Norderstedt",
+            "hu": "Norderstedt Városi Múzeum",
+            "ro": "Muzeul Orașului Norderstedt",
+            "en": "Norderstedt City Museum"
+          },
+          "coords": [
+            53.7065,
+            9.9878
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spannende Regionalgeschichte.",
+            "hu": "Izgalmas helytörténet.",
+            "ro": "Istorie regională fascinantă.",
+            "en": "Exciting regional history."
+          }
+        },
+        {
+          "name": {
+            "de": "TriBühne Norderstedt",
+            "hu": "TriBühne Rendezvényközpont",
+            "ro": "TriBühne Norderstedt",
+            "en": "TriBühne Norderstedt"
+          },
+          "coords": [
+            53.707,
+            9.989
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Modernes Kulturzentrum.",
+            "hu": "Modern kulturális központ.",
+            "ro": "Centru cultural modern.",
+            "en": "Modern cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Norderstedt",
+            "hu": "Norderstedti Városliget",
+            "ro": "Parcul Orașului Norderstedt",
+            "en": "Norderstedt City Park"
+          },
+          "coords": [
+            53.7145,
+            9.9975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick.",
+            "hu": "Tökéletes hely egy piknikhez.",
+            "ro": "Perfect pentru un picnic.",
+            "en": "Perfect for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturwerk am See",
+            "hu": "Kulturwerk a tónál",
+            "ro": "Kulturwerk am See",
+            "en": "Kulturwerk am See"
+          },
+          "coords": [
+            53.7155,
+            9.999
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Altes Kalksandsteinwerk.",
+            "hu": "Régi mészhomokkő gyár.",
+            "ro": "Vechea fabrică de calcar.",
+            "en": "Old lime-sand brickworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum SH",
+            "hu": "Tűzoltómúzeum",
+            "ro": "Muzeul Pompierilor",
+            "en": "Fire Museum SH"
+          },
+          "coords": [
+            53.7082,
+            9.9925
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Historische Löschfahrzeuge.",
+            "hu": "Történelmi tűzoltóautók.",
+            "ro": "Vehicule istorice de pompieri.",
+            "en": "Historical fire engines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Norderstedt zu Fuß, beginnend im modernen Stadtzentrum. Nach einem Besuch im Stadtmuseum führt der Weg durch grüne Korridore zum weitläufigen Stadtpark. Hier verbindet sich Industriekultur im Kulturwerk mit Natur am See. Den Abschluss bildet das beeindruckende Feuerwehrmuseum, eines der größten seiner Art in Deutschland.",
+        "hu": "Fedezze fel Norderstedtet gyalogosan, a modern városközpontból indulva. A városi múzeum után zöld folyosókon át jutunk el a tágas városligetbe. Itt a Kulturwerk ipari kultúrája találkozik a tóparti természettel. A napot a lenyűgöző Tűzoltómúzeum zárja, amely Németország egyik legnagyobb ilyen jellegű intézménye.",
+        "ro": "Descoperiți Norderstedt la pas, începând din centrul modern al orașului. După o vizită la muzeul orașului, drumul trece prin coridoare verzi către parcul generos al orașului. Aici, cultura industrială de la Kulturwerk se îmbină cu natura de lângă lac. Ziua se încheie la impresionantul Muzeu al Pompierilor, unul dintre cele mai mari de acest tip din Germania.",
+        "en": "Explore Norderstedt on foot, starting in the modern city center. After visiting the city museum, the route leads through green corridors to the expansive city park. Here, industrial culture at the Kulturwerk meets nature by the lake. The day concludes at the impressive Fire Museum, one of the largest of its kind in Germany."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hopfenliebe",
+            "tip": "Hausbrauerei mit regionaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hopfenliebe",
+            "tip": "Helyi sörfőzde regionális konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hopfenliebe",
+            "tip": "Berărie artizanală cu bucătărie regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hopfenliebe",
+            "tip": "Microbrewery with regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtparksee",
+            "tip": "Ruhiger Platz am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városligeti tó",
+            "tip": "Csendes hely a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul din parc",
+            "tip": "Loc liniștit lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park Lake",
+            "tip": "Quiet spot by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Herold-Center",
+            "tip": "Großes Einkaufszentrum direkt an der U-Bahn."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herold-Center",
+            "tip": "Nagy bevásárlóközpont az U-Bahn mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herold-Center",
+            "tip": "Centru comercial mare lângă metrou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herold-Center",
+            "tip": "Large shopping mall right by the subway."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für den Stadtpark einplanen.",
+          "Norderstedt Mitte ist idealer Startpunkt."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott a városligethez.",
+          "Norderstedt Mitte a legjobb kiindulópont."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru parcul orașului.",
+          "Norderstedt Mitte este punctul ideal de plecare."
+        ],
+        "en": [
+          "Wear comfortable shoes for the city park.",
+          "Norderstedt Mitte is the ideal starting point."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kupferteich",
+            "hu": "Kupferteich",
+            "ro": "Kupferteich",
+            "en": "Kupferteich"
+          },
+          "coords": [
+            53.6855,
+            10.0152
+          ],
+          "category": "lake",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Idyllischer See im Süden.",
+            "hu": "Idilli tó délen.",
+            "ro": "Lac idilic în sud.",
+            "en": "Idyllic lake in the south."
+          }
+        },
+        {
+          "name": {
+            "de": "Arriba Erlebnisbad",
+            "hu": "Arriba Élményfürdő",
+            "ro": "Arriba Erlebnisbad",
+            "en": "Arriba Water Park"
+          },
+          "coords": [
+            53.6955,
+            9.9802
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Riesige Rutschenwelt.",
+            "hu": "Hatalmas csúszdapark.",
+            "ro": "Lume uriașă a toboganelor.",
+            "en": "Huge waterslide world."
+          }
+        },
+        {
+          "name": {
+            "de": "Willy-Brandt-Park",
+            "hu": "Willy-Brandt-Park",
+            "ro": "Parcul Willy-Brandt",
+            "en": "Willy Brandt Park"
+          },
+          "coords": [
+            53.7052,
+            9.9855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Grüner Pfad durch die Stadt.",
+            "hu": "Zöld ösvény a városon át.",
+            "ro": "Potecă verde prin oraș.",
+            "en": "Green path through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Norderstedt",
+            "hu": "Norderstedti Városliget",
+            "ro": "Parcul Orașului Norderstedt",
+            "en": "Norderstedt City Park"
+          },
+          "coords": [
+            53.7145,
+            9.9975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Beste Radwege im Park.",
+            "hu": "Kiváló kerékpárutak a parkban.",
+            "ro": "Cele mai bune piste în parc.",
+            "en": "Best cycling paths in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturwerk am See",
+            "hu": "Kulturwerk a tónál",
+            "ro": "Kulturwerk am See",
+            "en": "Kulturwerk am See"
+          },
+          "coords": [
+            53.7155,
+            9.999
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kaffee-Pause am Wasser.",
+            "hu": "Kávészünet a víznél.",
+            "ro": "Pauză de cafea lângă apă.",
+            "en": "Coffee break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum SH",
+            "hu": "Tűzoltómúzeum",
+            "ro": "Muzeul Pompierilor",
+            "en": "Fire Museum SH"
+          },
+          "coords": [
+            53.7082,
+            9.9925
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor dem Ende.",
+            "hu": "Rövid megálló a végén.",
+            "ro": "Scurtă oprire înainte de final.",
+            "en": "Quick stop before the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour verbindet die weiten Wasserflächen Norderstedts. Vom Kupferteich im Süden geht es zum Arriba Erlebnisbad. Durch den Willy-Brandt-Park radeln Sie zum Stadtpark, der ideale Bedingungen für Biker bietet. Genießen Sie die Fahrt entlang der Seepromenade und entdecken Sie die Industriegeschichte im Kulturwerk, bevor Sie am Feuerwehrmuseum ankommen.",
+        "hu": "Ez a kerékpártúra Norderstedt tágas vízfelületeit köti össze. A déli Kupferteichtől az Arriba élményfürdőig haladunk. A Willy-Brandt-Parkon keresztül kerekezünk a városligetbe, amely ideális feltételeket kínál a bicikliseknek. Élvezze a tekerést a tóparti sétányon, és fedezze fel a Kulturwerk ipari múltját.",
+        "ro": "Turul cu bicicleta conectează zonele cu apă ale orașului Norderstedt. De la Kupferteich în sud, mergem către parcul acvatic Arriba. Prin parcul Willy-Brandt pedalați spre parcul orașului, care oferă condiții ideale pentru bicicliști. Bucurați-vă de plimbarea pe faleza lacului și descoperiți istoria industrială la Kulturwerk.",
+        "en": "The bike tour connects Norderstedt's wide water areas. From Kupferteich in the south, head to the Arriba water park. Cycle through Willy Brandt Park to the city park, which offers ideal conditions for bikers. Enjoy the ride along the lake promenade and discover industrial history at the Kulturwerk before arriving at the Fire Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Arriba",
+            "tip": "Schneller Snack für Badegäste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro im Arriba",
+            "tip": "Gyors falatok a fürdőzőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro im Arriba",
+            "tip": "Gustare rapidă pentru vizitatori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro im Arriba",
+            "tip": "Quick snack for swimmers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kupferteich-Ufer",
+            "tip": "Natur pur am Morgen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kupferteich part",
+            "tip": "Tiszta természet reggel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Kupferteich",
+            "tip": "Natură pură dimineața.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupferteich Shore",
+            "tip": "Pure nature in the morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Norderstedt",
+            "tip": "Regionale Produkte (Mi & Sa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek (Sze és Szo)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale (Mi și Sâ)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products (Wed & Sat)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Wege im Stadtpark sind geschottert.",
+          "Fahrradschloss am Feuerwehrmuseum nutzen."
+        ],
+        "hu": [
+          "A városligetben sok a murvás út.",
+          "Használjon lakatot a múzeumnál."
+        ],
+        "ro": [
+          "Multe drumuri din parc sunt cu pietriș.",
+          "Folosiți antifurtul la muzeu."
+        ],
+        "en": [
+          "Many paths in the city park are gravel.",
+          "Use a bike lock at the fire museum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpark Norderstedt",
+            "hu": "Norderstedti Városliget",
+            "ro": "Parcul Orașului Norderstedt",
+            "en": "Norderstedt City Park"
+          },
+          "coords": [
+            53.7145,
+            9.9975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Haupteingang.",
+            "hu": "Nagy parkoló a főbejáratnál.",
+            "ro": "Parcare mare la intrarea principală.",
+            "en": "Large parking lot at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturwerk am See",
+            "hu": "Kulturwerk a tónál",
+            "ro": "Kulturwerk am See",
+            "en": "Kulturwerk am See"
+          },
+          "coords": [
+            53.7155,
+            9.999
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Park.",
+            "hu": "Rövid séta a parkból.",
+            "ro": "Scurtă plimbare din parc.",
+            "en": "Short walk from the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum SH",
+            "hu": "Tűzoltómúzeum",
+            "ro": "Muzeul Pompierilor",
+            "en": "Fire Museum SH"
+          },
+          "coords": [
+            53.7082,
+            9.9925
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken direkt am Museum möglich.",
+            "hu": "Parkolás közvetlenül a múzeumnál.",
+            "ro": "Parcare posibilă chiar la muzeu.",
+            "en": "Parking available right at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Norderstedt",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "City Museum"
+          },
+          "coords": [
+            53.7065,
+            9.9878
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Im Zentrum (Cluster Mitte).",
+            "hu": "A központban.",
+            "ro": "În centru.",
+            "en": "In the center."
+          }
+        },
+        {
+          "name": {
+            "de": "TriBühne Norderstedt",
+            "hu": "TriBühne",
+            "ro": "TriBühne",
+            "en": "TriBühne"
+          },
+          "coords": [
+            53.707,
+            9.989
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Veranstaltungsort.",
+            "hu": "Központi rendezvényhelyszín.",
+            "ro": "Locație centrală de evenimente.",
+            "en": "Central event venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Arriba Erlebnisbad",
+            "hu": "Arriba Élményfürdő",
+            "ro": "Arriba Erlebnisbad",
+            "en": "Arriba Water Park"
+          },
+          "coords": [
+            53.6955,
+            9.9802
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Perfekt für Familien.",
+            "hu": "Tökéletes családoknak.",
+            "ro": "Perfect pentru familii.",
+            "en": "Perfect for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupferteich",
+            "hu": "Kupferteich",
+            "ro": "Kupferteich",
+            "en": "Kupferteich"
+          },
+          "coords": [
+            53.6855,
+            10.0152
+          ],
+          "category": "lake",
+          "arrive_at": "16:35",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ausklang in der Natur.",
+            "hu": "Napzárás a természetben.",
+            "ro": "Final în natură.",
+            "en": "Ending in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour nutzt Cluster, um Norderstedt effizient zu erleben. Wir beginnen im Cluster Stadtpark (Park & Kulturwerk), fahren dann zum Feuerwehrmuseum und weiter zum Cluster Mitte (Stadtmuseum & TriBühne). Am Nachmittag steht Action im Arriba auf dem Plan, bevor wir den Tag am ruhigen Kupferteich im Süden ausklingen lassen.",
+        "hu": "Az autós túra klaszterek segítségével teszi hatékonnyá Norderstedt felfedezését. A Városligetnél kezdünk (Park & Kulturwerk), majd a Tűzoltómúzeum és a központi klaszter következik. Délután az Arriba fürdőé a főszerep, a napot pedig a csendes déli Kupferteichnél zárjuk.",
+        "ro": "Turul cu mașina folosește clustere pentru a experimenta eficient Norderstedt. Începem în clusterul Stadtpark, apoi mergem la Muzeul Pompierilor și la clusterul central. După-amiaza este dedicată distracției la Arriba, înainte de a încheia ziua la liniștitul Kupferteich în sud.",
+        "en": "The car tour uses clusters to efficiently experience Norderstedt. We start in the Stadtpark cluster (Park & Kulturwerk), then drive to the Fire Museum and on to the Mitte cluster (City Museum & TriBühne). In the afternoon, action is planned at Arriba before ending the day at the quiet Kupferteich in the south."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cup&Cino",
+            "tip": "Moderne Kaffeebar im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cup&Cino",
+            "tip": "Modern kávézó a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cup&Cino",
+            "tip": "Cafenea modernă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cup&Cino",
+            "tip": "Modern coffee bar in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kupferteich",
+            "tip": "Abgelegener See zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kupferteich",
+            "tip": "Elrejtett tó a lazításhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kupferteich",
+            "tip": "Lac retras pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupferteich",
+            "tip": "Secluded lake for relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Moorbek-Passage",
+            "tip": "Gemütliches Einkaufen im Norden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moorbek-Passage",
+            "tip": "Hangulatos vásárlás északon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moorbek-Passage",
+            "tip": "Cumpărături plăcute în nord."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moorbek-Passage",
+            "tip": "Cozy shopping in the north."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Norderstedt Mitte oft zeitlich begrenzt.",
+          "Parkdeck am Arriba nutzen."
+        ],
+        "hu": [
+          "A központban gyakran időkorlátos a parkolás.",
+          "Használja az Arriba parkolóházát."
+        ],
+        "ro": [
+          "Parcarea în centru este adesea limitată ca timp.",
+          "Folosiți parcarea supraetajată de la Arriba."
+        ],
+        "en": [
+          "Parking in Norderstedt Mitte is often time-limited.",
+          "Use the parking deck at Arriba."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmuseum Norderstedt",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "City Museum"
+          },
+          "coords": [
+            53.7065,
+            9.9878
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "U1 Haltestelle Norderstedt Mitte.",
+            "hu": "U1 megálló: Norderstedt Mitte.",
+            "ro": "Stația U1 Norderstedt Mitte.",
+            "en": "U1 station Norderstedt Mitte."
+          }
+        },
+        {
+          "name": {
+            "de": "Willy-Brandt-Park",
+            "hu": "Willy-Brandt-Park",
+            "ro": "Parcul Willy-Brandt",
+            "en": "Willy Brandt Park"
+          },
+          "coords": [
+            53.7052,
+            9.9855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt am Rathaus.",
+            "hu": "Közvetlenül a városháza mellett.",
+            "ro": "Chiar lângă primărie.",
+            "en": "Right by the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark Norderstedt",
+            "hu": "Norderstedti Városliget",
+            "ro": "Parcul Orașului Norderstedt",
+            "en": "Norderstedt City Park"
+          },
+          "coords": [
+            53.7145,
+            9.9975
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus 293/393 bis Stadtpark.",
+            "hu": "293/393-as busz a parkig.",
+            "ro": "Autobuz 293/393 până la parc.",
+            "en": "Bus 293/393 to the city park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturwerk am See",
+            "hu": "Kulturwerk a tónál",
+            "ro": "Kulturwerk am See",
+            "en": "Kulturwerk am See"
+          },
+          "coords": [
+            53.7155,
+            9.999
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Zentrum des Parks.",
+            "hu": "A park központjában.",
+            "ro": "În centrul parcului.",
+            "en": "In the center of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Feuerwehrmuseum SH",
+            "hu": "Tűzoltómúzeum",
+            "ro": "Muzeul Pompierilor",
+            "en": "Fire Museum SH"
+          },
+          "coords": [
+            53.7082,
+            9.9925
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt vor der Tür.",
+            "hu": "Buszmegálló a bejárat előtt.",
+            "ro": "Stație de autobuz chiar în față.",
+            "en": "Bus stop right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Arriba Erlebnisbad",
+            "hu": "Arriba Élményfürdő",
+            "ro": "Arriba Erlebnisbad",
+            "en": "Arriba Water Park"
+          },
+          "coords": [
+            53.6955,
+            9.9802
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "16:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "U1 Garstedt + kurzer Busweg.",
+            "hu": "U1 Garstedt + rövid buszozás.",
+            "ro": "U1 Garstedt + drum scurt cu autobuzul.",
+            "en": "U1 Garstedt + short bus ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Bus- und Bahnnetzes erreichen Sie alle Highlights Norderstedts bequem ohne Auto. Die Tour startet am zentralen Knotenpunkt Mitte. Per Bus geht es zum Stadtpark und Kulturwerk. Nach dem Feuerwehrmuseum führt der Weg in den Süden zum Arriba, wo Entspannung nach einem Tag voller Kultur wartet.",
+        "hu": "A jól kiépített busz- és vasúthálózatnak köszönhetően Norderstedt minden fénypontja kényelmesen elérhető autó nélkül is. A túra a központi Mitte csomóponttól indul. Busszal megyünk a városligetbe és a Kulturwerkhez. A Tűzoltómúzeum után dél felé vesszük az irányt az Arriba fürdőhöz.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze și trenuri, puteți ajunge la toate atracțiile din Norderstedt confortabil fără mașină. Turul începe la nodul central Mitte. Cu autobuzul mergem la parcul orașului și la Kulturwerk. După Muzeul Pompierilor, drumul duce spre sud la Arriba.",
+        "en": "Thanks to the well-developed bus and train network, you can comfortably reach all of Norderstedt's highlights without a car. The tour starts at the central Mitte hub. By bus, head to the city park and Kulturwerk. After the Fire Museum, the route leads south to Arriba for relaxation after a day of culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Block House",
+            "tip": "Bewährte Steaks im Herold-Center."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Block House",
+            "tip": "Kiváló steakek a Herold-Centerben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Block House",
+            "tip": "Steak-uri bune în Herold-Center."
+          }
+        ],
+        "en": [
+          {
+            "name": "Block House",
+            "tip": "Reliable steaks in Herold-Center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Willy-Brandt-Park",
+            "tip": "Grüne Oase hinter dem Rathaus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Willy-Brandt-Park",
+            "tip": "Zöld oázis a városháza mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Willy-Brandt",
+            "tip": "Oază verde în spatele primăriei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Willy Brandt Park",
+            "tip": "Green oasis behind the town hall.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Herold-Center",
+            "tip": "Über 140 Fachgeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herold-Center",
+            "tip": "Több mint 140 szaküzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herold-Center",
+            "tip": "Peste 140 de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herold-Center",
+            "tip": "Over 140 specialty stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "HVV-Tagesticket (Ringe AB) nutzen.",
+          "Die App 'hvv' zeigt Echtzeit-Abfahrten."
+        ],
+        "hu": [
+          "Használjon HVV napijegyet.",
+          "A 'hvv' app mutatja a valós idejű indulásokat."
+        ],
+        "ro": [
+          "Folosiți un bilet de o zi HVV.",
+          "Aplicația 'hvv' arată plecările în timp real."
+        ],
+        "en": [
+          "Use an HVV day ticket.",
+          "The 'hvv' app shows real-time departures."
+        ]
+      }
+    }
+  }
+}

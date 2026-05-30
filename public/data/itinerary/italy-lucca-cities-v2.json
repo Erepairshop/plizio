@@ -1,0 +1,1135 @@
+{
+  "city_id": "italy-lucca-cities-v2",
+  "anchor": {
+    "name": "Piazza Napoleone",
+    "coords": [
+      43.8429,
+      10.5027
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Napoleone",
+            "hu": "Piazza Napoleone",
+            "ro": "Piazza Napoleone",
+            "en": "Piazza Napoleone"
+          },
+          "coords": [
+            43.8429,
+            10.5027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso in den historischen Cafés am Platz.",
+            "hu": "Igyon egy eszpresszót a tér patinás kávézóinak egyikében.",
+            "ro": "Savurați un espresso la una dintre cafenelele istorice din piață.",
+            "en": "Enjoy an espresso at one of the historic cafes on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Martino",
+            "hu": "San Martino-székesegyház",
+            "ro": "Catedrala San Martino",
+            "en": "Lucca Cathedral"
+          },
+          "coords": [
+            43.8405,
+            10.5055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Grabmal von Ilaria del Carretto.",
+            "hu": "Csodálja meg Ilaria del Carretto híres síremlékét.",
+            "ro": "Admirați monumentul funerar al Ilariei del Carretto.",
+            "en": "Admire the famous funeral monument of Ilaria del Carretto."
+          }
+        },
+        {
+          "name": {
+            "de": "San Michele in Foro",
+            "hu": "San Michele in Foro-templom",
+            "ro": "Biserica San Michele in Foro",
+            "en": "Church of San Michele in Foro"
+          },
+          "coords": [
+            43.8436,
+            10.5025
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die unglaublichen Details der pisanischen Fassade.",
+            "hu": "Figyelje meg a pisai stílusú homlokzat hihetetlen részleteit.",
+            "ro": "Observați detaliile incredibile ale fațadei în stil pisan.",
+            "en": "Look closely at the incredible details of the Pisan-style facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dell'Anfiteatro",
+            "hu": "Piazza dell'Anfiteatro",
+            "ro": "Piazza dell'Anfiteatro",
+            "en": "Piazza dell'Anfiteatro"
+          },
+          "coords": [
+            43.8455,
+            10.506
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen in der ovalen Arena.",
+            "hu": "Tökéletes helyszín egy ebédhez az ovális aréna közepén.",
+            "ro": "Locul perfect pentru prânz în interiorul arenei ovale.",
+            "en": "The perfect spot for lunch inside the oval-shaped arena."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Guinigi",
+            "hu": "Guinigi-torony",
+            "ro": "Turnul Guinigi",
+            "en": "Guinigi Tower"
+          },
+          "coords": [
+            43.8437,
+            10.5065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf, um die Eichen auf dem Dach zu sehen.",
+            "hu": "Másszon fel a tetején növő tölgyfákhoz és a kilátáshoz.",
+            "ro": "Urcați pentru a vedea stejarii care cresc pe acoperiș.",
+            "en": "Climb to the top to see the oak trees growing on the roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Frediano",
+            "hu": "San Frediano-bazilika",
+            "ro": "Bazilica San Frediano",
+            "en": "Basilica of San Frediano"
+          },
+          "coords": [
+            43.8465,
+            10.5045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das goldene Mosaik an der Außenfassade ist einzigartig.",
+            "hu": "A külső homlokzat arany mozaikja egyedülálló látvány.",
+            "ro": "Mozaicul auriu de pe fațada exterioară este unic.",
+            "en": "The golden mosaic on the outer facade is truly unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Lucca",
+            "hu": "Lucca városfalai",
+            "ro": "Zidurile cetății Lucca",
+            "en": "Walls of Lucca"
+          },
+          "coords": [
+            43.8485,
+            10.505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang auf der Wallanlage.",
+            "hu": "Zárja a napot egy kellemes sétával a széles városfalon.",
+            "ro": "Încheiați ziua cu o plimbare pe bastioanele late ale zidului.",
+            "en": "End your day with a scenic walk on the wide city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Lucca auf der Piazza Napoleone, bevor Sie den prächtigen Dom bewundern. Mittags genießen Sie die Atmosphäre der Piazza dell'Anfiteatro. Am Nachmittag erklimmen Sie den berühmten Guinigi-Turm mit seinen Bäumen und spazieren zum Abschluss über die massiven Stadtmauern, die die gesamte Altstadt wie ein grüner Gürtel umschließen.",
+        "hu": "Kezdje a napot Lucca szívében, a Piazza Napoleone téren, majd csodálja meg a dómot. Délben élvezze az egykori római amfiteátrum helyén kialakult tér hangulatát. Délután másszon fel a különleges, tetején tölgyfákat nevelő Guinigi-toronyba, végül pedig tegyen egy kört a várost övező hatalmas, parkosított városfalakon, ahonnan remek kilátás nyílik a háztetőkre.",
+        "ro": "Începeți ziua în inima orașului Lucca, în Piazza Napoleone, înainte de a vizita impresionanta Catedrală. La prânz, relaxați-vă în Piazza dell'Anfiteatro, construită pe locul unui fost amfiteatru roman. După-amiaza, urcați în Turnul Guinigi pentru a vedea grădina suspendată, iar spre seară plimbați-vă pe zidurile masive ale cetății, transformate într-o promenadă verde superbă.",
+        "en": "Start your day in the heart of Lucca at Piazza Napoleone before visiting the stunning Cathedral. Enjoy a long lunch at the iconic Piazza dell'Anfiteatro. In the afternoon, climb the unique Guinigi Tower with its rooftop trees and finish your tour with a relaxing walk along the massive city walls that encircle the entire historic center like a lush green park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Probieren Sie Tortelli Lucchese mit Fleischsauce."
+          },
+          {
+            "name": "Buccellato di Taddeucci",
+            "tip": "Das traditionelle süße Brot mit Rosinen und Anis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Kóstolja meg a helyi húsos tortelli tésztát."
+          },
+          {
+            "name": "Buccellato di Taddeucci",
+            "tip": "Hagyományos mazsolás-ánizsos édes kenyér."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Încercați Tortelli Lucchese cu sos de carne."
+          },
+          {
+            "name": "Buccellato di Taddeucci",
+            "tip": "Pâinea dulce tradițională cu stafide și anason."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buca di Sant'Antonio",
+            "tip": "Try the traditional Tortelli Lucchese with meat sauce."
+          },
+          {
+            "name": "Buccellato di Taddeucci",
+            "tip": "A must-try sweet bread with raisins and anise."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Ein ruhiger Rückzugsort im Südosten der Stadt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Mura di Lucca (Ostseite)",
+            "tip": "Weniger besucht, ideal zum Entspannen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Csendes menedék a város délkeleti sarkában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Városfal keleti szakasza",
+            "tip": "Kevésbé zsúfolt rész, tökéletes pihenéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un refugiu liniștit în colțul de sud-est al orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Zidurile din est",
+            "tip": "O secțiune mai puțin aglomerată, ideală pentru relaxare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A peaceful retreat in the southeastern corner of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Eastern Walls",
+            "tip": "Less crowded section, perfect for a quiet moment.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Fillungo",
+            "tip": "Die Haupteinkaufsstraße mit eleganten Boutiquen."
+          },
+          {
+            "name": "Antiquitätenmarkt",
+            "tip": "Jedes dritte Wochenende im Monat rund um den Dom."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Fillungo",
+            "tip": "A város fő bevásárlóutcája elegáns üzletekkel."
+          },
+          {
+            "name": "Antikpiac",
+            "tip": "Minden hónap harmadik hétvégéjén a dóm környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Fillungo",
+            "tip": "Principala stradă comercială cu magazine elegante."
+          },
+          {
+            "name": "Târgul de antichități",
+            "tip": "În fiecare al treilea weekend din lună lângă Catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Fillungo",
+            "tip": "The main shopping street with elegant boutiques."
+          },
+          {
+            "name": "Antiques Market",
+            "tip": "Held every third weekend of the month near the Cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lucca ist fast komplett autofrei, ideal für ausgiebige Spaziergänge.",
+          "Die Stadtmauern sind 4 km lang, planen Sie genug Zeit ein.",
+          "Tragen Sie bequeme Schuhe für das historische Kopfsteinpflaster.",
+          "Besuchen Sie die Kirchen am Vormittag, da sie mittags oft schließen."
+        ],
+        "hu": [
+          "Lucca belvárosa szinte teljesen autómentes, tökéletes a sétáláshoz.",
+          "A városfal teljes köre 4 km, szánjon rá elég időt a nézelődésre.",
+          "Viseljen kényelmes cipőt a történelmi macskaköves utcák miatt.",
+          "A templomokat érdemes délelőtt felkeresni, délben gyakran bezárnak."
+        ],
+        "ro": [
+          "Centrul istoric este aproape complet pietonal, ideal pentru plimbări.",
+          "Zidurile au o circumferință de 4 km, alocați timp suficient.",
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Vizitați bisericile dimineața, deoarece multe se închid la prânz."
+        ],
+        "en": [
+          "The city center is almost entirely car-free, perfect for exploring on foot.",
+          "The city walls are 4 km long; allow plenty of time for the full loop.",
+          "Wear comfortable shoes for the historic cobblestone streets.",
+          "Visit churches in the morning, as they often close during midday."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mura di Lucca",
+            "hu": "Lucca városfalai",
+            "ro": "Zidurile cetății",
+            "en": "Walls of Lucca"
+          },
+          "coords": [
+            43.8485,
+            10.505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie eine ganze Runde auf der Wallanlage.",
+            "hu": "Tekerjen körbe a teljes városfalon.",
+            "ro": "Parcurgeți un cerc complet pe zidurile cetății.",
+            "en": "Ride a full loop around the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pfanner",
+            "hu": "Palazzo Pfanner",
+            "ro": "Palazzo Pfanner",
+            "en": "Palazzo Pfanner"
+          },
+          "coords": [
+            43.8465,
+            10.5015
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen Barockgarten.",
+            "hu": "Látogasson el a gyönyörű barokk kertbe.",
+            "ro": "Vizitați minunata grădină barocă.",
+            "en": "Visit the beautiful Baroque garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Frediano",
+            "hu": "San Frediano-bazilika",
+            "ro": "Bazilica San Frediano",
+            "en": "Basilica of San Frediano"
+          },
+          "coords": [
+            43.8465,
+            10.5045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad direkt vor der Basilika ab.",
+            "hu": "Parkolja le kerékpárját közvetlenül a bazilika előtt.",
+            "ro": "Parcați bicicleta chiar în fața bazilicii.",
+            "en": "Park your bike right in front of the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dell'Anfiteatro",
+            "hu": "Piazza dell'Anfiteatro",
+            "ro": "Piazza dell'Anfiteatro",
+            "en": "Piazza dell'Anfiteatro"
+          },
+          "coords": [
+            43.8455,
+            10.506
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagspause in historischer Kulisse.",
+            "hu": "Ebédszünet történelmi díszletek között.",
+            "ro": "Pauză de prânz într-un cadru istoric.",
+            "en": "Lunch break in a historic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Martino",
+            "hu": "San Martino-székesegyház",
+            "ro": "Catedrala San Martino",
+            "en": "Lucca Cathedral"
+          },
+          "coords": [
+            43.8405,
+            10.5055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunst- und Architekturbegeisterte.",
+            "hu": "Művészeti és építészeti remekmű.",
+            "ro": "O necesitate pentru iubitorii de artă și arhitectură.",
+            "en": "A must-see for art and architecture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            43.84,
+            10.51
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang zwischen exotischen Pflanzen.",
+            "hu": "Pihentető befejezés az egzotikus növények között.",
+            "ro": "Final relaxant printre plante exotice.",
+            "en": "A relaxing end among exotic plants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Lucca auf dem Fahrrad zu erkunden ist ein Klassiker. Beginnen Sie mit einer kompletten Runde auf den 4 km langen Stadtmauern, die einen tollen Überblick bieten. Besuchen Sie den Garten des Palazzo Pfanner und die Basilika San Frediano, bevor Sie auf der Piazza dell'Anfiteatro zu Mittag essen. Beenden Sie Ihre Tour am prächtigen Dom und entspannen Sie im Botanischen Garten.",
+        "hu": "Luccát biciklivel felfedezni igazi klasszikus élmény. Kezdjen egy teljes körrel a 4 km hosszú városfalakon, ahonnan remek rálátás nyílik a városra. Látogassa meg a Palazzo Pfanner kertjét és a San Frediano-bazilikát, majd ebédeljen az Amfiteátrum téren. A túrát a dóm megtekintésével és a Botanikus kertben való pihenéssel zárhatja.",
+        "ro": "Explorarea orașului Lucca pe bicicletă este o experiență clasică. Începeți cu un tur complet pe zidurile de 4 km lungime, care oferă o privire de ansamblu excelentă. Vizitați grădina Palazzo Pfanner și Bazilica San Frediano înainte de prânzul în Piazza dell'Anfiteatro. Încheiați turul la Catedrală și relaxați-vă în Grădina Botanică.",
+        "en": "Exploring Lucca by bike is a local classic. Start with a full loop on the 4 km long city walls, offering great views over the town. Visit the gardens of Palazzo Pfanner and San Frediano Basilica before lunch at Piazza dell'Anfiteatro. Finish your tour at the stunning Cathedral and unwind in the peaceful Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Herzhafte toskanische Küche nahe Piazza Frediano."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Házias toszkán konyha a Piazza Frediano közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Bucătărie toscană autentică lângă Piazza Frediano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Da Leo",
+            "tip": "Hearty Tuscan cuisine near Piazza Frediano."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Ein schattiger Platz auf der Mauer zum Ausruhen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Árnyas hely a falon egy kis pihenőhöz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Un loc umbros pe zid pentru odihnă.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "A shaded spot on the wall for a quick break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chocolat Lucca",
+            "tip": "Feine Pralinen und handgemachte Schokolade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chocolat Lucca",
+            "tip": "Kiváló kézműves csokoládék és pralinék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolat Lucca",
+            "tip": "Praline fine și ciocolată artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolat Lucca",
+            "tip": "Fine pralines and handmade chocolates."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrradverleihe gibt es an fast jedem Stadttor.",
+          "Die Wallanlage ist sehr breit und sicher zum Fahren.",
+          "Schließen Sie Ihr Rad immer an, wenn Sie Sehenswürdigkeiten betreten.",
+          "Achten Sie in den engen Gassen der Altstadt auf Fußgänger."
+        ],
+        "hu": [
+          "Szinte minden városkapunál található kerékpárkölcsönző.",
+          "A városfal teteje széles és biztonságos a biciklizéshez.",
+          "Mindig zárja le a biciklit, amikor bemegy egy látnivalóhoz.",
+          "Az óváros szűk utcáin figyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Există centre de închiriere de biciclete la aproape fiecare poartă.",
+          "Zidurile sunt foarte late și sigure pentru pedalat.",
+          "Încuiați întotdeauna bicicleta când intrați să vizitați obiectivele.",
+          "Atenție la pietoni pe străzile înguste din centrul vechi."
+        ],
+        "en": [
+          "Bike rentals are available at almost every city gate.",
+          "The ramparts are very wide and safe for cycling.",
+          "Always lock your bike when entering sights or shops.",
+          "Watch out for pedestrians in the narrow old town streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 54.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Napoleone (Parken)",
+            "hu": "Piazza Napoleone környéke",
+            "ro": "Zona Piazza Napoleone",
+            "en": "Piazza Napoleone Area"
+          },
+          "coords": [
+            43.8429,
+            10.5027
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der ZTL (z.B. Parkplatz Carducci).",
+            "hu": "Parkoljon a ZTL-en kívül (pl. Carducci parkoló).",
+            "ro": "Parcați în afara ZTL (ex. parcarea Carducci).",
+            "en": "Park outside the ZTL (e.g., Carducci parking lot)."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Martino",
+            "hu": "San Martino-székesegyház",
+            "ro": "Catedrala San Martino",
+            "en": "Lucca Cathedral"
+          },
+          "coords": [
+            43.8405,
+            10.5055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Teil des Lucca-Zentrums-Clusters.",
+            "hu": "A belvárosi látnivalók része (gyalogos szakasz).",
+            "ro": "Parte din clusterul central (acces pietonal).",
+            "en": "Part of the city center cluster (walking access)."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte della Maddalena",
+            "hu": "Ördög-hídja",
+            "ro": "Podul Diavolului",
+            "en": "Devil's Bridge"
+          },
+          "coords": [
+            43.985,
+            10.552
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 24.0,
+          "tip_5lang": {
+            "de": "Eine beeindruckende mittelalterliche Brücke bei Borgo a Mozzano.",
+            "hu": "Lenyűgöző középkori híd Borgo a Mozzano mellett.",
+            "ro": "Un pod medieval spectaculos lângă Borgo a Mozzano.",
+            "en": "A spectacular medieval bridge near Borgo a Mozzano."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dell'Anfiteatro",
+            "hu": "Piazza dell'Anfiteatro",
+            "ro": "Piazza dell'Anfiteatro",
+            "en": "Piazza dell'Anfiteatro"
+          },
+          "coords": [
+            43.8455,
+            10.506
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 24.0,
+          "tip_5lang": {
+            "de": "Zurück in Lucca für ein spätes Mittagessen.",
+            "hu": "Visszatérés Luccába egy késői ebédre.",
+            "ro": "Înapoi în Lucca pentru un prânz târziu.",
+            "en": "Back in Lucca for a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Guinigi",
+            "hu": "Guinigi-torony",
+            "ro": "Turnul Guinigi",
+            "en": "Guinigi Tower"
+          },
+          "coords": [
+            43.8437,
+            10.5065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster-Walking: Nur 5 Min. vom Amphitheater entfernt.",
+            "hu": "Gyalogos szakasz: csak 5 percre az Amfiteátrumtól.",
+            "ro": "Plimbare în cluster: la doar 5 min de Amfiteatru.",
+            "en": "Cluster walking: only 5 min from the Amphitheatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Lucca (Aussicht)",
+            "hu": "Városfal (kilátás)",
+            "ro": "Zidurile (panoramă)",
+            "en": "City Walls (View)"
+          },
+          "coords": [
+            43.8485,
+            10.505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Spaziergang vor der Abfahrt.",
+            "hu": "Utolsó séta a távozás előtt.",
+            "ro": "Ultima plimbare înainte de plecare.",
+            "en": "A final walk before heading back to the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Auto-Tour kombiniert die Highlights von Lucca mit einem Ausflug zur spektakulären Teufelsbrücke in Borgo a Mozzano. Parken Sie morgens in Lucca und erkunden Sie das Zentrum zu Fuß. Nach einem Abstecher in die Berge kehren Sie für ein Mittagessen auf der Piazza dell'Anfiteatro zurück und genießen den Nachmittag in den Gassen und auf den Mauern der Stadt.",
+        "hu": "Ez az autós túra ötvözi Lucca legfontosabb látnivalóit egy rövid kirándulással a látványos Borgo a Mozzano-i Ördög-hídhoz. Reggel parkoljon Luccában és fedezze fel a dómot, majd tegyen egy kitérőt északra. Délután térjen vissza Luccába egy ebédre, nézze meg a Guinigi-tornyot, és zárja a napot a városfalakon.",
+        "ro": "Acest tur cu mașina combină atracțiile principale din Lucca cu o excursie la spectaculosul Pod al Diavolului din Borgo a Mozzano. Parcați dimineața în Lucca pentru a vedea centrul, apoi faceți o scurtă escapadă la munte. Reveniți în oraș pentru prânz în Piazza dell'Anfiteatro și bucurați-vă de după-amiază pe zidurile cetății.",
+        "en": "This car tour combines Lucca's highlights with a short drive to the spectacular Devil's Bridge in Borgo a Mozzano. Park in Lucca in the morning to explore the cathedral area, then take a detour north. Return to the city for lunch at Piazza dell'Anfiteatro, climb the Guinigi Tower, and finish with a panoramic walk on the historic walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria del Parco",
+            "tip": "Hervorragende Fleischgerichte direkt vor den Mauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria del Parco",
+            "tip": "Kiváló húsételek közvetlenül a városfalon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria del Parco",
+            "tip": "Preparate din carne excelente chiar lângă ziduri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria del Parco",
+            "tip": "Excellent meat dishes located just outside the walls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ponte della Maddalena",
+            "tip": "Am frühen Nachmittag oft sehr ruhig am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ördög-hídja",
+            "tip": "Kora délután gyakran csendes a folyópart.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Diavolului",
+            "tip": "Deseori liniște pe malul râului după-amiaza.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Devil's Bridge",
+            "tip": "Often peaceful by the river in the early afternoon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "Ein riesiger Weinkeller mit toskanischen Schätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "Hatalmas borpince toszkán borkülönlegességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "O cramă uriașă cu vinuri toscane de colecție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enoteca Vanni",
+            "tip": "A massive wine cellar with Tuscan treasures."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in die Altstadt (ZTL), die Bußgelder sind hoch.",
+          "Parkplatz 'Parcheggio Carducci' ist ideal für den Zugang zur Südseite.",
+          "Die Fahrt nach Borgo a Mozzano dauert etwa 30-40 Minuten.",
+          "In Lucca parken Sie am besten einmal und machen den Rest zu Fuß."
+        ],
+        "hu": [
+          "Soha ne hajtson be az óvárosba (ZTL), a bírságok nagyon magasak.",
+          "A 'Parcheggio Carducci' ideális parkoló a déli városrészhez.",
+          "Az út Borgo a Mozzano-ba kb. 30-40 percet vesz igénybe.",
+          "Luccában érdemes egyszer leparkolni, és a városon belül sétálni."
+        ],
+        "ro": [
+          "Nu intrați niciodată în centrul istoric (ZTL), amenzile sunt mari.",
+          "Parcarea 'Parcheggio Carducci' este ideală pentru accesul din sud.",
+          "Drumul până la Borgo a Mozzano durează aproximativ 30-40 minute.",
+          "În Lucca, cel mai bine este să parcați o dată și să mergeți pe jos."
+        ],
+        "en": [
+          "Never drive into the old town (ZTL); fines are very high.",
+          "'Parcheggio Carducci' is an ideal parking lot for southern access.",
+          "The drive to Borgo a Mozzano takes about 30-40 minutes.",
+          "In Lucca, it's best to park once and explore the clusters on foot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Lucca",
+            "hu": "Lucca vasútállomás",
+            "ro": "Gara Lucca",
+            "en": "Lucca Station"
+          },
+          "coords": [
+            43.8375,
+            10.506
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt für Bahnreisende.",
+            "hu": "Tökéletes kiindulópont a vonattal érkezőknek.",
+            "ro": "Punctul de plecare perfect pentru călătorii cu trenul.",
+            "en": "The perfect starting point for those arriving by train."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Martino",
+            "hu": "San Martino-székesegyház",
+            "ro": "Catedrala San Martino",
+            "en": "Lucca Cathedral"
+          },
+          "coords": [
+            43.8405,
+            10.5055
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur 5 Gehminuten vom Bahnhof entfernt.",
+            "hu": "Csak 5 perc séta az állomástól.",
+            "ro": "La doar 5 minute de mers pe jos de gară.",
+            "en": "Only a 5-minute walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "San Michele in Foro",
+            "hu": "San Michele in Foro",
+            "ro": "San Michele in Foro",
+            "en": "San Michele in Foro"
+          },
+          "coords": [
+            43.8436,
+            10.5025
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Im Herzen des Handelszentrums.",
+            "hu": "A kereskedelmi központ szívében.",
+            "ro": "În inima centrului comercial.",
+            "en": "In the heart of the commercial center."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza dell'Anfiteatro",
+            "hu": "Piazza dell'Anfiteatro",
+            "ro": "Piazza dell'Anfiteatro",
+            "en": "Piazza dell'Anfiteatro"
+          },
+          "coords": [
+            43.8455,
+            10.506
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Cluster-Walking: Zentrumsnah und lebendig.",
+            "hu": "Gyalogos szakasz: központi és élettel teli.",
+            "ro": "Plimbare în cluster: central și plin de viață.",
+            "en": "Cluster walking: central and vibrant."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Guinigi",
+            "hu": "Guinigi-torony",
+            "ro": "Turnul Guinigi",
+            "en": "Guinigi Tower"
+          },
+          "coords": [
+            43.8437,
+            10.5065
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester Blick über die Ziegeldächer.",
+            "hu": "A legjobb kilátás a cseréptetőkre.",
+            "ro": "Cea mai bună vedere asupra acoperișurilor.",
+            "en": "The best view over the terracotta rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura di Lucca",
+            "hu": "Városfal",
+            "ro": "Zidurile cetății",
+            "en": "Walls of Lucca"
+          },
+          "coords": [
+            43.8485,
+            10.505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannter Weg zurück Richtung Bahnhof über die Mauer.",
+            "hu": "Kényelmes séta vissza az állomás felé a falakon.",
+            "ro": "Plimbare relaxantă înapoi spre gară pe ziduri.",
+            "en": "Relaxing walk back towards the station along the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Lucca ist hervorragend mit dem Zug erreichbar. Vom Bahnhof aus betreten Sie die Stadt durch das Tor San Pietro und erreichen sofort den Dom. Der Tag führt Sie durch das dichte Netz mittelalterlicher Gassen zur Piazza San Michele und dem berühmten Amphitheater-Platz. Nach dem Aufstieg auf den Guinigi-Turm kehren Sie über die breiten Stadtmauern gemütlich zum Bahnhof zurück.",
+        "hu": "Lucca kiválóan megközelíthető vonattal. Az állomásról a San Pietro kapun át léphet be a városba, és azonnal a dómhoz ér. A nap folyamán a középkori utcák hálózatán át eljuthat a San Michele térre és a híres Amfiteátrum térre. A Guinigi-torony megmászása után a széles városfalakon sétálva térhet vissza kényelmesen a vasútállomáshoz.",
+        "ro": "Lucca este ușor accesibilă cu trenul. De la gară, intrați în oraș prin poarta San Pietro și ajungeți imediat la Catedrală. Ziua vă va purta prin labirintul de străzi medievale către Piazza San Michele și celebra piață a Amfiteatrului. După urcarea în Turnul Guinigi, reveniți la gară printr-o plimbare relaxantă pe zidurile cetății.",
+        "en": "Lucca is perfectly accessible by train. From the station, enter the city through San Pietro Gate and arrive directly at the Cathedral. Your day takes you through medieval alleys to San Michele Square and the famous Amphitheatre Square. After climbing the Guinigi Tower, enjoy a leisurely stroll back to the station along the top of the massive city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Isola che non c'era",
+            "tip": "Gute Pizzeria und Bistro nahe dem Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Isola che non c'era",
+            "tip": "Jó pizzéria és bisztró az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Isola che non c'era",
+            "tip": "O pizzerie și bistro bun lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Isola che non c'era",
+            "tip": "Good pizzeria and bistro near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Direkt am Abstieg zum Bahnhof gelegen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Közvetlenül az állomáshoz vezető lejárónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Situat chiar lângă coborârea spre gară.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baluardo San Colombano",
+            "tip": "Located right by the ramp leading down to the station.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Luccalibri",
+            "tip": "Eine wunderbare Buchhandlung mit Café."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luccalibri",
+            "tip": "Egy csodálatos könyvesbolt és kávézó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Luccalibri",
+            "tip": "O librărie minunată cu o cafenea inclusă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luccalibri",
+            "tip": "A wonderful bookstore with an attached cafe."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Züge aus Florenz und Pisa verkehren sehr regelmäßig.",
+          "Der Bahnhof liegt direkt vor den Mauern im Süden.",
+          "In der Stadt selbst brauchen Sie keine Busse, alles ist zu Fuß nah.",
+          "Validieren Sie Ihr Ticket vor der Rückfahrt am Bahnsteig."
+        ],
+        "hu": [
+          "Firenzéből és Pisából nagyon sűrűn járnak a vonatok.",
+          "A vasútállomás közvetlenül a déli városfal előtt található.",
+          "A városon belül nincs szükség buszra, minden gyalogtávra van.",
+          "Visszaindulás előtt ne felejtse el érvényesíteni a jegyét a peronon."
+        ],
+        "ro": [
+          "Trenurile din Florența și Pisa circulă foarte regulat.",
+          "Gara este situată chiar în fața zidurilor de sud.",
+          "În oraș nu aveți nevoie de autobuze, totul este aproape pe jos.",
+          "Validați biletul la aparatele de pe peron înainte de plecare."
+        ],
+        "en": [
+          "Trains from Florence and Pisa run very frequently.",
+          "The station is located just outside the southern city walls.",
+          "Within the city, you don't need buses; everything is reachable on foot.",
+          "Remember to validate your ticket at the platform before boarding."
+        ]
+      }
+    }
+  }
+}

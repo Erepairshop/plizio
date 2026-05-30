@@ -1,0 +1,1062 @@
+{
+  "city_id": "italy-grosseto-cities-v2",
+  "anchor": {
+    "name": "Grosseto Centro",
+    "coords": [
+      11.1106,
+      42.7618
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza Dante",
+          "coords": [
+            11.1106,
+            42.7618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue von Leopold II., liebevoll 'Canapone' genannt.",
+            "hu": "Csodálja meg II. Lipót szobrát, akit a helyiek csak 'Canapone' néven emlegetnek.",
+            "ro": "Admirați statuia lui Leopold al II-lea, poreclit afectuos 'Canapone'.",
+            "en": "Admire the statue of Leopold II, affectionately nicknamed 'Canapone' by locals."
+          }
+        },
+        {
+          "name": "Cattedrale di San Lorenzo",
+          "coords": [
+            11.1109,
+            42.7618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das prächtige Taufbecken aus dem 15. Jahrhundert.",
+            "hu": "Figyelje meg a 15. századi díszes keresztelőmedencét.",
+            "ro": "Observați cristelnița spectaculoasă din secolul al XV-lea.",
+            "en": "Look for the magnificent 15th-century baptismal font inside."
+          }
+        },
+        {
+          "name": "Palazzo Aldobrandeschi",
+          "coords": [
+            11.1104,
+            42.7615
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die neugotische Fassade erinnert an die Paläste von Siena.",
+            "hu": "A neogótikus homlokzat a sziénai paloták stílusát idézi.",
+            "ro": "Fațada neogotică amintește de palatele din Siena.",
+            "en": "The neo-Gothic facade recalls the grand palaces of Siena."
+          }
+        },
+        {
+          "name": "Museo Archeologico e d'Arte della Maremma",
+          "coords": [
+            11.1101,
+            42.7621
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die etruskische Geschichte der Maremma-Region.",
+            "hu": "Fedezze fel a Maremma-vidék lenyűgöző etruszk történelmét.",
+            "ro": "Descoperiți istoria etruscă fascinantă a regiunii Maremma.",
+            "en": "Explore the fascinating Etruscan history of the Maremma region."
+          }
+        },
+        {
+          "name": "Chiesa di San Francesco",
+          "coords": [
+            11.1118,
+            42.7636
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den friedlichen Kreuzgang neben der Kirche.",
+            "hu": "Látogassa meg a templom melletti csendes kolostorkeringőt.",
+            "ro": "Vizitați claustrul liniștit de lângă biserică.",
+            "en": "Visit the peaceful cloister located right next to the church."
+          }
+        },
+        {
+          "name": "Cassero Senese",
+          "coords": [
+            11.1132,
+            42.7631
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser massive Festungsturm war Teil der sienesischen Verteidigung.",
+            "hu": "Ez a masszív erődítmény a sziénai védelmi rendszer része volt.",
+            "ro": "Acest turn masiv a făcut parte din sistemul defensiv sienez.",
+            "en": "This massive fortress tower was part of the Sienese defense system."
+          }
+        },
+        {
+          "name": "Bastione Rimembranza",
+          "coords": [
+            11.1086,
+            42.7607
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang auf der begrünten Stadtmauer.",
+            "hu": "Élvezze a sétát a városfal parkosított szakaszán.",
+            "ro": "Bucurați-vă de o plimbare pe secțiunea înverzită a zidurilor orașului.",
+            "en": "Enjoy a scenic stroll on the tree-lined section of the city walls."
+          }
+        },
+        {
+          "name": "Mura di Grosseto",
+          "coords": [
+            11.11,
+            42.76
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die hexagonale Stadtmauer ist fast vollständig erhalten.",
+            "hu": "A hatszögletű városfal szinte teljes egészében épségben maradt.",
+            "ro": "Zidurile hexagonale ale orașului sunt aproape intacte.",
+            "en": "The hexagonal city walls are almost completely intact today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Grosseto auf der Piazza Dante, umgeben von eleganten Palästen. Nach der Besichtigung der Kathedrale und des neugotischen Palazzo Aldobrandeschi tauchen Sie im Archäologischen Museum in die etruskische Vergangenheit ein. Mittags genießen Sie die Ruhe in der Kirche San Francesco. Der Nachmittag gehört den beeindruckenden Befestigungsanlagen: Erkunden Sie das Cassero Senese und beenden Sie den Tag mit einem entspannten Spaziergang auf den historischen Stadtmauern, die einen wunderbaren Blick auf die Stadt bieten.",
+        "hu": "A napot Grosseto szívében, a Piazza Dantén kezdi, elegáns paloták gyűrűjében. A katedrális és a neogótikus Palazzo Aldobrandeschi megtekintése után merüljön el az etruszk múltban a Régészeti Múzeumban. Délben élvezze a Szent Ferenc-templom nyugalmát. A délután az impozáns erődítményeké: fedezze fel a Cassero Senesét, és zárja a napot egy pihentető sétával a történelmi városfalakon, ahonnan remek kilátás nyílik az óvárosra.",
+        "ro": "Ziua începe în inima orașului Grosseto, în Piazza Dante, înconjurată de palate elegante. După vizitarea catedralei și a Palazzo Aldobrandeschi, scufundați-vă în trecutul etrusc la Muzeul de Arheologie. La prânz, bucurați-vă de liniștea Bisericii San Francesco. După-amiaza este dedicată fortificațiilor impresionante: explorați Cassero Senese și încheiați ziua cu o plimbare relaxantă pe zidurile istorice, care oferă o perspectivă superbă asupra orașului.",
+        "en": "Start your day in the heart of Grosseto at Piazza Dante, surrounded by elegant palaces. After visiting the Cathedral and the neo-Gothic Palazzo Aldobrandeschi, dive into the Etruscan past at the Archaeological Museum. At midday, enjoy the tranquility of the Church of San Francesco. The afternoon is dedicated to the impressive fortifications: explore the Cassero Senese and end your journey with a relaxing stroll along the historic city walls, offering great views of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tortelli Maremmani",
+            "tip": "Probieren Sie diese großen Ravioli gefüllt mit Ricotta und Spinat."
+          },
+          {
+            "name": "Cinghiale in Umido",
+            "tip": "Geschmortes Wildschwein, eine echte Spezialität der Maremma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tortelli Maremmani",
+            "tip": "Kóstolja meg az óriási, ricottával és spenóttal töltött tésztát."
+          },
+          {
+            "name": "Cinghiale in Umido",
+            "tip": "Párolt vaddisznóhús, a Maremma vidék igazi specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tortelli Maremmani",
+            "tip": "Încercați acești ravioli mari umpluți cu ricotta și spanac."
+          },
+          {
+            "name": "Cinghiale in Umido",
+            "tip": "Mistreț scăzut, o specialitate autentică din Maremma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tortelli Maremmani",
+            "tip": "Try these large ravioli filled with ricotta cheese and spinach."
+          },
+          {
+            "name": "Cinghiale in Umido",
+            "tip": "Stewed wild boar, a true signature dish of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastione Rimembranza",
+            "tip": "Ein schattiger Park auf den Mauern, ideal für eine Pause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kreuzgang von San Francesco",
+            "tip": "Ein Ort der Stille inmitten der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastione Rimembranza",
+            "tip": "Árnyas park a városfalon, tökéletes egy kis pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Francesco kolostor",
+            "tip": "A csend és nyugalom szigete a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastione Rimembranza",
+            "tip": "Un parc umbrit pe ziduri, ideal pentru o pauză.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Claustrul San Francesco",
+            "tip": "Un loc de liniște profundă în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastione Rimembranza",
+            "tip": "A shaded park on the walls, perfect for a short break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "San Francesco Cloister",
+            "tip": "A peaceful spot away from the city noise.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Carducci",
+            "tip": "Die Haupteinkaufsstraße mit vielen italienischen Modeboutiquen."
+          },
+          {
+            "name": "Maremma-Wein",
+            "tip": "Kaufen Sie eine Flasche Morellino di Scansano als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Carducci",
+            "tip": "A fő bevásárlóutca számos olasz divatüzlettel."
+          },
+          {
+            "name": "Maremma borok",
+            "tip": "Vásároljon egy üveg Morellino di Scansano bort emlékbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Carducci",
+            "tip": "Principala stradă comercială cu numeroase boutique-uri de modă."
+          },
+          {
+            "name": "Vinuri din Maremma",
+            "tip": "Cumpărați o sticlă de Morellino di Scansano ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Carducci",
+            "tip": "The main shopping street with many Italian fashion boutiques."
+          },
+          {
+            "name": "Maremma Wines",
+            "tip": "Pick up a bottle of local Morellino di Scansano wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Grosseto ist sehr flach und lässt sich hervorragend zu Fuß erkunden.",
+          "Die Stadtmauern sind komplett begehbar und bieten viel Schatten.",
+          "Besuchen Sie das Zentrum am späten Nachmittag, wenn die Einheimischen ihren 'Passeggiata' machen.",
+          "Probieren Sie das lokale Olivenöl in einer der Feinkostläden im Zentrum."
+        ],
+        "hu": [
+          "Grosseto nagyon sík, így gyalogosan is rendkívül kényelmesen felfedezhető.",
+          "A városfalak teljes hosszukban bejárhatóak és sok árnyékot adnak.",
+          "Látogassa meg a központot késő délután, amikor a helyiek a szokásos sétájukat ('Passeggiata') tartják.",
+          "Kóstolja meg a helyi olívaolajat a belvárosi csemegeüzletek egyikében."
+        ],
+        "ro": [
+          "Grosseto este un oraș plat, fiind foarte ușor de explorat la pas.",
+          "Zidurile orașului sunt complet accesibile și oferă multă umbră.",
+          "Vizitați centrul după-amiaza târziu, când localnicii ies la 'Passeggiata'.",
+          "Gustați uleiul de măsline local în magazinele de delicatese din centru."
+        ],
+        "en": [
+          "Grosseto is very flat, making it extremely easy to explore on foot.",
+          "The city walls are fully accessible and provide plenty of shade.",
+          "Visit the center in the late afternoon to join the locals for their daily 'Passeggiata'.",
+          "Sample some local olive oil in one of the specialty shops in the historic center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Mura di Grosseto",
+          "coords": [
+            11.11,
+            42.76
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie die gesamte 2,9 km lange Runde auf den Mauern.",
+            "hu": "Tekerje körbe a teljes, 2,9 km hosszú városfalat.",
+            "ro": "Parcurgeți întregul circuit de 2,9 km de pe ziduri.",
+            "en": "Cycle the entire 2.9 km loop on top of the historic walls."
+          }
+        },
+        {
+          "name": "Cassero Senese",
+          "coords": [
+            11.1132,
+            42.7631
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Eingang ab, um die Festung zu erkunden.",
+            "hu": "Hagyja a kerékpárt a bejáratnál az erőd felfedezéséhez.",
+            "ro": "Lăsați bicicleta la intrare pentru a explora fortăreața.",
+            "en": "Park your bike at the entrance to explore the fortress interior."
+          }
+        },
+        {
+          "name": "Chiesa di San Francesco",
+          "coords": [
+            11.1118,
+            42.7636
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp für die Kunstwerke im Inneren.",
+            "hu": "Gyors megálló a templom belső műalkotásaiért.",
+            "ro": "O oprire rapidă pentru operele de artă din interior.",
+            "en": "A quick stop to admire the artworks inside the church."
+          }
+        },
+        {
+          "name": "Museo Archeologico e d'Arte della Maremma",
+          "coords": [
+            11.1101,
+            42.7621
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum bietet Fahrradabstellplätze in der Nähe.",
+            "hu": "A múzeum közelében számos kerékpártároló található.",
+            "ro": "Muzeul are locuri de parcare pentru biciclete în apropiere.",
+            "en": "There are bike racks available near the museum entrance."
+          }
+        },
+        {
+          "name": "Piazza Dante",
+          "coords": [
+            11.1106,
+            42.7618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der zentrale Platz ist eine Fußgängerzone, schieben Sie Ihr Rad.",
+            "hu": "A központi tér gyalogos zóna, itt tolja a kerékpárt.",
+            "ro": "Piața centrală este zonă pietonală, mergeți pe lângă bicicletă.",
+            "en": "The main square is a pedestrian zone; please push your bike here."
+          }
+        },
+        {
+          "name": "Cattedrale di San Lorenzo",
+          "coords": [
+            11.1109,
+            42.7618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Fassade aus zweifarbigem Marmor ist ein Highlight.",
+            "hu": "A kétszínű márványhomlokzat a város egyik fénypontja.",
+            "ro": "Fațada din marmură bicoloră este un punct de atracție.",
+            "en": "The two-tone marble facade is a true city highlight."
+          }
+        },
+        {
+          "name": "Monumento ai Caduti",
+          "coords": [
+            11.1135,
+            42.761
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzes Innehalten am Denkmal für die Gefallenen.",
+            "hu": "Rövid megálló az elesettek emlékművénél.",
+            "ro": "O scurtă oprire la monumentul dedicat eroilor.",
+            "en": "A brief stop at the memorial dedicated to the fallen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Grosseto auf zwei Rädern! Starten Sie mit einer kompletten Runde auf den historischen Stadtmauern, die wie ein grüner Gürtel das Zentrum umschließen. Besuchen Sie das Cassero Senese und die Kirche San Francesco, bevor Sie im Archäologischen Museum mehr über die Region erfahren. Nach einem Stopp auf der Piazza Dante und an der Kathedrale beenden Sie Ihre Tour am Monumento ai Caduti. Das flache Gelände macht das Radfahren hier zu einem reinen Vergnügen.",
+        "hu": "Fedezze fel Grossetót két keréken! Kezdje egy teljes körrel a történelmi városfalakon, amelyek zöld övezetként veszik körbe a központot. Látogasson el a Cassero Seneséhez és a Szent Ferenc-templomhoz, mielőtt a Régészeti Múzeumban megismerné a környék múltját. A Piazza Dante és a katedrális érintése után fejezze be a túrát az elesettek emlékművénél. A sík terepnek köszönhetően a kerékpározás itt igazi élmény.",
+        "ro": "Explorați Grosseto pe două roți! Începeți cu un circuit complet pe zidurile istorice, care înconjoară centrul ca o centură verde. Vizitați Cassero Senese și Biserica San Francesco înainte de a afla mai multe despre regiune la Muzeul de Arheologie. După o oprire în Piazza Dante și la catedrală, încheiați turul la Monumentul Eroilor. Terenul plat face ca mersul pe bicicletă să fie o adevărată plăcere.",
+        "en": "Explore Grosseto on two wheels! Start with a full loop along the historic city walls, which act as a green belt around the center. Visit the Cassero Senese and the Church of San Francesco before learning about the region's past at the Archaeological Museum. After stopping at Piazza Dante and the Cathedral, finish your ride at the War Memorial. The flat terrain makes cycling here a pure joy for everyone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pappa al Pomodoro",
+            "tip": "Eine klassische toskanische Tomatensuppe."
+          },
+          {
+            "name": "Maremma-Käse",
+            "tip": "Probieren Sie den lokalen Pecorino mit Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pappa al Pomodoro",
+            "tip": "Klasszikus toszkán paradicsomleves kenyérrel."
+          },
+          {
+            "name": "Maremma sajtok",
+            "tip": "Kóstolja meg a helyi pecorinót mézzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pappa al Pomodoro",
+            "tip": "O supă clasică toscană de roșii cu pâine."
+          },
+          {
+            "name": "Brânzeturi din Maremma",
+            "tip": "Gustați pecorino local servit cu miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pappa al Pomodoro",
+            "tip": "A classic Tuscan tomato and bread soup."
+          },
+          {
+            "name": "Maremma Cheeses",
+            "tip": "Try the local pecorino cheese served with honey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mura-Rampen",
+            "tip": "Ruhige Ecken entlang der Festungsanlagen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfal rámpák",
+            "tip": "Csendes kis zugok az erődrendszer mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rampele zidurilor",
+            "tip": "Colțuri liniștite de-a lungul fortificațiilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wall Ramparts",
+            "tip": "Quiet spots hidden along the fortification line.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von Grosseto",
+            "tip": "Immer donnerstags gibt es lokale Produkte und Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grossetói piac",
+            "tip": "Csütörtökönként helyi termékek és ruhák nagy választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Grosseto",
+            "tip": "În fiecare joi găsiți produse locale și haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grosseto Market",
+            "tip": "Every Thursday, find local products and clothing here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Mauern von Grosseto sind einer der wenigen Orte in Italien, an denen man komplett im Schatten radeln kann.",
+          "Achten Sie auf Fußgänger auf den Mauern, besonders am Wochenende.",
+          "Es gibt mehrere Fahrradverleihstationen in Bahnhofsnähe.",
+          "Nehmen Sie ausreichend Wasser mit, wenn Sie die gesamte Runde fahren."
+        ],
+        "hu": [
+          "Grosseto városfala azon kevés helyek egyike Olaszországban, ahol szinte végig árnyékban biciklizhet.",
+          "Figyeljen a gyalogosokra a falakon, különösen hétvégén.",
+          "Több kerékpárkölcsönző is található a vasútállomás közelében.",
+          "Vigyen magával vizet, ha a teljes kört tervezi megtenni."
+        ],
+        "ro": [
+          "Zidurile din Grosseto sunt printre puținele locuri din Italia unde puteți pedala complet la umbră.",
+          "Atenție la pietonii de pe ziduri, mai ales în weekend.",
+          "Există mai multe centre de închiriat biciclete lângă gară.",
+          "Luați apă cu voi dacă plănuiți să parcurgeți întregul circuit."
+        ],
+        "en": [
+          "Grosseto's walls are one of the few places in Italy where you can cycle almost entirely under shade.",
+          "Watch out for pedestrians on the walls, especially during weekends.",
+          "Several bike rental shops are located near the train station.",
+          "Carry water with you if you plan to do the full fortification loop."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Dante",
+          "coords": [
+            11.1106,
+            42.7618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie außerhalb der Stadtmauer (z.B. Parcheggio Amiata).",
+            "hu": "Parkoljon a városfalon kívül (pl. Parcheggio Amiata).",
+            "ro": "Parcați în afara zidurilor (ex. Parcheggio Amiata).",
+            "en": "Park your car outside the city walls (e.g., Parcheggio Amiata)."
+          }
+        },
+        {
+          "name": "Cattedrale di San Lorenzo",
+          "coords": [
+            11.1109,
+            42.7618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Innere ist überraschend hell und geräumig.",
+            "hu": "A templombelső meglepően világos és tágas.",
+            "ro": "Interiorul este surprinzător de luminos și spațios.",
+            "en": "The interior is surprisingly bright and spacious."
+          }
+        },
+        {
+          "name": "Museo Archeologico e d'Arte della Maremma",
+          "coords": [
+            11.1101,
+            42.7621
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber in der Südtoskana.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló Dél-Toszkánában.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie din sudul Toscanei.",
+            "en": "A must-visit for history lovers in southern Tuscany."
+          }
+        },
+        {
+          "name": "Cassero Senese",
+          "coords": [
+            11.1132,
+            42.7631
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Bastione Fortezza für leichten Zugang.",
+            "hu": "Hajtson a Bastione Fortezza felé a könnyebb megközelítésért.",
+            "ro": "Conduceți spre Bastione Fortezza pentru acces ușor.",
+            "en": "Drive towards Bastione Fortezza for easier access."
+          }
+        },
+        {
+          "name": "Mura di Grosseto",
+          "coords": [
+            11.11,
+            42.76
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Dächer der Stadt.",
+            "hu": "Élvezze a panorámát a város háztetőire.",
+            "ro": "Bucurați-vă de panorama asupra acoperișurilor orașului.",
+            "en": "Enjoy the panoramic view over the city rooftops."
+          }
+        },
+        {
+          "name": "Pozzo dello Spedale",
+          "coords": [
+            11.1112,
+            42.7626
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein malerischer alter Brunnen im historischen Zentrum.",
+            "hu": "Festői régi kút a történelmi belvárosban.",
+            "ro": "O fântână veche pitorească în centrul istoric.",
+            "en": "A picturesque old well located in the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Grosseto mit dem Auto zu erkunden bedeutet, die Stadt in bequemen Clustern zu erleben. Beginnen Sie im historischen Kern mit der Piazza Dante, der Kathedrale und dem Archäologischen Museum. Da das Zentrum eine verkehrsberuhigte Zone (ZTL) ist, parken Sie bequem am Rand. Nach einem Mittagessen fahren Sie zum Festungsviertel, um das Cassero Senese und die beeindruckenden Mauern zu besichtigen. Den Abschluss bildet der charmante Pozzo dello Spedale im Herzen der Altstadt.",
+        "hu": "Grosseto autóval történő felfedezése kényelmesen, több szakaszban történik. Kezdje a történelmi maggal: Piazza Dante, katedrális és a Régészeti Múzeum. Mivel a központ korlátozott forgalmú zóna (ZTL), parkoljon kényelmesen a falakon kívül. Ebéd után hajtson az erődnegyedhez, hogy megtekintse a Cassero Senesét és a lenyűgöző falakat. A napot a bájos Pozzo dello Spedale kútnál zárja az óváros szívében.",
+        "ro": "Explorarea orașului Grosseto cu mașina înseamnă experimentarea orașului în grupuri convenabile. Începeți în nucleul istoric cu Piazza Dante, Catedrala și Muzeul de Arheologie. Deoarece centrul este zonă cu trafic limitat (ZTL), parcați confortabil la margine. După prânz, conduceți spre cartierul fortăreței pentru a vizita Cassero Senese și zidurile impresionante. Încheiați cu fermecătorul Pozzo dello Spedale din inima orașului vechi.",
+        "en": "Exploring Grosseto by car means experiencing the city in convenient clusters. Start in the historic core with Piazza Dante, the Cathedral, and the Archaeological Museum. Since the center is a Restricted Traffic Zone (ZTL), park comfortably on the edge. After lunch, drive to the fortress district to see the Cassero Senese and the impressive walls. Finish your visit at the charming Pozzo dello Spedale in the heart of the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Acquacotta",
+            "tip": "Eine traditionelle Gemüsesuppe der Maremma-Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acquacotta",
+            "tip": "Hagyományos zöldségleves, a maremmai pásztorok étele."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Acquacotta",
+            "tip": "O supă tradițională de legume a fermierilor din Maremma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Acquacotta",
+            "tip": "A traditional vegetable soup, the soul of Maremma cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Maremma-Naturpark",
+            "tip": "Nur 15 km Fahrt zu unberührten Stränden und Pinienwäldern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maremma Nemzeti Park",
+            "tip": "Csak 15 km autóval az érintetlen strandokig és fenyvesekig.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Maremma",
+            "tip": "La doar 15 km de condus până la plaje virgine și păduri de pini.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maremma Nature Park",
+            "tip": "A 15 km drive leads to untouched beaches and pine forests.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aurelia Antica Mall",
+            "tip": "Ein großes Einkaufszentrum am Stadtrand mit viel Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aurelia Antica Mall",
+            "tip": "Nagy bevásárlóközpont a város szélén, bőséges parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aurelia Antica Mall",
+            "tip": "Un centru comercial mare la marginea orașului, cu parcare vastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aurelia Antica Mall",
+            "tip": "A large shopping mall on the outskirts with ample parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie peinlich genau auf die ZTL-Schilder (Einfahrtsverbot ins Zentrum).",
+          "Der Parkplatz 'Piazza Esperanto' ist ideal für den Zugang zum Markt.",
+          "Nutzen Sie das Auto für einen Abstecher zur nahegelegenen Küste (Marina di Grosseto).",
+          "In Italien ist blau markierter Parkplatz gebührenpflichtig."
+        ],
+        "hu": [
+          "Figyeljen nagyon a ZTL táblákra (behajtási tilalom a belvárosba).",
+          "A 'Piazza Esperanto' parkoló ideális, ha a piacot is meg szeretné nézni.",
+          "Használja az autót egy kitérőre a közeli tengerpartra (Marina di Grosseto).",
+          "A kékkel jelölt parkolóhelyek Olaszországban fizetősek."
+        ],
+        "ro": [
+          "Atenție sporită la indicatoarele ZTL (acces interzis în centru).",
+          "Parcarea 'Piazza Esperanto' este ideală pentru accesul la piață.",
+          "Folosiți mașina pentru o escapadă la coasta apropiată (Marina di Grosseto).",
+          "Locurile de parcare marcate cu albastru sunt cu plată în Italia."
+        ],
+        "en": [
+          "Pay close attention to ZTL (Restricted Traffic Zone) signs to avoid fines.",
+          "The 'Piazza Esperanto' parking lot is ideal for reaching the local market.",
+          "Use the car to explore the nearby coast (Marina di Grosseto is just 12km away).",
+          "Blue-marked parking spaces in Italy require payment at a machine."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cattedrale di San Lorenzo",
+          "coords": [
+            11.1109,
+            42.7618
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Bahnhof bis zur Haltestelle 'Via Gramsci'.",
+            "hu": "Szálljon buszra az állomáson a 'Via Gramsci' megállóig.",
+            "ro": "Luați autobuzul de la gară până la stația 'Via Gramsci'.",
+            "en": "Take the local bus from the station to the 'Via Gramsci' stop."
+          }
+        },
+        {
+          "name": "Piazza Dante",
+          "coords": [
+            11.1106,
+            42.7618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt ist nur wenige Schritte von der Kathedrale entfernt.",
+            "hu": "A város szíve csak pár lépésre van a katedrálistól.",
+            "ro": "Inima orașului este la doar câțiva pași de catedrală.",
+            "en": "The heart of the city is just a few steps from the Cathedral."
+          }
+        },
+        {
+          "name": "Palazzo Aldobrandeschi",
+          "coords": [
+            11.1104,
+            42.7615
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für Fotos von der sienesischen Architektur.",
+            "hu": "Kiváló helyszín fotózni a sziénai stílusú építészetet.",
+            "ro": "Un loc excelent pentru fotografii cu arhitectura sieneză.",
+            "en": "A great spot for photos of the Sienese-style architecture."
+          }
+        },
+        {
+          "name": "Museo Archeologico e d'Arte della Maremma",
+          "coords": [
+            11.1101,
+            42.7621
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie das kostenlose WLAN im Museumsbereich.",
+            "hu": "Használja a múzeum területén elérhető ingyenes Wi-Fi-t.",
+            "ro": "Folosiți Wi-Fi-ul gratuit disponibil în zona muzeului.",
+            "en": "Make use of the free Wi-Fi available in the museum area."
+          }
+        },
+        {
+          "name": "Cassero Senese",
+          "coords": [
+            11.1132,
+            42.7631
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Stadtbusse verbinden das Zentrum mit den Bastionen.",
+            "hu": "A helyi buszok összekötik a központot a bástyákkal.",
+            "ro": "Autobuzele urbane leagă centrul de bastioane.",
+            "en": "Local buses connect the center with the various bastions."
+          }
+        },
+        {
+          "name": "Mura di Grosseto",
+          "coords": [
+            11.11,
+            42.76
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf die Stadt, bevor es zurück zum Bahnhof geht.",
+            "hu": "Még egy utolsó pillantás a városra a vasútállomásra indulás előtt.",
+            "ro": "O ultimă privire asupra orașului înainte de întoarcerea la gară.",
+            "en": "One last view of the city before heading back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erreichen Sie Grosseto bequem vom Bahnhof aus. Ihr Vormittag verbringen Sie im Cluster rund um die Kathedrale und die Piazza Dante, wo Sie auch das Archäologische Museum besuchen. Nach einer Mittagspause bringt Sie ein kurzer Bus-Hop zum Festungsviertel. Hier erkunden Sie das Cassero Senese und spazieren entlang der Mauern, bevor Sie bequem mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Tömegközlekedéssel kényelmesen elérheti Grossetót a vasútállomástól. A délelőttöt a katedrális és a Piazza Dante környékén tölti, ahol a Régészeti Múzeumot is megtekinti. Egy ebédszünet után egy rövid buszos utazással juthat el az erődnegyedbe. Itt felfedezi a Cassero Senesét és sétál a falakon, majd busszal kényelmesen visszatérhet az állomásra.",
+        "ro": "Cu transportul public, ajungeți ușor în Grosseto de la gară. Dimineața este petrecută în zona din jurul Catedralei și Piazza Dante, unde vizitați și Muzeul de Arheologie. După pauza de prânz, o scurtă cursă cu autobuzul vă duce spre cartierul fortăreței. Aici explorați Cassero Senese și vă plimbați pe ziduri, înainte de a reveni confortabil cu autobuzul la gară.",
+        "en": "Using public transit, you can easily reach Grosseto's center from the train station. Your morning is spent in the cluster around the Cathedral and Piazza Dante, where you'll also visit the Archaeological Museum. After lunch, a short bus hop takes you to the fortress district. Here, you'll explore the Cassero Senese and walk along the ramparts before heading back to the station by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panzanella",
+            "tip": "Ein erfrischender toskanischer Brotsalat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panzanella",
+            "tip": "Frissítő toszkán kenyérsaláta zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panzanella",
+            "tip": "O salată revigorantă de pâine toscană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panzanella",
+            "tip": "A refreshing Tuscan bread salad, perfect for summer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino dell'Archeologia",
+            "tip": "Ein kleiner Garten hinter dem Museum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régészeti kert",
+            "tip": "Egy apró, csendes kert a múzeum mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Arheologică",
+            "tip": "O grădină mică și liniștită în spatele muzeului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Archaeology Garden",
+            "tip": "A small, quiet garden located behind the museum.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Feinkost",
+            "tip": "Kaufen Sie Wildschwein-Salami in der Nähe von San Francesco."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi csemegék",
+            "tip": "Vásároljon vaddisznó szalámit a San Francesco közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Delicatese locale",
+            "tip": "Cumpărați salam de mistreț lângă San Francesco."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Delicacies",
+            "tip": "Buy some wild boar salami near the San Francesco church."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buskarten können Sie am Bahnhofskiosk oder per App 'Tabnet' kaufen.",
+          "Die Linien 1, 3 und 4 verbinden den Bahnhof direkt mit dem Stadtzentrum.",
+          "Entwerten Sie Ihr Ticket sofort nach dem Einsteigen im Bus.",
+          "Fahrpläne hängen an den meisten Haltestellen aus, sind aber oft nur Richtwerte."
+        ],
+        "hu": [
+          "Buszjegyet a vasútállomás újságosánál vagy a 'Tabnet' appon keresztül vehet.",
+          "Az 1-es, 3-as és 4-es vonalak közvetlenül összekötik az állomást a belvárossal.",
+          "A buszra szállás után azonnal érvényesítse a jegyét.",
+          "A menetrendek a legtöbb megállóban ki vannak függesztve, de gyakran csak tájékoztató jellegűek."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate de la chioșcul gării sau prin aplicația 'Tabnet'.",
+          "Liniile 1, 3 și 4 leagă direct gara de centrul orașului.",
+          "Validați biletul imediat după urcarea în autobuz.",
+          "Orarele sunt afișate în majoritatea stațiilor, dar sunt adesea doar orientative."
+        ],
+        "en": [
+          "Buy bus tickets at the station newsstand or via the 'Tabnet' app.",
+          "Lines 1, 3, and 4 connect the train station directly with the city center.",
+          "Always validate your ticket immediately after boarding the bus.",
+          "Schedules are posted at most stops, but use them as a general guide."
+        ]
+      }
+    }
+  }
+}

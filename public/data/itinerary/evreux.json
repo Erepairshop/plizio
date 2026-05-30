@@ -1,0 +1,1166 @@
+{
+  "city_id": "evreux",
+  "anchor": {
+    "name": "Évreux Centre",
+    "coords": [
+      1.151,
+      49.024
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul Ceasului",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            1.1502,
+            49.0254
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Flamboyant-Gotik aus dem 15. Jahrhundert.",
+            "hu": "A 15. századi gótikus torony a város egyik jelképe.",
+            "ro": "Un turn gotic superb din secolul al XV-lea, simbol al orașului.",
+            "en": "A 15th-century Gothic tower, a true symbol of the city's history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            1.1508,
+            49.0251
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Place de la Mairie.",
+            "hu": "Csodálja meg a városháza előtti tér elegáns építészetét.",
+            "ro": "Admirați arhitectura elegantă din Piața Primăriei.",
+            "en": "Take a moment to admire the elegant architecture of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            1.1512,
+            49.0242
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckenden Glasmalereien im Inneren.",
+            "hu": "Nézze meg a lenyűgöző 14-16. századi üvegablakokat.",
+            "ro": "Nu ratați vitraliile superbe din secolele XIV-XVI.",
+            "en": "Don't miss the stunning stained-glass windows from the 14th-16th centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art, Histoire et Archéologie",
+            "hu": "Művészeti és Régészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art, History and Archaeology"
+          },
+          "coords": [
+            1.1515,
+            49.0238
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im ehemaligen Bischofspalast.",
+            "hu": "A múzeum az egykori püspöki palotában kapott helyet.",
+            "ro": "Muzeul este găzduit în fostul palat episcopal.",
+            "en": "The museum is located in the beautiful former episcopal palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts d'Évreux",
+            "hu": "Városfalak",
+            "ro": "Zidurile cetății",
+            "en": "City Walls"
+          },
+          "coords": [
+            1.1525,
+            49.0233
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überreste der gallo-römischen Befestigungsanlagen.",
+            "hu": "A római kori városfalak maradványai a folyó mentén.",
+            "ro": "Rămășițele fortificațiilor gallo-romane de-a lungul râului.",
+            "en": "Admire the remains of the Gallo-Roman fortifications along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade de l'Iton",
+            "hu": "Iton-sétány",
+            "ro": "Promenada Iton",
+            "en": "Iton Promenade"
+          },
+          "coords": [
+            1.1535,
+            49.0262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang entlang der Wasserkanäle.",
+            "hu": "Kellemes séta a csatornák mentén a város szívében.",
+            "ro": "O plimbare relaxantă de-a lungul canalelor râului.",
+            "en": "A peaceful walk along the charming river channels in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Mitterrand",
+            "hu": "François Mitterrand park",
+            "ro": "Parcul François Mitterrand",
+            "en": "François Mitterrand Park"
+          },
+          "coords": [
+            1.1585,
+            49.0285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag im Grünen ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására a zöldben.",
+            "ro": "Locul ideal pentru a încheia ziua în mijlocul naturii.",
+            "en": "The perfect green space to relax and conclude your city exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Évreux. Der Vormittag steht im Zeichen der Architektur mit dem markanten Glockenturm und der majestätischen Kathedrale. Nach einem kulturellen Besuch im Bischofspalast spazieren Sie entlang der alten Stadtmauern. Der Nachmittag lädt zu einem entspannten Bummel entlang des Flusses Iton ein, bevor Sie im weitläufigen Stadtpark Ruhe finden.",
+        "hu": "Kezdje a napot Évreux történelmi központjában. A délelőtt az építészeté: az ikonikus óratorony és a fenséges katedrális lenyűgöző látványt nyújt. A püspöki palotában tett múzeumlátogatás után fedezze fel a római kori városfalakat. Délután tegyen egy frissítő sétát az Iton folyó csatornái mentén, majd pihenjen meg a város legnagyobb közparkjában.",
+        "ro": "Începeți ziua în centrul istoric al orașului Évreux. Dimineața este dedicată arhitecturii, cu emblematicul Turn al Ceasului și catedrala maiestuoasă. După o vizită culturală la palatul episcopal, plimbați-vă pe lângă zidurile vechi ale cetății. După-amiaza vă invită la o plimbare relaxantă de-a lungul râului Iton, înainte de a vă relaxa în parcul central.",
+        "en": "Start your day in the historic heart of Évreux. The morning focuses on architectural wonders like the Clock Tower and the grand Cathedral. After exploring the history of the region in the former episcopal palace, walk alongside the ancient Gallo-Roman walls. The afternoon offers a serene stroll along the Iton riverbanks, ending with a peaceful break in the city's main park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Jardin",
+            "tip": "Moderne französische Küche in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Probieren Sie den lokalen Apfelwein der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Atelier de l'Iton",
+            "tip": "Francia fogások közvetlenül a folyóparton."
+          },
+          {
+            "name": "Tarte Normande",
+            "tip": "Helyi almás lepény, ami kötelező normandiai édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Gazette",
+            "tip": "Bistro tradițional cu produse locale proaspete."
+          },
+          {
+            "name": "Brânză Camembert",
+            "tip": "Normandia este celebră pentru brânzeturile sale fine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 14",
+            "tip": "Excellent French bistro near the cathedral."
+          },
+          {
+            "name": "Calvados",
+            "tip": "A strong apple brandy local to the Normandy region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Iton",
+            "tip": "Ruhige Bänke am Wasser für eine kleine Pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc François Mitterrand",
+            "tip": "Große Grünflächen abseits des Trubels.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Iton-csatornák",
+            "tip": "Csendes padok a vízparton, tökéletes olvasáshoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Saint-Taurin környéke",
+            "tip": "A központtól távolabb eső, nyugodt városrész.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Iton",
+            "tip": "Locuri liniștite lângă apă pentru relaxare.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Parcul François Mitterrand",
+            "tip": "Oază de liniște cu copaci seculari.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Iton River Banks",
+            "tip": "Quiet spots by the water in the city center.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Cloisters",
+            "tip": "Peaceful atmosphere around the historic church.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché d'Évreux",
+            "tip": "Wochenmarkt mit regionalen Spezialitäten am Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Harpe",
+            "tip": "Sétálóutca helyi boltokkal és pékségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Primăriei",
+            "tip": "Locul ideal pentru a găsi suveniruri artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Downtown Boutiques",
+            "tip": "Small independent shops along the pedestrian streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Évreux ist sehr fußgängerfreundlich, das meiste liegt nah beieinander.",
+          "Besuchen Sie den Markt am Samstagvormittag für echte lokale Aromen.",
+          "Die Kathedrale schließt oft über die Mittagszeit, planen Sie dies ein.",
+          "Tragen Sie bequeme Schuhe für die Promenade entlang des Iton."
+        ],
+        "hu": [
+          "Évreux belvárosa könnyen bejárható gyalogosan.",
+          "A szombati piac kiváló alkalom a normandiai sajtok kóstolására.",
+          "A katedrális dél körül zárva tarthat, érdemes reggel vagy délután menni.",
+          "A folyóparti sétány néhol kavicsos, kényelmes cipő ajánlott."
+        ],
+        "ro": [
+          "Centrul orașului Évreux este ideal pentru a fi explorat la pas.",
+          "Piața de sâmbătă dimineața este perfectă pentru a descoperi produse locale.",
+          "Programul catedralei poate include o pauză la prânz.",
+          "Promenada de-a lungul râului Iton este foarte pitorească și relaxantă."
+        ],
+        "en": [
+          "Évreux is very walkable, with most main sights in a tight cluster.",
+          "Check out the Saturday morning market for authentic local products.",
+          "Be aware that some monuments may close briefly during lunch hours.",
+          "The Iton promenade is the highlight for a relaxing afternoon walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            1.1512,
+            49.0242
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Wahrzeichen der Stadt.",
+            "hu": "Kezdje a túrát a város fő jelképénél.",
+            "ro": "Începeți turul la simbolul orașului.",
+            "en": "Start your cycling tour at the city's main landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et Histoire",
+            "hu": "Művészeti és Régészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            1.1515,
+            49.0238
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sichere Fahrradparkplätze direkt am Museum.",
+            "hu": "Biztonságos biciklitárolók közvetlenül a múzeumnál.",
+            "ro": "Parcare sigură pentru biciclete chiar lângă muzeu.",
+            "en": "Safe bicycle parking is available directly by the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul Ceasului",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            1.1502,
+            49.0254
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Marktplatz.",
+            "hu": "Rövid megálló a főtéri piac közelében.",
+            "ro": "O scurtă oprire lângă piața centrală.",
+            "en": "A quick stop near the bustling central market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Taurin",
+            "hu": "Saint-Taurin templom",
+            "ro": "Biserica Saint-Taurin",
+            "en": "Saint-Taurin Church"
+          },
+          "coords": [
+            1.1412,
+            49.0246
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den goldenen Schrein des Heiligen Taurinus.",
+            "hu": "Nézze meg Szent Taurin aranyozott ereklyetartóját.",
+            "ro": "Admirați racla aurită a Sfântului Taurin.",
+            "en": "Admire the magnificent gilded shrine of Saint Taurin inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Iton",
+            "hu": "Ebéd az Iton partján",
+            "ro": "Prânz pe malul râului",
+            "en": "Lunch by the Iton"
+          },
+          "coords": [
+            1.1505,
+            49.0265
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Pause in einem der Cafés am Fluss.",
+            "hu": "Pihenő az egyik folyóparti kávézóban.",
+            "ro": "Pauză la una dintre cafenelele de pe malul râului.",
+            "en": "Enjoy a well-deserved break at a riverside café."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade de l'Iton",
+            "hu": "Iton-sétány",
+            "ro": "Promenada Iton",
+            "en": "Iton Promenade"
+          },
+          "coords": [
+            1.1555,
+            49.0275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie gemütlich entlang der Kanäle.",
+            "hu": "Tekerjen kényelmesen a csatornák mentén.",
+            "ro": "Pedalați relaxat de-a lungul canalelor.",
+            "en": "Enjoy a scenic ride along the charming river channels."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Mitterrand",
+            "hu": "François Mitterrand park",
+            "ro": "Parcul François Mitterrand",
+            "en": "François Mitterrand Park"
+          },
+          "coords": [
+            1.1585,
+            49.0285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Weite Wege ideal für Fahrräder.",
+            "hu": "Tágas utak, amelyek ideálisak biciklizéshez.",
+            "ro": "Alei largi, ideale pentru biciclete.",
+            "en": "Spacious paths that are perfect for a relaxed cycle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Évreux effizient und angenehm. Nach dem Start an der Kathedrale und dem Museum radeln Sie zum etwas abgelegenen, aber sehenswerten Saint-Taurin. Die Route führt Sie zurück ins Zentrum für ein Mittagessen am Wasser und anschließend über die malerische Promenade am Iton bis zum großen Stadtpark, wo Sie die Natur genießen können.",
+        "hu": "Biciklivel gyorsan és kényelmesen felfedezheti Évreux-t. A katedrális és a múzeum után tekerjen el a kicsit távolabb fekvő, de gyönyörű Saint-Taurin templomhoz. Az útvonal visszavezet a központba egy vízparti ebédre, majd a festői Iton-sétányon keresztül a város nagy parkjáig vezet, ahol élvezheti a természetet.",
+        "ro": "Cu bicicleta veți explora Évreux într-un mod eficient și plăcut. După startul de la catedrală și muzeu, pedalați spre biserica Saint-Taurin, aflată puțin mai departe, dar care merită vizitată. Traseul vă readuce în centru pentru un prânz lângă apă, apoi continuă pe promenada pitorească a râului Iton până la marele parc al orașului.",
+        "en": "Cycling is an efficient and pleasant way to see Évreux. After visiting the Cathedral and the Museum, head west to the stunning Saint-Taurin Church. The route brings you back to the center for a riverside lunch, followed by a scenic ride along the Iton channels to the large city park, where you can fully enjoy the natural surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Patisserie",
+            "tip": "Holen Sie sich ein Picknick für den Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti bisztrók",
+            "tip": "Kiváló helyek egy gyors ebédre két keréken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café de l'Iton",
+            "tip": "Loc perfect pentru o pauză revigorantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Grab some fresh pastries for a park picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc François Mitterrand",
+            "tip": "Viel Platz zum Ausruhen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Taurin környéke",
+            "tip": "Nyugodt és csendes kertvárosi rész.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Iton",
+            "tip": "Oază de verdeață în oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Iton Green Belt",
+            "tip": "Lush green areas along the river.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place de la Mairie",
+            "tip": "Kleine Läden in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi üzletek",
+            "tip": "Könnyen elérhető boltok a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul vechi",
+            "tip": "Magazine mici cu specific local."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Shops",
+            "tip": "Accessible boutiques in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Évreux hat flache Wege, ideal zum Radfahren.",
+          "Nutzen Sie die Promenade de l'Iton für eine verkehrsfreie Fahrt.",
+          "Schließen Sie Ihr Fahrrad an den vorgesehenen Bügeln ab.",
+          "Die Strecke zum Saint-Taurin ist kurz und gut befahrbar."
+        ],
+        "hu": [
+          "Évreux sík terepe ideális a kerékpározáshoz.",
+          "Használja az Iton-sétányt a forgalommentes közlekedéshez.",
+          "Mindig használjon lakatot a kijelölt tárolóknál.",
+          "A Saint-Taurin felé vezető út rövid és jól kitáblázott."
+        ],
+        "ro": [
+          "Relieful plat al orașului Évreux este perfect pentru ciclism.",
+          "Folosiți promenada Iton pentru a evita traficul auto.",
+          "Asigurați-vă bicicleta în locurile special amenajate.",
+          "Drumul spre Saint-Taurin este scurt și ușor de parcurs."
+        ],
+        "en": [
+          "Évreux is mostly flat, making it very bicycle-friendly.",
+          "Use the Iton promenade for a car-free and scenic route.",
+          "Always lock your bike at the designated parking stands.",
+          "The ride to Saint-Taurin is short and easy to navigate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale (Cluster Zentrum)",
+            "hu": "Katedrális (Belvárosi klaszter)",
+            "ro": "Catedrala (Cluster Centru)",
+            "en": "Cathedral (Center Cluster)"
+          },
+          "coords": [
+            1.1512,
+            49.0242
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Cathédrale'.",
+            "hu": "Parkoljon a 'Cathédrale' mélygarázsban.",
+            "ro": "Parcați în parcarea 'Cathédrale'.",
+            "en": "Park your car at the 'Cathédrale' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul Ceasului",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            1.1502,
+            49.0254
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Easily accessible on foot from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et Histoire",
+            "hu": "Művészeti és Régészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            1.1515,
+            49.0238
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale (Walk).",
+            "hu": "Közvetlenül a katedrális mellett (Gyalog).",
+            "ro": "Chiar lângă catedrală (mers pe jos).",
+            "en": "Located right next to the cathedral (walking distance)."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Taurin (Cluster West)",
+            "hu": "Saint-Taurin (Nyugati klaszter)",
+            "ro": "Saint-Taurin (Cluster Vest)",
+            "en": "Saint-Taurin (West Cluster)"
+          },
+          "coords": [
+            1.1412,
+            49.0246
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken direkt vor der Kirche möglich.",
+            "hu": "Parkolás közvetlenül a templom előtt lehetséges.",
+            "ro": "Parcare posibilă chiar în fața bisericii.",
+            "en": "Parking is usually available right in front of the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster West)",
+            "hu": "Ebéd (Nyugati klaszter)",
+            "ro": "Prânz (Cluster Vest)",
+            "en": "Lunch (West Cluster)"
+          },
+          "coords": [
+            1.143,
+            49.025
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lokale Bistros in der Nachbarschaft.",
+            "hu": "Helyi bisztrók a környéken.",
+            "ro": "Bistro-uri locale în vecinătate.",
+            "en": "Charming local bistros located in the neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Mitterrand (Cluster Ost)",
+            "hu": "Park (Keleti klaszter)",
+            "ro": "Parcul (Cluster Est)",
+            "en": "Park (East Cluster)"
+          },
+          "coords": [
+            1.1585,
+            49.0285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz am Eingang.",
+            "hu": "Nagy ingyenes parkoló a bejáratnál.",
+            "ro": "Parcare mare gratuită la intrare.",
+            "en": "Large free parking area located at the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade de l'Iton",
+            "hu": "Iton-sétány",
+            "ro": "Promenada Iton",
+            "en": "Iton Promenade"
+          },
+          "coords": [
+            1.1545,
+            49.0265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_at": "16:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschlussspaziergang am Wasser.",
+            "hu": "Záró séta a vízparton.",
+            "ro": "Plimbare finală pe lângă apă.",
+            "en": "A perfect concluding stroll along the riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt das Cluster-Prinzip: Parken Sie im Zentrum für die Kathedrale, den Glockenturm und das Museum. Danach fahren Sie in den Westen zur Kirche Saint-Taurin und genießen dort Ihr Mittagessen. Zum Abschluss besuchen Sie den großen Stadtpark im Osten und spazieren an der Promenade de l'Iton, bevor Sie den Tag entspannt beenden.",
+        "hu": "Ez az autós túra a klaszter-elvet alkalmazza: parkoljon a központban a katedrális, az óratorony és a múzeum megtekintéséhez. Ezután hajtson nyugatra a Saint-Taurin templomhoz, ahol az ebédet is elfogyaszthatja. Végül látogasson el a keleti nagy parkba és sétáljon az Iton partján, mielőtt befejezné a napot.",
+        "ro": "Acest tur auto folosește principiul clusterelor: parcați în centru pentru catedrală, turnul ceasului și muzeu. Apoi conduceți spre vest la biserica Saint-Taurin și luați prânzul în zonă. La final, vizitați marele parc din est și plimbați-vă pe promenada Iton înainte de a încheia ziua relaxat.",
+        "en": "This car tour follows a smart clustering strategy: park in the center to visit the Cathedral, Clock Tower, and Museum. Next, drive west to the Saint-Taurin Church and enjoy lunch in the vicinity. Finally, explore the large city park in the east and take a stroll along the Iton Promenade before wrapping up your day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge de l'Iton",
+            "tip": "Traditionelle Küche mit guten Parkmöglichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistrot de la Mairie",
+            "tip": "Klasszikus francia konyha a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant du Parc",
+            "tip": "Locație liniștită lângă zona verde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Normandy Grill",
+            "tip": "Local specialties with convenient parking nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc François Mitterrand",
+            "tip": "Ideal für eine Pause vom Fahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Iton-part",
+            "tip": "Nyugodt vízparti helyszín a belváros szélén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Saint-Taurin",
+            "tip": "Curtea interioară liniștită a bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Iton River Path",
+            "tip": "Peaceful riverside walking paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Cora",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői bolt",
+            "tip": "Kiváló normandiai sajtok és italok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Musée",
+            "tip": "Suveniruri culturale deosebite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Évreux Shops",
+            "tip": "Large retail area on the outskirts of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkhaus 'Cathédrale' ist der beste Ausgangspunkt für das Zentrum.",
+          "Die Fahrzeiten zwischen den Clustern sind kurz (unter 10 Min).",
+          "Achten Sie auf Einbahnstraßen im historischen Kern.",
+          "Parken am Saint-Taurin ist oft kostenlos."
+        ],
+        "hu": [
+          "A 'Cathédrale' parkolóház a legjobb bázis a központhoz.",
+          "A klaszterek közötti menetidő rövid, általában 10 perc alatti.",
+          "Figyeljen az egyirányú utcákra a történelmi városmagban.",
+          "A Saint-Taurin templomnál a parkolás gyakran ingyenes."
+        ],
+        "ro": [
+          "Parcarea 'Cathédrale' este cel mai bun punct de pornire pentru centru.",
+          "Timpii de condus între clustere sunt scurți (sub 10 min).",
+          "Atenție la străzile cu sens unic din centrul istoric.",
+          "Parcarea la Saint-Taurin este adesea gratuită."
+        ],
+        "en": [
+          "The 'Cathédrale' parking garage is the ideal base for the center.",
+          "Driving times between clusters are very short (under 10 mins).",
+          "Watch out for one-way streets in the old town center.",
+          "Parking near Saint-Taurin is usually free of charge."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale (Zentrum)",
+            "hu": "Katedrális (Központ)",
+            "ro": "Catedrala (Centru)",
+            "en": "Cathedral (Center)"
+          },
+          "coords": [
+            1.1512,
+            49.0242
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Haupthaltestelle 'Hôtel de Ville' in der Nähe.",
+            "hu": "A központi 'Hôtel de Ville' megálló van a közelben.",
+            "ro": "Stația centrală 'Hôtel de Ville' este în apropiere.",
+            "en": "The central 'Hôtel de Ville' stop is located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et Histoire",
+            "hu": "Művészeti és Régészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            1.1515,
+            49.0238
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus bequem zu Fuß.",
+            "hu": "A központból könnyen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos din centru.",
+            "en": "Easily reached on foot from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Óratorony",
+            "ro": "Turnul Ceasului",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            1.1502,
+            49.0254
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wahrzeichen direkt an der Buslinie.",
+            "hu": "A jelkép közvetlenül a buszvonal mentén található.",
+            "ro": "Simbol situat chiar pe linia de autobuz.",
+            "en": "This landmark is located right along the bus route."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Taurin",
+            "hu": "Saint-Taurin templom",
+            "ro": "Biserica Saint-Taurin",
+            "en": "Saint-Taurin Church"
+          },
+          "coords": [
+            1.1412,
+            49.0246
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie T2 hält fast vor der Tür.",
+            "hu": "A T2-es busz szinte a bejáratnál áll meg.",
+            "ro": "Linia T2 oprește aproape în fața intrării.",
+            "en": "The T2 bus line stops almost right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Place de la Mairie",
+            "hu": "Ebéd a Városháza térnél",
+            "ro": "Prânz în Piața Primăriei",
+            "en": "Lunch at Town Hall Square"
+          },
+          "coords": [
+            1.1505,
+            49.025
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Knotenpunkt für viele Buslinien.",
+            "hu": "Számos buszvonal találkozási pontja.",
+            "ro": "Nod principal pentru multe linii de autobuz.",
+            "en": "A major hub for many of the local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Mitterrand",
+            "hu": "François Mitterrand park",
+            "ro": "Parcul François Mitterrand",
+            "en": "François Mitterrand Park"
+          },
+          "coords": [
+            1.1585,
+            49.0285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Busfahrt zum grünen Stadtrand.",
+            "hu": "Buszozás a zöld városrészbe.",
+            "ro": "Călătorie cu autobuzul spre zona verde.",
+            "en": "Take a short bus ride to this lush green area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das 'Transurbain'-Bussystem in Évreux verbindet alle wichtigen Punkte. Starten Sie im Zentrum (Kathedrale, Museum, Uhrturm). Nehmen Sie den Bus zum Saint-Taurin-Viertel im Westen und kehren Sie für das Mittagessen zum Rathausplatz zurück. Den Nachmittag verbringen Sie im weitläufigen Mitterrand-Park, der ebenfalls gut angebunden ist.",
+        "hu": "Az Évreux-i 'Transurbain' buszhálózat minden fontos pontot összeköt. Kezdjen a központban (katedrális, múzeum, óratorony). Szálljon buszra a nyugati Saint-Taurin negyedbe, majd térjen vissza ebédre a Városháza térre. A délutánt töltse a tágas Mitterrand parkban, amely szintén jól megközelíthető busszal.",
+        "ro": "Rețeaua de autobuze 'Transurbain' din Évreux conectează toate punctele importante. Începeți în centru (catedrală, muzeu, turnul ceasului). Luați autobuzul spre cartierul Saint-Taurin din vest și reveniți pentru prânz în Piața Primăriei. După-amiaza o puteți petrece în parcul Mitterrand, care este de asemenea bine deservit.",
+        "en": "The 'Transurbain' bus system in Évreux efficiently connects all the key sights. Begin your day in the center with the Cathedral, Museum, and Clock Tower. Take a bus to the Saint-Taurin district in the west, then return to the Town Hall square for lunch. Spend your afternoon at the expansive Mitterrand Park, which is also very well-connected by transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot du Centre",
+            "tip": "Gute Küche in der Nähe der zentralen Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Iton Gourmand",
+            "tip": "Helyi finomságok a közlekedési csomópontnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café des Arts",
+            "tip": "Loc perfect pentru un prânz rapid între autobuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Station Grill",
+            "tip": "Hearty meals near the main transit hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Iton-Promenade",
+            "tip": "Kurzer Spaziergang zwischen den Haltestellen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mitterrand park",
+            "tip": "Ideális csendes pihenő a buszos utak után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Episcopală",
+            "tip": "Loc liniștit lângă muzeu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Benches",
+            "tip": "Peaceful seating areas throughout the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Harpe",
+            "tip": "Einkaufsstraße direkt im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi sétálóutca",
+            "tip": "Sok kis bolt a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală",
+            "tip": "Magazine variate în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedestrian District",
+            "tip": "Many local shops near the central bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Busfahrer.",
+          "Die Haltestelle 'Hôtel de Ville' ist der zentrale Umsteigepunkt.",
+          "Busse fahren unter der Woche häufiger als am Wochenende.",
+          "Nutzen Sie die App des 'Transurbain' für Echtzeit-Infos."
+        ],
+        "hu": [
+          "Vásároljon napijegyet közvetlenül a buszsofőrnél.",
+          "A 'Hôtel de Ville' megálló a központi átszállási pont.",
+          "A buszok hétköznap gyakrabban járnak, mint hétvégén.",
+          "Használja a 'Transurbain' alkalmazást a valós idejű menetrendhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer.",
+          "Stația 'Hôtel de Ville' este punctul central de transfer.",
+          "Autobuzele circulă mai des în timpul săptămânii.",
+          "Folosiți aplicația 'Transurbain' pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a day ticket directly from the bus driver for convenience.",
+          "The 'Hôtel de Ville' stop is the main transit hub for transfers.",
+          "Buses run more frequently during the week than on weekends.",
+          "Download the 'Transurbain' app for real-time schedule updates."
+        ]
+      }
+    }
+  }
+}

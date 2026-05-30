@@ -1,0 +1,960 @@
+{
+  "city_id": "dillingen-extra",
+  "anchor": {
+    "name": "Dillingen (Saar) Stadtzentrum",
+    "coords": [
+      49.3526,
+      6.7262
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Dillingen",
+          "coords": [
+            49.3551,
+            6.7225
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gründerzeitliche Architektur des Bahnhofsgebäudes.",
+            "hu": "Csodálja meg a pályaudvar historizáló épületét.",
+            "ro": "Admirați arhitectura istorică a clădirii gării.",
+            "en": "Admire the historicist architecture of the station building."
+          }
+        },
+        {
+          "name": "Lokschuppen",
+          "coords": [
+            49.3535,
+            6.7248
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein altes Bahndepot, das heute als modernes Kulturzentrum dient.",
+            "hu": "Régi mozdonyraktár, amely ma kulturális központ.",
+            "ro": "Un vechi depou feroviar transformat în centru cultural.",
+            "en": "An old engine shed now serving as a cultural hub."
+          }
+        },
+        {
+          "name": "Saardom (Heilig-Sakrament)",
+          "coords": [
+            49.3495,
+            6.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die größte Kirche des Saarlandes mit beeindruckender Doppelturmfassade.",
+            "hu": "Saar-vidék legnagyobb temploma monumentális kettős toronnyal.",
+            "ro": "Cea mai mare biserică din Saarland, cu turnuri duble impresionante.",
+            "en": "The largest church in Saarland with a massive twin-tower facade."
+          }
+        },
+        {
+          "name": "Odilienbrunnen",
+          "coords": [
+            49.3485,
+            6.7275
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein symbolischer Brunnen, benannt nach der Schutzpatronin der Blinden.",
+            "hu": "Szimbolikus kút, a vakok védőszentjéről elnevezve.",
+            "ro": "Fântână simbolică numită după patroana nevăzătorilor.",
+            "en": "A symbolic fountain named after the patron saint of the blind."
+          }
+        },
+        {
+          "name": "Altes Schloss",
+          "coords": [
+            49.3472,
+            6.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schloss und den angrenzenden historischen Park.",
+            "hu": "Látogassa meg a kastélyt és a hozzá tartozó történelmi parkot.",
+            "ro": "Vizitați castelul și parcul istoric adiacent.",
+            "en": "Visit the castle and the adjacent historical park."
+          }
+        },
+        {
+          "name": "Dillinger Stadtpark",
+          "coords": [
+            49.3455,
+            6.7355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Abschluss im Grünen.",
+            "hu": "Ideális hely a zöldben való pihenéshez a nap végén.",
+            "ro": "Ideal pentru o relaxare în natură la finalul zilei.",
+            "en": "Perfect for a relaxing finish surrounded by nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dillingen verbindet auf faszinierende Weise Industriegeschichte mit sakraler Monumentalität. Der Morgen beginnt am Bahnhof und führt zum Lokschuppen, einem Zeugnis der Eisenbahntradition. Mittags beeindruckt der Saardom, bevor es zum ruhigeren Schlossbezirk und in den weitläufigen Stadtpark geht.",
+        "hu": "Dillingen izgalmas keveréke az ipari örökségnek és a monumentális építészetnek. A reggel a vasúti emlékekkel indul a Lokschuppen környékén, majd a hatalmas Saardom bűvöli el a látogatót. A délután a kastély és a városi park zöld övezetében telik, távol a gyár lüktetésétől.",
+        "ro": "Dillingen îmbină fascinant istoria industrială cu monumentalitatea sacră. Dimineața începe la gară și continuă spre Lokschuppen, un martor al tradiției feroviare. La prânz, Saardom impresionează prin dimensiuni, urmat de o după-amiază liniștită la Castelul Vechi și în parcul orașului.",
+        "en": "Dillingen offers a fascinating blend of industrial heritage and monumental architecture. Start your morning with railway history at Lokschuppen. Midday is dominated by the massive Saardom cathedral, while the afternoon is spent in the peaceful castle district and the lush city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwenkbraten",
+            "tip": "Probieren Sie das typisch saarländische Grillgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schwenkbraten",
+            "tip": "Kóstolja meg a jellegzetes saar-vidéki roston sült húst."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schwenkbraten",
+            "tip": "Gustați faimoasa friptură la grătar specifică regiunii Saar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schwenkbraten",
+            "tip": "Try the typical Saarland grilled meat specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ruhige Bänke unter alten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes padok az ősfák árnyékában.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Bănci liniștite sub copaci seculari.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Quiet benches under ancient trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Spezialitäten direkt aus dem Saarland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek közvetlenül a Saar-vidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Specialități regionale direct din Saarland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional specialties directly from Saarland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist flach und sehr gut zu Fuß zu erkunden.",
+          "Kombinieren Sie den Besuch des Lokschuppens mit aktuellen Veranstaltungen.",
+          "Der Saardom ist am besten am Vormittag beleuchtet."
+        ],
+        "hu": [
+          "A város sík, így gyalogosan is kényelmesen bejárható.",
+          "Érdemes megnézni a Lokschuppen aktuális programnaptárát.",
+          "A Saardom délelőtti fényekben a legszebb."
+        ],
+        "ro": [
+          "Orașul este plat și foarte ușor de explorat pe jos.",
+          "Verificați evenimentele curente de la Lokschuppen înainte de vizită.",
+          "Saardom este cel mai bine luminat în timpul dimineții."
+        ],
+        "en": [
+          "The city is flat and very easy to explore on foot.",
+          "Check the current events calendar for Lokschuppen before visiting.",
+          "The Saardom is best illuminated in the morning hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Saardom",
+          "coords": [
+            49.3495,
+            6.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt an der imposanten Kathedrale.",
+            "hu": "Kezdőpont az impozáns székesegyháznál.",
+            "ro": "Punct de plecare la catedrala impunătoare.",
+            "en": "Starting point at the imposing cathedral."
+          }
+        },
+        {
+          "name": "Altes Schloss",
+          "coords": [
+            49.3472,
+            6.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum historischen Adelssitz.",
+            "hu": "Rövid tekerés a történelmi nemesi székhelyig.",
+            "ro": "Scurtă plimbare până la reședința istorică.",
+            "en": "Short ride to the historic noble seat."
+          }
+        },
+        {
+          "name": "Stadtpark",
+          "coords": [
+            49.3455,
+            6.7355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radwege führen durch die gepflegte Anlage.",
+            "hu": "Kerékpárutak vezetnek át a gondozott parkon.",
+            "ro": "Piste de biciclete prin parcul bine întreținut.",
+            "en": "Bike paths lead through the well-kept grounds."
+          }
+        },
+        {
+          "name": "Dillinger Hütte (Tor 1)",
+          "coords": [
+            49.3585,
+            6.7185
+          ],
+          "category": "industry",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spüren Sie die gewaltige Dimension des Stahlwerks.",
+            "hu": "Érezze az acélmű hatalmas méreteit a kapunál.",
+            "ro": "Simțiți dimensiunea uriașă a oțelăriei la poartă.",
+            "en": "Feel the massive scale of the steelworks at the gate."
+          }
+        },
+        {
+          "name": "Tessenow-Haus",
+          "coords": [
+            49.3565,
+            6.7215
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Meisterwerk der Reformarchitektur.",
+            "hu": "A reformépítészet remekműve.",
+            "ro": "Capodoperă a arhitecturii reformiste.",
+            "en": "A masterpiece of reform architecture."
+          }
+        },
+        {
+          "name": "Lokschuppen",
+          "coords": [
+            49.3535,
+            6.7248
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Industriecharme trifft auf Kultur.",
+            "hu": "Ipari báj és kultúra találkozása.",
+            "ro": "Șarmul industrial întâlnește cultura.",
+            "en": "Industrial charm meets culture."
+          }
+        },
+        {
+          "name": "Bahnhof Dillingen",
+          "coords": [
+            49.3551,
+            6.7225
+          ],
+          "category": "industry",
+          "arrive_at": "14:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zielort mit Radabstellplätzen.",
+            "hu": "Célállomás kerékpártárolókkal.",
+            "ro": "Destinație cu spații de parcare pentru biciclete.",
+            "en": "Destination with bike parking facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie von der religiösen Pracht des Saardoms bis zu den stählernen Riesen der Dillinger Hütte. Genießen Sie die Kontraste zwischen den grünen Parkanlagen und der rauen Industriekultur, ergänzt durch architektonische Highlights wie das Tessenow-Haus.",
+        "hu": "Ez a kerékpártúra a Saardom vallási pompájától a Dillinger Hütte acélóriásaiig vezet. Élvezze a zöld parkok és a nyers ipari kultúra közötti kontrasztot, kiegészítve olyan építészeti gyöngyszemekkel, mint a Tessenow-ház.",
+        "ro": "Acest tur cu bicicleta vă poartă de la splendoarea religioasă a Saardom la giganții de oțel ai Dillinger Hütte. Bucurați-vă de contrastele dintre parcurile verzi și cultura industrială aspră, completate de atracții arhitecturale precum Casa Tessenow.",
+        "en": "This bike tour takes you from the religious grandeur of the Saardom to the steel giants of the Dillinger Hütte. Enjoy the contrasts between lush parks and raw industrial culture, complemented by architectural highlights like the Tessenow House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Park",
+            "tip": "Erfrischung für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sörkert a parknál",
+            "tip": "Frissítő a bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădină de vară lângă parc",
+            "tip": "Răcoritoare pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beer Garden by the Park",
+            "tip": "Refreshments for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saarufer",
+            "tip": "Ruhiger Weg entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saar-part",
+            "tip": "Csendes út a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Saar",
+            "tip": "Drum liniștit de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saar Riverbank",
+            "tip": "Quiet path along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radladen Dillingen",
+            "tip": "Zubehör und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dillingeni kerékpárbolt",
+            "tip": "Kiegészítők és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Dillingen",
+            "tip": "Accessories and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Saar.",
+          "Trinken Sie ausreichend Wasser, besonders bei der Tour am Stahlwerk.",
+          "Ein Fahrradschloss ist an allen Stopps notwendig."
+        ],
+        "hu": [
+          "Használja a Saar menti jól kiépített kerékpárutakat.",
+          "Igyon elég vizet, főleg az acélmű környékén.",
+          "Minden megállónál kötelező a kerékpárzár."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete bine amenajate de-a lungul râului Saar.",
+          "Beți suficientă apă, mai ales în zona oțelăriei.",
+          "Un sistem de blocare a bicicletei este necesar la toate opririle."
+        ],
+        "en": [
+          "Use the well-developed bike paths along the Saar river.",
+          "Drink plenty of water, especially during the tour near the steelworks.",
+          "A bike lock is necessary at all stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Saardom",
+          "coords": [
+            49.3495,
+            6.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Marktplatz.",
+            "hu": "Parkoljon közvetlenül a piactéren.",
+            "ro": "Parcați direct în piața centrală.",
+            "en": "Park directly at the market square."
+          }
+        },
+        {
+          "name": "Odilienbrunnen",
+          "coords": [
+            49.3485,
+            6.7275
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Saardom.",
+            "hu": "Rövid séta a Saardomtól.",
+            "ro": "Scurtă plimbare de la Saardom.",
+            "en": "Short walk from the Saardom."
+          }
+        },
+        {
+          "name": "Altes Schloss",
+          "coords": [
+            49.3472,
+            6.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historisches Ambiente im Zentrum.",
+            "hu": "Történelmi hangulat a központban.",
+            "ro": "Ambiantă istorică în centru.",
+            "en": "Historical atmosphere in the center."
+          }
+        },
+        {
+          "name": "Stadtpark",
+          "coords": [
+            49.3455,
+            6.7355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Eingang vorhanden.",
+            "hu": "Parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare disponibilă chiar la intrare.",
+            "en": "Parking available right at the entrance."
+          }
+        },
+        {
+          "name": "Dillinger Hütte (Blickpunkt)",
+          "coords": [
+            49.3625,
+            6.7155
+          ],
+          "category": "industry",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Aussichtspunkt auf das Werk.",
+            "hu": "Autózás a gyárra néző kilátóponthoz.",
+            "ro": "Drum spre punctul de observație asupra uzinei.",
+            "en": "Drive to the viewpoint overlooking the plant."
+          }
+        },
+        {
+          "name": "Tessenow-Haus",
+          "coords": [
+            49.3565,
+            6.7215
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einfach erreichbar im Wohnviertel.",
+            "hu": "Könnyen elérhető a lakónegyedben.",
+            "ro": "Ușor accesibil în zona rezidențială.",
+            "en": "Easily accessible in the residential area."
+          }
+        },
+        {
+          "name": "Lokschuppen",
+          "coords": [
+            49.3535,
+            6.7248
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großer Parkplatz für Besucher.",
+            "hu": "Nagy parkoló a látogatóknak.",
+            "ro": "Parcare mare pentru vizitatori.",
+            "en": "Large parking lot for visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dillingen mit dem Auto zu erkunden, erlaubt den schnellen Wechsel zwischen dem urbanen Zentrum und den beeindruckenden Industrieanlagen. Nach dem Besuch des monumentalen Saardoms führt die Route zum Schloss und Stadtpark, bevor die Fahrt zum gigantischen Stahlwerk und dem architektonisch wertvollen Tessenow-Haus abrundet.",
+        "hu": "Dillingen autóval történő felfedezése lehetővé teszi a gyors váltást a városközpont és a lenyűgöző ipari létesítmények között. A monumentális Saardom megtekintése után az út a kastélyhoz és a városi parkhoz vezet, majd az óriási acélmű és az építészetileg értékes Tessenow-ház látványával zárul.",
+        "ro": "Explorarea orașului Dillingen cu mașina permite schimbarea rapidă între centrul urban și instalațiile industriale impresionante. După vizitarea monumentalului Saardom, traseul duce la castel și parcul orașului, înainte de a încheia cu vizualizarea giganticei oțelării și a valoroasei Case Tessenow.",
+        "en": "Exploring Dillingen by car allows for quick transitions between the urban center and impressive industrial sites. After visiting the monumental Saardom, the route leads to the castle and city park, finishing with a look at the massive steelworks and the architecturally significant Tessenow House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Schloss",
+            "tip": "Gehobene Küche in historischem Rahmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a kastélynál",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul de la castel",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant at the Castle",
+            "tip": "Fine dining in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Werk",
+            "tip": "Industriepanorama bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ipari kilátópont",
+            "tip": "Ipari panoráma naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere uzină",
+            "tip": "Panoramă industrială la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Industry Viewpoint",
+            "tip": "Industrial panorama at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fachgeschäfte Zentrum",
+            "tip": "Kostenloses Parken oft möglich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi szaküzletek",
+            "tip": "Gyakran ingyenes parkolás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine specializate centru",
+            "tip": "Parcare gratuită adesea posibilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Shops",
+            "tip": "Free parking often available."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkzonen mit Parkscheibe im Zentrum.",
+          "Die Dillinger Hütte ist besonders nachts spektakulär beleuchtet.",
+          "Kombinieren Sie die Tour mit einem Ausflug zur Saarschleife (30 Min Fahrt)."
+        ],
+        "hu": [
+          "Ügyeljen a parkolótárcsás zónákra a központban.",
+          "A Dillinger Hütte éjszaka látványosan ki van világítva.",
+          "Érdemes összekötni a túrát a Saarschleife meglátogatásával (30 perc autóval)."
+        ],
+        "ro": [
+          "Atenție la zonele de parcare cu disc în centru.",
+          "Oțelăria este iluminată spectaculos mai ales noaptea.",
+          "Combinați turul cu o excursie la Saarschleife (30 min de mers cu mașina)."
+        ],
+        "en": [
+          "Watch for parking disc zones in the city center.",
+          "The steelworks are spectacularly lit up at night.",
+          "Combine the tour with a trip to the Saarschleife (30 min drive)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Dillingen",
+          "coords": [
+            49.3551,
+            6.7225
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit Busknotenpunkt.",
+            "hu": "Központi érkezési pont buszcsatlakozásokkal.",
+            "ro": "Punct central de sosire cu nod de autobuze.",
+            "en": "Central arrival point with bus hub."
+          }
+        },
+        {
+          "name": "Lokschuppen",
+          "coords": [
+            49.3535,
+            6.7248
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus bequem zu Fuß erreichbar.",
+            "hu": "A vasútállomástól kényelmesen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": "Saardom",
+          "coords": [
+            49.3495,
+            6.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Bus zum Marktplatz.",
+            "hu": "Használja a helyi buszt a piactérig.",
+            "ro": "Folosiți autobuzul urban până în piață.",
+            "en": "Use the city bus to the market square."
+          }
+        },
+        {
+          "name": "Altes Schloss",
+          "coords": [
+            49.3472,
+            6.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Saardom durch das Zentrum.",
+            "hu": "Rövid séta a Saardomtól a központon át.",
+            "ro": "Scurtă plimbare de la Saardom prin centru.",
+            "en": "Short walk from the Saardom through the center."
+          }
+        },
+        {
+          "name": "Stadtpark",
+          "coords": [
+            49.3455,
+            6.7355
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt am Parkeingang.",
+            "hu": "Buszmegálló közvetlenül a park bejáratánál.",
+            "ro": "Stație de autobuz chiar la intrarea în parc.",
+            "en": "Bus stop right at the park entrance."
+          }
+        },
+        {
+          "name": "Bahnhof Dillingen",
+          "coords": [
+            49.3551,
+            6.7225
+          ],
+          "category": "industry",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Bus zum Bahnhof.",
+            "hu": "Visszautazás busszal a pályaudvarra.",
+            "ro": "Întoarcere cu autobuzul la gară.",
+            "en": "Return by bus to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dillingen ist hervorragend an das regionale Verkehrsnetz angebunden. Diese Route nutzt den Bahnhof als Basis und verbindet die kulturellen Highlights im Zentrum. Dank kurzer Wege und einer guten Taktung der Stadtbusse lassen sich Saardom, Schloss und Stadtpark stressfrei ohne Auto erleben.",
+        "hu": "Dillingen kiválóan kapcsolódik a regionális közlekedési hálózathoz. Ez az útvonal a pályaudvart használja bázisként, és összeköti a központi kulturális helyszíneket. A rövid távolságoknak és a jó buszközlekedésnek köszönhetően a Saardom, a kastély és a park autó nélkül is kényelmesen bejárható.",
+        "ro": "Dillingen este excelent conectat la rețeaua regională de transport. Acest traseu folosește gara ca bază și conectează principalele atracții culturale din centru. Datorită distanțelor scurte și frecvenței bune a autobuzelor, Saardom, castelul și parcul pot fi vizitate fără stres, fără mașină.",
+        "en": "Dillingen is excellently connected to the regional transport network. This route uses the station as a base and connects the cultural highlights in the center. Thanks to short distances and good bus frequency, the Saardom, castle, and park can be experienced stress-free without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Snacks für Pendler und Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró a pályaudvarnál",
+            "tip": "Gyors falatok utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la gară",
+            "tip": "Gustări rapide pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bistro",
+            "tip": "Quick snacks for travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lesehalle im Stadtpark",
+            "tip": "Ruhiger Ort zum Verweilen.",
+            "emoji": "📖"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasóterem a parkban",
+            "tip": "Csendes hely az időtöltéshez.",
+            "emoji": "📖"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sala de lectură din parc",
+            "tip": "Loc liniștit pentru relaxare.",
+            "emoji": "📖"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading Hall in the Park",
+            "tip": "Quiet place to spend time.",
+            "emoji": "📖"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbuchhandlung",
+            "tip": "Reiselektüre und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari könyvesbolt",
+            "tip": "Úti könyvek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din gară",
+            "tip": "Cărți de călătorie și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bookstore",
+            "tip": "Travel books and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Saar-Mobil App für aktuelle Fahrpläne.",
+          "Ein Tagesticket der KVS ist oft günstiger als Einzelfahrten.",
+          "Der Busbahnhof (ZOB) befindet sich direkt am Bahnhofseingang."
+        ],
+        "hu": [
+          "Használja a Saar-Mobil alkalmazást a menetrendekhez.",
+          "A KVS napijegye gyakran olcsóbb, mint a külön jegyek.",
+          "A buszpályaudvar (ZOB) közvetlenül a vasútállomás mellett van."
+        ],
+        "ro": [
+          "Utilizați aplicația Saar-Mobil pentru orarul actualizat.",
+          "Un bilet de o zi KVS este adesea mai ieftin decât călătoriile individuale.",
+          "Autogara (ZOB) se află chiar la intrarea în gară."
+        ],
+        "en": [
+          "Use the Saar-Mobil app for up-to-date schedules.",
+          "A KVS day ticket is often cheaper than single fares.",
+          "The bus station (ZOB) is located right at the station entrance."
+        ]
+      }
+    }
+  }
+}

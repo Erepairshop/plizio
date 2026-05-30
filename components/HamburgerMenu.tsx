@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { createPortal } from "react-dom";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -87,8 +88,12 @@ const TITLE: Record<Lang, string> = {
 
 export default function HamburgerMenu() {
   const [open, setOpen] = useState(false);
+  const [mounted, setMounted] = useState(false);
   const { lang } = useLang();
   const l = (lang as Lang) ?? "de";
+
+  // Portal target only available after mount (static export has no DOM at build).
+  useEffect(() => { setMounted(true); }, []);
 
   // Lock body scroll when open
   useEffect(() => {
@@ -113,8 +118,10 @@ export default function HamburgerMenu() {
         <Menu size={18} className="text-white/80" />
       </motion.button>
 
-      {/* Drawer */}
-      <AnimatePresence>
+      {/* Drawer — portaled to <body> so an ancestor's transform (entrance
+          animation wrapper) can't become its containing block and shrink it. */}
+      {mounted && createPortal(
+        <AnimatePresence>
         {open && (
           <>
             {/* Backdrop */}
@@ -123,7 +130,8 @@ export default function HamburgerMenu() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               onClick={() => setOpen(false)}
-              className="fixed inset-0 z-[100] bg-black/60 backdrop-blur-sm"
+              className="fixed inset-0 bg-black/60 backdrop-blur-sm"
+              style={{ zIndex: 100 }}
             />
             {/* Panel */}
             <motion.aside
@@ -131,8 +139,8 @@ export default function HamburgerMenu() {
               animate={{ x: 0 }}
               exit={{ x: "-100%" }}
               transition={{ type: "spring", damping: 26, stiffness: 260 }}
-              className="fixed top-0 left-0 z-[101] h-full w-[85%] max-w-sm border-r border-white/10 flex flex-col"
-              style={{ background: "#0A0A1A" }}
+              className="fixed top-0 left-0 border-r border-white/10 flex flex-col"
+              style={{ background: "#0A0A1A", zIndex: 101, width: "85%", maxWidth: "24rem", height: "100%" }}
             >
               <header className="flex items-center justify-between px-5 py-4 border-b border-white/10">
                 <h2 className="text-white/90 font-black text-lg">{TITLE[l]}</h2>
@@ -175,7 +183,9 @@ export default function HamburgerMenu() {
             </motion.aside>
           </>
         )}
-      </AnimatePresence>
+        </AnimatePresence>,
+        document.body
+      )}
     </>
   );
 }

@@ -1,0 +1,1039 @@
+{
+  "city_id": "husum-extra",
+  "anchor": {
+    "name": "Husum",
+    "coords": [
+      9.0514,
+      54.477
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marienkirche",
+          "coords": [
+            9.0515,
+            54.4773
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Architektur von Hansen.",
+            "hu": "Csodáld meg Hansen klasszicista építészetét.",
+            "ro": "Admirați arhitectura neoclasică a lui Hansen.",
+            "en": "Admire the Neoclassical architecture by Hansen."
+          }
+        },
+        {
+          "name": "Tine-Brunnen",
+          "coords": [
+            9.0511,
+            54.4771
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen am Marktplatz, ideal für ein schnelles Foto.",
+            "hu": "A piactér jelképe, ideális egy gyors fotóhoz.",
+            "ro": "Simbolul pieței centrale, ideal pentru o fotografie rapidă.",
+            "en": "The landmark of the market square, ideal for a quick photo."
+          }
+        },
+        {
+          "name": "Husumer Binnenhafen",
+          "coords": [
+            9.051,
+            54.476
+          ],
+          "category": "port",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie das bunte Treiben und die Krabbenkutter.",
+            "hu": "Élvezd a nyüzsgést és a rákászhajók látványát.",
+            "ro": "Bucurați-vă de agitația portului și de bărcile de pescuit.",
+            "en": "Enjoy the colorful hustle and the shrimp cutters."
+          }
+        },
+        {
+          "name": "Theodor-Storm-Haus",
+          "coords": [
+            9.049,
+            54.4755
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt des Dichters der 'Grauen Stadt'.",
+            "hu": "Merülj el a 'Szürke város' költőjének világában.",
+            "ro": "Explorați lumea poetului 'Orașului gri'.",
+            "en": "Immerse yourself in the world of the poet of the 'Grey City'."
+          }
+        },
+        {
+          "name": "Schifffahrtsmuseum Nordfriesland",
+          "coords": [
+            9.046,
+            54.476
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Wrack der 'Uelvesbüller Wrack' im Keller.",
+            "hu": "Nézd meg az uelvesbülli hajóroncsot az alagsorban.",
+            "ro": "Vedeți epava din Uelvesbüll în subsolul muzeului.",
+            "en": "See the Uelvesbüll shipwreck in the basement."
+          }
+        },
+        {
+          "name": "Schloss vor Husum",
+          "coords": [
+            9.052,
+            54.4815
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Berühmt für die Krokusblüte im Frühjahr im Schlosspark.",
+            "hu": "Híres a tavaszi krókuszvirágzásról a kastélyparkban.",
+            "ro": "Faimos pentru înflorirea crocusului primăvara în parcul castelului.",
+            "en": "Famous for the crocus blooming in spring in the castle park."
+          }
+        },
+        {
+          "name": "NordseeMuseum Husum",
+          "coords": [
+            9.048,
+            54.478
+          ],
+          "category": "museums",
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über Rungholt und das Leben am Deich.",
+            "hu": "Tudj meg mindent Rungholtról és a gát menti életről.",
+            "ro": "Aflați totul despre Rungholt și viața pe dig.",
+            "en": "Learn everything about Rungholt and life on the dike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden wir das historische Herz rund um die Marienkirche und den idyllischen Binnenhafen. Nachmittags widmen wir uns der Literatur im Storm-Haus und der maritimen Geschichte. Den Abschluss bildet das prächtige Schloss und das NordseeMuseum, bevor wir den Abend bei frischen Krabben am Hafen ausklingen lassen.",
+        "hu": "Délelőtt a Marienkirche körüli történelmi magot és az idilli belső kikötőt fedezzük fel. Délután a Storm-ház irodalmának és a tengerészeti történelemnek szenteljük időnket. A napot a pompás kastély és az Északi-tenger Múzeum zárja, mielőtt a kikötőben friss rákokkal búcsúztatnánk az estét.",
+        "ro": "Dimineața explorăm centrul istoric din jurul Marienkirche și portul interior idilic. După-amiaza ne dedicăm literaturii în casa lui Storm și istoriei maritime. Ziua se încheie cu splendidul castel și Muzeul Mării Nordului, înainte de a savura o seară cu creveți proaspeți în port.",
+        "en": "In the morning, we explore the historical heart around Marienkirche and the idyllic inner harbor. The afternoon is dedicated to literature in the Storm House and maritime history. We conclude the day with the magnificent castle and the North Sea Museum before ending the evening with fresh shrimp at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Dragseth’s",
+            "tip": "Ältestes Gasthaus mit nordfriesischen Spezialitäten."
+          },
+          {
+            "name": "Fischhaus Loof",
+            "tip": "Frische Krabbenbrötchen direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Dragseth’s",
+            "tip": "A legrégebbi vendéglő észak-fríz specialitásokkal."
+          },
+          {
+            "name": "Fischhaus Loof",
+            "tip": "Friss rákos zsemle közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Dragseth’s",
+            "tip": "Cea mai veche pensiune cu specialități din Frizia de Nord."
+          },
+          {
+            "name": "Fischhaus Loof",
+            "tip": "Sandvișuri cu creveți proaspeți chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Dragseth’s",
+            "tip": "Oldest inn with North Frisian specialties."
+          },
+          {
+            "name": "Fischhaus Loof",
+            "tip": "Fresh shrimp rolls directly at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Besonders ruhig abseits der Krokusblüte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dockkoog",
+            "tip": "Ein Spaziergang am Deich bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Különösen nyugodt a krókuszvirágzáson kívül.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dockkoog",
+            "tip": "Séta a gáton naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Deosebit de liniștit în afara sezonului crocusului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dockkoog",
+            "tip": "O plimbare pe dig la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Particularly quiet outside the crocus season.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dockkoog",
+            "tip": "A walk on the dike at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Husumer Tee-Kontor",
+            "tip": "Echte friesische Teemischungen."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Donnerstags auf dem Marktplatz für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Husumer Tee-Kontor",
+            "tip": "Eredeti fríz teakeverékek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Csütörtökönként a piactéren regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Husumer Tee-Kontor",
+            "tip": "Amestecuri autentice de ceai frizian."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Joia în piața centrală pentru produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Husumer Tee-Kontor",
+            "tip": "Authentic Frisian tea blends."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Thursdays on the market square for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Husum ist kompakt, man kann alles bequem zu Fuß erreichen.",
+          "Achten Sie auf die Gezeiten, der Hafen kann bei Ebbe fast leer sein.",
+          "Ein Pharisäer (Kaffee mit Rum) gehört zum Pflichtprogramm.",
+          "Tragen Sie windfeste Kleidung, es weht fast immer eine Brise."
+        ],
+        "hu": [
+          "Husum kompakt, minden kényelmesen elérhető gyalog.",
+          "Figyeld az árapályt, apálykor a kikötő majdnem üres lehet.",
+          "Egy Pharisäer (rumos kávé) kötelező program.",
+          "Viselj szélálló ruházatot, szinte mindig fúj a szél."
+        ],
+        "ro": [
+          "Husum este compact, puteți ajunge peste tot pe jos.",
+          "Atenție la maree, portul poate fi aproape gol la reflux.",
+          "Un Pharisäer (cafea cu rom) este obligatoriu.",
+          "Purtați haine rezistente la vânt, bate aproape mereu briza."
+        ],
+        "en": [
+          "Husum is compact, everything is easily reachable on foot.",
+          "Watch the tides; the harbor can be almost empty at low tide.",
+          "A Pharisäer (coffee with rum) is a must-try.",
+          "Wear windproof clothing; there is almost always a breeze."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Husumer Binnenhafen",
+          "coords": [
+            9.051,
+            54.476
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für die Radtour.",
+            "hu": "Tökéletes kiindulópont a kerékpártúrához.",
+            "ro": "Punct de plecare perfect pentru turul cu bicicleta.",
+            "en": "Perfect starting point for the bike tour."
+          }
+        },
+        {
+          "name": "Theodor-Storm-Haus",
+          "coords": [
+            9.049,
+            54.4755
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Stopp beim berühmten Dichter.",
+            "hu": "Rövid megálló a híres költőnél.",
+            "ro": "O scurtă oprire la celebrul poet.",
+            "en": "Short stop at the famous poet's house."
+          }
+        },
+        {
+          "name": "Schloss vor Husum",
+          "coords": [
+            9.052,
+            54.4815
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie entspannt durch den Schlosspark.",
+            "hu": "Kerekezz kényelmesen a kastélyparkon keresztül.",
+            "ro": "Pedalați relaxat prin parcul castelului.",
+            "en": "Cycle relaxed through the castle park."
+          }
+        },
+        {
+          "name": "Wasserturm Husum",
+          "coords": [
+            9.06,
+            54.482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Aussichtspunkt und historisches Denkmal.",
+            "hu": "Kilátópont és történelmi emlékmű.",
+            "ro": "Punct de observație și monument istoric.",
+            "en": "Viewpoint and historical monument."
+          }
+        },
+        {
+          "name": "Dockkoog / Nordseeküste",
+          "coords": [
+            9.015,
+            54.475
+          ],
+          "category": "beach",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrt am Deich mit Blick auf das Wattenmeer.",
+            "hu": "Gát menti tekerés kilátással a Watt-tengerre.",
+            "ro": "Plimbare pe dig cu vedere la Marea Watt.",
+            "en": "Ride on the dike with a view of the Wadden Sea."
+          }
+        },
+        {
+          "name": "Schifffahrtsmuseum Nordfriesland",
+          "coords": [
+            9.046,
+            54.476
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Maritimer Ausklang der Tour.",
+            "hu": "A túra tengerészeti lezárása.",
+            "ro": "Finalul maritim al turului.",
+            "en": "Maritime conclusion of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir erst das Zentrum, bevor wir zum Wasserturm und dann weit hinaus an den Dockkoog fahren. Die weite Sicht über das Wattenmeer und die frische Brise am Deich machen diese Tour aus.",
+        "hu": "Kerékpárral először a központot fedezzük fel, mielőtt a víztoronyhoz, majd messze ki a Dockkooghoz tekernénk. A Watt-tengerre nyíló tágas kilátás és a gáton fújó friss szellő teszi különlegessé ezt a túrát.",
+        "ro": "Cu bicicleta explorăm mai întâi centrul, înainte de a merge la turnul de apă și apoi departe la Dockkoog. Vederea panoramică asupra Mării Watt și briza proaspătă de pe dig definesc acest tur.",
+        "en": "By bike, we first explore the center before cycling to the water tower and then far out to Dockkoog. The wide view over the Wadden Sea and the fresh breeze on the dike define this tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm-Kontor",
+            "tip": "Regionale Fleischspezialitäten in Hafennähe."
+          },
+          {
+            "name": "Eiscafé Giovanni",
+            "tip": "Beliebt für eine Pause am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lamm-Kontor",
+            "tip": "Regionális hússpecialitások a kikötő közelében."
+          },
+          {
+            "name": "Eiscafé Giovanni",
+            "tip": "Népszerű pihenőhely a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lamm-Kontor",
+            "tip": "Specialități regionale din carne lângă port."
+          },
+          {
+            "name": "Eiscafé Giovanni",
+            "tip": "Popular pentru o pauză în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamm-Kontor",
+            "tip": "Regional meat specialties near the harbor."
+          },
+          {
+            "name": "Eiscafé Giovanni",
+            "tip": "Popular for a break at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deichvorland",
+            "tip": "Endlose Weite am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gát előtti terület",
+            "tip": "Végtelen tágasság a víznél.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona din fața digului",
+            "tip": "Întindere nesfârșită lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dike foreland",
+            "tip": "Endless expanse by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Friesen-Salz",
+            "tip": "Regionales Meersalz als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friesen-Salz",
+            "tip": "Regionális tengeri só ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friesen-Salz",
+            "tip": "Sare de mare regională ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friesen-Salz",
+            "tip": "Regional sea salt as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrräder können am Bahnhof gemietet werden.",
+          "Gegenwind am Deich kann sehr anstrengend sein, E-Bikes empfohlen.",
+          "Nutzen Sie die gut ausgeschilderten Radwege Richtung Nordstrand."
+        ],
+        "hu": [
+          "Kerékpárok a vasútállomáson bérelhetők.",
+          "A szembe szél a gáton fárasztó lehet, az elektromos kerékpár ajánlott.",
+          "Használd a jól kitáblázott kerékpárutakat Nordstrand felé."
+        ],
+        "ro": [
+          "Bicicletele pot fi închiriate de la gară.",
+          "Vântul din față pe dig poate fi obositor, se recomandă biciclete electrice.",
+          "Utilizați pistele de biciclete bine semnalizate spre Nordstrand."
+        ],
+        "en": [
+          "Bicycles can be rented at the train station.",
+          "Headwinds on the dike can be very exhausting; E-bikes are recommended.",
+          "Use the well-signposted bike paths towards Nordstrand."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Husumer Binnenhafen (Cluster A)",
+          "coords": [
+            9.051,
+            54.476
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken am Parkhaus am Hafen.",
+            "hu": "Parkolás a kikötői parkolóházban.",
+            "ro": "Parcare la etaj în port.",
+            "en": "Parking at the harbor parking garage."
+          }
+        },
+        {
+          "name": "Marienkirche (Cluster A)",
+          "coords": [
+            9.0515,
+            54.4773
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wenige Gehminuten vom Hafenparkplatz.",
+            "hu": "Pár perc séta a kikötői parkolótól.",
+            "ro": "Câteva minute de mers pe jos de la parcarea din port.",
+            "en": "A few minutes' walk from the harbor parking lot."
+          }
+        },
+        {
+          "name": "Theodor-Storm-Haus (Cluster A)",
+          "coords": [
+            9.049,
+            54.4755
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie die Altstadtgassen zu Fuß.",
+            "hu": "Fedezd fel az óváros utcáit gyalog.",
+            "ro": "Explorați străzile orașului vechi pe jos.",
+            "en": "Explore the old town alleys on foot."
+          }
+        },
+        {
+          "name": "Schloss vor Husum (Cluster B)",
+          "coords": [
+            9.052,
+            54.4815
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Schloss verfügbar.",
+            "hu": "Parkoló közvetlenül a kastélynál elérhető.",
+            "ro": "Parcare disponibilă direct la castel.",
+            "en": "Parking available directly at the castle."
+          }
+        },
+        {
+          "name": "NordseeMuseum Husum (Cluster B)",
+          "coords": [
+            9.048,
+            54.478
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang vom Schloss durch die Einkaufsstraße.",
+            "hu": "Séta a kastélytól a bevásárlóutcán át.",
+            "ro": "Plimbare de la castel prin strada comercială.",
+            "en": "Walk from the castle through the shopping street."
+          }
+        },
+        {
+          "name": "Wasserturm Husum (Cluster C)",
+          "coords": [
+            9.06,
+            54.482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Rande der Stadt.",
+            "hu": "Rövid megálló a város szélén.",
+            "ro": "O scurtă oprire la marginea orașului.",
+            "en": "Short stop at the edge of town."
+          }
+        },
+        {
+          "name": "Dockkoogspitze (Cluster C)",
+          "coords": [
+            9.01,
+            54.474
+          ],
+          "category": "beach",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Deich, ideal für Nordsee-Blick.",
+            "hu": "Nagy parkoló a gátnál, ideális kilátás az Északi-tengerre.",
+            "ro": "Parcare mare la dig, ideală pentru vederea la Marea Nordului.",
+            "en": "Large parking lot at the dike, ideal for North Sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir die Highlights des Zentrums mit den Außenbezirken. Wir parken zentral für den Hafen und das Storm-Haus, wechseln dann zum Schloss und fahren schließlich zum Wasserturm und direkt an die Nordsee am Dockkoog.",
+        "hu": "Autóval összekötjük a központ fénypontjait a külső negyedekkel. Központi helyen parkolunk a kikötőhöz és a Storm-házhoz, majd átváltunk a kastélyhoz, végül a víztoronyhoz és közvetlenül az Északi-tengerhez hajtunk a Dockkoognál.",
+        "ro": "Cu mașina conectăm atracțiile centrului cu zonele exterioare. Parcăm central pentru port și casa lui Storm, apoi ne mutăm la castel și în final mergem la turnul de apă și direct la Marea Nordului la Dockkoog.",
+        "en": "By car, we connect the highlights of the center with the outskirts. We park centrally for the harbor and Storm House, then move to the castle and finally drive to the water tower and directly to the North Sea at Dockkoog."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Krabbenfischer",
+            "tip": "Frisch vom Kutter im Hafenbecken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krabbenfischer",
+            "tip": "Frissen a rákászhajóról a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Krabbenfischer",
+            "tip": "Creveți proaspeți direct de pe barcă în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krabbenfischer",
+            "tip": "Fresh from the cutter in the harbor basin."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wasserturm Park",
+            "tip": "Ruhiges Grün abseits der Touristenpfade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Víztorony park",
+            "tip": "Csendes zöldövezet a turistaösvényeken kívül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Turnului de Apă",
+            "tip": "Verdeață liniștită în afara traseelor turistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Water Tower Park",
+            "tip": "Quiet greenery off the beaten path.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "THEO Shopping Center",
+            "tip": "Modernes Einkaufszentrum im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "THEO Shopping Center",
+            "tip": "Modern bevásárlóközpont a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "THEO Shopping Center",
+            "tip": "Centru comercial modern în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "THEO Shopping Center",
+            "tip": "Modern shopping mall in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist kostenpflichtig, Parkhäuser nutzen.",
+          "Die Straße zum Dockkoog ist gut ausgebaut.",
+          "In der Hochsaison kann es in der Hafenstraße eng werden."
+        ],
+        "hu": [
+          "A központban a parkolás fizetős, használd a parkolóházakat.",
+          "A Dockkooghoz vezető út jól kiépített.",
+          "Főszezonban a kikötői utca zsúfolt lehet."
+        ],
+        "ro": [
+          "Parcarea în centru este contra cost, folosiți parcările etajate.",
+          "Drumul către Dockkoog este bine întreținut.",
+          "În plin sezon, strada portului poate deveni aglomerată."
+        ],
+        "en": [
+          "Parking in the center is paid; use parking garages.",
+          "The road to Dockkoog is well-developed.",
+          "During peak season, the harbor street can get crowded."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Husum Bahnhof / Binnenhafen (District A)",
+          "coords": [
+            9.055,
+            54.475
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Der Bahnhof liegt sehr nah am Hafen.",
+            "hu": "A vasútállomás nagyon közel van a kikötőhöz.",
+            "ro": "Gara este foarte aproape de port.",
+            "en": "The train station is very close to the harbor."
+          }
+        },
+        {
+          "name": "Marienkirche (District A)",
+          "coords": [
+            9.0515,
+            54.4773
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß durch die Fußgängerzone vom Hafen.",
+            "hu": "Gyalog a sétálóutcán át a kikötőtől.",
+            "ro": "Pe jos prin zona pietonală de la port.",
+            "en": "On foot through the pedestrian zone from the harbor."
+          }
+        },
+        {
+          "name": "Schloss vor Husum (District B)",
+          "coords": [
+            9.052,
+            54.4815
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Stadtbus-Linie 1061 Richtung Schloss.",
+            "hu": "1061-es városi busz a kastély felé.",
+            "ro": "Linia de autobuz 1061 spre castel.",
+            "en": "City bus line 1061 towards the castle."
+          }
+        },
+        {
+          "name": "NordseeMuseum Husum (District B)",
+          "coords": [
+            9.048,
+            54.478
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Schlosspark.",
+            "hu": "Rövid séta a kastélyparktól.",
+            "ro": "Scurtă plimbare de la parcul castelului.",
+            "en": "Short walk from the castle park."
+          }
+        },
+        {
+          "name": "Schifffahrtsmuseum Nordfriesland (District C)",
+          "coords": [
+            9.046,
+            54.476
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bus zurück Richtung Hafen nutzen.",
+            "hu": "Használd a buszt vissza a kikötő felé.",
+            "ro": "Folosiți autobuzul înapoi spre port.",
+            "en": "Use the bus back towards the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof aus nutzen wir die kurzen Wege und den Stadtbus. Wir besuchen den Hafen und die Kirche im Zentrum, nehmen dann den Bus zum Schloss und erkunden die Museen der Stadt, bevor es zurück zum Bahnhof geht.",
+        "hu": "A vasútállomásról indulva a rövid utakat és a városi buszt használjuk. Meglátogatjuk a kikötőt és a templomot a központban, majd busszal megyünk a kastélyhoz és felfedezzük a város múzeumait, mielőtt visszatérnénk az állomásra.",
+        "ro": "Plecând de la gară, folosim distanțele scurte și autobuzul urban. Vizităm portul și biserica din centru, apoi luăm autobuzul spre castel și explorăm muzeele orașului înainte de a ne întoarce la gară.",
+        "en": "Starting from the train station, we use the short distances and the city bus. We visit the harbor and church in the center, then take the bus to the castle and explore the city's museums before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Schneller Snack vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Gyors snack indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "O gustare rapidă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Quick snack before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marienkirchhof",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marienkirchhof",
+            "tip": "Csendes tér a templom mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Marienkirche",
+            "tip": "Loc liniștit în spatele bisericii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marienkirche Courtyard",
+            "tip": "Quiet spot behind the church.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbuchhandlung",
+            "tip": "Große Auswahl an maritimen Magazinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasúti könyvesbolt",
+            "tip": "Nagy választék tengerészeti magazinokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din gară",
+            "tip": "O selecție mare de reviste maritime."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bookstore",
+            "tip": "Large selection of maritime magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse fahren meist im 30-Minuten-Takt.",
+          "Ein Tagesticket lohnt sich für Gruppen.",
+          "Viele Wege im Zentrum sind auch mit ÖPNV-Nutzung zu Fuß am schnellsten."
+        ],
+        "hu": [
+          "A buszok általában 30 percenként járnak.",
+          "A napijegy megéri csoportoknak.",
+          "A központban sok út gyalog a leggyorsabb a tömegközlekedés mellett is."
+        ],
+        "ro": [
+          "Autobuzele circulă de obicei la fiecare 30 de minute.",
+          "Un bilet de o zi merită pentru grupuri.",
+          "Multe trasee din centru sunt mai rapide pe jos, chiar și folosind transportul public."
+        ],
+        "en": [
+          "Buses usually run every 30 minutes.",
+          "A day ticket is worthwhile for groups.",
+          "Many paths in the center are fastest on foot, even when using public transit."
+        ]
+      }
+    }
+  }
+}

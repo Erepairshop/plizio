@@ -1,0 +1,1237 @@
+{
+  "city_id": "germany-offenburg-cities-v2",
+  "anchor": {
+    "name": "Offenburg Marktplatz",
+    "coords": [
+      7.945,
+      48.471
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fischmarkt",
+            "hu": "Halpiac",
+            "ro": "Piața de pește",
+            "en": "Fish Market"
+          },
+          "coords": [
+            7.944,
+            48.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Brunnen ist ein beliebter Treffpunkt.",
+            "hu": "A szökőkút kedvelt találkozóhely.",
+            "ro": "Fântâna este un loc de întâlnire popular.",
+            "en": "The fountain is a popular meeting spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Offenburger Rathaus",
+            "hu": "Offenburgi városháza",
+            "ro": "Primăria din Offenburg",
+            "en": "Offenburg City Hall"
+          },
+          "coords": [
+            7.945,
+            48.471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Barockfassade von 1741.",
+            "hu": "Figyelje meg az 1741-es barokk homlokzatot.",
+            "ro": "Admirați fațada barocă din 1741.",
+            "en": "Note the Baroque facade from 1741."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andreas Church"
+          },
+          "coords": [
+            7.946,
+            48.47
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spätgotische Elemente treffen auf Barock.",
+            "hu": "Késő gótikus és barokk elemek találkozása.",
+            "ro": "Elemente gotice târzii se îmbină cu barocul.",
+            "en": "Late Gothic elements meet Baroque style."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Ritterhaus",
+            "hu": "Ritterhaus Múzeum",
+            "ro": "Muzeul din Casa Cavalerilor",
+            "en": "Museum in the Knight's House"
+          },
+          "coords": [
+            7.947,
+            48.469
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die naturkundliche Sammlung ist beeindruckend.",
+            "hu": "A természettudományi gyűjtemény lenyűgöző.",
+            "ro": "Colecția de istorie naturală este impresionantă.",
+            "en": "The natural history collection is impressive."
+          }
+        },
+        {
+          "name": {
+            "de": "Salmen",
+            "hu": "Salmen",
+            "ro": "Salmen",
+            "en": "Salmen"
+          },
+          "coords": [
+            7.943,
+            48.468
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wiege der deutschen Demokratiegeschichte.",
+            "hu": "A német demokrácia történetének bölcsője.",
+            "ro": "Leagănul istoriei democrației germane.",
+            "en": "Cradle of German democratic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Grab-Kloster",
+            "hu": "Szent Sír-kolostor",
+            "ro": "Mănăstirea Sfântului Mormânt",
+            "en": "Holy Sepulchre Monastery"
+          },
+          "coords": [
+            7.942,
+            48.469
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe mitten in der Stadt.",
+            "hu": "A nyugalom szigete a város közepén.",
+            "ro": "Un loc de liniște în centrul orașului.",
+            "en": "A place of peace in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Vinzentiusgarten",
+            "hu": "Vinzentius-kert",
+            "ro": "Grădina Vinzentius",
+            "en": "Vinzentius Garden"
+          },
+          "coords": [
+            7.948,
+            48.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wunderschöne Rosen- und Heilkräuterbeete.",
+            "hu": "Gyönyörű rózsa- és gyógynövényágyások.",
+            "ro": "Straturi superbe de trandafiri și ierburi.",
+            "en": "Beautiful rose and medicinal herb beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwingerpark",
+            "hu": "Zwingerpark",
+            "ro": "Parcul Zwinger",
+            "en": "Zwinger Park"
+          },
+          "coords": [
+            7.949,
+            48.473
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Abschluss.",
+            "hu": "Ideális egy pihentető befejezéshez.",
+            "ro": "Ideal pentru un final relaxant.",
+            "en": "Ideal for a relaxed conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den historischen Fischmarkt und das prachtvolle Barockrathaus. Mittags tauchen Sie in der St. Andreas Kirche und im Ritterhaus-Museum in die regionale Geschichte ein. Der Nachmittag gehört der deutschen Demokratiegeschichte im Salmen und der klösterlichen Ruhe. Zum Ausklang genießen Sie die gepflegten Gärten am Vinzentiusgarten und Zwingerpark bei einem badischen Glas Wein.",
+        "hu": "A reggelt a történelmi Halpiacon és a pazar barokk városházánál kezdjük. Délben a Szent András-templomban és a Ritterhaus Múzeumban merülhetünk el a környék múltjában. A délután a német demokrácia bölcsője, a Salmen és a kolostori nyugalom jegyében telik. A napot a Vinzentius-kert és a Zwingerpark gondozott zöldjében zárjuk, egy pohár badeni bor társaságában.",
+        "ro": "Dimineața începe în Piața de pește și la primăria barocă monumentală. La prânz, explorați istoria regională la Biserica Sf. Andrei și la Muzeul Ritterhaus. După-amiaza este dedicată istoriei democrației la Salmen și liniștii monahale. Finalul zilei vă găsește în Grădina Vinzentius și Parcul Zwinger, locuri perfecte pentru relaxare cu un pahar de vin local.",
+        "en": "Start your morning at the historic Fish Market and the grand Baroque City Hall. At midday, dive into regional history at St. Andreas Church and the Knight's House Museum. The afternoon focuses on democratic history at Salmen and monastic peace. End your day wandering through the manicured Vinzentius Garden and Zwinger Park, ideally with a glass of local Baden wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Badischer Flammkuchen",
+            "tip": "Hauchdünn mit Speck und Zwiebeln."
+          },
+          {
+            "name": "Durbacher Riesling",
+            "tip": "Regionaler Spitzenwein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badeni Flammkuchen",
+            "tip": "Hajszálvékony tészta szalonnával és hagymával."
+          },
+          {
+            "name": "Durbacher Riesling",
+            "tip": "Helyi prémium fehérbor a közeli lankákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flammkuchen din Baden",
+            "tip": "Aluat foarte subțire cu slănină și ceapă."
+          },
+          {
+            "name": "Riesling de Durbach",
+            "tip": "Vin alb local de calitate superioară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baden Flammkuchen",
+            "tip": "Wafer-thin dough with bacon and onions."
+          },
+          {
+            "name": "Durbacher Riesling",
+            "tip": "Top-tier regional white wine from nearby slopes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vinzentiusgarten",
+            "tip": "Stille Oase mit Blick auf die Stadtmauer.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinzentius-kert",
+            "tip": "Csendes oázis rálátással a városfalra.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Vinzentius",
+            "tip": "Oază de liniște cu vedere la zidul cetății.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinzentius Garden",
+            "tip": "A quiet oasis with views of the old city wall.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Dienstags und samstags auf dem Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kedden és szombaton a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Marțea și sâmbăta în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Tuesday and Saturday at the market square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist fast komplett Fußgängerzone.",
+          "Parken Sie am besten im Parkhaus Altstadt-Zentrum.",
+          "Probieren Sie unbedingt die Durbacher Weine.",
+          "Samstags ist Markttag - ideal für lokale Produkte."
+        ],
+        "hu": [
+          "A belváros szinte teljes egészében sétálóövezet.",
+          "Legjobb az Altstadt-Zentrum parkolóházban megállni.",
+          "Mindenképpen kóstolja meg a közeli Durbach borait.",
+          "A szombati piac kiváló a helyi termékek beszerzésére."
+        ],
+        "ro": [
+          "Centrul orașului este aproape în totalitate pietonal.",
+          "Cea mai bună parcare este Altstadt-Zentrum.",
+          "Nu ratați degustarea vinurilor din Durbach.",
+          "Sâmbăta este zi de piață - ideală pentru produse locale."
+        ],
+        "en": [
+          "The city center is almost entirely a pedestrian zone.",
+          "Best parking is at the Altstadt-Zentrum parking garage.",
+          "Be sure to try the local wines from nearby Durbach.",
+          "Saturday is market day - perfect for local specialties."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fischmarkt",
+            "hu": "Halpiac",
+            "ro": "Piața de pește",
+            "en": "Fish Market"
+          },
+          "coords": [
+            7.944,
+            48.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Guter Startpunkt für Touren ins Umland.",
+            "hu": "Kiváló kiindulópont a környéki túrákhoz.",
+            "ro": "Punct bun de plecare pentru excursii în împrejurimi.",
+            "en": "Great starting point for tours in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Ritterhaus",
+            "hu": "Ritterhaus Múzeum",
+            "ro": "Muzeul din Casa Cavalerilor",
+            "en": "Museum in the Knight's House"
+          },
+          "coords": [
+            7.947,
+            48.469
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Gebäude.",
+            "hu": "Kerékpártároló közvetlenül az épület előtt.",
+            "ro": "Suporturi de biciclete direct în fața clădirii.",
+            "en": "Bike racks located directly in front of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andreas Church"
+          },
+          "coords": [
+            7.946,
+            48.47
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp in der kühlen Kirche.",
+            "hu": "Rövid pihenő a hűvös templomban.",
+            "ro": "O scurtă oprire în răcoarea bisericii.",
+            "en": "A brief stop in the cool church interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ortenberg (Umland)",
+            "hu": "Ortenberg vára (környék)",
+            "ro": "Castelul Ortenberg (împrejurimi)",
+            "en": "Ortenberg Castle (vicinity)"
+          },
+          "coords": [
+            7.971,
+            48.444
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Panoramablick über das Kinzigtal.",
+            "hu": "Panoráma kilátás a Kinzig-völgyre.",
+            "ro": "Vedere panoramică asupra văii Kinzig.",
+            "en": "Panoramic view over the Kinzig Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Grab-Kloster",
+            "hu": "Szent Sír-kolostor",
+            "ro": "Mănăstirea Sfântului Mormânt",
+            "en": "Holy Sepulchre Monastery"
+          },
+          "coords": [
+            7.942,
+            48.469
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Ruhiger Rückzugsort nach der Fahrt.",
+            "hu": "Csendes menedék a tekerés után.",
+            "ro": "Refugiu liniștit după plimbare.",
+            "en": "Quiet retreat after the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Salmen",
+            "hu": "Salmen",
+            "ro": "Salmen",
+            "en": "Salmen"
+          },
+          "coords": [
+            7.943,
+            48.468
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentral gelegen und gut erreichbar.",
+            "hu": "Központi fekvésű, könnyen elérhető.",
+            "ro": "Locație centrală și ușor accesibilă.",
+            "en": "Centrally located and easy to reach."
+          }
+        },
+        {
+          "name": {
+            "de": "Vinzentiusgarten",
+            "hu": "Vinzentius-kert",
+            "ro": "Grădina Vinzentius",
+            "en": "Vinzentius Garden"
+          },
+          "coords": [
+            7.948,
+            48.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause im Grünen.",
+            "hu": "Tökéletes pihenőhely a zöldben.",
+            "ro": "Perfect pentru o pauză în verdeață.",
+            "en": "Perfect for a break in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwingerpark",
+            "hu": "Zwingerpark",
+            "ro": "Parcul Zwinger",
+            "en": "Zwinger Park"
+          },
+          "coords": [
+            7.949,
+            48.473
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang der Parkanlage.",
+            "hu": "Szép kerékpárút a park mentén.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul parcului.",
+            "en": "Nice bike path along the park area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet die Altstadt-Highlights mit einem Abstecher zum Schloss Ortenberg. Am Morgen besuchen Sie den Fischmarkt und das Ritterhaus, bevor Sie gemütlich durch die Weinberge nach Ortenberg radeln. Nach dem Panoramablick geht es zurück in die Stadt zum Salmen und den erholsamen Parks. Eine perfekte Mischung aus Kultur und Bewegung in der Natur.",
+        "hu": "Ez a túra az óváros látnivalóit ötvözi egy kirándulással az Ortenberg-kastélyhoz. Reggel a Halpiacot és a Ritterhaus-t keressük fel, majd kényelmesen áttekerünk a szőlőhegyeken Ortenbergbe. A panoráma után visszatérünk a városba a Salmenhez és a pihentető parkokhoz. A kultúra és a természetbeli mozgás tökéletes egyvelege.",
+        "ro": "Acest tur îmbină punctele forte ale centrului vechi cu o escapadă la Castelul Ortenberg. Dimineața vizitați Piața de pește și Ritterhaus, apoi pedalați relaxat prin vii către Ortenberg. După panorama superbă, reveniți în oraș pentru Salmen și parcurile liniștite. O combinație ideală de cultură și activitate în natură.",
+        "en": "This tour blends old town highlights with a side trip to Ortenberg Castle. Start at the Fish Market and Knight's House before a scenic bike ride through vineyards to Ortenberg. After enjoying the views, cycle back to the city for Salmen and the relaxing parks. A perfect mix of culture and outdoor activity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzwälder Schinken",
+            "tip": "Perfekt für das Picknick zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete-erdei sonka",
+            "tip": "Tökéletes uzsonna útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă din Pădurea Neagră",
+            "tip": "Perfectă pentru un picnic pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Forest Ham",
+            "tip": "Perfect for a snack during the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge Ortenberg",
+            "tip": "Ruhe mit weitem Blick über das Tal.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ortenbergi szőlők",
+            "tip": "Csend és tágas kilátás a völgyre.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viile din Ortenberg",
+            "tip": "Liniște cu o vedere largă asupra văii.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ortenberg Vineyards",
+            "tip": "Peaceful spots with sweeping valley views.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in Ortenberg",
+            "tip": "Frisches Obst und Wein direkt ab Hof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ortenbergi tanyasi boltok",
+            "tip": "Friss gyümölcs és bor közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în Ortenberg",
+            "tip": "Fructe proaspete și vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ortenberg Farm Shops",
+            "tip": "Fresh fruit and wine directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege im Kinzigtal.",
+          "Die Strecke nach Ortenberg ist leicht hügelig.",
+          "In der Fußgängerzone bitte absteigen oder schieben.",
+          "Ein Abstecher zum Gifiz-See lohnt sich im Sommer."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat a Kinzig-völgyben.",
+          "Az Ortenberg felé vezető út enyhén dombos.",
+          "A sétálóövezetben kérjük, szálljon le a bicikliről.",
+          "Nyáron érdemes egy kitérőt tenni a Gifiz-tóhoz."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate în Valea Kinzig.",
+          "Traseul spre Ortenberg este ușor deluros.",
+          "În zona pietonală, vă rugăm să mergeți pe lângă bicicletă.",
+          "O vizită la lacul Gifiz merită din plin vara."
+        ],
+        "en": [
+          "Use the marked bicycle paths in the Kinzig Valley.",
+          "The route to Ortenberg is slightly hilly.",
+          "Please dismount or walk your bike in pedestrian areas.",
+          "A detour to Gifiz Lake is worthwhile in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Offenburger Rathaus (Cluster A)",
+            "hu": "Offenburgi városháza (A klaszter)",
+            "ro": "Primăria din Offenburg (Cluster A)",
+            "en": "Offenburg City Hall (Cluster A)"
+          },
+          "coords": [
+            7.945,
+            48.471
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Marktplatz.",
+            "hu": "Parkoljon a főtér melletti parkolóházban.",
+            "ro": "Parcați în parcarea de la Marktplatz.",
+            "en": "Park in the garage by the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischmarkt (Cluster A)",
+            "hu": "Halpiac (A klaszter)",
+            "ro": "Piața de pește (Cluster A)",
+            "en": "Fish Market (Cluster A)"
+          },
+          "coords": [
+            7.944,
+            48.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur 2 Minuten Fußweg vom Rathaus.",
+            "hu": "Mindössze 2 perc séta a városházától.",
+            "ro": "La doar 2 minute de mers de primărie.",
+            "en": "Only a 2-minute walk from the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Ritterhaus (Cluster A)",
+            "hu": "Ritterhaus Múzeum (A klaszter)",
+            "ro": "Muzeul din Casa Cavalerilor (Cluster A)",
+            "en": "Museum in the Knight's House (Cluster A)"
+          },
+          "coords": [
+            7.947,
+            48.469
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt im Stadtzentrum.",
+            "hu": "Központi pont a városközpontban.",
+            "ro": "Punct central în centrul orașului.",
+            "en": "Central point in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Staufenberg (Umland)",
+            "hu": "Staufenberg-kastély (környék)",
+            "ro": "Castelul Staufenberg (împrejurimi)",
+            "en": "Staufenberg Castle (vicinity)"
+          },
+          "coords": [
+            7.994,
+            48.484
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Grandioser Ausblick und Weinstube.",
+            "hu": "Pazar kilátás és borozó.",
+            "ro": "Vedere grandioasă și cramă.",
+            "en": "Grand view and a cozy wine tavern."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche (Cluster B)",
+            "hu": "Szent András-templom (B klaszter)",
+            "ro": "Biserica Sf. Andrei (Cluster B)",
+            "en": "St. Andreas Church (Cluster B)"
+          },
+          "coords": [
+            7.946,
+            48.47
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8,
+          "tip_5lang": {
+            "de": "Wieder zurück im Zentrum parken.",
+            "hu": "Parkoljon le újra a központban.",
+            "ro": "Parcați din nou în centru.",
+            "en": "Park in the center once more."
+          }
+        },
+        {
+          "name": {
+            "de": "Salmen (Cluster B)",
+            "hu": "Salmen (B klaszter)",
+            "ro": "Salmen (Cluster B)",
+            "en": "Salmen (Cluster B)"
+          },
+          "coords": [
+            7.943,
+            48.468
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einfach zu Fuß vom Zentrum erreichbar.",
+            "hu": "Könnyen elérhető gyalog a központból.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easy walk from the central area."
+          }
+        },
+        {
+          "name": {
+            "de": "Vinzentiusgarten (Cluster B)",
+            "hu": "Vinzentius-kert (B klaszter)",
+            "ro": "Grădina Vinzentius (Cluster B)",
+            "en": "Vinzentius Garden (Cluster B)"
+          },
+          "coords": [
+            7.948,
+            48.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang zum Abschluss.",
+            "hu": "Szép séta a nap befejezéseként.",
+            "ro": "O plimbare frumoasă pentru final.",
+            "en": "A lovely stroll to finish the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Grab-Kloster (Cluster B)",
+            "hu": "Szent Sír-kolostor (B klaszter)",
+            "ro": "Mănăstirea Sfântului Mormânt (Cluster B)",
+            "en": "Holy Sepulchre Monastery (Cluster B)"
+          },
+          "coords": [
+            7.942,
+            48.469
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger spiritueller Ausklang.",
+            "hu": "Csendes spirituális lezárás.",
+            "ro": "Final spiritual liniștit.",
+            "en": "Quiet spiritual conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt das Auto für den Ausflug zum Schloss Staufenberg in Durbach. Vormittags erkunden Sie das Offenburger Zentrum zu Fuß. Nach einer kurzen Fahrt genießen Sie das Panorama und den Wein am Schloss. Zurück in Offenburg lassen Sie das Auto stehen und entdecken den Salmen sowie die städtischen Gärten. Eine ideale Mischung aus Stadtkultur und badischer Weinkultur.",
+        "hu": "Ez az útvonal az autót a durbachi Staufenberg-kastélyhoz való kiránduláshoz használja. Délelőtt gyalogosan fedezzük fel Offenburg központját. Rövid autózás után élvezzük a panorámát és a bort a kastélynál. Visszatérve Offenburgba, hagyjuk az autót, és fedezzük fel a Salment és a városi kerteket. A városi kultúra és a badeni borkultúra ideális keveréke.",
+        "ro": "Acest traseu folosește mașina pentru excursia la Castelul Staufenberg din Durbach. Dimineața explorați centrul orașului Offenburg la pas. După o scurtă călătorie, vă bucurați de panoramă și vin la castel. Reveniți în Offenburg, lăsați mașina și descoperiți Salmen și grădinile orașului. Un mix ideal între cultura urbană și cea viticolă din Baden.",
+        "en": "This route utilizes the car for a side trip to Staufenberg Castle in Durbach. Spend your morning exploring Offenburg's center on foot. After a short drive, enjoy the panorama and wine at the castle. Back in Offenburg, leave the car and discover Salmen and the urban gardens. An ideal blend of city culture and Baden wine heritage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinstube Schloss Staufenberg",
+            "tip": "Vesper und Wein mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schloss Staufenberg borozó",
+            "tip": "Hidegtál és bor pazar kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Schloss Staufenberg",
+            "tip": "Gustări și vin cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schloss Staufenberg Wine Tavern",
+            "tip": "Traditional platters and wine with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossberg Durbach",
+            "tip": "Sonnenuntergang über den Reben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durbachi várhegy",
+            "tip": "Naplemente a szőlőtőkék felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Castelului Durbach",
+            "tip": "Apus de soare peste vii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Durbach Castle Hill",
+            "tip": "Sunset views over the vineyards.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Durbacher Winzergenossenschaft",
+            "tip": "Weineinkauf direkt an der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Durbachi Borászati Szövetkezet",
+            "tip": "Borkereskedés közvetlenül a forrásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa Viticolă Durbach",
+            "tip": "Achiziție de vin direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Durbach Winegrowers' Association",
+            "tip": "Buy wine directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Cluster-Parkstrategie im Zentrum.",
+          "Die Fahrt nach Durbach dauert etwa 15 Minuten.",
+          "Am Wochenende ist das Schloss sehr gut besucht.",
+          "Ein Elektroauto-Ladeplatz befindet sich am Marktplatz."
+        ],
+        "hu": [
+          "Használja a központi parkolóházakat bázisként.",
+          "Az út Durbachba körülbelül 15 percet vesz igénybe.",
+          "Hétvégén a kastély nagyon népszerű, sok a látogató.",
+          "Elektromos autó töltőpont a főtéren található."
+        ],
+        "ro": [
+          "Folosiți parcările centrale ca bază pentru plimbări.",
+          "Drumul spre Durbach durează aproximativ 15 minute.",
+          "În weekend, castelul este foarte aglomerat.",
+          "Există stație de încărcare pentru mașini electrice în piață."
+        ],
+        "en": [
+          "Use the central parking garages as a base for clusters.",
+          "The drive to Durbach takes about 15 minutes.",
+          "The castle is very popular and busy on weekends.",
+          "An electric vehicle charging station is at the market square."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fischmarkt",
+            "hu": "Halpiac",
+            "ro": "Piața de pește",
+            "en": "Fish Market"
+          },
+          "coords": [
+            7.944,
+            48.47
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt am Rathaus.",
+            "hu": "Központi buszcsomópont a városháznál.",
+            "ro": "Nod central de autobuze la primărie.",
+            "en": "Central bus hub located near the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Ritterhaus",
+            "hu": "Ritterhaus Múzeum",
+            "ro": "Muzeul din Casa Cavalerilor",
+            "en": "Museum in the Knight's House"
+          },
+          "coords": [
+            7.947,
+            48.469
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit der Linie 101 gut erreichbar.",
+            "hu": "A 101-es busszal jól elérhető.",
+            "ro": "Accesibil cu linia de autobuz 101.",
+            "en": "Easily accessible via bus line 101."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andreas Kirche",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andreas Church"
+          },
+          "coords": [
+            7.946,
+            48.47
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Salmen",
+            "hu": "Salmen",
+            "ro": "Salmen",
+            "en": "Salmen"
+          },
+          "coords": [
+            7.943,
+            48.468
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historischer Ort mit moderner Ausstellung.",
+            "hu": "Történelmi hely modern kiállítással.",
+            "ro": "Loc istoric cu o expoziție modernă.",
+            "en": "Historic site with a modern exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Vinzentiusgarten",
+            "hu": "Vinzentius-kert",
+            "ro": "Grădina Vinzentius",
+            "en": "Vinzentius Garden"
+          },
+          "coords": [
+            7.948,
+            48.472
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt zum Stadtgarten-Bereich.",
+            "hu": "Rövid buszozás a városkert felé.",
+            "ro": "Scurtă călătorie cu autobuzul spre grădină.",
+            "en": "Short bus ride to the city garden area."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwingerpark",
+            "hu": "Zwingerpark",
+            "ro": "Parcul Zwinger",
+            "en": "Zwinger Park"
+          },
+          "coords": [
+            7.949,
+            48.473
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannung in der Nähe des Bahnhofs.",
+            "hu": "Pihenés a vasútállomás közelében.",
+            "ro": "Relaxare în apropierea gării.",
+            "en": "Relaxation near the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Grab-Kloster",
+            "hu": "Szent Sír-kolostor",
+            "ro": "Mănăstirea Sfântului Mormânt",
+            "en": "Holy Sepulchre Monastery"
+          },
+          "coords": [
+            7.942,
+            48.469
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gute Anbindung an alle Stadtbusse.",
+            "hu": "Jó összeköttetés az összes városi busszal.",
+            "ro": "Conexiune bună cu toate autobuzele locale.",
+            "en": "Good connections to all city buses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem exzellenten Offenburger Stadtbusnetz erreichen Sie alle Sehenswürdigkeiten stressfrei. Vormittags besuchen Sie den Fischmarkt und das Ritterhaus-Museum im Zentrum. Nach dem kulturellen Exkurs im Salmen geht es weiter zum erholsamen Stadtgarten und dem Zwingerpark. Ein idealer Tag für Besucher, die ohne Auto flexibel sein möchten und die lokale Infrastruktur nutzen.",
+        "hu": "Az Offenburg kiváló buszhálózatával minden látnivaló stresszmentesen elérhető. Délelőtt a Halpiacot és a Ritterhaus Múzeumot látogatjuk meg a központban. A Salmenben tett kulturális kitérő után a városi kert és a Zwingerpark felé vesszük az irányt. Ideális nap azoknak, akik autó nélkül szeretnének rugalmasak maradni és kihasználnák a helyi közlekedést.",
+        "ro": "Cu rețeaua excelentă de autobuze din Offenburg, ajungeți la toate atracțiile fără stres. Dimineața vizitați Piața de pește și Muzeul Ritterhaus din centru. După incursiunea culturală la Salmen, continuați spre grădina orașului și Parcul Zwinger. O zi ideală pentru vizitatorii care vor să fie flexibili fără mașină, folosind infrastructura locală.",
+        "en": "Offenburg's excellent bus network makes reaching all sights stress-free. Start at the Fish Market and Knight's House Museum in the center. Following a cultural excursion to Salmen, head to the relaxing City Garden and Zwinger Park. This is an ideal day for visitors who want flexibility without a car while utilizing local transit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Krämer",
+            "tip": "Hervorragendes Brezelgebäck am Rathaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krämer pékség",
+            "tip": "Kiváló sós perecek a városháza mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Krämer",
+            "tip": "Covrigi excelenți lângă primărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krämer Bakery",
+            "tip": "Excellent pretzels and pastries by the city hall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zwingerpark",
+            "tip": "Ruhebank direkt am historischen Wall.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zwingerpark",
+            "tip": "Pihenőpad közvetlenül a várfalnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Zwinger",
+            "tip": "Bancă de odihnă lângă zidul istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zwinger Park",
+            "tip": "A quiet bench right by the historic wall.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauptstraße",
+            "tip": "Die Haupteinkaufsmeile liegt direkt am Busknoten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hauptstraße",
+            "tip": "A fő bevásárlóutca közvetlenül a buszcsomópontnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hauptstraße",
+            "tip": "Principala arteră comercială este la nodul de autobuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hauptstraße",
+            "tip": "The main shopping street is right at the bus hub."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich eine Tageskarte für das Stadtbusnetz.",
+          "Die Fahrpläne hängen an jeder größeren Haltestelle aus.",
+          "Die Busse verkehren im Zentrum sehr regelmäßig.",
+          "Nutzen Sie die App des TGO-Verbundes."
+        ],
+        "hu": [
+          "Váltson napijegyet a városi buszhálózatra.",
+          "A menetrendek minden nagyobb megállóban ki vannak függesztve.",
+          "A buszok a központban nagyon sűrűn közlekednek.",
+          "Használja a helyi TGO-közlekedési szövetség alkalmazását."
+        ],
+        "ro": [
+          "Achiziționați un abonament de o zi pentru autobuze.",
+          "Orarele sunt afișate în fiecare stație importantă.",
+          "Autobuzele circulă foarte regulat în centru.",
+          "Folosiți aplicația asociației de transport TGO."
+        ],
+        "en": [
+          "Get a day ticket for the city bus network.",
+          "Timetables are posted at every major stop.",
+          "Buses run very regularly in the central area.",
+          "Utilize the local TGO transit association app."
+        ]
+      }
+    }
+  }
+}

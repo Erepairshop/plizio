@@ -1,0 +1,1106 @@
+{
+  "city_id": "germany-emden-cities-v2",
+  "anchor": {
+    "name": "Ratsdelft Emden",
+    "coords": [
+      7.205,
+      53.366
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ratsdelft",
+            "hu": "Ratsdelft kikötő",
+            "ro": "Portul Ratsdelft",
+            "en": "Ratsdelft Harbor"
+          },
+          "coords": [
+            7.205,
+            53.366
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blick auf die Museumsschiffe im Hafenbecken.",
+            "hu": "Nézze meg a kikötőben horgonyzó múzeumhajókat.",
+            "ro": "Admirați navele-muzeu ancorate în bazinul portuar.",
+            "en": "Enjoy the view of the museum ships in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Dat Otto Huus",
+            "hu": "Otto Ház",
+            "ro": "Casa lui Otto",
+            "en": "Dat Otto Huus"
+          },
+          "coords": [
+            7.206,
+            53.367
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans des Komikers Otto Waalkes.",
+            "hu": "Kihagyhatatlan Otto Waalkes humorista rajongóinak.",
+            "ro": "Obligatoriu pentru fanii comedianului Otto Waalkes.",
+            "en": "A must-visit for fans of comedian Otto Waalkes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostfriesisches Landesmuseum",
+            "hu": "Kelet-Fríz Tartományi Múzeum",
+            "ro": "Muzeul Regional al Frizoniei de Est",
+            "en": "East Frisian State Museum"
+          },
+          "coords": [
+            7.206,
+            53.366
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Rüstkammer im alten Rathaus.",
+            "hu": "Nézze meg a régi városháza fegyvertárát.",
+            "ro": "Vizitați armurăria din vechea primărie.",
+            "en": "Visit the armory in the old town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelzerhäuser",
+            "hu": "Pelzer-házak",
+            "ro": "Casele Pelzer",
+            "en": "Pelzer Houses"
+          },
+          "coords": [
+            7.204,
+            53.368
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die ältesten erhaltenen Backsteinhäuser der Stadt.",
+            "hu": "A város legrégebbi fennmaradt téglaépületei.",
+            "ro": "Cele mai vechi case de cărămidă conservate din oraș.",
+            "en": "The oldest preserved brick houses in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannes-a-Lasco-Bibliothek",
+            "hu": "Johannes a Lasco Könyvtár",
+            "ro": "Biblioteca Johannes a Lasco",
+            "en": "Johannes a Lasco Library"
+          },
+          "coords": [
+            7.203,
+            53.365
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "In der Ruine der Großen Kirche untergebracht.",
+            "hu": "A Nagytemplom romjai között kapott helyet.",
+            "ro": "Găzduită în ruinele Marii Biserici.",
+            "en": "Housed in the ruins of the Great Church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Emden",
+            "hu": "Emdeni Műcsarnok",
+            "ro": "Muzeul de Artă Emden",
+            "en": "Kunsthalle Emden"
+          },
+          "coords": [
+            7.208,
+            53.371
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bedeutende Sammlung des Expressionismus.",
+            "hu": "Jelentős expresszionista gyűjtemény.",
+            "ro": "Colecție importantă de expresionism.",
+            "en": "Significant collection of Expressionism."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch das Herz von Emden. Wir beginnen am maritimen Ratsdelft, besuchen das humorvolle Otto Huus und tauchen im Landesmuseum in die Geschichte Ostfrieslands ein. Nach den historischen Pelzerhäusern bewundern wir die Architektur der Lasco-Bibliothek und lassen den Tag in der renommierten Kunsthalle ausklingen.",
+        "hu": "Kellemes séta Emden szívében. A tengerparti Ratsdelftnél kezdünk, meglátogatjuk a humoros Otto-házat, majd a Landesmuseumban megismerjük Kelet-Frízföld történelmét. A történelmi Pelzer-házak után megcsodáljuk a Lasco Könyvtár építészetét, és a napot a híres Kunsthalléban zárjuk.",
+        "ro": "O plimbare relaxantă prin inima orașului Emden. Începem la portul maritim Ratsdelft, vizităm amuzanta Casă Otto și explorăm istoria Frizoniei de Est la Muzeul Regional. După casele istorice Pelzer, admirăm arhitectura Bibliotecii Lasco și încheiem ziua la renumita Kunsthalle.",
+        "en": "A relaxed stroll through the heart of Emden. We start at the maritime Ratsdelft, visit the humorous Otto Huus, and dive into East Frisian history at the Landesmuseum. After the historical Pelzer Houses, we admire the architecture of the Lasco Library and finish the day at the renowned Kunsthalle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Matjesbrötchen",
+            "tip": "Frischer Hering direkt am Ratsdelft genießen."
+          },
+          {
+            "name": "Hafenhaus",
+            "tip": "Regionale Küche mit Blick aufs Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matjesbrötchen",
+            "tip": "Friss heringes zsemle a Ratsdelftnél."
+          },
+          {
+            "name": "Hafenhaus",
+            "tip": "Regionális konyha kilátással a vízre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Matjesbrötchen",
+            "tip": "Sandviș cu hering proaspăt la Ratsdelft."
+          },
+          {
+            "name": "Hafenhaus",
+            "tip": "Bucătărie regională cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Matjesbrötchen",
+            "tip": "Fresh herring rolls enjoyed at Ratsdelft."
+          },
+          {
+            "name": "Hafenhaus",
+            "tip": "Regional cuisine with a waterfront view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wallanlagen",
+            "tip": "Grüne Oase auf den alten Festungswällen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wallanlagen",
+            "tip": "Zöld oázis a régi várfalakon.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wallanlagen",
+            "tip": "Oază verde pe vechile metereze.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wallanlagen",
+            "tip": "Green oasis on the old city walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Otto-Fanshop",
+            "tip": "Lustige Souvenirs rund um den Ottifanten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Otto-Fanshop",
+            "tip": "Vicces ajándéktárgyak az Ottifanttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Otto-Fanshop",
+            "tip": "Suveniruri amuzante cu celebrul Ottifant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Otto-Fanshop",
+            "tip": "Fun souvenirs featuring the Ottifant."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Emden ist flach und ideal zu Fuß zu erkunden.",
+          "Kombinieren Sie Museumsbesuche mit einem Fischbrötchen am Hafen.",
+          "Achten Sie auf die Gezeiten im Außenhafen."
+        ],
+        "hu": [
+          "Emden sík terület, ideális gyalogos felfedezésre.",
+          "Kösse össze a múzeumlátogatást egy halas zsemlével a kikötőben.",
+          "Ügyeljen az apály-dagály jelenségre a külső kikötőben."
+        ],
+        "ro": [
+          "Emden este plat și ideal pentru explorarea pe jos.",
+          "Combinați vizitele la muzeu cu un sandviș cu pește în port.",
+          "Fiți atenți la flux și reflux în portul exterior."
+        ],
+        "en": [
+          "Emden is flat and perfect for exploring on foot.",
+          "Combine museum visits with a fish roll at the harbor.",
+          "Pay attention to the tides in the outer harbor."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafentor",
+            "hu": "Kikötőkapu",
+            "ro": "Poarta Portului",
+            "en": "Hafentor"
+          },
+          "coords": [
+            7.201,
+            53.361
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tor zum Emder Seehafen.",
+            "hu": "Az emdeni kikötő kapuja.",
+            "ro": "Poarta către portul maritim Emden.",
+            "en": "Gateway to the Emden seaport."
+          }
+        },
+        {
+          "name": {
+            "de": "Ratsdelft",
+            "hu": "Ratsdelft",
+            "ro": "Ratsdelft",
+            "en": "Ratsdelft"
+          },
+          "coords": [
+            7.205,
+            53.366
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Denkmal der Stadtgründer.",
+            "hu": "Rövid megálló a városalapítók emlékművénél.",
+            "ro": "Scurt popas la monumentul fondatorilor orașului.",
+            "en": "Short stop at the city founders' monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseum Emden",
+            "hu": "Bunker Múzeum",
+            "ro": "Muzeul Bunkerului",
+            "en": "Bunkermuseum Emden"
+          },
+          "coords": [
+            7.212,
+            53.368
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Dokumentation in einem echten Hochbunker.",
+            "hu": "Lenyűgöző dokumentáció egy valódi bunkerben.",
+            "ro": "Documentație impresionantă într-un bunker real.",
+            "en": "Impressive documentation in a real bunker."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Emden",
+            "hu": "Kunsthalle",
+            "ro": "Kunsthalle",
+            "en": "Kunsthalle"
+          },
+          "coords": [
+            7.208,
+            53.371
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mit dem Rad leicht über die Wallanlagen erreichbar.",
+            "hu": "Kerékpárral könnyen elérhető a várfalakon keresztül.",
+            "ro": "Accesibil ușor cu bicicleta prin metereze.",
+            "en": "Easily accessible by bike via the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelzerhäuser",
+            "hu": "Pelzer-házak",
+            "ro": "Casele Pelzer",
+            "en": "Pelzer Houses"
+          },
+          "coords": [
+            7.204,
+            53.368
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historische Fassaden in der Altstadt.",
+            "hu": "Történelmi homlokzatok az óvárosban.",
+            "ro": "Fațade istorice în centrul vechi.",
+            "en": "Historic facades in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Dat Otto Huus",
+            "hu": "Otto Ház",
+            "ro": "Casa Otto",
+            "en": "Otto Huus"
+          },
+          "coords": [
+            7.206,
+            53.367
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad direkt davor.",
+            "hu": "Parkoljon le kerékpárjával közvetlenül előtte.",
+            "ro": "Parcați bicicleta chiar în față.",
+            "en": "Park your bike right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Emder Wall",
+            "hu": "Emdeni várfal",
+            "ro": "Zidul Emden",
+            "en": "Emden Wall"
+          },
+          "coords": [
+            7.215,
+            53.375
+          ],
+          "category": "park/beach",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöne Radtour rund um die Innenstadt.",
+            "hu": "Szép kerékpártúra a belváros körül.",
+            "ro": "Tur frumos cu bicicleta în jurul centrului.",
+            "en": "Beautiful bike ride around the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Emden auf zwei Rädern! Wir starten am Hafentor, radeln zum Ratsdelft und besuchen das beklemmende Bunkermuseum. Über die Kunsthalle und die Pelzerhäuser geht es zum Otto Huus. Zum Abschluss genießen wir eine entspannte Fahrt auf den grünen Wallanlagen, die die Stadt wie ein Gürtel umschließen.",
+        "hu": "Fedezze fel Emdent két keréken! A Hafentornál kezdünk, a Ratsdelfthez kerekezünk, és meglátogatjuk a nyomasztó Bunkermúzeumot. A Kunsthalle és a Pelzer-házak érintésével az Otto-házhoz megyünk. Befejezésül egy pihentető tekerést teszünk a zöld várfalakon, amelyek övként veszik körül a várost.",
+        "ro": "Descoperiți Emden pe două roți! Începem la Poarta Portului, pedalăm spre Ratsdelft și vizităm impresionantul Muzeu al Bunkerului. Trecem pe la Kunsthalle și Casele Pelzer spre Casa Otto. La final, ne bucurăm de o tură relaxantă pe vechile metereze verzi care înconjoară orașul.",
+        "en": "Explore Emden on two wheels! We start at the Hafentor, cycle to Ratsdelft, and visit the somber Bunkermuseum. Via the Kunsthalle and Pelzer Houses, we head to Otto Huus. Finally, we enjoy a relaxed ride on the green city walls that encircle the city like a belt."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ostfriesentee",
+            "tip": "Echter Teegenuss mit Kluntje und Sahne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kelet-fríz tea",
+            "tip": "Igazi teázás kandiscukorral és tejszínnel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceai est-frizon",
+            "tip": "Degustare autentică cu zahăr candel și frișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "East Frisian Tea",
+            "tip": "Authentic tea enjoyment with rock sugar and cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bökenwarf",
+            "tip": "Ruhiger Platz am Kanal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bökenwarf",
+            "tip": "Csendes hely a csatorna partján.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bökenwarf",
+            "tip": "Loc liniștit lângă canal.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bökenwarf",
+            "tip": "Quiet spot by the canal.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Spezialitäten auf dem Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális specialitások a piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Specialități regionale în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional specialties at the market square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Kanäle.",
+          "Ein Fahrradschloss ist in der Innenstadt ratsam.",
+          "Die Wallanlagen sind fast komplett befahrbar."
+        ],
+        "hu": [
+          "Használja a csatornák menti jól kiépített kerékpárutakat.",
+          "A belvárosban tanácsos kerékpárzár használata.",
+          "A várfalak szinte teljes hosszukban járhatók kerékpárral."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine amenajate de-a lungul canalelor.",
+          "Este recomandat un sistem de antifurt în centrul orașului.",
+          "Meterezele sunt aproape în întregime practicabile cu bicicleta."
+        ],
+        "en": [
+          "Use the well-maintained bike paths along the canals.",
+          "A bike lock is recommended in the city center.",
+          "The city walls are almost entirely accessible by bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ratsdelft (Cluster Zentrum)",
+            "hu": "Ratsdelft (Belváros klaszter)",
+            "ro": "Ratsdelft (Cluster Centru)",
+            "en": "Ratsdelft (Center Cluster)"
+          },
+          "coords": [
+            7.205,
+            53.366
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Delft.",
+            "hu": "Parkoljon a Delft melletti parkolóházban.",
+            "ro": "Parcați în parcarea de la Delft.",
+            "en": "Park in the parking garage at Delft."
+          }
+        },
+        {
+          "name": {
+            "de": "Dat Otto Huus",
+            "hu": "Otto Ház",
+            "ro": "Casa Otto",
+            "en": "Dat Otto Huus"
+          },
+          "coords": [
+            7.206,
+            53.367
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Ratsdelft erreichbar.",
+            "hu": "Gyalog elérhető a Ratsdelfttől.",
+            "ro": "Accesibil pe jos de la Ratsdelft.",
+            "en": "Accessible on foot from Ratsdelft."
+          }
+        },
+        {
+          "name": {
+            "de": "Ostfriesisches Landesmuseum",
+            "hu": "Landesmuseum",
+            "ro": "Landesmuseum",
+            "en": "Landesmuseum"
+          },
+          "coords": [
+            7.206,
+            53.366
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Teil des Zentrum-Clusters.",
+            "hu": "A belvárosi klaszter része.",
+            "ro": "Parte a clusterului central.",
+            "en": "Part of the center cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Emden (Cluster Kunst)",
+            "hu": "Kunsthalle (Művészeti klaszter)",
+            "ro": "Kunsthalle (Cluster Artă)",
+            "en": "Kunsthalle (Art Cluster)"
+          },
+          "coords": [
+            7.208,
+            53.371
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Kunsthalle nutzen.",
+            "hu": "Használja a Kunsthalle melletti parkolót.",
+            "ro": "Folosiți parcarea direct de la Kunsthalle.",
+            "en": "Use the parking lot right at the Kunsthalle."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannes-a-Lasco-Bibliothek",
+            "hu": "Lasco Könyvtár",
+            "ro": "Biblioteca Lasco",
+            "en": "Lasco Library"
+          },
+          "coords": [
+            7.203,
+            53.365
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zurück Richtung Zentrum.",
+            "hu": "Rövid út vissza a központ felé.",
+            "ro": "Scurtă călătorie înapoi spre centru.",
+            "en": "Short drive back towards the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafentor (Cluster Hafen)",
+            "hu": "Kikötőkapu (Kikötő klaszter)",
+            "ro": "Hafentor (Cluster Port)",
+            "en": "Hafentor (Harbor Cluster)"
+          },
+          "coords": [
+            7.201,
+            53.361
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fotostopp am historischen Tor.",
+            "hu": "Fotómegálló a történelmi kapunál.",
+            "ro": "Popas foto la poarta istorică.",
+            "en": "Photo stop at the historic gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Außenhafen",
+            "hu": "Külső kikötő",
+            "ro": "Portul Exterior",
+            "en": "Outer Harbor"
+          },
+          "coords": [
+            7.185,
+            53.338
+          ],
+          "category": "port",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Blick auf die großen Autotransporter.",
+            "hu": "Nézze meg a nagy autószállító hajókat.",
+            "ro": "Vedeți marile nave de transport auto.",
+            "en": "See the large car carrier ships."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die kulturellen Highlights im Zentrum mit dem industriellen Herz der Stadt. Wir parken zentral am Ratsdelft, erkunden das Zentrum zu Fuß, fahren dann zur Kunsthalle und beenden den Tag mit einem Abstecher zum beeindruckenden Außenhafen, einem der größten Autoverladehäfen Europas.",
+        "hu": "Ez az autós túra összeköti a központ kulturális látnivalóit a város ipari szívével. Központilag a Ratsdelftnél parkolunk, gyalog fedezzük fel a belvárost, majd a Kunsthalléhoz hajtunk, és a napot egy kitérővel zárjuk a lenyűgöző külső kikötőhöz, Európa egyik legnagyobb autórakodó kikötőjéhez.",
+        "ro": "Acest tur auto îmbină atracțiile culturale din centru cu inima industrială a orașului. Parcăm central la Ratsdelft, explorăm centrul pe jos, apoi conducem spre Kunsthalle și încheiem ziua cu o vizită la portul exterior impresionant, unul dintre cele mai mari porturi de încărcare auto din Europa.",
+        "en": "This car tour combines the cultural highlights of the center with the industrial heart of the city. We park centrally at Ratsdelft, explore the center on foot, then drive to the Kunsthalle, and finish the day with a trip to the impressive outer harbor, one of Europe's largest car shipping ports."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fährhaus",
+            "tip": "Traditionelles Restaurant am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fährhaus",
+            "tip": "Tradicionális étterem a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fährhaus",
+            "tip": "Restaurant tradițional în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fährhaus",
+            "tip": "Traditional restaurant at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Knock",
+            "tip": "Deichspaziergang etwas außerhalb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knock",
+            "tip": "Gátséta kicsit a városon kívül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knock",
+            "tip": "Plimbare pe dig puțin în afara orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Knock",
+            "tip": "Levee walk slightly outside the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "DOC Emden",
+            "tip": "Outlet-Center in Hafennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "DOC Emden",
+            "tip": "Outlet központ a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "DOC Emden",
+            "tip": "Centru outlet lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "DOC Emden",
+            "tip": "Outlet center near the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkleitsystem zeigt freie Plätze im Zentrum an.",
+          "Zum Außenhafen führt eine gut ausgebaute Straße.",
+          "Parken am Delft ist oft begrenzt, nutzen Sie Parkhäuser."
+        ],
+        "hu": [
+          "A parkolási rendszer mutatja a szabad helyeket a központban.",
+          "A külső kikötőhöz jól kiépített út vezet.",
+          "A Delftnél a parkolás korlátozott, használja a parkolóházakat."
+        ],
+        "ro": [
+          "Sistemul de ghidare afișează locurile libere în centru.",
+          "Spre portul exterior duce un drum bine amenajat.",
+          "Parcarea la Delft este adesea limitată, folosiți parcările etajate."
+        ],
+        "en": [
+          "The parking guidance system shows available spots in the center.",
+          "A well-maintained road leads to the outer harbor.",
+          "Parking at Delft is often limited, use parking garages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ratsdelft",
+            "hu": "Ratsdelft",
+            "ro": "Ratsdelft",
+            "en": "Ratsdelft"
+          },
+          "coords": [
+            7.205,
+            53.366
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der Stadtbusse.",
+            "hu": "A városi buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuzele urbane.",
+            "en": "Central hub for city buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Dat Otto Huus",
+            "hu": "Otto Ház",
+            "ro": "Casa Otto",
+            "en": "Dat Otto Huus"
+          },
+          "coords": [
+            7.206,
+            53.367
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Delft.",
+            "hu": "Rövid séta a Del fttől.",
+            "ro": "Scurtă plimbare de la Delft.",
+            "en": "Short walk from Delft."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannes-a-Lasco-Bibliothek",
+            "hu": "Lasco Könyvtár",
+            "ro": "Biblioteca Lasco",
+            "en": "Lasco Library"
+          },
+          "coords": [
+            7.203,
+            53.365
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besondere Atmosphäre in der Kirchenruine.",
+            "hu": "Különleges atmoszféra a templomromban.",
+            "ro": "Atmosferă deosebită în ruina bisericii.",
+            "en": "Special atmosphere in the church ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunsthalle Emden",
+            "hu": "Kunsthalle",
+            "ro": "Kunsthalle",
+            "en": "Kunsthalle"
+          },
+          "coords": [
+            7.208,
+            53.371
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit der Linie 501/503.",
+            "hu": "Az 501/503-as vonallal érhető el.",
+            "ro": "Accesibil cu linia 501/503.",
+            "en": "Accessible with line 501/503."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkermuseum",
+            "hu": "Bunkermúzeum",
+            "ro": "Muzeul Bunkerului",
+            "en": "Bunkermuseum"
+          },
+          "coords": [
+            7.212,
+            53.368
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Haltestelle 'Frickensteinplatz'.",
+            "hu": "'Frickensteinplatz' megálló.",
+            "ro": "Stația 'Frickensteinplatz'.",
+            "en": "Stop 'Frickensteinplatz'."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafentor",
+            "hu": "Kikötőkapu",
+            "ro": "Hafentor",
+            "en": "Hafentor"
+          },
+          "coords": [
+            7.201,
+            53.361
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück zum Hafen.",
+            "hu": "Busszal vissza a kikötőhöz.",
+            "ro": "Înapoi la port cu autobuzul.",
+            "en": "Back to the harbor by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den Emder Stadtbussen erkunden wir bequem die wichtigsten Stationen. Vom zentralen Treffpunkt Ratsdelft geht es zum Otto Huus und zur Lasco-Bibliothek. Nach einem Besuch in der Kunsthalle und dem Bunkermuseum führt uns der Weg zum Hafentor, wo wir den maritimen Flair der Stadt genießen können.",
+        "hu": "Az emdeni városi buszokkal kényelmesen fedezzük fel a legfontosabb megállókat. A központi Ratsdelft találkozóhelyről az Otto-házhoz és a Lasco Könyvtárhoz megyünk. A Kunsthalle és a Bunkermúzeum után az utunk a Hafentorig vezet, ahol élvezhetjük a város tengeri hangulatát.",
+        "ro": "Cu autobuzele urbane din Emden explorăm confortabil cele mai importante stații. De la punctul central Ratsdelft mergem la Casa Otto și la Biblioteca Lasco. După o vizită la Kunsthalle și Muzeul Bunkerului, drumul ne poartă la Poarta Portului, unde ne putem bucura de farmecul maritim al orașului.",
+        "en": "With Emden's city buses, we conveniently explore the main stations. From the central meeting point at Ratsdelft, we head to Otto Huus and the Lasco Library. After a visit to the Kunsthalle and the Bunkermuseum, our path leads to the Hafentor, where we can enjoy the city's maritime flair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Lorenz",
+            "tip": "Guter Stopp für einen Snack am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Lorenz",
+            "tip": "Jó megálló egy snackre a vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Lorenz",
+            "tip": "Un popas bun pentru o gustare la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Lorenz",
+            "tip": "A good stop for a snack at the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Kleiner Park in der Nähe des Rathauses.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Kis park a városháza közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Parc mic în apropierea primăriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Small park near the town hall.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Neutorstraße",
+            "tip": "Haupteinkaufsstraße in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neutorstraße",
+            "tip": "Fő bevásárlóutca a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Neutorstraße",
+            "tip": "Strada comercială principală din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neutorstraße",
+            "tip": "Main shopping street in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Zentrale Omnibusbahnhof (ZOB) liegt direkt am Bahnhof.",
+          "Ein Tagesticket lohnt sich ab der dritten Fahrt.",
+          "Busse fahren im 30-Minuten-Takt."
+        ],
+        "hu": [
+          "A központi buszpályaudvar (ZOB) közvetlenül a vasútállomásnál van.",
+          "A napijegy a harmadik utazástól éri meg.",
+          "A buszok 30 percenként közlekednek."
+        ],
+        "ro": [
+          "Autogara centrală (ZOB) se află chiar lângă gară.",
+          "Un bilet de o zi merită de la a treia călătorie.",
+          "Autobuzele circulă la un interval de 30 de minute."
+        ],
+        "en": [
+          "The central bus station (ZOB) is located right next to the train station.",
+          "A day ticket pays off from the third ride onwards.",
+          "Buses run every 30 minutes."
+        ]
+      }
+    }
+  }
+}

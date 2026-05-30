@@ -12,320 +12,337 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "16:20",
-      "total_km": 3.8,
+      "end_estimate": "17:15",
+      "total_km": 4.1,
       "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Unendliche Säule",
-            "hu": "Végtelen oszlop",
-            "ro": "Coloana fără Sfârșit",
-            "en": "Infinity Column"
+            "de": "Zentralpark & Tor des Kusses",
+            "hu": "Központi Park és a Csók Kapuja",
+            "ro": "Parcul Central & Poarta Sărutului",
+            "en": "Central Park & Gate of the Kiss"
           },
           "coords": [
-            45.0375,
-            23.2852
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Kommen Sie früh morgens, wenn das Licht auf den Modulen schimmert.",
-            "hu": "Kora reggel a legszebb, ahogy a fény megcsillan a rézmodulokon.",
-            "ro": "Veniți dimineața devreme pentru cea mai bună lumină pe module.",
-            "en": "Visit early morning for the best light shimmering on the modules."
-          }
-        },
-        {
-          "name": {
-            "de": "Kathedrale der Heiligen Woiwoden",
-            "hu": "Szent Fejedelmek-székesegyház",
-            "ro": "Catedrala Sfinții Voievozi",
-            "en": "Cathedral of the Holy Voivodes"
-          },
-          "coords": [
-            45.0335,
-            23.2735
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:05",
-          "stay_min": 40,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Bewundern Sie die prächtigen byzantinischen Malereien im Inneren.",
-            "hu": "Csodálja meg a belső tér pompás bizánci falfestményeit.",
-            "ro": "Admirați picturile bizantine superbe din interiorul bisericii.",
-            "en": "Admire the magnificent Byzantine paintings inside the church."
-          }
-        },
-        {
-          "name": {
-            "de": "Kreismuseum Gorj",
-            "hu": "Gorj Megyei Múzeum",
-            "ro": "Muzeul Județean Gorj",
-            "en": "Gorj County Museum"
-          },
-          "coords": [
-            45.0342,
-            23.2715
-          ],
-          "category": "museums",
-          "arrive_at": "11:00",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Entdecken Sie die reiche Geschichte und Ethnographie der Region.",
-            "hu": "Fedezze fel a régió gazdag történelmét és néprajzi kincseit.",
-            "ro": "Explorați istoria bogată și etnografia fascinantă a regiunii.",
-            "en": "Discover the region's rich history and fascinating ethnography."
-          }
-        },
-        {
-          "name": {
-            "de": "Zentralpark",
-            "hu": "Városi park",
-            "ro": "Parcul Central",
-            "en": "Central Park"
-          },
-          "coords": [
-            45.0305,
-            23.2685
+            45.0358,
+            23.2721
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "13:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Ein schattiger Spaziergang entlang des Flusses Jiu.",
-            "hu": "Árnyas séta a Zsil-folyó partján fekvő hatalmas parkban.",
-            "ro": "O plimbare umbrită de-a lungul malului râului Jiu.",
-            "en": "A shaded walk along the banks of the Jiu River."
-          }
-        },
-        {
-          "name": {
-            "de": "Tor des Kusses",
-            "hu": "A csók kapuja",
-            "ro": "Poarta Sărutului",
-            "en": "Gate of the Kiss"
-          },
-          "coords": [
-            45.0308,
-            23.2688
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "14:45",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Ein Symbol der ewigen Liebe, gestaltet aus massivem Stein.",
-            "hu": "Az örök szerelem szimbóluma, monumentális kőbe faragva.",
-            "ro": "Un simbol al iubirii eterne, sculptat în piatră masivă.",
-            "en": "A symbol of eternal love, sculpted in massive stone."
-          }
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
         },
         {
           "name": {
             "de": "Tisch des Schweigens",
-            "hu": "A hallgatás asztala",
+            "hu": "A Csend Asztala",
             "ro": "Masa Tăcerii",
             "en": "Table of Silence"
           },
           "coords": [
-            45.0298,
-            23.2672
+            45.0365,
+            23.2715
           ],
           "category": "monuments/statues",
-          "arrive_at": "15:20",
-          "stay_min": 25,
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Heiligen Woiwoden",
+            "hu": "Szent Vajdák Katedrális",
+            "ro": "Catedrala Sfinții Voievozi",
+            "en": "Cathedral of the Holy Voivodes"
+          },
+          "coords": [
+            45.0381,
+            23.2755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Die kreisförmige Anordnung lädt zur stillen Meditation ein.",
-            "hu": "A körkörös elrendezés csendes elmélkedésre hív a folyóparton.",
-            "ro": "Aranjamentul circular invită la o meditație tăcută.",
-            "en": "The circular arrangement invites quiet meditation by the river."
-          }
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kreismuseum Gorj „Alexandru Ștefulescu“",
+            "hu": "Gorj Megyei Múzeum „Alexandru Ștefulescu”",
+            "ro": "Muzeul Județean Gorj „Alexandru Ștefulescu”",
+            "en": "Gorj County Museum „Alexandru Ștefulescu”"
+          },
+          "coords": [
+            45.0392,
+            23.2768
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Unendliche Säule",
+            "hu": "Végtelen Oszlop",
+            "ro": "Coloana Infinitului",
+            "en": "Endless Column"
+          },
+          "coords": [
+            45.0398,
+            23.2925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Gedenkhaus Ecaterina Teodoroiu",
+            "hu": "Ecaterina Teodoroiu Emlékház",
+            "ro": "Casa Memorială Ecaterina Teodoroiu",
+            "en": "Ecaterina Teodoroiu Memorial House"
+          },
+          "coords": [
+            45.0425,
+            23.278
+          ],
+          "category": "museums",
+          "arrive_at": "14:43",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
         },
         {
           "name": {
             "de": "Elvira-Godeanu-Theater",
             "hu": "Elvira Godeanu Színház",
-            "ro": "Teatrul Elvira Godeanu",
-            "en": "Elvira Godeanu Theatre"
+            "ro": "Teatrul Dramatic „Elvira Godeanu”",
+            "en": "Elvira Godeanu Dramatic Theatre"
           },
           "coords": [
-            45.0345,
-            23.2725
+            45.0401,
+            23.2762
           ],
           "category": "theatres/cultural centres",
-          "arrive_at": "16:20",
-          "stay_min": 30,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Ein kultureller Treffpunkt mit beeindruckender Architektur.",
-            "hu": "Kulturális találkozóhely lenyűgöző klasszicista épülettel.",
-            "ro": "Un reper cultural cu o arhitectură impresionantă.",
-            "en": "A cultural landmark with impressive architecture."
-          }
+          "arrive_at": "16:18",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
         }
       ],
       "narrative_4lang": {
-        "de": "Der Tag beginnt im Osten bei der monumentalen 'Unendlichen Säule' von Constantin Brâncuși. Wir wandern entlang der Heldenallee (Calea Eroilor) zum historischen Zentrum, besuchen die prächtige Kathedrale und vertiefen unser Wissen im Gorj-Museum. Nachmittags entspannen wir im Zentralpark, wo das berühmte Tor des Kusses und der Tisch des Schweigens den künstlerischen Weg vollenden.",
-        "hu": "A napot keleten kezdjük Constantin Brâncuși monumentális Végtelen oszlopánál. A Hősök útján végigsétálva érjük el a történelmi központot, ahol megtekintjük a katedrálist és a megyei múzeumot. Délután a Városi park árnyas fái alatt pihenünk, felfedezve A csók kapuját és A hallgatás asztalát, amelyek a mester spirituális örökségének részei.",
-        "ro": "Ziua începe la răsărit, lângă monumentala 'Coloană fără Sfârșit' a lui Constantin Brâncuși. Parcurgem Calea Eroilor spre centrul istoric, vizităm Catedrala Sfinții Voievozi și Muzeul Județean Gorj. După-amiaza este dedicată Parcului Central, unde Poarta Sărutului și Masa Tăcerii completează itinerariul artistic de-a lungul râului Jiu.",
-        "en": "The day begins at the eastern end with Brâncuși's monumental 'Infinity Column'. Walking along the Heroes' Way (Calea Eroilor), we reach the historical center to see the cathedral and the Gorj County Museum. In the afternoon, we relax in the Central Park, where the famous Gate of the Kiss and the Table of Silence complete this unique artistic journey."
+        "de": "Beginnen Sie Ihren Tag am Tor des Kusses und spazieren Sie durch den Park zum Tisch des Schweigens. Am Vormittag tauchen Sie in die lokale Geschichte im Kreismuseum Gorj ein. Der Nachmittag ist dem Aufstieg zur Unendlichen Säule gewidmet, einem Symbol der Unendlichkeit und des Opfers. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang entlang des Flusses Jiu, während die Sonne untergeht.",
+        "hu": "Kezdje a napot a Csók Kapujánál, majd sétáljon át a parkon a Csend Asztalához. A délelőttöt a helyi történelem felfedezésével töltse a Gorj Megyei Múzeumban. A délután a Végtelen Oszlop megmászásáról szól, a végtelenség és áldozat szimbólumáról. Zárja a napot egy békés sétával a Zsil folyó partján, a lemenő nap fényében.",
+        "ro": "Începeți ziua la Poarta Sărutului și plimbați-vă prin parc până la Masa Tăcerii. Dimineața, aprofundați istoria locală la Muzeul Județean Gorj. După-amiaza este dedicată urcușului spre Coloana Infinitului, un simbol al infinitului și sacrificiului. Încheiați ziua cu o plimbare liniștită pe malul Jiului, în lumina apusului.",
+        "en": "Start your day at the Gate of the Kiss and stroll through the park to the Table of Silence. In the morning, delve into local history at the Gorj County Museum. The afternoon is dedicated to ascending the Endless Column, a symbol of infinity and sacrifice. End your day with a peaceful walk along the Jiu River as the sun sets."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Sarmale din Gorj",
-            "tip": "Traditionelle Kohlrouladen mit kräftigem Maisbrei."
+            "name": "Tochitură Oltenească",
+            "tip": "Ein herzhafter Eintopf mit Schweinefleisch, Wurst und Mămăligă (Maisbrei), typisch für die Region Oltenien."
           },
           {
-            "name": "Taverna Sârbului",
-            "tip": "Hausgemachte Grillgerichte in rustikaler Atmosphäre."
+            "name": "Mici",
+            "tip": "Gegrillte Hackfleischröllchen, ein rumänischer Klassiker. Am besten mit Senf und frischem Brot."
+          },
+          {
+            "name": "Restaurant Pensiunea Antique",
+            "tip": "Bietet traditionelle rumänische Küche in einem gemütlichen Ambiente."
           }
         ],
         "hu": [
           {
-            "name": "Gorji töltött káposzta",
-            "tip": "Helyi recept alapján készült káposztatekercsek puliszkával."
+            "name": "Olténiai Tochitura",
+            "tip": "Kiadós pörkölt sertéshússal, kolbásszal és mămăligă-val (puliszka), az olténiai régió jellegzetessége."
           },
           {
-            "name": "Restaurant Anna",
-            "tip": "Hagyományos román konyha elegáns környezetben."
+            "name": "Mics",
+            "tip": "Grillezett fasírtrolád, egy román klasszikus. Mustárral és friss kenyérrel a legfinomabb."
+          },
+          {
+            "name": "Pensiunea Antique Étterem",
+            "tip": "Hagyományos román ételeket kínál hangulatos környezetben."
           }
         ],
         "ro": [
           {
-            "name": "Sarmale gorjene",
-            "tip": "Sarmale tradiționale servite cu mămăligă caldă."
+            "name": "Tochitură Oltenească",
+            "tip": "O tocană consistentă cu carne de porc, cârnați și mămăliguță, specifică regiunii Oltenia."
           },
           {
-            "name": "Restaurant Dumbrava",
-            "tip": "Specific românesc și ambianță liniștită lângă parc."
+            "name": "Mici",
+            "tip": "Rulouri de carne tocată la grătar, un clasic românesc. Serviți cu muștar și pâine proaspătă."
+          },
+          {
+            "name": "Restaurant Pensiunea Antique",
+            "tip": "Oferă mâncăruri tradiționale românești într-o atmosferă primitoare."
           }
         ],
         "en": [
           {
-            "name": "Gorj Sarmale",
-            "tip": "Traditional cabbage rolls served with polenta."
+            "name": "Oltenian Tochitură",
+            "tip": "A hearty stew with pork, sausages, and mămăligă (polenta), typical of the Oltenia region."
           },
           {
-            "name": "Restaurant Anna",
-            "tip": "Fine Romanian dining with local Oltenian specialties."
+            "name": "Mici",
+            "tip": "Grilled minced meat rolls, a Romanian classic. Best served with mustard and fresh bread."
+          },
+          {
+            "name": "Pensiunea Antique Restaurant",
+            "tip": "Offers traditional Romanian dishes in a cozy atmosphere."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Jiu-Flussufer",
-            "tip": "Ruhiger Weg hinter dem Zentralpark.",
-            "emoji": "🏞️"
+            "name": "Ufer des Flusses Jiu",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses, besonders bei Sonnenuntergang.",
+            "emoji": "🌅"
           },
           {
-            "name": "Tisch des Schweigens",
-            "tip": "Ideal für eine stille Minute am Abend.",
-            "emoji": "🧘"
+            "name": "Park um die Unendliche Säule",
+            "tip": "Finden Sie eine Bank mit Blick auf das Monument und genießen Sie die Ruhe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stille Ecken im Zentralpark",
+            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze zum Entspannen.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Zsil-part",
-            "tip": "Csendes sétaút a park mögött, a folyó mentén.",
-            "emoji": "🏞️"
+            "name": "Zsil folyó partja",
+            "tip": "Egy csendes séta a folyó mentén, különösen naplementekor.",
+            "emoji": "🌅"
           },
           {
-            "name": "Múzeumkert",
-            "tip": "Békés udvar a régi megyeháza mellett.",
+            "name": "A Végtelen Oszlop körüli park",
+            "tip": "Keressen egy padot, ahonnan rálátni az emlékműre, és élvezze a csendet.",
             "emoji": "🍃"
+          },
+          {
+            "name": "A Központi Park csendes zugai",
+            "tip": "A fő sétányoktól távolabb békés helyeket talál a pihenésre.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Malul Jiului",
-            "tip": "Zonă liniștită pentru plimbări la apus.",
+            "name": "Malul râului Jiu",
+            "tip": "O plimbare liniștită de-a lungul râului, mai ales la apus.",
             "emoji": "🌅"
           },
           {
-            "name": "Masa Tăcerii",
-            "tip": "Loc de meditație în inima naturii.",
-            "emoji": "🧘"
+            "name": "Parcul Coloanei Infinitului",
+            "tip": "Găsiți o bancă cu vedere la monument și bucurați-vă de liniște.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Colțuri liniștite în Parcul Central",
+            "tip": "Departe de aleile principale, veți găsi locuri pașnice pentru relaxare.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Jiu Riverbank",
-            "tip": "Quiet pathway behind the Central Park.",
-            "emoji": "🏞️"
+            "name": "Banks of the Jiu River",
+            "tip": "A quiet walk along the river, especially at sunset.",
+            "emoji": "🌅"
           },
           {
-            "name": "Cathedral Garden",
-            "tip": "A small oasis of peace in the city center.",
+            "name": "Park around the Endless Column",
+            "tip": "Find a bench with a view of the monument and enjoy the peace.",
             "emoji": "🍃"
+          },
+          {
+            "name": "Quiet corners in the Central Park",
+            "tip": "Away from the main alleys, you'll find peaceful spots to relax.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lokales Kunsthandwerk",
-            "tip": "Brâncuși-Repliken und handgewebte Teppiche."
+            "name": "Lokale Handwerkskunst",
+            "tip": "Suchen Sie nach handgefertigter Keramik und Holzschnitzereien aus der Region Oltenien."
+          },
+          {
+            "name": "Souvenirs von Brâncuși",
+            "tip": "Miniatur-Nachbildungen der Skulpturen sind beliebte Andenken."
           }
         ],
         "hu": [
           {
-            "name": "Souvenirbolt",
-            "tip": "Brâncuși műalkotások kicsinyített másolatai."
+            "name": "Helyi kézműves termékek",
+            "tip": "Keressen kézzel készített kerámiákat és fafaragásokat az olténiai régióból."
+          },
+          {
+            "name": "Brâncuși szuvenírek",
+            "tip": "A szobrok miniatűr másolatai népszerű emléktárgyak."
           }
         ],
         "ro": [
           {
-            "name": "Piața Centrală",
-            "tip": "Produse tradiționale și artizanat local."
+            "name": "Artizanat local",
+            "tip": "Căutați ceramică și sculpturi în lemn realizate manual, specifice zonei Olteniei."
+          },
+          {
+            "name": "Suveniruri Brâncuși",
+            "tip": "Replicile în miniatură ale sculpturilor sunt suveniruri populare."
           }
         ],
         "en": [
           {
-            "name": "Local Craft Shop",
-            "tip": "Handmade ceramics and Brâncuși replicas."
+            "name": "Local Crafts",
+            "tip": "Look for handmade pottery and wood carvings from the Oltenia region."
+          },
+          {
+            "name": "Brâncuși Souvenirs",
+            "tip": "Miniature replicas of the sculptures are popular keepsakes."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Brâncuși-Werke sind am besten zu Fuß entlang der Achse 'Calea Eroilor' zu erleben.",
-          "Tragen Sie bequeme Schuhe, da der Weg vom Park zur Säule etwa 1,5 km geradeaus führt.",
-          "Die Museen sind montags meist geschlossen.",
-          "Besuchen Sie den Park zur 'blauen Stunde' für tolle Fotos."
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Die meisten Sehenswürdigkeiten befinden sich im Freien, prüfen Sie also die Wettervorhersage.",
+          "Nehmen Sie sich Zeit, die symbolische Bedeutung von Brâncușis Werken zu verstehen.",
+          "Die Stadt ist relativ flach, was das Gehen erleichtert."
         ],
         "hu": [
-          "A Brâncuși-alkotások legjobban gyalog fedezhetők fel a Hősök útja mentén.",
-          "Kényelmes cipő ajánlott, az oszloptól a parkig tartó út kb. 1,5 km hosszú.",
-          "A múzeumok hétfőnként általában zárva tartanak.",
-          "A parki szobrok alkonyatkor különleges megvilágítást kapnak."
+          "Viseljen kényelmes cipőt, mert sokat fog sétálni.",
+          "A legtöbb látnivaló a szabadban van, ezért ellenőrizze az időjárás-előrejelzést.",
+          "Szánjon időt Brâncuși műveinek szimbolikus jelentésének megértésére.",
+          "A város viszonylag sík, ami megkönnyíti a gyaloglást."
         ],
         "ro": [
-          "Operele lui Brâncuși sunt dispuse pe o axă dreaptă, ușor de parcurs pe jos.",
-          "Calea Eroilor leagă cele două parcuri principale ale orașului.",
-          "Majoritatea muzeelor sunt închise în zilele de luni.",
-          "Nu ratați o plimbare pe faleza Jiului în spatele Mesei Tăcerii."
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Majoritatea atracțiilor sunt în aer liber, așa că verificați prognoza meteo.",
+          "Acordați-vă timp pentru a înțelege semnificația simbolică a operelor lui Brâncuși.",
+          "Orașul este relativ plat, ceea ce face mersul pe jos mai ușor."
         ],
         "en": [
-          "Brâncuși's works are best experienced on foot along the 'Calea Eroilor' axis.",
-          "Wear comfortable shoes as the walk between the two parks is around 1.5 km.",
-          "Most museums are closed on Mondays.",
-          "Visit the park at sunset for the most evocative atmosphere around the stone works."
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Most of the attractions are outdoors, so check the weather forecast.",
+          "Take time to understand the symbolic meaning of Brâncuși's works.",
+          "The city is relatively flat, making it easy to walk around."
         ]
       },
       "variants": {
@@ -533,78 +550,63 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:30",
-      "total_km": 7.5,
-      "stop_count": 8,
+      "end_estimate": "15:35",
+      "total_km": 6.2,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Gedenkhaus Ecaterina Teodoroiu",
-            "hu": "Ecaterina Teodoroiu emlékház",
-            "ro": "Casa Memorială Ecaterina Teodoroiu",
-            "en": "Ecaterina Teodoroiu Memorial House"
+            "de": "Start: Zentralpark",
+            "hu": "Indulás: Központi Park",
+            "ro": "Start: Parcul Central",
+            "en": "Start: Central Park"
           },
           "coords": [
-            45.0515,
-            23.2755
+            45.0358,
+            23.2721
           ],
-          "category": "museums",
-          "arrive_at": "09:10",
-          "stay_min": 60,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Erfahren Sie mehr über die Heldin des Ersten Weltkriegs.",
-            "hu": "Ismerje meg az I. világháború román hősnőjének élettörténetét.",
-            "ro": "Descoperiți povestea eroinei de la Jiu din Primul Război Mondial.",
-            "en": "Learn about the Romanian heroine of the First World War."
-          }
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
         },
         {
           "name": {
-            "de": "Unendliche Säule",
-            "hu": "Végtelen oszlop",
-            "ro": "Coloana fără Sfârșit",
-            "en": "Infinity Column"
+            "de": "Tor des Kusses & Tisch des Schweigens",
+            "hu": "A Csók Kapuja és a Csend Asztala",
+            "ro": "Poarta Sărutului & Masa Tăcerii",
+            "en": "Gate of the Kiss & Table of Silence"
           },
           "coords": [
-            45.0375,
-            23.2852
+            45.0365,
+            23.2715
           ],
           "category": "monuments/statues",
-          "arrive_at": "10:30",
-          "stay_min": 25,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Das Fahrradparken ist am Eingang des Parks erlaubt.",
-            "hu": "A kerékpárparkolás a park bejáratánál engedélyezett.",
-            "ro": "Parcarea bicicletelor este permisă la intrarea în parc.",
-            "en": "Bike parking is available at the park entrance."
-          }
+          "arrive_at": "09:17",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
         },
         {
           "name": {
             "de": "Kathedrale der Heiligen Woiwoden",
-            "hu": "Szent Fejedelmek-székesegyház",
+            "hu": "Szent Vajdák Katedrális",
             "ro": "Catedrala Sfinții Voievozi",
             "en": "Cathedral of the Holy Voivodes"
           },
           "coords": [
-            45.0335,
-            23.2735
+            45.0381,
+            23.2755
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "11:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Zentrale Lage direkt an der Calea Eroilor.",
-            "hu": "Központi elhelyezkedés közvetlenül a Hősök útja mellett.",
-            "ro": "Localizare centrală chiar pe axa Calea Eroilor.",
-            "en": "Central location right on the Calea Eroilor axis."
-          }
+          "arrive_at": "09:52",
+          "stay_min": 35,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
         },
         {
           "name": {
@@ -614,226 +616,101 @@
             "en": "Gorj County Museum"
           },
           "coords": [
-            45.0342,
-            23.2715
+            45.0392,
+            23.2768
           ],
           "category": "museums",
-          "arrive_at": "12:00",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Das Gebäude war früher das Rathaus.",
-            "hu": "Az épület egykoron a városháza székhelye volt.",
-            "ro": "Clădirea a servit în trecut drept primărie.",
-            "en": "The building formerly served as the town hall."
-          }
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
         },
         {
           "name": {
-            "de": "Zentralpark",
-            "hu": "Városi park",
-            "ro": "Parcul Central",
-            "en": "Central Park"
+            "de": "Unendliche Säule",
+            "hu": "Végtelen Oszlop",
+            "ro": "Coloana Infinitului",
+            "en": "Endless Column"
           },
           "coords": [
-            45.0305,
-            23.2685
+            45.0398,
+            23.2925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2
+        },
+        {
+          "name": {
+            "de": "Fahrt entlang des Flusses Jiu",
+            "hu": "Kerékpározás a Zsil folyó partján",
+            "ro": "Plimbare pe malul râului Jiu",
+            "en": "Ride along the Jiu River"
+          },
+          "coords": [
+            45.03,
+            23.27
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "14:00",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Fahren Sie vorsichtig auf den breiten Wegen.",
-            "hu": "Óvatosan kerekezzen a park széles sétányain.",
-            "ro": "Pedalați cu atenție pe aleile largi ale parcului.",
-            "en": "Cycle carefully on the wide park avenues."
-          }
-        },
-        {
-          "name": {
-            "de": "Tor des Kusses",
-            "hu": "A csók kapuja",
-            "ro": "Poarta Sărutului",
-            "en": "Gate of the Kiss"
-          },
-          "coords": [
-            45.0308,
-            23.2688
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "14:40",
-          "stay_min": 15,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Ein Muss für jedes Fotoalbum.",
-            "hu": "Minden fotóalbum kötelező eleme.",
-            "ro": "Un loc esențial pentru fotografii.",
-            "en": "A must-see spot for photos."
-          }
-        },
-        {
-          "name": {
-            "de": "Tisch des Schweigens",
-            "hu": "A hallgatás asztala",
-            "ro": "Masa Tăcerii",
-            "en": "Table of Silence"
-          },
-          "coords": [
-            45.0298,
-            23.2672
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "14:55",
-          "stay_min": 15,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Genießen Sie den Blick auf den Fluss.",
-            "hu": "Élvezze a Zsil-folyóra nyíló kilátást.",
-            "ro": "Bucurați-vă de vederea spre râu.",
-            "en": "Enjoy the view of the river."
-          }
-        },
-        {
-          "name": {
-            "de": "Elvira-Godeanu-Theater",
-            "hu": "Elvira Godeanu Színház",
-            "ro": "Teatrul Elvira Godeanu",
-            "en": "Elvira Godeanu Theatre"
-          },
-          "coords": [
-            45.0345,
-            23.2725
-          ],
-          "category": "theatres/cultural centres",
-          "arrive_at": "15:30",
-          "stay_min": 30,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Schöner Platz für eine kurze Pause.",
-            "hu": "Kellemes tér egy rövid pihenőhöz.",
-            "ro": "O piațetă frumoasă pentru o scurtă pauză.",
-            "en": "A lovely square for a short break."
-          }
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.6
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Fahrrad erkunden wir Târgu Jiu über die Stadtgrenzen hinaus. Wir starten im Norden am Gedenkhaus von Ecaterina Teodoroiu und radeln dann zur Unendlichen Säule. Die breiten Boulevards führen uns schnell zum Zentrum und schließlich in den Zentralpark am Jiu-Fluss, wo wir die Steinskulpturen von Brâncuși in entspanntem Tempo erleben.",
-        "hu": "Kerékpárral Târgu Jiu tágabb környékét is bejárjuk. Északon kezdünk Ecaterina Teodoroiu emlékházánál, majd a Végtelen oszlophoz tekerünk. A széles sugárutak gyorsan a központba, majd a Zsil-parti parkba vezetnek, ahol kényelmes tempóban fedezhetjük fel Brâncuși kőszobrait.",
-        "ro": "Cu bicicleta explorăm Târgu Jiu dincolo de centru. Începem în nord la Casa Ecaterina Teodoroiu, apoi pedalăm spre Coloana fără Sfârșit. Bulevardele largi ne conduc rapid spre centru și finalizăm în Parcul Central, pe malul Jiului, unde admirăm sculpturile în piatră ale lui Brâncuși într-un ritm relaxat.",
-        "en": "By bike, we explore Târgu Jiu beyond the immediate center. We start in the north at the Ecaterina Teodoroiu Memorial House before cycling to the Infinity Column. The wide boulevards lead us quickly to the center and finally to the Central Park by the river, where we experience Brâncuși's stone sculptures at a relaxed pace."
+        "de": "Starten Sie Ihre Radtour im Herzen der Stadt, im Zentralpark. Fahren Sie zum Tor des Kusses und dem Tisch des Schweigens. Erkunden Sie vormittags die Kathedrale und das Museum. Am Nachmittag radeln Sie die 'Heldenallee' entlang zur beeindruckenden Unendlichen Säule. Beenden Sie den Tag mit einer entspannten Fahrt entlang des Flusses Jiu und genießen Sie die Landschaft.",
+        "hu": "Indítsa kerékpártúráját a város szívében, a Központi Parkban. Tekerjen el a Csók Kapujához és a Csend Asztalához. Délelőtt fedezze fel a katedrálist és a múzeumot. Délután kerékpározzon végig a 'Hősök Útján' a lenyűgöző Végtelen Oszlophoz. Zárja a napot egy pihentető tekeréssel a Zsil folyó partján, élvezve a tájat.",
+        "ro": "Începeți turul pe bicicletă din inima orașului, Parcul Central. Pedalați spre Poarta Sărutului și Masa Tăcerii. Explorați catedrala și muzeul în cursul dimineții. După-amiaza, mergeți pe Calea Eroilor până la impresionanta Coloană a Infinitului. Încheiați ziua cu o plimbare relaxantă pe malul râului Jiu, bucurându-vă de peisaj.",
+        "en": "Start your bike tour in the heart of the city, the Central Park. Cycle to the Gate of the Kiss and the Table of Silence. Explore the cathedral and museum in the morning. In the afternoon, bike along the 'Heroes' Path' to the impressive Endless Column. End the day with a relaxing ride along the Jiu River, enjoying the scenery."
       },
       "gastro_picks": {
-        "de": [
-          {
-            "name": "Velo Café",
-            "tip": "Fahrradfreundliches Café mit tollen Snacks."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Pizzeria Romaneasca",
-            "tip": "Gyors és finom falatok kerékpárosoknak."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Bistro Central",
-            "tip": "Loc perfect pentru o pauză rapidă cu bicicleta."
-          }
-        ],
-        "en": [
-          {
-            "name": "Velo Café",
-            "tip": "Bike-friendly spot for a quick snack."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "quiet_picks": {
-        "de": [
-          {
-            "name": "Lido-See",
-            "tip": "Ein kleiner See am Stadtrand.",
-            "emoji": "🏞️"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Lido-tó",
-            "tip": "Kellemes pihenőhely a város szélén.",
-            "emoji": "🏞️"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Lacul Lido",
-            "tip": "Oază de liniște la marginea orașului.",
-            "emoji": "🏞️"
-          }
-        ],
-        "en": [
-          {
-            "name": "Lido Lake",
-            "tip": "Quiet spot on the outskirts of town.",
-            "emoji": "🏞️"
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "shopping_picks": {
-        "de": [
-          {
-            "name": "Piața 9 Mai",
-            "tip": "Lokaler Markt mit frischem Obst."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Május 9. piac",
-            "tip": "Helyi piac friss gyümölcsökkel."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Piața 9 Mai",
-            "tip": "Piață locală cu produse proaspete."
-          }
-        ],
-        "en": [
-          {
-            "name": "May 9th Market",
-            "tip": "Local market with fresh produce."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "tips": {
         "de": [
-          "Târgu Jiu ist flach und daher ideal für Radfahrer.",
-          "Nutzen Sie die Calea Eroilor als Hauptachse.",
-          "Achten Sie auf Fußgänger im Park.",
-          "Fahrradverleih ist im Zentrum möglich."
+          "Die Stadt ist fahrradfreundlich mit vielen Parks und breiten Straßen.",
+          "Ein Großteil der Brâncuși-Route (Calea Eroilor) ist ideal zum Radfahren.",
+          "Nehmen Sie ein Schloss mit, um Ihr Fahrrad an den Sehenswürdigkeiten sicher abzustellen.",
+          "Ein Picknick am Flussufer ist eine großartige Möglichkeit, eine Pause einzulegen."
         ],
         "hu": [
-          "Târgu Jiu sík terepe ideális a kerékpározáshoz.",
-          "Használja a Hősök útját fő közlekedési tengelyként.",
-          "A parkban ügyeljen a gyalogosokra.",
-          "A központban több helyen bérelhető kerékpár."
+          "A város biciklibarát, sok parkkal és széles utakkal.",
+          "A Brâncuși-útvonal (Calea Eroilor) nagy része ideális kerékpározáshoz.",
+          "Hozzon magával lakatot, hogy biztonságosan lezárhassa a kerékpárt a látnivalóknál.",
+          "Egy piknik a folyóparton remek módja a pihenésnek."
         ],
         "ro": [
-          "Târgu Jiu este un oraș plat, excelent pentru ciclism.",
-          "Axa Calea Eroilor este cea mai sigură rută.",
-          "Atenție la pietoni în zonele de parc.",
-          "Există centre de închiriere în zona centrală."
+          "Orașul este prietenos cu bicicliștii, cu multe parcuri și străzi largi.",
+          "O mare parte din Calea Eroilor este ideală pentru ciclism.",
+          "Luați un lacăt pentru a vă asigura bicicleta la obiectivele turistice.",
+          "Un picnic pe malul râului este o modalitate excelentă de a lua o pauză."
         ],
         "en": [
-          "Târgu Jiu is flat and very bike-friendly.",
-          "Use Calea Eroilor as your main navigating axis.",
-          "Be mindful of pedestrians in the park areas.",
-          "Bike rentals are available in the city center."
+          "The city is bike-friendly with many parks and wide streets.",
+          "Much of the Brâncuși route (Calea Eroilor) is ideal for cycling.",
+          "Bring a lock to secure your bike at the attractions.",
+          "A picnic on the riverbank is a great way to take a break."
         ]
       },
       "variants": {
@@ -1023,261 +900,167 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 12.0,
+      "end_estimate": "16:25",
+      "total_km": 5.2,
       "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Unendliche Säule",
-            "hu": "Végtelen oszlop",
-            "ro": "Coloana fără Sfârșit",
-            "en": "Infinity Column"
+            "de": "Cluster 1: Parken am Zentralpark",
+            "hu": "1. klaszter: Parkolás a Központi Parknál",
+            "ro": "Cluster 1: Parcare la Parcul Central",
+            "en": "Cluster 1: Parking at Central Park"
           },
           "coords": [
-            45.0375,
-            23.2852
+            45.035,
+            23.271
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name": {
+            "de": "Tor des Kusses & Tisch des Schweigens",
+            "hu": "A Csók Kapuja és a Csend Asztala",
+            "ro": "Poarta Sărutului & Masa Tăcerii",
+            "en": "Gate of the Kiss & Table of Silence"
+          },
+          "coords": [
+            45.0365,
+            23.2715
           ],
           "category": "monuments/statues",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Großer Parkplatz direkt am Eingang (Cluster A).",
-            "hu": "Nagy parkoló közvetlenül a bejáratnál (A klaszter).",
-            "ro": "Parcare spațioasă chiar la intrare (Cluster A).",
-            "en": "Large parking lot right at the entrance (Cluster A)."
-          }
+          "arrive_at": "09:05",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
         },
         {
           "name": {
             "de": "Kathedrale der Heiligen Woiwoden",
-            "hu": "Szent Fejedelmek-székesegyház",
+            "hu": "Szent Vajdák Katedrális",
             "ro": "Catedrala Sfinții Voievozi",
             "en": "Cathedral of the Holy Voivodes"
           },
           "coords": [
-            45.0335,
-            23.2735
+            45.0381,
+            23.2755
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:50",
+          "arrive_at": "10:00",
           "stay_min": 40,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Parken Sie im Zentrum (Cluster B) und gehen Sie zu Fuß weiter.",
-            "hu": "Parkoljon a központban (B klaszter) és sétáljon tovább.",
-            "ro": "Parcați în centru (Cluster B) și continuați pe jos.",
-            "en": "Park in the center (Cluster B) and continue on foot."
-          }
-        },
-        {
-          "name": {
-            "de": "Elvira-Godeanu-Theater",
-            "hu": "Elvira Godeanu Színház",
-            "ro": "Teatrul Elvira Godeanu",
-            "en": "Elvira Godeanu Theatre"
-          },
-          "coords": [
-            45.0345,
-            23.2725
-          ],
-          "category": "theatres/cultural centres",
-          "arrive_at": "10:35",
-          "stay_min": 30,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Nur einen kurzen Spaziergang von der Kathedrale entfernt.",
-            "hu": "Rövid séta a katedrálistól.",
-            "ro": "La mică distanță de mers pe jos de catedrală.",
-            "en": "Just a short walk from the cathedral."
-          }
-        },
-        {
-          "name": {
-            "de": "Zentralpark",
-            "hu": "Városi park",
-            "ro": "Parcul Central",
-            "en": "Central Park"
-          },
-          "coords": [
-            45.0305,
-            23.2685
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Parkplatz am Flussufer nutzen (Cluster C).",
-            "hu": "Használja a folyóparti parkolót (C klaszter).",
-            "ro": "Folosiți parcarea de pe malul Jiului (Cluster C).",
-            "en": "Use the riverside parking lot (Cluster C)."
-          }
-        },
-        {
-          "name": {
-            "de": "Tor des Kusses",
-            "hu": "A csók kapuja",
-            "ro": "Poarta Sărutului",
-            "en": "Gate of the Kiss"
-          },
-          "coords": [
-            45.0308,
-            23.2688
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "13:45",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Zu Fuß erreichbar innerhalb des Zentralparks.",
-            "hu": "Gyalogosan elérhető a Városi parkon belül.",
-            "ro": "Accesibil pe jos în incinta Parcului Central.",
-            "en": "Accessible on foot within the Central Park."
-          }
-        },
-        {
-          "name": {
-            "de": "Tisch des Schweigens",
-            "hu": "A hallgatás asztala",
-            "ro": "Masa Tăcerii",
-            "en": "Table of Silence"
-          },
-          "coords": [
-            45.0298,
-            23.2672
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "14:20",
-          "stay_min": 25,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Letzter Stopp am Fluss vor der Rückfahrt.",
-            "hu": "Utolsó állomás a folyóparton indulás előtt.",
-            "ro": "Ultima oprire pe malul Jiului înainte de plecare.",
-            "en": "Final stop by the river before heading back."
-          }
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Kreismuseum Gorj",
+            "hu": "Gorj Megyei Múzeum",
+            "ro": "Muzeul Județean Gorj",
+            "en": "Gorj County Museum"
+          },
+          "coords": [
+            45.0392,
+            23.2768
+          ],
+          "category": "museums",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
+        },
+        {
+          "name": {
+            "de": "Cluster 2: Fahrt zur Unendlichen Säule",
+            "hu": "2. klaszter: Utazás a Végtelen Oszlophoz",
+            "ro": "Cluster 2: Deplasare la Coloana Infinitului",
+            "en": "Cluster 2: Drive to the Endless Column"
+          },
+          "coords": [
+            45.0398,
+            23.2925
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5
+        },
+        {
+          "name": {
+            "de": "Cluster 3: Gedenkhaus Ecaterina Teodoroiu",
+            "hu": "3. klaszter: Ecaterina Teodoroiu Emlékház",
+            "ro": "Cluster 3: Casa Memorială Ecaterina Teodoroiu",
+            "en": "Cluster 3: Ecaterina Teodoroiu Memorial House"
+          },
+          "coords": [
+            45.0425,
+            23.278
+          ],
+          "category": "museums",
+          "arrive_at": "14:08",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.6
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Auto-Tour ist in drei Cluster unterteilt. Wir starten bei der Unendlichen Säule im Osten. Danach fahren wir ins Stadtzentrum (Cluster B), parken das Auto und besuchen die Kathedrale und das Theater zu Fuß. Schließlich fahren wir zum Zentralpark (Cluster C), um Brâncușis restliche Meisterwerke am Flussufer zu bewundern.",
-        "hu": "Ez az autós túra három klaszterre oszlik. Keleten kezdünk a Végtelen oszlopnál. Ezután a városközpontba (B klaszter) hajtunk, ahol leparkolunk és gyalog látogatjuk meg a katedrálist és a színházat. Végül a Városi parkba (C klaszter) megyünk, hogy megcsodáljuk Brâncuși folyóparti mesterműveit.",
-        "ro": "Acest tur auto este împărțit în trei zone. Începem la Coloana fără Sfârșit în est. Apoi conducem spre centrul orașului (Cluster B), unde parcăm și vizităm Catedrala și Teatrul pe jos. În final, mergem la Parcul Central (Cluster C) pentru a admira restul capodoperelor lui Brâncuși de pe malul Jiului.",
-        "en": "This car tour is divided into three clusters. We start at the Infinity Column in the east. Then we drive to the city center (Cluster B), park, and visit the Cathedral and Theatre on foot. Finally, we drive to the Central Park (Cluster C) to admire Brâncuși's remaining masterpieces by the riverbank."
+        "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den Skulpturenkomplex von Brâncuși zu Fuß. Besuchen Sie das Tor des Kusses, den Tisch des Schweigens und die nahe gelegene Kathedrale. Nach dem Museumsbesuch fahren Sie zur Unendlichen Säule. Am Nachmittag fahren Sie zum Gedenkhaus von Ecaterina Teodoroiu, um mehr über die Heldin zu erfahren. Dieser Plan kombiniert kurze Fahrten mit angenehmen Spaziergängen.",
+        "hu": "Parkolja le autóját a központban, és fedezze fel gyalog Brâncuși szoboregyüttesét. Látogassa meg a Csók Kapuját, a Csend Asztalát és a közeli katedrálist. A múzeumlátogatás után vezessen el a Végtelen Oszlophoz. Délután hajtson el Ecaterina Teodoroiu emlékházához, hogy többet tudjon meg a hősnőről. Ez a terv rövid autózásokat kombinál kellemes sétákkal.",
+        "ro": "Parcați mașina în centru și explorați ansamblul sculptural Brâncuși pe jos. Vizitați Poarta Sărutului, Masa Tăcerii și catedrala din apropiere. După vizita la muzeu, conduceți la Coloana Infinitului. După-amiaza, mergeți la Casa Memorială Ecaterina Teodoroiu pentru a afla mai multe despre eroină. Acest plan combină deplasări scurte cu mașina cu plimbări plăcute.",
+        "en": "Park your car downtown and explore the Brâncuși sculptural ensemble on foot. Visit the Gate of the Kiss, the Table of Silence, and the nearby cathedral. After the museum visit, drive to the Endless Column. In the afternoon, head to the Ecaterina Teodoroiu Memorial House to learn about the heroine. This plan combines short drives with pleasant walks."
       },
       "gastro_picks": {
-        "de": [
-          {
-            "name": "Hanul Haiducilor",
-            "tip": "Rustikales Restaurant mit ausreichend Parkplätzen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Bulevard Restaurant",
-            "tip": "Könnyen elérhető autóval a sugárút mentén."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Hanul Haiducilor",
-            "tip": "Restaurant rustic cu parcare generoasă."
-          }
-        ],
-        "en": [
-          {
-            "name": "Hanul Haiducilor",
-            "tip": "Rustic restaurant with ample parking space."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "quiet_picks": {
-        "de": [
-          {
-            "name": "Waldpark",
-            "tip": "Ruhiges Waldgebiet am Stadtrand.",
-            "emoji": "🌲"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Városközeli erdő",
-            "tip": "Csendes erdős terület a város határában.",
-            "emoji": "🌲"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Pădurea Bârsești",
-            "tip": "Zonă forestieră liniștită la marginea orașului.",
-            "emoji": "🌲"
-          }
-        ],
-        "en": [
-          {
-            "name": "Bârsești Forest",
-            "tip": "Quiet wooded area on the edge of the city.",
-            "emoji": "🌲"
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "shopping_picks": {
-        "de": [
-          {
-            "name": "Shopping City Târgu Jiu",
-            "tip": "Modernes Einkaufszentrum mit vielen Parkplätzen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Târgu Jiu Pláza",
-            "tip": "Modern bevásárlóközpont ingyenes parkolással."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Shopping City Târgu Jiu",
-            "tip": "Centru comercial modern cu parcare vastă."
-          }
-        ],
-        "en": [
-          {
-            "name": "Shopping City Târgu Jiu",
-            "tip": "Modern mall with plenty of parking."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "tips": {
         "de": [
-          "Parken im Zentrum kann werktags schwierig sein.",
-          "Nutzen Sie bewachte Parkplätze.",
-          "Vermeiden Sie die Hauptverkehrszeit auf der Calea București.",
-          "Die Stadt ist gut beschildert."
+          "Das Parken im Stadtzentrum kann an Wochentagen eine Herausforderung sein.",
+          "Nutzen Sie die Cluster-Strategie: Parken Sie einmal und erkunden Sie die Umgebung zu Fuß.",
+          "Die Straßen, die die Hauptsehenswürdigkeiten verbinden, sind gut instand gehalten.",
+          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere auf der Calea Eroilor."
         ],
         "hu": [
-          "A központban munkanapokon nehéz lehet a parkolás.",
-          "Használjon őrzött parkolókat.",
-          "Kerülje a csúcsforgalmat a Calea București úton.",
-          "A városban jól látható útbaigazító táblák vannak."
+          "A parkolás a városközpontban hétköznap kihívást jelenthet.",
+          "Használja a klaszter-stratégiát: parkoljon le egyszer, és fedezze fel a környéket gyalog.",
+          "A fő látnivalókat összekötő utak jó állapotban vannak.",
+          "Tartsa be a sebességkorlátozásokat, különösen a Calea Eroilor úton."
         ],
         "ro": [
-          "Parcarea în centru poate fi dificilă în timpul săptămânii.",
-          "Folosiți parcările cu plată pentru siguranță.",
-          "Evitați orele de vârf pe Calea București.",
-          "Orașul este bine semnalizat pentru turiști."
+          "Parcarea în centrul orașului poate fi o provocare în timpul săptămânii.",
+          "Folosiți strategia clusterelor: parcați o dată și explorați zona pe jos.",
+          "Drumurile care leagă principalele atracții sunt bine întreținute.",
+          "Respectați limitele de viteză, în special pe Calea Eroilor."
         ],
         "en": [
-          "Parking in the center can be tricky during weekdays.",
-          "Use designated parking lots for peace of mind.",
-          "Avoid rush hour on Calea București.",
-          "The city is well signposted for artistic landmarks."
+          "Parking in the city center can be challenging on weekdays.",
+          "Use the cluster strategy: park once and explore the area on foot.",
+          "The roads connecting the main attractions are well-maintained.",
+          "Pay attention to speed limits, especially on Calea Eroilor."
         ]
       },
       "variants": {
@@ -1467,55 +1250,45 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 6.0,
-      "stop_count": 6,
+      "end_estimate": "15:45",
+      "total_km": 4.5,
+      "stop_count": 5,
       "stops": [
         {
           "name": {
-            "de": "Unendliche Säule",
-            "hu": "Végtelen oszlop",
-            "ro": "Coloana fără Sfârșit",
-            "en": "Infinity Column"
+            "de": "Cluster 1: Ankunft am Zentralpark",
+            "hu": "1. klaszter: Érkezés a Központi Parkba",
+            "ro": "Cluster 1: Sosire la Parcul Central",
+            "en": "Cluster 1: Arrival at Central Park"
           },
           "coords": [
-            45.0375,
-            23.2852
+            45.0358,
+            23.2721
           ],
-          "category": "monuments/statues",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Buslinie 1 hält direkt vor dem Park.",
-            "hu": "Az 1-es busz megállója közvetlenül a parknál van.",
-            "ro": "Linia de autobuz 1 oprește chiar în fața parcului.",
-            "en": "Bus line 1 stops right in front of the park."
-          }
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
         },
         {
           "name": {
-            "de": "Kathedrale der Heiligen Woiwoden",
-            "hu": "Szent Fejedelmek-székesegyház",
-            "ro": "Catedrala Sfinții Voievozi",
-            "en": "Cathedral of the Holy Voivodes"
+            "de": "Tor des Kusses & Tisch des Schweigens",
+            "hu": "A Csók Kapuja és a Csend Asztala",
+            "ro": "Poarta Sărutului & Masa Tăcerii",
+            "en": "Gate of the Kiss & Table of Silence"
           },
           "coords": [
-            45.0335,
-            23.2735
+            45.0365,
+            23.2715
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:00",
-          "stay_min": 40,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Zentraler Umsteigepunkt in der Nähe.",
-            "hu": "Központi átszállási csomópont a közelben.",
-            "ro": "Nod central de transport în apropiere.",
-            "en": "Central transit hub located nearby."
-          }
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
         },
         {
           "name": {
@@ -1525,203 +1298,101 @@
             "en": "Gorj County Museum"
           },
           "coords": [
-            45.0342,
-            23.2715
+            45.0392,
+            23.2768
           ],
           "category": "museums",
-          "arrive_at": "10:50",
+          "arrive_at": "10:30",
           "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Kurzer Fußweg vom Zentrum.",
-            "hu": "Rövid séta a központtól.",
-            "ro": "O scurtă plimbare din zona centrală.",
-            "en": "A short walk from the central area."
-          }
-        },
-        {
-          "name": {
-            "de": "Zentralpark",
-            "hu": "Városi park",
-            "ro": "Parcul Central",
-            "en": "Central Park"
-          },
-          "coords": [
-            45.0305,
-            23.2685
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "13:20",
-          "stay_min": 75,
+          "hop_mode": "walk",
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Busse zum Park fahren alle 15 Minuten.",
-            "hu": "A parkhoz közlekedő buszok 15 percenként járnak.",
-            "ro": "Autobuzele spre parc circulă la fiecare 15 minute.",
-            "en": "Buses to the park run every 15 minutes."
-          }
+          "hop_from_prev_km": 0.8
         },
         {
           "name": {
-            "de": "Tor des Kusses",
-            "hu": "A csók kapuja",
-            "ro": "Poarta Sărutului",
-            "en": "Gate of the Kiss"
+            "de": "Cluster 2: Fahrt zur Unendlichen Säule",
+            "hu": "2. klaszter: Utazás a Végtelen Oszlophoz",
+            "ro": "Cluster 2: Deplasare la Coloana Infinitului",
+            "en": "Cluster 2: Trip to the Endless Column"
           },
           "coords": [
-            45.0308,
-            23.2688
+            45.0398,
+            23.2925
           ],
           "category": "monuments/statues",
-          "arrive_at": "14:35",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Das Wahrzeichen ist leicht zu finden.",
-            "hu": "A jelkép könnyen megtalálható a parkban.",
-            "ro": "Simbolul este ușor de găsit în parc.",
-            "en": "The landmark is easy to find in the park."
-          }
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5
         },
         {
           "name": {
-            "de": "Tisch des Schweigens",
-            "hu": "A hallgatás asztala",
-            "ro": "Masa Tăcerii",
-            "en": "Table of Silence"
+            "de": "Zurück ins Zentrum",
+            "hu": "Vissza a központba",
+            "ro": "Înapoi în centru",
+            "en": "Back to the center"
           },
           "coords": [
-            45.0298,
-            23.2672
+            45.04,
+            23.276
           ],
-          "category": "monuments/statues",
-          "arrive_at": "15:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Entspannung pur am Ende der Tour.",
-            "hu": "Tökéletes kikapcsolódás a túra végén.",
-            "ro": "Relaxare deplină la finalul turului.",
-            "en": "Pure relaxation at the end of the tour."
-          }
+          "category": "transport",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem lokalen Bussystem erreichen wir bequem alle wichtigen Punkte der Brâncuși-Achse. Wir beginnen an der Unendlichen Säule und fahren dann ins Herz der Stadt zum Museum und zur Kathedrale. Den Nachmittag verbringen wir im Zentralpark, der gut an das Verkehrsnetz angebunden ist und uns direkt zu den berühmten Steinskulpturen führt.",
-        "hu": "A helyi buszhálózattal kényelmesen elérhetjük a Brâncuși-tengely minden fontos pontját. A Végtelen oszlopnál kezdünk, majd a város szívébe utazunk a múzeumhoz és a katedrálishoz. A délutánt a Városi parkban töltjük, amely kiváló közlekedési kapcsolatokkal rendelkezik a híres kőszobrok közelében.",
-        "ro": "Folosind rețeaua locală de autobuze, ajungem ușor la toate punctele axei Brâncuși. Începem la Coloana fără Sfârșit, apoi călătorim spre centrul orașului pentru Muzeu și Catedrală. După-amiaza o petrecem în Parcul Central, bine conectat la transportul public, chiar lângă faimoasele sculpturi în piatră.",
-        "en": "Using the local bus system, we can easily reach all key points of the Brâncuși axis. We start at the Infinity Column and then travel to the heart of the city for the museum and cathedral. The afternoon is spent in the Central Park, which is well-connected to the transit network, leading us directly to the famous stone sculptures."
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um zum Zentralpark zu gelangen, wo Sie die erste Gruppe von Brâncușis Werken finden. Spazieren Sie zum Museum, bevor Sie einen Bus zur Unendlichen Säule nehmen. Der Nachmittag bietet Zeit für einen ruhigen Spaziergang und Reflexion. Kehren Sie mit dem Bus ins Zentrum zurück, um lokale Geschäfte zu erkunden oder einen Kaffee zu genießen.",
+        "hu": "Használja a tömegközlekedést a Központi Parkhoz, ahol Brâncuși műveinek első csoportját találja. Sétáljon el a múzeumhoz, mielőtt busszal menne a Végtelen Oszlophoz. A délután időt ad egy csendes sétára és elmélkedésre. Térjen vissza busszal a központba, hogy felfedezze a helyi üzleteket vagy igyon egy kávét.",
+        "ro": "Folosiți transportul public pentru a ajunge la Parcul Central, unde veți găsi primul grup de opere ale lui Brâncuși. Plimbați-vă până la muzeu înainte de a lua un autobuz spre Coloana Infinitului. După-amiaza oferă timp pentru o plimbare liniștită și reflecție. Întoarceți-vă în centru cu autobuzul pentru a explora magazinele locale sau a savura o cafea.",
+        "en": "Use public transport to get to the Central Park, where you'll find the first group of Brâncuși's works. Walk to the museum before taking a bus to the Endless Column. The afternoon allows for quiet walking and reflection. Return to the center by bus to explore local shops or enjoy a coffee."
       },
       "gastro_picks": {
-        "de": [
-          {
-            "name": "Kofetino",
-            "tip": "Nettes Café in der Nähe der Bushaltestelle."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Kofetino",
-            "tip": "Hangulatos kávézó a buszmegálló közelében."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Kofetino",
-            "tip": "Cafenea primitoare lângă stația de autobuz."
-          }
-        ],
-        "en": [
-          {
-            "name": "Kofetino",
-            "tip": "Cozy cafe near the transit stop."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "quiet_picks": {
-        "de": [
-          {
-            "name": "Lesepark",
-            "tip": "Ruhige Ecke im Stadtzentrum.",
-            "emoji": "📖"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Olvasókert",
-            "tip": "Csendes sarok a városközpontban.",
-            "emoji": "📖"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Parcul de lectură",
-            "tip": "Zonă liniștită în centrul orașului.",
-            "emoji": "📖"
-          }
-        ],
-        "en": [
-          {
-            "name": "Reading Park",
-            "tip": "Quiet corner in the city center.",
-            "emoji": "📖"
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "shopping_picks": {
-        "de": [
-          {
-            "name": "Art Gallery",
-            "tip": "Lokale Kunst und Postkarten."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Művészeti Galéria",
-            "tip": "Helyi alkotások és képeslapok."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Galeria de Artă",
-            "tip": "Artă locală și vederi turistice."
-          }
-        ],
-        "en": [
-          {
-            "name": "Art Gallery",
-            "tip": "Local art and postcards."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "tips": {
         "de": [
-          "Fahrkarten können beim Fahrer oder an Kiosken gekauft werden.",
-          "Linie 1 verbindet die beiden Hauptparks.",
-          "Busse fahren tagsüber sehr regelmäßig.",
-          "Die Haltestellen sind meist gut markiert."
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Informieren Sie sich im Voraus über die Busfahrpläne, da die Frequenz variieren kann.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Behalten Sie die letzte Busverbindung im Auge, um nicht stecken zu bleiben."
         ],
         "hu": [
-          "Jegyek a vezetőnél vagy az újságosoknál válthatók.",
-          "Az 1-es vonal összeköti a két fő parkot.",
-          "A buszok napközben sűrűn járnak.",
-          "A megállók többsége jól ki van táblázva."
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Ellenőrizze előre a buszmenetrendet, mert a járatok sűrűsége változhat.",
+          "A legtöbb központi látnivaló könnyen elérhető gyalog.",
+          "Figyeljen az utolsó buszra, hogy ne ragadjon ott."
         ],
         "ro": [
-          "Biletele pot fi achiziționate de la chioșcuri sau direct de la șofer.",
-          "Linia 1 face legătura între cele două parcuri.",
-          "Autobuzele au o frecvență bună în timpul zilei.",
-          "Stațiile sunt în general bine marcate."
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Verificați orarele autobuzelor în avans, deoarece frecvența poate varia.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Fiți atenți la ultimul autobuz pentru a nu rămâne blocat."
         ],
         "en": [
-          "Tickets can be bought at kiosks or from the driver.",
-          "Line 1 connects the two main parks of the city.",
-          "Buses run frequently during the day.",
-          "Stops are generally well-marked for visitors."
+          "Buy a day pass for unlimited travel.",
+          "Check bus schedules in advance as frequency can vary.",
+          "Most central attractions are easily accessible on foot.",
+          "Keep an eye on the last bus service to avoid getting stranded."
         ]
       },
       "variants": {

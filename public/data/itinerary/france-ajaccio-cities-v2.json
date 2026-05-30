@@ -1,0 +1,888 @@
+{
+  "city_id": "france-ajaccio-cities-v2",
+  "anchor": {
+    "name": "Ajaccio",
+    "coords": [
+      41.9267,
+      8.7369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Foch",
+          "coords": [
+            41.9192,
+            8.7386
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Morgendlicher Markt mit lokalen Spezialitäten.",
+            "hu": "Reggeli piac helyi sajtokkal és felvágottakkal.",
+            "ro": "Piața de dimineață cu brânzeturi și mezeluri locale.",
+            "en": "Morning market with local cheeses and charcuterie."
+          }
+        },
+        {
+          "name": "Maison Bonaparte",
+          "coords": [
+            41.9181,
+            41.9181
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Geburtshaus von Napoleon I.",
+            "hu": "Napóleon szülőháza, korhű bútorokkal.",
+            "ro": "Casa natală a lui Napoleon I.",
+            "en": "The ancestral home of Napoleon Bonaparte."
+          }
+        },
+        {
+          "name": "Cathédrale d'Ajaccio",
+          "coords": [
+            41.9175,
+            8.7381
+          ],
+          "category": "churches",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hier wurde Napoleon 1771 getauft.",
+            "hu": "Itt keresztelték meg Napóleont 1771-ben.",
+            "ro": "Locul unde a fost botezat Napoleon în 1771.",
+            "en": "Where Napoleon was baptized in 1771."
+          }
+        },
+        {
+          "name": "Citadelle d'Ajaccio",
+          "coords": [
+            41.9168,
+            8.7395
+          ],
+          "category": "fortresses",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blick auf die Mauern am Meer.",
+            "hu": "Lenyűgöző tengerparti falak és bástyák.",
+            "ro": "Ziduri impunătoare lângă mare.",
+            "en": "Impressive sea-facing walls and bastions."
+          }
+        },
+        {
+          "name": "Place de Gaulle",
+          "coords": [
+            41.9185,
+            8.7362
+          ],
+          "category": "squares",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Großer Platz mit Blick auf den Golf.",
+            "hu": "Hatalmas tér, középen Napóleon szobrával.",
+            "ro": "Piață vastă cu statuia lui Napoleon.",
+            "en": "Large square with a statue of Napoleon."
+          }
+        },
+        {
+          "name": "Palais Fesch",
+          "coords": [
+            41.9212,
+            8.7392
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bedeutende Sammlung italienischer Malerei.",
+            "hu": "Kiemelkedő olasz festészeti gyűjtemény.",
+            "ro": "Colecție importantă de pictură italiană.",
+            "en": "Significant collection of Italian paintings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Ajaccios Altstadt zu Fuß. Der Morgen beginnt am belebten Place Foch, gefolgt von der Geschichte der Bonapartes. Nachmittags spazieren Sie entlang der Zitadelle zum großen Place de Gaulle und beenden den Tag im Palais Fesch unter Meisterwerken der Renaissance.",
+        "hu": "Fedezze fel Ajaccio óvárosát gyalogosan. A reggel a nyüzsgő Place Foch-on indul, majd a Bonaparte család történetébe láthat bele. Délután a tengerparti Citadella mellett elsétálva érjük el a Place de Gaulle teret, a napot pedig a Palais Fesch reneszánsz remekművei között zárjuk.",
+        "ro": "Explorați centrul vechi din Ajaccio la pas. Dimineața începe în efervescența din Place Foch, urmată de istoria familiei Bonaparte. După-amiaza, plimbarea pe lângă Citadelă vă duce spre Place de Gaulle, încheind ziua la Palais Fesch printre capodoperele Renașterii.",
+        "en": "Explore Ajaccio's old town on foot. Start your morning at the bustling Place Foch, then dive into the Bonaparte family history. In the afternoon, walk past the Citadel to the grand Place de Gaulle and end your day at Palais Fesch among Renaissance masterpieces."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lonzu & Coppa",
+            "tip": "Korsische Wurstwaren vom Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brocciu sajt",
+            "tip": "Helyi juhsajt, amit frissen érdemes kóstolni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beignets au brocciu",
+            "tip": "Gogoși tradiționale cu brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wild Boar Civet",
+            "tip": "Rich stew, a true Corsican specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle Impériale",
+            "tip": "Stille Gruft der Bonapartes.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Casone",
+            "tip": "Nyugodt park a város felett.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port Tino Rossi",
+            "tip": "Priviți bărcile la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel walls",
+            "tip": "Watch the waves in peace.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Cardinal Fesch",
+            "tip": "Haupteinkaufsstraße mit Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché d'Ajaccio",
+            "tip": "Kézműves termékek és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Stazzu",
+            "tip": "Magazin de delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Napoleon Souvenirs",
+            "tip": "Near the birthplace museum."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und ideal zum Gehen.",
+          "Mittagsruhe beachten: Viele kleine Läden schließen zwischen 12 und 14 Uhr.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Az óváros kompakt, minden elérhető rövid sétával.",
+          "Figyeljen a szieszta időre: sok bolt bezár 12 és 14 óra között.",
+          "Kényelmes cipőt viseljen a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Centrul vechi este compact și ideal pentru mersul pe jos.",
+          "Atenție la siestă: multe magazine închid între 12:00 și 14:00.",
+          "Purtați încălțăminte comodă pentru străzile pavate."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "Mind the siesta: many small shops close between 12 PM and 2 PM.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de Gaulle",
+          "coords": [
+            41.9185,
+            8.7362
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt für die Küstenroute.",
+            "hu": "Ideális kiindulópont a tengerparti úthoz.",
+            "ro": "Punct de plecare ideal pentru ruta de coastă.",
+            "en": "Ideal starting point for the coastal route."
+          }
+        },
+        {
+          "name": "Place d'Austerlitz",
+          "coords": [
+            41.9192,
+            8.7245
+          ],
+          "category": "monuments",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Monumentale Gedenkstätte für Napoleon.",
+            "hu": "Napóleon hatalmas emlékműve a Casone-nál.",
+            "ro": "Monument impresionant dedicat lui Napoleon.",
+            "en": "Massive monument dedicated to Napoleon."
+          }
+        },
+        {
+          "name": "Route des Sanguinaires",
+          "coords": [
+            41.9125,
+            8.685
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Panoramastraße entlang herrlicher Buchten.",
+            "hu": "Panorámás kerékpárút gyönyörű öblök mentén.",
+            "ro": "Drum panoramic de-a lungul golfurilor superbe.",
+            "en": "Scenic road along beautiful Mediterranean coves."
+          }
+        },
+        {
+          "name": "Îles Sanguinaires",
+          "coords": [
+            41.9075,
+            8.6115
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Wanderung zum Turm mit 360-Grad-Blick.",
+            "hu": "Gyalogút a toronyhoz, 360 fokos kilátással.",
+            "ro": "Plimbare până la turn pentru o vedere panoramică.",
+            "en": "Hike to the tower for 360-degree sea views."
+          }
+        },
+        {
+          "name": "Place Foch",
+          "coords": [
+            41.9192,
+            8.7386
+          ],
+          "category": "squares",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 12.8,
+          "tip_5lang": {
+            "de": "Erfrischung im Schatten der Palmen.",
+            "hu": "Frissítő a pálmafák árnyékában.",
+            "ro": "O băutură rece sub umbra palmierilor.",
+            "en": "Cool down under the shade of the palms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie aus der Stadt hinaus in die unberührte Natur. Nach dem Napoleon-Denkmal radeln Sie entlang der Küste bis zur Halbinsel der Sanguinaires-Inseln. Genießen Sie das kristallklare Wasser und die frische Meeresbrise, bevor Sie zum Hafen zurückkehren.",
+        "hu": "Ez a kerékpártúra kivezeti Önt a városból a háborítatlan természetbe. A Napóleon-emlékmű után a part mentén kerekezünk a Sanguinaires-szigetek félszigetéig. Élvezze a kristálytiszta vizet és a tengeri szellőt, mielőtt visszatérne a kikötőbe.",
+        "ro": "Această tură cu bicicleta vă scoate din oraș în mijlocul naturii neatinse. După monumentul lui Napoleon, pedalați de-a lungul coastei până la peninsula Sanguinaires. Bucurați-se de apele cristaline și briza mării înainte de a reveni în port.",
+        "en": "This bike tour takes you out of the city into untouched nature. After the Napoleon monument, pedal along the coast to the Sanguinaires Islands peninsula. Enjoy the crystal-clear water and sea breeze before returning to the harbor area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Corte de' Fiori",
+            "tip": "Perfekter Stopp für einen kühlen Drink."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orezza ásványvíz",
+            "tip": "Helyi pezsgő ásványvíz, elengedhetetlen a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pietra sör",
+            "tip": "Gesztenyével készült korsikai sör."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea Urchins",
+            "tip": "Seasonal delicacy found near the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de Barbicaja",
+            "tip": "Ruhige Bucht am Radweg.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe de la Parata",
+            "tip": "Vadregényes sziklák a túra végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chapelle des Grecs",
+            "tip": "Kis kápolna a tengerparti úton.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Quiet coastal path for walking.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Isola",
+            "tip": "Spezialitätenladen direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Appietto kerámia",
+            "tip": "Helyi kézműves tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corsica Pam",
+            "tip": "Korsikai illóolajok és kozmetikumok."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Chestnut honey is a must-buy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße ist größtenteils flach, aber exponiert.",
+          "Viel Wasser und Sonnenschutz mitnehmen.",
+          "Mieten Sie ein E-Bike für eine entspannte Tour zu den Inseln."
+        ],
+        "hu": [
+          "A tengerparti út többnyire sík, de nincs árnyék.",
+          "Vigyen sok vizet és naptejet.",
+          "Béreljen e-bike-ot a kényelmesebb szigeti túrához."
+        ],
+        "ro": [
+          "Drumul de coastă este în mare parte plat, dar expus la soare.",
+          "Luați multă apă și protecție solară.",
+          "Închiriați o bicicletă electrică pentru o tură relaxată spre insule."
+        ],
+        "en": [
+          "The coastal road is mostly flat but very exposed to the sun.",
+          "Carry plenty of water and sunblock.",
+          "Rent an e-bike for a more relaxed ride to the islands."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 30.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Palais Fesch",
+          "coords": [
+            41.9212,
+            8.7392
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Diamant.",
+            "hu": "Parkoljon a Diamant mélygarázsban.",
+            "ro": "Parcați în parcarea subterană Diamant.",
+            "en": "Park at the Diamant underground garage."
+          }
+        },
+        {
+          "name": "Place Foch",
+          "coords": [
+            41.9192,
+            8.7386
+          ],
+          "category": "squares",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Platz im Herzen der Altstadt.",
+            "hu": "Központi tér az óváros szívében.",
+            "ro": "Piața centrală în inima orașului vechi.",
+            "en": "Central square in the heart of the old town."
+          }
+        },
+        {
+          "name": "Maison Bonaparte",
+          "coords": [
+            41.9181,
+            8.7381
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kaiserlichen Gemächer.",
+            "hu": "Látogasson el a császári lakosztályokba.",
+            "ro": "Vizitați apartamentele imperiale.",
+            "en": "Visit the imperial apartments."
+          }
+        },
+        {
+          "name": "Place d'Austerlitz",
+          "coords": [
+            41.9192,
+            8.7245
+          ],
+          "category": "monuments",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Denkmal.",
+            "hu": "Hatalmas parkoló közvetlenül az emlékműnél.",
+            "ro": "Parcare mare chiar lângă monument.",
+            "en": "Large parking lot right by the monument."
+          }
+        },
+        {
+          "name": "Îles Sanguinaires",
+          "coords": [
+            41.9075,
+            8.6115
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Ein Muss für den Sonnenuntergang.",
+            "hu": "Kihagyhatatlan helyszín a naplementéhez.",
+            "ro": "Locație de neratat pentru apus.",
+            "en": "A must-visit spot for the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir das Stadtzentrum mit der spektakulären Küste. Vormittags erkunden wir den 'Kultur-Cluster' zu Fuß nach dem Parken. Danach fahren wir zum Napoleon-Denkmal und schließlich zur Parata-Halbinsel, um die roten Felsen der Sanguinaires-Inseln zu bewundern.",
+        "hu": "Autóval kombináljuk a városközpontot a látványos tengerparttal. Délelőtt a 'Kulturális klasztert' fedezzük fel gyalog a parkolás után. Ezután az Austerlitz térre autózunk, végül pedig a Parata-félszigetre, hogy megcsodáljuk a Sanguinaires-szigetek vörös szikláit.",
+        "ro": "Cu mașina combinăm centrul orașului cu coasta spectaculoasă. Dimineața explorăm 'Clusterul Cultural' pe jos după parcare. Apoi conducem spre Monumentul lui Napoleon și în final spre peninsula Parata pentru a admira stâncile roșii ale insulelor Sanguinaires.",
+        "en": "By car, we combine the city center with the spectacular coastline. In the morning, explore the 'Cultural Cluster' on foot after parking. Then, drive to the Napoleon Monument and finally to the Parata peninsula to admire the red rocks of the Sanguinaires Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge du Prunelli",
+            "tip": "Deftige korsische Küche etwas außerhalb."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Figatellu kolbász",
+            "tip": "Gesztenyeparázson sült májas kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pulenda",
+            "tip": "Mămăligă din făină de castane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastelle",
+            "tip": "Salty turnovers with onion or spinach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe de la Parata",
+            "tip": "Spektakuläre Natur am Ende der Straße.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de Marinella",
+            "tip": "Gyönyörű strand Tino Rossi villája mellett.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scudo Coast",
+            "tip": "Zonă liniștită cu vile și grădini.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tower of Parata",
+            "tip": "Stunning views of the archipelago.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E.Leclerc Ajaccio",
+            "tip": "Großer Supermarkt für lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Artisanat Corse",
+            "tip": "Minőségi helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "A Loghja",
+            "tip": "Produse tradiționale de la micii producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coutellerie du Bastion",
+            "tip": "Handmade Corsican knives."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein; nutzen Sie Parkhäuser.",
+          "Die Straße zu den Sanguinaires ist im Sommer sehr belebt.",
+          "Achten Sie auf die engen Gassen in der Altstadt."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használja a parkolóházakat.",
+          "A szigetekhez vezető út nyáron nagyon forgalmas.",
+          "Vigyázzon a szűk utcákkal az óvárosban."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă; folosiți parcările etajate.",
+          "Drumul spre Sanguinaires este foarte aglomerat vara.",
+          "Atenție la străzile înguste din orașul vechi."
+        ],
+        "en": [
+          "Parking in the center can be tough; use dedicated parking garages.",
+          "The road to Sanguinaires is very busy during summer months.",
+          "Be careful with narrow streets in the historic center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Palais Fesch",
+          "coords": [
+            41.9212,
+            8.7392
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Fesch' direkt davor.",
+            "hu": "A 'Fesch' buszmegálló közvetlenül előtte van.",
+            "ro": "Stația de autobuz 'Fesch' chiar în față.",
+            "en": "Bus stop 'Fesch' is right in front."
+          }
+        },
+        {
+          "name": "Place Foch",
+          "coords": [
+            41.9192,
+            8.7386
+          ],
+          "category": "squares",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": "Maison Bonaparte",
+          "coords": [
+            41.9181,
+            8.7381
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In den Gassen der Altstadt gelegen.",
+            "hu": "Az óváros szűk utcáiban található.",
+            "ro": "Situată pe străduțele orașului vechi.",
+            "en": "Located in the alleys of the old town."
+          }
+        },
+        {
+          "name": "Cathédrale d'Ajaccio",
+          "coords": [
+            41.9175,
+            8.7381
+          ],
+          "category": "churches",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne barocke Architektur.",
+            "hu": "Gyönyörű barokk építészet.",
+            "ro": "Arhitectură barocă superbă.",
+            "en": "Beautiful baroque architecture."
+          }
+        },
+        {
+          "name": "Place de Gaulle",
+          "coords": [
+            41.9185,
+            8.7362
+          ],
+          "category": "squares",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wichtiger Umsteigepunkt für Busse.",
+            "hu": "Fontos átszállópont a buszokhoz.",
+            "ro": "Punct important de transfer pentru autobuze.",
+            "en": "Key transfer point for city buses."
+          }
+        },
+        {
+          "name": "Place d'Austerlitz",
+          "coords": [
+            41.9192,
+            8.7245
+          ],
+          "category": "monuments",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Linie 2 oder 5 bringt Sie hierher.",
+            "hu": "A 2-es vagy 5-ös busz hozza ide.",
+            "ro": "Linia 2 sau 5 vă aduce aici.",
+            "en": "Bus line 2 or 5 stops nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das TCA-Busnetz, um Ajaccios wichtigste Punkte zu verbinden. Wir beginnen im Museumsviertel und erkunden das historische Zentrum zu Fuß. Nachmittags nehmen wir den Bus zum Place de Gaulle und weiter zum Napoleon-Denkmal, um die kaiserliche Geschichte in vollem Umfang zu erleben.",
+        "hu": "Használja a TCA buszhálózatát Ajaccio főbb pontjainak összekötésére. A múzeumi negyedben kezdünk, majd gyalog fedezzük fel a történelmi központot. Délután busszal megyünk a Place de Gaulle-hoz, majd tovább a Napóleon-emlékműhöz, hogy teljes körűen átéljük a császári történelmet.",
+        "ro": "Utilizați rețeaua de autobuze TCA pentru a conecta punctele principale din Ajaccio. Începem în cartierul muzeelor și explorăm centrul istoric pe jos. După-amiaza, luăm autobuzul spre Place de Gaulle și apoi spre Monumentul lui Napoleon pentru a trăi istoria imperială.",
+        "en": "Use the TCA bus network to connect Ajaccio's main landmarks. Start in the museum district and explore the historical center on foot. In the afternoon, take a bus to Place de Gaulle and further to the Napoleon Monument to fully experience the city's imperial history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Canistrelli",
+            "tip": "Traditionelle korsische Kekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Corse Mattei",
+            "tip": "Helyi aperitív ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarte au herbes",
+            "tip": "Plăcintă sărată cu ierburi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brocciu Omelette",
+            "tip": "Fresh cheese omelette with mint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place Campinchi",
+            "tip": "Neu gestalteter Platz am Hafen.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Erasme templom",
+            "tip": "A halászok védőszentjének temploma.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulevard du Roi Jérôme",
+            "tip": "Plimbare relaxantă pe bulevard.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ajaccien Gardens",
+            "tip": "Small green pockets in the center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Monoprix",
+            "tip": "Zentraler Supermarkt für Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Castagnu",
+            "tip": "Gesztenye alapú termékek boltja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Artisan",
+            "tip": "Suveniruri autentice lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché central",
+            "tip": "Best for herbs and salts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets können beim Fahrer oder per App gekauft werden.",
+          "Die Linie 5 fährt entlang der Küste zu den Sanguinaires.",
+          "Die Busse fahren sonntags seltener."
+        ],
+        "hu": [
+          "Jegyeket a sofőrnél vagy applikációban vehet.",
+          "Az 5-ös busz a part mentén megy a Sanguinaires-hez.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la șofer sau prin aplicație.",
+          "Linia 5 merge de-a lungul coastei spre Sanguinaires.",
+          "Autobuzele circulă mai rar duminica."
+        ],
+        "en": [
+          "Tickets can be bought from the driver or via the app.",
+          "Line 5 follows the coast all the way to Sanguinaires.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

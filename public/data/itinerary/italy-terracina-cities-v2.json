@@ -1,0 +1,1129 @@
+{
+  "city_id": "italy-terracina-cities-v2",
+  "anchor": {
+    "name": "Terracina",
+    "coords": [
+      13.25,
+      41.2833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Terracina",
+            "hu": "Terracina kikötője",
+            "ro": "Portul din Terracina",
+            "en": "Port of Terracina"
+          },
+          "coords": [
+            13.2572,
+            41.2845
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote bei der Rückkehr am frühen Morgen.",
+            "hu": "Nézze meg a kora reggel visszatérő halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit care se întorc dimineața devreme.",
+            "en": "Watch the fishing boats returning in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Purgatorio",
+            "hu": "Purgatórium-templom",
+            "ro": "Chiesa del Purgatorio",
+            "en": "Church of the Purgatory"
+          },
+          "coords": [
+            13.2531,
+            41.2868
+          ],
+          "category": "churches",
+          "arrive_at": "10:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Darstellungen von Skeletten an der Fassade.",
+            "hu": "Figyelje meg a csontváz-ábrázolásokat a homlokzaton.",
+            "ro": "Observați reprezentările scheletelor de pe fațadă.",
+            "en": "Look for the skeletal depictions on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Braschi",
+            "hu": "Braschi-palota",
+            "ro": "Palazzo Braschi",
+            "en": "Palazzo Braschi"
+          },
+          "coords": [
+            13.2495,
+            41.2902
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Einst Residenz von Papst Pius VI. während der Trockenlegung der Sümpfe.",
+            "hu": "VI. Pius pápa rezidenciája volt a mocsarak lecsapolása idején.",
+            "ro": "Fosta reședință a Papei Pius al VI-lea în timpul desecării mlaștinilor.",
+            "en": "Former residence of Pope Pius VI during the marsh drainage."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Emiliano",
+            "hu": "Foro Emiliano",
+            "ro": "Foro Emiliano",
+            "en": "Foro Emiliano"
+          },
+          "coords": [
+            13.2482,
+            41.2915
+          ],
+          "category": "squares",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Boden besteht noch aus den originalen römischen Kalksteinplatten.",
+            "hu": "A burkolat még az eredeti római mészkőlapokból áll.",
+            "ro": "Pavajul este format încă din dalele originale de calcar roman.",
+            "en": "The paving still consists of the original Roman limestone slabs."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Cesareo",
+            "hu": "Szent Cesareo-székesegyház",
+            "ro": "Catedrala San Cesareo",
+            "en": "Cathedral of San Cesareo"
+          },
+          "coords": [
+            13.2485,
+            41.2917
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Mosaikboden im Kosmaten-Stil aus dem 12. Jahrhundert.",
+            "hu": "Csodálja meg a 12. századi kozmata stílusú mozaikpadlót.",
+            "ro": "Admirați pavajul de mozaic în stil cosmatesc din secolul al XII-lea.",
+            "en": "Admire the 12th-century Cosmatesque mosaic floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano di Terracina",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman din Terracina",
+            "en": "Roman Theatre of Terracina"
+          },
+          "coords": [
+            13.2478,
+            41.2918
+          ],
+          "category": "theatres",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kürzlich ausgegrabene Stätte direkt neben dem Forum.",
+            "hu": "Nemrég feltárt helyszín közvetlenül a fórum mellett.",
+            "ro": "Sit excavat recent chiar lângă forum.",
+            "en": "Recently excavated site located right next to the forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jupiter-Anxur-Tempel",
+            "hu": "Jupiter Anxur temploma",
+            "ro": "Templul lui Jupiter Anxur",
+            "en": "Temple of Jupiter Anxur"
+          },
+          "coords": [
+            13.2565,
+            41.2912
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 95,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Der beste Aussichtspunkt der Stadt für den Sonnenuntergang.",
+            "hu": "A város legjobb kilátópontja naplementéhez.",
+            "ro": "Cel mai bun punct de belvedere din oraș pentru apus.",
+            "en": "The best viewpoint in the city for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den geschäftigen Hafen und die Unterstadt. Gegen Mittag steigen Sie in die historische Oberstadt auf, wo das antike Forum und der Dom auf den Fundamenten römischer Tempel stehen. Nach einer ausgiebigen Mittagspause besichtigen Sie das antike Theater. Der Tag endet mit dem Aufstieg zum Jupiter-Tempel auf dem Monte Sant'Angelo, von wo aus Sie den Blick über die Pontinischen Inseln genießen.",
+        "hu": "Reggel a nyüzsgő kikötőt és az alsóvárost fedezzük fel. Dél körül felsétálunk a történelmi felsővárosba, ahol az antik fórum és a dóm római templomok alapjain nyugszik. Egy bőséges ebéd után megtekintjük a római színházat. A nap a Monte Sant'Angelo tetején álló Jupiter-templomnál zárul, ahonnan csodás kilátás nyílik a Pontin-szigetekre.",
+        "ro": "Dimineața explorați portul animat și orașul de jos. Spre prânz urcați în orașul istoric de sus, unde forul antic și catedrala stau pe fundațiile templelor romane. După o pauză de prânz prelungită, vizitați teatrul roman. Ziua se încheie cu urcarea la Templul lui Jupiter de pe Monte Sant'Angelo, de unde vă bucurați de vederea asupra Insulelor Pontine.",
+        "en": "In the morning, explore the busy harbor and the lower town. Around midday, ascend to the historic upper town, where the ancient forum and cathedral rest on the foundations of Roman temples. After a long lunch break, visit the Roman theater. The day ends with a climb to the Temple of Jupiter on Monte Sant'Angelo, offering views over the Pontine Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fragole di Terracina",
+            "tip": "Probieren Sie die berühmten kleinen Erdbeeren der Region."
+          },
+          {
+            "name": "Hostaria del Vicolo",
+            "tip": "Frischer Fisch und traditionelle Pasta in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fragole di Terracina",
+            "tip": "Kóstolja meg a régió híres apró szamócáját."
+          },
+          {
+            "name": "Hostaria del Vicolo",
+            "tip": "Friss halak és tradicionális tészták az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fragole di Terracina",
+            "tip": "Gustați faimoasele căpșuni mici ale regiunii."
+          },
+          {
+            "name": "Hostaria del Vicolo",
+            "tip": "Pește proaspăt și paste tradiționale în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragole di Terracina",
+            "tip": "Try the famous small strawberries of the region."
+          },
+          {
+            "name": "Hostaria del Vicolo",
+            "tip": "Fresh fish and traditional pasta in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tempio di Giove Anxur",
+            "tip": "Stille und Panorama hoch über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jupiter Anxur temploma",
+            "tip": "Csend és panoráma magasan a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul lui Jupiter Anxur",
+            "tip": "Liniște și panoramă deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Temple of Jupiter Anxur",
+            "tip": "Silence and panorama high above the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Donnerstags)",
+            "tip": "Lokale Produkte und Kleidung in der Nähe des Stadions."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (csütörtök)",
+            "tip": "Helyi termékek és ruhák a stadion közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (joi)",
+            "tip": "Produse locale și haine lângă stadion."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Thursdays)",
+            "tip": "Local products and clothes near the stadium."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für das Kopfsteinpflaster der Oberstadt unerlässlich.",
+          "Der Aufstieg zum Jupiter-Tempel ist steil; nehmen Sie ausreichend Wasser mit.",
+          "In der Hochsaison ist eine Reservierung für das Abendessen am Hafen ratsam."
+        ],
+        "hu": [
+          "A felsőváros macskaköveihez elengedhetetlen a kényelmes cipő.",
+          "A Jupiter-templomhoz vezető út meredek, vigyen magával vizet.",
+          "Főszezonban érdemes asztalt foglalni a kikötői vacsorához."
+        ],
+        "ro": [
+          "Încălțămintea confortabilă este esențială pentru pavajul din orașul de sus.",
+          "Urcarea la Templul lui Jupiter este abruptă; luați destulă apă.",
+          "În plin sezon, se recomandă rezervarea unei mese pentru cină în port."
+        ],
+        "en": [
+          "Comfortable shoes are essential for the cobblestones of the upper town.",
+          "The climb to the Temple of Jupiter is steep; carry plenty of water.",
+          "In high season, booking a table for dinner at the harbor is advised."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungomare Circe",
+            "hu": "Lungomare Circe",
+            "ro": "Lungomare Circe",
+            "en": "Lungomare Circe"
+          },
+          "coords": [
+            13.2421,
+            41.2785
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Radweg entlang der Küste.",
+            "hu": "Tökéletes kerékpárút a part mentén.",
+            "ro": "Pistă de biciclete perfectă de-a lungul coastei.",
+            "en": "Perfect bike path along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Terracina",
+            "hu": "Terracina kikötője",
+            "ro": "Portul din Terracina",
+            "en": "Port of Terracina"
+          },
+          "coords": [
+            13.2572,
+            41.2845
+          ],
+          "category": "harbor",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher in der Nähe der Molen.",
+            "hu": "Parkolja le biztonságosan a biciklit a mólók közelében.",
+            "ro": "Parcați bicicleta în siguranță lângă diguri.",
+            "en": "Park your bike safely near the piers."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Napoletana",
+            "hu": "Porta Napoletana",
+            "ro": "Porta Napoletana",
+            "en": "Porta Napoletana"
+          },
+          "coords": [
+            13.2525,
+            41.2895
+          ],
+          "category": "towers",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historisches Stadttor am Fuße des Berges.",
+            "hu": "Történelmi városkapu a hegy lábánál.",
+            "ro": "Poarta istorică a orașului la poalele muntelui.",
+            "en": "Historic city gate at the foot of the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Emiliano",
+            "hu": "Foro Emiliano",
+            "ro": "Foro Emiliano",
+            "en": "Foro Emiliano"
+          },
+          "coords": [
+            13.2482,
+            41.2915
+          ],
+          "category": "squares",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die engen Gassen der Oberstadt.",
+            "hu": "Tolja a biciklit a felsőváros szűk utcáin.",
+            "ro": "Împingeți bicicleta pe străzile înguste din orașul de sus.",
+            "en": "Push your bike through the narrow streets of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Cesareo",
+            "hu": "Szent Cesareo-székesegyház",
+            "ro": "Catedrala San Cesareo",
+            "en": "Cathedral of San Cesareo"
+          },
+          "coords": [
+            13.2485,
+            41.2917
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung des Doms im Herzen des historischen Zentrums.",
+            "hu": "A dóm megtekintése a történelmi központ szívében.",
+            "ro": "Vizitarea catedralei în inima centrului istoric.",
+            "en": "Visit the cathedral in the heart of the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jupiter-Anxur-Tempel",
+            "hu": "Jupiter Anxur temploma",
+            "ro": "Templul lui Jupiter Anxur",
+            "en": "Temple of Jupiter Anxur"
+          },
+          "coords": [
+            13.2565,
+            41.2912
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Die Auffahrt erfordert Kondition oder ein E-Bike.",
+            "hu": "A feljutáshoz jó kondíció vagy elektromos bicikli kell.",
+            "ro": "Urcarea necesită condiție fizică sau o bicicletă electrică.",
+            "en": "The climb requires fitness or an e-bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour auf der flachen Promenade Lungomare Circe. Danach führt der Weg zum Hafen und über die antike Porta Napoletana hinauf in die historische Oberstadt. Dort erkunden Sie zu Fuß das Forum und den Dom. Die Krönung ist die anspruchsvolle Auffahrt zum Jupiter-Tempel, die mit einer atemberaubenden Aussicht belohnt wird.",
+        "hu": "Kezdje a biciklis túrát a sík Lungomare Circe sétányon. Ezután az út a kikötőhöz, majd az ősi Porta Napoletana kapun át a történelmi felsővárosba vezet. Ott gyalogosan fedezzük fel a fórumot és a dómot. A túra csúcspontja a Jupiter-templomhoz vezető kihívást jelentő emelkedő, amely lenyűgöző kilátással kárpótol.",
+        "ro": "Începeți turul cu bicicleta pe faleza plată Lungomare Circe. Apoi drumul duce spre port și prin poarta antică Porta Napoletana sus în orașul istoric. Acolo explorați pe jos forul și catedrala. Punctul culminant este urcarea solicitantă la Templul lui Jupiter, răsplătită cu o priveliște uluitoare.",
+        "en": "Start your bike tour on the flat Lungomare Circe promenade. Then the path leads to the harbor and through the ancient Porta Napoletana up to the historic upper town. Explore the forum and cathedral on foot there. The highlight is the challenging climb to the Temple of Jupiter, rewarded with a breathtaking view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelateria del Parco",
+            "tip": "Bestes Eis für eine Pause nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelateria del Parco",
+            "tip": "A legjobb fagylalt egy bringás pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria del Parco",
+            "tip": "Cea mai bună înghețată pentru o pauză după pedalat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria del Parco",
+            "tip": "Best ice cream for a break after cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ponza-Blick",
+            "tip": "Küste nördlich des Hafens.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ponza-kilátás",
+            "tip": "A kikötőtől északra lévő partszakasz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ponza-blick",
+            "tip": "Coasta la nord de port.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ponza view",
+            "tip": "Coast north of the harbor.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biciclette Rizzato",
+            "tip": "Lokaler Fahrradladen für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciclette Rizzato",
+            "tip": "Helyi kerékpárbolt kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biciclette Rizzato",
+            "tip": "Magazin local de biciclete pentru accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biciclette Rizzato",
+            "tip": "Local bike shop for accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Oberstadt herrscht oft Einbahnstraßenverkehr.",
+          "Ein E-Bike wird für den Aufstieg zum Tempel dringend empfohlen.",
+          "Achten Sie am Lungomare auf Fußgänger auf dem Radweg."
+        ],
+        "hu": [
+          "A felsővárosban gyakori az egyirányú forgalom.",
+          "A templomhoz vezető emelkedőhöz erősen ajánlott az elektromos bicikli.",
+          "A sétányon ügyeljen a bicikliútra tévedő gyalogosokra."
+        ],
+        "ro": [
+          "În orașul de sus traficul este adesea cu sens unic.",
+          "Se recomandă insistent o bicicletă electrică pentru urcarea la templu.",
+          "Pe faleză, atenție la pietonii de pe pista de biciclete."
+        ],
+        "en": [
+          "The upper town often has one-way traffic.",
+          "An e-bike is highly recommended for the climb to the temple.",
+          "Watch out for pedestrians on the bike path along the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Terracina",
+            "hu": "Terracina kikötője",
+            "ro": "Portul din Terracina",
+            "en": "Port of Terracina"
+          },
+          "coords": [
+            13.2572,
+            41.2845
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Hafen.",
+            "hu": "Parkoljon a kikötő melletti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de lângă port.",
+            "en": "Park in the large lot near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Purgatorio",
+            "hu": "Purgatórium-templom",
+            "ro": "Chiesa del Purgatorio",
+            "en": "Church of the Purgatory"
+          },
+          "coords": [
+            13.2531,
+            41.2868
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Hafen-Cluster.",
+            "hu": "Rövid séta a kikötői negyedtől.",
+            "ro": "Scurtă plimbare din zona portului.",
+            "en": "Short walk from the harbor cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Braschi",
+            "hu": "Braschi-palota",
+            "ro": "Palazzo Braschi",
+            "en": "Palazzo Braschi"
+          },
+          "coords": [
+            13.2495,
+            41.2902
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz nahe der Via Anxur.",
+            "hu": "Hajtson a Via Anxur közeli parkolóhoz.",
+            "ro": "Conduceți spre parcarea de lângă Via Anxur.",
+            "en": "Drive to the parking near Via Anxur."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Emiliano",
+            "hu": "Foro Emiliano",
+            "ro": "Foro Emiliano",
+            "en": "Foro Emiliano"
+          },
+          "coords": [
+            13.2482,
+            41.2915
+          ],
+          "category": "squares",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Teil des Oberstadt-Clusters zu Fuß.",
+            "hu": "A felsővárosi gyalogos negyed része.",
+            "ro": "Parte a zonei pietonale din orașul de sus.",
+            "en": "Part of the upper town walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Cesareo",
+            "hu": "Szent Cesareo-székesegyház",
+            "ro": "Catedrala San Cesareo",
+            "en": "Cathedral of San Cesareo"
+          },
+          "coords": [
+            13.2485,
+            41.2917
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hauptkirche direkt am Forum.",
+            "hu": "Főtemplom közvetlenül a fórumon.",
+            "ro": "Biserica principală chiar în for.",
+            "en": "Main church directly on the forum."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano di Terracina",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman din Terracina",
+            "en": "Roman Theatre of Terracina"
+          },
+          "coords": [
+            13.2478,
+            41.2918
+          ],
+          "category": "theatres",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 125,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigung nach dem Mittagessen.",
+            "hu": "Ebéd utáni látogatás.",
+            "ro": "Vizită după masa de prânz.",
+            "en": "Visit after lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Jupiter-Anxur-Tempel",
+            "hu": "Jupiter Anxur temploma",
+            "ro": "Templul lui Jupiter Anxur",
+            "en": "Temple of Jupiter Anxur"
+          },
+          "coords": [
+            13.2565,
+            41.2912
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz direkt am Tempel-Eingang.",
+            "hu": "Saját parkoló közvetlenül a templombejáratnál.",
+            "ro": "Parcare proprie chiar la intrarea în templu.",
+            "en": "Dedicated parking right at the temple entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Badino",
+            "hu": "Porto Badino",
+            "ro": "Porto Badino",
+            "en": "Porto Badino"
+          },
+          "coords": [
+            13.195,
+            41.285
+          ],
+          "category": "harbor",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Ruhigerer Hafenbereich westlich der Stadt.",
+            "hu": "Csendesebb kikötői rész a várostól nyugatra.",
+            "ro": "Zonă portuară mai liniștită la vest de oraș.",
+            "en": "Quieter harbor area west of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die drei Hauptbereiche: den Hafen, die historische Oberstadt und den hochgelegenen Jupiter-Tempel. Wir beginnen am Hafen, parken dann in der Nähe des Forums für einen Rundgang durch die Antike und fahren am Nachmittag hinauf zum Monte Sant'Angelo. Zum Abschluss besuchen wir das etwas ruhigere Porto Badino für einen Aperitif am Wasser.",
+        "hu": "Autóval kényelmesen elérhető a három fő terület: a kikötő, a történelmi felsőváros és a magasan fekvő Jupiter-templom. A kikötőben kezdünk, majd a fórum közelében parkolunk egy antik körsétához, délután pedig felhajtunk a Monte Sant'Angelóra. Végül meglátogatjuk a csendesebb Porto Badinót egy vízparti aperitívre.",
+        "ro": "Cu mașina ajungeți ușor la cele trei zone principale: portul, orașul de sus istoric și templul lui Jupiter situat la înălțime. Începem în port, apoi parcăm lângă for pentru un tur antic și după-amiaza urcăm pe Monte Sant'Angelo. La final vizităm Porto Badino, ceva mai liniștit, pentru un aperitiv lângă apă.",
+        "en": "By car, you can easily reach the three main areas: the harbor, the historic upper town, and the elevated Temple of Jupiter. We start at the harbor, then park near the forum for an ancient walking tour, and in the afternoon, drive up to Monte Sant'Angelo. Finally, we visit the quieter Porto Badino for an aperitif by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Il Grappolo d'Oro",
+            "tip": "Hervorragende Weinkarte und lokale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Il Grappolo d'Oro",
+            "tip": "Kiváló borlap és helyi konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Il Grappolo d'Oro",
+            "tip": "Listă de vinuri excelentă și bucătărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Il Grappolo d'Oro",
+            "tip": "Excellent wine list and local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Porto Badino",
+            "tip": "Weniger touristisch, ideal zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porto Badino",
+            "tip": "Kevésbé turisztikai, ideális pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porto Badino",
+            "tip": "Mai puțin turistic, ideal pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Porto Badino",
+            "tip": "Less touristy, ideal for relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eurospin Terracina",
+            "tip": "Großer Supermarkt für lokale Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eurospin Terracina",
+            "tip": "Nagy szupermarket helyi élelmiszerekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eurospin Terracina",
+            "tip": "Supermarket mare pentru alimente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eurospin Terracina",
+            "tip": "Large supermarket for local food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "ZTL-Zonen in der Oberstadt beachten!",
+          "Parkplätze am Hafen sind im Sommer oft voll, früh kommen.",
+          "Die Straße zum Tempel ist schmal, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Ügyeljen a ZTL (korlátozott forgalmi) zónákra a felsővárosban!",
+          "A kikötői parkolók nyáron hamar megtelnek.",
+          "A templomhoz vezető út keskeny, vezessen óvatosan."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL din orașul de sus!",
+          "Parcările din port sunt adesea pline vara; veniți devreme.",
+          "Drumul spre templu este îngust; conduceți cu atenție."
+        ],
+        "en": [
+          "Watch out for ZTL (restricted traffic) zones in the upper town!",
+          "Harbor parking fills quickly in summer; arrive early.",
+          "The road to the temple is narrow; drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Terracina",
+            "hu": "Terracina vasútállomás",
+            "ro": "Gara Terracina",
+            "en": "Terracina Station"
+          },
+          "coords": [
+            13.2385,
+            41.2885
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kauf der Fahrkarten für den Stadtbus.",
+            "hu": "Városi buszjegyek vásárlása.",
+            "ro": "Cumpărarea biletelor pentru autobuzul urban.",
+            "en": "Purchase of city bus tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Terracina",
+            "hu": "Terracina kikötője",
+            "ro": "Portul din Terracina",
+            "en": "Port of Terracina"
+          },
+          "coords": [
+            13.2572,
+            41.2845
+          ],
+          "category": "harbor",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Buslinie Richtung Hafen/Lungomare.",
+            "hu": "Buszjárat a kikötő/sétány felé.",
+            "ro": "Linie de autobuz spre port/faleză.",
+            "en": "Bus line towards the harbor/promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Emiliano",
+            "hu": "Foro Emiliano",
+            "ro": "Foro Emiliano",
+            "en": "Foro Emiliano"
+          },
+          "coords": [
+            13.2482,
+            41.2915
+          ],
+          "category": "squares",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Shuttle-Bus zur Piazza Municipio.",
+            "hu": "Ingajárat a Piazza Municipio-hoz.",
+            "ro": "Autobuz navetă spre Piazza Municipio.",
+            "en": "Shuttle bus to Piazza Municipio."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Cesareo",
+            "hu": "Szent Cesareo-székesegyház",
+            "ro": "Catedrala San Cesareo",
+            "en": "Cathedral of San Cesareo"
+          },
+          "coords": [
+            13.2485,
+            41.2917
+          ],
+          "category": "cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Teil des Upper-Town-Cluster.",
+            "hu": "A felsővárosi gyalogos negyed része.",
+            "ro": "Parte a zonei pietonale de sus.",
+            "en": "Part of the upper town walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Romano di Terracina",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman din Terracina",
+            "en": "Roman Theatre of Terracina"
+          },
+          "coords": [
+            13.2478,
+            41.2918
+          ],
+          "category": "theatres",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 130,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nahe der Bushaltestelle Centro Storico.",
+            "hu": "A Centro Storico buszmegálló közelében.",
+            "ro": "Lângă stația de autobuz Centro Storico.",
+            "en": "Near the Centro Storico bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Jupiter-Anxur-Tempel",
+            "hu": "Jupiter Anxur temploma",
+            "ro": "Templul lui Jupiter Anxur",
+            "en": "Temple of Jupiter Anxur"
+          },
+          "coords": [
+            13.2565,
+            41.2912
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan des speziellen Tempel-Shuttles.",
+            "hu": "Ellenőrizze a speciális templomi ingajárat menetrendjét.",
+            "ro": "Verificați orarul navetei speciale spre templu.",
+            "en": "Check the schedule of the special temple shuttle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz, um zwischen der Unterstadt und der historischen Oberstadt zu pendeln. Wir starten am Bahnhof, besuchen den Hafen und fahren dann hinauf zum historischen Zentrum. Ein spezieller Shuttle-Bus bringt Sie am Nachmittag bequem zum Jupiter-Tempel, sodass Sie den steilen Aufstieg zu Fuß vermeiden.",
+        "hu": "Használja a helyi buszhálózatot az alsó- és a történelmi felsőváros közötti közlekedéshez. A vasútállomástól indulunk, meglátogatjuk a kikötőt, majd felutazunk a történelmi központba. Egy speciális ingajárat délután kényelmesen felvisz a Jupiter-templomhoz, így elkerülheti a meredek gyaloglást.",
+        "ro": "Folosiți rețeaua locală de autobuze pentru a naveta între orașul de jos și cel de sus. Pornim de la gară, vizităm portul și apoi urcăm în centrul istoric. O navetă specială vă duce confortabil după-amiaza la Templul lui Jupiter, evitând urcarea abruptă pe jos.",
+        "en": "Use the local bus network to commute between the lower town and the historic upper town. We start at the station, visit the harbor, and then ride up to the historic center. A special shuttle bus takes you comfortably to the Temple of Jupiter in the afternoon, avoiding the steep walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Treffpunkt für Pendler mit gutem Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Centrale",
+            "tip": "A helyiek találkozóhelye, kiváló eszpresszóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Loc de întâlnire pentru navetiști, cu espresso bun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Meeting point for commuters with good espresso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Municipio",
+            "tip": "Abseits der Hauptverkehrsstraße.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Municipio",
+            "tip": "Távol a főút forgalmától.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Municipio",
+            "tip": "Departe de drumul principal.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Municipio",
+            "tip": "Away from the main road traffic.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabaccheria am Bahnhof",
+            "tip": "Hier gibt es Fahrkarten und Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasúti dohánybolt",
+            "tip": "Itt vásárolhat jegyeket és újságokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabaccheria din gară",
+            "tip": "De aici puteți lua bilete și ziare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Tabaccheria",
+            "tip": "Tickets and newspapers available here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets müssen vor der Fahrt gekauft werden.",
+          "Die Busse verkehren in der Nebensaison seltener.",
+          "Der Shuttle zum Tempel ist oft ein kleiner Minibus."
+        ],
+        "hu": [
+          "A jegyeket az utazás előtt meg kell váltani.",
+          "Szezonon kívül a buszok ritkábban járnak.",
+          "A templomi ingajárat gyakran csak egy kis minibusz."
+        ],
+        "ro": [
+          "Biletele trebuie cumpărate înainte de călătorie.",
+          "Autobuzele circulă mai rar în afara sezonului.",
+          "Naveta spre templu este adesea un microbuz mic."
+        ],
+        "en": [
+          "Tickets must be purchased before boarding.",
+          "Buses run less frequently in the low season.",
+          "The temple shuttle is often a small minibus."
+        ]
+      }
+    }
+  }
+}

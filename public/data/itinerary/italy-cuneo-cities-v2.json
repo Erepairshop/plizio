@@ -1,0 +1,1032 @@
+{
+  "city_id": "italy-cuneo-cities-v2",
+  "anchor": {
+    "name": "Piazza Galimberti",
+    "coords": [
+      7.5456,
+      44.3888
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Galimberti",
+          "coords": [
+            7.5472,
+            44.3897
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Dienstag für lokale Spezialitäten.",
+            "hu": "Keddenként hatalmas helyi piac tölti meg a teret.",
+            "ro": "Vizitați piața locală de marți pentru produse autentice.",
+            "en": "Visit the Tuesday market for authentic local products."
+          }
+        },
+        {
+          "name": "Via Roma",
+          "coords": [
+            7.548,
+            44.391
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterlichen Arkaden beim Bummeln.",
+            "hu": "Csodálja meg a középkori árkádokat séta közben.",
+            "ro": "Admirați arcadele medievale în timp ce vă plimbați.",
+            "en": "Admire the medieval arcades while strolling down."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria del Bosco",
+          "coords": [
+            7.5492,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die beeindruckende Kuppel im Inneren.",
+            "hu": "Figyelje meg a lenyűgöző belső kupolát.",
+            "ro": "Observați cupola impresionantă din interior.",
+            "en": "Observe the impressive dome inside the cathedral."
+          }
+        },
+        {
+          "name": "Torre Civica",
+          "coords": [
+            7.5485,
+            44.3922
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für einen Blick auf die Alpen.",
+            "hu": "Másszon fel a panorámáért az Alpokra.",
+            "ro": "Urcați pentru o vedere panoramică asupra Alpilor.",
+            "en": "Climb up for a panoramic view of the Alps."
+          }
+        },
+        {
+          "name": "Teatro Toselli",
+          "coords": [
+            7.5488,
+            44.3912
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Juwel der piemontesischen Theaterarchitektur.",
+            "hu": "A piemonti színházépítészet egyik ékköve.",
+            "ro": "O bijuterie a arhitecturii teatrale piemonteze.",
+            "en": "A gem of Piedmontese theatrical architecture."
+          }
+        },
+        {
+          "name": "Complesso di San Francesco",
+          "coords": [
+            7.5505,
+            44.3935
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Stadtmuseum befindet sich in einem ehemaligen Kloster.",
+            "hu": "A városi múzeum egy egykori kolostorban működik.",
+            "ro": "Muzeul civic este găzduit într-o fostă mănăstire.",
+            "en": "The civic museum is housed in a former monastery."
+          }
+        },
+        {
+          "name": "Parco Fluviale Gesso e Stura",
+          "coords": [
+            7.555,
+            44.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang am Flussufer.",
+            "hu": "Ideális egy pihentető sétához a folyóparton.",
+            "ro": "Ideal pentru o plimbare relaxantă pe malul râului.",
+            "en": "Ideal for a relaxing stroll along the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens empfängt Sie die Weite der Piazza Galimberti, das pulsierende Herz von Cuneo. Schlendern Sie durch die eleganten Arkaden der Via Roma zur Kathedrale. Mittags genießen Sie die piemontesische Küche in einer der gemütlichen Seitenstraßen. Nachmittags erkunden Sie die Geschichte im San Francesco Komplex und lassen den Tag im weitläufigen Flusspark entspannt ausklingen.",
+        "hu": "A reggel a Piazza Galimberti hatalmas terén kezdődik, amely Cuneo lüktető szíve. Sétáljon végig a Via Roma elegáns árkádjai alatt a katedrálisig. Délben kóstolja meg a piemonti konyhát a hangulatos mellékutcák egyikében. Délután merüljön el a történelemben a San Francesco komplexumban, majd zárja a napot egy pihentető sétával a folyóparti parkban.",
+        "ro": "Dimineața vă întâmpină vastitatea Pieței Galimberti, inima pulsândă a orașului Cuneo. Plimbați-vă prin arcadele elegante de pe Via Roma până la Catedrală. La prânz, savurați bucătăria piemonteză pe una dintre străzile laterale primitoare. După-amiaza, explorați istoria la Complexul San Francesco și încheiați ziua cu o plimbare relaxantă în parcul fluvial.",
+        "en": "In the morning, the vastness of Piazza Galimberti, the beating heart of Cuneo, welcomes you. Stroll through the elegant arcades of Via Roma to the Cathedral. At midday, enjoy Piedmontese cuisine in one of the cozy side streets. In the afternoon, explore history at the San Francesco Complex and end the day with a relaxing walk in the expansive river park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cuneesi al Rhum",
+            "tip": "Berühmte Rum-Pralinen in dunkler Schokolade."
+          },
+          {
+            "name": "Bagna Cauda",
+            "tip": "Warmer Dip aus Knoblauch und Sardellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cuneesi al Rhum",
+            "tip": "Híres rumos-csokoládés bonbon."
+          },
+          {
+            "name": "Castelmagno sajt",
+            "tip": "Helyi eredetvédett hegyi sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cuneesi al Rhum",
+            "tip": "Celebrele bomboane cu ciocolată și rom."
+          },
+          {
+            "name": "Tajarin",
+            "tip": "Helyi vékony tojásos tészta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cuneesi al Rhum",
+            "tip": "Famous rum-filled chocolate pralines."
+          },
+          {
+            "name": "Bagna Cauda",
+            "tip": "Traditional warm garlic and anchovy dip."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Fluviale",
+            "tip": "Stille am Ufer des Gesso.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario Madonna degli Angeli",
+            "tip": "Friedlicher Rückzugsort am Stadtrand.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Fluviale",
+            "tip": "Csend a Gesso folyó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario Madonna degli Angeli",
+            "tip": "Békés menedék a város szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Fluviale",
+            "tip": "Liniște pe malul râului Gesso.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario Madonna degli Angeli",
+            "tip": "Refugiu pașnic la marginea orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Fluviale",
+            "tip": "Serenity on the banks of Gesso.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Santuario Madonna degli Angeli",
+            "tip": "Peaceful retreat on the city outskirts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma Arkaden",
+            "tip": "Modische Boutiquen und Traditionsgeschäfte."
+          },
+          {
+            "name": "Mercato di Piazza Galimberti",
+            "tip": "Großer Wochenmarkt am Dienstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma árkádok",
+            "tip": "Divatos butikok és hagyományos üzletek."
+          },
+          {
+            "name": "Piazza Galimberti piac",
+            "tip": "Hatalmas heti piac minden kedden."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arcadele Via Roma",
+            "tip": "Boutique-uri de modă și magazine tradiționale."
+          },
+          {
+            "name": "Piața Galimberti",
+            "tip": "Piață săptămânală mare în fiecare marți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma Arcades",
+            "tip": "Fashion boutiques and traditional shops."
+          },
+          {
+            "name": "Piazza Galimberti Market",
+            "tip": "Large weekly market every Tuesday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist für ihre 8 km langen Arkaden bekannt, ideal bei Regen.",
+          "Probieren Sie unbedingt die echten Cuneesi Pralinen in der Bar Arione.",
+          "Das historische Zentrum ist kompakt und sehr gut zu Fuß erreichbar.",
+          "Die Aussicht vom Viale degli Angeli auf die Alpen ist spektakulär."
+        ],
+        "hu": [
+          "A város 8 km hosszan elnyúló árkádjairól ismert, esőben is kényelmes.",
+          "Mindenképpen kóstolja meg az eredeti Cuneesi bonbont a Bar Arionéban.",
+          "A történelmi központ kompakt és gyalogosan is kiválóan bejárható.",
+          "A Viale degli Angeli sétányról lenyűgöző kilátás nyílik az Alpokra."
+        ],
+        "ro": [
+          "Orașul este cunoscut pentru cei 8 km de arcade, ideale pe timp de ploaie.",
+          "Nu ratați bomboanele Cuneesi originale la Bar Arione.",
+          "Centrul istoric este compact și foarte ușor de parcurs pe jos.",
+          "Vedere de pe Viale degli Angeli spre Alpi este spectaculoasă."
+        ],
+        "en": [
+          "The city is famous for its 8 km of arcades, perfect for rainy days.",
+          "Be sure to try the original Cuneesi pralines at Bar Arione.",
+          "The historical center is compact and very walkable.",
+          "The view from Viale degli Angeli towards the Alps is spectacular."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza Galimberti",
+          "coords": [
+            7.5472,
+            44.3897
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": "Via Roma",
+          "coords": [
+            7.548,
+            44.391
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Langsam fahren in den Arkaden.",
+            "hu": "Lassan biciklizzen az árkádok alatt.",
+            "ro": "Mergeți încet sub arcade.",
+            "en": "Cycle slowly under the arcades."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria del Bosco",
+          "coords": [
+            7.5492,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fahrrad vor dem Eingang parken.",
+            "hu": "Parkoljon le a bejárat előtt.",
+            "ro": "Parcați bicicleta în fața intrării.",
+            "en": "Park your bike in front of the entrance."
+          }
+        },
+        {
+          "name": "Torre Civica",
+          "coords": [
+            7.5485,
+            44.3922
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das Panorama.",
+            "hu": "Rövid megálló a panorámáért.",
+            "ro": "Oprire scurtă pentru panoramă.",
+            "en": "Short stop for the panorama."
+          }
+        },
+        {
+          "name": "Complesso di San Francesco",
+          "coords": [
+            7.5505,
+            44.3935
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kulturstopp am Nordende.",
+            "hu": "Kulturális megálló az északi részen.",
+            "ro": "Oprire culturală în nord.",
+            "en": "Cultural stop at the north end."
+          }
+        },
+        {
+          "name": "Santuario della Madonna degli Angeli",
+          "coords": [
+            7.5352,
+            44.3755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang des Viale.",
+            "hu": "Szép kerékpárút a sugárút mentén.",
+            "ro": "Pistă frumoasă de biciclete pe bulevard.",
+            "en": "Nice bike path along the avenue."
+          }
+        },
+        {
+          "name": "Parco Fluviale Gesso e Stura",
+          "coords": [
+            7.555,
+            44.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Natur pur auf zwei Rädern.",
+            "hu": "Tiszta természet két keréken.",
+            "ro": "Natură pură pe două roți.",
+            "en": "Pure nature on two wheels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Cuneo mit dem Rad, beginnend im historischen Kern. Nach der Besichtigung der Torre Civica radeln Sie den eleganten Viale degli Angeli hinunter bis zum Santuario. Diese flache Strecke bietet tolle Aussichten. Den Abschluss bildet eine Tour durch den Flusspark, wo asphaltierte Wege durch die grüne Lunge der Stadt führen.",
+        "hu": "Fedezze fel Cuneót kerékpárral, a történelmi magból indulva. A Torre Civica megtekintése után tekerjen végig az elegáns Viale degli Angeli sétányon egészen a szentélyig. Ez a sík útvonal nagyszerű kilátást kínál. A napot a folyóparti parkban zárhatja, ahol aszfaltozott utak vezetnek át a város zöld tüdején.",
+        "ro": "Descoperiți Cuneo cu bicicleta, pornind din nucleul istoric. După vizitarea Torre Civica, pedalați pe elegantul Viale degli Angeli până la Sanctuar. Acest traseu plat oferă priveliști superbe. Încheiați cu o tură prin parcul fluvial, unde potecile asfaltate traversează plămânul verde al orașului.",
+        "en": "Discover Cuneo by bike, starting from the historic core. After visiting the Torre Civica, cycle down the elegant Viale degli Angeli to the Sanctuary. This flat route offers great views. Finish with a tour through the river park, where paved paths lead through the green lung of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Castelmagno Käse",
+            "tip": "Probieren Sie ihn in einer lokalen Osteria."
+          },
+          {
+            "name": "Marrons Glacés",
+            "tip": "Glasierte Kastanien aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castelmagno sajt",
+            "tip": "Kóstolja meg egy helyi ostériában."
+          },
+          {
+            "name": "Marrons Glacés",
+            "tip": "Cukrozott gesztenye a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Castelmagno",
+            "tip": "Gustați-o într-o osteria locală."
+          },
+          {
+            "name": "Marrons Glacés",
+            "tip": "Castane glasate din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castelmagno Cheese",
+            "tip": "Try it in a local osteria."
+          },
+          {
+            "name": "Marrons Glacés",
+            "tip": "Glazed chestnuts from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale degli Angeli",
+            "tip": "Lange, baumbestandene Allee.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale degli Angeli",
+            "tip": "Hosszú, fasoros sugárút.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale degli Angeli",
+            "tip": "Bulevard lung străjuit de arbori.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale degli Angeli",
+            "tip": "Long, tree-lined avenue.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bar Arione",
+            "tip": "Für die besten Cuneesi Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Arione",
+            "tip": "A legjobb Cuneesi bonbonért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Arione",
+            "tip": "Pentru cele mai bune bomboane Cuneesi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Arione",
+            "tip": "For the best Cuneesi pralines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cuneo ist sehr flach, ideal für entspanntes Radfahren.",
+          "Nutzen Sie die Radwege entlang des Flusses Gesso.",
+          "Achten Sie in den engen Gassen der Altstadt auf Fußgänger."
+        ],
+        "hu": [
+          "Cuneo nagyon sík, ideális a kényelmes biciklizéshez.",
+          "Használja a Gesso folyó menti kerékpárutakat.",
+          "Az óváros szűk utcáin ügyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Cuneo este foarte plat, ideal pentru ciclism relaxat.",
+          "Folosiți pistele de biciclete de-a lungul râului Gesso.",
+          "Fiți atenți la pietoni în străzile înguste din centrul vechi."
+        ],
+        "en": [
+          "Cuneo is very flat, ideal for relaxed cycling.",
+          "Use the bike paths along the Gesso river.",
+          "Watch out for pedestrians in the narrow streets of the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Galimberti",
+          "coords": [
+            7.5472,
+            44.3897
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im unterirdischen Parkhaus.",
+            "hu": "Parkoljon a tér alatti mélygarázsban.",
+            "ro": "Parcați în parcarea subterană.",
+            "en": "Park in the underground parking lot."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria del Bosco",
+          "coords": [
+            7.5492,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Parkplatz.",
+            "hu": "Gyalogos megközelítés a parkolótól.",
+            "ro": "Acces pietonal de la parcare.",
+            "en": "Walking distance from the parking."
+          }
+        },
+        {
+          "name": "Torre Civica",
+          "coords": [
+            7.5485,
+            44.3922
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Symbol der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "Symbol of the city."
+          }
+        },
+        {
+          "name": "Complesso di San Francesco",
+          "coords": [
+            7.5505,
+            44.3935
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wichtiger kultureller Stopp.",
+            "hu": "Fontos kulturális állomás.",
+            "ro": "Oprire culturală importantă.",
+            "en": "Important cultural stop."
+          }
+        },
+        {
+          "name": "Santuario della Madonna degli Angeli",
+          "coords": [
+            7.5352,
+            44.3755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Süden.",
+            "hu": "Rövid autóút dél felé.",
+            "ro": "Scurtă călătorie spre sud.",
+            "en": "Short drive south."
+          }
+        },
+        {
+          "name": "Parco Fluviale Gesso e Stura",
+          "coords": [
+            7.555,
+            44.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Abschluss im Grünen.",
+            "hu": "Befejezés a zöldben.",
+            "ro": "Final în natură.",
+            "en": "Finish in the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Stadtteile. Beginnen Sie im Zentrum (Cluster A) mit der Piazza und dem Dom. Nach einem Museumsbesuch fahren Sie zum Santuario am Stadtrand (Cluster B), das eine Oase der Ruhe bietet. Den Nachmittag verbringen Sie im Flusspark, der über gute Parkmöglichkeiten verfügt.",
+        "hu": "Autóval kényelmesen elérheti a város különböző részeit. Kezdje a központban (A klaszter) a főtérrel és a dómmal. Egy múzeumlátogatás után hajtson ki a város szélén található szentélyhez (B klaszter), amely a nyugalom szigete. A délutánt töltse a folyóparti parkban, ahol jó parkolási lehetőségek várják.",
+        "ro": "Cu mașina puteți ajunge confortabil în diferite părți ale orașului. Începeți în centru (Cluster A) cu piața și domul. După o vizită la muzeu, conduceți către sanctuarul de la marginea orașului (Cluster B), o oază de liniște. Petreceți după-amiaza în parcul fluvial, care dispune de locuri de parcare bune.",
+        "en": "By car, you can comfortably reach different parts of the city. Start in the center (Cluster A) with the main square and the cathedral. After a museum visit, drive to the sanctuary on the outskirts (Cluster B), an oasis of peace. Spend the afternoon in the river park, which has good parking options."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Kleine gefüllte Teigtaschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Apró töltött tésztabatyuk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Paste mici umplute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agnolotti del Plin",
+            "tip": "Small pinched pasta pockets."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario",
+            "tip": "Abseits des Trubels.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentély",
+            "tip": "Távol a nyüzsgéstől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanctuarul",
+            "tip": "Departe de agitație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanctuary",
+            "tip": "Away from the hustle.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Feinkostläden",
+            "tip": "Kaufen Sie Trüffelprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi delikát boltok",
+            "tip": "Vásároljon szarvasgomba termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Cumpărați produse cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local delicacies",
+            "tip": "Buy truffle products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser am Rand der Altstadt.",
+          "Die ZTL (verkehrsberuhigte Zone) in der Via Roma beachten.",
+          "Ein Ausflug in die nahen Seealpen lohnt sich per Auto."
+        ],
+        "hu": [
+          "Használja az óváros szélén lévő parkolóházakat.",
+          "Ügyeljen a Via Roma korlátozott forgalmú zónájára (ZTL).",
+          "Autóval érdemes kirándulni a közeli Tengeri-Alpokba."
+        ],
+        "ro": [
+          "Folosiți parcările de la marginea centrului vechi.",
+          "Atenție la zona ZTL de pe Via Roma.",
+          "Merită o excursie cu mașina în Alpii Maritimi din apropiere."
+        ],
+        "en": [
+          "Use the parking garages on the edge of the old town.",
+          "Watch out for the ZTL (restricted traffic zone) on Via Roma.",
+          "A car trip to the nearby Maritime Alps is worth it."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Galimberti",
+          "coords": [
+            7.5472,
+            44.3897
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt vieler Buslinien.",
+            "hu": "Számos buszjárat csomópontja.",
+            "ro": "Nod de transport pentru multe linii.",
+            "en": "Hub for many bus lines."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria del Bosco",
+          "coords": [
+            7.5492,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum.",
+            "hu": "Rövid séta a központból.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": "Complesso di San Francesco",
+          "coords": [
+            7.5505,
+            44.3935
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nördliches Ende der Altstadt.",
+            "hu": "Az óváros északi vége.",
+            "ro": "Capătul nordic al centrului vechi.",
+            "en": "Northern end of the old town."
+          }
+        },
+        {
+          "name": "Santuario della Madonna degli Angeli",
+          "coords": [
+            7.5352,
+            44.3755
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Buslinie Richtung Borgo San Dalmazzo.",
+            "hu": "Buszjárat Borgo San Dalmazzo felé.",
+            "ro": "Linie de autobuz spre Borgo San Dalmazzo.",
+            "en": "Bus line towards Borgo San Dalmazzo."
+          }
+        },
+        {
+          "name": "Teatro Toselli",
+          "coords": [
+            7.5488,
+            44.3912
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum.",
+            "hu": "Visszautazás a központba.",
+            "ro": "Întoarcere în centru.",
+            "en": "Return trip to the center."
+          }
+        },
+        {
+          "name": "Parco Fluviale Gesso e Stura",
+          "coords": [
+            7.555,
+            44.39
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gut erreichbar mit lokalen Bussen.",
+            "hu": "Helyi buszokkal jól elérhető.",
+            "ro": "Ușor accesibil cu autobuzele locale.",
+            "en": "Easily accessible by local buses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Cuneo. Nach dem morgendlichen Stadtrundgang bringt Sie der Bus schnell zum Santuario degli Angeli im Süden. Kehren Sie ins Zentrum zurück, um das Teatro Toselli zu bewundern, und beenden Sie den Tag im Flusspark, der durch mehrere Linien angebunden ist. Die Fahrkarten sind in Tabakläden erhältlich.",
+        "hu": "Használja ki Cuneo sűrű buszhálózatát. A reggeli városnézés után a busz gyorsan elviszi a déli Santuario degli Angelihez. Térjen vissza a központba, hogy megcsodálja a Teatro Tosellit, majd zárja a napot a folyóparti parkban, amely több vonallal is megközelíthető. Jegyek a dohányboltokban kaphatók.",
+        "ro": "Profitați de rețeaua densă de autobuze din Cuneo. După turul de dimineață, autobuzul vă duce rapid la Sanctuarul Angeli din sud. Reveniți în centru pentru a admira Teatrul Toselli și încheiați ziua în parcul fluvial, conectat prin mai multe linii. Biletele se găsesc la tutungerii.",
+        "en": "Take advantage of Cuneo's dense bus network. After the morning city tour, the bus takes you quickly to the Sanctuary of Angeli in the south. Return to the center to admire the Teatro Toselli and end the day in the river park, connected by several lines. Tickets are available at tobacco shops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vitello Tonnato",
+            "tip": "Kalbfleisch mit Thunfischsauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vitello Tonnato",
+            "tip": "Borjúhús tonhalszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vitello Tonnato",
+            "tip": "Carne de vițel cu sos de ton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vitello Tonnato",
+            "tip": "Veal with tuna sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario Garten",
+            "tip": "Ruhe am Ende der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentély kertje",
+            "tip": "Nyugalom a város végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Sanctuarului",
+            "tip": "Liniște la capătul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanctuary Garden",
+            "tip": "Peace at the edge of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Nizza",
+            "tip": "Die moderne Einkaufsstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Nizza",
+            "tip": "A modern bevásárlóutca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Nizza",
+            "tip": "Strada comercială modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Nizza",
+            "tip": "The modern shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten vor Fahrtantritt kaufen.",
+          "Die Hauptlinien kreuzen sich an der Piazza Galimberti.",
+          "Sonntags verkehren die Busse seltener."
+        ],
+        "hu": [
+          "Vásárolja meg a jegyet felszállás előtt.",
+          "A fővonalak a Piazza Galimberti téren találkoznak.",
+          "Vasárnaponként a buszok ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați biletele înainte de urcare.",
+          "Liniile principale se intersectează în Piazza Galimberti.",
+          "Duminica autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Buy tickets before boarding.",
+          "The main lines meet at Piazza Galimberti.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1074 @@
+{
+  "city_id": "neustadt-extra",
+  "anchor": {
+    "name": "Neustadt an der Weinstraße",
+    "coords": [
+      8.1365,
+      49.3524
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Primăriei",
+            "en": "Market Square"
+          },
+          "coords": [
+            8.1365,
+            49.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus und die Fachwerkhäuser.",
+            "hu": "Csodálja meg a városházát és a favázas házakat.",
+            "ro": "Admirați primăria și casele tradiționale cu bârne.",
+            "en": "Admire the city hall and half-timbered houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Stiftskirche",
+            "ro": "Biserica Stiftskirche",
+            "en": "Stiftskirche"
+          },
+          "coords": [
+            8.1368,
+            49.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die größte gotische Hallenkirche der Pfalz.",
+            "hu": "Pfalz legnagyobb gótikus csarnoktemploma.",
+            "ro": "Cea mai mare biserică gotică din Palatinat.",
+            "en": "The largest Gothic hall church in the Palatinate."
+          }
+        },
+        {
+          "name": {
+            "de": "Elwedritsche-Brunnen",
+            "hu": "Elwedritsche-kút",
+            "ro": "Fântâna Elwedritsche",
+            "en": "Elwedritsche Fountain"
+          },
+          "coords": [
+            8.1356,
+            49.3529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:39",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Suchen Sie die Pfälzer Fabelwesen am Brunnen.",
+            "hu": "Keresse meg a pfalzi mesebeli lényeket a kútnál.",
+            "ro": "Căutați creaturile mitice locale la fântână.",
+            "en": "Find the mythical Palatinate creatures on the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Casimirianum",
+            "hu": "Casimirianum",
+            "ro": "Casimirianum",
+            "en": "Casimirianum"
+          },
+          "coords": [
+            8.1345,
+            49.3505
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Ein bedeutendes Renaissance-Bauwerk der Stadt.",
+            "hu": "A város jelentős reneszánsz épülete.",
+            "ro": "O clădire renascentistă importantă a orașului.",
+            "en": "A significant Renaissance building in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum Neustadt",
+            "hu": "Neustadti Vasútmúzeum",
+            "ro": "Muzeul Căilor Ferate Neustadt",
+            "en": "Neustadt Railway Museum"
+          },
+          "coords": [
+            8.1432,
+            49.3482
+          ],
+          "category": "museums",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Historische Dampfloks direkt am Bahnhof.",
+            "hu": "Történelmi gőzmozdonyok közvetlenül az állomásnál.",
+            "ro": "Locomotive cu abur istorice chiar lângă gară.",
+            "en": "Historic steam locomotives right by the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Haardter Schloss (Terrasse)",
+            "hu": "Haardti kastély terasza",
+            "ro": "Terasa Castelului Haardt",
+            "en": "Haardt Castle Terrace"
+          },
+          "coords": [
+            8.1405,
+            49.3625
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über die Weinstraße.",
+            "hu": "Élvezze a kilátást a Weinstraße vidékére.",
+            "ro": "Bucurați-vă de priveliștea peste Drumul Vinului.",
+            "en": "Enjoy the view over the Wine Route."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Herz der Pfalz zu Fuß. Ihr Tag beginnt am historischen Marktplatz mit seinen Prachtbauten. Nach dem Besuch der Stiftskirche und des Elwedritsche-Brunnens tauchen Sie im Casimirianum in die Geschichte ein. Ein Muss für Technikfans ist das Eisenbahnmuseum. Den Nachmittag krönt ein Spaziergang hinauf zum Haardter Schloss für ein Panorama über die endlosen Weinberge.",
+        "hu": "Fedezze fel Pfalz szívét gyalogosan. Napja a történelmi főtéren kezdődik, csodás épületek között. A Stiftskirche és a különleges madaras kút után a Casimirianum reneszánsz falai várják. A technika szerelmeseinek kötelező a Vasútmúzeum. A délutánt egy kellemes séta koronázza meg a Haardti kastélyhoz, ahonnan beláthatja a végtelen szőlőültetvényeket.",
+        "ro": "Explorați inima Palatinatului la pas. Ziua începe în piața istorică, înconjurată de clădiri superbe. După vizitarea bisericii Stiftskirche și a fântânii Elwedritsche, descoperiți istoria la Casimirianum. Pasionații de tehnică nu trebuie să rateze Muzeul Căilor Ferate. După-amiaza se încheie cu o plimbare spre Castelul Haardt pentru o panoramă asupra podgoriilor nesfârșite.",
+        "en": "Explore the heart of the Palatinate on foot. Your day starts at the historic market square, surrounded by grand buildings. After visiting the Stiftskirche and the whimsical fountain, dive into history at the Casimirianum. A must for rail fans is the Railway Museum. The afternoon is capped off with a walk up to Haardt Castle for a panoramic view over the endless vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller",
+            "tip": "Probieren Sie Pfälzer Saumagen in historischem Ambiente."
+          },
+          {
+            "name": "Brauhaus Neustadt",
+            "tip": "Hausgebrautes Bier und deftige regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller",
+            "tip": "Kóstolja meg a pfalzi Saumagent történelmi környezetben."
+          },
+          {
+            "name": "Brauhaus Neustadt",
+            "tip": "Helyi sörök és kiadós regionális ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller",
+            "tip": "Gustați Saumagen de Palatinat într-un decor istoric."
+          },
+          {
+            "name": "Brauhaus Neustadt",
+            "tip": "Bere artizanală și bucătărie regională consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller",
+            "tip": "Try the Palatinate Saumagen in a historic setting."
+          },
+          {
+            "name": "Brauhaus Neustadt",
+            "tip": "House-brewed beer and hearty regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge am Haardter Schloss",
+            "tip": "Ein ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stiftskirchen-Kreuzgang",
+            "tip": "Stille Oase im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haardti kastély szőlősei",
+            "tip": "Csendes hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stiftskirche keringője",
+            "tip": "Csendes oázis a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile de la Castelul Haardt",
+            "tip": "Un loc liniștit pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul bisericii Stiftskirche",
+            "tip": "Oază de liniște în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards at Haardt Castle",
+            "tip": "A quiet spot for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stiftskirche Cloister",
+            "tip": "Silent oasis in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinkammer",
+            "tip": "Lokale Weine und Spezialitäten der Region."
+          },
+          {
+            "name": "Marktplatz-Wochenmarkt",
+            "tip": "Frische Produkte von Pfälzer Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weinkammer",
+            "tip": "Helyi borok és a régió specialitásai."
+          },
+          {
+            "name": "Heti piac a főtéren",
+            "tip": "Friss termékek pfalzi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weinkammer",
+            "tip": "Vinuri locale și specialități regionale."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weinkammer",
+            "tip": "Local wines and regional specialties."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh produce from Palatinate farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Die Pfälzer Weinstuben sind oft gesellig, man setzt sich gerne dazu.",
+          "Neustadt ist sehr gut an das Wanderwegenetz angebunden.",
+          "Achten Sie auf die Elwedritsche-Figuren überall in der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskakövei miatt.",
+          "A pfalzi borozókban szokás ismeretlenek mellé is leülni.",
+          "Neustadt kiváló kiindulópont a túrázáshoz.",
+          "Figyelje az Elwedritsche figurákat városszerte."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru pavajul din centrul vechi.",
+          "În tavernele locale este obișnuit să stați la masă cu străinii.",
+          "Neustadt are o rețea excelentă de trasee de drumeție.",
+          "Căutați figurinele Elwedritsche peste tot prin oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones in the old town.",
+          "In Palatinate wine taverns, it's common to share tables.",
+          "Neustadt is perfectly connected to the hiking trail network.",
+          "Look out for Elwedritsche figures all over the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Primăriei",
+            "en": "Market Square"
+          },
+          "coords": [
+            8.1365,
+            49.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für die Weinstraße.",
+            "hu": "Tökéletes kiindulópont a borúthoz.",
+            "ro": "Punct de plecare ideal pentru Drumul Vinului.",
+            "en": "Perfect starting point for the Wine Route."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Wolfsburg",
+            "hu": "Wolfsburg várrom",
+            "ro": "Ruinele Wolfsburg",
+            "en": "Wolfsburg Ruins"
+          },
+          "coords": [
+            8.1255,
+            49.3605
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Ein etwas steiler Anstieg, der sich lohnt.",
+            "hu": "Kicsit meredek emelkedő, de megéri.",
+            "ro": "O urcare puțin abruptă, dar care merită.",
+            "en": "A slightly steep climb that is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Haardter Schloss",
+            "hu": "Haardti kastély",
+            "ro": "Castelul Haardt",
+            "en": "Haardt Castle"
+          },
+          "coords": [
+            8.1405,
+            49.3625
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Schlossgarten.",
+            "hu": "Gyönyörű kastélykert.",
+            "ro": "Grădină superbă a castelului.",
+            "en": "Beautiful castle garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum",
+            "hu": "Vasútmúzeum",
+            "ro": "Muzeul Căilor Ferate",
+            "en": "Railway Museum"
+          },
+          "coords": [
+            8.1432,
+            49.3482
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei den Dampf-Giganten.",
+            "hu": "Rövid megálló az óriási gőzmozdonyoknál.",
+            "ro": "Scurt popas la giganții cu abur.",
+            "en": "Short stop at the steam giants."
+          }
+        },
+        {
+          "name": {
+            "de": "Hambacher Schloss",
+            "hu": "Hambachi kastély",
+            "ro": "Castelul Hambach",
+            "en": "Hambach Castle"
+          },
+          "coords": [
+            8.1185,
+            49.3245
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Die Wiege der deutschen Demokratie.",
+            "hu": "A német demokrácia bölcsője.",
+            "ro": "Locul de naștere al democrației germane.",
+            "en": "The cradle of German democracy."
+          }
+        },
+        {
+          "name": {
+            "de": "Elwedritsche-Brunnen",
+            "hu": "Elwedritsche-kút",
+            "ro": "Fântâna Elwedritsche",
+            "en": "Elwedritsche Fountain"
+          },
+          "coords": [
+            8.1356,
+            49.3529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Ein letztes Foto mit den Fabelwesen.",
+            "hu": "Egy utolsó fotó a mesebeli lényekkel.",
+            "ro": "O ultimă fotografie cu creaturile mitice.",
+            "en": "A final photo with the mythical creatures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erleben Sie die Vielfalt rund um Neustadt. Von der Altstadt führt der Weg hinauf zur Wolfsburg und zum Haardter Schloss. Nach einer Abfahrt zum Eisenbahnmuseum geht es zur wichtigsten historischen Stätte der Region: dem Hambacher Schloss. Eine Tour durch Weinberge und Geschichte.",
+        "hu": "Kerékpárral élvezheti igazán Neustadt környékét. Az óvárosból a Wolfsburg romjaihoz és a Haardti kastélyhoz vezet az út. A Vasútmúzeum után a régió legfontosabb történelmi helyszíne következik: a Hambachi kastély. Egy túra szőlőültetvények és a történelem mentén.",
+        "ro": "Cu bicicleta veți experimenta diversitatea din jurul Neustadt. Din centrul vechi, drumul urcă spre ruinele Wolfsburg și Castelul Haardt. După o coborâre spre Muzeul Căilor Ferate, urmează cel mai important sit istoric: Castelul Hambach. Un tur prin podgorii și istorie.",
+        "en": "Experience the diversity around Neustadt by bike. From the old town, the path leads up to the Wolfsburg ruins and Haardt Castle. After a descent to the Railway Museum, head to the region's most important historical site: Hambach Castle. A tour through vineyards and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinhaus Henninger",
+            "tip": "Gehobene Pfälzer Küche im nahen Kallstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weinhaus Henninger",
+            "tip": "Minőségi pfalzi konyha a közeli Kallstadtban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weinhaus Henninger",
+            "tip": "Bucătărie de calitate în apropiere, la Kallstadt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weinhaus Henninger",
+            "tip": "Upscale Palatinate cuisine in nearby Kallstadt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege bei der Wolfsburg",
+            "tip": "Ruhige Pfade durch den Pfälzerwald.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wolfsburg erdei útjai",
+            "tip": "Csendes ösvények a pfalzi erdőben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările de lângă Wolfsburg",
+            "tip": "Poteci liniștite prin pădurea Palatinat.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths near Wolfsburg",
+            "tip": "Quiet trails through the Palatinate Forest.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Winzergenossenschaften",
+            "tip": "Direktverkauf von den umliegenden Winzern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bortermelő szövetkezetek",
+            "tip": "Közvetlen vásárlás a környékbeli borászoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativele viticole",
+            "tip": "Vânzare directă de la vinificatorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vintners' Cooperatives",
+            "tip": "Direct sales from surrounding winemakers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für die Anstiege zu den Schlössern sehr zu empfehlen.",
+          "Nutzen Sie die markierten Radwege durch die Weinreben."
+        ],
+        "hu": [
+          "Az emelkedők miatt az e-bike erősen ajánlott.",
+          "Használja a kijelölt kerékpárutakat a szőlősorok között."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru urcările spre castele.",
+          "Folosiți pistele de biciclete marcate printre vii."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the climbs to the castles.",
+          "Use the marked bike paths through the vineyards."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Cluster Altstadt)",
+            "hu": "Főtér (Óváros negyed)",
+            "ro": "Piața Mare (Centrul Vechi)",
+            "en": "Market Square (Old Town Cluster)"
+          },
+          "coords": [
+            8.1365,
+            49.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Zentrum.",
+            "hu": "Parkoljon a központi parkolóházban.",
+            "ro": "Parcați în parcarea etajată din centru.",
+            "en": "Park in the multi-storey car park near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Stiftskirche",
+            "ro": "Biserica Stiftskirche",
+            "en": "Stiftskirche"
+          },
+          "coords": [
+            8.1368,
+            49.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Elwedritsche-Brunnen",
+            "hu": "Elwedritsche-kút",
+            "ro": "Fântâna Elwedritsche",
+            "en": "Elwedritsche Fountain"
+          },
+          "coords": [
+            8.1356,
+            49.3529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:29",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "Landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hambacher Schloss",
+            "hu": "Hambachi kastély",
+            "ro": "Castelul Hambach",
+            "en": "Hambach Castle"
+          },
+          "coords": [
+            8.1185,
+            49.3245
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz unterhalb des Schlosses.",
+            "hu": "Nagy parkoló a kastély alatt.",
+            "ro": "Parcare mare sub castel.",
+            "en": "Large car park below the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum",
+            "hu": "Vasútmúzeum",
+            "ro": "Muzeul Căilor Ferate",
+            "en": "Railway Museum"
+          },
+          "coords": [
+            8.1432,
+            49.3482
+          ],
+          "category": "museums",
+          "arrive_at": "12:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Einfach per Auto erreichbar am Bahnhof.",
+            "hu": "Autóval könnyen elérhető az állomásnál.",
+            "ro": "Ușor accesibil cu mașina lângă gară.",
+            "en": "Easily accessible by car at the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Haardter Schloss",
+            "hu": "Haardti kastély",
+            "ro": "Castelul Haardt",
+            "en": "Haardt Castle"
+          },
+          "coords": [
+            8.1405,
+            49.3625
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Aussichtspunkt bequem erreichbar.",
+            "hu": "Kényelmesen elérhető kilátópont.",
+            "ro": "Punct de belvedere ușor accesibil.",
+            "en": "Easily accessible viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die historischen Cluster von Neustadt. Zuerst erkunden Sie die Altstadt zu Fuß, parken dann um zum Hambacher Schloss für deutsche Geschichte pur. Später besuchen Sie das Eisenbahnmuseum und das Schloss in Haardt. Ideal, um viel in kurzer Zeit zu sehen.",
+        "hu": "Autóval könnyen összekötheti Neustadt történelmi negyedeit. Előbb az óvárost járja be gyalog, majd guruljon át a Hambachi kastélyhoz a német történelemért. Később látogassa meg a Vasútmúzeumot és a Haardti kastélyt. Ideális, ha sokat szeretne látni rövid idő alatt.",
+        "ro": "Cu mașina puteți conecta rapid districtele istorice din Neustadt. Mai întâi explorați centrul vechi la pas, apoi mergeți la Castelul Hambach pentru istoria germană. Ulterior, vizitați Muzeul Căilor Ferate și castelul din Haardt. Ideal pentru a vedea multe într-un timp scurt.",
+        "en": "Connect Neustadt's historical clusters by car. First, explore the old town on foot, then drive to Hambach Castle for pure German history. Later, visit the Railway Museum and the castle in Haardt. Ideal for seeing a lot in a short amount of time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meerspinne",
+            "tip": "Traditionelles Weinrestaurant in Gimmeldingen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meerspinne",
+            "tip": "Hagyományos borétterem Gimmeldingenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meerspinne",
+            "tip": "Restaurant tradițional în Gimmeldingen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meerspinne",
+            "tip": "Traditional wine restaurant in Gimmeldingen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramastraße",
+            "tip": "Fahrt durch die Weinberge bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panorámaút",
+            "tip": "Autózás a szőlők között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul panoramic",
+            "tip": "Plimbare printre vii la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Panoramic Route",
+            "tip": "Drive through the vineyards at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in Haardt",
+            "tip": "Frisches Obst und Wein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haardti udvari boltok",
+            "tip": "Friss gyümölcs és bor közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de fermă din Haardt",
+            "tip": "Fructe proaspete și vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in Haardt",
+            "tip": "Fresh fruit and wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die engen Gassen in der Altstadt.",
+          "Parken Sie am Hambacher Schloss auf dem offiziellen Platz."
+        ],
+        "hu": [
+          "Ügyeljen a szűk utcákra az óvárosban.",
+          "Hambachnál a kijelölt parkolót használja."
+        ],
+        "ro": [
+          "Atenție la străzile înguste din centrul vechi.",
+          "Parcați la Castelul Hambach în locul oficial."
+        ],
+        "en": [
+          "Watch out for narrow streets in the old town.",
+          "Park at Hambach Castle in the official lot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eisenbahnmuseum",
+            "hu": "Vasútmúzeum",
+            "ro": "Muzeul Căilor Ferate",
+            "en": "Railway Museum"
+          },
+          "coords": [
+            8.1432,
+            49.3482
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Direkt am Hauptbahnhof gelegen.",
+            "hu": "Közvetlenül a főpályaudvarnál.",
+            "ro": "Situat chiar lângă gara centrală.",
+            "en": "Located right at the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            8.1365,
+            49.3524
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Bahnhof.",
+            "hu": "Rövid séta az állomástól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Elwedritsche-Brunnen",
+            "hu": "Elwedritsche-kút",
+            "ro": "Fântâna Elwedritsche",
+            "en": "Elwedritsche Fountain"
+          },
+          "coords": [
+            8.1356,
+            49.3529
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Witziger Stopp im Zentrum.",
+            "hu": "Vicces megálló a központban.",
+            "ro": "Oprire amuzantă în centru.",
+            "en": "Funny stop in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Hambacher Schloss",
+            "hu": "Hambachi kastély",
+            "ro": "Castelul Hambach",
+            "en": "Hambach Castle"
+          },
+          "coords": [
+            8.1185,
+            49.3245
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus 502 ab dem Hauptbahnhof.",
+            "hu": "Használja az 502-es buszt a főpályaudvartól.",
+            "ro": "Luați autobuzul 502 de la gara centrală.",
+            "en": "Take bus 502 from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Stiftskirche",
+            "ro": "Biserica Stiftskirche",
+            "en": "Stiftskirche"
+          },
+          "coords": [
+            8.1368,
+            49.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückkehr in die Altstadt per Bus.",
+            "hu": "Visszatérés az óvárosba busszal.",
+            "ro": "Revenire în centrul vechi cu autobuzul.",
+            "en": "Return to the old town by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Neustadt lässt sich hervorragend mit Bus und Bahn erkunden. Vom Eisenbahnmuseum am Bahnhof spazieren Sie in die Altstadt. Der Bus 502 bringt Sie bequem hinauf zum Hambacher Schloss und zurück. Ein stressfreier Tag ganz ohne Parkplatzsuche.",
+        "hu": "Neustadt remekül felfedezhető busszal és vonattal. Az állomás melletti Vasútmúzeumból sétáljon be az óvárosba. Az 502-es busz kényelmesen felviszi a Hambachi kastélyhoz és vissza. Stresszmentes nap parkolóhely-keresés nélkül.",
+        "ro": "Neustadt poate fi explorat excelent cu autobuzul și trenul. De la Muzeul Căilor Ferate de lângă gară, plimbați-vă în centrul vechi. Autobuzul 502 vă duce confortabil la Castelul Hambach și înapoi. O zi fără stres, fără căutarea unui loc de parcare.",
+        "en": "Neustadt is easily explored by bus and train. From the Railway Museum at the station, stroll into the old town. Bus 502 takes you comfortably up to Hambach Castle and back. A stress-free day without searching for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confiserie Michel",
+            "tip": "Bekannt für feine Torten und Pralinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confiserie Michel",
+            "tip": "Híres finom tortáiról és pralinéiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie Michel",
+            "tip": "Cunoscută pentru torturi și praline fine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confiserie Michel",
+            "tip": "Famous for fine cakes and pralines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Ruhezone nahe dem Bahnhof.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Zöld pihenőhely az állomás közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Zonă verde de relaxare lângă gară.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green relaxation zone near the station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bücherstube am Rathaus",
+            "tip": "Lokale Literatur und Karten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvesbolt a városházánál",
+            "tip": "Helyi irodalom és térképek a régióról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria de lângă primărie",
+            "tip": "Literatură locală și hărți ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bookshop at City Hall",
+            "tip": "Local literature and regional maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VRN-App für aktuelle Bus-Abfahrtszeiten.",
+          "Das Tagesticket lohnt sich oft ab der zweiten Fahrt."
+        ],
+        "hu": [
+          "Használja a VRN alkalmazást az aktuális buszmenetrendhez.",
+          "A napijegy gyakran már a második utazástól megéri."
+        ],
+        "ro": [
+          "Folosiți aplicația VRN pentru orele de plecare actualizate.",
+          "Biletul de o zi merită adesea de la a doua călătorie."
+        ],
+        "en": [
+          "Use the VRN app for up-to-date bus departure times.",
+          "A day ticket is often worth it from the second trip onwards."
+        ]
+      }
+    }
+  }
+}

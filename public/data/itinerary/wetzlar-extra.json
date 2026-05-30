@@ -1,0 +1,1165 @@
+{
+  "city_id": "wetzlar-extra",
+  "anchor": {
+    "name": "Wetzlarer Dom",
+    "coords": [
+      8.5015,
+      50.5583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wetzlarer Dom",
+            "hu": "Wetzlári dóm",
+            "ro": "Catedrala din Wetzlar",
+            "en": "Wetzlar Cathedral"
+          },
+          "coords": [
+            8.5015,
+            50.5583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die unvollendete Westfassade.",
+            "hu": "Figyelje meg a befejezetlen nyugati homlokzatot.",
+            "ro": "Observați fațada vestică neterminată.",
+            "en": "Look at the unfinished western facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichskammergerichtsmuseum",
+            "hu": "Birodalmi Kamarabíróság Múzeuma",
+            "ro": "Muzeul Curții Imperiale de Justiție",
+            "en": "Imperial Chamber Court Museum"
+          },
+          "coords": [
+            8.5005,
+            50.5575
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier lernte Goethe die Rechtswissenschaft.",
+            "hu": "Itt tanult Goethe jogtudományt.",
+            "ro": "Aici a studiat Goethe dreptul.",
+            "en": "This is where Goethe studied law."
+          }
+        },
+        {
+          "name": {
+            "de": "Lottehaus",
+            "hu": "Lotte-ház",
+            "ro": "Casa Lotte",
+            "en": "Lottehaus"
+          },
+          "coords": [
+            8.5022,
+            50.557
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Haus von Charlotte Buff, Goethes Muse.",
+            "hu": "Charlotte Buff háza, Goethe múzsája.",
+            "ro": "Casa lui Charlotte Buff, muza lui Goethe.",
+            "en": "The home of Charlotte Buff, Goethe's muse."
+          }
+        },
+        {
+          "name": {
+            "de": "Jerusalemhaus",
+            "hu": "Jeruzsálem-ház",
+            "ro": "Casa Jerusalem",
+            "en": "Jerusalemhaus"
+          },
+          "coords": [
+            8.5035,
+            50.5562
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gedenkstätte für Karl Wilhelm Jerusalem.",
+            "hu": "Emlékhely Karl Wilhelm Jerusalem tiszteletére.",
+            "ro": "Memorial pentru Karl Wilhelm Jerusalem.",
+            "en": "Memorial for Karl Wilhelm Jerusalem."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Lahnbrücke",
+            "hu": "Régi Lahn-híd",
+            "ro": "Podul vechi peste Lahn",
+            "en": "Old Lahn Bridge"
+          },
+          "coords": [
+            8.4988,
+            50.5605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos der Altstadt.",
+            "hu": "Tökéletes hely az óváros fotózásához.",
+            "ro": "Locul perfect pentru fotografii cu centrul vechi.",
+            "en": "Perfect spot for photos of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengärtchen",
+            "hu": "Rózsakert",
+            "ro": "Grădina cu trandafiri",
+            "en": "Rosengärtchen"
+          },
+          "coords": [
+            8.5045,
+            50.5545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ehemaliger Friedhof mit Freilichtbühne.",
+            "hu": "Egykori temető szabadtéri színpaddal.",
+            "ro": "Fost cimitir cu scenă în aer liber.",
+            "en": "A former cemetery with an open-air stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalsmunt",
+            "hu": "Kalsmunt várrom",
+            "ro": "Ruinele Kalsmunt",
+            "en": "Kalsmunt"
+          },
+          "coords": [
+            8.5085,
+            50.5485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beste Aussicht über die gesamte Stadt.",
+            "hu": "A legjobb kilátás az egész városra.",
+            "ro": "Cea mai bună vedere asupra întregului oraș.",
+            "en": "Best view over the entire city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im imposanten Wetzlarer Dom, einer der ältesten Simultankirchen Deutschlands. Tauchen Sie in den verwinkelten Gassen der Altstadt in die Welt der Rechtsgeschichte und Goethes 'Werther' ein. Der Nachmittag gehört der Romantik an der Lahnbrücke und im Rosengärtchen. Zum Abschluss bietet der Kalsmunt einen weiten Blick über das Lahntal im goldenen Abendlicht.",
+        "hu": "Kezdje a napot az impozáns Wetzlári dómban, Németország egyik legrégebbi szimultán templomában. Merüljön el az óváros kanyargós utcáiban a jogtörténet és Goethe 'Werther'-ének világában. A délután a romantikáé a Lahn-hídnál és a Rózsakertben. A nap végén a Kalsmunt várrom kínál tágas kilátást a Lahn-völgyre az esti fényekben.",
+        "ro": "Începeți ziua la impresionanta Catedrală din Wetzlar, una dintre cele mai vechi biserici simultane din Germania. Explorați străzile întortocheate ale centrului vechi, unde istoria dreptului se întâlnește cu 'Werther' al lui Goethe. După-amiaza este dedicată romantismului la podul peste Lahn și în Rosengärtchen. La final, ruinele Kalsmunt oferă o panoramă spectaculoasă asupra văii Lahn la apus.",
+        "en": "Start your day at the imposing Wetzlar Cathedral, one of Germany's oldest simultaneous churches. Dive into the world of legal history and Goethe's 'Werther' in the winding alleys of the old town. The afternoon is dedicated to romance by the Lahn Bridge and in the Rose Garden. To conclude, the Kalsmunt tower offers a vast view over the Lahn Valley in the golden evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wetzlarer Hof",
+            "tip": "Traditionelle hessische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Kostbar",
+            "tip": "Moderne Tapas und regionale Weine direkt am Domplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wetzlarer Hof",
+            "tip": "Hagyományos hesseni konyha történelmi környezetben."
+          },
+          {
+            "name": "Kostbar",
+            "tip": "Modern tapasok és regionális borok a Dóm téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wetzlarer Hof",
+            "tip": "Bucătărie tradițională hessiană într-un cadru istoric."
+          },
+          {
+            "name": "Kostbar",
+            "tip": "Tapas moderne și vinuri regionale în Piața Catedralei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wetzlarer Hof",
+            "tip": "Traditional Hessian cuisine in a historical setting."
+          },
+          {
+            "name": "Kostbar",
+            "tip": "Modern tapas and regional wines right on Cathedral Square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengärtchen",
+            "tip": "Idyllische Stille zwischen alten Stadtmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kalsmunt-Turm",
+            "tip": "Panoramablick ohne touristischen Trubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosengärtchen",
+            "tip": "Idilli csend a régi városfalak között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kalsmunt-torony",
+            "tip": "Panoráma kilátás turisztikai nyüzsgés nélkül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rosengärtchen",
+            "tip": "Liniște idilică între zidurile vechi ale orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Turnul Kalsmunt",
+            "tip": "Vedere panoramică departe de agitația turistică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rosengärtchen",
+            "tip": "Idyllic silence between old city walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kalsmunt Tower",
+            "tip": "Panoramic view without the tourist crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Kleine Läden mit handwerklichen Produkten in der Schwarzadlergasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Kézműves termékek kis boltjai a Schwarzadlergasséban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri din centrul vechi",
+            "tip": "Magazine mici cu produse artizanale pe Schwarzadlergasse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Small shops with artisanal products in Schwarzadlergasse."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kopfsteingepflastert, tragen Sie festes Schuhwerk.",
+          "Besuchen Sie den Dom am Vormittag für das beste Licht im Innenraum.",
+          "Wetzlar ist hügelig; die Wege zum Kalsmunt erfordern etwas Kondition.",
+          "Montags sind viele Museen in der Stadt geschlossen."
+        ],
+        "hu": [
+          "Az óváros macskaköves, viseljen kényelmes cipőt.",
+          "Délelőtt látogassa meg a dómot a legjobb belső fényekért.",
+          "Wetzlar dombos; a Kalsmunthoz vezető út némi állóképességet igényel.",
+          "Hétfőnként a város legtöbb múzeuma zárva tart."
+        ],
+        "ro": [
+          "Centrul vechi are pavaj de piatră cubică, purtați încălțăminte comodă.",
+          "Vizitați catedrala dimineața pentru cele mai bune lumini în interior.",
+          "Wetzlar este deluros; drumul spre Kalsmunt necesită puțină condiție fizică.",
+          "Lunea multe muzee din oraș sunt închise."
+        ],
+        "en": [
+          "The old town is cobblestoned, wear sturdy walking shoes.",
+          "Visit the cathedral in the morning for the best interior lighting.",
+          "Wetzlar is hilly; the path to Kalsmunt requires some fitness.",
+          "Many museums in the city are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leica Welt im Leitz-Park",
+            "hu": "Leica Világ a Leitz-Parkban",
+            "ro": "Lumea Leica din Leitz-Park",
+            "en": "Leica Welt at Leitz-Park"
+          },
+          "coords": [
+            8.5355,
+            50.5525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die moderne Architektur und Kamerageschichte.",
+            "hu": "Csodálja meg a modern építészetet és a fényképezőgépek történetét.",
+            "ro": "Admirați arhitectura modernă și istoria camerelor foto.",
+            "en": "Admire the modern architecture and camera history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalsmunt",
+            "hu": "Kalsmunt várrom",
+            "ro": "Ruinele Kalsmunt",
+            "en": "Kalsmunt"
+          },
+          "coords": [
+            8.5085,
+            50.5485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber die Abfahrt lohnt sich.",
+            "hu": "Meredek emelkedő, de a lejtő megéri.",
+            "ro": "Urcare abruptă, dar coborârea merită.",
+            "en": "Steep climb, but the descent is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetzlarer Dom",
+            "hu": "Wetzlári dóm",
+            "ro": "Catedrala din Wetzlar",
+            "en": "Wetzlar Cathedral"
+          },
+          "coords": [
+            8.5015,
+            50.5583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Domplatz sicher ab.",
+            "hu": "Hagyja kerékpárját biztonságos helyen a Dóm téren.",
+            "ro": "Lăsați bicicleta în siguranță în Piața Catedralei.",
+            "en": "Park your bike safely at the Cathedral Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Lottehaus",
+            "hu": "Lotte-ház",
+            "ro": "Casa Lotte",
+            "en": "Lottehaus"
+          },
+          "coords": [
+            8.5022,
+            50.557
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der Weltliteratur.",
+            "hu": "A világirodalom kedvelőinek kötelező program.",
+            "ro": "O necesitate pentru fanii literaturii universale.",
+            "en": "A must for fans of world literature."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Lahnbrücke",
+            "hu": "Régi Lahn-híd",
+            "ro": "Podul vechi peste Lahn",
+            "en": "Old Lahn Bridge"
+          },
+          "coords": [
+            8.4988,
+            50.5605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad über die Brücke.",
+            "hu": "Tolja át a kerékpárt a hídon.",
+            "ro": "Împingeți bicicleta peste pod.",
+            "en": "Push your bike across the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengärtchen",
+            "hu": "Rózsakert",
+            "ro": "Grădina cu trandafiri",
+            "en": "Rosengärtchen"
+          },
+          "coords": [
+            8.5045,
+            50.5545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannung pur nach der Tour.",
+            "hu": "Tiszta kikapcsolódás a túra után.",
+            "ro": "Relaxare pură după tur.",
+            "en": "Pure relaxation after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Hochtechnologie mit Mittelalter. Starten Sie im modernen Leitz-Park bei Leica, bevor Sie die Höhen zum Kalsmunt-Turm erklimmen. Nach der rasanten Abfahrt in die Altstadt erkunden Sie den Dom und das Erbe Goethes. Die Route führt Sie schließlich entlang der Lahn und endet entspannt im Rosengärtchen.",
+        "hu": "Ez a kerékpártúra összeköti a csúcstechnológiát a középkorral. Kezdjen a modern Leitz-Parkban a Leicánál, mielőtt felkapaszkodna a Kalsmunt-toronyhoz. A gyors leereszkedés után az óvárosba fedezze fel a dómot és Goethe örökségét. Az útvonal végül a Lahn mentén vezet, és pihentetően zárul a Rózsakertben.",
+        "ro": "Acest tur cu bicicleta îmbină tehnologia de vârf cu epoca medievală. Începeți în modernul Leitz-Park la Leica, înainte de a urca spre turnul Kalsmunt. După o coborâre rapidă în centrul vechi, explorați catedrala și moștenirea lui Goethe. Traseul vă conduce în final de-a lungul râului Lahn și se încheie relaxat în Rosengärtchen.",
+        "en": "This bike tour combines high-tech with the Middle Ages. Start at the modern Leitz-Park at Leica before climbing the heights to the Kalsmunt tower. After a swift descent into the old town, explore the cathedral and Goethe's legacy. The route finally takes you along the Lahn and ends relaxingly in the Rose Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café Ernst",
+            "tip": "Perfekter Zwischenstopp im Leitz-Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café Ernst",
+            "tip": "Tökéletes pihenőhely a Leitz-Parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café Ernst",
+            "tip": "O oprire perfectă în Leitz-Park."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café Ernst",
+            "tip": "Perfect stopover at Leitz-Park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lahn-Ufer",
+            "tip": "Ruhige Wege entlang des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lahn-part",
+            "tip": "Csendes utak a folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Lahn",
+            "tip": "Drumuri liniștite de-a lungul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lahn River banks",
+            "tip": "Quiet paths along the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leica Store",
+            "tip": "Für Optik-Enthusiasten und Fotografie-Fans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leica Store",
+            "tip": "Optika-rajongóknak és a fotózás kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leica Store",
+            "tip": "Pentru entuziaștii opticii și fanii fotografiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leica Store",
+            "tip": "For optics enthusiasts and photography fans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Lahnradweg für flache Etappen.",
+          "In der Altstadt ist das Radfahren nur eingeschränkt erlaubt.",
+          "Die Strecke zum Kalsmunt ist sportlich anspruchsvoll.",
+          "Leihräder gibt es am Bahnhof Wetzlar."
+        ],
+        "hu": [
+          "Használja a Lahn menti kerékpárutat a sík szakaszokhoz.",
+          "Az óvárosban a kerékpározás csak korlátozottan engedélyezett.",
+          "A Kalsmunthoz vezető szakasz sportosan nagy kihívást jelent.",
+          "Bérelhető kerékpárok a wetzlári vasútállomáson találhatók."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete Lahnradweg pentru etapele plane.",
+          "În centrul vechi ciclismul este permis doar limitat.",
+          "Traseul spre Kalsmunt este solicitant din punct de vedere sportiv.",
+          "Biciclete de închiriat se găsesc la gara din Wetzlar."
+        ],
+        "en": [
+          "Use the Lahn cycle path for flat sections.",
+          "Cycling is only restrictedly allowed in the old town.",
+          "The stretch to Kalsmunt is physically demanding.",
+          "Rental bikes are available at Wetzlar station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Leica Welt im Leitz-Park",
+            "hu": "Leica Világ a Leitz-Parkban",
+            "ro": "Lumea Leica din Leitz-Park",
+            "en": "Leica Welt at Leitz-Park"
+          },
+          "coords": [
+            8.5355,
+            50.5525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das kostenlose Parkhaus am Leitz-Park.",
+            "hu": "Használja az ingyenes parkolóházat a Leitz-Parknál.",
+            "ro": "Folosiți parcarea gratuită de la Leitz-Park.",
+            "en": "Use the free parking garage at Leitz-Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalsmunt",
+            "hu": "Kalsmunt várrom",
+            "ro": "Ruinele Kalsmunt",
+            "en": "Kalsmunt"
+          },
+          "coords": [
+            8.5085,
+            50.5485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb des Turms vorhanden.",
+            "hu": "Parkoló közvetlenül a torony alatt található.",
+            "ro": "Parcare disponibilă direct sub turn.",
+            "en": "Parking available directly below the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Lahnbrücke (Parken Lahninsel)",
+            "hu": "Régi Lahn-híd (Parkolás Lahn-sziget)",
+            "ro": "Podul vechi peste Lahn (Parcare Lahninsel)",
+            "en": "Old Lahn Bridge (Parking Lahninsel)"
+          },
+          "coords": [
+            8.4988,
+            50.5605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für den Altstadt-Besuch.",
+            "hu": "Központi parkoló az óvárosi látogatáshoz.",
+            "ro": "Parcare centrală pentru vizitarea centrului vechi.",
+            "en": "Central parking for visiting the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetzlarer Dom",
+            "hu": "Wetzlári dóm",
+            "ro": "Catedrala din Wetzlar",
+            "en": "Wetzlar Cathedral"
+          },
+          "coords": [
+            8.5015,
+            50.5583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur 5 Min. Fußweg vom Parkplatz Lahninsel.",
+            "hu": "Csak 5 perc gyalog a Lahn-szigeti parkolótól.",
+            "ro": "Doar 5 minute de mers de la parcarea Lahninsel.",
+            "en": "Only 5 min walk from Lahninsel parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichskammergerichtsmuseum",
+            "hu": "Birodalmi Kamarabíróság Múzeuma",
+            "ro": "Muzeul Curții Imperiale de Justiție",
+            "en": "Imperial Chamber Court Museum"
+          },
+          "coords": [
+            8.5005,
+            50.5575
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentrum der historischen Altstadt.",
+            "hu": "A történelmi óváros központja.",
+            "ro": "Centrul centrului istoric.",
+            "en": "Center of the historical old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Lottehaus",
+            "hu": "Lotte-ház",
+            "ro": "Casa Lotte",
+            "en": "Lottehaus"
+          },
+          "coords": [
+            8.5022,
+            50.557
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inmitten malerischer Fachwerkhäuser.",
+            "hu": "Gerezdvázas házak festői környezetében.",
+            "ro": "În mijlocul unor case pitorești cu bârne.",
+            "en": "Amidst picturesque half-timbered houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Jerusalemhaus",
+            "hu": "Jeruzsálem-ház",
+            "ro": "Casa Jerusalem",
+            "en": "Jerusalemhaus"
+          },
+          "coords": [
+            8.5035,
+            50.5562
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Werther-Fans sollten dies nicht verpassen.",
+            "hu": "A Werther-rajongók ne hagyják ki.",
+            "ro": "Fanii lui Werther nu ar trebui să rateze asta.",
+            "en": "Werther fans should not miss this."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengärtchen",
+            "hu": "Rózsakert",
+            "ro": "Grădina cu trandafiri",
+            "en": "Rosengärtchen"
+          },
+          "coords": [
+            8.5045,
+            50.5545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vor der Abfahrt.",
+            "hu": "Rövid séta az elindulás előtt.",
+            "ro": "O scurtă plimbare înainte de plecare.",
+            "en": "Short walk before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt das Auto, um bequem zwischen dem modernen Leitz-Park im Osten und dem historischen Zentrum zu pendeln. Nach dem Technik-Erlebnis bei Leica führt die Fahrt zum Aussichtspunkt Kalsmunt. Danach parken Sie zentral an der Lahninsel, um die kompakte Altstadt mit Dom, Museen und Goethe-Häusern zu Fuß zu erkunden, bevor der Tag im Rosengärtchen ausklingt.",
+        "hu": "Ez a túra az autót használja a kényelmes közlekedéshez a keleti modern Leitz-Park és a történelmi központ között. A leicai technológiai élmény után az út a Kalsmunt kilátóhoz vezet. Ezután központilag, a Lahn-szigeten parkolva fedezheti fel gyalog a kompakt óvárost a dómot, a múzeumokat és a Goethe-házakat, mielőtt a nap a Rózsakertben véget érne.",
+        "ro": "Acest tur folosește mașina pentru a face naveta confortabil între modernul Leitz-Park din est și centrul istoric. După experiența tehnologică de la Leica, drumul duce la punctul panoramic Kalsmunt. Apoi parcați central la Lahninsel pentru a explora pe jos centrul vechi compact cu catedrala, muzeele și casele lui Goethe, înainte ca ziua să se încheie în Rosengärtchen.",
+        "en": "This tour uses the car to conveniently commute between the modern Leitz-Park in the east and the historical center. After the tech experience at Leica, the drive leads to the Kalsmunt viewpoint. Then, park centrally at Lahninsel to explore the compact old town with its cathedral, museums, and Goethe houses on foot, before the day ends in the Rose Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leitz-Park Gastronomie",
+            "tip": "Gehobene Küche in modernem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leitz-Park Gastronomie",
+            "tip": "Színvonalas konyha modern környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leitz-Park Gastronomie",
+            "tip": "Bucătărie sofisticată într-un cadru modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leitz-Park Gastronomy",
+            "tip": "Upscale cuisine in a modern setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkhaus Leitz-Park",
+            "tip": "Sorgenfreies Parken mit viel Platz.",
+            "emoji": "🅿️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leitz-Park parkolóház",
+            "tip": "Gondtalan parkolás sok hellyel.",
+            "emoji": "🅿️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Leitz-Park",
+            "tip": "Parcare fără griji cu mult spațiu.",
+            "emoji": "🅿️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Leitz-Park Parking Garage",
+            "tip": "Worry-free parking with plenty of space.",
+            "emoji": "🅿️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Wetzlar",
+            "tip": "Großes Einkaufszentrum direkt an der B49."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Wetzlar",
+            "tip": "Nagy bevásárlóközpont közvetlenül a B49 mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Wetzlar",
+            "tip": "Centru comercial mare direct lângă B49."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Wetzlar",
+            "tip": "Large shopping mall right by the B49 highway."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze in der Altstadt sind begrenzt, nutzen Sie die Parkhäuser.",
+          "Die B49 führt direkt durch die Stadt und bietet gute Anbindung.",
+          "Achten Sie auf Anwohnerparkzonen in der Nähe der Goethe-Häuser.",
+          "Am Wochenende ist das Parken auf der Lahninsel oft voll."
+        ],
+        "hu": [
+          "Az óvárosi parkolóhelyek korlátozottak, használja a parkolóházakat.",
+          "A B49-es út közvetlenül a városon keresztül vezet, jó összeköttetést biztosítva.",
+          "Figyeljen a lakossági parkolózónákra a Goethe-házak közelében.",
+          "Hétvégén a Lahn-szigeti parkoló gyakran megtelik."
+        ],
+        "ro": [
+          "Locurile de parcare din centrul vechi sunt limitate, folosiți parcările etajate.",
+          "B49 trece direct prin oraș și oferă conexiuni bune.",
+          "Atenție la zonele de parcare pentru rezidenți lângă casele lui Goethe.",
+          "În weekend parcarea de pe Lahninsel este adesea plină."
+        ],
+        "en": [
+          "Parking spaces in the old town are limited, use the parking garages.",
+          "The B49 highway runs directly through the city, offering good access.",
+          "Watch out for resident parking zones near the Goethe houses.",
+          "On weekends, parking on Lahninsel is often full."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leica Welt (Leitz-Park)",
+            "hu": "Leica Világ (Leitz-Park)",
+            "ro": "Lumea Leica (Leitz-Park)",
+            "en": "Leica Welt (Leitz-Park)"
+          },
+          "coords": [
+            8.5355,
+            50.5525
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Buslinie 11 verbindet den Bahnhof mit dem Leitz-Park.",
+            "hu": "A 11-es buszvonal köti össze az állomást a Leitz-Parkkal.",
+            "ro": "Linia de autobuz 11 face legătura între gară și Leitz-Park.",
+            "en": "Bus line 11 connects the station with Leitz-Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetzlarer Dom",
+            "hu": "Wetzlári dóm",
+            "ro": "Catedrala din Wetzlar",
+            "en": "Wetzlar Cathedral"
+          },
+          "coords": [
+            8.5015,
+            50.5583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ausstieg Haltestelle 'Domplatz'.",
+            "hu": "Szálljon le a 'Domplatz' megállónál.",
+            "ro": "Coborâți la stația 'Domplatz'.",
+            "en": "Get off at 'Domplatz' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Lottehaus",
+            "hu": "Lotte-ház",
+            "ro": "Casa Lotte",
+            "en": "Lottehaus"
+          },
+          "coords": [
+            8.5022,
+            50.557
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Altstadt.",
+            "hu": "Rövid séta az óvároson keresztül.",
+            "ro": "Scurtă plimbare prin centrul vechi.",
+            "en": "Short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Reichskammergerichtsmuseum",
+            "hu": "Birodalmi Kamarabíróság Múzeuma",
+            "ro": "Muzeul Curții Imperiale de Justiție",
+            "en": "Imperial Chamber Court Museum"
+          },
+          "coords": [
+            8.5005,
+            50.5575
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wichtiges Museum für die deutsche Rechtsgeschichte.",
+            "hu": "A német jogtörténet fontos múzeuma.",
+            "ro": "Muzeu important pentru istoria dreptului german.",
+            "en": "Important museum for German legal history."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Lahnbrücke",
+            "hu": "Régi Lahn-híd",
+            "ro": "Podul vechi peste Lahn",
+            "en": "Old Lahn Bridge"
+          },
+          "coords": [
+            8.4988,
+            50.5605
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick auf das Lahnufer.",
+            "hu": "Kilátás a Lahn partjára.",
+            "ro": "Vedere asupra malului râului Lahn.",
+            "en": "View of the Lahn river banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengärtchen",
+            "hu": "Rózsakert",
+            "ro": "Grădina cu trandafiri",
+            "en": "Rosengärtchen"
+          },
+          "coords": [
+            8.5045,
+            50.5545
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Busse halten in der Nähe der Hospitalkirche.",
+            "hu": "A buszok a Hospitalkirche közelében állnak meg.",
+            "ro": "Autobuzele opresc lângă Hospitalkirche.",
+            "en": "Buses stop near the Hospitalkirche."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Wetzlarer Stadtbus-System erkunden Sie effizient die Kontraste der Stadt. Beginnen Sie im modernen Leitz-Park und fahren Sie dann direkt ins Herz der Altstadt zum Domplatz. Der restliche Tag findet in den historischen Gassen und Museen statt, die alle bequem zu Fuß erreichbar sind. Ein entspannter Ausklang im Rosengärtchen bildet den perfekten Abschluss.",
+        "hu": "A wetzlári városi buszhálózattal hatékonyan fedezheti fel a város kontrasztjait. Kezdjen a modern Leitz-Parkban, majd utazzon közvetlenül az óváros szívébe, a Dóm térre. A nap hátralévő része a történelmi utcákban és múzeumokban telik, amelyek mind kényelmesen elérhetők gyalog. A pihentető zárás a Rózsakertben tökéletes befejezést nyújt.",
+        "ro": "Cu sistemul de autobuze urbane din Wetzlar, explorați eficient contrastele orașului. Începeți în modernul Leitz-Park și apoi mergeți direct în inima centrului vechi, în Piața Catedralei. Restul zilei se desfășoară pe străzile istorice și în muzee, toate fiind ușor accesibile pe jos. O încheiere relaxată în Rosengärtchen constituie finalul perfect.",
+        "en": "With the Wetzlar city bus system, you efficiently explore the city's contrasts. Start at the modern Leitz-Park and then travel directly into the heart of the old town to Cathedral Square. The rest of the day takes place in the historical alleys and museums, all conveniently reachable on foot. A relaxing finish in the Rose Garden provides the perfect conclusion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Moos",
+            "tip": "Lokale Backwaren in der Nähe der Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Moos",
+            "tip": "Helyi pékáruk a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Moos",
+            "tip": "Produse locale de patiserie lângă stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Moos",
+            "tip": "Local baked goods near the bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dom-Innenraum",
+            "tip": "Stille und Einkehr inmitten der Stadt.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dóm belső tere",
+            "tip": "Csend és elmélyülés a város közepén.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Catedralei",
+            "tip": "Liniște și reculegere în mijlocul orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Interior",
+            "tip": "Silence and contemplation in the middle of the town.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Haupteinkaufsstraße zwischen Bahnhof und Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Fő bevásárlóutca az állomás és az óváros között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Principala stradă comercială între gară și centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Main shopping street between the station and the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Stadtgebiet Wetzlar.",
+          "Die Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan.",
+          "Der zentrale Knotenpunkt für alle Linien ist der Busbahnhof (ZOB).",
+          "Die Altstadt-Linie ist ideal für Touristen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet Wetzlar városi területére.",
+          "Hétvégén a buszok ritkábban járnak, ellenőrizze a menetrendet.",
+          "Minden vonal központi csomópontja a buszpályaudvar (ZOB).",
+          "Az óvárosi buszvonal ideális a turisták számára."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona urbană Wetzlar.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul.",
+          "Nodul central pentru toate liniile este autogara (ZOB).",
+          "Linia centrului vechi este ideală pentru turiști."
+        ],
+        "en": [
+          "Buy a day ticket for the Wetzlar city area.",
+          "Buses run less frequently on weekends, check the timetable.",
+          "The central hub for all lines is the bus station (ZOB).",
+          "The Old Town line is ideal for tourists."
+        ]
+      }
+    }
+  }
+}

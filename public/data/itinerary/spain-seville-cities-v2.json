@@ -1,0 +1,1060 @@
+{
+  "city_id": "spain-seville-cities-v2",
+  "anchor": {
+    "name": "Sevilla",
+    "coords": [
+      -5.9845,
+      37.3891
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barrio Santa Cruz",
+            "hu": "Santa Cruz negyed",
+            "ro": "Barrio Santa Cruz",
+            "en": "Barrio Santa Cruz"
+          },
+          "coords": [
+            -5.9901,
+            37.385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Frühstücken Sie Churros in der Calle Mateos Gago.",
+            "hu": "Reggelizz churost a Mateos Gago utcában.",
+            "ro": "Încearcă churros la micul dejun pe strada Mateos Gago.",
+            "en": "Have churros for breakfast in Calle Mateos Gago."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Sevilla & Giralda",
+            "hu": "Sevillai katedrális és Giralda",
+            "ro": "Catedrala din Sevilla și Giralda",
+            "en": "Seville Cathedral & Giralda"
+          },
+          "coords": [
+            -5.9931,
+            37.3858
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die Rampen der Giralda für die Aussicht hinauf.",
+            "hu": "Sétálj fel a Giralda rámpáin a kilátásért.",
+            "ro": "Urcă rampele din Giralda pentru panoramă.",
+            "en": "Walk up the Giralda ramps for the city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Alcázar",
+            "hu": "Real Alcázar",
+            "ro": "Real Alcázar",
+            "en": "Real Alcázar"
+          },
+          "coords": [
+            -5.9912,
+            37.3831
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tickets unbedingt im Voraus online buchen.",
+            "hu": "A jegyeket mindenképp vedd meg előre online.",
+            "ro": "Rezervă biletele online în avans.",
+            "en": "Book tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Oro",
+            "hu": "Aranytorony",
+            "ro": "Torre del Oro",
+            "en": "Torre del Oro"
+          },
+          "coords": [
+            -5.9961,
+            37.3824
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Fotostopp am Flussufer des Guadalquivir.",
+            "hu": "Tökéletes fotóhelyszín a Guadalquivir partján.",
+            "ro": "Punct ideal de fotografii pe malul râului.",
+            "en": "Perfect photo spot on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Maestranza",
+            "hu": "Real Maestranza bikaviadal-aréna",
+            "ro": "Real Maestranza",
+            "en": "Real Maestranza Bullring"
+          },
+          "coords": [
+            -5.9984,
+            37.3861
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum im Inneren der Arena.",
+            "hu": "Nézd meg az aréna belső múzeumát is.",
+            "ro": "Vizitează muzeul din interiorul arenei.",
+            "en": "Visit the museum inside the bullring."
+          }
+        },
+        {
+          "name": {
+            "de": "Tapas-Mittagessen in El Arenal",
+            "hu": "Tapas ebéd az El Arenal negyedben",
+            "ro": "Prânz cu tapas în El Arenal",
+            "en": "Tapas Lunch in El Arenal"
+          },
+          "coords": [
+            -5.997,
+            37.3875
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Salmorejo und Montaditos.",
+            "hu": "Kóstold meg a salmorejót és a montaditost.",
+            "ro": "Încearcă salmorejo și montaditos.",
+            "en": "Try salmorejo and montaditos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt in den verwinkelten Gassen von Santa Cruz, bevor Sie die gewaltige Kathedrale und die Giralda bestaunen. Mittags erkunden Sie den prachtvollen Mudéjar-Stil des Alcázar. Am Nachmittag spazieren Sie am Flussufer entlang zum Torre del Oro und beenden die Tour in der geschichtsträchtigen Stierkampfarena Real Maestranza bei einem authentischen andalusischen Tapas-Essen.",
+        "hu": "A délelőtt a Santa Cruz negyed labirintusszerű utcáiban indul, majd a monumentális katedrális és a Giralda következik. Délben az Alcázar mudéjar stílusú kertjeiben pihenhet meg. Délután a Guadalquivir partján elsétál az Aranytoronyhoz, végül az El Arenal negyedben, a történelmi bikaviadal-aréna szomszédságában zárja a napot egy bőséges tapasozással.",
+        "ro": "Dimineața începe în labirintul de străduțe din Santa Cruz, urmată de vizitarea impunătoarei catedrale și a turnului Giralda. La prânz, explorăm stilul mudéjar al palatului Alcázar. După-amiaza este dedicată promenadei pe malul râului până la Torre del Oro, încheind traseul în cartierul El Arenal cu o sesiune autentică de tapas lângă arena istorică.",
+        "en": "The morning starts in the labyrinthine streets of Santa Cruz before heading to the massive Cathedral and Giralda. At midday, explore the stunning Mudéjar architecture of the Alcázar. In the afternoon, stroll along the riverbank to the Torre del Oro and finish the day in the historic El Arenal district with authentic Andalusian tapas near the famous bullring."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bodega Santa Cruz",
+            "tip": "Legendäre Tapas-Bar mit lebhafter Atmosphäre."
+          },
+          {
+            "name": "Casa Morales",
+            "tip": "Historische Bar mit riesigen Weinfässern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodega Santa Cruz",
+            "tip": "Legendás tapas bár pezsgő hangulattal."
+          },
+          {
+            "name": "Casa Morales",
+            "tip": "Történelmi borozó hatalmas agyaghordókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bodega Santa Cruz",
+            "tip": "Bar de tapas legendar cu atmosferă vibrantă."
+          },
+          {
+            "name": "Casa Morales",
+            "tip": "Local istoric cu butoaie uriașe de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bodega Santa Cruz",
+            "tip": "Legendary tapas bar with a lively atmosphere."
+          },
+          {
+            "name": "Casa Morales",
+            "tip": "Historic bar featuring giant wine vats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardines de Murillo",
+            "tip": "Ruhiger Park am Rande des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardines de Murillo",
+            "tip": "Csendes park a belváros szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardines de Murillo",
+            "tip": "Parc liniștit la marginea centrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardines de Murillo",
+            "tip": "Quiet park at the edge of the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cerámica Triana",
+            "tip": "Handgemalte Fliesen und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerámica Triana",
+            "tip": "Kézzel festett csempék és kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cerámica Triana",
+            "tip": "Plăci ceramice pictate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerámica Triana",
+            "tip": "Hand-painted tiles and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Siesta-Zeit (14-17 Uhr) ist ideal für lange Mittagessen.",
+          "Nutzen Sie die Schattenseiten der Straßen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "A szieszta ideje (14-17 óra) tökéletes egy hosszú ebédre.",
+          "Mindig az utca árnyékos oldalán közlekedj."
+        ],
+        "ro": [
+          "Poartă încălțăminte comodă pentru pavajul cu piatră.",
+          "Intervalul de siestă (14-17) este ideal pentru prânz.",
+          "Mergi pe partea umbrită a străzilor."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Siesta time (2pm-5pm) is perfect for long lunches.",
+          "Always walk on the shady side of the streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Setas de Sevilla",
+            "hu": "Setas de Sevilla (Gombák)",
+            "ro": "Setas de Sevilla",
+            "en": "Setas de Sevilla"
+          },
+          "coords": [
+            -5.9931,
+            37.3932
+          ],
+          "category": "viewpoints",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick am frühen Morgen.",
+            "hu": "Élvezd a panorámát korán reggel.",
+            "ro": "Bucură-te de panoramă dimineața devreme.",
+            "en": "Enjoy the panoramic view early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de San Francisco",
+            "hu": "Szent Ferenc tér",
+            "ro": "Plaza de San Francisco",
+            "en": "Plaza de San Francisco"
+          },
+          "coords": [
+            -5.9945,
+            37.3888
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein wichtiger Knotenpunkt mit dem historischen Rathaus.",
+            "hu": "Fontos csomópont a történelmi városházával.",
+            "ro": "Un nod important cu primăria istorică.",
+            "en": "Important hub featuring the historic city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -5.9868,
+            37.3772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und gehen Sie unter den Arkaden spazieren.",
+            "hu": "Parkold le a bringát és sétálj az árkádok alatt.",
+            "ro": "Parchează bicicleta și plimbă-te sub arcade.",
+            "en": "Park your bike and stroll under the arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de María Luisa",
+            "hu": "Mária Lujza park",
+            "ro": "Parcul María Luisa",
+            "en": "María Luisa Park"
+          },
+          "coords": [
+            -5.987,
+            37.375
+          ],
+          "category": "garden",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal zum Radfahren auf breiten Alleen.",
+            "hu": "Ideális kerékpározáshoz a széles sugárutakon.",
+            "ro": "Ideal pentru ciclism pe aleile largi.",
+            "en": "Ideal for cycling on wide avenues."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Guadalquivir",
+            "hu": "Guadalquivir sétány",
+            "ro": "Paseo del Guadalquivir",
+            "en": "Paseo del Guadalquivir"
+          },
+          "coords": [
+            -5.996,
+            37.382
+          ],
+          "category": "viewpoints",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radweg direkt am Flussufer.",
+            "hu": "Kerékpárút közvetlenül a folyóparton.",
+            "ro": "Pistă de biciclete chiar pe malul râului.",
+            "en": "Cycle path right on the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Triana Markt & Mittagessen",
+            "hu": "Triana piac és ebéd",
+            "ro": "Piața Triana și prânz",
+            "en": "Triana Market & Lunch"
+          },
+          "coords": [
+            -6.0005,
+            37.3858
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frittierten Fisch (Pescaíto frito).",
+            "hu": "Kóstold meg a sült halat (Pescaíto frito).",
+            "ro": "Incearcă peștele prăjit (Pescaíto frito).",
+            "en": "Try some fried fish (Pescaíto frito)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sevilla auf zwei Rädern! Wir starten bei den modernen 'Setas' und fahren durch das Zentrum zur Plaza de España. Nach einer entspannten Fahrt durch den María Luisa Park radeln wir am Ufer des Guadalquivir entlang. Die Tour endet über der Brücke im charmanten Viertel Triana, wo der Markt zu andalusischen Köstlichkeiten einlädt.",
+        "hu": "Fedezd fel Sevillát két keréken! A modern Gombáktól (Setas) indulva tekerünk át a központon a lenyűgöző Plaza de Españához. A Mária Lujza park hűvös árnyai után a Guadalquivir partján folytatjuk utunkat. A túra a folyó túloldalán, a bohém Triana negyedben zárul, ahol a helyi piacon megkóstolhatod a város legjobb falatait.",
+        "ro": "Explorează Sevilla pe două roți! Pornim de la structura modernă 'Setas' și traversăm centrul spre Plaza de España. După o tură relaxantă prin parcul María Luisa, pedalăm pe malul râului Guadalquivir. Traseul se încheie dincolo de pod, în cartierul vibrant Triana, unde piața locală oferă cele mai bune delicii andaluze.",
+        "en": "Explore Seville on two wheels! We start at the modern 'Setas' and ride through the center to the magnificent Plaza de España. After a relaxing ride through María Luisa Park, we cycle along the banks of the Guadalquivir. The tour ends across the bridge in the charming Triana district, where the market awaits with Andalusian delicacies."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercado de Triana",
+            "tip": "Frische Produkte und kleine Tapas-Stände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Triana",
+            "tip": "Friss áruk és remek tapas standok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Triana",
+            "tip": "Produse proaspete și standuri cu tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Triana",
+            "tip": "Fresh produce and excellent tapas stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Isla de la Cartuja",
+            "tip": "Ruhigere Wege abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isla de la Cartuja",
+            "tip": "Csendesebb utak a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Isla de la Cartuja",
+            "tip": "Rute mai liniștite departe de mulțime.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Isla de la Cartuja",
+            "tip": "Quieter paths away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle San Jacinto",
+            "tip": "Belebte Einkaufsstraße in Triana."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle San Jacinto",
+            "tip": "Nyüzsgő bevásárlóutca Trianában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle San Jacinto",
+            "tip": "Stradă comercială animată în Triana."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle San Jacinto",
+            "tip": "Bustling shopping street in Triana."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sevilla hat ein ausgezeichnetes Leihrad-System (Sevici).",
+          "Bleiben Sie auf den markierten Radwegen.",
+          "Achten Sie auf Fußgänger in der Altstadt."
+        ],
+        "hu": [
+          "Sevilla kiváló közösségi bringarendszerrel rendelkezik (Sevici).",
+          "Maradj a kijelölt kerékpárutakon.",
+          "Figyelj a gyalogosokra az óvárosban."
+        ],
+        "ro": [
+          "Sevilla are un sistem excelent de biciclete publice (Sevici).",
+          "Respectă pistele de biciclete marcate.",
+          "Atenție la pietoni în centrul vechi."
+        ],
+        "en": [
+          "Seville has an excellent bike-sharing system (Sevici).",
+          "Stick to the designated bike lanes.",
+          "Watch out for pedestrians in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Paseo de Colón (Zentrum)",
+            "hu": "Paseo de Colón parkoló (Belváros)",
+            "ro": "Parcare Paseo de Colón (Centru)",
+            "en": "Paseo de Colón Parking (Center)"
+          },
+          "coords": [
+            -5.9975,
+            37.3845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz, ideal für den Fußweg zum Alcázar.",
+            "hu": "Központi parkoló, ideális az Alcázarhoz.",
+            "ro": "Parcare centrală, ideală pentru Alcázar.",
+            "en": "Central parking, ideal for walking to Alcázar."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Alcázar (zu Fuß)",
+            "hu": "Real Alcázar (gyalog)",
+            "ro": "Real Alcázar (pe jos)",
+            "en": "Real Alcázar (on foot)"
+          },
+          "coords": [
+            -5.9912,
+            37.3831
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Mudéjar-Paläste und weitläufige Gärten.",
+            "hu": "Mudéjar paloták és hatalmas kertek.",
+            "ro": "Palate mudéjar și grădini vaste.",
+            "en": "Mudéjar palaces and vast gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -5.9868,
+            37.3772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt von 10 Min. vom Zentrum.",
+            "hu": "Rövid, 10 perces autóút a központból.",
+            "ro": "Scurtă călătorie de 10 minute din centru.",
+            "en": "Short 10-minute drive from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de María Luisa (zu Fuß)",
+            "hu": "Mária Lujza park (gyalog)",
+            "ro": "Parcul María Luisa (pe jos)",
+            "en": "María Luisa Park (on foot)"
+          },
+          "coords": [
+            -5.987,
+            37.375
+          ],
+          "category": "garden",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schattiger Spaziergang zwischen Springbrunnen.",
+            "hu": "Árnyas séta a szökőkutak között.",
+            "ro": "Plimbare umbrită printre fântâni.",
+            "en": "Shady walk among the fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Los Remedios",
+            "hu": "Ebéd Los Remedios negyedben",
+            "ro": "Prânz în Los Remedios",
+            "en": "Lunch in Los Remedios"
+          },
+          "coords": [
+            -6.002,
+            37.375
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Viertel mit einfacheren Parkmöglichkeiten.",
+            "hu": "Negyed könnyebb parkolási lehetőséggel.",
+            "ro": "Cartier cu parcare mai facilă.",
+            "en": "District with easier parking options."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Ruinen von Itálica",
+            "hu": "Itálica római romváros",
+            "ro": "Ruinele romane din Itálica",
+            "en": "Itálica Roman Ruins"
+          },
+          "coords": [
+            -6.044,
+            37.444
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das riesige Amphitheater.",
+            "hu": "Csodáld meg a hatalmas amfiteátrumot.",
+            "ro": "Admiră amfiteatrul imens.",
+            "en": "Admire the massive amphitheater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir das Stadtzentrum mit einem Ausflug in die Geschichte. Nach dem Parken am Fluss erkunden wir den Alcázar zu Fuß. Eine kurze Fahrt bringt uns zur beeindruckenden Plaza de España. Nach dem Mittagessen verlassen wir die Stadt für eine kurze 20-minütige Fahrt nach Santiponce, um die antiken römischen Ruinen von Itálica zu besichtigen.",
+        "hu": "Autóval kombináljuk a városnézést egy történelmi kirándulással. A folyóparti parkolás után gyalog fedezzük fel az Alcázart. Egy rövid autózás következik a lenyűgöző Plaza de Españához. Az ebéd után elhagyjuk a várost, és egy 20 perces úttal Santiponcébe hajtunk, hogy megnézzük Itálica monumentális római romjait.",
+        "ro": "Cu mașina, combinăm centrul orașului cu o incursiune în istorie. După parcarea pe malul râului, explorăm Alcázar pe jos. Urmează o scurtă deplasare spre Plaza de España. După prânz, părăsim orașul pentru o călătorie de 20 de minute spre Santiponce, unde vom vizita ruinele romane monumentale din Itálica.",
+        "en": "By car, we combine city sightseeing with a historical excursion. After parking by the river, we explore the Alcázar on foot. A short drive takes us to the stunning Plaza de España. After lunch, we leave the city for a 20-minute drive to Santiponce to visit the monumental Roman ruins of Itálica."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Abades Triana",
+            "tip": "Gehobene Küche mit Blick auf den Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abades Triana",
+            "tip": "Elegáns étterem folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abades Triana",
+            "tip": "Restaurant elegant cu vedere la râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abades Triana",
+            "tip": "Upscale dining with river views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monasterio de la Cartuja",
+            "tip": "Stilles Kloster mit zeitgenössischer Kunst.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monasterio de la Cartuja",
+            "tip": "Csendes kolostor kortárs művészettel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monasterio de la Cartuja",
+            "tip": "Mănăstire liniștită cu artă contemporană.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monasterio de la Cartuja",
+            "tip": "Silent monastery with contemporary art.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lagoh Shopping Center",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lagoh bevásárlóközpont",
+            "tip": "Hatalmas pláza a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lagoh Shopping Center",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lagoh Shopping Center",
+            "tip": "Huge mall at the city outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Fahren in den engen Gassen von Santa Cruz.",
+          "Nutzen Sie offizielle Parkhäuser (P-Schild).",
+          "Die SE-30 Umgehungsstraße spart Zeit."
+        ],
+        "hu": [
+          "Kerüld az autózást Santa Cruz szűk utcáiban.",
+          "Használd a hivatalos parkolóházakat (P jelzés).",
+          "Az SE-30-as körgyűrű sok időt spórol."
+        ],
+        "ro": [
+          "Evită condusul în străduțele înguste din Santa Cruz.",
+          "Folosește parcările oficiale (semnul P).",
+          "Centura SE-30 economisește timp."
+        ],
+        "en": [
+          "Avoid driving in the narrow streets of Santa Cruz.",
+          "Use official parking garages (P sign).",
+          "The SE-30 ring road saves a lot of time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Setas de Sevilla",
+            "hu": "Setas de Sevilla",
+            "ro": "Setas de Sevilla",
+            "en": "Setas de Sevilla"
+          },
+          "coords": [
+            -5.9931,
+            37.3932
+          ],
+          "category": "viewpoints",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein moderner Kontrast zur Altstadt.",
+            "hu": "Modern kontraszt az óvároshoz képest.",
+            "ro": "Un contrast modern față de centrul vechi.",
+            "en": "A modern contrast to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Cruz Viertel (zu Fuß)",
+            "hu": "Santa Cruz negyed (gyalog)",
+            "ro": "Cartierul Santa Cruz (pe jos)",
+            "en": "Santa Cruz District (on foot)"
+          },
+          "coords": [
+            -5.9901,
+            37.385
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spaziergang von den Setas in 15 Min.",
+            "hu": "15 perces séta a Gombáktól.",
+            "ro": "Plimbare de 15 minute de la Setas.",
+            "en": "15-minute walk from Setas."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevilla Kathedrale",
+            "hu": "Sevillai katedrális",
+            "ro": "Catedrala din Sevilla",
+            "en": "Seville Cathedral"
+          },
+          "coords": [
+            -5.9931,
+            37.3858
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die größte gotische Kirche der Welt.",
+            "hu": "A világ legnagyobb gótikus temploma.",
+            "ro": "Cea mai mare biserică gotică din lume.",
+            "en": "The largest Gothic church in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de España (Straßenbahn T1)",
+            "hu": "Plaza de España (T1 villamos)",
+            "ro": "Plaza de España (tramvai T1)",
+            "en": "Plaza de España (T1 Tram)"
+          },
+          "coords": [
+            -5.9868,
+            37.3772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn vom Archivo de Indias.",
+            "hu": "Szállj fel a villamosra az Archivo de Indiasnál.",
+            "ro": "Ia tramvaiul de la Archivo de Indias.",
+            "en": "Take the tram from Archivo de Indias."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Oro",
+            "hu": "Aranytorony",
+            "ro": "Torre del Oro",
+            "en": "Torre del Oro"
+          },
+          "coords": [
+            -5.9961,
+            37.3824
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Mit dem Bus C4 oder zu Fuß erreichbar.",
+            "hu": "C4 busszal vagy gyalog is elérhető.",
+            "ro": "Accesibil cu autobuzul C4 sau pe jos.",
+            "en": "Accessible by bus C4 or on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tapas-Tour in Triana (Bus)",
+            "hu": "Tapas túra Trianában (Busz)",
+            "ro": "Tur de tapas în Triana (Autobuz)",
+            "en": "Tapas Tour in Triana (Bus)"
+          },
+          "coords": [
+            -6.0005,
+            37.3858
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke Puente de Isabel II.",
+            "hu": "Kelj át az Izabella királyné hídon (Puente de Isabel II).",
+            "ro": "Traversează podul Puente de Isabel II.",
+            "en": "Cross the Puente de Isabel II bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Straßenbahn- und Bussystem Sevillas. Wir starten im Norden bei den Setas und laufen durch das Zentrum zur Kathedrale. Mit der T1-Straßenbahn fahren wir bequem zur Plaza de España. Den Tag beschließen wir im Triana-Viertel, das wir mit dem Bus oder einem kurzen Spaziergang über den Fluss erreichen.",
+        "hu": "Használd ki Sevilla hatékony villamos- és buszhálózatát! Északról, a Gombáktól indulunk, majd a központon át a katedrálishoz sétálunk. A modern T1 villamossal kényelmesen jutunk el a Plaza de Españához. A napot Triana negyedében zárjuk, ahová busszal vagy a folyón átívelő hídon sétálva jutunk el.",
+        "ro": "Profită de sistemul eficient de tramvaie și autobuze din Sevilla. Pornim din nord de la Setas și mergem spre catedrală. Cu tramvaiul T1 ajungem confortabil la Plaza de España. Încheiem ziua în cartierul Triana, accesibil cu autobuzul sau printr-o scurtă plimbare peste râu.",
+        "en": "Make use of Seville's efficient tram and bus system. We start in the north at the Setas and walk through the center to the Cathedral. Take the T1 tram for a comfortable ride to Plaza de España. We end the day in the Triana district, reachable by bus or a short stroll across the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Las Golondrinas",
+            "tip": "Berühmte Tapas-Bar in Triana."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Las Golondrinas",
+            "tip": "Híres tapas bár Triana szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Las Golondrinas",
+            "tip": "Bar de tapas faimos în inima Trianei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Las Golondrinas",
+            "tip": "Famous tapas bar in the heart of Triana."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Calle Betis",
+            "tip": "Spaziergang am Flussufer mit Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Betis",
+            "tip": "Folyóparti sétány szép kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Betis",
+            "tip": "Promenadă pe malul râului cu priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Betis",
+            "tip": "Riverside walk with great views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Sierpes",
+            "tip": "Traditionelle Einkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Sierpes",
+            "tip": "Hagyományos bevásárlóutca a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Sierpes",
+            "tip": "Stradă comercială tradițională în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Sierpes",
+            "tip": "Traditional shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine wiederaufladbare Fahrkarte (Tarjeta Transbordo).",
+          "Die Straßenbahn T1 fährt alle 10 Minuten.",
+          "Laden Sie die 'App Tussam' für Echtzeitpläne herunter."
+        ],
+        "hu": [
+          "Vegyél feltölthető közlekedési kártyát (Tarjeta Transbordo).",
+          "A T1 villamos 10 percenként jár.",
+          "Töltsd le a 'App Tussam' alkalmazást a menetrendhez."
+        ],
+        "ro": [
+          "Cumpără un card de transport reîncărcabil (Tarjeta Transbordo).",
+          "Tramvaiul T1 circulă la fiecare 10 minute.",
+          "Descarcă aplicația 'App Tussam' pentru orarul în timp real."
+        ],
+        "en": [
+          "Buy a rechargeable transit card (Tarjeta Transbordo).",
+          "The T1 tram runs every 10 minutes.",
+          "Download the 'App Tussam' for real-time schedules."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1047 @@
+{
+  "city_id": "italy-udine-cities-v2",
+  "anchor": {
+    "name": "Udine",
+    "coords": [
+      13.2346,
+      46.0625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piața Libertății",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            13.2348,
+            46.0632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die venezianische Architektur am Morgen.",
+            "hu": "Csodálja meg a velencei stílusú árkádokat reggel.",
+            "ro": "Admirați arhitectura venețiană în lumina dimineții.",
+            "en": "Admire the Venetian architecture in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Torre dell'Orologio)",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            13.2351,
+            46.0633
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die beiden Mohren schlagen hier die Stunden.",
+            "hu": "A két mór figura üti el itt az órákat.",
+            "ro": "Cele două figuri de mauri bat orele aici.",
+            "en": "The two Moors strike the hours on top of the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Udine",
+            "hu": "Udinei vár",
+            "ro": "Castelul din Udine",
+            "en": "Udine Castle"
+          },
+          "coords": [
+            13.236,
+            46.0638
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Alpen.",
+            "hu": "Élvezze a panorámát az Alpok vonulataira.",
+            "ro": "Bucurați-vă de panorama spre Alpi de pe deal.",
+            "en": "Enjoy the panoramic view of the Alps from the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Udine",
+            "hu": "Udinei dóm",
+            "ro": "Domul din Udine",
+            "en": "Udine Cathedral"
+          },
+          "coords": [
+            13.237,
+            46.0625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Tiepolo-Fresken im Inneren.",
+            "hu": "Tekintse meg a Tiepolo-freskókat a belső térben.",
+            "ro": "Vizitați frescele lui Tiepolo din interior.",
+            "en": "Visit the stunning Tiepolo frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Matteotti",
+            "hu": "Piazza Matteotti",
+            "ro": "Piața Matteotti",
+            "en": "Piazza Matteotti"
+          },
+          "coords": [
+            13.233,
+            46.063
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Idealer Ort für ein typisches Friuli-Mittagessen.",
+            "hu": "Ideális hely egy tipikus friuli ebédhez.",
+            "ro": "Locul ideal pentru un prânz tipic friulan.",
+            "en": "The perfect spot for a typical Friulian lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Cavazzini",
+            "hu": "Casa Cavazzini",
+            "ro": "Casa Cavazzini",
+            "en": "Casa Cavazzini"
+          },
+          "coords": [
+            13.2335,
+            46.0635
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Museum für moderne und zeitgenössische Kunst.",
+            "hu": "Modern és kortárs művészeti múzeum.",
+            "ro": "Muzeu de artă modernă și contemporană.",
+            "en": "Museum of modern and contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Patriarchenpalast",
+            "hu": "Pátriárkai palota",
+            "ro": "Palatul Patriarhal",
+            "en": "Patriarchal Palace"
+          },
+          "coords": [
+            13.236,
+            46.062
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Bibliothek.",
+            "hu": "Csodálja meg a pompás könyvtárat.",
+            "ro": "Admirați biblioteca magnifică din interior.",
+            "en": "Admire the magnificent library inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf der eleganten Piazza della Libertà, dem 'schönsten venezianischen Platz auf dem Festland'. Nach dem Aufstieg zum Schloss genießen Sie den Ausblick auf die Stadt. Mittags entspannen Sie auf der lebhaften Piazza Matteotti bei lokalem Wein. Der Nachmittag gehört der Kunst in der Casa Cavazzini und den prachtvollen Sälen des Patriarchenpalastes, bevor der Tag gemütlich ausklingt.",
+        "hu": "A nap az elegáns Piazza della Libertà téren indul, amely a legszebb velencei stílusú tér a szárazföldön. A várba felkapaszkodva megcsodálhatja a várost, majd délben a nyüzsgő Piazza Matteotti teraszain pihenhet. Délután a Casa Cavazzini modern művészete és a Pátriárkai palota barokk pompája várja, végül egy pohár helyi borral zárhatja a sétát.",
+        "ro": "Ziua începe în eleganta Piața Libertății, considerată cea mai frumoasă piață venețiană de pe uscat. Urcați la castel pentru o vedere panoramică asupra orașului. La prânz, relaxați-vă în Piața Matteotti cu un pahar de vin local. După-amiaza este dedicată artei la Casa Cavazzini și splendoarei Palatului Patriarhal, încheind vizita într-o atmosferă autentică friulană.",
+        "en": "Start your day at the elegant Piazza della Libertà, often called the most beautiful Venetian square on the mainland. Climb to the castle for a panoramic view of the city. At noon, relax at Piazza Matteotti with a glass of local wine. The afternoon is dedicated to art at Casa Cavazzini and the splendor of the Patriarchal Palace, finishing your walk in a true Friulian atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frico con polenta",
+            "tip": "Knuspriger Käse mit Kartoffeln, serviert mit Maisbrei."
+          },
+          {
+            "name": "Prosciutto di San Daniele",
+            "tip": "Hauchdünner, süßlicher Schinken aus der Region."
+          },
+          {
+            "name": "Osteria alla Staffa",
+            "tip": "Authentische Taverne für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frico polentával",
+            "tip": "Sült sajt és burgonya, kukoricakásával tálalva."
+          },
+          {
+            "name": "San Daniele sonka",
+            "tip": "Világhírű, édeskés érlelt sonka a közeli városból."
+          },
+          {
+            "name": "Hostaria alla Tavernetta",
+            "tip": "Hagyományos konyha elegáns kivitelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frico cu mămăligă",
+            "tip": "Brânză prăjită cu cartofi, servită cu mămăligă."
+          },
+          {
+            "name": "Prosciutto di San Daniele",
+            "tip": "Șuncă faimoasă maturată din regiunea Friuli."
+          },
+          {
+            "name": "Osteria Al Canarino",
+            "tip": "Loc istoric pentru un 'tajut' (pahar de vin) autentic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frico with polenta",
+            "tip": "Fried cheese and potatoes served with maize porridge."
+          },
+          {
+            "name": "San Daniele Ham",
+            "tip": "World-famous sweet cured ham from the nearby town."
+          },
+          {
+            "name": "Osteria Pieri Mortadele",
+            "tip": "Iconic spot for local wine and snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardin Grande",
+            "tip": "Großer, ruhiger Park im Zentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Schlossberg",
+            "tip": "Abendstimmung mit Blick auf die Dächer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardin Grande",
+            "tip": "Tágas, nyugodt park a város szívében.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Várdomb",
+            "tip": "Esti hangulat kilátással a háztetőkre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardin Grande",
+            "tip": "Parc spațios și liniștit în centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dealul Castelului",
+            "tip": "Atmosferă de seară cu vedere peste acoperișuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardin Grande",
+            "tip": "Large, peaceful park in the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Castle Hill",
+            "tip": "Evening vibe with a view over the rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Mercatovecchio",
+            "tip": "Elegante Einkaufsstraße unter Arkaden."
+          },
+          {
+            "name": "Mercato Ittico",
+            "tip": "Lokale Produkte und frische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Mercatovecchio",
+            "tip": "Elegáns bevásárlóutca árkádok alatt."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Friss friuli sajtok és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Mercatovecchio",
+            "tip": "Stradă elegantă de shopping sub porți venețiene."
+          },
+          {
+            "name": "Mercato di Udine",
+            "tip": "Produse locale și specialități artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Mercatovecchio",
+            "tip": "Elegant shopping street under historical arcades."
+          },
+          {
+            "name": "Local Market",
+            "tip": "Fresh Friulian cheeses and artisan crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bestellen Sie einen 'Tajut' (ein kleines Glas Wein) in einer Osteria.",
+          "Die Stadt ist kompakt, alles ist bequem zu Fuß erreichbar.",
+          "Achten Sie auf die Tiepolo-Werke, Udine ist seine Stadt.",
+          "Mittagspause wird hier ernst genommen, Geschäfte schließen oft von 13 bis 15 Uhr."
+        ],
+        "hu": [
+          "Kérjen egy 'Tajut'-ot (egy kis pohár bort) bármelyik helyi osztériában.",
+          "A város kompakt, minden kényelmesen elérhető gyalogosan.",
+          "Figyelje Tiepolo műveit, Udine az ő városa.",
+          "A szieszta fontos, az üzletek délután 1 és 3 között gyakran zárva vannak."
+        ],
+        "ro": [
+          "Comandă un 'Tajut' (un pahar mic de vin) în orice osteria.",
+          "Orașul este compact, toate obiectivele sunt accesibile pe jos.",
+          "Urmăriți operele lui Tiepolo, Udine este orașul său adoptiv.",
+          "Respectați programul de siestă, multe magazine închid între 13:00 și 15:00."
+        ],
+        "en": [
+          "Order a 'Tajut' (a small glass of wine) in a local osteria.",
+          "The city is compact, making it very easy to explore on foot.",
+          "Keep an eye out for Tiepolo’s works; Udine is his city.",
+          "Note that many shops close for a siesta between 1 PM and 3 PM."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piața Libertății",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            13.2348,
+            46.0632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für die Stadttour.",
+            "hu": "Tökéletes kiindulópont a városnézéshez.",
+            "ro": "Punctul perfect de plecare în oraș.",
+            "en": "Perfect starting point for the city tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Udine",
+            "hu": "Udinei dóm",
+            "ro": "Domul din Udine",
+            "en": "Udine Cathedral"
+          },
+          "coords": [
+            13.237,
+            46.0625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für die Kunstwerke.",
+            "hu": "Rövid megálló a műalkotásokért.",
+            "ro": "Oprire scurtă pentru capodoperele de artă.",
+            "en": "Short stop for the art masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Cormor",
+            "hu": "Parco del Cormor",
+            "ro": "Parcul Cormor",
+            "en": "Parco del Cormor"
+          },
+          "coords": [
+            13.1945,
+            46.0855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Großer Naturpark, ideal für Radfahrer.",
+            "hu": "Hatalmas natúrpark, ideális kerékpárosoknak.",
+            "ro": "Parc natural vast, ideal pentru bicicliști.",
+            "en": "Vast natural park, ideal for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Matteotti",
+            "hu": "Piazza Matteotti",
+            "ro": "Piața Matteotti",
+            "en": "Piazza Matteotti"
+          },
+          "coords": [
+            13.233,
+            46.063
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen im Freien.",
+            "hu": "Élvezze az ebédet a szabadban.",
+            "ro": "Bucurați-vă de prânz la terasă.",
+            "en": "Enjoy an outdoor lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Udine",
+            "hu": "Udinei vár",
+            "ro": "Castelul din Udine",
+            "en": "Udine Castle"
+          },
+          "coords": [
+            13.236,
+            46.0638
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad kurz den Hügel hinauf.",
+            "hu": "Tolja fel a biciklit a dombra a kilátásért.",
+            "ro": "Urcați bicicleta pe deal pentru priveliște.",
+            "en": "Walk your bike up the hill for the view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Udine auf zwei Rädern! Nach einer Runde durch das historische Zentrum radeln Sie hinaus zum Parco del Cormor, einer grünen Oase am Stadtrand. Nach der Rückkehr in die Stadt wartet ein stärkendes Mittagessen auf der Piazza Matteotti auf Sie. Den Nachmittag verbringen Sie entspannt bei den Sehenswürdigkeiten im Zentrum.",
+        "hu": "Fedezze fel Udinét két keréken! A történelmi központ után tekerjen ki a Parco del Cormor natúrparkba, amely a város szélén várja zöld oázisával. Visszatérve a városba, a Piazza Matteotti hangulatos teraszain ebédelhet, majd délután a vár és a belváros látnivalói között kalandozhat tovább.",
+        "ro": "Descoperiți Udine pe două roți! După o tură prin centrul istoric, pedalați până la Parcul Cormor, o oază verde la marginea orașului. La întoarcere, vă așteaptă un prânz revigorant în Piața Matteotti. După-amiaza este dedicată relaxării printre monumentele din zona centrală.",
+        "en": "Discover Udine on two wheels! After a loop through the historical center, cycle out to Parco del Cormor, a green oasis on the outskirts. Upon returning to the city, a refreshing lunch awaits you at Piazza Matteotti. Spend the afternoon exploring the central landmarks at a relaxed pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panino con San Daniele",
+            "tip": "Schneller Snack für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Daniele szendvics",
+            "tip": "Gyors és finom falat bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandviș cu San Daniele",
+            "tip": "Gustare rapidă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "San Daniele sandwich",
+            "tip": "Quick and tasty snack for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cormor Bachlauf",
+            "tip": "Ruhige Wege am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cormor-patak partja",
+            "tip": "Csendes utak a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul pârâului Cormor",
+            "tip": "Trasee liniștite lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cormor creek banks",
+            "tip": "Quiet paths along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käserei",
+            "tip": "Frische Montasio-Käse für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtbolt",
+            "tip": "Friss Montasio sajt a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzărie locală",
+            "tip": "Brânză Montasio proaspătă pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Creamery",
+            "tip": "Fresh Montasio cheese for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege zum Parco del Cormor.",
+          "Schließen Sie Ihr Rad im Zentrum immer gut ab.",
+          "Udine ist flach und sehr fahrradfreundlich."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat a Cormor park felé.",
+          "A belvárosban mindig zárja le a biciklit.",
+          "Udine sík terep, ideális a tekeréshez."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete spre Parcul Cormor.",
+          "Încuiați întotdeauna bicicleta în centru.",
+          "Udine este plat și foarte prietenos cu bicicliștii."
+        ],
+        "en": [
+          "Use the dedicated cycle paths to Parco del Cormor.",
+          "Always lock your bike securely in the center.",
+          "Udine is flat and very bicycle-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà (Cluster Zentrum)",
+            "hu": "Piazza della Libertà (Központ)",
+            "ro": "Piața Libertății (Centru)",
+            "en": "Piazza della Libertà (Center)"
+          },
+          "coords": [
+            13.2348,
+            46.0632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Piazza Primo Maggio'.",
+            "hu": "Parkoljon a Piazza Primo Maggio mélygarázsban.",
+            "ro": "Parcați în parcarea 'Piazza Primo Maggio'.",
+            "en": "Park at 'Piazza Primo Maggio' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Loggia del Lionello",
+            "hu": "Loggia del Lionello",
+            "ro": "Loggia del Lionello",
+            "en": "Loggia del Lionello"
+          },
+          "coords": [
+            13.2345,
+            46.0631
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prächtiges Rathaus im venezianischen Stil.",
+            "hu": "Pompás városháza velencei stílusban.",
+            "ro": "Primărie magnifică în stil venețian.",
+            "en": "Magnificent town hall in Venetian style."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Udine",
+            "hu": "Udinei vár",
+            "ro": "Castelul din Udine",
+            "en": "Udine Castle"
+          },
+          "coords": [
+            13.236,
+            46.0638
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz zum Schloss.",
+            "hu": "Rövid séta a parkolótól a várig.",
+            "ro": "Scurtă plimbare de la parcare la castel.",
+            "en": "Short walk from the parking to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Udine",
+            "hu": "Udinei dóm",
+            "ro": "Domul din Udine",
+            "en": "Udine Cathedral"
+          },
+          "coords": [
+            13.237,
+            46.0625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beeindruckende sakrale Kunst.",
+            "hu": "Lenyűgöző szakrális művészet.",
+            "ro": "Artă sacrală impresionantă.",
+            "en": "Impressive sacred art."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Cormor (Cluster Natur)",
+            "hu": "Parco del Cormor (Természet)",
+            "ro": "Parcul Cormor (Natură)",
+            "en": "Parco del Cormor (Nature)"
+          },
+          "coords": [
+            13.1945,
+            46.0855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahrt zum Stadtrand für Entspannung im Grünen.",
+            "hu": "Autózás a város szélére a zöld kikapcsolódásért.",
+            "ro": "Drum spre marginea orașului pentru relaxare.",
+            "en": "Drive to the outskirts for green relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um sowohl das historische Zentrum als auch die grünen Außenbezirke zu erkunden. Parken Sie zentral und spazieren Sie durch die venezianischen Gassen. Am Nachmittag fahren Sie zum Parco del Cormor, wo Sie spazieren gehen oder in der Nähe lokal einkaufen können.",
+        "hu": "Használja az autót, hogy felfedezze a történelmi belvárost és a zöld külvárosokat is. Parkoljon a központban, és sétáljon a velencei hangulatú utcákon. Délután guruljon ki a Parco del Cormor parkba, ahol tágas terek és nyugodt környezet várja.",
+        "ro": "Folosiți mașina pentru a explora atât centrul istoric, cât și zonele verzi de la periferie. Parcați central și plimbați-vă pe străzile venețiene. După-amiaza, conduceți până la Parcul Cormor pentru o doză de natură și relaxare.",
+        "en": "Use your car to explore both the historic center and the green outskirts. Park centrally and walk through the Venetian-style alleys. In the afternoon, drive out to Parco del Cormor, where spacious grounds and a peaceful environment await."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo in der Nähe",
+            "tip": "Hausgemachte Pasta direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Közeli agriturismo",
+            "tip": "Házias tésztafélék közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo în zonă",
+            "tip": "Paste de casă direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nearby Agriturismo",
+            "tip": "Homemade pasta straight from the farm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cormor Hügel",
+            "tip": "Ruhiger Aussichtspunkt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cormor-dombok",
+            "tip": "Nyugodt kilátópont a város szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Cormor",
+            "tip": "Punct de observație liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cormor Hills",
+            "tip": "Quiet viewpoint on the outskirts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Città Fiera",
+            "tip": "Großes Einkaufszentrum nahe dem Cormor Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Città Fiera",
+            "tip": "Nagy bevásárlóközpont a Cormor park közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Città Fiera",
+            "tip": "Centru comercial mare lângă Parcul Cormor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Città Fiera",
+            "tip": "Large shopping mall near Cormor Park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Rande der ZTL-Zone.",
+          "Blaue Linien bedeuten gebührenpflichtiges Parken.",
+          "Nutzen Sie Google Maps für die Parkhaus-Suche."
+        ],
+        "hu": [
+          "Parkoljon a ZTL zóna határán.",
+          "A kék felfestés fizetős parkolást jelent.",
+          "Használja a Google Mapset a parkolók kereséséhez."
+        ],
+        "ro": [
+          "Parcați la marginea zonei ZTL.",
+          "Liniile albastre indică parcare cu plată.",
+          "Folosiți Google Maps pentru a găsi parcările etajate."
+        ],
+        "en": [
+          "Park on the edge of the ZTL (limited traffic) zone.",
+          "Blue lines indicate paid parking spots.",
+          "Use Google Maps to find the best parking garages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza della Libertà",
+            "hu": "Piazza della Libertà",
+            "ro": "Piața Libertății",
+            "en": "Piazza della Libertà"
+          },
+          "coords": [
+            13.2348,
+            46.0632
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof mit dem Bus Linie 1 erreichbar.",
+            "hu": "A vasútállomástól az 1-es busszal elérhető.",
+            "ro": "Accesibil cu linia 1 de la gară.",
+            "en": "Accessible via bus line 1 from the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Udine",
+            "hu": "Udinei vár",
+            "ro": "Castelul din Udine",
+            "en": "Udine Castle"
+          },
+          "coords": [
+            13.236,
+            46.0638
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg bergauf.",
+            "hu": "Rövid gyalogos séta felfelé.",
+            "ro": "Scurtă urcare pe jos spre castel.",
+            "en": "Short walk uphill to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Matteotti",
+            "hu": "Piazza Matteotti",
+            "ro": "Piața Matteotti",
+            "en": "Piazza Matteotti"
+          },
+          "coords": [
+            13.233,
+            46.063
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrum des sozialen Lebens.",
+            "hu": "A helyi közösségi élet központja.",
+            "ro": "Centrul vieții sociale din oraș.",
+            "en": "The heart of local social life."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Cormor",
+            "hu": "Parco del Cormor",
+            "ro": "Parcul Cormor",
+            "en": "Parco del Cormor"
+          },
+          "coords": [
+            13.1945,
+            46.0855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Stadadion/Park.",
+            "hu": "Szálljon buszra a stadion/park irányába.",
+            "ro": "Luați autobuzul spre stadion/parc.",
+            "en": "Take the bus heading towards the stadium/park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Udine stressfrei mit den öffentlichen Verkehrsmitteln. Starten Sie im historischen Zentrum und lassen Sie sich vom venezianischen Flair verzaubern. Nach einem gemütlichen Mittagessen bringt Sie der Stadtbus hinaus zum Cormor Park, bevor Sie bequem zurück zum Bahnhof fahren.",
+        "hu": "Fedezze fel Udinét stresszmentesen tömegközlekedéssel. Kezdjen a történelmi belvárosban, és hagyja, hogy elvarázsolja a velencei hangulat. Egy kellemes ebéd után a helyi járat kiviszi a Cormor parkba, majd kényelmesen visszatérhet a vasútállomásra.",
+        "ro": "Descoperiți Udine fără stres folosind transportul public. Începeți în centrul istoric și lăsați-vă fermecați de aerul venețian. După un prânz relaxat, autobuzul local vă duce la Parcul Cormor, înainte de a reveni confortabil la gară.",
+        "en": "Explore Udine stress-free using public transport. Start in the historic center and soak up the Venetian atmosphere. After a pleasant lunch, the local bus will take you to Cormor Park, before heading back comfortably to the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baretto am Bahnhof",
+            "tip": "Guter Espresso vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baretto az állomásnál",
+            "tip": "Kiváló eszpresszó indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baretto lângă gară",
+            "tip": "Espresso bun înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baretto at the station",
+            "tip": "Great espresso before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Versteckter Ruhepol.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Rejtett nyugalom szigete.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Oază de liniște ascunsă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Hidden peaceful spot.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Kiosk",
+            "tip": "Internationale Zeitungen und Magazine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási újságárus",
+            "tip": "Nemzetközi lapok és magazinok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc din gară",
+            "tip": "Ziare și reviste internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "International newspapers and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets vorab in Tabakläden.",
+          "Die Busse sind pünktlich und sauber.",
+          "Linie 1 verbindet den Bahnhof mit dem Zentrum."
+        ],
+        "hu": [
+          "Vegye meg a jegyet előre a dohányboltokban (Tabacchi).",
+          "A buszok pontosak és tiszták.",
+          "Az 1-es busz köti össze az állomást a központtal."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcurile de ziare/tutun.",
+          "Autobuzele sunt punctuale și curate.",
+          "Linia 1 face legătura între gară și centru."
+        ],
+        "en": [
+          "Buy bus tickets in advance at 'Tabacchi' shops.",
+          "Buses are generally punctual and clean.",
+          "Line 1 connects the train station with the center."
+        ]
+      }
+    }
+  }
+}

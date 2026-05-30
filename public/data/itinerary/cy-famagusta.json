@@ -12,224 +12,164 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:49",
-      "total_km": 4.2,
-      "stop_count": 7,
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Stadtmauer von Famagusta",
-            "hu": "Famagustai városfal",
-            "ro": "Zidurile orașului Famagusta",
-            "en": "Famagusta City Walls"
-          },
-          "coords": [
-            33.939,
-            35.125
-          ],
-          "category": "monument",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Die Mauern sind bis zu 15 Meter dick und sehr gut erhalten.",
-            "hu": "A falak néhol 15 méter vastagok, érdemes körbesétálni egy szakaszon.",
-            "ro": "Zidurile au o grosime de până la 15 metri în unele locuri.",
-            "en": "The walls are up to 15 meters thick in some sections."
-          }
-        },
-        {
-          "name": {
-            "de": "Lala-Mustafa-Pascha-Moschee",
-            "hu": "Lala Musztafa Pasa mecset",
-            "ro": "Moscheea Lala Mustafa Pașa",
-            "en": "Lala Mustafa Pasha Mosque"
-          },
+          "name": "Lala-Mustafa-Pascha-Moschee",
           "coords": [
             33.9422,
-            35.125
+            35.1251
           ],
-          "category": "cathedral",
-          "arrive_at": "09:41",
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
           "stay_min": 75,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Ehemalige gotische Kathedrale aus dem 14. Jahrhundert.",
-            "hu": "A 14. században épült eredetileg gótikus katedrálisként.",
-            "ro": "Fostă catedrală gotică, construită în secolul al XIV-lea.",
-            "en": "Originally a 14th-century Gothic cathedral."
+            "de": "Ehemalige Kathedrale St. Nikolaus, ein Meisterwerk der Gotik.",
+            "hu": "Egykori Szent Miklós katedrális, a gótikus építészet remekműve.",
+            "ro": "Fosta Catedrală Sf. Nicolae, o capodoperă a stilului gotic.",
+            "en": "Former St. Nicholas Cathedral, a masterpiece of Gothic architecture."
           }
         },
         {
-          "name": {
-            "de": "Namık-Kemal-Verlies",
-            "hu": "Namık Kemal börtöne",
-            "ro": "Temnița Namık Kemal",
-            "en": "Namık Kemal Dungeon"
-          },
+          "name": "Namık-Kemal-Verlies",
           "coords": [
-            33.9415,
+            33.9418,
+            35.1248
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gefängnis des berühmten türkischen Dichters im 19. Jahrhundert.",
+            "hu": "A híres török költő börtöne a 19. században.",
+            "ro": "Închisoarea celebrului poet turc din secolul al XIX-lea.",
+            "en": "Prison of the famous Turkish poet in the 19th century."
+          }
+        },
+        {
+          "name": "Kirche St. Georg der Griechen",
+          "coords": [
+            33.9442,
+            35.1265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Ruinen einer orthodoxen Kathedrale mit Freskenresten.",
+            "hu": "Egy ortodox katedrális lenyűgöző romjai freskómaradványokkal.",
+            "ro": "Ruine impresionante ale unei catedrale ortodoxe cu resturi de fresce.",
+            "en": "Impressive ruins of an Orthodox cathedral with fresco remains."
+          }
+        },
+        {
+          "name": "Othello-Burg",
+          "coords": [
+            33.9435,
+            35.1278
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Zitadelle, die Shakespeare zu seinem berühmten Drama inspirierte.",
+            "hu": "A citadella, amely Shakespeare-t ihlette híres drámájához.",
+            "ro": "Citadela care l-a inspirat pe Shakespeare pentru celebra sa dramă.",
+            "en": "The citadel that inspired Shakespeare for his famous drama."
+          }
+        },
+        {
+          "name": "Stadtmauer von Famagusta",
+          "coords": [
+            33.9365,
             35.1245
           ],
-          "category": "historical",
-          "arrive_at": "10:58",
-          "stay_min": 80,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
-          "hop_mode": "walk",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Der türkische Dichter Namık Kemal war hier 38 Monate inhaftiert.",
-            "hu": "Namık Kemal török költő 38 hónapig raboskodott itt.",
-            "ro": "Poetul turc Namık Kemal a fost închis aici timp de 38 de luni.",
-            "en": "Turkish poet Namık Kemal was imprisoned here for 38 months."
+            "de": "Spaziergang auf den venezianischen Mauern mit Blick auf die Stadt.",
+            "hu": "Séta a velencei falakon, kilátással az egész városra.",
+            "ro": "Plimbare pe zidurile venețiene cu vedere asupra orașului.",
+            "en": "Walk on the Venetian walls with views over the city."
           }
         },
         {
-          "name": {
-            "de": "Othello-Burg",
-            "hu": "Othello-vár",
-            "ro": "Castelul Othello",
-            "en": "Othello Castle"
-          },
+          "name": "Geisterstadt Varosha",
           "coords": [
-            33.944,
-            35.127
+            33.9555,
+            35.115
           ],
           "category": "historical",
-          "arrive_at": "12:22",
+          "arrive_at": "15:55",
           "stay_min": 80,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Der venezianische Löwe des Heiligen Markus ziert das Tor.",
-            "hu": "A kaput a velencei Szent Márk-oroszlán díszíti.",
-            "ro": "Leul venețian al Sfântului Marcu decorează poarta de intrare.",
-            "en": "The Venetian Lion of St Mark decorates the main gate."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche St. Georg der Griechen",
-            "hu": "Görög Szent György-templom",
-            "ro": "Biserica Sf. Gheorghe a Grecilor",
-            "en": "Church of St. George of the Greeks"
-          },
-          "coords": [
-            33.943,
-            35.123
-          ],
-          "category": "religious",
-          "arrive_at": "13:48",
-          "stay_min": 40,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Eindrucksvolle Ruinen mit Resten von Fresken.",
-            "hu": "A romok falain még láthatók a freskók halvány nyomai.",
-            "ro": "Ruine impresionante unde încă se pot distinge urme de fresce.",
-            "en": "Impressive ruins with faint traces of ancient frescoes."
-          }
-        },
-        {
-          "name": {
-            "de": "Bastion Martinengo",
-            "hu": "Martinengo bástya",
-            "ro": "Bastionul Martinengo",
-            "en": "Martinengo Bastion"
-          },
-          "coords": [
-            33.935,
-            35.128
-          ],
-          "category": "viewpoint",
-          "arrive_at": "14:44",
-          "stay_min": 25,
-          "hop_from_prev_min": 16,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein Meisterwerk der Festungsarchitektur des 16. Jahrhunderts.",
-            "hu": "A 16. századi katonai építészet egyik mesterműve.",
-            "ro": "O capodoperă a arhitecturii militare din secolul al XVI-lea.",
-            "en": "A masterpiece of 16th-century military architecture."
-          }
-        },
-        {
-          "name": {
-            "de": "Geisterstadt Varosha",
-            "hu": "Varosha szellemváros",
-            "ro": "Orașul fantomă Varosha",
-            "en": "Varosha Ghost Town"
-          },
-          "coords": [
-            33.955,
-            35.11
-          ],
-          "category": "historical",
-          "arrive_at": "15:59",
-          "stay_min": 80,
-          "hop_from_prev_min": 50,
+          "hop_from_prev_min": 35,
           "hop_from_prev_km": 2.5,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Seit 1974 verlassen, heute in Teilen wieder begehbar.",
-            "hu": "1974 óta elhagyatott, de néhány utcája ma már látogatható.",
-            "ro": "Abandonat din 1974, acum accesibil parțial pentru vizitatori.",
-            "en": "Abandoned since 1974, parts of it are now open to visitors."
+            "de": "Ein surrealer Ort, an dem die Zeit seit 1974 stehen geblieben ist.",
+            "hu": "Szürreális hely, ahol az idő 1974 óta megállt.",
+            "ro": "Un loc ireal unde timpul s-a oprit în 1974.",
+            "en": "A surreal place where time has stood still since 1974."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Der Spaziergang beginnt an den massiven Stadtmauern. In der Altstadt stehen die Lala-Mustafa-Pascha-Moschee und die Othello-Burg im Mittelpunkt. Nachmittags geht es durch die Ruinen mittelalterlicher Kirchen zur Bastion Martinengo. Zum Abschluss wandern Sie nach Süden zur Geisterstadt Varosha, einem Mahnmal der jüngeren zypriotischen Geschichte.",
-        "hu": "A séta a masszív városfalaknál indul. Az óvárosban a Lala Musztafa Pasa mecset és az Othello-vár adja a történelmi fókuszt. Kora délután középkori templomromok között halad a Martinengo bástya felé. Zárásként egy hosszabb sétával érje el Varosha szellemvárosát, amely az 1974-es események óta üresen áll.",
-        "ro": "Plimbarea începe la fortificațiile masive ale orașului vechi. Explorați Moscheea Lala Mustafa Pașa și Castelul Othello. După-amiaza vă poartă printre ruinele bisericilor medievale către Bastionul Martinengo. Spre seară, mergeți spre sud pentru a vedea Orașul fantomă Varosha, înghețat în timp din 1974.",
-        "en": "The walk starts at the massive Venetian walls. The old town focuses on the Lala Mustafa Pasha Mosque and Othello Castle. In the afternoon, wander among ruined medieval churches to the Martinengo Bastion. Conclude with a walk south to the Ghost Town of Varosha, frozen in time since the 1974 conflict."
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt bei der Lala-Mustafa-Pascha-Moschee, deren gotische Bögen an französische Kathedralen erinnern. Nach dem Besuch des geschichtsträchtigen Gefängnisses von Namık Kemal erkunden Sie die gewaltige Othello-Burg am Hafen. Der Nachmittag gehört den venezianischen Mauern und dem beklemmenden, aber faszinierenden Anblick der Geisterstadt Varosha am Meer.",
+        "hu": "Kezdje a napot az óváros szívében a Lala Musztafa pasa mecsetnél, amelynek gótikus ívei a francia katedrálisokat idézik. Namık Kemal történelmi börtöne után fedezze fel a kikötő melletti hatalmas Othello-várat. A délután a velencei falaké, végül pedig a tengerparti Varosha szellemvárosának nyomasztó, de lenyűgöző látványával zárul a túra.",
+        "ro": "Începeți ziua în inima orașului vechi la Moscheea Lala Mustafa Pașa, ale cărei arcuri gotice amintesc de catedralele franceze. După vizitarea închisorii istorice a lui Namık Kemal, explorați uriașul Castel Othello de lângă port. După-amiaza este dedicată zidurilor venețiene și vederii fascinante, dar tulburătoare, a orașului fantomă Varosha de la malul mării.",
+        "en": "Start your day in the heart of the Old Town at the Lala Mustafa Pasha Mosque, whose Gothic arches recall French cathedrals. After visiting the historic Namık Kemal Dungeon, explore the massive Othello Castle by the harbor. The afternoon is dedicated to the Venetian walls and the haunting but fascinating sight of the Varosha ghost town by the sea."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "Petek Pastanesi",
-            "tip": "Traditionelle türkische Süßwaren und Zypern-Kaffee im Zentrum."
+            "tip": "Berühmte Konditorei für Baklava und türkischen Honig."
           },
           {
-            "name": "Rouge 21",
-            "tip": "Moderne zyprische Meze in historischem Ambiente."
+            "name": "Aspava Restaurant",
+            "tip": "Authentische Kebabs und Meze in der Altstadt."
           }
         ],
         "hu": [
           {
             "name": "Petek Pastanesi",
-            "tip": "Hagyományos török édességek és ciprusi kávé a központban."
+            "tip": "Híres cukrászda baklavával és török édességekkel."
           },
           {
-            "name": "Rouge 21",
-            "tip": "Modern ciprusi meze történelmi környezetben."
+            "name": "Aspava Restaurant",
+            "tip": "Autentikus kebabok és meze az óvárosban."
           }
         ],
         "ro": [
           {
             "name": "Petek Pastanesi",
-            "tip": "Dulciuri turcești tradiționale și cafea cipriotă în centru."
+            "tip": "Cofetărie celebră pentru baklava și rahat turcesc."
           },
           {
-            "name": "Rouge 21",
-            "tip": "Meze cipriot moderne într-o clădire istorică."
+            "name": "Aspava Restaurant",
+            "tip": "Kebab autentic și meze în orașul vechi."
           }
         ],
         "en": [
           {
             "name": "Petek Pastanesi",
-            "tip": "Traditional Turkish sweets and Cyprus coffee in the center."
+            "tip": "Famous pastry shop for baklava and Turkish delights."
           },
           {
-            "name": "Rouge 21",
-            "tip": "Modern Cypriot meze in a historical setting."
+            "name": "Aspava Restaurant",
+            "tip": "Authentic kebabs and meze in the old town."
           }
         ]
       },
@@ -237,48 +177,48 @@
         "de": [
           {
             "name": "Palm Beach",
-            "tip": "Sandstrand direkt an den verlassenen Hotels von Varosha.",
-            "emoji": "🌅"
+            "tip": "Ruhiger Strandabschnitt direkt an der Grenze zu Varosha.",
+            "emoji": "🏖️"
           },
           {
-            "name": "Gassen nahe St. Georg",
-            "tip": "Ruhige Ruinenlandschaft abseits der Hauptplätze.",
+            "name": "St. Georg Ruine",
+            "tip": "Ein stiller Ort zum Innehalten inmitten der Geschichte.",
             "emoji": "🧘"
           }
         ],
         "hu": [
           {
             "name": "Palm Beach",
-            "tip": "Homokos part közvetlenül Varosha elhagyatott szállodái mellett.",
-            "emoji": "🌅"
+            "tip": "Csendes tengerparti szakasz közvetlenül Varosha határában.",
+            "emoji": "🏖️"
           },
           {
-            "name": "Szent György-templom környéke",
-            "tip": "Csendes romterület a főterektől távol.",
+            "name": "Szent György rom",
+            "tip": "Csendes hely az elmélyülésre a történelem közepén.",
             "emoji": "🧘"
           }
         ],
         "ro": [
           {
             "name": "Palm Beach",
-            "tip": "Plajă de nisip chiar lângă hotelurile abandonate din Varosha.",
-            "emoji": "🌅"
+            "tip": "O secțiune liniștită de plajă chiar lângă granița cu Varosha.",
+            "emoji": "🏖️"
           },
           {
-            "name": "Zona Bisericii Sf. Gheorghe",
-            "tip": "Un peisaj liniștit de ruine, departe de agitație.",
+            "name": "Ruina Sf. Gheorghe",
+            "tip": "Un loc liniștit pentru reflecție în mijlocul istoriei.",
             "emoji": "🧘"
           }
         ],
         "en": [
           {
             "name": "Palm Beach",
-            "tip": "Sandy beach right next to the abandoned hotels of Varosha.",
-            "emoji": "🌅"
+            "tip": "Quiet beach section right at the border of Varosha.",
+            "emoji": "🏖️"
           },
           {
-            "name": "Area near St. George Church",
-            "tip": "Quiet ruins away from the main squares.",
+            "name": "St. George Ruins",
+            "tip": "A quiet place for reflection amidst history.",
             "emoji": "🧘"
           }
         ]
@@ -286,329 +226,331 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Altstadt-Bazar",
-            "tip": "Keramik, Gewürze und handgemachte Textilien."
+            "name": "Arasta Markt",
+            "tip": "Traditionelles Kunsthandwerk und Textilien."
+          },
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Lokale Weine und Olivenölprodukte."
           }
         ],
         "hu": [
           {
-            "name": "Óvárosi bazár",
-            "tip": "Kerámiák, fűszerek és kézműves textilek."
+            "name": "Arasta piac",
+            "tip": "Hagyományos kézműves termékek és textilek."
+          },
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Helyi borok és olívaolaj termékek."
           }
         ],
         "ro": [
           {
-            "name": "Bazarul din Orașul Vechi",
-            "tip": "Ceramică, condimente și textile realizate manual."
+            "name": "Piața Arasta",
+            "tip": "Artizanat tradițional și textile."
+          },
+          {
+            "name": "Boutique-uri din centrul vechi",
+            "tip": "Vinuri locale și produse din ulei de măsline."
           }
         ],
         "en": [
           {
-            "name": "Old Town Bazaar",
-            "tip": "Ceramics, spices, and handmade textiles."
+            "name": "Arasta Market",
+            "tip": "Traditional handicrafts and textiles."
+          },
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Local wines and olive oil products."
           }
         ]
       },
       "tips": {
         "de": [
-          "Famagusta liegt im Nordteil Zyperns; Sie benötigen einen Pass für den Grenzübergang.",
-          "Varosha darf nur auf den markierten Wegen betreten werden.",
-          "Die Sommer sind sehr heiß, nehmen Sie auf dem Weg nach Varosha Wasser mit.",
-          "Euros werden meist akzeptiert, aber Türkische Lira sind oft günstiger."
+          "Tragen Sie bequeme Schuhe, da die Altstadt größtenteils aus Kopfsteinpflaster besteht.",
+          "In den Moscheen ist angemessene Kleidung (bedeckte Schultern und Knie) erforderlich.",
+          "Die Währung ist die Türkische Lira, aber Euro werden oft akzeptiert.",
+          "Varosha darf nur in markierten Bereichen betreten werden; Fotografieren ist teils eingeschränkt."
         ],
         "hu": [
-          "Famagusta Észak-Cipruson található, az átkeléshez útlevél vagy kártyás személyi szükséges.",
-          "Varosha területén szigorúan csak a kijelölt utakon szabad közlekedni.",
-          "Nyáron a romok között nagyon meleg van, vigyen vizet a hosszú sétához.",
-          "Az eurót szinte mindenhol elfogadják, de lírával fizetni gyakran olcsóbb."
+          "Viseljen kényelmes cipőt, mert az óváros legtöbb utcája macskaköves.",
+          "A mecsetekben elvárt a visszafogott öltözet (fedett vállak és térdek).",
+          "A hivatalos pénznem a török líra, de az eurót is sok helyen elfogadják.",
+          "Varosha területén csak a kijelölt utakon haladjon, a fotózás néhol korlátozott."
         ],
         "ro": [
-          "Famagusta se află în Ciprul de Nord; aveți nevoie de pașaport sau carte de identitate pentru trecere.",
-          "Rămâneți doar pe căile marcate atunci când explorați Varosha.",
-          "Verile sunt fierbinți; asigurați-vă că aveți apă pentru plimbarea lungă.",
-          "Euro este acceptat, dar plata în Lire Turcești este deseori mai avantajoasă."
+          "Purtați încălțăminte confortabilă, majoritatea străzilor din centrul vechi sunt pietruite.",
+          "În moschei este necesară o ținută decentă (umerii și genunchii acoperiți).",
+          "Moneda locală este lira turcească, dar euro este adesea acceptat.",
+          "Intrați în Varosha doar în zonele marcate; fotografiatul poate fi restricționat."
         ],
         "en": [
-          "Famagusta is in Northern Cyprus; you need a passport or ID to cross the border.",
-          "Stay strictly on the marked paths when exploring Varosha.",
-          "Summers are extremely hot, carry water for the long walk south.",
-          "Euros are widely accepted, though paying in Turkish Lira can be cheaper."
+          "Wear comfortable shoes, as the old town streets are mostly cobbled.",
+          "Modest dress (covered shoulders and knees) is required inside the mosques.",
+          "The local currency is Turkish Lira, but Euros are often accepted.",
+          "Enter Varosha only in marked areas; photography is restricted in some parts."
         ]
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 10,
+      "speed_kmh": 12,
       "start": "09:00",
-      "end_estimate": "18:06",
-      "total_km": 14.2,
-      "stop_count": 6,
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Stadtmauer von Famagusta",
-            "hu": "Famagustai városfal",
-            "ro": "Zidurile orașului Famagusta",
-            "en": "Famagusta City Walls"
-          },
+          "name": "Stadtmauer von Famagusta",
           "coords": [
-            33.939,
+            33.935,
             35.125
           ],
-          "category": "monument",
+          "category": "castles/fortresses/towers",
           "arrive_at": "09:10",
-          "stay_min": 25,
+          "stay_min": 60,
           "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "bike",
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Ideal als Startpunkt, um das Ausmaß der Befestigung zu sehen.",
-            "hu": "Kiváló kezdőpont, ahonnan átlátható az erődítmény mérete.",
-            "ro": "Punct de plecare ideal pentru a vedea amploarea fortificațiilor.",
-            "en": "Ideal starting point to grasp the scale of the fortifications."
+            "de": "Radeln Sie auf dem Wall für eine großartige Orientierung.",
+            "hu": "Tekerjen végig a várfalon a tökéletes tájékozódásért.",
+            "ro": "Pedalați pe ziduri pentru o orientare excelentă.",
+            "en": "Cycle on the wall for a great orientation."
           }
         },
         {
-          "name": {
-            "de": "Geisterstadt Varosha",
-            "hu": "Varosha szellemváros",
-            "ro": "Orașul fantomă Varosha",
-            "en": "Varosha Ghost Town"
-          },
+          "name": "Bastion Martinengo",
           "coords": [
-            33.955,
-            35.11
+            33.932,
+            35.129
           ],
-          "category": "historical",
-          "arrive_at": "09:44",
-          "stay_min": 80,
-          "hop_from_prev_min": 9,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 1.5,
-          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "In Varosha können Sie Fahrräder mieten oder mit dem eigenen Rad fahren.",
-            "hu": "Varoshában engedélyezett a biciklizés a kijelölt utakon.",
-            "ro": "Mersul pe bicicletă este permis pe rutele deschise din Varosha.",
-            "en": "Cycling is permitted on the open roads within Varosha."
+            "de": "Eine der massivsten Bastionen der venezianischen Befestigung.",
+            "hu": "A velencei erődrendszer egyik legmasszívabb bástyája.",
+            "ro": "Unul dintre cele mai masive bastioane ale fortificației venețiene.",
+            "en": "One of the most massive bastions of the Venetian fortification."
           }
         },
         {
-          "name": {
-            "de": "Othello-Burg",
-            "hu": "Othello-vár",
-            "ro": "Castelul Othello",
-            "en": "Othello Castle"
-          },
-          "coords": [
-            33.944,
-            35.127
-          ],
-          "category": "historical",
-          "arrive_at": "11:16",
-          "stay_min": 80,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Die Burg bewachte einst den historischen Hafen.",
-            "hu": "A vár egykor a történelmi kikötőt védte.",
-            "ro": "Castelul păzea cândva portul istoric.",
-            "en": "The castle once guarded the historic harbor."
-          }
-        },
-        {
-          "name": {
-            "de": "Lala-Mustafa-Pascha-Moschee",
-            "hu": "Lala Musztafa Pasa mecset",
-            "ro": "Moscheea Lala Mustafa Pașa",
-            "en": "Lala Mustafa Pasha Mosque"
-          },
+          "name": "Lala-Mustafa-Pascha-Moschee",
           "coords": [
             33.9422,
             35.125
           ],
-          "category": "cathedral",
-          "arrive_at": "12:38",
-          "stay_min": 75,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "bike",
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
           "tip_5lang": {
-            "de": "Das Minarett auf dem gotischen Turm ist ein einzigartiges Motiv.",
-            "hu": "A gótikus tornyon álló minaret különleges látvány.",
-            "ro": "Minaretul așezat pe turnul gotic oferă o imagine unică.",
-            "en": "The minaret atop the Gothic tower is a unique sight."
+            "de": "Stellen Sie Ihr Rad auf dem Platz ab und besichtigen Sie das Innere.",
+            "hu": "Tegye le a bringát a téren, és nézzen szét bent.",
+            "ro": "Lăsați bicicleta în piață și vizitați interiorul.",
+            "en": "Park your bike in the square and visit the interior."
           }
         },
         {
-          "name": {
-            "de": "Ruinen von Salamis",
-            "hu": "Szalamisz romjai",
-            "ro": "Ruinele din Salamis",
-            "en": "Salamis Ruins"
-          },
+          "name": "Othello-Burg",
           "coords": [
-            33.903,
-            35.185
+            33.9435,
+            35.1278
           ],
-          "category": "historical",
-          "arrive_at": "14:47",
-          "stay_min": 80,
-          "hop_from_prev_min": 54,
-          "hop_from_prev_km": 9.0,
-          "hop_mode": "bike",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Antikes Gymnasium und Amphitheater nahe am Meer.",
-            "hu": "Ókori gümnaszion és amfiteátrum közvetlenül a tengerparton.",
-            "ro": "Gimnaziul antic și amfiteatrul de lângă mare.",
-            "en": "Ancient gymnasium and amphitheater located by the sea."
+            "de": "Kurze Fahrt zum Hafen-Eingang der Festung.",
+            "hu": "Rövid gurulás az erőd kikötői bejáratához.",
+            "ro": "O scurtă plimbare până la intrarea din port a cetății.",
+            "en": "Short ride to the harbor entrance of the fortress."
           }
         },
         {
-          "name": {
-            "de": "Königsgräber von Salamis",
-            "hu": "Szalamiszi királysírok",
-            "ro": "Mormintele regilor din Salamis",
-            "en": "Royal Tombs of Salamis"
-          },
+          "name": "Königsgräber von Salamis",
           "coords": [
-            33.895,
-            35.182
+            33.898,
+            35.175
           ],
           "category": "historical",
-          "arrive_at": "16:16",
-          "stay_min": 80,
-          "hop_from_prev_min": 9,
-          "hop_from_prev_km": 1.5,
-          "hop_mode": "bike",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
           "tip_5lang": {
-            "de": "Gewaltige Grabkammern aus der archaischen Zeit.",
-            "hu": "Hatalmas sírkamrák az archaikus korból.",
-            "ro": "Camere funerare masive din perioada arhaică.",
-            "en": "Massive burial chambers from the archaic period."
+            "de": "Antike Nekropole außerhalb der Stadt, ideal mit dem Rad erreichbar.",
+            "hu": "Városon kívüli antik nekropolisz, bringával könnyen elérhető.",
+            "ro": "Necropolă antică în afara orașului, ideal de vizitat cu bicicleta.",
+            "en": "Ancient necropolis outside the city, easily reached by bike."
+          }
+        },
+        {
+          "name": "St.-Barnabas-Kloster",
+          "coords": [
+            33.882,
+            35.174
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Klosteranlage mit Ikonenmuseum und dem Grab des Heiligen.",
+            "hu": "Kolostoregyüttes ikonmúzeummal és a szent sírjával.",
+            "ro": "Mănăstire cu muzeu de icoane și mormântul sfântului.",
+            "en": "Monastery complex with an icon museum and the saint's tomb."
+          }
+        },
+        {
+          "name": "Palm Beach",
+          "coords": [
+            33.955,
+            35.115
+          ],
+          "category": "park",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Entspannung am Strand zum Abschluss der Tour.",
+            "hu": "Pihenés a tengerparton a túra levezetéseként.",
+            "ro": "Relaxare pe plajă la finalul turului.",
+            "en": "Relaxation on the beach to wrap up the tour."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Rad erkunden Sie die Mauern und radeln dann früh nach Varosha. Mittags kehren Sie in die Altstadt zurück, um die Burg und die Moschee zu besichtigen. Der Nachmittag ist für eine längere Radtour entlang der Küste nach Norden reserviert, wo die antiken Ruinen und Königsgräber von Salamis warten.",
-        "hu": "Kerékpárral gyorsan elérheti Varosha szellemvárosát a reggeli órákban. Délben az óvárosban megcsodálhatja az Othello-várat és a központi mecsetet. Délután egy hosszabb, északi irányú tekerés következik a tengerpart mentén az ókori Szalamisz romjaihoz és királysírjaihoz.",
-        "ro": "Bicicleta vă ajută să ajungeți dimineața devreme la Varosha. La prânz, vizitați Castelul Othello și moscheea din orașul vechi. După-amiaza este dedicată unei călătorii mai lungi spre nord, de-a lungul coastei, pentru a explora ruinele antice din Salamis.",
-        "en": "Use the bike to reach Varosha early in the morning. Midday, explore the Othello Castle and the central mosque in the old town. The afternoon features a longer coastal ride north to explore the expansive ancient ruins and Royal Tombs of Salamis."
+        "de": "Mit dem Fahrrad erkunden Sie Famagusta besonders effizient. Starten Sie auf den mächtigen Stadtmauern und umrunden Sie die Altstadt bis zur Bastion Martinengo. Nach einem Abstecher zum Hafen und der Othello-Burg führt die Route nach Norden zu den antiken Königsgräbern und dem St.-Barnabas-Kloster. Den Abschluss bildet eine entspannte Fahrt entlang der Küste bei Varosha.",
+        "hu": "Kerékpárral különösen hatékonyan fedezheti fel Famagustát. Kezdje a hatalmas várfalakon, kerülje meg az óvárost a Martinengo bástyáig. A kikötő és az Othello-vár után az út északra vezet az antik királysírokhoz és a Szent Barnabás kolostorhoz. A napot egy kellemes tengerparti tekerés zárja Varosha mellett.",
+        "ro": "Cu bicicleta veți explora Famagusta foarte eficient. Începeți pe zidurile impunătoare și ocoliți orașul vechi până la Bastionul Martinengo. După o oprire la port și la Castelul Othello, traseul duce spre nord către Mormintele Regale și Mănăstirea Sf. Barnaba. Finalul este o plimbare relaxantă pe coastă lângă Varosha.",
+        "en": "Explore Famagusta efficiently by bike. Start on the mighty city walls and circle the old town to the Martinengo Bastion. After a stop at the harbor and Othello Castle, the route leads north to the ancient Royal Tombs and St. Barnabas Monastery. The day ends with a relaxed ride along the coast near Varosha."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Ginkgo Cafe",
-            "tip": "Erfrischungen in einem schattigen Garten in der Altstadt."
+            "name": "Eziç Magusa",
+            "tip": "Moderne Küche mit tollem Blick auf die Stadt."
           },
           {
-            "name": "Bedi's Beach Bar",
-            "tip": "Fisch und Snacks nahe den Ruinen von Salamis."
+            "name": "Gondola",
+            "tip": "Schnelle und leckere lokale Gerichte für Radfahrer."
           }
         ],
         "hu": [
           {
-            "name": "Ginkgo Cafe",
-            "tip": "Frissítők egy árnyékos kertben az óvárosban."
+            "name": "Eziç Magusa",
+            "tip": "Modern konyha remek kilátással a városra."
           },
           {
-            "name": "Bedi's Beach Bar",
-            "tip": "Halak és snackek Szalamisz romjai közelében."
+            "name": "Gondola",
+            "tip": "Gyors és finom helyi ételek kerékpárosoknak."
           }
         ],
         "ro": [
           {
-            "name": "Ginkgo Cafe",
-            "tip": "Băuturi răcoritoare într-o grădină umbrită din orașul vechi."
+            "name": "Eziç Magusa",
+            "tip": "Bucătărie modernă cu o vedere excelentă asupra orașului."
           },
           {
-            "name": "Bedi's Beach Bar",
-            "tip": "Pește și gustări aproape de ruinele din Salamis."
+            "name": "Gondola",
+            "tip": "Mâncare locală rapidă și gustoasă pentru bicicliști."
           }
         ],
         "en": [
           {
-            "name": "Ginkgo Cafe",
-            "tip": "Refreshments in a shaded garden within the old town."
+            "name": "Eziç Magusa",
+            "tip": "Modern cuisine with a great view of the city."
           },
           {
-            "name": "Bedi's Beach Bar",
-            "tip": "Fish and snacks near the Salamis ruins."
+            "name": "Gondola",
+            "tip": "Quick and tasty local dishes for cyclists."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Strand von Salamis",
-            "tip": "Ein kühles Bad nach der Erkundung der antiken Stätten.",
-            "emoji": "🌊"
+            "name": "Königsgräber",
+            "tip": "Weite, ruhige Landschaft außerhalb des Zentrums.",
+            "emoji": "🏛️"
           }
         ],
         "hu": [
           {
-            "name": "Szalamisz tengerpartja",
-            "tip": "Frissítő úszás az ókori romok felfedezése után.",
-            "emoji": "🌊"
+            "name": "Királysírok",
+            "tip": "Tágas, csendes vidék a központon kívül.",
+            "emoji": "🏛️"
           }
         ],
         "ro": [
           {
-            "name": "Plaja Salamis",
-            "tip": "O baie răcoritoare după explorarea siturilor antice.",
-            "emoji": "🌊"
+            "name": "Mormintele Regale",
+            "tip": "Peisaj vast și liniștit în afara centrului.",
+            "emoji": "🏛️"
           }
         ],
         "en": [
           {
-            "name": "Salamis Beach",
-            "tip": "A refreshing swim after exploring the ancient sites.",
-            "emoji": "🌊"
+            "name": "Royal Tombs",
+            "tip": "Vast, quiet landscape outside the center.",
+            "emoji": "🏛️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Handwerkstände am Othello-Turm",
-            "tip": "Lokale Souvenirs und Kunsthandwerk."
+            "name": "Lemar Supermarkt",
+            "tip": "Lokaler Honig und zypriotischer Wein."
           }
         ],
         "hu": [
           {
-            "name": "Kézműves standok az Othello-toronynál",
-            "tip": "Helyi szuvenírek és művészeti termékek."
+            "name": "Lemar Szupermarket",
+            "tip": "Helyi méz és ciprusi borok."
           }
         ],
         "ro": [
           {
-            "name": "Standuri artizanale la Turnul Othello",
-            "tip": "Suveniruri locale și artizanat."
+            "name": "Supermarket Lemar",
+            "tip": "Miere locală și vin cipriot."
           }
         ],
         "en": [
           {
-            "name": "Craft stalls near Othello Tower",
-            "tip": "Local souvenirs and handicrafts."
+            "name": "Lemar Supermarket",
+            "tip": "Local honey and Cypriot wine."
           }
         ]
       },
       "tips": {
         "de": [
-          "Prüfen Sie Ihre Reifen vor der Fahrt nach Salamis; der Weg dorthin ist recht lang.",
-          "Varosha lässt sich perfekt mit dem Rad erkunden, viele Straßen sind asphaltiert."
+          "Achten Sie auf den Verkehr, Radwege sind kaum vorhanden.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für die Fahrt nach Salamis.",
+          "Sichern Sie Ihr Fahrrad immer gut ab, auch bei kurzen Stopps."
         ],
         "hu": [
-          "Ellenőrizze a gumikat a Szalamiszba vezető hosszabb út előtt.",
-          "Varosha felfedezéséhez a kerékpár a legjobb eszköz, az utak jórészt aszfaltozottak."
+          "Figyeljen a forgalomra, kerékpárutak szinte nincsenek.",
+          "Vigyen magával elég vizet, főleg a Salamis felé vezető útra.",
+          "Mindig zárja le a biciklit, még rövid megállók esetén is."
         ],
         "ro": [
-          "Verificați cauciucurile înainte de drumul mai lung către Salamis.",
-          "Bicicleta este perfectă pentru a explora rapid zona deschisă din Varosha."
+          "Atenție la trafic, pistele de biciclete aproape că nu există.",
+          "Luați suficientă apă, mai ales pentru drumul spre Salamis.",
+          "Asigurați întotdeauna bine bicicleta, chiar și la opriri scurte."
         ],
         "en": [
-          "Check your tires before the 9km ride to Salamis.",
-          "Cycling is the most efficient way to see the open parts of Varosha."
+          "Watch out for traffic, as there are almost no bike lanes.",
+          "Take plenty of water, especially for the trip to Salamis.",
+          "Always lock your bike securely, even during short stops."
         ]
       }
     },
@@ -616,254 +558,176 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "20:55",
-      "total_km": 16.4,
-      "stop_count": 7,
+      "end_estimate": "17:15",
+      "total_km": 32.5,
+      "stop_count": 5,
       "stops": [
         {
-          "name": {
-            "de": "Othello-Burg",
-            "hu": "Othello-vár",
-            "ro": "Castelul Othello",
-            "en": "Othello Castle"
-          },
-          "coords": [
-            33.944,
-            35.127
-          ],
-          "category": "historical",
-          "arrive_at": "09:10",
-          "stay_min": 80,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parken Sie am Hafen, um das Altstadt-Cluster zu Fuß zu erkunden.",
-            "hu": "Parkoljon a kikötőnél, és járja be az óvárosi klasztert gyalog.",
-            "ro": "Parcați la port pentru a explora clusterul orașului vechi pe jos.",
-            "en": "Park at the harbor to explore the old town cluster on foot."
-          }
-        },
-        {
-          "name": {
-            "de": "Lala-Mustafa-Pascha-Moschee",
-            "hu": "Lala Musztafa Pasa mecset",
-            "ro": "Moscheea Lala Mustafa Pașa",
-            "en": "Lala Mustafa Pasha Mosque"
-          },
+          "name": "Lala-Mustafa-Pascha-Moschee",
           "coords": [
             33.9422,
             35.125
           ],
-          "category": "cathedral",
-          "arrive_at": "10:35",
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
           "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Im Zentrum der Altstadt gelegen, umgeben von Cafés.",
-            "hu": "Az óváros szívében található, kávézókkal körülvéve.",
-            "ro": "Situată în centrul orașului vechi, înconjurată de cafenele.",
-            "en": "Located in the heart of the old town, surrounded by cafes."
+            "de": "Parken Sie am Rande der Altstadt und erkunden Sie den Kern zu Fuß.",
+            "hu": "Parkoljon az óváros szélén, és gyalog fedezze fel a központot.",
+            "ro": "Parcați la marginea centrului vechi și explorați centrul pe jos.",
+            "en": "Park at the edge of the old town and explore the core on foot."
           }
         },
         {
-          "name": {
-            "de": "Kirche St. Georg der Griechen",
-            "hu": "Görög Szent György-templom",
-            "ro": "Biserica Sf. Gheorghe a Grecilor",
-            "en": "Church of St. George of the Greeks"
-          },
+          "name": "Othello-Burg",
           "coords": [
-            33.943,
-            35.123
+            33.9435,
+            35.1278
           ],
-          "category": "religious",
-          "arrive_at": "11:55",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Nur einen kurzen Spaziergang vom Hauptplatz entfernt.",
-            "hu": "Csak egy rövid sétára van a főtértől.",
-            "ro": "La doar o scurtă plimbare de piața principală.",
-            "en": "Just a short walk from the main square."
-          }
-        },
-        {
-          "name": {
-            "de": "Geisterstadt Varosha",
-            "hu": "Varosha szellemváros",
-            "ro": "Orașul fantomă Varosha",
-            "en": "Varosha Ghost Town"
-          },
-          "coords": [
-            33.955,
-            35.11
-          ],
-          "category": "historical",
-          "arrive_at": "12:45",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
           "stay_min": 80,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 3.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Fahrt zum Eingang von Varosha. Dort gibt es bewachte Parkplätze.",
-            "hu": "Autóval a varoshai bejárathoz. Ott vannak őrzött parkolók.",
-            "ro": "Conduceți până la intrarea în Varosha, unde găsiți parcare.",
-            "en": "Drive to the Varosha entrance, where guarded parking is available."
-          }
-        },
-        {
-          "name": {
-            "de": "Palm Beach",
-            "hu": "Pálma-part",
-            "ro": "Palm Beach",
-            "en": "Palm Beach"
-          },
-          "coords": [
-            33.953,
-            35.112
-          ],
-          "category": "beach",
-          "arrive_at": "14:10",
-          "stay_min": 180,
-          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Entspannen Sie am Strand vor der Kulisse verlassener Gebäude.",
-            "hu": "Pihenjen a strandon az elhagyatott épületek árnyékában.",
-            "ro": "Relaxați-vă pe plajă având ca fundal clădirile părăsite.",
-            "en": "Relax on the beach against the backdrop of abandoned buildings."
+            "de": "Zweiter Stopp im Altstadt-Cluster, nur wenige Gehminuten entfernt.",
+            "hu": "Második megálló az óvárosi klaszterben, pár perc séta.",
+            "ro": "A doua oprire în zona centrului vechi, la câteva minute de mers pe jos.",
+            "en": "Second stop in the old town cluster, just a few minutes' walk."
           }
         },
         {
-          "name": {
-            "de": "Ruinen von Salamis",
-            "hu": "Szalamisz romjai",
-            "ro": "Ruinele din Salamis",
-            "en": "Salamis Ruins"
-          },
+          "name": "Ruinen von Salamis",
           "coords": [
             33.903,
             35.185
           ],
           "category": "historical",
-          "arrive_at": "17:35",
-          "stay_min": 80,
+          "arrive_at": "12:20",
+          "stay_min": 120,
           "hop_from_prev_min": 25,
-          "hop_from_prev_km": 12.0,
-          "hop_mode": "car",
+          "hop_from_prev_km": 10.5,
           "tip_5lang": {
-            "de": "Fahrt nach Norden zum großen archäologischen Areal.",
-            "hu": "Autózzon északra a hatalmas régészeti területre.",
-            "ro": "Conduceți spre nord spre complexul arheologic mare.",
-            "en": "Drive north to the expansive archaeological complex."
+            "de": "Ein riesiges Areal mit antikem Theater und Thermen direkt am Meer.",
+            "hu": "Hatalmas terület antik színházzal és termálfürdőkkel a tengerparton.",
+            "ro": "O zonă uriașă cu teatru antic și termale chiar la malul mării.",
+            "en": "A huge area with an ancient theater and thermal baths right by the sea."
           }
         },
         {
-          "name": {
-            "de": "Königsgräber von Salamis",
-            "hu": "Szalamiszi királysírok",
-            "ro": "Mormintele regilor din Salamis",
-            "en": "Royal Tombs of Salamis"
-          },
+          "name": "St.-Barnabas-Kloster",
           "coords": [
-            33.895,
-            35.182
+            33.882,
+            35.174
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt von Salamis zu diesem religiösen Zentrum.",
+            "hu": "Rövid autózás Salamisból ehhez a vallási központhoz.",
+            "ro": "Scurtă plimbare cu mașina de la Salamis la acest centru religios.",
+            "en": "Short drive from Salamis to this religious center."
+          }
+        },
+        {
+          "name": "Geisterstadt Varosha",
+          "coords": [
+            33.9555,
+            35.115
           ],
           "category": "historical",
-          "arrive_at": "19:05",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 17.0,
           "tip_5lang": {
-            "de": "Ein kurzer Weg von den Hauptruinen zu den antiken Gräbern.",
-            "hu": "Rövid séta a fő romoktól az ókori sírokig.",
-            "ro": "O scurtă plimbare de la ruinele principale la mormintele antice.",
-            "en": "A short walk from the main ruins to the ancient tombs."
+            "de": "Fahrt zurück in den Süden, um die abgesperrte Stadt zu besichtigen.",
+            "hu": "Visszaút délre, a lezárt városrész megtekintéséhez.",
+            "ro": "Drumul de întoarcere spre sud pentru a vizita orașul închis.",
+            "en": "Drive back south to visit the closed-off part of the city."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Das Auto ermöglicht eine Aufteilung des Tages in drei Cluster: Vormittags parken Sie am Hafen für die historische Altstadt. Mittags fahren Sie nach Varosha, wo ein Spaziergang durch die Geisterstadt und ein langer Strandnachmittag warten. Zum Abendlicht fahren Sie nach Norden, um das weitläufige Gelände von Salamis zu besuchen.",
-        "hu": "Az autós nap három jól elkülönülő klaszterre oszlik: délelőtt az óvárost járhatja be egyetlen parkolással. Délben átgurul Varoshába, ahol a történelem után egy hosszú tengerparti pihenő következik. Kora este vezessen északra, hogy a naplementében csodálhassa meg Szalamisz hatalmas romjait.",
-        "ro": "Mașina împarte ziua în trei zone: dimineața explorați orașul vechi lăsând mașina la port. La prânz, conduceți spre Varosha pentru istorie și o pauză lungă la plajă. Spre seară, mergeți în nord pentru a vizita ruinele și mormintele extinse din Salamis la o lumină blândă.",
-        "en": "The car divides the day into three clusters: spend the morning walking the walled city from a single parking spot. Midday, drive south to Varosha for urban exploration followed by a long beach relaxation. In the evening, drive north to explore the vast ruins of Salamis."
+        "de": "Mit dem Auto erreichen Sie bequem die weiter entfernten Schätze Famagustas. Nach dem gotischen Zentrum der Altstadt führt Sie die Fahrt nach Norden zu den beeindruckenden antiken Ruinen von Salamis und dem St.-Barnabas-Kloster. Zum Abschluss kehren Sie in den Süden zurück, um die melancholische Szenerie von Varosha zu erleben, bevor der Tag am Palm Beach ausklingt.",
+        "hu": "Autóval kényelmesen elérheti Famagusta távolabbi kincseit is. Az óváros gótikus központja után az út északra vezet Salamis lenyűgöző antik romjaihoz és a Szent Barnabás kolostorhoz. Végül térjen vissza délre, hogy megtapasztalja Varosha melankolikus hangulatát, mielőtt a nap a Palm Beach-en véget érne.",
+        "ro": "Cu mașina veți ajunge confortabil la comorile mai îndepărtate ale Famagustei. După centrul gotic al orașului vechi, drumul vă duce spre nord către impresionantele ruine antice din Salamis și Mănăstirea Sf. Barnaba. La final, reveniți spre sud pentru a experimenta atmosfera melancolică din Varosha, înainte ca ziua să se încheie la Palm Beach.",
+        "en": "By car, you can comfortably reach the more distant treasures of Famagusta. After the Gothic center of the Old Town, the drive takes you north to the impressive ancient ruins of Salamis and the St. Barnabas Monastery. Finally, return south to experience the melancholy atmosphere of Varosha before ending the day at Palm Beach."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Aspava",
-            "tip": "Traditioneller Kebap nach der Altstadttour."
+            "name": "Silver Beach Restaurant",
+            "tip": "Frischer Fisch direkt bei den Salamis-Ruinen."
           },
           {
-            "name": "Karpaz-Region (auf dem Weg)",
-            "tip": "Probieren Sie frische Meeresfrüchte außerhalb der Stadt."
+            "name": "Castello",
+            "tip": "Gehobene Küche in historischem Ambiente."
           }
         ],
         "hu": [
           {
-            "name": "Aspava",
-            "tip": "Hagyományos kebab az óvárosi túra után."
+            "name": "Silver Beach Restaurant",
+            "tip": "Friss halételek közvetlenül a Salamis romoknál."
           },
           {
-            "name": "Karpaz-félsziget felé",
-            "tip": "Kóstoljon friss tengeri ételeket a városon kívül."
+            "name": "Castello",
+            "tip": "Színvonalas konyha történelmi környezetben."
           }
         ],
         "ro": [
           {
-            "name": "Aspava",
-            "tip": "Kebab tradițional după turul orașului vechi."
+            "name": "Silver Beach Restaurant",
+            "tip": "Pește proaspăt chiar lângă ruinele Salamis."
           },
           {
-            "name": "Pe drumul spre Karpaz",
-            "tip": "Încercați fructe de mare proaspete în afara orașului."
+            "name": "Castello",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
           }
         ],
         "en": [
           {
-            "name": "Aspava",
-            "tip": "Traditional kebab after the old town tour."
+            "name": "Silver Beach Restaurant",
+            "tip": "Fresh fish right by the Salamis ruins."
           },
           {
-            "name": "Towards Karpaz",
-            "tip": "Try fresh seafood just outside the city bounds."
+            "name": "Castello",
+            "tip": "Fine dining in a historic setting."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Königsgräber bei Sonnenuntergang",
-            "tip": "Besonders ruhige und mystische Stimmung am Abend.",
-            "emoji": "🌅"
+            "name": "St.-Barnabas-Garten",
+            "tip": "Ein ruhiger Kreuzgang zum Entspannen.",
+            "emoji": "🌿"
           }
         ],
         "hu": [
           {
-            "name": "Királysírok naplementekor",
-            "tip": "Különösen csendes és misztikus hangulat kora este.",
-            "emoji": "🌅"
+            "name": "Szent Barnabás kertje",
+            "tip": "Csendes kolostorkert a pihenéshez.",
+            "emoji": "🌿"
           }
         ],
         "ro": [
           {
-            "name": "Mormintele Regilor la apus",
-            "tip": "O atmosferă deosebit de liniștită și mistică seara.",
-            "emoji": "🌅"
+            "name": "Grădina Sf. Barnaba",
+            "tip": "O grădină liniștită de mănăstire pentru relaxare.",
+            "emoji": "🌿"
           }
         ],
         "en": [
           {
-            "name": "Royal Tombs at sunset",
-            "tip": "A particularly quiet and mystical atmosphere in the evening.",
-            "emoji": "🌅"
+            "name": "St. Barnabas Garden",
+            "tip": "A quiet cloister garden for relaxing.",
+            "emoji": "🌿"
           }
         ]
       },
@@ -871,44 +735,48 @@
         "de": [
           {
             "name": "City Mall Famagusta",
-            "tip": "Modernes Einkaufszentrum mit vielen Boutiquen."
+            "tip": "Modernes Einkaufszentrum für internationale Marken."
           }
         ],
         "hu": [
           {
             "name": "City Mall Famagusta",
-            "tip": "Modern bevásárlóközpont sok butikkal."
+            "tip": "Modern bevásárlóközpont nemzetközi márkákkal."
           }
         ],
         "ro": [
           {
             "name": "City Mall Famagusta",
-            "tip": "Centru comercial modern cu multe buticuri."
+            "tip": "Centru comercial modern pentru mărci internaționale."
           }
         ],
         "en": [
           {
             "name": "City Mall Famagusta",
-            "tip": "Modern shopping mall featuring various boutiques."
+            "tip": "Modern shopping mall for international brands."
           }
         ]
       },
       "tips": {
         "de": [
-          "Beachten Sie die Versicherungbedingungen für Mietwagen beim Grenzübertritt nach Nordzypern.",
-          "Parkplätze in der Altstadt sind begrenzt, der Hafenparkplatz ist meist die beste Wahl."
+          "In Nordzypern herrscht Linksverkehr.",
+          "Parkplätze sind in der Altstadt knapp, nutzen Sie die Plätze außerhalb der Mauern.",
+          "Achten Sie auf die Grenzbestimmungen, falls Sie mit einem Mietwagen aus dem Süden kommen."
         ],
         "hu": [
-          "Ellenőrizze a bérautó biztosítási feltételeit az észak-ciprusi határátlépésnél.",
-          "Az óvárosban kevés a parkoló, a kikötői parkoló a legbiztosabb megoldás."
+          "Észak-Cipruson baloldali közlekedés van.",
+          "Az óvárosban kevés a parkoló, használja a falakon kívüli helyeket.",
+          "Ügyeljen a határátlépési szabályokra, ha déli bérautóval érkezik."
         ],
         "ro": [
-          "Verificați condițiile de asigurare auto la trecerea graniței în Ciprul de Nord.",
-          "Parcările în orașul vechi sunt limitate; parcarea de la port este cea mai bună opțiune."
+          "În Ciprul de Nord se conduce pe partea stângă.",
+          "Locurile de parcare sunt puține în centrul vechi, folosiți parcările din afara zidurilor.",
+          "Atenție la reglementările de frontieră dacă veniți cu o mașină închiriată din sud."
         ],
         "en": [
-          "Check rental car insurance conditions when crossing the border to Northern Cyprus.",
-          "Parking inside the walled city is tight; use the harbor parking lots instead."
+          "Driving is on the left in Northern Cyprus.",
+          "Parking is scarce in the old town, use the lots outside the walls.",
+          "Be aware of border regulations if coming with a rental car from the south."
         ]
       }
     },
@@ -916,259 +784,209 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 4.4,
-      "stop_count": 6,
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 5,
       "stops": [
         {
-          "name": {
-            "de": "Stadtmauer von Famagusta",
-            "hu": "Famagustai városfal",
-            "ro": "Zidurile orașului Famagusta",
-            "en": "Famagusta City Walls"
-          },
-          "coords": [
-            33.939,
-            35.125
-          ],
-          "category": "monument",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Das Landtor (Ravelin) ist der Hauptzugang zur Altstadt.",
-            "hu": "A szárazföldi kapu (Ravelin) az óváros fő bejárata.",
-            "ro": "Poarta de uscat (Ravelin) este principala intrare în orașul vechi.",
-            "en": "The Land Gate (Ravelin) is the main entrance to the old town."
-          }
-        },
-        {
-          "name": {
-            "de": "Lala-Mustafa-Pascha-Moschee",
-            "hu": "Lala Musztafa Pasa mecset",
-            "ro": "Moscheea Lala Mustafa Pașa",
-            "en": "Lala Mustafa Pasha Mosque"
-          },
+          "name": "Lala-Mustafa-Pascha-Moschee",
           "coords": [
             33.9422,
             35.125
           ],
-          "category": "cathedral",
-          "arrive_at": "09:40",
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
           "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Zentraler Ankerpunkt der Altstadt.",
-            "hu": "Az óváros központi látványossága.",
-            "ro": "Atracția centrală a orașului vechi.",
-            "en": "The central anchor point of the old town."
+            "de": "Zentraler Ankunftsort für die meisten Busse (Dolmuş).",
+            "hu": "A legtöbb busz (Dolmuş) központi érkezési helye.",
+            "ro": "Locul central de sosire pentru majoritatea autobuzelor (Dolmuș).",
+            "en": "Central arrival point for most buses (Dolmuş)."
           }
         },
         {
-          "name": {
-            "de": "Namık-Kemal-Verlies",
-            "hu": "Namık Kemal börtöne",
-            "ro": "Temnița Namık Kemal",
-            "en": "Namık Kemal Dungeon"
-          },
+          "name": "Othello-Burg",
           "coords": [
-            33.9415,
-            35.1245
+            33.9435,
+            35.1278
           ],
-          "category": "historical",
-          "arrive_at": "11:00",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
           "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Befindet sich am selben großen Platz wie die Moschee.",
-            "hu": "A mecsettel azonos nagy téren található.",
-            "ro": "Se află în aceeași piață mare ca și moscheea.",
-            "en": "Located on the same large square as the mosque."
-          }
-        },
-        {
-          "name": {
-            "de": "Othello-Burg",
-            "hu": "Othello-vár",
-            "ro": "Castelul Othello",
-            "en": "Othello Castle"
-          },
-          "coords": [
-            33.944,
-            35.127
-          ],
-          "category": "historical",
-          "arrive_at": "12:25",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Schöner Blick über den Hafenbereich.",
-            "hu": "Szép kilátás nyílik innen a kikötőre.",
-            "ro": "O priveliște frumoasă asupra zonei portului.",
-            "en": "Offers a nice view over the harbor area."
-          }
-        },
-        {
-          "name": {
-            "de": "Geisterstadt Varosha",
-            "hu": "Varosha szellemváros",
-            "ro": "Orașul fantomă Varosha",
-            "en": "Varosha Ghost Town"
-          },
-          "coords": [
-            33.955,
-            35.11
-          ],
-          "category": "historical",
-          "arrive_at": "14:05",
-          "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nutzen Sie ein Dolmuş (Sammeltaxi) nach Süden.",
-            "hu": "Használjon egy dél felé tartó dolmuş-t (iránytaxit).",
-            "ro": "Folosiți un dolmuș (taxi comun) pentru a merge spre sud.",
-            "en": "Use a local dolmuş (shared taxi) heading south."
-          }
-        },
-        {
-          "name": {
-            "de": "Palm Beach Promenade",
-            "hu": "Pálma-part sétány",
-            "ro": "Promenada Palm Beach",
-            "en": "Palm Beach Promenade"
-          },
-          "coords": [
-            33.953,
-            35.112
-          ],
-          "category": "park",
-          "arrive_at": "15:35",
-          "stay_min": 40,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Spazieren Sie entlang der Absperrungen der Geisterstadt am Meer.",
-            "hu": "Sétáljon a tengerparton a lezárt városrészek kordonjai mellett.",
-            "ro": "Plimbați-vă de-a lungul barierelor orașului fantomă pe malul mării.",
-            "en": "Walk along the sea next to the barricades of the ghost town."
+            "de": "Vom Zentrum aus in wenigen Minuten zu Fuß erreichbar.",
+            "hu": "A központból pár perc alatt gyalog elérhető.",
+            "ro": "Accesibil pe jos în câteva minute din centru.",
+            "en": "Accessible on foot in a few minutes from the center."
+          }
+        },
+        {
+          "name": "Ruinen von Salamis",
+          "coords": [
+            33.903,
+            35.185
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Dolmuş Richtung Iskele/Dipkarpaz.",
+            "hu": "Használja az Iskele/Dipkarpaz felé tartó dolmuşt.",
+            "ro": "Folosiți dolmuș-ul în direcția Iskele/Dipkarpaz.",
+            "en": "Take the Dolmuş towards Iskele/Dipkarpaz."
+          }
+        },
+        {
+          "name": "Namık-Kemal-Verlies",
+          "coords": [
+            33.9418,
+            35.1248
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Zentrum zur weiteren Besichtigung.",
+            "hu": "Visszautazás a központba a további látnivalókhoz.",
+            "ro": "Întoarcere în centru pentru continuarea vizitei.",
+            "en": "Return to the center for further sightseeing."
+          }
+        },
+        {
+          "name": "Geisterstadt Varosha",
+          "coords": [
+            33.9555,
+            35.115
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Dolmuş-Fahrt oder längerer Spaziergang vom Zentrum.",
+            "hu": "Rövid dolmuş-út vagy hosszabb séta a központból.",
+            "ro": "O scurtă călătorie cu dolmuș-ul sau o plimbare mai lungă din centru.",
+            "en": "Short Dolmuş ride or a longer walk from the center."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Der Tag ist zweigeteilt: Vormittags erkunden Sie das sehr kompakte, von Mauern umgebene Zentrum von Famagusta zu Fuß. Nach dem Besuch der Othello-Burg nehmen Sie mittags ein lokales Sammeltaxi (Dolmuş), das Sie schnell zum Viertel Varosha bringt. Der Nachmittag klingt mit einem Spaziergang an der Küstenpromenade aus.",
-        "hu": "A nap két részre oszlik: délelőtt gyalogosan járja be az ezeréves falakkal körülvett, rendkívül sűrű óvárost. Az Othello-vár után délben pattanjon fel egy helyi iránytaxira (dolmuş), amivel könnyen átjut a déli Varosha negyedbe. A délutánt a kordonok melletti parti sétányon zárhatja.",
-        "ro": "Ziua are două părți: dimineața explorați pe jos centrul compact înconjurat de ziduri. După vizitarea Castelului Othello, luați un taxi comun local (dolmuș) care vă duce rapid în cartierul Varosha. După-amiaza se încheie cu o plimbare pe promenada de coastă.",
-        "en": "The day is split in two: spend the morning walking the very compact, walled old town. After the Othello Castle, take a local shared taxi (dolmuş) south to the Varosha district. The afternoon winds down with a coastal walk along the barricades of the abandoned resort."
+        "de": "Öffentliche Verkehrsmittel in Famagusta basieren auf den praktischen Dolmuş-Minibussen. Erkunden Sie zuerst die Schätze der Altstadt zu Fuß. Mittags nehmen Sie einen Bus nach Norden, um die beeindruckenden Ruinen von Salamis zu besuchen. Nach der Rückkehr ins Zentrum beschließen Sie den Tag mit einem Besuch in Varosha, das ebenfalls per lokalem Bus erreichbar ist.",
+        "hu": "Famagusta tömegközlekedése a praktikus dolmuş kisbuszokon alapul. Előbb fedezze fel az óváros kincseit gyalogosan. Délben pattanjon buszra észak felé, hogy megnézze Salamis lenyűgöző romjait. A központba visszatérve a napot Varosha meglátogatásával zárhatja, amely szintén elérhető helyi járattal.",
+        "ro": "Transportul public în Famagusta se bazează pe microbuzele practice dolmuș. Explorați mai întâi comorile orașului vechi pe jos. La prânz, luați un autobuz spre nord pentru a vizita impresionantele ruine Salamis. După revenirea în centru, încheiați ziua cu o vizită în Varosha, accesibilă de asemenea cu autobuzul local.",
+        "en": "Public transport in Famagusta is based on the practical Dolmuş minibuses. First, explore the treasures of the Old Town on foot. At noon, hop on a bus north to see the impressive ruins of Salamis. After returning to the center, end your day with a visit to Varosha, which is also accessible by local bus."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Ezic Famagusta",
-            "tip": "Bekannte Kette für verlässliche lokale und internationale Küche."
+            "name": "Veni Vici",
+            "tip": "Gute italienische Küche, beliebt bei Einheimischen."
           }
         ],
         "hu": [
           {
-            "name": "Ezic Famagusta",
-            "tip": "Megbízható étteremlánc helyi és nemzetközi ételekkel."
+            "name": "Veni Vici",
+            "tip": "Jó olasz konyha, népszerű a helyiek körében."
           }
         ],
         "ro": [
           {
-            "name": "Ezic Famagusta",
-            "tip": "Lanț cunoscut pentru mâncăruri locale și internaționale de încredere."
+            "name": "Veni Vici",
+            "tip": "Bucătărie italiană bună, populară printre localnici."
           }
         ],
         "en": [
           {
-            "name": "Ezic Famagusta",
-            "tip": "Well-known chain for reliable local and international cuisine."
+            "name": "Veni Vici",
+            "tip": "Good Italian cuisine, popular with locals."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Cafés am Namık-Kemal-Platz",
-            "tip": "Beobachten Sie das Treiben im Schatten der Bäume.",
-            "emoji": "🍃"
+            "name": "Palm Beach",
+            "tip": "Endstation für viele Busse am Meer.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Kávézók a Namık Kemal téren",
-            "tip": "Nézze a városi nyüzsgést a fák árnyékából.",
-            "emoji": "🍃"
+            "name": "Palm Beach",
+            "tip": "Sok busz végállomása a tengerparton.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Cafenelele din Piața Namık Kemal",
-            "tip": "Priviți forfota orașului de la umbra copacilor.",
-            "emoji": "🍃"
+            "name": "Palm Beach",
+            "tip": "Capăt de linie pentru multe autobuze la mare.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Cafes at Namık Kemal Square",
-            "tip": "Watch the city life from the shade of the trees.",
-            "emoji": "🍃"
+            "name": "Palm Beach",
+            "tip": "Terminal for many buses by the sea.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Altstadtgassen",
-            "tip": "Feilschen ist in den kleineren Boutiquen üblich."
+            "name": "Salamis Road Shops",
+            "tip": "Lebhafte Straße mit vielen Geschäften."
           }
         ],
         "hu": [
           {
-            "name": "Óvárosi kisutcák",
-            "tip": "A kisebb butikokban megszokott dolog az alkudozás."
+            "name": "Salamis Road üzletek",
+            "tip": "Nyüzsgő utca sok üzlettel."
           }
         ],
         "ro": [
           {
-            "name": "Străduțele orașului vechi",
-            "tip": "Negocierea este obișnuită în micile buticuri."
+            "name": "Magazinele de pe Salamis Road",
+            "tip": "Stradă animată cu multe magazine."
           }
         ],
         "en": [
           {
-            "name": "Old Town Alleys",
-            "tip": "Haggling is expected in the smaller boutiques."
+            "name": "Salamis Road Shops",
+            "tip": "Lively street with many shops."
           }
         ]
       },
       "tips": {
         "de": [
-          "Dolmuş-Minibusse verkehren oft ohne festen Fahrplan, fragen Sie einfach den Fahrer.",
-          "Zahlen Sie im Dolmuş am besten mit kleinen Scheinen (Türkische Lira)."
+          "Dolmuş-Busse haben keine festen Haltestellen; winken Sie dem Fahrer einfach zu.",
+          "Fragen Sie den Fahrer immer nach dem Ziel, bevor Sie einsteigen.",
+          "Halten Sie Kleingeld in Lira für die Fahrten bereit."
         ],
         "hu": [
-          "A dolmuş kisbuszok sokszor menetrend nélkül járnak, egyszerűen intse le őket.",
-          "A viteldíjat érdemes kis címletű török lírával fizetni a sofőrnek."
+          "A dolmuşoknak nincsenek fix megállói; egyszerűen integessen a sofőrnek.",
+          "Mindig kérdezze meg a célállomást a sofőrtől felszállás előtt.",
+          "Készítsen be aprópénzt lírában a viteldíjhoz."
         ],
         "ro": [
-          "Microbuzele dolmuș circulă des fără un orar fix; doar faceți semn șoferului.",
-          "Plătiți în dolmuș cu bancnote mici (Lire Turcești)."
+          "Microbuzele dolmuș nu au stații fixe; faceți pur și simplu cu mâna șoferului.",
+          "Întrebați întotdeauna șoferul despre destinație înainte de a urca.",
+          "Pregătiți mărunțiș în lire pentru călătorii."
         ],
         "en": [
-          "Dolmuş minibuses often operate without a fixed schedule, just hail one down.",
-          "Pay the driver directly using small Turkish Lira notes."
+          "Dolmuş buses don't have fixed stops; just wave to the driver.",
+          "Always ask the driver for the destination before boarding.",
+          "Have small change in Lira ready for the fares."
         ]
       }
     }

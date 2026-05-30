@@ -1,0 +1,790 @@
+{
+  "city_id": "city-konstanz-extra",
+  "anchor": {
+    "name": "Konstanz Altstadt",
+    "coords": [
+      9.1775,
+      47.6779
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Imperia-Statue",
+          "coords": [
+            9.1817,
+            47.6622
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dreht sich alle 4 Minuten um ihre eigene Achse.",
+            "hu": "4 percenként fordul meg a saját tengelye körül.",
+            "ro": "Se rotește în jurul axei sale la fiecare 4 minute.",
+            "en": "Rotates on its axis every 4 minutes."
+          }
+        },
+        {
+          "name": "Konzilgebäude",
+          "coords": [
+            9.1815,
+            47.6618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ort der Papstwahl während des Konstanzer Konzils.",
+            "hu": "A pápaválasztás helyszíne a konstanzi zsinat alatt.",
+            "ro": "Locul alegerii papale în timpul Conciliului de la Konstanz.",
+            "en": "Site of the papal election during the Council of Constance."
+          }
+        },
+        {
+          "name": "Rathaus Konstanz",
+          "coords": [
+            9.1738,
+            47.6628
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wunderschöne Renaissance-Fassade mit Fresken.",
+            "hu": "Gyönyörű reneszánsz homlokzat freskókkal.",
+            "ro": "Fațadă renascentistă superbă cu fresce.",
+            "en": "Beautiful Renaissance facade with frescoes."
+          }
+        },
+        {
+          "name": "Münster Unserer Lieben Frau",
+          "coords": [
+            9.1751,
+            47.6635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für einen Blick über den See.",
+            "hu": "Másszon fel a toronyba a tavi panorámáért.",
+            "ro": "Urcați în turn pentru o vedere asupra lacului.",
+            "en": "Climb the tower for a view over the lake."
+          }
+        },
+        {
+          "name": "Rosgartenmuseum",
+          "coords": [
+            9.1755,
+            47.661
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehemaliges Zunfthaus mit regionaler Kunst.",
+            "hu": "Egykori céhház regionális művészeti alkotásokkal.",
+            "ro": "Fosta casă a breslei cu artă regională.",
+            "en": "Former guild house with regional art."
+          }
+        },
+        {
+          "name": "Rheintorturm",
+          "coords": [
+            9.1784,
+            47.6672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mittelalterlicher Wachturm an der Rheinbrücke.",
+            "hu": "Középkori őrtorony a Rajna-hídnál.",
+            "ro": "Turn de veghe medieval la podul peste Rin.",
+            "en": "Medieval watchtower at the Rhine bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am geschäftigen Hafen mit der majestätischen Imperia. Schlendern Sie durch die engen Gassen der Altstadt zum prächtigen Münster und dem historischen Rathaus. Nach einer Kulturpause im Rosgartenmuseum führt der Weg zum Rheintorturm, wo der See in den Rhein fließt.",
+        "hu": "Napja a forgalmas kikötőben kezdődik a fenséges Imperia-szobornál. Sétáljon az óváros szűk utcáin a pompás dómhoz és a történelmi városházához. A Rosgartenmuseum kulturális kitérője után az út a Rheintorturmhoz vezet, ahol a tó a Rajnába torkollik.",
+        "ro": "Ziua începe în portul aglomerat, cu maiestuoasa Imperia. Plimbați-vă pe străzile înguste ale orașului vechi către catedrală și primăria istorică. După o pauză culturală la Rosgartenmuseum, drumul duce la Rheintorturm, unde lacul se varsă în Rin.",
+        "en": "Your day starts at the busy harbor with the majestic Imperia. Stroll through the narrow alleys of the old town to the magnificent Minster and the historical town hall. After a cultural break at the Rosgartenmuseum, the path leads to the Rheintorturm, where the lake flows into the Rhine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tolles Haus",
+            "tip": "Probieren Sie die regionalen Dünnele (Fladenbrot)."
+          },
+          {
+            "name": "Hafen Konstanz",
+            "tip": "Frisch gefangener Bodensee-Felchen direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tolles Haus",
+            "tip": "Kóstolja meg a helyi Dünnele-t (lepénykenyér)."
+          },
+          {
+            "name": "Hafen Konstanz",
+            "tip": "Frissen fogott boden-tavi maréna közvetlenül a víznél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tolles Haus",
+            "tip": "Încercați localul Dünnele (turtă coaptă)."
+          },
+          {
+            "name": "Hafen Konstanz",
+            "tip": "Pește Felchen proaspăt prins, chiar lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tolles Haus",
+            "tip": "Try the regional Dünnele (flatbread)."
+          },
+          {
+            "name": "Hafen Konstanz",
+            "tip": "Freshly caught Lake Constance whitefish by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Ruhige Parkanlage direkt am Seeufer.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Münster-Krypta",
+            "tip": "Ein Ort der Stille unter der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Csendes park közvetlenül a tóparton.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Münster-kripta",
+            "tip": "A csend helyszíne a székesegyház alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Parc liniștit chiar pe malul lacului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cripta Münster",
+            "tip": "Un loc de liniște sub catedrală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Quiet park right on the lakeshore.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Minster Crypt",
+            "tip": "A place of silence beneath the cathedral.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hussenstraße",
+            "tip": "Haupteinkaufsstraße mit vielen Boutiquen."
+          },
+          {
+            "name": "LAGO Shopping-Center",
+            "tip": "Großes modernes Center direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hussenstraße",
+            "tip": "Fő bevásárlóutca számos butikkal."
+          },
+          {
+            "name": "LAGO Shopping-Center",
+            "tip": "Nagy, modern központ a pályaudvar mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hussenstraße",
+            "tip": "Strada principală de cumpărături cu multe buticuri."
+          },
+          {
+            "name": "LAGO Shopping-Center",
+            "tip": "Centru modern mare, chiar lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hussenstraße",
+            "tip": "Main shopping street with many boutiques."
+          },
+          {
+            "name": "LAGO Shopping-Center",
+            "tip": "Large modern mall right by the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich ideal zu Fuß erkunden.",
+          "Achten Sie auf die Stolpersteine, die an die jüdische Geschichte erinnern.",
+          "Trinken Sie das Leitungswasser – es kommt direkt aus dem See und ist exzellent.",
+          "Besuchen Sie die Imperia-Statue am besten morgens für das schönste Licht."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, ideális a gyalogos felfedezéshez.",
+          "Figyelje a Stolpersteine-okat (botlatóköveket) a zsidó múlt emlékére.",
+          "Igyon bátran csapvizet – közvetlenül a tóból jön és kiváló minőségű.",
+          "Az Imperia-szobrot érdemes reggel felkeresni a legszebb fények miatt."
+        ],
+        "ro": [
+          "Orașul vechi este foarte compact și ideal de explorat la pas.",
+          "Atenție la Stolpersteine, care amintesc de istoria evreiască.",
+          "Beți apă de la robinet – vine direct din lac și este excelentă.",
+          "Vizitați statuia Imperia dimineața pentru cea mai frumoasă lumină."
+        ],
+        "en": [
+          "The old town is very compact and ideal for exploring on foot.",
+          "Look out for the Stolpersteine (stumbling stones) commemorating Jewish history.",
+          "Drink the tap water – it comes directly from the lake and is excellent.",
+          "Visit the Imperia statue in the morning for the best photo light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Konzilgebäude",
+          "coords": [
+            9.1815,
+            47.6618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour direkt am historischen Hafen.",
+            "hu": "Kezdje a túrát közvetlenül a történelmi kikötőben.",
+            "ro": "Începeți turul chiar în portul istoric.",
+            "en": "Start your tour right at the historical harbor."
+          }
+        },
+        {
+          "name": "Münster Unserer Lieben Frau",
+          "coords": [
+            9.1751,
+            47.6635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt auf dem Münsterplatz vorhanden.",
+            "hu": "Kerékpárparkolók közvetlenül a Münsterplatzon.",
+            "ro": "Parcare pentru biciclete disponibilă chiar în Münsterplatz.",
+            "en": "Bicycle parking available directly on Münsterplatz."
+          }
+        },
+        {
+          "name": "Archäologisches Landesmuseum",
+          "coords": [
+            9.1824,
+            47.6685
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spannende Einblicke in die Pfahlbauten-Geschichte.",
+            "hu": "Izgalmas betekintés a cölöpházak történelmébe.",
+            "ro": "Perspective fascinante asupra istoriei locuințelor pe piloni.",
+            "en": "Exciting insights into the pile dwelling history."
+          }
+        },
+        {
+          "name": "Insel Mainau",
+          "coords": [
+            9.1955,
+            47.7051
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Fahrrad-Highway führt fast direkt bis zum Inseleingang.",
+            "hu": "Kerékpáros 'sztráda' vezet szinte közvetlenül a bejáratig.",
+            "ro": "O pistă de biciclete duce aproape direct la intrarea pe insulă.",
+            "en": "A bike 'highway' leads almost directly to the island entrance."
+          }
+        },
+        {
+          "name": "Seestraße Promenade",
+          "coords": [
+            9.189,
+            47.671
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Die schönste Uferpromenade für den Rückweg.",
+            "hu": "A legszebb tóparti sétány a visszaúthoz.",
+            "ro": "Cea mai frumoasă promenadă de pe mal pentru drumul de întoarcere.",
+            "en": "The most beautiful lakeside promenade for the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie erst das Stadtzentrum, bevor Sie am Rhein entlang zur Insel Mainau radeln. Genießen Sie die Blumenpracht der 'Blumeninsel' und kehren Sie über die elegante Seestraße mit Blick auf die Alpen zurück.",
+        "hu": "Kerékpárral először a városközpontot fedezheti fel, majd a Rajna mentén a Mainau-szigetre kerekezhet. Élvezze a 'virágsziget' színpompáját, majd térjen vissza az elegáns Seestraße-n keresztül, az Alpokra nyíló kilátással.",
+        "ro": "Cu bicicleta, explorați mai întâi centrul orașului înainte de a pedala de-a lungul Rinului către insula Mainau. Bucurați-vă de splendoarea 'insulei florilor' și reveniți prin eleganta Seestraße cu vedere spre Alpi.",
+        "en": "By bike, you first explore the city center before cycling along the Rhine to Mainau Island. Enjoy the floral splendor of the 'Flower Island' and return via the elegant Seestraße with views of the Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mainau Restaurants",
+            "tip": "Essen im Palmenhaus zwischen exotischen Pflanzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mainau éttermek",
+            "tip": "Étkezés a Pálmaházban egzotikus növények között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Mainau",
+            "tip": "Luați masa în Casa Palmierilor printre plante exotice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mainau Restaurants",
+            "tip": "Dine in the Palm House among exotic plants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wollmatinger Ried",
+            "tip": "Naturschutzgebiet am Stadtrand für absolute Ruhe.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wollmatinger Ried",
+            "tip": "Természetvédelmi terület a város szélén a teljes nyugalomért.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wollmatinger Ried",
+            "tip": "Rezervație naturală la marginea orașului pentru liniște deplină.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wollmatinger Ried",
+            "tip": "Nature reserve on the outskirts for absolute peace.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Konstanz ist extrem fahrradfreundlich (Fahrradstraße).",
+          "Mieten Sie E-Bikes für die Strecke zur Mainau bei Wind.",
+          "Nutzen Sie die Fahrradfähre nach Meersburg für eine Erweiterung.",
+          "Schließen Sie Ihr Rad auf der Mainau immer ab."
+        ],
+        "hu": [
+          "Konstanz rendkívül kerékpárosbarát város.",
+          "Szél esetén béreljen e-bike-ot a Mainau-szigethez vezető útra.",
+          "Használja a kerékpáros kompot Meersburg felé a túra bővítéséhez.",
+          "A Mainau-szigeten mindig zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Konstanz este extrem de prietenos cu bicicletele.",
+          "Închiriați biciclete electrice pentru traseul spre Mainau dacă bate vântul.",
+          "Folosiți feribotul pentru biciclete către Meersburg pentru o extensie.",
+          "Încuiați-vă întotdeauna bicicleta pe insula Mainau."
+        ],
+        "en": [
+          "Konstanz is extremely bicycle-friendly (bike streets).",
+          "Rent e-bikes for the stretch to Mainau if it's windy.",
+          "Use the bike ferry to Meersburg for an extended tour.",
+          "Always lock your bike on Mainau island."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Parkhaus Altstadt",
+          "coords": [
+            9.177,
+            47.66
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentralster Parkplatz für den Altstadt-Cluster.",
+            "hu": "A legközpontibb parkoló az óvárosi részhez.",
+            "ro": "Cea mai centrală parcare pentru clusterul orașului vechi.",
+            "en": "Most central parking for the old town cluster."
+          }
+        },
+        {
+          "name": "Münster Unserer Lieben Frau",
+          "coords": [
+            9.1751,
+            47.6635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Parkhaus in 5 Minuten zu Fuß erreichbar.",
+            "hu": "A parkolóból 5 perc gyaloglással elérhető.",
+            "ro": "Accesibil în 5 minute pe jos din parcare.",
+            "en": "Accessible in 5 minutes on foot from the parking."
+          }
+        },
+        {
+          "name": "Imperia-Statue",
+          "coords": [
+            9.1817,
+            47.6622
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang durch die Unterführung zum Hafen.",
+            "hu": "Rövid séta az aluljárón keresztül a kikötőbe.",
+            "ro": "Scurtă plimbare prin pasajul subteran către port.",
+            "en": "Short walk through the underpass to the harbor."
+          }
+        },
+        {
+          "name": "Insel Mainau",
+          "coords": [
+            9.1955,
+            47.7051
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz direkt vor der Brücke.",
+            "hu": "Nagy látogatói parkoló közvetlenül a híd előtt.",
+            "ro": "Parcare mare pentru vizitatori chiar înainte de pod.",
+            "en": "Large visitor parking right before the bridge."
+          }
+        },
+        {
+          "name": "Rheintorturm",
+          "coords": [
+            9.1784,
+            47.6672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückreise am Stadteingang.",
+            "hu": "Utolsó megálló a városbejáratnál a hazaút előtt.",
+            "ro": "Ultima oprire la intrarea în oraș înainte de întoarcere.",
+            "en": "Last stop at the city entrance before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des PKWs kombinieren Sie den historischen Kern von Konstanz mit der weitläufigen Insel Mainau. Nach dem Altstadt-Spaziergang fahren Sie bequem zum Blumenparadies und beenden den Tag am markanten Rheintorturm.",
+        "hu": "Az autónak köszönhetően kombinálhatja Konstanz történelmi magját a tágas Mainau-szigettel. Az óvárosi séta után kényelmesen autózhat a virágparadicsomba, majd a napot a jellegzetes Rheintorturmnál zárhatja.",
+        "ro": "Datorită mașinii, combinați nucleul istoric al orașului Konstanz cu vasta insulă Mainau. După plimbarea în orașul vechi, conduceți confortabel către paradisul florilor și încheiați ziua la distinctivul Rheintorturm.",
+        "en": "Thanks to the car, you combine the historical core of Constance with the sprawling Mainau Island. After the old town walk, drive comfortably to the floral paradise and end the day at the prominent Rheintorturm."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist teuer, nutzen Sie P+R Parkplätze am Rand.",
+          "Die Insel Mainau hat eine eigene Parkgebühr.",
+          "Vermeiden Sie die Stoßzeiten auf der Rheinbrücke.",
+          "Das Parkleitsystem in Konstanz ist sehr präzise."
+        ],
+        "hu": [
+          "Az óvárosi parkolás drága, használja a széleken lévő P+R parkolókat.",
+          "A Mainau-szigetnek saját parkolási díja van.",
+          "Kerülje a csúcsidőt a Rajna-hídon.",
+          "Konstanz parkolási információs rendszere nagyon pontos."
+        ],
+        "ro": [
+          "Parcarea în orașul vechi este scumpă, folosiți parcările P+R de la margine.",
+          "Insula Mainau are propria taxă de parcare.",
+          "Evitați orele de vârf pe podul peste Rin.",
+          "Sistemul de ghidare a parcării din Konstanz este foarte precis."
+        ],
+        "en": [
+          "Parking in the old town is expensive, use P+R lots on the outskirts.",
+          "Mainau Island has its own parking fee.",
+          "Avoid rush hours on the Rhine bridge.",
+          "The parking guidance system in Constance is very accurate."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Konzilgebäude",
+          "coords": [
+            9.1815,
+            47.6618
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Direkt am Bahnhof Konstanz (Zentraler Knotenpunkt).",
+            "hu": "Közvetlenül a konstanzi pályaudvarnál (központi csomópont).",
+            "ro": "Chiar lângă gara Konstanz (nod central).",
+            "en": "Right by Constance station (central hub)."
+          }
+        },
+        {
+          "name": "Münster Unserer Lieben Frau",
+          "coords": [
+            9.1751,
+            47.6635
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß durch die historische Hussenstraße erreichbar.",
+            "hu": "Gyalogosan a történelmi Hussenstraße-n keresztül elérhető.",
+            "ro": "Accesibil pe jos prin istorica Hussenstraße.",
+            "en": "Accessible on foot through the historical Hussenstraße."
+          }
+        },
+        {
+          "name": "Insel Mainau",
+          "coords": [
+            9.1955,
+            47.7051
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Buslinie 4 fährt alle 15 Minuten direkt zum Eingang.",
+            "hu": "A 4-es busz 15 percenként jár közvetlenül a bejárathoz.",
+            "ro": "Linia de autobuz 4 circulă la fiecare 15 minute direct la intrare.",
+            "en": "Bus line 4 runs every 15 minutes directly to the entrance."
+          }
+        },
+        {
+          "name": "Archäologisches Landesmuseum",
+          "coords": [
+            9.1824,
+            47.6685
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Sternenplatz' liegt nur 5 Min. entfernt.",
+            "hu": "A 'Sternenplatz' megálló mindössze 5 percre található.",
+            "ro": "Stația 'Sternenplatz' este la doar 5 minute distanță.",
+            "en": "The 'Sternenplatz' stop is only 5 minutes away."
+          }
+        },
+        {
+          "name": "Rosgartenmuseum",
+          "coords": [
+            9.1755,
+            47.661
+          ],
+          "category": "museums",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Búcsú-stopp a pályaudvar közelében.",
+            "hu": "Búcsú-stop a pályaudvar közelében.",
+            "ro": "Oprire de adio lângă gară.",
+            "en": "Farewell stop near the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den hervorragenden Stadtbus, um mühelos zwischen der Altstadt und der Insel Mainau zu wechseln. Der Bahnhof dient als idealer Ankerpunkt für Ihre Entdeckungsreise durch Geschichte und Natur.",
+        "hu": "Használja a kiváló városi buszhálózatot a kényelmes közlekedéshez az óváros és a Mainau-sziget között. A pályaudvar ideális kiindulópont a történelem és a természet felfedezéséhez.",
+        "ro": "Folosiți excelenta rețea de autobuze urbane pentru a vă deplasa fără efort între orașul vechi și insula Mainau. Gara servește ca punct de ancorare ideal pentru călătoria dvs. de descoperire a istoriei și naturii.",
+        "en": "Use the excellent city bus network to move effortlessly between the old town and Mainau Island. The train station serves as the perfect anchor point for your journey through history and nature."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich ein Tagesticket für den Stadtbus (Roter Bus).",
+          "Die Gästekarte Konstanz bietet oft kostenlosen ÖPNV.",
+          "Schiffe der Bodensee-Schifffahrt sind eine tolle Alternative.",
+          "Busse zur Mainau sind in der Saison oft voll, fahren aber häufig."
+        ],
+        "hu": [
+          "Váltson napijegyet a városi buszra (vörös busz).",
+          "A Konstanz vendégkártya gyakran ingyenes tömegközlekedést biztosít.",
+          "A boden-tavi hajójáratok remek alternatívát jelentenek.",
+          "A Mainau felé tartó buszok szezonban gyakran telítettek, de sűrűn járnak."
+        ],
+        "ro": [
+          "Luați un bilet de o zi pentru autobuzul urban (autobuzul roșu).",
+          "Cardul de oaspete Konstanz oferă adesea transport public gratuit.",
+          "Navele de pe Lacul Constanța sunt o alternativă excelentă.",
+          "Autobuzele către Mainau sunt adesea pline în sezon, dar circulă frecvent."
+        ],
+        "en": [
+          "Get a day ticket for the city bus (Red Bus).",
+          "The Constance Guest Card often provides free public transport.",
+          "Lake Constance ferries are a great alternative way to travel.",
+          "Buses to Mainau are often crowded in season but run frequently."
+        ]
+      }
+    }
+  }
+}

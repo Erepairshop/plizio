@@ -1,0 +1,1204 @@
+{
+  "city_id": "italy-modena-cities-v2",
+  "anchor": {
+    "name": "Modena",
+    "coords": [
+      10.9252,
+      44.6471
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            10.9257,
+            44.6446
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit dem charakteristischen rosa Marmor.",
+            "hu": "UNESCO világörökségi helyszín jellegzetes rózsaszín márvánnyal.",
+            "ro": "Patrimoniu UNESCO cu marmură roz caracteristică.",
+            "en": "UNESCO World Heritage site featuring characteristic pink marble."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Modena",
+            "hu": "Modenai dóm",
+            "ro": "Domul din Modena",
+            "en": "Modena Cathedral"
+          },
+          "coords": [
+            10.9255,
+            44.6447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Reliefs von Wiligelmo an der Fassade.",
+            "hu": "Csodálja meg Wiligelmo román kori domborműveit a homlokzaton.",
+            "ro": "Admirați reliefurile romanice ale lui Wiligelmo de pe fațadă.",
+            "en": "Admire Wiligelmo's Romanesque reliefs on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ghirlandina",
+            "hu": "Ghirlandina-torony",
+            "ro": "Torre Ghirlandina",
+            "en": "Ghirlandina Tower"
+          },
+          "coords": [
+            10.926,
+            44.6449
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf für den besten Blick über die Dächer der Emilia.",
+            "hu": "Másszon fel a legjobb kilátásért Emilia tetői felett.",
+            "ro": "Urcați pentru cea mai bună vedere asupra acoperișurilor din Emilia.",
+            "en": "Climb up for the best view over the rooftops of Emilia."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercato Albinelli",
+            "hu": "Albinelli piac",
+            "ro": "Piața Albinelli",
+            "en": "Albinelli Market"
+          },
+          "coords": [
+            10.9259,
+            44.6433
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Tortellini oder Balsamico-Essig direkt am Stand.",
+            "hu": "Kóstoljon friss tortellinit vagy balzsamecetet közvetlenül az árusoknál.",
+            "ro": "Gustați tortellini proaspeți sau oțet balsamic direct de la tarabe.",
+            "en": "Taste fresh tortellini or balsamic vinegar directly at the stands."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            10.9288,
+            44.6481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Heute Sitz der Militärakademie, ein Meisterwerk des Barock.",
+            "hu": "Ma Katonai Akadémia, a barokk építészet remekműve.",
+            "ro": "Astăzi sediul Academiei Militare, o capodoperă a barocului.",
+            "en": "Now the Military Academy, a masterpiece of Baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Estense",
+            "hu": "Estense Galéria",
+            "ro": "Galeria Estense",
+            "en": "Estense Gallery"
+          },
+          "coords": [
+            10.9213,
+            44.6482
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunstsammlung der Herzöge von Este.",
+            "hu": "Fedezze fel az Este hercegek lenyűgöző művészeti gyűjteményét.",
+            "ro": "Descoperiți colecția de artă a ducilor de Este.",
+            "en": "Discover the art collection of the Dukes of Este."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari Múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6517
+          ],
+          "category": "museums",
+          "arrive_at": "17:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Autoliebhaber in einem futuristischen gelben Gebäude.",
+            "hu": "Autórajongóknak kötelező a futurisztikus sárga épületben.",
+            "ro": "Obligatoriu pentru iubitorii de mașini într-o clădire galbenă futuristă.",
+            "en": "A must for car lovers in a futuristic yellow building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie in das UNESCO-Zentrum von Modena ein, beginn mit der Piazza Grande und dem Dom. Mittags genießen Sie die Atmosphäre des Albinelli-Marktes und steigen auf die Ghirlandina. Der Nachmittag gehört der herzoglichen Pracht im Palazzo Ducale und der Kunst. Den Tag lassen Sie im Zeichen des Cavallino Rampante im Ferrari-Museum ausklingen.",
+        "hu": "A reggelt Modena UNESCO-listás központjában töltjük, a Piazza Grandén és a dómban. Délben az Albinelli piac hangulata és a Ghirlandina torony vár. A délután a hercegi pompa és a művészet jegyében telik az Estense Galériában. A napot a sebesség templomában, az Enzo Ferrari Múzeumban zárjuk egy búcsú-bufferrel.",
+        "ro": "Dimineața vă cufundați în centrul UNESCO din Modena, începând cu Piazza Grande și Domul. La prânz vă bucurați de atmosfera pieței Albinelli și urcați în Ghirlandina. După-amiaza aparține splendorii ducale de la Palazzo Ducale și artei. Încheiați ziua sub semnul căluțului cabrat la Muzeul Ferrari.",
+        "en": "In the morning, immerse yourself in Modena's UNESCO center, starting with Piazza Grande and the Cathedral. At midday, enjoy the Albinelli market's atmosphere and climb the Ghirlandina. The afternoon is dedicated to ducal splendor at Palazzo Ducale and fine art. End the day at the temple of speed, the Enzo Ferrari Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Aldina",
+            "tip": "Probieren Sie die authentischen Tortellini in Brodo."
+          },
+          {
+            "name": "Hosteria Giusti",
+            "tip": "Exklusives Mittagessen hinter einem historischen Feinkostladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Aldina",
+            "tip": "Kóstolja meg az autentikus húsleveses tortellinit."
+          },
+          {
+            "name": "Osteria Ermes",
+            "tip": "Hagyományos gnocco fritto és tigelle egy helyi legendánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Aldina",
+            "tip": "Încercați autenticii tortellini in brodo."
+          },
+          {
+            "name": "Caffè dell'Orologio",
+            "tip": "Perfect pentru un aperitiv cu Lambrusco local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Aldina",
+            "tip": "Try the authentic tortellini in brodo (broth)."
+          },
+          {
+            "name": "Mercato Albinelli",
+            "tip": "Great for a quick gourmet lunch with local balsamic vinegar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Ducale Estense",
+            "tip": "Grüne Oase für eine Pause im Schatten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "Ein ruhiger Kreuzgang abseits der Massen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Ducale Estense",
+            "tip": "Zöld oázis egy árnyas pihenőhöz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Szent Ferenc kolostor",
+            "tip": "Csendes kerengő a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Ducale Estense",
+            "tip": "Oază verde pentru o pauză la umbră.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Largo San Giorgio",
+            "tip": "Piațetă liniștită seara.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Ducale Estense",
+            "tip": "Green oasis for a shaded break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Chiostro di San Francesco",
+            "tip": "A quiet cloister away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Giuseppe Giusti",
+            "tip": "Der älteste Hersteller von Balsamico-Essig der Welt."
+          },
+          {
+            "name": "Via Emilia",
+            "tip": "Die Haupteinkaufsstraße mit eleganten Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giuseppe Giusti",
+            "tip": "A világ legrégebbi balzsamecet-készítője."
+          },
+          {
+            "name": "Via Emilia",
+            "tip": "A fő bevásárlóutca elegáns üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giuseppe Giusti",
+            "tip": "Cel mai vechi producător de oțet balsamic din lume."
+          },
+          {
+            "name": "Via Emilia",
+            "tip": "Strada principală de cumpărături cu buticuri elegante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Giuseppe Giusti",
+            "tip": "The world's oldest producer of balsamic vinegar."
+          },
+          {
+            "name": "Via Emilia",
+            "tip": "The main shopping street with elegant boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Modena ist flach und kompakt, ideal zu Fuß erkundbar.",
+          "Buchen Sie den Aufstieg zur Ghirlandina im Voraus, da die Plätze begrenzt sind.",
+          "Der Albinelli-Markt schließt meist gegen 14:30 Uhr.",
+          "Probieren Sie unbedingt den Lambrusco di Sorbara."
+        ],
+        "hu": [
+          "Modena lapos és kompakt, tökéletesen bejárható gyalog.",
+          "Foglaljon előre a Ghirlandina toronyba, mert limitált a létszám.",
+          "Az Albinelli piac általában 14:30 körül bezár.",
+          "Ne hagyja ki a helyi Lambrusco gyöngyözőbort."
+        ],
+        "ro": [
+          "Modena este plată și compactă, ideală pentru explorat la pas.",
+          "Rezervați urcarea în Ghirlandina în avans, locurile sunt limitate.",
+          "Piața Albinelli se închide de obicei în jurul orei 14:30.",
+          "Nu ratați vinul spumant local Lambrusco."
+        ],
+        "en": [
+          "Modena is flat and compact, perfect for exploring on foot.",
+          "Book the Ghirlandina tower climb in advance as slots are limited.",
+          "Albinelli Market usually closes around 2:30 PM.",
+          "Don't miss a tasting of traditional balsamic vinegar (DOP)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Grande",
+            "hu": "Piazza Grande",
+            "ro": "Piazza Grande",
+            "en": "Piazza Grande"
+          },
+          "coords": [
+            10.9257,
+            44.6446
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt, idealer Startpunkt.",
+            "hu": "Központi találkozóhely, ideális kezdőpont.",
+            "ro": "Punct de întâlnire central, start ideal.",
+            "en": "Central meeting point, ideal start."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Modena",
+            "hu": "Modenai dóm",
+            "ro": "Domul din Modena",
+            "en": "Modena Cathedral"
+          },
+          "coords": [
+            10.9255,
+            44.6447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe.",
+            "hu": "Világörökségi helyszín.",
+            "ro": "Patrimoniu UNESCO.",
+            "en": "UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Szent Ferenc-templom",
+            "ro": "Biserica San Francesco",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            10.9225,
+            44.6425
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wunderschönes Terrakotta-Ensemble im Inneren.",
+            "hu": "Gyönyörű terrakotta szoborcsoport belül.",
+            "ro": "Grup statuar superb din teracotă în interior.",
+            "en": "Beautiful terracotta group inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercato Albinelli",
+            "hu": "Albinelli piac",
+            "ro": "Piața Albinelli",
+            "en": "Albinelli Market"
+          },
+          "coords": [
+            10.9259,
+            44.6433
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich Snacks für ein Picknick.",
+            "hu": "Vegyen harapnivalót egy piknikhez.",
+            "ro": "Luați gustări pentru un picnic.",
+            "en": "Get snacks for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Ducale Estense",
+            "hu": "Hercegi park",
+            "ro": "Parcul Ducal",
+            "en": "Ducal Park"
+          },
+          "coords": [
+            10.9315,
+            44.6495
+          ],
+          "category": "forest",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt zum Radfahren auf den breiten Wegen.",
+            "hu": "Tökéletes kerékpározáshoz a széles utakon.",
+            "ro": "Perfect pentru ciclism pe aleile largi.",
+            "en": "Perfect for cycling on wide paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            10.9288,
+            44.6481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp an der Barockfassade.",
+            "hu": "Gyors fotómegálló a barokk homlokzatnál.",
+            "ro": "Scurt popas foto la fațada barocă.",
+            "en": "Quick photo stop at the Baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Estense",
+            "hu": "Estense Galéria",
+            "ro": "Galeria Estense",
+            "en": "Estense Gallery"
+          },
+          "coords": [
+            10.9213,
+            44.6482
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kulturelle Pause.",
+            "hu": "Kulturális pihenő.",
+            "ro": "Pauză culturală.",
+            "en": "Cultural break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari Múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6517
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abschluss bei den schnellen Autos.",
+            "hu": "Zárás a gyors autóknál.",
+            "ro": "Final printre mașini rapide.",
+            "en": "Finish among fast cars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Modena auf zwei Rädern. Vom historischen Herzen radeln wir zum ruhigen San Francesco und decken uns auf dem Markt mit Leckereien ein. Nach einer entspannten Runde durch den herzoglichen Park besuchen wir den Palazzo Ducale und die Estense Galerie, bevor wir zum Ferrari-Museum sprinten.",
+        "hu": "Fedezze fel Modenát két keréken. A történelmi magból a csendes Szent Ferenc-templomhoz tekerünk, majd a piacon bevásárolunk. A hercegi parkban tett kör után érintjük a palotát és a galériát, végül pedig elgurulunk a Ferrari múzeumig.",
+        "ro": "Descoperiți Modena pe două roți. Din inima istorică pedalăm spre liniștita San Francesco și ne aprovizionăm din piață. După o tură relaxantă prin parcul ducal, vizităm Palazzo Ducale și galeria Estense, înainte de a sprinta spre muzeul Ferrari.",
+        "en": "Explore Modena on two wheels. From the historic heart, cycle to the quiet San Francesco and stock up on treats at the market. After a relaxed lap through the Ducal Park, visit the Palazzo Ducale and the Estense Gallery before sprinting to the Ferrari Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bicicletta Caffè",
+            "tip": "Fahrradfreundliches Café für einen Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicicletta Caffè",
+            "tip": "Kerékpárosbarát kávézó egy gyors eszpresszóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bicicletta Caffè",
+            "tip": "Cafenea prietenoasă cu bicicliștii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicicletta Caffè",
+            "tip": "Bike-friendly café for an espresso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale delle Rimembranze",
+            "tip": "Schattige Allee rund um das Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale delle Rimembranze",
+            "tip": "Árnyas körút a központ körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale delle Rimembranze",
+            "tip": "Bulevard umbrit în jurul centrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale delle Rimembranze",
+            "tip": "Shady boulevard around the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Albinelli",
+            "tip": "Ideal für Proviant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albinelli piac",
+            "tip": "Ideális útravalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Albinelli",
+            "tip": "Ideal pentru provizii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Albinelli Market",
+            "tip": "Ideal for supplies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Modena ist eine der fahrradfreundlichsten Städte Italiens.",
+          "Nutzen Sie das 'C'entro in Bici' Leihsystem.",
+          "Achten Sie auf Kopfsteinpflaster in der Altstadt.",
+          "Schließen Sie Ihr Rad immer gut ab."
+        ],
+        "hu": [
+          "Modena Olaszország egyik leginkább kerékpárosbarát városa.",
+          "Használja a 'C'entro in Bici' bérlőrendszert.",
+          "Vigyázzon a macskakövekre az óvárosban.",
+          "Mindig jól zárja le a kerékpárt."
+        ],
+        "ro": [
+          "Modena este unul dintre cele mai prietenoase orașe pentru biciclete din Italia.",
+          "Folosiți sistemul de închirieri 'C'entro in Bici'.",
+          "Atenție la pavajul cu piatră cubică din centrul vechi.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Modena is one of Italy's most bike-friendly cities.",
+          "Use the 'C'entro in Bici' bike-sharing system.",
+          "Watch out for cobblestones in the old town.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Grande (Cluster Zentrum)",
+            "hu": "Piazza Grande (Központi klaszter)",
+            "ro": "Piazza Grande (Cluster Centru)",
+            "en": "Piazza Grande (Center Cluster)"
+          },
+          "coords": [
+            10.9257,
+            44.6446
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande der ZTL-Zone.",
+            "hu": "Parkoljon a ZTL zóna határán.",
+            "ro": "Parcați la marginea zonei ZTL.",
+            "en": "Park at the edge of the ZTL zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo & Ghirlandina",
+            "hu": "Dóm és Ghirlandina",
+            "ro": "Domul și Ghirlandina",
+            "en": "Cathedral & Ghirlandina"
+          },
+          "coords": [
+            10.9255,
+            44.6447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercato Albinelli",
+            "hu": "Albinelli piac",
+            "ro": "Piața Albinelli",
+            "en": "Albinelli Market"
+          },
+          "coords": [
+            10.9259,
+            44.6433
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für einen schnellen Lunch.",
+            "hu": "Tökéletes egy gyors ebédhez.",
+            "ro": "Perfect pentru un prânz rapid.",
+            "en": "Perfect for a quick lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale (Cluster 2)",
+            "hu": "Hercegi palota (2. klaszter)",
+            "ro": "Palatul Ducal (Cluster 2)",
+            "en": "Ducal Palace (Cluster 2)"
+          },
+          "coords": [
+            10.9288,
+            44.6481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Barockarchitektur.",
+            "hu": "Lenyűgöző barokk építészet.",
+            "ro": "Arhitectură barocă impresionantă.",
+            "en": "Impressive Baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Estense",
+            "hu": "Estense Galéria",
+            "ro": "Galeria Estense",
+            "en": "Estense Gallery"
+          },
+          "coords": [
+            10.9213,
+            44.6482
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Herausragende Kunstsammlung.",
+            "hu": "Kiemelkedő művészeti gyűjtemény.",
+            "ro": "Colecție de artă remarcabilă.",
+            "en": "Outstanding art collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari Múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6517
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Museumsparkplatz.",
+            "hu": "Rövid autóút a múzeumi parkolóhoz.",
+            "ro": "Scurtă călătorie până la parcarea muzeului.",
+            "en": "Short drive to the museum parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Acetaia Traditionale (Ausflug)",
+            "hu": "Hagyományos Balzsamecet üzem",
+            "ro": "Acetaia Tradițională (Excursie)",
+            "en": "Traditional Acetaia (Excursion)"
+          },
+          "coords": [
+            10.965,
+            44.635
+          ],
+          "category": "agriculture",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine Essigmanufaktur vor den Toren der Stadt.",
+            "hu": "Látogasson el egy ecetüzembe a város kapujában.",
+            "ro": "Vizitați o fabrică de oțet la porțile orașului.",
+            "en": "Visit a vinegar producer at the city gates."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Facetten Modenas. Zuerst erkunden wir das Zentrum zu Fuß (UNESCO-Cluster), dann fahren wir zum Palazzo Ducale. Der Nachmittag steht im Zeichen der Kunst und Ferraris, bevor wir den Tag bei einem traditionellen Balsamico-Produzenten etwas außerhalb abschließen.",
+        "hu": "Autóval kényelmesen elérheti Modena különböző arcait. Előbb a központot fedezzük fel gyalog (UNESCO-klaszter), majd átgurulunk a hercegi palotához. A délután a művészeté és a Ferrarié, végül pedig egy városon kívüli tradicionális balzsamecet-készítőt látogatunk meg.",
+        "ro": "Cu mașina ajungeți ușor la diferitele fațete ale Modenei. Mai întâi explorăm centrul pe jos (clusterul UNESCO), apoi conducem spre Palazzo Ducale. După-amiaza este dedicată artei și lui Ferrari, înainte de a încheia ziua la un producător tradițional de oțet balsamic.",
+        "en": "By car, you can comfortably reach Modena's different facets. First, explore the center on foot (UNESCO cluster), then drive to the Ducal Palace. The afternoon is dedicated to art and Ferrari, before ending the day at a traditional balsamic vinegar producer just outside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Antica Moka",
+            "tip": "Gehobene Küche etwas außerhalb des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antica Moka",
+            "tip": "Kiváló konyha kicsivel a központon kívül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antica Moka",
+            "tip": "Bucătărie rafinată puțin în afara centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antica Moka",
+            "tip": "Fine dining slightly outside the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Castelvetro",
+            "tip": "Kurze Fahrt in die Weinberge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castelvetro dombjai",
+            "tip": "Rövid autóút a szőlőültetvényekhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile din Castelvetro",
+            "tip": "Scurtă călătorie spre podgorii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hills of Castelvetro",
+            "tip": "Short drive to the vineyards.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Acetaia di Giorgio",
+            "tip": "Direktkauf von edlem Balsamico."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acetaia di Giorgio",
+            "tip": "Vásároljon nemes balzsamecetet közvetlenül a készítőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Acetaia di Giorgio",
+            "tip": "Cumpărați oțet balsamic direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Acetaia di Giorgio",
+            "tip": "Buy fine balsamic vinegar directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie niemals in die ZTL (begrenzter Verkehr) Zone.",
+          "Nutzen Sie den großen Parkplatz 'Parcheggio Novi Park'.",
+          "Kombinieren Sie Modena mit dem Ferrari-Werk in Maranello (20 Min Fahrt).",
+          "Achten Sie auf Parkautomaten."
+        ],
+        "hu": [
+          "Soha ne hajtson be a ZTL (korlátozott forgalom) zónába.",
+          "Használja a nagy 'Parcheggio Novi Park' mélygarázst.",
+          "Kombinálja Modenát a maranellói Ferrari-gyárral (20 perc út).",
+          "Figyeljen a parkolóautomatákra."
+        ],
+        "ro": [
+          "Nu intrați niciodată în zona ZTL (trafic limitat).",
+          "Folosiți parcarea mare 'Parcheggio Novi Park'.",
+          "Combinați Modena cu fabrica Ferrari din Maranello (20 min condus).",
+          "Atenție la automatele de parcare."
+        ],
+        "en": [
+          "Never drive into the ZTL (limited traffic) zone.",
+          "Use the large 'Parcheggio Novi Park' underground parking.",
+          "Combine Modena with the Ferrari factory in Maranello (20 min drive).",
+          "Check parking meter instructions carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Modena Stazione (Start)",
+            "hu": "Modenai vasútállomás",
+            "ro": "Gara Modena",
+            "en": "Modena Station"
+          },
+          "coords": [
+            10.931,
+            44.654
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Zug oder Bus.",
+            "hu": "Érkezés vonattal vagy busszal.",
+            "ro": "Sosire cu trenul sau autobuzul.",
+            "en": "Arrival by train or bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Grande & Duomo",
+            "hu": "Piazza Grande és Dóm",
+            "ro": "Piazza Grande și Domul",
+            "en": "Piazza Grande & Cathedral"
+          },
+          "coords": [
+            10.9257,
+            44.6446
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 7 oder 11 zum Zentrum.",
+            "hu": "7-es vagy 11-es busz a központba.",
+            "ro": "Linia de autobuz 7 sau 11 spre centru.",
+            "en": "Bus line 7 or 11 to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercato Albinelli",
+            "hu": "Albinelli piac",
+            "ro": "Piața Albinelli",
+            "en": "Albinelli Market"
+          },
+          "coords": [
+            10.9259,
+            44.6433
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußläufig vom Dom erreichbar.",
+            "hu": "Gyalogosan elérhető a dómtól.",
+            "ro": "Accesibil pe jos de la Dom.",
+            "en": "Accessible on foot from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Estense",
+            "hu": "Estense Galéria",
+            "ro": "Galeria Estense",
+            "en": "Estense Gallery"
+          },
+          "coords": [
+            10.9213,
+            44.6482
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bequem mit dem Shuttlebus.",
+            "hu": "Kényelmesen a transzferbusszal.",
+            "ro": "Convenabil cu autobuzul de transfer.",
+            "en": "Conveniently via shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ducale",
+            "hu": "Hercegi palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            10.9288,
+            44.6481
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Via Emilia.",
+            "hu": "Séta a Via Emilián.",
+            "ro": "Plimbare pe Via Emilia.",
+            "en": "Walk through Via Emilia."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Enzo Ferrari",
+            "hu": "Enzo Ferrari Múzeum",
+            "ro": "Muzeul Enzo Ferrari",
+            "en": "Enzo Ferrari Museum"
+          },
+          "coords": [
+            10.9365,
+            44.6517
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nahe dem Bahnhof gelegen.",
+            "hu": "A vasútállomás közelében.",
+            "ro": "Situat lângă gară.",
+            "en": "Located near the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem Modenas. Vom Bahnhof geht es direkt ins UNESCO-Herz. Nach dem Marktbesuch und der Galleria Estense spazieren wir zum herrschaftlichen Palazzo Ducale. Das Finale findet im Ferrari-Museum statt, das strategisch günstig am Bahnhof für Ihre Rückreise liegt.",
+        "hu": "Használja Modena hatékony buszhálózatát. A vasútállomástól egyenesen az UNESCO világörökségi szívébe utazunk. A piaci látogatás és a galéria után a hercegi palotához sétálunk. A nap végén a Ferrari múzeum vár, amely kényelmesen közel van az állomáshoz a hazautazáshoz.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Modena. De la gară mergem direct în inima UNESCO. După piață și Galeria Estense, ne plimbăm spre impunătorul Palazzo Ducale. Finalul are loc la muzeul Ferrari, situat strategic lângă gară pentru plecare.",
+        "en": "Use Modena's efficient bus network. From the train station, head straight to the UNESCO heart. After the market and Estense Gallery, walk to the grand Ducal Palace. The finale takes place at the Ferrari Museum, strategically located near the station for your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè Menomoka",
+            "tip": "Guter Kaffee nahe dem Busknotenpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè Menomoka",
+            "tip": "Kiváló kávé a buszos csomópont közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè Menomoka",
+            "tip": "Cafea bună lângă nodul de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè Menomoka",
+            "tip": "Great coffee near the bus hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Largo San Francesco",
+            "tip": "Ruhiger Platz zum Warten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Largo San Francesco",
+            "tip": "Csendes tér várakozáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Largo San Francesco",
+            "tip": "Piațetă liniștită pentru așteptat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Largo San Francesco",
+            "tip": "Quiet square for waiting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eataly Modena",
+            "tip": "Lokale Produkte an der Autobahnausfahrt/Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eataly Modena",
+            "tip": "Helyi termékek válogatása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eataly Modena",
+            "tip": "Selecție de produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eataly Modena",
+            "tip": "Selection of local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Tabakladen oder via App.",
+          "Die Linien 7 und 11 verbinden den Bahnhof mit dem Zentrum.",
+          "Shuttlebusse zum Ferrari-Museum in Maranello starten am Bahnhof.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Vegyen jegyet dohányboltban vagy applikáción keresztül.",
+          "A 7-es és 11-es járatok kötik össze az állomást a központtal.",
+          "A maranellói Ferrari-múzeumhoz induló buszok az állomástól indulnak.",
+          "Érvényesítse jegyét felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcurile de ziare sau prin aplicație.",
+          "Liniile 7 și 11 fac legătura între gară și centru.",
+          "Navetele spre muzeul Ferrari din Maranello pleacă din gară.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Buy tickets at tobacco shops (Tabaccheria) or via app.",
+          "Lines 7 and 11 connect the station to the historic center.",
+          "Shuttle buses to the Maranello Ferrari Museum leave from the station.",
+          "Validate your ticket as soon as you board."
+        ]
+      }
+    }
+  }
+}

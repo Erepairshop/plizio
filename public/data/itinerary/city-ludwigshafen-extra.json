@@ -1,0 +1,1097 @@
+{
+  "city_id": "city-ludwigshafen-extra",
+  "anchor": {
+    "name": "Berliner Platz",
+    "coords": [
+      8.4419,
+      49.4774
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ernst-Bloch-Zentrum",
+            "hu": "Ernst-Bloch Központ",
+            "ro": "Centrul Ernst-Bloch",
+            "en": "Ernst-Bloch-Zentrum"
+          },
+          "coords": [
+            8.4431,
+            49.4792
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das rekonstruierte Arbeitszimmer des Philosophen.",
+            "hu": "Nézze meg a filozófus rekonstruált dolgozószobáját.",
+            "ro": "Vizitați biroul reconstruit al filosofului.",
+            "en": "Visit the reconstructed study of the philosopher."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelm-Hack-Museum",
+            "hu": "Wilhelm-Hack Múzeum",
+            "ro": "Muzeul Wilhelm-Hack",
+            "en": "Wilhelm-Hack-Museum"
+          },
+          "coords": [
+            8.4421,
+            49.4811
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Miró-Wand an der Außenfassade ist ein absolutes Highlight.",
+            "hu": "A külső falon található Miró-mozaik a múzeum jelképe.",
+            "ro": "Peretele Miró de pe fațada exterioară este un punct de atracție.",
+            "en": "The Miró wall on the outer facade is an absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherturm",
+            "hu": "Luther-torony",
+            "ro": "Turnul Luther",
+            "en": "Lutherturm"
+          },
+          "coords": [
+            8.4452,
+            49.4835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Turm ist der Rest einer im Krieg zerstörten Kirche.",
+            "hu": "A torony egy háborúban elpusztult templom maradványa.",
+            "ro": "Turnul este restul unei biserici distruse în război.",
+            "en": "The tower is the remnant of a church destroyed in the war."
+          }
+        },
+        {
+          "name": {
+            "de": "Hemshof",
+            "hu": "Hemshof negyed",
+            "ro": "Cartierul Hemshof",
+            "en": "Hemshof District"
+          },
+          "coords": [
+            8.4385,
+            49.4891
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Probieren Sie hier internationale Spezialitäten in den kleinen Gassen.",
+            "hu": "Kóstoljon nemzetközi ételeket a kis utcák éttermeiben.",
+            "ro": "Încercați specialități internaționale pe străzile mici.",
+            "en": "Try international specialties in the small alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedenskirche",
+            "hu": "Béke-templom",
+            "ro": "Biserica Păcii",
+            "en": "Friedenskirche"
+          },
+          "coords": [
+            8.4361,
+            49.4872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beeindruckender Zentralbau des Klassizismus.",
+            "hu": "A klasszicizmus lenyűgöző centrális építménye.",
+            "ro": "O construcție centrală impresionantă a clasicismului.",
+            "en": "An impressive central building of Classicism."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Galerie",
+            "hu": "Rhein-Galerie",
+            "ro": "Rhein-Galerie",
+            "en": "Rhein-Galerie"
+          },
+          "coords": [
+            8.4485,
+            49.4855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Rhein von der Promenade aus.",
+            "hu": "Élvezze a Rajnára nyíló kilátást a sétányról.",
+            "ro": "Bucurați-vă de vederea spre Rin de pe promenadă.",
+            "en": "Enjoy the view of the Rhine from the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die intellektuelle Seite Ludwigshafens im Bloch-Zentrum und bewundern die Miró-Wand. Mittags tauchen Sie in das multikulturelle Flair des Hemshofs ein. Der Nachmittag gehört der klassischen Architektur und dem modernen Shopping am Rheinufer.",
+        "hu": "Délelőtt Ludwigshafen intellektuális oldalát ismeri meg a Bloch Központban, és megcsodálja a Miró-falat. Ebédidőben a Hemshof multikulturális hangulatában merülhet el. A délután a klasszikus építészeté és a modern vásárlásé a Rajna partján.",
+        "ro": "Dimineața explorați latura intelectuală a orașului Ludwigshafen la Centrul Bloch și admirați peretele Miró. La prânz vă scufundați în atmosfera multiculturală din Hemshof. După-amiaza este dedicată arhitecturii clasice și cumpărăturilor moderne pe malul Rinului.",
+        "en": "In the morning, explore the intellectual side of Ludwigshafen at the Bloch Center and admire the Miró wall. At noon, immerse yourself in the multicultural flair of Hemshof. The afternoon is dedicated to classical architecture and modern shopping on the banks of the Rhine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hemshofstubb",
+            "tip": "Pfälzer Hausmannskost in urigem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hemshofstubb",
+            "tip": "Pfalzi házias ételek autentikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hemshofstubb",
+            "tip": "Mâncare tradițională din Palatinat într-o ambianță rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hemshofstubb",
+            "tip": "Palatine home cooking in a rustic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rheinpromenade",
+            "tip": "Abendspaziergang mit Blick auf Mannheim.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rajna-sétány",
+            "tip": "Esti séta kilátással Mannheimre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Rinului",
+            "tip": "Plimbare de seară cu vedere spre Mannheim.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhine Promenade",
+            "tip": "Evening walk with a view of Mannheim.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Großes Einkaufszentrum direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Hatalmas bevásárlóközpont közvetlenül a víznél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Centru comercial mare direct pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Large shopping mall right by the water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ludwigshafen ist flach und ideal zu Fuß zu erkunden.",
+          "Die Miró-Wand ist am Vormittag am besten beleuchtet."
+        ],
+        "hu": [
+          "Ludwigshafen sík, így gyalogosan is könnyen bejárható.",
+          "A Miró-fal délelőtt kapja a legjobb megvilágítást."
+        ],
+        "ro": [
+          "Ludwigshafen este plat și ideal pentru explorarea pe jos.",
+          "Peretele Miró este cel mai bine iluminat dimineața."
+        ],
+        "en": [
+          "Ludwigshafen is flat and ideal for exploring on foot.",
+          "The Miró wall is best lit in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Südwest-Stadion",
+            "hu": "Südwest-Stadion",
+            "ro": "Südwest-Stadion",
+            "en": "Südwest-Stadion"
+          },
+          "coords": [
+            8.4352,
+            49.4651
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein historisches Stadion, das einst 80.000 Zuschauer fasste.",
+            "hu": "Történelmi stadion, amely egykor 80 000 nézőt fogadott.",
+            "ro": "Un stadion istoric care odinioară avea o capacitate de 80.000 de spectatori.",
+            "en": "A historic stadium that once held 80,000 spectators."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernst-Bloch-Zentrum",
+            "hu": "Ernst-Bloch Központ",
+            "ro": "Centrul Ernst-Bloch",
+            "en": "Ernst-Bloch-Zentrum"
+          },
+          "coords": [
+            8.4431,
+            49.4792
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das 'Prinzip Hoffnung'.",
+            "hu": "Ismerje meg a 'remény elvét'.",
+            "ro": "Aflați mai multe despre 'principiul speranței'.",
+            "en": "Learn more about the 'principle of hope'."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelm-Hack-Museum",
+            "hu": "Wilhelm-Hack Múzeum",
+            "ro": "Muzeul Wilhelm-Hack",
+            "en": "Wilhelm-Hack-Museum"
+          },
+          "coords": [
+            8.4421,
+            49.4811
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einem markanten Industriebau.",
+            "hu": "Modern művészet egy jellegzetes ipari épületben.",
+            "ro": "Artă modernă într-o clădire industrială marcantă.",
+            "en": "Modern art in a striking industrial building."
+          }
+        },
+        {
+          "name": {
+            "de": "Hemshof",
+            "hu": "Hemshof negyed",
+            "ro": "Cartierul Hemshof",
+            "en": "Hemshof District"
+          },
+          "coords": [
+            8.4385,
+            49.4891
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der älteste Stadtteil mit lebendiger Kultur.",
+            "hu": "A legidősebb városrész pezsgő kultúrával.",
+            "ro": "Cel mai vechi cartier cu o cultură vibrantă.",
+            "en": "The oldest district with vibrant culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebertpark",
+            "hu": "Ebertpark",
+            "ro": "Ebertpark",
+            "en": "Ebertpark"
+          },
+          "coords": [
+            8.4151,
+            49.4932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen Rosengarten im Park.",
+            "hu": "Látogassa meg a park gyönyörű rózsakertjét.",
+            "ro": "Vizitați minunata grădină de trandafiri din parc.",
+            "en": "Visit the beautiful rose garden in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherturm",
+            "hu": "Luther-torony",
+            "ro": "Turnul Luther",
+            "en": "Lutherturm"
+          },
+          "coords": [
+            8.4452,
+            49.4835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen inmitten moderner Architektur.",
+            "hu": "Jellegzetes torony a modern épületek között.",
+            "ro": "Un simbol în mijlocul arhitecturii moderne.",
+            "en": "A landmark in the midst of modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Galerie",
+            "hu": "Rhein-Galerie",
+            "ro": "Rhein-Galerie",
+            "en": "Rhein-Galerie"
+          },
+          "coords": [
+            8.4485,
+            49.4855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen Abschluss am Wasser.",
+            "hu": "Tökéletes hely a nap befejezéséhez a víznél.",
+            "ro": "Locul perfect pentru un final pe malul apei.",
+            "en": "Perfect place for a finale by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die weiten Parks und Stadien mit dem kulturellen Kern. Sie starten im Süden, radeln durch das Zentrum zum Ebertpark im Nordwesten und enden schließlich entspannt an der Rheinpromenade.",
+        "hu": "Ez a kerékpártúra összeköti a tágas parkokat és stadionokat a kulturális központtal. Délen kezd, a központon át az északnyugati Ebertparkig teker, végül a Rajna-sétányon pihenhet meg.",
+        "ro": "Acest tur cu bicicleta combină parcurile și stadioanele vaste cu nucleul cultural. Începeți în sud, pedalați prin centru până la Ebertpark în nord-vest și încheiați relaxat pe promenada Rinului.",
+        "en": "This bike tour connects the vast parks and stadiums with the cultural core. You start in the south, cycle through the center to Ebertpark in the northwest, and finally end relaxed on the Rhine promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Turmrestaurant",
+            "tip": "Essen mit Aussicht im Ebertpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turmrestaurant",
+            "tip": "Étkezés kilátással az Ebertparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turmrestaurant",
+            "tip": "Masă cu vedere în Ebertpark."
+          }
+        ],
+        "en": [
+          {
+            "name": "Turmrestaurant",
+            "tip": "Dining with a view in Ebertpark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ebertpark Rosengarten",
+            "tip": "Idyllischer Rückzugsort fernab der Industrie.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ebertpark rózsakert",
+            "tip": "Idilli menedék az ipari zónáktól távol.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ebertpark Rosengarten",
+            "tip": "Refugiu idilic departe de industrie.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ebertpark Rose Garden",
+            "tip": "Idyllic retreat far from the industry.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Ludwigsplatz",
+            "tip": "Frische regionale Produkte kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ludwigsplatz hetipiac",
+            "tip": "Vásároljon friss helyi termékeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Ludwigsplatz",
+            "tip": "Cumpărați produse regionale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ludwigsplatz Weekly Market",
+            "tip": "Buy fresh regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Rheins.",
+          "Ludwigshafen ist sehr fahrradfreundlich durch seine flache Topographie."
+        ],
+        "hu": [
+          "Használja a Rajna menti kerékpárutakat.",
+          "Ludwigshafen sík domborzata miatt nagyon kerékpárosbarát."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete de-a lungul Rinului.",
+          "Ludwigshafen este foarte prietenos cu bicicletele datorită topografiei sale plate."
+        ],
+        "en": [
+          "Use the bike paths along the Rhine.",
+          "Ludwigshafen is very bike-friendly due to its flat topography."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ernst-Bloch-Zentrum",
+            "hu": "Ernst-Bloch Központ",
+            "ro": "Centrul Ernst-Bloch",
+            "en": "Ernst-Bloch-Zentrum"
+          },
+          "coords": [
+            8.4431,
+            49.4792
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Berliner Platz.",
+            "hu": "Parkoljon a Berliner Platz parkolóházában.",
+            "ro": "Parcați în parcarea de la Berliner Platz.",
+            "en": "Park in the parking garage at Berliner Platz."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelm-Hack-Museum",
+            "hu": "Wilhelm-Hack Múzeum",
+            "ro": "Muzeul Wilhelm-Hack",
+            "en": "Wilhelm-Hack-Museum"
+          },
+          "coords": [
+            8.4421,
+            49.4811
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Bloch-Zentrum.",
+            "hu": "Csak rövid séta a Bloch Központtól.",
+            "ro": "Doar o scurtă plimbare de la Centrul Bloch.",
+            "en": "Just a short walk from the Bloch Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedenskirche",
+            "hu": "Béke-templom",
+            "ro": "Biserica Păcii",
+            "en": "Friedenskirche"
+          },
+          "coords": [
+            8.4361,
+            49.4872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Klassizistische Kirche in der Nähe des Hemshofs.",
+            "hu": "Klasszicista templom a Hemshof közelében.",
+            "ro": "Biserică clasicistă în apropiere de Hemshof.",
+            "en": "Classicist church near Hemshof."
+          }
+        },
+        {
+          "name": {
+            "de": "Hemshof",
+            "hu": "Hemshof negyed",
+            "ro": "Cartierul Hemshof",
+            "en": "Hemshof District"
+          },
+          "coords": [
+            8.4385,
+            49.4891
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Stadtteil zu Fuß nach dem Parken.",
+            "hu": "A parkolás után gyalog fedezze fel a negyedet.",
+            "ro": "Explorați cartierul pe jos după parcare.",
+            "en": "Explore the district on foot after parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebertpark",
+            "hu": "Ebertpark",
+            "ro": "Ebertpark",
+            "en": "Ebertpark"
+          },
+          "coords": [
+            8.4151,
+            49.4932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz am Haupteingang.",
+            "hu": "Használja a főbejáratnál lévő nagy parkolót.",
+            "ro": "Utilizați parcarea mare de la intrarea principală.",
+            "en": "Use the large parking lot at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherturm",
+            "hu": "Luther-torony",
+            "ro": "Turnul Luther",
+            "en": "Lutherturm"
+          },
+          "coords": [
+            8.4452,
+            49.4835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am ehemaligen Kirchturm.",
+            "hu": "Rövid megálló az egykori templomtoronynál.",
+            "ro": "Scurtă oprire la fostul turn al bisericii.",
+            "en": "Short stop at the former church tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Galerie",
+            "hu": "Rhein-Galerie",
+            "ro": "Rhein-Galerie",
+            "en": "Rhein-Galerie"
+          },
+          "coords": [
+            8.4485,
+            49.4855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkhaus direkt im Center vorhanden.",
+            "hu": "A központban saját parkolóház található.",
+            "ro": "Parcare disponibilă direct în centru.",
+            "en": "Parking garage available directly in the mall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster der Stadt. Vom kulturellen Zentrum fahren Sie zum Ebertpark im Norden und beenden den Tag an der Rhein-Galerie. Die Route minimiert die Parkplatzsuche durch Nutzung großer Parkhäuser.",
+        "hu": "Autóval kényelmesen elérheti a város különböző részeit. A kulturális központból az északi Ebertparkba utazik, majd a Rhein-Galerie-nél zárja a napot. Az útvonal minimalizálja a parkolóhely-keresést a nagy parkolóházak használatával.",
+        "ro": "Cu mașina ajungeți confortabil în diferitele clustere ale orașului. Din centrul cultural conduceți spre Ebertpark în nord și încheiați ziua la Rhein-Galerie. Ruta minimizează căutarea locurilor de parcare prin utilizarea parcărilor mari.",
+        "en": "By car, you can easily reach the various clusters of the city. From the cultural center, drive to Ebertpark in the north and end the day at Rhein-Galerie. The route minimizes the search for parking by using large parking garages."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maffenbeier",
+            "tip": "Traditionsreiches Gasthaus im Hemshof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maffenbeier",
+            "tip": "Hagyományőrző vendéglő a Hemshof negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maffenbeier",
+            "tip": "Han plin de tradiție în Hemshof."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maffenbeier",
+            "tip": "Traditional inn in the Hemshof district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkinsel",
+            "tip": "Ruhige Oase im Rhein (kurze Fahrt südlich).",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkinsel",
+            "tip": "Csendes oázis a Rajnán (rövid út délre).",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parkinsel",
+            "tip": "Oază de liniște pe Rin (scurtă călătorie spre sud).",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parkinsel",
+            "tip": "Quiet oasis in the Rhine (short drive south).",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Optimale Parkmöglichkeiten für Shopping-Fans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Optimális parkolás a vásárlás szerelmeseinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Posibilități optime de parcare pentru fanii shopping-ului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhein-Galerie",
+            "tip": "Optimal parking for shopping fans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem der Innenstadt.",
+          "Achten Sie auf die Einbahnstraßenregelung im Hemshof."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolásirányító rendszert.",
+          "Figyeljen az egyirányú utcákra a Hemshof negyedben."
+        ],
+        "ro": [
+          "Utilizați sistemul de ghidare pentru parcare din centrul orașului.",
+          "Atenție la regimul de străzi cu sens unic din Hemshof."
+        ],
+        "en": [
+          "Use the city center parking guidance system.",
+          "Watch out for one-way street regulations in Hemshof."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Südwest-Stadion",
+            "hu": "Südwest-Stadion",
+            "ro": "Südwest-Stadion",
+            "en": "Südwest-Stadion"
+          },
+          "coords": [
+            8.4352,
+            49.4651
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erreichbar mit der Straßenbahnlinie 6.",
+            "hu": "A 6-os villamossal érhető el.",
+            "ro": "Accesibil cu linia de tramvai 6.",
+            "en": "Accessible via tram line 6."
+          }
+        },
+        {
+          "name": {
+            "de": "Ernst-Bloch-Zentrum",
+            "hu": "Ernst-Bloch Központ",
+            "ro": "Centrul Ernst-Bloch",
+            "en": "Ernst-Bloch-Zentrum"
+          },
+          "coords": [
+            8.4431,
+            49.4792
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Berliner Platz' nutzen.",
+            "hu": "Használja a központi 'Berliner Platz' megállót.",
+            "ro": "Utilizați stația centrală 'Berliner Platz'.",
+            "en": "Use the central station 'Berliner Platz'."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelm-Hack-Museum",
+            "hu": "Wilhelm-Hack Múzeum",
+            "ro": "Muzeul Wilhelm-Hack",
+            "en": "Wilhelm-Hack-Museum"
+          },
+          "coords": [
+            8.4421,
+            49.4811
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Berliner Platz.",
+            "hu": "Rövid séta a Berliner Platzról.",
+            "ro": "O scurtă plimbare de la Berliner Platz.",
+            "en": "A short walk from Berliner Platz."
+          }
+        },
+        {
+          "name": {
+            "de": "Hemshof",
+            "hu": "Hemshof negyed",
+            "ro": "Cartierul Hemshof",
+            "en": "Hemshof District"
+          },
+          "coords": [
+            8.4385,
+            49.4891
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zur Haltestelle 'Hemshofstraße'.",
+            "hu": "Utazzon a 'Hemshofstraße' megállóig.",
+            "ro": "Mergeți până la stația 'Hemshofstraße'.",
+            "en": "Travel to the 'Hemshofstraße' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebertpark",
+            "hu": "Ebertpark",
+            "ro": "Ebertpark",
+            "en": "Ebertpark"
+          },
+          "coords": [
+            8.4151,
+            49.4932
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Linie 10 bringt Sie direkt zum Parkeingang.",
+            "hu": "A 10-es járat közvetlenül a park bejáratához viszi.",
+            "ro": "Linia 10 vă duce direct la intrarea în parc.",
+            "en": "Line 10 takes you directly to the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherturm",
+            "hu": "Luther-torony",
+            "ro": "Turnul Luther",
+            "en": "Lutherturm"
+          },
+          "coords": [
+            8.4452,
+            49.4835
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Umsteigen am Berliner Platz oder Rathaus.",
+            "hu": "Átszállás a Berliner Platznál vagy a Rathausnál.",
+            "ro": "Schimbați la Berliner Platz sau Rathaus.",
+            "en": "Change at Berliner Platz or Rathaus."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhein-Galerie",
+            "hu": "Rhein-Galerie",
+            "ro": "Rhein-Galerie",
+            "en": "Rhein-Galerie"
+          },
+          "coords": [
+            8.4485,
+            49.4855
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Haltestelle 'Rhein-Galerie' direkt vor der Tür.",
+            "hu": "A 'Rhein-Galerie' megálló közvetlenül az épület előtt van.",
+            "ro": "Stația 'Rhein-Galerie' direct în fața ușii.",
+            "en": "The 'Rhein-Galerie' stop is directly in front."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das gut ausgebaute Straßenbahnnetz der RNV bringt Sie schnell zu allen Sehenswürdigkeiten. Besonders praktisch ist der zentrale Knotenpunkt Berliner Platz, von dem aus Sie sternförmig alle Stadtteile erreichen können.",
+        "hu": "Az RNV jól kiépített villamoshálózata gyorsan elviszi minden látnivalóhoz. Különösen praktikus a központi Berliner Platz csomópont, ahonnan csillagtúraszerűen érheti el a városrészeket.",
+        "ro": "Rețeaua de tramvai bine dezvoltată a RNV vă duce rapid la toate obiectivele. Nodul central Berliner Platz este deosebit de practic, de unde puteți ajunge în toate cartierele în formă de stea.",
+        "en": "The well-developed tram network of the RNV takes you quickly to all the sights. The central hub Berliner Platz is particularly practical, from where you can reach all parts of the city in a star shape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Hack-Museum",
+            "tip": "Moderne Snacks in künstlerischer Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro im Hack-Museum",
+            "tip": "Modern harapnivalók művészi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro im Hack-Museum",
+            "tip": "Gustări moderne într-un mediu artistic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro im Hack-Museum",
+            "tip": "Modern snacks in an artistic environment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedenspark",
+            "tip": "Grüne Oase im Zentrum direkt bei der Kirche.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Béke-park",
+            "tip": "Zöld oázis a központban, közvetlenül a templomnál.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friedenspark",
+            "tip": "Oază verde în centru direct lângă biserică.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Friedenspark",
+            "tip": "Green oasis in the center right by the church.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rathaus-Center",
+            "tip": "Weitere Shopping-Möglichkeit im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rathaus-Center",
+            "tip": "További vásárlási lehetőség a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rathaus-Center",
+            "tip": "O altă posibilitate de shopping în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rathaus-Center",
+            "tip": "Another shopping option in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die RNV-App für Echtzeit-Abfahrten.",
+          "Das 24-Stunden-Ticket lohnt sich ab drei Fahrten."
+        ],
+        "hu": [
+          "Használja az RNV alkalmazást a valós idejű indulásokhoz.",
+          "A 24 órás jegy három utazástól már megéri."
+        ],
+        "ro": [
+          "Utilizați aplicația RNV pentru plecări în timp real.",
+          "Biletul de 24 de ore merită începând cu trei călătorii."
+        ],
+        "en": [
+          "Use the RNV app for real-time departures.",
+          "The 24-hour ticket is worth it starting from three trips."
+        ]
+      }
+    }
+  }
+}

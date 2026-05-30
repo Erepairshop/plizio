@@ -1,0 +1,950 @@
+{
+  "city_id": "france-reims-cities-v2",
+  "anchor": {
+    "name": "Reims",
+    "coords": [
+      4.03,
+      49.26
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Porte de Mars",
+          "coords": [
+            4.03,
+            49.259
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Bewundern Sie den größten römischen Triumphbogen nördlich der Alpen.",
+            "hu": "Csodáld meg az Alpoktól északra fekvő legnagyobb római diadalívet.",
+            "ro": "Admirați cel mai mare arc de triumf roman la nord de Alpi.",
+            "en": "Admire the largest Roman triumphal arch north of the Alps."
+          }
+        },
+        {
+          "name": "Cryptoportique de Reims",
+          "coords": [
+            4.031,
+            49.257
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Gehen Sie unter die Erde, um das antike römische Forum zu entdecken.",
+            "hu": "Ereszkedj a föld alá az ókori római fórum felfedezéséhez.",
+            "ro": "Coborâți sub pământ pentru a descoperi vechiul forum roman.",
+            "en": "Go underground to discover the ancient Roman forum."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame de Reims",
+          "coords": [
+            4.034,
+            49.253
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Suchen Sie den 'Lachelnden Engel' an der Westfassade.",
+            "hu": "Keresd a nyugati homlokzaton a híres 'Mosolygó angyalt'.",
+            "ro": "Căutați 'Îngerul care zâmbește' pe fațada de vest.",
+            "en": "Look for the 'Smiling Angel' on the west facade."
+          }
+        },
+        {
+          "name": "Palais du Tau",
+          "coords": [
+            4.036,
+            49.253
+          ],
+          "category": "museums",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Schatzkammer mit den Krönungsinsignien der Könige.",
+            "hu": "Nézd meg a kincstárban a francia királyok koronázási jelvényeit.",
+            "ro": "Vizitați tezaurul cu însemnele încoronării regilor Franței.",
+            "en": "Visit the treasury containing the coronation regalia of French kings."
+          }
+        },
+        {
+          "name": "Bibliothèque Carnegie",
+          "coords": [
+            4.035,
+            49.252
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein Art-Déco-Juwel, das von Andrew Carnegie gestiftet wurde.",
+            "hu": "Egy Art Deco ékszerdoboz, amelyet Andrew Carnegie adományozott.",
+            "ro": "O bijuterie Art Deco donată de Andrew Carnegie.",
+            "en": "An Art Deco jewel donated by Andrew Carnegie."
+          }
+        },
+        {
+          "name": "Basilique Saint-Remi",
+          "coords": [
+            4.041,
+            49.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser UNESCO-Stätte.",
+            "hu": "Csodáld meg az UNESCO-listás bazilika román stílusú építészetét.",
+            "ro": "Admirați arhitectura romanică a acestui sit UNESCO.",
+            "en": "Admire the Romanesque architecture of this UNESCO site."
+          }
+        },
+        {
+          "name": "Musée Saint-Remi",
+          "coords": [
+            4.042,
+            49.244
+          ],
+          "category": "museums",
+          "arrive_at": "14:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Erfahren Sie mehr über die Geschichte von Reims in einer ehemaligen Abtei.",
+            "hu": "Ismerd meg Reims történelmét ebben az egykori apátságban.",
+            "ro": "Aflați istoria orașului Reims într-o fostă abație.",
+            "en": "Learn about the history of Reims in a former abbey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Vormittag beginnt im antiken Reims an der Porte de Mars, gefolgt von der Erkundung des unterirdischen Cryptoportique. Das Highlight ist die prächtige Kathedrale, der Krönungsort französischer Könige, und der angrenzende Palais du Tau. Nach einem Einblick in die Art-Déco-Pracht der Carnegie-Bibliothek spazieren Sie am Nachmittag nach Süden zur Basilika Saint-Remi. Den Tag lassen Sie in der historischen Atmosphäre der Abtei und des Museums Saint-Remi ausklingen.",
+        "hu": "A délelőtt az ókori Reimsben kezdődik a Porte de Mars kapunál, majd a föld alatti Cryptoportique felfedezésével folytatódik. A fénypont a fenséges katedrális, a francia királyok koronázási helyszíne, és a szomszédos Palais du Tau. Miután megcsodáltad a Carnegie Könyvtár Art Deco eleganciáját, délután délre sétálunk a Saint-Remi bazilikához. A napot a Saint-Remi apátság és múzeum történelmi falai között zárjuk.",
+        "ro": "Dimineața începe în Reims-ul antic la Porte de Mars, urmată de explorarea subterană a Cryptoportique. Punctul culminant este maiestuoasa catedrală, locul de încoronare a regilor Franței, și Palatul Tau adiacent. După o privire asupra eleganței Art Deco a Bibliotecii Carnegie, după-amiaza ne îndreptăm spre sud către Bazilica Saint-Remi. Ziua se încheie în atmosfera istorică a abației și muzeului Saint-Remi.",
+        "en": "Your morning starts in ancient Reims at the Porte de Mars, followed by the underground exploration of the Cryptoportique. The highlight is the majestic Cathedral, the coronation site of French kings, and the adjacent Palais du Tau. After a glimpse into the Art Deco elegance of the Carnegie Library, spend the afternoon walking south to the Saint-Remi Basilica. End the day within the historical walls of the Saint-Remi Abbey and Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biscuits Roses de Reims",
+            "tip": "Traditionelle rosa Kekse, die man in Champagner tunkt."
+          },
+          {
+            "name": "Le Comptoir de la Licorne",
+            "tip": "Hervorragende lokale Küche in der Nähe der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuits Roses de Reims",
+            "tip": "Hagyományos rózsaszín keksz, amit pezsgőbe mártanak."
+          },
+          {
+            "name": "Le Comptoir de la Licorne",
+            "tip": "Kiváló helyi konyha a katedrális közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuits Roses de Reims",
+            "tip": "Biscuiți roz tradiționali care se înmoaie în șampanie."
+          },
+          {
+            "name": "Le Comptoir de la Licorne",
+            "tip": "Bucătărie locală excelentă lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuits Roses de Reims",
+            "tip": "Traditional pink biscuits meant to be dipped in Champagne."
+          },
+          {
+            "name": "Le Comptoir de la Licorne",
+            "tip": "Excellent local cuisine near the cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Patte d'Oie",
+            "tip": "Ein friedlicher Park mit Springbrunnen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Patte d'Oie",
+            "tip": "Békés park szökőkutakkal a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de la Patte d'Oie",
+            "tip": "Un parc liniștit cu fântâni arteziene.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Patte d'Oie",
+            "tip": "A peaceful park with fountains for a break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles du Boulingrin",
+            "tip": "Historische Markthalle mit lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles du Boulingrin",
+            "tip": "Történelmi piaccsarnok helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles du Boulingrin",
+            "tip": "Hală istorică cu specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles du Boulingrin",
+            "tip": "Historic market hall with local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Reims ist sehr flach und ideal zum Wandern.",
+          "Die meisten Sehenswürdigkeiten im Zentrum liegen nah beieinander.",
+          "Buchen Sie Kathedralen-Turmführungen im Voraus.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Reims sík terepe ideális a gyalogos felfedezéshez.",
+          "A legtöbb belvárosi látnivaló sétatávolságra van egymástól.",
+          "A katedrális toronytúráira érdemes előre foglalni.",
+          "Viselj kényelmes cipőt a macskaköves utcák miatt."
+        ],
+        "ro": [
+          "Reims este foarte plat și ideal pentru mersul pe jos.",
+          "Majoritatea obiectivelor din centru sunt aproape unele de altele.",
+          "Rezervați tururile pentru turnul catedralei în avans.",
+          "Purtați pantofi confortabili pentru străzile pietruite."
+        ],
+        "en": [
+          "Reims is very flat and ideal for walking.",
+          "Most city center sights are clustered close together.",
+          "Book cathedral tower tours in advance for the best views.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Porte de Mars",
+          "coords": [
+            4.03,
+            49.259
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Römisches Stadttor.",
+            "hu": "Római kori városkapu.",
+            "ro": "Poartă romană.",
+            "en": "Roman city gate."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            4.034,
+            49.253
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Krönungsort der Könige.",
+            "hu": "Királyok koronázóhelye.",
+            "ro": "Locul de încoronare a regilor.",
+            "en": "Coronation site of kings."
+          }
+        },
+        {
+          "name": "Palais du Tau",
+          "coords": [
+            4.036,
+            49.253
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Erzbischöflicher Palast.",
+            "hu": "Érseki palota.",
+            "ro": "Palat arhiepiscopal.",
+            "en": "Archbishop's palace."
+          }
+        },
+        {
+          "name": "Villa Demoiselle",
+          "coords": [
+            4.053,
+            49.241
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Art Nouveau Architektur.",
+            "hu": "Szecessziós építészet.",
+            "ro": "Arhitectură Art Nouveau.",
+            "en": "Art Nouveau architecture."
+          }
+        },
+        {
+          "name": "Basilique Saint-Remi",
+          "coords": [
+            4.041,
+            49.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Älteste Kirche von Reims.",
+            "hu": "Reims legrégebbi temploma.",
+            "ro": "Cea mai veche biserică din Reims.",
+            "en": "Oldest church in Reims."
+          }
+        },
+        {
+          "name": "Musée Saint-Remi",
+          "coords": [
+            4.042,
+            49.244
+          ],
+          "category": "museums",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Archäologisches Museum.",
+            "hu": "Régészeti múzeum.",
+            "ro": "Muzeu de arheologie.",
+            "en": "Archaeological museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Reims effizient, von den römischen Ruinen bis zu den südlichen Abteien. Der Weg führt durch das historische Zentrum zur prächtigen Villa Demoiselle und zurück zur Basilika Saint-Remi.",
+        "hu": "Kerékpárral hatékonyan fedezheted fel Reimset a római romoktól a déli apátságokig. Az út a történelmi központon át a pompás Villa Demoiselle-hez, majd vissza a Saint-Remi bazilikához vezet.",
+        "ro": "Cu bicicleta explorați Reims eficient, de la ruinele romane până la abațiile din sud. Traseul trece prin centrul istoric către superba Villa Demoiselle și înapoi la Bazilica Saint-Remi.",
+        "en": "Explore Reims efficiently by bike, from Roman ruins to southern abbeys. The route takes you through the historic center to the splendid Villa Demoiselle and back to the Saint-Remi Basilica."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Au Petit Comptoir",
+            "tip": "Beliebtes Bistro mit lokaler Weinkarte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Au Petit Comptoir",
+            "tip": "Népszerű bisztró helyi borlappal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Au Petit Comptoir",
+            "tip": "Bistro popular cu listă de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Au Petit Comptoir",
+            "tip": "Popular bistro with a local wine list."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Champagne",
+            "tip": "Großzügiger grüner Park.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Champagne",
+            "tip": "Tágas zöld park a város szélén.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Champagne",
+            "tip": "Parc verde spațios.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Champagne",
+            "tip": "Spacious green park.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison Fossier",
+            "tip": "Berühmte Konditorei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison Fossier",
+            "tip": "Híres cukrászda a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison Fossier",
+            "tip": "Cofetărie celebră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison Fossier",
+            "tip": "Famous confectionery shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele Radwege entlang des Kanals.",
+          "Nutzen Sie das Leihradsystem 'Zebulle'."
+        ],
+        "hu": [
+          "Sok kerékpárút van a csatorna mentén.",
+          "Használd a 'Zebulle' bérbicikli rendszert."
+        ],
+        "ro": [
+          "Există multe piste de biciclete de-a lungul canalului.",
+          "Folosiți sistemul de închiriat biciclete 'Zebulle'."
+        ],
+        "en": [
+          "There are many bike paths along the canal.",
+          "Use the 'Zebulle' bike-sharing system."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porte de Mars",
+          "coords": [
+            4.03,
+            49.259
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Cluster A: Parken am Boulingrin.",
+            "hu": "A klaszter: Parkolás a Boulingrinnél.",
+            "ro": "Cluster A: Parcare la Boulingrin.",
+            "en": "Cluster A: Parking at Boulingrin."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            4.034,
+            49.253
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Cluster A: Kurzer Spaziergang vom Parkplatz.",
+            "hu": "A klaszter: Rövid séta a parkolótól.",
+            "ro": "Cluster A: Scurtă plimbare de la parcare.",
+            "en": "Cluster A: Short walk from parking."
+          }
+        },
+        {
+          "name": "Palais du Tau",
+          "coords": [
+            4.036,
+            49.253
+          ],
+          "category": "museums",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Cluster A: Direkt neben der Kathedrale.",
+            "hu": "A klaszter: Közvetlenül a katedrális mellett.",
+            "ro": "Cluster A: Direct lângă catedrală.",
+            "en": "Cluster A: Right next to the cathedral."
+          }
+        },
+        {
+          "name": "Villa Demoiselle",
+          "coords": [
+            4.053,
+            49.241
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Cluster B: Fahrt zum südlichen Viertel.",
+            "hu": "B klaszter: Autózás a déli negyedbe.",
+            "ro": "Cluster B: Deplasare către cartierul de sud.",
+            "en": "Cluster B: Drive to the southern district."
+          }
+        },
+        {
+          "name": "Basilique Saint-Remi",
+          "coords": [
+            4.041,
+            49.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Cluster B: Parken vor Ort möglich.",
+            "hu": "B klaszter: Helyben lehet parkolni.",
+            "ro": "Cluster B: Parcare disponibilă la fața locului.",
+            "en": "Cluster B: Parking available on site."
+          }
+        },
+        {
+          "name": "Musée Saint-Remi",
+          "coords": [
+            4.042,
+            49.244
+          ],
+          "category": "museums",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Cluster B: Zu Fuß von der Basilika.",
+            "hu": "B klaszter: Gyalog a bazilikától.",
+            "ro": "Cluster B: Pe jos de la bazilică.",
+            "en": "Cluster B: Walking from the basilica."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt das Auto, um zwischen den zwei Hauptclustern von Reims zu wechseln. Der Vormittag gehört dem Zentrum (Cluster A), gefolgt von einer kurzen Fahrt nach Süden, um die Villa Demoiselle und den Saint-Remi-Komplex zu besuchen (Cluster B).",
+        "hu": "Ez az útvonal az autót használja a két fő látogatói központ közötti váltáshoz. A délelőtt a belvárosé (A klaszter), majd rövid autózás után délre látogatunk a Villa Demoiselle-hez és a Saint-Remi komplexumhoz (B klaszter).",
+        "ro": "Acest traseu folosește mașina pentru a schimba între cele două grupuri principale de atracții. Dimineața aparține centrului (Cluster A), urmată de o scurtă deplasare spre sud pentru a vizita Villa Demoiselle și complexul Saint-Remi (Cluster B).",
+        "en": "This route uses the car to transit between the two main sight clusters in Reims. The morning belongs to the city center (Cluster A), followed by a short drive south to visit Villa Demoiselle and the Saint-Remi complex (Cluster B)."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Assiette Champenoise",
+            "tip": "Drei-Sterne-Restaurant etwas außerhalb."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Assiette Champenoise",
+            "tip": "Három Michelin-csillagos étterem a városhatárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Assiette Champenoise",
+            "tip": "Restaurant cu trei stele Michelin la periferie."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Assiette Champenoise",
+            "tip": "Three-Michelin-star restaurant just outside the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Verzenay",
+            "tip": "15 Min Fahrt für Panorama-Blick.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verzenay szőlőskertjei",
+            "tip": "15 perc autóút a panorámáért.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Verzenay",
+            "tip": "15 min de mers cu mașina pentru panoramă.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Verzenay Vineyards",
+            "tip": "15 min drive for panoramic views.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Champagne Pommery Shop",
+            "tip": "Direkt bei der Villa Demoiselle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Champagne Pommery Shop",
+            "tip": "Közvetlenül a Villa Demoiselle mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Champagne Pommery Shop",
+            "tip": "Lângă Villa Demoiselle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Champagne Pommery Shop",
+            "tip": "Located right by Villa Demoiselle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Parkhaus 'Cathédrale' für das Zentrum.",
+          "Das Fahren im Zentrum kann eng sein."
+        ],
+        "hu": [
+          "Használd a 'Cathédrale' parkolóházat a belvároshoz.",
+          "A központban szűkek lehetnek az utcák."
+        ],
+        "ro": [
+          "Parcați în garajul 'Cathédrale' pentru centru.",
+          "Condusul în centru poate fi dificil."
+        ],
+        "en": [
+          "Park in the 'Cathédrale' garage for the city center.",
+          "Driving in the very center can be restrictive."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 9.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            4.034,
+            49.253
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Tram A/B bis 'Opéra'.",
+            "hu": "A/B villamos az 'Opéra' megállóig.",
+            "ro": "Tramvai A/B până la 'Opéra'.",
+            "en": "Tram A/B to 'Opéra' stop."
+          }
+        },
+        {
+          "name": "Palais du Tau",
+          "coords": [
+            4.036,
+            49.253
+          ],
+          "category": "museums",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Kurzer Fußweg von der Tram.",
+            "hu": "Rövid séta a villamostól.",
+            "ro": "Scurtă plimbare de la tramvai.",
+            "en": "Short walk from the tram."
+          }
+        },
+        {
+          "name": "Bibliothèque Carnegie",
+          "coords": [
+            4.035,
+            49.252
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": "Basilique Saint-Remi",
+          "coords": [
+            4.041,
+            49.243
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_4lang": {
+            "de": "Bus Linie 4 bis 'Saint-Remi'.",
+            "hu": "4-es busz a 'Saint-Remi' megállóig.",
+            "ro": "Autobuz linia 4 până la 'Saint-Remi'.",
+            "en": "Bus line 4 to 'Saint-Remi' stop."
+          }
+        },
+        {
+          "name": "Musée Saint-Remi",
+          "coords": [
+            4.042,
+            49.244
+          ],
+          "category": "museums",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Direkt neben der Basilika.",
+            "hu": "Közvetlenül a bazilika mellett.",
+            "ro": "Lângă bazilică.",
+            "en": "Next to the basilica."
+          }
+        },
+        {
+          "name": "Villa Demoiselle",
+          "coords": [
+            4.053,
+            49.241
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Kurzer Spaziergang oder Bus 4.",
+            "hu": "Rövid séta vagy 4-es busz.",
+            "ro": "Scurtă plimbare sau autobuzul 4.",
+            "en": "Short walk or bus line 4."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Tram- und Bussystem von Reims, um zwischen dem Zentrum und dem Saint-Remi-Viertel zu pendeln. Die Route verbindet religiöse Wunder mit kulturellen Schätzen.",
+        "hu": "Használd Reims kiváló villamos- és buszhálózatát a központ és a Saint-Remi negyed közötti közlekedéshez. Az útvonal vallási csodákat és kulturális kincseket köt össze.",
+        "ro": "Folosiți sistemul excelent de tramvai și autobuz din Reims pentru a circula între centru și cartierul Saint-Remi. Traseul conectează minunile religioase cu comorile culturale.",
+        "en": "Utilize Reims' excellent tram and bus network to move between the center and the Saint-Remi district. The route connects religious wonders with cultural treasures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie de l'Opéra",
+            "tip": "Klassische Brasserie an der Tram-Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie de l'Opéra",
+            "tip": "Klasszikus francia étterem a villamosnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie de l'Opéra",
+            "tip": "Brasserie clasică lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie de l'Opéra",
+            "tip": "Classic brasserie near the tram stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square des Cordeliers",
+            "tip": "Kleiner, ruhiger Platz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square des Cordeliers",
+            "tip": "Kicsi, csendes tér pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square des Cordeliers",
+            "tip": "Piațetă mică și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square des Cordeliers",
+            "tip": "Small, quiet square for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Kaufhaus im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Nagyáruház a belváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Magazin universal în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Department store in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für Bus und Tram.",
+          "Die Tram A und B fahren sehr häufig."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra és villamosra.",
+          "Az A és B villamos gyakran közlekedik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz și tramvai.",
+          "Tramvaiele A și B circulă foarte frecvent."
+        ],
+        "en": [
+          "Buy a day pass for unlimited bus and tram rides.",
+          "Trams A and B run very frequently."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "city_id": "france-nancy-south-cities-v2",
+  "anchor": {
+    "name": "Nancy-Sud",
+    "coords": [
+      6.18,
+      48.67
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Stanislas",
+            "hu": "Stanislas tér",
+            "ro": "Piața Stanislas",
+            "en": "Place Stanislas"
+          },
+          "coords": [
+            6.1834,
+            48.6936
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die vergoldeten Schmiedeeisengitter.",
+            "hu": "Figyeld meg az aranyozott kovácsoltvas kapukat.",
+            "ro": "Observați porțile din fier forjat aurit.",
+            "en": "Look closely at the gilded wrought-iron gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Nancy",
+            "hu": "Nancy-i székesegyház",
+            "ro": "Catedrala din Nancy",
+            "en": "Nancy Cathedral"
+          },
+          "coords": [
+            6.1864,
+            48.6913
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade und die prächtige Orgel.",
+            "hu": "Csodáld meg a barokk homlokzatot és a hatalmas orgonát.",
+            "ro": "Admirați fațada barocă și orga impunătoare.",
+            "en": "Admire the Baroque facade and the magnificent organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Carrière",
+            "hu": "Place de la Carrière",
+            "ro": "Place de la Carrière",
+            "en": "Place de la Carrière"
+          },
+          "coords": [
+            6.1825,
+            48.6953
+          ],
+          "category": "squares",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein harmonischer Platz aus der Zeit der Aufklärung.",
+            "hu": "A felvilágosodás korának harmonikus tere.",
+            "ro": "O piață armonioasă din epoca Luminilor.",
+            "en": "A harmonious square from the Enlightenment era."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Herzöge von Lothringen",
+            "hu": "Lotaringiai hercegi palota",
+            "ro": "Palatul Ducilor de Lorena",
+            "en": "Palace of the Dukes of Lorraine"
+          },
+          "coords": [
+            6.1818,
+            48.6973
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum zur Geschichte Lothringens.",
+            "hu": "Látogasd meg a Lotaringia történelmét bemutató múzeumot.",
+            "ro": "Vizitați muzeul dedicat istoriei Lorenei.",
+            "en": "Visit the museum dedicated to the history of Lorraine."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Craffe",
+            "hu": "Porte de la Craffe",
+            "ro": "Poarta Craffe",
+            "en": "Porte de la Craffe"
+          },
+          "coords": [
+            6.1791,
+            48.6989
+          ],
+          "category": "towers",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das älteste Stadttor von Nancy aus dem 14. Jahrhundert.",
+            "hu": "Nancy legrégebbi városkapuja a 14. századból.",
+            "ro": "Cea mai veche poartă a orașului Nancy, din secolul XIV.",
+            "en": "The oldest city gate in Nancy, dating back to the 14th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pépinière",
+            "hu": "Pépinière park",
+            "ro": "Parcul Pépinière",
+            "en": "Parc de la Pépinière"
+          },
+          "coords": [
+            6.1852,
+            48.6965
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause im Rosengarten oder beim Tierpark.",
+            "hu": "Ideális pihenőhely a rózsakertben vagy a vadasparknál.",
+            "ro": "Ideal pentru o pauză în grădina de trandafiri.",
+            "en": "Ideal for a break in the rose garden or near the small zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Majorelle",
+            "hu": "Villa Majorelle",
+            "ro": "Villa Majorelle",
+            "en": "Villa Majorelle"
+          },
+          "coords": [
+            6.1664,
+            48.6821
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Jugendstils (Art Nouveau).",
+            "hu": "A szecessziós építészet egyik remekműve.",
+            "ro": "O capodoperă a stilului Art Nouveau.",
+            "en": "A masterpiece of Art Nouveau architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der prächtigen Place Stanislas, dem Wahrzeichen der Stadt. Nach einem Besuch der Kathedrale spazieren Sie durch die historische Altstadt zum Herzogspalast und dem beeindruckenden Stadttor Porte de la Craffe. Mittags entspannen Sie im weitläufigen Parc de la Pépinière, bevor Sie am Nachmittag die faszinierende Welt des Jugendstils in der Villa Majorelle entdecken.",
+        "hu": "Kezdje a napot a lenyűgöző Stanislas téren, amely a város jelképe. A katedrális megtekintése után sétáljon végig az óvároson a Hercegi Palotáig és a Porte de la Craffe kapuig. Ebéd után pihenjen a Pépinière parkban, majd délután fedezze fel a szecesszió (Art Nouveau) világát a Villa Majorelle épületében.",
+        "ro": "Începeți ziua în superba Piață Stanislas, simbolul orașului. După o vizită la catedrală, plimbați-vă prin orașul vechi până la Palatul Ducal și poarta Porte de la Craffe. La prânz, relaxați-vă în Parcul Pépinière, iar după-amiaza descoperiți universul Art Nouveau la Villa Majorelle.",
+        "en": "Start your day at the magnificent Place Stanislas, the heart of the city. After visiting the Cathedral, walk through the old town to the Ducal Palace and the historic Porte de la Craffe gate. Enjoy a midday break in the Parc de la Pépinière before heading out to discover Nancy's world-famous Art Nouveau heritage at Villa Majorelle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Macarons de Nancy",
+            "tip": "Probieren Sie das Originalrezept der Sœurs Macarons."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Der Klassiker der Region in einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nancy-i makaron",
+            "tip": "Kóstolja meg az eredeti receptet a Sœurs Macarons-nál."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "A régió klasszikus lepénye egy helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Macarons de Nancy",
+            "tip": "Gustați rețeta originală de la Sœurs Macarons."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Clasicul regional într-o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nancy Macarons",
+            "tip": "Try the original recipe at the Maison des Sœurs Macarons."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "The region's most famous dish, best enjoyed at a local bistro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten in der Pépinière",
+            "tip": "Ein ruhiger Ort inmitten von Blumen.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a Pépinière-ben",
+            "tip": "Csendes menedék a virágok között.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Un loc liniștit în mijlocul florilor.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in Pépinière",
+            "tip": "A peaceful spot surrounded by seasonal blooms.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Central",
+            "tip": "Regionale Spezialitäten wie Bergamotte-Bonbons."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac",
+            "tip": "Helyi finomságok, például bergamott cukorka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Central",
+            "tip": "Produse locale precum bomboanele cu bergamotă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Perfect for local specialties like Bergamote de Nancy candies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nancy ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe.",
+          "Die Place Stanislas ist abends wunderschön beleuchtet."
+        ],
+        "hu": [
+          "Nancy gyalogosan könnyen bejárható, viseljen kényelmes cipőt.",
+          "A Stanislas tér este, kivilágítva a legszebb."
+        ],
+        "ro": [
+          "Nancy este foarte prietenos cu pietonii, purtați încălțăminte comodă.",
+          "Piața Stanislas este superb iluminată seara."
+        ],
+        "en": [
+          "Nancy is very walkable, so wear comfortable shoes for the cobblestones.",
+          "Return to Place Stanislas in the evening to see it beautifully illuminated."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Stanislas",
+            "hu": "Stanislas tér",
+            "ro": "Piața Stanislas",
+            "en": "Place Stanislas"
+          },
+          "coords": [
+            6.1834,
+            48.6936
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Stadttouren.",
+            "hu": "Városi túrák kiindulópontja.",
+            "ro": "Punct de plecare pentru tururi.",
+            "en": "Starting point for city tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Nancy",
+            "hu": "Nancy-i székesegyház",
+            "ro": "Catedrala din Nancy",
+            "en": "Nancy Cathedral"
+          },
+          "coords": [
+            6.1864,
+            48.6913
+          ],
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für die Architektur.",
+            "hu": "Rövid megálló az építészetért.",
+            "ro": "O scurtă oprire pentru arhitectură.",
+            "en": "A quick stop for the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Majorelle",
+            "hu": "Villa Majorelle",
+            "ro": "Villa Majorelle",
+            "en": "Villa Majorelle"
+          },
+          "coords": [
+            6.1664,
+            48.6821
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Haus.",
+            "hu": "Kerékpártároló közvetlenül a ház előtt.",
+            "ro": "Suporturi de biciclete chiar în față.",
+            "en": "Bike racks available right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'École de Nancy",
+            "hu": "Nancy Iskola Múzeuma",
+            "ro": "Muzeul Școlii din Nancy",
+            "en": "Musée de l'École de Nancy"
+          },
+          "coords": [
+            6.1652,
+            48.6804
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Herz des lothringischen Jugendstils.",
+            "hu": "A lotaringiai szecesszió szíve.",
+            "ro": "Inima stilului Art Nouveau din Lorena.",
+            "en": "The heart of Lorraine Art Nouveau."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pépinière",
+            "hu": "Pépinière park",
+            "ro": "Parcul Pépinière",
+            "en": "Parc de la Pépinière"
+          },
+          "coords": [
+            6.1852,
+            48.6965
+          ],
+          "category": "parks",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Schattige Wege zum Radfahren.",
+            "hu": "Árnyas utak a kerékpározáshoz.",
+            "ro": "Alei umbroase pentru pedalat.",
+            "en": "Shady paths perfect for cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Nancy auf zwei Rädern! Starten Sie im Zentrum und radeln Sie dann in das Viertel westlich des Bahnhofs, um die prächtigen Jugendstilvillen und das Musée de l'École de Nancy zu bewundern. Beenden Sie die Tour entspannt im Park.",
+        "hu": "Fedezze fel Nancyt két keréken! Kezdjen a központban, majd tekerjen el az állomástól nyugatra eső negyedbe, hogy megcsodálja a szecessziós villákat és a Nancy Iskola Múzeumát. A túrát a parkban zárja.",
+        "ro": "Explorați orașul Nancy pe două roți! Începeți în centru, apoi pedalați spre vest de gară pentru a admira vilele Art Nouveau și Muzeul Școlii din Nancy. Încheiați turul relaxat în parc.",
+        "en": "Explore Nancy on two wheels! Start in the center and then cycle to the district west of the station to admire the magnificent Art Nouveau villas and the Musée de l'École de Nancy. End your tour with a relaxing ride through the park."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'VélOstan' Mieträder der Stadt.",
+          "Achten Sie in der Altstadt auf das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Használja a városi 'VélOstan' bérbringákat.",
+          "Az óvárosban ügyeljen a macskaköves utakra."
+        ],
+        "ro": [
+          "Folosiți bicicletele de închiriat 'VélOstan'.",
+          "Atenție la pavajul cu piatră cubică din centrul vechi."
+        ],
+        "en": [
+          "Use the city's 'VélOstan' bike-share system.",
+          "Watch out for cobblestones in the historic district."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Majorelle",
+            "hu": "Villa Majorelle",
+            "ro": "Villa Majorelle",
+            "en": "Villa Majorelle"
+          },
+          "coords": [
+            6.1664,
+            48.6821
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken in den umliegenden Straßen möglich.",
+            "hu": "Parkolás a környező utcákban lehetséges.",
+            "ro": "Parcare disponibilă pe străzile adiacente.",
+            "en": "Street parking usually available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'École de Nancy",
+            "hu": "Nancy Iskola Múzeuma",
+            "ro": "Muzeul Școlii din Nancy",
+            "en": "Musée de l'École de Nancy"
+          },
+          "coords": [
+            6.1652,
+            48.6804
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Cluster West: Gehen Sie zu Fuß von der Villa.",
+            "hu": "Nyugati klaszter: sétáljon át a Villától.",
+            "ro": "Cluster Vest: mergeți pe jos de la Vilă.",
+            "en": "West Cluster: walk here from Villa Majorelle."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Stanislas",
+            "hu": "Stanislas tér",
+            "ro": "Piața Stanislas",
+            "en": "Place Stanislas"
+          },
+          "coords": [
+            6.1834,
+            48.6936
+          ],
+          "category": "squares",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Stanislas'.",
+            "hu": "Parkoljon a 'Stanislas' mélygarázsban.",
+            "ro": "Parcați în parcarea subterană 'Stanislas'.",
+            "en": "Park in the 'Stanislas' underground garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pépinière",
+            "hu": "Pépinière park",
+            "ro": "Parcul Pépinière",
+            "en": "Parc de la Pépinière"
+          },
+          "coords": [
+            6.1852,
+            48.6965
+          ],
+          "category": "parks",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster Zentrum: Zu Fuß vom Parkplatz.",
+            "hu": "Központi klaszter: sétáljon át a parkolótól.",
+            "ro": "Cluster Centru: pe jos din parcare.",
+            "en": "Central Cluster: walk here from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Craffe",
+            "hu": "Porte de la Craffe",
+            "ro": "Poarta Craffe",
+            "en": "Porte de la Craffe"
+          },
+          "coords": [
+            6.1791,
+            48.6989
+          ],
+          "category": "towers",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Teil des Altstadtspaziergangs.",
+            "hu": "Az óvárosi séta része.",
+            "ro": "Parte din plimbarea în centrul vechi.",
+            "en": "Part of the old town walking tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für den Transfer zwischen dem Jugendstil-Viertel im Westen und dem barocken Zentrum. Parken Sie einmal zentral und erkunden Sie die prächtigen Plätze und Parks zu Fuß.",
+        "hu": "Használja az autót a nyugati szecessziós negyed és a barokk központ közötti közlekedésre. Parkoljon le egyszer a központban, és fedezze fel a tereket és parkokat gyalog.",
+        "ro": "Folosiți mașina pentru transferul între cartierul Art Nouveau din vest și centrul baroc. Parcați central și explorați piețele și parcurile pe jos.",
+        "en": "Use your car to bridge the gap between the Art Nouveau district in the west and the Baroque city center. Park once in the center to enjoy the squares and parks on foot."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum kann teuer sein, nutzen Sie P+R Parkplätze.",
+          "Das Stadtzentrum ist teilweise Fußgängerzone."
+        ],
+        "hu": [
+          "A központi parkolás drága lehet, használjon P+R parkolókat.",
+          "A városközpont részben sétálóövezet."
+        ],
+        "ro": [
+          "Parcarea centrală poate fi scumpă, folosiți parcări P+R.",
+          "Centrul orașului este parțial zonă pietonală."
+        ],
+        "en": [
+          "Central parking can be pricey; consider using P+R lots.",
+          "Much of the immediate city center is pedestrian-only."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Stanislas",
+            "hu": "Stanislas tér",
+            "ro": "Piața Stanislas",
+            "en": "Place Stanislas"
+          },
+          "coords": [
+            6.1834,
+            48.6936
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nahe der Haltestelle 'Point Central'.",
+            "hu": "Közel a 'Point Central' megállóhoz.",
+            "ro": "Lângă stația 'Point Central'.",
+            "en": "Near the 'Point Central' transit stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Nancy",
+            "hu": "Nancy-i székesegyház",
+            "ro": "Catedrala din Nancy",
+            "en": "Nancy Cathedral"
+          },
+          "coords": [
+            6.1864,
+            48.6913
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Stanislas-Platz.",
+            "hu": "Gyalogosan elérhető a Stanislas térről.",
+            "ro": "Accesibil pe jos din Piața Stanislas.",
+            "en": "Within walking distance from Place Stanislas."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Majorelle",
+            "hu": "Villa Majorelle",
+            "ro": "Villa Majorelle",
+            "en": "Villa Majorelle"
+          },
+          "coords": [
+            6.1664,
+            48.6821
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie T2 oder T4.",
+            "hu": "Használja a T2 vagy T4 vonalat.",
+            "ro": "Luați linia T2 sau T4.",
+            "en": "Take the T2 or T4 bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'École de Nancy",
+            "hu": "Nancy Iskola Múzeuma",
+            "ro": "Muzeul Școlii din Nancy",
+            "en": "Musée de l'École de Nancy"
+          },
+          "coords": [
+            6.1652,
+            48.6804
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Villa.",
+            "hu": "Rövid séta a Villától.",
+            "ro": "Scurtă plimbare de la Vilă.",
+            "en": "A short walk from Villa Majorelle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Bus- und Tramnetzes (STAN) gelangen Sie schnell von den prunkvollen Plätzen im Zentrum zu den architektonischen Schätzen des Jugendstils im Westen der Stadt.",
+        "hu": "A jól kiépített busz- és villamoshálózatnak (STAN) köszönhetően gyorsan eljuthat a központi terektől a város nyugati részén található szecessziós építészeti kincsekhez.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze și tramvaie (STAN), puteți ajunge rapid de la piețele centrale la comorile arhitecturale Art Nouveau din vest.",
+        "en": "Thanks to the efficient bus and tram network (STAN), you can easily travel between the central Baroque squares and the Art Nouveau architectural gems in the western part of town."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Tram-Linie 1 ist die Hauptverkehrsachse."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "Az 1-es villamosvonal a fő közlekedési tengely."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Linia de tramvai 1 este principala axă de transport."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel on the STAN network.",
+          "Tram line 1 is the main transit artery of the city."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1195 @@
+{
+  "city_id": "city-tuebingen-extra",
+  "anchor": {
+    "name": "Tübingen Marktplatz",
+    "coords": [
+      9.0556,
+      48.5216
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Tübingen",
+            "hu": "Tübingeni Piactér",
+            "ro": "Piața Primăriei din Tübingen",
+            "en": "Tübingen Market Square"
+          },
+          "coords": [
+            9.0556,
+            48.5216
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das astronomische Uhrwerk am Rathaus.",
+            "hu": "Nézze meg a városháza csillagászati óráját.",
+            "ro": "Admirați ceasul astronomic de pe primărie.",
+            "en": "Admire the astronomical clock on the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Tübingen",
+            "hu": "Városháza",
+            "ro": "Primăria Tübingen",
+            "en": "Tübingen Town Hall"
+          },
+          "coords": [
+            9.0555,
+            48.5215
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das älteste Gebäude am Platz mit prächtigen Wandmalereien.",
+            "hu": "A tér legrégebbi épülete pazar falfestményekkel.",
+            "ro": "Cea mai veche clădire din piață, cu picturi murale superbe.",
+            "en": "The oldest building on the square with magnificent murals."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Collegiate Church"
+          },
+          "coords": [
+            9.0568,
+            48.5208
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für einen Blick über die Altstadt.",
+            "hu": "Másszon fel a toronyba az óvárosi kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște asupra orașului vechi.",
+            "en": "Climb the tower for a view over the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohentübingen",
+            "hu": "Hohentübingen kastély",
+            "ro": "Castelul Hohentübingen",
+            "en": "Hohentübingen Castle"
+          },
+          "coords": [
+            9.0505,
+            48.5194
+          ],
+          "category": "castles",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schlossportal, ein Meisterwerk der Renaissance.",
+            "hu": "Nézze meg a várkaput, a reneszánsz mesterművét.",
+            "ro": "Vizitați poarta castelului, o capodoperă a Renașterii.",
+            "en": "Visit the castle portal, a Renaissance masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum im Schloss Hohentübingen",
+            "hu": "Vármúzeum",
+            "ro": "Muzeul Castelului",
+            "en": "Museum of the University of Tübingen"
+          },
+          "coords": [
+            9.0506,
+            48.5195
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier lagern die ältesten Kunstwerke der Menschheit.",
+            "hu": "Itt találhatók az emberiség legrégebbi műalkotásai.",
+            "ro": "Aici se află cele mai vechi opere de artă ale omenirii.",
+            "en": "The world's oldest works of art are kept here."
+          }
+        },
+        {
+          "name": {
+            "de": "Neckarfront",
+            "hu": "Neckar-part",
+            "ro": "Faleza râului Neckar",
+            "en": "Neckarfront"
+          },
+          "coords": [
+            9.0565,
+            48.5198
+          ],
+          "category": "parks",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das klassische Fotomotiv mit den bunten Häusern am Fluss.",
+            "hu": "Klasszikus fotótéma a színes folyóparti házakkal.",
+            "ro": "Motivul fotografic clasic cu casele colorate de pe râu.",
+            "en": "The classic photo motif with colorful houses by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Hölderlinturm",
+            "hu": "Hölderlin-torony",
+            "ro": "Turnul Hölderlin",
+            "en": "Hölderlin's Tower"
+          },
+          "coords": [
+            9.0562,
+            48.5196
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wohnort des Dichters Friedrich Hölderlin in seinen späten Jahren.",
+            "hu": "Friedrich Hölderlin költő lakhelye késői éveiben.",
+            "ro": "Locuința poetului Friedrich Hölderlin în ultimii săi ani.",
+            "en": "Home of the poet Friedrich Hölderlin in his later years."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Botanischer Garten",
+            "hu": "Régi Botanikus Kert",
+            "ro": "Grădina Botanică Veche",
+            "en": "Old Botanical Garden"
+          },
+          "coords": [
+            9.0585,
+            48.5255
+          ],
+          "category": "parks",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein grüner Rückzugsort direkt im Stadtzentrum.",
+            "hu": "Zöld menedék közvetlenül a városközpontban.",
+            "ro": "O oază de liniște chiar în centrul orașului.",
+            "en": "A green retreat right in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz mit seinem kunstvollen Rathaus. Nach einem Besuch der Stiftskirche steigen Sie hinauf zum Schloss Hohentübingen, das nicht nur Geschichte, sondern auch faszinierende archäologische Funde bietet. Der Nachmittag gehört der berühmten Neckarfront und dem Hölderlinturm, bevor Sie den Tag entspannt im Alten Botanischen Garten ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi piactéren a díszes városházával. A Szent György-templom után sétáljon fel a Hohentübingen várba, amely nemcsak történelmet, hanem lenyűgöző régészeti leleteket is rejt. A délutánt töltse a híres Neckar-parton és a Hölderlin-toronynál, majd zárja a napot pihentető sétával a Régi Botanikus Kertben.",
+        "ro": "Începeți ziua în piața istorică cu primăria sa decorată. După o vizită la biserică, urcați la castelul Hohentübingen, care oferă istorie și descoperiri arheologice fascinante. După-amiaza aparține celebrei faleze Neckar și turnului Hölderlin, înainte de a încheia ziua relaxat în Grădina Botanică Veche.",
+        "en": "Start your day at the historical market square with its ornate town hall. After visiting the collegiate church, walk up to Hohentübingen Castle, which offers history and fascinating archaeological finds. Spend the afternoon at the famous Neckarfront and Hölderlin's Tower, before ending the day with a relaxing stroll in the Old Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Neckarmüller",
+            "tip": "Hausgebrautes Bier und schwäbische Maultaschen direkt am Fluss."
+          },
+          {
+            "name": "Krummbeere",
+            "tip": "Spezialitäten rund um die Ofenkartoffel in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neckarmüller",
+            "tip": "Helyi sör és sváb derelye (Maultaschen) közvetlenül a folyóparton."
+          },
+          {
+            "name": "Gasthaus Bären",
+            "tip": "Hagyományos sváb konyha családias hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Neckarmüller",
+            "tip": "Bere artizanală și Maultaschen șvăbești chiar lângă râu."
+          },
+          {
+            "name": "Mauganeschtle",
+            "tip": "Restaurant tradițional sub castel, renumit pentru specialitățile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neckarmüller",
+            "tip": "Home-brewed beer and Swabian Maultaschen right by the river."
+          },
+          {
+            "name": "Ludwig's",
+            "tip": "Great cafe for breakfast or a light lunch in the heart of town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platanenallee",
+            "tip": "Spaziergang unter riesigen alten Bäumen auf der Neckarinsel.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Schlossgarten",
+            "tip": "Ruhiger Blick über die Dächer von Tübingen.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Platánsor",
+            "tip": "Séta az óriási platánfák alatt a Neckar-szigeten.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Österberg",
+            "tip": "Panoráma a városra és a környékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platanenallee",
+            "tip": "Plimbare sub platani gigantici pe insula Neckar.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc liniștit pentru meditație printre flori.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Platanenallee",
+            "tip": "Walk under giant plane trees on the Neckar island.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Schloss Bastion",
+            "tip": "Quiet spot with a great view of the Ammer valley.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte am Montag, Mittwoch und Freitag auf dem Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss áruk hétfőn, szerdán és pénteken a piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale în zilele de luni, miercuri și vineri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square Market",
+            "tip": "Fresh local produce on Monday, Wednesday, and Friday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tübingen ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Die Altstadt ist fast komplett autofrei.",
+          "Im Sommer ist eine Stocherkahnfahrt auf dem Neckar ein Muss."
+        ],
+        "hu": [
+          "Tübingen nagyon dombos, viseljen kényelmes cipőt.",
+          "Az óváros szinte teljesen autómentes övezet.",
+          "Nyáron a Stocherkahn (ladikázás) a Neckaron kötelező program."
+        ],
+        "ro": [
+          "Tübingen are multe pante, purtați încălțăminte confortabilă.",
+          "Orașul vechi este aproape în întregime pietonal.",
+          "O plimbare cu barca Stocherkahn pe Neckar este esențială vara."
+        ],
+        "en": [
+          "Tübingen is quite hilly, so wear comfortable walking shoes.",
+          "The old town is mostly car-free and perfect for wandering.",
+          "A punting boat trip (Stocherkahn) is a top highlight in summer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Neckarfront",
+            "hu": "Neckar-part",
+            "ro": "Faleza Neckar",
+            "en": "Neckarfront"
+          },
+          "coords": [
+            9.0565,
+            48.5198
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour entlang der Eberhardsbrücke.",
+            "hu": "Kezdje a túrát az Eberhards-híd mentén.",
+            "ro": "Începeți turul de-a lungul podului Eberhardsbrücke.",
+            "en": "Start your tour along the Eberhards Bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Botanischer Garten",
+            "hu": "Régi Botanikus Kert",
+            "ro": "Grădina Botanică Veche",
+            "en": "Old Botanical Garden"
+          },
+          "coords": [
+            9.0585,
+            48.5255
+          ],
+          "category": "parks",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gute Wege für Radfahrer durch den Park.",
+            "hu": "Jó kerékpárutak a parkon keresztül.",
+            "ro": "Alei bune pentru bicicliști prin park.",
+            "en": "Good paths for cyclists through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Bebenhausen",
+            "hu": "Bebenhauseni kolostor",
+            "ro": "Mănăstirea Bebenhausen",
+            "en": "Bebenhausen Abbey"
+          },
+          "coords": [
+            9.0592,
+            48.5615
+          ],
+          "category": "churches",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine idyllische Fahrt durch den Naturpark Schönbuch.",
+            "hu": "Idilli tekerés a Schönbuch natúrparkon át.",
+            "ro": "O plimbare idilică prin parcul natural Schönbuch.",
+            "en": "An idyllic ride through the Schönbuch Nature Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohentübingen",
+            "hu": "Hohentübingen vár",
+            "ro": "Castelul Hohentübingen",
+            "en": "Hohentübingen Castle"
+          },
+          "coords": [
+            9.0505,
+            48.5194
+          ],
+          "category": "castles",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist steil, aber die Aussicht lohnt sich.",
+            "hu": "Meredek az emelkedő, de a kilátás megéri.",
+            "ro": "Urcarea este abruptă, dar priveliștea merită.",
+            "en": "The climb is steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.0556,
+            48.5216
+          ],
+          "category": "squares",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Rad in der Fußgängerzone.",
+            "hu": "A gyalogos zónában tolja a kerékpárt.",
+            "ro": "Împingeți bicicleta în zona pietonală.",
+            "en": "Push your bike in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilhelmsstift",
+            "hu": "Wilhelmsstift",
+            "ro": "Wilhelmsstift",
+            "en": "Wilhelmsstift"
+          },
+          "coords": [
+            9.056,
+            48.5202
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ehemaliges Kloster und bedeutendes Studienhaus.",
+            "hu": "Egykori kolostor és jelentős kollégium.",
+            "ro": "Fostă mănăstire și importantă casă de studii.",
+            "en": "Former monastery and significant seminary."
+          }
+        },
+        {
+          "name": {
+            "de": "Hölderlinturm",
+            "hu": "Hölderlin-torony",
+            "ro": "Turnul Hölderlin",
+            "en": "Hölderlin's Tower"
+          },
+          "coords": [
+            9.0562,
+            48.5196
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Letzter Stopp am Ufer des Neckars.",
+            "hu": "Utolsó állomás a Neckar partján.",
+            "ro": "Ultima oprire pe malul râului Neckar.",
+            "en": "Last stop on the banks of the Neckar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Tübingen und seine Umgebung mit dem Fahrrad. Von der Neckarfront fahren Sie durch den Schönbuch zum wunderschönen Kloster Bebenhausen. Zurück in der Stadt bewältigen Sie den Anstieg zum Schloss und genießen die historische Atmosphäre der Altstadt auf zwei Rädern.",
+        "hu": "Fedezze fel Tübingent és környékét kerékpárral. A Neckar-parttól tekerjen a Schönbuch-erdőn át a gyönyörű bebenhauseni kolostorig. Visszatérve a városba győzze le a várba vezető emelkedőt, és élvezze az óváros hangulatát két keréken.",
+        "ro": "Explorați Tübingen și împrejurimile sale cu bicicleta. De la faleza Neckar, pedalați prin Schönbuch până la frumoasa mănăstire Bebenhausen. Reveniți în oraș, urcați panta spre castel și bucurați-vă de atmosfera istorică pe două roți.",
+        "en": "Explore Tübingen and its surroundings by bike. From the Neckarfront, ride through the Schönbuch forest to the beautiful Bebenhausen Abbey. Back in town, tackle the climb to the castle and enjoy the historical atmosphere of the old town on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Landgasthof Hirsch",
+            "tip": "In Bebenhausen, ideal für eine Pause während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landgasthof Hirsch",
+            "tip": "Bebenhausenben, ideális pihenő a biciklitúra alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Landgasthof Hirsch",
+            "tip": "În Bebenhausen, ideal pentru o pauză în timpul turului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Landgasthof Hirsch",
+            "tip": "In Bebenhausen, perfect for a break during your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Naturpark Schönbuch",
+            "tip": "Ruhige Waldwege abseits des Stadtverkehrs.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schönbuch Natúrpark",
+            "tip": "Csendes erdei utak távol a városi forgalomtól.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Schönbuch",
+            "tip": "Poteci liniștite prin pădure, departe de trafic.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schönbuch Nature Park",
+            "tip": "Quiet forest paths away from city traffic.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Tübingen",
+            "tip": "Für Zubehör oder schnelle Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárbolt",
+            "tip": "Kiegészítőkért vagy gyors javításért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Pentru accesorii sau reparații rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "Several shops offer rentals and quick repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege im Ammertal.",
+          "In der Altstadt ist das Radfahren oft nur in Schrittgeschwindigkeit erlaubt.",
+          "Ein Helm ist besonders für die Abfahrt vom Schloss ratsam."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat az Ammer-völgyben.",
+          "Az óvárosban gyakran csak lépésben szabad kerékpározni.",
+          "A várhegyről lefelé jövet ajánlott a bukósisak."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate în valea Ammer.",
+          "În centrul vechi, bicicleta se folosește adesea cu viteza mersului la pas.",
+          "Casca este recomandată, mai ales la coborârea de la castel."
+        ],
+        "en": [
+          "Use the marked cycle paths in the Ammer Valley.",
+          "In the old town, cycling is often restricted to walking pace.",
+          "A helmet is advised, especially for the descent from the castle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Altstadt-Mitte",
+            "hu": "Altstadt-Mitte parkolóház",
+            "ro": "Parcare Altstadt-Mitte",
+            "en": "Altstadt-Mitte Parking"
+          },
+          "coords": [
+            9.0575,
+            48.5235
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bester Ausgangspunkt für den Stadtrundgang zu Fuß.",
+            "hu": "Legjobb kiindulópont a gyalogos városnézéshez.",
+            "ro": "Cel mai bun punct de plecare pentru turul pietonal.",
+            "en": "Best starting point for exploring the city on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Rathaus",
+            "hu": "Piactér és Városháza",
+            "ro": "Piața Primăriei",
+            "en": "Market Square & Town Hall"
+          },
+          "coords": [
+            9.0556,
+            48.5216
+          ],
+          "category": "squares",
+          "arrive_at": "09:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster A: Zu Fuß vom Parkhaus erreichbar.",
+            "hu": "A klaszter: Gyalogosan elérhető a parkolóháztól.",
+            "ro": "Cluster A: Accesibil pe jos din parcare.",
+            "en": "Cluster A: Within walking distance from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche St. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sfântul Gheorghe",
+            "en": "St. George's Collegiate Church"
+          },
+          "coords": [
+            9.0568,
+            48.5208
+          ],
+          "category": "churches",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Cluster A: Beeindruckende gotische Architektur.",
+            "hu": "A klaszter: Lenyűgöző gótikus építészet.",
+            "ro": "Cluster A: Arhitectură gotică impresionantă.",
+            "en": "Cluster A: Impressive Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohentübingen",
+            "hu": "Hohentübingen vár",
+            "ro": "Castelul Hohentübingen",
+            "en": "Hohentübingen Castle"
+          },
+          "coords": [
+            9.0505,
+            48.5194
+          ],
+          "category": "castles",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Cluster A: Genießen Sie den Panoramablick.",
+            "hu": "A klaszter: Élvezze a panorámát.",
+            "ro": "Cluster A: Bucurați-vă de panorama orașului.",
+            "en": "Cluster A: Enjoy the panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Neckarfront",
+            "hu": "Neckar-part",
+            "ro": "Faleza Neckar",
+            "en": "Neckarfront"
+          },
+          "coords": [
+            9.0565,
+            48.5198
+          ],
+          "category": "parks",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Cluster A: Mittagspause am Wasser.",
+            "hu": "A klaszter: Ebédszünet a víznél.",
+            "ro": "Cluster A: Pauză de prânz lângă apă.",
+            "en": "Cluster A: Lunch break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Bebenhausen",
+            "hu": "Bebenhauseni kolostor",
+            "ro": "Mănăstirea Bebenhausen",
+            "en": "Bebenhausen Abbey"
+          },
+          "coords": [
+            9.0592,
+            48.5615
+          ],
+          "category": "churches",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Cluster B: Kurze Fahrt aus der Stadt heraus.",
+            "hu": "B klaszter: Rövid autóút a városon kívülre.",
+            "ro": "Cluster B: O scurtă călătorie în afara orașului.",
+            "en": "Cluster B: A short drive outside the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bebenhausen Dorf",
+            "hu": "Bebenhausen falu",
+            "ro": "Satul Bebenhausen",
+            "en": "Bebenhausen Village"
+          },
+          "coords": [
+            9.06,
+            48.561
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Cluster B: Ein perfekt erhaltenes historisches Dorf.",
+            "hu": "B klaszter: Tökéletesen megőrzött történelmi falu.",
+            "ro": "Cluster B: Un sat istoric perfect conservat.",
+            "en": "Cluster B: A perfectly preserved historical village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parken Sie zentral und erkunden Sie die Tübinger Altstadt zu Fuß. Das Cluster-Modell erlaubt es Ihnen, die wichtigsten Sehenswürdigkeiten wie den Marktplatz, das Schloss und die Neckarfront stressfrei zu besuchen. Am Nachmittag fahren Sie zum nahegelegenen Kloster Bebenhausen, einem Juwel der Zisterzienserarchitektur im Naturpark Schönbuch.",
+        "hu": "Parkoljon a központban, és fedezze fel a tübingeni óvárost gyalog. A klaszter-modell lehetővé teszi a legfontosabb látnivalók, mint a piactér, a vár és a Neckar-part kényelmes bejárását. Délután autózzon a közeli Bebenhausen kolostorhoz, amely a ciszterci építészet gyöngyszeme a Schönbuch parkban.",
+        "ro": "Parcați în centru și explorați orașul vechi pe jos. Modelul de cluster vă permite să vizitați principalele obiective (piața, castelul, faleza) fără stres. După-amiaza, conduceți până la mănăstirea Bebenhausen, o bijuterie a arhitecturii cisterciene din parcul Schönbuch.",
+        "en": "Park centrally and explore Tübingen's old town on foot. The cluster model allows you to visit key sights like the market square, castle, and Neckarfront stress-free. In the afternoon, drive to the nearby Bebenhausen Abbey, a gem of Cistercian architecture in the Schönbuch Nature Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boxenstop",
+            "tip": "Museumsrestaurant mit Automobil-Thematik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boxenstop",
+            "tip": "Múzeumi étterem autós tematikával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boxenstop",
+            "tip": "Restaurant muzeal cu tematică auto."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boxenstop",
+            "tip": "Museum restaurant with a classic car theme."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bebenhausen Wald",
+            "tip": "Ruhige Spazierwege rund um das Kloster.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bebenhauseni erdő",
+            "tip": "Csendes sétautak a kolostor körül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Bebenhausen",
+            "tip": "Trasee liniștite de plimbare în jurul mănăstirii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bebenhausen Forest",
+            "tip": "Quiet walking trails surrounding the abbey.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zinsser",
+            "tip": "Traditionsreiches Modehaus im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zinsser",
+            "tip": "Nagy múltú divatház a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zinsser",
+            "tip": "Magazin de modă tradițional în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zinsser",
+            "tip": "A long-standing traditional fashion house in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem der Stadt.",
+          "In Bebenhausen gibt es einen großen Parkplatz direkt am Kloster.",
+          "Meiden Sie die Stoßzeiten im Berufsverkehr rund um die B27."
+        ],
+        "hu": [
+          "Használja a városi parkolási információs rendszert.",
+          "Bebenhausenben nagy parkoló van közvetlenül a kolostornál.",
+          "Kerülje a csúcsforgalmat a B27-es út környékén."
+        ],
+        "ro": [
+          "Utilizați sistemul de ghidare pentru parcare al orașului.",
+          "În Bebenhausen există o parcare mare chiar lângă mănăstire.",
+          "Evitați orele de vârf pe drumul B27."
+        ],
+        "en": [
+          "Follow the city's dynamic parking guidance system.",
+          "Bebenhausen has a large parking lot right by the abbey.",
+          "Avoid peak commuting hours on the B27 road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tübingen Hauptbahnhof",
+            "hu": "Tübingeni főpályaudvar",
+            "ro": "Gara Centrală Tübingen",
+            "en": "Tübingen Main Station"
+          },
+          "coords": [
+            9.0578,
+            48.5165
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden autóbuszvonal központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Neckarbrücke",
+            "hu": "Neckar-híd",
+            "ro": "Podul Neckarbrücke",
+            "en": "Neckar Bridge"
+          },
+          "coords": [
+            9.0575,
+            48.5195
+          ],
+          "category": "parks",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "District A: Wichtigste Haltestelle für die Altstadt.",
+            "hu": "A körzet: Az óváros legfontosabb megállója.",
+            "ro": "District A: Cea mai importantă stație pentru centrul vechi.",
+            "en": "District A: Most important stop for the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Primăriei",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.0556,
+            48.5216
+          ],
+          "category": "squares",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "District A: Nur ein kurzer Fußweg von der Brücke.",
+            "hu": "A körzet: Csak rövid séta a hídtól.",
+            "ro": "District A: Doar o scurtă plimbare de la pod.",
+            "en": "District A: Just a short walk from the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohentübingen",
+            "hu": "Hohentübingen vár",
+            "ro": "Castelul Hohentübingen",
+            "en": "Hohentübingen Castle"
+          },
+          "coords": [
+            9.0505,
+            48.5194
+          ],
+          "category": "castles",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "District A: Zu Fuß durch die Gassen erreichbar.",
+            "hu": "A körzet: Gyalogosan elérhető a szűk utcákon át.",
+            "ro": "District A: Accesibil pe jos prin străduțele înguste.",
+            "en": "District A: Reachable on foot through the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Hölderlinturm",
+            "hu": "Hölderlin-torony",
+            "ro": "Turnul Hölderlin",
+            "en": "Hölderlin's Tower"
+          },
+          "coords": [
+            9.0562,
+            48.5196
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "District A: Direkt am Ufer gelegen.",
+            "hu": "A körzet: Közvetlenül a folyóparton.",
+            "ro": "District A: Situat direct pe malul râului.",
+            "en": "District A: Located directly on the river bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Bebenhausen",
+            "hu": "Bebenhauseni kolostor",
+            "ro": "Mănăstirea Bebenhausen",
+            "en": "Bebenhausen Abbey"
+          },
+          "coords": [
+            9.0592,
+            48.5615
+          ],
+          "category": "churches",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "District B: Mit der Buslinie 826 oder 754 ab Stadtmitte.",
+            "hu": "B körzet: A 826-os vagy 754-es busszal a központból.",
+            "ro": "District B: Cu autobuzul 826 sau 754 din centrul orașului.",
+            "en": "District B: Take bus 826 or 754 from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Botanischer Garten",
+            "hu": "Régi Botanikus Kert",
+            "ro": "Grădina Botanică Veche",
+            "en": "Old Botanical Garden"
+          },
+          "coords": [
+            9.0585,
+            48.5255
+          ],
+          "category": "parks",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "District C: Mit dem Bus zurück in die Stadt.",
+            "hu": "C körzet: Busszal vissza a városba.",
+            "ro": "District C: Înapoi în oraș cu autobuzul.",
+            "en": "District C: Back to town by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tübingen verfügt über ein ausgezeichnetes Bussystem. Nutzen Sie die zentralen Haltestellen wie 'Neckarbrücke', um die Altstadt-Cluster zu erkunden. Ein besonderes Highlight ist die einfache Busanbindung zum Kloster Bebenhausen, sodass Sie auch ohne Auto die Umgebung genießen können. Den Tag beenden Sie im Botanischen Garten unweit der Universität.",
+        "hu": "Tübingen kiváló buszhálózattal rendelkezik. Használja a központi megállókat, mint a 'Neckarbrücke', az óvárosi klaszterek felfedezéséhez. Külön előny a könnyű buszos összeköttetés Bebenhausenbe, így autó nélkül is élvezheti a környéket. A napot az egyetemhez közeli Botanikus Kertben zárhatja.",
+        "ro": "Tübingen are un sistem de autobuze excelent. Utilizați stațiile centrale precum 'Neckarbrücke' pentru a explora centrul vechi. Un punct forte este conexiunea ușoară cu autobuzul către mănăstirea Bebenhausen. Încheiați ziua în Grădina Botanică de lângă universitate.",
+        "en": "Tübingen has an excellent bus system. Use central stops like 'Neckarbrücke' to explore the old town clusters. A special highlight is the easy bus connection to Bebenhausen Abbey, allowing you to enjoy the surroundings without a car. End the day in the Botanical Garden near the university."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kastanie",
+            "tip": "Gemütliches Restaurant in der Nähe der Universitätskliniken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastanie",
+            "tip": "Hangulatos étterem az egyetemi klinikák közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kastanie",
+            "tip": "Restaurant primitor în apropierea clinicilor universitare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kastanie",
+            "tip": "Cozy restaurant located near the university clinics."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten (Neu)",
+            "tip": "Die Gewächshäuser sind ein stilles Highlight.",
+            "emoji": "🌵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Új Botanikus Kert",
+            "tip": "Az üvegházak igazi csendes látnivalók.",
+            "emoji": "🌵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică (Nouă)",
+            "tip": "Serele sunt un punct de atracție liniștit.",
+            "emoji": "🌵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden (New)",
+            "tip": "The greenhouses are a quiet and beautiful highlight.",
+            "emoji": "🌵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Osiander",
+            "tip": "Die Stammbuchhandlung der berühmten Kette."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osiander",
+            "tip": "A híres könyvesbolt-hálózat anyaüzlete."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osiander",
+            "tip": "Librăria principală a celebrului lanț local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Osiander",
+            "tip": "The original flagship bookstore of the famous chain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das gesamte Stadtgebiet.",
+          "Die Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan.",
+          "Samstags ist die Nutzung der Stadtbusse oft kostenlos."
+        ],
+        "hu": [
+          "Vásároljon napijegyet az egész városi területre.",
+          "Hétvégén a buszok ritkábban járnak, ellenőrizze a menetrendet.",
+          "Szombatonként a városi buszok használata gyakran ingyenes."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru întreaga zonă urbană.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul.",
+          "Sâmbăta, utilizarea autobuzelor urbane este adesea gratuită."
+        ],
+        "en": [
+          "Purchase a day ticket for the entire city zone.",
+          "Buses run less frequently on weekends, so check the schedule.",
+          "City buses are often free to use on Saturdays."
+        ]
+      }
+    }
+  }
+}

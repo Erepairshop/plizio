@@ -1,0 +1,1204 @@
+{
+  "city_id": "cognac",
+  "anchor": {
+    "name": "Cognac",
+    "coords": [
+      -0.33,
+      45.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ufer der Charente",
+            "hu": "Charente-part",
+            "ro": "Malurile Charentei",
+            "en": "Banks of the Charente"
+          },
+          "coords": [
+            -0.335,
+            45.697
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekter Start am Fluss, beobachten Sie die Gabarres-Boote.",
+            "hu": "Kiváló kezdőpont a folyónál, nézze meg a hagyományos bárkákat.",
+            "ro": "Punct perfect de plecare, admirați bărcile tradiționale Gabarres.",
+            "en": "Perfect start by the river, watch the traditional Gabarres boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cognac",
+            "hu": "Cognac vára",
+            "ro": "Castelul din Cognac",
+            "en": "Cognac Castle"
+          },
+          "coords": [
+            -0.34,
+            45.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Geburtsort von Franz I. und Sitz des Hauses Otard.",
+            "hu": "I. Ferenc király szülőhelye, ma az Otard ház székhelye.",
+            "ro": "Locul de naștere al lui Francisc I și sediul casei Otard.",
+            "en": "Birthplace of Francis I and home to the Otard cognac house."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Hennessy",
+            "hu": "Hennessy-ház",
+            "ro": "Casa Hennessy",
+            "en": "House of Hennessy"
+          },
+          "coords": [
+            -0.334,
+            45.696
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine Bootsfahrt über den Fluss ist oft Teil der Besichtigung.",
+            "hu": "A túra része gyakran egy rövid hajózás a folyón.",
+            "ro": "O plimbare cu barca peste râu face parte adesea din tur.",
+            "en": "A boat trip across the river is often part of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Cognac-Künste",
+            "hu": "Konyakművészetek Múzeuma",
+            "ro": "Muzeul Artelor Cognacului",
+            "en": "Museum of Cognac Arts"
+          },
+          "coords": [
+            -0.332,
+            45.696
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interaktives Museum über die Destillation und Fassbinderei.",
+            "hu": "Interaktív múzeum a lepárlásról és a hordókészítésről.",
+            "ro": "Muzeu interactiv despre distilare și fabricarea butoaielor.",
+            "en": "Interactive museum about distillation and barrel making."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Léger",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            -0.328,
+            45.694
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das romanische Portal aus dem 12. Jahrhundert.",
+            "hu": "Csodálja meg a 12. századi román stílusú kapuzatot.",
+            "ro": "Admirați portalul romanic din secolul al XII-lea.",
+            "en": "Admire the 12th-century Romanesque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Martell",
+            "hu": "Martell-ház",
+            "ro": "Casa Martell",
+            "en": "House of Martell"
+          },
+          "coords": [
+            -0.325,
+            45.694
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das älteste der großen Cognac-Häuser mit toller Dachbar.",
+            "hu": "A legidősebb nagy konyakház, kiváló tetőtéri bárral.",
+            "ro": "Cea mai veche dintre marile case de cognac, cu bar pe acoperiș.",
+            "en": "The oldest of the great cognac houses with a great rooftop bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Ier",
+            "hu": "I. Ferenc park",
+            "ro": "Parcul Francisc I",
+            "en": "François I Park"
+          },
+          "coords": [
+            -0.342,
+            45.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großzügiger Waldpark ideal für den Abendspaziergang.",
+            "hu": "Hatalmas erdei park, ideális esti sétához.",
+            "ro": "Parc forestier vast, ideal pentru o plimbare de seară.",
+            "en": "Vast forest park ideal for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Cognac an den malerischen Ufern der Charente, wo die Geschichte des weltberühmten Weinbrands begann. Der Vormittag steht im Zeichen des imposanten Schlosses und der traditionsreichen Häuser Hennessy und Martell. Nach einem Mittagessen in der Altstadt erkunden Sie die romanische Architektur der Kirche Saint-Léger und tauchen im Museum tiefer in die Kunst der Fassbinderei ein. Der Tag endet entspannt im weitläufigen Parc François Ier, der grünen Lunge der Stadt.",
+        "hu": "Kezdje a napot Cognac-ban a Charente festői partján, ahol a világhírű párlat története indult. A délelőtt az impozáns várkastély és a nagy múltú Hennessy és Martell házak jegyében telik. Az óvárosi ebéd után fedezze fel a Saint-Léger templom román kori építészetét, és merüljön el a kádármesterség titkaiban a múzeumban. A napot az I. Ferenc park tágas zöldjében zárhatja, amely a város tüdeje.",
+        "ro": "Începeți ziua în Cognac pe malurile pitorești ale râului Charente, unde a început istoria celebrului distilat. Dimineața este dedicată castelului impunător și caselor tradiționale Hennessy și Martell. După un prânz în centrul vechi, explorați arhitectura romanică a bisericii Saint-Léger și aprofundați arta fabricării butoaielor la muzeu. Ziua se încheie relaxat în vastul Parc François Ier, plămânul verde al orașului.",
+        "en": "Start your day in Cognac along the picturesque banks of the Charente, where the story of the world-famous spirit began. The morning is dedicated to the imposing castle and the historic houses of Hennessy and Martell. After lunch in the old town, explore the Romanesque architecture of Saint-Léger Church and dive deeper into the craft of cooperage at the museum. The day ends peacefully in the extensive François I Park, the city's green lung."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Lokaler Aperitif aus Traubensaft und Cognac-Eau-de-vie."
+          },
+          {
+            "name": "Restaurant Poulpette",
+            "tip": "Moderne französische Küche mit saisonalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Helyi aperitif szőlőléből és konyakpárlatból."
+          },
+          {
+            "name": "Restaurant Poulpette",
+            "tip": "Modern francia konyha szezonális alapanyagokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Aperitiv local din suc de struguri și cognac eau-de-vie."
+          },
+          {
+            "name": "Restaurant Poulpette",
+            "tip": "Bucătărie franceză modernă cu produse de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Local aperitif made from grape juice and cognac eau-de-vie."
+          },
+          {
+            "name": "Restaurant Poulpette",
+            "tip": "Modern French cuisine with seasonal products."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Public de Cognac",
+            "tip": "Ein ruhiger englischer Garten hinter dem Rathaus.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai Hennessy",
+            "tip": "Sonnenuntergang am Fluss mit Blick auf die Kalksteinhäuser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Public de Cognac",
+            "tip": "Csendes angolkert a városháza mögött.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai Hennessy",
+            "tip": "Naplemente a folyónál, kilátással a mészkőházakra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Public de Cognac",
+            "tip": "O grădină englezească liniștită în spatele primăriei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai Hennessy",
+            "tip": "Apus de soare pe râu cu vedere la casele din calcar.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Public de Cognac",
+            "tip": "A quiet English garden behind the town hall.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai Hennessy",
+            "tip": "Sunset by the river with views of the limestone houses.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Die Markthalle im Baltard-Stil für lokale Delikatessen."
+          },
+          {
+            "name": "Cognathèque",
+            "tip": "Die größte Auswahl an Cognacs unter einem Dach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Baltard-stílusú vásárcsarnok helyi finomságokkal."
+          },
+          {
+            "name": "Cognathèque",
+            "tip": "A konyakok legnagyobb választéka egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Piața acoperită în stil Baltard pentru delicatese locale."
+          },
+          {
+            "name": "Cognathèque",
+            "tip": "Cea mai mare selecție de cognac-uri sub un singur acoperiș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Couvert",
+            "tip": "The Baltard-style covered market for local delicacies."
+          },
+          {
+            "name": "Cognathèque",
+            "tip": "The largest selection of cognacs under one roof."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Distillery-Touren unbedingt im Voraus online.",
+          "Die Altstadt hat viele kopfsteingepflasterte Gassen, tragen Sie bequeme Schuhe.",
+          "Probieren Sie 'Angel's Share' – den schwarzen Pilz an den Wänden der Lagerhäuser.",
+          "Die meisten Museen schließen über Mittag zwischen 12 und 14 Uhr."
+        ],
+        "hu": [
+          "A lepárló-túrákat mindenképpen foglalja le előre online.",
+          "Az óváros sok macskaköves utcával rendelkezik, viseljen kényelmes cipőt.",
+          "Figyelje meg az 'Angyalok jussát' – a fekete gombát a raktárak falán.",
+          "A legtöbb múzeum zárva tart ebédidőben 12 és 14 óra között."
+        ],
+        "ro": [
+          "Rezervați tururile la distilerii neapărat în avans online.",
+          "Centrul vechi are multe străzi pavate, purtați pantofi confortabili.",
+          "Observați 'Angel's Share' – ciuperca neagră de pe pereții depozitelor.",
+          "Majoritatea muzeelor sunt închise la prânz între orele 12 și 14."
+        ],
+        "en": [
+          "Be sure to book distillery tours online in advance.",
+          "The old town has many cobblestone streets, wear comfortable shoes.",
+          "Look for the 'Angel's Share' – the black fungus on the warehouse walls.",
+          "Most museums close for lunch between 12 PM and 2 PM."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus Martell",
+            "hu": "Martell-ház",
+            "ro": "Casa Martell",
+            "en": "House of Martell"
+          },
+          "coords": [
+            -0.325,
+            45.694
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Früher Start bei Martell, um die Menschenmassen zu meiden.",
+            "hu": "Kezdjen korán a Martellnél, hogy elkerülje a tömeget.",
+            "ro": "Începeți devreme la Martell pentru a evita mulțimea.",
+            "en": "Start early at Martell to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Léger",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            -0.328,
+            45.694
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Zentrum, bevor es zum Fluss geht.",
+            "hu": "Rövid megálló a központban, mielőtt a folyóhoz indulna.",
+            "ro": "Scurtă oprire în centru înainte de a merge la râu.",
+            "en": "Short stop in the center before heading to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            -0.329,
+            45.696
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In einem schönen Herrenhaus gelegen, zeigt lokale Archäologie.",
+            "hu": "Gyönyörű kúriában található, helyi régészetet mutat be.",
+            "ro": "Situat într-un conac frumos, prezintă arheologie locală.",
+            "en": "Located in a beautiful mansion, showcasing local archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Cognac-Künste",
+            "hu": "Konyakművészetek Múzeuma",
+            "ro": "Muzeul Artelor Cognacului",
+            "en": "Museum of Cognac Arts"
+          },
+          "coords": [
+            -0.332,
+            45.696
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt für das Verständnis der Produktion.",
+            "hu": "Központi helyszín a gyártási folyamat megértéséhez.",
+            "ro": "Punct central pentru înțelegerea procesului de producție.",
+            "en": "Central location for understanding the production process."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Hennessy",
+            "hu": "Hennessy-ház",
+            "ro": "Casa Hennessy",
+            "en": "House of Hennessy"
+          },
+          "coords": [
+            -0.334,
+            45.696
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckenden Keller am anderen Ufer.",
+            "hu": "Látogasson el a lenyűgöző pincékbe a túlparton.",
+            "ro": "Vizitați pivnițele impresionante de pe celălalt mal.",
+            "en": "Visit the impressive cellars on the other bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Charente",
+            "hu": "Charente-part",
+            "ro": "Malurile Charentei",
+            "en": "Banks of the Charente"
+          },
+          "coords": [
+            -0.335,
+            45.697
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Flusses auf dem Treidelpfad.",
+            "hu": "Kerékpározzon a folyó mentén a vontatóúton.",
+            "ro": "Mergeți cu bicicleta pe malul râului pe poteca de halaj.",
+            "en": "Cycle along the river on the towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cognac",
+            "hu": "Cognac vára",
+            "ro": "Castelul din Cognac",
+            "en": "Cognac Castle"
+          },
+          "coords": [
+            -0.34,
+            45.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die dicken Mauern beherbergen heute wertvolle Fässer.",
+            "hu": "A vastag falak ma értékes hordókat rejtenek.",
+            "ro": "Zidurile groase adăpostesc astăzi butoaie valoroase.",
+            "en": "The thick walls now house precious barrels."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Ier",
+            "hu": "I. Ferenc park",
+            "ro": "Parcul Francisc I",
+            "en": "François I Park"
+          },
+          "coords": [
+            -0.342,
+            45.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "19:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekte Wege für das Fahrrad durch den Wald.",
+            "hu": "Tökéletes kerékpárutak az erdőn keresztül.",
+            "ro": "Trasee perfecte pentru bicicletă prin pădure.",
+            "en": "Perfect cycling paths through the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Cognac wunderbar flexibel erkunden. Beginnen Sie bei Martell und fahren Sie durch das historische Zentrum zur Kirche Saint-Léger. Nach dem Besuch der beiden Museen für Kunst und konyak-Künste radeln Sie entlang der Charente. Die Tour führt Sie zum Schloss und schließlich tief in den Parc François Ier, wo Sie die weiten Alleen genießen können. Diese Route verbindet industrielle Industriegeschichte mit Naturerlebnissen.",
+        "hu": "Kerékpárral Cognac csodálatosan és rugalmasan felfedezhető. Kezdjen a Martellnél, majd tekerjen át a történelmi központon a Saint-Léger templomhoz. A művészeti és konyakművészeti múzeumok megtekintése után kerekezzen a Charente mentén. A túra érinti a várat, végül az I. Ferenc park mélyére vezet, ahol élvezheti a tágas sétányokat. Ez az útvonal ötvözi az ipari örökséget a természet közelségével.",
+        "ro": "Explorarea orașului Cognac cu bicicleta oferă o flexibilitate minunată. Începeți la Martell și pedalați prin centrul istoric către biserica Saint-Léger. După vizitarea celor două muzee de artă și de cognac, pedalați de-a lungul râului Charente. Turul vă duce la castel și, în final, adânc în parcul Francisc I, unde vă puteți bucura de aleile largi. Acest traseu combină istoria industrială cu experiențele în natură.",
+        "en": "Exploring Cognac by bike is wonderfully flexible. Start at Martell and ride through the historic center to Saint-Léger Church. After visiting the art and cognac museums, cycle along the Charente river. The tour takes you to the castle and finally deep into François I Park, where you can enjoy the wide avenues. This route combines industrial heritage with nature experiences."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cognac Summit Cocktail",
+            "tip": "Ein erfrischender lokaler Mix mit Ingwer und Limette."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cognac Summit koktél",
+            "tip": "Frissítő helyi keverék gyömbérrel és lime-mal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocktail Cognac Summit",
+            "tip": "Un amestec local răcoritor cu ghimbir și lămâie verde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cognac Summit Cocktail",
+            "tip": "A refreshing local mix with ginger and lime."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Base de Plein Air",
+            "tip": "Grünzone am Flussufer nördlich des Stadtzentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Base de Plein Air",
+            "tip": "Zöldövezet a folyóparton, a városközponttól északra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Base de Plein Air",
+            "tip": "Zonă verde pe malul râului la nord de centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Base de Plein Air",
+            "tip": "Green zone on the riverbank north of the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique Martell",
+            "tip": "Exklusive Editionen direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique Martell",
+            "tip": "Exkluzív kiadások közvetlenül a gyártótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Martell",
+            "tip": "Ediții exclusive direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique Martell",
+            "tip": "Exclusive editions straight from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrradverleih ist am Bahnhof oder im Tourismusbüro möglich.",
+          "Der Treidelpfad an der Charente ist flach und sehr gut befahrbar.",
+          "Achtung in den engen Gassen der Altstadt – Fußgänger haben Vorrang.",
+          "Schließen Sie Ihr Rad bei den Destillerie-Besuchen immer sicher ab."
+        ],
+        "hu": [
+          "Kerékpárkölcsönzés a vasútállomáson vagy a turisztikai irodában lehetséges.",
+          "A Charente menti vontatóút sík és nagyon jól biciklizhető.",
+          "Vigyázzon az óváros szűk utcáin – a gyalogosoknak elsőbbségük van.",
+          "A lepárló-látogatások alatt mindig zárja le biztonságosan a biciklit."
+        ],
+        "ro": [
+          "Închirierea de biciclete este posibilă la gară sau la biroul de turism.",
+          "Poteca de halaj de pe malul Charentei este plană și foarte ușor de parcurs.",
+          "Atenție în străzile înguste din centrul vechi – pietonii au prioritate.",
+          "Încuiați întotdeauna bicicleta în siguranță în timpul vizitelor la distilerii."
+        ],
+        "en": [
+          "Bike rentals are available at the station or the tourist office.",
+          "The towpath along the Charente is flat and very easy to ride.",
+          "Be careful in the narrow streets of the old town – pedestrians have priority.",
+          "Always lock your bike securely during distillery visits."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Léger",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            -0.328,
+            45.694
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Cluster A: Parken Sie am Place François Ier.",
+            "hu": "A klaszter: Parkoljon a Place François Ier téren.",
+            "ro": "Cluster A: Parcați în Place François Ier.",
+            "en": "Cluster A: Park at Place François Ier."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Cognac-Künste",
+            "hu": "Konyakművészetek Múzeuma",
+            "ro": "Muzeul Artelor Cognacului",
+            "en": "Museum of Cognac Arts"
+          },
+          "coords": [
+            -0.332,
+            45.696
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Cluster A: Kurzer Fußweg durch die Altstadt.",
+            "hu": "A klaszter: Rövid séta az óvároson keresztül.",
+            "ro": "Cluster A: Scurtă plimbare prin centrul vechi.",
+            "en": "Cluster A: Short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cognac",
+            "hu": "Cognac vára",
+            "ro": "Castelul din Cognac",
+            "en": "Cognac Castle"
+          },
+          "coords": [
+            -0.34,
+            45.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Cluster A: Letzter Halt vor dem Wechsel des Parkplatzes.",
+            "hu": "A klaszter: Utolsó állomás a parkolóhely váltása előtt.",
+            "ro": "Cluster A: Ultima oprire înainte de a schimba parcarea.",
+            "en": "Cluster A: Last stop before changing parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Hennessy",
+            "hu": "Hennessy-ház",
+            "ro": "Casa Hennessy",
+            "en": "House of Hennessy"
+          },
+          "coords": [
+            -0.334,
+            45.696
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Cluster B: Parken Sie in der Nähe der Quai Hennessy.",
+            "hu": "B klaszter: Parkoljon a Quai Hennessy közelében.",
+            "ro": "Cluster B: Parcați în apropiere de Quai Hennessy.",
+            "en": "Cluster B: Park near Quai Hennessy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Charente",
+            "hu": "Charente-part",
+            "ro": "Malurile Charentei",
+            "en": "Banks of the Charente"
+          },
+          "coords": [
+            -0.335,
+            45.697
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Cluster B: Genießen Sie den Flussblick zu Fuß.",
+            "hu": "B klaszter: Élvezze a folyóra nyíló kilátást gyalog.",
+            "ro": "Cluster B: Bucurați-vă de vederea la râu pe jos.",
+            "en": "Cluster B: Enjoy the river view on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Martell",
+            "hu": "Martell-ház",
+            "ro": "Casa Martell",
+            "en": "House of Martell"
+          },
+          "coords": [
+            -0.325,
+            45.694
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Cluster C: Separates Parken direkt bei Martell möglich.",
+            "hu": "C klaszter: Külön parkolás közvetlenül a Martellnél lehetséges.",
+            "ro": "Cluster C: Parcare separată posibilă direct la Martell.",
+            "en": "Cluster C: Separate parking possible directly at Martell."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Ier",
+            "hu": "I. Ferenc park",
+            "ro": "Parcul Francisc I",
+            "en": "François I Park"
+          },
+          "coords": [
+            -0.342,
+            45.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Cluster D: Großer Parkplatz am Eingang des Waldes.",
+            "hu": "D klaszter: Nagy parkoló az erdő bejáratánál.",
+            "ro": "Cluster D: Parcare mare la intrarea în pădure.",
+            "en": "Cluster D: Large parking lot at the forest entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour ist in vier Cluster unterteilt, um Cognac effizient und ohne unnötige Parkplatzsuche zu erleben. Wir beginnen im historischen Kern (Cluster A) mit der Kirche und dem Schloss. Danach wechseln wir zum Flussufer (Cluster B) für Hennessy und die Charente-Promenade. Ein kurzer Sprung führt uns zum Haus Martell (Cluster C). Den Abschluss bildet der weite Parc François Ier (Cluster D), wo das Auto sicher am Waldrand parkt. So bleibt genug Zeit für ausführliche Verkostungen.",
+        "hu": "Ez az autós túra négy klaszterre oszlik, hogy hatékonyan és felesleges parkolóhely-keresés nélkül ismerje meg Cognac-ot. A történelmi magban kezdünk (A klaszter) a templommal és a várral. Ezután a folyópartra váltunk (B klaszter) a Hennessy és a Charente-sétány kedvéért. Egy rövid ugrás vezet a Martell-házhoz (C klaszter). A záró akkord a tágas I. Ferenc park (D klaszter), ahol az autó biztonságban parkol az erdő szélén. Így bőven marad idő a kóstolókra.",
+        "ro": "Acest tur auto este împărțit în patru clustere pentru a experimenta orașul Cognac eficient, fără a căuta inutil locuri de parcare. Începem în nucleul istoric (Cluster A) cu biserica și castelul. Apoi ne mutăm pe malul râului (Cluster B) pentru Hennessy și promenada Charente. O scurtă deplasare ne duce la casa Martell (Cluster C). Finalul este asigurat de vastul parc Francisc I (Cluster D), unde mașina rămâne în siguranță la marginea pădurii. Astfel rămâne destul timp pentru degustări detaliate.",
+        "en": "This car tour is divided into four clusters to experience Cognac efficiently without unnecessary parking searches. We start in the historic core (Cluster A) with the church and the castle. Then we move to the riverbank (Cluster B) for Hennessy and the Charente promenade. A short drive takes us to the House of Martell (Cluster C). The tour concludes in the wide François I Park (Cluster D), where the car is safely parked at the forest's edge. This leaves plenty of time for extensive tastings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant L'Atelier",
+            "tip": "Gourmet-Küche direkt gegenüber vom Haus Hennessy."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant L'Atelier",
+            "tip": "Gourmet konyha közvetlenül a Hennessy-házzal szemben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant L'Atelier",
+            "tip": "Bucătărie gourmet direct vis-à-vis de casa Hennessy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant L'Atelier",
+            "tip": "Gourmet cuisine directly opposite the House of Hennessy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bourg-Charente",
+            "tip": "Ein Nachbarort (10 Min. Fahrt) für ein stilles Picknick am Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bourg-Charente",
+            "tip": "Szomszédos falu (10 perc autóval) egy csendes folyóparti piknikhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bourg-Charente",
+            "tip": "Un sat vecin (10 min. cu mașina) pentru un picnic liniștit la râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bourg-Charente",
+            "tip": "A nearby village (10 min drive) for a quiet riverside picnic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cognac-Vinothèque",
+            "tip": "Ideal für den Weineinkauf per Auto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cognac-Vinothèque",
+            "tip": "Ideális borvásárláshoz autóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cognac-Vinothèque",
+            "tip": "Ideal pentru cumpărături de vinuri cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cognac-Vinothèque",
+            "tip": "Ideal for buying wine by car."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist samstags oft schwierig.",
+          "Denken Sie an die 0,5-Promille-Grenze in Frankreich nach den Tastings.",
+          "Nutzen Sie den großen Parkplatz 'Espace 3000' für Veranstaltungen.",
+          "Viele Einbahnstraßen in der Altstadt – vertrauen Sie Ihrem Navi."
+        ],
+        "hu": [
+          "A központban szombatonként gyakran nehéz a parkolás.",
+          "Ügyeljen a kóstolók után a franciaországi 0,5 ezrelékes alkoholkorlátra.",
+          "Rendezvények esetén használja az 'Espace 3000' nagy parkolót.",
+          "Sok az egyirányú utca az óvárosban – bízzon a navigációban."
+        ],
+        "ro": [
+          "Parcarea în centru este adesea dificilă sâmbăta.",
+          "Aveți grijă la limita de 0,5 la mie în Franța după degustări.",
+          "Folosiți parcarea mare 'Espace 3000' în timpul evenimentelor.",
+          "Multe străzi cu sens unic în centrul vechi – aveți încredere în GPS."
+        ],
+        "en": [
+          "Parking in the center is often difficult on Saturdays.",
+          "Keep in mind the 0.5 blood alcohol limit in France after tastings.",
+          "Use the large 'Espace 3000' parking lot during events.",
+          "Many one-way streets in the old town – trust your navigation."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Léger",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            -0.328,
+            45.694
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof (Gare) mit dem Transcom-Bus ins Zentrum.",
+            "hu": "A vasútállomástól (Gare) Transcom busszal a központba.",
+            "ro": "De la gară (Gare) cu autobuzul Transcom spre centru.",
+            "en": "From the station (Gare) take the Transcom bus to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            -0.329,
+            45.696
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Distrikt A: Kurzer Fußweg durch das Zentrum.",
+            "hu": "A körzet: Rövid séta a központon keresztül.",
+            "ro": "Districtul A: Scurtă plimbare prin centru.",
+            "en": "District A: Short walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Martell",
+            "hu": "Martell-ház",
+            "ro": "Casa Martell",
+            "en": "House of Martell"
+          },
+          "coords": [
+            -0.325,
+            45.694
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Distrikt A: Zu Fuß erreichbar.",
+            "hu": "A körzet: Gyalogosan elérhető.",
+            "ro": "Districtul A: Accesibil pe jos.",
+            "en": "District A: Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Hennessy",
+            "hu": "Hennessy-ház",
+            "ro": "Casa Hennessy",
+            "en": "House of Hennessy"
+          },
+          "coords": [
+            -0.334,
+            45.696
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Distrikt B: Nutzen Sie die Linie A zum Quai Hennessy.",
+            "hu": "B körzet: Használja az A vonalat a Quai Hennessy-ig.",
+            "ro": "Districtul B: Folosiți linia A până la Quai Hennessy.",
+            "en": "District B: Use Line A to Quai Hennessy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cognac",
+            "hu": "Cognac vára",
+            "ro": "Castelul din Cognac",
+            "en": "Cognac Castle"
+          },
+          "coords": [
+            -0.34,
+            45.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Distrikt B: Spaziergang am Flussufer zum Schloss.",
+            "hu": "B körzet: Séta a folyóparton a várig.",
+            "ro": "Districtul B: Plimbare pe malul râului până la castel.",
+            "en": "District B: Walk along the riverbank to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François Ier",
+            "hu": "I. Ferenc park",
+            "ro": "Parcul Francisc I",
+            "en": "François I Park"
+          },
+          "coords": [
+            -0.342,
+            45.702
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Distrikt B: Der Parkeingang liegt nah an der Endhaltestelle.",
+            "hu": "B körzet: A park bejárata közel van a végállomáshoz.",
+            "ro": "Districtul B: Intrarea în parc este aproape de capătul liniei.",
+            "en": "District B: The park entrance is near the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem lokalen Busnetz 'Transcom' lässt sich Cognac entspannt entdecken. Wir starten am Bahnhof und erkunden den Distrikt A (Zentrum) mit Martell und dem Kunstmuseum. Ein kurzer Bus-Hop bringt uns zum Distrikt B am Flussufer. Dort besuchen wir Hennessy und das historische Schloss, bevor wir den Tag im Parc François Ier ausklingen lassen. Diese Route ist perfekt für Bahnreisende, die ohne Auto mobil sein möchten.",
+        "hu": "A helyi 'Transcom' buszhálózattal Cognac kényelmesen felfedezhető. A vasútállomástól indulunk, és bejárjuk az A körzetet (központ) a Martellel és a művészeti múzeummal. Egy rövid buszos utazás visz át a B körzetbe, a folyópartra. Ott meglátogatjuk a Hennessy-házat és a történelmi várat, mielőtt az I. Ferenc parkban zárnánk a napot. Ez az útvonal tökéletes a vonattal érkezőknek, akik autó nélkül szeretnének mozogni.",
+        "ro": "Cu rețeaua locală de autobuze 'Transcom', Cognac poate fi descoperit relaxat. Începem de la gară și explorăm Districtul A (centru) cu Martell și muzeul de artă. O scurtă cursă cu autobuzul ne duce în Districtul B pe malul râului. Acolo vizităm Hennessy și castelul istoric, înainte de a încheia ziua în parcul Francisc I. Acest traseu este perfect pentru călătorii cu trenul care doresc să fie mobili fără mașină.",
+        "en": "With the local 'Transcom' bus network, Cognac can be discovered in a relaxed way. We start at the station and explore District A (center) with Martell and the art museum. A short bus hop takes us to District B on the riverbank. There we visit Hennessy and the historic castle before ending the day in François I Park. This route is perfect for train travelers who want to be mobile without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Louise",
+            "tip": "Legendäre Cocktailbar für Konyak-Kreationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Louise",
+            "tip": "Legendás koktélbár konyakos kreációkkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Louise",
+            "tip": "Bar de cocktailuri legendar pentru creații cu cognac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Louise",
+            "tip": "Legendary cocktail bar for cognac creations."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place de la Salle Verte",
+            "tip": "Ruhiger Platz am Flussufer mit Bänken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place de la Salle Verte",
+            "tip": "Csendes tér a folyóparton padokkal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place de la Salle Verte",
+            "tip": "Piață liniștită pe malul râului cu bănci.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place de la Salle Verte",
+            "tip": "Quiet square by the riverbank with benches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Aristide Briand",
+            "tip": "Die Haupteinkaufsstraße für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Aristide Briand",
+            "tip": "A fő bevásárlóutca helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Aristide Briand",
+            "tip": "Principala stradă comercială pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Aristide Briand",
+            "tip": "The main shopping street for local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Die Busfrequenz ist samstags geringer, prüfen Sie den Fahrplan.",
+          "Sonntags verkehren fast keine Busse in Cognac.",
+          "Vom Bahnhof zum Zentrum sind es ca. 15 Min. Fußweg, falls der Bus weg ist."
+        ],
+        "hu": [
+          "Jegyeket közvetlenül a sofőrnél lehet vásárolni.",
+          "Szombatonként ritkábban járnak a buszok, ellenőrizze a menetrendet.",
+          "Vasárnaponként szinte egyáltalán nincs buszközlekedés Cognac-ban.",
+          "A vasútállomástól a központ kb. 15 perc séta, ha elment a busz."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Frecvența autobuzelor este mai mică sâmbăta, verificați orarul.",
+          "Duminica aproape că nu circulă autobuze în Cognac.",
+          "De la gară până în centru sunt aprox. 15 min. de mers pe jos dacă pierdeți autobuzul."
+        ],
+        "en": [
+          "Tickets can be purchased directly from the driver.",
+          "Bus frequency is lower on Saturdays, check the timetable.",
+          "Almost no buses run in Cognac on Sundays.",
+          "It's about a 15-minute walk from the station to the center if you miss the bus."
+        ]
+      }
+    }
+  }
+}

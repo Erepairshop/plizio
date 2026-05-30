@@ -1,0 +1,1205 @@
+{
+  "city_id": "italy-benevento-cities-v2",
+  "anchor": {
+    "name": "Benevento",
+    "coords": [
+      14.7833,
+      41.1333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Benevent",
+            "hu": "Beneventói dóm",
+            "ro": "Catedrala din Benevento",
+            "en": "Benevento Cathedral"
+          },
+          "coords": [
+            14.7766,
+            41.1299
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte Bronzetür Janua Maior.",
+            "hu": "Nézze meg a híres Janua Maior bronzkaput.",
+            "ro": "Admirați faimoasa poartă de bronz Janua Maior.",
+            "en": "Admire the famous Janua Maior bronze door."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            14.7744,
+            41.1306
+          ],
+          "category": "theatres",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Akustik ist auch nach fast 2000 Jahren beeindruckend.",
+            "hu": "Az akusztika még közel 2000 év után is lenyűgöző.",
+            "ro": "Acustica este impresionantă chiar și după aproape 2000 de ani.",
+            "en": "The acoustics are impressive even after nearly 2000 years."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Leproso",
+            "hu": "Ponte Leproso híd",
+            "ro": "Podul Leproso",
+            "en": "Ponte Leproso"
+          },
+          "coords": [
+            14.7699,
+            41.1278
+          ],
+          "category": "bridges",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein wichtiger Punkt an der antiken Via Appia.",
+            "hu": "Az ókori Via Appia egyik fontos pontja.",
+            "ro": "Un punct important pe antica Via Appia.",
+            "en": "An important point on the ancient Via Appia."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen - Corso Garibaldi",
+            "hu": "Ebéd - Corso Garibaldi",
+            "ro": "Prânz - Corso Garibaldi",
+            "en": "Lunch - Corso Garibaldi"
+          },
+          "coords": [
+            14.778,
+            41.131
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie die handgemachte Scarpariello-Pasta.",
+            "hu": "Kóstolja meg a kézzel készült Scarpariello tésztát.",
+            "ro": "Încercați pastele Scarpariello făcute manual.",
+            "en": "Try the handmade Scarpariello pasta."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Sannio",
+            "hu": "Museo del Sannio",
+            "ro": "Muzeul Sannio",
+            "en": "Sannio Museum"
+          },
+          "coords": [
+            14.7794,
+            41.1312
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ägyptische Sektion des Isistempels.",
+            "hu": "Fedezze fel az Iszisz-templom egyiptomi szekcióját.",
+            "ro": "Descoperiți secțiunea egipteană a templului lui Isis.",
+            "en": "Discover the Egyptian section of the Temple of Isis."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Sofia",
+            "hu": "Szent Zsófia-templom",
+            "ro": "Biserica Santa Sofia",
+            "en": "Church of Santa Sofia"
+          },
+          "coords": [
+            14.7794,
+            41.1311
+          ],
+          "category": "churches",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit einzigartigem Kreuzgang.",
+            "hu": "UNESCO világörökség egyedülálló kolostorkerttel.",
+            "ro": "Patrimoniu UNESCO cu un claustru unic.",
+            "en": "UNESCO World Heritage site with a unique cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Hortus Conclusus",
+            "hu": "Hortus Conclusus",
+            "ro": "Hortus Conclusus",
+            "en": "Hortus Conclusus"
+          },
+          "coords": [
+            14.7797,
+            41.1309
+          ],
+          "category": "parks",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Open-Air-Museum des Künstlers Mimmo Paladino.",
+            "hu": "Mimmo Paladino művész szabadtéri múzeuma.",
+            "ro": "Un muzeu în aer liber al artistului Mimmo Paladino.",
+            "en": "An open-air museum by artist Mimmo Paladino."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajansbogen",
+            "hu": "Traianus-ív",
+            "ro": "Arcul lui Traian",
+            "en": "Arch of Trajan"
+          },
+          "coords": [
+            14.7816,
+            41.1324
+          ],
+          "category": "monuments",
+          "arrive_at": "18:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einer der am besten erhaltenen römischen Bögen.",
+            "hu": "Az egyik legjobb állapotban fennmaradt római diadalív.",
+            "ro": "Unul dintre cele mai bine conservate arcuri romane.",
+            "en": "One of the best-preserved Roman triumphal arches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Benevent zu Fuß, angefangen bei der majestätischen Kathedrale bis hin zum gut erhaltenen römischen Theater. Nach einem traditionellen Mittagessen tauchen Sie in die langobardische Geschichte in Santa Sofia ein und bewundern moderne Kunst im Hortus Conclusus. Der Tag endet am beeindruckenden Trajansbogen, einem Symbol der kaiserlichen Macht.",
+        "hu": "Fedezze fel Beneventót gyalogosan, a fenséges dómtól a kiváló állapotban lévő római színházig. Egy tradicionális ebéd után merüljön el a longobárd történelemben a Szent Zsófia-templomnál, és csodálja meg a modern művészetet a Hortus Conclususban. A nap a lenyűgöző Traianus-ívnél zárul, amely a császári hatalom egyik legszebb emléke.",
+        "ro": "Explorați Benevento la pas, începând de la catedrala maiestuoasă până la teatrul roman bine conservat. După un prânz tradițional, scufundați-vă în istoria longobardă la Santa Sofia și admirați arta modernă în Hortus Conclusus. Ziua se încheie la impresionantul Arc al lui Traian, un simbol al puterii imperiale.",
+        "en": "Explore Benevento on foot, starting from the majestic Cathedral to the well-preserved Roman Theatre. After a traditional lunch, immerse yourself in Lombard history at Santa Sofia and admire modern art in the Hortus Conclusus. The day ends at the impressive Arch of Trajan, one of the finest monuments of the Roman Empire."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasta allo Scarpariello",
+            "tip": "Scharfe Tomatensauce mit Käse."
+          },
+          {
+            "name": "Liquore Strega",
+            "tip": "Der berühmte Kräuterlikör der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasta allo Scarpariello",
+            "tip": "Csípős paradicsomszósz sajttal."
+          },
+          {
+            "name": "Liquore Strega",
+            "tip": "A város híres gyógynövénylikőrje."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasta allo Scarpariello",
+            "tip": "Sos de roșii picant cu brânză."
+          },
+          {
+            "name": "Liquore Strega",
+            "tip": "Slăvitul lichior de plante al orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasta allo Scarpariello",
+            "tip": "Spicy tomato sauce with cheese."
+          },
+          {
+            "name": "Strega Liqueur",
+            "tip": "The city's famous herbal liqueur."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hortus Conclusus",
+            "tip": "Ein friedlicher Garten voller Kunst.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hortus Conclusus",
+            "tip": "Békés kert tele modern művészettel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hortus Conclusus",
+            "tip": "O grădină liniștită plină de artă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hortus Conclusus",
+            "tip": "A peaceful garden filled with art.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strega Alberti",
+            "tip": "Kaufen Sie Torrone und Liköre am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strega Alberti",
+            "tip": "Vásároljon torronét és likőrt az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strega Alberti",
+            "tip": "Cumpărați torrone și lichioruri de la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strega Alberti",
+            "tip": "Buy torrone and liqueurs near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Der Corso Garibaldi ist ideal für die Abend-Passeggiata."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A Corso Garibaldi ideális az esti sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Corso Garibaldi este ideal pentru promenada de seară."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Corso Garibaldi is ideal for the evening stroll."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Trajansbogen",
+            "hu": "Traianus-ív",
+            "ro": "Arcul lui Traian",
+            "en": "Arch of Trajan"
+          },
+          "coords": [
+            14.7816,
+            41.1324
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier für tolle Fotos.",
+            "hu": "Kezdje itt a napot a legjobb fotókért.",
+            "ro": "Începeți aici pentru fotografii grozave.",
+            "en": "Start here for great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Sofia",
+            "hu": "Szent Zsófia-templom",
+            "ro": "Biserica Santa Sofia",
+            "en": "Church of Santa Sofia"
+          },
+          "coords": [
+            14.7794,
+            41.1311
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und den Kreuzgang besuchen.",
+            "hu": "Tegye le a biciklit és nézze meg a kerengőt.",
+            "ro": "Lăsați bicicleta și vizitați claustrul.",
+            "en": "Park your bike and visit the cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca dei Rettori",
+            "hu": "Rocca dei Rettori",
+            "ro": "Rocca dei Rettori",
+            "en": "Rocca dei Rettori"
+          },
+          "coords": [
+            14.7826,
+            41.1301
+          ],
+          "category": "castles",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick über das Tal vom Schlossgarten.",
+            "hu": "Kilátás a völgyre a kastélykertből.",
+            "ro": "Vedere peste vale din grădina castelului.",
+            "en": "View over the valley from the castle garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Hortus Conclusus",
+            "hu": "Hortus Conclusus",
+            "ro": "Hortus Conclusus",
+            "en": "Hortus Conclusus"
+          },
+          "coords": [
+            14.7797,
+            41.1309
+          ],
+          "category": "parks",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kleine Pause.",
+            "hu": "Csendes hely egy rövid pihenőhöz.",
+            "ro": "Un loc liniștit pentru o scurtă pauză.",
+            "en": "A quiet place for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.776,
+            41.1305
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Wurstwaren.",
+            "hu": "Kóstolja meg a helyi felvágottakat.",
+            "ro": "Încercați mezelurile locale.",
+            "en": "Try local cured meats."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            14.7744,
+            41.1306
+          ],
+          "category": "theatres",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie.",
+            "en": "A must-see for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Beneventói dóm",
+            "hu": "Beneventói dóm",
+            "ro": "Catedrala",
+            "en": "Duomo"
+          },
+          "coords": [
+            14.7766,
+            41.1299
+          ],
+          "category": "cathedral",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das unterirdische Museum.",
+            "hu": "Látogassa meg a föld alatti múzeumot.",
+            "ro": "Vizitați muzeul subteran.",
+            "en": "Visit the underground museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Leproso",
+            "hu": "Ponte Leproso",
+            "ro": "Podul Leproso",
+            "en": "Ponte Leproso"
+          },
+          "coords": [
+            14.7699,
+            41.1278
+          ],
+          "category": "bridges",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrt entlang der antiken Stadtmauer.",
+            "hu": "Biciklizzen az ókori városfal mentén.",
+            "ro": "Mergeți cu bicicleta pe lângă zidurile cetății.",
+            "en": "Bike along the ancient city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Benevent flexibel erkunden. Von den römischen Monumenten im Zentrum bis zu den weiten Ausblicken an der Rocca dei Rettori bietet die Stadt eine angenehme Mischung aus Kultur und Bewegung. Der Weg führt entlang historischer Pfade zur malerischen Ponte Leproso.",
+        "hu": "Biciklivel rugalmasan fedezheti fel Beneventót. A központ római emlékeitől a Rocca dei Rettori kilátásáig a város a kultúra és a mozgás kellemes keverékét kínálja. Az út történelmi ösvényeken vezet a festői Ponte Leproso hídig.",
+        "ro": "Cu bicicleta puteți explora Benevento în mod flexibil. De la monumentele romane din centru până la panoramele de la Rocca dei Rettori, orașul oferă un amestec plăcut de cultură și mișcare. Traseul trece pe poteci istorice până la pitorescul pod Leproso.",
+        "en": "Explore Benevento flexibly by bike. From the Roman monuments in the center to the wide views at Rocca dei Rettori, the city offers a pleasant mix of culture and activity. The route takes you along historical paths to the picturesque Ponte Leproso bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caciocavallo Silano",
+            "tip": "Hängender Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caciocavallo Silano",
+            "tip": "Regionális, függesztett sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caciocavallo Silano",
+            "tip": "Brânză regională maturată la înălțime."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caciocavallo Silano",
+            "tip": "Regional hanging cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Ein schöner öffentlicher Park.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Szép közpark a kikapcsolódáshoz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Comunale",
+            "tip": "Un parc public frumos.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Comunale",
+            "tip": "A beautiful public park.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frische Produkte am Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss termékek délelőttönként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Produse proaspete în cursul dimineții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Fresh produce in the mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Gassen sind steil, seien Sie vorbereitet.",
+          "Nutzen Sie den Fahrradweg entlang des Flusses."
+        ],
+        "hu": [
+          "Néhány utca meredek, készüljön fel.",
+          "Használja a folyó menti kerékpárutat."
+        ],
+        "ro": [
+          "Unele străzi sunt abrupte, fiți pregătiți.",
+          "Folosiți pista de biciclete de-a lungul râului."
+        ],
+        "en": [
+          "Some alleys are steep, be prepared.",
+          "Use the bike path along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster A: UNESCO-Zentrum",
+            "hu": "Cluster A: UNESCO központ",
+            "ro": "Cluster A: Centrul UNESCO",
+            "en": "Cluster A: UNESCO Center"
+          },
+          "coords": [
+            14.7794,
+            41.1311
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Piazza Castello.",
+            "hu": "Parkoljon a Piazza Castellónál.",
+            "ro": "Parcați în Piazza Castello.",
+            "en": "Park at Piazza Castello."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Sannio",
+            "hu": "Museo del Sannio",
+            "ro": "Muzeul Sannio",
+            "en": "Sannio Museum"
+          },
+          "coords": [
+            14.7794,
+            41.1312
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajansbogen",
+            "hu": "Traianus-ív",
+            "ro": "Arcul lui Traian",
+            "en": "Arch of Trajan"
+          },
+          "coords": [
+            14.7816,
+            41.1324
+          ],
+          "category": "monuments",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch den Corso.",
+            "hu": "Rövid séta a Corsón keresztül.",
+            "ro": "O scurtă plimbare prin Corso.",
+            "en": "A short walk through the Corso."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster B: Römisches Viertel",
+            "hu": "Cluster B: Római negyed",
+            "ro": "Cluster B: Cartierul Roman",
+            "en": "Cluster B: Roman Quarter"
+          },
+          "coords": [
+            14.7744,
+            41.1306
+          ],
+          "category": "theatres",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Theaters.",
+            "hu": "Parkoljon a színház közelében.",
+            "ro": "Parcați lângă teatru.",
+            "en": "Park near the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.776,
+            41.13
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in der Altstadt.",
+            "hu": "Élvezze az óváros nyugalmát.",
+            "ro": "Bucurați-vă de liniștea centrului vechi.",
+            "en": "Enjoy the quiet of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Benevento",
+            "hu": "Beneventói dóm",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            14.7766,
+            41.1299
+          ],
+          "category": "cathedral",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie die Fassade aus dem 12. Jh.",
+            "hu": "Nézze meg a 12. századi homlokzatot.",
+            "ro": "Vedeți fațada din secolul XII.",
+            "en": "See the 12th-century facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster C: Flusslandschaft",
+            "hu": "Cluster C: Folyópart",
+            "ro": "Cluster C: Malul râului",
+            "en": "Cluster C: Riverfront"
+          },
+          "coords": [
+            14.7699,
+            41.1278
+          ],
+          "category": "bridges",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blick auf den Fluss Sabato.",
+            "hu": "Kilátás a Sabato folyóra.",
+            "ro": "Vedere către râul Sabato.",
+            "en": "View of the Sabato river."
+          }
+        },
+        {
+          "name": {
+            "de": "Montevergine Blick",
+            "hu": "Montevergine kilátás",
+            "ro": "Vedere Montevergine",
+            "en": "Montevergine View"
+          },
+          "coords": [
+            14.78,
+            41.125
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Panoráma auf die umliegenden Berge.",
+            "hu": "Panoráma a környező hegyekre.",
+            "ro": "Panoramă asupra munților din jur.",
+            "en": "Panorama of the surrounding mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die wichtigsten historischen Viertel von Benevent. Wir konzentrieren uns auf drei Cluster: das UNESCO-Zentrum, das römische Viertel und die ruhige Flusslandschaft. So vermeiden Sie Parkplatzsorgen und erkunden die Viertel entspannt zu Fuß.",
+        "hu": "Ez az autós túra Benevento legfontosabb történelmi negyedeit köti össze. Három klaszterre koncentrálunk: az UNESCO központra, a római negyedre és a csendes folyópartra. Így elkerülheti a parkolási gondokat, és gyalogosan is felfedezheti a környéket.",
+        "ro": "Acest tur auto leagă cele mai importante cartiere istorice din Benevento. Ne concentrăm pe trei clustere: centrul UNESCO, cartierul roman și zona liniștită a râului. Astfel, evitați grijile legate de parcare și explorați zonele relaxat, pe jos.",
+        "en": "This car tour connects Benevento's most important historical districts. We focus on three clusters: the UNESCO center, the Roman quarter, and the peaceful riverfront. This way, you can avoid parking issues and explore the neighborhoods comfortably on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cardone",
+            "tip": "Traditionelle Gemüsesuppe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cardone",
+            "tip": "Hagyományos zöldségleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cardone",
+            "tip": "Supă tradițională de legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cardone",
+            "tip": "Traditional vegetable soup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Sabato",
+            "tip": "Ruhiger Ort am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sabato folyópart",
+            "tip": "Csendes vízparti hely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sabato",
+            "tip": "Loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sabato Riverbank",
+            "tip": "Quiet spot by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Mode und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Divat és helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Modă și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Garibaldi",
+            "tip": "Fashion and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "ZTL-Zonen im Stadtzentrum beachten.",
+          "Piazza Castello bietet gute Parkmöglichkeiten."
+        ],
+        "hu": [
+          "Ügyeljen a belvárosi ZTL zónákra.",
+          "A Piazza Castello jó parkolási lehetőségeket kínál."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL din centrul orașului.",
+          "Piazza Castello oferă opțiuni bune de parcare."
+        ],
+        "en": [
+          "Be careful with ZTL zones in the city center.",
+          "Piazza Castello offers good parking options."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Dóm",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            14.7766,
+            41.1299
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof mit dem Bus erreichbar.",
+            "hu": "A vasútállomástól busszal elérhető.",
+            "ro": "Accesibil cu autobuzul de la gară.",
+            "en": "Accessible by bus from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            14.7744,
+            41.1306
+          ],
+          "category": "theatres",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Dom.",
+            "hu": "Rövid séta a dómtól.",
+            "ro": "O scurtă plimbare de la catedrală.",
+            "en": "A short walk from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.778,
+            41.131
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bus in Richtung Corso Garibaldi.",
+            "hu": "Busz a Corso Garibaldi irányába.",
+            "ro": "Autobuz către Corso Garibaldi.",
+            "en": "Bus towards Corso Garibaldi."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Sofia Komplex",
+            "hu": "Szent Zsófia komplexum",
+            "ro": "Complexul Santa Sofia",
+            "en": "Santa Sofia Complex"
+          },
+          "coords": [
+            14.7794,
+            41.1311
+          ],
+          "category": "churches",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inklusive Museo del Sannio.",
+            "hu": "A Museo del Sanniót is tartalmazza.",
+            "ro": "Include Muzeul Sannio.",
+            "en": "Includes the Sannio Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajansbogen",
+            "hu": "Traianus-ív",
+            "ro": "Arcul lui Traian",
+            "en": "Arch of Trajan"
+          },
+          "coords": [
+            14.7816,
+            41.1324
+          ],
+          "category": "monuments",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Stolz der Stadt.",
+            "hu": "A város büszkesége.",
+            "ro": "Mândria orașului.",
+            "en": "The pride of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca dei Rettori",
+            "hu": "Rocca dei Rettori",
+            "ro": "Rocca dei Rettori",
+            "en": "Rocca dei Rettori"
+          },
+          "coords": [
+            14.7826,
+            41.1301
+          ],
+          "category": "castles",
+          "arrive_at": "16:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kulturelles Zentrum im Schloss.",
+            "hu": "Kulturális központ a kastélyban.",
+            "ro": "Centru cultural în castel.",
+            "en": "Cultural center inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso Shopping",
+            "hu": "Vásárlás a Corsón",
+            "ro": "Cumpărături pe Corso",
+            "en": "Corso Shopping"
+          },
+          "coords": [
+            14.78,
+            41.131
+          ],
+          "category": "shopping",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzte Souvenirs vor der Rückfahrt.",
+            "hu": "Utolsó szuvenírek a visszaindulás előtt.",
+            "ro": "Ultimele suveniruri înainte de plecare.",
+            "en": "Last souvenirs before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Busnetz von Benevent, um die wichtigsten Monumente zu verbinden. Beginnen Sie im religiösen Zentrum am Dom und fahren Sie weiter zum majestätischen Santa Sofia Komplex. Ein Spaziergang über den Corso bringt Sie zum Trajansbogen und schließlich zur Rocca, bevor Sie den Abend gemütlich ausklingen lassen.",
+        "hu": "Használja Benevento buszhálózatát a főbb műemlékek összekötéséhez. Kezdjen a vallási központban a dómnál, majd folytassa a fenséges Szent Zsófia komplexummal. Egy séta a Corsón elvezeti a Traianus-ívhez és végül a Rocccához, mielőtt kellemesen zárná az estét.",
+        "ro": "Folosiți rețeaua de autobuze din Benevento pentru a lega principalele monumente. Începeți în centrul religios la catedrală, apoi continuați cu maiestuosul complex Santa Sofia. O plimbare pe Corso vă va duce la Arcul lui Traian și în cele din urmă la Rocca, înainte de a încheia seara într-un mod plăcut.",
+        "en": "Use Benevento's bus network to connect the main monuments. Start at the religious center by the Cathedral, then continue to the majestic Santa Sofia complex. A stroll along the Corso takes you to the Arch of Trajan and finally to the Rocca, before ending the evening pleasantly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizza Sannita",
+            "tip": "Mit lokalen Zutaten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizza Sannita",
+            "tip": "Helyi alapanyagokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza Sannita",
+            "tip": "Cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizza Sannita",
+            "tip": "With local ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chiostro di Santa Sofia",
+            "tip": "Ein Ort der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Zsófia kerengő",
+            "tip": "A csend és nyugalom helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Santa Sofia",
+            "tip": "Un loc al liniștii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santa Sofia Cloister",
+            "tip": "A place of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Botteghe Storiche",
+            "tip": "Traditionelle Handwerksläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botteghe Storiche",
+            "tip": "Hagyományos kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Botteghe Storiche",
+            "tip": "Magazine de meșteșuguri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Botteghe Storiche",
+            "tip": "Traditional craft shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabacchi.",
+          "Die Linien 1 und 2 verbinden die wichtigsten Punkte."
+        ],
+        "hu": [
+          "Vegye meg előre a buszjegyeket a trafikban (Tabacchi).",
+          "Az 1-es és 2-es vonalak kötik össze a főbb pontokat."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la Tabacchi.",
+          "Liniile 1 și 2 leagă punctele principale."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a Tabacchi shop.",
+          "Lines 1 and 2 connect the main spots."
+        ]
+      }
+    }
+  }
+}

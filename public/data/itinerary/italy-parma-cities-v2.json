@@ -1,0 +1,1090 @@
+{
+  "city_id": "italy-parma-cities-v2",
+  "anchor": {
+    "name": "Piazza Garibaldi",
+    "coords": [
+      10.3279,
+      44.8015
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Garibaldi",
+            "hu": "Piazza Garibaldi",
+            "ro": "Piazza Garibaldi",
+            "en": "Piazza Garibaldi"
+          },
+          "coords": [
+            10.3279,
+            44.8015
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie Ihren ersten Espresso unter dem Blick der Statue von Garibaldi.",
+            "hu": "Igya meg az első eszpresszóját Garibaldi szobrának lábánál.",
+            "ro": "Savurați primul espresso sub privirea statuii lui Garibaldi.",
+            "en": "Sip your first espresso under the gaze of Garibaldi's statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Regio",
+            "hu": "Teatro Regio",
+            "ro": "Teatro Regio",
+            "en": "Teatro Regio"
+          },
+          "coords": [
+            10.328,
+            44.8018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldete Pracht dieses weltberühmten Opernhauses.",
+            "hu": "Csodálja meg e világhírű operaház aranyozott pompáját.",
+            "ro": "Admirați splendoarea aurită a acestei opere de renume mondial.",
+            "en": "Admire the gilded splendor of this world-renowned opera house."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo della Pilotta & Teatro Farnese",
+            "hu": "Palazzo della Pilotta és Teatro Farnese",
+            "ro": "Palazzo della Pilotta și Teatro Farnese",
+            "en": "Palazzo della Pilotta & Teatro Farnese"
+          },
+          "coords": [
+            10.3265,
+            44.8044
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das hölzerne Theater im Inneren ist ein architektonisches Wunderwerk.",
+            "hu": "A belső fából készült színház egy építészeti csoda.",
+            "ro": "Teatrul de lemn din interior este o minune arhitecturală.",
+            "en": "The wooden theatre inside is an architectural marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            10.3285,
+            44.8025
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Tortelli d'erbetta mit viel geschmolzener Butter.",
+            "hu": "Kóstolja meg a Tortelli d'erbetta-t sok olvasztott vajjal.",
+            "ro": "Gustați Tortelli d'erbetta cu mult unt topit.",
+            "en": "Try the Tortelli d'erbetta with plenty of melted butter."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Parma",
+            "hu": "Pármai dóm",
+            "ro": "Catedrala din Parma",
+            "en": "Parma Cathedral"
+          },
+          "coords": [
+            10.3304,
+            44.8031
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie nach oben, um Correggios schwindelerregende Kuppelfresken zu sehen.",
+            "hu": "Nézzen fel Correggio szédületes kupolafreskóira.",
+            "ro": "Priviți în sus la frescele amețitoare ale cupolei lui Correggio.",
+            "en": "Look up to see Correggio’s dizzying dome frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero di Parma",
+            "hu": "Pármai keresztelőkápolna",
+            "ro": "Baptisteriul din Parma",
+            "en": "Parma Baptistery"
+          },
+          "coords": [
+            10.3301,
+            44.803
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die rosa Marmorfassade wechselt je nach Licht die Farbe.",
+            "hu": "A rózsaszín márványhomlokzat a fényviszonyoktól függően változtatja színét.",
+            "ro": "Fațada din marmură roz își schimbă culoarea în funcție de lumină.",
+            "en": "The pink marble facade changes color depending on the light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Ducale",
+            "hu": "Parco Ducale",
+            "ro": "Parco Ducale",
+            "en": "Parco Ducale"
+          },
+          "coords": [
+            10.3215,
+            44.8048
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang am See dieses herzoglichen Gartens.",
+            "hu": "Zárja a napot egy sétával a hercegi kert tava mellett.",
+            "ro": "Încheiați ziua cu o plimbare pe lângă lacul acestei grădini ducale.",
+            "en": "End the day with a stroll by the lake of this ducal garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parma ist ein Fest für die Sinne. Ihr Spaziergang beginnt im eleganten Zentrum am Piazza Garibaldi und führt Sie zur Operntradition des Teatro Regio. Der Vormittag gehört dem gewaltigen Pilotta-Komplex. Nach einem herzhaften Mittagessen mit lokalem Schinken und Käse bestaunen Sie die Renaissance-Meisterwerke im Dom. Der Tag endet entspannt im weitläufigen Parco Ducale.",
+        "hu": "Parma az érzékek ünnepe. Sétája az elegáns Piazza Garibaldi téren kezdődik, majd a Teatro Regio operahagyományaihoz vezet. A délelőtt a hatalmas Pilotta-komplexumé. Egy kiadós, helyi sonkával és sajttal fűszerezett ebéd után a dóm reneszánsz remekműveit csodálhatja meg. A napot a tágas Parco Ducale nyugalmában zárhatja.",
+        "ro": "Parma este un festin pentru simțuri. Plimbarea începe în centrul elegant de la Piazza Garibaldi și vă conduce către tradiția operei de la Teatro Regio. Dimineața este dedicată masivului complex Pilotta. După un prânz copios cu șuncă și brânză locală, admirați capodoperele renascentiste din Dom. Ziua se încheie relaxat în vastul Parco Ducale.",
+        "en": "Parma is a feast for the senses. Your walk begins in the elegant Piazza Garibaldi and leads to the operatic traditions of Teatro Regio. The morning is dedicated to the massive Pilotta complex. After a hearty lunch featuring local ham and cheese, marvel at the Renaissance masterpieces in the Duomo. The day ends peacefully in the sprawling Parco Ducale."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria del Tribunale",
+            "tip": "Hausgemachte Pasta und eine Auswahl der besten lokalen Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria del Tribunale",
+            "tip": "Házias tészták és a legjobb helyi felvágottak válogatása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria del Tribunale",
+            "tip": "Paste de casă și o selecție a celor mai bune mezeluri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria del Tribunale",
+            "tip": "Homemade pasta and a selection of the best local cured meats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orto Botanico di Parma",
+            "tip": "Ein versteckter grüner Rückzugsort nahe dem Zentrum.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orto Botanico di Parma",
+            "tip": "Egy rejtett zöld menedék a központ közelében.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orto Botanico di Parma",
+            "tip": "O oază verde ascunsă aproape de centru.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orto Botanico di Parma",
+            "tip": "A hidden green retreat near the center.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Prosciutteria",
+            "tip": "Der perfekte Ort, um vakuumverpackten Parmaschinken als Souvenir zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Prosciutteria",
+            "tip": "Tökéletes hely vákuumcsomagolt pármai sonka vásárlásához szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Prosciutteria",
+            "tip": "Locul perfect pentru a cumpăra șuncă de Parma ambalată sub vid ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Prosciutteria",
+            "tip": "The perfect place to buy vacuum-packed Parma ham as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parma ist sehr flach und ideal zum Wandern.",
+          "Reservieren Sie das Mittagessen am Wochenende im Voraus.",
+          "Kaufen Sie ein Kombiticket für die Pilotta-Museen."
+        ],
+        "hu": [
+          "Párma nagyon sík, így ideális a gyalogos felfedezéshez.",
+          "Hétvégén érdemes előre asztalt foglalni ebédre.",
+          "Vegyen kombinált jegyet a Pilotta múzeumaiba."
+        ],
+        "ro": [
+          "Parma este foarte plată și ideală pentru plimbări.",
+          "Rezervați prânzul în avans în timpul weekendului.",
+          "Cumpărați un bilet combinat pentru muzeele Pilotta."
+        ],
+        "en": [
+          "Parma is very flat and ideal for walking.",
+          "Book lunch in advance during weekends.",
+          "Buy a combined ticket for the Pilotta museums."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo & Battistero",
+            "hu": "Dóm és Keresztelőkápolna",
+            "ro": "Domul și Baptisteriul",
+            "en": "Duomo & Baptistery"
+          },
+          "coords": [
+            10.3304,
+            44.8031
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Rand des Platzes.",
+            "hu": "Parkolja le biciklijét biztonságosan a tér szélén.",
+            "ro": "Parcați bicicleta în siguranță la marginea pieței.",
+            "en": "Park your bike safely at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Evangelista",
+            "hu": "Szent János-evangélista templom",
+            "ro": "San Giovanni Evangelista",
+            "en": "San Giovanni Evangelista"
+          },
+          "coords": [
+            10.3312,
+            44.8032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Apotheke im Kloster nebenan.",
+            "hu": "Látogassa meg a történelmi patikát a szomszédos kolostorban.",
+            "ro": "Vizitați farmacia istorică din mănăstirea de alături.",
+            "en": "Visit the historic pharmacy in the monastery next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo della Pilotta",
+            "hu": "Palazzo della Pilotta",
+            "ro": "Palazzo della Pilotta",
+            "en": "Palazzo della Pilotta"
+          },
+          "coords": [
+            10.3265,
+            44.8044
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Farnese-Theater ist fast vollständig aus Holz gebaut.",
+            "hu": "A Farnese-színház szinte teljesen fából épült.",
+            "ro": "Teatrul Farnese este construit aproape în întregime din lemn.",
+            "en": "The Farnese Theatre is built almost entirely of wood."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Oltretorrente",
+            "hu": "Ebéd az Oltretorrente negyedben",
+            "ro": "Prânz în Oltretorrente",
+            "en": "Lunch in Oltretorrente"
+          },
+          "coords": [
+            10.318,
+            44.8035
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein authentischeres Viertel mit tollen kleinen Gasthäusern.",
+            "hu": "Egy autentikusabb negyed remek kis vendéglőkkel.",
+            "ro": "Un cartier mai autentic, cu mici hanuri grozave.",
+            "en": "A more authentic neighborhood with great small inns."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Ducale",
+            "hu": "Parco Ducale",
+            "ro": "Parco Ducale",
+            "en": "Parco Ducale"
+          },
+          "coords": [
+            10.3215,
+            44.8048
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radfahren ist auf den Hauptwegen dieses Parks erlaubt.",
+            "hu": "A kerékpározás megengedett a park fő útjain.",
+            "ro": "Ciclismul este permis pe aleile principale ale parcului.",
+            "en": "Cycling is allowed on the main paths of this park."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Maria della Steccata",
+            "hu": "Steccata-bazilika",
+            "ro": "Basilica di Santa Maria della Steccata",
+            "en": "Basilica di Santa Maria della Steccata"
+          },
+          "coords": [
+            10.3275,
+            44.802
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wunderschönen Fresken von Parmigianino.",
+            "hu": "Figyelje meg Parmigianino gyönyörű freskóit.",
+            "ro": "Observați frescele superbe ale lui Parmigianino.",
+            "en": "Observe the beautiful frescoes by Parmigianino."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss am Piazza Garibaldi",
+            "hu": "Zárás a Piazza Garibaldi-n",
+            "ro": "Final la Piazza Garibaldi",
+            "en": "End at Piazza Garibaldi"
+          },
+          "coords": [
+            10.3279,
+            44.8015
+          ],
+          "category": "square",
+          "arrive_at": "16:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Geben Sie Ihr Leihrad zurück und genießen Sie einen Aperitif.",
+            "hu": "Adja le a békelt biciklit és élvezze az aperitívet.",
+            "ro": "Returnați bicicleta închiriată și savurați un aperitiv.",
+            "en": "Return your rental bike and enjoy an aperitif."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Parma ist eine Stadt der Radfahrer. Auf zwei Rädern erreichen Sie mühelos das historische Zentrum und das alternative Oltretorrente-Viertel. Diese Route verbindet die Pracht des Doms mit der Weite des herzoglichen Parks und führt Sie zu versteckten kulinarischen Schätzen auf der anderen Seite des Flusses.",
+        "hu": "Párma a kerékpárosok városa. Két keréken könnyedén elérheti a történelmi központot és az alternatív Oltretorrente negyedet. Ez az útvonal ötvözi a dóm pompáját a hercegi park tágasságával, és elvezeti Önt a folyó túloldalán rejtőző gasztronómiai kincsekhez.",
+        "ro": "Parma este un oraș al bicicliștilor. Pe două roți, puteți ajunge fără efort în centrul istoric și în cartierul alternativ Oltretorrente. Acest traseu îmbină splendoarea Domului cu vastitatea parcului ducal și vă conduce către comori culinare ascunse de cealaltă parte a râului.",
+        "en": "Parma is a city of cyclists. On two wheels, you can effortlessly reach the historic center and the alternative Oltretorrente district. This route combines the grandeur of the Duomo with the spaciousness of the Ducal Park, leading you to hidden culinary gems on the other side of the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Osteria del 36",
+            "tip": "Traditionelle Gerichte in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osteria del 36",
+            "tip": "Hagyományos ételek hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osteria del 36",
+            "tip": "Mâncăruri tradiționale într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Osteria del 36",
+            "tip": "Traditional dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Cittadella",
+            "tip": "Eine alte Festung, die heute ein friedlicher Park ist.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Cittadella",
+            "tip": "Egy régi erődítmény, amely ma békés park.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Cittadella",
+            "tip": "O fostă fortăreață care acum este un parc liniștit.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Cittadella",
+            "tip": "An old fortress that is now a peaceful park.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strada della Repubblica",
+            "tip": "Die Haupteinkaufsstraße mit vielen italienischen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strada della Repubblica",
+            "tip": "A fő bevásárlóutca számos olasz márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada della Repubblica",
+            "tip": "Principala stradă comercială cu multe branduri italiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strada della Repubblica",
+            "tip": "The main shopping street with many Italian brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Hotels bieten kostenlose Leihräder an.",
+          "Achten Sie auf die Einbahnstraßen im Zentrum.",
+          "Vermeiden Sie das Radfahren auf dem Kopfsteinpflaster rund um den Dom."
+        ],
+        "hu": [
+          "Sok szálloda ingyenes bérbiciklit kínál.",
+          "Figyeljen az egyirányú utcákra a központban.",
+          "Kerülje a biciklizést a dóm körüli macskaköveken."
+        ],
+        "ro": [
+          "Multe hoteluri oferă biciclete de închiriat gratuit.",
+          "Atenție la străzile cu sens unic din centru.",
+          "Evitați să mergeți cu bicicleta pe piatra cubică din jurul Domului."
+        ],
+        "en": [
+          "Many hotels offer free rental bikes.",
+          "Watch out for one-way streets in the center.",
+          "Avoid cycling on the cobblestones around the Cathedral."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Cluster (Duomo/Pilotta)",
+            "hu": "Központ (Dóm/Pilotta)",
+            "ro": "Centru (Dom/Pilotta)",
+            "en": "Center Cluster (Duomo/Pilotta)"
+          },
+          "coords": [
+            10.33,
+            44.803
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Toschi und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a Toschi parkolóházban, és fedezze fel a központot gyalog.",
+            "ro": "Parcați în parcarea Toschi și explorați centrul pe jos.",
+            "en": "Park at Toschi parking garage and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Stadt",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            10.328,
+            44.802
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein letzter Genuss lokaler Delikatessen, bevor es aufs Land geht.",
+            "hu": "Utolsó helyi finomságok, mielőtt vidékre indulna.",
+            "ro": "O ultimă delectare cu delicatese locale înainte de a pleca la țară.",
+            "en": "One last indulgence in local delicacies before heading to the countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Torrechiara",
+            "hu": "Torrechiara vára",
+            "ro": "Castelul Torrechiara",
+            "en": "Torrechiara Castle"
+          },
+          "coords": [
+            10.2762,
+            44.6545
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.5,
+          "tip_5lang": {
+            "de": "Eines der besterhaltenen und romantischsten Schlösser Italiens.",
+            "hu": "Olaszország egyik legjobb állapotban maradt és legromantikusabb vára.",
+            "ro": "Unul dintre cele mai bine conservate și romantice castele din Italia.",
+            "en": "One of Italy's best-preserved and most romantic castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Torrechiara Dorfspaziergang",
+            "hu": "Séta Torrechiara falujában",
+            "ro": "Plimbare în satul Torrechiara",
+            "en": "Torrechiara Village Walk"
+          },
+          "coords": [
+            10.2755,
+            44.6535
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die umliegenden Weinberge.",
+            "hu": "Élvezze a kilátást a környező szőlőültetvényekre.",
+            "ro": "Bucurați-vă de priveliștea podgoriilor din jur.",
+            "en": "Enjoy the views of the surrounding vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinprobe / Regionale Produkte",
+            "hu": "Borkóstoló / Regionális termékek",
+            "ro": "Degustare de vinuri / Produse regionale",
+            "en": "Wine Tasting / Regional Products"
+          },
+          "coords": [
+            10.278,
+            44.656
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Malvasia-Wein.",
+            "hu": "Kóstolja meg a helyi Malvasia bort.",
+            "ro": "Gustați vinul local Malvasia.",
+            "en": "Try the local Malvasia wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückreise nach Parma",
+            "hu": "Visszautazás Pármába",
+            "ro": "Întoarcerea la Parma",
+            "en": "Return to Parma"
+          },
+          "coords": [
+            10.3279,
+            44.8015
+          ],
+          "category": "square",
+          "arrive_at": "17:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag bei einem Abendessen in der Stadt ausklingen.",
+            "hu": "Zárja a napot egy vacsorával a városban.",
+            "ro": "Încheiați ziua cu o cină în oraș.",
+            "en": "End the day with dinner back in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die städtische Eleganz von Parma mit dem ländlichen Charme der Emilia-Romagna. Nachdem Sie die wichtigsten Sehenswürdigkeiten im Zentrum erkundet haben, fahren Sie in den Süden zum spektakulären Castello di Torrechiara. Die Fahrt führt durch sanfte Hügel und Weinberge, die für ihre exzellente Produktion bekannt sind.",
+        "hu": "Ez az autós túra ötvözi Párma városi eleganciáját Emilia-Romagna vidéki bájával. Miután felfedezte a központ legfontosabb látnivalóit, délre utazik a látványos Torrechiara várához. Az út lankás dombokon és kiváló bortermeléséről ismert szőlőültetvényeken keresztül vezet.",
+        "ro": "Acest tur cu mașina combină eleganța urbană a Parmei cu farmecul rural din Emilia-Romagna. După ce ați explorat principalele atracții din centru, conduceți spre sud către spectaculosul Castel Torrechiara. Drumul trece prin dealuri line și podgorii cunoscute pentru producția lor excelentă.",
+        "en": "This car tour combines the urban elegance of Parma with the rural charm of Emilia-Romagna. After exploring the key sights in the center, drive south to the spectacular Torrechiara Castle. The drive takes you through rolling hills and vineyards known for their excellent production."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Badia",
+            "tip": "Am Fuße der Burg Torrechiara gelegen, ideal für regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Badia",
+            "tip": "A torrechiarai vár lábánál található, ideális a regionális különlegességekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Badia",
+            "tip": "Situat la poalele castelului Torrechiara, ideal pentru specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Badia",
+            "tip": "Located at the foot of Torrechiara Castle, ideal for regional specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Torrechiara Weinberge",
+            "tip": "Ein Spaziergang durch die Reben bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torrechiara szőlőskertjei",
+            "tip": "Séta a tőkék között naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile Torrechiara",
+            "tip": "O plimbare printre vii la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Torrechiara Vineyards",
+            "tip": "A walk through the vines at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Azienda Agricola Lamoretti",
+            "tip": "Kaufen Sie Wein und Olivenöl direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azienda Agricola Lamoretti",
+            "tip": "Vásároljon bort és olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Azienda Agricola Lamoretti",
+            "tip": "Cumpărați vin și ulei de măsline direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azienda Agricola Lamoretti",
+            "tip": "Buy wine and olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist streng reglementiert (ZTL-Zonen).",
+          "Die Burg Torrechiara ist montags oft geschlossen.",
+          "Die Straßen auf dem Land sind eng, aber landschaftlich sehr reizvoll."
+        ],
+        "hu": [
+          "A központi parkolás szigorúan szabályozott (ZTL zónák).",
+          "Torrechiara vára hétfőnként gyakran zárva tart.",
+          "A vidéki utak szűkek, de nagyon látványosak."
+        ],
+        "ro": [
+          "Parcarea în centru este strict reglementată (zone ZTL).",
+          "Castelul Torrechiara este adesea închis lunea.",
+          "Drumurile de la țară sunt înguste, dar foarte pitorești."
+        ],
+        "en": [
+          "Parking in the center is strictly regulated (ZTL zones).",
+          "Torrechiara Castle is often closed on Mondays.",
+          "Countryside roads are narrow but very scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo & Battistero Cluster",
+            "hu": "Dóm és Keresztelőkápolna negyed",
+            "ro": "Clusterul Domul și Baptisteriul",
+            "en": "Duomo & Baptistery Cluster"
+          },
+          "coords": [
+            10.3304,
+            44.8031
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Bahnhof direkt zum Zentrum.",
+            "hu": "Szálljon buszra az állomásról közvetlenül a központba.",
+            "ro": "Luați autobuzul de la gară direct spre centru.",
+            "en": "Take the bus from the station directly to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Regio",
+            "hu": "Teatro Regio",
+            "ro": "Teatro Regio",
+            "en": "Teatro Regio"
+          },
+          "coords": [
+            10.328,
+            44.8018
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Dom entfernt.",
+            "hu": "Rövid séta a dómtól.",
+            "ro": "O scurtă plimbare de la Dom.",
+            "en": "A short walk from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen nähe Piazza Garibaldi",
+            "hu": "Ebéd a Piazza Garibaldi közelében",
+            "ro": "Prânz lângă Piazza Garibaldi",
+            "en": "Lunch near Piazza Garibaldi"
+          },
+          "coords": [
+            10.3285,
+            44.801
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Buslinien halten an der Piazza Garibaldi.",
+            "hu": "Számos buszjárat megáll a Piazza Garibaldi-n.",
+            "ro": "Multe linii de autobuz opresc în Piazza Garibaldi.",
+            "en": "Many bus lines stop at Piazza Garibaldi."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo della Pilotta",
+            "hu": "Palazzo della Pilotta",
+            "ro": "Palazzo della Pilotta",
+            "en": "Palazzo della Pilotta"
+          },
+          "coords": [
+            10.3265,
+            44.8044
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Transit, um zum Nordende des Zentrums zu gelangen.",
+            "hu": "Használja a tömegközlekedést a központ északi részére való kijutáshoz.",
+            "ro": "Utilizați transportul în comun pentru a ajunge în partea de nord a centrului.",
+            "en": "Use transit to get to the northern end of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Ducale",
+            "hu": "Parco Ducale",
+            "ro": "Parco Ducale",
+            "en": "Parco Ducale"
+          },
+          "coords": [
+            10.3215,
+            44.8048
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke zu Fuß vom Pilotta-Komplex.",
+            "hu": "Sétáljon át a hídon a Pilotta-komplexumtól.",
+            "ro": "Traversați podul pe jos de la complexul Pilotta.",
+            "en": "Cross the bridge on foot from the Pilotta complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss am Bahnhof Parma",
+            "hu": "Zárás a pármai állomáson",
+            "ro": "Final la gara din Parma",
+            "en": "End at Parma Station"
+          },
+          "coords": [
+            10.329,
+            44.81
+          ],
+          "category": "historical",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der Bahnhof ist gut an die regionalen Züge angebunden.",
+            "hu": "Az állomás jó összeköttetéssel rendelkezik a regionális vonatokkal.",
+            "ro": "Gara are legături bune cu trenurile regionale.",
+            "en": "The station has good connections with regional trains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des effizienten Busnetzes von Parma können Sie die Stadt bequem erkunden, ohne viel laufen zu müssen. Diese Route konzentriert sich auf die kulturellen Highlights im Herzen der Stadt und nutzt den Transit, um bequem zwischen den Hauptdistrikten zu wechseln. Ein idealer Plan für einen stressfreien Tag.",
+        "hu": "Párma hatékony buszhálózatának köszönhetően kényelmesen felfedezheti a várost sok gyaloglás nélkül. Ez az útvonal a város szívében található kulturális látnivalókra összpontosít, és a tömegközlekedést használja a főbb negyedek közötti kényelmes váltáshoz. Ideális terv egy stresszmentes naphoz.",
+        "ro": "Datorită rețelei eficiente de autobuze din Parma, puteți explora orașul confortabil fără a merge mult pe jos. Acest traseu se concentrează pe punctele de atracție culturale din inima orașului și utilizează transportul în comun pentru a schimba ușor între districtele principale. Un plan ideal pentru o zi fără stres.",
+        "en": "Thanks to Parma's efficient bus network, you can explore the city comfortably without much walking. This route focuses on the cultural highlights in the heart of the city and uses transit to switch conveniently between the main districts. An ideal plan for a stress-free day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cocchi",
+            "tip": "In der Nähe des Bahnhofs, perfekt für eine letzte Mahlzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cocchi",
+            "tip": "Az állomás közelében, tökéletes egy utolsó étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cocchi",
+            "tip": "Lângă gară, perfect pentru o ultimă masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cocchi",
+            "tip": "Near the station, perfect for a last meal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Am frühen Abend wird dieser Platz sehr friedlich.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Kora este ez a tér nagyon békéssé válik.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Seara devreme, această piață devine foarte liniștită.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Duomo",
+            "tip": "Early in the evening, this square becomes very peaceful.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Euro Torri Shopping Center",
+            "tip": "Mit dem Bus erreichbar, wenn Sie moderne Geschäfte suchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Euro Torri bevásárlóközpont",
+            "tip": "Busszal elérhető, ha modern üzleteket keres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Euro Torri",
+            "tip": "Accesibil cu autobuzul, dacă căutați magazine moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Euro Torri Shopping Center",
+            "tip": "Accessible by bus if you are looking for modern shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets an Tabakläden oder per App.",
+          "Die Busse fahren sehr pünktlich.",
+          "Achten Sie auf die Nummern der Linien, die zum Bahnhof zurückkehren."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet trafikokban vagy alkalmazáson keresztül.",
+          "A buszok nagyon pontosan közlekednek.",
+          "Figyeljen az állomásra visszatérő járatok számaira."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la chioșcurile de ziar sau prin aplicație.",
+          "Autobuzele circulă foarte punctual.",
+          "Atenție la numerele liniilor care se întorc la gară."
+        ],
+        "en": [
+          "Buy bus tickets at tobacco shops or via app.",
+          "Buses run very punctually.",
+          "Watch for the line numbers that return to the station."
+        ]
+      }
+    }
+  }
+}

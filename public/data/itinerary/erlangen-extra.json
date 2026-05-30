@@ -1,0 +1,1028 @@
+{
+  "city_id": "erlangen-extra",
+  "anchor": {
+    "name": "Erlangen",
+    "coords": [
+      11.0,
+      49.59
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hugenottenkirche",
+            "hu": "Hugenotta templom",
+            "ro": "Biserica Hughenoților",
+            "en": "Huguenot Church"
+          },
+          "coords": [
+            11.001,
+            49.596
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die schlichte barocke Architektur der hugenottischen Siedler.",
+            "hu": "Csodálja meg a hugenotta telepesek letisztult barokk építészetét.",
+            "ro": "Admirați arhitectura barocă sobră a coloniștilor hughenoți.",
+            "en": "Admire the simple Baroque architecture of the Huguenot settlers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpalais Erlangen",
+            "hu": "Erlangeni Művészeti Palota",
+            "ro": "Kunstpalais Erlangen",
+            "en": "Kunstpalais Erlangen"
+          },
+          "coords": [
+            11.003,
+            49.597
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Internationale zeitgenössische Kunst direkt am Marktplatz.",
+            "hu": "Nemzetközi kortárs művészet közvetlenül a főtéren.",
+            "ro": "Artă contemporană internațională chiar în piața centrală.",
+            "en": "International contemporary art right on the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten & Orangerie",
+            "hu": "Kastélykert és Orangerie",
+            "ro": "Grădina Castelului și Oranjeria",
+            "en": "Palace Garden & Orangerie"
+          },
+          "coords": [
+            11.004,
+            49.598
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein herrlicher Ort zum Entspannen im Herzen der barocken Planstadt.",
+            "hu": "Csodálatos hely a kikapcsolódásra a barokk tervezett város szívében.",
+            "ro": "Un loc minunat pentru relaxare în inima orașului baroc.",
+            "en": "A wonderful place to relax in the heart of the Baroque planned city."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            11.006,
+            49.599
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Verpassen Sie nicht das Alpinum und die Gewächshäuser.",
+            "hu": "Ne hagyja ki az Alpinumot és az üvegházakat.",
+            "ro": "Nu ratați Alpinum-ul și serele tropicale.",
+            "en": "Don't miss the Alpinum and the greenhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Erlangen",
+            "hu": "Erlangeni Városi Múzeum",
+            "ro": "Muzeul Orașului Erlangen",
+            "en": "Erlangen City Museum"
+          },
+          "coords": [
+            11.002,
+            49.601
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Erfahren Sie alles über die hugenottische Geschichte der Stadt.",
+            "hu": "Ismerje meg a város hugenotta történelmének minden részletét.",
+            "ro": "Aflați totul despre istoria hughenotă a orașului.",
+            "en": "Learn all about the city's Huguenot history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erlangen besticht durch seine barocke Symmetrie. Dieser Rundgang führt Sie von der historischen Hugenottenkirche über den Marktplatz direkt in die grüne Lunge der Stadt. Der Schlossgarten und der angrenzende Botanische Garten bieten Ruhe, während das Stadtmuseum die faszinierende Geschichte der Glaubensflüchtlinge beleuchtet, die Erlangen prägten.",
+        "hu": "Erlangen barokk szimmetriája lenyűgöző. Ez a séta a történelmi hugenotta templomtól a főtéren át közvetlenül a város zöld szívébe vezet. A Kastélykert és a szomszédos Botanikus kert nyugalmat áraszt, míg a Városi Múzeum a várost meghatározó hitvalló menekültek izgalmas történetét mutatja be.",
+        "ro": "Erlangen impresionează prin simetria sa barocă. Acest tur vă duce de la biserica istorică a hughenoților, prin piața centrală, direct în plămânul verde al orașului. Grădina Castelului și Grădina Botanică oferă liniște, în timp ce Muzeul Orașului reflectă istoria fascinantă a refugiaților care au modelat Erlangenul.",
+        "en": "Erlangen impresses with its Baroque symmetry. This walking tour takes you from the historic Huguenot Church via the market square directly into the green heart of the city. The Palace Garden and the adjacent Botanical Garden offer peace, while the City Museum highlights the fascinating history of the refugees who shaped Erlangen."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Drei Helme",
+            "tip": "Klassische fränkische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Kitzmann Bräuschänke",
+            "tip": "Probieren Sie das lokale Erlanger Bier direkt an der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drei Helme",
+            "tip": "Klasszikus frank konyha történelmi környezetben."
+          },
+          {
+            "name": "Kitzmann Bräuschänke",
+            "tip": "Kóstolja meg a helyi erlangeni sört közvetlenül a forrásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drei Helme",
+            "tip": "Bucătărie franconă clasică într-o ambianță istorică."
+          },
+          {
+            "name": "Kitzmann Bräuschänke",
+            "tip": "Gustați berea locală Erlangen direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drei Helme",
+            "tip": "Classic Franconian cuisine in a historic setting."
+          },
+          {
+            "name": "Kitzmann Bräuschänke",
+            "tip": "Try the local Erlangen beer directly at the source."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein stilles Juwel mit exotischen Pflanzen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Regnitzwiesen",
+            "tip": "Perfekt für einen ruhigen Spaziergang im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Csendes ékszerdoboz egzotikus növényekkel.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Regnitz-rét",
+            "tip": "Tökéletes egy nyugodt zöld sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O bijuterie liniștită cu plante exotice.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Regnitzwiesen",
+            "tip": "Perfect pentru o plimbare liniștită în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet gem with exotic plants.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Regnitz Meadows",
+            "tip": "Perfect for a quiet walk in the greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Modernes Einkaufszentrum mit großer Auswahl."
+          },
+          {
+            "name": "Hauptstraße",
+            "tip": "Bummeln Sie durch die Fußgängerzone mit kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Modern bevásárlóközpont széles választékkal."
+          },
+          {
+            "name": "Hauptstraße",
+            "tip": "Sétáljon a sétálóutcán a kis butikok között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Centru comercial modern cu o selecție largă."
+          },
+          {
+            "name": "Hauptstraße",
+            "tip": "Plimbați-vă pe strada pietonală cu buticuri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Modern shopping mall with a wide selection."
+          },
+          {
+            "name": "Hauptstraße",
+            "tip": "Stroll through the pedestrian zone with small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist flach und sehr gut zu Fuß erreichbar.",
+          "Besuchen Sie den Marktplatz am Vormittag für das beste Licht.",
+          "Viele Museen haben montags geschlossen.",
+          "Kombinieren Sie den Botanischen Garten mit dem Schlossgarten."
+        ],
+        "hu": [
+          "A belváros sík és gyalogosan kiválóan bejárható.",
+          "A délelőtti órákban látogasson el a főtérre a legjobb fényekért.",
+          "Sok múzeum hétfőnként zárva tart.",
+          "Kombinálja a Botanikus kertet a Kastélykerttel."
+        ],
+        "ro": [
+          "Centrul orașului este plat și foarte ușor de parcurs pe jos.",
+          "Vizitați piața centrală dimineața pentru cea mai bună lumină.",
+          "Multe muzee sunt închise lunea.",
+          "Combinați Grădina Botanică cu Grădina Castelului."
+        ],
+        "en": [
+          "The city center is flat and very easy to explore on foot.",
+          "Visit the market square in the morning for the best light.",
+          "Many museums are closed on Mondays.",
+          "Combine the Botanical Garden with the Palace Garden."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hugenottenkirche",
+            "hu": "Hugenotta templom",
+            "ro": "Biserica Hughenoților",
+            "en": "Huguenot Church"
+          },
+          "coords": [
+            11.001,
+            49.596
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Startpunkt im barocken Zentrum.",
+            "hu": "Kiindulópont a barokk központban.",
+            "ro": "Punct de plecare în centrul baroc.",
+            "en": "Starting point in the Baroque center."
+          }
+        },
+        {
+          "name": {
+            "de": "Siemens MedMuseum",
+            "hu": "Siemens Orvostechnikai Múzeum",
+            "ro": "Muzeul Siemens Med",
+            "en": "Siemens MedMuseum"
+          },
+          "coords": [
+            11.011,
+            49.594
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Spannende Reise durch die Geschichte der Medizintechnik.",
+            "hu": "Izgalmas utazás az orvostechnológia történetében.",
+            "ro": "O călătorie captivantă prin istoria tehnologiei medicale.",
+            "en": "Exciting journey through the history of medical technology."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélykert",
+            "ro": "Grădina Castelului",
+            "en": "Palace Garden"
+          },
+          "coords": [
+            11.004,
+            49.598
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Fahrrad abstellen und die Orangerie bewundern.",
+            "hu": "Tegye le a biciklit és csodálja meg az Orangerie-t.",
+            "ro": "Lăsați bicicleta și admirați Oranjeria.",
+            "en": "Park your bike and admire the Orangerie."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergkirchweih-Gelände (Burgberg)",
+            "hu": "Bergkirchweih terület (Burgberg)",
+            "ro": "Zona Bergkirchweih (Burgberg)",
+            "en": "Bergkirchweih Grounds (Burgberg)"
+          },
+          "coords": [
+            11.004,
+            49.61
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Genießen Sie den Blick über die Stadt von den alten Bierkellern.",
+            "hu": "Élvezze a kilátást a városra a régi sörpincéktől.",
+            "ro": "Bucurați-vă de priveliștea asupra orașului de la vechile pivnițe de bere.",
+            "en": "Enjoy the view over the city from the old beer cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Erlangen",
+            "hu": "Erlangeni Városi Múzeum",
+            "ro": "Muzeul Orașului Erlangen",
+            "en": "Erlangen City Museum"
+          },
+          "coords": [
+            11.002,
+            49.601
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Historisches Gebäude im Norden der Innenstadt.",
+            "hu": "Történelmi épület a belváros északi részén.",
+            "ro": "Clădire istorică în nordul centrului orașului.",
+            "en": "Historic building in the north of the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erlangen ist eine Fahrradstadt. Auf zwei Rädern lässt sich die Achse zwischen dem modernen Siemens-Areal und dem traditionellen Burgberg perfekt erkunden. Nach einem Blick in die Medizintechnik radeln wir durch den barocken Kern zum Burgberg, wo die berühmte Bergkirchweih stattfindet, und kehren über die Altstadt zurück.",
+        "hu": "Erlangen a kerékpárosok városa. Két keréken tökéletesen felfedezhető a modern Siemens-negyed és a hagyományos Burgberg közötti tengely. Az orvostechnológiai látogatás után a barokk központon át tekerünk a Burgbergre, a híres Bergkirchweih helyszínére, majd az óvároson keresztül térünk vissza.",
+        "ro": "Erlangen este un oraș al bicicletelor. Pe două roți puteți explora perfect axa dintre zona modernă Siemens și tradiționalul Burgberg. După o incursiune în tehnologia medicală, pedalăm prin centrul baroc către Burgberg, locul unde are loc faimosul Bergkirchweih, și ne întoarcem prin orașul vechi.",
+        "en": "Erlangen is a bicycle city. On two wheels, you can perfectly explore the axis between the modern Siemens area and the traditional Burgberg. After a look at medical technology, we cycle through the Baroque core to the Burgberg, where the famous Bergkirchweih takes place, and return via the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Entla's Keller",
+            "tip": "Traditionelle Kellerwirtschaft auf dem Burgberg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Entla's Keller",
+            "tip": "Hagyományos pincerendszer és kert a Burgbergen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Entla's Keller",
+            "tip": "Grădină de vară tradițională pe Burgberg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Entla's Keller",
+            "tip": "Traditional cellar garden on the Burgberg."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Regnitz-Radweg",
+            "tip": "Entspanntes Radeln entlang des Flusses.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regnitz-kerékpárút",
+            "tip": "Kellemes tekerés a folyó mentén.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Regnitz",
+            "tip": "Plimbare relaxantă de-a lungul râului.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Regnitz Cycle Path",
+            "tip": "Relaxed cycling along the river.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradläden in der Altstadt",
+            "tip": "Zubehör und Service für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi kerékpárboltok",
+            "tip": "Kiegészítők és szerviz bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete în orașul vechi",
+            "tip": "Accesorii și service pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike shops in the old town",
+            "tip": "Accessories and service for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege.",
+          "Am Burgberg ist es steil, schieben ist keine Schande.",
+          "Achten Sie auf die Kopfsteinpflastergassen in der Altstadt."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat.",
+          "A Burgberg meredek, nem szégyen tolni a biciklit.",
+          "Ügyeljen a macskaköves utcákra az óvárosban."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine dezvoltate.",
+          "Panta spre Burgberg este abruptă, nu e o rușine să mergeți pe lângă bicicletă.",
+          "Atenție la străzile pietruite din orașul vechi."
+        ],
+        "en": [
+          "Use the well-developed cycle paths.",
+          "The Burgberg is steep; pushing your bike is no shame.",
+          "Watch out for the cobblestone streets in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hugenottenkirche (Cluster A)",
+            "hu": "Hugenotta templom (A-klaszter)",
+            "ro": "Biserica Hughenoților (Cluster A)",
+            "en": "Huguenot Church (Cluster A)"
+          },
+          "coords": [
+            11.001,
+            49.596
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie am Bahnhofsplatz oder in den Arcaden.",
+            "hu": "Parkoljon a vasútállomásnál vagy az Arcadenben.",
+            "ro": "Parcați la gara centrală sau la Arcaden.",
+            "en": "Park at the station square or in the Arcaden."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten & Orangerie (Cluster A)",
+            "hu": "Kastélykert és Orangerie (A-klaszter)",
+            "ro": "Grădina Castelului și Oranjeria (Cluster A)",
+            "en": "Palace Garden & Orangerie (Cluster A)"
+          },
+          "coords": [
+            11.004,
+            49.598
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergkirchweih-Gelände (Cluster B)",
+            "hu": "Bergkirchweih terület (B-klaszter)",
+            "ro": "Zona Bergkirchweih (Cluster B)",
+            "en": "Bergkirchweih Grounds (Cluster B)"
+          },
+          "coords": [
+            11.004,
+            49.61
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie am Parkplatz am Burgberg.",
+            "hu": "Parkoljon a Burgberg melletti parkolóban.",
+            "ro": "Parcați în zona Burgberg.",
+            "en": "Park at the Burgberg parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Erlangen (Cluster B)",
+            "hu": "Erlangeni Városi Múzeum (B-klaszter)",
+            "ro": "Muzeul Orașului Erlangen (Cluster B)",
+            "en": "Erlangen City Museum (Cluster B)"
+          },
+          "coords": [
+            11.002,
+            49.601
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Burgberg aus zu Fuß erreichbar.",
+            "hu": "A Burgbergről gyalogosan is megközelíthető.",
+            "ro": "Accesibil pe jos dinspre Burgberg.",
+            "en": "Walkable from the Burgberg area."
+          }
+        },
+        {
+          "name": {
+            "de": "Siemens MedMuseum (Cluster C)",
+            "hu": "Siemens Orvostechnikai Múzeum (C-klaszter)",
+            "ro": "Muzeul Siemens Med (Cluster C)",
+            "en": "Siemens MedMuseum (Cluster C)"
+          },
+          "coords": [
+            11.011,
+            49.594
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parkhaus direkt am Museum verfügbar.",
+            "hu": "Parkolóház közvetlenül a múzeumnál.",
+            "ro": "Parcare disponibilă chiar lângă muzeu.",
+            "en": "Parking garage available directly at the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir Erlangen in thematischen Clustern. Wir beginnen im barocken Zentrum (Hugenottenkirche und Schlossgarten), fahren dann zum nördlichen Burgberg mit seinen berühmten Bierkellern und dem Stadtmuseum, und schließen den Tag im modernen Siemens-Areal ab. Diese Route minimiert den Parkplatzsuchverkehr durch gezieltes Ansteuern der Schwerpunkte.",
+        "hu": "Autóval tematikus csoportokban fedezzük fel Erlangent. A barokk központban kezdünk (Hugenotta templom és Kastélykert), majd az északi Burgberg felé vesszük az irányt a híres sörpincékkel és a Városi Múzeummal, a napot pedig a modern Siemens-negyedben zárjuk. Ez az útvonal a hangsúlyos pontok célzott felkeresésével minimalizálja a parkolóhely-keresést.",
+        "ro": "Cu mașina explorăm Erlangen în clustere tematice. Începem în centrul baroc (Biserica Hughenoților și Grădina Castelului), apoi mergem spre Burgberg în nord, cu faimoasele sale pivnițe de bere și Muzeul Orașului, și încheiem ziua în zona modernă Siemens. Această rută minimizează căutarea parcărilor prin vizitarea punctelor principale.",
+        "en": "By car, we explore Erlangen in thematic clusters. We start in the Baroque center (Huguenot Church and Palace Garden), then drive to the northern Burgberg with its famous beer cellars and the City Museum, and finish the day in the modern Siemens area. This route minimizes searching for parking by targeting the main hubs directly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alter Simpl",
+            "tip": "Traditionelles Gasthaus in der Nähe der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alter Simpl",
+            "tip": "Hagyományos vendéglő a belváros közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alter Simpl",
+            "tip": "Han tradițional aproape de centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alter Simpl",
+            "tip": "Traditional inn near the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heinrich-Kirchner-Skulpturengarten",
+            "tip": "Kunst und Natur auf dem Burgberg.",
+            "emoji": "🗿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heinrich-Kirchner-Skulpturengarten",
+            "tip": "Művészet és természet a Burgbergen.",
+            "emoji": "🗿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heinrich-Kirchner-Skulpturengarten",
+            "tip": "Artă și natură pe Burgberg.",
+            "emoji": "🗿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Heinrich-Kirchner-Skulpturengarten",
+            "tip": "Art and nature on the Burgberg.",
+            "emoji": "🗿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Bequemes Parken und Shoppen unter einem Dach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Kényelmes parkolás és vásárlás egy fedél alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Parcare și cumpărături convenabile sub același acoperiș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erlangen Arcaden",
+            "tip": "Convenient parking and shopping under one roof."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkleitsysteme der Stadt.",
+          "In der Innenstadt ist vieles Einbahnstraße.",
+          "Der Burgberg ist am Wochenende oft überlaufen."
+        ],
+        "hu": [
+          "Használja a városi parkolási irányító rendszert.",
+          "A belvárosban sok az egyirányú utca.",
+          "A Burgberg hétvégén gyakran zsúfolt."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare pentru parcare al orașului.",
+          "Multe străzi din centru sunt cu sens unic.",
+          "Burgberg este adesea aglomerat în weekend."
+        ],
+        "en": [
+          "Use the city's parking guidance systems.",
+          "Many streets in the city center are one-way.",
+          "The Burgberg is often crowded on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hugenottenkirche",
+            "hu": "Hugenotta templom",
+            "ro": "Biserica Hughenoților",
+            "en": "Huguenot Church"
+          },
+          "coords": [
+            11.001,
+            49.596
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Direkt am Hauptbahnhof gelegen.",
+            "hu": "Közvetlenül a főpályaudvar mellett.",
+            "ro": "Situată chiar lângă gara centrală.",
+            "en": "Located directly at the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstpalais Erlangen",
+            "hu": "Erlangeni Művészeti Palota",
+            "ro": "Kunstpalais Erlangen",
+            "en": "Kunstpalais Erlangen"
+          },
+          "coords": [
+            11.003,
+            49.597
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nur wenige Gehminuten von der Kirche entfernt.",
+            "hu": "Csak pár perc séta a templomtól.",
+            "ro": "La doar câteva minute de mers pe jos de biserică.",
+            "en": "Just a few minutes' walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            11.006,
+            49.599
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nutzen Sie den City-Liner Bus.",
+            "hu": "Használja a City-Liner buszt.",
+            "ro": "Folosiți autobuzul City-Liner.",
+            "en": "Use the City-Liner bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten & Orangerie",
+            "hu": "Kastélykert és Orangerie",
+            "ro": "Grădina Castelului și Oranjeria",
+            "en": "Palace Garden & Orangerie"
+          },
+          "coords": [
+            11.004,
+            49.598
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Direkt neben dem Botanischen Garten.",
+            "hu": "Közvetlenül a Botanikus kert mellett.",
+            "ro": "Chiar lângă Grădina Botanică.",
+            "en": "Right next to the Botanical Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Siemens MedMuseum",
+            "hu": "Siemens Orvostechnikai Múzeum",
+            "ro": "Muzeul Siemens Med",
+            "en": "Siemens MedMuseum"
+          },
+          "coords": [
+            11.011,
+            49.594
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kurze Fahrt mit dem Stadtbus Richtung Süden.",
+            "hu": "Rövid buszozás déli irányba.",
+            "ro": "Scurtă călătorie cu autobuzul spre sud.",
+            "en": "Short ride with the city bus heading south."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erlangens öffentliches Verkehrsnetz ist ideal für Kurztrips. Vom Hauptbahnhof aus sind die barocken Highlights fußläufig erreichbar. Der City-Liner und andere Buslinien verbinden das Zentrum schnell mit dem Botanischen Garten und dem Siemens MedMuseum im Osten. Eine stressfreie Art, Kultur und Wissenschaft zu verbinden.",
+        "hu": "Erlangen tömegközlekedése ideális rövid utakhoz. A főpályaudvartól a barokk látnivalók gyalogosan is elérhetők. A City-Liner és más buszvonalak gyorsan összekötik a központot a Botanikus kerttel és a keleti részen fekvő Siemens Orvostechnikai Múzeummal. Stresszmentes módja a kultúra és a tudomány ötvözésének.",
+        "ro": "Rețeaua de transport public din Erlangen este ideală pentru excursii scurte. De la gara centrală, atracțiile baroce sunt accesibile pe jos. City-Liner și alte linii de autobuz conectează rapid centrul cu Grădina Botanică și Muzeul Siemens Med din est. O modalitate fără stres de a îmbina cultura cu știința.",
+        "en": "Erlangen's public transport network is ideal for short trips. From the main station, the Baroque highlights are within walking distance. The City-Liner and other bus lines quickly connect the center with the Botanical Garden and the Siemens MedMuseum in the east. A stress-free way to combine culture and science."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Osteria",
+            "tip": "Beliebte Pizzeria in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Osteria",
+            "tip": "Népszerű pizzéria a vasútállomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Osteria",
+            "tip": "Pizzerie populară lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Osteria",
+            "tip": "Popular pizzeria near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bohlenplatz",
+            "tip": "Ein ruhiger Platz zum Verweilen zwischen den Museen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bohlenplatz",
+            "tip": "Nyugodt tér a múzeumok között.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bohlenplatz",
+            "tip": "O piață liniștită pentru relaxare între muzee.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bohlenplatz",
+            "tip": "A quiet square to linger between museums.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofplatz Geschäfte",
+            "tip": "Reiseproviant und kleine Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomás üzletei",
+            "tip": "Úti élelem és apró ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Piața Gării",
+            "tip": "Provizii de călătorie și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Square Shops",
+            "tip": "Travel snacks and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VGN-App für Echtzeit-Infos.",
+          "Ein Tagesticket lohnt sich oft ab der zweiten Fahrt.",
+          "Die Busse verkehren in der Innenstadt sehr dicht."
+        ],
+        "hu": [
+          "Használja a VGN applikációt a valós idejű infókért.",
+          "A napijegy gyakran már a második úttól megéri.",
+          "A buszok a belvárosban nagyon sűrűn járnak."
+        ],
+        "ro": [
+          "Folosiți aplicația VGN pentru informații în timp real.",
+          "Un bilet de o zi este adesea rentabil de la a doua călătorie.",
+          "Autobuzele circulă foarte frecvent în centrul orașului."
+        ],
+        "en": [
+          "Use the VGN app for real-time info.",
+          "A day ticket is often worth it from the second ride.",
+          "Buses run very frequently in the city center."
+        ]
+      }
+    }
+  }
+}

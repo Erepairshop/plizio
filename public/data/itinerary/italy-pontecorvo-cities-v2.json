@@ -1,0 +1,1002 @@
+{
+  "city_id": "italy-pontecorvo-cities-v2",
+  "anchor": {
+    "name": "Pontecorvo",
+    "coords": [
+      41.45,
+      13.6167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza Giovanni Paolo II",
+          "coords": [
+            41.4505,
+            13.6175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Espresso des Tages.",
+            "hu": "Itt igyuk meg a nap első eszpresszóját.",
+            "ro": "Savurați aici primul espresso al zilei.",
+            "en": "Enjoy your first espresso of the day here."
+          }
+        },
+        {
+          "name": "Palazzo Municipale",
+          "coords": [
+            41.4512,
+            13.6168
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses.",
+            "hu": "Csodálja meg a városháza építészetét.",
+            "ro": "Admirați arhitectura primăriei.",
+            "en": "Admire the architecture of the town hall."
+          }
+        },
+        {
+          "name": "Kathedrale San Bartolomeo",
+          "coords": [
+            41.4518,
+            13.6155
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die nach dem Krieg wiederaufgebaute Kathedrale ist das Herz der Stadt.",
+            "hu": "A háború után újjáépített székesegyház a város szíve.",
+            "ro": "Catedrala reconstruită după război este inima orașului.",
+            "en": "The cathedral, rebuilt after the war, is the heart of the city."
+          }
+        },
+        {
+          "name": "Rodoaldo-Turm",
+          "coords": [
+            41.4525,
+            13.6145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein mittelalterliches Symbol, das die Stadt überragt.",
+            "hu": "Középkori szimbólum, amely a város fölé magasodik.",
+            "ro": "Un simbol medieval care domină orașul.",
+            "en": "A medieval symbol tower overlooking the city."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            41.4485,
+            13.6185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Liri.",
+            "hu": "Élvezze a kilátást a Liri-folyóra.",
+            "ro": "Bucurați-vă de priveliștea asupra râului Liri.",
+            "en": "Enjoy the view of the Liri River."
+          }
+        },
+        {
+          "name": "Basilika San Domenico",
+          "coords": [
+            41.4475,
+            13.6195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und geistlichen Einkehr.",
+            "hu": "A nyugalom és a lelki elmélyülés helye.",
+            "ro": "Un loc de liniște și reculegere spirituală.",
+            "en": "A place of silence and spiritual reflection."
+          }
+        },
+        {
+          "name": "Denkmal für die Gefallenen",
+          "coords": [
+            41.4495,
+            13.6172
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein rührender Moment des Gedenkens.",
+            "hu": "Megható emlékezés a hősökre.",
+            "ro": "Un moment emoționant de comemorare.",
+            "en": "A touching moment of remembrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Pontecorvo zu Fuß, beginnend im lebendigen Zentrum. Der Vormittag ist der Geschichte und Spiritualität gewidmet, mit Besuchen der Kathedrale und des markanten Rodoaldo-Turms. Nach einem Mittagessen am Fluss überqueren Sie die Liri-Brücke und beenden den Tag in der friedlichen Atmosphäre der Basilika San Domenico und beim Denkmal für die Gefallenen.",
+        "hu": "Fedezze fel Pontecorvót gyalog, a pezsgő központból indulva. A délelőtt a történelemé és a spiritualitásé, a székesegyház és a jellegzetes Rodoaldo-torony meglátogatásával. Egy folyóparti ebéd után keljen át a Liri-hídon, és zárja a napot a San Domenico-bazilika békés légkörében és a hősök emlékművénél.",
+        "ro": "Descoperiți Pontecorvo la pas, începând din centrul plin de viață. Dimineața este dedicată istoriei și spiritualității, cu vizite la catedrală și la distinctivul Turn Rodoaldo. După un prânz pe malul râului, traversați podul peste Liri și încheiați ziua în atmosfera liniștită a Basilicii San Domenico și la monumentul eroilor.",
+        "en": "Explore Pontecorvo on foot, starting in the lively center. The morning is dedicated to history and spirituality, with visits to the Cathedral and the striking Rodoaldo Tower. After a riverside lunch, cross the Liri Bridge and end the day in the peaceful atmosphere of the Basilica of San Domenico and at the war memorial."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peperone Cornetto di Pontecorvo",
+            "tip": "Probieren Sie die lokale PDO-Paprika in Olivenöl."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Hausgemachte Pasta mit regionalen Saucen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peperone Cornetto di Pontecorvo",
+            "tip": "Kóstolja meg a helyi OEM paprikát olívaolajban."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Házias tészták regionális szószokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peperone Cornetto di Pontecorvo",
+            "tip": "Gustați ardeiul local DOP în ulei de măsline."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Paste de casă cu sosuri regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peperone Cornetto di Pontecorvo",
+            "tip": "Try the local PDO pepper preserved in olive oil."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Homemade pasta with regional sauces."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Liri",
+            "tip": "Ideal für einen ruhigen Spaziergang.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Basilika-Garten",
+            "tip": "Ein Ort der Stille hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liri folyópart",
+            "tip": "Ideális egy csendes sétához.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bazilika kertje",
+            "tip": "A nyugalom helye a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Liri",
+            "tip": "Ideal pentru o plimbare liniștită.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Basilicii",
+            "tip": "Un loc de liniște în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Liri Riverbank",
+            "tip": "Ideal for a quiet stroll.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Basilica Garden",
+            "tip": "A spot of silence behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frisches Gemüse und lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss zöldségek és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Legume proaspete și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh vegetables and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Die meisten Sehenswürdigkeiten sind montags geschlossen.",
+          "Besuchen Sie die Stadt während des Karnevals für ein besonderes Erlebnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A legtöbb látnivaló hétfőn zárva tart.",
+          "Látogassa meg a várost a karnevál idején a különleges élményért."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Majoritatea obiectivelor sunt închise lunea.",
+          "Vizitați orașul în timpul carnavalului pentru o experiență specială."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Most sights are closed on Mondays.",
+          "Visit the city during the Carnival for a special experience."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Giovanni Paolo II",
+          "coords": [
+            41.4505,
+            13.6175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Treffpunkt für Radfahrer.",
+            "hu": "Tökéletes találkozóhely kerékpárosoknak.",
+            "ro": "Punct de întâlnire perfect pentru bicicliști.",
+            "en": "Perfect meeting point for cyclists."
+          }
+        },
+        {
+          "name": "Kirche Sant'Andrea",
+          "coords": [
+            41.4535,
+            13.6125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine kleine Kirche mit historischem Charme.",
+            "hu": "Egy kis templom történelmi bájjal.",
+            "ro": "O mică biserică cu farmec istoric.",
+            "en": "A small church with historical charm."
+          }
+        },
+        {
+          "name": "Rodoaldo-Turm",
+          "coords": [
+            41.4525,
+            13.6145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Steigung zum Turm lohnt sich für den Ausblick.",
+            "hu": "A toronyhoz vezető emelkedő megéri a kilátást.",
+            "ro": "Urcușul spre turn merită pentru priveliște.",
+            "en": "The climb to the tower is worth it for the view."
+          }
+        },
+        {
+          "name": "Kathedrale San Bartolomeo",
+          "coords": [
+            41.4518,
+            13.6155
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher am Eingang ab.",
+            "hu": "Zárja le biztonságosan a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Secure your bike safely at the entrance."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            41.4485,
+            13.6185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schneller Stopp für ein Panoramafoto.",
+            "hu": "Gyors megálló egy panorámafotóhoz.",
+            "ro": "O scurtă oprire pentru o poză panoramică.",
+            "en": "A quick stop for a panoramic photo."
+          }
+        },
+        {
+          "name": "Basilika San Domenico",
+          "coords": [
+            41.4475,
+            13.6195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Endstation im ruhigeren Teil der Stadt.",
+            "hu": "Végállomás a város csendesebb részén.",
+            "ro": "Punct terminus în partea mai liniștită a orașului.",
+            "en": "End of the ride in the quieter part of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pontecorvo und seine Umgebung effizient mit dem Fahrrad. Diese Route verbindet die historischen Höhenpunkte wie den Rodoaldo-Turm mit entspannten Fahrten entlang des Flusses Liri. Beginnen Sie am zentralen Platz und machen Sie eine Schleife durch die charmanten Gassen der Ober- und Unterstadt.",
+        "hu": "Fedezze fel Pontecorvót és környékét hatékonyan kerékpárral. Ez az útvonal összeköti a történelmi fénypontokat, például a Rodoaldo-tornyot a Liri-folyó menti pihentető tekeréssel. Induljon a központi térről, és tegyen egy kört a felső- és alsóváros hangulatos utcáin.",
+        "ro": "Explorați Pontecorvo și împrejurimile sale eficient cu bicicleta. Acest traseu leagă punctele istorice importante, precum Turnul Rodoaldo, de plimbări relaxante de-a lungul râului Liri. Începeți din piața centrală și faceți un circuit prin străzile fermecătoare ale orașului de sus și de jos.",
+        "en": "Explore Pontecorvo and its surroundings efficiently by bike. This route connects historical highlights like the Rodoaldo Tower with relaxed rides along the Liri River. Start at the central square and loop through the charming streets of the upper and lower town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bici-Bar",
+            "tip": "Energie-Snacks und kühle Getränke für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bici-Bar",
+            "tip": "Energiaszeletek és hűsítő italok bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bici-Bar",
+            "tip": "Gustări energizante și băuturi reci pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bici-Bar",
+            "tip": "Energy snacks and cool drinks for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg",
+            "tip": "Ein schattiger Pfad entlang des Wassers.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti út",
+            "tip": "Árnyékos ösvény a víz mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de pe mal",
+            "tip": "O cărare umbrită de-a lungul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Path",
+            "tip": "A shaded path along the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Ölmühle",
+            "tip": "Kaufen Sie frisches Olivenöl direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olajütő",
+            "tip": "Vásároljon friss olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei locală",
+            "tip": "Cumpărați ulei de măsline proaspăt direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Oil Mill",
+            "tip": "Buy fresh olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen, es gibt einige Gefälle.",
+          "Ein Helm wird für die engen Gassen empfohlen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, vannak lejtős szakaszok.",
+          "A szűk utcákban ajánlott a bukósisak használata."
+        ],
+        "ro": [
+          "Verificați frânele, există porțiuni în pantă.",
+          "Se recomandă casca de protecție pentru străzile înguste."
+        ],
+        "en": [
+          "Check your brakes, there are some downhill sections.",
+          "A helmet is recommended for the narrow streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza Giovanni Paolo II",
+          "coords": [
+            41.4505,
+            13.6175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie den ersten Cluster zu Fuß.",
+            "hu": "Parkoljon itt, és fedezze fel az első részt gyalog.",
+            "ro": "Parcați aici și explorați primul grup de obiective la pas.",
+            "en": "Park here and explore the first cluster on foot."
+          }
+        },
+        {
+          "name": "Kathedrale San Bartolomeo",
+          "coords": [
+            41.4518,
+            13.6155
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie zu Fuß von der Piazza hierher.",
+            "hu": "Sétáljon át ide a térről.",
+            "ro": "Mergeți pe jos de la Piazza până aici.",
+            "en": "Walk here from the Piazza."
+          }
+        },
+        {
+          "name": "Palazzo Municipale",
+          "coords": [
+            41.4512,
+            13.6168
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zurück zum Auto.",
+            "hu": "Rövid séta vissza az autóhoz.",
+            "ro": "O scurtă plimbare înapoi la mașină.",
+            "en": "Short walk back to the car."
+          }
+        },
+        {
+          "name": "Rodoaldo-Turm",
+          "coords": [
+            41.4525,
+            13.6145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum oberen Stadtteil-Cluster.",
+            "hu": "Hajtson a felsővárosi részhez.",
+            "ro": "Conduceți către zona de sus a orașului.",
+            "en": "Drive to the upper town cluster."
+          }
+        },
+        {
+          "name": "Kirche Sant'Andrea",
+          "coords": [
+            41.4535,
+            13.6125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang vom Turm-Parkplatz.",
+            "hu": "Séta a torony parkolójától.",
+            "ro": "Plimbare de la parcarea turnului.",
+            "en": "Walk from the tower parking lot."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            41.4485,
+            13.6185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Fluss-Cluster.",
+            "hu": "Autózás a folyóparti részhez.",
+            "ro": "Conduceți spre zona râului.",
+            "en": "Drive to the river cluster."
+          }
+        },
+        {
+          "name": "Basilika San Domenico",
+          "coords": [
+            41.4475,
+            13.6195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Brücke aus erreichbar.",
+            "hu": "Gyalog elérhető a hídtól.",
+            "ro": "Accesibil pe jos de la pod.",
+            "en": "Accessible on foot from the bridge."
+          }
+        },
+        {
+          "name": "Panorama-Aussichtspunkt",
+          "coords": [
+            41.465,
+            13.625
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt außerhalb für den besten Stadtblick.",
+            "hu": "Rövid autózás a városon kívülre a legjobb kilátásért.",
+            "ro": "Scurtă deplasare în afara orașului pentru cea mai bună priveliște.",
+            "en": "Short drive outside for the best city view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die Cluster-Methode: Parken Sie im Zentrum für die Kathedrale, fahren Sie dann hinauf zum Rodoaldo-Turm und beenden Sie die Tour am Liri-Fluss. Zum Abschluss bietet eine kurze Fahrt zu einem höher gelegenen Punkt ein wunderbares Panorama über Pontecorvo und das Liri-Tal.",
+        "hu": "Autóval használja a klaszter-módszert: parkoljon a központban a székesegyházhoz, majd hajtson fel a Rodoaldo-toronyhoz, és zárja a túrát a Liri-folyónál. Végezetül egy rövid autózás egy magaslati ponthoz csodálatos panorámát nyújt Pontecorvóra és a Liri-völgyre.",
+        "ro": "Cu mașina, folosiți metoda clusterelor: parcați în centru pentru catedrală, apoi conduceți sus la Turnul Rodoaldo și încheiați turul la râul Liri. La final, o scurtă plimbare cu mașina până la un punct înalt oferă o panoramă minunată asupra Pontecorvo și a văii Liri.",
+        "en": "By car, use the cluster method: park in the center for the Cathedral, then drive up to the Rodoaldo Tower, and finish the tour by the Liri River. To conclude, a short drive to a high point offers a wonderful panorama over Pontecorvo and the Liri Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante del Sole",
+            "tip": "Parkplätze vorhanden, spezialisiert auf Wildgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante del Sole",
+            "tip": "Saját parkoló, vadhús ételekre specializálódott."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante del Sole",
+            "tip": "Parcare disponibilă, specializat în preparate din vânat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante del Sole",
+            "tip": "Parking available, specialized in game dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt am Hügel",
+            "tip": "Ruhiger Ort zum Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dombi kilátópont",
+            "tip": "Csendes hely naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere de pe deal",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hilltop Viewpoint",
+            "tip": "Quiet spot for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gewerbegebiet Pontecorvo",
+            "tip": "Größere Supermärkte für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pontecorvo ipari negyed",
+            "tip": "Nagyobb szupermarketek helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona comercială Pontecorvo",
+            "tip": "Supermarketuri mari pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pontecorvo Commercial Area",
+            "tip": "Larger supermarkets for local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (verkehrsberuhigte Zonen) im Zentrum.",
+          "Parken ist auf der Piazza oft zeitlich begrenzt."
+        ],
+        "hu": [
+          "Ügyeljen a központban lévő korlátozott forgalmú övezetekre (ZTL).",
+          "A téren a parkolás gyakran időhöz kötött."
+        ],
+        "ro": [
+          "Atenție la zonele cu trafic limitat (ZTL) din centru.",
+          "Parcarea în Piazza este adesea limitată în timp."
+        ],
+        "en": [
+          "Watch out for ZTL (restricted traffic zones) in the center.",
+          "Parking in the Piazza is often time-limited."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Giovanni Paolo II",
+          "coords": [
+            41.4505,
+            13.6175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busstopp.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stație centrală de autobuz.",
+            "en": "Central bus stop."
+          }
+        },
+        {
+          "name": "Kathedrale San Bartolomeo",
+          "coords": [
+            41.4518,
+            13.6155
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Piazza-Stopp.",
+            "hu": "Gyalog a Piazza megállótól.",
+            "ro": "Pe jos de la stația Piazza.",
+            "en": "Walk from the Piazza stop."
+          }
+        },
+        {
+          "name": "Rodoaldo-Turm",
+          "coords": [
+            41.4525,
+            13.6145
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Kleinbus nach oben.",
+            "hu": "Használja a helyi kisbuszt a feljutáshoz.",
+            "ro": "Folosiți microbuzul local pentru a urca.",
+            "en": "Use the local minibus to get up."
+          }
+        },
+        {
+          "name": "Kirche Sant'Andrea",
+          "coords": [
+            41.4535,
+            13.6125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang im oberen Cluster.",
+            "hu": "Séta a felső klaszterben.",
+            "ro": "Plimbare în grupul de sus.",
+            "en": "Walk in the upper cluster."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            41.4485,
+            13.6185
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bus zurück zum Flussufer.",
+            "hu": "Busz vissza a folyópartra.",
+            "ro": "Autobuz înapoi spre malul râului.",
+            "en": "Bus back to the riverbank."
+          }
+        },
+        {
+          "name": "Basilika San Domenico",
+          "coords": [
+            41.4475,
+            13.6195
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abschluss in Gehnähe zum Brückenstopp.",
+            "hu": "Befejezés a hídmegálló közelében.",
+            "ro": "Final în apropierea stației de la pod.",
+            "en": "Finish within walking distance of the bridge stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busverbindungen, um zwischen der Unterstadt am Liri und der historischen Oberstadt zu pendeln. Die Route ist so geplant, dass Sie die Anstiege mit dem Transit überbrücken und die jeweiligen Viertel entspannt zu Fuß erkunden können.",
+        "hu": "Használja a helyi buszjáratokat a Liri-parti alsóváros és a történelmi felsőváros közötti közlekedéshez. Az útvonalat úgy terveztük, hogy az emelkedőket tömegközlekedéssel hidalja át, a környékeket pedig gyalog fedezze fel.",
+        "ro": "Utilizați conexiunile locale de autobuz pentru a naveta între orașul de jos de pe Liri și orașul istoric de sus. Traseul este planificat astfel încât să urcați pantele cu transportul public și să explorați cartierele relaxat, pe jos.",
+        "en": "Use the local bus connections to commute between the lower town by the Liri and the historical upper town. The route is designed to bridge the climbs with transit and explore the neighborhoods on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Centrale",
+            "tip": "In der Nähe der Bushaltestelle, schneller Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Centrale",
+            "tip": "A buszmegálló közelében, gyors harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Aproape de stația de autobuz, gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Near the bus stop, quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platz hinter San Domenico",
+            "tip": "Warten Sie hier in Ruhe auf den Bus.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Domenico mögötti tér",
+            "tip": "Várja itt nyugalomban a buszt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din spatele San Domenico",
+            "tip": "Așteptați autobuzul aici în liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square behind San Domenico",
+            "tip": "Wait for the bus here in peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edicola Centrale",
+            "tip": "Zeitungen und Busfahrkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi újságos",
+            "tip": "Újságok és buszjegyek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc central",
+            "tip": "Ziare și bilete de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Newsstand",
+            "tip": "Newspapers and bus tickets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fahrkarten im Voraus im Tabacchi-Laden.",
+          "Die Busfrequenz ist am Nachmittag oft niedriger."
+        ],
+        "hu": [
+          "Vásárolja meg előre a jegyeket a Tabacchi boltban.",
+          "A buszok délután gyakran ritkábban járnak."
+        ],
+        "ro": [
+          "Cumpărați biletele în avans de la Tabacchi.",
+          "Frecvența autobuzelor este adesea mai mică după-amiaza."
+        ],
+        "en": [
+          "Buy tickets in advance at the Tabacchi shop.",
+          "Bus frequency is often lower in the afternoon."
+        ]
+      }
+    }
+  }
+}

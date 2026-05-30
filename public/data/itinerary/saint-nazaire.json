@@ -1,0 +1,922 @@
+{
+  "city_id": "saint-nazaire",
+  "anchor": {
+    "name": "Saint-Nazaire Harbor",
+    "coords": [
+      47.2735,
+      -2.2137
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Base sous-marine",
+          "coords": [
+            47.2758,
+            -2.2036
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beeindruckende Betonkolosse aus dem Zweiten Weltkrieg.",
+            "hu": "Hatalmas második világháborús betonerőd a kikötőben.",
+            "ro": "Bază masivă de submarine din cel de-al Doilea Război Mondial.",
+            "en": "Massive WWII submarine base located in the harbor."
+          }
+        },
+        {
+          "name": "Escal'Atlantic",
+          "coords": [
+            47.2752,
+            -2.2025
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt der großen Ozeandampfer.",
+            "hu": "Fedezze fel az óceánjárók luxus világát a bázison belül.",
+            "ro": "Explorați lumea luxoasă a pacheboturilor transatlantice.",
+            "en": "Explore the luxury world of ocean liners inside the base."
+          }
+        },
+        {
+          "name": "Sous-marin Espadon",
+          "coords": [
+            47.2741,
+            -2.2018
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Innere eines echten U-Boots.",
+            "hu": "Látogasson el egy igazi, vízen lebegő tengeralattjáró belsejébe.",
+            "ro": "Vizitați interiorul unui submarin real aflat în port.",
+            "en": "Visit the interior of a real submarine floating in the port."
+          }
+        },
+        {
+          "name": "Écomusée de Saint-Nazaire",
+          "coords": [
+            47.273,
+            -2.201
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den Schiffbau und die Stadtgeschichte.",
+            "hu": "Ismerje meg a város és a hajógyártás izgalmas történetét.",
+            "ro": "Aflați totul despre construcția de nave și istoria orașului.",
+            "en": "Learn all about shipbuilding and the city's history."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            47.2705,
+            -2.2154
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein botanisches Juwel direkt am Meer gelegen.",
+            "hu": "Botanikai ékszerdoboz közvetlenül a tengerpart mellett.",
+            "ro": "O bijuterie botanică situată chiar lângă malul mării.",
+            "en": "A botanical gem located right by the seaside."
+          }
+        },
+        {
+          "name": "Plage de Monsieur Hulot",
+          "coords": [
+            47.268,
+            -2.225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bekannt aus dem Film von Jacques Tati.",
+            "hu": "Jacques Tati híres filmjének ikonikus helyszíne.",
+            "ro": "Plajă faimoasă din filmul lui Jacques Tati.",
+            "en": "Famous beach from Jacques Tati's iconic movie."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie das industrielle Erbe im U-Boot-Bunker. Mittags tauchen Sie in die Geschichte der Ozeanriesen im Escal'Atlantic ein. Nachmittags genießen Sie die Ruhe im Botanischen Garten und spazieren entlang der Küste zum berühmten Monsieur-Hulot-Strand, wo Sie den Tag entspannt ausklingen lassen.",
+        "hu": "A délelőttöt a monumentális tengeralattjáró-bázis felfedezésével töltjük. Délben az óceánjárók luxusába kóstolunk bele, majd egy igazi tengeralattjárót is megnézünk. A nap második felében a tengerparti botanikus kertben pihenünk, végül elsétálunk a Monsieur Hulot-ról elnevezett ikonikus strandra.",
+        "ro": "Dimineața este dedicată patrimoniului industrial în baza de submarine. La prânz, descoperiți eleganța pacheboturilor la Escal'Atlantic și vizitați submarinul Espadon. După-amiaza, relaxați-vă în Grădina Botanică și pe plaja Monsieur Hulot, celebră pentru farmecul său cinematografic.",
+        "en": "Spend your morning exploring the industrial heritage of the submarine base. At midday, dive into the history of luxury liners at Escal'Atlantic and visit a real submarine. In the afternoon, relax in the Jardin des Plantes and walk along the coast to the famous Monsieur Hulot beach for a perfect ending."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le France",
+            "tip": "Genießen Sie frische Meeresfrüchte mit Blick auf den Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Hagyományos breton galette és almabor a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Océan",
+            "tip": "Specialități locale din pește proaspăt pescuit."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table du Jean",
+            "tip": "Modern French cuisine with local Atlantic ingredients."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenpfad",
+            "tip": "Ruhiger Spaziergang mit Blick auf die Loire-Mündung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes padjai",
+            "tip": "Csendes pihenőhely a tengeri sós levegőn.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Saint-Marc",
+            "tip": "Un loc liniștit pentru a privi apusul peste ocean.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Listen to the waves and watch the giant ships pass by.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von Saint-Nazaire",
+            "tip": "Regionale Spezialitäten wie Fleur de Sel und Cidre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői emléktárgyak",
+            "tip": "Hajómodellek és tengerész stílusú kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Paix",
+            "tip": "Strada principală de cumpărături din centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Craft Shop",
+            "tip": "Handmade items reflecting the city's maritime soul."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für die Hafenanlagen unerlässlich.",
+          "Buchen Sie Tickets für Escal'Atlantic im Voraus.",
+          "Die Küstenpromenade ist bei Wind besonders erfrischend.",
+          "Nutzen Sie die kostenlosen Parkplätze nahe der Basis."
+        ],
+        "hu": [
+          "Kényelmes cipő kötelező a kikötői sétákhoz.",
+          "Az Escal'Atlantic jegyeket érdemes előre lefoglalni.",
+          "A tengerparti szél ellen legyen nálad egy széldzseki.",
+          "A bázis környékén több ingyenes parkolóhely is található."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt esențiali pentru zona portuară.",
+          "Rezervați biletele pentru Escal'Atlantic în avans.",
+          "Promenada de coastă poate fi vântoasă chiar și vara.",
+          "Parcarea este mai ușoară în apropierea bazei de submarine."
+        ],
+        "en": [
+          "Comfortable shoes are a must for exploring the harbor.",
+          "Book your Escal'Atlantic tickets online to avoid queues.",
+          "Bring a light jacket as the Atlantic breeze can be chilly.",
+          "Use the free parking lots available near the submarine base."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Base sous-marine",
+          "coords": [
+            47.2758,
+            -2.2036
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt an den historischen U-Boot-Docks.",
+            "hu": "Kezdje a túrát a történelmi dokkoknál.",
+            "ro": "Punct de plecare la docurile istorice de submarine.",
+            "en": "Start your tour at the historical submarine docks."
+          }
+        },
+        {
+          "name": "Sous-marin Espadon",
+          "coords": [
+            47.2741,
+            -2.2018
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schnellbesuch im Bauch der Espadon.",
+            "hu": "Gyors látogatás az Espadon gyomrában.",
+            "ro": "O vizită rapidă în pântecele submarinului Espadon.",
+            "en": "A quick visit inside the belly of the Espadon."
+          }
+        },
+        {
+          "name": "Pont de Saint-Nazaire",
+          "coords": [
+            47.2785,
+            -2.1645
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Panoramablick auf die imposante Brücke.",
+            "hu": "Pazar kilátás az impozáns hídra.",
+            "ro": "Vedere panoramică asupra podului impunător.",
+            "en": "Panoramic view of the imposing bridge."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            47.2705,
+            -2.2154
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine kleine Pause im Schatten.",
+            "hu": "Tökéletes hely egy kis árnyas pihenőre.",
+            "ro": "Locul perfect pentru o scurtă pauză la umbră.",
+            "en": "Perfect place for a short break in the shade."
+          }
+        },
+        {
+          "name": "Plage de Monsieur Hulot",
+          "coords": [
+            47.2425,
+            -2.2758
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Mittagspause und Strandzeit in Saint-Marc.",
+            "hu": "Ebédszünet és strandolás Saint-Marc-ban.",
+            "ro": "Pauză de prânz și timp de plajă în Saint-Marc.",
+            "en": "Lunch break and beach time in Saint-Marc."
+          }
+        },
+        {
+          "name": "Tumulus de Dissignac",
+          "coords": [
+            47.2708,
+            -2.2714
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Prähistorisches Grabmal im Hinterland.",
+            "hu": "Prehisztorikus síremlék a hátországban.",
+            "ro": "Monument funerar preistoric în hinterland.",
+            "en": "Prehistoric burial site in the hinterland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die industrielle Hafenfront mit der natürlichen Schönheit der Küste. Nach der Besichtigung des U-Boots radeln Sie zur Brücke für ein Foto, dann entlang der Strände bis zum legendären Saint-Marc-sur-Mer. Der Rückweg führt über das mystische prähistorische Tumulus-Grabmal.",
+        "hu": "Ez a biciklis túra összeköti az ipari kikötőt a tengerpart természetes szépségével. A tengeralattjáró után a hídhoz tekerünk, majd a part mentén eljutunk a legendás Saint-Marc-sur-Mer-ig. A visszaút az ősi, misztikus Dissignac síremlék érintésével vezet.",
+        "ro": "Acest tur cu bicicleta îmbină portul industrial cu frumusețea naturală a coastei. După submarin, pedalați spre pod pentru o fotografie, apoi de-a lungul plajelor până la legendarul Saint-Marc-sur-Mer. Întoarcerea trece pe la misticul mormânt preistoric Tumulus.",
+        "en": "This bike tour connects the industrial harbor front with the natural beauty of the coast. After visiting the submarine, pedal to the bridge for a photo, then along the beaches to the legendary Saint-Marc-sur-Mer. The return path takes you via the mystic prehistoric Tumulus monument."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Centre",
+            "tip": "Snacks und Erfrischungen direkt am Strand von Saint-Marc."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Gauthier",
+            "tip": "Helyi sütemények útközbeni tízóraira."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Sablon",
+            "tip": "Terasa ideală pentru o pauză de prânz la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Kiosk",
+            "tip": "Quick galettes and local cider to fuel your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenspazierweg",
+            "tip": "Ruhiger Wegabschnitt fernab der Autos.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dissignac mező",
+            "tip": "Csendes vidék a történelem előtti idők nyomaival.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct panoramic",
+            "tip": "Loc izolat cu vedere spre estuarul Loarei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hidden Coves",
+            "tip": "Small rocky inlets found along the bike path.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bio-Hof",
+            "tip": "Frisches Obst für die Tour kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves bolt",
+            "tip": "Egyedi kagylóékszerek a part mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazarul Portului",
+            "tip": "Produse locale autentice din Bretania."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Rental",
+            "tip": "Quality equipment and local cycling maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Saint-Marc ist recht flach und angenehm.",
+          "Achten Sie auf die Beschilderung der 'Vélocéan'-Route.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt zum Tumulus mit.",
+          "Am Brücken-Aussichtspunkt kann es sehr windig sein."
+        ],
+        "hu": [
+          "Az út Saint-Marc-ig sík és kényelmesen tekerhető.",
+          "Kövesse a 'Vélocéan' kerékpáros útvonal jelzéseit.",
+          "Vigyél elég vizet, főleg a belső területeken.",
+          "A híd kilátópontjánál erős szélre kell számítani."
+        ],
+        "ro": [
+          "Drumul spre Saint-Marc este plat și foarte plăcut.",
+          "Urmăriți indicatoarele traseului ciclist 'Vélocéan'.",
+          "Luați suficientă apă pentru porțiunea spre Tumulus.",
+          "Vântul poate fi foarte puternic lângă pod."
+        ],
+        "en": [
+          "The ride to Saint-Marc is mostly flat and pleasant.",
+          "Follow the 'Vélocéan' cycle route signs for the best paths.",
+          "Carry enough water, especially for the inland Tumulus leg.",
+          "Expect strong winds near the bridge viewpoint area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 28.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Base sous-marine",
+          "coords": [
+            47.2758,
+            -2.2036
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Basis (Cluster A).",
+            "hu": "Parkoljon közvetlenül a bázisnál (A-klaszter).",
+            "ro": "Parcați direct la bază (Cluster A).",
+            "en": "Park directly at the base (Cluster A)."
+          }
+        },
+        {
+          "name": "Escal'Atlantic",
+          "coords": [
+            47.2752,
+            -2.2025
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg innerhalb der Basis (Cluster A).",
+            "hu": "Rövid séta a bázison belül (A-klaszter).",
+            "ro": "Scurtă plimbare în interiorul bazei (Cluster A).",
+            "en": "Short walk inside the base (Cluster A)."
+          }
+        },
+        {
+          "name": "Sous-marin Espadon",
+          "coords": [
+            47.2741,
+            -2.2018
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuch am Hafenbecken zu Fuß (Cluster A).",
+            "hu": "Látogatás gyalog a kikötői medencénél (A-klaszter).",
+            "ro": "Vizită la bazinul portuar pe jos (Cluster A).",
+            "en": "Visit the harbor basin on foot (Cluster A)."
+          }
+        },
+        {
+          "name": "Pont de Saint-Nazaire",
+          "coords": [
+            47.2785,
+            -2.1645
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Aussichtspunkt an der Brücke (Cluster B).",
+            "hu": "Autózás a híd kilátópontjához (B-klaszter).",
+            "ro": "Conduceți spre punctul de observație (Cluster B).",
+            "en": "Drive to the bridge viewpoint (Cluster B)."
+          }
+        },
+        {
+          "name": "Tumulus de Dissignac",
+          "coords": [
+            47.2708,
+            -2.2714
+          ],
+          "category": "natural features",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Fahrt ins Grüne zum Tumulus (Cluster C).",
+            "hu": "Vezetés a zöldbe a Dissignac síremlékhez (C-klaszter).",
+            "ro": "Conduceți în natură spre Tumulus (Cluster C).",
+            "en": "Drive into the green area to the Tumulus (Cluster C)."
+          }
+        },
+        {
+          "name": "Plage de Monsieur Hulot",
+          "coords": [
+            47.2425,
+            -2.2758
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Parken in Saint-Marc für den Strandtag (Cluster D).",
+            "hu": "Parkolás Saint-Marc-ban a strandoláshoz (D-klaszter).",
+            "ro": "Parcați în Saint-Marc pentru plajă (Cluster D).",
+            "en": "Park in Saint-Marc for beach time (Cluster D)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos alle Highlights von Saint-Nazaire. Vormittags konzentriert sich das Programm auf das Hafenviertel mit Bunker und Ozeanriesen. Mittags überqueren Sie die spektakuläre Brücke, bevor es zu den prähistorischen Stätten und schließlich zum Entspannen an den weiten Strand von Monsieur Hulot geht.",
+        "hu": "Autóval könnyedén elérheti Saint-Nazaire összes látnivalóját. A délelőtt a kikötői negyedé: a hatalmas bunker és az óceánjárók világa. Délben átgurulunk a látványos hídon, majd a történelem előtti síremlék és végül a Monsieur Hulot strand tágas partja következik.",
+        "ro": "Cu mașina, ajungeți ușor la toate punctele de atracție. Dimineața se concentrează pe zona portuară cu baza de submarine și pacheboturi. La prânz, traversați podul spectaculos, înainte de a vizita siturile preistorice și de a vă relaxa pe plaja spațioasă Monsieur Hulot.",
+        "en": "By car, you can effortlessly reach all the highlights. The morning focuses on the harbor district with the bunker and ocean liners. At midday, drive across the spectacular bridge before heading to the prehistoric sites and finally relaxing at the expansive Monsieur Hulot beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Escalier",
+            "tip": "Gehobene Küche mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le France",
+            "tip": "Kiváló tengeri herkentyűk kilátással a kikötőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Plage",
+            "tip": "Restaurant cu terasă direct pe nisipul din Saint-Marc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot du Port",
+            "tip": "Authentic atmosphere and fresh Atlantic fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe de l'Eve",
+            "tip": "Ruhiger Parkplatz mit toller Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dissignac mezői",
+            "tip": "Békés vidéki táj, távol a város zajától.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Saint-Marc",
+            "tip": "Loc izolat perfect pentru fotografii la apus.",
+            "emoji": "📸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bridge Overlook",
+            "tip": "Great spot to watch the sun set over the Loire.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ruban Bleu",
+            "tip": "Modernes Einkaufszentrum im Hafenbereich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Nazaire-i piac",
+            "tip": "Helyi sajtok és tengeri só (Fleur de Sel) vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Port",
+            "tip": "Suveniruri maritime și haine de marinar de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Salt Shop",
+            "tip": "Get the famous Guerande salt harvested nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Brücke ist mautfrei, kann aber bei Sturm gesperrt sein.",
+          "Parkhäuser im Zentrum sind am Wochenende oft voll.",
+          "Nutzen Sie die Parkplätze an der Base sous-marine als Basis.",
+          "Die Fahrt nach Saint-Marc dauert nur 15 Minuten."
+        ],
+        "hu": [
+          "A híd ingyenes, de viharos szélben lezárhatják.",
+          "A központi parkolóházak hétvégén hamar megtelnek.",
+          "A tengeralattjáró-bázisnál tágas, ingyenes parkoló van.",
+          "Saint-Marc-sur-Mer autóval mindössze 15 perc."
+        ],
+        "ro": [
+          "Podul este gratuit, dar poate fi închis pe vânt puternic.",
+          "Parcările etajate din centru sunt pline în weekend.",
+          "Folosiți parcarea de la baza de submarine ca punct de plecare.",
+          "Drumul spre Saint-Marc durează doar 15 minute."
+        ],
+        "en": [
+          "The bridge is toll-free but might close during high winds.",
+          "Central parking garages fill up quickly on weekends.",
+          "The submarine base offers plenty of free parking space.",
+          "The drive to Saint-Marc-sur-Mer takes only about 15 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Base sous-marine",
+          "coords": [
+            47.2758,
+            -2.2036
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit der HélYce-Linie vom Bahnhof.",
+            "hu": "A vasútállomástól az HélYce járattal érhető el.",
+            "ro": "Accesibil cu linia HélYce de la gară.",
+            "en": "Accessible with the HélYce line from the station."
+          }
+        },
+        {
+          "name": "Escal'Atlantic",
+          "coords": [
+            47.2752,
+            -2.2025
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußläufig innerhalb des Hafenclusters.",
+            "hu": "Gyalogosan elérhető a kikötői negyeden belül.",
+            "ro": "La mică distanță de mers pe jos în zona portului.",
+            "en": "Within walking distance in the harbor cluster."
+          }
+        },
+        {
+          "name": "Sous-marin Espadon",
+          "coords": [
+            47.2741,
+            -2.2018
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss im Hafen, nur 5 Min. Fußweg.",
+            "hu": "Kihagyhatatlan látnivaló, 5 perc séta.",
+            "ro": "O vizită obligatorie, la doar 5 minute de mers.",
+            "en": "A must-see in the harbor, just 5 min walk away."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            47.2705,
+            -2.2154
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder Spaziergang entlang des Wassers.",
+            "hu": "Rövid buszozás vagy séta a vízpart mentén.",
+            "ro": "Scurtă călătorie cu autobuzul sau plimbare pe mal.",
+            "en": "Short bus ride or walk along the waterfront."
+          }
+        },
+        {
+          "name": "Plage de Monsieur Hulot",
+          "coords": [
+            47.2425,
+            -2.2758
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie U1/U3 nach Saint-Marc.",
+            "hu": "Használja az U1 vagy U3 buszt Saint-Marc felé.",
+            "ro": "Luați linia U1/U3 spre Saint-Marc.",
+            "en": "Take line U1/U3 towards Saint-Marc."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das effiziente HélYce-Bussystem macht Saint-Nazaire ohne Auto leicht erkundbar. Der Vormittag gehört den monumentalen Hafenanlagen. Mittags spazieren Sie durch den botanischen Garten, bevor Sie der Bus bequem in das charmante Saint-Marc-sur-Mer bringt, um den Nachmittag am legendären Hulot-Strand zu verbringen.",
+        "hu": "A hatékony HélYce buszhálózatnak köszönhetően Saint-Nazaire autó nélkül is könnyen felfedezhető. A délelőtt a monumentális kikötői létesítményeké. Délben sétálunk a botanikus kertben, majd busszal kényelmesen eljutunk Saint-Marc-sur-Mer-be, a legendás Hulot-strandra.",
+        "ro": "Sistemul eficient de autobuze HélYce face ca Saint-Nazaire să fie ușor de explorat fără mașină. Dimineața aparține instalațiilor portuare monumentale. La prânz, plimbați-vă prin grădina botanică, apoi autobuzul vă duce confortabil în Saint-Marc-sur-Mer pentru plajă.",
+        "en": "The efficient HélYce bus system makes Saint-Nazaire easy to explore without a car. The morning is dedicated to the monumental harbor facilities. At midday, stroll through the botanical garden before the bus takes you comfortably to charming Saint-Marc-sur-Mer for the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 14",
+            "tip": "Beliebtes Bistro in der Nähe der Haltestelle HélYce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Theatre",
+            "tip": "Hagyományos breton galette a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Relais",
+            "tip": "Mâncare rapidă și bună în apropierea gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cafe de la Paix",
+            "tip": "Classic French cafe culture in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Joël-le-Theule",
+            "tip": "Ruhiger Weg am Hafenbecken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Marc sziklák",
+            "tip": "Csendes partszakasz a falu szélén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Oază de liniște între oraș și port.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Viewpoint",
+            "tip": "Relaxing spot near the submarine pens.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Ruban Bleu",
+            "tip": "Viele Geschäfte direkt an der Buslinie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi piac",
+            "tip": "Friss tengeri halak és helyi termékek délelőtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Escal'Atlantic",
+            "tip": "Suveniruri tematice despre marile vapoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maritime Bookstore",
+            "tip": "Unique books and maps about naval history."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das STRAN-Netzwerk.",
+          "Die HélYce-Busse fahren in sehr dichten Abständen.",
+          "Die Fahrt nach Saint-Marc dauert mit dem Bus etwa 30 Min.",
+          "Laden Sie die STRAN-App für Echtzeit-Auskünfte herunter."
+        ],
+        "hu": [
+          "Vegyél napijegyet a helyi közlekedésre (STRAN).",
+          "Az HélYce buszok sűrűn közlekednek a városban.",
+          "A buszos út Saint-Marc-ig kb. 30 percet vesz igénybe.",
+          "Használd a STRAN mobilalkalmazást a pontos menetrendhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua STRAN.",
+          "Autobuzele HélYce au o frecvență foarte mare.",
+          "Călătoria spre Saint-Marc durează aproximativ 30 de minute.",
+          "Descărcați aplicația STRAN pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the STRAN public transport network.",
+          "HélYce buses run frequently between the station and harbor.",
+          "The bus ride to Saint-Marc takes about 30 minutes.",
+          "Download the STRAN app for real-time bus tracking and info."
+        ]
+      }
+    }
+  }
+}

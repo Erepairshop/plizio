@@ -1,0 +1,1067 @@
+{
+  "city_id": "city-saarlouis-sl-extra",
+  "anchor": {
+    "name": "Großer Markt Saarlouis",
+    "coords": [
+      6.7517,
+      49.3134
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Markt",
+            "hu": "Großer Markt",
+            "ro": "Piața Mare",
+            "en": "Main Market Square"
+          },
+          "coords": [
+            6.7512,
+            49.3131
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das geometrische Layout der barocken Festungsstadt.",
+            "hu": "Csodáld meg a barokk erődváros geometrikus alaprajzát.",
+            "ro": "Admirați aspectul geometric al orașului-cetate baroc.",
+            "en": "Admire the geometric layout of the baroque fortress city."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludwigskirche",
+            "hu": "Lajos-templom",
+            "ro": "Biserica Sf. Ludovic",
+            "en": "Ludwig Church"
+          },
+          "coords": [
+            6.7495,
+            49.3118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab des Stadtgründers Thomas de Choisy.",
+            "hu": "Látogasd meg a városalapító Thomas de Choisy sírját.",
+            "ro": "Vizitați mormântul fondatorului orașului, Thomas de Choisy.",
+            "en": "Visit the tomb of the city founder Thomas de Choisy."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Saarlouis",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            6.7505,
+            49.3125
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die prächtige Fassade und den Gobelinsaal an.",
+            "hu": "Nézd meg a díszes homlokzatot és a falikárpit-termet.",
+            "ro": "Vedeți fațada magnifică și sala tapiseriilor.",
+            "en": "See the magnificent facade and the tapestry hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Laboratorium",
+            "hu": "Laboratórium Múzeum",
+            "ro": "Laboratorium",
+            "en": "Laboratorium Museum"
+          },
+          "coords": [
+            6.7485,
+            49.3182
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Einblick in die Stadtgeschichte in einem ehemaligen Labor.",
+            "hu": "Várostörténeti betekintés egy egykori laboratóriumban.",
+            "ro": "O privire în istoria orașului într-un fost laborator.",
+            "en": "Insight into city history in a former laboratory."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne VI",
+            "hu": "VI. Laktanya",
+            "ro": "Cazarma VI",
+            "en": "Barracks VI"
+          },
+          "coords": [
+            6.7525,
+            49.3168
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Kulturzentrum beherbergt die Stadtbibliothek und Archive.",
+            "hu": "A kulturális központban található a városi könyvtár és levéltár.",
+            "ro": "Centrul cultural găzduiește biblioteca orașului și arhivele.",
+            "en": "The cultural center houses the city library and archives."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Tor",
+            "hu": "Német-kapu",
+            "ro": "Poarta Germană",
+            "en": "German Gate"
+          },
+          "coords": [
+            6.7562,
+            49.3155
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eines der wenigen erhaltenen Tore der Festung Vauban.",
+            "hu": "A Vauban-erőd egyik kevés fennmaradt kapuja.",
+            "ro": "Una dintre puținele porți rămase ale cetății Vauban.",
+            "en": "One of the few remaining gates of the Vauban fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Vauban-Insel",
+            "hu": "Vauban-sziget",
+            "ro": "Insula Vauban",
+            "en": "Vauban Island"
+          },
+          "coords": [
+            6.7455,
+            49.3188
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Denkmal für Marschall Ney an der Saar.",
+            "hu": "Látogasd meg Ney marsall emlékművét a Saar-parton.",
+            "ro": "Vizitați monumentul Mareșalului Ney de pe malul Saarului.",
+            "en": "Visit the monument to Marshal Ney on the Saar banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Saarlouis wurde 1680 von Ludwig XIV. als Festungsstadt gegründet. Der Vormittag gehört dem geometrischen Großen Markt und der prächtigen Ludwigskirche. Mittags erkunden wir die Geschichte im Laboratorium-Museum, bevor wir den Nachmittag in den weitläufigen Parkanlagen der Vauban-Insel an der Saar ausklingen lassen. Ein perfekter Mix aus französischer Eleganz und preußischer Wehrhaftigkeit.",
+        "hu": "Saarlouis-t 1680-ban alapította XIV. Lajos erődvárosként. A délelőtt a geometrikus Großer Markt és a pompás Lajos-templom felfedezésével telik. Ebéd után a Laboratórium Múzeumban ismerkedünk a történelemmel, majd a délutánt a Saar-parti Vauban-sziget kiterjedt parkjaiban zárjuk. A francia elegancia és a porosz katonai múlt tökéletes egyvelege vár itt ránk.",
+        "ro": "Saarlouis a fost fondat în 1680 de Ludovic al XIV-lea ca oraș-cetate. Dimineața este dedicată Pieței Mari geometrice și superbe Biserici Sf. Ludovic. La prânz explorăm istoria la Muzeul Laboratorium, înainte de a încheia după-amiaza în parcurile vaste de pe Insula Vauban de pe malul Saarului. Un mix perfect de eleganță franceză și fortificații prusace.",
+        "en": "Saarlouis was founded in 1680 by Louis XIV as a fortress city. The morning is dedicated to the geometric Main Market and the magnificent Ludwig Church. After lunch, we explore the history at the Laboratorium Museum before ending the afternoon in the extensive parks of Vauban Island on the Saar. A perfect mix of French elegance and Prussian military heritage awaits here."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lyoner Pfanne",
+            "tip": "Probieren Sie die lokale Saarländische Wurstspezialität in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lyoner tál",
+            "tip": "Kóstold meg a helyi saar-vidéki kolbászspecialitást az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lyoner Pfanne",
+            "tip": "Gustați specialitatea locală de cârnați din Saarland în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lyoner Pan",
+            "tip": "Try the local Saarland sausage specialty in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Ruhige Spaziergänge entlang der alten Festungswälle.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Csendes séták a régi erődrendszer falai mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Plimbări liniștite de-a lungul vechilor ziduri ale cetății.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Garden",
+            "tip": "Quiet walks along the old fortress ramparts.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte auf dem Großen Markt (Mi & Sa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek a Großer Markton (szerda és szombat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete în Piața Mare (mierecuri și sâmbătă)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh local products on the Main Market (Wed & Sat)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Saarlouis ist sehr fußgängerfreundlich, alle Sehenswürdigkeiten liegen nah beieinander.",
+          "Die Kasematten bieten im Sommer kühle Rückzugsorte und gemütliche Cafés.",
+          "Parken Sie am besten am Rande des Zentrums, um den Marktplatz zu Fuß zu genießen."
+        ],
+        "hu": [
+          "Saarlouis nagyon gyalogosbarát, minden látnivaló közel van egymáshoz.",
+          "A kazamaták nyáron hűvös menedéket és hangulatos kávézókat kínálnak.",
+          "Érdemes a központ szélén parkolni, hogy gyalogosan élvezhessük a piacteret."
+        ],
+        "ro": [
+          "Saarlouis este foarte prietenos cu pietonii, toate obiectivele sunt aproape.",
+          "Cazmatele oferă locuri răcoroase și cafenele primitoare pe timpul verii.",
+          "Parcați la marginea centrului pentru a vă bucura de piață la pas."
+        ],
+        "en": [
+          "Saarlouis is very pedestrian-friendly; all sights are within walking distance.",
+          "The casemates offer cool retreats and cozy cafes during the summer.",
+          "It is best to park on the edge of the center to enjoy the market square on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Markt",
+            "hu": "Großer Markt",
+            "ro": "Piața Mare",
+            "en": "Main Market"
+          },
+          "coords": [
+            6.7512,
+            49.3131
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt für Radtouren in die Umgebung.",
+            "hu": "Ideális kiindulópont környékbeli kerékpártúrákhoz.",
+            "ro": "Punct de plecare ideal pentru tururi cu bicicleta.",
+            "en": "Ideal starting point for bike tours in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungsanlagen",
+            "hu": "Erődrendszer",
+            "ro": "Fortificațiile",
+            "en": "Fortress Ramparts"
+          },
+          "coords": [
+            6.7535,
+            49.3175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren auf den alten Wällen mit Blick auf die Stadt.",
+            "hu": "Kerékpározás a régi sáncokon, kilátással a városra.",
+            "ro": "Biciclism pe vechile valuri de pământ cu vedere spre oraș.",
+            "en": "Cycling on the old ramparts with city views."
+          }
+        },
+        {
+          "name": {
+            "de": "Vauban-Insel",
+            "hu": "Vauban-sziget",
+            "ro": "Insula Vauban",
+            "en": "Vauban Island"
+          },
+          "coords": [
+            6.7455,
+            49.3188
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Leinpfad entlang der Saar.",
+            "hu": "Kövesd a vontatóutat a Saar-folyó mentén.",
+            "ro": "Urmați poteca de-a lungul râului Saar.",
+            "en": "Follow the towpath along the Saar river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludwigskirche",
+            "hu": "Lajos-templom",
+            "ro": "Biserica Sf. Ludovic",
+            "en": "Ludwig Church"
+          },
+          "coords": [
+            6.7495,
+            49.3118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Barocke Pracht im Herzen der Altstadt.",
+            "hu": "Barokk pompa az óváros szívében.",
+            "ro": "Splendoare barocă în inima orașului vechi.",
+            "en": "Baroque splendor in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Saaraltarm",
+            "hu": "Saar-holtág",
+            "ro": "Brațul vechi al Saarului",
+            "en": "Old Saar Arm"
+          },
+          "coords": [
+            6.7405,
+            49.3255
+          ],
+          "category": "lake",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Naturbelassene Wege ideal für eine ruhige Pause.",
+            "hu": "Természetközeli utak, ideális egy csendes pihenőhöz.",
+            "ro": "Trasee naturale ideale pentru o pauză liniștită.",
+            "en": "Natural trails ideal for a quiet break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne VI",
+            "hu": "VI. Laktanya",
+            "ro": "Cazarma VI",
+            "en": "Barracks VI"
+          },
+          "coords": [
+            6.7525,
+            49.3168
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Abschluss der Tour in der kulturellen Mitte.",
+            "hu": "A túra lezárása a kulturális központban.",
+            "ro": "Încheierea turului în centrul cultural.",
+            "en": "Concluding the tour in the cultural center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Festungsstadt auf zwei Rädern. Die Route führt vom historischen Zentrum über die grünen Wälle zu den Ufern der Saar. Ein Highlight ist die Fahrt entlang des Saaraltarms, wo Natur und Geschichte verschmelzen. Die flache Topographie macht Saarlouis zu einem Paradies für entspanntes Radfahren, ideal um sowohl urbane Highlights als auch ruhige Wasserlandschaften zu verbinden.",
+        "hu": "Fedezd fel az erődvárost két keréken. Az útvonal a történelmi központból indul, átvezet a zöld sáncokon, egészen a Saar-folyó partjáig. A túra fénypontja a Saar-holtág menti tekerés, ahol a természet és a történelem összeolvad. A sík terep miatt Saarlouis a pihentető kerékpározás paradicsoma, tökéletes a városi látnivalók és a nyugodt vízparti tájak összekapcsolására.",
+        "ro": "Explorați orașul-cetate pe două roți. Traseul pornește din centrul istoric, trece peste valurile verzi de fortificații până la malurile Saarului. Un punct culminant este plimbarea de-a lungul brațului vechi al Saarului, unde natura și istoria se contopesc. Topografia plană face din Saarlouis un paradis pentru ciclism relaxat, ideal pentru a vizita atât atracțiile urbane, cât și peisajele liniștite de la malul apei.",
+        "en": "Explore the fortress city on two wheels. The route leads from the historical center over the green ramparts to the banks of the Saar. A highlight is the ride along the Old Saar Arm, where nature and history merge. The flat topography makes Saarlouis a paradise for relaxed cycling, perfect for combining urban highlights with quiet waterscapes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Saaraltarm",
+            "tip": "Erfrischen Sie sich bei einem kühlen Getränk direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sörkert a Saar-holtágnál",
+            "tip": "Frissülj fel egy hűvös itallal közvetlenül a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten la brațul vechi",
+            "tip": "Răcoriți-vă cu o băutură rece chiar lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beer Garden at Old Saar Arm",
+            "tip": "Refresh yourself with a cool drink directly by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saarufer",
+            "tip": "Viel Platz zum Ausruhen mit Blick auf die Schifffahrt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saar-part",
+            "tip": "Rengeteg hely a pihenésre, kilátással a hajóforgalomra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Saarului",
+            "tip": "Mult spațiu de odihnă cu vedere la vapoare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saar Banks",
+            "tip": "Plenty of space to rest with a view of the shipping traffic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen in der Altstadt",
+            "tip": "Zubehör und Kartenmaterial für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt az óvárosban",
+            "tip": "Kiegészítők és térképek bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop in Old Town",
+            "tip": "Accessories and maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Saarradweg ist hervorragend ausgebaut und fast steigungsfrei.",
+          "Nutzen Sie die Brücken, um zwischen den Festungsinseln zu wechseln.",
+          "Achten Sie in der Fußgängerzone auf Radfahrverbote zu Stoßzeiten."
+        ],
+        "hu": [
+          "A Saar-menti kerékpárút kiválóan kiépített és szinte teljesen sík.",
+          "Használd a hidakat az erőd-szigetek közötti váltáshoz.",
+          "Ügyelj a sétálóutcában a csúcsidőben érvényes kerékpározási tilalmakra."
+        ],
+        "ro": [
+          "Pista de biciclete de-a lungul Saarului este excelentă și plată.",
+          "Folosiți podurile pentru a trece între insulele cetății.",
+          "Atenție la restricțiile pentru biciclete în zona pietonală la orele de vârf."
+        ],
+        "en": [
+          "The Saar cycle path is excellently developed and almost entirely flat.",
+          "Use the bridges to switch between the fortress islands.",
+          "Be aware of bicycle restrictions in the pedestrian zone during peak times."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Großer Markt (Cluster A)",
+            "hu": "Großer Markt (A klaszter)",
+            "ro": "Piața Mare (Cluster A)",
+            "en": "Main Market (Cluster A)"
+          },
+          "coords": [
+            6.7512,
+            49.3131
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt auf dem großen Platz (gebührenpflichtig).",
+            "hu": "Parkolj közvetlenül a nagy téren (díjköteles).",
+            "ro": "Parcați chiar în piața mare (cu taxă).",
+            "en": "Park directly on the large square (fee applies)."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludwigskirche (Cluster A)",
+            "hu": "Lajos-templom (A klaszter)",
+            "ro": "Biserica Sf. Ludovic (Cluster A)",
+            "en": "Ludwig Church (Cluster A)"
+          },
+          "coords": [
+            6.7495,
+            49.3118
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Marktplatz.",
+            "hu": "Rövid séta a piactérről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne VI (Cluster B)",
+            "hu": "VI. Laktanya (B klaszter)",
+            "ro": "Cazarma VI (Cluster B)",
+            "en": "Barracks VI (Cluster B)"
+          },
+          "coords": [
+            6.7525,
+            49.3168
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplatz hinter der Kaserne nutzen.",
+            "hu": "Használd a laktanya mögötti parkolót.",
+            "ro": "Folosiți parcarea din spatele cazarmei.",
+            "en": "Use the parking lot behind the barracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Laboratorium (Cluster B)",
+            "hu": "Laboratórium (B klaszter)",
+            "ro": "Laboratorium (Cluster B)",
+            "en": "Laboratorium (Cluster B)"
+          },
+          "coords": [
+            6.7485,
+            49.3182
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Kaserne erreichbar.",
+            "hu": "Gyalogosan elérhető a laktanyától.",
+            "ro": "Accesibil pe jos de la cazarmă.",
+            "en": "Accessible on foot from the barracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Saarpolygon (Extra)",
+            "hu": "Saar-poligon (Extra)",
+            "ro": "Saarpolygon (Extra)",
+            "en": "Saar Polygon (Extra)"
+          },
+          "coords": [
+            6.7865,
+            49.2985
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Iconisches Denkmal auf der Bergehalde Ensdorf.",
+            "hu": "Ikonikus emlékmű az ensdorfi meddőhányón.",
+            "ro": "Monument iconic pe halda din Ensdorf.",
+            "en": "Iconic monument on the Ensdorf mining heap."
+          }
+        },
+        {
+          "name": {
+            "de": "Vauban-Insel (Cluster C)",
+            "hu": "Vauban-sziget (C klaszter)",
+            "ro": "Insula Vauban (Cluster C)",
+            "en": "Vauban Island (Cluster C)"
+          },
+          "coords": [
+            6.7455,
+            49.3188
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken am Stadtgarten/Ufer.",
+            "hu": "Parkolás a Stadtgartennél/partnál.",
+            "ro": "Parcare la grădina publică/mal.",
+            "en": "Parking at the city garden/bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Tor (Cluster C)",
+            "hu": "Német-kapu (C klaszter)",
+            "ro": "Poarta Germană (Cluster C)",
+            "en": "German Gate (Cluster C)"
+          },
+          "coords": [
+            6.7562,
+            49.3155
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am historischen Stadteingang.",
+            "hu": "Rövid megálló a történelmi városbejáratnál.",
+            "ro": "Scurtă oprire la intrarea istorică în oraș.",
+            "en": "Short stop at the historical city entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir das Herz von Saarlouis mit spektakulären Ausblicken. Nach dem barocken Stadtzentrum fahren wir zum nahegelegenen Saarpolygon in Ensdorf, einer monumentalen Stahlskulptur auf einer alten Bergbauhalde. Zum Abschluss kehren wir zur Vauban-Insel zurück, um die Symbiose aus Natur und Festungsbaukunst zu genießen. Diese Tour zeigt die Wandlung der Region von der Festung zum Industriestandort.",
+        "hu": "Autóval kötjük össze Saarlouis szívét a látványos panorámákkal. A barokk városközpont után az ensdorfi Saar-poligonhoz hajtunk, amely egy régi bányászati meddőhányón álló monumentális acélszobor. Végül visszatérünk a Vauban-szigethez, hogy kiélvezzük a természet és az erődépítészet szimbiózisát. Ez a túra megmutatja a régió átalakulását az erődtől az ipari központig.",
+        "ro": "Cu mașina conectăm inima orașului Saarlouis cu vederi spectaculoase. După centrul istoric baroc, mergem la Saarpolygon în Ensdorf, o sculptură monumentală din oțel pe o veche haldă minieră. La final revenim la Insula Vauban pentru a ne bucura de simbioza dintre natură și arhitectura fortificațiilor. Acest tur arată transformarea regiunii de la cetate la sit industrial.",
+        "en": "By car, we combine the heart of Saarlouis with spectacular views. After the baroque city center, we drive to the nearby Saar Polygon in Ensdorf, a monumental steel sculpture on an old mining heap. Finally, we return to Vauban Island to enjoy the symbiosis of nature and fortress architecture. This tour showcases the region's transformation from a fortress to an industrial hub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Saarpolygon",
+            "tip": "Snacks mit Panoramablick über das Saartal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étterem a Saar-poligonnál",
+            "tip": "Snackek panorámás kilátással a Saar-völgyre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant la Saarpolygon",
+            "tip": "Gustări cu vedere panoramică peste valea Saarului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saar Polygon Restaurant",
+            "tip": "Snacks with a panoramic view over the Saar valley."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Spitze der Bergehalde",
+            "tip": "Weite Sicht und Ruhe oberhalb des Industrielärms.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A meddőhányó teteje",
+            "tip": "Tágas kilátás és nyugalom az ipari zaj felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful haldei",
+            "tip": "Vedere largă și liniște deasupra zgomotului industrial.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mining Heap Summit",
+            "tip": "Wide views and peace above the industrial noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gewerbegebiet Lisdorfer Berg",
+            "tip": "Große Outlets und Fachmärkte für ausgiebiges Shopping."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lisdorfer Berg ipari negyed",
+            "tip": "Nagy outlet üzletek és szakáruházak vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona comercială Lisdorfer Berg",
+            "tip": "Outlet-uri mari și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lisdorfer Berg Retail Park",
+            "tip": "Large outlets and specialist stores for extensive shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Auffahrt zum Saarpolygon ist gut beschildert, Parkplätze vorhanden.",
+          "Im Stadtzentrum ist das Parksystem digitalisiert (Handyparken möglich).",
+          "Kombinieren Sie den Ausflug mit einem Besuch im nahegelegenen Wallerfangen."
+        ],
+        "hu": [
+          "A Saar-poligonhoz vezető út jól ki van táblázva, van parkoló.",
+          "A városközpontban digitális parkolási rendszer működik.",
+          "Kombináld a kirándulást a közeli Wallerfangen meglátogatásával."
+        ],
+        "ro": [
+          "Accesul auto către Saarpolygon este bine semnalizat, există parcare.",
+          "În centrul orașului sistemul de parcare este digitalizat.",
+          "Combinați excursia cu o vizită în localitatea învecinată Wallerfangen."
+        ],
+        "en": [
+          "The drive to the Saar Polygon is well-signposted, with parking available.",
+          "The parking system in the city center is digitized (mobile parking possible).",
+          "Combine the trip with a visit to nearby Wallerfangen."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof Saarlouis",
+            "hu": "Főpályaudvar",
+            "ro": "Gara Centrală",
+            "en": "Main Station"
+          },
+          "coords": [
+            6.7585,
+            49.3285
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 403 oder 405 ins Zentrum.",
+            "hu": "Szállj fel a 403-as vagy 405-ös buszra a központ felé.",
+            "ro": "Luați autobuzul 403 sau 405 spre centru.",
+            "en": "Take bus 403 or 405 to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Markt",
+            "hu": "Großer Markt",
+            "ro": "Piața Mare",
+            "en": "Main Market"
+          },
+          "coords": [
+            6.7512,
+            49.3131
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der zentrale Busknotenpunkt der Stadt.",
+            "hu": "A város központi buszos csomópontja.",
+            "ro": "Nodul central de autobuze al orașului.",
+            "en": "The central bus hub of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Vauban-Insel",
+            "hu": "Vauban-sziget",
+            "ro": "Insula Vauban",
+            "en": "Vauban Island"
+          },
+          "coords": [
+            6.7455,
+            49.3188
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus in 10-15 Min. zu Fuß erreichbar.",
+            "hu": "A központtól 10-15 perc gyalogosan.",
+            "ro": "Accesibil în 10-15 minute pe jos din centru.",
+            "en": "Accessible in 10-15 minutes on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Laboratorium",
+            "hu": "Laboratórium",
+            "ro": "Laboratorium",
+            "en": "Laboratorium"
+          },
+          "coords": [
+            6.7485,
+            49.3182
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Museum in unmittelbarer Nähe zur Festungsanlage.",
+            "hu": "Múzeum közvetlenül az erődrendszer mellett.",
+            "ro": "Muzeu situat chiar lângă fortificații.",
+            "en": "Museum located right next to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner Markt",
+            "hu": "Kis piac",
+            "ro": "Piața Mică",
+            "en": "Small Market"
+          },
+          "coords": [
+            6.7522,
+            49.3145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang in den Cafés der Altstadt.",
+            "hu": "Hangulatos zárás az óváros kávézóiban.",
+            "ro": "Final relaxant în cafenelele orașului vechi.",
+            "en": "Cozy conclusion in the cafes of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des dichten Busnetzes ist Saarlouis auch ohne Auto perfekt zu entdecken. Vom Hauptbahnhof führt der Weg direkt ins barocke Herz. Die Highlights wie der Große Markt und die Vauban-Insel liegen in Clustern, die bequem zu Fuß erkundet werden können. Zwischen den Stadtteilen nutzen wir die effizienten Stadtbusse, die den historischen Kern mit dem Bahnhof und den Außenbezirken verbinden.",
+        "hu": "A sűrű buszhálózatnak köszönhetően Saarlouis autó nélkül is tökéletesen felfedezhető. A főpályaudvartól az út egyenesen a barokk szívbe vezet. A főbb látnivalók, mint a Großer Markt és a Vauban-sziget, klaszterekben helyezkednek el, amelyek gyalogosan is kényelmesen bejárhatók. A városrészek között a hatékony helyi buszokat használjuk, amelyek összekötik a történelmi magot a vasútállomással.",
+        "ro": "Datorită rețelei dense de autobuze, Saarlouis poate fi descoperit perfect și fără mașină. De la gara centrală drumul duce direct în inima barocă. Atracțiile principale, cum ar fi Piața Mare și Insula Vauban, sunt grupate în clustere ce pot fi explorate ușor pe jos. Între cartiere folosim autobuzele urbane eficiente care conectează centrul istoric cu gara și zonele exterioare.",
+        "en": "Thanks to the dense bus network, Saarlouis is perfectly discoverable without a car. From the main station, the route leads directly into the baroque heart. Highlights like the Main Market and Vauban Island are in clusters that can be comfortably explored on foot. Between districts, we use efficient city buses that connect the historical core with the train station and outer areas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscafé am Kleinen Markt",
+            "tip": "Beliebter Treffpunkt für Einheimische und Besucher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagyizó a Kis piacon",
+            "tip": "Népszerű találkozóhely a helyiek és látogatók számára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelaterie în Piața Mică",
+            "tip": "Loc de întâlnire popular pentru localnici și vizitatori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream Cafe at Small Market",
+            "tip": "Popular meeting spot for locals and visitors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Laboratorium",
+            "tip": "Kleine grüne Oase abseits des Trubels am Marktplatz.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laboratórium melletti park",
+            "tip": "Kis zöld oázis távol a piactér nyüzsgésétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă Laboratorium",
+            "tip": "Mică oază verde departe de agitația din piață.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Laboratorium Park",
+            "tip": "Small green oasis away from the market square bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Kleiner Markt",
+            "tip": "Überdachtes Shopping-Erlebnis im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galerie Kleiner Markt",
+            "tip": "Fedett bevásárlóközpont a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerie Kleiner Markt",
+            "tip": "Experiență de shopping acoperită în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Market Gallery",
+            "tip": "Indoor shopping experience in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Saar-Mobil' App für Echtzeit-Fahrpläne herunter.",
+          "Ein Tagesticket für das Stadtgebiet ist oft günstiger als Einzelfahrten.",
+          "Die Busse verkehren ab dem Großen Markt in alle Himmelsrichtungen."
+        ],
+        "hu": [
+          "Töltsd le a 'Saar-Mobil' appot a valós idejű menetrendekhez.",
+          "A városi napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+          "A buszok a Großer Marktról indulnak minden irányba."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Saar-Mobil' pentru orare în timp real.",
+          "Un bilet de o zi pentru zona urbană este adesea mai ieftin.",
+          "Autobuzele circulă din Piața Mare în toate direcțiile."
+        ],
+        "en": [
+          "Download the 'Saar-Mobil' app for real-time schedules.",
+          "A day ticket for the city area is often cheaper than single rides.",
+          "Buses run from the Main Market in all directions."
+        ]
+      }
+    }
+  }
+}

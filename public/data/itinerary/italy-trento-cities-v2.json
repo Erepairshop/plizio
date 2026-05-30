@@ -1,0 +1,1083 @@
+{
+  "city_id": "italy-trento-cities-v2",
+  "anchor": {
+    "name": "Piazza Duomo",
+    "coords": [
+      11.1211,
+      46.0679
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Duomo",
+            "hu": "Dóm tér",
+            "ro": "Piazza Duomo",
+            "en": "Piazza Duomo"
+          },
+          "coords": [
+            11.1211,
+            46.0679
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Neptunbrunnen und die freskierten Fassaden der Cazuffi-Rella-Häuser.",
+            "hu": "Csodálja meg a Neptun-kutat és a Cazuffi-Rella házak freskókkal díszített homlokzatát.",
+            "ro": "Admirați fântâna lui Neptun și fațadele frescate ale caselor Cazuffi-Rella.",
+            "en": "Admire the Neptune Fountain and the frescoed facades of the Cazuffi-Rella houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Vigilio",
+            "hu": "San Vigilio katedrális",
+            "ro": "Catedrala San Vigilio",
+            "en": "San Vigilio Cathedral"
+          },
+          "coords": [
+            11.1215,
+            46.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta mit den Ruinen der antiken frühchristlichen Basilika.",
+            "hu": "Látogassa meg a kriptát az ókeresztény bazilika romjaival.",
+            "ro": "Vizitați cripta cu ruinele vechii basilici paleocreștine.",
+            "en": "Visit the crypt containing the ruins of the ancient early Christian basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pretorio",
+            "hu": "Prétori palota",
+            "ro": "Palatul Pretorio",
+            "en": "Palazzo Pretorio"
+          },
+          "coords": [
+            11.1218,
+            46.0678
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beherbergt das Diözesanmuseum mit prächtigen flämischen Wandteppichen.",
+            "hu": "Az Egyházmegyei Múzeumnak ad otthont, lenyűgöző flamand faliszőnyegekkel.",
+            "ro": "Găzduiește Muzeul Diecezan cu tapiserii flamande magnifice.",
+            "en": "Houses the Diocesan Museum with magnificent Flemish tapestries."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Belenzani",
+            "hu": "Via Belenzani",
+            "ro": "Via Belenzani",
+            "en": "Via Belenzani"
+          },
+          "coords": [
+            11.1205,
+            46.0685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die eleganteste Straße von Trient, gesäumt von bemalten Palästen aus der Renaissance.",
+            "hu": "Trento legelegánsabb utcája, reneszánsz festett palotákkal szegélyezve.",
+            "ro": "Cea mai elegantă stradă din Trento, mărginită de palate pictate din perioada Renașterii.",
+            "en": "Trento's most elegant street, lined with painted Renaissance palaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Buonconsiglio",
+            "hu": "Buonconsiglio vár",
+            "ro": "Castelul Buonconsiglio",
+            "en": "Buonconsiglio Castle"
+          },
+          "coords": [
+            11.1265,
+            46.071
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den Torre Aquila mit dem berühmten Freskenzyklus der Monate.",
+            "hu": "Ne hagyja ki a Sas-torony híres Hónapok-freskóciklusát.",
+            "ro": "Nu ratați Turnul Aquila cu celebrul ciclu de fresce al Lunilor.",
+            "en": "Don't miss the Aquila Tower with the famous Cycle of the Months frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Santa Maria Maggiore",
+            "en": "Santa Maria Maggiore"
+          },
+          "coords": [
+            11.1195,
+            46.0688
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort des Konzils von Trient mit einer prächtigen Orgelempore.",
+            "hu": "A tridenti zsinat fontos helyszíne, pompás orgonakarzattal.",
+            "ro": "Un loc important al Conciliului de la Trento, cu o tribună a orgii magnifică.",
+            "en": "An important site of the Council of Trent with a magnificent organ loft."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtturm (Torre Civica)",
+            "hu": "Várostorony (Torre Civica)",
+            "ro": "Turnul Civic (Torre Civica)",
+            "en": "Civic Tower (Torre Civica)"
+          },
+          "coords": [
+            11.1213,
+            46.0677
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der markante Turm dominiert die Piazza Duomo; genießen Sie die Architektur von unten.",
+            "hu": "A jellegzetes torony uralja a Dóm teret; csodálja meg az építészetét alulról.",
+            "ro": "Turnul proeminent domină Piazza Duomo; admirați arhitectura de jos.",
+            "en": "The prominent tower dominates Piazza Duomo; admire its architecture from below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Trient auf der Piazza Duomo, umgeben von Geschichte und Kunst. Nach dem Besuch der Kathedrale und des Diözesanmuseums im Palazzo Pretorio spazieren Sie durch die elegante Via Belenzani zum prächtigen Schloss Buonconsiglio. Der Nachmittag führt Sie zur historischen Kirche Santa Maria Maggiore und endet mit dem Blick auf den Stadtturm.",
+        "hu": "A napot Trento szívében, a Dóm téren kezdi, ahol a történelem és a művészet találkozik. A katedrális és a Prétori palotában található múzeum megtekintése után az elegáns Via Belenzanin keresztül sétál el a Buonconsiglio várhoz. Délután meglátogatja a Santa Maria Maggiore templomot, és a város jelképének számító Torre Civica tövében fejezi be a sétát.",
+        "ro": "Ziua începe în inima orașului Trento, în Piazza Duomo, înconjurată de istorie și artă. După vizitarea catedralei și a muzeului diecezan din Palazzo Pretorio, plimbați-vă pe eleganta Via Belenzani până la magnificul Castel Buonconsiglio. După-amiaza vă duce la biserica istorică Santa Maria Maggiore și se încheie cu privirea asupra Turnului Civic.",
+        "en": "Your day starts in the heart of Trento at Piazza Duomo, surrounded by history and art. After visiting the Cathedral and the Diocesan Museum in Palazzo Pretorio, stroll through elegant Via Belenzani to the magnificent Buonconsiglio Castle. The afternoon leads you to the historic Santa Maria Maggiore church and ends with a view of the Civic Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scrigno del Duomo",
+            "tip": "Hervorragende Weinauswahl und lokale Spezialitäten direkt am Hauptplatz."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Probieren Sie die traditionellen Speckknödel in einer kräftigen Brühe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scrigno del Duomo",
+            "tip": "Kiváló borválaszték és helyi specialitások közvetlenül a főtéren."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Kóstolja meg a hagyományos szalonnás gombócokat gazdag húslevesben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scrigno del Duomo",
+            "tip": "Selecție excelentă de vinuri și specialități locale chiar în piața principală."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Încercați găluștele tradiționale cu speck în supă clară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scrigno del Duomo",
+            "tip": "Excellent wine selection and local specialties right on the main square."
+          },
+          {
+            "name": "Canederli",
+            "tip": "Try the traditional speck dumplings served in a rich broth."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten Buonconsiglio",
+            "tip": "Ein ruhiger Rückzugsort hinter den mächtigen Mauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buonconsiglio várkert",
+            "tip": "Csendes menedék a hatalmas várfalak mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Buonconsiglio",
+            "tip": "Un refugiu liniștit în spatele zidurilor impunătoare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buonconsiglio Castle Gardens",
+            "tip": "A quiet retreat behind the massive castle walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Zahlreiche Boutiquen und Geschäfte für italienische Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Számos butik és üzlet az olasz divat kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Numeroase boutiquri și magazine pentru modă italiană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Numerous boutiques and shops for Italian fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trient ist sehr fußgängerfreundlich, das historische Zentrum ist fast vollständig verkehrsberuhigt.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Trinken Sie das Wasser aus den zahlreichen öffentlichen Brunnen, es ist von hervorragender Qualität."
+        ],
+        "hu": [
+          "Trento rendkívül gyalogosbarát, a történelmi központ szinte teljesen autómentes.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Igyon a számos nyilvános kút vizéből, kiváló minőségű alpesi víz."
+        ],
+        "ro": [
+          "Trento este foarte prietenos cu pietonii, centrul istoric fiind aproape în întregime zonă pietonală.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Beți apă de la numeroasele fântâni publice, este de o calitate excelentă."
+        ],
+        "en": [
+          "Trento is very pedestrian-friendly, the historic center is almost entirely a restricted traffic zone.",
+          "Most museums are closed on Mondays.",
+          "Drink the water from the many public fountains; it is of excellent quality alpine water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Duomo",
+            "hu": "Dóm tér",
+            "ro": "Piazza Duomo",
+            "en": "Piazza Duomo"
+          },
+          "coords": [
+            11.1211,
+            46.0679
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Rand des Platzes und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkolja le a kerékpárt a tér szélén, és gyalog fedezze fel a központot.",
+            "ro": "Parcați bicicleta la marginea pieței și explorați centrul pe jos.",
+            "en": "Park your bike at the edge of the square and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Buonconsiglio",
+            "hu": "Buonconsiglio vár",
+            "ro": "Castelul Buonconsiglio",
+            "en": "Buonconsiglio Castle"
+          },
+          "coords": [
+            11.1265,
+            46.071
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich direkt vor dem Haupteingang des Schlosses.",
+            "hu": "Kerékpártárolók találhatók közvetlenül a vár főbejárata előtt.",
+            "ro": "Suporturile pentru biciclete se află chiar în fața intrării principale a castelului.",
+            "en": "Bike racks are located right in front of the castle's main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Etsch-Radweg",
+            "hu": "Adige-kerékpárút",
+            "ro": "Pista de biciclete Adige",
+            "en": "Adige Cycle Path"
+          },
+          "coords": [
+            11.115,
+            46.068
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang des Flusses mit Blick auf die umliegenden Berge.",
+            "hu": "Élvezze a folyó menti tekerést a környező hegyekre nyíló kilátással.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul râului cu vedere la munții din jur.",
+            "en": "Enjoy the ride along the river with views of the surrounding mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSE",
+            "hu": "MUSE (Tudományos Múzeum)",
+            "ro": "MUSE",
+            "en": "MUSE"
+          },
+          "coords": [
+            11.113,
+            46.063
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das von Renzo Piano entworfene Gebäude ist ein modernes Meisterwerk.",
+            "hu": "A Renzo Piano által tervezett épület a modern építészet mesterműve.",
+            "ro": "Clădirea proiectată de Renzo Piano este o capodoperă modernă.",
+            "en": "The building designed by Renzo Piano is a modern masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo delle Albere",
+            "hu": "Palazzo delle Albere",
+            "ro": "Palazzo delle Albere",
+            "en": "Palazzo delle Albere"
+          },
+          "coords": [
+            11.1135,
+            46.0635
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine prächtige Renaissancevilla, die heute oft Wechselausstellungen beherbergt.",
+            "hu": "Pompás reneszánsz villa, amely ma gyakran időszaki kiállításoknak ad otthont.",
+            "ro": "O vilă renascentistă magnifică, care astăzi găzduiește adesea expoziții temporare.",
+            "en": "A magnificent Renaissance villa that now often hosts temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Doss Trento",
+            "hu": "Doss Trento",
+            "ro": "Doss Trento",
+            "en": "Doss Trento"
+          },
+          "coords": [
+            11.114,
+            46.075
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein etwas steilerer Anstieg, aber der Panoramablick auf die Stadt lohnt sich.",
+            "hu": "Kicsit meredekebb emelkedő, de a városra nyíló panoráma megéri a fáradtságot.",
+            "ro": "O urcare puțin mai abruptă, dar vederea panoramică asupra orașului merită efortul.",
+            "en": "A slightly steeper climb, but the panoramic view of the city is worth the effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Trient effizient und aktiv. Vom historischen Zentrum radeln Sie zum Schloss Buonconsiglio und dann am Etsch-Ufer entlang zum modernen Le Albere Viertel. Hier besuchen Sie das beeindruckende MUSE und den Palazzo delle Albere. Zum Abschluss bietet der Doss Trento einen unvergesslichen Blick über die gesamte Region.",
+        "hu": "Kerékpárral hatékonyan és aktívan fedezheti fel Trentót. A történelmi központból elteker a Buonconsiglio várhoz, majd az Adige-parti kerékpárúton a modern Le Albere negyedbe érkezik. Itt meglátogatja a lenyűgöző MUSE-t és a Palazzo delle Albere-t. Végül a Doss Trento dombja kínál felejthetetlen kilátást az egész régióra.",
+        "ro": "Cu bicicleta explorați Trento eficient și activ. Din centrul istoric pedalați spre Castelul Buonconsiglio și apoi pe malul râului Adige până la cartierul modern Le Albere. Aici vizitați impresionantul MUSE și Palazzo delle Albere. În final, Doss Trento oferă o vedere de neuitat asupra întregii regiuni.",
+        "en": "By bike, you can explore Trento efficiently and actively. From the historic center, cycle to Buonconsiglio Castle and then along the Adige river to the modern Le Albere district. Here you will visit the impressive MUSE and Palazzo delle Albere. Finally, Doss Trento offers an unforgettable view over the entire region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bici Grill Trento",
+            "tip": "Der perfekte Stopp für Radfahrer direkt am Radweg für einen schnellen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bici Grill Trento",
+            "tip": "Tökéletes megálló kerékpárosoknak közvetlenül a bringaút mellett egy gyors snackre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bici Grill Trento",
+            "tip": "Popasul perfect pentru bicicliști chiar pe pistă pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bici Grill Trento",
+            "tip": "The perfect stop for cyclists right on the cycle path for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade der Etsch",
+            "tip": "Lange Strecken im Grünen ohne Autoverkehr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adige-parti sétány",
+            "tip": "Hosszú szakaszok zöldben, autóforgalom nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada râului Adige",
+            "tip": "Trasee lungi în verdeață, fără trafic auto.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Adige River Promenade",
+            "tip": "Long stretches in the green without car traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt an der Piazza Fiera",
+            "tip": "Hier finden oft lokale Märkte mit Handwerk und Lebensmitteln statt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Fiera piac",
+            "tip": "Itt gyakran tartanak helyi kézműves és élelmiszerpiacokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Piazza Fiera",
+            "tip": "Aici se organizează adesea piețe locale cu artizanat și alimente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Fiera Market",
+            "tip": "Local markets with crafts and food are often held here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Trient ist Teil eines riesigen Radwegnetzes, das bis zum Gardasee führt.",
+          "Nutzen Sie das Bike-Sharing-System 'Trentino in Bici', falls Sie kein eigenes Rad haben.",
+          "Achten Sie auf Fußgänger in der Altstadt, steigen Sie im Zweifel ab."
+        ],
+        "hu": [
+          "Trento egy hatalmas kerékpárút-hálózat része, amely egészen a Garda-tóig vezet.",
+          "Használja a 'Trentino in Bici' közösségi kerékpárrendszert, ha nincs sajátja.",
+          "Ügyeljen a gyalogosokra az óvárosban, szükség esetén szálljon le a bicikliről."
+        ],
+        "ro": [
+          "Trento face parte dintr-o rețea vastă de piste care duce până la Lacul Garda.",
+          "Utilizați sistemul de bike-sharing 'Trentino in Bici' dacă nu aveți bicicletă proprie.",
+          "Atenție la pietoni în centrul vechi, coborâți de pe bicicletă dacă e aglomerat."
+        ],
+        "en": [
+          "Trento is part of a huge cycle path network that leads all the way to Lake Garda.",
+          "Use the 'Trentino in Bici' bike-sharing system if you don't have your own bike.",
+          "Watch out for pedestrians in the old town; dismount if it's crowded."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Duomo (Parken Zentrum)",
+            "hu": "Dóm tér (Parkolás a központban)",
+            "ro": "Piazza Duomo (Parcare Centru)",
+            "en": "Piazza Duomo (Center Parking)"
+          },
+          "coords": [
+            11.1211,
+            46.0679
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Autoparkos' in der Nähe für einen stressfreien Start.",
+            "hu": "Parkoljon az 'Autoparkos' mélygarázsban a közelben a stresszmentes kezdéshez.",
+            "ro": "Parcați în parcarea 'Autoparkos' din apropiere pentru un început fără stres.",
+            "en": "Park in the 'Autoparkos' parking garage nearby for a stress-free start."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Vigilio",
+            "hu": "San Vigilio katedrális",
+            "ro": "Catedrala San Vigilio",
+            "en": "San Vigilio Cathedral"
+          },
+          "coords": [
+            11.1215,
+            46.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Innere bietet beeindruckende romanische Architektur (zu Fuß erreichbar).",
+            "hu": "Belseje lenyűgöző román kori építészetet kínál (gyalogosan elérhető).",
+            "ro": "Interiorul oferă o arhitectură romanică impresionantă (accesibil pe jos).",
+            "en": "The interior offers impressive Romanesque architecture (reachable on foot)."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSE",
+            "hu": "MUSE (Tudományos Múzeum)",
+            "ro": "MUSE",
+            "en": "MUSE"
+          },
+          "coords": [
+            11.113,
+            46.063
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das große Parkhaus direkt unter dem Museum.",
+            "hu": "Használja a közvetlenül a múzeum alatti nagy parkolóházat.",
+            "ro": "Utilizați parcarea subterană mare situată direct sub muzeu.",
+            "en": "Use the large underground parking garage directly below the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo delle Albere",
+            "hu": "Palazzo delle Albere",
+            "ro": "Palazzo delle Albere",
+            "en": "Palazzo delle Albere"
+          },
+          "coords": [
+            11.1135,
+            46.0635
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich neben dem MUSE gelegen, Teil desselben modernen Viertels.",
+            "hu": "Közvetlenül a MUSE mellett található, ugyanannak a modern negyednek a része.",
+            "ro": "Situat chiar lângă MUSE, face parte din același cartier modern.",
+            "en": "Located right next to MUSE, part of the same modern district."
+          }
+        },
+        {
+          "name": {
+            "de": "Doss Trento",
+            "hu": "Doss Trento",
+            "ro": "Doss Trento",
+            "en": "Doss Trento"
+          },
+          "coords": [
+            11.114,
+            46.075
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Gipfel für das Cesare Battisti Mausoleum und die Aussicht.",
+            "hu": "Vezessen fel a csúcsig a Cesare Battisti mauzóleumhoz és a kilátáshoz.",
+            "ro": "Conduceți până în vârf pentru Mausoleul Cesare Battisti și priveliște.",
+            "en": "Drive to the top for the Cesare Battisti Mausoleum and the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Belenzani",
+            "hu": "Via Belenzani",
+            "ro": "Via Belenzani",
+            "en": "Via Belenzani"
+          },
+          "coords": [
+            11.1205,
+            46.0685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Kehren Sie für einen letzten Kaffee in das Zentrum zurück.",
+            "hu": "Térjen vissza a központba egy utolsó kávéra.",
+            "ro": "Reveniți în centru pentru o ultimă cafea.",
+            "en": "Return to the center for a final coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Auto-Variante kombiniert das historische Zentrum mit den Außenbezirken. Nach einem Spaziergang um den Dom fahren Sie zum modernen Le Albere Viertel für das MUSE. Später bietet die Fahrt auf den Doss Trento den besten Panoramablick, bevor Sie den Tag in der eleganten Via Belenzani ausklingen lassen.",
+        "hu": "Az autós változat ötvözi a történelmi központot a külvárosi részekkel. A dóm körüli séta után a modern Le Albere negyedbe autózik a MUSE megtekintésére. Később a Doss Trento dombjára tett kirándulás kínálja a legjobb panorámát, mielőtt a napot az elegáns Via Belenzanin zárná.",
+        "ro": "Varianta cu mașina combină centrul istoric cu zonele limitrofe. După o plimbare în jurul domului, conduceți spre cartierul modern Le Albere pentru MUSE. Mai târziu, drumul până pe Doss Trento oferă cea mai bună vedere panoramică, înainte de a încheia ziua pe eleganta Via Belenzani.",
+        "en": "The car variant combines the historic center with the outskirts. After a stroll around the Duomo, drive to the modern Le Albere district for MUSE. Later, the drive up Doss Trento offers the best panoramic view, before ending the day in elegant Via Belenzani."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forst Birreria",
+            "tip": "Typische Südtiroler Küche und frisch gezapftes Bier in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forst Birreria",
+            "tip": "Tipikus dél-tiroli konyha és frissen csapolt sör rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forst Birreria",
+            "tip": "Bucătărie tipică din Tirolul de Sud și bere proaspătă într-un ambient rustic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forst Birreria",
+            "tip": "Typical South Tyrolean cuisine and fresh draft beer in a rustic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mausoleum auf dem Doss Trento",
+            "tip": "Ein monumentaler Ort der Stille hoch über der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doss Trento mauzóleum",
+            "tip": "A csend monumentális helyszíne magasan a város felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mausoleul de pe Doss Trento",
+            "tip": "Un loc monumental de liniște sus deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Doss Trento Mausoleum",
+            "tip": "A monumental place of silence high above the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Lokale Feinkost wie Käse und Speck zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Helyi csemegék, mint sajt és szalonna, amit érdemes hazavinni."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Delicii locale precum brânză și speck de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sotto il Salone",
+            "tip": "Local delicacies like cheese and speck to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achtung ZTL: Das Zentrum ist für auswärtige Autos gesperrt, nutzen Sie nur markierte Parkhäuser.",
+          "Parkplätze am Straßenrand sind oft zeitlich begrenzt (blaue Linien).",
+          "Die Straßen in den umliegenden Bergen sind eng, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "ZTL figyelem: A központ a külsős autóknak le van zárva, csak a kijelölt parkolóházakat használja.",
+          "Az útmenti parkolóhelyek gyakran időkorlátosak (kék vonalak).",
+          "A környező hegyi utak szűkek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Atenție ZTL: Centrul este restricționat pentru mașini străine, folosiți doar parcările etajate marcate.",
+          "Locurile de parcare de pe marginea drumului sunt adesea limitate temporal (linii albastre).",
+          "Drumurile din munții din jur sunt înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "ZTL Warning: The center is restricted to local traffic; use only marked parking garages.",
+          "On-street parking spaces are often time-limited (blue lines).",
+          "The roads in the surrounding mountains are narrow; drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Duomo",
+            "hu": "Dóm tér",
+            "ro": "Piazza Duomo",
+            "en": "Piazza Duomo"
+          },
+          "coords": [
+            11.1211,
+            46.0679
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof in 5 Minuten zu Fuß erreichbar.",
+            "hu": "A főpályaudvartól 5 perc sétával elérhető.",
+            "ro": "Accesibil în 5 minute pe jos de la gara centrală.",
+            "en": "Accessible within a 5-minute walk from the main train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale San Vigilio",
+            "hu": "San Vigilio katedrális",
+            "ro": "Catedrala San Vigilio",
+            "en": "San Vigilio Cathedral"
+          },
+          "coords": [
+            11.1215,
+            46.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Befindet sich direkt an der Piazza Duomo.",
+            "hu": "Közvetlenül a Dóm téren található.",
+            "ro": "Se află direct în Piazza Duomo.",
+            "en": "Located directly on Piazza Duomo."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Buonconsiglio",
+            "hu": "Buonconsiglio vár",
+            "ro": "Castelul Buonconsiglio",
+            "en": "Buonconsiglio Castle"
+          },
+          "coords": [
+            11.1265,
+            46.071
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Stadtbus der Linie A, um den kurzen Anstieg zu sparen.",
+            "hu": "Használja az 'A' jelzésű városi buszt, hogy megspórolja a rövid emelkedőt.",
+            "ro": "Folosiți autobuzul urban linia A pentru a evita urcarea scurtă.",
+            "en": "Use the city bus line A to save on the short uphill walk."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSE",
+            "hu": "MUSE (Tudományos Múzeum)",
+            "ro": "MUSE",
+            "en": "MUSE"
+          },
+          "coords": [
+            11.113,
+            46.063
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Zug 'Trento-Malè' bis zur Haltestelle 'San Lorenzo'.",
+            "hu": "Szálljon fel a 'Trento-Malè' vonatra a 'San Lorenzo' megállóig.",
+            "ro": "Luați trenul 'Trento-Malè' până la stația 'San Lorenzo'.",
+            "en": "Take the 'Trento-Malè' train to the 'San Lorenzo' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo delle Albere",
+            "hu": "Palazzo delle Albere",
+            "ro": "Palazzo delle Albere",
+            "en": "Palazzo delle Albere"
+          },
+          "coords": [
+            11.1135,
+            46.0635
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom MUSE durch den Park.",
+            "hu": "Rövid séta a MUSE-tól a parkon keresztül.",
+            "ro": "O scurtă plimbare de la MUSE prin parc.",
+            "en": "A short walk from MUSE through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Duomo (Abschluss)",
+            "hu": "Dóm tér (Zárás)",
+            "ro": "Piazza Duomo (Final)",
+            "en": "Piazza Duomo (Finale)"
+          },
+          "coords": [
+            11.1211,
+            46.0679
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Glas Trentodoc zum Abschluss Ihres Tages.",
+            "hu": "Élvezzen egy pohár Trentodoc pezsgőt a nap végén.",
+            "ro": "Bucurați-vă de un pahar de Trentodoc la finalul zilei.",
+            "en": "Enjoy a glass of Trentodoc to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete öffentliche Verkehrsnetz von Trient. Beginnen Sie im Zentrum, nehmen Sie den Bus zum Schloss Buonconsiglio und fahren Sie dann mit dem Zug oder Bus zum modernen MUSE. Diese Tour ermöglicht es Ihnen, die wichtigsten Sehenswürdigkeiten bequem zu erreichen, ohne sich um Parkplätze kümmern zu müssen.",
+        "hu": "Használja ki Trento kiváló tömegközlekedési hálózatát. Kezdjen a központban, busszal menjen a Buonconsiglio várhoz, majd vonattal vagy busszal érje el a modern MUSE-t. Ez a túra lehetővé teszi a főbb látnivalók kényelmes elérését anélkül, hogy a parkolás miatt aggódna.",
+        "ro": "Profitați de rețeaua excelentă de transport public din Trento. Începeți în centru, luați autobuzul spre Castelul Buonconsiglio și apoi mergeți cu trenul sau autobuzul la modernul MUSE. Acest tur vă permite să ajungeți confortabil la principalele obiective fără a vă face griji pentru parcare.",
+        "en": "Take advantage of Trento's excellent public transport network. Start in the center, take the bus to Buonconsiglio Castle, and then reach the modern MUSE by train or bus. This tour allows you to comfortably reach the main sights without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante al Vo",
+            "tip": "Eines der ältesten Restaurants der Stadt mit authentischer Trentiner Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante al Vo",
+            "tip": "A város egyik legrégebbi étterme autentikus trentói konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante al Vo",
+            "tip": "Unul dintre cele mai vechi restaurante din oraș cu bucătărie autentică din Trento."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante al Vo",
+            "tip": "One of the oldest restaurants in the city with authentic Trentino cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park 'Le Albere'",
+            "tip": "Ein großer, moderner Park direkt am MUSE.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "'Le Albere' park",
+            "tip": "Nagy, modern park közvetlenül a MUSE mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul 'Le Albere'",
+            "tip": "Un parc mare și modern chiar lângă MUSE.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Albere Park",
+            "tip": "A large, modern park right by the MUSE.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "Die Enoteca Provinciale bietet die besten Weine des Trentino zum Kauf an."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "A Tartományi Borotéka (Enoteca) kínálja a legjobb trentói borokat megvételre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "Enoteca Provincială oferă cele mai bune vinuri din Trentino pentru cumpărare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palazzo Roccabruna",
+            "tip": "The Provincial Enoteca offers the best Trentino wines for purchase."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die 'Trentino Guest Card' für kostenlose Nutzung des Nahverkehrs und freien Eintritt in Museen.",
+          "Die Fahrkarten müssen vor der Fahrt entwertet werden.",
+          "Die Busse verkehren regelmäßig und sind sehr pünktlich."
+        ],
+        "hu": [
+          "Vásárolja meg a 'Trentino Guest Card'-ot az ingyenes közlekedéshez és múzeumi belépőkhöz.",
+          "A jegyeket az utazás előtt érvényesíteni kell.",
+          "A buszok rendszeresen közlekednek és nagyon pontosak."
+        ],
+        "ro": [
+          "Cumpărați 'Trentino Guest Card' pentru utilizarea gratuită a transportului și intrare liberă la muzee.",
+          "Biletele trebuie validate înainte de călătorie.",
+          "Autobuzele circulă regulat și sunt foarte punctuale."
+        ],
+        "en": [
+          "Purchase the 'Trentino Guest Card' for free public transport and free entry to museums.",
+          "Tickets must be validated before the trip.",
+          "Buses run regularly and are very punctual."
+        ]
+      }
+    }
+  }
+}

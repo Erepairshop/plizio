@@ -1,0 +1,999 @@
+{
+  "city_id": "hoyerswerda-extra",
+  "anchor": {
+    "name": "Hoyerswerda Marktplatz",
+    "coords": [
+      14.2464,
+      51.436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marktplatz Altstadt",
+          "coords": [
+            14.2442,
+            51.4378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die rekonstruierten Giebelhäuser und das Rathaus.",
+            "hu": "Csodálja meg a rekonstruált oromzatos házakat és a városházát.",
+            "ro": "Admirați casele cu fronton reconstruite și primăria.",
+            "en": "Admire the reconstructed gable houses and the town hall."
+          }
+        },
+        {
+          "name": "Johanneskirche",
+          "coords": [
+            14.2452,
+            51.4385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt mit wertvoller Innenausstattung.",
+            "hu": "A város legrégebbi temploma értékes belső berendezéssel.",
+            "ro": "Cea mai veche biserică din oraș, cu un interior valoros.",
+            "en": "The oldest church in the city with valuable interior furnishings."
+          }
+        },
+        {
+          "name": "Schloss Hoyerswerda",
+          "coords": [
+            14.2468,
+            51.4372
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadtmuseum im ältesten Gebäude der Stadt.",
+            "hu": "Látogasson el a városi múzeumba a város legrégebbi épületében.",
+            "ro": "Vizitați muzeul orașului în cea mai veche clădire din oraș.",
+            "en": "Visit the city museum in the oldest building in the city."
+          }
+        },
+        {
+          "name": "Zoo Hoyerswerda",
+          "coords": [
+            14.2485,
+            51.4368
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kompakter, familienfreundlicher Zoo direkt am Schloss.",
+            "hu": "Kompakt, családbarát állatkert közvetlenül a kastély mellett.",
+            "ro": "O grădină zoologică compactă și primitoare, chiar lângă castel.",
+            "en": "A compact, family-friendly zoo right next to the castle."
+          }
+        },
+        {
+          "name": "Lausitz-Center",
+          "coords": [
+            14.2445,
+            51.4455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Modernes Einkaufszentrum im Herzen der Neustadt.",
+            "hu": "Modern bevásárlóközpont az Újváros szívében.",
+            "ro": "Centru comercial modern în inima orașului nou.",
+            "en": "Modern shopping center in the heart of the New Town."
+          }
+        },
+        {
+          "name": "Zuse-Computermuseum",
+          "coords": [
+            14.2422,
+            51.4485
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Computertechnik von Konrad Zuse.",
+            "hu": "Fedezze fel a Konrad Zuse által alapított számítástechnika történetét.",
+            "ro": "Descoperiți istoria tehnologiei computerelor de Konrad Zuse.",
+            "en": "Discover the history of computer technology by Konrad Zuse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am historischen Marktplatz der Altstadt, umgeben von sanierten Bürgerhäusern. Nach einem Besuch der alten Johanneskirche führt der Weg zum imposanten Schloss, das die Stadtgeschichte bewahrt. Mittags erkunden Sie den direkt angrenzenden Zoo. Der Nachmittag gehört der Neustadt mit dem Lausitz-Center und dem faszinierenden Zuse-Computermuseum, das an den Pionier Konrad Zuse erinnert.",
+        "hu": "A nap az óváros történelmi piacterén kezdődik, felújított polgárházak gyűrűjében. A régi Szent János-templom megtekintése után az út a város történelmét őrző impozáns kastélyhoz vezet. Délben a közvetlen szomszédságban lévő állatkertet fedezzük fel. A délután az Újvárosé, a Lausitz-Centerrel és a lenyűgöző Zuse Számítógépes Múzeummal, amely Konrad Zuse úttörő munkásságának állít emléket.",
+        "ro": "Ziua începe în piața istorică a centrului vechi, înconjurată de case cetățenești renovate. După o vizită la vechea biserică Sf. Ioan, drumul duce la castelul impunător care păstrează istoria orașului. La prânz, explorăm grădina zoologică adiacentă. După-amiaza aparține orașului nou, cu Lausitz-Center și fascinantul Muzeu al Computerelor Zuse, care amintește de pionierul Konrad Zuse.",
+        "en": "The day begins at the historic market square of the Old Town, surrounded by renovated townhouses. After visiting the old St. John's Church, the path leads to the imposing castle, which preserves the city's history. At noon, you explore the directly adjacent zoo. The afternoon is dedicated to the New Town with the Lausitz-Center and the fascinating Zuse Computer Museum, commemorating pioneer Konrad Zuse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus Zur Mühle",
+            "tip": "Probieren Sie Lausitzer Hochzeitsuppe."
+          },
+          {
+            "name": "Restaurant am Schloß",
+            "tip": "Regionale Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus Zur Mühle",
+            "tip": "Kóstolja meg a luzsicai lakodalmi levest."
+          },
+          {
+            "name": "Restaurant am Schloß",
+            "tip": "Regionális konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus Zur Mühle",
+            "tip": "Încercați supa de nuntă din Lusatia."
+          },
+          {
+            "name": "Restaurant am Schloß",
+            "tip": "Bucătărie regională într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus Zur Mühle",
+            "tip": "Try the Lusatian wedding soup."
+          },
+          {
+            "name": "Restaurant am Schloß",
+            "tip": "Regional cuisine in a historical atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Entspannter Spaziergang an der Schwarzen Elster.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Pihentető séta a Fekete-Elster folyó partján.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "O plimbare relaxantă pe malul râului Schwarze Elster.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "A relaxing stroll along the Schwarze Elster river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lausitz-Center",
+            "tip": "Größte Shopping-Vielfalt der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lausitz-Center",
+            "tip": "A régió legnagyobb vásárlási választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lausitz-Center",
+            "tip": "Cea mai mare varietate de cumpărături din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lausitz-Center",
+            "tip": "The largest shopping variety in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und gut zu Fuß erkundbar.",
+          "Achten Sie auf die zweisprachigen Straßenschilder (Deutsch/Sorbisch).",
+          "Kombinieren Sie den Zoo-Besuch mit dem Schlossmuseum.",
+          "Nutzen Sie die Fußgängerwege entlang der Elster."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt és gyalogosan könnyen felfedezhető.",
+          "Figyelje a kétnyelvű utcatáblákat (német/szorb).",
+          "Kombinálja az állatkerti látogatást a kastélymúzeummal.",
+          "Használja az Elster menti gyalogutakat."
+        ],
+        "ro": [
+          "Centrul vechi este foarte compact și ușor de explorat la pas.",
+          "Fiți atenți la indicatoarele stradale bilingve (germană/sorabă).",
+          "Combinați vizita la grădina zoologică cu muzeul castelului.",
+          "Folosiți potecile pietonale de-a lungul râului Elster."
+        ],
+        "en": [
+          "The Old Town is very compact and easy to explore on foot.",
+          "Watch for the bilingual street signs (German/Sorbian).",
+          "Combine the zoo visit with the castle museum.",
+          "Use the pedestrian paths along the Elster river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marktplatz Altstadt",
+          "coords": [
+            14.2442,
+            51.4378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für eine Radtour durch die Stadt.",
+            "hu": "Tökéletes kiindulópont egy városi kerékpártúrához.",
+            "ro": "Punctul de plecare perfect pentru un tur al orașului cu bicicleta.",
+            "en": "Perfect starting point for a bike tour through the city."
+          }
+        },
+        {
+          "name": "Zoo Hoyerswerda",
+          "coords": [
+            14.2485,
+            51.4368
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze sind direkt am Eingang vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók.",
+            "ro": "Există locuri de parcare pentru biciclete chiar la intrare.",
+            "en": "Bicycle parking spaces are available directly at the entrance."
+          }
+        },
+        {
+          "name": "Lausitzbad",
+          "coords": [
+            14.2652,
+            51.4425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wellness und Badespaß für eine entspannte Mittagspause.",
+            "hu": "Wellness és fürdőzés egy pihentető ebédszünethez.",
+            "ro": "Wellness și distracție la scăldat pentru o pauză de prânz relaxantă.",
+            "en": "Wellness and bathing fun for a relaxed lunch break."
+          }
+        },
+        {
+          "name": "Zuse-Computermuseum",
+          "coords": [
+            14.2422,
+            51.4485
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Moderne Ausstellung in der Neustadt.",
+            "hu": "Modern kiállítás az Újvárosban.",
+            "ro": "Expoziție modernă în orașul nou.",
+            "en": "Modern exhibition in the New Town."
+          }
+        },
+        {
+          "name": "Lausitz-Center",
+          "coords": [
+            14.2445,
+            51.4455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Shopping-Stopp auf der Tour.",
+            "hu": "Rövid vásárlási megálló a túra során.",
+            "ro": "O scurtă oprire pentru cumpărături în timpul turului.",
+            "en": "Short shopping stop on the tour."
+          }
+        },
+        {
+          "name": "Johanneskirche",
+          "coords": [
+            14.2452,
+            51.4385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ruhiger Moment in der historischen Kirche.",
+            "hu": "Csendes pillanat a történelmi templomban.",
+            "ro": "Un moment de liniște în biserica istorică.",
+            "en": "Quiet moment in the historic church."
+          }
+        },
+        {
+          "name": "Schloss Hoyerswerda",
+          "coords": [
+            14.2468,
+            51.4372
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Abschluss der Tour am Schlosspark.",
+            "hu": "A túra lezárása a kastélyparkban.",
+            "ro": "Încheierea turului în parcul castelului.",
+            "en": "End of the tour at the castle park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die historische Altstadt mit der modernen Neustadt und dem Naherholungsgebiet Lausitzbad. Wir starten am Marktplatz, besuchen den Zoo und radeln dann zum Lausitzbad für Entspannung. Am Nachmittag erkunden wir das Computermuseum und das Lausitz-Center, bevor wir über die Johanneskirche zurück zum Schloss radeln, wo die Tour gemütlich ausklingt.",
+        "hu": "Ez a kerékpártúra összeköti a történelmi óvárost a modern Újvárossal és a Lausitzbad üdülőövezettel. A piactérről indulunk, meglátogatjuk az állatkertet, majd a Lausitzbadhoz tekerünk pihenni. Délután felfedezzük a számítógépes múzeumot és a Lausitz-Centert, mielőtt a Szent János-templomon keresztül visszatekerünk a kastélyhoz, ahol a túra kényelmesen véget ér.",
+        "ro": "Acest tur cu bicicleta conectează centrul vechi istoric cu orașul nou modern și zona de recreere Lausitzbad. Începem din piață, vizităm grădina zoologică și apoi mergem cu bicicleta la Lausitzbad pentru relaxare. După-amiaza explorăm muzeul computerelor și Lausitz-Center, înainte de a pedala înapoi la castel prin biserica Sf. Ioan, unde turul se încheie confortabil.",
+        "en": "This bike tour connects the historic Old Town with the modern New Town and the Lausitzbad recreation area. We start at the market square, visit the zoo, and then cycle to Lausitzbad for relaxation. In the afternoon, we explore the computer museum and the Lausitz-Center before cycling back to the castle via St. John's Church, where the tour ends comfortably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Lausitzbad",
+            "tip": "Schnelle Snacks für Badegäste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro im Lausitzbad",
+            "tip": "Gyors falatok a fürdőzőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro im Lausitzbad",
+            "tip": "Gustări rapide pentru oaspeții băii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro im Lausitzbad",
+            "tip": "Quick snacks for bathers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gondelteich",
+            "tip": "Ruhiger Teich in der Nähe des Zoos.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gondelteich",
+            "tip": "Csendes tavacska az állatkert közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gondelteich",
+            "tip": "Iaz liniștit lângă grădina zoologică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gondelteich",
+            "tip": "Quiet pond near the zoo.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Passage",
+            "tip": "Kleine Läden mit lokalem Charme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altstadt-Passage",
+            "tip": "Kis üzletek helyi bájjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altstadt-Passage",
+            "tip": "Magazine mici cu farmec local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altstadt-Passage",
+            "tip": "Small shops with local charm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist flach und ideal zum Radfahren.",
+          "Nutzen Sie die Radwege entlang der Hauptstraßen.",
+          "Kombinieren Sie die Tour mit einer Fahrt ins Lausitzer Seenland.",
+          "Tragen Sie einen Helm, besonders in der belebten Neustadt."
+        ],
+        "hu": [
+          "A város sík, ideális kerékpározáshoz.",
+          "Használja a főutak menti kerékpárutakat.",
+          "Kombinálja a túrát egy kirándulással a Luzsicai-tóvidékre.",
+          "Viseljen sisakot, különösen a forgalmas Újvárosban."
+        ],
+        "ro": [
+          "Orașul este plat și ideal pentru ciclism.",
+          "Folosiți pistele de biciclete de-a lungul străzilor principale.",
+          "Combinați turul cu o excursie în regiunea lacurilor din Lusatia.",
+          "Purtați cască, mai ales în orașul nou aglomerat."
+        ],
+        "en": [
+          "The city is flat and ideal for cycling.",
+          "Use the bike paths along the main streets.",
+          "Combine the tour with a trip to the Lusatian Lake District.",
+          "Wear a helmet, especially in the busy New Town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marktplatz Altstadt",
+          "coords": [
+            14.2442,
+            51.4378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz am Marktplatz verfügbar.",
+            "hu": "Központi parkoló áll rendelkezésre a piactéren.",
+            "ro": "Parcare centrală disponibilă în piață.",
+            "en": "Central parking available at the market square."
+          }
+        },
+        {
+          "name": "Schloss Hoyerswerda",
+          "coords": [
+            14.2468,
+            51.4372
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Marktplatz zum Schloss.",
+            "hu": "Rövid séta a piactértől a kastélyig.",
+            "ro": "O scurtă plimbare de la piață la castel.",
+            "en": "Short walk from the market square to the castle."
+          }
+        },
+        {
+          "name": "Zoo Hoyerswerda",
+          "coords": [
+            14.2485,
+            51.4368
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss, kein Umparken nötig.",
+            "hu": "Közvetlenül a kastély mellett, nem kell átparkolni.",
+            "ro": "Chiar lângă castel, nu este nevoie de mutarea mașinii.",
+            "en": "Right next to the castle, no need to move the car."
+          }
+        },
+        {
+          "name": "Zuse-Computermuseum",
+          "coords": [
+            14.2422,
+            51.4485
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eigener Parkplatz direkt vor dem Museum.",
+            "hu": "Saját parkoló közvetlenül a múzeum előtt.",
+            "ro": "Parcare proprie chiar în fața muzeului.",
+            "en": "Private parking directly in front of the museum."
+          }
+        },
+        {
+          "name": "Lausitz-Center",
+          "coords": [
+            14.2445,
+            51.4455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großes Parkhaus mit direktem Zugang zum Center.",
+            "hu": "Nagy parkolóház közvetlen hozzáféréssel a központhoz.",
+            "ro": "Parcare mare cu acces direct la centru.",
+            "en": "Large parking garage with direct access to the center."
+          }
+        },
+        {
+          "name": "Krabat-Mühle Schwarzkollm",
+          "coords": [
+            14.1352,
+            51.4355
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein Muss für Fans der Krabat-Sage, 10 Min. Fahrt.",
+            "hu": "Kihagyhatatlan a Krabat-rajongóknak, 10 perc autóval.",
+            "ro": "O necesitate pentru fanii legendei Krabat, 10 min. de mers cu mașina.",
+            "en": "A must for fans of the Krabat legend, 10 min drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir Hoyerswerda und die mystische Krabat-Mühle im nahegelegenen Schwarzkollm. Wir starten in der Altstadt, parken zentral für Schloss und Zoo. Danach geht es in die Neustadt zum Zuse-Museum und zum Shopping. Den krönenden Abschluss bildet der Besuch der Krabat-Mühle, wo die sorbische Sage lebendig wird.",
+        "hu": "Autóval fedezzük fel Hoyerswerdát és a közeli Schwarzkollmban található misztikus Krabat-malmot. Az óvárosban kezdünk, központi helyen parkolunk a kastély és az állatkert meglátogatásához. Ezután az Újvárosba megyünk a Zuse múzeumba és vásárolni. A napot a Krabat-malom meglátogatása koronázza meg, ahol életre kel a szorb legenda.",
+        "ro": "Cu mașina explorăm Hoyerswerda și moara mistică Krabat din Schwarzkollm, aflată în apropiere. Începem în centrul vechi, parcând central pentru castel și grădina zoologică. Apoi mergem în orașul nou la muzeul Zuse și la cumpărături. Punctul culminant este vizita la moara Krabat, unde legenda sorabă prinde viață.",
+        "en": "By car, we explore Hoyerswerda and the mystical Krabat Mill in nearby Schwarzkollm. We start in the Old Town, parking centrally for the castle and zoo. Then we head to the New Town for the Zuse museum and shopping. The grand finale is a visit to the Krabat Mill, where the Sorbian legend comes to life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bauernstube Schwarzkollm",
+            "tip": "Hausgemachte Plinse probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bauernstube Schwarzkollm",
+            "tip": "Kóstolja meg a házi készítésű palacsintát (Plinse)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bauernstube Schwarzkollm",
+            "tip": "Încercați clătitele (Plinse) de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bauernstube Schwarzkollm",
+            "tip": "Try the homemade pancakes (Plinse)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dubringer Moor",
+            "tip": "Naturschutzgebiet westlich der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dubringer Moor",
+            "tip": "Természetvédelmi terület a várostól nyugatra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dubringer Moor",
+            "tip": "Rezervație naturală la vest de oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dubringer Moor",
+            "tip": "Nature reserve west of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schwarzkollmer Mühlenladen",
+            "tip": "Sorbische Spezialitäten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schwarzkollmer Mühlenladen",
+            "tip": "Szorb különlegességek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schwarzkollmer Mühlenladen",
+            "tip": "Specialități sorabe și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schwarzkollmer Mühlenladen",
+            "tip": "Sorbian specialties and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser in der Neustadt für längere Aufenthalte.",
+          "Die Fahrt nach Schwarzkollm dauert ca. 10-15 Minuten.",
+          "Parkplätze am Zoo sind am Wochenende oft voll.",
+          "Achten Sie auf Wildwechsel auf den Landstraßen."
+        ],
+        "hu": [
+          "Hosszabb tartózkodáshoz használja az Újváros parkolóházait.",
+          "Az út Schwarzkollmba kb. 10-15 percet vesz igénybe.",
+          "Az állatkertnél a parkolók hétvégén gyakran megtelnek.",
+          "Ügyeljen a vadon élő állatokra az országutakon."
+        ],
+        "ro": [
+          "Folosiți parcările supraetajate din orașul nou pentru șederi mai lungi.",
+          "Drumul către Schwarzkollm durează aproximativ 10-15 minute.",
+          "Locurile de parcare de la grădina zoologică sunt adesea pline în weekend.",
+          "Atenție la animalele sălbatice pe drumurile județene."
+        ],
+        "en": [
+          "Use the multi-story car parks in the New Town for longer stays.",
+          "The drive to Schwarzkollm takes about 10-15 minutes.",
+          "Parking at the zoo is often full on weekends.",
+          "Watch for wildlife crossing on the country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marktplatz Altstadt",
+          "coords": [
+            14.2442,
+            51.4378
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Markt' direkt am Platz.",
+            "hu": "Buszmegálló 'Markt' közvetlenül a téren.",
+            "ro": "Stația de autobuz 'Markt' chiar în piață.",
+            "en": "Bus stop 'Markt' right at the square."
+          }
+        },
+        {
+          "name": "Schloss Hoyerswerda",
+          "coords": [
+            14.2468,
+            51.4372
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Marktplatz bequem zu Fuß erreichbar.",
+            "hu": "A piactértől kényelmesen elérhető gyalog.",
+            "ro": "Accesibil convenabil pe jos din piață.",
+            "en": "Conveniently accessible on foot from the market square."
+          }
+        },
+        {
+          "name": "Zoo Hoyerswerda",
+          "coords": [
+            14.2485,
+            51.4368
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eingang in der Nähe der Schlossanlage.",
+            "hu": "Bejárat a kastélyegyüttes közelében.",
+            "ro": "Intrarea este lângă complexul castelului.",
+            "en": "Entrance near the castle complex."
+          }
+        },
+        {
+          "name": "Lausitz-Center",
+          "coords": [
+            14.2445,
+            51.4455
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentrale Umsteigestelle 'Lausitzer Platz'.",
+            "hu": "Központi átszállópont 'Lausitzer Platz'.",
+            "ro": "Punct central de transfer 'Lausitzer Platz'.",
+            "en": "Central transfer point 'Lausitzer Platz'."
+          }
+        },
+        {
+          "name": "Zuse-Computermuseum",
+          "coords": [
+            14.2422,
+            51.4485
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Lausitz-Center kurzer Fußweg durch die Neustadt.",
+            "hu": "A Lausitz-Centertől rövid séta az Újvároson keresztül.",
+            "ro": "De la Lausitz-Center, o scurtă plimbare prin orașul nou.",
+            "en": "Short walk from the Lausitz-Center through the New Town."
+          }
+        },
+        {
+          "name": "Johanneskirche",
+          "coords": [
+            14.2452,
+            51.4385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Citybus in die Altstadt.",
+            "hu": "Visszautazás a városi busszal az óvárosba.",
+            "ro": "Întoarcere cu autobuzul local în centrul vechi.",
+            "en": "Return journey by city bus to the Old Town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Hoyerswerda lässt sich hervorragend mit dem dichten Citybus-Netz erkunden. Wir starten in der Altstadt am Markt und besuchen Schloss und Zoo. Danach bringt uns der Bus in die Neustadt zum Lausitz-Center und zum Zuse-Museum. Die Tour endet wieder in der Altstadt an der Johanneskirche, bequem erreichbar mit dem öffentlichen Nahverkehr.",
+        "hu": "Hoyerswerda kiválóan felfedezhető a sűrű városi buszhálózattal. Az óvárosban, a piacon kezdünk, meglátogatjuk a kastélyt és az állatkertet. Ezután a busz elvisz minket az Újvárosba, a Lausitz-Centerhez és a Zuse múzeumhoz. A túra ismét az óvárosban ér véget a Szent János-templomnál, amely tömegközlekedéssel kényelmesen elérhető.",
+        "ro": "Hoyerswerda poate fi explorată excelent cu rețeaua densă de autobuze locale. Începem în piața din centrul vechi și vizităm castelul și grădina zoologică. Apoi autobuzul ne duce în orașul nou la Lausitz-Center și la muzeul Zuse. Turul se încheie din nou în centrul vechi la biserica Sf. Ioan, ușor accesibilă cu transportul public.",
+        "en": "Hoyerswerda can be explored excellently with the dense city bus network. We start in the Old Town at the market and visit the castle and zoo. Then the bus takes us to the New Town to the Lausitz-Center and the Zuse Museum. The tour ends back in the Old Town at St. John's Church, easily accessible by public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscafé am Markt",
+            "tip": "Hausgemachtes Eis zur Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eiscafé am Markt",
+            "tip": "Házias fagylalt a szünetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eiscafé am Markt",
+            "tip": "Înghețată de casă pentru pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eiscafé am Markt",
+            "tip": "Homemade ice cream for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralpark",
+            "tip": "Grüne Oase zwischen Alt- und Neustadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zentralpark",
+            "tip": "Zöld oázis az ó- és az újváros között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zentralpark",
+            "tip": "Oază verde între orașul vechi și cel nou.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zentralpark",
+            "tip": "Green oasis between the Old and New Town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische regionale Produkte (Di & Do)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Friss helyi termékek (kedd és csütörtök)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Produse regionale proaspete (Mar și Joi)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Fresh regional products (Tue & Thu)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Citybus.",
+          "Die Busse verkehren in der Regel alle 30 Minuten.",
+          "Nutzen Sie die App des VVO für Echtzeit-Auskünfte.",
+          "Die Hauptumsteigepunkte sind Bahnhof und Lausitzer Platz."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszra.",
+          "A buszok általában 30 percenként közlekednek.",
+          "Használja a VVO alkalmazást a valós idejű információkhoz.",
+          "A fő átszállási pontok a vasútállomás és a Lausitzer Platz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul local.",
+          "Autobuzele circulă de regulă la fiecare 30 de minute.",
+          "Folosiți aplicația VVO pentru informații în timp real.",
+          "Principalele puncte de transfer sunt gara și Lausitzer Platz."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus.",
+          "Buses usually run every 30 minutes.",
+          "Use the VVO app for real-time information.",
+          "The main transfer points are the train station and Lausitzer Platz."
+        ]
+      }
+    }
+  }
+}

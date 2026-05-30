@@ -1,0 +1,942 @@
+{
+  "city_id": "city-weimar-extra",
+  "anchor": {
+    "name": "Theaterplatz Weimar",
+    "coords": [
+      11.3283,
+      50.9795
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Schillers Wohnhaus",
+          "coords": [
+            11.3295,
+            50.9791
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schillers Schreibstube im Originalzustand.",
+            "hu": "Schiller dolgozószobája eredeti állapotban.",
+            "ro": "Biroul lui Schiller în stare originală.",
+            "en": "Schiller's study in its original condition."
+          }
+        },
+        {
+          "name": "Goethes Wohnhaus",
+          "coords": [
+            11.3284,
+            50.9775
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die private Bibliothek des Dichters.",
+            "hu": "Látogassa meg a költő magánkönyvtárát.",
+            "ro": "Vizitați biblioteca privată a poetului.",
+            "en": "Visit the poet's private library."
+          }
+        },
+        {
+          "name": "Gastro-Stop: Zum Weißen Schwan",
+          "coords": [
+            11.3286,
+            50.9771
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historisches Gasthaus direkt neben Goethes Haus.",
+            "hu": "Történelmi vendéglő közvetlenül Goethe háza mellett.",
+            "ro": "Han istoric chiar lângă casa lui Goethe.",
+            "en": "Historic inn right next to Goethe's house."
+          }
+        },
+        {
+          "name": "Herzogin Anna Amalia Bibliothek",
+          "coords": [
+            11.3322,
+            50.9786
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Rokokosaal ist ein Muss (Reservierung nötig).",
+            "hu": "A rokokó terem kötelező (foglalás szükséges).",
+            "ro": "Sala Rococo este obligatorie (necesită rezervare).",
+            "en": "The Rococo Room is a must (reservation needed)."
+          }
+        },
+        {
+          "name": "Schloss Weimar",
+          "coords": [
+            11.3321,
+            50.9805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die herzoglichen Prunkgemächer.",
+            "hu": "Fedezze fel a hercegi dísztermeket.",
+            "ro": "Explorați apartamentele de stat ducale.",
+            "en": "Explore the ducal state apartments."
+          }
+        },
+        {
+          "name": "Stadtkirche St. Peter und Paul",
+          "coords": [
+            11.3292,
+            50.9812
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Flügelaltar von Lucas Cranach.",
+            "hu": "Csodálja meg Lucas Cranach szárnyasoltárát.",
+            "ro": "Admirați altarul cu aripi de Lucas Cranach.",
+            "en": "Admire the winged altar by Lucas Cranach."
+          }
+        },
+        {
+          "name": "Marktplatz Weimar",
+          "coords": [
+            11.3297,
+            50.9798
+          ],
+          "category": "square",
+          "arrive_at": "17:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein abschließendes Foto.",
+            "hu": "Tökéletes hely egy záró fotóhoz.",
+            "ro": "Locul perfect pentru o fotografie finală.",
+            "en": "Perfect spot for a final photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags tauchen Sie in die Welt der deutschen Klassik ein, beginnend bei den Wohnhäusern von Schiller und Goethe. Nach einem traditionellen thüringischen Mittagessen besuchen Sie die prachtvolle Anna Amalia Bibliothek und das Weimarer Stadtschloss. Der späte Nachmittag gehört der Stadtkirche am Herderplatz, bevor Sie den Tag auf dem historischen Marktplatz gemütlich ausklingen lassen.",
+        "hu": "A délelőttöt a német klasszika világában tölti, Schiller és Goethe lakóházait látogatva. Egy hagyományos türingiai ebéd után a pompás Anna Amalia Könyvtárat és a Weimar-kastélyt tekinti meg. Késő délután a Herderplatz városi templomát látogatja meg, majd a napot a történelmi főtéren, kényelmesen fejezi be.",
+        "ro": "Dimineața vă veți scufunda în lumea clasicismului german, vizitând casele lui Schiller și Goethe. După un prânz tradițional turingian, vizitați magnifica Bibliotecă Anna Amalia și Castelul Weimar. După-amiaza târziu este dedicată bisericii orașului din Herderplatz, înainte de a încheia ziua relaxat în piața istorică a orașului.",
+        "en": "In the morning, immerse yourself in the world of German Classicism, starting with the residences of Schiller and Goethe. After a traditional Thuringian lunch, visit the magnificent Anna Amalia Library and Weimar Castle. The late afternoon is dedicated to the city church at Herderplatz, before ending the day leisurely at the historic market square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Elephantenkeller",
+            "tip": "Probieren Sie die Thüringer Rostbratwurst."
+          },
+          {
+            "name": "Residenz Café",
+            "tip": "Das älteste Café Weimars für eine Kaffeepause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elephantenkeller",
+            "tip": "Kóstolja meg a türingiai sült kolbászt."
+          },
+          {
+            "name": "Residenz Café",
+            "tip": "Weimar legrégebbi kávéháza egy szünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Elephantenkeller",
+            "tip": "Încercați cârnatul fript de Turingia."
+          },
+          {
+            "name": "Residenz Café",
+            "tip": "Cea mai veche cafenea din Weimar pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Elephantenkeller",
+            "tip": "Try the authentic Thuringian bratwurst."
+          },
+          {
+            "name": "Residenz Café",
+            "tip": "The oldest café in Weimar for a coffee break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park an der Ilm",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park an der Ilm",
+            "tip": "Egy csendes séta a folyó mentén.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Park an der Ilm",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park an der Ilm",
+            "tip": "A quiet walk along the river bank.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauhaus Shop",
+            "tip": "Exklusives Design und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bauhaus Shop",
+            "tip": "Exkluzív design termékek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bauhaus Shop",
+            "tip": "Design exclusivist și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bauhaus Shop",
+            "tip": "Exclusive design items and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für die Anna Amalia Bibliothek Wochen im Voraus.",
+          "Die Weimar Card bietet freien Eintritt in viele Museen."
+        ],
+        "hu": [
+          "Foglaljon jegyet az Anna Amalia Könyvtárba hetekkel előre.",
+          "A Weimar Card ingyenes belépést biztosít számos múzeumba."
+        ],
+        "ro": [
+          "Rezervați bilete pentru Biblioteca Anna Amalia cu săptămâni înainte.",
+          "Weimar Card oferă intrare gratuită la multe muzee."
+        ],
+        "en": [
+          "Book tickets for the Anna Amalia Library weeks in advance.",
+          "The Weimar Card offers free entry to many museums."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bauhaus-Museum Weimar",
+          "coords": [
+            11.3241,
+            50.9855
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der Geschichte des modernen Designs.",
+            "hu": "Kezdje a modern design történetével.",
+            "ro": "Începeți cu istoria designului modern.",
+            "en": "Start with the history of modern design."
+          }
+        },
+        {
+          "name": "Schloss Weimar",
+          "coords": [
+            11.3321,
+            50.9805
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad vor dem Schlosshof.",
+            "hu": "Parkolja le a kerékpárt a kastélyudvar előtt.",
+            "ro": "Parcați bicicleta în fața curții castelului.",
+            "en": "Park your bike in front of the castle courtyard."
+          }
+        },
+        {
+          "name": "Park an der Ilm (Goethes Gartenhaus)",
+          "coords": [
+            11.3355,
+            50.9772
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wunderbare Wege für Radfahrer im Grünen.",
+            "hu": "Csodálatos utak kerékpárosoknak a zöldben.",
+            "ro": "Poteci minunate pentru bicicliști în mijlocul naturii.",
+            "en": "Wonderful paths for cyclists in the greenery."
+          }
+        },
+        {
+          "name": "Gastro-Stop: Hotel Elephant",
+          "coords": [
+            11.3301,
+            50.9795
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Speisen Sie dort, wo schon Goethe und Hitler einkehren.",
+            "hu": "Étkezzen ott, ahol egykor Goethe is megfordult.",
+            "ro": "Luați masa acolo unde obișnuia să vină Goethe.",
+            "en": "Dine where Goethe used to be a regular guest."
+          }
+        },
+        {
+          "name": "Belvedere Weimar",
+          "coords": [
+            11.3482,
+            50.9485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Sportliche Fahrt bergauf belohnt mit Aussicht.",
+            "hu": "A sportos emelkedőt kilátás jutalmazza.",
+            "ro": "O urcare sportivă răsplătită cu o priveliște frumoasă.",
+            "en": "A sporty uphill ride rewarded with a great view."
+          }
+        },
+        {
+          "name": "Belvedere Park & Orangerie",
+          "coords": [
+            11.3495,
+            50.9475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die exotischen Pflanzen.",
+            "hu": "Élvezze az egzotikus növényeket.",
+            "ro": "Bucurați-vă de plantele exotice.",
+            "en": "Enjoy the exotic plants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet das moderne Bauhaus-Erbe mit der barocken Pracht von Belvedere. Vormittags besuchen Sie das Bauhaus-Museum und das Stadtschloss. Nach einer Radfahrt durch den malerischen Park an der Ilm und einer Stärkung am Marktplatz führt die Tour südwärts zum Schloss Belvedere, wo Sie die Gärten und die Orangerie erkunden.",
+        "hu": "Ez a kerékpártúra összeköti a modern Bauhaus örökséget a Belvedere barokk pompájával. Délelőtt a Bauhaus Múzeumot és a városi kastélyt látogatja meg. A festői Ilm-parkon át vezető biciklizés és a főtéren tett pihenő után a túra délnek indul a Belvedere-kastélyhoz, ahol felfedezi a kerteket és az oranzserit.",
+        "ro": "Acest tur cu bicicleta combină moștenirea modernă Bauhaus cu splendoarea barocă a Belvedere. Dimineața vizitați Muzeul Bauhaus și Castelul orașului. După o plimbare cu bicicleta prin parcul pitoresc de pe Ilm și o pauză în piața principală, turul se îndreaptă spre sud către Castelul Belvedere, unde explorați grădinile și oranjeria.",
+        "en": "This bike tour connects the modern Bauhaus heritage with the baroque splendor of Belvedere. In the morning, visit the Bauhaus Museum and the City Castle. After a ride through the scenic Park an der Ilm and a refreshment at the market square, the tour leads south to Belvedere Castle, where you explore the gardens and the orangery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gretchens Restaurant",
+            "tip": "Moderne Küche im Bauhaus-Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gretchens Restaurant",
+            "tip": "Modern konyha a Bauhaus negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gretchens Restaurant",
+            "tip": "Bucătărie modernă în cartierul Bauhaus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gretchens Restaurant",
+            "tip": "Modern cuisine in the Bauhaus district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Russischer Friedhof",
+            "tip": "Stiller Ort im Park an der Ilm.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orosz temető",
+            "tip": "Csendes hely az Ilm-parkban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul rusesc",
+            "tip": "Loc liniștit în Parcul de pe Ilm.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Russian Cemetery",
+            "tip": "A peaceful spot in the Park an der Ilm.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradstation Weimar",
+            "tip": "Verleih und Zubehör direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrradstation Weimar",
+            "tip": "Kölcsönző és tartozékok a vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fahrradstation Weimar",
+            "tip": "Închirieri și accesorii chiar la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrradstation Weimar",
+            "tip": "Rental and accessories right at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege im Park an der Ilm sind gut ausgebaut.",
+          "Achten Sie auf Fußgänger in der Altstadt."
+        ],
+        "hu": [
+          "Az Ilm-park útjai jól kiépítettek.",
+          "Ügyeljen a gyalogosokra az óvárosban."
+        ],
+        "ro": [
+          "Potecile din Parcul de pe Ilm sunt bine întreținute.",
+          "Atenție la pietoni în centrul vechi."
+        ],
+        "en": [
+          "The paths in the Park an der Ilm are well-developed.",
+          "Watch out for pedestrians in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cluster A: Goethes Wohnhaus",
+          "coords": [
+            11.3284,
+            50.9775
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Goetheplatz.",
+            "hu": "Parkoljon a Goetheplatz alatti garázsban.",
+            "ro": "Parcați în garajul de la Goetheplatz.",
+            "en": "Park at the Goetheplatz parking garage."
+          }
+        },
+        {
+          "name": "Cluster A: Schillers Wohnhaus",
+          "coords": [
+            11.3295,
+            50.9791
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Fußgängerzone.",
+            "hu": "Rövid séta a sétálóutcán keresztül.",
+            "ro": "O scurtă plimbare prin zona pietonală.",
+            "en": "Short walk through the pedestrian zone."
+          }
+        },
+        {
+          "name": "Cluster A: Gastro - Markt Weimar",
+          "coords": [
+            11.3297,
+            50.9798
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie Mittagessen am historischen Markt.",
+            "hu": "Élvezze az ebédet a történelmi piacon.",
+            "ro": "Bucurați-vă de prânz în piața istorică.",
+            "en": "Enjoy lunch at the historic market."
+          }
+        },
+        {
+          "name": "Cluster B: Schloss Belvedere",
+          "coords": [
+            11.3482,
+            50.9485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Schlosseingang.",
+            "hu": "Nagy parkoló közvetlenül a kastély bejáratánál.",
+            "ro": "Parcare mare chiar la intrarea în castel.",
+            "en": "Large parking lot right at the castle entrance."
+          }
+        },
+        {
+          "name": "Cluster B: Belvedere Park & Orangerie",
+          "coords": [
+            11.3495,
+            50.9475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang durch die barocke Gartenanlage.",
+            "hu": "Séta a barokk kertben.",
+            "ro": "Plimbare prin grădinile baroce.",
+            "en": "Walk through the baroque gardens."
+          }
+        },
+        {
+          "name": "Cluster B: Aussichtspunkt Belvedere",
+          "coords": [
+            11.351,
+            50.946
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Panoramablick über das Weimarer Land.",
+            "hu": "Panoráma a Weimar-vidékre.",
+            "ro": "Vedere panoramică asupra regiunii Weimar.",
+            "en": "Panoramic view over the Weimar countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour ist in zwei Cluster unterteilt. Am Vormittag erkunden Sie die Altstadt zu Fuß (Parken am Goetheplatz), inklusive der Wohnhäuser von Goethe und Schiller. Nach dem Mittagessen fahren Sie mit dem Auto zum südlich gelegenen Schloss Belvedere, um dort die prächtigen Gärten und Aussichtspunkte stressfrei zu genießen.",
+        "hu": "Ez a túra két részre oszlik. Délelőtt gyalogosan fedezi fel az óvárost (parkolás a Goetheplatzon), beleértve Goethe és Schiller lakóházait. Ebéd után autóval a déli Belvedere-kastélyhoz utazik, hogy stresszmentesen élvezze a pompás kerteket és kilátópontokat.",
+        "ro": "Acest tur este împărțit în două clustere. Dimineața explorați centrul vechi pe jos (parcare la Goetheplatz), inclusiv casele lui Goethe și Schiller. După prânz, conduceți către Castelul Belvedere din sud pentru a vă bucura fără stres de grădinile magnifice și punctele de belvedere.",
+        "en": "This tour is divided into two clusters. In the morning, explore the old town on foot (parking at Goetheplatz), including the residences of Goethe and Schiller. After lunch, drive to the southern Belvedere Castle to enjoy the magnificent gardens and viewpoints stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Anna Amalia",
+            "tip": "Gehobene Küche im Hotel Elephant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anna Amalia",
+            "tip": "Elegáns konyha a Hotel Elephantban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anna Amalia",
+            "tip": "Bucătărie rafinată la Hotel Elephant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Anna Amalia",
+            "tip": "Upscale dining at Hotel Elephant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere Park",
+            "tip": "Weitläufige Anlagen zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere Park",
+            "tip": "Tágas terek a kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Belvedere",
+            "tip": "Spații vaste pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere Park",
+            "tip": "Spacious grounds for relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schillerstraße",
+            "tip": "Die Haupteinkaufsstraße Weimars."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schillerstraße",
+            "tip": "Weimar fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schillerstraße",
+            "tip": "Principala stradă comercială din Weimar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schillerstraße",
+            "tip": "The main shopping street of Weimar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt herrscht Parkplatzmangel; nutzen Sie Parkhäuser.",
+          "Belvedere bietet kostenlose Parkplätze."
+        ],
+        "hu": [
+          "A belvárosban kevés a parkoló; használjon parkolóházakat.",
+          "A Belvedere ingyenes parkolást kínál."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate în centru; folosiți parcările etajate.",
+          "Belvedere oferă parcare gratuită."
+        ],
+        "en": [
+          "Parking is scarce in the city center; use parking garages.",
+          "Belvedere offers free parking spaces."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "District 1: Schillers Wohnhaus",
+          "coords": [
+            11.3295,
+            50.9791
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Bahnhof mit der Linie 1 zum Goetheplatz.",
+            "hu": "Az állomástól az 1-es busszal a Goetheplatzig.",
+            "ro": "De la gară cu linia 1 până la Goetheplatz.",
+            "en": "From the station with line 1 to Goetheplatz."
+          }
+        },
+        {
+          "name": "District 1: Herzogin Anna Amalia Bibliothek",
+          "coords": [
+            11.3322,
+            50.9786
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Gassen.",
+            "hu": "Egy rövid séta a sikátorokon keresztül.",
+            "ro": "O scurtă plimbare pe străduțe.",
+            "en": "A short walk through the narrow streets."
+          }
+        },
+        {
+          "name": "District 1: Gastro - Köstritzer Schwarzbierhaus",
+          "coords": [
+            11.329,
+            50.9795
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Deftige Küche und lokales Schwarzbier.",
+            "hu": "Házias konyha és helyi barna sör.",
+            "ro": "Bucătărie copioasă și bere neagră locală.",
+            "en": "Hearty cuisine and local dark beer."
+          }
+        },
+        {
+          "name": "District 2: Bauhaus-Museum Weimar",
+          "coords": [
+            11.3241,
+            50.9855
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zum Stéphane-Hessel-Platz.",
+            "hu": "Szálljon buszra a Stéphane-Hessel-Platz felé.",
+            "ro": "Luați autobuzul până la Stéphane-Hessel-Platz.",
+            "en": "Take the bus to Stéphane-Hessel-Platz."
+          }
+        },
+        {
+          "name": "District 2: Neues Museum Weimar",
+          "coords": [
+            11.3245,
+            50.986
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich gegenüber dem Bauhaus-Museum.",
+            "hu": "Közvetlenül a Bauhaus Múzeummal szemben.",
+            "ro": "Chiar vizavi de Muzeul Bauhaus.",
+            "en": "Just opposite the Bauhaus Museum."
+          }
+        },
+        {
+          "name": "District 2: Weimar Atrium",
+          "coords": [
+            11.3275,
+            50.985
+          ],
+          "category": "shopping",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Shopping-Malle im historischen Gebäude.",
+            "hu": "Bevásárlóközpont egy történelmi épületben.",
+            "ro": "Mall în interiorul unei clădiri istorice.",
+            "en": "Shopping mall inside a historic building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erkunden Sie effizient die zwei Hauptbereiche Weimars. Vormittags besuchen Sie die Klassiker im Zentrum (Schiller, Bibliothek). Am Nachmittag fahren Sie mit dem Bus in das nördliche Quartier, um dort das Bauhaus-Museum und das Neue Museum zu besichtigen. Den Tag beenden Sie mit einem Schaufensterbummel im Weimar Atrium.",
+        "hu": "A tömegközlekedéssel hatékonyan fedezheti fel Weimar két fő területét. Délelőtt a központi klasszikusokat látogatja meg (Schiller, Könyvtár). Délután busszal az északi negyedbe utazik, hogy megtekintse a Bauhaus Múzeumot és az Új Múzeumot. A napot kirakatnézegetéssel fejezi be a Weimar Atriumban.",
+        "ro": "Cu transportul public explorați eficient cele două zone principale din Weimar. Dimineața vizitați obiectivele clasice din centru (Schiller, Biblioteca). După-amiaza luați autobuzul către cartierul de nord pentru a vizita Muzeul Bauhaus și Muzeul Nou. Încheiați ziua cu o plimbare prin magazine în Weimar Atrium.",
+        "en": "Using public transport, efficiently explore Weimar's two main areas. In the morning, visit the classics in the center (Schiller, Library). In the afternoon, take a bus to the northern quarter to visit the Bauhaus Museum and the New Museum. End the day with some window shopping at the Weimar Atrium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scharfe Ecke",
+            "tip": "Günstiger Mittagstisch im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scharfe Ecke",
+            "tip": "Kedvező árú ebéd a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scharfe Ecke",
+            "tip": "Prânz ieftin în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scharfe Ecke",
+            "tip": "Affordable lunch in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herderplatz",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herderplatz",
+            "tip": "Csendes tér a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herderplatz",
+            "tip": "Piață liniștită în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herderplatz",
+            "tip": "Quiet square behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weimar Atrium",
+            "tip": "Großes Einkaufszentrum in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weimar Atrium",
+            "tip": "Nagy bevásárlóközpont az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weimar Atrium",
+            "tip": "Centru comercial mare lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weimar Atrium",
+            "tip": "Large shopping mall near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die VMT-App für Fahrpläne herunter.",
+          "Ein Tagesticket lohnt sich ab drei Fahrten."
+        ],
+        "hu": [
+          "Töltse le a VMT alkalmazást a menetrendekhez.",
+          "A napijegy három utazástól éri meg."
+        ],
+        "ro": [
+          "Descărcați aplicația VMT pentru orare.",
+          "Un bilet de o zi merită de la trei călătorii în sus."
+        ],
+        "en": [
+          "Download the VMT app for schedules.",
+          "A day ticket is worth it from three trips onwards."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1129 @@
+{
+  "city_id": "italy-cassino-cities-v2",
+  "anchor": {
+    "name": "Cassino",
+    "coords": [
+      13.8333,
+      41.4833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensmonument",
+            "hu": "Béke-emlékmű",
+            "ro": "Monumentul Păcii",
+            "en": "Peace Monument"
+          },
+          "coords": [
+            13.8331,
+            41.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein modernes Denkmal im Stadtzentrum, das an die Zerstörung von 1944 erinnert.",
+            "hu": "Modern emlékmű a központban, amely az 1944-es pusztításra emlékeztet.",
+            "ro": "Un monument modern în centrul orașului, care comemorează distrugerea din 1944.",
+            "en": "A modern monument in the center, commemorating the 1944 destruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Nationalmuseum",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "National Archaeological Museum"
+          },
+          "coords": [
+            13.8272,
+            41.4818
+          ],
+          "category": "museums",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken römischen Mosaike und Skulpturen aus dem alten Casinum.",
+            "hu": "Csodálja meg az ókori Casinumból származó római mozaikokat és szobrokat.",
+            "ro": "Admirați mozaicurile și sculpturile romane antice din vechiul Casinum.",
+            "en": "Admire the ancient Roman mosaics and sculptures from old Casinum."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            13.8261,
+            41.4828
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gut erhaltenes Amphitheater aus der Zeit des Augustus am Fuße des Berges.",
+            "hu": "Jó állapotú amfiteátrum Augustus idejéből a hegy lábánál.",
+            "ro": "Amfiteatru bine conservat din epoca lui Augustus la poalele muntelui.",
+            "en": "Well-preserved amphitheater from the Augustan era at the foot of the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause im Zentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch Break in Center"
+          },
+          "coords": [
+            13.8305,
+            41.4801
+          ],
+          "category": "gastro",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie 'Sagne e fagioli', eine traditionelle lokale Pastaspezialität.",
+            "hu": "Kóstolja meg a 'Sagne e fagioli'-t, a hagyományos helyi tésztaételt.",
+            "ro": "Încercați „Sagne e fagioli”, o specialitate locală de paste tradiționale.",
+            "en": "Try 'Sagne e fagioli', a traditional local pasta dish."
+          }
+        },
+        {
+          "name": {
+            "de": "Commonwealth-Kriegsfriedhof",
+            "hu": "Nemzetközösségi katonai temető",
+            "ro": "Cimitirul de Război al Commonwealth-ului",
+            "en": "Commonwealth War Cemetery"
+          },
+          "coords": [
+            13.8421,
+            41.4742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Berührende Gedenkstätte für über 4.000 Soldaten der Alliierten.",
+            "hu": "Megható emlékhely több mint 4000 szövetséges katonának.",
+            "ro": "Loc de memorie emoționant pentru peste 4.000 de soldați aliați.",
+            "en": "Touching memorial for over 4,000 Allied soldiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Varroniane",
+            "hu": "Varro-termák",
+            "ro": "Termele Varroniene",
+            "en": "Terme Varroniane"
+          },
+          "coords": [
+            13.8315,
+            41.4721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein hydromineralischer Park mit natürlichen Quellen, ideal zum Entspannen.",
+            "hu": "Hidrominerális park természetes forrásokkal, ideális a pihenéshez.",
+            "ro": "Un parc hidromineral cu izvoare naturale, ideal pentru relaxare.",
+            "en": "A hydromineral park with natural springs, ideal for relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendruhe im Park",
+            "hu": "Esti pihenő a parkban",
+            "ro": "Odihnă de seară în parc",
+            "en": "Evening Rest in Park"
+          },
+          "coords": [
+            13.8311,
+            41.4715
+          ],
+          "category": "sunset",
+          "arrive_at": "16:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die kühle Luft an den Quellen vor der Abreise.",
+            "hu": "Élvezze a források hűvös levegőjét az indulás előtt.",
+            "ro": "Bucurați-vă de aerul răcoros de lângă izvoare înainte de plecare.",
+            "en": "Enjoy the cool air by the springs before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt im Stadtzentrum am Friedensmonument, gefolgt von einer Reise in die römische Vergangenheit im Nationalmuseum und dem gut erhaltenen Amphitheater. Zu Mittag genießen Sie lokale Küche in der Nähe des Corso della Repubblica. Nachmittags besuchen Sie den würdevollen Commonwealth-Friedhof, bevor Sie den Tag entspannt in der grünen Oase der Terme Varroniane ausklingen lassen.",
+        "hu": "A délelőtt a városközpontban kezdődik a Béke-emlékműnél, majd a római múltba kalandozunk a Nemzeti Múzeumban és a színháznál. Ebédre helyi specialitásokat kóstolunk a Corso della Repubblica közelében. Délután a méltóságteljes nemzetközösségi katonai temetőt keressük fel, végül a napot a Terme Varroniane zöld oázisában zárjuk pihenéssel.",
+        "ro": "Dimineața începe în centrul orașului la Monumentul Păcii, urmată de o incursiune în trecutul roman la Muzeul Național și la amfiteatru. La prânz, savurați bucătăria locală lângă Corso della Repubblica. După-amiaza vizitați cimitirul solemn al Commonwealth-ului, înainte de a încheia ziua relaxându-vă în oaza verde de la Terme Varroniane.",
+        "en": "The morning starts in the city center at the Peace Monument, followed by a journey into the Roman past at the National Museum and the theater. For lunch, enjoy local cuisine near Corso della Repubblica. In the afternoon, visit the dignified Commonwealth cemetery, before ending the day relaxing in the green oasis of Terme Varroniane."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Al Boschetto",
+            "tip": "Probieren Sie die hausgemachte Pasta und lokale Fleischgerichte."
+          },
+          {
+            "name": "Pizzeria Da Mario",
+            "tip": "Bekannt für authentische neapolitanische Pizza im Herzen von Cassino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Al Boschetto",
+            "tip": "Kóstolja meg a házi készítésű tésztákat és a helyi húsételeket."
+          },
+          {
+            "name": "Pizzeria Da Mario",
+            "tip": "Híres az autentikus nápolyi pizzáról Cassino szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Al Boschetto",
+            "tip": "Încercați pastele de casă și mâncărurile locale din carne."
+          },
+          {
+            "name": "Pizzeria Da Mario",
+            "tip": "Cunoscut pentru pizza napolitană autentică în inima orașului Cassino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Al Boschetto",
+            "tip": "Try the homemade pasta and local meat dishes."
+          },
+          {
+            "name": "Pizzeria Da Mario",
+            "tip": "Famous for authentic Neapolitan pizza in the heart of Cassino."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quellen der Terme Varroniane",
+            "tip": "Ruhiger Ort mit fließendem Wasser und alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terme Varroniane források",
+            "tip": "Csendes hely folyóvízzel és öreg fákkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvoarele Terme Varroniane",
+            "tip": "Loc liniștit cu apă curgătoare și copaci bătrâni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Springs of Terme Varroniane",
+            "tip": "Quiet spot with flowing water and old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Samstagsmorgens ideal für lokale Produkte und Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szombat reggelente ideális helyi termékek és ruhák vásárlására."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Sâmbăta dimineața este ideală pentru produse locale și haine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Saturday mornings ideal for local produce and clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cassino ist flach und gut zu Fuß erkundbar.",
+          "Besuchen Sie das Museum früh, um den Gruppen auszuweichen.",
+          "Tragen Sie bequeme Schuhe für die Ausgrabungsstätten."
+        ],
+        "hu": [
+          "Cassino sík terep, könnyen bejárható gyalog.",
+          "Látogassa meg a múzeumot korán, hogy elkerülje a csoportokat.",
+          "Viseljen kényelmes cipőt a régészeti helyszínekhez."
+        ],
+        "ro": [
+          "Cassino este plat și ușor de explorat la pas.",
+          "Vizitați muzeul devreme pentru a evita grupurile.",
+          "Purtați încălțăminte confortabilă pentru siturile arheologice."
+        ],
+        "en": [
+          "Cassino is flat and easily explored on foot.",
+          "Visit the museum early to avoid tour groups.",
+          "Wear comfortable shoes for the archaeological sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Terme Varroniane",
+            "hu": "Varro-termák",
+            "ro": "Termele Varroniene",
+            "en": "Terme Varroniane"
+          },
+          "coords": [
+            13.8315,
+            41.4721
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie im grünen Park.",
+            "hu": "Kezdje a túrát a zöld parkban.",
+            "ro": "Începeți turul în parcul verde.",
+            "en": "Start your tour in the green park."
+          }
+        },
+        {
+          "name": {
+            "de": "Commonwealth-Friedhof",
+            "hu": "Nemzetközösségi temető",
+            "ro": "Cimitirul Commonwealth",
+            "en": "Commonwealth Cemetery"
+          },
+          "coords": [
+            13.8421,
+            41.4742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:18",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille am Stadtrand.",
+            "hu": "A csend helyszíne a város szélén.",
+            "ro": "Un loc de liniște la marginea orașului.",
+            "en": "A place of silence on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            13.8261,
+            41.4828
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigung der antiken Steinstufen.",
+            "hu": "Az ókori kőlépcsők megtekintése.",
+            "ro": "Vizitarea treptelor antice de piatră.",
+            "en": "Visit the ancient stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in Center"
+          },
+          "coords": [
+            13.8305,
+            41.4801
+          ],
+          "category": "gastro",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Auffahrt.",
+            "hu": "Gyűjtsön erőt a hegyi menethez.",
+            "ro": "Prindeți puteri pentru urcare.",
+            "en": "Gather strength for the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Janula",
+            "hu": "Rocca Janula vár",
+            "ro": "Cetatea Rocca Janula",
+            "en": "Rocca Janula Fortress"
+          },
+          "coords": [
+            13.8242,
+            41.4871
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Steile Auffahrt, aber fantastischer Ausblick.",
+            "hu": "Meredek emelkedő, de fantasztikus kilátás.",
+            "ro": "Urcare abruptă, dar priveliște fantastică.",
+            "en": "Steep climb, but fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensmonument",
+            "hu": "Béke-emlékmű",
+            "ro": "Monumentul Păcii",
+            "en": "Peace Monument"
+          },
+          "coords": [
+            13.8331,
+            41.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückkehr.",
+            "hu": "Utolsó megálló a visszatérés előtt.",
+            "ro": "Ultima oprire înainte de întoarcere.",
+            "en": "Last stop before return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die flachen Parks von Cassino mit der herausfordernden Auffahrt zur Rocca Janula. Morgens erkunden Sie die Gedenkstätten und Parks im Tal. Nach einem kräftigen Mittagessen im Zentrum steht der Anstieg zur mittelalterlichen Festung an, von der aus Sie das gesamte Tal überblicken können.",
+        "hu": "Ez a kerékpártúra összeköti Cassino sík parkjait a Rocca Janula várhoz vezető kihívást jelentő emelkedővel. Reggel a völgy emlékhelyeit és parkjait fedezzük fel. Egy kiadós belvárosi ebéd után következik az emelkedő a középkori erődhöz, ahonnan belátni az egész völgyet.",
+        "ro": "Acest tur cu bicicleta combină parcurile plate din Cassino cu urcarea provocatoare către Rocca Janula. Dimineața explorați monumentele și parcurile din vale. După un prânz copios în centru, urmează urcarea către cetatea medievală, de unde puteți vedea întreaga vale.",
+        "en": "This bike tour combines the flat parks of Cassino with the challenging climb to Rocca Janula. In the morning, explore the memorials and parks in the valley. After a hearty lunch in the center, tackle the ascent to the medieval fortress, overlooking the entire valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Perfekt für einen schnellen Espresso und Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Tökéletes egy gyors eszpresszóhoz és snackhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Perfect pentru un espresso rapid și o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Centrale",
+            "tip": "Perfect for a quick espresso and snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rocca Janula Panorama",
+            "tip": "Blick auf das Kloster und die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rocca Janula panoráma",
+            "tip": "Kilátás a kolostorra és a városra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Rocca Janula",
+            "tip": "Vedere spre mănăstire și oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocca Janula Panorama",
+            "tip": "View of the abbey and the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "Haupteinkaufsstraße mit vielen Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "Fő bevásárlóutca sok kávézóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "Principala stradă comercială cu multe cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "Main shopping street with many cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Rocca.",
+          "Vermeiden Sie die Mittagshitze beim Aufstieg.",
+          "Fahrradwege sind begrenzt, nutzen Sie Seitenstraßen."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a várból való leereszkedés előtt.",
+          "Kerülje a déli hőséget az emelkedőnél.",
+          "A kerékpárutak száma korlátozott, használja a mellékutcákat."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de la cetate.",
+          "Evitați căldura amiezii în timpul urcării.",
+          "Pistele de biciclete sunt limitate, folosiți străzile secundare."
+        ],
+        "en": [
+          "Check your brakes before descending from the fortress.",
+          "Avoid the midday heat during the climb.",
+          "Bike lanes are limited, use side streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensmonument",
+            "hu": "Béke-emlékmű",
+            "ro": "Monumentul Păcii",
+            "en": "Peace Monument"
+          },
+          "coords": [
+            13.8331,
+            41.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Piazza De Gasperi.",
+            "hu": "Parkoljon a Piazza De Gasperinál.",
+            "ro": "Parcați la Piazza De Gasperi.",
+            "en": "Park at Piazza De Gasperi."
+          }
+        },
+        {
+          "name": {
+            "de": "Commonwealth-Kriegsfriedhof",
+            "hu": "Nemzetközösségi temető",
+            "ro": "Cimitirul Commonwealth",
+            "en": "Commonwealth Cemetery"
+          },
+          "coords": [
+            13.8421,
+            41.4742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit großem Parkplatz.",
+            "hu": "Könnyen megközelíthető, nagy parkolóval.",
+            "ro": "Ușor accesibil cu parcare mare.",
+            "en": "Easily accessible with a large parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            13.8272,
+            41.4818
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Cluster A: Parken am Museumseingang.",
+            "hu": "A klaszter: Parkolás a múzeum bejáratánál.",
+            "ro": "Cluster A: Parcare la intrarea muzeului.",
+            "en": "Cluster A: Park at the museum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            13.8261,
+            41.4828
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Janula",
+            "hu": "Rocca Janula vár",
+            "ro": "Cetatea Rocca Janula",
+            "en": "Rocca Janula Fortress"
+          },
+          "coords": [
+            13.8242,
+            41.4871
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Cluster B: Fahrt den Berg hinauf.",
+            "hu": "B klaszter: Autózás fel a hegyre.",
+            "ro": "Cluster B: Conducerea pe munte.",
+            "en": "Cluster B: Drive up the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Montecassino",
+            "hu": "Montecassinoi apátság",
+            "ro": "Abația Montecassino",
+            "en": "Montecassino Abbey"
+          },
+          "coords": [
+            13.8141,
+            41.4902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuch des Klosters und des Kreuzgangs.",
+            "hu": "A kolostor és a kerengő megtekintése.",
+            "ro": "Vizitarea mănăstirii și a claustrului.",
+            "en": "Visit the abbey and the cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Polnischer Soldatenfriedhof",
+            "hu": "Lengyel katonai temető",
+            "ro": "Cimitirul Militar Polonez",
+            "en": "Polish War Cemetery"
+          },
+          "coords": [
+            13.8062,
+            41.4935
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz der Abtei.",
+            "hu": "Rövid gyalogút az apátság parkolójától.",
+            "ro": "Scurtă plimbare de la parcarea abației.",
+            "en": "Short walk from the abbey parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama-Abschluss",
+            "hu": "Panorámás zárás",
+            "ro": "Final panoramic",
+            "en": "Panoramic Finale"
+          },
+          "coords": [
+            13.8155,
+            41.4885
+          ],
+          "category": "sunset",
+          "arrive_at": "16:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Blick ins Tal vor der Abfahrt.",
+            "hu": "Utolsó kilátás a völgyre indulás előtt.",
+            "ro": "Ultima vedere spre vale înainte de plecare.",
+            "en": "Final view of the valley before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die historischsten Orte von Cassino. Der Vormittag gehört den Gedenkstätten und Museen im Tal. Mittags fahren Sie die serpentinenreiche Straße hinauf zur Abtei Montecassino, dem spirituellen Zentrum der Region. Der Nachmittag bietet tiefe Einblicke in die Geschichte des Zweiten Weltkriegs an den polnischen Gedenkstätten.",
+        "hu": "Autóval kényelmesen elérheti Cassino legtörténelmibb helyszíneit. A délelőtt a völgy emlékhelyeié és múzeumaié. Délben a szerpentineken felautózunk a Montecassinoi apátsághoz, a régió spirituális központjához. A délután a második világháború történelmébe nyújt mély betekintést a lengyel emlékhelyeken.",
+        "ro": "Cu mașina puteți ajunge confortabil la cele mai istorice locuri din Cassino. Dimineața aparține monumentelor și muzeelor din vale. La prânz, urcați pe drumul șerpuit către Abația Montecassino, centrul spiritual al regiunii. După-amiaza oferă o perspectivă profundă asupra istoriei celui de-al Doilea Război Mondial la monumentele poloneze.",
+        "en": "By car, you can easily reach the most historical sites of Cassino. The morning belongs to the memorials and museums in the valley. At noon, drive up the winding road to Montecassino Abbey, the spiritual center of the region. The afternoon offers deep insights into WWII history at the Polish memorials."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Montecassino",
+            "tip": "Direkt an der Abtei gelegen, ideal für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Montecassino",
+            "tip": "Közvetlenül az apátságnál, ideális egy pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Montecassino",
+            "tip": "Situat chiar lângă abație, ideal pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Montecassino",
+            "tip": "Located right by the abbey, ideal for a break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Albaner Berge Ausblick",
+            "tip": "Wunderschöne Aussichtspunkte an der Bergstraße.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albán-hegyek kilátás",
+            "tip": "Gyönyörű kilátópontok a hegyi úton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere Munții Albani",
+            "tip": "Puncte de belvedere superbe pe drumul montan.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alban Hills View",
+            "tip": "Beautiful viewpoints along the mountain road.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klostershop Montecassino",
+            "tip": "Liköre und Honig von den Mönchen hergestellt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montecassinoi kolostorbolt",
+            "tip": "A szerzetesek által készített likőrök és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Abației Montecassino",
+            "tip": "Lichioruri și miere produse de călugări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Montecassino Abbey Shop",
+            "tip": "Liqueurs and honey produced by the monks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühr an der Abtei ist moderat.",
+          "Achten Sie auf Radfahrer auf der Bergstraße.",
+          "Die Bergstraße kann bei Regen rutschig sein."
+        ],
+        "hu": [
+          "A parkolási díj az apátságnál mérsékelt.",
+          "Ügyeljen a kerékpárosokra a hegyi úton.",
+          "A hegyi út esőben csúszós lehet."
+        ],
+        "ro": [
+          "Taxa de parcare la abație este moderată.",
+          "Atenție la bicicliști pe drumul montan.",
+          "Drumul montan poate fi alunecos pe ploaie."
+        ],
+        "en": [
+          "Parking fees at the abbey are moderate.",
+          "Watch out for cyclists on the mountain road.",
+          "The mountain road can be slippery when raining."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Friedensmonument",
+            "hu": "Béke-emlékmű",
+            "ro": "Monumentul Păcii",
+            "en": "Peace Monument"
+          },
+          "coords": [
+            13.8331,
+            41.4835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt nahe dem Bahnhof.",
+            "hu": "Kiindulópont a vasútállomás közelében.",
+            "ro": "Punct de plecare lângă gară.",
+            "en": "Starting point near the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Commonwealth-Kriegsfriedhof",
+            "hu": "Nemzetközösségi temető",
+            "ro": "Cimitirul Commonwealth",
+            "en": "Commonwealth Cemetery"
+          },
+          "coords": [
+            13.8421,
+            41.4742
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit lokalem Bus erreichbar.",
+            "hu": "Helyi busszal elérhető.",
+            "ro": "Accesibil cu autobuzul local.",
+            "en": "Accessible by local bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in Center"
+          },
+          "coords": [
+            13.8305,
+            41.4801
+          ],
+          "category": "gastro",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf den Bus zur Abtei vor.",
+            "hu": "Készüljön fel az apátsági buszra.",
+            "ro": "Pregătiți-vă pentru autobuzul spre abație.",
+            "en": "Prepare for the bus to the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Montecassino",
+            "hu": "Montecassinoi apátság",
+            "ro": "Abația Montecassino",
+            "en": "Montecassino Abbey"
+          },
+          "coords": [
+            13.8141,
+            41.4902
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Linienbus von Cassino FS zur Abtei.",
+            "hu": "Menetrend szerinti busz Cassino FS-től.",
+            "ro": "Autobuz de linie de la Cassino FS la abație.",
+            "en": "Scheduled bus from Cassino FS to the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Polnischer Soldatenfriedhof",
+            "hu": "Lengyel katonai temető",
+            "ro": "Cimitirul Militar Polonez",
+            "en": "Polish War Cemetery"
+          },
+          "coords": [
+            13.8062,
+            41.4935
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fußweg von der Abtei.",
+            "hu": "Gyalogút az apátságtól.",
+            "ro": "Drum pe jos de la abație.",
+            "en": "Walk from the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsblick an der Abtei",
+            "hu": "Búcsúpillantás az apátságnál",
+            "ro": "Vedere de adio la abație",
+            "en": "Farewell View at Abbey"
+          },
+          "coords": [
+            13.8145,
+            41.4905
+          ],
+          "category": "quiet",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Warten auf den Rückbus zum Bahnhof.",
+            "hu": "Várakozás a vasútállomásra tartó buszra.",
+            "ro": "Așteptarea autobuzului spre gară.",
+            "en": "Waiting for the return bus to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Busverbindungen ist die Abtei Montecassino auch ohne Auto erreichbar. Morgens besuchen Sie die Friedensmonumente im Zentrum. Am späten Vormittag bringt Sie der Bus hinauf zur Abtei, wo Sie den Großteil des Nachmittags verbringen. Genießen Sie die Stille der Klostersäle und die beeindruckende Aussicht auf das Liri-Tal.",
+        "hu": "A buszjáratoknak köszönhetően a Montecassinoi apátság autó nélkül is elérhető. Reggel a központi békeemlékműveket keressük fel. Késő délelőtt a busz felviszi az apátsághoz, ahol a délután nagy részét töltjük. Élvezze a kolostor termeinek csendjét és a Liri-völgyre nyíló lenyűgöző kilátást.",
+        "ro": "Datorită conexiunilor de autobuz, Abația Montecassino este accesibilă și fără mașină. Dimineața vizitați monumentele păcii din centru. Mai târziu, autobuzul vă duce la abație, unde petreceți cea mai mare parte a după-amiezii. Bucurați-vă de liniștea sălilor mănăstirii și de vederea impresionantă spre Valea Liri.",
+        "en": "Thanks to bus connections, Montecassino Abbey is accessible even without a car. In the morning, visit the peace monuments in the center. In the late morning, the bus takes you up to the abbey, where you spend most of the afternoon. Enjoy the silence of the cloister halls and the impressive views of the Liri Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panetteria F.lli De Rosa",
+            "tip": "Holen Sie sich Sandwiches für den Bergausflug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panetteria F.lli De Rosa",
+            "tip": "Vásároljon szendvicseket a hegyi kiránduláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panetteria F.lli De Rosa",
+            "tip": "Cumpărați sandvișuri pentru excursia pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panetteria F.lli De Rosa",
+            "tip": "Get sandwiches for the mountain trip."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klosterkreuzgang",
+            "tip": "Ort der Besinnung und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostor kerengője",
+            "tip": "Az elmélkedés és a csend helyszíne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul mănăstirii",
+            "tip": "Loc de meditație și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Cloister",
+            "tip": "Place of reflection and quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Piazza Labriola",
+            "tip": "Zentraler Platz mit kleinen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Labriola",
+            "tip": "Központi tér kis üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Labriola",
+            "tip": "Piață centrală cu magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Labriola",
+            "tip": "Central square with small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen.",
+          "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+          "Der Bus zur Abtei fährt unregelmäßig."
+        ],
+        "hu": [
+          "Vegye meg előre a buszjegyeket a trafikban.",
+          "Pontosan ellenőrizze a visszautat a menetrendben.",
+          "Az apátsági busz rendszertelenül jár."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la tabacherie.",
+          "Verificați cu atenție orarul pentru drumul de întoarcere.",
+          "Autobuzul spre abație circulă neregulat."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a 'tabaccheria'.",
+          "Check the return schedule carefully.",
+          "The bus to the abbey runs infrequently."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1071 @@
+{
+  "city_id": "it-ravenna",
+  "anchor": {
+    "name": "Piazza del Popolo",
+    "coords": [
+      12.199,
+      44.418
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Popolo",
+            "hu": "Piazza del Popolo",
+            "ro": "Piazza del Popolo",
+            "en": "Piazza del Popolo"
+          },
+          "coords": [
+            12.199,
+            44.418
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso in den historischen Arkaden.",
+            "hu": "Igyon egy eszpresszót a történelmi árkádok alatt.",
+            "ro": "Beți un espresso sub arcadele istorice.",
+            "en": "Enjoy an espresso under the historic arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomba di Dante",
+            "hu": "Dante sírja",
+            "ro": "Mormântul lui Dante",
+            "en": "Dante's Tomb"
+          },
+          "coords": [
+            12.201,
+            44.417
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ewige Flamme des großen Dichters.",
+            "hu": "Nézze meg a nagy költő örökmécsesét.",
+            "ro": "Vizitați flacăra eternă a marelui poet.",
+            "en": "Visit the eternal flame of the great poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero Neoniano",
+            "hu": "Neon-keresztelőkápolna",
+            "ro": "Baptisteriul Neonian",
+            "en": "Neonian Baptistery"
+          },
+          "coords": [
+            12.197,
+            44.415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ältesten Mosaike der Stadt.",
+            "hu": "Csodálja meg a város legősibb mozaikjait.",
+            "ro": "Admirați cele mai vechi mozaicuri din oraș.",
+            "en": "Admire the city's oldest mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Vitale",
+            "hu": "San Vitale-bazilika",
+            "ro": "Bazilica San Vitale",
+            "en": "Basilica of San Vitale"
+          },
+          "coords": [
+            12.196,
+            44.42
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die byzantinischen Mosaike sind weltberühmt.",
+            "hu": "A bizánci mozaikok világhírűek.",
+            "ro": "Mozaicurile bizantine sunt faimoase în întreaga lume.",
+            "en": "The Byzantine mosaics are world-famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo di Galla Placidia",
+            "hu": "Galla Placidia mauzóleuma",
+            "ro": "Mausoleul Galla Placidia",
+            "en": "Mausoleum of Galla Placidia"
+          },
+          "coords": [
+            12.197,
+            44.421
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Sternenhimmel im Inneren ist magisch.",
+            "hu": "A belső csillagos égbolt varázslatos.",
+            "ro": "Cerul înstelat din interior este magic.",
+            "en": "The starry sky inside is magical."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nazionale di Ravenna",
+            "hu": "Ravennai Nemzeti Múzeum",
+            "ro": "Muzeul Național din Ravenna",
+            "en": "National Museum of Ravenna"
+          },
+          "coords": [
+            12.195,
+            44.42
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 110,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie römische Artefakte und Textilien.",
+            "hu": "Fedezze fel a római műtárgyakat és textileket.",
+            "ro": "Descoperiți artefacte romane și textile.",
+            "en": "Discover Roman artifacts and textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Brancaleone",
+            "hu": "Rocca Brancaleone",
+            "ro": "Rocca Brancaleone",
+            "en": "Rocca Brancaleone"
+          },
+          "coords": [
+            12.205,
+            44.423
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für einen ruhigen Abschluss.",
+            "hu": "Szép hely a nyugodt befejezéshez.",
+            "ro": "Un loc frumos pentru un final liniștit.",
+            "en": "A beautiful place for a quiet finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Wir beginnen im Herzen der Stadt auf der Piazza del Popolo und besuchen das Grab des legendären Dichters Dante Alighieri. Mittags: Tauchen Sie ein in die Welt der Mosaike im Battistero und der Basilica di San Vitale. Nachmittag: Nach Galla Placidia erkunden wir das Nationalmuseum. Abend: Ein entspannter Spaziergang zur Festung Rocca Brancaleone rundet den Tag ab.",
+        "hu": "Délelőtt: A város szívében, a Piazza del Popolón kezdünk, majd meglátogatjuk a legendás költő, Dante Alighieri sírját. Délben: Merüljön el a mozaikok világában a Keresztelőkápolnában és a San Vitale-bazilikában. Délután: Galla Placidia után a Nemzeti Múzeumot fedezzük fel. Este: Egy pihentető séta a Rocca Brancaleone erődhöz teszi teljessé a napot.",
+        "ro": "Dimineața: Începem în inima orașului, în Piazza del Popolo, și vizităm mormântul legendarului poet Dante Alighieri. La prânz: Scufundați-vă în lumea mozaicurilor la Baptisteriu și Bazilica San Vitale. După-amiaza: După Galla Placidia, explorăm Muzeul Național. Seara: O plimbare relaxantă la fortăreața Rocca Brancaleone completează ziua.",
+        "en": "Morning: We start in the heart of the city at Piazza del Popolo and visit the tomb of the legendary poet Dante Alighieri. Midday: Immerse yourself in the world of mosaics at the Baptistery and the Basilica of San Vitale. Afternoon: After Galla Placidia, we explore the National Museum. Evening: A relaxing stroll to the Rocca Brancaleone fortress completes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Probieren Sie das lokale Fladenbrot mit Squacquerone-Käse."
+          },
+          {
+            "name": "Cappelletti al ragù",
+            "tip": "Hausgemachte Pasta mit reichhaltiger Fleischsauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Próbálja ki a helyi lepénykenyeret Squacquerone sajttal."
+          },
+          {
+            "name": "Cappelletti al ragù",
+            "tip": "Házias tészta gazdag húsos raguval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Încercați lipia locală cu brânză Squacquerone."
+          },
+          {
+            "name": "Cappelletti al ragù",
+            "tip": "Paste de casă cu un sos bogat de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Try the local flatbread with Squacquerone cheese."
+          },
+          {
+            "name": "Cappelletti al ragù",
+            "tip": "Homemade pasta with rich meat ragu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Ein weitläufiger Park ideal für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Hatalmas park, ideális egy kis pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Un parc vast, ideal pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "A vast park ideal for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mosaik-Werkstätten",
+            "tip": "Kaufen Sie handgefertigte Mosaik-Repliken in der Via Argentario."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mozaik műhelyek",
+            "tip": "Vásároljon kézzel készített mozaik másolatokat a Via Argentario utcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de mozaic",
+            "tip": "Cumpărați replici de mozaic lucrate manual în Via Argentario."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosaic Workshops",
+            "tip": "Buy handmade mosaic replicas in Via Argentario."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie das Kombiticket für die UNESCO-Stätten.",
+          "Die meisten Sehenswürdigkeiten sind in der Fußgängerzone.",
+          "Achten Sie auf die strikten Öffnungszeiten am Mittag."
+        ],
+        "hu": [
+          "Vegye meg a kombinált jegyet az UNESCO helyszínekre.",
+          "A legtöbb látnivaló a sétálóövezetben található.",
+          "Ügyeljen a szigorú délutáni zárvatartásra."
+        ],
+        "ro": [
+          "Cumpărați biletul combinat pentru siturile UNESCO.",
+          "Cele mai multe atracții sunt în zona pietonală.",
+          "Atenție la programul strict de închidere de la prânz."
+        ],
+        "en": [
+          "Buy the combined ticket for the UNESCO sites.",
+          "Most sights are within the pedestrian zone.",
+          "Be aware of the strict midday closing times."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Popolo",
+            "hu": "Piazza del Popolo",
+            "ro": "Piazza del Popolo",
+            "en": "Piazza del Popolo"
+          },
+          "coords": [
+            12.199,
+            44.418
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Vitale",
+            "hu": "San Vitale-bazilika",
+            "ro": "Bazilica San Vitale",
+            "en": "Basilica of San Vitale"
+          },
+          "coords": [
+            12.196,
+            44.42
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sichere Fahrradständer vor Ort.",
+            "hu": "Biztonságos biciklitárolók a helyszínen.",
+            "ro": "Rastele sigure pentru biciclete la fața locului.",
+            "en": "Safe bike racks on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo di Teodorico",
+            "hu": "Theoderik mauzóleuma",
+            "ro": "Mausoleul lui Teodoric",
+            "en": "Mausoleum of Theodoric"
+          },
+          "coords": [
+            12.209,
+            44.425
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Einzigartige Architektur aus istrischem Stein.",
+            "hu": "Egyedülálló építészet isztriai kőből.",
+            "ro": "Arhitectură unică din piatră de Istria.",
+            "en": "Unique architecture made of Istrian stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Apollinare Nuovo",
+            "hu": "Sant'Apollinare Nuovo-bazilika",
+            "ro": "Bazilica Sant'Apollinare Nuovo",
+            "en": "Basilica of Sant'Apollinare Nuovo"
+          },
+          "coords": [
+            12.204,
+            44.417
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Berühmte Prozessionsmosaike.",
+            "hu": "Híres körmeneti mozaikok.",
+            "ro": "Mozaicuri faimoase cu procesiuni.",
+            "en": "Famous processional mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomba di Dante",
+            "hu": "Dante sírja",
+            "ro": "Mormântul lui Dante",
+            "en": "Dante's Tomb"
+          },
+          "coords": [
+            12.201,
+            44.417
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In der Nähe gibt es gute Cafés.",
+            "hu": "A közelben jó kávézók vannak.",
+            "ro": "Sunt cafenele bune în apropiere.",
+            "en": "Good cafes are nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Brancaleone",
+            "hu": "Rocca Brancaleone",
+            "ro": "Rocca Brancaleone",
+            "en": "Rocca Brancaleone"
+          },
+          "coords": [
+            12.205,
+            44.423
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den angrenzenden Park.",
+            "hu": "Tekerjen át a szomszédos parkon.",
+            "ro": "Mergeți cu bicicleta prin parcul adiacent.",
+            "en": "Ride through the adjacent park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erreichen wir auch abgelegenere Schätze wie das Mausoleum von Theoderich. Wir starten im Zentrum, erkunden die großen Basiliken und genießen die grüne Umgebung der Rocca Brancaleone. Ideal für einen aktiven Tag voller Geschichte.",
+        "hu": "Kerékpárral az eldugottabb kincseket is elérjük, mint Theoderik mauzóleuma. A központból indulunk, felfedezzük a nagy bazilikákat, és élvezzük a Rocca Brancaleone zöld környezetét. Ideális egy aktív, történelemmel teli naphoz.",
+        "ro": "Cu bicicleta ajungem și la comori mai retrase, cum ar fi Mausoleul lui Teodoric. Pornim din centru, explorăm marile bazilici și ne bucurăm de împrejurimile verzi de la Rocca Brancaleone. Ideal pentru o zi activă plină de istorie.",
+        "en": "By bike, we also reach more secluded treasures like the Mausoleum of Theodoric. We start in the center, explore the major basilicas, and enjoy the green surroundings of Rocca Brancaleone. Ideal for an active day full of history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borgo San Rocco",
+            "tip": "Ideal für einen schnellen Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgo San Rocco",
+            "tip": "Ideális egy gyors köztes harapnivalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borgo San Rocco",
+            "tip": "Ideal pentru o gustare rapidă între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgo San Rocco",
+            "tip": "Ideal for a quick snack between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco di Teodorico",
+            "tip": "Ruhiger Park rund um das Mausoleum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Theoderik-park",
+            "tip": "Nyugodt park a mauzóleum körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul lui Teodoric",
+            "tip": "Parc liniștit în jurul mausoleului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Theodoric Park",
+            "tip": "Quiet park around the mausoleum.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biciclette Ravenna",
+            "tip": "Lokaler Fahrradladen für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciclette Ravenna",
+            "tip": "Helyi kerékpárbolt kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biciclette Ravenna",
+            "tip": "Magazin local de biciclete pentru accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biciclette Ravenna",
+            "tip": "Local bike shop for accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ravenna ist sehr fahrradfreundlich und flach.",
+          "Nutzen Sie die markierten Radwege."
+        ],
+        "hu": [
+          "Ravenna nagyon kerékpárosbarát és sík.",
+          "Használja a kijelölt kerékpárutakat."
+        ],
+        "ro": [
+          "Ravenna este foarte prietenoasă cu bicicliștii și plată.",
+          "Utilizați pistele de biciclete marcate."
+        ],
+        "en": [
+          "Ravenna is very bike-friendly and flat.",
+          "Use the marked bike paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di San Vitale",
+            "hu": "San Vitale-bazilika",
+            "ro": "Bazilica San Vitale",
+            "en": "Basilica of San Vitale"
+          },
+          "coords": [
+            12.196,
+            44.42
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Cluster Nordwest.",
+            "hu": "Parkoljon az északnyugati klaszterben.",
+            "ro": "Parcați în zona de nord-vest.",
+            "en": "Park in the northwest cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo di Galla Placidia",
+            "hu": "Galla Placidia mauzóleuma",
+            "ro": "Mausoleul Galla Placidia",
+            "en": "Mausoleum of Galla Placidia"
+          },
+          "coords": [
+            12.197,
+            44.421
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben San Vitale zu Fuß erreichbar.",
+            "hu": "Közvetlenül a San Vitale mellett, gyalog.",
+            "ro": "Direct lângă San Vitale, accesibil pe jos.",
+            "en": "Right next to San Vitale, reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo di Teodorico",
+            "hu": "Theoderik mauzóleuma",
+            "ro": "Mausoleul lui Teodoric",
+            "en": "Mausoleum of Theodoric"
+          },
+          "coords": [
+            12.209,
+            44.425
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum eigenen Parkplatz.",
+            "hu": "Rövid autóút a saját parkolóhoz.",
+            "ro": "Scurtă călătorie până la parcarea proprie.",
+            "en": "Short drive to its own parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomba di Dante",
+            "hu": "Dante sírja",
+            "ro": "Mormântul lui Dante",
+            "en": "Dante's Tomb"
+          },
+          "coords": [
+            12.201,
+            44.417
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken am Rand der ZTL-Zone.",
+            "hu": "Parkolás a ZTL zóna szélén.",
+            "ro": "Parcare la marginea zonei ZTL.",
+            "en": "Parking at the edge of the ZTL zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Apollinare in Classe",
+            "hu": "Sant'Apollinare in Classe-bazilika",
+            "ro": "Bazilica Sant'Apollinare în Classe",
+            "en": "Basilica of Sant'Apollinare in Classe"
+          },
+          "coords": [
+            12.232,
+            44.38
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Wichtige UNESCO-Stätte außerhalb des Zentrums.",
+            "hu": "Fontos UNESCO helyszín a központon kívül.",
+            "ro": "Sit UNESCO important în afara centrului.",
+            "en": "Important UNESCO site outside the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Popolo",
+            "hu": "Piazza del Popolo",
+            "ro": "Piazza del Popolo",
+            "en": "Piazza del Popolo"
+          },
+          "coords": [
+            12.199,
+            44.418
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für einen Aperitif.",
+            "hu": "Vissza a központba egy aperitifre.",
+            "ro": "Înapoi în centru pentru un aperitiv.",
+            "en": "Back in the center for an aperitif."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir das Stadtzentrum mit der beeindruckenden Basilika in Classe. Wir nutzen Park-and-Walk-Cluster, um die mosaikreichen Kirchen effizient zu besuchen. Der Ausflug nach Classe ist ein absolutes Muss für Geschichtsliebhaber.",
+        "hu": "Autóval kombináljuk a városközpontot a lenyűgöző classe-i bazilikával. Parkolási klasztereket használunk, hogy hatékonyan látogassuk meg a mozaikokban gazdag templomokat. A classe-i kirándulás kötelező a történelem szerelmeseinek.",
+        "ro": "Cu mașina combinăm centrul orașului cu impresionanta bazilică din Classe. Folosim clustere de parcare pentru a vizita eficient bisericile bogate în mozaicuri. Excursia la Classe este absolut obligatorie pentru iubitorii de istorie.",
+        "en": "By car, we combine the city center with the impressive basilica in Classe. We use park-and-walk clusters to efficiently visit the mosaic-rich churches. The trip to Classe is a must for history lovers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ca' de Ven",
+            "tip": "Historisches Restaurant in einer ehemaligen Bibliothek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ca' de Ven",
+            "tip": "Történelmi étterem egy volt könyvtárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ca' de Ven",
+            "tip": "Restaurant istoric într-o fostă bibliotecă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ca' de Ven",
+            "tip": "Historic restaurant in a former library."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Antico Porto di Classe",
+            "tip": "Archäologischer Park mit viel Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antico Porto di Classe",
+            "tip": "Régészeti park nagy nyugalommal.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antico Porto di Classe",
+            "tip": "Parc arheologic cu multă liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Antico Porto di Classe",
+            "tip": "Archaeological park with much tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Kulinarische Souvenirs in Markthallen-Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Kulináris szuvenírek piaci hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Suveniruri culinare într-o atmosferă de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Culinary souvenirs in a market hall atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (begrenzte Verkehrszone) im Zentrum.",
+          "Parkplatz 'Largo Giustiniano' ist ideal für San Vitale."
+        ],
+        "hu": [
+          "Ügyeljen a ZTL (korlátozott forgalmú övezet) zónára a központban.",
+          "A 'Largo Giustiniano' parkoló ideális a San Vitale-hoz."
+        ],
+        "ro": [
+          "Atenție la ZTL (zona cu trafic limitat) din centru.",
+          "Parcarea 'Largo Giustiniano' este ideală pentru San Vitale."
+        ],
+        "en": [
+          "Watch out for the ZTL (Limited Traffic Zone) in the center.",
+          "Parking 'Largo Giustiniano' is ideal for San Vitale."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Popolo",
+            "hu": "Piazza del Popolo",
+            "ro": "Piazza del Popolo",
+            "en": "Piazza del Popolo"
+          },
+          "coords": [
+            12.199,
+            44.418
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Minibusse.",
+            "hu": "Központi csomópont a minibuszoknak.",
+            "ro": "Nod central pentru microbuze.",
+            "en": "Central hub for minibuses."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Vitale",
+            "hu": "San Vitale-bazilika",
+            "ro": "Bazilica San Vitale",
+            "en": "Basilica of San Vitale"
+          },
+          "coords": [
+            12.196,
+            44.42
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "Scurtă plimbare de la stație.",
+            "en": "Short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo di Teodorico",
+            "hu": "Theoderik mauzóleuma",
+            "ro": "Mausoleul lui Teodoric",
+            "en": "Mausoleum of Theodoric"
+          },
+          "coords": [
+            12.209,
+            44.425
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 2 oder 5 nutzen.",
+            "hu": "Használja a 2-es vagy 5-ös buszt.",
+            "ro": "Utilizați linia de autobuz 2 sau 5.",
+            "en": "Use bus line 2 or 5."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Apollinare in Classe",
+            "hu": "Sant'Apollinare in Classe-bazilika",
+            "ro": "Bazilica Sant'Apollinare în Classe",
+            "en": "Basilica of Sant'Apollinare in Classe"
+          },
+          "coords": [
+            12.232,
+            44.38
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 115,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Linie 4 fährt direkt nach Classe.",
+            "hu": "A 4-es járat közvetlenül Classe-ba megy.",
+            "ro": "Linia 4 merge direct la Classe.",
+            "en": "Line 4 goes directly to Classe."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Sant'Apollinare Nuovo",
+            "hu": "Sant'Apollinare Nuovo-bazilika",
+            "ro": "Bazilica Sant'Apollinare Nuovo",
+            "en": "Basilica of Sant'Apollinare Nuovo"
+          },
+          "coords": [
+            12.204,
+            44.417
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "In der Nähe des Bahnhofs.",
+            "hu": "A vasútállomás közelében.",
+            "ro": "În apropierea gării.",
+            "en": "Near the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomba di Dante",
+            "hu": "Dante sírja",
+            "ro": "Mormântul lui Dante",
+            "en": "Dante's Tomb"
+          },
+          "coords": [
+            12.201,
+            44.417
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss in der 'Zone der Stille'.",
+            "hu": "Szép befejezés a 'csend zónájában'.",
+            "ro": "Un final frumos în 'zona tăcerii'.",
+            "en": "A nice finish in the 'zone of silence'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des effizienten Busnetzes verbinden wir das historische Zentrum mit der UNESCO-Basilika in Classe. Wir nutzen die Linien 4 und 2, um zwischen den bedeutendsten Mosaik-Zentren zu pendeln, und beenden den Tag entspannt in der Altstadt.",
+        "hu": "A hatékony buszhálózatnak köszönhetően összekötjük a történelmi központot a classe-i UNESCO bazilikával. A 4-es és 2-es járatokat használjuk a legjelentősebb mozaikközpontok közötti közlekedéshez, a napot pedig az óvárosban zárjuk.",
+        "ro": "Datorită rețelei eficiente de autobuze, conectăm centrul istoric cu bazilica UNESCO din Classe. Folosim liniile 4 și 2 pentru a face naveta între cele mai importante centre de mozaic și încheiem ziua relaxați în orașul vechi.",
+        "en": "Thanks to the efficient bus network, we connect the historical center with the UNESCO basilica in Classe. We use lines 4 and 2 to commute between the most significant mosaic centers and end the day relaxed in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Profiterole",
+            "tip": "Holen Sie sich ein Dessert in der Nähe der Via Diaz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Profiterol",
+            "tip": "Vegyünk egy desszertet a Via Diaz közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Profiterol",
+            "tip": "Luați un desert în apropiere de Via Diaz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Profiterole",
+            "tip": "Get a dessert near Via Diaz."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tamo Museum Garten",
+            "tip": "Ein versteckter Innenhof mit Mosaiken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tamo Múzeum kertje",
+            "tip": "Egy rejtett belső udvar mozaikokkal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului Tamo",
+            "tip": "O curte interioară ascunsă cu mozaicuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tamo Museum Garden",
+            "tip": "A hidden courtyard with mosaics.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Cavour",
+            "tip": "Die Haupteinkaufsstraße mit vielen italienischen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Cavour",
+            "tip": "A fő bevásárlóutca számos olasz márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Cavour",
+            "tip": "Principala stradă comercială cu multe mărci italiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Cavour",
+            "tip": "The main shopping street with many Italian brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im Tabakladen (Tabaccheria).",
+          "Die Linie 4 nach Classe fährt alle 20-30 Minuten."
+        ],
+        "hu": [
+          "Vegyen buszjegyet előre a dohányboltban (Tabaccheria).",
+          "A 4-es járat Classe felé 20-30 percenként jár."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la tutungerie (Tabaccheria).",
+          "Linia 4 spre Classe circulă la fiecare 20-30 de minute."
+        ],
+        "en": [
+          "Buy bus tickets in advance at the tobacco shop (Tabaccheria).",
+          "Line 4 to Classe runs every 20-30 minutes."
+        ]
+      }
+    }
+  }
+}

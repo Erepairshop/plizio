@@ -1,0 +1,1151 @@
+{
+  "city_id": "city-muenster-extra",
+  "anchor": {
+    "name": "Prinzipalmarkt",
+    "coords": [
+      7.6285,
+      51.9615
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Prinzipalmarkt",
+            "hu": "Prinzipalmarkt",
+            "ro": "Prinzipalmarkt",
+            "en": "Prinzipalmarkt"
+          },
+          "coords": [
+            7.6285,
+            51.9615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Giebelhäuser.",
+            "hu": "Nézze meg az árkádos polgárházakat.",
+            "ro": "Admirați casele cu frontoane.",
+            "en": "Look at the gabled merchant houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historical City Hall"
+          },
+          "coords": [
+            7.6288,
+            51.9613
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Friedenssaal von 1648.",
+            "hu": "Látogasson el az 1648-as béketerembe.",
+            "ro": "Vizitați Sala Păcii din 1648.",
+            "en": "Visit the Hall of Peace from 1648."
+          }
+        },
+        {
+          "name": {
+            "de": "Lambertikirche",
+            "hu": "Lamberti-templom",
+            "ro": "Biserica Sf. Lambert",
+            "en": "St. Lamberti Church"
+          },
+          "coords": [
+            7.6295,
+            51.9625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie die drei Eisenkörbe am Turm.",
+            "hu": "Keresse meg a torony három vasketrecét.",
+            "ro": "Căutați cele trei coșuri de fier de pe turn.",
+            "en": "Find the three iron cages on the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Paulus-Dom",
+            "hu": "Szent Pál-székesegyház",
+            "ro": "Catedrala Sf. Paul",
+            "en": "St. Paul's Cathedral"
+          },
+          "coords": [
+            7.626,
+            51.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die astronomische Uhr zeigt das Jahr 1542.",
+            "hu": "A csillagászati óra 1542-ből származik.",
+            "ro": "Ceasul astronomic datează din 1542.",
+            "en": "The astronomical clock dates to 1542."
+          }
+        },
+        {
+          "name": {
+            "de": "LWL-Museum für Kunst und Kultur",
+            "hu": "LWL Művészeti és Kulturális Múzeum",
+            "ro": "Muzeul de Artă LWL",
+            "en": "LWL Museum of Art and Culture"
+          },
+          "coords": [
+            7.6245,
+            51.961
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Moderne Architektur trifft auf Mittelalter.",
+            "hu": "Modern építészet találkozása a középkorral.",
+            "ro": "Arhitectura modernă întâlnește evul mediu.",
+            "en": "Modern architecture meets the Middle Ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Erbdrostenhof",
+            "hu": "Erbdrostenhof palota",
+            "ro": "Palatul Erbdrostenhof",
+            "en": "Erbdrostenhof Palace"
+          },
+          "coords": [
+            7.632,
+            51.961
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein barocker Adelshof von Johann Conrad Schlaun.",
+            "hu": "Johann Conrad Schlaun barokk palotája.",
+            "ro": "Un palat baroc proiectat de Schlaun.",
+            "en": "A baroque palace designed by Schlaun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am Prinzipalmarkt mit seinen charakteristischen Bogengängen. Nach der Besichtigung des Friedenssaals im Rathaus erkunden wir die Lambertikirche und den mächtigen Dom mit seiner astronomischen Uhr. Der Nachmittag gehört der Kunst im LWL-Museum, bevor wir den barocken Erbdrostenhof bewundern.",
+        "hu": "A napot a Prinzipalmarkton kezdjük, jellegzetes árkádos házaival. A városháza Béketeremének megtekintése után felfedezzük a Lamberti-templomot és a hatalmas székesegyházat a csillagászati órával. Délután az LWL Múzeum műkincsei várnak, végül a barokk Erbdrostenhof udvarát csodáljuk meg.",
+        "ro": "Ziua începe în Piața Principală cu arcadele sale caracteristice. După vizitarea Sălii Păcii din Primărie, explorăm Biserica Sf. Lambert și catedrala impunătoare cu ceasul său astronomic. După-amiaza este dedicată artei la Muzeul LWL, înainte de a admira palatul baroc Erbdrostenhof.",
+        "en": "The day begins at the Prinzipalmarkt with its characteristic arcades. After visiting the Hall of Peace in the City Hall, we explore St. Lamberti Church and the massive cathedral with its astronomical clock. The afternoon is dedicated to art in the LWL Museum before admiring the baroque Erbdrostenhof."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altes Gasthaus Leve",
+            "tip": "Probieren Sie Westfälisches Töttchen oder Pfefferpotthast."
+          },
+          {
+            "name": "Pinkus Müller",
+            "tip": "Traditionelle Altbierküche in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altes Gasthaus Leve",
+            "tip": "Kóstolja meg a vesztfáliai Töttchent vagy a Pfefferpotthastot."
+          },
+          {
+            "name": "Pinkus Müller",
+            "tip": "Hagyományos Altbier konyha az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altes Gasthaus Leve",
+            "tip": "Încercați Töttchen vestfalian sau Pfefferpotthast."
+          },
+          {
+            "name": "Pinkus Müller",
+            "tip": "Bucătărie tradițională cu bere Altbier în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altes Gasthaus Leve",
+            "tip": "Try Westphalian Töttchen or Pfefferpotthast."
+          },
+          {
+            "name": "Pinkus Müller",
+            "tip": "Traditional Altbier cuisine in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang im Dom",
+            "tip": "Ein stiller Ort inmitten der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dóm kerengője",
+            "tip": "Csendes hely a város közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "Un loc liniștit în mijlocul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A quiet spot in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Prinzipalmarkt",
+            "tip": "Exklusive Boutiquen in historischer Kulisse."
+          },
+          {
+            "name": "Wochenmarkt auf dem Domplatz",
+            "tip": "Regionale Spezialitäten am Mittwoch und Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prinzipalmarkt",
+            "tip": "Exkluzív butikok történelmi környezetben."
+          },
+          {
+            "name": "Piac a Domplatzon",
+            "tip": "Regionális specialitások szerdán és szombaton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prinzipalmarkt",
+            "tip": "Boutique-uri exclusive într-un decor istoric."
+          },
+          {
+            "name": "Piața săptămânală din Domplatz",
+            "tip": "Specialități regionale miercurea și sâmbăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prinzipalmarkt",
+            "tip": "Exclusive boutiques in a historical setting."
+          },
+          {
+            "name": "Weekly Market at Domplatz",
+            "tip": "Regional specialties on Wednesdays and Saturdays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Münster ist die Stadt der Fahrräder, achten Sie beim Gehen auf die Radwege.",
+          "Die meisten Sehenswürdigkeiten liegen nah beieinander in der Altstadt.",
+          "Mittwochs und samstags ist Markttag am Dom, ideal für lokale Snacks.",
+          "Der Friedenssaal im Rathaus erfordert eine kleine Eintrittsgebühr."
+        ],
+        "hu": [
+          "Münster a kerékpárok városa, gyaloglás közben figyeljen a bicikliutakra.",
+          "A legtöbb látnivaló közel van egymáshoz az óvárosban.",
+          "Szerdán és szombaton piaci nap van a Dómnál, ideális helyi falatokhoz.",
+          "A városháza Béketermébe csekély belépődíjat kell fizetni."
+        ],
+        "ro": [
+          "Münster este orașul bicicletelor, atenție la pistele de biciclete când mergeți pe jos.",
+          "Majoritatea obiectivelor turistice sunt aproape unele de altele în centrul vechi.",
+          "Miercurea și sâmbăta e zi de piață la Catedrală, ideal pentru gustări locale.",
+          "Sala Păcii din Primărie necesită o mică taxă de intrare."
+        ],
+        "en": [
+          "Münster is the city of bicycles, watch out for bike paths while walking.",
+          "Most sights are close to each other in the old town area.",
+          "Wednesday and Saturday are market days at the Cathedral, great for local snacks.",
+          "The Hall of Peace in the City Hall requires a small entrance fee."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Münster",
+            "hu": "Münsteri kastély",
+            "ro": "Castelul din Münster",
+            "en": "Münster Castle"
+          },
+          "coords": [
+            7.6135,
+            51.9635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Heute Sitz der Universität Münster.",
+            "hu": "Ma a Münsteri Egyetem székhelye.",
+            "ro": "Astăzi este sediul Universității din Münster.",
+            "en": "Today it serves as the seat of Münster University."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            7.6105,
+            51.9645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Tropenhäuser hinter dem Schloss.",
+            "hu": "Látogassa meg a trópusi házakat a kastély mögött.",
+            "ro": "Vizitați serele tropicale din spatele castelului.",
+            "en": "Visit the tropical greenhouses behind the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Aasee",
+            "hu": "Aasee-tó",
+            "ro": "Lacul Aasee",
+            "en": "Lake Aasee"
+          },
+          "coords": [
+            7.618,
+            51.956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bekannt für die Giant Pool Balls von Claes Oldenburg.",
+            "hu": "Híres a Claes Oldenburg által alkotott óriás biliárdgolyókról.",
+            "ro": "Cunoscut pentru bilele gigantice de biliard ale lui Claes Oldenburg.",
+            "en": "Famous for the Giant Pool Balls by Claes Oldenburg."
+          }
+        },
+        {
+          "name": {
+            "de": "LWL-Museum für Kunst und Kultur",
+            "hu": "LWL Múzeum",
+            "ro": "Muzeul LWL",
+            "en": "LWL Museum"
+          },
+          "coords": [
+            7.6245,
+            51.961
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Aegidiimarkt ab.",
+            "hu": "Parkolja le a kerékpárt az Aegidiimarkton.",
+            "ro": "Parcați bicicleta la Aegidiimarkt.",
+            "en": "Park your bike at Aegidiimarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Prinzipalmarkt",
+            "hu": "Prinzipalmarkt",
+            "ro": "Prinzipalmarkt",
+            "en": "Prinzipalmarkt"
+          },
+          "coords": [
+            7.6285,
+            51.9615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad auf dem Kopfsteinpflaster.",
+            "hu": "Tolja a biciklit a macskaköves részen.",
+            "ro": "Împingeți bicicleta pe pavajul cu piatră cubică.",
+            "en": "Push your bike on the cobblestone sections."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Paulus-Dom",
+            "hu": "Szent Pál-székesegyház",
+            "ro": "Catedrala Sf. Paul",
+            "en": "St. Paul's Cathedral"
+          },
+          "coords": [
+            7.626,
+            51.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Paradiesportal ist kunsthistorisch bedeutend.",
+            "hu": "A Paradicsom-kapu művészettörténeti jelentőségű.",
+            "ro": "Portalul Paradisului este semnificativ din punct de vedere istoric.",
+            "en": "The Paradise Portal is historically significant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Münster per Rad: Wir starten am barocken Residenzschloss und dem angrenzenden Botanischen Garten. Über die Promenade radeln wir zum Aasee, genießen die Skulpturen und fahren dann ins Zentrum zum LWL-Museum. Der Abschluss führt uns über den Prinzipalmarkt zum Domplatz.",
+        "hu": "Münster kerékpáron: a barokk rezidenciakastélynál és a szomszédos Botanikus kertnél kezdünk. A Promenádon keresztül az Aasee-tóhoz tekerünk, megcsodáljuk a szobrokat, majd a központba, az LWL Múzeumba hajtunk. Végül a Prinzipalmarkton át a Dóm térre érkezünk.",
+        "ro": "Münster pe bicicletă: începem la castelul rezidențial baroc și Grădina Botanică adiacentă. Pedalăm pe Promenadă spre lacul Aasee, ne bucurăm de sculpturi și apoi mergem spre centru la Muzeul LWL. Finalul ne poartă prin Piața Principală către Domplatz.",
+        "en": "Münster by bike: We start at the baroque residential castle and the adjacent Botanical Garden. Cycling along the Promenade, we reach Lake Aasee, enjoy the sculptures, and then head to the center to the LWL Museum. The tour finishes via the Prinzipalmarkt at Domplatz."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "A2 am See",
+            "tip": "Speisen mit direktem Blick auf den Aasee."
+          },
+          {
+            "name": "Frauenstraße 24",
+            "tip": "Alternative Studentenkneipe mit Charakter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A2 am See",
+            "tip": "Étkezés közvetlen kilátással az Aasee-tóra."
+          },
+          {
+            "name": "Frauenstraße 24",
+            "tip": "Alternatív egyetemi kocsma egyedi hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "A2 am See",
+            "tip": "Luați masa cu vedere directă la lacul Aasee."
+          },
+          {
+            "name": "Frauenstraße 24",
+            "tip": "Pub studențesc alternativ cu caracter."
+          }
+        ],
+        "en": [
+          {
+            "name": "A2 am See",
+            "tip": "Dine with a direct view of Lake Aasee."
+          },
+          {
+            "name": "Frauenstraße 24",
+            "tip": "Alternative student pub with character."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Perfekt für eine Pause im Grünen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Tökéletes pihenő a zöldben.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Perfect pentru o pauză în natură.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Perfect for a break in the greenery.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Leezen-Store",
+            "tip": "Fahrradzubehör und Münster-Merchandise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leezen-Store",
+            "tip": "Kerékpár tartozékok és münsteri emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leezen-Store",
+            "tip": "Accesorii pentru biciclete și suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leezen-Store",
+            "tip": "Bicycle accessories and Münster merchandise."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Promenade ist ein Fahrrad-Highway rund um die Altstadt.",
+          "Nutzen Sie die 'Radstation' am Hauptbahnhof für Mieträder.",
+          "Achten Sie auf die Vorfahrt von anderen Radfahrern.",
+          "Das Schloss bietet gute Fotomotive am Vormittag."
+        ],
+        "hu": [
+          "A Promenád egy kerékpáros autópálya az óváros körül.",
+          "Használja a főpályaudvarnál lévő 'Radstation'-t bérléshez.",
+          "Figyeljen a többi kerékpáros elsőbbségére.",
+          "A kastély délelőtt kínálja a legjobb fotótémákat."
+        ],
+        "ro": [
+          "Promenada este o 'autostradă' pentru biciclete în jurul centrului vechi.",
+          "Folosiți 'Radstation' de la gara principală pentru închirieri.",
+          "Atenție la prioritatea celorlalți bicicliști.",
+          "Castelul oferă oportunități bune de fotografiere dimineața."
+        ],
+        "en": [
+          "The Promenade is a bicycle highway around the old town.",
+          "Use the 'Radstation' at the main station for bike rentals.",
+          "Pay attention to the right of way of other cyclists.",
+          "The castle offers great photo opportunities in the morning."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Prinzipalmarkt",
+            "hu": "Prinzipalmarkt",
+            "ro": "Prinzipalmarkt",
+            "en": "Prinzipalmarkt"
+          },
+          "coords": [
+            7.6285,
+            51.9615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Domplatz.",
+            "hu": "Parkoljon a Dóm téri parkolóházban.",
+            "ro": "Parcați în garajul de la Domplatz.",
+            "en": "Park in the parking garage at Domplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            7.6288,
+            51.9613
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg innerhalb des Clusters Altstadt.",
+            "hu": "Gyalogos táv az óvárosi klaszteren belül.",
+            "ro": "Distanță de mers pe jos în zona veche.",
+            "en": "Walking distance within the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Paulus-Dom",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            7.626,
+            51.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Stopp im Cluster Altstadt.",
+            "hu": "Utolsó állomás az óvárosi klaszterben.",
+            "ro": "Ultima oprire în zona veche.",
+            "en": "Last stop in the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Münster",
+            "hu": "Münsteri kastély",
+            "ro": "Castelul din Münster",
+            "en": "Münster Castle"
+          },
+          "coords": [
+            7.6135,
+            51.9635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken auf dem großen Schlossplatz.",
+            "hu": "Parkolás a nagy Kastély téren.",
+            "ro": "Parcare în marea piață a castelului.",
+            "en": "Parking available on the large Schlossplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            7.6105,
+            51.9645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Schlossgarten.",
+            "hu": "Gyalogos táv a kastélykertből.",
+            "ro": "Distanță de mers pe jos din grădina castelului.",
+            "en": "Walking distance from the castle garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Aasee",
+            "hu": "Aasee-tó",
+            "ro": "Lacul Aasee",
+            "en": "Lake Aasee"
+          },
+          "coords": [
+            7.618,
+            51.956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parkplatz an den Aaseeterrassen.",
+            "hu": "Parkoló az Aasee-teraszoknál.",
+            "ro": "Parcare la terasele Aasee.",
+            "en": "Parking at the Aasee terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Lambertikirche",
+            "hu": "Lamberti-templom",
+            "ro": "Biserica Sf. Lambert",
+            "en": "St. Lamberti Church"
+          },
+          "coords": [
+            7.6295,
+            51.9625
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abendlicher Blick auf den Turmwächter.",
+            "hu": "Esti pillantás a toronyőrre.",
+            "ro": "Priviți spre turn pentru paznicul de noapte.",
+            "en": "Evening view of the tower watchman."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen wir drei Cluster: Zuerst die Altstadt mit Rathaus und Dom (Parkhaus Domplatz). Danach das Schloss-Areal mit Botanischem Garten. Den späten Nachmittag verbringen wir am Aasee, bevor wir für einen letzten Blick zur Lambertikirche zurückkehren.",
+        "hu": "Autóval három klasztert látogatunk meg: először az óvárost a városházával és a dómmal (parkolás a Dóm téren). Ezután a kastély környéke következik a botanikus kerttel. A késő délutánt az Aasee-nél töltjük, majd visszatérünk a Lamberti-templomhoz.",
+        "ro": "Cu mașina folosim trei grupuri de obiective: mai întâi centrul vechi cu primăria și catedrala (parcare la Domplatz). Apoi zona castelului cu grădina botanică. Petrecem după-amiaza târziu la Aasee, înainte de a reveni pentru o ultimă privire la Biserica Sf. Lambert.",
+        "en": "By car, we visit three clusters: first the old town with the city hall and cathedral (parking at Domplatz). Next is the castle area with the botanical garden. We spend the late afternoon at Lake Aasee before returning for a final look at St. Lamberti Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mutter Habenicht",
+            "tip": "Rustikale westfälische Küche in der Nähe der Altstadt."
+          },
+          {
+            "name": "Mövenpick Hotel Restaurant",
+            "tip": "Gehobene Küche mit Seeblick am Aasee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mutter Habenicht",
+            "tip": "Rusztikus vesztfáliai konyha az óváros közelében."
+          },
+          {
+            "name": "Mövenpick Hotel Restaurant",
+            "tip": "Elegáns konyha tóra néző kilátással az Aasee-nél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mutter Habenicht",
+            "tip": "Bucătărie vestfaliană rustică lângă centrul vechi."
+          },
+          {
+            "name": "Mövenpick Hotel Restaurant",
+            "tip": "Bucătărie rafinată cu vedere la lac la Aasee."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mutter Habenicht",
+            "tip": "Rustic Westphalian cuisine near the old town."
+          },
+          {
+            "name": "Mövenpick Hotel Restaurant",
+            "tip": "Fine dining with lake views at Aasee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aaseeufer",
+            "tip": "Lange Spaziergänge am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aasee-part",
+            "tip": "Hosszú séták a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Aasee",
+            "tip": "Plimbări lungi pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aasee Shore",
+            "tip": "Long walks by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Arkaden Münster",
+            "tip": "Modernes Einkaufszentrum mit eigenem Parkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arkaden Münster",
+            "tip": "Modern bevásárlóközpont saját parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arkaden Münster",
+            "tip": "Centru comercial modern cu parcare proprie."
+          },
+          {
+            "name": "Arkaden Münster",
+            "tip": "Modern shopping center with its own parking."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arkaden Münster",
+            "tip": "Modern shopping center with its own parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkleitsysteme, die Innenstadt ist oft voll.",
+          "Parkhäuser am Rand der Altstadt sind stressfreier.",
+          "Am Schlossplatz gibt es meist freie Parkplätze.",
+          "Achten Sie auf die Umweltzone in der Innenstadt."
+        ],
+        "hu": [
+          "Használja a parkolásirányító rendszert, a belváros gyakran zsúfolt.",
+          "Az óváros szélén lévő parkolóházak kevésbé stresszesek.",
+          "A Kastély téren (Schlossplatz) általában van szabad hely.",
+          "Ügyeljen a belvárosi környezetvédelmi zónára."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare pentru parcare, centrul e adesea aglomerat.",
+          "Parcările de la marginea centrului vechi sunt mai relaxante.",
+          "La Schlossplatz se găsesc de obicei locuri de parcare libere.",
+          "Atenție la zona cu emisii reduse din centrul orașului."
+        ],
+        "en": [
+          "Use the parking guidance systems, the city center is often crowded.",
+          "Parking garages at the edge of the old town are less stressful.",
+          "There are usually free parking spots at Schlossplatz.",
+          "Be aware of the low emission zone in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Prinzipalmarkt",
+            "hu": "Prinzipalmarkt",
+            "ro": "Prinzipalmarkt",
+            "en": "Prinzipalmarkt"
+          },
+          "coords": [
+            7.6285,
+            51.9615
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Umstieg am Hauptbahnhof möglich.",
+            "hu": "Központi átszállási lehetőség a főpályaudvarnál.",
+            "ro": "Transfer central posibil la gara principală.",
+            "en": "Central transfer possible at the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            7.6288,
+            51.9613
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg im historischen Zentrum.",
+            "hu": "Gyalogos táv a történelmi központban.",
+            "ro": "Mers pe jos în centrul istoric.",
+            "en": "Walking distance in the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Münster",
+            "hu": "Münsteri kastély",
+            "ro": "Castelul din Münster",
+            "en": "Münster Castle"
+          },
+          "coords": [
+            7.6135,
+            51.9635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Buslinien 1, 11, 12 und 13 halten hier.",
+            "hu": "Az 1, 11, 12 és 13-as buszok állnak meg itt.",
+            "ro": "Liniile de autobuz 1, 11, 12 și 13 opresc aici.",
+            "en": "Bus lines 1, 11, 12, and 13 stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            7.6105,
+            51.9645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg hinter das Hauptgebäude des Schlosses.",
+            "hu": "Gyalogos táv a kastély főépülete mögött.",
+            "ro": "Mers pe jos în spatele clădirii principale.",
+            "en": "Walk behind the main castle building."
+          }
+        },
+        {
+          "name": {
+            "de": "Aasee",
+            "hu": "Aasee-tó",
+            "ro": "Lacul Aasee",
+            "en": "Lake Aasee"
+          },
+          "coords": [
+            7.618,
+            51.956
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Buslinie 14 fährt direkt zum See.",
+            "hu": "A 14-es busz közvetlenül a tóhoz visz.",
+            "ro": "Linia 14 merge direct la lac.",
+            "en": "Bus line 14 goes directly to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Paulus-Dom",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            7.626,
+            51.963
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ausstieg an der Haltestelle Domplatz.",
+            "hu": "Szálljon le a Domplatz megállónál.",
+            "ro": "Coborâți la stația Domplatz.",
+            "en": "Get off at the Domplatz stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bequem mit dem Bus: Vom Prinzipalmarkt fahren wir zum Schloss und Botanischen Garten. Ein kurzer Transit-Hop bringt uns zum Aasee für Entspannung am Wasser. Den Tag beenden wir am Domplatz, der von vielen Linien bedient wird.",
+        "hu": "Kényelmesen busszal: a Prinzipalmarkttól a kastélyhoz és a botanikus kerthez utazunk. Egy rövid buszos szakasz után az Aasee-nél lazítunk a vízparton. A napot a Dóm téren zárjuk, amelyet számos járat érint.",
+        "ro": "Confortabil cu autobuzul: de la Piața Principală mergem la castel și grădina botanică. O scurtă călătorie ne duce la Aasee pentru relaxare pe malul apei. Încheiem ziua la Domplatz, deservit de multe linii.",
+        "en": "Conveniently by bus: From Prinzipalmarkt, we ride to the castle and botanical garden. A short transit hop takes us to Lake Aasee for relaxation by the water. We end the day at Domplatz, which is served by many lines."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Großer Kiepenkerl",
+            "tip": "Traditionsreiches Gasthaus in der Nähe der Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Großer Kiepenkerl",
+            "tip": "Hagyományőrző vendéglő a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Großer Kiepenkerl",
+            "tip": "Han tradițional lângă stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Großer Kiepenkerl",
+            "tip": "Traditional inn near the bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wienburgpark",
+            "tip": "Mit dem Bus etwas außerhalb für absolute Ruhe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wienburgpark",
+            "tip": "Busszal kicsit kijjebb a teljes nyugalomért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wienburgpark",
+            "tip": "Cu autobuzul puțin mai departe pentru liniște totală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wienburgpark",
+            "tip": "A short bus ride out for total peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ludgeristraße",
+            "tip": "Die Haupteinkaufsstraße, bestens per Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ludgeristraße",
+            "tip": "A fő bevásárlóutca, busszal kiválóan megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ludgeristraße",
+            "tip": "Principala stradă comercială, accesibilă cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ludgeristraße",
+            "tip": "The main shopping street, easily accessible by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'mobi' App für Echtzeit-Fahrpläne.",
+          "Ein Tagesticket ist meist günstiger als Einzelfahrten.",
+          "Die Busse fahren im Stadtzentrum sehr engmaschig.",
+          "Abends fahren Nachtbusse (N-Linien) ab dem Hauptbahnhof."
+        ],
+        "hu": [
+          "Használja a 'mobi' alkalmazást a valós idejű menetrendhez.",
+          "A napijegy általában olcsóbb, mint az egyedi jegyek.",
+          "A buszok a belvárosban sűrűn közlekednek.",
+          "Este éjszakai buszok (N-járatok) indulnak a főpályaudvartól."
+        ],
+        "ro": [
+          "Folosiți aplicația 'mobi' pentru orare în timp real.",
+          "Un bilet de o zi este de obicei mai ieftin decât călătoriile individuale.",
+          "Autobuzele circulă foarte frecvent în centrul orașului.",
+          "Seara circulă autobuze de noapte (liniile N) de la gara principală."
+        ],
+        "en": [
+          "Use the 'mobi' app for real-time schedules.",
+          "A day ticket is usually cheaper than single rides.",
+          "Buses run very frequently in the city center.",
+          "In the evening, night buses (N lines) depart from the main station."
+        ]
+      }
+    }
+  }
+}

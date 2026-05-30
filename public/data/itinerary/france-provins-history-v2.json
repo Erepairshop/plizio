@@ -1,0 +1,1125 @@
+{
+  "city_id": "france-provins-history-v2",
+  "anchor": {
+    "name": "Provins",
+    "coords": [
+      48.56,
+      3.3
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Saint-Jean",
+            "hu": "Szent János-kapu",
+            "ro": "Poarta Saint-Jean",
+            "en": "Saint-Jean Gate"
+          },
+          "coords": [
+            48.563,
+            3.293
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier für den besten Blick auf die Stadtmauer.",
+            "hu": "Kezdje itt a sétát a legjobb várfal-kilátásért.",
+            "ro": "Începeți aici pentru cea mai bună vedere a zidurilor.",
+            "en": "Start here for the best view of the ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer von Provins",
+            "hu": "Provins várfala",
+            "ro": "Zidurile cetății Provins",
+            "en": "Ramparts of Provins"
+          },
+          "coords": [
+            48.564,
+            3.294
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Spaziergang auf der Krone bietet tolle Fotomotive.",
+            "hu": "A fal tetején sétálva remek fotókat készíthet.",
+            "ro": "O plimbare pe ziduri oferă unghiuri foto superbe.",
+            "en": "A walk on the top offers great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour César",
+            "hu": "Cézár-torony",
+            "ro": "Turnul lui Cezar",
+            "en": "Cesar Tower"
+          },
+          "coords": [
+            48.562,
+            3.3
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt mit 360-Grad-Panorama.",
+            "hu": "A város jelképe 360 fokos panorámával.",
+            "ro": "Simbolul orașului cu panoramă de 360 de grade.",
+            "en": "The city's landmark with a 360-degree panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Quiriace",
+            "hu": "Saint-Quiriace társaskáptalani templom",
+            "ro": "Biserica Saint-Quiriace",
+            "en": "Collegiate Church of Saint-Quiriace"
+          },
+          "coords": [
+            48.561,
+            3.301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unvollendete, aber imposante Kuppel.",
+            "hu": "Csodálja meg a befejezetlen, de impozáns kupolát.",
+            "ro": "Admirați cupola neterminată, dar impunătoare.",
+            "en": "Admire the unfinished but imposing dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Grange aux Dîmes",
+            "hu": "Tized-csűr",
+            "ro": "Grange aux Dîmes",
+            "en": "Tithe Barn"
+          },
+          "coords": [
+            48.561,
+            3.298
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Audioguide zeigt das Leben der mittelalterlichen Händler.",
+            "hu": "Audioguide mutatja be a középkori kereskedők életét.",
+            "ro": "Audioghidul prezintă viața negustorilor medievali.",
+            "en": "Audioguide shows the life of medieval merchants."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Souterrains de Provins",
+            "hu": "Provins föld alatti járatai",
+            "ro": "Subteranele din Provins",
+            "en": "Provins Underground Tunnels"
+          },
+          "coords": [
+            48.562,
+            3.297
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie die Führung im Voraus, es ist oft ausverkauft.",
+            "hu": "Foglaljon előre, gyakran minden hely elkel.",
+            "ro": "Rezervați din timp, biletele se epuizează rapid.",
+            "en": "Book in advance, tours often sell out."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten von Provins",
+            "hu": "Provins-i rózsakert",
+            "ro": "Grădina de trandafiri",
+            "en": "Provins Rose Garden"
+          },
+          "coords": [
+            48.558,
+            3.305
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie das Roseneis im Gartencafé.",
+            "hu": "Kóstolja meg a rózsafagyit a kerti kávézóban.",
+            "ro": "Gustați înghețata de trandafiri la cafeneaua grădinii.",
+            "en": "Try the rose ice cream at the garden cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das mittelalterliche Juwel Frankreichs zu Fuß. Der Vormittag gehört der mächtigen Stadtmauer und dem ikonischen Tour César. Nach einer Besichtigung der imposanten Kirche Saint-Quiriace tauchen Sie in die Handelsgeschichte der Grange aux Dîmes ein. Den Nachmittag verbringen Sie in den geheimnisvollen Souterrains, bevor Sie den Tag entspannt im duftenden Rosengarten ausklingen lassen.",
+        "hu": "Fedezze fel gyalogosan Franciaország középkori ékszerdobozát. A délelőtt a hatalmas várfalaké és az ikonikus Cézár-toronyé. A monumentális Saint-Quiriace templom után a Tized-csűrben megismerheti a középkori vásárok világát. Délután a rejtélyes föld alatti járatokat járjuk be, majd a napot a város híres rózsakertjében, illatos virágok között zárjuk.",
+        "ro": "Explorați pe jos bijuteria medievală a Franței. Dimineața este dedicată zidurilor impunătoare și iconicului Turn al lui Cezar. După vizitarea bisericii Saint-Quiriace, pătrundeți în istoria comercială la Grange aux Dîmes. După-amiaza o veți petrece în subteranele misterioase, înainte de a încheia ziua relaxat în parfumata grădină de trandafiri.",
+        "en": "Explore France's medieval jewel on foot. The morning belongs to the mighty ramparts and the iconic Cesar Tower. After visiting the imposing Saint-Quiriace church, dive into commercial history at the Tithe Barn. Spend the afternoon in the mysterious underground tunnels before ending the day relaxing in the fragrant Rose Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brie de Provins",
+            "tip": "Lokaler Käse mit kräftigem Aroma."
+          },
+          {
+            "name": "Niflettes",
+            "tip": "Traditionelles Gebäck mit Puddingfüllung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brie de Provins",
+            "tip": "Helyi lágy sajt, karakteres ízzel."
+          },
+          {
+            "name": "Niflettes",
+            "tip": "Hagyományos pudingos sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brie de Provins",
+            "tip": "Brânză locală cu aromă puternică."
+          },
+          {
+            "name": "Niflettes",
+            "tip": "Patiserie tradițională cu budincă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brie de Provins",
+            "tip": "Local soft cheese with a strong aroma."
+          },
+          {
+            "name": "Niflettes",
+            "tip": "Traditional pastry filled with custard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten",
+            "tip": "Ideal für eine ruhige Pause.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Zitadelle bei Sonnenuntergang",
+            "tip": "Bester Blick auf die Oberstadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Ideális egy csendes pihenőhöz.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Várfal naplementekor",
+            "tip": "A legjobb kilátás a felsővárosra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Ideală pentru o pauză liniștită.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Citadela la apus",
+            "tip": "Cea mai bună vedere spre orașul de sus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden",
+            "tip": "Ideal for a quiet break.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Ramparts at sunset",
+            "tip": "Best view of the upper town.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place du Châtel",
+            "tip": "Mittelalterliche Souvenirs und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place du Châtel",
+            "tip": "Középkori szuvenírek és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place du Châtel",
+            "tip": "Suveniruri medievale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place du Châtel",
+            "tip": "Medieval souvenirs and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den Provins-Pass für ermäßigten Eintritt zu 4 Hauptsehenswürdigkeiten.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Oberstadt.",
+          "Die Greifvogel-Show 'Les Aigles des Remparts' ist ein Muss für Familien."
+        ],
+        "hu": [
+          "Vásároljon Provins-bérletet, amivel kedvezményesen látogathat 4 fő helyszínt.",
+          "Viseljen kényelmes cipőt a felsőváros macskaköves utcáihoz.",
+          "A 'Les Aigles des Remparts' ragadozómadár-bemutató kihagyhatatlan családoknak."
+        ],
+        "ro": [
+          "Cumpărați Provins-Pass pentru intrare redusă la cele 4 obiective principale.",
+          "Purtați încălțăminte comodă pentru străzile pietruite din orașul de sus.",
+          "Spectacolul cu păsări de pradă 'Les Aigles des Remparts' este obligatoriu pentru familii."
+        ],
+        "en": [
+          "Buy the Provins Pass for discounted entry to 4 main sights.",
+          "Wear comfortable shoes for the cobblestone streets in the upper town.",
+          "The 'Les Aigles des Remparts' bird of prey show is a must for families."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Saint-Jean",
+            "hu": "Szent János-kapu",
+            "ro": "Poarta Saint-Jean",
+            "en": "Saint-Jean Gate"
+          },
+          "coords": [
+            48.563,
+            3.293
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt an der mächtigen Stadtmauer.",
+            "hu": "Kiindulópont a hatalmas várfalnál.",
+            "ro": "Punct de plecare la zidul impunător.",
+            "en": "Starting point at the mighty ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer",
+            "hu": "Várfal",
+            "ro": "Zidurile",
+            "en": "Ramparts"
+          },
+          "coords": [
+            48.564,
+            3.294
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Außenseite der Gräben.",
+            "hu": "Biciklizzen a várárok külső peremén.",
+            "ro": "Pedalați de-a lungul exteriorului șanțurilor.",
+            "en": "Cycle along the outside of the moats."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour César",
+            "hu": "Cézár-torony",
+            "ro": "Turnul lui Cezar",
+            "en": "Cesar Tower"
+          },
+          "coords": [
+            48.562,
+            3.3
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Fuß des Turms sicher ab.",
+            "hu": "Parkolja le a bringát a torony tövében.",
+            "ro": "Parcați bicicleta în siguranță la baza turnului.",
+            "en": "Park your bike safely at the foot of the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Quiriace",
+            "hu": "Saint-Quiriace templom",
+            "ro": "Biserica Saint-Quiriace",
+            "en": "Saint-Quiriace Church"
+          },
+          "coords": [
+            48.561,
+            3.301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung.",
+            "hu": "Csendes hely az elmélkedésre.",
+            "ro": "Un loc liniștit pentru reflecție.",
+            "en": "A quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Grange aux Dîmes",
+            "hu": "Tized-csűr",
+            "ro": "Grange aux Dîmes",
+            "en": "Tithe Barn"
+          },
+          "coords": [
+            48.561,
+            3.298
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellung.",
+            "hu": "Interaktív kiállítás.",
+            "ro": "Expoziție interactivă.",
+            "en": "Interactive exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Provins",
+            "hu": "Provins Múzeum",
+            "ro": "Muzeul Provins",
+            "en": "Provins Museum"
+          },
+          "coords": [
+            48.56,
+            3.299
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In einem der ältesten Häuser der Stadt.",
+            "hu": "A város egyik legrégebbi házában.",
+            "ro": "Într-una dintre cele mai vechi case din oraș.",
+            "en": "In one of the oldest houses in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten",
+            "hu": "Rózsakert",
+            "ro": "Grădina de trandafiri",
+            "en": "Rose Garden"
+          },
+          "coords": [
+            48.558,
+            3.305
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Belohnung nach der Tour.",
+            "hu": "Jutalom a túra után.",
+            "ro": "Răsplata după tur.",
+            "en": "Reward after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lassen sich die Distanzen zwischen Ober- und Unterstadt spielend überbrücken. Genießen Sie die Fahrt entlang der massiven Gräben der Stadtmauer und erkunden Sie die historischen Highlights. Die Route führt Sie von den Höhen der Zitadelle hinunter in das grüne Tal zum Rosengarten.",
+        "hu": "Kerékpárral könnyedén áthidalható a távolság a felső- és az alsóváros között. Élvezze a tekerést a hatalmas várárok mentén, és fedezze fel a történelmi látnivalókat. Az útvonal a citadella magaslataitól vezet le a zöldellő völgybe, a híres rózsakerthez.",
+        "ro": "Cu bicicleta, distanțele dintre orașul de sus și cel de jos sunt ușor de parcurs. Bucurați-vă de drumul de-a lungul șanțurilor masive ale zidurilor și explorați punctele istorice. Traseul vă duce de pe culmile cetății până în valea verde, la grădina de trandafiri.",
+        "en": "By bike, the distances between the upper and lower towns are easily covered. Enjoy cycling along the massive moats of the ramparts and explore the historical highlights. The route takes you from the heights of the citadel down to the green valley and the rose garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confit de Pétales de Rose",
+            "tip": "Süßer Rosenblüten-Aufstrich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsaszirom-lekvár",
+            "tip": "Édes, illatos különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulceață de petale de trandafir",
+            "tip": "O delicatesă dulce și parfumată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Petal Confit",
+            "tip": "Sweet and fragrant rose spread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Voulzie",
+            "tip": "Ruhiger Weg am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Voulzie partja",
+            "tip": "Csendes ösvény a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Voulzie",
+            "tip": "Potecă liniștită pe lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Voulzie",
+            "tip": "Quiet path along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique de la Rose",
+            "tip": "Alles rund um die Provins-Rose."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsa-bolt",
+            "tip": "Minden, ami a provins-i rózsával kapcsolatos."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique de la Rose",
+            "tip": "Totul despre trandafirul de Provins."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Boutique",
+            "tip": "Everything related to the Provins rose."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Steigung zur Oberstadt erfordert etwas Kondition.",
+          "Es gibt Fahrradständer am Tour César und am Rosengarten."
+        ],
+        "hu": [
+          "A felsővárosba vezető emelkedőhöz kell némi kondíció.",
+          "A Cézár-toronynál és a rózsakertnél is vannak biciklitárolók."
+        ],
+        "ro": [
+          "Urcarea spre orașul de sus necesită puțină condiție fizică.",
+          "Există rastele de biciclete la Turnul lui Cezar și la Grădina de trandafiri."
+        ],
+        "en": [
+          "The climb to the upper town requires some fitness.",
+          "There are bike racks at Cesar Tower and the Rose Garden."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Saint-Jean (Parkplatz)",
+            "hu": "Szent János-kapu (parkoló)",
+            "ro": "Poarta Saint-Jean (parcare)",
+            "en": "Saint-Jean Gate (Parking)"
+          },
+          "coords": [
+            48.563,
+            3.293
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt an der Mauer.",
+            "hu": "Nagy parkoló közvetlenül a falnál.",
+            "ro": "Parcare mare direct lângă zid.",
+            "en": "Large parking lot right by the wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer",
+            "hu": "Várfal",
+            "ro": "Zidurile",
+            "en": "Ramparts"
+          },
+          "coords": [
+            48.564,
+            3.294
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz zu Fuß erreichbar.",
+            "hu": "A parkolóból gyalog elérhető.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour César",
+            "hu": "Cézár-torony",
+            "ro": "Turnul lui Cezar",
+            "en": "Cesar Tower"
+          },
+          "coords": [
+            48.562,
+            3.3
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Herz der Oberstadt.",
+            "hu": "A felsőváros szíve.",
+            "ro": "Inima orașului de sus.",
+            "en": "The heart of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Châtel (Lunch)",
+            "hu": "Place du Châtel (ebéd)",
+            "ro": "Place du Châtel (prânz)",
+            "en": "Place du Châtel (Lunch)"
+          },
+          "coords": [
+            48.561,
+            3.296
+          ],
+          "category": "square",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Platz mit vielen Restaurants.",
+            "hu": "Központi tér számos étteremmel.",
+            "ro": "Piață centrală cu multe restaurante.",
+            "en": "Central square with many restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten",
+            "hu": "Rózsakert",
+            "ro": "Grădina de trandafiri",
+            "en": "Rose Garden"
+          },
+          "coords": [
+            48.558,
+            3.305
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt in die Unterstadt.",
+            "hu": "Rövid autóút az alsóvárosba.",
+            "ro": "Scurt drum cu mașina spre orașul de jos.",
+            "en": "Short drive to the lower town."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Provins",
+            "hu": "Provins Múzeum",
+            "ro": "Muzeul Provins",
+            "en": "Provins Museum"
+          },
+          "coords": [
+            48.56,
+            3.299
+          ],
+          "category": "museums",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Lokalgeschichte.",
+            "hu": "Merüljön el a helyi történelemben.",
+            "ro": "Pătrundeți în istoria locală.",
+            "en": "Dive into local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt das Auto, um bequem zwischen den Hauptclustern der Ober- und Unterstadt zu wechseln. Wir parken an der Stadtmauer, erkunden das mittelalterliche Zentrum zu Fuß und fahren am Nachmittag in die Unterstadt zum idyllischen Rosengarten und dem Stadtmuseum.",
+        "hu": "Ez az útvonal az autót használja a felső- és alsóvárosi klaszterek közötti kényelmes közlekedéshez. A várfalnál parkolunk, gyalog fedezzük fel a középkori központot, majd délután az alsóvárosba hajtunk az idilli rózsakerthez és a városi múzeumhoz.",
+        "ro": "Acest traseu folosește mașina pentru a face legătura confortabil între principalele zone din orașul de sus și cel de jos. Parcăm la ziduri, explorăm centrul medieval pe jos, iar după-amiaza mergem în orașul de jos la grădina de trandafiri și la muzeu.",
+        "en": "This route uses the car to comfortably move between the main clusters of the upper and lower towns. We park at the ramparts, explore the medieval center on foot, and drive to the lower town in the afternoon for the idyllic rose garden and the city museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêpe mit Rosenkonfitüre",
+            "tip": "Ein Muss in der Oberstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsalekváros palacsinta",
+            "tip": "Kihagyhatatlan a felsővárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătită cu dulceață de trandafiri",
+            "tip": "Obligatoriu în orașul de sus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêpe with rose jam",
+            "tip": "A must-try in the upper town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Saint-Jean",
+            "tip": "Oft windig mit toller Fernsicht.",
+            "emoji": "💨"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Jean parkoló",
+            "tip": "Gyakran szeles, de remek a távlati kilátás.",
+            "emoji": "💨"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Saint-Jean",
+            "tip": "Adesea vântos, cu o priveliște depărtată superbă.",
+            "emoji": "💨"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Jean Parking",
+            "tip": "Often windy with great distant views.",
+            "emoji": "💨"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E.Leclerc Provins",
+            "tip": "Für lokale Spezialitäten zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "E.Leclerc Provins",
+            "tip": "Helyi különlegességek elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "E.Leclerc Provins",
+            "tip": "Pentru specialități locale de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "E.Leclerc Provins",
+            "tip": "For local specialties to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison ist der Parkplatz Saint-Jean schnell voll.",
+          "Fahren Sie vorsichtig in den engen Gassen der Unterstadt."
+        ],
+        "hu": [
+          "Főszezonban a Saint-Jean parkoló gyorsan megtelik.",
+          "Vezessen óvatosan az alsóváros szűk utcáin."
+        ],
+        "ro": [
+          "În sezonul de vârf, parcarea Saint-Jean se umple rapid.",
+          "Conduceți cu atenție pe străzile înguste din orașul de jos."
+        ],
+        "en": [
+          "In high season, the Saint-Jean parking lot fills up quickly.",
+          "Drive carefully in the narrow streets of the lower town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Provins",
+            "hu": "Provins vasútállomás",
+            "ro": "Gara Provins",
+            "en": "Provins Train Station"
+          },
+          "coords": [
+            48.556,
+            3.303
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunft mit der Transilien Linie P aus Paris.",
+            "hu": "Érkezés a párizsi Transilien P vonallal.",
+            "ro": "Sosirea cu linia P Transilien din Paris.",
+            "en": "Arrival with Transilien Line P from Paris."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengarten",
+            "hu": "Rózsakert",
+            "ro": "Grădina de trandafiri",
+            "en": "Rose Garden"
+          },
+          "coords": [
+            48.558,
+            3.305
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur 10 Min. Fußweg vom Bahnhof.",
+            "hu": "Csak 10 perc séta az állomástól.",
+            "ro": "La doar 10 minute de mers pe jos de gară.",
+            "en": "Just a 10-minute walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour César",
+            "hu": "Cézár-torony",
+            "ro": "Turnul lui Cezar",
+            "en": "Cesar Tower"
+          },
+          "coords": [
+            48.562,
+            3.3
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie den Pendelbus 'Probus' zur Oberstadt.",
+            "hu": "Használja a 'Probus' ingajáratot a felsővárosba.",
+            "ro": "Folosiți autobuzul 'Probus' către orașul de sus.",
+            "en": "Use the 'Probus' shuttle to the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Quiriace",
+            "hu": "Saint-Quiriace templom",
+            "ro": "Biserica Saint-Quiriace",
+            "en": "Saint-Quiriace Church"
+          },
+          "coords": [
+            48.561,
+            3.301
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Gleich neben dem Turm.",
+            "hu": "Közvetlenül a torony mellett.",
+            "ro": "Chiar lângă turn.",
+            "en": "Right next to the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Grange aux Dîmes",
+            "hu": "Tized-csűr",
+            "ro": "Grange aux Dîmes",
+            "en": "Tithe Barn"
+          },
+          "coords": [
+            48.561,
+            3.298
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im historischen Zentrum.",
+            "hu": "A történelmi központban.",
+            "ro": "În centrul istoric.",
+            "en": "In the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Saint-Jean",
+            "hu": "Szent János-kapu",
+            "ro": "Poarta Saint-Jean",
+            "en": "Saint-Jean Gate"
+          },
+          "coords": [
+            48.563,
+            3.293
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der krönende Abschluss.",
+            "hu": "A látogatás fénypontja.",
+            "ro": "Finalul apoteotic.",
+            "en": "The crowning finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ideal für Tagesausflügler aus Paris. Vom Bahnhof aus erkunden wir erst die Unterstadt und den Rosengarten, bevor uns der Probus-Shuttle bequem in die mittelalterliche Oberstadt bringt. So sparen wir uns den steilen Aufstieg und haben mehr Energie für die Besichtigungen.",
+        "hu": "Ideális választás a Párizsból érkezőknek. Az állomástól először az alsóvárost és a rózsakertet fedezzük fel, majd a Probus ingajárattal kényelmesen feljutunk a középkori felsővárosba. Így elkerüljük a meredek kaptatót, és több energiánk marad a látnivalókra.",
+        "ro": "Ideal pentru excursioniștii din Paris. De la gară explorăm mai întâi orașul de jos și grădina de trandafiri, înainte ca naveta Probus să ne ducă confortabil în orașul medieval de sus. Astfel evităm urcușul abrupt și avem mai multă energie pentru vizite.",
+        "en": "Ideal for day trippers from Paris. From the station, we first explore the lower town and the rose garden before the Probus shuttle takes us comfortably to the medieval upper town. This saves us the steep climb and leaves more energy for sightseeing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mittelalterliches Menü",
+            "tip": "In den Kellern der Oberstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Középkori menü",
+            "tip": "A felsőváros pincéiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meniu medieval",
+            "tip": "În pivnițele orașului de sus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Medieval Menu",
+            "tip": "In the cellars of the upper town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsviertel",
+            "tip": "Überraschend ruhig abseits der Züge.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvar környéke",
+            "tip": "Meglepően csendes a vonatoktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona gării",
+            "tip": "Surprinzător de liniștită departe de trenuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station district",
+            "tip": "Surprisingly quiet away from the trains.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Office de Tourisme",
+            "tip": "Gute Auswahl an Büchern und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourisme Office",
+            "tip": "Jó választék könyvekből és térképekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biroul de turism",
+            "tip": "O selecție bună de cărți și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourist Office",
+            "tip": "Good selection of books and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Probus-Fahrplan, die Frequenz variiert.",
+          "Das Navigo-Ticket ist für den Zug aus Paris gültig."
+        ],
+        "hu": [
+          "Ellenőrizze a Probus menetrendjét, a járatsűrűség változó.",
+          "A Navigo bérlet érvényes a párizsi vonatra."
+        ],
+        "ro": [
+          "Verificați orarul Probus, frecvența variază.",
+          "Abonamentul Navigo este valabil pentru trenul din Paris."
+        ],
+        "en": [
+          "Check the Probus schedule, frequency varies.",
+          "The Navigo pass is valid for the train from Paris."
+        ]
+      }
+    }
+  }
+}

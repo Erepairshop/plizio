@@ -1,0 +1,1068 @@
+{
+  "city_id": "germany-bamberg-cities-v2",
+  "anchor": {
+    "name": "Bamberg Gärtnerviertel",
+    "coords": [
+      10.9025,
+      49.8989
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gärtnerviertel",
+            "hu": "Kertésznegyed",
+            "ro": "Cartierul Grădinarilor",
+            "en": "Gardeners' District"
+          },
+          "coords": [
+            10.9,
+            49.898
+          ],
+          "category": "agriculture",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Besuchen Sie das Gärtner- und Häckermuseum für lokale Agrargeschichte.",
+            "hu": "Nézz be a Kertészmúzeumba a helyi zöldségtermesztés történetéért.",
+            "ro": "Vizitați Muzeul Grădinarilor pentru a vedea istoria agricolă locală.",
+            "en": "Visit the Gardeners' Museum to learn about the local urban farming heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Klein-Venedig",
+            "hu": "Kis Velence",
+            "ro": "Mica Veneție",
+            "en": "Little Venice"
+          },
+          "coords": [
+            10.8888,
+            49.8928
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Die beste Sicht auf die Fischerhäuser hat man vom gegenüberliegenden Ufer.",
+            "hu": "A legjobb kilátás a halászházakra a szemközti partról nyílik.",
+            "ro": "Cea mai bună vedere asupra caselor pescarilor este de pe malul opus.",
+            "en": "The best view of the fisherman's houses is from the opposite river bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            10.8869,
+            49.8917
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Achten Sie auf das 'beinfrei' hängende Engelchen im Fassadenfresko.",
+            "hu": "Keresd meg a homlokzati freskón a kidomborodó angyallábat.",
+            "ro": "Căutați piciorul de înger care iese în relief din fresca fațadei.",
+            "en": "Look for the 3D leg of an angel sticking out of the facade frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bamberger Dom",
+            "hu": "Bambergi dóm",
+            "ro": "Catedrala din Bamberg",
+            "en": "Bamberg Cathedral"
+          },
+          "coords": [
+            10.8827,
+            49.8909
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Suchen Sie im Inneren die Statue des berühmten Bamberger Reiters.",
+            "hu": "Keresd meg a belső térben a híres Bambergi Lovas szobrát.",
+            "ro": "Căutați în interior faimoasa statuie a Călărețului din Bamberg.",
+            "en": "Find the famous statue of the Bamberg Horseman inside the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Residenz",
+            "hu": "Új Rezidencia",
+            "ro": "Noua Rezidență",
+            "en": "New Residence"
+          },
+          "coords": [
+            10.8824,
+            49.8915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Der Rosengarten bietet einen herrlichen Blick über die Dächer der Stadt.",
+            "hu": "A rózsakertből csodás panoráma nyílik a város háztetőire.",
+            "ro": "Grădina de trandafiri oferă o vedere superbă peste acoperișurile orașului.",
+            "en": "The Rose Garden offers a magnificent view over the city's rooftops."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlenkerla",
+            "hu": "Schlenkerla söröző",
+            "ro": "Berăria Schlenkerla",
+            "en": "Schlenkerla Brewery"
+          },
+          "coords": [
+            10.8867,
+            49.8911
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Probieren Sie das weltberühmte Aecht Schlenkerla Rauchbier.",
+            "hu": "Kóstold meg a világhírű Aecht Schlenkerla füstölt sört.",
+            "ro": "Gustați faimoasa bere afumată Aecht Schlenkerla.",
+            "en": "Try the world-famous Aecht Schlenkerla smoked beer (Rauchbier)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im authentischen Gärtnerviertel, bevor Sie zur Regnitz schlendern. Klein-Venedig verzaubert mit seinen bunten Fachwerkhäusern direkt am Wasser. Das Alte Rathaus, mitten im Fluss gebaut, führt Sie hinauf zum majestätischen Domberg. Nach der Besichtigung der Residenz und ihres Rosengartens beschließen Sie den Tag zünftig bei einem Rauchbier in der historischen Sandstraße.",
+        "hu": "Kezdje a napot az autentikus Kertésznegyedben, majd sétáljon le a Regnitz partjára. Kis Velence színes favázas házaival bűvöli el a látogatót a vízparton. A folyó közepére épült Régi Városháza után induljon fel a fenséges Dóm-dombra. A Rezidencia és a rózsakert megtekintése után zárja a napot egy korsó füstölt sörrel a történelmi Sandstraßén.",
+        "ro": "Începeți ziua în autenticul Cartier al Grădinarilor, apoi plimbați-vă spre râul Regnitz. Mica Veneție vă va încânta cu casele sale colorate direct pe apă. Primăria Veche, construită în mijlocul râului, vă conduce spre maiestuoasa colină a Catedralei. După vizitarea Rezidenței și a grădinii de trandafiri, încheiați ziua cu o bere afumată în istorica Sandstraße.",
+        "en": "Start your day in the authentic Gardeners' District before strolling down to the Regnitz river. Little Venice enchants with its colorful half-timbered houses right by the water. Cross the Old Town Hall, built in the middle of the river, to reach the majestic Cathedral Hill. After exploring the Residence and its Rose Garden, end your day with a traditional smoked beer in historic Sandstraße."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlenkerla Rauchbier",
+            "tip": "Historisches Rauchbier direkt vom Eichenfass."
+          },
+          {
+            "name": "Bamberger Hörnla",
+            "tip": "Spezielle lokale Kartoffelsorte oder das Buttergebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlenkerla füstölt sör",
+            "tip": "Hagyományos füstölt sör, közvetlenül tölgyfahordóból csapolva."
+          },
+          {
+            "name": "Bamberger Hörnla",
+            "tip": "Különleges helyi burgonyafajta vagy a hasonló nevű vajas kifli."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere afumată Schlenkerla",
+            "tip": "Bere afumată tradițională, turnată direct din butoi de stejar."
+          },
+          {
+            "name": "Bamberger Hörnla",
+            "tip": "Soi local special de cartofi sau cornul cu unt cu același nume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlenkerla Rauchbier",
+            "tip": "Historical smoked beer served directly from oak barrels."
+          },
+          {
+            "name": "Bamberger Hörnla",
+            "tip": "Special local potato variety or the eponymous butter pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten",
+            "tip": "Ein ruhiger Ort mit über 4500 Rosen und Domblick.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Csendes hely több mint 4500 rózsával és kilátással a dómra.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Un loc liniștit cu peste 4500 de trandafiri și vedere la catedrală.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden",
+            "tip": "A peaceful spot with over 4,500 roses and views of the cathedral.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen im Gärtnerviertel",
+            "tip": "Frisches lokales Gemüse und Bamberger Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kertésznegyed boltjai",
+            "tip": "Friss helyi zöldségek és bambergi különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din Cartierul Grădinarilor",
+            "tip": "Legume locale proaspete și specialități din Bamberg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the Gardeners' District",
+            "tip": "Fresh local vegetables and Bamberg specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bamberg ist die Stadt der Brauereien, probieren Sie verschiedene lokale Sorten.",
+          "Die Altstadt ist kopfsteingepflastert, tragen Sie bequeme Schuhe."
+        ],
+        "hu": [
+          "Bamberg a sörfőzdék városa, érdemes több helyi fajtát is megkóstolni.",
+          "Az óváros macskaköves, viseljen kényelmes cipőt a sétához."
+        ],
+        "ro": [
+          "Bamberg este orașul berăriilor, încercați diverse sortimente locale.",
+          "Centrul vechi are pavaj cu piatră cubică, purtați pantofi confortabili."
+        ],
+        "en": [
+          "Bamberg is the city of breweries; don't miss trying different local varieties.",
+          "The old town is full of cobblestones, so wear comfortable walking shoes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gärtnerviertel",
+            "hu": "Kertésznegyed",
+            "ro": "Cartierul Grădinarilor",
+            "en": "Gardeners' District"
+          },
+          "coords": [
+            10.9,
+            49.898
+          ],
+          "category": "agriculture",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Starten Sie flach im Gärtnerviertel.",
+            "hu": "Kezdd a túrát a lapos Kertésznegyedben.",
+            "ro": "Începeți turul în zona plană a grădinarilor.",
+            "en": "Start your ride in the flat Gardeners' District."
+          }
+        },
+        {
+          "name": {
+            "de": "Klein-Venedig",
+            "hu": "Kis Velence",
+            "ro": "Mica Veneție",
+            "en": "Little Venice"
+          },
+          "coords": [
+            10.8888,
+            49.8928
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Radeln Sie am Regnitz-Radweg entlang.",
+            "hu": "Tekerj végig a Regnitz menti kerékpárúton.",
+            "ro": "Pedalați de-a lungul pistei de biciclete Regnitz.",
+            "en": "Cycle along the scenic Regnitz river path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Michelsberg",
+            "hu": "Michelsberg-kolostor",
+            "ro": "Mănăstirea Michelsberg",
+            "en": "Michelsberg Abbey"
+          },
+          "coords": [
+            10.877,
+            49.8937
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Ein knackiger Anstieg, der mit toller Aussicht belohnt wird.",
+            "hu": "Rövid, de meredek emelkedő, csodás kilátással a végén.",
+            "ro": "O urcare scurtă, dar răsplătită cu o priveliște minunată.",
+            "en": "A short, steep climb rewarded with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Altenburg",
+            "hu": "Altenburg vára",
+            "ro": "Castelul Altenburg",
+            "en": "Altenburg Castle"
+          },
+          "coords": [
+            10.8705,
+            49.8809
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Der höchste Punkt Bambergs, ideal für sportliche Radfahrer.",
+            "hu": "Bamberg legmagasabb pontja, ideális sportos bringásoknak.",
+            "ro": "Cel mai înalt punct din Bamberg, ideal pentru bicicliști sportivi.",
+            "en": "The highest point in Bamberg, ideal for active cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Obere Pfarre",
+            "hu": "Felső-templom",
+            "ro": "Parohia de Sus",
+            "en": "Obere Pfarre"
+          },
+          "coords": [
+            10.8845,
+            49.8887
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_at": "13:35",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_4lang": {
+            "de": "Eine beeindruckende gotische Kirche auf dem Weg zurück.",
+            "hu": "Lenyűgöző gótikus templom a visszafelé vezető úton.",
+            "ro": "O biserică gotică impresionantă în drum spre întoarcere.",
+            "en": "An impressive Gothic church on the way back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlenkerla",
+            "hu": "Schlenkerla söröző",
+            "ro": "Berăria Schlenkerla",
+            "en": "Schlenkerla Brewery"
+          },
+          "coords": [
+            10.8867,
+            49.8911
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie das Bier genießen.",
+            "hu": "Zárd le biztonságosan a biciklit, mielőtt söröznél.",
+            "ro": "Parcați bicicleta în siguranță înainte de a savura berea.",
+            "en": "Park your bike securely before enjoying your beer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie über die Hügel Bambergs. Nach dem Start im Gärtnerviertel radeln Sie am Fluss entlang, bevor die Anstiege zum Michelsberg und zur Altenburg Ihre Kondition fordern. Die Belohnung ist der weite Blick über das Regnitztal. Den Abschluss bildet die Abfahrt zurück in die Altstadt zur wohlverdienten Erfrischung.",
+        "hu": "Ez a kerékpártúra Bamberg dombjain vezet keresztül. A Kertésznegyed és a folyópart után a Michelsberg és az Altenburg emelkedői teszik próbára az erőnlétet. A jutalom a Regnitz-völgyre nyíló tágas panoráma. A túrát az óvárosba való legurulás és egy jól megérdemelt frissítő zárja.",
+        "ro": "Acest tur cu bicicleta vă poartă peste colinele Bambergului. După startul în Cartierul Grădinarilor, pedalați pe lângă râu înainte ca urcările spre Michelsberg și Altenburg să vă testeze condiția fizică. Răsplata este panorama asupra văii Regnitz. Turul se încheie cu coborârea înapoi în orașul vechi.",
+        "en": "This bike tour takes you across Bamberg's hills. After starting in the Gardeners' District, cycle along the river before the climbs to Michelsberg and Altenburg test your fitness. The reward is a sweeping view over the Regnitz valley. Finish by coasting back down to the old town for a well-deserved refreshment."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bamberger Zwiebel",
+            "tip": "Gefüllte Zwiebel in Biersoße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bambergi hagyma",
+            "tip": "Töltött hagyma sörös mártásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceapă de Bamberg",
+            "tip": "Ceapă umplută în sos de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bamberg Onion",
+            "tip": "Stuffed onion in a rich beer sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Altenburg Terrasse",
+            "tip": "Ruhe hoch über der Stadt.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altenburg terasz",
+            "tip": "Csend magasan a város felett.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Altenburg",
+            "tip": "Liniște sus deasupra orașului.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Altenburg Terrace",
+            "tip": "Peace and quiet high above the city.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bierothek",
+            "tip": "Große Auswahl an lokalen Bierspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bierothek",
+            "tip": "Hatalmas választék helyi kézműves sörökből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bierothek",
+            "tip": "O selecție largă de beri locale artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bierothek",
+            "tip": "A vast selection of local craft beer specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hügel sind steil, E-Bikes sind sehr zu empfehlen.",
+          "Nutzen Sie die Radwege entlang der Regnitz."
+        ],
+        "hu": [
+          "A dombok meredekek, az e-bike erősen ajánlott.",
+          "Használja a Regnitz menti kerékpárutakat."
+        ],
+        "ro": [
+          "Colinele sunt abrupte, e-bike-urile sunt recomandate.",
+          "Folosiți pistele de biciclete de-a lungul râului."
+        ],
+        "en": [
+          "The hills are steep; e-bikes are highly recommended.",
+          "Stick to the dedicated bike paths along the Regnitz river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 14.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Geyerswörth",
+            "hu": "Geyerswörth parkolóház",
+            "ro": "Parcarea Geyerswörth",
+            "en": "Geyerswörth Parking"
+          },
+          "coords": [
+            10.889,
+            49.8905
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Zentraler Parkplatz für den Altstadt-Cluster.",
+            "hu": "Központi parkoló az óvárosi részhez.",
+            "ro": "Parcare centrală pentru clusterul orașului vechi.",
+            "en": "Central parking spot for the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            10.8869,
+            49.8917
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Easy walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Klein-Venedig",
+            "hu": "Kis Velence",
+            "ro": "Mica Veneție",
+            "en": "Little Venice"
+          },
+          "coords": [
+            10.8888,
+            49.8928
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Teil des Altstadt-Spaziergangs.",
+            "hu": "Az óvárosi séta része.",
+            "ro": "Parte a promenadei prin orașul vechi.",
+            "en": "Part of the Old Town walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Bamberger Dom",
+            "hu": "Bambergi dóm",
+            "ro": "Catedrala din Bamberg",
+            "en": "Bamberg Cathedral"
+          },
+          "coords": [
+            10.8827,
+            49.8909
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Fahren Sie zum Domplatz (Cluster 2).",
+            "hu": "Autózzon át a Dóm térre (2. klaszter).",
+            "ro": "Conduceți spre Piața Catedralei (Cluster 2).",
+            "en": "Drive to the Cathedral Square cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Residenz",
+            "hu": "Új Rezidencia",
+            "ro": "Noua Rezidență",
+            "en": "New Residence"
+          },
+          "coords": [
+            10.8824,
+            49.8915
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Direkt neben dem Dom gelegen.",
+            "hu": "Közvetlenül a dóm mellett.",
+            "ro": "Situată chiar lângă catedrală.",
+            "en": "Located right next to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Altenburg",
+            "hu": "Altenburg vára",
+            "ro": "Castelul Altenburg",
+            "en": "Altenburg Castle"
+          },
+          "coords": [
+            10.8705,
+            49.8809
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Bequeme Auffahrt zum Burgparkplatz.",
+            "hu": "Kényelmes feljutás autóval a várparkolóba.",
+            "ro": "Acces ușor cu mașina la parcarea castelului.",
+            "en": "Easy drive up to the castle parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlenkerla",
+            "hu": "Schlenkerla söröző",
+            "ro": "Berăria Schlenkerla",
+            "en": "Schlenkerla Brewery"
+          },
+          "coords": [
+            10.8867,
+            49.8911
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "tip_4lang": {
+            "de": "Rückkehr zum ersten Parkhaus für den Abschluss.",
+            "hu": "Visszatérés az első parkolóházhoz a befejezéshez.",
+            "ro": "Întoarcere la prima parcare pentru finalul zilei.",
+            "en": "Return to the first parking garage for the finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen wir Cluster-Parken, um Bamberg stressfrei zu erleben. Zuerst parken wir zentral für das Rathaus und Klein-Venedig. Ein zweiter Stopp am Domberg spart den steilen Aufstieg. Den krönenden Abschluss bildet die Fahrt zur Altenburg, von wo aus Sie den Blick über ganz Bamberg genießen können, bevor wir zum Abendessen zurückkehren.",
+        "hu": "Autóval klaszter-parkolást alkalmazunk Bamberg kényelmes felfedezéséhez. Először központi helyen állunk meg a Városháza és Kis Velence kedvéért. A második megálló a Dóm-dombon megkíméli a meredek sétától. A nap csúcspontja az autózás az Altenburghoz, ahonnan egész Bamberg belátható, mielőtt visszatérnénk vacsorázni.",
+        "ro": "Cu mașina folosim parcarea pe clustere pentru a experimenta Bamberg fără stres. Mai întâi parcăm central pentru Primărie și Mica Veneție. O a doua oprire pe dealul Catedralei vă scutește de urcarea abruptă. Punctul culminant este drumul spre Altenburg, de unde vă puteți bucura de vederea asupra întregului oraș.",
+        "en": "By car, we use cluster parking to experience Bamberg stress-free. First, park centrally for the Town Hall and Little Venice. A second stop at Cathedral Hill saves you the steep climb. The highlight is the drive up to Altenburg Castle for a panoramic view over the entire city before returning for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schäuferla",
+            "tip": "Fränkische Schweineschulter mit Klößen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schäuferla",
+            "tip": "Frank sertéslapocka gombóccal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schäuferla",
+            "tip": "Spată de porc franconă cu găluște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schäuferla",
+            "tip": "Franconian pork shoulder served with potato dumplings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Michelsberg Garten",
+            "tip": "Ruhige Gartenanlage mit Fernblick.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Michelsberg kert",
+            "tip": "Csendes kert távoli kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Michelsberg",
+            "tip": "Grădină liniștită cu vedere la distanță.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Michelsberg Garden",
+            "tip": "Peaceful gardens with long-distance views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kasperle-Figuren",
+            "tip": "Traditionelles Bamberger Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kasperle-figurák",
+            "tip": "Hagyományos bambergi kézműves bábok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Figurine Kasperle",
+            "tip": "Artizanat tradițional din Bamberg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kasperle figures",
+            "tip": "Traditional Bamberg puppet craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in der Altstadt sind begrenzt, nutzen Sie Parkhäuser.",
+          "Vorsicht in den engen Gassen der Sandstraße."
+        ],
+        "hu": [
+          "Az óvárosi parkolóhelyek korlátozottak, használja a parkolóházakat.",
+          "Legyen óvatos a Sandstraße szűk utcáin."
+        ],
+        "ro": [
+          "Locurile de parcare în orașul vechi sunt limitate, folosiți parcările etajate.",
+          "Atenție în zonele înguste din Sandstraße."
+        ],
+        "en": [
+          "Parking in the old town is limited; use the multi-storey parking garages.",
+          "Be careful when driving through the narrow streets of Sandstraße."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "ZOB Bamberg",
+            "hu": "Bambergi buszpályaudvar",
+            "ro": "Autogara ZOB Bamberg",
+            "en": "Bamberg ZOB (Bus Station)"
+          },
+          "coords": [
+            10.892,
+            49.8945
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Zentraler Knotenpunkt für alle Stadtbusse.",
+            "hu": "Minden városi busz központi csomópontja.",
+            "ro": "Nod central pentru toate autobuzele urbane.",
+            "en": "The central hub for all city bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            10.8869,
+            49.8917
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Kurzer Spaziergang vom ZOB oder Haltestelle Schranne.",
+            "hu": "Rövid séta a buszpályaudvartól vagy a Schranne megállótól.",
+            "ro": "Scurtă plimbare de la ZOB sau stația Schranne.",
+            "en": "Short walk from ZOB or the Schranne bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bamberger Dom",
+            "hu": "Bambergi dóm",
+            "ro": "Catedrala din Bamberg",
+            "en": "Bamberg Cathedral"
+          },
+          "coords": [
+            10.8827,
+            49.8909
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Buslinie 910 bringt Sie direkt auf den Berg.",
+            "hu": "A 910-es busz közvetlenül felvisz a dombra.",
+            "ro": "Linia de autobuz 910 vă duce direct pe deal.",
+            "en": "Bus line 910 takes you directly up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Michelsberg",
+            "hu": "Michelsberg-kolostor",
+            "ro": "Mănăstirea Michelsberg",
+            "en": "Michelsberg Abbey"
+          },
+          "coords": [
+            10.877,
+            49.8937
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_4lang": {
+            "de": "Genießen Sie den Himmelsgarten der Klosterkirche.",
+            "hu": "Csodáld meg a kolostortemplom mennyezeti kertjét.",
+            "ro": "Bucurați-vă de 'grădina cerească' de pe tavanul bisericii.",
+            "en": "Enjoy the 'celestial garden' fresco on the abbey church ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärtnerviertel",
+            "hu": "Kertésznegyed",
+            "ro": "Cartierul Grădinarilor",
+            "en": "Gardeners' District"
+          },
+          "coords": [
+            10.9,
+            49.898
+          ],
+          "category": "agriculture",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_4lang": {
+            "de": "Mit dem Bus zurück Richtung Bahnhof.",
+            "hu": "Busszal vissza a vasútállomás irányába.",
+            "ro": "Cu autobuzul înapoi spre direcția gării.",
+            "en": "Take the bus back towards the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlenkerla",
+            "hu": "Schlenkerla söröző",
+            "ro": "Berăria Schlenkerla",
+            "en": "Schlenkerla Brewery"
+          },
+          "coords": [
+            10.8867,
+            49.8911
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Letzter Stopp in der Altstadt, gut angebunden.",
+            "hu": "Utolsó megálló az óvárosban, kiváló közlekedéssel.",
+            "ro": "Ultima oprire în orașul vechi, bine conectată.",
+            "en": "Final stop in the old town, well-connected by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bamberg lässt sich hervorragend mit dem dichten Busnetz erkunden. Vom ZOB aus erreichen wir schnell das Rathaus. Die Linie 910 erspart uns den Aufstieg zum Domberg und zum Michelsberg. Danach tauchen wir in das Gärtnerviertel ein, bevor wir den Tag im Herzen der Altstadt ausklingen lassen. Alle Ziele sind mit Kurzstrecken-Tickets oder dem Tagesticket erreichbar.",
+        "hu": "Bamberg kiválóan felfedezhető a sűrű buszhálózattal. A buszpályaudvarról gyorsan elérjük a Városházát. A 910-es járat megkímél minket a Dóm-dombra és a Michelsbergre való felkapaszkodástól. Ezután a Kertésznegyedet látogatjuk meg, majd az óváros szívében pihenünk meg. Minden célpont elérhető rövid távú jeggyel vagy napijeggyel.",
+        "ro": "Bamberg poate fi explorat excelent cu rețeaua densă de autobuze. De la ZOB ajungem rapid la Primărie. Linia 910 ne scutește de urcarea pe dealul Catedralei și la Michelsberg. Apoi vizităm Cartierul Grădinarilor, înainte de a încheia ziua în inima orașului vechi. Toate destinațiile sunt accesibile cu bilete de scurtă distanță sau abonament de o zi.",
+        "en": "Bamberg's efficient bus network makes exploration easy. From the ZOB hub, we quickly reach the Old Town Hall. Line 910 saves us the hike up to Cathedral Hill and Michelsberg. We then dive into the Gardeners' District before finishing the day in the heart of the old town. All sites are accessible with short-trip tickets or a day pass."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Leberkäse",
+            "tip": "Schneller Snack beim lokalen Metzger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Leberkäse",
+            "tip": "Gyors falat a helyi hentesnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Leberkäse",
+            "tip": "Gustare rapidă la măcelăria locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Leberkäse",
+            "tip": "A quick and tasty snack from a local butcher."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hainpark",
+            "tip": "Großer Stadtpark für einen entspannten Spaziergang.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hainpark",
+            "tip": "Hatalmas városi park egy pihentető sétához.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Hain",
+            "tip": "Parc orășenesc mare pentru o plimbare relaxantă.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hain Park",
+            "tip": "Large city park perfect for a relaxing stroll.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Karstadt Bamberg",
+            "tip": "Klassisches Kaufhaus in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karstadt Bamberg",
+            "tip": "Klasszikus áruház a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karstadt Bamberg",
+            "tip": "Magazin universal clasic în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karstadt Bamberg",
+            "tip": "Classic department store in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App 'VGN Fahrplan' für Live-Abfahrten.",
+          "Das Tagesticket Solo ist ideal für Einzelreisende."
+        ],
+        "hu": [
+          "Használja a 'VGN Fahrplan' appot az élő menetrendhez.",
+          "A Tagesticket Solo ideális egyedül utazóknak."
+        ],
+        "ro": [
+          "Folosiți aplicația 'VGN Fahrplan' pentru plecări în timp real.",
+          "Biletul de o zi Solo este ideal pentru călătorii individuali."
+        ],
+        "en": [
+          "Use the 'VGN Fahrplan' app for real-time bus departures.",
+          "The 'Tagesticket Solo' is perfect for individual travelers."
+        ]
+      }
+    }
+  }
+}

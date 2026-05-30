@@ -1,0 +1,1076 @@
+{
+  "city_id": "neuwied-extra",
+  "anchor": {
+    "name": "Neuwied",
+    "coords": [
+      7.4612,
+      50.4287
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Neuwied",
+            "hu": "Neuwiedi kastély",
+            "ro": "Castelul Neuwied",
+            "en": "Neuwied Castle"
+          },
+          "coords": [
+            7.4578,
+            50.4282
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des Residenzschlosses der Fürsten zu Wied.",
+            "hu": "Csodálja meg a Wied hercegek rezidenciájának homlokzatát.",
+            "ro": "Admirați fațada castelului de reședință al prinților de Wied.",
+            "en": "Admire the facade of the residence castle of the Princes of Wied."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktkirche",
+            "hu": "Piac téri templom",
+            "ro": "Biserica Pieței",
+            "en": "Market Church"
+          },
+          "coords": [
+            7.4602,
+            50.4288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Symbol der religiösen Toleranz, für die Neuwied bekannt ist.",
+            "hu": "A vallási tolerancia szimbóluma, amelyről Neuwied híres.",
+            "ro": "Un simbol al toleranței religioase pentru care este cunoscut Neuwied.",
+            "en": "A symbol of the religious tolerance Neuwied is known for."
+          }
+        },
+        {
+          "name": {
+            "de": "Roentgen-Museum",
+            "hu": "Roentgen Múzeum",
+            "ro": "Muzeul Roentgen",
+            "en": "Roentgen Museum"
+          },
+          "coords": [
+            7.4625,
+            50.4268
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Weltberühmte Möbelkunst der Ebenisten Abraham und David Roentgen.",
+            "hu": "Abraham és David Roentgen világhírű bútorművészeti alkotásai.",
+            "ro": "Arta mobilierului de renume mondial a ebeniștilor Abraham și David Roentgen.",
+            "en": "World-famous furniture art by cabinetmakers Abraham and David Roentgen."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Innenstadt",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centrul orașului",
+            "en": "Lunch in the City Center"
+          },
+          "coords": [
+            7.4595,
+            50.4275
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie rheinische Spezialitäten in einem lokalen Gasthaus.",
+            "hu": "Kóstolja meg a rajnai specialitásokat egy helyi fogadóban.",
+            "ro": "Gustați specialități renane într-un han local.",
+            "en": "Try Rhenish specialties in a local inn."
+          }
+        },
+        {
+          "name": {
+            "de": "Deichinformationszentrum",
+            "hu": "Gát-információs Központ",
+            "ro": "Centrul de Informare Dig",
+            "en": "Dike Information Center"
+          },
+          "coords": [
+            7.4565,
+            50.4262
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den gewaltigen Hochwasserschutzdeich.",
+            "hu": "Tudjon meg mindent a hatalmas árvízvédelmi gátról.",
+            "ro": "Aflați totul despre digul masiv de protecție împotriva inundațiilor.",
+            "en": "Learn all about the massive flood protection dike."
+          }
+        },
+        {
+          "name": {
+            "de": "Deichmauer & Raiffeisenbrücke",
+            "hu": "Gátfal és Raiffeisen-híd",
+            "ro": "Zidul Digului și Podul Raiffeisen",
+            "en": "Dike Wall & Raiffeisen Bridge"
+          },
+          "coords": [
+            7.4535,
+            50.4248
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Spaziergang auf der Mauer bietet den besten Blick auf den Rhein.",
+            "hu": "A falon tett séta kínálja a legjobb kilátást a Rajnára.",
+            "ro": "O plimbare pe zid oferă cea mai bună vedere asupra Rinului.",
+            "en": "A walk on the wall offers the best view of the Rhine."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinanlagen Promenade",
+            "hu": "Rajna-parti sétány",
+            "ro": "Promenada de pe Rin",
+            "en": "Rhine Promenade"
+          },
+          "coords": [
+            7.4555,
+            50.4255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag entspannt am Flussufer ausklingen.",
+            "hu": "Zárja a napot pihentetően a folyóparton.",
+            "ro": "Încheiați ziua relaxat pe malul râului.",
+            "en": "End the day in a relaxed way on the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am prächtigen Schloss Neuwied, dem Herzstück der 'Deichstadt'. Nach einem Einblick in die religiöse Toleranz in der Marktkirche bestaunen Sie feinste Handwerkskunst im Roentgen-Museum. Nach einem rheinischen Mittagessen erkunden Sie den imposanten Deich, der die Stadt seit fast 100 Jahren schützt, und genießen die Aussicht von der Raiffeisenbrücke.",
+        "hu": "A nap a pompás Neuwiedi kastélynál kezdődik, a „gátak városa” szívében. A Marktkirche vallási toleranciájának megismerése után a Roentgen Múzeum finom kézműves remekműveit csodálhatja meg. Egy rajnai ebéd után felfedezi a várost közel 100 éve védő hatalmas gátat, és élvezi a kilátást a Raiffeisen-hídról.",
+        "ro": "Ziua începe la magnificul Castel Neuwied, inima „orașului digului”. După o incursiune în toleranța religioasă la Marktkirche, admirați cea mai fină măiestrie la Muzeul Roentgen. După un prânz renan, explorați digul impunător care protejează orașul de aproape 100 de ani și bucurați-vă de priveliștea de pe Podul Raiffeisen.",
+        "en": "Your day starts at the magnificent Neuwied Castle, the heart of the 'Dike City'. After gaining insight into religious tolerance at the Market Church, marvel at the finest craftsmanship in the Roentgen Museum. After a Rhenish lunch, explore the imposing dike that has protected the city for nearly 100 years and enjoy the view from the Raiffeisen Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gastro-Tipp",
+            "tip": "Probieren Sie den 'Rheinischen Sauerbraten' in der Nähe des Schlosses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasztro tipp",
+            "tip": "Kóstolja meg a 'Rheinischer Sauerbraten'-t (rajnai savanyú sült) a kastély közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sfat gastronomic",
+            "tip": "Încercați 'Rheinischer Sauerbraten' în apropierea castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gastro Tip",
+            "tip": "Try the 'Rheinischer Sauerbraten' near the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deichmauer",
+            "tip": "Ein stiller Platz mit Blick auf die Schiffe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gátfal",
+            "tip": "Csendes hely, rálátással a hajókra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidul Digului",
+            "tip": "Un loc liniștit cu vedere la nave.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dike Wall",
+            "tip": "A quiet spot with a view of the ships.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Knuspermarkt",
+            "tip": "Im Winter ein wunderschöner Weihnachtsmarkt in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Knuspermarkt",
+            "tip": "Télen egy csodálatos karácsonyi vásár a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Knuspermarkt",
+            "tip": "O piață de Crăciun minunată în centrul orașului în timpul iernii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Knuspermarkt",
+            "tip": "A beautiful Christmas market in the city center during winter."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist flach und sehr gut zu Fuß erkundbar.",
+          "Besuchen Sie das Deichinformationszentrum, um die Technik hinter der Mauer zu verstehen."
+        ],
+        "hu": [
+          "A belváros sík és gyalogosan nagyon jól bejárható.",
+          "Látogassa meg a Gát-információs Központot, hogy megértse a fal mögötti technológiát."
+        ],
+        "ro": [
+          "Centrul orașului este plat și foarte ușor de explorat la pas.",
+          "Vizitați Centrul de Informare Dig pentru a înțelege tehnologia din spatele zidului."
+        ],
+        "en": [
+          "The city center is flat and very easy to explore on foot.",
+          "Visit the Dike Information Center to understand the technology behind the wall."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Neuwied",
+            "hu": "Neuwiedi kastély",
+            "ro": "Castelul Neuwied",
+            "en": "Neuwied Castle"
+          },
+          "coords": [
+            7.4578,
+            50.4282
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt an der barocken Residenz.",
+            "hu": "Kiindulópont a barokk rezidenciánál.",
+            "ro": "Punct de plecare la reședința barocă.",
+            "en": "Starting point at the baroque residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Engers",
+            "hu": "Engersi kastély",
+            "ro": "Castelul Engers",
+            "en": "Engers Castle"
+          },
+          "coords": [
+            7.5435,
+            50.4235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein Juwel des Spätbarocks direkt am Rhein.",
+            "hu": "A késő barokk ékköve közvetlenül a Rajna partján.",
+            "ro": "O bijuterie a barocului târziu direct pe Rin.",
+            "en": "A gem of late Baroque directly on the Rhine."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Neuwied",
+            "hu": "Neuwiedi Állatkert",
+            "ro": "Grădina Zoologică Neuwied",
+            "en": "Neuwied Zoo"
+          },
+          "coords": [
+            7.5452,
+            50.4475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Größter Zoo in Rheinland-Pfalz.",
+            "hu": "Rajna-vidék-Pfalz legnagyobb állatkertje.",
+            "ro": "Cea mai mare grădină zoologică din Renania-Palatinat.",
+            "en": "Largest zoo in Rhineland-Palatinate."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause Heimbach-Weis",
+            "hu": "Ebédszünet Heimbach-Weis-ban",
+            "ro": "Pauză de prânz în Heimbach-Weis",
+            "en": "Lunch Break in Heimbach-Weis"
+          },
+          "coords": [
+            7.5355,
+            50.4485
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Rückfahrt ins Zentrum.",
+            "hu": "Gyűjtsön erőt a központba való visszakerekezéshez.",
+            "ro": "Reîncărcați-vă bateriile pentru drumul de întoarcere spre centru.",
+            "en": "Get some energy for the ride back to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Roentgen-Museum",
+            "hu": "Roentgen Múzeum",
+            "ro": "Muzeul Roentgen",
+            "en": "Roentgen Museum"
+          },
+          "coords": [
+            7.4625,
+            50.4268
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Prunkmöbel von Weltrang.",
+            "hu": "Világszínvonalú díszbútorok.",
+            "ro": "Mobilier de lux de clasă mondială.",
+            "en": "World-class luxury furniture."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinufer & Deich",
+            "hu": "Rajna-part és gát",
+            "ro": "Malul Rinului și digul",
+            "en": "Rhine Bank & Dike"
+          },
+          "coords": [
+            7.4565,
+            50.4262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspanntes Ausrollen auf dem Deichweg.",
+            "hu": "Pihentető gurulás a gát menti úton.",
+            "ro": "Rulare relaxată pe drumul digului.",
+            "en": "Relaxed coasting on the dike path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die kulturellen Highlights von Neuwied. Vom Schlosspark radeln Sie rheinaufwärts zum prunkvollen Schloss Engers. Danach geht es bergauf zum Zoo Neuwied, bevor Sie über Heimbach-Weis zurück ins Zentrum fahren, um dort die Roentgen-Möbelkunst zu bewundern und den Tag am Rheindeich zu beenden.",
+        "hu": "Ez a kerékpártúra összeköti Neuwied kulturális fénypontjait. A kastélyparkból a Rajna mentén tekerhet a pompás Engersi kastélyig. Ezután felfelé vezet az út a Neuwiedi Állatkerthez, majd Heimbach-Weis érintésével tér vissza a központba, hogy megcsodálja a Roentgen bútorművészetet, és a Rajna-gáton zárja a napot.",
+        "ro": "Acest tur cu bicicleta combină punctele de atracție culturale din Neuwied. Din parcul castelului, pedalați în amonte până la somptuosul Castel Engers. Apoi urcați spre Grădina Zoologică Neuwied, înainte de a vă întoarce în centru prin Heimbach-Weis pentru a admira arta mobilierului Roentgen și a încheia ziua la digul Rinului.",
+        "en": "This bike tour connects the cultural highlights of Neuwied. From the castle park, cycle upstream to the magnificent Engers Castle. Then head uphill to Neuwied Zoo before returning to the center via Heimbach-Weis to admire the Roentgen furniture art and end the day at the Rhine dike."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Ideal für eine kleine Pause zwischen den Gehegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Ideális egy kis szünetre a kifutók között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Ideal pentru o mică pauză între țarcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Ideal for a short break between the enclosures."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Engers",
+            "tip": "Ruhiger Blick auf den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Engersi kastélypark",
+            "tip": "Csendes kilátás a folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Engers",
+            "tip": "Vedere liniștită spre râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Engers Castle Park",
+            "tip": "Quiet view of the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in Heimbach-Weis",
+            "tip": "Frische regionale Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heimbach-Weis udvari boltjai",
+            "tip": "Friss regionális termékek közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în Heimbach-Weis",
+            "tip": "Produse regionale proaspete direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in Heimbach-Weis",
+            "tip": "Fresh regional products directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Rheinradweg ist flach, der Weg zum Zoo erfordert etwas Kondition.",
+          "In Engers gibt es viele schöne Einkehrmöglichkeiten direkt am Wasser."
+        ],
+        "hu": [
+          "A Rajna-menti kerékpárút sík, az állatkerthez vezető út némi kondíciót igényel.",
+          "Engersben sok szép megállóhely található közvetlenül a vízparton."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Rin este plată, drumul spre grădina zoologică necesită puțină condiție fizică.",
+          "În Engers există multe locuri frumoase de popas direct pe malul apei."
+        ],
+        "en": [
+          "The Rhine cycle path is flat, the route to the zoo requires some fitness.",
+          "In Engers, there are many nice places to stop for a break directly by the water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zentrum: Schloss & Deich",
+            "hu": "Központ klaszter: Kastély és Gát",
+            "ro": "Cluster Centru: Castel și Dig",
+            "en": "Center Cluster: Castle & Dike"
+          },
+          "coords": [
+            7.4578,
+            50.4282
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie das Schloss und die Deichmauer zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel a kastélyt és a gátfalat gyalog.",
+            "ro": "Parcați central și explorați castelul și zidul digului pe jos.",
+            "en": "Park centrally and explore the castle and dike wall on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Roentgen-Museum",
+            "hu": "Roentgen Múzeum",
+            "ro": "Muzeul Roentgen",
+            "en": "Roentgen Museum"
+          },
+          "coords": [
+            7.4625,
+            50.4268
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Csak rövid séta a parkolótól.",
+            "ro": "La doar o scurtă plimbare de parcare.",
+            "en": "Just a short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Monrepos (Museum)",
+            "hu": "Monrepos (Múzeum)",
+            "ro": "Monrepos (Muzeu)",
+            "en": "Monrepos (Museum)"
+          },
+          "coords": [
+            7.4455,
+            50.4822
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Archäologisches Forschungszentrum in herrlicher Höhenlage.",
+            "hu": "Régészeti kutatóközpont gyönyörű, magasan fekvő területen.",
+            "ro": "Centru de cercetare arheologică într-o locație superbă la înălțime.",
+            "en": "Archaeological research center in a beautiful upland location."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Heimbach-Weis",
+            "hu": "Ebéd Heimbach-Weis-ban",
+            "ro": "Prânz în Heimbach-Weis",
+            "en": "Lunch in Heimbach-Weis"
+          },
+          "coords": [
+            7.5355,
+            50.4485
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Rustikale Küche vor dem Zoobesuch.",
+            "hu": "Rusztikus konyha az állatkerti látogatás előtt.",
+            "ro": "Bucătărie rustică înainte de vizita la grădina zoologică.",
+            "en": "Rustic cuisine before the zoo visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Neuwied",
+            "hu": "Neuwiedi Állatkert",
+            "ro": "Grădina Zoologică Neuwied",
+            "en": "Neuwied Zoo"
+          },
+          "coords": [
+            7.5452,
+            50.4475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Eingang vorhanden.",
+            "hu": "Saját nagy parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare disponibilă chiar la intrare.",
+            "en": "Large parking lot available directly at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Engers (Abendstimmung)",
+            "hu": "Engersi kastély (esti hangulat)",
+            "ro": "Castelul Engers (atmosferă de seară)",
+            "en": "Engers Castle (Evening Atmosphere)"
+          },
+          "coords": [
+            7.5435,
+            50.4235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "18:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Foto zum Abschluss.",
+            "hu": "Tökéletes hely egy záró fotóhoz.",
+            "ro": "Locul perfect pentru o fotografie de final.",
+            "en": "Perfect place for a final photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die verstreuten Highlights. Beginnen Sie im Zentrum mit dem Schloss und dem Roentgen-Museum. Danach führt die Fahrt hinauf zum prähistorischen Forschungszentrum Monrepos. Den Nachmittag verbringen Sie im weitläufigen Zoo Neuwied, bevor Sie den Tag am malerischen Schloss Engers am Rheinufer ausklingen lassen.",
+        "hu": "Autóval könnyedén elérheti a szétszórt látnivalókat. Kezdje a központban a kastéllyal és a Roentgen Múzeummal. Ezután az út felfelé vezet a Monrepos őstörténeti kutatóközponthoz. A délutánt a tágas Neuwiedi Állatkertben tölti, majd a napot a Rajna-parti festői Engersi kastélynál zárja.",
+        "ro": "Cu mașina, puteți ajunge fără efort la punctele de atracție dispersate. Începeți în centru cu castelul și Muzeul Roentgen. Apoi, drumul duce sus la centrul de cercetare preistorică Monrepos. Petreceți după-amiaza la vasta grădină zoologică Neuwied, înainte de a încheia ziua la pitorescul Castel Engers de pe malul Rinului.",
+        "en": "By car, you can effortlessly reach the scattered highlights. Start in the center with the castle and the Roentgen Museum. Then, the drive leads up to the Monrepos prehistoric research center. Spend the afternoon at the extensive Neuwied Zoo before ending the day at the picturesque Engers Castle on the banks of the Rhine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlossrestaurant Engers",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossrestaurant Engers",
+            "tip": "Elegáns konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossrestaurant Engers",
+            "tip": "Bucătărie rafinată într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossrestaurant Engers",
+            "tip": "Upscale cuisine in a historical ambience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wald um Monrepos",
+            "tip": "Wunderschöne Wanderwege und absolute Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monrepos környéki erdő",
+            "tip": "Gyönyörű túraútvonalak és abszolút nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea din jurul Monrepos",
+            "tip": "Trasee de drumeție frumoase și liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Woods around Monrepos",
+            "tip": "Beautiful hiking trails and absolute peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gewerbepark Distelfeld",
+            "tip": "Große Auswahl an Geschäften am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gewerbepark Distelfeld",
+            "tip": "Üzletek széles választéka a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gewerbepark Distelfeld",
+            "tip": "O selecție largă de magazine la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gewerbepark Distelfeld",
+            "tip": "Wide selection of shops on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Rhein-Ufer.",
+          "Die Fahrt nach Monrepos bietet tolle Ausblicke über das Neuwieder Becken."
+        ],
+        "hu": [
+          "Használja a Rajna-parti parkolókat.",
+          "A Monrepos-ba vezető út nagyszerű kilátást nyújt a Neuwiedi-medencére."
+        ],
+        "ro": [
+          "Folosiți parcările de pe malul Rinului.",
+          "Drumul spre Monrepos oferă priveliști minunate asupra bazinului Neuwied."
+        ],
+        "en": [
+          "Use the parking lots on the Rhine bank.",
+          "The drive to Monrepos offers great views over the Neuwied Basin."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Neuwied",
+            "hu": "Neuwiedi kastély",
+            "ro": "Castelul Neuwied",
+            "en": "Neuwied Castle"
+          },
+          "coords": [
+            7.4578,
+            50.4282
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Bahnhof Neuwied in wenigen Minuten erreichbar.",
+            "hu": "A neuwiedi vasútállomástól pár perc alatt elérhető.",
+            "ro": "Accesibil în câteva minute de la gara Neuwied.",
+            "en": "Accessible in a few minutes from Neuwied station."
+          }
+        },
+        {
+          "name": {
+            "de": "Roentgen-Museum",
+            "hu": "Roentgen Múzeum",
+            "ro": "Muzeul Roentgen",
+            "en": "Roentgen Museum"
+          },
+          "coords": [
+            7.4625,
+            50.4268
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentral im Stadtkern gelegen.",
+            "hu": "Központban, a városmagban található.",
+            "ro": "Situat central în nucleul orașului.",
+            "en": "Centrally located in the city core."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Neuwied",
+            "hu": "Neuwiedi Állatkert",
+            "ro": "Grădina Zoologică Neuwied",
+            "en": "Neuwied Zoo"
+          },
+          "coords": [
+            7.5452,
+            50.4475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 154/155 ab Zentrum bringt Sie direkt zum Zoo.",
+            "hu": "A központból induló 154/155-ös buszjárat közvetlenül az állatkerthez viszi.",
+            "ro": "Linia de autobuz 154/155 din centru vă duce direct la grădina zoologică.",
+            "en": "Bus line 154/155 from the center takes you directly to the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimbach-Weis (Gastro)",
+            "hu": "Heimbach-Weis (Gasztro)",
+            "ro": "Heimbach-Weis (Gastro)",
+            "en": "Heimbach-Weis (Gastro)"
+          },
+          "coords": [
+            7.5355,
+            50.4485
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zoo in den Ortskern.",
+            "hu": "Rövid séta az állatkerttől a településközpontba.",
+            "ro": "O scurtă plimbare de la grădina zoologică până în centrul localității.",
+            "en": "Short walk from the zoo to the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Engers",
+            "hu": "Engersi kastély",
+            "ro": "Castelul Engers",
+            "en": "Engers Castle"
+          },
+          "coords": [
+            7.5435,
+            50.4235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Engers hat einen eigenen Bahnhof (RB 27).",
+            "hu": "Engersnek saját vasútállomása van (RB 27).",
+            "ro": "Engers are propria gară (RB 27).",
+            "en": "Engers has its own train station (RB 27)."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinufer Promenade",
+            "hu": "Rajna-parti sétány",
+            "ro": "Promenada de pe malul Rinului",
+            "en": "Rhine Bank Promenade"
+          },
+          "coords": [
+            7.5455,
+            50.4225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Abschluss direkt am Fluss vor der Rückfahrt.",
+            "hu": "Zárás közvetlenül a folyónál a visszautazás előtt.",
+            "ro": "Final direct pe râu înainte de întoarcere.",
+            "en": "Finish directly by the river before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Bus und Bahn für Ihre Entdeckungstour. Starten Sie beim Residenzschloss im Zentrum. Ein Linienbus bringt Sie bequem zum Zoo Neuwied. Nach einem gemütlichen Mittagessen im Stadtteil Heimbach-Weis führt der Weg weiter zum prunkvollen Schloss Engers, das ideal an das Schienennetz angebunden ist, um Ihre Reise entspannt abzuschließen.",
+        "hu": "Használja a buszt és a vonatot felfedező túrájához. Kezdjen a központban található rezidenciakastélynál. Egy menetrend szerinti autóbusz kényelmesen elviszi a Neuwiedi Állatkerthez. A Heimbach-Weis városrészben elfogyasztott kellemes ebéd után az út a pompás Engersi kastélyhoz vezet, amely kiváló vasúti kapcsolattal rendelkezik az utazás pihentető befejezéséhez.",
+        "ro": "Folosiți autobuzul și trenul pentru turul de descoperire. Începeți la castelul de reședință din centru. Un autobuz de linie vă duce confortabil la Grădina Zoologică Neuwied. După un prânz plăcut în cartierul Heimbach-Weis, drumul continuă spre somptuosul Castel Engers, care este ideal conectat la rețeaua feroviară pentru a vă încheia călătoria relaxat.",
+        "en": "Use bus and train for your discovery tour. Start at the residence castle in the center. A regular bus takes you comfortably to Neuwied Zoo. After a pleasant lunch in the Heimbach-Weis district, the route continues to the magnificent Engers Castle, which is ideally connected to the rail network for a relaxed conclusion to your trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Cafés im Zentrum",
+            "tip": "Ideal für ein schnelles Frühstück vor dem Start."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi pékség-kávézók",
+            "tip": "Ideális egy gyors reggelire az indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenele-brutării în centru",
+            "tip": "Ideal pentru un mic dejun rapid înainte de start."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery cafes in the center",
+            "tip": "Ideal for a quick breakfast before starting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rheinanlagen Engers",
+            "tip": "Wenig Trubel und schöner Blick.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Engersi Rajna-part",
+            "tip": "Kevés nyüzsgés és szép kilátás.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Amenajările de pe Rin din Engers",
+            "tip": "Puțină agitație și o vedere frumoasă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Engers Rhine Grounds",
+            "tip": "Little hustle and bustle and a nice view.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mittelstraße",
+            "tip": "Die Haupteinkaufsstraße in der Neuwieder City."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mittelstraße",
+            "tip": "Neuwied belvárosának fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mittelstraße",
+            "tip": "Principala stradă comercială din centrul orașului Neuwied."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mittelstraße",
+            "tip": "The main shopping street in Neuwied city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den VRM-Verkehrsverbund.",
+          "Die Busse zum Zoo fahren regelmäßig vom zentralen Busbahnhof (ZOB)."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a VRM közlekedési szövetség járataira.",
+          "Az állatkertbe tartó buszok rendszeresen indulnak a központi buszpályaudvarról (ZOB)."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru asociația de transport VRM.",
+          "Autobuzele către grădina zoologică pleacă regulat de la autogara centrală (ZOB)."
+        ],
+        "en": [
+          "Buy a day ticket for the VRM transport association.",
+          "Buses to the zoo run regularly from the central bus station (ZOB)."
+        ]
+      }
+    }
+  }
+}

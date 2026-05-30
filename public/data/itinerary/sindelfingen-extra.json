@@ -1,0 +1,1238 @@
+{
+  "city_id": "sindelfingen-extra",
+  "anchor": {
+    "name": "Sindelfingen Marktplatz",
+    "coords": [
+      9.001,
+      48.711
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Marktplatz Sindelfingen",
+          "coords": [
+            9.0012,
+            48.7115
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der belebte Mittelpunkt mit Wochenmarkt-Atmosphäre.",
+            "hu": "A város nyüzsgő központja, heti piaci hangulattal.",
+            "ro": "Centrul vibrant al orașului cu atmosferă de piață săptămânală.",
+            "en": "The lively center with a weekly market atmosphere."
+          }
+        },
+        {
+          "name": "Freundschaftsbrunnen",
+          "coords": [
+            9.0008,
+            48.7112
+          ],
+          "category": "monuments",
+          "arrive_at": "09:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Symbol der internationalen Städtepartnerschaften.",
+            "hu": "A nemzetközi testvérvárosi kapcsolatok jelképe.",
+            "ro": "Simbol al parteneriatelor internaționale între orașe.",
+            "en": "Symbol of international city partnerships."
+          }
+        },
+        {
+          "name": "Martinskirche",
+          "coords": [
+            9.0025,
+            48.7125
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen in Baden-Württemberg.",
+            "hu": "Baden-Württemberg egyik legrégebbi temploma.",
+            "ro": "Una dintre cele mai vechi biserici din Baden-Württemberg.",
+            "en": "One of the oldest churches in Baden-Württemberg."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            9.0028,
+            48.713
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschönes Fachwerkhaus, heute ein Stadtmuseum.",
+            "hu": "Gyönyörű favázas épület, ma városi múzeum.",
+            "ro": "O casă superbă cu pereți de lemn, azi muzeu al orașului.",
+            "en": "Beautiful half-timbered house, now a city museum."
+          }
+        },
+        {
+          "name": "Webereimuseum",
+          "coords": [
+            9.0035,
+            48.7128
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Textilgeschichte der Stadt.",
+            "hu": "Ismerje meg a város textilipari múltját.",
+            "ro": "Aflați totul despre istoria textilă a orașului.",
+            "en": "Learn everything about the city's textile history."
+          }
+        },
+        {
+          "name": "Klostersee",
+          "coords": [
+            9.0055,
+            48.7085
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Idyllischer See für einen entspannten Spaziergang.",
+            "hu": "Idilli tó egy pihentető sétához.",
+            "ro": "Lac idilic pentru o plimbare relaxantă.",
+            "en": "Idyllic lake for a relaxed walk."
+          }
+        },
+        {
+          "name": "Sommerhofenpark",
+          "coords": [
+            9.008,
+            48.715
+          ],
+          "category": "parks",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Weitläufige Parkanlage mit schönen Teichen.",
+            "hu": "Tágas parkos terület szép tavakkal.",
+            "ro": "Parc vast cu iazuri frumoase.",
+            "en": "Spacious park area with beautiful ponds."
+          }
+        },
+        {
+          "name": "Abendessen im Zentrum",
+          "coords": [
+            9.0015,
+            48.712
+          ],
+          "category": "gastro",
+          "arrive_at": "17:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie schwäbische Spezialitäten zum Abschluss.",
+            "hu": "Élvezze a sváb specialitásokat a nap végén.",
+            "ro": "Savurați specialități șvăbești la finalul zilei.",
+            "en": "Enjoy Swabian specialties as a final treat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Marktplatz, dem pulsierenden Herzen von Sindelfingen. Entdecken Sie die historische Martinskirche und das beeindruckende Alte Rathaus, bevor Sie in die Welt der Weberei eintauchen. Nach einem Mittagessen spazieren Sie zum idyllischen Klostersee. Der Nachmittag gehört der Erholung im Sommerhofenpark, wo die Natur mitten in der Stadt zum Verweilen einlädt.",
+        "hu": "A napot a Marktplatzon, Sindelfingen lüktető szívében kezdi. Fedezze fel a történelmi Martinskirche templomot és a lenyűgöző Altes Rathaus épületét, mielőtt elmerülne a szövés világában. Ebéd után sétáljon el az idilli Klostersee tóhoz. A délután a pihenésé a Sommerhofenparkban, ahol a természet a város közepén hívogatja a látogatókat.",
+        "ro": "Ziua începe în Marktplatz, inima vibrantă a orașului Sindelfingen. Descoperiți istorica Martinskirche și impresionantul Altes Rathaus înainte de a explora lumea țesătoriei. După prânz, plimbați-vă spre idilicul lac Klostersee. După-amiaza este dedicată relaxării în Sommerhofenpark, unde natura vă invită la odihnă chiar în centrul orașului.",
+        "en": "Your day begins at the Marktplatz, the pulsing heart of Sindelfingen. Discover the historic Martinskirche and the impressive Old Town Hall before diving into the world of weaving. After lunch, stroll to the idyllic Klostersee. The afternoon is dedicated to relaxation in Sommerhofenpark, where nature invites you to linger in the middle of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Calwer Eck",
+            "tip": "Hausgebrautes Bier und Maultaschen."
+          },
+          {
+            "name": "Gasthaus Hirsch",
+            "tip": "Traditionelle schwäbische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Calwer Eck",
+            "tip": "Helyi sör és sváb töltött tészta (Maultaschen)."
+          },
+          {
+            "name": "Gasthaus Hirsch",
+            "tip": "Hagyományos sváb konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Calwer Eck",
+            "tip": "Bere artizanală locală și Maultaschen."
+          },
+          {
+            "name": "Gasthaus Hirsch",
+            "tip": "Bucătărie tradițională șvăbească într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Calwer Eck",
+            "tip": "House-brewed beer and traditional Maultaschen."
+          },
+          {
+            "name": "Gasthaus Hirsch",
+            "tip": "Traditional Swabian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostersee",
+            "tip": "Ruhiger Platz am Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Ideal für ein Picknick im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klostersee",
+            "tip": "Csendes hely a vízparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Ideális egy piknikhez a zöldben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klostersee",
+            "tip": "Un loc liniștit lângă apă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Ideal pentru un picnic în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klostersee",
+            "tip": "Quiet spot by the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Ideal for a picnic in the greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte aus der Region."
+          },
+          {
+            "name": "Stern-Center",
+            "tip": "Großes Einkaufszentrum im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Friss termékek a régióból."
+          },
+          {
+            "name": "Stern-Center",
+            "tip": "Nagy bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Produse proaspete din regiune."
+          },
+          {
+            "name": "Stern-Center",
+            "tip": "Centru comercial mare în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh regional products."
+          },
+          {
+            "name": "Stern-Center",
+            "tip": "Large shopping center in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sindelfingen lässt sich hervorragend zu Fuß erkunden, da die Sehenswürdigkeiten nah beieinander liegen.",
+          "Besuchen Sie den Marktplatz am Samstag für den regionalen Markt.",
+          "Tragen Sie bequeme Schuhe für die Parkspaziergänge.",
+          "Reservieren Sie am Wochenende einen Tisch im Brauhaus."
+        ],
+        "hu": [
+          "Sindelfingen kiválóan felfedezhető gyalog, mivel a látnivalók közel vannak egymáshoz.",
+          "Látogasson el a Marktplatzra szombaton a regionális piac miatt.",
+          "Viseljen kényelmes cipőt a parki sétákhoz.",
+          "Hétvégén érdemes asztalt foglalni a Brauhausban."
+        ],
+        "ro": [
+          "Sindelfingen poate fi explorat excelent la pas, obiectivele fiind aproape unele de altele.",
+          "Vizitați Marktplatz sâmbăta pentru piața regională.",
+          "Purtați încălțăminte comodă pentru plimbările prin parc.",
+          "Rezervați o masă la Brauhaus dacă vizitați în weekend."
+        ],
+        "en": [
+          "Sindelfingen is great to explore on foot as sights are located close together.",
+          "Visit the Marktplatz on Saturdays for the regional market.",
+          "Wear comfortable shoes for the park strolls.",
+          "Book a table at the Brauhaus if visiting on a weekend."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Motorworld Region Stuttgart",
+          "coords": [
+            9.035,
+            48.692
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Muss für Autofans auf dem alten Flughafengelände.",
+            "hu": "Autórajongóknak kötelező a régi repülőtér területén.",
+            "ro": "Un loc obligatoriu pentru fanii auto, pe vechiul aeroport.",
+            "en": "A must-see for car enthusiasts on the old airfield grounds."
+          }
+        },
+        {
+          "name": "Klostersee",
+          "coords": [
+            9.0055,
+            48.7085
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schöne Radwege rund um den See.",
+            "hu": "Szép kerékpárutak a tó körül.",
+            "ro": "Piste de biciclete frumoase în jurul lacului.",
+            "en": "Beautiful bike paths around the lake."
+          }
+        },
+        {
+          "name": "Marktplatz Sindelfingen",
+          "coords": [
+            9.0012,
+            48.7115
+          ],
+          "category": "squares",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt für eine kurze Pause.",
+            "hu": "Központi találkozóhely egy rövid szünethez.",
+            "ro": "Punct central de întâlnire pentru o scurtă pauză.",
+            "en": "Central meeting point for a short break."
+          }
+        },
+        {
+          "name": "Mittagessen in der Altstadt",
+          "coords": [
+            9.002,
+            48.712
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stärken Sie sich in einem der urigen Gasthäuser.",
+            "hu": "Frissüljön fel az egyik patinás vendéglőben.",
+            "ro": "Prindeți puteri la unul dintre hanurile tradiționale.",
+            "en": "Refuel in one of the quaint guesthouses."
+          }
+        },
+        {
+          "name": "Martinskirche",
+          "coords": [
+            9.0025,
+            48.7125
+          ],
+          "category": "churches",
+          "arrive_at": "14:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beeindruckende romanische Architektur.",
+            "hu": "Lenyűgöző román stílusú építészet.",
+            "ro": "Arhitectură romanică impresionantă.",
+            "en": "Impressive Romanesque architecture."
+          }
+        },
+        {
+          "name": "Sommerhofenpark",
+          "coords": [
+            9.008,
+            48.715
+          ],
+          "category": "parks",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine entspannte Radrunde durchs Grüne.",
+            "hu": "Tökéletes egy pihentető tekeréshez a zöldben.",
+            "ro": "Perfect pentru o tură relaxantă cu bicicleta prin verdeață.",
+            "en": "Perfect for a relaxed bike ride through the greenery."
+          }
+        },
+        {
+          "name": "Webereimuseum",
+          "coords": [
+            9.0035,
+            48.7128
+          ],
+          "category": "museums",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historische Webstühle in Aktion erleben.",
+            "hu": "Történelmi szövőszékek működés közben.",
+            "ro": "Vedeți războaie de țesut istorice în acțiune.",
+            "en": "Experience historic looms in action."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie sowohl das Zentrum als auch das aufregende Umland. Starten Sie bei der Motorworld in Böblingen/Sindelfingen, bevor Sie durch die Natur zum Klostersee fahren. Nach einem Mittagessen in der Altstadt besichtigen Sie die Martinskirche und genießen die weiten Radwege im Sommerhofenpark. Den Abschluss bildet ein Besuch im Webereimuseum.",
+        "hu": "Kerékpárral felfedezheti mind a központot, mind az izgalmas környéket. Kezdjen a Motorworldnél, mielőtt a természeten át a Klosterseehez kerekezne. Az óvárosi ebéd után látogassa meg a Martinskirche templomot, és élvezze a Sommerhofenpark tágas kerékpárútjait. A napot a Webereimuseum megtekintése zárja.",
+        "ro": "Cu bicicleta veți explora atât centrul, cât și împrejurimile captivante. Începeți la Motorworld înainte de a pedala prin natură spre Klostersee. După un prânz în centrul vechi, vizitați Martinskirche și bucurați-vă de pistele largi din Sommerhofenpark. Finalizați ziua cu o vizită la Muzeul Țesătoriei.",
+        "en": "By bike, you can explore both the center and the exciting surroundings. Start at Motorworld before riding through nature to Klostersee. After lunch in the old town, visit Martinskirche and enjoy the wide bike paths in Sommerhofenpark. The tour ends with a visit to the Weaving Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Check-In Bar & Restaurant",
+            "tip": "Speisen im historischen Tower-Ambiente."
+          },
+          {
+            "name": "Wirtshaus zum Hirsch",
+            "tip": "Rustikales Ambiente direkt am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Check-In Bar & Restaurant",
+            "tip": "Étkezés történelmi repülőtéri környezetben."
+          },
+          {
+            "name": "Wirtshaus zum Hirsch",
+            "tip": "Rusztikus környezet közvetlenül a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Check-In Bar & Restaurant",
+            "tip": "Mâncare într-o ambianță istorică de turn de control."
+          },
+          {
+            "name": "Wirtshaus zum Hirsch",
+            "tip": "Ambianță rustică chiar în Marktplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Check-In Bar & Restaurant",
+            "tip": "Dining in a historic tower atmosphere."
+          },
+          {
+            "name": "Wirtshaus zum Hirsch",
+            "tip": "Rustic atmosphere right on the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg Klostersee",
+            "tip": "Entspannter Weg abseits der Autos.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aischtalradweg-Anbindung",
+            "tip": "Grüne Wege Richtung Umland.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uferweg Klostersee",
+            "tip": "Pihentető út az autóktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aischtalradweg csatlakozás",
+            "tip": "Zöld utak a környék felé.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uferweg Klostersee",
+            "tip": "Drum relaxant departe de mașini.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Conexiune Aischtalradweg",
+            "tip": "Drumuri verzi spre împrejurimi.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klostersee Shore Path",
+            "tip": "Relaxed path away from cars.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aischtalradweg Connection",
+            "tip": "Green paths towards the surroundings.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Motorworld Shop",
+            "tip": "Exklusive Auto-Souvenirs und Modelle."
+          },
+          {
+            "name": "Breuningerland",
+            "tip": "Großes Fashion-Zentrum an der Peripherie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Motorworld Shop",
+            "tip": "Exkluzív autómodell és szuvenírek."
+          },
+          {
+            "name": "Breuningerland",
+            "tip": "Nagy divatközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Motorworld Shop",
+            "tip": "Suveniruri auto exclusive și machete."
+          },
+          {
+            "name": "Breuningerland",
+            "tip": "Centru mare de modă la periferie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Motorworld Shop",
+            "tip": "Exclusive car souvenirs and models."
+          },
+          {
+            "name": "Breuningerland",
+            "tip": "Large fashion center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege zwischen Sindelfingen und Böblingen.",
+          "Ein Schloss am Rad ist bei Besuchen der Museen Pflicht.",
+          "Die Strecke zum Sommerhofenpark ist besonders angenehm zu fahren.",
+          "An der Motorworld gibt es ausreichend Fahrradständer."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárutakat Sindelfingen és Böblingen között.",
+          "A múzeumlátogatásokhoz elengedhetetlen a kerékpárzár.",
+          "A Sommerhofenpark felé vezető út különösen kellemes.",
+          "A Motorworldnél elegendő kerékpártároló található."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine amenajate între Sindelfingen și Böblingen.",
+          "Un antifurt pentru bicicletă este obligatoriu la vizitarea muzeelor.",
+          "Traseul spre Sommerhofenpark este deosebit de plăcut de parcurs.",
+          "La Motorworld există suficiente rastele pentru biciclete."
+        ],
+        "en": [
+          "Use the well-developed bike paths between Sindelfingen and Böblingen.",
+          "A bike lock is mandatory when visiting museums.",
+          "The route to Sommerhofenpark is particularly pleasant to ride.",
+          "There are plenty of bike racks at Motorworld."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marktplatz (Cluster A)",
+          "coords": [
+            9.0012,
+            48.7115
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Marktplatz für kurzen Zugang.",
+            "hu": "Parkoljon a Marktplatz mélygarázsban a gyors kijutáshoz.",
+            "ro": "Parcați în garajul Marktplatz pentru acces rapid.",
+            "en": "Park in the Marktplatz parking garage for quick access."
+          }
+        },
+        {
+          "name": "Martinskirche (Cluster A)",
+          "coords": [
+            9.0025,
+            48.7125
+          ],
+          "category": "churches",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare din Marktplatz.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": "Altes Rathaus (Cluster A)",
+          "coords": [
+            9.0028,
+            48.713
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Highlight der schwäbischen Fachwerkarchitektur.",
+            "hu": "A sváb favázas építészet egyik fénypontja.",
+            "ro": "Un punct culminant al arhitecturii șvăbești.",
+            "en": "A highlight of Swabian half-timbered architecture."
+          }
+        },
+        {
+          "name": "Motorworld Region Stuttgart (Cluster B)",
+          "coords": [
+            9.035,
+            48.692
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken direkt auf dem Gelände möglich.",
+            "hu": "Parkolás közvetlenül a helyszínen lehetséges.",
+            "ro": "Parcare posibilă direct în incintă.",
+            "en": "Parking is available directly on-site."
+          }
+        },
+        {
+          "name": "Lunch im V8 Superior (Cluster B)",
+          "coords": [
+            9.0355,
+            48.6925
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Modernes Restaurant mit Automobil-Thema.",
+            "hu": "Modern étterem autó-tematikával.",
+            "ro": "Restaurant modern cu tematică auto.",
+            "en": "Modern restaurant with an automotive theme."
+          }
+        },
+        {
+          "name": "Sommerhofenpark (Cluster C)",
+          "coords": [
+            9.008,
+            48.715
+          ],
+          "category": "parks",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Parkeingang nutzen.",
+            "hu": "Használja a park bejáratánál lévő parkolót.",
+            "ro": "Folosiți parcarea direct de la intrarea în parc.",
+            "en": "Use the parking lot directly at the park entrance."
+          }
+        },
+        {
+          "name": "Klostersee (Cluster C)",
+          "coords": [
+            9.0055,
+            48.7085
+          ],
+          "category": "natural features",
+          "arrive_at": "17:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spaziergang am Ufer zum Tagesausklang.",
+            "hu": "Séta a parton a nap végén.",
+            "ro": "Plimbare pe mal la final de zi.",
+            "en": "Stroll along the shore to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die historische Altstadt mit der modernen Automobilwelt. Beginnen Sie im Zentrum mit Kirche und Rathaus, bevor Sie zur berühmten Motorworld fahren. Genießen Sie dort ein Mittagessen zwischen Oldtimern. Am Nachmittag bringt Sie das Auto zu den weitläufigen Parks der Stadt, wo Sie entspannte Spaziergänge unternehmen können.",
+        "hu": "Ez az autós túra összeköti a történelmi óvárost a modern autóvilággal. Kezdjen a központban a templommal és a városházával, mielőtt a híres Motorworldhöz hajtana. Élvezze az ebédet a veterán autók között. Délután az autó a város tágas parkjaihoz viszi, ahol pihentető sétákat tehet.",
+        "ro": "Acest tur cu mașina îmbină centrul vechi istoric cu lumea modernă a automobilelor. Începeți în centru cu biserica și primăria, înainte de a conduce spre faimosul Motorworld. Savurați prânzul printre mașini de epocă. După-amiaza, mașina vă va duce la parcurile vaste ale orașului pentru plimbări relaxante.",
+        "en": "This car tour combines the historic old town with the modern automotive world. Start in the center with the church and town hall before driving to the famous Motorworld. Enjoy lunch among classic cars. In the afternoon, the car takes you to the city's extensive parks for relaxed walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "PICK-UP Restaurant",
+            "tip": "Hochwertige Küche direkt in der Motorworld."
+          },
+          {
+            "name": "Brauhaus Böblingen",
+            "tip": "Am See gelegen, rustikal und lecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "PICK-UP Restaurant",
+            "tip": "Kiváló konyha közvetlenül a Motorworldben."
+          },
+          {
+            "name": "Brauhaus Böblingen",
+            "tip": "A tóparton található, rusztikus és finom."
+          }
+        ],
+        "ro": [
+          {
+            "name": "PICK-UP Restaurant",
+            "tip": "Bucătărie de înaltă calitate chiar în Motorworld."
+          },
+          {
+            "name": "Brauhaus Böblingen",
+            "tip": "Situat lângă lac, rustic și gustos."
+          }
+        ],
+        "en": [
+          {
+            "name": "PICK-UP Restaurant",
+            "tip": "High-quality cuisine directly in Motorworld."
+          },
+          {
+            "name": "Brauhaus Böblingen",
+            "tip": "Located by the lake, rustic and delicious."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sommerhofental",
+            "tip": "Ruhiges Tal ideal zum Durchatmen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Böblinger Seen",
+            "tip": "Schöner Ausblick vom Auto oder Ufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sommerhofental",
+            "tip": "Csendes völgy, ideális egy kis lélegzetvételhez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Böblingeni tavak",
+            "tip": "Szép kilátás az autóból vagy a partról.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sommerhofental",
+            "tip": "Vale liniștită, ideală pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lacurile din Böblingen",
+            "tip": "Vedere frumoasă din mașină sau de pe mal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sommerhofental",
+            "tip": "Quiet valley ideal for a breather.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Böblingen Lakes",
+            "tip": "Nice view from the car or shore.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Breuningerland Sindelfingen",
+            "tip": "Eines der größten Shopping-Center Süddeutschlands."
+          },
+          {
+            "name": "Metzingen Outlet (ca. 30 min)",
+            "tip": "Weltbekanntes Outlet für Markenfans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Breuningerland Sindelfingen",
+            "tip": "Dél-Németország egyik legnagyobb bevásárlóközpontja."
+          },
+          {
+            "name": "Metzingen Outlet (kb. 30 perc)",
+            "tip": "Világhírű outlet a márkák kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Breuningerland Sindelfingen",
+            "tip": "Unul dintre cele mai mari centre comerciale din sudul Germaniei."
+          },
+          {
+            "name": "Metzingen Outlet (cca. 30 min)",
+            "tip": "Outlet renumit mondial pentru fanii brandurilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Breuningerland Sindelfingen",
+            "tip": "One of the largest shopping centers in Southern Germany."
+          },
+          {
+            "name": "Metzingen Outlet (approx. 30 min)",
+            "tip": "World-famous outlet for brand enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser im Zentrum, da Straßenparkplätze oft belegt sind.",
+          "Die A81 kann zu Stoßzeiten sehr voll sein, planen Sie Puffer ein.",
+          "Bei der Motorworld ist das Parken für Besucher oft zeitbegrenzt kostenlos.",
+          "Ein Abstecher ins nahegelegene Böblingen lohnt sich wegen der Seenplatte."
+        ],
+        "hu": [
+          "Használja a központi parkolóházakat, mivel az utcai helyek gyakran foglaltak.",
+          "Az A81-es autópálya csúcsidőben zsúfolt lehet, tervezzen időpuffert.",
+          "A Motorworldnél a látogatóknak gyakran időkorlátos ingyenes parkolás jár.",
+          "Érdemes egy kitérőt tenni a közeli Böblingenbe a tórendszer miatt."
+        ],
+        "ro": [
+          "Folosiți parcările supraetajate din centru, locurile de pe stradă sunt deseori ocupate.",
+          "A81 poate fi foarte aglomerată la orele de vârf, planificați o marjă de timp.",
+          "La Motorworld parcarea este adesea gratuită pentru o perioadă limitată.",
+          "O scurtă vizită în Böblingen merită pentru zona lacurilor."
+        ],
+        "en": [
+          "Use the parking garages in the center as street parking is often full.",
+          "The A81 can be very crowded during rush hours, plan for extra time.",
+          "At Motorworld, parking is often free for visitors for a limited time.",
+          "A detour to nearby Böblingen is worth it for the lake district."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 10.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "ZOB Sindelfingen (Marktplatz)",
+          "coords": [
+            9.0012,
+            48.7115
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt der Stadt.",
+            "hu": "A város központi buszcsomópontja.",
+            "ro": "Nodul central de autobuze al orașului.",
+            "en": "Central bus hub of the city."
+          }
+        },
+        {
+          "name": "Altes Rathaus & Altstadt",
+          "coords": [
+            9.0028,
+            48.713
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom ZOB bequem zu Fuß erreichbar.",
+            "hu": "A ZOB-tól könnyen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos de la ZOB.",
+            "en": "Easily accessible on foot from the ZOB."
+          }
+        },
+        {
+          "name": "Motorworld (S-Bahn Böblingen)",
+          "coords": [
+            9.035,
+            48.692
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bahnhof Böblingen.",
+            "hu": "Csak pár perc séta a böblingeni vasútállomástól.",
+            "ro": "La doar câteva minute de mers de gara Böblingen.",
+            "en": "Just a few minutes' walk from Böblingen station."
+          }
+        },
+        {
+          "name": "Mittagessen (Böblingen See)",
+          "coords": [
+            9.015,
+            48.685
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Restaurants mit Seeblick genießen.",
+            "hu": "Élvezze az éttermeket tóra néző kilátással.",
+            "ro": "Bucurați-vă de restaurantele cu vedere la lac.",
+            "en": "Enjoy restaurants with a lake view."
+          }
+        },
+        {
+          "name": "Sommerhofenpark",
+          "coords": [
+            9.008,
+            48.715
+          ],
+          "category": "parks",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Buslinie 701 bringt Sie direkt zum Park.",
+            "hu": "A 701-es busz közvetlenül a parkhoz visz.",
+            "ro": "Linia 701 vă duce direct la parc.",
+            "en": "Bus line 701 takes you directly to the park."
+          }
+        },
+        {
+          "name": "Webereimuseum",
+          "coords": [
+            9.0035,
+            48.7128
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Traditionelles Handwerk hautnah.",
+            "hu": "Hagyományos kézművesség testközelből.",
+            "ro": "Meșteșug tradițional de aproape.",
+            "en": "Traditional craft experience."
+          }
+        },
+        {
+          "name": "Klostersee",
+          "coords": [
+            9.0055,
+            48.7085
+          ],
+          "category": "natural features",
+          "arrive_at": "18:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für den Sonnenuntergang.",
+            "hu": "Szép hely a naplemente megtekintéséhez.",
+            "ro": "Un loc frumos pentru apusul soarelui.",
+            "en": "A beautiful spot for the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Bus- und S-Bahn-Netz von Sindelfingen und Böblingen. Vom zentralen Marktplatz gelangen Sie schnell in die Altstadt und per S-Bahn direkt zur Motorworld. Nach einem Mittagessen an den Böblinger Seen bringt Sie der Bus zurück zum erholsamen Sommerhofenpark und schließlich zum Webereimuseum und Klostersee im Zentrum.",
+        "hu": "Használja Sindelfingen és Böblingen sűrű busz- és S-Bahn hálózatát. A központi Marktplatzról gyorsan elérheti az óvárost, az S-Bahn-nal pedig közvetlenül a Motorworldhöz juthat. A böblingeni tavaknál elfogyasztott ebéd után a busz visszaviszi a pihentető Sommerhofenparkba, végül pedig a központban található Webereimuseumhoz és Klosterseehez.",
+        "ro": "Folosiți rețeaua densă de autobuze și S-Bahn din Sindelfingen și Böblingen. Din Marktplatz ajungeți rapid în centrul vechi, iar cu S-Bahn direct la Motorworld. După un prânz la lacurile din Böblingen, autobuzul vă duce înapoi la Sommerhofenpark și, în final, la Muzeul Țesătoriei și la Klostersee în centru.",
+        "en": "Use the dense bus and S-Bahn network of Sindelfingen and Böblingen. From the central Marktplatz, you can quickly reach the old town, and take the S-Bahn directly to Motorworld. After lunch at the Böblingen lakes, the bus takes you back to the relaxing Sommerhofenpark and finally to the Weaving Museum and Klostersee in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Seegärtle",
+            "tip": "Biergarten direkt am Böblinger See."
+          },
+          {
+            "name": "Stern-Center Food Court",
+            "tip": "Schnelle Auswahl für den kleinen Hunger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seegärtle",
+            "tip": "Sörkert közvetlenül a böblingeni tónál."
+          },
+          {
+            "name": "Stern-Center Food Court",
+            "tip": "Gyors választék kisebb éhség esetén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seegärtle",
+            "tip": "Grădină de vară chiar pe malul lacului din Böblingen."
+          },
+          {
+            "name": "Stern-Center Food Court",
+            "tip": "Selecție rapidă pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seegärtle",
+            "tip": "Beer garden directly at the Böblingen lake."
+          },
+          {
+            "name": "Stern-Center Food Court",
+            "tip": "Quick selection for a small bite."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Unrerer See Böblingen",
+            "tip": "Ruhiger Park am Bahnhof.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Viel Platz zum Ausruhen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Unrerer See Böblingen",
+            "tip": "Csendes park az állomásnál.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Sok hely a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Unrerer See Böblingen",
+            "tip": "Parc liniștit lângă gară.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Mult spațiu pentru odihnă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Unrerer See Böblingen",
+            "tip": "Quiet park near the station.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sommerhofenpark",
+            "tip": "Plenty of space to rest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stern-Center",
+            "tip": "Direkt am ZOB Sindelfingen."
+          },
+          {
+            "name": "Mercaden Böblingen",
+            "tip": "Einkaufszentrum direkt am Bahnhof Böblingen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stern-Center",
+            "tip": "Közvetlenül a sindelfingeni ZOB mellett."
+          },
+          {
+            "name": "Mercaden Böblingen",
+            "tip": "Bevásárlóközpont közvetlenül a böblingeni állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stern-Center",
+            "tip": "Chiar lângă ZOB Sindelfingen."
+          },
+          {
+            "name": "Mercaden Böblingen",
+            "tip": "Centru comercial chiar la gara Böblingen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stern-Center",
+            "tip": "Right next to the Sindelfingen ZOB."
+          },
+          {
+            "name": "Mercaden Böblingen",
+            "tip": "Shopping center right at Böblingen station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich ein Tagesticket für das VVS-Netz (Zone 2 oder 3).",
+          "Die Busse fahren im Zentrum sehr regelmäßig.",
+          "Nutzen Sie die App 'VVS Mobil' für Echtzeit-Auskünfte.",
+          "Zwischen Sindelfingen und Böblingen fahren S-Bahnen und Busse im 10-Minuten-Takt."
+        ],
+        "hu": [
+          "Váltson napijegyet a VVS hálózatára (2-es vagy 3-as zóna).",
+          "A buszok a központban nagyon sűrűn járnak.",
+          "Használja a 'VVS Mobil' alkalmazást a valós idejű adatokhoz.",
+          "Sindelfingen és Böblingen között 10 percenként járnak buszok és vonatok."
+        ],
+        "ro": [
+          "Luați un bilet de o zi pentru rețeaua VVS (zona 2 sau 3).",
+          "Autobuzele circulă foarte regulat în centru.",
+          "Folosiți aplicația 'VVS Mobil' pentru informații în timp real.",
+          "Între Sindelfingen și Böblingen trenurile și autobuzele circulă la fiecare 10 minute."
+        ],
+        "en": [
+          "Get a day ticket for the VVS network (Zone 2 or 3).",
+          "Buses run very regularly in the center.",
+          "Use the 'VVS Mobil' app for real-time information.",
+          "S-Bahn and buses run every 10 minutes between Sindelfingen and Böblingen."
+        ]
+      }
+    }
+  }
+}

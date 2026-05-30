@@ -1,0 +1,895 @@
+{
+  "city_id": "city-neunkirchen-sl-extra",
+  "anchor": {
+    "name": "Stumm-Denkmal",
+    "coords": [
+      7.1777,
+      49.3453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Christuskirche",
+            "hu": "Krisztus-templom",
+            "ro": "Biserica lui Hristos",
+            "en": "Christ Church"
+          },
+          "coords": [
+            7.1771,
+            49.3431
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur im Stadtzentrum.",
+            "hu": "Csodálja meg a neogótikus építészetet a városközpontban.",
+            "ro": "Admirați arhitectura neogotică din centrul orașului.",
+            "en": "Admire the neo-Gothic architecture in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stumm-Denkmal",
+            "hu": "Stumm-emlékmű",
+            "ro": "Monumentul Stumm",
+            "en": "Stumm Monument"
+          },
+          "coords": [
+            7.1777,
+            49.3453
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Denkmal für die Industriellenfamilie Stumm.",
+            "hu": "Emlékmű az iparos Stumm család tiszteletére.",
+            "ro": "Un monument dedicat familiei de industriași Stumm.",
+            "en": "A monument dedicated to the Stumm industrialist family."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Hüttenareal",
+            "hu": "Régi Vasmű Területe",
+            "ro": "Vechiul Sit Siderurgic",
+            "en": "Old Ironworks Site"
+          },
+          "coords": [
+            7.1752,
+            49.3475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gigantischen Hochöfen hautnah.",
+            "hu": "Fedezze fel testközelből a hatalmas nagyolvasztókat.",
+            "ro": "Explorați furnalele gigantice de aproape.",
+            "en": "Explore the gigantic blast furnaces up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hüttenareal",
+            "hu": "Ebéd a Vasműnél",
+            "ro": "Prânz la Situl Siderurgic",
+            "en": "Lunch at the Ironworks"
+          },
+          "coords": [
+            7.1765,
+            49.3468
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie saarländische Lyoner in industrieller Atmosphäre.",
+            "hu": "Kóstolja meg a saar-vidéki Lyonert ipari környezetben.",
+            "ro": "Gustați Lyoner din Saarland într-o atmosferă industrială.",
+            "en": "Try Saarland Lyoner in an industrial atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gebläsehalle",
+            "hu": "Fúvógépház",
+            "ro": "Hala Suflantelor",
+            "en": "Blower Hall"
+          },
+          "coords": [
+            7.1745,
+            49.3482
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein beeindruckender Ort für Konzerte und Ausstellungen.",
+            "hu": "Lenyűgöző helyszín koncertek és kiállítások számára.",
+            "ro": "O locație impresionantă pentru concerte și expoziții.",
+            "en": "An impressive venue for concerts and exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Spitzbunker",
+            "hu": "Spitz-bunker",
+            "ro": "Buncăr Spitz",
+            "en": "Spitz Bunker"
+          },
+          "coords": [
+            7.1728,
+            49.3491
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein markanter Luftschutzbunker aus dem Zweiten Weltkrieg.",
+            "hu": "Jellegzetes légoltalmi bunker a második világháborúból.",
+            "ro": "Un buncăr antiaerian distinctiv din Al Doilea Război Mondial.",
+            "en": "A distinctive air-raid bunker from World War II."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Neunkirchen, die ehemalige Stadt von Kohle und Eisen, bietet heute eine faszinierende Mischung aus Industriekultur und urbanem Leben. Beginnen Sie Ihren Rundgang im Herzen der Stadt bei der Christuskirche und dem Stumm-Denkmal, Symbole der glanzvollen Industriegeschichte. Der Höhepunkt ist das Alte Hüttenareal, wo monumentale Stahlstrukturen eine dramatische Kulisse bilden. Der Tag endet beim einzigartigen Spitzbunker, einem Mahnmal der Technikgeschichte.",
+        "hu": "Neunkirchen, az egykori szén- és acélváros ma az ipari kultúra és a városi élet izgalmas keverékét kínálja. Kezdje a sétát a város szívében a Krisztus-templomnál és a Stumm-emlékműnél, amelyek a dicső ipari múlt jelképei. A nap fénypontja a Régi Vasmű Területe, ahol a monumentális acélszerkezetek drámai hátteret adnak. A napot a különleges Spitz-bunkernél zárjuk, amely a technikatörténet egyik mementója.",
+        "ro": "Neunkirchen, fostul oraș al cărbunelui și fierului, oferă astăzi un amestec fascinant de cultură industrială și viață urbană. Începeți turul în inima orașului la Christuskirche și monumentul Stumm, simboluri ale istoriei industriale glorioase. Punctul culminant este Vechiul Sit Siderurgic, unde structurile monumentale de oțel formează un cadru dramatic. Ziua se încheie la buncărul Spitz, un monument unic al istoriei tehnice.",
+        "en": "Neunkirchen, the former city of coal and iron, today offers a fascinating blend of industrial culture and urban life. Start your tour in the heart of the city at Christ Church and the Stumm Monument, symbols of the glorious industrial history. The highlight is the Old Ironworks Site, where monumental steel structures create a dramatic backdrop. The day ends at the unique Spitz Bunker, a memorial to technical history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stumm's Brauhaus",
+            "tip": "Frisches Bier und deftige saarländische Küche direkt am Hüttenareal."
+          },
+          {
+            "name": "Wasserturm Restaurant",
+            "tip": "Speisen in einem umgebauten historischen Wasserturm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stumm's Brauhaus",
+            "tip": "Friss sör és bőséges saar-vidéki konyha közvetlenül a vasműnél."
+          },
+          {
+            "name": "Wasserturm Étterem",
+            "tip": "Vacsora egy átalakított történelmi víztoronyban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stumm's Brauhaus",
+            "tip": "Bere proaspătă și bucătărie consistentă din Saarland, chiar lângă sit."
+          },
+          {
+            "name": "Restaurant Wasserturm",
+            "tip": "Luați masa într-un turn de apă istoric convertit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stumm's Brauhaus",
+            "tip": "Fresh beer and hearty Saarland cuisine right by the ironworks site."
+          },
+          {
+            "name": "Wasserturm Restaurant",
+            "tip": "Dine in a converted historic water tower."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wagwiesental",
+            "tip": "Ein weitläufiger Stadtpark ideal für ruhige Spaziergänge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lindenpark",
+            "tip": "Kleiner, friedlicher Park nahe der Marienkirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wagwiesental",
+            "tip": "Kiterjedt városi park, ideális csendes sétákhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lindenpark",
+            "tip": "Kicsi, békés park a Mária-templom közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wagwiesental",
+            "tip": "Un parc urban extins, ideal pentru plimbări liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lindenpark",
+            "tip": "Parc mic și liniștit lângă Biserica Sf. Maria.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wagwiesental",
+            "tip": "A sprawling city park ideal for quiet walks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lindenpark",
+            "tip": "Small, peaceful park near St. Mary's Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saarpark-Center",
+            "tip": "Das größte Einkaufszentrum des Saarlandes mit über 130 Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saarpark-Center",
+            "tip": "Saar-vidék legnagyobb bevásárlóközpontja több mint 130 üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saarpark-Center",
+            "tip": "Cel mai mare centru comercial din Saarland, cu peste 130 de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saarpark-Center",
+            "tip": "The largest shopping mall in Saarland with over 130 shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Hüttenareal ist am besten zu Fuß zu erkunden; tragen Sie festes Schuhwerk.",
+          "Kombinieren Sie Ihren Besuch mit einem Einkaufsbummel im Saarpark-Center.",
+          "Die Infotafeln am Hüttenweg bieten spannende Einblicke in die Arbeit der Hüttenleute."
+        ],
+        "hu": [
+          "A vasmű területét a legjobb gyalog felfedezni; viseljen kényelmes, zárt cipőt.",
+          "Kösse össze látogatását egy kis vásárlással a Saarpark-Centerben.",
+          "A Hüttenweg menti információs táblák izgalmas betekintést nyújtanak a vasmunkások életébe."
+        ],
+        "ro": [
+          "Situl siderurgic este cel mai bine explorat pe jos; purtați încălțăminte rezistentă.",
+          "Combinați vizita cu o sesiune de cumpărături la Saarpark-Center.",
+          "Panourile informative de pe Hüttenweg oferă detalii fascinante despre munca siderurgiștilor."
+        ],
+        "en": [
+          "The ironworks site is best explored on foot; wear sturdy footwear.",
+          "Combine your visit with a shopping trip to the Saarpark-Center.",
+          "The information boards along the Hüttenweg provide exciting insights into the workers' lives."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Hüttenareal",
+            "hu": "Régi Vasmű",
+            "ro": "Vechiul Sit",
+            "en": "Old Ironworks"
+          },
+          "coords": [
+            7.1752,
+            49.3475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am Herzstück der Industriegeschichte.",
+            "hu": "Kezdje túráját az ipari múlt központjában.",
+            "ro": "Începeți turul în inima istoriei industriale.",
+            "en": "Start your tour at the heart of industrial history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ellenfeldstadion",
+            "hu": "Ellenfeld Stadion",
+            "ro": "Stadionul Ellenfeld",
+            "en": "Ellenfeld Stadium"
+          },
+          "coords": [
+            7.1912,
+            49.3461
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das traditionsreiche Fußballstadion von Borussia Neunkirchen.",
+            "hu": "Látogassa meg a Borussia Neunkirchen hagyományos futballstadionját.",
+            "ro": "Vizitați stadionul istoric al echipei Borussia Neunkirchen.",
+            "en": "Visit the traditional football stadium of Borussia Neunkirchen."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Neunkirchen",
+            "hu": "Neunkircheni Állatkert",
+            "ro": "Grădina Zoologică",
+            "en": "Neunkirchen Zoo"
+          },
+          "coords": [
+            7.1965,
+            49.3412
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Zoo ist berühmt für seine Elefantenherde.",
+            "hu": "Az állatkert híres az elefántcsordájáról.",
+            "ro": "Grădina zoologică este faimoasă pentru turma sa de elefanți.",
+            "en": "The zoo is famous for its elephant herd."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            7.1728,
+            49.3408
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Eine neobarocke Kirche mit prachtvoller Innenausstattung.",
+            "hu": "Neobarokk templom pompás belső díszítéssel.",
+            "ro": "O biserică neobarocă cu un interior spectaculos.",
+            "en": "A neo-Baroque church with magnificent interior decor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet die raue Schönheit der Industrieareale mit den grünen Oasen der Stadt. Von den rostigen Riesen des Hüttenareals radeln Sie zum historischen Stadion und weiter zum beliebten Zoo. Die Route führt Sie durch abwechslungsreiche Viertel bis zur prächtigen Marienkirche.",
+        "hu": "Ez a kerékpáros túra az ipari területek nyers szépségét ötvözi a város zöld oázisaival. A vasmű rozsdás óriásaitól a történelmi stadionhoz, majd a népszerű állatkerthez kerekezünk. Az útvonal változatos negyedeken át vezet a pompás Mária-templomig.",
+        "ro": "Acest tur cu bicicleta combină frumusețea brută a siturilor industriale cu oazele verzi ale orașului. De la giganții ruginiți ai sitului siderurgic, pedalați spre stadionul istoric și apoi spre populara grădină zoologică. Traseul vă poartă prin cartiere variate până la superba biserică Marienkirche.",
+        "en": "This bike tour combines the raw beauty of industrial sites with the city's green oases. From the rusty giants of the ironworks, cycle to the historic stadium and on to the popular zoo. The route takes you through diverse neighborhoods to the magnificent St. Mary's Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Zoo",
+            "tip": "Perfekt für eine Erfrischung während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biergarten am Zoo",
+            "tip": "Tökéletes frissítő állomás a bringázás közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten am Zoo",
+            "tip": "Perfect pentru o băutură răcoritoare în timpul turului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biergarten am Zoo",
+            "tip": "Perfect for a refreshment during the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lindenallee",
+            "tip": "Ruhige, baumgesäumte Straße ideal zum Radeln.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lindenallee",
+            "tip": "Csendes, fákkal szegélyezett út, ideális biciklizéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lindenallee",
+            "tip": "Stradă liniștită, mărginită de copaci, ideală pentru pedalat.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lindenallee",
+            "tip": "Quiet, tree-lined street ideal for cycling.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zweiradhaus",
+            "tip": "Zentrale Anlaufstelle für Radzubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zweiradhaus",
+            "tip": "Központi hely kerékpáros kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zweiradhaus",
+            "tip": "Punct central pentru accesorii de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zweiradhaus",
+            "tip": "Central spot for bike accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege zwischen den Clustern sind weitgehend flach."
+        ],
+        "hu": [
+          "A klaszterek közötti utak nagyrészt síkak."
+        ],
+        "ro": [
+          "Traseele între clustere sunt în mare parte plate."
+        ],
+        "en": [
+          "The paths between clusters are mostly flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Christuskirche (Cluster Center)",
+            "hu": "Krisztus-templom",
+            "ro": "Christuskirche",
+            "en": "Christ Church"
+          },
+          "coords": [
+            7.1771,
+            49.3431
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Saarpark-Center für diesen Cluster.",
+            "hu": "Parkoljon a Saarpark-Centerben ehhez a környékhez.",
+            "ro": "Parcați la Saarpark-Center pentru acest cluster.",
+            "en": "Park at Saarpark-Center for this cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Stumm-Denkmal",
+            "hu": "Stumm-emlékmű",
+            "ro": "Monumentul Stumm",
+            "en": "Stumm Monument"
+          },
+          "coords": [
+            7.1777,
+            49.3453
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Center entfernt.",
+            "hu": "Rövid séta a bevásárlóközponttól.",
+            "ro": "O scurtă plimbare de la centru.",
+            "en": "A short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Hüttenareal",
+            "hu": "Régi Vasmű",
+            "ro": "Vechiul Sit",
+            "en": "Old Ironworks"
+          },
+          "coords": [
+            7.1752,
+            49.3475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beeindruckende Industriekulisse.",
+            "hu": "Lenyűgöző ipari háttér.",
+            "ro": "Cadru industrial impresionant.",
+            "en": "Impressive industrial setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Neunkirchen (Cluster Ost)",
+            "hu": "Állatkert (Kelet)",
+            "ro": "Grădina Zoologică",
+            "en": "Zoo (East)"
+          },
+          "coords": [
+            7.1965,
+            49.3412
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz am Zooeingang.",
+            "hu": "Használja az állatkert bejáratánál lévő nagy parkolót.",
+            "ro": "Utilizați parcarea mare de la intrarea grădinii zoologice.",
+            "en": "Use the large parking lot at the zoo entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie bequem die beiden Hauptattraktionen: das industrielle Erbe im Zentrum und die Naturerlebnisse im Osten. Nach einem Stadtbummel fahren Sie zum weitläufigen Zoo, der besonders für Familien ein Muss ist.",
+        "hu": "Autóval kényelmesen fedezheti fel a két fő látnivalót: a központ ipari örökségét és a keleti rész természeti élményeit. A városi séta után guruljon el a tágas állatkerthez, amely családoknak kötelező program.",
+        "ro": "Cu mașina, puteți explora confortabil cele două atracții principale: moștenirea industrială din centru și experiențele în natură din est. După o plimbare prin oraș, mergeți la grădina zoologică spațioasă, un punct obligatoriu pentru familii.",
+        "en": "By car, you can comfortably explore the two main attractions: the industrial heritage in the center and the nature experiences in the east. After a city stroll, drive to the spacious zoo, a must-see especially for families."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kinnari Thai Cuisine",
+            "tip": "Hervorragendes Essen in der Nähe des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kinnari Thai Cuisine",
+            "tip": "Kiváló ételek a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kinnari Thai Cuisine",
+            "tip": "Mâncare excelentă în apropierea centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kinnari Thai Cuisine",
+            "tip": "Excellent food near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biedersberg",
+            "tip": "Aussichtspunkt mit Blick über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biedersberg",
+            "tip": "Kilátópont panorámával a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biedersberg",
+            "tip": "Punct de observație cu vedere asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biedersberg",
+            "tip": "Viewpoint with a view over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Decathlon Neunkirchen",
+            "tip": "Großes Sportgeschäft im Industriegebiet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Decathlon Neunkirchen",
+            "tip": "Hatalmas sportáruház az ipari negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Decathlon Neunkirchen",
+            "tip": "Magazin mare de articole sportive în zona industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Decathlon Neunkirchen",
+            "tip": "Large sports store in the industrial area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parksituation im Zentrum ist durch Parkhäuser entspannt."
+        ],
+        "hu": [
+          "A központi parkolás a parkolóházaknak köszönhetően egyszerű."
+        ],
+        "ro": [
+          "Parcarea în centru este facilă datorită parcărilor etajate."
+        ],
+        "en": [
+          "Parking in the center is easy thanks to multi-story car parks."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neunkirchen Hauptbahnhof",
+            "hu": "Neunkirchen Főpályaudvar",
+            "ro": "Gara Centrală Neunkirchen",
+            "en": "Neunkirchen Main Station"
+          },
+          "coords": [
+            7.1705,
+            49.3485
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ihr Ankunftspunkt mit direkter Busanbindung zum Zentrum.",
+            "hu": "Érkezési pont közvetlen buszjáratokkal a központba.",
+            "ro": "Punctul de sosire cu conexiuni directe de autobuz către centru.",
+            "en": "Your arrival point with direct bus connections to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Hüttenareal",
+            "hu": "Régi Vasmű",
+            "ro": "Vechiul Sit",
+            "en": "Old Ironworks"
+          },
+          "coords": [
+            7.1752,
+            49.3475
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder 10 Min. Fußweg vom Bahnhof.",
+            "hu": "Rövid buszozás vagy 10 perc séta az állomástól.",
+            "ro": "Călătorie scurtă cu autobuzul sau 10 minute pe jos de la gară.",
+            "en": "Short bus ride or 10 min walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Neunkirchen",
+            "hu": "Állatkert",
+            "ro": "Grădina Zoologică",
+            "en": "Zoo"
+          },
+          "coords": [
+            7.1965,
+            49.3412
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Buslinie 302 vom Zentrum zum Zoo.",
+            "hu": "Használja a 302-es buszt a központból az állatkertig.",
+            "ro": "Utilizați linia de autobuz 302 de la centru la grădina zoologică.",
+            "en": "Use bus line 302 from the center to the zoo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Hauptbahnhof aus erreichen Sie alle Sehenswürdigkeiten bequem mit dem dichten Busnetz. Starten Sie beim historischen Hüttenareal und fahren Sie dann entspannt zum Zoo. Die Stadt ist kompakt und ideal für Transit-Entdecker.",
+        "hu": "A főpályaudvartól minden látnivaló kényelmesen elérhető a sűrű buszhálózattal. Kezdje a történelmi vasműnél, majd utazzon pihentetően az állatkertig. A város kompakt és ideális a tömegközlekedéssel utazóknak.",
+        "ro": "De la gara centrală, puteți ajunge la toate atracțiile cu rețeaua densă de autobuze. Începeți la situl istoric și apoi călătoriți relaxat spre grădina zoologică. Orașul este compact și ideal pentru exploratorii cu transportul în comun.",
+        "en": "From the main station, you can reach all sights easily with the dense bus network. Start at the historic ironworks site and then take a relaxed ride to the zoo. The city is compact and ideal for transit explorers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dönerhaus am Center",
+            "tip": "Schnelle und gute Verpflegung direkt an der Busdrehscheibe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dönerhaus am Center",
+            "tip": "Gyors és jó étkezési lehetőség a buszpályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dönerhaus am Center",
+            "tip": "Mâncare rapidă și bună chiar lângă nodul de autobuze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dönerhaus am Center",
+            "tip": "Quick and good food right at the bus hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentralfriedhof",
+            "tip": "Ein Ort der Ruhe mit altem Baumbestand.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi temető",
+            "tip": "A nyugalom helye öreg fákkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Central",
+            "tip": "Un loc de liniște cu arbori bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Cemetery",
+            "tip": "A place of peace with old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Haupteinkaufsstraße mit vielen kleinen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Fő bevásárlóutca sok kis üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Strada comercială principală cu multe magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Main shopping street with many small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die 'Saarfahrplan'-App hilft bei der Verbindungssuche."
+        ],
+        "hu": [
+          "A 'Saarfahrplan' app segít a menetrendek keresésében."
+        ],
+        "ro": [
+          "Aplicația 'Saarfahrplan' vă ajută să găsiți conexiunile."
+        ],
+        "en": [
+          "The 'Saarfahrplan' app helps in finding connections."
+        ]
+      }
+    }
+  }
+}

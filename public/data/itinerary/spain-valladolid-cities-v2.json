@@ -1,0 +1,1163 @@
+{
+  "city_id": "spain-valladolid-cities-v2",
+  "anchor": {
+    "name": "Valladolid Plaza Mayor",
+    "coords": [
+      -4.7285,
+      41.6523
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Főtér (Plaza Mayor)",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -4.7285,
+            41.6523
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee in den Arkaden.",
+            "hu": "Igyon egy kávét az árkádok alatt.",
+            "ro": "Savurați o cafea sub arcade.",
+            "en": "Enjoy a coffee under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasaje de Gutiérrez",
+            "hu": "Pasaje de Gutiérrez galéria",
+            "ro": "Pasaje de Gutiérrez",
+            "en": "Pasaje de Gutiérrez"
+          },
+          "coords": [
+            -4.7255,
+            41.652
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Pariser Architektur.",
+            "hu": "Csodálja meg a párizsi stílusú építészetet.",
+            "ro": "Admirați arhitectura în stil parizian.",
+            "en": "Admire the Parisian-style architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Valladolid",
+            "hu": "Valladolidi székesegyház",
+            "ro": "Catedrala din Valladolid",
+            "en": "Valladolid Cathedral"
+          },
+          "coords": [
+            -4.7248,
+            41.6526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Diözesanmuseum im Inneren.",
+            "hu": "Látogassa meg a belső egyházmegyei múzeumot.",
+            "ro": "Vizitați muzeul diecezan din interior.",
+            "en": "Visit the diocesan museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pablo",
+            "hu": "Szent Pál-templom",
+            "ro": "Biserica San Pablo",
+            "en": "Iglesia de San Pablo"
+          },
+          "coords": [
+            -4.7238,
+            41.6575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Fassade ist ein Meisterwerk der Gotik.",
+            "hu": "A homlokzat a gótika mesterműve.",
+            "ro": "Fațada este o capodoperă gotică.",
+            "en": "The facade is a Gothic masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum für Skulptur",
+            "hu": "Nemzeti Szobrászati Múzeum",
+            "ro": "Muzeul Național de Sculptură",
+            "en": "National Museum of Sculpture"
+          },
+          "coords": [
+            -4.7235,
+            41.6578
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Decken des San Gregorio Kollegs sind einmalig.",
+            "hu": "A San Gregorio kollégium mennyezete egyedülálló.",
+            "ro": "Tavanele Colegiului San Gregorio sunt unice.",
+            "en": "The ceilings of San Gregorio College are unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Cervantes",
+            "hu": "Cervantes háza",
+            "ro": "Casa lui Cervantes",
+            "en": "Casa de Cervantes"
+          },
+          "coords": [
+            -4.7258,
+            41.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sehen Sie, wo Don Quijote geschrieben wurde.",
+            "hu": "Nézze meg, hol írták a Don Quijotét.",
+            "ro": "Vedeți unde a fost scris Don Quijote.",
+            "en": "See where Don Quixote was written."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Grande",
+            "hu": "Campo Grande park",
+            "ro": "Parcul Campo Grande",
+            "en": "Campo Grande"
+          },
+          "coords": [
+            -4.729,
+            41.6475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die frei laufenden Pfauen.",
+            "hu": "Keresse a szabadon kószáló pávákat.",
+            "ro": "Căutați păunii care umblă liberi.",
+            "en": "Look for the free-roaming peacocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Kastilien auf der Plaza Mayor. Schlendern Sie durch die elegante Pasaje de Gutiérrez zur unvollendeten Kathedrale. Nach dem Mittagessen erkunden Sie die prächtige Fassade von San Pablo und das Skulpturenmuseum. Beenden Sie den Tag entspannt im Campo Grande Park zwischen Pfauen und Springbrunnen.",
+        "hu": "Kezdje a napot Kasztília szívében, a Plaza Mayoron. Sétáljon át az elegáns Pasaje de Gutiérrez galérián a befejezetlen székesegyházig. Ebéd után fedezze fel a Szent Pál-templom pazar homlokzatát és a világhírű szobrászati múzeumot. Zárja a napot pihenéssel a Campo Grande parkban, a pávák és szökőkutak között.",
+        "ro": "Începeți ziua în inima Castiliei, în Plaza Mayor. Plimbați-vă prin eleganta galerie Pasaje de Gutiérrez către catedrala neterminată. După prânz, explorați fațada splendidă a bisericii San Pablo și muzeul de sculptură. Încheiați ziua relaxându-vă în parcul Campo Grande, printre păuni și fântâni arteziene.",
+        "en": "Start your day in the heart of Castile at Plaza Mayor. Stroll through the elegant Pasaje de Gutiérrez to the unfinished cathedral. After lunch, explore the magnificent facade of San Pablo and the sculpture museum. End the day relaxing in Campo Grande park among peacocks and fountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Traditionelles gebratenes Milchlamm in einem Holzofen."
+          },
+          {
+            "name": "Los Zagales",
+            "tip": "Berühmte Tapas-Bar in der Nähe der Plaza Mayor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Hagyományos sült tejesbárány fatüzelésű kemencében."
+          },
+          {
+            "name": "Los Zagales",
+            "tip": "Híres tapas bár a Plaza Mayor közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Miel de lapte fript tradițional în cuptor cu lemne."
+          },
+          {
+            "name": "Los Zagales",
+            "tip": "Bar de tapas faimos lângă Plaza Mayor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lechazo Asado",
+            "tip": "Traditional roasted suckling lamb in a wood-fired oven."
+          },
+          {
+            "name": "Los Zagales",
+            "tip": "Famous tapas bar near Plaza Mayor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardín del Museo de Escultura",
+            "tip": "Ein ruhiger Innenhof mit klassischer Atmosphäre.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szobrászati Múzeum kertje",
+            "tip": "Csendes belső udvar klasszikus hangulattal.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Muzeului de Sculptură",
+            "tip": "O curte interioară liniștită cu atmosferă clasică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sculpture Museum Garden",
+            "tip": "A quiet inner courtyard with a classical atmosphere.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pasaje de Gutiérrez",
+            "tip": "Antiquitäten und exklusive Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasaje de Gutiérrez",
+            "tip": "Antikvitások és exkluzív üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasaje de Gutiérrez",
+            "tip": "Antichități și magazine exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasaje de Gutiérrez",
+            "tip": "Antiques and exclusive shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Valladolid ist im Sommer sehr heiß, nutzen Sie die Siesta für Museumsbesuche.",
+          "Die meisten Sehenswürdigkeiten sind bequem zu Fuß erreichbar.",
+          "Probieren Sie die Weine aus der Region Ribera del Duero."
+        ],
+        "hu": [
+          "Valladolid nyáron nagyon forró, használja ki a sziesztát a múzeumlátogatásra.",
+          "A legtöbb látnivaló kényelmesen elérhető gyalogosan.",
+          "Kóstolja meg a Ribera del Duero régió borait."
+        ],
+        "ro": [
+          "Valladolid este foarte cald vara, folosiți siesta pentru vizitarea muzeelor.",
+          "Cele mai multe obiective turistice sunt ușor accesibile pe jos.",
+          "Gustați vinurile din regiunea Ribera del Duero."
+        ],
+        "en": [
+          "Valladolid is very hot in summer; use the siesta time for museum visits.",
+          "Most sights are easily accessible on foot.",
+          "Try the wines from the Ribera del Duero region."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Academia de Caballería",
+            "hu": "Lovassági Akadémia",
+            "ro": "Academia de Cavalerie",
+            "en": "Academia de Caballería"
+          },
+          "coords": [
+            -4.7295,
+            41.6495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Imposantes Gebäude am Rande des Parks.",
+            "hu": "Impozáns épület a park szélén.",
+            "ro": "Clădire impunătoare la marginea parcului.",
+            "en": "Imposing building at the edge of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cervantes",
+            "hu": "Cervantes háza",
+            "ro": "Casa lui Cervantes",
+            "en": "Casa de Cervantes"
+          },
+          "coords": [
+            -4.7258,
+            41.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Literaturfans.",
+            "hu": "Csendes hely az irodalom kedvelőinek.",
+            "ro": "Un loc liniștit pentru fanii literaturii.",
+            "en": "A quiet place for literature fans."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -4.7285,
+            41.6523
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe der Statue ab.",
+            "hu": "Parkolja le a biciklit a szobor közelében.",
+            "ro": "Parcați bicicleta lângă statuie.",
+            "en": "Park your bike near the statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de Valladolid",
+            "hu": "Valladolidi székesegyház",
+            "ro": "Catedrala din Valladolid",
+            "en": "Valladolid Cathedral"
+          },
+          "coords": [
+            -4.7248,
+            41.6526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Herreras unvollendetes Werk.",
+            "hu": "Herrera befejezetlen műve.",
+            "ro": "Opera neterminată a lui Herrera.",
+            "en": "Herrera's unfinished work."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Pablo",
+            "hu": "Szent Pál-templom",
+            "ro": "Biserica San Pablo",
+            "en": "Iglesia de San Pablo"
+          },
+          "coords": [
+            -4.7238,
+            41.6575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Details an der Fassade suchen.",
+            "hu": "Keresse az apró részleteket a homlokzaton.",
+            "ro": "Căutați detaliile de pe fațadă.",
+            "en": "Look for the fine details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nacional de Escultura",
+            "hu": "Nemzeti Szobrászati Múzeum",
+            "ro": "Muzeul Național de Sculptură",
+            "en": "National Museum of Sculpture"
+          },
+          "coords": [
+            -4.7235,
+            41.6578
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eines der besten Museen Spaniens.",
+            "hu": "Spanyolország egyik legjobb múzeuma.",
+            "ro": "Unul dintre cele mai bune muzee din Spania.",
+            "en": "One of the best museums in Spain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pisuerga-Ufer",
+            "hu": "Pisuerga-part",
+            "ro": "Malul râului Pisuerga",
+            "en": "Pisuerga River Bank"
+          },
+          "coords": [
+            -4.735,
+            41.655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie am Fluss entlang.",
+            "hu": "Biciklizzen a folyó mentén.",
+            "ro": "Mergeți cu bicicleta pe malul râului.",
+            "en": "Cycle along the river bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Grande",
+            "hu": "Campo Grande",
+            "ro": "Campo Grande",
+            "en": "Campo Grande"
+          },
+          "coords": [
+            -4.729,
+            41.6475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein grüner Abschluss für die Tour.",
+            "hu": "Zöld lezárása a túrának.",
+            "ro": "O încheiere verde a turului.",
+            "en": "A green finale to the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Valladolid auf zwei Rädern! Von der Kavallerieakademie geht es durch die historische Altstadt zu den gotischen Kirchen im Norden. Genießen Sie eine Fahrt entlang des Flusses Pisuerga, bevor Sie Ihre Tour im weitläufigen Campo Grande Park beenden.",
+        "hu": "Fedezze fel Valladolidot két keréken! A Lovassági Akadémiától indulva a történelmi belvároson át tekerjen az északi gótikus templomokig. Élvezze a Pisuerga folyó menti biciklizést, mielőtt a túrát a tágas Campo Grande parkban fejezné be.",
+        "ro": "Descoperiți Valladolid pe două roți! Plecând de la Academia de Cavalerie, pedalați prin centrul istoric către bisericile gotice din nord. Bucurați-vă de o plimbare pe malul râului Pisuerga înainte de a încheia turul în vastul parc Campo Grande.",
+        "en": "Explore Valladolid on two wheels! Starting from the Cavalry Academy, pedal through the historic center to the Gothic churches in the north. Enjoy a ride along the Pisuerga river before finishing your tour in the spacious Campo Grande park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapas am Pisuerga",
+            "tip": "Erfrischung in einer der Flussbars."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapas a Pisuerga partján",
+            "tip": "Frissítő a folyóparti bárok egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas pe malul Pisuerga",
+            "tip": "O gustare la unul dintre barurile de pe râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapas by the Pisuerga",
+            "tip": "Refreshments at one of the riverside bars."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosaleda de Francisco Sabadell",
+            "tip": "Wunderschöner Rosengarten am Fluss.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francisco Sabadell rózsakert",
+            "tip": "Gyönyörű rózsakert a folyónál.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri Sabadell",
+            "tip": "O grădină superbă de trandafiri lângă râu.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Francisco Sabadell Rose Garden",
+            "tip": "Beautiful rose garden by the river.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Santiago",
+            "tip": "Einkaufsstraße mit Fahrradstellplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Santiago",
+            "tip": "Bevásárlóutca kerékpártárolókkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Santiago",
+            "tip": "Stradă comercială cu parcări pentru biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Santiago",
+            "tip": "Shopping street with bike parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist flach und ideal zum Radfahren.",
+          "Nutzen Sie die Radwege entlang des Flusses."
+        ],
+        "hu": [
+          "A város sík, ideális a biciklizéshez.",
+          "Használja a folyó menti kerékpárutakat."
+        ],
+        "ro": [
+          "Orașul este plat și ideal pentru ciclism.",
+          "Folosiți pistele de biciclete de-a lungul râului."
+        ],
+        "en": [
+          "The city is flat and ideal for cycling.",
+          "Use the bike paths along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "San Pablo (Cluster Nord)",
+            "hu": "Szent Pál (Északi klaszter)",
+            "ro": "San Pablo (Cluster Nord)",
+            "en": "San Pablo (North Cluster)"
+          },
+          "coords": [
+            -4.7238,
+            41.6575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Plaza de San Pablo.",
+            "hu": "Parkoljon a Plaza de San Pablo-n.",
+            "ro": "Parcați în Plaza de San Pablo.",
+            "en": "Park at Plaza de San Pablo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Escultura",
+            "hu": "Szobrászati Múzeum",
+            "ro": "Muzeul de Sculptură",
+            "en": "Sculpture Museum"
+          },
+          "coords": [
+            -4.7235,
+            41.6578
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß vom San Pablo erreichbar.",
+            "hu": "Gyalogosan elérhető a San Pablótól.",
+            "ro": "Accesibil pe jos de la San Pablo.",
+            "en": "Walking distance from San Pablo."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor (Cluster Mitte)",
+            "hu": "Plaza Mayor (Központi klaszter)",
+            "ro": "Plaza Mayor (Cluster Centru)",
+            "en": "Plaza Mayor (Center Cluster)"
+          },
+          "coords": [
+            -4.7285,
+            41.6523
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das unterirdische Parkhaus.",
+            "hu": "Használja a földalatti parkolót.",
+            "ro": "Utilizați parcarea subterană.",
+            "en": "Use the underground parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de Valladolid",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            -4.7248,
+            41.6526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Plaza Mayor.",
+            "hu": "Gyalog a Plaza Mayortól.",
+            "ro": "Pe jos de la Plaza Mayor.",
+            "en": "Walk from Plaza Mayor."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Grande (Cluster Süd)",
+            "hu": "Campo Grande (Déli klaszter)",
+            "ro": "Campo Grande (Cluster Sud)",
+            "en": "Campo Grande (South Cluster)"
+          },
+          "coords": [
+            -4.729,
+            41.6475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Plaza Zorrilla.",
+            "hu": "Parkoljon a Plaza Zorrilla közelében.",
+            "ro": "Parcați lângă Plaza Zorrilla.",
+            "en": "Park near Plaza Zorrilla."
+          }
+        },
+        {
+          "name": {
+            "de": "Academia de Caballería",
+            "hu": "Lovassági Akadémia",
+            "ro": "Academia de Cavalerie",
+            "en": "Academia de Caballería"
+          },
+          "coords": [
+            -4.7295,
+            41.6495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fotostopp an der Fassade.",
+            "hu": "Fotómegálló a homlokzatnál.",
+            "ro": "Oprire pentru fotografii la fațadă.",
+            "en": "Photo stop at the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cervantes",
+            "hu": "Cervantes háza",
+            "ro": "Casa lui Cervantes",
+            "en": "Casa de Cervantes"
+          },
+          "coords": [
+            -4.7258,
+            41.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Campo Grande.",
+            "hu": "Gyalog a Campo Grandétól.",
+            "ro": "Pe jos de la Campo Grande.",
+            "en": "Walk from Campo Grande."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um zwischen den drei Hauptvierteln von Valladolid zu wechseln. Parken Sie im Norden für San Pablo, im Zentrum für den Plaza Mayor und im Süden für den Campo Grande. In jedem Viertel erkunden Sie die Sehenswürdigkeiten bequem zu Fuß.",
+        "hu": "Használja az autót Valladolid három fő negyede közötti közlekedésre. Parkoljon északon San Pablónál, a központban a Plaza Mayornál, délen pedig a Campo Grandénál. Minden negyedben kényelmesen, gyalogosan fedezheti fel a látnivalókat.",
+        "ro": "Folosiți mașina pentru a vă deplasa între cele trei cartiere principale din Valladolid. Parcați în nord pentru San Pablo, în centru pentru Plaza Mayor și în sud pentru Campo Grande. În fiecare cartier, explorați atracțiile pe jos.",
+        "en": "Use the car to move between the three main districts of Valladolid. Park in the north for San Pablo, in the center for Plaza Mayor, and in the south for Campo Grande. In each district, explore the sights comfortably on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Jero",
+            "tip": "Exzellente Tapas-Kombinationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Jero",
+            "tip": "Kiváló tapas kombinációk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Jero",
+            "tip": "Combinații excelente de tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Jero",
+            "tip": "Excellent tapas combinations."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinar de Antequera",
+            "tip": "Ein Pinienwald am Stadtrand (mit dem Auto).",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pinar de Antequera",
+            "tip": "Fenyőerdő a város szélén (autóval).",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pinar de Antequera",
+            "tip": "O pădure de pini la marginea orașului.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pinar de Antequera",
+            "tip": "A pine forest on the outskirts (by car).",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Vallsur",
+            "tip": "Großes Einkaufszentrum mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Vallsur",
+            "tip": "Nagy bevásárlóközpont parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Vallsur",
+            "tip": "Centru comercial mare cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Vallsur",
+            "tip": "Large shopping mall with parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zentrale Parkhäuser sind oft eng.",
+          "Die Ringstraße (Ronda) spart Zeit."
+        ],
+        "hu": [
+          "A központi parkolók gyakran szűkek.",
+          "A körgyűrű (Ronda) időt takarít meg."
+        ],
+        "ro": [
+          "Parcările centrale sunt adesea înguste.",
+          "Centura (Ronda) economisește timp."
+        ],
+        "en": [
+          "Central parking garages are often narrow.",
+          "The ring road (Ronda) saves time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -4.7285,
+            41.6523
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt vieler Buslinien.",
+            "hu": "Számos buszjárat központi csomópontja.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral",
+            "hu": "Székesegyház",
+            "ro": "Catedrala",
+            "en": "Cathedral"
+          },
+          "coords": [
+            -4.7248,
+            41.6526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Platz.",
+            "hu": "Rövid séta a térről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pablo",
+            "hu": "Szent Pál",
+            "ro": "San Pablo",
+            "en": "San Pablo"
+          },
+          "coords": [
+            -4.7238,
+            41.6575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie 2 oder 8 Richtung Norden.",
+            "hu": "2-es vagy 8-as busz észak felé.",
+            "ro": "Autobuzul 2 sau 8 spre nord.",
+            "en": "Bus line 2 or 8 heading north."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Escultura",
+            "hu": "Szobrászati Múzeum",
+            "ro": "Muzeul de Sculptură",
+            "en": "Sculpture Museum"
+          },
+          "coords": [
+            -4.7235,
+            41.6578
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eingang direkt um die Ecke.",
+            "hu": "Bejárat közvetlenül a sarkon.",
+            "ro": "Intrarea este chiar după colț.",
+            "en": "Entrance is just around the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Grande",
+            "hu": "Campo Grande",
+            "ro": "Campo Grande",
+            "en": "Campo Grande"
+          },
+          "coords": [
+            -4.729,
+            41.6475
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum/Süden.",
+            "hu": "Szálljon buszra vissza a központ/dél felé.",
+            "ro": "Luați autobuzul înapoi spre centru/sud.",
+            "en": "Take the bus back towards the center/south."
+          }
+        },
+        {
+          "name": {
+            "de": "Academia de Caballería",
+            "hu": "Lovassági Akadémia",
+            "ro": "Academia de Cavalerie",
+            "en": "Academia de Caballería"
+          },
+          "coords": [
+            -4.7295,
+            41.6495
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nahe der Haltestelle Plaza Zorrilla.",
+            "hu": "Közel a Plaza Zorrilla megállóhoz.",
+            "ro": "Lângă stația Plaza Zorrilla.",
+            "en": "Near the Plaza Zorrilla stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cervantes",
+            "hu": "Cervantes háza",
+            "ro": "Casa lui Cervantes",
+            "en": "Casa de Cervantes"
+          },
+          "coords": [
+            -4.7258,
+            41.6488
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss in der Nähe.",
+            "hu": "Szép befejezés a közelben.",
+            "ro": "O încheiere frumoasă în apropiere.",
+            "en": "A nice finish nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bussystem von Valladolid (Auvasa) ist effizient. Beginnen Sie im Zentrum, nehmen Sie den Bus nach Norden zum Skulpturenmuseum und fahren Sie dann südlich zum entspannenden Campo Grande. Die App 'Auvasa' hilft Ihnen bei den Zeiten.",
+        "hu": "Valladolid buszhálózata (Auvasa) hatékony. Kezdjen a központban, busszal menjen északra a szobrászati múzeumhoz, majd utazzon délre a Campo Grande parkhoz. Az 'Auvasa' alkalmazás segít a menetrendben.",
+        "ro": "Sistemul de autobuze din Valladolid (Auvasa) este eficient. Începeți în centru, luați autobuzul spre nord către muzeul de sculptură și apoi călătoriți spre sud către relaxantul Campo Grande. Aplicația 'Auvasa' vă ajută cu orarul.",
+        "en": "Valladolid's bus system (Auvasa) is efficient. Start in the center, take a bus north to the sculpture museum, and then travel south to the relaxing Campo Grande. The 'Auvasa' app helps with scheduling."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercado del Val",
+            "tip": "Moderne Markthalle mit tollen Tapas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado del Val",
+            "tip": "Modern piaccsarnok remek tapasokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado del Val",
+            "tip": "Piață modernă cu tapas grozave."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado del Val",
+            "tip": "Modern market hall with great tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monasterio de San Benito",
+            "tip": "Ruhiger Innenhof nahe dem Zentrum.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Benito kolostor",
+            "tip": "Csendes belső udvar a központ közelében.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea San Benito",
+            "tip": "Curte interioară liniștită lângă centru.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Benito Monastery",
+            "tip": "Quiet inner courtyard near the center.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle Mantería",
+            "tip": "Beliebte Einkaufsstraße der Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle Mantería",
+            "tip": "A helyiek kedvelt bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle Mantería",
+            "tip": "Stradă comercială populară printre localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle Mantería",
+            "tip": "Popular shopping street among locals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Zehner-Ticket (Bonobús).",
+          "Die Linien 1, 2 und 8 decken die meisten Ziele ab."
+        ],
+        "hu": [
+          "Vegyen tízes gyűjtőjegyet (Bonobús).",
+          "Az 1-es, 2-es és 8-as vonalak érintik a legtöbb helyet."
+        ],
+        "ro": [
+          "Cumpărați un bilet cu zece călătorii (Bonobús).",
+          "Liniile 1, 2 și 8 acoperă majoritatea destinațiilor."
+        ],
+        "en": [
+          "Buy a ten-trip ticket (Bonobús).",
+          "Lines 1, 2, and 8 cover most destinations."
+        ]
+      }
+    }
+  }
+}

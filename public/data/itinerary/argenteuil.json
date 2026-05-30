@@ -1,0 +1,898 @@
+{
+  "city_id": "argenteuil",
+  "anchor": {
+    "name": "Argenteuil",
+    "coords": [
+      2.2469,
+      48.947
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Basilique Saint-Denys",
+          "coords": [
+            2.2519,
+            48.9447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Tunika Christi, eine der wichtigsten Reliquien Frankreichs.",
+            "hu": "Csodálja meg Krisztus tunikáját, Franciaország egyik legfontosabb ereklyéjét.",
+            "ro": "Admirați tunica lui Hristos, una dintre cele mai importante relicve din Franța.",
+            "en": "Admire the Tunic of Christ, one of the most important relics in France."
+          }
+        },
+        {
+          "name": "Chapelle Saint-Jean-Baptiste",
+          "coords": [
+            2.2525,
+            48.945
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel romanischer Architektur im Schatten der Basilika.",
+            "hu": "A román építészet rejtett ékköve a bazilika árnyékában.",
+            "ro": "O bijuterie ascunsă a arhitecturii romanice în umbra basilicii.",
+            "en": "A hidden gem of Romanesque architecture in the shadow of the basilica."
+          }
+        },
+        {
+          "name": "Musée d'Argenteuil",
+          "coords": [
+            2.2515,
+            48.9461
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Geschichte und die Zeit der Impressionisten.",
+            "hu": "Ismerje meg a helyi történelmet és az impresszionisták korszakát.",
+            "ro": "Aflați mai multe despre istoria locală și epoca impresioniștilor.",
+            "en": "Learn more about local history and the era of the Impressionists."
+          }
+        },
+        {
+          "name": "Maison de Claude Monet",
+          "coords": [
+            2.2533,
+            48.943
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus, in dem Monet einige seiner berühmtesten Werke malte.",
+            "hu": "Látogasson el a házba, ahol Monet leghíresebb művei közül többet festett.",
+            "ro": "Vizitați casa unde Monet a pictat unele dintre cele mai celebre opere ale sale.",
+            "en": "Visit the house where Monet painted some of his most famous works."
+          }
+        },
+        {
+          "name": "Parc des Berges",
+          "coords": [
+            2.256,
+            48.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie am Seine-Ufer entlang, genau wie die Maler des 19. Jahrhunderts.",
+            "hu": "Sétáljon a Szajna-parton, akárcsak a 19. századi festők.",
+            "ro": "Plimbați-vă pe malul Senei, exact ca pictorii din secolul al XIX-lea.",
+            "en": "Stroll along the Seine banks, just like the 19th-century painters."
+          }
+        },
+        {
+          "name": "Église Sainte-Bernadette",
+          "coords": [
+            2.26,
+            48.948
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Beispiel für moderne Sakralarchitektur im Herzen des Viertels.",
+            "hu": "A modern szakrális építészet példája a negyed szívében.",
+            "ro": "Un exemplu de arhitectură sacră modernă în inima cartierului.",
+            "en": "An example of modern sacred architecture in the heart of the district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Argenteuil mit der Basilika Saint-Denys. Nach einem Besuch des lokalen Museums erkunden Sie das Erbe von Claude Monet in seinem ehemaligen Wohnhaus. Der Nachmittag lädt zu einem entspannten Spaziergang am Ufer der Seine ein, wo die Lichtverhältnisse schon die Impressionisten verzauberten. Den Abschluss bildet die moderne Kirche Sainte-Bernadette.",
+        "hu": "Kezdje a napot Argenteuil történelmi szívében a Szent Dénes-bazilikával. A helyi múzeum megtekintése után fedezze fel Claude Monet örökségét egykori lakóházában. A délután pihentető sétára hív a Szajna-parton, ahol a fények egykor az impresszionistákat is megihlették. A napot a modern Szent Bernadette-templom látogatásával zárjuk.",
+        "ro": "Începeți ziua în inima istorică a Argenteuil-ului cu Basilica Saint-Denys. După o vizită la muzeul local, explorați moștenirea lui Claude Monet în fosta sa casă. După-amiaza vă invită la o plimbare relaxantă pe malul Senei, unde jocurile de lumină i-au fermecat odinioară pe impresioniști. Încheiați cu vizitarea bisericii moderne Sainte-Bernadette.",
+        "en": "Start your day in the historical heart of Argenteuil with the Basilica of Saint-Denys. After visiting the local museum, explore Claude Monet's legacy in his former residence. The afternoon invites you for a relaxing stroll along the Seine banks, where the light once enchanted the Impressionists. Conclude your tour with the modern Sainte-Bernadette church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot d'Argenteuil",
+            "tip": "Probieren Sie die klassische Ente à l'Orange."
+          },
+          {
+            "name": "Le Moulin d'Orgemont Restaurant",
+            "tip": "Panoramablick bei französischer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistrot d'Argenteuil",
+            "tip": "Kóstolja meg a klasszikus narancsos kacsát."
+          },
+          {
+            "name": "Le Moulin d'Orgemont Restaurant",
+            "tip": "Panorámás kilátás francia konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrot d'Argenteuil",
+            "tip": "Încercați clasica rață cu portocale."
+          },
+          {
+            "name": "Le Moulin d'Orgemont Restaurant",
+            "tip": "Vedere panoramică și bucătărie franceză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot d'Argenteuil",
+            "tip": "Try the classic duck à l'orange."
+          },
+          {
+            "name": "Le Moulin d'Orgemont Restaurant",
+            "tip": "Panoramic view with French cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade der Seine",
+            "tip": "Ein ruhiger Ort für Reflexion.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Maison Monet",
+            "tip": "Blühende Inspiration pur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szajna-parti sétány",
+            "tip": "Csendes hely az elmélkedéshez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Maison Monet",
+            "tip": "Virágzó ihlet forrása.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe malul Senei",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Maison Monet",
+            "tip": "Inspirație pură în floare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seine Promenade",
+            "tip": "A quiet spot for reflection.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Maison Monet",
+            "tip": "Pure blooming inspiration.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché d'Argenteuil",
+            "tip": "Frische lokale Produkte am Markttag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché d'Argenteuil",
+            "tip": "Friss helyi termékek a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché d'Argenteuil",
+            "tip": "Produse locale proaspete în zilele de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché d'Argenteuil",
+            "tip": "Fresh local products on market days."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Uferweg.",
+          "Die Basilika ist mittags oft geschlossen.",
+          "Buchen Sie Monet's Haus im Voraus online.",
+          "Achten Sie auf die Infotafeln zur Malerei am Fluss."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parti sétához.",
+          "A bazilika délidőben gyakran zárva tart.",
+          "Monet házát foglalja le előre online.",
+          "Figyelje a folyóparti festészeti információs táblákat."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumul pe malul apei.",
+          "Basilica este adesea închisă la prânz.",
+          "Rezervați casa lui Monet în avans online.",
+          "Urmăriți panourile informative despre pictură de-a lungul râului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the riverside path.",
+          "The basilica is often closed during lunchtime.",
+          "Book Monet's house in advance online.",
+          "Look for the painting information boards along the river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Basilique Saint-Denys",
+          "coords": [
+            2.2519,
+            48.9447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Haupteingang.",
+            "hu": "Kerékpártároló közvetlenül a főbejáratnál.",
+            "ro": "Suport de biciclete direct în fața intrării principale.",
+            "en": "Bike racks right in front of the main entrance."
+          }
+        },
+        {
+          "name": "Musée d'Argenteuil",
+          "coords": [
+            2.2515,
+            48.9461
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Stadtzentrum.",
+            "hu": "Rövid megálló a városközpontban.",
+            "ro": "Scurtă oprire în centrul orașului.",
+            "en": "Short stop in the city center."
+          }
+        },
+        {
+          "name": "Moulin d'Orgemont",
+          "coords": [
+            2.2345,
+            48.9515
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für den Blick über Paris.",
+            "hu": "A kaptató megéri a Párizsra nyíló kilátásért.",
+            "ro": "Urcarea merită pentru vederea asupra Parisului.",
+            "en": "The climb is worth it for the view over Paris."
+          }
+        },
+        {
+          "name": "Maison de Claude Monet",
+          "coords": [
+            2.2533,
+            48.943
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sichere Abstellmöglichkeiten im Hof.",
+            "hu": "Biztonságos tárolás az udvarban.",
+            "ro": "Posibilități sigure de parcare în curte.",
+            "en": "Safe parking options in the courtyard."
+          }
+        },
+        {
+          "name": "Parc des Berges",
+          "coords": [
+            2.256,
+            48.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekte Radwege direkt am Wasser.",
+            "hu": "Tökéletes kerékpárutak közvetlenül a vízparton.",
+            "ro": "Piste de biciclete perfecte direct pe malul apei.",
+            "en": "Perfect bike paths right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Argenteuil am effizientesten. Nach der Basilika führt der Weg hinauf zum Moulin d'Orgemont für ein Panorama über das Pariser Becken. Danach rollen Sie entspannt hinunter zum Monet-Haus und beenden die Tour auf den ausgebauten Radwegen entlang der Seine.",
+        "hu": "Kerékpárral fedezheti fel a leghatékonyabban Argenteuilt. A bazilika után az út felvezet a Moulin d'Orgemont-hoz a párizsi medence panorámájáért. Ezután guruljon le a Monet-házhoz, és fejezze be a túrát a Szajna menti kiépített kerékpárutakon.",
+        "ro": "Cu bicicleta explorați Argenteuil cel mai eficient. După basilică, drumul duce sus la Moulin d'Orgemont pentru o panoramă asupra bazinului parizian. Apoi coborâți relaxat spre casa lui Monet și încheiați turul pe pistele de biciclete amenajate de-a lungul Senei.",
+        "en": "Cycling is the most efficient way to explore Argenteuil. After the basilica, the path leads up to Moulin d'Orgemont for a panorama over the Paris basin. Then roll down to Monet's house and finish the tour on the well-developed bike paths along the Seine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Au Moulin d'Orgemont",
+            "tip": "Snack-Pause mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Au Moulin d'Orgemont",
+            "tip": "Snack szünet kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Au Moulin d'Orgemont",
+            "tip": "Gustare cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Au Moulin d'Orgemont",
+            "tip": "Snack break with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Butte d'Orgemont",
+            "tip": "Grüne Oase über der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butte d'Orgemont",
+            "tip": "Zöld oázis a város felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Butte d'Orgemont",
+            "tip": "Oază verde deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Butte d'Orgemont",
+            "tip": "Green oasis above the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atelier-Shop Monet",
+            "tip": "Reproduktionen und Kunstbücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atelier-Shop Monet",
+            "tip": "Reprodukciók és művészeti könyvek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelier-Shop Monet",
+            "tip": "Reproduceri și cărți de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atelier-Shop Monet",
+            "tip": "Reproductions and art books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor der Abfahrt vom Hügel.",
+          "Der Weg am Fluss ist flach und sehr angenehm."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a dombról való lejövetel előtt.",
+          "A folyóparti út sík és nagyon kellemes."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de pe deal.",
+          "Drumul pe malul râului este plat și foarte plăcut."
+        ],
+        "en": [
+          "Check your brakes before descending from the hill.",
+          "The riverside path is flat and very pleasant."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Basilique Saint-Denys",
+          "coords": [
+            2.2519,
+            48.9447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Centre-Ville.",
+            "hu": "Parkoljon a belvárosi parkolóházban.",
+            "ro": "Parcați în parcarea etajată din centru.",
+            "en": "Park in the city center parking garage."
+          }
+        },
+        {
+          "name": "Musée d'Argenteuil",
+          "coords": [
+            2.2515,
+            48.9461
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz der Basilika.",
+            "hu": "Gyalogosan elérhető a bazilika parkolójától.",
+            "ro": "Accesibil pe jos de la parcarea basilicii.",
+            "en": "Walkable from the basilica parking."
+          }
+        },
+        {
+          "name": "Moulin d'Orgemont",
+          "coords": [
+            2.2345,
+            48.9515
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Einfache Anfahrt über die Anhöhe.",
+            "hu": "Könnyű megközelítés a dombtetőn keresztül.",
+            "ro": "Acces facil prin partea de sus a dealului.",
+            "en": "Easy access via the hilltop."
+          }
+        },
+        {
+          "name": "Maison de Claude Monet",
+          "coords": [
+            2.2533,
+            48.943
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken in der Nähe des Bahnhofs möglich.",
+            "hu": "Parkolás a vasútállomás közelében lehetséges.",
+            "ro": "Parcare posibilă în apropierea gării.",
+            "en": "Parking possible near the train station."
+          }
+        },
+        {
+          "name": "Parc des Berges",
+          "coords": [
+            2.256,
+            48.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Abfahrt.",
+            "hu": "Rövid megálló az indulás előtt.",
+            "ro": "Scurtă oprire înainte de plecare.",
+            "en": "Short stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour kombiniert das historische Zentrum mit den Außenbezirken. Cluster A umfasst die Basilika und das Museum. Danach fahren Sie zum Moulin d'Orgemont für den besten Ausblick, bevor Sie das Monet-Viertel im Süden besuchen.",
+        "hu": "Az autós túra ötvözi a történelmi központot a külvárosi részekkel. Az A-csoport magában foglalja a bazilikát és a múzeumot. Ezután hajtson a Moulin d'Orgemont-hoz a legjobb kilátásért, mielőtt meglátogatná a déli Monet-negyedet.",
+        "ro": "Turul cu mașina combină centrul istoric cu zonele periferice. Clusterul A cuprinde basilica și muzeul. Apoi conduceți la Moulin d'Orgemont pentru cea mai bună priveliște, înainte de a vizita cartierul Monet din sud.",
+        "en": "The car tour combines the historical center with the outskirts. Cluster A includes the basilica and the museum. Then drive to Moulin d'Orgemont for the best view before visiting the Monet district in the south."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Avenue",
+            "tip": "Moderne Küche mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Avenue",
+            "tip": "Modern konyha parkolási lehetőséggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Avenue",
+            "tip": "Bucătărie modernă cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Avenue",
+            "tip": "Modern cuisine with parking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Butte d'Orgemont Park",
+            "tip": "Viel Platz zum Durchatmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butte d'Orgemont Park",
+            "tip": "Sok hely a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Butte d'Orgemont Park",
+            "tip": "Mult spațiu pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Butte d'Orgemont Park",
+            "tip": "Plenty of space to breathe.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Côté Seine",
+            "tip": "Großes Einkaufszentrum im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Côté Seine",
+            "tip": "Nagy bevásárlóközpont a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Côté Seine",
+            "tip": "Centru comercial mare în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Côté Seine",
+            "tip": "Large shopping mall in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Hauptverkehrszeit Richtung Paris.",
+          "Nutzen Sie das Parkhaus Côté Seine für längere Aufenthalte."
+        ],
+        "hu": [
+          "Kerülje a Párizs felé tartó csúcsforgalmat.",
+          "Hosszabb tartózkodáshoz használja a Côté Seine parkolóházat."
+        ],
+        "ro": [
+          "Evitați orele de vârf spre Paris.",
+          "Folosiți parcarea Côté Seine pentru staționări lungi."
+        ],
+        "en": [
+          "Avoid rush hour traffic towards Paris.",
+          "Use the Côté Seine parking for longer stays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Basilique Saint-Denys",
+          "coords": [
+            2.2519,
+            48.9447
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Argenteuil in 10 Min zu Fuß erreichbar.",
+            "hu": "Az Argenteuil állomástól 10 perc gyalog.",
+            "ro": "La 10 minute de mers pe jos de la gara Argenteuil.",
+            "en": "A 10-minute walk from Argenteuil station."
+          }
+        },
+        {
+          "name": "Musée d'Argenteuil",
+          "coords": [
+            2.2515,
+            48.9461
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg im Zentrum.",
+            "hu": "Gyalogút a központban.",
+            "ro": "Traseu pietonal în centru.",
+            "en": "Walking path in the center."
+          }
+        },
+        {
+          "name": "Maison de Claude Monet",
+          "coords": [
+            2.2533,
+            48.943
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Direkt in der Nähe des Bahnhofs.",
+            "hu": "Közvetlenül a vasútállomás közelében.",
+            "ro": "Direct în apropierea gării.",
+            "en": "Right near the train station."
+          }
+        },
+        {
+          "name": "Parc des Berges",
+          "coords": [
+            2.256,
+            48.941
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Buslinie 9 in Richtung Seine-Ufer.",
+            "hu": "9-es busz a Szajna-part felé.",
+            "ro": "Linia de autobuz 9 spre malul Senei.",
+            "en": "Bus line 9 towards the Seine banks."
+          }
+        },
+        {
+          "name": "Moulin d'Orgemont",
+          "coords": [
+            2.2345,
+            48.9515
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie 4 bis 'Moulin'.",
+            "hu": "4-es busz 'Moulin' megállóig.",
+            "ro": "Linia de autobuz 4 până la 'Moulin'.",
+            "en": "Bus line 4 to 'Moulin'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz und die gute Bahnanbindung. Starten Sie an der Basilika und besuchen Sie das Monet-Haus, bevor Sie mit dem Bus zum Moulin d'Orgemont fahren, um den Sonnenuntergang über Paris zu beobachten.",
+        "hu": "Használja ki a sűrű buszhálózatot és a jó vasúti összeköttetést. Kezdje a bazilikánál, látogassa meg a Monet-házat, majd busszal menjen fel a Moulin d'Orgemont-hoz, hogy megtekintse a naplementét Párizs felett.",
+        "ro": "Profită de rețeaua densă de autobuze și de legătura feroviară bună. Începe la basilică și vizitează casa lui Monet, înainte de a merge cu autobuzul la Moulin d'Orgemont pentru a vedea apusul peste Paris.",
+        "en": "Take advantage of the dense bus network and good rail connections. Start at the basilica and visit Monet's house before taking the bus up to Moulin d'Orgemont to watch the sunset over Paris."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Rotonde",
+            "tip": "In der Nähe des Bahnhofs, ideal für Transit-Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Rotonde",
+            "tip": "A vasútállomás közelében, ideális átutazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Rotonde",
+            "tip": "Aproape de gară, ideal pentru călătorii cu transportul în comun."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Rotonde",
+            "tip": "Near the station, ideal for transit travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Kleine Pause im Stadtgarten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Kis pihenő a városi kertben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Mică pauză în grădina orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Small break in the city garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue Gabriel Péri",
+            "tip": "Haupteinkaufsstraße mit vielen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue Gabriel Péri",
+            "tip": "Fő bevásárlóutca sok üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue Gabriel Péri",
+            "tip": "Principala stradă comercială cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue Gabriel Péri",
+            "tip": "Main shopping street with many shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Zone 4.",
+          "Nutzen Sie die App der RATP für Echtzeit-Abfahrten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a 4-es zónába.",
+          "Használja az RATP alkalmazást a valós idejű indulásokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona 4.",
+          "Folosiți aplicația RATP pentru plecări în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for zone 4.",
+          "Use the RATP app for real-time departures."
+        ]
+      }
+    }
+  }
+}

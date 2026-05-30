@@ -1,0 +1,1004 @@
+{
+  "city_id": "annaberg-buchholz-extra",
+  "anchor": {
+    "name": "Marktplatz Annaberg-Buchholz",
+    "coords": [
+      13.0016,
+      50.5794
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            13.0016,
+            50.5794
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Bürgerhäuser rund um den Platz.",
+            "hu": "Csodálja meg a teret övező történelmi polgárházakat.",
+            "ro": "Admirați casele istorice din jurul pieței centrale.",
+            "en": "Admire the historic townhouse architecture around the square."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Annenkirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sf. Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            13.0038,
+            50.5789
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Bergaltar zeigt Szenen aus dem Leben der Bergleute.",
+            "hu": "A bányászoltár a helyi élet jeleneteit mutatja be.",
+            "ro": "Altarul minerilor înfățișează scene din viața locală.",
+            "en": "The miners' altar depicts scenes from the local mining life."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktur der Träume",
+            "hu": "Álmok Manufaktúrája",
+            "ro": "Manufactura Viselor",
+            "en": "Factory of Dreams"
+          },
+          "coords": [
+            13.0031,
+            50.5798
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt der erzgebirgischen Spielzeugkunst.",
+            "hu": "Merüljön el az érchegységi játékkészítés világában.",
+            "ro": "Explorați lumea fascinantă a jucăriilor din regiune.",
+            "en": "Dive into the world of Ore Mountain toy craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergkirche St. Marien",
+            "hu": "Szent Mária-bányásztemplom",
+            "ro": "Biserica Minerilor Sf. Maria",
+            "en": "St. Mary's Miners' Church"
+          },
+          "coords": [
+            13.0018,
+            50.5791
+          ],
+          "category": "churches",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine einzigartige Kirche, die ausschließlich den Bergleuten gewidmet ist.",
+            "hu": "Egy különleges templom, amelyet kizárólag a bányászoknak szenteltek.",
+            "ro": "O biserică unică dedicată în întregime minerilor.",
+            "en": "A unique church dedicated exclusively to the miners."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzgebirgsmuseum mit Besucherbergwerk",
+            "hu": "Érchegységi Múzeum és Látogatóbánya",
+            "ro": "Muzeul Munților Metaliferi",
+            "en": "Ore Mountain Museum & Mine"
+          },
+          "coords": [
+            13.0005,
+            50.5796
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Silberstollen direkt unter dem Museum.",
+            "hu": "Látogasson el a múzeum alatti ezüstbányába.",
+            "ro": "Vizitați galeria de argint aflată direct sub muzeu.",
+            "en": "Visit the silver gallery located directly beneath the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Adam-Ries-Museum",
+            "hu": "Adam Ries Múzeum",
+            "ro": "Muzeul Adam Ries",
+            "en": "Adam Ries Museum"
+          },
+          "coords": [
+            13.0001,
+            50.5802
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Lernen Sie Rechnen wie der berühmte Adam Ries.",
+            "hu": "Tanuljon meg számolni a híres Adam Ries módszerével.",
+            "ro": "Învățați aritmetica după metoda celebrului Adam Ries.",
+            "en": "Learn arithmetic following the method of famous Adam Ries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein klassischer Rundgang durch das historische Herz von Annaberg. Der Vormittag ist der beeindruckenden St. Annenkirche und der Handwerkskunst gewidmet. Nach einem Mittagessen am Marktplatz erkunden Sie die tief verwurzelte Bergbaugeschichte in der Bergkirche und dem Stadtmuseum. Der Tag endet im Haus des berühmten Rechenmeisters Adam Ries, wo Geschichte lebendig wird.",
+        "hu": "Klasszikus séta Annaberg történelmi szívében. A délelőttöt a lenyűgöző Szent Anna-templomnak és a helyi kézművességnek szenteljük. A Piactéren elköltött ebéd után a bányászati múltat fedezzük fel a bányásztemplomban és a városi múzeumban. A napot a híres matematikus, Adam Ries házában zárjuk, ahol megelevenedik a történelem.",
+        "ro": "Un tur clasic prin inima istorică a orașului Annaberg. Dimineața este dedicată impresionantei biserici Sf. Ana și artei meșteșugărești locale. După un prânz în Piața Mare, explorați istoria mineritului la Biserica Minerilor și la muzeul orașului. Ziua se încheie la casa celebrului matematician Adam Ries, unde istoria prinde viață.",
+        "en": "A classic tour through the historic heart of Annaberg. The morning is dedicated to the impressive St. Anne's Church and local craftsmanship. After lunch at the Market Square, explore the deep mining history at the Miners' Church and the town museum. The day concludes at the house of the famous master of arithmetic, Adam Ries, where history comes alive."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haus am Markt",
+            "tip": "Probieren Sie erzgebirgische Grüne Klöße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haus am Markt",
+            "tip": "Kóstolja meg az érchegységi zöld gombócot (Grüne Klöße)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haus am Markt",
+            "tip": "Încercați găluștele verzi tradiționale (Grüne Klöße)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haus am Markt",
+            "tip": "Try the traditional Ore Mountain green dumplings (Grüne Klöße)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchgarten St. Annen",
+            "tip": "Ein ruhiger Ort für eine kurze Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Anna kert",
+            "tip": "Csendes hely egy rövid pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii Sf. Ana",
+            "tip": "Un loc liniștit pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Anne's Church Garden",
+            "tip": "A quiet spot for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Annaberger Klöppelstube",
+            "tip": "Traditionelle Spitzenkunst aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Annaberger Klöppelstube",
+            "tip": "Hagyományos csipkeverés a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Annaberger Klöppelstube",
+            "tip": "Dantelărie tradițională realizată local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Annaberger Klöppelstube",
+            "tip": "Traditional lace-making art from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt recht steil ist.",
+          "Achten Sie auf die Öffnungszeiten des Besucherbergwerks."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az óváros elég meredek.",
+          "Figyeljen a látogatóbánya nyitvatartási idejére."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece orașul vechi este destul de abrupt.",
+          "Verificați programul de vizitare a minei."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town is quite steep.",
+          "Check the opening hours of the visitor mine in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            13.0016,
+            50.5794
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Kiindulópont a központban.",
+            "ro": "Punctul de plecare din centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Annenkirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sf. Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            13.0038,
+            50.5789
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrrad draußen sicher anschließen.",
+            "hu": "Zárja le biztonságosan a biciklit odakint.",
+            "ro": "Asigurați bicicleta în siguranță afară.",
+            "en": "Lock your bike securely outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Frohnauer Hammer",
+            "hu": "Frohnaui pöröly",
+            "ro": "Ciocanul din Frohnau",
+            "en": "Frohnauer Hammer"
+          },
+          "coords": [
+            12.9868,
+            50.5794
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Historisches Hammerwerk mit Wasserkraft.",
+            "hu": "Történelmi hámormű vízi erővel.",
+            "ro": "Fierăstrău hidraulic istoric.",
+            "en": "Historic hammer mill powered by water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pöhlberg",
+            "hu": "Pöhlberg-hegy",
+            "ro": "Muntele Pöhlberg",
+            "en": "Pöhlberg Mountain"
+          },
+          "coords": [
+            13.0333,
+            50.5745
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg mit toller Aussicht.",
+            "hu": "Kihívást jelentő emelkedő remek kilátással.",
+            "ro": "Urcare solicitantă cu o priveliște superbă.",
+            "en": "Challenging climb rewarded with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzgebirgsmuseum",
+            "hu": "Érchegységi Múzeum",
+            "ro": "Muzeul Munților Metaliferi",
+            "en": "Ore Mountain Museum"
+          },
+          "coords": [
+            13.0005,
+            50.5796
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Abschluss der Tour in der Altstadt.",
+            "hu": "A túra lezárása az óvárosban.",
+            "ro": "Finalul turului în orașul vechi.",
+            "en": "Ending the tour in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine sportliche Tour, die Stadtgeschichte mit Natur verbindet. Nach den kulturellen Highlights im Zentrum radeln Sie zum historischen Frohnauer Hammer. Der Höhepunkt ist die Fahrt auf den Pöhlberg, von dem aus Sie das gesamte Erzgebirge überblicken können. Die Abfahrt zurück in die Stadt ist eine belohnende Entspannung zum Abschluss.",
+        "hu": "Sportos túra, amely ötvözi a városi történelmet a természettel. A központi kulturális látnivalók után a történelmi Frohnaui hámorhoz kerekezünk. A fénypont a Pöhlberg megmászása, ahonnan belátni az egész Érchegységet. A városba való visszaereszkedés jutalomjáték a nap végén.",
+        "ro": "Un tur sportiv care îmbină istoria orașului cu natura. După punctele de interes cultural din centru, pedalați spre istoricul Frohnauer Hammer. Punctul culminant este urcarea pe muntele Pöhlberg, de unde puteți vedea întregul lanț muntos. Coborârea înapoi în oraș este o relaxare binemeritată la final.",
+        "en": "A sporty tour combining urban history with nature. After cultural highlights in the center, cycle to the historic Frohnauer Hammer. The highlight is the ride up Pöhlberg, offering a panoramic view of the Ore Mountains. The downhill ride back to town is a rewarding finish to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pöhlbergbaude",
+            "tip": "Rustikale Einkehr auf dem Gipfel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pöhlbergbaude",
+            "tip": "Rusztikus vendéglő a csúcson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pöhlbergbaude",
+            "tip": "Popas rustic în vârful muntelui."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pöhlbergbaude",
+            "tip": "Rustic stop at the mountain peak."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm Pöhlberg",
+            "tip": "Panoramablick über die Berge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pöhlberg kilátó",
+            "tip": "Panoráma a hegyekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul de observație Pöhlberg",
+            "tip": "Vedere panoramică peste munți.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pöhlberg Observation Tower",
+            "tip": "Panoramic view over the mountains.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Kleine Bergbau-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Apró bányász szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Suveniruri miniere mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Small mining-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Stellen Sie sich auf starke Steigungen ein (E-Bike empfohlen).",
+          "Kontrollieren Sie vor der Abfahrt Ihre Bremsen."
+        ],
+        "hu": [
+          "Készüljön fel meredek szakaszokra (E-bike ajánlott).",
+          "Ellenőrizze a fékeit a lejtő előtt."
+        ],
+        "ro": [
+          "Pregătiți-vă pentru pante abrupte (recomandat e-bike).",
+          "Verificați frânele înainte de coborâre."
+        ],
+        "en": [
+          "Be prepared for steep inclines (e-bike recommended).",
+          "Check your brakes before the downhill descent."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            13.0016,
+            50.5794
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Altstadt.",
+            "hu": "Parkoljon az óvárosi parkolóházban.",
+            "ro": "Parcați în garajul din centrul vechi.",
+            "en": "Park in the Old Town parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Annenkirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sf. Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            13.0038,
+            50.5789
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur 5 Min. Fußweg vom Parkhaus.",
+            "hu": "Csak 5 perc séta a parkolóháztól.",
+            "ro": "La doar 5 minute de mers de parcare.",
+            "en": "Only a 5-minute walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktur der Träume",
+            "hu": "Álmok Manufaktúrája",
+            "ro": "Manufactura Viselor",
+            "en": "Factory of Dreams"
+          },
+          "coords": [
+            13.0031,
+            50.5798
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für Familien.",
+            "hu": "Ideális családoknak.",
+            "ro": "Ideal pentru familii.",
+            "en": "Ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Frohnauer Hammer",
+            "hu": "Frohnaui pöröly",
+            "ro": "Ciocanul din Frohnau",
+            "en": "Frohnauer Hammer"
+          },
+          "coords": [
+            12.9868,
+            50.5794
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kostenfreier Parkplatz direkt vor Ort.",
+            "hu": "Ingyenes parkoló közvetlenül a helyszínen.",
+            "ro": "Parcare gratuită direct la locație.",
+            "en": "Free parking available directly on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Pöhlberg",
+            "hu": "Pöhlberg-hegy",
+            "ro": "Muntele Pöhlberg",
+            "en": "Pöhlberg Mountain"
+          },
+          "coords": [
+            13.0333,
+            50.5745
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bequem mit dem Auto bis zum Gipfel.",
+            "hu": "Kényelmesen, autóval a csúcsig.",
+            "ro": "Acces ușor cu mașina până în vârf.",
+            "en": "Easy access by car right to the peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergkirche St. Marien",
+            "hu": "Szent Mária-bányásztemplom",
+            "ro": "Biserica Minerilor Sf. Maria",
+            "en": "St. Mary's Miners' Church"
+          },
+          "coords": [
+            13.0018,
+            50.5791
+          ],
+          "category": "churches",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurzer Stopp zurück in der Stadt.",
+            "hu": "Rövid megálló visszafelé a városban.",
+            "ro": "O scurtă oprire la întoarcerea în oraș.",
+            "en": "A short stop on the way back into town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt das Auto, um die verschiedenen Facetten Annabergs effizient zu verbinden. Wir starten in der Altstadt, parken zentral und erkunden den Kern zu Fuß. Danach fahren wir zum technischen Denkmal Frohnauer Hammer und genießen zum Abschluss den Sonnenuntergang auf dem Pöhlberg, der bequem per PKW erreichbar ist.",
+        "hu": "Ez a túra az autót használja Annaberg különböző arcainak hatékony felfedezéséhez. Az óvárosban kezdünk, központi helyen parkolunk, és gyalog járjuk be a magot. Ezután a Frohnaui hámorhoz hajtunk, végül pedig a Pöhlberg-hegyen élvezzük a kilátást, amely kényelmesen elérhető autóval.",
+        "ro": "Acest tur folosește mașina pentru a conecta eficient diversele fațete ale orașului Annaberg. Începem în orașul vechi, parcăm central și explorăm nucleul pe jos. Ulterior, conducem spre monumentul tehnic Frohnauer Hammer și încheiem cu apusul pe muntele Pöhlberg, accesibil ușor cu vehiculul.",
+        "en": "This tour utilizes the car to efficiently connect the various facets of Annaberg. We start in the Old Town, park centrally, and explore the core on foot. Then, we drive to the technical monument Frohnauer Hammer and finish with a sunset on Pöhlberg, which is conveniently accessible by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hotel Wilder Mann",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hotel Wilder Mann",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hotel Wilder Mann",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hotel Wilder Mann",
+            "tip": "Fine dining in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldschlösschen Park",
+            "tip": "Ruhiger Park am Stadtrand.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Waldschlösschen park",
+            "tip": "Csendes park a város szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Waldschlösschen",
+            "tip": "Parc liniștit la marginea orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waldschlösschen Park",
+            "tip": "Quiet park on the edge of town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Erzgebirgskunst Drechsel",
+            "tip": "Große Auswahl an Holzkunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drechsel fafaragó bolt",
+            "tip": "Széles választék faalkotásokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arta Erzgebirge Drechsel",
+            "tip": "O selecție largă de obiecte de artă din lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erzgebirge Art Drechsel",
+            "tip": "Large selection of wooden art pieces."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem in der Innenstadt.",
+          "In der Winterzeit sind Parkplätze oft knapp."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolási jelzőrendszert.",
+          "Télen a parkolóhelyek gyakran telítettek."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare pentru parcare din centru.",
+          "În timpul iernii, locurile de parcare sunt adesea limitate."
+        ],
+        "en": [
+          "Use the parking guidance system in the city center.",
+          "Parking spaces are often scarce during the winter season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof / Marktplatz",
+            "hu": "Buszpályaudvar / Piactér",
+            "ro": "Autogara / Piața Mare",
+            "en": "Bus Station / Market Square"
+          },
+          "coords": [
+            13.0016,
+            50.5794
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Linien.",
+            "hu": "Központi csomópont minden járathoz.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Annenkirche",
+            "hu": "Szent Anna-templom",
+            "ro": "Biserica Sf. Ana",
+            "en": "St. Anne's Church"
+          },
+          "coords": [
+            13.0038,
+            50.5789
+          ],
+          "category": "churches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Markt.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Manufaktur der Träume",
+            "hu": "Álmok Manufaktúrája",
+            "ro": "Manufactura Viselor",
+            "en": "Factory of Dreams"
+          },
+          "coords": [
+            13.0031,
+            50.5798
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Kirche.",
+            "hu": "Nagyon közel a templomhoz.",
+            "ro": "Foarte aproape de biserică.",
+            "en": "Very close to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Frohnauer Hammer",
+            "hu": "Frohnaui pöröly",
+            "ro": "Ciocanul din Frohnau",
+            "en": "Frohnauer Hammer"
+          },
+          "coords": [
+            12.9868,
+            50.5794
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Linie 415 Richtung Frohnau nutzen.",
+            "hu": "Használja a 415-ös buszt Frohnau felé.",
+            "ro": "Folosiți linia 415 în direcția Frohnau.",
+            "en": "Take bus line 415 towards Frohnau."
+          }
+        },
+        {
+          "name": {
+            "de": "Erzgebirgsmuseum",
+            "hu": "Érchegységi Múzeum",
+            "ro": "Muzeul Munților Metaliferi",
+            "en": "Ore Mountain Museum"
+          },
+          "coords": [
+            13.0005,
+            50.5796
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück mit dem Bus zum Zentrum.",
+            "hu": "Vissza busszal a központba.",
+            "ro": "Înapoi cu autobuzul spre centru.",
+            "en": "Return by bus to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Annaberg entspannt mit Bus und Bahn. Das kompakte Zentrum ist ideal zu Fuß erkundbar, während die Außenbezirke wie Frohnau gut durch den Stadtbus angebunden sind. Diese Route kombiniert die wichtigsten Museen und sakralen Bauten ohne Parkplatzsorgen und ist besonders nachhaltig.",
+        "hu": "Fedezze fel Annaberget kényelmesen, busszal és gyalog. A kompakt központ ideális a sétáláshoz, míg a külső részek, mint Frohnau, jól megközelíthetők a helyi járatokkal. Ez az útvonal a legfontosabb múzeumokat és templomokat érinti parkolási gondok nélkül, fenntartható módon.",
+        "ro": "Descoperiți Annaberg relaxat, folosind autobuzul și mersul pe jos. Centrul compact este ideal pentru explorat pietonal, în timp ce cartierele exterioare precum Frohnau sunt bine conectate prin autobuzele urbane. Această rută combină cele mai importante muzee și clădiri sacre fără grija parcării.",
+        "en": "Discover Annaberg in a relaxed way using bus and walking. The compact center is ideal for exploring on foot, while outer districts like Frohnau are well-connected by city bus. This route combines the key museums and sacred buildings without parking worries, in a sustainable way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Bergelt",
+            "tip": "Holen Sie sich einen originalen Stollen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bergelt pékség",
+            "tip": "Vásároljon egy eredeti karácsonyi kalácsot (Stollen)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Bergelt",
+            "tip": "Luați un cozonac local original (Stollen)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bergelt Bakery",
+            "tip": "Get an original local Christmas stollen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Annaberg",
+            "tip": "Grüne Oase im Stadtzentrum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Annabergi Városliget",
+            "tip": "Zöld oázis a városközpontban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Municipal Annaberg",
+            "tip": "Oază de verdeață în centrul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Annaberg City Park",
+            "tip": "Green oasis in the city center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tourist-Information",
+            "tip": "Regionale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourinform iroda",
+            "tip": "Regionális termékek és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Informare Turistică",
+            "tip": "Produse regionale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourist Information",
+            "tip": "Regional products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VMS-App für Echtzeit-Fahrpläne.",
+          "Ein Tagesticket lohnt sich oft ab drei Fahrten."
+        ],
+        "hu": [
+          "Használja a VMS appot a valós idejű menetrendhez.",
+          "A napijegy gyakran már három utazástól megéri."
+        ],
+        "ro": [
+          "Folosiți aplicația VMS pentru orarul în timp real.",
+          "Un bilet de o zi este adesea rentabil de la trei călătorii în sus."
+        ],
+        "en": [
+          "Use the VMS app for real-time schedules.",
+          "A day ticket is often worthwhile after just three rides."
+        ]
+      }
+    }
+  }
+}

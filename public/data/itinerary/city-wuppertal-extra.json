@@ -1,0 +1,1184 @@
+{
+  "city_id": "city-wuppertal-extra",
+  "anchor": {
+    "name": "Wuppertal Hauptbahnhof",
+    "coords": [
+      7.1492,
+      51.2558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historische Stadthalle",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            7.1432,
+            51.2525
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die prachtvolle Neorenaissance-Architektur von 1900.",
+            "hu": "Csodálja meg az 1900-as neoreneszánsz építészet remekművét.",
+            "ro": "Admirați arhitectura neorenascentistă splendidă din anul 1900.",
+            "en": "Admire the magnificent neo-renaissance architecture from 1900."
+          }
+        },
+        {
+          "name": {
+            "de": "Von der Heydt-Museum",
+            "hu": "Von der Heydt Múzeum",
+            "ro": "Muzeul Von der Heydt",
+            "en": "Von der Heydt Museum"
+          },
+          "coords": [
+            7.1462,
+            51.2575
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der wichtigsten Kunstmuseen Deutschlands mit Schwerpunkt Expressionismus.",
+            "hu": "Németország egyik legfontosabb expresszionista gyűjteménye.",
+            "ro": "Unul dintre cele mai importante muzee de artă expresionistă din Germania.",
+            "en": "One of Germany's key art museums focusing on Expressionism."
+          }
+        },
+        {
+          "name": {
+            "de": "Wuppertaler Schwebebahn (Hbf)",
+            "hu": "Wuppertali függővasút (Hbf)",
+            "ro": "Calea ferată suspendată (Hbf)",
+            "en": "Wuppertal Suspension Railway (Hbf)"
+          },
+          "coords": [
+            7.1495,
+            51.2562
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie das Einfahren der Wagen über dem Fluss Wupper.",
+            "hu": "Nézze meg, ahogy a kocsik a Wupper folyó felett siklanak.",
+            "ro": "Priviți cum vagoanele glisează deasupra râului Wupper.",
+            "en": "Watch the cars gliding above the Wupper River."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            7.1645,
+            51.2592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Elisenturm für einen tollen Blick über die Hardt.",
+            "hu": "Látogasson el az Elisenturm-hoz a Hardt parki kilátásért.",
+            "ro": "Vizitați turnul Elisenturm pentru o priveliște superbă asupra parcului.",
+            "en": "Visit the Elisenturm tower for a great view over the Hardt park."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Waldfrieden",
+            "hu": "Waldfrieden Szoborpark",
+            "ro": "Parcul de sculpturi Waldfrieden",
+            "en": "Waldfrieden Sculpture Park"
+          },
+          "coords": [
+            7.1685,
+            51.2512
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Moderne Skulpturen von Tony Cragg in einer Waldkulisse.",
+            "hu": "Tony Cragg modern szobrai erdei környezetben.",
+            "ro": "Sculpturi moderne de Tony Cragg într-un cadru forestier.",
+            "en": "Modern sculptures by Tony Cragg in a forest setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro: Bergische Kaffeetafel",
+            "hu": "Gasztro: Bergische Kaffeetafel",
+            "ro": "Gastro: Bergische Kaffeetafel",
+            "en": "Gastro: Bergische Kaffeetafel"
+          },
+          "coords": [
+            7.1555,
+            51.2532
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie die Dröppelmina, die typische Kaffeekanne der Region.",
+            "hu": "Próbálja ki a Dröppelminát, a régió jellegzetes kávéskannáját.",
+            "ro": "Încercați Dröppelmina, cafetierele tipice ale regiunii.",
+            "en": "Try the Dröppelmina, the region's typical coffee pot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Elberfelder Zentrum bei der prachtvollen Stadthalle. Nach einem Besuch im renommierten Von der Heydt-Museum spazieren Sie hinauf zum Botanischen Garten auf der Hardt. Der Nachmittag gehört der modernen Kunst im Skulpturenpark, bevor Sie den Tag mit einer traditionellen Kaffeetafel gemütlich ausklingen lassen.",
+        "hu": "A nap Elberfeld központjában, a pompás Városházánál indul. A neves Von der Heydt Múzeum megtekintése után felsétálunk a Hardt-dombon található Botanikus Kertbe. A délutánt a Waldfrieden szoborpark modern alkotásai között töltjük, majd egy bőséges helyi kávéházi uzsonnával zárjuk a wuppertali kirándulást.",
+        "ro": "Ziua începe în centrul Elberfeld, lângă superba Primărie Istorică. După o vizită la renumitul Muzeu Von der Heydt, urcați spre Grădina Botanică de pe dealul Hardt. După-amiaza este dedicată artei moderne în parcul de sculpturi Waldfrieden, înainte de a încheia ziua cu o masă tradițională specifică regiunii.",
+        "en": "Start your day in the center of Elberfeld at the magnificent Historic Town Hall. After visiting the renowned Von der Heydt Museum, walk up to the Botanical Garden on the Hardt hill. Spend the afternoon among modern sculptures in Waldfrieden Park, before finishing with a traditional Bergisch coffee service."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haus Zillertal",
+            "tip": "Traditionelle Bergische Kaffeetafel mit Waffeln."
+          },
+          {
+            "name": "Katzengold",
+            "tip": "Beliebtes Bistro im Luisenviertel für lockere Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haus Zillertal",
+            "tip": "Hagyományos helyi kávéházi kínálat gofrival."
+          },
+          {
+            "name": "Katzengold",
+            "tip": "Népszerű bisztró a Luisenviertel negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haus Zillertal",
+            "tip": "Masă tradițională cu vafe și cafea la cafetieră."
+          },
+          {
+            "name": "Katzengold",
+            "tip": "Bistro popular în cartierul Luisenviertel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haus Zillertal",
+            "tip": "Traditional local coffee service with waffles."
+          },
+          {
+            "name": "Katzengold",
+            "tip": "Popular bistro in the Luisenviertel district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hardt-Anlagen",
+            "tip": "Ruhige Wiesen abseits des Botanischen Gartens.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldfrieden",
+            "tip": "Meditative Stille zwischen den Skulpturen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hardt-Anlagen",
+            "tip": "Csendes rétek a Botanikus Kert mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldfrieden",
+            "tip": "Meditatív csend a szobrok között az erdőben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hardt-Anlagen",
+            "tip": "Pajiști liniștite lângă Grădina Botanică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldfrieden",
+            "tip": "Liniște meditativă printre sculpturile din pădure.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hardt-Anlagen",
+            "tip": "Quiet meadows next to the Botanical Garden.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldfrieden",
+            "tip": "Meditative silence among the sculptures in the forest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Luisenviertel",
+            "tip": "Kleine Boutiquen und Kunsthandwerk."
+          },
+          {
+            "name": "Elberfelder City",
+            "tip": "Die Haupteinkaufsmeile rund um die Neumarktstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luisenviertel",
+            "tip": "Kis butikok és kézműves üzletek."
+          },
+          {
+            "name": "Elberfelder City",
+            "tip": "Fő bevásárlóutca a Neumarktstraße környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Luisenviertel",
+            "tip": "Mici buticuri și obiecte de artizanat."
+          },
+          {
+            "name": "Elberfelder City",
+            "tip": "Zona comercială principală în jurul Neumarktstraße."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luisenviertel",
+            "tip": "Small boutiques and local handicrafts."
+          },
+          {
+            "name": "Elberfelder City",
+            "tip": "The main shopping street around Neumarktstraße."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wuppertal ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Das Luisenviertel bietet die besten Cafés für eine Pause.",
+          "Achten Sie auf die historischen Villen im Briller Viertel.",
+          "Der Aufstieg zur Hardt ist steil, aber lohnenswert."
+        ],
+        "hu": [
+          "Wuppertal nagyon dombos, viseljen kényelmes cipőt.",
+          "A Luisenviertel negyedben találja a legjobb kávézókat.",
+          "Figyelje meg a Briller Viertel történelmi villáit.",
+          "A Hardt-dombra vezető út meredek, de a kilátás megéri."
+        ],
+        "ro": [
+          "Wuppertal este foarte deluros, purtați pantofi confortabili.",
+          "Cartierul Luisenviertel oferă cele mai bune cafenele.",
+          "Observați vilele istorice din cartierul Briller.",
+          "Urcarea spre Hardt este abruptă, dar merită efortul."
+        ],
+        "en": [
+          "Wuppertal is very hilly, so wear comfortable shoes.",
+          "The Luisenviertel district has the best cafes for a break.",
+          "Keep an eye out for historic villas in the Briller Viertel.",
+          "The climb to Hardt is steep but the view is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wuppertaler Schwebebahn",
+            "hu": "Wuppertali függővasút",
+            "ro": "Calea ferată suspendată",
+            "en": "Wuppertal Suspension Railway"
+          },
+          "coords": [
+            7.1492,
+            51.2558
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück parallel zur Schwebebahnstrecke am Fluss.",
+            "hu": "Tekerjen egy kicsit a függővasút vonalával párhuzamosan a folyó mentén.",
+            "ro": "Mergeți cu bicicleta paralel cu traseul căii ferate suspendate.",
+            "en": "Ride for a bit parallel to the suspension railway track along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologischer Garten Wuppertal",
+            "hu": "Wuppertali Állatkert",
+            "ro": "Grădina Zoologică Wuppertal",
+            "en": "Wuppertal Zoo"
+          },
+          "coords": [
+            7.1062,
+            51.2402
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besonders sehenswert ist das Pinguin-Gehege und das Löwen-Haus.",
+            "hu": "Különösen érdemes megnézni a pingvineket és az oroszlánházat.",
+            "ro": "Merită vizitate în special incinta pinguinilor și casa leilor.",
+            "en": "The penguin enclosure and the lion house are particularly worth seeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lüntenbeck",
+            "hu": "Lüntenbeck-kastély",
+            "ro": "Castelul Lüntenbeck",
+            "en": "Schloss Lüntenbeck"
+          },
+          "coords": [
+            7.0855,
+            51.2525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ehemaliger Rittersitz, heute ein idyllischer Veranstaltungsort.",
+            "hu": "Egykori lovagi székhely, ma idilli rendezvényhelyszín.",
+            "ro": "O fostă reședință nobiliară, astăzi un loc idilic pentru evenimente.",
+            "en": "A former knight's seat, now an idyllic event venue."
+          }
+        },
+        {
+          "name": {
+            "de": "Engels-Haus",
+            "hu": "Engels-ház",
+            "ro": "Casa Engels",
+            "en": "Engels House"
+          },
+          "coords": [
+            7.1905,
+            51.2662
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Geburtshaus von Friedrich Engels in Barmen.",
+            "hu": "Friedrich Engels szülőháza Barmen városrészben.",
+            "ro": "Casa natală a lui Friedrich Engels în cartierul Barmen.",
+            "en": "The birthplace of Friedrich Engels in the Barmen district."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus Wuppertal",
+            "hu": "Wuppertali Operaház",
+            "ro": "Opera din Wuppertal",
+            "en": "Wuppertal Opera House"
+          },
+          "coords": [
+            7.1872,
+            51.2655
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Haupthaus der renommierten Pina Bausch Tanztheater-Truppe.",
+            "hu": "A neves Pina Bausch táncszínház társulatának otthona.",
+            "ro": "Sediul renumitei trupe de teatru-dans Pina Bausch.",
+            "en": "Home base of the renowned Pina Bausch dance theater company."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Stadthalle",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            7.1432,
+            51.2525
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein prachtvolles Ende der Tour zurück in Elberfeld.",
+            "hu": "Pompás zárása a túrának Elberfeldben.",
+            "ro": "Un final splendid al turului, înapoi în Elberfeld.",
+            "en": "A magnificent end to the tour back in Elberfeld."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour folgt der Talachse entlang der Schwebebahn. Vom Hauptbahnhof geht es westwärts zum landschaftlich reizvollen Zoo und weiter zum Wasserschloss Lüntenbeck. Über die Trasse gelangen Sie nach Barmen zum Engels-Haus, bevor Sie durch das Tal zurück zur prachtvollen Stadthalle radeln.",
+        "hu": "Ez a kerékpártúra a völgy tengelyét követi a függővasút mentén. A pályaudvartól nyugatra indulunk a festői Állatkerthez, majd a Lüntenbeck vízi kastélyhoz. Egy régi vasútvonalon kialakított úton jutunk el Barmenbe, Engels szülőházához, majd a völgyön át térünk vissza a Városházához.",
+        "ro": "Acest tur cu bicicleta urmează axa văii de-a lungul căii ferate suspendate. De la gară mergem spre vest către grădina zoologică și apoi către castelul Lüntenbeck. Pe o pistă amenajată pe un fost terasament feroviar ajungem în Barmen la casa Engels, înainte de a reveni prin vale la primărie.",
+        "en": "This bike tour follows the valley axis along the suspension railway. From the main station, head west to the scenic Zoo and further to Lüntenbeck Castle. Use the converted railway path to reach the Engels House in Barmen, before cycling back through the valley to the Historic Town Hall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zoo-Gastronomie",
+            "tip": "Ideal für eine Pause mit Blick auf die Elefanten."
+          },
+          {
+            "name": "Barmener Brauhaus",
+            "tip": "Deftige Küche und lokales Bier in Barmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zoo-Gastronomie",
+            "tip": "Ideális szünet az elefántokra nyíló kilátással."
+          },
+          {
+            "name": "Barmener Brauhaus",
+            "tip": "Házias konyha és helyi sör Barmenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zoo-Gastronomie",
+            "tip": "Ideal pentru o pauză cu vedere la elefanți."
+          },
+          {
+            "name": "Barmener Brauhaus",
+            "tip": "Bucătărie tradițională și bere locală în Barmen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoo-Gastronomie",
+            "tip": "Ideal for a break with a view of the elephants."
+          },
+          {
+            "name": "Barmener Brauhaus",
+            "tip": "Hearty cuisine and local beer in Barmen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lüntenbecker Forst",
+            "tip": "Ruhige Waldwege direkt am Schloss.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lüntenbecker Forst",
+            "tip": "Csendes erdei utak a kastély mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lüntenbecker Forst",
+            "tip": "Poteci forestiere liniștite lângă castel.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lüntenbecker Forst",
+            "tip": "Quiet forest paths right by the castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Akzenta Barmen",
+            "tip": "Große Auswahl an lokalen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akzenta Barmen",
+            "tip": "Helyi specialitások széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Akzenta Barmen",
+            "tip": "O selecție largă de specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Akzenta Barmen",
+            "tip": "Wide selection of local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Nordbahntrasse für entspanntes Radfahren ohne Steigungen.",
+          "In der Schwebebahn dürfen Fahrräder (außerhalb der Stoßzeiten) mitgenommen werden.",
+          "Die Talstrecke ist oft verkehrsreich, nutzen Sie Radwege.",
+          "Ein Abstecher in den Skulpturenpark erfordert eine steile Auffahrt."
+        ],
+        "hu": [
+          "Használja a Nordbahntrasse útvonalat az emelkedők nélküli tekeréshez.",
+          "A függővasúton a csúcsidőn kívül szállítható kerékpár.",
+          "A völgyi utak forgalmasak, használja a kijelölt kerékpárutakat.",
+          "A szoborparkhoz vezető kitérő meredek emelkedőt jelent."
+        ],
+        "ro": [
+          "Folosiți Nordbahntrasse pentru o plimbare relaxată fără pante.",
+          "Bicicletele pot fi transportate cu calea ferată suspendată în afara orelor de vârf.",
+          "Traseul prin vale este adesea aglomerat, folosiți pistele de biciclete.",
+          "O vizită la parcul de sculpturi necesită o urcare abruptă."
+        ],
+        "en": [
+          "Use the Nordbahntrasse path for relaxed cycling without inclines.",
+          "Bicycles can be taken on the suspension railway outside peak hours.",
+          "The valley route is often busy, so use designated bike lanes.",
+          "A detour to the sculpture park requires a steep climb."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 32.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoologischer Garten Wuppertal",
+            "hu": "Wuppertali Állatkert",
+            "ro": "Grădina Zoologică Wuppertal",
+            "en": "Wuppertal Zoo"
+          },
+          "coords": [
+            7.1062,
+            51.2402
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz direkt am Eingang.",
+            "hu": "Parkoljon a közvetlenül a bejáratnál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare direct la intrare.",
+            "en": "Park in the large parking lot directly at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lüntenbeck",
+            "hu": "Lüntenbeck-kastély",
+            "ro": "Castelul Lüntenbeck",
+            "en": "Schloss Lüntenbeck"
+          },
+          "coords": [
+            7.0855,
+            51.2525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den idyllischen Schlosshof.",
+            "hu": "Sétáljon végig az idilli kastélyudvaron.",
+            "ro": "Plimbați-vă prin curtea idilică a castelului.",
+            "en": "Stroll through the idyllic castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Von der Heydt-Museum",
+            "hu": "Von der Heydt Múzeum",
+            "ro": "Muzeul Von der Heydt",
+            "en": "Von der Heydt Museum"
+          },
+          "coords": [
+            7.1462,
+            51.2575
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Hauptbahnhof (5 Min. Fußweg).",
+            "hu": "Parkoljon a főpályaudvari parkolóházban (5 perc séta).",
+            "ro": "Parcați în garajul gării centrale (5 min de mers pe jos).",
+            "en": "Park in the central station parking garage (5 min walk)."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Stadthalle",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            7.1432,
+            51.2525
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Museum zur Stadthalle.",
+            "hu": "Rövid séta a múzeumtól a Városházáig.",
+            "ro": "O scurtă plimbare de la muzeu la primărie.",
+            "en": "A short walk from the museum to the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Müngstener Brücke",
+            "hu": "Müngstener híd",
+            "ro": "Podul Müngstener",
+            "en": "Müngstener Bridge"
+          },
+          "coords": [
+            7.1332,
+            51.1632
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Höchste Eisenbahnbrücke Deutschlands (107 Meter).",
+            "hu": "Németország legmagasabb vasúti hídja (107 méter).",
+            "ro": "Cel mai înalt pod feroviar din Germania (107 metri).",
+            "en": "Highest railway bridge in Germany (107 meters)."
+          }
+        },
+        {
+          "name": {
+            "de": "Engels-Haus",
+            "hu": "Engels-ház",
+            "ro": "Casa Engels",
+            "en": "Engels House"
+          },
+          "coords": [
+            7.1905,
+            51.2662
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Stopp in Barmen, direkt an der B7.",
+            "hu": "Utolsó megálló Barmenben, közvetlenül a B7 út mellett.",
+            "ro": "Ultima oprire în Barmen, chiar lângă drumul B7.",
+            "en": "Last stop in Barmen, right by the B7 road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die Außenbezirke. Nach dem morgendlichen Zoobesuch und Schloss Lüntenbeck fahren Sie ins Zentrum zum Von der Heydt-Museum. Ein Highlight ist die Fahrt nach Süden zur gigantischen Müngstener Brücke, bevor Sie in Barmen das historische Engels-Haus besuchen.",
+        "hu": "Autóval a külső kerületeket is kényelmesen elérhetjük. A reggeli állatkerti látogatás és a Lüntenbeck-kastély után a központba, a Von der Heydt Múzeumba hajtunk. A túra egyik fénypontja a déli irányú kitérő az óriási Müngstener vasúti hídhoz, végül Barmenben az Engels-házat keressük fel.",
+        "ro": "Cu mașina puteți ajunge cu ușurință și în zonele periferice. După vizita de dimineață la grădina zoologică și castelul Lüntenbeck, conduceți spre centru la Muzeul Von der Heydt. Un punct culminant este drumul spre sud către uriașul pod Müngstener, înainte de a vizita casa istorică Engels din Barmen.",
+        "en": "By car, you can easily reach the outskirts. After a morning at the Zoo and Lüntenbeck Castle, drive to the center for the Von der Heydt Museum. A highlight is the trip south to the giant Müngstener Bridge, before visiting the historic Engels House in Barmen."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haus Müngsten",
+            "tip": "Restaurant direkt unter der gewaltigen Brücke."
+          },
+          {
+            "name": "Altes Zollhaus",
+            "tip": "Gemütliches Restaurant in historischem Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haus Müngsten",
+            "tip": "Étterem közvetlenül a hatalmas híd alatt."
+          },
+          {
+            "name": "Altes Zollhaus",
+            "tip": "Hangulatos étterem egy történelmi épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haus Müngsten",
+            "tip": "Restaurant chiar sub podul uriaș."
+          },
+          {
+            "name": "Altes Zollhaus",
+            "tip": "Restaurant primitor într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haus Müngsten",
+            "tip": "Restaurant located directly under the massive bridge."
+          },
+          {
+            "name": "Altes Zollhaus",
+            "tip": "Cozy restaurant in a historic building."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brückenpark Müngsten",
+            "tip": "Weitläufiges Gelände an der Wupper.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brückenpark Müngsten",
+            "tip": "Tágas park a Wupper folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brückenpark Müngsten",
+            "tip": "Parc spațios de-a lungul râului Wupper.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brückenpark Müngsten",
+            "tip": "Spacious grounds along the Wupper River.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City-Arkaden Wuppertal",
+            "tip": "Großes Einkaufszentrum im Herzen Elberfelds."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City-Arkaden Wuppertal",
+            "tip": "Nagy bevásárlóközpont Elberfeld szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City-Arkaden Wuppertal",
+            "tip": "Centru comercial mare în inima Elberfeld."
+          }
+        ],
+        "en": [
+          {
+            "name": "City-Arkaden Wuppertal",
+            "tip": "Large shopping mall in the heart of Elberfeld."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsuche in der Innenstadt kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Die Strecke zur Müngstener Brücke ist landschaftlich sehr schön.",
+          "Wuppertal hat eine Umweltzone, achten Sie auf die Plakette.",
+          "Planen Sie bei der Stadthalle Zeit für die Architektur ein."
+        ],
+        "hu": [
+          "A belvárosi parkolókeresés nehéz lehet, használja a parkolóházakat.",
+          "A Müngstener hídhoz vezető út nagyon látványos.",
+          "Wuppertal környezetvédelmi zónával rendelkezik, ügyeljen a matricára.",
+          "A Városházánál hagyjon időt az építészeti részletekre."
+        ],
+        "ro": [
+          "Găsirea unui loc de parcare în centru poate fi dificilă, folosiți parcările supraetajate.",
+          "Traseul către podul Müngstener este foarte pitoresc.",
+          "Wuppertal are o zonă cu emisii reduse, verificați vigneta.",
+          "Acordați timp pentru arhitectura primăriei."
+        ],
+        "en": [
+          "Finding parking downtown can be difficult, so use parking garages.",
+          "The route to the Müngstener Bridge is very scenic.",
+          "Wuppertal has a low-emission zone, check for the required sticker.",
+          "Allow time to admire the architecture of the Town Hall."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wuppertaler Schwebebahn (Ohligsmühle)",
+            "hu": "Wuppertali függővasút (Ohligsmühle)",
+            "ro": "Calea ferată suspendată (Ohligsmühle)",
+            "en": "Wuppertal Suspension Railway (Ohligsmühle)"
+          },
+          "coords": [
+            7.1435,
+            51.2555
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt – fahren Sie über der Wupper.",
+            "hu": "A város jelképe – utazzon a Wupper folyó felett.",
+            "ro": "Simbolul orașului – călătoriți deasupra râului Wupper.",
+            "en": "The city's landmark – ride above the Wupper River."
+          }
+        },
+        {
+          "name": {
+            "de": "Von der Heydt-Museum",
+            "hu": "Von der Heydt Múzeum",
+            "ro": "Muzeul Von der Heydt",
+            "en": "Von der Heydt Museum"
+          },
+          "coords": [
+            7.1462,
+            51.2575
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentral in Elberfeld gelegen, nahe der Schwebebahn-Station Hbf.",
+            "hu": "Elberfeld központjában, a főpályaudvari függővasút megálló közelében.",
+            "ro": "Situat central în Elberfeld, lângă stația de cale ferată suspendată Hbf.",
+            "en": "Centrally located in Elberfeld, near the central station suspension railway stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologischer Garten Wuppertal",
+            "hu": "Wuppertali Állatkert",
+            "ro": "Grădina Zoologică Wuppertal",
+            "en": "Wuppertal Zoo"
+          },
+          "coords": [
+            7.1062,
+            51.2402
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Direkt erreichbar mit der Schwebebahn oder der S-Bahn (S8).",
+            "hu": "Közvetlenül elérhető a függővasúttal vagy az S-Bahnnal (S8).",
+            "ro": "Accesibil direct cu calea ferată suspendată sau cu trenul S-Bahn (S8).",
+            "en": "Directly accessible via suspension railway or S-Bahn (S8)."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus Kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            7.1645,
+            51.2592
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Vom Zentrum aus mit dem Bus (643) den Berg hinauf.",
+            "hu": "A központból busszal (643) menjen fel a dombra.",
+            "ro": "Din centru, luați autobuzul (643) pentru a urca dealul.",
+            "en": "Take the bus (643) from the center to go up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Engels-Haus",
+            "hu": "Engels-ház",
+            "ro": "Casa Engels",
+            "en": "Engels House"
+          },
+          "coords": [
+            7.1905,
+            51.2662
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Station Adlerbrücke ist direkt vor dem Engels-Haus.",
+            "hu": "Az Adlerbrücke megálló közvetlenül az Engels-ház előtt van.",
+            "ro": "Stația Adlerbrücke este chiar în fața casei Engels.",
+            "en": "The Adlerbrücke station is directly in front of the Engels House."
+          }
+        },
+        {
+          "name": {
+            "de": "Opernhaus Wuppertal",
+            "hu": "Wuppertali Operaház",
+            "ro": "Opera din Wuppertal",
+            "en": "Wuppertal Opera House"
+          },
+          "coords": [
+            7.1872,
+            51.2655
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Engels-Haus entfernt.",
+            "hu": "Csak pár perc séta az Engels-háztól.",
+            "ro": "La doar câteva minute de mers pe jos de casa Engels.",
+            "en": "Only a few minutes' walk from the Engels House."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Schwebebahn ist Wuppertal perfekt mit ÖPNV zu erkunden. Erleben Sie das Wahrzeichen bei der Fahrt vom Zentrum zum Zoo. Nach der Kunst im Von der Heydt-Museum bringt Sie der Bus zur Hardt und die Schwebebahn weiter nach Barmen zum Engels-Haus und dem Opernhaus.",
+        "hu": "A függővasútnak köszönhetően Wuppertal tökéletesen felfedezhető tömegközlekedéssel. Próbálja ki a város jelképét a központ és az Állatkert között. A múzeumi látogatás után busz visz fel a Hardt-dombra, majd a függővasúttal utazunk tovább Barmenbe az Engels-házhoz.",
+        "ro": "Datorită căii ferate suspendate, Wuppertal este perfect pentru explorare cu transportul public. Experimentați simbolul orașului într-o călătorie de la centru la grădina zoologică. După arta de la Muzeul Von der Heydt, autobuzul vă duce la Hardt, iar calea ferată suspendată mai departe la Barmen.",
+        "en": "Thanks to the suspension railway, Wuppertal is perfect to explore by public transit. Experience the landmark on your ride from the center to the Zoo. After the art at the Von der Heydt Museum, take the bus to Hardt and the suspension railway further to Barmen for the Engels House."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bada Bing",
+            "tip": "Moderne Pizza direkt im Luisenviertel."
+          },
+          {
+            "name": "Cafe du Congo",
+            "tip": "Kultiges Cafe für lokale Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bada Bing",
+            "tip": "Modern pizza a Luisenviertel negyedben."
+          },
+          {
+            "name": "Cafe du Congo",
+            "tip": "Kultikus kávézó helyi hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bada Bing",
+            "tip": "Pizza modernă chiar în cartierul Luisenviertel."
+          },
+          {
+            "name": "Cafe du Congo",
+            "tip": "Cafenea emblematică pentru atmosfera locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bada Bing",
+            "tip": "Modern pizza right in the Luisenviertel district."
+          },
+          {
+            "name": "Cafe du Congo",
+            "tip": "Iconic cafe for a local atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hardt-Terrassen",
+            "tip": "Blick über das Tal bei einem Kaffee.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hardt-Terrassen",
+            "tip": "Kilátás a völgyre egy kávé mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hardt-Terrassen",
+            "tip": "Vedere peste vale savurând o cafea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hardt-Terrassen",
+            "tip": "View over the valley over a coffee.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wupper-Souvenir",
+            "tip": "Andenken rund um die Schwebebahn am Hbf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wupper-Souvenir",
+            "tip": "Függővasutas emlékhely a főpályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wupper-Souvenir",
+            "tip": "Suveniruri cu calea ferată suspendată la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wupper-Souvenir",
+            "tip": "Souvenirs related to the suspension railway at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das gesamte Stadtgebiet.",
+          "Die Schwebebahn fährt alle paar Minuten.",
+          "Nutzen Sie die App des VRR für aktuelle Fahrpläne.",
+          "Vermeiden Sie die Stoßzeiten in der Schwebebahn."
+        ],
+        "hu": [
+          "Vásároljon napijegyet az egész város területére.",
+          "A függővasút pár percenként közlekedik.",
+          "Használja a VRR alkalmazást az aktuális menetrendhez.",
+          "Kerülje a csúcsforgalmat a függővasúton."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru întreaga zonă a orașului.",
+          "Calea ferată suspendată circulă la fiecare câteva minute.",
+          "Folosiți aplicația VRR pentru orarul actualizat.",
+          "Evitați orele de vârf în calea ferată suspendată."
+        ],
+        "en": [
+          "Buy a day ticket for the entire city area.",
+          "The suspension railway runs every few minutes.",
+          "Use the VRR app for up-to-date schedules.",
+          "Avoid peak hours on the suspension railway."
+        ]
+      }
+    }
+  }
+}

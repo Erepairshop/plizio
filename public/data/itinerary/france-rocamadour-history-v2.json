@@ -1,0 +1,1096 @@
+{
+  "city_id": "france-rocamadour-history-v2",
+  "anchor": {
+    "name": "Rocamadour",
+    "coords": [
+      1.627,
+      44.799
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte du Figuier",
+            "hu": "Fügefa-kapu",
+            "ro": "Poarta Figuier",
+            "en": "Porte du Figuier"
+          },
+          "coords": [
+            1.626,
+            44.8
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der historische Eingang zum mittelalterlichen Dorf.",
+            "hu": "A középkori falu történelmi bejárata.",
+            "ro": "Intrarea istorică în satul medieval.",
+            "en": "The historic entrance to the medieval village."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Treppe (Grand Degré)",
+            "hu": "Nagy Lépcső",
+            "ro": "Marea Scară",
+            "en": "Grand Degré (Great Staircase)"
+          },
+          "coords": [
+            1.627,
+            44.799
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "216 Stufen, die Pilger früher auf den Knien erklommen.",
+            "hu": "216 lépcsőfok, melyen a zarándokok térden állva mentek fel.",
+            "ro": "216 trepte pe care pelerinii le urcau în genunchi.",
+            "en": "216 steps that pilgrims used to climb on their knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Sauveur",
+            "hu": "Szent Megváltó-bazilika",
+            "ro": "Bazilica Saint-Sauveur",
+            "en": "Basilica of Saint-Sauveur"
+          },
+          "coords": [
+            1.627,
+            44.798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe als Teil des Jakobswegs.",
+            "hu": "UNESCO világörökség a Szent Jakab-út részeként.",
+            "ro": "Patrimoniu UNESCO, parte a Drumului Sfântului Iacob.",
+            "en": "UNESCO World Heritage site as part of the Way of St. James."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame & Schwarze Madonna",
+            "hu": "Notre-Dame kápolna és a Fekete Madonna",
+            "ro": "Capela Notre-Dame și Fecioara Neagră",
+            "en": "Chapel of Notre-Dame & Black Madonna"
+          },
+          "coords": [
+            1.6275,
+            44.7981
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hinter dem Altar befindet sich die berühmte Schwarze Madonna.",
+            "hu": "Az oltár mögött található a híres Fekete Madonna szobor.",
+            "ro": "În spatele altarului se află celebra Fecioară Neagră.",
+            "en": "Behind the altar sits the famous Black Madonna statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab des Heiligen Amadour",
+            "hu": "Szent Amadour sírja",
+            "ro": "Mormântul Sfântului Amadour",
+            "en": "Tomb of Saint Amadour"
+          },
+          "coords": [
+            1.6276,
+            44.7982
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier wurde 1166 der unversehrte Körper des Eremiten gefunden.",
+            "hu": "Itt találták meg 1166-ban a remete épségben maradt testét.",
+            "ro": "Aici a fost găsit trupul intact al eremitului în 1166.",
+            "en": "Where the hermit's incorrupt body was found in 1166."
+          }
+        },
+        {
+          "name": {
+            "de": "Weg der Kreuzstationen",
+            "hu": "Keresztút",
+            "ro": "Drumul Crucii",
+            "en": "Way of the Cross (Chemin de Croix)"
+          },
+          "coords": [
+            1.628,
+            44.797
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schattiger Zickzackweg führt hinauf zum Schloss.",
+            "hu": "Árnyas szerpentinút vezet fel a kastélyhoz.",
+            "ro": "O potecă umbrită în zigzag duce sus la castel.",
+            "en": "A shaded zigzag path leading up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rocamadour (Remparts)",
+            "hu": "Rocamadouri vár (Várfalak)",
+            "ro": "Castelul Rocamadour (Zidurile)",
+            "en": "Rocamadour Castle (Remparts)"
+          },
+          "coords": [
+            1.629,
+            44.798
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Blick über das Alzou-Tal.",
+            "hu": "Élvezze a látványos kilátást az Alzou-völgyre.",
+            "ro": "Bucurați-vă de priveliștea spectaculoasă asupra văii Alzou.",
+            "en": "Enjoy the spectacular view over the Alzou valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens betreten wir das vertikale Dorf durch das Porte du Figuier und tauchen in die mittelalterliche Atmosphäre ein. Mittags erklimmen wir die heiligen Stufen zum Sanktuarium, wo die Schwarze Madonna und die Basilika auf uns warten. Der Nachmittag gehört dem Aufstieg über den schattigen Kreuzweg zu den Schlossruinen, gekrönt von einem weiten Panorama über die Kalkfelsen des Quercy.",
+        "hu": "Reggel a Fügefa-kapun keresztül lépünk be a sziklába vájt faluba. Délben a Grand Degré lépcsőin jutunk fel a szentélyekhez, hogy megtekintsük a Fekete Madonnát. Délután a hűvös Keresztúton sétálunk fel a várfalakhoz, ahonnan lélegzetelállító kilátás nyílik az Alzou-völgyre és a Quercy vidék mészkőszikláira.",
+        "ro": "Dimineața intrăm în satul vertical prin Poarta Figuier, absorbind atmosfera medievală. La prânz urcăm treptele sacre către sanctuar, unde ne așteaptă Fecioara Neagră și bazilica. După-amiaza este dedicată ascensiunii pe Drumul Crucii până la zidurile castelului, oferind o panoramă vastă asupra stâncilor calcaroase din Quercy.",
+        "en": "In the morning, we enter the vertical village through the Figuier Gate. Midday is spent climbing the sacred stairs to the Sanctuary complex to see the Black Madonna and the Basilica. The afternoon takes us up the shaded Way of the Cross to the castle ramparts, crowning the day with a sweeping panorama over the limestone cliffs of the Quercy region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rocamadour AOC Käse",
+            "tip": "Ein kleiner, cremiger Ziegenkäse, am besten direkt vom Erzeuger."
+          },
+          {
+            "name": "Walnusskuchen (Gâteau aux noix)",
+            "tip": "Die Spezialität des Perigord und Quercy, oft mit Honig verfeinert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rocamadour AOC sajt",
+            "tip": "Kicsi, krémes kecskesajt, amit érdemes frissen kóstolni."
+          },
+          {
+            "name": "Diótorta (Gâteau aux noix)",
+            "tip": "A környék jellegzetes, mézzel édesített desszertje."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Rocamadour AOC",
+            "tip": "O brânză de capră mică și cremoasă, delicioasă cu miere."
+          },
+          {
+            "name": "Prăjitură cu nuci",
+            "tip": "Specialitatea regiunii Quercy, preparată tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocamadour AOC Cheese",
+            "tip": "A small, creamy goat cheese, best enjoyed with local bread."
+          },
+          {
+            "name": "Walnut Cake",
+            "tip": "The signature dessert of the region, often made with local walnuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chemin de Croix",
+            "tip": "Ein ruhiger, bewaldeter Pfad abseits der Touristenströme.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Hospitalet Aussichtspunkt",
+            "tip": "Der beste Blick auf das beleuchtete Dorf am Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keresztút (Chemin de Croix)",
+            "tip": "Csendes, erdei ösvény a tömegektől távol.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Hospitalet kilátó",
+            "tip": "A legjobb hely a falura nyíló panorámához naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul Crucii",
+            "tip": "O potecă liniștită prin pădure, ideală pentru reflecție.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvederea L'Hospitalet",
+            "tip": "Locul ideal pentru a vedea satul iluminat seara.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Way of the Cross",
+            "tip": "A peaceful, wooded path away from the main village street.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "L'Hospitalet Viewpoint",
+            "tip": "The iconic spot for photos of the village clinging to the cliff.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Savon au lait de chèvre",
+            "tip": "Handgemachte Ziegenmilchseife aus lokaler Produktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kecsketejes szappan",
+            "tip": "Helyi készítésű, kézműves szappanok a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săpun cu lapte de capră",
+            "tip": "Produse artizanale locale, delicate și naturale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goat's Milk Soap",
+            "tip": "Handmade soaps using milk from local farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besuchen Sie das Sanktuarium früh am Morgen, um die Stille zu genießen.",
+          "Tragen Sie festes Schuhwerk für die steilen Treppen und Pfade.",
+          "Nutzen Sie den Aufzug (Ascenseur), wenn Sie die Treppen vermeiden möchten.",
+          "Parken Sie oben in L'Hospitalet für den besten ersten Eindruck."
+        ],
+        "hu": [
+          "Látogassa meg a szentélyeket korán reggel a tömeg előtt.",
+          "Viseljen kényelmes cipőt a meredek lépcsők és ösvények miatt.",
+          "Használja a liftet (Ascenseur), ha elkerülné a fárasztó lépcsőzést.",
+          "Parkoljon fent, L'Hospitalet környékén a legszebb panorámaért."
+        ],
+        "ro": [
+          "Vizitați sanctuarul dimineața devreme pentru o experiență spirituală liniștită.",
+          "Purtați încălțăminte comodă pentru scările și potecile abrupte.",
+          "Folosiți ascensorul dacă doriți să evitați urcușul obositor.",
+          "Parcați sus, în L'Hospitalet, pentru cea mai bună vedere panoramică."
+        ],
+        "en": [
+          "Visit the sanctuary early in the morning to beat the tourist crowds.",
+          "Wear sturdy shoes as the village has many steep stairs and paths.",
+          "Take the elevators (Ascenseur) if you have mobility issues or want to save energy.",
+          "Park at the top in L'Hospitalet for the best view before walking down."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Hospitalet Aussichtspunkt",
+            "hu": "L'Hospitalet kilátó",
+            "ro": "Belvederea L'Hospitalet",
+            "en": "L'Hospitalet Viewpoint"
+          },
+          "coords": [
+            1.633,
+            44.805
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt mit Blick auf das ganze Dorf.",
+            "hu": "Tökéletes kezdőpont rálátással az egész falura.",
+            "ro": "Punctul de plecare perfect cu vedere la tot satul.",
+            "en": "Perfect starting point with a view of the whole village."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte des Merveilles",
+            "hu": "Csodák barlangja",
+            "ro": "Peștera Minunilor",
+            "en": "Grotte des Merveilles"
+          },
+          "coords": [
+            1.634,
+            44.806
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prähistorische Höhlenmalereien direkt auf dem Plateau.",
+            "hu": "Őskori barlangrajzok közvetlenül a fennsíkon.",
+            "ro": "Picturi rupestre preistorice chiar pe platou.",
+            "en": "Prehistoric cave paintings located right on the plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rocamadour (Remparts)",
+            "hu": "Rocamadouri vár",
+            "ro": "Castelul Rocamadour",
+            "en": "Rocamadour Castle"
+          },
+          "coords": [
+            1.629,
+            44.798
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder am Parkplatz ab und erkunden Sie die Mauern.",
+            "hu": "Hagyják a bringákat a parkolóban, és járják be a falakat.",
+            "ro": "Lăsați bicicletele în parcare și explorați zidurile.",
+            "en": "Park the bikes and explore the ramparts on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tal des Alzou (Rundweg)",
+            "hu": "Alzou-völgy (körút)",
+            "ro": "Valea Alzou (circuit)",
+            "en": "Alzou Valley (Loop)"
+          },
+          "coords": [
+            1.62,
+            44.795
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eine malerische Fahrt am Fuße der Klippen.",
+            "hu": "Gleccservölgyben futó látványos út a sziklák alatt.",
+            "ro": "O plimbare pitorească la poalele stâncilor.",
+            "en": "A scenic ride at the foot of the limestone cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Figuier (Dorfzentrum)",
+            "hu": "Fügefa-kapu (falu)",
+            "ro": "Poarta Figuier (sat)",
+            "en": "Porte de Figuier (Village)"
+          },
+          "coords": [
+            1.626,
+            44.8
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mittagspause im Dorf, bevor es wieder bergauf geht.",
+            "hu": "Ebédszünet a faluban, mielőtt visszakerekeznek a tetőre.",
+            "ro": "Pauză de prânz în sat înainte de a urca înapoi.",
+            "en": "Lunch break in the village before the uphill climb back."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach L'Hospitalet",
+            "hu": "Visszatérés L'Hospitalet-be",
+            "ro": "Revenire la L'Hospitalet",
+            "en": "Return to L'Hospitalet"
+          },
+          "coords": [
+            1.632,
+            44.804
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss der Tour mit einem letzten Panoramablick.",
+            "hu": "A túra zárása egy utolsó panorámás kilátással.",
+            "ro": "Încheierea turului cu o ultimă vedere panoramică.",
+            "en": "End the tour with a final panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die prähistorischen Wunder des Plateaus mit der dramatischen Architektur des Dorfes. Wir starten in L'Hospitalet, besuchen die Grotte des Merveilles und radeln hinunter ins Tal des Alzou, um die Klippen von unten zu bestaunen. Nach einer Stärkung im Dorf folgt der sportliche Aufstieg zurück zum Ausgangspunkt.",
+        "hu": "Ez a kerékpártúra összeköti a fennsík őskori csodáit a falu drámai építészetével. L'Hospitalet-ből indulva meglátogatjuk a barlangot, majd legurulunk az Alzou-völgybe, hogy alulról csodáljuk meg a sziklákat. A faluban elfogyasztott ebéd után vár ránk a sportos visszakapaszkodás a tetőre.",
+        "ro": "Acest tur cu bicicleta îmbină minunile preistorice de pe platou cu arhitectura dramatică a satului. Pornim din L'Hospitalet, vizităm peștera și coborâm în valea Alzou pentru a admira stâncile de jos. După un prânz în sat, urmează urcarea sportivă înapoi la punctul de plecare.",
+        "en": "This cycling tour combines the prehistoric wonders of the plateau with the village's dramatic cliff-side architecture. Starting in L'Hospitalet, we visit the Grotte des Merveilles and ride down into the Alzou valley to admire the cliffs from below. After a hearty lunch in the village, we tackle the athletic climb back to the top."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant L'Esplanade",
+            "tip": "Terrasse mit Blick, ideal für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Esplanade Étterem",
+            "tip": "Kilátással rendelkező terasz, ideális pihenő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant L'Esplanade",
+            "tip": "Terasă cu vedere, perfectă pentru o pauză."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Esplanade Restaurant",
+            "tip": "Terrace with a view, great for a mid-ride break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alzou-Talweg",
+            "tip": "Abseits der Straßen, Natur pur unter den Klippen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alzou-völgyi út",
+            "tip": "Természetközeli út a sziklák lábánál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca din valea Alzou",
+            "tip": "Natură pură sub stânci, departe de trafic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alzou Valley Path",
+            "tip": "Nature ride at the foot of the massive cliffs.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Energiereiches Mitbringsel aus der Region Quercy."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Energiadús ajándék a Quercy régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir energizant din regiunea Quercy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "High-energy local treat from the Quercy region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind steil, ein E-Bike ist sehr empfehlenswert.",
+          "In den engen Gassen des Dorfes müssen Fahrräder geschoben werden.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Nutzen Sie die D32 für eine sanftere Steigung zurück nach oben."
+        ],
+        "hu": [
+          "Az utak meredekek, az elektromos kerékpár erősen ajánlott.",
+          "A falu szűk sétálóutcáiban tolni kell a kerékpárt.",
+          "Vigyenek magukkal elég vizet, nyáron nagy a hőség a sziklák közt.",
+          "A D32-es utat használják a lankásabb visszajutáshoz a tetőre."
+        ],
+        "ro": [
+          "Drumurile sunt abrupte, o bicicletă electrică este recomandată.",
+          "În străzile înguste ale satului, bicicletele trebuie duse pe lângă.",
+          "Luați suficientă apă, stâncile rețin multă căldură vara.",
+          "Folosiți drumul D32 pentru o urcare mai ușoară înapoi pe platou."
+        ],
+        "en": [
+          "The roads are very steep; an e-bike is highly recommended for this terrain.",
+          "You must walk your bike through the narrow pedestrian streets of the village.",
+          "Carry plenty of water, as the limestone cliffs can reflect heat in summer.",
+          "Use the D32 road for a more gradual ascent back to the plateau."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 34.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Schloss Rocamadour",
+            "hu": "Rocamadouri vár parkoló",
+            "ro": "Parcare Castel Rocamadour",
+            "en": "Rocamadour Castle Parking"
+          },
+          "coords": [
+            1.629,
+            44.798
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am höchsten Punkt des Dorfes.",
+            "hu": "Parkoljon közvetlenül a falu legmagasabb pontján.",
+            "ro": "Parcați chiar în cel mai înalt punct al satului.",
+            "en": "Park right at the highest point of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanktuarium (Spaziergang vom Schloss)",
+            "hu": "Szentélyek (séta a vártól)",
+            "ro": "Sanctuarul (plimbare de la castel)",
+            "en": "Sanctuary (Walk from Castle)"
+          },
+          "coords": [
+            1.627,
+            44.798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß oder per Aufzug hinunter zu den Kapellen.",
+            "hu": "Gyalog vagy lifttel le a kápolnákhoz.",
+            "ro": "Coborâți la capele pe jos sau cu ascensorul.",
+            "en": "Head down to the chapels on foot or via elevator."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hospitalet (Mittagessen)",
+            "hu": "L'Hospitalet (ebéd)",
+            "ro": "L'Hospitalet (prânz)",
+            "en": "L'Hospitalet (Lunch)"
+          },
+          "coords": [
+            1.633,
+            44.805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Plateau für die beste Restaurant-Auswahl.",
+            "hu": "Rövid autóút a fennsíkra a legjobb éttermekért.",
+            "ro": "Scurtă călătorie pe platou pentru cele mai bune restaurante.",
+            "en": "Short drive to the plateau for the best restaurant selection."
+          }
+        },
+        {
+          "name": {
+            "de": "Gouffre de Padirac (Ausflug)",
+            "hu": "Padiraci-szakadék (kirándulás)",
+            "ro": "Abisul Padirac (excursie)",
+            "en": "Gouffre de Padirac (Trip)"
+          },
+          "coords": [
+            1.756,
+            44.858
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Eine der berühmtesten Höhlen Frankreichs mit unterirdischem Fluss.",
+            "hu": "Franciaország egyik leghíresebb barlangja föld alatti folyóval.",
+            "ro": "Una dintre cele mai faimoase peșteri din Franța, cu râu subteran.",
+            "en": "One of France's most famous caves with an underground river."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt bei Carennac",
+            "hu": "Carennac kilátó",
+            "ro": "Punct de belvedere lângă Carennac",
+            "en": "Viewpoint near Carennac"
+          },
+          "coords": [
+            1.73,
+            44.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Blick auf das Dordogne-Tal und das mittelalterliche Carennac.",
+            "hu": "Kilátás a Dordogne-völgyre és a középkori Carennac-ra.",
+            "ro": "Vedere asupra văii Dordogne și satului medieval Carennac.",
+            "en": "View of the Dordogne valley and medieval Carennac village."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Rocamadour",
+            "hu": "Visszatérés Rocamadour-ba",
+            "ro": "Revenire la Rocamadour",
+            "en": "Return to Rocamadour"
+          },
+          "coords": [
+            1.632,
+            44.804
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Abschluss des Tages mit dem Sonnenuntergang über den Klippen.",
+            "hu": "A nap zárása naplementével a sziklák felett.",
+            "ro": "Încheierea zilei cu apusul peste stânci.",
+            "en": "End the day with the sunset over the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir nicht nur das vertikale Rocamadour, sondern auch die spektakuläre Umgebung. Vormittags besuchen wir das Sanktuarium bequem vom Schloss-Parkplatz aus. Nach dem Mittagessen fahren wir zum Gouffre de Padirac, einem unterirdischen Wunder, und kehren über malerische Aussichtspunkte im Dordogne-Tal zurück.",
+        "hu": "Autóval nemcsak Rocamadourt, hanem látványos környékét is felfedezzük. Délelőtt a vár parkolójából kényelmesen érjük el a szentélyeket. Ebéd után a Padiraci-szakadékhoz autózunk, amely egy föld alatti csoda, majd a Dordogne-völgy panorámás útjain térünk vissza.",
+        "ro": "Cu mașina explorăm nu doar satul vertical Rocamadour, ci și împrejurimile spectaculoase. Dimineața vizităm sanctuarul pornind din parcarea castelului. După prânz, conducem spre Gouffre de Padirac, o minune subterană, și revenim prin puncte panoramice deasupra văii Dordogne.",
+        "en": "By car, we explore not only the vertical village of Rocamadour but also its spectacular surroundings. In the morning, we visit the Sanctuary conveniently from the castle parking. After lunch, we drive to the Gouffre de Padirac, an underground wonder, and return via scenic viewpoints overlooking the Dordogne valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bellevue Restaurant",
+            "tip": "Hervorragende Küche in L'Hospitalet mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bellevue Étterem",
+            "tip": "Kiváló konyha L'Hospitalet-ben, könnyű parkolással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Bellevue",
+            "tip": "Bucătărie excelentă în L'Hospitalet, cu parcare facilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bellevue Restaurant",
+            "tip": "Excellent local cuisine in L'Hospitalet with easy parking."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dordogne-Ufer bei Carennac",
+            "tip": "Ruhiger Platz am Fluss, 15 Min. Fahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dordogne-part Carennac-nál",
+            "tip": "Csendes folyóparti pihenő, 15 perc autóval.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dordogne la Carennac",
+            "tip": "Loc liniștit lângă râu, la 15 minute de mers.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dordogne River Bank",
+            "tip": "Peaceful riverside spot near Carennac, 15 min drive.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Produits du Terroir",
+            "tip": "Enten-Confit und Trüffelöl direkt von den Höfen der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek boltja",
+            "tip": "Kacsasült és szarvasgombaolaj közvetlenül a farmokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Confit de rață și ulei de trufe direct de la ferme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farm Products",
+            "tip": "Duck confit and truffle oil directly from nearby farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für Padirac unbedingt Wochen im Voraus online.",
+          "Parkplätze in Rocamadour sind im Sommer kostenpflichtig.",
+          "Fahren Sie die Corniche-Straße für spektakuläre Ausblicke.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+        ],
+        "hu": [
+          "A Padiraci-barlangba hetekkel előre foglaljanak jegyet online.",
+          "Rocamadour parkolói nyáron fizetősek.",
+          "Vezessenek a 'Corniche' úton a legszebb panorámáért.",
+          "Ne hagyjanak értéket az autóban látható helyen."
+        ],
+        "ro": [
+          "Rezervați bilete pentru Padirac online cu săptămâni înainte.",
+          "Parcările din Rocamadour sunt cu plată în timpul verii.",
+          "Conduceți pe drumul 'Corniche' pentru vederi spectaculoase.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Book tickets for Gouffre de Padirac online weeks in advance.",
+          "Parking in Rocamadour is paid during the high season.",
+          "Drive along the 'Corniche' road for the most dramatic cliff views.",
+          "Do not leave valuables visible in your car at tourist parking lots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Hospitalet (Shuttle-Start)",
+            "hu": "L'Hospitalet (transzfer indulás)",
+            "ro": "L'Hospitalet (pornire shuttle)",
+            "en": "L'Hospitalet (Shuttle Start)"
+          },
+          "coords": [
+            1.633,
+            44.805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hier startet der 'Petit Train' zum Dorf.",
+            "hu": "Innen indul a kisvonat a faluba.",
+            "ro": "De aici pleacă trenulețul turistic spre sat.",
+            "en": "The tourist 'Petit Train' to the village starts here."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Figuier (Per 'Petit Train')",
+            "hu": "Fügefa-kapu (kisvonattal)",
+            "ro": "Poarta Figuier (cu trenulețul)",
+            "en": "Porte de Figuier (via Petit Train)"
+          },
+          "coords": [
+            1.626,
+            44.8
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bequeme Ankunft im unteren Teil des Dorfes.",
+            "hu": "Kényelmes érkezés a falu alsó részébe.",
+            "ro": "Sosire confortabilă în partea de jos a satului.",
+            "en": "Convenient arrival at the lower part of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanktuarium (Per Aufzug)",
+            "hu": "Szentélyek (lifttel)",
+            "ro": "Sanctuarul (cu ascensorul)",
+            "en": "Sanctuary (via Elevator)"
+          },
+          "coords": [
+            1.627,
+            44.798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der vertikale Aufzug verbindet das Dorf mit den Kapellen.",
+            "hu": "A lift köti össze a falut a kápolnákkal.",
+            "ro": "Ascensorul vertical face legătura între sat și capele.",
+            "en": "The vertical elevator connects the village to the chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rocamadour (Oberer Aufzug)",
+            "hu": "Vár (felső lift)",
+            "ro": "Castel (ascensorul superior)",
+            "en": "Castle (Upper Elevator)"
+          },
+          "coords": [
+            1.629,
+            44.798
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein zweiter Aufzug bringt Sie direkt zum Schloss.",
+            "hu": "Egy második lift visz fel közvetlenül a várhoz.",
+            "ro": "Un al doilea ascensor vă duce direct la castel.",
+            "en": "A second elevator takes you directly up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hospitalet (Rückkehr zu Fuß)",
+            "hu": "L'Hospitalet (visszatérés gyalog)",
+            "ro": "L'Hospitalet (revenire pe jos)",
+            "en": "L'Hospitalet (Return on Foot)"
+          },
+          "coords": [
+            1.632,
+            44.804
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zurück zum Parkplatz/Bahnhof.",
+            "hu": "Rövid séta vissza a parkolóhoz vagy a vasútállomáshoz.",
+            "ro": "Scurtă plimbare înapoi la parcare sau gară.",
+            "en": "Short walk back to the parking area or station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der touristischen Züge und Aufzüge ist Rocamadour auch ohne große Anstrengung erlebbar. Wir starten in L'Hospitalet, fahren mit dem kleinen Zug ins Dorf und nutzen die Aufzüge, um die verschiedenen Ebenen des Sanktuariums und des Schlosses zu erkunden, ohne die 216 Stufen steigen zu müssen.",
+        "hu": "A kisvonatnak és a lifteknek köszönhetően Rocamadour nagyobb megerőltetés nélkül is bejárható. L'Hospitalet-ből indulunk a kisvonattal a faluba, majd liftek segítségével fedezzük fel a szentélyeket és a várat, megkímélve magunkat a 216 lépcsőfok megmászásától.",
+        "ro": "Datorită trenulețelor și ascensoarelor, Rocamadour poate fi vizitat fără efort mare. Pornim din L'Hospitalet, luăm trenulețul spre sat și folosim ascensoarele pentru a explora nivelurile sanctuarului și castelului, evitând urcarea celor 216 trepte.",
+        "en": "Thanks to the tourist trains and elevators, Rocamadour is accessible without intense physical effort. We start in L'Hospitalet, take the 'Petit Train' into the village, and use the elevators to explore the different levels of the Sanctuary and the Castle, skipping the climb of the 216 steps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Château",
+            "tip": "Schnelle und leckere Crêpes in der Nähe des oberen Aufzugs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Château",
+            "tip": "Gyors és finom palacsinták a felső lift közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Château",
+            "tip": "Clătite rapide și delicioase lângă ascensorul superior."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Château",
+            "tip": "Quick and tasty crêpes near the upper elevator station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Remparts",
+            "tip": "Ruhige Ecken hinter dem Schlossgelände.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Csendes zugok a vár területén túl.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Colțuri liniștite în spatele complexului castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Gardens",
+            "tip": "Peaceful corners located behind the castle grounds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Religiöse Souvenirs",
+            "tip": "Traditionelle Rosenkränze und Medaillen im Sanktuarium."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallási emléktárgyak",
+            "tip": "Hagyományos olvasók és érmék a szentély boltjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri religioase",
+            "tip": "Rozarii tradiționale și medalii în zona sanctuarului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Religious Souvenirs",
+            "tip": "Traditional rosaries and medals found in the sanctuary shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Kombiticket für beide Aufzüge.",
+          "Der Bahnhof Rocamadour-Padirac liegt ca. 4 km entfernt, nutzen Sie Taxis.",
+          "Der 'Petit Train' verkehrt regelmäßig zwischen L'Hospitalet und dem Dorf.",
+          "Die Aufzüge sind barrierefrei und kinderwagengerecht."
+        ],
+        "hu": [
+          "Vásároljon kombinált jegyet mindkét liftre.",
+          "A vasútállomás 4 km-re van, használjon taxit a faluig.",
+          "A kisvonat rendszeresen jár L'Hospitalet és a falu között.",
+          "A liftek akadálymentesítettek, babakocsival is használhatóak."
+        ],
+        "ro": [
+          "Cumpărați un bilet combinat pentru ambele ascensoare.",
+          "Gara Rocamadour-Padirac este la 4 km distanță, folosiți un taxi.",
+          "Trenulețul turistic circulă regulat între L'Hospitalet și sat.",
+          "Ascensoarele sunt accesibile pentru persoane cu dizabilități și cărucioare."
+        ],
+        "en": [
+          "Buy a combined ticket to use both elevators.",
+          "The Rocamadour-Padirac train station is 4 km away; take a taxi to the village.",
+          "The 'Petit Train' shuttle runs frequently between L'Hospitalet and the village.",
+          "The elevators are fully accessible for strollers and wheelchairs."
+        ]
+      }
+    }
+  }
+}

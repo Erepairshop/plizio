@@ -1,0 +1,906 @@
+{
+  "city_id": "city-wolfsburg-extra",
+  "anchor": {
+    "name": "Wolfsburg City Center",
+    "coords": [
+      10.7865,
+      52.4231
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phaeno",
+            "hu": "Phaeno",
+            "ro": "Phaeno",
+            "en": "Phaeno"
+          },
+          "coords": [
+            10.7902,
+            52.4288
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Interaktives Science Center in spektakulärer Architektur von Zaha Hadid.",
+            "hu": "Interaktív tudományos központ Zaha Hadid látványos épületében.",
+            "ro": "Centru de știință interactiv într-o clădire spectaculoasă de Zaha Hadid.",
+            "en": "Interactive science center in spectacular architecture by Zaha Hadid."
+          }
+        },
+        {
+          "name": {
+            "de": "Autostadt",
+            "hu": "Autostadt",
+            "ro": "Autostadt",
+            "en": "Autostadt"
+          },
+          "coords": [
+            10.7925,
+            52.4331
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die gläsernen Autotürme und den ZeitHaus-Pavillon.",
+            "hu": "Nézze meg az üveg autótornyokat és a ZeitHaus pavilont.",
+            "ro": "Vizitați turnurile de mașini din sticlă și pavilionul ZeitHaus.",
+            "en": "Visit the glass car towers and the ZeitHaus pavilion."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Mittellandkanal",
+            "hu": "Ebéd a Mittelland-csatornánál",
+            "ro": "Prânz la Canalul Mittelland",
+            "en": "Lunch by the Mittelland Canal"
+          },
+          "coords": [
+            10.7912,
+            52.4315
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmte Volkswagen-Currywurst.",
+            "hu": "Kóstolja meg a híres Volkswagen-Currywurstot.",
+            "ro": "Încercați celebrul Currywurst de la Volkswagen.",
+            "en": "Try the famous Volkswagen Currywurst."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Wolfsburg",
+            "hu": "Wolfsburgi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Wolfsburg",
+            "en": "Wolfsburg Art Museum"
+          },
+          "coords": [
+            10.7852,
+            52.4185
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einer der bedeutendsten Galerien Norddeutschlands.",
+            "hu": "Modern művészet Észak-Németország egyik legjelentősebb galériájában.",
+            "ro": "Artă modernă într-una dintre cele mai importante galerii din nordul Germaniei.",
+            "en": "Modern art in one of North Germany's most important galleries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die futuristische Architektur des Phaeno und tauchen in die Welt der Mobilität in der Autostadt ein. Nach einem Mittagessen am Kanal spazieren Sie durch das moderne Stadtzentrum zum Kunstmuseum, wo zeitgenössische Werke warten. Der Tag endet im entspannten Ambiente der Fußgängerzone.",
+        "hu": "Délelőtt a Phaeno futurista építészetét és az Autostadt mobilitási világát fedezzük fel. A csatornaparti ebéd után a modern városközponton keresztül sétálunk a Művészeti Múzeumhoz, ahol kortárs alkotások várnak. A nap a sétálóutca hangulatos részén zárul.",
+        "ro": "Dimineața explorați arhitectura futuristă a Phaeno și vă imersați în lumea mobilității la Autostadt. După un prânz pe malul canalului, vă plimbați prin centrul modern către Muzeul de Artă, unde vă așteaptă lucrări contemporane. Ziua se încheie în ambianța relaxată a zonei pietonale.",
+        "en": "In the morning, explore the futuristic architecture of Phaeno and dive into the world of mobility at Autostadt. After lunch by the canal, walk through the modern city center to the Art Museum, where contemporary works await. The day ends in the relaxed atmosphere of the pedestrian zone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Autostadt Restaurants",
+            "tip": "Vielfältige Auswahl von Bistro bis Fine Dining direkt im Park."
+          },
+          {
+            "name": "VW Currywurst",
+            "tip": "Ein Muss: Die originale Volkswagen-Wurst in der Kantine oder an Buden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autostadt éttermek",
+            "tip": "Változatos kínálat a bisztrótól a gourmet konyháig a parkban."
+          },
+          {
+            "name": "VW Currywurst",
+            "tip": "Kötelező darab: az eredeti Volkswagen kolbász a büfékben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Autostadt",
+            "tip": "O selecție variată, de la bistro la fine dining, direct în parc."
+          },
+          {
+            "name": "VW Currywurst",
+            "tip": "Un must: originalul cârnat Volkswagen la cantine sau chioșcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Autostadt Restaurants",
+            "tip": "Diverse selection from bistro to fine dining right in the park."
+          },
+          {
+            "name": "VW Currywurst",
+            "tip": "A must: the original Volkswagen sausage at the canteens or stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Autostadt Gartenlandschaft",
+            "tip": "Ruhige Kanäle und Hügel innerhalb des Autostadt-Geländes.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autostadt kertek",
+            "tip": "Csendes csatornák és dombok az Autostadt területén belül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Autostadt",
+            "tip": "Canale liniștite și dealuri în interiorul complexului Autostadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Autostadt Gardens",
+            "tip": "Quiet canals and hills within the Autostadt premises.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Designer Outlets Wolfsburg",
+            "tip": "Großes Outlet-Center direkt neben dem Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Designer Outlets Wolfsburg",
+            "tip": "Hatalmas outlet központ közvetlenül a vasútállomás mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Designer Outlets Wolfsburg",
+            "tip": "Centru outlet mare chiar lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Designer Outlets Wolfsburg",
+            "tip": "Large outlet center right next to the train station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Brücken über den Kanal für tolle Fotos von der VW-Fabrik.",
+          "Die Autostadt erfordert mindestens 2-3 Stunden Zeit."
+        ],
+        "hu": [
+          "Használja a csatorna feletti hidakat a VW-gyár fotózásához.",
+          "Az Autostadt megtekintésére legalább 2-3 órát szánjon."
+        ],
+        "ro": [
+          "Folosiți podurile peste canal pentru fotografii reușite cu fabrica VW.",
+          "Autostadt necesită cel puțin 2-3 ore."
+        ],
+        "en": [
+          "Use the bridges over the canal for great photos of the VW factory.",
+          "The Autostadt requires at least 2-3 hours of your time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Fallersleben",
+            "hu": "Fallersleben kastély",
+            "ro": "Castelul Fallersleben",
+            "en": "Fallersleben Palace"
+          },
+          "coords": [
+            10.7165,
+            52.4172
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Heimatmuseum und Geburtsort des Dichters der deutschen Nationalhymne.",
+            "hu": "Helytörténeti múzeum és a német himnusz költőjének szülőhelye.",
+            "ro": "Muzeu de istorie locală și locul de naștere al autorului imnului național german.",
+            "en": "Local history museum and birthplace of the German national anthem's poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaeno",
+            "hu": "Phaeno",
+            "ro": "Phaeno",
+            "en": "Phaeno"
+          },
+          "coords": [
+            10.7902,
+            52.4288
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt vor dem Eingang vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a bejárat előtt találhatók.",
+            "ro": "Parcare pentru biciclete disponibilă chiar în fața intrării.",
+            "en": "Bicycle parking available directly in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wolfsburg",
+            "hu": "Wolfsburgi kastély",
+            "ro": "Castelul Wolfsburg",
+            "en": "Wolfsburg Castle"
+          },
+          "coords": [
+            10.8015,
+            52.4402
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Prachtvolles Weserrenaissance-Schloss mit schönem Schlosspark.",
+            "hu": "Pompás Weser-reneszánsz kastély szép parkkal.",
+            "ro": "Castel magnific în stilul Renașterii Weser cu un parc frumos.",
+            "en": "Magnificent Weser Renaissance castle with a beautiful park."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerpark",
+            "hu": "Allerpark",
+            "ro": "Allerpark",
+            "en": "Allerpark"
+          },
+          "coords": [
+            10.8105,
+            52.4385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Radrunde um den Allersee.",
+            "hu": "Tökéletes hely egy kerékpáros körre az Aller-tó körül.",
+            "ro": "Perfect pentru o tură cu bicicleta în jurul lacului Aller.",
+            "en": "Perfect for a bike ride around the Aller Lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkswagen AutoMuseum",
+            "hu": "Volkswagen Autómúzeum",
+            "ro": "Muzeul Auto Volkswagen",
+            "en": "Volkswagen AutoMuseum"
+          },
+          "coords": [
+            10.8115,
+            52.4332
+          ],
+          "category": "museums",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Geschichte des VW Käfer und Bulli erleben.",
+            "hu": "A VW Bogár és a Bulli történetének megismerése.",
+            "ro": "Experimentați istoria modelelor VW Beetle și Bulli.",
+            "en": "Experience the history of the VW Beetle and Bulli."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet Geschichte und Moderne. Wir starten im historischen Fallersleben, radeln dann ins Zentrum zum Phaeno und weiter zum Renaissance-Schloss. Der Nachmittag gehört dem Allerpark und dem klassischen AutoMuseum, bevor wir am Seeufer den Tag ausklingen lassen.",
+        "hu": "Ez a túra ötvözi a történelmet és a modern kort. A történelmi Fallerslebenben kezdünk, majd a központba tekerünk a Phaenóhoz, és tovább a reneszánsz kastélyhoz. A délután az Allerparké és a klasszikus Autómúzeumé, mielőtt a tóparton zárnánk a napot.",
+        "ro": "Acest tur îmbină istoria și modernitatea. Începem în istoricul Fallersleben, apoi pedalăm spre centru la Phaeno și mai departe la castelul renascentist. După-amiaza aparține Allerpark și muzeului auto clasic, înainte de a încheia ziua pe malul lacului.",
+        "en": "This tour combines history and modernity. We start in historic Fallersleben, then cycle to the center to Phaeno and further to the Renaissance castle. The afternoon is dedicated to Allerpark and the classic AutoMuseum before ending the day by the lakeside."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altes Brauhaus zu Fallersleben",
+            "tip": "Urige Brauerei mit herzhafter deutscher Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altes Brauhaus zu Fallersleben",
+            "tip": "Hangulatos sörfőzde kiadós német konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altes Brauhaus zu Fallersleben",
+            "tip": "Berărie rustică cu bucătărie germană consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altes Brauhaus zu Fallersleben",
+            "tip": "Rustic brewery with hearty German cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Allersee Nordufer",
+            "tip": "Ruhigerer Teil des Sees abseits der Attraktionen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aller-tó északi part",
+            "tip": "A tó csendesebb része, távol a látványosságoktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul de nord al Allersee",
+            "tip": "Partea mai liniștită a lacului, departe de atracții.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aller Lake North Shore",
+            "tip": "Quieter part of the lake away from the attractions.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fallersleben Altstadt",
+            "tip": "Kleine individuelle Läden im Fachwerk-Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fallersleben óváros",
+            "tip": "Kis egyedi üzletek fagerendás környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orașul vechi Fallersleben",
+            "tip": "Mici magazine individuale într-un cadru cu case pe râmnele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fallersleben Old Town",
+            "tip": "Small individual shops in a half-timbered setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege durch den Allerpark sind breit und sehr fahrradfreundlich.",
+          "In Wolfsburg gibt es viele gut ausgebaute Radwege entlang der Hauptstraßen."
+        ],
+        "hu": [
+          "Az Allerpark útjai szélesek és nagyon kerékpárosbarátok.",
+          "Wolfsburgban sok jól kiépített kerékpárút van a főutak mentén."
+        ],
+        "ro": [
+          "Drumurile prin Allerpark sunt late și foarte prietenoase cu bicicletele.",
+          "În Wolfsburg există multe piste de biciclete bine amenajate de-a lungul străzilor principale."
+        ],
+        "en": [
+          "The paths through Allerpark are wide and very bike-friendly.",
+          "Wolfsburg has many well-developed bike paths along the main roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Fallersleben",
+            "hu": "Fallersleben kastély",
+            "ro": "Castelul Fallersleben",
+            "en": "Fallersleben Palace"
+          },
+          "coords": [
+            10.7165,
+            52.4172
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken am Schlosshof möglich.",
+            "hu": "Parkolás a kastélyudvarnál lehetséges.",
+            "ro": "Parcare disponibilă la curtea castelului.",
+            "en": "Parking possible at the castle courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaeno (Cluster City)",
+            "hu": "Phaeno (Városi klaszter)",
+            "ro": "Phaeno (Cluster Oraș)",
+            "en": "Phaeno (City Cluster)"
+          },
+          "coords": [
+            10.7902,
+            52.4288
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Auto im Parkhaus am Hauptbahnhof abstellen.",
+            "hu": "Parkoljon a főpályaudvarnál lévő parkolóházban.",
+            "ro": "Lăsați mașina în parcarea de la gara centrală.",
+            "en": "Park the car in the parking garage at the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Autostadt (Cluster City)",
+            "hu": "Autostadt (Városi klaszter)",
+            "ro": "Autostadt (Cluster Oraș)",
+            "en": "Autostadt (City Cluster)"
+          },
+          "coords": [
+            10.7925,
+            52.4331
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Phaeno über die Stadtbrücke erreichbar.",
+            "hu": "A Phaenótól gyalogosan elérhető a városi hídon át.",
+            "ro": "Accesibil pe jos de la Phaeno peste podul orașului.",
+            "en": "Accessible on foot from Phaeno via the city bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Wolfsburg (Cluster Park)",
+            "hu": "Wolfsburgi kastély (Park klaszter)",
+            "ro": "Castelul Wolfsburg (Cluster Parc)",
+            "en": "Wolfsburg Castle (Park Cluster)"
+          },
+          "coords": [
+            10.8015,
+            52.4402
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Parkplatz am Schloss.",
+            "hu": "Rövid autóút a kastély melletti parkolóig.",
+            "ro": "Drum scurt cu mașina până la parcarea de la castel.",
+            "en": "Short drive to the parking lot at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerpark (Cluster Park)",
+            "hu": "Allerpark (Park klaszter)",
+            "ro": "Allerpark (Cluster Parc)",
+            "en": "Allerpark (Park Cluster)"
+          },
+          "coords": [
+            10.8105,
+            52.4385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Schloss zu Fuß durch den Park erreichbar.",
+            "hu": "A kastélytól gyalogosan elérhető a parkon keresztül.",
+            "ro": "Accesibil pe jos de la castel prin parc.",
+            "en": "Accessible on foot from the castle through the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert drei Cluster. Zuerst das historische Fallersleben, dann der große City-Cluster mit Phaeno und Autostadt (einmal parken, beides zu Fuß). Zum Abschluss fahren wir zum Allerpark-Cluster, um das Schloss und den See zu genießen.",
+        "hu": "Ez az autós túra három klasztert ötvöz. Először a történelmi Fallerslebent, majd a nagy városi klasztert a Phaenóval és az Autostadttal (egyszeri parkolás, mindkettő gyalog). Végül az Allerpark klaszterhez hajtunk, hogy élvezzük a kastélyt és a tavat.",
+        "ro": "Acest tur cu mașina combină trei clustere. Mai întâi istoricul Fallersleben, apoi marele cluster al orașului cu Phaeno și Autostadt (parcați o singură dată, ambele pe jos). La final, mergem la clusterul Allerpark pentru a ne bucura de castel și lac.",
+        "en": "This car tour combines three clusters. First historic Fallersleben, then the large city cluster with Phaeno and Autostadt (park once, visit both on foot). Finally, we drive to the Allerpark cluster to enjoy the castle and the lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beef Club",
+            "tip": "Hochwertiges Steakhaus direkt in der Autostadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beef Club",
+            "tip": "Kiváló steakhouse közvetlenül az Autostadtban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beef Club",
+            "tip": "Steakhouse de înaltă calitate chiar în Autostadt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beef Club",
+            "tip": "High-quality steakhouse directly in Autostadt."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Wolfsburg",
+            "tip": "Weitläufige Grünanlagen hinter dem Renaissancebau.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wolfsburgi kastélypark",
+            "tip": "Tágas zöldterületek a reneszánsz épület mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Wolfsburg",
+            "tip": "Spații verzi vaste în spatele clădirii renascentiste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wolfsburg Castle Park",
+            "tip": "Extensive green areas behind the Renaissance building.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City-Galerie Wolfsburg",
+            "tip": "Über 100 Geschäfte im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City-Galerie Wolfsburg",
+            "tip": "Több mint 100 üzlet a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City-Galerie Wolfsburg",
+            "tip": "Peste 100 de magazine în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "City-Galerie Wolfsburg",
+            "tip": "Over 100 shops in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser im Zentrum, da Straßenparkplätze oft belegt sind.",
+          "In der Autostadt ist das Parken für Besucher oft rabattiert."
+        ],
+        "hu": [
+          "Használja a központi parkolóházakat, mert az utcai parkolás gyakran telített.",
+          "Az Autostadtban a látogatóknak gyakran kedvezményes a parkolás."
+        ],
+        "ro": [
+          "Folosiți parcările etajate din centru, deoarece locurile de parcare pe stradă sunt adesea ocupate.",
+          "În Autostadt, parcarea este adesea redusă pentru vizitatori."
+        ],
+        "en": [
+          "Use the parking garages in the center, as street parking is often full.",
+          "Parking in Autostadt is often discounted for visitors."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunstmuseum Wolfsburg",
+            "hu": "Wolfsburgi Művészeti Múzeum",
+            "ro": "Muzeul de Artă Wolfsburg",
+            "en": "Wolfsburg Art Museum"
+          },
+          "coords": [
+            10.7852,
+            52.4185
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie 201 vom Hauptbahnhof bis Haltestelle Hollerplatz.",
+            "hu": "201-es busz a főpályaudvartól a Hollerplatz megállóig.",
+            "ro": "Linia de autobuz 201 de la gara centrală până la stația Hollerplatz.",
+            "en": "Bus line 201 from the main station to the Hollerplatz stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Planetarium Wolfsburg",
+            "hu": "Wolfsburgi Planetárium",
+            "ro": "Planetariul Wolfsburg",
+            "en": "Planetarium Wolfsburg"
+          },
+          "coords": [
+            10.7955,
+            52.4205
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "In der Nähe des Rathauses, bequem zu Fuß vom Kunstmuseum.",
+            "hu": "A városháza közelében, kényelmes sétára a Művészeti Múzeumtól.",
+            "ro": "În apropierea primăriei, la o plimbare ușoară de Muzeul de Artă.",
+            "en": "Near the town hall, an easy walk from the Art Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaeno",
+            "hu": "Phaeno",
+            "ro": "Phaeno",
+            "en": "Phaeno"
+          },
+          "coords": [
+            10.7902,
+            52.4288
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Direkt am Hauptbahnhof gelegen, dem Verkehrsknotenpunkt.",
+            "hu": "Közvetlenül a főpályaudvarnál, a közlekedési csomópontnál található.",
+            "ro": "Situat chiar lângă gara centrală, nodul principal de transport.",
+            "en": "Located right at the main station, the main transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Autostadt",
+            "hu": "Autostadt",
+            "ro": "Autostadt",
+            "en": "Autostadt"
+          },
+          "coords": [
+            10.7925,
+            52.4331
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ganz nah am Bahnhof über die gläserne Brücke.",
+            "hu": "Nagyon közel az állomáshoz az üveghídon át.",
+            "ro": "Foarte aproape de gară prin podul de sticlă.",
+            "en": "Very close to the station via the glass bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wolfsburg ist per Transit sehr effizient. Wir nutzen den zentralen Hollerplatz für Kunst und Kultur, fahren dann zurück zum Bahnhofs-Hub für das Phaeno und die Autostadt. Alle Ziele sind durch Hauptbuslinien eng getaktet verbunden.",
+        "hu": "Wolfsburg tömegközlekedéssel nagyon hatékony. A központi Hollerplatzot használjuk művészetre és kultúrára, majd visszatérünk a vasútállomási csomóponthoz a Phaenóhoz és az Autostadtba. Minden célpontot sűrűn közlekedő buszjáratok kötnek össze.",
+        "ro": "Wolfsburg este foarte eficient prin transportul public. Folosim piața centrală Hollerplatz pentru artă și cultură, apoi ne întoarcem la nodul gării pentru Phaeno și Autostadt. Toate destinațiile sunt conectate prin linii de autobuz principale cu frecvență mare.",
+        "en": "Wolfsburg is very efficient via transit. We use the central Hollerplatz for art and culture, then return to the station hub for Phaeno and Autostadt. All destinations are closely linked by main bus lines with high frequency."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Osteria Wolfsburg",
+            "tip": "Beliebte Pizza und Pasta direkt am Hollerplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Osteria Wolfsburg",
+            "tip": "Népszerű pizza és tészta közvetlenül a Hollerplatzon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Osteria Wolfsburg",
+            "tip": "Pizza și paste populare chiar în Hollerplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Osteria Wolfsburg",
+            "tip": "Popular pizza and pasta right at Hollerplatz."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klieversberg",
+            "tip": "Grüner Hügel mit Blick über die Stadt, nahe am Kunstmuseum.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klieversberg",
+            "tip": "Zöld domb kilátással a városra, közel a Művészeti Múzeumhoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klieversberg",
+            "tip": "Deal verde cu vedere spre oraș, aproape de Muzeul de Artă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klieversberg",
+            "tip": "Green hill with views over the city, near the Art Museum.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Porschestraße",
+            "tip": "Die zentrale Einkaufsmeile zwischen Rathaus und Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porschestraße",
+            "tip": "A központi bevásárlóutca a városháza és az állomás között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porschestraße",
+            "tip": "Strada comercială centrală între primărie și gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porschestraße",
+            "tip": "The central shopping street between the town hall and the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die WVG-App hilft bei Echtzeit-Abfahrten der Busse.",
+          "Ein Tagesticket lohnt sich ab der dritten Fahrt."
+        ],
+        "hu": [
+          "A WVG applikáció segít a buszok valós idejű indulásának követésében.",
+          "A napijegy a harmadik utazástól éri meg."
+        ],
+        "ro": [
+          "Aplicația WVG ajută la monitorizarea plecărilor în timp real ale autobuzelor.",
+          "Un bilet de o zi merită de la a treia călătorie."
+        ],
+        "en": [
+          "The WVG app helps with real-time bus departures.",
+          "A day ticket is worth it starting from the third ride."
+        ]
+      }
+    }
+  }
+}

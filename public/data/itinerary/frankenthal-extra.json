@@ -1,0 +1,1090 @@
+{
+  "city_id": "frankenthal-extra",
+  "anchor": {
+    "name": "Rathausplatz Frankenthal",
+    "coords": [
+      8.3545,
+      49.5337
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Frankenthal",
+            "hu": "Frankenthali városháza",
+            "ro": "Primăria Frankenthal",
+            "en": "Frankenthal Town Hall"
+          },
+          "coords": [
+            8.3545,
+            49.5337
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der belebte Mittelpunkt der Stadt mit Wochenmarkt-Atmosphäre.",
+            "hu": "A város nyüzsgő központja, heti piaci hangulattal.",
+            "ro": "Centrul vibrant al orașului, cu atmosferă de piață săptămânală.",
+            "en": "The bustling heart of the city with a weekly market atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkenbert-Ruine",
+            "hu": "Erkenbert-romok",
+            "ro": "Ruina Erkenbert",
+            "en": "Erkenbert Ruins"
+          },
+          "coords": [
+            8.3555,
+            49.5335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überreste des ehemaligen Augustiner-Chorherrenstifts aus dem 12. Jahrhundert.",
+            "hu": "Egy 12. századi ágoston-rendi kolostor impozáns maradványai.",
+            "ro": "Rămășițele unei foste mănăstiri augustiniene din secolul al XII-lea.",
+            "en": "Remains of a former 12th-century Augustinian monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwölf-Apostel-Kirche",
+            "hu": "Tizenkét Apostol templom",
+            "ro": "Biserica celor Doisprezece Apostoli",
+            "en": "Twelve Apostles Church"
+          },
+          "coords": [
+            8.355,
+            49.533
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die markante Kirche prägt die Skyline der Innenstadt.",
+            "hu": "A városkép meghatározó temploma a belváros szívében.",
+            "ro": "Biserica proeminentă care domină orizontul centrului orașului.",
+            "en": "The prominent church shaping the downtown skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Speyerer Tor",
+            "hu": "Speyeri kapu",
+            "ro": "Poarta Speyerer",
+            "en": "Speyerer Tor"
+          },
+          "coords": [
+            8.354,
+            49.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eines der beiden erhaltenen prächtigen Stadttore aus dem Barock.",
+            "hu": "A két fennmaradt pompás barokk városkapu egyike.",
+            "ro": "Una dintre cele două porți baroce splendide ale orașului.",
+            "en": "One of the two remaining magnificent Baroque city gates."
+          }
+        },
+        {
+          "name": {
+            "de": "CongressForum Frankenthal",
+            "hu": "Frankenthali Kongresszusi Központ",
+            "ro": "CongressForum Frankenthal",
+            "en": "CongressForum Frankenthal"
+          },
+          "coords": [
+            8.3565,
+            49.5345
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Modernes Kulturzentrum, ideal für eine Mittagspause in der Nähe.",
+            "hu": "Modern kulturális központ, ideális egy közeli ebédszünethez.",
+            "ro": "Centru cultural modern, ideal pentru o pauză de prânz în apropiere.",
+            "en": "Modern cultural center, ideal for a lunch break nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Wormser Tor",
+            "hu": "Wormsi kapu",
+            "ro": "Poarta Wormser",
+            "en": "Wormser Tor"
+          },
+          "coords": [
+            8.355,
+            49.536
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das nördliche Gegenstück zum Speyerer Tor, ebenfalls barock.",
+            "hu": "A Speyeri kapu északi párja, szintén barokk stílusban.",
+            "ro": "Corespondentul nordic al porții Speyerer, tot în stil baroc.",
+            "en": "The northern counterpart to the Speyerer Tor, also Baroque."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Rathausplatz und tauchen Sie ein in die Geschichte der Erkenbert-Ruine. Nach der Besichtigung der Zwölf-Apostel-Kirche schlendern Sie zum barocken Speyerer Tor. Ein Mittagessen in der Nähe des CongressForums stärkt Sie für den Besuch des nördlichen Wormser Tors, bevor Sie den Nachmittag gemütlich ausklingen lassen.",
+        "hu": "Kezdje a napot a történelmi Rathausplatzon, és merüljön el az Erkenbert-romok történetében. A Tizenkét Apostol templom megtekintése után sétáljon el a barokk Speyeri kapuhoz. A CongressForum környékén elfogyasztott ebéd után látogassa meg az északi Wormsi kaput, majd zárja a délutánt egy kellemes sétával.",
+        "ro": "Începeți ziua în istorica Rathausplatz și cufundați-vă în istoria Ruinei Erkenbert. După vizitarea Bisericii celor Doisprezece Apostoli, plimbați-vă spre poarta barocă Speyerer Tor. Un prânz lângă CongressForum vă va oferi energie pentru a vizita poarta nordică Wormser Tor, înainte de a încheia după-amiaza relaxat.",
+        "en": "Start your day at the historic Rathausplatz and dive into the history of the Erkenbert Ruins. After visiting the Twelve Apostles Church, stroll to the Baroque Speyerer Tor. A lunch near the CongressForum will recharge you for a visit to the northern Wormser Tor before ending the afternoon with a pleasant walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus zur Post",
+            "tip": "Herzhafte Pfälzer Küche und selbstgebrautes Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus zur Post",
+            "tip": "Kiadós pfalzi konyha és helyben főzött sör."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus zur Post",
+            "tip": "Bucătărie sățioasă din Pfalz și bere artizanală locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus zur Post",
+            "tip": "Hearty Palatinate cuisine and home-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erkenbert-Ruine Innenhof",
+            "tip": "Ein stiller Ort inmitten alter Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erkenbert-romok udvara",
+            "tip": "Csendes hely a régi falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Ruinei Erkenbert",
+            "tip": "Un loc liniștit între ziduri vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erkenbert Ruins Courtyard",
+            "tip": "A quiet spot amidst ancient walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Rathausplatz",
+            "tip": "Regionale Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a Rathausplatzon",
+            "tip": "Regionális termékek közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Rathausplatz",
+            "tip": "Produse regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market Rathausplatz",
+            "tip": "Regional products directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und ideal zu Fuß zu erkunden.",
+          "Besuchen Sie den Wochenmarkt am Dienstag oder Freitag.",
+          "Die Tore sind tolle Fotomotive für Barock-Liebhaber."
+        ],
+        "hu": [
+          "A belváros kompakt, ideális gyalogos felfedezésre.",
+          "Látogassa meg a heti piacot kedden vagy pénteken.",
+          "A kapuk kiváló fotótémák a barokk stílus kedvelőinek."
+        ],
+        "ro": [
+          "Centrul orașului este compact și ideal de explorat pe jos.",
+          "Vizitați piața săptămânală marțea sau vinerea.",
+          "Porțile sunt motive foto excelente pentru iubitorii barocului."
+        ],
+        "en": [
+          "The city center is compact and ideal for exploring on foot.",
+          "Visit the weekly market on Tuesday or Friday.",
+          "The gates are great photo opportunities for Baroque lovers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            8.3545,
+            49.5337
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Speyerer Tor",
+            "hu": "Speyeri kapu",
+            "ro": "Poarta Speyerer",
+            "en": "Speyerer Tor"
+          },
+          "coords": [
+            8.354,
+            49.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Barocktor.",
+            "hu": "Rövid megálló a barokk kapunál.",
+            "ro": "Scurtă oprire la poarta barocă.",
+            "en": "Short stop at the Baroque gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanalhafen",
+            "hu": "Csatorna-kikötő",
+            "ro": "Portul Canalului",
+            "en": "Canal Harbor"
+          },
+          "coords": [
+            8.375,
+            49.538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Industrielle Geschichte am Wasser.",
+            "hu": "Ipari történelem a vízparton.",
+            "ro": "Istorie industrială pe malul apei.",
+            "en": "Industrial history by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Frankenthal",
+            "hu": "Frankenthali strandfürdő",
+            "ro": "Ștrandul Frankenthal",
+            "en": "Frankenthal Lido"
+          },
+          "coords": [
+            8.38,
+            49.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großzügige Anlage für eine längere Pause.",
+            "hu": "Tágas komplexum egy hosszabb pihenéshez.",
+            "ro": "Complex generos pentru o pauză mai lungă.",
+            "en": "Spacious facility for a longer break."
+          }
+        },
+        {
+          "name": {
+            "de": "Wormser Tor",
+            "hu": "Wormsi kapu",
+            "ro": "Poarta Wormser",
+            "en": "Wormser Tor"
+          },
+          "coords": [
+            8.355,
+            49.536
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wieder zurück in der Stadt.",
+            "hu": "Visszaérkezés a városba.",
+            "ro": "Înapoi în oraș.",
+            "en": "Back in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkenbert-Ruine",
+            "hu": "Erkenbert-romok",
+            "ro": "Ruina Erkenbert",
+            "en": "Erkenbert Ruins"
+          },
+          "coords": [
+            8.3555,
+            49.5335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kultureller Ausklang.",
+            "hu": "Kulturális zárás.",
+            "ro": "Final cultural.",
+            "en": "Cultural conclusion."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwölf-Apostel-Kirche",
+            "hu": "Tizenkét Apostol templom",
+            "ro": "Biserica celor Doisprezece Apostoli",
+            "en": "Twelve Apostles Church"
+          },
+          "coords": [
+            8.355,
+            49.533
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss der Tour.",
+            "hu": "A túra lezárása.",
+            "ro": "Finalul turului.",
+            "en": "End of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Frankenthal und sein Umland mit dem Fahrrad. Von der Innenstadt radeln Sie zum Kanalhafen und weiter zum weitläufigen Strandbad für eine ausgiebige Pause. Auf dem Rückweg passieren Sie die historischen Stadttore und lassen den Tag an den Erkenbert-Ruinen ausklingen.",
+        "hu": "Fedezze fel Frankenthalt és környékét kerékpárral. A belvárosból tekerjen ki a csatorna-kikötőhöz, majd tovább a tágas strandfürdőhöz egy hosszabb pihenőre. Visszafelé haladjon át a történelmi városkapukon, és zárja a napot az Erkenbert-romoknál.",
+        "ro": "Explorați Frankenthal și împrejurimile sale cu bicicleta. Din centrul orașului, pedalați spre portul canalului și mai departe spre ștrandul spațios pentru o pauză lungă. La întoarcere, treceți prin porțile istorice și încheiați ziua la Ruina Erkenbert.",
+        "en": "Explore Frankenthal and its surroundings by bike. From the city center, cycle to the canal harbor and on to the spacious lido for an extensive break. On the way back, pass through the historic city gates and end the day at the Erkenbert Ruins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Strandbad",
+            "tip": "Snacks und Erfrischungen direkt im Grünen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandbüfé",
+            "tip": "Snackek és frissítők közvetlenül a zöldben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul de la ștrand",
+            "tip": "Gustări și băuturi răcoritoare direct în natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lido Kiosk",
+            "tip": "Snacks and refreshments directly in the greenery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandbad Liegewiese",
+            "tip": "Viel Platz zum Entspannen unter Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strand pihenőgyep",
+            "tip": "Sok hely a pihenésre a fák alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gazonul de la ștrand",
+            "tip": "Mult spațiu pentru relaxare sub copaci.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lido Sunbathing Area",
+            "tip": "Plenty of space to relax under trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Innenstadt",
+            "tip": "Zubehör und Karten für die Pfalz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi kerékpárbolt",
+            "tip": "Kiegészítők és térképek a Pfalz régióhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete centru",
+            "tip": "Accesorii și hărți pentru regiunea Pfalz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Downtown Bike Shop",
+            "tip": "Accessories and maps for the Palatinate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege zum Strandbad sind flach und gut ausgebaut.",
+          "Kombinieren Sie die Tour mit einer Fahrt entlang des Isenach-Kanals.",
+          "Ein Fahrradschloss ist in der Innenstadt obligatorisch."
+        ],
+        "hu": [
+          "A strandhoz vezető utak síkak és jól kiépítettek.",
+          "Kombinálja a túrát egy tekeréssel az Isenach-csatorna mentén.",
+          "A belvárosban kötelező a kerékpárzár."
+        ],
+        "ro": [
+          "Drumurile spre ștrand sunt plane și bine amenajate.",
+          "Combinați turul cu o plimbare de-a lungul canalului Isenach.",
+          "Un sistem de blocare a bicicletei este obligatoriu în centrul orașului."
+        ],
+        "en": [
+          "The paths to the lido are flat and well-developed.",
+          "Combine the tour with a ride along the Isenach canal.",
+          "A bike lock is mandatory in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Speyerer Tor (Parken)",
+            "hu": "Speyeri kapu (parkolás)",
+            "ro": "Poarta Speyerer (parcare)",
+            "en": "Speyerer Tor (Parking)"
+          },
+          "coords": [
+            8.354,
+            49.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Cluster Zentrum: Auto parken und zu Fuß erkunden.",
+            "hu": "Belvárosi klaszter: parkolás és gyalogos felfedezés.",
+            "ro": "Cluster centru: parcați mașina și explorați pe jos.",
+            "en": "Center Cluster: Park the car and explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            8.3545,
+            49.5337
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt zu Fuß erreichbar.",
+            "hu": "A város szíve gyalogosan elérhető.",
+            "ro": "Inima orașului, accesibilă pe jos.",
+            "en": "The heart of the city reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkenbert-Ruine",
+            "hu": "Erkenbert-romok",
+            "ro": "Ruina Erkenbert",
+            "en": "Erkenbert Ruins"
+          },
+          "coords": [
+            8.3555,
+            49.5335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Highlight im Zentrum.",
+            "hu": "Történelmi fénypont a központban.",
+            "ro": "Punct culminant istoric în centru.",
+            "en": "Historical highlight in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Zwölf-Apostel-Kirche",
+            "hu": "Tizenkét Apostol templom",
+            "ro": "Biserica celor Doisprezece Apostoli",
+            "en": "Twelve Apostles Church"
+          },
+          "coords": [
+            8.355,
+            49.533
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Rückkehr zum Auto danach.",
+            "hu": "Ezután visszatérés az autóhoz.",
+            "ro": "După aceasta, revenire la mașină.",
+            "en": "Return to the car afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Wormser Tor",
+            "hu": "Wormsi kapu",
+            "ro": "Poarta Wormser",
+            "en": "Wormser Tor"
+          },
+          "coords": [
+            8.355,
+            49.536
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Drive-by oder Stopp am Tor.",
+            "hu": "Rövid megálló vagy áthajtás a kapunál.",
+            "ro": "Scurtă oprire sau trecere pe la poartă.",
+            "en": "Short drive-by or stop at the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanalhafen",
+            "hu": "Csatorna-kikötő",
+            "ro": "Portul Canalului",
+            "en": "Canal Harbor"
+          },
+          "coords": [
+            8.375,
+            49.538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Industriecluster im Osten.",
+            "hu": "Ipari negyed keleten.",
+            "ro": "Cluster industrial în est.",
+            "en": "Industrial cluster in the east."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Frankenthal",
+            "hu": "Frankenthali strandfürdő",
+            "ro": "Ștrandul Frankenthal",
+            "en": "Frankenthal Lido"
+          },
+          "coords": [
+            8.38,
+            49.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannung zum Abschluss, großer Parkplatz.",
+            "hu": "Záró pihenés, nagy parkolóval.",
+            "ro": "Relaxare la final, parcare mare.",
+            "en": "Relaxation at the end, large parking lot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für einen effizienten Tag in Frankenthal. Parken Sie zuerst am Speyerer Tor und erkunden Sie den historischen Kern zu Fuß. Danach fahren Sie zum Wormser Tor und weiter zum industriell geprägten Kanalhafen. Den Nachmittag verbringen Sie entspannt im Strandbad, das über ausreichend Parkmöglichkeiten verfügt.",
+        "hu": "Használja az autót egy hatékony frankenthali naphoz. Parkoljon le a Speyeri kapunál, és fedezze fel a történelmi magot gyalog. Ezután hajtson a Wormsi kapuhoz, majd tovább az ipari jellegű csatorna-kikötőhöz. A délutánt töltse pihenéssel a strandfürdőben, ahol bőséges parkolási lehetőség áll rendelkezésre.",
+        "ro": "Folosiți mașina pentru o zi eficientă în Frankenthal. Parcați mai întâi la Poarta Speyerer și explorați nucleul istoric pe jos. Apoi conduceți spre Poarta Wormser și mai departe spre portul canalului cu specific industrial. Petreceți după-amiaza relaxându-vă la ștrand, care dispune de suficiente locuri de parcare.",
+        "en": "Use the car for an efficient day in Frankenthal. First, park at the Speyerer Tor and explore the historic core on foot. Then drive to the Wormser Tor and on to the industrially shaped canal harbor. Spend the afternoon relaxing at the lido, which has ample parking facilities."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Strandbad",
+            "tip": "Internationale Gerichte mit Blick ins Grüne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strand étterem",
+            "tip": "Nemzetközi ételek kilátással a zöldre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul de la ștrand",
+            "tip": "Preparate internaționale cu vedere la natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lido Restaurant",
+            "tip": "International dishes with a view of the greenery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatznähe Strandbad",
+            "tip": "Ruhige Bereiche im hinteren Teil des Bades.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strand távolabbi része",
+            "tip": "Csendes területek a fürdő hátsó részén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona liniștită a ștrandului",
+            "tip": "Zone liniștite în partea din spate a ștrandului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiet areas of the lido",
+            "tip": "Quiet sections in the back of the facility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gewerbegebiet Frankenthal",
+            "tip": "Große Auswahl an Fachgeschäften im Osten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frankenthali ipari negyed",
+            "tip": "Szaküzletek széles választéka keleten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona comercială Frankenthal",
+            "tip": "O gamă largă de magazine specializate în est."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frankenthal Commercial Area",
+            "tip": "Large selection of specialty shops in the east."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Parkhaus am Rathaus für direkten Zugang zur Fußgängerzone.",
+          "Das Strandbad ist im Sommer sehr beliebt, kommen Sie früh.",
+          "Beachten Sie die Einbahnstraßenregelung in der Innenstadt."
+        ],
+        "hu": [
+          "Parkoljon a Városháza melletti parkolóházban a sétálóövezet közvetlen eléréséhez.",
+          "A strandfürdő nyáron nagyon népszerű, érkezzen korán.",
+          "Ügyeljen a belvárosi egyirányú utcákra."
+        ],
+        "ro": [
+          "Parcați în parcarea de la primărie pentru acces direct la zona pietonală.",
+          "Ștrandul este foarte popular vara, veniți devreme.",
+          "Atenție la reglementările privind sensurile unice din centrul orașului."
+        ],
+        "en": [
+          "Park in the parking garage at the town hall for direct access to the pedestrian zone.",
+          "The lido is very popular in summer, arrive early.",
+          "Note the one-way street regulations in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Frankenthal Hauptbahnhof",
+            "hu": "Frankenthal főpályaudvar",
+            "ro": "Gara Centrală Frankenthal",
+            "en": "Frankenthal Main Station"
+          },
+          "coords": [
+            8.3515,
+            49.5345
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": {
+            "de": "Wormser Tor",
+            "hu": "Wormsi kapu",
+            "ro": "Poarta Wormser",
+            "en": "Wormser Tor"
+          },
+          "coords": [
+            8.355,
+            49.536
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof.",
+            "hu": "Rövid séta a pályaudvartól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            8.3545,
+            49.5337
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentrum des Cluster-Walking.",
+            "hu": "A gyalogos klaszter központja.",
+            "ro": "Centrul clusterului de mers pe jos.",
+            "en": "Center of the walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Erkenbert-Ruine",
+            "hu": "Erkenbert-romok",
+            "ro": "Ruina Erkenbert",
+            "en": "Erkenbert Ruins"
+          },
+          "coords": [
+            8.3555,
+            49.5335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben dem Rathausplatz.",
+            "hu": "Közvetlenül a Városháza tér mellett.",
+            "ro": "Chiar lângă piața primăriei.",
+            "en": "Right next to the town hall square."
+          }
+        },
+        {
+          "name": {
+            "de": "Speyerer Tor",
+            "hu": "Speyeri kapu",
+            "ro": "Poarta Speyerer",
+            "en": "Speyerer Tor"
+          },
+          "coords": [
+            8.354,
+            49.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Südlicher Punkt des Zentrums.",
+            "hu": "A központ déli pontja.",
+            "ro": "Punctul sudic al centrului.",
+            "en": "Southern point of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad (Bus 464)",
+            "hu": "Strandfürdő (464-es busz)",
+            "ro": "Ștrand (Autobuz 464)",
+            "en": "Lido (Bus 464)"
+          },
+          "coords": [
+            8.38,
+            49.542
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bequem mit dem Stadtbus erreichbar.",
+            "hu": "Kényelmesen elérhető városi busszal.",
+            "ro": "Accesibil comod cu autobuzul urban.",
+            "en": "Conveniently reachable by city bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Frankenthal lässt sich hervorragend mit Bus und Bahn erkunden. Starten Sie am Hauptbahnhof und entdecken Sie den historischen Kern mit seinen Toren und Ruinen zu Fuß. Danach bringt Sie der Stadtbus direkt zum Strandbad, wo Sie den Tag entspannt genießen können, bevor es mit dem Bus zurück zum Bahnhof geht.",
+        "hu": "Frankenthal kiválóan felfedezhető busszal és vonattal. Kezdjen a főpályaudvaron, és fedezze fel a történelmi magot a kapuival és romjaival gyalogosan. Ezután a városi busz közvetlenül a strandfürdőhöz viszi, ahol élvezheti a napot, mielőtt busszal visszatérne a pályaudvarra.",
+        "ro": "Frankenthal poate fi explorat excelent cu autobuzul și trenul. Începeți de la gara centrală și descoperiți nucleul istoric cu porțile și ruinele sale pe jos. Apoi, autobuzul urban vă duce direct la ștrand, unde vă puteți bucura de zi înainte de a reveni cu autobuzul la gară.",
+        "en": "Frankenthal can be explored excellently by bus and train. Start at the main station and discover the historic core with its gates and ruins on foot. Then the city bus takes you directly to the lido, where you can enjoy the day before taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Görtz am Bahnhof",
+            "tip": "Schneller Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Görtz pékség a pályaudvarnál",
+            "tip": "Gyors snack útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Görtz de la gară",
+            "tip": "Gustare rapidă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Görtz Bakery at the station",
+            "tip": "Quick snack for the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsvorplatz",
+            "tip": "Sitzgelegenheiten unter Bäumen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvar előtti tér",
+            "tip": "Ülőhelyek a fák alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața gării",
+            "tip": "Locuri de șezut sub copaci.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Forecourt",
+            "tip": "Seating areas under trees.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Reisebedarf und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari újságos",
+            "tip": "Utazási kellékek és folyóiratok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc gară",
+            "tip": "Articole de călătorie și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Travel supplies and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die VRN-App für aktuelle Busverbindungen.",
+          "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+          "Die Buslinie 464 fährt regelmäßig zum Strandbad."
+        ],
+        "hu": [
+          "Használja a VRN alkalmazást az aktuális buszjáratokhoz.",
+          "A napijegy gyakran olcsóbb, mint az egyszeri jegyek.",
+          "A 464-es busz rendszeresen jár a strandhoz."
+        ],
+        "ro": [
+          "Utilizați aplicația VRN pentru conexiuni actualizate de autobuz.",
+          "Un bilet de o zi este adesea mai ieftin decât călătoriile individuale.",
+          "Linia de autobuz 464 circulă regulat spre ștrand."
+        ],
+        "en": [
+          "Use the VRN app for up-to-date bus connections.",
+          "A day ticket is often cheaper than single rides.",
+          "Bus line 464 runs regularly to the lido."
+        ]
+      }
+    }
+  }
+}

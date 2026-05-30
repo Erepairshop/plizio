@@ -1,0 +1,1119 @@
+{
+  "city_id": "bourges",
+  "anchor": {
+    "name": "Bourges",
+    "coords": [
+      2.3991,
+      47.081
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Gordaine",
+            "hu": "Place Gordaine",
+            "ro": "Place Gordaine",
+            "en": "Place Gordaine"
+          },
+          "coords": [
+            2.3934,
+            47.0852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkhäuser bei einem morgendlichen Espresso.",
+            "hu": "Csodáld meg a favázas házakat egy reggeli eszpresszó mellett.",
+            "ro": "Admirați casele cu bârne de lemn la un espresso de dimineață.",
+            "en": "Admire the timber-framed houses over a morning espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Jacques Cœur",
+            "hu": "Jacques Cœur palota",
+            "ro": "Palatul Jacques Cœur",
+            "en": "Palais Jacques Cœur"
+          },
+          "coords": [
+            2.3924,
+            47.0843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der spätgotischen Zivilarchitektur des 15. Jahrhunderts.",
+            "hu": "A 15. századi késő gótikus polgári építészet remekműve.",
+            "ro": "O capodoperă a arhitecturii civile gotice târzii din secolul al XV-lea.",
+            "en": "A masterpiece of 15th-century late Gothic civil architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Berry",
+            "hu": "Berry Múzeum",
+            "ro": "Muzeul Berry",
+            "en": "Musée du Berry"
+          },
+          "coords": [
+            2.3931,
+            47.0838
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Hôtel Cujas beherbergt bedeutende archäologische Sammlungen.",
+            "hu": "Az Hôtel Cujas épülete jelentős régészeti gyűjteményeknek ad otthont.",
+            "ro": "Hôtel Cujas găzduiește colecții arheologice importante.",
+            "en": "Hôtel Cujas houses significant archaeological collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Cathédrale (Mittagessen)",
+            "hu": "Katedrális tér (Ebéd)",
+            "ro": "Place de la Cathédrale (Prânz)",
+            "en": "Place de la Cathédrale (Lunch)"
+          },
+          "coords": [
+            2.3985,
+            47.0825
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Galette aux pommes de terre in einem lokalen Bistro.",
+            "hu": "Kóstold meg a helyi burgonyás lepényt (galette) egy bisztróban.",
+            "ro": "Încercați galette aux pommes de terre la un bistro local.",
+            "en": "Try galette aux pommes de terre at a local bistro."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            2.3992,
+            47.0822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe, berühmt für seine Glasmalereien aus dem 13. Jahrhundert.",
+            "hu": "UNESCO világörökség, híres a 13. századi üvegablakairól.",
+            "ro": "Patrimoniu UNESCO, celebră pentru vitraliile sale din secolul al XIII-lea.",
+            "en": "UNESCO World Heritage site, famous for its 13th-century stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de l'Archevêché",
+            "hu": "Érseki kert",
+            "ro": "Grădina Arhiepiscopiei",
+            "en": "Jardin de l'Archevêché"
+          },
+          "coords": [
+            2.4012,
+            47.0815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein von Le Nôtre entworfener Garten mit Blick auf die Kathedrale.",
+            "hu": "Le Nôtre által tervezett kert, kilátással a székesegyházra.",
+            "ro": "O grădină proiectată de Le Nôtre, cu vedere spre catedrală.",
+            "en": "A garden designed by Le Nôtre with views of the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel Lallemant",
+            "hu": "Hôtel Lallemant",
+            "ro": "Hôtel Lallemant",
+            "en": "Hôtel Lallemant"
+          },
+          "coords": [
+            2.3955,
+            47.0845
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein Renaissance-Palais mit Kuriositätenkabinett und Alchemie-Symbolen.",
+            "hu": "Reneszánsz palota különlegességek gyűjteményével és alkímiai szimbólumokkal.",
+            "ro": "Un palat renascentist cu un cabinet de curiozități și simboluri alchimice.",
+            "en": "A Renaissance mansion with a cabinet of curiosities and alchemy symbols."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am Place Gordaine, dem mittelalterlichen Herz von Bourges, umgeben von schiefen Fachwerkhäusern. Nach der Besichtigung des prächtigen Palais Jacques Cœur tauchen Sie im Musée du Berry in die gallo-römische Geschichte ein. Der Nachmittag gehört der monumentalen Kathedrale Saint-Étienne, deren fünf Portale und die fehlende Querschiff-Struktur einzigartig sind. Den Abschluss bildet ein entspannter Spaziergang durch die geometrischen Alleen des Jardin de l'Archevêché.",
+        "hu": "A napot a Place Gordaine-en kezdi, Bourges középkori szívében, görbe favázas házak között. A pazar Jacques Cœur palota megtekintése után a Berry Múzeumban merülhet el a gall-római történelemben. A délután a monumentális Szent István-székesegyházé, amelynek öt portálja és kereszthajó nélküli szerkezete egyedülálló. A napot az Érseki kert mértani sétányain tett pihentető séta zárja, ahonnan remek rálátás nyílik a katedrális apszisára.",
+        "ro": "Ziua începe în Place Gordaine, inima medievală a orașului Bourges, înconjurată de case pitorești cu bârne. După vizitarea somptuosului Palat Jacques Cœur, explorați istoria galo-romană la Muzeul Berry. După-amiaza este dedicată monumentalei Catedrale Sfântul Ștefan, ale cărei cinci portaluri și absența transeptului sunt unice în lume. Încheiați cu o plimbare relaxantă pe aleile geometrice ale Grădinii Arhiepiscopiei, admirând arhitectura gotică.",
+        "en": "Start your day at Place Gordaine, the medieval heart of Bourges, surrounded by leaning timber-framed houses. After exploring the opulent Palais Jacques Cœur, delve into Gallo-Roman history at the Musée du Berry. The afternoon is dedicated to the monumental Saint-Étienne Cathedral, unique for its five portals and lack of a transept. Conclude with a relaxing stroll through the geometric paths of the Jardin de l'Archevêché, offering grand views of the cathedral's apse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Forestines de Bourges",
+            "tip": "Traditionelle Pralinen mit knuspriger Zuckerhülle."
+          },
+          {
+            "name": "Le Cercle",
+            "tip": "Gehobene Küche in einem historischen Gebäude nahe der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forestines de Bourges",
+            "tip": "Hagyományos, ropogós cukormázzal bevont praliné."
+          },
+          {
+            "name": "Le Cercle",
+            "tip": "Színvonalas konyha egy történelmi épületben a katedrális mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forestines de Bourges",
+            "tip": "Praline tradiționale cu înveliș crocant de zahăr."
+          },
+          {
+            "name": "Le Cercle",
+            "tip": "Bucătărie rafinată într-o clădire istorică lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forestines de Bourges",
+            "tip": "Traditional pralines with a crunchy sugar shell."
+          },
+          {
+            "name": "Le Cercle",
+            "tip": "Fine dining in a historic building near the cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de l'Archevêché",
+            "tip": "Ruhige Bänke unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Square du Cardinal Basly",
+            "tip": "Kleiner, versteckter Park hinter der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Érseki kert",
+            "tip": "Csendes padok az öreg fák árnyékában.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Square du Cardinal Basly",
+            "tip": "Kicsi, rejtett park a székesegyház mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Arhiepiscopiei",
+            "tip": "Bănci liniștite sub arbori bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Square du Cardinal Basly",
+            "tip": "Un mic parc ascuns în spatele catedralei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de l'Archevêché",
+            "tip": "Quiet benches under ancient trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Square du Cardinal Basly",
+            "tip": "Small, hidden park behind the cathedral.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Bourbonnoux",
+            "tip": "Zahlreiche Kunsthandwerksläden und Galerien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Bourbonnoux",
+            "tip": "Számos kézműves bolt és galéria az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Bourbonnoux",
+            "tip": "Numeroase magazine de artizanat și galerii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Bourbonnoux",
+            "tip": "Numerous craft shops and art galleries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Kathedrale ist mittags oft für Besichtigungen geöffnet.",
+          "Besuchen Sie die Krypta der Kathedrale (kostenpflichtig, aber lohnenswert).",
+          "Kostenlose Stadtpläne gibt es im Office de Tourisme neben dem Palais."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "A katedrális délidőben is látogatható.",
+          "Érdemes jegyet váltani a katedrális kriptájába is.",
+          "Ingyenes várostérképet a palota melletti Tourinform irodában kapsz."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Catedrala este adesea deschisă pentru vizite și la prânz.",
+          "Vizitați cripta catedralei (acces cu plată, dar merită).",
+          "Hărți gratuite se găsesc la biroul de turism de lângă palat."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The cathedral is often open for visits during lunchtime.",
+          "The cathedral crypt is worth the extra entry fee.",
+          "Pick up a free city map at the Tourist Office next to the Palais."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Gordaine",
+            "hu": "Place Gordaine",
+            "ro": "Place Gordaine",
+            "en": "Place Gordaine"
+          },
+          "coords": [
+            2.3934,
+            47.0852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im historischen Zentrum.",
+            "hu": "Kiindulópont a történelmi központban.",
+            "ro": "Punct de plecare în centrul istoric.",
+            "en": "Starting point in the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Marais de Bourges",
+            "hu": "Bourgesi mocsarak",
+            "ro": "Mlaștinile din Bourges",
+            "en": "Les Marais de Bourges"
+          },
+          "coords": [
+            2.4085,
+            47.0905
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Radfahren durch die 135 Hektar großen Gärten.",
+            "hu": "Kerékpározás a 135 hektáros konyhakertek között.",
+            "ro": "Ciclism prin cele 135 de hectare de grădini.",
+            "en": "Cycling through the 135 hectares of allotment gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Berry",
+            "hu": "Berry-csatorna",
+            "ro": "Canalul Berry",
+            "en": "Canal de Berry"
+          },
+          "coords": [
+            2.3855,
+            47.0915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flacher Radweg entlang des ehemaligen Treppelpfads.",
+            "hu": "Sík kerékpárút az egykori vontatóúton.",
+            "ro": "Pistă plată de biciclete de-a lungul fostului drum de halaj.",
+            "en": "Flat bike path along the former towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des MOF",
+            "hu": "MOF Múzeum",
+            "ro": "Muzeul MOF",
+            "en": "Musée des MOF"
+          },
+          "coords": [
+            2.3985,
+            47.0835
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Meisterwerke der besten Handwerker Frankreichs.",
+            "hu": "Franciaország legjobb kézműveseinek remekművei.",
+            "ro": "Capodopere ale celor mai buni artizani din Franța.",
+            "en": "Masterpieces by the best craftsmen of France."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            2.3992,
+            47.0822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradständer am Fuße der Kathedrale vorhanden.",
+            "hu": "Kerékpártárolók a katedrális lábánál.",
+            "ro": "Suporturi de biciclete disponibile la baza catedralei.",
+            "en": "Bike racks available at the foot of the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de l'Archevêché",
+            "hu": "Érseki kert",
+            "ro": "Grădina Arhiepiscopiei",
+            "en": "Jardin de l'Archevêché"
+          },
+          "coords": [
+            2.4012,
+            47.0815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang im Park.",
+            "hu": "Pihentető befejezés a parkban.",
+            "ro": "Final relaxant în parc.",
+            "en": "Relaxing finish in the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route kombiniert das historische Erbe mit der Natur. Von der Place Gordaine radeln Sie zu den 'Marais', einem Labyrinth aus Wasserwegen und Gärten direkt am Stadtrand. Danach folgen Sie dem Canal de Berry für eine ruhige Fahrt am Wasser. Nach dem Besuch des Handwerksmuseums MOF kehren Sie zur Kathedrale zurück, um das UNESCO-Erbe zu bewundern, und beenden die Tour im schattigen Jardin de l'Archevêché.",
+        "hu": "Ez az útvonal ötvözi a történelmi örökséget a természettel. A Place Gordaine-től a 'Marais'-hoz kerekezik, amely vízi utak és kertek labirintusa a város szélén. Ezután a Berry-csatornát követi egy nyugodt vízparti tekeréshez. A MOF kézműves múzeum meglátogatása után visszatér a katedrálishoz, hogy megcsodálja az UNESCO örökséget, majd az Érseki kert árnyas fái alatt zárja a túrát.",
+        "ro": "Acest traseu combină patrimoniul istoric cu natura. De la Place Gordaine, pedalați spre 'Marais', un labirint de canale și grădini chiar la marginea orașului. Urmați apoi Canalul Berry pentru o plimbare liniștită pe malul apei. După vizitarea muzeului de meșteșuguri MOF, reveniți la catedrală pentru a admira situl UNESCO și încheiați turul în Grădina Arhiepiscopiei.",
+        "en": "This route combines historic heritage with nature. From Place Gordaine, cycle to the 'Marais', a labyrinth of waterways and gardens right on the city's edge. Then follow the Canal de Berry for a peaceful ride by the water. After visiting the MOF craft museum, return to the cathedral to admire the UNESCO heritage and finish your tour in the shaded Jardin de l'Archevêché."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette des Marais",
+            "tip": "Erfrischungen in grüner Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buvette des Marais",
+            "tip": "Frissítők zöld környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvette des Marais",
+            "tip": "Răcoritoare într-un cadru verde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette des Marais",
+            "tip": "Refreshments in a green setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Marais",
+            "tip": "Einer der ruhigsten Orte der Stadt.",
+            "emoji": "🛶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mocsarak",
+            "tip": "A város egyik legnyugodtabb pontja.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mlaștinile",
+            "tip": "Unul dintre cele mai liniștite locuri din oraș.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "The Marshes",
+            "tip": "One of the quietest places in the city.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halle au Blé",
+            "tip": "Markthalle für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halle au Blé",
+            "tip": "Vásárcsarnok helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halle au Blé",
+            "tip": "Piață acoperită pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halle au Blé",
+            "tip": "Covered market for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad am Bahnhof (Cap'Vélo).",
+          "Achten Sie in den Marais auf Fußgänger.",
+          "Die Wege am Kanal sind sehr flach und einfach.",
+          "Ein Schloss ist für Museumsbesuche unerlässlich."
+        ],
+        "hu": [
+          "Bérelj biciklit a vasútállomásnál (Cap'Vélo).",
+          "A mocsarak területén figyelj a gyalogosokra.",
+          "A csatorna menti utak síkok és könnyen tekerhetők.",
+          "Múzeumlátogatáshoz elengedhetetlen a lakat."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de la gară (Cap'Vélo).",
+          "Aveți grijă la pietoni în zona mlaștinilor.",
+          "Drumurile de-a lungul canalului sunt plate și ușoare.",
+          "Un sistem de antivolt este esențial pentru vizitele la muzee."
+        ],
+        "en": [
+          "Rent a bike at the train station (Cap'Vélo).",
+          "Watch out for pedestrians in the Marshes.",
+          "The paths along the canal are flat and easy.",
+          "A lock is essential for museum visits."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            2.3992,
+            47.0822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Hôtel de Ville'.",
+            "hu": "Parkolj a Városháza melletti mélygarázsban.",
+            "ro": "Parcați în parcarea 'Hôtel de Ville'.",
+            "en": "Park in the 'Hôtel de Ville' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Jacques Cœur",
+            "hu": "Jacques Cœur palota",
+            "ro": "Palatul Jacques Cœur",
+            "en": "Palais Jacques Cœur"
+          },
+          "coords": [
+            2.3924,
+            47.0843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkhaus durch die Altstadt.",
+            "hu": "Rövid séta a parkolótól az óvároson át.",
+            "ro": "Scurtă plimbare de la parcare prin centrul vechi.",
+            "en": "Short walk from the parking through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Marais de Bourges",
+            "hu": "Bourgesi mocsarak",
+            "ro": "Mlaștinile din Bourges",
+            "en": "Les Marais de Bourges"
+          },
+          "coords": [
+            2.4085,
+            47.0905
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz am Quai de l'Yèvre.",
+            "hu": "Ingyenes parkoló a Quai de l'Yèvre-nél.",
+            "ro": "Parcare gratuită pe Quai de l'Yèvre.",
+            "en": "Free parking at Quai de l'Yèvre."
+          }
+        },
+        {
+          "name": {
+            "de": "Menetou-Salon (Weinberg-Ausflug)",
+            "hu": "Menetou-Salon (borvidéki kitérő)",
+            "ro": "Menetou-Salon (excursie viticolă)",
+            "en": "Menetou-Salon (Vineyard detour)"
+          },
+          "coords": [
+            2.4855,
+            47.2315
+          ],
+          "category": "agriculture",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie ein Weingut für eine AOC-Verkostung.",
+            "hu": "Látogass el egy borászatba AOC borkóstolóra.",
+            "ro": "Vizitați o cramă pentru o degustare AOC.",
+            "en": "Visit a winery for an AOC wine tasting."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Menetou-Salon",
+            "hu": "Menetou-Salon kastély",
+            "ro": "Castelul Menetou-Salon",
+            "en": "Château de Menetou-Salon"
+          },
+          "coords": [
+            2.4885,
+            47.2325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein neugotisches Schloss im Besitz der Familie Arenberg.",
+            "hu": "Neogótikus kastély az Arenberg család tulajdonában.",
+            "ro": "Un castel neogotic deținut de familia Arenberg.",
+            "en": "A Neo-Gothic chateau owned by the Arenberg family."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourges Altstadt (Abendessen)",
+            "hu": "Bourges óváros (Vacsora)",
+            "ro": "Centrul vechi Bourges (Cină)",
+            "en": "Bourges Old Town (Dinner)"
+          },
+          "coords": [
+            2.3934,
+            47.0852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.2,
+          "tip_5lang": {
+            "de": "Letzter Stopp für lokale Spezialitäten.",
+            "hu": "Utolsó megálló helyi specialitásokhoz.",
+            "ro": "Ultima oprire pentru specialități locale.",
+            "en": "Final stop for local specialties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Bourges mit dem umliegenden Weinland. Nach dem Besuch der Kathedrale und des Palais Jacques Cœur im Zentrum fahren Sie zu den Marais für Natur pur. Am Nachmittag verlassen Sie die Stadt für eine kurze Fahrt nach Menetou-Salon, bekannt für seine exzellenten Weißweine und sein prächtiges neugotisches Schloss, bevor Sie für den Abend nach Bourges zurückkehren.",
+        "hu": "Ez az autós túra ötvözi Bourges nevezetességeit a környező borvidékkel. A központi katedrális és a Jacques Cœur palota megtekintése után a mocsarakhoz hajt, hogy élvezze a természetet. Délután elhagyja a várost egy rövid autózásra Menetou-Salon felé, amely kiváló fehérborairól és pompás neogótikus kastélyáról híres, majd este visszatér Bourges-ba.",
+        "ro": "Acest tur auto combină atracțiile din Bourges cu zona viticolă înconjurătoare. După vizitarea catedralei și a Palatului Jacques Cœur din centru, mergeți la mlaștini pentru natură. După-amiaza, părăsiți orașul pentru o scurtă călătorie spre Menetou-Salon, renumit pentru vinurile sale albe excelente și castelul său neogotic superb, înainte de a reveni în Bourges pentru seară.",
+        "en": "This car tour combines the highlights of Bourges with the surrounding wine country. After visiting the central cathedral and Palais Jacques Cœur, drive to the Marshes for a touch of nature. In the afternoon, head out of town for a short drive to Menetou-Salon, famous for its excellent white wines and its magnificent Neo-Gothic chateau, before returning to Bourges for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vins de Menetou-Salon",
+            "tip": "Frischer Sauvignon Blanc aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menetou-Salon borok",
+            "tip": "Friss Sauvignon Blanc a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri de Menetou-Salon",
+            "tip": "Sauvignon Blanc proaspăt din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menetou-Salon Wines",
+            "tip": "Fresh Sauvignon Blanc from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Menetou",
+            "tip": "Panoramablick über die Reben.",
+            "emoji": "🍇"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Menetou szőlőskertek",
+            "tip": "Panoráma a tőkék fölött.",
+            "emoji": "🍇"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Menetou",
+            "tip": "Vedere panoramică peste vii.",
+            "emoji": "🍇"
+          }
+        ],
+        "en": [
+          {
+            "name": "Menetou Vineyards",
+            "tip": "Panoramic view over the vines.",
+            "emoji": "🍇"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cave des vignerons",
+            "tip": "Direktkauf beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bortermelők pincéje",
+            "tip": "Vásárlás közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cave des vignerons",
+            "tip": "Cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave des vignerons",
+            "tip": "Buy directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist samstags oft schwierig.",
+          "Trinken Sie verantwortungsbewusst bei Weinproben.",
+          "Das Schloss Menetou-Salon hat saisonale Öffnungszeiten.",
+          "Nutzen Sie Park-and-Ride-Plätze am Stadtrand."
+        ],
+        "hu": [
+          "A belvárosi parkolás szombatonként nehézkes lehet.",
+          "Borkóstolásnál ügyelj a mértékre.",
+          "A Menetou-Salon kastély szezonálisan van nyitva.",
+          "Használd a város szélén található P+R parkolókat."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă sâmbăta.",
+          "Consumați cu moderație la degustările de vin.",
+          "Castelul Menetou-Salon are program sezonier.",
+          "Folosiți parcările de tip P+R de la marginea orașului."
+        ],
+        "en": [
+          "Parking in the center can be difficult on Saturdays.",
+          "Drink responsibly during wine tastings.",
+          "Chateau Menetou-Salon has seasonal opening hours.",
+          "Use P+R parking lots on the outskirts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Bourges (Bahnhof)",
+            "hu": "Bourges vasútállomás",
+            "ro": "Gara Bourges",
+            "en": "Bourges Railway Station"
+          },
+          "coords": [
+            2.3895,
+            47.0935
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Busse ins Zentrum (Linie A/B).",
+            "hu": "Indulási pont a központba tartó buszokhoz (A/B vonal).",
+            "ro": "Punct de plecare pentru autobuzele spre centru (Liniile A/B).",
+            "en": "Starting point for buses to the center (Lines A/B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Gordaine",
+            "hu": "Place Gordaine",
+            "ro": "Place Gordaine",
+            "en": "Place Gordaine"
+          },
+          "coords": [
+            2.3934,
+            47.0852
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Haltestelle 'Planchat' nutzen.",
+            "hu": "Használd a 'Planchat' megállót.",
+            "ro": "Folosiți stația 'Planchat'.",
+            "en": "Use the 'Planchat' bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Jacques Cœur",
+            "hu": "Jacques Cœur palota",
+            "ro": "Palatul Jacques Cœur",
+            "en": "Palais Jacques Cœur"
+          },
+          "coords": [
+            2.3924,
+            47.0843
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Sfântul Ștefan",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            2.3992,
+            47.0822
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Buslinie 1 bis Haltestelle 'Cujas' oder 'Mairie'.",
+            "hu": "1-es busz a 'Cujas' vagy 'Mairie' megállóig.",
+            "ro": "Linia 1 până la stația 'Cujas' sau 'Mairie'.",
+            "en": "Bus Line 1 to 'Cujas' or 'Mairie' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Berry",
+            "hu": "Berry Múzeum",
+            "ro": "Muzeul Berry",
+            "en": "Musée du Berry"
+          },
+          "coords": [
+            2.3931,
+            47.0838
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Im historischen Zentrum gelegen.",
+            "hu": "A történelmi központban található.",
+            "ro": "Situat în centrul istoric.",
+            "en": "Located in the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de l'Archevêché",
+            "hu": "Érseki kert",
+            "ro": "Grădina Arhiepiscopiei",
+            "en": "Jardin de l'Archevêché"
+          },
+          "coords": [
+            2.4012,
+            47.0815
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Bahnhof ab 'Mairie'.",
+            "hu": "Visszautazás az állomásra a 'Mairie' megállótól.",
+            "ro": "Întoarcere la gară de la stația 'Mairie'.",
+            "en": "Return to station from 'Mairie' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Bourges, um die Stadt stressfrei zu erkunden. Vom Bahnhof gelangen Sie schnell in das historische Viertel um die Place Gordaine. Nach der Besichtigung der architektonischen Schätze wie dem Palais Jacques Cœur und der Kathedrale bringt Sie der Bus bequem zu den Museen und Gärten der Oberstadt, bevor Sie am Abend wieder den Hauptbahnhof erreichen.",
+        "hu": "Használd Bourges hatékony buszhálózatát a város stresszmentes felfedezéséhez. A vasútállomástól gyorsan elérheted a Place Gordaine körüli történelmi negyedet. Az építészeti kincsek, mint a Jacques Cœur palota és a katedrális megtekintése után a busz kényelmesen elvisz a felsőváros múzeumaiba és kertjeibe, majd este visszatérhetsz a főpályaudvarra.",
+        "ro": "Folosiți sistemul eficient de autobuze din Bourges pentru a explora orașul fără stres. De la gară, ajungeți rapid în cartierul istoric din jurul Place Gordaine. După vizitarea comorilor arhitecturale precum Palatul Jacques Cœur și catedrala, autobuzul vă duce confortabil la muzeele și grădinile din orașul de sus, înainte de a reveni seara la gara centrală.",
+        "en": "Use Bourges' efficient bus network to explore the city stress-free. From the railway station, quickly reach the historic district around Place Gordaine. After visiting architectural treasures like Palais Jacques Cœur and the cathedral, the bus takes you conveniently to the museums and gardens of the upper town, before returning to the main station in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Guillotin",
+            "tip": "Gute lokale Küche unweit der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Guillotin",
+            "tip": "Jó helyi konyha a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Guillotin",
+            "tip": "Bucătărie locală bună aproape de stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Guillotin",
+            "tip": "Good local cuisine not far from the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la République",
+            "tip": "Kleiner Park an den Busknotenpunkten.",
+            "emoji": "⛲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Köztársaság tér",
+            "tip": "Kis park a buszos csomópontoknál.",
+            "emoji": "⛲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Republicii",
+            "tip": "Un mic parc lângă nodurile de autobuz.",
+            "emoji": "⛲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la République",
+            "tip": "Small park near the bus hubs.",
+            "emoji": "⛲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avaricum Shopping",
+            "tip": "Modernes Einkaufszentrum im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avaricum Shopping",
+            "tip": "Modern bevásárlóközpont a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avaricum Shopping",
+            "tip": "Centru comercial modern în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avaricum Shopping",
+            "tip": "Modern shopping center in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets beim Fahrer oder per App (Agglobus).",
+          "Die 'Navette gratuite' bedient das Stadtzentrum kostenlos.",
+          "Achten Sie auf die reduzierten Fahrpläne am Sonntag.",
+          "Die Haltestelle 'Nation' ist der zentrale Umsteigepunkt."
+        ],
+        "hu": [
+          "Vegyél jegyet a sofőrnél vagy applikációval (Agglobus).",
+          "A 'Navette gratuite' ingyenes járat a belvárosban.",
+          "Vasárnap ritkábban járnak a buszok.",
+          "A 'Nation' megálló a központi átszállóhely."
+        ],
+        "ro": [
+          "Cumpărați bilete de la șofer sau prin aplicație (Agglobus).",
+          "Naveta gratuită deservește centrul orașului fără costuri.",
+          "Atenție la orarul redus de duminică.",
+          "Stația 'Nation' este principalul punct de transfer."
+        ],
+        "en": [
+          "Buy tickets from the driver or via the app (Agglobus).",
+          "The 'Navette gratuite' serves the city center for free.",
+          "Watch out for reduced schedules on Sundays.",
+          "The 'Nation' stop is the central transfer point."
+        ]
+      }
+    }
+  }
+}

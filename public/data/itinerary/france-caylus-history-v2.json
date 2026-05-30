@@ -1,0 +1,1187 @@
+{
+  "city_id": "france-caylus-history-v2",
+  "anchor": {
+    "name": "Caylus",
+    "coords": [
+      44.23,
+      1.77
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Halle de Caylus",
+            "hu": "Caylus vásárcsarnoka",
+            "ro": "Hala din Caylus",
+            "en": "Halle de Caylus"
+          },
+          "coords": [
+            44.234,
+            1.771
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das mittelalterliche Gebälk.",
+            "hu": "Nézze meg a középkori tetőszerkezetet.",
+            "ro": "Admirați structura medievală din lemn.",
+            "en": "Admire the medieval timber roof structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Droite",
+            "hu": "Rue Droite (Főutca)",
+            "ro": "Rue Droite",
+            "en": "Rue Droite"
+          },
+          "coords": [
+            44.235,
+            1.772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die steilste und schönste Gasse.",
+            "hu": "A falu legszebb és legmeredekebb utcája.",
+            "ro": "Cea mai frumoasă și abruptă stradă.",
+            "en": "The steepest and most beautiful lane."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Loup",
+            "hu": "Farkas-ház",
+            "ro": "Casa Lupului",
+            "en": "Wolf House"
+          },
+          "coords": [
+            44.236,
+            1.773
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Wolfsskulpturen.",
+            "hu": "Keresse a farkasokat ábrázoló szobrokat.",
+            "ro": "Căutați sculpturile cu lupi de pe fațadă.",
+            "en": "Look for the wolf sculptures on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            44.235,
+            1.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das hölzerne Kruzifix ist weltberühmt.",
+            "hu": "A fából készült feszület világhírű műalkotás.",
+            "ro": "Crucifixul din lemn este o operă celebră.",
+            "en": "The wooden crucifix is a world-famous artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Ville",
+            "hu": "Városkapu",
+            "ro": "Poarta Orașului",
+            "en": "City Gate"
+          },
+          "coords": [
+            44.233,
+            1.77
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Überrest der alten Stadtmauer.",
+            "hu": "A régi városfal megmaradt emléke.",
+            "ro": "O relicvă a vechiului zid de apărare.",
+            "en": "A remnant of the old defensive walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon Gaillard",
+            "hu": "Gaillard Pavilon",
+            "ro": "Pavilionul Gaillard",
+            "en": "Pavillon Gaillard"
+          },
+          "coords": [
+            44.234,
+            1.774
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prächtiges Renaissance-Gebäude.",
+            "hu": "Pompás reneszánsz épület a központban.",
+            "ro": "Clădire renascentistă splendidă în centru.",
+            "en": "Splendid Renaissance building in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Caylus",
+            "hu": "Caylus várrom",
+            "ro": "Ruinele Castelului Caylus",
+            "en": "Caylus Castle Ruins"
+          },
+          "coords": [
+            44.238,
+            1.774
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf das Tal.",
+            "hu": "A legjobb panoráma a völgyre.",
+            "ro": "Cea mai bună panoramă asupra văii.",
+            "en": "Best panoramic view of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascades de Pétrifiantes",
+            "hu": "Mésztufa vízesés",
+            "ro": "Cascadele Petrefiante",
+            "en": "Petrifying Waterfalls"
+          },
+          "coords": [
+            44.225,
+            1.78
+          ],
+          "category": "natural features",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wunderschöner Naturpfad am Wasser.",
+            "hu": "Gyönyörű tanösvény a víz mentén.",
+            "ro": "Traseu natural superb lângă apă.",
+            "en": "Beautiful nature trail along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Caylus unter der majestätischen Markthalle aus dem 15. Jahrhundert. Wir schlendern durch die Rue Droite, vorbei am geheimnisvollen Wolfshaus bis zur gotischen Kirche. Nach einer Entdeckungstour durch die Renaissance-Architektur steigen wir zur alten Burgruine auf, bevor wir den Tag an den faszinierenden kalkverkrusteten Wasserfällen in der Natur ausklingen lassen.",
+        "hu": "A napot Caylus szívében, a 15. századi vásárcsarnok alatt kezdjük. Végigsétálunk a Rue Droite meredek utcáján, megcsodáljuk a Farkas-házat és a gótikus templomot. A reneszánsz paloták felfedezése után felkapaszkodunk a várromokhoz, ahonnan belátni az egész környéket. Végül a közeli különleges mésztufa-vízeséseknél pihenünk meg a természet lágy ölén.",
+        "ro": "Ziua începe în inima localității Caylus, sub hala maiestuoasă din secolul XV. Ne plimbăm pe strada Rue Droite, trecând pe lângă misterioasa Casă a Lupului până la biserica gotică. După explorarea arhitecturii renascentiste, urcăm la ruinele vechiului castel, înainte de a încheia ziua la fascinantele cascade petrefiante, un spectacol natural unic în regiune.",
+        "en": "Your day starts in the heart of Caylus under the majestic 15th-century market hall. We stroll through Rue Droite, passing the mysterious Wolf House to the Gothic church. After exploring Renaissance architecture, we climb to the old castle ruins for panoramic views. We conclude the day at the fascinating petrifying waterfalls, a unique natural site just outside the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassoulet Quercynois",
+            "tip": "Ein herzhafter Eintopf mit lokalen Bohnen und Entenconfit."
+          },
+          {
+            "name": "Restaurant Le Renaissance",
+            "tip": "Traditionelle Küche in einem historischen Ambiente am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cassoulet Quercynois",
+            "tip": "Kiadós babos egytálétel kacsacombbal, a régió specialitása."
+          },
+          {
+            "name": "Le Renaissance étterem",
+            "tip": "Hagyományos konyha történelmi környezetben a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cassoulet Quercynois",
+            "tip": "O tocană sățioasă cu fasole locală și confit de rață."
+          },
+          {
+            "name": "Restaurant Le Renaissance",
+            "tip": "Bucătărie tradițională într-un cadru istoric lângă piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cassoulet Quercynois",
+            "tip": "A hearty bean stew with local duck confit, a regional staple."
+          },
+          {
+            "name": "Le Renaissance Restaurant",
+            "tip": "Traditional cuisine in a historical setting right on the square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten unter der Burg",
+            "tip": "Ein ruhiger Ort für eine Pause mit Blick auf die Dächer.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bonnette-Ufer",
+            "tip": "Spaziergang am Flussufer für kühle Momente im Sommer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár alatti kertek",
+            "tip": "Csendes pihenőhely kilátással a falu háztetőire.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Bonnette partja",
+            "tip": "Folyóparti séta, amely felfrissülést nyújt a nyári melegben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de sub castel",
+            "tip": "Un loc liniștit pentru o pauză cu vedere spre acoperișuri.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Bonnette",
+            "tip": "Plimbare pe malul apei pentru momente răcoroase vara.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens below the Castle",
+            "tip": "A quiet spot for a break with views over the village roofs.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Bonnette",
+            "tip": "Riverside walk offering cool moments during summer days.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Dienstag)",
+            "tip": "Lokale Käsesorten und handwerkliche Produkte unter der Halle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (kedd)",
+            "tip": "Helyi sajtok és kézműves termékek a vásárcsarnok alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (marți)",
+            "tip": "Brânzeturi locale și produse artizanale sub hală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Tuesday)",
+            "tip": "Local cheeses and artisanal products under the hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Rue Droite sehr steil ist.",
+          "Besuchen Sie den Ort an einem Dienstag für das volle Markterlebnis.",
+          "Die Wasserfälle sind nach Regenfällen am spektakulärsten.",
+          "Parken Sie am unteren Stadtrand, um den Kern zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a Rue Droite utca rendkívül meredek.",
+          "Látogasson el kedden, hogy átélje az igazi piaci hangulatot.",
+          "A vízesések esőzés után a leglátványosabbak.",
+          "Érdemes a falu szélén parkolni és gyalog felfedezni a központot."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece strada Rue Droite este foarte abruptă.",
+          "Vizitați localitatea într-o zi de marți pentru experiența completă a pieței.",
+          "Cascadele sunt cele mai spectaculoase după perioade de ploaie.",
+          "Parcați la periferie pentru a explora centrul vechi la pas."
+        ],
+        "en": [
+          "Wear comfortable shoes as Rue Droite is very steep.",
+          "Visit on a Tuesday to experience the full local market atmosphere.",
+          "The waterfalls are most spectacular after rainfall.",
+          "Park at the edge of the village to explore the core on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Halle de Caylus",
+            "hu": "Caylus vásárcsarnoka",
+            "ro": "Hala din Caylus",
+            "en": "Halle de Caylus"
+          },
+          "coords": [
+            44.234,
+            1.771
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahrräder müssen in der Halle geschoben werden.",
+            "hu": "A csarnok területén tolni kell a kerékpárt.",
+            "ro": "Bicicletele trebuie împinse în zona halei.",
+            "en": "Bikes must be pushed within the hall area."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Loup",
+            "hu": "Farkas-ház",
+            "ro": "Casa Lupului",
+            "en": "Wolf House"
+          },
+          "coords": [
+            44.236,
+            1.773
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Juwel der gotischen Zivilarchitektur.",
+            "hu": "A gótikus polgári építészet egyik gyöngyszeme.",
+            "ro": "O bijuterie a arhitecturii civile gotice.",
+            "en": "A jewel of Gothic civil architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            44.235,
+            1.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den beeindruckenden Innenraum.",
+            "hu": "Látogasson el a lenyűgöző belső térbe.",
+            "ro": "Vizitați interiorul impresionant.",
+            "en": "Visit the impressive interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Caylus",
+            "hu": "Caylus várrom",
+            "ro": "Ruinele Castelului Caylus",
+            "en": "Caylus Castle Ruins"
+          },
+          "coords": [
+            44.238,
+            1.774
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber die Aussicht lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "Urcare abruptă, dar vederea merită efortul.",
+            "en": "Steep climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch / Gastro stop",
+            "hu": "Ebéd / Gasztro megálló",
+            "ro": "Prânz / Oprire gastro",
+            "en": "Lunch / Gastro stop"
+          },
+          "coords": [
+            44.234,
+            1.772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spezialitäten aus dem Quercy probieren.",
+            "hu": "Kóstolja meg a Quercy vidék specialitásait.",
+            "ro": "Gustați specialitățile din regiunea Quercy.",
+            "en": "Taste specialties from the Quercy region."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascades de Pétrifiantes",
+            "hu": "Mésztufa vízesés",
+            "ro": "Cascadele Petrefiante",
+            "en": "Petrifying Waterfalls"
+          },
+          "coords": [
+            44.225,
+            1.78
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Eine erfrischende Pause in der Natur.",
+            "hu": "Frissítő pihenő a természetben.",
+            "ro": "O pauză revigorantă în natură.",
+            "en": "A refreshing break in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Labarthe",
+            "hu": "Labarthe-tó",
+            "ro": "Lacul Labarthe",
+            "en": "Lake Labarthe"
+          },
+          "coords": [
+            44.22,
+            1.77
+          ],
+          "category": "lake",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ideal zum Entspannen am Wasser.",
+            "hu": "Ideális hely a vízparti pihenéshez.",
+            "ro": "Ideal pentru relaxare pe malul apei.",
+            "en": "Ideal for relaxing by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Caylus und seine Umgebung mit dem Fahrrad. Wir beginnen im mittelalterlichen Zentrum, erklimmen den Burgberg für eine fantastische Aussicht und radeln dann durch das grüne Bonnette-Tal zu den einzigartigen Wasserfällen. Zum Abschluss führt uns der Weg zum idyllischen Labarthe-See, bevor wir zurück ins Dorf kehren.",
+        "hu": "Fedezze fel Caylust és környékét kerékpárral. A középkori központból indulunk, feltekerünk a várhegyre a panorámáért, majd a zöldellő Bonnette-völgyön át a különleges vízesésekhez gurulunk. A túra végén az idilli Labarthe-tó partján fújhatjuk ki magunkat, mielőtt visszatérnénk a faluba.",
+        "ro": "Descoperiți localitatea Caylus și împrejurimile sale pe bicicletă. Începem în centrul medieval, urcăm dealul castelului pentru o priveliște fantastică, apoi pedalăm prin valea verde a râului Bonnette către cascadele unice. La final, traseul ne duce la idilicul lac Labarthe, înainte de a ne întoarce în sat.",
+        "en": "Explore Caylus and its surroundings by bike. We start in the medieval center, climb the castle hill for fantastic views, and then cycle through the green Bonnette valley to the unique waterfalls. To wrap up, the path leads us to the idyllic Lake Labarthe before returning to the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Quercy-Walnüsse",
+            "tip": "Ein typischer Snack für die Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quercy dió",
+            "tip": "Tipikus helyi csemege, tökéletes útközbeni snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nuci de Quercy",
+            "tip": "O gustare tipică pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quercy Walnuts",
+            "tip": "A typical local snack for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de Labarthe",
+            "tip": "Ein friedlicher See am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Labarthe-tó",
+            "tip": "Békés tó a falu szélén, ideális piknikhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Labarthe",
+            "tip": "Un lac liniștit la marginea localității.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Labarthe",
+            "tip": "A peaceful lake on the outskirts of town.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Imker",
+            "tip": "Honig aus dem Quercy direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészek",
+            "tip": "Vásároljon Quercy mézet közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apicultori locali",
+            "tip": "Miere de Quercy direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beekeepers",
+            "tip": "Quercy honey directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Dorf sind eng, fahren Sie vorsichtig.",
+          "Ein Mountainbike oder E-Bike wird für die Hügel empfohlen.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt zum See mit."
+        ],
+        "hu": [
+          "A faluban szűkek az utcák, közlekedjen óvatosan.",
+          "A dombok miatt hegyi kerékpár vagy e-bike ajánlott.",
+          "Vigyen magával elegendő vizet a tóhoz vezető útra."
+        ],
+        "ro": [
+          "Străzile din sat sunt înguste, circulați cu atenție.",
+          "Se recomandă un mountain bike sau e-bike pentru dealuri.",
+          "Luați suficientă apă pentru drumul spre lac."
+        ],
+        "en": [
+          "The village streets are narrow, cycle carefully.",
+          "A mountain bike or e-bike is recommended for the hills.",
+          "Take enough water for the ride to the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Halle de Caylus (Cluster Altstadt)",
+            "hu": "Caylus vásárcsarnoka (Óváros klaszter)",
+            "ro": "Hala din Caylus (Cluster Centru Vechi)",
+            "en": "Halle de Caylus (Old Town Cluster)"
+          },
+          "coords": [
+            44.234,
+            1.771
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Place de la Halle.",
+            "hu": "Parkoljon a Place de la Halle téren.",
+            "ro": "Parcați în Place de la Halle.",
+            "en": "Park at Place de la Halle."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Loup",
+            "hu": "Farkas-ház",
+            "ro": "Casa Lupului",
+            "en": "Wolf House"
+          },
+          "coords": [
+            44.236,
+            1.773
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            44.235,
+            1.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Glasmalereien.",
+            "hu": "Csodálja meg az üvegablakokat.",
+            "ro": "Admirați vitraliile.",
+            "en": "Admire the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Caylus",
+            "hu": "Ebéd Caylusban",
+            "ro": "Prânz în Caylus",
+            "en": "Lunch in Caylus"
+          },
+          "coords": [
+            44.234,
+            1.772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Entengerichte.",
+            "hu": "Kóstolja meg a helyi kacsafogásokat.",
+            "ro": "Savurați preparate locale din rață.",
+            "en": "Enjoy local duck dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Caylus (Cluster Panorama)",
+            "hu": "Caylus várrom (Panoráma klaszter)",
+            "ro": "Ruinele Castelului Caylus (Cluster Panoramă)",
+            "en": "Caylus Castle Ruins (Panorama Cluster)"
+          },
+          "coords": [
+            44.238,
+            1.774
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum oberen Aussichtspunkt.",
+            "hu": "Hajtson fel egészen a felső kilátópontig.",
+            "ro": "Conduceți până la punctul de belvedere superior.",
+            "en": "Drive up to the upper viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascades de Pétrifiantes (Cluster Natur)",
+            "hu": "Mésztufa vízesés (Természet klaszter)",
+            "ro": "Cascadele Petrefiante (Cluster Natură)",
+            "en": "Petrifying Waterfalls (Nature Cluster)"
+          },
+          "coords": [
+            44.225,
+            1.78
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe des Pfades.",
+            "hu": "Tágas parkoló a tanösvény közelében.",
+            "ro": "Parcare spațioasă lângă traseu.",
+            "en": "Ample parking near the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Antonin-Noble-Val (Ausflug)",
+            "hu": "Saint-Antonin-Noble-Val (Kirándulás)",
+            "ro": "Saint-Antonin-Noble-Val (Excursie)",
+            "en": "Saint-Antonin-Noble-Val (Excursion)"
+          },
+          "coords": [
+            44.152,
+            1.756
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 50,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das mittelalterliche Caylus mit den Naturwundern der Umgebung. Wir erkunden erst den historischen Kern zu Fuß, fahren dann hinauf zur Burgruine für das perfekte Panorama und besuchen die spektakulären Wasserfälle. Den Abschluss bildet ein kurzer Abstecher in das nahegelegene, berühmte Dorf Saint-Antonin-Noble-Val.",
+        "hu": "Ez az autós túra Caylus középkori hangulatát ötvözi a környék természeti csodáival. Először az óvárost fedezzük fel gyalogosan, majd felautózunk a várromhoz a tökéletes panorámáért, és meglátogatjuk a különleges vízeséseket. A napot a közeli, híres Saint-Antonin-Noble-Val falujában tett rövid látogatással zárjuk.",
+        "ro": "Acest tur auto combină atmosfera medievală din Caylus cu minunile naturale din zonă. Explorăm mai întâi centrul istoric la pas, apoi conducem până la ruinele castelului pentru o panoramă perfectă și vizităm cascadele spectaculoase. Încheiem cu o scurtă incursiune în celebrul sat vecin Saint-Antonin-Noble-Val.",
+        "en": "This car tour combines medieval Caylus with the natural wonders of the surrounding area. We first explore the historic core on foot, then drive up to the castle ruins for a perfect panorama and visit the spectacular waterfalls. We conclude with a short trip to the nearby famous village of Saint-Antonin-Noble-Val."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coteaux du Quercy Weine",
+            "tip": "Hervorragende lokale Rotweine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coteaux du Quercy borok",
+            "tip": "Kiváló helyi vörösborok a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri Coteaux du Quercy",
+            "tip": "Vinuri roșii locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coteaux du Quercy Wines",
+            "tip": "Excellent local red wines from the area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramablick Burg",
+            "tip": "Ideal für Fotos bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkilátó",
+            "tip": "Ideális helyszín naplementés fotókhoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere de la castel",
+            "tip": "Ideal pentru poze la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Viewpoint",
+            "tip": "Ideal for sunset photos.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "Stöbern Sie in den kleinen Läden der Rue Droite."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "Böngésszen a Rue Droite kis régiségboltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Explorați micile magazine de pe Rue Droite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Shops",
+            "tip": "Browse the small shops on Rue Droite."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Ortseingang.",
+          "Die Straße zur Burg ist eng, fahren Sie langsam.",
+          "Planen Sie für Saint-Antonin-Noble-Val extra Zeit ein."
+        ],
+        "hu": [
+          "Használja a falu bejáratánál található parkolókat.",
+          "A várhoz vezető út szűk, vezessen lassan.",
+          "Szánjon extra időt Saint-Antonin-Noble-Val felfedezésére."
+        ],
+        "ro": [
+          "Folosiți parcările de la intrarea în localitate.",
+          "Drumul spre castel este îngust, conduceți încet.",
+          "Rezervați timp suplimentar pentru Saint-Antonin-Noble-Val."
+        ],
+        "en": [
+          "Use the parking lots at the village entrance.",
+          "The road to the castle is narrow, drive slowly.",
+          "Plan extra time for Saint-Antonin-Noble-Val."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Caylus (Cluster Zentrum)",
+            "hu": "Caylus buszmegálló (Központ klaszter)",
+            "ro": "Stația de autobuz Caylus (Cluster Centru)",
+            "en": "Caylus Bus Stop (Center Cluster)"
+          },
+          "coords": [
+            44.233,
+            1.771
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Busse aus Caussade.",
+            "hu": "A Caussade-ból érkező buszok központi megállója.",
+            "ro": "Punctul central de sosire pentru autobuzele din Caussade.",
+            "en": "Central arrival point for buses from Caussade."
+          }
+        },
+        {
+          "name": {
+            "de": "Halle de Caylus",
+            "hu": "Caylus vásárcsarnoka",
+            "ro": "Hala din Caylus",
+            "en": "Halle de Caylus"
+          },
+          "coords": [
+            44.234,
+            1.771
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 35,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herzstück des Dorfes.",
+            "hu": "A falu lüktető szíve.",
+            "ro": "Inima satului.",
+            "en": "The heart of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Loup",
+            "hu": "Farkas-ház",
+            "ro": "Casa Lupului",
+            "en": "Wolf House"
+          },
+          "coords": [
+            44.236,
+            1.773
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsliebhaber.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru iubitorii de istorie.",
+            "en": "A must-see for history lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            44.235,
+            1.771
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und Kunst.",
+            "hu": "A csend és a művészet temploma.",
+            "ro": "Un loc al liniștii și artei.",
+            "en": "A place of silence and art."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen / Restaurant",
+            "hu": "Ebéd / Étterem",
+            "ro": "Prânz / Restaurant",
+            "en": "Lunch / Restaurant"
+          },
+          "coords": [
+            44.234,
+            1.772
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lokale Weine probieren.",
+            "hu": "Kóstolja meg a helyi borokat.",
+            "ro": "Gustați vinurile locale.",
+            "en": "Taste local wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Caylus",
+            "hu": "Caylus várrom",
+            "ro": "Ruinele Castelului Caylus",
+            "en": "Caylus Castle Ruins"
+          },
+          "coords": [
+            44.238,
+            1.774
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blick über das Tal vor der Rückreise.",
+            "hu": "Tekintsen le a völgybe a visszautazás előtt.",
+            "ro": "Admirați valea înainte de plecare.",
+            "en": "View over the valley before your return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erreichen Sie Caylus entspannt. Wir konzentrieren uns auf den kompakten historischen Kern, besuchen die Markthalle, die gotische Kirche und das berühmte Wolfshaus. Ein traditionelles Mittagessen und der Aufstieg zur Burgruine runden den Besuch ab, bevor Sie den Bus für die Rückreise nehmen.",
+        "hu": "Tömegközlekedéssel is könnyen felfedezhető Caylus. A túra a jól bejárható történelmi központra fókuszál: érinti a vásárcsarnokot, a gótikus templomot és a Farkas-házat. Egy hagyományos ebéd és a várromokhoz tett séta teszi teljessé a látogatást, mielőtt felszállnánk a visszatérő buszra.",
+        "ro": "Cu transportul public ajungeți relaxat în Caylus. Ne concentrăm pe centrul istoric compact, vizităm hala, biserica gotică și celebra Casă a Lupului. Un prânz tradițional și urcarea la ruinele castelului completează vizita, înainte de a lua autobuzul pentru întoarcere.",
+        "en": "Reach Caylus easily by public transport. We focus on the compact historic core, visiting the market hall, the Gothic church, and the famous Wolf House. A traditional lunch and a walk up to the castle ruins round out the visit before catching your bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Ziegenkäse",
+            "tip": "Oft auf dem Wochenmarkt zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kecskesajt",
+            "tip": "Gyakran kapható a heti piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de capră locală",
+            "tip": "Se găsește des la piața săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Goat Cheese",
+            "tip": "Often found at the weekly market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ein schattiger Ort für eine kleine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom előtti tér",
+            "tip": "Árnyas hely egy rövid pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piațeta bisericii",
+            "tip": "Un loc umbros pentru o scurtă pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "A shaded spot for a short break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Regionale Spezialitäten in den Geschäften am Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Regionális specialitások a tér körüli boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Specialități regionale în magazinele din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Products",
+            "tip": "Regional specialties in the shops around the square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab (Linie 801/807).",
+          "Der Ort ist klein und sehr gut zu Fuß begehbar.",
+          "Die Bushaltestelle liegt direkt am Eingang zum historischen Kern."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet (801/807-es járat).",
+          "A falu kicsi és gyalogosan kiválóan bejárható.",
+          "A buszmegálló közvetlenül a történelmi központ bejáratánál található."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans (linia 801/807).",
+          "Satul este mic și foarte ușor de parcurs la pas.",
+          "Stația de autobuz este chiar la intrarea în centrul istoric."
+        ],
+        "en": [
+          "Check bus schedules in advance (line 801/807).",
+          "The village is small and very walkable on foot.",
+          "The bus stop is located right at the entrance to the historic core."
+        ]
+      }
+    }
+  }
+}

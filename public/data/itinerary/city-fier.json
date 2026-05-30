@@ -1,7 +1,7 @@
 {
   "city_id": "city-fier",
   "anchor": {
-    "name": "Fier",
+    "name": "Fier Freedom Square",
     "coords": [
       19.5561,
       40.7239
@@ -10,808 +10,889 @@
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "15:50",
-      "total_km": 2.6,
+      "end_estimate": "15:45",
+      "total_km": 2.4,
       "stop_count": 6,
       "stops": [
         {
-          "name": "Platz der Freiheit",
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
           "coords": [
-            19.556,
-            40.724
+            19.5561,
+            40.7239
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 35,
+          "arrive_at": "09:10",
+          "stay_min": 25,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Perfekt für einen Morgenkaffee.",
-            "hu": "Tökéletes egy reggeli kávéhoz.",
-            "ro": "Perfect pentru o cafea matinală.",
-            "en": "Perfect for a morning coffee."
+            "de": "Der zentrale Treffpunkt der Stadt.",
+            "hu": "A város központi találkozóhelye.",
+            "ro": "Principalul punct de întâlnire din oraș.",
+            "en": "The main meeting point of the city."
           }
         },
         {
-          "name": "Liri-Gero-Statue",
+          "name": {
+            "de": "Moschee von Fier",
+            "hu": "Fier mecsetje",
+            "ro": "Moscheea din Fier",
+            "en": "Mosque of Fier"
+          },
           "coords": [
-            19.558,
-            40.725
+            19.557,
+            40.7245
           ],
-          "category": "monuments/statues",
+          "category": "churches/cathedrals",
           "arrive_at": "09:40",
-          "stay_min": 15,
+          "stay_min": 40,
           "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beeindruckende moderne Architektur.",
+            "hu": "Lenyűgöző modern építészet.",
+            "ro": "Arhitectură modernă impresionantă.",
+            "en": "Impressive modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kathedrale",
+            "hu": "Szent György-székesegyház",
+            "ro": "Catedrala Sfântul Gheorghe",
+            "en": "St. George's Cathedral"
+          },
+          "coords": [
+            19.5582,
+            40.7235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.3,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Ein wichtiges Fotomotiv der Stadt.",
-            "hu": "A város fontos fotótémája.",
-            "ro": "Un motiv foto important al orașului.",
-            "en": "An important photo spot in the city."
+            "de": "Wunderschöne orthodoxe Ikonen im Inneren.",
+            "hu": "Gyönyörű ortodox ikonok belül.",
+            "ro": "Icoane ortodoxe superbe în interior.",
+            "en": "Beautiful orthodox icons inside."
           }
         },
         {
-          "name": "Archäologisches Museum Fier",
+          "name": {
+            "de": "Archäologisches Museum Fier",
+            "hu": "Fier Régészeti Múzeuma",
+            "ro": "Muzeul de Arheologie Fier",
+            "en": "Archaeological Museum Fier"
+          },
           "coords": [
-            19.553,
-            40.722
+            19.5595,
+            40.7225
           ],
           "category": "museums",
-          "arrive_at": "10:03",
-          "stay_min": 100,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Fokus auf Funde aus Apollonia.",
-            "hu": "Fókuszban az apollóniai leletek.",
-            "ro": "Accent pe descoperirile din Apollonia.",
-            "en": "Focus on finds from Apollonia."
-          }
-        },
-        {
-          "name": "St.-Georgs-Kathedrale",
-          "coords": [
-            19.559,
-            40.726
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:52",
-          "stay_min": 75,
-          "hop_from_prev_min": 9,
-          "hop_from_prev_km": 0.6,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Achten Sie auf die modernen Fresken.",
-            "hu": "Figyelje meg a modern freskókat.",
-            "ro": "Atenție la frescele moderne.",
-            "en": "Pay attention to the modern frescoes."
-          }
-        },
-        {
-          "name": "Moschee von Fier",
-          "coords": [
-            19.557,
-            40.727
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "13:13",
-          "stay_min": 40,
-          "hop_from_prev_min": 6,
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
           "hop_from_prev_km": 0.4,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Schöne Architektur im Zentrum.",
-            "hu": "Gyönyörű építészet a központban.",
-            "ro": "Arhitectură frumoasă în centru.",
-            "en": "Beautiful architecture in the center."
+            "de": "Funde aus Apollonia und Bylis.",
+            "hu": "Apollóniából és Büliszből származó leletek.",
+            "ro": "Artefacte din Apollonia și Bylis.",
+            "en": "Findings from Apollonia and Bylis."
           }
         },
         {
-          "name": "Gjanica-Flusspromenande",
+          "name": {
+            "de": "Liri-Gero-Statue",
+            "hu": "Liri Gero szobra",
+            "ro": "Statuia Liri Gero",
+            "en": "Liri Gero Statue"
+          },
           "coords": [
-            19.555,
-            40.725
+            19.5575,
+            40.7215
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:05",
-          "stay_min": 105,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 0.8,
+          "category": "monuments/statues",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Ideal für einen Spaziergang.",
-            "hu": "Ideális egy sétához.",
-            "ro": "Ideal pentru o plimbare.",
-            "en": "Ideal for a stroll."
+            "de": "Denkmal für eine lokale Heldin.",
+            "hu": "Emlékmű egy helyi hősnek.",
+            "ro": "Monument dedicat unei eroine locale.",
+            "en": "Monument to a local heroine."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjanica-Flusspromenande",
+            "hu": "Gjanica folyóparti sétány",
+            "ro": "Promenada râului Gjanica",
+            "en": "Gjanica River Promenade"
+          },
+          "coords": [
+            19.555,
+            40.7205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ideal für einen entspannten Spaziergang.",
+            "hu": "Ideális egy pihentető sétához.",
+            "ro": "Ideal pentru o plimbare relaxantă.",
+            "en": "Ideal for a relaxing walk."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ein entspannter Spaziergang durch das Herz von Fier. Der Morgen beginnt am zentralen Platz der Freiheit, gefolgt von einer Dosis Geschichte im Archäologischen Museum. Mittags betrachten wir die religiöse Vielfalt der Stadt, von der St.-Georgs-Kathedrale bis zur Moschee. Der Nachmittag klingt an der Gjanica-Flusspromenade aus.",
-        "hu": "Egy pihentető séta Fier szívében. A reggelt a központi Szabadság téren kezdjük, majd elmerülünk a történelemben a Régészeti Múzeumban. Délben megfigyeljük a város vallási sokszínűségét, a Szent György-katedrálistól a mecsetig. A délután a Gjanica folyóparti sétányon zárul.",
-        "ro": "O plimbare relaxantă prin inima orașului Fier. Dimineața începe în Piața Libertății, urmată de istorie la Muzeul Arheologic. La prânz observăm diversitatea religioasă a orașului, de la Catedrala Sf. Gheorghe la moschee. După-amiaza se încheie pe promenada râului Gjanica.",
-        "en": "A relaxing walk through the heart of Fier. The morning starts at the central Square of Freedom, followed by history at the Archaeological Museum. At noon we observe the city's religious diversity, from St. George's Cathedral to the mosque. The afternoon ends on the Gjanica River promenade."
+        "de": "Beginnen Sie Ihren Tag am belebten Freiheitsplatz im Herzen von Fier. Nach der Besichtigung der architektonisch interessanten Moschee und der prächtigen orthodoxen Kathedrale tauchen Sie im Archäologischen Museum tief in die antike Geschichte der Region ein. Ein kurzer Stopp an der Liri-Gero-Statue führt Sie zur neugestalteten Gjanica-Promenade, wo Sie den Nachmittag entspannt am Fluss ausklingen lassen können.",
+        "hu": "Kezdje a napot Fier szívében, a nyüzsgő Szabadság téren. Az építészetileg érdekes mecset és a pompás ortodox székesegyház megtekintése után merüljön el a régió ókori történelmében a Régészeti Múzeumban. Egy rövid megálló Liri Gero szobránál elvezeti Önt az újonnan kialakított Gjanica sétányhoz, ahol a délutánt kellemesen, a folyóparton pihenve zárhatja.",
+        "ro": "Începeți ziua în inima orașului Fier, în vibranta Piață a Libertății. După vizitarea moscheii interesante din punct de vedere arhitectural și a splendidei catedrale ortodoxe, explorați istoria antică a regiunii la Muzeul de Arheologie. O scurtă oprire la statuia Liri Gero vă va conduce către faleza râului Gjanica, recent amenajată, unde vă puteți relaxa la sfârșitul după-amiezii.",
+        "en": "Start your day in the heart of Fier at the bustling Freedom Square. After visiting the architecturally interesting mosque and the splendid Orthodox cathedral, dive deep into the region's ancient history at the Archaeological Museum. A short stop at the Liri Gero Statue leads you to the newly redesigned Gjanica Promenade, where you can end the afternoon relaxing by the river."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditionelles Paprika-Käse-Gericht."
+            "name": "Byrek me hithra",
+            "tip": "Traditioneller albanischer Brennnessel-Kuchen."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Gegrillte Fleischbällchen."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lammfleisch in Joghurt gebacken."
+            "name": "Restaurant Guva",
+            "tip": "Bekannt für lokale Fleischgerichte und Gastfreundschaft."
           }
         ],
         "hu": [
           {
-            "name": "Fërgesë",
-            "tip": "Hagyományos paprikás-sajtos étel."
+            "name": "Byrek me hithra",
+            "tip": "Hagyományos albán csalános pite."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grillezett húsgombócok."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Joghurtban sült bárányhús."
+            "name": "Restaurant Guva",
+            "tip": "Helyi húsételeiről és vendégszeretetéről híres."
           }
         ],
         "ro": [
           {
-            "name": "Fërgesë",
-            "tip": "Mâncare tradițională cu ardei și brânză."
+            "name": "Byrek me hithra",
+            "tip": "Plăcintă tradițională albaneză cu urzici."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Chiftele la grătar."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Carne de miel la cuptor în iaurt."
+            "name": "Restaurant Guva",
+            "tip": "Cunoscut pentru preparatele locale din carne și ospitalitate."
           }
         ],
         "en": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditional pepper and cheese dish."
+            "name": "Byrek me hithra",
+            "tip": "Traditional Albanian nettle pie."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grilled meatballs."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lamb baked in yogurt."
+            "name": "Restaurant Guva",
+            "tip": "Famous for local meat dishes and hospitality."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Entspannen am Wasser.",
-            "emoji": "🌅"
+            "name": "Gjanica Park",
+            "tip": "Ruhiger Platz im Grünen direkt am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St.-Georgs-Garten",
+            "tip": "Kleiner Rückzugsort bei der Kathedrale.",
+            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Pihenés a vízparton.",
-            "emoji": "🌅"
+            "name": "Gjanica park",
+            "tip": "Csendes zöld terület közvetlenül a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent György-kert",
+            "tip": "Kis menedékhely a katedrális mellett.",
+            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Relaxare pe malul apei.",
-            "emoji": "🌅"
+            "name": "Parcul Gjanica",
+            "tip": "Loc liniștit în natură direct pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Sf. Gheorghe",
+            "tip": "Mic refugiu lângă catedrală.",
+            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Relaxing by the water.",
-            "emoji": "🌅"
+            "name": "Gjanica Park",
+            "tip": "Quiet green spot right by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. George's Garden",
+            "tip": "Small retreat next to the cathedral.",
+            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Frisches Obst und lokale Produkte."
+            "name": "Zentralmarkt Fier",
+            "tip": "Frisches Obst, Gemüse und lokale Olivenöle."
           },
           {
-            "name": "Zentrum Boutiquen",
-            "tip": "Kleine Geschäfte rund um den Platz der Freiheit."
+            "name": "Handwerksläden im Zentrum",
+            "tip": "Handgefertigte Teppiche und Keramik."
           }
         ],
         "hu": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Friss gyümölcsök és helyi termékek."
+            "name": "Fier központi piaca",
+            "tip": "Friss gyümölcsök, zöldségek és helyi olívaolajok."
           },
           {
-            "name": "Zentrum Boutiquen",
-            "tip": "Kis boltok a Szabadság tér körül."
+            "name": "Központi kézműves boltok",
+            "tip": "Kézzel készített szőnyegek és kerámiák."
           }
         ],
         "ro": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Fructe proaspete și produse locale."
+            "name": "Piața Centrală Fier",
+            "tip": "Fructe și legume proaspete, ulei de măsline local."
           },
           {
-            "name": "Zentrum Boutiquen",
-            "tip": "Mici magazine în jurul Pieței Libertății."
+            "name": "Magazine de artizanat central",
+            "tip": "Covoare lucrate manual și ceramică."
           }
         ],
         "en": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Fresh fruits and local products."
+            "name": "Fier Central Market",
+            "tip": "Fresh fruits, vegetables, and local olive oils."
           },
           {
-            "name": "Zentrum Boutiquen",
-            "tip": "Small shops around the Square of Freedom."
+            "name": "Central Craft Shops",
+            "tip": "Handmade carpets and ceramics."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe für den Stadtrundgang.",
-          "Die Distanzen im Zentrum sind kurz.",
-          "Besuchen Sie das Museum am Vormittag.",
-          "Probieren Sie einen lokalen Kaffee am Platz."
+          "Fier ist eine sehr flache Stadt, perfekt zum Wandern.",
+          "Probieren Sie das lokale Olivenöl aus der Myzeqe-Region.",
+          "Die beste Zeit für die Promenade ist der späte Nachmittag.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Zentrum."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt a városnézéshez.",
-          "A központban rövidek a távolságok.",
-          "Délelőtt látogassa meg a múzeumot.",
-          "Kóstoljon meg egy helyi kávét a téren."
+          "Fier nagyon sík város, tökéletes a sétáláshoz.",
+          "Kóstolja meg a Myzeqe régióból származó helyi olívaolajat.",
+          "A sétányhoz a legjobb időpont a késő délután.",
+          "Viseljen kényelmes cipőt a belvárosi macskakövek miatt."
         ],
         "ro": [
-          "Purtați încălțăminte confortabilă pentru turul orașului.",
-          "Distanțele din centru sunt scurte.",
-          "Vizitați muzeul dimineața.",
-          "Gustați o cafea locală în piață."
+          "Fier este un oraș foarte plat, perfect pentru mersul pe jos.",
+          "Gustați uleiul de măsline local din regiunea Myzeqe.",
+          "Cel mai bun moment pentru promenadă este după-amiaza târziu.",
+          "Purtați încălțăminte comodă pentru pavajul din centru."
         ],
         "en": [
-          "Wear comfortable shoes for the city walk.",
-          "Distances in the center are short.",
-          "Visit the museum in the morning.",
-          "Taste a local coffee at the square."
+          "Fier is a very flat city, perfect for walking.",
+          "Try the local olive oil from the Myzeqe region.",
+          "The best time for the promenade is late afternoon.",
+          "Wear comfortable shoes for the cobblestones in the center."
         ]
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 10,
+      "speed_kmh": 12,
       "start": "09:00",
-      "end_estimate": "17:12",
-      "total_km": 12.7,
+      "end_estimate": "15:00",
+      "total_km": 28.5,
       "stop_count": 5,
       "stops": [
         {
-          "name": "Platz der Freiheit",
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
           "coords": [
-            19.556,
-            40.724
+            19.5561,
+            40.7239
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 35,
+          "arrive_at": "09:10",
+          "stay_min": 25,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Startpunkt im Zentrum.",
-            "hu": "Kiindulópont a központban.",
-            "ro": "Punct de pornire în centru.",
-            "en": "Starting point in the center."
+            "de": "Startpunkt für Radtouren durch die Myzeqe-Ebene.",
+            "hu": "Kiindulópont kerékpártúrákhoz a Myzeqe-síkságon.",
+            "ro": "Punct de plecare pentru excursii cu bicicleta prin câmpia Myzeqe.",
+            "en": "Starting point for bike tours through the Myzeqe plain."
           }
         },
         {
-          "name": "Archäologisches Museum Fier",
+          "name": {
+            "de": "Archäologischer Park Apollonia",
+            "hu": "Apollónia Régészeti Park",
+            "ro": "Parcul Arheologic Apollonia",
+            "en": "Archaeological Park Apollonia"
+          },
           "coords": [
-            19.553,
-            40.722
+            19.4746,
+            40.7214
           ],
           "category": "museums",
-          "arrive_at": "09:41",
-          "stay_min": 100,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1.0,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Fokus auf Funde aus Apollonia.",
-            "hu": "Fókuszban az apollóniai leletek.",
-            "ro": "Accent pe descoperirile din Apollonia.",
-            "en": "Focus on finds from Apollonia."
-          }
-        },
-        {
-          "name": "Gjanica-Flusspromenande",
-          "coords": [
-            19.555,
-            40.725
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "11:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 9,
-          "hop_from_prev_km": 1.5,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Kurze Pause vor der langen Fahrt.",
-            "hu": "Rövid pihenő a hosszú út előtt.",
-            "ro": "Scurtă pauză înainte de drumul lung.",
-            "en": "Short break before the long ride."
-          }
-        },
-        {
-          "name": "Archäologischer Park Apollonia",
-          "coords": [
-            19.467,
-            40.721
-          ],
-          "category": "museums",
-          "arrive_at": "13:45",
-          "stay_min": 100,
+          "arrive_at": "10:35",
+          "stay_min": 120,
           "hop_from_prev_min": 60,
-          "hop_from_prev_km": 10.0,
+          "hop_from_prev_km": 12,
           "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Sonnenschutz nicht vergessen.",
-            "hu": "Ne feledje a naptejet.",
-            "ro": "Nu uitați crema de soare.",
-            "en": "Don't forget sunscreen."
+            "de": "Eine der wichtigsten antiken Stätten Albaniens.",
+            "hu": "Albánia egyik legfontosabb ókori helyszíne.",
+            "ro": "Unul dintre cele mai importante situri antice din Albania.",
+            "en": "One of Albania's most important ancient sites."
           }
         },
         {
-          "name": "Marienkirche Apollonia",
+          "name": {
+            "de": "Marienkirche Apollonia",
+            "hu": "Apollóniai Mária-templom",
+            "ro": "Biserica Sfânta Maria din Apollonia",
+            "en": "Marienkirche Apollonia"
+          },
           "coords": [
-            19.469,
+            19.475,
             40.722
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "15:27",
-          "stay_min": 105,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
+          "arrive_at": "12:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
           "tip_5lang": {
-            "de": "Antike Säulen im Hof.",
-            "hu": "Ókori oszlopok az udvaron.",
-            "ro": "Coloane antice în curte.",
-            "en": "Ancient columns in the courtyard."
+            "de": "Byzantinisches Kloster innerhalb der Ruinen.",
+            "hu": "Bizánci kolostor a romok területén.",
+            "ro": "Mănăstire bizantină în incinta ruinelor.",
+            "en": "Byzantine monastery within the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjanica-Flusspromenande",
+            "hu": "Gjanica folyóparti sétány",
+            "ro": "Promenada râului Gjanica",
+            "en": "Gjanica River Promenade"
+          },
+          "coords": [
+            19.555,
+            40.7205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entspannter Rückweg am Fluss.",
+            "hu": "Pihentető visszaút a folyó mentén.",
+            "ro": "Drum de întoarcere relaxant pe malul râului.",
+            "en": "Relaxing ride back along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Fier",
+            "hu": "Fier mecsetje",
+            "ro": "Moscheea din Fier",
+            "en": "Mosque of Fier"
+          },
+          "coords": [
+            19.557,
+            40.7245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Abschluss im Herzen der Stadt.",
+            "hu": "Befejezés a város szívében.",
+            "ro": "Final în inima orașului.",
+            "en": "End your tour in the heart of the city."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour verbindet das urbane Fier mit der antiken Welt. Nach einem Start im Stadtzentrum radeln wir gemütlich an der Gjanica entlang. Die längere Etappe führt uns direkt zu den Ruinen des Archäologischen Parks Apollonia, wo der Tag historisch ausklingt.",
-        "hu": "Ez a kerékpártúra összeköti a városi Fiert az ókori világgal. A városközpont felfedezése után a Gjanica folyó mentén tekerünk. A hosszabb szakasz egyenesen Apollónia romjaihoz vezet, ahol a nap történelmi hangulatban ér véget.",
-        "ro": "Acest traseu cu bicicleta conectează orașul Fier cu lumea antică. După un start în centru, pedalăm de-a lungul râului Gjanica. Etapa mai lungă ne conduce direct la ruinele Parcului Arheologic Apollonia, unde ziua se încheie într-o atmosferă istorică.",
-        "en": "This bike tour connects urban Fier with the ancient world. After starting in the city center, we cycle along the Gjanica River. The longer leg takes us straight to the ruins of the Apollonia Archaeological Park, where the day ends on a historical note."
+        "de": "Diese Radtour führt Sie aus dem Stadtzentrum von Fier durch die flache Myzeqe-Landschaft zur beeindruckenden antiken Stadt Apollonia. Erkunden Sie die Ruinen und das byzantinische Kloster, bevor Sie über ruhige Landstraßen zurückkehren. Der Rückweg führt entlang des Gjanica-Flusses bis zur modernen Moschee im Zentrum, wo Sie Ihre Tour bei einem Kaffee beenden können.",
+        "hu": "Ez a kerékpártúra Fier városközpontjából indulva a sík Myzeqe-tájon át vezet Apollónia lenyűgöző ókori városához. Fedezze fel a romokat és a bizánci kolostort, mielőtt csendes vidéki utakon visszatérne. A visszaút a Gjanica folyó mentén halad a központban található modern mecsetig, ahol egy kávé mellett fejezheti be a túrát.",
+        "ro": "Această excursie cu bicicleta vă scoate din centrul orașului Fier, prin peisajul plat al regiunii Myzeqe, până la impresionantul oraș antic Apollonia. Explorați ruinele și mănăstirea bizantină înainte de a vă întoarce pe drumuri rurale liniștite. Drumul de retur urmează râul Gjanica până la moscheea modernă din centru, unde vă puteți încheia turul cu o cafea.",
+        "en": "This bike tour takes you from Fier city center through the flat Myzeqe landscape to the impressive ancient city of Apollonia. Explore the ruins and the Byzantine monastery before returning via quiet country roads. The way back leads along the Gjanica River to the modern mosque in the center, where you can finish your tour with a coffee."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditionelles Paprika-Käse-Gericht."
+            "name": "Apollonia Restaurant",
+            "tip": "Essen mit Blick auf die antiken Ruinen."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Gegrillte Fleischbällchen."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lammfleisch in Joghurt gebacken."
+            "name": "Baklava",
+            "tip": "Süße Energie für die Rückfahrt."
           }
         ],
         "hu": [
           {
-            "name": "Fërgesë",
-            "tip": "Hagyományos paprikás-sajtos étel."
+            "name": "Apollonia Étterem",
+            "tip": "Étkezés kilátással az ókori romokra."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grillezett húsgombócok."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Joghurtban sült bárányhús."
+            "name": "Baklava",
+            "tip": "Édes energia a visszaúthoz."
           }
         ],
         "ro": [
           {
-            "name": "Fërgesë",
-            "tip": "Mâncare tradițională cu ardei și brânză."
+            "name": "Restaurant Apollonia",
+            "tip": "Masă cu vedere la ruinele antice."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Chiftele la grătar."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Carne de miel la cuptor în iaurt."
+            "name": "Baklava",
+            "tip": "Energie dulce pentru drumul de întoarcere."
           }
         ],
         "en": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditional pepper and cheese dish."
+            "name": "Apollonia Restaurant",
+            "tip": "Dining with a view of the ancient ruins."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grilled meatballs."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lamb baked in yogurt."
+            "name": "Baklava",
+            "tip": "Sweet energy for the ride back."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Apollonia Hügel",
-            "tip": "Weitblick über die Ruinen.",
-            "emoji": "🏞️"
+            "name": "Olivenhaine bei Apollonia",
+            "tip": "Wunderschöne schattige Plätze zum Rasten.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Apollonia domb",
-            "tip": "Panoráma a romok felett.",
-            "emoji": "🏞️"
+            "name": "Olajfaligetek Apollónia mellett",
+            "tip": "Gyönyörű árnyas helyek a pihenéshez.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Dealul Apollonia",
-            "tip": "Panoramă asupra ruinelor.",
-            "emoji": "🏞️"
+            "name": "Livezile de măslini de lângă Apollonia",
+            "tip": "Locuri umbroase superbe pentru popas.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Apollonia Hill",
-            "tip": "Panoramic view over the ruins.",
-            "emoji": "🏞️"
+            "name": "Olive groves near Apollonia",
+            "tip": "Beautiful shaded spots for a rest.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Frisches Obst und lokale Produkte."
+            "name": "Museumsshop Apollonia",
+            "tip": "Repliken antiker Statuen und Bücher."
           }
         ],
         "hu": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Friss gyümölcsök és helyi termékek."
+            "name": "Apollónia múzeumi bolt",
+            "tip": "Ókori szobrok másolatai és könyvek."
           }
         ],
         "ro": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Fructe proaspete și produse locale."
+            "name": "Magazinul muzeului Apollonia",
+            "tip": "Replici ale statuilor antice și cărți."
           }
         ],
         "en": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Fresh fruits and local products."
+            "name": "Apollonia Museum Shop",
+            "tip": "Replicas of ancient statues and books."
           }
         ]
       },
       "tips": {
         "de": [
-          "Der Weg nach Apollonia kann verkehrsreich sein.",
-          "Nehmen Sie ausreichend Wasser mit.",
-          "Überprüfen Sie Ihr Fahrrad vor der langen Strecke.",
-          "In Apollonia gibt es wenig Schatten."
+          "Die Strecke nach Apollonia ist fast komplett flach.",
+          "Achten Sie auf den Verkehr auf der Hauptstraße nach Fier.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Ein Mountainbike ist für die unbefestigten Wege in Apollonia ratsam."
         ],
         "hu": [
-          "Az út Apollóniába forgalmas lehet.",
-          "Vigyen magával elegendő vizet.",
-          "Ellenőrizze kerékpárját a hosszú út előtt.",
-          "Apollóniában kevés az árnyék."
+          "Az Apollóniába vezető út szinte teljesen sík.",
+          "Ügyeljen a forgalomra a Fierbe vezető főúton.",
+          "Vigyen magával elegendő vizet, kevés az árnyék.",
+          "Az Apollónia területén található földutakhoz hegyi kerékpár ajánlott."
         ],
         "ro": [
-          "Drumul spre Apollonia poate fi aglomerat.",
-          "Luați suficientă apă cu dumneavoastră.",
-          "Verificați bicicleta înainte de distanța lungă.",
-          "În Apollonia este puțină umbră."
+          "Traseul către Apollonia este aproape complet plat.",
+          "Atenție la traficul de pe drumul principal spre Fier.",
+          "Luați suficientă apă, există puțină umbră.",
+          "O bicicletă mountain bike este recomandată pentru drumurile neasfaltate din Apollonia."
         ],
         "en": [
-          "The road to Apollonia can be busy.",
-          "Take enough water with you.",
-          "Check your bike before the long ride.",
-          "There is little shade in Apollonia."
+          "The route to Apollonia is almost completely flat.",
+          "Watch out for traffic on the main road to Fier.",
+          "Take plenty of water, there is little shade.",
+          "A mountain bike is advisable for the unpaved paths in Apollonia."
         ]
       }
     },
     "car": {
       "mode": "car",
-      "speed_kmh": 28,
+      "speed_kmh": 35,
       "start": "09:00",
-      "end_estimate": "17:09",
-      "total_km": 35.0,
-      "stop_count": 6,
+      "end_estimate": "17:30",
+      "total_km": 65,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Platz der Freiheit",
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
           "coords": [
-            19.556,
-            40.724
+            19.5561,
+            40.7239
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:00",
-          "stay_min": 35,
+          "arrive_at": "09:10",
+          "stay_min": 25,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "hop_mode": "car",
           "tip_5lang": {
-            "de": "Parken Sie im Zentrum.",
-            "hu": "Parkoljon a központban.",
-            "ro": "Parcați în centru.",
-            "en": "Park in the center."
+            "de": "Zentraler Startpunkt mit Parkmöglichkeiten.",
+            "hu": "Központi kiindulópont parkolási lehetőséggel.",
+            "ro": "Punct de plecare central cu posibilități de parcare.",
+            "en": "Central starting point with parking options."
           }
         },
         {
-          "name": "St.-Georgs-Kathedrale",
+          "name": {
+            "de": "St.-Georgs-Kathedrale",
+            "hu": "Szent György-székesegyház",
+            "ro": "Catedrala Sfântul Gheorghe",
+            "en": "St. George's Cathedral"
+          },
           "coords": [
-            19.559,
-            40.726
+            19.5582,
+            40.7235
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:43",
-          "stay_min": 75,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Moderne Fresken ansehen.",
-            "hu": "Nézze meg a modern freskókat.",
-            "ro": "Priviți frescele moderne.",
-            "en": "Look at modern frescoes."
-          }
-        },
-        {
-          "name": "Moschee von Fier",
-          "coords": [
-            19.557,
-            40.727
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:04",
+          "arrive_at": "09:40",
           "stay_min": 40,
-          "hop_from_prev_min": 6,
+          "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Kurzer Fußweg zur Moschee.",
-            "hu": "Rövid séta a mecsethez.",
-            "ro": "Scurtă plimbare până la moschee.",
-            "en": "Short walk to the mosque."
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
           }
         },
         {
-          "name": "Archäologischer Park Apollonia",
+          "name": {
+            "de": "Kloster Ardenica",
+            "hu": "Ardenica-kolostor",
+            "ro": "Mănăstirea Ardenica",
+            "en": "Ardenica Monastery"
+          },
           "coords": [
-            19.467,
-            40.721
+            19.5912,
+            40.8164
           ],
-          "category": "museums",
-          "arrive_at": "12:10",
-          "stay_min": 100,
-          "hop_from_prev_min": 26,
-          "hop_from_prev_km": 12.0,
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18,
           "hop_mode": "car",
           "tip_5lang": {
-            "de": "Parkplätze sind vor den Ruinen verfügbar.",
-            "hu": "Parkolók elérhetők a romok előtt.",
-            "ro": "Parcările sunt disponibile în fața ruinelor.",
-            "en": "Parking is available in front of the ruins."
+            "de": "Historisches Kloster auf einem Hügel.",
+            "hu": "Történelmi kolostor egy dombtetőn.",
+            "ro": "Mănăstire istorică pe un deal.",
+            "en": "Historical monastery on a hill."
           }
         },
         {
-          "name": "Marienkirche Apollonia",
+          "name": {
+            "de": "Archäologischer Park Apollonia",
+            "hu": "Apollónia Régészeti Park",
+            "ro": "Parcul Arheologic Apollonia",
+            "en": "Archaeological Park Apollonia"
+          },
           "coords": [
-            19.469,
+            19.4746,
+            40.7214
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 25,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Bequem mit dem Auto erreichbar.",
+            "hu": "Autóval kényelmesen elérhető.",
+            "ro": "Accesibil ușor cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche Apollonia",
+            "hu": "Apollóniai Mária-templom",
+            "ro": "Biserica Sfânta Maria din Apollonia",
+            "en": "Marienkirche Apollonia"
+          },
+          "coords": [
+            19.475,
             40.722
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "13:56",
-          "stay_min": 75,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Gleich neben den Hauptruinen.",
-            "hu": "Közvetlenül a fő romok mellett.",
-            "ro": "Chiar lângă ruinele principale.",
-            "en": "Right next to the main ruins."
+            "de": "Direkt im Parkareal.",
+            "hu": "Közvetlenül a park területén.",
+            "ro": "Direct în zona parcului.",
+            "en": "Directly in the park area."
           }
         },
         {
-          "name": "Kloster Ardenica",
+          "name": {
+            "de": "Gjanica-Flusspromenande",
+            "hu": "Gjanica folyóparti sétány",
+            "ro": "Promenada râului Gjanica",
+            "en": "Gjanica River Promenade"
+          },
           "coords": [
-            19.593,
-            40.818
+            19.555,
+            40.7205
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "15:59",
-          "stay_min": 70,
-          "hop_from_prev_min": 48,
-          "hop_from_prev_km": 22.0,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12,
           "hop_mode": "car",
           "tip_5lang": {
-            "de": "Hier hat Skanderbeg geheiratet.",
-            "hu": "Itt házasodott össze Szkander bég.",
-            "ro": "Aici s-a căsătorit Skanderbeg.",
-            "en": "Skanderbeg was married here."
+            "de": "Abendspaziergang nach der Rückfahrt.",
+            "hu": "Esti séta a visszaút után.",
+            "ro": "Plimbare de seară după întoarcere.",
+            "en": "Evening walk after the return drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Fier",
+            "hu": "Fier mecsetje",
+            "ro": "Moscheea din Fier",
+            "en": "Mosque of Fier"
+          },
+          "coords": [
+            19.557,
+            40.7245
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Letzter Stopp im beleuchteten Stadtzentrum.",
+            "hu": "Utolsó megálló a kivilágított belvárosban.",
+            "ro": "Ultima oprire în centrul luminat al orașului.",
+            "en": "Last stop in the illuminated city center."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Flexibel zwischen den Highlights der Region unterwegs. Der Tag startet mit einem Rundgang im Zentrum von Fier, bevor wir das Auto nutzen, um die antike Großstadt Apollonia zu erkunden. Der Nachmittag bietet eine Fahrt zum Kloster Ardenica, das auf einem Hügel thront.",
-        "hu": "Rugalmas utazás a régió látnivalói között. A nap egy sétával indul Fier központjában, majd autóba pattanunk, hogy felfedezzük az ókori Apollónia romjait. A délután egy autózást kínál a dombtetőn magasodó Ardenica kolostorhoz.",
-        "ro": "Călătorind flexibil între atracțiile regiunii. Ziua începe cu o plimbare în centrul orașului Fier, înainte de a folosi mașina pentru a explora vechiul oraș Apollonia. După-amiaza oferă un condus către Mănăstirea Ardenica de pe deal.",
-        "en": "Flexible travel between the region's highlights. The day starts with a walk in the center of Fier, before using the car to explore the ancient city of Apollonia. The afternoon offers a drive to the Ardenica Monastery on a hilltop."
+        "de": "Mit dem Auto entdecken Sie die Highlights rund um Fier. Starten Sie im Zentrum und fahren Sie zuerst zum Kloster Ardenica, das für seine reiche Geschichte bekannt ist. Danach geht es zum berühmten Archäologischen Park Apollonia. Nach der Rückkehr nach Fier genießen Sie einen entspannten Spaziergang entlang der Gjanica-Promenade und besichtigen die moderne Moschee, während das Stadtzentrum zum Leben erwacht.",
+        "hu": "Autóval fedezze fel Fier környékének legfontosabb látnivalóit. Kezdje a központban, majd látogasson el az Ardenica-kolostorhoz, amely gazdag történelméről híres. Ezután a híres Apollónia Régészeti Park következik. Fierbe visszatérve élvezze a pihentető sétát a Gjanica sétányon, és nézze meg a modern mecsetet, miközben a városközpont életre kel.",
+        "ro": "Cu mașina veți descoperi cele mai importante obiective din jurul orașului Fier. Începeți în centru și mergeți mai întâi la Mănăstirea Ardenica, cunoscută pentru istoria sa bogată. Apoi, vizitați celebrul Parc Arheologic Apollonia. După întoarcerea în Fier, bucurați-vă de o plimbare relaxantă pe faleza Gjanica și vizitați moscheea modernă, pe măsură ce centrul orașului prinde viață.",
+        "en": "By car, you will discover the highlights around Fier. Start in the center and first drive to the Ardenica Monastery, known for its rich history. Then, visit the famous Apollonia Archaeological Park. After returning to Fier, enjoy a relaxing walk along the Gjanica Promenade and visit the modern mosque as the city center comes to life."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditionelles Paprika-Käse-Gericht."
+            "name": "Tavere Ardenica",
+            "tip": "Rustikale albanische Küche nahe dem Kloster."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Gegrillte Fleischbällchen."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lammfleisch in Joghurt gebacken."
+            "name": "Qofte",
+            "tip": "Gegrillte Hackfleischröllchen, ein lokaler Favorit."
           }
         ],
         "hu": [
           {
-            "name": "Fërgesë",
-            "tip": "Hagyományos paprikás-sajtos étel."
+            "name": "Tavere Ardenica",
+            "tip": "Rusztikus albán konyha a kolostor közelében."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grillezett húsgombócok."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Joghurtban sült bárányhús."
+            "name": "Qofte",
+            "tip": "Grillezett darált húsos rudacskák, helyi kedvenc."
           }
         ],
         "ro": [
           {
-            "name": "Fërgesë",
-            "tip": "Mâncare tradițională cu ardei și brânză."
+            "name": "Tavere Ardenica",
+            "tip": "Bucătărie albaneză rustică lângă mănăstire."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Chiftele la grătar."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Carne de miel la cuptor în iaurt."
+            "name": "Qofte",
+            "tip": "Chiftele la grătar, un favorit local."
           }
         ],
         "en": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditional pepper and cheese dish."
+            "name": "Tavere Ardenica",
+            "tip": "Rustic Albanian cuisine near the monastery."
           },
           {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grilled meatballs."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lamb baked in yogurt."
+            "name": "Qofte",
+            "tip": "Grilled minced meat rolls, a local favorite."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Ardenica Klostergarten",
-            "tip": "Absolute Stille und Frieden.",
-            "emoji": "🍃"
+            "name": "Ardenica Hügel",
+            "tip": "Fantastische Aussicht über die Myzeqe-Ebene.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Ardenica kolostorkert",
-            "tip": "Teljes csend és béke.",
-            "emoji": "🍃"
+            "name": "Ardenica-domb",
+            "tip": "Fantasztikus kilátás a Myzeqe-síkságra.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Grădina mănăstirii Ardenica",
-            "tip": "Liniște și pace absolută.",
-            "emoji": "🍃"
+            "name": "Dealul Ardenica",
+            "tip": "Vedere fantastică asupra câmpiei Myzeqe.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Ardenica Monastery Garden",
-            "tip": "Absolute silence and peace.",
-            "emoji": "🍃"
+            "name": "Ardenica Hill",
+            "tip": "Fantastic view over the Myzeqe plain.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lokale Straßenstände",
-            "tip": "Auf dem Weg zwischen den Orten."
+            "name": "Lokaler Honig",
+            "tip": "Frisch von den Imkern rund um Ardenica."
           }
         ],
         "hu": [
           {
-            "name": "Helyi utcai árusok",
-            "tip": "A helyszínek közötti úton."
+            "name": "Helyi méz",
+            "tip": "Frissen az Ardenica környéki méhészektől."
           }
         ],
         "ro": [
           {
-            "name": "Vânzători ambulanți locali",
-            "tip": "Pe drumul dintre locații."
+            "name": "Miere locală",
+            "tip": "Proaspătă de la apicultorii din jurul Ardenicai."
           }
         ],
         "en": [
           {
-            "name": "Local street vendors",
-            "tip": "On the way between locations."
+            "name": "Local Honey",
+            "tip": "Fresh from the beekeepers around Ardenica."
           }
         ]
       },
       "tips": {
         "de": [
-          "Lassen Sie das Auto am jeweiligen Knotenpunkt stehen.",
-          "Die Straßen nach Apollonia sind gut ausgeschildert.",
-          "Parken am Kloster Ardenica ist einfach.",
-          "Planen Sie Zeit für die kurzen Fußwege ein."
+          "Die Straßen zu den Sehenswürdigkeiten sind meist gut ausgebaut.",
+          "In Fier gibt es mehrere bewachte Parkplätze im Zentrum.",
+          "Kombinieren Sie Apollonia mit einem Mittagessen vor Ort.",
+          "Tanken Sie im Stadtgebiet von Fier, bevor Sie zu den Ruinen fahren."
         ],
         "hu": [
-          "Hagyja az autót az egyes csomópontokon.",
-          "Az Apollóniába vezető utak jól ki vannak táblázva.",
-          "Parkolni az Ardenica kolostornál egyszerű.",
-          "Számoljon időt a rövid sétákra."
+          "A látnivalókhoz vezető utak többnyire jól kiépítettek.",
+          "Fier központjában több őrzött parkoló is található.",
+          "Kösse össze Apollónia látogatását egy helyi ebéddel.",
+          "Tankoljon Fier városában, mielőtt a romokhoz indulna."
         ],
         "ro": [
-          "Lăsați mașina la punctele nodale.",
-          "Drumurile spre Apollonia sunt bine semnalizate.",
-          "Parcarea la mănăstirea Ardenica este simplă.",
-          "Planificați timp pentru scurtele plimbări."
+          "Drumurile spre atracții sunt în general bine întreținute.",
+          "În centrul orașului Fier există mai multe parcări păzite.",
+          "Combinați vizita la Apollonia cu un prânz local.",
+          "Alimentați în zona urbană Fier înainte de a pleca spre ruine."
         ],
         "en": [
-          "Leave the car at the respective hubs.",
-          "The roads to Apollonia are well signposted.",
-          "Parking at Ardenica Monastery is easy.",
-          "Plan time for the short walks."
+          "The roads to the attractions are mostly well-developed.",
+          "There are several guarded parking lots in the center of Fier.",
+          "Combine Apollonia with a local lunch.",
+          "Refuel in the Fier urban area before driving to the ruins."
         ]
       }
     },
@@ -819,250 +900,267 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "15:02",
-      "total_km": 4.4,
-      "stop_count": 5,
+      "end_estimate": "16:30",
+      "total_km": 26,
+      "stop_count": 6,
       "stops": [
         {
-          "name": "Archäologisches Museum Fier",
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Freedom Square"
+          },
           "coords": [
-            19.553,
-            40.722
+            19.5561,
+            40.7239
           ],
-          "category": "museums",
-          "arrive_at": "09:00",
-          "stay_min": 110,
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
           "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Guter Startpunkt für historische Funde.",
-            "hu": "Jó kiindulópont a történelmi leletekhez.",
-            "ro": "Punct bun de pornire pentru descoperiri istorice.",
-            "en": "Good starting point for historical finds."
+            "de": "Knotenpunkt für lokale Busse und Furgons.",
+            "hu": "Helyi buszok és kisbuszok (furgonok) csomópontja.",
+            "ro": "Nod rutier pentru autobuze locale și furgon.",
+            "en": "Hub for local buses and furgons."
           }
         },
         {
-          "name": "Liri-Gero-Statue",
+          "name": {
+            "de": "Archäologisches Museum Fier",
+            "hu": "Fier Régészeti Múzeuma",
+            "ro": "Muzeul de Arheologie Fier",
+            "en": "Archaeological Museum Fier"
+          },
           "coords": [
-            19.558,
-            40.725
+            19.5595,
+            40.7225
           ],
-          "category": "monuments/statues",
-          "arrive_at": "11:00",
-          "stay_min": 15,
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 80,
           "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.5,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Ein lokales Wahrzeichen auf dem Weg.",
-            "hu": "Egy helyi nevezetesség útközben.",
-            "ro": "Un reper local pe drum.",
-            "en": "A local landmark on the way."
+            "de": "Vom Stadtplatz aus leicht zu Fuß erreichbar.",
+            "hu": "A városi térről könnyen megközelíthető gyalog.",
+            "ro": "Ușor accesibil pe jos din piața orașului.",
+            "en": "Easily accessible on foot from the city square."
           }
         },
         {
-          "name": "Platz der Freiheit",
+          "name": {
+            "de": "Archäologischer Park Apollonia",
+            "hu": "Apollónia Régészeti Park",
+            "ro": "Parcul Arheologic Apollonia",
+            "en": "Archaeological Park Apollonia"
+          },
           "coords": [
-            19.556,
-            40.724
+            19.4746,
+            40.7214
           ],
-          "category": "squares/old-town",
-          "arrive_at": "11:23",
-          "stay_min": 25,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 2.0,
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12,
           "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Das Zentrum für lokale Busse.",
-            "hu": "A helyi buszok központja.",
-            "ro": "Centrul pentru autobuzele locale.",
-            "en": "The center for local buses."
+            "de": "Furgons nach Pojan nutzen.",
+            "hu": "Használja a Pojanba tartó furgonokat.",
+            "ro": "Folosiți microbuzele spre Pojan.",
+            "en": "Use furgons going to Pojan."
           }
         },
         {
-          "name": "St.-Georgs-Kathedrale",
+          "name": {
+            "de": "Marienkirche Apollonia",
+            "hu": "Apollóniai Mária-templom",
+            "ro": "Biserica Sfânta Maria din Apollonia",
+            "en": "Marienkirche Apollonia"
+          },
           "coords": [
-            19.559,
-            40.726
+            19.475,
+            40.722
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "11:56",
-          "stay_min": 75,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
           "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Schnell zu Fuß vom Hauptplatz.",
-            "hu": "Gyors séta a főtérről.",
-            "ro": "Mers rapid de la piața principală.",
-            "en": "Quick walk from the main square."
+            "de": "Direkt neben dem Museum von Apollonia.",
+            "hu": "Közvetlenül az Apollónia múzeum mellett.",
+            "ro": "Direct lângă muzeul din Apollonia.",
+            "en": "Right next to the Apollonia museum."
           }
         },
         {
-          "name": "Gjanica-Flusspromenande",
+          "name": {
+            "de": "Gjanica-Flusspromenande",
+            "hu": "Gjanica folyóparti sétány",
+            "ro": "Promenada râului Gjanica",
+            "en": "Gjanica River Promenade"
+          },
           "coords": [
             19.555,
-            40.725
+            40.7205
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "13:17",
-          "stay_min": 105,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1.5,
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12,
           "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Ein entspannter Abschluss am Fluss.",
-            "hu": "Pihentető befejezés a folyónál.",
-            "ro": "O încheiere relaxantă la râu.",
-            "en": "A relaxing end by the river."
+            "de": "Rückfahrt zum zentralen Busstopp.",
+            "hu": "Visszautazás a központi buszmegállóig.",
+            "ro": "Întoarcere la stația centrală de autobuz.",
+            "en": "Return to the central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Georgs-Kathedrale",
+            "hu": "Szent György-székesegyház",
+            "ro": "Catedrala Sfântul Gheorghe",
+            "en": "St. George's Cathedral"
+          },
+          "coords": [
+            19.5582,
+            40.7235
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Abschluss im Zentrum vor der Heimreise.",
+            "hu": "Befejezés a központban a hazautazás előtt.",
+            "ro": "Final în centru înainte de plecare.",
+            "en": "End your tour in the center before heading home."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit den öffentlichen Verkehrsmitteln durch Fier. Wir starten kulturell im Archäologischen Museum, nutzen dann den Bus zum zentralen Platz der Freiheit und zur majestätischen Kathedrale. Kurze Fahrten verbinden die Viertel, bis wir den Tag an der Flusspromenade ausklingen lassen.",
-        "hu": "Tömegközlekedéssel Fierben. Kulturális kezdésként a Régészeti Múzeumot látogatjuk meg, majd busszal utazunk a Szabadság térre és a fenséges katedrálishoz. Rövid utak kötik össze a negyedeket, míg a napot a folyóparti sétányon zárjuk.",
-        "ro": "Cu transportul public prin Fier. Începem la Muzeul Arheologic, apoi folosim autobuzul spre Piața Libertății și catedrală. Călătorii scurte leagă cartierele, până când încheiem ziua pe promenada râului.",
-        "en": "Using public transport through Fier. We start at the Archaeological Museum, then use the bus to the Square of Freedom and the cathedral. Short rides connect the districts until we end the day by the river promenade."
+        "de": "Nutzen Sie das lokale Transitsystem (Furgons), um die Region zu erkunden. Nach einem Vormittag im Archäologischen Museum von Fier nehmen Sie einen Minibus zur antiken Stätte Apollonia. Entdecken Sie die Ruinen und die Marienkirche, bevor Sie am Nachmittag nach Fier zurückkehren. Ein Spaziergang an der Fluss-Promenade und der Besuch der St.-Georgs-Kathedrale runden Ihren Tag ab.",
+        "hu": "Használja a helyi közlekedési rendszert (furgonok) a régió felfedezéséhez. A Fier Régészeti Múzeumában töltött délelőtt után szálljon fel egy kisbuszra Apollónia ókori helyszíne felé. Fedezze fel a romokat és a Mária-templomot, mielőtt délután visszatérne Fierbe. A folyóparti sétányon tett séta és a Szent György-székesegyház megtekintése teszi teljessé a napot.",
+        "ro": "Folosiți sistemul local de transport (microbuze) pentru a explora regiunea. După o dimineață la Muzeul de Arheologie din Fier, luați un microbuz către situl antic Apollonia. Descoperiți ruinele și biserica Sfânta Maria înainte de a reveni în Fier după-amiaza. O plimbare pe faleza râului și vizitarea Catedralei Sfântul Gheorghe vor completa ziua.",
+        "en": "Use the local transit system (furgons) to explore the region. After a morning at the Archaeological Museum of Fier, take a minibus to the ancient site of Apollonia. Discover the ruins and St. Mary's Church before returning to Fier in the afternoon. A walk on the river promenade and a visit to St. George's Cathedral round off your day."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditionelles Paprika-Käse-Gericht."
-          },
-          {
-            "name": "Qofte Të Fërguara",
-            "tip": "Gegrillte Fleischbällchen."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lammfleisch in Joghurt gebacken."
+            "name": "Lokale Imbissstuben",
+            "tip": "Günstige und leckere Byrek im Zentrum."
           }
         ],
         "hu": [
           {
-            "name": "Fërgesë",
-            "tip": "Hagyományos paprikás-sajtos étel."
-          },
-          {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grillezett húsgombócok."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Joghurtban sült bárányhús."
+            "name": "Helyi étkezdék",
+            "tip": "Olcsó és finom Byrek a központban."
           }
         ],
         "ro": [
           {
-            "name": "Fërgesë",
-            "tip": "Mâncare tradițională cu ardei și brânză."
-          },
-          {
-            "name": "Qofte Të Fërguara",
-            "tip": "Chiftele la grătar."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Carne de miel la cuptor în iaurt."
+            "name": "Fast-food-uri locale",
+            "tip": "Byrek ieftin și gustos în centru."
           }
         ],
         "en": [
           {
-            "name": "Fërgesë",
-            "tip": "Traditional pepper and cheese dish."
-          },
-          {
-            "name": "Qofte Të Fërguara",
-            "tip": "Grilled meatballs."
-          },
-          {
-            "name": "Tavë Kosi",
-            "tip": "Lamb baked in yogurt."
+            "name": "Local Eateries",
+            "tip": "Cheap and tasty Byrek in the center."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Entspannen am Wasser.",
-            "emoji": "🌅"
+            "name": "Apollonia Museumsgarten",
+            "tip": "Ruhiger Platz zum Warten auf den Bus.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Pihenés a vízparton.",
-            "emoji": "🌅"
+            "name": "Apollónia múzeumkert",
+            "tip": "Csendes hely a buszra való várakozáshoz.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Relaxare pe malul apei.",
-            "emoji": "🌅"
+            "name": "Grădina muzeului Apollonia",
+            "tip": "Loc liniștit pentru a aștepta microbuzul.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Gjanica-Flusspromenande",
-            "tip": "Relaxing by the water.",
-            "emoji": "🌅"
+            "name": "Apollonia Museum Garden",
+            "tip": "Quiet spot to wait for the bus.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Frisches Obst und lokale Produkte."
+            "name": "Kleidermarkt Fier",
+            "tip": "Günstige Angebote und lokaler Trubel."
           }
         ],
         "hu": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Friss gyümölcsök és helyi termékek."
+            "name": "Fier ruhapiaca",
+            "tip": "Olcsó ajánlatok és helyi nyüzsgés."
           }
         ],
         "ro": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Fructe proaspete și produse locale."
+            "name": "Piața de haine din Fier",
+            "tip": "Oferte ieftine și agitație locală."
           }
         ],
         "en": [
           {
-            "name": "Pazari i Fierit",
-            "tip": "Fresh fruits and local products."
+            "name": "Fier Clothing Market",
+            "tip": "Cheap deals and local hustle and bustle."
           }
         ]
       },
       "tips": {
         "de": [
-          "Fahrpläne für lokale Busse variieren.",
-          "Ein Einzelticket gilt meist für eine Strecke.",
-          "Fragen Sie Einheimische nach der richtigen Haltestelle.",
-          "Das Zentrum ist auch gut zu Fuß erkundbar."
+          "Furgons haben oft keine festen Fahrpläne, sie fahren, wenn sie voll sind.",
+          "Fragen Sie am Busbahnhof nach dem Bus nach 'Pojan' für Apollonia.",
+          "Halten Sie Kleingeld für die Fahrt bereit.",
+          "Planen Sie Pufferzeiten für die Rückfahrt ein."
         ],
         "hu": [
-          "A helyi buszok menetrendje változó.",
-          "Egy vonaljegy általában egy útra érvényes.",
-          "Kérdezze meg a helyieket a megfelelő megállóról.",
-          "A központ gyalogosan is jól felfedezhető."
+          "A furgonoknak gyakran nincs fix menetrendjük, akkor indulnak, ha megtelnek.",
+          "Apollóniához keresse a 'Pojan'-ba tartó buszt a pályaudvaron.",
+          "Készítsen elő aprópénzt a viteldíjhoz.",
+          "Tervezzen be tartalékidőt a visszaúthoz."
         ],
         "ro": [
-          "Orarele autobuzelor locale variază.",
-          "Un bilet simplu este valabil pentru o călătorie.",
-          "Întrebați localnicii despre stația corectă.",
-          "Centrul poate fi explorat și pe jos."
+          "Microbuzele nu au adesea un orar fix, pleacă atunci când sunt pline.",
+          "Întrebați la autogară de autobuzul spre 'Pojan' pentru Apollonia.",
+          "Aveți pregătit mărunțiș pentru bilet.",
+          "Prevedeți timp suplimentar pentru drumul de întoarcere."
         ],
         "en": [
-          "Schedules for local buses vary.",
-          "A single ticket is usually valid for one trip.",
-          "Ask locals for the right stop.",
-          "The center is also well explorable on foot."
+          "Furgons often don't have fixed schedules; they leave when full.",
+          "Ask at the bus station for the bus to 'Pojan' for Apollonia.",
+          "Have small change ready for the fare.",
+          "Plan for buffer times for the return journey."
         ]
       }
     }

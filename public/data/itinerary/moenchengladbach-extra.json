@@ -1,0 +1,980 @@
+{
+  "city_id": "moenchengladbach-extra",
+  "anchor": {
+    "name": "Mönchengladbach",
+    "coords": [
+      51.2,
+      6.43
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Alter Markt",
+          "coords": [
+            51.194,
+            6.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Morgenkaffee mit Blick auf das Rathaus.",
+            "hu": "Élvezze a reggeli kávét a városházára nyíló kilátással.",
+            "ro": "Savurați cafeaua de dimineață cu vedere la primărie.",
+            "en": "Enjoy your morning coffee with a view of the town hall."
+          }
+        },
+        {
+          "name": "Münster St. Vitus",
+          "coords": [
+            51.193,
+            6.432
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta aus dem 11. Jahrhundert.",
+            "hu": "Látogassa meg a 11. századi kriptát.",
+            "ro": "Vizitați cripta din secolul al XI-lea.",
+            "en": "Visit the 11th-century crypt."
+          }
+        },
+        {
+          "name": "Museum Abteiberg",
+          "coords": [
+            51.193,
+            6.434
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Architektur von Hans Hollein ist selbst ein Kunstwerk.",
+            "hu": "Hans Hollein építészete önmagában is műalkotás.",
+            "ro": "Arhitectura lui Hans Hollein este ea însăși o operă de artă.",
+            "en": "Hans Hollein's architecture is a work of art in itself."
+          }
+        },
+        {
+          "name": "St. Maria Rosenkranz",
+          "coords": [
+            51.185,
+            6.442
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Backsteinarchitektur.",
+            "hu": "Csodálja meg a neogótikus téglaépítészetet.",
+            "ro": "Admirați arhitectura neogotică din cărămidă.",
+            "en": "Admire the neo-Gothic brick architecture."
+          }
+        },
+        {
+          "name": "Bunter Garten",
+          "coords": [
+            51.201,
+            6.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht das Arboretum und den Duftgarten.",
+            "hu": "Ne hagyja ki az arborétumot és az illatkertet.",
+            "ro": "Nu ratați arboretumul și grădina senzorială.",
+            "en": "Don't miss the arboretum and the fragrance garden."
+          }
+        },
+        {
+          "name": "Gastro-Abschluss",
+          "coords": [
+            51.195,
+            6.432
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Altbier zum Abschluss.",
+            "hu": "Próbáljon ki egy helyi Altbiert a nap végén.",
+            "ro": "Încercați o bere locală Altbier la finalul zilei.",
+            "en": "Try a local Altbier to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Alten Markt, dem pulsierenden Herz der Oberstadt. Von dort ist es nur ein kurzer Spaziergang zum imposanten Münster St. Vitus auf dem Abteiberg. Nach dem Eintauchen in die moderne Kunst im Museum Abteiberg spazieren Sie durch das Viertel zur Kirche St. Maria Rosenkranz. Den Nachmittag verbringen Sie entspannt im Bunten Garten, bevor Sie den Tag in einem der gemütlichen Lokale der Altstadt ausklingen lassen.",
+        "hu": "A nap az óváros szívében, az Alter Markton kezdődik, ahonnan rövid séta vezet a dombtetőn álló Szent Vitus-bazilikához. Miután felfedezte az Abteiberg Múzeum kortárs kincseit, a neogótikus St. Maria Rosenkranz templom felé veszi az irányt. A délutáni pihenőt a Bunter Garten virágai között töltheti, végül pedig egy helyi sörözőben zárhatja a napot, megkóstolva a vidék híres sötét sörét.",
+        "ro": "Ziua începe în Piața Veche (Alter Markt), inima vibrantă a orașului de sus. De acolo, o scurtă plimbare vă duce la impunătoarea catedrală Sf. Vitus de pe dealul Abteiberg. După ce explorați arta modernă la Muzeul Abteiberg, plimbați-vă spre biserica St. Maria Rosenkranz. Petreceți după-amiaza relaxându-vă în Grădina Colorată (Bunter Garten), înainte de a încheia ziua într-un restaurant local tradițional.",
+        "en": "Your day starts at the historic Alter Markt, the pulsing heart of the upper town. From there, it's a short walk to the imposing St. Vitus Minster on the Abteiberg hill. After immersing yourself in modern art at Museum Abteiberg, stroll through the district to the St. Maria Rosenkranz church. Spend the afternoon relaxing in the Bunter Garten (Colorful Garden) before finishing your trip in one of the cozy local pubs in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus zum Sonnenhaus",
+            "tip": "Probieren Sie den 'Rheinischen Sauerbraten'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus zum Sonnenhaus",
+            "tip": "Kóstolja meg a 'Rheinischer Sauerbraten'-t (rajnai savanyú sült)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus zum Sonnenhaus",
+            "tip": "Încercați 'Rheinischer Sauerbraten', o friptură tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus zum Sonnenhaus",
+            "tip": "Try the 'Rheinischer Sauerbraten', a regional specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelweiher im Bunten Garten",
+            "tip": "Ein friedlicher Ort zum Beobachten von Wasservögeln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vogelweiher a Bunter Gartenben",
+            "tip": "Békés hely a vízimadarak megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vogelweiher în Bunter Garten",
+            "tip": "Un loc liniștit pentru observarea păsărilor de apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vogelweiher in Bunter Garten",
+            "tip": "A peaceful spot for birdwatching.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Minto Shopping Center",
+            "tip": "Modernes Einkaufszentrum mit großer Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Minto Bevásárlóközpont",
+            "tip": "Modern pláza hatalmas választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Minto Shopping Center",
+            "tip": "Centru comercial modern cu o gamă largă de magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Minto Shopping Center",
+            "tip": "Modern shopping mall with a wide variety of stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist recht hügelig, tragen Sie bequeme Schuhe.",
+          "Besuchen Sie die Tourist-Information am Alten Markt für Stadtpläne."
+        ],
+        "hu": [
+          "A város dombos, viseljen kényelmes cipőt.",
+          "Kérjen várostérképet az Alter Markton található turisztikai irodában."
+        ],
+        "ro": [
+          "Orașul este destul de deluros, purtați pantofi confortabili.",
+          "Vizitați biroul de informații turistice din Piața Veche pentru hărți."
+        ],
+        "en": [
+          "The city is quite hilly, so wear comfortable walking shoes.",
+          "Visit the tourist information center at Alter Markt for city maps."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Schloss Rheydt",
+          "coords": [
+            51.183,
+            6.482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum für Renaissancekultur im Schloss.",
+            "hu": "Nézze meg a reneszánsz kultúra múzeumát a kastélyban.",
+            "ro": "Vizitați muzeul culturii renascentiste din interiorul castelului.",
+            "en": "Visit the museum for Renaissance culture inside the castle."
+          }
+        },
+        {
+          "name": "TextilTechnikum",
+          "coords": [
+            51.18,
+            6.452
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der 'Textilstadt'.",
+            "hu": "Ismerje meg a 'textilváros' ipari múltját.",
+            "ro": "Aflați mai multe despre istoria 'orașului textil'.",
+            "en": "Learn about the history of the 'textile city'."
+          }
+        },
+        {
+          "name": "Münster St. Vitus",
+          "coords": [
+            51.193,
+            6.432
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:53",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Fuße des Berges sicher ab.",
+            "hu": "Zárja le biztonságosan a biciklit a domb lábánál.",
+            "ro": "Parcați bicicleta în siguranță la baza dealului.",
+            "en": "Park your bike securely at the bottom of the hill."
+          }
+        },
+        {
+          "name": "Lunch am Alten Markt",
+          "coords": [
+            51.194,
+            6.431
+          ],
+          "category": "gastro",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Restaurants bieten Mittagstische für Radfahrer an.",
+            "hu": "Számos étterem kínál ebédmenüt a kerékpárosoknak.",
+            "ro": "Multe restaurante oferă meniuri de prânz pentru bicicliști.",
+            "en": "Many restaurants offer lunch specials for cyclists."
+          }
+        },
+        {
+          "name": "Bunter Garten",
+          "coords": [
+            51.201,
+            6.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie gemütlich durch die Alleen des Parks.",
+            "hu": "Tekerjen kényelmesen a park fasorai között.",
+            "ro": "Plimbați-vă cu bicicleta pe aleile umbrite ale parcului.",
+            "en": "Cycle leisurely through the park's avenues."
+          }
+        },
+        {
+          "name": "Schloss Wickrath",
+          "coords": [
+            51.13,
+            6.417
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Westfälische Pferdestammbuch.",
+            "hu": "Nézze meg a Vesztfáliai Lótörzskönyvet.",
+            "ro": "Vizitați registrul genealogic al cailor din Westfalia.",
+            "en": "Visit the Westphalian Horse Studbook office."
+          }
+        },
+        {
+          "name": "Abschluss-Biergarten",
+          "coords": [
+            51.131,
+            6.418
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Schlossinsel.",
+            "hu": "Élvezze a kilátást a kastélyszigetre.",
+            "ro": "Bucurați-vă de vederea spre insula castelului.",
+            "en": "Enjoy the view of the castle island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die beiden prachtvollsten Wasserschlösser der Stadt. Sie starten am Schloss Rheydt und folgen dem Weg zum TextilTechnikum. Nach einem Anstieg zum Abteiberg und einer Stärkung am Alten Markt geht es durch den Bunten Garten. Der Höhepunkt ist die Fahrt nach Süden zum barocken Schloss Wickrath, das für seine Pferdezucht und weitläufigen Parkanlagen bekannt ist.",
+        "hu": "Ez a kerékpártúra összeköti a város két legpompásabb vízikastélyát. A Rheydt-kastélynál kezd, majd a TextilTechnikum felé veszi az irányt. Az Abteibergre való felkapaszkodás és egy kiadós ebéd után a Bunter Gartenen keresztül teker tovább. A túra csúcspontja a déli irányú gurulás a barokk Wickrath-kastélyhoz, amely híres lótartásáról és kiterjedt parkjáról.",
+        "ro": "Acest tur cu bicicleta conectează cele mai splendide două castele cu apă ale orașului. Începeți la Castelul Rheydt și urmați drumul spre TextilTechnikum. După o urcare spre Abteiberg și un prânz revigorant în Piața Veche, traversați Grădina Colorată. Punctul culminant este drumul spre sud către castelul baroc Wickrath, faimos pentru herghelia sa și parcurile vaste.",
+        "en": "This bike tour connects the two most magnificent moated castles in the city. Start at Schloss Rheydt and follow the path to the TextilTechnikum. After a climb to the Abteiberg and a lunch break at Alter Markt, cycle through the Bunter Garten. The highlight is the ride south to the Baroque Schloss Wickrath, known for its horse breeding and extensive parklands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schloss Wickrath Gastronomie",
+            "tip": "Kuchen und Kaffee im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schloss Wickrath Étterem",
+            "tip": "Sütemény és kávé történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gastronomia Schloss Wickrath",
+            "tip": "Prăjituri și cafea într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schloss Wickrath Gastronomy",
+            "tip": "Cakes and coffee in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wickrather Schlosspark",
+            "tip": "Ideal für eine entspannte Pause im Grünen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wickrath-kastélypark",
+            "tip": "Ideális egy pihentető szünetre a zöldben.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Wickrath",
+            "tip": "Ideal pentru o pauză relaxantă în natură.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wickrath Castle Park",
+            "tip": "Ideal for a relaxing break in nature.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Schloss Rheydt",
+            "tip": "Regionale Spezialitäten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rheydt-kastély udvari boltja",
+            "tip": "Regionális specialitások és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul castelului Rheydt",
+            "tip": "Specialități regionale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schloss Rheydt Farm Shop",
+            "tip": "Regional specialties and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zwischen Rheydt und Wickrath ist größtenteils flach.",
+          "Nutzen Sie den Knotenpunktsystem der Radregion Niederrhein."
+        ],
+        "hu": [
+          "A Rheydt és Wickrath közötti szakasz nagy része sík.",
+          "Használja az Alsó-Rajna kerékpáros csomópont-rendszerét."
+        ],
+        "ro": [
+          "Traseul între Rheydt și Wickrath este în mare parte plat.",
+          "Utilizați sistemul de noduri pentru biciclete din regiunea Niederrhein."
+        ],
+        "en": [
+          "The route between Rheydt and Wickrath is mostly flat.",
+          "Use the cycle node system of the Lower Rhine region."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cluster A: Alter Markt",
+          "coords": [
+            51.194,
+            6.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Abteiberg.",
+            "hu": "Parkoljon az Abteiberg melletti parkolóházban.",
+            "ro": "Parcați în parcarea supraetajată de la Abteiberg.",
+            "en": "Park in the multi-story car park at Abteiberg."
+          }
+        },
+        {
+          "name": "Cluster A: Münster St. Vitus",
+          "coords": [
+            51.193,
+            6.432
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Alten Markt.",
+            "hu": "Rövid séta az Alter Markttól.",
+            "ro": "Scurtă plimbare de la Piața Veche.",
+            "en": "Short walk from Alter Markt."
+          }
+        },
+        {
+          "name": "Cluster A: Bunter Garten",
+          "coords": [
+            51.201,
+            6.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch die Wohnviertel.",
+            "hu": "Kellemes séta a lakónegyedeken át.",
+            "ro": "O plimbare frumoasă prin zonele rezidențiale.",
+            "en": "A beautiful walk through residential areas."
+          }
+        },
+        {
+          "name": "Cluster B: Schloss Rheydt",
+          "coords": [
+            51.183,
+            6.482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt am Schloss.",
+            "hu": "Ingyenes parkoló közvetlenül a kastélynál.",
+            "ro": "Parcare gratuită chiar lângă castel.",
+            "en": "Free parking available directly at the castle."
+          }
+        },
+        {
+          "name": "Cluster B: TextilTechnikum",
+          "coords": [
+            51.18,
+            6.452
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt vom Schloss Rheydt.",
+            "hu": "Rövid autóút a Rheydt-kastélytól.",
+            "ro": "Scurtă călătorie cu mașina de la castelul Rheydt.",
+            "en": "Short drive from Schloss Rheydt."
+          }
+        },
+        {
+          "name": "Cluster C: Schloss Wickrath",
+          "coords": [
+            51.13,
+            6.417
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz an der Wickrather Ostseite.",
+            "hu": "Használja a Wickrath keleti oldalán lévő parkolót.",
+            "ro": "Utilizați parcarea din partea de est a Wickrath.",
+            "en": "Use the parking lot on the east side of Wickrath."
+          }
+        },
+        {
+          "name": "Cluster C: Schlosspark Spaziergang",
+          "coords": [
+            51.129,
+            6.415
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Rundgang um die Wassergräben.",
+            "hu": "Rövid séta a vizesárkok körül.",
+            "ro": "O scurtă plimbare în jurul șanțurilor cu apă.",
+            "en": "A short walk around the moats."
+          }
+        },
+        {
+          "name": "Abschluss",
+          "coords": [
+            51.131,
+            6.418
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Abendessen in Wickrath vor der Rückfahrt.",
+            "hu": "Vacsora Wickrathban a hazaút előtt.",
+            "ro": "Cina în Wickrath înainte de drumul de întoarcere.",
+            "en": "Dinner in Wickrath before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights in bequemen Clustern. Zuerst parken Sie im Zentrum (Cluster A), um den Alten Markt, das Münster und den Bunten Garten zu Fuß zu entdecken. Danach fahren Sie zum Cluster B nach Rheydt, wo Sie das Schloss und das TextilTechnikum besuchen. Zum Abschluss führt die Fahrt nach Süden zum Cluster C, dem barocken Ensemble von Schloss Wickrath, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Autóval kényelmes csoportokban fedezheti fel a város látnivalóit. Először a központban parkol (A csoport), hogy gyalog fedezze fel az Alter Marktot, a dómot és a Bunter Gartent. Ezután a Rheydt-i B csoporthoz hajt, ahol a kastélyt és a TextilTechnikumot látogatja meg. Végül délre indul a C csoporthoz, a barokk Wickrath-kastélyhoz, ahol nyugodt környezetben zárhatja a napot.",
+        "ro": "Cu mașina, explorați atracțiile în grupuri convenabile. Mai întâi parcați în centru (Grupul A) pentru a descoperi pe jos Piața Veche, Catedrala și Grădina Colorată. Apoi conduceți către Grupul B din Rheydt, unde vizitați castelul și TextilTechnikum. În final, drumul vă duce spre sud la Grupul C, ansamblul baroc al castelului Wickrath, înainte de a încheia ziua relaxat.",
+        "en": "Explore the city's highlights in convenient clusters by car. First, park in the center (Cluster A) to discover Alter Markt, the Minster, and Bunter Garten on foot. Then drive to Cluster B in Rheydt to visit the castle and TextilTechnikum. Finally, head south to Cluster C, the Baroque ensemble of Schloss Wickrath, before ending the day in a relaxed atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Purino Schloss Rheydt",
+            "tip": "Italienische Küche in historischer Kulisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Purino Rheydt-kastély",
+            "tip": "Olasz konyha történelmi kulisszák között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Purino Schloss Rheydt",
+            "tip": "Bucătărie italiană într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Purino Schloss Rheydt",
+            "tip": "Italian cuisine in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossinsel Wickrath",
+            "tip": "Besonders ruhig am späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wickrath-kastélysziget",
+            "tip": "Különösen csendes késő délután.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Castelului Wickrath",
+            "tip": "Deosebit de liniștită după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wickrath Castle Island",
+            "tip": "Especially quiet in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Rheydt",
+            "tip": "Mittwochs und samstags frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rheydti heti piac",
+            "tip": "Friss termékek szerdánként és szombatonként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Rheydt",
+            "tip": "Produse proaspete miercuri și sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rheydt Weekly Market",
+            "tip": "Fresh products on Wednesdays and Saturdays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie den Berufsverkehr auf der B230.",
+          "In Wickrath gibt es viele kostenlose Parkplätze."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat a B230-as úton.",
+          "Wickrathban sok az ingyenes parkoló."
+        ],
+        "ro": [
+          "Evitați traficul de vârf pe drumul B230.",
+          "În Wickrath există multe locuri de parcare gratuite."
+        ],
+        "en": [
+          "Avoid rush hour traffic on the B230.",
+          "There are many free parking spaces in Wickrath."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "District A: Alter Markt",
+          "coords": [
+            51.194,
+            6.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für viele Buslinien.",
+            "hu": "Számos buszjárat központi csomópontja.",
+            "ro": "Hub central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": "District A: Museum Abteiberg",
+          "coords": [
+            51.193,
+            6.434
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Alten Markt.",
+            "hu": "Csak pár perc gyalog az Alter Markttól.",
+            "ro": "La doar câteva minute de mers pe jos de Piața Veche.",
+            "en": "Just a few minutes' walk from Alter Markt."
+          }
+        },
+        {
+          "name": "District A: Bunter Garten",
+          "coords": [
+            51.201,
+            6.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus 003 oder 013 für den Rückweg zum Hbf.",
+            "hu": "Használja a 003-as vagy 013-as buszt a pályaudvarra való visszatéréshez.",
+            "ro": "Utilizați autobuzul 003 sau 013 pentru întoarcerea la gară.",
+            "en": "Use bus 003 or 013 for the return to the main station."
+          }
+        },
+        {
+          "name": "District B: Schloss Rheydt",
+          "coords": [
+            51.183,
+            6.482
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Bus 016 fährt direkt bis zur Haltestelle Schloss Rheydt.",
+            "hu": "A 016-os busz közvetlenül a kastélynál áll meg.",
+            "ro": "Autobuzul 016 merge direct până la stația Schloss Rheydt.",
+            "en": "Bus 016 goes directly to the Schloss Rheydt stop."
+          }
+        },
+        {
+          "name": "District B: TextilTechnikum",
+          "coords": [
+            51.18,
+            6.452
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erreichbar mit dem Bus 001 oder 002.",
+            "hu": "Elérhető a 001-es vagy 002-es busszal.",
+            "ro": "Accesibil cu autobuzul 001 sau 002.",
+            "en": "Accessible via bus 001 or 002."
+          }
+        },
+        {
+          "name": "Kaiserstraße Shopping",
+          "coords": [
+            51.196,
+            6.441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "In der Nähe des Hauptbahnhofs gelegen.",
+            "hu": "A főpályaudvar közelében található.",
+            "ro": "Situat în apropierea gării centrale.",
+            "en": "Located near the main railway station."
+          }
+        },
+        {
+          "name": "Gastro-Abschluss am Hbf",
+          "coords": [
+            51.196,
+            6.445
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt vor der Abreise mit dem Zug.",
+            "hu": "Tökéletes a vonattal való indulás előtt.",
+            "ro": "Perfect înainte de plecarea cu trenul.",
+            "en": "Perfect before departing by train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem exzellenten Busnetz erreichen Sie alle Sehenswürdigkeiten stressfrei. Starten Sie in der Oberstadt (Distrikt A), wo Sie Kunst und Kultur rund um den Abteiberg genießen. Nach einer Busfahrt nach Osten (Distrikt B) besuchen Sie das Schloss Rheydt und das TextilTechnikum. Der Tag endet bequem in der Nähe des Hauptbahnhofs, wo Sie noch letzte Einkäufe tätigen oder etwas essen können.",
+        "hu": "A kiváló buszhálózattal minden látnivalót stresszmentesen érhet el. Kezdjen a felsővárosban (A körzet), ahol az Abteiberg körüli művészetet és kultúrát élvezheti. Egy keleti irányú buszozás után (B körzet) látogassa meg a Rheydt-kastélyt és a TextilTechnikumot. A nap kényelmesen a főpályaudvar közelében ér véget, ahol vásárolhat vagy ehet egyet.",
+        "ro": "Cu rețeaua excelentă de autobuze, puteți ajunge la toate atracțiile fără stres. Începeți în orașul de sus (Districtul A), unde vă bucurați de artă și cultură în jurul Abteiberg. După o călătorie cu autobuzul spre est (Districtul B), vizitați castelul Rheydt și TextilTechnikum. Ziua se încheie convenabil în apropierea gării centrale, unde puteți face ultimele cumpărături sau puteți lua masa.",
+        "en": "With the excellent bus network, you can reach all sights stress-free. Start in the upper town (District A), where you enjoy art and culture around the Abteiberg. After a bus ride to the east (District B), visit Schloss Rheydt and the TextilTechnikum. The day ends conveniently near the main station, where you can do some final shopping or grab a bite to eat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Münster-Café",
+            "tip": "Traditionelles Gebäck und Blick auf das Münster."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Münster-Café",
+            "tip": "Hagyományos sütemények és kilátás a dómra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Münster-Café",
+            "tip": "Patiserie tradițională și vedere la catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Münster-Café",
+            "tip": "Traditional pastries and a view of the Minster."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abteigarten",
+            "tip": "Ein ruhiger Rückzugsort direkt unterhalb des Münsters.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apátsági kert",
+            "tip": "Csendes menedék közvetlenül a dóm alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Abației",
+            "tip": "Un refugiu liniștit chiar sub catedrală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Garden",
+            "tip": "A quiet retreat directly below the Minster.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Vielfältige Läden im Zentrum von Gladbach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Változatos üzletek Gladbach központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Magazine diverse în centrul Gladbach-ului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserstraße",
+            "tip": "Diverse shops in the center of Gladbach."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App der NEW für Echtzeit-Abfahrten.",
+          "Ein Tagesticket für die Preisstufe A ist meist am günstigsten."
+        ],
+        "hu": [
+          "Használja a NEW alkalmazást a valós idejű indulásokhoz.",
+          "Az A díjövezet napijegye általában a legolcsóbb."
+        ],
+        "ro": [
+          "Utilizați aplicația NEW pentru plecări în timp real.",
+          "Un bilet de o zi pentru zona A este de obicei cel mai avantajos."
+        ],
+        "en": [
+          "Use the NEW app for real-time departures.",
+          "A day ticket for price level A is usually the best value."
+        ]
+      }
+    }
+  }
+}

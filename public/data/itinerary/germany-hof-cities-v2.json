@@ -1,0 +1,1010 @@
+{
+  "city_id": "germany-hof-cities-v2",
+  "anchor": {
+    "name": "Hof Rathaus",
+    "coords": [
+      11.9167,
+      50.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hofer Freiheit",
+          "coords": [
+            11.9162,
+            50.3175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Platz, ideal für einen morgendlichen Kaffee.",
+            "hu": "Központi tér, ideális egy reggeli kávéhoz.",
+            "ro": "Piață centrală, ideală pentru o cafea de dimineață.",
+            "en": "Central square, ideal for a morning coffee."
+          }
+        },
+        {
+          "name": "Rathaus Hof",
+          "coords": [
+            11.9175,
+            50.3192
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Fassade des Rathauses.",
+            "hu": "Csodálja meg a városháza neogótikus homlokzatát.",
+            "ro": "Admirați fațada neogotică a primăriei.",
+            "en": "Admire the neo-Gothic facade of the town hall."
+          }
+        },
+        {
+          "name": "Michaeliskirche",
+          "coords": [
+            11.9188,
+            50.3205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt mit markanten Türmen.",
+            "hu": "A város legrégebbi temploma jellegzetes tornyokkal.",
+            "ro": "Cea mai veche biserică din oraș, cu turnuri distinctive.",
+            "en": "The city's oldest church with striking towers."
+          }
+        },
+        {
+          "name": "Hospitalhof",
+          "coords": [
+            11.9155,
+            50.3218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historisches Viertel mit der Hospitalkirche.",
+            "hu": "Történelmi negyed a kórházi templommal.",
+            "ro": "Cartier istoric cu biserica spitalului.",
+            "en": "Historic district featuring the Hospital Church."
+          }
+        },
+        {
+          "name": "Museum Bayerisches Vogtland",
+          "coords": [
+            11.9142,
+            50.3225
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte des Vogtlandes.",
+            "hu": "Ismerje meg a Vogtland vidékének történelmét.",
+            "ro": "Aflați mai multe despre istoria regiunii Vogtland.",
+            "en": "Learn more about the history of the Vogtland region."
+          }
+        },
+        {
+          "name": "Theresienstein",
+          "coords": [
+            11.9285,
+            50.3312
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einer der schönsten Parks Deutschlands mit Botanischem Garten.",
+            "hu": "Németország egyik legszebb parkja botanikus kerttel.",
+            "ro": "Unul dintre cele mai frumoase parcuri din Germania.",
+            "en": "One of Germany's most beautiful parks with botanical gardens."
+          }
+        },
+        {
+          "name": "Fernwehpark",
+          "coords": [
+            11.9302,
+            50.3325
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine einzigartige Sammlung von Ortsschildern aus aller Welt.",
+            "hu": "Egyedülálló helységnévtábla-gyűjtemény a világ minden tájáról.",
+            "ro": "O colecție unică de indicatoare rutiere din întreaga lume.",
+            "en": "A unique collection of town signs from all over the world."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Stadterkundung beginnt auf der Hofer Freiheit, dem pulsierenden Herzen der Stadt. Nach einem Blick auf das neugotische Rathaus besuchen Sie die historische Michaeliskirche. Mittags tauchen Sie im Museum Bayerisches Vogtland in die regionale Kultur ein. Der Nachmittag gehört dem prachtvollen Theresienstein, wo Sie im Fernwehpark eine kuriose Sammlung internationaler Schilder bestaunen können.",
+        "hu": "Városnézése a Hofer Freiheit téren, a város lüktető szívében kezdődik. A neogótikus városháza megtekintése után látogasson el a történelmi Michaeliskirche templomba. Délben a Museum Bayerisches Vogtland kiállításain keresztül merüljön el a régió kultúrájában. A délutánt a pompás Theresienstein parkban töltjük, ahol a Fernwehpark különleges nemzetközi táblagyűjteményét is megcsodálhatjuk.",
+        "ro": "Explorarea orașului începe în Hofer Freiheit, inima vibrantă a orașului. După o privire asupra primăriei neogotice, vizitați istorica Michaeliskirche. La prânz, scufundați-vă în cultura regională la Museum Bayerisches Vogtland. După-amiaza este dedicată magnificului Theresienstein, unde puteți admira o colecție curioasă de indicatoare internaționale în Fernwehpark.",
+        "en": "Your city exploration begins at Hofer Freiheit, the pulsing heart of the city. After a look at the neo-Gothic town hall, visit the historic Michaeliskirche. At noon, immerse yourself in regional culture at the Museum Bayerisches Vogtland. The afternoon is dedicated to the magnificent Theresienstein park, where you can marvel at a curious collection of international signs in the Fernwehpark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hofer Rindfleischwurst",
+            "tip": "Probieren Sie diese lokale Wurstspezialität bei einem Metzger."
+          },
+          {
+            "name": "Restaurant am Theresienstein",
+            "tip": "Klassische deutsche Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hofer Rindfleischwurst",
+            "tip": "Kóstolja meg ezt a helyi marhahúsos kolbászkülönlegességet."
+          },
+          {
+            "name": "Restaurant am Theresienstein",
+            "tip": "Klasszikus német konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hofer Rindfleischwurst",
+            "tip": "Gustați această specialitate locală de cârnați de vită."
+          },
+          {
+            "name": "Restaurant am Theresienstein",
+            "tip": "Bucătărie germană clasică într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hofer Rindfleischwurst",
+            "tip": "Try this local beef sausage specialty from a local butcher."
+          },
+          {
+            "name": "Restaurant am Theresienstein",
+            "tip": "Classic German cuisine in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ein friedlicher Ort im Theresienstein.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Békés hely a Theresienstein parkban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un loc liniștit în Theresienstein.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A peaceful spot within Theresienstein.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Die Haupteinkaufsstraße mit vielen Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "A fő bevásárlóutca számos szaküzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Principala stradă comercială cu multe magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "The main shopping street with many specialty shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist gut zu Fuß erreichbar.",
+          "Achten Sie auf die kleinen Details an den historischen Fassaden.",
+          "Der Weg zum Theresienstein führt leicht bergauf.",
+          "Besuchen Sie das Museum am Vormittag, um Zeit für den Park zu haben."
+        ],
+        "hu": [
+          "A belváros gyalogosan könnyen bejárható.",
+          "Figyeljen a történelmi homlokzatok apró részleteire.",
+          "A Theresienstein felé vezető út enyhén emelkedik.",
+          "Látogassa meg a múzeumot délelőtt, hogy maradjon idő a parkra."
+        ],
+        "ro": [
+          "Centrul orașului este ușor accesibil pe jos.",
+          "Fiți atenți la micile detalii de pe fațadele istorice.",
+          "Drumul spre Theresienstein este ușor în pantă.",
+          "Vizitați muzeul dimineața pentru a avea timp pentru parc."
+        ],
+        "en": [
+          "The city center is easily accessible on foot.",
+          "Pay attention to the small details on the historic facades.",
+          "The path to Theresienstein is slightly uphill.",
+          "Visit the museum in the morning to leave enough time for the park."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Hofer Freiheit",
+          "coords": [
+            11.9162,
+            50.3175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Treffpunkt für Radtourer.",
+            "hu": "Tökéletes találkozóhely kerékpárosoknak.",
+            "ro": "Punct de întâlnire perfect pentru bicicliști.",
+            "en": "Perfect meeting point for bike tourists."
+          }
+        },
+        {
+          "name": "Michaeliskirche",
+          "coords": [
+            11.9188,
+            50.3205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Zentrum.",
+            "hu": "Rövid megálló a központban.",
+            "ro": "Scurtă oprire în centru.",
+            "en": "Short stop in the center."
+          }
+        },
+        {
+          "name": "Museum Bayerisches Vogtland",
+          "coords": [
+            11.9142,
+            50.3225
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Eingang.",
+            "hu": "Kerékpártároló közvetlenül a bejárat előtt.",
+            "ro": "Suporturi pentru biciclete direct în fața intrării.",
+            "en": "Bike racks right in front of the entrance."
+          }
+        },
+        {
+          "name": "Theresienstein",
+          "coords": [
+            11.9285,
+            50.3312
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schöne Wege zum Radeln im Park.",
+            "hu": "Szép kerékpározható utak a parkban.",
+            "ro": "Poteci frumoase pentru ciclism în parc.",
+            "en": "Beautiful paths for cycling in the park."
+          }
+        },
+        {
+          "name": "Bismarckturm",
+          "coords": [
+            11.9325,
+            50.3345
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Aussichtspunkt auf dem Rosenbühl.",
+            "hu": "Kilátópont a Rosenbühl dombon.",
+            "ro": "Punct de belvedere pe dealul Rosenbühl.",
+            "en": "Viewpoint on the Rosenbühl hill."
+          }
+        },
+        {
+          "name": "Untreusee",
+          "coords": [
+            11.9055,
+            50.2852
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die 6 km lange Rundtour um den See.",
+            "hu": "Élvezze a 6 km-es körtúrát a tó körül.",
+            "ro": "Bucurați-vă de turul de 6 km în jurul lacului.",
+            "en": "Enjoy the 6 km circular tour around the lake."
+          }
+        },
+        {
+          "name": "Hospitalhof",
+          "coords": [
+            11.9155,
+            50.3218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historischer Abschluss Ihrer Tour.",
+            "hu": "Túrájának történelmi lezárása.",
+            "ro": "Final istoric al turului tău.",
+            "en": "Historic conclusion to your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert Stadtkultur mit Naturerlebnissen. Nach dem Start im Zentrum radeln Sie zum Theresienstein und hinauf zum Bismarckturm. Das Highlight ist die Fahrt nach Süden zum Untreusee, wo Sie den See umrunden können. Den Tag lassen Sie im historischen Hospitalviertel gemütlich ausklingen.",
+        "hu": "Ez a kerékpártúra ötvözi a városi kultúrát a természet élményével. A központból indulva a Theresienstein parkhoz, majd fel a Bismarck-toronyhoz tekerünk. A túra fénypontja a déli irányú gurulás az Untreusee-tóhoz, amelyet körbe is biciklizhetünk. A napot a történelmi Hospitalviertel negyedben zárjuk.",
+        "ro": "Acest tur cu bicicleta combină cultura urbană cu experiențele în natură. După pornirea din centru, mergeți cu bicicleta spre Theresienstein și sus la Turnul Bismarck. Punctul culminant este călătoria spre sud către Untreusee, unde puteți înconjura lacul. Încheiați ziua confortabil în cartierul istoric Hospitalviertel.",
+        "en": "This bike tour combines city culture with nature experiences. Starting in the center, cycle to Theresienstein and up to the Bismarck Tower. The highlight is the ride south to Untreusee, where you can cycle around the lake. End the day comfortably in the historic Hospitalviertel district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wirtshaus am Untreusee",
+            "tip": "Perfekt für eine Pause am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wirtshaus am Untreusee",
+            "tip": "Tökéletes pihenőhely a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wirtshaus am Untreusee",
+            "tip": "Perfect pentru o pauză lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wirtshaus am Untreusee",
+            "tip": "Perfect for a break by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Labyrinth im Theresienstein",
+            "tip": "Ein versteckter ruhiger Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útvesztő a Theresiensteinben",
+            "tip": "Egy elrejtett csendes hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Labirintul din Theresienstein",
+            "tip": "Un loc liniștit ascuns.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Labyrinth in Theresienstein",
+            "tip": "A hidden quiet spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofer Landmarkt",
+            "tip": "Regionale Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hofer Landmarkt",
+            "tip": "Regionális termékek közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hofer Landmarkt",
+            "tip": "Produse regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hofer Landmarkt",
+            "tip": "Regional products directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Saaleradweg führt direkt durch Hof.",
+          "Nutzen Sie die Radwege zum Untreusee für eine sichere Fahrt.",
+          "In der Innenstadt ist Vorsicht in Fußgängerzonen geboten.",
+          "Prüfen Sie vorab die Steigungen zum Bismarckturm."
+        ],
+        "hu": [
+          "A Saale-menti kerékpárút közvetlenül áthalad Hof városon.",
+          "Használja az Untreusee-hez vezető kerékpárutakat a biztonságos közlekedésért.",
+          "A belvárosi sétálóövezetekben legyen óvatos.",
+          "Ellenőrizze előre az emelkedőket a Bismarck-torony felé."
+        ],
+        "ro": [
+          "Traseul de biciclete Saale trece direct prin Hof.",
+          "Folosiți pistele de biciclete către Untreusee pentru o călătorie sigură.",
+          "În centrul orașului este necesară prudență în zonele pietonale.",
+          "Verificați din timp pantele spre Turnul Bismarck."
+        ],
+        "en": [
+          "The Saale Cycle Path leads directly through Hof.",
+          "Use the bike paths to Untreusee for a safe ride.",
+          "Exercise caution in pedestrian zones in the city center.",
+          "Check the gradients to the Bismarck Tower beforehand."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Rathaus Hof",
+          "coords": [
+            11.9175,
+            50.3192
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus am Rathaus nutzen.",
+            "hu": "Használja a városháza melletti parkolóházat.",
+            "ro": "Folosiți parcarea de la primărie.",
+            "en": "Use the parking garage at the town hall."
+          }
+        },
+        {
+          "name": "Michaeliskirche",
+          "coords": [
+            11.9188,
+            50.3205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkhaus erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolóháztól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking garage."
+          }
+        },
+        {
+          "name": "Hospitalhof",
+          "coords": [
+            11.9155,
+            50.3218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historisches Ensemble (Cluster Walk).",
+            "hu": "Történelmi együttes (gyalogos séta).",
+            "ro": "Ansamblu istoric (plimbare în cluster).",
+            "en": "Historic ensemble (cluster walk)."
+          }
+        },
+        {
+          "name": "Museum Bayerisches Vogtland",
+          "coords": [
+            11.9142,
+            50.3225
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Teil des Innenstadt-Clusters.",
+            "hu": "A belvárosi klaszter része.",
+            "ro": "Face parte din clusterul centrului orașului.",
+            "en": "Part of the city center cluster."
+          }
+        },
+        {
+          "name": "Theresienstein",
+          "coords": [
+            11.9285,
+            50.3312
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Haupteingang vorhanden.",
+            "hu": "Parkoló közvetlenül a főbejáratnál.",
+            "ro": "Parcare disponibilă direct la intrarea principală.",
+            "en": "Parking available right at the main entrance."
+          }
+        },
+        {
+          "name": "Fernwehpark",
+          "coords": [
+            11.9302,
+            50.3325
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Parkplatz Theresienstein zu Fuß.",
+            "hu": "Gyalog a Theresienstein parkolójától.",
+            "ro": "Pe jos de la parcarea Theresienstein.",
+            "en": "On foot from the Theresienstein parking."
+          }
+        },
+        {
+          "name": "Untreusee",
+          "coords": [
+            11.9055,
+            50.2852
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz am See.",
+            "hu": "Nagy látogatói parkoló a tónál.",
+            "ro": "Parcare mare pentru vizitatori lângă lac.",
+            "en": "Large visitor parking at the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie effizient die verschiedenen Facetten von Hof. Wir beginnen mit einem Cluster-Walk in der historischen Altstadt. Danach fahren wir zum prachtvollen Park Theresienstein und beenden den Tag entspannt am Untreusee, dem Freizeitparadies im Süden der Stadt.",
+        "hu": "Autóval hatékonyan fedezhetjük fel Hof különböző arcait. Egy gyalogos sétával kezdünk a történelmi óvárosban. Ezután a pompás Theresienstein parkhoz hajtunk, a napot pedig az Untreusee-tónál, a város déli szabadidős paradicsomában zárjuk.",
+        "ro": "Cu mașina puteți explora eficient diferitele fațete ale orașului Hof. Începem cu o plimbare în cluster în centrul istoric vechi. Apoi mergem la magnificul parc Theresienstein și încheiem ziua relaxați la Untreusee, paradisul de agrement din sudul orașului.",
+        "en": "By car, you can efficiently explore the different facets of Hof. We start with a cluster walk in the historic old town. Then we drive to the magnificent Theresienstein park and end the day relaxed at Untreusee, the leisure paradise in the south of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alte Schloßschenke",
+            "tip": "Hervorragende fränkische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alte Schloßschenke",
+            "tip": "Kiváló frank specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alte Schloßschenke",
+            "tip": "Specialități franconiene excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alte Schloßschenke",
+            "tip": "Excellent Franconian specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seeufer Untreusee",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Untreusee tópart",
+            "tip": "Tökéletes a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Untreusee",
+            "tip": "Perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Untreusee lakeshore",
+            "tip": "Perfect for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum HofGalerie",
+            "tip": "Überdachtes Shoppen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "HofGalerie bevásárlóközpont",
+            "tip": "Fedett vásárlási lehetőség a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial HofGalerie",
+            "tip": "Cumpărături la interior în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "HofGalerie shopping center",
+            "tip": "Indoor shopping in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum und gehen Sie die Altstadt zu Fuß ab.",
+          "Die Parkgebühren sind moderat.",
+          "Am Untreusee gibt es kostenlose Parkplätze in der Nebensaison.",
+          "Navigieren Sie zum Theresienstein Haupteingang."
+        ],
+        "hu": [
+          "Parkoljon a központban, és az óvárost gyalogosan járja be.",
+          "A parkolási díjak mérsékeltek.",
+          "Az Untreusee-nél utószezonban ingyenes parkolók is vannak.",
+          "Navigáljon a Theresienstein főbejáratához."
+        ],
+        "ro": [
+          "Parcați în centru și parcurgeți orașul vechi pe jos.",
+          "Taxele de parcare sunt moderate.",
+          "Există locuri de parcare gratuite la Untreusee în extrasezon.",
+          "Navigați către intrarea principală a Theresienstein."
+        ],
+        "en": [
+          "Park in the center and explore the old town on foot.",
+          "Parking fees are moderate.",
+          "There are free parking spots at Untreusee in the off-season.",
+          "Navigate to the Theresienstein main entrance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hofer Freiheit",
+          "coords": [
+            11.9162,
+            50.3175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central de autobuz.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": "Rathaus Hof",
+          "coords": [
+            11.9175,
+            50.3192
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busbahnhof.",
+            "hu": "Rövid séta a buszpályaudvartól.",
+            "ro": "Scurtă plimbare de la autogară.",
+            "en": "Short walk from the bus station."
+          }
+        },
+        {
+          "name": "Museum Bayerisches Vogtland",
+          "coords": [
+            11.9142,
+            50.3225
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentral im Altstadt-Cluster.",
+            "hu": "Központi helyen az óvárosi klaszterben.",
+            "ro": "Central în clusterul orașului vechi.",
+            "en": "Centrally located in the old town cluster."
+          }
+        },
+        {
+          "name": "Theater Hof",
+          "coords": [
+            11.9185,
+            50.3285
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Moderne Architektur im Norden der Stadt.",
+            "hu": "Modern építészet a város északi részén.",
+            "ro": "Arhitectură modernă în nordul orașului.",
+            "en": "Modern architecture in the north of the city."
+          }
+        },
+        {
+          "name": "Theresienstein",
+          "coords": [
+            11.9285,
+            50.3312
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie hält direkt am Parkeingang.",
+            "hu": "Az autóbusz közvetlenül a park bejáratánál áll meg.",
+            "ro": "Linia de autobuz oprește direct la intrarea în parc.",
+            "en": "Bus line stops directly at the park entrance."
+          }
+        },
+        {
+          "name": "Untreusee",
+          "coords": [
+            11.9055,
+            50.2852
+          ],
+          "category": "natural features",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Busanbindung zum See (Saison beachten).",
+            "hu": "Buszjárat a tóhoz (ügyeljen a szezonra).",
+            "ro": "Legătură cu autobuzul către lac (atenție la sezon).",
+            "en": "Bus connection to the lake (check seasonality)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Hof ganz ohne Stress mit dem öffentlichen Nahverkehr. Vom zentralen Busbahnhof erreichen Sie die Altstadt und das Museum. Eine kurze Busfahrt bringt Sie zum Theater und dem malerischen Theresienstein. Zum Abschluss fahren wir mit dem Bus zum Untreusee für eine Entspannungseinheit am Wasser.",
+        "hu": "Ismerje meg Hof városát stresszmentesen, tömegközlekedéssel. A központi buszpályaudvartól könnyen elérhető az óváros és a múzeum. Egy rövid buszozással a színházhoz és a festői Theresienstein parkhoz juthatunk. Végül busszal megyünk az Untreusee-tóhoz egy kis vízparti pihenésre.",
+        "ro": "Experimentați Hof fără stres cu transportul public. De la autogara centrală puteți ajunge în orașul vechi și la muzeu. O scurtă călătorie cu autobuzul vă duce la teatru și la pitorescul Theresienstein. În cele din urmă, mergem cu autobuzul la Untreusee pentru o sesiune de relaxare lângă apă.",
+        "en": "Experience Hof stress-free with public transport. From the central bus station, you can reach the old town and the museum. A short bus ride takes you to the theater and the picturesque Theresienstein. Finally, we take the bus to Untreusee for a relaxing session by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Zentralen Busbahnhof",
+            "tip": "Für den schnellen Snack zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisztró a központi buszpályaudvarnál",
+            "tip": "Gyors snack a megállók között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la autogara centrală",
+            "tip": "Pentru o gustare rapidă între opriri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro at the central bus station",
+            "tip": "For a quick snack between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hospitalgarten",
+            "tip": "Ein kleiner Park im Stadtzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hospitalgarten",
+            "tip": "Egy kis park a városközpontban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Spitalului",
+            "tip": "Un mic parc în centrul orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hospital Garden",
+            "tip": "A small park in the city center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Hof",
+            "tip": "Frische Produkte am Rathaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hofer heti piac",
+            "tip": "Friss termékek a városházánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Hof",
+            "tip": "Produse proaspete la primărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hof Weekly Market",
+            "tip": "Fresh products at the town hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Stadtbusnetz.",
+          "Die Busse verkehren in regelmäßigen Abständen.",
+          "Informieren Sie sich über die Abfahrtszeiten zum Untreusee.",
+          "Der zentrale Umsteigepunkt ist 'Hof Unteres Tor'."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszhálózatra.",
+          "A buszok rendszeres időközönként közlekednek.",
+          "Tájékozódjon az Untreusee-hez induló buszok menetrendjéről.",
+          "A központi átszállópont a 'Hof Unteres Tor'."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de autobuze urbane.",
+          "Autobuzele circulă la intervale regulate.",
+          "Informați-vă despre orele de plecare spre Untreusee.",
+          "Punctul central de transfer este 'Hof Unteres Tor'."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus network.",
+          "Buses run at regular intervals.",
+          "Check the departure times for Untreusee beforehand.",
+          "The central transfer point is 'Hof Unteres Tor'."
+        ]
+      }
+    }
+  }
+}

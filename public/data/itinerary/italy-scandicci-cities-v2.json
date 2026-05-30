@@ -1,0 +1,1113 @@
+{
+  "city_id": "italy-scandicci-cities-v2",
+  "anchor": {
+    "name": "Scandicci",
+    "coords": [
+      11.1833,
+      43.75
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria a Greve",
+            "hu": "Santa Maria a Greve templom",
+            "ro": "Biserica Santa Maria a Greve",
+            "en": "Church of Santa Maria a Greve"
+          },
+          "coords": [
+            11.1882,
+            43.7535
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schlichtheit der toskanischen Architektur.",
+            "hu": "Csodáld meg a toszkán építészet letisztult formáit.",
+            "ro": "Admirați simplitatea arhitecturii toscane.",
+            "en": "Admire the clean lines of Tuscan architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza della Resistenza & Palazzo Comunale",
+            "hu": "Piazza della Resistenza és Városháza",
+            "ro": "Piazza della Resistenza și Primăria",
+            "en": "Piazza della Resistenza & Town Hall"
+          },
+          "coords": [
+            11.1845,
+            43.7525
+          ],
+          "category": "square",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der moderne Herzschlag von Scandicci, entworfen von Rogers.",
+            "hu": "Scandicci modern központja, a Rogers-tervezte tér.",
+            "ro": "Inima modernă a orașului Scandicci, proiectată de Rogers.",
+            "en": "The modern heart of Scandicci, designed by Richard Rogers."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello dell'Acciaiolo",
+            "hu": "Acciaiolo kastély",
+            "ro": "Castelul dell'Acciaiolo",
+            "en": "Castello dell'Acciaiolo"
+          },
+          "coords": [
+            11.1925,
+            43.7558
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein prächtiges Schloss mit einem wunderschönen Park.",
+            "hu": "Pompás kastély gyönyörű parkkal a város szívében.",
+            "ro": "Un castel magnific cu un parc superb în inima orașului.",
+            "en": "A magnificent castle with a beautiful park in the city heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokaler Markt / Einkaufen",
+            "hu": "Helyi piac és vásárlás",
+            "ro": "Piața locală și cumpărături",
+            "en": "Local Market / Shopping"
+          },
+          "coords": [
+            11.1865,
+            43.7542
+          ],
+          "category": "shopping",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Suchen Sie nach handwerklich hergestelltem Leder aus der Region.",
+            "hu": "Keress helyi kézműves bőrárukat a környéken.",
+            "ro": "Căutați articole din piele lucrate manual în regiune.",
+            "en": "Look for locally handcrafted leather goods."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Scandicci",
+            "hu": "Ebéd Scandicciben",
+            "ro": "Prânz în Scandicci",
+            "en": "Lunch in Scandicci"
+          },
+          "coords": [
+            11.1855,
+            43.7538
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Ribollita oder Pappa al Pomodoro.",
+            "hu": "Kóstold meg a Ribollitát vagy a Pappa al Pomodorót.",
+            "ro": "Încercați Ribollita sau Pappa al Pomodoro.",
+            "en": "Try authentic Ribollita or Pappa al Pomodoro."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pasquali da Cepparello",
+            "hu": "Villa Pasquali da Cepparello",
+            "ro": "Villa Pasquali da Cepparello",
+            "en": "Villa Pasquali da Cepparello"
+          },
+          "coords": [
+            11.1895,
+            43.7512
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein elegantes Beispiel für eine toskanische Adelsresidenz.",
+            "hu": "A toszkán nemesi rezidenciák elegáns példája.",
+            "ro": "Un exemplu elegant de reședință nobiliară toscană.",
+            "en": "An elegant example of a Tuscan noble residence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Vormittag beginnt mit der Besichtigung der religiösen und bürgerlichen Zentren von Scandicci, wo moderne Architektur auf Tradition trifft. Mittags tauchen Sie in die Geschichte des Castello dell'Acciaiolo ein, gefolgt von einem gemütlichen Einkaufsbummel. Den Nachmittag verbringen Sie mit dem Genuss der lokalen Gastronomie und dem Bewundern der prächtigen historischen Villen, die den Reichtum dieser toskanischen Stadt widerspiegeln.",
+        "hu": "A délelőtt Scandicci vallási és polgári központjának felfedezésével indul, ahol a modern építészet találkozik a hagyományokkal. Délben elmerülhet az Acciaiolo kastély történelmében, majd egy kellemes vásárlás következik a helyi üzletekben. A délutánt a helyi gasztronómia élvezetével és a pompás történelmi villák megcsodálásával töltjük, melyek hűen tükrözik e toszkán város gazdagságát.",
+        "ro": "Dimineața începe cu explorarea centrelor religioase și civice din Scandicci, unde arhitectura modernă întâlnește tradiția. La prânz, vă veți cufunda în istoria Castelului dell'Acciaiolo, urmată de o sesiune plăcută de cumpărături. După-amiaza este dedicată savurării gastronomiei locale și admirării vilelor istorice magnifice care reflectă bogăția acestui oraș toscan.",
+        "en": "Your morning begins with exploring the religious and civic centers of Scandicci, where modern architecture meets tradition. Midday, immerse yourself in the history of Castello dell'Acciaiolo, followed by a pleasant shopping stroll. The afternoon is spent enjoying local gastronomy and admiring the magnificent historical villas that reflect the wealth of this Tuscan town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ribollita",
+            "tip": "Traditionelle toskanische Brot- und Gemüsesuppe."
+          },
+          {
+            "name": "Trattoria Da Beppino",
+            "tip": "Authentische lokale Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribollita",
+            "tip": "Hagyományos toszkán kenyér- és zöldségleves."
+          },
+          {
+            "name": "Trattoria Da Beppino",
+            "tip": "Eredeti helyi konyha barátságos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ribollita",
+            "tip": "Supă tradițională toscană de legume și pâine."
+          },
+          {
+            "name": "Trattoria Da Beppino",
+            "tip": "Bucătărie locală autentică într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribollita",
+            "tip": "Traditional Tuscan bread and vegetable soup."
+          },
+          {
+            "name": "Trattoria Da Beppino",
+            "tip": "Authentic local cuisine in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco dell'Acciaiolo",
+            "tip": "Ein ruhiger Park ideal für eine Pause im Grünen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Acciaiolo Park",
+            "tip": "Csendes park, ideális egy zöld pihenőhöz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Acciaiolo",
+            "tip": "Un parc liniștit, ideal pentru o pauză în aer liber.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Acciaiolo Park",
+            "tip": "A quiet park ideal for a green break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Lokale Produkte und authentisches italienisches Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "ok": "Helyi termékek és igazi olasz hangulat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale și atmosferă italiană autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Local products and authentic Italian flair."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Tram T1 für eine schnelle Verbindung nach Florenz.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind flach und leicht zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Használd a T1-es villamost a gyors firenzei kapcsolathoz.",
+          "A központi látnivalók sík területen fekszenek, könnyen bejárhatók gyalog."
+        ],
+        "ro": [
+          "Folosiți tramvaiul T1 pentru o legătură rapidă cu Florența.",
+          "Majoritatea obiectivelor din centru sunt pe teren plat și ușor de parcurs pe jos."
+        ],
+        "en": [
+          "Use the T1 tram for a quick connection to Florence.",
+          "Most central sights are on flat ground and easily accessible on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello dell'Acciaiolo",
+            "hu": "Acciaiolo kastély",
+            "ro": "Castelul dell'Acciaiolo",
+            "en": "Castello dell'Acciaiolo"
+          },
+          "coords": [
+            11.1925,
+            43.7558
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt im Grünen.",
+            "hu": "Zöldövezeti indítás.",
+            "ro": "Punct de plecare în verdeață.",
+            "en": "Green starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia a Settimo",
+            "hu": "Badia a Settimo apátság",
+            "ro": "Abatia din Settimo",
+            "en": "Badia a Settimo"
+          },
+          "coords": [
+            11.1442,
+            43.7745
+          ],
+          "category": "churches",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein geschichtsträchtiges Kloster.",
+            "hu": "Történelmi jelentőségű apátság.",
+            "ro": "O abație plină de istorie.",
+            "en": "An abbey steeped in history."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di San Giuliano a Settimo",
+            "hu": "San Giuliano a Settimo plébánia",
+            "ro": "Pieve di San Giuliano a Settimo",
+            "en": "Pieve di San Giuliano a Settimo"
+          },
+          "coords": [
+            11.1455,
+            43.7762
+          ],
+          "category": "churches",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein romanisches Juwel.",
+            "hu": "Egy román stílusú ékszerdoboz.",
+            "ro": "O bijuterie romanică.",
+            "en": "A Romanesque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Castelpulci",
+            "hu": "Castelpulci villa",
+            "ro": "Vila Castelpulci",
+            "en": "Villa di Castelpulci"
+          },
+          "coords": [
+            11.1445,
+            43.7555
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Ebene.",
+            "hu": "Panoráma a síkságra.",
+            "ro": "Vedere panoramică asupra câmpiei.",
+            "en": "Panoramic view of the plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause (Picknick)",
+            "hu": "Ebédszünet (Piknik)",
+            "ro": "Pauză de prânz (Picnic)",
+            "en": "Lunch Break (Picnic)"
+          },
+          "coords": [
+            11.155,
+            43.735
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Produkte im Freien.",
+            "hu": "Élvezd a helyi falatokat a szabadban.",
+            "ro": "Savurați produse locale în aer liber.",
+            "en": "Enjoy local products outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco di Poggio Valicaia",
+            "hu": "Poggio Valicaia park",
+            "ro": "Parcul Poggio Valicaia",
+            "en": "Parco di Poggio Valicaia"
+          },
+          "coords": [
+            11.1735,
+            43.7155
+          ],
+          "category": "parks",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kunst und Natur im Wald.",
+            "hu": "Művészet és természet az erdőben.",
+            "ro": "Artă și natură în pădure.",
+            "en": "Art and nature in the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie aus dem Stadtzentrum hinaus in die abwechslungsreiche Umgebung von Scandicci. Sie erkunden die beeindruckende Badia a Settimo und erklimmen anschließend die Hügel, um die Villa di Castelpulci zu sehen. Der Tag endet im wunderschönen Parco di Poggio Valicaia, einem Skulpturenpark inmitten der Natur, der einen perfekten Abschluss für aktive Entdecker bietet.",
+        "hu": "Ez a kerékpáros túra kivezeti Önt a városközpontból Scandicci változatos környékére. Fedezze fel a lenyűgöző Badia a Settimo apátságot, majd tekerjen fel a dombokra a Castelpulci villához. A nap a csodálatos Poggio Valicaia parkban ér véget, amely egy szoborpark a természet lágy ölén, tökéletes befejezést nyújtva az aktív felfedezőknek.",
+        "ro": "Acest tur cu bicicleta vă scoate din centrul orașului în împrejurimile variate ale Scandicci-ului. Veți explora impresionanta Badia a Settimo, apoi veți urca dealurile pentru a vedea Villa di Castelpulci. Ziua se încheie în frumosul Parc Poggio Valicaia, un parc de sculpturi în mijlocul naturii, oferind un final perfect pentru exploratorii activi.",
+        "en": "This bike tour takes you out of the city center into the diverse surroundings of Scandicci. Explore the impressive Badia a Settimo, then cycle up the hills to see Villa di Castelpulci. The day ends in the beautiful Poggio Valicaia Park, a sculpture park in the middle of nature, providing a perfect conclusion for active explorers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vino Chianti Colli Fiorentini",
+            "tip": "Probieren Sie den Wein aus den umliegenden Hügeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chianti Colli Fiorentini bor",
+            "tip": "Kóstold meg a környező dombok borait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Chianti Colli Fiorentini",
+            "tip": "Gustați vinul de pe dealurile înconjurătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chianti Colli Fiorentini Wine",
+            "tip": "Taste the wine from the surrounding hills."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco di Poggio Valicaia",
+            "tip": "Skulpturenpark mit Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poggio Valicaia park",
+            "tip": "Szoborpark panorámával.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Poggio Valicaia",
+            "tip": "Parc de sculpturi cu vedere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Poggio Valicaia Park",
+            "tip": "Sculpture park with a view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernhöfe in den Hügeln",
+            "tip": "Kaufen Sie Olivenöl direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dombi gazdaságok",
+            "tip": "Vegyél olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ferme de pe dealuri",
+            "tip": "Cumpărați ulei de măsline direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hillside Farms",
+            "tip": "Buy olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte in Richtung Poggio Valicaia sind steil; ein E-Bike ist empfehlenswert.",
+          "Tragen Sie ausreichend Wasser bei sich."
+        ],
+        "hu": [
+          "Néhány szakasz Poggio Valicaia felé meredek; az elektromos kerékpár ajánlott.",
+          "Legyen nálad elegendő víz."
+        ],
+        "ro": [
+          "Unele secțiuni spre Poggio Valicaia sunt abrupte; se recomandă o bicicletă electrică.",
+          "Luați suficientă apă la voi."
+        ],
+        "en": [
+          "Some sections towards Poggio Valicaia are steep; an e-bike is recommended.",
+          "Carry enough water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello dell'Acciaiolo (Cluster A)",
+            "hu": "Acciaiolo kastély (A klaszter)",
+            "ro": "Castelul dell'Acciaiolo (Cluster A)",
+            "en": "Castello dell'Acciaiolo (Cluster A)"
+          },
+          "coords": [
+            11.1925,
+            43.7558
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Schloss.",
+            "hu": "Parkolj a kastélynál.",
+            "ro": "Parcați la castel.",
+            "en": "Park at the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            11.1845,
+            43.7525
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang durch das Zentrum.",
+            "hu": "Séta a központban.",
+            "ro": "Plimbare prin centru.",
+            "en": "Walk through the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia a Settimo (Cluster B)",
+            "hu": "Badia a Settimo (B klaszter)",
+            "ro": "Abatia din Settimo (Cluster B)",
+            "en": "Badia a Settimo (Cluster B)"
+          },
+          "coords": [
+            11.1442,
+            43.7745
+          ],
+          "category": "churches",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Klosterbezirk.",
+            "hu": "Hajtás a kolostori negyedbe.",
+            "ro": "Conduceți spre zona abației.",
+            "en": "Drive to the abbey area."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di San Giuliano a Settimo",
+            "hu": "San Giuliano a Settimo plébánia",
+            "ro": "Pieve di San Giuliano a Settimo",
+            "en": "Pieve di San Giuliano a Settimo"
+          },
+          "coords": [
+            11.1455,
+            43.7762
+          ],
+          "category": "churches",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Badia.",
+            "hu": "Rövid séta az apátságtól.",
+            "ro": "Scurtă plimbare de la abație.",
+            "en": "Short walk from the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Settimo",
+            "hu": "Ebéd Settimóban",
+            "ro": "Prânz în Settimo",
+            "en": "Lunch in Settimo"
+          },
+          "coords": [
+            11.146,
+            43.775
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lokale Trattoria.",
+            "hu": "Helyi trattoria.",
+            "ro": "Trattoria locală.",
+            "en": "Local trattoria."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Castelpulci (Cluster C)",
+            "hu": "Castelpulci villa (C klaszter)",
+            "ro": "Vila Castelpulci (Cluster C)",
+            "en": "Villa di Castelpulci (Cluster C)"
+          },
+          "coords": [
+            11.1445,
+            43.7555
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schöne Fahrt bergauf.",
+            "hu": "Szép autózás felfelé.",
+            "ro": "O călătorie frumoasă în sus.",
+            "en": "Beautiful drive uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco di Poggio Valicaia",
+            "hu": "Poggio Valicaia park",
+            "ro": "Parcul Poggio Valicaia",
+            "en": "Parco di Poggio Valicaia"
+          },
+          "coords": [
+            11.1735,
+            43.7155
+          ],
+          "category": "parks",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Wald- und Skulpturenerlebnis.",
+            "hu": "Erdei és szoborélmény.",
+            "ro": "Experiență în pădure și sculpturi.",
+            "en": "Forest and sculpture experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama-Abschluss",
+            "hu": "Panorámás befejezés",
+            "ro": "Final panoramic",
+            "en": "Panoramic Finale"
+          },
+          "coords": [
+            11.18,
+            43.72
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf Florenz.",
+            "hu": "Kilátás Firenzére.",
+            "ro": "Vedere spre Florența.",
+            "en": "View of Florence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Scandicci in drei thematischen Clustern: das historische Zentrum, den bedeutenden religiösen Komplex von Settimo und die malerischen Hügel. Sie beginnen im Herzen der Stadt, besuchen dann die monumentale Badia a Settimo und beenden den Tag in den kühleren Hügeln mit Kunst im Freien und einem atemberaubenden Blick über das Arnotal.",
+        "hu": "Autóval három tematikus klaszterben fedezheti fel Scandiccit: a történelmi központot, Settimo jelentős vallási komplexumát és a festői dombokat. A város szívében kezdünk, majd a monumentális Badia a Settimo apátságot keressük fel, végül a hűvösebb dombokon zárjuk a napot szabadtéri művészettel és az Arno-völgyre nyíló lélegzetelállító kilátással.",
+        "ro": "Cu mașina, veți explora Scandicci în trei clustere tematice: centrul istoric, complexul religios important din Settimo și dealurile pitorești. Începeți în inima orașului, vizitați apoi monumentala Abatia din Settimo și încheiați ziua pe dealurile mai răcoroase, cu artă în aer liber și o vedere uluitoare peste valea Arno.",
+        "en": "By car, explore Scandicci in three thematic clusters: the historical center, the significant religious complex of Settimo, and the picturesque hills. Start in the heart of the city, visit the monumental Badia a Settimo, and end the day in the cooler hills with outdoor art and a breathtaking view over the Arno Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "In den Hügelrestaurants ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "A dombi éttermekben kötelező."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "Obligatoriu în restaurantele de pe dealuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistecca alla Fiorentina",
+            "tip": "A must-try in the hillside restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abendessen in den Hügeln",
+            "tip": "Frische Luft und Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vacsora a dombokon",
+            "tip": "Friss levegő és nyugalom.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cină pe dealuri",
+            "tip": "Aer proaspăt și liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dinner in the Hills",
+            "tip": "Fresh air and tranquility.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Outlet-Zentren",
+            "tip": "In der Nähe gibt es große Designer-Outlets."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Outlet központok",
+            "tip": "A közelben nagy dizájner outletek találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Outlet",
+            "tip": "În apropiere se află mari outlet-uri de designeri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Outlet Centers",
+            "tip": "Major designer outlets are located nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist während der Marktzeiten schwierig.",
+          "Die Hügelstraßen sind schmal, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A központban piacidőben nehéz parkolni.",
+          "A dombi utak szűkek, vezessen óvatosan."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă în timpul pieței.",
+          "Drumurile de deal sunt înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "Parking in the center is difficult during market hours.",
+          "Hill roads are narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Resistenza (Tram T1)",
+            "hu": "Piazza Resistenza (T1 villamos)",
+            "ro": "Piazza Resistenza (Tramvaiul T1)",
+            "en": "Piazza Resistenza (Tram T1)"
+          },
+          "coords": [
+            11.1845,
+            43.7525
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Tor nach Scandicci.",
+            "hu": "Scandicci kapuja.",
+            "ro": "Poarta către Scandicci.",
+            "en": "The gateway to Scandicci."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria a Greve",
+            "hu": "Santa Maria a Greve templom",
+            "ro": "Biserica Santa Maria a Greve",
+            "en": "Church of Santa Maria a Greve"
+          },
+          "coords": [
+            11.1882,
+            43.7535
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Tramstopp.",
+            "hu": "Rövid séta a villamosmegállótól.",
+            "ro": "O scurtă plimbare de la stația de tramvai.",
+            "en": "A short walk from the tram stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello dell'Acciaiolo",
+            "hu": "Acciaiolo kastély",
+            "ro": "Castelul dell'Acciaiolo",
+            "en": "Castello dell'Acciaiolo"
+          },
+          "coords": [
+            11.1925,
+            43.7558
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Innerhalb des Stadtclusters zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető a városi klaszteren belül.",
+            "ro": "Accesibil pe jos în cadrul clusterului orașului.",
+            "en": "Walkable within the city cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Transit nach Settimo (Bus)",
+            "hu": "Tranzit Settimóba (Busz)",
+            "ro": "Tranzit spre Settimo (Autobuz)",
+            "en": "Transit to Settimo (Bus)"
+          },
+          "coords": [
+            11.16,
+            43.765
+          ],
+          "category": "square",
+          "arrive_at": "12:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus.",
+            "hu": "Használd a helyi buszjáratot.",
+            "ro": "Folosiți autobuzul local.",
+            "en": "Take the local bus line."
+          }
+        },
+        {
+          "name": {
+            "de": "Badia a Settimo",
+            "hu": "Badia a Settimo apátság",
+            "ro": "Abatia din Settimo",
+            "en": "Badia a Settimo"
+          },
+          "coords": [
+            11.1442,
+            43.7745
+          ],
+          "category": "churches",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kulturelles Highlight.",
+            "hu": "Kulturális fénypont.",
+            "ro": "Un punct de atracție cultural.",
+            "en": "A cultural highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Settimo",
+            "hu": "Ebéd Settimóban",
+            "ro": "Prânz în Settimo",
+            "en": "Lunch in Settimo"
+          },
+          "coords": [
+            11.146,
+            43.775
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Echte toskanische Küche.",
+            "hu": "Igazi toszkán konyha.",
+            "ro": "Bucătărie toscană veritabilă.",
+            "en": "True Tuscan kitchen."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Castelpulci (via Bus)",
+            "hu": "Castelpulci villa (busszal)",
+            "ro": "Vila Castelpulci (cu autobuzul)",
+            "en": "Villa di Castelpulci (via Bus)"
+          },
+          "coords": [
+            11.1445,
+            43.7555
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Überprüfung der Fahrpläne wichtig.",
+            "hu": "A menetrend ellenőrzése fontos.",
+            "ro": "Verificarea orarului este importantă.",
+            "en": "Checking schedules is important."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem exzellenten Tram- und Bussystem von Scandicci verbinden Sie mühelos das moderne Zentrum mit den historischen Schätzen in den Außenbezirken. Sie beginnen mit dem Richard-Rogers-Platz, besichtigen das zentrale Schloss und fahren dann mit dem Bus zur beeindruckenden Badia a Settimo. Dieser Plan zeigt Ihnen die Vielfalt Scandiccis ohne die Notwendigkeit eines Autos.",
+        "hu": "Scandicci kiváló villamos- és buszhálózatával könnyedén összekötheti a modern központot a külvárosi történelmi kincsekkel. A Richard Rogers által tervezett téren kezdünk, megtekintjük a központi kastélyt, majd busszal utazunk a lenyűgöző Badia a Settimo apátsághoz. Ez a terv megmutatja Scandicci sokszínűségét autó nélkül is.",
+        "ro": "Cu sistemul excelent de tramvai și autobuz din Scandicci, conectați fără efort centrul modern cu comorile istorice din suburbii. Începeți cu piața proiectată de Richard Rogers, vizitați castelul central și apoi mergeți cu autobuzul la impresionanta Abatia din Settimo. Acest plan vă arată diversitatea orașului Scandicci fără a fi nevoie de mașină.",
+        "en": "With Scandicci's excellent tram and bus system, effortlessly connect the modern center with historical treasures in the outskirts. Start at the Richard Rogers-designed square, visit the central castle, and then travel by bus to the impressive Badia a Settimo. This plan shows the diversity of Scandicci without needing a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aperitivo in Piazza",
+            "tip": "Genießen Sie einen Drink im modernen Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aperitivo a téren",
+            "tip": "Élvezz egy italt a modern központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aperitivo în piață",
+            "tip": "Savurați o băutură în centrul modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aperitivo in the Square",
+            "tip": "Enjoy a drink in the modern center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Badia Kreuzgang",
+            "tip": "Ein Ort tiefer Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Badia keringő",
+            "tip": "A mély csend helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Abației",
+            "tip": "Un loc de liniște profundă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Badia Cloister",
+            "tip": "A place of deep silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Scandicci",
+            "tip": "Moderne Boutiquen und Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Scandicci",
+            "tip": "Modern butikok és üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Scandicci",
+            "tip": "Boutique-uri și magazine moderne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Scandicci",
+            "tip": "Modern boutiques and shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tram-Tickets im Voraus an Automaten.",
+          "Die Buslinien 26 und 27 verbinden das Zentrum mit Settimo."
+        ],
+        "hu": [
+          "Vegyél villamosjegyet előre az automatákból.",
+          "A 26-os és 27-es buszjáratok kötik össze a központot Settimóval."
+        ],
+        "ro": [
+          "Cumpărați bilete de tramvai în avans de la automate.",
+          "Liniile de autobuz 26 și 27 conectează centrul cu Settimo."
+        ],
+        "en": [
+          "Buy tram tickets in advance from machines.",
+          "Bus lines 26 and 27 connect the center with Settimo."
+        ]
+      }
+    }
+  }
+}

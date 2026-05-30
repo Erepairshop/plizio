@@ -1,0 +1,986 @@
+{
+  "city_id": "city-homburg-sl-extra",
+  "anchor": {
+    "name": "Christian-Weber-Platz",
+    "coords": [
+      7.3381,
+      49.3188
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Christian-Weber-Platz",
+          "coords": [
+            7.3391,
+            49.3212
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Platz mit Cafés, idealer Startpunkt für den Tag.",
+            "hu": "Központi tér kávézókkal, ideális kiindulópont a naphoz.",
+            "ro": "Piața centrală cu cafenele, punct de plecare ideal.",
+            "en": "Central square with cafes, ideal starting point for the day."
+          }
+        },
+        {
+          "name": "Stadtpfarrkirche St. Michael",
+          "coords": [
+            7.3412,
+            49.3225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beeindruckende Architektur im Herzen der Altstadt.",
+            "hu": "Lenyűgöző építészet az óváros szívében.",
+            "ro": "Arhitectură impresionantă în inima orașului vechi.",
+            "en": "Impressive architecture in the heart of the old town."
+          }
+        },
+        {
+          "name": "Schlossberghöhlen",
+          "coords": [
+            7.3435,
+            49.3238
+          ],
+          "category": "natural features",
+          "arrive_at": "10:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Größte Buntsandsteinhöhlen Europas, Jacke nicht vergessen!",
+            "hu": "Európa legnagyobb homokkő barlangjai, vigyél pulóvert!",
+            "ro": "Cele mai mari peșteri de gresie din Europa, nu uita jacheta!",
+            "en": "Europe's largest sandstone caves, don't forget a jacket!"
+          }
+        },
+        {
+          "name": "Ruine Hohenburg",
+          "coords": [
+            7.3432,
+            49.3251
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Panoramablick über Homburg und das Umland.",
+            "hu": "A legjobb panoráma Homburgra és a környékre.",
+            "ro": "Cea mai bună vedere panoramică asupra Homburgului.",
+            "en": "Best panoramic view over Homburg and the surrounding area."
+          }
+        },
+        {
+          "name": "Homburger Brauhaus (Gastro)",
+          "coords": [
+            7.3395,
+            49.3215
+          ],
+          "category": "gastro",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale Bier und saarländische Spezialitäten.",
+            "hu": "Kóstolja meg a helyi sört és a saar-vidéki ételeket.",
+            "ro": "Încercați berea locală și specialitățile din Saarland.",
+            "en": "Try the local beer and Saarland specialties."
+          }
+        },
+        {
+          "name": "Karlslust",
+          "coords": [
+            7.3482,
+            49.3255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ruhiger Park für einen entspannten Abschluss im Wald.",
+            "hu": "Csendes park egy nyugodt befejezéshez az erdőben.",
+            "ro": "Parc liniștit pentru un final relaxant în pădure.",
+            "en": "Quiet park for a relaxed finish in the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Christian-Weber-Platz. Nach einem kurzen Besuch der St. Michaelskirche steigen Sie hinauf zum Schlossberg. Die Schlossberghöhlen bieten ein mystisches Untergrund-Erlebnis, gefolgt von der historischen Ruine Hohenburg mit Weitblick. Nach einer herzhaften Stärkung im Brauhaus lassen Sie den Nachmittag im erholsamen Karlslust-Waldpark ausklingen.",
+        "hu": "A napot a nyüzsgő Christian-Weber-Platzon kezdi. A Szent Mihály-templom megtekintése után irány a Schlossberg. A Schlossberghöhlen misztikus földalatti élményt nyújt, majd következik a Hohenburg romja pazar kilátással. Egy bőséges sörgyári ebéd után a délutánt a pihentető Karlslust erdei parkban zárhatja.",
+        "ro": "Ziua începe în vibranta Christian-Weber-Platz. După o vizită la biserica Sf. Mihail, urcați pe Schlossberg. Peșterile Schlossberg oferă o experiență mistică subterană, urmată de ruinele istorice Hohenburg cu vedere panoramică. După un prânz copios la berărie, relaxați-vă în parcul forestier Karlslust.",
+        "en": "Start your day at the lively Christian-Weber-Platz. After a visit to St. Michael's Church, head up to Schlossberg. The Schlossberg Caves offer a mystical underground experience, followed by the historic Hohenburg ruins with vast views. After a hearty lunch at the brewery, end your afternoon in the peaceful Karlslust forest park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Homburger Brauhaus",
+            "tip": "Lokale Braukunst und Dibbelabbes (Kartoffelgericht)."
+          },
+          {
+            "name": "Altstadt-Café",
+            "tip": "Perfekt für ein schnelles Frühstück oder Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Homburger Brauhaus",
+            "tip": "Helyi sörfőzés és Dibbelabbes (burgonyás étel)."
+          },
+          {
+            "name": "Altstadt-Café",
+            "tip": "Tökéletes gyors reggelihez vagy kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Homburger Brauhaus",
+            "tip": "Bere locală și Dibbelabbes (mâncare de cartofi)."
+          },
+          {
+            "name": "Altstadt-Café",
+            "tip": "Perfect pentru un mic dejun rapid sau cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homburger Brauhaus",
+            "tip": "Local brewing and Dibbelabbes (potato dish)."
+          },
+          {
+            "name": "Altstadt-Café",
+            "tip": "Perfect for a quick breakfast or coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ruine Hohenburg",
+            "tip": "Panorama-Ruheplatz über der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karlslust",
+            "tip": "Tiefer Waldpfad für stille Momente.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hohenburg romok",
+            "tip": "Panorámás pihenőhely a város felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karlslust",
+            "tip": "Mély erdei ösvények a csendért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruina Hohenburg",
+            "tip": "Loc de liniște panoramic deasupra orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karlslust",
+            "tip": "Cărare în pădure pentru momente de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hohenburg Ruins",
+            "tip": "Panoramic quiet spot above the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Karlslust",
+            "tip": "Deep forest path for quiet moments.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saarpfalz-Center",
+            "tip": "Großes Einkaufszentrum in der Innenstadt."
+          },
+          {
+            "name": "Talstraße",
+            "tip": "Haupteinkaufsmeile mit Fachgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saarpfalz-Center",
+            "tip": "Nagy bevásárlóközpont a belvárosban."
+          },
+          {
+            "name": "Talstraße",
+            "tip": "Fő bevásárlóutca szaküzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saarpfalz-Center",
+            "tip": "Centru comercial mare în centrul orașului."
+          },
+          {
+            "name": "Talstraße",
+            "tip": "Principala stradă comercială cu magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saarpfalz-Center",
+            "tip": "Large shopping mall in the city center."
+          },
+          {
+            "name": "Talstraße",
+            "tip": "Main shopping street with specialist shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Homburg ist hügelig, tragen Sie bequeme Wanderschuhe für den Schlossberg.",
+          "Die Höhlen haben konstante 8-10 Grad, eine Jacke ist Pflicht.",
+          "Am Marktplatz gibt es oft frische regionale Produkte.",
+          "Der Aufstieg zur Ruine lohnt sich besonders kurz vor Sonnenuntergang."
+        ],
+        "hu": [
+          "Homburg dombos, viseljen kényelmes cipőt a Schlossberg megmászásához.",
+          "A barlangokban állandó 8-10 fok van, a kabát kötelező.",
+          "A piactéren gyakran találni friss helyi termékeket.",
+          "A várromhoz érdemes naplemente előtt felmenni."
+        ],
+        "ro": [
+          "Homburg este deluros, purtați pantofi comozi pentru Schlossberg.",
+          "Peșterile au 8-10 grade constante, o jachetă este obligatorie.",
+          "În piață se găsesc adesea produse regionale proaspete.",
+          "Urcarea la ruină merită mai ales înainte de apus."
+        ],
+        "en": [
+          "Homburg is hilly, wear comfortable walking shoes for the Schlossberg.",
+          "The caves are a constant 8-10 degrees, a jacket is mandatory.",
+          "The market square often features fresh regional products.",
+          "The climb to the ruins is especially worth it just before sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Christian-Weber-Platz",
+          "coords": [
+            7.3391,
+            49.3212
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": "Karlslust",
+          "coords": [
+            7.3482,
+            49.3255
+          ],
+          "category": "parks/promenades/beach",
+          "arrive_at": "09:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schöne Waldwege für Radfahrer.",
+            "hu": "Szép erdei utak kerékpárosoknak.",
+            "ro": "Drumuri frumoase de pădure pentru bicicliști.",
+            "en": "Nice forest paths for cyclists."
+          }
+        },
+        {
+          "name": "Schlossberghöhlen",
+          "coords": [
+            7.3435,
+            49.3238
+          ],
+          "category": "natural features",
+          "arrive_at": "10:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abstellen der Räder am Höhleneingang möglich.",
+            "hu": "Kerékpártárolás a barlang bejáratánál lehetséges.",
+            "ro": "Parcare biciclete la intrarea în peșteră.",
+            "en": "Bike parking possible at the cave entrance."
+          }
+        },
+        {
+          "name": "Ruine Hohenburg",
+          "coords": [
+            7.3432,
+            49.3251
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer, steiler Anstieg zur Aussicht.",
+            "hu": "Rövid, meredek emelkedő a kilátáshoz.",
+            "ro": "Urcare scurtă și abruptă spre belvedere.",
+            "en": "Short, steep climb to the viewpoint."
+          }
+        },
+        {
+          "name": "Römermuseum Schwarzenacker",
+          "coords": [
+            7.3142,
+            49.2885
+          ],
+          "category": "museums",
+          "arrive_at": "13:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannte Fahrt nach Süden zum Freilichtmuseum.",
+            "hu": "Kellemes tekerés délre a szabadtéri múzeumhoz.",
+            "ro": "Drum relaxant spre sud către muzeul în aer liber.",
+            "en": "Relaxed ride south to the open-air museum."
+          }
+        },
+        {
+          "name": "Edelhaus",
+          "coords": [
+            7.3151,
+            49.2892
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Barockes Herrenhaus direkt am Museum.",
+            "hu": "Barokk kúria közvetlenül a múzeumnál.",
+            "ro": "Conac baroc direct lângă muzeu.",
+            "en": "Baroque manor right next to the museum."
+          }
+        },
+        {
+          "name": "Waldstadion Homburg",
+          "coords": [
+            7.3315,
+            49.3145
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:35",
+          "stay_min": 10,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kultstadion auf dem Rückweg ins Zentrum.",
+            "hu": "Kultikus stadion visszaúton a központ felé.",
+            "ro": "Stadion emblematic pe drumul de întoarcere.",
+            "en": "Iconic stadium on the way back to center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie Homburg großzügiger. Nach dem Schlossberg-Highlight radeln Sie durch das Grüne in den Süden nach Schwarzenacker. Das Römermuseum ist ein kulturelles Muss. Die Route bietet eine Mischung aus steilen Anstiegen und flachen Passagen entlang der Blies-Aue.",
+        "hu": "Kerékpárral tágabb körben fedezheti fel Homburgot. A Schlossberg után a zöldön át délre, Schwarzenackerbe tekerhet. A Római Múzeum kulturális kötelező program. Az útvonal meredek emelkedők és sík szakaszok keveréke a Blies-völgyben.",
+        "ro": "Cu bicicleta explorați Homburgul mai generos. După Schlossberg, pedalați prin natură spre sud către Schwarzenacker. Muzeul Roman este un must-see cultural. Traseul oferă un mix de urcări abrupte și porțiuni plane de-a lungul văii Blies.",
+        "en": "Explore Homburg more broadly by bike. After the Schlossberg highlights, cycle through the greenery south to Schwarzenacker. The Roman Museum is a cultural must. The route offers a mix of steep climbs and flat stretches along the Blies meadows."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Edelhaus",
+            "tip": "Essen in historischem Ambiente in Schwarzenacker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Edelhaus",
+            "tip": "Étkezés történelmi környezetben Schwarzenackerben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Edelhaus",
+            "tip": "Masă în ambient istoric în Schwarzenacker."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Edelhaus",
+            "tip": "Dining in a historic ambiance in Schwarzenacker."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blies-Aue",
+            "tip": "Ruhiges Radeln am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blies-völgy",
+            "tip": "Csendes kerékpározás a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Blies",
+            "tip": "Pedalat liniștit pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Blies Meadows",
+            "tip": "Quiet cycling along the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radhaus Homburg",
+            "tip": "Lokaler Fahrradladen für Notfälle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radhaus Homburg",
+            "tip": "Helyi kerékpárbolt vészhelyzetekre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radhaus Homburg",
+            "tip": "Magazin local de biciclete pentru urgențe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radhaus Homburg",
+            "tip": "Local bike shop for emergencies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Radweg nach Schwarzenacker ist gut ausgebaut und flach.",
+          "Vorsicht bei der Abfahrt vom Schlossberg (steil!)."
+        ],
+        "hu": [
+          "A Schwarzenackerbe vezető kerékpárút jól kiépített és sík.",
+          "Vigyázat a Schlossbergről való leereszkedéskor (meredek!)."
+        ],
+        "ro": [
+          "Pista de biciclete către Schwarzenacker este bine amenajată și plană.",
+          "Atenție la coborârea de pe Schlossberg (abruptă!)."
+        ],
+        "en": [
+          "The bike path to Schwarzenacker is well-developed and flat.",
+          "Be careful descending from Schlossberg (steep!)."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Christian-Weber-Platz",
+          "coords": [
+            7.3391,
+            49.3212
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus in der Nähe nutzen.",
+            "hu": "Használja a közeli parkolóházat.",
+            "ro": "Folosiți parcarea etajată din apropiere.",
+            "en": "Use a nearby parking garage."
+          }
+        },
+        {
+          "name": "Stadtpfarrkirche St. Michael",
+          "coords": [
+            7.3412,
+            49.3225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Platz.",
+            "hu": "Rövid séta a térről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": "Schlossberghöhlen",
+          "coords": [
+            7.3435,
+            49.3238
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an den Höhlen vorhanden.",
+            "hu": "Parkoló közvetlenül a barlangoknál.",
+            "ro": "Parcare disponibilă direct la peșteri.",
+            "en": "Parking available directly at the caves."
+          }
+        },
+        {
+          "name": "Ruine Hohenburg",
+          "coords": [
+            7.3432,
+            49.3251
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß von den Höhlen erreichbar.",
+            "hu": "Gyalogosan elérhető a barlangoktól.",
+            "ro": "Accesibil pe jos de la peșteri.",
+            "en": "Accessible on foot from the caves."
+          }
+        },
+        {
+          "name": "Römermuseum Schwarzenacker",
+          "coords": [
+            7.3142,
+            49.2885
+          ],
+          "category": "museums",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz vor Ort.",
+            "hu": "Nagy látogatói parkoló a helyszínen.",
+            "ro": "Parcare mare pentru vizitatori la fața locului.",
+            "en": "Large visitor parking on site."
+          }
+        },
+        {
+          "name": "Edelhaus",
+          "coords": [
+            7.3151,
+            49.2892
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Im Museumskomplex gelegen.",
+            "hu": "A múzeumi komplexum területén található.",
+            "ro": "Situat în complexul muzeal.",
+            "en": "Located within the museum complex."
+          }
+        },
+        {
+          "name": "Karlslust",
+          "coords": [
+            7.3482,
+            49.3255
+          ],
+          "category": "parks/promenades/beach",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken am Waldrand.",
+            "hu": "Parkolás az erdőszélen.",
+            "ro": "Parcare la marginea pădurii.",
+            "en": "Parking at the forest edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das historische Zentrum mit dem archäologischen Highlight in Schwarzenacker. Dank der kurzen Fahrzeiten bleibt viel Zeit für die Besichtigung der Schlossberghöhlen und das weitläufige Römermuseum. Ein idealer Mix aus Stadtkultur und Geschichte.",
+        "hu": "Autóval könnyen kombinálhatja a történelmi központot a schwarzenackeri régészeti látnivalókkal. A rövid utazási időknek köszönhetően bőven marad idő a barlangok és a tágas Római Múzeum megtekintésére. A városi kultúra és a történelem tökéletes keveréke.",
+        "ro": "Cu mașina combinați centrul istoric cu atracțiile arheologice din Schwarzenacker. Datorită timpilor scurți de condus, rămâne mult timp pentru vizitarea peșterilor și a Muzeului Roman vast. Un mix ideal de cultură urbană și istorie.",
+        "en": "By car, you can combine the historic center with the archaeological highlights in Schwarzenacker. Thanks to short driving times, there's plenty of time for the caves and the extensive Roman Museum. An ideal mix of urban culture and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlossberg-Hotel",
+            "tip": "Gehobene Küche mit toller Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossberg-Hotel",
+            "tip": "Színvonalas konyha remek kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossberg-Hotel",
+            "tip": "Bucătărie rafinată cu o vedere superbă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossberg-Hotel",
+            "tip": "Fine dining with a great view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Römergarten",
+            "tip": "Stille Gartenanlage beim Museum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Római kert",
+            "tip": "Csendes kert a múzeumnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Romană",
+            "tip": "Grădină liniștită lângă muzeu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Roman Garden",
+            "tip": "Quiet garden area by the museum.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parkhaus Enklerplatz",
+            "tip": "Zentral parken und shoppen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enklerplatz parkolóház",
+            "tip": "Központi parkolás és vásárlás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Enklerplatz",
+            "tip": "Parcare centrală și cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enklerplatz Parking",
+            "tip": "Central parking and shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Schlossberg-Parkplatz früh am Morgen.",
+          "Die Verbindung nach Schwarzenacker ist gut beschildert."
+        ],
+        "hu": [
+          "Használja a Schlossberg parkolót korán reggel.",
+          "Schwarzenacker irányába jól ki van táblázva az út."
+        ],
+        "ro": [
+          "Folosiți parcarea Schlossberg dimineața devreme.",
+          "Legătura spre Schwarzenacker este bine semnalizată."
+        ],
+        "en": [
+          "Use the Schlossberg parking lot early in the morning.",
+          "The route to Schwarzenacker is well-signposted."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Christian-Weber-Platz",
+          "coords": [
+            7.3391,
+            49.3212
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central de autobuze.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": "Schlossberghöhlen",
+          "coords": [
+            7.3435,
+            49.3238
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum bergauf.",
+            "hu": "Rövid séta a központtól felfelé.",
+            "ro": "Scurtă plimbare la deal din centru.",
+            "en": "Short walk uphill from the center."
+          }
+        },
+        {
+          "name": "Ruine Hohenburg",
+          "coords": [
+            7.3432,
+            49.3251
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt oberhalb der Höhlen.",
+            "hu": "Közvetlenül a barlangok felett.",
+            "ro": "Direct deasupra peșterilor.",
+            "en": "Directly above the caves."
+          }
+        },
+        {
+          "name": "Römermuseum Schwarzenacker",
+          "coords": [
+            7.3142,
+            49.2885
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Buslinie 501 ab Homburg Hbf/Zentrum.",
+            "hu": "501-es busz a főpályaudvartól/központból.",
+            "ro": "Linia de autobuz 501 din centru.",
+            "en": "Bus line 501 from Homburg center."
+          }
+        },
+        {
+          "name": "Edelhaus",
+          "coords": [
+            7.3151,
+            49.2892
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuch im Eintritt des Museums inkludiert.",
+            "hu": "A belépő tartalmazza a látogatást.",
+            "ro": "Vizită inclusă în biletul muzeului.",
+            "en": "Visit included in the museum admission."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den gut ausgebauten Nahverkehr, um zwischen dem Schlossberg und Schwarzenacker zu pendeln. Die Busse fahren regelmäßig und bringen Sie direkt zum Römermuseum. Den Schlossberg erkunden Sie am besten zu Fuß vom Marktplatz aus.",
+        "hu": "Használja a jól kiépített tömegközlekedést a Schlossberg és Schwarzenacker közötti ingázáshoz. A buszok rendszeresen járnak és közvetlenül a Római Múzeumhoz viszik. A Schlossberget leginkább gyalogosan érdemes felfedezni a piactérről.",
+        "ro": "Utilizați transportul public bine dezvoltat pentru a naveta între Schlossberg și Schwarzenacker. Autobuzele circulă regulat și vă duc direct la Muzeul Roman. Schlossberg se explorează cel mai bine pe jos din piață.",
+        "en": "Use the well-developed public transport to commute between Schlossberg and Schwarzenacker. Buses run regularly and take you directly to the Roman Museum. Schlossberg is best explored on foot from the market square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro im Bahnhof",
+            "tip": "Schneller Snack für Pendler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro az állomáson",
+            "tip": "Gyors snack utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro în gară",
+            "tip": "Snack rapid pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro at the station",
+            "tip": "Quick snack for commuters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase nähe Hbf.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Zöld oázis a főpályaudvar közelében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde lângă gară.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Green oasis near main station.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Geschäfte auf dem Weg zum Hbf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Üzletek a főpályaudvar felé vezető úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Magazine în drum spre gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Shops on the way to the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Saar-VV Ticket gilt für alle Busse in der Stadt.",
+          "Achten Sie auf die Taktung der Linie 501 am Wochenende."
+        ],
+        "hu": [
+          "A Saar-VV jegy minden buszra érvényes a városban.",
+          "Hétvégén figyeljen az 501-es busz menetrendjére."
+        ],
+        "ro": [
+          "Biletul Saar-VV este valabil pentru toate autobuzele din oraș.",
+          "Atenție la frecvența liniei 501 în weekend."
+        ],
+        "en": [
+          "The Saar-VV ticket is valid for all buses in the city.",
+          "Check the frequency of line 501 on weekends."
+        ]
+      }
+    }
+  }
+}

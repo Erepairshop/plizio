@@ -1,0 +1,1188 @@
+{
+  "city_id": "romania-medias-cities-v2",
+  "anchor": {
+    "name": "Mediaș Old Town",
+    "coords": [
+      24.3524,
+      46.1664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Margarethenkirche",
+            "hu": "Szent Margit-templom",
+            "ro": "Biserica Sfânta Margareta",
+            "en": "St. Margaret's Church"
+          },
+          "coords": [
+            24.3521,
+            46.1662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den spätgotischen Flügelaltar aus dem 15. Jahrhundert.",
+            "hu": "Nézze meg a 15. századi gótikus szárnyasoltárt és a belső freskókat.",
+            "ro": "Admirați altarul poliptic din secolul al XV-lea, o capodoperă gotică.",
+            "en": "Check out the 15th-century Late Gothic winged altar and the frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Trompeterturm",
+            "hu": "Trombitás-torony",
+            "ro": "Turnul Trompeților",
+            "en": "Trumpeters' Tower"
+          },
+          "coords": [
+            24.3523,
+            46.1663
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turm ist leicht geneigt – fast wie der Schiefe Turm von Pisa.",
+            "hu": "A torony szemmel láthatóan dől, hasonlóan a pisai ferde toronyhoz.",
+            "ro": "Turnul este înclinat, fiind vizibilă deviația sa de la axa verticală.",
+            "en": "The tower is noticeably leaning, similar to the Tower of Pisa."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuller-Haus",
+            "hu": "Schuller-ház",
+            "ro": "Casa Schuller",
+            "en": "Schuller House"
+          },
+          "coords": [
+            24.3528,
+            46.1665
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Dieses Renaissancegebäude war einst Sitz der sächsischen Verwaltung.",
+            "hu": "Ebben a reneszánsz épületben raboskodott rövid ideig Mátyás király.",
+            "ro": "Clădire reascentistă unde a fost găzduit pentru scurt timp regele Matei Corvin.",
+            "en": "A Renaissance building where King Matthias Corvinus was briefly held."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            24.3542,
+            46.1672
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem ehemaligen Franziskanerkloster.",
+            "hu": "A múzeum egy egykori ferences kolostor épületében kapott helyet.",
+            "ro": "Muzeul este situat în clădirea unei foste mănăstiri franciscane.",
+            "en": "The museum is housed in a former Franciscan monastery building."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer und Türme",
+            "hu": "Városfalak és tornyok",
+            "ro": "Zidurile și turnurile cetății",
+            "en": "City Walls and Towers"
+          },
+          "coords": [
+            24.3505,
+            46.1652
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der gut erhaltenen mittelalterlichen Befestigung.",
+            "hu": "Sétáljon a várfal mentén a Steingässer- és a Szabó-torony között.",
+            "ro": "Plimbați-vă de-a lungul zidurilor între Turnul Pietrarilor și cel al Croitorilor.",
+            "en": "Walk along the fortification between the Stonemasons' and Tailors' towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Forkesch-Turm",
+            "hu": "Forkesch-torony",
+            "ro": "Turnul Forkesch",
+            "en": "Forkesch Tower"
+          },
+          "coords": [
+            24.3512,
+            46.1642
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einer der drei Haupttürme, die den südlichen Zugang zur Stadt schützten.",
+            "hu": "A város déli kapuját védő három monumentális bástya egyike.",
+            "ro": "Unul dintre turnurile masive care păzeau intrarea sudică în cetate.",
+            "en": "One of the massive towers that guarded the southern entrance to the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge von Mediasch",
+            "hu": "Medgyesi Zsinagóga",
+            "ro": "Sinagoga din Mediaș",
+            "en": "Synagogue of Mediaș"
+          },
+          "coords": [
+            24.3488,
+            46.1648
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel mit originaler Innenausstattung aus dem Jahr 1896.",
+            "hu": "1896-ban épült, eredeti belső festéssel rendelkező különleges épület.",
+            "ro": "Construită în 1896, păstrează picturi interioare originale superbe.",
+            "en": "Built in 1896, it features beautiful original interior paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkirche",
+            "hu": "Ferences templom",
+            "ro": "Biserica Franciscană",
+            "en": "Franciscan Church"
+          },
+          "coords": [
+            24.3532,
+            46.1658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Diese Barockkirche beherbergt wertvolle Rokoko-Skulpturen.",
+            "hu": "Barokk stílusú templom értékes rokokó szobrokkal és oltárral.",
+            "ro": "Biserică barocă ce adăpostește sculpturi valoroase în stil rococo.",
+            "en": "A Baroque church housing valuable Rococo sculptures and altars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im befestigten Zentrum von Mediasch. Der Vormittag gehört der beeindruckenden Margarethenkirche und dem schiefen Trompeterturm. Mittags erkunden Sie die sächsische Architektur rund um das Schuller-Haus. Der Nachmittag führt Sie durch das Stadtmuseum und entlang der massiven Stadtmauern. Zum Abschluss besichtigen Sie die Synagoge und die Franziskanerkirche.",
+        "hu": "Kezdje a napot Medgyes erődített belvárosában. A délelőtt a monumentális Szent Margit-templomé és a ferde Trombitás-toronyé. Ebéd után a reneszánsz Schuller-házat és a szász polgárházakat csodálhatja meg. Délután a Városi Múzeum és a középkori várfalak bástyái következnek. A napot a zsinagóga és a barokk ferences templom csendjében zárhatja.",
+        "ro": "Începeți ziua în centrul fortificat al Mediașului. Dimineața este dedicată Bisericii Sfânta Margareta și celebrului Turn al Trompeților. La prânz, admirați arhitectura săsească din jurul Casei Schuller. După-amiaza explorează Muzeul Municipal și fortificațiile medievale bine păstrate. Seara vizitați Sinagoga și Biserica Franciscană pentru o perspectivă culturală completă.",
+        "en": "Start your day in the fortified heart of Mediaș. Spend the morning at St. Margaret's Church and the iconic Trumpeters' Tower. At noon, explore the Saxon architecture around Schuller House. The afternoon is perfect for the Municipal Museum and a walk along the medieval walls. End your tour visiting the Synagogue and the Franciscan Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Traube",
+            "tip": "Probieren Sie sächsischen Sauerbraten im historischen Ambiente am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Traube Étterem",
+            "tip": "Kóstolja meg a hagyományos szász ételeket a főtéren található patinás épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Traube",
+            "tip": "Gustați specialități săsești într-o atmosferă istorică, chiar în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traube Restaurant",
+            "tip": "Try traditional Saxon dishes in a historic setting right on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgviertel-Garten",
+            "tip": "Ein ruhiger Ort direkt hinter der Margarethenkirche zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várnegyed kertje",
+            "tip": "Csendes pihenőhely közvetlenül a Szent Margit-templom falai mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina cetății",
+            "tip": "Un loc liniștit pentru relaxare, situat chiar lângă zidurile bisericii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Garden",
+            "tip": "A peaceful spot for relaxation located right next to the church walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt",
+            "tip": "Kaufen Sie Honig aus der Region und handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon termelői mézet és kézműves kerámiatárgyakat szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere de albine locală și ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy locally produced honey and handmade ceramics as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist sehr kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Achten Sie auf die kleinen Wappen an den alten Zunfttürmen.",
+          "Viele Sehenswürdigkeiten sind montags geschlossen."
+        ],
+        "hu": [
+          "A belváros rendkívül kompakt, minden fontos látnivaló pár perces sétára van.",
+          "Figyelje meg a céhtornyokon elhelyezett régi címereket.",
+          "A múzeum hétfőnként zárva tart, tervezze ehhez a látogatást."
+        ],
+        "ro": [
+          "Centrul istoric este compact și se explorează cel mai bine la pas.",
+          "Observați blazoanele vechi de pe turnurile breslelor în timp ce vă plimbați.",
+          "Programul muzeului este limitat lunea, verificați orarul în prealabil."
+        ],
+        "en": [
+          "The historic center is very compact and best explored on foot.",
+          "Keep an eye out for the old coats of arms on the guild towers.",
+          "Most museums are closed on Mondays, so plan accordingly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Trompeterturm",
+            "hu": "Trombitás-torony",
+            "ro": "Turnul Trompeților",
+            "en": "Trumpeters' Tower"
+          },
+          "coords": [
+            24.3523,
+            46.1663
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für eine Tour durch die Gassen.",
+            "hu": "Ideális kiindulópont a hangulatos szűk utcák felfedezéséhez.",
+            "ro": "Punctul de plecare perfect pentru o tură pe străzile cetății.",
+            "en": "Perfect starting point for a tour through the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Margarethenkirche",
+            "hu": "Szent Margit-templom",
+            "ro": "Biserica Sfânta Margareta",
+            "en": "St. Margaret's Church"
+          },
+          "coords": [
+            24.3521,
+            46.1662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher am Kircheneingang ab.",
+            "hu": "A biciklit a templom bejáratánál lévő tárolónál hagyhatja.",
+            "ro": "Puteți lăsa bicicleta în siguranță la intrarea în curtea bisericii.",
+            "en": "You can safely park your bike at the entrance to the churchyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuller-Haus",
+            "hu": "Schuller-ház",
+            "ro": "Casa Schuller",
+            "en": "Schuller House"
+          },
+          "coords": [
+            24.3528,
+            46.1665
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt über den gepflasterten Hauptmarkt.",
+            "hu": "Élvezze a tekerést a hangulatos, macskaköves főtéren.",
+            "ro": "Bucurați-vă de plimbarea prin piața centrală pavată cu piatră.",
+            "en": "Enjoy cycling through the atmospheric cobblestone main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            24.3542,
+            46.1672
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Museum hat einen schönen Innenhof zum kurzen Verweilen.",
+            "hu": "A múzeumnak szép belső udvara van, ahol megpihenhet.",
+            "ro": "Muzeul are o curte interioară frumoasă unde vă puteți odihni.",
+            "en": "The museum has a lovely inner courtyard where you can take a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer und Türme",
+            "hu": "Városfalak és tornyok",
+            "ro": "Zidurile și turnurile cetății",
+            "en": "City Walls and Towers"
+          },
+          "coords": [
+            24.3505,
+            46.1652
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Stadtmauer für tolle Fotoperspektiven.",
+            "hu": "Tekerjen végig a várfal mentén a legjobb fotóhelyszínekért.",
+            "ro": "Pedalați de-a lungul zidurilor pentru cele mai bune unghiuri foto.",
+            "en": "Ride along the city walls for the best photo perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Forkesch-Turm",
+            "hu": "Forkesch-torony",
+            "ro": "Turnul Forkesch",
+            "en": "Forkesch Tower"
+          },
+          "coords": [
+            24.3512,
+            46.1642
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein markanter Punkt auf der Südroute der Befestigung.",
+            "hu": "Az erődítmény déli szakaszának egyik leglátványosabb tornya.",
+            "ro": "Un punct de reper important pe latura sudică a fortificației.",
+            "en": "A prominent landmark on the southern stretch of the fortification."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge von Mediasch",
+            "hu": "Medgyesi Zsinagóga",
+            "ro": "Sinagoga din Mediaș",
+            "en": "Synagogue of Mediaș"
+          },
+          "coords": [
+            24.3488,
+            46.1648
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen geschichtsträchtigen Ort abseits der Hauptroute.",
+            "hu": "Látogasson el erre a történelmi helyre a főúttól kissé távolabb.",
+            "ro": "Vizitați acest loc plin de istorie, situat puțin în afara traseului principal.",
+            "en": "Visit this historical site located slightly off the main route."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkirche",
+            "hu": "Ferences templom",
+            "ro": "Biserica Franciscană",
+            "en": "Franciscan Church"
+          },
+          "coords": [
+            24.3532,
+            46.1658
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang für Ihre Fahrradtour durch die Stadt.",
+            "hu": "Csendes és méltó befejezése a városi kerékpártúrának.",
+            "ro": "Un final liniștit și frumos pentru tura voastră cu bicicleta.",
+            "en": "A peaceful and fitting end to your city cycling tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Mediasch auf zwei Rädern. Die Tour verbindet die historischen Türme und Kirchen des Zentrums mit den äußeren Bereichen der Stadtmauer. Mit dem Fahrrad erreichen Sie schnell auch abgelegenere Orte wie die Synagoge. Die flache Innenstadt ist ideal für eine entspannte Fahrt durch die Jahrhunderte der sächsischen Geschichte.",
+        "hu": "Fedezze fel Medgyest két keréken. A túra összeköti a belváros történelmi tornyait és templomait a várfal külső szakaszaival. Biciklivel gyorsan elérheti a távolabbi pontokat, például a zsinagógát is. A sík terepű belváros ideális egy kényelmes időutazáshoz a szász történelem évszázadai között.",
+        "ro": "Descoperiți Mediașul pe două roți. Traseul leagă turnurile și bisericile istorice din centru cu secțiunile exterioare ale zidurilor cetății. Cu bicicleta ajungeți rapid și la puncte mai îndepărtate, cum ar fi Sinagoga. Centrul plat este ideal pentru o plimbare relaxantă prin secolele de istorie săsească.",
+        "en": "Discover Mediaș on two wheels. This tour connects the historic towers and churches of the center with the outer sections of the city walls. By bike, you can quickly reach more distant spots like the Synagogue. The flat city center is ideal for a relaxed ride through centuries of Saxon history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Central",
+            "tip": "Schneller Stopp für Radfahrer mit guten Snacks und Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Central Bisztró",
+            "tip": "Gyors megálló bringásoknak friss szendvicsekkel és jó kávéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Central",
+            "tip": "O oprire rapidă pentru bicicliști, cu gustări proaspete și cafea bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Bistro",
+            "tip": "A quick stop for cyclists with fresh snacks and great coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase im Norden der Altstadt für eine Pause im Schatten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Zöld oázis az óváros északi részén, ideális egy árnyas pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază de verdeață în nordul centrului vechi, perfectă pentru popas.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "A green oasis in the north of the old town, perfect for a shaded break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquariat Mediasch",
+            "tip": "Suchen Sie nach alten Postkarten und Büchern über Siebenbürgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Medgyesi Antikvárium",
+            "tip": "Keressen régi képeslapokat és Erdélyről szóló könyveket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anticariat Mediaș",
+            "tip": "Căutați cărți poștale vechi și volume despre Transilvania."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mediaș Antique Shop",
+            "tip": "Look for old postcards and books about Transylvania."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Kopfsteinpflaster im Zentrum erfordert etwas Aufmerksamkeit beim Fahren.",
+          "Nutzen Sie die Radwege entlang der Hauptstraßen.",
+          "Nehmen Sie ausreichend Wasser mit, besonders an heißen Sommertagen."
+        ],
+        "hu": [
+          "A belvárosi macskakő néhol rázós lehet, közlekedjen óvatosan.",
+          "Használja a főbb utak mentén kialakított kerékpársávokat.",
+          "Mindig legyen önnél elegendő víz, főleg a meleg nyári napokon."
+        ],
+        "ro": [
+          "Piatra cubică din centru poate fi solicitantă, pedalați cu atenție.",
+          "Folosiți benzile pentru biciclete de-a lungul arterelor principale.",
+          "Aveți mereu apă la voi, mai ales în zilele toride de vară."
+        ],
+        "en": [
+          "The cobblestones in the center can be bumpy, so ride with care.",
+          "Use the bicycle lanes along the main roads where available.",
+          "Always carry enough water, especially on hot summer days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirchenburg Mediasch",
+            "hu": "Medgyesi vártemplom",
+            "ro": "Biserica fortificată Mediaș",
+            "en": "Mediaș Fortified Church"
+          },
+          "coords": [
+            24.3521,
+            46.1662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am nahegelegenen King Ferdinand I. Platz.",
+            "hu": "Parkoljon a közeli Ferdinand király téren, pár perc sétára.",
+            "ro": "Parcați în Piața Regele Ferdinand I, situată la câțiva pași.",
+            "en": "Park at the nearby King Ferdinand I Square, just a short walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Trompeterturm",
+            "hu": "Trombitás-torony",
+            "ro": "Turnul Trompeților",
+            "en": "Trumpeters' Tower"
+          },
+          "coords": [
+            24.3523,
+            46.1663
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der Turm ist Teil des inneren Mauerrings um die Kirche.",
+            "hu": "A torony a templom körüli belső várfalrendszer része.",
+            "ro": "Turnul face parte din centura de fortificație a bisericii.",
+            "en": "The tower is part of the inner fortification ring around the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuller-Haus",
+            "hu": "Schuller-ház",
+            "ro": "Casa Schuller",
+            "en": "Schuller House"
+          },
+          "coords": [
+            24.3528,
+            46.1665
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur am Rande des Zentrums.",
+            "hu": "Csodálja meg az épület reneszánsz homlokzatát a főtéren.",
+            "ro": "Admirați fațada renascentistă a clădirii din piața centrală.",
+            "en": "Admire the Renaissance facade of the building in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            24.3542,
+            46.1672
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplätze finden Sie direkt vor dem Museumseingang.",
+            "hu": "Parkolási lehetőség közvetlenül a múzeum bejárata előtt.",
+            "ro": "Există locuri de parcare chiar în fața intrării muzeului.",
+            "en": "Parking is available directly in front of the museum entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer und Türme",
+            "hu": "Városfalak és tornyok",
+            "ro": "Zidurile și turnurile cetății",
+            "en": "City Walls and Towers"
+          },
+          "coords": [
+            24.3505,
+            46.1652
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Die südlichen Türme sind mit dem Auto leicht erreichbar.",
+            "hu": "A déli bástyák és falszakaszok autóval könnyen megközelíthetők.",
+            "ro": "Turnurile din partea de sud sunt ușor accesibile cu mașina.",
+            "en": "The southern towers and walls are easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Forkesch-Turm",
+            "hu": "Forkesch-torony",
+            "ro": "Turnul Forkesch",
+            "en": "Forkesch Tower"
+          },
+          "coords": [
+            24.3512,
+            46.1642
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz am Stadtrand.",
+            "hu": "Rövid séta a városfal menti parkolóhelytől.",
+            "ro": "O scurtă plimbare de la locurile de parcare de lângă zid.",
+            "en": "A short walk from the parking spots along the city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge von Mediasch",
+            "hu": "Medgyesi Zsinagóga",
+            "ro": "Sinagoga din Mediaș",
+            "en": "Synagogue of Mediaș"
+          },
+          "coords": [
+            24.3488,
+            46.1648
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ein wichtiger kultureller Stopp am Ende des Tages.",
+            "hu": "Fontos kulturális megálló a városnézés befejezéseként.",
+            "ro": "O oprire culturală importantă la finalul vizitei în oraș.",
+            "en": "An important cultural stop to conclude your city tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die wichtigsten Cluster von Mediasch. Beginnen Sie im historischen Kern rund um die Margarethenkirche. Fahren Sie anschließend zum Stadtmuseum, das etwas abseits in einem alten Kloster liegt. Den Abschluss bilden die massiven Türme der südlichen Stadtmauer und die Synagoge, die Sie ohne lange Fußwege direkt ansteuern können.",
+        "hu": "Autóval kényelmesen bejárhatja Medgyes legfontosabb látnivalóit. Kezdjen a történelmi magban a vártemplom környékén. Ezután hajtson a Városi Múzeumhoz, amely egy régi kolostorépületben található. Végezetül a déli várfal masszív bástyáit és a zsinagógát keresheti fel, amelyeket hosszabb gyaloglás nélkül is közvetlenül elérhet.",
+        "ro": "Cu mașina puteți vizita confortabil principalele atracții ale Mediașului. Începeți în nucleul istoric din jurul bisericii fortificate. Mergeți apoi la Muzeul Municipal, situat într-o fostă mănăstire. Încheiați turul la turnurile masive ale zidului sudic și la Sinagogă, puncte la care puteți ajunge direct, fără deplasări lungi pe jos.",
+        "en": "By car, you can comfortably visit the most important clusters of Mediaș. Start in the historic core around the fortified church. Then drive to the Municipal Museum, located in an old monastery. End your tour at the massive towers of the southern wall and the Synagogue, reaching them directly without long walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Binder Bubi",
+            "tip": "Exzellentes Restaurant mit Parkplatz und traditioneller Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Binder Bubi Étterem",
+            "tip": "Kiváló étterem saját parkolóval és hagyományos erdélyi konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Binder Bubi",
+            "tip": "Restaurant excelent cu parcare proprie și bucătărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Binder Bubi Restaurant",
+            "tip": "Excellent restaurant with its own parking and traditional Transylvanian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Greweln",
+            "tip": "Ein kurzes Stück bergauf für einen Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Greweln-kilátó",
+            "tip": "Rövid autózás a dombra a városra nyíló panorámáért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Greweln",
+            "tip": "O scurtă urcare cu mașina pe deal pentru o panoramă asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Greweln Viewpoint",
+            "tip": "A short drive up the hill for a panoramic view of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Mediasch",
+            "tip": "Für alle praktischen Einkäufe und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Medgyesi Bevásárlóközpont",
+            "tip": "Praktikus vásárláshoz és helyi termékek beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Mediaș",
+            "tip": "Pentru cumpărături practice și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mediaș Shopping Center",
+            "tip": "For practical shopping and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist kostenpflichtig, achten Sie auf die Automaten.",
+          "Die Gassen im alten Kern sind oft Einbahnstraßen.",
+          "Nutzen Sie den Wagen für einen Abstecher zur Kirchenburg Biertan (30 Min. Fahrt)."
+        ],
+        "hu": [
+          "A belvárosban a parkolás díjköteles, keresse az automatákat.",
+          "Az óváros szűk utcái gyakran egyirányúak, figyelje a táblákat.",
+          "Használja ki az autót egy kitérőre a közeli Berethalom (Biertan) vártemplomához."
+        ],
+        "ro": [
+          "Parcarea în centru este cu plată, căutați aparatele de taxat.",
+          "Străzile din centrul vechi sunt adesea cu sens unic.",
+          "Folosiți mașina pentru o excursie la biserica fortificată din Biertan (30 min)."
+        ],
+        "en": [
+          "Parking in the center is paid, look for the ticket machines.",
+          "The streets in the old core are often one-way, so watch the signs.",
+          "Use your car for a side trip to the Biertan fortified church (30 min drive)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Margarethenkirche",
+            "hu": "Szent Margit-templom",
+            "ro": "Biserica Sfânta Margareta",
+            "en": "St. Margaret's Church"
+          },
+          "coords": [
+            24.3521,
+            46.1662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Haltestelle 'Centru' ist nur wenige Gehminuten entfernt.",
+            "hu": "A 'Centru' megálló mindössze pár perc sétára található.",
+            "ro": "Stația 'Centru' se află la doar câteva minute de mers pe jos.",
+            "en": "The 'Centru' stop is only a few minutes' walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "Trompeterturm",
+            "hu": "Trombitás-torony",
+            "ro": "Turnul Trompeților",
+            "en": "Trumpeters' Tower"
+          },
+          "coords": [
+            24.3523,
+            46.1663
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt neben der Kirche im historischen Burgviertel.",
+            "hu": "Közvetlenül a templom mellett, a várnegyed szívében.",
+            "ro": "Chiar lângă biserică, în inima cartierului cetății.",
+            "en": "Right next to the church in the heart of the fortress district."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuller-Haus",
+            "hu": "Schuller-ház",
+            "ro": "Casa Schuller",
+            "en": "Schuller House"
+          },
+          "coords": [
+            24.3528,
+            46.1665
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang über den malerischen Hauptplatz.",
+            "hu": "Egy rövid séta a festői főtéren keresztül.",
+            "ro": "O scurtă plimbare prin piața centrală pitorească.",
+            "en": "A short walk through the picturesque main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            24.3542,
+            46.1672
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Buslinie T1 oder T2 vom Zentrum aus.",
+            "hu": "Használja a T1 vagy T2 buszvonalat a központból.",
+            "ro": "Folosiți linia de autobuz T1 sau T2 din centru.",
+            "en": "Use bus line T1 or T2 from the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauer und Türme",
+            "hu": "Városfalak és tornyok",
+            "ro": "Zidurile și turnurile cetății",
+            "en": "City Walls and Towers"
+          },
+          "coords": [
+            24.3505,
+            46.1652
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Haltestellen in der Nähe der südlichen Stadtmauer nutzen.",
+            "hu": "Szálljon le a déli városfalhoz közeli megállók egyikénél.",
+            "ro": "Coborâți la una dintre stațiile apropiate de zidul de sud.",
+            "en": "Get off at one of the stops near the southern city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge von Mediasch",
+            "hu": "Medgyesi Zsinagóga",
+            "ro": "Sinagoga din Mediaș",
+            "en": "Synagogue of Mediaș"
+          },
+          "coords": [
+            24.3488,
+            46.1648
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang zum Abschluss Ihres Tages.",
+            "hu": "Kellemes séta a nap utolsó látnivalójához.",
+            "ro": "O plimbare plăcută către ultima atracție a zilei.",
+            "en": "A pleasant walk to the final attraction of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das lokale Busnetz von Mediasch für Ihre Stadterkundung. Nach dem Besuch der Margarethenkirche und des Schuller-Hauses im Zentrum bringt Sie der Bus bequem zum Stadtmuseum. Von dort aus erreichen Sie weitere Teile der Stadtmauer und die Synagoge. Diese Route kombiniert kurze Fahrten mit interessanten Spaziergängen durch die historischen Viertel.",
+        "hu": "Használja Medgyes helyi buszhálózatát a város felfedezéséhez. A központi Szent Margit-templom és Schuller-ház megtekintése után busszal kényelmesen eljuthat a Városi Múzeumhoz. Innen tovább utazhat a várfal más szakaszaihoz és a zsinagógához. Ez az útvonal rövid buszos szakaszokat ötvöz hangulatos városi sétákkal.",
+        "ro": "Folosiți rețeaua locală de autobuze din Mediaș pentru a explora orașul. După vizitarea Bisericii Sfânta Margareta și a Casei Schuller din centru, autobuzul vă duce confortabil la Muzeul Municipal. De acolo puteți ajunge la alte secțiuni ale zidului cetății și la Sinagogă. Acest traseu combină scurte călătorii cu autobuzul cu plimbări prin cartierele istorice.",
+        "en": "Use the local bus network of Mediaș for your city exploration. After visiting St. Margaret's Church and Schuller House in the center, the bus takes you comfortably to the Municipal Museum. From there, you can reach other parts of the city wall and the Synagogue. This route combines short bus rides with interesting walks through the historic districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Roma",
+            "tip": "Beliebter Ort bei Einheimischen, gut mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roma Pizzéria",
+            "tip": "A helyiek körében népszerű hely, buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Roma",
+            "tip": "Un loc popular printre localnici, ușor accesibil cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roma Pizzeria",
+            "tip": "A popular spot among locals, easily accessible by bus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platz vor dem Rathaus",
+            "tip": "Ein schöner Ort zum Beobachten des Stadttreibens.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városháza előtti tér",
+            "tip": "Kellemes hely a városi forgatag megfigyelésére.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din fața Primăriei",
+            "tip": "Un loc frumos pentru a observa forfota orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square in front of City Hall",
+            "tip": "A nice place to observe the city's hustle and bustle.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentralmarkt",
+            "tip": "Frisches Obst und Gemüse direkt von den Bauern der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piac",
+            "tip": "Friss zöldség és gyümölcs közvetlenül a környékbeli gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Fructe și legume proaspete direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Fresh fruits and vegetables directly from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können an Kiosken oder beim Fahrer gekauft werden.",
+          "Die Busse verkehren in regelmäßigen Abständen, aber seltener am Wochenende.",
+          "Kombinieren Sie Busfahrten mit kurzen Spaziergängen im Zentrum."
+        ],
+        "hu": [
+          "Jegyeket a kijelölt bódékban vagy a sofőrnél vásárolhat.",
+          "A buszok rendszeresen járnak, de hétvégén ritkább a menetrend.",
+          "Kombinálja a buszozást rövid sétákkal a történelmi belvárosban."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la chioșcuri sau direct de la șofer.",
+          "Autobuzele circulă regulat, dar mai rar în weekend.",
+          "Combinați mersul cu autobuzul cu scurte plimbări prin centru."
+        ],
+        "en": [
+          "Tickets can be bought at designated kiosks or from the driver.",
+          "Buses run regularly, but the schedule is less frequent on weekends.",
+          "Combine bus rides with short walks in the historic center."
+        ]
+      }
+    }
+  }
+}

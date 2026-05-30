@@ -1,0 +1,1284 @@
+{
+  "city_id": "city-koblenz-extra",
+  "anchor": {
+    "name": "Koblenz",
+    "coords": [
+      7.589,
+      50.356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schängelbrunnen",
+            "hu": "Schängel-kút",
+            "ro": "Fântâna Schängel",
+            "en": "Schängel Fountain"
+          },
+          "coords": [
+            7.598,
+            50.361
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf den Wasserspeier des Jungen – er spuckt in unregelmäßigen Abständen.",
+            "hu": "Vigyázz, a kisfiú szobra váratlanul vizet köp a gyanútlan járókelőkre.",
+            "ro": "Atenție la băiatul care scuipă apă – o face la intervale neregulate spre trecători.",
+            "en": "Watch out for the boy statue – it spits water at irregular intervals at passersby."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            7.596,
+            50.361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Zwiebeltürme prägen die Silhouette der Altstadt; das Innere ist gotisch geprägt.",
+            "hu": "A hagymakupolás tornyok az óváros jelképei; a belső tér tiszta gótika.",
+            "ro": "Turnurile în formă de ceapă definesc silueta orașului vechi; interiorul este gotic.",
+            "en": "The onion domes define the old town skyline; the interior is purely Gothic."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Kastor",
+            "hu": "Szent Castor-bazilika",
+            "ro": "Bazilica Sfântul Castor",
+            "en": "Basilica of St. Castor"
+          },
+          "coords": [
+            7.604,
+            50.363
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Älteste Kirche der Stadt, direkt am Kastorhof vor dem Deutschen Eck gelegen.",
+            "hu": "A város legrégebbi temploma, közvetlenül a Deutsches Eck szomszédságában.",
+            "ro": "Cea mai veche biserică din oraș, situată chiar lângă Deutsches Eck.",
+            "en": "The oldest church in the city, located right next to the Deutsches Eck."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Eck",
+            "hu": "Német Egység Emlékműve",
+            "ro": "Colțul German",
+            "en": "German Corner"
+          },
+          "coords": [
+            7.605,
+            50.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hier fließen Rhein und Mosel zusammen; steigen Sie auf das Reiterstandbild für den Ausblick.",
+            "hu": "Itt találkozik a Rajna és a Mosel; menj fel a lovasszobor talpazatára a kilátásért.",
+            "ro": "Aici se unesc Rinul și Mosela; urcați pe soclul statuii pentru o vedere de ansamblu.",
+            "en": "Where Rhine and Moselle meet; climb the monument base for the best view of the confluence."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Koblenz",
+            "hu": "Koblenzi felvonó",
+            "ro": "Telecabina Koblenz",
+            "en": "Koblenz Cable Car"
+          },
+          "coords": [
+            7.603,
+            50.362
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wählen Sie Gondel 17 mit dem Glasboden für einen spektakulären Blick auf den Rhein.",
+            "hu": "Válaszd a 17-es kabint, amelynek üvegalja van a folyó feletti teljes panorámához.",
+            "ro": "Alegeți cabina numărul 17 cu podea de sticlă pentru o vedere spectaculoasă asupra Rinului.",
+            "en": "Pick cabin number 17 with the glass floor for a spectacular view over the Rhine river."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Ehrenbreitstein",
+            "hu": "Ehrenbreitstein erőd",
+            "ro": "Cetatea Ehrenbreitstein",
+            "en": "Ehrenbreitstein Fortress"
+          },
+          "coords": [
+            7.615,
+            50.364
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Besuchen Sie das Landesmuseum Koblenz innerhalb der Festungsmauern.",
+            "hu": "Látogasd meg az erőd falain belül található tartományi múzeumot is.",
+            "ro": "Vizitați Muzeul de Stat Koblenz situat în interiorul zidurilor cetății.",
+            "en": "Visit the State Museum of Koblenz located inside the massive fortress walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurfürstliches Schloss",
+            "hu": "Választófejedelmi kastély",
+            "ro": "Castelul Electoral",
+            "en": "Electoral Palace"
+          },
+          "coords": [
+            7.602,
+            50.356
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Gartenanlagen bis zum Rheinufer; ideal für eine Pause.",
+            "hu": "Sétálj végig a gondozott kastélykerten egészen a Rajna-partig; tökéletes pihenőhely.",
+            "ro": "Plimbați-vă prin grădinile palatului până la malul Rinului; ideal pentru o pauză.",
+            "en": "Walk through the palace gardens all the way to the Rhine bank; ideal for a break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Koblenz zu Fuß, beginnend in der charmanten Altstadt beim Schängelbrunnen. Vormittags erkunden Sie die historischen Kirchen wie die Liebfrauenkirche und St. Kastor, bevor Sie das monumentale Deutsche Eck erreichen. Nach der spektakulären Seilbahnfahrt über den Rhein verbringen Sie den Nachmittag auf der Festung Ehrenbreitstein. Der Tag endet entspannt im Garten des Kurfürstlichen Schlosses am Rheinufer.",
+        "hu": "Fedezd fel Koblenzet gyalogosan, az óváros szívéből, a Schängel-kúttól indulva. Délelőtt a történelmi templomok, köztük a Miasszonyunk és a Szent Castor bazilika várnak, majd eljutsz a monumentális Deutsches Eckhez. A Rajna feletti látványos felvonózás után az Ehrenbreitstein erőd következik. A napot a választófejedelmi kastély gondozott kertjében, a folyóparti sétány mellett zárhatod.",
+        "ro": "Descoperiți Koblenz la pas, începând din centrul vechi la fântâna Schängel. Dimineața explorați bisericile istorice precum Liebfrauenkirche și Bazilica Sf. Castor, înainte de a ajunge la monumentalul Deutsches Eck. După o plimbare spectaculoasă cu telecabina peste Rin, petreceți după-amiaza în Cetatea Ehrenbreitstein. Ziua se încheie relaxat în grădinile Castelului Electoral de pe malul Rinului.",
+        "en": "Discover Koblenz on foot, starting in the charming old town at the Schängel Fountain. Spend your morning exploring historic churches like Our Lady and St. Castor before reaching the monumental German Corner. After a spectacular cable car ride over the Rhine, explore the massive Ehrenbreitstein Fortress. The day concludes with a relaxing walk through the Electoral Palace gardens along the river promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altes Brauhaus",
+            "tip": "Probieren Sie den rheinischen Sauerbraten oder den Koblenzer Debbekooche."
+          },
+          {
+            "name": "Winzerhaus am Eck",
+            "tip": "Genießen Sie regionale Riesling-Weine direkt am Zusammenfluss von Rhein und Mosel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altes Brauhaus",
+            "tip": "Kóstold meg a rajnai savanyú sültet vagy a helyi Debbekooche rakott burgonyát."
+          },
+          {
+            "name": "Winzerhaus am Eck",
+            "tip": "Élvezd a regionális rajnai rizlinget közvetlenül a két folyó találkozásánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altes Brauhaus",
+            "tip": "Încercați friptura Sauerbraten în stil renan sau budinca de cartofi Debbekooche."
+          },
+          {
+            "name": "Winzerhaus am Eck",
+            "tip": "Savurați un Riesling regional chiar la punctul de confluență dintre Rin și Mosela."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altes Brauhaus",
+            "tip": "Try the Rhenish Sauerbraten or the local Debbekooche potato casserole."
+          },
+          {
+            "name": "Winzerhaus am Eck",
+            "tip": "Enjoy regional Riesling wines right at the confluence of the Rhine and Moselle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rheinanlagen",
+            "tip": "Kilometerlange Uferpromenade für ruhige Spaziergänge.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ehrenbreitstein Panoramaplateau",
+            "tip": "Blick auf das Deutsche Eck bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rheinanlagen",
+            "tip": "Kilométereken át nyúló folyóparti sétány a csendes kikapcsolódáshoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ehrenbreitstein panoráma",
+            "tip": "Nézd meg a Deutsches Eck kivilágítását az erődből naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rheinanlagen",
+            "tip": "O promenadă lungă pe malul râului pentru plimbări liniștite.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ehrenbreitstein Panorama",
+            "tip": "Vedere asupra Deutsches Eck la apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rheinanlagen",
+            "tip": "Miles of riverside promenade for peaceful walks.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Ehrenbreitstein Viewpoint",
+            "tip": "Watch the sunset over the confluence from the fortress heights.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Löhr-Center",
+            "tip": "Großes Einkaufszentrum im Stadtzentrum mit über 120 Geschäften."
+          },
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "In den Gassen der Altstadt finden Sie Kunsthandwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Löhr-Center",
+            "tip": "Nagy bevásárlóközpont a belvárosban, több mint 120 üzlettel."
+          },
+          {
+            "name": "Altstadt Butikok",
+            "tip": "Az óváros szűk utcáiban kézműves termékeket és szuveníreket találsz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Löhr-Center",
+            "tip": "Centru comercial mare în centrul orașului cu peste 120 de magazine."
+          },
+          {
+            "name": "Boutique-urile din Altstadt",
+            "tip": "În străduțele centrului vechi găsiți produse artizanale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Löhr-Center",
+            "tip": "Large shopping mall in the city center with over 120 stores."
+          },
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Find local crafts and souvenirs in the narrow alleys of the Altstadt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie das Kombiticket für Seilbahn und Festung Ehrenbreitstein.",
+          "Tragen Sie bequemes Schuhwerk für das Kopfsteinpflaster in der Altstadt.",
+          "Die Fähre 'Liesel' ist eine charmante Alternative zur Seilbahn.",
+          "Achten Sie auf die Markierungen der Hochwasserstände am Rheinufer."
+        ],
+        "hu": [
+          "Vegyél kombinált jegyet a felvonóra és az Ehrenbreitstein erődbe.",
+          "Viselj kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A 'Liesel' komp bájos és olcsóbb alternatíva a felvonó helyett.",
+          "Figyeld meg a Rajna-parti falakon az elmúlt évszázadok árvízszint-jelzéseit."
+        ],
+        "ro": [
+          "Cumpărați biletul combinat pentru telecabină și Cetatea Ehrenbreitstein.",
+          "Purtați încălțăminte confortabilă pentru străzile pietruite din centrul vechi.",
+          "Feribotul 'Liesel' este o alternativă fermecătoare la telecabină.",
+          "Observați marcajele nivelului inundațiilor pe malul Rinului."
+        ],
+        "en": [
+          "Buy a combined ticket for the cable car and Ehrenbreitstein Fortress.",
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "The 'Liesel' ferry is a charming and cheaper alternative to the cable car.",
+          "Check the historic flood level markers on the buildings near the river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kurfürstliches Schloss",
+            "hu": "Választófejedelmi kastély",
+            "ro": "Castelul Electoral",
+            "en": "Electoral Palace"
+          },
+          "coords": [
+            7.602,
+            50.356
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Starten Sie im Schlossgarten und genießen Sie die barocke Architektur.",
+            "hu": "Indulj a kastélykertből, csodáld meg a barokk építészetet.",
+            "ro": "Începeți în grădina castelului și bucurați-vă de arhitectura barocă.",
+            "en": "Start in the palace gardens and admire the Baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Eck",
+            "hu": "Deutsches Eck",
+            "ro": "Deutsches Eck",
+            "en": "Deutsches Eck"
+          },
+          "coords": [
+            7.605,
+            50.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Radweg führt direkt am Rheinufer entlang zum Eck.",
+            "hu": "A kerékpárút közvetlenül a Rajna-parton vezet az emlékműhöz.",
+            "ro": "Pista de biciclete duce direct pe malul Rinului până la monument.",
+            "en": "The bike path leads directly along the Rhine bank to the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Moselufer Radweg",
+            "hu": "Mosel-parti kerékpárút",
+            "ro": "Pista Mosela",
+            "en": "Moselle Riverside Path"
+          },
+          "coords": [
+            7.592,
+            50.363
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "10:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Blick auf die Balduinbrücke, die älteste Brücke der Stadt.",
+            "hu": "Kilátás a Balduin-hídra, a város legrégebbi hídjára.",
+            "ro": "Vedere spre podul Balduin, cel mai vechi pod din oraș.",
+            "en": "View of the Balduin Bridge, the city's oldest bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stolzenfels",
+            "hu": "Stolzenfels-kastély",
+            "ro": "Castelul Stolzenfels",
+            "en": "Stolzenfels Castle"
+          },
+          "coords": [
+            7.592,
+            50.303
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der Anstieg vom Radweg zum Schloss ist steil, schieben lohnt sich für die Aussicht.",
+            "hu": "A kastélyhoz vezető emelkedő meredek, de a kilátásért megéri feltolni a bringát.",
+            "ro": "Urcarea spre castel este abruptă; efortul merită pentru panorama oferită.",
+            "en": "The climb to the castle is steep, but pushing your bike is worth it for the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinanlagen",
+            "hu": "Rajna-parti park",
+            "ro": "Grădinile Rinului",
+            "en": "Rhine Gardens"
+          },
+          "coords": [
+            7.6,
+            50.348
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder eine Kaffeepause am Fluss.",
+            "hu": "Ideális egy piknikhez vagy egy kávészünethez a folyóparton.",
+            "ro": "Ideal pentru un picnic sau o pauză de cafea pe malul râului.",
+            "en": "Ideal for a picnic or a coffee break by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            7.596,
+            50.361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad sicher am Plan (Platz) ab und erkunden Sie die Gassen.",
+            "hu": "Zárd le a bringát a Plan téren, és fedezd fel az óváros szűk utcáit.",
+            "ro": "Parcați bicicleta în siguranță în piața Plan și explorați străduțele.",
+            "en": "Park your bike safely at the Plan square and explore the narrow alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Stadt Koblenz mit dem UNESCO-Welterbe Oberes Mittelrheintal. Sie radeln entspannt am Rhein entlang nach Süden zum neugotischen Schloss Stolzenfels, der Wiege der Rheinromantik. Auf dem Rückweg genießen Sie die weitläufigen Rheinanlagen und beenden die Tour in der historischen Altstadt.",
+        "hu": "Ez a kerékpártúra összeköti Koblenzet az UNESCO világörökség részét képező Felső-Közép-Rajna-völggyel. A Rajna mentén délnek tekerve éred el a neogótikus Stolzenfels-kastélyt, a rajnai romantika bölcsőjét. Visszafelé a tágas folyóparti parkokban pihenhetsz, majd az óvárosban zárhatod a napot.",
+        "ro": "Acest tur cu bicicleta conectează orașul Koblenz cu situl UNESCO Valea Rinului Mijlociu. Veți pedala relaxat spre sud, de-a lungul Rinului, până la castelul neogotic Stolzenfels. La întoarcere, vă veți bucura de grădinile vaste de pe malul Rinului și veți încheia turul în centrul istoric.",
+        "en": "This bike tour connects Koblenz with the UNESCO World Heritage Upper Middle Rhine Valley. Pedal south along the Rhine to the neo-Gothic Stolzenfels Castle, the cradle of Rhine Romanticism. On the way back, enjoy the extensive Rhine gardens and finish your tour in the historic old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Königsbacher Treff",
+            "tip": "Biergarten direkt am Rheinufer mit Blick auf die Festung."
+          },
+          {
+            "name": "Café Rheinanlagen",
+            "tip": "Hausgemachter Kuchen für die Pause während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Königsbacher Treff",
+            "tip": "Sörkert közvetlenül a Rajna-parton, kilátással az erődre."
+          },
+          {
+            "name": "Café Rheinanlagen",
+            "tip": "Házias sütemények a bringás pihenőhöz a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Königsbacher Treff",
+            "tip": "Grădină de vară pe malul Rinului cu vedere spre cetate."
+          },
+          {
+            "name": "Café Rheinanlagen",
+            "tip": "Prăjituri de casă pentru pauza din timpul turului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Königsbacher Treff",
+            "tip": "Beer garden right on the Rhine bank with views of the fortress."
+          },
+          {
+            "name": "Café Rheinanlagen",
+            "tip": "Homemade cakes for a break during your cycling tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Laubach",
+            "tip": "Ruhiger Abschnitt des Radwegs südlich des Schlosses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stolzenfels Schlosspark",
+            "tip": "Verwunschene Gärten rund um das Schloss.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laubach",
+            "tip": "Csendes szakasz a kerékpárúton, a kastélytól délre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stolzenfels kastélypark",
+            "tip": "Varázslatos, eldugott kertek a kastély körül.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laubach",
+            "tip": "Secțiune liniștită a pistei de biciclete la sud de castel.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parcul Stolzenfels",
+            "tip": "Grădini fermecate în jurul castelului.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Laubach",
+            "tip": "Quiet section of the bike path south of the castle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Stolzenfels Castle Park",
+            "tip": "Enchanting gardens surrounding the fairy-tale castle.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad XXL Franz",
+            "tip": "Großer Radladen für Equipment oder Mieträder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fahrrad XXL Franz",
+            "tip": "Hatalmas kerékpárbolt felszereléshez vagy bérléshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fahrrad XXL Franz",
+            "tip": "Magazin mare de biciclete pentru echipament sau închirieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fahrrad XXL Franz",
+            "tip": "Huge bike store for equipment or rental bikes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den flachen Leinpfad direkt am Fluss.",
+          "In Stolzenfels müssen Räder am Fuß des Berges geparkt werden.",
+          "Die Strecke Koblenz-Stolzenfels ist Teil des EuroVelo 15.",
+          "Vorsicht bei Fußgängern auf den Rheinanlagen."
+        ],
+        "hu": [
+          "Használd a közvetlenül a folyó mellett haladó sík vontatóutat.",
+          "Stolzenfelsnél a bringákat a hegy lábánál kell hagyni.",
+          "A Koblenz-Stolzenfels szakasz az EuroVelo 15 része.",
+          "Figyelj a gyalogosokra a Rajna-parti sétány közös szakaszain."
+        ],
+        "ro": [
+          "Folosiți poteca plană de pe malul râului.",
+          "În Stolzenfels, bicicletele trebuie parcare la baza dealului.",
+          "Traseul Koblenz-Stolzenfels face parte din EuroVelo 15.",
+          "Atenție la pietoni în zonele comune din grădinile Rinului."
+        ],
+        "en": [
+          "Use the flat towpath directly along the river.",
+          "In Stolzenfels, bikes must be parked at the bottom of the hill.",
+          "The Koblenz-Stolzenfels route is part of the EuroVelo 15.",
+          "Watch out for pedestrians on the shared Rhine garden paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Eck (Cluster A)",
+            "hu": "Deutsches Eck (A-klaszter)",
+            "ro": "Deutsches Eck (Cluster A)",
+            "en": "German Corner (Cluster A)"
+          },
+          "coords": [
+            7.605,
+            50.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Parkplatz 'Kastorhof' direkt neben dem Eck.",
+            "hu": "Parkolj a Kastorhof parkolóban, közvetlenül az emlékmű mellett.",
+            "ro": "Parcați în parcarea 'Kastorhof', situată chiar lângă monument.",
+            "en": "Park at the 'Kastorhof' parking lot right next to the corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika St. Kastor (Cluster A)",
+            "hu": "Szent Castor bazilika (A-klaszter)",
+            "ro": "Bazilica Sf. Castor (Cluster A)",
+            "en": "St. Castor Basilica (Cluster A)"
+          },
+          "coords": [
+            7.604,
+            50.363
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz am Deutschen Eck.",
+            "hu": "Rövid séta a Deutsches Eck melletti parkolótól.",
+            "ro": "Scurtă plimbare de la parcarea de lângă Deutsches Eck.",
+            "en": "Short walk from the parking lot at the German Corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Ehrenbreitstein (Cluster B)",
+            "hu": "Ehrenbreitstein erőd (B-klaszter)",
+            "ro": "Cetatea Ehrenbreitstein (Cluster B)",
+            "en": "Ehrenbreitstein Fortress (Cluster B)"
+          },
+          "coords": [
+            7.615,
+            50.364
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zum großen Festungsparkplatz oben auf dem Berg.",
+            "hu": "Hajts fel közvetlenül az erőd nagy parkolójába a hegytetőn.",
+            "ro": "Conduceți direct până la parcarea mare a cetății, pe deal.",
+            "en": "Drive directly to the large fortress parking lot on top of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungspark / Aussichtspunkt (Cluster B)",
+            "hu": "Erődpark / Kilátó (B-klaszter)",
+            "ro": "Parcul Cetății / Belvedere (Cluster B)",
+            "en": "Fortress Park / Viewpoint (Cluster B)"
+          },
+          "coords": [
+            7.618,
+            50.366
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus zu Fuß zum modernen Panoramaplattform.",
+            "hu": "A parkolótól sétatávolságra van a modern panorámaterasz.",
+            "ro": "De la parcare, mergeți pe jos până la platforma panoramică modernă.",
+            "en": "Walk from the parking lot to the modern panorama platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stolzenfels (Cluster C)",
+            "hu": "Stolzenfels-kastély (C-klaszter)",
+            "ro": "Castelul Stolzenfels (Cluster C)",
+            "en": "Stolzenfels Castle (Cluster C)"
+          },
+          "coords": [
+            7.592,
+            50.303
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie an der B9 in Stolzenfels und gehen Sie 15 Min. bergauf.",
+            "hu": "Parkolj a B9 út mentén Stolzenfelsnél, és sétálj fel 15 perc alatt.",
+            "ro": "Parcați pe B9 în Stolzenfels și urcați pe jos timp de 15 minute.",
+            "en": "Park along the B9 road in Stolzenfels and walk up for 15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stolzenfels Gärten (Cluster C)",
+            "hu": "Stolzenfels kastélykertek (C-klaszter)",
+            "ro": "Grădinile Stolzenfels (Cluster C)",
+            "en": "Stolzenfels Castle Gardens (Cluster C)"
+          },
+          "coords": [
+            7.593,
+            50.304
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Rheintal von den Schlossterrassen.",
+            "hu": "Élvezd a Rajna-völgy látványát a kastély teraszairól.",
+            "ro": "Savurați vederea asupra văii Rinului de pe terasele castelului.",
+            "en": "Enjoy the view of the Rhine valley from the castle terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt / Schängelbrunnen",
+            "hu": "Óváros / Schängel-kút",
+            "ro": "Centrul vechi / Fântâna Schängel",
+            "en": "Old Town / Schängel Fountain"
+          },
+          "coords": [
+            7.598,
+            50.361
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Görresplatz für den Altstadtbesuch.",
+            "hu": "Használd a Görresplatz alatti mélygarázst az óvárosi sétához.",
+            "ro": "Folosiți parcarea subterană de la Görresplatz pentru centrul vechi.",
+            "en": "Use the underground parking at Görresplatz for your old town walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            7.596,
+            50.361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Abschluss des Tages in den ruhigen Gassen der Altstadt.",
+            "hu": "Zárd a napot az óváros csendes, hangulatos utcáiban.",
+            "ro": "Încheiați ziua în străduțele liniștite ale centrului vechi.",
+            "en": "Finish your day in the quiet, atmospheric alleys of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt das Cluster-Prinzip, um Koblenz und seine Umgebung effizient zu erkunden. Sie parken dreimal strategisch: am Deutschen Eck für die historische Mitte, direkt auf der Festung Ehrenbreitstein für den Panoramablick und schließlich am Schloss Stolzenfels im Süden. So vermeiden Sie lange Parkplatzsuchen und erleben die Highlights stressfrei.",
+        "hu": "Ez az autós túra a klaszter-elvet követi Koblenz és környéke felfedezéséhez. Három stratégiai ponton parkolva (Deutsches Eck, Ehrenbreitstein erőd teteje, Stolzenfels-kastély) elkerülöd a folyamatos parkolókeresést. Minden megállónál gyalogosan fedezheted fel a közvetlen közelben lévő látnivalókat.",
+        "ro": "Acest tur auto utilizează principiul clusterelor pentru a explora eficient Koblenz și împrejurimile. Veți parca strategic de trei ori: la Deutsches Eck pentru centrul istoric, direct la Cetatea Ehrenbreitstein pentru panoramă și la castelul Stolzenfels în sud. Astfel evitați căutarea repetată a locurilor de parcare.",
+        "en": "This car tour uses the cluster principle to efficiently explore Koblenz and its surroundings. You'll park strategically three times: at the German Corner for the historic center, directly at the Ehrenbreitstein Fortress for the panorama, and finally at Stolzenfels Castle in the south, exploring each area on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Königsbacher Brauereiausschank",
+            "tip": "Traditionelle Küche in der Altstadt."
+          },
+          {
+            "name": "Festungsgastronomie",
+            "tip": "Einkehr mit spektakulärer Aussicht auf dem Ehrenbreitstein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Königsbacher Brauereiausschank",
+            "tip": "Hagyományos német konyha az óvárosban."
+          },
+          {
+            "name": "Festungsgastronomie",
+            "tip": "Étkezés lenyűgöző panorámával az erőd falai között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Königsbacher Brauereiausschank",
+            "tip": "Bucătărie tradițională în centrul vechi."
+          },
+          {
+            "name": "Festungsgastronomie",
+            "tip": "Restaurant cu o vedere spectaculoasă în incinta cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "Königsbacher Brauereiausschank",
+            "tip": "Traditional German cuisine in the old town."
+          },
+          {
+            "name": "Festungsgastronomie",
+            "tip": "Dine with a spectacular view within the fortress walls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stolzenfels Waldwege",
+            "tip": "Ruhige Wege rund um das Schloss.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stolzenfels erdei utak",
+            "tip": "Csendes erdei ösvények a kastély körül.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stolzenfels - poteci în pădure",
+            "tip": "Poteci liniștite în jurul castelului.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stolzenfels Forest Paths",
+            "tip": "Quiet woodland paths surrounding the castle.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Forum Mittelrhein",
+            "tip": "Modernes Shoppingcenter mit Parkhaus direkt am Platz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forum Mittelrhein",
+            "tip": "Modern bevásárlóközpont saját parkolóházzal a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forum Mittelrhein",
+            "tip": "Centru comercial modern cu parcare proprie în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forum Mittelrhein",
+            "tip": "Modern shopping mall with its own parking garage in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride Möglichkeiten außerhalb der Stoßzeiten.",
+          "Die Auffahrt zur Festung ist gut ausgeschildert (B42).",
+          "Beachten Sie die Parkverbote direkt am Rheinufer.",
+          "In Stolzenfels gibt es am Schloss selbst keine Parkplätze."
+        ],
+        "hu": [
+          "Használd a P+R lehetőségeket csúcsidőben.",
+          "Az erődhöz vezető felhajtó jól ki van táblázva (B42-es út).",
+          "Ügyelj a parkolási tilalmakra a Rajna-parti sétány közelében.",
+          "Stolzenfelsnél magánál a kastélynál tilos parkolni, csak lent a faluban."
+        ],
+        "ro": [
+          "Folosiți opțiunile P+R în orele de vârf.",
+          "Urcarea spre cetate este bine semnalizată (B42).",
+          "Atenție la restricțiile de parcare pe malul Rinului.",
+          "La Stolzenfels nu există parcare chiar lângă castel."
+        ],
+        "en": [
+          "Use P+R options during peak traffic hours.",
+          "The drive up to the fortress is well-signposted (B42).",
+          "Observe parking restrictions along the Rhine bank.",
+          "There are no parking spaces directly at Stolzenfels Castle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Deutsches Eck",
+            "hu": "Deutsches Eck",
+            "ro": "Deutsches Eck",
+            "en": "German Corner"
+          },
+          "coords": [
+            7.605,
+            50.364
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 1 hält an der Haltestelle 'Deutsches Eck'.",
+            "hu": "Az 1-es busz megáll a Deutsches Ecknél.",
+            "ro": "Linia de autobuz 1 oprește la stația 'Deutsches Eck'.",
+            "en": "Bus line 1 stops at the 'Deutsches Eck' station."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Koblenz",
+            "hu": "Koblenzi felvonó",
+            "ro": "Telecabina Koblenz",
+            "en": "Koblenz Cable Car"
+          },
+          "coords": [
+            7.603,
+            50.362
+          ],
+          "category": "natural features (viewpoints)",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Seilbahn zählt als Teil des touristischen Verkehrsnetzes.",
+            "hu": "A felvonó a turisztikai közlekedési hálózat része.",
+            "ro": "Telecabina face parte din rețeaua de transport turistic.",
+            "en": "The cable car is part of the city's tourist transport network."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Ehrenbreitstein",
+            "hu": "Ehrenbreitstein erőd",
+            "ro": "Cetatea Ehrenbreitstein",
+            "en": "Ehrenbreitstein Fortress"
+          },
+          "coords": [
+            7.615,
+            50.364
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Oben angekommen, erkunden Sie das weitläufige Gelände.",
+            "hu": "A tetőre érve fedezd fel az erőd hatalmas területét.",
+            "ro": "Odată ajunși sus, explorați terenul vast al cetății.",
+            "en": "Once at the top, explore the extensive fortress grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurfürstliches Schloss",
+            "hu": "Választófejedelmi kastély",
+            "ro": "Castelul Electoral",
+            "en": "Electoral Palace"
+          },
+          "coords": [
+            7.602,
+            50.356
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Die Haltestelle 'Schloss' wird von vielen Linien angefahren.",
+            "hu": "A 'Schloss' megállót számos buszjárat érinti.",
+            "ro": "Stația 'Schloss' este deservită de multe linii de autobuz.",
+            "en": "The 'Schloss' bus stop is served by many different lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stolzenfels",
+            "hu": "Stolzenfels-kastély",
+            "ro": "Castelul Stolzenfels",
+            "en": "Stolzenfels Castle"
+          },
+          "coords": [
+            7.592,
+            50.303
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 650 Richtung Boppard hält im Ort Stolzenfels.",
+            "hu": "A 650-es busz (Boppard felé) megáll Stolzenfels faluban.",
+            "ro": "Linia 650 spre Boppard oprește în localitatea Stolzenfels.",
+            "en": "Bus line 650 towards Boppard stops in the village of Stolzenfels."
+          }
+        },
+        {
+          "name": {
+            "de": "Schängelbrunnen",
+            "hu": "Schängel-kút",
+            "ro": "Fântâna Schängel",
+            "en": "Schängel Fountain"
+          },
+          "coords": [
+            7.598,
+            50.361
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Zentralplatz' für die Rückkehr in die Stadt.",
+            "hu": "A 'Zentralplatz' megálló a legjobb a városközpontba való visszatéréshez.",
+            "ro": "Stația 'Zentralplatz' este cea mai bună pentru revenirea în centru.",
+            "en": "The 'Zentralplatz' stop is central for returning to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Miasszonyunk-templom",
+            "ro": "Biserica Maicii Domnului",
+            "en": "Church of Our Lady"
+          },
+          "coords": [
+            7.596,
+            50.361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Zentralplatz entfernt.",
+            "hu": "Csak egy rövid séta a Zentralplatz megállótól.",
+            "ro": "La doar o scurtă plimbare de la Zentralplatz.",
+            "en": "Just a short walk from the Zentralplatz transit hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Bus- und Seilbahnnetz von Koblenz. Der Tag beginnt am Deutschen Eck, gefolgt von der Überquerung des Rheins zur Festung. Mit dem Bus erreichen Sie bequem das Kurfürstliche Schloss und das etwas außerhalb gelegene Schloss Stolzenfels. Den Abend verbringen Sie zurück in der Altstadt am Zentralplatz.",
+        "hu": "Használd ki Koblenz kiváló busz- és felvonóhálózatát. A nap a Deutsches Ecknél indul, majd a Rajna feletti átkeléssel folytatódik az erődbe. Busszal kényelmesen elérheted a választófejedelmi kastélyt és a városon kívül eső Stolzenfels-kastélyt is. Az estét a belvárosi Zentralplatz környékén zárhatod.",
+        "ro": "Profitați de rețeaua excelentă de autobuze și telecabine din Koblenz. Ziua începe la Deutsches Eck, urmată de traversarea Rinului spre cetate. Cu autobuzul ajungeți confortabil la Castelul Electoral și la castelul Stolzenfels situat în afara orașului. Seara o veți petrece în centrul vechi, lângă Zentralplatz.",
+        "en": "Make use of Koblenz's excellent bus and cable car network. Start your day at the German Corner, then cross the Rhine to the fortress. Take the bus to easily reach the Electoral Palace and the outlying Stolzenfels Castle. Finish your day back in the old town near the central transit hub at Zentralplatz."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vapiano Zentralplatz",
+            "tip": "Schnelle, moderne Küche direkt am Verkehrsknotenpunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vapiano Zentralplatz",
+            "tip": "Gyors, modern olasz konyha közvetlenül a közlekedési csomópontnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vapiano Zentralplatz",
+            "tip": "Bucătărie modernă rapidă chiar la nodul de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vapiano Zentralplatz",
+            "tip": "Fast, modern Italian cuisine right at the central transit hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kaiserin-Augusta-Anlagen",
+            "tip": "Park am Rheinufer mit Busanschluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserin-Augusta-Anlagen",
+            "tip": "Rajna-parti park jó buszközlekedéssel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserin-Augusta-Anlagen",
+            "tip": "Parc pe malul Rinului cu acces facil la autobuz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserin-Augusta-Anlagen",
+            "tip": "Riverside park with easy bus access.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Löhrstraße",
+            "tip": "Haupteinkaufsstraße, vom Zentralplatz aus direkt erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Löhrstraße",
+            "tip": "Fő bevásárlóutca, közvetlenül elérhető a Zentralplatz felől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Löhrstraße",
+            "tip": "Principala stradă comercială, accesibilă direct din Zentralplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Löhrstraße",
+            "tip": "The main shopping street, directly accessible from Zentralplatz."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die VRM-App für Live-Abfahrtszeiten herunter.",
+          "Ein Tagesticket der Preisstufe 1 reicht für das Stadtgebiet.",
+          "Die Busse fahren am Wochenende seltener nach Stolzenfels.",
+          "Die Seilbahn ist nicht im normalen Busticket enthalten."
+        ],
+        "hu": [
+          "Töltsd le a VRM alkalmazást az élő menetrendekhez.",
+          "Az 1-es zónás napijegy elég a városon belüli közlekedéshez.",
+          "A buszok hétvégén ritkábban járnak Stolzenfels felé.",
+          "A felvonóra külön jegy kell, nem érvényes rá a buszbérlet."
+        ],
+        "ro": [
+          "Descărcați aplicația VRM pentru orele de plecare în timp real.",
+          "Un bilet de o zi pentru zona 1 este suficient pentru oraș.",
+          "Autobuzele spre Stolzenfels circulă mai rar în weekend.",
+          "Telecabina nu este inclusă în biletul normal de autobuz."
+        ],
+        "en": [
+          "Download the VRM app for live departure times.",
+          "A zone 1 day ticket is sufficient for the city area.",
+          "Buses to Stolzenfels run less frequently on weekends.",
+          "The cable car is not included in the standard bus ticket."
+        ]
+      }
+    }
+  }
+}

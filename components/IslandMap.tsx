@@ -7,6 +7,7 @@ import Link from "next/link";
 import { ChevronLeft, type LucideIcon } from "lucide-react";
 import dynamic from "next/dynamic";
 import type { AvatarCompanionProps } from "@/components/AvatarCompanion";
+import { useLang } from "@/components/LanguageProvider";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -499,6 +500,11 @@ function OrbitPaths({ islands }: { islands: Island[] }) {
 /* Game panel                                                          */
 /* ------------------------------------------------------------------ */
 function GamePanel({ island, onClose }: { island: Island; onClose: () => void }) {
+  const { lang } = useLang();
+  // Static map pages live per-language at /<id>/<lang>/ (hu = root). Carry the
+  // homepage language into the map so it doesn't reset to the default.
+  const gameHref = (id: string) =>
+    id.endsWith("-map") ? `/${id}/${lang === "hu" ? "" : lang + "/"}` : `/${id}`;
   return (
     <motion.div
       className="fixed inset-0 z-40 flex items-end justify-center pointer-events-none"
@@ -544,7 +550,7 @@ function GamePanel({ island, onClose }: { island: Island; onClose: () => void })
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: i * 0.05 }}
                 >
-                  <Link href={`/${game.id}`}>
+                  <Link href={gameHref(game.id)}>
                     <div className="flex items-center gap-3 rounded-xl p-3 border border-white/5 hover:border-white/15 bg-white/5 hover:bg-white/10 transition-all active:scale-95">
                       <div className="p-2 rounded-lg" style={{ background: `${game.color}20` }}>
                         <Icon size={20} style={{ color: game.color }} />

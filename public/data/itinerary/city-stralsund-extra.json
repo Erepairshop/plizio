@@ -1,0 +1,1192 @@
+{
+  "city_id": "city-stralsund-extra",
+  "anchor": {
+    "name": "Stralsund Altes Rathaus",
+    "coords": [
+      13.0905,
+      54.3158
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sfânta Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            13.0881,
+            54.3098
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für den besten Blick über die Altstadt.",
+            "hu": "Mássz fel a toronyba a legjobb óvárosi panorámáért.",
+            "ro": "Urcați în turn pentru cea mai bună vedere asupra centrului vechi.",
+            "en": "Climb the tower for the best view over the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & St. Nikolai",
+            "hu": "Régi Városháza és Szent Miklós-templom",
+            "ro": "Primăria Veche și Biserica Sf. Nicolae",
+            "en": "Old Town Hall & St. Nicholas Church"
+          },
+          "coords": [
+            13.0905,
+            54.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schaufassade des Rathauses, ein Meisterwerk der Backsteingotik.",
+            "hu": "Csodáld meg a városháza díszes homlokzatát, a tégla-gótika remekművét.",
+            "ro": "Admirați fațada primăriei, o capodoperă a goticului de cărămidă.",
+            "en": "Admire the ornate facade of the town hall, a masterpiece of brick Gothic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kniepertor",
+            "hu": "Knieper-kapu",
+            "ro": "Poarta Knieper",
+            "en": "Knieper Gate"
+          },
+          "coords": [
+            13.0888,
+            54.3175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der letzten erhaltenen Stadttore von Stralsund.",
+            "hu": "Stralsund egyik utolsó épségben maradt városkapuja.",
+            "ro": "Una dintre ultimele porți medievale rămase ale orașului.",
+            "en": "One of the last remaining medieval city gates of Stralsund."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            13.0915,
+            54.3152
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie den originalen Stralsunder Bismarckhering.",
+            "hu": "Kóstold meg az eredeti stralsundi Bismarck-heringet.",
+            "ro": "Încercați heringul Bismarck original din Stralsund.",
+            "en": "Try the original Stralsund Bismarck herring."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozeaneum",
+            "hu": "Oceaneum",
+            "ro": "Ozeaneum",
+            "en": "Ozeaneum"
+          },
+          "coords": [
+            13.0975,
+            54.3162
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Ausstellung 'Riesen der Meere' mit Wal-Modellen ist spektakulár.",
+            "hu": "A 'Tengerek óriásai' kiállítás a bálnamodellekkel lenyűgöző.",
+            "ro": "Expoziția 'Giganții mărilor' cu modele de balene este spectaculoasă.",
+            "en": "The 'Giants of the Seas' exhibition with whale models is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorch Fock I",
+            "hu": "Gorch Fock I múzeumhajó",
+            "ro": "Nava-muzeu Gorch Fock I",
+            "en": "Gorch Fock I Museum Ship"
+          },
+          "coords": [
+            13.0988,
+            54.3175
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Segelschulschiff direkt im Hafen.",
+            "hu": "Látogasd meg a történelmi vitorlás iskolahajót a kikötőben.",
+            "ro": "Vizitați nava istorică cu pânze situată direct în port.",
+            "en": "Visit the historic sailing training ship directly in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafeninsel & Sund-Blick",
+            "hu": "Kikötő-sziget és kilátás a Sundra",
+            "ro": "Insula Portului și vedere spre Sund",
+            "en": "Harbor Island & Sund View"
+          },
+          "coords": [
+            13.1012,
+            54.3168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort, um den Blick auf die Rügenbrücke zu genießen.",
+            "hu": "Tökéletes hely a Rügen-híd látványának élvezetéhez.",
+            "ro": "Locul perfect pentru a admira podul spre insula Rügen.",
+            "en": "Perfect spot to enjoy the view of the Rügen Bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Süden der Altstadt bei der gewaltigen Marienkirche. Von dort schlendern Sie durch die UNESCO-geschützten Gassen zum Alten Markt, dem Herzstück der Stadt. Nach einem traditionellen Fischessen am Mittag tauchen Sie im Ozeaneum in die Unterwasserwelt ein. Den Nachmittag verbringen Sie auf der Hafeninsel zwischen historischen Schiffen und der modernen Silhouette der Rügenbrücke.",
+        "hu": "A nap az óváros déli részén, a hatalmas Mária-templomnál kezdődik. Innen az UNESCO védelme alatt álló utcákon sétálunk a Régi Piac térre, a város szívébe. Egy hagyományos halas ebéd után az Oceaneum vízi világában merülünk el. A délutánt a Kikötő-szigeten töltjük történelmi hajók és a Rügen-híd modern sziluettje között.",
+        "ro": "Ziua începe în sudul centrului vechi, la impozanta Biserică Sfânta Maria. De acolo, vă plimbați pe străzile protejate de UNESCO către Piața Veche, inima orașului. După un prânz tradițional cu pește, explorați lumea subacvatică la Ozeaneum. După-amiaza o petreceți pe Insula Portului, printre nave istorice și silueta modernă a podului Rügen.",
+        "en": "Your day starts in the south of the Old Town at the massive St. Mary's Church. From there, stroll through UNESCO-protected alleys to the Old Market, the heart of the city. After a traditional fish lunch, dive into the underwater world at the Ozeaneum. Spend the afternoon on the Harbor Island between historic ships and the modern silhouette of the Rügen Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischhalle Stralsund",
+            "tip": "Frische Fischbrötchen und Räucherfisch direkt am Hafen."
+          },
+          {
+            "name": "Brauquartier Stralsund",
+            "tip": "Probieren Sie lokales Störtebeker Bier in uriger Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fischhalle Stralsund",
+            "tip": "Friss halas zsemle és füstölt hal közvetlenül a kikötőben."
+          },
+          {
+            "name": "Brauquartier Stralsund",
+            "tip": "Kóstold meg a helyi Störtebeker sört hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fischhalle Stralsund",
+            "tip": "Sandvișuri cu pește proaspăt și pește afumat chiar în port."
+          },
+          {
+            "name": "Brauquartier Stralsund",
+            "tip": "Încercați berea locală Störtebeker într-o atmosferă rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fischhalle Stralsund",
+            "tip": "Fresh fish rolls and smoked fish directly at the harbor."
+          },
+          {
+            "name": "Brauquartier Stralsund",
+            "tip": "Try local Störtebeker beer in a traditional atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastion am Knieperwall",
+            "tip": "Ruhiger Spaziergang entlang der alten Stadtmauer.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Marienkirche Turm",
+            "tip": "Stille und Weite hoch über den Dächern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastion am Knieperwall",
+            "tip": "Csendes séta a régi városfal mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Marienkirche torony",
+            "tip": "Csend és tágas tér a háztetők felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastion am Knieperwall",
+            "tip": "O plimbare liniștită de-a lungul vechiului zid al cetății.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Turnul Bisericii Sf. Maria",
+            "tip": "Liniște și panoramă deasupra acoperișurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastion am Knieperwall",
+            "tip": "Quiet walk along the old city wall.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "St. Mary's Tower",
+            "tip": "Silence and vastness high above the rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ozeaneum Shop",
+            "tip": "Maritime Souvenirs und Fachliteratur."
+          },
+          {
+            "name": "Ossenreyerstraße",
+            "tip": "Haupteinkaufsstraße mit Boutiquen in historischen Häusern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ozeaneum Shop",
+            "tip": "Tengeri szuvenírek és szakirodalom."
+          },
+          {
+            "name": "Ossenreyerstraße",
+            "tip": "Fő bevásárlóutca butikokkal történelmi házakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Ozeaneum",
+            "tip": "Suveniruri maritime și literatură de specialitate."
+          },
+          {
+            "name": "Ossenreyerstraße",
+            "tip": "Principala stradă comercială cu buticuri în clădiri istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ozeaneum Shop",
+            "tip": "Maritime souvenirs and specialized literature."
+          },
+          {
+            "name": "Ossenreyerstraße",
+            "tip": "Main shopping street with boutiques in historic houses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Kopfsteinpflaster ist überall – tragen Sie bequeme Schuhe.",
+          "Die Aussicht vom Turm der Marienkirche lohnt die Anstrengung.",
+          "Ein Fischbrötchen auf der Hafeninsel gehört zum Pflichtprogramm."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, kiválóan bejárható gyalog.",
+          "Mindenhol macskakő van – viselj kényelmes cipőt.",
+          "A Mária-templom tornyából nyíló kilátás megéri az erőfeszítést.",
+          "Egy halas zsemle a kikötőben kötelező program."
+        ],
+        "ro": [
+          "Centrul vechi este foarte compact și poate fi explorat excelent la pas.",
+          "Există piatră cubică peste tot – purtați încălțăminte comodă.",
+          "Vedere din turnul Bisericii Sf. Maria merită efortul.",
+          "Un sandviș cu pește în port este obligatoriu."
+        ],
+        "en": [
+          "The Old Town is very compact and perfect for exploring on foot.",
+          "Cobblestones are everywhere – wear comfortable shoes.",
+          "The view from the tower of St. Mary's is worth the effort.",
+          "A fish roll on the Harbor Island is a must-do."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sundpromenade",
+            "hu": "Sund-sétány",
+            "ro": "Promenada Sund",
+            "en": "Sund Promenade"
+          },
+          "coords": [
+            13.0855,
+            54.3225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Herrlicher Radweg direkt am Wasser.",
+            "hu": "Gyönyörű kerékpárút közvetlenül a vízparton.",
+            "ro": "Pistă de biciclete superbă chiar pe malul apei.",
+            "en": "Beautiful bike path directly along the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Kniepertor",
+            "hu": "Knieper-kapu",
+            "ro": "Poarta Knieper",
+            "en": "Knieper Gate"
+          },
+          "coords": [
+            13.0888,
+            54.3175
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einfahrt in die historische Altstadt.",
+            "hu": "Bejárat a történelmi óvárosba.",
+            "ro": "Intrarea în centrul istoric.",
+            "en": "Entrance to the historic Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            13.0905,
+            54.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrräder am Markt kurz abstellen und Fassade bewundern.",
+            "hu": "Parkolj le a piacon és csodáld meg a homlokzatot.",
+            "ro": "Parcați bicicletele în piață și admirați fațada.",
+            "en": "Park your bikes at the market and admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafeninsel & Ozeaneum",
+            "hu": "Kikötő-sziget és Oceaneum",
+            "ro": "Insula Portului și Ozeaneum",
+            "en": "Harbor Island & Ozeaneum"
+          },
+          "coords": [
+            13.0975,
+            54.3162
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuch im Ozeaneum (Fahrradständer vorhanden).",
+            "hu": "Látogatás az Oceaneumban (kerékpártárolók vannak).",
+            "ro": "Vizită la Ozeaneum (există suporturi pentru biciclete).",
+            "en": "Visit the Ozeaneum (bike racks available)."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorch Fock I",
+            "hu": "Gorch Fock I",
+            "ro": "Gorch Fock I",
+            "en": "Gorch Fock I"
+          },
+          "coords": [
+            13.0988,
+            54.3175
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historischer Dreimaster an der Kaikante.",
+            "hu": "Történelmi háromárbócos a rakpartnál.",
+            "ro": "Navă istorică cu trei catarge la chei.",
+            "en": "Historic three-masted ship at the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Hafen)",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch (Harbor)"
+          },
+          "coords": [
+            13.0995,
+            54.3155
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Frischer Fisch direkt vom Kutter.",
+            "hu": "Friss hal közvetlenül a halászhajóról.",
+            "ro": "Pește proaspăt direct de pe vas.",
+            "en": "Fresh fish directly from the cutter."
+          }
+        },
+        {
+          "name": {
+            "de": "Rügenbrücke Viewpoint",
+            "hu": "Rügen-híd kilátópont",
+            "ro": "Punct de observație Podul Rügen",
+            "en": "Rügen Bridge Viewpoint"
+          },
+          "coords": [
+            13.1085,
+            54.3055
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Sicht auf die Pylonen der Brücke.",
+            "hu": "Látványos kilátás a híd pilléreire.",
+            "ro": "Vedere spectaculoasă asupra pilonilor podului.",
+            "en": "Spectacular view of the bridge pylons."
+          }
+        },
+        {
+          "name": {
+            "de": "Frankenteich",
+            "hu": "Frankenteich-tó",
+            "ro": "Iazul Franken",
+            "en": "Frankenteich Lake"
+          },
+          "coords": [
+            13.0955,
+            54.3065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ruhiger Abschluss der Tour am See.",
+            "hu": "A túra csendes lezárása a tónál.",
+            "ro": "Finalul liniștit al turului lângă lac.",
+            "en": "Quiet end to the tour by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie nicht nur die Altstadt, sondern auch die wunderschöne Uferpromenade am Strelasund. Die Tour führt vom Wasser durch die Stadttore ins historische Zentrum und weiter zum Hafen. Ein Highlight ist die Fahrt Richtung Rügenbrücke, wo Sie die beeindruckende Ingenieurskunst aus nächster Nähe bewundern können. Den Abschluss bildet eine entspannte Runde um den Frankenteich.",
+        "hu": "Kerékpárral nemcsak az óvárost, hanem a Strelasund gyönyörű vízparti sétányát is felfedezhetjük. A túra a víztől a városkapukon át vezet a történelmi központba, majd tovább a kikötőbe. Kiemelt pont a Rügen-híd felé vezető út, ahol közelről csodálhatjuk meg a lenyűgöző mérnöki alkotást. A napot a Frankenteich-tó körüli pihentető kör zárja.",
+        "ro": "Cu bicicleta veți explora nu doar centrul vechi, ci și frumoasa faleză de pe malul Strelasund. Turul duce de la apă prin porțile orașului în centrul istoric și mai departe spre port. Un punct forte este drumul către podul Rügen, unde puteți admira de aproape ingineria impresionantă. Finalul este marcat de o tură relaxantă în jurul lacului Frankenteich.",
+        "en": "By bike, you will explore not only the Old Town but also the beautiful promenade along the Strelasund. The tour leads from the waterfront through the city gates into the historic center and on to the harbor. A highlight is the ride towards the Rügen Bridge, where you can admire the impressive engineering up close. The trip ends with a relaxed loop around the Frankenteich lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bürgergarten",
+            "tip": "Gartenlokal mit Blick auf den Knieperteich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bürgergarten",
+            "tip": "Kerthelyiség kilátással a Knieperteich-tóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bürgergarten",
+            "tip": "Restaurant cu grădină și vedere spre lacul Knieperteich."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bürgergarten",
+            "tip": "Garden restaurant with a view of the Knieperteich lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sundpromenade Nord",
+            "tip": "Viel Platz und frische Brise.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sund-sétány észak",
+            "tip": "Tágas tér és friss szellő.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Sund Nord",
+            "tip": "Mult spațiu și briză proaspătă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sund Promenade North",
+            "tip": "Plenty of space and fresh breeze.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Stralsund",
+            "tip": "Ausrüstung und Karten für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stralsundi kerékpárbolt",
+            "tip": "Felszerelés és térképek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Stralsund",
+            "tip": "Echipament și hărți pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stralsund Bike Shop",
+            "tip": "Gear and maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege am Wasser.",
+          "In der Altstadt ist das Radfahren auf Kopfsteinpflaster anstrengend.",
+          "Achten Sie auf die Windrichtung am Sund."
+        ],
+        "hu": [
+          "Használd a jól kiépített vízparti kerékpárutakat.",
+          "Az óvárosi macskaköveken fárasztó a kerékpározás.",
+          "Figyelj a szélirányra a Sundnál."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine amenajate de-a lungul apei.",
+          "În centrul vechi, mersul pe bicicletă pe piatră cubică este obositor.",
+          "Atenție la direcția vântului pe malul strâmtorii."
+        ],
+        "en": [
+          "Use the well-developed bike paths along the water.",
+          "Cycling on cobblestones in the Old Town is tiring.",
+          "Pay attention to the wind direction at the Sund."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 18.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altefähr (Sund-Panorama)",
+            "hu": "Altefähr (Sund-panoráma)",
+            "ro": "Altefähr (Panoramă Sund)",
+            "en": "Altefähr (Sund Panorama)"
+          },
+          "coords": [
+            13.1255,
+            54.3285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Fahrt über die Rügenbrücke für den besten Blick auf die Skyline von Stralsund.",
+            "hu": "Hajts át a Rügen-hídon a legjobb stralsundi panorámáért.",
+            "ro": "Traversați podul Rügen pentru cea mai bună vedere asupra orașului Stralsund.",
+            "en": "Drive across the Rügen Bridge for the best view of the Stralsund skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus am Hafen (Cluster Start)",
+            "hu": "Parkolóház a kikötőnél",
+            "ro": "Parcare în port",
+            "en": "Harbor Parking Garage"
+          },
+          "coords": [
+            13.0965,
+            54.3145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für den Altstadt-Cluster.",
+            "hu": "Központi parkoló az óvárosi felfedezéshez.",
+            "ro": "Parcare centrală pentru explorarea centrului vechi.",
+            "en": "Central parking for the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus & Nikolai",
+            "hu": "Régi Városháza és Szent Miklós",
+            "ro": "Primăria Veche și Sf. Nicolae",
+            "en": "Old Town Hall & St. Nicholas"
+          },
+          "coords": [
+            13.0905,
+            54.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkhaus zum Markt (500m).",
+            "hu": "Gyalog a parkolóháztól a piacig (500m).",
+            "ro": "Pe jos de la parcare la piață (500m).",
+            "en": "Walk from the parking garage to the market (500m)."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Altstadt)",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch (Old Town)"
+          },
+          "coords": [
+            13.0915,
+            54.3152
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rustikale hanseatische Küche genießen.",
+            "hu": "Élvezd a rusztikus hanza konyhát.",
+            "ro": "Bucurați-vă de bucătăria hanseatică rustică.",
+            "en": "Enjoy rustic Hanseatic cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozeaneum",
+            "hu": "Oceaneum",
+            "ro": "Ozeaneum",
+            "en": "Ozeaneum"
+          },
+          "coords": [
+            13.0975,
+            54.3162
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe des Parkhauses.",
+            "hu": "Egészen közel a parkolóházhoz.",
+            "ro": "Foarte aproape de parcare.",
+            "en": "Very close to the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorch Fock I",
+            "hu": "Gorch Fock I",
+            "ro": "Gorch Fock I",
+            "en": "Gorch Fock I"
+          },
+          "coords": [
+            13.0988,
+            54.3175
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Maritimes Erbe an der Kaikante.",
+            "hu": "Tengeri örökség a rakpartnál.",
+            "ro": "Moștenire maritimă la malul apei.",
+            "en": "Maritime heritage at the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Devin (Sund-Blick Süd)",
+            "hu": "Devin (Sund-kilátás dél)",
+            "ro": "Devin (Vedere Sund Sud)",
+            "en": "Devin (Sund View South)"
+          },
+          "coords": [
+            13.1285,
+            54.2755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ruhiges Naturschutzgebiet im Süden der Stadt.",
+            "hu": "Csendes természetvédelmi terület a város déli részén.",
+            "ro": "Rezervație naturală liniștită în sudul orașului.",
+            "en": "Quiet nature reserve in the south of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Stralsund mit den besten Panorama-Aussichten. Sie beginnen mit einer Fahrt über die beeindruckende Rügenbrücke nach Altefähr, um die berühmte Skyline zu fotografieren. Danach parken Sie zentral am Hafen und erkunden zu Fuß das UNESCO-Welterbe der Altstadt und das Ozeaneum. Zum Abschluss fahren Sie ins grüne Devin für einen ruhigen Blick über den Strelasund.",
+        "hu": "Ez az autós túra Stralsund nevezetességeit a legjobb panorámákkal ötvözi. A napot a lenyűgöző Rügen-hídon átkelve Altefährben kezdjük, hogy lefotózzuk a híres sziluettet. Ezután központi helyen, a kikötőben parkolunk le, és gyalog fedezzük fel az UNESCO Világörökség részét képező óvárost és az Oceaneumot. Végezetül a zöldellő Devinbe autózunk a Strelasund feletti csendes kilátásért.",
+        "ro": "Acest tur auto combină atracțiile principale din Stralsund cu cele mai bune panorame. Începeți cu o traversare a podului Rügen către Altefähr pentru a fotografia celebra siluetă a orașului. Apoi, parcați central în port și explorați la pas centrul vechi aflat în patrimoniul UNESCO și Ozeaneum. La final, conduceți către zona verde Devin pentru o vedere liniștită asupra strâmtorii Strelasund.",
+        "en": "This car tour combines the highlights of Stralsund with the best panoramic views. You start with a drive across the impressive Rügen Bridge to Altefähr to photograph the famous skyline. Then, park centrally at the harbor and explore the UNESCO World Heritage Old Town and the Ozeaneum on foot. Finally, drive to green Devin for a quiet view over the Strelasund."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Alter Fritz",
+            "tip": "Traditionelle Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alter Fritz étterem",
+            "tip": "Hagyományos konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Alter Fritz",
+            "tip": "Bucătărie tradițională într-un ambient istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Alter Fritz",
+            "tip": "Traditional cuisine in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deviner Seeufer",
+            "tip": "Natur pur fernab der Touristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Devin-part",
+            "tip": "Tiszta természet a turistaáradattól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul mării la Devin",
+            "tip": "Natură pură departe de fluxul de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Devin Waterfront",
+            "tip": "Pure nature far from the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strelapark",
+            "tip": "Großes Einkaufszentrum am Stadtrand mit Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strelapark",
+            "tip": "Nagy bevásárlóközpont a város szélén, sok parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strelapark",
+            "tip": "Centru comercial mare la marginea orașului cu locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Strelapark",
+            "tip": "Large shopping center on the outskirts with parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser 'Am Ozeaneum' oder 'Am Markt'.",
+          "Die Rügenbrücke ist mautfrei.",
+          "Die Altstadt ist teilweise für den Durchgangsverkehr gesperrt."
+        ],
+        "hu": [
+          "Használd az 'Am Ozeaneum' vagy 'Am Markt' parkolóházakat.",
+          "A Rügen-híd használata ingyenes.",
+          "Az óváros egy része le van zárva az áthaladó forgalom elől."
+        ],
+        "ro": [
+          "Folosiți parcările supraetajate 'Am Ozeaneum' sau 'Am Markt'.",
+          "Podul Rügen este fără taxă.",
+          "Centrul vechi este parțial închis traficului de tranzit."
+        ],
+        "en": [
+          "Use the parking garages 'Am Ozeaneum' or 'Am Markt'.",
+          "The Rügen Bridge is toll-free.",
+          "Parts of the Old Town are closed to transit traffic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptbahnhof & St. Marien",
+            "hu": "Főpályaudvar és Szent Mária-templom",
+            "ro": "Gara Centrală și Sf. Maria",
+            "en": "Main Station & St. Mary's"
+          },
+          "coords": [
+            13.0881,
+            54.3098
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt direkt am Bahnhof.",
+            "hu": "Kiindulópont közvetlenül a vasútállomásnál.",
+            "ro": "Punct de plecare chiar lângă gară.",
+            "en": "Starting point directly at the train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Markt (Bus-Hop)",
+            "hu": "Régi Piac tér (buszos átszállás)",
+            "ro": "Piața Veche (Bus-Hop)",
+            "en": "Old Market (Bus Hop)"
+          },
+          "coords": [
+            13.0905,
+            54.3158
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 1 oder 4 vom Bahnhof zum Olof-Palme-Platz.",
+            "hu": "1-es vagy 4-es busz az állomástól az Olof-Palme-Platzig.",
+            "ro": "Linia de autobuz 1 sau 4 de la gară la Olof-Palme-Platz.",
+            "en": "Bus line 1 or 4 from the station to Olof-Palme-Platz."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Altstadt)",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch (Old Town)"
+          },
+          "coords": [
+            13.0915,
+            54.3152
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Markt.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare de la piață.",
+            "en": "Short walk from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozeaneum",
+            "hu": "Oceaneum",
+            "ro": "Ozeaneum",
+            "en": "Ozeaneum"
+          },
+          "coords": [
+            13.0975,
+            54.3162
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß durch die Altstadt zum Hafen.",
+            "hu": "Gyalog az óvároson át a kikötőig.",
+            "ro": "Pe jos prin centrul vechi până la port.",
+            "en": "Walk through the Old Town to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorch Fock I",
+            "hu": "Gorch Fock I",
+            "ro": "Gorch Fock I",
+            "en": "Gorch Fock I"
+          },
+          "coords": [
+            13.0988,
+            54.3175
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historisches Schiff am Nordmole-Anleger.",
+            "hu": "Történelmi hajó az északi mólónál.",
+            "ro": "Navă istorică la debarcaderul digului de nord.",
+            "en": "Historic ship at the North Mole pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafeninsel (Bus zurück)",
+            "hu": "Kikötő-sziget (busz vissza)",
+            "ro": "Insula Portului (Bus înapoi)",
+            "en": "Harbor Island (Bus back)"
+          },
+          "coords": [
+            13.0975,
+            54.3145
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:05",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buslinie 1 vom Hafen zurück zum Bahnhof.",
+            "hu": "1-es busz a kikötőtől vissza a vasútállomáshoz.",
+            "ro": "Linia de autobuz 1 de la port înapoi la gară.",
+            "en": "Bus line 1 from the harbor back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bequem mit Bahn und Bus entdecken Sie die Highlights Stralsunds. Vom Bahnhof führt der Weg zur Marienkirche und per Bus direkt ins Zentrum zum Alten Markt. Nach einem Bummel durch die historischen Gassen und dem Besuch im Ozeaneum bringt Sie der Bus entspannt wieder zum Bahnhof zurück. Ideal für Reisende ohne Auto.",
+        "hu": "Vonattal és busszal kényelmesen fedezhetjük fel Stralsund nevezetességeit. Az állomástól a Mária-templomhoz vezet az út, majd busszal egyenesen a központba, a Régi Piac térre. A történelmi utcák felfedezése és az Oceaneum meglátogatása után a busz pihentetően szállít vissza az állomásra. Ideális autó nélkül utazóknak.",
+        "ro": "Descoperiți atracțiile din Stralsund confortabil cu trenul și autobuzul. De la gară, drumul duce la Biserica Sf. Maria, iar de acolo cu autobuzul direct în centru, la Piața Veche. După o plimbare pe străzile istorice și o vizită la Ozeaneum, autobuzul vă aduce relaxat înapoi la gară. Ideal pentru călătorii fără mașină.",
+        "en": "Discover the highlights of Stralsund comfortably by train and bus. From the station, the path leads to St. Mary's Church and then by bus directly to the center at the Old Market. After strolling through the historic alleys and visiting the Ozeaneum, the bus takes you back to the station relaxed. Ideal for travelers without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Back-Factory",
+            "tip": "Schneller Snack direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Back-Factory",
+            "tip": "Gyors snack közvetlenül az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Back-Factory",
+            "tip": "Gustare rapidă chiar la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Back-Factory",
+            "tip": "Quick snack directly at the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Marien-Kirche Innenraum",
+            "tip": "Stille Oase im gotischen Gewölbe.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mária-templom belső tér",
+            "tip": "Csendes oázis a gótikus boltívek alatt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Bisericii Sf. Maria",
+            "tip": "Oază de liniște sub bolțile gotice.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mary's Interior",
+            "tip": "Quiet oasis under the Gothic vaults.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbuchhandlung",
+            "tip": "Reiselektüre und Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari könyvesbolt",
+            "tip": "Úti olvasmányok és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria din gară",
+            "tip": "Lectură de călătorie și ziare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bookstore",
+            "tip": "Travel reading and newspapers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtbus.",
+          "Die Linie 1 verbindet Hbf, Markt und Hafen.",
+          "Busse fahren tagsüber im 15-Minuten-Takt."
+        ],
+        "hu": [
+          "Vegyél napijegyet a városi buszra.",
+          "Az 1-es vonal összeköti a pályaudvart, a piacot és a kikötőt.",
+          "A buszok napközben 15 percenként járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul urban.",
+          "Linia 1 conectează gara, piața și portul.",
+          "Autobuzele circulă la fiecare 15 minute în timpul zilei."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus.",
+          "Line 1 connects the main station, market, and harbor.",
+          "Buses run every 15 minutes during the day."
+        ]
+      }
+    }
+  }
+}

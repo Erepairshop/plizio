@@ -1,0 +1,1176 @@
+{
+  "city_id": "germany-plauen-cities-v2",
+  "anchor": {
+    "name": "Altmarkt Plauen",
+    "coords": [
+      50.4947,
+      12.1356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.4947,
+            12.1356
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Achten Sie auf die astronomische Kunstuhr von 1548 am Giebel.",
+            "hu": "Nézze meg az 1548-ból származó csillagászati órát az oromzaton.",
+            "ro": "Admirați ceasul astronomic din 1548 de pe fronton.",
+            "en": "Look for the astronomical clock from 1548 on the gable."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            50.4945,
+            12.1368
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Die Doppeltürme sind das weithin sichtbare Wahrzeichen der Stadt.",
+            "hu": "A kettős torony a város messziről látható jelképe.",
+            "ro": "Turnurile gemene sunt simbolul orașului, vizibile de la distanță.",
+            "en": "The twin towers are the city's landmark, visible from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonnenturm",
+            "hu": "Apáca-torony",
+            "ro": "Turnul Călugărițelor",
+            "en": "Nuns' Tower"
+          },
+          "coords": [
+            50.4941,
+            12.1339
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Überrest der mittelalterlichen Stadtbefestigung nahe dem Malzhaus.",
+            "hu": "A középkori városfal maradványa a Malzhaus közelében.",
+            "ro": "Un vestigiu al fortificațiilor medievale de lângă Malzhaus.",
+            "en": "A remnant of the medieval city walls near the Malzhaus."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogtlandmuseum",
+            "hu": "Vogtland Múzeum",
+            "ro": "Muzeul Vogtland",
+            "en": "Vogtland Museum"
+          },
+          "coords": [
+            50.4955,
+            12.1336
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Abteilung zur berühmten Plauener Spitze.",
+            "hu": "Látogassa meg a híres plaueni csipke kiállítást.",
+            "ro": "Vizitați secțiunea dedicată celebrei dantele de Plauen.",
+            "en": "Visit the section dedicated to the famous Plauen lace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause am Malzhaus",
+            "hu": "Ebédszünet a Malzhausnál",
+            "ro": "Pauză de prânz la Malzhaus",
+            "en": "Lunch break at Malzhaus"
+          },
+          "coords": [
+            50.4935,
+            12.1328
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Historisches Gebäude, heute ein Zentrum für Folk und Jazz.",
+            "hu": "Történelmi épület, ma népzenei és jazz központ.",
+            "ro": "Clădire istorică, astăzi centru pentru muzică folk și jazz.",
+            "en": "Historical building, now a center for folk and jazz music."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke",
+            "hu": "Béke-híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            50.4912,
+            12.1285
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der größten Steinbogenbrücken Europas mit tollem Blick ins Tal.",
+            "hu": "Európa egyik legnagyobb kőívhídja, remek kilátással a völgyre.",
+            "ro": "Unul dintre cele mai mari poduri de piatră din Europa, cu vedere la vale.",
+            "en": "One of Europe's largest stone arch bridges with great valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            50.4985,
+            12.1412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie am Schwanenteich zum Abschluss des Tages.",
+            "hu": "Pihenjen a Hattyú-tónál a nap végén.",
+            "ro": "Relaxați-vă lângă lacul lebedelor la finalul zilei.",
+            "en": "Relax by the swan pond at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Altmarkt, wo das Alte Rathaus mit seiner astronomischen Uhr beeindruckt. Nach dem Besuch der Johanniskirche tauchen Sie im Vogtlandmuseum in die Welt der Textilkunst ein. Nach einer gemütlichen Pause am Malzhaus spazieren Sie zur imposanten Friedensbrücke und lassen den Tag entspannt im weitläufigen Stadtpark ausklingen.",
+        "hu": "A nap az óvárosi főtéren kezdődik, ahol a csillagászati órás városháza várja. A Szent János-templom megtekintése után a Vogtland Múzeumban ismerkedhet meg a csipkegyártás titkaival. A Malzhaus környékén elfogyasztott ebéd után tegyen egy sétát a hatalmas Béke-hídhoz, végül pihenjen meg a városliget zöldjében a Hattyú-tó partján.",
+        "ro": "Ziua începe în piața centrală istorică, unde vechea primărie impresionează prin ceasul său astronomic. După o vizită la Biserica Sf. Ioan, explorați arta textilă la Muzeul Vogtland. După o pauză relaxantă la Malzhaus, mergeți către impunătorul Pod al Păcii și încheiați ziua cu o plimbare liniștită prin parcul central al orașului.",
+        "en": "Your day starts at the historical market square, where the Old Town Hall impresses with its astronomical clock. After visiting St. John's Church, dive into the world of textile art at the Vogtland Museum. Following a cozy break at the Malzhaus, walk to the impressive Peace Bridge and finish your day relaxing in the spacious City Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Matsch - Eine echte Plauener Kneipe",
+            "tip": "Probieren Sie die vogtländischen Bambes (Kartoffel-Puffer)."
+          },
+          {
+            "name": "Restaurant im Malzhaus",
+            "tip": "Regionale Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matsch - Egy igazi plaueni kocsma",
+            "tip": "Kóstolja meg a vogtlandi Bambes-t (tócsni)."
+          },
+          {
+            "name": "Malzhaus Étterem",
+            "tip": "Regionális konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Matsch - O tavernă autentică",
+            "tip": "Încercați preparatul local Bambes (clătite de cartofi)."
+          },
+          {
+            "name": "Restaurant Malzhaus",
+            "tip": "Bucătărie regională într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Matsch - Authentic Plauen Pub",
+            "tip": "Try the Vogtland 'Bambes' (potato pancakes)."
+          },
+          {
+            "name": "Malzhaus Restaurant",
+            "tip": "Regional cuisine in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schwanenteich im Stadtpark",
+            "tip": "Ruhiges Plätzchen am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Johanniskirchplatz",
+            "tip": "Stille Ecke hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hattyú-tó a városligetben",
+            "tip": "Csendes hely a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Johanniskirchplatz",
+            "tip": "Nyugodt sarok a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Lebedelor",
+            "tip": "Un loc liniștit lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Bisericii Sf. Ioan",
+            "tip": "Colț liniștit în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Swan Pond in Stadtpark",
+            "tip": "Quiet spot by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Johanniskirchplatz",
+            "tip": "Peaceful corner behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Plauener Spitze Schaustickerei",
+            "tip": "Echte Plauener Spitze als Souvenir kaufen."
+          },
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Modernes Einkaufszentrum im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plaueni Csipke Bemutatóterem",
+            "tip": "Vásároljon eredeti plaueni csipkét szuvenírnek."
+          },
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Modern bevásárlóközpont a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierul de Dantelă",
+            "tip": "Cumpărați dantelă autentică de Plauen ca suvenir."
+          },
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Centru comercial modern în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plauen Lace Show Embroidery",
+            "tip": "Buy authentic Plauen lace as a souvenir."
+          },
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Modern shopping mall in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und sehr gut zu Fuß erreichbar.",
+          "Achten Sie auf die kleinen 'Vater und Sohn'-Skulpturen in der Stadt.",
+          "Das Vogtlandmuseum ist montags meist geschlossen.",
+          "Die Friedensbrücke bietet den besten Fotopunkt für das Syratal."
+        ],
+        "hu": [
+          "A belváros kompakt, minden fontos látnivaló elérhető gyalog.",
+          "Keresse a városban a híres 'Apa és Fia' szobrokat.",
+          "A Vogtland Múzeum hétfőnként általában zárva tart.",
+          "A Béke-hídról nyílik a legjobb kilátás a Syra-völgyre."
+        ],
+        "ro": [
+          "Centrul orașului este compact și ușor de explorat la pas.",
+          "Căutați micile sculpturi 'Tatăl și Fiul' prin oraș.",
+          "Muzeul Vogtland este de obicei închis lunea.",
+          "Podul Păcii oferă cel mai bun punct de belvedere asupra văii Syra."
+        ],
+        "en": [
+          "The city center is compact and very walkable.",
+          "Look out for the 'Father and Son' sculptures around the city.",
+          "The Vogtland Museum is usually closed on Mondays.",
+          "The Peace Bridge offers the best photo opportunity for the Syra valley."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.4947,
+            12.1356
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für Ihre Radtour durch die Stadt.",
+            "hu": "Tökéletes kiindulópont a városi kerékpártúrához.",
+            "ro": "Punct de plecare perfect pentru turul cu bicicleta.",
+            "en": "Perfect starting point for your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bärenstein",
+            "hu": "Bärenstein-kilátó",
+            "ro": "Bärenstein",
+            "en": "Bärenstein"
+          },
+          "coords": [
+            50.5065,
+            12.1312
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Aussichtsturm für den besten Panoramablick.",
+            "hu": "Tekerjen fel a kilátóhoz a legjobb panorámáért.",
+            "ro": "Mergeți la turnul de observație pentru cea mai bună panoramă.",
+            "en": "Ride to the observation tower for the best panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            50.4985,
+            12.1412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Schöne Radwege führen einmal quer durch den Park.",
+            "hu": "Szép kerékpárutak vezetnek keresztül a parkon.",
+            "ro": "Piste de biciclete frumoase traversează întregul parc.",
+            "en": "Beautiful bike paths lead right through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Pauluskirche",
+            "hu": "Pál-templom",
+            "ro": "Biserica Sf. Paul",
+            "en": "St. Paul's Church"
+          },
+          "coords": [
+            50.4895,
+            12.1385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Imposanter neugotischer Backsteinbau im Süden der Stadt.",
+            "hu": "Impozáns neogótikus téglaépület a város déli részén.",
+            "ro": "Clădire neogotică impunătoare din cărămidă în sudul orașului.",
+            "en": "Impressive neo-Gothic brick building in the south of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke",
+            "hu": "Béke-híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            50.4912,
+            12.1285
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Das Überqueren der Brücke mit dem Rad ist ein Erlebnis.",
+            "hu": "A hídon való átkelés kerékpárral nagy élmény.",
+            "ro": "Traversarea podului cu bicicleta este o experiență deosebită.",
+            "en": "Crossing the bridge by bike is a great experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherkirche",
+            "hu": "Luther-templom",
+            "ro": "Biserica Luther",
+            "en": "Luther Church"
+          },
+          "coords": [
+            50.4952,
+            12.1255
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Markante Kirche im Stadtteil Haselbrunn.",
+            "hu": "Jellegzetes templom a Haselbrunn negyedben.",
+            "ro": "Biserică marcantă în cartierul Haselbrunn.",
+            "en": "Striking church in the Haselbrunn district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Plauen sportlich mit dem Rad. Vom Altmarkt aus geht es bergauf zum Bärenstein, wo Sie mit einer Aussicht über das gesamte Vogtland belohnt werden. Durch den Stadtpark radeln Sie zur neugotischen Pauluskirche und überqueren schließlich die monumentale Friedensbrücke, bevor die Tour im Westen der Stadt endet.",
+        "hu": "Fedezze fel Plauent sportosan, kerékpárral. Az óvárosból felfelé indulunk a Bärenstein-hez, ahol az egész Vogtlandra kiterjedő kilátás a jutalom. A városligeten áttekerve érjük el a neogótikus Pál-templomot, majd átkelünk a monumentális Béke-hídon, mielőtt a túra a város nyugati részén véget érne.",
+        "ro": "Descoperiți Plauen într-un mod activ, cu bicicleta. Din piața centrală urcați spre Bärenstein, unde veți fi răsplătiți cu o vedere panoramică asupra regiunii Vogtland. Pedalați prin parcul orașului către biserica neogotică Sf. Paul și traversați monumentalul Pod al Păcii înainte de a încheia turul.",
+        "en": "Discover Plauen actively by bike. From the Old Market, head uphill to Bärenstein, where you'll be rewarded with a view over the entire Vogtland region. Cycle through the City Park to the neo-Gothic St. Paul's Church and cross the monumental Peace Bridge before finishing the tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bärenstein-Gasthof",
+            "tip": "Deftige Küche direkt am Aussichtsturm."
+          },
+          {
+            "name": "Eiscafé am Stadtpark",
+            "tip": "Perfekter Stopp für eine süße Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bärenstein Vendéglő",
+            "tip": "Házias konyha közvetlenül a kilátónál."
+          },
+          {
+            "name": "Eiscafé am Stadtpark",
+            "tip": "Tökéletes megálló egy édes frissítőre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bärenstein-Gasthof",
+            "tip": "Mâncare consistentă chiar lângă turn."
+          },
+          {
+            "name": "Eiscafé am Stadtpark",
+            "tip": "Oprire perfectă pentru o gustare dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bärenstein Gasthof",
+            "tip": "Hearty cuisine right by the observation tower."
+          },
+          {
+            "name": "Ice Cream Café at Stadtpark",
+            "tip": "Perfect stop for a sweet refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bärenstein Waldwege",
+            "tip": "Ruhige Wege abseits der Straßen.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bärenstein erdei utak",
+            "tip": "Csendes utak távol a forgalomtól.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările din pădurea Bärenstein",
+            "tip": "Trasee liniștite departe de trafic.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bärenstein Forest Paths",
+            "tip": "Quiet paths away from the traffic.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vogtland-Rad",
+            "tip": "Lokaler Fahrradladen für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vogtland-Rad",
+            "tip": "Helyi kerékpárbolt kiegészítőkért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vogtland-Rad",
+            "tip": "Magazin local de biciclete pentru accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vogtland-Rad",
+            "tip": "Local bike shop for accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Plauen ist hügelig, ein E-Bike ist für den Bärenstein empfehlenswert.",
+          "Fahrradständer gibt es direkt am Altmarkt."
+        ],
+        "hu": [
+          "Plauen dombos, a Bärenstein-hez érdemes elektromos kerékpárt használni.",
+          "Kerékpártárolók közvetlenül a főtéren találhatók."
+        ],
+        "ro": [
+          "Plauen este deluros, o bicicletă electrică este recomandată pentru Bärenstein.",
+          "Există rastele pentru biciclete chiar în piața centrală."
+        ],
+        "en": [
+          "Plauen is hilly, an e-bike is recommended for the Bärenstein climb.",
+          "Bike racks are available directly at the Old Market."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Altstadt: Altes Rathaus",
+            "hu": "Óváros: Régi Városháza",
+            "ro": "Centrul Vechi: Primăria Veche",
+            "en": "Old Town Cluster: Old Town Hall"
+          },
+          "coords": [
+            50.4947,
+            12.1356
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Stadt-Galerie (Zentrum).",
+            "hu": "Parkoljon a Stadt-Galerie parkolóházában.",
+            "ro": "Parcați în parcarea Stadt-Galerie din centru.",
+            "en": "Park at the Stadt-Galerie parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            50.4945,
+            12.1368
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Rathaus entfernt.",
+            "hu": "Csak egy rövid séta a városházától.",
+            "ro": "La doar o scurtă plimbare de primărie.",
+            "en": "Just a short walk from the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogtlandmuseum",
+            "hu": "Vogtland Múzeum",
+            "ro": "Muzeul Vogtland",
+            "en": "Vogtland Museum"
+          },
+          "coords": [
+            50.4955,
+            12.1336
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte in der Altstadt.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló az óvárosban.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie.",
+            "en": "A must-see for history buffs in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Syratal: Friedensbrücke",
+            "hu": "Syratal: Béke-híd",
+            "ro": "Syratal: Podul Păcii",
+            "en": "Syra Valley Cluster: Peace Bridge"
+          },
+          "coords": [
+            50.4912,
+            12.1285
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Brücke vorhanden.",
+            "hu": "Parkoló közvetlenül a hídnál található.",
+            "ro": "Parcare disponibilă chiar lângă pod.",
+            "en": "Parking available directly at the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Malzhaus",
+            "hu": "Ebéd a Malzhausnál",
+            "ro": "Prânz la Malzhaus",
+            "en": "Lunch at Malzhaus"
+          },
+          "coords": [
+            50.4935,
+            12.1328
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie regionale Spezialitäten im Kellergewölbe.",
+            "hu": "Élvezze a helyi ételeket a boltozatos pincében.",
+            "ro": "Savurați specialități regionale în pivnița boltită.",
+            "en": "Enjoy regional specialties in the vaulted cellar."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Park: Stadtpark",
+            "hu": "Park övezet: Városliget",
+            "ro": "Zona Parcului: Parcul Orașului",
+            "en": "Park Cluster: City Park"
+          },
+          "coords": [
+            50.4985,
+            12.1412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz an der Hofer Straße.",
+            "hu": "Használja a Hofer Straße melletti parkolót.",
+            "ro": "Folosiți parcarea de pe Hofer Straße.",
+            "en": "Use the parking lot at Hofer Straße."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Aussicht: Bärenstein",
+            "hu": "Kilátó övezet: Bärenstein",
+            "ro": "Zona de Belveder: Bärenstein",
+            "en": "Viewpoint Cluster: Bärenstein"
+          },
+          "coords": [
+            50.5065,
+            12.1312
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt bis direkt zum Turm möglich.",
+            "hu": "Közvetlenül a toronyig fel lehet hajtani.",
+            "ro": "Se poate conduce până chiar lângă turn.",
+            "en": "You can drive right up to the tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die historischen Highlights im Zentrum mit den besten Aussichtspunkten der Stadt. Nach einem Spaziergang durch die Altstadt fahren Sie zur monumentalen Friedensbrücke. Nach einem stärkenden Mittagessen geht es weiter zum Stadtpark und schließlich hinauf zum Bärenstein, von wo aus Sie das gesamte Vogtland überblicken können.",
+        "hu": "Ez az autós túra ötvözi a központi történelmi emlékeket a város legjobb kilátópontjaival. Az óvárosi séta után a monumentális Béke-hídhoz hajtunk. Egy bőséges ebéd után a városliget következik, végül pedig felautózunk a Bärenstein-hez, ahonnan belátni az egész Vogtlandot.",
+        "ro": "Acest tur cu mașina îmbină punctele istorice din centru cu cele mai bune panorame ale orașului. După o plimbare prin centrul vechi, conduceți către monumentalul Pod al Păcii. După un prânz consistent, continuați spre parcul orașului și, în final, urcați la Bärenstein pentru o vedere de ansamblu asupra întregii regiuni.",
+        "en": "This car tour combines the historical highlights of the center with the city's best viewpoints. After a walk through the old town, drive to the monumental Peace Bridge. After a hearty lunch, continue to the City Park and finally drive up to the Bärenstein for a panoramic view of the entire Vogtland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altes Handelshaus",
+            "tip": "Traditionelles Restaurant in einem der ältesten Häuser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altes Handelshaus",
+            "tip": "Tradicionális étterem az egyik legrégebbi házban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altes Handelshaus",
+            "tip": "Restaurant tradițional într-una dintre cele mai vechi case."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altes Handelshaus",
+            "tip": "Traditional restaurant in one of the oldest houses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtsturm Bärenstein",
+            "tip": "Weitblick und Ruhe über den Dächern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bärenstein-kilátó",
+            "tip": "Kilátás és nyugalom a háztetők felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Bärenstein",
+            "tip": "Vedere panoramică și liniște deasupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bärenstein Tower",
+            "tip": "Wide views and peace above the rooftops.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Große Auswahl und bequemes Parken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Nagy választék és kényelmes parkolás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Gamă largă de produse și parcare facilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadt-Galerie Plauen",
+            "tip": "Great variety and convenient parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkhäuser im Zentrum sind günstig und gut ausgeschildert.",
+          "In der Blauen Stunde ist der Blick vom Bärenstein besonders schön."
+        ],
+        "hu": [
+          "A központi parkolóházak olcsók és jól ki vannak táblázva.",
+          "A kék órában a kilátás a Bärenstein-ről különösen szép."
+        ],
+        "ro": [
+          "Parcările etajate din centru sunt accesibile și bine semnalizate.",
+          "Vedere de la Bärenstein este superbă în 'ora albastră'."
+        ],
+        "en": [
+          "Parking garages in the center are affordable and well-signed.",
+          "The view from Bärenstein is especially beautiful during the blue hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altmarkt (Zentrum)",
+            "hu": "Altmarkt (Központ)",
+            "ro": "Piața Veche (Centru)",
+            "en": "Altmarkt (Center)"
+          },
+          "coords": [
+            50.4947,
+            12.1356
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Knotenpunkt fast aller Straßenbahnlinien.",
+            "hu": "Szinte minden villamosvonal csomópontja.",
+            "ro": "Punct de legătură pentru aproape toate liniile de tramvai.",
+            "en": "Hub for almost all tram lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            50.4945,
+            12.1368
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Altmarkt.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "O scurtă plimbare din piața centrală.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogtlandmuseum",
+            "hu": "Vogtland Múzeum",
+            "ro": "Muzeul Vogtland",
+            "en": "Vogtland Museum"
+          },
+          "coords": [
+            50.4955,
+            12.1336
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich im historischen Nobelshof.",
+            "hu": "A történelmi Nobelshof épületében található.",
+            "ro": "Situat în clădirea istorică Nobelshof.",
+            "en": "Located in the historical Nobelshof building."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke",
+            "hu": "Béke-híd",
+            "ro": "Podul Păcii",
+            "en": "Peace Bridge"
+          },
+          "coords": [
+            50.4912,
+            12.1285
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mit der Tram bis Haltestelle 'Friedensbrücke'.",
+            "hu": "Villamossal a 'Friedensbrücke' megállóig.",
+            "ro": "Luați tramvaiul până la stația 'Friedensbrücke'.",
+            "en": "Take the tram to the 'Friedensbrücke' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Malzhaus",
+            "hu": "Malzhaus",
+            "ro": "Malzhaus",
+            "en": "Malzhaus"
+          },
+          "coords": [
+            50.4935,
+            12.1328
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Tunnelgraben aus gut zu Fuß erreichbar.",
+            "hu": "A Tunnelgraben felől gyalog könnyen elérhető.",
+            "ro": "Accesibil pe jos din zona Tunnelgraben.",
+            "en": "Easily accessible on foot from Tunnelgraben."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            50.4985,
+            12.1412
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Straßenbahn bis 'Stadtpark' nutzen.",
+            "hu": "Használja a villamost a 'Stadtpark' megállóig.",
+            "ro": "Luați tramvaiul până la stația 'Stadtpark'.",
+            "en": "Take the tram to the 'Stadtpark' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die traditionsreiche Plauener Straßenbahn, um die Stadt stressfrei zu erkunden. Starten Sie im Zentrum am Altmarkt, besichtigen Sie das Vogtlandmuseum und fahren Sie dann bequem mit der Tram zur imposanten Friedensbrücke. Den Nachmittag verbringen Sie im Stadtpark, bevor Sie mit der Bahn zurück ins Zentrum fahren.",
+        "hu": "Használja a nagy múltú plaueni villamost a város stresszmentes felfedezéséhez. Kezdjen a központi főtéren, látogassa meg a Vogtland Múzeumot, majd utazzon kényelmesen a villamossal a monumentális Béke-hídhoz. A délutánt töltse a városligetben, mielőtt visszatérne a központba.",
+        "ro": "Folosiți tramvaiul tradițional din Plauen pentru a explora orașul fără stres. Începeți în piața centrală, vizitați Muzeul Vogtland și apoi mergeți confortabil cu tramvaiul până la impunătorul Pod al Păcii. Petreceți după-amiaza în parcul orașului înainte de a reveni în centru.",
+        "en": "Use Plauen's traditional tram system to explore the city stress-free. Start in the center at the Altmarkt, visit the Vogtland Museum, and then ride comfortably to the impressive Peace Bridge. Spend the afternoon in the City Park before heading back to the center by tram."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei & Konditorei Wunderlich",
+            "tip": "Probieren Sie die Eierschecke zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wunderlich Pékség",
+            "tip": "Kóstolja meg az Eierschecke-t (tojásos lepény) a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Wunderlich",
+            "tip": "Încercați prăjitura Eierschecke alături de o cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wunderlich Bakery",
+            "tip": "Try the 'Eierschecke' cake with your coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Luthergarten",
+            "tip": "Kleine Grünanlage an der Lutherkirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luther-kert",
+            "tip": "Kis park a Luther-templomnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Luther",
+            "tip": "Mic spațiu verde lângă Biserica Luther.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Luther Garden",
+            "tip": "Small green area by the Luther Church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt auf dem Altmarkt",
+            "tip": "Regionale Produkte direkt vom Erzeuger (Di, Do, Sa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac a főtéren",
+            "tip": "Regionális termékek közvetlenül a termelőktől (K, Cs, Szo)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale direct de la producători (Ma, Jo, Sâ)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market at Altmarkt",
+            "tip": "Regional products directly from producers (Tue, Thu, Sat)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tageskarten für die Straßenbahn sind die günstigste Option.",
+          "Die Bahnen verkehren im 15-Minuten-Takt."
+        ],
+        "hu": [
+          "A napijegy a legolcsóbb opció a villamosozáshoz.",
+          "A villamosok 15 percenként járnak."
+        ],
+        "ro": [
+          "Abonamentul de o zi pentru tramvai este cea mai avantajoasă opțiune.",
+          "Tramvaiele circulă la intervale de 15 minute."
+        ],
+        "en": [
+          "Day tickets for the tram are the most affordable option.",
+          "Trams run every 15 minutes."
+        ]
+      }
+    }
+  }
+}

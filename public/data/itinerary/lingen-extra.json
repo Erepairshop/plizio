@@ -1,0 +1,1168 @@
+{
+  "city_id": "lingen-extra",
+  "anchor": {
+    "name": "Marktplatz",
+    "coords": [
+      7.3204,
+      52.5233
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            7.3204,
+            52.5233
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Giebelhaus-Ensemble.",
+            "hu": "Figyelje meg a látványos oromzatos házakat.",
+            "ro": "Admirați ansamblul de case cu frontoane.",
+            "en": "Look for the ensemble of gabled houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            7.3206,
+            52.5234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt von 1555.",
+            "hu": "A város 1555-ben épült jelképe.",
+            "ro": "Simbolul orașului, construit în 1555.",
+            "en": "The city landmark, built in 1555."
+          }
+        },
+        {
+          "name": {
+            "de": "Professorenhaus",
+            "hu": "Professzorok háza",
+            "ro": "Casa Profesorilor",
+            "en": "Professors House"
+          },
+          "coords": [
+            7.3188,
+            52.5228
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein bedeutendes Fachwerkhaus des Barock.",
+            "hu": "Jelentős barokk favázas épület.",
+            "ro": "O importantă casă barocă din paiantă.",
+            "en": "An important Baroque half-timbered house."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Bonifatius",
+            "hu": "Szt. Bonifác templom",
+            "ro": "Biserica Sf. Bonifaiu",
+            "en": "St. Boniface Church"
+          },
+          "coords": [
+            7.3195,
+            52.5225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beeindruckende neugotische Architektur.",
+            "hu": "Lenyűgöző neogótikus építészet.",
+            "ro": "Arhitectură neogotică impresionantă.",
+            "en": "Impressive Neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            7.3202,
+            52.523
+          ],
+          "category": "gastro",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten.",
+            "hu": "Kóstolja meg a helyi specialitásokat.",
+            "ro": "Încercați specialitățile locale.",
+            "en": "Try some local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Emslandmuseum",
+            "hu": "Emsland Múzeum",
+            "ro": "Muzeul Emsland",
+            "en": "Emsland Museum"
+          },
+          "coords": [
+            7.3165,
+            52.5215
+          ],
+          "category": "museums",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Regionalgeschichte anschaulich erklärt.",
+            "hu": "A régió történelme szemléletesen.",
+            "ro": "Istoria regională explicată clar.",
+            "en": "Regional history clearly explained."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulverturm",
+            "hu": "Lőportorony",
+            "ro": "Turnul Pulberii",
+            "en": "Powder Tower"
+          },
+          "coords": [
+            7.3175,
+            52.5235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überrest der alten Stadtbefestigung.",
+            "hu": "A régi városfal megmaradt része.",
+            "ro": "Rămășiță a vechii fortificații a orașului.",
+            "en": "Remnant of the old city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Lookentor",
+            "hu": "Lookentor kapu",
+            "ro": "Poarta Lookentor",
+            "en": "Lookentor Gate"
+          },
+          "coords": [
+            7.322,
+            52.5245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Modernes Shopping am historischen Ort.",
+            "hu": "Modern bevásárlóközpont történelmi helyen.",
+            "ro": "Shopping modern într-un loc istoric.",
+            "en": "Modern shopping at a historic site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Tag in Lingen beginnt am historischen Marktplatz. Bestaunen Sie das Rathaus und das Professorenhaus, bevor Sie in die Geschichte des Emslandes eintauchen. Nach einem lokalen Mittagessen erkunden Sie die Relikte der Stadtmauer und lassen den Tag im modernen Lookentor ausklingen, wo Geschichte auf Shopping trifft.",
+        "hu": "A nap Lingen történelmi főterén indul, ahol megcsodálhatjuk a régi városházát és a patinás Professzor-házat. A délelőtti séta után merüljön el a régió múltjában az Emsland Múzeumban. A délutánt a városfal maradványai és a modern Lookentor negyed felfedezése teszi teljessé, ahol a múlt és a jelen vásárlási élménye találkozik.",
+        "ro": "O zi relaxantă în Lingen începe în piața istorică a orașului. Admirați primăria și Casa Profesorilor înainte de a explora istoria regiunii la Muzeul Emsland. După un prânz local, descoperiți relicvele zidului cetății și încheiați ziua la Lookentor, un amestec modern de istorie și experiențe de shopping.",
+        "en": "A relaxed day in Lingen starts at the historic market square. Admire the town hall and the Professors House before diving into Emsland's history at the museum. After a local lunch, explore the remnants of the city wall and end your tour at the modern Lookentor, where history meets contemporary shopping."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alte Posthalterei",
+            "tip": "Traditionelle Küche in historischem Ambiente."
+          },
+          {
+            "name": "Kiveling-Gebäck",
+            "tip": "Probieren Sie das traditionelle Gebäck der Lingener Kivelinge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alte Posthalterei",
+            "tip": "Hagyományos konyha történelmi környezetben."
+          },
+          {
+            "name": "Kiveling-sütemény",
+            "tip": "Kóstolja meg a helyi Kivelingek hagyományos édességét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alte Posthalterei",
+            "tip": "Bucătărie tradițională într-o ambianță istorică."
+          },
+          {
+            "name": "Kiveling-Gebäck",
+            "tip": "Încercați patiseria tradițională a asociației Kivelinge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alte Posthalterei",
+            "tip": "Traditional cuisine in a historic atmosphere."
+          },
+          {
+            "name": "Kiveling Pastry",
+            "tip": "Try the traditional sweet of the local Kiveling association."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ems-Ufer",
+            "tip": "Ruhiger Spaziergang entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ems-part",
+            "tip": "Csendes séta a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Ems",
+            "tip": "O plimbare liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ems Riverbank",
+            "tip": "Quiet walk along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lookentor",
+            "tip": "Große Einkaufspassage mitten in der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lookentor",
+            "tip": "Nagy bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lookentor",
+            "tip": "Pasaj comercial mare în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lookentor",
+            "tip": "Large shopping mall in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist fast vollständig verkehrsberuhigt.",
+          "Mittwochs und samstags ist Markttag.",
+          "Besuchen Sie das Professorenhaus für Theateraufführungen.",
+          "Lingen lässt sich wunderbar zu Fuß erkunden."
+        ],
+        "hu": [
+          "A belváros szinte teljesen autómentes övezet.",
+          "Szerdán és szombaton tartják a heti piacot.",
+          "A Professzorok házában gyakran tartanak színházi előadásokat.",
+          "Lingen városa gyalogosan fedezhető fel a legjobban."
+        ],
+        "ro": [
+          "Centrul orașului este aproape în întregime zonă pietonală.",
+          "Miercuri și sâmbătă sunt zile de piață.",
+          "Vizitați Casa Profesorilor pentru spectacole de teatru.",
+          "Lingen poate fi explorat minunat la pas."
+        ],
+        "en": [
+          "The city center is almost entirely a pedestrian zone.",
+          "Wednesdays and Saturdays are market days.",
+          "Visit the Professors House for theatrical performances.",
+          "Lingen is perfectly explored on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            7.3204,
+            52.5233
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt für Radtouren.",
+            "hu": "Ideális kiindulópont kerékpártúrákhoz.",
+            "ro": "Punct de plecare ideal pentru tururi cicliste.",
+            "en": "Ideal starting point for bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Bonifatius",
+            "hu": "Szt. Bonifác templom",
+            "ro": "Biserica Sf. Bonifaiu",
+            "en": "St. Boniface Church"
+          },
+          "coords": [
+            7.3195,
+            52.5225
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentral gelegene Kirche am Ems-Radweg.",
+            "hu": "Központi templom az Ems kerékpárútnál.",
+            "ro": "Biserică centrală lângă pista Ems.",
+            "en": "Centrally located church by the Ems bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Emslandmuseum",
+            "hu": "Emsland Múzeum",
+            "ro": "Muzeul Emsland",
+            "en": "Emsland Museum"
+          },
+          "coords": [
+            7.3165,
+            52.5215
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt am Eingang vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a bejáratnál.",
+            "ro": "Rasteluri de biciclete chiar la intrare.",
+            "en": "Bike racks available right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfall Hanekenfähr",
+            "hu": "Hanekenfähr vízesés",
+            "ro": "Cascada Hanekenfähr",
+            "en": "Hanekenfähr Waterfall"
+          },
+          "coords": [
+            7.288,
+            52.482
+          ],
+          "category": "natural features",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ein idyllisches Ausflugsziel an der Ems.",
+            "hu": "Idilli kirándulóhely az Ems folyónál.",
+            "ro": "O destinație idilică pe malul Ems.",
+            "en": "An idyllic excursion spot on the Ems."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro am Wasser",
+            "hu": "Vízi gasztronómia",
+            "ro": "Gastro la apă",
+            "en": "Waterside Gastro"
+          },
+          "coords": [
+            7.289,
+            52.4815
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einkehren mit Blick auf den Fluss.",
+            "hu": "Ebéd folyóra néző kilátással.",
+            "ro": "Masă cu vedere la râu.",
+            "en": "Dining with a view of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulverturm",
+            "hu": "Lőportorony",
+            "ro": "Turnul Pulberii",
+            "en": "Powder Tower"
+          },
+          "coords": [
+            7.3175,
+            52.5235
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Schöner Fotostopp auf dem Rückweg.",
+            "hu": "Szép fotómegálló a visszaúton.",
+            "ro": "Un popas foto frumos la întoarcere.",
+            "en": "Nice photo stop on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Lookentor",
+            "hu": "Lookentor kapu",
+            "ro": "Poarta Lookentor",
+            "en": "Lookentor Gate"
+          },
+          "coords": [
+            7.322,
+            52.5245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sichere Fahrradparkplätze in der Nähe.",
+            "hu": "Biztonságos kerékpárparkolók a közelben.",
+            "ro": "Parcare securizată pentru biciclete în apropiere.",
+            "en": "Secure bike parking available nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Lingen und seine grüne Umgebung mit dem Rad. Nach einer kulturellen Runde durch die Altstadt führt Sie der Ems-Radweg zum malerischen Wasserfall Hanekenfähr. Genießen Sie die Natur und eine entspannte Pause am Wasser, bevor Sie entlang des Kanals zurück in das Stadtzentrum radeln.",
+        "hu": "Fedezze fel Lingent és zöld környezetét két keréken. Az óvárosi kulturális kör után az Ems kerékpárút vezet a festői Hanekenfähr vízeséshez. Élvezze a természetet és a vízparti pihenőt, majd a csatorna mentén tekerjen vissza a városközpontba.",
+        "ro": "Explorați Lingen și împrejurimile sale verzi cu bicicleta. După un tur cultural prin centrul vechi, pista de biciclete Ems vă duce la pitoreasca cascadă Hanekenfähr. Bucurați-vă de natură și de o pauză relaxantă la apă înainte de a pedala înapoi spre centru pe malul canalului.",
+        "en": "Explore Lingen and its green surroundings by bike. After a cultural circuit through the old town, the Ems cycle path leads you to the scenic Hanekenfähr waterfall. Enjoy nature and a relaxed riverside break before cycling back to the city center along the canal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hotel am Wasserfall",
+            "tip": "Perfekter Stopp für Radfahrer direkt an der Ems."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hotel am Wasserfall",
+            "tip": "Tökéletes megálló bicikliseknek közvetlenül az Ems partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hotel am Wasserfall",
+            "tip": "Popas perfect pentru bicicliști chiar pe malul Ems."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hotel am Wasserfall",
+            "tip": "Perfect stop for cyclists right by the Ems river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wasserfall Hanekenfähr",
+            "tip": "Ruhiger Ort zum Entspannen in der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hanekenfähr vízesés",
+            "tip": "Csendes hely a pihenéshez a természetben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cascada Hanekenfähr",
+            "tip": "Loc liniștit pentru relaxare în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hanekenfähr Waterfall",
+            "tip": "Quiet place to relax in nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz Markt",
+            "tip": "Regionale Produkte für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactéri piac",
+            "tip": "Regionális termékek a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Produse regionale pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square Market",
+            "tip": "Regional products for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das gut ausgebaute Radwegenetz.",
+          "Der Ems-Radweg ist flach und familienfreundlich.",
+          "Fahrradverleih am Bahnhof möglich.",
+          "Achten Sie auf die Beschilderung 'Hanekenfähr'."
+        ],
+        "hu": [
+          "Használja a jól kiépített kerékpárút-hálózatot.",
+          "Az Ems kerékpárút sík és családbarát.",
+          "Kerékpárkölcsönzés a vasútállomáson lehetséges.",
+          "Figyelje a 'Hanekenfähr' feliratú jelzőtáblákat."
+        ],
+        "ro": [
+          "Folosiți rețeaua bine dezvoltată de piste de biciclete.",
+          "Pista Ems este plană și potrivită pentru familii.",
+          "Închiriere de biciclete disponibilă la gară.",
+          "Urmăriți indicatoarele către 'Hanekenfähr'."
+        ],
+        "en": [
+          "Use the well-developed cycle path network.",
+          "The Ems cycle path is flat and family-friendly.",
+          "Bike rental is available at the train station.",
+          "Watch out for signs pointing to 'Hanekenfähr'."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Markttiefgarage (Parken)",
+            "hu": "Piactéri mélygarázs (Parkolás)",
+            "ro": "Parcare subterană Piață",
+            "en": "Market Underground Parking"
+          },
+          "coords": [
+            7.3204,
+            52.5233
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentrales Parken direkt am Geschehen.",
+            "hu": "Központi parkolás az események közelében.",
+            "ro": "Parcare centrală chiar lângă obiective.",
+            "en": "Central parking right in the heart of action."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            7.3206,
+            52.5234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fußläufig vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Professorenhaus",
+            "hu": "Professzorok háza",
+            "ro": "Casa Profesorilor",
+            "en": "Professors House"
+          },
+          "coords": [
+            7.3188,
+            52.5228
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehenswertes Barockgebäude in der City.",
+            "hu": "Érdemes megnézni ezt a barokk épületet.",
+            "ro": "Clădire barocă remarcabilă în oraș.",
+            "en": "Remarkable Baroque building in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch in Lingen",
+            "hu": "Ebéd Lingenben",
+            "ro": "Prânz în Lingen",
+            "en": "Lunch in Lingen"
+          },
+          "coords": [
+            7.3202,
+            52.523
+          ],
+          "category": "gastro",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vielseitige Auswahl in der Fußgängerzone.",
+            "hu": "Változatos kínálat a sétálóutcában.",
+            "ro": "Selecție variată în zona pietonală.",
+            "en": "Diverse selection in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfall Hanekenfähr",
+            "hu": "Hanekenfähr vízesés",
+            "ro": "Cascada Hanekenfähr",
+            "en": "Hanekenfähr Waterfall"
+          },
+          "coords": [
+            7.288,
+            52.482
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor Ort vorhanden.",
+            "hu": "Helyben nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă la fața locului.",
+            "en": "Large parking lot available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Emslandmuseum",
+            "hu": "Emsland Múzeum",
+            "ro": "Muzeul Emsland",
+            "en": "Emsland Museum"
+          },
+          "coords": [
+            7.3165,
+            52.5215
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Kulturstopp auf dem Rückweg.",
+            "hu": "Kulturális megálló a visszaúton.",
+            "ro": "Popas cultural la întoarcere.",
+            "en": "Cultural stop on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Lookentor",
+            "hu": "Lookentor kapu",
+            "ro": "Poarta Lookentor",
+            "en": "Lookentor Gate"
+          },
+          "coords": [
+            7.322,
+            52.5245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Idealer Abschluss vor der Heimfahrt.",
+            "hu": "Ideális záróprogram hazautazás előtt.",
+            "ro": "Final ideal înainte de plecare.",
+            "en": "Ideal final stop before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Lingen. Starten Sie im historischen Zentrum und parken Sie direkt unter dem Marktplatz. Nach der Besichtigung des Rathauses und einem Mittagessen fahren Sie ein kurzes Stück zum Naturparadies Hanekenfähr. Der Tag endet mit Kultur im Emslandmuseum und einem Bummel am Lookentor.",
+        "hu": "Autóval kényelmesen elérheti Lingen legfontosabb látnivalóit. Kezdjen a történelmi központban, parkoljon közvetlenül a főtér alatt. A városháza megtekintése és az ebéd után tegyen egy rövid autós kirándulást a Hanekenfähr természetvédelmi területre. A napot az Emsland Múzeum és a Lookentor környéki séta zárja.",
+        "ro": "Cu mașina, puteți ajunge confortabil la punctele de atracție din Lingen. Începeți în centrul istoric și parcați chiar sub piața centrală. După vizitarea primăriei și prânz, conduceți puțin până la paradisul natural Hanekenfähr. Ziua se încheie cu cultură la Muzeul Emsland și o plimbare la Lookentor.",
+        "en": "By car, you can comfortably reach Lingen's highlights. Start in the historic center, parking directly under the market square. After visiting the town hall and lunch, take a short drive to the natural paradise of Hanekenfähr. The day concludes with culture at the Emsland Museum and a stroll at Lookentor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus Thien",
+            "tip": "Gute Erreichbarkeit mit dem PKW am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus Thien",
+            "tip": "Könnyen megközelíthető autóval a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus Thien",
+            "tip": "Accesibilitate bună cu mașina la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus Thien",
+            "tip": "Easy to reach by car on the outskirts of town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hanekenfähr",
+            "tip": "Viel Platz und Ruhe am Emsufer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hanekenfähr",
+            "tip": "Sok hely és nyugalom az Ems partján.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hanekenfähr",
+            "tip": "Mult spațiu și liniște pe malul Ems.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hanekenfähr",
+            "tip": "Lots of space and quiet by the Ems river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lookentor Center",
+            "tip": "Parkhaus direkt im Shopping-Center."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lookentor Center",
+            "tip": "Parkolóház közvetlenül a bevásárlóközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lookentor Center",
+            "tip": "Parcare chiar în centrul comercial."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lookentor Center",
+            "tip": "Parking garage directly in the shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem der Stadt.",
+          "Die Parkgebühren sind moderat.",
+          "In 15 Minuten sind Sie in Hanekenfähr.",
+          "Vermeiden Sie die Stoßzeiten am Feierabend."
+        ],
+        "hu": [
+          "Használja a város parkolási irányító rendszerét.",
+          "A parkolási díjak mérsékeltek.",
+          "15 perc alatt elérhető Hanekenfähr.",
+          "Kerülje a délutáni csúcsidőt."
+        ],
+        "ro": [
+          "Utilizați sistemul de ghidare pentru parcare al orașului.",
+          "Taxele de parcare sunt moderate.",
+          "Ajungeți în Hanekenfähr în 15 minute.",
+          "Evitați orele de vârf de la sfârșitul programului."
+        ],
+        "en": [
+          "Use the city's parking guidance system.",
+          "Parking fees are moderate.",
+          "You can reach Hanekenfähr in 15 minutes.",
+          "Avoid rush hour in the late afternoon."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "ZOB Lingen (Bahnhof)",
+            "hu": "Lingen vasútállomás (ZOB)",
+            "ro": "Lingen ZOB (Gară)",
+            "en": "Lingen ZOB (Station)"
+          },
+          "coords": [
+            7.3235,
+            52.523
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            7.3206,
+            52.5234
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare de la piața centrală.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der City",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in the city"
+          },
+          "coords": [
+            7.3202,
+            52.523
+          ],
+          "category": "gastro",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Viele Cafés in unmittelbarer Nähe.",
+            "hu": "Számos kávézó a közvetlen közelben.",
+            "ro": "Multe cafenele în imediata apropiere.",
+            "en": "Many cafes in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Emslandmuseum",
+            "hu": "Emsland Múzeum",
+            "ro": "Muzeul Emsland",
+            "en": "Emsland Museum"
+          },
+          "coords": [
+            7.3165,
+            52.5215
+          ],
+          "category": "museums",
+          "arrive_at": "11:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Museum' ganz nah.",
+            "hu": "A 'Museum' buszmegálló egészen közel van.",
+            "ro": "Stația de autobuz 'Museum' este foarte aproape.",
+            "en": "Bus stop 'Museum' is very close."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfall Hanekenfähr",
+            "hu": "Hanekenfähr vízesés",
+            "ro": "Cascada Hanekenfähr",
+            "en": "Hanekenfähr Waterfall"
+          },
+          "coords": [
+            7.288,
+            52.482
+          ],
+          "category": "natural features",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Mit Linie 161/165 erreichbar.",
+            "hu": "A 161/165-ös járattal érhető el.",
+            "ro": "Accesibil cu liniile 161/165.",
+            "en": "Accessible with line 161/165."
+          }
+        },
+        {
+          "name": {
+            "de": "Lookentor",
+            "hu": "Lookentor kapu",
+            "ro": "Poarta Lookentor",
+            "en": "Lookentor Gate"
+          },
+          "coords": [
+            7.322,
+            52.5245
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Bahnhof bequem möglich.",
+            "hu": "Kényelmes visszautazás az állomásra.",
+            "ro": "Întoarcere comodă la gară.",
+            "en": "Easy return to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Lingens Stadtbusse für einen entspannten Tag. Starten Sie am ZOB und erkunden Sie die Altstadt zu Fuß. Nach Kultur und Mittagessen bringt Sie der Bus direkt zum Ausflugsziel Hanekenfähr an der Ems. Am späten Nachmittag kehren Sie zurück ins Zentrum für einen Besuch im Lookentor und die Weiterreise vom Bahnhof.",
+        "hu": "Használja Lingen városi buszait a kényelmes felfedezéshez. Kezdjen a központi buszállomáson, majd fedezze fel gyalog az óvárost. A kulturális programok és az ebéd után a busz közvetlenül a Hanekenfähr vízeséshez viszi. Késő délután térjen vissza a központba egy kis vásárlásra a Lookentorhoz, mielőtt továbbutazna.",
+        "ro": "Folosiți autobuzele din Lingen pentru o zi relaxantă. Începeți la ZOB și explorați centrul vechi pe jos. După cultură și prânz, autobuzul vă duce direct la destinația Hanekenfähr de pe Ems. Seara, reveniți în centru pentru o vizită la Lookentor și plecarea din gară.",
+        "en": "Use Lingen's city buses for a relaxed day. Start at the central bus station and explore the old town on foot. After culture and lunch, the bus takes you directly to the Hanekenfähr excursion spot on the Ems. In the late afternoon, return to the center for a visit to Lookentor before continuing your journey from the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Markt",
+            "tip": "Schneller Snack für Zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactéri pékség",
+            "tip": "Gyors köztes étkezés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din Piață",
+            "tip": "Gustare rapidă între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the Market",
+            "tip": "Quick snack between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ems-Auen",
+            "tip": "Natur pur mit dem Bus erreichbar.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ems-ártér",
+            "tip": "Tiszta természet busszal elérhető távolságban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lunca Ems",
+            "tip": "Natură pură accesibilă cu autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ems Meadows",
+            "tip": "Pure nature reachable by bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lookentor",
+            "tip": "Direkt an den Buslinien gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lookentor",
+            "tip": "Közvetlenül a buszvonalak mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lookentor",
+            "tip": "Situat direct pe rutele de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lookentor",
+            "tip": "Located directly on the bus routes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den LiLi-Bus.",
+          "Die Busse fahren im Taktverkehr.",
+          "Hanekenfähr wird regelmäßig angefahren.",
+          "Fahrpläne hängen an jeder Station aus."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a LiLi buszra.",
+          "A buszok ütemes menetrend szerint közlekednek.",
+          "Hanekenfähr rendszeresen elérhető járattal.",
+          "A menetrendek minden megállóban ki vannak függesztve."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul LiLi.",
+          "Autobuzele circulă la intervale regulate.",
+          "Hanekenfähr este deservit cu regularitate.",
+          "Orarele sunt afișate în fiecare stație."
+        ],
+        "en": [
+          "Buy a day ticket for the LiLi bus.",
+          "Buses run on a regular timed schedule.",
+          "Hanekenfähr is served regularly.",
+          "Schedules are posted at every station."
+        ]
+      }
+    }
+  }
+}

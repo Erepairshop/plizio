@@ -1,0 +1,1074 @@
+{
+  "city_id": "italy-pofi-cities-v2",
+  "anchor": {
+    "name": "Pofi",
+    "coords": [
+      13.41,
+      41.56
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Vittorio Veneto",
+            "hu": "Piazza Vittorio Veneto",
+            "ro": "Piazza Vittorio Veneto",
+            "en": "Piazza Vittorio Veneto"
+          },
+          "coords": [
+            13.412,
+            41.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Espresso mit Blick auf das Rathaus.",
+            "hu": "Igyon meg itt egy eszpresszót a városházára néző teraszon.",
+            "ro": "Savurați un espresso aici cu vedere la primărie.",
+            "en": "Have your first espresso here with a view of the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Biserica Santa Maria Maggiore",
+            "en": "Church of Santa Maria Maggiore"
+          },
+          "coords": [
+            13.413,
+            41.562
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte mittelalterliche Fassade.",
+            "hu": "Csodálja meg az egyszerű középkori homlokzatot.",
+            "ro": "Admirați fațada medievală simplă.",
+            "en": "Admire the simple medieval facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der Masken",
+            "hu": "Maszkok kútja",
+            "ro": "Fântâna Măștilor",
+            "en": "Fountain of the Masks"
+          },
+          "coords": [
+            13.414,
+            41.561
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein historisches Symbol der Stadt, ideal für ein schnelles Foto.",
+            "hu": "A város történelmi szimbóluma, ideális egy gyors fotóhoz.",
+            "ro": "Un simbol istoric al orașului, ideal pentru o fotografie rapidă.",
+            "en": "A historical symbol of the city, ideal for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Castello Colonna",
+            "hu": "Castello Colonna romjai",
+            "ro": "Ruinele Castelului Colonna",
+            "en": "Ruins of Castello Colonna"
+          },
+          "coords": [
+            13.415,
+            41.562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der einst mächtigen Festung.",
+            "hu": "Fedezze fel az egykor hatalmas erőd maradványait.",
+            "ro": "Explorați vestigiile fortăreței odinioară puternice.",
+            "en": "Discover the remains of the once mighty fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum von Pofi",
+            "hu": "Pofii Őstörténeti Múzeum",
+            "ro": "Muzeul Preistoric din Pofi",
+            "en": "Prehistoric Museum of Pofi"
+          },
+          "coords": [
+            13.418,
+            41.565
+          ],
+          "category": "museums",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie 'Argil', den berühmten Schädel des Pofi-Menschen.",
+            "hu": "Nézze meg 'Argil'-t, a híres pofii ősember koponyáját.",
+            "ro": "Vedeți 'Argil', celebrul craniu al omului de Pofi.",
+            "en": "See 'Argil', the famous skull of the Pofi man."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "Church of San Rocco"
+          },
+          "coords": [
+            13.419,
+            41.564
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kurze Besinnung am Nachmittag.",
+            "hu": "Csendes hely egy rövid délutáni elmélyüléshez.",
+            "ro": "Un loc liniștit pentru o scurtă reflecție după-amiaza.",
+            "en": "A quiet place for a short afternoon reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Vulkanpark Monte Pofi",
+            "hu": "Monte Pofi Vulkánpark",
+            "ro": "Parcul Vulcanic Monte Pofi",
+            "en": "Monte Pofi Volcanic Park"
+          },
+          "coords": [
+            13.422,
+            41.558
+          ],
+          "category": "natural features",
+          "arrive_at": "15:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick vom erloschenen Vulkan.",
+            "hu": "Élvezze a panorámát a kialudt vulkán tetejéről.",
+            "ro": "Bucurați-vă de panorama de pe vulcanul stins.",
+            "en": "Enjoy the panorama from the extinct volcano."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Pofi auf der Piazza Vittorio Veneto, gefolgt von der Erkundung der mittelalterlichen Gassen und der Burgruine. Am Mittag tauchen Sie im Museum tief in die Menschheitsgeschichte ein, bevor Sie den Nachmittag in der besonderen Geologie des Vulkanparks ausklingen lassen.",
+        "hu": "Napja Pofi szívében, a Piazza Vittorio Veneto téren kezdődik, majd a középkori utcák és a várromok felfedezésével folytatódik. Délben a múzeumban merülhet el az emberiség őstörténetében, végül a délutánt a kialudt vulkán különleges geológiai környezetében zárhatja.",
+        "ro": "Ziua începe în inima orașului Pofi, în Piazza Vittorio Veneto, urmată de explorarea străzilor medievale și a ruinelor castelului. La prânz, vă scufundați în istoria omenirii la muzeu, înainte de a încheia după-amiaza în cadrul geologic deosebit al parcului vulcanic.",
+        "en": "Your day begins in the heart of Pofi at Piazza Vittorio Veneto, followed by an exploration of medieval alleys and castle ruins. At midday, dive deep into human history at the museum before ending the afternoon in the unique geological setting of the volcanic park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Hausgemachte Pasta mit Bohnen, ein lokales Traditionsgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Házilag gyúrt tészta babbal, a környék hagyományos étele."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Paste de casă cu fasole, un fel de mâncare tradițional local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sagne e Fagioli",
+            "tip": "Homemade pasta with beans, a traditional local dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Monte Pofi",
+            "tip": "Ruhiger Blick über das Sacco-Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Pofi kilátó",
+            "tip": "Csendes kilátás a Sacco-völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Monte Pofi",
+            "tip": "Vedere liniștită peste valea Sacco.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Pofi Viewpoint",
+            "tip": "Quiet view over the Sacco Valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Ölmühlen",
+            "tip": "Kaufen Sie frisches Olivenöl direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olajütők",
+            "tip": "Vásároljon friss olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prese de ulei locale",
+            "tip": "Cumpărați ulei de măsline proaspăt direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local oil mills",
+            "tip": "Buy fresh olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pofi liegt auf einem Hügel, bequeme Schuhe sind für die steilen Gassen unerlässlich.",
+          "Besuchen Sie das Museum am späten Vormittag, um die Hitze zu vermeiden."
+        ],
+        "hu": [
+          "Pofi dombtetőn fekszik, a meredek utcákhoz kényelmes cipő elengedhetetlen.",
+          "A múzeumot késő délelőtt látogassa, hogy elkerülje a hőséget."
+        ],
+        "ro": [
+          "Pofi este situat pe un deal, pantofii confortabili sunt esențiali pentru străzile abrupte.",
+          "Vizitați muzeul spre sfârșitul dimineții pentru a evita căldura."
+        ],
+        "en": [
+          "Pofi is located on a hill; comfortable shoes are essential for the steep alleys.",
+          "Visit the museum in the late morning to avoid the heat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Vittorio Veneto",
+            "hu": "Piazza Vittorio Veneto",
+            "ro": "Piazza Vittorio Veneto",
+            "en": "Piazza Vittorio Veneto"
+          },
+          "coords": [
+            13.412,
+            41.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie im Zentrum der Oberstadt.",
+            "hu": "Kezdje a túrát a felsőváros központjában.",
+            "ro": "Începeți turul în centrul orașului de sus.",
+            "en": "Start your tour in the center of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Castello Colonna",
+            "hu": "Castello Colonna romjai",
+            "ro": "Ruinele Castelului Colonna",
+            "en": "Ruins of Castello Colonna"
+          },
+          "coords": [
+            13.415,
+            41.562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang der Ruinen.",
+            "hu": "Parkolja le biztonságosan a biciklit a romok bejáratánál.",
+            "ro": "Parcați bicicleta în siguranță la intrarea ruinelor.",
+            "en": "Park your bike safely at the entrance to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum von Pofi",
+            "hu": "Pofii Őstörténeti Múzeum",
+            "ro": "Muzeul Preistoric din Pofi",
+            "en": "Prehistoric Museum of Pofi"
+          },
+          "coords": [
+            13.418,
+            41.565
+          ],
+          "category": "museums",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Ausstellung ist auch für Radfahrer eine lohnende Pause.",
+            "hu": "A kiállítás a kerékpárosoknak is megéri a pihenőt.",
+            "ro": "Expoziția merită o pauză și pentru bicicliști.",
+            "en": "The exhibition is a worthwhile break even for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Vulkanpark Monte Pofi",
+            "hu": "Monte Pofi Vulkánpark",
+            "ro": "Parcul Vulcanic Monte Pofi",
+            "en": "Monte Pofi Volcanic Park"
+          },
+          "coords": [
+            13.422,
+            41.558
+          ],
+          "category": "natural features",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg fordert Kondition, belohnt aber mit Aussicht.",
+            "hu": "Az emelkedő edzettséget igényel, de a kilátás kárpótol.",
+            "ro": "Urcarea necesită condiție fizică, dar recompensează cu priveliștea.",
+            "en": "The climb requires fitness but rewards with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Cava Pompi",
+            "hu": "Cava Pompi régészeti lelőhely",
+            "ro": "Situl arheologic Cava Pompi",
+            "en": "Archaeological Site Cava Pompi"
+          },
+          "coords": [
+            13.435,
+            41.552
+          ],
+          "category": "museums",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Hier wurden bedeutende paläontologische Funde gemacht.",
+            "hu": "Itt fontos őslénytani leleteket tártak fel.",
+            "ro": "Aici au fost făcute descoperiri paleontologice importante.",
+            "en": "Significant paleontological finds were made here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "Church of San Rocco"
+          },
+          "coords": [
+            13.419,
+            41.564
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss Ihrer Radtour.",
+            "hu": "Biciklitúrájának pihentető lezárása.",
+            "ro": "O încheiere relaxantă a turului dumneavoastră cu bicicleta.",
+            "en": "A relaxing end to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die historischen Highlights von Pofi mit der rauen Natur des Monte Pofi. Sie erkunden zuerst das Zentrum und fahren dann hinunter zu den archäologischen Stätten im Tal, bevor Sie für den Sonnenuntergang wieder zur Kirche San Rocco hinaufkehren.",
+        "hu": "Ez a kerékpártúra összeköti Pofi történelmi látnivalóit a Monte Pofi vadregényes természetével. Előbb a központot fedezi fel, majd legurul a völgy régészeti lelőhelyeihez, végül a naplementére visszatér a San Rocco templomhoz.",
+        "ro": "Acest tur cu bicicleta combină atracțiile istorice din Pofi cu natura sălbatică de pe Monte Pofi. Explorați mai întâi centrul, apoi coborâți spre siturile arheologice din vale, revenind la final la biserica San Rocco pentru apus.",
+        "en": "This bike tour connects Pofi's historical highlights with the rugged nature of Monte Pofi. Explore the center first, then ride down to the archaeological sites in the valley, returning finally to the San Rocco church for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Kekse mit Wein und Anis, ideal als Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Boros-ánizsos kekszek, ideális útközbeni harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Biscuiți cu vin și anason, ideali ca gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ciambelline al vino",
+            "tip": "Wine and anise cookies, ideal as a snack for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sacco-Tal Ufer",
+            "tip": "Ruhige Wege am Fuße des Hügels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sacco-völgy partja",
+            "tip": "Csendes utak a domb lábánál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul văii Sacco",
+            "tip": "Drumuri liniștite la poalele dealului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sacco Valley banks",
+            "tip": "Quiet paths at the foot of the hill.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (falls vorhanden)",
+            "tip": "Frisches Obst aus der Region Ciociaria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss gyümölcsök a Ciociaria régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Fructe proaspete din regiunea Ciociaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly market",
+            "tip": "Fresh fruit from the Ciociaria region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen rund um den Vulkanpark können unbefestigt sein.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten am Berg."
+        ],
+        "hu": [
+          "A vulkánpark körüli utak néhol burkolatlanok lehetnek.",
+          "Vigyen elég vizet, a hegyen kevés az árnyék."
+        ],
+        "ro": [
+          "Drumurile din jurul parcului vulcanic pot fi neasfaltate.",
+          "Luați suficientă apă, există puțină umbră pe munte."
+        ],
+        "en": [
+          "Roads around the volcanic park can be unpaved.",
+          "Take enough water; there is little shade on the mountain."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Vittorio Veneto",
+            "hu": "Piazza Vittorio Veneto",
+            "ro": "Piazza Vittorio Veneto",
+            "en": "Piazza Vittorio Veneto"
+          },
+          "coords": [
+            13.412,
+            41.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz unterhalb des Zentrums.",
+            "hu": "Parkoljon a központ alatti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de sub centru.",
+            "en": "Park in the large parking lot below the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Maggiore",
+            "hu": "Santa Maria Maggiore templom",
+            "ro": "Biserica Santa Maria Maggiore",
+            "en": "Church of Santa Maria Maggiore"
+          },
+          "coords": [
+            13.413,
+            41.562
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Castello Colonna",
+            "hu": "Castello Colonna romjai",
+            "ro": "Ruinele Castelului Colonna",
+            "en": "Ruins of Castello Colonna"
+          },
+          "coords": [
+            13.415,
+            41.562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt im alten Cluster.",
+            "hu": "A város jelképe a régi városrészben.",
+            "ro": "Simbolul orașului în vechiul cluster.",
+            "en": "The landmark of the city in the old cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum von Pofi",
+            "hu": "Pofii Őstörténeti Múzeum",
+            "ro": "Muzeul Preistoric din Pofi",
+            "en": "Prehistoric Museum of Pofi"
+          },
+          "coords": [
+            13.418,
+            41.565
+          ],
+          "category": "museums",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zweiter Cluster: Bequemes Parken direkt vor dem Museum.",
+            "hu": "Második megállóhely: Kényelmes parkolás a múzeum előtt.",
+            "ro": "Al doilea cluster: Parcare convenabilă chiar în fața muzeului.",
+            "en": "Second cluster: Convenient parking right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "Church of San Rocco"
+          },
+          "coords": [
+            13.419,
+            41.564
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Museum erreichbar.",
+            "hu": "A múzeumtól gyalogosan is elérhető.",
+            "ro": "Accesibil pe jos de la muzeu.",
+            "en": "Accessible on foot from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Vulkanpark Monte Pofi",
+            "hu": "Monte Pofi Vulkánpark",
+            "ro": "Parcul Vulcanic Monte Pofi",
+            "en": "Monte Pofi Volcanic Park"
+          },
+          "coords": [
+            13.422,
+            41.558
+          ],
+          "category": "natural features",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dritter Cluster: Fahren Sie bis zum oberen Aussichtspunkt.",
+            "hu": "Harmadik megállóhely: Hajtson fel a felső kilátóig.",
+            "ro": "Al treilea cluster: Conduceți până la punctul de belvedere de sus.",
+            "en": "Third cluster: Drive up to the upper viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Cava Pompi",
+            "hu": "Cava Pompi régészeti lelőhely",
+            "ro": "Situl arheologic Cava Pompi",
+            "en": "Archaeological Site Cava Pompi"
+          },
+          "coords": [
+            13.435,
+            41.552
+          ],
+          "category": "museums",
+          "arrive_at": "15:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt bergab in das Ausgrabungsgebiet.",
+            "hu": "Rövid gurulás lefelé az ásatási területre.",
+            "ro": "Scurtă călătorie la vale spre zona de excavare.",
+            "en": "Short drive downhill into the excavation area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Pofi in drei thematischen Clustern: Das mittelalterliche Zentrum, den Wissenschaftsbereich am Museum und die geologischen Highlights am Monte Pofi. Diese Aufteilung spart Zeit und ermöglicht es, auch die entfernteren archäologischen Stätten im Tal komfortabel zu erreichen.",
+        "hu": "Autóval három tematikus részre osztva fedezheti fel Pofit: a középkori központot, a múzeum környéki tudományos negyedet és a Monte Pofi geológiai látnivalóit. Ez a felosztás időt takarít meg, és lehetővé teszi a völgy távolabbi régészeti lelőhelyeinek kényelmes elérését is.",
+        "ro": "Cu mașina, explorați Pofi în trei clustere tematice: centrul medieval, zona științifică de la muzeu și punctele geologice de pe Monte Pofi. Această împărțire economisește timp și permite accesul confortabil chiar și la siturile arheologice mai îndepărtate din vale.",
+        "en": "By car, explore Pofi in three thematic clusters: the medieval center, the scientific area at the museum, and the geological highlights of Monte Pofi. This division saves time and allows comfortable access to even the more distant archaeological sites in the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Probieren Sie lokale Fleischspezialitäten aus eigener Zucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Kóstolja meg a helyi, saját tenyésztésű húsételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Gustați specialități locale din carne din producție proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo della Valle",
+            "tip": "Try local meat specialties from their own breeding."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Rocco Vorplatz",
+            "tip": "Abseits der Touristenströme mit schöner Weitsicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Rocco előtere",
+            "tip": "Távol a turistaáradattól, szép kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esplanada San Rocco",
+            "tip": "Departe de fluxul de turiști, cu o vedere frumoasă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Rocco Forecourt",
+            "tip": "Away from the tourist crowds with a beautiful far-reaching view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksbetriebe in Pofi",
+            "tip": "Suchen Sie nach handgefertigter Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pofii kézművesek",
+            "tip": "Keressen kézzel készített kerámiákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere meșteșugărești în Pofi",
+            "tip": "Căutați ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops in Pofi",
+            "tip": "Look for handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Einbahnstraßenregelung im historischen Kern.",
+          "Ein PKW ist ideal, um das Sacco-Tal in der Umgebung weiter zu erkunden."
+        ],
+        "hu": [
+          "Ügyeljen az egyirányú utcákra a történelmi magban.",
+          "A személyautó ideális a környékbeli Sacco-völgy további felfedezéséhez."
+        ],
+        "ro": [
+          "Atenție la sensurile unice din centrul istoric.",
+          "O mașină este ideală pentru a explora mai departe valea Sacco din împrejurimi."
+        ],
+        "en": [
+          "Pay attention to the one-way street regulations in the historic core.",
+          "A car is ideal for exploring the surrounding Sacco Valley further."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Vittorio Veneto",
+            "hu": "Piazza Vittorio Veneto",
+            "ro": "Piazza Vittorio Veneto",
+            "en": "Piazza Vittorio Veneto"
+          },
+          "coords": [
+            13.412,
+            41.561
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt am Rand des Hauptplatzes.",
+            "hu": "A busz közvetlenül a főtér szélén áll meg.",
+            "ro": "Autobuzul oprește chiar la marginea pieței principale.",
+            "en": "The bus stops right at the edge of the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Castello Colonna",
+            "hu": "Castello Colonna romjai",
+            "ro": "Ruinele Castelului Colonna",
+            "en": "Ruins of Castello Colonna"
+          },
+          "coords": [
+            13.415,
+            41.562
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kern zu Fuß vom Platz aus.",
+            "hu": "Fedezze fel a történelmi magot gyalogosan a tértől.",
+            "ro": "Explorați nucleul istoric pe jos de la piață.",
+            "en": "Explore the historic core on foot from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum von Pofi",
+            "hu": "Pofii Őstörténeti Múzeum",
+            "ro": "Muzeul Preistoric din Pofi",
+            "en": "Prehistoric Museum of Pofi"
+          },
+          "coords": [
+            13.418,
+            41.565
+          ],
+          "category": "museums",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Ortsbus Richtung Museumsviertel.",
+            "hu": "Szálljon fel a múzeumi negyed felé tartó helyi járatra.",
+            "ro": "Luați autobuzul local spre cartierul muzeului.",
+            "en": "Take the local bus towards the museum district."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Rocco",
+            "hu": "San Rocco templom",
+            "ro": "Biserica San Rocco",
+            "en": "Church of San Rocco"
+          },
+          "coords": [
+            13.419,
+            41.564
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang innerhalb dieses Districts.",
+            "hu": "Rövid séta ezen a városrészen belül.",
+            "ro": "O scurtă plimbare în acest district.",
+            "en": "A short walk within this district."
+          }
+        },
+        {
+          "name": {
+            "de": "Vulkanpark Monte Pofi",
+            "hu": "Monte Pofi Vulkánpark",
+            "ro": "Parcul Vulcanic Monte Pofi",
+            "en": "Monte Pofi Volcanic Park"
+          },
+          "coords": [
+            13.422,
+            41.558
+          ],
+          "category": "natural features",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus bis zur Haltestelle nahe dem Parkeingang.",
+            "hu": "Használja a buszt a park bejáratához közeli megállóig.",
+            "ro": "Folosiți autobuzul până la stația de lângă intrarea în parc.",
+            "en": "Use the bus to the stop near the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen der Masken",
+            "hu": "Maszkok kútja",
+            "ro": "Fântâna Măștilor",
+            "en": "Fountain of the Masks"
+          },
+          "coords": [
+            13.414,
+            41.561
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:14",
+          "stay_min": 61,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für den Abschluss des Tages.",
+            "hu": "Visszatérés a központba a nap lezárásához.",
+            "ro": "Revenire în centru pentru încheierea zilei.",
+            "en": "Return to the center to wrap up the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln erreichen Sie bequem die wichtigsten Punkte von Pofi. Der Plan konzentriert sich auf das historische Zentrum und das Museumsviertel, verbunden durch kurze Busfahrten, was Ihnen das Erklimmen der steilen Hügel zu Fuß erspart.",
+        "hu": "Tömegközlekedéssel kényelmesen elérheti Pofi legfontosabb pontjait. A terv a történelmi központra és a múzeumi negyedre összpontosít, rövid buszos utakkal összekötve, így megkíméli Önt a meredek dombok gyalogos megmászásától.",
+        "ro": "Cu transportul public, puteți ajunge confortabil la cele mai importante puncte din Pofi. Planul se concentrează pe centrul istoric și cartierul muzeului, conectate prin scurte călătorii cu autobuzul, ceea ce vă scutește de urcarea dealurilor abrupte pe jos.",
+        "en": "With public transport, you can comfortably reach Pofi's most important points. The plan focuses on the historical center and the museum district, connected by short bus rides, saving you from climbing the steep hills on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Trattorien",
+            "tip": "Hausgemachte Gnocchi sind hier ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi trattoriák",
+            "tip": "A házi gnocchi itt kötelező választás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattorii locale",
+            "tip": "Gnocchi de casă sunt obligatorii aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local trattorias",
+            "tip": "Homemade gnocchi are a must-try here."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof San Rocco",
+            "tip": "Ein stiller Platz im Schatten alter Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Rocco templomkert",
+            "tip": "Csendes hely öreg fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii San Rocco",
+            "tip": "Un loc liniștit la umbra copacilor bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Rocco churchyard",
+            "tip": "A quiet spot in the shade of old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckereien im Zentrum",
+            "tip": "Kaufen Sie frisches Pane di Pofi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pékségek",
+            "tip": "Vásároljon friss pofii kenyeret (Pane di Pofi)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării din centru",
+            "tip": "Cumpărați Pane di Pofi proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries in the center",
+            "tip": "Buy fresh Pane di Pofi."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus, die Frequenz kann variieren.",
+          "Die Fahrkarten können oft in den örtlichen Tabakläden (Tabacchi) gekauft werden."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet előre, a járatsűrűség változhat.",
+          "A jegyeket gyakran a helyi dohányboltokban (Tabacchi) lehet megvásárolni."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, frecvența poate varia.",
+          "Biletele pot fi cumpărate adesea de la magazinele locale de tutun (Tabacchi)."
+        ],
+        "en": [
+          "Check the bus schedule in advance; frequencies can vary.",
+          "Tickets can often be purchased at local tobacco shops (Tabacchi)."
+        ]
+      }
+    }
+  }
+}

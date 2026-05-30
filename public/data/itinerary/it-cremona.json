@@ -1,0 +1,1182 @@
+{
+  "city_id": "it-cremona",
+  "anchor": {
+    "name": "Cremona",
+    "coords": [
+      10.023,
+      45.133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Comune",
+            "hu": "Piazza del Comune",
+            "ro": "Piazza del Comune",
+            "en": "Piazza del Comune"
+          },
+          "coords": [
+            10.0227,
+            45.1331
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie im mittelalterlichen Herzen der Stadt.",
+            "hu": "Kezdje a napot a város középkori szívében.",
+            "ro": "Începeți ziua în inima medievală a orașului.",
+            "en": "Start your day in the medieval heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Cremona",
+            "hu": "Cremonai dóm",
+            "ro": "Domul din Cremona",
+            "en": "Cremona Cathedral"
+          },
+          "coords": [
+            10.0229,
+            45.1332
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Renaissance-Fresken.",
+            "hu": "Csodálja meg a pompás reneszánsz freskókat.",
+            "ro": "Admirați frescele renascentiste superbe.",
+            "en": "Admire the magnificent Renaissance frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Torrazzo di Cremona",
+            "hu": "Torrazzo harangtorony",
+            "ro": "Torrazzo din Cremona",
+            "en": "Torrazzo of Cremona"
+          },
+          "coords": [
+            10.0233,
+            45.1333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den dritthöchsten Backsteinturm der Welt.",
+            "hu": "Másszon fel a világ harmadik legmagasabb tégla-harangtornyába.",
+            "ro": "Urcați în al treilea cel mai înalt turn de cărămidă din lume.",
+            "en": "Climb the third tallest brick bell tower in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Palazzo Comunale",
+            "en": "Palazzo Comunale"
+          },
+          "coords": [
+            10.0222,
+            45.1328
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Ehrensaal und die Geigensammlung.",
+            "hu": "Tekintse meg a dísztermet és a hegedűgyűjteményt.",
+            "ro": "Vizitați sala de onoare și colecția de viori.",
+            "en": "Visit the hall of honor and the violin collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Pause: Torrone & Mostarda",
+            "hu": "Gasztro szünet: Torrone és Mostarda",
+            "ro": "Pauză gastronomică: Torrone și Mostarda",
+            "en": "Gastro Break: Torrone & Mostarda"
+          },
+          "coords": [
+            10.022,
+            45.1335
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Nougat aus Cremona.",
+            "hu": "Kóstolja meg a híres cremonai nugátot.",
+            "ro": "Gustați celebrul nuga din Cremona.",
+            "en": "Taste the famous nougat (torrone) of Cremona."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Violino",
+            "hu": "Hegedűmúzeum",
+            "ro": "Muzeul Viorii",
+            "en": "Violin Museum"
+          },
+          "coords": [
+            10.021,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss, um das Erbe Stradivaris zu verstehen.",
+            "hu": "Kihagyhatatlan Stradivari örökségének megismeréséhez.",
+            "ro": "Esențial pentru a înțelege moștenirea lui Stradivari.",
+            "en": "Essential to understand Stradivari's heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ponchielli",
+            "hu": "Ponchielli Színház",
+            "ro": "Teatrul Ponchielli",
+            "en": "Teatro Ponchielli"
+          },
+          "coords": [
+            10.0195,
+            45.131
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein prachtvolles Beispiel italienischer Theaterarchitektur.",
+            "hu": "Az olasz színházépítészet gyönyörű példája.",
+            "ro": "Un exemplu superb de arhitectură teatrală italiană.",
+            "en": "A beautiful example of Italian theater architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört dem monumentalen Zentrum mit dem Dom und dem alles überragenden Torrazzo. Nach einem typischen Mittagessen mit Mostarda tauchen Sie am Nachmittag in die Welt des Geigenbaus ein. Das Museo del Violino zeigt die Meisterwerke von Stradivari und Amati in modernem Ambiente.",
+        "hu": "A délelőtt a monumentális városközponté, ahol a Dóm és a várost uraló Torrazzo torony található. Egy tipikus, Mostardával ízesített ebéd után délután a hegedűkészítés világába kalandozunk. A Hegedűmúzeumban modern környezetben csodálhatjuk meg Stradivari és Amati mesterműveit.",
+        "ro": "Dimineața este dedicată centrului monumental, cu Domul și turnul Torrazzo care domină orașul. După un prânz tipic asezonat cu Mostarda, după-amiaza explorăm lumea viorilor. Muzeul Viorii expune capodoperele lui Stradivari și Amati într-un cadru modern.",
+        "en": "The morning is dedicated to the monumental center with the Cathedral and the Torrazzo tower. After a typical lunch featuring local Mostarda, the afternoon takes you into the world of violin making. The Violin Museum showcases masterpieces by Stradivari and Amati in a modern setting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Torrone di Cremona",
+            "tip": "Der traditionelle Honignougat mit Mandeln."
+          },
+          {
+            "name": "Mostarda Cremonese",
+            "tip": "Kandierte Früchte in Senfsirup, perfekt zu Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torrone di Cremona",
+            "tip": "Hagyományos mézes nugát mandulával."
+          },
+          {
+            "name": "Mostarda Cremonese",
+            "tip": "Mustáros szirupban tartósított kandírozott gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Torrone di Cremona",
+            "tip": "Nuga tradițională cu miere și migdale."
+          },
+          {
+            "name": "Mostarda Cremonese",
+            "tip": "Fructe confiate în sirop de muștar, ideal cu brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Torrone di Cremona",
+            "tip": "Traditional honey nougat with almonds."
+          },
+          {
+            "name": "Mostarda Cremonese",
+            "tip": "Candied fruits in mustard syrup, perfect with cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco del Vecchio Passeggio",
+            "tip": "Ruhiger Park für eine Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco del Vecchio Passeggio",
+            "tip": "Csendes park egy kis pihenéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco del Vecchio Passeggio",
+            "tip": "Parc liniștit pentru o pauză relaxantă.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco del Vecchio Passeggio",
+            "tip": "Quiet park for a relaxing break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sperlari",
+            "tip": "Historisches Geschäft für Torrone und Süßwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sperlari",
+            "tip": "Történelmi bolt torrone és édességek vásárlásához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sperlari",
+            "tip": "Magazin istoric pentru nuga și dulciuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sperlari",
+            "tip": "Historic shop for torrone and local sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie das Torrazzo-Ticket kombiniert mit dem Dom.",
+          "Besuchen Sie eine der vielen Geigenbauwerkstätten (Luterie) in der Stadt."
+        ],
+        "hu": [
+          "Érdemes kombinált jegyet venni a Torrazzo toronyba és a Dómba.",
+          "Látogasson el egy helyi hegedűkészítő műhelybe (liuteria)."
+        ],
+        "ro": [
+          "Cumpărați bilet combinat pentru Torrazzo și Dom.",
+          "Vizitați unul dintre numeroasele ateliere de luterie din oraș."
+        ],
+        "en": [
+          "Buy a combined ticket for the Torrazzo and the Cathedral.",
+          "Visit one of the many violin-making workshops (liuterie) in town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza del Comune",
+            "hu": "Piazza del Comune",
+            "ro": "Piazza del Comune",
+            "en": "Piazza del Comune"
+          },
+          "coords": [
+            10.0227,
+            45.1331
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Ala Ponzone",
+            "hu": "Ala Ponzone Városi Múzeum",
+            "ro": "Museo Civico Ala Ponzone",
+            "en": "Museo Civico Ala Ponzone"
+          },
+          "coords": [
+            10.0165,
+            45.1365
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bedeutende Pinakothek im Palazzo Affaitati.",
+            "hu": "Jelentős képtár a Palazzo Affaitati épületében.",
+            "ro": "Pinacotecă importantă în Palazzo Affaitati.",
+            "en": "Important picture gallery in Palazzo Affaitati."
+          }
+        },
+        {
+          "name": {
+            "de": "Loggia dei Militi",
+            "hu": "Loggia dei Militi",
+            "ro": "Loggia dei Militi",
+            "en": "Loggia dei Militi"
+          },
+          "coords": [
+            10.0225,
+            45.1329
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gotisches Gebäude der Miliz.",
+            "hu": "A milícia gótikus épülete.",
+            "ro": "Clădire gotică a miliției.",
+            "en": "Gothic building of the militia."
+          }
+        },
+        {
+          "name": {
+            "de": "Battistero di Cremona",
+            "hu": "Keresztelőkápolna",
+            "ro": "Baptisteriul din Cremona",
+            "en": "Cremona Baptistery"
+          },
+          "coords": [
+            10.0235,
+            45.1328
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achteckiger romanischer Bau.",
+            "hu": "Nyolcszögletű román stílusú épület.",
+            "ro": "Construcție romanică octogonală.",
+            "en": "Octagonal Romanesque building."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            10.024,
+            45.134
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Marubini-Pasta.",
+            "hu": "Kóstolja meg a Marubini tésztát.",
+            "ro": "Gustați pastele Marubini.",
+            "en": "Try the local Marubini pasta."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Violino",
+            "hu": "Hegedűmúzeum",
+            "ro": "Muzeul Viorii",
+            "en": "Violin Museum"
+          },
+          "coords": [
+            10.021,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellungen.",
+            "hu": "Interaktív kiállítások.",
+            "ro": "Expoziții interactive.",
+            "en": "Interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Sigismondo",
+            "hu": "San Sigismondo-templom",
+            "ro": "Biserica San Sigismondo",
+            "en": "Church of San Sigismondo"
+          },
+          "coords": [
+            10.052,
+            45.127
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Manierismus-Fresken.",
+            "hu": "Gyönyörű manierista freskók.",
+            "ro": "Fresce manieriste superbe.",
+            "en": "Beautiful Mannerist frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Po-Ufer Radweg",
+            "hu": "Pó-parti kerékpárút",
+            "ro": "Pista de biciclete de pe malul râului Po",
+            "en": "Po River Bike Path"
+          },
+          "coords": [
+            10.02,
+            45.12
+          ],
+          "category": "river",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss am Fluss.",
+            "hu": "Pihentető befejezés a folyóparton.",
+            "ro": "Final relaxant pe malul râului.",
+            "en": "Relaxing finish by the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cremona ist flach und ideal für Fahrräder. Diese Route führt Sie von den Kunstschätzen des Museo Civico bis zur abgelegenen, aber prächtigen Kirche San Sigismondo. Ein Ausflug zum Po-Ufer rundet den Tag ab.",
+        "hu": "Cremona sík terepe ideális a kerékpározáshoz. Ez az útvonal a Városi Múzeum kincseitől a távolabb eső, de gyönyörű San Sigismondo-templomig vezet. A napot a Pó-parti tekerés zárja.",
+        "ro": "Relieful plat din Cremona este ideal pentru bicicletă. Acest traseu vă poartă de la comorile Muzeului Civic până la superba biserică San Sigismondo situată la periferie. Ziua se încheie pe malul râului Po.",
+        "en": "Cremona's flat terrain is perfect for cycling. This route takes you from the art treasures of the Museo Civico to the distant but magnificent San Sigismondo church. A ride to the Po riverbank completes the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Lanfranchi",
+            "tip": "Probieren Sie den Pan di Cremona."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria Lanfranchi",
+            "tip": "Kóstolja meg a Pan di Cremona süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Lanfranchi",
+            "tip": "Încercați Pan di Cremona."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticceria Lanfranchi",
+            "tip": "Try the Pan di Cremona cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lungo Po",
+            "tip": "Blick auf den größten Fluss Italiens.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lungo Po",
+            "tip": "Kilátás Olaszország legnagyobb folyójára.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lungo Po",
+            "tip": "Vedere spre cel mai mare râu din Italia.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lungo Po",
+            "tip": "View over Italy's longest river.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Locanda del Gusto",
+            "tip": "Lokale Produkte und Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Locanda del Gusto",
+            "tip": "Helyi termékek és borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Locanda del Gusto",
+            "tip": "Produse locale și vinuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Locanda del Gusto",
+            "tip": "Local products and wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Hotels leihen Fahrräder aus.",
+          "Die Wege am Po sind gut ausgeschildert."
+        ],
+        "hu": [
+          "Sok szálloda kínál bérkerékpárt.",
+          "A Pó menti utak jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Multe hoteluri oferă biciclete de închiriat.",
+          "Traseele de pe malul Po sunt bine marcate."
+        ],
+        "en": [
+          "Many hotels offer bike rentals.",
+          "The paths along the Po are well signposted."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Piazza Libertà (Cluster 1)",
+            "hu": "Piazza Libertà parkoló (1. klaszter)",
+            "ro": "Parcare Piazza Libertà (Cluster 1)",
+            "en": "Piazza Libertà Parking (Cluster 1)"
+          },
+          "coords": [
+            10.028,
+            45.136
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt am Rand der Altstadt.",
+            "hu": "Ideális kiindulópont az óváros szélén.",
+            "ro": "Punct de plecare ideal la marginea centrului vechi.",
+            "en": "Ideal starting point at the edge of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo & Torrazzo",
+            "hu": "Dóm és Torrazzo",
+            "ro": "Domul și Torrazzo",
+            "en": "Duomo & Torrazzo"
+          },
+          "coords": [
+            10.023,
+            45.133
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Comunale",
+            "hu": "Városháza",
+            "ro": "Palazzo Comunale",
+            "en": "Palazzo Comunale"
+          },
+          "coords": [
+            10.0222,
+            45.1328
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spaziergang im Zentrum.",
+            "hu": "Séta a központban.",
+            "ro": "Plimbare în centru.",
+            "en": "Walk in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Cluster 1)",
+            "hu": "Ebéd (1. klaszter)",
+            "ro": "Prânz (Cluster 1)",
+            "en": "Lunch (Cluster 1)"
+          },
+          "coords": [
+            10.0215,
+            45.1335
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten.",
+            "hu": "Élvezze a helyi specialitásokat.",
+            "ro": "Savurați specialitățile locale.",
+            "en": "Enjoy local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Violino (Cluster 2)",
+            "hu": "Hegedűmúzeum (2. klaszter)",
+            "ro": "Muzeul Viorii (Cluster 2)",
+            "en": "Violin Museum (Cluster 2)"
+          },
+          "coords": [
+            10.021,
+            45.1315
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg innerhalb des Clusters.",
+            "hu": "Rövid séta a klaszteren belül.",
+            "ro": "Scurtă plimbare în cadrul clusterului.",
+            "en": "Short walk within the cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ponchielli",
+            "hu": "Ponchielli Színház",
+            "ro": "Teatrul Ponchielli",
+            "en": "Teatro Ponchielli"
+          },
+          "coords": [
+            10.0195,
+            45.131
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Architektonisches Juwel.",
+            "hu": "Építészeti ékszerdoboz.",
+            "ro": "Giuvaier arhitectural.",
+            "en": "Architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Sigismondo (Cluster 3)",
+            "hu": "San Sigismondo-templom (3. klaszter)",
+            "ro": "Biserica San Sigismondo (Cluster 3)",
+            "en": "Church of San Sigismondo (Cluster 3)"
+          },
+          "coords": [
+            10.052,
+            45.127
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Stadtrand.",
+            "hu": "Autózás a város szélére.",
+            "ro": "Drum spre marginea orașului.",
+            "en": "Drive to the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick am Po",
+            "hu": "Panoráma a Pó-parton",
+            "ro": "Panoramă pe malul Po",
+            "en": "Panorama by the Po"
+          },
+          "coords": [
+            10.01,
+            45.115
+          ],
+          "category": "river",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Abschluss bei Sonnenuntergang.",
+            "hu": "Zárás a naplementében.",
+            "ro": "Final la apus.",
+            "en": "Finish at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto parken Sie bequem am Rande der ZTL (verkehrsberuhigte Zone) und erkunden den Stadtkern zu Fuß. Nach dem Kulturprogramm im Zentrum ermöglicht das Auto einen schnellen Besuch der prächtigen San Sigismondo Kirche außerhalb des Zentrums und einen Abstecher zum Po.",
+        "hu": "Autóval kényelmesen parkolhat a korlátozott forgalmi övezet (ZTL) szélén, majd gyalog fedezheti fel a belvárost. A központi kulturális program után az autó lehetővé teszi a városon kívüli San Sigismondo templom gyors meglátogatását és egy kitérőt a Pó-parthoz.",
+        "ro": "Cu mașina puteți parca comod la marginea zonei cu trafic limitat (ZTL) și explora centrul pe jos. După programul cultural central, mașina permite vizitarea rapidă a splendidei biserici San Sigismondo de la periferie și o scurtă oprire pe malul râului Po.",
+        "en": "By car, you can park conveniently at the edge of the ZTL (limited traffic zone) and explore the city center on foot. After the central cultural program, the car allows for a quick visit to the magnificent San Sigismondo church outside the center and a detour to the Po river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hosteria 700",
+            "tip": "Elegantes Restaurant mit lokaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hosteria 700",
+            "tip": "Elegáns étterem helyi konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hosteria 700",
+            "tip": "Restaurant elegant cu bucătărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hosteria 700",
+            "tip": "Elegant restaurant with local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Colonie Padane",
+            "tip": "Viel Grün am Flussufer.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Colonie Padane",
+            "tip": "Sok zöld terület a folyóparton.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Colonie Padane",
+            "tip": "Multă verdeață pe malul râului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Colonie Padane",
+            "tip": "Lots of greenery by the riverbank.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Commerciale Cremona Po",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Commerciale Cremona Po",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Commerciale Cremona Po",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Commerciale Cremona Po",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL-Schilder (Einfahrtsverbot).",
+          "Kostenlose Parkplätze finden Sie an der Via Mantova."
+        ],
+        "hu": [
+          "Ügyeljen a ZTL (behajtási tilalom) táblákra.",
+          "Ingyenes parkolót a Via Mantova környékén talál."
+        ],
+        "ro": [
+          "Atenție la indicatoarele ZTL (acces interzis).",
+          "Parcare gratuită găsiți pe Via Mantova."
+        ],
+        "en": [
+          "Watch out for ZTL (limited traffic) signs.",
+          "Free parking can be found on Via Mantova."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Cremona",
+            "hu": "Cremona vasútállomás",
+            "ro": "Gara Cremona",
+            "en": "Cremona Station"
+          },
+          "coords": [
+            10.022,
+            45.141
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Zugreisende.",
+            "hu": "Indulópont vonattal érkezőknek.",
+            "ro": "Punct de plecare pentru călătorii cu trenul.",
+            "en": "Starting point for train travelers."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Comune",
+            "hu": "Piazza del Comune",
+            "ro": "Piazza del Comune",
+            "en": "Piazza del Comune"
+          },
+          "coords": [
+            10.023,
+            45.133
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bus Linie L oder kurzer Spaziergang.",
+            "hu": "L buszjárat vagy rövid séta.",
+            "ro": "Linia de autobuz L sau scurtă plimbare.",
+            "en": "Bus Line L or a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo & Battistero",
+            "hu": "Dóm és Keresztelőkápolna",
+            "ro": "Domul și Baptisteriul",
+            "en": "Duomo & Baptistery"
+          },
+          "coords": [
+            10.023,
+            45.133
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Religiöses Zentrum.",
+            "hu": "Vallási központ.",
+            "ro": "Centrul religios.",
+            "en": "Religious center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            10.022,
+            45.134
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lokale Trattorien in den Gassen.",
+            "hu": "Helyi trattoriák a kisutcákban.",
+            "ro": "Trattorii locale pe străduțe.",
+            "en": "Local trattorias in the side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Violino",
+            "hu": "Hegedűmúzeum",
+            "ro": "Muzeul Viorii",
+            "en": "Violin Museum"
+          },
+          "coords": [
+            10.021,
+            45.131
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Ala Ponzone",
+            "hu": "Ala Ponzone Városi Múzeum",
+            "ro": "Museo Civico Ala Ponzone",
+            "en": "Museo Civico Ala Ponzone"
+          },
+          "coords": [
+            10.0165,
+            45.1365
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus oder zu Fuß durch die Stadt.",
+            "hu": "Busszal vagy gyalog a városon át.",
+            "ro": "Cu autobuzul sau pe jos prin oraș.",
+            "en": "By bus or walking through town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zum Bahnhof",
+            "hu": "Visszatérés az állomásra",
+            "ro": "Întoarcerea la gară",
+            "en": "Return to Station"
+          },
+          "coords": [
+            10.022,
+            45.141
+          ],
+          "category": "port",
+          "arrive_at": "17:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Pünktlich für den Zug.",
+            "hu": "Időben a vonathoz.",
+            "ro": "La timp pentru tren.",
+            "en": "In time for the train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cremona ist kompakt und vom Bahnhof aus leicht mit öffentlichen Bussen zu erkunden. Die Hauptattraktionen liegen in einem Cluster um die Piazza del Comune, was den Transit-Nutzer schont. Der Bus verbindet das Zentrum effizient mit den Museen und dem Bahnhof.",
+        "hu": "Cremona kompakt város, az állomásról könnyen felfedezhető helyi buszokkal. A főbb látnivalók a Piazza del Comune körüli klaszterben találhatók, ami kényelmessé teszi a látogatást. A buszhálózat hatékonyan köti össze a központot a múzeumokkal és a vasútállomással.",
+        "ro": "Cremona este un oraș compact, ușor de explorat cu autobuzele locale de la gară. Atracțiile principale sunt grupate în jurul Piazza del Comune, facilitând vizita. Rețeaua de autobuze conectează eficient centrul cu muzeele și gara.",
+        "en": "Cremona is compact and easy to explore using local buses from the station. The main sights are clustered around Piazza del Comune, making it convenient for transit users. The bus network efficiently connects the center with museums and the railway station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè Duomo",
+            "tip": "Klassisches Café mit Blick auf den Dom."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè Duomo",
+            "tip": "Klasszikus kávézó kilátással a dómra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè Duomo",
+            "tip": "Cafenea clasică cu vedere spre Dom."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè Duomo",
+            "tip": "Classic café with a view of the Cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Pubblici Giovanni Paolo II",
+            "tip": "Grüne Oase im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Pubblici Giovanni Paolo II",
+            "tip": "Zöld oázis a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Pubblici Giovanni Paolo II",
+            "tip": "Oază de verdeață în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Pubblici Giovanni Paolo II",
+            "tip": "Green oasis in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Campi",
+            "tip": "Haupteinkaufsstraße von Cremona."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Campi",
+            "tip": "Cremona fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Campi",
+            "tip": "Principala stradă comercială din Cremona."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Campi",
+            "tip": "Main shopping street of Cremona."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können in Tabakläden gekauft werden.",
+          "Der Bahnhof ist ca. 15-20 Gehminuten vom Zentrum entfernt."
+        ],
+        "hu": [
+          "Jegyet a dohányboltokban (tabaccheria) lehet venni.",
+          "Az állomás kb. 15-20 perc séta a központtól."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la tutungerii (tabaccheria).",
+          "Gara este la aproximativ 15-20 de minute de mers pe jos de centru."
+        ],
+        "en": [
+          "Tickets can be bought at tobacco shops (tabaccheria).",
+          "The station is about a 15-20 minute walk from the center."
+        ]
+      }
+    }
+  }
+}

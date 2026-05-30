@@ -1,0 +1,938 @@
+{
+  "city_id": "italy-torre-del-greco-cities-v2",
+  "anchor": {
+    "name": "Torre del Greco",
+    "coords": [
+      14.3948,
+      40.7813
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Palazzo Baronale",
+          "coords": [
+            14.395,
+            40.7815
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des historischen Rathauses im Stadtzentrum.",
+            "hu": "Csodálja meg a történelmi városháza homlokzatát a város szívében.",
+            "ro": "Admirați fațada primăriei istorice din centrul orașului.",
+            "en": "Admire the facade of the historic town hall in the heart of the city."
+          }
+        },
+        {
+          "name": "Basilica di Santa Croce",
+          "coords": [
+            14.394,
+            40.782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche ist dem Heiligen Vinzenz Ferrer gewidmet, dem Schutzpatron gegen Vulkanausbrüche.",
+            "hu": "A templomot Ferrer Szent Vincének szentelték, aki a vulkánkitörések elleni védőszent.",
+            "ro": "Biserica este dedicată Sfântului Vincențiu Ferrer, protectorul împotriva erupțiilor.",
+            "en": "The church is dedicated to Saint Vincent Ferrer, the protector against volcanic eruptions."
+          }
+        },
+        {
+          "name": "San Michele Arcangelo",
+          "coords": [
+            14.397,
+            40.783
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Barockkirche in den engen Gassen.",
+            "hu": "Látogasson el ebbe a bájos barokk templomba a szűk utcák között.",
+            "ro": "Vizitați această biserică barocă fermecătoare printre străduțele înguste.",
+            "en": "Visit this charming Baroque church nestled among the narrow streets."
+          }
+        },
+        {
+          "name": "Korallenmuseum (Museo del Corallo)",
+          "coords": [
+            14.392,
+            40.785
+          ],
+          "category": "museums",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die filigrane Kunst der Korallen- und Kameenschnitzerei.",
+            "hu": "Fedezze fel a korall- és kámeafaragás finom művészetét.",
+            "ro": "Descoperiți arta delicată a sculpturii în corali și camee.",
+            "en": "Discover the delicate art of coral and cameo carving."
+          }
+        },
+        {
+          "name": "Mittagessen im Zentrum",
+          "coords": [
+            14.393,
+            40.783
+          ],
+          "category": "gastro",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frittierte Meeresfrüchte in einer lokalen 'Friggitoria'.",
+            "hu": "Kóstolja meg a sült tenger gyümölcsit egy helyi 'friggitoria'-ban.",
+            "ro": "Gustați fructe de mare prăjite într-o 'friggitoria' locală.",
+            "en": "Taste fried seafood in a local 'friggitoria'."
+          }
+        },
+        {
+          "name": "Hafen von Torre del Greco",
+          "coords": [
+            14.391,
+            40.78
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote mit dem Vesuv im Hintergrund.",
+            "hu": "Figyelje a halászhajókat, háttérben a Vezúvval.",
+            "ro": "Urmăriți bărcile de pescuit cu Vezuviul în fundal.",
+            "en": "Watch the fishing boats with Vesuvius in the background."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Torre del Greco, am Fuße des Vesuvs gelegen, ist weltberühmt für seine Korallenverarbeitung. Ihr Spaziergang beginnt im historischen Zentrum am Palazzo Baronale und führt Sie zur Basilica di Santa Croce, die nach dem Vulkanausbruch von 1794 wiederaufgebaut wurde. Nach dem Besuch des beeindruckenden Korallenmuseums genießen Sie die frische Meeresbrise am geschäftigen Hafen.",
+        "hu": "A Vezúv lábánál fekvő Torre del Greco világszerte híres korallmegmunkálásáról. Sétája a történelmi központban, a Palazzo Baronalénál kezdődik, majd az 1794-es vulkánkitörés után újjáépült Basilica di Santa Croce felé vezet. A lenyűgöző Korallmúzeum megtekintése után élvezze a friss tengeri szellőt a nyüzsgő kikötőben.",
+        "ro": "Situat la poalele Vezuviului, Torre del Greco este renumit mondial pentru prelucrarea coralului. Plimbarea începe în centrul istoric la Palazzo Baronale și vă conduce spre Basilica di Santa Croce, reconstruită după erupția din 1794. După vizitarea impresionantului Muzeu al Coralului, bucurați-vă de briza mării în portul plin de viață.",
+        "en": "Located at the foot of Vesuvius, Torre del Greco is world-famous for its coral craftsmanship. Your walk begins in the historic center at Palazzo Baronale and leads to the Basilica di Santa Croce, rebuilt after the 1794 eruption. After visiting the impressive Coral Museum, enjoy the fresh sea breeze at the bustling harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Frische Muscheln direkt aus dem Golf von Neapel."
+          },
+          {
+            "name": "Sfogliatella",
+            "tip": "Ein klassisches neapolitanisches Gebäck, warm am besten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Friss kagyló közvetlenül a Nápolyi-öbölből."
+          },
+          {
+            "name": "Sfogliatella",
+            "tip": "Klasszikus nápolyi sütemény, melegen a legjobb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Scoici proaspete direct din Golful Napoli."
+          },
+          {
+            "name": "Sfogliatella",
+            "tip": "Un foietaj clasic napoletan, cel mai bun servit cald."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spaghetti alle Vongole",
+            "tip": "Fresh clams directly from the Gulf of Naples."
+          },
+          {
+            "name": "Sfogliatella",
+            "tip": "A classic Neapolitan pastry, best enjoyed warm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmauer",
+            "tip": "Ein ruhiger Ort, um den Sonnenuntergang über Capri zu beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőgát",
+            "tip": "Csendes hely a Capri feletti naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Un loc liniștit pentru a privi apusul peste Capri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor wall",
+            "tip": "A quiet spot to watch the sunset over Capri.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korallen-Werkstätten",
+            "tip": "Suchen Sie nach dem Echtheitszertifikat für Ihren Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korall-műhelyek",
+            "tip": "Keresse az ékszerek eredetiségét igazoló tanúsítványt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de corali",
+            "tip": "Căutați certificatul de autenticitate pentru bijuterii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coral workshops",
+            "tip": "Look for the certificate of authenticity for your jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist hügelig, tragen Sie bequeme Schuhe.",
+          "Besuchen Sie das Korallenmuseum am Vormittag.",
+          "Die Mittagspause (Siesta) wird hier strikt eingehalten.",
+          "Der Hafen ist am frühen Morgen am aktivsten."
+        ],
+        "hu": [
+          "A város dombos, viseljen kényelmes cipőt.",
+          "A Korallmúzeumot délelőtt érdemes látogatni.",
+          "A délutáni pihenőt (szieszta) itt szigorúan betartják.",
+          "A kikötő kora reggel a legélénkebb."
+        ],
+        "ro": [
+          "Orașul este deluros, purtați pantofi confortabili.",
+          "Vizitați Muzeul Coralului în cursul dimineții.",
+          "Pauza de prânz (siesta) este respectată cu strictețe.",
+          "Portul este cel mai activ dimineața devreme."
+        ],
+        "en": [
+          "The city is hilly, so wear comfortable shoes.",
+          "Visit the Coral Museum in the morning.",
+          "The lunch break (siesta) is strictly observed here.",
+          "The harbor is most active in the early morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen von Torre del Greco",
+          "coords": [
+            14.391,
+            40.78
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am Meer mit Blick auf den Vesuv.",
+            "hu": "Kezdje a túrát a tengerparton, kilátással a Vezúvra.",
+            "ro": "Începeți turul la malul mării cu vedere la Vezuviu.",
+            "en": "Start your tour by the sea with a view of Vesuvius."
+          }
+        },
+        {
+          "name": "Villa Sora",
+          "coords": [
+            14.382,
+            40.789
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser antiken römischen Villa am Meer.",
+            "hu": "Fedezze fel ennek az ókori római villának a maradványait a parton.",
+            "ro": "Explorați vestigiile acestei vechi vile romane de pe malul mării.",
+            "en": "Explore the remains of this ancient Roman villa by the shore."
+          }
+        },
+        {
+          "name": "Korallenmuseum",
+          "coords": [
+            14.392,
+            40.785
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher in der Nähe des Instituts ab.",
+            "hu": "Zárja le biztonságosan a kerékpárt az intézet közelében.",
+            "ro": "Parcați bicicleta în siguranță lângă institut.",
+            "en": "Park your bike securely near the institute."
+          }
+        },
+        {
+          "name": "Mittagessen (Küstenstraße)",
+          "coords": [
+            14.385,
+            40.785
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie Pasta mit Meeresfrüchten und Meerblick.",
+            "hu": "Élvezze a tengeri tésztát tengeri kilátással.",
+            "ro": "Savurați paste cu fructe de mare și vedere la mare.",
+            "en": "Enjoy seafood pasta with a sea view."
+          }
+        },
+        {
+          "name": "Monastero degli Zoccolanti",
+          "coords": [
+            14.405,
+            40.785
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den ruhigen Kreuzgang dieses alten Klosters.",
+            "hu": "Látogassa meg a régi kolostor csendes kerengőjét.",
+            "ro": "Vizitați claustrul liniștit al acestei vechi mănăstiri.",
+            "en": "Visit the quiet cloister of this ancient monastery."
+          }
+        },
+        {
+          "name": "Basilica di Santa Croce",
+          "coords": [
+            14.394,
+            40.782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour im Stadtzentrum.",
+            "hu": "Zárja a túrát a városközpontban.",
+            "ro": "Încheiați turul în centrul orașului.",
+            "en": "Finish your tour in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Küstenschönheit von Torre del Greco mit seinen historischen Schätzen. Vom Hafen aus radeln Sie zur antiken Villa Sora und kehren dann ins Zentrum zurück, um das Korallenmuseum zu besuchen. Die Route bietet herrliche Ausblicke auf den Golf von Neapel und führt Sie schließlich zum friedlichen Monastero degli Zoccolanti.",
+        "hu": "Ez a kerékpártúra ötvözi Torre del Greco tengerparti szépségét történelmi kincseivel. A kikötőtől az ókori Villa Sorához tekerhet, majd visszatér a központba a Korallmúzeumhoz. Az útvonal csodálatos kilátást nyújt a Nápolyi-öbölre, végül pedig a békés Monastero degli Zoccolantihoz vezet.",
+        "ro": "Acest tur cu bicicleta îmbină frumusețea de coastă a orașului Torre del Greco cu comorile sale istorice. De la port, pedalați spre antica Villa Sora, apoi reveniți în centru pentru Muzeul Coralului. Traseul oferă priveliști superbe asupra Golfului Napoli și vă duce în final la liniștita mănăstire Monastero degli Zoccolanti.",
+        "en": "This bike tour combines the coastal beauty of Torre del Greco with its historical treasures. From the harbor, pedal to the ancient Villa Sora, then return to the center for the Coral Museum. The route offers superb views of the Gulf of Naples and finally takes you to the peaceful Monastero degli Zoccolanti."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizza Napoletana",
+            "tip": "Dünner Boden, hoher Rand, direkt aus dem Steinofen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nápolyi pizza",
+            "tip": "Vékony tészta, magas szél, közvetlenül a fatüzelésű kemencéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza Napoletana",
+            "tip": "Aluat subțire, margini pufoase, direct din cuptorul cu lemne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neapolitan Pizza",
+            "tip": "Thin base, high crust, straight from the wood-fired oven."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang der Zoccolanti",
+            "tip": "Ein Ort der Stille und Kontemplation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zoccolanti kerengő",
+            "tip": "A csend és az elmélyülés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Zoccolanti",
+            "tip": "Un loc de liniște și contemplare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoccolanti Cloister",
+            "tip": "A place of silence and contemplation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korallen-Souvenirs",
+            "tip": "Kleine Anhänger sind perfekte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korall szuvenírek",
+            "tip": "A kis medálok tökéletes ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din corali",
+            "tip": "Pandantivele mici sunt cadouri perfecte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coral souvenirs",
+            "tip": "Small pendants make perfect gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße ist flacher als das obere Stadtgebiet.",
+          "Achten Sie auf den dichten Verkehr im Zentrum.",
+          "Ein Schloss ist für Pausen unbedingt erforderlich.",
+          "Mittags ist es auf dem Rad sehr heiß, suchen Sie Schatten."
+        ],
+        "hu": [
+          "A tengerparti út síkabb, mint a felső városrész.",
+          "Ügyeljen az erős forgalomra a központban.",
+          "A kerékpárzár elengedhetetlen a megállásoknál.",
+          "Délben nagyon meleg van a biciklin, keressen árnyékot."
+        ],
+        "ro": [
+          "Drumul de coastă este mai plat decât zona de sus a orașului.",
+          "Atenție la traficul intens din centru.",
+          "Un antifurt este absolut necesar pentru pauze.",
+          "La prânz este foarte cald pe bicicletă, căutați umbră."
+        ],
+        "en": [
+          "The coastal road is flatter than the upper city area.",
+          "Watch out for heavy traffic in the center.",
+          "A bike lock is essential for stops.",
+          "It gets very hot on the bike at noon, so seek shade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Palazzo Baronale (Cluster A)",
+          "coords": [
+            14.395,
+            40.7815
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Piazza Santa Croce.",
+            "hu": "Parkoljon a Piazza Santa Croce közelében.",
+            "ro": "Parcați în apropiere de Piazza Santa Croce.",
+            "en": "Park near Piazza Santa Croce."
+          }
+        },
+        {
+          "name": "Basilica di Santa Croce (Cluster A)",
+          "coords": [
+            14.394,
+            40.782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die unterirdischen Reste der alten Kirche.",
+            "hu": "Nézze meg a régi templom föld alatti maradványait.",
+            "ro": "Vizitați vestigiile subterane ale vechii biserici.",
+            "en": "Visit the underground remains of the old church."
+          }
+        },
+        {
+          "name": "Villa delle Ginestre (Cluster B)",
+          "coords": [
+            14.41,
+            40.795
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Ort, an dem der Dichter Giacomo Leopardi seine letzten Jahre verbrachte.",
+            "hu": "A hely, ahol Giacomo Leopardi költő utolsó éveit töltötte.",
+            "ro": "Locul unde poetul Giacomo Leopardi și-a petrecut ultimii ani.",
+            "en": "The place where the poet Giacomo Leopardi spent his last years."
+          }
+        },
+        {
+          "name": "Mittagessen (Cluster C)",
+          "coords": [
+            14.391,
+            40.78
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Suchen Sie ein Restaurant am Hafen für frischen Fisch.",
+            "hu": "Keressen egy éttermet a kikötőben a friss halakhoz.",
+            "ro": "Căutați un restaurant în port pentru pește proaspăt.",
+            "en": "Find a restaurant at the harbor for fresh fish."
+          }
+        },
+        {
+          "name": "Hafen von Torre del Greco (Cluster C)",
+          "coords": [
+            14.391,
+            40.78
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Kaimauer.",
+            "hu": "Rövid séta a rakpart mentén.",
+            "ro": "O scurtă plimbare de-a lungul cheiului.",
+            "en": "A short walk along the quay."
+          }
+        },
+        {
+          "name": "Villa Sora (Cluster C)",
+          "coords": [
+            14.382,
+            40.789
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Archäologische Stätte einer römischen Villa.",
+            "hu": "Egy római villa régészeti lelőhelye.",
+            "ro": "Situl arheologic al unei vile romane.",
+            "en": "Archaeological site of a Roman villa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die verschiedenen Ebenen von Torre del Greco. Sie beginnen im Stadtzentrum bei der Basilica di Santa Croce, fahren dann hinauf zur Villa delle Ginestre, um in das Leben des Dichters Leopardi einzutauchen, und kehren schließlich ans Meer zurück. Die Cluster-Strategie ermöglicht es Ihnen, sowohl die Kulturdenkmäler als auch die Küstenatmosphäre stressfrei zu erleben.",
+        "hu": "Autóval felfedezheti Torre del Greco különböző szintjeit. A városközpontban kezd a Basilica di Santa Crocénál, majd felhajt a Villa delle Ginestréhez, hogy elmerüljön Leopardi költő életében, végül pedig visszatér a tengerpartra. A klaszter-stratégia lehetővé teszi a kulturális műemlékek és a tengerparti hangulat stresszmentes megismerését.",
+        "ro": "Cu mașina explorați diferitele niveluri ale orașului Torre del Greco. Începeți în centrul orașului la Basilica di Santa Croce, apoi urcați la Villa delle Ginestre pentru a pătrunde în viața poetului Leopardi, și în final reveniți la malul mării. Strategia pe grupuri vă permite să experimentați monumentele culturale și atmosfera de coastă fără stres.",
+        "en": "By car, you explore the different levels of Torre del Greco. You start in the city center at the Basilica di Santa Croce, then drive up to Villa delle Ginestre to immerse yourself in the life of the poet Leopardi, and finally return to the seaside. The cluster strategy allows you to experience the cultural monuments and the coastal atmosphere stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto di Pesce",
+            "tip": "Frittierte Meeresfrüchte, serviert in einer Papiertüte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto di Pesce",
+            "tip": "Sült tengeri gyümölcsök, papírtölcsérben tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto di Pesce",
+            "tip": "Fructe de mare prăjite, servite într-un cornet de hârtie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto di Pesce",
+            "tip": "Mixed fried seafood served in a paper cone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Villa delle Ginestre",
+            "tip": "Ruhe am Hang des Vesuvs mit Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa delle Ginestre kertje",
+            "tip": "Csend a Vezúv oldalában, panorámás kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina vilei delle Ginestre",
+            "tip": "Liniște pe versantul Vezuviului cu vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa delle Ginestre Garden",
+            "tip": "Peace on the slopes of Vesuvius with panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kameen-Broschen",
+            "tip": "Ein zeitloses Schmuckstück aus Torre del Greco."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kámeás brosok",
+            "tip": "Időtlen ékszer Torre del Grecóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broșe camee",
+            "tip": "O bijuterie atemporală din Torre del Greco."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cameo brooches",
+            "tip": "A timeless piece of jewelry from Torre del Greco."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Die Straße zur Villa delle Ginestre ist schmal.",
+          "Vermeiden Sie die Rushhour am Morgen.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet a központban, használjon parkolóházakat.",
+          "A Villa delle Ginestréhez vezető út keskeny.",
+          "Kerülje a reggeli csúcsforgalmat.",
+          "Ne hagyjon értéktárgyat látható helyen az autóban."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcările etajate.",
+          "Drumul spre Villa delle Ginestre este îngust.",
+          "Evitați ora de vârf de dimineață.",
+          "Nu lăsați obiecte de valoare la vedere în mașină."
+        ],
+        "en": [
+          "Parking in the center can be difficult, so use parking garages.",
+          "The road to Villa delle Ginestre is narrow.",
+          "Avoid the morning rush hour.",
+          "Do not leave valuables visible in the car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Basilica di Santa Croce (Zentrum)",
+          "coords": [
+            14.394,
+            40.782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof 'Torre del Greco' (Circumvesuviana).",
+            "hu": "Rövid séta a 'Torre del Greco' állomástól (Circumvesuviana).",
+            "ro": "Scurtă plimbare de la stația 'Torre del Greco' (Circumvesuviana).",
+            "en": "Short walk from 'Torre del Greco' station (Circumvesuviana)."
+          }
+        },
+        {
+          "name": "Korallenmuseum",
+          "coords": [
+            14.392,
+            40.785
+          ],
+          "category": "museums",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Kunstliebhaber im Herzen der Stadt.",
+            "hu": "Művészetkedvelőknek kötelező a város szívében.",
+            "ro": "O necesitate pentru iubitorii de artă în inima orașului.",
+            "en": "A must for art lovers in the heart of the city."
+          }
+        },
+        {
+          "name": "Mittagessen im Zentrum",
+          "coords": [
+            14.393,
+            40.783
+          ],
+          "category": "gastro",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine echte neapolitanische Pizza.",
+            "hu": "Élvezzen egy igazi nápolyi pizzát.",
+            "ro": "Savurați o pizza napoletană autentică.",
+            "en": "Enjoy an authentic Neapolitan pizza."
+          }
+        },
+        {
+          "name": "Villa delle Ginestre",
+          "coords": [
+            14.41,
+            40.795
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus oder ein Taxi vom Zentrum.",
+            "hu": "Vegye igénybe a helyi buszt vagy taxit a központból.",
+            "ro": "Luați autobuzul local sau un taxi din centru.",
+            "en": "Take the local bus or a taxi from the center."
+          }
+        },
+        {
+          "name": "Hafen von Torre del Greco",
+          "coords": [
+            14.391,
+            40.78
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Endstation Ihres Tagesausflugs am Meer.",
+            "hu": "Egynapos kirándulásának utolsó állomása a tengerparton.",
+            "ro": "Ultima oprire a excursiei de o zi la malul mării.",
+            "en": "The final stop of your day trip by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Circumvesuviana, um das Zentrum von Torre del Greco bequem zu erreichen. Nach dem Besuch der Basilica und des Korallenmuseums können Sie mit dem Bus zur Villa delle Ginestre fahren. Diese Tour kombiniert die Effizienz öffentlicher Verkehrsmittel mit der Entdeckung der wichtigsten Sehenswürdigkeiten der Korallenstadt.",
+        "hu": "Használja a Circumvesuviana vasutat Torre del Greco központjának kényelmes eléréséhez. A bazilika és a Korallmúzeum meglátogatása után busszal utazhat a Villa delle Ginestréhez. Ez a túra ötvözi a tömegközlekedés hatékonyságát a Korallváros legfontosabb látnivalóinak felfedezésével.",
+        "ro": "Folosiți Circumvesuviana pentru a ajunge ușor în centrul orașului Torre del Greco. După vizitarea basilicii și a Muzeului Coralului, puteți merge cu autobuzul la Villa delle Ginestre. Acest tur combină eficiența transportului public cu descoperirea celor mai importante obiective ale orașului coralului.",
+        "en": "Use the Circumvesuviana railway to easily reach the center of Torre del Greco. After visiting the Basilica and the Coral Museum, you can take a bus to Villa delle Ginestre. This tour combines the efficiency of public transport with the discovery of the coral city's key attractions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Meeresfrüchte-Mix zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Tengeri gyümölcsök elvitelre, papírtölcsérben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Mix de fructe de mare la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cuoppo di Pesce",
+            "tip": "Seafood mix to go in a paper cone."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza Santa Croce",
+            "tip": "Beobachten Sie das lokale Leben von einer Bank aus.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza Santa Croce",
+            "tip": "Figyelje a helyi életet egy padról.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza Santa Croce",
+            "tip": "Urmăriți viața locală de pe o bancă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza Santa Croce",
+            "tip": "Watch local life from a bench.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Korallen-Boutiquen",
+            "tip": "In der Via Roma finden Sie die besten Geschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korall-boltok",
+            "tip": "A Via Roma mentén találja a legjobb üzleteket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri de corali",
+            "tip": "Veți găsi cele mai bune magazine pe Via Roma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coral boutiques",
+            "tip": "You will find the best shops along Via Roma."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Circumvesuviana (Linie Neapel-Sorrent).",
+          "Kaufen Sie die Tickets im Voraus am Bahnhof.",
+          "Busse fahren seltener am frühen Nachmittag.",
+          "Die Bahnhöfe können zur Stoßzeit sehr voll sein."
+        ],
+        "hu": [
+          "Ellenőrizze a Circumvesuviana menetrendjét (Nápoly-Sorrento vonal).",
+          "Vásárolja meg a jegyeket előre az állomáson.",
+          "A buszok ritkábban járnak kora délután.",
+          "Az állomások nagyon zsúfoltak lehetnek csúcsidőben."
+        ],
+        "ro": [
+          "Verificați orarul Circumvesuviana (linia Napoli-Sorrento).",
+          "Cumpărați biletele în avans de la gară.",
+          "Autobuzele circulă mai rar după-amiaza devreme.",
+          "Stațiile pot fi foarte aglomerate la orele de vârf."
+        ],
+        "en": [
+          "Check the Circumvesuviana schedule (Naples-Sorrento line).",
+          "Buy tickets in advance at the station.",
+          "Buses run less frequently in the early afternoon.",
+          "Stations can be very crowded during rush hour."
+        ]
+      }
+    }
+  }
+}

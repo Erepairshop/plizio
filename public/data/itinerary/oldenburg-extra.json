@@ -1,0 +1,1136 @@
+{
+  "city_id": "oldenburg-extra",
+  "anchor": {
+    "name": "Oldenburg",
+    "coords": [
+      8.2115,
+      53.1435
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lappan",
+            "hu": "Lappan torony",
+            "ro": "Turnul Lappan",
+            "en": "Lappan Tower"
+          },
+          "coords": [
+            8.214,
+            53.144
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Das Wahrzeichen der Stadt in der Fußgängerzone.",
+            "hu": "A város jelképe a sétálóövezet északi szélén.",
+            "ro": "Simbolul orașului în zona pietonală.",
+            "en": "The city's landmark at the north of the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Lambertikirche",
+            "hu": "Lamberti-templom",
+            "ro": "Biserica Sf. Lambert",
+            "en": "St. Lamberti Church"
+          },
+          "coords": [
+            8.2141,
+            53.1415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Beeindruckende neugotische Architektur am Marktplatz.",
+            "hu": "Lenyűgöző neogótikus építészet a főtéren.",
+            "ro": "Arhitectură neogotică impresionantă în piața centrală.",
+            "en": "Impressive Neo-Gothic architecture at the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Degodehaus",
+            "hu": "Degode-ház",
+            "ro": "Casa Degode",
+            "en": "Degode House"
+          },
+          "coords": [
+            8.2132,
+            53.1412
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Prachtvolles Fachwerkhaus aus dem Jahr 1617.",
+            "hu": "Pompás gerendavázas ház 1617-ből.",
+            "ro": "Casă superbă pe jumătate din lemn din 1617.",
+            "en": "Magnificent half-timbered house dating back to 1617."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oldenburg",
+            "hu": "Oldenburgi kastély",
+            "ro": "Castelul Oldenburg",
+            "en": "Oldenburg Castle"
+          },
+          "coords": [
+            8.216,
+            53.1405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ehemalige Residenz der Großherzöge mit Landesmuseum.",
+            "hu": "Az egykori nagyhercegi rezidencia, ma múzeum.",
+            "ro": "Fosta reședință a marilor duci, acum muzeu de stat.",
+            "en": "Former residence of the Grand Dukes, now a state museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Schlossplatz",
+            "hu": "Ebéd a Kastély-téren",
+            "ro": "Prânz în Piața Castelului",
+            "en": "Lunch at Schlossplatz"
+          },
+          "coords": [
+            8.215,
+            53.14
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Probieren Sie Oldenburger Grünkohl in der Saison.",
+            "hu": "Próbálja ki a helyi kelkáposztát szezonban.",
+            "ro": "Gustați varza kale locală în timpul sezonului.",
+            "en": "Try the local kale (Grünkohl) during the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélykert",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            8.213,
+            53.136
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein englischer Landschaftsgarten zum Entspannen.",
+            "hu": "Angol tájképi kert a tökéletes pihenéshez.",
+            "ro": "O grădină peisagistică englezească pentru relaxare.",
+            "en": "An English landscape garden perfect for relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Oldenburg",
+            "hu": "Oldenburgi kikötő",
+            "ro": "Portul Oldenburg",
+            "en": "Oldenburg Harbor"
+          },
+          "coords": [
+            8.221,
+            53.139
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Spaziergang entlang der Kaje zum Abschluss.",
+            "hu": "Zárja a napot egy sétával a rakpart mentén.",
+            "ro": "Încheiați ziua cu o plimbare pe malul apei.",
+            "en": "End the day with a walk along the quay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Lappan, dem markanten Glockenturm, und spazieren Sie durch die gemütliche Fußgängerzone zur Lambertikirche. Nach einem Blick auf das historische Degodehaus erkunden Sie das prächtige Residenzschloss. Mittags genießen Sie regionale Spezialitäten am Schlossplatz, bevor Sie am Nachmittag im weitläufigen Schlossgarten flanieren. Den Abend lassen Sie entspannt am Oldenburger Stadthafen ausklingen.",
+        "hu": "Kezdje a napot a Lappannál, az ikonikus harangtoronynál, majd sétáljon át a barátságos sétálóutcán a Lamberti-templomhoz. A történelmi Degode-ház megtekintése után fedezze fel a pompás kastélyt. Ebédre kóstoljon helyi specialitásokat a Schlossplatz környékén, délután pedig tegyen egy pihentető sétát az angol stílusú kastélykertben. A napot a hangulatos kikötőben, a vízparton fejezheti be.",
+        "ro": "Începeți ziua la Lappan, turnul emblematic, apoi mergeți prin zona pietonală primitoare către Biserica Sf. Lambert. După ce vedeți istorica Casă Degode, explorați splendidul castel rezidențial. La prânz, savurați specialități regionale lângă Piața Castelului, iar după-amiaza plimbați-vă în vasta grădină a castelului. Încheiați seara relaxat în portul orașului Oldenburg.",
+        "en": "Start your day at the Lappan, the iconic bell tower, and walk through the cozy pedestrian zone to St. Lamberti Church. After seeing the historic Degode House, explore the magnificent residential castle. For lunch, enjoy regional specialties near Schlossplatz, and in the afternoon, stroll through the extensive Castle Garden. End your evening in a relaxed atmosphere at the Oldenburg city harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller Oldenburg",
+            "tip": "Traditionelle deutsche Küche im historischen Keller."
+          },
+          {
+            "name": "Oldenburger Grünkohl",
+            "tip": "Das Nationalgericht mit Pinkel (Grützwurst)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller Oldenburg",
+            "tip": "Hagyományos német konyha egy történelmi pincében."
+          },
+          {
+            "name": "Oldenburger Grünkohl",
+            "tip": "A helyi kelkáposzta-étel Pinkel kolbásszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller Oldenburg",
+            "tip": "Bucătărie tradițională germană într-o pivniță istorică."
+          },
+          {
+            "name": "Oldenburger Grünkohl",
+            "tip": "Mâncarea națională de varză kale cu cârnați Pinkel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller Oldenburg",
+            "tip": "Traditional German cuisine in a historic cellar."
+          },
+          {
+            "name": "Oldenburger Grünkohl",
+            "tip": "The regional kale dish served with Pinkel sausage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ruhige Ecken im hinteren Teil des Gartens.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eversten Holz",
+            "tip": "Naherholungsgebiet für lange Waldspaziergänge.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélykert",
+            "tip": "Csendes szegletek a kert hátsó részében.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eversten Holz",
+            "tip": "Közeli erdő a természetközeli sétákhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Castelului",
+            "tip": "Colțuri liniștite în partea din spate a grădinii.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eversten Holz",
+            "tip": "Zonă de recreere pentru plimbări lungi prin pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Garden",
+            "tip": "Quiet spots in the rear section of the garden.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Eversten Holz",
+            "tip": "Nearby forest area for long nature walks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schloßhöfe",
+            "tip": "Modernes Einkaufszentrum im Herzen der Stadt."
+          },
+          {
+            "name": "Lambertihof",
+            "tip": "Kleine Boutiquen in charmanten Hinterhöfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schloßhöfe",
+            "tip": "Modern bevásárlóközpont a város szívében."
+          },
+          {
+            "name": "Lambertihof",
+            "tip": "Kis butikok bájos belső udvarokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schloßhöfe",
+            "tip": "Centru comercial modern în inima orașului."
+          },
+          {
+            "name": "Lambertihof",
+            "tip": "Boutique-uri mici în curți interioare fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schloßhöfe",
+            "tip": "Modern shopping center in the heart of the city."
+          },
+          {
+            "name": "Lambertihof",
+            "tip": "Small boutiques in charming courtyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist fast komplett eine Fußgängerzone, tragen Sie bequeme Schuhe.",
+          "Besuchen Sie den Wochenmarkt auf dem Pferdemarkt (Di, Do, Sa).",
+          "Das Fahrrad ist hier das Hauptverkehrsmittel, achten Sie auf Radwege.",
+          "Das Schlossmuseum hat montags geschlossen."
+        ],
+        "hu": [
+          "A belváros szinte teljes egészében sétálóövezet, viseljen kényelmes cipőt.",
+          "Látogasson el a heti piacra a Pferdemarkt-on (Kedd, Csüt, Szomb).",
+          "A kerékpár itt a fő közlekedési eszköz, figyeljen a bicikliutakra.",
+          "A Kastélymúzeum hétfőnként zárva tart."
+        ],
+        "ro": [
+          "Centrul orașului este aproape în întregime pietonal, purtați pantofi confortabili.",
+          "Vizitați piața săptămânală din Pferdemarkt (marți, joi, sâmbătă).",
+          "Bicicleta este principalul mijloc de transport aici, atenție la pistele de biciclete.",
+          "Muzeul Castelului este închis lunea."
+        ],
+        "en": [
+          "The city center is almost entirely a pedestrian zone, so wear comfortable shoes.",
+          "Visit the weekly market at Pferdemarkt (Tue, Thu, Sat).",
+          "Bicycles are the main mode of transport here, so watch out for bike lanes.",
+          "The Castle Museum is closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lappan",
+            "hu": "Lappan",
+            "ro": "Lappan",
+            "en": "Lappan"
+          },
+          "coords": [
+            8.214,
+            53.144
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Startpunkt an der Stadtgrenze.",
+            "hu": "Kiindulópont a belváros szélén.",
+            "ro": "Punct de plecare la marginea centrului.",
+            "en": "Starting point at the edge of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Horst-Janssen-Museum",
+            "hu": "Horst Janssen Múzeum",
+            "ro": "Muzeul Horst Janssen",
+            "en": "Horst Janssen Museum"
+          },
+          "coords": [
+            8.218,
+            53.144
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Bedeutendes Museum für grafische Kunst.",
+            "hu": "Jelentős grafikai művészeti múzeum.",
+            "ro": "Muzeu important de artă grafică.",
+            "en": "Significant museum for graphic arts."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldenburgisches Staatstheater",
+            "hu": "Állami Színház",
+            "ro": "Teatrul de Stat",
+            "en": "State Theatre"
+          },
+          "coords": [
+            8.211,
+            53.14
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Wunderschöner klassizistischer Bau.",
+            "hu": "Gyönyörű klasszicista épület.",
+            "ro": "Clădire clasicistă superbă.",
+            "en": "Beautiful neoclassical building."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélykert",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            8.213,
+            53.136
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Fahrradfahren ist auf den Hauptwegen erlaubt.",
+            "hu": "A kerékpározás a főutakon megengedett.",
+            "ro": "Bicicletul este permis pe aleile principale.",
+            "en": "Cycling is allowed on the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Oldenburg",
+            "hu": "Kikötő",
+            "ro": "Port",
+            "en": "Harbor"
+          },
+          "coords": [
+            8.221,
+            53.139
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Schöner Radweg entlang des Küstenkanals.",
+            "hu": "Szép kerékpárút a csatorna mentén.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul canalului.",
+            "en": "Beautiful bike path along the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenkanal-Tour",
+            "hu": "Csatornaparti túra",
+            "ro": "Turul canalului de coastă",
+            "en": "Coastal Canal Tour"
+          },
+          "coords": [
+            8.24,
+            53.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Erkunden Sie das grüne Umland der Stadt.",
+            "hu": "Fedezze fel a város zöld környékét.",
+            "ro": "Explorați împrejurimile verzi ale orașului.",
+            "en": "Explore the green outskirts of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Oldenburg ist eine Fahrradstadt. Starten Sie am Lappan und besuchen Sie das Horst-Janssen-Museum. Radeln Sie vorbei am Staatstheater zum Schlossgarten. Nach einer Pause am Hafen führt Sie die Tour entlang des Küstenkanals ins Grüne, wo Sie die entspannte norddeutsche Landschaft genießen können.",
+        "hu": "Oldenburg igazi kerékpáros város. Kezdjen a Lappannál, majd látogasson el a Horst Janssen Múzeumba. Tekerjen el az Állami Színház mellett a Kastélykertig. A kikötői pihenő után a túra a part menti csatorna mentén vezet a zöldbe, ahol élvezheti a nyugodt észak-német tájat.",
+        "ro": "Oldenburg este un oraș al bicicletelor. Începeți la Lappan și vizitați Muzeul Horst Janssen. Pedalați pe lângă Teatrul de Stat până la Grădina Castelului. După o pauză în port, turul vă duce de-a lungul canalului de coastă în natură, unde vă puteți bucura de peisajul relaxat al Germaniei de Nord.",
+        "en": "Oldenburg is a city of bicycles. Start at the Lappan and visit the Horst Janssen Museum. Cycle past the State Theatre to the Castle Garden. After a break at the harbor, the tour takes you along the Coastal Canal into the countryside, where you can enjoy the relaxed North German landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glashaus",
+            "tip": "Café im Schlossgarten mit toller Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glashaus",
+            "tip": "Kávézó a Kastélykertben, remek kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glashaus",
+            "tip": "Cafenea în Grădina Castelului cu o priveliște minunată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glashaus",
+            "tip": "Café in the Castle Garden with a great view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Küstenkanals",
+            "tip": "Viel Grün und Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatornapart",
+            "tip": "Sok zöld és víz.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul canalului",
+            "tip": "Multă verdeață și apă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal banks",
+            "tip": "Plenty of greenery and water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradstation am Bahnhof",
+            "tip": "Zubehör und Mieträder."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárállomás a vasútnál",
+            "tip": "Kiegészítők és bérlés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stația de biciclete de la gară",
+            "tip": "Accesorii și închirieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike station at the station",
+            "tip": "Accessories and rentals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das ausgezeichnete Radwegenetz (Route um Oldenburg).",
+          "Schließen Sie Ihr Rad immer gut ab."
+        ],
+        "hu": [
+          "Használja a kiváló kerékpárút-hálózatot.",
+          "Mindig zárja le jól a biciklijét."
+        ],
+        "ro": [
+          "Utilizați rețeaua excelentă de piste de biciclete.",
+          "Asigurați-vă întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Use the excellent bike path network.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Schlossplatz",
+            "hu": "Kastély-téri parkoló",
+            "ro": "Parcare Schlossplatz",
+            "en": "Schlossplatz Parking"
+          },
+          "coords": [
+            8.216,
+            53.14
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Zentraler Parkplatz für den Cluster Altstadt.",
+            "hu": "Központi parkoló az óvároshoz.",
+            "ro": "Parcare centrală pentru centrul istoric.",
+            "en": "Central parking for the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oldenburg",
+            "hu": "Oldenburgi kastély",
+            "ro": "Castelul Oldenburg",
+            "en": "Oldenburg Castle"
+          },
+          "coords": [
+            8.216,
+            53.1405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nur 2 Min Fußweg vom Parkplatz.",
+            "hu": "Csak 2 perc séta a parkolótól.",
+            "ro": "Doar 2 minute de mers pe jos de la parcare.",
+            "en": "Only 2 min walk from parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Lambertikirche",
+            "hu": "Lamberti-templom",
+            "ro": "Biserica Sf. Lambert",
+            "en": "St. Lamberti Church"
+          },
+          "coords": [
+            8.214,
+            53.1415
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Historisches Zentrum zu Fuß erkunden.",
+            "hu": "Fedezze fel az óvárost gyalog.",
+            "ro": "Explorați centrul istoric pe jos.",
+            "en": "Explore the historic center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Oldenburg",
+            "hu": "Kikötő",
+            "ro": "Port",
+            "en": "Harbor"
+          },
+          "coords": [
+            8.221,
+            53.139
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Neuer Cluster: Parken direkt an der Kaje.",
+            "hu": "Új körzet: parkolás közvetlenül a rakparton.",
+            "ro": "Cluster nou: parcare direct la chei.",
+            "en": "New cluster: parking directly at the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at Harbor"
+          },
+          "coords": [
+            8.222,
+            53.139
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Maritime Atmosphäre genießen.",
+            "hu": "Élvezze a tengerparti hangulatot.",
+            "ro": "Bucurați-vă de atmosfera maritimă.",
+            "en": "Enjoy the maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Horst-Janssen-Museum",
+            "hu": "Horst Janssen Múzeum",
+            "ro": "Muzeul Horst Janssen",
+            "en": "Horst Janssen Museum"
+          },
+          "coords": [
+            8.218,
+            53.144
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parkhaus am Museum nutzen.",
+            "hu": "Használja a múzeum melletti parkolóházat.",
+            "ro": "Utilizați parcarea de la muzeu.",
+            "en": "Use the parking garage at the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights der Innenstadt mit dem Hafen. Parken Sie zentral am Schlossplatz für den ersten Cluster (Schloss und Kirche). Danach fahren Sie zum Hafen für ein maritimes Mittagessen. Den Abschluss bildet ein Besuch im Horst-Janssen-Museum im Norden der Stadt.",
+        "hu": "Ez az autós túra ötvözi a belváros fénypontjait a kikötővel. Parkoljon a Schlossplatz-on az első körzet megtekintéséhez (Kastély és templom). Ezután hajtson a kikötőbe egy tengeri ebédre. A napot a Horst Janssen Múzeum látogatásával zárhatja a város északi részén.",
+        "ro": "Acest tur auto combină punctele de atracție ale centrului cu portul. Parcați central la Schlossplatz pentru primul cluster (Castelul și biserica). Apoi conduceți către port pentru un prânz maritim. Finalul este marcat de o vizită la Muzeul Horst Janssen din nordul orașului.",
+        "en": "This car tour combines the highlights of the city center with the harbor. Park centrally at Schlossplatz for the first cluster (Castle and church). Then drive to the harbor for a maritime lunch. The tour concludes with a visit to the Horst Janssen Museum in the north of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kajüte",
+            "tip": "Restaurant direkt am Wasser im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kajüte",
+            "tip": "Étterem közvetlenül a vízparton a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kajüte",
+            "tip": "Restaurant chiar pe malul apei în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kajüte",
+            "tip": "Restaurant directly on the waterfront in the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wunderburg",
+            "tip": "Ruhiges Viertel südlich des Hafens.",
+            "emoji": "🏡"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wunderburg",
+            "tip": "Csendes negyed a kikötőtől délre.",
+            "emoji": "🏡"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wunderburg",
+            "tip": "Cartier liniștit la sud de port.",
+            "emoji": "🏡"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wunderburg",
+            "tip": "Quiet neighborhood south of the harbor.",
+            "emoji": "🏡"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "IKEA Oldenburg",
+            "tip": "Großes Einkaufsgebiet am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "IKEA Oldenburg",
+            "tip": "Nagy bevásárlóövezet a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "IKEA Oldenburg",
+            "tip": "Zonă comercială mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "IKEA Oldenburg",
+            "tip": "Large shopping area on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem der Stadt.",
+          "Die Parkgebühren sind im Zentrum moderat."
+        ],
+        "hu": [
+          "Használja a város parkolási irányító rendszerét.",
+          "A parkolási díjak a központban mérsékeltek."
+        ],
+        "ro": [
+          "Utilizați sistemul de ghidare pentru parcare al orașului.",
+          "Taxele de parcare în centru sunt moderate."
+        ],
+        "en": [
+          "Use the city's parking guidance system.",
+          "Parking fees in the center are moderate."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lappan (Zentraler Busknoten)",
+            "hu": "Lappan (buszcsomópont)",
+            "ro": "Lappan (nod de autobuz)",
+            "en": "Lappan (Bus hub)"
+          },
+          "coords": [
+            8.214,
+            53.144
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Hier halten fast alle Linien.",
+            "hu": "Szinte minden vonal megáll itt.",
+            "ro": "Aproape toate liniile opresc aici.",
+            "en": "Almost all lines stop here."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldenburgisches Staatstheater",
+            "hu": "Állami Színház",
+            "ro": "Teatrul de Stat",
+            "en": "State Theatre"
+          },
+          "coords": [
+            8.211,
+            53.14
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Kurze Fahrt vom Lappan.",
+            "hu": "Rövid utazás a Lappantól.",
+            "ro": "Călătorie scurtă de la Lappan.",
+            "en": "Short ride from Lappan."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélykert",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            8.213,
+            53.136
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "District A: Zu Fuß vom Theater erreichbar.",
+            "hu": "A negyed: Gyalog elérhető a színháztól.",
+            "ro": "Districtul A: Accesibil pe jos de la teatru.",
+            "en": "District A: Reachable on foot from the theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Oldenburg",
+            "hu": "Oldenburgi kastély",
+            "ro": "Castelul Oldenburg",
+            "en": "Oldenburg Castle"
+          },
+          "coords": [
+            8.216,
+            53.1405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Immer noch District A, schöner Spaziergang.",
+            "hu": "Még mindig az A negyed, szép séta.",
+            "ro": "Tot în districtul A, o plimbare frumoasă.",
+            "en": "Still in District A, a nice walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen / Kaje",
+            "hu": "Kikötő / rakpart",
+            "ro": "Port / Chei",
+            "en": "Harbor / Quay"
+          },
+          "coords": [
+            8.221,
+            53.139
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "District B: Mit dem Bus zum Hafen.",
+            "hu": "B negyed: busszal a kikötőbe.",
+            "ro": "Districtul B: Cu autobuzul la port.",
+            "en": "District B: By bus to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Hunte",
+            "hu": "Séta a Hunte partján",
+            "ro": "Plimbare pe malul râului Hunte",
+            "en": "Walk along the Hunte"
+          },
+          "coords": [
+            8.23,
+            53.145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Entlang des Flusses zurück Richtung Zentrum.",
+            "hu": "A folyó mentén vissza a központ felé.",
+            "ro": "De-a lungul râului înapoi spre centru.",
+            "en": "Along the river back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von VWG. Starten Sie am Knotenpunkt Lappan und fahren Sie zum Staatstheater. Von dort erkunden Sie den Schlossgarten und das Schloss zu Fuß. Danach bringt Sie der Bus zum Hafenviertel, wo Sie den Tag bei einem Spaziergang am Fluss Hunte ausklingen lassen.",
+        "hu": "Használja ki a VWG sűrű buszhálózatát. Kezdjen a Lappan csomópontnál, és utazzon az Állami Színházhoz. Innen gyalog fedezze fel a Kastélykertet és a Kastélyt. Ezután busszal menjen a kikötőnegyedbe, ahol a napot a Hunte folyó menti sétával zárhatja.",
+        "ro": "Profitați de rețeaua densă de autobuze VWG. Începeți la nodul Lappan și mergeți la Teatrul de Stat. De acolo, explorați Grădina Castelului și Castelul pe jos. Apoi, autobuzul vă va duce în zona portului, unde veți încheia ziua cu o plimbare pe malul râului Hunte.",
+        "en": "Take advantage of the dense VWG bus network. Start at the Lappan hub and take a bus to the State Theatre. From there, explore the Castle Garden and the Castle on foot. Then, take the bus to the harbor district, ending your day with a walk along the river Hunte."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Best Worscht in Town",
+            "tip": "Schneller Snack am Lappan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Best Worscht in Town",
+            "tip": "Gyors snack a Lappannál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Best Worscht in Town",
+            "tip": "Gustare rapidă la Lappan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Best Worscht in Town",
+            "tip": "Quick snack at Lappan."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hunteufer",
+            "tip": "Idyllische Wege am Wasser.",
+            "emoji": "🛶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hunte-part",
+            "tip": "Idilli utak a víznél.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Hunte",
+            "tip": "Poteci idilice pe malul apei.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hunte banks",
+            "tip": "Idyllic paths by the water.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "ZOB Shop",
+            "tip": "Tickets und Reisebedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ZOB Shop",
+            "tip": "Jegyek és utazási kellékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "ZOB Shop",
+            "tip": "Bilete și necesități de călătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "ZOB Shop",
+            "tip": "Tickets and travel needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Tagesticket lohnt sich ab der dritten Fahrt.",
+          "Die App 'VWG' hilft bei der Fahrplanauskunft."
+        ],
+        "hu": [
+          "A napijegy a harmadik utazástól éri meg.",
+          "A 'VWG' app segít a menetrendben."
+        ],
+        "ro": [
+          "Un bilet de o zi merită de la a treia călătorie.",
+          "Aplicația 'VWG' ajută cu informații despre orar."
+        ],
+        "en": [
+          "A day ticket is worth it starting from the third ride.",
+          "The 'VWG' app helps with timetable information."
+        ]
+      }
+    }
+  }
+}

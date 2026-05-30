@@ -1,0 +1,1015 @@
+{
+  "city_id": "coburg-extra",
+  "anchor": {
+    "name": "Coburg Marktplatz",
+    "coords": [
+      10.9645,
+      50.2585
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Primăriei",
+            "en": "Market Square"
+          },
+          "coords": [
+            10.9645,
+            50.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Rathaus und das Stadthaus gegenüber.",
+            "hu": "Nézd meg a városházát és a szemközti hercegi épületet.",
+            "ro": "Admirați primăria și clădirea Stadthaus de vizavi.",
+            "en": "Watch the city hall and the Stadthaus building opposite."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossplatz",
+            "hu": "Kastély tér",
+            "ro": "Piața Castelului",
+            "en": "Palace Square"
+          },
+          "coords": [
+            10.9675,
+            50.2588
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Platz mit Blick auf das Landestheater.",
+            "hu": "Központi tér kilátással a tartományi színházra.",
+            "ro": "Piața centrală cu vedere spre teatrul de stat.",
+            "en": "Central square with a view of the Landestheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ehrenburg",
+            "hu": "Ehrenburg-kastély",
+            "ro": "Castelul Ehrenburg",
+            "en": "Ehrenburg Palace"
+          },
+          "coords": [
+            10.9678,
+            50.2582
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prunkvolle Räume, in denen einst Königin Victoria verweilte.",
+            "hu": "Pompás termek, ahol egykor Viktória királynő is megszállt.",
+            "ro": "Săli fastuoase unde a locuit odinioară Regina Victoria.",
+            "en": "Lavish rooms where Queen Victoria once stayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Landestheater Coburg",
+            "hu": "Coburgi Tartományi Színház",
+            "ro": "Teatrul de Stat Coburg",
+            "en": "Coburg State Theatre"
+          },
+          "coords": [
+            10.9672,
+            50.2595
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein klassizistischer Prachtbau direkt am Schlossplatz.",
+            "hu": "Klasszicista remekmű közvetlenül a Kastély téren.",
+            "ro": "O clădire neoclasică superbă chiar în Piața Castelului.",
+            "en": "A neoclassical masterpiece right on Palace Square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hofgarten",
+            "hu": "Udvari kert",
+            "ro": "Grădina Curții",
+            "en": "Court Garden"
+          },
+          "coords": [
+            10.973,
+            50.2605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der steile Aufstieg zur Veste führt durch den Park.",
+            "hu": "A várhoz vezető meredek út a parkon át visz.",
+            "ro": "Urcarea spre cetate trece prin acest parc frumos.",
+            "en": "The steep climb to the fortress leads through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Veste Coburg",
+            "hu": "Coburg vára",
+            "ro": "Cetatea Coburg",
+            "en": "Veste Coburg"
+          },
+          "coords": [
+            10.9805,
+            50.2635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Lutherzimmer und die Kunstsammlungen.",
+            "hu": "Nézd meg a Luther-szobákat és a művészeti gyűjteményt.",
+            "ro": "Vizitați camera lui Luther și colecțiile de artă.",
+            "en": "Visit the Luther rooms and the art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkunde-Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            10.9715,
+            50.2602
+          ],
+          "category": "museums",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein modernisiertes Museum mitten im Hofgarten.",
+            "hu": "Modern múzeum az udvari kert közepén.",
+            "ro": "Un muzeu modernizat situat chiar în Hofgarten.",
+            "en": "A modernized museum right in the middle of Hofgarten."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Marktplatz, dem Herz der Stadt. Nach einem kurzen Spaziergang erreichen Sie den prachtvollen Schlossplatz mit der Ehrenburg. Der Nachmittag gehört dem Aufstieg durch den weitläufigen Hofgarten zur mächtigen Veste Coburg, auch Fränkische Krone genannt. Zum Abschluss genießen Sie die Ruhe im Park oder besuchen das Naturkundemuseum.",
+        "hu": "A nap a történelmi főtéren indul, Coburg szívében. Rövid séta után eléri a Kastély teret és az Ehrenburg-palotát. A délután az Udvari kerten át vezető emelkedőé, amely a 'Frank korona' néven is ismert várhoz visz. A napot a park nyugalmában vagy a Természettudományi Múzeumban zárhatja.",
+        "ro": "Ziua începe în Piața Primăriei, inima istorică a orașului. După o scurtă plimbare, ajungeți în Piața Castelului pentru a vedea palatul Ehrenburg. După-amiaza este dedicată urcării prin Hofgarten către impunătoarea cetate Veste Coburg, supranumită Coroana Franconiei. Încheiați ziua cu o notă culturală la muzeu sau o relaxare în parc.",
+        "en": "Your day starts at the historic Market Square. After a short stroll, reach the magnificent Palace Square and Ehrenburg Palace. The afternoon is spent climbing through the vast Hofgarten to the mighty Veste Coburg, known as the Franconian Crown. End your visit with a peaceful walk in the park or a visit to the Natural History Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coburger Bratwurst",
+            "tip": "Traditionell über Kiefernzapfen gegrillt am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coburgi sült kolbász",
+            "tip": "Hagyományosan fenyőtoboz felett sütve a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnat de Coburg",
+            "tip": "Grătar tradițional la foc de conuri de brad în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coburg Bratwurst",
+            "tip": "Traditionally grilled over pine cones at the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hofgarten Pavillon",
+            "tip": "Ruhiger Ort für eine Pause mit Blick ins Grüne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hofgarten pavilon",
+            "tip": "Csendes hely egy pihenőhöz a zöldben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pavilionul Hofgarten",
+            "tip": "Loc liniștit pentru o pauză în mijlocul naturii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hofgarten Pavilion",
+            "tip": "Quiet spot for a break surrounded by greenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Coburger Schmätzchen",
+            "tip": "Honiggebäck bei der Bäckerei Feyler kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coburgi Schmätzchen",
+            "tip": "Mézes sütemény a Feyler pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coburger Schmätzchen",
+            "tip": "Biscuiți cu miere de la brutăria tradițională Feyler."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coburger Schmätzchen",
+            "tip": "Honey biscuits from the Feyler bakery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Anstieg zur Veste.",
+          "Die Bratwurst-Stände am Markt sind ein Muss.",
+          "Schloss Ehrenburg ist nur mit Führung zugänglich.",
+          "Nutzen Sie den Bimmelbahn-Shuttle zur Veste, wenn Sie nicht laufen möchten."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a várhoz vezető emelkedőhöz.",
+          "A főtéren a kolbászos bódék kötelezőek.",
+          "Az Ehrenburg-kastély csak vezetéssel látogatható.",
+          "Használd a kisvonatot a várhoz, ha nem szeretnél gyalogolni."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru urcarea la cetate.",
+          "Standurile de cârnați din piață sunt obligatorii.",
+          "Castelul Ehrenburg poate fi vizitat doar cu ghid.",
+          "Folosiți trenulețul turistic spre cetate dacă nu doriți să mergeți pe jos."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb up to the fortress.",
+          "The sausage stands at the market are a must.",
+          "Ehrenburg Palace is only accessible via guided tour.",
+          "Use the shuttle train to the fortress if you prefer not to walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Primăriei",
+            "en": "Market Square"
+          },
+          "coords": [
+            10.9645,
+            50.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossplatz & Ehrenburg",
+            "hu": "Kastély tér és Ehrenburg",
+            "ro": "Piața Castelului și Ehrenburg",
+            "en": "Palace Square & Ehrenburg"
+          },
+          "coords": [
+            10.9675,
+            50.2588
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrräder am Platz abstellen.",
+            "hu": "Tedd le a biciklit a téren.",
+            "ro": "Parcați bicicletele în piață.",
+            "en": "Park bikes in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Callenberg",
+            "hu": "Callenberg-kastély",
+            "ro": "Castelul Callenberg",
+            "en": "Callenberg Castle"
+          },
+          "coords": [
+            10.9215,
+            50.2782
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Schöne Fahrt durch den Wald nördlich der Stadt.",
+            "hu": "Szép út az erdőn át a várostól északra.",
+            "ro": "Drum frumos prin pădure la nord de oraș.",
+            "en": "Nice ride through the forest north of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Hofgarten",
+            "hu": "Udvari kert",
+            "ro": "Grădina Curții",
+            "en": "Court Garden"
+          },
+          "coords": [
+            10.971,
+            50.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Ansteigende Wege, gute Fitness gefragt.",
+            "hu": "Emelkedő utak, jó kondi kell.",
+            "ro": "Drumuri în pantă, necesită condiție fizică.",
+            "en": "Uphill paths, requires good fitness."
+          }
+        },
+        {
+          "name": {
+            "de": "Veste Coburg",
+            "hu": "Coburg vára",
+            "ro": "Cetatea Coburg",
+            "en": "Veste Coburg"
+          },
+          "coords": [
+            10.9805,
+            50.2635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spektakuläre Fernsicht über Franken.",
+            "hu": "Pazar kilátás Frankföldre.",
+            "ro": "Vedere panoramică asupra Franconiei.",
+            "en": "Spectacular views over Franconia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie sowohl die Altstadt als auch das entlegenere Schloss Callenberg. Nach der Besichtigung von Callenberg führt die Route zurück zum Hofgarten und hinauf zur Veste. Eine sportliche Tour mit viel Geschichte und Natur.",
+        "hu": "Biciklivel felfedezheti az óvárost és a távolabb fekvő Callenberg-kastélyt is. Callenberg után az út visszavezet az Udvari kerthez és fel a várba. Sportos túra sok történelemmel és természettel.",
+        "ro": "Cu bicicleta veți explora atât centrul vechi, cât și castelul Callenberg situat mai departe. După vizitarea acestuia, traseul revine spre Hofgarten și urcă la cetate. Un tur sportiv plin de istorie și natură.",
+        "en": "Explore both the old town and the more distant Callenberg Castle by bike. After visiting Callenberg, the route leads back to the Hofgarten and up to the fortress. A sporty tour with plenty of history and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burgschänke Veste",
+            "tip": "Einkehr direkt in der Burgmauer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgschänke Veste",
+            "tip": "Vendéglő közvetlenül a várfalnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burgschänke Veste",
+            "tip": "Restaurant situat chiar între zidurile cetății."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burgschänke Veste",
+            "tip": "Inn located directly within the fortress walls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Callenberger Forst",
+            "tip": "Stille Waldwege rund um das Schloss.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Callenbergi erdő",
+            "tip": "Csendes erdei utak a kastély körül.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Callenberg",
+            "tip": "Drumuri forestiere liniștite în jurul castelului.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Callenberg Forest",
+            "tip": "Quiet forest paths around the castle.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Röstkrone Coburg",
+            "tip": "Lokal gerösteter Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Röstkrone Coburg",
+            "tip": "Helyi pörkölésű kávé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Röstkrone Coburg",
+            "tip": "Cafea prăjită local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Röstkrone Coburg",
+            "tip": "Locally roasted coffee."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Schloss Callenberg ist teils bewaldet und schattig.",
+          "In der Altstadt ist Kopfsteinpflaster, fahren Sie vorsichtig.",
+          "Ein E-Bike ist für den Anstieg zur Veste sehr vorteilhaft.",
+          "Fahrradschlösser nicht vergessen."
+        ],
+        "hu": [
+          "A Callenberg-kastélyhoz vezető út részben erdős és árnyékos.",
+          "Az óvárosban macskakő van, óvatosan hajts.",
+          "Egy elektromos bicikli jól jön a várba vezető emelkedőhöz.",
+          "Ne felejtsd el a lakatot."
+        ],
+        "ro": [
+          "Drumul spre castelul Callenberg este parțial prin pădure și umbros.",
+          "În centrul vechi este pavaj cu piatră cubică, circulați cu atenție.",
+          "O bicicletă electrică este foarte utilă pentru urcarea la cetate.",
+          "Nu uitați sistemele de blocare a bicicletei."
+        ],
+        "en": [
+          "The path to Callenberg Castle is partly forested and shaded.",
+          "The old town has cobblestones, ride carefully.",
+          "An e-bike is very beneficial for the climb to the fortress.",
+          "Don't forget your bike locks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Cluster Altstadt)",
+            "hu": "Főtér (Óváros klaszter)",
+            "ro": "Piața Primăriei (Cluster Centru)",
+            "en": "Market Square (Old Town Cluster)"
+          },
+          "coords": [
+            10.9645,
+            50.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus Mauer nutzen.",
+            "hu": "Használd a Mauer parkolóházat.",
+            "ro": "Folosiți parcarea Mauer.",
+            "en": "Use the Mauer parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ehrenburg",
+            "hu": "Ehrenburg-kastély",
+            "ro": "Castelul Ehrenburg",
+            "en": "Ehrenburg Palace"
+          },
+          "coords": [
+            10.9678,
+            50.2582
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalog elérhető a főtérről.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Accessible on foot from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Veste Coburg (Cluster Veste)",
+            "hu": "Coburg vára (Vár klaszter)",
+            "ro": "Cetatea Coburg (Cluster Cetate)",
+            "en": "Veste Coburg (Fortress Cluster)"
+          },
+          "coords": [
+            10.9805,
+            50.2635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb der Veste.",
+            "hu": "Parkoló közvetlenül a vár alatt.",
+            "ro": "Parcare chiar sub cetate.",
+            "en": "Parking right below the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturkunde-Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            10.9715,
+            50.2602
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Veste-Parkplatz durch den Garten.",
+            "hu": "Gyalog a várparkolótól a kerten át.",
+            "ro": "Pe jos de la parcarea cetății prin grădină.",
+            "en": "On foot from the fortress parking through the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Callenberg (Cluster Nord)",
+            "hu": "Callenberg-kastély (Észak klaszter)",
+            "ro": "Castelul Callenberg (Cluster Nord)",
+            "en": "Callenberg Castle (North Cluster)"
+          },
+          "coords": [
+            10.9215,
+            50.2782
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Besuch des Deutschen Schützenmuseums im Schloss.",
+            "hu": "Nézd meg a Német Lövészmúzeumot a kastélyban.",
+            "ro": "Vizitați Muzeul German al Trăgătorilor din castel.",
+            "en": "Visit the German Shooting Museum inside the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die drei Hauptcluster Coburgs: Die Altstadt mit Ehrenburg, den Veste-Hügel mit dem Naturkundemuseum und das abgelegene Schloss Callenberg. Sie minimieren die steilen Aufstiege und sehen dennoch alle Highlights der Residenzstadt.",
+        "hu": "Ez az autós túra összeköti Coburg három fő részét: az óvárost az Ehrenburggal, a Várhegyet a múzeummal és a távolabbi Callenberg-kastélyt. Így minimalizálja a meredek emelkedőket, de látja a rezidenciaváros minden fénypontját.",
+        "ro": "Acest tur cu mașina conectează cele trei zone principale ale orașului Coburg: Centrul vechi cu Ehrenburg, dealul cetății cu muzeul și castelul Callenberg. Minimizați urcările abrupte și vedeți toate atracțiile principale.",
+        "en": "This car tour connects Coburg's three main clusters: the Old Town with Ehrenburg, the Fortress hill with the museum, and the distant Callenberg Castle. Minimize steep climbs while seeing all the highlights of the residence city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthaus Goldenes Kreuz",
+            "tip": "Fränkische Küche im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthaus Goldenes Kreuz",
+            "tip": "Frank konyha a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthaus Goldenes Kreuz",
+            "tip": "Bucătărie franconă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthaus Goldenes Kreuz",
+            "tip": "Franconian cuisine in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Callenberg",
+            "tip": "Weitläufiger englischer Landschaftsgarten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Callenberg kastélypark",
+            "tip": "Kiterjedt angol tájképi kert.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Callenberg",
+            "tip": "Grădină peisagistică englezească vastă.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Callenberg Castle Park",
+            "tip": "Vast English landscape garden.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Münzmeisterhaus",
+            "tip": "Souvenirs in einem der ältesten Fachwerkhäuser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Münzmeisterhaus",
+            "tip": "Ajándéktárgyak az egyik legrégebbi fagerendás házban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Münzmeisterhaus",
+            "tip": "Suveniruri într-una dintre cele mai vechi case tradiționale.",
+            "en": "Souvenirs in one of the oldest half-timbered houses."
+          }
+        ],
+        "en": [
+          {
+            "name": "Münzmeisterhaus",
+            "tip": "Souvenirs in one of the oldest half-timbered houses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsituation am Marktplatz ist schwierig, nutzen Sie Parkhäuser.",
+          "An der Veste gibt es einen großen, kostenpflichtigen Parkplatz.",
+          "Callenberg ist etwa 10-15 Min. Fahrt vom Zentrum entfernt.",
+          "Die Tour ist ideal bei Zeitmangel."
+        ],
+        "hu": [
+          "A főtérnél nehéz parkolni, használj parkolóházat.",
+          "A várnál van egy nagy, fizetős parkoló.",
+          "Callenberg kb. 10-15 perc autóval a központtól.",
+          "A túra ideális, ha kevés az időd."
+        ],
+        "ro": [
+          "Parcarea în Piața Primăriei este dificilă, folosiți garajele.",
+          "La cetate există o parcare mare cu plată.",
+          "Callenberg se află la aproximativ 10-15 minute de mers cu mașina.",
+          "Turul este ideal dacă aveți puțin timp la dispoziție."
+        ],
+        "en": [
+          "Parking at the market square is difficult, use parking garages.",
+          "There is a large paid parking lot at the fortress.",
+          "Callenberg is about 10-15 mins drive from the center.",
+          "This tour is ideal if you are short on time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Primăriei",
+            "en": "Market Square"
+          },
+          "coords": [
+            10.9645,
+            50.2585
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für Busse.",
+            "hu": "Központi átszállóhely buszoknak.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central transfer point for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ehrenburg",
+            "hu": "Ehrenburg-kastély",
+            "ro": "Castelul Ehrenburg",
+            "en": "Ehrenburg Palace"
+          },
+          "coords": [
+            10.9678,
+            50.2582
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur 5 Min. Fußweg vom Marktplatz.",
+            "hu": "Csak 5 perc séta a főtértől.",
+            "ro": "Doar 5 minute de mers pe jos de la piață.",
+            "en": "Only 5 mins walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Veste Coburg",
+            "hu": "Coburg vára",
+            "ro": "Cetatea Coburg",
+            "en": "Veste Coburg"
+          },
+          "coords": [
+            10.9805,
+            50.2635
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Mit dem Stadtbus zur Haltestelle Veste.",
+            "hu": "Városi busszal a Veste megállóig.",
+            "ro": "Cu autobuzul urban până la stația Veste.",
+            "en": "Take the city bus to the Veste stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Hofgarten",
+            "hu": "Udvari kert",
+            "ro": "Grădina Curții",
+            "en": "Court Garden"
+          },
+          "coords": [
+            10.971,
+            50.26
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Abstieg von der Veste zu Fuß durch den Park.",
+            "hu": "Ereszkedés a várból gyalog a parkon át.",
+            "ro": "Coborâre de la cetate pe jos prin parc.",
+            "en": "Descend from the fortress on foot through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Callenberg",
+            "hu": "Callenberg-kastély",
+            "ro": "Castelul Callenberg",
+            "en": "Callenberg Castle"
+          },
+          "coords": [
+            10.9215,
+            50.2782
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Buslinie Richtung Callenberg ab Marktplatz.",
+            "hu": "Buszjárat Callenberg felé a főtérről.",
+            "ro": "Linie de autobuz spre Callenberg din piață.",
+            "en": "Bus line towards Callenberg from market square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Busnetzes erreichen Sie mühelos die Veste auf dem Hügel und das Schloss Callenberg im Norden. Sie starten im historischen Kern und nutzen den ÖPNV für die längeren Distanzen und Höhenmeter.",
+        "hu": "A jól kiépített buszhálózatnak köszönhetően könnyedén eljuthat a dombon lévő várhoz és az északi Callenberg-kastélyhoz. A történelmi magban kezd, és tömegközlekedést használ a nagyobb távolságokhoz.",
+        "ro": "Datorită rețelei de autobuze bine puse la punct, puteți ajunge fără efort la cetatea de pe deal și la castelul Callenberg din nord. Începeți în centrul istoric și folosiți transportul public pentru distanțele mari.",
+        "en": "Thanks to the well-developed bus network, you can easily reach the fortress on the hill and Callenberg Castle in the north. Start in the historic center and use public transport for the longer distances and elevation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Feyler",
+            "tip": "Snack-Pause mit lokalem Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Feyler pékség",
+            "tip": "Uzsonna szünet helyi süteménnyel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Feyler",
+            "tip": "Gustare cu produse locale de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Feyler Bakery",
+            "tip": "Snack break with local pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten",
+            "tip": "Lokal beliebt für entspannte Momente.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert",
+            "tip": "Helyiek kedvence a kikapcsolódáshoz.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de Trandafiri",
+            "tip": "Loc preferat de localnici pentru relaxare.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden",
+            "tip": "Locally popular for relaxing moments.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte am Marktplatz (Mi & Sa)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Friss áruk a főtéren (Sze és Szo)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete în piață (mie & sâm)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh produce at the market square (Wed & Sat)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Abfahrtszeiten der Buslinie 5 zur Veste.",
+          "Ein Tagesticket der Stadtbusse lohnt sich.",
+          "Am Sonntag fahren die Busse seltener.",
+          "Der Einstieg in den Bus ist meist am Theaterplatz oder Markt."
+        ],
+        "hu": [
+          "Ellenőrizd az 5-ös busz indulását a várhoz.",
+          "Érdemes napijegyet venni a városi buszokra.",
+          "Vasárnap ritkábban járnak a buszok.",
+          "A felszállás általában a Színház téren vagy a piacon van."
+        ],
+        "ro": [
+          "Verificați orarul liniei 5 spre cetatea Veste.",
+          "Un bilet de o zi pentru autobuzele urbane merită achiziționat.",
+          "Duminica autobuzele circulă mai rar.",
+          "Îmbarcarea se face de obicei în Piața Teatrului sau în piață."
+        ],
+        "en": [
+          "Check the departure times for bus line 5 to the Veste.",
+          "A day ticket for city buses is worth buying.",
+          "Buses run less frequently on Sundays.",
+          "Boarding is usually at Theaterplatz or the market."
+        ]
+      }
+    }
+  }
+}

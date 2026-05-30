@@ -1,0 +1,944 @@
+{
+  "city_id": "crimmitschau-extra",
+  "anchor": {
+    "name": "Rathaus Crimmitschau",
+    "coords": [
+      12.3885,
+      50.8142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Rathaus Crimmitschau",
+          "coords": [
+            12.3892,
+            50.8142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des spätgotischen Gebäudes am Marktplatz.",
+            "hu": "Csodálja meg a késő gótikus városháza homlokzatát a piactéren.",
+            "ro": "Admirați fațada clădirii gotice târzii din piața centrală.",
+            "en": "Admire the facade of the late Gothic town hall on the market square."
+          }
+        },
+        {
+          "name": "St. Laurentius Kirche",
+          "coords": [
+            12.3875,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche beherbergt wertvolle spätgotische Schnitzaltäre.",
+            "hu": "A templom értékes késő gótikus faragott oltároknak ad otthont.",
+            "ro": "Biserica adăpostește altare sculptate valoroase în stil gotic târziu.",
+            "en": "The church houses valuable late Gothic carved altars."
+          }
+        },
+        {
+          "name": "Theater Crimmitschau",
+          "coords": [
+            12.3905,
+            50.813
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kulturelles Juwel mit beeindruckender Architektur im Jugendstil.",
+            "hu": "Kulturális ékszerdoboz lenyűgöző szecessziós építészettel.",
+            "ro": "O bijuterie culturală cu o arhitectură Art Nouveau impresionantă.",
+            "en": "A cultural gem with impressive Art Nouveau architecture."
+          }
+        },
+        {
+          "name": "Tuchfabrik Gebr. Pfau",
+          "coords": [
+            12.393,
+            50.8105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die Textilgeschichte an Originalschauplätzen.",
+            "hu": "Ismerje meg a textilipar történetét az eredeti gépek között.",
+            "ro": "Experimentați istoria textilă în locația industrială originală.",
+            "en": "Experience textile history at the original industrial site."
+          }
+        },
+        {
+          "name": "Sahnpark",
+          "coords": [
+            12.385,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Spaziergang im größten Park der Stadt.",
+            "hu": "Tökéletes hely egy pihentető sétához a város legnagyobb parkjában.",
+            "ro": "Perfect pentru o plimbare relaxantă în cel mai mare parc al orașului.",
+            "en": "Perfect for a relaxing stroll in the city's largest park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das historische Zentrum rund um den Marktplatz und die beeindruckende St. Laurentius Kirche. Mittags tauchen Sie in die industrielle Vergangenheit in der Tuchfabrik Pfau ein. Der Nachmittag gehört der Entspannung im weitläufigen Sahnpark, bevor Sie den Tag in der Textilstadt gemütlich ausklingen lassen.",
+        "hu": "A reggelt a piactér környékének és a Szent Lőrinc-templom felfedezésével töltjük. Délben elmerülünk a város ipari múltjában a Pfau szövetgyár múzeumában. A délután a pihenésé a tágas Sahnparkban, ahol élvezhetjük a természet nyugalmát a városnézés után.",
+        "ro": "Dimineața explorați centrul istoric în jurul pieței primăriei și impresionanta biserică Sf. Laurențiu. La prânz, pătrundeți în trecutul industrial la fabrica de textile Pfau. După-amiaza este dedicată relaxării în vastul Sahnpark, înainte de a încheia ziua în acest oraș cu tradiție textilă.",
+        "en": "Morning explores the historic center around the market square and the impressive St. Lawrence Church. At midday, dive into the industrial past at the Pfau cloth factory. The afternoon is dedicated to relaxation in the extensive Sahnpark, before ending the day in this traditional textile town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gaststätte Fortschritt",
+            "tip": "Probieren Sie sächsischen Sauerbraten mit Klößen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gaststätte Fortschritt",
+            "tip": "Kóstolja meg a szász savanyú sültet gombóccal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gaststätte Fortschritt",
+            "tip": "Încercați friptura marinată săsească cu găluște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gaststätte Fortschritt",
+            "tip": "Try the Saxon Sauerbraten with dumplings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldteich im Sahnpark",
+            "tip": "Stille am Wasser genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sahnpark erdei tó",
+            "tip": "Élvezze a csendet a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul din Sahnpark",
+            "tip": "Bucurați-vă de liniște lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest pond in Sahnpark",
+            "tip": "Enjoy the silence by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Tuchfabrik",
+            "tip": "Hochwertige Textilien als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szövetgyár múzeumi bolt",
+            "tip": "Minőségi textiláruk szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fabricii de textile",
+            "tip": "Textile de înaltă calitate ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Textile Factory Shop",
+            "tip": "High-quality textiles as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zum Sahnpark.",
+          "Die Tuchfabrik ist montags oft geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Sahnpark felé vezető úthoz.",
+          "A szövetgyár hétfőnként gyakran zárva tart."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumul spre Sahnpark.",
+          "Fabrica de textile este adesea închisă lunea."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to Sahnpark.",
+          "The cloth factory is often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Rathaus Crimmitschau",
+          "coords": [
+            12.3892,
+            50.8142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt für Ihre Radtour.",
+            "hu": "Központi kiindulópont a kerékpártúrához.",
+            "ro": "Punct de plecare central pentru turul cu bicicleta.",
+            "en": "Central starting point for your bike tour."
+          }
+        },
+        {
+          "name": "Tuchfabrik Gebr. Pfau",
+          "coords": [
+            12.393,
+            50.8105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz direkt am Museum.",
+            "hu": "Biztonságos biciklitároló közvetlenül a múzeumnál.",
+            "ro": "Loc de parcare sigur pentru biciclete chiar la muzeu.",
+            "en": "Secure bike parking right at the museum."
+          }
+        },
+        {
+          "name": "Sahnpark",
+          "coords": [
+            12.385,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Radwege führen durch den gesamten Park.",
+            "hu": "Kerékpárutak vezetnek keresztül az egész parkon.",
+            "ro": "Pistele de biciclete traversează întregul parc.",
+            "en": "Bike paths lead through the entire park."
+          }
+        },
+        {
+          "name": "Kunsteisstadion",
+          "coords": [
+            12.382,
+            50.827
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Heimat der Eispiraten Crimmitschau.",
+            "hu": "A Crimmitschaui Jégkalózok otthona.",
+            "ro": "Casa piraților pe gheață din Crimmitschau.",
+            "en": "Home of the Crimmitschau Ice Pirates."
+          }
+        },
+        {
+          "name": "Bismarck-Säule",
+          "coords": [
+            12.368,
+            50.832
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Aussichtspunkt mit weitem Blick über das Pleißenland.",
+            "hu": "Kilátópont széles panorámával a Pleißenland vidékére.",
+            "ro": "Punct de belvedere cu vedere largă peste regiunea Pleißenland.",
+            "en": "Viewpoint with a wide vista over the Pleißenland."
+          }
+        },
+        {
+          "name": "Schloss Blankenhain",
+          "coords": [
+            12.342,
+            50.798
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Deutsches Landwirtschaftsmuseum im Schlossensemble.",
+            "hu": "Német Mezőgazdasági Múzeum a kastélyegyüttesben.",
+            "ro": "Muzeul German al Agriculturii în ansamblul castelului.",
+            "en": "German Agricultural Museum within the castle complex."
+          }
+        },
+        {
+          "name": "Rathaus Crimmitschau",
+          "coords": [
+            12.3892,
+            50.8142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Rückkehr zum Startpunkt für eine Erfrischung.",
+            "hu": "Visszatérés a kiindulóponthoz egy frissítőre.",
+            "ro": "Revenire la punctul de plecare pentru o băutură răcoritoare.",
+            "en": "Return to the starting point for a refreshment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Stadtgeschichte mit der reizvollen Umgebung. Nach dem Besuch der Tuchfabrik radeln Sie durch den Sahnpark zur Bismarck-Säule. Der sportliche Höhepunkt ist die Fahrt zum Schloss Blankenhain, wo Sie das Freilichtmuseum erkunden, bevor es zurück ins Stadtzentrum geht.",
+        "hu": "Ez a kerékpártúra összeköti a várostörténetet a vonzó környékkel. A szövetgyár meglátogatása után a Sahnparkon keresztül tekerünk a Bismarck-oszlophoz. A túra csúcspontja a Blankenhain-kastély, ahol a szabadtéri múzeumot fedezhetjük fel, mielőtt visszatérnénk a központba.",
+        "ro": "Acest tur cu bicicleta combină istoria orașului cu împrejurimile fermecătoare. După vizitarea fabricii de textile, pedalați prin Sahnpark spre Coloana Bismarck. Punctul culminant sportiv este drumul către Castelul Blankenhain, unde explorați muzeul în aer liber înainte de a reveni în centrul orașului.",
+        "en": "This bike tour combines city history with the charming surroundings. After visiting the cloth factory, cycle through Sahnpark to the Bismarck Column. The sporting highlight is the ride to Blankenhain Castle, where you explore the open-air museum before returning to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schlossschänke Blankenhain",
+            "tip": "Rustikale sächsische Küche im Schlosshof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossschänke Blankenhain",
+            "tip": "Rusztikus szász konyha a kastélyudvaron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossschänke Blankenhain",
+            "tip": "Bucătărie săsească rustică în curtea castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossschänke Blankenhain",
+            "tip": "Rustic Saxon cuisine in the castle courtyard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wiesen am Schloss Blankenhain",
+            "tip": "Picknick im Grünen.",
+            "emoji": "🧺"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blankenhain-kastély rétjei",
+            "tip": "Piknik a zöldben.",
+            "emoji": "🧺"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștile de la Castelul Blankenhain",
+            "tip": "Picnic în natură.",
+            "emoji": "🧺"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meadows at Blankenhain Castle",
+            "tip": "Picnic in the countryside.",
+            "emoji": "🧺"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Blankenhain",
+            "tip": "Regionale Produkte vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blankenhaini gazdabolt",
+            "tip": "Regionális termékek közvetlenül a farmról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Blankenhain",
+            "tip": "Produse regionale de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blankenhain Farm Shop",
+            "tip": "Regional products directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Schloss Blankenhain hat einige Steigungen.",
+          "Nutzen Sie die Radwege entlang der Pleiße."
+        ],
+        "hu": [
+          "A Blankenhain-kastély felé vezető úton van néhány emelkedő.",
+          "Használja a Pleiße folyó menti kerékpárutakat."
+        ],
+        "ro": [
+          "Traseul spre Castelul Blankenhain are câteva pante.",
+          "Folosiți pistele de biciclete de-a lungul râului Pleiße."
+        ],
+        "en": [
+          "The route to Blankenhain Castle has some inclines.",
+          "Use the bike paths along the Pleiße river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 18.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Rathaus Crimmitschau",
+          "coords": [
+            12.3892,
+            50.8142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral auf dem Marktplatz.",
+            "hu": "Parkoljon központilag a piactéren.",
+            "ro": "Parcați central în piața primăriei.",
+            "en": "Park centrally on the market square."
+          }
+        },
+        {
+          "name": "St. Laurentius Kirche",
+          "coords": [
+            12.3875,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare din piața centrală.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": "Theater Crimmitschau",
+          "coords": [
+            12.3905,
+            50.813
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die historische Altstadt.",
+            "hu": "Rövid séta a történelmi óvároson keresztül.",
+            "ro": "O scurtă plimbare prin orașul vechi istoric.",
+            "en": "A short walk through the historic old town."
+          }
+        },
+        {
+          "name": "Tuchfabrik Gebr. Pfau",
+          "coords": [
+            12.393,
+            50.8105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz direkt vor dem Museumseingang.",
+            "hu": "Saját parkoló közvetlenül a múzeum bejárata előtt.",
+            "ro": "Parcare proprie chiar în fața intrării muzeului.",
+            "en": "Private parking right in front of the museum entrance."
+          }
+        },
+        {
+          "name": "Sahnpark",
+          "coords": [
+            12.385,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Stadionzugang.",
+            "hu": "Nagy parkoló a stadion bejáratánál.",
+            "ro": "Parcare mare la intrarea în stadion.",
+            "en": "Large parking lot at the stadium entrance."
+          }
+        },
+        {
+          "name": "Kunsteisstadion",
+          "coords": [
+            12.382,
+            50.827
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Fanshop der Eispiraten.",
+            "hu": "Látogasson el a Jégkalózok ajándékboltjába.",
+            "ro": "Vizitați magazinul de fani al piraților pe gheață.",
+            "en": "Visit the Ice Pirates fan shop."
+          }
+        },
+        {
+          "name": "Schloss Blankenhain",
+          "coords": [
+            12.342,
+            50.798
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Riesiges Areal, planen Sie Zeit für die Außenanlagen ein.",
+            "hu": "Hatalmas terület, tervezzen időt a külső helyszínekre is.",
+            "ro": "Zonă uriașă, planificați-vă timp pentru spațiile exterioare.",
+            "en": "Huge area, plan time for the outdoor facilities."
+          }
+        },
+        {
+          "name": "Bismarck-Säule",
+          "coords": [
+            12.368,
+            50.832
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Abschluss mit Panoramablick zum Sonnenuntergang.",
+            "hu": "Befejezés panorámás kilátással a naplementében.",
+            "ro": "Finalizare cu vedere panoramică la apus.",
+            "en": "Conclusion with a panoramic view at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Crimmitschau und Umgebung effizient. Der Vormittag ist dem Stadtzentrum und der Tuchfabrik gewidmet. Nach einem Abstecher zum Sahnpark fahren Sie zum Schloss Blankenhain, einem der bedeutendsten Freilichtmuseen Sachsens, und beenden den Tag an der Bismarck-Säule.",
+        "hu": "Autóval hatékonyan fedezhetjük fel Crimmitschau és környéke látnivalóit. A délelőtt a városközponté és a szövetgyáré. A Sahnpark megtekintése után a Blankenhain-kastélyhoz autózunk, amely Szászország egyik legjelentősebb szabadtéri múzeuma, majd a napot a Bismarck-oszlopnál zárjuk.",
+        "ro": "Cu mașina descoperiți eficient punctele culminante din Crimmitschau și împrejurimi. Dimineața este dedicată centrului orașului și fabricii de textile. După o scurtă vizită în Sahnpark, mergeți la Castelul Blankenhain, unul dintre cele mai importante muzee în aer liber din Saxonia, și încheiați ziua la Coloana Bismarck.",
+        "en": "By car, you can efficiently discover the highlights of Crimmitschau and its surroundings. The morning is dedicated to the city center and the cloth factory. After a side trip to Sahnpark, drive to Blankenhain Castle, one of Saxony's most important open-air museums, and end the day at the Bismarck Column."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Villa Vier Jahreszeiten",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Vier Jahreszeiten",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Villa Vier Jahreszeiten",
+            "tip": "Bucătărie rafinată într-un ambient istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Vier Jahreszeiten",
+            "tip": "Fine dining in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bismarck-Säule",
+            "tip": "Panoramablick über das Umland.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bismarck-oszlop",
+            "tip": "Panorámás kilátás a környékre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coloana Bismarck",
+            "tip": "Vedere panoramică asupra împrejurimilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bismarck Column",
+            "tip": "Panoramic view over the surrounding area.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gewerbegebiet Crimmitschau",
+            "tip": "Diverse Outlets und Fachmärkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crimmitschau ipari negyed",
+            "tip": "Különböző outlet üzletek és szakboltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona comercială Crimmitschau",
+            "tip": "Diverse outlet-uri și magazine specializate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crimmitschau Commercial Area",
+            "tip": "Various outlets and specialized markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze am Schloss Blankenhain sind kostenfrei.",
+          "Die Fahrt zwischen den Clustern dauert nur wenige Minuten."
+        ],
+        "hu": [
+          "A parkolás a Blankenhain-kastélynál ingyenes.",
+          "Az egyes pontok közötti autózás csak néhány percet vesz igénybe."
+        ],
+        "ro": [
+          "Parcarea la Castelul Blankenhain este gratuită.",
+          "Drumul între clustere durează doar câteva minute."
+        ],
+        "en": [
+          "Parking at Blankenhain Castle is free of charge.",
+          "The drive between clusters only takes a few minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Rathaus Crimmitschau",
+          "coords": [
+            12.3892,
+            50.8142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Crimmitschau in 10 Min. zu Fuß erreichbar.",
+            "hu": "A vasútállomástól 10 perc sétával elérhető.",
+            "ro": "Accesibil în 10 minute pe jos de la gară.",
+            "en": "Reach in 10 min by foot from the train station."
+          }
+        },
+        {
+          "name": "St. Laurentius Kirche",
+          "coords": [
+            12.3875,
+            50.8145
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historisches Zentrum fußläufig erkundbar.",
+            "hu": "A történelmi központ gyalogosan bejárható.",
+            "ro": "Centrul istoric poate fi explorat la pas.",
+            "en": "Historic center explorable on foot."
+          }
+        },
+        {
+          "name": "Theater Crimmitschau",
+          "coords": [
+            12.3905,
+            50.813
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Haltstelle 'Markt' in der Nähe.",
+            "hu": "A 'Markt' megálló a közelben található.",
+            "ro": "Stația 'Markt' se află în apropiere.",
+            "en": "Bus stop 'Markt' is nearby."
+          }
+        },
+        {
+          "name": "Tuchfabrik Gebr. Pfau",
+          "coords": [
+            12.393,
+            50.8105
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lernen Sie die Technik der Tuchmacher kennen.",
+            "hu": "Ismerje meg a szövetkészítők technológiáját.",
+            "ro": "Învățați despre tehnica producătorilor de textile.",
+            "en": "Learn about the cloth makers' technology."
+          }
+        },
+        {
+          "name": "Sahnpark",
+          "coords": [
+            12.385,
+            50.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Stadtbuslinie zum Sahnpark.",
+            "hu": "Használja a helyi buszjáratot a Sahnparkhoz.",
+            "ro": "Folosiți linia de autobuz urban spre Sahnpark.",
+            "en": "Use the city bus line to Sahnpark."
+          }
+        },
+        {
+          "name": "Schloss Blankenhain",
+          "coords": [
+            12.342,
+            50.798
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.8,
+          "tip_5lang": {
+            "de": "Regionale Busverbindung ab Marktplatz/Bahnhof.",
+            "hu": "Regionális buszjárat a piactérről vagy az állomástól.",
+            "ro": "Conexiune regională de autobuz din piață sau de la gară.",
+            "en": "Regional bus connection from the market or station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Crimmitschau bequem mit Bus und Bahn. Nach der Besichtigung der Altstadt und der Tuchfabrik bringt Sie der Stadtbus direkt zum Sahnpark. Eine weitere Buslinie ermöglicht den Besuch des Freilichtmuseums Blankenhain, bevor Sie die Heimreise vom zentralen Bahnhof antreten.",
+        "hu": "Fedezze fel Crimmitschat kényelmesen busszal és vonattal. Az óváros és a szövetgyár megtekintése után a helyi busz közvetlenül a Sahnparkhoz visz. Egy másik buszjárat lehetővé teszi a Blankenhain szabadtéri múzeum meglátogatását, mielőtt hazaindulna a központi pályaudvarról.",
+        "ro": "Descoperiți Crimmitschau confortabil cu autobuzul și trenul. După vizitarea orașului vechi și a fabricii de textile, autobuzul urban vă duce direct la Sahnpark. O altă linie de autobuz permite vizitarea muzeului în aer liber Blankenhain, înainte de a pleca spre casă de la gara centrală.",
+        "en": "Discover Crimmitschau comfortably by bus and train. After visiting the old town and the cloth factory, the city bus takes you directly to Sahnpark. Another bus line enables a visit to the Blankenhain open-air museum before starting your journey home from the central station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro am Bahnhof",
+            "tip": "Schneller Snack vor der Abfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro az állomásnál",
+            "tip": "Gyors snack indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro la gară",
+            "tip": "O gustare rapidă înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bistro",
+            "tip": "Quick snack before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke in der Stadtbibliothek",
+            "tip": "Ruhiger Moment mit einem Buch.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi Könyvtár olvasósarka",
+            "tip": "Csendes pillanat egy könyvvel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțul de lectură din biblioteca orașului",
+            "tip": "Moment de liniște cu o carte.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner in the City Library",
+            "tip": "Quiet moment with a book.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Traditionelles sächsisches Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi pékség",
+            "tip": "Hagyományos szász sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din centru",
+            "tip": "Produse de patiserie tradiționale săsești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Traditional Saxon pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab (VMS-Verbund).",
+          "Das Sachsen-Ticket gilt auch in den Stadtbussen."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet (VMS hálózat).",
+          "A Sachsen-Ticket a helyi buszokon is érvényes."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans (rețeaua VMS).",
+          "Biletul Sachsen-Ticket este valabil și pe autobuzele urbane."
+        ],
+        "en": [
+          "Check bus schedules in advance (VMS network).",
+          "The Sachsen-Ticket is also valid on city buses."
+        ]
+      }
+    }
+  }
+}

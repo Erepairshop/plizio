@@ -1,0 +1,984 @@
+{
+  "city_id": "city-giessen-extra",
+  "anchor": {
+    "name": "Gießen",
+    "coords": [
+      8.6753,
+      50.584
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Mathematikum",
+          "coords": [
+            8.6732,
+            50.5818
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Interaktive Mathematik zum Anfassen für jedes Alter.",
+            "hu": "Interaktív matematika minden korosztálynak, kipróbálható kísérletekkel.",
+            "ro": "Matematică interactivă pentru toate vârstele, cu experimente practice.",
+            "en": "Interactive mathematics for all ages with hands-on experiments."
+          }
+        },
+        {
+          "name": "Liebig-Museum",
+          "coords": [
+            8.6712,
+            50.5835
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das historische Labor des berühmten Chemikers Justus von Liebig.",
+            "hu": "Justus von Liebig híres kémikus eredeti laboratóriuma.",
+            "ro": "Laboratorul istoric al celebrului chimist Justus von Liebig.",
+            "en": "The historical laboratory of the famous chemist Justus von Liebig."
+          }
+        },
+        {
+          "name": "Seltersweg (Lunch)",
+          "coords": [
+            8.6725,
+            50.5852
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die zentrale Einkaufsmeile mit vielen Restaurants und Cafés.",
+            "hu": "A központi sétálóutca számos étteremmel és kávézóval.",
+            "ro": "Principala zonă pietonală cu multe restaurante și cafenele.",
+            "en": "The central shopping street with many restaurants and cafes."
+          }
+        },
+        {
+          "name": "Altes Schloss & Oberhessisches Museum",
+          "coords": [
+            8.6762,
+            50.5864
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Landesgeschichte im beeindruckenden Fachwerk-Schloss.",
+            "hu": "Helytörténeti múzeum egy lenyűgöző gerendavázas kastélyban.",
+            "ro": "Istorie locală într-un castel impresionant din bârne de lemn.",
+            "en": "Local history in an impressive half-timbered castle."
+          }
+        },
+        {
+          "name": "Botanischer Garten Gießen",
+          "coords": [
+            8.6812,
+            50.5862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Deutschlands ältester botanischer Garten an seinem ursprünglichen Standort.",
+            "hu": "Németország legrégebbi botanikus kertje az eredeti helyén.",
+            "ro": "Cea mai veche grădină botanică din Germania pe locația sa originală.",
+            "en": "Germany's oldest botanical garden at its original location."
+          }
+        },
+        {
+          "name": "Stadtkirchenturm",
+          "coords": [
+            8.6735,
+            50.5858
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt und Überrest der im Krieg zerstörten Kirche.",
+            "hu": "A város jelképe, a háborúban elpusztult templom megmaradt tornya.",
+            "ro": "Simbolul orașului și vestigiu al bisericii distruse în război.",
+            "en": "Landmark of the city and remnant of the church destroyed in the war."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Gießen ist die Stadt des Wissens. Der Morgen beginnt interaktiv im Mathematikum, gefolgt von der Chemie-Geschichte bei Liebig. Mittags lockt die Fußgängerzone am Seltersweg zum Schlemmen. Nachmittags spazieren Sie durch das Alte Schloss zum ältesten Botanischen Garten Deutschlands. Der Tag endet mit einem Blick auf den historischen Stadtkirchenturm.",
+        "hu": "Gießen a tudás városa. A reggel interaktív módon indul a Mathematikum-ban, majd Liebig kémiai laboratóriumában folytatódik. Ebéd után a Seltersweg sétálóutcájában pihenhetünk meg. A délután a Régi Kastély és a legrégebbi német botanikus kert felfedezésével telik. A napot a történelmi városi templomtorony látványával zárjuk.",
+        "ro": "Gießen este orașul cunoașterii. Dimineața începe interactiv la Mathematikum, urmată de istoria chimiei la Liebig. La prânz, zona pietonală Seltersweg vă invită la masă. După-amiaza vă plimbați prin Castelul Vechi spre cea mai veche grădină botanică din Germania. Ziua se încheie cu o privire asupra turnului istoric al bisericii orașului.",
+        "en": "Gießen is a city of science. Start your morning interactively at the Mathematikum, followed by chemistry history at the Liebig Museum. After lunch on Seltersweg, explore the Old Castle and the oldest Botanical Garden in Germany. The day concludes with a view of the historic Stadtkirchenturm tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller Gießen",
+            "tip": "Traditionelle hessische Küche im historischen Gewölbe."
+          },
+          {
+            "name": "Café Gutshof",
+            "tip": "Hauseigene Röstungen und hausgemachte Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller Gießen",
+            "tip": "Hagyományos hesseni konyha történelmi boltíves pincében."
+          },
+          {
+            "name": "Café Gutshof",
+            "tip": "Saját pörkölésű kávék és házi készítésű sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller Gießen",
+            "tip": "Bucătărie tradițională din Hessa într-o pivniță istorică cu boltă."
+          },
+          {
+            "name": "Café Gutshof",
+            "tip": "Cafea prăjită local și prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller Gießen",
+            "tip": "Traditional Hessian cuisine in a historic vaulted cellar."
+          },
+          {
+            "name": "Café Gutshof",
+            "tip": "In-house roasted coffee and homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Eine grüne Oase der Ruhe mitten in der Stadt.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Perfekt für einen entspannten Abendspaziergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Zöld oázis a nyugalomért a város közepén.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Tökéletes egy pihentető esti sétához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O oază verde de liniște chiar în centrul orașului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Perfect pentru o plimbare relaxantă de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A green oasis of peace right in the city center.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Schwanenteich",
+            "tip": "Perfect for a relaxing evening stroll.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Seltersweg",
+            "tip": "Gießens beliebteste Einkaufsstraße mit großen Marken."
+          },
+          {
+            "name": "Wochenmarkt Brandplatz",
+            "tip": "Frische regionale Produkte immer mittwochs und samstags."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seltersweg",
+            "tip": "Gießen legnépszerűbb bevásárlóutcája nagy márkákkal."
+          },
+          {
+            "name": "Wochenmarkt Brandplatz",
+            "tip": "Friss regionális termékek minden szerdán és szombaton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Seltersweg",
+            "tip": "Cea mai populară stradă de cumpărături din Gießen."
+          },
+          {
+            "name": "Wochenmarkt Brandplatz",
+            "tip": "Produse regionale proaspete în fiecare miercuri și sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seltersweg",
+            "tip": "Gießen's most popular shopping street with major brands."
+          },
+          {
+            "name": "Weekly Market Brandplatz",
+            "tip": "Fresh regional products every Wednesday and Saturday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und ideal zu Fuß erreichbar.",
+          "Für das Mathematikum sollten Sie mindestens 2 Stunden einplanen.",
+          "Der Botanische Garten ist im Sommer bis Sonnenuntergang geöffnet.",
+          "Parkhäuser am Stadtring sind der beste Ort für Pkws.",
+          "Probieren Sie das lokale 'Gießener Schlammbeiser' Bier."
+        ],
+        "hu": [
+          "A belváros kompakt, gyalogosan minden könnyen elérhető.",
+          "A Mathematikumra érdemes legalább 2 órát szánni.",
+          "A Botanikus kert nyáron naplementéig tart nyitva.",
+          "Az autók számára a városi gyűrű melletti parkolóházak a legjobbak.",
+          "Kóstolja meg a helyi 'Gießener Schlammbeiser' sört."
+        ],
+        "ro": [
+          "Centrul orașului este compact și ideal pentru a fi explorat pe jos.",
+          "Alocați cel puțin 2 ore pentru vizita la Mathematikum.",
+          "Grădina Botanică este deschisă vara până la apusul soarelui.",
+          "Parcările de pe centura orașului sunt cele mai potrivite.",
+          "Încercați berea locală 'Gießener Schlammbeiser'."
+        ],
+        "en": [
+          "The city center is compact and best explored on foot.",
+          "Plan at least 2 hours for your visit to the Mathematikum.",
+          "The Botanical Garden is open until sunset during summer.",
+          "Parking garages along the city ring are the best option for cars.",
+          "Try the local 'Gießener Schlammbeiser' beer."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Liebig-Museum",
+          "coords": [
+            8.6712,
+            50.5835
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am historischen Laborgebäude.",
+            "hu": "Kezdje a napot a történelmi laborépületnél.",
+            "ro": "Începeți ziua la clădirea istorică a laboratorului.",
+            "en": "Start your day at the historic laboratory building."
+          }
+        },
+        {
+          "name": "Mathematikum",
+          "coords": [
+            8.6732,
+            50.5818
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Bahnhofsquartier.",
+            "hu": "Rövid tekerés a vasútállomás környékére.",
+            "ro": "O scurtă plimbare spre zona gării.",
+            "en": "A short ride to the station quarter."
+          }
+        },
+        {
+          "name": "Altes & Neues Schloss",
+          "coords": [
+            8.6765,
+            50.5865
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zwei Schlösser direkt nebeneinander am Brandplatz.",
+            "hu": "Két kastély közvetlenül egymás mellett a Brandplatzon.",
+            "ro": "Două castele situate unul lângă altul în Brandplatz.",
+            "en": "Two castles right next to each other at Brandplatz."
+          }
+        },
+        {
+          "name": "Mittagessen in der Altstadt",
+          "coords": [
+            8.6745,
+            50.5855
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrradfreundliche Cafés in der Fußgängerzone.",
+            "hu": "Kerékpárosbarát kávézók a sétálóövezetben.",
+            "ro": "Cafenele prietenoase cu bicicliștii în zona pietonală.",
+            "en": "Bike-friendly cafes in the pedestrian zone."
+          }
+        },
+        {
+          "name": "Schwanenteich Gießen",
+          "coords": [
+            8.6885,
+            50.5855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie eine Runde um den großen See.",
+            "hu": "Tekerjen körbe a nagy tó körül.",
+            "ro": "Pedalați în jurul lacului mare.",
+            "en": "Cycle a loop around the large lake."
+          }
+        },
+        {
+          "name": "Botanischer Garten",
+          "coords": [
+            8.6812,
+            50.5862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad am Eingang ab und genießen Sie die Ruhe.",
+            "hu": "Tegye le a biciklit a bejáratnál és élvezze a csendet.",
+            "ro": "Lăsați bicicleta la intrare și bucurați-vă de liniște.",
+            "en": "Park your bike at the entrance and enjoy the peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad entdecken Sie Gießen flexibel und schnell. Nach den Museen im Zentrum führt die Route zu den Schlössern am Brandplatz. Ein Abstecher zum Schwanenteich zeigt die grüne Seite der Stadt, bevor es zurück zum Botanischen Garten geht.",
+        "hu": "Kerékpárral rugalmasan és gyorsan fedezheti fel Gießent. A központi múzeumok után az út a Brandplatz kastélyaihoz vezet. Egy kitérő a Schwanenteich felé megmutatja a város zöld arcát, mielőtt visszatérnénk a Botanikus kerthez.",
+        "ro": "Cu bicicleta descoperiți Gießen într-un mod flexibil și rapid. După muzeele din centru, ruta duce la castelele din Brandplatz. O abatere spre Schwanenteich vă arată partea verde a orașului înainte de a reveni la Grădina Botanică.",
+        "en": "Explore Gießen flexibly and quickly by bike. After the central museums, the route leads to the castles at Brandplatz. A detour to Schwanenteich reveals the city's green side before heading back to the Botanical Garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "News Café",
+            "tip": "Große Terrasse am Seltersweg."
+          },
+          {
+            "name": "Bolero Gießen",
+            "tip": "Tapas und Cocktails am Schwanenteich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "News Café",
+            "tip": "Nagy terasz a Selterswegen."
+          },
+          {
+            "name": "Bolero Gießen",
+            "tip": "Tapas és koktélok a Schwanenteich partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "News Café",
+            "tip": "Terasă mare în Seltersweg."
+          },
+          {
+            "name": "Bolero Gießen",
+            "tip": "Tapas și cocktailuri lângă Schwanenteich."
+          }
+        ],
+        "en": [
+          {
+            "name": "News Café",
+            "tip": "Large terrace on Seltersweg."
+          },
+          {
+            "name": "Bolero Gießen",
+            "tip": "Tapas and cocktails by Schwanenteich."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wiesecker Aue",
+            "tip": "Weitläufiges Naherholungsgebiet.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wiesecker Aue",
+            "tip": "Tágas közeli pihenőövezet.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wiesecker Aue",
+            "tip": "Zonă vastă de recreere locală.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wiesecker Aue",
+            "tip": "Extensive local recreation area.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Gießen",
+            "tip": "Hilfe bei Pannen und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt Gießen",
+            "tip": "Segítség defekt esetén és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Ajutor în caz de pană și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Gießen",
+            "tip": "Repair service and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gießen ist eine Studentenstadt mit vielen Radwegen.",
+          "Nutzen Sie die Wege entlang der Lahn für längere Touren.",
+          "In der Fußgängerzone müssen Sie das Rad teilweise schieben.",
+          "Sichern Sie Ihr Rad immer gut ab."
+        ],
+        "hu": [
+          "Gießen egyetemista város sok kerékpárúttal.",
+          "Használja a Lahn-folyó menti utakat hosszabb túrákhoz.",
+          "A sétálóövezetben néhol tolni kell a kerékpárt.",
+          "Mindig zárja le biztonságosan a biciklit."
+        ],
+        "ro": [
+          "Gießen este un oraș studențesc cu multe piste de biciclete.",
+          "Folosiți căile de-a lungul râului Lahn pentru tururi mai lungi.",
+          "În zona pietonală, uneori trebuie să împingeți bicicleta.",
+          "Asigurați-vă întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Gießen is a student city with many bike paths.",
+          "Use the paths along the Lahn river for longer tours.",
+          "In the pedestrian zone, you may need to push your bike.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Parkhaus Mathematikum (Cluster A)",
+          "coords": [
+            8.673,
+            50.5815
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier und besuchen Sie das Mathematikum zu Fuß.",
+            "hu": "Parkoljon le itt, és látogassa meg a Mathematikumot gyalog.",
+            "ro": "Parcați aici și vizitați Mathematikum pe jos.",
+            "en": "Park here and visit the Mathematikum on foot."
+          }
+        },
+        {
+          "name": "Liebig-Museum (Cluster A)",
+          "coords": [
+            8.6708,
+            50.5832
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten Fußweg vom Mathematikum.",
+            "hu": "Csak 5 perc séta a Mathematikumtól.",
+            "ro": "La doar 5 minute de mers pe jos de Mathematikum.",
+            "en": "Only a 5-minute walk from Mathematikum."
+          }
+        },
+        {
+          "name": "Parkhaus Brandplatz (Cluster B)",
+          "coords": [
+            8.6765,
+            50.5862
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentrales Parkhaus für Schlösser und Marktplatz.",
+            "hu": "Központi parkolóház a kastélyokhoz és a piachoz.",
+            "ro": "Parcare centrală pentru castele și piață.",
+            "en": "Central parking for castles and marketplace."
+          }
+        },
+        {
+          "name": "Mittagessen Ratskeller (Cluster B)",
+          "coords": [
+            8.6745,
+            50.5855
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hessische Spezialitäten im Zentrum.",
+            "hu": "Hesseni specialitások a központban.",
+            "ro": "Specialități din Hessa în centru.",
+            "en": "Hessian specialties in the center."
+          }
+        },
+        {
+          "name": "Schwanenteich Gießen (Cluster C)",
+          "coords": [
+            8.6885,
+            50.5855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genügend Parkplätze direkt am Erholungsgebiet.",
+            "hu": "Elegendő parkolóhely közvetlenül a pihenőövezetnél.",
+            "ro": "Suficiente locuri de parcare lângă zona de recreere.",
+            "en": "Ample parking directly at the recreation area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die wissenschaftlichen Highlights im Süden mit den historischen Schlössern im Zentrum. Durch das Clustern von Parkplätzen sparen Sie Stress. Der Abschluss am Schwanenteich bietet viel Platz zum Entspannen vor der Heimreise.",
+        "hu": "Ez az autós túra összeköti a déli tudományos látnivalókat a központi történelmi kastélyokkal. A parkolóhelyek csoportosításával stresszt takaríthat meg. A nap vége a Schwanenteich-nél tágas teret kínál a pihenésre a hazaút előtt.",
+        "ro": "Acest tur cu mașina combină atracțiile științifice din sud cu castelele istorice din centru. Prin gruparea parcărilor economisiți timp. Finalul la Schwanenteich oferă mult spațiu pentru relaxare înainte de plecare.",
+        "en": "This car tour connects the scientific highlights in the south with the historic castles in the center. Clustering parking spots saves stress. The conclusion at Schwanenteich offers plenty of space to relax before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Liebigs",
+            "tip": "Modernes Restaurant mit regionalem Fokus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Liebigs",
+            "tip": "Modern étterem regionális fókusszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Liebigs",
+            "tip": "Restaurant modern cu focus regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Liebigs",
+            "tip": "Modern restaurant with a regional focus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schiffenberg",
+            "tip": "Historisches Kloster auf dem Hügel, nur 10 Min. Autofahrt.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schiffenberg",
+            "tip": "Történelmi kolostor a dombon, mindössze 10 perc autóval.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schiffenberg",
+            "tip": "Mănăstire istorică pe deal, la doar 10 min. cu mașina.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schiffenberg",
+            "tip": "Historic monastery on the hill, only a 10-minute drive.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Neustädter Tor",
+            "tip": "Großes Einkaufszentrum mit eigenem Parkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galerie Neustädter Tor",
+            "tip": "Nagy bevásárlóközpont saját parkolóházzal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerie Neustädter Tor",
+            "tip": "Centru comercial mare cu parcare proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galerie Neustädter Tor",
+            "tip": "Large shopping mall with its own parking garage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem der Stadt.",
+          "In der Innenstadt ist das Parken am Straßenrand oft schwierig.",
+          "Ein Abstecher zum Kloster Schiffenberg lohnt sich mit dem Auto sehr.",
+          "Achten Sie auf die Einbahnstraßen am Anlagenring."
+        ],
+        "hu": [
+          "Használja a város parkolásirányító rendszerét.",
+          "A belvárosban az utcai parkolás gyakran nehézkes.",
+          "Autóval nagyon megéri egy kitérő a Schiffenberg kolostorhoz.",
+          "Ügyeljen az Anlagenring egyirányú utcáira."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare pentru parcare al orașului.",
+          "Parcarea la marginea drumului este dificilă în centrul orașului.",
+          "O vizită la Mănăstirea Schiffenberg merită din plin cu mașina.",
+          "Atenție la străzile cu sens unic de pe centura orașului."
+        ],
+        "en": [
+          "Use the city's parking guidance system.",
+          "On-street parking in the city center is often difficult.",
+          "A detour to Schiffenberg Monastery is well worth it by car.",
+          "Watch out for one-way streets on the inner ring road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bahnhof Gießen (Mathematikum)",
+          "coords": [
+            8.6732,
+            50.5818
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof nur 2 Gehminuten.",
+            "hu": "A főpályaudvartól mindössze 2 perc gyalog.",
+            "ro": "La doar 2 minute de mers pe jos de gara centrală.",
+            "en": "Only a 2-minute walk from the main station."
+          }
+        },
+        {
+          "name": "Liebigstraße (Liebig-Museum)",
+          "coords": [
+            8.6712,
+            50.5835
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch das Univiertel.",
+            "hu": "Rövid séta az egyetemi negyeden át.",
+            "ro": "Scurtă plimbare prin cartierul universitar.",
+            "en": "Short walk through the university quarter."
+          }
+        },
+        {
+          "name": "Marktplatz (Altes Schloss)",
+          "coords": [
+            8.6762,
+            50.5864
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Umstiegsknoten für viele Buslinien.",
+            "hu": "Központi átszállópont számos buszvonalhoz.",
+            "ro": "Nod central de transfer pentru multe linii de autobuz.",
+            "en": "Central transfer hub for many bus lines."
+          }
+        },
+        {
+          "name": "Seltersweg (Lunch)",
+          "coords": [
+            8.6725,
+            50.5852
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mitten im Geschehen.",
+            "hu": "Az események központjában.",
+            "ro": "În centrul acțiunii.",
+            "en": "Right in the middle of the action."
+          }
+        },
+        {
+          "name": "Botanischer Garten",
+          "coords": [
+            8.6812,
+            50.5862
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Haltestelle direkt vor dem Eingang.",
+            "hu": "Megálló közvetlenül a bejárat előtt.",
+            "ro": "Stație chiar în fața intrării.",
+            "en": "Bus stop directly in front of the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem dichten Busnetz von Gießen erreichen Sie alle Sehenswürdigkeiten bequem. Vom Bahnhof aus führt der Weg über die Museen zum Marktplatz, dem Herzen der Stadt. Genießen Sie die Flexibilität ohne Parkplatzsuche.",
+        "hu": "Gießen sűrű autóbuszhálózatával minden látnivaló kényelmesen elérhető. A pályaudvartól a múzeumokon át az út a Marktplatzig, a város szívéig vezet. Élvezze a rugalmasságot parkolóhely-keresés nélkül.",
+        "ro": "Cu rețeaua densă de autobuze din Gießen, puteți ajunge confortabil la toate atracțiile. De la gară, drumul trece pe la muzee spre Marktplatz, inima orașului. Bucurați-vă de flexibilitate fără grija parcării.",
+        "en": "With Gießen's dense bus network, you can reach all sights comfortably. From the station, the path leads past museums to Marktplatz, the heart of the city. Enjoy flexibility without the hassle of searching for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Balkan Grill",
+            "tip": "Beliebtes Restaurant nah am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Balkan Grill",
+            "tip": "Népszerű étterem a Marktplatz közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Balkan Grill",
+            "tip": "Restaurant popular lângă Marktplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Balkan Grill",
+            "tip": "Popular restaurant near Marktplatz."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Theaterpark",
+            "tip": "Kleine Grünanlage am Stadttheater.",
+            "emoji": "🎭"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Theaterpark",
+            "tip": "Kis zöldterület a Városi Színháznál.",
+            "emoji": "🎭"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Theaterpark",
+            "tip": "Mic spațiu verde lângă teatrul orașului.",
+            "emoji": "🎭"
+          }
+        ],
+        "en": [
+          {
+            "name": "Theaterpark",
+            "tip": "Small green area by the city theater.",
+            "emoji": "🎭"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Snacks und Fahrkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvari kioszk",
+            "tip": "Snackek és menetjegyek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc la gară",
+            "tip": "Gustări și bilete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Snacks and tickets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das gesamte Stadtgebiet.",
+          "Die Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan.",
+          "Der Marktplatz ist der ideale Startpunkt für Busverbindungen.",
+          "Nutzen Sie die App des RMV für Echtzeitdaten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet az egész városi területre.",
+          "A buszok hétvégén ritkábban járnak, ellenőrizze a menetrendet.",
+          "A Marktplatz ideális kiindulópont a buszos csatlakozásokhoz.",
+          "Használja az RMV alkalmazást a valós idejű adatokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru întreaga zonă a orașului.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul.",
+          "Marktplatz este punctul ideal de pornire pentru legăturile de autobuz.",
+          "Folosiți aplicația RMV pentru date în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for the entire city area.",
+          "Buses run less frequently on weekends; check the timetable.",
+          "Marktplatz is the ideal starting point for bus connections.",
+          "Use the RMV app for real-time transit data."
+        ]
+      }
+    }
+  }
+}

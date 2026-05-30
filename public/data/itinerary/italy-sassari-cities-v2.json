@@ -1,0 +1,940 @@
+{
+  "city_id": "italy-sassari-cities-v2",
+  "anchor": {
+    "name": "Piazza d'Italia",
+    "coords": [
+      8.5611,
+      40.7252
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza d'Italia",
+          "coords": [
+            8.5611,
+            40.7252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistischen Paläste rund um den Platz.",
+            "hu": "Csodáld meg a teret övező neoklasszicista palotákat.",
+            "ro": "Admirați palatele neoclasice care înconjoară piața.",
+            "en": "Admire the neoclassical palaces surrounding the square."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            8.5582,
+            40.7268
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Innenhof dieses prächtigen Barockgebäudes.",
+            "hu": "Látogass el ennek a pompás barokk épületnek a belső udvarára.",
+            "ro": "Vizitați curtea interioară a acestei magnifice clădiri baroce.",
+            "en": "Visit the inner courtyard of this magnificent Baroque building."
+          }
+        },
+        {
+          "name": "Cattedrale di San Nicola",
+          "coords": [
+            8.5568,
+            40.7271
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Fassade ist ein Meisterwerk des sardischen Barocks.",
+            "hu": "A homlokzat a szárd barokk építészet remekműve.",
+            "ro": "Fațada este o capodoperă a barocului sardinian.",
+            "en": "The facade is a masterpiece of Sardinian Baroque."
+          }
+        },
+        {
+          "name": "Corso Vittorio Emanuele II",
+          "coords": [
+            8.5562,
+            40.7285
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause in einem der historischen Cafés.",
+            "hu": "Tökéletes hely egy ebédszünethez a történelmi kávézók egyikében.",
+            "ro": "Perfect pentru o pauză de prânz într-una dintre cafenelele istorice.",
+            "en": "Perfect for a lunch break in one of the historical cafes."
+          }
+        },
+        {
+          "name": "Fontana di Rosello",
+          "coords": [
+            8.5638,
+            40.7302
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt mit seinen vier Statuen.",
+            "hu": "A város jelképe a négy évszakot jelképező szoborral.",
+            "ro": "Simbolul orașului cu cele patru statui ale sale.",
+            "en": "The symbol of the city with its four representative statues."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria di Betlem",
+          "coords": [
+            8.5532,
+            40.7258
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Hier werden die berühmten Candelieri-Säulen aufbewahrt.",
+            "hu": "Itt őrzik a híres Candelieri-oszlopokat.",
+            "ro": "Aici sunt păstrate faimoasele coloane Candelieri.",
+            "en": "This is where the famous Candelieri columns are kept."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im aristokratischen Herzen von Sassari auf der Piazza d'Italia. Schlendern Sie durch die engen Gassen des historischen Zentrums zum Palazzo Ducale und der beeindruckenden Kathedrale San Nicola. Nach einem Mittagessen am Corso Vittorio Emanuele besuchen Sie den monumentalen Rosello-Brunnen, bevor Sie in der Kirche Santa Maria di Betlem die Tradition der Candelieri entdecken.",
+        "hu": "Kezdje a napot Sassari arisztokratikus szívében, a Piazza d'Italia-n. Sétáljon a történelmi központ szűk utcáin a Palazzo Ducale és a lenyűgöző San Nicola-székesegyház felé. A Corso Vittorio Emanuele-n elköltött ebéd után látogassa meg a monumentális Rosello-kutat, majd fedezze fel a Candelieri hagyományát a Santa Maria di Betlem templomban.",
+        "ro": "Începeți ziua în inima aristocratică a orașului Sassari, în Piazza d'Italia. Plimbați-vă pe străzile înguste ale centrului istoric spre Palazzo Ducale și impresionanta Catedrală San Nicola. După un prânz pe Corso Vittorio Emanuele, vizitați monumentala Fântână Rosello, înainte de a descoperi tradiția Candelieri în biserica Santa Maria di Betlem.",
+        "en": "Start your day in the aristocratic heart of Sassari at Piazza d'Italia. Wander through the narrow streets of the historic center towards Palazzo Ducale and the impressive San Nicola Cathedral. After lunch on Corso Vittorio Emanuele, visit the monumental Rosello Fountain before discovering the Candelieri tradition at the Santa Maria di Betlem church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante L'Assassino",
+            "tip": "Probieren Sie die traditionelle Zuppa Gallurese."
+          },
+          {
+            "name": "Fainè Genovese",
+            "tip": "Sassaris berühmter Kichererbsenfladen, heiß serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante L'Assassino",
+            "tip": "Kóstolja meg a hagyományos Zuppa Gallurese-t."
+          },
+          {
+            "name": "Fainè Genovese",
+            "tip": "Sassari híres csicseriborsó lepénye, forrón tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante L'Assassino",
+            "tip": "Încercați tradiționala Zuppa Gallurese."
+          },
+          {
+            "name": "Fainè Genovese",
+            "tip": "Faimoasa plăcintă cu năut din Sassari, servită caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante L'Assassino",
+            "tip": "Try the traditional Zuppa Gallurese."
+          },
+          {
+            "name": "Fainè Genovese",
+            "tip": "Sassari's famous chickpea flatbread, served hot."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Ein ruhiger Rückzugsort im Stadtzentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pozzo di San Pantaleo",
+            "tip": "Ein friedlicher historischer Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Csendes menedék a városközpontban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pozzo di San Pantaleo",
+            "tip": "Békés történelmi helyszín.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Un refugiu liniștit în centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pozzo di San Pantaleo",
+            "tip": "Un loc istoric pașnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "A quiet retreat in the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Pozzo di San Pantaleo",
+            "tip": "A peaceful historical spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Lokale Produkte und frische sardische Spezialitäten."
+          },
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "Traditionelles Handwerk und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Helyi termékek és friss szárd különlegességek."
+          },
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "Hagyományos kézműves termékek és butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Produse locale și specialități sarde proaspete."
+          },
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "Artizanat tradițional și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Civico",
+            "tip": "Local produce and fresh Sardinian specialties."
+          },
+          {
+            "name": "Corso Vittorio Emanuele II",
+            "tip": "Traditional crafts and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Achten Sie auf die Öffnungszeiten der Kirchen, meist gibt es eine Mittagspause.",
+          "Die Stadt liegt auf einem Kalksteinplateau, stellen Sie sich auf leichte Steigungen ein."
+        ],
+        "hu": [
+          "A történelmi központ kompakt, a legjobb gyalogosan bejárni.",
+          "Figyeljen a templomok nyitvatartására, általában délben zárva tartanak.",
+          "A város egy mészkőplatón fekszik, készüljön fel enyhe emelkedőkre."
+        ],
+        "ro": [
+          "Centrul istoric este compact și cel mai bine explorat la pas.",
+          "Atenție la programul bisericilor, de obicei există o pauză la prânz.",
+          "Orașul este situat pe un platou calcaros, pregătiți-vă pentru pante ușoare."
+        ],
+        "en": [
+          "The historic center is compact and best explored on foot.",
+          "Pay attention to church opening hours, as they usually close for a midday break.",
+          "The city is located on a limestone plateau, so expect some gentle slopes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza d'Italia",
+          "coords": [
+            8.5611,
+            40.7252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am größten Platz Sardiniens.",
+            "hu": "Induljon Szardínia legnagyobb teréről.",
+            "ro": "Porniți din cea mai mare piață din Sardinia.",
+            "en": "Start from the largest square in Sardinia."
+          }
+        },
+        {
+          "name": "Museo Nazionale Giovanni Antonio Sanna",
+          "coords": [
+            8.5635,
+            40.7205
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorische Geschichte Sardiniens.",
+            "hu": "Fedezze fel Szardínia őskori történelmét.",
+            "ro": "Descoperiți istoria preistorică a Sardiniei.",
+            "en": "Discover the prehistoric history of Sardinia."
+          }
+        },
+        {
+          "name": "Parco di Monserrato",
+          "coords": [
+            8.5802,
+            40.7105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein herrlicher Park am Rande der Stadt für eine Pause.",
+            "hu": "Egy gyönyörű park a város szélén a pihenéshez.",
+            "ro": "Un parc magnific la marginea orașului pentru o pauză.",
+            "en": "A magnificent park on the edge of the city for a break."
+          }
+        },
+        {
+          "name": "Chiesa di San Pietro di Silki",
+          "coords": [
+            8.5755,
+            40.7152
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kirchen der Stadt mit romanischem Ursprung.",
+            "hu": "A város egyik legrégebbi, román kori eredetű temploma.",
+            "ro": "Una dintre cele mai vechi biserici din oraș, de origine romanică.",
+            "en": "One of the city's oldest churches with Romanesque origins."
+          }
+        },
+        {
+          "name": "Fontana di Rosello",
+          "coords": [
+            8.5638,
+            40.7302
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zurück zum Wahrzeichen der Stadt.",
+            "hu": "Tekerjen vissza a város ikonikus kutához.",
+            "ro": "Pedalați înapoi la fântâna iconică a orașului.",
+            "en": "Cycle back to the city's iconic fountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sassari mit dem Fahrrad, beginnend an der Piazza d'Italia. Fahren Sie nach Süden zum Sanna-Museum, um tiefer in die Archäologie einzutauchen, und genießen Sie dann die grüne Lunge im Monserrato-Park. Auf dem Rückweg besuchen Sie die historische San Pietro di Silki Kirche, bevor Sie die Tour am monumentalen Rosello-Brunnen abschließen.",
+        "hu": "Fedezze fel Sassarit kerékpárral, a Piazza d'Italia-tól indulva. Tekerjen délre a Sanna Múzeumhoz a régészeti emlékekért, majd élvezze a zöld környezetet a Monserrato Parkban. Visszafelé látogassa meg a történelmi San Pietro di Silki templomot, mielőtt a túrát a monumentális Rosello-kútnál fejezné be.",
+        "ro": "Explorați Sassari cu bicicleta, pornind din Piazza d'Italia. Pedalați spre sud la Muzeul Sanna pentru arheologie, apoi bucurați-vă de verdeață în Parcul Monserrato. La întoarcere, vizitați biserica istorică San Pietro di Silki, înainte de a încheia turul la fântâna monumentală Rosello.",
+        "en": "Explore Sassari by bike, starting from Piazza d'Italia. Cycle south to the Sanna Museum for archaeological insights, then enjoy the greenery at Monserrato Park. On your way back, visit the historical San Pietro di Silki church before finishing the tour at the monumental Rosello Fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffè Roma",
+            "tip": "Ideal für ein schnelles Frühstück oder einen Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffè Roma",
+            "tip": "Ideális egy gyors reggelihez vagy egy eszpresszóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffè Roma",
+            "tip": "Ideal pentru un mic dejun rapid sau un espresso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffè Roma",
+            "tip": "Ideal for a quick breakfast or an espresso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco di Monserrato",
+            "tip": "Weitläufige Grünflächen zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco di Monserrato",
+            "tip": "Tágas zöldfelületek a kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco di Monserrato",
+            "tip": "Spații verzi vaste pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco di Monserrato",
+            "tip": "Vast green spaces for relaxation.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Roma",
+            "tip": "Elegante Einkaufsstraße mit vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Roma",
+            "tip": "Elegáns bevásárlóutca számos üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Roma",
+            "tip": "Stradă comercială elegantă cu multe magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Roma",
+            "tip": "Elegant shopping street with many stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Zentrum sind oft mit Kopfsteinpflaster versehen, fahren Sie vorsichtig.",
+          "Einige Abschnitte können für unerfahrene Radfahrer steil sein.",
+          "Nutzen Sie die Radwege, wo vorhanden, besonders außerhalb des Zentrums."
+        ],
+        "hu": [
+          "A központi utcák gyakran macskakövesek, vezessen óvatosan.",
+          "Néhány szakasz meredek lehet tapasztalatlan kerékpárosok számára.",
+          "Használja a kerékpárutakat, ahol vannak, különösen a központon kívül."
+        ],
+        "ro": [
+          "Străzile din centru sunt adesea pavate cu piatră cubică, pedalați cu atenție.",
+          "Unele secțiuni pot fi abrupte pentru bicicliștii neexperimentați.",
+          "Folosiți pistele de biciclete unde sunt disponibile, mai ales în afara centrului."
+        ],
+        "en": [
+          "Central streets are often cobbled, so cycle carefully.",
+          "Some sections may be steep for inexperienced cyclists.",
+          "Use cycle paths where available, especially outside the center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza d'Italia",
+          "coords": [
+            8.5611,
+            40.7252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage unter dem Platz.",
+            "hu": "Parkoljon a tér alatti mélygarázsban.",
+            "ro": "Parcați în garajul subteran de sub piață.",
+            "en": "Park in the underground garage below the square."
+          }
+        },
+        {
+          "name": "Cattedrale di San Nicola",
+          "coords": [
+            8.5568,
+            40.7271
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Altstadt ab dem Parkhaus.",
+            "hu": "Rövid séta az óvároson át a parkolótól.",
+            "ro": "O scurtă plimbare prin centrul vechi de la parcare.",
+            "en": "A short walk through the old town from the parking."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            8.5582,
+            40.7268
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das heutige Rathaus mit prächtigen Sälen.",
+            "hu": "A jelenlegi városháza pompás termekkel.",
+            "ro": "Actuala primărie cu săli magnifice.",
+            "en": "The current city hall with magnificent halls."
+          }
+        },
+        {
+          "name": "Parco di Monserrato",
+          "coords": [
+            8.5802,
+            40.7105
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum großen Parkplatz am Haupteingang.",
+            "hu": "Hajtson a főbejáratnál található nagy parkolóhoz.",
+            "ro": "Conduceți până la parcarea mare de la intrarea principală.",
+            "en": "Drive to the large parking lot at the main entrance."
+          }
+        },
+        {
+          "name": "Chiesa di San Pietro di Silki",
+          "coords": [
+            8.5755,
+            40.7152
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung im Vorort von Sassari.",
+            "hu": "Csendes hely az elmélkedésre Sassari külvárosában.",
+            "ro": "Un loc liniștit pentru reflecție în suburbia orașului Sassari.",
+            "en": "A quiet place for reflection in the suburb of Sassari."
+          }
+        },
+        {
+          "name": "Fontana di Rosello",
+          "coords": [
+            8.5638,
+            40.7302
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen Brunnen auf dem Weg zurück zum Zentrum.",
+            "hu": "Látogassa meg ezt a kutat a központ felé tartva.",
+            "ro": "Vizitați această fântână în drum spre centru.",
+            "en": "Visit this fountain on your way back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie sowohl das historische Zentrum als auch die Außenbezirke von Sassari. Parken Sie zentral an der Piazza d'Italia, um die Kathedrale und den Herzogspalast zu Fuß zu erkunden. Danach fahren Sie zum weitläufigen Monserrato-Park und zur San Pietro di Silki Kirche, bevor Sie die Tour am Rosello-Brunnen abrunden.",
+        "hu": "Autóval Sassari történelmi központját és külvárosait is felfedezheti. Parkoljon központilag a Piazza d'Italia-n, hogy gyalogosan bejárja a székesegyházat és a hercegi palotát. Ezután hajtson a tágas Monserrato Parkhoz és a San Pietro di Silki templomhoz, végül zárja a túrát a Rosello-kútnál.",
+        "ro": "Cu mașina veți descoperi atât centrul istoric, cât și suburbiile orașului Sassari. Parcați central în Piazza d'Italia pentru a explora pe jos catedrala și palatul ducal. Apoi, conduceți către vastul Parc Monserrato și biserica San Pietro di Silki, înainte de a încheia turul la Fântâna Rosello.",
+        "en": "By car, you will discover both the historic center and the outskirts of Sassari. Park centrally at Piazza d'Italia to explore the cathedral and the ducal palace on foot. Then, drive to the spacious Monserrato Park and the San Pietro di Silki church, before rounding off the tour at the Rosello Fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Il Vecchio Mulino",
+            "tip": "Probieren Sie sardische Fleischspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Il Vecchio Mulino",
+            "tip": "Kóstolja meg a szárd húskülönlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Il Vecchio Mulino",
+            "tip": "Încercați specialitățile sarde din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Il Vecchio Mulino",
+            "tip": "Try Sardinian meat specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Pietro di Silki Garten",
+            "tip": "Friedlicher Klostergarten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Pietro di Silki kert",
+            "tip": "Békés kolostorkert.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina San Pietro di Silki",
+            "tip": "Grădină mănăstirească liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Pietro di Silki Garden",
+            "tip": "Peaceful monastery garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Predda Niedda",
+            "tip": "Großes Gewerbegebiet mit vielen Einkaufszentren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Predda Niedda",
+            "tip": "Nagy kereskedelmi negyed számos bevásárlóközponttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Predda Niedda",
+            "tip": "Zonă comercială mare cu multe centre comerciale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Predda Niedda",
+            "tip": "Large commercial area with many shopping centers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die ZTL (verkehrsberuhigte Zone) im historischen Zentrum ist streng kontrolliert.",
+          "Nutzen Sie die Tiefgarage an der Piazza d'Italia, um Bußgelder zu vermeiden.",
+          "Die Parkplatzsuche am Monserrato-Park ist meist unproblematisch."
+        ],
+        "hu": [
+          "A történelmi központban a ZTL (korlátozott forgalmú övezet) szigorúan ellenőrzött.",
+          "Használja a Piazza d'Italia alatti mélygarázst a büntetések elkerülése érdekében.",
+          "A Monserrato Parknál a parkolás általában problémamentes."
+        ],
+        "ro": [
+          "ZTL (zona cu trafic limitat) din centrul istoric este strict controlată.",
+          "Folosiți parcarea subterană din Piazza d'Italia pentru a evita amenzile.",
+          "Găsirea unui loc de parcare la Parcul Monserrato este de obicei fără probleme."
+        ],
+        "en": [
+          "The ZTL (limited traffic zone) in the historic center is strictly controlled.",
+          "Use the underground parking at Piazza d'Italia to avoid fines.",
+          "Parking at Monserrato Park is usually straightforward."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Museo Nazionale Giovanni Antonio Sanna",
+          "coords": [
+            8.5635,
+            40.7205
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus der Linie 1 oder 4 erreichbar.",
+            "hu": "Az 1-es vagy 4-es busszal érhető el.",
+            "ro": "Accesibil cu autobuzul linia 1 sau 4.",
+            "en": "Accessible via bus line 1 or 4."
+          }
+        },
+        {
+          "name": "Piazza d'Italia",
+          "coords": [
+            8.5611,
+            40.7252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Hauptknotenpunkt für alle Stadtbusse.",
+            "hu": "A városi buszok fő csomópontja.",
+            "ro": "Nodul principal pentru toate autobuzele urbane.",
+            "en": "The main hub for all city buses."
+          }
+        },
+        {
+          "name": "Palazzo Ducale",
+          "coords": [
+            8.5582,
+            40.7268
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang ab der Piazza d'Italia.",
+            "hu": "Rövid séta a Piazza d'Italia-tól.",
+            "ro": "O scurtă plimbare de la Piazza d'Italia.",
+            "en": "A short walk from Piazza d'Italia."
+          }
+        },
+        {
+          "name": "Cattedrale di San Nicola",
+          "coords": [
+            8.5568,
+            40.7271
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mitten im historischen Viertel gelegen.",
+            "hu": "A történelmi negyed közepén található.",
+            "ro": "Situată în inima cartierului istoric.",
+            "en": "Located in the heart of the historic district."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria di Betlem",
+          "coords": [
+            8.5532,
+            40.7258
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "In der Nähe des Bahnhofs und gut angebunden.",
+            "hu": "A vasútállomás közelében, jó közlekedéssel.",
+            "ro": "Lângă gară și bine conectată.",
+            "en": "Near the train station and well connected."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Sassaris Busnetz (ATP), um die Stadt stressfrei zu erkunden. Starten Sie im Sanna-Museum und fahren Sie dann zum zentralen Platz, Piazza d'Italia. Erkunden Sie die Altstadt zu Fuß, besuchen Sie den Herzogspalast und die Kathedrale, bevor Sie den Tag an der Kirche Santa Maria di Betlem in der Nähe des Bahnhofs beenden.",
+        "hu": "Használja Sassari buszhálózatát (ATP) a város gondtalan felfedezéséhez. Kezdje a Sanna Múzeumnál, majd utazzon a központi Piazza d'Italia-ra. Sétáljon az óvárosban, látogassa meg a hercegi palotát és a székesegyházat, majd zárja a napot a vasútállomás közelében lévő Santa Maria di Betlem templomnál.",
+        "ro": "Folosiți rețeaua de autobuze din Sassari (ATP) pentru a explora orașul fără stres. Începeți la Muzeul Sanna și apoi mergeți spre piața centrală, Piazza d'Italia. Explorați centrul vechi la pas, vizitați palatul ducal și catedrala, înainte de a încheia ziua la biserica Santa Maria di Betlem din apropierea gării.",
+        "en": "Use Sassari's bus network (ATP) to explore the city stress-free. Start at the Sanna Museum and then head to the central Piazza d'Italia. Explore the old town on foot, visit the ducal palace and the cathedral, before ending the day at the Santa Maria di Betlem church near the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria del Corso",
+            "tip": "Sardische Hausmannskost direkt am Corso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria del Corso",
+            "tip": "Házias szárd ételek közvetlenül a Corso mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria del Corso",
+            "tip": "Mâncare tradițională sardă chiar pe Corso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria del Corso",
+            "tip": "Homemade Sardinian food right on the Corso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Ideal für eine Pause zwischen den Busfahrten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Ideális egy pihenőhöz a buszjáratok között.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Ideal pentru o pauză între călătoriile cu autobuzul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Pubblici",
+            "tip": "Ideal for a break between bus trips.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Brigata Sassari",
+            "tip": "Zentrale Straße mit vielen Modegeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Brigata Sassari",
+            "tip": "Központi utca számos divatüzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Brigata Sassari",
+            "tip": "Stradă centrală cu multe magazine de modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Brigata Sassari",
+            "tip": "Central street with many fashion stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets vorab in Tabakläden oder an Kiosken.",
+          "Die Fahrpläne können an Wochenenden eingeschränkt sein.",
+          "Die App ATP Sassari hilft bei der Echtzeit-Verfolgung der Busse."
+        ],
+        "hu": [
+          "Vásároljon jegyet előre dohányboltokban vagy újságárusoknál.",
+          "A menetrend hétvégenként korlátozott lehet.",
+          "Az ATP Sassari alkalmazás segít a buszok valós idejű követésében."
+        ],
+        "ro": [
+          "Cumpărați bilete în avans de la chioșcurile de ziare sau tutungerii.",
+          "Orarele pot fi limitate în weekend.",
+          "Aplicația ATP Sassari ajută la urmărirea în timp real a autobuzelor."
+        ],
+        "en": [
+          "Buy tickets in advance at tobacconists or kiosks.",
+          "Schedules may be limited on weekends.",
+          "The ATP Sassari app helps with real-time bus tracking."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1166 @@
+{
+  "city_id": "city-frankfurt-oder-extra",
+  "anchor": {
+    "name": "Frankfurt (Oder)",
+    "coords": [
+      14.55,
+      52.34
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            14.554,
+            52.344
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die norddeutsche Backsteingotik der Fassade.",
+            "hu": "Csodálja meg az észak-német gótikus téglaépítészetet.",
+            "ro": "Admirați arhitectura gotică din cărămidă a fațadei.",
+            "en": "Admire the North German Brick Gothic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            14.555,
+            52.343
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die drei Chorfenster mit biblischen Motiven sind weltweit einzigartig.",
+            "hu": "A három bibliai motívumokkal díszített ablak világszinten egyedülálló.",
+            "ro": "Cele trei vitralii cu motive biblice sunt unice în lume.",
+            "en": "The three stained glass windows with biblical motifs are world-unique."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleist-Museum",
+            "hu": "Kleist-múzeum",
+            "ro": "Muzeul Kleist",
+            "en": "Kleist Museum"
+          },
+          "coords": [
+            14.557,
+            52.341
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den hier geborenen Dichter Heinrich von Kleist.",
+            "hu": "Ismerje meg az itt született költő, Heinrich von Kleist életét.",
+            "ro": "Aflați mai multe despre poetul Heinrich von Kleist, născut aici.",
+            "en": "Learn more about the poet Heinrich von Kleist, who was born here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen an der Oder",
+            "hu": "Ebéd az Oderánál",
+            "ro": "Prânz pe malul râului Oder",
+            "en": "Lunch by the Oder"
+          },
+          "coords": [
+            14.556,
+            52.342
+          ],
+          "category": "gastro",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie regionale Fischgerichte direkt am Fluss.",
+            "hu": "Kóstolja meg a helyi halételeket közvetlenül a folyóparton.",
+            "ro": "Încercați preparatele regionale din pește chiar lângă râu.",
+            "en": "Try regional fish dishes right by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Oderpromenade",
+            "hu": "Odera-sétány",
+            "ro": "Promenada Oderului",
+            "en": "Oder Promenade"
+          },
+          "coords": [
+            14.558,
+            52.345
+          ],
+          "category": "park",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die gegenüberliegende polnische Stadt Słubice.",
+            "hu": "Élvezze a kilátást a szemközti lengyel városra, Słubicére.",
+            "ro": "Bucurați-vă de priveliștea spre orașul polonez Słubice.",
+            "en": "Enjoy the view of the Polish town Słubice across the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke",
+            "hu": "Béke-híd",
+            "ro": "Podul Păcii",
+            "en": "Bridge of Peace"
+          },
+          "coords": [
+            14.559,
+            52.347
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Gang nach Polen dauert nur wenige Minuten.",
+            "hu": "Egy rövid séta Lengyelországba mindössze pár percet vesz igénybe.",
+            "ro": "O scurtă plimbare spre Polonia durează doar câteva minute.",
+            "en": "A short walk into Poland takes only a few minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Ziegenwerder",
+            "hu": "Ziegenwerder-sziget",
+            "ro": "Insula Ziegenwerder",
+            "en": "Ziegenwerder Island"
+          },
+          "coords": [
+            14.56,
+            52.338
+          ],
+          "category": "garden",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für den Sonnenuntergang im botanischen Garten.",
+            "hu": "Tökéletes helyszín a naplementéhez a botanikus kertben.",
+            "ro": "Locul perfect pentru apusul soarelui în grădina botanică.",
+            "en": "Perfect spot for sunset in the botanical garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Frankfurt (Oder) besticht durch seine geschichtsträchtige Backsteingotik und die direkte Lage am Grenzfluss Oder. Der Vormittag gehört dem monumentalen Rathaus und der Marienkirche mit ihren Glasfenstern. Nach einem Besuch im Kleist-Museum entspannen wir bei regionaler Küche. Der Nachmittag führt uns entlang der Promenade zur Friedensbrücke und endet im idyllischen Grün der Insel Ziegenwerder.",
+        "hu": "Frankfurt (Oder) a gótikus téglaépítészet és az Odera folyó hangulatának városa. Délelőtt a monumentális Városházát és a Szent Mária-templomot fedezzük fel. A Kleist-múzeum után a folyóparton ebédelünk, majd a Béke-híd érintésével zárjuk a napot a Ziegenwerder-sziget természet közeli nyugalmában, ahol a botanikus kert kertjei várnak.",
+        "ro": "Frankfurt (Oder) impresionează prin arhitectura gotică și locația sa pe malul râului de frontieră Oder. Dimineața este dedicată Primăriei monumentale și Bisericii Sf. Maria. După vizitarea Muzeului Kleist, ne relaxăm cu preparate locale. După-amiaza ne poartă de-a lungul promenadei către Podul Păcii și se încheie în verdeața idilică a insulei Ziegenwerder.",
+        "en": "Frankfurt (Oder) stands out with its historic Brick Gothic architecture and its position on the border river Oder. The morning is dedicated to the monumental Town Hall and St. Mary's Church. After exploring the Kleist Museum and enjoying local cuisine, the afternoon continues along the promenade to the Bridge of Peace, ending in the tranquil nature of Ziegenwerder Island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Goldener Hahn",
+            "tip": "Traditionelle märkische Küche im historischen Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Goldener Hahn",
+            "tip": "Hagyományos brandenburgi konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Goldener Hahn",
+            "tip": "Bucătărie tradițională din Brandenburg într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Goldener Hahn",
+            "tip": "Traditional Brandenburg cuisine in a historic atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ziegenwerder",
+            "tip": "Ruhiger Naturpfad mit Blick auf den Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ziegenwerder",
+            "tip": "Csendes tanösvény kilátással a folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ziegenwerder",
+            "tip": "Traseu natural liniștit cu vedere la râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ziegenwerder",
+            "tip": "Quiet nature path with river views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oderturm",
+            "tip": "Einkaufszentrum im höchsten Gebäude der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oderturm",
+            "tip": "Bevásárlóközpont a város legmagasabb épületében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oderturm",
+            "tip": "Centru comercial în cea mai înaltă clădire din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oderturm",
+            "tip": "Shopping mall in the city's tallest building."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Promenade für einen Spaziergang.",
+          "Achten Sie auf die Infotafeln zur Stadtgeschichte."
+        ],
+        "hu": [
+          "Használja a sétányt egy kellemes sétához.",
+          "Figyelje a várostörténeti információs táblákat."
+        ],
+        "ro": [
+          "Folosiți promenada pentru o plimbare lungă.",
+          "Urmăriți panourile informative despre istoria orașului."
+        ],
+        "en": [
+          "Use the promenade for a pleasant stroll.",
+          "Look out for information boards about city history."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            14.554,
+            52.344
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt für alle Radtouren.",
+            "hu": "Minden kerékpártúra központi indulópontja.",
+            "ro": "Punct de plecare central pentru toate tururile cu bicicleta.",
+            "en": "Central starting point for all bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            14.555,
+            52.343
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Portal vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a bejárat előtt.",
+            "ro": "Suporturi de biciclete disponibile chiar în fața portalului.",
+            "en": "Bike racks available directly in front of the portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzerthalle C.P.E. Bach",
+            "hu": "C.P.E. Bach Koncertterem",
+            "ro": "Sala de concerte C.P.E. Bach",
+            "en": "C.P.E. Bach Concert Hall"
+          },
+          "coords": [
+            14.555,
+            52.346
+          ],
+          "category": "theatre",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ehemalige Franziskaner-Klosterkirche.",
+            "hu": "Egykori ferences kolostortemplom épülete.",
+            "ro": "Fosta biserică a mănăstirii franciscane.",
+            "en": "Former Franciscan monastery church building."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleist-Museum",
+            "hu": "Kleist-múzeum",
+            "ro": "Muzeul Kleist",
+            "en": "Kleist Museum"
+          },
+          "coords": [
+            14.557,
+            52.341
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang des Parks zum Museum.",
+            "hu": "Szép kerékpárút a park mentén a múzeumig.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul parcului până la muzeu.",
+            "en": "Nice bike path along the park to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.556,
+            52.342
+          ],
+          "category": "gastro",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Energieschub für die Weiterfahrt.",
+            "hu": "Energialöket a folytatáshoz.",
+            "ro": "O porție de energie pentru continuarea drumului.",
+            "en": "Energy boost for the rest of the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedensbrücke & Oderradweg",
+            "hu": "Béke-híd és Odera-kerékpárút",
+            "ro": "Podul Păcii și pista Oder",
+            "en": "Bridge of Peace & Oder Bike Path"
+          },
+          "coords": [
+            14.559,
+            52.347
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück auf dem Oder-Neiße-Radweg.",
+            "hu": "Tekerjen egy kicsit az Odera-Neiße kerékpárúton.",
+            "ro": "Mergeți puțin pe pista de biciclete Oder-Neiße.",
+            "en": "Ride a bit on the Oder-Neiße bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Ziegenwerder",
+            "hu": "Ziegenwerder-sziget",
+            "ro": "Insula Ziegenwerder",
+            "en": "Ziegenwerder Island"
+          },
+          "coords": [
+            14.56,
+            52.338
+          ],
+          "category": "garden",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahrradmitnahme auf der Insel ist eingeschränkt, bitte schieben.",
+            "hu": "A szigeten a kerékpározás korlátozott, kérjük tolja.",
+            "ro": "Accesul cu bicicleta pe insulă este restricționat, vă rugăm să o împingeți.",
+            "en": "Cycling on the island is restricted, please push your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Gertraudenkirche",
+            "hu": "Gertrauden-templom",
+            "ro": "Biserica Gertrauden",
+            "en": "Gertrauden Church"
+          },
+          "coords": [
+            14.545,
+            52.34
+          ],
+          "category": "religious",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Abschluss der Tour am Gertraudenpark.",
+            "hu": "A túra szép lezárása a Gertrauden-parknál.",
+            "ro": "Un final frumos al turului lângă Parcul Gertrauden.",
+            "en": "A nice conclusion to the tour at Gertrauden Park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Frankfurt (Oder) und seine Umgebung ideal erkunden. Die Tour verbindet die gotischen Kirchenzentren mit der weitläufigen Oderpromenade. Besonders reizvoll ist die Fahrt entlang des Oder-Neiße-Radwegs, der direkt an der Friedensbrücke vorbeiführt. Ein Abstecher zur Insel Ziegenwerder bietet Natur pur, bevor die Tour an der Gertraudenkirche endet.",
+        "hu": "Kerékpárral Frankfurt (Oder) és környéke ideálisan felfedezhető. A túra összeköti a gótikus templomokat a tágas Odera-sétánnyal. Különösen vonzó az Odera-Neiße kerékpárúton való tekerés, amely közvetlenül a Béke-híd mellett halad el. A Ziegenwerder-szigeti kitérő tiszta természetet kínál, mielőtt a túra a Gertrauden-templomnál véget érne.",
+        "ro": "Cu bicicleta, Frankfurt (Oder) și împrejurimile sale pot fi explorate ideal. Turul leagă centrele bisericilor gotice cu promenada extinsă a Oderului. Deosebit de atractivă este plimbarea de-a lungul pistei de biciclete Oder-Neiße, care trece direct pe lângă Podul Păcii. O abatere spre insula Ziegenwerder oferă natură pură înainte ca turul să se încheie la Biserica Gertrauden.",
+        "en": "By bike, Frankfurt (Oder) and its surroundings can be ideally explored. This tour connects the Gothic church centers with the extensive Oder Promenade. Riding along the Oder-Neiße bike path, which passes directly by the Bridge of Peace, is particularly scenic. A detour to Ziegenwerder Island offers pure nature before the tour ends at Gertrauden Church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kartoffelhaus",
+            "tip": "Rustikale Gerichte, ideal für hungrige Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartoffelhaus",
+            "tip": "Rusztikus ételek, ideális az éhes bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartoffelhaus",
+            "tip": "Preparate rustice, ideale pentru bicicliștii flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartoffelhaus",
+            "tip": "Rustic dishes, ideal for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gertraudenpark",
+            "tip": "Ruhiger Park abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gertrauden-park",
+            "tip": "Csendes park a forgalomtól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Gertrauden",
+            "tip": "Parc liniștit, departe de agitație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gertrauden Park",
+            "tip": "Quiet park away from the hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen am Zentrum",
+            "tip": "Für kleine Reparaturen oder Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi kerékpárbolt",
+            "tip": "Kisebb javításokhoz vagy kiegészítőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete central",
+            "tip": "Pentru mici reparații sau accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Bike Shop",
+            "tip": "For small repairs or accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Oder-Neiße-Radweg für längere Touren.",
+          "In Polen gibt es günstige Verpflegung direkt hinter der Brücke."
+        ],
+        "hu": [
+          "Használja az Odera-Neiße utat hosszabb túrákhoz.",
+          "Lengyelországban olcsóbb étkezési lehetőségek vannak a híd után."
+        ],
+        "ro": [
+          "Utilizați pista Oder-Neiße pentru tururi mai lungi.",
+          "În Polonia există opțiuni de masă ieftine chiar după pod."
+        ],
+        "en": [
+          "Use the Oder-Neiße path for longer tours.",
+          "In Poland, there are cheaper dining options just across the bridge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Cluster A)",
+            "hu": "Piactér",
+            "ro": "Piața de vest",
+            "en": "Market Square"
+          },
+          "coords": [
+            14.554,
+            52.344
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den historischen Kern.",
+            "hu": "Itt parkoljon a történelmi központ megtekintéséhez.",
+            "ro": "Parcați aici pentru centrul istoric.",
+            "en": "Park here for the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            14.555,
+            52.343
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur 2 Minuten zu Fuß vom Parkplatz.",
+            "hu": "Csak 2 perc séta a parkolótól.",
+            "ro": "La doar 2 minute de mers pe jos de parcare.",
+            "en": "Only a 2-minute walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleist-Museum",
+            "hu": "Kleist-múzeum",
+            "ro": "Muzeul Kleist",
+            "en": "Kleist Museum"
+          },
+          "coords": [
+            14.557,
+            52.341
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang durch den Lennépark zum Museum.",
+            "hu": "Séta a Lennéparkon keresztül a múzeumig.",
+            "ro": "Plimbare prin Lennépark către muzeu.",
+            "en": "Walk through Lennépark to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzerthalle (Cluster B)",
+            "hu": "Koncertterem",
+            "ro": "Sala de concerte",
+            "en": "Concert Hall"
+          },
+          "coords": [
+            14.555,
+            52.346
+          ],
+          "category": "theatre",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Halle verfügbar.",
+            "hu": "Parkoló közvetlenül a teremnél elérhető.",
+            "ro": "Parcare disponibilă direct la sală.",
+            "en": "Parking available directly at the hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Oderpromenade",
+            "hu": "Odera-sétány",
+            "ro": "Promenada Oderului",
+            "en": "Oder Promenade"
+          },
+          "coords": [
+            14.558,
+            52.345
+          ],
+          "category": "park",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Konzerthalle erreichbar.",
+            "hu": "Gyalogosan elérhető a Koncertteremtől.",
+            "ro": "Accesibil pe jos de la sala de concerte.",
+            "en": "Accessible on foot from the concert hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.556,
+            52.342
+          ],
+          "category": "gastro",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zahlreiche Restaurants in Flussnähe.",
+            "hu": "Számos étterem a folyó közelében.",
+            "ro": "Numeroase restaurante în apropierea râului.",
+            "en": "Numerous restaurants near the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegenwerder (Cluster C)",
+            "hu": "Ziegenwerder",
+            "ro": "Ziegenwerder",
+            "en": "Ziegenwerder"
+          },
+          "coords": [
+            14.56,
+            52.338
+          ],
+          "category": "garden",
+          "arrive_at": "16:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parkplatz am Stadion nutzen.",
+            "hu": "Használja a stadionnál lévő parkolót.",
+            "ro": "Utilizați parcarea de la stadion.",
+            "en": "Use the parking lot by the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Gertraudenkirche",
+            "hu": "Gertrauden-templom",
+            "ro": "Biserica Gertrauden",
+            "en": "Gertrauden Church"
+          },
+          "coords": [
+            14.545,
+            52.34
+          ],
+          "category": "religious",
+          "arrive_at": "17:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Abschluss der Tour.",
+            "hu": "Rövid autózás a túra végéhez.",
+            "ro": "O scurtă călătorie pentru finalul turului.",
+            "en": "Short drive to conclude the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour ist ideal, um die verschiedenen Stadtteile von Frankfurt (Oder) effizient zu verbinden. Wir starten im Zentrum (Cluster A) mit der Marienkirche und dem Rathaus. Nach einem kurzen Wechsel zum Flussufer (Cluster B) besuchen wir die Konzerthalle und die Promenade. Den Abschluss bildet die Insel Ziegenwerder und die Gertraudenkirche (Cluster C), die etwas abseits liegen.",
+        "hu": "Az autós túra ideális Frankfurt (Oder) különböző városrészeinek hatékony összekapcsolására. A központban (A klaszter) kezdünk a Mária-templommal és a Városházával. Rövid váltás után a folyópartra (B klaszter), meglátogatjuk a Koncerttermet és a sétányt. A napot a Ziegenwerder-sziget és a Gertrauden-templom (C klaszter) zárja, melyek kicsit távolabb esnek.",
+        "ro": "Turul cu mașina este ideal pentru a conecta eficient diferitele cartiere ale orașului Frankfurt (Oder). Începem în centru (Cluster A) cu Biserica Sf. Maria și Primăria. După o scurtă deplasare spre malul râului (Cluster B), vizităm sala de concerte și promenada. Turul se încheie cu insula Ziegenwerder și Biserica Gertrauden (Cluster C), care sunt situate puțin mai departe.",
+        "en": "The car tour is ideal for efficiently connecting the different districts of Frankfurt (Oder). We start in the center (Cluster A) with St. Mary's Church and the Town Hall. After a quick move to the riverside (Cluster B), we visit the concert hall and the promenade. The tour concludes with Ziegenwerder Island and Gertrauden Church (Cluster C), located slightly further away."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Oderturm Restaurant",
+            "tip": "Essen mit Aussicht über die Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oderturm étterem",
+            "tip": "Étkezés kilátással a városra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Oderturm",
+            "tip": "Masă cu vedere asupra orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oderturm Restaurant",
+            "tip": "Dining with a view over the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oderbruch",
+            "tip": "Natur pur nur wenige Fahrminuten entfernt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oderbruch",
+            "tip": "Tiszta természet pár perc autóútra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oderbruch",
+            "tip": "Natură pură la doar câteva minute de mers cu mașina.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oderbruch",
+            "tip": "Pure nature just a few minutes' drive away.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufland am Oderturm",
+            "tip": "Große Auswahl für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufland az Oderturmnál",
+            "tip": "Nagy választék a napi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufland la Oderturm",
+            "tip": "O selecție largă pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufland at Oderturm",
+            "tip": "Wide selection for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser im Zentrum sind meist günstig.",
+          "Nutzen Sie den Grenzübergang nach Słubice zum Tanken."
+        ],
+        "hu": [
+          "A belvárosi parkolóházak többnyire olcsók.",
+          "Használja a lengyel határátkelőt tankoláshoz."
+        ],
+        "ro": [
+          "Parcările etajate din centru sunt de obicei ieftine.",
+          "Folosiți trecerea frontierei spre Słubice pentru alimentare."
+        ],
+        "en": [
+          "Parking garages in the center are usually cheap.",
+          "Use the border crossing to Słubice for cheaper fuel."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus (Linie 1/2)",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            14.554,
+            52.344
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Zentrum'.",
+            "hu": "Központi megálló: 'Zentrum'.",
+            "ro": "Stație centrală 'Zentrum'.",
+            "en": "Central stop 'Zentrum'."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Marien-Kirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            14.555,
+            52.343
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Tramstation.",
+            "hu": "Rövid séta a villamosmegállótól.",
+            "ro": "Scurtă plimbare de la stația de tramvai.",
+            "en": "Short walk from the tram station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleist-Museum",
+            "hu": "Kleist-múzeum",
+            "ro": "Muzeul Kleist",
+            "en": "Kleist Museum"
+          },
+          "coords": [
+            14.557,
+            52.341
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Kulturliebhaber.",
+            "hu": "Kultúrakedvelőknek kötelező látnivaló.",
+            "ro": "O necesitate pentru iubitorii de cultură.",
+            "en": "A must-see for culture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzerthalle",
+            "hu": "Koncertterem",
+            "ro": "Sala de concerte",
+            "en": "Concert Hall"
+          },
+          "coords": [
+            14.555,
+            52.346
+          ],
+          "category": "theatre",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus direkt erreichbar.",
+            "hu": "Busszal közvetlenül elérhető.",
+            "ro": "Accesibil direct cu autobuzul.",
+            "en": "Directly accessible by bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            14.556,
+            52.342
+          ],
+          "category": "gastro",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gute Anbindung an das Zentrum.",
+            "hu": "Jó összeköttetés a központtal.",
+            "ro": "Conexiune bună cu centrul.",
+            "en": "Good connection to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Oderpromenade",
+            "hu": "Odera-sétány",
+            "ro": "Promenada Oderului",
+            "en": "Oder Promenade"
+          },
+          "coords": [
+            14.558,
+            52.345
+          ],
+          "category": "park",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannter Weg am Fluss.",
+            "hu": "Pihentető út a folyó mellett.",
+            "ro": "Drum relaxant pe lângă râu.",
+            "en": "Relaxing path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegenwerder",
+            "hu": "Ziegenwerder",
+            "ro": "Ziegenwerder",
+            "en": "Ziegenwerder"
+          },
+          "coords": [
+            14.56,
+            52.338
+          ],
+          "category": "garden",
+          "arrive_at": "16:45",
+          "stay_min": 95,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Endstation für einen Tag im Grünen.",
+            "hu": "A zöldben töltött nap végállomása.",
+            "ro": "Ultima oprire pentru o zi în mijlocul naturii.",
+            "en": "Final stop for a day in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Bus und Tram lässt sich Frankfurt (Oder) bequem ohne Auto entdecken. Die Straßenbahnlinien 1 und 2 bringen Sie direkt ins historische Zentrum. Von dort aus erreichen wir kulturelle Highlights wie das Kleist-Museum und die Marienkirche. Der Nachmittag wird mit einer Busfahrt zur Konzerthalle und einem anschließenden Spaziergang an der Oder abgerundet.",
+        "hu": "Busszal és villamossal Frankfurt (Oder) kényelmesen, autó nélkül is felfedezhető. Az 1-es és 2-es villamosvonalak közvetlenül a történelmi központba visznek. Onnan elérjük a kulturális látnivalókat, mint a Kleist-múzeum és a Mária-templom. A délutánt egy buszos utazás a Koncertteremhez, majd egy folyóparti séta teszi teljessé.",
+        "ro": "Cu autobuzul și tramvaiul, Frankfurt (Oder) poate fi descoperit confortabil fără mașină. Liniile de tramvai 1 și 2 vă duc direct în centrul istoric. De acolo ajungem la repere culturale precum Muzeul Kleist și Biserica Sf. Maria. După-amiaza este completată de o călătorie cu autobuzul către sala de concerte și o plimbare ulterioară pe malul râului Oder.",
+        "en": "With bus and tram, Frankfurt (Oder) can be conveniently discovered without a car. Tram lines 1 and 2 take you directly to the historic center. From there, we reach cultural highlights like the Kleist Museum and St. Mary's Church. The afternoon is rounded off with a bus trip to the concert hall and a subsequent stroll along the Oder."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Zentrum",
+            "tip": "Schneller Snack für Zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvárosi pékség",
+            "tip": "Gyors snack a kettő között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie centrală",
+            "tip": "O gustare rapidă între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center Bakery",
+            "tip": "Quick snack between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Mit der Tram gut erreichbare Oase.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Villamossal jól megközelíthető oázis.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Oază ușor accesibilă cu tramvaiul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Oasis easily accessible by tram.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lenné-Passagen",
+            "tip": "Einkaufszentrum direkt an der Tramhaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lenné-Passagen",
+            "tip": "Bevásárlóközpont közvetlenül a villamosmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lenné-Passagen",
+            "tip": "Centru comercial chiar lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lenné-Passagen",
+            "tip": "Shopping center right at the tram stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lösen Sie eine Tageskarte für das Stadtgebiet.",
+          "Die Tram fährt im 10-Minuten-Takt."
+        ],
+        "hu": [
+          "Váltson napijegyet a városi területre.",
+          "A villamos 10 percenként közlekedik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru zona urbană.",
+          "Tramvaiul circulă la fiecare 10 minute."
+        ],
+        "en": [
+          "Buy a day ticket for the city area.",
+          "The tram runs every 10 minutes."
+        ]
+      }
+    }
+  }
+}

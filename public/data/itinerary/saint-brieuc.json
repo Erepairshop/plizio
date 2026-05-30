@@ -1,0 +1,994 @@
+{
+  "city_id": "saint-brieuc",
+  "anchor": {
+    "name": "Saint-Brieuc Center",
+    "coords": [
+      -2.76,
+      48.5142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cathédrale Saint-Étienne",
+          "coords": [
+            -2.7635,
+            48.5135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die festungsartige Architektur dieser Kathedrale.",
+            "hu": "Csodáld meg a székesegyház erődtemplomra emlékeztető tömör falait.",
+            "ro": "Admirați arhitectura defensivă unică a acestei catedrale-fortărețe.",
+            "en": "Admire the fortress-like architecture of this unique cathedral."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Histoire",
+          "coords": [
+            -2.7612,
+            48.5115
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bretonische Webtradition und lokale Kunst.",
+            "hu": "Fedezd fel a breton szövőhagyományokat és a helyi művészetet.",
+            "ro": "Descoperiți tradițiile textile bretone și arta locală.",
+            "en": "Explore Breton weaving traditions and local history exhibits."
+          }
+        },
+        {
+          "name": "Vieille Ville (Lunch)",
+          "coords": [
+            -2.762,
+            48.5125
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Galette-Saucisse in der Rue Saint-Guillaume.",
+            "hu": "Kóstolj meg egy kolbászos galette-et a középkori utcákban.",
+            "ro": "Gustați o galette-saucisse pe străzile medievale ale orașului.",
+            "en": "Try a traditional galette-saucisse in the medieval streets."
+          }
+        },
+        {
+          "name": "Église Saint-Michel",
+          "coords": [
+            -2.758,
+            48.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine elegante Kirche aus dem 19. Jahrhundert im neoklassizistischen Stil.",
+            "hu": "Elegáns, 19. századi neoklasszicista templom a város szívében.",
+            "ro": "O biserică neoclasică elegantă din secolul al XIX-lea.",
+            "en": "An elegant 19th-century neoclassical church in the heart of town."
+          }
+        },
+        {
+          "name": "Viaduc de Toupin",
+          "coords": [
+            -2.753,
+            48.512
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über das Gouët-Tal von dieser Brücke.",
+            "hu": "Élvezd a kilátást a Gouët-völgyre erről a történelmi hídról.",
+            "ro": "Bucurați-vă de panorama asupra văii Gouët de pe acest viaduct.",
+            "en": "Enjoy the panoramic views over the Gouët valley from this bridge."
+          }
+        },
+        {
+          "name": "Port de Légué",
+          "coords": [
+            -2.74,
+            48.521
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie am Kai entlang und bewundern Sie die Schiffe.",
+            "hu": "Sétálj a rakparton és csodáld meg a felújított hajókat.",
+            "ro": "Plimbați-vă pe chei și admirați ambarcațiunile restaurate.",
+            "en": "Stroll along the quays and admire the beautifully restored boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die befestigte Kathedrale und das Museum im historischen Zentrum. Mittags genießen Sie bretonische Spezialitäten in den Gassen. Nachmittags spazieren Sie über den Viadukt von Toupin, bevor Sie den Abstieg zum malerischen Hafen von Légué wagen, wo der Tag gemütlich am Wasser ausklingt.",
+        "hu": "Reggel a történelmi központ erődített székesegyházát és múzeumát fedezzük fel. Ebédre jöhet egy igazi breton palacsinta. Délután a Toupin-viadukton sétálva élvezzük a kilátást, majd leereszkedünk a festői Légué kikötőbe, ahol a napot a vízparti teraszok egyikén zárjuk.",
+        "ro": "Dimineața vizităm catedrala fortificată și muzeul din centrul istoric. La prânz, savurăm specialități bretone pe străzile medievale. După-amiaza traversăm viaductul Toupin pentru panorame superbe, apoi coborâm spre portul Légué, locul perfect pentru o seară relaxantă la malul apei.",
+        "en": "Morning starts with the fortified cathedral and history museum in the old center. After a local lunch, walk across the Toupin Viaduct for valley views. Finish your day at the Port de Légué, a vibrant maritime district with beautifully restored quays and welcoming cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Galette-Saucisse",
+            "tip": "Der klassische bretonische Snack auf dem Markt."
+          },
+          {
+            "name": "Cidre Bouché",
+            "tip": "Frischer lokaler Apfelwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galette-Saucisse",
+            "tip": "Klasszikus breton hajdinalepény kolbásszal."
+          },
+          {
+            "name": "Jakab-kagyló",
+            "tip": "A város híres specialitása, frissen a tengerből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galette-Saucisse",
+            "tip": "Gustarea tradițională bretonă, perfectă pentru plimbare."
+          },
+          {
+            "name": "Cidru local",
+            "tip": "Băutura emblematică a Bretaniei, servită în boluri de ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galette-Saucisse",
+            "tip": "A staple Breton street food found at local markets."
+          },
+          {
+            "name": "Saint-Brieuc Scallops",
+            "tip": "The town's famous seafood specialty, harvested locally."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Buchten von Légué",
+            "tip": "Ruhiger Ort am Hafen bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Légué kikötő",
+            "tip": "Csendes esti séta a vitorlások között.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Gouët",
+            "tip": "Refugiu verde sub viaductul orașului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gouët Valley Paths",
+            "tip": "Peaceful trails leading away from the urban bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles Georges Brassens",
+            "tip": "Traditionelle Markthalle für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Saint-Guillaume",
+            "tip": "Kézműves boltok a középkori házak aljában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Locul ideal pentru suveniruri gastronomice bretone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Hall",
+            "tip": "The best place to buy local honey and salted caramel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Der Markt am Mittwoch- und Samstagmorgen ist ein Muss.",
+          "Der Abstieg zum Hafen ist steil, planen Sie Zeit ein."
+        ],
+        "hu": [
+          "A város dombos, készülj kényelmes sétálócipővel.",
+          "A szerdai és szombati piac a legjobb hely a helyi ízekhez.",
+          "A kikötőbe vezető út meredek, de nagyon látványos."
+        ],
+        "ro": [
+          "Orașul are multe pante, purtați încălțăminte comodă.",
+          "Nu ratați piața de miercuri și sâmbătă dimineața.",
+          "Drumul spre port este abrupt, dar oferă perspective frumoase."
+        ],
+        "en": [
+          "The town layout is quite hilly, so wear comfortable walking shoes.",
+          "Visit the local market on Wednesday or Saturday for fresh produce.",
+          "The walk down to the harbor is steep but very scenic."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Cathédrale Saint-Étienne",
+          "coords": [
+            -2.7635,
+            48.5135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour im Herzen des historischen Viertels.",
+            "hu": "Kezezd a túrát a történelmi negyed szívében.",
+            "ro": "Începeți turul în inima cartierului istoric.",
+            "en": "Start your cycling tour in the heart of the historic quarter."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Histoire",
+          "coords": [
+            -2.7612,
+            48.5115
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Kunst und Kultur.",
+            "hu": "Gyors kulturális kitérő a múzeumban.",
+            "ro": "O scurtă oprire pentru artă și cultură.",
+            "en": "A quick cultural detour at the history museum."
+          }
+        },
+        {
+          "name": "Villa Rohannec'h",
+          "coords": [
+            -2.742,
+            48.522
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein prächtiges Anwesen mit Blick auf den Hafen.",
+            "hu": "Pazar villaépület kilátással a kikötőre.",
+            "ro": "O vilă magnifică cu vedere spre port.",
+            "en": "A magnificent villa overlooking the harbor entrance."
+          }
+        },
+        {
+          "name": "Port de Légué (Lunch)",
+          "coords": [
+            -2.74,
+            48.521
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Mittagspause am Wasser.",
+            "hu": "Tökéletes hely egy vízparti ebédhez.",
+            "ro": "Locul perfect pentru un prânz la malul apei.",
+            "en": "The ideal spot for a lunch break by the water."
+          }
+        },
+        {
+          "name": "Tour de Cesson",
+          "coords": [
+            -2.723,
+            48.525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Überreste eines mittelalterlichen Turms an der Küste.",
+            "hu": "Egy középkori torony maradványai a tengerparton.",
+            "ro": "Vestigiile unui turn medieval pe coasta mării.",
+            "en": "The ruins of a medieval tower guarding the bay."
+          }
+        },
+        {
+          "name": "Viaduc de Toupin",
+          "coords": [
+            -2.753,
+            48.512
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Viadukt auf dem Rückweg ins Zentrum.",
+            "hu": "Tekerj át a viadukton visszafelé a központba.",
+            "ro": "Traversați viaductul la întoarcerea spre centru.",
+            "en": "Ride across the viaduct on your way back to center."
+          }
+        },
+        {
+          "name": "Église Saint-Michel",
+          "coords": [
+            -2.758,
+            48.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Stopp vor Tourende.",
+            "hu": "Utolsó kulturális megálló a túra végén.",
+            "ro": "O ultimă oprire culturală înainte de final.",
+            "en": "One last cultural stop before finishing your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad überwinden Sie die Höhenunterschiede der Stadt spielend. Nach dem historischen Zentrum fahren Sie zur prachtvollen Villa Rohannec'h und weiter zum Hafen. Ein Highlight ist die Fahrt zur Tour de Cesson mit Panoramablick über die Bucht, bevor Sie über den Toupin-Viadukt zurückkehren.",
+        "hu": "Kerékpárral könnyen leküzdhetők a város szintkülönbségei. A központ után a Rohannec'h villa és a kikötő következik. A túra fénypontja a Cesson-torony a tengerparti panorámával, majd a Toupin-viadukton keresztül tekerünk vissza a felsővárosba.",
+        "ro": "Cu bicicleta, veți depăși ușor diferențele de nivel ale orașului. După centrul istoric, pedalați spre vila Rohannec'h și port. Punctul culminant este Turnul Cesson cu panorama sa asupra golfului, urmat de o întoarcere spectaculoasă peste viaductul Toupin.",
+        "en": "Cycling is the perfect way to bridge the gap between the upper town and the maritime districts. Visit the grand Villa Rohannec'h, enjoy the lively port atmosphere, and ride out to the historic Cesson Tower for sweeping bay views before returning via the iconic viaducts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie am Hafen",
+            "tip": "Süße Crêpes mit hausgemachtem Karamell."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői palacsintázó",
+            "tip": "Édes palacsinta sós karamellel, a bringások kedvence."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Clătite dulci cu caramel cu unt sărat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Crêperie",
+            "tip": "Sweet crêpes with homemade salted caramel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park der Villa Rohannec'h",
+            "tip": "Ruhige Gärten mit Blick auf das Meer.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rohannec'h park",
+            "tip": "Csendes kert kilátással az öbölre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Rohannec'h",
+            "tip": "Grădini liniștite deasupra portului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Rohannec'h Gardens",
+            "tip": "Peaceful terraced gardens overlooking the bay.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bretonische Streifenshirts",
+            "tip": "Klassische Mode in den Läden der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Breton csíkos pólók",
+            "tip": "Autentikus tengerész stílus a helyi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Căutați conserve de sardine artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Breton Stripes",
+            "tip": "Classic nautical fashion in city boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie ein E-Bike für die steilen Anstiege vom Hafen.",
+          "Die Küstenwege sind gut für Radfahrer ausgebaut.",
+          "Achten Sie auf Fußgänger in den engen Gassen der Altstadt."
+        ],
+        "hu": [
+          "Érdemes elektromos bringát bérelni a kikötői emelkedőkhöz.",
+          "A part menti utak jól kiépítettek a kerékpárosoknak.",
+          "Vigyázz a gyalogosokra az óváros szűk utcáin."
+        ],
+        "ro": [
+          "Recomandăm o bicicletă electrică pentru dealurile orașului.",
+          "Pistele de-a lungul coastei sunt bine întreținute.",
+          "Atenție la pietoni în zonele medievale înguste."
+        ],
+        "en": [
+          "An e-bike is highly recommended due to the steep terrain.",
+          "Coastal paths offer smooth riding with great views.",
+          "Be mindful of pedestrians in the narrow old town streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 28.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cathédrale Saint-Étienne",
+          "coords": [
+            -2.7635,
+            48.5135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Poulain-Corbion'.",
+            "hu": "Parkolj a Poulain-Corbion garázsban, közel a központhoz.",
+            "ro": "Parcați în garajul Poulain-Corbion pentru acces facil.",
+            "en": "Park at the Poulain-Corbion garage for easy city access."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Histoire",
+          "coords": [
+            -2.7612,
+            48.5115
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
+            "hu": "Rövid séta a parkolótól a múzeumig.",
+            "ro": "O scurtă plimbare de la parcare la muzeu.",
+            "en": "A short walk from the parking area to the museum."
+          }
+        },
+        {
+          "name": "Église Saint-Michel",
+          "coords": [
+            -2.758,
+            48.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Teil des Altstadt-Clusters, zu Fuß erreichbar.",
+            "hu": "Az óvárosi séta része, gyalogosan elérhető.",
+            "ro": "Parte din grupul central, accesibil pe jos.",
+            "en": "Part of the central cluster, easily reached on foot."
+          }
+        },
+        {
+          "name": "Les Chaos du Gouët",
+          "coords": [
+            -2.83,
+            48.498
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein magischer Ort mit riesigen Granitblöcken im Fluss.",
+            "hu": "Mágikus hely hatalmas gránitsziklákkal a folyóban.",
+            "ro": "Un loc magic cu blocuri gigantice de granit în râu.",
+            "en": "A magical natural site with massive granite boulders in the river."
+          }
+        },
+        {
+          "name": "Port de Légué (Lunch)",
+          "coords": [
+            -2.74,
+            48.521
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Genießen Sie frische Meeresfrüchte am Kai.",
+            "hu": "Élvezd a friss tengeri herkentyűket a parton.",
+            "ro": "Savurați fructe de mare proaspete la malul apei.",
+            "en": "Enjoy fresh seafood by the bustling quayside."
+          }
+        },
+        {
+          "name": "Villa Rohannec'h",
+          "coords": [
+            -2.742,
+            48.522
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Hafen aus zu Fuß in 10 Minuten erreichbar.",
+            "hu": "A kikötőtől gyalog 10 perc alatt elérhető.",
+            "ro": "Accesibil în 10 minute de mers pe jos din port.",
+            "en": "Reach the villa in a 10-minute walk from the port."
+          }
+        },
+        {
+          "name": "Tour de Cesson",
+          "coords": [
+            -2.723,
+            48.525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Fuße des Turms vorhanden.",
+            "hu": "Parkoló közvetlenül a torony lábánál.",
+            "ro": "Parcare disponibilă chiar la baza turnului.",
+            "en": "Parking is available right at the base of the tower."
+          }
+        },
+        {
+          "name": "Viaduc de Toupin",
+          "coords": [
+            -2.753,
+            48.512
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fotostopp auf dem Rückweg zum Hotel.",
+            "hu": "Gyors fotómegálló visszafelé menet.",
+            "ro": "Oprire foto la întoarcerea spre hotel.",
+            "en": "Quick photo stop on your way back from the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie sowohl das Herz von Saint-Brieuc als auch seine wilde Umgebung. Vormittags besuchen Sie den historischen Stadtkern. Ein Ausflug führt Sie zu den faszinierenden 'Chaos du Gouët', bevor Sie im Hafen von Légué zu Mittag essen. Der Nachmittag gehört der Küstenlandschaft mit der Villa Rohannec'h und der Tour de Cesson.",
+        "hu": "Autóval Saint-Brieuc szívét és vadregényes környékét is felfedezhetjük. Délelőtt a központ látnivalói után kirándulást teszünk a lenyűgöző Chaos du Gouët szikláihoz. Ebéd a Légué kikötőben, majd délután a tengerparti Rohannec'h villa és a Cesson-torony zárja a programot.",
+        "ro": "Cu mașina, explorați atât inima orașului Saint-Brieuc, cât și împrejurimile sale sălbatice. Dimineața vizităm centrul istoric, urmat de o excursie la fascinantele 'Chaos du Gouët'. Prânzul în portul Légué precede o după-amiază pe coastă, vizitând vila Rohannec'h și turnul Cesson.",
+        "en": "The car allows you to combine urban highlights with wilder natural sites. Start in the historic center, then drive out to the mystical Chaos du Gouët boulders. Enjoy lunch at the port, and spend your afternoon visiting the coastal landmarks of Rohannec'h and the ruins of Cesson Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Amiraute",
+            "tip": "Gehobene Küche am Hafen von Légué."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Amiraute",
+            "tip": "Kiváló étterem a kikötőben, friss halakkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Amiraute",
+            "tip": "Bucătărie rafinată cu vedere la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Amiraute",
+            "tip": "Fine dining at the Port de Légué with fresh catch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chaos du Gouët",
+            "tip": "Meditativer Spaziergang am Fluss zwischen Moos und Steinen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chaos du Gouët",
+            "tip": "Meditatív séta a mohás sziklák és a zúgó folyó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chaos du Gouët",
+            "tip": "Plimbare meditativă printre stânci de granit și mușchi.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chaos du Gouët",
+            "tip": "A peaceful walk among mossy boulders and the rushing river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Huitres (Austern)",
+            "tip": "Kaufen Sie frische Austern direkt bei den Erzeugern in der Bucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osztriga",
+            "tip": "Vegyél friss osztrigát közvetlenül a termelőktől az öbölnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii",
+            "tip": "Cumpărați stridii proaspete direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Oysters",
+            "tip": "Buy fresh oysters directly from producers in the bay area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Plätze, wenn das Zentrum voll ist.",
+          "Die Straße zu den Chaos du Gouët ist schmal, fahren Sie vorsichtig.",
+          "Parken am Hafen von Légué ist oft einfacher als im Stadtzentrum."
+        ],
+        "hu": [
+          "Használd a P+R parkolókat, ha a központ zsúfolt.",
+          "A Chaos du Gouët felé vezető út keskeny, vezess óvatosan.",
+          "A kikötőben gyakran könnyebb parkolni, mint a felsővárosban."
+        ],
+        "ro": [
+          "Folosiți parcările P+R dacă centrul este aglomerat.",
+          "Drumul spre Chaos du Gouët este îngust, conduceți cu atenție.",
+          "Parcarea în portul Légué este adesea mai ușoară decât în centru."
+        ],
+        "en": [
+          "Use Park & Ride lots if the city center is crowded.",
+          "The road to Chaos du Gouët is narrow, so drive carefully.",
+          "Parking at Port de Légué is often easier than in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cathédrale Saint-Étienne",
+          "coords": [
+            -2.7635,
+            48.5135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Combat des Trente' nutzen.",
+            "hu": "Használd a 'Combat des Trente' központi buszmegállót.",
+            "ro": "Folosiți stația centrală 'Combat des Trente'.",
+            "en": "Use the central 'Combat des Trente' bus stop."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Histoire",
+          "coords": [
+            -2.7612,
+            48.5115
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg im Zentrum-Cluster.",
+            "hu": "Rövid séta a központi zónán belül.",
+            "ro": "O scurtă plimbare în cadrul grupului central.",
+            "en": "Short walk within the central city cluster."
+          }
+        },
+        {
+          "name": "Port de Légué (Lunch)",
+          "coords": [
+            -2.74,
+            48.521
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Buslinie A verbindet das Zentrum mit dem Hafen.",
+            "hu": "Az 'A' jelű busz köti össze a központot a kikötővel.",
+            "ro": "Linia A de autobuz leagă centrul de port.",
+            "en": "Bus line A connects the city center with the port."
+          }
+        },
+        {
+          "name": "Villa Rohannec'h",
+          "coords": [
+            -2.742,
+            48.522
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Hafen aus zu Fuß erreichbar.",
+            "hu": "Gyalogosan könnyen elérhető a kikötőtől.",
+            "ro": "Accesibil pe jos din zona portului.",
+            "en": "Easily accessible on foot from the port area."
+          }
+        },
+        {
+          "name": "Viaduc de Toupin",
+          "coords": [
+            -2.753,
+            48.512
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bus zurück Richtung Zentrum nehmen.",
+            "hu": "Szállj buszra visszafelé a központ irányába.",
+            "ro": "Luați autobuzul înapoi spre centru.",
+            "en": "Take the bus back towards the city center."
+          }
+        },
+        {
+          "name": "Église Saint-Michel",
+          "coords": [
+            -2.758,
+            48.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Letzter Stopp im Zentrum vor der Abreise.",
+            "hu": "Utolsó megálló a központban hazaindulás előtt.",
+            "ro": "Ultima oprire în centru înainte de plecare.",
+            "en": "Final stop in the center before your departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des TUB-Busnetzes erkunden Sie Saint-Brieuc entspannt. Das Zentrum mit Kathedrale und Museum bildet den ersten Block. Mit der Linie A gelangen Sie schnell zum Hafen von Légué für ein Mittagessen am Wasser und einen Besuch der Villa Rohannec'h, bevor Sie für den Ausklang zurück ins Zentrum fahren.",
+        "hu": "A TUB buszhálózat segítségével kényelmesen bejárható a város. A központ látnivalói után az A vonal gyorsan levisz a Légué kikötőbe, ahol a Rohannec'h villa és a vízparti éttermek várnak. A napot végül a felsőváros neoklasszicista templománál zárjuk.",
+        "ro": "Rețeaua de autobuze TUB facilitează explorarea orașului. Începem cu centrul istoric, apoi linia A ne duce rapid în portul Légué pentru prânz și o vizită la vila Rohannec'h. Încheiem ziua cu o plimbare peste viaductul Toupin și o vizită la biserica Saint-Michel.",
+        "en": "Saint-Brieuc's TUB bus network makes it easy to hop between the upper town and the port. Start with the historic sights, then take the frequent shuttle down to Port de Légué. Enjoy the maritime atmosphere and the Rohannec'h estate before returning to the center for a final sunset view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ty Mad",
+            "tip": "Authentische Crêperie in der Nähe des Museums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ty Mad",
+            "tip": "Autentikus palacsintázó a múzeum közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ty Mad",
+            "tip": "Crêperie autentică lângă muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ty Mad",
+            "tip": "Authentic crêperie located near the museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Préfecture",
+            "tip": "Kleiner Park im Zentrum für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prefektúra park",
+            "tip": "Kis városi park egy pihenőhöz a központban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Préfecture",
+            "tip": "Un mic parc central pentru o pauză liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prefecture Square",
+            "tip": "A small central park ideal for a quick rest.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulangerie-Spezialitäten",
+            "tip": "Kouign-Amann in einer lokalen Bäckerei kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksütemények",
+            "tip": "Kóstold meg a Kouign-Amann süteményt egy helyi péknél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de patiserie",
+            "tip": "Încercați Kouign-Amann la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Don't leave without trying a buttery Kouign-Amann."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Busfahrer.",
+          "Die Linie A ist die wichtigste Verbindung zum Hafen.",
+          "Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan."
+        ],
+        "hu": [
+          "Vegyél napijegyet közvetlenül a buszsofőrnél.",
+          "Az A buszvonal a legfontosabb összeköttetés a kikötőhöz.",
+          "Hétvégén ritkábban járnak a buszok, nézd meg a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer.",
+          "Linia A este principala legătură cu zona portului.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul."
+        ],
+        "en": [
+          "Buy a day pass directly from the bus driver for convenience.",
+          "Line A is your primary link between center and port.",
+          "Buses run less frequently on weekends, so check the schedule."
+        ]
+      }
+    }
+  }
+}

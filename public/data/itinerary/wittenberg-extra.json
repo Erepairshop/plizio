@@ -1,0 +1,1182 @@
+{
+  "city_id": "wittenberg-extra",
+  "anchor": {
+    "name": "Lutherstadt Wittenberg",
+    "coords": [
+      12.636,
+      51.8736
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            12.6435,
+            51.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statuen von Luther und Melanchthon.",
+            "hu": "Nézze meg Luther és Melanchthon szobrait.",
+            "ro": "Admirați statuile lui Luther și Melanchthon.",
+            "en": "Admire the statues of Luther and Melanchthon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cranach-Höfe",
+            "hu": "Cranach-udvarok",
+            "ro": "Curțile Cranach",
+            "en": "Cranach Yards"
+          },
+          "coords": [
+            12.643,
+            51.8673
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Druckerei im Hof.",
+            "hu": "Látogassa meg a történelmi nyomdát az udvarban.",
+            "ro": "Vizitați tipografia istorică din curte.",
+            "en": "Visit the historical printing shop in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Marien",
+            "hu": "Szent Mária városi templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Town Church"
+          },
+          "coords": [
+            12.6448,
+            51.8666
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Cranach-Altar ist ein Meisterwerk der Reformation.",
+            "hu": "A Cranach-oltár a reformáció mesterműve.",
+            "ro": "Altarul Cranach este o capodoperă a Reformei.",
+            "en": "The Cranach altar is a masterpiece of the Reformation."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche",
+            "hu": "Vártemplom",
+            "ro": "Biserica Castelului",
+            "en": "Castle Church"
+          },
+          "coords": [
+            12.6391,
+            51.8664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Thesentür, an der Luther seine 95 Thesen anschlug.",
+            "hu": "A vártemplom kapuja, ahová Luther kiszegezte téziseit.",
+            "ro": "Ușa pe care Luther și-a afișat cele 95 de teze.",
+            "en": "The door where Luther posted his 95 theses."
+          }
+        },
+        {
+          "name": {
+            "de": "Melanchthonhaus",
+            "hu": "Melanchthon-ház",
+            "ro": "Casa Melanchthon",
+            "en": "Melanchthon House"
+          },
+          "coords": [
+            12.6488,
+            51.8647
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Renaissance-Juwel mit einem schönen Garten.",
+            "hu": "Reneszánsz ékszerdoboz gyönyörű kerttel.",
+            "ro": "O bijuterie renascentistă cu o grădină superbă.",
+            "en": "A Renaissance gem with a beautiful garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherhaus",
+            "hu": "Luther-ház",
+            "ro": "Casa lui Luther",
+            "en": "Luther House"
+          },
+          "coords": [
+            12.65,
+            51.8639
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das größte reformationsgeschichtliche Museum der Welt.",
+            "hu": "A világ legnagyobb reformációtörténeti múzeuma.",
+            "ro": "Cel mai mare muzeu al Reformei din lume.",
+            "en": "The world's largest museum of Reformation history."
+          }
+        },
+        {
+          "name": {
+            "de": "Leucorea",
+            "hu": "Leucorea Egyetem",
+            "ro": "Universitatea Leucorea",
+            "en": "Leucorea University"
+          },
+          "coords": [
+            12.6476,
+            51.8653
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der historische Campus der alten Universität.",
+            "hu": "A régi egyetem történelmi kampusza.",
+            "ro": "Campusul istoric al vechii universități.",
+            "en": "The historic campus of the old university."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt am Marktplatz, umgeben von prachtvollen Bürgerhäusern. Wandeln Sie auf den Spuren der Reformatoren durch die Cranach-Höfe zur Stadtkirche. Der Mittag gehört der berühmten Schlosskirche, bevor Sie am Nachmittag die Wohnhäuser von Melanchthon und Luther im Osten der Stadt erkunden. Ein ruhiger Ausklang an der Leucorea rundet das geschichtsträchtige Erlebnis ab.",
+        "hu": "Kezdje a napot az óváros szívében, a Piactéren, ahol a reformátorok szobrai állnak. A Cranach-udvarok érintésével haladjon a Városi templom felé, majd csodálja meg a Vártemplom híres kapuját. Délután látogasson el Melanchthon és Luther egykori lakóházaiba, amelyek ma lenyűgöző múzeumok. A túrát a történelmi egyetemi negyedben, a Leucorea udvarán fejezheti be.",
+        "ro": "Începeți ziua în inima centrului vechi, la Marktplatz, înconjurat de clădiri istorice superbe. Mergeți pe urmele reformatorilor prin Curțile Cranach către Biserica Orașului. Prânzul este dedicat celebrei Schlosskirche, înainte de a explora după-amiaza casele memoriale ale lui Melanchthon și Luther. O plimbare liniștită prin campusul Leucorea încheie această experiență bogată în istorie.",
+        "en": "Start your day in the heart of the old town at the Market Square, surrounded by grand townhouses. Walk in the footsteps of the Reformers through the Cranach Yards to the Town Church. Midday is reserved for the famous Castle Church, before spending the afternoon exploring the homes of Melanchthon and Luther. A quiet conclusion at the Leucorea campus completes the historical journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wittenberger Speckkuchen",
+            "tip": "Probieren Sie diese herzhafte Spezialität in der Bäckerei am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wittenberger Speckkuchen",
+            "tip": "Kóstolja meg ezt a sós szalonnás lepényt a főtéri pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wittenberger Speckkuchen",
+            "tip": "Gustați această plăcintă sărată cu slănină la brutăria din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wittenberger Speckkuchen",
+            "tip": "Try this savory bacon cake at the bakery on the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Luthergarten",
+            "tip": "Ein Ort der Ruhe mit Bäumen aus aller Welt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luther-kert",
+            "tip": "Csendes pihenőhely a világ minden tájáról származó fákkal.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Luther",
+            "tip": "Un loc de liniște cu arbori din întreaga lume.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Luther Garden",
+            "tip": "A peaceful spot with trees from all over the world.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wittenberger Schokoladen",
+            "tip": "Feine Pralinen und Reformations-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wittenbergi Csokoládébolt",
+            "tip": "Kiváló pralinék és reformációs emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolaterie Wittenberg",
+            "tip": "Praline fine și suveniruri tematice despre Reformă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wittenberg Chocolates",
+            "tip": "Fine pralines and Reformation-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist klein und lässt sich wunderbar zu Fuß erkunden.",
+          "Ein Kombi-Ticket für die Museen spart Geld.",
+          "Achten Sie auf die 'Luther-Pflastersteine' im Boden."
+        ],
+        "hu": [
+          "Az óváros kicsi, minden könnyen elérhető gyalog.",
+          "A múzeumi kombinált jegy jelentős megtakarítást jelent.",
+          "Figyelje a 'Luther-köveket' a járdán."
+        ],
+        "ro": [
+          "Centrul vechi este mic și poate fi explorat ușor la pas.",
+          "Un bilet combinat pentru muzee vă ajută să economisiți.",
+          "Căutați 'pietrele Luther' integrate în pavaj."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "A combined ticket for museums offers great value.",
+          "Look for the 'Luther cobblestones' in the pavement."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            12.6435,
+            51.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrradständer sind direkt am Rathaus vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a városháza mellett.",
+            "ro": "Suporturi de biciclete direct lângă primărie.",
+            "en": "Bike racks are available right next to the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cranach-Höfe",
+            "hu": "Cranach-udvarok",
+            "ro": "Curțile Cranach",
+            "en": "Cranach Yards"
+          },
+          "coords": [
+            12.643,
+            51.8673
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Im Hof lässt es sich gut pausieren.",
+            "hu": "Az udvar kiváló pihenőhely.",
+            "ro": "Curtea este un loc excelent pentru o pauză.",
+            "en": "The courtyard is a great place for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche",
+            "hu": "Vártemplom",
+            "ro": "Biserica Castelului",
+            "en": "Castle Church"
+          },
+          "coords": [
+            12.6391,
+            51.8664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der Schlossturm bietet einen tollen Rundblick.",
+            "hu": "A vártoronyból remek körpanoráma nyílik.",
+            "ro": "Turnul castelului oferă o panoramă circulară excelentă.",
+            "en": "The castle tower offers a great circular view."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundertwasserschule",
+            "hu": "Hundertwasser-iskola",
+            "ro": "Școala Hundertwasser",
+            "en": "Hundertwasser School"
+          },
+          "coords": [
+            12.6455,
+            51.8598
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein bunter Kontrast zur Backsteingotik.",
+            "hu": "Színes kontraszt a tégla-gótikával szemben.",
+            "ro": "Un contrast colorat față de goticul din cărămidă.",
+            "en": "A colorful contrast to the Brick Gothic style."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherhaus",
+            "hu": "Luther-ház",
+            "ro": "Casa lui Luther",
+            "en": "Luther House"
+          },
+          "coords": [
+            12.65,
+            51.8639
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das größte Luther-Museum weltweit.",
+            "hu": "A világ legnagyobb Luther-múzeuma.",
+            "ro": "Cel mai mare muzeu Luther din lume.",
+            "en": "The largest Luther museum in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Melanchthonhaus",
+            "hu": "Melanchthon-ház",
+            "ro": "Casa Melanchthon",
+            "en": "Melanchthon House"
+          },
+          "coords": [
+            12.6488,
+            51.8647
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den liebevoll gepflegten Garten.",
+            "hu": "Tekintse meg a gondosan ápolt kertet.",
+            "ro": "Vizitați grădina îngrijită cu dragoste.",
+            "en": "Visit the lovingly maintained garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Leucorea",
+            "hu": "Leucorea Egyetem",
+            "ro": "Universitatea Leucorea",
+            "en": "Leucorea University"
+          },
+          "coords": [
+            12.6476,
+            51.8653
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Innenhof für eine kurze Rast.",
+            "hu": "Csendes belső udvar egy rövid pihenőhöz.",
+            "ro": "Curte interioară liniștită pentru un scurt popas.",
+            "en": "Quiet courtyard for a short rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Marien",
+            "hu": "Szent Mária városi templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Town Church"
+          },
+          "coords": [
+            12.6448,
+            51.8666
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó állomás az indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Last stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie Wittenberg effizient und sehen auch die architektonisch einzigartige Hundertwasserschule. Von der Altstadt radeln Sie durch grüne Parkanlagen zu den Luther-Gedenkstätten. Die ebenen Wege entlang der Elbe bieten sich für eine entspannte Fahrt zwischen den historischen Highlights an.",
+        "hu": "Kerékpárral hatékonyan fedezheti fel Wittenberget, beleértve az egyedülálló Hundertwasser-iskolát is. Az óvárostól zöld parkokon át tekerhet a Luther-emlékhelyekig. Az Elba menti sík utak ideálisak egy pihentető biciklizéshez a történelmi látnivalók között.",
+        "ro": "Cu bicicleta explorați Wittenberg eficient și vedeți inclusiv școala Hundertwasser, unică din punct de vedere arhitectural. Din centrul vechi pedalați prin parcuri verzi către locurile memoriale Luther. Drumurile plate de-a lungul Elbei sunt perfecte pentru o plimbare relaxată printre atracțiile istorice.",
+        "en": "By bike, you can efficiently explore Wittenberg, including the architecturally unique Hundertwasser School. From the old town, cycle through green parks to the Luther memorial sites. The flat paths along the Elbe are ideal for a relaxed ride between historical highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Wittenberg",
+            "tip": "Hausgebrautes Bier und deftige Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Wittenberg",
+            "tip": "Helyben főzött sör és házias ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Wittenberg",
+            "tip": "Bere artizanală locală și mâncare tradițională consistentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Wittenberg",
+            "tip": "House-brewed beer and hearty local cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Elbufer",
+            "tip": "Perfekt für eine Pause am Fluss.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elba-part",
+            "tip": "Tökéletes hely egy folyóparti pihenőhöz.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Elbei",
+            "tip": "Perfect pentru o pauză lângă râu.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Elbe Riverbank",
+            "tip": "Perfect for a break by the river.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Luther-Buchhandlung",
+            "tip": "Bücher und Schriften zur Reformation."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luther-könyvesbolt",
+            "tip": "Könyvek és iratok a reformációról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria Luther",
+            "tip": "Cărți și scrieri despre Reformă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luther Bookstore",
+            "tip": "Books and writings about the Reformation."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Straßen in der Altstadt haben Kopfsteinpflaster.",
+          "Fahrräder können am Bahnhof gemietet werden.",
+          "Nutzen Sie den Elberadweg für einen Abstecher ins Grüne."
+        ],
+        "hu": [
+          "Sok utca az óvárosban macskaköves.",
+          "Kerékpárok a vasútállomáson bérelhetők.",
+          "Használja az Elbai kerékpárutat egy kis zöld kitérőhöz."
+        ],
+        "ro": [
+          "Multe străzi din centrul vechi sunt pavate cu piatră cubică.",
+          "Bicicletele pot fi închiriate de la gară.",
+          "Folosiți pista de biciclete de pe malul Elbei pentru o ieșire în natură."
+        ],
+        "en": [
+          "Many streets in the old town have cobblestones.",
+          "Bikes can be rented at the train station.",
+          "Use the Elbe Cycle Route for a trip into the countryside."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            12.6435,
+            51.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Arsenal für kurzen Fußweg.",
+            "hu": "Parkoljon az Arsenal parkolóházban a rövid séta érdekében.",
+            "ro": "Parcați în parcarea Arsenal pentru un acces rapid.",
+            "en": "Park at the Arsenal parking garage for a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Marien",
+            "hu": "Szent Mária városi templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Town Church"
+          },
+          "coords": [
+            12.6448,
+            51.8666
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fußweg vom Marktplatz.",
+            "hu": "Gyalogosan a Piactérről.",
+            "ro": "Acces pietonal din piață.",
+            "en": "Walking distance from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche",
+            "hu": "Vártemplom",
+            "ro": "Biserica Castelului",
+            "en": "Castle Church"
+          },
+          "coords": [
+            12.6391,
+            51.8664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Muss für jeden Wittenberg-Besuch.",
+            "hu": "Minden wittenbergi látogatás kötelező eleme.",
+            "ro": "O vizită obligatorie în Wittenberg.",
+            "en": "A must-see for every Wittenberg visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundertwasserschule",
+            "hu": "Hundertwasser-iskola",
+            "ro": "Școala Hundertwasser",
+            "en": "Hundertwasser School"
+          },
+          "coords": [
+            12.6455,
+            51.8598
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz vor der Schule.",
+            "hu": "Saját parkoló az iskola előtt.",
+            "ro": "Parcare proprie în fața școlii.",
+            "en": "Dedicated parking in front of the school."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherhaus",
+            "hu": "Luther-ház",
+            "ro": "Casa lui Luther",
+            "en": "Luther House"
+          },
+          "coords": [
+            12.65,
+            51.8639
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkplatz 'Wallstraße' nutzen.",
+            "hu": "Használja a 'Wallstraße' parkolót.",
+            "ro": "Utilizați parcarea din Wallstraße.",
+            "en": "Use the 'Wallstraße' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Melanchthonhaus",
+            "hu": "Melanchthon-ház",
+            "ro": "Casa Melanchthon",
+            "en": "Melanchthon House"
+          },
+          "coords": [
+            12.6488,
+            51.8647
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Lutherhaus.",
+            "hu": "Közvetlenül a Luther-ház mellett.",
+            "ro": "Direct lângă casa lui Luther.",
+            "en": "Right next to the Luther House."
+          }
+        },
+        {
+          "name": {
+            "de": "Cranach-Höfe",
+            "hu": "Cranach-udvarok",
+            "ro": "Curțile Cranach",
+            "en": "Cranach Yards"
+          },
+          "coords": [
+            12.643,
+            51.8673
+          ],
+          "category": "museums",
+          "arrive_at": "16:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückkehr in die Altstadt.",
+            "hu": "Visszatérés az óvárosba.",
+            "ro": "Revenire în centrul vechi.",
+            "en": "Return to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Leucorea",
+            "hu": "Leucorea Egyetem",
+            "ro": "Universitatea Leucorea",
+            "en": "Leucorea University"
+          },
+          "coords": [
+            12.6476,
+            51.8653
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Abschluss im historischen Viertel.",
+            "hu": "Zárás a történelmi negyedben.",
+            "ro": "Final în cartierul istoric.",
+            "en": "End of the day in the historic district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um bequem zwischen den zwei Haupt-Clustern der Stadt zu pendeln: der Altstadt im Westen und dem Luther-Areal im Osten. So sparen Sie Energie für die ausführlichen Museumsbesuche und können auch die etwas südlich gelegene Hundertwasserschule problemlos einbinden.",
+        "hu": "Használja az autót a kényelmes közlekedéshez a város két fő központja között: a nyugati óváros és a keleti Luther-negyed között. Így marad energiája a részletes múzeumlátogatásokra, és a délebbre fekvő Hundertwasser-iskolát is könnyen útba ejtheti.",
+        "ro": "Folosiți mașina pentru a face naveta confortabil între cele două zone principale: centrul vechi din vest și zona Luther din est. Astfel economisiți energie pentru vizitele detaliate la muzee și puteți include ușor și școala Hundertwasser situată mai la sud.",
+        "en": "Use the car to conveniently commute between the two main clusters: the old town in the west and the Luther area in the east. This saves energy for extensive museum visits and allows you to easily include the Hundertwasser School to the south."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant von Bora",
+            "tip": "Gehobene Küche im historischen Lutherhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant von Bora",
+            "tip": "Színvonalas konyha a történelmi Luther-házban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant von Bora",
+            "tip": "Bucătărie rafinată în incinta istorică a Casei Luther."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant von Bora",
+            "tip": "Upscale dining in the historic Luther House."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadthafen",
+            "tip": "Blick auf die Elbe und die Schiffe.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi kikötő",
+            "tip": "Kilátás az Elbára és a hajókra.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul orașului",
+            "tip": "Vedere spre Elba și nave.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Harbor",
+            "tip": "View of the Elbe and the passing ships.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Arsenal",
+            "tip": "Moderne Shopping-Möglichkeit am Rande der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arsenal bevásárlóközpont",
+            "tip": "Modern vásárlási lehetőség az óváros szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Arsenal",
+            "tip": "Opțiune modernă de cumpărături la marginea centrului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arsenal Shopping Center",
+            "tip": "Modern shopping facility at the edge of the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Altstadt ist begrenzt, nutzen Sie Parkhäuser.",
+          "Wittenberg ist gut an die B2 und B187 angebunden.",
+          "Achten Sie auf Fußgängerzonen."
+        ],
+        "hu": [
+          "A parkolás az óvárosban korlátozott, használjon parkolóházakat.",
+          "Wittenberg jól megközelíthető a B2 és B187 utakon.",
+          "Figyeljen a gyalogos zónákra."
+        ],
+        "ro": [
+          "Parcarea în centrul vechi este limitată, folosiți parcările etajate.",
+          "Wittenberg are legături bune cu drumurile B2 și B187.",
+          "Atenție la zonele pietonale."
+        ],
+        "en": [
+          "Parking in the old town is limited; use multi-story car parks.",
+          "Wittenberg is well-connected via the B2 and B187 roads.",
+          "Be aware of pedestrian zones."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            12.6435,
+            51.8665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof mit dem Bus Linie 300 oder 304.",
+            "hu": "A vasútállomástól a 300-as vagy 304-es busszal.",
+            "ro": "De la gara centrală cu autobuzul 300 sau 304.",
+            "en": "Take bus 300 or 304 from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche",
+            "hu": "Vártemplom",
+            "ro": "Biserica Castelului",
+            "en": "Castle Church"
+          },
+          "coords": [
+            12.6391,
+            51.8664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Schlossstraße.",
+            "hu": "Rövid séta a Schlossstraßén keresztül.",
+            "ro": "Scurtă plimbare pe Schlossstraße.",
+            "en": "Short walk through Schlossstraße."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Marien",
+            "hu": "Szent Mária városi templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Town Church"
+          },
+          "coords": [
+            12.6448,
+            51.8666
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zentral in der Altstadt gelegen.",
+            "hu": "Központi elhelyezkedés az óvárosban.",
+            "ro": "Situată central în orașul vechi.",
+            "en": "Centrally located in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherhaus",
+            "hu": "Luther-ház",
+            "ro": "Casa lui Luther",
+            "en": "Luther House"
+          },
+          "coords": [
+            12.65,
+            51.8639
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busfahrt zum östlichen Ende der Altstadt.",
+            "hu": "Buszozás az óváros keleti végébe.",
+            "ro": "Cursă cu autobuzul către capătul estic al orașului vechi.",
+            "en": "Bus ride to the eastern end of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Melanchthonhaus",
+            "hu": "Melanchthon-ház",
+            "ro": "Casa Melanchthon",
+            "en": "Melanchthon House"
+          },
+          "coords": [
+            12.6488,
+            51.8647
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Lutherhaus erreichbar.",
+            "hu": "Gyalogosan elérhető a Luther-háztól.",
+            "ro": "Accesibil pe jos de la Casa Luther.",
+            "en": "Walking distance from the Luther House."
+          }
+        },
+        {
+          "name": {
+            "de": "Leucorea",
+            "hu": "Leucorea Egyetem",
+            "ro": "Universitatea Leucorea",
+            "en": "Leucorea University"
+          },
+          "coords": [
+            12.6476,
+            51.8653
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein historischer Ort der Gelehrsamkeit.",
+            "hu": "A tudomány történelmi színhelye.",
+            "ro": "Un loc istoric al cunoașterii.",
+            "en": "A historic place of learning."
+          }
+        },
+        {
+          "name": {
+            "de": "Cranach-Höfe",
+            "hu": "Cranach-udvarok",
+            "ro": "Curțile Cranach",
+            "en": "Cranach Yards"
+          },
+          "coords": [
+            12.643,
+            51.8673
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück Richtung Zentrum.",
+            "hu": "Busszal vissza a központ felé.",
+            "ro": "Cu autobuzul înapoi spre centru.",
+            "en": "Take the bus back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Hauptbahnhof aus bringt Sie der Bus direkt in die Altstadt. Entdecken Sie die zentralen Plätze und Kirchen zu Fuß, bevor Sie für den Weg zum Lutherhaus und Melanchthonhaus erneut den Bus nutzen. Wittenbergs öffentliches Verkehrsnetz verbindet den Bahnhof optimal mit den UNESCO-Welterbestätten.",
+        "hu": "A főpályaudvarról a busz közvetlenül az óvárosba viszi. Fedezze fel a központi tereket és templomokat gyalog, majd a Luther- és Melanchthon-házhoz vezető úthoz vegye igénybe ismét a buszt. Wittenberg tömegközlekedése optimálisan összeköti az állomást az UNESCO világörökségi helyszínekkel.",
+        "ro": "De la gara centrală, autobuzul vă duce direct în centrul vechi. Descoperiți piețele și bisericile centrale la pas, înainte de a folosi din nou autobuzul pentru drumul către casa lui Luther și a lui Melanchthon. Rețeaua de transport public din Wittenberg conectează optim gara de siturile UNESCO.",
+        "en": "From the main station, the bus takes you directly to the old town. Explore the central squares and churches on foot before using the bus again for the journey to the Luther and Melanchthon Houses. Wittenberg's public transport system perfectly connects the station with the UNESCO World Heritage sites."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Klöpping",
+            "tip": "Traditionelles Gebäck und Kaffee direkt am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Klöpping",
+            "tip": "Hagyományos sütemények és kávé a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Klöpping",
+            "tip": "Produse tradiționale de patiserie și cafea direct în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Klöpping",
+            "tip": "Traditional pastries and coffee right on the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weberteich",
+            "tip": "Kleiner Teich am Rande der Altstadt.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Weberteich",
+            "tip": "Kis tó az óváros szélén.",
+            "emoji": "🦆"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Weberteich",
+            "tip": "Un mic iaz la marginea centrului vechi.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Weberteich",
+            "tip": "A small pond at the edge of the old town.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tourist-Information",
+            "tip": "Große Auswahl an Büchern, Karten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Turisztikai Információ",
+            "tip": "Könyvek, térképek és ajándéktárgyak széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul de Informare Turistică",
+            "tip": "O selecție largă de cărți, hărți și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourist Information",
+            "tip": "Large selection of books, maps, and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App 'Wittenberg mobil' für Fahrpläne.",
+          "Tagestickets sind oft günstiger als Einzelfahrten.",
+          "Die Busse fahren regelmäßig vom Bahnhof ab."
+        ],
+        "hu": [
+          "Használja a 'Wittenberg mobil' alkalmazást a menetrendekhez.",
+          "A napijegy gyakran olcsóbb, mint a vonaljegy.",
+          "A buszok rendszeresen indulnak az állomástól."
+        ],
+        "ro": [
+          "Utilizați aplicația 'Wittenberg mobil' pentru orare.",
+          "Abonamentele de o zi sunt adesea mai ieftine decât biletele individuale.",
+          "Autobuzele pleacă regulat de la gară."
+        ],
+        "en": [
+          "Use the 'Wittenberg mobil' app for schedules.",
+          "Day tickets are often cheaper than single fares.",
+          "Buses depart regularly from the station."
+        ]
+      }
+    }
+  }
+}

@@ -3,8 +3,8 @@
   "anchor": {
     "name": "Larissa",
     "coords": [
-      22.4191,
-      39.639
+      39.639,
+      22.4191
     ]
   },
   "modes": {
@@ -12,261 +12,372 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 2.2,
-      "stop_count": 6,
+      "end_estimate": "17:55",
+      "total_km": 4.1,
+      "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Antikes Theater von Larissa",
-            "hu": "Larisszai antik színház",
-            "ro": "Teatrul Antic din Larissa",
-            "en": "Ancient Theatre of Larissa"
-          },
-          "coords": [
-            22.4151,
-            39.6402
-          ],
-          "category": "historical",
-          "arrive_at": "09:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Das Theater liegt direkt im Stadtzentrum und ist beeindruckend gut erhalten.",
-            "hu": "A színház közvetlenül a belvárosban található, lenyűgöző látvány.",
-            "ro": "Teatrul este situat chiar în centrul orașului și este impresionant de bine conservat.",
-            "en": "The theatre is located right in the city center and is impressively well-preserved."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Bezesteni Markt",
-            "hu": "Bezesteni piac",
+            "hu": "Bezesteni Piac",
             "ro": "Piața Bezesteni",
             "en": "Bezesteni Market"
           },
           "coords": [
-            22.4142,
-            39.6415
+            22.4185,
+            39.6401
           ],
-          "category": "market",
-          "arrive_at": "10:35",
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
           "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit einem Kaffee und beobachten Sie das lokale Leben.",
+            "hu": "Indítsa a napot egy kávéval, és figyelje a helyi forgatagot.",
+            "ro": "Începeți aici cu o cafea și observați viața locală.",
+            "en": "Start here with a coffee and watch the local life unfold."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Antikes Theater von Larissa",
+            "hu": "Larisszai Antik Színház",
+            "ro": "Teatrul Antic din Larissa",
+            "en": "Ancient Theatre of Larissa"
+          },
+          "coords": [
+            22.417,
+            39.641
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:05",
+          "stay_min": 80,
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Die alte osmanische Markthalle auf dem Phrourio-Hügel bietet tolle Fotomotive.",
-            "hu": "A Phrourio-dombon lévő régi oszmán vásárcsarnok remek fotótéma.",
-            "ro": "Vechea hală otomană de pe dealul Phrourio oferă oportunități foto excelente.",
-            "en": "The old Ottoman market hall on Phrourio Hill offers great photo opportunities."
+            "de": "Besteigen Sie die oberen Ränge für einen tollen Blick auf die Akropolis.",
+            "hu": "Másszon fel a felső sorokba a csodálatos kilátásért az Akropoliszra.",
+            "ro": "Urcați pe rândurile superioare pentru o priveliște superbă asupra acropolei.",
+            "en": "Climb the upper tiers for a great view of the acropolis hill."
           }
         },
         {
-          "name": {
-            "de": "Kirche Agios Achillios",
-            "hu": "Agios Achillios templom",
-            "ro": "Biserica Agios Achillios",
-            "en": "Agios Achillios Church"
-          },
-          "coords": [
-            22.4135,
-            39.6428
-          ],
-          "category": "religious",
-          "arrive_at": "11:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Die Kirche des Schutzpatrons der Stadt thront majestätisch über dem Fluss.",
-            "hu": "A város védőszentjének temploma fenségesen magasodik a folyó fölé.",
-            "ro": "Biserica patronului spiritual al orașului tronează maiestuos deasupra râului.",
-            "en": "The church of the city's patron saint towers majestically over the river."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Hippokrates Denkmal",
-            "hu": "Hippokratész emlékmű",
+            "hu": "Hippokratész Emlékmű",
             "ro": "Monumentul lui Hipocrate",
             "en": "Hippocrates Monument"
           },
           "coords": [
-            22.4121,
-            39.6445
+            22.4165,
+            39.6405
           ],
-          "category": "monument",
-          "arrive_at": "12:25",
+          "category": "monuments/statues",
+          "arrive_at": "11:28",
           "stay_min": 15,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Der Vater der modernen Medizin soll hier in Larissa gestorben sein.",
-            "hu": "A modern orvostudomány atyja állítólag itt, Larisszában halt meg.",
-            "ro": "Se spune că tatăl medicinei moderne a murit aici, în Larissa.",
-            "en": "The father of modern medicine is said to have died here in Larissa."
+            "de": "Ein Moment der Stille am Grab des Vaters der Medizin.",
+            "hu": "Egy csendes pillanat az orvostudomány atyjának sírjánál.",
+            "ro": "Un moment de reculegere la mormântul părintelui medicinei.",
+            "en": "A moment of quiet reflection at the tomb of the father of medicine."
           }
         },
         {
-          "name": {
+          "name_4lang": {
+            "de": "Kirche Agios Achillios",
+            "hu": "Szent Achilliosz-templom",
+            "ro": "Biserica Sfântul Ahile",
+            "en": "Church of Agios Achillios"
+          },
+          "coords": [
+            22.4178,
+            39.6422
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen byzantinischen Fresken.",
+            "hu": "Csodálja meg a modern bizánci stílusú freskókat.",
+            "ro": "Admirați frescele moderne în stil bizantin.",
+            "en": "Admire the modern Byzantine-style frescoes inside."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Diachronisches Museum",
+            "hu": "Diakronikus Múzeum",
+            "ro": "Muzeul Diacronic",
+            "en": "Diachronic Museum"
+          },
+          "coords": [
+            22.425,
+            39.65
+          ],
+          "category": "museums",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Planen Sie genug Zeit für die prähistorische Sammlung ein.",
+            "hu": "Szánjon elég időt a lenyűgöző őskori gyűjteményre.",
+            "ro": "Planificați suficient timp pentru impresionanta colecție preistorică.",
+            "en": "Allocate enough time for the impressive prehistoric collection."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Mühle von Pappas",
+            "hu": "Pappas-malom",
+            "ro": "Moara lui Pappas",
+            "en": "Mill of Pappas"
+          },
+          "coords": [
+            22.423,
+            39.648
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie, ob während Ihres Besuchs eine Kunstausstellung stattfindet.",
+            "hu": "Nézze meg, van-e éppen valamilyen művészeti kiállítás a látogatása során.",
+            "ro": "Verificați dacă are loc vreo expoziție de artă în timpul vizitei dvs.",
+            "en": "Check if there's an art exhibition happening during your visit."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Alkazar Park",
-            "hu": "Alkazar park",
+            "hu": "Alkazar Park",
             "ro": "Parcul Alkazar",
             "en": "Alkazar Park"
           },
           "coords": [
-            22.4085,
-            39.6462
+            22.419,
+            39.645
           ],
-          "category": "parks",
-          "arrive_at": "12:50",
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:19",
           "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
           "tip_5lang": {
-            "de": "Überqueren Sie die Brücke über den Pinios für eine entspannte Pause im Grünen.",
-            "hu": "Keljen át a Piniosz-folyó hídján egy pihentető zöld erdei sétához.",
-            "ro": "Traversați podul peste râul Pinios pentru o pauză relaxantă în natură.",
-            "en": "Cross the bridge over the Pinios river for a relaxing break in the greenery."
-          }
-        },
-        {
-          "name": {
-            "de": "Mühle von Pappas",
-            "hu": "Pappas malom",
-            "ro": "Moara lui Pappas",
-            "en": "Pappas Mill"
-          },
-          "coords": [
-            22.4112,
-            39.6385
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "14:20",
-          "stay_min": 70,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Ehemalige Getreidemühle, heute ein wichtiges Kulturzentrum der Stadt.",
-            "hu": "Egykori gabonamalom, ma a város fontos kulturális központja.",
-            "ro": "Fostă moară de cereale, astăzi un centru cultural important al orașului.",
-            "en": "Former flour mill, now an important cultural center of the city."
+            "de": "Ein perfekter Ort für einen entspannten Spaziergang am Pinios-Fluss.",
+            "hu": "Tökéletes hely egy pihentető sétára a Pinios folyó partján.",
+            "ro": "Un loc perfect pentru o plimbare relaxantă pe malul râului Pinios.",
+            "en": "A perfect spot for a relaxing walk along the Pinios River."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ein entspannter Spaziergang durch das Herz von Larissa. Wir beginnen beim beeindruckenden antiken Theater und steigen zum historischen Phrourio-Hügel hinauf, um den Bezesteni-Markt und die Kirche Agios Achillios zu besuchen. Nach einer kurzen Würdigung des Hippokrates-Denkmals überqueren wir den Pinios-Fluss für eine Pause im weitläufigen Alkazar-Park, bevor wir den Tag im Kulturzentrum der alten Pappas-Mühle ausklingen lassen.",
-        "hu": "Egy pihentető séta Larissza szívében. Az impozáns antik színháztól indulunk, majd felkapaszkodunk a történelmi Phrourio-dombra a Bezesteni piachoz és az Agios Achillios templomhoz. Hippokratész emlékművének megtekintése után átkelünk a Piniosz-folyón az Alkazar parkba, végül a napot a Pappas-malom kulturális központjában zárjuk.",
-        "ro": "O plimbare relaxantă prin inima Larissei. Începem de la impresionantul teatru antic și urcăm pe dealul istoric Phrourio pentru a vizita piața Bezesteni și biserica Agios Achillios. După un scurt omagiu la monumentul lui Hipocrate, traversăm râul Pinios pentru o pauză în parcul Alkazar, înainte de a încheia ziua la centrul cultural de la moara Pappas.",
-        "en": "A relaxed walk through the heart of Larissa. We start at the impressive ancient theatre and climb up to the historical Phrourio Hill to visit the Bezesteni market and Agios Achillios Church. After paying tribute at the Hippocrates monument, we cross the Pinios river for a break in the expansive Alkazar Park, before ending the day at the Pappas Mill cultural center."
+        "de": "Ihr Tag in Larissa beginnt im Herzen der Stadt, dem lebhaften Bezesteni-Markt. Nach einem Einblick in das lokale Leben reisen Sie in die Vergangenheit im beeindruckenden antiken Theater. Am Mittag erkunden Sie die spirituelle Seite der Stadt in der Agios-Achillios-Kirche und zollen Hippokrates Tribut. Der Nachmittag ist der reichen Geschichte gewidmet, die im Diachronischen Museum und in der industriellen Vergangenheit in der Mühle von Pappas ausgestellt ist. Der Tag endet mit einem friedlichen Spaziergang im grünen Alkazar-Park und lässt die Erlebnisse des Tages Revue passieren.",
+        "hu": "Larisszai napja a város szívében, a nyüzsgő Bezesteni Piacon kezdődik. A helyi életbe való bepillantás után visszautazik az időben a lenyűgöző antik színháznál. Délben felfedezi a város spirituális oldalát az Agios Achillios-templomban és tiszteleg Hippokratész emléke előtt. A délután a gazdag történelemé, amelyet a Diakronikus Múzeumban és a Pappas-malom ipari múltjában mutatnak be. A nap egy békés sétával zárul a zöldellő Alkazar Parkban, felidézve a nap élményeit.",
+        "ro": "Ziua dvs. în Larissa începe în inima orașului, la Piața plină de viață Bezesteni. După o incursiune în viața locală, călătoriți înapoi în timp la impresionantul teatru antic. La prânz, explorați latura spirituală a orașului la Biserica Agios Achillios și aduceți un omagiu lui Hipocrate. După-amiaza este dedicată istoriei bogate, expusă la Muzeul Diacronic, și trecutului industrial la Moara lui Pappas. Ziua se încheie cu o plimbare liniștită în Parcul verde Alkazar, reflectând la experiențele zilei.",
+        "en": "Your day in Larissa begins in the heart of the city, the bustling Bezesteni Market. After a glimpse into local life, you'll travel back in time at the impressive ancient theatre. At midday, you'll explore the city's spiritual side at the Agios Achillios Church and pay tribute to Hippocrates. The afternoon is dedicated to the rich history showcased at the Diachronic Museum and the industrial past at the Mill of Pappas. The day concludes with a peaceful stroll in the green Alkazar Park, reflecting on the day's experiences."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Ouzeri tou Laki",
-            "tip": "Probieren Sie lokale Mezedes und den berühmten Tyrnavos-Ouzo."
+            "name": "Bougatsa",
+            "tip": "Probieren Sie dieses Blätterteiggebäck zum Frühstück, entweder süß mit Grießcreme oder herzhaft mit Käse."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Genießen Sie dieses starke Destillat mit Meze in einem lokalen 'Tsipouradiko'."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "Eine herzhafte Fleischpastete, perfekt für ein schnelles Mittagessen."
           }
         ],
         "hu": [
           {
-            "name": "Ouzeri tou Laki",
-            "tip": "Kóstolja meg a helyi mezedes falatokat és a híres tirnavoszi ouzót."
+            "name": "Bougatsa",
+            "tip": "Kóstolja meg ezt a rétestésztát reggelire, édesen búzadarával vagy sósan sajttal."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Élvezze ezt az erős párlatot meze-vel egy helyi 'tsipouradiko'-ban."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "Egy kiadós húsos pite, tökéletes egy gyors ebédhez."
           }
         ],
         "ro": [
           {
-            "name": "Ouzeri tou Laki",
-            "tip": "Încercați mezedes locale și faimosul ouzo de Tyrnavos."
+            "name": "Bougatsa",
+            "tip": "Încercați această plăcintă filo la micul dejun, fie dulce cu cremă de griș, fie sărată cu brânză."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Savurați acest distilat puternic cu meze la un 'tsipouradiko' local."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "O plăcintă consistentă cu carne, perfectă pentru un prânz rapid."
           }
         ],
         "en": [
           {
-            "name": "Ouzeri tou Laki",
-            "tip": "Try local mezedes and the famous Tyrnavos ouzo."
+            "name": "Bougatsa",
+            "tip": "Try this phyllo pastry for breakfast, either sweet with semolina cream or savory with cheese."
+          },
+          {
+            "name": "Tsipouro",
+            "tip": "Enjoy this strong spirit with meze at a local 'tsipouradiko'."
+          },
+          {
+            "name": "Kreatopita",
+            "tip": "A hearty meat pie, perfect for a quick lunch."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Pinios Flussufer",
-            "tip": "Ruhige Spazierwege entlang des Wassers.",
+            "name": "Alkazar Park",
+            "tip": "Finden Sie eine ruhige Bank am Pinios-Fluss.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Diachronischen Museums",
+            "tip": "Nach Ihrem Museumsbesuch können Sie die ruhige Umgebung genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hügel der Akropolis (Frourio)",
+            "tip": "Ein friedlicher Spaziergang am Abend mit Blick auf die Stadt.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Piniosz-part",
-            "tip": "Csendes sétautak a víz mentén.",
+            "name": "Alkazar Park",
+            "tip": "Keressen egy csendes padot a Pinios folyó partján.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Diakronikus Múzeum kertje",
+            "tip": "A múzeumi látogatás után élvezze a nyugodt környezetet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Akropolisz-domb (Frourio)",
+            "tip": "Egy békés esti séta a városra nyíló kilátással.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Malul râului Pinios",
-            "tip": "Alei liniștite de-a lungul apei.",
+            "name": "Parcul Alkazar",
+            "tip": "Găsiți o bancă liniștită lângă râul Pinios.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Muzeului Diacronic",
+            "tip": "După vizita la muzeu, bucurați-vă de împrejurimile liniștite.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Dealul Acropolei (Frourio)",
+            "tip": "O plimbare pașnică de seară cu vedere la oraș.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Pinios River Bank",
-            "tip": "Quiet walking paths along the water.",
+            "name": "Alkazar Park",
+            "tip": "Find a quiet bench by the Pinios river.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Diachronic Museum's Garden",
+            "tip": "After your museum visit, enjoy the tranquil surroundings.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Acropolis Hill (Frourio)",
+            "tip": "A peaceful evening walk with views over the city.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Fußgängerzone Larissa",
-            "tip": "Zahlreiche Geschäfte rund um den Postplatz."
+            "name": "Bezesteni Markt",
+            "tip": "Kaufen Sie lokale Produkte, Kräuter und Käse."
+          },
+          {
+            "name": "Papanastasiou Straße",
+            "tip": "Die Haupteinkaufsstraße mit einer Vielzahl von Geschäften."
           }
         ],
         "hu": [
           {
-            "name": "Larisszai sétálóutca",
-            "tip": "Számos üzlet a Posta tér környékén."
+            "name": "Bezesteni Piac",
+            "tip": "Vásároljon helyi termékeket, fűszereket és sajtokat."
+          },
+          {
+            "name": "Papanastasiou utca",
+            "tip": "A fő bevásárlóutca számos üzlettel."
           }
         ],
         "ro": [
           {
-            "name": "Zona pietonală Larissa",
-            "tip": "Numeroase magazine în jurul Pieței Poștei."
+            "name": "Piața Bezesteni",
+            "tip": "Cumpărați produse locale, ierburi și brânzeturi."
+          },
+          {
+            "name": "Strada Papanastasiou",
+            "tip": "Principala stradă comercială cu o varietate de magazine."
           }
         ],
         "en": [
           {
-            "name": "Larissa Pedestrian Zone",
-            "tip": "Numerous shops around Post Square."
+            "name": "Bezesteni Market",
+            "tip": "Shop for local produce, herbs, and cheese."
+          },
+          {
+            "name": "Papanastasiou Street",
+            "tip": "The main shopping street with a variety of stores."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Stadt ist sehr flach und ideal zum Gehen.",
-          "Besuchen Sie den Phrourio-Hügel für die besten Cafés.",
-          "Trinken Sie einen griechischen Kaffee am zentralen Platz.",
-          "Achten Sie auf die Hitze in den Sommermonaten."
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Nehmen Sie Wasser mit, besonders in den Sommermonaten.",
+          "Die meisten Sehenswürdigkeiten im Stadtzentrum sind leicht zu Fuß erreichbar.",
+          "Genießen Sie einen gemütlichen Kaffee oder Tsipouro in einem der vielen Cafés."
         ],
         "hu": [
-          "A város sík, ezért ideális gyalogos felfedezésre.",
-          "A Phrourio-dombon találja a legjobb kávézókat.",
-          "Igyon meg egy görög kávét a központi téren.",
-          "A nyári hónapokban készüljön fel a nagy hőségre."
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Vigyen magával vizet, különösen a nyári hónapokban.",
+          "A legtöbb belvárosi látnivaló könnyen elérhető gyalog.",
+          "Élvezzen egy kellemes kávét vagy tsipourót a számos kávézó egyikében."
         ],
         "ro": [
-          "Orașul este plat și ideal pentru mersul pe jos.",
-          "Vizitați dealul Phrourio pentru cele mai bune cafenele.",
-          "Beți o cafea grecească în piața centrală.",
-          "Atenție la căldura din lunile de vară."
+          "Purtați pantofi confortabili, deoarece veți merge mult pe jos.",
+          "Luați apă cu dvs., mai ales în lunile de vară.",
+          "Majoritatea atracțiilor din centrul orașului sunt ușor accesibile pe jos.",
+          "Bucurați-vă de o cafea sau un tsipouro la una dintre numeroasele cafenele."
         ],
         "en": [
-          "The city is very flat and ideal for walking.",
-          "Visit Phrourio Hill for the best cafes.",
-          "Have a Greek coffee at the central square.",
-          "Be aware of the heat during summer months."
+          "Wear comfortable shoes as you will be doing a lot of walking.",
+          "Carry water with you, especially during the summer months.",
+          "Most city center attractions are within easy walking distance.",
+          "Enjoy a leisurely coffee or tsipouro at one of the many cafes."
         ]
       },
       "variants": {
@@ -482,261 +593,372 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:30",
+      "end_estimate": "17:16",
       "total_km": 8.5,
-      "stop_count": 6,
+      "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Yeni Moschee",
-            "hu": "Yeni mecset",
-            "ro": "Geamia Yeni",
-            "en": "Yeni Mosque"
-          },
-          "coords": [
-            22.4185,
-            39.6362
-          ],
-          "category": "museums",
-          "arrive_at": "09:00",
-          "stay_min": 50,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Ehemalige Moschee, die heute archäologische Funde beherbergt.",
-            "hu": "Egykori mecset, amely ma régészeti leleteknek ad otthont.",
-            "ro": "Fostă geamie care astăzi găzduiește vestigii arheologice.",
-            "en": "Former mosque that now houses archaeological finds."
-          }
-        },
-        {
-          "name": {
-            "de": "Antikes Theater",
-            "hu": "Antik színház",
-            "ro": "Teatrul Antic",
-            "en": "Ancient Theatre"
-          },
-          "coords": [
-            22.4151,
-            39.6402
-          ],
-          "category": "historical",
-          "arrive_at": "10:00",
-          "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Das größte antike Theater in Thessalien.",
-            "hu": "Thesszália legnagyobb antik színháza.",
-            "ro": "Cel mai mare teatru antic din Tesalia.",
-            "en": "The largest ancient theatre in Thessaly."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Alkazar Park",
-            "hu": "Alkazar park",
+            "hu": "Alkazar Park",
             "ro": "Parcul Alkazar",
             "en": "Alkazar Park"
           },
           "coords": [
-            22.4085,
-            39.6462
+            22.419,
+            39.645
           ],
-          "category": "parks",
-          "arrive_at": "11:35",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Die Radwege durch den Park und entlang des Flusses sind sehr beliebt.",
-            "hu": "A parkon és a folyó mentén húzódó kerékpárutak nagyon népszerűek.",
-            "ro": "Pistele de biciclete prin parc și de-a lungul râului sunt foarte populare.",
-            "en": "The bike paths through the park and along the river are very popular."
+            "de": "Starten Sie Ihre Radtour mit einer Runde durch diesen schönen Park.",
+            "hu": "Kezdje a biciklitúrát egy körrel ebben a szép parkban.",
+            "ro": "Începeți turul cu bicicleta cu o tură prin acest parc frumos.",
+            "en": "Start your bike tour with a lap around this beautiful park."
           }
         },
         {
-          "name": {
-            "de": "Hippokrates Denkmal",
-            "hu": "Hippokratész emlékmű",
-            "ro": "Monumentul lui Hipocrate",
-            "en": "Hippocrates Monument"
+          "name_4lang": {
+            "de": "Mühle von Pappas",
+            "hu": "Pappas-malom",
+            "ro": "Moara lui Pappas",
+            "en": "Mill of Pappas"
           },
           "coords": [
-            22.4121,
-            39.6445
+            22.423,
+            39.648
           ],
-          "category": "monument",
-          "arrive_at": "12:55",
-          "stay_min": 15,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
+          "category": "industrial heritage",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Direkt neben dem Parkeingang gelegen.",
-            "hu": "Közvetlenül a park bejárata mellett található.",
-            "ro": "Situat chiar lângă intrarea în parc.",
-            "en": "Located right next to the park entrance."
+            "de": "Ein kurzer Stopp, um dieses restaurierte Industriegebäude zu bewundern.",
+            "hu": "Egy rövid megálló, hogy megcsodálja ezt a felújított ipari épületet.",
+            "ro": "O oprire scurtă pentru a admira această clădire industrială restaurată.",
+            "en": "A short stop to admire this restored industrial building."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Diachronisches Museum",
-            "hu": "Diachronikus Múzeum",
+            "hu": "Diakronikus Múzeum",
             "ro": "Muzeul Diacronic",
             "en": "Diachronic Museum"
           },
           "coords": [
-            22.4382,
-            39.6135
+            22.425,
+            39.65
           ],
           "category": "museums",
-          "arrive_at": "13:40",
+          "arrive_at": "11:05",
           "stay_min": 100,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 4.5,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Ein modernes Museum, das die Geschichte von Thessalien von der Urzeit bis heute zeigt.",
-            "hu": "Modern múzeum, amely Thesszália történetét mutatja be az őskortól napjainkig.",
-            "ro": "Un muzeu modern care prezintă istoria Tesaliei din preistorie până în prezent.",
-            "en": "A modern museum showing the history of Thessaly from prehistory to today."
+            "de": "Parken Sie Ihr Fahrrad sicher und tauchen Sie in die Geschichte ein.",
+            "hu": "Parkolja le biztonságosan a kerékpárt, és merüljön el a történelemben.",
+            "ro": "Parcați bicicleta în siguranță și scufundați-vă în istorie.",
+            "en": "Park your bike securely and dive into history."
           }
         },
         {
-          "name": {
-            "de": "Bezesteni",
-            "hu": "Bezesteni",
-            "ro": "Bezesteni",
-            "en": "Bezesteni"
+          "name_4lang": {
+            "de": "Bezesteni Markt",
+            "hu": "Bezesteni Piac",
+            "ro": "Piața Bezesteni",
+            "en": "Bezesteni Market"
           },
           "coords": [
-            22.4142,
-            39.6415
+            22.4185,
+            39.6401
           ],
-          "category": "squares",
+          "category": "squares/old-town",
+          "arrive_at": "13:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause. Probieren Sie lokale Snacks.",
+            "hu": "Tökéletes egy ebédszünetre. Kóstoljon helyi falatokat.",
+            "ro": "Perfect pentru o pauză de prânz. Încercați gustări locale.",
+            "en": "Perfect for a lunch break. Try some local snacks."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Antikes Theater von Larissa",
+            "hu": "Larisszai Antik Színház",
+            "ro": "Teatrul Antic din Larissa",
+            "en": "Ancient Theatre of Larissa"
+          },
+          "coords": [
+            22.417,
+            39.641
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit für diese antike Stätte.",
+            "hu": "Zárja le a kerékpárt a közelben, és szánjon időt erre az ősi helyszínre.",
+            "ro": "Legați bicicleta în apropiere și acordați-vă timp pentru acest sit antic.",
+            "en": "Lock your bike nearby and take your time exploring this ancient site."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Yeni Moschee",
+            "hu": "Yeni Dzsámi",
+            "ro": "Moscheea Yeni",
+            "en": "Yeni Mosque"
+          },
+          "coords": [
+            22.42,
+            39.638
+          ],
+          "category": "museums",
           "arrive_at": "15:20",
           "stay_min": 40,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 4.8,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Genießen Sie den Sonnenuntergang auf dem Phrourio-Hügel.",
-            "hu": "Élvezze a naplementét a Phrourio-dombon.",
-            "ro": "Bucurați-vă de apusul de soare pe dealul Phrourio.",
-            "en": "Enjoy the sunset on Phrourio Hill."
+            "de": "Heute ein archäologisches Museum, ein verstecktes Juwel.",
+            "hu": "Ma régészeti múzeum, egy rejtett gyöngyszem.",
+            "ro": "Astăzi un muzeu arheologic, o bijuterie ascunsă.",
+            "en": "Now an archaeological museum, a hidden gem worth visiting."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Agios Achillios",
+            "hu": "Szent Achilliosz-templom",
+            "ro": "Biserica Sfântul Ahile",
+            "en": "Church of Agios Achillios"
+          },
+          "coords": [
+            22.4178,
+            39.6422
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss Ihrer Tour an diesem wichtigen religiösen Ort.",
+            "hu": "A túra méltó befejezése ezen a fontos vallási helyszínen.",
+            "ro": "O încheiere frumoasă a turului dvs. la acest important lăcaș de cult.",
+            "en": "A beautiful end to your tour at this important religious site."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Larissa auf zwei Rädern! Wir starten bei der Yeni Moschee und fahren zum antiken Theater. Danach geht es über den Fluss zum weitläufigen Alkazar-Park und zum Hippokrates-Denkmal. Eine längere Fahrt bringt uns zum modernen Diachronischen Museum im Süden der Stadt, bevor wir den Tag mit einer Auffahrt zum geschichtsträchtigen Phrourio-Hügel abschließen.",
-        "hu": "Fedezze fel Larisszát két keréken! A Yeni mecsettől indulunk, majd az antik színházhoz tekerünk. Ezután átkelünk a folyón a tágas Alkazar parkba és Hippokratész emlékművéhez. Egy hosszabb tekerés elvisz minket a város déli részén található modern Diachronikus Múzeumba, mielőtt a napot a történelmi Phrourio-dombra való feltekeréssel zárnánk.",
-        "ro": "Explorați Larissa pe două roți! Începem de la geamia Yeni și mergem la teatrul antic. Apoi traversăm râul către parcul vast Alkazar și monumentul lui Hipocrate. O plimbare mai lungă ne duce la modernul Muzeu Diacronic din sudul orașului, înainte de a încheia ziua cu o urcare pe dealul istoric Phrourio.",
-        "en": "Explore Larissa on two wheels! We start at the Yeni Mosque and ride to the ancient theatre. Then we cross the river to the expansive Alkazar Park and the Hippocrates monument. A longer ride takes us to the modern Diachronic Museum in the south of the city, before ending the day with a ride up to the historic Phrourio Hill."
+        "de": "Ihre Fahrradtour durch Larissa beginnt im grünen Alkazar-Park, perfekt zum Aufwärmen. Von dort aus radeln Sie zu den Zeugen der Industriegeschichte, der Mühle von Pappas und dem Diachronischen Museum. Nach einem tiefen Einblick in die Geschichte ist es Zeit für eine Mittagspause auf dem belebten Bezesteni-Markt. Der Nachmittag führt Sie zu den antiken Wundern des Theaters und der stillen Schönheit der Yeni-Moschee. Sie beenden Ihre Tour an der prächtigen Agios-Achillios-Kirche, einem spirituellen Wahrzeichen der Stadt.",
+        "hu": "Larisszai kerékpártúrája a zöldellő Alkazar Parkban kezdődik, amely tökéletes a bemelegítéshez. Innen az ipari történelem tanúihoz, a Pappas-malomhoz és a Diakronikus Múzeumhoz teker. A történelemben való elmélyülés után ebédszünetet tart a nyüzsgő Bezesteni Piacon. A délután az antik színház csodáihoz és a Yeni Dzsámi csendes szépségéhez vezeti. A túrát a csodálatos Agios Achillios-templomnál, a város spirituális jelképénél fejezi be.",
+        "ro": "Turul cu bicicleta prin Larissa începe în Parcul verde Alkazar, perfect pentru încălzire. De acolo, pedalați spre mărturiile istoriei industriale, Moara lui Pappas și Muzeul Diacronic. După o incursiune adâncă în istorie, este timpul pentru o pauză de prânz în Piața plină de viață Bezesteni. După-amiaza vă duce la minunile antice ale teatrului și la frumusețea liniștită a Moscheei Yeni. Încheiați turul la magnifica Biserică Agios Achillios, un punct de reper spiritual al orașului.",
+        "en": "Your bike tour of Larissa starts in the green Alkazar Park, perfect for a warm-up. From there, you'll cycle to the witnesses of industrial history, the Mill of Pappas and the Diachronic Museum. After a deep dive into history, it's time for a lunch break at the lively Bezesteni Market. The afternoon takes you to the ancient wonders of the theatre and the quiet beauty of the Yeni Mosque. You'll finish your tour at the magnificent Church of Agios Achillios, a spiritual landmark of the city."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "To Dixty",
-            "tip": "Hervorragende traditionelle griechische Küche."
+            "name": "Souvlaki-Pita",
+            "tip": "Ein schneller, leckerer und sättigender Snack für unterwegs."
+          },
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich einen Spanakopita (Spinatpastete) für Energie."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Der kultige griechische Eiskaffee, um sich abzukühlen."
           }
         ],
         "hu": [
           {
-            "name": "To Dixty",
-            "tip": "Kiváló hagyományos görög konyha."
+            "name": "Souvlaki-pita",
+            "tip": "Egy gyors, finom és laktató falat útközben."
+          },
+          {
+            "name": "Helyi pékség",
+            "tip": "Vegyen egy spanakopitát (spenótos pitét) energiának."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Az ikonikus görög jegeskávé, hogy lehűtse magát."
           }
         ],
         "ro": [
           {
-            "name": "To Dixty",
-            "tip": "Bucătărie tradițională grecească excelentă."
+            "name": "Souvlaki-pita",
+            "tip": "O gustare rapidă, delicioasă și sățioasă pentru drum."
+          },
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați o spanakopita (plăcintă cu spanac) pentru energie."
+          },
+          {
+            "name": "Frappé",
+            "tip": "Iconica cafea cu gheață grecească pentru a vă răcori."
           }
         ],
         "en": [
           {
-            "name": "To Dixty",
-            "tip": "Excellent traditional Greek cuisine."
+            "name": "Souvlaki pita",
+            "tip": "A quick, delicious, and filling snack on the go."
+          },
+          {
+            "name": "Local Bakery",
+            "tip": "Grab a spanakopita (spinach pie) for energy."
+          },
+          {
+            "name": "Frappé",
+            "tip": "The iconic Greek iced coffee to cool you down."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Phrourio Hügel",
-            "tip": "Toller Blick über die Stadt bei Sonnenuntergang.",
+            "name": "Flussufer des Pinios",
+            "tip": "Machen Sie eine Pause vom Radfahren und genießen Sie die Ruhe am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frourio Hügel",
+            "tip": "Stellen Sie Ihr Fahrrad ab und spazieren Sie für die beste Aussicht auf den Sonnenuntergang.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Seitengassen um die Ermou-Straße",
+            "tip": "Entdecken Sie ruhigere Ecken abseits der Haupteinkaufsstraßen.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Phrourio-domb",
-            "tip": "Nagyszerű kilátás a városra naplementekor.",
+            "name": "Pinios folyópart",
+            "tip": "Tartson egy szünetet a biciklizésben, és élvezze a vízparti csendet.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frourio-domb",
+            "tip": "Tegye le a biciklit, és sétáljon fel a legjobb naplemente-kilátásért.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Mellékutcák az Ermou utca körül",
+            "tip": "Fedezzen fel csendesebb zugokat a fő bevásárlóutcáktól távol.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Dealul Phrourio",
-            "tip": "Vedere minunată asupra orașului la apus.",
+            "name": "Malul râului Pinios",
+            "tip": "Luați o pauză de la pedalat și bucurați-vă de liniștea de lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealul Frourio",
+            "tip": "Lăsați bicicleta și plimbați-vă pentru cea mai bună priveliște la apus.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Străduțele din jurul străzii Ermou",
+            "tip": "Descoperiți colțuri mai liniștite, departe de principalele străzi comerciale.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Phrourio Hill",
-            "tip": "Great view over the city at sunset.",
+            "name": "Pinios Riverbank",
+            "tip": "Take a break from cycling and enjoy the tranquility by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frourio Hill",
+            "tip": "Park your bike and walk up for the best sunset views.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Side streets around Ermou Street",
+            "tip": "Explore quieter corners away from the main shopping avenues.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Marktplatz",
-            "tip": "Lokale Produkte und frisches Obst."
+            "name": "Lokaler Fahrradladen",
+            "tip": "Für eventuelle schnelle Reparaturen oder Zubehör."
+          },
+          {
+            "name": "Marktstände",
+            "tip": "Achten Sie auf handgemachten Schmuck und kleine Souvenirs."
           }
         ],
         "hu": [
           {
-            "name": "Piac tér",
-            "tip": "Helyi termékek és friss gyümölcsök."
+            "name": "Helyi kerékpárbolt",
+            "tip": "Esetleges gyors javításokhoz vagy kiegészítőkhöz."
+          },
+          {
+            "name": "Piaci standok",
+            "tip": "Keressen kézzel készített ékszereket és apró ajándéktárgyakat."
           }
         ],
         "ro": [
           {
-            "name": "Piața centrală",
-            "tip": "Produse locale și fructe proaspete."
+            "name": "Magazin local de biciclete",
+            "tip": "Pentru orice reparații rapide sau accesorii."
+          },
+          {
+            "name": "Tarabe de piață",
+            "tip": "Căutați bijuterii artizanale și mici suveniruri."
           }
         ],
         "en": [
           {
-            "name": "Central Market",
-            "tip": "Local products and fresh fruit."
+            "name": "Local bike shop",
+            "tip": "For any quick repairs or accessories."
+          },
+          {
+            "name": "Market stalls",
+            "tip": "Look for handmade jewelry and small souvenirs."
           }
         ]
       },
       "tips": {
         "de": [
-          "Larissa gilt als eine der fahrradfreundlichsten Städte Griechenlands.",
-          "Die meisten Wege sind eben und gut befahrbar.",
-          "Tragen Sie bei Sonne unbedingt einen Sonnenschutz.",
-          "Mieten Sie ein Fahrrad in einem der Geschäfte im Zentrum."
+          "Prüfen Sie Ihr Fahrrad, bevor Sie losfahren.",
+          "Benutzen Sie ein gutes Schloss, wenn Sie die Sehenswürdigkeiten besuchen.",
+          "Larissa ist relativ flach, was das Radfahren erleichtert.",
+          "Achten Sie auf den Verkehr, besonders im Stadtzentrum."
         ],
         "hu": [
-          "Larissza Görögország egyik leginkább kerékpárosbarát városa.",
-          "A legtöbb út sík és jól járható.",
-          "Napsütésben mindenképpen használjon fényvédőt.",
-          "Béreljen kerékpárt a belvárosi üzletek egyikében."
+          "Indulás előtt ellenőrizze a kerékpárt.",
+          "Használjon jó lakatot, amikor a látnivalókat nézi.",
+          "Larissza viszonylag sík, ami megkönnyíti a kerékpározást.",
+          "Vigyázzon a forgalomra, különösen a városközpontban."
         ],
         "ro": [
-          "Larissa este considerat unul dintre cele mai prietenoase orașe pentru biciclete din Grecia.",
-          "Majoritatea drumurilor sunt plate și ușor de parcurs.",
-          "Folosiți neapărat protecție solară când e soare.",
-          "Închiriați o bicicletă de la unul dintre magazinele din centru."
+          "Verificați-vă bicicleta înainte de a porni.",
+          "Folosiți un lacăt bun când vizitați obiectivele turistice.",
+          "Larissa este relativ plată, ceea ce face ciclismul ușor.",
+          "Fiți atenți la trafic, mai ales în centrul orașului."
         ],
         "en": [
-          "Larissa is considered one of the most bike-friendly cities in Greece.",
-          "Most paths are flat and easy to ride.",
-          "Always wear sunscreen when it's sunny.",
-          "Rent a bike from one of the shops in the center."
+          "Check your bike before you start.",
+          "Use a good lock when you're visiting the sights.",
+          "Larissa is relatively flat, which makes for easy cycling.",
+          "Be aware of the traffic, especially in the city center."
         ]
       },
       "variants": {
@@ -952,207 +1174,285 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "16:20",
-      "total_km": 12.5,
+      "end_estimate": "17:35",
+      "total_km": 11.2,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Antikes Theater",
-            "hu": "Antik színház",
-            "ro": "Teatrul Antic",
-            "en": "Ancient Theatre"
-          },
-          "coords": [
-            22.4151,
-            39.6402
-          ],
-          "category": "historical",
-          "arrive_at": "09:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0.0,
-          "tip_5lang": {
-            "de": "Parken Sie im Parkhaus im Zentrum und erkunden Sie den ersten Cluster zu Fuß.",
-            "hu": "Parkoljon a belvárosi parkolóházban, és gyalog fedezze fel az első megállókat.",
-            "ro": "Parcați în parcarea din centru și explorați primul grup de obiective la pas.",
-            "en": "Park in the city center parking garage and explore the first cluster on foot."
-          }
-        },
-        {
-          "name": {
-            "de": "Bezesteni Markt",
-            "hu": "Bezesteni piac",
-            "ro": "Piața Bezesteni",
-            "en": "Bezesteni Market"
-          },
-          "coords": [
-            22.4142,
-            39.6415
-          ],
-          "category": "market",
-          "arrive_at": "10:35",
-          "stay_min": 50,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Nur wenige Minuten zu Fuß vom Theater entfernt.",
-            "hu": "Csak pár perc gyalog a színháztól.",
-            "ro": "La doar câteva minute de mers pe jos de teatru.",
-            "en": "Just a few minutes walk from the theatre."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche Agios Achillios",
-            "hu": "Agios Achillios templom",
-            "ro": "Biserica Agios Achillios",
-            "en": "Agios Achillios Church"
-          },
-          "coords": [
-            22.4135,
-            39.6428
-          ],
-          "category": "religious",
-          "arrive_at": "11:35",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Fahren Sie zum Parkplatz am Fuße des Hügels.",
-            "hu": "Hajtson a domb alján lévő parkolóhoz.",
-            "ro": "Conduceți până la parcarea de la baza dealului.",
-            "en": "Drive to the parking lot at the foot of the hill."
-          }
-        },
-        {
-          "name": {
-            "de": "Alkazar Park",
-            "hu": "Alkazar park",
-            "ro": "Parcul Alkazar",
-            "en": "Alkazar Park"
-          },
-          "coords": [
-            22.4085,
-            39.6462
-          ],
-          "category": "parks",
-          "arrive_at": "12:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Großer kostenloser Parkplatz direkt am Parkeingang.",
-            "hu": "Nagy ingyenes parkoló közvetlenül a park bejáratánál.",
-            "ro": "Parcare mare gratuită chiar la intrarea în parc.",
-            "en": "Large free parking lot right at the park entrance."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Diachronisches Museum",
-            "hu": "Diachronikus Múzeum",
+            "hu": "Diakronikus Múzeum",
             "ro": "Muzeul Diacronic",
             "en": "Diachronic Museum"
           },
           "coords": [
-            22.4382,
-            39.6135
+            22.425,
+            39.65
           ],
           "category": "museums",
-          "arrive_at": "14:00",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 5.0,
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Leicht erreichbar mit dem Auto am Stadtrand.",
-            "hu": "Autóval könnyen megközelíthető a város szélén.",
-            "ro": "Ușor accesibil cu mașina la marginea orașului.",
-            "en": "Easily accessible by car on the outskirts of the city."
+            "de": "Beginnen Sie hier, es gibt normalerweise genügend Parkplätze am Morgen.",
+            "hu": "Kezdje itt a napot, reggel általában van elég parkolóhely.",
+            "ro": "Începeți aici, de obicei există suficient spațiu de parcare dimineața.",
+            "en": "Start here, there is usually ample parking in the morning."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Mühle von Pappas",
-            "hu": "Pappas malom",
+            "hu": "Pappas-malom",
             "ro": "Moara lui Pappas",
-            "en": "Pappas Mill"
+            "en": "Mill of Pappas"
           },
           "coords": [
-            22.4112,
-            39.6385
+            22.423,
+            39.648
           ],
           "category": "industrial heritage",
-          "arrive_at": "15:55",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.5,
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Abendliches Kulturprogramm oft verfügbar.",
-            "hu": "Gyakran vannak esti kulturális programok.",
-            "ro": "Adesea sunt disponibile programe culturale seara.",
-            "en": "Evening cultural programs often available."
+            "de": "Ein kurzer Spaziergang vom Museum aus.",
+            "hu": "Egy rövid séta a múzeumtól.",
+            "ro": "O scurtă plimbare de la muzeu.",
+            "en": "A short walk from the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Alkazar Park",
+            "hu": "Alkazar Park",
+            "ro": "Parcul Alkazar",
+            "en": "Alkazar Park"
+          },
+          "coords": [
+            22.419,
+            39.645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang zum Park für etwas Grün vor dem Mittagessen.",
+            "hu": "Sétáljon el a parkba egy kis zöldterületért ebéd előtt.",
+            "ro": "Faceți o plimbare până la parc pentru puțină verdeață înainte de prânz.",
+            "en": "Stroll over to the park for some greenery before lunch."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Antikes Theater & Stadtzentrum",
+            "hu": "Antik Színház és Városközpont",
+            "ro": "Teatrul Antic și Centrul Orașului",
+            "en": "Ancient Theatre & City Centre"
+          },
+          "coords": [
+            22.417,
+            39.641
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie in einem Parkhaus und erkunden Sie den Rest zu Fuß.",
+            "hu": "Parkoljon egy parkolóházban, a többit fedezze fel gyalog.",
+            "ro": "Parcați într-o parcare subterană și explorați restul pe jos.",
+            "en": "Park in a parking garage and explore the rest on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Agios Achillios",
+            "hu": "Szent Achilliosz-templom",
+            "ro": "Biserica Sfântul Ahile",
+            "en": "Church of Agios Achillios"
+          },
+          "coords": [
+            22.4178,
+            39.6422
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Vom Theater aus leicht zu Fuß erreichbar.",
+            "hu": "Könnyen megközelíthető gyalog a színháztól.",
+            "ro": "Ușor de ajuns pe jos de la teatru.",
+            "en": "An easy walk from the theatre."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Bezesteni Markt",
+            "hu": "Bezesteni Piac",
+            "ro": "Piața Bezesteni",
+            "en": "Bezesteni Market"
+          },
+          "coords": [
+            22.4185,
+            39.6401
+          ],
+          "category": "markets",
+          "arrive_at": "16:11",
+          "stay_min": 54,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem Kaffee ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap befejezéséhez egy kávé mellett.",
+            "ro": "Locul perfect pentru a încheia ziua cu o cafea.",
+            "en": "The perfect place to wind down the day with a coffee."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ein komfortabler Tag in Larissa mit dem Auto. Wir konzentrieren uns auf drei Hauptcluster: Das historische Zentrum mit dem Theater und Bezesteni, den Phrourio-Hügel und Alkazar-Park sowie das etwas außerhalb gelegene Diachronische Museum. Die Fahrt zum Museum bietet einen schönen Blick auf die ländliche Umgebung von Thessalien, bevor wir den Tag bei der kulturell lebendigen Pappas-Mühle beenden.",
-        "hu": "Egy kényelmes autóval töltött nap Larisszában. Három fő csoportra koncentrálunk: a történelmi központra a színházzal és a Bezestenivel, a Phrourio-dombra és az Alkazar parkra, valamint a városon kívül található Diachronikus Múzeumra. A múzeumba vezető út szép kilátást nyújt Thesszália vidékére, a napot pedig a kulturálisan vibráló Pappas-malomnál zárjuk.",
-        "ro": "O zi confortabilă în Larissa cu mașina. Ne concentrăm pe trei grupuri principale: centrul istoric cu teatrul și Bezesteni, dealul Phrourio și parcul Alkazar, precum și Muzeul Diacronic situat puțin în afara orașului. Drumul spre muzeu oferă o vedere frumoasă asupra împrejurimilor rurale ale Tesaliei, înainte de a încheia ziua la vibranta moară Pappas.",
-        "en": "A comfortable day in Larissa by car. We focus on three main clusters: the historical center with the theatre and Bezesteni, the Phrourio Hill and Alkazar Park, and the Diachronic Museum located slightly outside the city. The drive to the museum offers a nice view of the rural surroundings of Thessaly, before ending the day at the culturally vibrant Pappas Mill."
+        "de": "Ihr Autotag beginnt im Museumsviertel. Parken Sie in der Nähe des Diachronischen Museums und erkunden Sie diesen Kulturcluster zu Fuß, einschließlich der Mühle von Pappas und des Alkazar-Parks. Nach dem Mittagessen fahren Sie ins historische Zentrum. Parken Sie Ihr Auto sicher und tauchen Sie ein in die antike Atmosphäre des Theaters, der majestätischen Agios-Achillios-Kirche und des belebten Bezesteni-Marktes. Dieser Ansatz kombiniert den Komfort des Autos mit der Freude am Entdecken zu Fuß.",
+        "hu": "Autós napja a múzeumi negyedben kezdődik. Parkoljon a Diakronikus Múzeum közelében, és fedezze fel ezt a kulturális központot gyalog, beleértve a Pappas-malmot és az Alkazar Parkot. Ebéd után hajtson be a történelmi központba. Parkolja le biztonságosan az autóját, és merüljön el a színház ókori hangulatában, a fenséges Agios Achillios-templomban és a nyüzsgő Bezesteni Piacon. Ez a megközelítés ötvözi az autó kényelmét a gyalogos felfedezés örömével.",
+        "ro": "Ziua dvs. cu mașina începe în cartierul muzeelor. Parcați lângă Muzeul Diacronic și explorați acest cluster cultural pe jos, inclusiv Moara lui Pappas și Parcul Alkazar. După prânz, conduceți spre centrul istoric. Parcați mașina în siguranță și scufundați-vă în atmosfera antică a teatrului, a maiestuoasei Biserici Agios Achillios și a aglomeratei Piețe Bezesteni. Această abordare combină confortul mașinii cu bucuria descoperirii pe jos.",
+        "en": "Your car day begins in the museum district. Park near the Diachronic Museum and explore this cultural cluster on foot, including the Mill of Pappas and Alkazar Park. After lunch, you'll drive to the historic center. Park your car securely and immerse yourself in the ancient atmosphere of the theatre, the majestic Agios Achillios Church, and the bustling Bezesteni Market. This approach combines the convenience of the car with the joy of discovery on foot."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Psistaria To Kastro",
-            "tip": "Hervorragende Fleischgerichte direkt auf dem Hügel."
+            "name": "Taverne am Stadtrand",
+            "tip": "Fahren Sie zu einer traditionellen Taverne für ein authentisches thessalisches Essen."
+          },
+          {
+            "name": "Koutouki",
+            "tip": "Suchen Sie nach einem 'Koutouki' für hausgemachte Gerichte und lokale Weine."
+          },
+          {
+            "name": "Fournos (Bäckerei)",
+            "tip": "Halten Sie an einer Bäckerei für herzhafte Pasteten für die Straße."
           }
         ],
         "hu": [
           {
-            "name": "Psistaria To Kastro",
-            "tip": "Kiváló húsételek közvetlenül a dombon."
+            "name": "Taverna a város szélén",
+            "tip": "Vezessen el egy hagyományos tavernába egy autentikus thesszáliai ételért."
+          },
+          {
+            "name": "Koutouki",
+            "tip": "Keressen egy 'koutouki'-t házi ételekért és helyi borokért."
+          },
+          {
+            "name": "Fournos (Pékség)",
+            "tip": "Álljon meg egy pékségnél egy kiadós pitéért az útra."
           }
         ],
         "ro": [
           {
-            "name": "Psistaria To Kastro",
-            "tip": "Mâncăruri de carne excelente chiar pe deal."
+            "name": "Tavernă la periferie",
+            "tip": "Conduceți la o tavernă tradițională pentru o masă autentică thessaliană."
+          },
+          {
+            "name": "Koutouki",
+            "tip": "Căutați un 'koutouki' pentru mâncăruri de casă și vinuri locale."
+          },
+          {
+            "name": "Fournos (Brutărie)",
+            "tip": "Opriți-vă la o brutărie pentru plăcinte sărate la pachet."
           }
         ],
         "en": [
           {
-            "name": "Psistaria To Kastro",
-            "tip": "Excellent meat dishes right on the hill."
+            "name": "Taverna on the outskirts",
+            "tip": "Drive to a traditional taverna for an authentic Thessalian meal."
+          },
+          {
+            "name": "Koutouki",
+            "tip": "Look for a 'koutouki' for home-cooked dishes and local wines."
+          },
+          {
+            "name": "Fournos (Bakery)",
+            "tip": "Stop at a bakery for savory pies to go."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Städtischer Pinienwald",
-            "tip": "Grüne Lunge am Stadtrand, perfekt für eine Pause.",
+            "name": "Fahrt entlang des Pinios",
+            "tip": "Eine kurze Fahrt aus der Stadt heraus bietet friedliche Ausblicke.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Aussichtspunkt Frourio Hügel",
+            "tip": "Fahren Sie abends hoch für einen Panoramablick auf die Lichter der Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kloster in der Nähe",
+            "tip": "Wenn Sie Zeit haben, besuchen Sie ein nahegelegenes Kloster für absolute Ruhe.",
             "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Városi fenyőerdő",
-            "tip": "Zöldövezet a város szélén, tökéletes pihenésre.",
+            "name": "Autózás a Pinios mentén",
+            "tip": "Egy rövid út a városból békés kilátást nyújt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frourio-domb kilátó",
+            "tip": "Este hajtson fel a város fényeinek panorámájáért.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Közeli kolostor",
+            "tip": "Ha van ideje, látogasson el egy közeli kolostorba a teljes csendért.",
             "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Pădurea de pini a orașului",
-            "tip": "Zonă verde la marginea orașului, perfectă pentru o pauză.",
+            "name": "Plimbare cu mașina de-a lungul Piniosului",
+            "tip": "O scurtă călătorie cu mașina în afara orașului oferă priveliști liniștite.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Punct de belvedere de pe Dealul Frourio",
+            "tip": "Conduceți seara pentru o vedere panoramică a luminilor orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mănăstire din apropiere",
+            "tip": "Dacă aveți timp, vizitați o mănăstire din apropiere pentru o liniște absolută.",
             "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "City Pine Forest",
-            "tip": "Green lung on the outskirts, perfect for a break.",
+            "name": "Drive along the Pinios",
+            "tip": "A short drive out of the city offers peaceful views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Frourio Hill Viewpoint",
+            "tip": "Drive up in the evening for a panoramic view of the city lights.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Nearby Monastery",
+            "tip": "If you have time, visit a nearby monastery for absolute tranquility.",
             "emoji": "🧘"
           }
         ]
@@ -1160,53 +1460,69 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Fashion City Outlet",
-            "tip": "Großes Einkaufszentrum am Stadtrand (mit dem Auto)."
+            "name": "Geschäfte für lokale Produkte",
+            "tip": "Halten Sie Ausschau nach Geschäften, die lokalen Honig, Olivenöl und Wein verkaufen."
+          },
+          {
+            "name": "Große Supermärkte",
+            "tip": "Nutzen Sie das Auto, um in größeren Supermärkten am Stadtrand einzukaufen."
           }
         ],
         "hu": [
           {
-            "name": "Fashion City Outlet",
-            "tip": "Nagy bevásárlóközpont a város szélén (autóval)."
+            "name": "Helyi termékeket árusító üzletek",
+            "tip": "Keressen boltokat, ahol helyi mézet, olívaolajat és bort árulnak."
+          },
+          {
+            "name": "Nagy szupermarketek",
+            "tip": "Használja ki az autót, hogy a város szélén lévő nagyobb szupermarketekben vásároljon."
           }
         ],
         "ro": [
           {
-            "name": "Fashion City Outlet",
-            "tip": "Centru comercial mare la marginea orașului (cu mașina)."
+            "name": "Magazine de produse locale",
+            "tip": "Căutați magazine care vând miere, ulei de măsline și vin local."
+          },
+          {
+            "name": "Supermarketuri mari",
+            "tip": "Folosiți mașina pentru a face cumpărături la supermarketurile mai mari de la periferie."
           }
         ],
         "en": [
           {
-            "name": "Fashion City Outlet",
-            "tip": "Large shopping center on the outskirts (by car)."
+            "name": "Local product shops",
+            "tip": "Look for shops selling local honey, olive oil, and wine."
+          },
+          {
+            "name": "Large Supermarkets",
+            "tip": "Use the car to stock up at larger supermarkets on the outskirts."
           }
         ]
       },
       "tips": {
         "de": [
-          "Das Parken im Zentrum kann schwierig sein, nutzen Sie Parkhäuser.",
-          "Die Straßen in Larissa sind breit und gut beschildert.",
-          "Besuchen Sie das Diachronische Museum unbedingt, es hat viel Platz.",
-          "Die Stadt ist ein guter Ausgangspunkt für Ausflüge zum Olymp."
+          "Suchen Sie nach ausgewiesenen Parkplätzen oder Parkhäusern.",
+          "Das Fahren im Stadtzentrum kann hektisch sein; seien Sie geduldig.",
+          "Ein GPS ist unerlässlich, um sich zurechtzufinden.",
+          "Planen Sie Ihre Parkstrategie für jeden Cluster, bevor Sie losfahren."
         ],
         "hu": [
-          "A belvárosi parkolás nehéz lehet, használjon parkolóházakat.",
-          "Larissza utcái szélesek és jól ki vannak táblázva.",
-          "Mindenképpen látogassa meg a Diachronikus Múzeumot.",
-          "A város jó kiindulópont az Olümposzhoz tett kirándulásokhoz."
+          "Keressen kijelölt parkolóhelyeket vagy parkolóházakat.",
+          "A belvárosi vezetés kaotikus lehet; legyen türelmes.",
+          "A GPS elengedhetetlen a tájékozódáshoz.",
+          "Indulás előtt tervezze meg a parkolási stratégiáját minden központhoz."
         ],
         "ro": [
-          "Parcarea în centru poate fi dificilă, folosiți parcări supraetajate.",
-          "Străzile din Larissa sunt late și bine semnalizate.",
-          "Vizitați neapărat Muzeul Diacronic, este foarte spațios.",
-          "Orașul este un bun punct de plecare pentru excursii la Muntele Olimp."
+          "Căutați parcări desemnate sau garaje.",
+          "Condusul în centrul orașului poate fi agitat; aveți răbdare.",
+          "Un GPS este esențial pentru a vă orienta.",
+          "Planificați-vă strategia de parcare pentru fiecare cluster înainte de a porni."
         ],
         "en": [
-          "Parking in the center can be difficult, use parking garages.",
-          "The streets in Larissa are wide and well-signed.",
-          "Be sure to visit the Diachronic Museum, it's very spacious.",
-          "The city is a good starting point for trips to Mount Olympus."
+          "Look for designated parking areas or garages.",
+          "Driving in the city center can be hectic; be patient.",
+          "A GPS is essential for navigation.",
+          "Plan your parking strategy for each cluster before you set off."
         ]
       },
       "variants": {
@@ -1404,207 +1720,285 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 10.5,
+      "end_estimate": "17:15",
+      "total_km": 5.4,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Antikes Theater",
-            "hu": "Antik színház",
-            "ro": "Teatrul Antic",
-            "en": "Ancient Theatre"
+          "name_4lang": {
+            "de": "Zentraler Busbahnhof",
+            "hu": "Központi buszpályaudvar",
+            "ro": "Autogara Centrală",
+            "en": "Central Bus Station"
           },
           "coords": [
-            22.4151,
-            39.6402
+            22.425,
+            39.635
           ],
-          "category": "historical",
-          "arrive_at": "09:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 0,
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Zentraler Knotenpunkt vieler Buslinien.",
-            "hu": "Számos buszjárat központi csomópontja.",
-            "ro": "Nod central pentru multe linii de autobuz.",
-            "en": "Central hub for many bus lines."
+            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
+            "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+            "en": "Buy a day pass for unlimited travel."
           }
         },
         {
-          "name": {
-            "de": "Bezesteni",
-            "hu": "Bezesteni",
-            "ro": "Bezesteni",
-            "en": "Bezesteni"
+          "name_4lang": {
+            "de": "Bezesteni Markt & Antikes Theater",
+            "hu": "Bezesteni Piac és Antik Színház",
+            "ro": "Piața Bezesteni și Teatrul Antic",
+            "en": "Bezesteni Market & Ancient Theatre"
           },
           "coords": [
-            22.4142,
-            39.6415
+            22.418,
+            39.6405
           ],
-          "category": "squares",
-          "arrive_at": "10:35",
-          "stay_min": 50,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Nur ein kurzer Fußweg vom Theater entfernt.",
-            "hu": "Csak egy rövid séta a színháztól.",
-            "ro": "Doar o scurtă plimbare de la teatru.",
+            "de": "Steigen Sie an einer zentralen Haltestelle aus und erkunden Sie diesen Bereich zu Fuß.",
+            "hu": "Szálljon le egy központi megállónál, és fedezze fel ezt a területet gyalog.",
+            "ro": "Coborâți la o stație centrală și explorați această zonă pe jos.",
+            "en": "Get off at a central stop and explore this area on foot."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Kirche Agios Achillios",
+            "hu": "Szent Achilliosz-templom",
+            "ro": "Biserica Sfântul Ahile",
+            "en": "Church of Agios Achillios"
+          },
+          "coords": [
+            22.4178,
+            39.6422
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang vom Theater entfernt.",
+            "hu": "Csak egy rövid sétára a színháztól.",
+            "ro": "La doar o scurtă plimbare de teatru.",
             "en": "Just a short walk from the theatre."
           }
         },
         {
-          "name": {
-            "de": "Kirche Agios Achillios",
-            "hu": "Agios Achillios templom",
-            "ro": "Biserica Agios Achillios",
-            "en": "Agios Achillios Church"
-          },
-          "coords": [
-            22.4135,
-            39.6428
-          ],
-          "category": "religious",
-          "arrive_at": "11:30",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Vom Hügel aus haben Sie den besten Überblick.",
-            "hu": "A dombról nyílik a legjobb kilátás a környékre.",
-            "ro": "De pe deal aveți cea mai bună panoramă.",
-            "en": "From the hill you have the best overview."
-          }
-        },
-        {
-          "name": {
-            "de": "Alkazar Park",
-            "hu": "Alkazar park",
-            "ro": "Parcul Alkazar",
-            "en": "Alkazar Park"
-          },
-          "coords": [
-            22.4085,
-            39.6462
-          ],
-          "category": "parks",
-          "arrive_at": "12:20",
-          "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Nutzen Sie den lokalen Bus, um die Brücke zu überqueren.",
-            "hu": "Használja a helyi buszt a hídon való átkeléshez.",
-            "ro": "Folosiți autobuzul local pentru a traversa podul.",
-            "en": "Use the local bus to cross the bridge."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Diachronisches Museum",
-            "hu": "Diachronikus Múzeum",
+            "hu": "Diakronikus Múzeum",
             "ro": "Muzeul Diacronic",
             "en": "Diachronic Museum"
           },
           "coords": [
-            22.4382,
-            39.6135
+            22.425,
+            39.65
           ],
           "category": "museums",
-          "arrive_at": "13:50",
+          "arrive_at": "12:39",
           "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 5.0,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
           "tip_5lang": {
-            "de": "Die Buslinie 7 bringt Sie direkt zum Museum.",
-            "hu": "A 7-es buszjárat közvetlenül a múzeumhoz viszi.",
-            "ro": "Linia de autobuz 7 vă duce direct la muzeu.",
-            "en": "Bus line 7 takes you directly to the museum."
+            "de": "Nehmen Sie einen Bus in den nördlichen Teil der Stadt.",
+            "hu": "Menjen busszal a város északi részébe.",
+            "ro": "Luați un autobuz spre partea de nord a orașului.",
+            "en": "Take a bus to the northern part of the city."
           }
         },
         {
-          "name": {
+          "name_4lang": {
             "de": "Mühle von Pappas",
-            "hu": "Pappas malom",
+            "hu": "Pappas-malom",
             "ro": "Moara lui Pappas",
-            "en": "Pappas Mill"
+            "en": "Mill of Pappas"
           },
           "coords": [
-            22.4112,
-            39.6385
+            22.423,
+            39.648
           ],
           "category": "industrial heritage",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Museum aus zu erreichen.",
+            "hu": "Könnyen megközelíthető gyalog a múzeumtól.",
+            "ro": "Ușor de ajuns pe jos de la muzeu.",
+            "en": "An easy walk from the museum."
+          }
+        },
+        {
+          "name_4lang": {
+            "de": "Alkazar Park",
+            "hu": "Alkazar Park",
+            "ro": "Parcul Alkazar",
+            "en": "Alkazar Park"
+          },
+          "coords": [
+            22.419,
+            39.645
+          ],
+          "category": "parks/promenades/beaches",
           "arrive_at": "15:45",
           "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.0,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Befindet sich in der Nähe des Stadtzentrums.",
-            "hu": "A városközpont közelében található.",
-            "ro": "Situată aproape de centrul orașului.",
-            "en": "Located near the city center."
+            "de": "Schließen Sie Ihren Tag mit Entspannung im Park ab, bevor Sie zum Bahnhof zurückkehren.",
+            "hu": "Zárja a napot pihenéssel a parkban, mielőtt visszatérne az állomásra.",
+            "ro": "Încheiați ziua relaxându-vă în parc înainte de a vă întoarce la gară.",
+            "en": "End your day relaxing in the park before heading back to the station."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Larissa mit dem Stadtbus entdecken! Wir nutzen das effiziente Bussystem, um zwischen dem historischen Zentrum, dem Flussufer und dem Diachronischen Museum zu pendeln. Beginnen Sie beim antiken Theater, besichtigen Sie den Phrourio-Hügel und nehmen Sie den Bus zum Alkazar-Park. Ein Ausflug mit der Linie 7 zum modernen Museum im Süden rundet die kulturelle Entdeckungsreise ab.",
-        "hu": "Fedezze fel Larisszát helyi autóbusszal! A hatékony buszhálózatot használjuk a történelmi központ, a folyópart és a Diachronikus Múzeum közötti közlekedésre. Kezdjen az antik színháznál, nézze meg a Phrourio-dombot, majd busszal menjen az Alkazar parkba. A déli részen található modern múzeumba tett kirándulás a 7-es busszal teszi teljessé a kulturális felfedezést.",
-        "ro": "Descoperiți Larissa cu autobuzul local! Folosim sistemul eficient de autobuze pentru a naviga între centrul istoric, malul râului și Muzeul Diacronic. Începeți de la teatrul antic, vizitați dealul Phrourio și luați autobuzul către parcul Alkazar. O excursie cu linia 7 la muzeul modern din sud completează călătoria de descoperire culturală.",
-        "en": "Discover Larissa by city bus! We use the efficient bus system to commute between the historical center, the riverbank, and the Diachronic Museum. Start at the ancient theatre, see Phrourio Hill, and take the bus to Alkazar Park. A trip with line 7 to the modern museum in the south completes the cultural journey of discovery."
+        "de": "Mit einer Tageskarte beginnen Sie Ihre Erkundung im historischen Herzen von Larissa, wo der Bezesteni-Markt, das antike Theater und die Agios-Achillios-Kirche nur einen kurzen Spaziergang voneinander entfernt sind. Nach dem Eintauchen in die Antike bringt Sie ein Bus bequem in den nördlichen Teil der Stadt. Hier widmen Sie den Nachmittag der Erkundung des Diachronischen Museums, der industriellen Architektur der Mühle von Pappas und der grünen Weiten des Alkazar-Parks – alles in einem fußläufigen Cluster.",
+        "hu": "Egy napijeggyel kezdje a felfedezést Larissza történelmi szívében, ahol a Bezesteni Piac, az antik színház és az Agios Achillios-templom sétatávolságra vannak egymástól. Az ókorban való elmerülés után egy busz kényelmesen elviszi a város északi részébe. Itt a délutánt a Diakronikus Múzeum, a Pappas-malom ipari építészete és az Alkazar Park zöld területeinek felfedezésével tölti – mindezt egy gyalogosan bejárható klaszterben.",
+        "ro": "Cu un bilet de o zi, începeți explorarea în inima istorică a Larissei, unde Piața Bezesteni, teatrul antic și Biserica Agios Achillios sunt la o scurtă plimbare una de cealaltă. După imersiunea în antichitate, un autobuz vă duce confortabil în partea de nord a orașului. Aici, dedicați după-amiaza explorării Muzeului Diacronic, arhitecturii industriale a Morii lui Pappas și întinderilor verzi ale Parcului Alkazar, toate într-un cluster accesibil pe jos.",
+        "en": "Using a day pass, you'll start your exploration in the historic heart of Larissa, where the Bezesteni Market, ancient theatre, and Agios Achillios Church are a short walk from each other. After immersing yourself in antiquity, a bus will conveniently take you to the northern part of the city. Here, you'll dedicate the afternoon to exploring the Diachronic Museum, the industrial architecture of the Mill of Pappas, and the green expanses of Alkazar Park, all within a walkable cluster."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "To Palio Bezesteni",
-            "tip": "Traditionelle Gerichte in historischer Umgebung."
+            "name": "Gyros-Laden in der Nähe einer Bushaltestelle",
+            "tip": "Ein perfektes, schnelles Mittagessen, während Sie auf Ihren nächsten Bus warten."
+          },
+          {
+            "name": "Konditorei (Zacharoplasteio)",
+            "tip": "Gönnen Sie sich ein lokales Dessert wie Galaktoboureko."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "Ein mit Sesam überzogener Brotring, den Sie von Straßenverkäufern für einen leichten Snack kaufen können."
           }
         ],
         "hu": [
           {
-            "name": "To Palio Bezesteni",
-            "tip": "Hagyományos ételek történelmi környezetben."
+            "name": "Gyros-os egy buszmegálló közelében",
+            "tip": "Tökéletes, gyors ebéd, amíg a következő buszra vár."
+          },
+          {
+            "name": "Cukrászda (Zacharoplasteio)",
+            "tip": "Kényeztesse magát egy helyi desszerttel, például galaktobourekóval."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "Szezámmagos kenyérkarika, amelyet utcai árusoktól vásárolhat egy könnyű harapnivalóhoz."
           }
         ],
         "ro": [
           {
-            "name": "To Palio Bezesteni",
-            "tip": "Mâncăruri tradiționale într-un cadru istoric."
+            "name": "Shaormerie lângă o stație de autobuz",
+            "tip": "Un prânz perfect și rapid în timp ce așteptați următorul autobuz."
+          },
+          {
+            "name": "Cofetărie (Zacharoplasteio)",
+            "tip": "Răsfățați-vă cu un desert local precum Galaktoboureko."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "Un inel de pâine acoperit cu susan, cumpărat de la vânzătorii ambulanți pentru o gustare ușoară."
           }
         ],
         "en": [
           {
-            "name": "To Palio Bezesteni",
-            "tip": "Traditional dishes in a historic setting."
+            "name": "Gyros shop near a bus stop",
+            "tip": "A perfect, quick lunch while waiting for your next bus."
+          },
+          {
+            "name": "Pastry shop (Zacharoplasteio)",
+            "tip": "Treat yourself to a local dessert like galaktoboureko."
+          },
+          {
+            "name": "Koulouri",
+            "tip": "A sesame-covered bread ring, bought from street vendors for a light snack."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Botanischer Garten",
-            "tip": "Ein ruhiger Ort, um der Hektik zu entfliehen.",
+            "name": "Oberdeck des Busses",
+            "tip": "Genießen Sie die Aussicht auf die Stadt aus einer anderen Perspektive.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Kirchhof von Agios Achillios",
+            "tip": "Ein Moment der Ruhe im Herzen der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Weniger bekannte Parks",
+            "tip": "Steigen Sie eine Haltestelle früher oder später aus und entdecken Sie einen kleinen Nachbarschaftspark.",
             "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Botanikus kert",
-            "tip": "Csendes hely, hogy elmeneküljön a város zajától.",
+            "name": "A busz emelete",
+            "tip": "Élvezze a város látképét egy másik perspektívából.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Az Agios Achillios-templom udvara",
+            "tip": "Egy pillanatnyi béke a város szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kevésbé ismert parkok",
+            "tip": "Szálljon le egy megállóval korábban vagy később, és fedezzen fel egy kis, helyi parkot.",
             "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Grădina Botanică",
-            "tip": "Un loc liniștit pentru a scăpa de agitație.",
+            "name": "Etajul superior al autobuzului",
+            "tip": "Bucurați-vă de priveliștile orașului dintr-o perspectivă diferită.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Curtea bisericii Agios Achillios",
+            "tip": "Un moment de liniște în inima orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcuri mai puțin cunoscute",
+            "tip": "Coborâți cu o stație mai devreme sau mai târziu și descoperiți un mic parc de cartier.",
             "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Botanical Garden",
-            "tip": "A quiet place to escape the hustle and bustle.",
+            "name": "Top deck of the bus",
+            "tip": "Enjoy the city views from a different perspective.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Agios Achillios churchyard",
+            "tip": "A moment of peace in the heart of the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Lesser-known parks",
+            "tip": "Get off a stop early or late and discover a small neighborhood park.",
             "emoji": "🍃"
           }
         ]
@@ -1612,53 +2006,69 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Kouma-Straße",
-            "tip": "Die Haupteinkaufsstraße mit vielen Cafés."
+            "name": "Kioske (Periptera)",
+            "tip": "Kaufen Sie Tickets, Snacks und Getränke an diesen allgegenwärtigen Kiosken."
+          },
+          {
+            "name": "Geschäfte entlang der Buslinien",
+            "tip": "Entdecken Sie Geschäfte außerhalb des unmittelbaren Stadtzentrums."
           }
         ],
         "hu": [
           {
-            "name": "Kouma utca",
-            "tip": "A fő bevásárlóutca számos kávézóval."
+            "name": "Kioszkok (Periptera)",
+            "tip": "Vásároljon jegyeket, rágcsálnivalókat és italokat ezekben a mindenütt jelenlévő kioszkokban."
+          },
+          {
+            "name": "Üzletek a buszvonalak mentén",
+            "tip": "Fedezzen fel üzleteket a közvetlen városközponton kívül."
           }
         ],
         "ro": [
           {
-            "name": "Strada Kouma",
-            "tip": "Principala stradă comercială cu multe cafenele."
+            "name": "Chioșcuri (Periptera)",
+            "tip": "Cumpărați bilete, gustări și băuturi de la aceste chioșcuri omniprezente."
+          },
+          {
+            "name": "Magazine de-a lungul rutelor de autobuz",
+            "tip": "Descoperiți magazine în afara centrului imediat al orașului."
           }
         ],
         "en": [
           {
-            "name": "Kouma Street",
-            "tip": "The main shopping street with many cafes."
+            "name": "Kiosks (Periptera)",
+            "tip": "Buy tickets, snacks, and drinks from these ubiquitous kiosks."
+          },
+          {
+            "name": "Shops along bus routes",
+            "tip": "Discover shops outside the immediate city center."
           }
         ]
       },
       "tips": {
         "de": [
-          "Bustickets können an Kiosken oder beim Fahrer gekauft werden.",
-          "Die blauen Busse bedienen das Stadtzentrum.",
-          "Laden Sie die lokale Bus-App für Echtzeit-Infos herunter.",
-          "Vermeiden Sie die Stoßzeiten am frühen Nachmittag."
+          "Laden Sie eine lokale ÖPNV-App herunter, um die Busfahrpläne zu verfolgen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Die Busse können zu Stoßzeiten überfüllt sein.",
+          "Fragen Sie den Fahrer oder Einheimische, wenn Sie sich bei einer Haltestelle unsicher sind."
         ],
         "hu": [
-          "Buszjegyeket az újságosoknál vagy a sofőrnél lehet vásárolni.",
-          "A kék buszok szolgálják ki a városközpontot.",
-          "Töltse le a helyi buszos alkalmazást a valós idejű információkért.",
-          "Kerülje el a kora délutáni csúcsforgalmat."
+          "Töltsön le egy helyi tömegközlekedési alkalmazást a buszmenetrendek követéséhez.",
+          "Érvényesítse a jegyét, amikor felszáll a buszra.",
+          "A buszok csúcsidőben zsúfoltak lehetnek.",
+          "Kérdezze meg a sofőrt vagy a helyieket, ha bizonytalan egy megállóval kapcsolatban."
         ],
         "ro": [
-          "Biletele de autobuz pot fi cumpărate de la chioșcuri sau de la șofer.",
-          "Autobuzele albastre deservesc centrul orașului.",
-          "Descărcați aplicația locală de transport pentru info în timp real.",
-          "Evitați orele de vârf de la începutul după-amiezii."
+          "Descărcați o aplicație locală de transport public pentru a urmări orarele autobuzelor.",
+          "Validați biletul la urcarea în autobuz.",
+          "Autobuzele pot fi aglomerate la orele de vârf.",
+          "Întrebați șoferul sau localnicii dacă nu sunteți sigur de o stație."
         ],
         "en": [
-          "Bus tickets can be bought at kiosks or from the driver.",
-          "The blue buses serve the city center.",
-          "Download the local bus app for real-time info.",
-          "Avoid rush hours in the early afternoon."
+          "Download a local public transport app to track bus schedules.",
+          "Validate your ticket when you board the bus.",
+          "Buses can be crowded during peak hours.",
+          "Ask the driver or locals if you're unsure about a stop."
         ]
       },
       "variants": {

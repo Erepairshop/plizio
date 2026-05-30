@@ -1,0 +1,995 @@
+{
+  "city_id": "aalen-extra",
+  "anchor": {
+    "name": "Aalen Marktplatz",
+    "coords": [
+      10.095,
+      48.837
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Aalen",
+            "hu": "Aaleni piactér",
+            "ro": "Piața de piață Aalen",
+            "en": "Aalen Market Square"
+          },
+          "coords": [
+            10.095,
+            48.837
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre am historischen Brunnen.",
+            "hu": "Élvezze a hangulatot a történelmi kútnál.",
+            "ro": "Bucurați-vă de atmosferă la fântâna istorică.",
+            "en": "Enjoy the atmosphere at the historical fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus mit dem Aalener Spion",
+            "hu": "Városháza az Aaleni Kémmel",
+            "ro": "Primăria cu Spionul din Aalen",
+            "en": "Town Hall with the Aalen Spy"
+          },
+          "coords": [
+            10.094,
+            48.838
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Figur am Turm, die die Stadt bewacht.",
+            "hu": "Figyelje a toronyban lévő figurát, aki a várost vigyázza.",
+            "ro": "Căutați figura de pe turn care păzește orașul.",
+            "en": "Watch for the figure on the tower guarding the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Stadtkirche",
+            "hu": "Evangélikus Városi Templom",
+            "ro": "Biserica Evanghelică",
+            "en": "Evangelical City Church"
+          },
+          "coords": [
+            10.096,
+            48.839
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein bedeutendes barockes Bauwerk im Zentrum.",
+            "hu": "Egy jelentős barokk épület a központban.",
+            "ro": "O clădire barocă importantă în centru.",
+            "en": "A significant baroque building in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schillerhöhe",
+            "hu": "Schiller-magaslat",
+            "ro": "Schillerhöhe",
+            "en": "Schillerhöhe Viewpoint"
+          },
+          "coords": [
+            10.105,
+            48.835
+          ],
+          "category": "natural features",
+          "arrive_at": "11:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick über die Dächer der Stadt.",
+            "hu": "A legjobb panoráma a város háztetőire.",
+            "ro": "Cea mai bună vedere panoramică peste acoperișurile orașului.",
+            "en": "Best panoramic view over the city roofs."
+          }
+        },
+        {
+          "name": {
+            "de": "Limesmuseum Aalen",
+            "hu": "Limes Múzeum",
+            "ro": "Muzeul Limes",
+            "en": "Limes Museum Aalen"
+          },
+          "coords": [
+            10.084,
+            48.836
+          ],
+          "category": "museums",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "UNESCO-Welterbe: Erfahren Sie alles über die Römerzeit.",
+            "hu": "UNESCO Világörökség: tudjon meg mindent a római korról.",
+            "ro": "Patrimoniu UNESCO: aflați totul despre epoca romană.",
+            "en": "UNESCO World Heritage: learn all about the Roman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Limes-Thermen",
+            "hu": "Limes Termálfürdő",
+            "ro": "Termele Limes",
+            "en": "Limes Thermal Baths"
+          },
+          "coords": [
+            10.076,
+            48.832
+          ],
+          "category": "natural features",
+          "arrive_at": "14:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie im mineralreichen Heilwasser.",
+            "hu": "Lazítson az ásványi anyagokban gazdag gyógyvízben.",
+            "ro": "Relaxați-vă în apa termală bogată în minerale.",
+            "en": "Relax in the mineral-rich healing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Aalen auf dem Marktplatz, wo der berühmte Aalener Spion am Rathausturm über die Gassen wacht. Nach einem Besuch der barocken Stadtkirche führt ein kurzer Spaziergang hinauf zur Schillerhöhe für einen weiten Rundblick. Der Nachmittag widmet sich dem römischen Erbe im Limesmuseum, bevor Sie den Tag entspannt in den warmen Quellen der Limes-Thermen ausklingen lassen.",
+        "hu": "Napja Aalen történelmi szívében kezdődik a piactéren, ahol a híres Aaleni Kém őrzi az utcákat a városháza tornyából. A barokk városi templom megtekintése után rövid séta vezet fel a Schillerhöhe-re a tágas panorámáért. A délután a római örökségé a Limes Múzeumban, mielőtt a napot a Limes Termálfürdő meleg forrásaiban pihenné ki.",
+        "ro": "Ziua începe în inima istorică a orașului Aalen, în Piața de piață, unde faimosul Spion din Aalen veghează străzile de pe turnul primăriei. După o vizită la biserica barocă, o scurtă plimbare vă duce la Schillerhöhe pentru o vedere panoramică. După-amiaza este dedicată moștenirii romane la Muzeul Limes, înainte de a încheia ziua relaxându-vă în apele termale ale Termelor Limes.",
+        "en": "Your day starts in the historical heart of Aalen at the Market Square, where the famous Aalen Spy watches over the streets from the town hall tower. After visiting the baroque city church, a short walk leads up to Schillerhöhe for a sweeping view. The afternoon is dedicated to Roman heritage at the Limes Museum, before ending the day relaxing in the warm springs of the Limes Thermal Baths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aalener Maultaschen",
+            "tip": "Probieren Sie die hausgemachten Teigtaschen in einer der Altstadtgaststätten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aaleni Maultaschen",
+            "tip": "Kóstolja meg a házi készítésű töltött tésztát az óvárosi vendéglők egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maultaschen de Aalen",
+            "tip": "Încercați găluștele umplute de casă într-unul dintre restaurantele din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aalen Maultaschen",
+            "tip": "Try the homemade stuffed pasta in one of the old town restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schillerhöhe Park",
+            "tip": "Ruhiger Ort für ein Picknick mit Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schillerhöhe Park",
+            "tip": "Csendes hely egy piknikhez kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Schillerhöhe",
+            "tip": "Loc liniștit pentru un picnic cu vedere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schillerhöhe Park",
+            "tip": "Quiet spot for a picnic with a view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Spezialitäten direkt von den Erzeugern der Ostalb."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális specialitások közvetlenül az Ostalb termelőitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Specialități regionale direct de la producătorii din Ostalb."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional specialties directly from the producers of the Ostalb."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Aalen ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Die Limes-Thermen bieten abends oft Sondertarife an.",
+          "Der Aalener Spion taucht an vielen Stellen als Souvenir auf."
+        ],
+        "hu": [
+          "Aalen nagyon dombos, viseljen kényelmes cipőt.",
+          "A Limes-fürdő este gyakran kínál kedvezményes tarifákat.",
+          "Az Aaleni Kém sok helyen felbukkan szuvenírként."
+        ],
+        "ro": [
+          "Aalen este foarte deluros, purtați pantofi confortabili.",
+          "Termele Limes oferă adesea tarife speciale seara.",
+          "Spionul din Aalen apare în multe locuri ca suvenir."
+        ],
+        "en": [
+          "Aalen is very hilly, wear comfortable shoes.",
+          "The Limes Thermal Baths often offer special rates in the evening.",
+          "The Aalen Spy appears in many places as a souvenir."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Aalen",
+            "hu": "Aaleni piactér",
+            "ro": "Piața de piață Aalen",
+            "en": "Aalen Market Square"
+          },
+          "coords": [
+            10.095,
+            48.837
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Kiindulópont a város szívében.",
+            "ro": "Punct de plecare în inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Besucherbergwerk Tiefer Stollen",
+            "hu": "Tiefer Stollen látogatóbánya",
+            "ro": "Mina Tiefer Stollen",
+            "en": "Besucherbergwerk Tiefer Stollen"
+          },
+          "coords": [
+            10.117,
+            48.855
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Grubenbahn tief in den Berg.",
+            "hu": "Utazzon bányavasúttal mélyen a hegy gyomrába.",
+            "ro": "Călătoriți cu trenul minier adânc în munte.",
+            "en": "Ride the mine train deep into the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fachsenfeld",
+            "hu": "Fachsenfeld kastély",
+            "ro": "Castelul Fachsenfeld",
+            "en": "Schloss Fachsenfeld"
+          },
+          "coords": [
+            10.048,
+            48.884
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Landschaftspark und historische Bibliothek.",
+            "hu": "Gyönyörű tájképi park és történelmi könyvtár.",
+            "ro": "Parc peisagistic frumos și bibliotecă istorică.",
+            "en": "Beautiful landscape park and historical library."
+          }
+        },
+        {
+          "name": {
+            "de": "Limesmuseum Aalen",
+            "hu": "Limes Múzeum",
+            "ro": "Muzeul Limes",
+            "en": "Limes Museum Aalen"
+          },
+          "coords": [
+            10.084,
+            48.836
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Spannende Einblicke in das Leben am Limes.",
+            "hu": "Izgalmas betekintés a limes menti életbe.",
+            "ro": "Perspective fascinante asupra vieții pe Limes.",
+            "en": "Exciting insights into life on the Limes."
+          }
+        },
+        {
+          "name": {
+            "de": "Limes-Thermen",
+            "hu": "Limes Termálfürdő",
+            "ro": "Termele Limes",
+            "en": "Limes Thermal Baths"
+          },
+          "coords": [
+            10.076,
+            48.832
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Entspannung nach der Radtour.",
+            "hu": "Rövid lazítás a biciklitúra után.",
+            "ro": "Scurtă relaxare după turul cu bicicleta.",
+            "en": "Short relaxation after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour führt Sie zunächst aus der Stadt hinaus zum Besucherbergwerk Tiefer Stollen, wo Sie die Bergbaugeschichte unter Tage erleben. Über idyllische Wege radeln Sie weiter zum Schloss Fachsenfeld mit seinem beeindruckenden Park. Zurück in Aalen besuchen Sie das Limesmuseum und gönnen sich zum Abschluss ein Bad in den Thermalquellen.",
+        "hu": "A biciklitúra először a városon kívülre, a Tiefer Stollen látogatóbányához vezet, ahol megismerheti a föld alatti bányászat történetét. Idilli utakon tekerhet tovább a Fachsenfeld kastélyhoz és annak lenyűgöző parkjához. Visszatérve Aalenbe, látogasson el a Limes Múzeumba, majd fejezze be a napot egy fürdőzéssel a termálforrásokban.",
+        "ro": "Turul cu bicicleta vă duce mai întâi în afara orașului la mina Tiefer Stollen, unde veți experimenta istoria mineritului în subteran. Pedalați pe drumuri idilice spre Castelul Fachsenfeld, cu parcul său impresionant. Reveniți în Aalen pentru a vizita Muzeul Limes și încheiați cu o baie în izvoarele termale.",
+        "en": "The bike tour first takes you out of the city to the Tiefer Stollen show mine, where you can experience mining history underground. Cycle on idyllic paths to Fachsenfeld Castle with its impressive park. Back in Aalen, visit the Limes Museum and finish the day with a soak in the thermal springs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten am Stollen",
+            "tip": "Ideale Raststation für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biergarten am Stollen",
+            "tip": "Ideális pihenőhely kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten am Stollen",
+            "tip": "Stație de odihnă ideală pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biergarten am Stollen",
+            "tip": "Ideal rest stop for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Fachsenfeld",
+            "tip": "Ein botanisches Juwel der Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fachsenfeldi kastélypark",
+            "tip": "A nyugalom botanikai ékszerdoboza.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Fachsenfeld",
+            "tip": "O bijuterie botanică de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fachsenfeld Castle Park",
+            "tip": "A botanical jewel of peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen Fachsenfeld",
+            "tip": "Frische Produkte aus der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fachsenfeldi udvari bolt",
+            "tip": "Friss termékek a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul fermei Fachsenfeld",
+            "tip": "Produse proaspete din împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fachsenfeld Farm Shop",
+            "tip": "Fresh local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Fachsenfeld hat einige Steigungen.",
+          "Ein E-Bike ist für die Ostalb-Region empfehlenswert."
+        ],
+        "hu": [
+          "A Fachsenfeld felé vezető út tartogat néhány emelkedőt.",
+          "Az Ostalb régióban ajánlott az elektromos kerékpár."
+        ],
+        "ro": [
+          "Traseul spre Fachsenfeld are câteva pante.",
+          "O bicicletă electrică este recomandată pentru regiunea Ostalb."
+        ],
+        "en": [
+          "The route to Fachsenfeld has some inclines.",
+          "An e-bike is recommended for the Ostalb region."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Aalen",
+            "hu": "Aaleni piactér",
+            "ro": "Piața de piață Aalen",
+            "en": "Aalen Market Square"
+          },
+          "coords": [
+            10.095,
+            48.837
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Mercatura.",
+            "hu": "Parkoljon a Mercatura parkolóházban.",
+            "ro": "Parcați în parcarea Mercatura.",
+            "en": "Park in the Mercatura car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & Spion",
+            "hu": "Városháza és a Kém",
+            "ro": "Primăria și Spionul",
+            "en": "Town Hall & Spy"
+          },
+          "coords": [
+            10.094,
+            48.838
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare de la piață.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Limesmuseum Aalen",
+            "hu": "Limes Múzeum",
+            "ro": "Muzeul Limes",
+            "en": "Limes Museum Aalen"
+          },
+          "coords": [
+            10.084,
+            48.836
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Museum vorhanden.",
+            "hu": "Nagy parkoló közvetlenül a múzeumnál.",
+            "ro": "Parcare mare disponibilă direct la muzeu.",
+            "en": "Large parking lot available directly at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Besucherbergwerk Tiefer Stollen",
+            "hu": "Tiefer Stollen látogatóbánya",
+            "ro": "Mina Tiefer Stollen",
+            "en": "Besucherbergwerk Tiefer Stollen"
+          },
+          "coords": [
+            10.117,
+            48.855
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Warme Kleidung für unter Tage nicht vergessen!",
+            "hu": "Ne felejtsen el meleg ruhát vinni a föld alá!",
+            "ro": "Nu uitați haine groase pentru subteran!",
+            "en": "Don't forget warm clothes for underground!"
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fachsenfeld",
+            "hu": "Fachsenfeld kastély",
+            "ro": "Castelul Fachsenfeld",
+            "en": "Schloss Fachsenfeld"
+          },
+          "coords": [
+            10.048,
+            48.884
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Besuch der historischen Bibliothek lohnt sich.",
+            "hu": "A történelmi könyvtár megtekintése megéri.",
+            "ro": "Merită vizitată biblioteca istorică.",
+            "en": "The historical library is worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Limes-Thermen",
+            "hu": "Limes Termálfürdő",
+            "ro": "Termele Limes",
+            "en": "Limes Thermal Baths"
+          },
+          "coords": [
+            10.076,
+            48.832
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Baden wie die alten Römer.",
+            "hu": "Fürödjön úgy, mint a régi rómaiak.",
+            "ro": "Baie ca vechii romani.",
+            "en": "Bathe like the ancient Romans."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie bequem die Highlights von Aalen und Umgebung. Starten Sie in der Altstadt, erkunden Sie dann das faszinierende Limesmuseum und fahren Sie weiter zum Besucherbergwerk Tiefer Stollen für ein untertägiges Abenteuer. Ein Ausflug zum Schloss Fachsenfeld bietet Kultur und Natur, bevor Sie sich zum Abschluss in den Limes-Thermen regenerieren.",
+        "hu": "Autóval kényelmesen elérheti Aalen és környéke fénypontjait. Kezdjen az óvárosban, fedezze fel a lenyűgöző Limes Múzeumot, majd menjen tovább a Tiefer Stollen látogatóbányába egy föld alatti kalandra. Egy kirándulás a Fachsenfeld kastélyhoz kultúrát és természetet kínál, mielőtt a nap végén a Limes Termálfürdőben regenerálódna.",
+        "ro": "Cu mașina, puteți ajunge confortabil la cele mai importante atracții din Aalen și împrejurimi. Începeți în centrul vechi, explorați fascinantul Muzeu Limes și continuați spre mina Tiefer Stollen pentru o aventură subterană. O excursie la Castelul Fachsenfeld oferă cultură și natură, înainte de a vă regenera la final în Termele Limes.",
+        "en": "By car, you can comfortably reach the highlights of Aalen and its surroundings. Start in the old town, explore the fascinating Limes Museum, and drive to the Tiefer Stollen show mine for an underground adventure. A trip to Fachsenfeld Castle offers culture and nature, before regenerating at the Limes Thermal Baths at the end."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof zum Lamm",
+            "tip": "Traditionelle schwäbische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof zum Lamm",
+            "tip": "Hagyományos sváb konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof zum Lamm",
+            "tip": "Bucătărie tradițională șvabă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof zum Lamm",
+            "tip": "Traditional Swabian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aalbäumle",
+            "tip": "Aussichtsturm im Wald (kurze Fahrt + Wanderung).",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aalbäumle",
+            "tip": "Kilátó az erdőben (rövid autóút + túra).",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aalbäumle",
+            "tip": "Turn de observație în pădure (scurt drum cu mașina + drumeție).",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aalbäumle",
+            "tip": "Observation tower in the forest (short drive + hike).",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercatura Aalen",
+            "tip": "Modernes Einkaufszentrum im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercatura Aalen",
+            "tip": "Modern bevásárlóközpont a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercatura Aalen",
+            "tip": "Centru comercial modern în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercatura Aalen",
+            "tip": "Modern shopping mall in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsuche in der Altstadt kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Reservieren Sie Tickets für das Besucherbergwerk vorab."
+        ],
+        "hu": [
+          "Az óvárosban nehéz lehet a parkolás, használja a parkolóházakat.",
+          "Foglaljon jegyet előre a látogatóbányába."
+        ],
+        "ro": [
+          "Găsirea unui loc de parcare în centrul vechi poate fi dificilă, folosiți parcările etajate.",
+          "Rezervați bilete pentru mină în avans."
+        ],
+        "en": [
+          "Parking in the old town can be difficult, use multi-story car parks.",
+          "Book tickets for the show mine in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Aalen",
+            "hu": "Aaleni piactér",
+            "ro": "Piața de piață Aalen",
+            "en": "Aalen Market Square"
+          },
+          "coords": [
+            10.095,
+            48.837
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nur 5 Min. Fußweg vom Hauptbahnhof.",
+            "hu": "Csak 5 perc séta a főpályaudvartól.",
+            "ro": "Doar 5 minute de mers pe jos de la gara centrală.",
+            "en": "Just 5 min walk from the main station."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus mit Spion",
+            "hu": "Városháza a Kémmel",
+            "ro": "Primăria cu Spionul",
+            "en": "Town Hall with Spy"
+          },
+          "coords": [
+            10.094,
+            48.838
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:42",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historisches Zentrum zu Fuß erkunden.",
+            "hu": "Fedezze fel a történelmi központot gyalog.",
+            "ro": "Explorați centrul istoric la pas.",
+            "en": "Explore the historical center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Limesmuseum Aalen",
+            "hu": "Limes Múzeum",
+            "ro": "Muzeul Limes",
+            "en": "Limes Museum Aalen"
+          },
+          "coords": [
+            10.084,
+            48.836
+          ],
+          "category": "museums",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 42 Richtung Wasseralfingen.",
+            "hu": "42-es busz Wasseralfingen felé.",
+            "ro": "Linia de autobuz 42 spre Wasseralfingen.",
+            "en": "Bus line 42 towards Wasseralfingen."
+          }
+        },
+        {
+          "name": {
+            "de": "Besucherbergwerk Tiefer Stollen",
+            "hu": "Tiefer Stollen látogatóbánya",
+            "ro": "Mina Tiefer Stollen",
+            "en": "Besucherbergwerk Tiefer Stollen"
+          },
+          "coords": [
+            10.117,
+            48.855
+          ],
+          "category": "museums",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Haltestelle Bergbau-Museum.",
+            "hu": "Bányamúzeum megálló.",
+            "ro": "Stația Muzeul Mineritului.",
+            "en": "Bergbau-Museum stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Limes-Thermen",
+            "hu": "Limes Termálfürdő",
+            "ro": "Termele Limes",
+            "en": "Limes Thermal Baths"
+          },
+          "coords": [
+            10.076,
+            48.832
+          ],
+          "category": "natural features",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Direkter Bus vom ZOB Aalen.",
+            "hu": "Közvetlen busz az aaleni ZOB-ról.",
+            "ro": "Autobuz direct de la ZOB Aalen.",
+            "en": "Direct bus from Aalen ZOB."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Aalen lässt sich hervorragend mit dem dichten Busnetz erkunden. Starten Sie zentral am Marktplatz und nutzen Sie die Stadtbusse, um zum Limesmuseum und zum Besucherbergwerk in Wasseralfingen zu gelangen. Den krönenden Abschluss bildet die Fahrt zu den Limes-Thermen, die perfekt an den Nahverkehr angebunden sind.",
+        "hu": "Aalen kiválóan felfedezhető a sűrű buszhálózattal. Kezdjen központilag a piactéren, és használja a városi buszokat a Limes Múzeumhoz és a wasseralfingeni látogatóbányához. A napot a Limes Termálfürdőbe tett utazás koronázza meg, amely tökéletesen kapcsolódik a tömegközlekedéshez.",
+        "ro": "Aalen poate fi explorat excelent cu rețeaua densă de autobuze. Începeți central în Piața de piață și folosiți autobuzele urbane pentru a ajunge la Muzeul Limes și la mina din Wasseralfingen. Punctul culminant este drumul spre Termele Limes, care sunt perfect conectate la transportul public.",
+        "en": "Aalen can be easily explored with the dense bus network. Start centrally at the Market Square and use the city buses to reach the Limes Museum and the show mine in Wasseralfingen. The highlight is the trip to the Limes Thermal Baths, which are perfectly connected to public transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Kretzschmar",
+            "tip": "Holen Sie sich eine Brezel für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kretzschmar pékség",
+            "tip": "Vegyél egy perecet tízóraira."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Kretzschmar",
+            "tip": "Luați un covrig pentru gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kretzschmar Bakery",
+            "tip": "Grab a pretzel for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Grüne Oase unweit des Busbahnhofs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Zöld oázis a buszpályaudvar közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Oază verde nu departe de autogară.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtgarten",
+            "tip": "Green oasis not far from the bus station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bücher-Oase",
+            "tip": "Gemütliche Buchhandlung in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bücher-Oase",
+            "tip": "Hangulatos könyvesbolt a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bücher-Oase",
+            "tip": "Librărie primitoare în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bücher-Oase",
+            "tip": "Cozy bookstore in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtverkehr Aalen.",
+          "Die App 'OstalbMobil' hilft bei der Fahrplanauskunft."
+        ],
+        "hu": [
+          "Vásároljon napijegyet az aaleni városi közlekedéshez.",
+          "Az 'OstalbMobil' app segít a menetrendi tájékozódásban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul urban din Aalen.",
+          "Aplicația 'OstalbMobil' vă ajută cu informații despre program."
+        ],
+        "en": [
+          "Buy a day ticket for Aalen city transport.",
+          "The 'OstalbMobil' app helps with timetable information."
+        ]
+      }
+    }
+  }
+}

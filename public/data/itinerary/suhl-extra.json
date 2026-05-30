@@ -1,0 +1,1039 @@
+{
+  "city_id": "suhl-extra",
+  "anchor": {
+    "name": "Suhler Marktplatz",
+    "coords": [
+      10.692,
+      50.6108
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Suhler Marktplatz",
+          "coords": [
+            10.692,
+            50.6108
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundere das Rathaus und die Statue des Waffenschmieds.",
+            "hu": "Csodáld meg a városházát és a fegyverkovács szobrát.",
+            "ro": "Admiră primăria și statuia armurierului în piață.",
+            "en": "Admire the town hall and the 'Waffenschmied' statue."
+          }
+        },
+        {
+          "name": "Marienkirche",
+          "coords": [
+            10.6935,
+            50.6108
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Größte erhaltene Barockkirche in Thüringen.",
+            "hu": "Türingia legnagyobb épségben maradt barokk temploma.",
+            "ro": "Cea mai mare biserică barocă păstrată din Turingia.",
+            "en": "The largest preserved Baroque church in Thuringia."
+          }
+        },
+        {
+          "name": "Waffenmuseum Suhl",
+          "coords": [
+            10.693,
+            50.6105
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahre alles über die jahrhundertelange Tradition der Waffenstadt.",
+            "hu": "Ismerd meg a fegyverváros évszázados hagyományait.",
+            "ro": "Află totul despre tradiția seculară a orașului armelor.",
+            "en": "Learn all about the centuries-old tradition of the weapon city."
+          }
+        },
+        {
+          "name": "Mittagessen am Marktplatz",
+          "coords": [
+            10.6925,
+            50.6102
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probiere eine echte Thüringer Rostbratwurst.",
+            "hu": "Kóstolj meg egy igazi türingiai sült kolbászt.",
+            "ro": "Gustă un cârnat autentic Thüringer Rostbratwurst.",
+            "en": "Try a real Thuringian Rostbratwurst."
+          }
+        },
+        {
+          "name": "Fahrzeugmuseum Suhl (CCS)",
+          "coords": [
+            10.687,
+            50.61
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Heimat der legendären Simson-Zweiräder.",
+            "hu": "A legendás Simson kétkerekűek otthona.",
+            "ro": "Locul unde s-au născut legendarele motociclete Simson.",
+            "en": "Home of the legendary Simson motorcycles."
+          }
+        },
+        {
+          "name": "Ottilienkapelle",
+          "coords": [
+            10.698,
+            50.612
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kleiner Aufstieg mit schönem Blick über die Stadt.",
+            "hu": "Rövid emelkedő szép kilátással a városra.",
+            "ro": "O urcare scurtă cu o vedere frumoasă asupra orașului.",
+            "en": "A short climb with a beautiful view over the city."
+          }
+        },
+        {
+          "name": "Abschluss im Zentrum",
+          "coords": [
+            10.6915,
+            50.6105
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genieße die Abendstimmung im Thüringer Wald.",
+            "hu": "Élvezd az esti hangulatot a Türingiai-erdőben.",
+            "ro": "Bucură-te de atmosfera serii în Pădurea Turingiei.",
+            "en": "Enjoy the evening atmosphere in the Thuringian Forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Suhl, am Südhang des Thüringer Waldes gelegen, blickt auf eine reiche Geschichte als Waffenstadt zurück. Dein Tag beginnt am historischen Marktplatz mit der Marienkirche. Nach dem Besuch des einzigartigen Waffenmuseums und einem herzhaften Mittagessen führt dich der Weg zum Fahrzeugmuseum, wo die Simson-Kultmopeds warten. Der Tag endet mit einem beschaulichen Blick von der Ottilienkapelle.",
+        "hu": "Suhl a Türingiai-erdő déli lejtőjén fekszik, és gazdag múltra tekint vissza fegyvergyártó központként. A napod a történelmi piactéren és a Marienkirche templomnál indul. Az egyedülálló fegyvermúzeum és egy kiadós ebéd után a Járműmúzeumba látogatsz, ahol a kultikus Simson motorok várnak. A napot az Ottilienkapelle kápolnától nyíló panorámával zárhatod.",
+        "ro": "Suhl, situat pe versantul sudic al Pădurii Turingiei, are o istorie bogată ca oraș al armelor. Ziua ta începe în piața istorică, lângă Marienkirche. După vizitarea unicului muzeu al armelor și un prânz copios, drumul te duce la Muzeul Vehiculelor, unde te așteaptă legendarele mopede Simson. Ziua se încheie cu o vedere liniștită de la Capela Ottilie.",
+        "en": "Suhl, located on the southern slope of the Thuringian Forest, has a rich history as a city of weapons. Your day starts at the historic market square with the St. Mary's Church. After visiting the unique weapon museum and a hearty lunch, head to the vehicle museum, where cult Simson motorcycles await. The day concludes with a peaceful view from the Ottilie Chapel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gaststätte 'Zum Waffenschmied'",
+            "tip": "Traditionelle Thüringer Küche direkt am Marktplatz."
+          },
+          {
+            "name": "Bratwurststand am Markt",
+            "tip": "Das beste Streetfood: Thüringer Rostbratwurst vom Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gaststätte 'Zum Waffenschmied'",
+            "tip": "Hagyományos türingiai konyha közvetlenül a piactéren."
+          },
+          {
+            "name": "Bratwurst-árus a piacon",
+            "tip": "A legjobb gyorsétel: grillen sült türingiai kolbász."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gaststätte 'Zum Waffenschmied'",
+            "tip": "Bucătărie tradițională turingiană chiar în piața centrală."
+          },
+          {
+            "name": "Standul de cârnați din piață",
+            "tip": "Cea mai bună mâncare de stradă: cârnat turingian la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gaststätte 'Zum Waffenschmied'",
+            "tip": "Traditional Thuringian cuisine directly on the market square."
+          },
+          {
+            "name": "Bratwurst stand at the market",
+            "tip": "The best street food: Thuringian Rostbratwurst from the grill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ottilienkapelle",
+            "tip": "Ein ruhiger Rückzugsort oberhalb der Stadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedberg",
+            "tip": "Ideal für einen ruhigen Waldspaziergang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ottilienkapelle",
+            "tip": "Csendes menedékhely a város felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedberg",
+            "tip": "Ideális egy nyugodt erdei sétához.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ottilienkapelle",
+            "tip": "Un refugiu liniștit deasupra orașului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedberg",
+            "tip": "Ideal pentru o plimbare liniștită prin pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ottilie Chapel",
+            "tip": "A quiet retreat above the city.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Friedberg",
+            "tip": "Ideal for a peaceful forest walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Suhl-Shop im CCS",
+            "tip": "Regionale Souvenirs und Simson-Merchandise."
+          },
+          {
+            "name": "Steinweg",
+            "tip": "Die zentrale Einkaufsstraße von Suhl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suhl-Shop a CCS-ben",
+            "tip": "Regionális szuvenírek és Simson-termékek."
+          },
+          {
+            "name": "Steinweg",
+            "tip": "Suhl központi bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suhl-Shop la CCS",
+            "tip": "Suveniruri regionale și articole Simson."
+          },
+          {
+            "name": "Steinweg",
+            "tip": "Principala stradă comercială din Suhl."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suhl-Shop at CCS",
+            "tip": "Regional souvenirs and Simson merchandise."
+          },
+          {
+            "name": "Steinweg",
+            "tip": "Suhl's central shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist gut zu Fuß erkundbar, aber es gibt einige Steigungen.",
+          "Besuche das Waffenmuseum unbedingt früh, um die Details zu genießen.",
+          "Wanderschuhe sind auch für die Stadttour ratsam.",
+          "Das Wetter im Thüringer Wald kann schnell umschlagen."
+        ],
+        "hu": [
+          "A belváros jól bejárható gyalog, de számíts némi emelkedőre.",
+          "Érdemes korán menni a fegyvermúzeumba, hogy legyen idő a részletekre.",
+          "Túracipő ajánlott még a városnézéshez is.",
+          "A Türingiai-erdőben az időjárás gyorsan változhat."
+        ],
+        "ro": [
+          "Centrul orașului poate fi explorat ușor la pas, dar există pante.",
+          "Vizitează muzeul armelor devreme pentru a savura toate detaliile.",
+          "Încălțămintea de drumeție este recomandată chiar și pentru turul orașului.",
+          "Vremea în Pădurea Turingiei se poate schimba rapid."
+        ],
+        "en": [
+          "The city center is easy to explore on foot, but expect some inclines.",
+          "Be sure to visit the weapon museum early to enjoy the details.",
+          "Hiking shoes are recommended even for the city tour.",
+          "The weather in the Thuringian Forest can change quickly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Suhler Marktplatz",
+          "coords": [
+            10.692,
+            50.6108
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Indulópont a város szívében.",
+            "ro": "Punctul de plecare din inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": "Bismarckturm auf dem Domberg",
+          "coords": [
+            10.685,
+            50.603
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber die beste Aussicht auf Suhl.",
+            "hu": "Meredek emelkedő, de innen a legjobb a kilátás Suhlra.",
+            "ro": "Urcare abruptă, dar cea mai bună vedere asupra orașului.",
+            "en": "Steep climb, but the best view of Suhl."
+          }
+        },
+        {
+          "name": "Tierpark Suhl",
+          "coords": [
+            10.715,
+            50.605
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Heimische Tiere in schöner Waldlage.",
+            "hu": "Hazai állatok gyönyörű erdei környezetben.",
+            "ro": "Animale locale într-un cadru forestier superb.",
+            "en": "Native animals in a beautiful forest location."
+          }
+        },
+        {
+          "name": "Lunch im Zentrum",
+          "coords": [
+            10.6925,
+            50.61
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Stärke dich für den Nachmittag.",
+            "hu": "Gyűjts erőt a délutánra.",
+            "ro": "Prinde puteri pentru după-amiază.",
+            "en": "Refuel for the afternoon."
+          }
+        },
+        {
+          "name": "Fahrzeugmuseum Suhl",
+          "coords": [
+            10.687,
+            50.61
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Passend zum Rad-Tag: Die Geschichte der Simson-Zweiräder.",
+            "hu": "A bringás naphoz illően: a Simson motorok története.",
+            "ro": "Potrivit pentru o zi pe roți: istoria mopedelor Simson.",
+            "en": "Fitting for a bike day: The history of Simson two-wheelers."
+          }
+        },
+        {
+          "name": "Congress Centrum Suhl",
+          "coords": [
+            10.6875,
+            50.6095
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Modernes Kulturzentrum mit interessanter Architektur.",
+            "hu": "Modern kulturális központ érdekes építészettel.",
+            "ro": "Centru cultural modern cu o arhitectură interesantă.",
+            "en": "Modern cultural center with interesting architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Suhl mit dem Rad zu erkunden erfordert Ausdauer, belohnt aber mit fantastischen Ausblicken. Deine Tour führt vom Zentrum hinauf zum Domberg und dem Bismarckturm. Nach einer Waldetappe zum Tierpark genießt du eine Abfahrt zurück in die Stadt, wo du die Technikgeschichte im Fahrzeugmuseum bestaunen kannst.",
+        "hu": "Suhl felfedezése kerékpárral kitartást igényel, de fantasztikus kilátással jutalmaz. A túrád a központból indul fel a Dombergre és a Bismarck-toronyhoz. Egy erdei szakasz után a Vadasparkba érsz, majd legurulhatsz a városba, ahol a Járműmúzeum technikai érdekességeit láthatod.",
+        "ro": "Explorarea orașului Suhl pe bicicletă necesită rezistență, dar oferă priveliști fantastice. Turul tău pornește din centru spre Domberg și Turnul Bismarck. După o etapă prin pădure până la Grădina Zoologică, te bucuri de o coborâre spre oraș, unde poți admira istoria tehnicii la Muzeul Vehiculelor.",
+        "en": "Exploring Suhl by bike requires stamina but rewards you with fantastic views. Your tour leads from the center up to Domberg and the Bismarck Tower. After a forest stretch to the Tierpark, enjoy a ride back into town to marvel at technical history in the Vehicle Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Belohnung nach dem Aufstieg mit toller Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Jutalom a hegyimenet után, nagyszerű kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Recompensa după urcare cu o priveliște grozavă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Reward after the climb with a great view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domberg-Plateau",
+            "tip": "Ruhiger Platz im Wald oberhalb von Suhl.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domberg-fennsík",
+            "tip": "Csendes hely az erdőben Suhl felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Domberg",
+            "tip": "Loc liniștit în pădure deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Domberg Plateau",
+            "tip": "Quiet spot in the forest above Suhl.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Suhl",
+            "tip": "Ausrüstung für Touren im Thüringer Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suhli kerékpárbolt",
+            "tip": "Felszerelés a türingiai erdei túrákhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Suhl",
+            "tip": "Echipament pentru ture în Pădurea Turingiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Suhl Bike Shop",
+            "tip": "Gear for tours in the Thuringian Forest."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für die steilen Hänge des Dombergs sehr zu empfehlen.",
+          "Achte auf Wanderer auf den Waldwegen.",
+          "Prüfe deine Bremsen vor der Abfahrt vom Domberg.",
+          "Nimm genug Wasser für die Steigungen mit."
+        ],
+        "hu": [
+          "Egy e-bike nagyon ajánlott a Domberg meredek lejtőihez.",
+          "Figyelj a túrázókra az erdei utakon.",
+          "Ellenőrizd a fékeidet a Dombergről való legurulás előtt.",
+          "Vigyél elég vizet az emelkedőkhöz."
+        ],
+        "ro": [
+          "O bicicletă electrică este foarte recomandată pentru pantele de pe Domberg.",
+          "Atenție la drumeții de pe potecile forestiere.",
+          "Verifică frânele înainte de coborârea de pe Domberg.",
+          "Ia destulă apă pentru urcări."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the steep slopes of Domberg.",
+          "Watch out for hikers on the forest paths.",
+          "Check your brakes before descending from Domberg.",
+          "Bring plenty of water for the climbs."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Cluster A: Suhler Marktplatz",
+          "coords": [
+            10.692,
+            50.6108
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parke im Parkhaus am CCS.",
+            "hu": "Parkolj a CCS melletti parkolóházban.",
+            "ro": "Parchează în parcarea de la CCS.",
+            "en": "Park in the parking garage at CCS."
+          }
+        },
+        {
+          "name": "Waffenmuseum Suhl",
+          "coords": [
+            10.693,
+            50.6105
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss in der Waffenstadt.",
+            "hu": "Kihagyhatatlan látnivaló a fegyvervárosban.",
+            "ro": "O vizită obligatorie în orașul armelor.",
+            "en": "A must-see in the city of weapons."
+          }
+        },
+        {
+          "name": "Fahrzeugmuseum Suhl",
+          "coords": [
+            10.687,
+            50.61
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beeindruckende Sammlung ostdeutscher Fahrzeuggeschichte.",
+            "hu": "Kelet-német járműtörténet lenyűgöző gyűjteménye.",
+            "ro": "O colecție impresionantă de vehicule din Germania de Est.",
+            "en": "Impressive collection of East German vehicle history."
+          }
+        },
+        {
+          "name": "Cluster B: Bismarckturm",
+          "coords": [
+            10.685,
+            50.603
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 30,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahre hinauf zum Domberg.",
+            "hu": "Hajts fel a Dombergre.",
+            "ro": "Urcă cu mașina până pe Domberg.",
+            "en": "Drive up to the Domberg."
+          }
+        },
+        {
+          "name": "Mittagessen auf dem Domberg",
+          "coords": [
+            10.6845,
+            50.6025
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Essen mit Panoramablick.",
+            "hu": "Ebéd panorámás kilátással.",
+            "ro": "Masă cu vedere panoramică.",
+            "en": "Dining with a panoramic view."
+          }
+        },
+        {
+          "name": "Cluster C: Tierpark Suhl",
+          "coords": [
+            10.715,
+            50.605
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Direkt am Parkplatz gelegen.",
+            "hu": "Közvetlenül a parkolónál található.",
+            "ro": "Situat chiar lângă parcare.",
+            "en": "Located right by the parking lot."
+          }
+        },
+        {
+          "name": "Abschluss",
+          "coords": [
+            10.714,
+            50.6045
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum Ausklang.",
+            "hu": "Rövid séta a levezetéshez.",
+            "ro": "O scurtă plimbare la final.",
+            "en": "Short walk to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbindest du bequem das Stadtzentrum mit den Aussichtspunkten im Thüringer Wald. Zuerst erkundest du zu Fuß die Museen im Zentrum (Waffen und Fahrzeuge). Danach fährst du hinauf zum Domberg für ein Mittagessen mit Aussicht und besuchst am Nachmittag den idyllisch gelegenen Tierpark am Stadtrand.",
+        "hu": "Autóval kényelmesen összekötheted a városközpontot a Türingiai-erdő kilátópontjaival. Először gyalogosan fedezed fel a központi múzeumokat (fegyverek és járművek). Ezután felhajtasz a Dombergre egy panorámás ebédre, délután pedig meglátogatod a város szélén fekvő idilli Vadasparkot.",
+        "ro": "Cu mașina poți conecta confortabil centrul orașului cu punctele de belvedere din Pădurea Turingiei. Mai întâi explorezi la pas muzeele din centru (arme și vehicule). Apoi conduci până pe Domberg pentru un prânz cu vedere și vizitezi după-amiaza grădina zoologică idilică de la marginea orașului.",
+        "en": "By car, you can comfortably combine the city center with viewpoints in the Thuringian Forest. First, explore the museums in the center (weapons and vehicles) on foot. Then drive up to the Domberg for lunch with a view, and in the afternoon visit the idyllic Tierpark on the outskirts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Sehr gute Thüringer Klöße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Kiváló türingiai gombócok (Klöße)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Găluște turingiene foarte bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berggasthof Domberg",
+            "tip": "Very good Thuringian dumplings (Klöße)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bismarckturm",
+            "tip": "Panoramablick über den Thüringer Wald.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bismarck-torony",
+            "tip": "Panoráma a Türingiai-erdőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Bismarck",
+            "tip": "Vedere panoramică peste Pădurea Turingiei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bismarck Tower",
+            "tip": "Panoramic view over the Thuringian Forest.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufland Suhl",
+            "tip": "Lokale Produkte für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufland Suhl",
+            "tip": "Helyi termékek hazautazás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufland Suhl",
+            "tip": "Produse locale pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufland Suhl",
+            "tip": "Local products for the trip home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt zum Domberg ist eng und kurvig.",
+          "Parke zentral, um Waffen- und Fahrzeugmuseum zu Fuß zu erreichen.",
+          "Suhl hat viele Einbahnstraßen im Zentrum.",
+          "Tankstellen sind am Stadtrand ausreichend vorhanden."
+        ],
+        "hu": [
+          "A Dombergre vezető út szűk és kanyargós.",
+          "Parkolj központi helyen, hogy a fegyver- és járműmúzeumot gyalog is elérd.",
+          "Suhl központjában sok az egyirányú utca.",
+          "A város szélén elegendő benzinkút található."
+        ],
+        "ro": [
+          "Drumul spre Domberg este îngust și șerpuitor.",
+          "Parchează central pentru a ajunge pe jos la muzeele de arme și vehicule.",
+          "Suhl are multe străzi cu sens unic în centru.",
+          "Benziăriile sunt suficiente la marginea orașului."
+        ],
+        "en": [
+          "The drive to Domberg is narrow and winding.",
+          "Park centrally to reach the weapon and vehicle museums on foot.",
+          "Suhl has many one-way streets in the center.",
+          "There are plenty of gas stations on the outskirts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Suhler Marktplatz",
+          "coords": [
+            10.692,
+            50.6108
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Busse.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for buses."
+          }
+        },
+        {
+          "name": "Waffenmuseum Suhl",
+          "coords": [
+            10.693,
+            50.6105
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Marktplatz.",
+            "hu": "Rövid séta a piactértől.",
+            "ro": "Scurtă plimbare de la piața centrală.",
+            "en": "Short walk from the market square."
+          }
+        },
+        {
+          "name": "Fahrzeugmuseum Suhl",
+          "coords": [
+            10.687,
+            50.61
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nahe dem Busbahnhof Zentrum gelegen.",
+            "hu": "A központi buszpályaudvar közelében.",
+            "ro": "Situat aproape de autogara centrală.",
+            "en": "Located near the central bus station."
+          }
+        },
+        {
+          "name": "Lunch im Stadtzentrum",
+          "coords": [
+            10.69,
+            50.6105
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genieße die lokale Küche.",
+            "hu": "Élvezd a helyi konyhát.",
+            "ro": "Bucură-te de bucătăria locală.",
+            "en": "Enjoy the local cuisine."
+          }
+        },
+        {
+          "name": "Tierpark Suhl",
+          "coords": [
+            10.715,
+            50.605
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "hop_mode": "transit",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nimm die Buslinie G zum Tierpark.",
+            "hu": "Használd a G jelű buszt a Vadasparkig.",
+            "ro": "Ia linia de autobuz G până la grădina zoologică.",
+            "en": "Take bus line G to the Tierpark."
+          }
+        },
+        {
+          "name": "Rückfahrt ins Zentrum",
+          "coords": [
+            10.692,
+            50.611
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:55",
+          "hop_mode": "transit",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Busse fahren regelmäßig zurück.",
+            "hu": "A buszok rendszeresen járnak vissza.",
+            "ro": "Autobuzele circulă regulat înapoi.",
+            "en": "Buses run regularly back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Suhls öffentlicher Nahverkehr ist gut ausgebaut. Du startest am Marktplatz und besuchst die zentralen Museen bequem zu Fuß. Am Nachmittag bringt dich die Buslinie G direkt zum Tierpark, wo du die Seele im Grünen baumeln lassen kannst, bevor es zurück ins Zentrum geht.",
+        "hu": "Suhl tömegközlekedése jól kiépített. A piactéren kezdesz, és a központi múzeumokat kényelmesen, gyalog látogatod meg. Délután a G jelű busz egyenesen a Vadasparkba visz, ahol kikapcsolódhatsz a zöldben, mielőtt visszatérnél a központba.",
+        "ro": "Transportul public din Suhl este bine dezvoltat. Începi în piața centrală și vizitezi muzeele centrale confortabil la pas. După-amiaza, linia de autobuz G te duce direct la grădina zoologică, unde te poți relaxa în natură înainte de a te întoarce în centru.",
+        "en": "Suhl's public transport is well-developed. You start at the market square and visit the central museums comfortably on foot. In the afternoon, bus line G takes you directly to the Tierpark, where you can unwind in the greenery before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Markt",
+            "tip": "Frischer Thüringer Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a piacon",
+            "tip": "Friss türingiai sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din piață",
+            "tip": "Prăjituri turingiene proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the market",
+            "tip": "Fresh Thuringian cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tierpark Waldwege",
+            "tip": "Ruhe finden zwischen den Gehegen.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadasparki erdei utak",
+            "tip": "Csend az állatkifutók között.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile din grădina zoologică",
+            "tip": "Liniște între țarcurile animalelor.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tierpark forest paths",
+            "tip": "Find peace between the enclosures.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Steinweg-Center",
+            "tip": "Überdachtes Einkaufen bei jedem Wetter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steinweg-Center",
+            "tip": "Fedett vásárlás minden időjárásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Steinweg-Center",
+            "tip": "Cumpărături la interior, indiferent de vreme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steinweg Center",
+            "tip": "Indoor shopping in any weather."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufe eine Tageskarte für das Stadtgebiet.",
+          "Die Fahrpläne am Wochenende sind etwas ausgedünnt.",
+          "Achte auf die Haltestelle 'CCS' für das Fahrzeugmuseum.",
+          "Die Buslinie zum Tierpark ist sehr pünktlich."
+        ],
+        "hu": [
+          "Vegyél napijegyet a városi övezetre.",
+          "A hétvégi menetrend ritkább.",
+          "A Járműmúzeumhoz a 'CCS' megállónál szállj le.",
+          "A vadasparki busz nagyon pontos."
+        ],
+        "ro": [
+          "Cumpără un bilet de o zi pentru zona urbană.",
+          "Orarele de weekend sunt ceva mai rare.",
+          "Fii atent la stația 'CCS' pentru muzeul vehiculelor.",
+          "Linia de autobuz spre grădina zoologică este foarte punctuală."
+        ],
+        "en": [
+          "Buy a day ticket for the city area.",
+          "Weekend schedules are somewhat reduced.",
+          "Look for the 'CCS' stop for the vehicle museum.",
+          "The bus line to the Tierpark is very punctual."
+        ]
+      }
+    }
+  }
+}

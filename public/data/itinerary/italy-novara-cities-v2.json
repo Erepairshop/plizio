@@ -1,0 +1,1162 @@
+{
+  "city_id": "italy-novara-cities-v2",
+  "anchor": {
+    "name": "Novara Center",
+    "coords": [
+      8.6214,
+      45.4469
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza delle Erbe",
+            "hu": "Piazza delle Erbe",
+            "ro": "Piazza delle Erbe",
+            "en": "Piazza delle Erbe"
+          },
+          "coords": [
+            8.6205,
+            45.4465
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso in der historischen Mitte.",
+            "hu": "Igyon egy eszpresszót a történelmi központban.",
+            "ro": "Savurați un espresso în centrul istoric.",
+            "en": "Enjoy an espresso in the historical heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Broletto",
+            "hu": "Broletto udvar",
+            "ro": "Broletto",
+            "en": "Broletto"
+          },
+          "coords": [
+            8.6195,
+            45.4468
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den mittelalterlichen Innenhof.",
+            "hu": "Csodálja meg a középkori belső udvart.",
+            "ro": "Admirați curtea interioară medievală.",
+            "en": "Admire the medieval inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Novara",
+            "hu": "Novarai dóm",
+            "ro": "Domul din Novara",
+            "en": "Novara Cathedral"
+          },
+          "coords": [
+            8.6186,
+            45.4455
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Baptisterium, das älteste Gebäude.",
+            "hu": "Nézze meg a keresztelőkápolnát, a város legősibb épületét.",
+            "ro": "Vizitați baptisteriul, cea mai veche clădire.",
+            "en": "Visit the baptistery, the city's oldest building."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen - Lokale Paniscia",
+            "hu": "Ebéd - Helyi Paniscia",
+            "ro": "Prânz - Paniscia locală",
+            "en": "Lunch - Local Paniscia"
+          },
+          "coords": [
+            8.6192,
+            45.4462
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie den typischen piemontesischen Risotto.",
+            "hu": "Kóstolja meg a tipikus piemonti rizottót.",
+            "ro": "Gustați celebrul risotto piemontez.",
+            "en": "Try the typical Piedmontese risotto."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Visconteo-Sforzesco",
+            "hu": "Visconti-Sforza kastély",
+            "ro": "Castelul Visconteo-Sforzesco",
+            "en": "Visconti-Sforza Castle"
+          },
+          "coords": [
+            8.6166,
+            45.4462
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Mauern der mächtigen Festung.",
+            "hu": "Fedezze fel a hatalmas erődítmény falait.",
+            "ro": "Explorați zidurile fortăreței impunătoare.",
+            "en": "Explore the walls of the mighty fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dei Bambini",
+            "hu": "Gyermekek parkja",
+            "ro": "Parcul Copiilor",
+            "en": "Children's Park"
+          },
+          "coords": [
+            8.615,
+            45.445
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang im grünen Herzen.",
+            "hu": "Pihentető séta a zöld szívben.",
+            "ro": "O plimbare relaxantă în inima verde.",
+            "en": "A relaxing walk in the green heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Gaudenzio",
+            "hu": "San Gaudenzio-bazilika",
+            "ro": "Bazilica San Gaudenzio",
+            "en": "Basilica of San Gaudenzio"
+          },
+          "coords": [
+            8.6212,
+            45.4491
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Kuppel von Antonelli ist das Wahrzeichen.",
+            "hu": "Az Antonelli-féle kupola a város jelképe.",
+            "ro": "Cupola lui Antonelli este simbolul orașului.",
+            "en": "Antonelli's dome is the city's symbol."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf der Piazza delle Erbe, dem pulsierenden Marktplatz. Entdecken Sie dann das Broletto-Viertel mit seinen mittelalterlichen Gebäuden und den imposanten Dom. Mittags genießen Sie die köstliche Paniscia. Nachmittags erkunden Sie die Sforza-Burg und entspannen im Stadtpark. Der Höhepunkt ist die Basilika San Gaudenzio mit ihrer spektakulären, 121 Meter hohen Kuppel.",
+        "hu": "A napot a Piazza delle Erbe nyüzsgő terén kezdi. Fedezze fel a Broletto negyed középkori épületeit és az impozáns dómot. Ebédre kóstolja meg a híres Panisciát. Délután látogasson el a Sforza-kastélyhoz, majd pihenjen a városi parkban. A nap fénypontja a San Gaudenzio-bazilika, amelynek 121 méter magas kupolája a város minden pontjáról látható.",
+        "ro": "Ziua începe în Piazza delle Erbe, centrul vibrant al orașului. Descoperiți complexul Broletto cu clădirile sale medievale și Domul impunător. La prânz, savurați specialitatea locală Paniscia. După-amiază, explorați Castelul Sforzesco și relaxați-vă în parcul central. Momentul culminant este Bazilica San Gaudenzio, cu cupola sa spectaculoasă de 121 de metri înălțime.",
+        "en": "Start your day at Piazza delle Erbe, the city's vibrant marketplace. Explore the medieval Broletto complex and the imposing Cathedral. For lunch, savor the famous local Paniscia. In the afternoon, visit the Visconti-Sforza Castle and relax in the city park. The highlight is the Basilica of San Gaudenzio, featuring a spectacular 121-meter high dome that dominates the skyline."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Paniscia Novarese",
+            "tip": "Herzhafter Risotto mit Bohnen und Salami."
+          },
+          {
+            "name": "Biscotti di Novara",
+            "tip": "Leichte, knusprige Kekse von Camporelli."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paniscia Novarese",
+            "tip": "Kiadós rizottó babbal és szalámival."
+          },
+          {
+            "name": "Biscotti di Novara",
+            "tip": "Könnyű, ropogós sütemény a Camporellitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paniscia Novarese",
+            "tip": "Risotto consistent cu fasole și salam."
+          },
+          {
+            "name": "Biscotti di Novara",
+            "tip": "Biscuiți ușori și crocanți de la Camporelli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Paniscia Novarese",
+            "tip": "Hearty risotto with beans and salami."
+          },
+          {
+            "name": "Biscotti di Novara",
+            "tip": "Light, crispy cookies from Camporelli."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco dei Bambini",
+            "tip": "Ruhige Oase im Stadtzentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kreuzgang des Doms",
+            "tip": "Ein Ort der Stille und Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyermekek parkja",
+            "tip": "Csendes oázis a városközpontban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Dóm kerengője",
+            "tip": "A csend és meditáció helyszíne.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Copiilor",
+            "tip": "Oază de liniște în centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Claustrul Domului",
+            "tip": "Un loc de liniște și meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Children's Park",
+            "tip": "Quiet oasis in the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A place of silence and meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen."
+          },
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Traditionelle Kekse seit 1852."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Cavour",
+            "tip": "A fő bevásárlóutca elegáns üzletekkel."
+          },
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Hagyományos süteménybolt 1852 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Principala stradă comercială cu buticuri."
+          },
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Magazin tradițional de biscuiți din 1852."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Cavour",
+            "tip": "The main shopping street with boutiques."
+          },
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Traditional cookie shop since 1852."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist kompakt und ideal zu Fuß zu erkunden.",
+          "Die Kuppel von San Gaudenzio kann mit Voranmeldung bestiegen werden.",
+          "Montags sind viele Museen und das Schloss geschlossen.",
+          "Probieren Sie unbedingt Gorgonzola, der hier produziert wird."
+        ],
+        "hu": [
+          "A történelmi központ kompakt, ideális gyalogos felfedezésre.",
+          "A San Gaudenzio kupolájába előzetes foglalással fel lehet menni.",
+          "Hétfőnként sok múzeum és a kastély is zárva tart.",
+          "Mindenképpen kóstolja meg a helyi készítésű Gorgonzolát."
+        ],
+        "ro": [
+          "Centrul istoric este compact și ideal pentru explorarea la pas.",
+          "Cupola San Gaudenzio poate fi vizitată cu rezervare prealabilă.",
+          "Lunea, multe muzee și castelul sunt închise.",
+          "Nu ratați degustarea brânzei Gorgonzola, produsă local."
+        ],
+        "en": [
+          "The historic center is compact and ideal for exploring on foot.",
+          "The dome of San Gaudenzio can be climbed with prior booking.",
+          "Many museums and the castle are closed on Mondays.",
+          "Be sure to taste the Gorgonzola cheese produced in the area."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Coccia",
+            "hu": "Teatro Coccia",
+            "ro": "Teatro Coccia",
+            "en": "Teatro Coccia"
+          },
+          "coords": [
+            8.6178,
+            45.4474
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Eines der größten Opernhäuser im Piemont.",
+            "hu": "Piemont egyik legnagyobb operaháza.",
+            "ro": "Unul dintre cele mai mari teatre de operă din Piemont.",
+            "en": "One of the largest opera houses in Piedmont."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Sforzesco",
+            "hu": "Sforza-kastély",
+            "ro": "Castelul Sforzesco",
+            "en": "Sforza Castle"
+          },
+          "coords": [
+            8.6166,
+            45.4462
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der alten Stadtmauern.",
+            "hu": "Kerekezzen a régi városfalak mentén.",
+            "ro": "Pedalați de-a lungul vechilor ziduri ale orașului.",
+            "en": "Cycle along the old city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dei Bambini",
+            "hu": "Gyermekek parkja",
+            "ro": "Parcul Copiilor",
+            "en": "Children's Park"
+          },
+          "coords": [
+            8.615,
+            45.445
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Große Alleen, perfekt für Fahrräder.",
+            "hu": "Széles sétányok, tökéletesek a kerékpározáshoz.",
+            "ro": "Alee largi, perfecte pentru biciclete.",
+            "en": "Wide avenues, perfect for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di San Nazzaro della Costa",
+            "hu": "San Nazzaro della Costa apátság",
+            "ro": "Abbazia di San Nazzaro della Costa",
+            "en": "Abbazia di San Nazzaro della Costa"
+          },
+          "coords": [
+            8.636,
+            45.442
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel auf einem kleinen Hügel.",
+            "hu": "Rejtett drágakő egy kis domb tetején.",
+            "ro": "O bijuterie ascunsă pe o mică colină.",
+            "en": "A hidden gem on a small hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Lunch - Gorgonzola Tasting",
+            "hu": "Ebéd - Gorgonzola kóstoló",
+            "ro": "Prânz - Degustare de Gorgonzola",
+            "en": "Lunch - Gorgonzola Tasting"
+          },
+          "coords": [
+            8.621,
+            45.447
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie Käse aus lokaler Produktion.",
+            "hu": "Élvezze a helyben készült sajtokat.",
+            "ro": "Savurați brânzeturile produse local.",
+            "en": "Enjoy locally produced cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Gaudenzio",
+            "hu": "San Gaudenzio-bazilika",
+            "ro": "Bazilica San Gaudenzio",
+            "en": "Basilica of San Gaudenzio"
+          },
+          "coords": [
+            8.6212,
+            45.4491
+          ],
+          "category": "cathedral",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad vor dem Haupteingang.",
+            "hu": "Parkolja le a bringát a főbejáratnál.",
+            "ro": "Parcați bicicleta în fața intrării principale.",
+            "en": "Park your bike in front of the main entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Novara auf zwei Rädern. Beginnen Sie beim Teatro Coccia und umrunden Sie das Schloss auf den grünen Wegen. Eine kurze Fahrt führt Sie zur Abbazia di San Nazzaro, von wo aus Sie einen schönen Blick haben. Zurück im Zentrum genießen Sie ein Mittagessen mit lokalem Käse und bewundern zum Abschluss die berühmte Kuppel von San Gaudenzio.",
+        "hu": "Fedezze fel Novarát két keréken. Kezdje a Teatro Cocciánál, majd kerülje meg a kastélyt a zöld utakon. Egy rövid tekerés elviszi a San Nazzaro apátsághoz, ahonnan szép kilátás nyílik. Visszatérve a központba, élvezze a helyi sajtokból álló ebédet, majd zárja a napot a híres San Gaudenzio-bazilika megtekintésével.",
+        "ro": "Explorați Novara pe două roți. Începeți la Teatro Coccia și înconjurați castelul pe pistele verzi. O scurtă plimbare vă duce la Abbazia di San Nazzaro, de unde aveți o vedere frumoasă. Revenind în centru, savurați un prânz cu brânzeturi locale și admirați la final faimoasa cupolă San Gaudenzio.",
+        "en": "Explore Novara on two wheels. Start at Teatro Coccia and circle the castle along the green paths. A short ride takes you to the Abbazia di San Nazzaro, offering a lovely view. Back in the center, enjoy a lunch featuring local cheeses and finish by admiring the famous San Gaudenzio dome."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gorgonzola DOP",
+            "tip": "Direkt aus der Käserei."
+          },
+          {
+            "name": "Risotto ai funghi",
+            "tip": "Mit frischen Pilzen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gorgonzola DOP",
+            "tip": "Közvetlenül a sajtgyárból."
+          },
+          {
+            "name": "Gombás rizottó",
+            "tip": "Friss helyi gombákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gorgonzola DOP",
+            "tip": "Direct de la lăptărie."
+          },
+          {
+            "name": "Risotto cu ciuperci",
+            "tip": "Cu ciuperci proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorgonzola DOP",
+            "tip": "Straight from the dairy."
+          },
+          {
+            "name": "Mushroom Risotto",
+            "tip": "With fresh local mushrooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbazia di San Nazzaro",
+            "tip": "Stille am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Nazzaro apátság",
+            "tip": "Csend a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abbazia di San Nazzaro",
+            "tip": "Liniște la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbazia di San Nazzaro",
+            "tip": "Quiet at the city's edge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Frische Produkte für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárcsarnok",
+            "tip": "Friss termékek egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Acoperită",
+            "tip": "Produse proaspete pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covered Market",
+            "tip": "Fresh produce for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Novara ist flach und sehr fahrradfreundlich.",
+          "Nutzen Sie die Radwege entlang der Allea-Gärten.",
+          "Achten Sie auf das Kopfsteinpflaster in der Altstadt."
+        ],
+        "hu": [
+          "Novara sík vidék, nagyon kerékpárosbarát.",
+          "Használja az Allea-kertek menti kerékpárutakat.",
+          "Vigyázzon a macskaköves utakra az óvárosban."
+        ],
+        "ro": [
+          "Novara este un oraș plat, foarte prietenos cu bicicletele.",
+          "Folosiți pistele de biciclete de-a lungul grădinilor Allea.",
+          "Atenție la pavajul cu piatră cubică din centrul vechi."
+        ],
+        "en": [
+          "Novara is flat and very bike-friendly.",
+          "Use the bike paths along the Allea gardens.",
+          "Watch out for cobblestones in the old town center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Broletto (Cluster A)",
+            "hu": "Broletto (A klaszter)",
+            "ro": "Broletto (Cluster A)",
+            "en": "Broletto (Cluster A)"
+          },
+          "coords": [
+            8.6195,
+            45.4468
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Dom.",
+            "hu": "Parkoljon a Dóm melletti garázsban.",
+            "ro": "Parcați în parcarea de lângă Dom.",
+            "en": "Park at the garage near the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Novara",
+            "hu": "Novarai dóm",
+            "ro": "Domul din Novara",
+            "en": "Novara Cathedral"
+          },
+          "coords": [
+            8.6186,
+            45.4455
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang vom Broletto.",
+            "hu": "Séta a Brolettótól.",
+            "ro": "Plimbare de la Broletto.",
+            "en": "Walk from Broletto."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika San Gaudenzio",
+            "hu": "San Gaudenzio-bazilika",
+            "ro": "Bazilica San Gaudenzio",
+            "en": "Basilica of San Gaudenzio"
+          },
+          "coords": [
+            8.6212,
+            45.4491
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Altstadt.",
+            "hu": "Rövid séta az óvároson át.",
+            "ro": "Scurtă plimbare prin centrul vechi.",
+            "en": "Short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            8.62,
+            45.447
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie piemontesische Küche.",
+            "hu": "Élvezze a piemonti konyhát.",
+            "ro": "Bucurați-vă de bucătăria piemonteză.",
+            "en": "Enjoy Piedmontese cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Sforzesco (Cluster B)",
+            "hu": "Sforza-kastély (B klaszter)",
+            "ro": "Castelul Sforzesco (Cluster B)",
+            "en": "Sforza Castle (Cluster B)"
+          },
+          "coords": [
+            8.6166,
+            45.4462
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Schloss-Parkplatz.",
+            "hu": "Rövid autóút a kastély parkolójáig.",
+            "ro": "Scurtă deplasare cu mașina până la parcare.",
+            "en": "Short drive to the castle parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dei Bambini",
+            "hu": "Gyermekek parkja",
+            "ro": "Parcul Copiilor",
+            "en": "Children's Park"
+          },
+          "coords": [
+            8.615,
+            45.445
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fußweg vom Schloss.",
+            "hu": "Séta a kastélytól.",
+            "ro": "Plimbare de la castel.",
+            "en": "Walk from the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbazia di San Nazzaro (Cluster C)",
+            "hu": "San Nazzaro apátság (C klaszter)",
+            "ro": "Abbazia di San Nazzaro (Cluster C)",
+            "en": "Abbazia di San Nazzaro (Cluster C)"
+          },
+          "coords": [
+            8.636,
+            45.442
+          ],
+          "category": "religious",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einfaches Parken vor der Abtei.",
+            "hu": "Egyszerű parkolás az apátság előtt.",
+            "ro": "Parcare ușoară în fața abației.",
+            "en": "Easy parking in front of the abbey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour kombiniert das historische Zentrum mit den Außenbezirken. Parken Sie zuerst im Zentrum, um den Dom und die spektakuläre Basilika San Gaudenzio zu Fuß zu erkunden. Nach einem typischen Mittagessen fahren Sie zum Schloss und spazieren durch den Park. Zum Abschluss besuchen Sie die wunderschöne Abtei San Nazzaro della Costa am Stadtrand.",
+        "hu": "Ez a túra ötvözi a történelmi központot a külvárossal. Parkoljon le a központban, és fedezze fel gyalog a dómot és a látványos San Gaudenzio-bazilikát. Egy tipikus ebéd után hajtson a kastélyhoz, és sétáljon a parkban. Végezetül látogasson el a város szélén található gyönyörű San Nazzaro della Costa apátsághoz.",
+        "ro": "Acest tur combină centrul istoric cu zonele periferice. Parcați în centru pentru a explora pe jos Domul și spectaculoasa Bazilică San Gaudenzio. După un prânz tipic, conduceți spre castel și plimbați-vă prin parc. În încheiere, vizitați frumoasa Abație San Nazzaro della Costa de la marginea orașului.",
+        "en": "This tour combines the historical center with the outskirts. Park first in the center to explore the Cathedral and the spectacular Basilica of San Gaudenzio on foot. After a typical lunch, drive to the castle and stroll through the park. Finally, visit the beautiful Abbey of San Nazzaro della Costa on the edge of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Probieren Sie Risotto mit Gorgonzola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Kóstolja meg a Gorgonzolás rizottót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Încercați risotto cu Gorgonzola."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante del Centro",
+            "tip": "Try the risotto with Gorgonzola."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Nazzaro della Costa",
+            "tip": "Panorama-Aussicht auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Nazzaro della Costa",
+            "tip": "Panorámás kilátás a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Nazzaro della Costa",
+            "tip": "Vedere panoramică asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Nazzaro della Costa",
+            "tip": "Panoramic view of the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Outlet Vicolungo",
+            "tip": "20 Min. Fahrt für Marken-Shopping."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vicolungo Outlet",
+            "tip": "20 perc autóút márkás cuccokért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vicolungo Outlet",
+            "tip": "20 minute cu mașina pentru cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vicolungo Outlet",
+            "tip": "20 min drive for brand shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie bevorzugt in den markierten 'Blu' Zonen oder Parkhäusern.",
+          "Vermeiden Sie die ZTL-Zonen (verkehrsberuhigt) im Stadtkern.",
+          "Die Straßen außerhalb sind von Reisfeldern umgeben, sehr malerisch."
+        ],
+        "hu": [
+          "Lehetőleg a kijelölt kék zónákban vagy parkolóházakban parkoljon.",
+          "Kerülje a ZTL (korlátozott forgalmú) zónákat a városmagban.",
+          "A városon kívüli utak rizsföldekkel vannak körülvéve, nagyon festői."
+        ],
+        "ro": [
+          "Parcați de preferință în zonele albastre sau în parcări supraetajate.",
+          "Evitați zonele ZTL (trafic limitat) din centrul orașului.",
+          "Drumurile din afara orașului sunt înconjurate de câmpuri de orez, foarte pitorești."
+        ],
+        "en": [
+          "Prefer parking in marked blue zones or parking garages.",
+          "Avoid ZTL (limited traffic) zones in the city core.",
+          "The roads outside are surrounded by rice fields, very scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza delle Erbe (District A)",
+            "hu": "Piazza delle Erbe (A kerület)",
+            "ro": "Piazza delle Erbe (District A)",
+            "en": "Piazza delle Erbe (District A)"
+          },
+          "coords": [
+            8.6205,
+            45.4465
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof mit dem Bus Linie 1 oder 6.",
+            "hu": "A vasútállomástól 1-es vagy 6-os busszal.",
+            "ro": "De la gară cu autobuzul linia 1 sau 6.",
+            "en": "From the station by bus line 1 or 6."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Novara",
+            "hu": "Novarai dóm",
+            "ro": "Domul din Novara",
+            "en": "Novara Cathedral"
+          },
+          "coords": [
+            8.6186,
+            45.4455
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Platz.",
+            "hu": "Rövid séta a térről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "San Gaudenzio (District B)",
+            "hu": "San Gaudenzio (B kerület)",
+            "ro": "San Gaudenzio (District B)",
+            "en": "San Gaudenzio (District B)"
+          },
+          "coords": [
+            8.6212,
+            45.4491
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Bus für eine Station.",
+            "hu": "Használja a városi buszt egy megállóig.",
+            "ro": "Folosiți autobuzul urban pentru o stație.",
+            "en": "Use the city bus for one stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen - Lokale Bar",
+            "hu": "Ebéd - Helyi bár",
+            "ro": "Prânz - Bar local",
+            "en": "Lunch - Local Bar"
+          },
+          "coords": [
+            8.62,
+            45.448
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Snack-Pause im Zentrum.",
+            "hu": "Gyors ebéd a központban.",
+            "ro": "Pauză de gustare în centru.",
+            "en": "Snack break in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Faraggiana (District C)",
+            "hu": "Faraggiana Múzeum (C kerület)",
+            "ro": "Muzeul Faraggiana (District C)",
+            "en": "Faraggiana Museum (District C)"
+          },
+          "coords": [
+            8.619,
+            45.448
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Interessantes Naturkundemuseum.",
+            "hu": "Érdekes természettudományi múzeum.",
+            "ro": "Muzeu de istorie naturală interesant.",
+            "en": "Interesting natural history museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Sforzesco",
+            "hu": "Sforza-kastély",
+            "ro": "Castelul Sforzesco",
+            "en": "Sforza Castle"
+          },
+          "coords": [
+            8.6166,
+            45.4462
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang zum Abschluss.",
+            "hu": "Séta a nap zárásaként.",
+            "ro": "Plimbare la finalul zilei.",
+            "en": "Walk to finish the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Novara. Beginnen Sie im Domviertel und fahren Sie dann zur Basilika San Gaudenzio. Nach einem entspannten Mittagessen besuchen Sie das Naturkundemuseum Faraggiana Ferrandi. Beenden Sie Ihren Tag mit einem Besuch des Sforza-Schlosses, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Használja Novara hatékony buszhálózatát. Kezdje a Dóm negyedben, majd utazzon busszal a San Gaudenzio-bazilikához. Egy pihentető ebéd után látogasson el a Faraggiana Ferrandi természettudományi múzeumba. Zárja a napot a Sforza-kastély megtekintésével, mielőtt busszal visszatérne a vasútállomásra.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Novara. Începeți în cartierul Domului, apoi mergeți cu autobuzul la Bazilica San Gaudenzio. După un prânz relaxant, vizitați Muzeul de Istorie Naturală Faraggiana Ferrandi. Încheiați ziua cu o vizită la Castelul Sforzesco înainte de a lua autobuzul înapoi spre gară.",
+        "en": "Utilize Novara's efficient bus system. Start in the Cathedral district, then take a bus to the Basilica of San Gaudenzio. After a relaxing lunch, visit the Faraggiana Ferrandi Natural History Museum. Conclude your day with a visit to the Sforza Castle before heading back to the station by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Ideales Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Ideális ajándék hazára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Suvenir ideal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscottificio Camporelli",
+            "tip": "Ideal souvenir to take home."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini dell'Allea",
+            "tip": "Grüne Promenade am Rand der Altstadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Allea-kertek",
+            "tip": "Zöld sétány az óváros szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini dell'Allea",
+            "tip": "Promenadă verde la marginea centrului vechi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Allea Gardens",
+            "tip": "Green promenade at the edge of the old town.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Einkaufen entlang der Buslinien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Vásárlás a buszvonalak mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Cumpărături de-a lungul liniilor de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Shopping along the bus routes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets in 'Tabacchi'-Läden oder am Bahnhof.",
+          "Die meisten Linien fahren über den Bahnhof (Piazza Garibaldi).",
+          "Laden Sie die App 'SUN Novara' für Fahrpläne herunter."
+        ],
+        "hu": [
+          "Vásároljon jegyet a 'Tabacchi' üzletekben vagy az állomáson.",
+          "A legtöbb vonal érinti a vasútállomást (Piazza Garibaldi).",
+          "Töltse le a 'SUN Novara' alkalmazást a menetrendekhez."
+        ],
+        "ro": [
+          "Cumpărați bilete de la magazinele 'Tabacchi' sau din gară.",
+          "Majoritatea liniilor trec prin fața gării (Piazza Garibaldi).",
+          "Descărcați aplicația 'SUN Novara' pentru orare."
+        ],
+        "en": [
+          "Buy tickets at 'Tabacchi' shops or at the station.",
+          "Most lines pass through the train station (Piazza Garibaldi).",
+          "Download the 'SUN Novara' app for schedules."
+        ]
+      }
+    }
+  }
+}

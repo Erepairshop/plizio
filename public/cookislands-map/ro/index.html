@@ -192,6 +192,7 @@ header .langs{display:flex;gap:.25rem}
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
 <script>
 const LANG="ro",W=1000,H=1583.56;
+try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=[];
 const POI_CARD={};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');

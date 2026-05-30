@@ -1,0 +1,1067 @@
+{
+  "city_id": "france-conques-history-v2",
+  "anchor": {
+    "name": "Conques",
+    "coords": [
+      44.5992,
+      2.3965
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fachwerkhäuser der Rue Haute",
+            "hu": "Rue Haute fagerendás házai",
+            "ro": "Casele cu paiantă din Rue Haute",
+            "en": "Half-timbered houses of Rue Haute"
+          },
+          "coords": [
+            44.5995,
+            2.3955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die mittelalterlichen Details an den Fassaden.",
+            "hu": "Figyeld meg a középkori részleteket a homlokzatokon.",
+            "ro": "Observați detaliile medievale de pe fațade.",
+            "en": "Look for medieval details on the facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Sainte-Foy",
+            "hu": "Sainte-Foy apátsági templom",
+            "ro": "Abația Sainte-Foy",
+            "en": "Abbey Church of Sainte-Foy"
+          },
+          "coords": [
+            44.5992,
+            2.3965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Tympanon des Jüngsten Gerichts ist weltberühmt.",
+            "hu": "Az utolsó ítéletet ábrázoló timpanon világhírű.",
+            "ro": "Timpanul Judecății de Apoi este faimos în întreaga lume.",
+            "en": "The Last Judgment tympanum is world-famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Klostergarten",
+            "hu": "Kolostorkert",
+            "ro": "Grădina mănăstirii",
+            "en": "Cloister Garden"
+          },
+          "coords": [
+            44.5993,
+            2.3968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille mit Blick auf die romanischen Kapitelle.",
+            "hu": "A csend helye, kilátással a román stílusú oszlopfőkre.",
+            "ro": "Un loc de liniște cu vedere la capitelele romanice.",
+            "en": "A place of silence with views of the Romanesque capitals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchenschatz von Conques",
+            "hu": "Conques-i kincstár",
+            "ro": "Tezaurul din Conques",
+            "en": "Treasury of Conques"
+          },
+          "coords": [
+            44.599,
+            2.3963
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestunern Sie die goldene Reliquie der Heiligen Foy.",
+            "hu": "Csodáld meg Szent Foy arany ereklyetartóját.",
+            "ro": "Admirați relicvarul de aur al Sfintei Foy.",
+            "en": "Admire the golden reliquary of Saint Foy."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte du Barry",
+            "hu": "Porte du Barry városkapu",
+            "ro": "Poarta du Barry",
+            "en": "Porte du Barry"
+          },
+          "coords": [
+            44.5985,
+            2.396
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das alte Stadttor, das zum Fluss hinunterführt.",
+            "hu": "A régi városkapu, amely a folyóhoz vezet le.",
+            "ro": "Vechea poartă a orașului care duce spre râu.",
+            "en": "The old city gate leading down to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Pèlerins",
+            "hu": "Zarándokok hídja",
+            "ro": "Podul Pelerinilor",
+            "en": "Pilgrims Bridge"
+          },
+          "coords": [
+            44.5961,
+            2.3926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe als Teil des Jakobswegs.",
+            "hu": "UNESCO Világörökség a Szent Jakab-út részeként.",
+            "ro": "Patrimoniu UNESCO ca parte a drumului spre Santiago.",
+            "en": "UNESCO World Heritage site as part of the Way of Saint James."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Foy",
+            "hu": "Szent Foy kápolna",
+            "ro": "Capela Sainte-Foy",
+            "en": "Chapelle Sainte-Foy"
+          },
+          "coords": [
+            44.6025,
+            2.401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg bietet einen fantastischen Blick auf das Dorf.",
+            "hu": "A kapaszkodó fantasztikus kilátást nyújt a falura.",
+            "ro": "Urcarea oferă o vedere fantastică asupra satului.",
+            "en": "The climb offers a fantastic view over the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag in Conques ist wie eine Zeitreise ins Mittelalter. Am Vormittag erkunden wir den Kern des Dorfes mit seinen Fachwerkhäusern und der beeindruckenden Abteikirche. Mittags widmen wir uns dem weltberühmten Kirchenschatz. Der Nachmittag führt uns hinunter zum Fluss und über die alte Brücke, bevor wir zum Abschluss den Hügel zur Kapelle für das beste Panorama erklimmen.",
+        "hu": "Egy nap Conques-ban olyan, mint egy időutazás a középkorba. Délelőtt a falu magját fedezzük fel a fagerendás házaival és a lenyűgöző apátsággal. Délben a világhírű kincstárnak szenteljük az időt. Délután leereszkedünk a folyóhoz az ősi hídon át, majd zárásként felkapaszkodunk a kápolnához a legjobb panorámáért.",
+        "ro": "O zi în Conques este ca o călătorie în timp în Evul Mediu. Dimineața explorăm nucleul satului cu casele sale cu paiantă și abația impresionantă. La prânz ne dedicăm celebrului tezaur bisericesc. După-amiaza ne conduce jos la râu și peste podul vechi, înainte de a urca dealul spre capelă pentru cea mai bună panoramă.",
+        "en": "A day in Conques is like a journey back to the Middle Ages. In the morning, we explore the heart of the village with its half-timbered houses and the impressive Abbey Church. At noon, we visit the world-famous treasury. The afternoon takes us down to the river across the ancient bridge, before finishing with a climb to the chapel for the best panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge Saint-Jacques",
+            "tip": "Probieren Sie Aligot, eine lokale Spezialität aus Kartoffelstampf und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge Saint-Jacques",
+            "tip": "Kóstold meg az Aligot-ot, a helyi sajtos burgonyapüré különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge Saint-Jacques",
+            "tip": "Încercați Aligot, o specialitate locală de piure de cartofi cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge Saint-Jacques",
+            "tip": "Try Aligot, a local specialty of mashed potatoes and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein friedlicher Rückzugsort inmitten romanischer Architektur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Békés menedék a román építészet szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un refugiu liniștit în mijlocul arhitecturii romanice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister Garden",
+            "tip": "A peaceful retreat amidst Romanesque architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden der Rue Haute",
+            "tip": "Lokale Töpferwaren und Pilger-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Haute kézműves boltjai",
+            "tip": "Helyi kerámiák és zarándok ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de artizanat din Rue Haute",
+            "tip": "Ceramică locală și suveniruri de pelerinaj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan shops of Rue Haute",
+            "tip": "Local pottery and pilgrim souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, die Straßen sind steil und gepflastert.",
+          "Die Abteikirche ist morgens am ruhigsten.",
+          "Parken Sie auf den oberen Parkplätzen, um bergab ins Dorf zu laufen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, az utcák meredekek és kövesek.",
+          "Az apátság reggel a legcsendesebb.",
+          "Parkolj a felső parkolókban, hogy lefelé sétálhass a faluba."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, străzile sunt abrupte și pavate.",
+          "Abația este cea mai liniștită dimineața.",
+          "Parcați în parcările de sus pentru a coborî spre sat."
+        ],
+        "en": [
+          "Wear comfortable shoes, the streets are steep and cobbled.",
+          "The Abbey Church is quietest in the morning.",
+          "Park in the upper parking lots to walk downhill into the village."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte du Barry",
+            "hu": "Porte du Barry",
+            "ro": "Poarta du Barry",
+            "en": "Porte du Barry"
+          },
+          "coords": [
+            44.5985,
+            2.396
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die Abfahrt zum Fluss.",
+            "hu": "Kiindulópont a folyóhoz való leereszkedéshez.",
+            "ro": "Punct de plecare pentru coborârea spre râu.",
+            "en": "Starting point for the descent to the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Pèlerins",
+            "hu": "Zarándokok hídja",
+            "ro": "Podul Pelerinilor",
+            "en": "Pilgrims Bridge"
+          },
+          "coords": [
+            44.5961,
+            2.3926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein historischer Halt am Ufer des Dourdou.",
+            "hu": "Történelmi megálló a Dourdou partján.",
+            "ro": "O oprire istorică pe malul râului Dourdou.",
+            "en": "A historical stop on the banks of the Dourdou."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Sainte-Foy",
+            "hu": "Sainte-Foy apátság",
+            "ro": "Abația Sainte-Foy",
+            "en": "Abbey of Sainte-Foy"
+          },
+          "coords": [
+            44.5992,
+            2.3965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder vor dem Platz sicher ab.",
+            "hu": "Zárd le a bicikliket biztonságosan a tér előtt.",
+            "ro": "Parcați bicicletele în siguranță înainte de piață.",
+            "en": "Park bikes securely before the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Klostergarten",
+            "hu": "Kolostorkert",
+            "ro": "Grădina mănăstirii",
+            "en": "Cloister Garden"
+          },
+          "coords": [
+            44.5993,
+            2.3968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause im Schatten.",
+            "hu": "Tökéletes egy rövid pihenőre az árnyékban.",
+            "ro": "Perfect pentru o scurtă pauză la umbră.",
+            "en": "Perfect for a short break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchenschatz von Conques",
+            "hu": "Conques-i kincstár",
+            "ro": "Tezaurul din Conques",
+            "en": "Treasury of Conques"
+          },
+          "coords": [
+            44.599,
+            2.3963
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Museen für mittelalterliche Goldschmiedekunst.",
+            "hu": "A középkori ötvösművészet egyik legfontosabb múzeuma.",
+            "ro": "Unul dintre cele mai importante muzee de orfevrărie medievală.",
+            "en": "One of the most important museums of medieval goldsmithery."
+          }
+        },
+        {
+          "name": {
+            "de": "Bancarel-Aussichtspunkt",
+            "hu": "Bancarel kilátópont",
+            "ro": "Punctul de belvedere Bancarel",
+            "en": "Bancarel Viewpoint"
+          },
+          "coords": [
+            44.595,
+            2.385
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg, aber die Aussicht belohnt alles.",
+            "hu": "Kihívást jelentő emelkedő, de a kilátás mindenért kárpótol.",
+            "ro": "Urcare solicitantă, dar priveliștea merită tot efortul.",
+            "en": "Challenging climb, but the view rewards everything."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir das Tal des Dourdou und das Herz von Conques. Wir beginnen mit der Abfahrt zur alten Brücke und kämpfen uns dann zurück ins Dorf zur Abtei. Nach einer kulturellen Pause im Kincstár folgt die sportliche Herausforderung: der Weg zum Bancarel-Felsen für den ultimativen Blick von oben.",
+        "hu": "Biciklivel fedezzük fel a Dourdou völgyét és Conques szívét. A folyóhoz való leereszkedéssel kezdünk, majd visszaküzdjük magunkat a faluba az apátsághoz. A kincstári kulturális szünet után jön a sportos kihívás: az út a Bancarel-sziklához a végső felülnézeti kilátásért.",
+        "ro": "Cu bicicleta explorăm valea Dourdou și inima orașului Conques. Începem cu coborârea spre podul vechi și apoi ne luptăm să revenim în sat la abație. După o pauză culturală la tezaur, urmează provocarea sportivă: drumul spre stânca Bancarel pentru priveliștea supremă de sus.",
+        "en": "By bike, we explore the Dourdou valley and the heart of Conques. We start with the descent to the old bridge and then work our way back up to the village abbey. After a cultural break at the treasury, comes the sporting challenge: the path to the Bancarel rock for the ultimate view from above."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir de Conques",
+            "tip": "Energiegeladene lokale Snacks für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Comptoir de Conques",
+            "tip": "Energiadús helyi harapnivalók bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Comptoir de Conques",
+            "tip": "Gustări locale energizante pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir de Conques",
+            "tip": "Energy-rich local snacks for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bancarel Felsen",
+            "tip": "Ruhe hoch über dem Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bancarel szikla",
+            "tip": "Csend magasan a völgy felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stânca Bancarel",
+            "tip": "Liniște sus deasupra văii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bancarel Rock",
+            "tip": "Quiet high above the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison de l'Artisanat",
+            "tip": "Regionale Messer und Lederwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison de l'Artisanat",
+            "tip": "Regionális kések és bőrtermékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison de l'Artisanat",
+            "tip": "Cuțite regionale și articole din piele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison de l'Artisanat",
+            "tip": "Regional knives and leather goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden für die steilen Hänge dringend empfohlen.",
+          "Die Rue Haute ist für Fahrräder sehr eng, bitte schieben.",
+          "Im Sommer viel Wasser mitnehmen, das Tal heizt sich auf."
+        ],
+        "hu": [
+          "Az elektromos kerékpár erősen ajánlott a meredek lejtők miatt.",
+          "A Rue Haute nagyon szűk a bicikliknek, kérjük toljátok.",
+          "Nyáron vigyél sok vizet, a völgy nagyon felmelegszik."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate pentru pantele abrupte.",
+          "Rue Haute este foarte îngustă pentru biciclete, vă rugăm să mergeți pe lângă.",
+          "Luați multă apă vara, valea se încinge."
+        ],
+        "en": [
+          "E-bikes are highly recommended for the steep slopes.",
+          "Rue Haute is very narrow for bikes, please walk them.",
+          "Take plenty of water in summer, the valley gets hot."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bancarel-Aussichtspunkt",
+            "hu": "Bancarel kilátó",
+            "ro": "Punct de belvedere Bancarel",
+            "en": "Bancarel Viewpoint"
+          },
+          "coords": [
+            44.595,
+            2.385
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bester Fotostopp für das gesamte Panorama.",
+            "hu": "A legjobb fotómegálló a teljes panorámához.",
+            "ro": "Cea mai bună oprire foto pentru întreaga panoramă.",
+            "en": "Best photo stop for the full panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Sainte-Foy",
+            "hu": "Sainte-Foy apátság",
+            "ro": "Abația Sainte-Foy",
+            "en": "Abbey of Sainte-Foy"
+          },
+          "coords": [
+            44.5992,
+            2.3965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Parken Sie am Place de l'Étoile und gehen Sie zu Fuß weiter.",
+            "hu": "Parkolj a Place de l'Étoile-nál, és menj tovább gyalog.",
+            "ro": "Parcați în Place de l'Étoile și continuați pe jos.",
+            "en": "Park at Place de l'Étoile and continue on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchenschatz von Conques",
+            "hu": "Conques-i kincstár",
+            "ro": "Tezaurul din Conques",
+            "en": "Treasury of Conques"
+          },
+          "coords": [
+            44.599,
+            2.3963
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das 'Majestät der Heiligen Foy' ist ein Muss.",
+            "hu": "Szent Foy 'Majesté' ereklyéje kötelező látnivaló.",
+            "ro": "Relicvarul 'Majestatea Sfintei Foy' este de neratat.",
+            "en": "The 'Majesty of Saint Foy' is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Klostergarten",
+            "hu": "Kolostorkert",
+            "ro": "Grădina mănăstirii",
+            "en": "Cloister Garden"
+          },
+          "coords": [
+            44.5993,
+            2.3968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannung vor der Weiterfahrt.",
+            "hu": "Pihenés a továbbutazás előtt.",
+            "ro": "Relaxare înainte de a continua drumul.",
+            "en": "Relaxation before continuing the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Fachwerkhäuser der Rue Haute",
+            "hu": "Rue Haute fagerendás házai",
+            "ro": "Casele din Rue Haute",
+            "en": "Half-timbered houses of Rue Haute"
+          },
+          "coords": [
+            44.5995,
+            2.3955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Spaziergang durch die engsten Gassen.",
+            "hu": "Séta a legszűkebb sikátorokban.",
+            "ro": "O plimbare prin cele mai înguste ulițe.",
+            "en": "A walk through the narrowest alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Pèlerins",
+            "hu": "Zarándokok hídja",
+            "ro": "Podul Pelerinilor",
+            "en": "Pilgrims Bridge"
+          },
+          "coords": [
+            44.5961,
+            2.3926
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Flussufer.",
+            "hu": "Hajts le a folyóparti parkolóhoz.",
+            "ro": "Conduceți până la parcarea de pe malul râului.",
+            "en": "Drive to the riverside parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Foy",
+            "hu": "Szent Foy kápolna",
+            "ro": "Capela Sainte-Foy",
+            "en": "Chapelle Sainte-Foy"
+          },
+          "coords": [
+            44.6025,
+            2.401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz in der Nähe für einen kurzen Besuch.",
+            "hu": "Kis parkoló a közelben a rövid látogatáshoz.",
+            "ro": "Mică parcare în apropiere pentru o vizită scurtă.",
+            "en": "Small parking lot nearby for a short visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen wir die strategischen Aussichtspunkte rund um Conques. Zuerst das Panorama von Bancarel, dann parken wir für den Kernbereich (Abtei, Schatzkammer, Rue Haute). Zum Abschluss besuchen wir die Brücke im Tal und die kleine Kapelle auf der Anhöhe, was zu Fuß deutlich anstrengender wäre.",
+        "hu": "Autóval a Conques körüli stratégiai kilátópontokat használjuk ki. Először a Bancarel panorámát, majd leparkolunk a központi résznél (apátság, kincstár, Rue Haute). Végezetül ellátogatunk a völgyben lévő hídhoz és a dombtetőn álló kis kápolnához, ami gyalog jóval fárasztóbb lenne.",
+        "ro": "Cu mașina profităm de punctele strategice de belvedere din jurul localității Conques. Mai întâi panorama de la Bancarel, apoi parcăm pentru zona centrală (abație, tezaur, Rue Haute). La final vizităm podul din vale și mica capelă de pe înălțime, ceea ce ar fi mult mai obositor pe jos.",
+        "en": "By car, we take advantage of the strategic viewpoints around Conques. First the Bancarel panorama, then we park for the core area (Abbey, Treasury, Rue Haute). Finally, we visit the bridge in the valley and the small chapel on the hill, which would be significantly more tiring on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant l'Hervé Busset",
+            "tip": "Gehobene Küche mit Kräutern aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant l'Hervé Busset",
+            "tip": "Kiváló konyha helyi fűszernövényekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant l'Hervé Busset",
+            "tip": "Bucătărie rafinată cu ierburi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant l'Hervé Busset",
+            "tip": "Fine dining featuring local herbs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bancarel Aussichtspunkt",
+            "tip": "Ruhe mit Blick auf das UNESCO-Dorf.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bancarel kilátópont",
+            "tip": "Csend, kilátással az UNESCO falura.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Bancarel",
+            "tip": "Liniște cu vedere spre satul UNESCO.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bancarel Viewpoint",
+            "tip": "Quiet with a view of the UNESCO village.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Dorfzentrum",
+            "tip": "Kaufen Sie 'Fouace', ein traditionelles Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a faluközpontban",
+            "tip": "Vegyél 'Fouace'-t, egy hagyományos süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din centrul satului",
+            "tip": "Cumpărați 'Fouace', o prăjitură tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the village center",
+            "tip": "Buy 'Fouace', a traditional pastry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Dorf ist teuer, nutzen Sie die Tagestickets.",
+          "Die Straßen im Dorf sind größtenteils Fußgängerzone.",
+          "Fahren Sie vorsichtig, die Serpentinen sind eng."
+        ],
+        "hu": [
+          "A parkolás a faluban drága, érdemes napijegyet venni.",
+          "A falu utcái nagyrészt sétálóövezetek.",
+          "Vezess óvatosan, a szerpentinek szűkek."
+        ],
+        "ro": [
+          "Parcarea în sat este scumpă, folosiți biletele de o zi.",
+          "Străzile din sat sunt în mare parte pietonale.",
+          "Conduceți cu atenție, serpentinele sunt înguste."
+        ],
+        "en": [
+          "Parking in the village is expensive, use the day passes.",
+          "The village streets are mostly pedestrian zones.",
+          "Drive carefully, the serpentines are narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Abteikirche Sainte-Foy",
+            "hu": "Sainte-Foy apátság",
+            "ro": "Abația Sainte-Foy",
+            "en": "Abbey of Sainte-Foy"
+          },
+          "coords": [
+            44.5992,
+            2.3965
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle befindet sich am Ortseingang.",
+            "hu": "A buszmegálló a falu bejáratánál található.",
+            "ro": "Stația de autobuz este la intrarea în sat.",
+            "en": "The bus stop is at the entrance of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchenschatz von Conques",
+            "hu": "Conques-i kincstár",
+            "ro": "Tezaurul din Conques",
+            "en": "Treasury of Conques"
+          },
+          "coords": [
+            44.599,
+            2.3963
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Audioguides sind in mehreren Sprachen verfügbar.",
+            "hu": "Audioguide-ok több nyelven is elérhetőek.",
+            "ro": "Ghiduri audio sunt disponibile în mai multe limbi.",
+            "en": "Audioguides are available in several languages."
+          }
+        },
+        {
+          "name": {
+            "de": "Klostergarten",
+            "hu": "Kolostorkert",
+            "ro": "Grădina mănăstirii",
+            "en": "Cloister Garden"
+          },
+          "coords": [
+            44.5993,
+            2.3968
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ideal für die Mittagspause mit Aussicht.",
+            "hu": "Ideális az ebédidőhöz kilátással.",
+            "ro": "Ideal pentru pauza de prânz cu vedere.",
+            "en": "Ideal for lunch break with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fachwerkhäuser der Rue Haute",
+            "hu": "Rue Haute fagerendás házai",
+            "ro": "Casele din Rue Haute",
+            "en": "Half-timbered houses of Rue Haute"
+          },
+          "coords": [
+            44.5995,
+            2.3955
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verlaufen Sie sich in den kleinen Gassen.",
+            "hu": "Tévedj el a kis sikátorokban.",
+            "ro": "Pierdeți-vă pe ulițele mici.",
+            "en": "Get lost in the small alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte du Barry",
+            "hu": "Porte du Barry",
+            "ro": "Poarta du Barry",
+            "en": "Porte du Barry"
+          },
+          "coords": [
+            44.5985,
+            2.396
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein letzter Blick auf das befestigte Erbe.",
+            "hu": "Utolsó pillantás az erődített örökségre.",
+            "ro": "O ultimă privire asupra moștenirii fortificate.",
+            "en": "A last look at the fortified heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Conques sehr klein ist, bringt uns der Regionalbus zum Dorfrand. Von dort aus erkunden wir alle wichtigen Sehenswürdigkeiten zu Fuß: Die monumentale Abteikirche, den wertvollen Goldschatz und die malerischen Gassen der Oberstadt. Alles liegt in unmittelbarer Gehweite.",
+        "hu": "Mivel Conques nagyon kicsi, a helyközi busz a falu szélére visz minket. Onnan gyalog fedezzük fel az összes fontos látnivalót: a monumentális apátságot, az értékes aranykincset és a felsőváros festői utcáit. Minden kényelmes sétatávolságra van.",
+        "ro": "Deoarece Conques este foarte mic, autobuzul regional ne lasă la marginea satului. De acolo explorăm pe jos toate atracțiile importante: abația monumentală, tezaurul prețios și ulițele pitorești ale orașului de sus. Totul este la o distanță scurtă de mers pe jos.",
+        "en": "Since Conques is very small, the regional bus brings us to the edge of the village. From there, we explore all the main sights on foot: the monumental Abbey Church, the precious gold treasury, and the picturesque streets of the upper town. Everything is within easy walking distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie-Pâtisserie de Conques",
+            "tip": "Holen Sie sich Sandwiches für ein Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie-Pâtisserie de Conques",
+            "tip": "Vegyél szendvicseket egy piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie-Pâtisserie de Conques",
+            "tip": "Luați sandvișuri pentru un picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie-Pâtisserie de Conques",
+            "tip": "Grab some sandwiches for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof der Abtei",
+            "tip": "Stille unter romanischen Bögen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az apátság belső udvara",
+            "tip": "Csend a román ívek alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a abației",
+            "tip": "Liniște sub arcadele romanice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Inner Courtyard",
+            "tip": "Quiet under Romanesque arches.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Trésor",
+            "tip": "Bücher und Repliken des Kirchenschatzes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du Trésor",
+            "tip": "Könyvek és a kincstár másolatai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Trésor",
+            "tip": "Cărți și replici ale tezaurului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du Trésor",
+            "tip": "Books and replicas of the treasury."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Rückfahrzeiten des Busses nach Rodez genau.",
+          "Es gibt nur wenige Busse pro Tag.",
+          "Der Ort ist komplett barrierefrei, aber steil."
+        ],
+        "hu": [
+          "Ellenőrizd pontosan a visszautat Rodez felé.",
+          "Naponta csak néhány buszjárat van.",
+          "A hely akadálymentesített, de nagyon meredek."
+        ],
+        "ro": [
+          "Verificați exact orele de întoarcere ale autobuzului spre Rodez.",
+          "Sunt doar câteva autobuze pe zi.",
+          "Locul este accesibil, dar foarte abrupt."
+        ],
+        "en": [
+          "Check the return times of the bus to Rodez carefully.",
+          "There are only a few buses per day.",
+          "The village is accessible but very steep."
+        ]
+      }
+    }
+  }
+}

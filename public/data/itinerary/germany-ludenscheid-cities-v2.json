@@ -1,0 +1,958 @@
+{
+  "city_id": "germany-ludenscheid-cities-v2",
+  "anchor": {
+    "name": "Altstadt Lüdenscheid",
+    "coords": [
+      51.212,
+      7.633
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt Lüdenscheid",
+          "coords": [
+            51.212,
+            7.633
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das 'Stadt des Lichts' Design in den Gassen.",
+            "hu": "Fedezze fel a 'Fény városa' dizájnt a szűk utcákban.",
+            "ro": "Descoperiți designul 'Orașul Luminii' pe străduțele vechi.",
+            "en": "Discover the 'City of Light' design elements in the alleys."
+          }
+        },
+        {
+          "name": "Erlöserkirche",
+          "coords": [
+            51.213,
+            7.634
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt mit markantem Turm.",
+            "hu": "A város legrégebbi temploma jellegzetes toronnyal.",
+            "ro": "Cea mai veche biserică din oraș, cu un turn distinctiv.",
+            "en": "The oldest church in the city with a striking tower."
+          }
+        },
+        {
+          "name": "Geschichtsmuseum Lüdenscheid",
+          "coords": [
+            51.211,
+            7.631
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spannende Einblicke in die Industriegeschichte des Sauerlands.",
+            "hu": "Izgalmas betekintés a Sauerland ipartörténetébe.",
+            "ro": "Perspective fascinante asupra istoriei industriale din Sauerland.",
+            "en": "Exciting insights into the industrial history of Sauerland."
+          }
+        },
+        {
+          "name": "Phänomenta",
+          "coords": [
+            51.215,
+            7.627
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Interaktives Science Center für alle Altersgruppen.",
+            "hu": "Interaktív tudományos központ minden korosztálynak.",
+            "ro": "Centru de știință interactiv pentru toate vârstele.",
+            "en": "Interactive science center for all age groups."
+          }
+        },
+        {
+          "name": "Stadtpark Lüdenscheid",
+          "coords": [
+            51.207,
+            7.635
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Grüne Oase mit der markanten Parkpalette.",
+            "hu": "Zöld oázis a város közepén, pihenésre ideális.",
+            "ro": "Oază de verdeață ideală pentru relaxare.",
+            "en": "Green oasis perfect for a relaxing stroll."
+          }
+        },
+        {
+          "name": "Kulturhaus Lüdenscheid",
+          "coords": [
+            51.21,
+            7.63
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Architektonisch wertvolles Zentrum für Theater und Konzerte.",
+            "hu": "Építészetileg értékes színházi és koncertközpont.",
+            "ro": "Centru cultural valoros din punct de vedere arhitectural.",
+            "en": "Architecturally significant center for theatre and concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die historische Altstadt und das Geschichtsmuseum. Mittags tauchen Sie in die Welt der Physik in der Phänomenta ein. Der Nachmittag gehört der Entspannung im Stadtpark, bevor Sie den Tag am modernen Kulturhaus ausklingen lassen.",
+        "hu": "Délelőtt a történelmi óvárost és a helytörténeti múzeumot fedezzük fel. Délben a fizika világa vár a Phänomentában. A délután a pihenésé a városi parkban, végül a modern Kulturhaus környékén zárjuk a napot.",
+        "ro": "Dimineața explorăm centrul istoric și muzeul de istorie. La prânz, universul fizicii ne așteaptă la Phänomenta. După-amiaza este dedicată relaxării în parcul orașului, încheind ziua lângă modernul Kulturhaus.",
+        "en": "In the morning, explore the historic old town and the local history museum. At noon, dive into the world of physics at Phänomenta. The afternoon is for relaxing in the city park, ending your day near the modern Kulturhaus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant zur Altstadt",
+            "tip": "Probieren Sie die westfälische Potthucke."
+          },
+          {
+            "name": "Dahlmann",
+            "tip": "Traditionsreiches Gasthaus mit regionaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant zur Altstadt",
+            "tip": "Kóstolja meg a vesztfáliai Potthuckét (burgonyás étel)."
+          },
+          {
+            "name": "Dahlmann",
+            "tip": "Hagyományőrző vendéglő regionális fogásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant zur Altstadt",
+            "tip": "Încercați specialitatea locală Potthucke."
+          },
+          {
+            "name": "Dahlmann",
+            "tip": "Han tradițional cu bucătărie regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant zur Altstadt",
+            "tip": "Try the Westphalian Potthucke (potato specialty)."
+          },
+          {
+            "name": "Dahlmann",
+            "tip": "Traditional inn serving regional German dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Weiher",
+            "tip": "Ruhiger Platz am Wasser im Park.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park tava",
+            "tip": "Csendes hely a vízparton a parkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul din Stadtpark",
+            "tip": "Loc liniștit lângă apă în parcul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtpark Pond",
+            "tip": "Quiet spot by the water in the park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stern-Center",
+            "tip": "Das größte Einkaufszentrum der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stern-Center",
+            "tip": "A régió legnagyobb bevásárlóközpontja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stern-Center",
+            "tip": "Cel mai mare centru comercial din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stern-Center",
+            "tip": "The largest shopping mall in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lüdenscheid ist als Stadt des Lichts bekannt; achten Sie auf die Lichtinstallationen.",
+          "Die Phänomenta erfordert mindestens 2-3 Stunden Zeit.",
+          "Festes Schuhwerk für die teils steilen Gassen der Altstadt empfohlen."
+        ],
+        "hu": [
+          "Lüdenscheid a fények városa; figyeljen a különleges fényinstallációkra.",
+          "A Phänomenta múzeumra szánjon legalább 2-3 órát.",
+          "Kényelmes cipő ajánlott az óváros néhol meredek utcáihoz."
+        ],
+        "ro": [
+          "Lüdenscheid este cunoscut ca orașul luminii; observați instalațiile luminoase.",
+          "Muzeul Phänomenta necesită cel puțin 2-3 ore pentru vizitare.",
+          "Se recomandă încălțăminte comodă pentru străzile abrupte din centrul vechi."
+        ],
+        "en": [
+          "Lüdenscheid is known as the 'City of Light'; look out for the light installations.",
+          "Allow at least 2-3 hours for the Phänomenta science center.",
+          "Sturdy shoes are recommended for the sometimes steep alleys of the old town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt Lüdenscheid",
+          "coords": [
+            51.212,
+            7.633
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im historischen Herzen.",
+            "hu": "Kiindulópont a történelmi városközpontban.",
+            "ro": "Punct de plecare în inima istorică.",
+            "en": "Starting point in the historic heart."
+          }
+        },
+        {
+          "name": "Baukastenmuseum",
+          "coords": [
+            51.214,
+            7.625
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Faszinierende Sammlung historischer Baukästen.",
+            "hu": "Történelmi építőkészletek lenyűgöző gyűjteménye.",
+            "ro": "Colecție fascinantă de seturi de construcție istorice.",
+            "en": "Fascinating collection of historical building sets."
+          }
+        },
+        {
+          "name": "Stadtpark Lüdenscheid",
+          "coords": [
+            51.207,
+            7.635
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Fahrt durchs Grüne.",
+            "hu": "Ideális egy pihentető tekeréshez a zöldben.",
+            "ro": "Ideal pentru o plimbare relaxantă prin natură.",
+            "en": "Ideal for a relaxed ride through the greenery."
+          }
+        },
+        {
+          "name": "Schloss Neuenhof",
+          "coords": [
+            51.185,
+            7.648
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wunderschönes Wasserschloss im Süden der Stadt.",
+            "hu": "Gyönyörű vízikastély a város déli részén.",
+            "ro": "Castel pe apă superb în sudul orașului.",
+            "en": "Beautiful moated castle in the south of the city."
+          }
+        },
+        {
+          "name": "Homerturm",
+          "coords": [
+            51.214,
+            7.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Aussichtsturm mit Panoramablick über das Sauerland.",
+            "hu": "Kilátó panorámás kilátással a Sauerlandra.",
+            "ro": "Turn de observație cu vedere panoramică asupra Sauerland.",
+            "en": "Observation tower with panoramic views over Sauerland."
+          }
+        },
+        {
+          "name": "Kulturhaus",
+          "coords": [
+            51.21,
+            7.63
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für Kultur und Entspannung.",
+            "hu": "Vissza a központba kultúráért és pihenésért.",
+            "ro": "Înapoi în centru pentru cultură și relaxare.",
+            "en": "Back in the center for culture and relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Kultur und Natur. Von der Altstadt zum Baukastenmuseum, dann durch den Stadtpark zum idyllischen Wasserschloss Neuenhof. Der Höhepunkt ist der Homerturm mit Weitblick, bevor es zurück ins Zentrum geht.",
+        "hu": "Ez a kerékpártúra összeköti a kultúrát és a természetet. Az óvárostól az építőkészlet múzeumig, majd a parkon át a Neuenhof vízikastélyhoz tekerünk. A csúcspont a Homerturm kilátó, mielőtt visszatérnénk a központba.",
+        "ro": "Acest tur cu bicicleta îmbină cultura și natura. Din centrul vechi la muzeul seturilor de construcție, apoi prin parc spre idilicul castel Neuenhof. Punctul culminant este turnul Homerturm cu vedere panoramică.",
+        "en": "This bike tour combines culture and nature. From the old town to the building set museum, then through the park to the idyllic moated castle Neuenhof. The highlight is the Homerturm tower with wide views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haus Hohscheid",
+            "tip": "Rustikale Einkehr auf der Radroute."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haus Hohscheid",
+            "tip": "Rusztikus pihenőhely a kerékpáros útvonalon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haus Hohscheid",
+            "tip": "Popas rustic pe traseul de biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haus Hohscheid",
+            "tip": "Rustic stopover on the bike route."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Neuenhof",
+            "tip": "Friedliche Atmosphäre am Wasser.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neuenhof kastélypark",
+            "tip": "Békés hangulat a vízparton.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Neuenhof",
+            "tip": "Atmosferă liniștită lângă apă.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Neuenhof Castle Park",
+            "tip": "Peaceful atmosphere by the water.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lüdenscheider Präsente",
+            "tip": "Lokale Spezialitäten und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lüdenscheider Präsente",
+            "tip": "Helyi specialitások és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lüdenscheider Präsente",
+            "tip": "Specialități locale și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lüdenscheider Präsente",
+            "tip": "Local specialties and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Homerturm ist hügelig; ein E-Bike ist empfehlenswert.",
+          "Schloss Neuenhof kann nur von außen besichtigt werden.",
+          "Tragen Sie einen Helm, da es einige Abfahrten gibt."
+        ],
+        "hu": [
+          "Az út a Homerturm kilátóhoz dombos; az e-bike ajánlott.",
+          "A Neuenhof kastély csak kívülről tekinthető meg.",
+          "Viseljen bukósisakot a lejtős szakaszok miatt."
+        ],
+        "ro": [
+          "Traseul spre Homerturm este deluros; se recomandă o bicicletă electrică.",
+          "Castelul Neuenhof poate fi vizitat doar pe exterior.",
+          "Purtați cască, deoarece există câteva coborâri."
+        ],
+        "en": [
+          "The route to Homerturm is hilly; an e-bike is highly recommended.",
+          "Schloss Neuenhof can only be viewed from the outside.",
+          "Wear a helmet as there are several downhill sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 22.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadt Lüdenscheid",
+          "coords": [
+            51.212,
+            7.633
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Stern-Center.",
+            "hu": "Parkoljon a Stern-Center parkolóházában.",
+            "ro": "Parcați în garajul de la Stern-Center.",
+            "en": "Park in the Stern-Center parking garage."
+          }
+        },
+        {
+          "name": "Geschichtsmuseum Lüdenscheid",
+          "coords": [
+            51.211,
+            7.631
+          ],
+          "category": "museums",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Marktplatz (Cluster A).",
+            "hu": "Gyalogosan elérhető a piactérről (A-klaszter).",
+            "ro": "Accesibil pe jos din piața centrală (Cluster A).",
+            "en": "Walkable from the market square (Cluster A)."
+          }
+        },
+        {
+          "name": "Phänomenta",
+          "coords": [
+            51.215,
+            7.627
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eigener Parkplatz direkt vor Ort (Cluster B).",
+            "hu": "Saját parkoló közvetlenül a helyszínen (B-klaszter).",
+            "ro": "Parcare proprie direct la locație (Cluster B).",
+            "en": "Dedicated parking right on site (Cluster B)."
+          }
+        },
+        {
+          "name": "Schloss Neuenhof",
+          "coords": [
+            51.185,
+            7.648
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Süden zum Schlossgelände.",
+            "hu": "Rövid út délre a kastély területéhez.",
+            "ro": "Scurtă călătorie spre sud la domeniul castelului.",
+            "en": "Short drive south to the castle grounds."
+          }
+        },
+        {
+          "name": "Versetalsperre",
+          "coords": [
+            51.17,
+            7.675
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Herrliches Naherholungsgebiet zum Spazierengehen.",
+            "hu": "Csodálatos üdülőövezet egy nagy sétához.",
+            "ro": "Zonă superbă de recreere pentru plimbări.",
+            "en": "Beautiful recreation area for a long stroll."
+          }
+        },
+        {
+          "name": "Homerturm",
+          "coords": [
+            51.214,
+            7.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Abschluss mit Panoramablick (kurzer Fußweg vom Parkplatz).",
+            "hu": "Zárás panorámával (rövid séta a parkolótól).",
+            "ro": "Final cu vedere panoramică (scurtă plimbare de la parcare).",
+            "en": "Finish with panoramic views (short walk from parking)."
+          }
+        },
+        {
+          "name": "Kulturhaus",
+          "coords": [
+            51.21,
+            7.63
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für das Abendessen.",
+            "hu": "Visszatérés a központba vacsorázni.",
+            "ro": "Întoarcere în centru pentru cină.",
+            "en": "Return to the center for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die städtischen Highlights mit der Natur des Sauerlands. Nach Kultur und Technik im Zentrum fahren Sie zum malerischen Schloss Neuenhof und genießen die Ruhe an der Versetalsperre, bevor der Homerturm den Blick weitet.",
+        "hu": "Ez az autós túra ötvözi a városi látnivalókat a Sauerland természetével. A központi kultúra és technika után a festői Neuenhof kastélyhoz hajtunk, majd a Verse-víztározónál pihenünk, végül a Homerturm kilátó zárja a napot.",
+        "ro": "Acest tur cu mașina combină punctele de atracție urbane cu natura din Sauerland. După cultură și tehnologie în centru, conduceți spre pitorescul castel Neuenhof și vă bucurați de liniște la Versetalsperre.",
+        "en": "This car tour combines urban highlights with Sauerland's nature. After culture and technology in the center, drive to the picturesque Neuenhof Castle and enjoy the peace at Versetalsperre reservoir."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Haus Vedder",
+            "tip": "Gute Küche in der Nähe der Versetalsperre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haus Vedder",
+            "tip": "Jó konyha a Verse-víztározó közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Haus Vedder",
+            "tip": "Bucătărie bună în apropiere de Versetalsperre."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haus Vedder",
+            "tip": "Good food near the Versetalsperre reservoir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Versetalsperre Ufer",
+            "tip": "Absoluter Frieden mitten im Wald.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verse-víztározó partja",
+            "tip": "Teljes nyugalom az erdő közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Versetalsperre",
+            "tip": "Liniște deplină în mijlocul pădurii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Versetalsperre Shore",
+            "tip": "Absolute peace in the middle of the forest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stern-Center Lüdenscheid",
+            "tip": "Zentraler Shopping-Stopp mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stern-Center Lüdenscheid",
+            "tip": "Központi bevásárlóhely sok parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stern-Center Lüdenscheid",
+            "tip": "Centru comercial central cu multe locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stern-Center Lüdenscheid",
+            "tip": "Central shopping stop with plenty of parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren im Zentrum sind moderat.",
+          "Die Straßen zur Versetalsperre sind kurvig, aber landschaftlich reizvoll.",
+          "Am Homerturm gibt es einen kleinen Wanderparkplatz."
+        ],
+        "hu": [
+          "A parkolási díjak a központban mérsékeltek.",
+          "A víztározóhoz vezető utak kanyargósak, de látványosak.",
+          "A Homerturm kilátónál van egy kis túrázó-parkoló."
+        ],
+        "ro": [
+          "Taxele de parcare în centru sunt moderate.",
+          "Drumurile spre Versetalsperre sunt sinuoase, dar pitorești.",
+          "La Homerturm există o mică parcare pentru drumeți."
+        ],
+        "en": [
+          "Parking fees in the center are moderate.",
+          "The roads to Versetalsperre are winding but scenic.",
+          "There is a small hikers' parking lot at Homerturm."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt Lüdenscheid",
+          "coords": [
+            51.212,
+            7.633
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busbahnhof (ZOB) ist in Gehweite.",
+            "hu": "A központi buszpályaudvar (ZOB) sétatávolságra van.",
+            "ro": "Autogara centrală (ZOB) este la mică distanță.",
+            "en": "The central bus station (ZOB) is within walking distance."
+          }
+        },
+        {
+          "name": "Erlöserkirche",
+          "coords": [
+            51.213,
+            7.634
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wahrzeichen im Stadtzentrum (Distrikt 1).",
+            "hu": "Jellegzetes templom a városközpontban (1. kerület).",
+            "ro": "Simbol în centrul orașului (Districtul 1).",
+            "en": "Landmark in the city center (District 1)."
+          }
+        },
+        {
+          "name": "Phänomenta",
+          "coords": [
+            51.215,
+            7.627
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus direkt zur Haltestelle Phänomenta (Distrikt 2).",
+            "hu": "Busszal közvetlenül a Phänomenta megállóig (2. kerület).",
+            "ro": "Cu autobuzul direct la stația Phänomenta (Districtul 2).",
+            "en": "By bus directly to the Phänomenta stop (District 2)."
+          }
+        },
+        {
+          "name": "Stadtpark",
+          "coords": [
+            51.207,
+            7.635
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erreichbar mit Linien Richtung Sauerfeld/Stadtpark.",
+            "hu": "Elérhető a Sauerfeld/Stadtpark felé tartó járatokkal.",
+            "ro": "Accesibil cu liniile spre Sauerfeld/Stadtpark.",
+            "en": "Accessible with bus lines towards Sauerfeld/Stadtpark."
+          }
+        },
+        {
+          "name": "Geschichtsmuseum",
+          "coords": [
+            51.211,
+            7.631
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für Industriegeschichte.",
+            "hu": "Vissza a központba az ipartörténetért.",
+            "ro": "Înapoi în centru pentru istoria industrială.",
+            "en": "Back in the center for industrial history."
+          }
+        },
+        {
+          "name": "Kulturhaus",
+          "coords": [
+            51.21,
+            7.63
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kultureller Ausklang nahe dem ZOB.",
+            "hu": "Kulturális zárás a buszpályaudvar közelében.",
+            "ro": "Final cultural aproape de ZOB.",
+            "en": "Cultural finale near the bus station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Lüdenscheid. Start in der Altstadt, gefolgt von Technik-Spaß in der Phänomenta. Mittags entspannen Sie im Stadtpark, bevor Sie im Geschichtsmuseum mehr über das Sauerland erfahren.",
+        "hu": "Használja Lüdenscheid kiterjedt buszhálózatát. Kezdés az óvárosban, majd technikai szórakozás a Phänomentában. Délben pihenés a parkban, végül a helytörténeti múzeumban ismerheti meg Sauerlandot.",
+        "ro": "Utilizați rețeaua densă de autobuze din Lüdenscheid. Începeți în centrul vechi, urmat de distracție tehnică la Phänomenta. La prânz vă relaxați în parc, înainte de a afla mai multe despre Sauerland la muzeu.",
+        "en": "Make use of Lüdenscheid's dense bus network. Start in the old town, followed by technical fun at Phänomenta. At noon, relax in the park before learning more about Sauerland at the history museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pfeffermühle",
+            "tip": "Beliebtes Restaurant im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pfeffermühle",
+            "tip": "Népszerű étterem a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pfeffermühle",
+            "tip": "Restaurant popular în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pfeffermühle",
+            "tip": "Popular restaurant in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten im Stadtpark",
+            "tip": "Duftende Ruhepause.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rózsakert a városi parkban",
+            "tip": "Illatos pihenőhely.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Popas parfumat în Stadtpark.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rose Garden in City Park",
+            "tip": "A fragrant place for a break.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Wilhelmstraße",
+            "tip": "Bummeln und Shoppen im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wilhelmstraße sétálóutca",
+            "tip": "Séta és vásárlás a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Wilhelmstraße",
+            "tip": "Plimbare și cumpărături în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wilhelmstraße Pedestrian Zone",
+            "tip": "Stroll and shop in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich eine Tageskarte für den MVG Busverkehr.",
+          "Der ZOB am Sauerfeld ist der zentrale Umstiegspunkt.",
+          "Die Busse fahren unter der Woche sehr regelmäßig."
+        ],
+        "hu": [
+          "Váltson napijegyet az MVG buszjáratokra.",
+          "A Sauerfeld melletti ZOB a központi átszállási pont.",
+          "A buszok hétköznap nagyon rendszeresen járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul cu autobuzul MVG.",
+          "ZOB de la Sauerfeld este punctul central de transfer.",
+          "Autobuzele circulă foarte regulat în timpul săptămânii."
+        ],
+        "en": [
+          "Get a day ticket for the MVG bus network.",
+          "The ZOB (central bus station) at Sauerfeld is the main transfer point.",
+          "Buses run very frequently on weekdays."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1259 @@
+{
+  "city_id": "berchtesgaden-extra",
+  "anchor": {
+    "name": "Berchtesgaden Marktplatz",
+    "coords": [
+      47.6301,
+      13.0012
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            47.6301,
+            13.0012
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Frühstücken Sie bei einer lokalen Bäckerei.",
+            "hu": "Reggelizz egy helyi pékségben.",
+            "ro": "Luați micul dejun la o brutărie locală.",
+            "en": "Have breakfast at a local bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Schloss",
+            "hu": "Királyi kastély",
+            "ro": "Castelul Regal",
+            "en": "Royal Castle"
+          },
+          "coords": [
+            47.6305,
+            13.0035
+          ],
+          "category": "castles",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Waffenkammer.",
+            "hu": "Nézd meg a fegyvertárat.",
+            "ro": "Vizitați sala de arme.",
+            "en": "Visit the armory."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Apátsági templom",
+            "ro": "Biserica abației",
+            "en": "Abbey Church"
+          },
+          "coords": [
+            47.6308,
+            13.0038
+          ],
+          "category": "churches",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das romanische Portal.",
+            "hu": "Figyeld meg a román stílusú kaput.",
+            "ro": "Observați portalul romanic.",
+            "en": "Notice the Romanesque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Gasthof",
+            "hu": "Ebéd egy helyi fogadóban",
+            "ro": "Prânz la un han local",
+            "en": "Lunch at a local inn"
+          },
+          "coords": [
+            47.6295,
+            12.9995
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie bayerische Knödel.",
+            "hu": "Kóstold meg a bajor gombócot.",
+            "ro": "Încercați găluștele bavareze.",
+            "en": "Try the Bavarian dumplings."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Berge",
+            "hu": "A Hegyek Háza",
+            "ro": "Casa Munților",
+            "en": "House of the Mountains"
+          },
+          "coords": [
+            47.6288,
+            12.9928
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellung über die Alpen.",
+            "hu": "Interaktív kiállítás az Alpokról.",
+            "ro": "Expoziție interactivă despre Alpi.",
+            "en": "Interactive exhibition about the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Luitpoldpark",
+            "hu": "Luitpold park",
+            "ro": "Parcul Luitpold",
+            "en": "Luitpold Park"
+          },
+          "coords": [
+            47.6275,
+            12.9985
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Blick auf den Watzmann.",
+            "hu": "A legjobb kilátás a Watzmannra.",
+            "ro": "Cea mai bună vedere spre Watzmann.",
+            "en": "Best view of the Watzmann mountain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das historische Herz von Berchtesgaden am Marktplatz und besichtigen das herrschaftliche Schloss. Mittags genießen Sie rustikale bayerische Küche in einem traditionellen Gasthof. Der Nachmittag steht im Zeichen der Natur im modernen Museum 'Haus der Berge', gefolgt von einem entspannten Spaziergang im Luitpoldpark mit Blick auf die Alpenriesen.",
+        "hu": "A reggelt Berchtesgaden történelmi szívében, a Piactéren kezdjük, majd meglátogatjuk a fejedelmi kastélyt. Ebédre egy hagyományos fogadó rusztikus bajor ételeit élvezhetjük. A délután a természeté: a modern 'Haus der Berge' múzeum után egy pihentető séta vár ránk a Luitpold parkban, ahonnan pazar kilátás nyílik az Alpok óriásaira.",
+        "ro": "Dimineața explorați inima istorică a orașului Berchtesgaden în Piața Centrală și vizitați castelul impunător. La prânz, savurați bucătăria bavareză rustică într-un han tradițional. După-amiaza este dedicată naturii la muzeul modern 'Casa Munților', urmată de o plimbare relaxantă în Parcul Luitpold, cu vedere spre giganții Alpilor.",
+        "en": "Start your morning in the historical heart of Berchtesgaden at the Market Square and visit the stately castle. For lunch, enjoy rustic Bavarian cuisine in a traditional inn. The afternoon is dedicated to nature at the modern 'House of the Mountains' museum, followed by a relaxing stroll in Luitpold Park with views of the Alpine giants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bayerischer Schweinebraten",
+            "tip": "Mit Kruste und Semmelknödel."
+          },
+          {
+            "name": "Gasthof Neuhaus",
+            "tip": "Traditionsreiches Haus direkt am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bajor sült sertéshús",
+            "tip": "Ropogós bőrrel és zsemlegombóccal."
+          },
+          {
+            "name": "Gasthof Neuhaus",
+            "tip": "Hagyományőrző étterem a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friptură de porc bavareză",
+            "tip": "Cu sorici crocant și găluște de chifle."
+          },
+          {
+            "name": "Gasthof Neuhaus",
+            "tip": "Restaurant tradițional chiar în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bavarian Roast Pork",
+            "tip": "With crackling and bread dumplings."
+          },
+          {
+            "name": "Gasthof Neuhaus",
+            "tip": "Traditional inn directly on the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Luitpoldpark Bank",
+            "tip": "Ruhiger Spot für Bergblick.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stiftskirche Kreuzgang",
+            "tip": "Stille Atmosphäre.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luitpold park pad",
+            "tip": "Csendes pont hegyi kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Stiftskirche kerengő",
+            "tip": "A nyugalom szigete.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă în Parcul Luitpold",
+            "tip": "Loc liniștit pentru panorama montană.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Claustrul Bisericii",
+            "tip": "Atmosferă de liniște.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Luitpold Park Bench",
+            "tip": "Quiet spot for mountain views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Abbey Church Cloister",
+            "tip": "Silent atmosphere.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Enzianbrennerei Grassl",
+            "tip": "Lokaler Kräuterschnaps."
+          },
+          {
+            "name": "Holzschnitzereien",
+            "tip": "Traditionelle Handwerkskunst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enzianbrennerei Grassl",
+            "tip": "Helyi gyógynövénypálinka."
+          },
+          {
+            "name": "Fafaragványok",
+            "tip": "Hagyományos kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Enzianbrennerei Grassl",
+            "tip": "Schnaps local de gențiană."
+          },
+          {
+            "name": "Sculpturi în lemn",
+            "tip": "Meșteșug tradițional local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enzianbrennerei Grassl",
+            "tip": "Local herbal schnapps."
+          },
+          {
+            "name": "Wood Carvings",
+            "tip": "Traditional local handicraft."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da es im Ort steil ist.",
+          "Das Schloss ist nur mit Führung zugänglich."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert a város meredek.",
+          "A kastély csak vezetéssel látogatható."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece orașul este în pantă.",
+          "Castelul poate fi vizitat doar cu ghid."
+        ],
+        "en": [
+          "Wear comfortable shoes as the town is steep.",
+          "The castle is only accessible via guided tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Salzbergwerk",
+            "hu": "Sóbánya",
+            "ro": "Salina Berchtesgaden",
+            "en": "Salt Mine"
+          },
+          "coords": [
+            47.6378,
+            13.0175
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets vorab online.",
+            "hu": "Foglalj jegyet előre online.",
+            "ro": "Rezervați bilete online în avans.",
+            "en": "Book tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (Cluster Altstadt)",
+            "hu": "Piactér (Óváros klaszter)",
+            "ro": "Piața Centrală (Cluster Centrul Vechi)",
+            "en": "Market Square (Old Town Cluster)"
+          },
+          "coords": [
+            47.6301,
+            13.0012
+          ],
+          "category": "squares",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Markt.",
+            "hu": "Parkolj a piaci parkolóházban.",
+            "ro": "Parcați în parcarea de la piață.",
+            "en": "Park in the market parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Schloss",
+            "hu": "Királyi kastély",
+            "ro": "Castelul Regal",
+            "en": "Royal Castle"
+          },
+          "coords": [
+            47.6305,
+            13.0035
+          ],
+          "category": "castles",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalog elérhető a piactérről.",
+            "ro": "Accesibil pe jos din piață.",
+            "en": "Walking distance from market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebéd",
+            "ro": "Prânz",
+            "en": "Lunch"
+          },
+          "coords": [
+            47.6308,
+            13.004
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Cluster-Walking: Auto bleibt stehen.",
+            "hu": "Gyalogos körút: az autó a parkolóban marad.",
+            "ro": "Cluster-walking: mașina rămâne în parcare.",
+            "en": "Cluster walking: leave the car parked."
+          }
+        },
+        {
+          "name": {
+            "de": "Dokumentation Obersalzberg",
+            "hu": "Obersalzberg Dokumentációs Központ",
+            "ro": "Centrul de Documentare Obersalzberg",
+            "en": "Documentation Obersalzberg"
+          },
+          "coords": [
+            47.6315,
+            13.0402
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wichtiger Ort der Zeitgeschichte.",
+            "hu": "Fontos történelmi emlékhely.",
+            "ro": "Loc important al istoriei contemporane.",
+            "en": "Important site of contemporary history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kehlsteinhaus Busabfahrt",
+            "hu": "Sasfészek buszindulás",
+            "ro": "Plecare autocar Kehlsteinhaus",
+            "en": "Eagle's Nest Bus Departure"
+          },
+          "coords": [
+            47.6318,
+            13.041
+          ],
+          "category": "landmark",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur mit Spezialbussen erreichbar.",
+            "hu": "Csak speciális busszal érhető el.",
+            "ro": "Accesibil doar cu autobuze speciale.",
+            "en": "Only accessible via special buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama-Blick Obersalzberg",
+            "hu": "Obersalzberg panoráma",
+            "ro": "Panoramă Obersalzberg",
+            "en": "Obersalzberg Panorama"
+          },
+          "coords": [
+            47.6325,
+            13.043
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum Aussichtspunkt.",
+            "hu": "Rövid séta a kilátóponthoz.",
+            "ro": "Scurtă plimbare până la punctul de belvedere.",
+            "en": "Short walk to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert Technik, Geschichte und alpine Pracht. Wir beginnen unter Tage im Salzbergwerk. Danach parken wir in Berchtesgaden für einen Rundgang durch die Altstadt und das Schloss. Zum Abschluss fahren wir hinauf zum Obersalzberg, um uns mit der Geschichte auseinanderzusetzen und die spektakuläre Aussicht zu genießen.",
+        "hu": "Ez az autós túra egyesíti a technikát, a történelmet és az alpesi pompát. A föld alatt kezdünk a sóbányában, majd Berchtesgadenben parkolunk, hogy gyalog fedezzük fel az óvárost és a kastélyt. Végül felautózunk az Obersalzbergre, ahol a történelem mellett a látványos panoráma vár ránk.",
+        "ro": "Acest tur auto combină tehnologia, istoria și splendoarea alpină. Începem în subteran la salină, apoi parcăm în Berchtesgaden pentru un tur pietonal al centrului vechi și al castelului. La final, urcăm la Obersalzberg pentru a explora istoria locului și a ne bucura de vederile spectaculoase.",
+        "en": "This car tour combines technology, history, and Alpine splendor. We begin underground at the salt mine, then park in Berchtesgaden for a walking tour of the old town and the castle. Finally, we drive up to Obersalzberg to engage with history and enjoy the spectacular views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Windbeutelbaron",
+            "tip": "Riesige Windbeutel mit Aussicht."
+          },
+          {
+            "name": "Biergarten am Königssee",
+            "tip": "Klassisch bayerisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Windbeutelbaron",
+            "tip": "Óriási képviselőfánk pazar kilátással."
+          },
+          {
+            "name": "Biergarten am Königssee",
+            "tip": "Klasszikus bajor sörkert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Windbeutelbaron",
+            "tip": "Gogoși uriașe cu frișcă și vedere panoramică."
+          },
+          {
+            "name": "Biergarten la Königssee",
+            "tip": "Clasic bavarez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Windbeutelbaron",
+            "tip": "Giant cream puffs with a view."
+          },
+          {
+            "name": "Biergarten at Königssee",
+            "tip": "Classic Bavarian style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Malerwinkel",
+            "tip": "Stiller Blick auf den Königssee.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obersalzberg Höhenweg",
+            "tip": "Wandern über den Wolken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malerwinkel",
+            "tip": "Csendes kilátás a Königssee-re.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obersalzberg panorámaút",
+            "tip": "Túrázás a felhők felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malerwinkel",
+            "tip": "Vedere liniștită spre Königssee.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Drumul de înălțime Obersalzberg",
+            "tip": "Drumeție deasupra norilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Malerwinkel",
+            "tip": "Quiet view of Lake Königssee.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obersalzberg High Trail",
+            "tip": "Hiking above the clouds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Berchtesgadener Salz",
+            "tip": "Direkt aus dem Bergwerk."
+          },
+          {
+            "name": "Lederhosen-Macher",
+            "tip": "Echte bayerische Tracht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berchtesgadeni só",
+            "tip": "Közvetlenül a bányából."
+          },
+          {
+            "name": "Bőrnadrág készítő",
+            "tip": "Eredeti bajor népviselet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare de Berchtesgaden",
+            "tip": "Direct din mină."
+          },
+          {
+            "name": "Ateliere de Lederhosen",
+            "tip": "Costume tradiționale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berchtesgaden Salt",
+            "tip": "Straight from the mine."
+          },
+          {
+            "name": "Lederhosen makers",
+            "tip": "Authentic Bavarian traditional wear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Auffahrt zum Obersalzberg ist steil und kurvig.",
+          "Nutzen Sie Cluster-Parkplätze, um Gebühren zu sparen."
+        ],
+        "hu": [
+          "Az út az Obersalzbergre meredek és kanyargós.",
+          "Használj központi parkolókat a költségek csökkentésére."
+        ],
+        "ro": [
+          "Urcarea spre Obersalzberg este abruptă și cu multe curbe.",
+          "Folosiți parcările tip cluster pentru a economisi taxe."
+        ],
+        "en": [
+          "The drive to Obersalzberg is steep and winding.",
+          "Use cluster parking areas to save on fees."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            47.6301,
+            13.0012
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie im Zentrum.",
+            "hu": "Indulás a központból.",
+            "ro": "Start din centru.",
+            "en": "Start in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzbergwerk",
+            "hu": "Sóbánya",
+            "ro": "Salina",
+            "en": "Salt Mine"
+          },
+          "coords": [
+            47.6378,
+            13.0175
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flacher Radweg entlang der Ache.",
+            "hu": "Lapos kerékpárút az Ache mentén.",
+            "ro": "Pistă de biciclete plată de-a lungul râului Ache.",
+            "en": "Flat bike path along the Ache river."
+          }
+        },
+        {
+          "name": {
+            "de": "Königssee Ache Weg",
+            "hu": "Königssee Ache út",
+            "ro": "Drumul Königssee Ache",
+            "en": "Königssee Ache Path"
+          },
+          "coords": [
+            47.615,
+            12.995
+          ],
+          "category": "nature",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Weg am Fluss.",
+            "hu": "Gyönyörű út a folyó mentén.",
+            "ro": "Drum superb pe lângă râu.",
+            "en": "Beautiful path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Königssee Ufer",
+            "hu": "Königssee part",
+            "ro": "Țărmul Königssee",
+            "en": "Königssee Shore"
+          },
+          "coords": [
+            47.592,
+            12.988
+          ],
+          "category": "harbor",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Stellen Sie die Fahrräder sicher ab.",
+            "hu": "Zárd le biztonságosan a biciklit.",
+            "ro": "Parcați bicicletele în siguranță.",
+            "en": "Park your bikes securely."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Bartholomä (mit Boot)",
+            "hu": "Szt. Bertalan templom (hajóval)",
+            "ro": "St. Bartholomä (cu barca)",
+            "en": "St. Bartholomä (via Boat)"
+          },
+          "coords": [
+            47.544,
+            12.972
+          ],
+          "category": "churches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrräder bleiben am Ufer.",
+            "hu": "A biciklik a parton maradnak.",
+            "ro": "Bicicletele rămân la țărm.",
+            "en": "Bikes stay at the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Berchtesgaden Zentrum",
+            "hu": "Berchtesgaden központ",
+            "ro": "Centru Berchtesgaden",
+            "en": "Berchtesgaden Center"
+          },
+          "coords": [
+            47.629,
+            12.998
+          ],
+          "category": "squares",
+          "arrive_at": "16:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Rückfahrt leicht bergauf.",
+            "hu": "Visszaút enyhén emelkedőn.",
+            "ro": "Întoarcere ușor în pantă.",
+            "en": "Return trip slightly uphill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie das Berchtesgadener Land auf zwei Rädern. Von der Altstadt radeln wir entspannt am Fluss Ache entlang zum Salzbergwerk. Danach führt uns ein herrlicher Naturweg direkt zum glasklaren Königssee. Ein Bootstrip zur Wallfahrtskirche St. Bartholomä rundet das Erlebnis ab, bevor wir gemütlich zurück ins Zentrum strampeln.",
+        "hu": "Fedezd fel a Berchtesgadeni vidéket két keréken! Az óvárosból indulva kényelmesen kerekezünk az Ache folyó mentén a sóbányáig, majd egy csodás természeti ösvényen jutunk el a kristálytiszta Königssee-ig. Egy hajókirándulás a Szt. Bertalan templomhoz koronázza meg a napot, mielőtt visszatekernénk a központba.",
+        "ro": "Explorați regiunea Berchtesgaden pe două roți. Din centrul vechi pedalăm relaxat de-a lungul râului Ache până la salină. Apoi, un drum natural superb ne duce direct la lacul Königssee. O excursie cu barca la biserica St. Bartholomä completează experiența, înainte de a pedala înapoi spre centru.",
+        "en": "Experience the Berchtesgaden region on two wheels. From the old town, we cycle relaxed along the Ache river to the salt mine. Then, a beautiful nature path leads us directly to the crystal-clear Lake Königssee. A boat trip to St. Bartholomä church tops off the experience before we cycle back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Steckerlfisch",
+            "tip": "Am Königsseeufer probieren."
+          },
+          {
+            "name": "Radler",
+            "tip": "Erfrischend nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Steckerlfisch",
+            "tip": "Próbáld ki a tóparton a sült halat."
+          },
+          {
+            "name": "Radler",
+            "tip": "Frissítő a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la proțap",
+            "tip": "Încercați pe malul lacului."
+          },
+          {
+            "name": "Radler",
+            "tip": "Răcoritor după tură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Steckerlfisch",
+            "tip": "Try the grilled fish on a stick at the lake."
+          },
+          {
+            "name": "Radler",
+            "tip": "Refreshing after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ache Ufer",
+            "tip": "Picknick am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Bartholomä Halbinsel",
+            "tip": "Abseits der Touristenmassen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ache part",
+            "tip": "Piknik a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szt. Bertalan-félsziget",
+            "tip": "Távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ache",
+            "tip": "Picnic lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Peninsula St. Bartholomä",
+            "tip": "Departe de masele de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ache Riverside",
+            "tip": "Picnic by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Bartholomä Peninsula",
+            "tip": "Away from the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bikeshop Berchtesgaden",
+            "tip": "Zubehör und Karten."
+          },
+          {
+            "name": "Königsseer Andenken",
+            "tip": "Typische Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárbolt",
+            "tip": "Kiegészítők és térképek."
+          },
+          {
+            "name": "Königssee szuvenír",
+            "tip": "Tipikus emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți."
+          },
+          {
+            "name": "Suveniruri Königssee",
+            "tip": "Amintiri tipice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Berchtesgaden",
+            "tip": "Gear and maps."
+          },
+          {
+            "name": "Königssee Souvenirs",
+            "tip": "Typical mementos."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden für die Steigungen empfohlen.",
+          "Nehmen Sie Regenkleidung mit, das Wetter schlägt schnell um."
+        ],
+        "hu": [
+          "E-bike ajánlott az emelkedők miatt.",
+          "Vigyél esőkabátot, az időjárás gyorsan változik."
+        ],
+        "ro": [
+          "E-bike-urile sunt recomandate pentru pante.",
+          "Luați haine de ploaie, vremea se schimbă rapid."
+        ],
+        "en": [
+          "E-bikes are recommended for the slopes.",
+          "Take rain gear, the weather changes quickly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Berchtesgaden Bahnhof",
+            "hu": "Berchtesgaden vasútállomás",
+            "ro": "Gara Berchtesgaden",
+            "en": "Berchtesgaden Train Station"
+          },
+          "coords": [
+            47.6258,
+            12.9972
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Busse.",
+            "hu": "Minden busz központi csomópontja.",
+            "ro": "Nod central pentru toate autobuzele.",
+            "en": "Central hub for all buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Königssee (Bus 841)",
+            "hu": "Königssee (841-es busz)",
+            "ro": "Königssee (Autobuz 841)",
+            "en": "Königssee (Bus 841)"
+          },
+          "coords": [
+            47.592,
+            12.988
+          ],
+          "category": "harbor",
+          "arrive_at": "09:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Inklusive Schifffahrt einplanen.",
+            "hu": "Tervezz be egy hajóutat is.",
+            "ro": "Planificați și o plimbare cu barca.",
+            "en": "Plan for a boat trip too."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzbergwerk (Bus 840)",
+            "hu": "Sóbánya (840-es busz)",
+            "ro": "Salina (Autobuz 840)",
+            "en": "Salt Mine (Bus 840)"
+          },
+          "coords": [
+            47.6378,
+            13.0175
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Direkte Haltestelle vor dem Eingang.",
+            "hu": "Megálló közvetlenül a bejáratnál.",
+            "ro": "Stație direct în fața intrării.",
+            "en": "Direct stop in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz Berchtesgaden",
+            "hu": "Berchtesgaden Piactér",
+            "ro": "Piața Berchtesgaden",
+            "en": "Berchtesgaden Market Square"
+          },
+          "coords": [
+            47.6301,
+            13.0012
+          ],
+          "category": "squares",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vom Bergwerk zum Markt spazieren.",
+            "hu": "Séta a bányától a piacig.",
+            "ro": "Plimbare de la salină până în piață.",
+            "en": "Walk from the mine to the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliches Schloss",
+            "hu": "Királyi kastély",
+            "ro": "Castelul Regal",
+            "en": "Royal Castle"
+          },
+          "coords": [
+            47.6305,
+            13.0035
+          ],
+          "category": "castles",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Marktplatz.",
+            "hu": "Közvetlenül a piactér mellett.",
+            "ro": "Chiar lângă piață.",
+            "en": "Right next to the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Berge (Zentrum)",
+            "hu": "A Hegyek Háza",
+            "ro": "Casa Munților",
+            "en": "House of the Mountains"
+          },
+          "coords": [
+            47.6288,
+            12.9928
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bequem zu Fuß vom Zentrum.",
+            "hu": "Kényelmes séta a központból.",
+            "ro": "Plimbare comodă din centru.",
+            "en": "Easy walk from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Berchtesgaden. Wir starten am Bahnhof und fahren zuerst zum Königssee für eine unvergessliche Schifffahrt. Danach geht es mit dem Bus zum Salzbergwerk. Den Nachmittag verbringen wir in der Altstadt bei Schloss und Marktplatz, bevor wir den Tag im Naturmuseum 'Haus der Berge' ausklingen lassen.",
+        "hu": "Használd ki Berchtesgaden hatékony buszhálózatát! A vasútállomástól indulva először a Königssee-hez megyünk egy felejthetetlen hajózásra, majd busszal a sóbányához látogatunk el. A délutánt az óvárosban, a kastélynál és a piactéren töltjük, a napot pedig a 'Haus der Berge' természetrajzi múzeumban zárjuk.",
+        "ro": "Folosiți sistemul eficient de autobuze din Berchtesgaden. Începem de la gară și mergem mai întâi la Königssee pentru o croazieră de neuitat. Apoi, luăm autobuzul spre salină. După-amiaza o petrecem în centrul vechi, vizitând castelul și piața, înainte de a încheia ziua la muzeul 'Casa Munților'.",
+        "en": "Use Berchtesgaden's efficient bus system. We start at the train station and head first to Lake Königssee for an unforgettable boat trip. Then, we take the bus to the salt mine. Spend the afternoon in the old town exploring the castle and market square, before finishing the day at the 'House of the Mountains' museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsstüberl",
+            "tip": "Gute Küche vor der Abfahrt."
+          },
+          {
+            "name": "Eisdiele am Markt",
+            "tip": "Beste Erfrischung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofsstüberl",
+            "tip": "Jó konyha az indulás előtt."
+          },
+          {
+            "name": "Fagylaltozó a piacon",
+            "tip": "A legjobb frissítő."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofsstüberl",
+            "tip": "Mâncare bună înainte de plecare."
+          },
+          {
+            "name": "Geleria din piață",
+            "tip": "Cea mai bună răcorire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofsstüberl",
+            "tip": "Good food before departure."
+          },
+          {
+            "name": "Ice cream parlor at the market",
+            "tip": "Best refreshment."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wartebereich Bahnhof",
+            "tip": "Sonnige Bänke.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosshof",
+            "tip": "Ruhige Ecken im Schatten.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási várakozó",
+            "tip": "Napos padok.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kastélyudvar",
+            "tip": "Csendes, árnyékos sarkok.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona de așteptare a gării",
+            "tip": "Bănci însorite.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Colțuri liniștite la umbră.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Waiting Area",
+            "tip": "Sunny benches.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "Quiet corners in the shade.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Bahnhof",
+            "tip": "Reisebedarf und Zeitschriften."
+          },
+          {
+            "name": "Trachtenladen Zentrum",
+            "tip": "Hochwertige Alpenmode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási kioszk",
+            "tip": "Úti holmik és újságok."
+          },
+          {
+            "name": "Népviseleti bolt",
+            "tip": "Minőségi alpesi divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din gară",
+            "tip": "Articole de voiaj și reviste."
+          },
+          {
+            "name": "Magazin de costume populare",
+            "tip": "Modă alpină de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Kiosk",
+            "tip": "Travel essentials and magazines."
+          },
+          {
+            "name": "Traditional Wear Shop",
+            "tip": "High-quality Alpine fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mit der Kurkarte fahren Sie auf vielen Linien kostenlos.",
+          "Achten Sie auf die Taktzeiten der Busse 840/841."
+        ],
+        "hu": [
+          "A vendégkártyával (Kurkarte) sok vonalon ingyen utazhatsz.",
+          "Figyelj a 840/841-es buszok menetrendjére."
+        ],
+        "ro": [
+          "Cu cardul de turist (Kurkarte) călătoriți gratuit pe multe linii.",
+          "Atenție la frecvența autobuzelor 840/841."
+        ],
+        "en": [
+          "With the guest card (Kurkarte), you can travel for free on many lines.",
+          "Check the frequency of buses 840/841."
+        ]
+      }
+    }
+  }
+}

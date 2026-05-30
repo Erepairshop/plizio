@@ -891,6 +891,7 @@ header .langs{display:flex;gap:.25rem}
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
 <script>
 const LANG=${JSON.stringify(lang)},W=${W},H=${H};
+try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null, cx:p.cx, cy:p.cy}))))};
 const POI_CARD=${JSON.stringify(Object.fromEntries(pois.filter(p => p.img || (p.desc && p.desc[lang]) || (p.facts && p.facts[lang])).map(p => [p.id, {
   i: p.img || undefined,

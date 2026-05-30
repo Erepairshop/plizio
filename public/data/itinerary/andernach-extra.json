@@ -1,0 +1,1175 @@
+{
+  "city_id": "andernach-extra",
+  "anchor": {
+    "name": "Andernach Center",
+    "coords": [
+      7.4048,
+      50.4395
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mariendom",
+            "hu": "Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "Mariendom Cathedral"
+          },
+          "coords": [
+            7.398,
+            50.4395
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Romanisches Juwel mit vier Türmen direkt an der Stadtmauer.",
+            "hu": "Négytornyos román stílusú ékszerdoboz a városfal mellett.",
+            "ro": "O bijuterie romanică cu patru turnuri lângă zidul orașului.",
+            "en": "Romanesque gem with four towers right by the city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Runder Turm",
+            "hu": "Kerek-torony",
+            "ro": "Turnul Rotund",
+            "en": "Round Tower"
+          },
+          "coords": [
+            7.397,
+            50.4415
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt – erklimmen Sie die 56 Meter.",
+            "hu": "A város jelképe – mássza meg az 56 méteres tornyot.",
+            "ro": "Simbolul orașului – urcați cei 56 de metri pentru vedere.",
+            "en": "The landmark of the city – climb the 56-meter tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheintor",
+            "hu": "Rajnai kapu",
+            "ro": "Poarta Rinului",
+            "en": "Rhine Gate"
+          },
+          "coords": [
+            7.404,
+            50.4405
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Mittelalterliches Stadttor, früher wichtigster Zugang vom Fluss.",
+            "hu": "Középkori városkapu, egykor a legfontosabb folyó felőli bejárat.",
+            "ro": "Poartă medievală, fosta intrare principală de pe fluviu.",
+            "en": "Medieval town gate, formerly the main river entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Krahnen",
+            "hu": "Régi daru",
+            "ro": "Macaraua Veche",
+            "en": "Old Crane"
+          },
+          "coords": [
+            7.406,
+            50.441
+          ],
+          "category": "industry",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steinmetzkunst von 1554 – ein Relikt der Handelsgeschichte.",
+            "hu": "1554-es kőfaragó remekmű – a kereskedelmi múlt emléke.",
+            "ro": "Capodoperă din 1554 – relicvă a istoriei comerciale locale.",
+            "en": "Stonemasonry from 1554 – a relic of trade history."
+          }
+        },
+        {
+          "name": {
+            "de": "Geysir-Erlebniszentrum & Boot",
+            "hu": "Gejzír-központ és hajóút",
+            "ro": "Centrul Geyser și plimbare cu barca",
+            "en": "Geyser Center & Boat Trip"
+          },
+          "coords": [
+            7.4035,
+            50.44
+          ],
+          "category": "natural-feature",
+          "arrive_at": "13:30",
+          "stay_min": 160,
+          "hop_from_prev_min": 105,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bootstrip zum höchsten Kaltwassergeysir der Welt (Namedyer Werth).",
+            "hu": "Hajóút a világ legmagasabb hidegvizes gejzírjéhez.",
+            "ro": "Călătorie cu barca spre cel mai înalt gheizer de apă rece.",
+            "en": "Boat trip to the world's highest cold-water geyser."
+          }
+        },
+        {
+          "name": {
+            "de": "Essbare Stadt",
+            "hu": "Ehető Város",
+            "ro": "Orașul Comestibil",
+            "en": "Edible City"
+          },
+          "coords": [
+            7.401,
+            50.4385
+          ],
+          "category": "garden",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Naschen erlaubt! Urbane Gärten mit Kräutern und Gemüse.",
+            "hu": "Kóstolni ér! Városi kertek fűszerekkel és zöldségekkel.",
+            "ro": "Gustatul este permis! Grădini urbane cu plante și legume.",
+            "en": "Snacking allowed! Urban gardens with herbs and veggies."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélykert",
+            "ro": "Grădina Castelului",
+            "en": "Castle Garden"
+          },
+          "coords": [
+            7.402,
+            50.437
+          ],
+          "category": "garden",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Idyllischer Parkruhepol am Rande der mittelalterlichen Ruine.",
+            "hu": "Idilli pihenőhely a középkori romok szomszédságában.",
+            "ro": "Un loc idilic de odihnă lângă ruinele medievale.",
+            "en": "Idyllic peaceful park near the medieval ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Andernach zu Fuß, beginnend am majestätischen Mariendom. Wir erkunden die Stadtmauer und den Runden Turm, bevor es zum Rhein geht. Nach einem Mittagessen am Fluss ist der Nachmittag dem spektakulären Geysir gewidmet. Den Ausklang finden wir in den innovativen Gärten der 'Essbaren Stadt', wo Natur und Urbanität verschmelzen.",
+        "hu": "Fedezze fel Andernachot gyalog, a fenséges Mária-székesegyháztól indulva. Bejárjuk a városfalat és a Kerek-toronyt, majd a Rajna-part felé vesszük az irányt. A folyóparti ebéd után a délutánt a látványos gejzírnek szenteljük. A napot az 'Ehető Város' innovatív kertjeiben zárjuk, ahol a természet és a városi élet összefonódik.",
+        "ro": "Descoperiți Andernach la pas, începând de la maiestuoasa Catedrală Sf. Maria. Explorăm zidurile orașului și Turnul Rotund înainte de a merge spre Rin. După un prânz pe malul fluviului, după-amiaza este dedicată gheizerului spectaculos. Încheiem ziua în grădinile inovatoare ale 'Orașului Comestibil', unde natura se împletește cu urbanul.",
+        "en": "Discover Andernach on foot, starting at the majestic Mariendom. We explore the city walls and Round Tower before heading to the Rhine. After lunch by the river, the afternoon is dedicated to the spectacular geyser. We end the day in the innovative gardens of the 'Edible City', where nature and urban life blend seamlessly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vulkan Brauhaus",
+            "tip": "Hausgebrautes Bier und deftige Eifeler Küche."
+          },
+          {
+            "name": "Andernacher Döppekooche",
+            "tip": "Traditioneller Kartoffelkuchen der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vulkan Brauhaus",
+            "tip": "Helyi sörök és kiadós Eifel-vidéki ételek."
+          },
+          {
+            "name": "Andernacher Döppekooche",
+            "tip": "Hagyományos regionális burgonyalepény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vulkan Brauhaus",
+            "tip": "Bere artizanală și bucătărie consistentă din Eifel."
+          },
+          {
+            "name": "Andernacher Döppekooche",
+            "tip": "Prăjitură tradițională de cartofi din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vulkan Brauhaus",
+            "tip": "House-brewed beer and hearty Eifel cuisine."
+          },
+          {
+            "name": "Andernacher Döppekooche",
+            "tip": "Traditional regional potato cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rheinufer-Promenade",
+            "tip": "Ideal für einen ruhigen Spaziergang zum Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariendom Kreuzgang",
+            "tip": "Stille und Kontemplation in historischem Ambiente.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rajna-parti sétány",
+            "tip": "Ideális egy nyugodt naplemente-sétához.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariendom kerengője",
+            "tip": "Csend és elmélyülés a történelmi környezetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Rinului",
+            "tip": "Ideală pentru o plimbare liniștită la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Claustrul Mariendom",
+            "tip": "Liniște și contemplare într-un cadru istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhine Promenade",
+            "tip": "Ideal for a quiet sunset stroll.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Mariendom Cloister",
+            "tip": "Silence and contemplation in a historic setting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geysir-Shop",
+            "tip": "Regionale Spezialitäten und Geysir-Souvenirs."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Frische Produkte aus dem Umland (Mittwoch & Samstag)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gejzír-bolt",
+            "tip": "Regionális különlegességek és szuvenírek."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Friss termékek a környékről (szerda és szombat)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Geysir",
+            "tip": "Specialități regionale și suveniruri cu gheizer."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse proaspete locale (miercuri și sâmbătă)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Geyser Shop",
+            "tip": "Regional specialties and geyser-themed souvenirs."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Fresh local produce (Wednesday & Saturday)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie das Geysir-Ticket vorab online, um Wartezeiten am Schiff zu vermeiden.",
+          "In der 'Essbaren Stadt' dürfen Sie reife Beeren und Kräuter direkt probieren.",
+          "Die Stadtmauer ist fast vollständig erhalten und bietet tolle Fotomotive.",
+          "Nutzen Sie die App des Geysir-Zentrums für zusätzliche Infos."
+        ],
+        "hu": [
+          "Foglalja le a gejzír-jegyet online, hogy elkerülje a várakozást a hajónál.",
+          "Az 'Ehető Városban' nyugodtan kóstolja meg az érett bogyókat és fűszereket.",
+          "A városfal szinte teljesen épp, remek fotótémákat kínál.",
+          "Használja a Gejzír-központ alkalmazását további információkért."
+        ],
+        "ro": [
+          "Rezervați biletul pentru gheizer online pentru a evita cozile la barcă.",
+          "În 'Orașul Comestibil' puteți gusta fructele de pădure și ierburile coapte.",
+          "Zidul orașului este aproape intact și oferă locuri excelente pentru fotografii.",
+          "Utilizați aplicația centrului Geysir pentru informații suplimentare."
+        ],
+        "en": [
+          "Book your geyser ticket online in advance to avoid boat queues.",
+          "In the 'Edible City', you are welcome to taste ripe berries and herbs.",
+          "The city wall is almost fully preserved and offers great photo ops.",
+          "Use the Geyser Center app for additional interactive info."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Krahnen",
+            "hu": "Régi daru",
+            "ro": "Macaraua Veche",
+            "en": "Old Crane"
+          },
+          "coords": [
+            7.406,
+            50.441
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Rheinufer-Radweg.",
+            "hu": "Kiindulópont a Rajna-parti kerékpárúton.",
+            "ro": "Punct de plecare pe pista de biciclete de pe malul Rinului.",
+            "en": "Starting point on the Rhine river bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Bollwerk",
+            "hu": "Bástya",
+            "ro": "Bastionul",
+            "en": "Bollwerk Fortress"
+          },
+          "coords": [
+            7.407,
+            50.442
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehemalige Zollstation und Wehranlage.",
+            "hu": "Egykori vámállomás és védmű.",
+            "ro": "Fosta stație vamală și structură defensivă.",
+            "en": "Former toll station and defensive fortification."
+          }
+        },
+        {
+          "name": {
+            "de": "Namedyer Werth (Geysir)",
+            "hu": "Gejzír-sziget",
+            "ro": "Insula Gheizerului",
+            "en": "Geyser Island"
+          },
+          "coords": [
+            7.41,
+            50.445
+          ],
+          "category": "natural-feature",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrrad am Schiffsanleger parken, Fahrt zur Halbinsel.",
+            "hu": "Parkolja le a bringát a kikötőnél, majd hajózás a félszigetre.",
+            "ro": "Parcați bicicleta la debarcader, apoi mergeți cu barca spre peninsulă.",
+            "en": "Park your bike at the pier, then take the boat to the peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Namedy",
+            "hu": "Namedy-kastély",
+            "ro": "Castelul Namedy",
+            "en": "Namedy Castle"
+          },
+          "coords": [
+            7.35,
+            50.445
+          ],
+          "category": "landmark",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schönes Wasserschloss, Sitz der Hohenzollern.",
+            "hu": "Gyönyörű vízi kastély, a Hohenzollern-család székhelye.",
+            "ro": "Castel pe apă frumos, sediul familiei Hohenzollern.",
+            "en": "Beautiful moated castle, seat of the Hohenzollern family."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinufer Andernach",
+            "hu": "Andernachi Rajna-part",
+            "ro": "Malul Rinului Andernach",
+            "en": "Rhine Banks"
+          },
+          "coords": [
+            7.404,
+            50.441
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Flache, entspannte Fahrt zurück in die Stadt.",
+            "hu": "Lapos, pihentető tekerés vissza a városba.",
+            "ro": "Plimbare plată și relaxantă înapoi în oraș.",
+            "en": "Flat, relaxed ride back into the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheintor",
+            "hu": "Rajnai kapu",
+            "ro": "Poarta Rinului",
+            "en": "Rhine Gate"
+          },
+          "coords": [
+            7.404,
+            50.4405
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Durchfahrt in die Altstadt.",
+            "hu": "Áthaladás az óvárosba.",
+            "ro": "Trecere spre orașul vechi.",
+            "en": "Passage into the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Essbare Stadt",
+            "hu": "Ehető Város",
+            "ro": "Orașul Comestibil",
+            "en": "Edible City"
+          },
+          "coords": [
+            7.401,
+            50.4385
+          ],
+          "category": "garden",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gemüsebeete direkt am Radweg.",
+            "hu": "Zöldségágyások közvetlenül a kerékpárút mentén.",
+            "ro": "Straturi de legume chiar lângă pista de biciclete.",
+            "en": "Vegetable beds right along the bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariendom",
+            "hu": "Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "Mariendom"
+          },
+          "coords": [
+            7.398,
+            50.4395
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló az indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Final stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang des Rheins zum Schloss Namedy und zurück zum berühmten Geysir. Die Strecke ist flach und ideal für Genussradler.",
+        "hu": "Ez a kerékpártúra a Rajna mentén vezet a Namedy-kastélyhoz, majd vissza a híres gejzírhez. Az út sík, ideális hobbi-bicikliseknek.",
+        "ro": "Acest tur cu bicicleta vă conduce de-a lungul Rinului spre Castelul Namedy și înapoi la faimosul gheizer. Traseul este plat și relaxant.",
+        "en": "This bike tour takes you along the Rhine to Namedy Castle and back to the famous geyser. The route is flat and ideal for leisure cyclists."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rheinpavillon",
+            "tip": "Kaffee und Kuchen mit Flussblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rheinpavillon",
+            "tip": "Kávé és sütemény folyóra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rheinpavillon",
+            "tip": "Cafea și prăjituri cu vedere la fluviu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rheinpavillon",
+            "tip": "Coffee and cake with a river view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Namedy",
+            "tip": "Ruhiger Park abseits der Touristenströme.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Namedy kastélypark",
+            "tip": "Csendes park a turistaáradattól távol.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Namedy",
+            "tip": "Parc liniștit, departe de fluxul de turiști.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Namedy Castle Park",
+            "tip": "Quiet park away from the tourist crowds.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radladen Andernach",
+            "tip": "Zubehör und Karten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andernachi bringabolt",
+            "tip": "Kiegészítők és régiós térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shop Andernach",
+            "tip": "Accessories and regional bike maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Rheinradweg ist sehr gut ausgebaut und fast steigungsfrei.",
+          "Achten Sie auf Fußgänger an der Rheinpromenade."
+        ],
+        "hu": [
+          "A Rajna-menti kerékpárút kiváló minőségű és szinte teljesen sík.",
+          "Figyeljen a gyalogosokra a folyóparti sétányon."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Rin este bine întreținută și aproape fără pante.",
+          "Atenție la pietoni pe promenada Rinului."
+        ],
+        "en": [
+          "The Rhine cycle path is very well developed and almost gradient-free.",
+          "Watch out for pedestrians on the Rhine promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Geysir-Zentrum Parkplatz",
+            "hu": "Gejzír-központ parkoló",
+            "ro": "Parcare Centru Geysir",
+            "en": "Geyser Center Parking"
+          },
+          "coords": [
+            7.4035,
+            50.44
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 170,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Cluster A: Parken Sie hier für Geysir und Rheinufer.",
+            "hu": "A klaszter: Parkoljon itt a gejzírhez és a Rajna-parthoz.",
+            "ro": "Cluster A: Parcați aici pentru gheizer și malul Rinului.",
+            "en": "Cluster A: Park here for the Geyser and Rhine banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheintor",
+            "hu": "Rajnai kapu",
+            "ro": "Poarta Rinului",
+            "en": "Rhine Gate"
+          },
+          "coords": [
+            7.404,
+            50.4405
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Cluster A: Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "A klaszter: Gyalogosan elérhető a parkolótól.",
+            "ro": "Cluster A: Accesibil pe jos din parcare.",
+            "en": "Cluster A: Reachable on foot from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Krahnen",
+            "hu": "Régi daru",
+            "ro": "Macaraua Veche",
+            "en": "Old Crane"
+          },
+          "coords": [
+            7.406,
+            50.441
+          ],
+          "category": "industry",
+          "arrive_at": "12:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster A: Kurzer Spaziergang am Wasser.",
+            "hu": "A klaszter: Rövid séta a vízparton.",
+            "ro": "Cluster A: Scurtă plimbare pe malul apei.",
+            "en": "Cluster A: Short walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariendom",
+            "hu": "Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "Mariendom"
+          },
+          "coords": [
+            7.398,
+            50.4395
+          ],
+          "category": "cathedral",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Cluster B: Fahrt zum Domparkplatz.",
+            "hu": "B klaszter: Hajtson át a Dóm-parkolóba.",
+            "ro": "Cluster B: Conduceți spre parcarea Catedralei.",
+            "en": "Cluster B: Drive to the Cathedral parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Runder Turm",
+            "hu": "Kerek-torony",
+            "ro": "Turnul Rotund",
+            "en": "Round Tower"
+          },
+          "coords": [
+            7.397,
+            50.4415
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Cluster B: Zu Fuß vom Dom.",
+            "hu": "B klaszter: Gyalog a Dómtól.",
+            "ro": "Cluster B: Pe jos de la Catedrală.",
+            "en": "Cluster B: Walk from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Namedy",
+            "hu": "Namedy-kastély",
+            "ro": "Castelul Namedy",
+            "en": "Namedy Castle"
+          },
+          "coords": [
+            7.35,
+            50.445
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Cluster C: Kurze Fahrt zum Wasserschloss.",
+            "hu": "C klaszter: Rövid autóút a vízi kastélyhoz.",
+            "ro": "Cluster C: Scurt drum cu mașina spre castel.",
+            "en": "Cluster C: Short drive to the moated castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Andernach",
+            "hu": "Andernachi várrom",
+            "ro": "Ruinele Cetății",
+            "en": "Castle Ruins"
+          },
+          "coords": [
+            7.402,
+            50.437
+          ],
+          "category": "historical",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Cluster D: Rückkehr zum Stadtpark.",
+            "hu": "D klaszter: Visszatérés a városi parkhoz.",
+            "ro": "Cluster D: Revenire la parcul orașului.",
+            "en": "Cluster D: Return to the city park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir das Stadtzentrum mit dem Umland. Wir parken in strategischen Clustern, um die Altstadt zu Fuß zu erleben und fahren dann zum idyllischen Schloss Namedy am Stadtrand.",
+        "hu": "Autóval kötjük össze a városközpontot a környékkel. Stratégiai klaszterekben parkolunk, hogy az óvárost gyalog fedezzük fel, majd elautózunk az idilli Namedy-kastélyhoz.",
+        "ro": "Cu mașina conectăm centrul orașului cu împrejurimile. Parcăm în clustere strategice pentru a explora orașul vechi pe jos, apoi conducem spre idilicul Castel Namedy.",
+        "en": "By car, we connect the city center with the surrounding areas. We park in strategic clusters to experience the old town on foot, then drive to the idyllic Namedy Castle on the outskirts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parkhotel Restaurant",
+            "tip": "Gehobene Küche mit Blick auf den Rhein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkhotel Étterem",
+            "tip": "Elegáns konyha kilátással a Rajnára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Parkhotel",
+            "tip": "Bucătărie rafinată cu vedere la Rin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parkhotel Restaurant",
+            "tip": "Upscale dining with Rhine views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Namedyer Wald",
+            "tip": "Ruhige Waldwege direkt am Schloss.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Namedyi erdő",
+            "tip": "Csendes erdei utak a kastély mellett.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Namedy",
+            "tip": "Poteci forestiere liniștite lângă castel.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Namedy Forest",
+            "tip": "Quiet forest paths right by the castle.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufland Andernach",
+            "tip": "Große Auswahl für Reiseproviant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufland Andernach",
+            "tip": "Nagy választék útravalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufland Andernach",
+            "tip": "Selecție mare pentru provizii de drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufland Andernach",
+            "tip": "Large selection for travel supplies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Rheinufer; sie sind oft günstiger als im Zentrum.",
+          "Das Schloss Namedy ist oft für Veranstaltungen reserviert, prüfen Sie die Website."
+        ],
+        "hu": [
+          "Használja a Rajna-parti parkolókat; gyakran olcsóbbak, mint a központban.",
+          "A Namedy-kastély gyakran rendezvények helyszíne, ellenőrizze a weboldalt."
+        ],
+        "ro": [
+          "Utilizați parcările de pe malul Rinului; sunt adesea mai ieftine decât cele centrale.",
+          "Castelul Namedy este adesea rezervat pentru evenimente, verificați site-ul."
+        ],
+        "en": [
+          "Use the parking lots by the Rhine; they are often cheaper than central ones.",
+          "Namedy Castle is often reserved for events, check the website beforehand."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Andernach",
+            "hu": "Andernach vasútállomás",
+            "ro": "Gara Andernach",
+            "en": "Andernach Station"
+          },
+          "coords": [
+            7.393,
+            50.436
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt, Start des Stadt-Clusters.",
+            "hu": "Érkezési pont, a városi klaszter kezdete.",
+            "ro": "Punct de sosire, începutul clusterului urban.",
+            "en": "Arrival point, start of the city cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariendom",
+            "hu": "Mária-székesegyház",
+            "ro": "Catedrala Sf. Maria",
+            "en": "Mariendom"
+          },
+          "coords": [
+            7.398,
+            50.4395
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang vom Bahnhof (0.6 km).",
+            "hu": "Séta az állomástól (0.6 km).",
+            "ro": "Plimbare de la gară (0.6 km).",
+            "en": "Walk from the station (0.6 km)."
+          }
+        },
+        {
+          "name": {
+            "de": "Runder Turm",
+            "hu": "Kerek-torony",
+            "ro": "Turnul Rotund",
+            "en": "Round Tower"
+          },
+          "coords": [
+            7.397,
+            50.4415
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß innerhalb des Altstadt-Clusters.",
+            "hu": "Gyalog az óvárosi klaszteren belül.",
+            "ro": "Pe jos în cadrul clusterului orașului vechi.",
+            "en": "Walk within the old town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheinufer / Geysir-Zentrum",
+            "hu": "Rajna-part / Gejzír-központ",
+            "ro": "Malul Rinului / Centrul Geysir",
+            "en": "Rhine Bank / Geyser Center"
+          },
+          "coords": [
+            7.4035,
+            50.44
+          ],
+          "category": "natural-feature",
+          "arrive_at": "11:50",
+          "stay_min": 160,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 335 zum Geysir-Zentrum.",
+            "hu": "335-ös busz a Gejzír-központhoz.",
+            "ro": "Linia de autobuz 335 spre Centrul Geysir.",
+            "en": "Bus line 335 to the Geyser Center."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Krahnen",
+            "hu": "Régi daru",
+            "ro": "Macaraua Veche",
+            "en": "Old Crane"
+          },
+          "coords": [
+            7.406,
+            50.441
+          ],
+          "category": "industry",
+          "arrive_at": "15:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang an der Promenade.",
+            "hu": "Séta a sétányon.",
+            "ro": "Plimbare pe promenadă.",
+            "en": "Walk along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Essbare Stadt",
+            "hu": "Ehető Város",
+            "ro": "Orașul Comestibil",
+            "en": "Edible City"
+          },
+          "coords": [
+            7.401,
+            50.4385
+          ],
+          "category": "garden",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß zurück Richtung Zentrum.",
+            "hu": "Gyalog vissza a központ irányába.",
+            "ro": "Pe jos înapoi spre centru.",
+            "en": "Walk back towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Andernach ist per Bahn perfekt erreichbar. Vom Bahnhof aus erkunden wir die Altstadt zu Fuß, nutzen lokale Busse zum Geysir-Zentrum und genießen den Tag stressfrei ohne Parkplatzsuche.",
+        "hu": "Andernach vonattal tökéletesen elérhető. Az állomástól gyalog fedezzük fel az óvárost, helyi buszokat használunk a Gejzír-központhoz, és stresszmentesen élvezzük a napot parkolókeresés nélkül.",
+        "ro": "Andernach este perfect accesibil cu trenul. Din gară explorăm orașul vechi pe jos, folosim autobuzele locale spre Centrul Geysir și ne bucurăm de zi fără stresul parcării.",
+        "en": "Andernach is perfectly accessible by train. From the station, we explore the old town on foot, use local buses to reach the Geyser Center, and enjoy a stress-free day without looking for parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Hoefer",
+            "tip": "Lokale Kette mit tollen Andernacher Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Hoefer",
+            "tip": "Helyi pékséglánc remek andernachi finomságokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Hoefer",
+            "tip": "Lanț local de brutării cu specialități delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Hoefer",
+            "tip": "Local bakery chain with great Andernach specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtgraben",
+            "tip": "Ruhiger Weg entlang der alten Mauer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városárok",
+            "tip": "Csendes út a régi fal mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șanțul Cetății",
+            "tip": "Cale liniștită de-a lungul vechiului zid.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Moat",
+            "tip": "Quiet path along the old wall.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hochstraße",
+            "tip": "Haupteinkaufsstraße mit inhabergeführten Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hochstraße",
+            "tip": "Fő bevásárlóutca egyedi üzletekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hochstraße",
+            "tip": "Strada principală cu magazine locale.",
+            "en": "Hochstraße Main shopping street with local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das VRM-Tagesticket ist ideal für Bus und Bahn in der Region.",
+          "Der Bahnhof ist barrierefrei ausgebaut."
+        ],
+        "hu": [
+          "A VRM napijegy ideális a buszhoz és vonathoz a régióban.",
+          "A vasútállomás akadálymentesített."
+        ],
+        "ro": [
+          "Biletul de o zi VRM este ideal pentru autobuz și tren în regiune.",
+          "Gara este accesibilă pentru persoanele cu dizabilități."
+        ],
+        "en": [
+          "The VRM day ticket is ideal for buses and trains in the region.",
+          "The train station is fully barrier-free."
+        ]
+      }
+    }
+  }
+}

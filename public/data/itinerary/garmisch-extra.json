@@ -1,0 +1,929 @@
+{
+  "city_id": "garmisch-extra",
+  "anchor": {
+    "name": "Garmisch-Partenkirchen",
+    "coords": [
+      11.08,
+      47.49
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Historische Ludwigstraße",
+            "hu": "Történelmi Ludwigstraße",
+            "ro": "Strada istorică Ludwigstraße",
+            "en": "Historic Ludwigstrasse"
+          },
+          "coords": [
+            11.112,
+            47.494
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die prachtvolle Lüftlmalerei an den Hausfassaden.",
+            "hu": "Figyelje meg a házak homlokzatán látható díszes Lüftlmalerei festményeket.",
+            "ro": "Admirați picturile tradiționale Lüftlmalerei de pe fațadele caselor.",
+            "en": "Look closely at the ornate Lüftlmalerei frescoes on the house facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Werdenfels Museum",
+            "hu": "Werdenfels Múzeum",
+            "ro": "Muzeul Werdenfels",
+            "en": "Werdenfels Museum"
+          },
+          "coords": [
+            11.111,
+            47.493
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die bäuerliche Kultur des Werdenfelser Landes.",
+            "hu": "Mély betekintés a Werdenfelser Land paraszti kultúrájába.",
+            "ro": "O incursiune în cultura țărănească a regiunii Werdenfelser Land.",
+            "en": "A deep dive into the rural culture of the Werdenfelser Land."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Pfarrkirche St. Martin",
+            "hu": "Szent Márton-öregplébániatemplom",
+            "ro": "Vechea Biserică Parohială Sf. Martin",
+            "en": "Old Parish Church of St. Martin"
+          },
+          "coords": [
+            11.114,
+            47.495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Fresken aus dem 14. Jahrhundert.",
+            "hu": "Csodálja meg a 14. századi gótikus freskókat.",
+            "ro": "Admirați frescele gotice din secolul al XIV-lea.",
+            "en": "Admire the Gothic frescoes dating back to the 14th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Michael-Ende-Kurpark",
+            "hu": "Michael Ende Kurpark",
+            "ro": "Parcul Michael Ende",
+            "en": "Michael Ende Kurpark"
+          },
+          "coords": [
+            11.088,
+            47.491
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das kleine Museum über den Autor von 'Momo'.",
+            "hu": "Látogasson el a 'Momo' írójáról szóló kis múzeumba.",
+            "ro": "Vizitați micul muzeu dedicat autorului cărții 'Momo'.",
+            "en": "Visit the small museum dedicated to the author of 'Momo'."
+          }
+        },
+        {
+          "name": {
+            "de": "Garmisch Zentrum",
+            "hu": "Garmisch központja",
+            "ro": "Centrul Garmisch",
+            "en": "Garmisch Center"
+          },
+          "coords": [
+            11.091,
+            47.492
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für den Kauf von Trachten und bayerischen Souvenirs.",
+            "hu": "Ideális hely népviselet és bajor szuvenírek vásárlására.",
+            "ro": "Ideal pentru achiziționarea de costume populare și suveniruri bavareze.",
+            "en": "Ideal for buying traditional Trachten and Bavarian souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Spaziergang verbindet die beiden historischen Kerne. Wir beginnen im malerischen Partenkirchen mit seinen bemalten Fassaden, besuchen das Heimatmuseum und spazieren dann hinüber in den Kurpark von Garmisch, wo wir den Tag entspannt ausklingen lassen.",
+        "hu": "Ez a séta összeköti a város két történelmi magját. Partenkirchen festői homlokzataival kezdünk, meglátogatjuk a helytörténeti múzeumot, majd átsétálunk Garmisch Kurparkjába, ahol kényelmesen zárjuk a napot.",
+        "ro": "Această plimbare unește cele două nuclee istorice. Începem în Partenkirchen cu fațadele sale pictate, vizităm muzeul local și apoi mergem spre Kurpark-ul din Garmisch, unde încheiem ziua relaxat.",
+        "en": "This walk connects the two historic centers. We start in picturesque Partenkirchen with its painted facades, visit the local museum, and then stroll over to Garmisch's Kurpark for a relaxed end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Fraundorfer",
+            "tip": "Traditionelle bayerische Küche mit Schuhplattler-Vorführungen in Partenkirchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Fraundorfer",
+            "tip": "Hagyományos bajor konyha cipőcsapkodós táncbemutatókkal Partenkirchenben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Fraundorfer",
+            "tip": "Bucătărie tradițională bavareză cu demonstrații de dans Schuhplattler în Partenkirchen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Fraundorfer",
+            "tip": "Traditional Bavarian cuisine with Schuhplattler dance performances in Partenkirchen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Michael-Ende-Kurpark",
+            "tip": "Ein friedlicher Ort zum Lesen und Entspannen mitten im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Michael-Ende-Kurpark",
+            "tip": "Békés hely olvasáshoz és pihenéshez a központ közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Michael Ende",
+            "tip": "Un loc liniștit pentru citit și relaxare chiar în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Michael-Ende-Kurpark",
+            "tip": "A peaceful spot for reading and relaxing right in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Hier finden Sie handgeschnitzte Holzkunst und echte Lederhosen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ludwigstraße",
+            "tip": "Itt kézzel faragott művészeti tárgyakat és valódi bőrnadrágokat talál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Ludwigstraße",
+            "tip": "Aici găsiți obiecte de artă sculptate manual și pantaloni tradiționali din piele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ludwigstrasse",
+            "tip": "Find hand-carved woodwork and authentic leather trousers here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Garmisch und Partenkirchen waren einst getrennte Orte, was man heute noch an ihrem unterschiedlichen Charakter spürt.",
+          "Die Gehwege sind flach und gut ausgebaut.",
+          "Parken Sie am besten am Bahnhof, um beide Teile gut zu erreichen."
+        ],
+        "hu": [
+          "Garmisch és Partenkirchen egykor különálló települések voltak, ami ma is érezhető eltérő karakterükön.",
+          "A gyalogutak síkak és jól kiépítettek.",
+          "Érdemes a vasútállomásnál parkolni, hogy mindkét rész könnyen elérhető legyen."
+        ],
+        "ro": [
+          "Garmisch și Partenkirchen au fost odată localități separate, fapt resimțit și astăzi prin caracterul lor diferit.",
+          "Trotuarele sunt plane și bine întreținute.",
+          "Cel mai bine este să parcați la gară pentru a ajunge ușor în ambele părți."
+        ],
+        "en": [
+          "Garmisch and Partenkirchen were once separate towns, which can still be felt in their distinct characters.",
+          "The walkways are flat and well-maintained.",
+          "It is best to park at the train station to reach both parts easily."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historische Ludwigstraße",
+            "hu": "Történelmi Ludwigstraße",
+            "ro": "Strada istorică Ludwigstraße",
+            "en": "Historic Ludwigstrasse"
+          },
+          "coords": [
+            11.112,
+            47.494
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schieben Sie das Fahrrad kurz, um die Details der Malereien zu sehen.",
+            "hu": "Tolja kicsit a biciklit, hogy jobban lássa a festmények részleteit.",
+            "ro": "Mergeți puțin pe lângă bicicletă pentru a vedea detaliile picturilor.",
+            "en": "Walk your bike for a bit to see the details of the paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Olympia-Skistadion",
+            "hu": "Olimpiai Sístadion",
+            "ro": "Stadionul Olimpic de Schi",
+            "en": "Olympic Ski Stadium"
+          },
+          "coords": [
+            11.117,
+            47.482
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die große Skisprungschanze aus der Nähe.",
+            "hu": "Nézze meg közelről a hatalmas síugró sáncot.",
+            "ro": "Vizitați de aproape marea trambulina de sărituri cu schiurile.",
+            "en": "Take a close look at the massive ski jump ramp."
+          }
+        },
+        {
+          "name": {
+            "de": "Partnachklamm",
+            "hu": "Partnach-szurdok",
+            "ro": "Cheile Partnach",
+            "en": "Partnach Gorge"
+          },
+          "coords": [
+            11.119,
+            47.47
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrräder müssen am Eingang abgestellt werden. Regenjacke empfohlen!",
+            "hu": "A bicikliket a bejáratnál kell hagyni. Esőkabát ajánlott!",
+            "ro": "Bicicletele trebuie lăsate la intrare. Se recomandă pelerină de ploaie!",
+            "en": "Bikes must be parked at the entrance. Rain jacket recommended!"
+          }
+        },
+        {
+          "name": {
+            "de": "Michael-Ende-Kurpark",
+            "hu": "Michael Ende Kurpark",
+            "ro": "Parcul Michael Ende",
+            "en": "Michael Ende Kurpark"
+          },
+          "coords": [
+            11.088,
+            47.491
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der Park bietet viele schattige Plätze zum Ausruhen.",
+            "hu": "A park sok árnyékos helyet kínál a pihenéshez.",
+            "ro": "Parcul oferă multe locuri umbroase pentru odihnă.",
+            "en": "The park offers many shaded spots for resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Pfarrkirche St. Martin",
+            "hu": "Szent Márton-öregplébániatemplom",
+            "ro": "Vechea Biserică Parohială Sf. Martin",
+            "en": "Old Parish Church of St. Martin"
+          },
+          "coords": [
+            11.114,
+            47.495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp in der Ruhe der Kirche.",
+            "hu": "Rövid megálló a templom csendjében.",
+            "ro": "O scurtă oprire în liniștea bisericii.",
+            "en": "A brief stop in the silence of the church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erreichen wir bequem die spektakuläre Partnachklamm. Nach der Wanderung durch die Schlucht radeln wir zurück durch das Olympiastadion und erkunden die historischen Winkel beider Ortsteile.",
+        "hu": "Biciklivel kényelmesen elérjük a látványos Partnach-szurdokot. A szurdoktúra után az Olimpiai Stadionon keresztül tekerünk vissza, és felfedezzük mindkét városrész történelmi szegleteit.",
+        "ro": "Cu bicicleta ajungem ușor la spectaculoasele Chei Partnach. După drumeția prin chei, pedalăm înapoi prin Stadionul Olimpic și explorăm colțurile istorice ale ambelor cartiere.",
+        "en": "By bike, we easily reach the spectacular Partnach Gorge. After the hike through the gorge, we cycle back through the Olympic Stadium and explore the historic corners of both districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaiserschmarrn-Alm",
+            "tip": "Perfekter Stopp oberhalb der Partnachklamm für die berühmte Süßspeise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiserschmarrn-Alm",
+            "tip": "Tökéletes megálló a Partnach-szurdok felett a híres édességhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiserschmarrn-Alm",
+            "tip": "Popas perfect deasupra Cheilor Partnach pentru celebrul desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiserschmarrn-Alm",
+            "tip": "Perfect stop above the Partnach Gorge for the famous sweet dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wiesenwege Richtung Kainzenbad",
+            "tip": "Ruhige Wege abseits des Verkehrs mit Blick auf die Berge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezei utak Kainzenbad felé",
+            "tip": "Csendes utak a forgalomtól távol, kilátással a hegyekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri prin pășuni spre Kainzenbad",
+            "tip": "Drumuri liniștite departe de trafic cu vedere la munți.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meadow paths towards Kainzenbad",
+            "tip": "Quiet paths away from traffic with mountain views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih am Bahnhof",
+            "tip": "Hier gibt es auch E-Bikes für die steileren Wege."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző a vasútállomásnál",
+            "tip": "Itt e-bike-okat is bérelhet a meredekebb utakra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere biciclete la gară",
+            "tip": "Aici găsiți și biciclete electrice pentru drumurile mai abrupte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike rental at the station",
+            "tip": "E-bikes are also available here for steeper paths."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut markierten Radwege entlang der Partnach.",
+          "Ein E-Bike ist für die Wege rund um Garmisch sehr empfehlenswert.",
+          "Schließen Sie Ihr Rad am Eingang der Klamm gut ab."
+        ],
+        "hu": [
+          "Használja a Partnach menti, jól jelzett kerékpárutakat.",
+          "A Garmisch környéki utakra kifejezetten ajánlott az e-bike.",
+          "Zárja le jól a biciklijét a szurdok bejáratánál."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine marcate de-a lungul râului Partnach.",
+          "O bicicletă electrică este foarte recomandată pentru drumurile din jurul Garmisch.",
+          "Încuiați bine bicicleta la intrarea în chei."
+        ],
+        "en": [
+          "Use the well-marked bike paths along the Partnach river.",
+          "An e-bike is highly recommended for the paths around Garmisch.",
+          "Lock your bike securely at the entrance to the gorge."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zugspitze (Seilbahn Eibsee)",
+            "hu": "Zugspitze (Eibsee felvonó)",
+            "ro": "Zugspitze (Telecabina Eibsee)",
+            "en": "Zugspitze (Eibsee Cable Car)"
+          },
+          "coords": [
+            10.992,
+            47.457
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets vorab online, um Wartezeiten zu vermeiden.",
+            "hu": "Vegye meg a jegyet előre online a várakozás elkerüléséhez.",
+            "ro": "Cumpărați bilete online în avans pentru a evita cozile.",
+            "en": "Buy tickets online in advance to avoid waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Eibsee",
+            "hu": "Eibsee",
+            "ro": "Lacul Eibsee",
+            "en": "Eibsee"
+          },
+          "coords": [
+            10.99,
+            47.455
+          ],
+          "category": "lake",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Spaziergang am Ufer des kristallklaren Sees ist Pflicht.",
+            "hu": "Kötelező séta a kristálytiszta tó partján.",
+            "ro": "O plimbare pe malul lacului cu apă cristalină este obligatorie.",
+            "en": "A walk along the shore of the crystal-clear lake is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "AlpspiX Aussichtsplattform",
+            "hu": "AlpspiX kilátó",
+            "ro": "Platforma AlpspiX",
+            "en": "AlpspiX Viewing Platform"
+          },
+          "coords": [
+            11.05,
+            47.435
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Nichts für schwache Nerven – der Boden ist teils aus Gitterrost.",
+            "hu": "Csak erős idegzetűeknek – a padló részben rácsos.",
+            "ro": "Nu este pentru cei slabi de înger – podeaua este parțial din grătar metalic.",
+            "en": "Not for the faint-hearted – the floor is partially made of grating."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Ludwigstraße",
+            "hu": "Történelmi Ludwigstraße",
+            "ro": "Strada istorică Ludwigstraße",
+            "en": "Historic Ludwigstrasse"
+          },
+          "coords": [
+            11.112,
+            47.494
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie am nahegelegenen Wanderparkplatz.",
+            "hu": "Parkoljon a közeli túraparkolóban.",
+            "ro": "Parcați în parcarea pentru drumeții din apropiere.",
+            "en": "Park at the nearby hiking car park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt uns zu den Gipfeln. Wir starten früh an der Zugspitze, genießen das Panorama am Eibsee und besuchen die AlpspiX-Plattform, bevor wir den Tag in der Ludwigstraße in Partenkirchen gemütlich beenden.",
+        "hu": "Ez a túra a csúcsokra vezet. Korán kezdünk a Zugspitzénél, élvezzük a panorámát az Eibsee-nél, és meglátogatjuk az AlpspiX kilátót, mielőtt a napot kényelmesen zárnánk a Ludwigstraßén.",
+        "ro": "Acest tur ne duce pe culmi. Începem devreme la Zugspitze, savurăm panorama de la Eibsee și vizităm platforma AlpspiX, înainte de a încheia ziua plăcut pe strada Ludwigstraße.",
+        "en": "This tour takes us to the peaks. We start early at Zugspitze, enjoy the panorama at Eibsee, and visit the AlpspiX platform before ending the day comfortably on Ludwigstrasse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eibsee-Pavillon",
+            "tip": "Frischer Fisch und bayerische Schmankerl direkt am Seeufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eibsee-Pavillon",
+            "tip": "Friss hal és bajor finomságok közvetlenül a tóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eibsee-Pavillon",
+            "tip": "Pește proaspăt și delicatese bavareze chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eibsee-Pavillon",
+            "tip": "Fresh fish and Bavarian delicacies right on the lakeshore."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ostufer des Eibsees",
+            "tip": "Ruhigere Buchten abseits der Seilbahnstation.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Eibsee keleti partja",
+            "tip": "Csendesebb öblök távol a felvonóállomástól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul estic al lacului Eibsee",
+            "tip": "Golfuri mai liniștite departe de stația de telecabină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "East shore of Eibsee",
+            "tip": "Quieter bays away from the cable car station.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zugspitze Shop",
+            "tip": "Exklusive Souvenirs vom höchsten Berg Deutschlands."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zugspitze Shop",
+            "tip": "Exkluzív szuvenírek Németország legmagasabb hegyéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Zugspitze",
+            "tip": "Suveniruri exclusive de pe cel mai înalt munte din Germania."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zugspitze Shop",
+            "tip": "Exclusive souvenirs from Germany's highest mountain."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie so früh wie möglich zur Zugspitze, um den Massen zu entgehen.",
+          "Die Parkgebühren am Eibsee sind recht hoch, planen Sie das ein.",
+          "Denken Sie an warme Kleidung für den Berggipfel, auch im Sommer."
+        ],
+        "hu": [
+          "Menjen a lehető legkorábban a Zugspitzéhez, hogy elkerülje a tömeget.",
+          "Az Eibsee-nél a parkolási díjak elég magasak, számoljon ezzel.",
+          "Vigyen meleg ruhát a hegycsúcsra még nyáron is."
+        ],
+        "ro": [
+          "Mergeți cât mai devreme la Zugspitze pentru a evita aglomerația.",
+          "Taxele de parcare la Eibsee sunt destul de mari, luați în calcul acest lucru.",
+          "Nu uitați hainele groase pentru vârful muntelui, chiar și vara."
+        ],
+        "en": [
+          "Go to Zugspitze as early as possible to avoid the crowds.",
+          "Parking fees at Eibsee are quite high, factor this in.",
+          "Remember warm clothing for the mountain peak, even in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Michael-Ende-Kurpark",
+            "hu": "Michael Ende Kurpark",
+            "ro": "Parcul Michael Ende",
+            "en": "Michael Ende Kurpark"
+          },
+          "coords": [
+            11.088,
+            47.491
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bahnhof Garmisch-Partenkirchen entfernt.",
+            "hu": "Csak pár perc séta a Garmisch-Partenkirchen vasútállomástól.",
+            "ro": "La doar câteva minute de mers pe jos de gara Garmisch-Partenkirchen.",
+            "en": "Only a few minutes' walk from Garmisch-Partenkirchen station."
+          }
+        },
+        {
+          "name": {
+            "de": "Olympia-Skistadion",
+            "hu": "Olimpiai Sístadion",
+            "ro": "Stadionul Olimpic de Schi",
+            "en": "Olympic Ski Stadium"
+          },
+          "coords": [
+            11.117,
+            47.482
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Ortsbusse (Linie 1 oder 2) vom Bahnhof.",
+            "hu": "Használja a helyi buszokat (1-es vagy 2-es vonal) az állomástól.",
+            "ro": "Folosiți autobuzele locale (linia 1 sau 2) de la gară.",
+            "en": "Use the local buses (Line 1 or 2) from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Partnachklamm",
+            "hu": "Partnach-szurdok",
+            "ro": "Cheile Partnach",
+            "en": "Partnach Gorge"
+          },
+          "coords": [
+            11.119,
+            47.47
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Skistadion aus ist es ein 20-minütiger Spaziergang zum Eingang.",
+            "hu": "A sístadiontól 20 perces séta a bejárat.",
+            "ro": "De la stadionul de schi este o plimbare de 20 de minute până la intrare.",
+            "en": "It is a 20-minute walk from the ski stadium to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Ludwigstraße",
+            "hu": "Történelmi Ludwigstraße",
+            "ro": "Strada istorică Ludwigstraße",
+            "en": "Historic Ludwigstrasse"
+          },
+          "coords": [
+            11.112,
+            47.494
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück Richtung Partenkirchen (Haltestelle Ludwigstraße).",
+            "hu": "Busszal vissza Partenkirchen felé (Ludwigstraße megálló).",
+            "ro": "Înapoi cu autobuzul spre Partenkirchen (stația Ludwigstraße).",
+            "en": "Take the bus back towards Partenkirchen (Ludwigstrasse stop)."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Pfarrkirche St. Martin",
+            "hu": "Szent Márton-öregplébániatemplom",
+            "ro": "Vechea Biserică Parohială Sf. Martin",
+            "en": "Old Parish Church of St. Martin"
+          },
+          "coords": [
+            11.114,
+            47.495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss direkt in der Altstadt von Partenkirchen.",
+            "hu": "Szép lezárás közvetlenül Partenkirchen óvárosában.",
+            "ro": "O încheiere frumoasă chiar în centrul vechi din Partenkirchen.",
+            "en": "A beautiful conclusion right in the old town of Partenkirchen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem exzellenten Ortsbussystem erkunden wir stressfrei die Highlights. Vom Bahnhof geht es zum Kurpark, weiter zum Skistadion und zur Klamm, und schließlich in die historische Ludwigstraße.",
+        "hu": "A kiváló helyi buszhálózattal stresszmentesen fedezzük fel a látnivalókat. Az állomástól a Kurparkba, majd a sístadionhoz és a szurdokhoz megyünk, végül a történelmi Ludwigstraßéra.",
+        "ro": "Cu sistemul excelent de autobuze locale explorăm fără stres punctele de atracție. De la gară mergem la Kurpark, apoi la stadionul de schi și la chei, iar în final pe strada istorică Ludwigstraße.",
+        "en": "With the excellent local bus system, we explore the highlights stress-free. From the station, we head to the Kurpark, then to the ski stadium and the gorge, and finally to historic Ludwigstrasse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildschütz Garmisch",
+            "tip": "Hervorragende Wildgerichte und bayerische Klassiker nahe dem Kurpark."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wildschütz Garmisch",
+            "tip": "Kiváló vadételek és bajor klasszikusok a Kurpark közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wildschütz Garmisch",
+            "tip": "Preparate din vânat excelente și clasice bavareze lângă Kurpark."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wildschütz Garmisch",
+            "tip": "Excellent game dishes and Bavarian classics near the Kurpark."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurgarten Garmisch",
+            "tip": "Oft finden hier Kurkonzerte statt – entspanntes Zuhören inklusive.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kurgarten Garmisch",
+            "tip": "Gyakran tartanak itt fúvóskoncerteket – a lazítás garantált.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Kurpark Garmisch",
+            "tip": "Aici au loc adesea concerte de fanfară – relaxare inclusă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurgarten Garmisch",
+            "tip": "Spa concerts often take place here – relaxed listening included.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Garmischer Fußgängerzone",
+            "tip": "Große Auswahl an Outdoor-Ausrüstung und Sportgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garmischi sétálóutca",
+            "tip": "Outdoor felszerelések és sportboltok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Garmisch",
+            "tip": "O selecție largă de echipamente outdoor și magazine sportive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garmisch Pedestrian Zone",
+            "tip": "Wide selection of outdoor gear and sports shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mit der Gästekarte fahren Sie in den Ortsbussen kostenlos.",
+          "Die Busse verkehren regelmäßig, aber achten Sie auf die Aushänge am Wochenende.",
+          "Der Bahnhof ist der zentrale Knotenpunkt für alle Linien."
+        ],
+        "hu": [
+          "A vendégkártyával (Gästekarte) ingyen utazhat a helyi buszokon.",
+          "A buszok rendszeresen járnak, de hétvégén figyelje a menetrendet.",
+          "A vasútállomás az összes vonal központi csomópontja."
+        ],
+        "ro": [
+          "Cu cardul de oaspete (Gästekarte) mergeți gratuit cu autobuzele locale.",
+          "Autobuzele circulă regulat, dar verificați orarul în weekend.",
+          "Gara este nodul central pentru toate liniile."
+        ],
+        "en": [
+          "With the guest card (Gästekarte), you can use local buses for free.",
+          "Buses run regularly, but check the timetables on weekends.",
+          "The train station is the central hub for all lines."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1149 @@
+{
+  "city_id": "city-zwickau-extra",
+  "anchor": {
+    "name": "Hauptmarkt Zwickau",
+    "coords": [
+      12.4975,
+      50.7167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Robert-Schumann-Haus",
+            "hu": "Robert Schumann-ház",
+            "ro": "Casa Robert Schumann",
+            "en": "Robert Schumann House"
+          },
+          "coords": [
+            12.4948,
+            50.7181
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Sehen Sie den originalen Flügel der Pianistin Clara Schumann.",
+            "hu": "Nézze meg Clara Schumann eredeti zongoráját.",
+            "ro": "Vedeți pianul original al Clarei Schumann.",
+            "en": "See Clara Schumann's original grand piano."
+          }
+        },
+        {
+          "name": {
+            "de": "Priesterhäuser Zwickau",
+            "hu": "Zwickaui Papi házak",
+            "ro": "Casele Preoților Zwickau",
+            "en": "Priests' Houses Zwickau"
+          },
+          "coords": [
+            12.4925,
+            50.7188
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der ältesten Wohnhaus-Ensembles Deutschlands aus dem 13. Jahrhundert.",
+            "hu": "Németország egyik legrégebbi, 13. századi lakóház-együttese.",
+            "ro": "Unul dintre cele mai vechi ansambluri de locuințe din Germania, secolul XIII.",
+            "en": "One of Germany's oldest residential ensembles from the 13th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Marien",
+            "hu": "Szent Mária-dóm",
+            "ro": "Domul Sf. Maria",
+            "en": "St. Mary's Cathedral"
+          },
+          "coords": [
+            12.4927,
+            50.7182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den gotischen Flügelaltar von Michael Wolgemut.",
+            "hu": "Csodálja meg Michael Wolgemut gótikus szárnyasoltárát.",
+            "ro": "Admirați altarul gotic realizat de Michael Wolgemut.",
+            "en": "Admire the Gothic winged altar by Michael Wolgemut."
+          }
+        },
+        {
+          "name": {
+            "de": "Gewandhaus Zwickau",
+            "hu": "Zwickaui Posztóház",
+            "ro": "Gewandhaus Zwickau",
+            "en": "Gewandhaus Zwickau"
+          },
+          "coords": [
+            12.4952,
+            50.7171
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das ehemalige Tuchmacherhaus dient heute als städtisches Theater.",
+            "hu": "Az egykori posztókészítő ház ma a városi színháznak ad otthont.",
+            "ro": "Fosta casă a postăvarilor servește astăzi drept teatru municipal.",
+            "en": "The former cloth merchants' hall now serves as the municipal theatre."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Osterstein",
+            "hu": "Osterstein-kastély",
+            "ro": "Castelul Osterstein",
+            "en": "Osterstein Castle"
+          },
+          "coords": [
+            12.4996,
+            50.7174
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie den Schlosshof des einstigen Renaissance-Sitzes.",
+            "hu": "Látogasson el az egykori reneszánsz rezidencia belső udvarába.",
+            "ro": "Vizitați curtea interioară a fostei reședințe renascentiste.",
+            "en": "Visit the courtyard of the former Renaissance residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenteichpark",
+            "hu": "Hattyústó-park",
+            "ro": "Parcul Schwanenteich",
+            "en": "Schwanenteich Park"
+          },
+          "coords": [
+            12.4885,
+            50.7135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mieten Sie ein Ruderboot für eine entspannte Runde auf dem See.",
+            "hu": "Béreljen evezős csónakot egy pihentető körre a tavon.",
+            "ro": "Închiriați o barcă cu vâsle pentru o tură relaxantă pe lac.",
+            "en": "Rent a rowboat for a relaxing round on the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Robert-Schumann-Haus, wo die Romantik lebendig wird. Nach einem kurzen Spaziergang zu den mittelalterlichen Priesterhäusern tauchen Sie in die Geschichte des 13. Jahrhunderts ein. Der majestätische Dom St. Marien beeindruckt mit spätgotischer Kunst. Am Nachmittag passieren Sie das prachtvolle Gewandhaus auf dem Weg zum Schloss Osterstein, bevor der Tag im weitläufigen Schwanenteichpark ruhig ausklingt.",
+        "hu": "A nap Robert Schumann szülőházában indul, ahol a romantika életre kel. Rövid séta után a 13. századi Papi házak középkori falaiba kóstolhat bele. A Szent Mária-dóm késő gótikus művészete lenyűgöző látvány. Délután a pompás Posztóház érintésével az Osterstein-kastélyhoz érünk, majd a napot a tágas Hattyústó-park nyugalmában zárjuk, távol a város zajától.",
+        "ro": "Ziua începe la Casa Robert Schumann, unde romantismul prinde viață. După o scurtă plimbare la Casele Preoților, veți descoperi istoria secolului XIII. Catedrala Sf. Maria impresionează prin arta gotică târzie. După-amiază treceți pe lângă clădirea Gewandhaus spre Castelul Osterstein, înainte de a încheia ziua în liniștea parcului Schwanenteich, lângă lac.",
+        "en": "Start your day at the Robert Schumann House, where romantic music comes alive. A short walk leads to the medieval Priest's Houses, showcasing 13th-century life. St. Mary's Cathedral stands as a late Gothic masterpiece. In the afternoon, pass the grand Gewandhaus on your way to Osterstein Castle, finally concluding your journey with a peaceful stroll around the Schwanenteich Park lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Zwickau",
+            "tip": "Probieren Sie das hausgebraute Zwickauer Dunkel."
+          },
+          {
+            "name": "Gaststätte 'Am Dom'",
+            "tip": "Traditionelle sächsische Küche direkt neben der Kirche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Zwickau",
+            "tip": "Kóstolja meg a helyben főzött Zwickauer Dunkel barna sört."
+          },
+          {
+            "name": "Gaststätte 'Am Dom'",
+            "tip": "Hagyományos szász konyha közvetlenül a dóm mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Zwickau",
+            "tip": "Încercați berea brună locală Zwickauer Dunkel."
+          },
+          {
+            "name": "Gaststätte 'Am Dom'",
+            "tip": "Bucătărie tradițională saxonă chiar lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Zwickau",
+            "tip": "Try the locally brewed Zwickauer Dunkel dark beer."
+          },
+          {
+            "name": "Gaststätte 'Am Dom'",
+            "tip": "Traditional Saxon cuisine located right next to the cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schwanenteichpark",
+            "tip": "Ruhige Uferwege am Abend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Muldepromenada",
+            "tip": "Spaziergang entlang des Flusses.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hattyústó-park",
+            "tip": "Csendes parti sétányok este.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mulde-sétány",
+            "tip": "Hosszú séta a folyó mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Schwanenteich",
+            "tip": "Alei liniștite pe malul lacului seara.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Promenada Mulde",
+            "tip": "Plimbare relaxantă de-a lungul râului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schwanenteich Park",
+            "tip": "Quiet lakeside paths in the evening.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mulde Promenade",
+            "tip": "A peaceful walk along the riverbanks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Modernes Einkaufszentrum im Herzen der Stadt."
+          },
+          {
+            "name": "Wochenmarkt Hauptmarkt",
+            "tip": "Regionale Spezialitäten und frische Waren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Modern bevásárlóközpont a város szívében."
+          },
+          {
+            "name": "Hauptmarkt piac",
+            "tip": "Regionális specialitások és friss áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Centru comercial modern în inima orașului."
+          },
+          {
+            "name": "Piața Hauptmarkt",
+            "tip": "Specialități regionale și produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Modern shopping mall in the heart of the city."
+          },
+          {
+            "name": "Hauptmarkt Weekly Market",
+            "tip": "Regional specialties and fresh local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt und ideal zu Fuß zu erkunden.",
+          "Achten Sie auf die Pflastersteine, flache Schuhe werden empfohlen.",
+          "Viele Museen haben montags geschlossen."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyeljen a macskakövekre, lapos talpú cipő ajánlott.",
+          "Sok múzeum hétfőn zárva tart."
+        ],
+        "ro": [
+          "Centrul vechi este compact și ideal pentru explorarea pe jos.",
+          "Atenție la pavajul cu piatră cubică, se recomandă încălțăminte comodă.",
+          "Multe muzee sunt închise în zilele de luni."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "Mind the cobblestones; comfortable flat shoes are recommended.",
+          "Note that many museums are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "August Horch Museum",
+            "hu": "August Horch Múzeum",
+            "ro": "Muzeul August Horch",
+            "en": "August Horch Museum"
+          },
+          "coords": [
+            12.4842,
+            50.7291
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Geburtsstätte von Audi und Horch – ein Muss für Autofans.",
+            "hu": "Az Audi és a Horch bölcsője – autórajongóknak kötelező.",
+            "ro": "Locul unde s-au născut Audi și Horch – obligatoriu pentru fanii auto.",
+            "en": "The birthplace of Audi and Horch – a must for car enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannisbad",
+            "hu": "Johannisbad fürdő",
+            "ro": "Johannisbad",
+            "en": "Johannisbad"
+          },
+          "coords": [
+            12.4984,
+            50.7245
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wunderschönes Jugendstil-Bad für eine entspannte Pause.",
+            "hu": "Gyönyörű szecessziós fürdő egy pihentető szünethez.",
+            "ro": "O baie superbă în stil Jugendstil pentru o pauză relaxantă.",
+            "en": "Beautiful Art Nouveau bathhouse for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Marien",
+            "hu": "Szent Mária-dóm",
+            "ro": "Domul Sf. Maria",
+            "en": "St. Mary's Cathedral"
+          },
+          "coords": [
+            12.4927,
+            50.7182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Marienplatz sicher ab.",
+            "hu": "Hagyja kerékpárját biztonságban a Marienplatzon.",
+            "ro": "Parcați bicicleta în siguranță în Marienplatz.",
+            "en": "Park your bike safely at Marienplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Robert-Schumann-Haus",
+            "hu": "Robert Schumann-ház",
+            "ro": "Casa Robert Schumann",
+            "en": "Robert Schumann House"
+          },
+          "coords": [
+            12.4948,
+            50.7181
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Gedenkstätte des berühmten Komponisten.",
+            "hu": "Látogassa meg a híres zeneszerző emlékhelyét.",
+            "ro": "Vizitați memorialul celebrului compozitor.",
+            "en": "Visit the memorial site of the famous composer."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Osterstein",
+            "hu": "Osterstein-kastély",
+            "ro": "Castelul Osterstein",
+            "en": "Osterstein Castle"
+          },
+          "coords": [
+            12.4996,
+            50.7174
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Radeln Sie durch die Parkanlagen rund um das Schloss.",
+            "hu": "Kerekezzen a kastély körüli parkokon keresztül.",
+            "ro": "Pedalați prin grădinile din jurul castelului.",
+            "en": "Cycle through the park grounds surrounding the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenteichpark",
+            "hu": "Hattyústó-park",
+            "ro": "Parcul Schwanenteich",
+            "en": "Schwanenteich Park"
+          },
+          "coords": [
+            12.4885,
+            50.7135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt auf den breiten Wegen rund um den See.",
+            "hu": "Élvezze a tekerést a tó körüli széles utakon.",
+            "ro": "Bucurați-vă de plimbarea pe aleile largi din jurul lacului.",
+            "en": "Enjoy riding on the wide paths around the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Zwickau von der industriellen Nordstadt bis zu den grünen Oasen im Süden. Start ist das weltberühmte August Horch Museum. Nach Entspannung im historischen Johannisbad radeln Sie ins Zentrum zum Dom und Schumann-Haus. Den Abschluss bildet eine Tour durch das Schlossgelände Osterstein zum idyllischen Schwanenteichpark.",
+        "hu": "Kerékpárral Zwickau ipari északi részétől a déli zöld oázisokig juthat el. A start a világhírű August Horch Múzeumnál van. A történelmi Johannisbad fürdőben való pihenés után a központba tekerünk a dómhoz és a Schumann-házhoz. A túrát az Osterstein-kastély környékén és az idilli Hattyústó-parkban zárjuk.",
+        "ro": "Cu bicicleta veți explora Zwickau de la zona industrială de nord până la oazele verzi din sud. Startul este la celebrul Muzeu August Horch. După relaxarea la baia istorică Johannisbad, pedalați spre centru la Catedrală și Casa Schumann. Încheiați cu un tur prin grădinile Castelului Osterstein spre parcul Schwanenteich.",
+        "en": "Explore Zwickau by bike from its industrial north to the green oases in the south. Start at the world-famous August Horch Museum. After a relaxing stop at the historic Johannisbad bathhouse, cycle to the city center for the Cathedral and Schumann House. Finish your trip with a ride through Osterstein Castle grounds to the idyllic Schwanenteich Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radlercafé",
+            "tip": "Perfekter Stop für Radfahrer am Mulderadweg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radlercafé",
+            "tip": "Tökéletes megálló kerékpárosoknak a Mulde-menti úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radlercafé",
+            "tip": "Popas perfect pentru bicicliști pe pista de lângă Mulde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radlercafé",
+            "tip": "The perfect stop for cyclists along the Mulde cycle path."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mulderadweg",
+            "tip": "Entlang des Flusses ohne Autoverkehr.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mulde-kerékpárút",
+            "tip": "Autóforgalom nélküli szakasz a folyó mentén.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista Mulde",
+            "tip": "De-a lungul râului, fără trafic auto.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Mulde Cycle Path",
+            "tip": "Ride along the river away from car traffic.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mulde Cycle Path",
+            "tip": "Ride along the river away from car traffic.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Horch",
+            "tip": "Exklusive Audi- und Oldtimer-Modelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Horch múzeumi bolt",
+            "tip": "Exkluzív Audi és veterán autómodellek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Horch",
+            "tip": "Modele exclusive de mașini Audi și de epocă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Horch Museum Shop",
+            "tip": "Exclusive Audi and vintage car models."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Mulderadweg für eine kreuzungsfreie Fahrt.",
+          "Die Fahrradständer im Zentrum sind gut verteilt.",
+          "In den Parks bitte Rücksicht auf Fußgänger nehmen."
+        ],
+        "hu": [
+          "Használja a Mulde-kerékpárutat a kereszteződésmentes haladáshoz.",
+          "A központban jól elosztott kerékpártárolók találhatók.",
+          "A parkokban ügyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Folosiți pista de biciclete Mulde pentru o călătorie fără intersecții.",
+          "Suporturile de biciclete din centru sunt bine distribuite.",
+          "În parcuri, vă rugăm să aveți grijă la pietoni."
+        ],
+        "en": [
+          "Use the Mulde cycle path for a route without intersections.",
+          "Bike racks are well-distributed throughout the city center.",
+          "Please be considerate of pedestrians in the parks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "August Horch Museum (Cluster Nord)",
+            "hu": "August Horch Múzeum (Északi klaszter)",
+            "ro": "Muzeul August Horch (Cluster Nord)",
+            "en": "August Horch Museum (North Cluster)"
+          },
+          "coords": [
+            12.4842,
+            50.7291
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz direkt vor dem Museum.",
+            "hu": "Nagy látogatói parkoló közvetlenül a múzeum előtt.",
+            "ro": "Parcare mare pentru vizitatori chiar în fața muzeului.",
+            "en": "Large visitor parking available right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Horch-Villa (Cluster Nord)",
+            "hu": "Horch-villa (Északi klaszter)",
+            "ro": "Vila Horch (Cluster Nord)",
+            "en": "Horch Villa (North Cluster)"
+          },
+          "coords": [
+            12.4862,
+            50.7285
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum zur historischen Villa.",
+            "hu": "Rövid séta a múzeumtól a történelmi villáig.",
+            "ro": "Scurtă plimbare de la muzeu până la vila istorică.",
+            "en": "Short walk from the museum to the historic villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Marien (Cluster Zentrum)",
+            "hu": "Szent Mária-dóm (Központi klaszter)",
+            "ro": "Domul Sf. Maria (Cluster Centru)",
+            "en": "St. Mary's Cathedral (Center Cluster)"
+          },
+          "coords": [
+            12.4927,
+            50.7182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Zwickau Arcaden'.",
+            "hu": "Parkoljon a 'Zwickau Arcaden' parkolóházban.",
+            "ro": "Parcați în garajul 'Zwickau Arcaden'.",
+            "en": "Park your car at the 'Zwickau Arcaden' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Priesterhäuser (Cluster Zentrum)",
+            "hu": "Papi házak (Központi klaszter)",
+            "ro": "Casele Preoților (Cluster Centru)",
+            "en": "Priests' Houses (Center Cluster)"
+          },
+          "coords": [
+            12.4925,
+            50.7188
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Erkunden Sie das älteste Viertel zu Fuß.",
+            "hu": "Fedezze fel a legősibb negyedet gyalog.",
+            "ro": "Explorați cel mai vechi cartier la pas.",
+            "en": "Explore the oldest neighborhood on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Robert-Schumann-Haus (Cluster Zentrum)",
+            "hu": "Robert Schumann-ház (Központi klaszter)",
+            "ro": "Casa Robert Schumann (Cluster Centru)",
+            "en": "Robert Schumann House (Center Cluster)"
+          },
+          "coords": [
+            12.4948,
+            50.7181
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt am Hauptmarkt gelegen.",
+            "hu": "Közvetlenül a főtéren található.",
+            "ro": "Situată chiar în piața principală.",
+            "en": "Located directly on the main market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Osterstein",
+            "hu": "Osterstein-kastély",
+            "ro": "Castelul Osterstein",
+            "en": "Osterstein Castle"
+          },
+          "coords": [
+            12.4996,
+            50.7174
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz am Schloßplatz.",
+            "hu": "Használja a Schloßplatz melletti parkolót.",
+            "ro": "Folosiți parcarea din Piața Castelului.",
+            "en": "Use the parking lot at Schloßplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenteichpark",
+            "hu": "Hattyústó-park",
+            "ro": "Parcul Schwanenteich",
+            "en": "Schwanenteich Park"
+          },
+          "coords": [
+            12.4885,
+            50.7135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Idealer Ort, um die Fahrt Revue passieren zu lassen.",
+            "hu": "Ideális hely az utazás élményeinek felidézéséhez.",
+            "ro": "Locul ideal pentru a trece în revistă experiențele zilei.",
+            "en": "Ideal place to reflect on the day's journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die Industrie-Highlights mit der historischen Altstadt. Sie starten im Norden beim August Horch Museum und erkunden die Ursprünge der Automobilstadt. Danach parken Sie zentral für einen Rundgang durch die Dom-Umgebung und das Schumann-Haus. Ein kurzer Hüpfer bringt Sie zum Schloss Osterstein und zum Abschluss zum malerischen Schwanenteichpark.",
+        "hu": "Ez az autós túra az ipari csúcspontokat köti össze a történelmi óvárossal. Északon kezd az August Horch Múzeumnál, felfedezve az autóváros eredetét. Ezután központilag parkolunk egy sétához a dóm környékén és a Schumann-háznál. Egy rövid autózás után az Osterstein-kastélyhoz, majd végül a festői Hattyústó-parkhoz jutunk.",
+        "ro": "Acest tur cu mașina îmbină atracțiile industriale cu centrul istoric. Începeți în nord la Muzeul August Horch pentru a descoperi originile orașului auto. Apoi parcați central pentru o plimbare în jurul Catedralei și Casei Schumann. O scurtă deplasare vă duce la Castelul Osterstein și în final la pitorescul parc Schwanenteich.",
+        "en": "This car tour combines industrial highlights with the historic old town. Start in the north at the August Horch Museum to discover the origins of this automotive city. Then, park centrally for a walking tour around the Cathedral and Schumann House. A short drive takes you to Osterstein Castle and finally to the picturesque Schwanenteich Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant im Horch Museum",
+            "tip": "Essen in historischem Ambiente der Fabrik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Horch Múzeum étterme",
+            "tip": "Étkezés a gyár történelmi környezetében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul din Muzeul Horch",
+            "tip": "Masă în ambianța istorică a fostei fabrici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Horch Museum Restaurant",
+            "tip": "Dine within the historic atmosphere of the factory."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Zwickauer Mulde",
+            "tip": "Ruhiger Platz zum Parken und Verweilen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zwickauer Mulde partja",
+            "tip": "Csendes hely a pihenéshez a folyó mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Zwickauer Mulde",
+            "tip": "Loc liniștit pentru popas lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Zwickauer Mulde",
+            "tip": "A quiet spot to park and relax by the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zwickau Arcaden Parkhaus",
+            "tip": "Bequemes Shopping mit direktem Parkzugang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Kényelmes vásárlás közvetlen parkolással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Cumpărături comode cu acces direct la parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zwickau Arcaden",
+            "tip": "Convenient shopping with direct parking access."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkleitsystem zeigt freie Plätze in Echtzeit an.",
+          "Die Straßen in der Altstadt sind teilweise sehr eng.",
+          "Achten Sie auf die Einbahnstraßen rund um den Hauptmarkt."
+        ],
+        "hu": [
+          "A parkolási rendszer valós időben mutatja a szabad helyeket.",
+          "Az óváros utcái helyenként nagyon szűkek.",
+          "Ügyeljen az egyirányú utcákra a főtér környékén."
+        ],
+        "ro": [
+          "Sistemul de ghidare afișează locurile libere în timp real.",
+          "Străzile din centrul vechi sunt uneori foarte înguste.",
+          "Atenție la străzile cu sens unic din jurul pieței principale."
+        ],
+        "en": [
+          "The parking guidance system shows available spaces in real-time.",
+          "Some streets in the old town are very narrow.",
+          "Be aware of the one-way streets around the main market square."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "August Horch Museum",
+            "hu": "August Horch Múzeum",
+            "ro": "Muzeul August Horch",
+            "en": "August Horch Museum"
+          },
+          "coords": [
+            12.4842,
+            50.7291
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Straßenbahnlinie 3 bis Haltestelle Pölbitz.",
+            "hu": "Használja a 3-as villamost a Pölbitz megállóig.",
+            "ro": "Folosiți linia de tramvai 3 până la stația Pölbitz.",
+            "en": "Take tram line 3 to the Pölbitz stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Johannisbad",
+            "hu": "Johannisbad fürdő",
+            "ro": "Johannisbad",
+            "en": "Johannisbad"
+          },
+          "coords": [
+            12.4984,
+            50.7245
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Haltestelle 'Johannisbad' direkt vor dem Eingang.",
+            "hu": "'Johannisbad' megálló közvetlenül a bejárat előtt.",
+            "ro": "Stația 'Johannisbad' chiar în fața intrării.",
+            "en": "The 'Johannisbad' stop is right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom St. Marien (Zentrum)",
+            "hu": "Szent Mária-dóm (Központ)",
+            "ro": "Domul Sf. Maria (Centru)",
+            "en": "St. Mary's Cathedral (Center)"
+          },
+          "coords": [
+            12.4927,
+            50.7182
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Ausstieg an der Haltestelle 'Zentrum'.",
+            "hu": "Szálljon le a 'Zentrum' megállónál.",
+            "ro": "Coborâți la stația 'Zentrum'.",
+            "en": "Get off at the 'Zentrum' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Priesterhäuser (Zentrum)",
+            "hu": "Papi házak (Központ)",
+            "ro": "Casele Preoților (Centru)",
+            "en": "Priests' Houses (Center)"
+          },
+          "coords": [
+            12.4925,
+            50.7188
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wenige Meter Fußweg vom Dom entfernt.",
+            "hu": "Pár méter séta a dómtól.",
+            "ro": "Câțiva metri de mers pe jos de la Catedrală.",
+            "en": "Just a few meters' walk from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Gewandhaus",
+            "hu": "Posztóház",
+            "ro": "Gewandhaus",
+            "en": "Gewandhaus"
+          },
+          "coords": [
+            12.4952,
+            50.7171
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Prächtiges Gebäude am Rande des Marktplatzes.",
+            "hu": "Pompás épület a piactér szélén.",
+            "ro": "Clădire somptuoasă la marginea pieței.",
+            "en": "Magnificent building on the edge of the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenteichpark",
+            "hu": "Hattyústó-park",
+            "ro": "Parcul Schwanenteich",
+            "en": "Schwanenteich Park"
+          },
+          "coords": [
+            12.4885,
+            50.7135
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Rückfahrt mit Tram 4 vom nahegelegenen Neumarkt möglich.",
+            "hu": "Visszautazás a 4-es villamossal a közeli Neumarktról.",
+            "ro": "Retur posibil cu tramvaiul 4 de la Neumarkt.",
+            "en": "Return journey possible via tram line 4 from nearby Neumarkt."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Zwickauer Straßenbahnnetz. Starten Sie im Norden beim Horch Museum und fahren Sie dann bequem zum historischen Johannisbad. Der zentrale Cluster rund um den Dom und die Priesterhäuser wird zu Fuß erkundet. Nach einem Blick auf das Gewandhaus beschließen Sie Ihren Tag im Schwanenteichpark, bevor Sie die Tram zurück nehmen.",
+        "hu": "Használja ki a hatékony zwickaui villamoshálózatot. Kezdjen északon a Horch Múzeumnál, majd utazzon kényelmesen a történelmi Johannisbad fürdőhöz. A dóm és a Papi házak körüli központi részt gyalog fedezzük fel. A Posztóház megtekintése után a Hattyústó-parkban zárjuk a napot, mielőtt visszaszállnánk a villamosra.",
+        "ro": "Profitați de rețeaua eficientă de tramvaie din Zwickau. Începeți în nord la Muzeul Horch și călătoriți comod spre istorica baie Johannisbad. Clusterul central din jurul Catedralei și Casele Preoților este explorat pe jos. După o privire la Gewandhaus, încheiați ziua în parcul Schwanenteich înainte de a lua tramvaiul înapoi.",
+        "en": "Make use of Zwickau's efficient tram network. Start in the north at the Horch Museum, then travel comfortably to the historic Johannisbad bathhouse. Explore the central cluster around the Cathedral and Priests' Houses on foot. After visiting the Gewandhaus, finish your day at Schwanenteich Park before taking the tram back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Neumarkt",
+            "tip": "Frische sächsische Eierschecke zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cukrászda a Neumarkton",
+            "tip": "Friss szász Eierschecke sütemény a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din Neumarkt",
+            "tip": "Prăjitură tradițională saxonă Eierschecke la cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at Neumarkt",
+            "tip": "Fresh Saxon Eierschecke cake with your coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schwanenteich",
+            "tip": "Beobachten Sie die Schwäne bei Sonnenuntergang.",
+            "emoji": "🦢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hattyústó",
+            "tip": "Figyelje a hattyúkat naplementekor.",
+            "emoji": "🦢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul cu lebede",
+            "tip": "Urmăriți lebedele la apus.",
+            "emoji": "🦢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Swan Lake",
+            "tip": "Watch the swans at sunset.",
+            "emoji": "🦢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauptmarkt Verkaufsstände",
+            "tip": "Hiesiges Kunsthandwerk und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főtéri árusok",
+            "tip": "Helyi kézműves termékek és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standurile din Piața Mare",
+            "tip": "Artizanat local și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Main Market Stalls",
+            "tip": "Local handicrafts and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eine Tageskarte für die Zone Zwickau lohnt sich ab drei Fahrten.",
+          "Die Straßenbahnen verkehren in dichtem Takt.",
+          "In der 'VBS'-App finden Sie alle Echtzeit-Abfahrten."
+        ],
+        "hu": [
+          "A napi jegy Zwickau zónára három utazástól éri meg.",
+          "A villamosok sűrűn közlekednek.",
+          "A 'VBS' alkalmazásban megtalálja az összes valós idejű indulást."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru zona Zwickau merită de la trei călătorii în sus.",
+          "Tramvaiele circulă la intervale scurte.",
+          "În aplicația 'VBS' găsiți toate plecările în timp real."
+        ],
+        "en": [
+          "A day ticket for the Zwickau zone pays off after three trips.",
+          "Trams run at frequent intervals.",
+          "The 'VBS' app provides all real-time departure information."
+        ]
+      }
+    }
+  }
+}

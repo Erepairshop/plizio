@@ -1,0 +1,1044 @@
+{
+  "city_id": "foix",
+  "anchor": {
+    "name": "Foix",
+    "coords": [
+      1.605,
+      42.965
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Foix",
+            "hu": "Foix óvárosa",
+            "ro": "Centrul vechi din Foix",
+            "en": "Foix Old Town"
+          },
+          "coords": [
+            1.606,
+            42.965
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frühstücken Sie in einem der Cafés am Place Parmentier.",
+            "hu": "Reggelizz a Place Parmentier egyik kávézójában.",
+            "ro": "Luați micul dejun la una dintre cafenelele din Place Parmentier.",
+            "en": "Have breakfast at one of the cafes in Place Parmentier."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Saint-Volusien",
+            "hu": "Saint-Volusien apátság",
+            "ro": "Abația Saint-Volusien",
+            "en": "Saint-Volusien Abbey"
+          },
+          "coords": [
+            1.606,
+            42.966
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das romanische Portal und die gotischen Kirchenschiffe.",
+            "hu": "Csodáld meg a román stílusú kaput és a gótikus hajót.",
+            "ro": "Admirați portalul romanic și navele gotice.",
+            "en": "Admire the Romanesque portal and Gothic naves."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Foix",
+            "hu": "Foix vára",
+            "ro": "Castelul Foix",
+            "en": "Foix Castle"
+          },
+          "coords": [
+            1.605,
+            42.966
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Interaktives Museum mit Vorführungen mittelalterlicher Maschinen.",
+            "hu": "Interaktív múzeum középkori gépbemutatókkal.",
+            "ro": "Muzeu interactiv cu demonstrații de mașini medievale.",
+            "en": "Interactive museum with demonstrations of medieval machines."
+          }
+        },
+        {
+          "name": {
+            "de": "Allées de Villote",
+            "hu": "Allées de Villote sétány",
+            "ro": "Promenada Allées de Villote",
+            "en": "Allées de Villote Promenade"
+          },
+          "coords": [
+            1.607,
+            42.964
+          ],
+          "category": "parks",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der ideale Ort für eine Mittagspause im Schatten der Platanen.",
+            "hu": "Ideális hely egy ebédszünethez a platánok árnyékában.",
+            "ro": "Locul ideal pentru o pauză de prânz la umbra platanilor.",
+            "en": "The ideal place for a lunch break under the shade of plane trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke (Pont Vieux)",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            1.607,
+            42.967
+          ],
+          "category": "bridges",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bester Fotospot für die Burg über dem Fluss Ariège.",
+            "hu": "A legjobb fotópont a várra az Ariège-folyó felett.",
+            "ro": "Cel mai bun punct foto pentru castel deasupra râului Ariège.",
+            "en": "Best photo spot for the castle over the Ariège river."
+          }
+        },
+        {
+          "name": {
+            "de": "Departement-Museum",
+            "hu": "Megyei Múzeum",
+            "ro": "Muzeul Departamental",
+            "en": "Departmental Museum"
+          },
+          "coords": [
+            1.605,
+            42.963
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Geschichte der Grafschaft Foix.",
+            "hu": "Ismerd meg Foix grófságának történelmét.",
+            "ro": "Aflați mai multe despre istoria comitatului Foix.",
+            "en": "Learn more about the history of the County of Foix."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das Herz der Grafschaft Foix zu Fuß. Der Vormittag gehört der mittelalterlichen Altstadt und der imposanten Burg, die über der Stadt thront. Nach einem ausgiebigen Mittagessen im Schatten der Villote-Alleen spazieren Sie entlang der Ariège und genießen die Aussicht von der alten Brücke, bevor Sie den Tag mit Kultur im Museum abschließen.",
+        "hu": "Fedezd fel Foix grófság szívét gyalogosan. A délelőtt a középkori óvárosé és a város fölé magasodó impozáns váré. Egy kiadós ebéd után a Villote sétány platánjai alatt, sétálj az Ariège partján, élvezd a kilátást az öreg hídról, majd zárd a napot kulturális élményekkel a helyi múzeumban.",
+        "ro": "Descoperiți inima comitatului Foix la pas. Dimineața aparține orașului vechi medieval și castelului impunător care domină orașul. După un prânz copios la umbra aleilor Villote, plimbați-vă de-a lungul râului Ariège și bucurați-vă de priveliștea de pe podul vechi, înainte de a încheia ziua cu cultură la muzeu.",
+        "en": "Explore the heart of the County of Foix on foot. The morning is dedicated to the medieval old town and the imposing castle towering over the city. After a leisurely lunch under the plane trees of the Villote avenues, stroll along the Ariège river and enjoy the views from the old bridge before ending the day with culture at the museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Azinat",
+            "tip": "Herzhafte Kohl- und Fleischsuppe aus der Region Ariège."
+          },
+          {
+            "name": "Le Vert d'Eau",
+            "tip": "Traditionelle Küche in der Nähe der Abtei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azinat",
+            "tip": "Kiadós káposztás-húsos leves Ariège vidékéről."
+          },
+          {
+            "name": "Le Vert d'Eau",
+            "tip": "Hagyományos konyha az apátság közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Azinat",
+            "tip": "Supă consistentă de varză și carne din regiunea Ariège."
+          },
+          {
+            "name": "Le Vert d'Eau",
+            "tip": "Bucătărie tradițională în apropierea abației."
+          }
+        ],
+        "en": [
+          {
+            "name": "Azinat",
+            "tip": "Hearty cabbage and meat soup from the Ariège region."
+          },
+          {
+            "name": "Le Vert d'Eau",
+            "tip": "Traditional cuisine near the Abbey."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ariège Ufer",
+            "tip": "Ein ruhiger Spaziergang am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ariège partja",
+            "tip": "Egy csendes séta a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ariège",
+            "tip": "O plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ariège Banks",
+            "tip": "A quiet stroll along the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Dienstags und freitags auf den Allées de Villote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kedden és pénteken az Allées de Villote sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Marțea și vinerea pe Allées de Villote."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Tuesdays and Fridays on Allées de Villote."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Burg.",
+          "Besuchen Sie die Burg früh, um den Massen zu entgehen."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a várba való felkapaszkodáshoz.",
+          "Látogasd meg a várat korán, hogy elkerüld a tömeget."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea la castel.",
+          "Vizitați castelul devreme pentru a evita aglomerația."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the castle.",
+          "Visit the castle early to avoid the crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Allées de Villote",
+            "hu": "Allées de Villote",
+            "ro": "Allées de Villote",
+            "en": "Allées de Villote"
+          },
+          "coords": [
+            1.607,
+            42.964
+          ],
+          "category": "parks",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Radtouren in der Stadt.",
+            "hu": "A városi kerékpártúrák kiindulópontja.",
+            "ro": "Punctul de plecare pentru tururile cu bicicleta în oraș.",
+            "en": "Starting point for bike tours in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Foix",
+            "hu": "Foix vára",
+            "ro": "Castelul Foix",
+            "en": "Foix Castle"
+          },
+          "coords": [
+            1.605,
+            42.966
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad unten am bewachten Parkplatz ab.",
+            "hu": "Zárd le a bringát lent az őrzött parkolónál.",
+            "ro": "Lăsați bicicleta jos, la parcarea supravegheată.",
+            "en": "Park your bike below at the guarded parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vieux",
+            "hu": "Pont Vieux",
+            "ro": "Pont Vieux",
+            "en": "Pont Vieux"
+          },
+          "coords": [
+            1.607,
+            42.967
+          ],
+          "category": "bridges",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Panoramafotos.",
+            "hu": "Rövid megálló panorámafotókhoz.",
+            "ro": "O scurtă oprire pentru fotografii panoramice.",
+            "en": "Short stop for panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Ariège Radweg",
+            "hu": "Ariège-folyó kerékpárút",
+            "ro": "Pista de biciclete râul Ariège",
+            "en": "Ariège River Bike Path"
+          },
+          "coords": [
+            1.609,
+            42.96
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flacher Weg entlang des Wassers nach Süden.",
+            "hu": "Lapos út a víz mentén dél felé.",
+            "ro": "Traseu plat de-a lungul apei spre sud.",
+            "en": "Flat path along the water heading south."
+          }
+        },
+        {
+          "name": {
+            "de": "Forges de Pyrène",
+            "hu": "Forges de Pyrène",
+            "ro": "Forges de Pyrène",
+            "en": "Forges de Pyrène"
+          },
+          "coords": [
+            1.595,
+            42.955
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein Dorf von damals mit alten Handwerkstechniken.",
+            "hu": "Egykori falu régi kézműves technikákkal.",
+            "ro": "Un sat de odinioară cu tehnici artizanale vechi.",
+            "en": "A village of yesteryear with old craft techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Saint-Volusien",
+            "hu": "Saint-Volusien apátság",
+            "ro": "Abația Saint-Volusien",
+            "en": "Saint-Volusien Abbey"
+          },
+          "coords": [
+            1.606,
+            42.966
+          ],
+          "category": "religious",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für den kulturellen Abschluss.",
+            "hu": "Visszatérés a központba a kulturális záráshoz.",
+            "ro": "Revenire în centru pentru finalul cultural.",
+            "en": "Return to the center for the cultural finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Geschichte von Foix mit den malerischen Wegen entlang der Ariège. Nach dem Besuch der Burg fahren Sie flussabwärts zu den Forges de Pyrène, einem lebendigen Museumsdorf, das die Traditionen der Pyrenäen bewahrt. Eine ideale Tour für aktive Reisende, die mehr als nur das Stadtzentrum sehen möchten.",
+        "hu": "Ez a kerékpártúra ötvözi Foix történelmét az Ariège menti festői utakkal. A vár megtekintése után a folyó mentén a Forges de Pyrène-hez tekerünk, amely egy élő skanzen, megőrizve a Pireneusok hagyományait. Ideális túra aktív utazóknak, akik a városközponton kívül is látni szeretnének.",
+        "ro": "Acest tur cu bicicleta combină istoria din Foix cu traseele pitorești de-a lungul râului Ariège. După vizitarea castelului, pedalați în aval spre Forges de Pyrène, un sat-muzeu viu care păstrează tradițiile Pirineilor. Un tur ideal pentru călătorii activi care doresc să vadă mai mult decât centrul orașului.",
+        "en": "This bike tour combines Foix's history with scenic paths along the Ariège. After visiting the castle, pedal downstream to Forges de Pyrène, a living museum village preserving Pyrenean traditions. An ideal tour for active travelers wanting to see more than just the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Croustade Ariégeoise",
+            "tip": "Apfel- oder Birnenkuchen mit knusprigem Blätterteig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Croustade Ariégeoise",
+            "tip": "Almás vagy körtés sütemény ropogós leveles tésztával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Croustade Ariégeoise",
+            "tip": "Plăcintă cu mere sau pere cu foietaj crocant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Croustade Ariégeoise",
+            "tip": "Apple or pear pastry with crispy puff pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege bei Montgailhard",
+            "tip": "Ruhige Pfade abseits der Straße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montgailhard közeli erdei utak",
+            "tip": "Csendes ösvények távol az úttól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci forestiere lângă Montgailhard",
+            "tip": "Trasee liniștite departe de drum.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths near Montgailhard",
+            "tip": "Quiet paths away from the road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksladen in Forges",
+            "tip": "Lokale Schmiedekunst und Holzarbeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves bolt a Forges-ban",
+            "tip": "Helyi kovácsművészeti és faipari termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de artizanat în Forges",
+            "tip": "Artizanat local din fier forjat și lemn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shop in Forges",
+            "tip": "Local blacksmithing and woodwork."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege entlang der Ariège sind größtenteils flach und gut befahrbar.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt nach Montgailhard mit."
+        ],
+        "hu": [
+          "Az Ariège menti utak többnyire síkak és jól járhatók.",
+          "Vigyél elég vizet a Montgailhard felé vezető útra."
+        ],
+        "ro": [
+          "Traseele de-a lungul râului Ariège sunt în mare parte plate și ușor de parcurs.",
+          "Luați suficientă apă pentru drumul spre Montgailhard."
+        ],
+        "en": [
+          "The paths along the Ariège are mostly flat and easy to ride.",
+          "Take enough water for the ride to Montgailhard."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Unterirdischer Fluss Labouiche",
+            "hu": "Labouiche földalatti folyó",
+            "ro": "Râul subteran Labouiche",
+            "en": "Labouiche Underground River"
+          },
+          "coords": [
+            1.565,
+            43.0
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Eine Bootsfahrt 60 Meter unter der Erde. Reservierung empfohlen!",
+            "hu": "Hajókázás 60 méterrel a föld alatt. Foglalás ajánlott!",
+            "ro": "O plimbare cu barca la 60 de metri sub pământ. Rezervarea este recomandată!",
+            "en": "A boat trip 60 meters underground. Reservation recommended!"
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Foix (Cluster A)",
+            "hu": "Foix óváros (A klaszter)",
+            "ro": "Orașul vechi Foix (Cluster A)",
+            "en": "Foix Old Town (Cluster A)"
+          },
+          "coords": [
+            1.606,
+            42.965
+          ],
+          "category": "squares",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Parkplatz de l'Ariège.",
+            "hu": "Parkolj a de l'Ariège parkolóban.",
+            "ro": "Parcați în parcarea de l'Ariège.",
+            "en": "Park at the de l'Ariège parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Foix (Cluster A)",
+            "hu": "Foix vára (A klaszter)",
+            "ro": "Castelul Foix (Cluster A)",
+            "en": "Foix Castle (Cluster A)"
+          },
+          "coords": [
+            1.605,
+            42.966
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Foix (Cluster A)",
+            "hu": "Ebéd Foix-ban (A klaszter)",
+            "ro": "Prânz în Foix (Cluster A)",
+            "en": "Lunch in Foix (Cluster A)"
+          },
+          "coords": [
+            1.607,
+            42.964
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten in den Gassen.",
+            "hu": "Kóstolj helyi különlegességeket a sikátorokban.",
+            "ro": "Gustați specialități locale pe străduțe.",
+            "en": "Taste local specialties in the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Forges de Pyrène (Cluster B)",
+            "hu": "Forges de Pyrène (B klaszter)",
+            "ro": "Forges de Pyrène (Cluster B)",
+            "en": "Forges de Pyrène (Cluster B)"
+          },
+          "coords": [
+            1.595,
+            42.955
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz direkt am Eingang.",
+            "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare gratuită chiar la intrare.",
+            "en": "Large free parking lot right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Saint-Volusien",
+            "hu": "Saint-Volusien apátság",
+            "ro": "Abația Saint-Volusien",
+            "en": "Saint-Volusien Abbey"
+          },
+          "coords": [
+            1.606,
+            42.966
+          ],
+          "category": "religious",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp auf dem Rückweg.",
+            "hu": "Rövid megálló visszafelé.",
+            "ro": "Scurtă oprire la întoarcere.",
+            "en": "Short stop on the way back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht es Ihnen, das Highlight der Region einzuschließen: den unterirdischen Fluss von Labouiche. Nach der morgendlichen Höhlentour kehren Sie nach Foix zurück, um die Burg und die Altstadt zu Fuß zu erkunden. Den Nachmittag verbringen Sie in den Forges de Pyrène, bevor Sie den Tag in der Stadtmitte ausklingen lassen.",
+        "hu": "Az autó lehetővé teszi a régió egyik fő látványosságát: a Labouiche földalatti folyót. A reggeli barlangi túra után térj vissza Foix-ba, hogy gyalog fedezd fel a várat és az óvárost. A délutánt töltsd a Forges de Pyrène skanzenben, mielőtt a napot a városközpontban zárnád.",
+        "ro": "Mașina vă permite să includeți atracția principală a regiunii: râul subteran Labouiche. După turul peșterii de dimineață, reveniți la Foix pentru a explora castelul și orașul vechi la pas. Petreceți după-amiaza la Forges de Pyrène, înainte de a încheia ziua în centrul orașului.",
+        "en": "The car allows you to include the region's top highlight: the Labouiche underground river. After the morning cave tour, return to Foix to explore the castle and old town on foot. Spend the afternoon at Forges de Pyrène before finishing the day in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mounjetado",
+            "tip": "Die Ariégeois-Variante des Cassoulet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mounjetado",
+            "tip": "A Cassoulet ariège-i változata."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mounjetado",
+            "tip": "Varianta din Ariège a preparatului Cassoulet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mounjetado",
+            "tip": "The Ariège version of Cassoulet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blickpunkt Pech de l'Hermo",
+            "tip": "Panorama-Aussicht auf Foix.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pech de l'Hermo kilátó",
+            "tip": "Panorámás kilátás Foix-ra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Pech de l'Hermo",
+            "tip": "Vedere panoramică asupra Foix.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pech de l'Hermo Viewpoint",
+            "tip": "Panoramic view of Foix.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie de Foix",
+            "tip": "Traditionelle Kekse und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie de Foix",
+            "tip": "Hagyományos kekszek és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie de Foix",
+            "tip": "Biscuiți tradiționali și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuiterie de Foix",
+            "tip": "Traditional biscuits and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Labouiche-Tour unbedingt online vorab.",
+          "Der Parkplatz de l'Ariège ist oft voll, versuchen Sie es alternativ am Champ de Mars."
+        ],
+        "hu": [
+          "A Labouiche-túrát mindenképpen foglald le előre online.",
+          "A de l'Ariège parkoló gyakran tele van, próbáld meg a Champ de Mars-on."
+        ],
+        "ro": [
+          "Rezervați neapărat turul Labouiche online în avans.",
+          "Parcarea de l'Ariège este adesea plină, încercați alternativ la Champ de Mars."
+        ],
+        "en": [
+          "Be sure to book the Labouiche tour online in advance.",
+          "The de l'Ariège parking lot is often full; try Champ de Mars as an alternative."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Foix",
+            "hu": "Foix vasútállomás",
+            "ro": "Gara Foix",
+            "en": "Foix Station"
+          },
+          "coords": [
+            1.611,
+            42.969
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft mit dem TER aus Toulouse.",
+            "hu": "Érkezés a Toulouse felőli TER vonattal.",
+            "ro": "Sosire cu trenul TER dinspre Toulouse.",
+            "en": "Arrival by TER train from Toulouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt / Pont Vieux",
+            "hu": "Óváros / Pont Vieux",
+            "ro": "Orașul vechi / Pont Vieux",
+            "en": "Old Town / Pont Vieux"
+          },
+          "coords": [
+            1.607,
+            42.967
+          ],
+          "category": "squares",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang vom Bahnhof ins Zentrum.",
+            "hu": "Séta az állomástól a központba.",
+            "ro": "Plimbare de la gară spre centru.",
+            "en": "Walk from the station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Foix",
+            "hu": "Foix vára",
+            "ro": "Castelul Foix",
+            "en": "Foix Castle"
+          },
+          "coords": [
+            1.605,
+            42.966
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Hauptgrund für einen Besuch.",
+            "hu": "A látogatás fő oka.",
+            "ro": "Principalul motiv al vizitei.",
+            "en": "The main reason for visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Volusien",
+            "hu": "Saint-Volusien",
+            "ro": "Saint-Volusien",
+            "en": "Saint-Volusien"
+          },
+          "coords": [
+            1.606,
+            42.966
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt am Fuße der Burg.",
+            "hu": "Közvetlenül a vár lábánál.",
+            "ro": "Chiar la poalele castelului.",
+            "en": "Right at the foot of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Allées de Villote",
+            "hu": "Allées de Villote",
+            "ro": "Allées de Villote",
+            "en": "Allées de Villote"
+          },
+          "coords": [
+            1.607,
+            42.964
+          ],
+          "category": "parks",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Platz für Mittagessen und Busse.",
+            "hu": "Központi hely ebédhez és buszokhoz.",
+            "ro": "Loc central pentru prânz și autobuze.",
+            "en": "Central spot for lunch and buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Ariège Promenade",
+            "hu": "Ariège sétány",
+            "ro": "Promenada Ariège",
+            "en": "Ariège Promenade"
+          },
+          "coords": [
+            1.609,
+            42.968
+          ],
+          "category": "parks",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gemütlicher Weg zurück zum Bahnhof.",
+            "hu": "Hangulatos út vissza az állomásra.",
+            "ro": "Traseu plăcut înapoi la gară.",
+            "en": "Atmospheric path back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Foix ist perfekt per Bahn von Toulouse aus erreichbar. Vom Bahnhof führt ein kurzer Spaziergang über die Brücke direkt ins historische Herz. Sie erkunden die Burg und die Abtei, genießen ein Mittagessen auf dem Hauptboulevard und spazieren entspannt am Flussufer entlang zurück zum Zug. Alles ist in bequemer Gehweite.",
+        "hu": "Foix tökéletesen megközelíthető vonattal Toulouse felől. Az állomástól rövid séta vezet a hídon át egyenesen a történelmi szívbe. Fedezd fel a várat és az apátságot, ebédelj a fő sugárúton, majd sétálj pihentetően a folyóparton vissza a vonathoz. Minden kényelmes sétatávolságra van.",
+        "ro": "Foix este perfect accesibil cu trenul dinspre Toulouse. De la gară, o scurtă plimbare peste pod duce direct în inima istorică. Explorați castelul și abația, bucurați-vă de prânz pe bulevardul principal și plimbați-vă relaxat pe malul râului înapoi la tren. Totul este la o distanță confortabilă de mers pe jos.",
+        "en": "Foix is perfectly accessible by train from Toulouse. From the station, a short walk across the bridge leads straight into the historical heart. Explore the castle and the abbey, enjoy lunch on the main boulevard, and take a relaxing stroll along the riverbank back to the train. Everything is within easy walking distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Saint-Lary",
+            "tip": "Gemütliches Restaurant mit Blick auf die Burg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Saint-Lary",
+            "tip": "Hangulatos étterem kilátással a várra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Saint-Lary",
+            "tip": "Restaurant primitor cu vedere la castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Saint-Lary",
+            "tip": "Cozy restaurant with a view of the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Abtei",
+            "tip": "Ein kleiner Rückzugsort hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az apátság kertje",
+            "tip": "Egy kis rejtekhely a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina abației",
+            "tip": "Un mic refugiu în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Garden",
+            "tip": "A small sanctuary behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käserei",
+            "tip": "Probieren Sie den Bethmale-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtbolt",
+            "tip": "Kóstold meg a Bethmale sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânzărie locală",
+            "tip": "Gustați brânza Bethmale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Shop",
+            "tip": "Try the Bethmale cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Zugverbindung nach Toulouse ist stündlich und sehr zuverlässig.",
+          "Schließfächer am Bahnhof sind begrenzt, reisen Sie mit leichtem Gepäck."
+        ],
+        "hu": [
+          "A toulouse-i vonatóránként jár és nagyon megbízható.",
+          "A csomagmegőrző az állomáson korlátozott, utazz könnyű poggyásszal."
+        ],
+        "ro": [
+          "Legătura cu trenul spre Toulouse este la fiecare oră și foarte sigură.",
+          "Dulapurile pentru bagaje în gară sunt limitate, călătoriți cu bagaj ușor."
+        ],
+        "en": [
+          "The train connection to Toulouse is hourly and very reliable.",
+          "Lockers at the station are limited; travel with light luggage."
+        ]
+      }
+    }
+  }
+}

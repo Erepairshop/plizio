@@ -1,9 +1,9 @@
 {
   "city_id": "norway-sarpsborg-cities-v2",
   "anchor": {
-    "name": "Sarpsborg Centrum",
+    "name": "Sarpsborg",
     "coords": [
-      11.11,
+      11.1,
       59.2833
     ]
   },
@@ -12,184 +12,221 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 2.8,
+      "end_estimate": "17:15",
+      "total_km": 4.1,
       "stop_count": 5,
       "stops": [
         {
-          "name": {
-            "de": "Kulåsparken",
-            "hu": "Kulåsparken",
-            "ro": "Kulåsparken",
-            "en": "Kulåsparken"
-          },
-          "coords": [
-            11.112,
-            59.281
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:10",
-          "stay_min": 75,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Suchen Sie die Grabhügel aus der Eisenzeit im Park.",
-            "hu": "Keresd meg a vaskori sírhalmokat a park területén.",
-            "ro": "Căutați tumulii funerari din epoca fierului în parc.",
-            "en": "Look for the Iron Age burial mounds within the park."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Kirche von Sarpsborg",
             "hu": "Sarpsborgi templom",
             "ro": "Biserica din Sarpsborg",
             "en": "Sarpsborg Church"
           },
           "coords": [
-            11.109,
-            59.2825
+            11.1123,
+            59.2845
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "10:35",
-          "stay_min": 45,
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Bewundern Sie die Glasmalereien von Victor Sparre.",
-            "hu": "Csodáld meg Victor Sparre színes üvegablakait.",
-            "ro": "Admirați vitraliile realizate de Victor Sparre.",
-            "en": "Admire the stained glass windows by Victor Sparre."
+            "de": "Achten Sie auf die schlichte Eleganz des Innenraums und die moderne Orgel.",
+            "hu": "Figyelje meg a belső tér egyszerű eleganciáját és a modern orgonát.",
+            "ro": "Observați eleganța simplă a interiorului și orga modernă.",
+            "en": "Note the simple elegance of the interior and the modern organ."
           }
         },
         {
-          "name": {
+          "name_4lang": {
+            "de": "Kulåsparken",
+            "hu": "Kulås park",
+            "ro": "Parcul Kulås",
+            "en": "Kulås Park"
+          },
+          "coords": [
+            11.115,
+            59.287
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Park ist ideal für ein Picknick und beherbergt im Sommer oft Konzerte.",
+            "hu": "A park ideális egy piknikhez, nyáron gyakran tartanak itt koncerteket.",
+            "ro": "Parcul este ideal pentru un picnic și adesea găzduiește concerte vara.",
+            "en": "The park is ideal for a picnic and often hosts concerts in the summer."
+          }
+        },
+        {
+          "name_4lang": {
             "de": "Borgarsyssel Museum",
             "hu": "Borgarsyssel Múzeum",
             "ro": "Muzeul Borgarsyssel",
             "en": "Borgarsyssel Museum"
           },
           "coords": [
-            11.115,
-            59.278
+            11.118,
+            59.2815
           ],
           "category": "museums",
-          "arrive_at": "11:35",
+          "arrive_at": "11:40",
           "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
           "tip_5lang": {
-            "de": "Besuchen Sie die Ruinen der St. Nikolas-Kirche aus dem Jahr 1115.",
-            "hu": "Nézd meg az 1115-ben épült Szent Miklós-templom romjait.",
-            "ro": "Vizitați ruinele bisericii Sf. Nicolae din anul 1115.",
-            "en": "Visit the ruins of St. Nicholas Church from 1115."
+            "de": "Ein Freilichtmuseum, das die Geschichte von Østfold zeigt. Planen Sie Zeit für die historischen Gebäude ein.",
+            "hu": "Szabadtéri múzeum, amely Østfold történetét mutatja be. Szánjon időt a történelmi épületekre.",
+            "ro": "Un muzeu în aer liber care prezintă istoria regiunii Østfold. Alocați timp pentru clădirile istorice.",
+            "en": "An open-air museum showcasing the history of Østfold. Allow time to explore the historical buildings."
           }
         },
         {
-          "name": {
-            "de": "Sarpsfossen",
-            "hu": "Sarpsfossen vízesés",
+          "name_4lang": {
+            "de": "Sarpsfossen Wasserfall",
+            "hu": "Sarpsfossen-vízesés",
             "ro": "Cascada Sarpsfossen",
             "en": "Sarpsfossen Waterfall"
           },
           "coords": [
             11.131,
-            59.276
+            59.278
           ],
           "category": "natural features (caves, viewpoints)",
-          "arrive_at": "13:40",
+          "arrive_at": "13:45",
           "stay_min": 40,
           "hop_from_prev_min": 25,
           "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Europas wasserreichster Wasserfall, am besten von der Brücke aus zu sehen.",
-            "hu": "Európa legnagyobb vízhozamú vízesése, a hídról a legjobb a kilátás.",
-            "ro": "Cea mai puternică cascadă din Europa, vizibilă cel mai bine de pe pod.",
-            "en": "Europe's most powerful waterfall, best viewed from the bridge."
+            "de": "Der mächtigste Wasserfall Europas. Der beste Blick bietet sich von der Brücke aus.",
+            "hu": "Európa legerősebb vízhozamú vízesése. A legjobb kilátás a hídról nyílik.",
+            "ro": "Cea mai puternică cascadă din Europa. Cea mai bună priveliște este de pe pod.",
+            "en": "Europe's most powerful waterfall. The best view is from the bridge."
           }
         },
         {
-          "name": {
-            "de": "Hafslund Hovedgård",
-            "hu": "Hafslund kúria",
+          "name_4lang": {
+            "de": "Hafslund Herrenhaus",
+            "hu": "Hafslund uradalom",
             "ro": "Conacul Hafslund",
             "en": "Hafslund Manor"
           },
           "coords": [
-            11.135,
-            159.274
+            11.136,
+            59.2795
           ],
           "category": "famous residences",
-          "arrive_at": "14:30",
+          "arrive_at": "15:05",
           "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Das 'Schloss von Østfold' bietet einen herrlichen englischen Garten.",
-            "hu": "Østfold kastélyaként ismerik, angolkertje szabadon látogatható.",
-            "ro": "Cunoscut drept castelul din Østfold, are o grădină englezească superbă.",
-            "en": "Known as the manor of Østfold, featuring a beautiful English garden."
+            "de": "Eines der am besten erhaltenen Herrenhäuser Norwegens. Der umliegende Park ist wunderschön.",
+            "hu": "Norvégia egyik legjobb állapotban megmaradt udvarháza. A környező park gyönyörű.",
+            "ro": "Unul dintre cele mai bine conservate conace din Norvegia. Parcul înconjurător este superb.",
+            "en": "One of Norway's best-preserved manors. The surrounding park is beautiful."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag im Kulåsparken, dem grünen Herzen der Stadt, bevor Sie die neugotische Kirche besichtigen. Das Borgarsyssel Museum entführt Sie in die Wikingerzeit und das Mittelalter. Den Nachmittag verbringen Sie an den donnernden Wassermassen des Sarpsfossen und beenden den Spaziergang am eleganten Herrenhaus Hafslund aus dem 18. Jahrhundert.",
-        "hu": "Kezdje a napot a város szívében fekvő Kulåsparkenben, majd látogasson el a neogótikus városi templomba. A Borgarsyssel Múzeumban a középkori romok között megismerheti a város 1016-os alapításának történetét. Délután Európa legvadabb vízesése, a Sarpsfossen várja, a túrát pedig a Hafslund kúria elegáns angolkertjében zárhatja.",
-        "ro": "Începeți ziua în Kulåsparken, inima verde a orașului, înainte de a vizita biserica neogotică. Muzeul Borgarsyssel vă poartă prin istoria medievală a zonei. După-amiaza este dedicată spectacolului oferit de cascada Sarpsfossen, iar traseul se încheie la elegantul conac Hafslund, o bijuterie arhitecturală din secolul al XVIII-lea.",
-        "en": "Start your day in Kulåsparken, the city's green lung, before visiting the neo-Gothic church. Borgarsyssel Museum offers deep insights into Viking and medieval history. Spend your afternoon witnessing the sheer power of the Sarpsfossen waterfall and conclude your walk at the elegant 18th-century Hafslund Manor and its park."
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang zur Sarpsborg Kirche, gefolgt von einer entspannten Zeit im grünen Kulåsparken. Am Vormittag tauchen Sie im Borgarsyssel Museum in die lokale Geschichte ein. Nach dem Mittagessen spüren Sie die Kraft des Sarpsfossen-Wasserfalls. Der Nachmittag endet mit einem eleganten Besuch des Hafslund Herrenhauses, wo Sie durch den historischen Park schlendern. Ein Tag voller Kultur und Natur, alles zu Fuß erreichbar.",
+        "hu": "Kezdje a napot egy sétával a Sarpsborgi templomhoz, majd pihenjen a zöldellő Kulås parkban. Délelőtt merüljön el a helyi történelemben a Borgarsyssel Múzeumban. Ebéd után érezze a Sarpsfossen-vízesés erejét. A délután az elegáns Hafslund uradalomban ér véget, sétálva a történelmi parkban. Egy nap tele kultúrával és természettel, mindez gyalogosan.",
+        "ro": "Începeți ziua cu o plimbare la Biserica din Sarpsborg, urmată de un moment de relaxare în Parcul Kulås. Dimineața, scufundați-vă în istoria locală la Muzeul Borgarsyssel. După prânz, simțiți puterea cascadei Sarpsfossen. După-amiaza se încheie cu o vizită elegantă la Conacul Hafslund, plimbându-vă prin parcul istoric. O zi plină de cultură și natură, totul la pas.",
+        "en": "Start your day with a walk to Sarpsborg Church, followed by relaxing time in the green Kulås Park. In the morning, delve into local history at the Borgarsyssel Museum. After lunch, feel the power of the Sarpsfossen Waterfall. The afternoon concludes with an elegant visit to Hafslund Manor, strolling through its historic park. A day full of culture and nature, all within walking distance."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pølse i vaffel",
-            "tip": "Eine lokale Spezialität: Würstchen im Waffelteig, typisch für Sarpsborg."
+            "name": "Lachs",
+            "tip": "Probieren Sie geräucherten oder gegrillten Lachs in Restaurants in der Nähe des Flusses."
+          },
+          {
+            "name": "Vafler",
+            "tip": "Norwegische Waffeln mit Sauerrahm und Marmelade, perfekt für eine Kaffeepause."
           }
         ],
         "hu": [
           {
-            "name": "Pølse i vaffel",
-            "tip": "Helyi különlegesség: virsli gofriban tálalva, szinte kötelező megkóstolni."
+            "name": "Lazac",
+            "tip": "Kóstoljon füstölt vagy grillezett lazacot a folyó menti éttermekben."
+          },
+          {
+            "name": "Vafler",
+            "tip": "Norvég gofri tejföllel és lekvárral, tökéletes egy kávészünethez."
           }
         ],
         "ro": [
           {
-            "name": "Pølse i vaffel",
-            "tip": "Specialitate locală: crenvurști serviți într-o vafă, un simbol culinar al zonei."
+            "name": "Somon",
+            "tip": "Încercați somon afumat sau la grătar la restaurantele de lângă râu."
+          },
+          {
+            "name": "Vafe (Vafler)",
+            "tip": "Vafe norvegiene cu smântână și gem, perfecte pentru o pauză de cafea."
           }
         ],
         "en": [
           {
-            "name": "Pølse i vaffel",
-            "tip": "A local specialty: a hot dog served in a waffle, unique to the Sarpsborg region."
+            "name": "Salmon",
+            "tip": "Try smoked or grilled salmon at restaurants near the river."
+          },
+          {
+            "name": "Vafler (Waffles)",
+            "tip": "Norwegian waffles with sour cream and jam, perfect for a coffee break."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
+            "name": "Ufer des Tunevannet",
+            "tip": "Ein ruhiger Spaziergang am Seeufer, etwas außerhalb des Hauptrundgangs.",
+            "emoji": "🏞️"
+          },
+          {
             "name": "Hafslund Park",
-            "tip": "Ruhige Spazierwege hinter dem Herrenhaus.",
+            "tip": "Finden Sie eine stille Bank im weitläufigen Park des Herrenhauses.",
             "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Hafslund Park",
-            "tip": "Csendes sétautak a kúria mögötti parkban.",
+            "name": "Tunevannet partja",
+            "tip": "Egy csendes séta a tóparton, kissé távolabb a fő útvonaltól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hafslund park",
+            "tip": "Keressen egy csendes padot az udvarház tágas parkjában.",
             "emoji": "🍃"
           }
         ],
         "ro": [
           {
+            "name": "Malul lacului Tunevannet",
+            "tip": "O plimbare liniștită pe malul lacului, puțin în afara traseului principal.",
+            "emoji": "🏞️"
+          },
+          {
             "name": "Parcul Hafslund",
-            "tip": "Alei liniștite în spatele conacului istoric.",
+            "tip": "Găsiți o bancă liniștită în parcul extins al conacului.",
             "emoji": "🍃"
           }
         ],
         "en": [
           {
+            "name": "Shores of Tunevannet",
+            "tip": "A quiet walk along the lake shore, slightly off the main walking route.",
+            "emoji": "🏞️"
+          },
+          {
             "name": "Hafslund Park",
-            "tip": "Quiet walking paths located behind the historic manor.",
+            "tip": "Find a quiet bench in the expansive park of the manor.",
             "emoji": "🍃"
           }
         ]
@@ -197,49 +234,53 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Storbyen Kjøpesenter",
-            "tip": "Das größte Einkaufszentrum im Stadtzentrum."
+            "name": "Borgarsyssel Museumsshop",
+            "tip": "Kaufen Sie historische Nachbildungen und Bücher über die Region."
           }
         ],
         "hu": [
           {
-            "name": "Storbyen Kjøpesenter",
-            "tip": "A városközpont legnagyobb bevásárlóközpontja."
+            "name": "Borgarsyssel Múzeum boltja",
+            "tip": "Vásároljon történelmi másolatokat és könyveket a régióról."
           }
         ],
         "ro": [
           {
-            "name": "Storbyen Kjøpesenter",
-            "tip": "Cel mai mare centru comercial din centrul orașului."
+            "name": "Magazinul Muzeului Borgarsyssel",
+            "tip": "Cumpărați replici istorice și cărți despre regiune."
           }
         ],
         "en": [
           {
-            "name": "Storbyen Kjøpesenter",
-            "tip": "The largest shopping mall located in the city center."
+            "name": "Borgarsyssel Museum Shop",
+            "tip": "Purchase historical replicas and books about the region."
           }
         ]
       },
       "tips": {
         "de": [
-          "Sarpsborg ist flach und sehr gut zu Fuß begehbar.",
-          "Die Brücke über den Sarpsfossen bietet den besten Fotopunkt.",
-          "Sonntags sind viele Geschäfte geschlossen, aber die Museen offen."
+          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
+          "Prüfen Sie die Wettervorhersage; das norwegische Wetter kann sich schnell ändern.",
+          "Nehmen Sie eine wiederverwendbare Wasserflasche mit.",
+          "Einige Abschnitte entlang des Flusses können windig sein."
         ],
         "hu": [
-          "Sarpsborg sík terep, gyalogosan nagyon könnyen bejárható.",
-          "A Sarpsfossen feletti híd a legjobb hely a fotózáshoz.",
-          "Vasárnap a boltok zárva vannak, de a múzeumok és parkok látogathatók."
+          "Viseljen kényelmes cipőt, mivel sokat fog gyalogolni.",
+          "Ellenőrizze az időjárás-előrejelzést; a norvég időjárás gyorsan változhat.",
+          "Hozzon magával újratölthető vizes palackot.",
+          "A folyó menti egyes szakaszok szelesek lehetnek."
         ],
         "ro": [
-          "Sarpsborg este un oraș plat, foarte ușor de explorat la pas.",
-          "Podul peste Sarpsfossen oferă cel mai bun punct de observație.",
-          "Duminica majoritatea magazinelor sunt închise, dar muzeele rămân deschise."
+          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
+          "Verificați prognoza meteo; vremea norvegiană se poate schimba rapid.",
+          "Luați cu voi o sticlă de apă reutilizabilă.",
+          "Unele secțiuni de-a lungul râului pot fi vântoase."
         ],
         "en": [
-          "Sarpsborg is flat and very pedestrian-friendly.",
-          "The bridge over Sarpsfossen is the ultimate photography spot.",
-          "Shops are closed on Sundays, but museums and parks remain accessible."
+          "Wear comfortable shoes as you'll be doing a lot of walking.",
+          "Check the weather forecast; Norwegian weather can change quickly.",
+          "Bring a reusable water bottle.",
+          "Some sections along the river can be windy."
         ]
       },
       "variants": {
@@ -411,161 +452,231 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:30",
-      "total_km": 12.5,
-      "stop_count": 6,
+      "end_estimate": "18:25",
+      "total_km": 15.5,
+      "stop_count": 7,
       "stops": [
         {
-          "name": {
-            "de": "Tunevannet",
-            "hu": "Tunevannet tó",
+          "name_4lang": {
+            "de": "Sarpsborg Kirke",
+            "hu": "Sarpsborgi templom",
+            "ro": "Biserica Sarpsborg",
+            "en": "Sarpsborg Church"
+          },
+          "coords": [
+            11.1123,
+            59.2845
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
+            "de": "Kulåsparken",
+            "hu": "Kulås park",
+            "ro": "Parcul Kulås",
+            "en": "Kulås Park"
+          },
+          "coords": [
+            11.115,
+            59.287
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:46",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name_4lang": {
+            "de": "Borgarsyssel Museum",
+            "hu": "Borgarsyssel Múzeum",
+            "ro": "Muzeul Borgarsyssel",
+            "en": "Borgarsyssel Museum"
+          },
+          "coords": [
+            11.118,
+            59.2815
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name_4lang": {
+            "de": "Sarpsfossen Wasserfall",
+            "hu": "Sarpsfossen-vízesés",
+            "ro": "Cascada Sarpsfossen",
+            "en": "Sarpsfossen Waterfall"
+          },
+          "coords": [
+            11.131,
+            59.278
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:18",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3
+        },
+        {
+          "name_4lang": {
+            "de": "Hafslund Herrenhaus",
+            "hu": "Hafslund uradalom",
+            "ro": "Conacul Hafslund",
+            "en": "Hafslund Manor"
+          },
+          "coords": [
+            11.136,
+            59.2795
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:54",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name_4lang": {
+            "de": "Tunevannet See",
+            "hu": "Tunevannet-tó",
             "ro": "Lacul Tunevannet",
-            "en": "Tunevannet Lake"
+            "en": "Lake Tunevannet"
           },
           "coords": [
             11.08,
-            59.3
+            59.275
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "09:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Beliebter Badesee mit Radwegen.",
-            "hu": "Népszerű tó stranddal és kerékpárutakkal.",
-            "ro": "Lac popular cu plajă și piste de biciclete.",
-            "en": "Popular swimming lake with scenic cycling paths."
-          }
+          "arrive_at": "14:24",
+          "stay_min": 90,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0
         },
         {
-          "name": {
-            "de": "Inspiria Science Center",
-            "hu": "Inspiria Tudományos Központ",
-            "ro": "Centrul Științific Inspiria",
-            "en": "Inspiria Science Center"
-          },
-          "coords": [
-            11.05,
-            59.283
-          ],
-          "category": "museums",
-          "arrive_at": "10:35",
-          "stay_min": 100,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.2,
-          "tip_5lang": {
-            "de": "Interaktives Museum für Technik und Astronomie.",
-            "hu": "Interaktív tudományos központ és planetárium.",
-            "ro": "Centru științific interactiv și planetariu.",
-            "en": "Interactive science center and planetarium."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Greåker Fort",
             "hu": "Greåker erőd",
-            "ro": "Fortul Greåker",
+            "ro": "Fortăreața Greåker",
             "en": "Greåker Fort"
           },
           "coords": [
-            11.03,
-            59.266
+            11.05,
+            59.26
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "12:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Toller Ausblick über das Glomma-Tal.",
-            "hu": "Kiváló kilátás a Glomma folyó völgyére.",
-            "ro": "Vedere panoramică asupra văii râului Glomma.",
-            "en": "Great viewpoint overlooking the Glomma valley."
-          }
-        },
-        {
-          "name": {
-            "de": "Kulåsparken",
-            "hu": "Kulåsparken",
-            "ro": "Kulåsparken",
-            "en": "Kulåsparken"
-          },
-          "coords": [
-            11.112,
-            59.281
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "13:40",
-          "stay_min": 40,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 3.8,
-          "tip_5lang": {
-            "de": "Grüne Oase im Zentrum.",
-            "hu": "Zöld oázis a belvárosban.",
-            "ro": "Oază de verdeață în centrul orașului.",
-            "en": "Green oasis in the city center."
-          }
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.2
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour führt Sie vom idyllischen Tunevannet-See zum modernen Inspiria Science Center. Nach einem Anstieg zum Greåker Fort mit weitem Ausblick kehren Sie über den Kulåsparken ins Zentrum zurück. Eine perfekte Mischung aus Natur, Wissenschaft und Geschichte.",
-        "hu": "Ez a kerékpáros túra az idilli Tunevannet-tótól indul a modern Inspiria Tudományos Központig. A Greåker erődbe tett kaptató után pazar kilátás nyílik a völgyre, majd a Kulåsparken érintésével érkezünk vissza a központba. A túra a természet és a technika remek elegye.",
-        "ro": "Acest traseu cu bicicleta vă duce de la lacul Tunevannet până la modernul centru Inspiria. După o urcare spre fortul Greåker pentru o panoramă superbă, veți reveni în centru prin parcul Kulåsparken. Un mix perfect de natură, știință și istorie militară.",
-        "en": "This cycling route takes you from the idyllic Tunevannet Lake to the modern Inspiria Science Center. After a climb to Greåker Fort for sweeping views, return to the center via Kulåsparken. A perfect blend of nature, science, and history on two wheels."
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie bei der Sarpsborg Kirche. Radeln Sie durch den Kulåsparken, bevor Sie am Borgarsyssel Museum eine längere Pause einlegen. Nach dem Mittagessen führt Sie der Weg zum beeindruckenden Sarpsfossen. Erkunden Sie das Hafslund Herrenhaus und genießen Sie dann eine längere Tour zum malerischen Tunevannet-See. Der Tag endet mit einem historischen Ausflug zur Greåker Festung, die einen weiten Blick bietet.",
+        "hu": "Pattanjon biciklire és induljon a Sarpsborgi templomtól. Tekerjen át a Kulås parkon, mielőtt hosszabb pihenőt tartana a Borgarsyssel Múzeumnál. Ebéd után az út a lenyűgöző Sarpsfossen-vízeséshez vezet. Fedezze fel a Hafslund uradalmat, majd tegyen egy hosszabb túrát a festői Tunevannet-tóhoz. A nap a Greåker erődnél tett történelmi kirándulással zárul, ahonnan remek a kilátás.",
+        "ro": "Urcați-vă pe bicicletă și porniți de la Biserica Sarpsborg. Pedalați prin Parcul Kulås înainte de a lua o pauză mai lungă la Muzeul Borgarsyssel. După prânz, drumul vă duce la impresionanta Cascadă Sarpsfossen. Explorați Conacul Hafslund și apoi bucurați-vă de un tur mai lung la pitorescul Lac Tunevannet. Ziua se încheie cu o excursie istorică la Fortăreața Greåker, care oferă priveliști ample.",
+        "en": "Hop on your bike and start at Sarpsborg Church. Cycle through Kulås Park before taking a longer break at Borgarsyssel Museum. After lunch, the path leads you to the impressive Sarpsfossen Waterfall. Explore Hafslund Manor and then enjoy a longer tour to the scenic Lake Tunevannet. The day ends with a historic trip to Greåker Fort, offering wide views."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bakeriet",
-            "tip": "Frisches Gebäck für die Radpause."
+            "name": "Pølse i lompe",
+            "tip": "Ein klassischer norwegischer Hotdog in einem Kartoffelfladenbrot, ein schneller und leckerer Snack."
+          },
+          {
+            "name": "Fischsuppe",
+            "tip": "Eine cremige Fischsuppe (fiskesuppe) wärmt an kühleren Tagen."
           }
         ],
         "hu": [
           {
-            "name": "Bakeriet",
-            "tip": "Friss pékáru a tekerés közbeni pihenőhöz."
+            "name": "Pølse i lompe",
+            "tip": "Klasszikus norvég hot dog burgonyás lepényben, gyors és finom harapnivaló."
+          },
+          {
+            "name": "Halászlé",
+            "tip": "Egy krémes halleves (fiskesuppe) felmelegít a hűvösebb napokon."
           }
         ],
         "ro": [
           {
-            "name": "Bakeriet",
-            "tip": "Produse de patiserie proaspete pentru o pauză."
+            "name": "Pølse i lompe",
+            "tip": "Un hotdog norvegian clasic într-o lipie de cartofi, o gustare rapidă și gustoasă."
+          },
+          {
+            "name": "Supă de pește",
+            "tip": "O supă cremă de pește (fiskesuppe) vă va încălzi în zilele mai răcoroase."
           }
         ],
         "en": [
           {
-            "name": "Bakeriet",
-            "tip": "Fresh pastries perfect for a cycling break."
+            "name": "Pølse i lompe",
+            "tip": "A classic Norwegian hot dog in a potato flatbread, a quick and tasty snack."
+          },
+          {
+            "name": "Fish Soup",
+            "tip": "A creamy fish soup (fiskesuppe) will warm you up on cooler days."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Tunevannet Ufer",
-            "tip": "Ruhiger Platz am Wasser.",
+            "name": "Radweg am Tunevannet",
+            "tip": "Der Weg um den See ist meist ruhig und bietet viele Fotomöglichkeiten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Greåker Fort",
+            "tip": "Abseits der Hauptpfade bietet die Festung ruhige Ecken mit Panoramablick.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Tunevannet part",
-            "tip": "Csendes pihenőhely a vízparton.",
+            "name": "Kerékpárút a Tunevannet körül",
+            "tip": "A tó körüli út többnyire csendes és sok fotózási lehetőséget kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Greåker erőd",
+            "tip": "A fő ösvényektől távol az erőd csendes zugokat kínál panorámás kilátással.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Malul Tunevannet",
-            "tip": "Loc liniștit pe malul apei.",
+            "name": "Pista de biciclete de la Tunevannet",
+            "tip": "Traseul din jurul lacului este în mare parte liniștit și oferă multe oportunități foto.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fortăreața Greåker",
+            "tip": "Departe de cărările principale, fortăreața oferă colțuri liniștite cu vederi panoramice.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Tunevannet Shore",
-            "tip": "Quiet spot by the water edge.",
+            "name": "Bike path at Tunevannet",
+            "tip": "The path around the lake is mostly quiet and offers many photo opportunities.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Greåker Fort",
+            "tip": "Away from the main paths, the fort offers quiet corners with panoramic views.",
             "emoji": "🌅"
           }
         ]
@@ -573,45 +684,53 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Inspiria Shop",
-            "tip": "Wissenschaftliche Souvenirs."
+            "name": "Lokale Sportgeschäfte",
+            "tip": "Suchen Sie nach norwegischer Outdoor-Ausrüstung oder Fahrradzubehör."
           }
         ],
         "hu": [
           {
-            "name": "Inspiria Bolt",
-            "tip": "Tudományos és technikai ajándéktárgyak."
+            "name": "Helyi sportboltok",
+            "tip": "Keressen norvég outdoor felszerelést vagy kerékpáros kiegészítőket."
           }
         ],
         "ro": [
           {
-            "name": "Magazin Inspiria",
-            "tip": "Suveniruri cu tematică științifică."
+            "name": "Magazine locale de sport",
+            "tip": "Căutați echipament norvegian de exterior sau accesorii pentru biciclete."
           }
         ],
         "en": [
           {
-            "name": "Inspiria Shop",
-            "tip": "Science-themed gifts and souvenirs."
+            "name": "Local Sports Shops",
+            "tip": "Look for Norwegian outdoor gear or cycling accessories."
           }
         ]
       },
       "tips": {
         "de": [
-          "Sarpsborg ist Teil der Radregion Glommastien.",
-          "Die Wege zum Fort sind etwas steiler."
+          "Mieten Sie ein Fahrrad mit Gängen, da es einige leichte Steigungen gibt.",
+          "Tragen Sie einen Helm und verwenden Sie Lichter, besonders am späten Nachmittag.",
+          "Schließen Sie Ihr Fahrrad an den Haltestellen immer ab.",
+          "Viele Wege sind gut ausgebaut, aber seien Sie auf Schotterabschnitte vorbereitet."
         ],
         "hu": [
-          "Sarpsborg a Glommastien kerékpáros régió része.",
-          "Az erődhöz vezető utak meredekebbek lehetnek."
+          "Béreljen váltós kerékpárt, mert vannak enyhe emelkedők.",
+          "Viseljen sisakot és használjon lámpát, különösen késő délután.",
+          "Mindig zárja le a kerékpárt a megállóknál.",
+          "Sok út jól kiépített, de készüljön fel kavicsos szakaszokra is."
         ],
         "ro": [
-          "Sarpsborg face parte din regiunea ciclistă Glommastien.",
-          "Drumurile spre fort pot fi mai abrupte."
+          "Închiriați o bicicletă cu viteze, deoarece există câteva pante ușoare.",
+          "Purtați o cască și folosiți lumini, mai ales după-amiaza târziu.",
+          "Încuiati întotdeauna bicicleta la opriri.",
+          "Multe cărări sunt bine întreținute, dar fiți pregătiți pentru secțiuni cu pietriș."
         ],
         "en": [
-          "Sarpsborg is part of the Glommastien cycling region.",
-          "The paths up to the fort can be quite steep."
+          "Rent a bike with gears, as there are some slight inclines.",
+          "Wear a helmet and use lights, especially in the late afternoon.",
+          "Always lock your bike at stops.",
+          "Many paths are well-maintained, but be prepared for some gravel sections."
         ]
       },
       "variants": {
@@ -819,207 +938,231 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 15.2,
+      "end_estimate": "18:25",
+      "total_km": 15.0,
       "stop_count": 7,
       "stops": [
         {
-          "name": {
+          "name_4lang": {
+            "de": "Kulåsparken",
+            "hu": "Kulås park",
+            "ro": "Parcul Kulås",
+            "en": "Kulås Park"
+          },
+          "coords": [
+            11.115,
+            59.287
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
+        },
+        {
+          "name_4lang": {
             "de": "Sarpsborg Kirke",
             "hu": "Sarpsborgi templom",
             "ro": "Biserica Sarpsborg",
             "en": "Sarpsborg Church"
           },
           "coords": [
-            11.109,
-            59.2825
+            11.1123,
+            59.2845
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:10",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Zentraler Parkplatz vorhanden.",
-            "hu": "Központi parkolóhely a közelben.",
-            "ro": "Parcare centrală disponibilă în apropiere.",
-            "en": "Central parking available nearby."
-          }
-        },
-        {
-          "name": {
-            "de": "Kulåsparken",
-            "hu": "Kulåsparken",
-            "ro": "Kulåsparken",
-            "en": "Kulåsparken"
-          },
-          "coords": [
-            11.112,
-            59.281
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "10:05",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Zu Fuß vom Kirchenparkplatz erreichbar.",
-            "hu": "Gyalogosan elérhető a templom mellől.",
-            "ro": "Accesibil la pas de la parcarea bisericii.",
-            "en": "Walkable from the church parking area."
-          }
-        },
-        {
-          "name": {
-            "de": "Greåker Fort",
-            "hu": "Greåker erőd",
-            "ro": "Fortul Greåker",
-            "en": "Greåker Fort"
-          },
-          "coords": [
-            11.03,
-            59.266
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:25",
+          "arrive_at": "10:00",
           "stay_min": 40,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5.5,
-          "tip_5lang": {
-            "de": "Kleiner Parkplatz direkt am Eingang zum Fort.",
-            "hu": "Kis parkoló közvetlenül az erőd bejáratánál.",
-            "ro": "Parcare mică chiar la intrarea în fort.",
-            "en": "Small parking lot right at the fort entrance."
-          }
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
         },
         {
-          "name": {
-            "de": "Inspiria Science Center",
-            "hu": "Inspiria Tudományos Központ",
-            "ro": "Centrul Științific Inspiria",
-            "en": "Inspiria Science Center"
+          "name_4lang": {
+            "de": "Borgarsyssel Museum",
+            "hu": "Borgarsyssel Múzeum",
+            "ro": "Muzeul Borgarsyssel",
+            "en": "Borgarsyssel Museum"
           },
           "coords": [
-            11.05,
-            59.283
+            11.118,
+            59.2815
           ],
           "category": "museums",
-          "arrive_at": "12:15",
+          "arrive_at": "10:47",
           "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.8,
-          "tip_5lang": {
-            "de": "Großer Parkplatz, ideal für Familien.",
-            "hu": "Tágas parkoló, ideális családoknak.",
-            "ro": "Parcare mare, ideală pentru familii.",
-            "en": "Large parking area, ideal for families."
-          }
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6
         },
         {
-          "name": {
-            "de": "Tunevannet",
-            "hu": "Tunevannet tó",
-            "ro": "Lacul Tunevannet",
-            "en": "Tunevannet Lake"
+          "name_4lang": {
+            "de": "Hafslund Herrenhaus",
+            "hu": "Hafslund uradalom",
+            "ro": "Conacul Hafslund",
+            "en": "Hafslund Manor"
           },
           "coords": [
-            11.08,
-            59.3
+            11.136,
+            59.2795
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:05",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.2,
-          "tip_5lang": {
-            "de": "Kurzer Stopp am Wasser.",
-            "hu": "Rövid megálló a vízparton.",
-            "ro": "Scurt popas pe malul apei.",
-            "en": "Short stop by the water shore."
-          }
+          "category": "famous residences",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5
         },
         {
-          "name": {
-            "de": "Sarpsfossen",
-            "hu": "Sarpsfossen vízesés",
+          "name_4lang": {
+            "de": "Sarpsfossen Wasserfall",
+            "hu": "Sarpsfossen-vízesés",
             "ro": "Cascada Sarpsfossen",
             "en": "Sarpsfossen Waterfall"
           },
           "coords": [
             11.131,
-            59.276
+            59.278
           ],
           "category": "natural features (caves, viewpoints)",
-          "arrive_at": "14:55",
-          "stay_min": 35,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 4.2,
-          "tip_5lang": {
-            "de": "Parken Sie am Borgarsyssel Museum.",
-            "hu": "Parkolás a Borgarsyssel Múzeumnál.",
-            "ro": "Parcați la Muzeul Borgarsyssel.",
-            "en": "Park at the Borgarsyssel Museum area."
-          }
+          "arrive_at": "13:43",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name_4lang": {
+            "de": "Inspiria Science Center",
+            "hu": "Inspiria Tudományos Központ",
+            "ro": "Centrul de Știință Inspiria",
+            "en": "Inspiria Science Center"
+          },
+          "coords": [
+            11.07,
+            59.295
+          ],
+          "category": "museums",
+          "arrive_at": "14:26",
+          "stay_min": 120,
+          "hop_mode": "car",
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0
+        },
+        {
+          "name_4lang": {
+            "de": "Greåker Fort",
+            "hu": "Greåker erőd",
+            "ro": "Fortăreața Greåker",
+            "en": "Greåker Fort"
+          },
+          "coords": [
+            11.05,
+            59.26
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:47",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto entdecken Sie die verschiedenen Cluster von Sarpsborg effizient. Starten Sie im historischen Zentrum, fahren Sie dann nach Westen zum Greåker Fort und zum Inspiria Science Center. Der Tag endet an der beeindruckenden Sarpsfossen, dem Wahrzeichen der Stadt.",
-        "hu": "Autóval Sarpsborg távolabb eső részeit is kényelmesen felfedezheti. Kezdje a belvárosban, majd látogasson el a nyugati részen található Greåker erődhöz és az Inspiria központhoz. A napot a város jelképének számító Sarpsfossen vízesésnél zárja.",
-        "ro": "Cu mașina puteți explora eficient diferitele zone ale orașului Sarpsborg. Începeți în centrul istoric, apoi conduceți spre vest către fortul Greåker și centrul Inspiria. Ziua se încheie la impresionanta cascadă Sarpsfossen, simbolul orașului.",
-        "en": "By car, you can efficiently discover Sarpsborg's different clusters. Start in the historic center, then head west to Greåker Fort and the Inspiria Science Center. Conclude your day at the majestic Sarpsfossen waterfall, the city's main landmark."
+        "de": "Parken Sie im Zentrum und erkunden Sie den Kulåsparken, die Kirche und das Borgarsyssel Museum zu Fuß. Am Vormittag fahren Sie zum Hafslund Herrenhaus, spazieren zum nahen Sarpsfossen-Wasserfall. Nach dem Mittagessen bringt Sie eine kurze Fahrt zum interaktiven Inspiria Science Center, ideal für Familien. Der Tag endet mit einer Fahrt zur Greåker Festung, von wo aus Sie den Sonnenuntergang über der Region beobachten können.",
+        "hu": "Parkoljon a központban, és fedezze fel gyalog a Kulås parkot, a templomot és a Borgarsyssel Múzeumot. Délelőtt vezessen a Hafslund udvarházhoz, sétáljon el a közeli Sarpsfossen-vízeséshez. Ebéd után egy rövid autóút visz az interaktív Inspiria Tudományos Központba, amely ideális családok számára. A nap a Greåker erődhöz tett utazással zárul, ahonnan megfigyelheti a naplementét a régió felett.",
+        "ro": "Parcați în centru și explorați pe jos Parcul Kulås, biserica și Muzeul Borgarsyssel. Dimineața, conduceți la Conacul Hafslund, plimbați-vă până la Cascada Sarpsfossen din apropiere. După prânz, o scurtă călătorie cu mașina vă duce la interactivul Centru de Știință Inspiria, ideal pentru familii. Ziua se încheie cu o călătorie la Fortăreața Greåker pentru a privi apusul peste regiune.",
+        "en": "Park in the center and explore Kulås Park, the church, and Borgarsyssel Museum on foot. In the morning, drive to Hafslund Manor, then walk to the nearby Sarpsfossen Waterfall. After lunch, a short drive takes you to the interactive Inspiria Science Center, ideal for families. The day concludes with a drive to Greåker Fort to watch the sunset over the region."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Festiviteten",
-            "tip": "Gehobene Küche im historischen Gebäude."
+            "name": "Kjøttkaker",
+            "tip": "Norwegische Fleischbällchen, serviert mit Kartoffeln und Soße, ein herzhaftes Gericht."
+          },
+          {
+            "name": "Lokales Bier",
+            "tip": "Probieren Sie ein Bier aus einer der Mikrobrauereien der Region."
           }
         ],
         "hu": [
           {
-            "name": "Festiviteten",
-            "tip": "Minőségi konyha egy történelmi épületben."
+            "name": "Kjøttkaker",
+            "tip": "Norvég húsgombóc burgonyával és szósszal, kiadós étel."
+          },
+          {
+            "name": "Helyi sör",
+            "tip": "Kóstoljon meg egy sört a régió egyik mikrosörfőzdéjéből."
           }
         ],
         "ro": [
           {
-            "name": "Festiviteten",
-            "tip": "Bucătărie rafinată într-o clădire istorică."
+            "name": "Kjøttkaker",
+            "tip": "Chiftele norvegiene servite cu cartofi și sos, un fel de mâncare consistent."
+          },
+          {
+            "name": "Berea locală",
+            "tip": "Încercați o bere de la una dintre microberăriile din regiune."
           }
         ],
         "en": [
           {
-            "name": "Festiviteten",
-            "tip": "Upscale dining in a beautiful historic building."
+            "name": "Kjøttkaker",
+            "tip": "Norwegian meatballs served with potatoes and gravy, a hearty dish."
+          },
+          {
+            "name": "Local Beer",
+            "tip": "Try a beer from one of the region's microbreweries."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Greåker Fort",
-            "tip": "Ruhiger Aussichtspunkt.",
+            "name": "Aussicht vom Greåker Fort",
+            "tip": "Genießen Sie die weite und ruhige Aussicht am späten Nachmittag.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Spaziergang am Tunevannet",
+            "tip": "Machen Sie einen Abstecher zum See für einen ruhigen Moment abseits der Hauptroute.",
             "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Greåker erőd",
-            "tip": "Csendes kilátópont a város felett.",
+            "name": "Kilátás a Greåker erődről",
+            "tip": "Élvezze a tágas és csendes kilátást késő délután.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Séta a Tunevannet-tónál",
+            "tip": "Tegyen egy kitérőt a tóhoz egy csendes pillanatért a fő útvonaltól távol.",
             "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Fortul Greåker",
-            "tip": "Punct de observație liniștit.",
+            "name": "Vedere de la Fortăreața Greåker",
+            "tip": "Bucurați-vă de priveliștea vastă și liniștită după-amiaza târziu.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plimbare la Lacul Tunevannet",
+            "tip": "Faceți un ocol la lac pentru un moment de liniște departe de traseul principal.",
             "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Greåker Fort",
-            "tip": "Quiet viewpoint high above the city.",
+            "name": "View from Greåker Fort",
+            "tip": "Enjoy the expansive and quiet view in the late afternoon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Walk at Lake Tunevannet",
+            "tip": "Take a detour to the lake for a quiet moment off the main route.",
             "emoji": "🏞️"
           }
         ]
@@ -1027,45 +1170,53 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Amfi Borg",
-            "tip": "Großes Einkaufszentrum an der E6."
+            "name": "Inspiria Shop",
+            "tip": "Kaufen Sie wissenschaftliche Spielzeuge, Bausätze und lehrreiche Souvenirs."
           }
         ],
         "hu": [
           {
-            "name": "Amfi Borg",
-            "tip": "Nagy bevásárlóközpont az E6-os út mellett."
+            "name": "Inspiria bolt",
+            "tip": "Vásároljon tudományos játékokat, készleteket és oktató jellegű ajándéktárgyakat."
           }
         ],
         "ro": [
           {
-            "name": "Amfi Borg",
-            "tip": "Centru comercial mare lângă autostrada E6."
+            "name": "Magazinul Inspiria",
+            "tip": "Cumpărați jucării științifice, kituri și suveniruri educative."
           }
         ],
         "en": [
           {
-            "name": "Amfi Borg",
-            "tip": "Large shopping center located near the E6 highway."
+            "name": "Inspiria Shop",
+            "tip": "Buy science toys, kits, and educational souvenirs."
           }
         ]
       },
       "tips": {
         "de": [
-          "Parken im Zentrum ist oft gebührenpflichtig.",
-          "Die E6 verbindet die Außenbezirke schnell."
+          "Suchen Sie nach ausgewiesenen Parkplätzen (P-hus) im Stadtzentrum.",
+          "Einige Straßen sind eng, fahren Sie vorsichtig.",
+          "Achten Sie auf Parkgebühren; viele Parkplätze sind kostenpflichtig.",
+          "Ein GPS ist hilfreich, um zwischen den verschiedenen Clustern zu navigieren."
         ],
         "hu": [
-          "A belvárosi parkolás többnyire fizetős.",
-          "Az E6-os út gyors összeköttetést biztosít a kerületek között."
+          "Keressen kijelölt parkolókat (P-hus) a városközpontban.",
+          "Néhány utca szűk, vezessen óvatosan.",
+          "Figyeljen a parkolási díjakra; sok parkoló fizetős.",
+          "GPS hasznos a különböző klaszterek közötti navigáláshoz."
         ],
         "ro": [
-          "Parcarea în centru este de regulă cu plată.",
-          "Autostrada E6 conectează rapid zonele periferice."
+          "Căutați parcări desemnate (P-hus) în centrul orașului.",
+          "Unele străzi sunt înguste, conduceți cu prudență.",
+          "Fiți atenți la taxele de parcare; multe parcări sunt cu plată.",
+          "Un GPS este util pentru a naviga între diferitele clustere."
         ],
         "en": [
-          "Parking in the city center is mostly paid.",
-          "The E6 highway provides quick access between districts."
+          "Look for designated parking areas (P-hus) in the city center.",
+          "Some streets are narrow, drive carefully.",
+          "Pay attention to parking fees; many lots are paid.",
+          "A GPS is helpful for navigating between the different clusters."
         ]
       },
       "variants": {
@@ -1273,207 +1424,251 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 10.5,
+      "end_estimate": "17:55",
+      "total_km": 7.3,
       "stop_count": 6,
       "stops": [
         {
-          "name": {
-            "de": "Borgarsyssel Museum",
-            "hu": "Borgarsyssel Múzeum",
-            "ro": "Muzeul Borgarsyssel",
-            "en": "Borgarsyssel Museum"
-          },
-          "coords": [
-            11.115,
-            59.278
-          ],
-          "category": "museums",
-          "arrive_at": "09:10",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Nahe dem Bahnhof Sarpsborg.",
-            "hu": "A sarpsborgi vasútállomás közelében található.",
-            "ro": "Situat aproape de gara din Sarpsborg.",
-            "en": "Located near the Sarpsborg train station."
-          }
-        },
-        {
-          "name": {
+          "name_4lang": {
             "de": "Sarpsborg Kirke",
             "hu": "Sarpsborgi templom",
             "ro": "Biserica Sarpsborg",
             "en": "Sarpsborg Church"
           },
           "coords": [
-            11.109,
-            59.2825
+            11.1123,
+            59.2845
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "11:05",
-          "stay_min": 50,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Kurzer Fußweg vom Museum.",
-            "hu": "Rövid séta a múzeumtól.",
-            "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
-          }
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
         },
         {
-          "name": {
-            "de": "Inspiria Science Center",
-            "hu": "Inspiria Tudományos Központ",
-            "ro": "Centrul Științific Inspiria",
-            "en": "Inspiria Science Center"
+          "name_4lang": {
+            "de": "Kulåsparken",
+            "hu": "Kulås park",
+            "ro": "Parcul Kulås",
+            "en": "Kulås Park"
           },
           "coords": [
-            11.05,
-            59.283
+            11.115,
+            59.287
           ],
-          "category": "museums",
-          "arrive_at": "12:15",
-          "stay_min": 100,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.5,
-          "tip_5lang": {
-            "de": "Buslinie 101/102 ab Zentrum.",
-            "hu": "101-es vagy 102-es busz a központból.",
-            "ro": "Linia de autobuz 101/102 din centru.",
-            "en": "Bus line 101/102 from the center."
-          }
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4
         },
         {
-          "name": {
-            "de": "Sarpsfossen",
-            "hu": "Sarpsfossen vízesés",
+          "name_4lang": {
+            "de": "Borgarsyssel Museum",
+            "hu": "Borgarsyssel Múzeum",
+            "ro": "Muzeul Borgarsyssel",
+            "en": "Borgarsyssel Museum"
+          },
+          "coords": [
+            11.118,
+            59.2815
+          ],
+          "category": "museums",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6
+        },
+        {
+          "name_4lang": {
+            "de": "Sarpsfossen Wasserfall",
+            "hu": "Sarpsfossen-vízesés",
             "ro": "Cascada Sarpsfossen",
             "en": "Sarpsfossen Waterfall"
           },
           "coords": [
             11.131,
-            59.276
+            59.278
           ],
           "category": "natural features (caves, viewpoints)",
-          "arrive_at": "14:20",
+          "arrive_at": "13:00",
           "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2.8
+        },
+        {
+          "name_4lang": {
+            "de": "Hafslund Herrenhaus",
+            "hu": "Hafslund uradalom",
+            "ro": "Conacul Hafslund",
+            "en": "Hafslund Manor"
+          },
+          "coords": [
+            11.136,
+            59.2795
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name_4lang": {
+            "de": "Inspiria Science Center",
+            "hu": "Inspiria Tudományos Központ",
+            "ro": "Centrul de Știință Inspiria",
+            "en": "Inspiria Science Center"
+          },
+          "coords": [
+            11.07,
+            59.295
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_mode": "transit",
           "hop_from_prev_min": 25,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Bushaltestelle Hafslundsgata nutzen.",
-            "hu": "Használja a Hafslundsgata buszmegállót.",
-            "ro": "Folosiți stația de autobuz Hafslundsgata.",
-            "en": "Use the Hafslundsgata bus stop for access."
-          }
+          "hop_from_prev_km": 3.0
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie das gut ausgebaute Busnetz von Sarpsborg. Beginnen Sie am Bahnhof und besichtigen Sie das Museum und die Kirche im Zentrum. Nehmen Sie dann den Bus zum Inspiria Science Center in Grålum, bevor Sie zum beeindruckenden Wasserfall zurückkehren. Effizient und umweltfreundlich.",
-        "hu": "Használja ki Sarpsborg jól kiépített buszhálózatát. Kezdjen a vasútállomásnál, nézze meg a múzeumot és a templomot a belvárosban. Ezután buszozzon el a grålumi Inspiria központba, majd térjen vissza a lenyűgöző vízeséshez. Kényelmes és környezetbarát módja a városnézésnek.",
-        "ro": "Profitați de rețeaua de autobuze bine dezvoltată din Sarpsborg. Începeți de la gară și vizitați muzeul și biserica din centru. Luați apoi autobuzul către centrul Inspiria din Grålum, înainte de a reveni la cascada impresionantă. O metodă eficientă și ecologică.",
-        "en": "Make use of Sarpsborg's efficient bus network. Start near the train station to visit the museum and central church. Then, take a bus to the Inspiria Science Center in Grålum before returning to see the powerful waterfall. Efficient and eco-friendly sightseeing."
+        "de": "Nutzen Sie den Bus, um ins Zentrum zu gelangen, und erkunden Sie die Kirche, den Park und das Museum zu Fuß. Am Vormittag bringt Sie eine weitere Busfahrt zum Sarpsfossen, von wo aus Sie gemütlich zum Hafslund Herrenhaus spazieren. Nach dem Mittagessen fahren Sie mit dem Bus zum Inspiria Science Center, einem Höhepunkt des Nachmittags. Ein effizienter Tag, der die wichtigsten Sehenswürdigkeiten mit öffentlichen Verkehrsmitteln verbindet.",
+        "hu": "Használja a buszt a központba jutáshoz, majd fedezze fel gyalog a templomot, a parkot és a múzeumot. Délelőtt egy másik buszjárat visz a Sarpsfossen-vízeséshez, ahonnan kényelmesen elsétálhat a Hafslund udvarházhoz. Ebéd után busszal utazzon az Inspiria Tudományos Központba, a délután fénypontjához. Hatékony nap, amely a főbb látnivalókat tömegközlekedéssel köti össze.",
+        "ro": "Folosiți autobuzul pentru a ajunge în centru, apoi explorați pe jos biserica, parcul și muzeul. Dimineața, o altă călătorie cu autobuzul vă duce la Cascada Sarpsfossen, de unde puteți merge pe jos la Conacul Hafslund. După prânz, luați autobuzul spre Centrul de Știință Inspiria, punctul culminant al după-amiezii. O zi eficientă care leagă principalele atracții folosind transportul public.",
+        "en": "Use the bus to get to the center, then explore the church, park, and museum on foot. In the morning, another bus ride takes you to Sarpsfossen, from where you can comfortably walk to Hafslund Manor. After lunch, take the bus to Inspiria Science Center, the highlight of the afternoon. An efficient day connecting the main sights using public transport."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Kaffeforretningen Sarpen",
-            "tip": "Gemütliches Café im Zentrum."
+            "name": "Brunost",
+            "tip": "Probieren Sie den norwegischen Braunkäse, süß und karamellartig, auf Brot oder Waffeln."
           }
         ],
         "hu": [
           {
-            "name": "Kaffeforretningen Sarpen",
-            "tip": "Hangulatos kávézó a központban."
+            "name": "Brunost",
+            "tip": "Kóstolja meg a norvég barna sajtot, édes és karamellás, kenyéren vagy gofrin."
           }
         ],
         "ro": [
           {
-            "name": "Kaffeforretningen Sarpen",
-            "tip": "Cafenea primitoare în centru."
+            "name": "Brunost",
+            "tip": "Încercați brânza maro norvegiană, dulce și asemănătoare caramelului, pe pâine sau vafe."
           }
         ],
         "en": [
           {
-            "name": "Kaffeforretningen Sarpen",
-            "tip": "Cozy coffee shop in the city center."
+            "name": "Brunost",
+            "tip": "Try the Norwegian brown cheese, sweet and caramel-like, on bread or waffles."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Borgarsyssel Park",
-            "tip": "Ruhige Ruinenanlage.",
-            "emoji": "🧘"
+            "name": "Busfahrt aus der Stadt",
+            "tip": "Beobachten Sie die Landschaft aus dem Fenster, während Sie zwischen den Attraktionen fahren.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Eine Bank im Kulåsparken",
+            "tip": "Der Park bietet viele ruhige Plätze, um sich auszuruhen.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Borgarsyssel park",
-            "tip": "Csendes romkert a múzeumnál.",
-            "emoji": "🧘"
+            "name": "Buszozás a városból kifelé",
+            "tip": "Figyelje a tájat az ablakból, miközben a látnivalók között utazik.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "Egy pad a Kulås parkban",
+            "tip": "A park számos csendes helyet kínál a pihenésre.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Borgarsyssel",
-            "tip": "Zonă liniștită lângă ruine.",
-            "emoji": "🧘"
+            "name": "Călătorie cu autobuzul în afara orașului",
+            "tip": "Priviți peisajul pe fereastră în timp ce călătoriți între atracții.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "O bancă în Parcul Kulås",
+            "tip": "Parcul oferă multe locuri liniștite pentru a vă odihni.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Borgarsyssel Park",
-            "tip": "Quiet ruins area near the museum.",
-            "emoji": "🧘"
+            "name": "Bus ride out of town",
+            "tip": "Watch the scenery from the window as you travel between attractions.",
+            "emoji": "🚌"
+          },
+          {
+            "name": "A bench in Kulåsparken",
+            "tip": "The park offers many quiet spots to rest.",
+            "emoji": "🍃"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Torget",
-            "tip": "Der Marktplatz im Zentrum."
+            "name": "St. Marie Gate",
+            "tip": "Die Haupteinkaufsstraße mit einer Mischung aus lokalen und bekannten Geschäften."
           }
         ],
         "hu": [
           {
-            "name": "Torget",
-            "tip": "A központi piactér."
+            "name": "St. Marie Gate",
+            "tip": "A fő bevásárlóutca helyi és ismert üzletek keverékével."
           }
         ],
         "ro": [
           {
-            "name": "Torget",
-            "tip": "Piața centrală a orașului."
+            "name": "St. Marie Gate",
+            "tip": "Strada principală de cumpărături cu un amestec de magazine locale și cunoscute."
           }
         ],
         "en": [
           {
-            "name": "Torget",
-            "tip": "The central town square market area."
+            "name": "St. Marie Gate",
+            "tip": "The main shopping street with a mix of local and well-known shops."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie Tickets vorab über die Entur-App.",
-          "Busse fahren im 15-Minuten-Takt auf Hauptstrecken."
+          "Kaufen Sie eine Tageskarte für den Bus, um unbegrenzte Fahrten zu erhalten.",
+          "Laden Sie die lokale ÖPNV-App herunter, um Fahrpläne und Routen in Echtzeit zu sehen.",
+          "Planen Sie etwas Pufferzeit für Busverbindungen ein.",
+          "Die Bushaltestellen sind normalerweise gut ausgeschildert."
         ],
         "hu": [
-          "Vásároljon jegyet előre az Entur alkalmazással.",
-          "A fővonalakon a buszok 15 percenként járnak."
+          "Vásároljon napijegyet a buszra a korlátlan utazásért.",
+          "Töltse le a helyi tömegközlekedési alkalmazást a valós idejű menetrendekért és útvonalakért.",
+          "Tervezzen némi pufferidőt a buszcsatlakozásokhoz.",
+          "A buszmegállók általában jól ki vannak táblázva."
         ],
         "ro": [
-          "Cumpărați bilete în avans prin aplicația Entur.",
-          "Autobuzele circulă la fiecare 15 minute pe liniile principale."
+          "Cumpărați un bilet de o zi pentru autobuz pentru călătorii nelimitate.",
+          "Descărcați aplicația locală de transport public pentru orare și rute în timp real.",
+          "Lăsați o marjă de timp pentru conexiunile cu autobuzul.",
+          "Stațiile de autobuz sunt de obicei bine semnalizate."
         ],
         "en": [
-          "Purchase tickets in advance using the Entur app.",
-          "Buses run every 15 minutes on the main routes."
+          "Buy a day pass for the bus to get unlimited rides.",
+          "Download the local public transport app for real-time schedules and routes.",
+          "Allow some buffer time for bus connections.",
+          "Bus stops are usually well-marked."
         ]
       },
       "variants": {

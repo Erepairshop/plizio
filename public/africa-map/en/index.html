@@ -43,7 +43,7 @@ header .langs{display:flex;gap:.25rem}
 <header>
 <a class="back" href="/learn/" aria-label="Back">‹</a>
 <h1>Africa Map</h1>
-<div class="langs"><a class="lang" href="../de/">DE</a><a class="lang" href="./">HU</a><a class="lang" href="../ro/">RO</a><span class="lang on">EN</span></div>
+<div class="langs"><a class="lang" href="/africa-map/de/">DE</a><a class="lang" href="/africa-map/">HU</a><a class="lang" href="/africa-map/ro/">RO</a><span class="lang on">EN</span></div>
 </header>
 <div id="stage">
   <svg id="svg" viewBox="0 0 1000.00 871.87" preserveAspectRatio="xMidYMid meet">
@@ -56,6 +56,7 @@ header .langs{display:flex;gap:.25rem}
 <div class="toast" id="toast"></div>
 <script>
 const LANG="en",W=1000,H=871.87,SOON="Coming soon";
+try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gC=document.getElementById('gC');
 let s=1,tx=0,ty=0;

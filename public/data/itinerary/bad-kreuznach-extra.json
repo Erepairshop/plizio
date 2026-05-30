@@ -1,0 +1,1169 @@
+{
+  "city_id": "bad-kreuznach-extra",
+  "anchor": {
+    "name": "Bad Kreuznach",
+    "coords": [
+      7.8672,
+      49.8407
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nikolauskirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            7.8571,
+            49.8452
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Älteste Kirche der Stadt im historischen Viertel.",
+            "hu": "A város legrégebbi temploma a történelmi negyedben.",
+            "ro": "Cea mai veche biserică din oraș, în cartierul istoric.",
+            "en": "Oldest church in the city, located in the historic quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Brückenhäuser (Alte Nahebrücke)",
+            "hu": "Hídházak (Régi Nahe-híd)",
+            "ro": "Casele de pe pod (Podul Vechi peste Nahe)",
+            "en": "Bridge Houses (Old Nahe Bridge)"
+          },
+          "coords": [
+            7.8584,
+            49.8431
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt – perfekt für Fotos.",
+            "hu": "A város jelképe – tökéletes fotóhelyszín.",
+            "ro": "Simbolul orașului – locul perfect pentru fotografii.",
+            "en": "The landmark of the city – perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauzenburg",
+            "hu": "Kauzenburg vára",
+            "ro": "Castelul Kauzenburg",
+            "en": "Kauzenburg Castle"
+          },
+          "coords": [
+            7.8542,
+            49.8441
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Panoramablick über das Nahetal von den Schlossmauern.",
+            "hu": "Panorámás kilátás a Nahe-völgyre a várfalakról.",
+            "ro": "Vedere panoramică asupra văii Nahe de pe zidurile castelului.",
+            "en": "Panoramic view over the Nahe valley from the castle walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerhalle",
+            "hu": "Római Csarnok (Römerhalle)",
+            "ro": "Sala Romană (Römerhalle)",
+            "en": "Römerhalle Museum"
+          },
+          "coords": [
+            7.8521,
+            49.8412
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Prächtige römische Mosaike aus einer antiken Villa.",
+            "hu": "Pompás római mozaikok egy antik villából.",
+            "ro": "Mozaicuri romane superbe dintr-o vilă antică.",
+            "en": "Magnificent Roman mosaics from an ancient villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurhaus & Kurpark",
+            "hu": "Kúrház és Kúrpark",
+            "ro": "Casa de cură și Parcul stațiunii",
+            "en": "Kurhaus & Spa Gardens"
+          },
+          "coords": [
+            7.8562,
+            49.8391
+          ],
+          "category": "garden",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Elegantes Kurviertel mit heilenden Quellen.",
+            "hu": "Elegáns gyógynegyed gyógyító forrásokkal.",
+            "ro": "Cartierul balnear elegant cu izvoare tămăduitoare.",
+            "en": "Elegant spa district with healing springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Oranienpark",
+            "hu": "Oranienpark",
+            "ro": "Parcul Oranien",
+            "en": "Oranienpark"
+          },
+          "coords": [
+            7.8541,
+            49.8372
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prächtige Blumenanlagen und Minigolfplatz.",
+            "hu": "Pompás virágágyások és minigolfpálya.",
+            "ro": "Aranjamente florale superbe și teren de minigolf.",
+            "en": "Splendid floral displays and minigolf course."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinental",
+            "hu": "Sós-völgy (Salinental)",
+            "ro": "Valea Salinei (Salinental)",
+            "en": "Salinental Valley"
+          },
+          "coords": [
+            7.8482,
+            49.8301
+          ],
+          "category": "industrial",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Europas größtes Freiluft-Inhalatorium mit Gradierwerken.",
+            "hu": "Európa legnagyobb szabadtéri inhalatóriuma sólepárlókkal.",
+            "ro": "Cea mai mare salină în aer liber din Europa.",
+            "en": "Europe's largest open-air inhalatorium with graduation towers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das Herz von Bad Kreuznach zu Fuß. Am Vormittag erkunden Sie die historische Altstadt mit der Nikolauskirche und den berühmten Brückenhäusern. Nach einem kurzen Aufstieg zur Kauzenburg genießen Sie den Blick über das Tal. Der Nachmittag steht im Zeichen der Entspannung im Kurviertel und im Oranienpark, bevor Sie im Salinental die salzhaltige Luft tief einatmen.",
+        "hu": "Fedezze fel Bad Kreuznach szívét gyalogosan. Délelőtt a történelmi óvárost ismerheti meg a Szent Miklós-templommal és a híres Hídházakkal. Egy rövid emelkedő után a Kauzenburg várából gyönyörködhet a völgyben. A délután a pihenésé a gyógynegyedben és az Oranienparkban, végül a Salinental sós levegőjével frissülhet fel.",
+        "ro": "Descoperiți inima orașului Bad Kreuznach la pas. Dimineața explorați centrul istoric cu Biserica Sf. Nicolae și faimoasele case de pe pod. După o scurtă urcare la castelul Kauzenburg, admirați valea. După-amiaza este dedicată relaxării în cartierul balnear și în Oranienpark, înainte de a respira aerul sărat din Salinental.",
+        "en": "Discover the heart of Bad Kreuznach on foot. In the morning, explore the historic old town with St. Nicholas Church and the famous bridge houses. After a short climb to Kauzenburg Castle, enjoy the valley views. The afternoon is dedicated to relaxation in the spa district and Oranienpark, ending with a deep breath of salty air in the Salinental."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Spundekäs",
+            "tip": "Herzhafter Frischkäse-Dip, typisch für die Region."
+          },
+          {
+            "name": "Nahe-Riesling",
+            "tip": "Probieren Sie die Weine der lokalen Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Spundekäs",
+            "tip": "Krémes, fűszeres túrókrém, a régió specialitása."
+          },
+          {
+            "name": "Nahe-Riesling",
+            "tip": "Kóstolja meg a helyi borászok kiváló rajnai rizlingjeit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spundekäs",
+            "tip": "Pastă de brânză picantă, tipică pentru această regiune."
+          },
+          {
+            "name": "Nahe-Riesling",
+            "tip": "Degustați vinurile locale de Riesling de pe valea Nahe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spundekäs",
+            "tip": "Savory cream cheese dip, typical for the region."
+          },
+          {
+            "name": "Nahe-Riesling",
+            "tip": "Try the excellent Riesling wines from local winemakers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Ruhige Oase abseits der Hauptstraßen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nahe-Ufer",
+            "tip": "Entspannte Momente am Flussufer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Csendes oázis a főutaktól távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nahe-part",
+            "tip": "Pihentető pillanatok a folyóparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Oază de liniște departe de străzile principale.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul râului Nahe",
+            "tip": "Momente de relaxare pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Quiet oasis away from the main streets.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Nahe Riverbank",
+            "tip": "Relaxing moments by the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte auf dem Kornmarkt."
+          },
+          {
+            "name": "Weinläden",
+            "tip": "Holen Sie sich eine Flasche Nahe-Wein als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális termékek a Kornmarkton."
+          },
+          {
+            "name": "Borboltok",
+            "tip": "Vigyen haza egy üveg Nahe-bort szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale în piața Kornmarkt."
+          },
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Cumpărați o sticlă de vin local ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products at the Kornmarkt square."
+          },
+          {
+            "name": "Wine Shops",
+            "tip": "Pick up a bottle of Nahe wine as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequemes Schuhwerk für den Aufstieg zur Kauzenburg ist ratsam.",
+          "Nehmen Sie sich Zeit für die Römerhalle – die Mosaike sind Weltklasse.",
+          "In den Salinen tief einatmen, das wirkt wie eine Meeresbrise.",
+          "Die Brückenhäuser sind am späten Vormittag am besten beleuchtet."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott a Kauzenburg várához vezető úton.",
+          "Szánjon időt a Römerhalle mozaikjaira, világszínvonalúak.",
+          "A sólepárlóknál lélegezzen mélyeket, olyan, mint a tengeri levegő.",
+          "A Hídházak késő délelőtt kapják a legjobb fényt a fotózááshoz."
+        ],
+        "ro": [
+          "Se recomandă încălțăminte comodă pentru urcarea la Kauzenburg.",
+          "Alocați timp pentru Römerhalle – mozaicurile sunt de clasă mondială.",
+          "Respirați adânc lângă saline, are efectul unei brize marine.",
+          "Casele de pe pod sunt cel mai bine iluminate pentru poze dimineața târziu."
+        ],
+        "en": [
+          "Comfortable shoes are recommended for the climb to Kauzenburg.",
+          "Take your time in the Römerhalle – the mosaics are world-class.",
+          "Breathe deeply at the graduation towers; it's like a sea breeze.",
+          "The bridge houses are best lit for photos in the late morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Nahebrücke",
+            "hu": "Régi Nahe-híd",
+            "ro": "Podul Vechi peste Nahe",
+            "en": "Old Nahe Bridge"
+          },
+          "coords": [
+            7.8584,
+            49.8431
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare al turului.",
+            "en": "Starting point of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinental",
+            "hu": "Sós-völgy",
+            "ro": "Valea Salinei",
+            "en": "Salinental Valley"
+          },
+          "coords": [
+            7.8482,
+            49.8301
+          ],
+          "category": "industrial",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspanntes Radeln entlang der Gradierwerke.",
+            "hu": "Pihentető biciklizés a sólepárlók mentén.",
+            "ro": "Plimbare relaxată cu bicicleta pe lângă saline.",
+            "en": "Relaxed cycling along the graduation towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Bad Münster am Stein",
+            "hu": "Bad Münster am Stein",
+            "ro": "Bad Münster am Stein",
+            "en": "Bad Münster am Stein"
+          },
+          "coords": [
+            7.8432,
+            49.8081
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Malerischer Kurort mit Blick auf den Rotenfels.",
+            "hu": "Festői gyógyhely kilátással a Rotenfels sziklára.",
+            "ro": "Stațiune pitorească cu vedere la stânca Rotenfels.",
+            "en": "Picturesque spa town with views of the Rotenfels."
+          }
+        },
+        {
+          "name": {
+            "de": "Rheingrafenstein (Blickpunkt)",
+            "hu": "Rheingrafenstein kilátó",
+            "ro": "Rheingrafenstein (belvedere)",
+            "en": "Rheingrafenstein Viewpoint"
+          },
+          "coords": [
+            7.8491,
+            49.8102
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Blick auf die Burgruine über der Nahe.",
+            "hu": "Kilátás a várromra a Nahe folyó felett.",
+            "ro": "Vedere asupra ruinelor cetății de deasupra râului Nahe.",
+            "en": "View of the castle ruins above the Nahe river."
+          }
+        },
+        {
+          "name": {
+            "de": "Oranienpark",
+            "hu": "Oranienpark",
+            "ro": "Parcul Oranien",
+            "en": "Oranienpark"
+          },
+          "coords": [
+            7.8541,
+            49.8372
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Schöne Pause im Grünen.",
+            "hu": "Szép pihenő a zöldben.",
+            "ro": "O pauză frumoasă în natură.",
+            "en": "Lovely break in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauzenburg (Gastro)",
+            "hu": "Kauzenburg (Gasztró)",
+            "ro": "Kauzenburg (Gastronomie)",
+            "en": "Kauzenburg (Gastro)"
+          },
+          "coords": [
+            7.8542,
+            49.8441
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abschluss mit Ausblick.",
+            "hu": "Zárás gyönyörű kilátással.",
+            "ro": "Final de zi cu o vedere superbă.",
+            "en": "End the tour with a great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Nahe durch das beeindruckende Salinental bis in den Stadtteil Bad Münster am Stein. Genießen Sie die flachen Wege am Flussufer und die imposanten Felsformationen des Rotenfels und Rheingrafenstein. Zum Abschluss radeln Sie zurück nach Bad Kreuznach für eine Stärkung an der Kauzenburg.",
+        "hu": "Ez a kerékpártúra a Nahe mentén, a lenyűgöző Salinentalon keresztül vezet Bad Münster am Stein városrészig. Élvezze a sík folyóparti utakat, valamint a Rotenfels és Rheingrafenstein monumentális szikláit. Végezetül tekerjen vissza Bad Kreuznachba egy frissítőre a Kauzenburg váránál.",
+        "ro": "Acest tur cu bicicleta vă conduce de-a lungul râului Nahe prin impresionanta vale Salinental până în cartierul Bad Münster am Stein. Bucurați-vă de drumurile plate de pe malul râului și de formațiunile stâncoase impunătoare ale Rotenfels și Rheingrafenstein. La final, pedalați înapoi în Bad Kreuznach pentru o gustare la Kauzenburg.",
+        "en": "This bike tour takes you along the Nahe through the impressive Salinental to the district of Bad Münster am Stein. Enjoy the flat riverside paths and the imposing rock formations of Rotenfels and Rheingrafenstein. Finally, cycle back to Bad Kreuznach for a refreshment at Kauzenburg Castle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Nahe-Weinhaus",
+            "tip": "Regionale Küche und Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nahe-Weinhaus",
+            "tip": "Regionális konyha és borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nahe-Weinhaus",
+            "tip": "Bucătărie regională și vinuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nahe-Weinhaus",
+            "tip": "Regional cuisine and wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg",
+            "tip": "Ruhiges Radeln am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízparti út",
+            "tip": "Csendes tekerés a víz mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de pe mal",
+            "tip": "Pedalat liniștit pe lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside path",
+            "tip": "Quiet cycling by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Kurhaus",
+            "tip": "Kleine Andenken an die Kurstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kurhaus ajándékbolt",
+            "tip": "Apró emlékek a fürdővárosból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Kurhaus",
+            "tip": "Mici amintiri din orașul balnear."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurhaus Souvenir Shop",
+            "tip": "Small mementos of the spa town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege entlang der Nahe sind meist flach und gut ausgebaut.",
+          "In Bad Münster gibt es eine kleine Fähre über die Nahe.",
+          "Achten Sie auf Spaziergänger im Salinental."
+        ],
+        "hu": [
+          "A Nahe menti utak többnyire síkok és jól kiépítettek.",
+          "Bad Münsterben van egy kis komp a Nahe folyón.",
+          "Vigyázzon a gyalogosokra a Salinental területén."
+        ],
+        "ro": [
+          "Drumurile de-a lungul râului Nahe sunt în mare parte plate și bine întreținute.",
+          "În Bad Münster există un mic feribot peste Nahe.",
+          "Atenție la pietoni în zona Salinental."
+        ],
+        "en": [
+          "The paths along the Nahe are mostly flat and well-maintained.",
+          "In Bad Münster, there is a small ferry across the Nahe.",
+          "Watch out for pedestrians in the Salinental area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 22.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Altstadt (Kornmarkt)",
+            "hu": "Óvárosi parkoló",
+            "ro": "Parcare Centru Vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            7.8592,
+            49.8427
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt für den ersten Cluster.",
+            "hu": "Központi indulópont az első blokkhoz.",
+            "ro": "Punct de plecare central pentru primul grup de obiective.",
+            "en": "Central starting point for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Brückenhäuser",
+            "hu": "Hídházak",
+            "ro": "Casele de pe pod",
+            "en": "Bridge Houses"
+          },
+          "coords": [
+            7.8584,
+            49.8431
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolauskirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            7.8571,
+            49.8452
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang durch die historische Neustadt.",
+            "hu": "Séta a történelmi újvároson keresztül.",
+            "ro": "Plimbare prin orașul vechi istoric.",
+            "en": "Walk through the historic new town."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerhalle (Cluster 2)",
+            "hu": "Római Csarnok",
+            "ro": "Sala Romană",
+            "en": "Römerhalle"
+          },
+          "coords": [
+            7.8521,
+            49.8412
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Museumscluster.",
+            "hu": "Rövid út a múzeumi negyedhez.",
+            "ro": "Scurtă călătorie până la grupul de muzee.",
+            "en": "Short drive to the museum cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurhaus / Kurpark",
+            "hu": "Kúrház / Kúrpark",
+            "ro": "Casa de cură / Parcul",
+            "en": "Kurhaus / Spa Park"
+          },
+          "coords": [
+            7.8562,
+            49.8391
+          ],
+          "category": "garden",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Museum aus erkunden.",
+            "hu": "Fedezze fel gyalog a múzeumtól.",
+            "ro": "Explorați pe jos pornind de la muzeu.",
+            "en": "Explore on foot from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinental (Cluster 3)",
+            "hu": "Sós-völgy",
+            "ro": "Valea Salinei",
+            "en": "Salinental"
+          },
+          "coords": [
+            7.8482,
+            49.8301
+          ],
+          "category": "industrial",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zu den großen Gradierwerken.",
+            "hu": "Autózás a nagy sólepárlókhoz.",
+            "ro": "Drum spre marile saline.",
+            "en": "Drive to the large graduation towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotenfels (Viewpoint)",
+            "hu": "Rotenfels kilátó",
+            "ro": "Rotenfels (belvedere)",
+            "en": "Rotenfels Viewpoint"
+          },
+          "coords": [
+            7.8281,
+            49.8152
+          ],
+          "category": "mountain",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Höchste Steilwand nördlich der Alpen.",
+            "hu": "Az Alpoktól északra fekvő legmagasabb sziklafal.",
+            "ro": "Cea mai înaltă stâncă abruptă la nord de Alpi.",
+            "en": "Highest steep rock wall north of the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Kauzenburg (Dinner)",
+            "hu": "Kauzenburg (Vacsora)",
+            "ro": "Kauzenburg (Cină)",
+            "en": "Kauzenburg (Dinner)"
+          },
+          "coords": [
+            7.8542,
+            49.8441
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Rückfahrt zur Burg für den Tagesabschluss.",
+            "hu": "Visszatérés a várhoz a nap zárásaként.",
+            "ro": "Reîntoarcere la castel pentru finalul zilei.",
+            "en": "Drive back to the castle to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die Highlights von Bad Kreuznach mit dem spektakulären Rotenfels. Am Vormittag besuchen Sie die Altstadt und das Kurviertel. Nach einer entspannenden Zeit in den Salinen fahren Sie hinauf zum Rotenfels, um die gewaltige Felswand und die Aussicht auf das Nahetal zu bewundern.",
+        "hu": "Autóval kényelmesen összekötheti Bad Kreuznach látnivalóit a látványos Rotenfels sziklával. Délelőtt az óvárost és a gyógynegyedet látogatja meg. A Salinentalban töltött pihenő után felautózik a Rotenfelshez, hogy megcsodálja a hatalmas sziklafalat és a Nahe-völgy panorámáját.",
+        "ro": "Cu mașina, puteți combina atracțiile din Bad Kreuznach cu spectaculoasa stâncă Rotenfels. Dimineața vizitați centrul vechi și cartierul balnear. După o perioadă de relaxare la saline, urcați cu mașina la Rotenfels pentru a admira peretele stâncos imens și vederea asupra văii Nahe.",
+        "en": "By car, you can combine the highlights of Bad Kreuznach with the spectacular Rotenfels rock. In the morning, visit the old town and the spa district. After a relaxing time in the Salinental, drive up to the Rotenfels to admire the massive rock wall and the views of the Nahe valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mühlentor",
+            "tip": "Traditionelle deutsche Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mühlentor",
+            "tip": "Tradicionális német konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mühlentor",
+            "tip": "Bucătărie tradițională germană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mühlentor",
+            "tip": "Traditional German cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Rotenfels",
+            "tip": "Stille und Weite genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rotenfels kilátópont",
+            "tip": "Élvezze a csendet és a távlatokat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Rotenfels",
+            "tip": "Bucurați-vă de liniște și de priveliște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rotenfels viewpoint",
+            "tip": "Enjoy the silence and the vastness.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kornmarkt",
+            "tip": "Shopping in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kornmarkt",
+            "tip": "Vásárlás a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kornmarkt",
+            "tip": "Cumpărături în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kornmarkt",
+            "tip": "Shopping in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser in der Innenstadt, sie sind gut ausgeschildert.",
+          "Der Weg zum Rotenfels ist schmal, aber gut befahrbar.",
+          "Planen Sie Zeit für die Parkplatzsuche am Wochenende ein."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolóházakat, jól ki vannak táblázva.",
+          "A Rotenfelshez vezető út keskeny, de jól járható.",
+          "Hétvégén számoljon több idővel a parkolóhely keresésére."
+        ],
+        "ro": [
+          "Utilizați parcările etajate din centru, sunt bine semnalizate.",
+          "Drumul spre Rotenfels este îngust, dar practicabil.",
+          "Alocați timp pentru găsirea unui loc de parcare în weekend."
+        ],
+        "en": [
+          "Use the parking garages in the city center; they are well-signed.",
+          "The road to Rotenfels is narrow but easily drivable.",
+          "Allow extra time for finding parking on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Bad Kreuznach",
+            "hu": "Bad Kreuznach vasútállomás",
+            "ro": "Gara Bad Kreuznach",
+            "en": "Bad Kreuznach Station"
+          },
+          "coords": [
+            7.8652,
+            49.8401
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punctul central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt (Brückenhäuser)",
+            "hu": "Óváros (Hídházak)",
+            "ro": "Centru Vechi (Casele de pe pod)",
+            "en": "Old Town (Bridge Houses)"
+          },
+          "coords": [
+            7.8584,
+            49.8431
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder Fußweg ins Zentrum.",
+            "hu": "Rövid buszozás vagy séta a központba.",
+            "ro": "Scurtă călătorie cu autobuzul sau plimbare până în centru.",
+            "en": "Short bus ride or walk to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurviertel (Kurhaus)",
+            "hu": "Gyógynegyed (Kúrház)",
+            "ro": "Cartierul Balnear (Casa de cură)",
+            "en": "Spa District (Kurhaus)"
+          },
+          "coords": [
+            7.8562,
+            49.8391
+          ],
+          "category": "garden",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Nahe.",
+            "hu": "Séta a Nahe mentén.",
+            "ro": "Plimbare pe malul râului Nahe.",
+            "en": "Walk along the Nahe river."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinental (Gradierwerke)",
+            "hu": "Sós-völgy (Sólepárlók)",
+            "ro": "Valea Salinei (Saline)",
+            "en": "Salinental (Graduation Towers)"
+          },
+          "coords": [
+            7.8482,
+            49.8301
+          ],
+          "category": "industrial",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bus 201 fährt direkt ins Salinental.",
+            "hu": "A 201-es busz közvetlenül a Salinentalba megy.",
+            "ro": "Autobuzul 201 merge direct în Salinental.",
+            "en": "Bus 201 goes directly to the Salinental."
+          }
+        },
+        {
+          "name": {
+            "de": "Oranienpark",
+            "hu": "Oranienpark",
+            "ro": "Parcul Oranien",
+            "en": "Oranienpark"
+          },
+          "coords": [
+            7.8541,
+            49.8372
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Bus Richtung Stadt.",
+            "hu": "Visszautazás busszal a város irányába.",
+            "ro": "Întoarcere cu autobuzul spre oraș.",
+            "en": "Return by bus towards the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kornmarkt / Neustadt",
+            "hu": "Kornmarkt / Újváros",
+            "ro": "Piața Kornmarkt / Orașul Nou",
+            "en": "Kornmarkt / New Town"
+          },
+          "coords": [
+            7.8591,
+            49.8421
+          ],
+          "category": "square",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang in der Fußgängerzone.",
+            "hu": "Kellemes befejezés a sétálóutcában.",
+            "ro": "Un final plăcut în zona pietonală.",
+            "en": "Cozy ending in the pedestrian zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das gut ausgebaute Busnetz von Bad Kreuznach. Vom Bahnhof gelangen Sie schnell in die Altstadt. Die Linie 201 bringt Sie bequem in das Salinental, das Herzstück der Kurstadt. Genießen Sie die Flexibilität, ohne Parkplatzsorgen die verschiedenen Viertel und Parks zu erkunden.",
+        "hu": "Használja Bad Kreuznach jól kiépített buszhálózatát. A vasútállomástól gyorsan elérheti az óvárost. A 201-es járat kényelmesen elviszi a Salinentalba, a fürdőváros szívébe. Élvezze a rugalmasságot, és fedezze fel a különböző negyedeket és parkokat parkolási gondok nélkül.",
+        "ro": "Utilizați rețeaua de autobuze bine pusă la punct din Bad Kreuznach. De la gară ajungeți rapid în centrul vechi. Linia 201 vă duce confortabil în Salinental, inima orașului balnear. Bucurați-vă de flexibilitate și explorați diferitele cartiere și parcuri fără grija parcării.",
+        "en": "Make use of Bad Kreuznach's well-developed bus network. From the station, you can quickly reach the old town. Line 201 takes you comfortably to the Salinental, the centerpiece of the spa town. Enjoy the flexibility of exploring the various districts and parks without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Lüning",
+            "tip": "Probieren Sie das lokale Backwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bäckerei Lüning",
+            "tip": "Kóstolja meg a helyi pékárukat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bäckerei Lüning",
+            "tip": "Încercați produsele de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bäckerei Lüning",
+            "tip": "Try the local baked goods."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kurpark-Bänke",
+            "tip": "Sitzplätze am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kúrpark padok",
+            "tip": "Ülőhelyek a víz mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din Kurpark",
+            "tip": "Locuri de șezut lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kurpark benches",
+            "tip": "Seating areas by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone",
+            "tip": "Boutiquen und kleine Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétálóutca",
+            "tip": "Butikok és kis boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală",
+            "tip": "Boutique-uri și magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pedestrian Zone",
+            "tip": "Boutiques and small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Linie 201 ist die wichtigste Verbindung zwischen Bahnhof und Salinental.",
+          "Ein Tagesticket lohnt sich oft schon ab drei Fahrten.",
+          "Aushänge an den Haltestellen beachten."
+        ],
+        "hu": [
+          "A 201-es vonal a legfontosabb összeköttetés az állomás és a Salinental között.",
+          "A napijegy gyakran már három utazástól megéri.",
+          "Figyelje a megállókban kihelyezett menetrendeket."
+        ],
+        "ro": [
+          "Linia 201 este cea mai importantă legătură între gară și Salinental.",
+          "Un bilet de o zi merită adesea de la doar trei călătorii.",
+          "Respectați afișajele din stații."
+        ],
+        "en": [
+          "Line 201 is the main connection between the station and Salinental.",
+          "A day ticket is often worth it from just three trips.",
+          "Check the timetables at the bus stops."
+        ]
+      }
+    }
+  }
+}

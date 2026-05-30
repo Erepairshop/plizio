@@ -1,0 +1,962 @@
+{
+  "city_id": "italy-pordenone-cities-v2",
+  "anchor": {
+    "name": "Pordenone Centro",
+    "coords": [
+      12.6587,
+      45.9554
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Corso Vittorio Emanuele II",
+          "coords": [
+            12.6591,
+            45.9562
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bemalten Fassaden der venezianischen Paläste.",
+            "hu": "Csodálja meg a velencei paloták festett homlokzatait.",
+            "ro": "Admirați fațadele pictate ale palatelor venețiene.",
+            "en": "Admire the painted facades of the Venetian-style palaces."
+          }
+        },
+        {
+          "name": "Palazzo del Comune",
+          "coords": [
+            12.6595,
+            45.9558
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel gotisch-venezianischer Architektur.",
+            "hu": "A gótikus-velencei építészet pompás példája.",
+            "ro": "Un exemplu splendid de arhitectură gotic-venețiană.",
+            "en": "A splendid example of Gothic-Venetian architecture."
+          }
+        },
+        {
+          "name": "Palazzo Ricchieri",
+          "coords": [
+            12.6598,
+            45.9555
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Stadtmuseum in dieser ehemaligen Festung.",
+            "hu": "Látogassa meg a városi múzeumot ebben az egykori erődben.",
+            "ro": "Vizitați muzeul civic în această fostă fortăreață.",
+            "en": "Visit the civic museum housed in this former fortress."
+          }
+        },
+        {
+          "name": "Duomo di San Marco",
+          "coords": [
+            12.6612,
+            45.9545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie sich den freistehenden Glockenturm an.",
+            "hu": "Tekintse meg a különálló harangtornyot.",
+            "ro": "Vedeți turnul clopotniță de sine stătător.",
+            "en": "Take a look at the detached bell tower."
+          }
+        },
+        {
+          "name": "Naturhistorisches Museum",
+          "coords": [
+            12.6575,
+            45.9565
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Flora und Fauna der Region.",
+            "hu": "Fedezze fel a régió növény- és állatvilágát.",
+            "ro": "Descoperiți flora și fauna regiunii.",
+            "en": "Discover the flora and fauna of the region."
+          }
+        },
+        {
+          "name": "Parco Galvani",
+          "coords": [
+            12.6552,
+            45.9585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am See neben der modernen Kunstgalerie.",
+            "hu": "Pihenjen a tó partján a modern művészeti galéria mellett.",
+            "ro": "Relaxați-vă lângă lacul de lângă galeria de artă modernă.",
+            "en": "Relax by the lake next to the modern art gallery."
+          }
+        },
+        {
+          "name": "Ponte di Adamo ed Eva",
+          "coords": [
+            12.6625,
+            45.9525
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der klassische Blick auf den Fluss Noncello.",
+            "hu": "A klasszikus kilátás a Noncello-folyóra.",
+            "ro": "Vederea clasică asupra râului Noncello.",
+            "en": "The classic view over the Noncello river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag unter den prächtigen Bogengängen des Corso Vittorio Emanuele II, dem schlagenden Herzen der Stadt. Nach der Besichtigung des gotischen Rathauses und des Palazzo Ricchieri widmen Sie sich der Spiritualität im Dom San Marco. Der Nachmittag gehört der Natur im Parco Galvani, bevor Sie den Tag am romantischen Noncello-Fluss ausklingen lassen.",
+        "hu": "Kezdje a napot a Corso Vittorio Emanuele II pompás árkádjai alatt, mely a város lüktető szíve. A gótikus városháza és a Palazzo Ricchieri megtekintése után szenteljen időt a Szent Márk-dómnak. A délután a természeté a Parco Galvani parkban, majd zárja a napot a romantikus Noncello-folyó partján.",
+        "ro": "Începeți ziua sub arcadele magnifice de pe Corso Vittorio Emanuele II, inima orașului. După vizitarea primăriei gotice și a Palatului Ricchieri, dedicați timp spiritualității la Domul San Marco. După-amiaza aparține naturii în Parcul Galvani, înainte de a încheia ziua pe malul romantic al râului Noncello.",
+        "en": "Start your day under the magnificent arcades of Corso Vittorio Emanuele II, the beating heart of the city. After visiting the Gothic town hall and Palazzo Ricchieri, dedicate some time to the Cathedral of San Marco. The afternoon is for nature in Parco Galvani, before ending the day by the romantic Noncello river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frico e Polenta",
+            "tip": "Knuspriger Käse mit Polenta, ein Muss in Friaul."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frico e Polenta",
+            "tip": "Ropogós sajt polentával, kötelező friuli fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frico e Polenta",
+            "tip": "Brânză crocantă cu mămăligă, un preparat obligatoriu în Friuli."
+          }
+        ],
+        "en": [
+          {
+            "name": "Frico e Polenta",
+            "tip": "Crispy cheese with polenta, a must-try Friulian dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riviera del Pordenone",
+            "tip": "Ruhiger Spaziergang am Flussufer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riviera del Pordenone",
+            "tip": "Csendes séta a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riviera del Pordenone",
+            "tip": "Plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riviera del Pordenone",
+            "tip": "Quiet stroll along the riverbank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Botteghe del Corso",
+            "tip": "Elegante Boutiquen unter den historischen Arkaden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botteghe del Corso",
+            "tip": "Elegáns butikok a történelmi árkádok alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Botteghe del Corso",
+            "tip": "Boutique-uri elegante sub arcadele istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Botteghe del Corso",
+            "tip": "Elegant boutiques under the historic arcades."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Pordenone ist flach und perfekt zu Fuß erreichbar.",
+          "Besuchen Sie die Stadt im September während des Literaturfestivals."
+        ],
+        "hu": [
+          "Pordenone sík és tökéletesen bejárható gyalog.",
+          "Látogasson el szeptemberben a Pordenonelegge irodalmi fesztivál idején."
+        ],
+        "ro": [
+          "Pordenone este plat și perfect de parcurs la pas.",
+          "Vizitați orașul în septembrie în timpul festivalului de literatură."
+        ],
+        "en": [
+          "Pordenone is flat and perfectly walkable.",
+          "Visit in September during the Pordenonelegge book festival."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Corso Vittorio Emanuele II",
+          "coords": [
+            12.6591,
+            45.9562
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch die Fußgängerzone.",
+            "hu": "Óvatosan biciklizzen a sétálóövezetben.",
+            "ro": "Pedalați cu atenție prin zona pietonală.",
+            "en": "Cycle carefully through the pedestrian zone."
+          }
+        },
+        {
+          "name": "Duomo di San Marco",
+          "coords": [
+            12.6612,
+            45.9545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad vor dem markanten Campanile.",
+            "hu": "Parkolja le a bringát a jellegzetes harangtorony előtt.",
+            "ro": "Parcați bicicleta în fața clopotniței distinctive.",
+            "en": "Park your bike in front of the distinctive bell tower."
+          }
+        },
+        {
+          "name": "Chiesa della Santissima Trinità",
+          "coords": [
+            12.6645,
+            45.9515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine achteckige Kirche direkt am Noncello.",
+            "hu": "Nyolcszögletű templom közvetlenül a Noncello partján.",
+            "ro": "O biserică octogonală chiar lângă Noncello.",
+            "en": "An octagonal church right next to the Noncello."
+          }
+        },
+        {
+          "name": "Ponte di Adamo ed Eva",
+          "coords": [
+            12.6625,
+            45.9525
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für ein Foto auf der Brücke.",
+            "hu": "Rövid megálló egy fotóra a hídon.",
+            "ro": "Scurtă oprire pentru o fotografie pe pod.",
+            "en": "Short stop for a photo on the bridge."
+          }
+        },
+        {
+          "name": "Parco Galvani",
+          "coords": [
+            12.6552,
+            45.9585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Radwege innerhalb des Parks.",
+            "hu": "Élvezze a parkon belüli kerékpárutakat.",
+            "ro": "Bucurați-vă de pistele de biciclete din interiorul parcului.",
+            "en": "Enjoy the cycling paths inside the park."
+          }
+        },
+        {
+          "name": "Naturhistorisches Museum",
+          "coords": [
+            12.6575,
+            45.9565
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Ökosystem des Noncello.",
+            "hu": "Tudjon meg többet a Noncello ökoszisztémájáról.",
+            "ro": "Aflați mai multe despre ecosistemul râului Noncello.",
+            "en": "Learn more about the Noncello ecosystem."
+          }
+        },
+        {
+          "name": "Palazzo Ricchieri",
+          "coords": [
+            12.6598,
+            45.9555
+          ],
+          "category": "museums",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kulturelles Highlight in der Altstadt.",
+            "hu": "Kulturális fénypont az óvárosban.",
+            "ro": "Un punct cultural de referință în orașul vechi.",
+            "en": "A cultural highlight in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pordenone auf zwei Rädern! Beginnen Sie im historischen Zentrum und radeln Sie dann entlang des Noncello zur Kirche Santissima Trinità. Überqueren Sie die symbolträchtige Brücke von Adam und Eva und machen Sie eine Pause im weitläufigen Parco Galvani. Der Nachmittag bietet Kultur in den städtischen Museen, bevor Sie gemütlich durch die belebten Gassen zurückkehren.",
+        "hu": "Fedezze fel Pordenonét két keréken! Kezdje a történelmi központban, majd tekerjen a Noncello mentén a Santissima Trinità templomig. Keljen át Ádám és Éva jelképes hídján, és tartson szünetet a tágas Parco Galvani parkban. A délután kultúrát kínál a városi múzeumokban, mielőtt kényelmesen visszatérne a pezsgő utcákon át.",
+        "ro": "Explorați Pordenone pe două roți! Începeți în centrul istoric, apoi pedalați de-a lungul râului Noncello până la biserica Santissima Trinità. Traversați podul simbolic al lui Adam și al Evei și faceți o pauză în spațiosul Parcul Galvani. După-amiaza oferă cultură în muzeele civice, înainte de a reveni lejer prin străzile pline de viață.",
+        "en": "Explore Pordenone on two wheels! Start in the historic center and cycle along the Noncello to the Church of Santissima Trinità. Cross the symbolic Adam and Eve Bridge and take a break in the spacious Parco Galvani. The afternoon offers culture in the civic museums before a leisurely return through the lively streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cjarsons",
+            "tip": "Süß-pikante Ravioli, eine Spezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cjarsons",
+            "tip": "Édes-pikáns ravioli, a régió különlegessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cjarsons",
+            "tip": "Ravioli dulce-picante, o specialitate a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cjarsons",
+            "tip": "Sweet-savory ravioli, a specialty of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Laghetti di Rorai",
+            "tip": "Kleine Seen am Stadtrand, perfekt für Radfahrer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Laghetti di Rorai",
+            "tip": "Kis tavak a város szélén, tökéletes bringásoknak.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Laghetti di Rorai",
+            "tip": "Lacuri mici la marginea orașului, perfecte pentru bicicliști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Laghetti di Rorai",
+            "tip": "Small lakes on the outskirts, perfect for cyclists.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato di Pordenone",
+            "tip": "Besuchen Sie den lokalen Markt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato di Pordenone",
+            "tip": "Látogassa meg a helyi piacot friss termékekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato di Pordenone",
+            "tip": "Vizitați piața locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato di Pordenone",
+            "tip": "Visit the local market for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Noncello-Flusses.",
+          "Fahrradverleih-Stationen finden Sie in der Nähe des Bahnhofs."
+        ],
+        "hu": [
+          "Használja a Noncello-folyó menti kerékpárutakat.",
+          "Kerékpárkölcsönzőket a vasútállomás közelében talál."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete de-a lungul râului Noncello.",
+          "Găsiți stații de închiriat biciclete lângă gară."
+        ],
+        "en": [
+          "Use the cycling paths along the Noncello river.",
+          "Bike rental stations are available near the train station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Corso Vittorio Emanuele II",
+          "coords": [
+            12.6591,
+            45.9562
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Rande der ZTL.",
+            "hu": "Parkoljon a ZTL övezet szélén lévő parkolóházban.",
+            "ro": "Parcați în parcarea de la marginea zonei ZTL.",
+            "en": "Park in the parking garage at the edge of the ZTL zone."
+          }
+        },
+        {
+          "name": "Palazzo del Comune",
+          "coords": [
+            12.6595,
+            45.9558
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Corso.",
+            "hu": "Gyalogosan elérhető a Corsótól.",
+            "ro": "Accesibil pe jos de pe Corso.",
+            "en": "Walkable from the Corso."
+          }
+        },
+        {
+          "name": "Duomo di San Marco",
+          "coords": [
+            12.6612,
+            45.9545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Teil der Altstadt-Cluster-Tour.",
+            "hu": "Az óvárosi séta része.",
+            "ro": "Parte a turului pietonal prin orașul vechi.",
+            "en": "Part of the old town walking cluster."
+          }
+        },
+        {
+          "name": "Parco Galvani",
+          "coords": [
+            12.6552,
+            45.9585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zu diesem weitläufigen Park.",
+            "hu": "Rövid autózás ehhez a tágas parkhoz.",
+            "ro": "Scurtă călătorie cu mașina până la acest parc vast.",
+            "en": "Short drive to this spacious park."
+          }
+        },
+        {
+          "name": "Naturhistorisches Museum",
+          "coords": [
+            12.6575,
+            45.9565
+          ],
+          "category": "museums",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Museum vorhanden.",
+            "hu": "Parkoló közvetlenül a múzeumnál található.",
+            "ro": "Parcare disponibilă chiar la muzeu.",
+            "en": "Parking available directly at the museum."
+          }
+        },
+        {
+          "name": "Ponte di Adamo ed Eva",
+          "coords": [
+            12.6625,
+            45.9525
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Dritter Cluster: Flussufer und Brücken.",
+            "hu": "Harmadik klaszter: folyópart és hidak.",
+            "ro": "Al treilea cluster: malul râului și podurile.",
+            "en": "Third cluster: riverbank and bridges."
+          }
+        },
+        {
+          "name": "Chiesa della Santissima Trinità",
+          "coords": [
+            12.6645,
+            45.9515
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein verstecktes Juwel am Flussufer.",
+            "hu": "Rejtett ékszerdoboz a folyóparton.",
+            "ro": "O bijuterie ascunsă pe malul râului.",
+            "en": "A hidden gem on the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie Pordenone effizient in drei Zonen. Beginnen Sie in der historischen Altstadt, wo Sie das Auto parken und zu Fuß den Corso und den Dom erkunden. Danach fahren Sie zum grünen Parco Galvani und dem Naturkundemuseum. Zum Abschluss besuchen Sie das Flussufer des Noncello mit seinen markanten Brücken und Kirchen, bevor Sie bequem die Rückreise antreten.",
+        "hu": "Autóval három zónára osztva fedezheti fel Pordenonét. Kezdje a történelmi óvárosban, ahol az autót leparkolva gyalog járhatja be a Corsót és a Dómot. Ezután hajtson a zöldellő Parco Galvanihoz és a Természettudományi Múzeumhoz. Végezetül látogassa meg a Noncello folyópartját jellegzetes hídjaival és templomaival, mielőtt kényelmesen elindulna haza.",
+        "ro": "Cu mașina, descoperiți Pordenone eficient în trei zone. Începeți în centrul istoric, unde parcați mașina și explorați la pas Corso și Domul. Apoi, conduceți către Parcul Galvani și Muzeul de Istorie Naturală. La final, vizitați malul râului Noncello cu podurile și bisericile sale emblematice, înainte de a pleca confortabil spre casă.",
+        "en": "By car, explore Pordenone efficiently in three zones. Start in the historic old town, where you park the car and explore the Corso and Duomo on foot. Then, drive to the green Parco Galvani and the Natural History Museum. Finally, visit the Noncello riverbank with its iconic bridges and churches before your comfortable journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brovada e Muset",
+            "tip": "Traditionelle Wurst mit in Trester eingelegten Rüben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brovada e Muset",
+            "tip": "Hagyományos kolbász törkölyben érlelt tarlórépával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brovada e Muset",
+            "tip": "Cârnat tradițional cu napi murați în tescovină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brovada e Muset",
+            "tip": "Traditional sausage with turnips fermented in grape marc."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Valentino Park",
+            "tip": "Ein ruhiger Ort für eine Pause abseits des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Valentino Park",
+            "tip": "Csendes hely egy pihenőre a központon kívül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Valentino Park",
+            "tip": "Un loc liniștit pentru o pauză în afara centrului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Valentino Park",
+            "tip": "A quiet spot for a break away from the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Commerciale Meduna",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Commerciale Meduna",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Commerciale Meduna",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Commerciale Meduna",
+            "tip": "Large shopping mall on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL-Zonen in der Altstadt.",
+          "Es gibt viele kostenlose Parkplätze in der Nähe des Stadions."
+        ],
+        "hu": [
+          "Figyeljen a ZTL (korlátozott forgalmú) zónákra az óvárosban.",
+          "Sok ingyenes parkolóhely van a stadion közelében."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL din centrul istoric.",
+          "Există multe locuri de parcare gratuite lângă stadion."
+        ],
+        "en": [
+          "Pay attention to the ZTL (restricted traffic) zones in the old town.",
+          "There are many free parking spaces near the stadium."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Corso Vittorio Emanuele II",
+          "coords": [
+            12.6591,
+            45.9562
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus mit der Linie R erreichbar.",
+            "hu": "A vasútállomástól az R jelzésű busszal érhető el.",
+            "ro": "Accesibil de la gară cu linia R.",
+            "en": "Accessible from the train station via line R."
+          }
+        },
+        {
+          "name": "Duomo di San Marco",
+          "coords": [
+            12.6612,
+            45.9545
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Corso aus.",
+            "hu": "Rövid séta a Corsótól.",
+            "ro": "Scurtă plimbare de la Corso.",
+            "en": "Short walk from the Corso."
+          }
+        },
+        {
+          "name": "Palazzo Ricchieri",
+          "coords": [
+            12.6598,
+            45.9555
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentral im ersten Cluster gelegen.",
+            "hu": "Központi elhelyezkedés az első klaszterben.",
+            "ro": "Locație centrală în primul cluster.",
+            "en": "Centrally located in the first cluster."
+          }
+        },
+        {
+          "name": "Parco Galvani",
+          "coords": [
+            12.6552,
+            45.9585
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus zur Viale Dante.",
+            "hu": "Használja a buszt a Viale Dante felé.",
+            "ro": "Folosiți autobuzul către Viale Dante.",
+            "en": "Use the bus towards Viale Dante."
+          }
+        },
+        {
+          "name": "Naturhistorisches Museum",
+          "coords": [
+            12.6575,
+            45.9565
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zweiter Cluster: Wissenschaft und Natur.",
+            "hu": "Második klaszter: tudomány és természet.",
+            "ro": "Al doilea cluster: știință și natură.",
+            "en": "Second cluster: science and nature."
+          }
+        },
+        {
+          "name": "Ponte di Adamo ed Eva",
+          "coords": [
+            12.6625,
+            45.9525
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dritter Cluster: Flussufer, erreichbar mit Buslinie 2.",
+            "hu": "Harmadik klaszter: folyópart, a 2-es busszal elérhető.",
+            "ro": "Al treilea cluster: malul râului, accesibil cu linia 2.",
+            "en": "Third cluster: riverbank, reachable with bus line 2."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Pordenone! Ihr Tag beginnt in der prächtigen Altstadt (Cluster 1), gefolgt von einer kurzen Busfahrt zum Parco Galvani und dem Naturkundemuseum (Cluster 2). Beenden Sie Ihre Tour am romantischen Flussufer des Noncello (Cluster 3), das Sie bequem mit den lokalen Linien erreichen. Eine stressfreie Art, alle Highlights zu sehen.",
+        "hu": "Használja ki Pordenone sűrű buszhálózatát! Napja a pompás óvárosban kezdődik (1. klaszter), majd rövid buszozás következik a Parco Galvanihoz és a Természettudományi Múzeumhoz (2. klaszter). Zárja a túrát a Noncello romantikus folyópartján (3. klaszter), melyet kényelmesen elérhet a helyi járatokkal. Stresszmentes módja a látnivalók felfedezésének.",
+        "ro": "Profitați de rețeaua densă de autobuze din Pordenone! Ziua începe în centrul istoric splendid (Cluster 1), urmată de o scurtă plimbare cu autobuzul către Parcul Galvani și Muzeul de Istorie Naturală (Cluster 2). Încheiați turul pe malul romantic al râului Noncello (Cluster 3), la care puteți ajunge ușor cu liniile locale. O modalitate fără stres de a vedea toate punctele de atracție.",
+        "en": "Take advantage of Pordenone's dense bus network! Your day starts in the magnificent old town (Cluster 1), followed by a short bus ride to Parco Galvani and the Natural History Museum (Cluster 2). End your tour at the romantic Noncello riverbank (Cluster 3), easily reachable with local lines. A stress-free way to see all the highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vino Friulano",
+            "tip": "Probieren Sie ein Glas lokalen Weißwein in einer Osteria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vino Friulano",
+            "tip": "Kóstoljon meg egy pohár helyi fehérbort egy ostériában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vino Friulano",
+            "tip": "Gustați un pahar de vin alb local într-o osteria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vino Friulano",
+            "tip": "Taste a glass of local white wine in an osteria."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblioteca Civica",
+            "tip": "Ein moderner, ruhiger Ort zum Lesen und Entspannen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biblioteca Civica",
+            "tip": "Modern, csendes hely olvasáshoz és pihenéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Civica",
+            "tip": "Un loc modern și liniștit pentru citit și relaxare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biblioteca Civica",
+            "tip": "A modern, quiet place for reading and relaxing.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Libreria Quodlibet",
+            "tip": "Eine charmante Buchhandlung im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Libreria Quodlibet",
+            "tip": "Bájos könyvesbolt a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Libreria Quodlibet",
+            "tip": "O librărie fermecătoare în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Libreria Quodlibet",
+            "tip": "A charming bookstore in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets in Tabakläden oder über die TPL-App.",
+          "Die Busse sind pünktlich und verbinden alle wichtigen Zonen."
+        ],
+        "hu": [
+          "Vegyen jegyet a dohányboltokban vagy a TPL appon keresztül.",
+          "A buszok pontosak és minden fontos zónát összekötnek."
+        ],
+        "ro": [
+          "Cumpărați bilete de la chioșcurile de ziare sau prin aplicația TPL.",
+          "Autobuzele sunt punctuale și conectează toate zonele importante."
+        ],
+        "en": [
+          "Buy tickets at tobacco shops or via the TPL app.",
+          "Buses are punctual and connect all major zones."
+        ]
+      }
+    }
+  }
+}

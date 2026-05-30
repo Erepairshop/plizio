@@ -1,0 +1,886 @@
+{
+  "city_id": "saint-etienne",
+  "anchor": {
+    "name": "Saint-Étienne",
+    "coords": [
+      4.3872,
+      45.4397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cathédrale Saint-Charles",
+          "coords": [
+            4.3875,
+            45.4375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade der Kathedrale.",
+            "hu": "Csodáld meg a katedrális monumentális homlokzatát.",
+            "ro": "Admirați fațada impunătoare a catedralei.",
+            "en": "Admire the monumental facade of the cathedral."
+          }
+        },
+        {
+          "name": "Église Sainte-Marie",
+          "coords": [
+            4.3888,
+            45.4385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine ruhige Kirche mit schönen Buntglasfenstern.",
+            "hu": "Egy csendes templom szép színes üvegablakokkal.",
+            "ro": "O biserică liniștită cu vitralii frumoase.",
+            "en": "A quiet church with beautiful stained glass windows."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Industrie",
+          "coords": [
+            4.3932,
+            45.4335
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Bänder und Waffen.",
+            "hu": "Fedezd fel a szalagok és fegyverek gyártásának történetét.",
+            "ro": "Descoperiți istoria panglicilor și a armelor.",
+            "en": "Discover the history of ribbons and weapons manufacturing."
+          }
+        },
+        {
+          "name": "Place Jean Jaurès",
+          "coords": [
+            4.3878,
+            45.4408
+          ],
+          "category": "square",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für ein typisches Mittagessen.",
+            "hu": "A tökéletes hely egy tipikus ebédhez.",
+            "ro": "Locul perfect pentru un prânz tipic.",
+            "en": "The perfect spot for a typical local lunch."
+          }
+        },
+        {
+          "name": "Cité du Design",
+          "coords": [
+            4.3902,
+            45.451
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein Symbol für die moderne Erneuerung der Stadt.",
+            "hu": "A város modern megújulásának szimbóluma.",
+            "ro": "Un simbol al reînnoirii moderne a orașului.",
+            "en": "A symbol of the city's modern industrial renewal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Saint-Étienne bei der beeindruckenden Kathedrale und der Kirche Sainte-Marie. Nach dem Eintauchen in die Industriegeschichte im Musée d'Art et d'Industrie genießen Sie ein Mittagessen auf der belebten Place Jean Jaurès. Den Nachmittag verbringen Sie in der Cité du Design, dem modernen Herzstück der UNESCO-Designstadt.",
+        "hu": "Kezdje a napot Saint-Étienne történelmi központjában az impozáns katedrálisnál és a Sainte-Marie templomnál. Miután elmélyedt az ipari történelemben a Művészeti és Ipari Múzeumban, élvezze az ebédet a pezsgő Place Jean Jaurès téren. A délutánt a Cité du Design területén töltse, amely az UNESCO dizájnváros modern központja.",
+        "ro": "Începeți ziua în centrul istoric al orașului Saint-Étienne, la catedrala impresionantă și biserica Sainte-Marie. După ce explorați istoria industrială la Muzeul de Artă și Industrie, savurați un prânz în animata Place Jean Jaurès. Petreceți după-amiaza la Cité du Design, inima modernă a acestui oraș al designului UNESCO.",
+        "en": "Start your day in the historic center of Saint-Étienne at the impressive cathedral and Sainte-Marie church. After diving into industrial history at the Museum of Art and Industry, enjoy lunch at the lively Place Jean Jaurès. Spend the afternoon at the Cité du Design, the modern centerpiece of this UNESCO City of Design."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Rappée",
+            "tip": "Probieren Sie diese lokalen Kartoffelpuffer."
+          },
+          {
+            "name": "Les Bugnes",
+            "tip": "Ein köstliches lokales Gebäck zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Rappée",
+            "tip": "Kóstolja meg ezt a helyi burgonyás tócsnit."
+          },
+          {
+            "name": "Les Bugnes",
+            "tip": "Egy finom helyi fánkféle a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Rappée",
+            "tip": "Gustați aceste chiftele locale de cartofi."
+          },
+          {
+            "name": "Les Bugnes",
+            "tip": "O gogoașă locală delicioasă lângă cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Rappée",
+            "tip": "Try these local potato pancakes."
+          },
+          {
+            "name": "Les Bugnes",
+            "tip": "A delicious local pastry perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvédère du Guizay",
+            "tip": "Ein herrlicher Panoramablick über die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvédère du Guizay",
+            "tip": "Csodálatos panoráma a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvédère du Guizay",
+            "tip": "O vedere panoramică superbă asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvédère du Guizay",
+            "tip": "A magnificent panoramic view over the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Ursules",
+            "tip": "Ein authentischer Markt für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Ursules",
+            "tip": "Egy hiteles piac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Ursules",
+            "tip": "O piață autentică pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché des Ursules",
+            "tip": "An authentic market for local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist hügelig, tragen Sie bequeme Schuhe.",
+          "Nutzen Sie die App 'Saint-Étienne Design' für geführte Touren.",
+          "Sonntags sind viele Geschäfte im Zentrum geschlossen."
+        ],
+        "hu": [
+          "A város dombos, viseljen kényelmes cipőt.",
+          "Használja a 'Saint-Étienne Design' alkalmazást a vezetett túrákhoz.",
+          "Vasárnap a legtöbb üzlet zárva tart a központban."
+        ],
+        "ro": [
+          "Orașul este deluros, purtați încălțăminte confortabilă.",
+          "Folosiți aplicația 'Saint-Étienne Design' pentru tururi ghidate.",
+          "Duminica multe magazine din centru sunt închise."
+        ],
+        "en": [
+          "The city is hilly, so wear comfortable walking shoes.",
+          "Use the 'Saint-Étienne Design' app for guided thematic tours.",
+          "Many shops in the center are closed on Sundays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Musée de la Mine",
+          "coords": [
+            4.3751,
+            45.4392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die echten Stollen der Mine.",
+            "hu": "Fedezze fel a bánya valódi vágatait.",
+            "ro": "Explorați galeriile reale ale minei.",
+            "en": "Explore the real mine shafts underground."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Industrie",
+          "coords": [
+            4.3932,
+            45.4335
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt durch das Stadtzentrum.",
+            "hu": "Rövid tekerés a városközponton keresztül.",
+            "ro": "O scurtă plimbare prin centrul orașului.",
+            "en": "Short ride through the city center."
+          }
+        },
+        {
+          "name": "Parc de l'Europe",
+          "coords": [
+            4.4085,
+            45.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder eine entspannte Pause.",
+            "hu": "Ideális egy piknikhez vagy egy pihentető szünethez.",
+            "ro": "Ideal pentru un picnic sau o pauză relaxantă.",
+            "en": "Ideal for a picnic or a relaxing break."
+          }
+        },
+        {
+          "name": "Cité du Design",
+          "coords": [
+            4.3902,
+            45.451
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausstellungen im 'Platine'.",
+            "hu": "Nézze meg a kiállításokat a 'Platine'-ban.",
+            "ro": "Vizitați expozițiile din 'Platine'.",
+            "en": "Visit the exhibitions inside the 'Platine'."
+          }
+        },
+        {
+          "name": "Musée d'Art Moderne et Contemporain",
+          "coords": [
+            4.3685,
+            45.4762
+          ],
+          "category": "museums",
+          "arrive_at": "16:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine der größten Sammlungen in Frankreich.",
+            "hu": "Franciaország egyik legnagyobb gyűjteménye.",
+            "ro": "Una dintre cele mai mari colecții din Franța.",
+            "en": "One of the largest modern art collections in France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie mehr über das Erbe der Bergleute im Musée de la Mine, bevor Sie südwärts zum Parc de l'Europe radeln. Genießen Sie die grünen Wege und fahren Sie dann nach Norden, um die moderne Seite von Saint-Étienne in der Cité du Design und im MAMC zu entdecken. Diese Route verbindet industrielle Vergangenheit mit kreativer Zukunft.",
+        "hu": "Ismerje meg a bányászok örökségét a Bányászati Múzeumban, mielőtt dél felé tekerne az Európa Parkba. Élvezze a zöld utakat, majd irány észak, hogy felfedezze Saint-Étienne modern oldalát a Cité du Design és a MAMC területén. Ez az útvonal összeköti az ipari múltat a kreatív jövővel.",
+        "ro": "Aflați despre moștenirea minerilor la Muzeul Minei, înainte de a pedala spre sud către Parcul Europei. Bucurați-vă de traseele verzi, apoi mergeți spre nord pentru a descoperi latura modernă a orașului Saint-Étienne la Cité du Design și MAMC. Acest traseu îmbină trecutul industrial cu viitorul creativ.",
+        "en": "Learn about the miners' heritage at the Mine Museum before cycling south to Parc de l'Europe. Enjoy the green paths and then head north to discover the modern side of Saint-Étienne at the Cité du Design and the MAMC. This route connects the industrial past with a creative future."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Sarasson",
+            "tip": "Ein lokaler Frischkäse-Dipp, oft mit Kartoffeln serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Sarasson",
+            "tip": "Helyi krémsajtos mártogatós, gyakran burgonyával tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Sarasson",
+            "tip": "O pastă de brânză locală, adesea servită cu cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Sarasson",
+            "tip": "A local cream cheese dip, often served with potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Große Rasenflächen und schattige Alleen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Hatalmas pázsit és árnyas sétányok.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Peluze mari și alei umbrite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Large lawns and shaded alleys.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Boutique du Design",
+            "tip": "Einzigartige Objekte von lokalen Designern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boutique du Design",
+            "tip": "Egyedi tárgyak helyi tervezőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Boutique du Design",
+            "tip": "Obiecte unice de la designeri locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Boutique du Design",
+            "tip": "Unique objects from local designers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Vélivert' Fahrradverleihsystem.",
+          "Einige Abschnitte haben starke Steigungen.",
+          "Die Achse Nord-Süd ist gut ausgebaut."
+        ],
+        "hu": [
+          "Használja a 'Vélivert' kerékpármegosztó rendszert.",
+          "Néhány szakasz meredek emelkedőket tartalmaz.",
+          "Az észak-déli tengely jól kiépített kerékpárutakkal rendelkezik."
+        ],
+        "ro": [
+          "Folosiți sistemul de închiriere de biciclete 'Vélivert'.",
+          "Unele secțiuni au pante abrupte.",
+          "Axa nord-sud este bine dotată cu piste de biciclete."
+        ],
+        "en": [
+          "Use the 'Vélivert' bike-sharing system for easy rental.",
+          "Some sections have steep climbs, so be prepared.",
+          "The North-South axis is well-equipped with bike lanes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Musée de la Mine (Couriot)",
+          "coords": [
+            4.3751,
+            45.4392
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt auf dem Gelände des Museums.",
+            "hu": "Parkoljon közvetlenül a múzeum területén.",
+            "ro": "Parcați direct în incinta muzeului.",
+            "en": "Park directly on the museum grounds."
+          }
+        },
+        {
+          "name": "Parc Couriot",
+          "coords": [
+            4.3765,
+            45.44
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang rund um die Fördertürme.",
+            "hu": "Egy szép séta az aknatornyok körül.",
+            "ro": "O plimbare frumoasă în jurul turnurilor de extracție.",
+            "en": "A lovely walk around the old headframes."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Industrie",
+          "coords": [
+            4.3932,
+            45.4335
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Ursules' in der Nähe.",
+            "hu": "Használja a közeli 'Ursules' parkolóházat.",
+            "ro": "Folosiți parcarea 'Ursules' din apropiere.",
+            "en": "Use the 'Ursules' parking garage nearby."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Charles",
+          "coords": [
+            4.3875,
+            45.4375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum zur Kathedrale.",
+            "hu": "Rövid séta a múzeumtól a katedrálisig.",
+            "ro": "O scurtă plimbare de la muzeu la catedrală.",
+            "en": "Short walk from the museum to the cathedral."
+          }
+        },
+        {
+          "name": "Cité du Design",
+          "coords": [
+            4.3902,
+            45.451
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem 'Carnot'-Parkplatz.",
+            "hu": "Parkoljon a 'Carnot' parkolóban.",
+            "ro": "Parcați în parcarea 'Carnot'.",
+            "en": "Park in the 'Carnot' parking lot."
+          }
+        },
+        {
+          "name": "Musée d'Art Moderne (MAMC)",
+          "coords": [
+            4.3685,
+            45.4762
+          ],
+          "category": "museums",
+          "arrive_at": "17:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Einfacher Zugang über die Autobahn A72.",
+            "hu": "Könnyű megközelítés az A72-es autópályán.",
+            "ro": "Acces ușor prin autostrada A72.",
+            "en": "Easy access via the A72 highway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Vielfalt von Saint-Étienne bequem mit dem Auto. Beginnen Sie beim Bergbau-Cluster im Westen und erkunden Sie dann das historische Zentrum zu Fuß. Am Nachmittag fahren Sie nach Norden zur modernen Cité du Design und schließen den Tag mit zeitgenössischer Kunst im MAMC ab. Diese Route nutzt das Auto für den Wechsel zwischen den Stadtteilen.",
+        "hu": "Fedezze fel Saint-Étienne sokszínűségét kényelmesen, autóval. Kezdje a bányászati negyedben nyugaton, majd fedezze fel a történelmi központot gyalog. Délután autózzon északra a modern Cité du Designhoz, és zárja a napot kortárs művészettel a MAMC-ban. Ez az útvonal az autót a városrészek közötti váltásra használja.",
+        "ro": "Descoperiți diversitatea orașului Saint-Étienne confortabil cu mașina. Începeți la complexul minier din vest, apoi explorați centrul istoric la pas. După-amiazza mergeți spre nord la Cité du Design și încheiați ziua cu artă contemporană la MAMC. Acest traseu folosește mașina pentru a schimba cartierele.",
+        "en": "Discover the diversity of Saint-Étienne comfortably by car. Start at the mining cluster in the west, then explore the historic center on foot. In the afternoon, drive north to the modern Cité du Design and end your day with contemporary art at the MAMC. This route uses the car to move between the city's distinct districts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de la Jasserie",
+            "tip": "In den Hügeln gelegen, perfekt für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de la Jasserie",
+            "tip": "A dombok között található, tökéletes helyi ételekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de la Jasserie",
+            "tip": "Situat în dealuri, perfect pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de la Jasserie",
+            "tip": "Located in the hills, perfect for local specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gorges de la Loire",
+            "tip": "Kurze Fahrt zu atemberaubenden Naturlandschaften.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gorges de la Loire",
+            "tip": "Rövid autóút a lenyűgöző természeti tájakhoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gorges de la Loire",
+            "tip": "O scurtă călătorie spre peisaje naturale uluitoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorges de la Loire",
+            "tip": "Short drive to stunning natural landscapes.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Steel",
+            "tip": "Ein modernes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial Steel",
+            "tip": "Modern bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial Steel",
+            "tip": "Un centru comercial modern la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Commercial Steel",
+            "tip": "A modern shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Vermeiden Sie die Rushhour auf der A72.",
+          "Viele Straßen im Zentrum sind Einbahnstraßen."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet a központban, használjon parkolóházakat.",
+          "Kerülje a csúcsforgalmat az A72-es autópályán.",
+          "A központban sok az egyirányú utca."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcările etajate.",
+          "Evitați orele de vârf pe autostrada A72.",
+          "Multe străzi din centru au sens unic."
+        ],
+        "en": [
+          "Parking in the center can be difficult, so use parking garages.",
+          "Avoid rush hour on the A72 highway.",
+          "Many streets in the center are one-way, so use a GPS."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cathédrale Saint-Charles",
+          "coords": [
+            4.3875,
+            45.4375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ausstieg an der Haltestelle 'Hôtel de Ville'.",
+            "hu": "Szálljon le az 'Hôtel de Ville' megállónál.",
+            "ro": "Coborâți la stația 'Hôtel de Ville'.",
+            "en": "Get off at the 'Hôtel de Ville' stop."
+          }
+        },
+        {
+          "name": "Musée d'Art et d'Industrie",
+          "coords": [
+            4.3932,
+            45.4335
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Einkaufsstraßen.",
+            "hu": "Rövid séta a bevásárlóutcákon keresztül.",
+            "ro": "O scurtă plimbare pe străzile comerciale.",
+            "en": "A short walk through the shopping streets."
+          }
+        },
+        {
+          "name": "Cité du Design",
+          "coords": [
+            4.3902,
+            45.451
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Straßenbahn T1 oder T2 bis 'Cité du Design'.",
+            "hu": "Szálljon fel a T1-es vagy T2-es villamosra a 'Cité du Design'-ig.",
+            "ro": "Luați tramvaiul T1 sau T2 până la 'Cité du Design'.",
+            "en": "Take tram T1 or T2 to the 'Cité du Design' stop."
+          }
+        },
+        {
+          "name": "Planétarium",
+          "coords": [
+            4.3905,
+            45.4515
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich neben der Cité du Design gelegen.",
+            "hu": "Közvetlenül a Cité du Design mellett található.",
+            "ro": "Situat chiar lângă Cité du Design.",
+            "en": "Located right next to the Cité du Design."
+          }
+        },
+        {
+          "name": "Parc de l'Europe",
+          "coords": [
+            4.4085,
+            45.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie M4 oder M6 bringt Sie direkt zum Park.",
+            "hu": "Az M4-es vagy M6-os busz közvetlenül a parkhoz visz.",
+            "ro": "Linia de autobuz M4 sau M6 vă duce direct la parc.",
+            "en": "Bus line M4 or M6 takes you directly to the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Straßenbahnnetz von Saint-Étienne. Starten Sie im Zentrum, besuchen Sie das Museum d'Art et d'Industrie und fahren Sie dann mit der Tram in das moderne Viertel Manufacture zur Cité du Design. Schließen Sie den Tag mit einer Busfahrt zum weitläufigen Parc de l'Europe ab. Eine effiziente und umweltfreundliche Art, die Stadt zu erkunden.",
+        "hu": "Használja ki Saint-Étienne kiváló villamoshálózatát. Kezdjen a központban, látogasson el a Művészeti és Ipari Múzeumba, majd villamosozzon a modern Manufacture negyedbe a Cité du Designhoz. Zárja a napot egy buszos utazással a tágas Európa Parkba. Hatékony és környezetbarát módja a város felfedezésének.",
+        "ro": "Profități de rețeaua excelentă de tramvaie din Saint-Étienne. Începeți în centru, vizitați Muzeul de Artă și Industrie, apoi mergeți cu tramvaiul în cartierul modern Manufacture la Cité du Design. Încheiați ziua cu o călătorie cu autobuzul până la vastul Parc de l'Europe. Un mod eficient și ecologic de a explora orașul.",
+        "en": "Take advantage of Saint-Étienne's excellent tram network. Start in the center, visit the Museum of Art and Industry, and then take the tram to the modern Manufacture district for the Cité du Design. Finish the day with a bus ride to the spacious Parc de l'Europe. An efficient and eco-friendly way to explore the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles Mazerat",
+            "tip": "Ein moderner Food-Court mit vielen lokalen Optionen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles Mazerat",
+            "tip": "Modern ételcsarnok számos helyi választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles Mazerat",
+            "tip": "O hală modernă cu multe opțiuni locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Mazerat",
+            "tip": "A modern food court with many local options."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Ruhige Ecken im südlichen Teil der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Csendes sarkok a város déli részén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Colțuri liniștite în partea de sud a orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Europe",
+            "tip": "Quiet corners in the southern part of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre-ville / Rue de la République",
+            "tip": "Haupteinkaufsstraße im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre-ville / Rue de la République",
+            "tip": "Fő bevásárlóutca a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre-ville / Rue de la République",
+            "tip": "Strada principală de cumpărături din inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre-ville / Rue de la République",
+            "tip": "Main shopping street in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das STAS-Netzwerk.",
+          "Die Straßenbahnen fahren sehr häufig.",
+          "Laden Sie die Moov'in-App für Echtzeit-Infos herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a STAS hálózatára.",
+          "A villamosok nagyon gyakran járnak.",
+          "Töltse le a Moov'in alkalmazást a valós idejű információkért."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua STAS.",
+          "Tramvaiele circulă foarte frecvent.",
+          "Descărcați aplicația Moov'in pentru informații în timp real."
+        ],
+        "en": [
+          "Buy a day ticket for the STAS transit network.",
+          "Trams run very frequently on the main lines.",
+          "Download the Moov'in app for real-time schedule information."
+        ]
+      }
+    }
+  }
+}

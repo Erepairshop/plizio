@@ -1,0 +1,1078 @@
+{
+  "city_id": "italy-latina-cities-v2",
+  "anchor": {
+    "name": "Latina",
+    "coords": [
+      12.9054,
+      41.4678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza del Popolo",
+          "coords": [
+            12.9048,
+            41.4677
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus und den charakteristischen Uhrturm im rationalistischen Stil.",
+            "hu": "Csodálja meg a városházát és a jellegzetes racionalista stílusú óratornyot.",
+            "ro": "Admirați primăria și turnul cu ceas caracteristic în stil raționalist.",
+            "en": "Admire the town hall and the characteristic Rationalist-style clock tower."
+          }
+        },
+        {
+          "name": "Palazzo del Comune",
+          "coords": [
+            12.9045,
+            41.4679
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Paradebeispiel für die Architektur der 1930er Jahre mit strengen Linien.",
+            "hu": "Az 1930-as évek építészetének iskolapéldája szigorú vonalvezetéssel.",
+            "ro": "Un exemplu clasic de arhitectură din anii 1930, cu linii riguroase.",
+            "en": "A prime example of 1930s architecture with rigorous lines."
+          }
+        },
+        {
+          "name": "Palazzo delle Poste",
+          "coords": [
+            12.9015,
+            41.4682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das von Angiolo Mazzoni entworfene Postgebäude mit blauen Fensterrahmen.",
+            "hu": "Nézze meg az Angiolo Mazzoni által tervezett postaépületet kék ablakkereteivel.",
+            "ro": "Vizitați clădirea poștei proiectată de Angiolo Mazzoni, cu rame de ferestre albastre.",
+            "en": "Visit the post office building designed by Angiolo Mazzoni with blue window frames."
+          }
+        },
+        {
+          "name": "Cattedrale di San Marco",
+          "coords": [
+            12.9068,
+            41.4665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Hauptkirche der Stadt, geweiht dem Schutzpatron San Marco.",
+            "hu": "A város főtemploma, amelyet a védőszentnek, Szent Márknak szenteltek.",
+            "ro": "Biserica principală a orașului, dedicată patronului spiritual San Marco.",
+            "en": "The main church of the city, dedicated to the patron saint San Marco."
+          }
+        },
+        {
+          "name": "Museo Duilio Cambellotti",
+          "coords": [
+            12.9035,
+            41.4662
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Urbarmachung der pontinischen Sümpfe durch Kunst.",
+            "hu": "Ismerje meg a pontini mocsarak lecsapolásának történetét a művészeten keresztül.",
+            "ro": "Aflați despre asanarea mlaștinilor pontine prin intermediul artei.",
+            "en": "Learn about the reclamation of the Pontine marshes through art."
+          }
+        },
+        {
+          "name": "Parco Comunale",
+          "coords": [
+            12.9095,
+            41.4645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause im Grünen, bekannt als 'Giardini Pubblici'.",
+            "hu": "Ideális hely egy zöld pihenőhöz, közismert nevén 'Giardini Pubblici'.",
+            "ro": "Un loc ideal pentru o pauză în verdeață, cunoscut sub numele de 'Giardini Pubblici'.",
+            "en": "An ideal spot for a break in the greenery, known as 'Giardini Pubblici'."
+          }
+        },
+        {
+          "name": "Palazzo dell'M",
+          "coords": [
+            12.9075,
+            41.4635
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein monumentales Gebäude in Form eines 'M', ein Symbol der Gründungszeit.",
+            "hu": "Monumentális 'M' alakú épület, az alapítási korszak szimbóluma.",
+            "ro": "O clădire monumentală în formă de 'M', un simbol al epocii de fondare.",
+            "en": "A monumental building in the shape of an 'M', a symbol of the founding era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Latina ist eine faszinierende Reißbrettstadt, die 1932 als Littoria gegründet wurde. Diese Route führt Sie durch das Herz der rationalistischen Architektur. Morgens erkunden Sie die Piazza del Popolo und die monumentalen Regierungsgebäude. Mittags besuchen Sie die Kathedrale und das Museum Cambellotti, um die Geschichte der Urbarmachung zu verstehen. Der Nachmittag endet entspannt im Stadtpark.",
+        "hu": "Latina egy lenyűgöző, tervezőasztalon született város, amelyet 1932-ben alapítottak Littoria néven. Ez az útvonal a racionalista építészet szívébe kalauzolja. Reggel a Piazza del Popolót és a monumentális kormányzati épületeket fedezzük fel. Délben a székesegyházat és a Cambellotti Múzeumot látogatjuk meg, hogy megértsük a mocsarak lecsapolásának történetét. A délután pihenéssel zárul a városi parkban.",
+        "ro": "Latina este un oraș fascinant născut pe planșetă, fondat în 1932 sub numele de Littoria. Acest traseu vă poartă prin inima arhitecturii raționaliste. Dimineața explorați Piazza del Popolo și clădirile guvernamentale monumentale. La prânz vizitați catedrala și Muzeul Cambellotti pentru a înțelege istoria asanării mlaștinilor. După-amiaza se încheie relaxant în parcul municipal.",
+        "en": "Latina is a fascinating planned city, founded in 1932 as Littoria. This route takes you through the heart of Rationalist architecture. In the morning, explore Piazza del Popolo and the monumental government buildings. At midday, visit the cathedral and the Cambellotti Museum to understand the history of the marsh reclamation. The afternoon ends with a relaxing break in the city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mozzarella di Bufala",
+            "tip": "Probieren Sie die frische Büffelmozzarella aus dem Agro Pontino."
+          },
+          {
+            "name": "Tiella di Gaeta",
+            "tip": "Eine herzhafte gefüllte Pastete, oft mit Oktopus oder Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mozzarella di Bufala",
+            "tip": "Kóstolja meg a friss bivalymozzarellát az Agro Pontino régióból."
+          },
+          {
+            "name": "Tiella di Gaeta",
+            "tip": "Kiadós töltött lepény, gyakran polippal vagy zöldségekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mozzarella di Bufala",
+            "tip": "Gustați mozzarella de bivoliță proaspătă din regiunea Agro Pontino."
+          },
+          {
+            "name": "Tiella di Gaeta",
+            "tip": "O plăcintă umplută sățioasă, adesea cu caracatiță sau legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mozzarella di Bufala",
+            "tip": "Try the fresh buffalo mozzarella from the Agro Pontino region."
+          },
+          {
+            "name": "Tiella di Gaeta",
+            "tip": "A hearty stuffed pie, often with octopus or vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Schattige Wege und Bänke für eine ruhige Lesepause.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Giardini del Comune",
+            "tip": "Ein versteckter grüner Winkel hinter den Verwaltungsgebäuden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Árnyas utak és padok egy csendes olvasáshoz.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Giardini del Comune",
+            "tip": "Egy rejtett zöld zug a hivatali épületek mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Alei umbrite și bănci pentru o pauză de lectură liniștită.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Giardini del Comune",
+            "tip": "Un colț verde ascuns în spatele clădirilor administrative.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Shady paths and benches for a quiet reading break.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Giardini del Comune",
+            "tip": "A hidden green corner behind the administrative buildings.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "Die Haupteinkaufsstraße mit Boutiquen und Cafés."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Lokaler Markt für frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "A fő bevásárlóutca butikokkal és kávézókkal."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Helyi piac friss termékekkel és regionális specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "Principala stradă comercială cu buticuri și cafenele."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Piață locală pentru produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso della Repubblica",
+            "tip": "The main shopping street with boutiques and cafes."
+          },
+          {
+            "name": "Mercato Annonario",
+            "tip": "Local market for fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Zentrum sehr fußgängerfreundlich ist.",
+          "Die Architektur wirkt am besten im warmen Licht des späten Nachmittags.",
+          "Montags sind einige Museen geschlossen, prüfen Sie die Zeiten vorab.",
+          "Probieren Sie das lokale Gelato in den Bars rund um die Piazza del Popolo."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a központ nagyon gyalogosbarát.",
+          "Az építészet a késő délutáni meleg fényben érvényesül a legjobban.",
+          "Hétfőnként egyes múzeumok zárva tarthatnak, ellenőrizze előre.",
+          "Kóstolja meg a helyi fagyit a Piazza del Popolo körüli bárokban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul este foarte prietenos cu pietonii.",
+          "Arhitectura arată cel mai bine în lumina caldă a după-amiezii târzii.",
+          "Lunea unele muzee pot fi închise, verificați programul în avans.",
+          "Gustați înghețata locală în barurile din jurul Piazza del Popolo."
+        ],
+        "en": [
+          "Wear comfortable shoes as the center is very pedestrian-friendly.",
+          "The architecture looks best in the warm light of late afternoon.",
+          "Some museums may be closed on Mondays, check opening hours in advance.",
+          "Try the local gelato in the bars around Piazza del Popolo."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza del Popolo",
+          "coords": [
+            12.9048,
+            41.4677
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am zentralen Platz, dem Symbol der Stadtgründung.",
+            "hu": "Kezdje a központi téren, amely a városháza szimbóluma.",
+            "ro": "Începeți în piața centrală, simbolul fondării orașului.",
+            "en": "Start at the central square, the symbol of the city's foundation."
+          }
+        },
+        {
+          "name": "Palazzo delle Poste",
+          "coords": [
+            12.9015,
+            41.4682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die futuristischen Elemente dieses Postpalastes.",
+            "hu": "Csodálja meg e posta-palota futurista elemeit.",
+            "ro": "Admirați elementele futuriste ale acestui palat al poștei.",
+            "en": "Admire the futuristic elements of this postal palace."
+          }
+        },
+        {
+          "name": "Teatro Gabriele D'Annunzio",
+          "coords": [
+            12.9024,
+            41.4688
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein wichtiges kulturelles Zentrum im Herzen von Latina.",
+            "hu": "Fontos kulturális központ Latina szívében.",
+            "ro": "Un centru cultural important în inima orașului Latina.",
+            "en": "An important cultural center in the heart of Latina."
+          }
+        },
+        {
+          "name": "Museo Duilio Cambellotti",
+          "coords": [
+            12.9035,
+            41.4662
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kunstwerke, die die Verwandlung der Region dokumentieren.",
+            "hu": "A régió átalakulását dokumentáló műalkotások.",
+            "ro": "Opere de artă care documentează transformarea regiunii.",
+            "en": "Artworks documenting the transformation of the region."
+          }
+        },
+        {
+          "name": "Cattedrale di San Marco",
+          "coords": [
+            12.9068,
+            41.4665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das schlichte, aber beeindruckende Innere der Kathedrale.",
+            "hu": "Látogassa meg a székesegyház egyszerű, de lenyűgöző belsejét.",
+            "ro": "Vizitați interiorul simplu, dar impresionant al catedralei.",
+            "en": "Visit the simple but impressive interior of the cathedral."
+          }
+        },
+        {
+          "name": "Parco Comunale",
+          "coords": [
+            12.9095,
+            41.4645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die grünen Alleen des Stadtparks.",
+            "hu": "Kerékpározzon végig a városi park zöld fasorain.",
+            "ro": "Pedalați pe aleile verzi ale parcului municipal.",
+            "en": "Cycle through the green avenues of the city park."
+          }
+        },
+        {
+          "name": "Palazzo dell'M",
+          "coords": [
+            12.9075,
+            41.4635
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei diesem architektonischen Kuriosum.",
+            "hu": "Rövid megálló ennél az építészeti különlegességnél.",
+            "ro": "Scurtă oprire la această curiozitate arhitecturală.",
+            "en": "Short stop at this architectural curiosity."
+          }
+        },
+        {
+          "name": "Palazzo del Comune",
+          "coords": [
+            12.9048,
+            41.4678
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am imposanten Rathausgebäude.",
+            "hu": "A túra zárása az impozáns városháza épületénél.",
+            "ro": "Finalul turului la clădirea impunătoare a primăriei.",
+            "en": "Concluding the tour at the imposing town hall building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Latina effizient und genießen die weiten Alleen der Stadt. Diese Route verbindet die architektonischen Highlights im Zentrum mit einer entspannten Fahrt zum Stadtpark. Entdecken Sie die geometrische Strenge der 1930er Jahre und genießen Sie die flache Topographie der Stadt, die ideal für Radfahrer ist.",
+        "hu": "Kerékpárral hatékonyan fedezheti fel Latinát, élvezve a város tágas fasorait. Ez az útvonal összeköti a központ építészeti csúcspontjait egy pihentető tekeréssel a városi parkig. Fedezze fel az 1930-as évek geometriai szigorát, és élvezze a város sík domborzatát, amely ideális a bicikliseknek.",
+        "ro": "Cu bicicleta explorați Latina eficient și vă bucurați de bulevardele largi ale orașului. Acest traseu combină punctele de atracție arhitecturale din centru cu o plimbare relaxantă spre parcul municipal. Descoperiți rigoarea geometrică a anilor 1930 și bucurați-vă de topografia plană a orașului, ideală pentru bicicliști.",
+        "en": "By bike, you can explore Latina efficiently while enjoying the city's wide avenues. This route connects the architectural highlights in the center with a relaxed ride to the city park. Discover the geometric rigor of the 1930s and enjoy the city's flat topography, which is ideal for cyclists."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Büffel-Ricotta",
+            "tip": "Süße oder herzhafte Spezialitäten mit Ricotta di Bufala."
+          },
+          {
+            "name": "Lokales Streetfood",
+            "tip": "Pizza al taglio in den Seitenstraßen des Corso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bivaly-ricotta",
+            "tip": "Édes vagy sós különlegességek Ricotta di Bufalával."
+          },
+          {
+            "name": "Helyi street food",
+            "tip": "Pizza al taglio a Corso mellékutcáiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ricotta de bivoliță",
+            "tip": "Specialități dulci sau sărate cu Ricotta di Bufala."
+          },
+          {
+            "name": "Street food local",
+            "tip": "Pizza al taglio pe străzile laterale ale Corso-ului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffalo Ricotta",
+            "tip": "Sweet or savory specialties with Ricotta di Bufala."
+          },
+          {
+            "name": "Local Street Food",
+            "tip": "Pizza al taglio in the side streets of the Corso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Perfekt für eine Pause im Schatten der Pinien.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Tökéletes egy pihenőhöz a fenyők árnyékában.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Perfect pentru o pauză la umbra pinilor.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Perfect for a break in the shade of the pines.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Viale Mazzini",
+            "tip": "Weitere Geschäfte und lokale Dienstleister."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Mazzini",
+            "tip": "További üzletek és helyi szolgáltatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Mazzini",
+            "tip": "Mai multe magazine și servicii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Mazzini",
+            "tip": "More shops and local services."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr flach, was das Radfahren sehr entspannt macht.",
+          "Nutzen Sie die breiten Bürgersteige oder Radwege, wo vorhanden.",
+          "Schließen Sie Ihr Fahrrad an den vorgesehenen Stellen im Zentrum ab.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "A város nagyon sík, ami rendkívül pihentetővé teszi a biciklizést.",
+          "Használja a széles járdákat vagy kerékpárutakat, ahol vannak.",
+          "Zárja le a biciklijét a kijelölt helyeken a központban.",
+          "Vigyen magával elég vizet, különösen nyáron."
+        ],
+        "ro": [
+          "Orașul este foarte plat, ceea ce face mersul pe bicicletă foarte relaxant.",
+          "Folosiți trotuarele largi sau pistele de biciclete acolo unde există.",
+          "Încuiați bicicleta în locurile special amenajate din centru.",
+          "Luați suficientă apă cu voi, mai ales vara."
+        ],
+        "en": [
+          "The city is very flat, making cycling very relaxed.",
+          "Use the wide sidewalks or bike paths where available.",
+          "Lock your bike at the designated spots in the center.",
+          "Take plenty of water with you, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza del Popolo",
+          "coords": [
+            12.9048,
+            41.4677
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a közelben, és fedezze fel a központot gyalog.",
+            "ro": "Parcați în apropiere și explorați centrul pe jos.",
+            "en": "Park nearby and explore the center on foot."
+          }
+        },
+        {
+          "name": "Palazzo del Comune",
+          "coords": [
+            12.9045,
+            41.4679
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt mit seinem markanten Turm.",
+            "hu": "A város jelképe a jellegzetes tornyával.",
+            "ro": "Simbolul orașului cu turnul său proeminent.",
+            "en": "The landmark of the city with its prominent tower."
+          }
+        },
+        {
+          "name": "Cattedrale di San Marco",
+          "coords": [
+            12.9068,
+            41.4665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und Besinnung inmitten der Stadt.",
+            "hu": "A nyugalom és elmélkedés helye a város közepén.",
+            "ro": "Un loc de liniște și reflecție în mijlocul orașului.",
+            "en": "A place of peace and reflection in the middle of the city."
+          }
+        },
+        {
+          "name": "Museo Duilio Cambellotti",
+          "coords": [
+            12.9035,
+            41.4662
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Museum, um die Kunst von Cambellotti zu bewundern.",
+            "hu": "Hajtson a múzeumhoz, hogy megcsodálja Cambellotti művészetét.",
+            "ro": "Mergeți cu mașina la muzeu pentru a admira arta lui Cambellotti.",
+            "en": "Drive to the museum to admire the art of Cambellotti."
+          }
+        },
+        {
+          "name": "Parco Comunale",
+          "coords": [
+            12.9095,
+            41.4645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang im Park vor der Weiterfahrt.",
+            "hu": "Élvezze a sétát a parkban a továbbutazás előtt.",
+            "ro": "Bucurați-vă de o plimbare în parc înainte de a merge mai departe.",
+            "en": "Enjoy a stroll in the park before continuing your journey."
+          }
+        },
+        {
+          "name": "Lago di Fogliano",
+          "coords": [
+            12.915,
+            41.405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein wunderschöner Küstensee mit historischem Dorf und Botanischem Garten.",
+            "hu": "Gyönyörű parti tó történelmi faluval és botanikus kerttel.",
+            "ro": "Un lac de coastă superb cu un sat istoric și o grădină botanică.",
+            "en": "A beautiful coastal lake with a historic village and botanical garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das städtische Zentrum von Latina mit der unberührten Natur der Umgebung. Nach der Besichtigung der rationalistischen Architektur am Vormittag fahren Sie zum Lago di Fogliano. Dieser Küstensee gehört zum Nationalpark Circeo und bietet eine friedliche Atmosphäre, ideal um den Tag in der Natur ausklingen zu lassen.",
+        "hu": "Autóval kombinálhatja Latina városközpontját a környék érintetlen természetével. A racionalista építészet délelőtti megtekintése után hajtson a Lago di Fogliano-hoz. Ez a parti tó a Circeo Nemzeti Park része, és békés hangulatot áraszt, tökéletes a nap természetben való lezárásához.",
+        "ro": "Cu mașina combinați centrul urban al orașului Latina cu natura virgină din împrejurimi. După vizitarea arhitecturii raționaliste de dimineață, mergeți spre Lago di Fogliano. Acest lac de coastă face parte din Parcul Național Circeo și oferă o atmosferă liniștită, ideală pentru a încheia ziua în natură.",
+        "en": "By car, you can combine Latina's urban center with the untouched nature of the surroundings. After viewing the Rationalist architecture in the morning, drive to Lago di Fogliano. This coastal lake is part of the Circeo National Park and offers a peaceful atmosphere, ideal for ending the day in nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agropontino-Weine",
+            "tip": "Probieren Sie lokale Weine wie Moscato di Terracina."
+          },
+          {
+            "name": "Fischgerichte",
+            "tip": "Frischer Fisch in den Restaurants am Lago di Fogliano oder an der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agropontino borok",
+            "tip": "Kóstoljon helyi borokat, például Moscato di Terracinát."
+          },
+          {
+            "name": "Halételek",
+            "tip": "Friss hal a Lago di Fogliano környéki vagy parti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri Agropontino",
+            "tip": "Gustați vinuri locale precum Moscato di Terracina."
+          },
+          {
+            "name": "Preparate din pește",
+            "tip": "Pește proaspăt în restaurantele de lângă Lago di Fogliano sau de pe coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agropontino Wines",
+            "tip": "Try local wines such as Moscato di Terracina."
+          },
+          {
+            "name": "Fish Dishes",
+            "tip": "Fresh fish in restaurants near Lago di Fogliano or on the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago di Fogliano",
+            "tip": "Beobachten Sie Vögel und genießen Sie die Stille am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lago di Fogliano",
+            "tip": "Figyelje meg a madarakat és élvezze a vízparti csendet.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lago di Fogliano",
+            "tip": "Observați păsările și bucurați-vă de liniștea de pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lago di Fogliano",
+            "tip": "Watch birds and enjoy the silence by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Latina Fiori",
+            "tip": "Ein großes Einkaufszentrum am Rande der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Latina Fiori",
+            "tip": "Egy nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Latina Fiori",
+            "tip": "Un centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Latina Fiori",
+            "tip": "A large shopping center on the outskirts of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ausreichend kostenpflichtige Parkplätze im Zentrum (blaue Streifen).",
+          "Der Ausflug zum Lago di Fogliano dauert etwa 15-20 Minuten.",
+          "Die Küstenstraße bietet schöne Ausblicke auf die Dünen von Sabaudia.",
+          "Achten Sie auf die verkehrsberuhigten Zonen (ZTL) im Stadtkern."
+        ],
+        "hu": [
+          "A központban elegendő fizetős parkolóhely van (kék sávok).",
+          "A kirándulás a Lago di Fogliano-hoz körülbelül 15-20 percet vesz igénybe.",
+          "A parti út szép kilátást nyújt Sabaudia dűnéire.",
+          "Ügyeljen a forgalomcsillapított övezetekre (ZTL) a városmagban."
+        ],
+        "ro": [
+          "Există suficiente locuri de parcare cu plată în centru (dungi albastre).",
+          "Excursia la Lago di Fogliano durează aproximativ 15-20 de minute.",
+          "Drumul de coastă oferă priveliști frumoase asupra dunelor din Sabaudia.",
+          "Atenție la zonele cu trafic limitat (ZTL) din centrul orașului."
+        ],
+        "en": [
+          "There are plenty of paid parking spaces in the center (blue stripes).",
+          "The trip to Lago di Fogliano takes about 15-20 minutes.",
+          "The coastal road offers beautiful views of the dunes of Sabaudia.",
+          "Pay attention to the limited traffic zones (ZTL) in the city core."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza del Popolo",
+          "coords": [
+            12.9048,
+            41.4677
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Viele Buslinien halten in der Nähe des zentralen Platzes.",
+            "hu": "Sok buszjárat megáll a központi tér közelében.",
+            "ro": "Multe linii de autobuz opresc în apropierea pieței centrale.",
+            "en": "Many bus lines stop near the central square."
+          }
+        },
+        {
+          "name": "Cattedrale di San Marco",
+          "coords": [
+            12.9068,
+            41.4665
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom San Marco Platz aus ist die Kathedrale sofort sichtbar.",
+            "hu": "A San Marco térről a székesegyház azonnal látható.",
+            "ro": "Din piața San Marco, catedrala este vizibilă imediat.",
+            "en": "From San Marco square, the cathedral is immediately visible."
+          }
+        },
+        {
+          "name": "Museo Duilio Cambellotti",
+          "coords": [
+            12.9035,
+            41.4662
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Stadtbus, um zum Museumsbereich zu gelangen.",
+            "hu": "Használja a helyi buszt, hogy eljusson a múzeumi negyedbe.",
+            "ro": "Folosiți autobuzul urban pentru a ajunge în zona muzeului.",
+            "en": "Use the city bus to get to the museum area."
+          }
+        },
+        {
+          "name": "Palazzo delle Poste",
+          "coords": [
+            12.9015,
+            41.4682
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Museum zu diesem architektonischen Juwel.",
+            "hu": "Rövid séta a múzeumtól ehhez az építészeti gyöngyszemhez.",
+            "ro": "O scurtă plimbare de la muzeu la această bijuterie arhitecturală.",
+            "en": "A short walk from the museum to this architectural gem."
+          }
+        },
+        {
+          "name": "Teatro Gabriele D'Annunzio",
+          "coords": [
+            12.9024,
+            41.4688
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Theater befindet sich in unmittelbarer Nähe der Post.",
+            "hu": "A színház a posta közvetlen közelében található.",
+            "ro": "Teatrul se află în imediata apropiere a poștei.",
+            "en": "The theatre is located in the immediate vicinity of the post office."
+          }
+        },
+        {
+          "name": "Parco Comunale",
+          "coords": [
+            12.9095,
+            41.4645
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus zum Parkeingang für einen entspannten Abschluss.",
+            "hu": "Menjen busszal a park bejáratához a pihentető befejezéshez.",
+            "ro": "Mergeți cu autobuzul la intrarea în parc pentru un final relaxant.",
+            "en": "Take the bus to the park entrance for a relaxed finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den Stadtbussen von Latina können Sie die verschiedenen rationalistischen Viertel bequem erkunden. Diese Route verbindet die zentralen Plätze mit den kulturellen Einrichtungen und dem Stadtpark. Sie erhalten einen authentischen Einblick in das tägliche Leben der Bewohner dieser ungewöhnlichen Stadt.",
+        "hu": "Latina helyi buszaival kényelmesen fedezheti fel a különböző racionalista negyedeket. Ez az útvonal összeköti a központi tereket a kulturális intézményekkel és a városi parkkal. Hiteles betekintést nyerhet e szokatlan város lakóinak mindennapi életébe.",
+        "ro": "Cu autobuzele urbane din Latina puteți explora confortabil diferitele cartiere raționaliste. Acest traseu conectează piețele centrale cu instituțiile culturale și parcul municipal. Veți obține o perspectivă autentică asupra vieții de zi cu zi a locuitorilor acestui oraș neobișnuit.",
+        "en": "With Latina's city buses, you can comfortably explore the various Rationalist districts. This route connects the central squares with cultural institutions and the city park. You will gain an authentic insight into the daily life of the residents of this unusual city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Büffelmozzarella",
+            "tip": "Suchen Sie nach lokalen Feinkostläden (Gastronomia) im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bivalymozzarella",
+            "tip": "Keressen helyi csemegeboltokat (Gastronomia) a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mozzarella de bivoliță",
+            "tip": "Căutați magazine de delicatese locale (Gastronomia) în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffalo Mozzarella",
+            "tip": "Look for local delicatessens (Gastronomia) in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Ein ruhiger Rückzugsort, leicht mit dem Bus erreichbar.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Csendes menedék, busszal könnyen elérhető.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Comunale",
+            "tip": "Un refugiu liniștit, ușor accesibil cu autobuzul.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Comunale",
+            "tip": "A quiet retreat, easily accessible by bus.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Eugenio di Savoia",
+            "tip": "Beliebte Einkaufsstraße in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Eugenio di Savoia",
+            "tip": "Népszerű bevásárlóutca a sétálóövezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Eugenio di Savoia",
+            "tip": "Stradă comercială populară în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Eugenio di Savoia",
+            "tip": "Popular shopping street in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten für die Stadtbusse können in Tabakläden (Tabacchi) gekauft werden.",
+          "Die Busfrequenz kann an Sonntagen stark reduziert sein.",
+          "Die meisten Sehenswürdigkeiten im Zentrum liegen in Clustern nah beieinander.",
+          "Die Haltestellen sind oft mit 'Autolinee' oder Busnummern markiert."
+        ],
+        "hu": [
+          "A buszjegyeket a dohányboltokban (Tabacchi) lehet megvásárolni.",
+          "Vasárnaponként a buszok járatsűrűsége jelentősen csökkenhet.",
+          "A legtöbb látnivaló a központban csoportokban, egymáshoz közel található.",
+          "A megállókat gyakran 'Autolinee' felirat vagy buszszámok jelzik."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate de la magazinele de tutun (Tabacchi).",
+          "Frecvența autobuzelor poate fi mult redusă în zilele de duminică.",
+          "Cele mai multe atracții din centru sunt grupate aproape una de alta.",
+          "Stațiile sunt adesea marcate cu 'Autolinee' sau numere de autobuz."
+        ],
+        "en": [
+          "Bus tickets can be purchased at tobacco shops (Tabacchi).",
+          "Bus frequency may be significantly reduced on Sundays.",
+          "Most sights in the center are located in clusters close to each other.",
+          "Stops are often marked with 'Autolinee' or bus numbers."
+        ]
+      }
+    }
+  }
+}

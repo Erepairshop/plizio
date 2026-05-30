@@ -1,0 +1,1181 @@
+{
+  "city_id": "spain-malaga-cities-v2",
+  "anchor": {
+    "name": "Plaza de la Constitución",
+    "coords": [
+      -4.4214,
+      36.7213
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Larios",
+            "hu": "Calle Larios",
+            "ro": "Calle Larios",
+            "en": "Calle Larios"
+          },
+          "coords": [
+            -4.4208,
+            36.7198
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Morgens ohne Menschenmassen für Fotos ideal.",
+            "hu": "Reggel, tömeg nélkül a legjobb fotózni.",
+            "ro": "Ideal pentru fotografii dimineața, fără aglomerație.",
+            "en": "Perfect for photos in the morning without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Picasso Museum",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Picasso Museum"
+          },
+          "coords": [
+            -4.4178,
+            36.7214
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Innenhof des Palacio de Buenavista.",
+            "hu": "Nézze meg a Palacio de Buenavista belső udvarát.",
+            "ro": "Vizitați curtea interioară a Palatului Buenavista.",
+            "en": "Check out the inner courtyard of Palacio de Buenavista."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Málaga",
+            "hu": "Málagai katedrális",
+            "ro": "Catedrala din Málaga",
+            "en": "Málaga Cathedral"
+          },
+          "coords": [
+            -4.4193,
+            36.7202
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf den unvollendeten Südturm (La Manquita).",
+            "hu": "Figyelje meg a befejezetlen déli tornyot (La Manquita).",
+            "ro": "Observați turnul sudic neterminat (La Manquita).",
+            "en": "Notice the unfinished south tower (La Manquita)."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -4.4172,
+            36.7211
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das kleine Interpretationszentrum ist kostenlos.",
+            "hu": "A kis látogatóközpont ingyenesen látogatható.",
+            "ro": "Centrul de interpretare este gratuit.",
+            "en": "The small interpretation center is free to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba",
+            "hu": "Alcazaba",
+            "ro": "Alcazaba",
+            "en": "Alcazaba"
+          },
+          "coords": [
+            -4.4161,
+            36.7211
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Aufzug von der Calle Guillén Sotelo.",
+            "hu": "Használja a liftet a Calle Guillén Sotelo felől.",
+            "ro": "Folosiți liftul de pe strada Guillén Sotelo.",
+            "en": "Use the elevator from Calle Guillén Sotelo."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Gibralfaro",
+            "hu": "Gibralfaro vár",
+            "ro": "Castelul Gibralfaro",
+            "en": "Castillo de Gibralfaro"
+          },
+          "coords": [
+            -4.4111,
+            36.7228
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick über die Stierkampfarena.",
+            "hu": "A legjobb panoráma a bikaviadal-arénára.",
+            "ro": "Cea mai bună panoramă asupra arenei de tauri.",
+            "en": "Best panoramic view over the bullring."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle Uno",
+            "hu": "Muelle Uno",
+            "ro": "Muelle Uno",
+            "en": "Muelle Uno"
+          },
+          "coords": [
+            -4.4155,
+            36.7175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für ein Eis am modernen Hafen.",
+            "hu": "Ideális egy fagyira a modern kikötőben.",
+            "ro": "Ideal pentru o înghețată în portul modern.",
+            "en": "Ideal for an ice cream at the modern harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Malagueta",
+            "hu": "Malagueta strand",
+            "ro": "Plaja Malagueta",
+            "en": "Playa de la Malagueta"
+          },
+          "coords": [
+            -4.4098,
+            36.7168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie Espetos in einem Chiringuito.",
+            "hu": "Kóstoljon espetost egy chiringuitóban.",
+            "ro": "Gustați espetos la un chiringuito.",
+            "en": "Try espetos at a chiringuito."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt auf der eleganten Calle Larios, dem pulsierenden Herzstück Málagas. Nach dem Eintauchen in Picassos Kunstwelt besuchen Sie die majestätische Kathedrale. Der Nachmittag gehört der Geschichte: Das römische Theater und die maurische Alcazaba führen Sie zurück in die Vergangenheit, bevor der Aufstieg zum Gibralfaro mit Aussicht belohnt. Der Abend klingt entspannt am Hafen und am Sandstrand der Malagueta aus.",
+        "hu": "A nap az elegáns Calle Larios sétányon indul, Málaga lüktető szívében. Picasso művészetének felfedezése után a fenséges katedrálist látogatjuk meg. A délután a történelemé: a római színház és a mór Alcazaba visszarepít a múltba, majd a Gibralfaro vár panorámája vár. Az estét a modern kikötőben és a Malagueta homokos strandján zárjuk, ahol a tengerparti életérzés garantált.",
+        "ro": "Ziua începe pe eleganta Calle Larios, inima vibrantă a orașului Málaga. După explorarea universului lui Picasso, vizitați catedrala maiestuoasă. După-amiaza este dedicată istoriei: teatrul roman și cetatea maură Alcazaba vă poartă în trecut, urmate de panorama de la Gibralfaro. Seara se încheie relaxat în portul modern Muelle Uno și pe plaja Malagueta, sub briza Mediteranei.",
+        "en": "Your day starts on the elegant Calle Larios, the pulsating heart of Málaga. After diving into Picasso's art world, visit the majestic cathedral. The afternoon belongs to history: the Roman theatre and the Moorish Alcazaba take you back in time, before the climb to Gibralfaro rewards you with views. The evening winds down at the modern harbor and the sandy Malagueta beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Gegrillte Sardinen am Spieß, ein Muss am Strand."
+          },
+          {
+            "name": "El Pimpi",
+            "tip": "Legendäre Bodega für Wein und Tapas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Nyárson sült szardínia, kötelező a parton."
+          },
+          {
+            "name": "El Pimpi",
+            "tip": "Legendás borozó és tapas bár a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Sardine la proțap, obligatorii pe plajă."
+          },
+          {
+            "name": "El Pimpi",
+            "tip": "Bodega legendară pentru vin și tapas."
+          }
+        ],
+        "en": [
+          {
+            "name": "Espetos de Sardinas",
+            "tip": "Grilled sardines on a skewer, a beach classic."
+          },
+          {
+            "name": "El Pimpi",
+            "tip": "Legendary bodega for sweet wine and tapas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gibralfaro Aussichtspunkt",
+            "tip": "Sonnenuntergang über dem Hafen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo del Parque",
+            "tip": "Exotische Pflanzen im Schatten.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gibralfaro kilátó",
+            "tip": "Naplemente a kikötő felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo del Parque",
+            "tip": "Egzotikus növények az árnyékban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de Gibralfaro",
+            "tip": "Apus de soare peste port.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo del Parque",
+            "tip": "Plante exotice la umbră.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gibralfaro Viewpoint",
+            "tip": "Sunset over the city harbor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Paseo del Parque",
+            "tip": "Exotic plants in the cool shade.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercado de Atarazanas",
+            "tip": "Frische lokale Produkte in einer Markthalle."
+          },
+          {
+            "name": "Calle Larios",
+            "tip": "Boutiquen und große Modemarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado de Atarazanas",
+            "tip": "Friss helyi áruk egy gyönyörű csarnokban."
+          },
+          {
+            "name": "Calle Larios",
+            "tip": "Elegáns butikok és nagy márkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado de Atarazanas",
+            "tip": "Produse locale proaspete într-o hală istorică."
+          },
+          {
+            "name": "Calle Larios",
+            "tip": "Boutique-uri și branduri mari de modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado de Atarazanas",
+            "tip": "Fresh local products in a historic market hall."
+          },
+          {
+            "name": "Calle Larios",
+            "tip": "High-end boutiques and major fashion brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Málaga ist sehr flach, perfekt zum Laufen.",
+          "Sonntagnachmittag sind viele Museen kostenlos.",
+          "Trinken Sie den lokalen Süßwein im Antigua Casa de Guardia.",
+          "Buchen Sie Picasso-Tickets im Voraus online."
+        ],
+        "hu": [
+          "Málaga belvárosa sík, gyalogosan könnyen bejárható.",
+          "Vasárnap délután sok múzeum ingyenesen látogatható.",
+          "Kóstolja meg a helyi édes bort az Antigua Casa de Guardiában.",
+          "A Picasso Múzeumba érdemes előre jegyet foglalni online."
+        ],
+        "ro": [
+          "Centrul orașului Málaga este plat, perfect pentru mersul pe jos.",
+          "Duminică după-amiaza multe muzee sunt gratuite.",
+          "Gustați vinul dulce local la Antigua Casa de Guardia.",
+          "Rezervați biletele pentru Muzeul Picasso online în avans."
+        ],
+        "en": [
+          "Málaga city center is flat and very walkable.",
+          "Many museums offer free entry on Sunday afternoons.",
+          "Try the local sweet wine at Antigua Casa de Guardia.",
+          "Book Picasso Museum tickets online to skip the lines."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Larios",
+            "hu": "Calle Larios",
+            "ro": "Calle Larios",
+            "en": "Calle Larios"
+          },
+          "coords": [
+            -4.4208,
+            36.7198
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in der Fußgängerzone.",
+            "hu": "A sétálóutcában tolja a kerékpárt.",
+            "ro": "Împingeți bicicleta în zona pietonală.",
+            "en": "Push your bike in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater",
+            "hu": "Római Színház",
+            "ro": "Teatrul Roman",
+            "en": "Roman Theatre"
+          },
+          "coords": [
+            -4.4172,
+            36.7211
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Guter Fahrradständer direkt davor.",
+            "hu": "Kerékpártároló közvetlenül előtte.",
+            "ro": "Suport de biciclete direct în față.",
+            "en": "Good bike rack right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle Uno",
+            "hu": "Muelle Uno",
+            "ro": "Muelle Uno",
+            "en": "Muelle Uno"
+          },
+          "coords": [
+            -4.4155,
+            36.7175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Breite Radwege entlang des Wassers.",
+            "hu": "Széles kerékpárutak a víz mentén.",
+            "ro": "Piste largi de biciclete de-a lungul apei.",
+            "en": "Wide bike lanes along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Malagueta",
+            "hu": "Malagueta strand",
+            "ro": "Plaja Malagueta",
+            "en": "Playa de la Malagueta"
+          },
+          "coords": [
+            -4.4098,
+            36.7168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter Richtung Osten.",
+            "hu": "Tekerjen tovább kelet felé.",
+            "ro": "Continuați să pedalați spre est.",
+            "en": "Keep cycling towards the east."
+          }
+        },
+        {
+          "name": {
+            "de": "El Palo / Pedregalejo",
+            "hu": "El Palo / Pedregalejo",
+            "ro": "El Palo / Pedregalejo",
+            "en": "El Palo / Pedregalejo"
+          },
+          "coords": [
+            -4.3685,
+            36.7195
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das authentischste Viertel für Fisch.",
+            "hu": "A legautentikusabb negyed halételekhez.",
+            "ro": "Cel mai autentic cartier pentru pește.",
+            "en": "The most authentic district for fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo del Parque",
+            "hu": "Paseo del Parque",
+            "ro": "Paseo del Parque",
+            "en": "Paseo del Parque"
+          },
+          "coords": [
+            -4.415,
+            36.719
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schattiger Rückweg ins Zentrum.",
+            "hu": "Árnyékos út vissza a központba.",
+            "ro": "Drum umbrit spre centru.",
+            "en": "Shady ride back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Málaga auf zwei Rädern! Starten Sie im Zentrum und fahren Sie entlang des modernen Hafens Muelle Uno. Die flache Küstenlinie führt Sie vorbei an der Malagueta bis zu den alten Fischerdörfern Pedregalejo und El Palo, wo Sie die besten Meeresfrüchte der Stadt finden. Ein entspannter Tag mit viel Meeresbrise und Sonne.",
+        "hu": "Fedezze fel Málagát két keréken! Kezdjen a belvárosban, majd tekerjen végig a modern Muelle Uno kikötőn. A sík tengerparti út elviszi a Malagueta mellett a régi halászfalvakig, Pedregalejóig és El Palóig, ahol a város legjobb tengeri ételeit kóstolhatja meg. Lazítás, napsütés és tengeri szél várja.",
+        "ro": "Descoperiți Málaga pe două roți! Începeți în centru și pedalați de-a lungul portului modern Muelle Uno. Linia de coastă plată vă duce pe lângă Malagueta până la vechile sate pescărești Pedregalejo și El Palo, unde veți găsi cele mai bune fructe de mare. O zi relaxată cu multă briză marină și soare.",
+        "en": "Explore Málaga on two wheels! Start in the center and cycle along the modern Muelle Uno harbor. The flat coastline takes you past Malagueta to the old fishing villages of Pedregalejo and El Palo, where you'll find the city's best seafood. A relaxed day with plenty of sea breeze and sunshine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chiringuito El Tintero",
+            "tip": "Fisch auf Zuruf, ein Erlebnis in El Palo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiringuito El Tintero",
+            "tip": "Kiáltással hirdetett halételek El Palóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiringuito El Tintero",
+            "tip": "Pește servit prin licitație în El Palo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiringuito El Tintero",
+            "tip": "Fish served by 'shouting' in El Palo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baños del Carmen",
+            "tip": "Historisches Bad mit tollem Blick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baños del Carmen",
+            "tip": "Történelmi fürdőhely remek kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baños del Carmen",
+            "tip": "Băi istorice cu o vedere superbă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baños del Carmen",
+            "tip": "Historic baths with a nostalgic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Muelle Uno Shops",
+            "tip": "Design-Läden am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muelle Uno üzletek",
+            "tip": "Design boltok a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muelle Uno Shops",
+            "tip": "Magazine de design lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Muelle Uno Shops",
+            "tip": "Design shops by the waterfront."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Malagabici Leihsystem.",
+          "Meiden Sie die Hauptstraße N-340.",
+          "Immer genug Wasser mitnehmen.",
+          "Fahrradschloss ist Pflicht."
+        ],
+        "hu": [
+          "Használja a Malagabici bérlőrendszert.",
+          "Kerülje az N-340-es főutat.",
+          "Mindig legyen önnél elég víz.",
+          "A lakat használata kötelező."
+        ],
+        "ro": [
+          "Utilizați sistemul de închirieri Malagabici.",
+          "Evitați drumul principal N-340.",
+          "Luați întotdeauna destulă apă.",
+          "Antifurtul este obligatoriu."
+        ],
+        "en": [
+          "Use the Malagabici bike-sharing system.",
+          "Avoid the busy N-340 main road.",
+          "Always carry enough water.",
+          "A bike lock is mandatory."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Larios (Cluster Altstadt)",
+            "hu": "Calle Larios (Óváros klaszter)",
+            "ro": "Calle Larios (Cluster Centru)",
+            "en": "Calle Larios (Old Town Cluster)"
+          },
+          "coords": [
+            -4.4208,
+            36.7198
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkhaus Central in der Nähe.",
+            "hu": "Parkoljon a közeli Central parkolóban.",
+            "ro": "Parcare Central în apropiere.",
+            "en": "Park at the nearby Central parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Málaga",
+            "hu": "Málagai katedrális",
+            "ro": "Catedrala din Málaga",
+            "en": "Málaga Cathedral"
+          },
+          "coords": [
+            -4.4193,
+            36.7202
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Walkable from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Picasso Museum",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Picasso Museum"
+          },
+          "coords": [
+            -4.4178,
+            36.7214
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie das Zeitfenster 11:30.",
+            "hu": "Foglaljon időpontot 11:30-ra.",
+            "ro": "Rezervați intervalul orar 11:30.",
+            "en": "Book the 11:30 time slot."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle Uno (Cluster Hafen)",
+            "hu": "Muelle Uno (Kikötő klaszter)",
+            "ro": "Muelle Uno (Cluster Port)",
+            "en": "Muelle Uno (Harbor Cluster)"
+          },
+          "coords": [
+            -4.4155,
+            36.7175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkhaus direkt unter dem Muelle Uno.",
+            "hu": "Parkoló közvetlenül a Muelle Uno alatt.",
+            "ro": "Parcare direct sub Muelle Uno.",
+            "en": "Parking garage directly under Muelle Uno."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Malagueta",
+            "hu": "Malagueta strand",
+            "ro": "Plaja Malagueta",
+            "en": "Playa de la Malagueta"
+          },
+          "coords": [
+            -4.4098,
+            36.7168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken am Paseo de la Farola.",
+            "hu": "Parkolás a Paseo de la Farolán.",
+            "ro": "Parcare la Paseo de la Farola.",
+            "en": "Parking at Paseo de la Farola."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Gibralfaro (Cluster Berg)",
+            "hu": "Gibralfaro vár (Hegy klaszter)",
+            "ro": "Castelul Gibralfaro (Cluster Munte)",
+            "en": "Castillo de Gibralfaro (Hill Cluster)"
+          },
+          "coords": [
+            -4.4111,
+            36.7228
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz am Eingang.",
+            "hu": "Ingyenes parkoló a bejáratnál.",
+            "ro": "Parcare gratuită la intrare.",
+            "en": "Free parking at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba",
+            "hu": "Alcazaba",
+            "ro": "Alcazaba",
+            "en": "Alcazaba"
+          },
+          "coords": [
+            -4.4161,
+            36.7211
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuch am späten Nachmittag ist ruhiger.",
+            "hu": "Késő délutáni látogatás nyugodtabb.",
+            "ro": "Vizita de după-amiază târziu e mai liniștită.",
+            "en": "Late afternoon visit is quieter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt das Auto, um bequem zwischen den drei Hauptbereichen Málagas zu wechseln: der historischen Altstadt, dem modernen Hafengebiet und dem Gibralfaro-Hügel. Sie sparen Zeit beim Aufstieg zur Burg und haben am Nachmittag mehr Zeit für den Strand. Ideal für Reisende, die Entspannung mit maximaler Sightseeing-Effizienz verbinden möchten.",
+        "hu": "Ez az útvonal az autót használja, hogy kényelmesen váltson Málaga három fő területe között: a történelmi óváros, a modern kikötő és a Gibralfaro-hegy között. Időt takarít meg a várba való feljutással, így délután több ideje marad a strandra. Ideális azoknak, akik a pihenést maximális városnézési hatékonysággal szeretnék ötvözni.",
+        "ro": "Această rută folosește mașina pentru a schimba confortabil între cele trei zone principale: centrul istoric, portul modern și dealul Gibralfaro. Economisiți timp la urcarea spre castel, având mai mult timp pentru plajă după-amiaza. Ideal pentru cei care vor să combine relaxarea cu eficiența maximă în vizitarea obiectivelor.",
+        "en": "This route uses the car to comfortably switch between Málaga's three main areas: the historic old town, the modern harbor, and the Gibralfaro hill. You save time ascending to the castle, leaving more time for the beach in the afternoon. Ideal for travelers who want to combine relaxation with maximum sightseeing efficiency."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mercado Atarazanas",
+            "tip": "Günstige Tapas im Stehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercado Atarazanas",
+            "tip": "Olcsó tapasok állva, piaci hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercado Atarazanas",
+            "tip": "Tapas ieftine într-o atmosferă de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercado Atarazanas",
+            "tip": "Budget-friendly tapas in a lively market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parador de Málaga Gibralfaro",
+            "tip": "Kaffee mit Blick über die Stadt.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parador de Málaga Gibralfaro",
+            "tip": "Kávé városi panorámával.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parador de Málaga Gibralfaro",
+            "tip": "Cafea cu vedere peste oraș.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parador de Málaga Gibralfaro",
+            "tip": "Coffee with a stunning city view.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vialia Shopping Center",
+            "tip": "Falls Sie Parken und Shoppen verbinden wollen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vialia bevásárlóközpont",
+            "tip": "Ha összevonná a parkolást a vásárlással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vialia Shopping Center",
+            "tip": "Dacă vreți să combinați parcarea cu shopping-ul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vialia Shopping Center",
+            "tip": "If you want to combine parking and shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkhäuser im Zentrum sind teuer (ca. 20€/Tag).",
+          "Meiden Sie die Rushhour (14:00 und 19:00).",
+          "Gibralfaro Parkplatz ist begrenzt.",
+          "Blaue Zonen erfordern Parkschein."
+        ],
+        "hu": [
+          "A belvárosi parkolóházak drágák (kb. 20€/nap).",
+          "Kerülje a csúcsidőt (14:00 és 19:00).",
+          "A Gibralfaro parkolója korlátozott.",
+          "A kék zónákban jegyvásárlás szükséges."
+        ],
+        "ro": [
+          "Parcările din centru sunt scumpe (cca. 20€/zi).",
+          "Evitați orele de vârf (14:00 și 19:00).",
+          "Parcarea la Gibralfaro este limitată.",
+          "Zonele albastre necesită tichet de parcare."
+        ],
+        "en": [
+          "City center parking is pricey (~20€/day).",
+          "Avoid rush hours (14:00 and 19:00).",
+          "Gibralfaro parking space is limited.",
+          "Blue zones require a parking ticket."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Calle Larios",
+            "hu": "Calle Larios",
+            "ro": "Calle Larios",
+            "en": "Calle Larios"
+          },
+          "coords": [
+            -4.4208,
+            36.7198
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Haltestelle Alameda Principal nutzen.",
+            "hu": "Az Alameda Principal megállónál szálljon le.",
+            "ro": "Folosiți stația Alameda Principal.",
+            "en": "Use the Alameda Principal bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Málaga",
+            "hu": "Málagai katedrális",
+            "ro": "Catedrala din Málaga",
+            "en": "Málaga Cathedral"
+          },
+          "coords": [
+            -4.4193,
+            36.7202
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus alles zu Fuß erreichbar.",
+            "hu": "A belvárosból minden gyalog is elérhető.",
+            "ro": "Totul este accesibil pe jos din centru.",
+            "en": "Everything in the center is walkable."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Gibralfaro",
+            "hu": "Gibralfaro vár",
+            "ro": "Castelul Gibralfaro",
+            "en": "Castillo de Gibralfaro"
+          },
+          "coords": [
+            -4.4111,
+            36.7228
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Buslinie 35 fährt direkt nach oben.",
+            "hu": "A 35-ös busz közvetlenül felvisz a várhoz.",
+            "ro": "Linia 35 de autobuz urcă direct la castel.",
+            "en": "Bus line 35 goes directly to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Theater / Alcazaba",
+            "hu": "Római Színház / Alcazaba",
+            "ro": "Teatrul Roman / Alcazaba",
+            "en": "Roman Theatre / Alcazaba"
+          },
+          "coords": [
+            -4.4172,
+            36.7211
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bus 35 zurück nehmen.",
+            "hu": "Térjen vissza a 35-ös busszal.",
+            "ro": "Luați autobuzul 35 înapoi.",
+            "en": "Take bus 35 back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle Uno",
+            "hu": "Muelle Uno",
+            "ro": "Muelle Uno",
+            "en": "Muelle Uno"
+          },
+          "coords": [
+            -4.4155,
+            36.7175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang durch den Park.",
+            "hu": "Szép séta a parkon keresztül.",
+            "ro": "O plimbare frumoasă prin parc.",
+            "en": "A lovely walk through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de la Malagueta",
+            "hu": "Malagueta strand",
+            "ro": "Plaja Malagueta",
+            "en": "Playa de la Malagueta"
+          },
+          "coords": [
+            -4.4098,
+            36.7168
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Busse 3, 11, 33 fahren zurück.",
+            "hu": "A 3, 11, 33-as buszok visznek vissza.",
+            "ro": "Autobuzele 3, 11, 33 merg înapoi.",
+            "en": "Buses 3, 11, 33 take you back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Málagas effizientes Bussystem, um den steilen Aufstieg zum Gibralfaro zu umgehen. Starten Sie im Herzen der Stadt, lassen Sie sich bequem zur Burg fahren und genießen Sie den Abstieg zu Fuß oder mit dem Bus. Den Nachmittag verbringen Sie am Hafen und Strand, von wo aus zahlreiche Linien zurück ins Zentrum führen.",
+        "hu": "Használja Málaga hatékony buszhálózatát, hogy megússza a meredek kaptatót a Gibralfaróhoz. Kezdjen a város szívében, vitesse fel magát kényelmesen a várhoz, majd élvezze a kilátást. A délutánt a kikötőben és a strandon töltheti, ahonnan számos járat viszi vissza a központba.",
+        "ro": "Utilizați sistemul eficient de autobuze din Málaga pentru a evita urcarea abruptă spre Gibralfaro. Începeți în inima orașului, mergeți confortabil cu autobuzul până la castel și bucurați-vă de panoramă. După-amiaza o puteți petrece în port și pe plajă, de unde numeroase linii vă duc înapoi în centru.",
+        "en": "Use Málaga's efficient bus system to avoid the steep climb to Gibralfaro. Start in the heart of the city, take a comfortable ride up to the castle, and enjoy the views. Spend the afternoon at the harbor and beach, from where numerous lines head back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa Aranda",
+            "tip": "Beste Churros con Chocolate der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Aranda",
+            "tip": "A város legjobb churrosa csokoládéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Aranda",
+            "tip": "Cei mai buni churros cu ciocolată din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Aranda",
+            "tip": "Best churros with chocolate in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardines de Puerta Oscura",
+            "tip": "Terrassengärten am Hang.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardines de Puerta Oscura",
+            "tip": "Teraszos kertek a domboldalban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardines de Puerta Oscura",
+            "tip": "Grădini terasate pe versant.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardines de Puerta Oscura",
+            "tip": "Terraced gardens on the hillside.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Das große spanische Kaufhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "A nagy spanyol áruház."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Marele magazin spaniol."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "The famous Spanish department store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 10er-Karte (Transbordo).",
+          "Google Maps zeigt Buszeiten präzise an.",
+          "Busse halten nur auf Handzeichen.",
+          "Einstieg immer vorne."
+        ],
+        "hu": [
+          "Vásároljon 10 alkalmas kártyát (Transbordo).",
+          "A Google Maps pontosan mutatja a buszokat.",
+          "A buszok intésre állnak meg.",
+          "Felszállás mindig elöl."
+        ],
+        "ro": [
+          "Cumpărați un card cu 10 călătorii (Transbordo).",
+          "Google Maps arată precis orele autobuzelor.",
+          "Autobuzele opresc doar la semnul cu mâna.",
+          "Urcarea se face mereu prin față."
+        ],
+        "en": [
+          "Buy a 10-trip card (Transbordo).",
+          "Google Maps shows bus times accurately.",
+          "Buses only stop if you hail them.",
+          "Always board through the front door."
+        ]
+      }
+    }
+  }
+}

@@ -12,12 +12,17 @@
       "mode": "walk",
       "speed_kmh": 4,
       "start": "09:00",
-      "end_estimate": "15:40",
-      "total_km": 2.9,
-      "stop_count": 6,
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Puerta del Sol",
+          "name": {
+            "de": "Puerta del Sol",
+            "hu": "Puerta del Sol",
+            "ro": "Puerta del Sol",
+            "en": "Puerta del Sol"
+          },
           "coords": [
             -3.7038,
             40.4168
@@ -25,308 +30,278 @@
           "category": "squares/old-town",
           "arrive_at": "09:10",
           "stay_min": 25,
-          "hop_from_prev_min": 10,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0.0,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Achten Sie auf das Symbol der Stadt: den Bären mit dem Erdbeerbaum auf der Ostseite des Platzes.",
-            "hu": "Keresd meg a tér keleti oldalán a város jelképét: a medvét és az eperfát ábrázoló szobrot.",
-            "ro": "Caută simbolul orașului pe latura de est a pieței: statuia ursului și a copacului de căpșuni.",
-            "en": "Look for the symbol of the city: the statue of the bear and the strawberry tree on the east side."
+            "de": "Suchen Sie den Null-Kilometer-Stein vor dem Regierungsgebäude.",
+            "hu": "Keresd meg a nulla kilométerkövet a kormányzati épület előtt.",
+            "ro": "Căutați borna Kilometrul Zero în fața clădirii guvernului.",
+            "en": "Find the Kilometre Zero stone in front of the government building."
           }
         },
         {
-          "name": "Plaza Mayor",
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
           "coords": [
             -3.7074,
-            40.4155
+            40.4154
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:40",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Verlassen Sie den Platz durch den Arco de Cuchilleros, die berühmteste der neun Zugangsportale.",
-            "hu": "Hagyd el a teret a kilenc kapu leghíresebbikén, az Arco de Cuchilleros boltíven keresztül.",
-            "ro": "Părăsește piața prin Arco de Cuchilleros, cel mai faimos dintre cele nouă porți de acces.",
-            "en": "Leave the square through the Arco de Cuchilleros, the most famous of its nine access arches."
+            "de": "Genießen Sie ein Calamares-Sandwich in den Seitenstraßen.",
+            "hu": "Egyél egy tintahalas szendvicset a mellékutcák egyikében.",
+            "ro": "Savurați un sandviș cu calamar în străzile laterale.",
+            "en": "Enjoy a calamari sandwich in one of the side streets."
           }
         },
         {
-          "name": "Catedral de la Almudena",
+          "name": {
+            "de": "Catedral de la Almudena",
+            "hu": "Almudena-székesegyház",
+            "ro": "Catedrala Almudena",
+            "en": "Almudena Cathedral"
+          },
           "coords": [
             -3.7146,
-            40.4156
+            40.4159
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "10:15",
+          "arrive_at": "10:20",
           "stay_min": 75,
-          "hop_from_prev_min": 10,
+          "hop_from_prev_min": 9,
           "hop_from_prev_km": 0.6,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Die moderne bunte Deckenbemalung im Inneren bildet einen starken Kontrast zur klassischen Architektur.",
-            "hu": "A modern, színes mennyezetfestés éles kontrasztban áll a klasszikus külső architektúrával.",
-            "ro": "Pictura modernă și colorată a tavanului contrastează puternic cu arhitectura clasică a exteriorului.",
-            "en": "The modern, colorful ceiling paintings inside offer a stark contrast to the classical architecture."
+            "de": "Besuchen Sie die Krypta, sie ist oft weniger überfüllt.",
+            "hu": "Látogasd meg a kriptát, gyakran sokkal nyugodtabb.",
+            "ro": "Vizitați cripta, este adesea mult mai puțin aglomerată.",
+            "en": "Visit the crypt, it is often much less crowded."
           }
         },
         {
-          "name": "Palacio Real",
+          "name": {
+            "de": "Königlicher Palast",
+            "hu": "Királyi Palota",
+            "ro": "Palatul Regal",
+            "en": "Royal Palace"
+          },
           "coords": [
             -3.7143,
-            40.4179
+            40.4181
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "11:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
+          "arrive_at": "11:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Buchen Sie Tickets im Voraus, um die oft langen Warteschlangen am Haupteingang zu umgehen.",
-            "hu": "Foglalj jegyet előre, hogy elkerüld a főbejáratnál gyakran kialakuló hosszú sorokat.",
-            "ro": "Rezervă biletele în avans pentru a evita cozile adesea lungi de la intrarea principală.",
-            "en": "Book tickets in advance to skip the often long queues at the main entrance."
+            "de": "Buchen Sie Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Foglalj jegyet előre, hogy elkerüld a hosszú sorban állást.",
+            "ro": "Rezervați bilete în avans pentru a evita cozile lungi.",
+            "en": "Book tickets in advance to avoid long queues."
           }
         },
         {
-          "name": "Gran Vía",
+          "name": {
+            "de": "Tapas-Mittagessen in La Latina",
+            "hu": "Tapas ebéd La Latina negyedben",
+            "ro": "Prânz Tapas în La Latina",
+            "en": "Tapas Lunch in La Latina"
+          },
           "coords": [
-            -3.7025,
-            40.4198
+            -3.711,
+            40.411
+          ],
+          "category": "gastro",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Calle de la Cava Baja ist berühmt für ihre Tapas-Bars.",
+            "hu": "A Calle de la Cava Baja híres a tapas bárjairól.",
+            "ro": "Calle de la Cava Baja este faimoasă pentru barurile sale de tapas.",
+            "en": "Calle de la Cava Baja is famous for its tapas bars."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Vía",
+            "hu": "Gran Vía",
+            "ro": "Gran Vía",
+            "en": "Gran Vía"
+          },
+          "coords": [
+            -3.7035,
+            40.4197
           ],
           "category": "squares/old-town",
-          "arrive_at": "13:10",
+          "arrive_at": "14:59",
           "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
           "tip_5lang": {
-            "de": "Blicken Sie nach oben, um die verzierten Kuppeln der Gebäude aus dem frühen 20. Jahrhundert zu sehen.",
-            "hu": "Nézz felfelé séta közben, hogy megcsodáld a 20. század eleji épületek díszes kupoláit.",
-            "ro": "Privește în sus pentru a admira cupolele ornamentate ale clădirilor de la începutul secolului 20.",
-            "en": "Look up as you walk to admire the ornate domes of the early 20th-century buildings."
+            "de": "Schauen Sie nach oben, um die beeindruckende Architektur zu sehen.",
+            "hu": "Nézz felfelé, hogy lásd a lenyűgöző tetőtéri szobrokat.",
+            "ro": "Priviți în sus pentru a vedea arhitectura impresionantă a acoperișurilor.",
+            "en": "Look up to see the impressive rooftop architecture."
           }
         },
         {
-          "name": "Templo de Debod",
+          "name": {
+            "de": "Templo de Debod",
+            "hu": "Debod-templom",
+            "ro": "Templul lui Debod",
+            "en": "Temple of Debod"
+          },
           "coords": [
             -3.7177,
-            40.424
+            40.4242
           ],
           "category": "natural features",
-          "arrive_at": "14:30",
-          "stay_min": 70,
-          "hop_from_prev_min": 20,
+          "arrive_at": "16:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
           "hop_from_prev_km": 1.0,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Dieser ägyptische Tempel ist der beste Ort in Madrid, um den Sonnenuntergang über dem Casa de Campo zu beobachten.",
-            "hu": "Ez az egyiptomi templom a legjobb hely Madridban, hogy megcsodáld a naplementét a Casa de Campo felett.",
-            "ro": "Acest templu egiptean este cel mai bun loc din Madrid pentru a privi apusul peste Casa de Campo.",
-            "en": "This Egyptian temple is the best spot in Madrid to watch the sunset over the Casa de Campo."
+            "de": "Kommen Sie zum Sonnenuntergang für die besten Fotos.",
+            "hu": "Gyere naplementekor a legjobb fotókért.",
+            "ro": "Veniți la apus pentru cele mai bune fotografii.",
+            "en": "Come at sunset for the best photos."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Madrids historisches Zentrum lässt sich am besten zu Fuß erkunden. Der Vormittag beginnt an der belebten Puerta del Sol und der weitläufigen Plaza Mayor. Mittags bewundern Sie den königlichen Palast und die angrenzende Almudena-Kathedrale. Der Nachmittag bietet einen architektonischen Spaziergang entlang der Gran Vía, bevor der Tag am Templo de Debod ausklingt.",
-        "hu": "Madrid történelmi magja gyalogosan fedezhető fel a legjobban. A délelőtt a nyüzsgő Puerta del Sol és a Plaza Mayor felfedezésével telik. Kora délután a Királyi Palota és a szomszédos Almudena katedrális monumentalitását csodálhatod meg. A délutáni séta a Gran Vía forgatagában folytatódik, majd a Templo de Debodnál zárul.",
-        "ro": "Centrul istoric al Madridului este cel mai bine explorat pe jos. Dimineața începe la animata Puerta del Sol și în vasta Plaza Mayor. La prânz, vei admira Palatul Regal și Catedrala Almudena din vecinătate. După-amiaza oferă o plimbare arhitecturală de-a lungul Gran Vía, înainte de a încheia ziua la Templo de Debod.",
-        "en": "Madrid's historical core is best explored on foot. The morning starts at the bustling Puerta del Sol and the expansive Plaza Mayor. Midday is spent admiring the grand Palacio Real and the adjacent Almudena Cathedral. The afternoon offers an architectural stroll down Gran Vía before ending at the Templo de Debod."
+        "de": "Beginnen Sie Ihren Tag im Herzen Madrids an der Puerta del Sol. Schlendern Sie zur prächtigen Plaza Mayor für einen Kaffee, bevor Sie die spirituelle Weite der Almudena-Kathedrale und den königlichen Glanz des Palastes erleben. Nach einem authentischen Tapas-Mittagessen im Viertel La Latina lassen Sie sich vom Treiben auf der Gran Vía mitreißen und beenden den Tag entspannt am ägyptischen Debod-Tempel.",
+        "hu": "Kezdje a napot Madrid szívében, a Puerta del Solnál. Sétáljon át a fenséges Plaza Mayorra egy kávéra, mielőtt megtapasztalná az Almudena-székesegyház spirituális tágasságát és a Királyi Palota pompáját. Egy autentikus tapas ebéd után La Latina negyedben, merüljön el a Gran Vía nyüzsgésében, majd zárja a napot pihentető módon az egyiptomi Debod-templomnál.",
+        "ro": "Începeți ziua în inima Madridului, la Puerta del Sol. Plimbați-vă spre maiestuoasa Plaza Mayor pentru o cafea, înainte de a experimenta vastitatea spirituală a Catedralei Almudena și splendoarea regală a Palatului. După un prânz autentic cu tapas în cartierul La Latina, lăsați-vă purtat de agitația de pe Gran Vía și încheiați ziua relaxat la templul egiptean Debod.",
+        "en": "Start your day in the heart of Madrid at Puerta del Sol. Stroll to the grand Plaza Mayor for a coffee before experiencing the spiritual vastness of the Almudena Cathedral and the royal splendor of the Palace. After an authentic tapas lunch in the La Latina district, soak up the buzz of the Gran Vía and end the day in a relaxed way at the Egyptian Temple of Debod."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Probieren Sie dieses typische Tintenfisch-Sandwich in den Bars um die Plaza Mayor."
+            "name": "Casa Labra",
+            "tip": "Berühmt für Kabeljau-Kroketten direkt an der Puerta del Sol."
           },
           {
-            "name": "Churros con Chocolate",
-            "tip": "In der Chocolatería San Ginés gibt es die besten Churros der Stadt, traditionell rund um die Uhr."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Ein herzhafter Kichererbseneintopf, der traditionell in mehreren Gängen in Lokalen wie La Bola serviert wird."
+            "name": "Sobrino de Botín",
+            "tip": "Das älteste Restaurant der Welt, spezialisiert auf Spanferkel."
           }
         ],
         "hu": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Kóstold meg a jellegzetes tintahalas szendvicset a Plaza Mayor körüli kis bárokban."
+            "name": "Casa Labra",
+            "tip": "Híres tőkehal-krokettjeiről közvetlenül a Puerta del Sol mellett."
           },
           {
-            "name": "Churros con Chocolate",
-            "tip": "A San Ginés csokoládézó a nap 24 órájában kínálja a város leghíresebb churrosát."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Hagyományos, kiadós csicseriborsós egytálétel, amelyet a La Bola étteremben érdemes kipróbálni."
+            "name": "Sobrino de Botín",
+            "tip": "A világ legrégebbi étterme, specialitása a sült malac."
           }
         ],
         "ro": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Încearcă acest sandviș specific cu calamari în barurile din jurul Plaza Mayor."
+            "name": "Casa Labra",
+            "tip": "Faimos pentru crochetele de cod chiar lângă Puerta del Sol."
           },
           {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés oferă cei mai buni churros din oraș, tradițional la orice oră."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "O tocană consistentă de năut, servită în mai multe feluri în restaurante precum La Bola."
+            "name": "Sobrino de Botín",
+            "tip": "Cel mai vechi restaurant din lume, specializat în purceluș de lapte."
           }
         ],
         "en": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Try this signature fried squid sandwich at the small bars surrounding the Plaza Mayor."
+            "name": "Casa Labra",
+            "tip": "Famous for cod croquettes right next to Puerta del Sol."
           },
           {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés serves the city's most famous churros, traditionally open 24/7."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "A hearty chickpea-based stew, traditionally served in multiple courses at places like La Bola."
+            "name": "Sobrino de Botín",
+            "tip": "The oldest restaurant in the world, specializing in roast suckling pig."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Templo de Debod",
-            "tip": "Der beste Aussichtspunkt für Sonnenuntergänge in Madrid, umgeben von Wasser.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini-Gärten",
-            "tip": "Geometrische Gärten nördlich des Königspalastes, ideal für eine ruhige Pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrids größter öffentlicher Park bietet Waldwege weit abseits des Stadtlärms.",
-            "emoji": "🏞️"
+            "name": "Jardines de Sabatini",
+            "tip": "Ruhige Gärten hinter dem Palast.",
+            "emoji": "🌿"
           }
         ],
         "hu": [
           {
-            "name": "Templo de Debod",
-            "tip": "A legszebb naplementés kilátópont Madridban, víztükörrel körülvéve.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini kertek",
-            "tip": "Geometrikus kertek a Királyi Palota északi részén, ideális hely egy kis pihenésre.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid legnagyobb parkja erdei ösvényekkel vár, távol a város zajától.",
-            "emoji": "🏞️"
+            "name": "Jardines de Sabatini",
+            "tip": "Csendes kertek a palota mögött.",
+            "emoji": "🌿"
           }
         ],
         "ro": [
           {
-            "name": "Templo de Debod",
-            "tip": "Cel mai bun punct de belvedere pentru apus din Madrid, înconjurat de apă.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Grădinile Sabatini",
-            "tip": "Grădini geometrice la nord de Palatul Regal, ideale pentru o pauză liniștită.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Cel mai mare parc din Madrid oferă poteci împădurite departe de zgomotul orașului.",
-            "emoji": "🏞️"
+            "name": "Jardines de Sabatini",
+            "tip": "Grădini liniștite în spatele palatului.",
+            "emoji": "🌿"
           }
         ],
         "en": [
           {
-            "name": "Templo de Debod",
-            "tip": "The prime sunset viewing point in Madrid, beautifully surrounded by reflective water.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini Gardens",
-            "tip": "Geometric gardens just north of the Royal Palace, perfect for a peaceful pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid's largest public park offering wooded trails far removed from city noise.",
-            "emoji": "🏞️"
+            "name": "Jardines de Sabatini",
+            "tip": "Quiet gardens behind the Palace.",
+            "emoji": "🌿"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "El Rastro",
-            "tip": "Madrids berühmtester Open-Air-Flohmarkt, der jeden Sonntagvormittag im Viertel La Latina stattfindet."
-          },
-          {
             "name": "Mercado de San Miguel",
-            "tip": "Ein historischer Markt für hochwertige Tapas, lokale Weine und Gourmet-Produkte."
+            "tip": "Historischer Markt für Gourmet-Häppchen."
           }
         ],
         "hu": [
           {
-            "name": "El Rastro",
-            "tip": "Madrid leghíresebb szabadtéri bolhapiaca, amelyet minden vasárnap délelőtt tartanak a La Latina negyedben."
-          },
-          {
             "name": "Mercado de San Miguel",
-            "tip": "Történelmi piac, ahol minőségi tapasokat, helyi borokat és ínyencségeket árulnak."
+            "tip": "Történelmi piac ínyenc falatokkal."
           }
         ],
         "ro": [
           {
-            "name": "El Rastro",
-            "tip": "Cea mai faimoasă piață de vechituri în aer liber din Madrid, deschisă în fiecare duminică dimineața în La Latina."
-          },
-          {
             "name": "Mercado de San Miguel",
-            "tip": "O piață istorică pentru tapas de calitate, vinuri locale și produse gastronomice gourmet."
+            "tip": "Piață istorică pentru gustări gourmet."
           }
         ],
         "en": [
           {
-            "name": "El Rastro",
-            "tip": "Madrid's most famous open-air flea market, held every Sunday morning in the La Latina neighborhood."
-          },
-          {
             "name": "Mercado de San Miguel",
-            "tip": "A historic market dedicated to high-quality tapas, local wines, and gourmet products."
+            "tip": "Historic market for gourmet bites."
           }
         ]
       },
       "tips": {
         "de": [
-          "Das Zentrum von Madrid ist kompakt, aber die Entfernungen können täuschen, tragen Sie bequeme Schuhe.",
-          "Die Mittagspause der Spanier beginnt meist erst um 14:00 Uhr, planen Sie Ihre Mahlzeiten entsprechend.",
-          "Achten Sie in den belebten Straßen rund um Puerta del Sol und Gran Vía auf Taschendiebe."
+          "Tragen Sie bequeme Schuhe; Madrid hat viele Kopfsteinpflastergassen.",
+          "Mittagessen ist meist zwischen 14:00 und 16:00 Uhr.",
+          "Vorsicht vor Taschendieben in touristischen Gebieten wie Sol."
         ],
         "hu": [
-          "Madrid belvárosa viszonylag kompakt, de a séták összeadódnak, viselj kényelmes cipőt.",
-          "A spanyolok az ebédet általában 14:00 óra után kezdik, tervezd ehhez az étkezéseidet.",
-          "Különösen ügyelj az értékeidre a Puerta del Sol és a Gran Vía zsúfolt utcáin."
+          "Viselj kényelmes cipőt; Madridban sok a macskaköves utca.",
+          "Az ebédidő általában 14:00 és 16:00 között van.",
+          "Vigyázz a zsebtolvajokra a turisztikai helyeken, mint a Sol."
         ],
         "ro": [
-          "Centrul Madridului este compact, dar distanțele de mers se adună, poartă încălțăminte comodă.",
-          "Spaniolii iau masa de prânz abia după ora 14:00, planifică-ți mesele în consecință.",
-          "Fii atent la hoții de buzunare pe străzile aglomerate din jurul Puerta del Sol și Gran Vía."
+          "Purtați încălțăminte comodă; Madrid are multe străzi pavate.",
+          "Prânzul este de obicei între orele 14:00 și 16:00.",
+          "Atenție la hoții de buzunare în zonele turistice precum Sol."
         ],
         "en": [
-          "Madrid's center is compact, but the walking distances add up quickly, wear comfortable shoes.",
-          "The Spanish lunch doesn't typically start until 2:00 PM, adjust your meal schedule accordingly.",
-          "Keep a close eye on your belongings in the crowded streets around Puerta del Sol and Gran Vía."
+          "Wear comfortable shoes; Madrid has many cobblestone streets.",
+          "Lunchtime is usually between 14:00 and 16:00.",
+          "Beware of pickpockets in tourist areas like Sol."
         ]
       }
     },
@@ -334,624 +309,230 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:35",
-      "total_km": 5.0,
-      "stop_count": 5,
-      "stops": [
-        {
-          "name": "Plaza Mayor",
-          "coords": [
-            -3.7074,
-            40.4155
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Fahrräder müssen in den Fußgängerzonen rund um den Platz oft geschoben werden.",
-            "hu": "A tér körüli sétálóutcákban gyakran tolni kell a kerékpárt.",
-            "ro": "Bicicletele trebuie deseori împinse în zonele pietonale din jurul pieței.",
-            "en": "Bicycles often need to be walked in the pedestrian zones surrounding the square."
-          }
-        },
-        {
-          "name": "Palacio Real",
-          "coords": [
-            -3.7143,
-            40.4179
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:40",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Nutzen Sie die Radwege in der Nähe, um sicher zur Plaza de Oriente zu gelangen.",
-            "hu": "Használd a közeli kerékpárutakat, hogy biztonságosan eljuss a Plaza de Oriente-hez.",
-            "ro": "Folosește pistele de biciclete din apropiere pentru a ajunge în siguranță la Plaza de Oriente.",
-            "en": "Use the nearby cycle lanes to safely approach the Plaza de Oriente."
-          }
-        },
-        {
-          "name": "Templo de Debod",
-          "coords": [
-            -3.7177,
-            40.424
-          ],
-          "category": "natural features",
-          "arrive_at": "11:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Der umliegende Park Parque del Oeste bietet ausgezeichnete, schattige Radwege.",
-            "hu": "A környező Parque del Oeste park kiváló, árnyékos kerékpárutakat kínál.",
-            "ro": "Parcul din jur, Parque del Oeste, oferă piste excelente de biciclete la umbră.",
-            "en": "The surrounding Parque del Oeste offers excellent, shaded cycling paths."
-          }
-        },
-        {
-          "name": "Museo del Prado",
-          "coords": [
-            -3.6922,
-            40.4138
-          ],
-          "category": "museums",
-          "arrive_at": "12:05",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Fahren Sie entlang des breiten Paseo del Prado, der über eigene Radstreifen verfügt.",
-            "hu": "Tekerj végig a széles Paseo del Prado sugárúton, amely külön kerékpársávval rendelkezik.",
-            "ro": "Mergi de-a lungul bulevardului larg Paseo del Prado, care dispune de piste dedicate pentru biciclete.",
-            "en": "Cycle along the wide Paseo del Prado, which features dedicated bicycle lanes."
-          }
-        },
-        {
-          "name": "Parque del Retiro",
-          "coords": [
-            -3.6828,
-            40.4153
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "13:50",
-          "stay_min": 105,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Mieten Sie nach Ihrer Radtour ein Ruderboot auf dem künstlichen See des Parks.",
-            "hu": "A bringázás után bérelj egy evezős csónakot a park mesterséges taván.",
-            "ro": "După plimbarea cu bicicleta, închiriază o barcă cu vâsle pe lacul artificial al parcului.",
-            "en": "After cycling, rent a rowboat on the park's artificial lake for a change of pace."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Mit dem Fahrrad überbrücken Sie in Madrid mühelos die Strecken zwischen den großen Sehenswürdigkeiten. Von der Plaza Mayor radeln Sie zum weitläufigen Platz vor dem Königspalast. Nach einem Stopp am Templo de Debod fahren Sie über den Paseo del Prado ins Kunstviertel und beenden die Tour im grünen Parque del Retiro.",
-        "hu": "Kerékpárral könnyedén áthidalhatod a távolságot Madrid főbb látványosságai között. A Plaza Mayor érintése után eltekersz a Királyi Palota előtti tágas térre. A Templo de Debod meglátogatását követően a fás Paseo del Prado sugárúton haladsz a múzeumi negyed felé, majd a napot a Retiro parkban zárod.",
-        "ro": "Bicicleta te ajută să acoperi ușor distanțele dintre atracțiile majore din Madrid. De la Plaza Mayor, pedalezi spre piața vastă din fața Palatului Regal. După o oprire la Templo de Debod, cobori pe Paseo del Prado către cartierul muzeelor și îți închei ziua în verdele Parque del Retiro.",
-        "en": "A bike allows you to effortlessly bridge the distances between Madrid's major sights. From Plaza Mayor, you'll cycle to the vast square outside the Royal Palace. After a stop at Templo de Debod, ride down the leafy Paseo del Prado to the museum district, ending your day in the expansive Retiro Park."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Bocadillo de Calamares",
-            "tip": "Probieren Sie dieses typische Tintenfisch-Sandwich in den Bars um die Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "In der Chocolatería San Ginés gibt es die besten Churros der Stadt, traditionell rund um die Uhr."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Ein herzhafter Kichererbseneintopf, der traditionell in mehreren Gängen in Lokalen wie La Bola serviert wird."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Bocadillo de Calamares",
-            "tip": "Kóstold meg a jellegzetes tintahalas szendvicset a Plaza Mayor körüli kis bárokban."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "A San Ginés csokoládézó a nap 24 órájában kínálja a város leghíresebb churrosát."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Hagyományos, kiadós csicseriborsós egytálétel, amelyet a La Bola étteremben érdemes kipróbálni."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Bocadillo de Calamares",
-            "tip": "Încearcă acest sandviș specific cu calamari în barurile din jurul Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés oferă cei mai buni churros din oraș, tradițional la orice oră."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "O tocană consistentă de năut, servită în mai multe feluri în restaurante precum La Bola."
-          }
-        ],
-        "en": [
-          {
-            "name": "Bocadillo de Calamares",
-            "tip": "Try this signature fried squid sandwich at the small bars surrounding the Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés serves the city's most famous churros, traditionally open 24/7."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "A hearty chickpea-based stew, traditionally served in multiple courses at places like La Bola."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Templo de Debod",
-            "tip": "Der beste Aussichtspunkt für Sonnenuntergänge in Madrid, umgeben von Wasser.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini-Gärten",
-            "tip": "Geometrische Gärten nördlich des Königspalastes, ideal für eine ruhige Pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrids größter öffentlicher Park bietet Waldwege weit abseits des Stadtlärms.",
-            "emoji": "🏞️"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Templo de Debod",
-            "tip": "A legszebb naplementés kilátópont Madridban, víztükörrel körülvéve.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini kertek",
-            "tip": "Geometrikus kertek a Királyi Palota északi részén, ideális hely egy kis pihenésre.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid legnagyobb parkja erdei ösvényekkel vár, távol a város zajától.",
-            "emoji": "🏞️"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Templo de Debod",
-            "tip": "Cel mai bun punct de belvedere pentru apus din Madrid, înconjurat de apă.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Grădinile Sabatini",
-            "tip": "Grădini geometrice la nord de Palatul Regal, ideale pentru o pauză liniștită.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Cel mai mare parc din Madrid oferă poteci împădurite departe de zgomotul orașului.",
-            "emoji": "🏞️"
-          }
-        ],
-        "en": [
-          {
-            "name": "Templo de Debod",
-            "tip": "The prime sunset viewing point in Madrid, beautifully surrounded by reflective water.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini Gardens",
-            "tip": "Geometric gardens just north of the Royal Palace, perfect for a peaceful pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid's largest public park offering wooded trails far removed from city noise.",
-            "emoji": "🏞️"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "El Rastro",
-            "tip": "Madrids berühmtester Open-Air-Flohmarkt, der jeden Sonntagvormittag im Viertel La Latina stattfindet."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "Ein historischer Markt für hochwertige Tapas, lokale Weine und Gourmet-Produkte."
-          }
-        ],
-        "hu": [
-          {
-            "name": "El Rastro",
-            "tip": "Madrid leghíresebb szabadtéri bolhapiaca, amelyet minden vasárnap délelőtt tartanak a La Latina negyedben."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "Történelmi piac, ahol minőségi tapasokat, helyi borokat és ínyencségeket árulnak."
-          }
-        ],
-        "ro": [
-          {
-            "name": "El Rastro",
-            "tip": "Cea mai faimoasă piață de vechituri în aer liber din Madrid, deschisă în fiecare duminică dimineața în La Latina."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "O piață istorică pentru tapas de calitate, vinuri locale și produse gastronomice gourmet."
-          }
-        ],
-        "en": [
-          {
-            "name": "El Rastro",
-            "tip": "Madrid's most famous open-air flea market, held every Sunday morning in the La Latina neighborhood."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "A historic market dedicated to high-quality tapas, local wines, and gourmet products."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Nutzen Sie das BiciMAD-System der Stadt; es bietet E-Bikes, die das Fahren bei Steigungen erleichtern.",
-          "Tragen Sie einen Helm, da der Verkehr in den Hauptverkehrsstraßen dicht sein kann.",
-          "Ketten Sie Ihr Fahrrad immer an festen Ständern an, wenn Sie Sehenswürdigkeiten besuchen."
-        ],
-        "hu": [
-          "Használd a város BiciMAD rendszerét, az elektromos rásegítés sokat segít az emelkedőkön.",
-          "Viselj sisakot, mert a nagyobb utakon a forgalom elég sűrű lehet.",
-          "Mindig stabil kerékpártárolóhoz zárd a biciklidet, amíg a múzeumokban nézelődsz."
-        ],
-        "ro": [
-          "Folosește sistemul BiciMAD al orașului; oferă biciclete electrice care ajută pe traseele în pantă.",
-          "Poartă cască, deoarece traficul pe arterele principale poate fi intens.",
-          "Leagă-ți mereu bicicleta de standuri fixe în timp ce vizitezi obiectivele."
-        ],
-        "en": [
-          "Use the city's BiciMAD system; the electric assist is very helpful on Madrid's inclines.",
-          "Wear a helmet as traffic on the main avenues can be heavy.",
-          "Always lock your bike to dedicated stands when going inside monuments."
-        ]
-      }
-    },
-    "transit": {
-      "mode": "transit",
-      "speed_kmh": 15,
-      "start": "09:00",
-      "end_estimate": "17:25",
-      "total_km": 5.7,
+      "end_estimate": "16:30",
+      "total_km": 12.5,
       "stop_count": 6,
       "stops": [
         {
-          "name": "Puerta del Sol",
+          "name": {
+            "de": "Parque del Retiro",
+            "hu": "Retiro park",
+            "ro": "Parcul Retiro",
+            "en": "Retiro Park"
+          },
           "coords": [
-            -3.7038,
-            40.4168
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Dieser Knotenpunkt ist mit mehreren Metro- und Cercanías-Linien leicht erreichbar.",
-            "hu": "Ez a közlekedési csomópont több metró- és Cercanías vonallal is könnyen elérhető.",
-            "ro": "Acest nod este ușor accesibil prin mai multe linii de metrou și trenuri Cercanías.",
-            "en": "This central hub is easily reachable by multiple metro and Cercanías lines."
-          }
-        },
-        {
-          "name": "Plaza Mayor",
-          "coords": [
-            -3.7074,
-            40.4155
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:40",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Nur einen kurzen Spaziergang von Sol entfernt, perfekt, um das Viertel zu Fuß zu erkunden.",
-            "hu": "Csak egy rövid sétára van a Sol-tól, tökéletes kezdése a gyalogos városnézésnek.",
-            "ro": "La doar o scurtă plimbare de Sol, perfect pentru a explora zona pe jos.",
-            "en": "Just a short walk from Sol, perfectly transitioning you to exploring the area on foot."
-          }
-        },
-        {
-          "name": "Palacio Real",
-          "coords": [
-            -3.7143,
-            40.4179
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "10:20",
-          "stay_min": 80,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Spazieren Sie entlang der Calle Mayor, um die Architektur der Habsburger zu bewundern.",
-            "hu": "Sétálj végig a Calle Mayor utcán, és csodáld meg a Habsburg-kori építészetet.",
-            "ro": "Plimbă-te de-a lungul Calle Mayor pentru a admira arhitectura din perioada habsburgică.",
-            "en": "Walk down Calle Mayor to admire the architecture from the Habsburg era."
-          }
-        },
-        {
-          "name": "Museo Reina Sofía",
-          "coords": [
-            -3.6943,
-            40.4079
-          ],
-          "category": "museums",
-          "arrive_at": "11:55",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nehmen Sie die Metro bis Estación del Arte, direkt gegenüber dem Museumseingang.",
-            "hu": "Utazz metróval az Estación del Arte megállóig, amely pont a múzeum bejáratánál van.",
-            "ro": "Ia metroul până la Estación del Arte, aflată exact vizavi de intrarea în muzeu.",
-            "en": "Take the metro to Estación del Arte, located right across from the museum entrance."
-          }
-        },
-        {
-          "name": "Museo del Prado",
-          "coords": [
-            -3.6922,
-            40.4138
-          ],
-          "category": "museums",
-          "arrive_at": "13:50",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Der Spaziergang zwischen diesen beiden großen Museen auf dem Paseo del Prado ist landschaftlich sehr reizvoll.",
-            "hu": "A két nagy múzeum közötti séta a Paseo del Prado fákkal övezett sétányán gyönyörű.",
-            "ro": "Plimbarea între aceste două mari muzee pe Paseo del Prado este foarte pitorească.",
-            "en": "The walk between these two major museums along the Paseo del Prado is very scenic."
-          }
-        },
-        {
-          "name": "Parque del Retiro",
-          "coords": [
-            -3.6828,
+            -3.6833,
             40.4153
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "15:40",
-          "stay_min": 105,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Verlassen Sie das Museum und betreten Sie den Park direkt hinter dem Prado für eine Nachmittagspause.",
-            "hu": "A múzeumból kilépve azonnal a Prado mögötti parkban találod magad egy délutáni pihenőre.",
-            "ro": "Părăsește muzeul și intră direct în parcul din spatele Prado pentru o pauză de după-amiază.",
-            "en": "Exit the museum and step right into the park located directly behind the Prado for a rest."
+            "de": "Radfahren ist auf den breiten Wegen erlaubt. Besuchen Sie den Kristallpalast.",
+            "hu": "A kerékpározás megengedett a széles utakon. Nézd meg a Kristálypalotát.",
+            "ro": "Ciclismul este permis pe aleile largi. Vizitați Palatul de Cristal.",
+            "en": "Cycling is allowed on the wide paths. Visit the Crystal Palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Prado-Museum",
+            "hu": "Prado Múzeum",
+            "ro": "Muzeul Prado",
+            "en": "Prado Museum"
+          },
+          "coords": [
+            -3.6921,
+            40.4137
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer in der Nähe des Goya-Eingangs.",
+            "hu": "Vannak kerékpártárolók a Goya-bejárat közelében.",
+            "ro": "Există suporturi pentru biciclete lângă intrarea Goya.",
+            "en": "There are bike racks near the Goya entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Reina Sofía",
+            "hu": "Reina Sofía Múzeum",
+            "ro": "Muzeul Reina Sofía",
+            "en": "Reina Sofía Museum"
+          },
+          "coords": [
+            -3.6946,
+            40.4078
+          ],
+          "category": "museums",
+          "arrive_at": "12:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Hier befindet sich Picassos Guernica.",
+            "hu": "Itt található Picasso Guernicája.",
+            "ro": "Aici se află Guernica lui Picasso.",
+            "en": "This is home to Picasso's Guernica."
+          }
+        },
+        {
+          "name": {
+            "de": "Madrid Río",
+            "hu": "Madrid Río park",
+            "ro": "Madrid Río",
+            "en": "Madrid Río"
+          },
+          "coords": [
+            -3.719,
+            40.408
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekter Radweg entlang des Flusses Manzanares.",
+            "hu": "Tökéletes kerékpárút a Manzanares folyó mentén.",
+            "ro": "Pistă de biciclete perfectă de-a lungul râului Manzanares.",
+            "en": "Perfect bike path along the Manzanares River."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Campo",
+            "hu": "Casa de Campo",
+            "ro": "Casa de Campo",
+            "en": "Casa de Campo"
+          },
+          "coords": [
+            -3.74,
+            40.42
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der größte Park Madrids, ideal für Mountainbikes.",
+            "hu": "Madrid legnagyobb parkja, ideális mountain bike-hoz.",
+            "ro": "Cel mai mare parc din Madrid, ideal pentru mountain bike.",
+            "en": "Madrid's largest park, ideal for mountain bikes."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Madrids effizientes Metrosystem verbindet die wichtigsten Stadtviertel. Der Vormittag konzentriert sich auf das historische Zentrum, vom Puerta del Sol bis zum Königspalast. Am Mittag steigen Sie in die Metro, um schnell in das südliche Kunstviertel zu wechseln. Dort erkunden Sie zu Fuß die Meisterwerke im Reina Sofía und Prado, gefolgt von einem entspannten Abschluss im Retiro-Park.",
-        "hu": "Madrid kiváló metróhálózata összeköti a legfőbb városrészeket. A délelőtt a történelmi központ gyalogos bejárásáról szól, a Puerta del Sol-tól a Királyi Palotáig. Délben a metróval gyorsan átérsz a déli művészeti negyedbe, ahol gyalog fedezheted fel a Reina Sofía és a Prado remekműveit, végül a Retiro parkban pihenhetsz meg.",
-        "ro": "Sistemul eficient de metrou din Madrid conectează rapid principalele cartiere. Dimineața este dedicată centrului istoric, explorând pe jos de la Puerta del Sol până la Palatul Regal. La prânz, iei metroul către cartierul artelor din sud. Aici vizitezi pe jos capodoperele din Reina Sofía și Prado, finalizând ziua relaxant în Parcul Retiro.",
-        "en": "Madrid's efficient metro system connects major districts effortlessly. The morning focuses on the historic center, walking from Puerta del Sol to the Royal Palace. Midday, you hop on the transit to reach the southern art district. There, you explore the masterpieces of Reina Sofía and the Prado on foot, concluding with relaxation in Retiro Park."
+        "de": "Erkunden Sie Madrids grüne Lungen mit dem Fahrrad. Starten Sie im Retiro-Park, radeln Sie am Prado vorbei zum Reina Sofía und folgen Sie dann dem Flussufer des Madrid Río bis zur riesigen Casa de Campo.",
+        "hu": "Fedezze fel Madrid zöld tüdejét kerékpárral. Kezdjen a Retiro parkban, tekerjen el a Prado mellett a Reina Sofía múzeumig, majd kövesse a Madrid Río folyóparti útjait a hatalmas Casa de Campo parkig.",
+        "ro": "Explorați plămânii verzi ai Madridului cu bicicleta. Începeți în parcul Retiro, pedalați pe lângă Prado până la Reina Sofía și apoi urmați malul râului Madrid Río până la vastul parc Casa de Campo.",
+        "en": "Explore Madrid's green lungs by bike. Start in Retiro Park, cycle past the Prado to the Reina Sofía, and then follow the riverbank of Madrid Río to the massive Casa de Campo park."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Probieren Sie dieses typische Tintenfisch-Sandwich in den Bars um die Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "In der Chocolatería San Ginés gibt es die besten Churros der Stadt, traditionell rund um die Uhr."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Ein herzhafter Kichererbseneintopf, der traditionell in mehreren Gängen in Lokalen wie La Bola serviert wird."
+            "name": "Café del Lago",
+            "tip": "Pause mit Seeblick in Casa de Campo."
           }
         ],
         "hu": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Kóstold meg a jellegzetes tintahalas szendvicset a Plaza Mayor körüli kis bárokban."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "A San Ginés csokoládézó a nap 24 órájában kínálja a város leghíresebb churrosát."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Hagyományos, kiadós csicseriborsós egytálétel, amelyet a La Bola étteremben érdemes kipróbálni."
+            "name": "Café del Lago",
+            "tip": "Pihenő tóra néző kilátással a Casa de Campóban."
           }
         ],
         "ro": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Încearcă acest sandviș specific cu calamari în barurile din jurul Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés oferă cei mai buni churros din oraș, tradițional la orice oră."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "O tocană consistentă de năut, servită în mai multe feluri în restaurante precum La Bola."
+            "name": "Café del Lago",
+            "tip": "Pauză cu vedere la lac în Casa de Campo."
           }
         ],
         "en": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Try this signature fried squid sandwich at the small bars surrounding the Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés serves the city's most famous churros, traditionally open 24/7."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "A hearty chickpea-based stew, traditionally served in multiple courses at places like La Bola."
+            "name": "Café del Lago",
+            "tip": "Break with a lake view in Casa de Campo."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Templo de Debod",
-            "tip": "Der beste Aussichtspunkt für Sonnenuntergänge in Madrid, umgeben von Wasser.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini-Gärten",
-            "tip": "Geometrische Gärten nördlich des Königspalastes, ideal für eine ruhige Pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrids größter öffentlicher Park bietet Waldwege weit abseits des Stadtlärms.",
-            "emoji": "🏞️"
+            "name": "Rosaleda del Retiro",
+            "tip": "Wunderschöner Rosengarten.",
+            "emoji": "🌹"
           }
         ],
         "hu": [
           {
-            "name": "Templo de Debod",
-            "tip": "A legszebb naplementés kilátópont Madridban, víztükörrel körülvéve.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini kertek",
-            "tip": "Geometrikus kertek a Királyi Palota északi részén, ideális hely egy kis pihenésre.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid legnagyobb parkja erdei ösvényekkel vár, távol a város zajától.",
-            "emoji": "🏞️"
+            "name": "Rosaleda del Retiro",
+            "tip": "Gyönyörű rózsakert.",
+            "emoji": "🌹"
           }
         ],
         "ro": [
           {
-            "name": "Templo de Debod",
-            "tip": "Cel mai bun punct de belvedere pentru apus din Madrid, înconjurat de apă.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Grădinile Sabatini",
-            "tip": "Grădini geometrice la nord de Palatul Regal, ideale pentru o pauză liniștită.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Cel mai mare parc din Madrid oferă poteci împădurite departe de zgomotul orașului.",
-            "emoji": "🏞️"
+            "name": "Rosaleda del Retiro",
+            "tip": "Grădină superbă de trandafiri.",
+            "emoji": "🌹"
           }
         ],
         "en": [
           {
-            "name": "Templo de Debod",
-            "tip": "The prime sunset viewing point in Madrid, beautifully surrounded by reflective water.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini Gardens",
-            "tip": "Geometric gardens just north of the Royal Palace, perfect for a peaceful pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid's largest public park offering wooded trails far removed from city noise.",
-            "emoji": "🏞️"
+            "name": "Rosaleda del Retiro",
+            "tip": "Beautiful rose garden.",
+            "emoji": "🌹"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "El Rastro",
-            "tip": "Madrids berühmtester Open-Air-Flohmarkt, der jeden Sonntagvormittag im Viertel La Latina stattfindet."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "Ein historischer Markt für hochwertige Tapas, lokale Weine und Gourmet-Produkte."
+            "name": "La Bicicleta Café",
+            "tip": "Fahrrad-Themen-Café mit Merchandise."
           }
         ],
         "hu": [
           {
-            "name": "El Rastro",
-            "tip": "Madrid leghíresebb szabadtéri bolhapiaca, amelyet minden vasárnap délelőtt tartanak a La Latina negyedben."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "Történelmi piac, ahol minőségi tapasokat, helyi borokat és ínyencségeket árulnak."
+            "name": "La Bicicleta Café",
+            "tip": "Kerékpáros témájú kávézó ajándéktárgyakkal."
           }
         ],
         "ro": [
           {
-            "name": "El Rastro",
-            "tip": "Cea mai faimoasă piață de vechituri în aer liber din Madrid, deschisă în fiecare duminică dimineața în La Latina."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "O piață istorică pentru tapas de calitate, vinuri locale și produse gastronomice gourmet."
+            "name": "La Bicicleta Café",
+            "tip": "Cafenea cu tematică de biciclete și suveniruri."
           }
         ],
         "en": [
           {
-            "name": "El Rastro",
-            "tip": "Madrid's most famous open-air flea market, held every Sunday morning in the La Latina neighborhood."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "A historic market dedicated to high-quality tapas, local wines, and gourmet products."
+            "name": "La Bicicleta Café",
+            "tip": "Bicycle-themed cafe with merchandise."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine 'Tarjeta Multi'-Karte an jedem Automaten, um sie mit Mehrfahrtenkarten für Metro und Bus aufzuladen.",
-          "Die Metro in Madrid ist schnell und sauber, bewahren Sie jedoch Ihr Ticket auf, um das Drehkreuz beim Verlassen zu öffnen.",
-          "Vermeiden Sie die Metro während der Hauptverkehrszeiten am Morgen und Abend, wenn möglich."
+          "Nutzen Sie BiciMAD, das städtische Elektrofahrrad-System.",
+          "Vermeiden Sie die Hauptverkehrsstraßen; nutzen Sie Nebenstraßen oder Radwege."
         ],
         "hu": [
-          "Vegyél egy 'Tarjeta Multi' kártyát bármelyik automatából, és töltsd fel tízes gyűjtőjeggyel.",
-          "A madridi metró gyors és tiszta, de őrizd meg a jegyed, mert kifele is használni kell a kapuknál.",
-          "Lehetőség szerint kerüld a metrózást a reggeli és az esti csúcsforgalom idején."
+          "Használd a BiciMAD-ot, a városi elektromos kerékpárrendszert.",
+          "Kerüld a főutakat; használd a mellékutcákat vagy kerékpárutakat."
         ],
         "ro": [
-          "Cumpără un card 'Tarjeta Multi' de la orice automat pentru a-l încărca cu bilete cu mai multe călătorii pentru metrou și autobuz.",
-          "Metroul din Madrid este rapid și curat, dar păstrează biletul, ai nevoie de el pentru a deschide turnichetul la ieșire.",
-          "Evită utilizarea metroului în timpul orelor de vârf dimineața și seara, dacă este posibil."
+          "Folosiți BiciMAD, sistemul municipal de biciclete electrice.",
+          "Evitați străzile principale; folosiți străzile secundare sau pistele de biciclete."
         ],
         "en": [
-          "Purchase a 'Tarjeta Multi' card at any machine to load with multi-journey tickets for the metro and bus.",
-          "Madrid's metro is fast and clean, but keep your ticket to open the turnstile when exiting.",
-          "Try to avoid using the metro during the morning and evening rush hours if possible."
+          "Use BiciMAD, the city's electric bike system.",
+          "Avoid main thoroughfares; use side streets or bike paths."
         ]
       }
     },
@@ -959,321 +540,484 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:35",
-      "total_km": 6.0,
-      "stop_count": 6,
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 7,
       "stops": [
         {
-          "name": "Templo de Debod",
-          "coords": [
-            -3.7177,
-            40.424
-          ],
-          "category": "natural features",
-          "arrive_at": "09:10",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parken Sie im nahegelegenen Parkhaus unter der Plaza de España, bevor Sie zum Tempel gehen.",
-            "hu": "Parkolj le a Plaza de España alatti mélygarázsban, mielőtt elsétálsz a templomhoz.",
-            "ro": "Parchează în garajul subteran din apropiere, sub Plaza de España, înainte de a merge la templu.",
-            "en": "Park in the nearby underground garage below Plaza de España before walking to the temple."
-          }
-        },
-        {
-          "name": "Palacio Real",
+          "name": {
+            "de": "Cluster West: Königlicher Palast",
+            "hu": "Nyugati klaszter: Királyi Palota",
+            "ro": "Cluster Vest: Palatul Regal",
+            "en": "West Cluster: Royal Palace"
+          },
           "coords": [
             -3.7143,
-            40.4179
+            40.4181
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "10:10",
-          "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.0,
-          "hop_mode": "walk",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Spazieren Sie durch die wunderschönen Jardines de Sabatini auf dem Weg zum Palast.",
-            "hu": "Sétálj át a gyönyörű Sabatini kerteken a palotához vezető úton.",
-            "ro": "Plimbă-te prin frumoasele Grădini Sabatini în drum spre palat.",
-            "en": "Stroll through the beautiful Sabatini Gardens on your way to the palace."
+            "de": "Parken Sie im Parkhaus Plaza de Oriente.",
+            "hu": "Parkolj a Plaza de Oriente mélygarázsában.",
+            "ro": "Parcați în parcarea subterană Plaza de Oriente.",
+            "en": "Park in the Plaza de Oriente underground car park."
           }
         },
         {
-          "name": "Catedral de la Almudena",
+          "name": {
+            "de": "Cluster West: Almudena-Kathedrale",
+            "hu": "Nyugati klaszter: Almudena-székesegyház",
+            "ro": "Cluster Vest: Catedrala Almudena",
+            "en": "West Cluster: Almudena Cathedral"
+          },
           "coords": [
             -3.7146,
-            40.4156
+            40.4159
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "11:35",
-          "stay_min": 75,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Die Kathedrale befindet sich direkt gegenüber dem Palast, Sie müssen das Auto nicht umparken.",
-            "hu": "A katedrális közvetlenül a palotával szemben van, nem kell átparkolni az autót.",
-            "ro": "Catedrala se află chiar vizavi de palat, nu este nevoie să muți mașina.",
-            "en": "The cathedral is directly across from the palace courtyard, no need to move your car."
+            "de": "Zu Fuß vom Parkplatz aus erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking area."
           }
         },
         {
-          "name": "Museo del Prado",
+          "name": {
+            "de": "Cluster Ost: Prado-Museum",
+            "hu": "Keleti klaszter: Prado Múzeum",
+            "ro": "Cluster Est: Muzeul Prado",
+            "en": "East Cluster: Prado Museum"
+          },
           "coords": [
-            -3.6922,
-            40.4138
+            -3.6921,
+            40.4137
           ],
           "category": "museums",
-          "arrive_at": "13:05",
+          "arrive_at": "11:52",
           "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
           "tip_5lang": {
-            "de": "Fahren Sie zum Paseo del Prado und nutzen Sie das Parkhaus an der Plaza de las Cortes.",
-            "hu": "Vezess át a Paseo del Prado-hoz, és használd a Plaza de las Cortes parkolóházát.",
-            "ro": "Condu spre Paseo del Prado și folosește parcarea subterană de la Plaza de las Cortes.",
-            "en": "Drive over to the Paseo del Prado and use the parking garage at Plaza de las Cortes."
+            "de": "Fahrt zum Parkhaus Las Cortes.",
+            "hu": "Vezess a Las Cortes parkolóházhoz.",
+            "ro": "Conduceți spre parcarea Las Cortes.",
+            "en": "Drive to Las Cortes car park."
           }
         },
         {
-          "name": "Parque del Retiro",
+          "name": {
+            "de": "Cluster Ost: Retiro-Park",
+            "hu": "Keleti klaszter: Retiro park",
+            "ro": "Cluster Est: Parcul Retiro",
+            "en": "East Cluster: Retiro Park"
+          },
           "coords": [
-            -3.6828,
+            -3.6833,
             40.4153
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "14:55",
+          "arrive_at": "13:42",
           "stay_min": 75,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Gehen Sie direkt hinter dem Museum den Hügel hinauf zum Eingang des Retiro-Parks.",
-            "hu": "A múzeum mögött azonnal sétálj fel a dombon a Retiro park bejáratához.",
-            "ro": "Chiar în spatele muzeului, urcă dealul direct spre intrarea în Parcul Retiro.",
-            "en": "Just behind the museum, walk up the hill directly to the entrance of Retiro Park."
+            "de": "Spaziergang vom Prado aus.",
+            "hu": "Séta a Prado felől.",
+            "ro": "Plimbare dinspre Prado.",
+            "en": "Walk from the Prado."
           }
         },
         {
-          "name": "Museo Reina Sofía",
+          "name": {
+            "de": "Bernabéu-Stadion",
+            "hu": "Bernabéu Stadion",
+            "ro": "Stadionul Bernabéu",
+            "en": "Bernabéu Stadium"
+          },
           "coords": [
-            -3.6943,
-            40.4079
+            -3.6883,
+            40.4531
           ],
-          "category": "museums",
-          "arrive_at": "16:25",
-          "stay_min": 130,
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:12",
+          "stay_min": 60,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.8,
-          "hop_mode": "walk",
+          "hop_from_prev_km": 6.0,
           "tip_5lang": {
-            "de": "Ein angenehmer Spaziergang vom Park zurück zum Kunstdreieck. Verpassen Sie nicht Picassos Guernica.",
-            "hu": "Kellemes séta a parkból vissza a művészeti háromszögbe. Ne hagyd ki Picasso Guernicáját.",
-            "ro": "O plimbare plăcută din parc înapoi în triunghiul artelor. Nu rata Guernica de Picasso.",
-            "en": "A pleasant walk from the park back into the art triangle. Don't miss Picasso's Guernica."
+            "de": "Parken Sie im Einkaufszentrum Moda Shopping gegenüber.",
+            "hu": "Parkolj a szemközti Moda Shopping központban.",
+            "ro": "Parcați la centrul comercial Moda Shopping de vizavi.",
+            "en": "Park at the Moda Shopping center opposite."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "In einer Großstadt wie Madrid bietet das Auto die Möglichkeit, zwischen weiter entfernten Vierteln zu pendeln. Sie parken zunächst nahe der Plaza de España, um den Templo de Debod, den Palast und die Kathedrale zu Fuß zu erkunden. Mittags fahren Sie in das Kunstviertel am Paseo del Prado. Dort parken Sie erneut und besuchen das Prado-Museum, entspannen im Retiro-Park und beenden den Tag vor moderner Kunst im Reina Sofía.",
-        "hu": "Egy olyan metropoliszban, mint Madrid, az autó praktikus a távolabbi kerületek összekötésére. Reggel a Plaza de España közelében parkolva gyalog járod be a Templo de Debodot, a Palotát és a Katedrálist. Délben átvezetsz a Paseo del Prado művészeti negyedébe. Ott újra leparkolva megnézed a Prado-t, pihensz a Retiro parkban, majd a Reina Sofía modern művészetével zárod a napot.",
-        "ro": "Într-o metropolă precum Madrid, mașina conectează rapid zonele mai îndepărtate. Dimineața parchezi lângă Plaza de España pentru a explora pe jos Templo de Debod, Palatul și Catedrala. La prânz, conduci spre cartierul muzeelor de pe Paseo del Prado. Parchezi din nou, vizitezi Prado, te relaxezi în Parcul Retiro și închei ziua cu arta modernă de la Reina Sofía.",
-        "en": "In a metropolis like Madrid, a car connects distant districts efficiently. You'll first park near Plaza de España to explore Templo de Debod, the Palace, and the Cathedral on foot. Midday, drive to the art district along Paseo del Prado. After parking, you'll visit the Prado, relax in Retiro Park, and finish your day viewing modern art at the Reina Sofía."
+        "de": "Nutzen Sie das Auto strategisch, um zwischen den Hauptvierteln zu wechseln. Erkunden Sie zuerst den westlichen königlichen Komplex zu Fuß. Fahren Sie dann zum Museumsdistrikt am Prado und Retiro-Park. Beenden Sie den Tag im Norden beim imposanten Bernabéu-Stadion.",
+        "hu": "Használja az autót stratégiailag a főbb negyedek közötti váltáshoz. Először fedezze fel a nyugati királyi negyedet gyalog. Ezután hajtson át a Prado és a Retiro park környéki múzeumi negyedbe. Zárja a napot északon, az impozáns Bernabéu stadionnál.",
+        "ro": "Folosiți mașina strategic pentru a schimba cartierele principale. Explorați mai întâi complexul regal de vest pe jos. Apoi conduceți spre districtul muzeelor de lângă Prado și Parcul Retiro. Încheiați ziua în nord, la impunătorul stadion Bernabéu.",
+        "en": "Use the car strategically to switch between main districts. First, explore the western royal complex on foot. Then drive to the museum district near Prado and Retiro Park. End the day in the north at the imposing Bernabéu stadium."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Probieren Sie dieses typische Tintenfisch-Sandwich in den Bars um die Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "In der Chocolatería San Ginés gibt es die besten Churros der Stadt, traditionell rund um die Uhr."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Ein herzhafter Kichererbseneintopf, der traditionell in mehreren Gängen in Lokalen wie La Bola serviert wird."
+            "name": "Lhardy",
+            "tip": "Historisches Restaurant mit exquisitem Cocido Madrileño."
           }
         ],
         "hu": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Kóstold meg a jellegzetes tintahalas szendvicset a Plaza Mayor körüli kis bárokban."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "A San Ginés csokoládézó a nap 24 órájában kínálja a város leghíresebb churrosát."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "Hagyományos, kiadós csicseriborsós egytálétel, amelyet a La Bola étteremben érdemes kipróbálni."
+            "name": "Lhardy",
+            "tip": "Történelmi étterem kiváló madridi egytálétellel (cocido)."
           }
         ],
         "ro": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Încearcă acest sandviș specific cu calamari în barurile din jurul Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés oferă cei mai buni churros din oraș, tradițional la orice oră."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "O tocană consistentă de năut, servită în mai multe feluri în restaurante precum La Bola."
+            "name": "Lhardy",
+            "tip": "Restaurant istoric cu un excelent Cocido Madrileño."
           }
         ],
         "en": [
           {
-            "name": "Bocadillo de Calamares",
-            "tip": "Try this signature fried squid sandwich at the small bars surrounding the Plaza Mayor."
-          },
-          {
-            "name": "Churros con Chocolate",
-            "tip": "Chocolatería San Ginés serves the city's most famous churros, traditionally open 24/7."
-          },
-          {
-            "name": "Cocido Madrileño",
-            "tip": "A hearty chickpea-based stew, traditionally served in multiple courses at places like La Bola."
+            "name": "Lhardy",
+            "tip": "Historic restaurant with exquisite Cocido Madrileño."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Templo de Debod",
-            "tip": "Der beste Aussichtspunkt für Sonnenuntergänge in Madrid, umgeben von Wasser.",
+            "name": "Parque del Oeste",
+            "tip": "Schöne Aussichten und weniger Touristen.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini-Gärten",
-            "tip": "Geometrische Gärten nördlich des Königspalastes, ideal für eine ruhige Pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrids größter öffentlicher Park bietet Waldwege weit abseits des Stadtlärms.",
-            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Templo de Debod",
-            "tip": "A legszebb naplementés kilátópont Madridban, víztükörrel körülvéve.",
+            "name": "Parque del Oeste",
+            "tip": "Szép kilátás és kevesebb turista.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini kertek",
-            "tip": "Geometrikus kertek a Királyi Palota északi részén, ideális hely egy kis pihenésre.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid legnagyobb parkja erdei ösvényekkel vár, távol a város zajától.",
-            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Templo de Debod",
-            "tip": "Cel mai bun punct de belvedere pentru apus din Madrid, înconjurat de apă.",
+            "name": "Parque del Oeste",
+            "tip": "Vederi frumoase și mai puțini turiști.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Grădinile Sabatini",
-            "tip": "Grădini geometrice la nord de Palatul Regal, ideale pentru o pauză liniștită.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Cel mai mare parc din Madrid oferă poteci împădurite departe de zgomotul orașului.",
-            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Templo de Debod",
-            "tip": "The prime sunset viewing point in Madrid, beautifully surrounded by reflective water.",
+            "name": "Parque del Oeste",
+            "tip": "Beautiful views and fewer tourists.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Sabatini Gardens",
-            "tip": "Geometric gardens just north of the Royal Palace, perfect for a peaceful pause.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Casa de Campo",
-            "tip": "Madrid's largest public park offering wooded trails far removed from city noise.",
-            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "El Rastro",
-            "tip": "Madrids berühmtester Open-Air-Flohmarkt, der jeden Sonntagvormittag im Viertel La Latina stattfindet."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "Ein historischer Markt für hochwertige Tapas, lokale Weine und Gourmet-Produkte."
+            "name": "Serrano Straße",
+            "tip": "Luxuriöse Boutiquen und Parkmöglichkeiten."
           }
         ],
         "hu": [
           {
-            "name": "El Rastro",
-            "tip": "Madrid leghíresebb szabadtéri bolhapiaca, amelyet minden vasárnap délelőtt tartanak a La Latina negyedben."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "Történelmi piac, ahol minőségi tapasokat, helyi borokat és ínyencségeket árulnak."
+            "name": "Serrano utca",
+            "tip": "Luxus butikok és jó parkolási lehetőségek."
           }
         ],
         "ro": [
           {
-            "name": "El Rastro",
-            "tip": "Cea mai faimoasă piață de vechituri în aer liber din Madrid, deschisă în fiecare duminică dimineața în La Latina."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "O piață istorică pentru tapas de calitate, vinuri locale și produse gastronomice gourmet."
+            "name": "Strada Serrano",
+            "tip": "Boutique-uri de lux și opțiuni de parcare."
           }
         ],
         "en": [
           {
-            "name": "El Rastro",
-            "tip": "Madrid's most famous open-air flea market, held every Sunday morning in the La Latina neighborhood."
-          },
-          {
-            "name": "Mercado de San Miguel",
-            "tip": "A historic market dedicated to high-quality tapas, local wines, and gourmet products."
+            "name": "Serrano Street",
+            "tip": "Luxury boutiques and parking options."
           }
         ]
       },
       "tips": {
         "de": [
-          "Madrids Zentrum hat strenge Umweltzonen (Madrid Central). Parken Sie das Auto in offiziellen Tiefgaragen, um Bußgelder zu vermeiden.",
-          "Die Parkplätze an der Straße sind blau (für Besucher) oder grün (für Anwohner) markiert und meist kostenpflichtig.",
-          "Laden Sie eine Park-App wie Telpark oder ElParking herunter, um das Bezahlen zu erleichtern."
+          "Achten Sie auf die Umweltzone 'Madrid Central'; parken Sie in öffentlichen Parkhäusern.",
+          "Der Verkehr kann während der Rushhour sehr dicht sein."
         ],
         "hu": [
-          "Madrid központja szigorú környezetvédelmi zóna (Madrid Central). A bírságok elkerülése végett mindig mélygarázsokban parkolj.",
-          "Az utcai parkolóhelyeket kék (látogatók) vagy zöld (lakosok) vonal jelzi, és többnyire fizetősek.",
-          "Tölts le egy parkolási alkalmazást (pl. Telpark), hogy könnyen kifizethesd az utcai parkolást."
+          "Figyelj a 'Madrid Central' környezetvédelmi zónára; használj nyilvános parkolóházakat.",
+          "A forgalom csúcsidőben nagyon sűrű lehet."
         ],
         "ro": [
-          "Centrul Madridului are zone stricte de emisii (Madrid Central). Parchează mașina în garajele subterane pentru a evita amenzile.",
-          "Locurile de parcare pe stradă sunt marcate cu albastru (vizitatori) sau verde (rezidenți) și sunt de obicei cu plată.",
-          "Descarcă o aplicație de parcare precum Telpark pentru a plăti ușor parcarea stradală."
+          "Atenție la zona cu emisii reduse 'Madrid Central'; folosiți parcări publice.",
+          "Traficul poate fi foarte intens la orele de vârf."
         ],
         "en": [
-          "Madrid's center has strict low-emission zones (Madrid Central). Always park in official underground garages to avoid heavy fines.",
-          "Street parking spots are marked in blue (visitors) or green (residents) and require payment during most hours.",
-          "Download a parking app like Telpark or ElParking to easily manage street parking payments."
+          "Beware of the 'Madrid Central' low emission zone; use public car parks.",
+          "Traffic can be very heavy during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerta del Sol",
+            "hu": "Puerta del Sol",
+            "ro": "Puerta del Sol",
+            "en": "Puerta del Sol"
+          },
+          "coords": [
+            -3.7038,
+            40.4168
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Metro und Cercanías.",
+            "hu": "Központi csomópont a metró és Cercanías vonalakhoz.",
+            "ro": "Nod central pentru metrou și Cercanías.",
+            "en": "Central hub for Metro and Cercanías lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza Mayor",
+            "hu": "Plaza Mayor",
+            "ro": "Plaza Mayor",
+            "en": "Plaza Mayor"
+          },
+          "coords": [
+            -3.7074,
+            40.4154
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:41",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von Sol.",
+            "hu": "Rövid séta a Soltól.",
+            "ro": "Scurtă plimbare de la Sol.",
+            "en": "Short walk from Sol."
+          }
+        },
+        {
+          "name": {
+            "de": "Prado-Museum",
+            "hu": "Prado Múzeum",
+            "ro": "Muzeul Prado",
+            "en": "Prado Museum"
+          },
+          "coords": [
+            -3.6921,
+            40.4137
+          ],
+          "category": "museums",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Metro L2 von Sol bis Banco de España.",
+            "hu": "Használd az L2-es metrót Soltól Banco de España megállóig.",
+            "ro": "Luați metroul L2 de la Sol la Banco de España.",
+            "en": "Take Metro L2 from Sol to Banco de España."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Retiro",
+            "hu": "Retiro park",
+            "ro": "Parcul Retiro",
+            "en": "Retiro Park"
+          },
+          "coords": [
+            -3.6833,
+            40.4153
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Prado entfernt.",
+            "hu": "Csak pár perc séta a Pradótól.",
+            "ro": "La câteva minute de mers pe jos de Prado.",
+            "en": "Just a few minutes' walk from the Prado."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Vía",
+            "hu": "Gran Vía",
+            "ro": "Gran Vía",
+            "en": "Gran Vía"
+          },
+          "coords": [
+            -3.7035,
+            40.4197
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Metro L2 von Retiro bis Gran Vía.",
+            "hu": "L2-es metró Retirotól Gran Víáig.",
+            "ro": "Metroul L2 de la Retiro la Gran Vía.",
+            "en": "Metro L2 from Retiro to Gran Vía."
+          }
+        },
+        {
+          "name": {
+            "de": "Santiago-Bernabéu-Stadion",
+            "hu": "Santiago Bernabéu Stadion",
+            "ro": "Stadionul Santiago Bernabéu",
+            "en": "Santiago Bernabéu Stadium"
+          },
+          "coords": [
+            -3.6883,
+            40.4531
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Metro L10 bringt Sie direkt zum Stadion.",
+            "hu": "Az L10-es metró közvetlenül a stadionhoz visz.",
+            "ro": "Metroul L10 vă duce direct la stadion.",
+            "en": "Metro L10 takes you directly to the stadium."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Madrid wie ein Einheimischer mit der Metro. Verbinden Sie den historischen Kern an der Puerta del Sol mit dem Kunstdreieck am Prado und dem Retiro-Park. Tauchen Sie ein in das geschäftige Treiben der Gran Vía und fahren Sie mit der blauen Linie direkt zum legendären Stadion von Real Madrid.",
+        "hu": "Tapasztalja meg Madridot helyiként a metró segítségével. Kösse össze a történelmi magot a Puerta del Solnál a Prado művészeti negyedével és a Retiro parkkal. Merüljön el a Gran Vía forgatagában, majd utazzon a kék vonallal közvetlenül a Real Madrid legendás stadionjához.",
+        "ro": "Experimentați Madridul ca un localnic folosind metroul. Conectați nucleul istoric de la Puerta del Sol cu triunghiul artei de la Prado și Parcul Retiro. Cufundați-vă în agitația de pe Gran Vía și călătoriți cu linia albastră direct la legendarul stadion al Real Madrid.",
+        "en": "Experience Madrid like a local using the Metro. Connect the historical core at Puerta del Sol with the art triangle at the Prado and Retiro Park. Dive into the bustle of Gran Vía and ride the blue line directly to Real Madrid's legendary stadium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chocolatería San Ginés",
+            "tip": "Kultige Churros mit heißer Schokolade in der Nähe von Sol."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chocolatería San Ginés",
+            "tip": "Ikonikus churros forró csokoládéval a Sol közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chocolatería San Ginés",
+            "tip": "Churros emblematici cu ciocolată caldă lângă Sol."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chocolatería San Ginés",
+            "tip": "Iconic churros with hot chocolate near Sol."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Biblioteca Nacional",
+            "tip": "Ruhiger kultureller Ort mit schönem Vorplatz.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nemzeti Könyvtár",
+            "tip": "Csendes kulturális helyszín szép előtérrel.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Națională",
+            "tip": "Loc cultural liniștit cu o esplanadă frumoasă.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "National Library",
+            "tip": "Quiet cultural spot with a beautiful forecourt.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fuencarral Straße",
+            "tip": "Moderne Marken und alternative Mode, gut erreichbar mit Metro L1."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuencarral utca",
+            "tip": "Modern márkák és alternatív divat, könnyen elérhető az L1 metróval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Fuencarral",
+            "tip": "Branduri moderne și modă alternativă, accesibilă cu metroul L1."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuencarral Street",
+            "tip": "Modern brands and alternative fashion, easily accessible by Metro L1."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 10er-Karte (Tarjeta Multi) für die Metro.",
+          "Die Metro fährt täglich bis 01:30 Uhr nachts."
+        ],
+        "hu": [
+          "Vegyél egy 10 alkalmas jegyet (Tarjeta Multi) a metróhoz.",
+          "A metró minden nap hajnali 01:30-ig közlekedik."
+        ],
+        "ro": [
+          "Cumpărați un card cu 10 călătorii (Tarjeta Multi) pentru metrou.",
+          "Metroul circulă zilnic până la ora 01:30 noaptea."
+        ],
+        "en": [
+          "Buy a 10-trip card (Tarjeta Multi) for the Metro.",
+          "The Metro runs until 01:30 AM every night."
         ]
       }
     }

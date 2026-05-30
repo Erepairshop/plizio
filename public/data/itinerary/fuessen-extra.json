@@ -1,0 +1,1067 @@
+{
+  "city_id": "fuessen-extra",
+  "anchor": {
+    "name": "Füssen",
+    "coords": [
+      47.569,
+      10.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Füssen",
+            "hu": "Füssen óvárosa",
+            "ro": "Orașul vechi Füssen",
+            "en": "Füssen Old Town"
+          },
+          "coords": [
+            47.568,
+            10.7
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blick auf die bunten Fassaden der Reichenstraße.",
+            "hu": "Nézd meg a Reichenstraße színes homlokzatait.",
+            "ro": "Admirați fațadele colorate de pe Reichenstraße.",
+            "en": "Check the colorful facades on Reichenstraße."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohes Schloss",
+            "hu": "Hohes Schloss",
+            "ro": "Castelul Hohes",
+            "en": "Hohes Schloss"
+          },
+          "coords": [
+            47.567,
+            10.698
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Illusionsmalereien im Innenhof sind weltberühmt.",
+            "hu": "Az udvar optikai csalódást keltő festményei híresek.",
+            "ro": "Picturile în trompe-l'œil din curte sunt faimoase.",
+            "en": "The illusion paintings in the courtyard are famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadt Füssen",
+            "hu": "Füssen Városi Múzeum",
+            "ro": "Muzeul orașului Füssen",
+            "en": "Museum of the City of Füssen"
+          },
+          "coords": [
+            47.567,
+            10.699
+          ],
+          "category": "museums",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundere die historische Lauten- und Geigenbausammlung.",
+            "hu": "Csodáld meg a történelmi lant- és hegedűgyűjteményt.",
+            "ro": "Admirați colecția istorică de lăute și viori.",
+            "en": "Admire the historical lute and violin collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster St. Mang",
+            "hu": "Szent Mang-kolostor",
+            "ro": "Mănăstirea Sf. Mang",
+            "en": "St. Mang's Abbey"
+          },
+          "coords": [
+            47.566,
+            10.7
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuche die Annakapelle mit dem Füssener Totentanz.",
+            "hu": "Nézd meg az Anna-kápolnában a füsseni haláltáncot.",
+            "ro": "Vizitați Capela Sf. Ana pentru Dansul Morții din Füssen.",
+            "en": "Visit St. Anne's Chapel for the Füssen Dance of Death."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            47.568,
+            10.701
+          ],
+          "category": "gastro",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Allgäuer Kässpatzen direkt am Markt.",
+            "hu": "Kóstold meg az Allgäuer Kässpatzen-t a piacon.",
+            "ro": "Încercați Allgäuer Kässpatzen chiar în piață.",
+            "en": "Try Allgäuer Kässpatzen right by the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Lechfall",
+            "hu": "Lech-vízesés",
+            "ro": "Cascada Lechfall",
+            "en": "Lechfall"
+          },
+          "coords": [
+            47.561,
+            10.694
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Der Blick vom Maxsteg direkt über den Wasserfall.",
+            "hu": "Pazar kilátás a Maxsteg hídról a vízesésre.",
+            "ro": "Vedere de pe podul Maxsteg direct peste cascadă.",
+            "en": "Great view from Maxsteg bridge over the waterfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Tag in der höchstgelegenen Stadt Bayerns. Wir beginnen in der malerischen Altstadt, wo die spätgotische Architektur den Ton angibt. Das Hohe Schloss thront über den Gassen und bietet einen tiefen Einblick in die Geschichte der Bischöfe von Augsburg. Nach dem Besuch des Benediktinerklosters und einem herzhaften Mittagessen führt uns ein kurzer Spaziergang zum tosenden Lechfall am Stadtrand.",
+        "hu": "Fedezd fel Bajorország legmagasabban fekvő városát gyalogosan. A reggelt a középkori hangulatú óvárosban kezdjük, majd a püspöki rezidenciaként szolgáló Hohes Schloss udvarát keressük fel. A Szent Mang-kolostor múzeuma a hangszerkészítés titkaiba avat be. Egy hagyományos bajor ebéd után a türkizkék Lech-folyó vízesésénél zárjuk a napot, ahol a folyó áttöri a sziklákat.",
+        "ro": "O zi relaxantă în cel mai înalt oraș din Bavaria. Începem în centrul vechi pitoresc, unde arhitectura gotică târzie domină peisajul. Castelul Hohes veghează deasupra străzilor și oferă o incursiune în istoria episcopilor de Augsburg. După vizitarea mănăstirii benedictine și un prânz copios, o scurtă plimbare ne duce la cascada Lechfall, la marginea orașului.",
+        "en": "Spend a relaxed day in Bavaria's highest town. Start in the picturesque old town, where late Gothic architecture sets the scene. The Hohes Schloss towers over the streets, offering insights into the history of the Bishops of Augsburg. After visiting the Benedictine abbey and enjoying a hearty lunch, a short walk leads to the thundering Lechfall waterfall on the outskirts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Krone",
+            "tip": "Mittelalterliches Ambiente mit regionaler Allgäuer Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Krone",
+            "tip": "Középkori hangulat regionális Allgäu-i konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Krone",
+            "tip": "Ambiantă medievală cu bucătărie regională din Allgäu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Krone",
+            "tip": "Medieval atmosphere with regional Allgäu cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lechufer",
+            "tip": "Ruhiger Spaziergang entlang des türkisfarbenen Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lech-part",
+            "tip": "Csendes séta a türkizkék folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lechului",
+            "tip": "Plimbare liniștită de-a lungul râului turcoaz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lech Riverbank",
+            "tip": "Quiet walk along the turquoise river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Reichenstraße",
+            "tip": "Die Hauptgeschäftsstraße mit lokalen Souvenirs und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reichenstraße",
+            "tip": "A fő bevásárlóutca helyi szuvenírekkel és kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Reichenstraße",
+            "tip": "Principala stradă comercială cu suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Reichenstraße",
+            "tip": "The main shopping street with local souvenirs and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt und ideal zu Fuß zu erkunden.",
+          "Achten Sie auf die bemalten Fassaden am Hohen Schloss.",
+          "Früh morgens ist es am Lechfall am ruhigsten."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyeld meg a Hohes Schloss festett homlokzatait.",
+          "Kora reggel a legnyugodtabb a Lech-vízesés környéke."
+        ],
+        "ro": [
+          "Centrul vechi este compact și ideal de explorat la pas.",
+          "Observați fațadele pictate de la Castelul Hohes.",
+          "Dimineața devreme este cel mai liniște la Lechfall."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "Look out for the painted facades at Hohes Schloss.",
+          "Early morning is the quietest time at Lechfall."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forggensee Ufer",
+            "hu": "Forggensee partja",
+            "ro": "Țărmul lacului Forggensee",
+            "en": "Forggensee Shore"
+          },
+          "coords": [
+            47.585,
+            10.718
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Alpen.",
+            "hu": "Élvezd az Alpokra nyíló panorámát.",
+            "ro": "Bucurați-vă de panorama Munților Alpi.",
+            "en": "Enjoy the panoramic view of the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Füssen",
+            "hu": "Füssen óvárosa",
+            "ro": "Orașul vechi Füssen",
+            "en": "Füssen Old Town"
+          },
+          "coords": [
+            47.568,
+            10.7
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Brotmarkt für ein Foto.",
+            "hu": "Rövid megálló a kenyérpiacon egy fotóra.",
+            "ro": "Scurtă oprire în piața Brotmarkt pentru o poză.",
+            "en": "Short stop at the Bread Market for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadt Füssen",
+            "hu": "Füssen Városi Múzeum",
+            "ro": "Muzeul orașului Füssen",
+            "en": "Museum of the City of Füssen"
+          },
+          "coords": [
+            47.567,
+            10.699
+          ],
+          "category": "museums",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sicheres Abstellen der Räder im Innenhof möglich.",
+            "hu": "A kerékpárok biztonságosan leállíthatók az udvaron.",
+            "ro": "Bicicletele pot fi parcate în siguranță în curte.",
+            "en": "Bikes can be parked safely in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohes Schloss",
+            "hu": "Hohes Schloss",
+            "ro": "Castelul Hohes",
+            "en": "Hohes Schloss"
+          },
+          "coords": [
+            47.567,
+            10.698
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der Schlossgarten ist ein idealer Ruheort.",
+            "hu": "A kastélykert ideális pihenőhely.",
+            "ro": "Grădina castelului este un loc ideal de odihnă.",
+            "en": "The castle garden is an ideal place to rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Lechfall",
+            "hu": "Lech-vízesés",
+            "ro": "Cascada Lechfall",
+            "en": "Lechfall"
+          },
+          "coords": [
+            47.561,
+            10.694
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:43",
+          "stay_min": 35,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Abfahrt zum Wasserfall direkt am Stadtrand.",
+            "hu": "Rövid legurulás a vízeséshez a város szélén.",
+            "ro": "Scurtă coborâre la cascadă, chiar la marginea orașului.",
+            "en": "Short ride down to the waterfall at the town's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster St. Mang",
+            "hu": "Szent Mang-kolostor",
+            "ro": "Mănăstirea Sf. Mang",
+            "en": "St. Mang's Abbey"
+          },
+          "coords": [
+            47.566,
+            10.7
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Stopp vor der Rückgabe.",
+            "hu": "Utolsó kulturális megálló a kerékpár leadása előtt.",
+            "ro": "O ultimă oprire culturală înainte de returnare.",
+            "en": "One last cultural stop before returning the bikes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Füssen und seine Umgebung auf zwei Rädern. Wir starten am malerischen Forggensee-Ufer mit Blick auf Schloss Neuschwanstein. Danach führt uns der Radweg durch die Altstadt direkt zu den kulturellen Schätzen wie dem Hohen Schloss und dem Stadtmuseum. Die Tour verbindet Naturerlebnisse am Lech mit der reichen bayerischen Geschichte der Stadt.",
+        "hu": "Fedezd fel Füssent és környékét két keréken. A túrát a Forggensee partján kezdjük, ahonnan rálátni Neuschwanstein kastélyára. A kerékpárút ezután az óvároson keresztül vezet a legfontosabb látnivalókhoz, mint a Hohes Schloss és a Városi Múzeum. Ez az útvonal tökéletesen ötvözi a Lech-menti természetet a gazdag bajor történelemmel.",
+        "ro": "Explorați Füssen și împrejurimile pe două roți. Începem pe malul pitoresc al lacului Forggensee, cu vedere spre Neuschwanstein. Apoi, pista de biciclete ne duce prin centrul vechi direct la comorile culturale precum Castelul Hohes și Muzeul Orașului. Turul îmbină natura de pe malul Lechului cu bogata istorie bavareză.",
+        "en": "Explore Füssen and its surroundings on two wheels. Start at the scenic Forggensee shore with views of Neuschwanstein Castle. The bike path then leads through the old town directly to cultural highlights like Hohes Schloss and the City Museum. This tour perfectly combines nature along the Lech river with rich Bavarian history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Forggensee",
+            "tip": "Perfekt für eine Erfrischung mit Seeblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiosk a Forggensee-nél",
+            "tip": "Tökéletes egy frissítőre a tóparti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kioșc la Forggensee",
+            "tip": "Perfect pentru o băutură răcoritoare cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forggensee Kiosk",
+            "tip": "Perfect for a refreshment with a lake view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootshafen Füssen",
+            "tip": "Ruhiger Platz zum Beobachten der Segelboote.",
+            "emoji": "⛵"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füsseni kikötő",
+            "tip": "Csendes hely a vitorlások megfigyeléséhez.",
+            "emoji": "⛵"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul de bărci Füssen",
+            "tip": "Loc liniștit pentru a observa barcările.",
+            "emoji": "⛵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Füssen Harbor",
+            "tip": "Quiet spot to watch the sailboats.",
+            "emoji": "⛵"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zwerger",
+            "tip": "Fahrradverleih und lokales Sportgeschäft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zwerger",
+            "tip": "Kerékpárkölcsönző és helyi sportbolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zwerger",
+            "tip": "Centru de închirieri biciclete și magazin sportiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zwerger",
+            "tip": "Bike rental and local sports shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Radwege um den Forggensee sind flach und gut ausgebaut.",
+          "In der Altstadt ist das Radfahren in Fußgängerzonen eingeschränkt.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt zum See mit."
+        ],
+        "hu": [
+          "A Forggensee körüli kerékpárutak síkok és jól karbantartottak.",
+          "Az óváros sétálóövezeteiben korlátozott a biciklizés.",
+          "Vigyél magaddal elég vizet a tóparti útra."
+        ],
+        "ro": [
+          "Pistele de biciclete din jurul Forggensee sunt plane și bine amenajate.",
+          "Ciclismul este restricționat în zonele pietonale din centrul vechi.",
+          "Luați suficientă apă pentru plimbarea la lac."
+        ],
+        "en": [
+          "The bike paths around Forggensee are flat and well-maintained.",
+          "Cycling is restricted in pedestrian zones in the old town.",
+          "Take enough water for the ride to the lake."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Füssen (Parken)",
+            "hu": "Füssen óvárosa (Parkolás)",
+            "ro": "Centrul vechi Füssen (Parcare)",
+            "en": "Füssen Old Town (Parking)"
+          },
+          "coords": [
+            47.568,
+            10.701
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Parkgarage am Sparkassenhaus.",
+            "hu": "Használd a Sparkassenhaus parkolóházát.",
+            "ro": "Folosiți parcarea de la Sparkassenhaus.",
+            "en": "Use the parking garage at Sparkassenhaus."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohes Schloss",
+            "hu": "Hohes Schloss",
+            "ro": "Castelul Hohes",
+            "en": "Hohes Schloss"
+          },
+          "coords": [
+            47.567,
+            10.698
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz in 5 Minuten erreichbar.",
+            "hu": "5 perc séta a parkolótól.",
+            "ro": "Accesibil în 5 minute pe jos din parcare.",
+            "en": "Accessible in 5 minutes on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster St. Mang",
+            "hu": "Szent Mang-kolostor",
+            "ro": "Mănăstirea Sf. Mang",
+            "en": "St. Mang's Abbey"
+          },
+          "coords": [
+            47.566,
+            10.7
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Barocke Pracht im Zentrum von Füssen.",
+            "hu": "Barokk pompa Füssen központjában.",
+            "ro": "Sudoare barocă în centrul orașului Füssen.",
+            "en": "Baroque splendor in the center of Füssen."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Füssen",
+            "hu": "Ebéd Füssenben",
+            "ro": "Prânz în Füssen",
+            "en": "Lunch in Füssen"
+          },
+          "coords": [
+            47.568,
+            10.7
+          ],
+          "category": "gastro",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzte Stärkung vor der Fahrt nach Schwangau.",
+            "hu": "Utolsó étkezés a Schwangau felé indulás előtt.",
+            "ro": "Ultima masă înainte de plecarea spre Schwangau.",
+            "en": "Final meal before driving to Schwangau."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohenschwangau",
+            "hu": "Hohenschwangau kastély",
+            "ro": "Castelul Hohenschwangau",
+            "en": "Hohenschwangau Castle"
+          },
+          "coords": [
+            47.556,
+            10.736
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Das Elternhaus von König Ludwig II.",
+            "hu": "II. Lajos király gyermekkori otthona.",
+            "ro": "Casa părintească a regelui Ludovic al II-lea.",
+            "en": "The childhood home of King Ludwig II."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Neuschwanstein",
+            "hu": "Neuschwanstein kastély",
+            "ro": "Castelul Neuschwanstein",
+            "en": "Neuschwanstein Castle"
+          },
+          "coords": [
+            47.557,
+            10.75
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Märchenschloss des Bayerischen Königs.",
+            "hu": "A bajor király mesekastélya.",
+            "ro": "Castelul de basm al regelui Bavariei.",
+            "en": "The fairytale castle of the Bavarian King."
+          }
+        },
+        {
+          "name": {
+            "de": "Forggensee Panorama",
+            "hu": "Forggensee panoráma",
+            "ro": "Panorama Forggensee",
+            "en": "Forggensee Panorama"
+          },
+          "coords": [
+            47.575,
+            10.735
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "17:21",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein letztes Foto der Schlösser.",
+            "hu": "Tökéletes hely egy utolsó fotóra a kastélyokról.",
+            "ro": "Locul perfect pentru o ultimă fotografie cu castelele.",
+            "en": "Perfect spot for a final photo of the castles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie die Höhepunkte der bayerischen Romantik mit dem Auto. Wir verbringen den Vormittag in der historischen Altstadt von Füssen und besuchen das Hohe Schloss sowie das Kloster St. Mang. Nachmittags fahren wir ins nahegelegene Schwangau, um die weltberühmten Königsschlösser Hohenschwangau und Neuschwanstein zu besichtigen. Den Tag lassen wir mit einem Panoramablick am Forggensee ausklingen.",
+        "hu": "Fedezd fel a bajor romantika csúcspontjait autóval. A délelőttöt Füssen történelmi óvárosában töltjük, felkeresve a Hohes Schloss-t és a Szent Mang-kolostort. Délután a közeli Schwangau-ba hajtunk, hogy megcsodáljuk a világhírű királyi kastélyokat: Hohenschwangau-t és Neuschwanstein-t. A napot a Forggensee partján, panorámás kilátással zárjuk.",
+        "ro": "Experimentați punctele culminante ale romantismului bavarez cu mașina. Petrecem dimineața în centrul istoric al orașului Füssen, vizitând Castelul Hohes și Mănăstirea Sf. Mang. După-amiaza, conducem spre Schwangau pentru a vizita faimoasele castele regale Hohenschwangau și Neuschwanstein. Încheiem ziua cu o vedere panoramică la lacul Forggensee.",
+        "en": "Experience the highlights of Bavarian Romanticism by car. Spend the morning in the historic old town of Füssen, visiting Hohes Schloss and St. Mang's Abbey. In the afternoon, drive to nearby Schwangau to see the world-famous royal castles, Hohenschwangau and Neuschwanstein. End the day with a panoramic view at Forggensee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alpenstuben",
+            "tip": "Traditionelle bayerische Küche direkt in Hohenschwangau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpenstuben",
+            "tip": "Hagyományos bajor konyha közvetlenül Hohenschwangau-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alpenstuben",
+            "tip": "Bucătărie tradițională bavareză chiar în Hohenschwangau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpenstuben",
+            "tip": "Traditional Bavarian cuisine right in Hohenschwangau."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alatsee",
+            "tip": "Kleiner Waldsee für absolute Ruhe abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alatsee",
+            "tip": "Kis erdei tó a tömegtől távoli abszolút nyugalomhoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alatsee",
+            "tip": "Mic lac în pădure pentru liniște absolută departe de mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alatsee",
+            "tip": "Small forest lake for absolute peace away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop am Ticketcenter",
+            "tip": "Große Auswahl an Postkarten und Schloss-Modellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt a Ticketcenternél",
+            "tip": "Nagy választék képeslapokból és kastélymodellekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Ticketcenter",
+            "tip": "O selecție largă de cărți poștale și modele de castele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop at Ticket Center",
+            "tip": "Large selection of postcards and castle models."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Reservieren Sie Tickets für die Schlösser unbedingt Wochen im Voraus.",
+          "Die Parkplätze in Hohenschwangau sind kostenpflichtig und oft voll.",
+          "Von Füssen nach Schwangau sind es nur 5-10 Minuten Fahrt."
+        ],
+        "hu": [
+          "Mindenképpen foglald le a kastélyjegyeket hetekkel előre.",
+          "A hohenschwangau-i parkolók fizetősek és gyakran megtelnek.",
+          "Füssen és Schwangau között mindössze 5-10 perc az út."
+        ],
+        "ro": [
+          "Rezervați biletele pentru castele cu săptămâni înainte.",
+          "Parcările din Hohenschwangau sunt cu plată și adesea pline.",
+          "Drumul de la Füssen la Schwangau durează doar 5-10 minute."
+        ],
+        "en": [
+          "Be sure to reserve castle tickets weeks in advance.",
+          "Parking in Hohenschwangau is paid and often full.",
+          "It is only a 5-10 minute drive from Füssen to Schwangau."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Füssen Bahnhof / Altstadt",
+            "hu": "Füssen vasútállomás / Óváros",
+            "ro": "Gara Füssen / Centrul vechi",
+            "en": "Füssen Station / Old Town"
+          },
+          "coords": [
+            47.568,
+            10.7
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für alle Züge aus München.",
+            "hu": "Központi érkezési pont a müncheni vonatokhoz.",
+            "ro": "Punct central de sosire pentru trenurile din München.",
+            "en": "Central arrival point for all trains from Munich."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster St. Mang",
+            "hu": "Szent Mang-kolostor",
+            "ro": "Mănăstirea Sf. Mang",
+            "en": "St. Mang's Abbey"
+          },
+          "coords": [
+            47.566,
+            10.7
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In wenigen Gehminuten vom Bahnhof erreichbar.",
+            "hu": "Pár perc séta a vasútállomástól.",
+            "ro": "Accesibil în câteva minute pe jos de la gară.",
+            "en": "A few minutes' walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Stadt Füssen",
+            "hu": "Füssen Városi Múzeum",
+            "ro": "Muzeul orașului Füssen",
+            "en": "Museum of the City of Füssen"
+          },
+          "coords": [
+            47.567,
+            10.699
+          ],
+          "category": "museums",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich direkt im Klosterkomplex.",
+            "hu": "A múzeum közvetlenül a kolostorkomplexumban van.",
+            "ro": "Muzeul se află chiar în complexul mănăstirii.",
+            "en": "The museum is located directly in the abbey complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus nach Hohenschwangau",
+            "hu": "Busz Hohenschwangau-ba",
+            "ro": "Autobuz spre Hohenschwangau",
+            "en": "Bus to Hohenschwangau"
+          },
+          "coords": [
+            47.558,
+            10.74
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie 73 oder 78 ab Füssen Bahnhof.",
+            "hu": "Használd a 73-as vagy 78-as járatot a vasútállomástól.",
+            "ro": "Folosiți linia 73 sau 78 de la gara Füssen.",
+            "en": "Use line 73 or 78 from Füssen station."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Neuschwanstein",
+            "hu": "Neuschwanstein kastély",
+            "ro": "Castelul Neuschwanstein",
+            "en": "Neuschwanstein Castle"
+          },
+          "coords": [
+            47.557,
+            10.75
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ab der Bushaltestelle ca. 20 Min. Fußweg bergauf.",
+            "hu": "A buszmegállótól kb. 20 perc séta felfelé.",
+            "ro": "De la stația de autobuz, aprox. 20 min. urcuș pe jos.",
+            "en": "Approx. 20 min. walk uphill from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hohenschwangau",
+            "hu": "Hohenschwangau kastély",
+            "ro": "Castelul Hohenschwangau",
+            "en": "Hohenschwangau Castle"
+          },
+          "coords": [
+            47.556,
+            10.736
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Leichter Abstieg zurück ins Dorf.",
+            "hu": "Könnyű ereszkedés vissza a faluba.",
+            "ro": "Coborâre ușoară înapoi în sat.",
+            "en": "Easy walk back down to the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Perfekt für Bahnreisende: Kombinieren Sie die Kultur von Füssen mit dem Zauber der Königsschlösser. Vormittags erkunden wir die Sehenswürdigkeiten rund um den Bahnhof Füssen zu Fuß. Nach einer kurzen Busfahrt erreichen wir Hohenschwangau, wo Neuschwanstein und Hohenschwangau warten. Die exzellente Busanbindung macht das Auto überflüssig.",
+        "hu": "Tökéletes vonatutasoknak: kombináld Füssen kultúráját a királyi kastélyok varázsával. Délelőtt a füsseni vasútállomás körüli látnivalókat fedezzük fel gyalog. Egy rövid buszozás után érkezünk Hohenschwangau-ba, ahol Neuschwanstein és Hohenschwangau vár. A kiváló buszközlekedés feleslegessé teszi az autót.",
+        "ro": "Perfect pentru călătorii cu trenul: combinați cultura din Füssen cu magia castelelor regale. Dimineața explorăm atracțiile din jurul gării Füssen pe jos. După o scurtă călătorie cu autobuzul, ajungem în Hohenschwangau, unde ne așteaptă Neuschwanstein și Hohenschwangau. Conexiunile excelente de autobuz fac mașina inutilă.",
+        "en": "Perfect for train travelers: combine the culture of Füssen with the magic of the royal castles. In the morning, explore the sights around Füssen station on foot. After a short bus ride, arrive in Hohenschwangau, home to Neuschwanstein and Hohenschwangau. Excellent bus connections make a car unnecessary."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Höfler",
+            "tip": "Schneller Snack direkt am Bahnhof Füssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Höfler Pékség",
+            "tip": "Gyors snack közvetlenül a füsseni vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Höfler",
+            "tip": "Snack rapid chiar la gara Füssen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Höfler Bakery",
+            "tip": "Quick snack right at Füssen station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alpsee Ufer",
+            "tip": "Ruhiger See unterhalb der Schlösser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpsee partja",
+            "tip": "Csendes tó a kastélyok alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului Alpsee",
+            "tip": "Lac liniștit sub castele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpsee Shore",
+            "tip": "Quiet lake below the castles.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofshalle",
+            "tip": "Reiseliteratur und Zeitschriften für die Rückfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomás csarnoka",
+            "tip": "Utazási irodalom és folyóiratok a hazaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Holul gării",
+            "tip": "Literatură de călătorie și reviste pentru drumul de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Hall",
+            "tip": "Travel literature and magazines for the return journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Bayern-Ticket gilt auch in den Regionalbussen nach Schwangau.",
+          "Die Busse fahren regelmäßig (alle 10-20 Min.) ab Füssen Bahnhof.",
+          "Planen Sie Pufferzeit für den Rückweg zum Bahnhof ein."
+        ],
+        "hu": [
+          "A Bayern-Ticket érvényes a Schwangau-ba tartó regionális buszokra is.",
+          "A buszok rendszeresen (10-20 percenként) indulnak a vasútállomástól.",
+          "Tervezz be puffert a vasútállomásra való visszajutáshoz."
+        ],
+        "ro": [
+          "Biletul Bayern-Ticket este valabil și pe autobuzele regionale spre Schwangau.",
+          "Autobuzele circulă regulat (la fiecare 10-20 min.) de la gara Füssen.",
+          "Planificați timp suplimentar pentru drumul de întoarcere la gară."
+        ],
+        "en": [
+          "The Bayern-Ticket is also valid on regional buses to Schwangau.",
+          "Buses run regularly (every 10-20 min.) from Füssen station.",
+          "Plan buffer time for getting back to the station."
+        ]
+      }
+    }
+  }
+}

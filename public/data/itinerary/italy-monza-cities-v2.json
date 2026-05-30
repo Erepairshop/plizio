@@ -1,0 +1,1010 @@
+{
+  "city_id": "italy-monza-cities-v2",
+  "anchor": {
+    "name": "Monza",
+    "coords": [
+      9.2737,
+      45.5843
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Arengario",
+          "coords": [
+            9.2729,
+            45.5836
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Bögen des alten Rathauses.",
+            "hu": "Csodáld meg a régi városháza gótikus árkádjait.",
+            "ro": "Admirați arcadele gotice ale vechii primării.",
+            "en": "Admire the Gothic arches of the ancient town hall."
+          }
+        },
+        {
+          "name": "Duomo di Monza",
+          "coords": [
+            9.2755,
+            45.5838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Eiserne Krone der Langobarden ist ein Muss.",
+            "hu": "A longobárd vaskorona megtekintése kötelező.",
+            "ro": "Coroana de Fier a longobarzilor este obligatorie.",
+            "en": "The Iron Crown of the Lombards is a must-see."
+          }
+        },
+        {
+          "name": "Ponte dei Leoni",
+          "coords": [
+            9.277,
+            45.5845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Foto über dem Lambro.",
+            "hu": "Tökéletes fotóhelyszín a Lambro-folyó felett.",
+            "ro": "Loc perfect pentru o fotografie peste râul Lambro.",
+            "en": "Perfect photo spot over the Lambro river."
+          }
+        },
+        {
+          "name": "Santa Maria in Strada",
+          "coords": [
+            9.275,
+            45.5815
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf die filigrane Terrakotta-Fassade.",
+            "hu": "Figyeld meg a finom terrakotta díszítéseket a homlokzaton.",
+            "ro": "Observați fațada delicată din teracotă.",
+            "en": "Note the intricate terracotta facade."
+          }
+        },
+        {
+          "name": "Musei Civici di Monza",
+          "coords": [
+            9.2705,
+            45.5862
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kulturelle Pause im ehemaligen Kloster.",
+            "hu": "Kulturális pihenő az egykori kolostor épületében.",
+            "ro": "Pauză culturală în fosta mănăstire.",
+            "en": "Cultural break in the former convent building."
+          }
+        },
+        {
+          "name": "Villa Reale di Monza",
+          "coords": [
+            9.274,
+            45.5936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kaiserlichen Gemächer.",
+            "hu": "Látogasd meg a császári lakosztályokat.",
+            "ro": "Vizitați apartamentele imperiale.",
+            "en": "Visit the imperial apartments."
+          }
+        },
+        {
+          "name": "Parco di Monza",
+          "coords": [
+            9.278,
+            45.596
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abendspaziergang durch eine der größten Parkanlagen Europas.",
+            "hu": "Esti séta Európa egyik legnagyobb zárt parkjában.",
+            "ro": "Plimbare de seară prin unul dintre cele mai mari parcuri din Europa.",
+            "en": "Evening stroll through one of Europe's largest enclosed parks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den mittelalterlichen Kern von Monza mit dem prachtvollen Dom und dem gotischen Arengario. Nach einem Mittagessen am Flussufer spazieren Sie durch das Viertel der Musei Civici. Der Nachmittag gehört der prunkvollen Villa Reale, gefolgt von einem entspannten Ausklang im weitläufigen königlichen Park.",
+        "hu": "A reggelt Monza középkori magjában töltjük, megtekintve a lenyűgöző dómot és a gótikus Arengariót. Egy folyóparti ebéd után a Musei Civici negyedében sétálunk. A délután a pompás Villa Reale kastélyé, majd a napot a hatalmas királyi parkban, a természet lágy ölén zárjuk.",
+        "ro": "Dimineața explorăm nucleul medieval al orașului Monza, cu domul splendid și Arengario gotic. După un prânz pe malul râului, ne plimbăm prin cartierul Musei Civici. După-amiaza este dedicată somptuoasei Villa Reale, urmată de o relaxare totală în vastul parc regal.",
+        "en": "Morning is spent in Monza's medieval core, visiting the stunning Duomo and the Gothic Arengario. After a riverside lunch, stroll through the Musei Civici district. The afternoon is dedicated to the magnificent Villa Reale, followed by a relaxing end to the day in the vast Royal Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Risotto alla Monzese",
+            "tip": "Cremiger Risotto mit Luganega-Wurst."
+          },
+          {
+            "name": "Osteria del Cavolo",
+            "tip": "Traditionelle lombardische Küche im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Risotto alla Monzese",
+            "tip": "Krémes rizottó helyi Luganega kolbásszal."
+          },
+          {
+            "name": "Osteria del Cavolo",
+            "tip": "Hagyományos lombard konyha a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto alla Monzese",
+            "tip": "Risotto cremos cu cârnați Luganega locali."
+          },
+          {
+            "name": "Osteria del Cavolo",
+            "tip": "Bucătărie tradițională lombardă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Risotto alla Monzese",
+            "tip": "Creamy risotto with local Luganega sausage."
+          },
+          {
+            "name": "Osteria del Cavolo",
+            "tip": "Traditional Lombard cuisine in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rosengarten der Villa Reale",
+            "tip": "Ein ruhiger Ort voller Düfte.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Ufer des Lambro",
+            "tip": "Sanftes Rauschen mitten in der Stadt.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Reale rózsakertje",
+            "tip": "Csendes, illatos menedék.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Lambro partja",
+            "tip": "Megnyugtató vízcsobogás a város szívében.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de trandafiri Villa Reale",
+            "tip": "Un refugiu liniștit și parfumat.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Malul râului Lambro",
+            "tip": "Sunet relaxant de apă în inima orașului.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Reale Rose Garden",
+            "tip": "A quiet, fragrant sanctuary.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Lambro Riverbank",
+            "tip": "Relaxing water sounds in the city heart.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Italia",
+            "tip": "Elegante Boutiquen und italienische Mode."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Lokale Produkte auf der Piazza Cambiaghi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Italia",
+            "tip": "Elegáns butikok és olasz divatárruk."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Helyi termékek a Piazza Cambiaghi téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Italia",
+            "tip": "Boutique-uri elegante și modă italiană."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse locale în Piazza Cambiaghi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Italia",
+            "tip": "Elegant boutiques and Italian fashion."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Local products at Piazza Cambiaghi."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist größtenteils Fußgängerzone.",
+          "Buchen Sie das Dommuseum im Voraus.",
+          "Tragen Sie bequeme Schuhe für den Park."
+        ],
+        "hu": [
+          "A belváros nagy része sétálóövezet.",
+          "Foglalj előre jegyet a dómmúzeumba.",
+          "Viselj kényelmes cipőt a hatalmas parkhoz."
+        ],
+        "ro": [
+          "Centrul orașului este în mare parte pietonal.",
+          "Rezervați biletele pentru muzeul domului în avans.",
+          "Purtați încălțăminte confortabilă pentru parc."
+        ],
+        "en": [
+          "The city center is mostly a pedestrian zone.",
+          "Book the Duomo museum tickets in advance.",
+          "Wear comfortable shoes for the large park."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Arengario",
+          "coords": [
+            9.2729,
+            45.5836
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im historischen Zentrum.",
+            "hu": "Kezdőpont a történelmi központban.",
+            "ro": "Punct de plecare în centrul istoric.",
+            "en": "Starting point in the historical center."
+          }
+        },
+        {
+          "name": "Duomo di Monza",
+          "coords": [
+            9.2755,
+            45.5838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad gut ab.",
+            "hu": "Zárd le biztonságosan a biciklit.",
+            "ro": "Asigurați bine bicicleta.",
+            "en": "Lock your bike securely here."
+          }
+        },
+        {
+          "name": "Villa Reale di Monza",
+          "coords": [
+            9.274,
+            45.5936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die herrschaftliche Allee.",
+            "hu": "Tekerj végig az uradalmi sugárúton.",
+            "ro": "Pedalați pe bulevardul nobiliar.",
+            "en": "Cycle through the stately avenue."
+          }
+        },
+        {
+          "name": "Parco di Monza",
+          "coords": [
+            9.285,
+            45.605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Endlose Radwege im Schatten alter Bäume.",
+            "hu": "Végtelen kerékpárutak az öreg fák árnyékában.",
+            "ro": "Piste de biciclete nesfârșite la umbra copacilor vechi.",
+            "en": "Endless bike paths in the shade of old trees."
+          }
+        },
+        {
+          "name": "Autodromo Nazionale Monza",
+          "coords": [
+            9.281,
+            45.615
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück der historischen Steilkurve.",
+            "hu": "Tekerj egy szakaszt a történelmi döntött kanyaron.",
+            "ro": "Pedalați pe o secțiune a virajului înclinat istoric.",
+            "en": "Cycle a section of the historic banked curve."
+          }
+        },
+        {
+          "name": "Ponte dei Leoni",
+          "coords": [
+            9.277,
+            45.5845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Rückkehr in die Stadt entlang des Flusses.",
+            "hu": "Visszatérés a városba a folyó mentén.",
+            "ro": "Revenire în oraș de-a lungul râului.",
+            "en": "Return to the city along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Monza sportlich. Vom mittelalterlichen Zentrum radeln Sie zügig zur Villa Reale. Der Höhepunkt ist die Fahrt durch den riesigen Park direkt zur legendären Formel-1-Rennstrecke, wo Sie die Atmosphäre des Tempels der Geschwindigkeit auf zwei Rädern erleben.",
+        "hu": "Fedezd fel Monzát sportosan. A középkori központból gyorsan eltekertünk a Villa Reale-ig. A csúcspont a hatalmas parkon keresztüli bringázás egészen a legendás Forma-1-es pályáig, ahol két keréken élheted át a Sebesség Templomának hangulatát.",
+        "ro": "Explorați Monza într-un mod sportiv. Din centrul medieval pedalați rapid către Villa Reale. Punctul culminant este plimbarea prin parcul uriaș direct către legendarul circuit de Formula 1, unde experimentați atmosfera Templului Vitezei pe două roți.",
+        "en": "Explore Monza actively. From the medieval center, cycle quickly to the Villa Reale. The highlight is riding through the massive park straight to the legendary Formula 1 track, where you experience the atmosphere of the Temple of Speed on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bici & Caffè",
+            "tip": "Radfahrer-freundliches Café am Park."
+          },
+          {
+            "name": "Panino con Luganega",
+            "tip": "Schneller Snack für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bici & Caffè",
+            "tip": "Kerékpáros-barát kávézó a parknál."
+          },
+          {
+            "name": "Panino con Luganega",
+            "tip": "Gyors és laktató helyi szendvics."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bici & Caffè",
+            "tip": "Cafenea prietenoasă cu bicicliștii lângă parc."
+          },
+          {
+            "name": "Panino con Luganega",
+            "tip": "Gustare rapidă și sățioasă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bici & Caffè",
+            "tip": "Bike-friendly cafe near the park."
+          },
+          {
+            "name": "Panino con Luganega",
+            "tip": "Quick and hearty local sandwich."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hintere Parkwege",
+            "tip": "Abseits der Hauptalleen ist es absolut ruhig.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátsó erdei utak",
+            "tip": "A főutaktól távol teljes a nyugalom.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările lăturalnice din parc",
+            "tip": "Departe de aleile principale este liniște totală.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rear park trails",
+            "tip": "Away from the main avenues, it's perfectly quiet.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "F1 Merchandising",
+            "tip": "Offizielle Fanartikel an der Rennstrecke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "F1 Merchandising",
+            "tip": "Hivatalos szurkolói termékek a versenypályánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "F1 Merchandising",
+            "tip": "Articole oficiale pentru fani la circuit."
+          }
+        ],
+        "en": [
+          {
+            "name": "F1 Merchandising",
+            "tip": "Official fan gear at the racetrack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Im Park gibt es zahlreiche Verleihstationen.",
+          "Die Rennstrecke ist an veranstaltungsfreien Tagen zugänglich.",
+          "Nutzen Sie die Radwege entlang des Villoresi-Kanals."
+        ],
+        "hu": [
+          "A parkban több kerékpárkölcsönző is üzemel.",
+          "A versenypálya látogatható rendezvénymentes napokon.",
+          "Használd a Villoresi-csatorna menti kerékpárutat."
+        ],
+        "ro": [
+          "Există numeroase centre de închiriat biciclete în parc.",
+          "Circuitul este accesibil în zilele fără evenimente.",
+          "Folosiți pistele de biciclete de-a lungul canalului Villoresi."
+        ],
+        "en": [
+          "There are several bike rental stations in the park.",
+          "The racetrack is accessible on non-event days.",
+          "Use the bike paths along the Villoresi canal."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Arengario",
+          "coords": [
+            9.2729,
+            45.5836
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Piazza Cambiaghi.",
+            "hu": "Parkolj a Piazza Cambiaghi mélygarázsban.",
+            "ro": "Parcați în parcarea Piazza Cambiaghi.",
+            "en": "Park in the Piazza Cambiaghi garage."
+          }
+        },
+        {
+          "name": "Duomo di Monza",
+          "coords": [
+            9.2755,
+            45.5838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Arengario.",
+            "hu": "Rövid séta az Arengariótól.",
+            "ro": "Scurtă plimbare de la Arengario.",
+            "en": "Short walk from Arengario."
+          }
+        },
+        {
+          "name": "Musei Civici di Monza",
+          "coords": [
+            9.271,
+            45.586
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Teil des historischen Spaziergangs im Zentrum.",
+            "hu": "A belvárosi gyalogos körút része.",
+            "ro": "Parte a plimbării istorice din centru.",
+            "en": "Part of the historical walking loop in the center."
+          }
+        },
+        {
+          "name": "Villa Reale di Monza",
+          "coords": [
+            9.274,
+            45.5936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz Viale Cavriga.",
+            "hu": "Hajts a Viale Cavriga parkolójához.",
+            "ro": "Conduceți spre parcarea Viale Cavriga.",
+            "en": "Drive to the Viale Cavriga parking lot."
+          }
+        },
+        {
+          "name": "Parco di Monza",
+          "coords": [
+            9.278,
+            45.596
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Direkt neben der Villa, zu Fuß erreichbar.",
+            "hu": "Közvetlenül a Villa mellett, gyalog bejárható.",
+            "ro": "Direct lângă Villa, accesibil pe jos.",
+            "en": "Right next to the Villa, reachable on foot."
+          }
+        },
+        {
+          "name": "Autodromo Nazionale Monza",
+          "coords": [
+            9.281,
+            45.615
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt durch den Park zum Rennstrecken-Eingang.",
+            "hu": "Autózás a parkon át a versenypálya bejáratához.",
+            "ro": "Conducerea prin parc spre intrarea circuitului.",
+            "en": "Driving through the park to the track entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das Beste aus Kultur und Motorsport. Vormittags parken Sie zentral für den Dom und die Altstadt. Danach fahren Sie zum königlichen Areal, besichtigen die Villa Reale und beschließen den Tag mit einer Fahrt durch den Park zur legendären Rennstrecke.",
+        "hu": "Autóval kombináljuk a kultúra és a motorsport legjavát. Délelőtt a központban parkolunk a Dóm és az óváros felfedezéséhez. Ezután a királyi negyedbe hajtunk, megtekintjük a Villa Reale-t, majd a napot a parkon átvezető autózással és a versenypálya meglátogatásával zárjuk.",
+        "ro": "Cu mașina combinăm ce e mai bun din cultură și motorsport. Dimineața parcăm central pentru Dom și orașul vechi. Ulterior, conducem spre zona regală, vizităm Villa Reale și încheiem ziua cu o plimbare prin parc până la legendarul circuit.",
+        "en": "By car, you combine the best of culture and motorsport. In the morning, park centrally to explore the Duomo and old town. Then, drive to the royal district, visit the Villa Reale, and finish the day with a drive through the park to the legendary racetrack."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saint Georges Premier",
+            "tip": "Elegantes Restaurant direkt im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint Georges Premier",
+            "tip": "Elegáns étterem közvetlenül a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saint Georges Premier",
+            "tip": "Restaurant elegant situat direct în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint Georges Premier",
+            "tip": "Elegant restaurant located directly in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viale Cavriga",
+            "tip": "Schattige Allee zum Entspannen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viale Cavriga",
+            "tip": "Árnyas sugárút a pihenéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Viale Cavriga",
+            "tip": "Bulevard umbros pentru relaxare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viale Cavriga",
+            "tip": "Shady avenue for relaxation.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Commerciale Monza",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Commerciale Monza",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Commerciale Monza",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Commerciale Monza",
+            "tip": "Large shopping mall on the city outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL (verkehrsberuhigte Zonen) im Zentrum.",
+          "Parkplätze am Wochenende sind im Park begehrt.",
+          "Nutzen Sie die App 'Monza Mobilità' für Parkinfos."
+        ],
+        "hu": [
+          "Figyelj a ZTL (behajtási korlátozás) zónákra a központban.",
+          "Hétvégén a parki parkolóhelyek gyorsan betelnek.",
+          "Használd a 'Monza Mobilità' alkalmazást parkolási infókért."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (acces restricționat) din centru.",
+          "Locurile de parcare în parc sunt foarte căutate în weekend.",
+          "Folosiți aplicația 'Monza Mobilità' pentru informații despre parcare."
+        ],
+        "en": [
+          "Watch out for ZTL (restricted traffic) zones in the center.",
+          "Parking spots in the park are in high demand on weekends.",
+          "Use the 'Monza Mobilità' app for parking info."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Arengario",
+          "coords": [
+            9.2729,
+            45.5836
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "10 Min. Fußweg vom Bahnhof Monza.",
+            "hu": "10 perc séta a monzai vasútállomástól.",
+            "ro": "10 minute de mers pe jos de la gara Monza.",
+            "en": "10 min walk from Monza railway station."
+          }
+        },
+        {
+          "name": "Duomo di Monza",
+          "coords": [
+            9.2755,
+            45.5838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Cluster, zu Fuß erreichbar.",
+            "hu": "Központi zóna, gyalogosan bejárható.",
+            "ro": "Cluster central, accesibil pe jos.",
+            "en": "Central cluster, reachable on foot."
+          }
+        },
+        {
+          "name": "Villa Reale di Monza",
+          "coords": [
+            9.274,
+            45.5936
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Z221 oder Z204.",
+            "hu": "Szállj a Z221-es vagy Z204-es buszra.",
+            "ro": "Luați autobuzul Z221 sau Z204.",
+            "en": "Take bus Z221 or Z204."
+          }
+        },
+        {
+          "name": "Parco di Monza",
+          "coords": [
+            9.278,
+            45.596
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Villa Reale.",
+            "hu": "Gyalog a Villa Reale felől.",
+            "ro": "Pe jos de la Villa Reale.",
+            "en": "On foot from Villa Reale."
+          }
+        },
+        {
+          "name": "Autodromo Nazionale Monza",
+          "coords": [
+            9.281,
+            45.615
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bus Z208 direkt zum Eingang Vedano.",
+            "hu": "Z208-as busz közvetlenül a Vedano bejárathoz.",
+            "ro": "Autobuzul Z208 direct la intrarea Vedano.",
+            "en": "Bus Z208 directly to the Vedano entrance."
+          }
+        },
+        {
+          "name": "Ponte dei Leoni",
+          "coords": [
+            9.277,
+            45.5845
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Bus zurück ins Zentrum, Abschluss am Fluss.",
+            "hu": "Busszal vissza a központba, zárás a folyónál.",
+            "ro": "Autobuz înapoi în centru, final la râu.",
+            "en": "Bus back to center, wrap up at the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Busverbindungen erleben Sie Monza stressfrei ohne Auto. Vormittags erkunden Sie das historische Zentrum zu Fuß. Mit dem Stadtbus gelangen Sie bequem zur herrschaftlichen Villa Reale und später zum Formel-1-Kurs tief im Park, bevor Sie den Tag am Flussufer ausklingen lassen.",
+        "hu": "A jó buszközlekedésnek köszönhetően autó nélkül is kényelmesen bejárható Monza. Délelőtt az óvárost fedezzük fel gyalog. Helyi járatokkal könnyen kijutunk a királyi Villa Reale-hoz, majd a park mélyén fekvő Forma-1-es pályához, végül a folyóparton pihenünk meg.",
+        "ro": "Datorită conexiunilor bune de autobuz, experimentați Monza fără stres și fără mașină. Dimineața explorăm centrul istoric pe jos. Cu autobuzele locale ajungem ușor la Villa Reale și mai târziu la circuitul de Formula 1 din adâncul parcului, înainte de a încheia ziua pe malul râului.",
+        "en": "Thanks to good bus connections, you can experience Monza stress-free without a car. In the morning, explore the historic center on foot. Local buses take you comfortably to the grand Villa Reale and later to the Formula 1 track deep in the park, before finishing by the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gelateria d'Autore",
+            "tip": "Bestes Eis in der Nähe des Doms."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelateria d'Autore",
+            "tip": "A legjobb fagylalt a Dóm közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria d'Autore",
+            "tip": "Cea mai bună înghețată lângă Dom."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria d'Autore",
+            "tip": "Best gelato near the Duomo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Reali",
+            "tip": "Ideal für eine Pause zwischen den Busfahrten.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Reali",
+            "tip": "Ideális pihenőhely a buszozás között.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Reali",
+            "tip": "Ideal pentru o pauză între călătoriile cu autobuzul.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Reali",
+            "tip": "Ideal break spot between bus rides.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Iper Maestoso",
+            "tip": "Zentraler Supermarkt für Proviant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Iper Maestoso",
+            "tip": "Központi élelmiszerbolt útravalóhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iper Maestoso",
+            "tip": "Supermarket central pentru provizii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Iper Maestoso",
+            "tip": "Central supermarket for snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets in Tabakläden oder per App.",
+          "Die Busfrequenz ist an Sonntagen geringer.",
+          "Der Bahnhof ist ein guter Knotenpunkt für alle Linien."
+        ],
+        "hu": [
+          "Vegyél jegyet trafikban vagy mobilalkalmazáson.",
+          "Vasárnaponként a buszok ritkábban járnak.",
+          "A vasútállomás kiváló csomópont minden irányba."
+        ],
+        "ro": [
+          "Cumpărați bilete din tutungerii sau prin aplicație.",
+          "Frecvența autobuzelor este mai redusă duminica.",
+          "Gara este un nod excelent pentru toate liniile."
+        ],
+        "en": [
+          "Buy tickets at tobacco shops or via app.",
+          "Bus frequency is lower on Sundays.",
+          "The railway station is a great hub for all lines."
+        ]
+      }
+    }
+  }
+}

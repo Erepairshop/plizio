@@ -1,0 +1,1123 @@
+{
+  "city_id": "italy-borgo-di-borgo-val-di-taro-history-v2",
+  "anchor": {
+    "name": "Borgo Val di Taro",
+    "coords": [
+      44.48,
+      9.77
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Manara",
+            "hu": "Piazza Manara",
+            "ro": "Piazza Manara",
+            "en": "Piazza Manara"
+          },
+          "coords": [
+            44.4882,
+            9.7675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso in einer der historischen Bars am Platz.",
+            "hu": "Igyon egy eszpresszót a tér egyik patinás kávézójában.",
+            "ro": "Savurați un espresso la una dintre cafenelele istorice din piață.",
+            "en": "Sip an espresso at one of the historic bars on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Boveri",
+            "hu": "Palazzo Boveri",
+            "ro": "Palazzo Boveri",
+            "en": "Palazzo Boveri"
+          },
+          "coords": [
+            44.4885,
+            9.768
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade, in der einst Königin Elisabetta Farnese wohnte.",
+            "hu": "Csodálja meg a homlokzatot, ahol egykor Farnese Erzsébet királyné megszállt.",
+            "ro": "Admirați fațada unde a locuit odinioară regina Elisabetta Farnese.",
+            "en": "Admire the facade where Queen Elisabetta Farnese once stayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Domenico",
+            "hu": "San Domenico-templom",
+            "ro": "Biserica San Domenico",
+            "en": "San Domenico Church"
+          },
+          "coords": [
+            44.489,
+            9.7685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wertvollen Holzskulpturen im Inneren.",
+            "hu": "Figyelje meg a belső tér értékes faszobrait.",
+            "ro": "Observați sculpturile valoroase din lemn din interior.",
+            "en": "Note the valuable wooden sculptures inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo delle Mura",
+            "hu": "Falmúzeum",
+            "ro": "Muzeul Zidurilor",
+            "en": "Wall Museum"
+          },
+          "coords": [
+            44.4875,
+            9.7665
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterliche Geschichte der Stadtbefestigung.",
+            "hu": "Fedezze fel a városi erődítmények középkori történetét.",
+            "ro": "Descoperiți istoria medievală a fortificațiilor orașului.",
+            "en": "Discover the medieval history of the city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen (Steinpilz-Spezialitäten)",
+            "hu": "Ebéd (Vargánya különlegességek)",
+            "ro": "Prânz (Specialități cu hribi)",
+            "en": "Lunch (Porcini Specialties)"
+          },
+          "coords": [
+            44.487,
+            9.767
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt die lokalen Steinpilze (IGP Fungo di Borgotaro).",
+            "hu": "Mindenképpen kóstolja meg a helyi vargányát (IGP Fungo di Borgotaro).",
+            "ro": "Nu ratați hribii locali (IGP Fungo di Borgotaro).",
+            "en": "Be sure to try the local porcini mushrooms (IGP Fungo di Borgotaro)."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonino",
+            "hu": "Sant'Antonino-templom",
+            "ro": "Biserica Sant'Antonino",
+            "en": "Sant'Antonino Church"
+          },
+          "coords": [
+            44.4865,
+            9.766
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtige Orgel und die barocken Altäre.",
+            "hu": "Tekintse meg a pompás orgonát és a barokk oltárokat.",
+            "ro": "Vedeți orga magnifică și altarele baroce.",
+            "en": "See the magnificent organ and the baroque altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte di San Rocco",
+            "hu": "San Rocco-híd",
+            "ro": "Podul San Rocco",
+            "en": "San Rocco Bridge"
+          },
+          "coords": [
+            44.4855,
+            9.765
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Taro von dieser alten Brücke.",
+            "hu": "Élvezze a Taro-folyóra nyíló kilátást erről a régi hídról.",
+            "ro": "Bucurați-vă de vederea spre râul Taro de pe acest pod vechi.",
+            "en": "Enjoy the view of the Taro river from this ancient bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Borgo Val di Taro am Piazza Manara, dem pulsierenden Mittelpunkt der Stadt. Schlendern Sie durch die Gassen und bewundern Sie den Palazzo Boveri, bevor Sie in die sakrale Stille der San Domenico Kirche eintauchen. Nach einem Besuch im Museo delle Mura erwartet Sie ein kulinarisches Highlight: Steinpilze, für die die Region weltberühmt ist. Den Nachmittag verbringen Sie in der Sant'Antonino Kirche und beenden den Spaziergang an der historischen San Rocco Brücke mit Blick auf den Taro.",
+        "hu": "Kezdje a napot Borgo Val di Taro szívében, a Piazza Manara téren, a város lüktető központjában. Sétáljon végig a szűk utcákon, csodálja meg a Palazzo Boveri épületét, majd merüljön el a San Domenico-templom szakrális nyugalmában. A Falmúzeum megtekintése után kulináris élmény várja: a vargánya, amelyről a régió világszerte híres. A délutánt a Sant'Antonino-templomban tölti, a sétát pedig a történelmi San Rocco-hídnál zárja, kilátással a Taro-folyóra.",
+        "ro": "Începeți ziua în inima localității Borgo Val di Taro, în Piazza Manara, centrul vibrant al orașului. Plimbați-vă pe străduțele înguste și admirați Palazzo Boveri înainte de a intra în liniștea sacră a Bisericii San Domenico. După o vizită la Museo delle Mura, vă așteaptă un deliciu culinar: hribii, pentru care regiunea este faimoasă în întreaga lume. Petreceți după-amiaza la Biserica Sant'Antonino și încheiați plimbarea la podul istoric San Rocco, cu vedere spre râul Taro.",
+        "en": "Start your day in the heart of Borgo Val di Taro at Piazza Manara, the town's vibrant hub. Stroll through the narrow streets and admire Palazzo Boveri before immersing yourself in the sacred silence of San Domenico Church. After visiting the Wall Museum, a culinary highlight awaits: porcini mushrooms, for which the region is world-famous. Spend the afternoon at Sant'Antonino Church and end your walk at the historic San Rocco Bridge overlooking the Taro river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Probieren Sie die hausgemachten Tagliatelle mit frischen Steinpilzen."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Klassische Tortelli di Erbetta, eine Spezialität aus Parma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Kóstolja meg a házi készítésű tagliatellét friss vargányával."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Klasszikus Tortelli di Erbetta, egy parmai specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Încercați tagliatellele de casă cu hribi proaspeți."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Tortelli di Erbetta clasici, o specialitate din Parma."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Roma",
+            "tip": "Try the homemade tagliatelle with fresh porcini mushrooms."
+          },
+          {
+            "name": "Trattoria del Borgo",
+            "tip": "Classic Tortelli di Erbetta, a specialty from Parma."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Taro Flußufer",
+            "tip": "Ein entspannender Spaziergang entlang des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Domenico Kreuzgang",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taro-folyó partja",
+            "tip": "Pihentető séta a víz mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Domenico kolostorkert",
+            "tip": "A csend és az elmélkedés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Taro",
+            "tip": "O plimbare relaxantă de-a lungul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustrul San Domenico",
+            "tip": "Un loc de liniște și reflexie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Taro River Bank",
+            "tip": "A relaxing walk along the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "San Domenico Cloister",
+            "tip": "A place of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Montags)",
+            "tip": "Lokale Produkte und Spezialitäten direkt von den Bauern."
+          },
+          {
+            "name": "Bottega del Fungo",
+            "tip": "Getrocknete oder eingelegte Steinpilze als perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac (hétfőn)",
+            "tip": "Helyi termékek és specialitások közvetlenül a gazdáktól."
+          },
+          {
+            "name": "Bottega del Fungo",
+            "tip": "Szárított vagy pácolt vargánya, a tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (luni)",
+            "tip": "Produse locale și specialități direct de la fermieri."
+          },
+          {
+            "name": "Bottega del Fungo",
+            "tip": "Hribi uscați sau murați, suvenirul perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market (Mondays)",
+            "tip": "Local products and specialties directly from the farmers."
+          },
+          {
+            "name": "Bottega del Fungo",
+            "tip": "Dried or pickled porcini mushrooms, the perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr fußgängerfreundlich, das historische Zentrum ist kompakt.",
+          "Besuchen Sie die Stadt im September während der Fiera del Fungo di Borgotaro.",
+          "Achten Sie auf die Öffnungszeiten der Kirchen, sie schließen oft über Mittag.",
+          "Bequeme Schuhe sind für das Kopfsteinpflaster im Zentrum ratsam."
+        ],
+        "hu": [
+          "A város gyalogosbarát, a történelmi központ kompakt és könnyen bejárható.",
+          "Látogasson el szeptemberben a Fiera del Fungo di Borgotaro vargánya-fesztivál idején.",
+          "Ügyeljen a templomok nyitvatartására, délben gyakran zárva tartanak.",
+          "A központ macskaköves utcáihoz kényelmes cipő ajánlott."
+        ],
+        "ro": [
+          "Orașul este foarte prietenos cu pietonii, centrul istoric fiind compact.",
+          "Vizitați orașul în septembrie, în timpul Fiera del Fungo di Borgotaro.",
+          "Atenție la orele de deschidere ale bisericilor, adesea se închid la prânz.",
+          "Pantofii confortabili sunt recomandați pentru pavajul din centru."
+        ],
+        "en": [
+          "The town is very pedestrian-friendly, with a compact historic center.",
+          "Visit in September during the Fiera del Fungo di Borgotaro mushroom festival.",
+          "Check church opening hours, as they often close for a midday break.",
+          "Comfortable shoes are advised for the cobblestone streets in the center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 16.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Manara",
+            "hu": "Piazza Manara",
+            "ro": "Piazza Manara",
+            "en": "Piazza Manara"
+          },
+          "coords": [
+            44.4882,
+            9.7675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonino",
+            "hu": "Sant'Antonino-templom",
+            "ro": "Biserica Sant'Antonino",
+            "en": "Sant'Antonino Church"
+          },
+          "coords": [
+            44.4865,
+            9.766
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Fahrt ins Grüne.",
+            "hu": "Rövid megálló a természetbe indulás előtt.",
+            "ro": "Scurtă oprire înainte de drumul în natură.",
+            "en": "Short stop before heading into nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasi dei Ghirardi",
+            "hu": "Oasi dei Ghirardi természetvédelmi terület",
+            "ro": "Rezervația Oasi dei Ghirardi",
+            "en": "Oasi dei Ghirardi Nature Reserve"
+          },
+          "coords": [
+            44.45,
+            9.73
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "WWF-Schutzgebiet mit herrlicher Flora und Fauna.",
+            "hu": "WWF védett terület csodálatos flórával és faunával.",
+            "ro": "Zonă protejată WWF cu floră și faună magnifică.",
+            "en": "WWF protected area with magnificent flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick im Freien",
+            "hu": "Szabadtéri piknik",
+            "ro": "Picnic în aer liber",
+            "en": "Outdoor Picnic"
+          },
+          "coords": [
+            44.452,
+            9.732
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Produkte in der Natur.",
+            "hu": "Élvezze a helyi termékeket a természetben.",
+            "ro": "Bucurați-vă de produse locale în natură.",
+            "en": "Enjoy local products in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte di San Rocco",
+            "hu": "San Rocco-híd",
+            "ro": "Podul San Rocco",
+            "en": "San Rocco Bridge"
+          },
+          "coords": [
+            44.4855,
+            9.765
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Rückkehr in die Stadt über die alte Brücke.",
+            "hu": "Visszatérés a városba a régi hídon át.",
+            "ro": "Reîntoarcerea în oraș pe vechiul pod.",
+            "en": "Return to the city via the old bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Boveri",
+            "hu": "Palazzo Boveri",
+            "ro": "Palazzo Boveri",
+            "en": "Palazzo Boveri"
+          },
+          "coords": [
+            44.4885,
+            9.768
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss im historischen Zentrum.",
+            "hu": "Zárás a történelmi központban.",
+            "ro": "Final în centrul istoric.",
+            "en": "Finish in the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Borgo Val di Taro mit dem Fahrrad. Nach einem kurzen Start im Zentrum führt Sie die Route in das wunderschöne Oasi dei Ghirardi, ein WWF-Naturreservat. Genießen Sie die Ruhe und die frische Luft des Appennins bei einem Picknick, bevor Sie zurück in die Stadt radeln, um den Tag an der San Rocco Brücke und dem Palazzo Boveri ausklingen zu lassen.",
+        "hu": "Fedezze fel Borgo Val di Taro környékét kerékpárral. A központi indulás után az út a gyönyörű Oasi dei Ghirardi természetvédelmi területre vezet, amely a WWF oltalma alatt áll. Élvezze az Appenninek nyugalmát és friss levegőjét egy piknik során, mielőtt visszakerekezne a városba, hogy a napot a San Rocco-hídnál és a Palazzo Boveri épületénél zárja.",
+        "ro": "Explorați împrejurimile Borgo Val di Taro cu bicicleta. După un start scurt în centru, traseul vă duce în frumoasa rezervație Oasi dei Ghirardi, protejată de WWF. Bucurați-vă de liniștea și aerul curat al Apeninilor în timpul unui picnic, înainte de a pedala înapoi în oraș pentru a încheia ziua la podul San Rocco și Palazzo Boveri.",
+        "en": "Explore the surroundings of Borgo Val di Taro by bike. After a quick start in the center, the route leads you to the beautiful Oasi dei Ghirardi, a WWF nature reserve. Enjoy the tranquility and fresh air of the Apennines with a picnic before cycling back to town to end the day at San Rocco Bridge and Palazzo Boveri."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Delnevo",
+            "tip": "Holen Sie sich frische Focaccia für Ihr Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Delnevo pékség",
+            "tip": "Vegyél friss focacciát a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Delnevo",
+            "tip": "Luați focaccia proaspătă pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Delnevo Bakery",
+            "tip": "Get fresh focaccia for your picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oasi dei Ghirardi",
+            "tip": "Vogelbeobachtung und Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oasi dei Ghirardi",
+            "tip": "Madármegfigyelés és csend.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oasi dei Ghirardi",
+            "tip": "Observarea păsărilor și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oasi dei Ghirardi",
+            "tip": "Birdwatching and silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käserei",
+            "tip": "Kaufen Sie echten Parmigiano Reggiano direkt vor Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtbolt",
+            "tip": "Vásároljon valódi Parmigiano Reggianót közvetlenül a helyszínen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de brânzeturi",
+            "tip": "Cumpărați Parmigiano Reggiano autentic direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Shop",
+            "tip": "Buy authentic Parmigiano Reggiano directly on site."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Oasi dei Ghirardi ist teilweise hügelig, ein E-Bike ist empfehlenswert.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Bleiben Sie auf den markierten Wegen im Reservat."
+        ],
+        "hu": [
+          "Az út az Oasi dei Ghirardi felé részben dombos, az e-bike ajánlott.",
+          "Vigyen magával elegendő vizet.",
+          "Maradjon a kijelölt ösvényeken a rezervátumban."
+        ],
+        "ro": [
+          "Traseul spre Oasi dei Ghirardi este parțial deluros, se recomandă o bicicletă electrică.",
+          "Luați suficientă apă la voi.",
+          "Rămâneți pe traseele marcate în rezervație."
+        ],
+        "en": [
+          "The route to Oasi dei Ghirardi is partly hilly; an e-bike is recommended.",
+          "Bring plenty of water.",
+          "Stay on the marked trails in the reserve."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 65.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Manara (Cluster A)",
+            "hu": "Piazza Manara (A klaszter)",
+            "ro": "Piazza Manara (Cluster A)",
+            "en": "Piazza Manara (Cluster A)"
+          },
+          "coords": [
+            44.4882,
+            9.7675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den Stadtkern.",
+            "hu": "Parkoljon a központban és fedezze fel a városmagot.",
+            "ro": "Parcați central și explorați centrul orașului.",
+            "en": "Park centrally and explore the town core."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Boveri (Cluster A)",
+            "hu": "Palazzo Boveri (A klaszter)",
+            "ro": "Palazzo Boveri (Cluster A)",
+            "en": "Palazzo Boveri (Cluster A)"
+          },
+          "coords": [
+            44.4885,
+            9.768
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Platz.",
+            "hu": "Rövid séta a térről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Borgotaro (Cluster A)",
+            "hu": "Ebéd Borgotaro-ban (A klaszter)",
+            "ro": "Prânz în Borgotaro (Cluster A)",
+            "en": "Lunch in Borgotaro (Cluster A)"
+          },
+          "coords": [
+            44.487,
+            9.767
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühes Mittagessen, bevor es weitergeht.",
+            "hu": "Korai ebéd, mielőtt továbbindulna.",
+            "ro": "Prânz devreme înainte de a pleca mai departe.",
+            "en": "Early lunch before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Statale Monte Prinzera (Cluster B)",
+            "hu": "Monte Prinzera természetvédelmi terület (B klaszter)",
+            "ro": "Rezervația Monte Prinzera (Cluster B)",
+            "en": "Monte Prinzera State Reserve (Cluster B)"
+          },
+          "coords": [
+            44.64,
+            10.08
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 32.0,
+          "tip_5lang": {
+            "de": "Einzigartige vulkanische Landschaft mit Panorama.",
+            "hu": "Egyedülálló vulkáni táj panorámával.",
+            "ro": "Peisaj vulcanic unic cu panoramă.",
+            "en": "Unique volcanic landscape with a panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Berceto Dorf (Cluster C)",
+            "hu": "Berceto falu (C klaszter)",
+            "ro": "Satul Berceto (Cluster C)",
+            "en": "Berceto Village (Cluster C)"
+          },
+          "coords": [
+            44.51,
+            9.99
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Historisches Dorf an der Via Francigena.",
+            "hu": "Történelmi falu a Via Francigena mentén.",
+            "ro": "Sat istoric pe Via Francigena.",
+            "en": "Historic village on the Via Francigena."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Berceto (Cluster C)",
+            "hu": "Bercetói dóm (C klaszter)",
+            "ro": "Domul din Berceto (Cluster C)",
+            "en": "Berceto Cathedral (Cluster C)"
+          },
+          "coords": [
+            44.5105,
+            9.9905
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das romanische Portal.",
+            "hu": "Csodálja meg a román stílusú kaput.",
+            "ro": "Admirați portalul romanic.",
+            "en": "Admire the Romanesque portal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das Beste aus Borgo Val di Taro mit den Highlights der Umgebung. Nach einem Vormittag im historischen Zentrum fahren Sie zum Monte Prinzera, um die vulkanische Natur und weite Ausblicke zu genießen. Den Abschluss bildet ein Besuch im charmanten Berceto, einem wichtigen Stopp an der Via Francigena, bevor Sie die Rückreise antreten.",
+        "hu": "Autóval Borgo Val di Taro legjavát kombinálhatja a környék nevezetességeivel. A történelmi központban töltött délelőtt után a Monte Prinzera felé veszi az irányt, hogy élvezze a vulkáni természetet és a tágas kilátást. A napot a bájos Berceto falujában zárja, amely a Via Francigena fontos állomása, mielőtt hazaindulna.",
+        "ro": "Cu mașina, combinați tot ce este mai bun în Borgo Val di Taro cu atracțiile din jur. După o dimineață în centrul istoric, conduceți spre Monte Prinzera pentru a vă bucura de natura vulcanică și de priveliștile largi. Finalul zilei aparține satului fermecător Berceto, un punct important pe Via Francigena, înainte de drumul de întoarcere.",
+        "en": "By car, combine the best of Borgo Val di Taro with the highlights of the surroundings. After a morning in the historic center, drive to Monte Prinzera to enjoy the volcanic nature and vast views. The day concludes with a visit to the charming village of Berceto, an important stop on the Via Francigena, before the return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Da Romano (Berceto)",
+            "tip": "Herzhafte Bergküche und Wildgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Da Romano (Berceto)",
+            "tip": "Kiadós hegyi konyha és vadhús ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Da Romano (Berceto)",
+            "tip": "Bucătărie montană consistentă și preparate din vânat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Da Romano (Berceto)",
+            "tip": "Hearty mountain cuisine and game dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Prinzera Gipfel",
+            "tip": "Einzigartiges Panorama über das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Prinzera csúcs",
+            "tip": "Egyedülálló panoráma a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Monte Prinzera",
+            "tip": "Panoramă unică peste vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Prinzera Peak",
+            "tip": "Unique panorama over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Berceto Souvenirläden",
+            "tip": "Pilgerartikel und lokales Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bercetói szuvenírboltok",
+            "tip": "Zarándoktárgyak és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de suveniruri din Berceto",
+            "tip": "Articole pentru pelerini și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berceto Souvenir Shops",
+            "tip": "Pilgrim items and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+          "Parken Sie in Berceto am Dorfeingang.",
+          "In den Bergen kann es deutlich kühler sein als im Tal."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak, vezessen óvatosan.",
+          "Bercetóban parkoljon a falu bejáratánál.",
+          "A hegyekben lényegesen hűvösebb lehet, mint a völgyben."
+        ],
+        "ro": [
+          "Drumurile montane sunt sinuoase, conduceți cu prudență.",
+          "Parcați în Berceto la intrarea în sat.",
+          "La munte poate fi mult mai răcoare decât în vale."
+        ],
+        "en": [
+          "The mountain roads are winding; drive carefully.",
+          "In Berceto, park at the entrance to the village.",
+          "It can be significantly cooler in the mountains than in the valley."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Borgo Val di Taro",
+            "hu": "Borgo Val di Taro vasútállomás",
+            "ro": "Gara Borgo Val di Taro",
+            "en": "Borgo Val di Taro Train Station"
+          },
+          "coords": [
+            44.492,
+            9.775
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wichtiger Knotenpunkt an der Strecke Parma-La Spezia.",
+            "hu": "Fontos csomópont a Parma-La Spezia vonalon.",
+            "ro": "Nod important pe ruta Parma-La Spezia.",
+            "en": "Important hub on the Parma-La Spezia line."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Manara (Cluster Zentrum)",
+            "hu": "Piazza Manara (Központi klaszter)",
+            "ro": "Piazza Manara (Cluster Centru)",
+            "en": "Piazza Manara (Center Cluster)"
+          },
+          "coords": [
+            44.4882,
+            9.7675
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Bus oder Spaziergang vom Bahnhof.",
+            "hu": "Rövid buszozás vagy séta az állomástól.",
+            "ro": "O scurtă călătorie cu autobuzul sau plimbare de la gară.",
+            "en": "A short bus ride or walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo delle Mura (Cluster Zentrum)",
+            "hu": "Falmúzeum (Központi klaszter)",
+            "ro": "Muzeul Zidurilor (Cluster Centru)",
+            "en": "Wall Museum (Center Cluster)"
+          },
+          "coords": [
+            44.4875,
+            9.7665
+          ],
+          "category": "museums",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Museumsbesuch in der Altstadt.",
+            "hu": "Múzeumlátogatás az óvárosban.",
+            "ro": "Vizită la muzeu în centrul vechi.",
+            "en": "Museum visit in the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            44.487,
+            9.767
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie Borgotaro-Pilze.",
+            "hu": "Élvezze a borgotarói gombát.",
+            "ro": "Savurați ciupercile din Borgotaro.",
+            "en": "Enjoy Borgotaro mushrooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte di San Rocco (Cluster Zentrum)",
+            "hu": "San Rocco-híd (Központi klaszter)",
+            "ro": "Podul San Rocco (Cluster Centru)",
+            "en": "San Rocco Bridge (Center Cluster)"
+          },
+          "coords": [
+            44.4855,
+            9.765
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof (Rückreise)",
+            "hu": "Vasútállomás (visszautazás)",
+            "ro": "Gară (întoarcere)",
+            "en": "Station (Return)"
+          },
+          "coords": [
+            44.492,
+            9.775
+          ],
+          "category": "port",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rechtzeitig für den Zug zurück.",
+            "hu": "Időben a visszainduló vonathoz.",
+            "ro": "La timp pentru trenul de întoarcere.",
+            "en": "In time for the train back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Bahnanbindung ist Borgo Val di Taro ideal mit öffentlichen Verkehrsmitteln erreichbar. Vom Bahnhof gelangen Sie schnell ins Zentrum, um dort den Vormittag mit Kultur im Museo delle Mura und Kulinarik zu verbringen. Der Nachmittag gehört der Entspannung an der historischen Brücke, bevor es zurück zum Bahnhof geht.",
+        "hu": "A jó vasúti összeköttetésnek köszönhetően Borgo Val di Taro ideálisan elérhető tömegközlekedéssel. Az állomástól gyorsan a központba juthat, ahol a délelőttöt kultúrával a Falmúzeumban és gasztronómiával töltheti. A délután a pihenésé a történelmi hídnál, mielőtt visszatérne az állomásra.",
+        "ro": "Datorită legăturilor feroviare bune, Borgo Val di Taro este ușor accesibil cu transportul public. De la gară ajungeți rapid în centru pentru a petrece dimineața cu cultură la Muzeul Zidurilor și gastronomie. După-amiaza este dedicată relaxării la podul istoric, înainte de a reveni la gară.",
+        "en": "Thanks to good rail connections, Borgo Val di Taro is ideally accessible by public transport. From the station, you quickly reach the center to spend the morning with culture at the Wall Museum and local cuisine. The afternoon is dedicated to relaxation at the historic bridge before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Stazione",
+            "tip": "Schneller Kaffee oder Snack vor der Abreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Stazione",
+            "tip": "Gyors kávé vagy harapnivaló indulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Stazione",
+            "tip": "O cafea rapidă sau o gustare înainte de plecare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Stazione",
+            "tip": "Quick coffee or snack before departure."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini IV Novembre",
+            "tip": "Kleiner Park in Bahnhofsnähe.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini IV Novembre",
+            "tip": "Kis park az állomás közelében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini IV Novembre",
+            "tip": "Mic parc lângă gară.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini IV Novembre",
+            "tip": "Small park near the station.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Edicola Stazione",
+            "tip": "Lokale Zeitungen und Reiseführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási újságos",
+            "tip": "Helyi újságok és útikalauzok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul de ziare din gară",
+            "tip": "Ziare locale și ghiduri turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Newsstand",
+            "tip": "Local newspapers and travel guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Regionalzug 'Cinque Terre Express' hält oft hier.",
+          "Fahrkarten am Automaten im Bahnhof entwerten.",
+          "Ein lokaler Bus verbindet den Bahnhof mit dem Zentrum (Linie 1)."
+        ],
+        "hu": [
+          "A 'Cinque Terre Express' regionális vonat gyakran megáll itt.",
+          "A jegyeket érvényesítse az állomáson lévő automatáknál.",
+          "Helyi busz köti össze az állomást a központtal (1-es vonal)."
+        ],
+        "ro": [
+          "Trenul regional 'Cinque Terre Express' oprește adesea aici.",
+          "Validați biletele la aparatele din gară.",
+          "Un autobuz local leagă gara de centru (linia 1)."
+        ],
+        "en": [
+          "The 'Cinque Terre Express' regional train often stops here.",
+          "Validate tickets at the machines in the station.",
+          "A local bus connects the station to the center (Line 1)."
+        ]
+      }
+    }
+  }
+}

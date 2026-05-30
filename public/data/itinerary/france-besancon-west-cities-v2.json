@@ -1,0 +1,1026 @@
+{
+  "city_id": "france-besancon-west-cities-v2",
+  "anchor": {
+    "name": "Besançon",
+    "coords": [
+      6.02,
+      47.23
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle von Besançon",
+            "hu": "Besançoni fellegvár",
+            "ro": "Citadela din Besançon",
+            "en": "Citadel of Besançon"
+          },
+          "coords": [
+            6.031,
+            47.2312
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Zoo innerhalb der Mauern.",
+            "hu": "Nézze meg az erőd falai közt lévő állatkertet is.",
+            "ro": "Vizitați grădina zoologică din interiorul zidurilor.",
+            "en": "Visit the zoo located within the fortress walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean & Astronomische Uhr",
+            "hu": "Szent János katedrális és csillagászati óra",
+            "ro": "Catedrala Saint-Jean și Ceasul Astronomic",
+            "en": "Saint-Jean Cathedral & Astronomical Clock"
+          },
+          "coords": [
+            6.0305,
+            47.2345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Uhr zeigt 30.000 Teile und 57 Zifferblätter.",
+            "hu": "Az óra 30 000 alkatrészből és 57 számlapból áll.",
+            "ro": "Ceasul are 30.000 de piese și 57 de cadranuri.",
+            "en": "The clock features 30,000 parts and 57 dials."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Noire",
+            "hu": "Fekete-kapu",
+            "ro": "Porte Noire",
+            "en": "Porte Noire"
+          },
+          "coords": [
+            6.0302,
+            47.2346
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein römisches Ehrentor aus dem 2. Jahrhundert.",
+            "hu": "Egy római diadalív a 2. századból.",
+            "ro": "Un arc de triumf roman din secolul al II-lea.",
+            "en": "A Roman triumphal arch from the 2nd century."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Victor Hugo",
+            "hu": "Victor Hugo szülőháza",
+            "ro": "Casa natală a lui Victor Hugo",
+            "en": "Victor Hugo's Birthplace"
+          },
+          "coords": [
+            6.0321,
+            47.2351
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interessante Ausstellung über Hugos politisches Engagement.",
+            "hu": "Érdekes kiállítás Hugo politikai szerepvállalásáról.",
+            "ro": "Expoziție interesantă despre angajamentul politic al lui Hugo.",
+            "en": "Interesting exhibit on Hugo's political commitment."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Temps",
+            "hu": "Az Idő Múzeuma",
+            "ro": "Muzeul Timpului",
+            "en": "Museum of Time"
+          },
+          "coords": [
+            6.0265,
+            47.2368
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Im Palais Granvelle untergebracht, tolle Uhrensammlung.",
+            "hu": "A Palais Granvelle-ben található, pazar óragyűjtemény.",
+            "ro": "Găzduit în Palais Granvelle, o colecție superbă de ceasuri.",
+            "en": "Housed in Palais Granvelle, superb clock collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts et d'Archéologie",
+            "hu": "Szépművészeti és Régészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase și Arheologie",
+            "en": "Museum of Fine Arts and Archaeology"
+          },
+          "coords": [
+            6.0225,
+            47.2405
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eines der ältesten öffentlichen Museen Frankreichs.",
+            "hu": "Franciaország egyik legrégebbi nyilvános múzeuma.",
+            "ro": "Unul dintre cele mai vechi muzee publice din Franța.",
+            "en": "One of the oldest public museums in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Micaud",
+            "hu": "Micaud park",
+            "ro": "Parcul Micaud",
+            "en": "Parc Micaud"
+          },
+          "coords": [
+            6.0325,
+            47.2435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Fluss Doubs.",
+            "hu": "Élvezze a Doubs folyóra nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea spre râul Doubs.",
+            "en": "Enjoy the view over the Doubs river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag steht im Zeichen der mächtigen Zitadelle, die hoch über der Stadt thront. Mittags steigen wir hinab zur Kathedrale und bewundern die astronomische Präzision der berühmten Uhr. Der Nachmittag führt uns durch die reiche Geschichte der Stadt, vom römischen Erbe an der Porte Noire bis hin zum Geburtsort von Victor Hugo. Wir beschließen den Tag mit Kunst im ältesten Museum des Landes und einem entspannten Spaziergang am Flussufer im Micaud-Park.",
+        "hu": "A délelőtt a város fölé magasodó hatalmas fellegvár felfedezésével telik. Délben leereszkedünk a katedrálishoz, hogy megcsodáljuk a híres csillagászati óra pontosságát. A délután a város gazdag történelmén vezet keresztül, a római örökségtől Victor Hugo szülőházáig. A napot az ország legrégebbi múzeumának műkincseivel és egy kellemes folyóparti sétával zárjuk a Micaud parkban.",
+        "ro": "Dimineața este dedicată explorării citadelei impunătoare care domină orașul. La prânz coborâm la catedrală pentru a admira precizia astronomică a faimosului ceas. După-amiaza ne poartă prin istoria bogată a orașului, de la moștenirea romană de la Porte Noire până la casa natală a lui Victor Hugo. Încheiem ziua cu artă în cel mai vechi muzeu din țară și o plimbare relaxantă pe malul râului în Parcul Micaud.",
+        "en": "The morning is dedicated to exploring the massive citadel towering over the city. At midday, we descend to the cathedral to admire the astronomical precision of the famous clock. The afternoon leads us through the city's rich history, from the Roman heritage at Porte Noire to Victor Hugo's birthplace. We conclude the day with art in the country's oldest museum and a relaxing riverside stroll in Parc Micaud."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Vin et l'Assiette",
+            "tip": "Probieren Sie Comté-Käse und lokale Weine."
+          },
+          {
+            "name": "Morteau-Wurst",
+            "tip": "Eine geräucherte Spezialität aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Vin et l'Assiette",
+            "tip": "Kóstolja meg a Comté sajtot és a helyi borokat."
+          },
+          {
+            "name": "Morteau kolbász",
+            "tip": "A régió híres füstölt különlegessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Vin et l'Assiette",
+            "tip": "Gustați brânza Comté și vinurile locale."
+          },
+          {
+            "name": "Cârnați Morteau",
+            "tip": "O specialitate afumată din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Vin et l'Assiette",
+            "tip": "Try Comté cheese and local Jura wines."
+          },
+          {
+            "name": "Morteau Sausage",
+            "tip": "A famous smoked specialty of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Ruhiges Viertel am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zitadellen-Wälle",
+            "tip": "Panoramablick zum Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Csendes vízparti negyed pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fellegvár bástyái",
+            "tip": "Panoráma a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Cartier liniștit lângă apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bastioanele Citadelei",
+            "tip": "Vedere panoramică la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Quiet waterside area for relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citadel Ramparts",
+            "tip": "Panoramic views at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand Rue",
+            "tip": "Haupteinkaufsstraße mit Charme."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Lokale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand Rue",
+            "tip": "Hangulatos fő bevásárlóutca."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Helyi termékek és különlegességek piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand Rue",
+            "tip": "Principala stradă comercială cu farmec."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Piață cu produse și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Rue",
+            "tip": "Main shopping street with local charm."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Market for local products and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Besançon ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Die Zitadelle erfordert einen steilen Aufstieg zu Fuß.",
+          "Die astronomische Uhr hat feste Vorführzeiten, prüfen Sie diese vorab.",
+          "Sonntags sind viele Geschäfte in der Grand Rue geschlossen."
+        ],
+        "hu": [
+          "Besançon dombos város, viseljen kényelmes cipőt.",
+          "A fellegvárba meredek gyalogút vezet fel.",
+          "A csillagászati órának fix bemutató időpontjai vannak, ellenőrizze előre.",
+          "Vasárnap a legtöbb üzlet zárva tart a Grand Rue-n."
+        ],
+        "ro": [
+          "Besançon are multe pante, purtați încălțăminte comodă.",
+          "Citadela necesită urcare abruptă pe jos.",
+          "Ceasul astronomic are ore fixe de prezentare, verificați în avans.",
+          "Duminica majoritatea magazinelor de pe Grand Rue sunt închise."
+        ],
+        "en": [
+          "Besançon is hilly, so wear comfortable walking shoes.",
+          "Reaching the Citadel requires a steep walk uphill.",
+          "The astronomical clock has fixed show times; check them in advance.",
+          "Many shops on Grand Rue are closed on Sundays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Micaud",
+            "hu": "Micaud park",
+            "ro": "Parcul Micaud",
+            "en": "Parc Micaud"
+          },
+          "coords": [
+            6.0325,
+            47.2435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt für eine Radtour am Fluss.",
+            "hu": "Tökéletes kiindulópont egy folyóparti tekeréshez.",
+            "ro": "Punct de plecare perfect pentru o tură de bicicletă pe râu.",
+            "en": "Perfect starting point for a river bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Besançon",
+            "hu": "Besançoni fellegvár",
+            "ro": "Citadela din Besançon",
+            "en": "Citadel of Besançon"
+          },
+          "coords": [
+            6.031,
+            47.2312
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist anstrengend, aber die Aussicht lohnt sich.",
+            "hu": "Az emelkedő izzasztó, de a kilátás kárpótol.",
+            "ro": "Urcarea este obositoare, dar priveliștea merită.",
+            "en": "The climb is tough, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean",
+            "hu": "Szent János katedrális",
+            "ro": "Catedrala Saint-Jean",
+            "en": "Saint-Jean Cathedral"
+          },
+          "coords": [
+            6.0305,
+            47.2345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher am Eingang ab.",
+            "hu": "Zárja le biztonságosan a biciklit a bejáratnál.",
+            "ro": "Încuiați bine bicicleta la intrare.",
+            "en": "Lock your bike securely at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Temps",
+            "hu": "Az Idő Múzeuma",
+            "ro": "Muzeul Timpului",
+            "en": "Museum of Time"
+          },
+          "coords": [
+            6.0265,
+            47.2368
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das Palais Granvelle ist ein Juwel der Renaissance.",
+            "hu": "A Palais Granvelle a reneszánsz építészet ékköve.",
+            "ro": "Palais Granvelle este o bijuterie a Renașterii.",
+            "en": "Palais Granvelle is a Renaissance gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            6.0225,
+            47.2405
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Moderne Architektur im historischen Kern.",
+            "hu": "Modern építészet a történelmi magban.",
+            "ro": "Arhitectură modernă în centrul istoric.",
+            "en": "Modern architecture within the historic core."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die grüne Lunge von Besançon entlang des Doubs und erklimmen die Zitadelle für den besten Ausblick. Wir fahren durch die Renaissance-Gassen zum Uhrenmuseum und genießen die Flexibilität auf zwei Rädern im historischen Zentrum.",
+        "hu": "Biciklivel fedezzük fel Besançon zöld tüdejét a Doubs mentén, majd feltekerünk a fellegvárba a legjobb kilátásért. Reneszánsz utcákon át gurulunk az óramúzeumig, kihasználva a két kerék nyújtotta szabadságot a történelmi központban.",
+        "ro": "Cu bicicleta explorăm plămânul verde al orașului de-a lungul râului Doubs și urcăm la citadelă pentru cea mai bună vedere. Pedalăm prin străzile renascentiste până la muzeul ceasului, profitând de flexibilitatea pe două roți.",
+        "en": "By bike, we explore Besançon's green lung along the Doubs and climb to the citadel for the best view. We cycle through Renaissance streets to the watch museum, enjoying the flexibility of two wheels in the historic center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie du Commerce",
+            "tip": "Traditionelle Küche in prunkvollem Dekor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie du Commerce",
+            "tip": "Hagyományos konyha pazar környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie du Commerce",
+            "tip": "Bucătărie tradițională într-un decor somptuos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie du Commerce",
+            "tip": "Traditional cuisine in a lavish setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radschnellweg am Doubs",
+            "tip": "Entspanntes Fahren am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Doubs menti kerékpárút",
+            "tip": "Pihentető tekerés a víz mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete pe Doubs",
+            "tip": "Pedalat relaxant lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Doubs Riverside Path",
+            "tip": "Relaxing cycling by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Frische regionale Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fedett piac",
+            "tip": "Friss helyi élelmiszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Acoperită",
+            "tip": "Produse alimentare locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Covered Market",
+            "tip": "Fresh regional food products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'VéloCité' Leihradsystem.",
+          "Achtung in der Fußgängerzone: Schritttempo."
+        ],
+        "hu": [
+          "Használja a 'VéloCité' bérbicikli-rendszert.",
+          "Figyelem a sétálóövezetben: csak lépésben."
+        ],
+        "ro": [
+          "Folosiți sistemul de închiriat biciclete 'VéloCité'.",
+          "Atenție în zona pietonală: circulați cu viteză redusă."
+        ],
+        "en": [
+          "Use the 'VéloCité' bike-sharing system.",
+          "Be careful in pedestrian zones: walking speed only."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cluster Zitadelle (Parkplatz)",
+            "hu": "Fellegvár klaszter (parkoló)",
+            "ro": "Cluster Citadela (parcare)",
+            "en": "Citadel Cluster (Parking)"
+          },
+          "coords": [
+            6.033,
+            47.232
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ganzen Vormittag.",
+            "hu": "Parkoljon itt egész délelőttre.",
+            "ro": "Parcați aici pentru întreaga dimineață.",
+            "en": "Park here for the entire morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean",
+            "hu": "Szent János katedrális",
+            "ro": "Catedrala Saint-Jean",
+            "en": "Saint-Jean Cathedral"
+          },
+          "coords": [
+            6.0305,
+            47.2345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Zitadelle erreichbar.",
+            "hu": "Gyalogosan elérhető a fellegvártól.",
+            "ro": "Accesibil pe jos de la citadelă.",
+            "en": "Accessible on foot from the Citadel."
+          }
+        },
+        {
+          "name": {
+            "de": "Cluster Zentrum (Parkhaus Beaux-Arts)",
+            "hu": "Központ klaszter (Beaux-Arts parkolóház)",
+            "ro": "Cluster Centru (parcare Beaux-Arts)",
+            "en": "Center Cluster (Beaux-Arts Parking)"
+          },
+          "coords": [
+            6.022,
+            47.241
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Zentrale Basis für die Museen im Kern.",
+            "hu": "Központi bázis a belvárosi múzeumokhoz.",
+            "ro": "Bază centrală pentru muzeele din centru.",
+            "en": "Central base for the downtown museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Temps",
+            "hu": "Az Idő Múzeuma",
+            "ro": "Muzeul Timpului",
+            "en": "Museum of Time"
+          },
+          "coords": [
+            6.0265,
+            47.2368
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 85,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkhaus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Micaud",
+            "hu": "Micaud park",
+            "ro": "Parcul Micaud",
+            "en": "Parc Micaud"
+          },
+          "coords": [
+            6.0325,
+            47.2435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken am Bahnhof Viotte möglich.",
+            "hu": "Parkolás a Viotte pályaudvarnál lehetséges.",
+            "ro": "Parcare posibilă la gara Viotte.",
+            "en": "Parking available near Viotte station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen wir bequem die verschiedenen Höhenstufen von Besançon. Wir parken an der Zitadelle für den historischen Teil, wechseln dann ins Zentrum für die Museen und beenden die Tour im grünen Micaud-Park.",
+        "hu": "Autóval kényelmesen érhetjük el Besançon különböző szintjeit. A fellegvárnál parkolunk a történelmi részhez, majd a központba hajtunk a múzeumokhoz, végül a Micaud park zöldjében zárjuk a napot.",
+        "ro": "Cu mașina ajungem ușor la diferitele niveluri ale orașului. Parcăm la citadelă pentru partea istorică, apoi mergem în centru pentru muzee și încheiem turul în verdele Parcului Micaud.",
+        "en": "By car, we easily navigate the different levels of Besançon. We park at the Citadel for the historic part, then move to the center for the museums, ending the tour in the greenery of Parc Micaud."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Spezialisiert auf Käsegerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Sajtos ételekre specializálódott étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Restaurant specializat în preparate cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Specializing in local cheese dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Ruhiger Aussichtspunkt gegenüber der Zitadelle.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Csendes kilátópont a fellegvárral szemben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Punct de observație liniștit vis-a-vis de citadelă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Quiet viewpoint opposite the Citadel.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zone Commerciale Chateaufarine",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chateaufarine bevásárlóövezet",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Comercială Chateaufarine",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chateaufarine Shopping Zone",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist teuer, nutzen Sie Parkhäuser.",
+          "Die Straßen in der Altstadt sind sehr eng."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága, használjon parkolóházakat.",
+          "Az óvárosi utcák nagyon szűkek."
+        ],
+        "ro": [
+          "Parcarea în centru este scumpă, folosiți parcările etajate.",
+          "Străzile din orașul vechi sunt foarte înguste."
+        ],
+        "en": [
+          "Downtown parking is expensive; use parking garages.",
+          "Old town streets are very narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle (Ginko Bus G1)",
+            "hu": "Fellegvár (Ginko busz G1)",
+            "ro": "Citadela (Autobuz Ginko G1)",
+            "en": "Citadel (Ginko Bus G1)"
+          },
+          "coords": [
+            6.031,
+            47.2312
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Linie G1 fährt direkt nach oben.",
+            "hu": "A G1-es járat közvetlenül felvisz.",
+            "ro": "Linia G1 urcă direct.",
+            "en": "The G1 line goes directly up."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Révolution (Tram)",
+            "hu": "Forradalom tere (Villamos)",
+            "ro": "Place de la Révolution (Tramvai)",
+            "en": "Place de la Révolution (Tram)"
+          },
+          "coords": [
+            6.0225,
+            47.2405
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für Tram und Bus.",
+            "hu": "Központi átszállópont villamosra és buszra.",
+            "ro": "Punct central de transfer pentru tramvai și autobuz.",
+            "en": "Central transfer point for tram and bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Temps",
+            "hu": "Az Idő Múzeuma",
+            "ro": "Muzeul Timpului",
+            "en": "Museum of Time"
+          },
+          "coords": [
+            6.0265,
+            47.2368
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nur wenige Minuten von der Tramstation.",
+            "hu": "Csak pár percre a villamosmegállótól.",
+            "ro": "La doar câteva minute de stația de tramvai.",
+            "en": "Just a few minutes from the tram station."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Micaud",
+            "hu": "Micaud park",
+            "ro": "Parcul Micaud",
+            "en": "Parc Micaud"
+          },
+          "coords": [
+            6.0325,
+            47.2435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Direkt an der Tramstation Micaud.",
+            "hu": "Közvetlenül a Micaud villamosmegállónál.",
+            "ro": "Chiar la stația de tramvai Micaud.",
+            "en": "Right at the Micaud tram station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das effiziente Ginko-Netzwerk verbindet die Zitadelle mit der Innenstadt. Wir nutzen den Bus für den Aufstieg und die moderne Tram für die Wege zwischen den Museen und dem Park.",
+        "hu": "Az effektív Ginko hálózat összeköti a fellegvárat a belvárossal. Busszal megyünk fel az erődbe, majd a modern villamost használjuk a múzeumok és a park közötti közlekedéshez.",
+        "ro": "Rețeaua eficientă Ginko conectează citadela cu centrul orașului. Folosim autobuzul pentru urcare și tramvaiul modern pentru deplasarea între muzee și parc.",
+        "en": "The efficient Ginko network connects the Citadel with the city center. We use the bus to ascend and the modern tram to move between the museums and the park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Clémenceau",
+            "tip": "Beliebte Brasserie im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Clémenceau",
+            "tip": "Népszerű söröző a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Clémenceau",
+            "tip": "Braserie populară în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Clémenceau",
+            "tip": "Popular brasserie in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Granvelle",
+            "tip": "Schattiger Platz im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Granvelle sétány",
+            "tip": "Árnyas tér a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Granvelle",
+            "tip": "Piață umbrită în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Granvelle Promenade",
+            "tip": "Shady square in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Passage Pasteur",
+            "tip": "Moderne Einkaufspassage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasteur-átjáró",
+            "tip": "Modern bevásárlópasszázs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Passage Pasteur",
+            "tip": "Pasaj comercial modern."
+          }
+        ],
+        "en": [
+          {
+            "name": "Passage Pasteur",
+            "tip": "Modern shopping passage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 24-Stunden-Karte.",
+          "Laden Sie die Ginko Mobilités App herunter."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet.",
+          "Töltse le a Ginko Mobilités alkalmazást."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore.",
+          "Descărcați aplicația Ginko Mobilités."
+        ],
+        "en": [
+          "Buy a 24-hour transit pass.",
+          "Download the Ginko Mobilités app."
+        ]
+      }
+    }
+  }
+}

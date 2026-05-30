@@ -1,0 +1,938 @@
+{
+  "city_id": "france-rouen-bis-cities-v2",
+  "anchor": {
+    "name": "Rouen-Rive-Gauche",
+    "coords": [
+      1.08,
+      49.43
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place du Vieux-Marché",
+          "coords": [
+            1.088,
+            49.441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ort der Hinrichtung von Jeanne d'Arc im Jahr 1431.",
+            "hu": "Jeanne d’Arc 1431-es kivégzésének történelmi helyszíne.",
+            "ro": "Locul execuției Ioanei d'Arc în anul 1431.",
+            "en": "Site of Joan of Arc's execution in 1431."
+          }
+        },
+        {
+          "name": "Église Sainte-Jeanne-d'Arc",
+          "coords": [
+            1.0881,
+            49.4412
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Moderne Architektur mit Glasmalereien aus dem 16. Jahrhundert.",
+            "hu": "Modern templom 16. századi festett üvegablakokkal.",
+            "ro": "Arhitectură modernă cu vitralii din secolul al XVI-lea.",
+            "en": "Modern architecture housing 16th-century stained glass."
+          }
+        },
+        {
+          "name": "Gros-Horloge",
+          "coords": [
+            1.091,
+            49.44
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Astronomische Uhr aus dem 14. Jahrhundert über der Straße.",
+            "hu": "14. századi csillagászati óra a sétálóutca felett.",
+            "ro": "Ceas astronomic din secolul al XIV-lea deasupra străzii.",
+            "en": "14th-century astronomical clock spanning the street."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame de Rouen",
+          "coords": [
+            1.094,
+            49.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Inspiration für Monets berühmte Gemäldeserie.",
+            "hu": "Monet híres festménysorozatának ihletője.",
+            "ro": "Inspirația pentru celebra serie de picturi a lui Monet.",
+            "en": "Inspiration for Monet's famous series of paintings."
+          }
+        },
+        {
+          "name": "Église Saint-Maclou",
+          "coords": [
+            1.098,
+            49.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der flammenden Gotik.",
+            "hu": "A lángoló gótika egyik legszebb példája.",
+            "ro": "O capodoperă a stilului gotic flamboyant.",
+            "en": "A masterpiece of flamboyant Gothic architecture."
+          }
+        },
+        {
+          "name": "Aître Saint-Maclou",
+          "coords": [
+            1.099,
+            49.44
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ehemaliger Pestfriedhof mit makabren Holzschnitzereien.",
+            "hu": "Egykori pestistemető udvara különleges fafaragásokkal.",
+            "ro": "Fost cimitir de ciumă cu sculpturi macabre în lemn.",
+            "en": "Former plague cemetery courtyard with macabre carvings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route führt Sie durch das Herz des mittelalterlichen Rouens. Sie beginnen auf dem Place du Vieux-Marché, wo die Geschichte von Jeanne d'Arc endet, und spazieren dann unter der berühmten astronomischen Uhr hindurch. Mittags bestaunen Sie die Fassade der Kathedrale, bevor Sie die faszinierenden, holzgeschnitzten Details des Aître Saint-Maclou entdecken. Ein Tag voller gotischer Pracht und tragischer Geschichte.",
+        "hu": "Ez az útvonal a középkori Rouen szívébe kalauzolja. Kezdjen a Vieux-Marché téren, Jeanne d’Arc máglyahalálának helyszínén, majd sétáljon át a hatalmas csillagászati óra alatt. Délben csodálja meg a katedrális homlokzatát, amelyet Monet is megörökített, végül fedezze fel a Saint-Maclou negyed rejtett udvarait és különleges fafaragásait. Gótikus pompa és mély történelem várja.",
+        "ro": "Acest traseu vă poartă prin inima Rouenului medieval. Începeți în Place du Vieux-Marché, unde s-a încheiat povestea Ioanei d'Arc, apoi treceți pe sub celebrul ceas astronomic. La prânz, admirați fațada catedralei care l-a fascinat pe Monet, înainte de a descoperi detaliile sculptate în lemn ale curții Aître Saint-Maclou. O zi dedicată stilului gotic și istoriei normande.",
+        "en": "This route takes you through the heart of medieval Rouen. Start at Place du Vieux-Marché, where Joan of Arc's story ended, and then walk beneath the famous astronomical clock. At midday, marvel at the cathedral facade that inspired Monet, before discovering the fascinating wood-carved details of the Aître Saint-Maclou courtyard. A day of Gothic splendor and poignant history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "Traditionelle gepresste Ente im Restaurant La Couronne."
+          },
+          {
+            "name": "Larmes de Jeanne d'Arc",
+            "tip": "Mit Schokolade überzogene Mandeln als lokales Konfekt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "Hagyományos préselt kacsa a történelmi La Couronne étteremben."
+          },
+          {
+            "name": "Larmes de Jeanne d'Arc",
+            "tip": "Csokoládéval bevont mandula, Rouen édes specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "Rață presată tradițională la restaurantul istoric La Couronne."
+          },
+          {
+            "name": "Larmes de Jeanne d'Arc",
+            "tip": "Migdale trase în ciocolată, un desert local simbolic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "Traditional pressed duck at the historic La Couronne restaurant."
+          },
+          {
+            "name": "Larmes de Jeanne d'Arc",
+            "tip": "Chocolate-covered almonds, a local sweet specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Aître Saint-Maclou",
+            "tip": "Stille Oase inmitten der Altstadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seine-Ufer",
+            "tip": "Ruhiger Spaziergang entlang der Rive Gauche.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aître Saint-Maclou udvara",
+            "tip": "Csendes oázis az óváros közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szajna-part",
+            "tip": "Nyugodt séta a bal parton a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Aître Saint-Maclou",
+            "tip": "Oază de liniște în centrul vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malurile Senei",
+            "tip": "Plimbare relaxantă de-a lungul Rive Gauche.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aître Saint-Maclou Courtyard",
+            "tip": "Quiet oasis in the middle of the old town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seine Banks",
+            "tip": "Peaceful walk along the left bank of the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue du Gros-Horloge",
+            "tip": "Die Haupteinkaufsstraße mit vielen Fachwerkhäusern."
+          },
+          {
+            "name": "Antiquitätenviertel",
+            "tip": "Rund um die Kirche Saint-Maclou finden Sie seltene Schätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue du Gros-Horloge",
+            "tip": "A fő bevásárlóutca gyönyörű fagerendás házakkal."
+          },
+          {
+            "name": "Antik negyed",
+            "tip": "A Saint-Maclou templom környékén régiségeket és műtárgyakat találhat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue du Gros-Horloge",
+            "tip": "Principala stradă comercială cu case tradiționale din lemn."
+          },
+          {
+            "name": "Cartierul anticarilor",
+            "tip": "În jurul bisericii Saint-Maclou veți găsi obiecte rare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue du Gros-Horloge",
+            "tip": "The main shopping street lined with half-timbered houses."
+          },
+          {
+            "name": "Antique Quarter",
+            "tip": "Find rare treasures in the shops around Saint-Maclou church."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Kathedrale ist mittags oft weniger besucht.",
+          "Besuchen Sie die Place du Vieux-Marché früh für Fotos ohne Menschenmengen.",
+          "Achten Sie auf die kleinen Details an den Holzbalken der Fachwerkhäuser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A katedrálisban délidőben kevesebb a látogató.",
+          "A Vieux-Marché teret érdemes reggel felkeresni a tömeg előtt.",
+          "Figyelje a fagerendás házak faragott részleteit séta közben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Catedrala este de obicei mai puțin aglomerată la prânz.",
+          "Vizitați Place du Vieux-Marché dimineața devreme pentru fotografii.",
+          "Uitați-vă după micile detalii sculptate pe casele cu paiantă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The cathedral is often less crowded around midday.",
+          "Visit Place du Vieux-Marché early to avoid the crowds for photos.",
+          "Look out for small carved details on the half-timbered houses."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Jardin des Plantes de Rouen",
+          "coords": [
+            1.077,
+            49.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wunderschöner botanischer Garten auf der Rive Gauche.",
+            "hu": "Gyönyörű füvészkert a Szajna bal partján.",
+            "ro": "Grădină botanică superbă situată pe Rive Gauche.",
+            "en": "Beautiful botanical garden on the Rive Gauche side."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            1.091,
+            49.445
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Herausragende Sammlung von Impressionisten.",
+            "hu": "Kiemelkedő impresszionista gyűjtemény.",
+            "ro": "Colecție remarcabilă de opere impresioniste.",
+            "en": "Outstanding collection of Impressionist paintings."
+          }
+        },
+        {
+          "name": "Place du Vieux-Marché",
+          "coords": [
+            1.088,
+            49.441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Pause inmitten der Geschichte.",
+            "hu": "Tökéletes helyszín egy rövid pihenőhöz.",
+            "ro": "Locul ideal pentru o pauză în mijlocul istoriei.",
+            "en": "Perfect spot for a break in the heart of history."
+          }
+        },
+        {
+          "name": "Gros-Horloge",
+          "coords": [
+            1.091,
+            49.44
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie unter dem Bogen der großen Uhr hindurch.",
+            "hu": "Hajtson át a nagy óra boltíve alatt.",
+            "ro": "Treceți cu bicicleta pe sub arcul marelui ceas.",
+            "en": "Cycle right under the arch of the great clock."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            1.094,
+            49.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt mit dem höchsten Kirchturm Frankreichs.",
+            "hu": "Franciaország legmagasabb templomtornyával büszkélkedhet.",
+            "ro": "Emblema orașului cu cea mai înaltă turlă din Franța.",
+            "en": "City landmark featuring the tallest spire in France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Rouen auf zwei Rädern, beginnend im ruhigen botanischen Garten auf der Südseite. Überqueren Sie die Seine und radeln Sie zum Kunstmuseum, bevor Sie die belebten Plätze der Altstadt ansteuern. Das Fahrrad ermöglicht es Ihnen, sowohl die weiten Parks als auch die engen Gassen der Rive Droite mühelos zu verbinden.",
+        "hu": "Fedezze fel Rouent két keréken, kezdve a déli oldal csendes füvészkertjével. Keljen át a Szajnán, látogasson el a Szépművészeti Múzeumba, majd tekerjen az óváros nyüzsgő terei felé. A kerékpár lehetővé teszi, hogy könnyen összekösse a tágas parkokat a jobb part szűk, történelmi utcáival.",
+        "ro": "Explorați Rouen pe două roți, începând din liniștita grădină botanică din sud. Traversați Sena și pedalați spre Muzeul de Arte Frumoase înainte de a ajunge în piețele animate ale centrului vechi. Bicicleta vă permite să vizitați atât parcurile largi, cât și străduțele înguste de pe Rive Droite.",
+        "en": "Explore Rouen on two wheels, starting in the tranquil botanical garden on the south side. Cross the Seine and cycle to the Fine Arts Museum before heading to the lively squares of the old town. Cycling allows you to easily connect the spacious parks with the narrow, historic streets of the Rive Droite."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie-Pause",
+            "tip": "Holen Sie sich ein Baguette für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség megálló",
+            "tip": "Vegyél egy bagettet és piknikezz a füvészkertben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pauză la brutărie",
+            "tip": "Luați o baghetă pentru un picnic în grădină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Stop",
+            "tip": "Grab a fresh baguette for a picnic in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ideal für einen entspannten Vormittag.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füvészkert",
+            "tip": "Ideális egy nyugodt délelőtthöz a zöldben.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Ideală pentru o dimineață relaxantă.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ideal for a relaxing morning in nature.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "Saisonale Produkte auf dem Markt am Vieux-Marché."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Szezonális termékek a Vieux-Marché piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "Produse de sezon în piața Vieux-Marché."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "Seasonal products at the Vieux-Marché market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Brückenwege über die Seine.",
+          "In der Altstadt ist das Schieben des Rades oft stressfreier.",
+          "Es gibt viele Fahrradständer in der Nähe der Kathedrale.",
+          "Achten Sie auf Einbahnstraßen in den historischen Vierteln."
+        ],
+        "hu": [
+          "Használja a hídon kijelölt kerékpárutakat a Szajnán való átkeléshez.",
+          "Az óváros legszűkebb részein érdemes tolni a kerékpárt.",
+          "A katedrális közelében számos kerékpártároló található.",
+          "Figyeljen az egyirányú utcákra a történelmi negyedben."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de pe podurile peste Sena.",
+          "În centrul vechi este mai relaxant să mergeți pe lângă bicicletă.",
+          "Există multe rasteluri de biciclete lângă catedrală.",
+          "Atenție la străzile cu sens unic în zonele istorice."
+        ],
+        "en": [
+          "Use the bridge paths when crossing the Seine.",
+          "Pushing your bike is often less stressful in the narrowest old town alleys.",
+          "There are plenty of bike racks near the cathedral.",
+          "Watch out for one-way streets in the historic districts."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Jardin des Plantes de Rouen",
+          "coords": [
+            1.077,
+            49.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze direkt am Eingang des Gartens.",
+            "hu": "Ingyenes parkolás közvetlenül a kert bejáratánál.",
+            "ro": "Parcare gratuită chiar la intrarea în grădină.",
+            "en": "Free parking available right at the garden entrance."
+          }
+        },
+        {
+          "name": "Place du Vieux-Marché",
+          "coords": [
+            1.088,
+            49.441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Espace du Palais' für den Stadtkern.",
+            "hu": "Használja az 'Espace du Palais' mélygarázst a belvároshoz.",
+            "ro": "Folosiți parcarea subterană 'Espace du Palais' pentru centru.",
+            "en": "Use the 'Espace du Palais' underground parking for the center."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            1.094,
+            49.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wichtiger Stopp im Herzen der Altstadt (zu Fuß erreichbar).",
+            "hu": "Fontos megálló az óváros szívében (gyalogos elérés).",
+            "ro": "Oprire esențială în inima centrului vechi (acces pietonal).",
+            "en": "Essential stop in the heart of the old town (walkable)."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            1.091,
+            49.445
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Parkplatz im Zentrum entfernt.",
+            "hu": "Csak pár perc séta a központi parkolótól.",
+            "ro": "La doar câteva minute de mers de parcarea centrală.",
+            "en": "Just a few minutes' walk from the central parking."
+          }
+        },
+        {
+          "name": "Église Saint-Maclou",
+          "coords": [
+            1.098,
+            49.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die malerischen Gassen.",
+            "hu": "Rövid séta a festői, fagerendás utcákon keresztül.",
+            "ro": "O scurtă plimbare prin străduțele pitorești.",
+            "en": "A short walk through the picturesque streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die grüne Rive Gauche mit den historischen Highlights der Rive Droite. Parken Sie zuerst am botanischen Garten, bevor Sie ins Zentrum fahren. Durch das Parken in einem der zentralen Parkhäuser können Sie den Rest des Nachmittags die Kathedrale und die Museen zu Fuß erkunden, ohne sich um die engen Gassen sorgen zu müssen.",
+        "hu": "Ez az autós útvonal ötvözi a bal part zöld övezetét a jobb part történelmi látnivalóival. Parkoljon először a füvészkertnél, majd hajtson be a belvárosba. Egy központi parkolóház használatával a délután többi részét gyalogosan töltheti a katedrális és a múzeumok között, elkerülve a szűk óvárosi utcákat.",
+        "ro": "Acest traseu cu mașina combină zona verde de pe Rive Gauche cu atracțiile istorice de pe Rive Droite. Parcați întâi la grădina botanică, apoi mergeți spre centru. Folosind o parcare centrală, vă puteți bucura de restul după-amiezii explorând catedrala și muzeele la pas, fără grija străzilor înguste.",
+        "en": "This car-based route combines the green spaces of the Rive Gauche with the historic highlights of the Rive Droite. Park at the botanical garden first before driving to the city center. By using a central parking garage, you can spend the rest of the afternoon exploring the cathedral and museums on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Neufchâtel-Käse",
+            "tip": "Probieren Sie diesen herzförmigen Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neufchâtel sajt",
+            "tip": "Kóstolja meg a régió híres szív alakú sajtját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Neufchâtel",
+            "tip": "Gustați faimoasa brânză în formă de inimă din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Neufchâtel Cheese",
+            "tip": "Try this famous heart-shaped cheese from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Viel Platz zum Durchatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füvészkert",
+            "tip": "Tágas terek a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Mult spațiu pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Plenty of space to breathe and relax.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calvados-Shop",
+            "tip": "Holen Sie sich eine Flasche echten normannischen Apfelbrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calvados szaküzlet",
+            "tip": "Vásároljon egy üveg eredeti normandiai almapárlatot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de Calvados",
+            "tip": "Cumpărați o sticlă de rachiu de mere autentic din Normandia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvados Shop",
+            "tip": "Pick up a bottle of authentic Norman apple brandy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour am Pont Jeanne d'Arc.",
+          "Parkhäuser im Zentrum sind oft eng; ein Kleinwagen ist von Vorteil.",
+          "Die Beschilderung 'Centre-Ville' führt Sie direkt zum historischen Kern.",
+          "Zahlen Sie Ihr Parkticket bequem per App."
+        ],
+        "hu": [
+          "Kerülje el a csúcsforgalmat a Jeanne d'Arc hídon.",
+          "A belvárosi parkolóházak szűkek, a kisebb autó előnyt jelent.",
+          "A 'Centre-Ville' táblák közvetlenül a történelmi maghoz vezetnek.",
+          "Fizessen a parkolásért kényelmesen mobilalkalmazással."
+        ],
+        "ro": [
+          "Evitați orele de vârf pe podul Jeanne d'Arc.",
+          "Parcările centrale sunt înguste; o mașină mică este un avantaj.",
+          "Indicatoarele 'Centre-Ville' vă duc direct în centrul istoric.",
+          "Plătiți parcarea simplu prin intermediul aplicațiilor mobile."
+        ],
+        "en": [
+          "Avoid rush hour on the Jeanne d'Arc bridge.",
+          "Central parking garages are often narrow; a small car is an advantage.",
+          "Follow 'Centre-Ville' signs to reach the historic core directly.",
+          "Pay for your parking conveniently using mobile apps."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            1.077,
+            49.421
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Metrolinie Richtung 'Boulingrin' für das Zentrum.",
+            "hu": "Használja a 'Boulingrin' irányú metrót a belváros eléréséhez.",
+            "ro": "Luați metroul spre 'Boulingrin' pentru a ajunge în centru.",
+            "en": "Take the metro towards 'Boulingrin' to reach the center."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            1.091,
+            49.445
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Haltestelle 'Palais de Justice' liegt in direkter Nähe.",
+            "hu": "A 'Palais de Justice' megálló közvetlenül a múzeumnál van.",
+            "ro": "Stația 'Palais de Justice' se află chiar lângă muzeu.",
+            "en": "The 'Palais de Justice' stop is very close to the museum."
+          }
+        },
+        {
+          "name": "Place du Vieux-Marché",
+          "coords": [
+            1.088,
+            49.441
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die TEOR-Buslinien T1, T2 und T3 halten hier.",
+            "hu": "A T1, T2 és T3 jelzésű TEOR buszok itt állnak meg.",
+            "ro": "Liniile de autobuz TEOR T1, T2 și T3 opresc aici.",
+            "en": "TEOR bus lines T1, T2, and T3 all stop here."
+          }
+        },
+        {
+          "name": "Gros-Horloge",
+          "coords": [
+            1.091,
+            49.44
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Vieux-Marché entfernt.",
+            "hu": "Csak egy rövid séta a Vieux-Marché térről.",
+            "ro": "La doar o scurtă plimbare de Vieux-Marché.",
+            "en": "Just a short walk from the Vieux-Marché square."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            1.094,
+            49.44
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Ankerpunkt der Route, gut mit der Metro verbunden.",
+            "hu": "Az útvonal központi állomása, kiváló metrókapcsolattal.",
+            "ro": "Punctul central al traseului, bine conectat prin metrou.",
+            "en": "Central point of the route, well-connected by metro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Verkehrsmitteln von Rouen, insbesondere der modernen Metro und den TEOR-Bussen, verbinden Sie mühelos die Rive Gauche mit dem Stadtzentrum. Beginnen Sie im grünen Süden und lassen Sie sich bequem zu den kulturellen Schätzen wie dem Kunstmuseum und der Kathedrale bringen. So umgehen Sie Parkplatzsuche und Verkehrsstaus.",
+        "hu": "Rouen tömegközlekedése, különösen a modern metró és a TEOR buszok révén, könnyedén összeköti a bal partot a belvárossal. Kezdjen a déli zöldövezetben, majd utazzon kényelmesen olyan kulturális kincsekhez, mint a Szépművészeti Múzeum és a katedrális. Ezzel elkerülheti a parkolási nehézségeket és a forgalmi dugókat.",
+        "ro": "Transportul public din Rouen, în special metroul și autobuzele TEOR, conectează eficient Rive Gauche de centrul orașului. Începeți în zona verde din sud și călătoriți confortabil spre comori culturale precum Muzeul de Arte Frumoase și catedrala. Astfel, evitați stresul parcării și aglomerația din trafic.",
+        "en": "Rouen's public transport, especially the modern metro and TEOR buses, effortlessly connects the Rive Gauche with the city center. Start in the green south and travel comfortably to cultural treasures like the Fine Arts Museum and the cathedral. This way, you avoid parking hassles and traffic congestion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cider-Verkostung",
+            "tip": "Probieren Sie lokalen Cidre in einer Bar in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cidre kóstoló",
+            "tip": "Kóstoljon helyi almabort az óváros egyik bárjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Degustare de cidru",
+            "tip": "Gustați cidrul local într-un bar din centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cider Tasting",
+            "tip": "Try some local Norman cider in an old town bar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Perfekter Rückzugsort mit der Metro erreichbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füvészkert",
+            "tip": "Tökéletes menedék, metróval könnyen elérhető.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Refugiul perfect, ușor accesibil cu metroul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "The perfect retreat, easily reached by metro.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markthalle am Vieux-Marché",
+            "tip": "Regionale Spezialitäten direkt unter dem modernen Kirchendach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vieux-Marché vásárcsarnok",
+            "tip": "Helyi specialitások közvetlenül a modern templom szomszédságában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala Vieux-Marché",
+            "tip": "Specialități regionale chiar sub acoperișul modern al bisericii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vieux-Marché Market Hall",
+            "tip": "Regional specialties right next to the modern church."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Metro in Rouen fährt im Stadtzentrum unterirdisch.",
+          "Validieren Sie Ihr Ticket vor jeder Fahrt.",
+          "Die TEOR-Busse haben Vorfahrt und sind oft schneller als Taxis."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A roueni metró a belvárosban a föld alatt közlekedik.",
+          "Érvényesítse jegyét minden utazás megkezdése előtt.",
+          "A TEOR buszok előnyt élveznek a forgalomban, gyakran gyorsabbak a taxinál."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
+          "Metroul din Rouen circulă pe sub pământ în centrul orașului.",
+          "Validați biletul înainte de fiecare călătorie.",
+          "Autobuzele TEOR au prioritate și sunt adesea mai rapide decât taxiurile."
+        ],
+        "en": [
+          "Purchase a day pass for unlimited travel.",
+          "Rouen's metro runs underground in the city center.",
+          "Always validate your ticket before starting your journey.",
+          "TEOR buses have priority and are often faster than taxis in traffic."
+        ]
+      }
+    }
+  }
+}

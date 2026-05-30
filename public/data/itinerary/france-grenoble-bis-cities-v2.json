@@ -1,0 +1,1093 @@
+{
+  "city_id": "france-grenoble-bis-cities-v2",
+  "anchor": {
+    "name": "Grenoble-Sud",
+    "coords": [
+      5.72,
+      45.16
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturhistorisches Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            5.733,
+            45.186
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hervorragende Alpentier-Sammlung.",
+            "hu": "Kiváló alpesi állatgyűjtemény.",
+            "ro": "Colecție excelentă de animale alpine.",
+            "en": "Excellent alpine animal collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul-Mistral-Park",
+            "hu": "Paul Mistral park",
+            "ro": "Parcul Paul Mistral",
+            "en": "Paul Mistral Park"
+          },
+          "coords": [
+            5.736,
+            45.185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das grüne Herz der Stadt.",
+            "hu": "A város zöld szíve.",
+            "ro": "Inima verde a orașului.",
+            "en": "The green heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Perret-Turm",
+            "hu": "Perret-torony",
+            "ro": "Turnul Perret",
+            "en": "Perret Tower"
+          },
+          "coords": [
+            5.735,
+            45.186
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Pionierbau aus Stahlbeton.",
+            "hu": "A vasbeton építészet úttörője.",
+            "ro": "O structură de pionierat din beton.",
+            "en": "A pioneer reinforced concrete tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade des Alpes",
+            "hu": "Stade des Alpes",
+            "ro": "Stade des Alpes",
+            "en": "Stade des Alpes"
+          },
+          "coords": [
+            5.742,
+            45.186
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Modernes Stadion mit Glasdach.",
+            "hu": "Modern stadion üvegtetővel.",
+            "ro": "Stadion modern cu acoperiș de sticlă.",
+            "en": "Modern stadium with glass roof."
+          }
+        },
+        {
+          "name": {
+            "de": "MC2: Haus der Kultur",
+            "hu": "MC2: A Kultúra Háza",
+            "ro": "MC2: Casa Culturii",
+            "en": "MC2: Maison de la Culture"
+          },
+          "coords": [
+            5.733,
+            45.172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentrum für zeitgenössische Kunst.",
+            "hu": "Kortárs művészeti központ.",
+            "ro": "Centru de artă contemporană.",
+            "en": "Center for contemporary arts."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Grenoble",
+            "hu": "Grenoble-i Arborétum",
+            "ro": "Arboretumul din Grenoble",
+            "en": "Arboretum de Grenoble"
+          },
+          "coords": [
+            5.732,
+            45.17
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Seltene Baumarten im Süden.",
+            "hu": "Ritka fafajok a déli részen.",
+            "ro": "Specii rare de arbori în sud.",
+            "en": "Rare tree species in the south."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die alpinen Schätze im Naturhistorischen Museum. Der Paul-Mistral-Park lädt zum Spaziergang unter dem Perret-Turm ein. Nach einem Blick auf das Stade des Alpes führt der Weg südlich zur MC2, dem kulturellen Herzstück. Der Tag endet friedlich im Arboretum mit exotischen Baumarten.",
+        "hu": "A reggelt az alpesi élővilág felfedezésével indítjuk a Természettudományi Múzeumban. A Paul Mistral parkban megcsodáljuk az ikonikus Perret-tornyot, majd érintjük a modern Stade des Alpes stadiont. Délután az MC2 kulturális központ felé vesszük az irányt, végül az Arborétum ritka fái között pihenünk meg.",
+        "ro": "Dimineața explorează bogățiile alpine la Muzeul de Istorie Naturală. Parcul Paul Mistral oferă o plimbare sub Turnul Perret, urmată de o vizită la Stade des Alpes. După-amiaza este dedicată culturii la MC2, iar ziua se încheie liniștit în Arboretumul din sud, printre specii rare de arbori.",
+        "en": "Start your morning exploring alpine treasures at the Natural History Museum. Paul Mistral Park invites for a stroll under the Perret Tower, followed by a visit to Stade des Alpes. The afternoon focuses on culture at MC2, ending peacefully at the Arboretum with its collection of rare and exotic trees."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Rousseau",
+            "tip": "Probieren Sie Gratin Dauphinois."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Rousseau",
+            "tip": "Kóstolja meg a Gratin Dauphinois-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Rousseau",
+            "tip": "Încearcă Gratin Dauphinois."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Rousseau",
+            "tip": "Try the authentic Gratin Dauphinois."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arboretum",
+            "tip": "Ruhiger Schatten unter Mammutbäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arborétum",
+            "tip": "Csendes árnyék a mamutfenyők alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arboretum",
+            "tip": "Umbră liniștită sub secheia.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arboretum",
+            "tip": "Quiet shade under redwood trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Noix de Grenoble",
+            "tip": "Grenoble-Walnüsse sind weltberühmt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grenoble-i dió",
+            "tip": "A helyi dió világhírű és védett termék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nuci de Grenoble",
+            "tip": "Nucile locale sunt faimoase în lume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grenoble Walnuts",
+            "tip": "The local walnuts are world-famous AOC products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist flach und ideal zu Fuß erkundbar.",
+          "Nutzen Sie die Mittagspause im Park.",
+          "Achten Sie auf die Veranstaltungszeiten im MC2.",
+          "Bequeme Schuhe für den Parkrundgang mitbringen."
+        ],
+        "hu": [
+          "A város sík, így gyalogosan is kényelmesen bejárható.",
+          "Érdemes az ebédet a parkban elfogyasztani.",
+          "Ellenőrizze az MC2 aktuális programjait.",
+          "Kényelmes cipő ajánlott a parki sétához."
+        ],
+        "ro": [
+          "Orașul este plat, ideal pentru explorat pe jos.",
+          "Folosește pauza de prânz pentru un picnic în parc.",
+          "Verifică programul evenimentelor la MC2.",
+          "Poartă pantofi comozi pentru turul parcului."
+        ],
+        "en": [
+          "The city is flat and perfect for walking.",
+          "Take your lunch break in the park like a local.",
+          "Check the event schedule at MC2 in advance.",
+          "Wear comfortable shoes for the park and arboretum."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Perret-Turm",
+            "hu": "Perret-torony",
+            "ro": "Turnul Perret",
+            "en": "Perret Tower"
+          },
+          "coords": [
+            5.735,
+            45.186
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Guter Startpunkt für Radler.",
+            "hu": "Remek kiindulópont bringásoknak.",
+            "ro": "Punct bun de start pentru bicicliști.",
+            "en": "Great starting point for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul-Mistral-Park",
+            "hu": "Paul Mistral park",
+            "ro": "Parcul Paul Mistral",
+            "en": "Paul Mistral Park"
+          },
+          "coords": [
+            5.736,
+            45.185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Breite Wege für Fahrräder.",
+            "hu": "Széles utak a kerékpározáshoz.",
+            "ro": "Alei largi pentru biciclete.",
+            "en": "Wide paths perfect for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade des Alpes",
+            "hu": "Stade des Alpes",
+            "ro": "Stade des Alpes",
+            "en": "Stade des Alpes"
+          },
+          "coords": [
+            5.742,
+            45.186
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrradparkplätze direkt am Stadion.",
+            "hu": "Kerékpártárolók közvetlenül a stadionnál.",
+            "ro": "Parcare pentru biciclete lângă stadion.",
+            "en": "Bike parking available at the stadium."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturhistorisches Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            5.733,
+            45.186
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kulturelle Pause am Mittag.",
+            "hu": "Kulturális pihenő délidőben.",
+            "ro": "Pauză culturală la prânz.",
+            "en": "Cultural break at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "MC2: Haus der Kultur",
+            "hu": "MC2: A Kultúra Háza",
+            "ro": "MC2: Casa Culturii",
+            "en": "MC2: Maison de la Culture"
+          },
+          "coords": [
+            5.733,
+            45.172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Modernes Gebäude im Süden.",
+            "hu": "Modern épület a déli részen.",
+            "ro": "Clădire modernă în sud.",
+            "en": "Modern architecture in the south."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Jo Blanchon",
+            "hu": "Jo Blanchon park",
+            "ro": "Parcul Jo Blanchon",
+            "en": "Parc Jo Blanchon"
+          },
+          "coords": [
+            5.755,
+            45.158
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Grüne Oase in Eybens.",
+            "hu": "Zöld oázis Eybens negyedében.",
+            "ro": "Oază verde în zona Eybens.",
+            "en": "Green oasis in the Eybens area."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Grenoble",
+            "hu": "Grenoble-i Arborétum",
+            "ro": "Arboretumul din Grenoble",
+            "en": "Arboretum de Grenoble"
+          },
+          "coords": [
+            5.732,
+            45.17
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Abschluss im Schatten.",
+            "hu": "Zárás az árnyas fák alatt.",
+            "ro": "Final de tură la umbră.",
+            "en": "Ending under the shady trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir die weiten Flächen von Grenoble-Sud. Vom Perret-Turm radeln wir durch den Paul-Mistral-Park zum modernen Stade des Alpes. Nach einem Museumsbesuch führt die Route weiter südlich zum kulturellen MC2 und schließlich in den weitläufigen Parc Jo Blanchon, bevor wir im Arboretum entspannen.",
+        "hu": "Kerékpárral fedezzük fel Grenoble déli tágas tereit. A Perret-toronytól a Paul Mistral parkon át gurulunk a modern stadionhoz. A kulturális feltöltődést az MC2 biztosítja, majd egy nagyobb tekeréssel elérjük az eybens-i Jo Blanchon parkot, végül az Arborétum hűvösében zárjuk a napot.",
+        "ro": "Cu bicicleta explorăm spațiile largi din sudul orașului. De la Turnul Perret pedalăm prin Parcul Paul Mistral spre stadionul modern. După cultură la MC2, urmează o rută mai lungă spre Parcul Jo Blanchon din Eybens, încheind ziua relaxat în răcoarea Arboretumului.",
+        "en": "Explore the open spaces of South Grenoble by bike. Ride from Perret Tower through Paul Mistral Park to the stadium. After cultural immersion at MC2, a longer ride takes us to the extensive Jo Blanchon Park in Eybens, before ending the day in the cool shade of the Arboretum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 5",
+            "tip": "Perfekt für Radfahrer mit Terrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 5",
+            "tip": "Ideális teraszos hely kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 5",
+            "tip": "Perfect pentru bicicliști, are terasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 5",
+            "tip": "Cyclist-friendly spot with a nice terrace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Jo Blanchon",
+            "tip": "Weniger Touristen, mehr Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jo Blanchon park",
+            "tip": "Kevesebb turista, több természet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jo Blanchon",
+            "tip": "Mai puțini turiști, mai multă natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Jo Blanchon",
+            "tip": "Fewer tourists, more authentic nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mélange Alpin",
+            "tip": "Kräutertees aus den umliegenden Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mélange Alpin",
+            "tip": "Gyógynövényteák a közeli hegyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mélange Alpin",
+            "tip": "Ceaiuri de plante din munții din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mélange Alpin",
+            "tip": "Herbal teas sourced from the nearby Alps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Grenoble ist eine der fahrradfreundlichsten Städte Frankreichs.",
+          "Nutzen Sie die gelben 'M'-Radwege.",
+          "Sperren Sie Ihr Rad immer gut ab.",
+          "Der Park Paul Mistral ist ideal zum Radeln."
+        ],
+        "hu": [
+          "Grenoble Franciaország egyik leginkább kerékpárosbarát városa.",
+          "Használja a sárga 'M' jelzésű kerékpárutakat.",
+          "Mindig alaposan zárja le a kerékpárt.",
+          "A Paul Mistral park tökéletes a bringázáshoz."
+        ],
+        "ro": [
+          "Grenoble este unul dintre cele mai prietenoase orașe pentru biciclete.",
+          "Folosește pistele galbene marcate cu 'M'.",
+          "Încuie întotdeauna bicicleta cu atenție.",
+          "Parcul Paul Mistral este excelent pentru pedalat."
+        ],
+        "en": [
+          "Grenoble is one of the most bike-friendly cities in France.",
+          "Use the yellow 'M' designated bike lanes.",
+          "Always lock your bike securely at every stop.",
+          "Paul Mistral Park is a great hub for cycling paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Perret-Turm (Cluster Stadt)",
+            "hu": "Perret-torony (Városi klaszter)",
+            "ro": "Turnul Perret (Cluster Oraș)",
+            "en": "Perret Tower (City Cluster)"
+          },
+          "coords": [
+            5.735,
+            45.186
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Parkplatz Mistral.",
+            "hu": "Parkoljon a Mistral parkolónál.",
+            "ro": "Parchează la parcarea Mistral.",
+            "en": "Park at the Mistral parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul-Mistral-Park",
+            "hu": "Paul Mistral park",
+            "ro": "Parcul Paul Mistral",
+            "en": "Paul Mistral Park"
+          },
+          "coords": [
+            5.736,
+            45.185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Turm erreichbar.",
+            "hu": "Gyalogosan elérhető a toronytól.",
+            "ro": "Accesibil pe jos de la turn.",
+            "en": "Easily reachable on foot from the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Chemie-Museum (Cluster Jarrie)",
+            "hu": "Kémiai Múzeum (Jarrie klaszter)",
+            "ro": "Muzeul Chimiei (Cluster Jarrie)",
+            "en": "Museum of Chemistry (Jarrie Cluster)"
+          },
+          "coords": [
+            5.742,
+            45.105
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Südlich von Grenoble in Jarrie.",
+            "hu": "Grenoble-tól délre, Jarrie-ban.",
+            "ro": "La sud de Grenoble, în Jarrie.",
+            "en": "Located south of Grenoble in Jarrie."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Grenoble",
+            "hu": "Grenoble-i Arborétum",
+            "ro": "Arboretumul din Grenoble",
+            "en": "Arboretum de Grenoble"
+          },
+          "coords": [
+            5.732,
+            45.17
+          ],
+          "category": "natural features",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Rückkehr in den Süden der Stadt.",
+            "hu": "Visszatérés a város déli részére.",
+            "ro": "Revenire în zona de sud a orașului.",
+            "en": "Returning to the city's southern area."
+          }
+        },
+        {
+          "name": {
+            "de": "MC2: Haus der Kultur",
+            "hu": "MC2: A Kultúra Háza",
+            "ro": "MC2: Casa Culturii",
+            "en": "MC2: Maison de la Culture"
+          },
+          "coords": [
+            5.733,
+            45.172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Arboretum erreichbar.",
+            "hu": "Gyalogosan elérhető az Arborétumtól.",
+            "ro": "Accesibil pe jos de la Arboretum.",
+            "en": "Walking distance from the Arboretum."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Jo Blanchon (Cluster Eybens)",
+            "hu": "Jo Blanchon park (Eybens klaszter)",
+            "ro": "Parcul Jo Blanchon (Cluster Eybens)",
+            "en": "Parc Jo Blanchon (Eybens Cluster)"
+          },
+          "coords": [
+            5.755,
+            45.158
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannung vor der Rückfahrt.",
+            "hu": "Lazítás a hazaindulás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir die städtischen Parks mit dem Umland. Nach dem Paul-Mistral-Park fahren wir südlich nach Jarrie zum Chemie-Museum, einem industriellen Juwel. Am Nachmittag kehren wir für Kultur und Natur im MC2 und Arboretum zurück, bevor wir den Tag im ruhigen Eybens ausklingen lassen.",
+        "hu": "Autóval összekötjük a városi parkokat a környékkel. A Paul Mistral park után délre hajtunk Jarrie-ba a Kémiai Múzeumhoz, amely az ipari örökség ékköve. Délután visszatérünk a városba az MC2 és az Arborétum kedvéért, végül az eybens-i park nyugalmában fejezzük be a napot.",
+        "ro": "Cu mașina legăm parcurile urbane de împrejurimi. După Parcul Paul Mistral mergem spre sud în Jarrie pentru Muzeul Chimiei, o bijuterie industrială. După-amiaza revenim în oraș pentru cultură la MC2 și natură în Arboretum, încheind ziua în liniștea parcului din Eybens.",
+        "en": "By car, we bridge the gap between urban parks and the surrounding area. After Paul Mistral Park, we drive south to Jarrie to visit the Chemistry Museum, an industrial heritage gem. In the afternoon, return to the city for culture at MC2, finishing the day in the peaceful Eybens park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Ferme d'Eybens",
+            "tip": "Hervorragende regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Ferme d'Eybens",
+            "tip": "Kiváló regionális konyha Eybensben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Ferme d'Eybens",
+            "tip": "Bucătărie regională excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Ferme d'Eybens",
+            "tip": "Excellent regional cuisine in Eybens."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Jo Blanchon",
+            "tip": "Perfekter Ort für ein Picknick.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jo Blanchon park",
+            "tip": "Tökéletes hely egy piknikhez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Jo Blanchon",
+            "tip": "Loc perfect pentru un picnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Jo Blanchon",
+            "tip": "Perfect spot for an afternoon picnic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Epicerie de Jarrie",
+            "tip": "Lokale Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Epicerie de Jarrie",
+            "tip": "Helyi termékek közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Epicerie de Jarrie",
+            "tip": "Produse locale direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Epicerie de Jarrie",
+            "tip": "Local products directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie den Berufsverkehr im Süden von Grenoble.",
+          "Parken Sie im Stadtzentrum in Parkhäusern.",
+          "Die Fahrt nach Jarrie bietet schöne Ausblicke auf die Berge.",
+          "In Jarrie gibt es kostenlose Parkplätze am Museum."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat Grenoble déli részén.",
+          "A városközpontban használja a parkolóházakat.",
+          "A Jarrie felé tartó út szép kilátást nyújt a hegyekre.",
+          "Jarrie-ban a múzeumnál ingyenes a parkolás."
+        ],
+        "ro": [
+          "Evită traficul la orele de vârf în sudul orașului.",
+          "În centru folosește parcările supraetajate.",
+          "Drumul spre Jarrie oferă vederi frumoase spre munți.",
+          "În Jarrie parcarea la muzeu este gratuită."
+        ],
+        "en": [
+          "Avoid rush hour traffic in the southern suburbs.",
+          "Use parking garages (Park & Ride) for city center stops.",
+          "The drive to Jarrie offers scenic mountain views.",
+          "Jarrie museum offers convenient free parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturhistorisches Museum (Distrikt A)",
+            "hu": "Természettudományi Múzeum (A negyed)",
+            "ro": "Muzeul de Istorie Naturală (District A)",
+            "en": "Natural History Museum (District A)"
+          },
+          "coords": [
+            5.733,
+            45.186
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Chavant' (Tram A/C).",
+            "hu": "'Chavant' megálló (A/C villamos).",
+            "ro": "Stația 'Chavant' (Tramvai A/C).",
+            "en": "'Chavant' stop (Tram A/C)."
+          }
+        },
+        {
+          "name": {
+            "de": "Paul-Mistral-Park",
+            "hu": "Paul Mistral park",
+            "ro": "Parcul Paul Mistral",
+            "en": "Paul Mistral Park"
+          },
+          "coords": [
+            5.736,
+            45.185
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Direkt neben dem Museum.",
+            "hu": "Közvetlenül a múzeum mellett.",
+            "ro": "Chiar lângă muzeu.",
+            "en": "Located right next to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade des Alpes",
+            "hu": "Stade des Alpes",
+            "ro": "Stade des Alpes",
+            "en": "Stade des Alpes"
+          },
+          "coords": [
+            5.742,
+            45.186
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang durch den Park.",
+            "hu": "Séta a parkon keresztül.",
+            "ro": "O plimbare prin parc.",
+            "en": "A pleasant stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "MC2: Haus der Kultur (Distrikt B)",
+            "hu": "MC2: A Kultúra Háza (B negyed)",
+            "ro": "MC2: Casa Culturii (District B)",
+            "en": "MC2: Maison de la Culture (District B)"
+          },
+          "coords": [
+            5.733,
+            45.172
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Tram A, Haltestelle 'MC2'.",
+            "hu": "A villamos, 'MC2' megálló.",
+            "ro": "Tramvaiul A, stația 'MC2'.",
+            "en": "Tram line A, 'MC2' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Grenoble",
+            "hu": "Grenoble-i Arborétum",
+            "ro": "Arboretumul din Grenoble",
+            "en": "Arboretum de Grenoble"
+          },
+          "coords": [
+            5.732,
+            45.17
+          ],
+          "category": "natural features",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom MC2.",
+            "hu": "Rövid séta az MC2-től.",
+            "ro": "Scurtă plimbare de la MC2.",
+            "en": "Short walk from the MC2 building."
+          }
+        },
+        {
+          "name": {
+            "de": "Perret-Turm (Rückkehr Stadt)",
+            "hu": "Perret-torony (Városi visszatérés)",
+            "ro": "Turnul Perret (Revenire Oraș)",
+            "en": "Perret Tower (City Return)"
+          },
+          "coords": [
+            5.735,
+            45.186
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Zurück mit Tram A zu 'Chavant'.",
+            "hu": "Vissza az A villamossal 'Chavant'-ig.",
+            "ro": "Înapoi cu tramvaiul A spre 'Chavant'.",
+            "en": "Back with tram A to 'Chavant'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Tram-Netzes (Linie A und C) erkunden wir den Süden bequem. Wir starten am Naturhistorischen Museum und dem angrenzenden Park. Nach einem Besuch im Stade des Alpes bringt uns die Tram direkt zur MC2, dem Kulturzentrum. Der Tag endet botanisch im Arboretum, bevor wir ins Zentrum zurückfahren.",
+        "hu": "A kiváló villamoshálózatnak (A és C vonal) köszönhetően kényelmesen bejárjuk a déli részt. A Természettudományi Múzeumnál és a mellette lévő parknál kezdünk. A stadion után villamossal megyünk az MC2 kulturális központhoz. A napot az Arborétumban zárjuk, majd visszatérünk a központba.",
+        "ro": "Datorită rețelei excelente de tramvai (liniile A și C), explorăm sudul confortabil. Începem la Muzeul de Istorie Naturală și parcul adiacent. După stadion, tramvaiul ne duce direct la MC2, centrul cultural. Ziua se încheie botanic la Arboretum, înainte de a reveni în centru.",
+        "en": "Thanks to the excellent tram network (lines A and C), we explore the south comfortably. Start at the Natural History Museum and the adjacent park. After the stadium, the tram takes us directly to MC2, the cultural hub. The day ends botanically at the Arboretum before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Forté",
+            "tip": "Nahe der Tramhaltestelle Chavant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Forté",
+            "tip": "A Chavant villamosmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Forté",
+            "tip": "Lângă stația de tramvai Chavant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Forté",
+            "tip": "Conveniently located near Chavant tram stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Beim Museum, sehr ruhig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A múzeumnál, nagyon csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Lângă muzeu, foarte liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Right by the museum, very peaceful.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand'Place",
+            "tip": "Großes Einkaufszentrum an der Tramlinie A."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand'Place",
+            "tip": "Nagy bevásárlóközpont az A villamos vonalán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand'Place",
+            "tip": "Centru comercial mare pe linia de tramvai A."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand'Place",
+            "tip": "Large shopping mall on tram line A."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das 'TAG' Netz.",
+          "Die Tram A fährt sehr häufig.",
+          "Validieren Sie Ihr Ticket vor dem Einsteigen.",
+          "Die Ansagen in der Tram sind auch visuell verfügbar."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a 'TAG' hálózatra.",
+          "Az A villamos nagyon gyakran jár.",
+          "Érvényesítse a jegyét felszállás előtt.",
+          "A villamoson a megállókat kijelzők is mutatják."
+        ],
+        "ro": [
+          "Cumpără un bilet de o zi pentru rețeaua 'TAG'.",
+          "Tramvaiul A circulă foarte frecvent.",
+          "Validează biletul înainte de urcare.",
+          "Anunțurile în tramvai sunt disponibile și vizual."
+        ],
+        "en": [
+          "Buy a day pass for the 'TAG' public transit network.",
+          "Tram A runs very frequently throughout the day.",
+          "Remember to validate your ticket before boarding.",
+          "Stops are clearly announced and displayed inside."
+        ]
+      }
+    }
+  }
+}

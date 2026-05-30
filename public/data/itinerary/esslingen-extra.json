@@ -1,0 +1,1064 @@
+{
+  "city_id": "esslingen-extra",
+  "anchor": {
+    "name": "Esslingen Marktplatz",
+    "coords": [
+      9.307,
+      48.742
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            9.307,
+            48.742
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die astronomische Uhr am prächtigen Fachwerkbau.",
+            "hu": "Csodálja meg a csillagászati órát a pompás gerendavázas épületen.",
+            "ro": "Admirați ceasul astronomic de pe clădirea superbă cu bârne de lemn.",
+            "en": "Admire the astronomical clock on the magnificent timber-framed building."
+          }
+        },
+        {
+          "name": "Stadtkirche St. Dionys",
+          "coords": [
+            9.308,
+            48.741
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausgrabungen unter der Kirche.",
+            "hu": "Látogasson el a templom alatti régészeti ásatásokhoz.",
+            "ro": "Vizitați săpăturile arheologice de sub biserică.",
+            "en": "Visit the archaeological excavations beneath the church."
+          }
+        },
+        {
+          "name": "Postmichelbrunnen",
+          "coords": [
+            9.306,
+            48.741
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hören Sie die Legende des unschuldigen Postreiters Michel.",
+            "hu": "Hallgassa meg az ártatlan postai lovas, Michel legendáját.",
+            "ro": "Ascultați legenda curierului poștal nevinovat, Michel.",
+            "en": "Listen to the legend of the innocent post rider Michel."
+          }
+        },
+        {
+          "name": "Kessler Sektkellerei",
+          "coords": [
+            9.309,
+            48.741
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie den ältesten Sekt Deutschlands in historischem Ambiente.",
+            "hu": "Kóstolja meg Németország legrégebbi pezsgőjét történelmi környezetben.",
+            "ro": "Gustați cel mai vechi vin spumant din Germania într-un ambient istoric.",
+            "en": "Taste Germany's oldest sparkling wine in a historical setting."
+          }
+        },
+        {
+          "name": "Frauenkirche",
+          "coords": [
+            9.306,
+            48.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die filigranen Steinmetzarbeiten am Turm.",
+            "hu": "Figyelje meg a torony filigrán kőfaragványait.",
+            "ro": "Observați sculpturile filigranate în piatră de pe turn.",
+            "en": "Look out for the filigree stonework on the tower."
+          }
+        },
+        {
+          "name": "Burg Esslingen",
+          "coords": [
+            9.313,
+            48.745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie die Burgstaffeln hoch für einen Panoramablick.",
+            "hu": "Másszon fel a vár lépcsőin a panorámás kilátásért.",
+            "ro": "Urcați treptele cetății pentru o vedere panoramică.",
+            "en": "Climb up the castle stairs for a panoramic view."
+          }
+        },
+        {
+          "name": "Maille-Park",
+          "coords": [
+            9.305,
+            48.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf der grünen Insel zwischen den Neckarkanälen.",
+            "hu": "Pihenjen a zöld szigeten a Neckar-csatornák között.",
+            "ro": "Relaxați-vă pe insula verde dintre canalele râului Neckar.",
+            "en": "Relax on the green island between the Neckar canals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört der mittelalterlichen Altstadt mit ihren prächtigen Fachwerkhäusern und dem berühmten astronomischen Rathaus. Nach einer Verkostung bei Kessler, der ältesten Sektkellerei Deutschlands, geht es mittags durch die Gassen zur Frauenkirche. Der Nachmittag bietet einen sportlichen Aufstieg zur Burg, belohnt mit einem weiten Blick über das Neckartal. Den Abschluss bildet ein entspannter Spaziergang durch den Maille-Park.",
+        "hu": "A délelőtt a középkori óvárosé, pompás gerendavázas házaival és a híres csillagászati városházával. A Kessler pezsgőpincészetben tett kóstoló után délben a sikátorokon keresztül a Frauenkirche felé vesszük az irányt. A délután sportos feljutást kínál a várba, amit a Neckar-völgyre nyíló tágas kilátás jutalmaz. A napot egy pihentető séta zárja a Maille-parkban.",
+        "ro": "Dimineața este dedicată orașului vechi medieval, cu casele sale superbe cu bârne de lemn și celebra primărie cu ceas astronomic. După o degustare la crama Kessler, amiaza continuă prin străduțe spre Frauenkirche. După-amiaza oferă o urcare sportivă spre cetate, răsplătită cu o priveliște largă peste valea Neckarului. Finalul zilei este marcat de o plimbare relaxantă prin parcul Maille.",
+        "en": "The morning is dedicated to the medieval old town with its magnificent timber-framed houses and the famous astronomical town hall. After a tasting at Kessler, Germany's oldest sparkling wine cellar, the midday route leads through the alleys to the Frauenkirche. The afternoon offers a sporty climb to the castle, rewarded with a wide view over the Neckar valley. The day concludes with a relaxed stroll through Maille Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kessler Sekt",
+            "tip": "Probieren Sie den 'Hochgewächs' im historischen Innenhof."
+          },
+          {
+            "name": "Weinstube Krummanker",
+            "tip": "Hausgemachte Maultaschen in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kessler pezsgő",
+            "tip": "Kóstolja meg a 'Hochgewächs' fajtát a történelmi belső udvarban."
+          },
+          {
+            "name": "Weinstube Krummanker",
+            "tip": "Házias töltött tészta (Maultaschen) hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kessler Sekt",
+            "tip": "Încercați 'Hochgewächs' în curtea interioară istorică."
+          },
+          {
+            "name": "Weinstube Krummanker",
+            "tip": "Maultaschen de casă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kessler Sparkling Wine",
+            "tip": "Try the 'Hochgewächs' in the historic inner courtyard."
+          },
+          {
+            "name": "Weinstube Krummanker",
+            "tip": "Homemade Swabian dumplings (Maultaschen) in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgstaffeln",
+            "tip": "Ruhiger Aufstieg durch die Weinreben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maille-Park",
+            "tip": "Entspannung am Wasser abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgstaffeln",
+            "tip": "Csendes feljutás a szőlőtőkék között.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maille-Park",
+            "tip": "Pihenés a vízparton, távol a nyüzsgéstől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burgstaffeln",
+            "tip": "Urcare liniștită prin podgorii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maille-Park",
+            "tip": "Relaxare lângă apă, departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burgstaffeln",
+            "tip": "Quiet climb through the vineyards.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Maille-Park",
+            "tip": "Relaxation by the water away from the hustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Spezialitäten auf dem Marktplatz (Mi & Sa)."
+          },
+          {
+            "name": "Kessler Shop",
+            "tip": "Sekt-Präsente direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális specialitások a piactéren (szerda és szombat)."
+          },
+          {
+            "name": "Kessler Bolt",
+            "tip": "Pezsgő válogatások közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Specialități regionale în piața centrală (Mie & Sâm)."
+          },
+          {
+            "name": "Magazinul Kessler",
+            "tip": "Cadouri cu vin spumant direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional specialties on the market square (Wed & Sat)."
+          },
+          {
+            "name": "Kessler Shop",
+            "tip": "Sparkling wine gifts directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Burg.",
+          "Mittwochs und samstags findet ein schöner Wochenmarkt statt.",
+          "Reservieren Sie für die Sektkellerei Kessler vorab eine Führung."
+        ],
+        "hu": [
+          "Az óváros nagyon kompakt, a legjobb gyalogosan felfedezni.",
+          "Viseljen kényelmes cipőt a várba való felkapaszkodáshoz.",
+          "Szerdánként és szombatonként szép heti piacot tartanak.",
+          "A Kessler pezsgőpincészetbe érdemes előre idegenvezetést foglalni."
+        ],
+        "ro": [
+          "Orașul vechi este foarte compact și cel mai bine se explorează la pas.",
+          "Purtați încălțăminte comodă pentru urcarea la cetate.",
+          "Miercurea și sâmbăta are loc o piață săptămânală frumoasă.",
+          "Rezervați din timp un tur la crama Kessler."
+        ],
+        "en": [
+          "The old town is very compact and best explored on foot.",
+          "Wear comfortable shoes for the climb up to the castle.",
+          "There is a lovely weekly market on Wednesdays and Saturdays.",
+          "Book a guided tour for the Kessler sparkling wine cellar in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Villa Merkel",
+          "coords": [
+            9.3,
+            48.738
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Moderne Kunst in einer prachtvollen Industriellenvilla.",
+            "hu": "Modern művészet egy pompás iparmágnás villájában.",
+            "ro": "Artă modernă într-o vilă industrială somptuoasă.",
+            "en": "Modern art in a magnificent industrialist's villa."
+          }
+        },
+        {
+          "name": "Maille-Park",
+          "coords": [
+            9.305,
+            48.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich entlang der Kanäle.",
+            "hu": "Kerekezzen kényelmesen a csatornák mentén.",
+            "ro": "Pedalați lejer de-a lungul canalelor.",
+            "en": "Cycle leisurely along the canals."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            9.307,
+            48.742
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und genießen Sie das Flair am Marktplatz.",
+            "hu": "Tegye le a bringát és élvezze a piactér hangulatát.",
+            "ro": "Lăsați bicicleta și bucurați-vă de atmosfera din piață.",
+            "en": "Park your bike and enjoy the flair at the market square."
+          }
+        },
+        {
+          "name": "Frauenkirche",
+          "coords": [
+            9.306,
+            48.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blickfang am Hang der Weinberge.",
+            "hu": "Látványosság a szőlőhegyek lankáin.",
+            "ro": "Un punct de atracție pe panta podgoriilor.",
+            "en": "Eye-catcher on the slope of the vineyards."
+          }
+        },
+        {
+          "name": "Burg Esslingen",
+          "coords": [
+            9.313,
+            48.745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg mit dem Rad ist steil, aber lohnenswert.",
+            "hu": "A kerékpáros feljutás meredek, de megéri.",
+            "ro": "Urcarea cu bicicleta este abruptă, dar merită.",
+            "en": "The climb by bike is steep but worthwhile."
+          }
+        },
+        {
+          "name": "Kessler Sektkellerei",
+          "coords": [
+            9.309,
+            48.741
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein prickelnder Abschluss nach der Radtour.",
+            "hu": "Pezsgő lezárás a biciklitúra után.",
+            "ro": "Un final efervescent după tura cu bicicleta.",
+            "en": "A sparkling conclusion after the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am südlichen Stadtrand bei der Villa Merkel und radeln Sie durch den grünen Maille-Park in die historische Mitte. Nach einem Stopp am Marktplatz fordern Sie Ihre Waden beim Aufstieg zur Burg heraus. Von dort oben genießen Sie den Ausblick auf die Reben, bevor Sie durch die Altstadt zurückrollen und bei Kessler den Tag ausklingen lassen.",
+        "hu": "Kezdjen a déli városrészen a Villa Merkelnél, majd kerekezzen át a zöld Maille-parkon a történelmi központba. A piactéri megálló után tegye próbára lábait a várba vezető emelkedőn. Onnan fentről élvezze a szőlőtőkék látványát, mielőtt visszagurulna az óvároson keresztül, és a Kesslerben zárná a napot.",
+        "ro": "Începeți la marginea sudică la Villa Merkel și pedalați prin parcul verde Maille spre centrul istoric. După o oprire în piață, provocați-vă picioarele la urcarea spre cetate. De sus, bucurați-vă de priveliștea viilor înainte de a coborî prin orașul vechi și a încheia ziua la Kessler.",
+        "en": "Start at the southern edge near Villa Merkel and cycle through the green Maille Park into the historic center. After a stop at the market square, challenge your legs on the climb to the castle. From the top, enjoy the view of the vines before rolling back through the old town and ending the day at Kessler."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dulce",
+            "tip": "Bestes Eis der Stadt direkt am Maille-Park."
+          },
+          {
+            "name": "Einhorn",
+            "tip": "Historisches Gasthaus mit regionaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dulce",
+            "tip": "A város legjobb fagyija közvetlenül a Maille-parknál."
+          },
+          {
+            "name": "Einhorn",
+            "tip": "Történelmi vendéglő regionális konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulce",
+            "tip": "Cea mai bună înghețată din oraș, lângă parcul Maille."
+          },
+          {
+            "name": "Einhorn",
+            "tip": "Han istoric cu bucătărie regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dulce",
+            "tip": "Best ice cream in town right by Maille Park."
+          },
+          {
+            "name": "Einhorn",
+            "tip": "Historical inn with regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Neckarufer",
+            "tip": "Ruhiger Radweg entlang des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neckar-part",
+            "tip": "Csendes kerékpárút a folyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Neckarului",
+            "tip": "Pistă de biciclete liniștită de-a lungul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Neckar banks",
+            "tip": "Quiet cycle path along the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradstation",
+            "tip": "Verleih und Service direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárállomás",
+            "tip": "Kölcsönző és szerviz közvetlenül a pályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stație de biciclete",
+            "tip": "Închiriere și service lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Station",
+            "tip": "Rental and service right at the train station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Neckars für flache Etappen.",
+          "Die Burgauffahrt erfordert eine gute Kondition oder ein E-Bike.",
+          "In der Fußgängerzone müssen Sie das Rad schieben."
+        ],
+        "hu": [
+          "Használja a Neckar menti kerékpárutakat a sík szakaszokhoz.",
+          "A várba való feljutás jó kondíciót vagy e-bike-ot igényel.",
+          "A sétálóövezetben tolni kell a kerékpárt."
+        ],
+        "ro": [
+          "Folosiți pistele de pe malul Neckarului pentru etape plane.",
+          "Urcarea la cetate necesită condiție fizică bună sau e-bike.",
+          "În zona pietonală trebuie să mergeți pe lângă bicicletă."
+        ],
+        "en": [
+          "Use the cycle paths along the Neckar for flat stages.",
+          "The climb to the castle requires good fitness or an e-bike.",
+          "In the pedestrian zone, you must push your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Postmichelbrunnen",
+          "coords": [
+            9.306,
+            48.741
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie im Herzen der Altstadt (Parkhaus Marktplatz).",
+            "hu": "Kezdjen az óváros szívében (Marktplatz parkolóház).",
+            "ro": "Începeți în inima orașului vechi (Parcarea Marktplatz).",
+            "en": "Start in the heart of the old town (Marktplatz parking)."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            9.307,
+            48.742
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Brunnen zum Rathaus.",
+            "hu": "Rövid séta a kúttól a városházáig.",
+            "ro": "Scurtă plimbare de la fântână la primărie.",
+            "en": "Short walk from the fountain to the town hall."
+          }
+        },
+        {
+          "name": "Stadtkirche St. Dionys",
+          "coords": [
+            9.308,
+            48.741
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kultureller Stopp im ersten Cluster.",
+            "hu": "Kulturális megálló az első klaszterben.",
+            "ro": "Oprire culturală în primul cluster.",
+            "en": "Cultural stop in the first cluster."
+          }
+        },
+        {
+          "name": "Burg Esslingen",
+          "coords": [
+            9.313,
+            48.745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zum Burgparkplatz hoch.",
+            "hu": "Hajtson közvetlenül a vár parkolójához.",
+            "ro": "Conduceți direct până la parcarea cetății.",
+            "en": "Drive directly up to the castle parking lot."
+          }
+        },
+        {
+          "name": "Kessler Sektkellerei",
+          "coords": [
+            9.309,
+            48.741
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie erneut im Zentrum für die Kellereitour.",
+            "hu": "Parkoljon újra a központban a pincelátogatáshoz.",
+            "ro": "Parcați din nou în centru pentru turul cramei.",
+            "en": "Park again in the center for the cellar tour."
+          }
+        },
+        {
+          "name": "Maille-Park",
+          "coords": [
+            9.305,
+            48.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Sektkellerei erreichbar.",
+            "hu": "Gyalogosan elérhető a pezsgőpincészettől.",
+            "ro": "Accesibil pe jos de la crama de vin spumant.",
+            "en": "Accessible on foot from the sparkling wine cellar."
+          }
+        },
+        {
+          "name": "Villa Merkel",
+          "coords": [
+            9.3,
+            48.738
+          ],
+          "category": "museums",
+          "arrive_at": "15:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Abschluss im modernen Museum am Stadtrand.",
+            "hu": "Zárás a modern múzeumban a város szélén.",
+            "ro": "Final la muzeul modern de la marginea orașului.",
+            "en": "Conclusion at the modern museum on the edge of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Esslingen in drei Clustern. Zuerst tauchen Sie in die Altstadt ein (Rathaus & St. Dionys). Danach fahren Sie bequem hoch zur Burg, um den besten Blick ohne mühsamen Aufstieg zu genießen. Mittags geht es zurück ins Zentrum für Kessler Sekt und den Maille-Park, bevor Sie den Tag entspannt bei der Villa Merkel im Süden ausklingen lassen.",
+        "hu": "Autóval három klaszterben fedezheti fel Esslingent. Először merüljön el az óvárosban (Városháza és St. Dionys). Ezután kényelmesen hajtson fel a várba, hogy fáradságos mászás nélkül élvezze a legjobb kilátást. Délben térjen vissza a központba a Kessler pezsgőhöz és a Maille-parkhoz, majd zárja a napot délen, a Villa Merkelnél.",
+        "ro": "Cu mașina explorați Esslingen în trei clustere. Mai întâi intrați în orașul vechi (Primăria și St. Dionys). Apoi conduceți confortabil până la cetate pentru a vă bucura de cea mai bună priveliște fără urcare obositoare. La amiază reveniți în centru pentru Kessler și parcul Maille, înainte de a încheia ziua la Villa Merkel, în sud.",
+        "en": "By car, you explore Esslingen in three clusters. First, dive into the old town (Town Hall & St. Dionys). Then, drive comfortably up to the castle to enjoy the best view without a tiring climb. Midday, return to the center for Kessler sparkling wine and Maille Park before concluding the day at Villa Merkel in the south."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Osteria",
+            "tip": "Große Pizza direkt am Neckar-Kanal."
+          },
+          {
+            "name": "Palm'scher Bau",
+            "tip": "Elegantes Restaurant in historischem Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Osteria",
+            "tip": "Hatalmas pizza közvetlenül a Neckar-csatornánál."
+          },
+          {
+            "name": "Palm'scher Bau",
+            "tip": "Elegáns étterem egy történelmi épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Osteria",
+            "tip": "Pizza uriașă direct pe canalul Neckar."
+          },
+          {
+            "name": "Palm'scher Bau",
+            "tip": "Restaurant elegant într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Osteria",
+            "tip": "Huge pizza right on the Neckar canal."
+          },
+          {
+            "name": "Palm'scher Bau",
+            "tip": "Elegant restaurant in a historical building."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgberg",
+            "tip": "Aussichtspunkt bequem mit dem Auto erreichbar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgberg",
+            "tip": "Autóval kényelmesen elérhető kilátópont.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burgberg",
+            "tip": "Punct de observație accesibil ușor cu mașina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burgberg",
+            "tip": "Viewpoint easily accessible by car.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "ES-Einkaufszentrum",
+            "tip": "Große Auswahl direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "ES Bevásárlóközpont",
+            "tip": "Nagy választék közvetlenül a pályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial ES",
+            "tip": "Selecție mare lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "ES Shopping Center",
+            "tip": "Large selection right at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem; Parkhäuser im Zentrum sind oft voll.",
+          "Der Parkplatz direkt an der Burg ist begrenzt, aber ideal für Senioren.",
+          "Achtung: Die Altstadt ist größtenteils Fußgängerzone."
+        ],
+        "hu": [
+          "Használja a parkolásirányító rendszert; a központi parkolóházak gyakran teltek.",
+          "A közvetlenül a várnál lévő parkoló korlátozott, de ideális időseknek.",
+          "Vigyázat: az óváros nagy része sétálóövezet."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare pentru parcare; parcările centrale sunt adesea pline.",
+          "Parcarea direct la cetate este limitată, dar ideală pentru vârstnici.",
+          "Atenție: orașul vechi este în mare parte zonă pietonală."
+        ],
+        "en": [
+          "Use the parking guidance system; city center garages are often full.",
+          "The parking lot directly at the castle is limited but ideal for seniors.",
+          "Note: The old town is mostly a pedestrian zone."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Villa Merkel",
+          "coords": [
+            9.3,
+            48.738
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bahnhof Esslingen.",
+            "hu": "Rövid séta az Esslingen pályaudvartól.",
+            "ro": "Scurtă plimbare de la gara Esslingen.",
+            "en": "Short walk from Esslingen station."
+          }
+        },
+        {
+          "name": "Maille-Park",
+          "coords": [
+            9.305,
+            48.739
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Vom Museum durch die Grünanlagen Richtung Zentrum.",
+            "hu": "A múzeumtól a zöldterületeken át a központ felé.",
+            "ro": "De la muzeu prin spațiile verzi spre centru.",
+            "en": "From the museum through the green spaces towards the center."
+          }
+        },
+        {
+          "name": "Altes Rathaus",
+          "coords": [
+            9.307,
+            48.742
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 101 bis Marktplatz bringt Sie mitten ins Herz.",
+            "hu": "A 101-es busz a piactérig repíti a központba.",
+            "ro": "Linia de autobuz 101 până la Marktplatz vă duce în inima orașului.",
+            "en": "Bus line 101 to Marktplatz brings you right to the heart."
+          }
+        },
+        {
+          "name": "Kessler Sektkellerei",
+          "coords": [
+            9.309,
+            48.741
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a piactérről.",
+            "ro": "Accesibil pe jos din piața centrală.",
+            "en": "Accessible on foot from the market square."
+          }
+        },
+        {
+          "name": "Frauenkirche",
+          "coords": [
+            9.306,
+            48.744
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Markanter Punkt am Fuße der Burgstaffeln.",
+            "hu": "Jellegzetes pont a vár lépcsőinek alján.",
+            "ro": "Punct marcant la baza treptelor cetății.",
+            "en": "Striking point at the base of the castle stairs."
+          }
+        },
+        {
+          "name": "Burg Esslingen",
+          "coords": [
+            9.313,
+            48.745
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Bus für den Höhenunterschied.",
+            "hu": "Használja a városi buszt a szintkülönbség leküzdéséhez.",
+            "ro": "Folosiți autobuzul urban pentru diferența de nivel.",
+            "en": "Use the city bus for the elevation change."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr starten Sie kulturell bei der Villa Merkel am Bahnhof. Danach führt Sie der Weg durch den Maille-Park in die Altstadt. Per Bus erreichen Sie bequem den Marktplatz und später die Burg, was Ihnen den steilen Aufstieg erspart. Genießen Sie die historische Architektur und die prickelnde Tradition bei Kessler ganz ohne Parkplatzsorgen.",
+        "hu": "Tömegközlekedéssel kezdjen kulturálisan a pályaudvarnál lévő Villa Merkelnél. Ezután az út a Maille-parkon át az óvárosba vezet. Busszal kényelmesen elérheti a piacteret, később pedig a várat, így megkíméli magát a meredek mászástól. Élvezze a történelmi építészetet és a pezsgő tradíciót a Kesslerben, parkolási gondok nélkül.",
+        "ro": "Cu transportul public începeți cultural la Villa Merkel, lângă gară. Apoi drumul vă duce prin parcul Maille spre orașul vechi. Cu autobuzul ajungeți confortabil în piața centrală și mai târziu la cetate, evitând urcarea abruptă. Bucurați-vă de arhitectura istorică și tradiția efervescentă de la Kessler, fără grija parcării.",
+        "en": "By public transit, start your cultural day at Villa Merkel near the station. Then, the path leads through Maille Park into the old town. By bus, you can comfortably reach the market square and later the castle, saving you the steep climb. Enjoy the historic architecture and sparkling tradition at Kessler without any parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kessler Bar",
+            "tip": "Sektcocktails in modernem Ambiente."
+          },
+          {
+            "name": "Bäckerei Zoller",
+            "tip": "Traditionelle Laugenbrezeln für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kessler Bar",
+            "tip": "Pezsgőkoktélok modern környezetben."
+          },
+          {
+            "name": "Bäckerei Zoller",
+            "tip": "Hagyományos sós perec tízóraira."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kessler Bar",
+            "tip": "Cocktailuri cu vin spumant într-un ambient modern."
+          },
+          {
+            "name": "Bäckerei Zoller",
+            "tip": "Covrigi tradiționali (Laugenbrezeln) pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kessler Bar",
+            "tip": "Sparkling wine cocktails in a modern setting."
+          },
+          {
+            "name": "Zoller Bakery",
+            "tip": "Traditional pretzels for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtkirchengarten",
+            "tip": "Kleine Oase hinter der St. Dionys Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várostemplom kertje",
+            "tip": "Kis oázis a St. Dionys templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii",
+            "tip": "Mică oază în spatele bisericii St. Dionys.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Garden",
+            "tip": "Small oasis behind St. Dionys church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Zahlreiche inhabergeführte Läden in den Gassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Számos egyedi kisbolt a sikátorokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marktplatz",
+            "tip": "Numeroase magazine locale în străduțe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Numerous owner-managed shops in the alleys."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die VVS-App für Echtzeit-Fahrpläne herunter.",
+          "Ein Tagesticket für die Zone Esslingen ist meist am günstigsten.",
+          "Die Busse zum Burgberg fahren regelmäßig vom ZOB ab."
+        ],
+        "hu": [
+          "Töltse le a VVS appot a valós idejű menetrendekhez.",
+          "Az esslingeni zónára érvényes napijegy általában a legolcsóbb.",
+          "A várhegyre tartó buszok rendszeresen indulnak a központi buszállomásról."
+        ],
+        "ro": [
+          "Descărcați aplicația VVS pentru orare în timp real.",
+          "Un bilet de o zi pentru zona Esslingen este de obicei cea mai ieftină opțiune.",
+          "Autobuzele spre dealul cetății pleacă regulat din autogara centrală."
+        ],
+        "en": [
+          "Download the VVS app for real-time schedules.",
+          "A day ticket for the Esslingen zone is usually the cheapest option.",
+          "Buses to the castle hill depart regularly from the central bus station."
+        ]
+      }
+    }
+  }
+}

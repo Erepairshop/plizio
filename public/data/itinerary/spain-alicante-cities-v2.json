@@ -1,0 +1,1256 @@
+{
+  "city_id": "spain-alicante-cities-v2",
+  "anchor": {
+    "name": "Alicante",
+    "coords": [
+      -0.481,
+      38.3452
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "21:30",
+      "total_km": 4.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralmarkt",
+            "hu": "Központi Piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -0.4851,
+            38.3475
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Probieren Sie 'Turrón' aus Jijona im Erdgeschoss.",
+            "hu": "Kóstolja meg a helyi Jijona turrónt az alsó szinten.",
+            "ro": "Încercați 'Turrón' din Jijona la parter.",
+            "en": "Try local 'Turrón' from Jijona on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Concatedral de San Nicolás",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Concatedral de San Nicolás"
+          },
+          "coords": [
+            -0.4839,
+            38.3448
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bewundern Sie die 45 Meter hohe Kuppel im herrerianischen Stil.",
+            "hu": "Nézze meg a 45 méter magas herrerianus stílusú kupolát.",
+            "ro": "Admirați cupola de 45 de metri în stil herrerian.",
+            "en": "Admire the 45-meter high dome in Herrerian style."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Santa Cruz",
+            "hu": "Santa Cruz negyed",
+            "ro": "Cartierul Santa Cruz",
+            "en": "Barrio de Santa Cruz"
+          },
+          "coords": [
+            -0.4812,
+            38.3458
+          ],
+          "category": "old-town",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Achten Sie auf die handbemalten Kacheln an den weißen Fassaden.",
+            "hu": "Figyelje meg a fehér homlokzatok kézzel festett csempéit.",
+            "ro": "Observați plăcile pictate manual pe fațadele albe.",
+            "en": "Look for the hand-painted tiles on the white facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            -0.4805,
+            38.3452
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Bestellen Sie 'Arròs a banda', ein typisches Reisgericht.",
+            "hu": "Rendeljen 'Arròs a banda'-t, ami egy klasszikus helyi rázsétel.",
+            "ro": "Comandați 'Arròs a banda', un preparat local cu orez.",
+            "en": "Order 'Arròs a banda', a typical local rice dish."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica de Santa María",
+            "hu": "Szent Mária-bazilika",
+            "ro": "Bazilica Sfânta Maria",
+            "en": "Basílica de Santa María"
+          },
+          "coords": [
+            -0.4792,
+            38.3461
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Die älteste Kirche der Stadt, erbaut auf einer ehemaligen Moschee.",
+            "hu": "A város legrégebbi temploma, egy korábbi mecset helyére épült.",
+            "ro": "Cea mai veche biserică din oraș, construită pe locul unei moschei.",
+            "en": "The oldest church in the city, built over a former mosque."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Santa Bárbara",
+            "hu": "Szent Borbála-vár",
+            "ro": "Castelul Santa Bárbara",
+            "en": "Castillo de Santa Bárbara"
+          },
+          "coords": [
+            -0.4775,
+            38.3491
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Nutzen Sie den Aufzug gegenüber dem Postiguet-Strand.",
+            "hu": "Használja a Postiguet stranddal szemben található liftet.",
+            "ro": "Folosiți liftul situat vis-a-vis de plaja Postiguet.",
+            "en": "Use the elevator located across from Postiguet beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Explanada de España",
+            "hu": "Explanada de España",
+            "ro": "Explanada de España",
+            "en": "Explanada de España"
+          },
+          "coords": [
+            -0.4821,
+            38.3425
+          ],
+          "category": "promenades",
+          "arrive_at": "17:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Der Boden besteht aus 6,6 Millionen dreifarbigen Marmorsteinen.",
+            "hu": "A sétányt 6,6 millió háromszínű márványkő alkotja.",
+            "ro": "Paveajul este format din 6,6 milioane de cuburi de marmură.",
+            "en": "The pavement consists of 6.6 million tricolor marble tiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Postiguet-Strand (Sonnenuntergang)",
+            "hu": "Postiguet-strand (naplemente)",
+            "ro": "Plaja Postiguet (apus)",
+            "en": "Playa del Postiguet (Sunset)"
+          },
+          "coords": [
+            -0.4785,
+            38.3435
+          ],
+          "category": "beach",
+          "arrive_at": "18:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Abendessen in einem der Chiringuitos direkt am Sand.",
+            "hu": "Vacsora az egyik homokparton lévő chiringuitóban.",
+            "ro": "Cină la unul dintre chiringuitos direct pe nisip.",
+            "en": "Dinner at one of the chiringuitos right on the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Mercado Central, wo das geschäftige Treiben der Einheimischen Alicante authentisch macht. Nach der Besichtigung der massiven Kuppel von San Nicolás tauchen Sie in die engen Gassen von Santa Cruz ein, dem ältesten Viertel der Stadt.\n\nMittags genießen Sie die lokale Gastronomie in der Altstadt, bevor Sie die gotische Basilika Santa María besuchen. Am Nachmittag erklimmen Sie den Benacantil-Berg zur Burg Santa Bárbara, die 166 Meter über dem Meer thront.\n\nDer Abend gehört der ikonischen Explanada de España mit ihren Palmen. Beenden Sie den Tag am Postiguet-Strand, wo die Lichter der Stadt im Mittelmeer funkeln.",
+        "hu": "A napot a Központi Piacon indítjuk, ahol Alicante lüktetése a legautentikusabb. Miután megcsodáltuk a San Nicolás katedrális hatalmas kupoláját, elmerülünk Santa Cruz szűk, virágokkal teli utcáiban, a város legrégebbi negyedében.\n\nEbédre válasszunk egy helyi rizses ételt az óvárosban, majd nézzük meg a gótikus Szent Mária-bazilikát. Délután a Benacantil-hegy tetején lévő Szent Borbála-várat vesszük célba, amely 166 méter magasan őrzi az öblöt.\n\nAz este az ikonikus Explanada de España márványhullámain sétálva telik. A napot a Postiguet strandon zárjuk, ahol a tenger hűvös szellője kíséri a vacsorát.",
+        "ro": "Începeți ziua la Piața Centrală, locul unde viața localnicilor din Alicante se simte cel mai bine. După vizitarea domului masiv din San Nicolás, pătrundeți în labirintul de străduțe din Santa Cruz, cel mai vechi cartier al orașului.\n\nLa prânz, savurați gastronomia locală în centrul istoric, apoi vizitați bazilica gotică Santa María. După-amiaza urcați pe muntele Benacantil la castelul Santa Bárbara, care domină marea de la 166 de metri înălțime.\n\nSeara este rezervată emblematicei Explanada de España, sub umbra palmierilor. Încheiați ziua pe plaja Postiguet, unde luminile orașului se oglindesc în apele Mediteranei.",
+        "en": "Start your day at the Central Market, where the local hustle makes Alicante feel truly authentic. After visiting the massive dome of San Nicolás, dive into the narrow, flower-filled alleys of Santa Cruz, the city's oldest neighborhood.\n\nFor lunch, enjoy local gastronomy in the historic center, then visit the Gothic Basilica of Santa María. In the afternoon, head up Benacantil Mountain to Santa Bárbara Castle, standing 166 meters above the sea.\n\nEvening is spent walking the tricolor waves of the Explanada de España. Finish your day at Postiguet Beach, where the sea breeze accompanies a late dinner by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Portal",
+            "tip": "Probieren Sie kreative Tapas in exzellenter Atmosphäre."
+          },
+          {
+            "name": "Nou Manolín",
+            "tip": "Legendäre Tapas-Bar mit frischem Fisch aus der Bucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante El Portal",
+            "tip": "Kóstoljon kreatív tapasokat stílusos környezetben."
+          },
+          {
+            "name": "Nou Manolín",
+            "tip": "Legendás tapas-bár friss tengeri fogásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Portal",
+            "tip": "Încercați tapas creative într-o atmosferă deosebită."
+          },
+          {
+            "name": "Nou Manolín",
+            "tip": "Bar de tapas legendar cu pește proaspăt din golf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Portal",
+            "tip": "Try creative tapas in a high-end, stylish atmosphere."
+          },
+          {
+            "name": "Nou Manolín",
+            "tip": "Legendary tapas bar serving fresh fish from the bay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ereta Park",
+            "tip": "Ruhiger Park am Hang des Benacantil mit Blick auf den Hafen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de la Albufereta",
+            "tip": "Etwas ruhigerer Strand außerhalb des Zentrums.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ereta Park",
+            "tip": "Csendes park a Benacantil lejtőjén, kilátással a kikötőre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de la Albufereta",
+            "tip": "Kicsit nyugodtabb strand a központon kívül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ereta",
+            "tip": "Parc liniștit pe panta muntelui Benacantil, cu vedere spre port.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de la Albufereta",
+            "tip": "O plajă ceva mai liniștită în afara centrului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ereta Park",
+            "tip": "Quiet park on the slopes of Benacantil with harbor views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Playa de la Albufereta",
+            "tip": "A quieter beach escape just outside the main center.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "Die berühmte 'Pilzstraße' mit vielen kleinen Boutiquen."
+          },
+          {
+            "name": "Mercado Central",
+            "tip": "Bester Ort für lokale Weine und Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "A híres 'gombás utca' tele helyi butikokkal."
+          },
+          {
+            "name": "Mercado Central",
+            "tip": "A legjobb hely helyi borok és finomságok beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "Faimoasa 'stradă a ciupercilor' cu buticuri locale."
+          },
+          {
+            "name": "Piața Centrală",
+            "tip": "Cel mai bun loc pentru vinuri locale și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calle San Francisco",
+            "tip": "The famous 'mushroom street' lined with local boutiques."
+          },
+          {
+            "name": "Central Market",
+            "tip": "Best spot for sourcing local wines and delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Alicante ist sehr fußläufig, tragen Sie bequeme Schuhe für die Burg.",
+          "Die Siesta zwischen 14:00 und 17:00 Uhr wird hier noch gelebt.",
+          "Trinken Sie 'Horchata de Chufa' an heißen Nachmittagen.",
+          "Abends sind die Viertel um die Calle Castaños sehr lebendig."
+        ],
+        "hu": [
+          "Alicante jól bejárható gyalog, de a várba kényelmes cipő kell.",
+          "A szieszta 14:00 és 17:00 között még mindig jellemző a boltokra.",
+          "Igyon 'Horchata de Chufa'-t a forró délutánokon.",
+          "Este a Calle Castaños környéki utcák telnek meg élettel."
+        ],
+        "ro": [
+          "Alicante este ușor de parcurs pe jos, dar purtați încălțăminte comodă pentru castel.",
+          "Siesta între orele 14:00 și 17:00 este încă respectată de multe magazine.",
+          "Savurați o 'Horchata de Chufa' în după-amiezile toride.",
+          "Seara, străzile din jurul Calle Castaños devin foarte animate."
+        ],
+        "en": [
+          "Alicante is very walkable, but wear comfortable shoes for the castle climb.",
+          "The siesta between 2 PM and 5 PM is still observed by smaller shops.",
+          "Try 'Horchata de Chufa' (tiger nut milk) on hot afternoons.",
+          "In the evening, the streets around Calle Castaños are the liveliest."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Explanada de España",
+            "hu": "Explanada de España",
+            "ro": "Explanada de España",
+            "en": "Explanada de España"
+          },
+          "coords": [
+            -0.4821,
+            38.3425
+          ],
+          "category": "promenades",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Beginnen Sie die Tour im Schatten der Palmen.",
+            "hu": "Kezdje a túrát a pálmák árnyékában.",
+            "ro": "Începeți turul la umbra palmierilor.",
+            "en": "Start the tour in the shade of the palms."
+          }
+        },
+        {
+          "name": {
+            "de": "Postiguet-Strand",
+            "hu": "Postiguet-strand",
+            "ro": "Plaja Postiguet",
+            "en": "Postiguet Beach"
+          },
+          "coords": [
+            -0.4785,
+            38.3435
+          ],
+          "category": "beach",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Parken Sie das Rad sicher an den vorgesehenen Ständern.",
+            "hu": "Parkolja le a bringát biztonságosan a kijelölt tárolóknál.",
+            "ro": "Parcați bicicleta în siguranță la suporturile speciale.",
+            "en": "Park your bike safely at the designated racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum MARQ",
+            "hu": "MARQ Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie MARQ",
+            "en": "MARQ Archaeological Museum"
+          },
+          "coords": [
+            -0.4755,
+            38.3551
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Europäisches Museum des Jahres 2004.",
+            "hu": "Európai Év Múzeuma díjas helyszín 2004-ből.",
+            "ro": "Muzeul European al Anului în 2004.",
+            "en": "European Museum of the Year winner in 2004."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Yachthafen",
+            "hu": "Ebéd a jachtkikötőnél",
+            "ro": "Prânz la marina",
+            "en": "Lunch at the Marina"
+          },
+          "coords": [
+            -0.4855,
+            38.3415
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Genießen Sie frische Meeresfrüchte mit Blick auf die Boote.",
+            "hu": "Élvezze a friss tengeri ételeket a hajók látványával.",
+            "ro": "Savurați fructe de mare cu vedere la bărci.",
+            "en": "Enjoy fresh seafood with a view of the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Santa Bárbara",
+            "hu": "Szent Borbála-vár",
+            "ro": "Castelul Santa Bárbara",
+            "en": "Castillo de Santa Bárbara"
+          },
+          "coords": [
+            -0.4775,
+            38.3491
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Der Anstieg ist steil, nutzen Sie die Rückseite für den Radweg.",
+            "hu": "Az emelkedő meredek, használja a hátsó kerékpárutat.",
+            "ro": "Urcarea este abruptă, folosiți pista din spatele muntelui.",
+            "en": "The climb is steep; use the bike path on the backside."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralmarkt",
+            "hu": "Központi Piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -0.4851,
+            38.3475
+          ],
+          "category": "market",
+          "arrive_at": "17:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Kaufen Sie frisches Obst für die Rückfahrt.",
+            "hu": "Vegyen friss gyümölcsöt az útra.",
+            "ro": "Cumpărați fructe proaspete pentru drum.",
+            "en": "Buy fresh fruit for the return leg."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Santa Cruz",
+            "hu": "Santa Cruz negyed",
+            "ro": "Cartierul Santa Cruz",
+            "en": "Barrio de Santa Cruz"
+          },
+          "coords": [
+            -0.4812,
+            38.3458
+          ],
+          "category": "old-town",
+          "arrive_at": "18:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_4lang": {
+            "de": "Schieben Sie das Rad in den engsten Gassen.",
+            "hu": "A legszűkebb utcákban tolja a biciklit.",
+            "ro": "Împingeți bicicleta pe străzile cele mai înguste.",
+            "en": "Push your bike in the narrowest alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Alicante auf zwei Rädern. Wir starten an der kühlen Explanada und radeln entlang der Küste zum Postiguet-Strand. Danach führt uns die Route zum preisgekrönten MARQ Museum, um die antike Geschichte der Region zu verstehen.\n\nNach einem Mittagessen im Yachthafen stellen wir uns der Herausforderung: dem Aufstieg zur Burg Santa Bárbara über die Panoramastraße. Der Ausblick entschädigt für jede Anstrengung. Den Abschluss bilden der Markt und die malerische Altstadt.",
+        "hu": "Fedezze fel Alicantét két keréken. A hűvös Explanadáról indulunk, és a tengerpart mentén a Postiguet strandig tekerünk. Ezután az utunk a díjnyertes MARQ múzeumhoz vezet, hogy megismerjük a régió ókori történelmét.\n\nA jachtkikötőben elköltött ebéd után jön a kihívás: a Szent Borbála-vár megmászása a panorámaúton. A kilátás minden fáradságot megér. A napot a piacon és a festői óvárosban zárjuk.",
+        "ro": "Descoperiți Alicante pe două roți. Pornim de pe răcoroasa Explanada și pedalăm de-a lungul coastei până la plaja Postiguet. Ulterior, ruta ne duce la premiatul muzeu MARQ pentru a înțelege istoria antică a regiunii.\n\nDupă un prânz în marina orașului, urmează provocarea: urcarea la castelul Santa Bárbara pe drumul panoramic. Vederea compensează orice efort. Finalul zilei ne găsește la piață și în cartierul vechi pitoresc.",
+        "en": "Discover Alicante on two wheels. We start at the cool Explanada and cycle along the coast to Postiguet Beach. Then, our route leads to the award-winning MARQ museum to grasp the region's ancient history.\n\nAfter lunch at the marina, the challenge awaits: climbing Santa Bárbara Castle via the panoramic road. The view is worth every effort. We wrap up at the market and the picturesque old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dársena",
+            "tip": "Spezialisierung auf Reisgerichte direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dársena",
+            "tip": "Rizses ételekre szakosodott étterem a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dársena",
+            "tip": "Specializat în preparate pe bază de orez, chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dársena",
+            "tip": "Specializing in rice dishes right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palmengarten El Palmeral",
+            "tip": "Ein großer Park im Süden, perfekt für Radfahrer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Palmeral pálmakert",
+            "tip": "Hatalmas park délen, kiváló biciklizéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina El Palmeral",
+            "tip": "Un parc mare în sud, perfect pentru bicicliști.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "El Palmeral Palm Grove",
+            "tip": "A large park in the south, perfect for cyclists.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blue Bikes Alicante",
+            "tip": "Verleih und Souvenirs für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blue Bikes Alicante",
+            "tip": "Biciklikölcsönző és szuvenírek bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blue Bikes Alicante",
+            "tip": "Închirieri și suveniruri pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Bikes Alicante",
+            "tip": "Rental and souvenirs for cycling enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele neue Radwege entlang der Küste.",
+          "Meiden Sie die Hauptstraßen während der Stoßzeiten.",
+          "Die Burgauffahrt erfordert eine gute Gangschaltung.",
+          "Nutzen Sie die App 'BiciAlacant' für öffentliche Räder."
+        ],
+        "hu": [
+          "Sok új kerékpárút épült a tengerpart mentén.",
+          "Kerülje a főutakat csúcsforgalom idején.",
+          "A várba vezető út jó váltót és állóképességet igényel.",
+          "Használja a 'BiciAlacant' appot a közbringákhoz."
+        ],
+        "ro": [
+          "Există multe piste noi de biciclete de-a lungul coastei.",
+          "Evitați bulevardele principale la orele de vârf.",
+          "Urcarea la castel necesită o bicicletă cu viteze bune.",
+          "Folosiți aplicația 'BiciAlacant' pentru bicicletele publice."
+        ],
+        "en": [
+          "There are many new bike lanes along the coastline.",
+          "Avoid main avenues during rush hour.",
+          "The castle ascent requires a bike with good gears.",
+          "Use the 'BiciAlacant' app for the city's bike-sharing system."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 18.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralmarkt (Parkhaus)",
+            "hu": "Központi Piac (parkolóház)",
+            "ro": "Piața Centrală (parcare)",
+            "en": "Central Market (Parking)"
+          },
+          "coords": [
+            -0.4851,
+            38.3475
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parken Sie im 'Parking Alfonso El Sabio'.",
+            "hu": "Parkoljon az 'Alfonso El Sabio' parkolóban.",
+            "ro": "Parcați în 'Parking Alfonso El Sabio'.",
+            "en": "Park at the 'Alfonso El Sabio' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Concatedral de San Nicolás",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Concatedral de San Nicolás"
+          },
+          "coords": [
+            -0.4839,
+            38.3448
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Vom Markt aus in 5 Minuten zu Fuß erreichbar.",
+            "hu": "A piactól 5 perc séta.",
+            "ro": "La 5 minute de mers pe jos de piață.",
+            "en": "A 5-minute walk from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Santa Cruz",
+            "hu": "Santa Cruz negyed",
+            "ro": "Cartierul Santa Cruz",
+            "en": "Barrio de Santa Cruz"
+          },
+          "coords": [
+            -0.4812,
+            38.3458
+          ],
+          "category": "old-town",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Lassen Sie das Auto im Parkhaus stehen.",
+            "hu": "Hagyja az autót a parkolóházban.",
+            "ro": "Lăsați mașina în parcare.",
+            "en": "Leave your car in the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Santa Bárbara (Gipfel)",
+            "hu": "Szent Borbála-vár (csúcs)",
+            "ro": "Castelul Santa Bárbara (vârf)",
+            "en": "Castillo de Santa Bárbara (Summit)"
+          },
+          "coords": [
+            -0.4775,
+            38.3491
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Fahren Sie bis zum Parkplatz oben, wenn Platz frei ist.",
+            "hu": "Hajtson fel a fenti parkolóig, ha van hely.",
+            "ro": "Urcați cu mașina până la parcarea de sus, dacă e liber.",
+            "en": "Drive up to the top parking lot if spaces are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Playa de San Juan",
+            "hu": "Ebéd a San Juan strandon",
+            "ro": "Prânz la Playa de San Juan",
+            "en": "Lunch at Playa de San Juan"
+          },
+          "coords": [
+            -0.4132,
+            38.3715
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Beste Reiskultur außerhalb des Stadtzentrums.",
+            "hu": "A legjobb rizses ételek a központon kívül.",
+            "ro": "Cea mai bună cultură a orezului în afara centrului.",
+            "en": "Best rice culture outside the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San Juan (Strandpause)",
+            "hu": "San Juan strand (pihenő)",
+            "ro": "Playa de San Juan (relaxare)",
+            "en": "Playa de San Juan (Beach break)"
+          },
+          "coords": [
+            -0.4125,
+            38.3755
+          ],
+          "category": "beach",
+          "arrive_at": "16:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein 7 km langer Sandstrand mit viel Platz.",
+            "hu": "7 km hosszú homokos part rengeteg hellyel.",
+            "ro": "O plajă de 7 km lungime cu mult spațiu.",
+            "en": "A 7 km long sandy beach with plenty of space."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum MARQ",
+            "hu": "MARQ Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie MARQ",
+            "en": "MARQ Archaeological Museum"
+          },
+          "coords": [
+            -0.4755,
+            38.3551
+          ],
+          "category": "museums",
+          "arrive_at": "18:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "hop_mode": "car",
+          "tip_4lang": {
+            "de": "Parkplatz direkt vor dem Museumseingang.",
+            "hu": "Parkoló közvetlenül a múzeum bejárata előtt.",
+            "ro": "Parcare chiar în fața intrării muzeului.",
+            "en": "Parking lot right in front of the museum entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren wir das Zentrum mit den weiten Stränden im Norden. Wir starten am Markt und erkunden die Altstadt zu Fuß, während das Auto sicher parkt. Mittags fahren wir zur Burg und genießen den Panoramablick.\n\nDer Nachmittag führt uns zum 7 km langen Strand von San Juan, wo wir dem Trubel der Stadt entfliehen. Zum Abschluss besuchen wir das MARQ Museum auf dem Rückweg ins Zentrum.",
+        "hu": "Autóval kombináljuk a városközpontot és az északi nagy strandokat. A piacnál kezdünk, és gyalog fedezzük fel az óvárost, amíg az autó a parkolóban pihen. Délben felhajtunk a várhoz a panorámáért.\n\nA délután a 7 km hosszú San Juan strandon telik, távol a város zajától. Zárásként útba ejtjük a MARQ múzeumot a központ felé menet.",
+        "ro": "Cu mașina combinăm centrul cu plajele întinse din nord. Începem la piață și explorăm centrul vechi pe jos, în timp ce mașina stă la parcare. La prânz urcăm cu mașina la castel pentru panoramă.\n\nDupă-amiaza ne găsește pe plaja San Juan, lungă de 7 km, departe de agitația urbană. La final, vizităm muzeul MARQ în drumul de întoarcere spre centru.",
+        "en": "By car, we combine the city center with the vast northern beaches. We start at the market and explore the old town on foot while the car stays parked. At noon, we drive up to the castle for the panorama.\n\nThe afternoon is spent at the 7 km long San Juan beach, escaping the urban noise. To finish, we stop by the MARQ museum on our way back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Casa Julio",
+            "tip": "Hervorragende Paella direkt am Strand von San Juan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Casa Julio",
+            "tip": "Kiváló paella közvetlenül a San Juan parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Casa Julio",
+            "tip": "Paella excelentă chiar pe plaja San Juan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Casa Julio",
+            "tip": "Excellent paella right on San Juan beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cabo de la Huerta",
+            "tip": "Klippenpfade für einen ruhigen Spaziergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabo de la Huerta",
+            "tip": "Sziklás ösvények egy csendes sétához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabo de la Huerta",
+            "tip": "Poteci pe stânci pentru o plimbare liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cabo de la Huerta",
+            "tip": "Cliffside paths for a quiet sunset walk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial Plaza Mar 2",
+            "tip": "Großes Einkaufszentrum mit kostenlosem Parken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centro Comercial Plaza Mar 2",
+            "tip": "Nagy bevásárlóközpont ingyenes parkolással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial Plaza Mar 2",
+            "tip": "Centru comercial mare cu parcare gratuită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centro Comercial Plaza Mar 2",
+            "tip": "Large shopping mall with free parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Fahren in den engen Gassen von Santa Cruz.",
+          "Blaue Zonen (Zona Azul) sind kostenpflichtig.",
+          "Parkhäuser sind im Zentrum die sicherste Wahl.",
+          "Nutzen Sie Google Maps für Echtzeit-Verkehrsdaten."
+        ],
+        "hu": [
+          "Kerülje az autóval való behajtást Santa Cruz szűk utcáiba.",
+          "A kék zónák (Zona Azul) fizetősek.",
+          "A parkolóházak a legbiztonságosabbak a központban.",
+          "Használja a Google Mapset a valós idejű forgalomhoz."
+        ],
+        "ro": [
+          "Evitați conducerea în străduțele înguste din Santa Cruz.",
+          "Zonele albastre (Zona Azul) sunt cu plată.",
+          "Parcările subterane sunt cea mai sigură alegere în centru.",
+          "Folosiți Google Maps pentru date de trafic în timp real."
+        ],
+        "en": [
+          "Avoid driving into the narrow alleys of Santa Cruz.",
+          "Blue zones (Zona Azul) require payment via meters.",
+          "Parking garages are the safest choice in the center.",
+          "Use Google Maps for real-time traffic updates."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "20:00",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Explanada de España",
+            "hu": "Explanada de España",
+            "ro": "Explanada de España",
+            "en": "Explanada de España"
+          },
+          "coords": [
+            -0.4821,
+            38.3425
+          ],
+          "category": "promenades",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Buslinien 21 oder 22 halten in der Nähe.",
+            "hu": "A 21-es és 22-es buszok a közelben állnak meg.",
+            "ro": "Liniile de autobuz 21 sau 22 opresc în apropiere.",
+            "en": "Bus lines 21 or 22 stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Concatedral de San Nicolás",
+            "hu": "Szent Miklós-társszékesegyház",
+            "ro": "Concatedrala Sfântul Nicolae",
+            "en": "Concatedral de San Nicolás"
+          },
+          "coords": [
+            -0.4839,
+            38.3448
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Ein kurzer Spaziergang von der Explanada.",
+            "hu": "Rövid séta az Explanadától.",
+            "ro": "O scurtă plimbare de la Explanada.",
+            "en": "A short walk from the Explanada."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado Central",
+            "hu": "Központi Piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -0.4851,
+            38.3475
+          ],
+          "category": "market",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Direkt neben der Tram-Station 'Mercado'.",
+            "hu": "Közvetlenül a 'Mercado' villamosmegálló mellett.",
+            "ro": "Chiar lângă stația de tramvai 'Mercado'.",
+            "en": "Right next to the 'Mercado' tram station."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe des Marktes",
+            "hu": "Ebéd a piac környékén",
+            "ro": "Prânz în apropierea pieței",
+            "en": "Lunch near the Market"
+          },
+          "coords": [
+            -0.4865,
+            38.3485
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Probieren Sie Tapas in der Calle San Vicente.",
+            "hu": "Kóstoljon tapasokat a Calle San Vicente-n.",
+            "ro": "Încercați tapas pe Calle San Vicente.",
+            "en": "Try tapas on Calle San Vicente."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum MARQ",
+            "hu": "MARQ Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie MARQ",
+            "en": "MARQ Archaeological Museum"
+          },
+          "coords": [
+            -0.4755,
+            38.3551
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Nehmen Sie die Tram L2 bis zur Haltestelle 'MARQ'.",
+            "hu": "Szálljon fel az L2 villamosra a 'MARQ' megállóig.",
+            "ro": "Luați tramvaiul L2 până la stația 'MARQ'.",
+            "en": "Take tram L2 to the 'MARQ' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Santa Bárbara",
+            "hu": "Szent Borbála-vár",
+            "ro": "Castelul Santa Bárbara",
+            "en": "Castillo de Santa Bárbara"
+          },
+          "coords": [
+            -0.4775,
+            38.3491
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_4lang": {
+            "de": "Buslinie CS verbindet das Zentrum mit der Burg.",
+            "hu": "A CS jelű busz köti össze a központot a várral.",
+            "ro": "Linia de autobuz CS leagă centrul de castel.",
+            "en": "Bus line CS connects the center with the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Postiguet-Strand",
+            "hu": "Postiguet-strand",
+            "ro": "Plaja Postiguet",
+            "en": "Postiguet Beach"
+          },
+          "coords": [
+            -0.4785,
+            38.3435
+          ],
+          "category": "beach",
+          "arrive_at": "18:25",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_4lang": {
+            "de": "Der Aufzug bringt Sie direkt von der Burg runter.",
+            "hu": "A lift közvetlenül a várból visz le a partra.",
+            "ro": "Liftul vă coboară direct de la castel la plajă.",
+            "en": "The elevator takes you directly from the castle to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Tram- und Bussystem von Alicante. Wir starten im Hafenbereich an der Explanada und besuchen die Kathedrale. Die Tram bringt uns effizient vom Markt zum MARQ Museum.\n\nNachmittags nutzen wir den speziellen Burgbus, um die Festung Santa Bárbara zu erreichen, ohne wandern zu müssen. Den Tag beenden wir entspannt am Strand, von wo aus alle Buslinien zurück in die Wohnviertel führen.",
+        "hu": "Használja Alicante kiváló villamos- és buszhálózatát. A kikötői részen, az Explanadánál kezdünk, majd megnézzük a katedrálist. A villamos hatékonyan repít minket a piactól a MARQ múzeumig.\n\nDélután a speciális várbuszt vesszük igénybe, hogy gyaloglás nélkül jussunk fel a Szent Borbála-erődbe. A napot a strandon zárjuk, ahonnan minden buszjárat visszavisz a központba.",
+        "ro": "Folosiți sistemul excelent de tramvai și autobuz din Alicante. Începem în zona portului la Explanada și vizităm catedrala. Tramvaiul ne duce eficient de la piață la muzeul MARQ.\n\nDupă-amiaza folosim autobuzul special pentru castel pentru a ajunge la fortăreața Santa Bárbara fără a urca pe jos. Încheiem ziua relaxat pe plajă, de unde toate liniile de autobuz duc înapoi spre centru.",
+        "en": "Utilize Alicante's excellent tram and bus system. We start at the harbor area near the Explanada and visit the cathedral. The tram efficiently takes us from the market to the MARQ museum.\n\nIn the afternoon, we use the special castle bus to reach Santa Bárbara fortress without the hike. We end the day relaxed on the beach, from where all bus lines head back to the main city hubs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cervecería Sento",
+            "tip": "Berühmte kleine Tapas-Bar in der Nähe der Tram-Station."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cervecería Sento",
+            "tip": "Híres kis tapas-bár a villamosmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cervecería Sento",
+            "tip": "Faimos bar de tapas mic lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cervecería Sento",
+            "tip": "Famous tiny tapas bar near the main tram station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parque Canalejas",
+            "tip": "Ältester Park mit riesigen Gummibäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parque Canalejas",
+            "tip": "A város legősibb parkja óriási gumifákkal.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Canalejas",
+            "tip": "Cel mai vechi parc cu arbori de cauciuc uriași.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canalejas Park",
+            "tip": "Oldest park with massive century-old rubber trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Zentrales Kaufhaus an der Tram-Station Luceros."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Központi áruház a Luceros villamosmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Magazin universal central la stația de tramvai Luceros."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Central department store by the Luceros tram station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'Bono' Mehrfahrtenkarte am Automaten.",
+          "Die Tram L1 fährt bis Benidorm, falls Sie Zeit haben.",
+          "Busse akzeptieren Kartenzahlung (Contactless).",
+          "Achten Sie auf die Anzeigen an den Haltestellen."
+        ],
+        "hu": [
+          "Vegyen gyűjtőjegyet (Bono) az automatákban.",
+          "Az L1 villamos egészen Benidormig jár, ha több ideje van.",
+          "A buszokon lehet érintős bankkártyával fizetni.",
+          "Figyelje a megállók digitális kijelzőit."
+        ],
+        "ro": [
+          "Cumpărați un card de călătorii (Bono) de la automate.",
+          "Tramvaiul L1 merge până în Benidorm, dacă aveți timp.",
+          "Autobuzele acceptă plata cu cardul contactless.",
+          "Urmăriți afișajele electronice din stații."
+        ],
+        "en": [
+          "Buy a 'Bono' multi-trip card at the ticket machines.",
+          "The L1 tram goes all the way to Benidorm if you have extra time.",
+          "Buses accept contactless card payments.",
+          "Keep an eye on the digital displays at the stops."
+        ]
+      }
+    }
+  }
+}

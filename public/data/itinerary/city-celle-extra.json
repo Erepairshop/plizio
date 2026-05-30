@@ -1,0 +1,1188 @@
+{
+  "city_id": "city-celle-extra",
+  "anchor": {
+    "name": "Celler Altstadt",
+    "coords": [
+      10.0819,
+      52.6256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            10.0812,
+            52.6248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie die Weserrenaissance-Fassade.",
+            "hu": "Csodálja meg a Weser-reneszánsz homlokzatot.",
+            "ro": "Admirați fațada în stilul Renașterii Weser.",
+            "en": "Admire the Weser Renaissance facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Hoppener Haus",
+            "hu": "Hoppener-ház",
+            "ro": "Casa Hoppener",
+            "en": "Hoppener House"
+          },
+          "coords": [
+            10.0821,
+            52.6245
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das prächtigste Fachwerkhaus der Stadt.",
+            "hu": "A város legdíszesebb favázas háza.",
+            "ro": "Cea mai ornamentată casă cu paiantă din oraș.",
+            "en": "The most ornate half-timbered house in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Marien",
+            "hu": "Szent Mária városi templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Town Church"
+          },
+          "coords": [
+            10.0805,
+            52.6242
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hören Sie den Türmer um 11:00 Uhr.",
+            "hu": "Hallgassa meg a toronyőrt 11:00-kor.",
+            "ro": "Ascultați gornistul turnului la ora 11:00.",
+            "en": "Listen to the tower trumpeter at 11:00 AM."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Celle",
+            "hu": "Cellei hercegi kastély",
+            "ro": "Castelul Celle",
+            "en": "Celle Castle"
+          },
+          "coords": [
+            10.0778,
+            52.6241
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die Schlosskapelle.",
+            "hu": "Látogasson el a kastélykápolnába.",
+            "ro": "Vizitați capela castelului.",
+            "en": "Visit the castle chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Bomann-Museum",
+            "hu": "Bomann Múzeum",
+            "ro": "Muzeul Bomann",
+            "en": "Bomann Museum"
+          },
+          "coords": [
+            10.0775,
+            52.6238
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eines der größten Volkskundemuseen Niedersachsens.",
+            "hu": "Alsó-Szászország egyik legnagyobb néprajzi múzeuma.",
+            "ro": "Unul dintre cele mai mari muzee de etnografie din Saxonia Inferioară.",
+            "en": "One of the largest folklore museums in Lower Saxony."
+          }
+        },
+        {
+          "name": {
+            "de": "Französischer Garten",
+            "hu": "Francia kert",
+            "ro": "Grădina Franceză",
+            "en": "French Garden"
+          },
+          "coords": [
+            10.0885,
+            52.6225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Pause unter Linden.",
+            "hu": "Remek hely a pihenésre a hársfák alatt.",
+            "ro": "Un loc minunat pentru o pauză sub tei.",
+            "en": "A beautiful spot for a break under the linden trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Celler Altstadt",
+            "hu": "Cellei óváros",
+            "ro": "Orașul Vechi Celle",
+            "en": "Celle Old Town"
+          },
+          "coords": [
+            10.0835,
+            52.6252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die malerischen Gassen.",
+            "hu": "Sétáljon végig a festői utcákon.",
+            "ro": "Plimbați-vă pe străduțele pitorești.",
+            "en": "Stroll through the picturesque alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am Alten Rathaus, einem Juwel der Renaissance. Nach einem Blick auf das kunstvolle Hoppener Haus besuchen Sie die Stadtkirche, wo Sie vielleicht das Signal des Türmers hören. Der Vormittag gehört dem imposanten Residenzschloss, bevor Sie im Bomann-Museum in die lokale Geschichte eintauchen. Am Nachmittag entspannen Sie im Französischen Garten und beenden den Tag bei einem gemütlichen Spaziergang durch die über 400 Fachwerkhäuser der Altstadt.",
+        "hu": "A nap a reneszánsz ékszerdoboznak számító Régi Városházánál indul. A gazdagon díszített Hoppener-ház megtekintése után a városi templom következik, ahol elcsípheti a toronyőr jelzését. A délelőttöt a fenséges hercegi kastélyban töltjük, majd a Bomann Múzeumban ismerkedünk a múlt emlékeivel. Délután a Francia kert nyugalma vár, a napot pedig a több mint 400 favázas házat számláló óváros hangulatos utcáin zárjuk.",
+        "ro": "Ziua începe la Primăria Veche, o bijuterie a Renașterii. După ce vedeți Casa Hoppener, vizitați biserica orașului, unde puteți auzi semnalul gornistului. Dimineața este dedicată castelului rezidențial, urmată de o incursiune în istoria locală la Muzeul Bomann. După-amiaza vă relaxați în Grădina Franceză și încheiați ziua cu o plimbare prin Orașul Vechi, admirând cele peste 400 de case cu paiantă.",
+        "en": "The day starts at the Old Town Hall, a Renaissance jewel. After seeing the ornate Hoppener House, visit the town church, where you might catch the tower trumpeter's signal. The morning is dedicated to the impressive Residential Palace, followed by a dive into local history at the Bomann Museum. In the afternoon, relax in the French Garden and end the day with a cozy stroll through the Old Town's 400+ half-timbered houses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller Celle",
+            "tip": "Probieren Sie Heidschnuckenbraten, eine lokale Spezialität."
+          },
+          {
+            "name": "Museumscafé",
+            "tip": "Hausgemachter Kuchen in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller Celle",
+            "tip": "Kóstolja meg a hangaföldi juhsültet (Heidschnuckenbraten)."
+          },
+          {
+            "name": "Museumscafé",
+            "tip": "Házias sütemények történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller Celle",
+            "tip": "Încercați friptura de oaie locală (Heidschnuckenbraten)."
+          },
+          {
+            "name": "Museumscafé",
+            "tip": "Prăjituri de casă într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller Celle",
+            "tip": "Try the roasted heath sheep, a local specialty."
+          },
+          {
+            "name": "Museumscafé",
+            "tip": "Homemade cakes in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Französischer Garten",
+            "tip": "Ruhige Bänke abseits der Hauptwege.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aller-Ufer",
+            "tip": "Entspannter Spaziergang am Fluss.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Francia kert",
+            "tip": "Csendes padok a főutaktól távol.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aller-part",
+            "tip": "Pihentető séta a folyó mentén.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Franceză",
+            "tip": "Bănci liniștite departe de aleile principale.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Malul râului Aller",
+            "tip": "O plimbare relaxantă pe malul apei.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "French Garden",
+            "tip": "Quiet benches away from the main paths.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Aller River Bank",
+            "tip": "Relaxing walk along the river.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte vor dem Rathaus (Mi & Sa)."
+          },
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Individuelle Geschenke in den Fachwerkstrassen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális termékek a Városháza előtt (Sze és Szo)."
+          },
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Egyedi ajándékok a favázas házas utcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale în fața primăriei (mi-sâ)."
+          },
+          {
+            "name": "Boutique-urile din Orașul Vechi",
+            "tip": "Cadouri individuale pe străzile cu paiantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products in front of the Town Hall (Wed & Sat)."
+          },
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Unique gifts in the half-timbered streets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt und ideal zu Fuß zu erkunden.",
+          "Achten Sie auf die geschnitzten Details an den Fachwerkhäusern.",
+          "Bequeme Schuhe sind wegen des Kopfsteinpflasters wichtig.",
+          "Die Tourist-Info bietet kostenlose Pläne für Rundgänge an."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyelje meg a favázas házak faragott részleteit.",
+          "A macskakő miatt kényelmes cipő viselése ajánlott.",
+          "A Tourinform irodában ingyenes sétaútvonal-terveket kaphat."
+        ],
+        "ro": [
+          "Orașul vechi este compact și ideal pentru explorarea pe jos.",
+          "Atenție la detaliile sculptate de pe casele cu paiantă.",
+          "Pantofii comozi sunt importanți din cauza pavajului cu piatră cubică.",
+          "Centrul de informare turistică oferă hărți gratuite pentru trasee."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "Look out for the carved details on the half-timbered houses.",
+          "Comfortable shoes are important due to the cobblestones.",
+          "The tourist information office offers free walking tour maps."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Celler Altstadt",
+            "hu": "Cellei óváros",
+            "ro": "Orașul Vechi Celle",
+            "en": "Celle Old Town"
+          },
+          "coords": [
+            10.0835,
+            52.6252
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Frühmorgens sind die Gassen noch leer.",
+            "hu": "Kora reggel még üresek az utcák.",
+            "ro": "Dimineața devreme străzile sunt încă libere.",
+            "en": "The alleys are still empty early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Celle",
+            "hu": "Cellei hercegi kastély",
+            "ro": "Castelul Celle",
+            "en": "Celle Castle"
+          },
+          "coords": [
+            10.0778,
+            52.6241
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Umrunden Sie das Schloss mit dem Rad.",
+            "hu": "Kerülje meg a kastélyt kerékpárral.",
+            "ro": "Ocoliți castelul cu bicicleta.",
+            "en": "Cycle around the castle perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Französischer Garten",
+            "hu": "Francia kert",
+            "ro": "Grădina Franceză",
+            "en": "French Garden"
+          },
+          "coords": [
+            10.0885,
+            52.6225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den Parkwegen.",
+            "hu": "Óvatosan közlekedjen a parki utakon.",
+            "ro": "Circulați cu atenție pe aleile parcului.",
+            "en": "Cycle carefully on the park paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Garnison-Museum",
+            "hu": "Helyőrségi Múzeum",
+            "ro": "Muzeul Garnizoanei",
+            "en": "Garrison Museum"
+          },
+          "coords": [
+            10.0925,
+            52.6265
+          ],
+          "category": "museums",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Interessante Militärgeschichte der Stadt.",
+            "hu": "A város érdekes katonai története.",
+            "ro": "Istoria militară interesantă a orașului.",
+            "en": "Interesting military history of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Wienhausen (Kloster)",
+            "hu": "Wienhauseni kolostor",
+            "ro": "Mănăstirea Wienhausen",
+            "en": "Wienhausen Abbey"
+          },
+          "coords": [
+            10.1855,
+            52.5805
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Wunderschöne Radstrecke entlang der Aller.",
+            "hu": "Gyönyörű kerékpárút az Aller mentén.",
+            "ro": "Traseu superb pentru biciclete de-a lungul râului Aller.",
+            "en": "Beautiful bike route along the Aller river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Celle und Umgebung auf zwei Rädern. Starten Sie in der Altstadt und besuchen Sie das Schloss, bevor Sie durch den Französischen Garten radeln. Ein Highlight ist die Tour entlang der Aller zum nahegelegenen Kloster Wienhausen, einer bedeutenden mittelalterlichen Anlage. Die flache Landschaft der Lüneburger Heide bietet ideale Bedingungen für eine entspannte Radtour durch Natur und Geschichte.",
+        "hu": "Fedezze fel Cellét és környékét két keréken! Kezdjen az óvárosban, nézze meg a kastélyt, majd tekerjen át a Francia kerten. A túra csúcspontja az Aller folyó menti út a közeli Wienhausen-kolostorig, amely egy jelentős középkori együttes. A Lüneburgi puszta sík vidéke ideális feltételeket kínál egy pihentető, természeti és történelmi élményekben gazdag biciklizéshez.",
+        "ro": "Explorați Celle și împrejurimile pe două roți. Începeți în Orașul Vechi și vizitați castelul, apoi pedalați prin Grădina Franceză. Un punct culminant este traseul de-a lungul râului Aller către mănăstirea Wienhausen din apropiere, un sit medieval important. Peisajul plat al Lüneburger Heide oferă condiții ideale pentru o plimbare relaxantă cu bicicleta prin natură și istorie.",
+        "en": "Explore Celle and its surroundings on two wheels. Start in the Old Town and visit the castle before cycling through the French Garden. A highlight is the tour along the Aller river to the nearby Wienhausen Abbey, a significant medieval site. The flat landscape of the Lüneburg Heath provides ideal conditions for a relaxing bike ride through nature and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klostercafé Wienhausen",
+            "tip": "Perfekter Stopp für Kaffee und Kuchen."
+          },
+          {
+            "name": "Thaers Wirtshaus",
+            "tip": "Rustikale Küche in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klostercafé Wienhausen",
+            "tip": "Tökéletes megálló kávéra és süteményre."
+          },
+          {
+            "name": "Thaers Wirtshaus",
+            "tip": "Rusztikus konyha a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klostercafé Wienhausen",
+            "tip": "Oprire perfectă pentru cafea și prăjituri."
+          },
+          {
+            "name": "Thaers Wirtshaus",
+            "tip": "Bucătărie rustică lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klostercafé Wienhausen",
+            "tip": "Perfect stop for coffee and cake."
+          },
+          {
+            "name": "Thaers Wirtshaus",
+            "tip": "Rustic cuisine near the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Allerradweg",
+            "tip": "Natur pur entlang des Flusses.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Klosterpark Wienhausen",
+            "tip": "Spirituelle Ruhe im Grünen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aller kerékpárút",
+            "tip": "Tiszta természet a folyó mentén.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wienhauseni kolostorpark",
+            "tip": "Spirituális nyugalom a zöldben.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pista de biciclete Aller",
+            "tip": "Natură pură de-a lungul râului.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Parcul Mănăstirii Wienhausen",
+            "tip": "Liniște spirituală în natură.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aller Cycle Path",
+            "tip": "Pure nature along the river.",
+            "emoji": "🚲"
+          },
+          {
+            "name": "Wienhausen Abbey Park",
+            "tip": "Spiritual peace in the greenery.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden in Wienhausen",
+            "tip": "Regionale Spezialitäten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wienhauseni gazdaboltok",
+            "tip": "Regionális specialitások közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de fermă din Wienhausen",
+            "tip": "Specialități regionale direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in Wienhausen",
+            "tip": "Regional specialties directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Leihräder gibt es am Bahnhof oder in der Innenstadt.",
+          "Die Strecke nach Wienhausen ist sehr gut ausgeschildert.",
+          "In der Altstadt ist das Radfahren in manchen Fußgängerzonen eingeschränkt.",
+          "Nutzen Sie den Allerradweg für eine kreuzungsfreie Fahrt."
+        ],
+        "hu": [
+          "Bicikli a pályaudvaron vagy a belvárosban bérelhető.",
+          "A Wienhausen felé vezető út kiválóan ki van táblázva.",
+          "Az óváros egyes sétálóutcáiban korlátozhatják a biciklizést.",
+          "Használja az Aller-kerékpárutat a zavartalan haladáshoz."
+        ],
+        "ro": [
+          "Bicicletele pot fi închiriate de la gară sau din centrul orașului.",
+          "Traseul spre Wienhausen este foarte bine semnalizat.",
+          "În orașul vechi, ciclismul este restricționat în unele zone pietonale.",
+          "Folosiți pista Aller pentru o deplasare fără intersecții."
+        ],
+        "en": [
+          "Rental bikes are available at the station or downtown.",
+          "The route to Wienhausen is very well signposted.",
+          "In the Old Town, cycling is restricted in some pedestrian zones.",
+          "Use the Aller cycle path for a crossing-free ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Am Schloss",
+            "hu": "Kastély melletti parkoló",
+            "ro": "Parcare Castel",
+            "en": "Parking At The Castle"
+          },
+          "coords": [
+            10.0765,
+            52.6235
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz, idealer Startpunkt.",
+            "hu": "Központi parkoló, ideális kiindulópont.",
+            "ro": "Parcare centrală, punct de plecare ideal.",
+            "en": "Central parking, ideal starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Celle",
+            "hu": "Cellei hercegi kastély",
+            "ro": "Castelul Celle",
+            "en": "Celle Castle"
+          },
+          "coords": [
+            10.0778,
+            52.6241
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besichtigung der Prunkräume (Cluster A).",
+            "hu": "A dísztermek megtekintése (A-klaszter).",
+            "ro": "Vizitarea sălilor de gală (Cluster A).",
+            "en": "Tour the staterooms (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Bomann-Museum",
+            "hu": "Bomann Múzeum",
+            "ro": "Muzeul Bomann",
+            "en": "Bomann Museum"
+          },
+          "coords": [
+            10.0775,
+            52.6238
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Schloss (Cluster A).",
+            "hu": "Rövid séta a kastélytól (A-klaszter).",
+            "ro": "Scurtă plimbare de la castel (Cluster A).",
+            "en": "Short walk from the castle (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Celler Altstadt",
+            "hu": "Cellei óváros",
+            "ro": "Orașul Vechi Celle",
+            "en": "Celle Old Town"
+          },
+          "coords": [
+            10.0815,
+            52.6245
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mittagspause im historischen Kern (Cluster A).",
+            "hu": "Ebédszünet a történelmi magban (A-klaszter).",
+            "ro": "Pauză de prânz în centrul istoric (Cluster A).",
+            "en": "Lunch break in the historical core (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Französischer Garten",
+            "hu": "Francia kert",
+            "ro": "Grădina Franceză",
+            "en": "French Garden"
+          },
+          "coords": [
+            10.0885,
+            52.6225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang vor der Weiterfahrt (Cluster A).",
+            "hu": "Séta a továbbutazás előtt (A-klaszter).",
+            "ro": "Plimbare înainte de plecare (Cluster A).",
+            "en": "Walk before driving further (Cluster A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Wienhausen",
+            "hu": "Wienhauseni kolostor",
+            "ro": "Mănăstirea Wienhausen",
+            "en": "Wienhausen Abbey"
+          },
+          "coords": [
+            10.1855,
+            52.5805
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahrt zum Cluster B (12 km Fahrt).",
+            "hu": "Utazás a B-klaszterbe (12 km autóút).",
+            "ro": "Deplasare la Cluster B (12 km parcurși).",
+            "en": "Drive to Cluster B (12 km drive)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um sowohl das Stadtzentrum als auch die Umgebung komfortabel zu erleben. Den Vormittag verbringen Sie im 'Cluster A' der Altstadt – Sie parken einmal und erkunden Schloss, Museum und Fachwerkgassen zu Fuß. Nach dem Mittagessen fahren Sie ca. 20 Minuten zum 'Cluster B' nach Wienhausen, um das berühmte Zisterzienserinnenkloster zu besichtigen, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Használja az autót, hogy kényelmesen felfedezhesse a belvárost és a környéket is. A délelőttöt az óvárosi 'A-klaszterben' töltjük: egyszer parkolunk le, majd gyalogosan járjuk be a kastélyt, a múzeumot és a favázas utcákat. Ebéd után kb. 20 perces autózással érjük el a 'B-klasztert' Wienhausenben, ahol megtekintjük a híres ciszterci apácakolostort.",
+        "ro": "Folosiți mașina pentru a experimenta confortabil atât centrul orașului, cât și împrejurimile. Petreceți dimineața în 'Clusterul A' din Orașul Vechi – parcați o singură dată și explorați castelul, muzeul și străzile cu paiantă pe jos. După prânz, conduceți aproximativ 20 de minute către 'Clusterul B' din Wienhausen pentru a vizita faimoasa mănăstire cisterciană.",
+        "en": "Use the car to comfortably experience both the city center and the surroundings. Spend the morning in 'Cluster A' of the Old Town – park once and explore the castle, museum, and half-timbered alleys on foot. After lunch, drive about 20 minutes to 'Cluster B' in Wienhausen to visit the famous Cistercian nunnery before ending the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hofbrauhaus Celle",
+            "tip": "Herzhafte bayerische und norddeutsche Küche."
+          },
+          {
+            "name": "Landhaus Wienhausen",
+            "tip": "Gehobene Küche in idyllischer Lage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hofbrauhaus Celle",
+            "tip": "Kiadós bajor és észak-német konyha."
+          },
+          {
+            "name": "Landhaus Wienhausen",
+            "tip": "Színvonalas konyha idilli helyszínen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hofbrauhaus Celle",
+            "tip": "Bucătărie bavareză și nord-germană consistentă."
+          },
+          {
+            "name": "Landhaus Wienhausen",
+            "tip": "Bucătărie rafinată într-o locație idilică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hofbrauhaus Celle",
+            "tip": "Hearty Bavarian and North German cuisine."
+          },
+          {
+            "name": "Landhaus Wienhausen",
+            "tip": "Fine dining in an idyllic location."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark",
+            "tip": "Große Grünflächen direkt am Wasser.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastélypark",
+            "tip": "Nagy zöldfelületek közvetlenül a víznél.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului",
+            "tip": "Zone verzi mari chiar lângă apă.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "Large green spaces right by the water.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Celler City-Gutschein",
+            "tip": "Einlösbar in vielen Geschäften der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cellei város-utalvány",
+            "tip": "Számos óvárosi üzletben beváltható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Celler City-Gutschein",
+            "tip": "Utilizabil în multe magazine din orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Celle City Voucher",
+            "tip": "Redeemable in many shops in the Old Town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkhaus 'Am Schloss' ist ein idealer Parkplatz für den Tag.",
+          "Die Straßen in der Altstadt sind teils sehr eng, nutzen Sie die Umgehungsstraßen.",
+          "In Wienhausen gibt es ausreichend kostenlose Parkplätze am Kloster.",
+          "Planen Sie etwas Zeit für die Parkplatzsuche am Marktplatz ein."
+        ],
+        "hu": [
+          "Az 'Am Schloss' parkolóház ideális hely az egész napos parkoláshoz.",
+          "Az óvárosi utcák helyenként nagyon szűkek, használja az elkerülő utakat.",
+          "Wienhausenben elegendő ingyenes parkolóhely van a kolostornál.",
+          "Számoljon némi idővel a parkolóhely-keresésre a piactérnél."
+        ],
+        "ro": [
+          "Parcarea etajată 'Am Schloss' este ideală pentru întreaga zi.",
+          "Străzile din orașul vechi sunt uneori foarte înguste, folosiți șoselele de centură.",
+          "În Wienhausen există suficiente locuri de parcare gratuite la mănăstire.",
+          "Alocați timp pentru găsirea unui loc de parcare lângă piață."
+        ],
+        "en": [
+          "The 'Am Schloss' multi-storey car park is an ideal spot for the day.",
+          "The Old Town streets are partly very narrow; use the bypass roads.",
+          "In Wienhausen, there is plenty of free parking at the abbey.",
+          "Allow some time for finding a parking spot near the market square."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schlossplatz (Bus)",
+            "hu": "Kastély tér (busz)",
+            "ro": "Piața Castelului (autobuz)",
+            "en": "Castle Square (Bus)"
+          },
+          "coords": [
+            10.0782,
+            52.6248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt für die Altstadt.",
+            "hu": "Központi buszcsomópont az óvároshoz.",
+            "ro": "Nod central de autobuze pentru orașul vechi.",
+            "en": "Central bus hub for the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Celle",
+            "hu": "Cellei hercegi kastély",
+            "ro": "Castelul Celle",
+            "en": "Celle Castle"
+          },
+          "coords": [
+            10.0778,
+            52.6241
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Direkt am Schlossplatz gelegen (Bezirk A).",
+            "hu": "Közvetlenül a Kastély térnél (A-körzet).",
+            "ro": "Situat direct în Piața Castelului (District A).",
+            "en": "Located directly at Castle Square (District A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            10.0812,
+            52.6248
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "5 Minuten Fußweg durch die Gassen (Bezirk A).",
+            "hu": "5 perc séta az utcákon át (A-körzet).",
+            "ro": "5 minute de mers pe jos prin străduțe (District A).",
+            "en": "5-minute walk through the alleys (District A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtkirche St. Marien",
+            "hu": "Szent Mária városi templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Town Church"
+          },
+          "coords": [
+            10.0805,
+            52.6242
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Herzstück des historischen Kerns (Bezirk A).",
+            "hu": "A történelmi mag szíve (A-körzet).",
+            "ro": "Inima centrului istoric (District A).",
+            "en": "Heart of the historical core (District A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Französischer Garten",
+            "hu": "Francia kert",
+            "ro": "Grădina Franceză",
+            "en": "French Garden"
+          },
+          "coords": [
+            10.0885,
+            52.6225
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang am südlichen Altstadtrand (Bezirk A).",
+            "hu": "Séta az óváros déli szélén (A-körzet).",
+            "ro": "Plimbare la marginea de sud a orașului vechi (District A).",
+            "en": "Walk at the southern edge of the Old Town (District A)."
+          }
+        },
+        {
+          "name": {
+            "de": "Garnison-Museum",
+            "hu": "Helyőrségi Múzeum",
+            "ro": "Muzeul Garnizoanei",
+            "en": "Garrison Museum"
+          },
+          "coords": [
+            10.0925,
+            52.6265
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Kurze Busfahrt zum Bezirk B (Norden).",
+            "hu": "Rövid buszozás a B-körzetbe (észak).",
+            "ro": "Scurtă călătorie cu autobuzul către District B (nord).",
+            "en": "Short bus ride to District B (north)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Busnetzes erreichen Sie alle wichtigen Punkte in Celle problemlos. Startpunkt ist der Schlossplatz, das Tor zum 'Bezirk A'. Hier erkunden Sie das Residenzschloss und den historischen Kern bequem zu Fuß. Nach dem Mittagessen und einem Besuch im Französischen Garten bringt Sie eine kurze Busfahrt zum Garnison-Museum im Norden ('Bezirk B'), bevor Sie entspannt zurückkehren.",
+        "hu": "A jól kiépített buszhálózatnak köszönhetően Celle minden fontos pontja könnyen elérhető. A kiindulópont a Kastély tér, az 'A-körzet' kapuja. Itt gyalogosan fedezhetjük fel a hercegi kastélyt és a történelmi magot. Ebéd és a Francia kert megtekintése után egy rövid buszozással érjük el az északi Helyőrségi Múzeumot ('B-körzet'), majd kényelmesen visszatérünk a belvárosba.",
+        "ro": "Datorită rețelei de autobuze bine dezvoltate, puteți ajunge cu ușurință în toate punctele importante din Celle. Punctul de plecare este Piața Castelului, poarta către 'Districtul A'. Aici explorați castelul rezidențial și centrul istoric pe jos. După prânz și o vizită în Grădina Franceză, o scurtă călătorie cu autobuzul vă duce la Muzeul Garnizoanei din nord ('Districtul B').",
+        "en": "Thanks to the well-developed bus network, you can easily reach all important points in Celle. The starting point is Castle Square, the gateway to 'District A'. Here you can explore the Residential Palace and the historical core on foot. After lunch and a visit to the French Garden, a short bus ride takes you to the Garrison Museum in the north ('District B') before returning."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Celler Bierakademie",
+            "tip": "Uriges Lokal mit großer Bierauswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Celler Bierakademie",
+            "tip": "Hangulatos söröző hatalmas választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Celler Bierakademie",
+            "tip": "Local rustic cu o selecție mare de beri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Celler Bierakademie",
+            "tip": "Quaint pub with a large beer selection."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Marien Innenraum",
+            "tip": "Stille und Einkehr inmitten der Stadt.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mária templombelső",
+            "tip": "Csend és elmélyülés a város közepén.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Bisericii Sf. Maria",
+            "tip": "Liniște și reculegere în mijlocul orașului.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mary's Interior",
+            "tip": "Silence and reflection in the heart of the city.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Karstadt Celle",
+            "tip": "Traditionelles Kaufhaus mit großem Sortiment."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karstadt Celle",
+            "tip": "Hagyományos áruház széles választékkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karstadt Celle",
+            "tip": "Magazin universal tradițional cu sortiment bogat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karstadt Celle",
+            "tip": "Traditional department store with a large range."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lösen Sie eine Tageskarte für den Stadtbus Celle (CeBus).",
+          "Die Busse fahren meist im 15- oder 30-Minuten-Takt.",
+          "Vom Bahnhof in die Altstadt fahren fast alle Linien (ca. 5-10 Min).",
+          "An Sonntagen fahren die Busse seltener, prüfen Sie den Fahrplan."
+        ],
+        "hu": [
+          "Váltson napijegyet a cellei városi buszokra (CeBus).",
+          "A buszok általában 15 vagy 30 percenként járnak.",
+          "A pályaudvarról az óvárosba szinte minden járat bevisz (5-10 perc).",
+          "Vasárnaponként a buszok ritkábban járnak, ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzele locale (CeBus).",
+          "Autobuzele circulă de obicei la intervale de 15 sau 30 de minute.",
+          "De la gară spre centrul vechi circulă aproape toate liniile (5-10 min).",
+          "Duminica autobuzele circulă mai rar, verificați orarul."
+        ],
+        "en": [
+          "Buy a day ticket for the Celle city bus (CeBus).",
+          "Buses usually run every 15 or 30 minutes.",
+          "Almost all lines run from the station to the Old Town (approx. 5-10 mins).",
+          "Buses run less frequently on Sundays; check the schedule."
+        ]
+      }
+    }
+  }
+}

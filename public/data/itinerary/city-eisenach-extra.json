@@ -1,0 +1,904 @@
+{
+  "city_id": "city-eisenach-extra",
+  "anchor": {
+    "name": "Eisenach Marktplatz",
+    "coords": [
+      10.3208,
+      50.9748
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Georgenkirche",
+          "coords": [
+            10.3205,
+            50.9745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Hier wurde Johann Sebastian Bach getauft.",
+            "hu": "Itt keresztelték meg Johann Sebastian Bachot.",
+            "ro": "Aici a fost botezat Johann Sebastian Bach.",
+            "en": "This is where Johann Sebastian Bach was baptized."
+          }
+        },
+        {
+          "name": "Lutherhaus",
+          "coords": [
+            10.3195,
+            50.9728
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der ältesten Fachwerkhäuser Thüringens.",
+            "hu": "Türingia egyik legrégebbi fagerendás háza.",
+            "ro": "Una dintre cele mai vechi case cu structură de lemn din Turingia.",
+            "en": "One of the oldest half-timbered houses in Thuringia."
+          }
+        },
+        {
+          "name": "Bachhaus",
+          "coords": [
+            10.3215,
+            50.9712
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stündliche Live-Vorführungen historischer Tasteninstrumente.",
+            "hu": "Óránkénti élő bemutatók történelmi billentyűs hangszereken.",
+            "ro": "Demonstrații live la fiecare oră cu instrumente istorice cu claviatură.",
+            "en": "Hourly live performances on historical keyboard instruments."
+          }
+        },
+        {
+          "name": "Wartburg",
+          "coords": [
+            10.3062,
+            50.9662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Lutherstube, wo die Bibel übersetzt wurde.",
+            "hu": "Nézze meg a Luther-szobát, ahol a Bibliát fordították.",
+            "ro": "Vizitați camera lui Luther, unde a fost tradusă Biblia.",
+            "en": "Visit the Luther Room where the Bible was translated."
+          }
+        },
+        {
+          "name": "Stadtschloss",
+          "coords": [
+            10.3212,
+            50.9752
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Marktplatz zum Abschluss.",
+            "hu": "Élvezze a kilátást a piactérre a nap végén.",
+            "ro": "Bucurați-vă de priveliștea spre piață la finalul zilei.",
+            "en": "Enjoy the view of the market square at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum bei der Georgenkirche und dem Lutherhaus. Nach dem Eintauchen in die Reformationsgeschichte spazieren Sie zum Bachhaus für ein musikalisches Erlebnis. Der Nachmittag gehört dem Aufstieg zur majestätischen Wartburg, dem UNESCO-Weltkulturerbe. Den Tag lassen Sie entspannt am Stadtschloss ausklingen, direkt am belebten Marktplatz.",
+        "hu": "A nap az óvárosban indul a Georgenkirche és a Luther-ház érintésével. A reformáció nyomai után a Bach-ház zenei élménye várja. A délután csúcspontja a Wartburg várának megmászása, amely az UNESCO Világörökség része. A napot a városi kastélynál fejezzük be, közvetlenül a nyüzsgő piactér mellett, ahol megpihenhet egy türingiai kolbász mellett.",
+        "ro": "Ziua începe în centrul istoric la Biserica Sf. Gheorghe și Casa lui Luther. După ce aprofundați istoria Reformei, mergeți la Casa lui Bach pentru o experiență muzicală. După-amiaza este dedicată urcării la maiestuosul Castel Wartburg, sit UNESCO. Încheiați ziua relaxat la Castelul Orașului, situat chiar lângă piața centrală plină de viață.",
+        "en": "Your day starts in the historic center at St. George's Church and the Luther House. After diving into Reformation history, walk to the Bach House for a musical experience. The afternoon highlight is the climb to the majestic Wartburg Castle, a UNESCO World Heritage site. End the day relaxed at the City Palace, right by the bustling market square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thüringer Bratwurst am Markt",
+            "tip": "Das Original direkt vom Holzkohlegrill genießen."
+          },
+          {
+            "name": "Gasthaus zum Hellgrafen",
+            "tip": "Probieren Sie die hausgemachten Thüringer Klöße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Türingiai kolbász a piacon",
+            "tip": "Élvezze az eredeti sült kolbászt faszénparázsról."
+          },
+          {
+            "name": "Gasthaus zum Hellgrafen",
+            "tip": "Kóstolja meg a házias türingiai gombócot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați de Turingia la piață",
+            "tip": "Savurați originalul direct de pe grătarul cu cărbuni."
+          },
+          {
+            "name": "Gasthaus zum Hellgrafen",
+            "tip": "Încercați găluștele tradiționale de Turingia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thuringian Bratwurst at the Market",
+            "tip": "Enjoy the original directly from the charcoal grill."
+          },
+          {
+            "name": "Gasthaus zum Hellgrafen",
+            "tip": "Try the homemade Thuringian dumplings (Klöße)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Metilstein",
+            "tip": "Ruhiger Aussichtspunkt mit Blick auf die Wartburg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metilstein",
+            "tip": "Csendes kilátópont rálátással a Wartburg várára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Metilstein",
+            "tip": "Punct de observație liniștit cu vedere spre Wartburg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Metilstein",
+            "tip": "Quiet viewpoint with a look at Wartburg Castle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Luther-Souvenirs",
+            "tip": "Kleine Tintenfässer oder Luther-Figuren im Lutherhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luther-szuvenírek",
+            "tip": "Kis tintatartók vagy Luther-figurák a Luther-házban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Luther",
+            "tip": "Călimări mici sau figurine Luther la Casa lui Luther."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luther Souvenirs",
+            "tip": "Small inkwells or Luther figures in the Luther House."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für den Aufstieg zur Wartburg.",
+          "Die Bachhaus-Vorführungen starten immer zur vollen Stunde.",
+          "Nutzen Sie die 'Eisenach-Card' für Rabatte in Museen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Wartburgba vezető emelkedőhöz.",
+          "A Bach-ház bemutatói minden egész órakor kezdődnek.",
+          "Használja az 'Eisenach-Card'-ot múzeumi kedvezményekhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru urcarea la Wartburg.",
+          "Demonstrațiile de la Casa lui Bach încep la fix în fiecare oră.",
+          "Folosiți 'Eisenach-Card' pentru reduceri la muzee."
+        ],
+        "en": [
+          "Wear sturdy shoes for the walk up to Wartburg Castle.",
+          "Bach House demonstrations always start on the hour.",
+          "Use the 'Eisenach-Card' for discounts in museums."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Automobile Welt Eisenach",
+          "coords": [
+            10.3235,
+            50.9842
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Heimat des Wartburg-Autos und alter BMW-Modelle.",
+            "hu": "A Wartburg autók és régi BMW modellek otthona.",
+            "ro": "Locul unde s-au născut mașinile Wartburg și modele vechi BMW.",
+            "en": "Home of the Wartburg car and old BMW models."
+          }
+        },
+        {
+          "name": "Georgenkirche",
+          "coords": [
+            10.3205,
+            50.9745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Am Markt' für den Stadtkern.",
+            "hu": "Parkoljon az 'Am Markt' parkolóházban a belvároshoz.",
+            "ro": "Parcați în parcarea 'Am Markt' pentru centrul vechi.",
+            "en": "Park in the 'Am Markt' garage for the city center."
+          }
+        },
+        {
+          "name": "Bachhaus",
+          "coords": [
+            10.3215,
+            50.9712
+          ],
+          "category": "museums",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans klassischer Barockmusik.",
+            "hu": "Klasszikus barokk zenerajongóknak kötelező.",
+            "ro": "Un must pentru fanii muzicii baroce clasice.",
+            "en": "A must for fans of classical Baroque music."
+          }
+        },
+        {
+          "name": "Wartburg",
+          "coords": [
+            10.3062,
+            50.9662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie auf halber Höhe und nutzen Sie den Shuttle.",
+            "hu": "Parkoljon félúton és használja a várshuttle-t.",
+            "ro": "Parcați la jumătatea drumului și folosiți microbuzul.",
+            "en": "Park halfway up and use the castle shuttle."
+          }
+        },
+        {
+          "name": "Drachenschlucht",
+          "coords": [
+            10.3045,
+            50.9482
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Engste Stelle nur 68 cm breit - ein Naturwunder.",
+            "hu": "A legszűkebb pont csak 68 cm széles - természeti csoda.",
+            "ro": "Cel mai îngust punct are doar 68 cm lățime.",
+            "en": "Narrowest point is only 68 cm wide - a natural wonder."
+          }
+        },
+        {
+          "name": "Burschenschaftsdenkmal",
+          "coords": [
+            10.3275,
+            50.9642
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Wartburg bei Sonnenuntergang.",
+            "hu": "A legjobb panoráma a várra naplementekor.",
+            "ro": "Cea mai bună panoramă asupra castelului la apus.",
+            "en": "Best panoramic view of the castle at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet Technikgeschichte im Norden mit Natur im Süden. Vormittags besuchen Sie das Automobilmuseum und den historischen Stadtkern. Nach der Mittagspause fahren Sie hinauf zur Wartburg. Den späten Nachmittag verbringen Sie in der mystischen Drachenschlucht und beenden die Tour am Burschenschaftsdenkmal mit einem Blick über die Stadt.",
+        "hu": "Ez az autós túra összeköti az északi technikai történelmet a déli természettel. Délelőtt az autógyártás múzeuma és a belváros várja. Ebéd után felhajtunk a Wartburghoz. A késő délutánt a misztikus Sárkány-szurdokban (Drachenschlucht) töltjük, majd a túrát a Burschenschaftsdenkmalnál zárjuk a város feletti kilátással.",
+        "ro": "Acest tur auto îmbină istoria tehnologiei din nord cu natura din sud. Dimineața vizitați muzeul automobilului și centrul istoric. După prânz, conduceți până la Castelul Wartburg. Petreceți după-amiaza târzie în mistica Cheile Dragonului și încheiați turul la Monumentul Burschenschaft cu o vedere panoramică.",
+        "en": "This car tour combines technical history in the north with nature in the south. In the morning, visit the automobile museum and the historic center. After lunch, drive up to Wartburg Castle. Spend the late afternoon in the mystical Dragon's Gorge and end the tour at the Burschenschaft Monument with a view over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wartburg-Terrasse",
+            "tip": "Kaffee und Kuchen mit fürstlichem Ausblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wartburg-Terrasse",
+            "tip": "Kávé és sütemény fejedelmi kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Wartburg",
+            "tip": "Cafea și prăjituri cu o priveliște princiară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wartburg Terrace",
+            "tip": "Coffee and cake with a princely view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Drachenschlucht",
+            "tip": "Wandern zwischen bemoosten Felsen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drachenschlucht",
+            "tip": "Túrázás a mohás sziklák között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drachenschlucht",
+            "tip": "Drumeție printre stânci acoperite de mușchi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dragon's Gorge",
+            "tip": "Hiking between moss-covered rocks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Automobile Welt",
+            "tip": "Modellautos und DDR-Nostalgie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Automobile Welt bolt",
+            "tip": "Modellautók és NDK nosztalgia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Automobile Welt",
+            "tip": "Modele de mașini și nostalgie DDR."
+          }
+        ],
+        "en": [
+          {
+            "name": "Automobile World Shop",
+            "tip": "Model cars and GDR nostalgia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Drachenschlucht ist bei Regen rutschig.",
+          "Parkplätze an der Wartburg sind begrenzt, kommen Sie früh.",
+          "In der Stadt gibt es Umweltzonen."
+        ],
+        "hu": [
+          "A Sárkány-szurdok esőben csúszós.",
+          "A várnál a parkolóhelyek száma korlátozott, érkezzen korán.",
+          "A városban környezetvédelmi zónák vannak."
+        ],
+        "ro": [
+          "Cheile Dragonului sunt alunecoase pe ploaie.",
+          "Locurile de parcare la Wartburg sunt limitate, veniți devreme.",
+          "În oraș există zone cu emisii reduse."
+        ],
+        "en": [
+          "Dragon's Gorge is slippery when it rains.",
+          "Parking at Wartburg is limited, arrive early.",
+          "There are environmental zones in the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marktplatz",
+          "coords": [
+            10.3208,
+            50.9748
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Thüringer Wald-Etappe.",
+            "hu": "A türingiai erdei szakasz kezdőpontja.",
+            "ro": "Punct de plecare pentru etapa Pădurea Turingiei.",
+            "en": "Starting point for the Thuringian Forest stage."
+          }
+        },
+        {
+          "name": "Bachhaus",
+          "coords": [
+            10.3215,
+            50.9712
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Museum.",
+            "hu": "Kerékpártárolók közvetlenül a múzeum előtt.",
+            "ro": "Suporturi de biciclete direct în fața muzeului.",
+            "en": "Bicycle racks directly in front of the museum."
+          }
+        },
+        {
+          "name": "Burschenschaftsdenkmal",
+          "coords": [
+            10.3275,
+            50.9642
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg, belohnt mit toller Fernsicht.",
+            "hu": "Kihívást jelentő emelkedő, remek kilátással jutalmazva.",
+            "ro": "Urcare solicitantă, răsplătită cu o priveliște superbă.",
+            "en": "Challenging climb rewarded with great distant views."
+          }
+        },
+        {
+          "name": "Drachenschlucht",
+          "coords": [
+            10.3045,
+            50.9482
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrräder am Eingang abstellen, Schlucht ist nur zu Fuß begehbar.",
+            "hu": "Hagyja a biciklit a bejáratnál, a szurdok csak gyalog járható.",
+            "ro": "Lăsați bicicletele la intrare, cheile pot fi parcurse doar pe jos.",
+            "en": "Leave bikes at the entrance, the gorge is pedestrian only."
+          }
+        },
+        {
+          "name": "Wartburg",
+          "coords": [
+            10.3062,
+            50.9662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Waldwege nutzen für eine schöne Abfahrt zurück zur Stadt.",
+            "hu": "Használja az erdei utakat a szép lejtőhöz a város felé.",
+            "ro": "Folosiți potecile de pădure pentru o coborâre frumoasă spre oraș.",
+            "en": "Use forest paths for a nice descent back to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese sportliche Tour führt Sie durch die hügelige Landschaft rund um Eisenach. Nach dem kulturellen Start im Bachhaus erklimmen Sie das Burschenschaftsdenkmal. Entlang des Thüringer Waldes erreichen Sie die Drachenschlucht, bevor es steil hinauf zur Wartburg geht. Genießen Sie die rasanten Abfahrten zurück ins Tal.",
+        "hu": "Ez a sportos túra Eisenach dombos tájain vezet keresztül. A Bach-ház utáni kulturális indítást követően feltekerünk a Burschenschaftsdenkmalhoz. A Türingiai-erdő mentén érjük el a Sárkány-szurdokot, majd jön a meredek emelkedő a Wartburghoz. Élvezze a gyors lejtőket vissza a völgybe.",
+        "ro": "Acest tur sportiv vă poartă prin peisajul deluros din jurul orașului Eisenach. După un început cultural la Casa lui Bach, urcați la Monumentul Burschenschaft. De-a lungul Pădurii Turingiei ajungeți la Cheile Dragonului, înainte de urcarea abruptă spre Wartburg. Bucurați-vă de coborârile rapide înapoi în vale.",
+        "en": "This sporty tour takes you through the hilly landscape around Eisenach. After a cultural start at the Bach House, climb to the Burschenschaft Monument. Along the Thuringian Forest, reach Dragon's Gorge before a steep climb to Wartburg Castle. Enjoy the rapid descents back into the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hohe Sonne",
+            "tip": "Ideale Raststation am Rennsteig für Biker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hohe Sonne",
+            "tip": "Ideális pihenőhely a Rennsteig úton kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hohe Sonne",
+            "tip": "Popas ideal pe traseul Rennsteig pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hohe Sonne",
+            "tip": "Ideal rest stop on the Rennsteig trail for bikers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mariental",
+            "tip": "Grünes Tal unterhalb der Wartburg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mariental",
+            "tip": "Zöld völgy a Wartburg vára alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mariental",
+            "tip": "Valea verde de sub Castelul Wartburg.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mariental",
+            "tip": "Green valley below Wartburg Castle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Eisenach",
+            "tip": "Regionale Radkarten und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eisenachi kerékpárbolt",
+            "tip": "Regionális kerékpáros térképek és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete Eisenach",
+            "tip": "Hărți cicloturistice regionale și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eisenach Bike Shop",
+            "tip": "Regional cycling maps and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Wartburg.",
+          "Ein E-Bike ist für die Steigungen sehr empfehlenswert.",
+          "Nehmen Sie ausreichend Wasser für die Waldstrecken mit."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a várból való leereszkedés előtt.",
+          "Az emelkedők miatt az elektromos kerékpár erősen ajánlott.",
+          "Vigyen elegendő vizet az erdei szakaszokra."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de la Wartburg.",
+          "O bicicletă electrică este foarte recomandată pentru pante.",
+          "Luați suficientă apă pentru traseele prin pădure."
+        ],
+        "en": [
+          "Check your brakes before the descent from Wartburg.",
+          "An e-bike is highly recommended for the climbs.",
+          "Take plenty of water for the forest sections."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hauptbahnhof",
+          "coords": [
+            10.3275,
+            50.9785
+          ],
+          "category": "transport",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Buslinie 10 (Wartburg-Linie).",
+            "hu": "A 10-es busz (Wartburg-vonal) indulópontja.",
+            "ro": "Punct de plecare pentru linia 10 (linia Wartburg).",
+            "en": "Starting point for Bus Line 10 (Wartburg Line)."
+          }
+        },
+        {
+          "name": "Automobile Welt",
+          "coords": [
+            10.3235,
+            50.9842
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt vom Bahnhof nach Norden.",
+            "hu": "Rövid buszozás az állomástól északra.",
+            "ro": "O scurtă călătorie cu autobuzul de la gară spre nord.",
+            "en": "Short bus ride north from the station."
+          }
+        },
+        {
+          "name": "Marktplatz",
+          "coords": [
+            10.3208,
+            50.9748
+          ],
+          "category": "square",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Stadtlinien.",
+            "hu": "Központi csomópont minden városi járathoz.",
+            "ro": "Nod central pentru toate liniile urbane.",
+            "en": "Central hub for all city bus lines."
+          }
+        },
+        {
+          "name": "Georgenkirche",
+          "coords": [
+            10.3205,
+            50.9745
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt am Marktplatz gelegen.",
+            "hu": "Közvetlenül a piactéren található.",
+            "ro": "Situată chiar în piața centrală.",
+            "en": "Located directly on the market square."
+          }
+        },
+        {
+          "name": "Wartburg",
+          "coords": [
+            10.3062,
+            50.9662
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linie 10 bringt Sie fast bis vor das Burgtor.",
+            "hu": "A 10-es járat majdnem a várkapuig viszi.",
+            "ro": "Linia 10 vă duce aproape până la poarta castelului.",
+            "en": "Line 10 takes you almost to the castle gate."
+          }
+        },
+        {
+          "name": "Bachhaus",
+          "coords": [
+            10.3215,
+            50.9712
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Bus zur Frauenplan-Haltestelle.",
+            "hu": "Visszautazás busszal a Frauenplan megállóhoz.",
+            "ro": "Întoarcere cu autobuzul la stația Frauenplan.",
+            "en": "Return by bus to the Frauenplan stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Eisenach, besonders die Wartburg-Linie 10. Starten Sie im Automobilmuseum und erkunden Sie dann den Marktplatz. Der Bus bringt Sie bequem zur Wartburg hinauf, was Ihnen den steilen Aufstieg erspart. Beenden Sie den Tag im Bachviertel, bevor Sie zum Bahnhof zurückkehren.",
+        "hu": "Használja Eisenach hatékony buszhálózatát, különösen a 10-es Wartburg-járatot. Kezdjen az autómúzeumban, majd fedezze fel a piacteret. A busz kényelmesen felviszi a várhoz, megspórolva a meredek gyaloglást. A napot a Bach-negyedben zárjuk, mielőtt visszatérnénk a pályaudvarra.",
+        "ro": "Folosiți sistemul eficient de autobuze din Eisenach, în special linia 10 spre Wartburg. Începeți la muzeul automobilului și apoi explorați piața centrală. Autobuzul vă duce confortabil până la castel, scutindu-vă de urcarea abruptă. Încheiați ziua în cartierul Bach înainte de a reveni la gară.",
+        "en": "Use Eisenach's efficient bus system, especially the Wartburg Line 10. Start at the automobile museum and then explore the market square. The bus takes you comfortably up to the castle, saving you the steep climb. End the day in the Bach quarter before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café Kantate",
+            "tip": "Gemütliches Café direkt beim Bachhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café Kantate",
+            "tip": "Hangulatos kávézó közvetlenül a Bach-háznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café Kantate",
+            "tip": "O cafenea primitoare chiar lângă Casa lui Bach."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café Kantate",
+            "tip": "Cozy café directly by the Bach House."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kartausgarten",
+            "tip": "Schöner Park unweit der Bachhaus-Haltestelle.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kartausgarten",
+            "tip": "Szép park nem messze a Bach-ház buszmegállótól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kartausgarten",
+            "tip": "Parc frumos nu departe de stația Casa lui Bach.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kartausgarten",
+            "tip": "Beautiful park near the Bach House stop.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wartburg-Laden",
+            "tip": "Hochwertiges Kunsthandwerk in der Vorburg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wartburg-bolt",
+            "tip": "Minőségi kézműves termékek a várudvarban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Wartburg",
+            "tip": "Artizanat de înaltă calitate în curtea castelului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wartburg Shop",
+            "tip": "High-quality handicrafts in the outer castle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 10 fährt im 30-Minuten-Takt.",
+          "Kaufen Sie ein Tagesticket für die Zone Eisenach.",
+          "Die Fahrpläne hängen an jeder größeren Haltestelle aus."
+        ],
+        "hu": [
+          "A 10-es busz 30 percenként közlekedik.",
+          "Vásároljon napijegyet az eisenachi zónára.",
+          "A menetrendek minden nagyobb megállóban ki vannak függesztve."
+        ],
+        "ro": [
+          "Linia 10 de autobuz circulă la fiecare 30 de minute.",
+          "Cumpărați un bilet de o zi pentru zona Eisenach.",
+          "Orarele sunt afișate în fiecare stație importantă."
+        ],
+        "en": [
+          "Bus line 10 runs every 30 minutes.",
+          "Buy a day ticket for the Eisenach zone.",
+          "Timetables are posted at every major stop."
+        ]
+      }
+    }
+  }
+}

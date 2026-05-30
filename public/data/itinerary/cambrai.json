@@ -1,0 +1,1100 @@
+{
+  "city_id": "cambrai",
+  "anchor": {
+    "name": "Cambrai Centre",
+    "coords": [
+      3.235,
+      50.175
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Aristide Briand",
+          "coords": [
+            3.235,
+            50.174
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus mit seinen Jaquemarts-Figuren.",
+            "hu": "Nézze meg a városházát a híres Jaquemarts figurákkal.",
+            "ro": "Admirați primăria cu celebrele sale figurine Jaquemarts.",
+            "en": "Admire the town hall with its famous Jaquemarts figures."
+          }
+        },
+        {
+          "name": "Beffroi de Cambrai",
+          "coords": [
+            3.235,
+            50.176
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe, einst ein Kirchturm.",
+            "hu": "UNESCO világörökség, egykor templomtorony volt.",
+            "ro": "Patrimoniu UNESCO, fost turn de biserică.",
+            "en": "UNESCO World Heritage site, formerly a church tower."
+          }
+        },
+        {
+          "name": "Musée de Cambrai",
+          "coords": [
+            3.231,
+            50.174
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "In einem prächtigen Stadtpalais aus elisabethanischer Zeit.",
+            "hu": "Egy pompás, Erzsébet-kori városi palotában található.",
+            "ro": "Situat într-un palat urban magnific din epoca elisabetană.",
+            "en": "Housed in a magnificent Elizabethan-era town mansion."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame-de-Grâce",
+          "coords": [
+            3.232,
+            50.172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Heimat der Ikone Unserer Lieben Frau von der Gnade.",
+            "hu": "Itt található az Irgalmas Miasszonyunk ikonja.",
+            "ro": "Găzduiește icoana Maicii Domnului a Harului.",
+            "en": "Home to the icon of Our Lady of Grace."
+          }
+        },
+        {
+          "name": "Porte de Paris",
+          "coords": [
+            3.233,
+            50.169
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein majestätisches Stadttor aus dem 14. Jahrhundert.",
+            "hu": "Egy fenséges városkapu a 14. századból.",
+            "ro": "O poartă monumentală a orașului din secolul al XIV-lea.",
+            "en": "A majestic city gate dating back to the 14th century."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            3.245,
+            50.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Drei Gärten in einem: englisch, französisch und botanisch.",
+            "hu": "Három kert egyben: angol, francia és botanikus.",
+            "ro": "Trei grădini într-una: engleză, franceză și botanică.",
+            "en": "Three gardens in one: English, French, and Botanical."
+          }
+        },
+        {
+          "name": "Église Saint-Géry",
+          "coords": [
+            3.238,
+            50.178
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie Rubens' Gemälde 'Die Grablegung Christi'.",
+            "hu": "Nézze meg Rubens 'Krisztus sírbatétele' című festményét.",
+            "ro": "Vedeți pictura lui Rubens 'Punerea în mormânt a lui Hristos'.",
+            "en": "See Rubens' painting 'The Entombment of Christ'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Cambrai am Place Aristide Briand, wo das Rathaus den Ton angibt. Ein kurzer Spaziergang führt Sie zum UNESCO-geschützten Beffroi, einem Symbol der städtischen Freiheit. Der Vormittag steht im Zeichen der Kultur im Musée de Cambrai, das in einem prachtvollen Herrenhaus untergebracht ist.\n\nMittags erkunden Sie die religiöse Pracht der Kathedrale Notre-Dame, bevor Sie zum beeindruckenden Stadttor Porte de Paris spazieren. Den Nachmittag verbringen Sie entspannt im Jardin Public, einer Oase der Ruhe mit verschiedenen Gartenstilen. Den Abschluss bildet die Kirche Saint-Géry, die ein echtes Meisterwerk von Rubens beherbergt. Ein perfekter Tag voller Geschichte und flämischem Flair.",
+        "hu": "Kezdje a napot Cambrai történelmi szívében, a Place Aristide Briand téren, ahol a városháza lenyűgöző homlokzata fogadja. Rövid séta után elérheti az UNESCO listás Beffroi-t, a városi szabadság jelképét. A délelőttöt töltse a Musée de Cambrai falai között, amely egy pazar városi palotában kapott helyet.\n\nA délután folyamán fedezze fel a Notre-Dame katedrális vallási kincseit, majd sétáljon el a monumentális Porte de Paris városkapuhoz. Pihenjen meg a Jardin Public változatos kertjeiben, ahol angol és francia stílusú részeket is talál. A napot a Saint-Géry templomban zárja, ahol megcsodálhatja Rubens egyik mesterművét. Cambrai történelme és művészete minden lépésnél elkápráztatja.",
+        "ro": "Începeți ziua în inima istorică a orașului Cambrai, în Place Aristide Briand, unde primăria dă tonul atmosferei. O scurtă plimbare vă duce la Beffroi, inclus în patrimoniul UNESCO, simbol al libertății civice. Dimineața este dedicată culturii la Musée de Cambrai, găzduit într-un conac somptuos.\n\nDupă-amiaza, explorați splendoarea religioasă a Catedralei Notre-Dame înainte de a vă îndrepta spre impresionanta Porte de Paris. Relaxați-vă în Jardin Public, o oază de liniște cu stiluri peisagistice variate. Încheiați ziua la Biserica Saint-Géry, care adăpostește o capodoperă autentică de Rubens. O zi perfectă care îmbină istoria locală cu arta flamandă.",
+        "en": "Start your day in the historic heart of Cambrai at Place Aristide Briand, where the grand town hall sets the scene. A short walk leads you to the UNESCO-listed Beffroi, a symbol of civic pride. Spend your morning immersed in art at the Musée de Cambrai, located in a stunning town mansion.\n\nIn the afternoon, explore the religious heritage of Notre-Dame Cathedral before walking to the monumental Porte de Paris city gate. Take a relaxing break in the Jardin Public, a peaceful haven featuring diverse garden styles. End your visit at Saint-Géry Church, home to a genuine masterpiece by Rubens. A perfect day blending regional history with Flemish artistic brilliance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Probieren Sie die berühmten Minzbonbons bei Afchain oder Despinoy."
+          },
+          {
+            "name": "Andouillette de Cambrai",
+            "tip": "Eine lokale Wurstspezialität, oft mit Senfsauce serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Kóstolja meg a híres mentás cukorkát az Afchain vagy Despinoy üzletekben."
+          },
+          {
+            "name": "Andouillette de Cambrai",
+            "tip": "Helyi kolbászkülönlegesség, gyakran mustármártással tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Gustați celebrele bomboane mentolate la Afchain sau Despinoy."
+          },
+          {
+            "name": "Andouillette de Cambrai",
+            "tip": "O specialitate locală de cârnați, servită adesea cu sos de muștar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Try the famous mint candies at Afchain or Despinoy shops."
+          },
+          {
+            "name": "Andouillette de Cambrai",
+            "tip": "A local sausage specialty, often served with mustard sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Public",
+            "tip": "Perfekt für ein Picknick im englischen Teil des Gartens.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Grotten der Kathedrale",
+            "tip": "Ein stiller Ort für Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Public",
+            "tip": "Tökéletes helyszín egy piknikhez a kert angol stílusú részén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "A katedrális kriptája",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Public",
+            "tip": "Perfect pentru un picnic în partea englezească a grădinii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cripta Catedralei",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Public",
+            "tip": "Perfect for a picnic in the English-style section of the garden.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Cathedral Crypt",
+            "tip": "A quiet place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Lokale Produkte und Käse in der Markthalle."
+          },
+          {
+            "name": "Maison Afchain",
+            "tip": "Holen Sie sich authentische Bêtises-Bonbons als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Helyi termékek és sajtok a fedett piacon."
+          },
+          {
+            "name": "Maison Afchain",
+            "tip": "Vásároljon eredeti Bêtises cukorkát szuvenírként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Produse locale și brânzeturi în piața acoperită."
+          },
+          {
+            "name": "Maison Afchain",
+            "tip": "Cumpărați bomboane Bêtises autentice ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Local products and cheeses at the covered market."
+          },
+          {
+            "name": "Maison Afchain",
+            "tip": "Pick up authentic Bêtises candies as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist sehr kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Achten Sie auf die Jaquemarts am Rathaus, die jede Viertelstunde schlagen.",
+          "Viele Museen sind montags und dienstags geschlossen.",
+          "Probieren Sie unbedingt die Bêtises-Bonbons, eine Legende von Cambrai."
+        ],
+        "hu": [
+          "A városközpont kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyelje a városháza Jaquemarts figuráit, amelyek negyedóránként ütnek.",
+          "Sok múzeum hétfőn és kedden zárva tart.",
+          "Mindenképpen kóstolja meg a Bêtises cukorkát, Cambrai legendáját."
+        ],
+        "ro": [
+          "Centrul orașului este compact și poate fi explorat excelent pe jos.",
+          "Fiți atenți la figurinele Jaquemarts de la primărie, care bat la fiecare sfert de oră.",
+          "Multe muzee sunt închise lunea și marțea.",
+          "Nu ratați bomboanele Bêtises, o legendă a orașului Cambrai."
+        ],
+        "en": [
+          "The city center is very compact and best explored on foot.",
+          "Watch for the Jaquemarts on the town hall; they strike every quarter hour.",
+          "Many museums are closed on Mondays and Tuesdays.",
+          "Don't miss the Bêtises candies, a true legend of Cambrai."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place Aristide Briand",
+          "coords": [
+            3.235,
+            50.174
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit viel Platz zum Vorbereiten.",
+            "hu": "Kiindulópont, ahol van hely a felkészülésre.",
+            "ro": "Punct de plecare cu mult spațiu pentru pregătire.",
+            "en": "Starting point with plenty of space to get ready."
+          }
+        },
+        {
+          "name": "Beffroi de Cambrai",
+          "coords": [
+            3.235,
+            50.176
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "UNESCO-Turm, weithin sichtbar.",
+            "hu": "UNESCO torony, messziről látható.",
+            "ro": "Turn UNESCO, vizibil de la distanță.",
+            "en": "UNESCO tower, visible from afar."
+          }
+        },
+        {
+          "name": "Château de Selles",
+          "coords": [
+            3.228,
+            50.18
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine ehemalige Festung mit beeindruckenden Mauern.",
+            "hu": "Egykori erődítmény lenyűgöző falakkal.",
+            "ro": "O fostă fortăreață cu ziduri impresionante.",
+            "en": "A former fortress with impressive walls."
+          }
+        },
+        {
+          "name": "Église Saint-Géry",
+          "coords": [
+            3.238,
+            50.178
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ruhige Seitenstraße, gut mit dem Rad erreichbar.",
+            "hu": "Csendes mellékutca, biciklivel jól megközelíthető.",
+            "ro": "Stradă laterală liniștită, accesibilă cu bicicleta.",
+            "en": "Quiet side street, easily accessible by bike."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            3.245,
+            50.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie gemütlich durch die Alleen des Parks.",
+            "hu": "Tekerjen kényelmesen a park fasorai között.",
+            "ro": "Plimbați-vă agale pe aleile parcului.",
+            "en": "Cycle leisurely through the park's avenues."
+          }
+        },
+        {
+          "name": "Porte de Paris",
+          "coords": [
+            3.233,
+            50.169
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fotostopp an diesem historischen Grenztor.",
+            "hu": "Fotómegálló ennél a történelmi határkapunál.",
+            "ro": "Oprire pentru poze la această poartă istorică.",
+            "en": "Photo stop at this historic boundary gate."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame-de-Grâce",
+          "coords": [
+            3.232,
+            50.172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer in der Nähe des Eingangs vorhanden.",
+            "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+            "ro": "Rafturi pentru biciclete disponibile lângă intrare.",
+            "en": "Bike racks available near the entrance."
+          }
+        },
+        {
+          "name": "Musée de Cambrai",
+          "coords": [
+            3.231,
+            50.174
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Tour mit Kunst und Geschichte.",
+            "hu": "A túra szép lezárása művészettel és történelemmel.",
+            "ro": "Un final frumos de tur cu artă și istorie.",
+            "en": "A beautiful conclusion to the tour with art and history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Cambrai auf zwei Rädern! Starten Sie am zentralen Platz und radeln Sie zum Beffroi. Die Tour führt Sie weiter nach Norden zum Château de Selles und zur Kirche Saint-Géry. Genießen Sie die Fahrt durch den weitläufigen Jardin Public, der ideal für Radfahrer ist. Über die Porte de Paris kehren Sie in das Stadtzentrum zurück, besuchen die Kathedrale und beenden den Tag im Kunstmuseum. Das Fahrrad ermöglicht es Ihnen, auch die etwas weiter entfernten Festungsüberreste mühelos zu erreichen.",
+        "hu": "Fedezze fel Cambrait két keréken! Kezdjen a központi téren, majd tekerjen a Beffroi-hoz. A túra észak felé, a Château de Selles-hez és a Saint-Géry templomhoz folytatódik. Élvezze a kerekezést a hatalmas Jardin Public-ban, amely ideális a bringásoknak. A Porte de Paris érintésével térjen vissza a belvárosba, látogassa meg a katedrálist, és zárja a napot a művészeti múzeumban. A kerékpárral könnyedén elérheti a távolabb eső erődmaradványokat is.",
+        "ro": "Explorați Cambrai pe două roți! Începeți în piața centrală și pedalați spre Beffroi. Turul vă duce spre nord la Château de Selles și la Biserica Saint-Géry. Bucurați-vă de plimbarea prin vastul Jardin Public, ideal pentru bicicliști. Prin Porte de Paris reveniți în centrul orașului, vizitați catedrala și încheiați ziua la muzeul de artă. Bicicleta vă permite să ajungeți fără efort chiar și la vestigiile fortificațiilor mai îndepărtate.",
+        "en": "Explore Cambrai on two wheels! Start at the central square and cycle to the Beffroi. The tour continues north to Château de Selles and Saint-Géry Church. Enjoy the ride through the expansive Jardin Public, which is perfect for cyclists. Return to the city center via Porte de Paris, visit the cathedral, and finish the day at the art museum. The bike allows you to effortlessly reach even the more distant fortification remains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Perfekter Zuckerschub für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Tökéletes cukorlöket útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Energia perfectă de zahăr pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Perfect sugar boost for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kanal von St. Quentin",
+            "tip": "Radeln Sie ein Stück am Ufer entlang für totale Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "St. Quentin csatorna",
+            "tip": "Tekerjen egy kicsit a part mentén a teljes nyugalomért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul St. Quentin",
+            "tip": "Pedalați puțin de-a lungul malului pentru liniște deplină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Quentin Canal",
+            "tip": "Cycle a bit along the bank for total peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison Despinoy",
+            "tip": "Traditionelle Süßwaren seit 1800."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison Despinoy",
+            "tip": "Hagyományos édességek 1800 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison Despinoy",
+            "tip": "Dulciuri tradiționale din 1800."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison Despinoy",
+            "tip": "Traditional sweets since 1800."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cambrai ist größtenteils flach, ideal zum Radfahren.",
+          "Nutzen Sie die Fahrradwege im Jardin Public.",
+          "Achten Sie auf Kopfsteinpflaster in einigen Gassen der Altstadt.",
+          "Schließen Sie Ihr Rad an den Sehenswürdigkeiten immer gut ab."
+        ],
+        "hu": [
+          "Cambrai nagyrészt sík, ideális a kerékpározáshoz.",
+          "Használja a Jardin Public kerékpárútjait.",
+          "Ügyeljen a macskaköves utakra az óváros néhány utcájában.",
+          "Mindig jól zárja le a kerékpárját a látnivalóknál."
+        ],
+        "ro": [
+          "Cambrai este în mare parte plat, ideal pentru ciclism.",
+          "Folosiți pistele de biciclete din Jardin Public.",
+          "Atenție la pavajul cu piatră cubică pe unele străduțe din centrul vechi.",
+          "Asigurați-vă întotdeauna bicicleta cu un antifurt bun la obiective."
+        ],
+        "en": [
+          "Cambrai is mostly flat, ideal for cycling.",
+          "Use the bike paths within the Jardin Public.",
+          "Watch out for cobblestones in some narrow old town streets.",
+          "Always lock your bike securely at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place Aristide Briand",
+          "coords": [
+            3.235,
+            50.174
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Platz (gebührenpflichtig).",
+            "hu": "Nagy parkoló közvetlenül a téren (fizetős).",
+            "ro": "Parcare mare direct în piață (cu plată).",
+            "en": "Large parking lot right on the square (fee applies)."
+          }
+        },
+        {
+          "name": "Beffroi de Cambrai",
+          "coords": [
+            3.235,
+            50.176
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz am Hauptplatz.",
+            "hu": "Rövid séta a főtéri parkolótól.",
+            "ro": "Scurtă plimbare de la parcarea din piața principală.",
+            "en": "Short walk from the main square parking."
+          }
+        },
+        {
+          "name": "Musée de Cambrai",
+          "coords": [
+            3.231,
+            50.174
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie in der Rue de l'Épée.",
+            "hu": "Parkoljon a Rue de l'Épée utcában.",
+            "ro": "Parcați pe Rue de l'Épée.",
+            "en": "Park on Rue de l'Épée."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame-de-Grâce",
+          "coords": [
+            3.232,
+            50.172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Autotransfer zum südlichen Teil des Zentrums.",
+            "hu": "Rövid autós átszállás a központ déli részére.",
+            "ro": "Un scurt transfer cu mașina spre partea de sud a centrului.",
+            "en": "A short car transfer to the southern part of the center."
+          }
+        },
+        {
+          "name": "Porte de Paris",
+          "coords": [
+            3.233,
+            50.169
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkmöglichkeit in der Nähe des Tores vorhanden.",
+            "hu": "Parkolási lehetőség a kapu közelében.",
+            "ro": "Posibilitate de parcare în apropierea porții.",
+            "en": "Parking available near the gate."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            3.245,
+            50.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Boulevard Vauban.",
+            "hu": "Nagy parkoló a Boulevard Vauban mentén.",
+            "ro": "Parcare mare pe Boulevard Vauban.",
+            "en": "Large parking area along Boulevard Vauban."
+          }
+        },
+        {
+          "name": "Château de Selles",
+          "coords": [
+            3.228,
+            50.18
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die unterirdischen Gänge (auf Anfrage).",
+            "hu": "Látogassa meg a földalatti járatokat (kérésre).",
+            "ro": "Vizitați pasajele subterane (la cerere).",
+            "en": "Visit the underground passages (on request)."
+          }
+        },
+        {
+          "name": "Église Saint-Géry",
+          "coords": [
+            3.238,
+            50.178
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die älteste Kirche der Stadt mit flämischen Einflüssen.",
+            "hu": "A város legrégebbi temploma flamand hatásokkal.",
+            "ro": "Cea mai veche biserică din oraș cu influențe flamande.",
+            "en": "The oldest church in the city with Flemish influences."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die verschiedenen historischen Viertel von Cambrai perfekt verbinden. Nutzen Sie drei Hauptcluster: Beginnen Sie im Zentrum (Rathaus und Beffroi), wechseln Sie dann in den Süden zur Kathedrale und Porte de Paris. Nach einer Pause im Jardin Public fahren Sie zum nördlichen Festungscluster mit dem Château de Selles und der Kirche Saint-Géry. Diese Strategie schont die Beine und ermöglicht eine umfassende Tour durch die gesamte Stadtgeschichte, von den mittelalterlichen Toren bis zu den prächtigen Palais.",
+        "hu": "Autóval tökéletesen összeköthetők Cambrai különböző történelmi negyedei. Használjon három fő klasztert: kezdjen a központban (városháza és Beffroi), majd váltson délre a katedrálishoz és a Porte de Paris-hoz. A Jardin Public-ban tartott pihenő után hajtson az északi erőd-klaszterhez, a Château de Selles-hez és a Saint-Géry templomhoz. Ez a stratégia kíméli a lábakat, és lehetővé teszi a teljes várostörténet bejárását a középkori kapuktól a pompás palotákig.",
+        "ro": "Cu mașina, diferitele cartiere istorice din Cambrai pot fi conectate perfect. Folosiți trei clustere principale: începeți în centru (primărie și Beffroi), apoi mergeți în sud la catedrală și Porte de Paris. După o pauză în Jardin Public, conduceți spre clusterul de fortificații din nord, cu Château de Selles și Biserica Saint-Géry. Această strategie vă protejează picioarele și permite un tur cuprinzător al întregii istorii a orașului, de la porțile medievale până la palatele somptuoase.",
+        "en": "By car, you can perfectly connect Cambrai's various historic districts. Utilize three main clusters: start in the center (Town Hall and Beffroi), then move south to the cathedral and Porte de Paris. After a break at Jardin Public, drive to the northern fortification cluster with Château de Selles and Saint-Géry Church. This strategy saves your legs and allows for a comprehensive tour of the entire city history, from medieval gates to magnificent mansions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Fin de Siècle",
+            "tip": "Traditionelles Restaurant in der Nähe des Grand Place."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Fin de Siècle",
+            "tip": "Hagyományos étterem a Grand Place közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Fin de Siècle",
+            "tip": "Restaurant tradițional lângă Grand Place."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Fin de Siècle",
+            "tip": "Traditional restaurant near the Grand Place."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Boulevard Vauban",
+            "tip": "Eine breite, baumbestandene Allee.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulevard Vauban",
+            "tip": "Széles, fákkal szegélyezett sugárút.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulevard Vauban",
+            "tip": "Un bulevard larg, mărginit de copaci.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulevard Vauban",
+            "tip": "A wide, tree-lined avenue.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Auchan Cambrai",
+            "tip": "Für größere Einkäufe am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auchan Cambrai",
+            "tip": "Nagyobb bevásárlásokhoz a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auchan Cambrai",
+            "tip": "Pentru cumpărături mai mari la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auchan Cambrai",
+            "tip": "For larger shopping at the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken am Place Aristide Briand ist am praktischsten, aber zeitlich begrenzt.",
+          "Einige Einbahnstraßen in der Altstadt können verwirrend sein.",
+          "Nutzen Sie die Parkplätze am Jardin Public für einen längeren Aufenthalt.",
+          "Das Auto ist ideal, um am Ende des Tages die Umgebung von Cambrai zu erkunden."
+        ],
+        "hu": [
+          "A Place Aristide Briand téren való parkolás a legpraktikusabb, de időben korlátozott.",
+          "Néhány egyirányú utca az óvárosban zavaró lehet.",
+          "Használja a Jardin Public parkolóit hosszabb tartózkodáshoz.",
+          "Az autó ideális a nap végén Cambrai környékének felfedezéséhez."
+        ],
+        "ro": [
+          "Parcarea în Place Aristide Briand este cea mai practică, dar limitată în timp.",
+          "Unele străzi cu sens unic din centrul vechi pot fi derutante.",
+          "Folosiți parcările de la Jardin Public pentru o ședere mai lungă.",
+          "Mașina este ideală pentru a explora împrejurimile orașului Cambrai la sfârșitul zilei."
+        ],
+        "en": [
+          "Parking at Place Aristide Briand is most convenient but time-limited.",
+          "Some one-way streets in the old town can be confusing.",
+          "Use the parking lots at Jardin Public for longer stays.",
+          "The car is ideal for exploring the surroundings of Cambrai at the end of the day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Aristide Briand",
+          "coords": [
+            3.235,
+            50.174
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt des Stadtbusnetzes (TUC).",
+            "hu": "A városi buszhálózat (TUC) központi csomópontja.",
+            "ro": "Nod central al rețelei de autobuze urbane (TUC).",
+            "en": "Central hub of the city bus network (TUC)."
+          }
+        },
+        {
+          "name": "Beffroi de Cambrai",
+          "coords": [
+            3.235,
+            50.176
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Place Aristide Briand.",
+            "hu": "Rövid séta a Place Aristide Briand-tól.",
+            "ro": "Scurtă plimbare din Place Aristide Briand.",
+            "en": "Short walk from Place Aristide Briand."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame-de-Grâce",
+          "coords": [
+            3.232,
+            50.172
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie A bis zur Haltestelle Cathédrale.",
+            "hu": "Használja az A vonalat a Cathédrale megállóig.",
+            "ro": "Folosiți linia A până la stația Cathédrale.",
+            "en": "Use line A to the Cathédrale stop."
+          }
+        },
+        {
+          "name": "Musée de Cambrai",
+          "coords": [
+            3.231,
+            50.174
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Dom aus erreichbar (District B Cluster).",
+            "hu": "Gyalogosan elérhető a katedrálistól (B negyed klaszter).",
+            "ro": "Accesibil pe jos de la catedrală (Cluster District B).",
+            "en": "Walkable from the Cathedral (District B cluster)."
+          }
+        },
+        {
+          "name": "Porte de Paris",
+          "coords": [
+            3.233,
+            50.169
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busfahrt zum südlichen Stadtrand.",
+            "hu": "Buszozás a déli városrész szélére.",
+            "ro": "Călătorie cu autobuzul spre marginea de sud a orașului.",
+            "en": "Bus ride to the southern edge of town."
+          }
+        },
+        {
+          "name": "Jardin Public",
+          "coords": [
+            3.245,
+            50.175
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Linie B verbindet das Zentrum mit dem Park.",
+            "hu": "A B vonal köti össze a központot a parkkal.",
+            "ro": "Linia B face legătura între centru și parc.",
+            "en": "Line B connects the center with the park."
+          }
+        },
+        {
+          "name": "Église Saint-Géry",
+          "coords": [
+            3.238,
+            50.178
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Zentrum und kurzer Fußweg.",
+            "hu": "Visszautazás a központba és rövid séta.",
+            "ro": "Întoarcere în centru și scurtă plimbare.",
+            "en": "Return to center and short walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cambrais Busnetz (TUC) ermöglicht es Ihnen, die Stadtteile entspannt zu erkunden. Der zentrale Platz ist der ideale Startpunkt. Nutzen Sie die Linien, um zwischen den Clustern (Zentrum, Museumsviertel, Park und Nordfestung) zu wechseln. Innerhalb der Viertel legen Sie kurze Strecken zu Fuß zurück. Diese Mischung aus Bus und Spaziergang ist ideal, um die Distanzen zum Jardin Public oder zur Porte de Paris zu überbrücken, ohne müde zu werden. Ein effizienter Weg, um die UNESCO-Stätten und die Kunstschätze der Stadt zu sehen.",
+        "hu": "Cambrai buszhálózata (TUC) lehetővé teszi a városrészek kényelmes felfedezését. A központi tér az ideális kiindulópont. Használja a járatokat a klaszterek (központ, múzeumi negyed, park és északi erőd) közötti váltáshoz. A negyedeken belül tegyen meg rövid távokat gyalogosan. Ez a buszozás és sétálás kombinációja ideális a Jardin Public vagy a Porte de Paris közötti távolságok áthidalására anélkül, hogy elfáradna. Hatékony módja az UNESCO helyszínek és a város művészeti kincseinek megtekintésére.",
+        "ro": "Rețeaua de autobuze din Cambrai (TUC) vă permite să explorați cartierele orașului într-un mod relaxat. Piața centrală este punctul de plecare ideal. Folosiți liniile pentru a schimba între clustere (centru, cartierul muzeelor, parc și fortificațiile de nord). În cadrul cartierelor, parcurgeți distanțe scurte pe jos. Acest amestec de autobuz și plimbare este ideal pentru a acoperi distanțele până la Jardin Public sau Porte de Paris fără a obosi. O modalitate eficientă de a vedea siturile UNESCO și comorile artistice ale orașului.",
+        "en": "Cambrai's bus network (TUC) allows you to explore the city's districts in a relaxed way. The central square is the ideal starting point. Use the lines to switch between clusters (center, museum district, park, and northern fortification). Within the districts, cover short distances on foot. This mix of bus and walking is ideal for bridging distances to Jardin Public or Porte de Paris without getting tired. An efficient way to see UNESCO sites and the city's artistic treasures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "An fast jedem Kiosk im Zentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Szinte minden újságosnál kapható a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Disponibil la aproape orice chioșc din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bêtises de Cambrai",
+            "tip": "Available at almost every kiosk in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin aux Fleurs",
+            "tip": "Ein ruhiger Teil des Jardin Public.",
+            "emoji": "🌸"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin aux Fleurs",
+            "tip": "A Jardin Public egyik csendes része.",
+            "emoji": "🌸"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin aux Fleurs",
+            "tip": "O parte liniștită a Jardin Public.",
+            "emoji": "🌸"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin aux Fleurs",
+            "tip": "A quiet section of the Jardin Public.",
+            "emoji": "🌸"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue de la Victoire",
+            "tip": "Haupteinkaufsstraße, gut mit dem Bus erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue de la Victoire",
+            "tip": "Fő bevásárlóutca, busszal jól megközelíthető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue de la Victoire",
+            "tip": "Principala stradă comercială, accesibilă cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue de la Victoire",
+            "tip": "Main shopping street, easily accessible by bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihre Fahrkarten beim Fahrer oder in Tabakläden.",
+          "Die Busse fahren am Wochenende seltener, prüfen Sie den Fahrplan.",
+          "Die Linien A und B decken die meisten Sehenswürdigkeiten ab.",
+          "Die Haltestellen sind gut beschildert und liegen nah an den Attraktionen."
+        ],
+        "hu": [
+          "Vásárolja meg jegyét a sofőrnél vagy trafikokban.",
+          "A buszok hétvégén ritkábban járnak, ellenőrizze a menetrendet.",
+          "Az A és B vonalak lefedik a legtöbb látnivalót.",
+          "A megállók jól ki vannak táblázva, és közel vannak a látványosságokhoz."
+        ],
+        "ro": [
+          "Cumpărați biletele de la șofer sau din magazinele de tutun.",
+          "Autobuzele circulă mai rar în weekend, verificați orarul.",
+          "Liniile A și B acoperă majoritatea obiectivelor turistice.",
+          "Stațiile sunt bine semnalizate și situate aproape de atracții."
+        ],
+        "en": [
+          "Buy your tickets from the driver or at tobacco shops.",
+          "Buses run less frequently on weekends; check the schedule.",
+          "Lines A and B cover most of the sights.",
+          "Stops are well-signed and located close to the attractions."
+        ]
+      }
+    }
+  }
+}

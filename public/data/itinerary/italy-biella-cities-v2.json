@@ -1,0 +1,1031 @@
+{
+  "city_id": "italy-biella-cities-v2",
+  "anchor": {
+    "name": "Biella",
+    "coords": [
+      8.0573,
+      45.5576
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Battistero di San Giovanni",
+            "hu": "Keresztelőkápolna",
+            "ro": "Baptisteriul San Giovanni",
+            "en": "Baptistery of San Giovanni"
+          },
+          "coords": [
+            8.0575,
+            45.5662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Frühmittelalterliche Architektur aus dem 11. Jahrhundert.",
+            "hu": "A 11. századi preromán építészet remeke.",
+            "ro": "Arhitectură preromanică din secolul al XI-lea.",
+            "en": "A 11th-century pre-romanesque architectural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di Santo Stefano",
+            "hu": "Szent István székesegyház",
+            "ro": "Catedrala Santo Stefano",
+            "en": "Cathedral of Santo Stefano"
+          },
+          "coords": [
+            8.0581,
+            45.5663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken im gotischen Innenraum.",
+            "hu": "Csodálja meg a gótikus belső freskóit.",
+            "ro": "Admirați frescele din interiorul gotic.",
+            "en": "Admire the frescoes in the gothic interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Cittadellarte - Fondazione Pistoletto",
+            "hu": "Cittadellarte művészeti központ",
+            "ro": "Cittadellarte - Fundația Pistoletto",
+            "en": "Cittadellarte - Pistoletto Foundation"
+          },
+          "coords": [
+            8.0525,
+            45.5742
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in einer alten Wollspinnerei.",
+            "hu": "Kortárs művészet egy régi gyapjúgyárban.",
+            "ro": "Artă contemporană într-o fostă fabrică de lână.",
+            "en": "Contemporary art in a former wool factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Funicolare di Biella",
+            "hu": "Biellai sikló",
+            "ro": "Funicularul din Biella",
+            "en": "Biella Funicular"
+          },
+          "coords": [
+            8.0552,
+            45.5671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Verbindet das moderne Biella Piano mit dem historischen Piazzo.",
+            "hu": "Összeköti a modern alsóvárost a történelmi felsővárossal.",
+            "ro": "Conectează Biella Piano de cartierul istoric Piazzo.",
+            "en": "Connects modern Biella Piano with the historical Piazzo."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Ferrero",
+            "hu": "Ferrero palota",
+            "ro": "Palatul Ferrero",
+            "en": "Palazzo Ferrero"
+          },
+          "coords": [
+            8.0505,
+            45.5681
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kulturelles Zentrum mit Panoramablick vom Piazzo.",
+            "hu": "Kulturális központ panorámás kilátással a Piazzo-ról.",
+            "ro": "Centru cultural cu vedere panoramică din Piazzo.",
+            "en": "Cultural hub with panoramic views from Piazzo."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Cisterna",
+            "hu": "Cisterna tér",
+            "ro": "Piața Cisterna",
+            "en": "Cisterna Square"
+          },
+          "coords": [
+            8.0501,
+            45.5685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Glas lokalen Wein in historischer Kulisse.",
+            "hu": "Élvezze a helyi bort a történelmi díszletek között.",
+            "ro": "Savurați un pahar de vin local în acest cadru istoric.",
+            "en": "Enjoy a glass of local wine in this historical setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im religiösen Zentrum von Biella Piano, wo das Baptisterium aus dem 11. Jahrhundert beeindruckt. Nach dem Besuch der Kathedrale erkunden Sie das industrielle Erbe der Textilstadt in der Cittadellarte. Am Nachmittag bringt Sie die historische Seilbahn hinauf zum Piazzo, dem mittelalterlichen Viertel, wo aristokratische Paläste und charmante Plätze auf Sie warten.",
+        "hu": "Kezdje a napot Biella alsóvárosában, a 11. századi keresztelőkápolna megtekintésével. A székesegyház után fedezze fel a gyapjúipar örökségét a Cittadellarte központban. Délután a siklóval emelkedjen fel a Piazzo negyedbe, ahol az arisztokrata paloták és a macskaköves utcák között megelevenedik a középkor, miközben elmerül a piemonti Alpok látványában.",
+        "ro": "Începeți ziua în centrul religios din Biella Piano, vizitând Baptisteriul preromanic și Catedrala. Explorați apoi moștenirea industrială a orașului la Cittadellarte. După-amiaza, funicularul vă va duce în cartierul istoric Piazzo, un loc plin de palate nobiliare și piețe pitorești, perfect pentru a încheia ziua cu o degustare de vinuri locale.",
+        "en": "Start your day in the religious heart of Biella Piano at the 11th-century Baptistery. After visiting the Cathedral, explore the city's textile heritage at Cittadellarte. In the afternoon, take the historic funicular up to Piazzo, the medieval district. Wander through its noble palaces and cobblestone squares, enjoying the panoramic views of the Piedmontese Alps as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Cremige Polenta mit geschmolzenem Toma-Käse."
+          },
+          {
+            "name": "Canestrelli di Biella",
+            "tip": "Dünne Waffeln mit Schokolade und Haselnüssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Krémes puliszka olvasztott helyi sajtokkal és vajjal."
+          },
+          {
+            "name": "Pan d'Oropa",
+            "tip": "Tradicionális édes kenyér, aszalt gyümölcsökkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Mămăligă cremoasă cu unt și brânză locală topită."
+          },
+          {
+            "name": "Toma Biellese",
+            "tip": "Tradiționala brânză de munte din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Polenta Concia",
+            "tip": "Rich polenta stirred with butter and melted Toma cheese."
+          },
+          {
+            "name": "Canestrelli",
+            "tip": "Chocolate-hazelnut filled thin wafers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazzo Aussichtspunkt",
+            "tip": "Blick über die Dächer von Biella.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Giardino del Palazzo Ferrero",
+            "tip": "Ein ruhiger Renaissancegarten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazzo kilátópont",
+            "tip": "Pazar kilátás az alsóvárosra és a hegyekre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palazzo Ferrero kert",
+            "tip": "Csendes oázis a történelmi épületek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Piazzo",
+            "tip": "Vedere panoramică peste acoperișurile orașului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Palazzo Ferrero",
+            "tip": "Un loc liniștit pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazzo Viewpoint",
+            "tip": "Perfect spot to see the city lights at dusk.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Palazzo Ferrero Garden",
+            "tip": "A peaceful renaissance green space.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cerruti Outlet",
+            "tip": "Hochwertige Wollstoffe und Mode."
+          },
+          {
+            "name": "Mercat d'la Piassa",
+            "tip": "Lokale Produkte und Handwerk im Piazzo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyapjú outletek",
+            "tip": "Híres olasz szövetek és márkás ruházat."
+          },
+          {
+            "name": "Helyi delikátesz boltok",
+            "tip": "Vásároljon Toma sajtot és canestrellit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Outleturi de textile",
+            "tip": "Haine de lux din lână la prețuri de fabrică."
+          },
+          {
+            "name": "Piazza Cisterna",
+            "tip": "Produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Textile Outlets",
+            "tip": "High-quality wool fabrics from Biella's mills."
+          },
+          {
+            "name": "Local Gastronomy Shops",
+            "tip": "Pick up some Toma cheese and local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Seilbahn zum Piazzo ist für Fußgänger kostenlos.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Piazzo.",
+          "Probieren Sie das Menü in einer der Osterien im oberen Stadtteil.",
+          "Besuchen Sie Cittadellarte, um die 'Povera'-Kunstbewegung zu verstehen."
+        ],
+        "hu": [
+          "A sikló a Piazzo negyedbe ingyenes a gyalogosok számára.",
+          "Viseljen kényelmes cipőt a Piazzo macskaköves utcáihoz.",
+          "A Cittadellarte hétfőnként zárva tarthat, érdemes előre ellenőrizni.",
+          "Kóstolja meg a polenta conciát egy autentikus osteriában."
+        ],
+        "ro": [
+          "Funicularul către Piazzo este gratuit pentru pasageri.",
+          "Străzile din Piazzo sunt pietruite, purtați încălțăminte comodă.",
+          "Biella este capitala lânii; vizitați outlet-urile din apropiere.",
+          "Faceți rezervare pentru prânz în weekend în zona Piazzo."
+        ],
+        "en": [
+          "The funicular to Piazzo is a free service for visitors.",
+          "Wear comfortable shoes as Piazzo's streets are mostly cobbled.",
+          "Biella is the textile capital; check out local factory outlets.",
+          "Cittadellarte is a must for lovers of contemporary art and history."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Biella Piano",
+            "hu": "Biella alsóváros",
+            "ro": "Biella Piano",
+            "en": "Biella Piano"
+          },
+          "coords": [
+            8.0573,
+            45.566
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im flachen Teil der Stadt.",
+            "hu": "Kiindulópont a város sík részén.",
+            "ro": "Punct de plecare în zona plană a orașului.",
+            "en": "Starting point in the flat part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cittadellarte",
+            "hu": "Cittadellarte",
+            "ro": "Cittadellarte",
+            "en": "Cittadellarte"
+          },
+          "coords": [
+            8.0525,
+            45.5742
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang des Flusses Cervo.",
+            "hu": "Tekerjen a Cervo-folyó partján.",
+            "ro": "Mergeți pe bicicletă de-a lungul râului Cervo.",
+            "en": "Ride along the banks of the Cervo river."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Burcina",
+            "hu": "Burcina park",
+            "ro": "Parcul Burcina",
+            "en": "Burcina Park"
+          },
+          "coords": [
+            8.0145,
+            45.5601
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber die Aussicht belohnt die Mühe.",
+            "hu": "Meredek emelkedő, de a kilátás megéri a fáradtságot.",
+            "ro": "Urcare abruptă, dar vederea merită efortul.",
+            "en": "Steep climb, but the view is worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazzo",
+            "hu": "Piazzo negyed",
+            "ro": "Cartierul Piazzo",
+            "en": "Piazzo District"
+          },
+          "coords": [
+            8.0501,
+            45.5685
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Historisches Flair auf dem Hügel.",
+            "hu": "Történelmi hangulat a dombtetőn.",
+            "ro": "Atmosferă istorică pe deal.",
+            "en": "Historical flair on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Ricetto di Candelo",
+            "hu": "Ricetto di Candelo",
+            "ro": "Ricetto di Candelo",
+            "en": "Ricetto di Candelo"
+          },
+          "coords": [
+            8.1141,
+            45.5482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein perfekt erhaltenes mittelalterliches Dorf.",
+            "hu": "Tökéletesen megőrzött középkori falu.",
+            "ro": "Un sat medieval perfect conservat.",
+            "en": "A perfectly preserved medieval village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Kunst, Natur und Mittelalter. Nach dem Start in Biella Piano radeln Sie zur Cittadellarte und fordern sich dann mit dem Aufstieg zum Burcina-Park heraus. Genießen Sie die Abfahrt zurück nach Biella, bevor Sie den Piazzo erkunden. Den krönenden Abschluss bildet die Fahrt durch die piemontesische Landschaft zum spektakulären Ricetto di Candelo.",
+        "hu": "Ez a kerékpáros útvonal ötvözi a művészetet, a természetet és a történelmet. Biellából indulva érintjük a Cittadellarte-t, majd leküzdjük a Burcina park emelkedőit. A gurulás után felfedezzük a Piazzo ódon házait, végül pedig a vidéki utakon elkerekezünk a lenyűgöző Ricetto di Candelo középkori falujába.",
+        "ro": "Acest traseu cu bicicleta îmbină arta, natura și istoria. Plecând din Biella Piano, mergeți către Cittadellarte, apoi acceptați provocarea urcării spre Parcul Burcina. Bucurați-vă de coborâre înainte de a vizita cartierul Piazzo. Încheiați ziua cu o plimbare spre Ricetto di Candelo, un loc medieval spectaculos.",
+        "en": "This cycling route blends art, nature, and history. Starting in Biella, ride to Cittadellarte before tackling the climb to Burcina Park. Enjoy the downhill ride back to explore Piazzo's noble streets. The final stretch takes you through the Piedmontese countryside to the spectacular medieval village of Ricetto di Candelo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miascia",
+            "tip": "Süßer Kuchen aus altem Brot und Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szalámi válogatás",
+            "tip": "Helyi kézműves felvágottak a piemonti régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Macagno",
+            "tip": "Brânză locală proaspătă, ideală pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cured Meats",
+            "tip": "Artisanal salamis from the Biellese valleys."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burcina Rhododendren",
+            "tip": "Farbenpracht im Frühling.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burcina kilátó",
+            "tip": "Nyugodt pihenőhely kilátással az Alpokra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Burcina",
+            "tip": "Oază de liniște în mijlocul naturii.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Burcina Viewpoint",
+            "tip": "Quiet rest spot with Alpine vistas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in Candelo",
+            "tip": "Einzigartige Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Candelo kézműves boltjai",
+            "tip": "Egyedi ajándéktárgyak a középkori faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierele din Candelo",
+            "tip": "Artizanat local și produse tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Candelo Craft Shops",
+            "tip": "Unique ceramics and textiles in the medieval village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Für den Aufstieg nach Oropa oder Burcina ist ein E-Bike empfehlenswert.",
+          "Die Straßen nach Candelo sind flach und angenehm zu befahren.",
+          "Nehmen Sie ausreichend Wasser mit, die Steigungen sind sonnig."
+        ],
+        "hu": [
+          "A Burcina parkba vezető út meredek, egy e-bike nagy segítség lehet.",
+          "Candelo felé az út sík és kis forgalmú, élvezetes tekerés.",
+          "Mindig legyen nálad víz, a piemonti dombokon kevés a kút."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru dealurile din jurul orașului.",
+          "Drumurile spre Candelo sunt plane și ușor de parcurs.",
+          "Purtați cască, coborârile de la Burcina pot fi rapide."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the climbs around Burcina.",
+          "The roads towards Candelo are mostly flat and pleasant to ride.",
+          "Always carry water as shade is limited on some rural stretches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 32.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Battistero und Dom (Zentrum)",
+            "hu": "Keresztelőkápolna és Dóm (Belváros)",
+            "ro": "Baptisteriul și Catedrala (Centru)",
+            "en": "Baptistery and Cathedral (Center)"
+          },
+          "coords": [
+            8.0575,
+            45.5662
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Piazza Martiri della Libertà.",
+            "hu": "Parkoljon a Piazza Martiri della Libertà közelében.",
+            "ro": "Parcați lângă Piazza Martiri della Libertà.",
+            "en": "Park near Piazza Martiri della Libertà."
+          }
+        },
+        {
+          "name": {
+            "de": "Funicolare nach Piazzo",
+            "hu": "Sikló a Piazzo-hoz",
+            "ro": "Funicular spre Piazzo",
+            "en": "Funicular to Piazzo"
+          },
+          "coords": [
+            8.0552,
+            45.5671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto unten und fahren Sie mit der Seilbahn.",
+            "hu": "Hagyja az autót lenn, és menjen fel a siklóval.",
+            "ro": "Lăsați mașina jos și urcați cu funicularul.",
+            "en": "Leave the car below and take the funicular up."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Oropa",
+            "hu": "Oropai szentély",
+            "ro": "Sanctuarul din Oropa",
+            "en": "Sanctuary of Oropa"
+          },
+          "coords": [
+            7.9785,
+            45.6281
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 13.5,
+          "tip_5lang": {
+            "de": "Wichtigster Marienwallfahrtsort der Alpen.",
+            "hu": "Az Alpok legfontosabb Mária-kegyhelye.",
+            "ro": "Cel mai important loc de pelerinaj marian din Alpi.",
+            "en": "The most important Marian sanctuary in the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Burcina",
+            "hu": "Burcina park",
+            "ro": "Parcul Burcina",
+            "en": "Burcina Park"
+          },
+          "coords": [
+            8.0145,
+            45.5601
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Großzügiger Parkplatz am Eingang in Pollone.",
+            "hu": "Tágas parkoló a bejáratnál, Pollone-ban.",
+            "ro": "Parcare spațioasă la intrarea din Pollone.",
+            "en": "Spacious parking at the entrance in Pollone."
+          }
+        },
+        {
+          "name": {
+            "de": "Ricetto di Candelo",
+            "hu": "Ricetto di Candelo",
+            "ro": "Ricetto di Candelo",
+            "en": "Ricetto di Candelo"
+          },
+          "coords": [
+            8.1141,
+            45.5482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein mittelalterlicher Speicherort ohnegleichen.",
+            "hu": "Egyedülálló középkori erődített raktárfalu.",
+            "ro": "Un sat medieval fortificat unic.",
+            "en": "A unique medieval fortified storage village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die beeindruckendsten Orte rund um Biella. Nach dem historischen Zentrum fahren Sie hinauf zum UNESCO-Weltkulturerbe Oropa, das majestätisch in den Bergen thront. Ein Spaziergang im Burcina-Park bietet Natur pur, bevor Sie den Tag im mittelalterlichen Ricetto di Candelo abschließen, wo die Zeit im 14. Jahrhundert stehen geblieben zu sein scheint.",
+        "hu": "Autóval Biella környékének legszebb pontjait érhetjük el. A belvárosi séta után kanyargós úton jutunk fel az UNESCO világörökség részét képező Oropai szentélyhez. A Burcina park rododendronjai után a napot a középkori Ricetto di Candelo falujában zárjuk, amely Olaszország egyik legjobb állapotban fennmaradt történelmi emléke.",
+        "ro": "Cu mașina, puteți ajunge la cele mai frumoase locuri din jurul orașului Biella. După centrul istoric, urcați la Sanctuarul din Oropa, sit UNESCO situat în munți. O plimbare în Parcul Burcina vă va relaxa înainte de a vizita Ricetto di Candelo, un sat medieval unde timpul pare să se fi oprit în secolul al XIV-lea.",
+        "en": "By car, you can reach the most stunning sites around Biella. After the historic center, drive up to the UNESCO-listed Sanctuary of Oropa, nestled high in the mountains. A stroll through Burcina Park offers pure nature before ending your day at the medieval Ricetto di Candelo, a perfectly preserved 14th-century fortified village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Oropa",
+            "tip": "Probieren Sie Polenta Concia direkt am Berg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sörfőzde",
+            "tip": "Biella híres a sörgyártásáról (pl. Menabrea)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osteria Candelo",
+            "tip": "Mâncare tradițională într-un cadru medieval."
+          }
+        ],
+        "en": [
+          {
+            "name": "Menabrea Beer",
+            "tip": "Biella is the home of this famous Italian brewery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oropa Sacro Monte",
+            "tip": "Kapellenweg mit herrlicher Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sacro Monte di Oropa",
+            "tip": "Szent út kápolnákkal és csendes erdővel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sacro Monte di Oropa",
+            "tip": "Traseu spiritual cu capele și liniște.",
+            "emoji": "🙏"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sacro Monte di Oropa",
+            "tip": "Chapel path with deep silence and mountain air.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "The Place Luxury Outlet",
+            "tip": "In der Nähe von Sandigliano für Markenmode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Factory Outlets",
+            "tip": "Ermenegildo Zegna és más luxusmárkák gyári boltjai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "The Place Luxury Outlet",
+            "tip": "Haine de firmă la prețuri reduse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Luxury Outlets",
+            "tip": "Nearby factory stores like Zegna or Loro Piana."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Oropa kann im Winter schneebedeckt sein.",
+          "Parken im Zentrum ist oft gebührenpflichtig (blaue Linien).",
+          "Ricetto di Candelo ist abends wunderschön beleuchtet."
+        ],
+        "hu": [
+          "Az Oropába vezető út télen havas lehet, figyelje az előrejelzést.",
+          "A belvárosban a kék felfestésű parkolók fizetősek.",
+          "Candelo falujában érdemes egy helyi idegenvezetést kérni."
+        ],
+        "ro": [
+          "Drumul spre Oropa este sinuos; conduceți cu atenție.",
+          "Parcarea în centrul Biellei este de obicei cu plată.",
+          "Vizitați Ricetto di Candelo în timpul festivalurilor locale."
+        ],
+        "en": [
+          "The road to Oropa is winding; be careful in foggy conditions.",
+          "Parking in the city center is mostly pay-and-display.",
+          "Ricetto di Candelo often hosts charming medieval markets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Biella San Paolo (Bahnhof)",
+            "hu": "Biella San Paolo állomás",
+            "ro": "Gara Biella San Paolo",
+            "en": "Biella San Paolo Station"
+          },
+          "coords": [
+            8.0612,
+            45.5562
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Központi csomópont minden buszjárat számára.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Biella Zentrum (Dom)",
+            "hu": "Biella központ (Dóm)",
+            "ro": "Centrul Biella (Dom)",
+            "en": "Biella Center (Cathedral)"
+          },
+          "coords": [
+            8.0581,
+            45.5663
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt vom Bahnhof ins Zentrum.",
+            "hu": "Rövid buszút az állomástól a belvárosig.",
+            "ro": "Călătorie scurtă cu autobuzul de la gară.",
+            "en": "Short bus ride from the station to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Funicolare nach Piazzo",
+            "hu": "Sikló a Piazzo-hoz",
+            "ro": "Funicular spre Piazzo",
+            "en": "Funicular to Piazzo"
+          },
+          "coords": [
+            8.0552,
+            45.5671
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Seilbahn ist das beste Nahverkehrsmittel hier.",
+            "hu": "A sikló a legjobb tömegközlekedési eszköz itt.",
+            "ro": "Funicularul este cel mai bun mijloc de transport.",
+            "en": "The funicular is the best local transit option here."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Oropa",
+            "hu": "Oropai szentély",
+            "ro": "Sanctuarul din Oropa",
+            "en": "Sanctuary of Oropa"
+          },
+          "coords": [
+            7.9785,
+            45.6281
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Buslinie 360 verbindet Biella mit Oropa.",
+            "hu": "A 360-as buszjárat köti össze Biellát Oropával.",
+            "ro": "Linia 360 face legătura între Biella și Oropa.",
+            "en": "Bus line 360 connects Biella with Oropa."
+          }
+        },
+        {
+          "name": {
+            "de": "Ricetto di Candelo",
+            "hu": "Ricetto di Candelo",
+            "ro": "Ricetto di Candelo",
+            "en": "Ricetto di Candelo"
+          },
+          "coords": [
+            8.1141,
+            45.5482
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Kurze Zugfahrt oder Bus nach Candelo.",
+            "hu": "Rövid vonat- vagy buszút Candelóba.",
+            "ro": "Călătorie scurtă cu trenul sau autobuzul.",
+            "en": "Short train or bus ride to Candelo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Biella und seine Umgebung lassen sich hervorragend mit dem öffentlichen Nahverkehr erkunden. Nutzen Sie die Busse ins Zentrum und die Seilbahn zum Piazzo. Die Linie 360 bringt Sie direkt zum majestätischen Oropa-Heiligtum in den Bergen. Zum Abschluss erreichen Sie Candelo bequem mit dem Regionalzug oder dem Bus, um das berühmte Ricetto zu besuchen.",
+        "hu": "Biella és környéke kiválóan felfedezhető tömegközlekedéssel. A buszok az állomástól a dómig, a sikló pedig a Piazzo negyedbe repít. A 360-as busz közvetlen összeköttetést biztosít az Oropai szentéllyel. A nap végén vonattal vagy busszal könnyen elérhető Candelo, ahol a középkori Ricetto várja a látogatókat.",
+        "ro": "Biella și împrejurimile sale sunt ușor de vizitat cu transportul public. Folosiți autobuzele locale și funicularul spre Piazzo. Linia 360 vă duce direct la sanctuarul Oropa. La finalul zilei, puteți ajunge la Candelo cu trenul regional sau cu autobuzul pentru a vedea celebrul Ricetto medieval.",
+        "en": "Biella and its surroundings are well-connected by public transit. Use local buses to reach the center and the funicular for Piazzo. Bus line 360 takes you straight to the majestic Oropa Sanctuary in the mountains. Finally, a short train or bus ride brings you to Candelo to explore its famous medieval fortified village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biscotti di Oropa",
+            "tip": "Traditionelles Gebäck zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rizottó",
+            "tip": "A közeli Vercelli-síkságról származó kiváló rizsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aperitivo in Piazzo",
+            "tip": "Băuturi locale și gustări în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Rice Dishes",
+            "tip": "Quality rice from the nearby Vercelli plains."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchen von Oropa",
+            "tip": "Besinnliche Stille in der Basilika.",
+            "emoji": "🙏"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oropai bazilika",
+            "tip": "Elmélyülés és csend a hegyek között.",
+            "emoji": "🙏"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bazilica Oropa",
+            "tip": "Liniște și reculegere în munți.",
+            "emoji": "🙏"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oropa Basilica",
+            "tip": "Contemplative silence in the heart of the mountains.",
+            "emoji": "🙏"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biella Bahnhof-Kiosk",
+            "tip": "Lokale Reiseführer und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves sörök",
+            "tip": "Vásároljon helyi Menabrea sört ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gară",
+            "tip": "Produse locale rapide și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft Beers",
+            "tip": "Buy local Menabrea beer as a gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan für Oropa im Voraus (ATAP Biella).",
+          "Fahrkarten können in Tabakläden oder per App gekauft werden.",
+          "Züge nach Candelo fahren regelmäßig vom Bahnhof San Paolo."
+        ],
+        "hu": [
+          "Ellenőrizze az ATAP Biella buszmenetrendjét Oropa felé.",
+          "A jegyeket dohányboltokban vagy mobilapplikáción veheti meg.",
+          "Candelo megállója csak pár percre van vonattal a főállomástól."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor ATAP pentru linia Oropa.",
+          "Biletele pot fi cumpărate de la tabacherii sau prin aplicație.",
+          "Trenurile spre Candelo circulă frecvent din gara San Paolo."
+        ],
+        "en": [
+          "Check the ATAP Biella bus schedule for Oropa in advance.",
+          "Tickets can be purchased at newsstands or via mobile app.",
+          "Trains to Candelo run frequently from San Paolo station."
+        ]
+      }
+    }
+  }
+}

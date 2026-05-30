@@ -1,0 +1,1234 @@
+{
+  "city_id": "schwaebisch-gmuend-extra",
+  "anchor": {
+    "name": "Schwäbisch Gmünd",
+    "coords": [
+      9.797,
+      48.8
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz Schwäbisch Gmünd",
+            "hu": "Schwäbisch Gmünd főtere",
+            "ro": "Piața Centrală din Schwäbisch Gmünd",
+            "en": "Schwäbisch Gmünd Market Square"
+          },
+          "coords": [
+            9.7972,
+            48.8001
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Fassaden und das Alte Rathaus.",
+            "hu": "Csodálja meg a barokk homlokzatokat és a régi városházát.",
+            "ro": "Admirați fațadele baroce și vechea primărie.",
+            "en": "Admire the Baroque facades and the Old Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Münster",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfintei Cruci",
+            "en": "Holy Cross Minster"
+          },
+          "coords": [
+            9.7994,
+            48.8005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die größte Hallenkirche Süddeutschlands ohne Türme.",
+            "hu": "Dél-Németország legnagyobb torony nélküli csarnoktemploma.",
+            "ro": "Cea mai mare biserică hală fără turnuri din sudul Germaniei.",
+            "en": "The largest hall church in Southern Germany without towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            9.7961,
+            48.7992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Romanische Architektur mit beeindruckenden Steinskulpturen.",
+            "hu": "Román stílusú építészet lenyűgöző kőszobrokkal.",
+            "ro": "Arhitectură romanică cu sculpturi în piatră impresionante.",
+            "en": "Romanesque architecture with impressive stone sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Fünfknopfturm",
+            "hu": "Ötgombos-torony",
+            "ro": "Turnul cu cinci butoane",
+            "en": "Five Button Tower"
+          },
+          "coords": [
+            9.7942,
+            48.8015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehemaliger Wachturm der alten Stadtbefestigung.",
+            "hu": "A régi városfal egykori őrtornya.",
+            "ro": "Fost turn de veghe al vechii fortificații a orașului.",
+            "en": "Former watchtower of the old city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            9.7968,
+            48.8002
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie echte schwäbische Maultaschen.",
+            "hu": "Kóstolja meg az eredeti sváb Maultaschent.",
+            "ro": "Încercați găluștele șvăbești autentice (Maultaschen).",
+            "en": "Try authentic Swabian Maultaschen."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten & Rokokokoschlößchen",
+            "hu": "Városkert és Rokokó kastélyka",
+            "ro": "Grădina orașului și Castelul Rococo",
+            "en": "City Garden & Rococo Palace"
+          },
+          "coords": [
+            9.7935,
+            48.8042
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein prächtiges Lustschloss in einer gepflegten Parkanlage.",
+            "hu": "Pompás kastély egy gondozott park közepén.",
+            "ro": "Un castel splendid situat într-un parc bine întreținut.",
+            "en": "A magnificent pleasure palace in a well-kept park."
+          }
+        },
+        {
+          "name": {
+            "de": "Salvator",
+            "hu": "Salvator sziklatemplom",
+            "ro": "Biserica rupestră Salvator",
+            "en": "Salvator Rock Church"
+          },
+          "coords": [
+            9.7895,
+            48.8021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wallfahrtsstätte mit Kreuzweg und Blick über die Stadt.",
+            "hu": "Zarándokhely kálváriával és kilátással a városra.",
+            "ro": "Loc de pelerinaj cu un drum al crucii și vedere spre oraș.",
+            "en": "Pilgrimage site with a Way of the Cross and city views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem prächtigen Marktplatz, dem Herz der ältesten Stauferstadt. Bestaunen Sie das Münster, ein Meisterwerk der Gotik, bevor Sie durch die historischen Gassen zu den mittelalterlichen Türmen spazieren. Der Nachmittag gehört der Erholung im Stadtgarten und dem barocken Glanz des Rokokokoschlößchens. Zum Abschluss steigen Sie zum Salvator hinauf, einer einzigartigen, in den Fels gehauenen Kapelle mit weitem Panorama.",
+        "hu": "Kezdje a napot a pompás főtéren, a legősibb Staufer-város szívében. Csodálja meg a Münster gótikus remekművét, majd sétáljon át a középkori tornyokhoz. A délután a pihenésé a Városkertben és a Rokokó kastélyka barokk fényében. A napot a Salvator sziklatemplománál zárja, amely egyedülálló, sziklába vájt kápolnáival és pazar kilátásával koronázza meg a látogatást.",
+        "ro": "Începeți ziua în piața centrală splendidă, inima celui mai vechi oraș Staufer. Admirați Catedrala, o capodoperă gotică, înainte de a vă plimba pe străzile istorice către turnurile medievale. După-amiaza este dedicată relaxării în Grădina Orașului și strălucirii baroce a Castelului Rococo. În final, urcați la Salvator, o capelă unică săpată în stâncă, oferind o panoramă vastă asupra orașului.",
+        "en": "Start your day at the magnificent Market Square, the heart of the oldest Staufer city. Marvel at the Minster, a Gothic masterpiece, before strolling through historic alleys to medieval towers. The afternoon is for relaxation in the City Garden and the Baroque splendor of the Rococo Palace. Conclude your trip by climbing up to the Salvator, a unique rock-cut chapel offering wide panoramic views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maultaschen",
+            "tip": "Gefüllte Teigtaschen, oft in Brühe serviert."
+          },
+          {
+            "name": "Gasthaus zum Rad",
+            "tip": "Traditionelle schwäbische Küche direkt in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maultaschen",
+            "tip": "Töltött tésztabatyu, gyakran húslevesben tálalva."
+          },
+          {
+            "name": "Gasthaus zum Rad",
+            "tip": "Hagyományos sváb konyha az óváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maultaschen",
+            "tip": "Găluște umplute, servite adesea în supă."
+          },
+          {
+            "name": "Gasthaus zum Rad",
+            "tip": "Bucătărie șvăbească tradițională chiar în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maultaschen",
+            "tip": "Stuffed pasta dumplings, often served in broth."
+          },
+          {
+            "name": "Gasthaus zum Rad",
+            "tip": "Traditional Swabian cuisine right in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salvatorberg",
+            "tip": "Ruhiger Rückzugsort mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtgarten",
+            "tip": "Großzügige Grünanlage zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salvator-hegy",
+            "tip": "Csendes menedék kilátással a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városkert",
+            "tip": "Tágas zöldterület a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Salvator",
+            "tip": "Refugiu liniștit cu vedere spre oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Orașului",
+            "tip": "Spațiu verde generos pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salvator Hill",
+            "tip": "Quiet retreat with views over the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Garden",
+            "tip": "Spacious green area for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gold- und Silberschmuck",
+            "tip": "Gmünd ist berühmt für seine Schmucktradition."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte mittwochs und samstags auf dem Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arany- és ezüstékszerek",
+            "tip": "Gmünd híres az ékszerkészítő hagyományairól."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Regionális termékek szerdán és szombaton a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bijuterii din aur și argint",
+            "tip": "Gmünd este faimos pentru tradiția sa în bijuterii."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale miercurea și sâmbăta în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gold and Silver Jewelry",
+            "tip": "Gmünd is famous for its jewelry-making tradition."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products on Wednesdays and Saturdays at the Market Square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich hervorragend zu Fuß erkunden.",
+          "Der Aufstieg zum Salvator ist steil, aber der Weg lohnt sich wegen der Felsenkapellen.",
+          "Achten Sie auf die kleinen Details der 'Wege zur Kunst' in der ganzen Stadt."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "A Salvatorhoz vezető út meredek, de a sziklakápolnák miatt megéri a fáradságot.",
+          "Figyelje a 'Művészet útjai' apró részleteit városszerte."
+        ],
+        "ro": [
+          "Orașul vechi este compact și poate fi explorat excelent pe jos.",
+          "Urcarea la Salvator este abruptă, dar drumul merită pentru capelele rupestre.",
+          "Fiți atenți la micile detalii ale proiectului 'Căile Artei' în tot orașul."
+        ],
+        "en": [
+          "The old town is very compact and best explored on foot.",
+          "The climb to Salvator is steep, but the path is worth it for the rock chapels.",
+          "Look out for the small details of the 'Ways to Art' project throughout the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.7972,
+            48.8001
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Kiindulópont a város szívében.",
+            "ro": "Punct de plecare în inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Wege zur Kunst",
+            "hu": "Művészetek útja",
+            "ro": "Căile Artei",
+            "en": "Ways to Art"
+          },
+          "coords": [
+            9.8051,
+            48.8032
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Skulpturenpfad entlang der Rems.",
+            "hu": "Szoborpark a Rems folyó mentén.",
+            "ro": "Traseu de sculpturi de-a lungul râului Rems.",
+            "en": "Sculpture trail along the Rems river."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Münster",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfintei Cruci",
+            "en": "Holy Cross Minster"
+          },
+          "coords": [
+            9.7994,
+            48.8005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einzigartige Gotik ohne Türme.",
+            "hu": "Egyedülálló gótika tornyok nélkül.",
+            "ro": "Gotic unic fără turnuri.",
+            "en": "Unique Gothic architecture without towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            9.7961,
+            48.7992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bedeutende romanische Pfeilerbasilika.",
+            "hu": "Jelentős román stílusú bazilika.",
+            "ro": "Bazilică romanică importantă.",
+            "en": "Significant Romanesque pillar basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause Stadtgarten",
+            "hu": "Ebéd a Városkertnél",
+            "ro": "Prânz la Grădina Orașului",
+            "en": "Lunch at City Garden"
+          },
+          "coords": [
+            9.7941,
+            48.8035
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspanntes Essen im Grünen.",
+            "hu": "Pihentető étkezés a zöldben.",
+            "ro": "Masă relaxantă în natură.",
+            "en": "Relaxing meal in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Rokokoschlößchen",
+            "hu": "Rokokó kastélyka",
+            "ro": "Castelul Rococo",
+            "en": "Rococo Palace"
+          },
+          "coords": [
+            9.7935,
+            48.8042
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Barockes Kleinod im Park.",
+            "hu": "Barokk ékszerdoboz a parkban.",
+            "ro": "Giuvaier baroc în parc.",
+            "en": "Baroque gem in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Fünfknopfturm",
+            "hu": "Ötgombos-torony",
+            "ro": "Turnul cu cinci butoane",
+            "en": "Five Button Tower"
+          },
+          "coords": [
+            9.7942,
+            48.8015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadtmauer.",
+            "hu": "A városfal jelképe.",
+            "ro": "Simbol al zidului orașului.",
+            "en": "Symbol of the city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Salvator",
+            "hu": "Salvator",
+            "ro": "Salvator",
+            "en": "Salvator"
+          },
+          "coords": [
+            9.7895,
+            48.8021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Steiler Radweg, tolle Belohnung.",
+            "hu": "Meredek út, pazar jutalom.",
+            "ro": "Traseu abrupt, recompensă pe măsură.",
+            "en": "Steep bike path, great reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Schwäbisch Gmünd aktiv mit dem Fahrrad. Starten Sie im Zentrum und folgen Sie dem Skulpturenpfad 'Wege zur Kunst' entlang der Rems. Besuchen Sie die architektonischen Schätze der Altstadt und gönnen Sie sich eine Pause im Stadtgarten beim Rokokokoschlößchen. Die Route führt Sie durch Parks und historische Straßen, bevor Sie den anspruchsvollen, aber lohnenswerten Weg zum Salvator-Felsen antreten.",
+        "hu": "Fedezze fel Schwäbisch Gmündöt aktívan, kerékpárral. Kezdjen a központban, majd kövesse a 'Művészetek útja' szoborparkot a Rems folyó mentén. Látogassa meg az óváros építészeti kincseit, és tartson szünetet a Városkertben a Rokokó kastélykánál. Az útvonal parkokon és történelmi utcákon vezet keresztül, mielőtt nekivágna a Salvator-sziklához vezető kihívást jelentő, de megérős emelkedőnek.",
+        "ro": "Explorați Schwäbisch Gmünd într-un mod activ, cu bicicleta. Începeți în centru și urmați traseul de sculpturi 'Căile Artei' de-a lungul râului Rems. Vizitați comorile arhitecturale ale orașului vechi și luați o pauză în Grădina Orașului, lângă Castelul Rococo. Traseul vă poartă prin parcuri și străzi istorice înainte de a aborda drumul solicitant, dar plin de satisfacții, către stânca Salvator.",
+        "en": "Explore Schwäbisch Gmünd actively by bike. Start in the center and follow the 'Ways to Art' sculpture trail along the Rems river. Visit the architectural gems of the old town and take a break in the City Garden near the Rococo Palace. The route leads through parks and historic streets before taking on the challenging but rewarding climb to the Salvator rock."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Linsen mit Spätzle",
+            "tip": "Schwäbisches Nationalgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lencse Spätzle-vel",
+            "tip": "Sváb nemzeti étel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Linte cu Spätzle",
+            "tip": "Mâncare națională șvăbească."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lentils with Spätzle",
+            "tip": "Swabian national dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Remsufer",
+            "tip": "Ruhiger Weg am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rems-part",
+            "tip": "Csendes út a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Rems",
+            "tip": "Drum liniștit pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rems riverbank",
+            "tip": "Quiet path along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silberwaren-Manufakturen",
+            "tip": "Traditionelles Gmünder Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ezüstműves manufaktúrák",
+            "tip": "Hagyományos gmündi kézművesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manufacturi de argintărie",
+            "tip": "Meșteșug tradițional din Gmünd."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silverware manufactories",
+            "tip": "Traditional Gmünd craftsmanship."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgebauten Radwege entlang der Rems.",
+          "Schließen Sie Ihr Rad in der Altstadt gut ab.",
+          "Der Salvator-Weg erfordert gute Kondition oder ein E-Bike."
+        ],
+        "hu": [
+          "Használja a Rems menti jól kiépített kerékpárutakat.",
+          "Zárja le jól a biciklijét az óvárosban.",
+          "A Salvatorhoz vezető út jó kondíciót vagy e-bike-ot igényel."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine amenajate de-a lungul râului Rems.",
+          "Asigurați-vă bine bicicleta în orașul vechi.",
+          "Drumul spre Salvator necesită o condiție fizică bună sau o bicicletă electrică."
+        ],
+        "en": [
+          "Use the well-developed bike paths along the Rems.",
+          "Lock your bike securely in the old town.",
+          "The Salvator path requires good fitness or an e-bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Parkhaus)",
+            "hu": "Főtér (Parkolóház)",
+            "ro": "Piața Centrală (Parcare)",
+            "en": "Market Square (Parking)"
+          },
+          "coords": [
+            9.7972,
+            48.8001
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für den Cluster Altstadt.",
+            "hu": "Központi parkoló az óvárosi részhez.",
+            "ro": "Parcare centrală pentru zona orașului vechi.",
+            "en": "Central parking for the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Münster",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfintei Cruci",
+            "en": "Holy Cross Minster"
+          },
+          "coords": [
+            9.7994,
+            48.8005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Marktplatz.",
+            "hu": "Gyalogosan elérhető a főtérről.",
+            "ro": "Accesibil pe jos din piața centrală.",
+            "en": "Walkable from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Johanniskirche",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sfântul Ioan",
+            "en": "St. John's Church"
+          },
+          "coords": [
+            9.7961,
+            48.7992
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die Gassen.",
+            "hu": "Rövid séta a szűk utcákon át.",
+            "ro": "O scurtă plimbare prin străduțe.",
+            "en": "A short walk through the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen Marktplatz",
+            "hu": "Ebéd a főtéren",
+            "ro": "Prânz în piața centrală",
+            "en": "Lunch Market Square"
+          },
+          "coords": [
+            9.7975,
+            48.8003
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie regionale Spezialitäten.",
+            "hu": "Élvezze a regionális különlegességeket.",
+            "ro": "Savurați specialități regionale.",
+            "en": "Enjoy regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten (Fahrt zum Cluster)",
+            "hu": "Városkert (autós áthajtás)",
+            "ro": "Grădina Orașului (deplasare auto)",
+            "en": "City Garden (Drive to cluster)"
+          },
+          "coords": [
+            9.7935,
+            48.8042
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken am Stadtgarten.",
+            "hu": "Parkolás a Városkertnél.",
+            "ro": "Parcare la Grădina Orașului.",
+            "en": "Parking at the City Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Rokokoschlößchen",
+            "hu": "Rokokó kastélyka",
+            "ro": "Castelul Rococo",
+            "en": "Rococo Palace"
+          },
+          "coords": [
+            9.7936,
+            48.8043
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gleich neben dem Parkplatz.",
+            "hu": "Közvetlenül a parkoló mellett.",
+            "ro": "Chiar lângă parcare.",
+            "en": "Right next to the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Salvator Parkplatz",
+            "hu": "Salvator parkoló",
+            "ro": "Parcare Salvator",
+            "en": "Salvator Parking"
+          },
+          "coords": [
+            9.7895,
+            48.8021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt den Berg hinauf.",
+            "hu": "Rövid autóút fel a hegyre.",
+            "ro": "Scurtă deplasare cu mașina pe munte.",
+            "en": "Short drive up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Wege zur Kunst (Abschluss)",
+            "hu": "Művészetek útja (zárás)",
+            "ro": "Căile Artei (final)",
+            "en": "Ways to Art (Closing)"
+          },
+          "coords": [
+            9.8051,
+            48.8032
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fotostopp an den Skulpturen.",
+            "hu": "Fotómegálló a szobroknál.",
+            "ro": "Oprire pentru fotografii la sculpturi.",
+            "en": "Photo stop at the sculptures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Auto-Tour kombiniert die historischen Schätze der Gmünder Altstadt mit den etwas außerhalb gelegenen Highlights. Parken Sie zentral, um Münster und Marktplatz zu Fuß zu erkunden. Danach fahren Sie zum Stadtgarten und dem Rokokokoschlößchen, einem barocken Kleinod. Den spektakulärsten Blick genießen Sie nach einer kurzen Fahrt zum Salvator, einer einzigartigen Wallfahrtsstätte direkt am Hang.",
+        "hu": "Ez az autós túra ötvözi a gmündi óváros történelmi kincseit a kijebb eső látnivalókkal. Parkoljon le a központban, hogy gyalog fedezze fel a Münstert és a főteret. Ezután hajtson a Városkerthez és a Rokokó kastélykához, amely egy barokk ékkő. A leglátványosabb kilátást a Salvatorhoz vezető rövid autóút után élvezheti, amely egy egyedülálló zarándokhely közvetlenül a hegyoldalban.",
+        "ro": "Acest tur cu mașina combină comorile istorice ale orașului vechi din Gmünd cu punctele de atracție situate în exterior. Parcați central pentru a explora pe jos Catedrala și piața centrală. Apoi, conduceți către Grădina Orașului și Castelul Rococo, o bijuterie barocă. Bucurați-vă de cea mai spectaculoasă vedere după o scurtă deplasare la Salvator, un loc de pelerinaj unic, situat direct pe versant.",
+        "en": "This car tour combines the historic treasures of Gmünd's old town with highlights located slightly further out. Park centrally to explore the Minster and Market Square on foot. Then, drive to the City Garden and the Rococo Palace, a Baroque gem. Enjoy the most spectacular views after a short drive to the Salvator, a unique pilgrimage site situated right on the slope."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maultaschen-Spezialitäten",
+            "tip": "In verschiedenen Variationen erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maultaschen különlegességek",
+            "tip": "Különféle változatokban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități Maultaschen",
+            "tip": "Disponibile în diverse variante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maultaschen specialties",
+            "tip": "Available in various versions."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salvator-Aussicht",
+            "tip": "Blick über das Remstal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salvator-kilátó",
+            "tip": "Kilátás a Rems-völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la Salvator",
+            "tip": "Privire peste valea râului Rems.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salvator View",
+            "tip": "View over the Rems valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schmuckateliers",
+            "tip": "Exklusive Gmünder Designs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ékszerműhelyek",
+            "tip": "Exkluzív gmündi dizájnok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de bijuterii",
+            "tip": "Designuri exclusive din Gmünd."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jewelry ateliers",
+            "tip": "Exclusive Gmünd designs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkhäuser 'Marktplatz' oder 'Stadtgarten'.",
+          "Kombinieren Sie Fahrten zwischen den Clustern.",
+          "Am Wochenende ist die Parksituation in der Innenstadt angespannt."
+        ],
+        "hu": [
+          "Használja a 'Marktplatz' vagy 'Stadtgarten' parkolóházakat.",
+          "Csoportosítsa az úti célokat cluster-ekbe.",
+          "Hétvégén nehezebb parkolót találni a belvárosban."
+        ],
+        "ro": [
+          "Folosiți parcările 'Marktplatz' sau 'Stadtgarten'.",
+          "Combinați deplasările între clustere.",
+          "În weekend, situația parcărilor în centrul orașului este dificilă."
+        ],
+        "en": [
+          "Use the 'Marktplatz' or 'Stadtgarten' parking garages.",
+          "Combine drives between clusters.",
+          "Parking in the city center can be tight on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Schwäbisch Gmünd",
+            "hu": "Schwäbisch Gmünd vasútállomás",
+            "ro": "Gara Schwäbisch Gmünd",
+            "en": "Schwäbisch Gmünd Station"
+          },
+          "coords": [
+            9.7942,
+            48.8055
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt mit gutem Busanschluss.",
+            "hu": "Érkezési pont jó buszos összeköttetéssel.",
+            "ro": "Punct de sosire cu conexiuni bune de autobuz.",
+            "en": "Arrival point with good bus connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Főtér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.7972,
+            48.8001
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder Spaziergang ins Zentrum.",
+            "hu": "Rövid buszút vagy séta a központba.",
+            "ro": "Scurtă călătorie cu autobuzul sau plimbare până în centru.",
+            "en": "Short bus ride or walk to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Münster",
+            "hu": "Szent Kereszt-székesegyház",
+            "ro": "Catedrala Sfintei Cruci",
+            "en": "Holy Cross Minster"
+          },
+          "coords": [
+            9.7994,
+            48.8005
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Marktplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a főtérről.",
+            "ro": "Accesibil pe jos din piața centrală.",
+            "en": "Walkable from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch Old Town"
+          },
+          "coords": [
+            9.7968,
+            48.8002
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vielzahl an Restaurants in Laufnähe.",
+            "hu": "Számos étterem sétatávolságra.",
+            "ro": "Numeroase restaurante la distanță de mers pe jos.",
+            "en": "Variety of restaurants within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtgarten",
+            "hu": "Városkert",
+            "ro": "Grădina Orașului",
+            "en": "City Garden"
+          },
+          "coords": [
+            9.7935,
+            48.8042
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Stadtbus bequem zum Park.",
+            "hu": "Városi busszal kényelmesen a parkhoz.",
+            "ro": "Cu autobuzul urban ajungeți ușor la parc.",
+            "en": "Easy access to the park via city bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Fünfknopfturm",
+            "hu": "Ötgombos-torony",
+            "ro": "Turnul cu cinci butoane",
+            "en": "Five Button Tower"
+          },
+          "coords": [
+            9.7942,
+            48.8015
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wahrzeichen in Gehdistanz zum Stadtgarten.",
+            "hu": "Jellegzetes torony sétatávolságra a parktól.",
+            "ro": "Simbol la distanță de mers pe jos de Grădina Orașului.",
+            "en": "Landmark within walking distance of the City Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Salvator",
+            "hu": "Salvator",
+            "ro": "Salvator",
+            "en": "Salvator"
+          },
+          "coords": [
+            9.7895,
+            48.8021
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bus bis Fuß des Berges, dann kurzer Aufstieg.",
+            "hu": "Busz a hegy lábáig, majd rövid séta fel.",
+            "ro": "Autobuz până la baza muntelui, apoi scurtă urcare.",
+            "en": "Bus to the foot of the hill, then a short climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Stadtbusnetzes lässt sich Schwäbisch Gmünd entspannt ohne Auto erkunden. Vom Bahnhof gelangen Sie schnell ins historische Zentrum. Nach der Besichtigung der Sakralbauten bringt Sie der Bus zum weitläufigen Stadtgarten. Der Höhepunkt ist der Besuch des Salvator am Stadtrand, den Sie bequem mit einer Kombination aus Busfahrt und einem kurzen, idyllischen Fußweg erreichen.",
+        "hu": "A jól kiépített városi autóbuszhálózatnak köszönhetően Schwäbisch Gmünd kényelmesen, autó nélkül is felfedezhető. A vasútállomástól gyorsan elérheti a történelmi központot. A szakrális épületek megtekintése után busz viszi a tágas Városkerthez. A látogatás csúcspontja a város szélén található Salvator, amelyet buszozás és egy rövid, idilli gyalogút kombinációjával érhet el.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze urbane, Schwäbisch Gmünd poate fi explorat relaxat fără mașină. De la gară ajungeți rapid în centrul istoric. După vizitarea edificiilor religioase, autobuzul vă duce la Grădina Orașului. Punctul culminant este vizita la Salvator, la marginea orașului, unde ajungeți confortabil combinând călătoria cu autobuzul cu o scurtă plimbare idilică.",
+        "en": "Thanks to the well-developed city bus network, Schwäbisch Gmünd can be explored in a relaxed way without a car. From the station, you can quickly reach the historic center. After visiting the religious buildings, the bus takes you to the extensive City Garden. The highlight is the visit to the Salvator on the outskirts, easily reached with a combination of a bus ride and a short, idyllic walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei-Snacks",
+            "tip": "Probieren Sie Laugengebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Péksütemények",
+            "tip": "Kóstolja meg a sváb sós perecet (Laugengebäck)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snack-uri de panificație",
+            "tip": "Încercați produsele de patiserie cu leșie (Laugengebäck)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Snacks",
+            "tip": "Try the traditional pretzels and lye rolls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Rokokokoschlößchen",
+            "tip": "Oase der Ruhe im Stadtgarten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rokokó kastély parkja",
+            "tip": "A béke szigete a Városkertben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă Castelul Rococo",
+            "tip": "Oază de liniște în Grădina Orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rococo Palace Park",
+            "tip": "Oasis of peace in the City Garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bocksgasse",
+            "tip": "Beliebte Einkaufsstraße in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bocksgasse",
+            "tip": "Népszerű bevásárlóutca az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bocksgasse",
+            "tip": "Stradă comercială populară în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bocksgasse",
+            "tip": "Popular shopping street in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Stadtbus.",
+          "Die Busse fahren regelmäßig ab dem ZOB am Bahnhof.",
+          "Achten Sie auf die Aushänge für die Linien zum Salvator."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a városi buszokra.",
+          "A buszok rendszeresen indulnak a vasútállomás melletti buszpályaudvarról.",
+          "Figyelje a menetrendet a Salvator felé közlekedő járatokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzul urban.",
+          "Autobuzele pleacă regulat de la autogara centrală de lângă gară.",
+          "Verificați afișele pentru liniile care merg spre Salvator."
+        ],
+        "en": [
+          "Buy a day ticket for the city bus.",
+          "Buses run regularly from the central bus station at the train station.",
+          "Check the schedules for lines going to the Salvator."
+        ]
+      }
+    }
+  }
+}

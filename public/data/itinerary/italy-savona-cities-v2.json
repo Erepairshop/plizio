@@ -1,0 +1,960 @@
+{
+  "city_id": "italy-savona-cities-v2",
+  "anchor": {
+    "name": "Savona Porto",
+    "coords": [
+      8.4842,
+      44.3093
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Torre Leon Pancaldo",
+          "coords": [
+            8.4858,
+            44.3108
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Savona direkt am Hafen.",
+            "hu": "Savona jelképe közvetlenül a kikötő bejáratánál.",
+            "ro": "Simbolul orașului Savona, situat chiar la intrarea în port.",
+            "en": "The symbol of Savona, located right at the harbor entrance."
+          }
+        },
+        {
+          "name": "Porto di Savona (Darsena)",
+          "coords": [
+            8.4872,
+            44.3095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Yachten in der Darsena.",
+            "hu": "Élvezze a jachtok látványát a Darsena negyedben.",
+            "ro": "Bucurați-vă de vederea iahturilor în zona Darsena.",
+            "en": "Enjoy the view of the yachts in the Darsena area."
+          }
+        },
+        {
+          "name": "Cattedrale dell'Assunta",
+          "coords": [
+            8.4818,
+            44.3103
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Barockausstattung.",
+            "hu": "Csodálja meg a pompás barokk belsőt.",
+            "ro": "Admirați interiorul baroc spectaculos.",
+            "en": "Admire the magnificent baroque interior."
+          }
+        },
+        {
+          "name": "Cappella Sistina",
+          "coords": [
+            8.4815,
+            44.3105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die einzige andere Sixtinische Kapelle außerhalb Roms.",
+            "hu": "Az egyetlen másik Sixtus-kápolna Rómán kívül.",
+            "ro": "Singura altă Capelă Sixtină în afara Romei.",
+            "en": "The only other Sistine Chapel outside of Rome."
+          }
+        },
+        {
+          "name": "Museo della Ceramica",
+          "coords": [
+            8.4822,
+            44.3112
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die berühmte Keramiktradition von Savona.",
+            "hu": "Fedezze fel Savona híres kerámia-hagyományait.",
+            "ro": "Descoperiți faimoasa tradiție a ceramicii din Savona.",
+            "en": "Discover the famous ceramic tradition of Savona."
+          }
+        },
+        {
+          "name": "Fortezza del Priamar",
+          "coords": [
+            8.4835,
+            44.3055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine riesige Festung mit Blick auf das Meer.",
+            "hu": "Hatalmas erődrendszer kilátással a tengerre.",
+            "ro": "O fortăreață imensă cu vedere la mare.",
+            "en": "A massive fortress with a view over the sea."
+          }
+        },
+        {
+          "name": "Teatro Gabriello Chiabrera",
+          "coords": [
+            8.4805,
+            44.3082
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eines der schönsten Opernhäuser Liguriens.",
+            "hu": "Liguria egyik legszebb operaháza.",
+            "ro": "Una dintre cele mai frumoase opere din Liguria.",
+            "en": "One of the most beautiful opera houses in Liguria."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Hafenbecken, bewacht vom majestätischen Turm Leon Pancaldo. Nach einem Spaziergang durch die Darsena tauchen Sie in das spirituelle Herz der Stadt ein, wo die Sixtinische Kapelle von Savona eine verborgene Kostbarkeit darstellt. Der Nachmittag gehört der Kunst und Verteidigungsgeschichte, gekrönt von der imposanten Priamar-Festung direkt über den Wellen.",
+        "hu": "A napot a történelmi kikötőben kezdjük a Leon Pancaldo toronynál. A modern jachtkikötő után Savona hívő szívébe látogatunk, ahol a Sixtus-kápolna helyi változata vár. Délután a kerámiaművészet remekeit nézzük meg, majd bejárjuk a Priamar erőd hatalmas falait, ahonnan páratlan kilátás nyílik a Ligur-tengerre.",
+        "ro": "Ziua începe în portul istoric, păzit de turnul Leon Pancaldo. După o plimbare prin Darsena, vizităm inima spirituală a orașului, unde se află singura Capelă Sixtină în afara Romei. După-amiaza este dedicată artei ceramice și istoriei militare, culminând cu explorarea fortăreței Priamar, care domină țărmul mării.",
+        "en": "Your day starts at the historic harbor, guarded by the Leon Pancaldo Tower. After a stroll through the Darsena, you will visit the city's spiritual heart, home to Savona's own Sistine Chapel. The afternoon is dedicated to fine ceramics and military history, concluding with the massive Priamar Fortress overlooking the waves."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Farinata di Savona",
+            "tip": "Probieren Sie diese Spezialität aus Kichererbsenmehl, besonders gut in der Via Pia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Farinata di Savona",
+            "tip": "Kóstolja meg a híres csicseriborsó-lepényt a Via Pia környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farinata di Savona",
+            "tip": "Gustați specialitatea din făină de năut, excelentă în zona Via Pia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farinata di Savona",
+            "tip": "Try this chickpea flour specialty, best found in the Via Pia area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini del Priamar",
+            "tip": "Ruhige Gärten innerhalb der Festungsmauern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Priamar kertjei",
+            "tip": "Csendes kertek az erőd falain belül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Priamar",
+            "tip": "Grădini liniștite în interiorul zidurilor cetății.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Priamar Gardens",
+            "tip": "Quiet gardens located inside the fortress walls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Keramik-Ateliers",
+            "tip": "Kaufen Sie handbemalte Keramik im 'Weiß-Blau'-Stil von Savona."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia műhelyek",
+            "tip": "Vásároljon kézzel festett kék-fehér savonai kerámiát a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliere de ceramică",
+            "tip": "Cumpărați ceramică pictată manual în stilul alb-albastru de Savona."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ceramic Workshops",
+            "tip": "Buy hand-painted ceramics in Savona's traditional white-and-blue style."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich am besten zu Fuß erkunden.",
+          "Die Sixtinische Kapelle hat begrenzte Öffnungszeiten, prüfen Sie diese vorab.",
+          "In der Darsena gibt es viele gute Fischrestaurants für die Mittagspause."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "A Sixtus-kápolna nyitvatartása korlátozott, érdemes előre ellenőrizni.",
+          "A Darsena negyedben számos kiváló halétterem várja az ebédidőben."
+        ],
+        "ro": [
+          "Centrul vechi este compact și se explorează cel mai bine la pas.",
+          "Capela Sixtină are program limitat, verificați orele înainte de vizită.",
+          "Zona Darsena oferă multe restaurante pescărești bune pentru prânz."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "The Sistine Chapel has limited opening hours, check before visiting.",
+          "The Darsena area has many great seafood restaurants for lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porto di Savona (Darsena)",
+          "coords": [
+            8.4872,
+            44.3095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am belebten Jachthafen.",
+            "hu": "Kezdje a túrát a pezsgő jachtkikötőben.",
+            "ro": "Începeți turul în portul de agrement plin de viață.",
+            "en": "Start your tour at the lively marina."
+          }
+        },
+        {
+          "name": "Torre Leon Pancaldo",
+          "coords": [
+            8.4858,
+            44.3108
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp am Wahrzeichen der Stadt.",
+            "hu": "Rövid megálló a város jelképénél.",
+            "ro": "O scurtă oprire la simbolul orașului.",
+            "en": "A quick stop at the city's landmark."
+          }
+        },
+        {
+          "name": "Chiesa di San Giovanni Battista",
+          "coords": [
+            8.4802,
+            44.3115
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine elegante Kirche in der Nähe der Einkaufsstraßen.",
+            "hu": "Elegáns templom a bevásárlóutcák közelében.",
+            "ro": "O biserică elegantă lângă străzile comerciale.",
+            "en": "An elegant church near the shopping streets."
+          }
+        },
+        {
+          "name": "Fortezza del Priamar",
+          "coords": [
+            8.4835,
+            44.3055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie die Fahrräder am Eingang ab und erkunden Sie die Festung.",
+            "hu": "Hagyja a bringákat a bejáratnál, és járja be az erődöt.",
+            "ro": "Lăsați bicicletele la intrare și explorați fortăreața.",
+            "en": "Leave your bikes at the entrance and explore the fortress."
+          }
+        },
+        {
+          "name": "Monumento ai Caduti",
+          "coords": [
+            8.4785,
+            44.3052
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzes Innehalten an diesem geschichtsträchtigen Ort.",
+            "hu": "Rövid emlékezés ezen a történelmi helyszínen.",
+            "ro": "Un scurt moment de reculegere în acest loc istoric.",
+            "en": "A brief moment of reflection at this historical site."
+          }
+        },
+        {
+          "name": "Pinacoteca Civica",
+          "coords": [
+            8.4825,
+            44.3115
+          ],
+          "category": "museums",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wichtige Kunstwerke in einem historischen Palast.",
+            "hu": "Fontos műalkotások egy történelmi palotában.",
+            "ro": "Opere de artă importante într-un palat istoric.",
+            "en": "Important artworks housed in a historical palace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Savona auf zwei Rädern. Vom Jachthafen aus radeln Sie entlang der Küste und durch die Gassen der Altstadt. Die Route verbindet religiöse Stätten mit der monumentalen Priamar-Festung. Der Nachmittag endet kulturell in der städtischen Pinakothek, nachdem Sie die Meeresbrise und das urbane Flair genossen haben.",
+        "hu": "Fedezze fel Savonát két keréken. A jachtkikötőtől indulva a tengerpart mentén és az óváros szűk utcáin tekerünk. Az útvonal érinti a legszebb templomokat és a monumentális Priamar erődöt is. A délután kulturális élményekkel zárul a városi képtárban, miután kiélveztük a tengeri szellőt és a városi hangulatot.",
+        "ro": "Explorați Savona pe două roți. Plecând din port, pedalați de-a lungul coastei și prin străduțele centrului istoric. Traseul conectează lăcașuri de cult cu monumentala fortăreață Priamar. După-amiaza se încheie cultural la Pinacoteca Civică, după ce v-ați bucurat de briza mării și atmosfera urbană.",
+        "en": "Explore Savona on two wheels. Starting from the marina, cycle along the coast and through the narrow streets of the old town. The route connects religious sites with the monumental Priamar Fortress. The afternoon ends with a cultural visit to the Civic Art Gallery, after enjoying the sea breeze and urban flair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panissa Fritta",
+            "tip": "Ein herzhafter Snack aus Kichererbsen, ideal zum Mitnehmen beim Radeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panissa Fritta",
+            "tip": "Kiadós csicseriborsó-falatkák, ideális nasi kerékpározás közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panissa Fritta",
+            "tip": "O gustare sățioasă din năut, ideală de luat la pachet în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panissa Fritta",
+            "tip": "A hearty chickpea snack, perfect for a quick bite while cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Savona",
+            "tip": "Radeln Sie ein Stück Richtung Westen für ruhigere Strandabschnitte.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savona strandjai",
+            "tip": "Tekerjen kicsit nyugat felé a csendesebb tengerparti szakaszokért.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja din Savona",
+            "tip": "Pedalați puțin spre vest pentru porțiuni de plajă mai liniștite.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Savona Beach",
+            "tip": "Cycle a bit further west for quieter stretches of beach.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Italia",
+            "tip": "Die Haupteinkaufsstraße mit vielen italienischen Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Italia",
+            "tip": "A fő bevásárlóutca számos olasz márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Italia",
+            "tip": "Principala stradă comercială cu multe mărci italiene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Italia",
+            "tip": "The main shopping street with many Italian brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt einige Fahrradwege entlang der Promenade.",
+          "Schließen Sie Ihr Fahrrad in der Nähe der Festung sicher ab.",
+          "Die Via Paleocapa ist eine breite Arkadenstraße, ideal zum Flanieren."
+        ],
+        "hu": [
+          "A sétány mentén több szakaszon van kerékpárút.",
+          "Az erőd környékén figyeljen a biztonságos lezárásra.",
+          "A Via Paleocapa széles, árkádos utca, kiváló a nézelődésre."
+        ],
+        "ro": [
+          "Există piste de biciclete de-a lungul falezei.",
+          "Asigurați-vă bine bicicleta în apropierea fortăreței.",
+          "Via Paleocapa este o stradă largă cu arcade, ideală pentru plimbare."
+        ],
+        "en": [
+          "There are several bike paths along the promenade.",
+          "Make sure to lock your bike securely near the fortress.",
+          "Via Paleocapa is a wide arcaded street, ideal for cruising."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Porto di Savona (Darsena)",
+          "coords": [
+            8.4872,
+            44.3095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Darsena-Parkhaus (Cluster A).",
+            "hu": "Parkoljon a Darsena parkolóházban (A klaszter).",
+            "ro": "Parcați în parcarea Darsena (Cluster A).",
+            "en": "Park at the Darsena parking garage (Cluster A)."
+          }
+        },
+        {
+          "name": "Torre Leon Pancaldo",
+          "coords": [
+            8.4858,
+            44.3108
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking area."
+          }
+        },
+        {
+          "name": "Cattedrale dell'Assunta",
+          "coords": [
+            8.4818,
+            44.3103
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Zentrum von Savona (Cluster B).",
+            "hu": "Savona központja (B klaszter).",
+            "ro": "Centrul orașului Savona (Cluster B).",
+            "en": "Savona city center (Cluster B)."
+          }
+        },
+        {
+          "name": "Cappella Sistina",
+          "coords": [
+            8.4815,
+            44.3105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale.",
+            "hu": "Közvetlenül a székesegyház mellett.",
+            "ro": "Chiar lângă catedrală.",
+            "en": "Right next to the cathedral."
+          }
+        },
+        {
+          "name": "Museo della Ceramica",
+          "coords": [
+            8.4822,
+            44.3112
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Kulturliebhaber.",
+            "hu": "Kulturális alapvetés Savonában.",
+            "ro": "O vizită obligatorie pentru iubitorii de cultură.",
+            "en": "A must-visit for culture lovers."
+          }
+        },
+        {
+          "name": "Fortezza del Priamar",
+          "coords": [
+            8.4835,
+            44.3055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Priamar-Parkplatz (Cluster C).",
+            "hu": "Rövid autózás a Priamar parkolóhoz (C klaszter).",
+            "ro": "Scurtă deplasare auto până la parcarea Priamar (Cluster C).",
+            "en": "Short drive to the Priamar parking area (Cluster C)."
+          }
+        },
+        {
+          "name": "Albissola Marina (Bonus)",
+          "coords": [
+            8.5042,
+            44.3275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Berühmte Künstlerpromenade im Nachbarort.",
+            "hu": "Híres művész-sétány a szomszédos faluban.",
+            "ro": "Faimoasa faleză a artiștilor din localitatea vecină.",
+            "en": "Famous artists' promenade in the neighboring village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt das Cluster-Prinzip: Wir parken an den strategischen Punkten Darsena, Zentrum und Priamar, um die Highlights zu Fuß zu erkunden. Als Bonus fahren wir ins benachbarte Albissola Marina, um die berühmte 'Lungomare degli Artisti' zu sehen – eine bunte Promenade voller Mosaike und Skulpturen.",
+        "hu": "Ez az autós túra klaszterekre épül: a Darsena, a központ és a Priamar környékén parkolunk, majd gyalog fedezzük fel a látnivalókat. Plusz programként átugrunk a szomszédos Albissola Marinába, hogy megcsodáljuk a híres 'Művészek sétányát', amely egyedülálló mozaikjaival várja a látogatókat.",
+        "ro": "Acest tur auto folosește principiul clusterelor: parcăm în punctele strategice Darsena, Centru și Priamar pentru a explora atracțiile pe jos. Ca bonus, mergem în localitatea vecină Albissola Marina pentru a vedea faimoasa 'Lungomare degli Artisti' – o faleză colorată plină de mozaicuri și sculpturi.",
+        "en": "This car tour uses the cluster principle: we park at strategic points in Darsena, the center, and Priamar to explore highlights on foot. As a bonus, we drive to nearby Albissola Marina to see the famous 'Artists' Promenade' – a colorful seafront full of mosaics and sculptures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Bino",
+            "tip": "Moderne ligurische Küche im Keramikmuseum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante Bino",
+            "tip": "Modern ligur konyha a kerámia múzeum épületében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante Bino",
+            "tip": "Bucătărie ligurică modernă în incinta muzeului de ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante Bino",
+            "tip": "Modern Ligurian cuisine located inside the ceramics museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle der Madonna del Monte",
+            "tip": "Fahren Sie auf den Hügel für die beste Aussicht auf Savona.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madonna del Monte kápolna",
+            "tip": "Hajtson fel a dombra a legjobb Savona-kilátásért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Madonna del Monte",
+            "tip": "Urcați cu mașina pe deal pentru cea mai bună vedere asupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Madonna del Monte Chapel",
+            "tip": "Drive up the hill for the best panoramic view of Savona.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Commerciale Il Gabbiano",
+            "tip": "Großes Einkaufszentrum mit bequemen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Il Gabbiano bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont kényelmes parkolási lehetőséggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Il Gabbiano",
+            "tip": "Centru comercial mare cu parcare convenabilă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Il Gabbiano Shopping Center",
+            "tip": "Large shopping mall with convenient parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der blauen Zone ist gebührenpflichtig.",
+          "Die Fahrt nach Albissola dauert nur 10 Minuten über die Küstenstraße.",
+          "Vermeiden Sie die Rushhour im Hafenbereich."
+        ],
+        "hu": [
+          "A kék zónában a parkolás fizetős.",
+          "Albissola mindössze 10 perc autóval a tengerparti úton.",
+          "Kerülje a csúcsforgalmat a kikötő környékén."
+        ],
+        "ro": [
+          "Parcarea în zona albastră este cu plată.",
+          "Drumul spre Albissola durează doar 10 minute pe șoseaua de coastă.",
+          "Evitați orele de vârf în zona portului."
+        ],
+        "en": [
+          "Parking in the blue zone requires payment.",
+          "The drive to Albissola takes only 10 minutes via the coastal road.",
+          "Avoid rush hour in the harbor area."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Torre Leon Pancaldo",
+          "coords": [
+            8.4858,
+            44.3108
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Savona mit dem Bus (Linie 7) zum Hafen.",
+            "hu": "A vasútállomástól a 7-es busszal a kikötőig.",
+            "ro": "De la gară cu autobuzul 7 până în port.",
+            "en": "From the station, take bus 7 to the harbor."
+          }
+        },
+        {
+          "name": "Porto di Savona (Darsena)",
+          "coords": [
+            8.4872,
+            44.3095
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang entlang der Kaianlagen.",
+            "hu": "Rövid séta a rakpart mentén.",
+            "ro": "O scurtă plimbare pe lângă chei.",
+            "en": "A short walk along the quayside."
+          }
+        },
+        {
+          "name": "Cattedrale dell'Assunta",
+          "coords": [
+            8.4818,
+            44.3103
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß durch die historischen Gassen.",
+            "hu": "Gyalogosan a történelmi utcákon keresztül.",
+            "ro": "Pe jos prin străduțele istorice.",
+            "en": "On foot through the historical alleys."
+          }
+        },
+        {
+          "name": "Museo della Ceramica",
+          "coords": [
+            8.4822,
+            44.3112
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In unmittelbarer Nähe der Kathedrale.",
+            "hu": "A katedrális közvetlen szomszédságában.",
+            "ro": "În imediata apropiere a catedralei.",
+            "en": "In the immediate vicinity of the cathedral."
+          }
+        },
+        {
+          "name": "Fortezza del Priamar",
+          "coords": [
+            8.4835,
+            44.3055
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück Richtung Priamar.",
+            "hu": "Busszal vissza a Priamar irányába.",
+            "ro": "Cu autobuzul înapoi spre Priamar.",
+            "en": "By bus back towards Priamar."
+          }
+        },
+        {
+          "name": "Teatro Gabriello Chiabrera",
+          "coords": [
+            8.4805,
+            44.3082
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss in der Nähe der Bushaltestellen.",
+            "hu": "Szép zárás a buszmegállók közelében.",
+            "ro": "Un final frumos aproape de stațiile de autobuz.",
+            "en": "A lovely conclusion near the bus stops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem Savonas, um vom Bahnhof direkt zum historischen Hafen zu gelangen. Diese Tour kombiniert kurze Transit-Strecken mit ausgiebigen Fußwegen durch das kulturelle Zentrum. Sie sehen die wichtigsten Monumente und Museen, ohne sich um die Parkplatzsuche kümmern zu müssen.",
+        "hu": "Használja Savona hatékony buszhálózatát, hogy az állomástól közvetlenül a történelmi kikötőbe jusson. Ez a túra rövid buszos szakaszokat ötvöz alapos belvárosi sétákkal. Megnézzük a legfontosabb műemlékeket és múzeumokat anélkül, hogy a parkolás miatt kellene aggódni.",
+        "ro": "Folosiți sistemul eficient de autobuze din Savona pentru a ajunge de la gară direct în portul istoric. Acest tur combină segmente scurte de transport public cu plimbări lungi prin centrul cultural. Veți vedea cele mai importante monumente și muzee fără grija parcării.",
+        "en": "Use Savona's efficient bus system to get from the station directly to the historic harbor. This tour combines short transit hops with extensive walking through the cultural center. You will see the main monuments and museums without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chinotto di Savona",
+            "tip": "Probieren Sie das berühmte lokale Erfrischungsgetränk aus Bitterorangen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chinotto di Savona",
+            "tip": "Kóstolja meg a híres helyi keserűnarancs-üdítőt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chinotto di Savona",
+            "tip": "Gustați faimoasa băutură locală răcoritoare din portocale amare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chinotto di Savona",
+            "tip": "Try the famous local soft drink made from bitter oranges."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Piazza del Brandale",
+            "tip": "Ein charmanter kleiner Platz im Schatten der alten Türme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piazza del Brandale",
+            "tip": "Bájos kis tér a régi tornyok árnyékában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piazza del Brandale",
+            "tip": "O piațetă fermecătoare la umbra vechilor turnuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Piazza del Brandale",
+            "tip": "A charming small square in the shadow of the old towers.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Paleocapa",
+            "tip": "Ideal für Shopping unter den historischen Arkaden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Paleocapa",
+            "tip": "Ideális vásárláshoz a történelmi árkádok alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Paleocapa",
+            "tip": "Ideală pentru cumpărături sub arcadele istorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Paleocapa",
+            "tip": "Ideal for shopping under the historic arcades."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab in einem 'Tabaccheria'.",
+          "Die Linien 7, 7/ und 30 verbinden den Bahnhof mit dem Zentrum.",
+          "Achten Sie auf die Anzeigen im Bus für die Haltestelle 'Porto'."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre a dohányboltokban (Tabaccheria).",
+          "A 7-es, 7/ és 30-as járatok kötik össze az állomást a központtal.",
+          "Figyelje a busz kijelzőjén a 'Porto' megállót."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la 'Tabaccheria'.",
+          "Liniile 7, 7/ și 30 fac legătura între gară și centru.",
+          "Urmăriți afișajul din autobuz pentru stația 'Porto'."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a 'Tabaccheria'.",
+          "Lines 7, 7/, and 30 connect the station with the center.",
+          "Watch the bus displays for the 'Porto' stop."
+        ]
+      }
+    }
+  }
+}

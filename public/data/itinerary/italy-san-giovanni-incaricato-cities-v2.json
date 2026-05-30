@@ -1,0 +1,922 @@
+{
+  "city_id": "italy-san-giovanni-incaricato-cities-v2",
+  "anchor": {
+    "name": "San Giovanni Incarico",
+    "coords": [
+      13.56,
+      41.51
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza del Comune",
+          "coords": [
+            13.561,
+            41.511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso in einer der Bars am Platz.",
+            "hu": "Igyon meg egy eszpresszót a tér egyik bárjában.",
+            "ro": "Savurați un espresso la una dintre cafenelele din piață.",
+            "en": "Enjoy an espresso at one of the bars in the square."
+          }
+        },
+        {
+          "name": "Altstadtgassen",
+          "coords": [
+            13.562,
+            41.512
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die kleinen Steindetails an den Häuserwänden.",
+            "hu": "Figyelje meg a házfalak apró kőfaragásait.",
+            "ro": "Observați micile detalii din piatră de pe zidurile caselor.",
+            "en": "Look for the small stone details on the house walls."
+          }
+        },
+        {
+          "name": "Uhrturm",
+          "coords": [
+            13.563,
+            41.513
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Orientierungspunkt im historischen Zentrum.",
+            "hu": "Szép tájékozódási pont a történelmi központban.",
+            "ro": "Un punct de reper frumos în centrul istoric.",
+            "en": "A beautiful landmark in the historic center."
+          }
+        },
+        {
+          "name": "Kirche San Giovanni Battista",
+          "coords": [
+            13.564,
+            41.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das prächtige barocke Interieur.",
+            "hu": "Tekintse meg a pompás barokk belsőt.",
+            "ro": "Vizitați interiorul baroc magnific.",
+            "en": "Visit the magnificent Baroque interior."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            13.568,
+            41.518
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für ein Foto vom Flusslauf des Liri.",
+            "hu": "Ideális hely a Liri-folyó fotózásához.",
+            "ro": "Ideal pentru o fotografie a cursului râului Liri.",
+            "en": "Ideal for a photo of the Liri river course."
+          }
+        },
+        {
+          "name": "Lokales Mittagessen",
+          "coords": [
+            13.562,
+            41.511
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie die hausgemachte Pasta der Ciociaria.",
+            "hu": "Kóstolja meg a Ciociaria vidék házi tésztáit.",
+            "ro": "Încercați pastele de casă din Ciociaria.",
+            "en": "Try the homemade pasta of the Ciociaria region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt im Herzen von San Giovanni Incarico auf der Piazza del Comune. Von dort schlendern Sie durch die mittelalterlichen Gassen, vorbei am charakteristischen Uhrturm bis zur Hauptkirche des Ortes. Zum Abschluss genießen Sie die Aussicht von der Liri-Brücke, bevor Sie in einem lokalen Restaurant die authentische Küche der Region Ciociaria entdecken.",
+        "hu": "A délelőtt San Giovanni Incarico szívében, a Piazza del Comunén kezdődik. Innen a középkori utcákon keresztül sétálunk, elhaladva a jellegzetes óratorony mellett a főtemplomig. Végezetül élvezze a kilátást a Liri-hídról, majd fedezze fel a Ciociaria régió autentikus konyháját egy helyi étteremben.",
+        "ro": "Dimineața începe în inima orașului San Giovanni Incarico, în Piazza del Comune. De acolo, vă plimbați prin străzile medievale, trecând pe lângă turnul cu ceas caracteristic până la biserica principală a orașului. În încheiere, bucurați-vă de priveliștea de pe podul Liri, înainte de a descoperi bucătăria autentică a regiunii Ciociaria într-un restaurant local.",
+        "en": "The morning begins in the heart of San Giovanni Incarico at Piazza del Comune. From there, stroll through the medieval alleys, passing the characteristic clock tower to the town's main church. Finally, enjoy the view from the Liri Bridge before discovering the authentic cuisine of the Ciociaria region in a local restaurant."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Hausgemachte Eierteigwaren mit Fleischsauce."
+          },
+          {
+            "name": "Pecorino di San Giovanni",
+            "tip": "Würziger lokaler Schafskäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Házi tojásos tészta húsos raguval."
+          },
+          {
+            "name": "Pecorino di San Giovanni",
+            "tip": "Pikáns helyi juhsajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Paste cu ou de casă cu sos de carne."
+          },
+          {
+            "name": "Pecorino di San Giovanni",
+            "tip": "Brânză de oaie locală picantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fettuccine alla Ciociara",
+            "tip": "Homemade egg pasta with meat sauce."
+          },
+          {
+            "name": "Pecorino di San Giovanni",
+            "tip": "Spicy local sheep cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Giovanni Battista",
+            "tip": "Ein Ort der Stille und Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Giovanni Battista",
+            "tip": "A csend és az elmélyülés helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "San Giovanni Battista",
+            "tip": "Un loc de liniște și meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Giovanni Battista",
+            "tip": "A place of silence and reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bottega Locale",
+            "tip": "Olivenöl und Käse direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bottega Locale",
+            "tip": "Olívaolaj és sajt közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bottega Locale",
+            "tip": "Ulei de măsline și brânză direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bottega Locale",
+            "tip": "Olive oil and cheese directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die meisten kleinen Geschäfte machen Mittagspause zwischen 13 und 16 Uhr.",
+          "Fragen Sie in der Bar nach dem Schlüssel für den Turm, falls er geschlossen ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A kisboltok többsége 13 és 16 óra között zárva tart.",
+          "Ha a torony zárva van, kérdezze meg a kulcsot a közeli bárban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile cu piatră cubică.",
+          "Majoritatea magazinelor mici au pauză de prânz între orele 13 și 16.",
+          "Întrebați la bar despre cheia turnului dacă este închis."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Most small shops have a lunch break between 1 PM and 4 PM.",
+          "Ask at the bar for the key to the tower if it is closed."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza del Comune",
+          "coords": [
+            13.561,
+            41.511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit Überblick über die Stadtkarte.",
+            "hu": "Kiindulópont, ahol áttekinthetjük a várostérképet.",
+            "ro": "Punct de plecare cu o privire de ansamblu asupra hărții orașului.",
+            "en": "Starting point with an overview of the city map."
+          }
+        },
+        {
+          "name": "Uhrturm",
+          "coords": [
+            13.563,
+            41.513
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Panoramafotos.",
+            "hu": "Rövid megálló panorámafotókhoz.",
+            "ro": "Scurtă oprire pentru fotografii panoramice.",
+            "en": "Short stop for panoramic photos."
+          }
+        },
+        {
+          "name": "Heiligtum Madonna della Guardia",
+          "coords": [
+            13.575,
+            41.525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, der mit einer tollen Aussicht belohnt wird.",
+            "hu": "Meredek emelkedő, amelyet remek kilátás jutalmaz.",
+            "ro": "O urcare abruptă, răsplătită cu o priveliște minunată.",
+            "en": "A steep climb rewarded with a great view."
+          }
+        },
+        {
+          "name": "See von San Giovanni Incarico",
+          "coords": [
+            13.545,
+            41.495
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Picknickpause oder Entspannung am Ufer.",
+            "hu": "Piknikszünet vagy pihenés a parton.",
+            "ro": "Pauză de picnic sau relaxare pe mal.",
+            "en": "Picnic break or relaxation on the shore."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            13.568,
+            41.518
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Überquerung des Flusses auf dem Rückweg.",
+            "hu": "Átkelés a folyón a visszaúton.",
+            "ro": "Traversarea râului la întoarcere.",
+            "en": "Crossing the river on the way back."
+          }
+        },
+        {
+          "name": "Gastro-Stopp im Zentrum",
+          "coords": [
+            13.562,
+            41.511
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit regionalen Spezialitäten.",
+            "hu": "Frissüljön fel regionális specialitásokkal.",
+            "ro": "Reîncărcați-vă cu specialități regionale.",
+            "en": "Refresh yourself with regional specialties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert kulturelle Highlights mit Naturerlebnissen. Nach dem Start im Zentrum erklimmen Sie den Hügel zum Heiligtum Madonna della Guardia. Danach führt die Route hinunter zum malerischen Stausee, wo Sie die Ruhe am Wasser genießen können. Über die Liri-Brücke geht es zurück in den Ort für einen verdienten Mittagstisch.",
+        "hu": "Ez a kerékpártúra a kulturális látnivalókat ötvözi a természet élvezetével. A központból indulva feltekerünk a Madonna della Guardia szentélyhez. Ezután az út levezet a festői víztározóhoz, ahol élvezheti a vízparti nyugalmat. A Liri-hídon keresztül térünk vissza a városba egy megérdemelt ebédre.",
+        "ro": "Acest tur cu bicicleta combină atracțiile culturale cu experiențele în natură. După plecarea din centru, urcați dealul către sanctuarul Madonna della Guardia. Apoi, traseul coboară spre lacul de acumulare pitoresc, unde vă puteți bucura de liniștea de pe malul apei. Reveniți în oraș peste podul Liri pentru un prânz binemeritat.",
+        "en": "This bike tour combines cultural highlights with nature experiences. After starting in the center, climb the hill to the Sanctuary of Madonna della Guardia. Then the route leads down to the picturesque reservoir, where you can enjoy the peace by the water. Return to the town via the Liri Bridge for a well-deserved lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Abbacho scottadito",
+            "tip": "Gegrilltes Lammfleisch, eine Spezialität aus Latium."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbacho scottadito",
+            "tip": "Grillezett bárányhús, lazio-i specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Abbacho scottadito",
+            "tip": "Miel la grătar, o specialitate din Lazio."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbacho scottadito",
+            "tip": "Grilled lamb, a specialty from Lazio."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lago di San Giovanni Incarico",
+            "tip": "Vogelbeobachtung und Stille am See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lago di San Giovanni Incarico",
+            "tip": "Madármegfigyelés és csend a tónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lago di San Giovanni Incarico",
+            "tip": "Observarea păsărilor și liniște la lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lago di San Giovanni Incarico",
+            "tip": "Bird watching and silence at the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wochenmarkt",
+            "tip": "Frisches Obst und Gemüse aus dem Liri-Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi hetipiac",
+            "tip": "Friss gyümölcs és zöldség a Liri-völgyből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală locală",
+            "tip": "Fructe și legume proaspete din Valea Liri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local weekly market",
+            "tip": "Fresh fruit and vegetables from the Liri Valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Heiligtum.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten am See.",
+          "Ein Mountainbike oder Trekkingrad ist für die Uferwege ideal."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a szentélytől való leereszkedés előtt.",
+          "Vigyen magával elég vizet, a tónál kevés az árnyék.",
+          "A tóparti utakhoz hegyi vagy trekking kerékpár ideális."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de la sanctuar.",
+          "Luați suficientă apă, există puțină umbră la lac.",
+          "O bicicletă montană sau de trekking este ideală pentru potecile de pe mal."
+        ],
+        "en": [
+          "Check your brakes before descending from the sanctuary.",
+          "Take enough water with you, there is little shade at the lake.",
+          "A mountain bike or trekking bike is ideal for the lakeshore paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cluster A: Piazza & Uhrturm",
+          "coords": [
+            13.561,
+            41.511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande des Zentrums und erkunden Sie den Turm zu Fuß.",
+            "hu": "Parkoljon a központ szélén, és gyalog fedezze fel a tornyot.",
+            "ro": "Parcați la marginea centrului și explorați turnul pe jos.",
+            "en": "Park at the edge of the center and explore the tower on foot."
+          }
+        },
+        {
+          "name": "Cluster A: San Giovanni Battista",
+          "coords": [
+            13.564,
+            41.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Piazza aus.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": "Cluster B: See von San Giovanni",
+          "coords": [
+            13.545,
+            41.495
+          ],
+          "category": "natural features",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Seeufer verfügbar.",
+            "hu": "Parkoló közvetlenül a tóparton elérhető.",
+            "ro": "Parcare disponibilă direct pe malul lacului.",
+            "en": "Parking available directly on the lakeshore."
+          }
+        },
+        {
+          "name": "Cluster C: Fabrateria Nova",
+          "coords": [
+            13.535,
+            41.485
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausgrabungen der antiken römischen Stadt.",
+            "hu": "Látogassa meg az ókori római város ásatásait.",
+            "ro": "Vizitați săpăturile orașului roman antic.",
+            "en": "Visit the excavations of the ancient Roman city."
+          }
+        },
+        {
+          "name": "Mittagessen in der Umgebung",
+          "coords": [
+            13.55,
+            41.5
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein Agriturismo in der Nähe bietet frische lokale Produkte.",
+            "hu": "Egy közeli agriturismo friss helyi termékeket kínál.",
+            "ro": "Un agriturismo din apropiere oferă produse locale proaspete.",
+            "en": "A nearby agriturismo offers fresh local products."
+          }
+        },
+        {
+          "name": "Cluster D: Madonna della Guardia",
+          "coords": [
+            13.575,
+            41.525
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Die Auffahrt ist eng, aber mit dem Auto gut machbar.",
+            "hu": "Az út felfelé szűk, de autóval jól járható.",
+            "ro": "Drumul de urcare este îngust, dar accesibil cu mașina.",
+            "en": "The drive up is narrow but manageable by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie San Giovanni Incarico und seine weitere Umgebung mühelos. Beginnen Sie im historischen Zentrum, bevor Sie zum Stausee fahren. Ein Highlight ist der Besuch der antiken Stadt Fabrateria Nova. Nach einem ausgiebigen Mittagessen in einem Agriturismo endet der Tag am Heiligtum Madonna della Guardia mit einem Panoramablick über das Liri-Tal.",
+        "hu": "Autóval könnyedén felfedezhetjük San Giovanni Incaricót és tágabb környezetét. Kezdjünk a történelmi központban, majd vezessünk a víztározóhoz. A nap fénypontja Fabrateria Nova ókori városának megtekintése. Egy agriturismóban elfogyasztott bőséges ebéd után a napot a Madonna della Guardia szentélynél zárjuk, panorámás kilátással a Liri-völgyre.",
+        "ro": "Cu mașina, explorați San Giovanni Incarico și împrejurimile sale fără efort. Începeți în centrul istoric, înainte de a conduce spre lacul de acumulare. Un punct culminant este vizita la orașul antic Fabrateria Nova. După un prânz copios într-un agriturismo, ziua se încheie la sanctuarul Madonna della Guardia cu o priveliște panoramică peste Valea Liri.",
+        "en": "By car, you can effortlessly explore San Giovanni Incarico and its wider surroundings. Begin in the historic center before driving to the reservoir. A highlight is the visit to the ancient city of Fabrateria Nova. After a hearty lunch at an agriturismo, the day ends at the Sanctuary of Madonna della Guardia with a panoramic view over the Liri Valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agriturismo-Küche",
+            "tip": "Hausgemachte Antipasti und Wein aus eigenem Anbau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agriturismo konyha",
+            "tip": "Házi antipasti és saját termelésű bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bucătărie de agriturismo",
+            "tip": "Antipasti de casă și vin din producție proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agriturismo cuisine",
+            "tip": "Homemade antipasti and home-grown wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Heiligtum Madonna della Guardia",
+            "tip": "Sonnenuntergang über dem Tal genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madonna della Guardia szentély",
+            "tip": "Élvezze a naplementét a völgy felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanctuarul Madonna della Guardia",
+            "tip": "Bucurați-vă de apusul peste vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanctuary of Madonna della Guardia",
+            "tip": "Enjoy the sunset over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Ölmühle",
+            "tip": "Kaufen Sie erstklassiges Olivenöl direkt vor Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olajütő",
+            "tip": "Vásároljon első osztályú olívaolajat közvetlenül a helyszínen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei locală",
+            "tip": "Cumpărați ulei de măsline de primă clasă direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local oil mill",
+            "tip": "Buy first-class olive oil directly on site."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die braunen Hinweisschilder zu den archäologischen Stätten.",
+          "Parken Sie im Zentrum nur in den blau markierten Flächen (gebührenpflichtig).",
+          "Die Straßen zum See können nach Regen etwas holprig sein."
+        ],
+        "hu": [
+          "Figyelje a barna információs táblákat a régészeti lelőhelyekhez.",
+          "A központban csak a kékkel jelölt helyeken parkoljon (fizetős).",
+          "A tóhoz vezető utak eső után egyenetlenek lehetnek."
+        ],
+        "ro": [
+          "Fiți atenți la indicatoarele maro către siturile arheologice.",
+          "În centru, parcați doar în zonele marcate cu albastru (cu taxă).",
+          "Drumurile către lac pot fi puțin accidentate după ploaie."
+        ],
+        "en": [
+          "Look for the brown signposts to the archaeological sites.",
+          "In the center, park only in the blue-marked areas (paid).",
+          "The roads to the lake can be a bit bumpy after rain."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza del Comune",
+          "coords": [
+            13.561,
+            41.511
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für lokale Busse.",
+            "hu": "A helyi buszok központi érkezési pontja.",
+            "ro": "Punct central de sosire pentru autobuzele locale.",
+            "en": "Central arrival point for local buses."
+          }
+        },
+        {
+          "name": "Uhrturm & Altstadt",
+          "coords": [
+            13.563,
+            41.513
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fußläufig erreichbar vom Marktplatz.",
+            "hu": "Gyalogosan elérhető a piactérről.",
+            "ro": "Accesibil pe jos din piața centrală.",
+            "en": "Accessible on foot from the market square."
+          }
+        },
+        {
+          "name": "Kirche San Giovanni Battista",
+          "coords": [
+            13.564,
+            41.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe im Zentrum.",
+            "hu": "A nyugalom szigete a központban.",
+            "ro": "Un loc de liniște în centru.",
+            "en": "A place of peace in the center."
+          }
+        },
+        {
+          "name": "Liri-Brücke",
+          "coords": [
+            13.568,
+            41.518
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zum Fluss.",
+            "hu": "Rövid séta a folyóhoz.",
+            "ro": "O scurtă plimbare până la râu.",
+            "en": "Short walk to the river."
+          }
+        },
+        {
+          "name": "Mittagessen & Abfahrt",
+          "coords": [
+            13.562,
+            41.511
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Restaurants in Busnähe für eine entspannte Abreise.",
+            "hu": "Éttermek a buszmegálló közelében a kényelmes induláshoz.",
+            "ro": "Restaurante în apropierea stației de autobuz pentru o plecare relaxată.",
+            "en": "Restaurants near the bus stop for a relaxed departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr erreichen Sie das Zentrum von San Giovanni Incarico bequem. Dieser Plan konzentriert sich auf die Sehenswürdigkeiten im Stadtkern, die alle fußläufig vom zentralen Ankunftspunkt erreichbar sind. Besuchen Sie die Kirche, den Turm und die Liri-Brücke, bevor Sie den Ausflug mit einem italienischen Mittagessen abrunden.",
+        "hu": "Tömegközlekedéssel kényelmesen elérhetjük San Giovanni Incarico központját. Ez a terv a városmag látnivalóira összpontosít, amelyek mind gyalogosan megközelíthetők a központi érkezési ponttól. Látogassa meg a templomot, a tornyot és a Liri-hidat, majd zárja a kirándulást egy olasz ebéddel.",
+        "ro": "Cu transportul public, ajungeți confortabil în centrul orașului San Giovanni Incarico. Acest plan se concentrează pe atracțiile din nucleul urban, toate fiind accesibile pe jos de la punctul central de sosire. Vizitați biserica, turnul și podul Liri, înainte de a încheia excursia cu un prânz italian.",
+        "en": "With public transport, you can easily reach the center of San Giovanni Incarico. This plan focuses on the sights in the city core, all of which are within walking distance of the central arrival point. Visit the church, the tower, and the Liri Bridge before rounding off the trip with an Italian lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Ideal für einen schnellen Snack am Mittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Ideális egy gyors déli falathoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Ideală pentru o gustare rapidă la prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizza al Taglio",
+            "tip": "Ideal for a quick lunch snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Altstadtgassen",
+            "tip": "Schatten und Kühle in den engen Wegen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi sikátorok",
+            "tip": "Árnyék és hűvös a szűk utcákban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străduțele centrului vechi",
+            "tip": "Umbră și răcoare pe căile înguste.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old town alleys",
+            "tip": "Shadow and coolness in the narrow paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Locale",
+            "tip": "Traditionelles Gebäck zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászda",
+            "tip": "Hagyományos sütemények elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria locală",
+            "tip": "Produse de patiserie tradiționale la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pasticceria",
+            "tip": "Traditional pastries to take away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan (COTRAL) vorab online.",
+          "Fahrkarten sollten Sie bereits am Kiosk kaufen.",
+          "Die Haltestellen sind nicht immer deutlich markiert, fragen Sie Einheimische."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet (COTRAL) online.",
+          "A jegyeket érdemes előre megvenni az újságosnál.",
+          "A megállók nem mindig egyértelműen jelzettek, kérdezze a helyieket."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (COTRAL) online în prealabil.",
+          "Biletele ar trebui cumpărate în avans de la chioșcuri.",
+          "Stațiile nu sunt întotdeauna marcate clar, întrebați localnicii."
+        ],
+        "en": [
+          "Check the bus schedule (COTRAL) online in advance.",
+          "Tickets should be bought in advance at kiosks.",
+          "Stops are not always clearly marked, ask locals."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1129 @@
+{
+  "city_id": "france-amiens-bis-cities-v2",
+  "anchor": {
+    "name": "Amiens-Nord",
+    "coords": [
+      2.3,
+      49.91
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Perret",
+            "hu": "Perret-torony",
+            "ro": "Turnul Perret",
+            "en": "Perret Tower"
+          },
+          "coords": [
+            2.304,
+            49.891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Europas erster Wolkenkratzer aus Beton.",
+            "hu": "Európa első beton felhőkarcolója.",
+            "ro": "Primul zgârie-nori de beton din Europa.",
+            "en": "Europe's first concrete skyscraper."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi d'Amiens",
+            "hu": "Amiens-i harangtorony",
+            "ro": "Beffroi d'Amiens",
+            "en": "Amiens Belfry"
+          },
+          "coords": [
+            2.296,
+            49.894
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit tollem Blick.",
+            "hu": "UNESCO világörökség, remek kilátással.",
+            "ro": "Sit UNESCO cu o vedere panoramică excelentă.",
+            "en": "UNESCO heritage site with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame d'Amiens",
+            "hu": "Amiens-i katedrális",
+            "ro": "Catedrala Notre-Dame din Amiens",
+            "en": "Amiens Cathedral"
+          },
+          "coords": [
+            2.302,
+            49.894
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Größte gotische Kathedrale Frankreichs.",
+            "hu": "Franciaország legnagyobb gótikus székesegyháza.",
+            "ro": "Cea mai mare catedrală gotică din Franța.",
+            "en": "The largest Gothic cathedral in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier Saint-Leu",
+            "hu": "Saint-Leu negyed",
+            "ro": "Cartierul Saint-Leu",
+            "en": "Saint-Leu District"
+          },
+          "coords": [
+            2.301,
+            49.898
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Venedig des Nordens mit Kanälen und Cafés.",
+            "hu": "Az észak Velencéje csatornákkal és kávézókkal.",
+            "ro": "Veneția Nordului, cu canale și cafenele.",
+            "en": "Venice of the North with canals and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Hortillonnages",
+            "hu": "Úszó kertek",
+            "ro": "Grădinile Plutitoare",
+            "en": "Floating Gardens"
+          },
+          "coords": [
+            2.315,
+            49.895
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bootsfahrt durch die schwimmenden Gärten.",
+            "hu": "Csónaktúra az úszó kertek között.",
+            "ro": "Tur cu barca prin grădinile plutitoare.",
+            "en": "Boat trip through the floating gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Jules Verne",
+            "hu": "Jules Verne háza",
+            "ro": "Casa lui Jules Verne",
+            "en": "Jules Verne's House"
+          },
+          "coords": [
+            2.301,
+            49.888
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wohnhaus des berühmten Schriftstellers.",
+            "hu": "A híres író egykori lakóháza.",
+            "ro": "Casa în care a locuit celebrul scriitor.",
+            "en": "The former home of the famous writer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am modernen Tour Perret, bevor Sie in das historische Zentrum eintauchen. Die majestätische Kathedrale wird Sie mit ihrer Größe beeindrucken. Den Mittag verbringen Sie im malerischen Viertel Saint-Leu am Wasser. Am Nachmittag erleben Sie die Stille der Hortillonnages vom Boot aus und beenden die Tour in der fantastischen Welt von Jules Verne.",
+        "hu": "Kezdje a napot a modern Perret-toronynál, majd merüljön el a történelmi belvárosban. A fenséges katedrális méreteivel nyűgözi le látogatóit. Az ebédet a festői Saint-Leu negyedben, a vízparton töltjük. Délután az úszó kertek nyugalmát élvezheti csónakból, a napot pedig Jules Verne fantasztikus világában zárjuk.",
+        "ro": "Începeți ziua la modernul Turn Perret, înainte de a pătrunde în centrul istoric. Majestoasa catedrală vă va impresiona prin dimensiunile sale. Prânzul îl veți petrece în cartierul pitoresc Saint-Leu, pe malul apei. După-amiaza, experimentați liniștea grădinilor plutitoare din barcă și încheiați turul în lumea fantastică a lui Jules Verne.",
+        "en": "Start your day at the modern Perret Tower before diving into the historical center. The majestic cathedral will impress you with its sheer scale. Spend your lunch in the picturesque Saint-Leu district by the water. In the afternoon, experience the tranquility of the floating gardens from a boat, and end the tour in the fantastic world of Jules Verne."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Macarons d'Amiens",
+            "tip": "Probieren Sie diese Spezialität aus Honig und Mandeln."
+          },
+          {
+            "name": "Le Quai",
+            "tip": "Frischer Fisch direkt an den Kanälen von Saint-Leu."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Macarons d'Amiens",
+            "tip": "Kóstolja meg a mézes-mandulás helyi különlegességet."
+          },
+          {
+            "name": "Le Quai",
+            "tip": "Friss halételek közvetlenül a Saint-Leu csatornáinál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Macarons d'Amiens",
+            "tip": "Gustați această specialitate din miere și migdale."
+          },
+          {
+            "name": "Le Quai",
+            "tip": "Pește proaspăt chiar lângă canalele din Saint-Leu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Macarons d'Amiens",
+            "tip": "Try this local specialty made of honey and almonds."
+          },
+          {
+            "name": "Le Quai",
+            "tip": "Fresh fish dishes right by the Saint-Leu canals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Saint-Pierre",
+            "tip": "Ein friedlicher Park am Rande der Hortillonnages.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Saint-Pierre",
+            "tip": "Békés park az úszó kertek szélén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Saint-Pierre",
+            "tip": "Un parc liniștit la marginea grădinilor plutitoare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Saint-Pierre",
+            "tip": "A peaceful park at the edge of the floating gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue des Trois Cailloux",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue des Trois Cailloux",
+            "tip": "A város fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue des Trois Cailloux",
+            "tip": "Principala stradă comercială a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue des Trois Cailloux",
+            "tip": "The main shopping street of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Kathedrale bietet im Sommer abends eine Lichtshow.",
+          "Buchen Sie die Hortillonnages-Tour im Voraus.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in Saint-Leu."
+        ],
+        "hu": [
+          "A katedrális nyári estéken fényfestéssel várja a látogatókat.",
+          "Foglalja le előre a csónaktúrát az úszó kertekbe.",
+          "Viseljen kényelmes cipőt a Saint-Leu negyed macskaköveihez."
+        ],
+        "ro": [
+          "Catedrala oferă un spectacol de lumini în serile de vară.",
+          "Rezervați din timp turul grădinilor plutitoare.",
+          "Purtați încălțăminte comodă pentru pavajul din Saint-Leu."
+        ],
+        "en": [
+          "The cathedral features a light show on summer evenings.",
+          "Book the Hortillonnages boat tour in advance.",
+          "Wear comfortable shoes for the cobblestones in Saint-Leu."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Perret",
+            "hu": "Perret-torony",
+            "ro": "Turnul Perret",
+            "en": "Perret Tower"
+          },
+          "coords": [
+            2.304,
+            49.891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Bahnhof.",
+            "hu": "Kiindulópont az állomásnál.",
+            "ro": "Punct de plecare lângă gară.",
+            "en": "Starting point near the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Picardie",
+            "hu": "Picardie Múzeum",
+            "ro": "Muzeul Picardiei",
+            "en": "Picardie Museum"
+          },
+          "coords": [
+            2.296,
+            49.889
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Prachtvolles Museum für Kunst und Archäologie.",
+            "hu": "Pompás művészeti és régészeti múzeum.",
+            "ro": "Muzeu splendid de artă și arheologie.",
+            "en": "Magnificent museum of art and archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi d'Amiens",
+            "hu": "Amiens-i harangtorony",
+            "ro": "Beffroi d'Amiens",
+            "en": "Amiens Belfry"
+          },
+          "coords": [
+            2.296,
+            49.894
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Historischer Wachturm.",
+            "hu": "Történelmi őrtorony.",
+            "ro": "Turn de veghe istoric.",
+            "en": "Historical watchtower."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier Saint-Leu",
+            "hu": "Saint-Leu negyed",
+            "ro": "Cartierul Saint-Leu",
+            "en": "Saint-Leu District"
+          },
+          "coords": [
+            2.301,
+            49.898
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause.",
+            "hu": "Tökéletes helyszín az ebédszünethez.",
+            "ro": "Locul perfect pentru pauza de prânz.",
+            "en": "Perfect spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo d'Amiens",
+            "hu": "Amiens-i Állatkert",
+            "ro": "Grădina Zoologică din Amiens",
+            "en": "Amiens Zoo"
+          },
+          "coords": [
+            2.265,
+            49.893
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Moderner Zoo in einer Parkanlage.",
+            "hu": "Modern állatkert egy parkos területen.",
+            "ro": "Grădină zoologică modernă într-un parc.",
+            "en": "Modern zoo set in parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.302,
+            49.894
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Muss man gesehen haben.",
+            "hu": "Kihagyhatatlan látnivaló.",
+            "ro": "O atracție ce nu trebuie ratată.",
+            "en": "A must-see attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Hortillonnages",
+            "hu": "Úszó kertek",
+            "ro": "Grădinile Plutitoare",
+            "en": "Floating Gardens"
+          },
+          "coords": [
+            2.315,
+            49.895
+          ],
+          "category": "natural features",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Wasser.",
+            "hu": "Rövid pihenő a víznél.",
+            "ro": "Scurt popas lângă apă.",
+            "en": "Short stop by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Amiens effizient, vom prachtvollen Musée de Picardie bis zum weiter westlich gelegenen Zoo. Nach dem Mittagessen im lebhaften Saint-Leu radeln Sie zur majestätischen Kathedrale und beenden den Tag an den entspannenden Hortillonnages. Die flache Topographie macht das Radfahren hier zum Vergnügen.",
+        "hu": "Kerékpárral hatékonyan fedezheti fel Amiens-t, a pazar Picardie Múzeumtól a nyugatabbra fekvő Állatkertig. A Saint-Leu negyedben elköltött ebéd után a fenséges katedrálishoz tekerünk, majd az úszó kertek pihentető környezetében zárjuk a napot. A sík terep élvezetessé teszi a biciklizést.",
+        "ro": "Cu bicicleta, explorați eficient orașul Amiens, de la splendidul Muzeu al Picardiei până la grădina zoologică situată mai la vest. După prânzul în cartierul Saint-Leu, pedalați spre catedrala maiestoasă și încheiați ziua la grădinile plutitoare relaxante. Topografia plată face mersul pe bicicletă o plăcere.",
+        "en": "By bike, you can explore Amiens efficiently, from the magnificent Musée de Picardie to the Zoo located further west. After lunch in lively Saint-Leu, cycle to the majestic cathedral and end your day at the relaxing Hortillonnages. The flat topography makes cycling a joy here."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ficelle Picarde",
+            "tip": "Überbackener Pfannkuchen mit Schinken und Champignons."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ficelle Picarde",
+            "tip": "Sült palacsinta sonkával és gombával töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ficelle Picarde",
+            "tip": "Clătită gratinată umplută cu șuncă și ciuperci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ficelle Picarde",
+            "tip": "Savory crêpe with ham and mushrooms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le chemin de halage",
+            "tip": "Radweg entlang der Somme.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le chemin de halage",
+            "tip": "Kerékpárút a Somme-folyó mentén.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le chemin de halage",
+            "tip": "Pistă de biciclete de-a lungul râului Somme.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le chemin de halage",
+            "tip": "Cycling path along the Somme river.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles du Beffroi",
+            "tip": "Markthalle mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles du Beffroi",
+            "tip": "Vásárcsarnok helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles du Beffroi",
+            "tip": "Piață acoperită cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles du Beffroi",
+            "tip": "Market hall with local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ein städtisches Fahrradverleihsystem (Vélam).",
+          "Die Somme-Uferwege sind ideal zum Radfahren.",
+          "Schließen Sie Ihr Rad in Saint-Leu immer gut ab."
+        ],
+        "hu": [
+          "Használja a városi kerékpárkölcsönzőt (Vélam).",
+          "A Somme-folyó partja ideális kerékpározáshoz.",
+          "Mindig zárja le a biciklijét Saint-Leu negyedben."
+        ],
+        "ro": [
+          "Există un sistem municipal de închiriat biciclete (Vélam).",
+          "Malurile râului Somme sunt ideale pentru ciclism.",
+          "Asigurați-vă întotdeauna bicicleta în cartierul Saint-Leu."
+        ],
+        "en": [
+          "There is a city bike rental system (Vélam).",
+          "The Somme river banks are ideal for cycling.",
+          "Always lock your bike properly in Saint-Leu."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de Picardie",
+            "hu": "Picardie Múzeum",
+            "ro": "Muzeul Picardiei",
+            "en": "Picardie Museum"
+          },
+          "coords": [
+            2.296,
+            48.889
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Museums.",
+            "hu": "Parkoljon a múzeum közelében.",
+            "ro": "Parcați în apropierea muzeului.",
+            "en": "Park near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Jules Verne",
+            "hu": "Jules Verne háza",
+            "ro": "Casa lui Jules Verne",
+            "en": "Jules Verne's House"
+          },
+          "coords": [
+            2.301,
+            49.888
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Museum.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.302,
+            49.894
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Saint-Leu.",
+            "hu": "Használja a Saint-Leu parkolóházat.",
+            "ro": "Parcați în parcarea Saint-Leu.",
+            "en": "Use the Saint-Leu parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi d'Amiens",
+            "hu": "Amiens-i harangtorony",
+            "ro": "Beffroi d'Amiens",
+            "en": "Amiens Belfry"
+          },
+          "coords": [
+            2.296,
+            49.894
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier Saint-Leu",
+            "hu": "Saint-Leu negyed",
+            "ro": "Cartierul Saint-Leu",
+            "en": "Saint-Leu District"
+          },
+          "coords": [
+            2.301,
+            49.898
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Malerischer Spaziergang.",
+            "hu": "Festői séta.",
+            "ro": "Plimbare pitorească.",
+            "en": "Scenic walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Perret",
+            "hu": "Perret-torony",
+            "ro": "Turnul Perret",
+            "en": "Perret Tower"
+          },
+          "coords": [
+            2.304,
+            49.891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város egyik jelképe.",
+            "ro": "Un simbol al orașului.",
+            "en": "A symbol of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo d'Amiens",
+            "hu": "Amiens-i Állatkert",
+            "ro": "Grădina Zoologică din Amiens",
+            "en": "Amiens Zoo"
+          },
+          "coords": [
+            2.265,
+            49.893
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot available."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Hortillonnages",
+            "hu": "Úszó kertek",
+            "ro": "Grădinile Plutitoare",
+            "en": "Floating Gardens"
+          },
+          "coords": [
+            2.315,
+            49.895
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Abschluss am späten Nachmittag.",
+            "hu": "Zárás késő délután.",
+            "ro": "Final de zi după-amiaza târziu.",
+            "en": "End the day in late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um verschiedene Cluster zu besuchen. Starten Sie im Süden bei den Museen, bevor Sie das Auto im Zentrum parken, um die Kathedrale und Saint-Leu zu Fuß zu erkunden. Am Nachmittag fahren Sie zum Zoo im Westen und beenden den Tag bei den Hortillonnages im Osten. So sehen Sie alle Highlights stressfrei.",
+        "hu": "Használja az autót a különböző városrészek eléréséhez. Kezdjen délen a múzeumoknál, majd parkoljon le a központban, hogy gyalog fedezze fel a katedrálist és Saint-Leu negyedet. Délután hajtson el a nyugati állatkertbe, végül zárja a napot a keleti úszó kerteknél. Így stresszmentesen láthat minden fontos helyet.",
+        "ro": "Folosiți mașina pentru a vizita diferite zone. Începeți în sud la muzee, apoi parcați în centru pentru a explora catedrala și Saint-Leu pe jos. După-amiaza, conduceți la grădina zoologică din vest și încheiați ziua la grădinile plutitoare din est. Astfel, veți vedea toate punctele de atracție fără stres.",
+        "en": "Use the car to visit different clusters. Start south at the museums before parking in the center to explore the cathedral and Saint-Leu on foot. In the afternoon, drive to the zoo in the west and end your day at the Hortillonnages in the east. This way, you can see all highlights stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Big Ben",
+            "tip": "Gute Brasserie direkt bei der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Big Ben",
+            "tip": "Kiváló étterem közvetlenül a katedrális mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Big Ben",
+            "tip": "O braserie bună chiar lângă catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Big Ben",
+            "tip": "Good brasserie right by the cathedral."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Somme-Ufer",
+            "tip": "Ruhiger Parkplatz mit Blick auf den Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Somme-part",
+            "tip": "Csendes parkoló kilátással a folyóra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Somme",
+            "tip": "Parcare liniștită cu vedere la râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Somme Banks",
+            "tip": "Quiet parking spot with a river view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shopping Center Amiens Glisy",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shopping Center Amiens Glisy",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shopping Center Amiens Glisy",
+            "tip": "Centru comercial mare la periferia orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Center Amiens Glisy",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkleitsystem zeigt freie Plätze in Echtzeit an.",
+          "Parken Sie im Zentrum am besten im Parkhaus 'Cathédrale'.",
+          "Achten Sie auf die engen Gassen in Saint-Leu."
+        ],
+        "hu": [
+          "A parkolási rendszer valós időben mutatja a szabad helyeket.",
+          "A központban érdemes a 'Cathédrale' parkolóházat használni.",
+          "Vigyázzon a Saint-Leu negyed szűk utcáival."
+        ],
+        "ro": [
+          "Sistemul de ghidare arată locurile libere în timp real.",
+          "În centru, cel mai bine este să parcați în parcarea 'Cathédrale'.",
+          "Atenție la străzile înguste din Saint-Leu."
+        ],
+        "en": [
+          "The parking guidance system shows free spots in real-time.",
+          "In the center, it's best to park in the 'Cathédrale' garage.",
+          "Watch out for narrow streets in Saint-Leu."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Perret",
+            "hu": "Perret-torony",
+            "ro": "Turnul Perret",
+            "en": "Perret Tower"
+          },
+          "coords": [
+            2.304,
+            49.891
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Start am Bahnhofsknotenpunkt.",
+            "hu": "Kezdés az állomási csomópontnál.",
+            "ro": "Start la nodul de transport de la gară.",
+            "en": "Start at the station transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.302,
+            49.894
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus direkt zum Vorplatz.",
+            "hu": "Busszal közvetlenül a katedrálishoz.",
+            "ro": "Cu autobuzul direct la esplanadă.",
+            "en": "Take the bus directly to the plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier Saint-Leu",
+            "hu": "Saint-Leu negyed",
+            "ro": "Cartierul Saint-Leu",
+            "en": "Saint-Leu District"
+          },
+          "coords": [
+            2.301,
+            49.898
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Kathedrale.",
+            "hu": "Rövid séta a katedrálistól.",
+            "ro": "Scurtă plimbare de la catedrală.",
+            "en": "Short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Hortillonnages",
+            "hu": "Úszó kertek",
+            "ro": "Grădinile Plutitoare",
+            "en": "Floating Gardens"
+          },
+          "coords": [
+            2.315,
+            49.895
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Buslinie Richtung Camon.",
+            "hu": "Buszjárat Camon felé.",
+            "ro": "Linie de autobuz spre Camon.",
+            "en": "Bus line towards Camon."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo d'Amiens",
+            "hu": "Amiens-i Állatkert",
+            "ro": "Grădina Zoologică din Amiens",
+            "en": "Amiens Zoo"
+          },
+          "coords": [
+            2.265,
+            49.893
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie 7 oder L.",
+            "hu": "7-es vagy L jelzésű busz.",
+            "ro": "Linia de autobuz 7 sau L.",
+            "en": "Bus line 7 or L."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Jules Verne",
+            "hu": "Jules Verne háza",
+            "ro": "Casa lui Jules Verne",
+            "en": "Jules Verne's House"
+          },
+          "coords": [
+            2.301,
+            49.888
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Abschluss im Museum.",
+            "hu": "Zárás a múzeumban.",
+            "ro": "Final de zi la muzeu.",
+            "en": "End the day at the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Amiens lässt sich gut mit dem Bussystem Ametis erkunden. Starten Sie am Bahnhof und nehmen Sie den Bus zur Kathedrale. Nach dem Mittagessen in Saint-Leu bringen Sie die Busse zu den Hortillonnages und zum Zoo. Das System ist effizient und verbindet die wichtigsten Sehenswürdigkeiten der Stadt.",
+        "hu": "Amiens jól felfedezhető az Ametis buszhálózattal. Kezdjen az állomáson, majd busszal menjen a katedrálishoz. A Saint-Leu-beli ebéd után a buszok elszállítják az úszó kertekhez és az állatkerthez is. A hálózat hatékony és összeköti a legfontosabb látnivalókat.",
+        "ro": "Amiens poate fi explorat ușor cu sistemul de autobuze Ametis. Începeți la gară și luați autobuzul spre catedrală. După prânzul în Saint-Leu, autobuzele vă vor duce la grădinile plutitoare și la grădina zoologică. Sistemul este eficient și conectează principalele obiective turistice.",
+        "en": "Amiens is easy to explore using the Ametis bus system. Start at the station and take a bus to the cathedral. After lunch in Saint-Leu, buses will take you to the floating gardens and the zoo. The system is efficient and connects all major sights of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ad'Hoc",
+            "tip": "Beliebte Brasserie in Saint-Leu."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ad'Hoc",
+            "tip": "Népszerű étterem Saint-Leu negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ad'Hoc",
+            "tip": "Braserie populară în Saint-Leu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ad'Hoc",
+            "tip": "Popular brasserie in Saint-Leu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busfahrt an der Somme",
+            "tip": "Genießen Sie den Blick aus dem Fenster.",
+            "emoji": "🚌"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszozás a Somme mentén",
+            "tip": "Élvezze a kilátást az ablakból.",
+            "emoji": "🚌"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul cu autobuzul pe malul Somme",
+            "tip": "Bucurați-vă de priveliștea de pe fereastră.",
+            "emoji": "🚌"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus ride along the Somme",
+            "tip": "Enjoy the view from the window.",
+            "emoji": "🚌"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ametis-Verkaufsstelle",
+            "tip": "Holen Sie sich Tageskarten für den Bus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ametis jegyiroda",
+            "tip": "Vásároljon napijegyet a buszra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de vânzare Ametis",
+            "tip": "Cumpărați abonamente de o zi pentru autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ametis ticket office",
+            "tip": "Get day passes for the bus."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Ametis-App zeigt Buszeiten in Echtzeit.",
+          "Ein Tagesticket lohnt sich ab drei Fahrten.",
+          "Die Busse fahren regelmäßig ab dem Bahnhof."
+        ],
+        "hu": [
+          "Az Ametis applikáció valós időben mutatja a buszokat.",
+          "A napijegy három utazástól már megéri.",
+          "A buszok rendszeresen indulnak az állomástól."
+        ],
+        "ro": [
+          "Aplicația Ametis arată orele autobuzelor în timp real.",
+          "Un bilet de o zi merită de la trei călătorii în sus.",
+          "Autobuzele pleacă regulat de la gară."
+        ],
+        "en": [
+          "The Ametis app shows bus times in real-time.",
+          "A day ticket is worth it for three or more trips.",
+          "Buses run regularly from the station."
+        ]
+      }
+    }
+  }
+}

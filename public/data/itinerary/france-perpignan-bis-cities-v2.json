@@ -1,0 +1,1083 @@
+{
+  "city_id": "france-perpignan-bis-cities-v2",
+  "anchor": {
+    "name": "Perpignan-Nord",
+    "coords": [
+      2.89,
+      42.71
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            2.8935,
+            42.7003
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für einen Rundumblick auf die Stadt.",
+            "hu": "Mássz fel a toronyba a városi panorámáért.",
+            "ro": "Urcați în turn pentru o vedere panoramică asupra orașului.",
+            "en": "Climb the tower for a 360-degree view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Loge",
+            "hu": "Place de la Loge",
+            "ro": "Place de la Loge",
+            "en": "Place de la Loge"
+          },
+          "coords": [
+            2.8943,
+            42.6991
+          ],
+          "category": "squares",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die katalanische Gotik des Loge de Mer.",
+            "hu": "Csodáld meg a tőzsdepalota katalán gótikus stílusát.",
+            "ro": "Admirați stilul gotic catalan al clădirii Loge de Mer.",
+            "en": "Admire the Catalan Gothic style of the Loge de Mer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean",
+            "hu": "Saint-Jean székesegyház",
+            "ro": "Catedrala Saint-Jean",
+            "en": "Saint-Jean Cathedral"
+          },
+          "coords": [
+            2.8974,
+            42.6998
+          ],
+          "category": "churches",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende Altarbild im Inneren.",
+            "hu": "Nézd meg a lenyűgöző oltárképet a belső térben.",
+            "ro": "Observați altarul impresionant din interior.",
+            "en": "Check out the impressive altarpiece inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Rigaud",
+            "hu": "Rigaud Múzeum",
+            "ro": "Muzeul Rigaud",
+            "en": "Musée Rigaud"
+          },
+          "coords": [
+            2.8938,
+            42.6972
+          ],
+          "category": "museums",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie Werke von Picasso und lokalen Meistern.",
+            "hu": "Fedezd fel Picasso és helyi mesterek műveit.",
+            "ro": "Descoperiți opere de Picasso și maeștri locali.",
+            "en": "Discover works by Picasso and local masters."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Platanen",
+            "hu": "Platán sétány",
+            "ro": "Promenada Platanilor",
+            "en": "Platanes Promenade"
+          },
+          "coords": [
+            2.8975,
+            42.7025
+          ],
+          "category": "parks",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Schatten unter den riesigen Platanen.",
+            "hu": "Élvezd az árnyékot az óriási platánfák alatt.",
+            "ro": "Bucurați-vă de umbră sub platanii uriași.",
+            "en": "Enjoy the shade under the giant plane trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Congrès",
+            "hu": "Kongresszusi Palota",
+            "ro": "Palais des Congrès",
+            "en": "Palais des Congrès"
+          },
+          "coords": [
+            2.8985,
+            42.7051
+          ],
+          "category": "theatres",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein modernes Zentrum für kulturelle Veranstaltungen.",
+            "hu": "Modern központ kulturális rendezvények számára.",
+            "ro": "Un centru modern pentru evenimente culturale.",
+            "en": "A modern center for cultural events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am ikonischen Castillet, dem alten Stadttor aus rotem Backstein. Schlendern Sie durch die engen Gassen zum eleganten Place de la Loge. Nach der Besichtigung der gotischen Kathedrale tauchen Sie im Musée Rigaud in die Kunstwelt ein. Den Nachmittag verbringen Sie entspannt auf der Promenade des Platanes, bevor Sie das moderne Viertel am Palais des Congrès erreichen.",
+        "hu": "Kezdje a napot az ikonikus Castillet-nél, a vörös téglás városkapunál. Sétáljon az óváros szűk utcáin az elegáns Loge térig. A gótikus székesegyház megtekintése után merüljön el a művészetekben a Rigaud Múzeumban. A délutánt töltse pihenéssel a Platán sétányon, majd zárja a napot a Kongresszusi Palota modern környékén.",
+        "ro": "Începeți ziua la emblematicul Castillet, vechea poartă a orașului construită din cărămidă roșie. Plimbați-vă pe străzile înguste până la eleganta Place de la Loge. După vizitarea catedralei gotice, explorați lumea artei la Muzeul Rigaud. Petreceți după-amiaza relaxându-vă pe Promenada Platanilor, înainte de a ajunge în zona modernă a Palais des Congrès.",
+        "en": "Start your day at the iconic Castillet, the old red-brick city gate. Wander through the narrow streets to the elegant Place de la Loge. After visiting the Gothic cathedral, immerse yourself in art at the Musée Rigaud. Spend the afternoon relaxing on the Platanes Promenade before reaching the modern district near the Palais des Congrès."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Antiquaires",
+            "tip": "Klassische französische Küche in historischem Ambiente."
+          },
+          {
+            "name": "Le 17",
+            "tip": "Moderne Tapas mit starken katalanischen Einflüssen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Antiquaires",
+            "tip": "Klasszikus francia konyha történelmi környezetben."
+          },
+          {
+            "name": "Le 17",
+            "tip": "Modern tapas bár erős katalán beütéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Antiquaires",
+            "tip": "Bucătărie franceză clasică într-un cadru istoric."
+          },
+          {
+            "name": "Le 17",
+            "tip": "Tapas moderne cu influențe catalane puternice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Antiquaires",
+            "tip": "Classic French cuisine in a historical setting."
+          },
+          {
+            "name": "Le 17",
+            "tip": "Modern tapas with strong Catalan influences."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square Bir-Hakeim",
+            "tip": "Ein ruhiger Parkabschnitt abseits der Hauptwege.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square Bir-Hakeim",
+            "tip": "Csendes parkrész távol a főutaktól.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square Bir-Hakeim",
+            "tip": "O secțiune de parc liniștită, departe de drumurile principale.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square Bir-Hakeim",
+            "tip": "A quiet park section away from the main thoroughfares.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Überdachter Markt mit regionalen Köstlichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Fedett piac helyi finomságokkal és specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Piață acoperită cu delicii și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Indoor market with regional delicacies and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist fast vollständig Fußgängerzone, tragen Sie bequeme Schuhe.",
+          "Katalanische Flaggen sind überall; Perpignan ist stolz auf seine Wurzeln.",
+          "Mittagsruhe beachten: Viele kleine Läden schließen zwischen 12:30 und 14:00 Uhr."
+        ],
+        "hu": [
+          "Az óváros szinte teljesen sétálóövezet, viseljen kényelmes cipőt.",
+          "Katalán zászlók mindenhol; Perpignan büszke a gyökereire.",
+          "Vegyük figyelembe a sziesztát: sok kis bolt bezár 12:30 és 14:00 között."
+        ],
+        "ro": [
+          "Centrul vechi este aproape în întregime pietonal, purtați pantofi confortabili.",
+          "Steagurile catalane sunt peste tot; Perpignan este mândru de rădăcinile sale.",
+          "Atenție la pauza de prânz: multe magazine mici se închid între 12:30 și 14:00."
+        ],
+        "en": [
+          "The old town is almost entirely pedestrianized, wear comfortable shoes.",
+          "Catalan flags are everywhere; Perpignan is proud of its roots.",
+          "Mind the lunch break: many small shops close between 12:30 and 14:00."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            2.8935,
+            42.7003
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang zur Altstadt.",
+            "hu": "Zárd le biztonságosan a biciklit az óváros bejáratánál.",
+            "ro": "Parcați bicicleta în siguranță la intrarea în centrul vechi.",
+            "en": "Park your bike securely at the entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean",
+            "hu": "Saint-Jean székesegyház",
+            "ro": "Catedrala Saint-Jean",
+            "en": "Saint-Jean Cathedral"
+          },
+          "coords": [
+            2.8974,
+            42.6998
+          ],
+          "category": "churches",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Gassen hier sind eng, schieben Sie das Rad kurz.",
+            "hu": "Az utcák itt szűkek, érdemes tolni a kerékpárt.",
+            "ro": "Străzile sunt înguste aici, mergeți pe lângă bicicletă.",
+            "en": "The streets are narrow here, consider pushing your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Rigaud",
+            "hu": "Rigaud Múzeum",
+            "ro": "Muzeul Rigaud",
+            "en": "Musée Rigaud"
+          },
+          "coords": [
+            2.8938,
+            42.6972
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kulturelles Highlight mitten im Zentrum.",
+            "hu": "Kulturális csúcspont a központ közepén.",
+            "ro": "Un punct culminant cultural chiar în centru.",
+            "en": "A cultural highlight right in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Platanen",
+            "hu": "Platán sétány",
+            "ro": "Promenada Platanilor",
+            "en": "Platanes Promenade"
+          },
+          "coords": [
+            2.8975,
+            42.7025
+          ],
+          "category": "parks",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Idealer Ort für eine Radpause im Schatten.",
+            "hu": "Ideális hely egy árnyékos biciklis pihenőhöz.",
+            "ro": "Loc ideal pentru o pauză cu bicicleta la umbră.",
+            "en": "Ideal spot for a bike break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Congrès",
+            "hu": "Kongresszusi Palota",
+            "ro": "Palais des Congrès",
+            "en": "Palais des Congrès"
+          },
+          "coords": [
+            2.8985,
+            42.7051
+          ],
+          "category": "theatres",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Moderne Architektur im Norden der Stadt.",
+            "hu": "Modern építészet a város északi részén.",
+            "ro": "Arhitectură modernă în nordul orașului.",
+            "en": "Modern architecture in the north of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion Aimé Giral",
+            "hu": "Aimé Giral Stadion",
+            "ro": "Stadionul Aimé Giral",
+            "en": "Aimé Giral Stadium"
+          },
+          "coords": [
+            2.8962,
+            42.7155
+          ],
+          "category": "theatres",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Herz des lokalen Rugbysports (USAP).",
+            "hu": "A helyi rögbi (USAP) szíve.",
+            "ro": "Inima rugbiului local (USAP).",
+            "en": "The heart of local rugby (USAP)."
+          }
+        },
+        {
+          "name": {
+            "de": "Messegelände Perpignan",
+            "hu": "Perpignani Vásárközpont",
+            "ro": "Centrul de Expoziții Perpignan",
+            "en": "Perpignan Exhibition Centre"
+          },
+          "coords": [
+            2.8905,
+            42.7122
+          ],
+          "category": "theatres",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schauen Sie nach aktuellen regionalen Messen.",
+            "hu": "Nézd meg az aktuális regionális vásárokat.",
+            "ro": "Căutați târgurile regionale actuale.",
+            "en": "Check for current regional fairs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet das historische Zentrum mit dem moderneren Norden. Nach dem Castillet und der Kunst im Musée Rigaud radeln Sie entlang der schattigen Platanen-Promenade weit nach Norden bis zum berühmten Rugby-Stadion Aimé Giral, wo die katalanische Identität der Stadt besonders spürbar ist.",
+        "hu": "Ez a kerékpáros túra összeköti a történelmi központot a modernebb északi résszel. A Castillet és a Rigaud Múzeum műkincsei után tekerjen végig az árnyas Platán sétányon egészen északra, a híres Aimé Giral rögbi stadionig, ahol a város katalán identitása igazán érezhető.",
+        "ro": "Acest tur cu bicicleta face legătura între centrul istoric și nordul mai modern. După Castillet și arta de la Muzeul Rigaud, pedalați de-a lungul promenadei umbrite cu platani până departe în nord, la faimosul stadion de rugby Aimé Giral, unde identitatea catalană a orașului este deosebit de palpabilă.",
+        "en": "This bike tour connects the historical center with the more modern north. After the Castillet and the art at Musée Rigaud, pedal along the shaded Platanes Promenade far north to the famous Aimé Giral rugby stadium, where the city's Catalan identity is truly palpable."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Galinette",
+            "tip": "Hervorragende Meeresfrüchte und Sterneküche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Galinette",
+            "tip": "Kiváló tenger gyümölcsei és csillagos konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Galinette",
+            "tip": "Fructe de mare excelente și bucătărie stelată."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Galinette",
+            "tip": "Excellent seafood and Michelin-starred cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Têt",
+            "tip": "Ein ruhiger Weg entlang des Flusses.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tét-part",
+            "tip": "Csendes ösvény a folyó mentén.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Têt",
+            "tip": "O potecă liniștită de-a lungul râului.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Têt",
+            "tip": "A quiet path along the river.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sant Vicens",
+            "tip": "Traditionelle Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant Vicens",
+            "tip": "Tradicionális kerámia és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sant Vicens",
+            "tip": "Ceramică și textile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sant Vicens",
+            "tip": "Traditional ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ein städtisches Leihradsystem (Bip!).",
+          "Meiden Sie die Mittagszeit im Sommer für längere Fahrten.",
+          "Nutzen Sie die Radwege entlang der Promenade."
+        ],
+        "hu": [
+          "Létezik városi bérbicikli rendszer (Bip!).",
+          "Nyáron kerüld a délidőt a hosszabb tekerésekhez.",
+          "Használd a sétány menti kerékpárutakat."
+        ],
+        "ro": [
+          "Există un sistem de închiriere de biciclete în oraș (Bip!).",
+          "Evitați amiaza în timpul verii pentru călătorii mai lungi.",
+          "Folosiți pistele de biciclete de-a lungul promenadei."
+        ],
+        "en": [
+          "There is a city bike-share system (Bip!).",
+          "Avoid midday in summer for longer rides.",
+          "Use the bike paths along the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Castillet (Cluster A)",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            2.8935,
+            42.7003
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parkhaus Wilson ist ganz in der Nähe.",
+            "hu": "A Wilson parkolóház közvetlenül a közelben van.",
+            "ro": "Parcarea Wilson este chiar în apropiere.",
+            "en": "Wilson parking garage is right nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Loge (Cluster A)",
+            "hu": "Place de la Loge",
+            "ro": "Place de la Loge",
+            "en": "Place de la Loge"
+          },
+          "coords": [
+            2.8943,
+            42.6991
+          ],
+          "category": "squares",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean (Cluster A)",
+            "hu": "Saint-Jean székesegyház",
+            "ro": "Catedrala Saint-Jean",
+            "en": "Saint-Jean Cathedral"
+          },
+          "coords": [
+            2.8974,
+            42.6998
+          ],
+          "category": "churches",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Innerhalb des Fußgänger-Clusters A.",
+            "hu": "Az 'A' gyalogos klaszteren belül.",
+            "ro": "În cadrul clusterului pietonal A.",
+            "en": "Within the pedestrian Cluster A."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Congrès (Cluster B)",
+            "hu": "Kongresszusi Palota",
+            "ro": "Palais des Congrès",
+            "en": "Palais des Congrès"
+          },
+          "coords": [
+            2.8985,
+            42.7051
+          ],
+          "category": "theatres",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum nördlichen Cluster B.",
+            "hu": "Autózás az északi 'B' klaszterhez.",
+            "ro": "Conducerea către clusterul nordic B.",
+            "en": "Drive to the northern Cluster B."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Platanen (Cluster B)",
+            "hu": "Platán sétány",
+            "ro": "Promenada Platanilor",
+            "en": "Platanes Promenade"
+          },
+          "coords": [
+            2.8975,
+            42.7025
+          ],
+          "category": "parks",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannter Spaziergang vom Palais.",
+            "hu": "Pihentető séta a palotától.",
+            "ro": "Plimbare relaxantă de la palat.",
+            "en": "Relaxing walk from the Palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion Aimé Giral (Cluster C)",
+            "hu": "Aimé Giral Stadion",
+            "ro": "Stadionul Aimé Giral",
+            "en": "Aimé Giral Stadium"
+          },
+          "coords": [
+            2.8962,
+            42.7155
+          ],
+          "category": "theatres",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt ganz in den Norden der Stadt.",
+            "hu": "Autózás a város legészakibb részére.",
+            "ro": "Conduceți până în nordul extrem al orașului.",
+            "en": "Drive to the far north of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Messegelände Perpignan (Cluster C)",
+            "hu": "Perpignani Vásárközpont",
+            "ro": "Centrul de Expoziții Perpignan",
+            "en": "Perpignan Exhibition Centre"
+          },
+          "coords": [
+            2.8905,
+            42.7122
+          ],
+          "category": "theatres",
+          "arrive_at": "15:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Große Parkplätze direkt vor Ort.",
+            "hu": "Nagy parkolók közvetlenül a helyszínen.",
+            "ro": "Parcări mari direct la fața locului.",
+            "en": "Large parking lots directly on-site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Perpignan effizient in drei Clustern. Zuerst parken Sie im Zentrum (Cluster A) für das historische Castillet und die Kathedrale. Danach fahren Sie zum nördlichen Palais des Congrès (Cluster B) für Kultur und die schattige Promenade. Schließlich besuchen Sie den hohen Norden (Cluster C) mit dem Messegelände und dem legendären USAP-Stadion.",
+        "hu": "Fedezze fel Perpignant hatékonyan három klaszterben. Először parkoljon le a központban (A klaszter) a történelmi Castillet és a székesegyház megtekintéséhez. Ezután hajtson az északi Kongresszusi Palotához (B klaszter) a kultúráért és az árnyas sétányért. Végül látogasson el a legészakibb részre (C klaszter) a vásárközpont és a legendás USAP stadion miatt.",
+        "ro": "Explorați Perpignan eficient în trei clustere. Mai întâi parcați în centru (Cluster A) pentru Castillet-ul istoric și catedrală. Apoi conduceți spre Palais des Congrès din nord (Cluster B) pentru cultură și promenada umbrită. În cele din urmă, vizitați nordul extrem (Cluster C) cu centrul de expoziții și legendarul stadion USAP.",
+        "en": "Explore Perpignan efficiently in three clusters. First, park in the center (Cluster A) for the historic Castillet and the cathedral. Then drive to the northern Palais des Congrès (Cluster B) for culture and the shaded promenade. Finally, visit the far north (Cluster C) featuring the exhibition center and the legendary USAP stadium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boucherie du Centre",
+            "tip": "Lokale Fleischspezialitäten und Imbiss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boucherie du Centre",
+            "tip": "Helyi hússpecialitások és gyors harapnivalók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boucherie du Centre",
+            "tip": "Specialități locale de carne și gustări rapide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boucherie du Centre",
+            "tip": "Local meat specialties and quick bites."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Messegelände",
+            "tip": "Abends oft ruhig mit Blick auf die Pyrenäen.",
+            "emoji": "🏔️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vásárközpont parkoló",
+            "tip": "Este gyakran csendes, kilátással a Pireneusokra.",
+            "emoji": "🏔️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Centrului de Expoziții",
+            "tip": "Adesea liniștit seara, cu vedere la Pirinei.",
+            "emoji": "🏔️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Exhibition Center Parking",
+            "tip": "Often quiet in the evening with views of the Pyrenees.",
+            "emoji": "🏔️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E.Leclerc Perpignan Nord",
+            "tip": "Großer Supermarkt für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "E.Leclerc Perpignan Nord",
+            "tip": "Hatalmas szupermarket helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "E.Leclerc Perpignan Nord",
+            "tip": "Supermarket mare pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "E.Leclerc Perpignan Nord",
+            "tip": "Huge supermarket for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Zentrales Parken am 'Parking Wilson' ist am bequemsten.",
+          "Die A9 ist die Hauptverbindung nach Spanien und Narbonne.",
+          "In der Altstadt ist das Auto nutzlos, bleiben Sie im Cluster."
+        ],
+        "hu": [
+          "A 'Parking Wilson' központi parkoló a legkényelmesebb.",
+          "Az A9-es autópálya a fő kapcsolat Spanyolország és Narbonne felé.",
+          "Az óvárosban az autó használhatatlan, maradjon a klaszterben."
+        ],
+        "ro": [
+          "Parcarea centrală la 'Parking Wilson' este cea mai convenabilă.",
+          "A9 este principala legătură către Spania și Narbonne.",
+          "În centrul vechi mașina este inutilă, rămâneți în cluster."
+        ],
+        "en": [
+          "Central parking at 'Parking Wilson' is most convenient.",
+          "The A9 is the main link to Spain and Narbonne.",
+          "In the old town, the car is useless; stay within the cluster."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            2.8935,
+            42.7003
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt 'Place de Catalogne' liegt nah.",
+            "hu": "A 'Place de Catalogne' központi buszcsomópont közel van.",
+            "ro": "Nodul central de autobuz 'Place de Catalogne' este aproape.",
+            "en": "Central bus hub 'Place de Catalogne' is nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean",
+            "hu": "Saint-Jean székesegyház",
+            "ro": "Catedrala Saint-Jean",
+            "en": "Saint-Jean Cathedral"
+          },
+          "coords": [
+            2.8974,
+            42.6998
+          ],
+          "category": "churches",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Castillet aus leicht zu Fuß erreichbar.",
+            "hu": "A Castillet-től könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la Castillet.",
+            "en": "Easily accessible on foot from Castillet."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Rigaud",
+            "hu": "Rigaud Múzeum",
+            "ro": "Muzeul Rigaud",
+            "en": "Musée Rigaud"
+          },
+          "coords": [
+            2.8938,
+            42.6972
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Bus für kleine Distanzen.",
+            "hu": "Használd a City-Buszt a kis távolságokhoz.",
+            "ro": "Folosiți City-Bus pentru distanțe mici.",
+            "en": "Use the City-Bus for short distances."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Platanen",
+            "hu": "Platán sétány",
+            "ro": "Promenada Platanilor",
+            "en": "Platanes Promenade"
+          },
+          "coords": [
+            2.8975,
+            42.7025
+          ],
+          "category": "parks",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Linie 2 oder 4 bringt Sie direkt hierher.",
+            "hu": "A 2-es vagy 4-es vonal közvetlenül idehoz.",
+            "ro": "Linia 2 sau 4 vă aduce direct aici.",
+            "en": "Line 2 or 4 brings you directly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Congrès",
+            "hu": "Kongresszusi Palota",
+            "ro": "Palais des Congrès",
+            "en": "Palais des Congrès"
+          },
+          "coords": [
+            2.8985,
+            42.7051
+          ],
+          "category": "theatres",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wichtige Haltestelle im Norden des Zentrums.",
+            "hu": "Fontos megálló a központ északi részén.",
+            "ro": "Stație importantă în nordul centrului.",
+            "en": "Important stop in the north of the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten 'Sankéo'-Busnetzes erreichen Sie alle wichtigen Sehenswürdigkeiten. Starten Sie im Herzen am Castillet und erkunden Sie die Altstadt zu Fuß. Danach bringt Sie ein kurzer Hop nach Norden zur schattigen Promenade und dem Palais des Congrès, ohne sich um Parkplätze kümmern zu müssen.",
+        "hu": "A jól kiépített 'Sankéo' buszhálózatnak köszönhetően minden fontos látnivalót elérhet. Kezdjen a szívben, a Castillet-nél, és fedezze fel gyalog az óvárost. Ezután egy rövid buszos utazással északra juthat az árnyas sétányhoz és a Kongresszusi Palotához, anélkül, hogy parkolással kellene bajlódnia.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze 'Sankéo', puteți ajunge la toate atracțiile importante. Începeți în inimă, la Castillet, și explorați orașul vechi pe jos. Apoi, un scurt salt cu autobuzul vă duce spre nord, la promenada umbrită și Palais des Congrès, fără să vă faceți griji pentru parcare.",
+        "en": "Thanks to the well-developed 'Sankéo' bus network, you can reach all the major sights. Start in the heart at Castillet and explore the old town on foot. Then, a short bus hop takes you north to the shaded promenade and the Palais des Congrès, without having to worry about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar de la Marine",
+            "tip": "Legendäre Bar am Place de la Loge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar de la Marine",
+            "tip": "Legendás bár a Loge téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar de la Marine",
+            "tip": "Bar legendar în Place de la Loge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar de la Marine",
+            "tip": "Legendary bar at Place de la Loge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Palais",
+            "tip": "Sitzbänke unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palota melletti park",
+            "tip": "Padok öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă Palat",
+            "tip": "Bănci sub copaci bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park by the Palace",
+            "tip": "Benches under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Paratilla",
+            "tip": "Berühmt für Gewürze und Feinkost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Paratilla",
+            "tip": "Fűszereiről és csemegeboltjairól híres utca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Paratilla",
+            "tip": "Celebră pentru mirodenii și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Paratilla",
+            "tip": "Famous for spices and delicatessen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Fahrer oder per App.",
+          "Die Busse fahren im Zentrum sehr regelmäßig.",
+          "Achten Sie auf die 'P'tit Bus'-Linien in der Innenstadt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet közvetlenül a vezetőnél vagy appon keresztül.",
+          "A buszok a központban nagyon sűrűn járnak.",
+          "Keresd a 'P'tit Bus' vonalakat a belvárosban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer sau prin aplicație.",
+          "Autobuzele circulă foarte regulat în centru.",
+          "Atenție la liniile 'P'tit Bus' din centrul orașului."
+        ],
+        "en": [
+          "Buy a day ticket directly from the driver or via the app.",
+          "Buses run very regularly in the center.",
+          "Look for the 'P'tit Bus' lines in the downtown area."
+        ]
+      }
+    }
+  }
+}

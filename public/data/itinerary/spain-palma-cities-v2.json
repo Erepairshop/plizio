@@ -1,0 +1,522 @@
+{
+  "city_id": "spain-palma-cities-v2",
+  "anchor": {
+    "name": "Palma de Mallorca",
+    "coords": [
+      2.6502,
+      39.5696
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plaza Mayor",
+          "coords": [
+            2.6511,
+            39.5714
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Frühstücken Sie eine Ensaimada in einer der Bäckereien in den Seitenstraßen.",
+            "hu": "Reggelizzen egy ensaimadát a mellékutcák egyik pékségében.",
+            "ro": "Savurați o ensaimada la una dintre brutăriile de pe străzile laterale.",
+            "en": "Enjoy an ensaimada breakfast at one of the bakeries in the side streets."
+          }
+        },
+        {
+          "name": "Almudaina-Palast",
+          "coords": [
+            2.6472,
+            39.5678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Mischung aus islamischer und gotischer Architektur.",
+            "hu": "Csodálja meg az iszlám és a gótikus építészet keveredését.",
+            "ro": "Admirați amestecul de arhitectură islamică și gotică.",
+            "en": "Admire the blend of Islamic and Gothic architecture."
+          }
+        },
+        {
+          "name": "Kathedrale von Mallorca",
+          "coords": [
+            2.6482,
+            39.5674
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Achten Sie auf das Lichtspiel der riesigen Rosette am Vormittag.",
+            "hu": "Figyelje meg a hatalmas rózsaablak fényjátékát délelőtt.",
+            "ro": "Observați jocul de lumini al rozasei uriașe în timpul dimineții.",
+            "en": "Watch the light play from the massive rose window during the morning."
+          }
+        },
+        {
+          "name": "Lonja de Mallorca",
+          "coords": [
+            2.645,
+            39.5675
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Das Meisterwerk der bürgerlichen Gotik ist oft kostenlos zugänglich.",
+            "hu": "A polgári gótika remekműve gyakran ingyenesen látogatható.",
+            "ro": "Capodopera goticului civil este adesea deschisă gratuit.",
+            "en": "This masterpiece of civil Gothic is often free to enter."
+          }
+        },
+        {
+          "name": "Es Baluard",
+          "coords": [
+            2.6415,
+            39.5688
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Genießen Sie den Blick auf den Hafen von der Museumsterrasse.",
+            "hu": "Élvezze a kikötőre nyíló kilátást a múzeum teraszáról.",
+            "ro": "Bucurați-vă de vederea spre port de pe terasa muzeului.",
+            "en": "Enjoy the harbor view from the museum terrace."
+          }
+        },
+        {
+          "name": "Passeig del Born",
+          "coords": [
+            2.6475,
+            39.5695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Perfekt für einen Kaffee unter den Platanen zum Abschluss.",
+            "hu": "Tökéletes hely egy kávéhoz a platánfák alatt a nap végén.",
+            "ro": "Perfect pentru o cafea sub platani la finalul zilei.",
+            "en": "Perfect for a coffee under the plane trees at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen der Altstadt auf der Plaza Mayor. Ein kurzer Spaziergang führt Sie zum prachtvollen Almudaina-Palast und zur majestätischen Kathedrale La Seu, dem Wahrzeichen der Stadt. Nach der Besichtigung schlendern Sie zur Lonja, der alten Seehandelsbörse. Der Nachmittag gehört der modernen Kunst im Es Baluard, bevor Sie den Tag auf dem eleganten Passeig del Born ausklingen lassen.",
+        "hu": "A nap az óváros szívében, a Plaza Mayoron indul. Rövid séta után elérjük az Almudaina-palotát és a fenséges La Seu katedrálist, a város jelképét. A látogatás után a Lonja gótikus csarnoka felé vesszük az irányt. Délután az Es Baluard modern művészeti gyűjteményét fedezzük fel, majd a napot az elegáns Passeig del Born platánjai alatt zárjuk.",
+        "ro": "Ziua începe în inima orașului vechi, în Plaza Mayor. O scurtă plimbare vă duce la magnificul Palat Almudaina și la maiestuoasa Catedrală La Seu. După vizită, mergeți spre Lonja, vechea bursă maritimă. După-amiaza este dedicată artei moderne la Es Baluard, înainte de a încheia ziua pe eleganta promenadă Passeig del Born.",
+        "en": "Your day starts in the heart of the old town at Plaza Mayor. A short walk leads to the grand Almudaina Palace and the majestic La Seu Cathedral. After the visit, stroll to the Lonja, the old maritime trade exchange. The afternoon is dedicated to modern art at Es Baluard, before ending the day on the elegant Passeig del Born promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ca'n Joan de S'Aigo",
+            "tip": "Probieren Sie heiße Schokolade mit Ensaimada."
+          },
+          {
+            "name": "Mercat de l'Olivar",
+            "tip": "Frische Tapas und Meeresfrüchte direkt am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ca'n Joan de S'Aigo",
+            "tip": "Kóstolja meg a forró csokoládét ensaimadával."
+          },
+          {
+            "name": "Mercat de l'Olivar",
+            "tip": "Friss tapasok és tenger gyümölcsei a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ca'n Joan de S'Aigo",
+            "tip": "Încercați ciocolata caldă cu ensaimada."
+          },
+          {
+            "name": "Mercat de l'Olivar",
+            "tip": "Tapas proaspete și fructe de mare direct în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ca'n Joan de S'Aigo",
+            "tip": "Try the hot chocolate with ensaimada."
+          },
+          {
+            "name": "Mercat de l'Olivar",
+            "tip": "Fresh tapas and seafood directly at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hort del Rei",
+            "tip": "Ruhiger Garten am Fuße des Palastes.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Blick auf die Kathedrale am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hort del Rei",
+            "tip": "Csendes kert a palota lábánál.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Kilátás a katedrálisra a víz mellől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hort del Rei",
+            "tip": "Grădină liniștită la picioarele palatului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "Vedere spre catedrală de lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hort del Rei",
+            "tip": "Quiet garden at the foot of the palace.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Parc de la Mar",
+            "tip": "View of the cathedral by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avinguda Jaume III",
+            "tip": "Große Marken und Kaufhäuser."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "Traditionelle Lederwaren und Schuhe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avinguda Jaume III",
+            "tip": "Nagy márkák és áruházak."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "Hagyományos bőráruk és cipők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avinguda Jaume III",
+            "tip": "Branduri mari și magazine universale."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "Articole tradiționale din piele și pantofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avinguda Jaume III",
+            "tip": "Big brands and department stores."
+          },
+          {
+            "name": "Carrer de Sant Miquel",
+            "tip": "Traditional leather goods and shoes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Kathedrale ist sonntags für Besichtigungen eingeschränkt.",
+          "Buchen Sie Tickets für La Seu vorab online.",
+          "Mittagsruhe beachten: Viele kleine Läden schließen zwischen 14 und 17 Uhr."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A katedrális vasárnap korlátozottan látogatható.",
+          "Foglaljon jegyet online a La Seu-ba a sorban állás elkerülésére.",
+          "Figyeljen a sziesztára: sok kis bolt bezár 14 és 17 óra között."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Catedrala are program limitat pentru vizite duminica.",
+          "Rezervați biletele pentru La Seu online în avans.",
+          "Respectați siesta: multe magazine mici închid între orele 14 și 17."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The Cathedral has limited visiting hours on Sundays.",
+          "Book tickets for La Seu online in advance.",
+          "Mind the siesta: many small shops close between 2 PM and 5 PM."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kathedrale von Mallorca",
+          "coords": [
+            2.6482,
+            39.5674
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie im unterirdischen Parkhaus Parc de la Mar.",
+            "hu": "Parkoljon a Parc de la Mar alatti mélygarázsban.",
+            "ro": "Parcați în parcarea subterană Parc de la Mar.",
+            "en": "Park in the underground Parc de la Mar parking lot."
+          }
+        },
+        {
+          "name": "Almudaina-Palast",
+          "coords": [
+            2.6472,
+            39.5678
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Kurzer Spaziergang vom Parkhaus zum Palast (Cluster 1).",
+            "hu": "Rövid séta a parkolótól a palotáig (1. klaszter).",
+            "ro": "Scurtă plimbare de la parcare la palat (Cluster 1).",
+            "en": "Short walk from the parking to the palace (Cluster 1)."
+          }
+        },
+        {
+          "name": "Schloss Bellver",
+          "coords": [
+            2.619,
+            39.5641
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Genießen Sie den 360-Grad-Blick über die Bucht von Palma.",
+            "hu": "Élvezze a 360 fokos panorámát a Palma-öbölre.",
+            "ro": "Bucurați-vă de vederea la 360 de grade asupra golfului Palma.",
+            "en": "Enjoy the 360-degree view over the Bay of Palma."
+          }
+        },
+        {
+          "name": "Cuevas de Génova",
+          "coords": [
+            2.603,
+            39.567
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Eine kleinere, aber faszinierende Tropfsteinhöhle in der Nähe.",
+            "hu": "Egy kisebb, de lenyűgöző cseppkőbarlang a közelben.",
+            "ro": "O peșteră cu stalactite mai mică, dar fascinantă, în apropiere.",
+            "en": "A smaller but fascinating limestone cave nearby."
+          }
+        },
+        {
+          "name": "Passeig del Born",
+          "coords": [
+            2.6475,
+            39.5695
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.1,
+          "tip_4lang": {
+            "de": "Nutzen Sie das Parkhaus Paseo Mallorca.",
+            "hu": "Használja a Paseo Mallorca parkolóházat.",
+            "ro": "Folosiți parcarea Paseo Mallorca.",
+            "en": "Use the Paseo Mallorca parking garage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Palma in Clustern. Zuerst besichtigen Sie die Kathedrale und den Palast im Zentrum. Danach fahren Sie hinauf zum Schloss Bellver, der einzigartigen Rundfestung. Ein Abstecher führt Sie zu den Höhlen von Génova, bevor Sie zurückkehren, um den Born-Boulevard zu genießen.",
+        "hu": "Autóval klaszterekben fedezzük fel Palmát. Először a központi katedrálist és palotát nézzük meg, majd felautózunk a Bellver-kastélyhoz, amely különleges kerek alaprajzáról híres. Ezután a génovai barlangok felé vesszük az irányt, majd visszatérünk a Born sugárúthoz.",
+        "ro": "Cu mașina explorați Palma în clustere. Mai întâi vizitați catedrala și palatul din centru. Apoi conduceți până la Castelul Bellver, fortăreața circulară unică. O scurtă vizită vă duce la peșterile din Génova, înainte de a reveni pentru a vă bucura de bulevardul Born.",
+        "en": "By car, you explore Palma in clusters. First, visit the Cathedral and the Palace in the center. Then drive up to Bellver Castle, the unique circular fortress. A detour takes you to the Génova Caves before returning to enjoy the Born boulevard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante Génova",
+            "tip": "Probieren Sie Lammbraten (Lechona)."
+          },
+          {
+            "name": "Es Baluard Restaurant",
+            "tip": "Kreative Küche mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurante Génova",
+            "tip": "Kóstolja meg a sült bárányt (Lechona)."
+          },
+          {
+            "name": "Es Baluard Restaurant",
+            "tip": "Kreatív konyha kilátással a tengerre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Génova",
+            "tip": "Încercați friptura de miel (Lechona)."
+          },
+          {
+            "name": "Es Baluard Restaurant",
+            "tip": "Bucătărie creativă cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante Génova",
+            "tip": "Try the roast lamb (Lechona)."
+          },
+          {
+            "name": "Es Baluard Restaurant",
+            "tip": "Creative cuisine with sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castell de Bellver Wald",
+            "tip": "Spaziergang im Pinienwald rund um das Schloss.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castell de Bellver erdő",
+            "tip": "Séta a kastély körüli fenyőerdőben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Castell de Bellver",
+            "tip": "Plimbare în pădurea de pini din jurul castelului.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castell de Bellver Forest",
+            "tip": "Walk in the pine forest surrounding the castle.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "FAN Mallorca Shopping",
+            "tip": "Großes Einkaufszentrum in Flughafennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "FAN Mallorca Shopping",
+            "tip": "Nagy bevásárlóközpont a reptér közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "FAN Mallorca Shopping",
+            "tip": "Centru comercial mare lângă aeroport."
+          }
+        ],
+        "en": [
+          {
+            "name": "FAN Mallorca Shopping",
+            "tip": "Large shopping mall near the airport."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie nicht in die ACIRE-Zonen (Anwohnerbereiche) der Altstadt.",
+          "Die Parkhauskosten im Zentrum sind recht hoch.",
+          "Am Schloss Bellver gibt es kostenlose Parkplätze direkt am Eingang."
+        ],
+        "hu": [
+          "Ne hajtson be az óvárosi ACIRE zónákba (csak lakóknak).",
+          "A központi parkolóházak árai meglehetősen magasak.",
+          "A Bellver-kastélynál ingyenes parkolási lehetőség van a bejáratnál."
+        ],
+        "ro": [
+          "Nu intrați în zonele ACIRE (doar pentru rezidenți) din orașul vechi.",
+          "Costurile parcărilor în centru sunt destul de ridicate.",
+          "La Castelul Bellver există parcare gratuită chiar la intrare."
+        ],
+        "en": [
+          "Do not drive into the ACIRE zones (residential only) in the old town.",
+          "Parking garage costs in the center are quite high.",
+          "Free parking is available right at the entrance of Bellver Castle."
+        ]
+      }
+    }
+  }
+}

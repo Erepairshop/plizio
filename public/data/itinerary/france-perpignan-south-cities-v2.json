@@ -1,0 +1,1316 @@
+{
+  "city_id": "france-perpignan-south-cities-v2",
+  "anchor": {
+    "name": "Perpignan-Sud",
+    "coords": [
+      42.67,
+      2.89
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            42.7011,
+            2.8941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für den ersten Blick auf die Stadt.",
+            "hu": "Mássz fel a toronyba a város első panorámájáért.",
+            "ro": "Urcați în turn pentru prima panoramă a orașului.",
+            "en": "Climb the tower for the first panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Loge",
+            "hu": "Place de la Loge",
+            "ro": "Place de la Loge",
+            "en": "Place de la Loge"
+          },
+          "coords": [
+            42.6994,
+            2.8944
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der ideale Ort für einen schnellen Espresso am Vormittag.",
+            "hu": "Ideális hely egy gyors délelőtti eszpresszóhoz.",
+            "ro": "Locul ideal pentru un espresso rapid de dimineață.",
+            "en": "Ideal spot for a quick morning espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville (Városháza)",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            42.6993,
+            2.8948
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:08",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Innenhof mit der Maillol-Statue.",
+            "hu": "Csodáld meg a belső udvart a Maillol-szoborral.",
+            "ro": "Admirați curtea interioară cu statuia lui Maillol.",
+            "en": "Admire the interior courtyard with the Maillol statue."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Hyacinthe Rigaud",
+            "hu": "Hyacinthe Rigaud Múzeum",
+            "ro": "Musee Hyacinthe Rigaud",
+            "en": "Musee Hyacinthe Rigaud"
+          },
+          "coords": [
+            42.6983,
+            2.8942
+          ],
+          "category": "museums",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rigauds Porträts sind Meisterwerke des Barock.",
+            "hu": "Rigaud portréi a barokk mesterművei.",
+            "ro": "Portretele lui Rigaud sunt capodopere baroce.",
+            "en": "Rigaud's portraits are Baroque masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            42.6998,
+            2.8978
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das beeindruckende gotische Altarbild.",
+            "hu": "Figyeld meg a lenyűgöző gótikus oltárképet.",
+            "ro": "Observați altarul gotic impresionant.",
+            "en": "Note the impressive Gothic altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Santo",
+            "hu": "Campo Santo",
+            "ro": "Campo Santo",
+            "en": "Campo Santo"
+          },
+          "coords": [
+            42.6995,
+            2.8985
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein seltener mittelalterlicher Kreuzgang-Friedhof.",
+            "hu": "Ritka középkori kerengős temető.",
+            "ro": "Un rar cimitir medieval cu claustru.",
+            "en": "A rare medieval cloister cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Könige von Mallorca",
+            "hu": "Mallorcai királyok palotája",
+            "ro": "Palatul Regilor de Mallorca",
+            "en": "Palace of the Kings of Majorca"
+          },
+          "coords": [
+            42.6933,
+            2.8975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die Gärten bieten die beste Aussicht auf den Canigou.",
+            "hu": "A kertekből nyílik a legjobb kilátás a Canigou-ra.",
+            "ro": "Grădinile oferă cea mai bună vedere spre Canigou.",
+            "en": "The gardens offer the best views of Mount Canigou."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Bir Hakeim",
+            "hu": "Bir Hakeim tér (park)",
+            "ro": "Square Bir Hakeim",
+            "en": "Square Bir Hakeim"
+          },
+          "coords": [
+            42.6985,
+            2.9015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:51",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss im Schatten der hohen Platanen.",
+            "hu": "Pihentető lezárás a magas platánok árnyékában.",
+            "ro": "Final relaxant la umbra platanilor înalți.",
+            "en": "Relaxing finish under the shade of tall plane trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am ikonischen Castillet, dem Tor zur Altstadt. Nach einem Bummel über die Place de la Loge bewundern Sie die katalanische Architektur des Rathauses und tauchen im Rigaud-Museum in die Kunstgeschichte ein. Der Nachmittag gehört der prächtigen Kathedrale und dem mystischen Campo Santo. Den krönenden Abschluss bildet der massive Königspalast, bevor Sie den Abend im grünen Square Bir Hakeim ausklingen lassen.",
+        "hu": "Kezdje a napot az ikonikus Castillet-nél, az óváros kapujánál. A Place de la Loge-on tett séta után csodálja meg a városháza katalán építészetét, majd merüljön el a művészettörténetben a Rigaud Múzeumban. A délután a pompás székesegyházé és a misztikus Campo Santóé. A nap fénypontja a masszív királyi palota, mielőtt az estét a zöldellő Bir Hakeim téren zárná.",
+        "ro": "Începeți ziua la emblematicul Castillet, poarta de intrare în orașul vechi. După o plimbare prin Place de la Loge, admirați arhitectura catalană a primăriei și scufundați-vă în istoria artei la Muzeul Rigaud. După-amiaza este dedicată catedralei magnifice și misticului Campo Santo. Punctul culminant este masivul Palat Regal, înainte de a încheia seara în parcul Square Bir Hakeim.",
+        "en": "Start your day at the iconic Castillet, the gateway to the old town. After a stroll through Place de la Loge, admire the Catalan architecture of the Town Hall and dive into art history at the Rigaud Museum. The afternoon is dedicated to the magnificent cathedral and the mystical Campo Santo. The highlight is the massive Royal Palace, before ending the evening in the leafy Square Bir Hakeim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Traditionelle katalanische Fleischbällchen mit Bohnen."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "Die lokale Antwort auf Crème brûlée, oft mit Zitrone verfeinert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Hagyományos katalán húsgombóc babbal."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "A helyi válasz a crème brûlée-re, gyakran citrommal ízesítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Chiftele tradiționale catalane servite cu fasole."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "Varianta locală de crème brûlée, adesea cu aromă de lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Traditional Catalan meatballs served with beans."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "The local answer to crème brûlée, often flavored with lemon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palast-Gärten",
+            "tip": "Ruhiger Rückzugsort mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Campo Santo",
+            "tip": "Meditative Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palota-kertek",
+            "tip": "Csendes menedék panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Campo Santo",
+            "tip": "Meditatív csend a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului",
+            "tip": "Refugiu liniștit cu vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Campo Santo",
+            "tip": "Liniște meditativă în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Gardens",
+            "tip": "Quiet retreat with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Campo Santo",
+            "tip": "Meditative silence in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Überdachter Markt mit lokalen Delikatessen."
+          },
+          {
+            "name": "Katalanische Stoffe",
+            "tip": "Suchen Sie nach bunt gestreiften 'Toiles du Soleil'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Fedett piac helyi finomságokkal."
+          },
+          {
+            "name": "Katalán textilek",
+            "tip": "Keresd a színes csíkos 'Toiles du Soleil' anyagokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Piață acoperită cu delicatese locale."
+          },
+          {
+            "name": "Țesături catalane",
+            "tip": "Căutați textilele colorate cu dungi 'Toiles du Soleil'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Vauban",
+            "tip": "Indoor market with local delicacies."
+          },
+          {
+            "name": "Catalan Fabrics",
+            "tip": "Look for the colorful striped 'Toiles du Soleil' textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist kompakt und am besten zu Fuß zu erkunden.",
+          "Achten Sie auf die katalanische Flagge, die hier überall präsent ist.",
+          "Viele Geschäfte machen zwischen 12:30 und 14:00 Uhr Mittagspause."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan fedezhető fel a legjobban.",
+          "Figyelje a katalán zászlót, amely itt mindenhol jelen van.",
+          "Sok üzlet tart ebédszünetet 12:30 és 14:00 között."
+        ],
+        "ro": [
+          "Orașul vechi este compact și cel mai bine explorat la pas.",
+          "Observați steagul catalan, prezent peste tot aici.",
+          "Multe magazine au pauză de prânz între 12:30 și 14:00."
+        ],
+        "en": [
+          "The old town is compact and best explored on foot.",
+          "Look out for the Catalan flag, which is omnipresent here.",
+          "Many shops take a lunch break between 12:30 and 14:00."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Bir Hakeim",
+            "hu": "Bir Hakeim tér",
+            "ro": "Square Bir Hakeim",
+            "en": "Square Bir Hakeim"
+          },
+          "coords": [
+            42.6985,
+            2.9015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt mit breiten Wegen.",
+            "hu": "Tökéletes kiindulópont széles utakkal.",
+            "ro": "Punct de plecare perfect cu alei largi.",
+            "en": "Perfect starting point with wide paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Santo",
+            "hu": "Campo Santo",
+            "ro": "Campo Santo",
+            "en": "Campo Santo"
+          },
+          "coords": [
+            42.6995,
+            2.8985
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder vor dem Eingang sicher ab.",
+            "hu": "Zárd le a bringát biztosan a bejárat előtt.",
+            "ro": "Parcați bicicletele în siguranță la intrare.",
+            "en": "Park bikes securely before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            42.6998,
+            2.8978
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kühle Pause in der prachtvollen Kirche.",
+            "hu": "Hűsítő pihenő a pompás templomban.",
+            "ro": "O pauză răcoroasă în biserica magnifică.",
+            "en": "Cool break inside the magnificent church."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            42.7011,
+            2.8941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt ist ein Muss.",
+            "hu": "A város jelképe kötelező látnivaló.",
+            "ro": "Simbolul orașului este un obiectiv obligatoriu.",
+            "en": "The city's landmark is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Loge",
+            "hu": "Place de la Loge",
+            "ro": "Place de la Loge",
+            "en": "Place de la Loge"
+          },
+          "coords": [
+            42.6994,
+            2.8944
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahrradschieben ist in der Fußgängerzone Pflicht.",
+            "hu": "A sétálóövezetben tolni kell a kerékpárt.",
+            "ro": "Este obligatoriu să mergeți pe lângă bicicletă în zona pietonală.",
+            "en": "Walking your bike is mandatory in the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            42.6993,
+            2.8948
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für katalanische Schmiedekunst.",
+            "hu": "Rövid megálló a katalán kovácsművességért.",
+            "ro": "Scurtă oprire pentru fierăria catalană.",
+            "en": "Short stop for Catalan ironwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Hyacinthe Rigaud",
+            "hu": "Hyacinthe Rigaud Múzeum",
+            "ro": "Musee Hyacinthe Rigaud",
+            "en": "Musee Hyacinthe Rigaud"
+          },
+          "coords": [
+            42.6983,
+            2.8942
+          ],
+          "category": "museums",
+          "arrive_at": "14:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hochkarätige Kunst in historischem Ambiente.",
+            "hu": "Kiváló művészet történelmi környezetben.",
+            "ro": "Artă de top într-un ambient istoric.",
+            "en": "High-quality art in a historical setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Könige von Mallorca",
+            "hu": "Mallorcai királyok palotája",
+            "ro": "Palatul Regilor de Mallorca",
+            "en": "Palace of the Kings of Majorca"
+          },
+          "coords": [
+            42.6933,
+            2.8975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für den Weitblick.",
+            "hu": "Az emelkedő megéri a távoli kilátásért.",
+            "ro": "Urcarea merită pentru vederea panoramică.",
+            "en": "The climb is worth it for the far-reaching views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Perpignan per Rad bietet eine Mischung aus grünen Parks und historischen Gassen. Starten Sie entspannt im Square Bir Hakeim, bevor Sie das religiöse Zentrum um die Kathedrale erkunden. Das Castillet markiert den Übergang ins Herz der Stadt. Beachten Sie, dass in den engsten Gassen der Altstadt Schieben oft angenehmer ist. Zum Abschluss fordert der Anstieg zum Königspalast Ihre Waden, belohnt aber mit einer fantastischen Aussicht.",
+        "hu": "Perpignan kerékpárral a zöld parkok és történelmi sikátorok keverékét kínálja. Kezdjen lazán a Bir Hakeim téren, mielőtt felfedezné a székesegyház körüli vallási központot. A Castillet jelzi az átmenetet a város szívébe. Vegye figyelembe, hogy az óváros legszűkebb utcáin gyakran kellemesebb tolni a bringát. Végezetül a királyi palotához vezető emelkedő próbára teszi a vádlikat, de fantasztikus kilátással jutalmaz.",
+        "ro": "Explorarea orașului Perpignan pe bicicletă oferă un amestec de parcuri verzi și străduțe istorice. Începeți relaxat în Square Bir Hakeim, înainte de a explora centrul religios din jurul catedralei. Castillet marchează trecerea spre inima orașului. Rețineți că în cele mai înguste străduțe ale centrului vechi, mersul pe lângă bicicletă este adesea mai plăcut. La final, urcarea spre Palatul Regal vă va solicita, dar vă va răsplăti cu o priveliște fantastică.",
+        "en": "Perpignan by bike offers a mix of green parks and historical alleys. Start relaxed in Square Bir Hakeim before exploring the religious center around the cathedral. The Castillet marks the transition into the heart of the city. Note that in the narrowest streets of the old town, walking your bike is often more pleasant. Finally, the climb to the Royal Palace challenges your legs but rewards you with a fantastic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Escalivada",
+            "tip": "Geröstetes Gemüse, perfekt für eine leichte Radler-Pause."
+          },
+          {
+            "name": "Anchovis aus Collioure",
+            "tip": "Salzige Delikatesse aus der nahen Küstenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Escalivada",
+            "tip": "Sült zöldségek, tökéletes egy könnyű bringás pihenőhöz."
+          },
+          {
+            "name": "Collioure-i ajóka",
+            "tip": "Sós ínyencség a közeli tengerparti városból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Escalivada",
+            "tip": "Legume coapte, perfecte pentru o pauză ușoară de bicicletă."
+          },
+          {
+            "name": "Anșoa din Collioure",
+            "tip": "Delicatesă sărată din orașul de coastă din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Escalivada",
+            "tip": "Roasted vegetables, perfect for a light cycling break."
+          },
+          {
+            "name": "Anchovies from Collioure",
+            "tip": "Salty delicacy from the nearby coastal town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Basse",
+            "tip": "Radweg am Fluss entlang.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Königspalast-Bastion",
+            "tip": "Ruhe mit Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Basse-part",
+            "tip": "Kerékpárút a folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Királyi palota bástyája",
+            "tip": "Csend és kilátás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Basse",
+            "tip": "Pistă de biciclete de-a lungul râului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Bastionul Palatului Regal",
+            "tip": "Liniște cu vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basse Riverbanks",
+            "tip": "Bike path along the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Royal Palace Bastion",
+            "tip": "Quiet with a view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Katalanisches Espadrilles",
+            "tip": "Leichte, traditionelle Sommerschuhe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalán espadrilles",
+            "tip": "Könnyű, hagyományos nyári cipők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Espadrile catalane",
+            "tip": "Încălțăminte tradițională ușoară de vară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catalan Espadrilles",
+            "tip": "Lightweight, traditional summer shoes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege entlang der Hauptverkehrsachsen.",
+          "Die Einbahnstraßenregelung gilt oft auch für Radfahrer.",
+          "Ein gutes Schloss ist bei Besichtigungen unerlässlich."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat a fő közlekedési utak mentén.",
+          "Az egyirányú utcák szabályai gyakran a biciklisekre is vonatkoznak.",
+          "Egy jó lakat elengedhetetlen a látogatások során."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate de-a lungul axelor principale.",
+          "Regulile pentru străzile cu sens unic se aplică adesea și bicicliștilor.",
+          "Un lacăt bun este esențial în timpul vizitelor."
+        ],
+        "en": [
+          "Use the marked bike lanes along the main traffic arteries.",
+          "One-way street rules often apply to cyclists too.",
+          "A good lock is essential during sightseeing stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast der Könige von Mallorca",
+            "hu": "Mallorcai királyok palotája",
+            "ro": "Palatul Regilor de Mallorca",
+            "en": "Palace of the Kings of Majorca"
+          },
+          "coords": [
+            42.6933,
+            2.8975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Eingang des Palastes.",
+            "hu": "Parkolj közvetlenül a palota bejáratánál.",
+            "ro": "Parcați direct la intrarea palatului.",
+            "en": "Park directly at the palace entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            42.7011,
+            2.8941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Parking Wilson' in der Nähe.",
+            "hu": "Használd a közeli 'Parking Wilson' parkolóházat.",
+            "ro": "Utilizați parcarea 'Parking Wilson' din apropiere.",
+            "en": "Use the nearby 'Parking Wilson' garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Loge",
+            "hu": "Place de la Loge",
+            "ro": "Place de la Loge",
+            "en": "Place de la Loge"
+          },
+          "coords": [
+            42.6994,
+            2.8944
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:18",
+          "stay_min": 35,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Castillet erreichbar.",
+            "hu": "Gyalogosan elérhető a Castillet-től.",
+            "ro": "Accesibil pe jos de la Castillet.",
+            "en": "Accessible on foot from Le Castillet."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            42.6993,
+            2.8948
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler Teil des Altstadt-Clusters.",
+            "hu": "Az óvárosi klaszter központi része.",
+            "ro": "Parte centrală a clusterului din orașul vechi.",
+            "en": "Central part of the old town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Hyacinthe Rigaud",
+            "hu": "Hyacinthe Rigaud Múzeum",
+            "ro": "Musee Hyacinthe Rigaud",
+            "en": "Musee Hyacinthe Rigaud"
+          },
+          "coords": [
+            42.6983,
+            2.8942
+          ],
+          "category": "museums",
+          "arrive_at": "13:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In einer ruhigen Seitenstraße gelegen.",
+            "hu": "Egy csendes mellékutcában található.",
+            "ro": "Situat pe o străduță laterală liniștită.",
+            "en": "Located on a quiet side street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            42.6998,
+            2.8978
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum religiösen Viertel.",
+            "hu": "Rövid autózás a vallási negyedhez.",
+            "ro": "Scurtă deplasare spre cartierul religios.",
+            "en": "Short drive to the religious quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Santo",
+            "hu": "Campo Santo",
+            "ro": "Campo Santo",
+            "en": "Campo Santo"
+          },
+          "coords": [
+            42.6995,
+            2.8985
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:24",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale.",
+            "hu": "Közvetlenül a székesegyház mellett.",
+            "ro": "Chiar lângă catedrală.",
+            "en": "Right next to the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Bir Hakeim",
+            "hu": "Bir Hakeim tér",
+            "ro": "Square Bir Hakeim",
+            "en": "Square Bir Hakeim"
+          },
+          "coords": [
+            42.6985,
+            2.9015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkplätze entlang des Boulevards verfügbar.",
+            "hu": "Parkolóhelyek a sugárút mentén elérhetők.",
+            "ro": "Locuri de parcare disponibile de-a lungul bulevardului.",
+            "en": "Parking spaces available along the boulevard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Perpignan in Clustern. Beginnen Sie am majestätischen Königspalast. Danach parken Sie zentral für den Altstadt-Rundgang: Castillet, Place de la Loge und das Rigaud-Museum sind bequem zu Fuß erreichbar. Ein weiterer kurzer Hop bringt Sie zum religiösen Komplex mit Kathedrale und Campo Santo. Den Tag beschließen Sie entspannt am Square Bir Hakeim, wo Sie die typische südländische Atmosphäre genießen.",
+        "hu": "Autóval klaszterekben fedezheti fel Perpignant. Kezdjen a fenséges királyi palotánál. Ezután parkoljon le a központban az óvárosi körúthoz: a Castillet, a Place de la Loge és a Rigaud Múzeum kényelmesen elérhető gyalog. Egy másik rövid szakasz elviszi a vallási komplexumhoz, a székesegyházhoz és a Campo Santóhoz. A napot pihentetően zárja a Bir Hakeim téren, élvezve a tipikus déli hangulatot.",
+        "ro": "Cu mașina, veți explora Perpignan în clustere. Începeți la maiestuosul Palat Regal. Apoi, parcați central pentru turul orașului vechi: Castillet, Place de la Loge și Muzeul Rigaud sunt ușor accesibile pe jos. O altă scurtă deplasare vă duce la complexul religios cu catedrala și Campo Santo. Încheiați ziua relaxat în Square Bir Hakeim, savurând atmosfera tipică sudică.",
+        "en": "By car, you explore Perpignan in clusters. Start at the majestic Royal Palace. Then park centrally for the old town tour: Castillet, Place de la Loge, and the Rigaud Museum are easily reached on foot. Another short hop takes you to the religious complex with the cathedral and Campo Santo. End the day relaxed at Square Bir Hakeim, enjoying the typical southern atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cargolade",
+            "tip": "Gegrillte Schnecken, eine katalanische Institution."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cargolade",
+            "tip": "Grillezett csigák, igazi katalán intézmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cargolade",
+            "tip": "Melci la grătar, o instituție catalană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cargolade",
+            "tip": "Grilled snails, a Catalan institution."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Stille Oase in der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Csendes oázis a városban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Oază de liniște în oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister Garden",
+            "tip": "Quiet oasis in the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Katalanisches Olivenöl",
+            "tip": "Direkt vom Erzeuger in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalán olívaolaj",
+            "tip": "Közvetlenül a régió termelőitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline catalan",
+            "tip": "Direct de la producătorii din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catalan Olive Oil",
+            "tip": "Directly from the region's producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour am späten Nachmittag im Stadtzentrum.",
+          "Parkhäuser sind oft stressfreier als die Parkplatzsuche am Straßenrand.",
+          "Die Straßen in der Altstadt sind teilweise sehr eng."
+        ],
+        "hu": [
+          "Kerülje a késő délutáni csúcsforgalmat a városközpontban.",
+          "A parkolóházak gyakran stresszmentesebbek, mint az utcai parkolóhely-keresés.",
+          "Az óváros utcái néhol nagyon szűkek."
+        ],
+        "ro": [
+          "Evitați orele de vârf de după-amiază târzie în centrul orașului.",
+          "Parcările etajate sunt adesea mai puțin stresante decât căutarea unui loc pe stradă.",
+          "Străzile din orașul vechi sunt parțial foarte înguste."
+        ],
+        "en": [
+          "Avoid the late afternoon rush hour in the city center.",
+          "Parking garages are often less stressful than street parking.",
+          "Some streets in the old town are very narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Castillet",
+            "hu": "Le Castillet",
+            "ro": "Le Castillet",
+            "en": "Le Castillet"
+          },
+          "coords": [
+            42.7011,
+            2.8941
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für viele Buslinien.",
+            "hu": "Számos buszvonal központi csomópontja.",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Central hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Loge",
+            "hu": "Place de la Loge",
+            "ro": "Place de la Loge",
+            "en": "Place de la Loge"
+          },
+          "coords": [
+            42.6994,
+            2.8944
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:28",
+          "stay_min": 35,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe des Castillet-Halts.",
+            "hu": "Nagyon közel a Castillet megállóhoz.",
+            "ro": "Foarte aproape de stația Castillet.",
+            "en": "Very close to the Castillet stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            42.6993,
+            2.8948
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:06",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg innerhalb der Fußgängerzone.",
+            "hu": "Rövid séta a sétálóövezeten belül.",
+            "ro": "O scurtă plimbare în zona pietonală.",
+            "en": "A short walk within the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Hyacinthe Rigaud",
+            "hu": "Hyacinthe Rigaud Múzeum",
+            "ro": "Musee Hyacinthe Rigaud",
+            "en": "Musee Hyacinthe Rigaud"
+          },
+          "coords": [
+            42.6983,
+            2.8942
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kunstgenuss im historischen Stadtkern.",
+            "hu": "Művészeti élmény a történelmi városmagban.",
+            "ro": "Savoare artistică în nucleul istoric al orașului.",
+            "en": "Artistic enjoyment in the historical city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Könige von Mallorca",
+            "hu": "Mallorcai királyok palotája",
+            "ro": "Palatul Regilor de Mallorca",
+            "en": "Palace of the Kings of Majorca"
+          },
+          "coords": [
+            42.6933,
+            2.8975
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Buslinie C hält in der Nähe am Boulevard.",
+            "hu": "A C buszmegálló a közeli sugárúton található.",
+            "ro": "Linia de autobuz C oprește pe bulevardul din apropiere.",
+            "en": "Bus line C stops nearby on the boulevard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Cathedral"
+          },
+          "coords": [
+            42.6998,
+            2.8978
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Vom Palast zurück in Richtung Stadtzentrum fahren.",
+            "hu": "A palotától indulj vissza a városközpont irányába.",
+            "ro": "Mergeți de la palat înapoi spre centrul orașului.",
+            "en": "Take the bus back towards the city center from the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Campo Santo",
+            "hu": "Campo Santo",
+            "ro": "Campo Santo",
+            "en": "Campo Santo"
+          },
+          "coords": [
+            42.6995,
+            2.8985
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:39",
+          "stay_min": 35,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Kathedralen-Halt.",
+            "hu": "Gyalogosan elérhető a székesegyházi megállótól.",
+            "ro": "Accesibil pe jos de la stația de la catedrală.",
+            "en": "Within walking distance of the cathedral stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Bir Hakeim",
+            "hu": "Bir Hakeim tér",
+            "ro": "Square Bir Hakeim",
+            "en": "Square Bir Hakeim"
+          },
+          "coords": [
+            42.6985,
+            2.9015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein kurzer Bus-Trip für den grünen Abschluss.",
+            "hu": "Egy rövid buszozás a zöld befejezéshez.",
+            "ro": "O scurtă călătorie cu autobuzul pentru finalul verde.",
+            "en": "A short bus trip for a green finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Busnetzes von 'Sankéo' ist Perpignan leicht ohne Auto zu entdecken. Das Castillet dient als idealer Startpunkt und Umsteigepunkt. Die Altstadt erkunden Sie in einem Fußgänger-Cluster, bevor Sie den Bus zum etwas höher gelegenen Königspalast nehmen. Später kehren Sie zurück ins Zentrum zur Kathedrale und beenden den Tag entspannt im Park Square Bir Hakeim.",
+        "hu": "A jól kiépített 'Sankéo' buszhálózatnak köszönhetően Perpignan könnyen felfedezhető autó nélkül is. A Castillet ideális kiinduló- és átszállópontként szolgál. Az óvárost egy gyalogos klaszterben fedezheti fel, mielőtt buszra szállna a kissé magasabban fekvő királyi palotához. Később visszatér a központba a székesegyházhoz, és pihentetően zárja a napot a Bir Hakeim parkban.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze 'Sankéo', Perpignan este ușor de descoperit fără mașină. Castillet servește drept punct ideal de plecare și de transfer. Veți explora orașul vechi într-un cluster pietonal, înainte de a lua autobuzul spre Palatul Regal, situat ceva mai sus. Mai târziu, reveniți în centru la catedrală și încheiați ziua relaxat în parcul Square Bir Hakeim.",
+        "en": "Thanks to the well-developed 'Sankéo' bus network, Perpignan is easy to discover without a car. The Castillet serves as an ideal starting and transfer point. You explore the old town in a pedestrian cluster before taking the bus to the slightly elevated Royal Palace. Later, you return to the center for the cathedral and finish the day relaxed in Square Bir Hakeim park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rousquilles",
+            "tip": "Zartes Gebäck mit Anis und Zitronenglasur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rousquilles",
+            "tip": "Puha sütemény ánizzsal és citrommázzal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rousquilles",
+            "tip": "Pateuri fragede cu anason și glazură de lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rousquilles",
+            "tip": "Tender pastries with anise and lemon glaze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Campo Santo Kreuzgang",
+            "tip": "Gotische Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Campo Santo kerengő",
+            "tip": "Gótikus nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Campo Santo",
+            "tip": "Liniște gotică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Campo Santo Cloister",
+            "tip": "Gothic tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Katalanische Weine",
+            "tip": "Suchen Sie einen Rivesaltes oder Banyuls."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalán borok",
+            "tip": "Keress egy Rivesaltes-t vagy Banyuls-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri catalane",
+            "tip": "Căutați un Rivesaltes sau un Banyuls."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catalan Wines",
+            "tip": "Look for a Rivesaltes or Banyuls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich eine Tageskarte für das 'Sankéo'-Netz.",
+          "Die Busse fahren im Zentrum sehr regelmäßig.",
+          "Die 'Sankéo'-App hilft bei der Echtzeit-Navigation."
+        ],
+        "hu": [
+          "Vegyél napijegyet a 'Sankéo' hálózatra.",
+          "A buszok a központban nagyon sűrűn járnak.",
+          "A 'Sankéo' alkalmazás segít a valós idejű navigációban."
+        ],
+        "ro": [
+          "Luați un permis de o zi pentru rețeaua 'Sankéo'.",
+          "Autobuzele circulă foarte regulat în centru.",
+          "Aplicația 'Sankéo' ajută la navigarea în timp real."
+        ],
+        "en": [
+          "Get a day pass for the 'Sankéo' network.",
+          "Buses run very regularly in the center.",
+          "The 'Sankéo' app helps with real-time navigation."
+        ]
+      }
+    }
+  }
+}

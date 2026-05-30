@@ -12,55 +12,45 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 3.2,
+      "end_estimate": "17:35",
+      "total_km": 3.8,
       "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Gribas-Statue",
-            "hu": "Gribasz-szobor",
-            "ro": "Statuia Gribas",
-            "en": "Gribas Statue"
+            "de": "Viertel Harmaina",
+            "hu": "Harmaina negyed",
+            "ro": "Cartierul Harmaina",
+            "en": "Harmaina Quarter"
           },
           "coords": [
-            22.3778,
-            38.5281
+            22.377,
+            38.529
           ],
-          "category": "monuments/statues",
+          "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 15,
+          "stay_min": 40,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.1,
-          "tip_5lang": {
-            "de": "Ehrt den Helden der griechischen Revolution.",
-            "hu": "A görög szabadságharc hősének emlékműve.",
-            "ro": "Onorează eroul revoluției grecești.",
-            "en": "Honors the hero of the Greek Revolution."
-          }
+          "hop_from_prev_km": 0
         },
         {
           "name": {
             "de": "Kathedrale der Verkündigung",
-            "hu": "Angyali üdvözlet székesegyház",
+            "hu": "Angyali Üdvözlet Székesegyház",
             "ro": "Catedrala Bunei Vestiri",
             "en": "Cathedral of the Annunciation"
           },
           "coords": [
-            22.3782,
+            22.3765,
             38.5285
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:35",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Bewundern Sie die beeindruckenden Fresken von Spyros Papaloukas.",
-            "hu": "Csodálja meg Spyros Papaloukas lenyűgöző freskóit.",
-            "ro": "Admirați frescele impresionante ale lui Spyros Papaloukas.",
-            "en": "Admire the impressive frescoes by Spyros Papaloukas."
-          }
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
         },
         {
           "name": {
@@ -70,219 +60,251 @@
             "en": "Archaeological Museum"
           },
           "coords": [
-            22.3772,
-            38.5292
+            22.3758,
+            38.5278
           ],
           "category": "museums",
-          "arrive_at": "10:45",
+          "arrive_at": "10:50",
           "stay_min": 90,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Entdecken Sie die reiche Geschichte der Region Phokis.",
-            "hu": "Fedezze fel a Phokis régió gazdag történelmét.",
-            "ro": "Descoperiți istoria bogată a regiunii Phokis.",
-            "en": "Discover the rich history of the Phokis region."
-          }
+          "hop_from_prev_km": 0.5
         },
         {
           "name": {
-            "de": "Viertel Harmaina",
-            "hu": "Harmaina negyed",
-            "ro": "Cartierul Harmaina",
-            "en": "Harmaina District"
+            "de": "Mittagessen in einer lokalen Taverne",
+            "hu": "Ebéd egy helyi tavernában",
+            "ro": "Prânz la o tavernă locală",
+            "en": "Lunch at a local tavern"
           },
           "coords": [
-            22.3735,
-            38.5255
+            22.3772,
+            38.5275
           ],
-          "category": "squares/old-town",
-          "arrive_at": "12:35",
-          "stay_min": 70,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Altes Viertel der Gerber mit authentischer Atmosphäre.",
-            "hu": "Régi tímárnegyed autentikus hangulattal.",
-            "ro": "Vechiul cartier al tăbăcarilor cu atmosferă autentică.",
-            "en": "Old tanners' district with authentic atmosphere."
-          }
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
         },
         {
           "name": {
             "de": "Burg von Salona",
-            "hu": "Szalónai vár",
+            "hu": "Szalonai vár",
             "ro": "Castelul Salona",
             "en": "Castle of Salona"
           },
           "coords": [
-            22.3745,
-            38.5315
+            22.374,
+            38.533
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "14:05",
+          "arrive_at": "14:15",
           "stay_min": 80,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 0.9,
-          "tip_5lang": {
-            "de": "Genießen Sie den Panoramablick über das Olivenmeer.",
-            "hu": "Élvezze a panorámát az olajfák tengerére.",
-            "ro": "Bucurați-vă de panorama asupra mării de măslini.",
-            "en": "Enjoy the panoramic view over the olive sea."
-          }
+          "hop_mode": "walk",
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5
         },
         {
           "name": {
             "de": "Kirche des Erlösers",
-            "hu": "Megváltó templom",
+            "hu": "Megváltó temploma",
             "ro": "Biserica Mântuitorului",
-            "en": "Church of the Savior"
+            "en": "Church of the Saviour"
           },
           "coords": [
-            22.3755,
-            38.5325
+            22.3785,
+            38.5295
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "15:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Kleine, geschichtsträchtige byzantinische Kirche.",
-            "hu": "Kicsi, történelmi jelentőségű bizánci templom.",
-            "ro": "Mică biserică bizantină plină de istorie.",
-            "en": "Small Byzantine church steeped in history."
-          }
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag im Zentrum von Amfissa mit der Geschichte der Unabhängigkeit. Vormittags erkunden Sie die prächtige Kathedrale und das Museum. Mittags tauchen Sie in das nostalgische Gerberviertel Harmaina ein, wo die Zeit stehen geblieben scheint. Der Nachmittag gehört der Burg von Salona, die majestätisch über der Stadt thront, bevor Sie den Tag an der beschaulichen Erlöserkirche ausklingen lassen.",
-        "hu": "Kezdje a napot Ámfissza központjában, a függetlenségi harcok emlékei között. Délelőtt a katedrális művészi freskóit és a múzeum kincseit fedezheti fel. Ebédidőben sétáljon a Harmaina negyed régi cserzőműhelyei között, ahol megállt az idő. Délután hódítsa meg a Szalónai várat a lenyűgöző kilátásért, majd pihenjen meg a csendes Megváltó templomnál.",
-        "ro": "Începeți ziua în centrul orașului Amfissa, printre monumentele independenței. Dimineața explorați catedrala grandioasă și muzeul arheologic. La prânz, pierdeți-vă în cartierul Harmaina, vechiul centru al tăbăcarilor, unde timpul pare încremenit. După-amiaza este dedicată castelului Salona, care oferă o priveliște superbă, încheind vizita la mica biserică bizantină a Mântuitorului.",
-        "en": "Start your day in the heart of Amfissa learning about the local heroes. Spend your morning at the grand cathedral and the museum. By noon, immerse yourself in the nostalgic Harmaina district, where traditional leather-making roots still linger. In the afternoon, climb up to the Castle of Salona for breathtaking views, and finish your journey at the peaceful Church of the Savior."
+        "de": "Ihr Spaziergang durch Amfissa beginnt im historischen Viertel Harmaina, wo Sie die Atmosphäre der alten Gerber aufsaugen. Mittags erklimmen Sie die Burg von Salona für einen atemberaubenden Blick über den Olivenhain. Am Nachmittag schlendern Sie durch die Gassen zurück ins Zentrum und besuchen die byzantinische Erlöserkirche. Der Abend klingt in einer gemütlichen Taverne aus, wo Sie lokale Spezialitäten genießen.",
+        "hu": "Sétája Amfisszában a történelmi Harmaina negyedben kezdődik, ahol magába szívhatja a régi cserzővargák hangulatát. Délben megmássza a Szalonai várat, ahonnan lélegzetelállító kilátás nyílik az olajfaligetre. Délután a sikátorokon keresztül visszasétál a központba, és meglátogatja a bizánci Megváltó templomot. Az estét egy hangulatos tavernában zárja, ahol helyi specialitásokat kóstolhat.",
+        "ro": "Plimbarea dvs. prin Amfissa începe în cartierul istoric Harmaina, unde absorbiți atmosfera vechilor tăbăcari. La prânz, urcați la Castelul Salona pentru o priveliște uluitoare asupra plantației de măslini. După-amiaza, vă plimbați pe străduțe înapoi în centru și vizitați biserica bizantină a Mântuitorului. Seara se încheie într-o tavernă primitoare, savurând specialități locale.",
+        "en": "Your walk through Amfissa begins in the historic Harmaina quarter, soaking up the atmosphere of the old tanners. At noon, you'll climb the Castle of Salona for a breathtaking view over the olive grove. In the afternoon, stroll through the alleys back to the center and visit the Byzantine Church of the Saviour. The evening ends in a cozy tavern, enjoying local specialties."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Amfissa Oliven",
-            "tip": "Probieren Sie die berühmten runden, grünen oder schwarzen Oliven direkt vor Ort."
+            "name": "Formaela-Käse",
+            "tip": "Ein halbharter Käse, oft gegrillt serviert. Suchen Sie nach Tavernen, die ihn als 'Saganaki' anbieten."
           },
           {
-            "name": "To Petrino",
-            "tip": "Traditionelle griechische Taverne mit hausgemachten Eintöpfen und Grillgerichten."
+            "name": "Lammkoteletts (Paidakia)",
+            "tip": "Perfekt gegrillt mit Zitrone und Oregano, ein Grundnahrungsmittel der Bergküche."
+          },
+          {
+            "name": "Amfissa Oliven",
+            "tip": "Probieren Sie die berühmten großen, fleischigen Oliven direkt von der Quelle."
           }
         ],
         "hu": [
           {
-            "name": "Ámfisszai olajbogyó",
-            "tip": "Kóstolja meg a híres kerek szemű, húsos olajbogyót helyi termelőktől."
+            "name": "Formaela sajt",
+            "tip": "Félkemény sajt, gyakran grillezve tálalják. Keressen olyan tavernákat, ahol 'Saganaki'-ként kínálják."
           },
           {
-            "name": "To Petrino",
-            "tip": "Hagyományos görög taverna házi készítésű ételekkel és friss sültekkel."
+            "name": "Bárányborda (Paidakia)",
+            "tip": "Tökéletesen grillezve, citrommal és oregánóval, a hegyi konyha alapja."
+          },
+          {
+            "name": "Amfisszai olajbogyó",
+            "tip": "Kóstolja meg a híres, nagy, húsos olajbogyót egyenesen a forrásból."
           }
         ],
         "ro": [
           {
-            "name": "Măsline de Amfissa",
-            "tip": "Gustați faimoasele măsline rotunde și cărnoase direct de la sursă."
+            "name": "Brânză Formaela",
+            "tip": "O brânză semitare, adesea servită la grătar. Căutați taverne care o oferă ca 'Saganaki'."
           },
           {
-            "name": "To Petrino",
-            "tip": " tavernă grecească tradițională cu mâncăruri gătite și fripturi proaspete."
+            "name": "Coaste de miel (Paidakia)",
+            "tip": "Gătite perfect la grătar cu lămâie și oregano, un element de bază al bucătăriei montane."
+          },
+          {
+            "name": "Măsline de Amfissa",
+            "tip": "Gustați celebrele măsline mari și cărnoase direct de la sursă."
           }
         ],
         "en": [
           {
-            "name": "Amfissa Olives",
-            "tip": "Try the famous round-shaped local olives, a protected designation of origin."
+            "name": "Formaela Cheese",
+            "tip": "A semi-hard cheese, often served grilled. Look for taverns offering it as 'Saganaki'."
           },
           {
-            "name": "To Petrino",
-            "tip": "Traditional Greek tavern serving homemade stews and grilled meats."
+            "name": "Lamb Chops (Paidakia)",
+            "tip": "Perfectly grilled with lemon and oregano, a staple of mountain cuisine."
+          },
+          {
+            "name": "Amfissa Olives",
+            "tip": "Taste the famous large, fleshy olives straight from the source."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Burgmauern von Salona",
-            "tip": "Ein ruhiger Ort für den Sonnenuntergang über dem Olivenhain.",
-            "emoji": "🌅"
+            "name": "Blick von der Burg Salona",
+            "tip": "Finden Sie eine ruhige Ecke auf den Mauern und blicken Sie über das 'Meer' aus Olivenbäumen.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kirchhof der Erlöserkirche",
+            "tip": "Ein friedlicher Ort im Schatten alter Bäume, abseits des Trubels.",
+            "emoji": "⛪"
           }
         ],
         "hu": [
           {
-            "name": "Szalónai várfalak",
-            "tip": "Csendes pont a naplemente megtekintéséhez az olajfaliget felett.",
-            "emoji": "🌅"
+            "name": "Kilátás a Szalonai várból",
+            "tip": "Keressen egy csendes zugot a falakon, és nézzen le az olajfák 'tengerére'.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "A Megváltó templom kertje",
+            "tip": "Békés hely öreg fák árnyékában, távol a város zajától.",
+            "emoji": "⛪"
           }
         ],
         "ro": [
           {
-            "name": "Zidurile Castelului Salona",
-            "tip": "Un loc liniștit pentru apusul soarelui peste livada de măslini.",
-            "emoji": "🌅"
+            "name": "Vedere de la Castelul Salona",
+            "tip": "Găsiți un colț liniștit pe ziduri și priviți peste 'marea' de măslini.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Curtea Bisericii Mântuitorului",
+            "tip": "Un loc pașnic la umbra copacilor bătrâni, departe de agitația orașului.",
+            "emoji": "⛪"
           }
         ],
         "en": [
           {
-            "name": "Walls of Salona Castle",
-            "tip": "A quiet spot for sunset views over the endless olive grove.",
-            "emoji": "🌅"
+            "name": "View from Salona Castle",
+            "tip": "Find a quiet corner on the walls and gaze out over the 'sea' of olive trees.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Churchyard of the Saviour",
+            "tip": "A peaceful spot in the shade of old trees, away from the city bustle.",
+            "emoji": "⛪"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lederwaren in Harmaina",
-            "tip": "Handgefertigte Gürtel und Taschen aus lokaler Produktion."
+            "name": "Lokale Olivenprodukte",
+            "tip": "Kaufen Sie Olivenöl, Tafeloliven und Olivenpaste von lokalen Herstellern."
+          },
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "In den kleinen Läden im Viertel Harmaina finden Sie einzigartige, handbemalte Keramik."
           }
         ],
         "hu": [
           {
-            "name": "Bőráruk Harmainában",
-            "tip": "Kézzel készített övek és táskák a helyi kézművesektől."
+            "name": "Helyi olívatermékek",
+            "tip": "Vásároljon olívaolajat, étkezési olajbogyót és olívakrémet a helyi termelőktől."
+          },
+          {
+            "name": "Kézzel készített kerámia",
+            "tip": "A Harmaina negyed kis üzleteiben egyedi, kézzel festett kerámiákat talál."
           }
         ],
         "ro": [
           {
-            "name": "Produse din piele în Harmaina",
-            "tip": "Curele și genți lucrate manual de meșteșugarii locali."
+            "name": "Produse locale din măsline",
+            "tip": "Cumpărați ulei de măsline, măsline de masă și pastă de măsline de la producătorii locali."
+          },
+          {
+            "name": "Ceramică artizanală",
+            "tip": "În micile magazine din cartierul Harmaina veți găsi ceramică unică, pictată manual."
           }
         ],
         "en": [
           {
-            "name": "Leather goods in Harmaina",
-            "tip": "Handmade belts and bags from local traditional workshops."
+            "name": "Local Olive Products",
+            "tip": "Buy olive oil, table olives, and olive paste from local producers."
+          },
+          {
+            "name": "Handmade Ceramics",
+            "tip": "In the small shops of the Harmaina quarter, you can find unique, hand-painted ceramics."
           }
         ]
       },
       "tips": {
         "de": [
-          "Amfissa ist hügelig, tragen Sie bequeme Wanderschuhe.",
-          "Die meisten Museen schließen am frühen Nachmittag.",
-          "Parken Sie Ihr Auto im Zentrum und erkunden Sie alles zu Fuß.",
-          "Probieren Sie den lokalen Tsipouro in Harmaina."
+          "Tragen Sie bequeme Schuhe, da der Aufstieg zur Burg steil sein kann.",
+          "Nehmen Sie eine Wasserflasche mit, besonders für den Weg zur Burg.",
+          "Die besten Fotomotive der Burg hat man am späten Nachmittag.",
+          "Prüfen Sie die Öffnungszeiten der Museen, da diese saisonal variieren können."
         ],
         "hu": [
-          "Ámfissza dombos város, viseljen kényelmes sétálócipőt.",
-          "A múzeumok többsége kora délután bezár.",
-          "Hagyja autóját a központban, a város gyalog is könnyen bejárható.",
-          "Kóstolja meg a helyi cípúrót a Harmaina negyedben."
+          "Viseljen kényelmes cipőt, mivel a várhoz vezető út meredek lehet.",
+          "Vigyen magával egy üveg vizet, különösen a várhoz vezető útra.",
+          "A legjobb fotókat a várról késő délután lehet készíteni.",
+          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
         ],
         "ro": [
-          "Amfissa este deluros, purtați încălțăminte comodă de mers.",
-          "Majoritatea muzeelor se închid după-amiaza devreme.",
-          "Parcați mașina în centru, orașul este ușor de explorat pe jos.",
-          "Încercați tsipouro local în cartierul Harmaina."
+          "Purtați încălțăminte confortabilă, deoarece urcarea la castel poate fi abruptă.",
+          "Luați o sticlă de apă, mai ales pentru drumul spre castel.",
+          "Cele mai bune fotografii ale castelului se fac după-amiaza târziu.",
+          "Verificați programul de funcționare al muzeelor, deoarece acesta poate varia în funcție de sezon."
         ],
         "en": [
-          "Amfissa is hilly, so wear comfortable walking shoes.",
-          "Most museums close in the early afternoon.",
-          "Park your car in the center; the city is best explored on foot.",
-          "Taste the local tsipouro in one of Harmaina's small bars."
+          "Wear comfortable shoes as the climb to the castle can be steep.",
+          "Bring a water bottle, especially for the walk up to the castle.",
+          "The best photo opportunities of the castle are in the late afternoon.",
+          "Check the opening hours of the museums as they can vary seasonally."
         ]
       },
       "variants": {
@@ -480,55 +502,27 @@
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "15:30",
-      "total_km": 8.5,
-      "stop_count": 5,
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina District"
+            "en": "Harmaina Quarter"
           },
           "coords": [
-            22.3735,
-            38.5255
+            22.377,
+            38.529
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:15",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Perfekt für einen morgendlichen Spaziergang mit dem Rad.",
-            "hu": "Tökéletes egy reggeli sétához a bringával.",
-            "ro": "Perfect pentru o plimbare matinală cu bicicleta.",
-            "en": "Perfect for a morning stroll with your bike."
-          }
-        },
-        {
-          "name": {
-            "de": "Burg von Salona",
-            "hu": "Szalónai vár",
-            "ro": "Castelul Salona",
-            "en": "Castle of Salona"
-          },
-          "coords": [
-            22.3745,
-            38.5315
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "10:30",
-          "stay_min": 80,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Steiler Anstieg, aber die Belohnung ist die Aussicht.",
-            "hu": "Meredek emelkedő, de a kilátás kárpótol.",
-            "ro": "Urcare abruptă, dar recompensa este priveliștea.",
-            "en": "Steep climb, but the reward is the panoramic view."
-          }
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0
         },
         {
           "name": {
@@ -538,176 +532,237 @@
             "en": "Archaeological Museum"
           },
           "coords": [
-            22.3772,
-            38.5292
+            22.3758,
+            38.5278
           ],
           "category": "museums",
-          "arrive_at": "12:00",
-          "stay_min": 90,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Klimatisiert und voller historischer Schätze.",
-            "hu": "Légkondicionált és tele van történelmi kincsekkel.",
-            "ro": "Climatizat și plin de comori istorice.",
-            "en": "Air-conditioned and full of historical treasures."
-          }
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8
         },
         {
           "name": {
-            "de": "Gribas-Statue",
-            "hu": "Gribasz-szobor",
-            "ro": "Statuia Gribas",
-            "en": "Gribas Statue"
+            "de": "Burg von Salona",
+            "hu": "Szalonai vár",
+            "ro": "Castelul Salona",
+            "en": "Castle of Salona"
           },
           "coords": [
-            22.3778,
-            38.5281
+            22.374,
+            38.533
           ],
-          "category": "monuments/statues",
-          "arrive_at": "13:40",
-          "stay_min": 15,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 70,
+          "hop_mode": "bike",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Kurzer Stopp am zentralen Treffpunkt.",
-            "hu": "Rövid megálló a központi találkozóhelyen.",
-            "ro": "Scurtă oprire în punctul central de întâlnire.",
-            "en": "Short stop at the central meeting point."
-          }
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu priveliște",
+            "en": "Lunch with a view"
+          },
+          "coords": [
+            22.375,
+            38.531
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5
         },
         {
           "name": {
             "de": "Olivenhain von Amfissa",
-            "hu": "Ámfisszai olajfaliget",
-            "ro": "Livada de măslini din Amfissa",
-            "en": "Amfissa Olive Grove"
+            "hu": "Amfisszai olajfaliget",
+            "ro": "Plantația de măslini din Amfissa",
+            "en": "Olive Grove of Amfissa"
           },
           "coords": [
-            22.385,
+            22.39,
             38.52
           ],
           "category": "natural features",
-          "arrive_at": "14:15",
-          "stay_min": 75,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.5,
-          "tip_5lang": {
-            "de": "Radeln Sie durch jahrhundertealte Olivenbäume.",
-            "hu": "Kerekezzen az évszázados olajfák között.",
-            "ro": "Pedalați printre măslinii seculari.",
-            "en": "Cycle through centuries-old olive trees."
-          }
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.3762,
+            38.53
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Amfissa sportlich! Nach einem Besuch im historischen Gerberviertel erklimmen Sie die Burg. Nach der kulturellen Pause im Museum führt die Route hinaus in das riesige Meer der Olivenbäume, ein einzigartiges Erlebnis auf zwei Rädern.",
-        "hu": "Fedezze fel Ámfisszát sportosan! A történelmi cserzőnegyed után tekerjen fel a várba. A múzeumi kultúrpont után az út kivezet a hatalmas olajfaligetek közé, ami két keréken felejthetetlen élmény.",
-        "ro": "Explorați Amfissa într-un mod activ! După o vizită în cartierul tăbăcarilor, urcați la castel. După pauza culturală de la muzeu, traseul vă poartă în imensa livadă de măslini, o experiență unică pe două roți.",
-        "en": "Explore Amfissa actively! After visiting the historic tannery district, cycle up to the castle. Following a cultural break at the museum, the route takes you out into the vast sea of olive trees, a unique experience on two wheels."
+        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour im Herzen von Amfissa, dem Harmaina-Viertel. Von dort aus radeln Sie zum Archäologischen Museum. Die größte Herausforderung des Tages ist der Anstieg zur Burg von Salona, aber die Aussicht entschädigt für alles. Nach dem Mittagessen führt Sie eine landschaftlich reizvolle Fahrt durch den berühmten Olivenhain von Amfissa. Den Abschluss bildet ein Besuch im Volkskundemuseum, bevor Sie den Abend ausklingen lassen.",
+        "hu": "Pattanjon nyeregbe, és kezdje a túrát Amfissza szívében, a Harmaina negyedben. Innen tekerjen el a Régészeti Múzeumhoz. A nap legnagyobb kihívása a Szalonai várhoz való feljutás, de a kilátás mindenért kárpótol. Ebéd után egy festői út vezet az amfisszai olajfaligeten keresztül. A napot a Néprajzi Múzeum meglátogatásával zárja, mielőtt levezetné az estét.",
+        "ro": "Urcați-vă pe bicicletă și începeți turul în inima Amfissei, cartierul Harmaina. De acolo, pedalați spre Muzeul de Arheologie. Cea mai mare provocare a zilei este urcarea la Castelul Salona, dar priveliștea compensează totul. După prânz, o plimbare pitorească vă duce prin renumita plantație de măslini din Amfissa. Ziua se încheie cu o vizită la Muzeul de Folclor înainte de a vă relaxa seara.",
+        "en": "Hop on your bike and start your tour in the heart of Amfissa, the Harmaina quarter. From there, cycle to the Archaeological Museum. The biggest challenge of the day is the climb to the Castle of Salona, but the view makes up for everything. After lunch, a scenic ride takes you through the famous Amfissa Olive Grove. The day concludes with a visit to the Folklore Museum before you wind down for the evening."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Lokaler Honig",
-            "tip": "Energieschub für Radfahrer direkt vom Erzeuger."
+            "name": "Lokale Kuchen (Pites)",
+            "tip": "Suchen Sie nach Bäckereien, die 'Spanakopita' (Spinatkuchen) oder 'Tiropita' (Käsekuchen) verkaufen – perfekt für eine schnelle Energiepause."
+          },
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Obwohl Amfissa in den Bergen liegt, ist frischer Oktopus aus dem nahen Golf von Korinth oft auf den Speisekarten zu finden."
           }
         ],
         "hu": [
           {
-            "name": "Helyi méz",
-            "tip": "Energialöket bringásoknak egyenesen a termelőtől."
+            "name": "Helyi piték (Pites)",
+            "tip": "Keressen pékségeket, amelyek 'Spanakopitát' (spenótos pite) vagy 'Tiropitát' (sajtos pite) árulnak – tökéletes egy gyors energiabevitelhez."
+          },
+          {
+            "name": "Grillezett polip",
+            "tip": "Bár Amfissza a hegyekben fekszik, a közeli Korinthoszi-öbölből származó friss polip gyakran szerepel az étlapokon."
           }
         ],
         "ro": [
           {
-            "name": "Miere locală",
-            "tip": "Sursă de energie pentru bicicliști direct de la producători."
+            "name": "Plăcinte locale (Pites)",
+            "tip": "Căutați brutării care vând 'Spanakopita' (plăcintă cu spanac) sau 'Tiropita' (plăcintă cu brânză) – perfecte pentru o gustare rapidă."
+          },
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "Deși Amfissa este în munți, caracatița proaspătă din Golful Corint din apropiere se găsește adesea în meniuri."
           }
         ],
         "en": [
           {
-            "name": "Local Honey",
-            "tip": "Energy boost for cyclists straight from local producers."
+            "name": "Local Pies (Pites)",
+            "tip": "Look for bakeries selling 'Spanakopita' (spinach pie) or 'Tiropita' (cheese pie) - perfect for a quick energy boost."
+          },
+          {
+            "name": "Grilled Octopus",
+            "tip": "Although Amfissa is in the mountains, fresh octopus from the nearby Corinthian Gulf is often on the menus."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Schatten der Olivenbäume",
-            "tip": "Ein kühler Ort zum Ausruhen.",
+            "name": "Rast im Olivenhain",
+            "tip": "Halten Sie unter einem knorrigen, alten Olivenbaum an und genießen Sie die Stille und den Duft der Landschaft.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Aussichtspunkt auf dem Weg zur Burg",
+            "tip": "Es gibt mehrere Kurven mit toller Aussicht, perfekt für eine kurze Verschnaufpause.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Olajfák árnyéka",
-            "tip": "Hűvös pihenőhely a ligetben.",
+            "name": "Pihenő az olajfaligetben",
+            "tip": "Álljon meg egy göcsörtös, öreg olajfa alatt, és élvezze a csendet és a táj illatát.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Kilátópont a várhoz vezető úton",
+            "tip": "Több kanyar is van, ahonnan remek kilátás nyílik, tökéletes egy rövid pihenőre.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Umbra măslinilor",
-            "tip": "Un loc răcoros pentru odihnă.",
+            "name": "Pauză în plantația de măslini",
+            "tip": "Opriți-vă sub un măslin bătrân și noduros și bucurați-vă de liniștea și mirosul peisajului.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Punct de belvedere pe drumul spre castel",
+            "tip": "Există mai multe curbe cu priveliști grozave, perfecte pentru o scurtă pauză de respirație.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Olive tree shade",
-            "tip": "A cool resting spot in the grove.",
+            "name": "Rest in the Olive Grove",
+            "tip": "Stop under a gnarled, ancient olive tree and enjoy the silence and scent of the countryside.",
             "emoji": "🌳"
+          },
+          {
+            "name": "Viewpoint on the way to the castle",
+            "tip": "There are several bends with great views, perfect for a short breather.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Olivenöl",
-            "tip": "Frisch gepresstes Öl aus dem Amfissa-Tal."
+            "name": "Lokaler Honig",
+            "tip": "Der Honig aus der Region, oft von Thymian und Wildblumen, ist ein köstliches Mitbringsel."
           }
         ],
         "hu": [
           {
-            "name": "Olívaolaj",
-            "tip": "Frissen sajtolt olaj az Ámfissza-völgyből."
+            "name": "Helyi méz",
+            "tip": "A környékbeli méz, gyakran kakukkfűből és vadvirágokból, finom ajándék."
           }
         ],
         "ro": [
           {
-            "name": "Ulei de măsline",
-            "tip": "Ulei proaspăt presat din valea Amfissa."
+            "name": "Miere locală",
+            "tip": "Mierea din regiune, adesea de cimbru și flori sălbatice, este un suvenir delicios."
           }
         ],
         "en": [
           {
-            "name": "Olive Oil",
-            "tip": "Freshly pressed oil from the Amfissa valley."
+            "name": "Local Honey",
+            "tip": "The honey from the region, often from thyme and wildflowers, is a delicious souvenir."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Straßen zur Burg sind steil, ein E-Bike wird empfohlen.",
-          "Nehmen Sie ausreichend Wasser für die Fahrt durch den Hain mit.",
-          "Achten Sie auf den Verkehr in den engen Gassen des Zentrums."
+          "Ein Mountainbike oder E-Bike ist für den Anstieg zur Burg empfehlenswert.",
+          "Tragen Sie einen Helm und seien Sie auf schmalen Straßen vorsichtig.",
+          "Nehmen Sie ausreichend Wasser und ein paar Snacks für die Tour mit.",
+          "Ein kleines Schloss ist nützlich, um das Fahrrad während der Museumsbesuche zu sichern."
         ],
         "hu": [
-          "A várba vezető utak meredekek, elektromos kerékpár ajánlott.",
-          "Vigyen magával elég vizet a ligeten átvezető szakaszra.",
-          "Ügyeljen a forgalomra a belváros szűk utcáiban."
+          "Hegyikerékpár vagy e-bike ajánlott a várhoz való feljutáshoz.",
+          "Viseljen sisakot, és legyen óvatos a keskeny utakon.",
+          "Vigyen magával elegendő vizet és néhány harapnivalót a túrára.",
+          "Egy kis lakat hasznos lehet a kerékpár biztosításához a múzeumlátogatások alatt."
         ],
         "ro": [
-          "Drumurile spre castel sunt abrupte, se recomandă o bicicletă electrică.",
-          "Luați destulă apă pentru traseul prin livadă.",
-          "Atenție la trafic în străduțele înguste din centru."
+          "O bicicletă montană sau o bicicletă electrică este recomandată pentru urcarea la castel.",
+          "Purtați cască și fiți prudenți pe drumurile înguste.",
+          "Luați suficientă apă și câteva gustări pentru tur.",
+          "Un mic lacăt este util pentru a securiza bicicleta în timpul vizitelor la muzee."
         ],
         "en": [
-          "The roads to the castle are steep; an e-bike is highly recommended.",
-          "Bring plenty of water for the ride through the olive grove.",
-          "Be careful with traffic in the narrow streets of the center."
+          "A mountain bike or e-bike is recommended for the climb to the castle.",
+          "Wear a helmet and be careful on narrow roads.",
+          "Bring plenty of water and some snacks for the tour.",
+          "A small lock is useful to secure the bike during museum visits."
         ]
       },
       "variants": {
@@ -905,32 +960,99 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "15:45",
-      "total_km": 12.5,
-      "stop_count": 6,
+      "end_estimate": "18:00",
+      "total_km": 16.2,
+      "stop_count": 7,
       "stops": [
         {
           "name": {
-            "de": "Kathedrale der Verkündigung",
-            "hu": "Angyali üdvözlet székesegyház",
-            "ro": "Catedrala Bunei Vestiri",
-            "en": "Cathedral of the Annunciation"
+            "de": "Parken am Fuße der Burg von Salona",
+            "hu": "Parkolás a Szalonai vár lábánál",
+            "ro": "Parcare la poalele Castelului Salona",
+            "en": "Parking at the base of the Castle of Salona"
           },
           "coords": [
-            22.3782,
-            38.5285
+            22.373,
+            38.532
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:10",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_mode": "car",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0
+        },
+        {
+          "name": {
+            "de": "Burg von Salona",
+            "hu": "Szalonai vár",
+            "ro": "Castelul Salona",
+            "en": "Castle of Salona"
+          },
+          "coords": [
+            22.374,
+            38.533
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:25",
+          "stay_min": 90,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Olivenhain von Amfissa",
+            "hu": "Utazás az Amfisszai olajfaligethez",
+            "ro": "Drum spre Plantația de măslini din Amfissa",
+            "en": "Drive to the Amfissa Olive Grove"
+          },
+          "coords": [
+            22.39,
+            38.52
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
           "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Parken Sie am zentralen Platz.",
-            "hu": "Parkoljon a központi téren.",
-            "ro": "Parcați în piața centrală.",
-            "en": "Park your car at the central square."
-          }
+          "hop_mode": "car",
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0
+        },
+        {
+          "name": {
+            "de": "Parken im Zentrum & Mittagessen",
+            "hu": "Parkolás a központban és ebéd",
+            "ro": "Parcare în centru și prânz",
+            "en": "Park in the center & Lunch"
+          },
+          "coords": [
+            22.3778,
+            38.527
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_mode": "car",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0
+        },
+        {
+          "name": {
+            "de": "Viertel Harmaina",
+            "hu": "Harmaina negyed",
+            "ro": "Cartierul Harmaina",
+            "en": "Harmaina Quarter"
+          },
+          "coords": [
+            22.377,
+            38.529
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3
         },
         {
           "name": {
@@ -940,222 +1062,147 @@
             "en": "Archaeological Museum"
           },
           "coords": [
-            22.3772,
-            38.5292
+            22.3758,
+            38.5278
           ],
           "category": "museums",
-          "arrive_at": "10:20",
-          "stay_min": 90,
+          "arrive_at": "15:05",
+          "stay_min": 85,
+          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Kurzer Fußweg vom Parkplatz.",
-            "hu": "Rövid séta a parkolótól.",
-            "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking area."
-          }
+          "hop_from_prev_km": 0.5
         },
         {
           "name": {
-            "de": "Viertel Harmaina",
-            "hu": "Harmaina negyed",
-            "ro": "Cartierul Harmaina",
-            "en": "Harmaina District"
+            "de": "Kathedrale der Verkündigung",
+            "hu": "Angyali Üdvözlet Székesegyház",
+            "ro": "Catedrala Bunei Vestiri",
+            "en": "Cathedral of the Annunciation"
           },
           "coords": [
-            22.3735,
-            38.5255
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "12:00",
-          "stay_min": 70,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Einzigartige Architektur der alten Werkstätten.",
-            "hu": "A régi műhelyek egyedi építészete.",
-            "ro": "Arhitectura unică a vechilor ateliere.",
-            "en": "Unique architecture of the old workshops."
-          }
-        },
-        {
-          "name": {
-            "de": "Burg von Salona",
-            "hu": "Szalónai vár",
-            "ro": "Castelul Salona",
-            "en": "Castle of Salona"
-          },
-          "coords": [
-            22.3745,
-            38.5315
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "13:25",
-          "stay_min": 70,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Fahren Sie bis zum Eingang des Schlosses.",
-            "hu": "Hajtson egészen a vár bejáratáig.",
-            "ro": "Conduceți până la intrarea în castel.",
-            "en": "Drive right up to the castle entrance area."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche des Erlösers",
-            "hu": "Megváltó templom",
-            "ro": "Biserica Mântuitorului",
-            "en": "Church of the Savior"
-          },
-          "coords": [
-            22.3755,
-            38.5325
+            22.3765,
+            38.5285
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "14:40",
-          "stay_min": 35,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Kleiner Parkplatz in der Nähe.",
-            "hu": "Kis parkolóhely a közelben.",
-            "ro": "Mică parcare în apropiere.",
-            "en": "Small parking space nearby."
-          }
-        },
-        {
-          "name": {
-            "de": "Olivenhain von Amfissa",
-            "hu": "Ámfisszai olajfaliget",
-            "ro": "Livada de măslini din Amfissa",
-            "en": "Amfissa Olive Grove"
-          },
-          "coords": [
-            22.388,
-            38.515
-          ],
-          "category": "natural features",
-          "arrive_at": "15:30",
-          "stay_min": 45,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Stopp an einem malerischen Aussichtspunkt im Hain.",
-            "hu": "Megálló egy festői kilátópontnál a ligetben.",
-            "ro": "Oprire la un punct de belvedere în livadă.",
-            "en": "Stop at a scenic viewpoint within the grove."
-          }
+          "arrive_at": "16:40",
+          "stay_min": 50,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Amfissa. Starten Sie im Zentrum, besuchen Sie das Museum und tauchen Sie in Harmaina ein. Sparen Sie Kraft für die Burgbesichtigung und beenden Sie die Tour mit einer Fahrt durch das UNESCO-nahe Olivenmeer.",
-        "hu": "Autóval kényelmesen érheti el Ámfissza látnivalóit. Kezdjen a belvárosban, látogassa meg a múzeumot, majd Harmainát. Kímélje meg magát a várba vezető kaptatótól, a napot pedig zárja egy autózással az UNESCO-szintű olajfaligetekben.",
-        "ro": "Cu mașina puteți ajunge confortabil la atracțiile din Amfissa. Începeți în centru cu muzeul și cartierul Harmaina. Economisiți energie pentru vizitarea castelului și încheiați ziua cu o plimbare prin imensa livadă de măslini.",
-        "en": "By car, you can easily reach Amfissa's highlights. Start in the center for the museum and Harmaina district. Save your breath by driving up to the castle and finish the tour with a scenic drive through the vast, ancient olive groves."
+        "de": "Beginnen Sie Ihren Tag mit dem Auto und fahren Sie direkt zur imposanten Burg von Salona, die über der Stadt thront. Nach der Erkundung der Festung fahren Sie durch den riesigen Olivenhain, ein Meer aus Silbergrün. Parken Sie Ihr Auto im Stadtzentrum für den Rest des Tages. Nach einem herzhaften Mittagessen erkunden Sie zu Fuß das charmante Harmaina-Viertel, das Archäologische Museum und die Hauptkathedrale. Diese Mischung aus Fahren und Gehen bietet Ihnen das Beste aus beiden Welten.",
+        "hu": "Kezdje a napot autóval, és hajtson egyenesen a város fölé magasodó, impozáns Szalonai várhoz. Az erőd felfedezése után autózzon át a hatalmas, ezüstzöld tengerként elterülő olajfaligeten. Parkolja le autóját a városközpontban a nap hátralévő részére. Egy kiadós ebéd után gyalog fedezze fel a bájos Harmaina negyedet, a Régészeti Múzeumot és a főszékesegyházat. Ez a vezetés és séta keveréke mindkét világból a legjobbat nyújtja.",
+        "ro": "Începeți ziua cu mașina, conducând direct la impunătorul Castel Salona, care domină orașul. După ce explorați fortăreața, conduceți prin vasta plantație de măslini, o mare de verde-argintiu. Parcați mașina în centrul orașului pentru restul zilei. După un prânz copios, explorați pe jos fermecătorul cartier Harmaina, Muzeul de Arheologie și catedrala principală. Acest amestec de condus și mers pe jos vă oferă ce e mai bun din ambele lumi.",
+        "en": "Start your day by car, driving directly to the imposing Castle of Salona towering over the city. After exploring the fortress, take a drive through the vast olive grove, a sea of silver-green. Park your car in the city center for the rest of the day. After a hearty lunch, explore the charming Harmaina quarter, the Archaeological Museum, and the main cathedral on foot. This mix of driving and walking gives you the best of both worlds."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Lokales Fleisch",
-            "tip": "Probieren Sie Lammgerichte in den Bergtavernen."
+            "name": "Taverna To Koutouki tou Foti",
+            "tip": "Bekannt für traditionelle griechische Gerichte und eine gemütliche Atmosphäre."
           }
         ],
         "hu": [
           {
-            "name": "Helyi húsételek",
-            "tip": "Kóstolja meg a báránysülteket a hegyi tavernákban."
+            "name": "Taverna To Koutouki tou Foti",
+            "tip": "Hagyományos görög ételeiről és hangulatos légköréről ismert."
           }
         ],
         "ro": [
           {
-            "name": "Carne locală",
-            "tip": "Gustați preparatele din miel la tavernele de munte."
+            "name": "Taverna To Koutouki tou Foti",
+            "tip": "Cunoscută pentru mâncărurile grecești tradiționale și o atmosferă primitoare."
           }
         ],
         "en": [
           {
-            "name": "Local Meat",
-            "tip": "Try lamb dishes in the mountain-side taverns."
+            "name": "Taverna To Koutouki tou Foti",
+            "tip": "Known for traditional Greek dishes and a cozy atmosphere."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Aussichtspunkt im Hain",
-            "tip": "Ruhe inmitten tausender Bäume.",
-            "emoji": "🏞️"
+            "name": "Fahrt durch den Olivenhain",
+            "tip": "Halten Sie an einem sicheren Ort am Straßenrand an, steigen Sie aus und lauschen Sie dem Zirpen der Zikaden.",
+            "emoji": "🚗"
           }
         ],
         "hu": [
           {
-            "name": "Kilátó a ligetben",
-            "tip": "Csend több ezer olajfa ölelésében.",
-            "emoji": "🏞️"
+            "name": "Autózás az olajfaligeten keresztül",
+            "tip": "Álljon meg egy biztonságos helyen az út szélén, szálljon ki, és hallgassa a kabócák ciripelését.",
+            "emoji": "🚗"
           }
         ],
         "ro": [
           {
-            "name": "Belvedere în livadă",
-            "tip": "Liniște în mijlocul miilor de măslini.",
-            "emoji": "🏞️"
+            "name": "Plimbare cu mașina prin plantația de măslini",
+            "tip": "Opriți într-un loc sigur pe marginea drumului, coborâți și ascultați cântecul greierilor.",
+            "emoji": "🚗"
           }
         ],
         "en": [
           {
-            "name": "Grove Viewpoint",
-            "tip": "Peace and quiet among thousands of trees.",
-            "emoji": "🏞️"
+            "name": "Drive through the Olive Grove",
+            "tip": "Pull over at a safe spot on the roadside, get out, and listen to the chirping of the cicadas.",
+            "emoji": "🚗"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Konserven",
-            "tip": "Oliven in großen Behältern für die Heimreise."
+            "name": "Olivenöl ab Hof",
+            "tip": "Achten Sie auf Schilder, die 'eleolado' (Olivenöl) direkt von den Produzenten im Hain verkaufen."
           }
         ],
         "hu": [
           {
-            "name": "Konzervek",
-            "tip": "Olajbogyó nagy kiszerelésben hazautazáshoz."
+            "name": "Olívaolaj a termelőtől",
+            "tip": "Keresse az 'eleolado' (olívaolaj) táblákat, ahol közvetlenül a liget termelőitől vásárolhat."
           }
         ],
         "ro": [
           {
-            "name": "Conserve",
-            "tip": "Măsline la recipiente mari pentru drumul spre casă."
+            "name": "Ulei de măsline de la fermă",
+            "tip": "Fiți atenți la indicatoarele care vând 'eleolado' (ulei de măsline) direct de la producătorii din plantație."
           }
         ],
         "en": [
           {
-            "name": "Preserves",
-            "tip": "Olives in large containers to take home."
+            "name": "Olive Oil from the farm",
+            "tip": "Look for signs selling 'eleolado' (olive oil) directly from producers in the grove."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Straßen im Zentrum sind sehr eng, parken Sie sobald möglich.",
-          "Die Fahrt zur Burg ist asphaltiert und einfach.",
-          "Achten Sie auf Traktoren im Olivenhain."
+          "Das Parken im Stadtzentrum kann tagsüber schwierig sein. Suchen Sie nach ausgewiesenen Parkplätzen.",
+          "Die Straßen zur Burg können eng sein, fahren Sie vorsichtig.",
+          "Die Cluster-Walking-Methode ist ideal, um Parkgebühren zu sparen und die Stadt wirklich zu erleben.",
+          "Planen Sie genügend Zeit für die Fahrt durch den Olivenhain ein; die Landschaft ist es wert."
         ],
         "hu": [
-          "A belvárosi utcák nagyon szűkek, parkoljon le, amint tud.",
-          "A várhoz vezető út aszfaltozott és könnyen járható.",
-          "Vigyázzon a traktorokra az olajfaligetben."
+          "A parkolás a városközpontban napközben nehézkes lehet. Keressen kijelölt parkolóhelyeket.",
+          "A várhoz vezető utak szűkek lehetnek, vezessen óvatosan.",
+          "A 'cluster-walking' módszer ideális a parkolási díjak megtakarítására és a város igazi megismerésére.",
+          "Szánjon elegendő időt az olajfaligeten való áthaladásra; a táj megéri."
         ],
         "ro": [
-          "Străzile centrale sunt foarte înguste, parcați imediat ce găsiți loc.",
-          "Drumul spre castel este asfaltat și ușor de parcurs.",
-          "Atenție la tractoarele din livada de măslini."
+          "Parcarea în centrul orașului poate fi dificilă în timpul zilei. Căutați parcări amenajate.",
+          "Drumurile spre castel pot fi înguste, conduceți cu prudență.",
+          "Metoda 'cluster-walking' este ideală pentru a economisi taxele de parcare și pentru a experimenta cu adevărat orașul.",
+          "Planificați suficient timp pentru a conduce prin plantația de măslini; peisajul merită."
         ],
         "en": [
-          "Streets in the center are very narrow; park your car as soon as you find a spot.",
-          "The road to the castle is paved and easy to drive.",
-          "Watch out for tractors in the olive grove areas."
+          "Parking in the city center can be challenging during the day. Look for designated parking areas.",
+          "The roads to the castle can be narrow, so drive carefully.",
+          "The cluster-walking method is ideal for saving on parking fees and truly experiencing the city.",
+          "Allow plenty of time for the drive through the olive grove; the scenery is worth it."
         ]
       },
       "variants": {
@@ -1371,234 +1418,167 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "15:40",
-      "total_km": 5.2,
-      "stop_count": 5,
+      "end_estimate": "17:45",
+      "total_km": 5.7,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Archäologisches Museum",
-            "hu": "Régészeti Múzeum",
-            "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "de": "Fahrt mit dem Bus zum Stadtzentrum",
+            "hu": "Buszozás a városközpontba",
+            "ro": "Călătorie cu autobuzul spre centrul orașului",
+            "en": "Bus ride to the city center"
           },
           "coords": [
-            22.3772,
-            38.5292
+            22.377,
+            38.529
           ],
-          "category": "museums",
-          "arrive_at": "09:10",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Zentraler Halt für den Bus aus Delphi oder Itea.",
-            "hu": "Központi megálló a Delphiből vagy Iteából érkező buszoknak.",
-            "ro": "Stație centrală pentru autobuzul din Delphi sau Itea.",
-            "en": "Central stop for buses from Delphi or Itea."
-          }
-        },
-        {
-          "name": {
-            "de": "Volkskundemuseum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul de Etnografie",
-            "en": "Folklore Museum"
-          },
-          "coords": [
-            22.3765,
-            38.5275
-          ],
-          "category": "museums",
-          "arrive_at": "11:00",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Einblick in das tägliche Leben früherer Generationen.",
-            "hu": "Betekintés a korábbi generációk mindennapi életébe.",
-            "ro": "Informații despre viața de zi cu zi a generațiilor trecute.",
-            "en": "Insight into the daily life of past generations."
-          }
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0
         },
         {
           "name": {
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina District"
+            "en": "Harmaina Quarter"
+          },
+          "coords": [
+            22.377,
+            38.529
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum & Volkskundemuseum",
+            "hu": "Régészeti Múzeum és Néprajzi Múzeum",
+            "ro": "Muzeul de Arheologie & Muzeul de Folclor",
+            "en": "Archaeological & Folklore Museum"
+          },
+          "coords": [
+            22.376,
+            38.5285
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            22.3772,
+            38.5275
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1
+        },
+        {
+          "name": {
+            "de": "Busfahrt zum Fuße der Burg",
+            "hu": "Buszozás a vár lábához",
+            "ro": "Călătorie cu autobuzul la poalele castelului",
+            "en": "Bus ride to the castle's base"
           },
           "coords": [
             22.3735,
-            38.5255
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "12:15",
-          "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
-          "tip_5lang": {
-            "de": "Zu Fuß gut vom Zentrum erreichbar.",
-            "hu": "Gyalogosan jól elérhető a központból.",
-            "ro": "Ușor accesibil pe jos din centru.",
-            "en": "Easily accessible on foot from the center."
-          }
-        },
-        {
-          "name": {
-            "de": "Kathedrale der Verkündigung",
-            "hu": "Angyali üdvözlet székesegyház",
-            "ro": "Catedrala Bunei Vestiri",
-            "en": "Cathedral of the Annunciation"
-          },
-          "coords": [
-            22.3782,
-            38.5285
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "13:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.7,
-          "tip_5lang": {
-            "de": "Die religiöse Seele der Stadt.",
-            "hu": "A város vallási szíve.",
-            "ro": "Inima religioasă a orașului.",
-            "en": "The religious heart of the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Burg von Salona",
-            "hu": "Szalónai vár",
-            "ro": "Castelul Salona",
-            "en": "Castle of Salona"
-          },
-          "coords": [
-            22.3745,
-            38.5315
+            38.5325
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "15:05",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.1,
-          "tip_5lang": {
-            "de": "Letzter Stopp vor der Rückfahrt mit dem Bus.",
-            "hu": "Utolsó állomás a busz visszaindulása előtt.",
-            "ro": "Ultima oprire înainte de plecarea autobuzului.",
-            "en": "Last stop before the bus ride back."
-          }
+          "arrive_at": "13:55",
+          "stay_min": 0,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0
+        },
+        {
+          "name": {
+            "de": "Erkundung der Burg von Salona",
+            "hu": "A Szalonai vár felfedezése",
+            "ro": "Explorarea Castelului Salona",
+            "en": "Exploring the Castle of Salona"
+          },
+          "coords": [
+            22.374,
+            38.533
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2
         }
       ],
       "narrative_4lang": {
-        "de": "Amfissa ist ein idealer Tagesausflug mit dem regionalen Bus (KTEL). Vom zentralen Busstopp aus erreichen Sie die wichtigsten Museen und das Gerberviertel bequem zu Fuß. Die Stadtführung kombiniert Kultur, Tradition und Geschichte auf kompaktem Raum.",
-        "hu": "Ámfissza ideális egynapos kirándulás regionális busszal (KTEL). A központi buszmegállótól gyalogosan is kényelmesen elérhetők a főbb múzeumok és a cserzőnegyed. A városnézés a kultúrát, a hagyományt és a történelmet ötvözi.",
-        "ro": "Amfissa este o excursie ideală de o zi cu autobuzul regional (KTEL). De la stația centrală, puteți ajunge pe jos la principalele muzee și la cartierul tăbăcarilor. Turul orașului combină cultura, tradiția și istoria într-un spațiu compact.",
-        "en": "Amfissa is an ideal day trip using regional buses (KTEL). From the central bus stop, you can comfortably reach the main museums and the tannery district on foot. This tour combines culture, tradition, and history in a compact area."
+        "de": "Nutzen Sie den lokalen Bus, um bequem ins Zentrum von Amfissa zu gelangen. Der Vormittag gehört der Erkundung des historischen Kerns zu Fuß: vom Harmaina-Viertel zu den faszinierenden Museen. Nach einem entspannten Mittagessen bringt Sie ein weiterer Bus in die Nähe der Burg von Salona. Der Nachmittag ist dem Aufstieg und der Erkundung dieser beeindruckenden Festung gewidmet, von der aus Sie eine unvergleichliche Aussicht genießen. Am späten Nachmittag nehmen Sie den Bus zurück in die Stadt.",
+        "hu": "Használja a helyi buszt, hogy kényelmesen eljusson Amfissza központjába. A délelőttöt a történelmi városmag gyalogos felfedezésével tölti: a Harmaina negyedtől a lenyűgöző múzeumokig. Egy pihentető ebéd után egy másik busz elviszi Önt a Szalonai vár közelébe. A délután a felmászásé és e lenyűgöző erőd felfedezéséé, ahonnan páratlan kilátás nyílik. Késő délután busszal tér vissza a városba.",
+        "ro": "Folosiți autobuzul local pentru a ajunge confortabil în centrul Amfissei. Dimineața este dedicată explorării pe jos a centrului istoric: de la cartierul Harmaina la muzeele fascinante. După un prânz relaxant, un alt autobuz vă duce în apropierea Castelului Salona. După-amiaza este dedicată urcării și explorării acestei fortărețe impresionante, de unde vă veți bucura de o priveliște de neegalat. Seara târziu, luați autobuzul înapoi în oraș.",
+        "en": "Use the local bus to conveniently get to the center of Amfissa. The morning is for exploring the historic core on foot: from the Harmaina quarter to the fascinating museums. After a relaxing lunch, another bus takes you near the Castle of Salona. The afternoon is dedicated to the climb and exploration of this impressive fortress, from where you can enjoy an unparalleled view. In the late afternoon, you take the bus back to the city."
       },
       "gastro_picks": {
-        "de": [
-          {
-            "name": "Platzcafés",
-            "tip": "Gönnen Sie sich einen griechischen Kaffee am Busstopp."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Téri kávézók",
-            "tip": "Igyon meg egy görög kávét a buszmegálló közelében."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Cafenelele din piață",
-            "tip": "Savurați o cafea grecească lângă stația de autobuz."
-          }
-        ],
-        "en": [
-          {
-            "name": "Square Cafés",
-            "tip": "Enjoy a traditional Greek coffee near the bus stop."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "quiet_picks": {
-        "de": [
-          {
-            "name": "Museumshof",
-            "tip": "Ein ruhiger Moment zwischen antiken Steinen.",
-            "emoji": "🧘"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Múzeumudvar",
-            "tip": "Csendes pillanat az ókori kövek között.",
-            "emoji": "🧘"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Curtea muzeului",
-            "tip": "Un moment de liniște printre pietre antice.",
-            "emoji": "🧘"
-          }
-        ],
-        "en": [
-          {
-            "name": "Museum Courtyard",
-            "tip": "A quiet moment among ancient stones.",
-            "emoji": "🧘"
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "shopping_picks": {
-        "de": [
-          {
-            "name": "Traditionelle Süßwaren",
-            "tip": "Spoon Sweets (Glyka tou koutaliou) als Mitbringsel."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Hagyományos édességek",
-            "tip": "Vigyen haza gyümölcsbefőttet (glika tu kutaliu)."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Dulciuri tradiționale",
-            "tip": "Cumpărați fructe confiate (glyka tou koutaliou)."
-          }
-        ],
-        "en": [
-          {
-            "name": "Traditional Sweets",
-            "tip": "Pick up some 'spoon sweets' as a souvenir."
-          }
-        ]
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
       },
       "tips": {
         "de": [
-          "Prüfen Sie die KTEL-Fahrpläne vorab, da die Verbindungen selten sein können.",
-          "Die KTEL-Station liegt zentral am Kehagias-Platz.",
-          "Alles ist fußläufig erreichbar, aber es geht bergauf."
+          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt von der Burg.",
+          "Die Bushaltestellen sind möglicherweise nicht immer deutlich gekennzeichnet. Fragen Sie Einheimische, wenn Sie unsicher sind.",
+          "Vom Busstopp an der Burg ist es immer noch ein kurzer, aber steiler Aufstieg."
         ],
         "hu": [
-          "Ellenőrizze előre a KTEL menetrendet, mert ritkák lehetnek a járatok.",
-          "A KTEL állomás központi helyen, a Kehagias téren található.",
-          "Minden sétatávolságra van, de számítson emelkedőkre."
+          "Vásároljon napijegyet a buszra, ha rendelkezésre áll.",
+          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó, várból visszainduló járatot.",
+          "A buszmegállók nem mindig vannak egyértelműen jelölve. Kérdezze meg a helyieket, ha bizonytalan.",
+          "A vár melletti buszmegállótól még egy rövid, de meredek emelkedő van hátra."
         ],
         "ro": [
-          "Verificați orarul KTEL în avans, cursele pot fi rare.",
-          "Stația KTEL este situată central, în Piața Kehagias.",
-          "Totul este la mică distanță de mers pe jos, dar traseul este în urcare."
+          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima cursă de întoarcere de la castel.",
+          "Stațiile de autobuz s-ar putea să nu fie întotdeauna clar marcate. Întrebați localnicii dacă sunteți nesiguri.",
+          "De la stația de autobuz de la castel, mai este o urcare scurtă, dar abruptă."
         ],
         "en": [
-          "Check the KTEL bus schedules in advance as connections can be infrequent.",
-          "The KTEL station is centrally located at Kehagias Square.",
-          "Everything is within walking distance, but expect some uphill climbs."
+          "Buy a day pass for the bus if available.",
+          "Check the bus schedule in advance, especially for the last return trip from the castle.",
+          "Bus stops may not always be clearly marked; ask locals if you're unsure.",
+          "It's still a short but steep climb from the bus stop at the castle."
         ]
       },
       "variants": {

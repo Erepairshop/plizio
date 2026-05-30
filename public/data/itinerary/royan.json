@@ -1,0 +1,1044 @@
+{
+  "city_id": "royan",
+  "anchor": {
+    "name": "Royan",
+    "coords": [
+      45.628,
+      -1.028
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralmarkt",
+            "hu": "Központi Piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -1.0235,
+            45.6265
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie die Galette Charentaise.",
+            "hu": "Kóstolja meg a helyi vajas süteményt.",
+            "ro": "Încercați plăcinta locală cu unt.",
+            "en": "Try the local butter cake (Galette Charentaise)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -1.0308,
+            45.6281
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk des Beton-Modernismus.",
+            "hu": "A betonmodernizmus egyik remekműve.",
+            "ro": "O capodoperă a modernismului în beton.",
+            "en": "A masterpiece of concrete modernism."
+          }
+        },
+        {
+          "name": {
+            "de": "Kongresspalast",
+            "hu": "Kongresszusi Palota",
+            "ro": "Palatul Congreselor",
+            "en": "Palais des Congrès"
+          },
+          "coords": [
+            -1.0345,
+            45.6205
+          ],
+          "category": "cultural centre",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Meer von der Terrasse.",
+            "hu": "Élvezze a tengeri kilátást a teraszról.",
+            "ro": "Bucurați-vă de vederea la mare de pe terasă.",
+            "en": "Enjoy the sea view from the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Front de Mer",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de la Mare",
+            "en": "Front de Mer"
+          },
+          "coords": [
+            -1.0285,
+            45.6225
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Mittagessen mit Meeresfrüchten.",
+            "hu": "Tökéletes hely egy tengeri ebédhez.",
+            "ro": "Perfect pentru un prânz cu fructe de mare.",
+            "en": "Perfect for a seafood lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grande Conche",
+            "hu": "Grande Conche strand",
+            "ro": "Plaja Grande Conche",
+            "en": "Grande Conche Beach"
+          },
+          "coords": [
+            -1.0185,
+            45.6185
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der größte und beliebteste Strand der Stadt.",
+            "hu": "A város legnagyobb és legnépszerűbb strandja.",
+            "ro": "Cea mai mare și populară plajă din oraș.",
+            "en": "The largest and most popular beach in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Royan",
+            "hu": "Royan kikötője",
+            "ro": "Portul din Royan",
+            "en": "Port of Royan"
+          },
+          "coords": [
+            -1.0315,
+            45.6215
+          ],
+          "category": "harbor",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fähren nach Le Verdon.",
+            "hu": "Nézze meg a Le Verdonba tartó kompokat.",
+            "ro": "Urmăriți feriboturile către Le Verdon.",
+            "en": "Watch the ferries departing for Le Verdon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am Zentralmarkt, einem architektonischen Wunderwerk mit seinem gewölbten Dach. Genießen Sie das geschäftige Treiben und probieren Sie lokale Spezialitäten.\n\nAm Mittag bewundern Sie die imposante Betonkirche Notre-Dame, ein Symbol des Wiederaufbaus von Royan, gefolgt von einem entspannten Spaziergang entlang der modernen Front de Mer.\n\nDer Nachmittag ist der Entspannung am weitläufigen Strand Grande Conche gewidmet, wo Sie die atlantische Brise und den feinen Sand genießen können.\n\nZum Abschluss des Tages schlendern Sie zum Hafen, um das Treiben der Boote zu beobachten und den Tag mit einem Blick auf den Ozean ausklingen zu lassen.",
+        "hu": "A reggel a Központi Piacon indul, amely egyedülálló, parabolikus tetőszerkezetével kápráztat el. Itt megismerkedhet a helyi ízekkel és a friss árukkal.\n\nDélben a modernista építészet ékkövét, a Notre-Dame templomot látogatjuk meg, majd a tengerparti sétány éttermei között válogatunk egy finom ebédhez.\n\nA délután a kikapcsolódásé a Grande Conche strandon, ahol a végtelen homokos part és a frissítő óceáni levegő várja a látogatókat.\n\nAz este közeledtével a kikötő felé vesszük az irányt, ahol a kompok és vitorlások mozgása mellett zárhatjuk a napot egy kellemes sétával.",
+        "ro": "Dimineața începe la Piața Centrală, o minune arhitecturală cu acoperișul său curbat, unde puteți simți pulsul local și gusta produse proaspete.\n\nLa prânz, admirați impunătoarea Biserică Notre-Dame, o emblemă a reconstrucției postbelice, urmată de o plimbare relaxantă pe promenada modernă de la malul mării.\n\nDupă-amiaza este dedicată relaxării pe plaja Grande Conche, profitând de nisipul fin și de briza revigorantă a Oceanului Atlantic.\n\nSeara se încheie la port, unde puteți urmări ambarcațiunile și feriboturile, bucurându-vă de o atmosferă liniștită lângă apele golfului.",
+        "en": "The morning starts at the Central Market, an architectural marvel with its parabolic roof. Enjoy the bustling atmosphere and taste local Charente specialties.\n\nAt midday, visit the imposing Notre-Dame Church, a symbol of Royan modernist reconstruction, followed by a relaxed walk along the vibrant Front de Mer.\n\nSpend the afternoon relaxing on the wide Grande Conche beach, enjoying the Atlantic breeze and the soft golden sand.\n\nAs the day ends, stroll towards the harbor to watch the boats and ferries, soaking in the maritime atmosphere of this seaside resort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Garage",
+            "tip": "Moderne Küche in einem ehemaligen Industriebau."
+          },
+          {
+            "name": "Oyster Tasting",
+            "tip": "Frische Marennes-Oléron Austern am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Garage",
+            "tip": "Modern konyha egy egykori ipari épületben."
+          },
+          {
+            "name": "Osztriga kóstoló",
+            "tip": "Friss Marennes-Oléron osztrigák a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Garage",
+            "tip": "Bucătărie modernă într-o fostă clădire industrială."
+          },
+          {
+            "name": "Degustare de stridii",
+            "tip": "Stridii proaspete Marennes-Oléron în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Garage",
+            "tip": "Modern cuisine in a former industrial building."
+          },
+          {
+            "name": "Oyster Tasting",
+            "tip": "Fresh Marennes-Oléron oysters at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe de Vallières",
+            "tip": "Ruhiger Aussichtspunkt über die Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe de Vallières",
+            "tip": "Csendes kilátópont az öböl felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe de Vallières",
+            "tip": "Punct de observație liniștit deasupra golfului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe de Vallières",
+            "tip": "Quiet viewpoint overlooking the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Central",
+            "tip": "Lokale Weine und Fleur de Sel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac",
+            "tip": "Helyi borok és Fleur de Sel só."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Vinuri locale și Fleur de Sel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Local wines and Fleur de Sel salt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Bootstickets zum Leuchtturm Cordouan frühzeitig.",
+          "Die Stadt ist sehr flach und perfekt zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "A Cordouan világítótoronyhoz váltson jegyet előre.",
+          "A város sík, így gyalogosan is kényelmesen bejárható."
+        ],
+        "ro": [
+          "Rezervați biletele de barcă pentru farul Cordouan din timp.",
+          "Orașul este plat și ideal pentru explorarea pe jos."
+        ],
+        "en": [
+          "Book boat tickets for the Cordouan lighthouse in advance.",
+          "The town is very flat and perfect for exploring on foot."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 38.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralmarkt (Cluster A)",
+            "hu": "Központi Piac (A klaszter)",
+            "ro": "Piața Centrală (Cluster A)",
+            "en": "Central Market (Cluster A)"
+          },
+          "coords": [
+            -1.0235,
+            45.6265
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Vormittag.",
+            "hu": "Parkoljon le itt a délelőttre.",
+            "ro": "Parcați aici pentru dimineață.",
+            "en": "Park here for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame (Cluster A)",
+            "hu": "Notre-Dame templom (A klaszter)",
+            "ro": "Biserica Notre-Dame (Cluster A)",
+            "en": "Notre-Dame Church (Cluster A)"
+          },
+          "coords": [
+            -1.0308,
+            45.6281
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Markt.",
+            "hu": "Rövid séta a piactól.",
+            "ro": "O scurtă plimbare de la piață.",
+            "en": "A short walk from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Talmont-sur-Gironde (Cluster B)",
+            "hu": "Talmont-sur-Gironde (B klaszter)",
+            "ro": "Talmont-sur-Gironde (Cluster B)",
+            "en": "Talmont-sur-Gironde (Cluster B)"
+          },
+          "coords": [
+            -0.903,
+            45.536
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18.5,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Talmont",
+            "hu": "Ebéd Talmont-ban",
+            "ro": "Prânz în Talmont",
+            "en": "Lunch in Talmont"
+          },
+          "coords": [
+            -0.905,
+            45.537
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lokaler Fisch mit Blick auf das Ästuar.",
+            "hu": "Helyi halételek a torkolatra nyíló kilátással.",
+            "ro": "Pește local cu vedere spre estuar.",
+            "en": "Local fish with views over the estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grande Conche (Cluster C)",
+            "hu": "Grande Conche strand (C klaszter)",
+            "ro": "Plaja Grande Conche (Cluster C)",
+            "en": "Grande Conche Beach (Cluster C)"
+          },
+          "coords": [
+            -1.0185,
+            45.6185
+          ],
+          "category": "beach",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach der Fahrt am Strand.",
+            "hu": "Lazítson a strandon az autózás után.",
+            "ro": "Relaxați-vă pe plajă după drum.",
+            "en": "Relax on the beach after the drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier de Pontaillac (Cluster D)",
+            "hu": "Pontaillac negyed (D klaszter)",
+            "ro": "Cartierul Pontaillac (Cluster D)",
+            "en": "Pontaillac District (Cluster D)"
+          },
+          "coords": [
+            -1.0445,
+            45.6305
+          ],
+          "category": "squares",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das elegante Viertel mit Casino.",
+            "hu": "Az elegáns negyed kaszinóval.",
+            "ro": "Cartierul elegant cu cazinou.",
+            "en": "The elegant district with a casino."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Royan (Cluster D)",
+            "hu": "Royan Múzeum (D klaszter)",
+            "ro": "Muzeul din Royan (Cluster D)",
+            "en": "Royan Museum (Cluster D)"
+          },
+          "coords": [
+            -1.0475,
+            45.6315
+          ],
+          "category": "museums",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der 50er Jahre.",
+            "hu": "Ismerje meg az 50-es évek történetét.",
+            "ro": "Descoperiți istoria anilor '50.",
+            "en": "Discover the history of the 1950s."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Royan und seine Umgebung flexibel mit dem Auto. Der Morgen beginnt im Stadtzentrum mit dem Besuch des ikonischen Marktes und der modernen Notre-Dame-Kirche, die Sie bequem zu Fuß erkunden können.\n\nGegen Mittag fahren Sie ins malerische Talmont-sur-Gironde, ein historisches Dorf auf einer Klippe, das für seine weißen Häuser und blauen Fensterläden berühmt ist.\n\nAm Nachmittag kehren Sie nach Royan zurück, um die Sonne am Strand Grande Conche zu genießen, bevor Sie in das elegante Viertel Pontaillac weiterfahren.\n\nDer Tag endet in Pontaillac mit einem Besuch des Museums und einem Blick auf den Sonnenuntergang über dem Atlantik vom Casino-Ufer aus.",
+        "hu": "Fedezze fel Royant és környékét rugalmasan autóval. A reggel a városközpontban indul az ikonikus piac és a modern Notre-Dame templom meglátogatásával, melyeket egyetlen parkolással, gyalogosan is bejárhat.\n\nDél körül elautózunk a festői Talmont-sur-Gironde-ba, amely egy sziklán fekvő történelmi falu, híres fehér házairól és kék zsalugátereiről.\n\nDélután visszatérünk Royanba, hogy a Grande Conche strandon élvezzük a napsütést, majd átgurulunk az elegáns Pontaillac negyedbe.\n\nA napot Pontaillac-ban zárjuk a múzeum megtekintésével és az Atlanti-óceán feletti naplemente megcsodálásával a kaszinó partján.",
+        "ro": "Explorați Royan și împrejurimile sale cu mașina pentru o flexibilitate maximă. Dimineața începe în centrul orașului cu vizitarea pieței emblematice și a bisericii moderne Notre-Dame, accesibile ușor pe jos dintr-o singură parcare.\n\nSpre prânz, conduceți către pitorescul Talmont-sur-Gironde, un sat istoric cocoțat pe o stâncă, renumit pentru casele sale albe și obloanele albastre.\n\nDupă-amiaza reveniți în Royan pentru a vă bucura de soare pe plaja Grande Conche, înainte de a merge către elegantul cartier Pontaillac.\n\nZiua se încheie în Pontaillac cu o vizită la muzeu și un apus spectaculos peste Atlantic de pe faleza cazinoului.",
+        "en": "Explore Royan and its surroundings with the flexibility of a car. Start the morning in the city center visiting the iconic market and the modern Notre-Dame Church, easily explored on foot from one parking spot.\n\nAround noon, drive to the picturesque Talmont-sur-Gironde, a historic cliffside village famous for its whitewashed houses and blue shutters.\n\nIn the afternoon, head back to Royan to soak up the sun at Grande Conche beach, before moving on to the elegant Pontaillac district.\n\nThe day concludes in Pontaillac with a visit to the museum and a view of the sunset over the Atlantic from the casino promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge du Promontoire",
+            "tip": "Traditionelle Küche in Talmont."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge du Promontoire",
+            "tip": "Hagyományos konyha Talmont-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge du Promontoire",
+            "tip": "Bucătărie tradițională în Talmont."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge du Promontoire",
+            "tip": "Traditional cuisine in Talmont."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Talmont Cliffs",
+            "tip": "Wunderschöner Blick auf das Gironde-Ästuar.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Talmont sziklák",
+            "tip": "Gyönyörű kilátás a Gironde-torkolatra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din Talmont",
+            "tip": "Vedere superbă asupra estuarului Gironde.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Talmont Cliffs",
+            "tip": "Beautiful views over the Gironde estuary.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Crafts in Talmont",
+            "tip": "Handgefertigte Keramik und Schmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézművesek Talmont-ban",
+            "tip": "Kézzel készített kerámiák és ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local în Talmont",
+            "tip": "Ceramică și bijuterii lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts in Talmont",
+            "tip": "Handmade ceramics and jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den großen Parkplatz am Eingang von Talmont.",
+          "Die Küstenstraße D25 bietet fantastische Ausblicke."
+        ],
+        "hu": [
+          "Használja a Talmont bejáratánál található nagy parkolót.",
+          "A D25-ös parti út fantasztikus kilátást nyújt."
+        ],
+        "ro": [
+          "Folosiți parcarea mare de la intrarea în Talmont.",
+          "Drumul de coastă D25 oferă priveliști fantastice."
+        ],
+        "en": [
+          "Use the large parking lot at the entrance of Talmont.",
+          "The D25 coastal road offers fantastic scenic views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de la Grande Conche",
+            "hu": "Grande Conche strand",
+            "ro": "Plaja Grande Conche",
+            "en": "Grande Conche Beach"
+          },
+          "coords": [
+            -1.0185,
+            45.6185
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour entlang der Promenade.",
+            "hu": "Kezdje a túrát a sétány mentén.",
+            "ro": "Începeți turul de-a lungul promenadei.",
+            "en": "Start your tour along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Front de Mer",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de la Mare",
+            "en": "Front de Mer"
+          },
+          "coords": [
+            -1.0285,
+            45.6225
+          ],
+          "category": "parks",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren ist auf der Promenade erlaubt.",
+            "hu": "A sétányon megengedett a kerékpározás.",
+            "ro": "Biciclistul este permis pe promenadă.",
+            "en": "Cycling is allowed on the main promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentralmarkt",
+            "hu": "Központi Piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -1.0235,
+            45.6265
+          ],
+          "category": "market",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie Picknickzutaten für später.",
+            "hu": "Vásároljon be a későbbi piknikhez.",
+            "ro": "Cumpărați ingrediente pentru picnic.",
+            "en": "Buy picnic ingredients for later."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier de Pontaillac",
+            "hu": "Pontaillac negyed",
+            "ro": "Cartierul Pontaillac",
+            "en": "Pontaillac District"
+          },
+          "coords": [
+            -1.0445,
+            45.6305
+          ],
+          "category": "squares",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für eine Mittagspause am Meer.",
+            "hu": "Kiváló hely egy tengerparti ebédszünethez.",
+            "ro": "Un loc minunat pentru pauza de prânz.",
+            "en": "A great spot for a seaside lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Cordouan (Blick vom Hafen)",
+            "hu": "Phare de Cordouan (kilátás a kikötőből)",
+            "ro": "Farul Cordouan (vedere din port)",
+            "en": "Phare de Cordouan (View from Port)"
+          },
+          "coords": [
+            -1.0315,
+            45.6215
+          ],
+          "category": "lighthouses",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der älteste Leuchtturm Frankreichs im Meer.",
+            "hu": "Franciaország legrégebbi tengeri világítótornya.",
+            "ro": "Cel mai vechi far maritim din Franța.",
+            "en": "France oldest sea lighthouse, visible offshore."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pontaillac",
+            "hu": "Pontaillac strand",
+            "ro": "Plaja Pontaillac",
+            "en": "Pontaillac Beach"
+          },
+          "coords": [
+            -1.0465,
+            45.6315
+          ],
+          "category": "beach",
+          "arrive_at": "14:35",
+          "stay_min": 160,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Surfer beobachten oder selbst ins Wasser gehen.",
+            "hu": "Figyelje a szörfösöket, vagy menjen be a vízbe.",
+            "ro": "Urmăriți surferii sau intrați în apă.",
+            "en": "Watch the surfers or take a dip yourself."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste von Royan auf zwei Rädern. Der Morgen beginnt mit einer Fahrt entlang des breiten Grande Conche Strandes und der belebten Front de Mer, wo Sie die frische Seeluft genießen.\n\nNach einem Stopp am Zentralmarkt führt die Route weiter in das charmante Viertel Pontaillac, das für seine Belle-Époque-Villen und das Casino bekannt ist.\n\nAm Nachmittag radeln Sie zurück zum Hafen für einen Blick in die Ferne auf den Leuchtturm Cordouan, bevor Sie den Rest des Tages entspannt am Strand von Pontaillac verbringen.\n\nDie Tour bietet eine perfekte Mischung aus Bewegung, Kultur und Entspannung am Atlantik.",
+        "hu": "Fedezze fel Royan partvonalát két keréken. A reggel a széles Grande Conche strand és a nyüzsgő Front de Mer mentén indul, ahol élvezheti a friss tengeri levegőt.\n\nA központi piaci kitérő után az út a bájos Pontaillac negyedbe vezet, amely Belle Époque stílusú villáiról és kaszinójáról ismert.\n\nDélután visszakerekezünk a kikötőbe, hogy távolról megcsodáljuk a Cordouan világítótornyot, majd a nap hátralévő részét a Pontaillac strandon pihenve töltjük.\n\nA túra a mozgás, a kultúra és az atlanti-óceáni kikapcsolódás tökéletes keverékét kínálja.",
+        "ro": "Explorați coasta orașului Royan pe două roți. Dimineața începe cu o plimbare de-a lungul plajei late Grande Conche și a falezei Front de Mer, unde vă puteți bucura de aerul sărat al mării.\n\nDupă o oprire la Piața Centrală, traseul continuă spre fermecătorul cartier Pontaillac, cunoscut pentru vilele sale Belle Époque și cazinou.\n\nDupă-amiaza pedalați înapoi spre port pentru o vedere la orizont către Farul Cordouan, înainte de a petrece restul zilei relaxându-vă pe plaja din Pontaillac.\n\nTurul oferă un amestec perfect de mișcare, cultură și relaxare la malul Atlanticului.",
+        "en": "Explore Royan coastline on two wheels. Start the morning with a ride along the wide Grande Conche beach and the bustling Front de Mer, soaking in the fresh sea air.\n\nAfter a detour to the Central Market, the route continues to the charming Pontaillac district, known for its Belle Époque villas and casino.\n\nIn the afternoon, cycle back towards the harbor for a distant view of the Cordouan lighthouse, before spending the rest of the day relaxing at Pontaillac beach.\n\nThe tour offers a perfect blend of exercise, culture, and Atlantic relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confiserie Lopez",
+            "tip": "Legendäres Eis direkt an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confiserie Lopez",
+            "tip": "Legendás fagylalt közvetlenül a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie Lopez",
+            "tip": "Înghețată legendară direct pe promenadă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confiserie Lopez",
+            "tip": "Legendary ice cream right on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Küstenpfad für ruhige Momente.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Parti ösvény a csendes percekhez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Potecă de coastă pentru momente de liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Coastal path for quiet moments.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Central",
+            "tip": "Perfekt für frisches Obst für die Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi Piac",
+            "tip": "Friss gyümölcsök a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Centrală",
+            "tip": "Fructe proaspete pentru tură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Market",
+            "tip": "Fresh fruit for your bike ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele Fahrradabstellplätze am Strand.",
+          "Achten Sie auf Fußgänger auf der Front de Mer."
+        ],
+        "hu": [
+          "A strandnál számos kerékpártároló található.",
+          "Ügyeljen a gyalogosokra a Front de Mer sétányon."
+        ],
+        "ro": [
+          "Există multe rastele pentru biciclete lângă plajă.",
+          "Atenție la pietoni pe promenada Front de Mer."
+        ],
+        "en": [
+          "There are plenty of bike racks near the beach.",
+          "Watch out for pedestrians on the Front de Mer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentralmarkt",
+            "hu": "Központi Piac",
+            "ro": "Piața Centrală",
+            "en": "Central Market"
+          },
+          "coords": [
+            -1.0235,
+            45.6265
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Knotenpunkt vieler Buslinien.",
+            "hu": "Számos buszjárat csomópontja.",
+            "ro": "Nod principal pentru multe linii de autobuz.",
+            "en": "A hub for many bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -1.0308,
+            45.6281
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Markt erreichbar.",
+            "hu": "Gyalogosan elérhető a piactól.",
+            "ro": "Accesibil pe jos de la piață.",
+            "en": "Accessible on foot from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Royan (Pontaillac)",
+            "hu": "Royan Múzeum (Pontaillac)",
+            "ro": "Muzeul din Royan (Pontaillac)",
+            "en": "Royan Museum (Pontaillac)"
+          },
+          "coords": [
+            -1.0475,
+            45.6315
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 10 oder 11.",
+            "hu": "Használja a 10-es vagy 11-es járatot.",
+            "ro": "Luați linia 10 sau 11.",
+            "en": "Take bus line 10 or 11."
+          }
+        },
+        {
+          "name": {
+            "de": "Front de Mer",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de la Mare",
+            "en": "Front de Mer"
+          },
+          "coords": [
+            -1.0285,
+            45.6225
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Zentraler Ausstiegspunkt am Hafen.",
+            "hu": "Központi leszállóhely a kikötőnél.",
+            "ro": "Punct central de coborâre lângă port.",
+            "en": "Central bus stop near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grande Conche",
+            "hu": "Grande Conche strand",
+            "ro": "Plaja Grande Conche",
+            "en": "Grande Conche Beach"
+          },
+          "coords": [
+            -1.0185,
+            45.6185
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 135,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Kurze Fahrt oder schöner Spaziergang am Meer.",
+            "hu": "Rövid utazás vagy kellemes parti séta.",
+            "ro": "O scurtă călătorie sau o plimbare frumoasă.",
+            "en": "A short ride or a lovely seaside walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das CaraBus-Netz, um Royan stressfrei zu erkunden. Der Tag beginnt am Zentralmarkt, dem Herzstück des lokalen Verkehrs und Handels.\n\nNach der Besichtigung der nahen Notre-Dame-Kirche bringt Sie der Bus bequem in das westliche Viertel Pontaillac, wo Sie tief in die Geschichte der Stadt im Musée de Royan eintauchen können.\n\nAm Mittag kehren Sie mit dem Bus zur Front de Mer zurück, um ein köstliches Mittagessen mit Blick auf das Wasser zu genießen.\n\nDen Nachmittag verbringen Sie entspannt am Grande Conche Strand, bevor Sie bequem mit dem öffentlichen Nahverkehr zu Ihrem Ausgangspunkt zurückkehren.",
+        "hu": "Használja a CaraBus hálózatot Royan stresszmentes felfedezéséhez. A nap a Központi Piacnál indul, amely a helyi közlekedés és kereskedelem szíve.\n\nA közeli Notre-Dame templom meglátogatása után a busz kényelmesen elviszi a nyugati Pontaillac negyedbe, ahol a Royan Múzeumban mélyülhet el a város történelmében.\n\nDélben busszal térünk vissza a Front de Mer sétányhoz, hogy egy finom ebédet fogyasszunk el a vízparton.\n\nA délutánt pihenéssel töltjük a Grande Conche strandon, majd a tömegközlekedéssel egyszerűen visszatérhetünk kiindulópontunkra.",
+        "ro": "Folosiți rețeaua CaraBus pentru a explora Royan fără stres. Ziua începe la Piața Centrală, inima transportului și comerțului local.\n\nDupă vizitarea bisericii Notre-Dame din apropiere, autobuzul vă duce confortabil în cartierul de vest Pontaillac, unde puteți aprofunda istoria orașului la Muzeul din Royan.\n\nLa prânz, reveniți cu autobuzul pe Front de Mer pentru un prânz delicios cu vedere la apă.\n\nDupă-amiaza este dedicată relaxării pe plaja Grande Conche, înainte de a reveni ușor cu transportul public la punctul de plecare.",
+        "en": "Use the CaraBus network for a stress-free exploration of Royan. Start your day at the Central Market, the heart of local transit and trade.\n\nAfter visiting the nearby Notre-Dame Church, take a bus comfortably to the western Pontaillac district, where you can delve into the town history at the Royan Museum.\n\nAt midday, return by bus to the Front de Mer to enjoy a delicious lunch by the waterfront.\n\nSpend the afternoon relaxing at Grande Conche beach before catching a convenient bus back to your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 100% Royan",
+            "tip": "Lokale Produkte in entspanntem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 100% Royan",
+            "tip": "Helyi termékek kötetlen hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 100% Royan",
+            "tip": "Produse locale într-o ambianță relaxată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 100% Royan",
+            "tip": "Local products in a relaxed setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage du Chay",
+            "tip": "Ruhigere Bucht abseits des Hauptstrandes.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage du Chay",
+            "tip": "Csendesebb öböl a főstrandtól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage du Chay",
+            "tip": "Golf liniștit, departe de plaja principală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage du Chay",
+            "tip": "Quieter bay away from the main beach.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulevard Aristide Briand",
+            "tip": "Zentrale Einkaufsstraße mit Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulevard Aristide Briand",
+            "tip": "Központi bevásárlóutca butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulevard Aristide Briand",
+            "tip": "Stradă comercială centrală cu buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulevard Aristide Briand",
+            "tip": "Central shopping street with boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
+          "Die Fahrpläne sind am Wochenende oft eingeschränkt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet közvetlenül a sofőrnél.",
+          "A menetrend hétvégén gyakran ritkább."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer.",
+          "Orarele sunt adesea limitate în weekend."
+        ],
+        "en": [
+          "Buy a day pass directly from the driver.",
+          "Schedules are often restricted during weekends."
+        ]
+      }
+    }
+  }
+}

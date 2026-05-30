@@ -1,0 +1,942 @@
+{
+  "city_id": "beziers",
+  "anchor": {
+    "name": "Béziers",
+    "coords": [
+      3.2158,
+      43.3442
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Allées Paul Riquet",
+          "coords": [
+            3.217,
+            43.344
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Kaffee im Schatten der Platanen.",
+            "hu": "Igyon egy kávét a platánfák hűs árnyékában.",
+            "ro": "Savurați o cafea sub umbra platanilor bătrâni.",
+            "en": "Enjoy a coffee under the shade of the plane trees."
+          }
+        },
+        {
+          "name": "Plateau des Poètes",
+          "coords": [
+            3.219,
+            43.339
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein herrlicher englischer Garten aus dem 19. Jahrhundert.",
+            "hu": "Gyönyörű 19. századi angolkert szobrokkal.",
+            "ro": "O grădină englezească superbă din secolul XIX.",
+            "en": "A beautiful 19th-century English-style garden."
+          }
+        },
+        {
+          "name": "Les Halles de Béziers",
+          "coords": [
+            3.214,
+            43.343
+          ],
+          "category": "gastro",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen 'Petits Pâtés de Béziers'.",
+            "hu": "Kóstolja meg a helyi húsos-édes pástétomot.",
+            "ro": "Gustați faimoasele 'Petits Pâtés de Béziers'.",
+            "en": "Try the local sweet and savory 'Petits Pâtés'."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            3.213,
+            43.343
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "In zwei eleganten Stadthäusern untergebracht.",
+            "hu": "Két elegáns városi palotában berendezett galéria.",
+            "ro": "Găzduit în două conace elegante din centru.",
+            "en": "Housed in two elegant mansions in the city center."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Nazaire",
+          "coords": [
+            3.209,
+            43.341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Kreuzgang für die beste Aussicht.",
+            "hu": "Látogasson el a kolostorkertbe a legjobb kilátásért.",
+            "ro": "Vizitați claustrul pentru cea mai bună vedere.",
+            "en": "Visit the cloister for the best panoramic view."
+          }
+        },
+        {
+          "name": "Pont Vieux",
+          "coords": [
+            3.207,
+            43.34
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blick auf die Kathedrale, die die Stadt überragt.",
+            "hu": "Fotózza le a város fölé magasodó katedrálist.",
+            "ro": "Fotografiați catedrala care domină orașul.",
+            "en": "Great spot to photograph the cathedral above."
+          }
+        },
+        {
+          "name": "Église Saint-Jacques",
+          "coords": [
+            3.212,
+            43.341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine der ältesten romanischen Kirchen der Stadt.",
+            "hu": "A város egyik legrégebbi román stílusú temploma.",
+            "ro": "Una dintre cele mai vechi biserici romanice.",
+            "en": "One of the oldest Romanesque churches in town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Béziers offenbart sich am besten zu Fuß. Der Morgen beginnt auf den Allées Paul Riquet, dem pulsierenden Herzen der Stadt, gefolgt von einem entspannenden Spaziergang im Plateau des Poètes. Nach dem Mittagessen in den Markthallen erkunden Sie die prächtige Kathedrale Saint-Nazaire, eine wahre Festung auf einem Felsen, bevor Sie zum mittelalterlichen Pont Vieux hinabsteigen.",
+        "hu": "Béziers-t gyalogosan a legjobb felfedezni. A reggel az Allées Paul Riquet sétányon kezdődik, majd a Plateau des Poètes angolkertjében folytatódik. A vásárcsarnoki ebéd után a sziklára épült, erőd szerű Saint-Nazaire katedrális következik, végül pedig leereszkedünk az Orb-folyón átívelő középkori Öreg-hídhoz.",
+        "ro": "Béziers se dezvăluie cel mai bine la pas. Dimineața începe pe Allées Paul Riquet, inima orașului, urmată de o plimbare relaxantă în Plateau des Poètes. După prânzul la hală, explorați impunătoarea Catedrală Saint-Nazaire, o adevărată fortăreață pe stâncă, înainte de a coborî spre medievalul Pont Vieux.",
+        "en": "Béziers is best explored on foot. Start your morning at Allées Paul Riquet, the city's pulse, followed by a stroll through the Plateau des Poètes. After lunch at the market hall, discover the fortress-like Saint-Nazaire Cathedral perched on its rock, before descending to the medieval Pont Vieux spanning the Orb river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Probieren Sie frische Austern und lokalen Wein."
+          },
+          {
+            "name": "Le Petit Pâté",
+            "tip": "Klassische lokale Delikatesse aus Fleisch und Zucker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "Kóstolja meg a friss osztrigát helyi borral."
+          },
+          {
+            "name": "Le Petit Pâté",
+            "tip": "Húsos-cukros helyi különlegesség a 13. századból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Încercați scoici proaspete și vin local."
+          },
+          {
+            "name": "Le Petit Pâté",
+            "tip": "O specialitate locală dulce-sărată din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Taste fresh oysters with a glass of local wine."
+          },
+          {
+            "name": "Le Petit Pâté",
+            "tip": "Classic local delicacy made with meat and sugar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de l'Évêché",
+            "tip": "Ruhiger Garten mit Blick auf das Orb-Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki kert",
+            "tip": "Csendes kert kilátással az Orb völgyére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Episcopiei",
+            "tip": "Grădină liniștită cu vedere spre valea Orb.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Garden",
+            "tip": "Quiet garden with views over the Orb valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la République",
+            "tip": "Haupteinkaufsstraße mit Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la République",
+            "tip": "A fő bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la République",
+            "tip": "Principala stradă comercială cu buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la République",
+            "tip": "Main shopping street with local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Béziers ist hügelig, tragen Sie bequeme Schuhe.",
+          "Das Fremdenverkehrsamt bietet tolle Themenrundgänge an."
+        ],
+        "hu": [
+          "Béziers dombos, viseljen kényelmes cipőt.",
+          "A katedrális környéke meredek, de megéri a sétát."
+        ],
+        "ro": [
+          "Béziers este deluros, purtați pantofi confortabili.",
+          "Zona catedralei este abruptă, dar oferă cele mai bune poze."
+        ],
+        "en": [
+          "Béziers is hilly, so wear comfortable walking shoes.",
+          "The area around the cathedral is steep but worth the effort."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Plateau des Poètes",
+          "coords": [
+            3.219,
+            43.339
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekter Start im Grünen.",
+            "hu": "Tökéletes zöld kezdés a városban.",
+            "ro": "Un început perfect în inima naturii.",
+            "en": "Perfect green start in the city."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Nazaire",
+          "coords": [
+            3.209,
+            43.341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad vor dem Eingang ab.",
+            "hu": "Parkolja le a bringát a bejárat előtt.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely near the entrance."
+          }
+        },
+        {
+          "name": "Pont Vieux",
+          "coords": [
+            3.207,
+            43.34
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Hervorragender Radweg entlang des Orb.",
+            "hu": "Kiváló kerékpárút az Orb-folyó mentén.",
+            "ro": "Pistă de biciclete excelentă de-a lungul râului.",
+            "en": "Excellent bike path along the Orb river."
+          }
+        },
+        {
+          "name": "Les Neuf Écluses de Fonseranes",
+          "coords": [
+            3.199,
+            43.331
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Meisterwerk des Canal du Midi (UNESCO).",
+            "hu": "A Canal du Midi UNESCO világörökségi mesterműve.",
+            "ro": "Capodopera Canalului Midi, sit UNESCO.",
+            "en": "The masterpiece of the Canal du Midi (UNESCO)."
+          }
+        },
+        {
+          "name": "Canal du Midi Treidelpfad",
+          "coords": [
+            3.18,
+            43.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Radeln Sie unter jahrhundertealten Platanen.",
+            "hu": "Tekerjen évszázados platánok árnyékában.",
+            "ro": "Pedalați sub platani seculari pe malul apei.",
+            "en": "Cycle under centuries-old plane trees."
+          }
+        },
+        {
+          "name": "Arènes de Béziers",
+          "coords": [
+            3.228,
+            43.348
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Ein Hauch von römischem Erbe.",
+            "hu": "Egy kis római örökség a város szélén.",
+            "ro": "O notă de moștenire romană în oraș.",
+            "en": "A touch of Roman heritage in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich Béziers und seine Umgebung herrlich erkunden. Nach der Altstadt führt der Weg zum Canal du Midi. Das Highlight ist die Treppe der Neun Schleusen von Fonseranes. Genießen Sie die Fahrt auf dem flachen Treidelpfad entlang des Kanals, bevor Sie zu den Arènes de Béziers zurückkehren.",
+        "hu": "Kerékpárral Béziers és környéke is könnyen bejárható. Az óváros után az út a Canal du Midi-hez vezet. A csúcspont a Fonseranes-i kilenc zsilip látványa. Élvezze a tekerést a csatorna menti sík vontatóúton, mielőtt visszakanyarodna a városi arénához.",
+        "ro": "Cu bicicleta, Béziers și împrejurimile sunt o plăcere. După centrul istoric, drumul duce spre Canal du Midi. Punctul culminant este scara celor nouă ecluze de la Fonseranes. Bucurați-vă de drumul plan de-a lungul canalului înainte de a reveni la arenele orașului.",
+        "en": "By bike, Béziers and its surroundings are a delight. After the historic center, head to the Canal du Midi. The highlight is the nine locks of Fonseranes. Enjoy cycling along the flat towpath of the canal before looping back to the city's arena."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 9",
+            "tip": "Restaurant direkt an den Schleusen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 9",
+            "tip": "Étterem közvetlenül a zsilipsornál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 9",
+            "tip": "Restaurant situat chiar lângă ecluze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 9",
+            "tip": "Restaurant located right by the locks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal-Ufer",
+            "tip": "Friedliche Atmosphäre am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatornapart",
+            "tip": "Békés hangulat a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canalului",
+            "tip": "Atmosferă pașnică lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal banks",
+            "tip": "Peaceful atmosphere by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fonseranes Shop",
+            "tip": "Lokale Weine und Canal-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fonseranes bolt",
+            "tip": "Helyi borok és csatorna-emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Fonseranes",
+            "tip": "Vinuri locale și suveniruri cu Canalul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fonseranes Shop",
+            "tip": "Local wines and Canal-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Treidelpfad ist unbefestigt, aber gut befahrbar.",
+          "Vorsicht bei starkem Wind (Tramontane)."
+        ],
+        "hu": [
+          "A vontatóút murvás, de jól járható bringával.",
+          "Vigyázzon az erős széllel (Tramontane)."
+        ],
+        "ro": [
+          "Calea de tractare este neasfaltată, dar practicabilă.",
+          "Atenție la vântul puternic (Tramontane)."
+        ],
+        "en": [
+          "The towpath is unpaved but easy to cycle on.",
+          "Be careful if there's strong wind (Tramontane)."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 32,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Plateau des Poètes (Cluster A)",
+          "coords": [
+            3.219,
+            43.339
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Jean Jaurès'.",
+            "hu": "Parkoljon a Jean Jaurès mélygarázsban.",
+            "ro": "Parcați la garajul 'Jean Jaurès'.",
+            "en": "Park at the 'Jean Jaurès' parking garage."
+          }
+        },
+        {
+          "name": "Allées Paul Riquet (Cluster A)",
+          "coords": [
+            3.217,
+            43.344
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt der Stadt.",
+            "hu": "A város központi találkozóhelye.",
+            "ro": "Punctul central de întâlnire al orașului.",
+            "en": "The central meeting point of the city."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Nazaire (Cluster A)",
+          "coords": [
+            3.209,
+            43.341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beeindruckende gotische Architektur.",
+            "hu": "Lenyűgöző gótikus építészet.",
+            "ro": "Arhitectură gotică impresionantă.",
+            "en": "Impressive Gothic architecture."
+          }
+        },
+        {
+          "name": "Les Neuf Écluses de Fonseranes (Cluster B)",
+          "coords": [
+            3.199,
+            43.331
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz vor Ort.",
+            "hu": "Használja a helyszíni nagy parkolót.",
+            "ro": "Folosiți parcarea mare de la fața locului.",
+            "en": "Use the large on-site parking lot."
+          }
+        },
+        {
+          "name": "Oppidum d'Ensérune (nearby excursion)",
+          "coords": [
+            3.111,
+            43.31
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10,
+          "tip_5lang": {
+            "de": "Antike Ausgrabungen und Blick auf den Étang de Montady.",
+            "hu": "Antik romok és kilátás a Montady-tóra.",
+            "ro": "Săpături antice și vedere spre Étang de Montady.",
+            "en": "Ancient ruins and view of the Montady pond."
+          }
+        },
+        {
+          "name": "Valras-Plage (Cluster C)",
+          "coords": [
+            3.265,
+            43.245
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 16,
+          "tip_5lang": {
+            "de": "Ein Hauch von Meeresbrise zum Abschluss.",
+            "hu": "Egy kis tengeri szellő a nap végére.",
+            "ro": "O briză marină pentru finalul zilei.",
+            "en": "A sea breeze to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das historische Zentrum von Béziers mit den Highlights der Umgebung. Nach einem Rundgang durch die Altstadt fahren Sie zu den berühmten Neun Schleusen. Ein kurzer Ausflug führt Sie zum antiken Oppidum d'Ensérune mit seinem einzigartigen Panorama, bevor Sie den Tag am Sandstrand von Valras-Plage ausklingen lassen.",
+        "hu": "Autóval Béziers történelmi belvárosát és a környék látnivalóit is kényelmesen elérheti. Az óvárosi séta után irány a híres kilenc zsilip. Egy rövid kitérővel megnézheti az Ensérune oppidumot és annak különleges kör alakú mezőit, a napot pedig a Valras-Plage homokos tengerpartján zárhatja.",
+        "ro": "Cu mașina, combinați centrul istoric cu atracțiile din jur. După o plimbare prin orașul vechi, mergeți la celebrele nouă ecluze. O scurtă excursie vă duce la anticul Oppidum d'Ensérune cu panorama sa unică, înainte de a încheia ziua pe plaja cu nisip de la Valras-Plage.",
+        "en": "By car, you can combine Béziers' historic center with surrounding highlights. After a tour of the old town, drive to the famous nine locks. A short trip takes you to the ancient Oppidum d'Ensérune with its unique panorama, before ending the day at the sandy beach of Valras-Plage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Maison de Petit Pierre",
+            "tip": "Top-Küche von einem Top Chef Gewinner."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Maison de Petit Pierre",
+            "tip": "Kiváló konyha egy Top Chef győztestől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Maison de Petit Pierre",
+            "tip": "Bucătărie de top de la un câștigător Top Chef."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Maison de Petit Pierre",
+            "tip": "Excellent cuisine from a Top Chef winner."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Valras Strand",
+            "tip": "Abendspaziergang am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Valras part",
+            "tip": "Esti séta a tengerparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Valras",
+            "tip": "Plimbare de seară pe malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Valras Beach",
+            "tip": "Evening stroll by the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Polygone Béziers",
+            "tip": "Großes Einkaufszentrum unter freiem Himmel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Polygone Béziers",
+            "tip": "Nagy szabadtéri bevásárlóközpont."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Polygone Béziers",
+            "tip": "Centru comercial mare în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Polygone Béziers",
+            "tip": "Large open-air shopping center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Im Sommer ist das Parken in der Nähe der Kathedrale schwierig.",
+          "Die Küstenstraße nach Valras ist landschaftlich reizvoll."
+        ],
+        "hu": [
+          "Nyáron nehéz parkolni a katedrális közelében.",
+          "A Valras-ba vezető tengerparti út nagyon látványos."
+        ],
+        "ro": [
+          "Vara parcarea lângă catedrală este dificilă.",
+          "Drumul spre Valras oferă peisaje frumoase."
+        ],
+        "en": [
+          "In summer, parking near the cathedral can be difficult.",
+          "The coastal road to Valras is quite scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Allées Paul Riquet (Cluster 1)",
+          "coords": [
+            3.217,
+            43.344
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt 'De Gaulle'.",
+            "hu": "A 'De Gaulle' központi buszcsomópont közelében.",
+            "ro": "Nodul central de autobuze 'De Gaulle'.",
+            "en": "Near the 'De Gaulle' central bus hub."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Nazaire (Cluster 1)",
+          "coords": [
+            3.209,
+            43.341
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Stadtzentrum.",
+            "hu": "Rövid séta a belvárosból.",
+            "ro": "Scurtă plimbare din centrul orașului.",
+            "en": "Short walk from the city center."
+          }
+        },
+        {
+          "name": "Les Halles de Béziers (Cluster 1)",
+          "coords": [
+            3.214,
+            43.343
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein schnelles Mittagessen.",
+            "hu": "Tökéletes hely egy gyors ebédhez.",
+            "ro": "Perfect pentru un prânz rapid.",
+            "en": "Perfect for a quick local lunch."
+          }
+        },
+        {
+          "name": "Les Neuf Écluses (District 2)",
+          "coords": [
+            3.199,
+            43.331
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie E nach Fonseranes.",
+            "hu": "Vegyék az E jelű buszt Fonseranes felé.",
+            "ro": "Luați linia E către Fonseranes.",
+            "en": "Take line E towards Fonseranes."
+          }
+        },
+        {
+          "name": "Pont Vieux (Cluster 1, return)",
+          "coords": [
+            3.207,
+            43.34
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück zum Flussufer.",
+            "hu": "Busszal vissza a folyóparthoz.",
+            "ro": "Înapoi cu autobuzul spre malul râului.",
+            "en": "Back by bus to the riverside."
+          }
+        },
+        {
+          "name": "Plateau des Poètes",
+          "coords": [
+            3.219,
+            43.339
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Direkt neben dem Bahnhof gelegen.",
+            "hu": "Közvetlenül a vasútállomás mellett.",
+            "ro": "Situat chiar lângă gară.",
+            "en": "Located right next to the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bussystem von Béziers (beeMob) erreichen Sie die wichtigsten Sehenswürdigkeiten bequem. Nach dem historischen Kern im Zentrum bringt Sie ein Bus direkt zum UNESCO-Weltkulturerbe der Schleusen von Fonseranes. Der Tag endet im malerischen Park Plateau des Poètes, nur wenige Schritte vom Bahnhof entfernt.",
+        "hu": "Béziers buszhálózatával (beeMob) kényelmesen elérheti a főbb pontokat. A belvárosi történelmi mag felfedezése után busz viszi ki az UNESCO világörökségi zsiliprendszerhez. A nap a Plateau des Poètes festői parkjában zárul, amely kőhajításnyira van a vasútállomástól.",
+        "ro": "Cu rețeaua de autobuze beeMob, puteți ajunge ușor la principalele obiective. După explorarea centrului istoric, un autobuz vă duce direct la ecluzele de la Fonseranes, sit UNESCO. Ziua se încheie în parcul Plateau des Poètes, situat la câțiva pași de gară.",
+        "en": "Using Béziers' bus network (beeMob), you can comfortably reach the key sites. After exploring the historic heart, a bus takes you directly to the UNESCO-listed Fonseranes locks. The day ends at the picturesque Plateau des Poètes park, just steps away from the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Ambassade",
+            "tip": "In der Nähe der Allées Paul Riquet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Ambassade",
+            "tip": "Az Allées Paul Riquet közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Ambassade",
+            "tip": "Situat aproape de Allées Paul Riquet."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Ambassade",
+            "tip": "Located near Allées Paul Riquet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plateau des Poètes",
+            "tip": "Ruhiger Park mit Teichen und Enten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plateau des Poètes",
+            "tip": "Csendes park tavakkal és kacsákkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plateau des Poètes",
+            "tip": "Parc liniștit cu iazuri și rațe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plateau des Poètes",
+            "tip": "Quiet park with ponds and ducks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Regionale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "Regionális termékek és finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Produse regionale și delicatese."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Regional products and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
+          "Die beeMob App zeigt Abfahrtszeiten in Echtzeit."
+        ],
+        "hu": [
+          "Vegyen napijegyet közvetlenül a sofőrnél.",
+          "A beeMob app mutatja a valós idejű indulásokat."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer.",
+          "Aplicația beeMob arată plecările în timp real."
+        ],
+        "en": [
+          "Buy a day pass directly from the driver.",
+          "The beeMob app shows real-time departures."
+        ]
+      }
+    }
+  }
+}

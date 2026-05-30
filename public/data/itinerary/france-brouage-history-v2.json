@@ -1,0 +1,976 @@
+{
+  "city_id": "france-brouage-history-v2",
+  "anchor": {
+    "name": "Brouage",
+    "coords": [
+      -1.06,
+      45.85
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Porte Royale",
+          "coords": [
+            -1.0605,
+            45.851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Steinmetzzeichen an den Torwänden.",
+            "hu": "Keresse a kőfaragók jegyeit a kapu belső falain.",
+            "ro": "Observați semnele cioplitorilor în piatră de pe zidurile porții.",
+            "en": "Look for the stonemason marks on the inner gate walls."
+          }
+        },
+        {
+          "name": "Halle aux Vivres",
+          "coords": [
+            -1.061,
+            45.8505
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interaktive Modelle zeigen den Hafen, bevor er versandete.",
+            "hu": "Interaktív makettek mutatják be a kikötő eliszaposodása előtti állapotot.",
+            "ro": "Modelele interactive arată portul înainte de colmatare.",
+            "en": "Interactive models show the harbor before it silted up."
+          }
+        },
+        {
+          "name": "Kirche Saint-Pierre",
+          "coords": [
+            -1.0608,
+            45.8495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Glasfenster wurden von der kanadischen Provinz Québec gestiftet.",
+            "hu": "Az üvegablakokat a kanadai Québec tartomány adományozta.",
+            "ro": "Vitraliile au fost donate de provincia canadiană Québec.",
+            "en": "The stained glass windows were donated by the Canadian province of Quebec."
+          }
+        },
+        {
+          "name": "Samuel de Champlain Denkmal",
+          "coords": [
+            -1.0602,
+            45.8492
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": " Champlain wurde hier um 1570 geboren, bevor er Québec gründete.",
+            "hu": "Champlain itt született 1570 körül, mielőtt megalapította Québecet.",
+            "ro": "Champlain s-a născut aici în jurul anului 1570.",
+            "en": "Champlain was born here around 1570 before founding Quebec."
+          }
+        },
+        {
+          "name": "Schmiede von Brouage",
+          "coords": [
+            -1.0595,
+            45.849
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gelegentlich finden hier Vorführungen des alten Handwerks statt.",
+            "hu": "Alkalmanként bemutatókat tartanak a régi kovácsmesterségről.",
+            "ro": "Ocazional au loc demonstrații ale vechiului meșteșug.",
+            "en": "Occasionally, demonstrations of the old craft take place here."
+          }
+        },
+        {
+          "name": "La Glacière",
+          "coords": [
+            -1.0585,
+            45.8498
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In diesem unterirdischen Gewölbe lagerte man Eis für den Adel.",
+            "hu": "Ebben a földalatti boltozatban tároltak jeget a nemesség számára.",
+            "ro": "În această boltă subterană se depozita gheață pentru nobilime.",
+            "en": "Ice was stored in this underground vault for the nobility."
+          }
+        },
+        {
+          "name": "Stadtmauern-Rundweg",
+          "coords": [
+            -1.057,
+            45.8505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bester Blick auf die umliegenden Salzwiesen und Vögel.",
+            "hu": "A legjobb kilátás a környező sós mocsarakra és a madárvilágra.",
+            "ro": "Cea mai bună vedere asupra mlaștinilor sărate și a păsărilor.",
+            "en": "Best view of the surrounding salt marshes and birdlife."
+          }
+        },
+        {
+          "name": "Zitadelle von Brouage",
+          "coords": [
+            -1.06,
+            45.8515
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Bastionen sind im klassischen Vauban-Stil befestigt.",
+            "hu": "A bástyák klasszikus Vauban-stílusú erődítések.",
+            "ro": "Bastioanele sunt fortificate în stil clasic Vauban.",
+            "en": "The bastions are fortified in the classic Vauban style."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Brouage war einst einer der bedeutendsten europäischen Häfen für Meersalz, heute liegt die Festung einsam in den Marschen. Der Rundgang beginnt am beeindruckenden Königstor und führt zur monumentalen Halle aux Vivres, die heute als Museum dient. Nach der Besichtigung der Kirche, die eng mit der Geschichte Québecs verknüpft ist, bietet der Weg auf der Stadtmauer weite Ausblicke.",
+        "hu": "Brouage egykor Európa egyik legfontosabb sókikötője volt, ma egy elszigetelt erődítmény a mocsárvidék közepén. A séta a királyi kapunál indul, majd a monumentális élelemtár felé vezet, amely ma múzeum. A québeci kapcsolatokkal büszkélkedő templom után a városfalakon tett séta során feltárul a környező vizes élőhelyek lenyűgöző panorámája.",
+        "ro": "Brouage a fost odinioară unul dintre cele mai importante porturi de sare din Europa, astăzi cetatea fiind izolată în mijlocul mlaștinilor. Traseul începe la poarta regală și continuă spre monumentala Halle aux Vivres, care acum servește ca muzeu. După vizitarea bisericii legate de istoria Québecului, plimbarea pe zidurile cetății oferă vederi spectaculoase asupra zonelor umede.",
+        "en": "Brouage was once one of Europe's most significant salt ports, but today the fortress stands isolated in the marshes. The tour begins at the Royal Gate and leads to the monumental Halle aux Vivres, now a museum. After visiting the church linked to Quebec's history, a walk along the ramparts reveals panoramic views of the surrounding wetlands and salt marshes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marennes-Oléron Austern",
+            "tip": "Probieren Sie die berühmten 'Fines de Claire' Austern direkt in der Stadt."
+          },
+          {
+            "name": "Galette Charentaise",
+            "tip": "Ein traditioneller Butterkuchen mit Angelikawurzel-Aroma."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marennes-Oléron osztriga",
+            "tip": "Kóstolja meg a híres 'Fines de Claire' osztrigát a helyi éttermekben."
+          },
+          {
+            "name": "Galette Charentaise",
+            "tip": "Hagyományos vajas sütemény angyalgyökér ízesítéssel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii Marennes-Oléron",
+            "tip": "Gustați faimoasele stridii 'Fines de Claire' direct în oraș."
+          },
+          {
+            "name": "Galette Charentaise",
+            "tip": "O prăjitură tradițională cu unt și aromă de angelică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marennes-Oléron Oysters",
+            "tip": "Try the famous 'Fines de Claire' oysters in the local bistros."
+          },
+          {
+            "name": "Galette Charentaise",
+            "tip": "A traditional buttery cake flavored with angelica."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südliche Bastion",
+            "tip": "Ein ruhiger Ort für Naturbeobachtungen in den Marschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten der Halle aux Vivres",
+            "tip": "Ein kleiner Kräutergarten hinter dem Proviantlager.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli bástya",
+            "tip": "Csendes pont a mocsárvilág madarainak megfigyeléséhez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Élelemtár kertje",
+            "tip": "Kicsi fűszerkert az épület mögötti udvarban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastionul de Sud",
+            "tip": "Un loc liniștit pentru observarea naturii în mlaștini.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Halle aux Vivres",
+            "tip": "O mică grădină de plante aromatice în spatele depozitului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern Bastion",
+            "tip": "A quiet spot for nature watching in the marshes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Halle aux Vivres Garden",
+            "tip": "A small herb garden behind the old granary.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Handgeerntetes Meersalz aus den umliegenden Salinen."
+          },
+          {
+            "name": "Kunsthandwerk",
+            "tip": "Lokale Töpferwaren in den kleinen Ateliers der Zitadelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Kézzel gyűjtött tengeri só a közeli lepárlókból."
+          },
+          {
+            "name": "Kézműves termékek",
+            "tip": "Helyi fazekasáruk az erőd kis műhelyeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Sare de mare recoltată manual din salinele locale."
+          },
+          {
+            "name": "Artizanat local",
+            "tip": "Produse de olărit în micile ateliere din cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Hand-harvested sea salt from the nearby marshes."
+          },
+          {
+            "name": "Local Crafts",
+            "tip": "Pottery and jewelry in the citadel's small workshops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie ein Fernglas mit, um Störche und Graureiher in den Marschen zu beobachten.",
+          "Parken Sie vor der Porte Royale; die Innenstadt ist fast komplett autofrei.",
+          "Besuchen Sie den Ort am späten Nachmittag für das beste Fotolicht auf den Mauern."
+        ],
+        "hu": [
+          "Hozzon távcsövet a mocsárban fészkelő gólyák és szürke gémek megfigyeléséhez.",
+          "Parkoljon a Királyi Kapun kívül; a belső terület szinte teljesen sétálóövezet.",
+          "Késő délután látogasson el ide, amikor a legszebbek a fények a várfalakon."
+        ],
+        "ro": [
+          "Aduceți un binoclu pentru a observa berzele și stârcii în mlaștini.",
+          "Parcați în fața Porții Regale; centrul este aproape în întregime pietonal.",
+          "Vizitați orașul după-amiaza târziu pentru cea mai bună lumină pe ziduri."
+        ],
+        "en": [
+          "Bring binoculars to spot storks and grey herons nesting in the marshes.",
+          "Park outside the Royal Gate; the interior is almost entirely pedestrian-only.",
+          "Visit in the late afternoon for the best photographic light on the ramparts."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Zitadelle von Brouage",
+          "coords": [
+            -1.06,
+            45.851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster.",
+            "hu": "Vigyázzon a kerékpárral a macskaköveken.",
+            "ro": "Circulați cu atenție pe pavajul de piatră.",
+            "en": "Cycle carefully on the cobblestone streets."
+          }
+        },
+        {
+          "name": "Kirche Saint-Pierre",
+          "coords": [
+            -1.0608,
+            45.8495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich am Haupteingang.",
+            "hu": "Kerékpártárolók a főbejáratnál találhatók.",
+            "ro": "Suporturile de biciclete sunt la intrarea principală.",
+            "en": "Bike racks are located at the main entrance."
+          }
+        },
+        {
+          "name": "Marais de Brouage (Circuit)",
+          "coords": [
+            -1.04,
+            45.855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Flache Wege führen durch das Herz der ehemaligen Salinen.",
+            "hu": "Sík utak vezetnek az egykori sólepárlók szívébe.",
+            "ro": "Trasee plate prin inima fostelor saline.",
+            "en": "Flat paths through the heart of the former salt works."
+          }
+        },
+        {
+          "name": "Port de la Gachère",
+          "coords": [
+            -1.08,
+            45.865
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Gezeitenhafen, der die Verbindung zum Meer hielt.",
+            "hu": "Kis árapály-kikötő, amely fenntartotta a kapcsolatot a tengerrel.",
+            "ro": "Un mic port maritim care menținea legătura cu marea.",
+            "en": "A small tidal port that maintained the connection to the sea."
+          }
+        },
+        {
+          "name": "Halle aux Vivres",
+          "coords": [
+            -1.061,
+            45.8505
+          ],
+          "category": "museums",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kühle Innenräume – ideal nach einer sommerlichen Radtour.",
+            "hu": "Hűvös belső terek, ideálisak egy nyári biciklizés után.",
+            "ro": "Interioare răcoroase, ideale după o tură cu bicicleta vara.",
+            "en": "Cool interiors – perfect after a summer bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die steinerne Festung mit der weiten Natur der Marschen von Brouage. Nach einer Erkundung der historischen Gassen verlassen wir die Zitadelle und tauchen in das Labyrinth der Kanäle ein. Die flachen Wege bieten perfekte Bedingungen, um die reiche Vogelwelt und die ehemaligen Salinen aus nächster Nähe zu erleben, bevor wir zum Hafen von La Gachère weiterfahren.",
+        "hu": "Ez a kerékpártúra összeköti a kőerődöt Brouage mocsárvidékének tágas természetével. A történelmi utcák felfedezése után elhagyjuk a citadellát, és elmerülünk a csatornák labirintusában. A sík utak tökéletesek a gazdag madárvilág és az egykori sólepárlók megfigyeléséhez, mielőtt továbbtekernénk La Gachère kikötője felé.",
+        "ro": "Acest tur cu bicicleta combină cetatea de piatră cu natura vastă a mlaștinilor din Brouage. După explorarea străzilor istorice, părăsim citadela și ne scufundăm în labirintul canalelor. Traseele plate oferă condiții perfecte pentru a experimenta de aproape fauna aviară bogată și fostele saline, înainte de a continua spre portul La Gachère.",
+        "en": "This bike tour connects the stone fortress with the vast nature of the Brouage marshes. After exploring the historical streets, we leave the citadel and dive into the labyrinth of canals. The flat paths provide perfect conditions for experiencing the rich birdlife and former salt works up close, before continuing to the port of La Gachère."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Marschland",
+            "tip": "Kaufen Sie Käse und Brot in Brouage für eine Pause unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a mocsárban",
+            "tip": "Vásároljon sajtot és kenyeret Brouage-ban az útközbeni pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în mlaștină",
+            "tip": "Cumpărați brânză și pâine din Brouage pentru o pauză pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marshland Picnic",
+            "tip": "Buy some cheese and bread in Brouage for a break on the trail."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelbeobachtungsposten",
+            "tip": "Kleine Hütten entlang der Radwege.",
+            "emoji": "🦢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madármegfigyelő pont",
+            "tip": "Kis kunyhók a kerékpárutak mentén.",
+            "emoji": "🦢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de observare a păsărilor",
+            "tip": "Mici colibe de-a lungul pistelor de biciclete.",
+            "emoji": "🦢"
+          }
+        ],
+        "en": [
+          {
+            "name": "Birdwatching Blind",
+            "tip": "Small huts along the cycling paths.",
+            "emoji": "🦢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "In den umliegenden Dörfern oft direkt ab Hof erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A környező falvakban gyakran közvetlenül a termelőtől kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Disponibilă adesea direct de la fermă în satele din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Often available directly from farms in the surrounding villages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Wind kann in den offenen Marschen stark sein; planen Sie Ihre Route entsprechend.",
+          "Es gibt wenig Schatten – Sonnenschutz ist unerlässlich.",
+          "Die Wege sind meist geschottert, aber gut befahrbar."
+        ],
+        "hu": [
+          "A szél erős lehet a nyílt mocsárban; tervezze meg az útvonalat ennek megfelelően.",
+          "Kevés az árnyék – a fényvédelem elengedhetetlen.",
+          "Az utak többnyire murvásak, de jól járhatóak."
+        ],
+        "ro": [
+          "Vântul poate fi puternic în mlaștinile deschise; planificați traseul în consecință.",
+          "Există puțină umbră – protecția solară este esențială.",
+          "Drumurile sunt în mare parte cu pietriș, dar practicabile."
+        ],
+        "en": [
+          "Wind can be strong in the open marshes; plan your route accordingly.",
+          "There is little shade – sun protection is essential.",
+          "The paths are mostly gravel but well-rideable."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porte Royale (Parken)",
+          "coords": [
+            -1.0605,
+            45.851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vor dem Haupttor.",
+            "hu": "Nagy ingyenes parkoló a főkapu előtt.",
+            "ro": "Parcare mare gratuită în fața porții principale.",
+            "en": "Large free parking lot in front of the main gate."
+          }
+        },
+        {
+          "name": "Kirche Saint-Pierre",
+          "coords": [
+            -1.0608,
+            45.8495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar (Cluster A).",
+            "hu": "Gyalogosan elérhető a parkolóból (Cluster A).",
+            "ro": "Accesibil pe jos din parcare (Cluster A).",
+            "en": "Accessible on foot from the parking lot (Cluster A)."
+          }
+        },
+        {
+          "name": "Stadtmauern-Rundweg",
+          "coords": [
+            -1.057,
+            45.8505
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Laufen Sie den Nord-Süd-Bogen für die besten Fotos (Cluster A).",
+            "hu": "Sétáljon az észak-déli íven a legjobb fotókért (Cluster A).",
+            "ro": "Mergeți pe arcul nord-sud pentru cele mai bune fotografii (Cluster A).",
+            "en": "Walk the north-south arc for the best photos (Cluster A)."
+          }
+        },
+        {
+          "name": "Hiers (Dorfkirche)",
+          "coords": [
+            -1.045,
+            45.842
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Das Schwesterdorf auf der ehemaligen Insel (Fahrt-Hop).",
+            "hu": "A testvérfalu az egykori szigeten (autós szakasz).",
+            "ro": "Satul înrudit de pe fosta insulă (segment auto).",
+            "en": "The sister village on the former island (car hop)."
+          }
+        },
+        {
+          "name": "Marennes Austernhafen",
+          "coords": [
+            -1.11,
+            45.82
+          ],
+          "category": "port",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen in einer Austernhütte (Cluster B).",
+            "hu": "Ideális egy osztrigás ebédhez egy tengerparti kunyhóban (Cluster B).",
+            "ro": "Ideal pentru prânz într-o cabană de stridii (Cluster B).",
+            "en": "Ideal for lunch in an oyster shack (Cluster B)."
+          }
+        },
+        {
+          "name": "Cité de l'Huître (Museum)",
+          "coords": [
+            -1.115,
+            45.815
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Zucht der Marennes-Austern (Cluster B).",
+            "hu": "Tudjon meg mindent a marennes-i osztrigatenyésztésről (Cluster B).",
+            "ro": "Aflați totul despre creșterea stridiilor de Marennes (Cluster B).",
+            "en": "Learn everything about Marennes oyster farming (Cluster B)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir nicht nur die Mauern von Brouage, sondern auch das maritime Erbe von Marennes. Der Vormittag gehört der Geschichte von Samuel de Champlain in der Zitadelle. Nach einer kurzen Fahrt durch das Marschland erreichen wir den Hafen von Marennes, wo wir in den typischen bunten Hütten frische Austern genießen und die interaktive Austernstadt besuchen.",
+        "hu": "Autóval nemcsak Brouage falait, hanem Marennes tengeri örökségét is felfedezzük. A délelőtt Samuel de Champlain történetéé a citadellában. Egy rövid autózás után a mocsárvidéken át elérjük Marennes kikötőjét, ahol a tipikus színes kunyhókban friss osztrigát kóstolhatunk, és ellátogathatunk az interaktív osztrigavárosba is.",
+        "ro": "Cu mașina explorăm nu doar zidurile din Brouage, ci și moștenirea maritimă din Marennes. Dimineața este dedicată istoriei lui Samuel de Champlain în citadelă. După o scurtă călătorie prin mlaștini, ajungem în portul Marennes, unde ne putem bucura de stridii proaspete în colibele colorate tipice și vizităm orașul interactiv al stridiilor.",
+        "en": "By car, we explore not only the walls of Brouage but also the maritime heritage of Marennes. The morning is dedicated to Samuel de Champlain's history in the citadel. After a short drive through the marshland, we reach the port of Marennes, where we can enjoy fresh oysters in typical colorful shacks and visit the interactive oyster museum city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Cayenne",
+            "tip": "Probieren Sie Meeresfrüchte direkt am Kanal von Marennes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Cayenne",
+            "tip": "Kóstolja meg a tenger gyümölcseit közvetlenül a marennes-i csatornánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Cayenne",
+            "tip": "Gustați fructe de mare chiar lângă canalul Marennes."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Cayenne",
+            "tip": "Try seafood directly by the Marennes canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marais-Straße",
+            "tip": "Halten Sie an den Ausbuchtungen für Fotos der Reiher.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mocsári út",
+            "tip": "Álljon meg a pihenőknél a gémek fotózásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul prin mlaștină",
+            "tip": "Opriți în alveole pentru fotografii cu stârci.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marsh Road",
+            "tip": "Stop at the pull-outs for photos of the herons.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Austern-Direktverkauf",
+            "tip": "Frische Kisten direkt bei den Züchtern in Marennes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osztriga közvetlen értékesítés",
+            "tip": "Friss ládák közvetlenül a tenyésztőktől Marennes-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de stridii",
+            "tip": "Lăzi proaspete direct de la producători în Marennes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Direct Oyster Sale",
+            "tip": "Fresh crates directly from the farmers in Marennes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die D123 zwischen Brouage und Marennes ist sehr schmal; Vorsicht bei Gegenverkehr.",
+          "Besuchen Sie Marennes bei Flut für die beste Hafenatmosphäre.",
+          "Parken in Brouage ist im Sommer oft voll, kommen Sie vor 10:00 Uhr."
+        ],
+        "hu": [
+          "A D123-as út Brouage és Marennes között nagyon keskeny; óvatosan a szembejövő forgalommal.",
+          "Dagálykor látogasson el Marennes-be a legjobb kikötői hangulatért.",
+          "A parkoló Brouage-ban nyáron hamar megtelik, érkezzen 10:00 előtt."
+        ],
+        "ro": [
+          "Drumul D123 între Brouage și Marennes este foarte îngust; atenție la traficul din sens opus.",
+          "Vizitați Marennes la flux pentru cea mai bună atmosferă portuară.",
+          "Parcarea în Brouage este adesea plină vara, veniți înainte de ora 10:00."
+        ],
+        "en": [
+          "The D123 road between Brouage and Marennes is very narrow; be careful with oncoming traffic.",
+          "Visit Marennes at high tide for the best harbor atmosphere.",
+          "Parking in Brouage often fills up in summer, arrive before 10:00 AM."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Brouage (Haupteingang)",
+          "coords": [
+            -1.0605,
+            45.851
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Haltestelle befindet sich direkt vor der Stadtmauer.",
+            "hu": "A buszmegálló közvetlenül a városfal előtt található.",
+            "ro": "Stația se află chiar în fața zidului cetății.",
+            "en": "The bus stop is located right in front of the city wall."
+          }
+        },
+        {
+          "name": "Kirche Saint-Pierre",
+          "coords": [
+            -1.0608,
+            45.8495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt, nur wenige Minuten zu Fuß.",
+            "hu": "A város szíve, csak pár perc séta.",
+            "ro": "Inima orașului, la doar câteva minute de mers pe jos.",
+            "en": "The heart of the town, just a few minutes' walk."
+          }
+        },
+        {
+          "name": "Halle aux Vivres",
+          "coords": [
+            -1.061,
+            45.8505
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Hauptmuseum für Besucher mit wenig Zeit.",
+            "hu": "A legfontosabb múzeum a kevés idővel rendelkező látogatóknak.",
+            "ro": "Muzeul principal pentru vizitatorii cu timp limitat.",
+            "en": "The main museum for visitors with limited time."
+          }
+        },
+        {
+          "name": "Samuel de Champlain Denkmal",
+          "coords": [
+            -1.0602,
+            45.8492
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt in der Zitadelle.",
+            "hu": "Központi találkozóhely a citadellában.",
+            "ro": "Punct central de întâlnire în cetate.",
+            "en": "Central meeting point in the citadel."
+          }
+        },
+        {
+          "name": "Stadtmauern-Rundweg (Ost)",
+          "coords": [
+            -1.0575,
+            45.851
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Rundgang zurück zum Busstopp.",
+            "hu": "Rövid körséta vissza a buszmegállóhoz.",
+            "ro": "Scurtă plimbare circulară înapoi la stația de autobuz.",
+            "en": "Short circular walk back to the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Brouage klein ist, konzentriert sich der Transit-Plan auf die wesentlichen Monumente innerhalb der Mauern. Nach der Ankunft am Haupttor führt der Weg zur historischen Kirche und der beeindruckenden Halle aux Vivres. Bevor der Bus zurückfährt, bietet ein kurzer Spaziergang auf dem östlichen Teil der Stadtmauer einen wunderbaren Abschiedsblick auf die Umgebung.",
+        "hu": "Mivel Brouage kicsi, a közösségi közlekedéses terv a falakon belüli legfontosabb műemlékekre összpontosít. A főkapunál való érkezés után az út a történelmi templomhoz és a lenyűgöző élelemtárhoz vezet. Mielőtt a busz visszaindulna, egy rövid séta a városfal keleti részén csodálatos búcsúpillantást nyújt a környező tájra.",
+        "ro": "Deoarece Brouage este mic, planul pentru transportul public se concentrează pe monumentele esențiale din interiorul zidurilor. După sosirea la poarta principală, traseul duce la biserica istorică și la impresionanta Halle aux Vivres. Înainte ca autobuzul să plece, o scurtă plimbare pe partea de est a zidului oferă o vedere de rămas-bun minunată.",
+        "en": "Since Brouage is small, the transit plan focuses on the essential monuments within the walls. After arriving at the main gate, the path leads to the historical church and the impressive Halle aux Vivres. Before the bus returns, a short walk on the eastern part of the ramparts offers a wonderful farewell view of the surroundings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistrot de la Citadelle",
+            "tip": "Schnelle und gute lokale Küche in der Nähe des Tors."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistrot de la Citadelle",
+            "tip": "Gyors és jó helyi konyha a kapu közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistrot de la Citadelle",
+            "tip": "Bucătărie locală rapidă și bună lângă poartă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistrot de la Citadelle",
+            "tip": "Quick and good local cuisine near the gate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park hinter der Kirche",
+            "tip": "Ein schattiges Plätzchen zum Warten auf den Bus.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom mögötti park",
+            "tip": "Árnyékos hely a buszra való várakozáshoz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul din spatele bisericii",
+            "tip": "Un loc umbros pentru a aștepta autobuzul.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park behind the Church",
+            "tip": "A shaded spot to wait for the bus.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Shop",
+            "tip": "Im Besucherzentrum der Halle aux Vivres."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapbolt",
+            "tip": "A Halle aux Vivres látogatóközpontjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de cărți poștale",
+            "tip": "În centrul de vizitatori din Halle aux Vivres."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard Shop",
+            "tip": "In the visitor center at Halle aux Vivres."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Rückfahrtzeiten genau, da Busse (Linie 6) nur selten fahren.",
+          "Tickets können oft beim Fahrer gekauft werden.",
+          "Im Winter ist der Busverkehr stark eingeschränkt."
+        ],
+        "hu": [
+          "Pontosan ellenőrizze a visszaindulási időket, mert a buszok (6-os vonal) ritkán járnak.",
+          "A jegyeket gyakran a sofőrnél is meg lehet váltani.",
+          "Télen a buszközlekedés erősen korlátozott."
+        ],
+        "ro": [
+          "Verificați cu atenție orele de retur, deoarece autobuzele (linia 6) circulă rar.",
+          "Biletele pot fi cumpărate adesea de la șofer.",
+          "Iarna, serviciul de autobuz este foarte limitat."
+        ],
+        "en": [
+          "Check return times carefully, as buses (Line 6) run infrequently.",
+          "Tickets can often be purchased from the driver.",
+          "In winter, bus service is heavily restricted."
+        ]
+      }
+    }
+  }
+}

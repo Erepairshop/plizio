@@ -1,0 +1,1087 @@
+{
+  "city_id": "germany-fulda-cities-v2",
+  "anchor": {
+    "name": "Fulda Altstadt",
+    "coords": [
+      50.55,
+      9.67
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.552,
+            9.678
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fachwerk-Idylle pur.",
+            "hu": "Igazi fagerendás idill.",
+            "ro": "Cadru idilic cu bârne.",
+            "en": "Pure half-timbered idyll."
+          }
+        },
+        {
+          "name": {
+            "de": "Vonderau Museum",
+            "hu": "Vonderau Múzeum",
+            "ro": "Muzeul Vonderau",
+            "en": "Vonderau Museum"
+          },
+          "coords": [
+            50.552,
+            9.676
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Planetarium inklusive.",
+            "hu": "Planetárium is van benne.",
+            "ro": "Include și un planetariu.",
+            "en": "Includes a planetarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtschloss Fulda",
+            "hu": "Városi kastély",
+            "ro": "Castelul Orașului",
+            "en": "City Palace Fulda"
+          },
+          "coords": [
+            50.553,
+            9.675
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spiegelkabinett besuchen.",
+            "hu": "Nézd meg a tükörtermet.",
+            "ro": "Vizitați cabinetul de oglinzi.",
+            "en": "Visit the Hall of Mirrors."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélypark",
+            "ro": "Grădina Castelului",
+            "en": "Palace Garden"
+          },
+          "coords": [
+            50.555,
+            9.674
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause.",
+            "hu": "Tökéletes pihenőhely.",
+            "ro": "Perfect pentru o pauză.",
+            "en": "Perfect for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuldaer Dom",
+            "hu": "Fulda-i Dóm",
+            "ro": "Catedrala din Fulda",
+            "en": "Fulda Cathedral"
+          },
+          "coords": [
+            50.554,
+            9.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Grab des heiligen Bonifatius.",
+            "hu": "Szent Bonifác sírhelye.",
+            "ro": "Mormântul Sfântului Bonifaciu.",
+            "en": "Tomb of Saint Boniface."
+          }
+        },
+        {
+          "name": {
+            "de": "Michaelskirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            50.555,
+            9.672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Älteste Grabkirche Deutschlands.",
+            "hu": "Németország legrégebbi sírtemploma.",
+            "ro": "Cea mai veche biserică funerară.",
+            "en": "Germany's oldest sepulchral church."
+          }
+        },
+        {
+          "name": {
+            "de": "Paulustor",
+            "hu": "Paulus-kapu",
+            "ro": "Poarta Sf. Paul",
+            "en": "Paulustor Gate"
+          },
+          "coords": [
+            50.556,
+            9.672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schöner Fotospot.",
+            "hu": "Remek fotóhelyszín.",
+            "ro": "Loc excelent pentru poze.",
+            "en": "Great photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fulda besticht durch sein barockes Viertel. Morgens erkunden wir das Rathaus und das Vonderau Museum. Nach dem prächtigen Stadtschloss spazieren wir durch den Schlossgarten zum monumentalen Dom. Den Abschluss bildet die historische Michaelskirche und das Paulustor.",
+        "hu": "Fulda barokk negyede lenyűgöző. Reggel a Városházát és a Vonderau Múzeumot járjuk be. A pompás Városi kastély után a parkon át sétálunk a monumentális Dómhoz. A napot a történelmi Szent Mihály-templom és a Paulus-kapu zárja.",
+        "ro": "Cartierul baroc din Fulda este impresionant. Dimineața explorăm Primăria și Muzeul Vonderau. După somptuosul Castel, ne plimbăm prin grădini către Catedrala monumentală. Încheiem la biserica istorică Sf. Mihail și Poarta Sf. Paul.",
+        "en": "Fulda's Baroque quarter is stunning. In the morning, we explore the City Hall and Vonderau Museum. After the grand City Palace, we walk through the gardens to the monumental Cathedral. We finish at the historic St. Michael's Church and Paulustor gate."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heimat Fulda",
+            "tip": "Moderne hessische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heimat Fulda",
+            "tip": "Modern hesseni konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heimat Fulda",
+            "tip": "Bucătărie modernă din Hessa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heimat Fulda",
+            "tip": "Modern Hessian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ruhige Bänke am Weiher.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Csendes padok a tónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Bănci liniștite lângă iaz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Quiet benches by the pond.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fuldaer Altstadt",
+            "tip": "Kleine Boutiquen und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuldaer Altstadt",
+            "tip": "Kis butikok és kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fuldaer Altstadt",
+            "tip": "Mici buticuri și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuldaer Altstadt",
+            "tip": "Small boutiques and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fulda ist kompakt, zu Fuß ideal.",
+          "Barockviertel ist verkehrsberuhigt."
+        ],
+        "hu": [
+          "Fulda kompakt, gyalog ideális.",
+          "A barokk negyed forgalomcsillapított."
+        ],
+        "ro": [
+          "Fulda este compact, ideal pe jos.",
+          "Cartierul baroc este pietonal."
+        ],
+        "en": [
+          "Fulda is compact, ideal on foot.",
+          "The Baroque quarter is traffic-calmed."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.552,
+            9.678
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtschloss Fulda",
+            "hu": "Városi kastély",
+            "ro": "Castelul Orașului",
+            "en": "City Palace Fulda"
+          },
+          "coords": [
+            50.553,
+            9.675
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer im Innenhof.",
+            "hu": "Bringatároló a belső udvaron.",
+            "ro": "Suport biciclete în curte.",
+            "en": "Bike racks in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Orangerie",
+            "hu": "Orangerie",
+            "ro": "Oranjeria",
+            "en": "Orangerie"
+          },
+          "coords": [
+            50.557,
+            9.673
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Flora-Vase bewundern.",
+            "hu": "Csodáld meg a Flóra-vázát.",
+            "ro": "Admirați vaza Flora.",
+            "en": "Admire the Flora vase."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Frauenberg",
+            "hu": "Frauenberg kolostor",
+            "ro": "Mănăstirea Frauenberg",
+            "en": "Frauenberg Monastery"
+          },
+          "coords": [
+            50.561,
+            9.664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bester Blick über die Stadt.",
+            "hu": "A legjobb kilátás a városra.",
+            "ro": "Cea mai bună vedere asupra orașului.",
+            "en": "Best view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuldaer Dom",
+            "hu": "Fulda-i Dóm",
+            "ro": "Catedrala din Fulda",
+            "en": "Fulda Cathedral"
+          },
+          "coords": [
+            50.554,
+            9.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Barockfassade.",
+            "hu": "Lenyűgöző barokk homlokzat.",
+            "ro": "Fațadă barocă impresionantă.",
+            "en": "Impressive Baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgarten",
+            "hu": "Kastélypark",
+            "ro": "Grădina Castelului",
+            "en": "Palace Garden"
+          },
+          "coords": [
+            50.555,
+            9.674
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radfahren verboten, bitte schieben.",
+            "hu": "Bringázni tilos, tolni szabad.",
+            "ro": "Ciclism interzis, mergeți pe lângă.",
+            "en": "Cycling forbidden, please push."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erreichen wir bequem das Kloster Frauenberg auf dem Hügel. Wir starten in der Altstadt, besuchen das Schloss und die Orangerie, erklimmen den Frauenberg für das Panorama und kehren zum Dom zurück.",
+        "hu": "Kerékpárral kényelmesen elérjük a dombon lévő Frauenberg kolostort. Az óvárosból indulunk, érintjük a kastélyt és az Orangerie-t, feltekerünk a panorámáért, majd visszatérünk a Dómhoz.",
+        "ro": "Cu bicicleta ajungem ușor la mănăstirea Frauenberg de pe deal. Pornim din centrul vechi, vizităm castelul și oranjeria, urcăm pentru panoramă și revenim la Catedrală.",
+        "en": "By bike, we easily reach the Frauenberg Monastery on the hill. Starting in the old town, we visit the palace and Orangerie, climb to Frauenberg for the panorama, and return to the Cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klostercafé Frauenberg",
+            "tip": "Hausgemachter Kuchen mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klostercafé Frauenberg",
+            "tip": "Házias sütemény kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klostercafé Frauenberg",
+            "tip": "Prăjituri de casă cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klostercafé Frauenberg",
+            "tip": "Homemade cake with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten Frauenberg",
+            "tip": "Spirituelle Ruhe über den Dächern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klostergarten Frauenberg",
+            "tip": "Lelki béke a tetők felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klostergarten Frauenberg",
+            "tip": "Liniște spirituală deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klostergarten Frauenberg",
+            "tip": "Spiritual peace above the rooftops.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Klosterladen",
+            "tip": "Regionale Spezialitäten der Mönche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klosterladen",
+            "tip": "A szerzetesek helyi termékei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Klosterladen",
+            "tip": "Specialități regionale ale călugărilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klosterladen",
+            "tip": "Regional specialties by the monks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fulda ist fahrradfreundlich.",
+          "Der Anstieg zum Frauenberg ist steil."
+        ],
+        "hu": [
+          "Fulda kerékpárosbarát.",
+          "A Frauenbergre vezető út meredek."
+        ],
+        "ro": [
+          "Fulda este prietenos cu bicicliștii.",
+          "Urcarea spre Frauenberg este abruptă."
+        ],
+        "en": [
+          "Fulda is bike-friendly.",
+          "The climb to Frauenberg is steep."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus (Cluster A)",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.552,
+            9.678
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkhaus Zentrum nutzen.",
+            "hu": "Használd a központi parkolóházat.",
+            "ro": "Folosiți parcarea centrală.",
+            "en": "Use the central parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Vonderau Museum (Cluster A)",
+            "hu": "Vonderau Múzeum",
+            "ro": "Muzeul Vonderau",
+            "en": "Vonderau Museum"
+          },
+          "coords": [
+            50.552,
+            9.676
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Fußweg durch die Altstadt.",
+            "hu": "Gyalog az óvároson át.",
+            "ro": "La pas prin centrul vechi.",
+            "en": "Walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtschloss Fulda (Cluster A)",
+            "hu": "Városi kastély",
+            "ro": "Castelul Orașului",
+            "en": "City Palace Fulda"
+          },
+          "coords": [
+            50.553,
+            9.675
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Hauptresidenz der Äbte.",
+            "hu": "Az apátok fő rezidenciája.",
+            "ro": "Reședința principală a abaților.",
+            "en": "Main residence of the abbots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Frauenberg (Cluster B)",
+            "hu": "Frauenberg kolostor",
+            "ro": "Mănăstirea Frauenberg",
+            "en": "Monastery Frauenberg"
+          },
+          "coords": [
+            50.561,
+            9.664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor Ort.",
+            "hu": "Parkoló közvetlenül helyben.",
+            "ro": "Parcare direct la fața locului.",
+            "en": "Parking right on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuldaer Dom (Cluster C)",
+            "hu": "Fulda-i Dóm",
+            "ro": "Catedrala din Fulda",
+            "en": "Fulda Cathedral"
+          },
+          "coords": [
+            50.554,
+            9.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Emblema orașului.",
+            "en": "Landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Michaelskirche (Cluster C)",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "St. Michael's Church"
+          },
+          "coords": [
+            50.555,
+            9.672
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einzigartige Krypta.",
+            "hu": "Egyedülálló kripta.",
+            "ro": "Criptă unică.",
+            "en": "Unique crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Paulustor (Cluster C)",
+            "hu": "Paulus-kapu",
+            "ro": "Poarta Sf. Paul",
+            "en": "Paulustor Gate"
+          },
+          "coords": [
+            50.556,
+            9.672
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp.",
+            "hu": "Rövid fotómegálló.",
+            "ro": "Scurt popas pentru poze.",
+            "en": "Short photo stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Drei Cluster führen uns durch Fulda. Zuerst parken wir im Zentrum für das Rathaus und Schloss. Danach fahren wir zum Kloster Frauenberg für die Aussicht. Den Tag beschließen wir im Dom-Viertel mit Kathedrale und Michaelskirche.",
+        "hu": "Három klaszterben fedezzük fel Fuldát. Először a központban parkolunk a Városháza és a kastély kedvéért. Ezután a Frauenberg kolostorhoz autózunk a kilátásért. A napot a Dóm-negyedben zárjuk a székesegyházzal.",
+        "ro": "Trei clustere ne poartă prin Fulda. Mai întâi parcăm în centru pentru Primărie și Castel. Apoi conducem la mănăstirea Frauenberg pentru priveliște. Încheiem ziua în cartierul Catedralei.",
+        "en": "Three clusters guide us through Fulda. First, we park centrally for the Town Hall and Palace. Then, we drive to Frauenberg Monastery for the view. We end the day in the Cathedral district with the Basilica and St. Michael's."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Wiesenmühle",
+            "tip": "Rustikal mit eigenem Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Wiesenmühle",
+            "tip": "Rusztikus, saját sörrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Wiesenmühle",
+            "tip": "Rustic cu bere proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Wiesenmühle",
+            "tip": "Rustic with its own beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Frauenberg",
+            "tip": "Sonnenuntergang über der Rhön.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Frauenberg",
+            "tip": "Naplemente a Rhön felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Frauenberg",
+            "tip": "Apus de soare peste Rhön.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Frauenberg",
+            "tip": "Sunset over the Rhön mountains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emaillierwerk",
+            "tip": "Einkaufszentrum im alten Industriebau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emaillierwerk",
+            "tip": "Pláza egy régi ipari épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Emaillierwerk",
+            "tip": "Centru comercial în clădire industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emaillierwerk",
+            "tip": "Shopping mall in an old industrial building."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatznot im Barockviertel meiden.",
+          "Zentrale Parkhäuser sind günstig."
+        ],
+        "hu": [
+          "Kerüld a barokk negyed szűk utcáit.",
+          "A központi parkolóházak kedvezőek."
+        ],
+        "ro": [
+          "Evitați lipsa parcărilor în zona barocă.",
+          "Parcările centrale sunt accesibile."
+        ],
+        "en": [
+          "Avoid parking issues in the Baroque quarter.",
+          "Central parking garages are affordable."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Primăria Veche",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            50.552,
+            9.678
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nähe Haltestelle Stadtschloss.",
+            "hu": "A Stadtschloss megálló közelében.",
+            "ro": "Lângă stația Stadtschloss.",
+            "en": "Near Stadtschloss stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtschloss Fulda",
+            "hu": "Városi kastély",
+            "ro": "Castelul Orașului",
+            "en": "City Palace Fulda"
+          },
+          "coords": [
+            50.553,
+            9.675
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Barockes Prunkstück.",
+            "hu": "Barokk remekmű.",
+            "ro": "Capodoperă barocă.",
+            "en": "Baroque masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuldaer Dom",
+            "hu": "Fulda-i Dóm",
+            "ro": "Catedrala din Fulda",
+            "en": "Fulda Cathedral"
+          },
+          "coords": [
+            50.554,
+            9.671
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Einfach zu Fuß vom Schloss.",
+            "hu": "Könnyű séta a kastélytól.",
+            "ro": "Scurtă plimbare de la castel.",
+            "en": "Easy walk from the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Frauenberg",
+            "hu": "Frauenberg kolostor",
+            "ro": "Mănăstirea Frauenberg",
+            "en": "Frauenberg Monastery"
+          },
+          "coords": [
+            50.561,
+            9.664
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 1 bis Frauenberg.",
+            "hu": "1-es busz a Frauenbergig.",
+            "ro": "Autobuzul 1 până la Frauenberg.",
+            "en": "Bus line 1 to Frauenberg."
+          }
+        },
+        {
+          "name": {
+            "de": "Orangerie",
+            "hu": "Orangerie",
+            "ro": "Oranjeria",
+            "en": "Orangerie"
+          },
+          "coords": [
+            50.557,
+            9.673
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Schöner Barockgarten.",
+            "hu": "Szép barokk kert.",
+            "ro": "Grădină barocă frumoasă.",
+            "en": "Beautiful Baroque garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Vonderau Museum",
+            "hu": "Vonderau Múzeum",
+            "ro": "Muzeul Vonderau",
+            "en": "Vonderau Museum"
+          },
+          "coords": [
+            50.552,
+            9.676
+          ],
+          "category": "museums",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kultur pur zum Abschluss.",
+            "hu": "Kulturális zárás.",
+            "ro": "Cultură pură la final.",
+            "en": "Pure culture to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Stadtbus vernetzen wir die Highlights. Nach dem barocken Zentrum fahren wir hinauf zum Frauenberg. Den Nachmittag verbringen wir in der Orangerie und im Museum, alles bequem erreichbar.",
+        "hu": "Helyi buszokkal kötjük össze a látnivalókat. A barokk központ után felutazunk a Frauenbergre. A délutánt az Orangerie-ben és a múzeumban töltjük, minden kényelmesen elérhető.",
+        "ro": "Conectăm punctele de interes cu autobuzul local. După centrul baroc, urcăm la Frauenberg. Petrecem după-amiaza la Oranjerie și muzeu, toate fiind ușor accesibile.",
+        "en": "We link the highlights using city buses. After the Baroque center, we ride up to Frauenberg. We spend the afternoon at the Orangerie and the museum, all easily accessible."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Café",
+            "tip": "Hessische Gastlichkeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altstadt-Café",
+            "tip": "Hesseni vendégszeretet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altstadt-Café",
+            "tip": "Hospitalitate din Hessa."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altstadt-Café",
+            "tip": "Hessian hospitality."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Domplatz",
+            "tip": "Weite und Ruhe vor der Basilika.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domplatz",
+            "tip": "Tér és nyugalom a bazilika előtt.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domplatz",
+            "tip": "Spațiu și liniște în fața bazilicii.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Domplatz",
+            "tip": "Expansiveness and peace before the Basilica.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Karstadt Fulda",
+            "tip": "Zentrales Warenhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karstadt Fulda",
+            "tip": "Központi áruház."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karstadt Fulda",
+            "tip": "Magazin universal central."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karstadt Fulda",
+            "tip": "Central department store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tageskarte für den Bus lohnt sich.",
+          "ZOB am Bahnhof ist der Knotenpunkt."
+        ],
+        "hu": [
+          "A buszos napijegy megéri.",
+          "A vasútállomás melletti buszvégállomás a csomópont."
+        ],
+        "ro": [
+          "Abonamentul de o zi pentru autobuz merită.",
+          "ZOB de la gară este punctul nodal."
+        ],
+        "en": [
+          "A day ticket for the bus is worth it.",
+          "ZOB at the station is the main hub."
+        ]
+      }
+    }
+  }
+}

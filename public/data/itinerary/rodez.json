@@ -1,0 +1,992 @@
+{
+  "city_id": "rodez",
+  "anchor": {
+    "name": "Cathédrale Notre-Dame de Rodez",
+    "coords": [
+      2.5724,
+      44.3518
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place du Bourg",
+          "coords": [
+            2.5735,
+            44.3508
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee auf dem belebten mittelalterlichen Platz.",
+            "hu": "Igyon egy kávét a nyüzsgő középkori téren.",
+            "ro": "Savurați o cafea în piața medievală plină de viață.",
+            "en": "Enjoy a coffee in the bustling medieval square."
+          }
+        },
+        {
+          "name": "Maison d'Armagnac",
+          "coords": [
+            2.5738,
+            44.3506
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Fassade dieses historischen Hauses.",
+            "hu": "Csodálja meg ennek a történelmi háznak a reneszánsz homlokzatát.",
+            "ro": "Admirați fațada renascentistă a acestei case istorice.",
+            "en": "Admire the Renaissance facade of this historic house."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            2.5724,
+            44.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kathedrale aus rotem Sandstein wirkt wie eine gewaltige Festung.",
+            "hu": "A vörös homokkőből épült katedrális egy hatalmas erődre emlékeztet.",
+            "ro": "Catedrala din gresie roșie arată ca o fortăreață masivă.",
+            "en": "The red sandstone cathedral looks like a massive fortress."
+          }
+        },
+        {
+          "name": "Musée Fenaille",
+          "coords": [
+            2.5732,
+            44.3512
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die geheimnisvollen prähistorischen Statuenmenhire.",
+            "hu": "Fedezze fel a titokzatos, őskori szobormenhireket.",
+            "ro": "Descoperiți misterioasele statui-menhir preistorice.",
+            "en": "Discover the mysterious prehistoric statue-menhirs."
+          }
+        },
+        {
+          "name": "Palais épiscopal",
+          "coords": [
+            2.5718,
+            44.3522
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein imposanter Bischofspalast direkt neben der Kathedrale.",
+            "hu": "Impozáns püspöki palota közvetlenül a katedrális mellett.",
+            "ro": "Un palat episcopal impunător chiar lângă catedrală.",
+            "en": "An imposing episcopal palace right next to the cathedral."
+          }
+        },
+        {
+          "name": "Musée Soulages",
+          "coords": [
+            2.5675,
+            44.3515
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das 'Outrenoir' des Künstlers Pierre Soulages.",
+            "hu": "Merüljön el Pierre Soulages 'Outrenoir' (túlfekete) világában.",
+            "ro": "Cufundați-vă în 'Outrenoir'-ul artistului Pierre Soulages.",
+            "en": "Immerse yourself in the 'Outrenoir' of artist Pierre Soulages."
+          }
+        },
+        {
+          "name": "Jardin du Foirail",
+          "coords": [
+            2.5655,
+            44.352
+          ],
+          "category": "garden",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein erholsamer Park mit Blick auf die umliegende Landschaft.",
+            "hu": "Pihentető park kilátással a környező tájra.",
+            "ro": "Un parc relaxant cu vedere spre peisajul înconjurător.",
+            "en": "A relaxing park with views of the surrounding countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Rodez auf dem Place du Bourg, umgeben von Renaissance-Häusern wie dem Maison d'Armagnac. Der Vormittag gehört der monumentalen Kathedrale Notre-Dame, einem Meisterwerk aus rotem Sandstein. Nach dem Mittagessen erkunden Sie die prähistorischen Schätze im Musée Fenaille, bevor Sie zum Musée Soulages spazieren, um moderne Kunst in rostigem Stahl zu bewundern. Den Abend lassen Sie entspannt im Jardin du Foirail ausklingen.",
+        "hu": "Kezdje a napot Rodez történelmi szívében, a Place du Bourg téren, olyan reneszánsz házak között, mint a Maison d'Armagnac. A délelőtt a monumentális, vörös homokkőből épült Notre-Dame katedrálisé. Ebéd után fedezze fel a Musée Fenaille őskori kincseit, majd sétáljon át a Musée Soulages-hoz, ahol a kortárs művészetet csodálhatja meg az oxidált acéltömbök között. A napot a Jardin du Foirail parkban zárja egy kellemes sétával.",
+        "ro": "Începeți ziua în inima istorică a orașului Rodez, în Place du Bourg, înconjurat de case renascentiste precum Maison d'Armagnac. Dimineața este dedicată monumentalei Catedrale Notre-Dame, o capodoperă din gresie roșie. După prânz, explorați comorile preistorice de la Musée Fenaille, înainte de a merge la Musée Soulages pentru a admira arta modernă în oțel oxidat. Încheiați ziua relaxându-vă în Jardin du Foirail.",
+        "en": "Start your day in the historic heart of Rodez at Place du Bourg, surrounded by Renaissance houses like the Maison d'Armagnac. The morning is dedicated to the monumental Notre-Dame Cathedral, a masterpiece of red sandstone. After lunch, explore the prehistoric treasures at Musée Fenaille before walking to Musée Soulages to admire modern art in rusted steel. Finish your day with a relaxing stroll in the Jardin du Foirail."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café Bras",
+            "tip": "Moderne Gastronomie direkt im Soulages-Museum."
+          },
+          {
+            "name": "Aligot",
+            "tip": "Kartoffelpüree mit viel lokalem Tomme-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café Bras",
+            "tip": "Modern gasztronómia közvetlenül a Soulages múzeumban."
+          },
+          {
+            "name": "Aligot",
+            "tip": "Sajtos burgonyapüré helyi Tomme sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café Bras",
+            "tip": "Gastronomie modernă chiar în muzeul Soulages."
+          },
+          {
+            "name": "Aligot",
+            "tip": "Piure de cartofi cu multă brânză locală Tomme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café Bras",
+            "tip": "Modern gastronomy located right inside the Soulages Museum."
+          },
+          {
+            "name": "Aligot",
+            "tip": "Cheesy mashed potatoes made with local Tomme cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bischofsgarten",
+            "tip": "Ein versteckter ruhiger Garten hinter dem Palast.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Chemin de randonnée",
+            "tip": "Panoramablick auf die Stadt von den Hängen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki kert",
+            "tip": "Rejtett, csendes kert a palota mögött.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Panoráma ösvény",
+            "tip": "Kilátás a városra a domboldalról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Episcopală",
+            "tip": "O grădină liniștită ascunsă în spatele palatului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Traseu panoramic",
+            "tip": "Vedere asupra orașului de pe dealurile din jur.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Garden",
+            "tip": "A hidden quiet garden behind the palace.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Panoramic Trail",
+            "tip": "View of the city from the surrounding slopes.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Lokale Produkte aus dem Aveyron auf dem Place du Bourg."
+          },
+          {
+            "name": "Librairie Maison du Livre",
+            "tip": "Schöne Buchhandlung in einem historischen Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szombati piac",
+            "tip": "Helyi Aveyron termékek a Place du Bourg téren."
+          },
+          {
+            "name": "Maison du Livre",
+            "tip": "Gyönyörű könyvesbolt egy történelmi épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Produse locale din Aveyron în Place du Bourg."
+          },
+          {
+            "name": "Maison du Livre",
+            "tip": "Librărie frumoasă într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saturday Market",
+            "tip": "Local Aveyron products at Place du Bourg."
+          },
+          {
+            "name": "Maison du Livre",
+            "tip": "Beautiful bookstore in a historic building."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Kathedrale ist mittags oft geschlossen, planen Sie den Besuch morgens.",
+          "Das Soulages-Museum ist montags geschlossen.",
+          "Probieren Sie 'Gâteau à la broche' als Nachtisch.",
+          "Die Altstadt ist sehr hügelig, bequeme Schuhe sind Pflicht."
+        ],
+        "hu": [
+          "A katedrális délben gyakran zárva tart, látogassa meg reggel.",
+          "A Soulages múzeum hétfőnként zárva van.",
+          "Kóstolja meg a 'Gâteau à la broche'-t desszertként.",
+          "Az óváros dombos, kényelmes cipő kötelező."
+        ],
+        "ro": [
+          "Catedrala este adesea închisă la prânz, planificați vizita dimineața.",
+          "Muzeul Soulages este închis lunea.",
+          "Încercați 'Gâteau à la broche' ca desert.",
+          "Centrul vechi este foarte deluros, pantofii comozi sunt obligatorii."
+        ],
+        "en": [
+          "The cathedral is often closed at midday, plan your visit for the morning.",
+          "The Soulages Museum is closed on Mondays.",
+          "Try 'Gâteau à la broche' (spit cake) for dessert.",
+          "The old town is quite hilly, comfortable shoes are a must."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place du Bourg",
+          "coords": [
+            2.5735,
+            44.3508
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt.",
+            "hu": "Központi indulópont.",
+            "ro": "Punct central de plecare.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            2.5724,
+            44.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "The symbol of the city."
+          }
+        },
+        {
+          "name": "Musée Soulages",
+          "coords": [
+            2.5675,
+            44.3515
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Moderne Architektur entdecken.",
+            "hu": "Modern építészet felfedezése.",
+            "ro": "Descoperiți arhitectura modernă.",
+            "en": "Discover modern architecture."
+          }
+        },
+        {
+          "name": "Haras National",
+          "coords": [
+            2.585,
+            44.358
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Das staatliche Gestüt in historischen Gebäuden.",
+            "hu": "Az állami ménesbirtok történelmi épületekben.",
+            "ro": "Herghelia națională în clădiri istorice.",
+            "en": "The national stud farm in historic buildings."
+          }
+        },
+        {
+          "name": "Église Saint-Amans",
+          "coords": [
+            2.5745,
+            44.3495
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Barocke Kirche mit reichem Interieur.",
+            "hu": "Barokk templom gazdag belsővel.",
+            "ro": "Biserică barocă cu interior bogat.",
+            "en": "Baroque church with rich interior."
+          }
+        },
+        {
+          "name": "Berges de l'Aveyron",
+          "coords": [
+            2.578,
+            44.343
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Flusses.",
+            "hu": "Biciklizzen a folyó mentén.",
+            "ro": "Mergeți cu bicicleta pe malul râului.",
+            "en": "Cycle along the river banks."
+          }
+        },
+        {
+          "name": "Jardin du Foirail",
+          "coords": [
+            2.5655,
+            44.352
+          ],
+          "category": "garden",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abschluss im Grünen.",
+            "hu": "Zárás a zöldben.",
+            "ro": "Final în natură.",
+            "en": "End the day in the green."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Altstadt mit dem grünen Umland. Nach der Kathedrale und dem Soulages-Museum fahren Sie zum Haras National, einem faszinierenden Gestüt. Danach geht es hinunter zum Fluss Aveyron für eine entspannte Fahrt im Tal.",
+        "hu": "Ez a biciklitúra összeköti az óvárost a zöld környezettel. A katedrális és a Soulages múzeum után tekerjen el a Haras National ménesbirtokhoz, majd ereszkedjen le az Aveyron folyó partjára egy pihentető túrára.",
+        "ro": "Acest tur cu bicicleta îmbină centrul vechi cu natura. După catedrală și muzeul Soulages, pedalați până la Haras National, o herghelie fascinantă, apoi coborâți la malul râului Aveyron.",
+        "en": "This bike tour connects the old town with the green surroundings. After the cathedral and Soulages museum, cycle to the Haras National stud farm, then head down to the Aveyron river for a relaxed ride."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Kiosque",
+            "tip": "Imbiss im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Kiosque",
+            "tip": "Gyors harapnivaló a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Kiosque",
+            "tip": "Snack-bar în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Kiosque",
+            "tip": "Snack bar in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aveyron Ufer",
+            "tip": "Ruhiger Weg am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aveyron part",
+            "tip": "Csendes út a víznél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Aveyron",
+            "tip": "Drum liniștit pe lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aveyron banks",
+            "tip": "Quiet path by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique Soulages",
+            "tip": "Design-Objekte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soulages Bolt",
+            "tip": "Design tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Soulages",
+            "tip": "Obiecte de design."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soulages Boutique",
+            "tip": "Design objects."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege zum Fluss sind steil, prüfen Sie die Bremsen."
+        ],
+        "hu": [
+          "A folyóhoz vezető utak meredekek, ellenőrizze a fékeket."
+        ],
+        "ro": [
+          "Drumurile spre râu sunt abrupte, verificați frânele."
+        ],
+        "en": [
+          "The paths to the river are steep, check your brakes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Haras National",
+          "coords": [
+            2.585,
+            44.358
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Gestüt.",
+            "hu": "Parkoljon közvetlenül a ménesbirtoknál.",
+            "ro": "Parcați direct la herghelie.",
+            "en": "Park directly at the stud farm."
+          }
+        },
+        {
+          "name": "Parking Foch (Center)",
+          "coords": [
+            2.571,
+            44.351
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Idealer Parkplatz für den Cluster Altstadt.",
+            "hu": "Ideális parkoló az óvárosi részhez.",
+            "ro": "Parcare ideală pentru zona veche.",
+            "en": "Ideal parking for the old town cluster."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            2.5724,
+            44.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz.",
+            "hu": "Gyalog a parkolótól.",
+            "ro": "Pe jos de la parcare.",
+            "en": "On foot from the parking."
+          }
+        },
+        {
+          "name": "Place du Bourg",
+          "coords": [
+            2.5735,
+            44.3508
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mittagspause im historischen Zentrum.",
+            "hu": "Ebédszünet a történelmi központban.",
+            "ro": "Pauză de prânz în centrul istoric.",
+            "en": "Lunch break in the historic center."
+          }
+        },
+        {
+          "name": "Musée Soulages",
+          "coords": [
+            2.5675,
+            44.3515
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie ggf. im Parking du Foirail um.",
+            "hu": "Szükség esetén parkoljon át a Parking du Foirail-ba.",
+            "ro": "Mutați mașina în parcarea Foirail dacă e nevoie.",
+            "en": "Re-park at Parking du Foirail if needed."
+          }
+        },
+        {
+          "name": "Viaduc de Viaur",
+          "coords": [
+            2.321,
+            44.118
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Beeindruckende Stahlbrücke 30 Min entfernt.",
+            "hu": "Lenyűgöző acélhíd 30 percre.",
+            "ro": "Pod impresionant de oțel la 30 min distanță.",
+            "en": "Impressive steel bridge 30 mins away."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto besuchen Sie erst das Haras National, bevor Sie zentral parken, um die Altstadt und die Kathedrale zu Fuß zu erkunden. Nach dem Mittagessen und dem Soulages-Museum bietet sich eine Fahrt zum spektakulären Viaduc de Viaur an, einem technischen Wunderwerk.",
+        "hu": "Autóval először a Haras National-t keresse fel, majd parkoljon le a központban az óváros és a katedrális gyalogos felfedezéséhez. Az ebédet és a Soulages múzeumot követően autózzon el a látványos Viaur-viadukthoz.",
+        "ro": "Cu mașina, vizitați întâi Haras National, apoi parcați central pentru a explora pe jos centrul vechi și catedrala. După prânz și muzeul Soulages, conduceți până la spectaculosul viaduct Viaur.",
+        "en": "By car, first visit the Haras National, then park centrally to explore the old town and cathedral on foot. After lunch and the Soulages museum, drive to the spectacular Viaur Viaduct, an engineering marvel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant de l'Agriculture",
+            "tip": "Rustikale regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant de l'Agriculture",
+            "tip": "Rusztikus regionális konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant de l'Agriculture",
+            "tip": "Bucătărie regională rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant de l'Agriculture",
+            "tip": "Rustic regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Viaur Aussichtspunkt",
+            "tip": "Blick auf das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viaur kilátópont",
+            "tip": "Kilátás a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Viaur",
+            "tip": "Vedere spre vale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viaur Viewpoint",
+            "tip": "View of the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Panier Paysan",
+            "tip": "Bauernprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Panier Paysan",
+            "tip": "Termelői termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Panier Paysan",
+            "tip": "Produse țărănești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Panier Paysan",
+            "tip": "Farmer products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze im Zentrum sind kostenpflichtig."
+        ],
+        "hu": [
+          "A központi parkolók fizetősek."
+        ],
+        "ro": [
+          "Parcările din centru sunt cu plată."
+        ],
+        "en": [
+          "Central parking lots require payment."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Gare de Rodez",
+          "coords": [
+            2.576,
+            44.364
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt am Bahnhof.",
+            "hu": "Kiindulópont a vasútállomáson.",
+            "ro": "Punct de plecare de la gară.",
+            "en": "Starting point at the train station."
+          }
+        },
+        {
+          "name": "Place de la Mairie",
+          "coords": [
+            2.5724,
+            44.3518
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bus Linie A oder B ins Zentrum.",
+            "hu": "A vagy B buszvonal a központba.",
+            "ro": "Autobuz linia A sau B spre centru.",
+            "en": "Bus Line A or B to the center."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            2.5724,
+            44.3518
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalog elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": "Musée Fenaille",
+          "coords": [
+            2.5732,
+            44.3512
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Im historischen Stadtkern.",
+            "hu": "A történelmi városmagban.",
+            "ro": "În centrul istoric.",
+            "en": "In the historic town core."
+          }
+        },
+        {
+          "name": "Musée Soulages",
+          "coords": [
+            2.5675,
+            44.3515
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß durch den Foirail.",
+            "hu": "Gyalog a Foirail-en keresztül.",
+            "ro": "Pe jos prin zona Foirail.",
+            "en": "On foot through Foirail."
+          }
+        },
+        {
+          "name": "Haras National",
+          "coords": [
+            2.585,
+            44.358
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bus zurück Richtung Haras.",
+            "hu": "Busz vissza a Haras irányába.",
+            "ro": "Autobuz înapoi spre Haras.",
+            "en": "Bus back towards Haras."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das städtische Busnetz (Agglobus), um vom Bahnhof ins Herz von Rodez zu gelangen. Erkunden Sie die Kathedrale und die Museen zu Fuß im Cluster Altstadt, bevor Sie mit dem Bus zum Haras National fahren.",
+        "hu": "Használja a városi buszhálózatot (Agglobus), hogy az állomástól Rodez szívébe jusson. Fedezze fel gyalog az óvárosi fürtben található katedrálist és múzeumokat, majd buszozzon el a Haras National-hoz.",
+        "ro": "Folosiți rețeaua de autobuze Agglobus pentru a ajunge de la gară în centrul orașului. Explorați pe jos catedrala și muzeele din zona veche, apoi luați autobuzul spre Haras National.",
+        "en": "Use the local Agglobus network to get from the station to the heart of Rodez. Explore the cathedral and museums on foot within the old town cluster, then take a bus to the Haras National."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Écurie",
+            "tip": "Gemütliches Bistro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Écurie",
+            "tip": "Hangulatos bisztró."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Écurie",
+            "tip": "Bistro primitor."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Écurie",
+            "tip": "Cozy bistro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Foirail Park",
+            "tip": "Grüne Lunge der Stadt.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Foirail park",
+            "tip": "A város zöld tüdeje.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Foirail",
+            "tip": "Plămânul verde al orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Foirail Park",
+            "tip": "Green lung of the city.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Agglobus Ticket",
+            "tip": "Tagesticket lohnt sich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agglobus jegy",
+            "tip": "Napijegy megéri."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bilet Agglobus",
+            "tip": "Abonamentul de o zi merită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agglobus Ticket",
+            "tip": "Day pass is worth it."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse fahren am Wochenende seltener."
+        ],
+        "hu": [
+          "Hétvégén ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

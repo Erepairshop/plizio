@@ -1,0 +1,994 @@
+{
+  "city_id": "it-bari",
+  "anchor": {
+    "name": "Bari Old Town",
+    "coords": [
+      41.127,
+      16.872
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piazza del Ferrarese",
+          "coords": [
+            41.1274,
+            16.8718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie hier Ihren ersten Espresso mit Blick auf das Meer.",
+            "hu": "Itt igyuk meg az első eszpresszónkat a tengerre nézve.",
+            "ro": "Beți primul espresso aici, cu vedere la mare.",
+            "en": "Have your first espresso here while looking at the sea."
+          }
+        },
+        {
+          "name": "Bari Vecchia",
+          "coords": [
+            41.1285,
+            16.8705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die Frauen, die Orecchiette-Nudeln auf der Straße herstellen.",
+            "hu": "Keressük az utcán orecchiette tésztát készítő asszonyokat.",
+            "ro": "Căutați femeile care fac paste orecchiette direct în stradă.",
+            "en": "Look for the women making orecchiette pasta right in the street."
+          }
+        },
+        {
+          "name": "Basilica di San Nicola",
+          "coords": [
+            41.1303,
+            16.8711
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta mit den Reliquien des Heiligen Nikolaus.",
+            "hu": "Látogassuk meg a kriptát Szent Miklós ereklyéivel.",
+            "ro": "Vizitați cripta care adăpostește moaștele Sfântului Nicolae.",
+            "en": "Visit the crypt housing the relics of Saint Nicholas."
+          }
+        },
+        {
+          "name": "Cattedrale di San Sabino",
+          "coords": [
+            41.1288,
+            16.8689
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiße romanische Architektur Apuliens.",
+            "hu": "Csodáljuk meg a fehér apuliai román építészetet.",
+            "ro": "Admirați arhitectura romanică albă specifică Apuliei.",
+            "en": "Admire the white Apulian Romanesque architecture."
+          }
+        },
+        {
+          "name": "Castello Svevo",
+          "coords": [
+            41.1292,
+            16.8658
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die mächtige Festung bietet oft interessante Kunstausstellungen.",
+            "hu": "A hatalmas erőd gyakran ad otthont művészeti kiállításoknak.",
+            "ro": "Fortăreața impunătoare găzduiește adesea expoziții de artă.",
+            "en": "The mighty fortress often hosts interesting art exhibitions."
+          }
+        },
+        {
+          "name": "Teatro Petruzzelli",
+          "coords": [
+            41.1233,
+            16.8722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eines der prachtvollsten Opernhäuser Italiens.",
+            "hu": "Olaszország egyik legpompásabb operaháza.",
+            "ro": "Una dintre cele mai splendide opere din Italia.",
+            "en": "One of the most splendid opera houses in Italy."
+          }
+        },
+        {
+          "name": "Lungomare Nazario Sauro",
+          "coords": [
+            41.1205,
+            16.8812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise auf der längsten Promenade Italiens.",
+            "hu": "Élvezzük a tengeri szellőt Olaszország leghosszabb sétányán.",
+            "ro": "Bucurați-vă de briza mării pe cea mai lungă faleză din Italia.",
+            "en": "Enjoy the sea breeze on the longest promenade in Italy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der lebhaften Altstadt, Bari Vecchia. Hier erleben Sie das authentische Italien, während Frauen in den Gassen frische Pasta zubereiten. Nach dem Besuch der beeindruckenden romanischen Kirchen spazieren Sie zur staufischen Burg. Am Nachmittag erkunden Sie das elegante Murat-Viertel mit seinen prachtvollen Theatern und beenden den Tag entspannt am tiefblauen Meer.",
+        "hu": "Napja Bari Vecchia labirintusszerű utcáin kezdődik, ahol az asszonyok az ajtóban készítik a híres fül alakú tésztát. Miután felfedezte a város vallási központját és a monumentális várat, térjen át a modernebb Murat negyedbe. Itt elegáns üzletek és a vöröslő Petruzzelli színház várja, mielőtt egy hosszú sétával zárná a napot a látványos tengerparti korzón.",
+        "ro": "Ziua începe în Bari Vecchia, unde viața locală pulsează pe străduțele înguste parfumate de paste proaspete. Vizitați Bazilica Sfântul Nicolae, un loc de pelerinaj important, apoi explorați fortăreața impunătoare de la malul mării. După-amiaza este dedicată cartierului Murat, cu bulevardele sale largi și teatrele istorice, terminând cu o plimbare revigorantă pe Lungomare.",
+        "en": "Your day starts in the maze of Bari Vecchia, where the aroma of fresh orecchiette fills the air. After visiting the iconic Basilica and the Norman-Swabian Castle, head towards the elegant Murat district. Admire the grandeur of the Petruzzelli Theatre and finish your journey with a relaxing stroll along the Lungomare, breathing in the salty Mediterranean air."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Orecchiette con le cime di rapa",
+            "tip": "Traditionelle Pasta mit Stängelkohl."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Frisch gebacken mit Kirschtomaten und Oliven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orecchiette con le cime di rapa",
+            "tip": "Hagyományos tészta tarlórépa szárával."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Frissen sütve, koktélparadicsommal és olajbogyóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orecchiette con le cime di rapa",
+            "tip": "Paste tradiționale cu vârfuri de napi."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Proaspăt scoasă din cuptor, cu roșii cherry și măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orecchiette con le cime di rapa",
+            "tip": "Traditional pasta with turnip tops."
+          },
+          {
+            "name": "Focaccia Barese",
+            "tip": "Freshly baked with cherry tomatoes and olives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fortino di Sant'Antonio",
+            "tip": "Ein ruhiger Ort für den Blick auf den Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fortino di Sant'Antonio",
+            "tip": "Csendes pont a kikötőre nyíló kilátáshoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fortino di Sant'Antonio",
+            "tip": "Un loc liniștit pentru a admira portul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortino di Sant'Antonio",
+            "tip": "A quiet spot for harbor views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Sparano",
+            "tip": "Die Haupteinkaufsstraße mit Luxusmarken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Sparano",
+            "tip": "A fő bevásárlóutca luxusmárkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Sparano",
+            "tip": "Principala stradă comercială cu branduri de lux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Sparano",
+            "tip": "The main shopping street with luxury brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bari ist flach und perfekt zu Fuß zu erkunden.",
+          "Mittags schließen viele Geschäfte in der Altstadt.",
+          "Probieren Sie das Streetfood direkt in den Gassen."
+        ],
+        "hu": [
+          "Bari sík terep, gyalogosan is kényelmesen bejárható.",
+          "Délután sok üzlet bezár a szieszta idejére.",
+          "Kóstoljuk meg az utcai ételeket a szűk sikátorokban."
+        ],
+        "ro": [
+          "Bari este plat și ideal pentru a fi explorat la pas.",
+          "Multe magazine din orașul vechi se închid la prânz.",
+          "Încercați street food-ul local direct pe străduțe."
+        ],
+        "en": [
+          "Bari is flat and perfect for exploring on foot.",
+          "Many shops in the old town close during the siesta.",
+          "Try the street food directly in the narrow alleys."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Castello Svevo",
+          "coords": [
+            41.1292,
+            16.8658
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sicheres Parken für Fahrräder direkt am Eingang.",
+            "hu": "Biztonságos kerékpárparkolás a bejáratnál.",
+            "ro": "Parcare sigură pentru biciclete chiar la intrare.",
+            "en": "Secure bike parking available right at the entrance."
+          }
+        },
+        {
+          "name": "Lungomare Nazario Sauro",
+          "coords": [
+            41.1205,
+            16.8812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Radspur direkt am Meer.",
+            "hu": "Élvezze a széles kerékpársávot közvetlenül a parton.",
+            "ro": "Bucurați-vă de pista largă de biciclete de pe malul mării.",
+            "en": "Enjoy the wide bike lane right along the shore."
+          }
+        },
+        {
+          "name": "Pinacoteca Corrado Giaquinto",
+          "coords": [
+            41.1182,
+            16.8865
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wichtige Kunstsammlung in einem prachtvollen Palast.",
+            "hu": "Fontos művészeti gyűjtemény egy pompás palotában.",
+            "ro": "Colecție importantă de artă într-un palat splendid.",
+            "en": "Important art collection housed in a grand palace."
+          }
+        },
+        {
+          "name": "Palazzo dell'Acquedotto Pugliese",
+          "coords": [
+            41.1245,
+            16.8745
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein Juwel des italienischen Jugendstils.",
+            "hu": "Az olasz szecesszió egyik gyöngyszeme.",
+            "ro": "O bijuterie a stilului Liberty italian.",
+            "en": "A jewel of the Italian Liberty style."
+          }
+        },
+        {
+          "name": "Teatro Petruzzelli",
+          "coords": [
+            41.1233,
+            16.8722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von der ikonischen roten Fassade.",
+            "hu": "Készítsünk fotót az ikonikus vörös homlokzatról.",
+            "ro": "Faceți o poză fațadei roșii emblematice.",
+            "en": "Take a photo of the iconic red facade."
+          }
+        },
+        {
+          "name": "Pane e Pomodoro Beach",
+          "coords": [
+            41.1128,
+            16.8962
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Stadtstrand ist ideal für eine Abkühlung nach der Fahrt.",
+            "hu": "A városi strand ideális egy kis hűsölésre a tekerés után.",
+            "ro": "Plaja orașului este ideală pentru o răcorire după plimbare.",
+            "en": "The city beach is ideal for a quick dip after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Bari weit über die Altstadt hinaus. Sie starten an der Burg und fahren entlang der spektakulären Uferpromenade bis zur Pinakothek. Die Route führt Sie durch das elegante Murat-Viertel mit seinen Jugendstilpalästen und endet am beliebten Stadtstrand Pane e Pomodoro, wo Sie die Sonne genießen können.",
+        "hu": "Kerékpárral Bari távolabbi pontjait is könnyen elérheti. A vártól indulva a látványos tengerparti sétányon tekerhet a képtárig. Útja során érinti a Murat negyed szecessziós palotáit, majd a túrát a népszerű Pane e Pomodoro strandon zárhatja, ahol megmártózhat az Adriában.",
+        "ro": "Cu bicicleta veți descoperi Bari dincolo de centrul istoric. Porniți de la castel și pedalați pe faleza spectaculoasă până la Pinacotecă. Traseul vă poartă prin cartierul elegant Murat, cu palatele sale Art Nouveau, și se încheie pe populara plajă Pane e Pomodoro pentru o pauză binemeritată la soare.",
+        "en": "Cycling allows you to see more of Bari's diverse coastline. Start at the Castle and ride along the impressive Lungomare towards the art gallery. Explore the stylish Murat district and its architectural gems before finishing your ride at the local's favorite city beach, Pane e Pomodoro."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panzerotti Fritti",
+            "tip": "Frittierte Teigtaschen mit Tomate und Mozzarella."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Panzerotti Fritti",
+            "tip": "Olajban sült tésztabatyu paradicsommal és mozzarellával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panzerotti Fritti",
+            "tip": "Gogoși sărate prăjite cu roșii și mozzarella."
+          }
+        ],
+        "en": [
+          {
+            "name": "Panzerotti Fritti",
+            "tip": "Fried dough pockets filled with tomato and mozzarella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Perotti",
+            "tip": "Grüne Oase in der Nähe des Meeres.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Perotti",
+            "tip": "Zöld oázis a tenger közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Perotti",
+            "tip": "Oază verde aproape de mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Perotti",
+            "tip": "Green oasis near the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Viele lokale Modegeschäfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Számos helyi divatüzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Multe magazine de modă locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Cavour",
+            "tip": "Many local fashion shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Promenade.",
+          "Vermeiden Sie das Radfahren in den ganz engen Gassen der Altstadt.",
+          "Ein Schloss ist für Pausen unerlässlich."
+        ],
+        "hu": [
+          "Használjuk a sétány menti kerékpárutakat.",
+          "Kerüljük a biciklizést az óváros nagyon szűk utcáin.",
+          "A lakat elengedhetetlen a megállókhoz."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul falezei.",
+          "Evitați ciclismul pe străduțele foarte înguste din Bari Vecchia.",
+          "Un antifurt este esențial pentru opriri."
+        ],
+        "en": [
+          "Stick to the bike paths along the promenade.",
+          "Avoid cycling in the very narrowest alleys of the old town.",
+          "A lock is essential for your stops."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Piazza del Ferrarese (Cluster A)",
+          "coords": [
+            41.1274,
+            16.8718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Parcheggio Lungomare Imperatore Augusto'.",
+            "hu": "Parkoljunk a Lungomare Imperatore Augusto parkolóban.",
+            "ro": "Parcați la 'Parcheggio Lungomare Imperatore Augusto'.",
+            "en": "Park at 'Parcheggio Lungomare Imperatore Augusto'."
+          }
+        },
+        {
+          "name": "Basilica di San Nicola (Cluster A)",
+          "coords": [
+            41.1303,
+            16.8711
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz durch die Altstadt.",
+            "hu": "Rövid séta a parkolótól az óvároson át.",
+            "ro": "Scurtă plimbare de la parcare prin orașul vechi.",
+            "en": "Short walk from the parking through the old town."
+          }
+        },
+        {
+          "name": "Castello Svevo (Cluster A)",
+          "coords": [
+            41.1292,
+            16.8658
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Festung, bevor Sie zum Auto zurückkehren.",
+            "hu": "Nézzük meg az erődöt, mielőtt visszatérnénk az autóhoz.",
+            "ro": "Vizitați fortăreața înainte de a vă întoarce la mașină.",
+            "en": "Visit the fortress before returning to your car."
+          }
+        },
+        {
+          "name": "Teatro Petruzzelli (Cluster B)",
+          "coords": [
+            41.1233,
+            16.8722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt ins Murat-Viertel, Parken im Parkhaus möglich.",
+            "hu": "Autózás a Murat negyedbe, parkolóház igénybevétele javasolt.",
+            "ro": "Conduceți spre cartierul Murat, parcare disponibilă în garaje.",
+            "en": "Drive to Murat district, parking available in garages."
+          }
+        },
+        {
+          "name": "Palazzo dell'Acquedotto (Cluster B)",
+          "coords": [
+            41.1245,
+            16.8745
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Theater aus erreichbar.",
+            "hu": "Gyalogosan elérhető a színháztól.",
+            "ro": "Accesibil pe jos de la teatru.",
+            "en": "Accessible on foot from the theatre."
+          }
+        },
+        {
+          "name": "Lungomare Nazario Sauro (Cluster C)",
+          "coords": [
+            41.1205,
+            16.8812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie entlang der Küstenstraße für einen Spaziergang.",
+            "hu": "Parkoljunk a tengerparti út mentén egy sétához.",
+            "ro": "Parcați de-a lungul drumului de coastă pentru o plimbare.",
+            "en": "Park along the coastal road for a stroll."
+          }
+        },
+        {
+          "name": "Pinacoteca Corrado Giaquinto (Cluster C)",
+          "coords": [
+            41.1182,
+            16.8865
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 95,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Befindet sich im monumentalen Provinzpalast.",
+            "hu": "A monumentális tartományi palotában található.",
+            "ro": "Situată în palatul provincial monumental.",
+            "en": "Located inside the monumental Provincial Palace."
+          }
+        },
+        {
+          "name": "Fortino di Sant'Antonio",
+          "coords": [
+            41.1288,
+            16.8732
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp für den Panoramablick zum Abschluss.",
+            "hu": "Utolsó megálló a panorámás kilátásért.",
+            "ro": "Ultima oprire pentru o vedere panoramică la final.",
+            "en": "Last stop for a panoramic view to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das historische Zentrum mit den eleganten Außenbezirken von Bari. Sie parken strategisch in drei verschiedenen Clustern: zuerst erkunden Sie Bari Vecchia zu Fuß, dann das kulturelle Herz im Murat-Viertel und schließlich die künstlerischen Schätze entlang der Uferpromenade. So genießen Sie maximale Flexibilität bei minimalem Stress.",
+        "hu": "Ez az autós túra Bari történelmi központját és elegáns külsőbb negyedeit ötvözi. Három stratégiai ponton parkolva fedezheti fel a várost: először Bari Vecchiát gyalogosan, majd a Murat negyed kulturális szívét, végül pedig a tengerparti korzó művészeti kincseit. Így a legnagyobb kényelemben láthatja a legtöbbet.",
+        "ro": "Acest tur cu mașina combină centrul istoric cu zonele elegante ale orașului Bari. Veți parca strategic în trei grupuri diferite: mai întâi explorați Bari Vecchia la pas, apoi inima culturală din cartierul Murat și, în final, comorile artistice de pe faleză. Beneficiați de flexibilitate maximă cu efort minim.",
+        "en": "This driving tour blends the historic core with Bari's sophisticated outer districts. By parking in three strategic clusters, you'll explore Bari Vecchia on foot, then visit the cultural landmarks of Murat, and finally discover the art galleries along the seafront. Enjoy the best of Bari with ease and comfort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Frische rohe Meeresfrüchte im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Friss nyers tenger gyümölcsei a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Fructe de mare crude proaspete în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crudo di Mare",
+            "tip": "Fresh raw seafood at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molo San Nicola",
+            "tip": "Beobachten Sie die Fischer bei ihrer Arbeit.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molo San Nicola",
+            "tip": "Figyeljük meg a halászokat munka közben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molo San Nicola",
+            "tip": "Urmăriți pescarii la lucru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Molo San Nicola",
+            "tip": "Watch the fishermen at work.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Puglia Design Store",
+            "tip": "Hochwertiges lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puglia Design Store",
+            "tip": "Minőségi helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puglia Design Store",
+            "tip": "Artizanat local de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puglia Design Store",
+            "tip": "High-quality local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Einfahrt in die ZTL (verkehrsberuhigte Zonen).",
+          "Nutzen Sie große Parkplätze am Rande der Altstadt.",
+          "Bari hat zur Rushhour viel Verkehr."
+        ],
+        "hu": [
+          "Kerüljük a behajtást a ZTL (korlátozott forgalmú) zónákba.",
+          "Használjuk az óváros szélén lévő nagy parkolókat.",
+          "Csúcsidőben Bari forgalma jelentős lehet."
+        ],
+        "ro": [
+          "Evitați intrarea în zonele ZTL (trafic limitat).",
+          "Folosiți parcările mari de la marginea centrului vechi.",
+          "Bari are trafic intens la orele de vârf."
+        ],
+        "en": [
+          "Avoid driving into ZTL (Limited Traffic Zones).",
+          "Use large parking lots on the edge of the old town.",
+          "Bari can have heavy traffic during rush hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bari Vecchia",
+          "coords": [
+            41.1285,
+            16.8705
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Hauptbahnhof mit dem Bus 20/ oder 50 zum Schloss.",
+            "hu": "A főpályaudvartól a 20-as vagy 50-es busszal a várig.",
+            "ro": "De la gară, luați autobuzul 20 sau 50 până la castel.",
+            "en": "From Central Station, take bus 20 or 50 to the Castle."
+          }
+        },
+        {
+          "name": "Basilica di San Nicola",
+          "coords": [
+            41.1303,
+            16.8711
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar im Cluster Altstadt.",
+            "hu": "Gyalogosan elérhető az óvárosi csoporton belül.",
+            "ro": "Accesibil pe jos în cadrul grupului din orașul vechi.",
+            "en": "Walkable within the Old Town cluster."
+          }
+        },
+        {
+          "name": "Teatro Petruzzelli",
+          "coords": [
+            41.1233,
+            16.8722
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder Spaziergang ins Murat-Viertel.",
+            "hu": "Rövid buszozás vagy séta a Murat negyedbe.",
+            "ro": "Scurtă călătorie cu autobuzul sau plimbare spre Murat.",
+            "en": "Short bus ride or walk into the Murat district."
+          }
+        },
+        {
+          "name": "Lungomare Nazario Sauro",
+          "coords": [
+            41.1205,
+            16.8812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Flanieren Sie entlang der Küste zum nächsten Stopp.",
+            "hu": "Sétáljunk a part mentén a következő megállóig.",
+            "ro": "Plimbați-vă pe faleză până la următoarea oprire.",
+            "en": "Stroll along the coast to the next stop."
+          }
+        },
+        {
+          "name": "Pinacoteca Corrado Giaquinto",
+          "coords": [
+            41.1182,
+            16.8865
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie Bus 12 für die Rückfahrt zum Zentrum.",
+            "hu": "Használjuk a 12-es buszt a központba való visszatéréshez.",
+            "ro": "Folosiți autobuzul 12 pentru întoarcerea în centru.",
+            "en": "Use bus 12 for the return trip to the center."
+          }
+        },
+        {
+          "name": "Piazza del Ferrarese",
+          "coords": [
+            41.1274,
+            16.8718
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für einen Aperitif zum Abschluss.",
+            "hu": "Tökéletes hely egy záró aperitifhez.",
+            "ro": "Locul perfect pentru un aperitiv la final.",
+            "en": "The perfect place for a final aperitivo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Bari mit dem effizienten Bussystem AMTAB. Sie starten in der historischen Altstadt und nutzen den Bus, um bequem zwischen den Hauptattraktionen des Murat-Viertels und den Museen am Lungomare zu pendeln. Diese Route schont Ihre Kräfte und zeigt Ihnen das echte städtische Leben der Einheimischen.",
+        "hu": "Fedezze fel Barit az AMTAB buszhálózat segítségével. Az óvárosból indulva könnyedén mozoghat a Murat negyed látnivalói és a Lungomare menti múzeumok között. Ez az útvonal kíméli az erejét, miközben bepillantást enged a helyiek mindennapi városi életébe.",
+        "ro": "Descoperiți Bari folosind rețeaua de autobuze AMTAB. Începeți în orașul vechi și folosiți transportul public pentru a naviga ușor între atracțiile din cartierul Murat și muzeele de pe Lungomare. Acest traseu vă permite să economisiți energie și să vedeți viața urbană autentică.",
+        "en": "Explore Bari using the local AMTAB bus network. Starting from the historic center, you'll easily hop between the cultural highlights of Murat and the seaside galleries. This transit-friendly route saves your energy while giving you a glimpse into the daily life of Bari's residents."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sgagliozze",
+            "tip": "Frittierte Polentascheiben, ein lokaler Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sgagliozze",
+            "tip": "Olajban sült pulintaszeletek, népszerű helyi snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sgagliozze",
+            "tip": "Felii de mămăligă prăjite, o gustare locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sgagliozze",
+            "tip": "Fried polenta slices, a popular local snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardini Isabella d'Aragona",
+            "tip": "Kleiner Park neben dem Schloss.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giardini Isabella d'Aragona",
+            "tip": "Kis park a vár mellett.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Giardini Isabella d'Aragona",
+            "tip": "Un mic parc lângă castel.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giardini Isabella d'Aragona",
+            "tip": "Small park next to the castle.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto Santa Scolastica",
+            "tip": "Authentischer Markt für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mercato Coperto Santa Scolastica",
+            "tip": "Autentikus piac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Coperto Santa Scolastica",
+            "tip": "Piață autentică pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Coperto Santa Scolastica",
+            "tip": "Authentic market for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab in Tabakläden.",
+          "Die App 'Moovit' hilft bei den Busverbindungen.",
+          "Entwerten Sie Ihr Ticket sofort beim Einsteigen."
+        ],
+        "hu": [
+          "Vegyük meg előre a buszjegyeket a dohányboltokban (Tabacchi).",
+          "A 'Moovit' app hasznos a buszjáratok követéséhez.",
+          "Felszállás után azonnal érvényesítsük a jegyet."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșcurile de ziare.",
+          "Aplicația 'Moovit' este utilă pentru orarul autobuzelor.",
+          "Validați biletul imediat ce urcați în autobuz."
+        ],
+        "en": [
+          "Buy bus tickets in advance at 'Tabacchi' shops.",
+          "The 'Moovit' app is helpful for bus schedules.",
+          "Validate your ticket immediately upon boarding."
+        ]
+      }
+    }
+  }
+}

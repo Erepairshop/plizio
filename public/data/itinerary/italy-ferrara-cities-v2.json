@@ -1,0 +1,994 @@
+{
+  "city_id": "italy-ferrara-cities-v2",
+  "anchor": {
+    "name": "Castello Estense",
+    "coords": [
+      11.6198,
+      44.8381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Piazza Trento e Trieste",
+          "coords": [
+            11.6212,
+            44.8358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Genießen Sie den Kaffee auf der Piazza, dem alten Marktplatz.",
+            "hu": "Igyon egy kávét a régi piactéren, figyelve a város lüktetését.",
+            "ro": "Savurați o cafea în piața istorică, inima pulsândă a orașului.",
+            "en": "Enjoy a coffee in the historic square, the beating heart of the city."
+          }
+        },
+        {
+          "name": "Kathedrale San Giorgio",
+          "coords": [
+            11.6201,
+            44.8357
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie die prächtige romanisch-gotische Fassade.",
+            "hu": "Csodálja meg a lenyűgöző román-gótikus homlokzatot.",
+            "ro": "Admirați fațada splendidă în stil romanic-gotic.",
+            "en": "Admire the stunning Romanesque-Gothic facade."
+          }
+        },
+        {
+          "name": "Via delle Volte",
+          "coords": [
+            11.6215,
+            44.8341
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Die mittelalterlichste Gasse Ferraras mit ihren charakteristischen Bögen.",
+            "hu": "Ferrara legközépkoribb utcája jellegzetes boltíveivel.",
+            "ro": "Cea mai medievală stradă din Ferrara, cu arcadele sale tipice.",
+            "en": "Ferrara's most medieval street with its characteristic arches."
+          }
+        },
+        {
+          "name": "Castello Estense",
+          "coords": [
+            11.6195,
+            44.8381
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Verliese und den Löwenturm.",
+            "hu": "Látogasson el a börtönökbe és az Oroszlán-toronyba.",
+            "ro": "Vizitați temnițele și Turnul Leului.",
+            "en": "Visit the dungeons and the Lion's Tower."
+          }
+        },
+        {
+          "name": "Palazzo dei Diamanti",
+          "coords": [
+            11.6211,
+            44.8429
+          ],
+          "category": "museums",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Die Fassade besteht aus über 8.000 diamantförmigen Marmorblöcken.",
+            "hu": "A homlokzat több mint 8000 gyémánt alakú márványtömbből áll.",
+            "ro": "Fațada este formată din peste 8.000 de blocuri de marmură în formă de diamant.",
+            "en": "The facade consists of over 8,000 diamond-shaped marble blocks."
+          }
+        },
+        {
+          "name": "Casa di Ludovico Ariosto",
+          "coords": [
+            11.6169,
+            44.8421
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:35",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Das Haus des berühmten Dichters des 'Orlando Furioso'.",
+            "hu": "Az 'Őrjöngő Loránd' híres költőjének egykori otthona.",
+            "ro": "Casa celebrului poet al operei 'Orlando Furioso'.",
+            "en": "The home of the famous poet of 'Orlando Furioso'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Rundgang führt Sie durch das Herz der Renaissance-Stadt, von den mittelalterlichen Gassen bis zum prunkvollen Schloss der Este. Erleben Sie die einzigartige Atmosphäre einer Stadt, die einst eines der bedeutendsten kulturellen Zentren Europas war.",
+        "hu": "Ez a séta a reneszánsz város szívén vezet keresztül, a középkori sikátoroktól az Este-család pompás kastélyáig. Tapasztalja meg egy olyan város egyedülálló hangulatát, amely egykor Európa egyik legfontosabb kulturális központja volt.",
+        "ro": "Acest traseu pietonal vă poartă prin inima orașului renascentist, de la străduțele medievale până la castelul somptuos al familiei Este. Experimentați atmosfera unică a unui oraș care a fost cândva unul dintre cele mai importante centre culturale ale Europei.",
+        "en": "This walking tour takes you through the heart of the Renaissance city, from medieval alleys to the grand Este Castle. Experience the unique atmosphere of a city that was once one of Europe's most important cultural centers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cappellacci di zucca",
+            "tip": "Kürbisgefüllte Pasta, ein Wahrzeichen der Stadt."
+          },
+          {
+            "name": "Salama da sugo",
+            "tip": "Eine würzige Wurst, serviert mit Kartoffelpüree."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cappellacci di zucca",
+            "tip": "Sütőtökkel töltött tészta, a város egyik jelképe."
+          },
+          {
+            "name": "Coppia Ferrarese",
+            "tip": "Egyedi formájú, ropogós helyi kenyér."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cappellacci di zucca",
+            "tip": "Paste umplute cu dovleac, un simbol al orașului."
+          },
+          {
+            "name": "Pasticcio di maccheroni",
+            "tip": "O plăcintă cu macaroane, dulce și sărată în același timp."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cappellacci di zucca",
+            "tip": "Pumpkin-filled pasta, a true city landmark."
+          },
+          {
+            "name": "Salama da sugo",
+            "tip": "Spicy sausage served with mashed potatoes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Ein friedlicher Garten zum Entspannen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Via delle Volte",
+            "tip": "Abends besonders ruhig und stimmungsvoll.",
+            "emoji": "🌙"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Békés kert a kikapcsolódáshoz.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Via delle Volte",
+            "tip": "Este különösen csendes és hangulatos.",
+            "emoji": "🌙"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "O grădină liniștită pentru relaxare.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Via delle Volte",
+            "tip": "Seara este extrem de liniștită și atmosferică.",
+            "emoji": "🌙"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A peaceful garden for relaxation.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Via delle Volte",
+            "tip": "Particularly quiet and atmospheric in the evening.",
+            "emoji": "🌙"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Mazzini",
+            "tip": "Die Haupteinkaufsstraße im ehemaligen Ghetto."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Lokale Delikatessen und frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Mazzini",
+            "tip": "A fő bevásárlóutca az egykori gettó területén."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Helyi finomságok és friss áruk piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Mazzini",
+            "tip": "Principala stradă comercială din fostul ghetou."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Delicii locale și produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Mazzini",
+            "tip": "The main shopping street in the former ghetto."
+          },
+          {
+            "name": "Mercato Coperto",
+            "tip": "Local delicacies and fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ferrara ist flach, aber die Kopfsteinpflaster in der Altstadt erfordern bequeme Schuhe.",
+          "Die Kathedrale wird oft restauriert; prüfen Sie vorher die Öffnungszeiten.",
+          "Mittagsruhe beachten: Viele kleine Läden schließen zwischen 13:00 und 15:30 Uhr."
+        ],
+        "hu": [
+          "Ferrara sík terep, de az óváros macskakövei kényelmes cipőt igényelnek.",
+          "A székesegyház gyakran felújítás alatt áll, érdemes előre tájékozódni.",
+          "Ügyeljen a sziesztára: sok bolt zárva tart 13:00 és 15:30 között."
+        ],
+        "ro": [
+          "Ferrara este plată, dar pietrele cubice din centrul vechi necesită încălțăminte comodă.",
+          "Catedrala este adesea în restaurare; verificați programul înainte.",
+          "Respectați siesta: multe magazine se închid între 13:00 și 15:30."
+        ],
+        "en": [
+          "Ferrara is flat, but the cobblestones in the old town require comfortable shoes.",
+          "The cathedral is often under restoration; check opening times in advance.",
+          "Mind the siesta: many small shops close between 1:00 PM and 3:30 PM."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stadtmauer von Ferrara",
+          "coords": [
+            11.6215,
+            44.8485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Radfahren auf der Mauerkrone bietet einen tollen Blick auf die Stadt.",
+            "hu": "A várfal tetején kerékpározva nagyszerű kilátás nyílik a városra.",
+            "ro": "Mersul pe bicicletă pe coama zidurilor oferă o priveliște superbă.",
+            "en": "Cycling on top of the walls offers a great view of the city."
+          }
+        },
+        {
+          "name": "Palazzo dei Diamanti",
+          "coords": [
+            11.6211,
+            44.8429
+          ],
+          "category": "museums",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Ein Muss für Kunstliebhaber; parken Sie das Rad direkt davor.",
+            "hu": "Művészetkedvelőknek kötelező; parkoljon le közvetlenül előtte.",
+            "ro": "Obligatoriu pentru iubitorii de artă; parcați bicicleta chiar în față.",
+            "en": "A must for art lovers; park your bike right in front."
+          }
+        },
+        {
+          "name": "Castello Estense",
+          "coords": [
+            11.6195,
+            44.8381
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Das Wahrzeichen der Stadt mit seinem Wassergraben.",
+            "hu": "A város jelképe a vizesárokkal körülvett várkastély.",
+            "ro": "Simbolul orașului, castelul înconjurat de un șanț cu apă.",
+            "en": "The symbol of the city, the castle surrounded by a moat."
+          }
+        },
+        {
+          "name": "Palazzo Schifanoia",
+          "coords": [
+            11.6295,
+            44.8311
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Berühmt für den 'Saal der Monate' mit seinen Fresken.",
+            "hu": "Híres a 'Hónapok terme' lenyűgöző freskóiról.",
+            "ro": "Faimos pentru 'Sala Lunilor' cu frescele sale superbe.",
+            "en": "Famous for the 'Hall of the Months' and its frescoes."
+          }
+        },
+        {
+          "name": "Kloster Sant'Antonio in Polesine",
+          "coords": [
+            11.6285,
+            44.8275
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Ein ruhiger Ort mit wunderschönen Fresken der Giotto-Schule.",
+            "hu": "Csendes kolostor a Giotto-iskola gyönyörű freskóival.",
+            "ro": "O mănăstire liniștită cu fresce superbe ale școlii lui Giotto.",
+            "en": "A quiet monastery with beautiful frescoes of the Giotto school."
+          }
+        },
+        {
+          "name": "Stadtmauer (Südabschnitt)",
+          "coords": [
+            11.6255,
+            44.8255
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Beenden Sie die Runde auf dem grünen Wall.",
+            "hu": "Fejezze be a kört a zöld városfalon.",
+            "ro": "Încheiați turul pe zidul plin de verdeață.",
+            "en": "Finish your loop on the green city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ferrara ist die Stadt der Fahrräder. Diese Route nutzt die 9 km langen Stadtmauern als grünen Gürtel und verbindet die wichtigsten Renaissance-Paläste. Es ist die authentischste Art, die Stadt wie ein Einheimischer zu erleben.",
+        "hu": "Ferrara a kerékpárok városa. Ez az útvonal a 9 km hosszú városfalat használja zöld folyosóként, összekötve a legfontosabb reneszánsz palotákat. Ez a leghitelesebb módja a város felfedezésének, ahogy a helyiek teszik.",
+        "ro": "Ferrara este orașul bicicletelor. Acest traseu folosește cei 9 km de ziduri ca o centură verde, legând cele mai importante palate renascentiste. Este cel mai autentic mod de a experimenta orașul, la fel ca localnicii.",
+        "en": "Ferrara is the city of bicycles. This route uses the 9 km long city walls as a green belt, connecting the most important Renaissance palaces. It's the most authentic way to experience the city like a local."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Coppia Ferrarese",
+            "tip": "Das typische Brot, perfekt für ein Picknick auf der Mauer."
+          },
+          {
+            "name": "Pasticcio Ferrarese",
+            "tip": "Herzhafte Makkaroni-Pastete."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coppia Ferrarese",
+            "tip": "Tipikus kenyér, tökéletes egy piknikhez a falon."
+          },
+          {
+            "name": "Zelten",
+            "tip": "Helyi gyümölcstorta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coppia Ferrarese",
+            "tip": "Pâinea tipică, perfectă pentru un picnic pe ziduri."
+          },
+          {
+            "name": "Cotechino",
+            "tip": "Cârnat local servit cu linte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coppia Ferrarese",
+            "tip": "Typical bread, perfect for a picnic on the walls."
+          },
+          {
+            "name": "Pasticcio Ferrarese",
+            "tip": "Savory macaroni pie."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauer",
+            "tip": "Überall finden sich schattige Plätze unter Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kloster Sant'Antonio",
+            "tip": "Ein Ort tiefer Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfal",
+            "tip": "Bárhol találhatunk árnyékos helyet a fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sant'Antonio kolostor",
+            "tip": "A mély csend helyszíne.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile orașului",
+            "tip": "Peste tot găsiți locuri umbrite sub copaci.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Mănăstirea Sant'Antonio",
+            "tip": "Un loc de liniște profundă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Walls",
+            "tip": "Shady spots under trees are found everywhere.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Sant'Antonio Monastery",
+            "tip": "A place of deep silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "Für Zubehör und Souvenirs rund ums Rad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kerékpárboltok",
+            "tip": "Kiegészítők és bringás szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale de biciclete",
+            "tip": "Pentru accesorii și suveniruri cicliste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bike Shops",
+            "tip": "For accessories and cycling souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrräder können am Bahnhof oder im Zentrum gemietet werden.",
+          "Achten Sie auf Fußgänger auf den Mauern.",
+          "Die Route ist komplett flach und sehr sicher."
+        ],
+        "hu": [
+          "Kerékpárt a vasútállomáson vagy a központban bérelhetünk.",
+          "Ügyeljen a gyalogosokra a várfalon.",
+          "Az útvonal teljesen sík és nagyon biztonságos."
+        ],
+        "ro": [
+          "Bicicletele pot fi închiriate la gară sau în centru.",
+          "Atenție la pietonii de pe ziduri.",
+          "Traseul este complet plat și foarte sigur."
+        ],
+        "en": [
+          "Bicycles can be rented at the station or in the center.",
+          "Watch out for pedestrians on the walls.",
+          "The route is completely flat and very safe."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Castello Estense",
+          "coords": [
+            11.6195,
+            44.8381
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie im Parkhaus 'Centro Storico' (Kennedy).",
+            "hu": "Parkoljon a 'Centro Storico' (Kennedy) parkolóházban.",
+            "ro": "Parcați în parcarea 'Centro Storico' (Kennedy).",
+            "en": "Park in the 'Centro Storico' (Kennedy) parking garage."
+          }
+        },
+        {
+          "name": "Kathedrale San Giorgio",
+          "coords": [
+            11.6201,
+            44.8357
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz durch das Zentrum.",
+            "hu": "Rövid séta a parkolótól a központon át.",
+            "ro": "Scurtă plimbare de la parcare prin centru.",
+            "en": "Short walk from the parking through the center."
+          }
+        },
+        {
+          "name": "Palazzo dei Diamanti",
+          "coords": [
+            11.6211,
+            44.8429
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Nur 5 Min. Fahrt zum nördlichen Cluster.",
+            "hu": "Csak 5 perc autóút az északi részre.",
+            "ro": "Doar 5 minute de condus către zona de nord.",
+            "en": "Just a 5-minute drive to the northern cluster."
+          }
+        },
+        {
+          "name": "Palazzo Schifanoia",
+          "coords": [
+            11.6295,
+            44.8311
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Fahrt zum südöstlichen Cluster, Parken in der Nähe möglich.",
+            "hu": "Autózás a délkeleti részre, parkolás a közelben lehetséges.",
+            "ro": "Conduceți spre zona de sud-est, parcarea este posibilă în apropiere.",
+            "en": "Drive to the south-eastern cluster, parking is available nearby."
+          }
+        },
+        {
+          "name": "Archäologisches Nationalmuseum",
+          "coords": [
+            11.6255,
+            44.8305
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Wunderbarer Palazzo Costabili mit antiken Funden aus Spina.",
+            "hu": "Csodálatos Palazzo Costabili antik leletekkel Spina városából.",
+            "ro": "Superbul Palazzo Costabili cu vestigii antice din Spina.",
+            "en": "Wonderful Palazzo Costabili with ancient finds from Spina."
+          }
+        },
+        {
+          "name": "Stadtmauer (Abendspaziergang)",
+          "coords": [
+            11.6355,
+            44.8325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Einfacher Zugang zum Mauerabschnitt im Osten.",
+            "hu": "Könnyű feljutás a keleti várfalszakaszra.",
+            "ro": "Acces facil la secțiunea estică a zidurilor.",
+            "en": "Easy access to the eastern wall section."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die verschiedenen Stadtteile Ferraras bequem erkunden, indem Sie strategische Parkplätze ansteuern. Diese Route verbindet den historischen Kern mit den weiter entfernten Palästen und dem Archäologischen Museum im Südosten.",
+        "hu": "Autóval kényelmesen felfedezheti Ferrara különböző negyedeit a stratégiai parkolók érintésével. Ez az útvonal összeköti a történelmi magot a távolabbi palotákkal és a délkeleti Régészeti Múzeummal.",
+        "ro": "Cu mașina puteți explora confortabil diferitele cartiere ale Ferrarei, vizând parcări strategice. Acest traseu leagă nucleul istoric de palatele mai îndepărtate și de Muzeul de Arheologie din sud-est.",
+        "en": "By car, you can comfortably explore Ferrara's different districts by targeting strategic parking areas. This route connects the historic core with more distant palaces and the Archaeological Museum in the southeast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante Quel Fantastico Giovedì",
+            "tip": "Gehobene ferraresische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria da Noemi",
+            "tip": "Hagyományos ételek az óváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hostaria Savonarola",
+            "tip": "Mâncare tradițională lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria da Noemi",
+            "tip": "Traditional dishes in the heart of the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Certosa di Ferrara",
+            "tip": "Ein beeindruckender, monumentaler Friedhof.",
+            "emoji": "🕊️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Certosa di Ferrara",
+            "tip": "Lenyűgöző monumentális temető.",
+            "emoji": "🕊️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Certosa di Ferrara",
+            "tip": "Un cimitir monumental impresionant.",
+            "emoji": "🕊️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Certosa di Ferrara",
+            "tip": "An impressive monumental cemetery.",
+            "emoji": "🕊️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ipercoop Le Mura",
+            "tip": "Großes Einkaufszentrum am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ipercoop Le Mura",
+            "tip": "Nagy bevásárlóközpont a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ipercoop Le Mura",
+            "tip": "Centru comercial mare la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ipercoop Le Mura",
+            "tip": "Large shopping center on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist eine verkehrsberuhigte Zone (ZTL); fahren Sie nicht hinein.",
+          "Parken Sie außerhalb der Mauern oder in den großen Parkhäusern.",
+          "Blaue Linien bedeuten gebührenpflichtiges Parken."
+        ],
+        "hu": [
+          "Az óváros ZTL zóna (korlátozott forgalom), ne hajtson be.",
+          "Parkoljon a falakon kívül vagy a nagy parkolóházakban.",
+          "A kék vonalak fizetős parkolást jelentenek."
+        ],
+        "ro": [
+          "Centrul vechi este zonă ZTL (trafic limitat); nu intrați cu mașina.",
+          "Parcați în afara zidurilor sau în marile parcări etajate.",
+          "Liniile albastre indică parcare cu plată."
+        ],
+        "en": [
+          "The old town is a ZTL (limited traffic zone); do not drive inside.",
+          "Park outside the walls or in large parking garages.",
+          "Blue lines indicate paid parking."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Piazza Trento e Trieste",
+          "coords": [
+            11.6212,
+            44.8358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Vom Bahnhof (Stazione) mit dem Bus ins Zentrum.",
+            "hu": "A vasútállomástól busszal a központba.",
+            "ro": "De la gară cu autobuzul până în centru.",
+            "en": "From the station by bus to the center."
+          }
+        },
+        {
+          "name": "Via delle Volte",
+          "coords": [
+            11.6215,
+            44.8341
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Kurzer Spaziergang von der Piazza.",
+            "hu": "Rövid séta a főtértől.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the main square."
+          }
+        },
+        {
+          "name": "Palazzo dei Diamanti",
+          "coords": [
+            11.6211,
+            44.8429
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Buslinie 1 oder 6 Richtung Norden.",
+            "hu": "1-es vagy 6-os busz északi irányba.",
+            "ro": "Linia 1 sau 6 spre nord.",
+            "en": "Bus line 1 or 6 heading north."
+          }
+        },
+        {
+          "name": "Casa di Ludovico Ariosto",
+          "coords": [
+            11.6169,
+            44.8421
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Zu Fuß erreichbar vom Palazzo dei Diamanti.",
+            "hu": "Gyalogosan elérhető a Gyémánt-palotától.",
+            "ro": "Accesibil pe jos de la Palatul Diamantelor.",
+            "en": "Accessible on foot from the Diamond Palace."
+          }
+        },
+        {
+          "name": "Palazzo Schifanoia",
+          "coords": [
+            11.6295,
+            44.8311
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.4,
+          "tip_4lang": {
+            "de": "Mit dem Bus zurück ins Zentrum und weiter Richtung Südost.",
+            "hu": "Busszal vissza a központba, majd tovább délkeleti irányba.",
+            "ro": "Cu autobuzul înapoi în centru și apoi spre sud-est.",
+            "en": "By bus back to the center and then towards the southeast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ferraras öffentliches Verkehrsnetz besteht aus effizienten Bussen, die den Bahnhof mit dem Stadtzentrum und den Außenbezirken verbinden. Diese Route nutzt die Busse, um die Distanzen zwischen den großen Renaissance-Monumenten zu überbrücken.",
+        "hu": "Ferrara tömegközlekedése hatékony buszokból áll, amelyek összekötik a vasútállomást a központtal és a külső kerületekkel. Ez az útvonal a buszokat használja a nagy reneszánsz műemlékek közötti távolságok leküzdésére.",
+        "ro": "Transportul public din Ferrara constă în autobuze eficiente care leagă gara de centru și de zonele periferice. Acest traseu folosește autobuzele pentru a acoperi distanțele dintre marile monumente renascentiste.",
+        "en": "Ferrara's public transit consists of efficient buses connecting the station to the center and outskirts. This route uses buses to bridge the distances between the major Renaissance monuments."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Panificio Perdonati",
+            "tip": "Holen Sie sich eine 'Coppia' für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gelateria Era Glaciale",
+            "tip": "Kiváló kézműves fagylalt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Leon d'Oro",
+            "tip": "Tradiție și patiserie fină lângă Catedrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelateria Era Glaciale",
+            "tip": "Excellent artisanal ice cream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Massari",
+            "tip": "Großer Stadtpark in der Nähe des Palazzo dei Diamanti.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parco Massari",
+            "tip": "Nagy városi park a Gyémánt-palota közelében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parco Massari",
+            "tip": "Parc mare în apropiere de Palazzo dei Diamanti.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parco Massari",
+            "tip": "Large city park near Palazzo dei Diamanti.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato settimanale",
+            "tip": "Immer freitags auf der Piazza."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Minden pénteken a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare vineri în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Friday in the main square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten (Tickets) können an Kiosken oder beim Fahrer gekauft werden.",
+          "Die Linien 1, 6 und 9 sind am nützlichsten für Touristen.",
+          "Validieren Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Jegyet újságosnál vagy a sofőrnél lehet venni.",
+          "Az 1-es, 6-os és 9-es vonalak a leghasznosabbak a turistáknak.",
+          "Felszálláskor ne felejtse el érvényesíteni a jegyét."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la chioșcuri sau de la șofer.",
+          "Liniile 1, 6 și 9 sunt cele mai utile pentru turiști.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Tickets can be bought at kiosks or from the driver.",
+          "Lines 1, 6, and 9 are the most useful for tourists.",
+          "Validate your ticket upon boarding."
+        ]
+      }
+    }
+  }
+}

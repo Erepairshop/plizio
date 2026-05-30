@@ -1,0 +1,1167 @@
+{
+  "city_id": "tarbes",
+  "anchor": {
+    "name": "Tarbes",
+    "coords": [
+      -0.0781,
+      43.2332
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de Verdun",
+            "hu": "Place de Verdun",
+            "ro": "Place de Verdun",
+            "en": "Place de Verdun"
+          },
+          "coords": [
+            -0.0725,
+            43.2325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der zentrale Treffpunkt mit Brunnen und Cafés.",
+            "hu": "A város központi találkozóhelye szökőkutakkal.",
+            "ro": "Punctul central de întâlnire cu fântâni și cafenele.",
+            "en": "The central meeting point with fountains and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale de la Sède",
+            "hu": "Sède-székesegyház",
+            "ro": "Catedrala de la Sede",
+            "en": "Cathedrale de la Sede"
+          },
+          "coords": [
+            -0.0765,
+            43.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Achten Sie auf den Baldachin aus Marmor.",
+            "hu": "Figyelje meg a márványból készült baldachint.",
+            "ro": "Admirați baldachinul impunător din marmură.",
+            "en": "Look for the impressive marble canopy inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Foch",
+            "hu": "Foch marsall szülőháza",
+            "ro": "Casa natală a lui Foch",
+            "en": "Foch's Birthplace"
+          },
+          "coords": [
+            -0.076,
+            43.2315
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein typisches Haus aus Bigorre, heute ein Museum.",
+            "hu": "Tipikus bigorre-i ház, ma emlékmúzeum.",
+            "ro": "O casă tipică din Bigorre, acum muzeu memorial.",
+            "en": "A typical Bigorre house, now a memorial museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Massey",
+            "hu": "Jardin Massey",
+            "ro": "Grădina Massey",
+            "en": "Jardin Massey"
+          },
+          "coords": [
+            -0.0765,
+            43.2395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einer der schönsten Gärten Frankreichs mit Pfaue.",
+            "hu": "Franciaország egyik legszebb kertje pávákkal.",
+            "ro": "Una dintre cele mai frumoase grădini din Franța.",
+            "en": "One of France's most beautiful gardens with peacocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Massey Múzeum",
+            "ro": "Muzeul Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            -0.0755,
+            43.239
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Berühmt für die Husaren-Sammlung.",
+            "hu": "Híres a nemzetközi huszárgyűjteményéről.",
+            "ro": "Faimos pentru colecția sa de husari.",
+            "en": "Famous for its international hussar collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras National",
+            "hu": "Nemzeti Méntelep",
+            "ro": "Haras Național",
+            "en": "National Stud Farm"
+          },
+          "coords": [
+            -0.083,
+            43.239
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Napoleon Bonaparte gründete dieses Gestüt 1806.",
+            "hu": "Napóleon alapította a méntelepet 1806-ban.",
+            "ro": "Napoleon a fondat această herghelie în 1806.",
+            "en": "Napoleon founded this stud farm in 1806."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im lebendigen Herzen von Tarbes am Place de Verdun. Nach einem Besuch der Kathedrale und des Foch-Hauses führt Sie ein entspannter Spaziergang zum herrlichen Jardin Massey. Den Nachmittag verbringen Sie zwischen Kunst und Geschichte im Massey-Museum und beenden den Tag bei den edlen Pferden im Nationalgestüt.",
+        "hu": "Kezdje a napot Tarbes lüktető szívében, a Place de Verdun téren. A katedrális és Foch marsall szülőházának megtekintése után egy kellemes séta vezet a csodálatos Jardin Massey kertbe. A délutánt a Massey Múzeum huszárjai és a Nemzeti Méntelep nemes lovai között töltjük.",
+        "ro": "Începeți ziua în inima vibrantă a orașului Tarbes, în Place de Verdun. După o vizită la catedrală și la casa natală a lui Foch, o plimbare relaxantă vă va duce la superba Grădină Massey. Petreceți după-amiaza între artă și istorie la Muzeul Massey și încheiați ziua la herghelia națională.",
+        "en": "Start your day in the vibrant heart of Tarbes at Place de Verdun. After visiting the cathedral and Foch's birthplace, a relaxed walk leads you to the magnificent Jardin Massey. Spend the afternoon exploring hussar history at the Massey Museum and finish among the noble horses at the National Stud."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Arpège",
+            "tip": "Probieren Sie das Confit de Canard mit Tarbais-Bohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Fil de l'Eau",
+            "tip": "Kóstolja meg a híres tarbes-i babot (Haricot Tarbais)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Empreinte",
+            "tip": "Încercați specialitățile locale cu rață și vin Madiran."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Petit Gourmand",
+            "tip": "Enjoy local specialties featuring the famous Tarbais beans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Massey Kreuzgang",
+            "tip": "Ein friedlicher mittelalterlicher Rückzugsort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Massey pálmaház",
+            "tip": "Csendes oázis a pálmák és egzotikus növények között.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul din Jardin Massey",
+            "tip": "Un loc liniștit cu arhitectură medievală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister at Jardin Massey",
+            "tip": "A peaceful medieval retreat within the gardens.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles Brauhauban",
+            "tip": "Frische Produkte und lokale Spezialitäten unter einem Dach."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhauban Vásárcsarnok",
+            "tip": "Helyi sajtok, borok és a híres fehér bab beszerzőhelye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles Brauhauban",
+            "tip": "Piața locală perfectă pentru brânzeturi și vinuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles Brauhauban",
+            "tip": "The best place to buy local cheese and Tarbais beans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr flach und ideal zu Fuß zu erkunden.",
+          "Der Eintritt in den Jardin Massey ist kostenlos.",
+          "Besuchen Sie den Markt am Donnerstagmorgen.",
+          "In der Mittagszeit sind viele kleine Geschäfte geschlossen."
+        ],
+        "hu": [
+          "A város sík, így a gyalogos városnézés nagyon kényelmes.",
+          "A Jardin Massey belépése ingyenes.",
+          "A csütörtöki piaci napon a legélénkebb a város.",
+          "Érdemes kényelmes cipőt húzni a kerti sétákhoz."
+        ],
+        "ro": [
+          "Orașul este plat și ideal pentru explorarea la pas.",
+          "Intrarea în Grădina Massey este gratuită.",
+          "Vizitați piața locală în diminețile de joi.",
+          "Rezervați masa la prânz în avans în weekend."
+        ],
+        "en": [
+          "The city is flat and perfect for exploring on foot.",
+          "Entry to Jardin Massey is free of charge.",
+          "Check out the local market on Thursday mornings.",
+          "Wear comfortable shoes for the extensive garden walks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de Verdun",
+            "hu": "Place de Verdun",
+            "ro": "Place de Verdun",
+            "en": "Place de Verdun"
+          },
+          "coords": [
+            -0.0725,
+            43.2325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Idealer Startpunkt für Radtouren.",
+            "hu": "Ideális kiindulópont kerékpáros túrákhoz.",
+            "ro": "Punct de plecare ideal pentru tururi cicliste.",
+            "en": "Ideal starting point for bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale de la Sède",
+            "hu": "Sède-székesegyház",
+            "ro": "Catedrala de la Sede",
+            "en": "Cathedrale de la Sede"
+          },
+          "coords": [
+            -0.0765,
+            43.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei der mittelalterlichen Kirche.",
+            "hu": "Rövid megálló a középkori templomnál.",
+            "ro": "Scurtă oprire la biserica medievală.",
+            "en": "Quick stop at the medieval church."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Bel-Air",
+            "hu": "Bel-Air park",
+            "ro": "Parcul Bel-Air",
+            "en": "Parc Bel-Air"
+          },
+          "coords": [
+            -0.065,
+            43.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Pyrenäen.",
+            "hu": "Élvezze a kilátást a Pireneusokra.",
+            "ro": "Bucurați-vă de panorama spre Pirinei.",
+            "en": "Enjoy the panoramic view of the Pyrenees."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Nouveautés",
+            "hu": "Théâtre des Nouveautés",
+            "ro": "Théâtre des Nouveautés",
+            "en": "Théâtre des Nouveautés"
+          },
+          "coords": [
+            -0.072,
+            43.2355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Architektur des 19. Jh.",
+            "hu": "A 19. századi építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură din sec. XIX.",
+            "en": "A beautiful example of 19th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Massey",
+            "hu": "Jardin Massey",
+            "ro": "Grădina Massey",
+            "en": "Jardin Massey"
+          },
+          "coords": [
+            -0.0765,
+            43.2395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang ab.",
+            "hu": "Hagyja a kerékpárt a bejáratnál.",
+            "ro": "Lăsați bicicleta la intrare.",
+            "en": "Park your bike at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Massey Múzeum",
+            "ro": "Muzeul Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            -0.0755,
+            43.239
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Aussichtsturm des Museums.",
+            "hu": "Látogasson el a múzeum kilátótornyába.",
+            "ro": "Vizitați turnul de observație al muzeului.",
+            "en": "Visit the museum's observation tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras National",
+            "hu": "Nemzeti Méntelep",
+            "ro": "Haras Național",
+            "en": "National Stud Farm"
+          },
+          "coords": [
+            -0.083,
+            43.239
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour am historischen Gestüt.",
+            "hu": "Zárja a túrát a történelmi méntelepen.",
+            "ro": "Încheiați turul la herghelia istorică.",
+            "en": "Finish your tour at the historic stud farm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Tarbes auf zwei Rädern! Nach dem Start im Zentrum radeln Sie zum Parc Bel-Air für ein Pyrenäen-Panorama. Vorbei am Theater geht es zum Jardin Massey, wo Sie eine ausgiebige Pause im Grünen einlegen. Die Tour endet am beeindruckenden Nationalgestüt, das nur einen kurzen Ritt entfernt liegt.",
+        "hu": "Fedezze fel Tarbest két keréken! A központból a Bel-Air parkba tekerünk a pireneusi panorámáért. A színház érintésével érkezünk a Jardin Massey-be egy hosszabb pihenőre. A túra a lenyűgöző Nemzeti Méntelepen zárul, amely csak egy rövid tekerésre van innen.",
+        "ro": "Descoperiți Tarbes pe două roți! După startul din centru, pedalați spre Parcul Bel-Air pentru o panoramă spre Pirinei. Trecând pe lângă teatru, ajungeți la Grădina Massey pentru o pauză relaxantă. Turul se încheie la herghelia națională, situată la o scurtă distanță de pedalat.",
+        "en": "Explore Tarbes on two wheels! After starting in the center, cycle to Parc Bel-Air for a Pyrenean panorama. Pass by the theater on your way to Jardin Massey for a long break in the greenery. The tour finishes at the impressive National Stud Farm, just a short ride away."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Authentique",
+            "tip": "Herzhafte Burger mit lokalem Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Etienne Traiteur",
+            "tip": "Gyors és minőségi helyi falatok a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie L'Amandine",
+            "tip": "Perfect pentru o gustare rapidă între opriri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistrot de l'Etoile",
+            "tip": "Great spot for a quick lunch near the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Bel-Air Aussichtspunkt",
+            "tip": "Blick auf die Berge in der Ferne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bel-Air kilátópont",
+            "tip": "Távoli hegycsúcsok látványa a fák alól.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de observație Bel-Air",
+            "tip": "Vedere spre munții din depărtare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Bel-Air Viewpoint",
+            "tip": "Distant mountain views from a quiet park spot.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Maison de la Châtaigne",
+            "tip": "Spezialitäten aus Kastanien der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Panier de Bigorre",
+            "tip": "Regionális termékek és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Gourmande",
+            "tip": "Produse locale și suveniruri delicioase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bigorre Basket",
+            "tip": "Regional products and gourmet souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Innenstadt gibt es viele Radwege.",
+          "Innerhalb des Jardin Massey ist Radfahren nicht erlaubt.",
+          "Nutzen Sie das Verleihsystem TLP Mobilité.",
+          "Achten Sie auf Einbahnstraßen im historischen Kern."
+        ],
+        "hu": [
+          "A belvárosban sok kerékpárút található.",
+          "A Jardin Massey területén belül tilos kerékpározni.",
+          "Használja a TLP Mobilité bérlőrendszerét.",
+          "Figyeljen az egyirányú utcákra a történelmi magban."
+        ],
+        "ro": [
+          "Există multe piste de biciclete în centrul orașului.",
+          "Ciclismul este interzis în interiorul Grădinii Massey.",
+          "Folosiți sistemul de închiriere TLP Mobilité.",
+          "Atenție la străzile cu sens unic din centrul vechi."
+        ],
+        "en": [
+          "There are many bike lanes in the city center.",
+          "Cycling is not permitted inside Jardin Massey.",
+          "Use the TLP Mobilité bike rental system.",
+          "Watch out for one-way streets in the historic core."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de Verdun (Cluster A)",
+            "hu": "Place de Verdun (A klaszter)",
+            "ro": "Place de Verdun (Cluster A)",
+            "en": "Place de Verdun (Cluster A)"
+          },
+          "coords": [
+            -0.0725,
+            43.2325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Stadtkern.",
+            "hu": "Parkoljon itt a városközponthoz.",
+            "ro": "Parcați aici pentru centrul orașului.",
+            "en": "Park here for the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale de la Sède",
+            "hu": "Sède-székesegyház",
+            "ro": "Catedrala de la Sede",
+            "en": "Cathedrale de la Sede"
+          },
+          "coords": [
+            -0.0765,
+            43.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Foch",
+            "hu": "Foch szülőháza",
+            "ro": "Casa lui Foch",
+            "en": "Foch's Birthplace"
+          },
+          "coords": [
+            -0.076,
+            43.2315
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuch im historischen Kern.",
+            "hu": "Látogatás a történelmi magban.",
+            "ro": "Vizită în centrul istoric.",
+            "en": "Visit in the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Massey (Cluster B)",
+            "hu": "Jardin Massey (B klaszter)",
+            "ro": "Grădina Massey (Cluster B)",
+            "en": "Jardin Massey (Cluster B)"
+          },
+          "coords": [
+            -0.0765,
+            43.2395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe des Nordeingangs.",
+            "hu": "Nagy parkoló az északi bejárat közelében.",
+            "ro": "Parcare mare lângă intrarea de nord.",
+            "en": "Large parking area near the north entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Massey Múzeum",
+            "ro": "Muzeul Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            -0.0755,
+            43.239
+          ],
+          "category": "museums",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Museum liegt direkt im Garten.",
+            "hu": "A múzeum közvetlenül a kertben található.",
+            "ro": "Muzeul este situat chiar în grădină.",
+            "en": "The museum is located right in the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras National",
+            "hu": "Nemzeti Méntelep",
+            "ro": "Haras Național",
+            "en": "National Stud Farm"
+          },
+          "coords": [
+            -0.083,
+            43.239
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Jardin Massey.",
+            "hu": "Gyalogosan elérhető a Jardin Massey-től.",
+            "ro": "Accesibil pe jos din Grădina Massey.",
+            "en": "Walkable from Jardin Massey."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Bel-Air (Cluster C)",
+            "hu": "Bel-Air park (C klaszter)",
+            "ro": "Parcul Bel-Air (Cluster C)",
+            "en": "Parc Bel-Air (Cluster C)"
+          },
+          "coords": [
+            -0.065,
+            43.228
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ruhiger Park im Süden der Stadt.",
+            "hu": "Csendes park a város déli részén.",
+            "ro": "Parc liniștit în sudul orașului.",
+            "en": "Quiet park in the southern part of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Nouveautés",
+            "hu": "Théâtre des Nouveautés",
+            "ro": "Théâtre des Nouveautés",
+            "en": "Théâtre des Nouveautés"
+          },
+          "coords": [
+            -0.072,
+            43.2355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp vor der Rückreise.",
+            "hu": "Rövid fotómegálló visszaindulás előtt.",
+            "ro": "Scurt popas pentru fotografii.",
+            "en": "Quick photo stop before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Tarbes effizient in drei Etappen. Zuerst parken Sie im Zentrum (Cluster A) für Kathedrale und Foch-Haus. Danach fahren Sie zum Park-Cluster B für den Jardin Massey und das Gestüt. Den Tag beschließen Sie im ruhigen Parc Bel-Air mit weitem Blick, bevor Sie am Theater vorbeirollen.",
+        "hu": "Autóval három ütemben fedezzük fel Tarbest. Először a központban parkolunk (A klaszter) a katedrális és Foch háza miatt. Ezután a B klaszter következik a Jardin Massey-vel és a ménteleppel. A napot a déli Parc Bel-Airben zárjuk panorámával, majd érintjük a színházat.",
+        "ro": "Cu mașina, explorați Tarbes eficient în trei etape. Mai întâi parcați în centru (Cluster A) pentru catedrală și casa lui Foch. Apoi conduceți spre Cluster B pentru Grădina Massey și herghelie. Încheiați ziua în liniștitul Parc Bel-Air cu panoramă, înainte de a trece pe lângă teatru.",
+        "en": "Explore Tarbes efficiently in three car clusters. First, park in the center (Cluster A) for the cathedral and Foch house. Then, drive to Cluster B for Jardin Massey and the stud farm. Conclude your day at the peaceful Parc Bel-Air with mountain views before passing by the theater."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Assiette de l'Adour",
+            "tip": "Regionale Küche direkt am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Plancha",
+            "tip": "Kiváló sült húsok és grill ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Jardin des Brouches",
+            "tip": "O locație superbă cu meniu tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Assiette",
+            "tip": "Traditional local dishes with great service."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick vom Parc Bel-Air",
+            "tip": "Panorama der Pyrenäen im Abendlicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bel-Air naplemente",
+            "tip": "Pireneusi panoráma az alkonyi fényekben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Bel-Air",
+            "tip": "Vedere spre Pirinei în lumina serii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bel-Air Sunset",
+            "tip": "Pyrenean panorama in the evening light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E.Leclerc Tarbes",
+            "tip": "Großer Supermarkt für lokale Produkte zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles Brauhauban parkoló",
+            "tip": "Kényelmes parkolás a piaci vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles Brauhauban",
+            "tip": "Piața este accesibilă cu parcare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhauban Market",
+            "tip": "Easy parking nearby for your food shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze an der Place de Verdun sind gebührenpflichtig.",
+          "Nutzen Sie den Parkplatz 'Massey' für den Gartenbesuch.",
+          "Vermeiden Sie die Stoßzeiten um 17 Uhr.",
+          "Tanken Sie außerhalb des Zentrums für bessere Preise."
+        ],
+        "hu": [
+          "A Place de Verdun parkolói fizetősek.",
+          "Használja a 'Massey' parkolót a kertlátogatáshoz.",
+          "Kerülje a délután 5 órai csúcsforgalmat.",
+          "A központon kívül olcsóbb az üzemanyag."
+        ],
+        "ro": [
+          "Parcarea în Place de Verdun este cu plată.",
+          "Folosiți parcarea 'Massey' pentru acces la grădină.",
+          "Evitați orele de vârf în jurul orei 17:00.",
+          "Alimentați cu combustibil în afara centrului."
+        ],
+        "en": [
+          "Parking at Place de Verdun is paid.",
+          "Use the 'Massey' parking lot for easy garden access.",
+          "Avoid rush hour around 5 PM.",
+          "Gas stations outside the center offer better prices."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de Verdun",
+            "hu": "Place de Verdun",
+            "ro": "Place de Verdun",
+            "en": "Place de Verdun"
+          },
+          "coords": [
+            -0.0725,
+            43.2325
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Knotenpunkt aller Buslinien.",
+            "hu": "Az összes buszjárat csomópontja.",
+            "ro": "Nodul principal al rețelei de autobuze.",
+            "en": "The hub for all local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale de la Sède",
+            "hu": "Sède-székesegyház",
+            "ro": "Catedrala de la Sede",
+            "en": "Cathedrale de la Sede"
+          },
+          "coords": [
+            -0.0765,
+            43.2305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Place de Verdun erreichbar.",
+            "hu": "Gyalogosan elérhető a Place de Verdun-től.",
+            "ro": "Accesibil la pas din Place de Verdun.",
+            "en": "Walkable from Place de Verdun."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Foch",
+            "hu": "Foch szülőháza",
+            "ro": "Casa lui Foch",
+            "en": "Foch's Birthplace"
+          },
+          "coords": [
+            -0.076,
+            43.2315
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Mitten in der Altstadt gelegen.",
+            "hu": "Az óváros szívében található.",
+            "ro": "Situat în inima centrului vechi.",
+            "en": "Located in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Massey",
+            "hu": "Jardin Massey",
+            "ro": "Grădina Massey",
+            "en": "Jardin Massey"
+          },
+          "coords": [
+            -0.0765,
+            43.2395
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie T1 oder T3.",
+            "hu": "Használja a T1-es vagy T3-as vonalat.",
+            "ro": "Folosiți linia T1 sau T3.",
+            "en": "Take line T1 or T3 to the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Massey Múzeum",
+            "ro": "Muzeul Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            -0.0755,
+            43.239
+          ],
+          "category": "museums",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Im Park, nahe der Bushaltestelle.",
+            "hu": "A parkban, közel a buszmegállóhoz.",
+            "ro": "În interiorul parcului, aproape de stație.",
+            "en": "In the park, near the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras National",
+            "hu": "Nemzeti Méntelep",
+            "ro": "Haras Național",
+            "en": "National Stud Farm"
+          },
+          "coords": [
+            -0.083,
+            43.239
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang durch das Viertel.",
+            "hu": "Szép séta a városrészen át.",
+            "ro": "O plimbare frumoasă prin cartier.",
+            "en": "A pleasant walk through the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Nouveautés",
+            "hu": "Théâtre des Nouveautés",
+            "ro": "Théâtre des Nouveautés",
+            "en": "Théâtre des Nouveautés"
+          },
+          "coords": [
+            -0.072,
+            43.2355
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Busstopp direkt vor dem Theater.",
+            "hu": "Buszmegálló közvetlenül a színház előtt.",
+            "ro": "Stație de autobuz chiar în fața teatrului.",
+            "en": "Bus stop right in front of the theater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Busnetz TLP Mobilité! Beginnen Sie am Knotenpunkt Place de Verdun, um das Zentrum zu Fuß zu erkunden. Ein kurzer Bus-Hop bringt Sie zum Jardin Massey für Natur und Kultur. Nach dem Nationalgestüt kehren Sie bequem per Bus zum Theater und zurück zum Ausgangspunkt.",
+        "hu": "Használja a TLP Mobilité buszhálózatát! Kezdjen a Place de Verdun csomópontnál, és fedezze fel a központot gyalog. Egy rövid buszozással elérheti a Jardin Massey-t a természetért és kultúráért. A méntelep után busszal térhet vissza a színházhoz, majd a kiindulópontra.",
+        "ro": "Folosiți rețeaua de autobuze TLP Mobilité! Începeți la nodul Place de Verdun pentru a explora centrul la pas. O scurtă călătorie cu autobuzul vă duce la Grădina Massey pentru natură și cultură. După herghelie, reveniți confortabil cu autobuzul la teatru și înapoi la start.",
+        "en": "Make use of the TLP Mobilité bus network! Start at the Place de Verdun hub to explore the center on foot. A quick bus hop takes you to Jardin Massey for nature and culture. After the stud farm, return comfortably by bus to the theater and back to your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Schnelles Mittagessen nahe Verdun."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Oriental",
+            "tip": "Kiváló kuszkusz a buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O'Buns",
+            "tip": "Locat de burgeri artizanali aproape de centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Quick and tasty lunch near the main bus hub."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Massey Ententeich",
+            "tip": "Entspannung am Wasser beobachten.",
+            "emoji": "🦆"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Massey kacstús tó",
+            "tip": "Pihenés a vízparton, kacsákat figyelve.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Iazul din Grădina Massey",
+            "tip": "Relaxare pe malul apei urmărind rațele.",
+            "emoji": "🦆"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Massey Pond",
+            "tip": "Relax by the water watching the ducks.",
+            "emoji": "🦆"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Brauhauban",
+            "tip": "Die Haupteinkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Brauhauban",
+            "tip": "A fő bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Brauhauban",
+            "tip": "Principala stradă comercială cu multe buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Brauhauban",
+            "tip": "The main shopping street with local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Einzelticket gilt für eine Stunde.",
+          "Laden Sie die TLP Mobilité App herunter.",
+          "Die Busse fahren am Wochenende seltener.",
+          "An der Place de Verdun hängen digitale Fahrpläne."
+        ],
+        "hu": [
+          "Az egyúti jegy egy óráig érvényes.",
+          "Töltse le a TLP Mobilité alkalmazást.",
+          "Hétvégén ritkábban járnak a buszok.",
+          "A Place de Verdun-ön digitális menetrendek találhatók."
+        ],
+        "ro": [
+          "Un bilet simplu este valabil o oră.",
+          "Descărcați aplicația TLP Mobilité.",
+          "Autobuzele circulă mai rar în weekend.",
+          "În Place de Verdun găsiți panouri cu orarul digital."
+        ],
+        "en": [
+          "A single ticket is valid for one hour.",
+          "Download the TLP Mobilité app for schedules.",
+          "Buses run less frequently on weekends.",
+          "Digital timetables are available at Place de Verdun."
+        ]
+      }
+    }
+  }
+}

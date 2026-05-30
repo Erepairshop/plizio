@@ -1,0 +1,1074 @@
+{
+  "city_id": "heide-extra",
+  "anchor": {
+    "name": "Marktplatz Heide",
+    "coords": [
+      54.1953,
+      9.0926
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            54.1953,
+            9.0926
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schiere Größe – es ist der größte Marktplatz Deutschlands.",
+            "hu": "Csodálja meg a méretét – ez Németország legnagyobb piactere.",
+            "ro": "Admirați dimensiunea sa – este cea mai mare piață din Germania.",
+            "en": "Admire the sheer scale – it is the largest marketplace in Germany."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jürgen Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. Jürgen Church"
+          },
+          "coords": [
+            54.1965,
+            9.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Innere dieser historischen spätgotischen Kirche am Markt.",
+            "hu": "Látogasson el a piac melletti késő gótikus templom belsejébe.",
+            "ro": "Vizitați interiorul acestei biserici gotice târzii de lângă piață.",
+            "en": "Visit the interior of this historic late Gothic church by the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Pastorat",
+            "hu": "Régi Lelkészlak",
+            "ro": "Vechiul Pastorat",
+            "en": "Old Pastorate"
+          },
+          "coords": [
+            54.1968,
+            9.094
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eines der ältesten erhaltenen Gebäude der Stadt mit schöner Architektur.",
+            "hu": "A város egyik legrégebbi fennmaradt épülete szép építészettel.",
+            "ro": "Una dintre cele mai vechi clădiri conservate din oraș, cu o arhitectură frumoasă.",
+            "en": "One of the oldest surviving buildings in the city with beautiful architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsinsel Lüttenheid",
+            "hu": "Lüttenheid Múzeumsziget",
+            "ro": "Insula Muzeelor Lüttenheid",
+            "en": "Museum Island Lüttenheid"
+          },
+          "coords": [
+            54.1975,
+            9.0915
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Brahms-Haus und das Klaus-Groth-Museum in diesem Viertel.",
+            "hu": "Fedezze fel a Brahms-házat és a Klaus Groth Múzeumot ebben a negyedben.",
+            "ro": "Descoperiți Casa Brahms și Muzeul Klaus Groth în acest cartier.",
+            "en": "Explore the Brahms House and Klaus Groth Museum in this district."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktpirat (Gastro)",
+            "hu": "Marktpirat Étterem",
+            "ro": "Restaurantul Marktpirat",
+            "en": "Marktpirat Restaurant"
+          },
+          "coords": [
+            54.195,
+            9.092
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie regionale Dithmarscher Spezialitäten direkt am Markt.",
+            "hu": "Élvezze a regionális Dithmarscher specialitásokat közvetlenül a piacon.",
+            "ro": "Bucurați-vă de specialități regionale Dithmarscher chiar în piață.",
+            "en": "Enjoy regional Dithmarscher specialties right at the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Dithmarscher Landesmuseum",
+            "hu": "Dithmarscher Tartományi Múzeum",
+            "ro": "Muzeul Regional Dithmarscher",
+            "en": "Dithmarscher Regional Museum"
+          },
+          "coords": [
+            54.1935,
+            9.098
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lernen Sie die spannende Geschichte der Bauernrepublik Dithmarschen kennen.",
+            "hu": "Ismerje meg a Dithmarscheni Parasztreztársaság izgalmas történetét.",
+            "ro": "Aflați istoria fascinantă a republicii țărănești Dithmarschen.",
+            "en": "Learn about the exciting history of the Dithmarschen peasant republic."
+          }
+        },
+        {
+          "name": {
+            "de": "Heider Wasserturm",
+            "hu": "Heidei Víztorony",
+            "ro": "Turnul de Apă din Heide",
+            "en": "Heide Water Tower"
+          },
+          "coords": [
+            54.1925,
+            9.095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt steht in einer gepflegten Parkanlage.",
+            "hu": "A város jelképe egy gondozott parkban található.",
+            "ro": "Simbolul orașului se află într-o zonă de parc bine întreținută.",
+            "en": "The city's landmark stands in a well-kept park area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem gewaltigen Marktplatz, dem Herzstück von Heide. Nach einem Besuch der spätgotischen St. Jürgen Kirche tauchen Sie in die Kulturgeschichte auf der Museumsinsel Lüttenheid ein. Der Nachmittag gehört der Regionalgeschichte im Landesmuseum, bevor Sie den Tag entspannt am markanten Wasserturm ausklingen lassen.",
+        "hu": "Kezdje a napot a hatalmas Piactéren, Heide szívében. A késő gótikus Szent György-templom megtekintése után merüljön el a kultúrtörténetben a Lüttenheid Múzeumszigeten. A délután a tartományi múzeumé, majd a napot a város jelképénél, a víztoronynál zárhatja egy kellemes séta keretében.",
+        "ro": "Începeți ziua în uriașa Piață a Pieței, inima orașului Heide. După o vizită la biserica gotică târzie Sf. Gheorghe, scufundați-vă în istoria culturală pe Insula Muzeelor Lüttenheid. După-amiaza este dedicată istoriei regionale la Muzeul Landului, înainte de a încheia ziua relaxat la emblematicul Turn de Apă.",
+        "en": "Start your day at the massive Market Square, the centerpiece of Heide. After visiting the late Gothic St. Jürgen Church, dive into cultural history on Museum Island Lüttenheid. The afternoon is dedicated to regional history at the Landesmuseum, before ending the day in a relaxed manner at the iconic Water Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marktpirat",
+            "tip": "Moderne Küche mit regionalem Touch direkt am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marktpirat",
+            "tip": "Modern konyha regionális jelleggel közvetlenül a piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marktpirat",
+            "tip": "Bucătărie modernă cu specific regional chiar în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marktpirat",
+            "tip": "Modern cuisine with a regional touch right on the market square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark am Wasserturm",
+            "tip": "Ruhige Grünanlage für eine kurze Pause.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park a víztoronynál",
+            "tip": "Csendes zöldövezet egy rövid szünethez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului la Turnul de Apă",
+            "tip": "Zonă verde liniștită pentru o scurtă pauză.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park at the Water Tower",
+            "tip": "Quiet green area for a short break.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Immer samstags verwandelt sich der Platz in einen riesigen Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Szombatonként a tér egy hatalmas piaccá alakul át."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "În fiecare sâmbătă, piața se transformă într-un târg uriaș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Every Saturday, the square transforms into a huge market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Heide ist flach und kompakt, ideal zum zu Fuß erkunden.",
+          "Samstags ist Markttag - ein Muss!"
+        ],
+        "hu": [
+          "Heide sík és kompakt, ideális gyalogos felfedezéshez.",
+          "Szombaton van piacnap - kötelező program!"
+        ],
+        "ro": [
+          "Heide este plat și compact, ideal pentru explorarea pe jos.",
+          "Sâmbăta este zi de piață - de neratat!"
+        ],
+        "en": [
+          "Heide is flat and compact, ideal for exploring on foot.",
+          "Saturday is market day - a must-see!"
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            54.1953,
+            9.0926
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der perfekte Startpunkt für jede Tour.",
+            "hu": "Tökéletes kiindulópont minden túrához.",
+            "ro": "Punctul de plecare perfect pentru orice tur.",
+            "en": "The perfect starting point for any tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsinsel Lüttenheid",
+            "hu": "Lüttenheid Múzeumsziget",
+            "ro": "Insula Muzeelor Lüttenheid",
+            "en": "Museum Island Lüttenheid"
+          },
+          "coords": [
+            54.1975,
+            9.0915
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kulturelles Zentrum der Stadt.",
+            "hu": "A város kulturális központja.",
+            "ro": "Centrul cultural al orașului.",
+            "en": "Cultural center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Heider Wasserturm",
+            "hu": "Heidei Víztorony",
+            "ro": "Turnul de Apă din Heide",
+            "en": "Heide Water Tower"
+          },
+          "coords": [
+            54.1925,
+            9.095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schöner Stopp im Grünen.",
+            "hu": "Szép megálló a zöldben.",
+            "ro": "O oprire frumoasă în natură.",
+            "en": "Beautiful stop in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Landgasthof (Umland)",
+            "hu": "Vidéki Fogadó",
+            "ro": "Han rural",
+            "en": "Country Inn"
+          },
+          "coords": [
+            54.215,
+            9.11
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Pause bei einer Radtour durch die Marsch.",
+            "hu": "Pihenő a mocsárvidéki kerékpártúra során.",
+            "ro": "Pauză în timpul unui tur cu bicicleta prin mlaștină.",
+            "en": "Break during a bike tour through the marshlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Dithmarscher Landesmuseum",
+            "hu": "Dithmarscher Tartományi Múzeum",
+            "ro": "Muzeul Regional Dithmarscher",
+            "en": "Dithmarscher Regional Museum"
+          },
+          "coords": [
+            54.1935,
+            9.098
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein tiefer Einblick in die Region.",
+            "hu": "Mély betekintés a régióba.",
+            "ro": "O incursiune profundă în regiune.",
+            "en": "A deep look into the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Pastorat",
+            "hu": "Régi Lelkészlak",
+            "ro": "Vechiul Pastorat",
+            "en": "Old Pastorate"
+          },
+          "coords": [
+            54.1968,
+            9.094
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Historisches Finale der Tour.",
+            "hu": "A túra történelmi fináléja.",
+            "ro": "Finalul istoric al turului.",
+            "en": "Historical finale of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Heide und das flache Umland mit dem Fahrrad. Nach den kulturellen Highlights in der Stadtmitte führt Sie die Tour ein Stück hinaus in die typische Dithmarscher Landschaft, bevor Sie am Nachmittag ins Landesmuseum zurückkehren.",
+        "hu": "Fedezze fel Heidét és a sík környéket kerékpárral. A városközpont kulturális látnivalói után a túra kivezeti Önt a jellegzetes Dithmarscheni tájra, majd délután visszatér a tartományi múzeumba.",
+        "ro": "Explorați Heide și împrejurimile plate cu bicicleta. După atracțiile culturale din centrul orașului, turul vă poartă puțin în peisajul tipic din Dithmarschen, înainte de a reveni la Muzeul Landului după-amiaza.",
+        "en": "Explore Heide and the flat surroundings by bike. After the cultural highlights in the city center, the tour takes you out into the typical Dithmarschen landscape before returning to the Landesmuseum in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Heide",
+            "tip": "Herzhafte Gerichte und lokales Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Heide",
+            "tip": "Kiadós ételek és helyi sör."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Heide",
+            "tip": "Mâncăruri consistente și bere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Heide",
+            "tip": "Hearty dishes and local beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Radschnellweg Marsch",
+            "tip": "Entspannung pur beim Fahren durch die Natur.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mocsárvidéki kerékpárút",
+            "tip": "Tiszta kikapcsolódás a természetben tekerve.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul ciclist Marsch",
+            "tip": "Relaxare pură în timp ce pedalați prin natură.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marshland Cycle Path",
+            "tip": "Pure relaxation while riding through nature.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden im Umland",
+            "tip": "Frische Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidéki udvari boltok",
+            "tip": "Friss termékek közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă în împrejurimi",
+            "tip": "Produse proaspete direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops in the area",
+            "tip": "Fresh produce directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die gut ausgeschilderten Radwege.",
+          "Achtung bei Wind – in der Marsch weht es oft kräftig."
+        ],
+        "hu": [
+          "Használja a jól kitáblázott kerékpárutakat.",
+          "Vigyázat a széllel – a mocsárvidéken gyakran fúj erősen."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete bine semnalizate.",
+          "Atenție la vânt – în mlaștină bate adesea puternic."
+        ],
+        "en": [
+          "Use the well-signposted cycle paths.",
+          "Watch out for the wind – it often blows hard in the marshes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz (Cluster A)",
+            "hu": "Piactér (A csoport)",
+            "ro": "Piața Mare (Cluster A)",
+            "en": "Market Square (Cluster A)"
+          },
+          "coords": [
+            54.1953,
+            9.0926
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral am Markt.",
+            "hu": "Parkoljon központilag a piacon.",
+            "ro": "Parcați central în piață.",
+            "en": "Park centrally at the market."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jürgen Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. Jürgen Church"
+          },
+          "coords": [
+            54.1965,
+            9.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsinsel Lüttenheid",
+            "hu": "Lüttenheid Múzeumsziget",
+            "ro": "Insula Muzeelor Lüttenheid",
+            "en": "Museum Island Lüttenheid"
+          },
+          "coords": [
+            54.1975,
+            9.0915
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar innerhalb des Clusters.",
+            "hu": "Gyalogosan elérhető a csoporton belül.",
+            "ro": "Accesibil pe jos în cadrul clusterului.",
+            "en": "Accessible on foot within the cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Meldorfer Dom (Cluster B)",
+            "hu": "Meldorfi Dóm (B csoport)",
+            "ro": "Domul din Meldorf (Cluster B)",
+            "en": "Meldorf Cathedral (Cluster B)"
+          },
+          "coords": [
+            54.0905,
+            9.0715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein imposanter 'Dom' in der Nachbarstadt.",
+            "hu": "Egy impozáns 'dóm' a szomszédos városban.",
+            "ro": "O catedrală impunătoare în orașul vecin.",
+            "en": "An impressive 'cathedral' in the neighboring town."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Meldorf",
+            "hu": "Ebéd Meldorfban",
+            "ro": "Prânz în Meldorf",
+            "en": "Lunch in Meldorf"
+          },
+          "coords": [
+            54.091,
+            9.073
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gemütliche Lokale rund um den Domplatz.",
+            "hu": "Hangulatos éttermek a dóm tér körül.",
+            "ro": "Localuri primitoare în jurul pieței catedralei.",
+            "en": "Cozy places around the cathedral square."
+          }
+        },
+        {
+          "name": {
+            "de": "Heider Wasserturm (Cluster C)",
+            "hu": "Heidei Víztorony (C csoport)",
+            "ro": "Turnul de Apă din Heide (Cluster C)",
+            "en": "Heide Water Tower (Cluster C)"
+          },
+          "coords": [
+            54.1925,
+            9.095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Zurück in Heide am Wahrzeichen parken.",
+            "hu": "Vissza Heidében, parkoljon a jelképnél.",
+            "ro": "Înapoi în Heide, parcați lângă simbolul orașului.",
+            "en": "Back in Heide, park by the landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Dithmarscher Landesmuseum",
+            "hu": "Dithmarscher Tartományi Múzeum",
+            "ro": "Muzeul Regional Dithmarscher",
+            "en": "Dithmarscher Regional Museum"
+          },
+          "coords": [
+            54.1935,
+            9.098
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Wasserturm.",
+            "hu": "Rövid gyalogút a víztoronytól.",
+            "ro": "Scurtă plimbare de la Turnul de Apă.",
+            "en": "Short walk from the water tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für einen kombinierten Ausflug. Vormittags erkunden Sie das Zentrum von Heide zu Fuß ab dem Marktplatz. Ein kleiner Roadtrip führt Sie zum imposanten Dom in Meldorf, bevor Sie den Nachmittag wieder in Heide am Wasserturm und dem Landesmuseum verbringen.",
+        "hu": "Használja az autót egy kombinált kiránduláshoz. Délelőtt fedezze fel Heide központját gyalogosan a Piactérről indulva. Egy kis autós túra elviszi az impozáns meldorfi dómhoz, majd a délutánt ismét Heidében, a víztoronynál és a tartományi múzeumban töltheti.",
+        "ro": "Folosiți mașina pentru o excursie combinată. Dimineața explorați centrul orașului Heide pe jos din Piața Mare. O scurtă călătorie vă duce la catedrala impunătoare din Meldorf, înainte de a petrece după-amiaza din nou în Heide, la Turnul de Apă și Muzeul Landului.",
+        "en": "Use the car for a combined trip. In the morning, explore the center of Heide on foot from the Market Square. A small road trip takes you to the impressive cathedral in Meldorf before spending the afternoon back in Heide at the Water Tower and the Landesmuseum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Erheiterung",
+            "tip": "Traditionsreiches Haus mit guter Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erheiterung",
+            "tip": "Hagyományőrző ház jó konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Erheiterung",
+            "tip": "Casă cu tradiție și bucătărie bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Erheiterung",
+            "tip": "Traditional house with good cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Speicherkoog",
+            "tip": "Natur pur an der Küste, nur 15 Min. Fahrt.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Speicherkoog",
+            "tip": "Tiszta természet a parton, mindössze 15 perc autóval.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Speicherkoog",
+            "tip": "Natură pură pe coastă, la doar 15 minute de mers cu mașina.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Speicherkoog",
+            "tip": "Pure nature on the coast, only 15 min drive.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Gewerbegebiet Heide",
+            "tip": "Große Auswahl an Fachgeschäften am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heide ipari negyed",
+            "tip": "Szaküzletek nagy választéka a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona industrială Heide",
+            "tip": "O selecție largă de magazine specializate la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heide Industrial Area",
+            "tip": "Large selection of specialty shops on the outskirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind am Marktplatz zahlreich vorhanden.",
+          "Kombinieren Sie Heide mit einem Trip zur Nordsee."
+        ],
+        "hu": [
+          "A piactéren számos parkolóhely áll rendelkezésre.",
+          "Kombinálja Heidét egy északi-tengeri kirándulással."
+        ],
+        "ro": [
+          "Locurile de parcare sunt numeroase în Piața Mare.",
+          "Combinați Heide cu o excursie la Marea Nordului."
+        ],
+        "en": [
+          "Parking spaces are plentiful at the Market Square.",
+          "Combine Heide with a trip to the North Sea."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heide Bahnhof",
+            "hu": "Heide Vasútállomás",
+            "ro": "Gara Heide",
+            "en": "Heide Station"
+          },
+          "coords": [
+            54.192,
+            9.085
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit Busanschlüssen.",
+            "hu": "Központi érkezési pont buszcsatlakozásokkal.",
+            "ro": "Punct central de sosire cu conexiuni de autobuz.",
+            "en": "Central arrival point with bus connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Mare",
+            "en": "Market Square"
+          },
+          "coords": [
+            54.1953,
+            9.0926
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus direkt ins Herz der Stadt.",
+            "hu": "Busszal közvetlenül a város szívébe.",
+            "ro": "Cu autobuzul direct în inima orașului.",
+            "en": "By bus directly into the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Jürgen Kirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. Jürgen Church"
+          },
+          "coords": [
+            54.1965,
+            9.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Weg vom Marktplatz.",
+            "hu": "Csak egy rövid út a piactérről.",
+            "ro": "La doar o scurtă distanță de Piața Mare.",
+            "en": "Just a short walk from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsinsel Lüttenheid",
+            "hu": "Lüttenheid Múzeumsziget",
+            "ro": "Insula Muzeelor Lüttenheid",
+            "en": "Museum Island Lüttenheid"
+          },
+          "coords": [
+            54.1975,
+            9.0915
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gequirlte Geschichte zu Fuß erreichbar.",
+            "hu": "Sűrű történelem gyalogosan elérhető közelségben.",
+            "ro": "Istorie densă accesibilă pe jos.",
+            "en": "Dense history reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Heider Wasserturm",
+            "hu": "Heidei Víztorony",
+            "ro": "Turnul de Apă din Heide",
+            "en": "Heide Water Tower"
+          },
+          "coords": [
+            54.1925,
+            9.095
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Busfahrt zum Stadtpark am Turm.",
+            "hu": "Buszozás a toronynál lévő városi parkhoz.",
+            "ro": "Călătorie cu autobuzul către parcul orașului de lângă turn.",
+            "en": "Bus ride to the city park by the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Dithmarscher Landesmuseum",
+            "hu": "Dithmarscher Tartományi Múzeum",
+            "ro": "Muzeul Regional Dithmarscher",
+            "en": "Dithmarscher Regional Museum"
+          },
+          "coords": [
+            54.1935,
+            9.098
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Abschluss im Museum vor der Heimfahrt.",
+            "hu": "Zárás a múzeumban a hazaút előtt.",
+            "ro": "Final la muzeu înainte de drumul spre casă.",
+            "en": "Finish at the museum before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Heide lässt sich wunderbar mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof gelangen Sie schnell zum Marktplatz, wo die wichtigsten Sehenswürdigkeiten in Laufweite liegen. Ein weiterer Bus bringt Sie zum Wasserturm und dem nahegelegenen Landesmuseum.",
+        "hu": "Heide csodálatosan felfedezhető tömegközlekedéssel. A vasútállomástól gyorsan elérheti a Piacteret, ahol a legfontosabb látnivalók sétatávolságra vannak. Egy másik busz elviszi a víztoronyhoz és a közeli tartományi múzeumhoz.",
+        "ro": "Heide poate fi explorat minunat cu transportul public. De la gară ajungeți rapid în Piața Mare, unde principalele atracții sunt la mică distanță de mers pe jos. Un alt autobuz vă duce la Turnul de Apă și la Muzeul Landului din apropiere.",
+        "en": "Heide can be explored wonderfully by public transport. From the station, you can quickly reach the Market Square, where the most important sights are within walking distance. Another bus takes you to the Water Tower and the nearby Landesmuseum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Café am Markt",
+            "tip": "Ideal für eine Kaffeepause zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Café am Markt",
+            "tip": "Ideális egy kávészünethez két látnivaló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Café am Markt",
+            "tip": "Ideal pentru o pauză de cafea între vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Café am Markt",
+            "tip": "Ideal for a coffee break in between."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz",
+            "tip": "Ruhiger Platz direkt hinter der Kirche.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom tér",
+            "tip": "Csendes hely közvetlenül a templom mögött.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bisericii",
+            "tip": "Loc liniștit chiar în spatele bisericii.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "Quiet spot right behind the church.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Friedrichstraße",
+            "tip": "Die kleine Einkaufsmeile von Heide."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friedrichstraße",
+            "tip": "Heide kis bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Friedrichstraße",
+            "tip": "Mica stradă comercială din Heide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friedrichstraße",
+            "tip": "The small shopping street of Heide."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busverbindungen am Bahnhof vorab.",
+          "Ein Tagesticket lohnt sich oft."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszcsatlakozásokat az állomáson.",
+          "A napijegy gyakran megéri."
+        ],
+        "ro": [
+          "Verificați conexiunile de autobuz la gară în prealabil.",
+          "Un bilet de o zi merită adesea."
+        ],
+        "en": [
+          "Check the bus connections at the station in advance.",
+          "A day ticket is often worth it."
+        ]
+      }
+    }
+  }
+}

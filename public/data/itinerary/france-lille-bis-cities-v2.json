@@ -1,0 +1,1140 @@
+{
+  "city_id": "france-lille-bis-cities-v2",
+  "anchor": {
+    "name": "Lille-Nord",
+    "coords": [
+      3.06,
+      50.65
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place aux Oignons",
+            "hu": "Hagyma tér (Place aux Oignons)",
+            "ro": "Place aux Oignons",
+            "en": "Place aux Oignons"
+          },
+          "coords": [
+            3.0618,
+            50.6402
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bester Ort für ein Frühstück in den Gassen.",
+            "hu": "A legjobb hely egy reggelihez a szűk utcákban.",
+            "ro": "Cel mai bun loc pentru micul dejun pe străduțe.",
+            "en": "Best spot for breakfast in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Treille",
+            "hu": "Treille-i Miasszonyunk-székesegyház",
+            "ro": "Catedrala Notre-Dame de la Treille",
+            "en": "Notre-Dame de la Treille Cathedral"
+          },
+          "coords": [
+            3.0625,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die moderne Fassade von innen.",
+            "hu": "Nézze meg a modern homlokzatot belülről is.",
+            "ro": "Admirați fațada modernă din interior.",
+            "en": "Notice the modern facade from the inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospice Comtesse",
+            "hu": "Hospice Comtesse Múzeum",
+            "ro": "Muzeul Hospice Comtesse",
+            "en": "Hospice Comtesse Museum"
+          },
+          "coords": [
+            3.0632,
+            50.6415
+          ],
+          "category": "museums",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die alte Fliesenküche ist ein Highlight.",
+            "hu": "A régi csempézett konyha igazi különlegesség.",
+            "ro": "Bucătăria veche cu plăci ceramice este superbă.",
+            "en": "The old tiled kitchen is a highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Gilles de la Boë",
+            "hu": "Gilles de la Boë ház",
+            "ro": "Casa Gilles de la Boë",
+            "en": "Maison Gilles de la Boë"
+          },
+          "coords": [
+            3.0645,
+            50.6398
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der flämischen Renaissance.",
+            "hu": "A flamand reneszánsz egyik remekműve.",
+            "ro": "O capodoperă a Renașterii flamande.",
+            "en": "A masterpiece of Flemish Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Lille",
+            "hu": "Lille-i citadella",
+            "ro": "Citadela din Lille",
+            "en": "Citadel of Lille"
+          },
+          "coords": [
+            3.045,
+            50.641
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vaubans 'Königin der Zitadellen'.",
+            "hu": "Vauban erődrendszerének királynője.",
+            "ro": "Supranumită Regina Citadelelor de către Vauban.",
+            "en": "Known as the Queen of Citadels by Vauban."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von Lille",
+            "hu": "Lille-i Állatkert",
+            "ro": "Grădina Zoologică Lille",
+            "en": "Lille Zoo"
+          },
+          "coords": [
+            3.0485,
+            50.6402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kompakter Zoo, ideal für Familien.",
+            "hu": "Kompakt állatkert, ideális családoknak.",
+            "ro": "O grădină zoologică compactă, ideală pentru familii.",
+            "en": "Compact zoo, perfect for a family break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Citadelle",
+            "hu": "Citadella park",
+            "ro": "Parcul Citadelei",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            3.0505,
+            50.6425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Kanäle zum Abschluss.",
+            "hu": "Séta a csatornák mentén a nap zárásaként.",
+            "ro": "O plimbare pe malul canalelor la final de zi.",
+            "en": "Walk along the canals to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Herz von Lille zu Fuß. Der Vormittag gehört dem 'Vieux Lille' mit seinen flämischen Fassaden und kopfsteingepflasterten Gassen. Nach einem Mittagessen am Place aux Oignons führt der Weg zur beeindruckenden Zitadelle. Den Nachmittag verbringen Sie im Grünen, umgeben von Vaubans Festungskunst und dem lebendigen Stadtpark.",
+        "hu": "Fedezze fel Lille szívét gyalogosan. A délelőtt a 'Vieux Lille' negyedé, flamand homlokzatokkal és macskaköves utcákkal. A Place aux Oignons-nál elköltött ebéd után az út a lenyűgöző citadellához vezet. A délutánt zöld környezetben töltjük, Vauban erődépítészete és a nyüzsgő városi park ölelésében.",
+        "ro": "Explorați inima orașului Lille la pas. Dimineața este dedicată cartierului 'Vieux Lille', cu fațade flamande și străzi pietruite. După un prânz în Place aux Oignons, drumul duce spre citadela impresionantă. După-amiaza o veți petrece în natură, înconjurați de arhitectura militară a lui Vauban și de parcul vibrant al orașului.",
+        "en": "Explore the heart of Lille on foot. Spend your morning in 'Vieux Lille', admiring Flemish facades and cobblestone streets. After lunch at Place aux Oignons, head towards the impressive Citadel. The afternoon is dedicated to the outdoors, surrounded by Vauban's fortification masterpiece and the lively city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Welsh",
+            "tip": "Geschmolzener Cheddar auf Bier-Brot."
+          },
+          {
+            "name": "Méert",
+            "tip": "Legendäre gefüllte Waffeln seit 1761."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Welsh",
+            "tip": "Sörös kenyérre olvasztott cheddar sajt."
+          },
+          {
+            "name": "Méert",
+            "tip": "Legendás töltött ostya 1761 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Welsh",
+            "tip": "Cheddar topit pe pâine cu bere."
+          },
+          {
+            "name": "Méert",
+            "tip": "Gofre legendare umplute, din 1761."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Welsh",
+            "tip": "Melted cheddar cheese over beer-soaked bread."
+          },
+          {
+            "name": "Méert",
+            "tip": "Legendary thin filled waffles since 1761."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal de la Deûle",
+            "tip": "Ruhiger Weg am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deûle-csatorna",
+            "tip": "Csendes útvonal a víz mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Deûle",
+            "tip": "Traseu liniștit pe malul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deûle Canal",
+            "tip": "Quiet path along the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vieux Lille Boutiques",
+            "tip": "Antiquitäten und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vieux Lille butikok",
+            "tip": "Antikvitások és divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutiques Vieux Lille",
+            "tip": "Antichități și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vieux Lille Boutiques",
+            "tip": "Antiques and high-end fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Probieren Sie das lokale Craft-Bier in einer Brasserie.",
+          "Die meisten Museen sind montags geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Kóstolja meg a helyi kézműves sört egy brasserie-ben.",
+          "A legtöbb múzeum hétfőn zárva tart."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru piatra cubică.",
+          "Gustați berea artizanală locală într-o berărie.",
+          "Majoritatea muzeelor sunt închise lunea."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Try local craft beer in a traditional brasserie.",
+          "Most museums are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte de Gand",
+            "hu": "Genti kapu",
+            "ro": "Poarta Gand",
+            "en": "Porte de Gand"
+          },
+          "coords": [
+            3.0705,
+            50.6425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Historisches Stadttor mit Restaurant.",
+            "hu": "Történelmi városkapu étteremmel.",
+            "ro": "Poartă istorică a orașului cu restaurant.",
+            "en": "Historic city gate housing a restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Treille",
+            "hu": "Treille-i székesegyház",
+            "ro": "Catedrala Treille",
+            "en": "Treille Cathedral"
+          },
+          "coords": [
+            3.0625,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Platz.",
+            "hu": "Kerékpártároló közvetlenül a téren.",
+            "ro": "Suporturi de biciclete direct în piață.",
+            "en": "Bike racks available right on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Lille",
+            "hu": "Lille-i citadella",
+            "ro": "Citadela Lille",
+            "en": "Citadel of Lille"
+          },
+          "coords": [
+            3.045,
+            50.641
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Wege um die Festung sind perfekt zum Radeln.",
+            "hu": "Az erőd körüli utak tökéletesek bringázáshoz.",
+            "ro": "Drumurile din jurul cetății sunt perfecte pentru bicicletă.",
+            "en": "Paths around the fortress are perfect for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von Lille",
+            "hu": "Lille-i Állatkert",
+            "ro": "Grădina Zoologică Lille",
+            "en": "Lille Zoo"
+          },
+          "coords": [
+            3.0485,
+            50.6402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Pause im Schatten der Bäume.",
+            "hu": "Pihenő a fák árnyékában.",
+            "ro": "Pauză la umbra copacilor.",
+            "en": "Take a break in the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Citadelle",
+            "hu": "Citadella park",
+            "ro": "Parcul Citadelei",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            3.0505,
+            50.6425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Große Alleen für entspanntes Fahren.",
+            "hu": "Széles utak a kényelmes tekeréshez.",
+            "ro": "Alei largi pentru o plimbare relaxată.",
+            "en": "Wide avenues for easy riding."
+          }
+        },
+        {
+          "name": {
+            "de": "Place aux Oignons",
+            "hu": "Hagyma tér",
+            "ro": "Place aux Oignons",
+            "en": "Place aux Oignons"
+          },
+          "coords": [
+            3.0618,
+            50.6402
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie das Rad sicher ab.",
+            "hu": "Zárja le biztonságosan a kerékpárt.",
+            "ro": "Asigurați bine bicicleta.",
+            "en": "Lock your bike securely here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Lille mit dem Rad zu erkunden bietet eine wunderbare Mischung aus urbaner Geschichte und grüner Erholung. Wir starten am Porte de Gand und umrunden die Stadt bis zur Zitadelle. Die weitläufigen Parks bieten ideale Radwege, bevor wir den Tag im gemütlichen Vieux Lille ausklingen lassen.",
+        "hu": "Lille felfedezése kerékpárral a városi történelem és a zöld kikapcsolódás remek keverékét nyújtja. A Porte de Gand-tól indulunk és megkerüljük a várost a citadelláig. A kiterjedt parkok ideális kerékpárutakat kínálnak, mielőtt a napot a hangulatos Vieux Lille-ben zárnánk.",
+        "ro": "Explorarea orașului Lille cu bicicleta oferă un amestec minunat de istorie urbană și relaxare în natură. Începem la Poarta Gand și ocolim orașul până la cetate. Parcurile vaste oferă piste ideale, înainte de a încheia ziua în pitorescul Vieux Lille.",
+        "en": "Exploring Lille by bike offers a wonderful mix of urban history and green relaxation. We start at Porte de Gand and loop around to the Citadel. The vast parks offer ideal cycling paths before we wrap up the day in the cozy Vieux Lille district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Rindfleischeintopf in Biersauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Sörös marharagu."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Tocăniță de vită în sos de bere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Traditional beef stew made with beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois de Boulogne",
+            "tip": "Viel Platz zum Durchatmen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois de Boulogne",
+            "tip": "Tágas tér a pihenéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois de Boulogne",
+            "tip": "Spațiu generos pentru relaxare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois de Boulogne",
+            "tip": "Plenty of space to breathe.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "V'Lille",
+            "tip": "Leihrad-System der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "V'Lille",
+            "tip": "A város közösségi kerékpárrendszere."
+          }
+        ],
+        "ro": [
+          {
+            "name": "V'Lille",
+            "tip": "Sistemul public de închiriat biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "V'Lille",
+            "tip": "The city's public bike-sharing system."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die V'Lille Stationen.",
+          "Achten Sie auf Einbahnstraßen im Zentrum."
+        ],
+        "hu": [
+          "Használja a V'Lille állomásokat.",
+          "Figyeljen az egyirányú utcákra a központban."
+        ],
+        "ro": [
+          "Folosiți stațiile V'Lille.",
+          "Atenție la străzile cu sens unic din centru."
+        ],
+        "en": [
+          "Use the V'Lille bike-sharing stations.",
+          "Watch out for one-way streets in the center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle von Lille (Cluster Citadelle)",
+            "hu": "Lille-i citadella",
+            "ro": "Citadela Lille",
+            "en": "Citadel of Lille"
+          },
+          "coords": [
+            3.045,
+            50.641
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz 'Petit Paradis' in der Nähe.",
+            "hu": "Parkolás a közeli 'Petit Paradis' parkolóban.",
+            "ro": "Parcare 'Petit Paradis' în apropiere.",
+            "en": "Use the nearby 'Petit Paradis' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von Lille",
+            "hu": "Lille-i Állatkert",
+            "ro": "Grădina Zoologică",
+            "en": "Lille Zoo"
+          },
+          "coords": [
+            3.0485,
+            50.6402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Citadelle-Parkplatz.",
+            "hu": "Gyalogosan elérhető a Citadella parkolóból.",
+            "ro": "Accesibil pe jos din parcarea Citadelei.",
+            "en": "Short walk from the Citadel parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Citadelle",
+            "hu": "Citadella park",
+            "ro": "Parcul Citadelei",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            3.0505,
+            50.6425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekt für einen kurzen Spaziergang am Auto.",
+            "hu": "Tökéletes egy rövid sétához az autó közelében.",
+            "ro": "Ideal pentru o plimbare scurtă lângă mașină.",
+            "en": "Perfect for a stroll near your parked car."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospice Comtesse (Cluster Vieux Lille)",
+            "hu": "Hospice Comtesse",
+            "ro": "Hospice Comtesse",
+            "en": "Hospice Comtesse"
+          },
+          "coords": [
+            3.0632,
+            50.6415
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Parkhaus 'Vieux Lille' nutzen.",
+            "hu": "Használja a 'Vieux Lille' parkolóházat.",
+            "ro": "Utilizați parcarea 'Vieux Lille'.",
+            "en": "Use the 'Vieux Lille' parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Treille",
+            "hu": "Treille-i székesegyház",
+            "ro": "Catedrala Treille",
+            "en": "Treille Cathedral"
+          },
+          "coords": [
+            3.0625,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Parkhaus bequem zu Fuß erreichbar.",
+            "hu": "Kényelmes séta a parkolóháztól.",
+            "ro": "Acces ușor pe jos de la parcare.",
+            "en": "Easy walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Place aux Oignons",
+            "hu": "Hagyma tér",
+            "ro": "Place aux Oignons",
+            "en": "Place aux Oignons"
+          },
+          "coords": [
+            3.0618,
+            50.6402
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gastro-Herz des Viertels.",
+            "hu": "A negyed gasztronómiai szíve.",
+            "ro": "Inima gastronomică a cartierului.",
+            "en": "The gastronomic heart of the district."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Gilles de la Boë",
+            "hu": "Gilles de la Boë ház",
+            "ro": "Casa Gilles de la Boë",
+            "en": "Maison Gilles de la Boë"
+          },
+          "coords": [
+            3.0645,
+            50.6398
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzter Halt im historischen Kern.",
+            "hu": "Utolsó megálló a történelmi magban.",
+            "ro": "Ultima oprire în centrul istoric.",
+            "en": "Final stop in the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Gand",
+            "hu": "Genti kapu",
+            "ro": "Poarta Gand",
+            "en": "Porte de Gand"
+          },
+          "coords": [
+            3.0705,
+            50.6425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick auf die alten Wehranlagen.",
+            "hu": "Kilátás a régi védművekre.",
+            "ro": "Vedere asupra vechilor fortificații.",
+            "en": "View of the old fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Auto-Tour nutzt zwei strategische Cluster. Zuerst parken wir an der Zitadelle, um die Natur und Festung zu genießen. Danach wechseln wir ins Parkhaus am Rande von Vieux Lille, um die Museen und den historischen Kern bequem zu Fuß zu erkunden, ohne Parkplatzstress in den engen Gassen.",
+        "hu": "Ez az autós túra két stratégiai csomópontra épül. Először a citadellánál parkolunk, hogy élvezzük a természetet és az erődöt. Ezután átmegyünk a Vieux Lille szélén lévő parkolóházba, hogy gyalog fedezzük fel a múzeumokat és a történelmi magot, elkerülve a szűk utcák parkolási nehézségeit.",
+        "ro": "Acest tur auto folosește două zone strategice. Mai întâi parcăm la cetate pentru a ne bucura de natură și fortificații. Apoi ne mutăm în parcarea de la marginea Vieux Lille pentru a explora muzeele și centrul istoric pe jos, fără stresul parcării pe străzile înguste.",
+        "en": "This driving tour uses two strategic clusters. First, we park at the Citadel to enjoy nature and the fortress. Then, we move to the Vieux Lille parking garage to explore the museums and historic core comfortably on foot, avoiding the parking stress of the narrow streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Potjevleesch",
+            "tip": "Traditionelles Fleischgericht in Aspik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Potjevleesch",
+            "tip": "Hagyományos húsétel aszpikban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potjevleesch",
+            "tip": "Preparat tradițional de carne în aspic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Potjevleesch",
+            "tip": "Traditional local meat terrine in aspic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal de la Moyenne-Deûle",
+            "tip": "Ruhiger Parkrand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moyenne-Deûle csatorna",
+            "tip": "Csendes parkszél.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Moyenne-Deûle",
+            "tip": "Margine de parc liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Moyenne-Deûle Canal",
+            "tip": "Quiet park edge.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Euralille",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Euralille",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Euralille",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Euralille",
+            "tip": "Large shopping mall near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Zentrum zur Stoßzeit.",
+          "Nutzen Sie P+R Parkplätze."
+        ],
+        "hu": [
+          "Kerülje el a központot csúcsidőben.",
+          "Használja a P+R parkolókat."
+        ],
+        "ro": [
+          "Evitați centrul la orele de vârf.",
+          "Folosiți parcările P+R."
+        ],
+        "en": [
+          "Avoid the city center during rush hour.",
+          "Use P+R parking lots if staying longer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place aux Oignons",
+            "hu": "Hagyma tér",
+            "ro": "Place aux Oignons",
+            "en": "Place aux Oignons"
+          },
+          "coords": [
+            3.0618,
+            50.6402
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Metro Rihour ist der nächste Knotenpunkt.",
+            "hu": "Rihour metróállomás a legközelebbi csomópont.",
+            "ro": "Stația de metrou Rihour este cea mai apropiată.",
+            "en": "Rihour metro station is the closest hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospice Comtesse",
+            "hu": "Hospice Comtesse",
+            "ro": "Hospice Comtesse",
+            "en": "Hospice Comtesse"
+          },
+          "coords": [
+            3.0632,
+            50.6415
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß durch Vieux Lille erreichbar.",
+            "hu": "Gyalogosan elérhető Vieux Lille-en keresztül.",
+            "ro": "Accesibil pe jos prin Vieux Lille.",
+            "en": "Walkable through the Old Lille streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Treille",
+            "hu": "Treille-i székesegyház",
+            "ro": "Catedrala Treille",
+            "en": "Treille Cathedral"
+          },
+          "coords": [
+            3.0625,
+            50.6405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Ankerpunkt für den Vormittag.",
+            "hu": "Központi támpont a délelőtti sétához.",
+            "ro": "Punct central pentru plimbarea de dimineață.",
+            "en": "Central anchor point for your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Lille",
+            "hu": "Lille-i citadella",
+            "ro": "Citadela Lille",
+            "en": "Citadel of Lille"
+          },
+          "coords": [
+            3.045,
+            50.641
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bus Linie 12 hält in der Nähe (Champ de Mars).",
+            "hu": "A 12-es busz megáll a közelben (Champ de Mars).",
+            "ro": "Autobuzul linia 12 oprește aproape (Champ de Mars).",
+            "en": "Bus line 12 stops nearby at Champ de Mars."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von Lille",
+            "hu": "Lille-i Állatkert",
+            "ro": "Grădina Zoologică Lille",
+            "en": "Lille Zoo"
+          },
+          "coords": [
+            3.0485,
+            50.6402
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einfacher Spaziergang vom Bus-Halt.",
+            "hu": "Könnyű séta a buszmegállótól.",
+            "ro": "Plimbare ușoară de la stația de autobuz.",
+            "en": "Easy walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Citadelle",
+            "hu": "Citadella park",
+            "ro": "Parcul Citadelei",
+            "en": "Citadel Park"
+          },
+          "coords": [
+            3.0505,
+            50.6425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Idealer Ort für die Rückfahrtplanung.",
+            "hu": "Ideális hely a visszautazás tervezéséhez.",
+            "ro": "Loc ideal pentru a planifica drumul de întoarcere.",
+            "en": "Ideal spot to plan your return journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Gand",
+            "hu": "Genti kapu",
+            "ro": "Poarta Gand",
+            "en": "Porte de Gand"
+          },
+          "coords": [
+            3.0705,
+            50.6425
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück zum Gare Lille Flandres.",
+            "hu": "Busszal vissza a Lille Flandres pályaudvarhoz.",
+            "ro": "Înapoi cu autobuzul spre Gare Lille Flandres.",
+            "en": "Take the bus back to Gare Lille Flandres."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Netzes von 'Ilévia' erreichen wir alle Highlights bequem. Wir starten im historischen Vieux Lille, nutzen den Bus für den Sprung zur Zitadelle und beenden die Tour an den alten Stadttoren. Ein entspannter Tag ohne Parkplatzsuche, ideal um das Flair der Stadt aufzusaugen.",
+        "hu": "Az 'Ilévia' jól kiépített hálózatának köszönhetően minden látnivalót kényelmesen elérünk. A történelmi Vieux Lille-ben kezdünk, busszal ugrunk át a citadellához, és a régi városkapuknál fejezzük be a túrát. Egy nyugodt nap parkolási gondok nélkül, ideális a város hangulatának élvezetéhez.",
+        "ro": "Datorită rețelei bine dezvoltate 'Ilévia', ajungem cu ușurință la toate punctele de atracție. Începem în cartierul istoric Vieux Lille, folosim autobuzul pentru a ajunge la cetate și încheiem turul la vechile porți ale orașului. O zi relaxată, fără căutarea parcării.",
+        "en": "Thanks to the well-developed 'Ilévia' transit network, we can reach all highlights comfortably. We start in historic Vieux Lille, take the bus to reach the Citadel, and end the tour at the old city gates. A relaxed day without parking stress, ideal for soaking up the city's atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maroilles",
+            "tip": "Der berühmte, kräftige Käse der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maroilles",
+            "tip": "A régió híres, karakteres sajtja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maroilles",
+            "tip": "Branza faimoasă și aromată a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maroilles",
+            "tip": "The famous, pungent local cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square du Ramponneau",
+            "tip": "Kleiner Park am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square du Ramponneau",
+            "tip": "Kis park a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square du Ramponneau",
+            "tip": "Un mic parc lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square du Ramponneau",
+            "tip": "Small park by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pass Lille",
+            "tip": "Inklusive Transport und Museen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lille Pass",
+            "tip": "Tartalmazza a közlekedést és a múzeumi belépőket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lille Pass",
+            "tip": "Include transportul și intrările la muzee."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lille Pass",
+            "tip": "Includes public transport and museum entries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte.",
+          "Nutzen Sie die App für Echtzeit-Abfahrten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet.",
+          "Használja az applikációt a valós idejű indulásokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi.",
+          "Folosiți aplicația pentru plecări în timp real."
+        ],
+        "en": [
+          "Buy a day pass for better value.",
+          "Use the transit app for real-time updates."
+        ]
+      }
+    }
+  }
+}

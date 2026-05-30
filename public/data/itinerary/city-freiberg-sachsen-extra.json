@@ -1,0 +1,1243 @@
+{
+  "city_id": "city-freiberg-sachsen-extra",
+  "anchor": {
+    "name": "Freiberg Obermarkt",
+    "coords": [
+      13.3428,
+      50.9175
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Obermarkt Freiberg",
+            "hu": "Obermarkt főtér",
+            "ro": "Piața Obermarkt",
+            "en": "Obermarkt Square"
+          },
+          "coords": [
+            13.3425,
+            50.9175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Pflastermosaik des Brunnens.",
+            "hu": "Nézze meg a kút díszes burkolatát.",
+            "ro": "Observați mozaicul de pavaj al fântânii.",
+            "en": "Look for the detailed pavement mosaic by the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadt- und Bergbaumuseum",
+            "hu": "Városi és Bányászati Múzeum",
+            "ro": "Muzeul Orașului și al Mineritului",
+            "en": "City and Mining Museum"
+          },
+          "coords": [
+            13.3421,
+            50.9178
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das spätgotische Gebäude ist selbst ein Exponat.",
+            "hu": "A késő gótikus épület önmagában is látványosság.",
+            "ro": "Clădirea gotică târzie este ea însăși o piesă de muzeu.",
+            "en": "The late Gothic building is an exhibit in itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiberger Dom St. Marien",
+            "hu": "Freibergi dóm",
+            "ro": "Catedrala din Freiberg",
+            "en": "Freiberg Cathedral"
+          },
+          "coords": [
+            13.3442,
+            50.9205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Goldene Pforte.",
+            "hu": "Ne hagyja ki az Aranykaput (Goldene Pforte).",
+            "ro": "Nu ratați Poarta de Aur (Goldene Pforte).",
+            "en": "Don't miss the famous Golden Gate portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Krüger-Haus",
+            "hu": "Krüger-ház",
+            "ro": "Casa Krüger",
+            "en": "Krüger-Haus"
+          },
+          "coords": [
+            13.3412,
+            50.9208
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier sind deutsche Minerale meisterhaft ausgestellt.",
+            "hu": "Németországi ásványok mesteri gyűjteménye.",
+            "ro": "O colecție magistrală de minerale germane.",
+            "en": "Masterful display of German mineral treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freudenstein",
+            "hu": "Freudenstein kastély",
+            "ro": "Castelul Freudenstein",
+            "en": "Freudenstein Castle"
+          },
+          "coords": [
+            13.3395,
+            50.9212
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Schlosshof ist frei zugänglich.",
+            "hu": "A kastélyudvar szabadon látogatható.",
+            "ro": "Curtea castelului este accesibilă gratuit.",
+            "en": "The castle courtyard is open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Mineralia",
+            "hu": "Terra Mineralia",
+            "ro": "Terra Mineralia",
+            "en": "Terra Mineralia"
+          },
+          "coords": [
+            13.3398,
+            50.9215
+          ],
+          "category": "museums",
+          "arrive_at": "15:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eine der weltweit schönsten Mineralienausstellungen.",
+            "hu": "A világ egyik legszebb ásványkiállítása.",
+            "ro": "Una dintre cele mai frumoase expoziții de minerale din lume.",
+            "en": "One of the world's most beautiful mineral exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Donatsturm",
+            "hu": "Donát-torony",
+            "ro": "Turnul Donat",
+            "en": "Donat Tower"
+          },
+          "coords": [
+            13.3475,
+            50.9192
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besterhaltene Turm der alten Stadtmauer.",
+            "hu": "A régi városfal legjobb állapotú tornya.",
+            "ro": "Cel mai bine conservat turn al vechiului zid al orașului.",
+            "en": "The best-preserved tower of the former city walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz der Altstadt am Obermarkt und tauchen im Stadtmuseum in die reiche Bergbautradition ein. Mittags bewundern Sie die Goldene Pforte im Dom. Nachmittags dominiert die Welt der Minerale im Schloss Freudenstein und im Krüger-Haus. Der Tag endet am historischen Donatsturm, einem Zeugen der alten Stadtbefestigung.",
+        "hu": "Reggel az Obermarkt szívéből indulva ismerkedünk a várossal, majd a bányászati múzeumban merülünk el Freiberg múltjában. Délben a dóm világhírű Aranykapuját csodáljuk meg. Délután a kastély lenyűgöző ásványkiállítása (Terra Mineralia) vár ránk. A napot a városfal épen maradt bástyájánál, a Donát-toronynál zárjuk.",
+        "ro": "Dimineața începe în centrul vechi, la Obermarkt, urmată de o incursiune în istoria minieră la muzeul local. La prânz, vizităm Catedrala cu celebra sa Poartă de Aur. După-amiaza este dedicată lumii fascinante a mineralelor la Castelul Freudenstein. Încheiem ziua lângă Turnul Donat, o relicvă impresionantă a vechilor fortificații.",
+        "en": "Morning starts at the heart of the Old Town on Obermarkt, followed by a deep dive into silver mining history at the city museum. At noon, admire the exquisite Golden Gate at the Cathedral. The afternoon is dedicated to the spectacular Terra Mineralia exhibition inside Freudenstein Castle. Finish your day at the historic Donat Tower, a remnant of the medieval city walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Stadtwirtschaft",
+            "tip": "Rustikale sächsische Küche im historischen Ambiente."
+          },
+          {
+            "name": "Freiberger Bauerhase",
+            "tip": "Probieren Sie dieses traditionelle Fastengebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stadtwirtschaft",
+            "tip": "Házias szász konyha történelmi környezetben."
+          },
+          {
+            "name": "Freiberger Bauerhase",
+            "tip": "Kóstolja meg a helyi hagyományos süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadtwirtschaft",
+            "tip": "Bucătărie săsească rustică într-un cadru istoric."
+          },
+          {
+            "name": "Freiberger Bauerhase",
+            "tip": "Gustați acest produs de patiserie tradițional local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stadtwirtschaft",
+            "tip": "Hearty Saxon cuisine in a historic atmosphere."
+          },
+          {
+            "name": "Freiberger Bauerhase",
+            "tip": "Try this traditional local lenten pastry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Albertpark",
+            "tip": "Grüne Oase für einen entspannten Spaziergang.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Schlossgraben",
+            "tip": "Ruhiger Weg rund um das Schloss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albertpark",
+            "tip": "Zöld oázis egy pihentető sétához.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Kastélyárok",
+            "tip": "Csendes ösvény a kastély falai mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Albertpark",
+            "tip": "Oază verde pentru o plimbare relaxantă.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Șanțul Castelului",
+            "tip": "Potecă liniștită în jurul castelului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Albertpark",
+            "tip": "A green oasis for a relaxing walk.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Castle Moat",
+            "tip": "Quiet path around the castle walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Obermarkt Wochenmarkt",
+            "tip": "Regionale Produkte direkt vom Erzeuger."
+          },
+          {
+            "name": "Mineraliengeschäfte",
+            "tip": "Einzigartige Sammlerstücke aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Főtéri heti piac",
+            "tip": "Helyi termékek közvetlenül a termelőktől."
+          },
+          {
+            "name": "Ásványboltok",
+            "tip": "Egyedi gyűjtői darabok a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală Obermarkt",
+            "tip": "Produse regionale direct de la producători."
+          },
+          {
+            "name": "Magazine de minerale",
+            "tip": "Piese de colecție unice din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Obermarkt Weekly Market",
+            "tip": "Regional products directly from the farmers."
+          },
+          {
+            "name": "Mineral Shops",
+            "tip": "Unique collector items from the local mines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und lässt sich ideal zu Fuß erkunden.",
+          "Achten Sie auf das Kopfsteinpflaster, bequeme Schuhe sind ein Muss.",
+          "Viele Museen haben montags geschlossen.",
+          "Der Dom bietet regelmäßig Orgelvorführungen an."
+        ],
+        "hu": [
+          "Az óváros rendkívül kompakt, gyalogosan minden könnyen elérhető.",
+          "A macskaköves utcák miatt kényelmes cipő viselése ajánlott.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "A dómban érdemes meghallgatni egy orgonabemutatót."
+        ],
+        "ro": [
+          "Centrul istoric este foarte compact și ideal de explorat pe jos.",
+          "Străzile sunt pavate cu piatră cubică, deci purtați pantofi comozi.",
+          "Multe muzee sunt închise în zilele de luni.",
+          "Catedrala oferă regulat demonstrații la orgă."
+        ],
+        "en": [
+          "The old town is very compact and best explored on foot.",
+          "Wear comfortable shoes as most streets have cobblestone paving.",
+          "Keep in mind that many museums are closed on Mondays.",
+          "The cathedral often hosts impressive organ demonstrations."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Altstadt",
+            "hu": "Óvárosi parkolóház",
+            "ro": "Parcarea centrului vechi",
+            "en": "Old Town Parking"
+          },
+          "coords": [
+            13.3405,
+            50.9165
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 5,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für den Altstadt-Cluster.",
+            "hu": "Központi parkoló az óvárosi részhez.",
+            "ro": "Parcare centrală pentru clusterul centrului vechi.",
+            "en": "Central parking for the Old Town cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Obermarkt Freiberg",
+            "hu": "Obermarkt főtér",
+            "ro": "Piața Obermarkt",
+            "en": "Obermarkt Square"
+          },
+          "coords": [
+            13.3425,
+            50.9175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Startpunkt für den Spaziergang.",
+            "hu": "A gyalogos séta kezdőpontja.",
+            "ro": "Punctul de plecare pentru plimbare.",
+            "en": "Starting point for the walking loop."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiberger Dom St. Marien",
+            "hu": "Freibergi dóm",
+            "ro": "Catedrala din Freiberg",
+            "en": "Freiberg Cathedral"
+          },
+          "coords": [
+            13.3442,
+            50.9205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte Silbermann-Orgel.",
+            "hu": "Csodálja meg a híres Silbermann-orgonát.",
+            "ro": "Admirați celebra orgă Silbermann.",
+            "en": "Admire the famous Silbermann organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Terra Mineralia (Schloss)",
+            "hu": "Terra Mineralia (Kastély)",
+            "ro": "Terra Mineralia (Castel)",
+            "en": "Terra Mineralia (Castle)"
+          },
+          "coords": [
+            13.3398,
+            50.9215
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Shop für kleine Minerale.",
+            "hu": "Kicsi ásványok vásárolhatók a múzeumi boltban.",
+            "ro": "Vizitați magazinul pentru suveniruri cu minerale.",
+            "en": "Check the gift shop for small mineral specimens."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadt- und Bergbaumuseum",
+            "hu": "Városi és Bányászati Múzeum",
+            "ro": "Muzeul Orașului și al Mineritului",
+            "en": "City and Mining Museum"
+          },
+          "coords": [
+            13.3421,
+            50.9178
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "In der Nähe gibt es gute Mittagsangebote.",
+            "hu": "A közelben több jó ebédelőhely található.",
+            "ro": "Există opțiuni bune de prânz în apropiere.",
+            "en": "Good lunch options are available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkhaus Rückkehr",
+            "hu": "Visszatérés az autóhoz",
+            "ro": "Revenire la mașină",
+            "en": "Return to car"
+          },
+          "coords": [
+            13.3405,
+            50.9165
+          ],
+          "category": "industry",
+          "arrive_at": "14:55",
+          "stay_min": 5,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum nächsten Cluster.",
+            "hu": "Rövid autózás a következő állomáshoz.",
+            "ro": "Scurtă deplasare auto către următorul cluster.",
+            "en": "Short drive to the next cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Elisabeth",
+            "hu": "Alte Elisabeth bánya",
+            "ro": "Mina Alte Elisabeth",
+            "en": "Alte Elisabeth Mine"
+          },
+          "coords": [
+            13.3615,
+            50.9152
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigung der Übertageanlagen.",
+            "hu": "A felszíni létesítmények látogatása.",
+            "ro": "Vizitarea instalațiilor de suprafață.",
+            "en": "Tour the surface installations of the mine."
+          }
+        },
+        {
+          "name": {
+            "de": "Donatsturm",
+            "hu": "Donát-torony",
+            "ro": "Turnul Donat",
+            "en": "Donat Tower"
+          },
+          "coords": [
+            13.3475,
+            50.9192
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Hier gibt es gute Parkmöglichkeiten am Rand.",
+            "hu": "A torony közelében könnyű parkolni.",
+            "ro": "Posibilități bune de parcare în apropiere.",
+            "en": "Good parking options nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan kombiniert die Highlights der Altstadt mit einem Abstecher zur industriellen Geschichte. Parken Sie zentral und erkunden Sie den Obermarkt, den Dom und das Schloss Freudenstein bequem zu Fuß. Danach fahren Sie zur Grube Alte Elisabeth, um die authentische Bergbau-Atmosphäre oberhalb der Stadt zu erleben, bevor Sie den Tag am Donatsturm ausklingen lassen.",
+        "hu": "Ez az autós útvonal ötvözi az óváros kincseit a bányászati örökséggel. Parkoljon le az óvárosban, és járja be gyalog a főteret, a dómot és a kastélyt. Délután hajtson el az Alte Elisabeth bányához, ahol megismerheti a kitermelés felszíni emlékeit, végül látogasson el a városkapuk egyik legszebbjéhez, a Donát-toronyhoz.",
+        "ro": "Acest traseu combină atracțiile centrului istoric cu patrimoniul industrial. Parcați în centru și explorați pe jos Piața Obermarkt, Catedrala și Castelul Freudenstein. Ulterior, conduceți spre mina Alte Elisabeth pentru a experimenta atmosfera autentică a mineritului, înainte de a încheia vizita la Turnul Donat.",
+        "en": "This car-based plan blends the Old Town highlights with Freiberg's industrial heritage. Park centrally to explore the main square, Cathedral, and Freudenstein Castle on foot. Later, drive to the Alte Elisabeth Mine to see the historic surface facilities, then wrap up your trip at the impressive Donat Tower."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhof Freiberg",
+            "tip": "Hauseigenes Bier und deftige sächsische Küche."
+          },
+          {
+            "name": "Kaffeehaus Hartmann",
+            "tip": "Traditionelle Torten und Kaffeespezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhof Freiberg",
+            "tip": "Saját főzésű sör és laktató szász ételek."
+          },
+          {
+            "name": "Kaffeehaus Hartmann",
+            "tip": "Hagyományos torták és kávékülönlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhof Freiberg",
+            "tip": "Bere artizanală proprie și mâncare săsească consistentă."
+          },
+          {
+            "name": "Kaffeehaus Hartmann",
+            "tip": "Torturi tradiționale și specialități de cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhof Freiberg",
+            "tip": "House-brewed beer and hearty Saxon meals."
+          },
+          {
+            "name": "Kaffeehaus Hartmann",
+            "tip": "Traditional cakes and coffee specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Halsbrücker Revier",
+            "tip": "Wanderwege durch alte Bergbaugebiete.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halsbrücker Revier",
+            "tip": "Túraútvonalak régi bányaterületeken át.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halsbrücker Revier",
+            "tip": "Trasee de drumeție prin vechi zone miniere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Halsbrücker Revier",
+            "tip": "Hiking trails through historic mining areas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Silberschatz Shop",
+            "tip": "Exklusiver Freiberger Kräuterlikör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Silberschatz Bolt",
+            "tip": "Exkluzív freibergi gyógynövénylikőr."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Silberschatz",
+            "tip": "Lichior de ierburi exclusiv din Freiberg."
+          }
+        ],
+        "en": [
+          {
+            "name": "Silberschatz Shop",
+            "tip": "Exclusive Freiberg herbal liqueur."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkhaus 'Altstadt' ist der ideale Ausgangspunkt für das Zentrum.",
+          "Die Straßen in der Altstadt sind eng, fahren Sie vorsichtig.",
+          "Parkplätze an der Alte Elisabeth sind meist kostenfrei.",
+          "Kombinieren Sie den Stadtbesuch mit einer Fahrt ins Umland."
+        ],
+        "hu": [
+          "Az 'Altstadt' parkolóház a legjobb kiindulópont a központhoz.",
+          "Az óváros utcái szűkek, vezessen óvatosan.",
+          "Az Alte Elisabeth bányánál a parkolás általában ingyenes.",
+          "Érdemes a városnézést egy kis környékbeli autózással összekötni."
+        ],
+        "ro": [
+          "Parcarea 'Altstadt' este punctul de plecare ideal pentru centru.",
+          "Străzile din centrul vechi sunt înguste, conduceți cu atenție.",
+          "Parcarea la mina Alte Elisabeth este de obicei gratuită.",
+          "Combinați vizita orașului cu o plimbare cu mașina în împrejurimi."
+        ],
+        "en": [
+          "The 'Altstadt' parking garage is the best starting point for the center.",
+          "Be careful when driving through the narrow old town streets.",
+          "Parking at the Alte Elisabeth mine is usually free of charge.",
+          "Combine your city tour with a drive into the scenic surroundings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Obermarkt",
+            "hu": "Obermarkt",
+            "ro": "Obermarkt",
+            "en": "Obermarkt"
+          },
+          "coords": [
+            13.3425,
+            50.9175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrräder am Rand abstellen.",
+            "hu": "A kerékpárokat a tér szélén hagyja.",
+            "ro": "Lăsați bicicletele la marginea pieței.",
+            "en": "Park your bikes at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiberger Dom",
+            "hu": "Freibergi dóm",
+            "ro": "Catedrala",
+            "en": "Freiberg Cathedral"
+          },
+          "coords": [
+            13.3442,
+            50.9205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt am Untermarkt.",
+            "hu": "Kerékpártároló az Untermarkton.",
+            "ro": "Suport de biciclete direct în Piața de Jos.",
+            "en": "Bike racks available right at Untermarkt."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freudenstein",
+            "hu": "Freudenstein kastély",
+            "ro": "Castelul Freudenstein",
+            "en": "Freudenstein Castle"
+          },
+          "coords": [
+            13.3395,
+            50.9212
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genug Zeit für Terra Mineralia einplanen.",
+            "hu": "Szánjon elég időt az ásványokra.",
+            "ro": "Alocați suficient timp pentru Terra Mineralia.",
+            "en": "Plan enough time for the mineral exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadt- und Bergbaumuseum",
+            "hu": "Városi és Bányászati Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            13.3421,
+            50.9178
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Interessante Einblicke in die Geologie.",
+            "hu": "Érdekes betekintés a geológiába.",
+            "ro": "Informații interesante despre geologie.",
+            "en": "Great insights into local geology."
+          }
+        },
+        {
+          "name": {
+            "de": "Donatsturm",
+            "hu": "Donát-torony",
+            "ro": "Turnul Donat",
+            "en": "Donat Tower"
+          },
+          "coords": [
+            13.3475,
+            50.9192
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang der Promenade.",
+            "hu": "Szép bicikliút a sétány mentén.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul promenadei.",
+            "en": "Nice cycling path along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Elisabeth",
+            "hu": "Alte Elisabeth bánya",
+            "ro": "Mina Alte Elisabeth",
+            "en": "Alte Elisabeth Mine"
+          },
+          "coords": [
+            13.3615,
+            50.9152
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Leichter Anstieg zur Grube.",
+            "hu": "Enyhe emelkedő a bánya felé.",
+            "ro": "Ușoară urcare către mină.",
+            "en": "Slight uphill ride towards the mine."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr Altstadt",
+            "hu": "Vissza az óvárosba",
+            "ro": "Revenire în centrul vechi",
+            "en": "Return to Old Town"
+          },
+          "coords": [
+            13.3428,
+            50.9175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Abschluss auf dem Obermarkt.",
+            "hu": "Zárja a napot az Obermarkton.",
+            "ro": "Final în Piața Obermarkt.",
+            "en": "Finish your tour at the Obermarkt."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Freiberg mit dem Rad! Die Tour führt Sie von der historischen Altstadt mit Dom und Schloss hinaus zu den authentischen Bergbauzeugnissen wie der Alten Elisabeth. Der Wechsel zwischen prachtvoller Stadtarchitektur und industrieller Kulturlandschaft macht den Reiz dieser Route aus.",
+        "hu": "Fedezze fel Freiberget két keréken! A túra az óváros dómjától és kastélyától indulva vezet ki a várost övező ipari emlékekhez, mint például az Alte Elisabeth bánya. A pazar városi építészet és az ipari kultúrtáj váltakozása adja meg az útvonal különlegességét.",
+        "ro": "Explorați Freibergul cu bicicleta! Turul vă poartă de la Catedrala și Castelul din centrul vechi către vestigiile miniere autentice, precum mina Alte Elisabeth. Contrastul dintre arhitectura urbană fastuoasă și peisajul cultural industrial oferă un farmec aparte acestei rute.",
+        "en": "Explore Freiberg by bike! This tour takes you from the historic Old Town with its Cathedral and Castle to authentic mining sites like the Alte Elisabeth Mine. The transition from grand city architecture to the industrial cultural landscape defines this unique route."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscafé am Dom",
+            "tip": "Erfrischung für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylaltozó a dómnál",
+            "tip": "Felfrissülés két megálló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria de lângă Catedrală",
+            "tip": "O revigorare între obiective."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream Parlor at the Cathedral",
+            "tip": "Refreshment between stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenadenring",
+            "tip": "Ruhiges Radeln im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenadenring",
+            "tip": "Csendes biciklizés a zöldben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenadenring",
+            "tip": "Ciclism liniștit prin zone verzi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenadenring",
+            "tip": "Quiet cycling through green belts.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Proviant für die Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a centrumban",
+            "tip": "Útravaló a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Provizii pentru tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Provisions for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Promenadenring bietet eine fast verkehrsfreie Route.",
+          "Einige Gassen in der Altstadt sind für Radfahrer freigegeben.",
+          "Die Strecke zur Alten Elisabeth hat eine leichte Steigung.",
+          "Nutzen Sie die Radständer am Schloss für einen entspannten Besuch."
+        ],
+        "hu": [
+          "A Promenadenring szinte forgalommentes útvonalat kínál.",
+          "Az óváros néhány szűk utcája is használható kerékpárral.",
+          "Az Alte Elisabeth bánya felé vezető út enyhén emelkedik.",
+          "Használja a kastélynál lévő tárolókat a múzeumlátogatás alatt."
+        ],
+        "ro": [
+          "Promenadenring oferă o rută aproape lipsită de trafic.",
+          "Unele alei din centrul vechi sunt accesibile bicicliștilor.",
+          "Traseul către mina Alte Elisabeth are o pantă ușoară.",
+          "Folosiți suporturile de biciclete de la castel pentru o vizită relaxată."
+        ],
+        "en": [
+          "The Promenadenring offers an almost traffic-free route around the city.",
+          "Some narrow alleys in the Old Town are open for cyclists.",
+          "The path to the Alte Elisabeth mine has a slight incline.",
+          "Use the bike racks at the castle for a worry-free museum visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Freiberg",
+            "hu": "Vasútállomás",
+            "ro": "Gara Freiberg",
+            "en": "Freiberg Station"
+          },
+          "coords": [
+            13.3445,
+            50.9085
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt mit dem Stadtbus C.",
+            "hu": "Indulás a C jelzésű városi busszal.",
+            "ro": "Pornire cu autobuzul urban linia C.",
+            "en": "Starting point with city bus line C."
+          }
+        },
+        {
+          "name": {
+            "de": "Postplatz (Zentrum)",
+            "hu": "Postplatz (központ)",
+            "ro": "Postplatz (centru)",
+            "en": "Postplatz (Center)"
+          },
+          "coords": [
+            13.3442,
+            50.9165
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt und Eingang zur Altstadt.",
+            "hu": "Központi csomópont és bejárat az óvároshoz.",
+            "ro": "Punct central de transfer și intrare în centrul vechi.",
+            "en": "Central transit hub and entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Obermarkt",
+            "hu": "Obermarkt",
+            "ro": "Obermarkt",
+            "en": "Obermarkt"
+          },
+          "coords": [
+            13.3425,
+            50.9175
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Postplatz.",
+            "hu": "Rövid séta a Postplatztól.",
+            "ro": "Scurtă plimbare de la Postplatz.",
+            "en": "Short walk from Postplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiberger Dom",
+            "hu": "Freibergi dóm",
+            "ro": "Catedrala",
+            "en": "Freiberg Cathedral"
+          },
+          "coords": [
+            13.3442,
+            50.9205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "The landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Freudenstein",
+            "hu": "Freudenstein kastély",
+            "ro": "Castelul Freudenstein",
+            "en": "Freudenstein Castle"
+          },
+          "coords": [
+            13.3395,
+            50.9212
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Ausstellung Terra Mineralia ist ein Muss.",
+            "hu": "A Terra Mineralia kiállítás kötelező látnivaló.",
+            "ro": "Expoziția Terra Mineralia este obligatorie.",
+            "en": "The Terra Mineralia exhibition is a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Orașului",
+            "en": "City Museum"
+          },
+          "coords": [
+            13.3421,
+            50.9178
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick in die 800-jährige Bergbaugeschichte.",
+            "hu": "800 évnyi bányászati múlt emlékei.",
+            "ro": "O privire în istoria minieră de 800 de ani.",
+            "en": "A glimpse into 800 years of mining history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Rückkehr",
+            "hu": "Visszatérés az állomásra",
+            "ro": "Revenire la gară",
+            "en": "Return to Station"
+          },
+          "coords": [
+            13.3445,
+            50.9085
+          ],
+          "category": "industry",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Direkte Busanbindung vom Postplatz.",
+            "hu": "Közvetlen buszjárat a Postplatztól.",
+            "ro": "Conexiune directă cu autobuzul de la Postplatz.",
+            "en": "Direct bus connection from Postplatz."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Stadtbusnetz, um bequem vom Bahnhof ins Herz der Altstadt zu gelangen. Der Postplatz dient als perfektes Drehkreuz. Von dort aus erreichen Sie alle wichtigen Sehenswürdigkeiten wie den Dom und das Schloss in wenigen Minuten zu Fuß. Diese Route schont die Beine und bietet maximale Zeit für die beeindruckenden Museen.",
+        "hu": "Használja a sűrű városi buszhálózatot, amellyel kényelmesen eljuthat a vasútállomástól az óváros szívébe. A Postplatz tökéletes átszállóhely. Innen gyalogosan pár perc alatt elérheti a legfontosabb látnivalókat, a dómot és a kastélyt. Ez az útvonal kíméli a lábat, és maximális időt hagy a lenyűgöző múzeumokra.",
+        "ro": "Folosiți rețeaua densă de autobuze urbane pentru a ajunge confortabil de la gară în inima centrului vechi. Piața Postplatz servește ca nod de transfer perfect. De acolo, puteți ajunge la toate obiectivele importante, precum Catedrala și Castelul, în doar câteva minute de mers pe jos. Această rută este relaxantă și oferă timp maxim pentru muzee.",
+        "en": "Make use of the efficient city bus network to travel comfortably from the station to the heart of the Old Town. Postplatz acts as the perfect hub. From there, all major sights like the Cathedral and Castle are just a few minutes' walk away. This route saves energy and maximizes your time for the impressive museums."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Börse",
+            "tip": "Gute sächsische Küche direkt am Obermarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Börse",
+            "tip": "Házias szász konyha közvetlenül a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Börse",
+            "tip": "Bucătărie săsească bună chiar în Piața Obermarkt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Börse",
+            "tip": "Good Saxon cuisine right on the Obermarkt square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang des Doms",
+            "tip": "Stille und Besinnlichkeit.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A dóm kerengője",
+            "tip": "Csend és elmélyülés.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul Catedralei",
+            "tip": "Liniște și meditație.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloister",
+            "tip": "Silence and contemplation.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Passage",
+            "tip": "Kleine Läden und Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altstadt-Passage",
+            "tip": "Kis üzletek és butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul Centrului Vechi",
+            "tip": "Magazine mici și buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Passage",
+            "tip": "Small shops and boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadtbusse fahren regelmäßig vom Bahnhof zum Postplatz.",
+          "Ein Tagesticket lohnt sich oft schon ab drei Fahrten.",
+          "Am Wochenende ist der Fahrplan etwas eingeschränkter.",
+          "Vom Postplatz ist die gesamte Altstadt eine Fußgängerzone."
+        ],
+        "hu": [
+          "A városi buszok rendszeresen járnak az állomás és a Postplatz között.",
+          "A napijegy gyakran már három utazás után megtérül.",
+          "Hétvégén a menetrend ritkább lehet.",
+          "A Postplatztól kezdődően az egész óváros gyalogosövezet."
+        ],
+        "ro": [
+          "Autobuzele urbane circulă regulat între gară și Postplatz.",
+          "Un bilet de o zi este adesea rentabil după doar trei călătorii.",
+          "În weekend, programul autobuzelor este ceva mai redus.",
+          "De la Postplatz, întregul centru vechi este zonă pietonală."
+        ],
+        "en": [
+          "City buses run regularly from the train station to Postplatz.",
+          "A day ticket often pays off after just three rides.",
+          "Keep in mind that the weekend schedule is slightly reduced.",
+          "The entire Old Town starting from Postplatz is a pedestrian zone."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1052 @@
+{
+  "city_id": "boulogne-sur-mer",
+  "anchor": {
+    "name": "Boulogne-sur-Mer",
+    "coords": [
+      1.613,
+      50.726
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Ville Haute",
+          "coords": [
+            1.614,
+            50.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die mittelalterlichen Stadtmauern für beste Aussichten.",
+            "hu": "Sétáljon körbe a középkori városfalakon a legjobb kilátásért.",
+            "ro": "Plimbați-vă pe zidurile medievale pentru cele mai bune vederi.",
+            "en": "Walk along the medieval ramparts for the best city views."
+          }
+        },
+        {
+          "name": "Beffroi de Boulogne",
+          "coords": [
+            1.615,
+            1.615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der älteste Glockenturm der Stadt gehört zum UNESCO-Welterbe.",
+            "hu": "A város legrégebbi harangtornya az UNESCO Világörökség része.",
+            "ro": "Cea mai veche clopotniță din oraș este inclusă în patrimoniul UNESCO.",
+            "en": "The city's oldest belfry is a UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame",
+          "coords": [
+            1.617,
+            50.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta, eine der größten in Frankreich.",
+            "hu": "Látogassa meg a kriptát, amely Franciaország egyik legnagyobbja.",
+            "ro": "Vizitați cripta, una dintre cele mai mari din Franța.",
+            "en": "Visit the crypt, which is one of the largest in France."
+          }
+        },
+        {
+          "name": "Château-Musée",
+          "coords": [
+            1.619,
+            50.726
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die völkerkundlichen Sammlungen in der alten Burg.",
+            "hu": "Csodálja meg a néprajzi gyűjteményeket a régi várban.",
+            "ro": "Admirați colecțiile etnografice din vechiul castel.",
+            "en": "Admire the ethnographic collections housed in the old castle."
+          }
+        },
+        {
+          "name": "Port de Pêche",
+          "coords": [
+            1.597,
+            50.725
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Frankreichs wichtigster Fischereihafen – ideal für frische Meeresfrüchte.",
+            "hu": "Franciaország legfontosabb halászkikötője – ideális friss tengeri ételekhez.",
+            "ro": "Cel mai important port de pescuit al Franței – ideal pentru fructe de mare proaspete.",
+            "en": "France's leading fishing port – perfect for fresh seafood lunch."
+          }
+        },
+        {
+          "name": "Nausicaá",
+          "coords": [
+            1.594,
+            50.731
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 160,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das größte Aquarium Europas – planen Sie genug Zeit für die Haie ein.",
+            "hu": "Európa legnagyobb akváriuma – szánjon elég időt a cápákra.",
+            "ro": "Cel mai mare acvariu din Europa – acordați timp suficient pentru rechini.",
+            "en": "Europe's largest aquarium – allow plenty of time for the sharks."
+          }
+        },
+        {
+          "name": "Plage de Boulogne",
+          "coords": [
+            1.591,
+            50.733
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss mit Blick auf den Ärmelkanal.",
+            "hu": "Szép befejezés kilátással a La Manche-csatornára.",
+            "ro": "Un final frumos cu vedere la Canalul Mânecii.",
+            "en": "A lovely finish with views over the English Channel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die befestigte Oberstadt mit ihrer beeindruckenden Basilika und dem Schlossmuseum. Nach einem Abstieg zum geschäftigen Fischereihafen genießen Sie fangfrischen Fisch. Der Nachmittag gehört dem faszinierenden Meereszentrum Nausicaá, bevor der Tag entspannt am breiten Sandstrand ausklingt.",
+        "hu": "A délelőttöt az erődített felsővárosban töltjük, felfedezve a bazilikát és a várkastély múzeumát. A kikötőbe leereszkedve megkóstoljuk a friss fogást, majd délután elmerülünk a Nausicaá tengeri világában. A napot egy kellemes tengerparti sétával zárjuk a homokos fövenyen.",
+        "ro": "Dimineața este dedicată orașului de sus, fortificat, cu bazilica sa impunătoare și muzeul-castel. După o coborâre în portul de pescuit pentru un prânz proaspăt, după-amiaza este rezervată spectaculosului Nausicaá, terminând ziua cu o plimbare relaxantă pe plajă.",
+        "en": "Spend your morning in the fortified Upper Town exploring the basilica and the castle museum. Head down to the bustling fishing port for a fresh seafood lunch, then immerse yourself in the marine wonders of Nausicaá. End your day with a sunset stroll along the sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Matelote",
+            "tip": "Gehobene Küche mit frischem Fisch direkt am Hafen."
+          },
+          {
+            "name": "Gainée Boulonnaise",
+            "tip": "Traditioneller Fischeintopf mit Sahne und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Matelote",
+            "tip": "Kiváló tengeri ételek közvetlenül a kikötő mellett."
+          },
+          {
+            "name": "Gainée Boulonnaise",
+            "tip": "Hagyományos tejszínes-zöldséges halragu."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Matelote",
+            "tip": "Bucătărie rafinată cu pește proaspăt chiar lângă port."
+          },
+          {
+            "name": "Gainée Boulonnaise",
+            "tip": "Tocăniță tradițională de pește cu smântână și legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Matelote",
+            "tip": "Upscale dining featuring fresh catch right by the harbor."
+          },
+          {
+            "name": "Gainée Boulonnaise",
+            "tip": "Traditional fish stew with cream and vegetables."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauern",
+            "tip": "Ein ruhiger Rundgang um die Altstadt.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Gärten der Basilika",
+            "tip": "Stille Oase hinter der Kathedrale.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfalak",
+            "tip": "Csendes séta az óváros körül.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Bazilika kertje",
+            "tip": "Nyugodt oázis a katedrális mögött.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile cetății",
+            "tip": "O plimbare liniștită în jurul orașului vechi.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Grădinile Bazilicii",
+            "tip": "Oază de liniște în spatele catedralei.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Ramparts",
+            "tip": "A quiet circuit around the old town.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Basilica Gardens",
+            "tip": "Quiet oasis behind the cathedral.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place Dalton Markt",
+            "tip": "Lokaler Markt für Käse und regionale Produkte (Mi & Sa)."
+          },
+          {
+            "name": "Rue de Lille",
+            "tip": "Hübsche Gasse mit Kunsthandwerk und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Dalton piac",
+            "tip": "Helyi piac sajtokkal és regionális termékekkel (Sze és Szo)."
+          },
+          {
+            "name": "Rue de Lille",
+            "tip": "Hangulatos utca kézműves termékekkel és szuvenírekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Dalton",
+            "tip": "Piață locală pentru brânzeturi și produse regionale (Mie și Sâm)."
+          },
+          {
+            "name": "Rue de Lille",
+            "tip": "Stradă pitorească cu artizanat și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Dalton Market",
+            "tip": "Local market for cheeses and regional produce (Wed & Sat)."
+          },
+          {
+            "name": "Rue de Lille",
+            "tip": "Charming street with local crafts and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Oberstadt ist steil, tragen Sie bequeme Schuhe.",
+          "Nausicaá ist am Wochenende oft voll, buchen Sie Tickets vorab.",
+          "Frischer Fisch wird morgens direkt am Kai verkauft.",
+          "Kombinieren Sie den Besuch der Krypta mit der Basilika."
+        ],
+        "hu": [
+          "A felsőváros meredek, viseljen kényelmes cipőt.",
+          "A Nausicaá hétvégén zsúfolt, foglaljon jegyet előre.",
+          "A friss halat reggelente közvetlenül a rakparton árulják.",
+          "A kripta látogatását érdemes a bazilikával összekötni."
+        ],
+        "ro": [
+          "Orașul de sus este abrupt, purtați încălțăminte confortabilă.",
+          "Nausicaá este aglomerat în weekend, rezervați bilete în avans.",
+          "Peștele proaspăt se vinde dimineața direct pe chei.",
+          "Combinați vizita criptei cu cea a bazilicii."
+        ],
+        "en": [
+          "The Upper Town is steep, wear comfortable walking shoes.",
+          "Nausicaá is busy on weekends, book your tickets in advance.",
+          "Fresh fish is sold directly on the quayside in the mornings.",
+          "Make sure to include the crypt when visiting the basilica."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Ville Haute",
+          "coords": [
+            1.614,
+            50.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster der Altstadt.",
+            "hu": "Óvatosan tekerjen az óváros macskaköves utcáin.",
+            "ro": "Pedalați cu atenție pe piatra cubică din centrul vechi.",
+            "en": "Cycle carefully on the cobblestones of the old town."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame",
+          "coords": [
+            1.617,
+            50.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad am Eingang sicher an.",
+            "hu": "Zárja le biztonságosan a kerékpárját a bejáratnál.",
+            "ro": "Asigurați-vă bicicleta la intrare.",
+            "en": "Secure your bike properly near the entrance."
+          }
+        },
+        {
+          "name": "Colonne de la Grande Armée",
+          "coords": [
+            1.618,
+            50.741
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Anstieg zur Statue von Napoleon.",
+            "hu": "Kellemes emelkedő Napóleon szobráig.",
+            "ro": "O urcare frumoasă până la statuia lui Napoleon.",
+            "en": "A scenic uphill ride to Napoleon's statue."
+          }
+        },
+        {
+          "name": "Port de Pêche",
+          "coords": [
+            1.597,
+            50.725
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt entlang der Kais.",
+            "hu": "Élvezze a tekerést a rakpartok mentén.",
+            "ro": "Bucurați-vă de plimbarea de-a lungul cheiurilor.",
+            "en": "Enjoy the breezy ride along the quaysides."
+          }
+        },
+        {
+          "name": "Nausicaá",
+          "coords": [
+            1.594,
+            50.731
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Es gibt spezielle Fahrradparkplätze vor dem Zentrum.",
+            "hu": "Külön kerékpárparkolók vannak a központ előtt.",
+            "ro": "Există parcări speciale pentru biciclete în fața centrului.",
+            "en": "There are dedicated bike parking spots in front of the center."
+          }
+        },
+        {
+          "name": "Plage de Boulogne",
+          "coords": [
+            1.591,
+            50.733
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem Radweg direkt an der Küste.",
+            "hu": "Tekerjen a közvetlenül a parton futó kerékpárúton.",
+            "ro": "Pedalați pe pista de biciclete de pe coastă.",
+            "en": "Ride on the cycle path right along the coast."
+          }
+        },
+        {
+          "name": "Ville Haute (Rückkehr)",
+          "coords": [
+            1.614,
+            50.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Ein letzter Anstieg zurück in die Altstadt.",
+            "hu": "Egy utolsó emelkedő vissza az óvárosba.",
+            "ro": "O ultimă urcare înapoi în orașul vechi.",
+            "en": "One final climb back to the old town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet die historische Oberstadt mit der Küste. Nach der Besichtigung der Basilika radeln Sie zur Napoleon-Säule für ein Panorama. Dann geht es hinunter zum Hafen und nach Nausicaá. Die Rückfahrt führt entlang der Strandpromenade zurück zu den Mauern der Altstadt.",
+        "hu": "Ez a túra összeköti a történelmi felsővárost a tengerparttal. A bazilika után a Napóleon-oszlophoz tekerünk a panorámáért, majd le a kikötőbe és a Nausicaá-hoz. A visszaút a tengerparti sétányon vezet, egészen az óváros falaiig.",
+        "ro": "Acest tur face legătura între orașul istoric de sus și coastă. După bazilică, pedalați spre Coloana lui Napoleon pentru panoramă, apoi coborâți în port și la Nausicaá. Drumul de întoarcere urmează faleza până la zidurile cetății.",
+        "en": "This bike tour links the historic Upper Town with the coast. After visiting the basilica, ride out to Napoleon's Column for a panorama, then head down to the port and Nausicaá. The return leg follows the coastal promenade back to the old town ramparts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Chatillon",
+            "tip": "Rustikales Restaurant im Fischereihafen, beliebt bei Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Chatillon",
+            "tip": "Rusztikus étterem a halászkikötőben, a helyiek kedvence."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Chatillon",
+            "tip": "Restaurant rustic în portul de pescuit, preferat de localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Chatillon",
+            "tip": "Rustic restaurant in the fishing port, popular with locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg zur Colonne",
+            "tip": "Ruhiger, grüner Weg weg vom Zentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oszlophoz vezető út",
+            "tip": "Csendes, zöld útvonal távol a központtól.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Coloană",
+            "tip": "Traseu verde și liniștit departe de centru.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to the Column",
+            "tip": "Quiet, green path away from the city bustle.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Direkt am Quai Gambetta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Közvetlenül a Quai Gambetta rakparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Chiar pe Quai Gambetta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Located directly on Quai Gambetta."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt einige steile Abschnitte zwischen Hafen und Oberstadt.",
+          "Nutzen Sie die Radwege entlang der Liane.",
+          "Prüfen Sie den Wind am Deich."
+        ],
+        "hu": [
+          "Vannak meredek szakaszok a kikötő és a felsőváros között.",
+          "Használja a Liane-folyó menti kerékpárutakat.",
+          "Ellenőrizze a szelet a gátnál."
+        ],
+        "ro": [
+          "Există câteva secțiuni abrupte între port și orașul de sus.",
+          "Folosiți pistele de biciclete de-a lungul râului Liane.",
+          "Verificați vântul pe dig."
+        ],
+        "en": [
+          "There are some steep sections between the harbor and the Upper Town.",
+          "Use the cycle paths along the Liane river.",
+          "Check the wind conditions on the breakwater."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Ville Haute (Cluster A)",
+          "coords": [
+            1.614,
+            50.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem 'Enclos de l'Évêché'.",
+            "hu": "Parkoljon az 'Enclos de l'Évêché' parkolóban.",
+            "ro": "Parcați la 'Enclos de l'Évêché'.",
+            "en": "Park at the 'Enclos de l'Évêché' parking lot."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame (Cluster A)",
+          "coords": [
+            1.617,
+            50.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walking distance from your parked car."
+          }
+        },
+        {
+          "name": "Château-Musée (Cluster A)",
+          "coords": [
+            1.619,
+            50.726
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang der Mauern dorthin.",
+            "hu": "Szép séta a falak mentén odáig.",
+            "ro": "O plimbare frumoasă pe ziduri până acolo.",
+            "en": "A scenic walk along the ramparts to get here."
+          }
+        },
+        {
+          "name": "Colonne de la Grande Armée",
+          "coords": [
+            1.618,
+            50.741
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vor Ort.",
+            "hu": "Nagy ingyenes parkoló a helyszínen.",
+            "ro": "Parcare mare gratuită la fața locului.",
+            "en": "Large free parking lot available on site."
+          }
+        },
+        {
+          "name": "Port de Pêche (Cluster B)",
+          "coords": [
+            1.597,
+            50.725
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Quai Gambetta für das Mittagessen.",
+            "hu": "Parkoljon a Quai Gambetta mentén az ebédhez.",
+            "ro": "Parcați pe Quai Gambetta pentru prânz.",
+            "en": "Park along Quai Gambetta for your seafood lunch."
+          }
+        },
+        {
+          "name": "Nausicaá (Cluster B)",
+          "coords": [
+            1.594,
+            50.731
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Großes Parkhaus direkt unter dem Zentrum.",
+            "hu": "Nagy parkolóház közvetlenül a központ alatt.",
+            "ro": "Parcare subterană mare chiar sub centru.",
+            "en": "Large parking garage located directly under the center."
+          }
+        },
+        {
+          "name": "Plage de Boulogne (Cluster B)",
+          "coords": [
+            1.591,
+            50.733
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von Nausicaá zum Strand.",
+            "hu": "Rövid séta a Nausicaá-tól a strandig.",
+            "ro": "Scurtă plimbare de la Nausicaá la plajă.",
+            "en": "Short walk from Nausicaá to the beach."
+          }
+        },
+        {
+          "name": "Wimereux (Bonustrip)",
+          "coords": [
+            1.611,
+            50.768
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen charmanten Badeort in der Nachbarschaft.",
+            "hu": "Látogassa meg ezt a bájos szomszédos fürdővárost.",
+            "ro": "Vizitați această stațiune fermecătoare din vecinătate.",
+            "en": "Visit this charming nearby seaside resort town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Stadtteile. Beginnen Sie in der historischen Oberstadt, fahren Sie dann zur Napoleon-Säule für den Ausblick. Das Mittagessen genießen Sie am Hafen, bevor Sie den Nachmittag in Nausicaá verbringen. Ein kurzer Trip ins benachbarte Wimereux krönt den Tag.",
+        "hu": "Autóval kényelmesen elérhetők a különböző városrészek. Kezdjen a történelmi felsővárosban, majd hajtson a Napóleon-oszlophoz a kilátásért. Az ebédet a kikötőben élvezheti, a délutánt pedig a Nausicaá-ban töltheti. A napot a szomszédos Wimereux-be tett rövid kirándulás koronázza meg.",
+        "ro": "Cu mașina puteți ajunge ușor în diferitele părți ale orașului. Începeți în orașul istoric de sus, apoi mergeți la Coloana lui Napoleon pentru priveliște. Savurați prânzul în port, înainte de a petrece după-amiaza la Nausicaá. O scurtă excursie în stațiunea vecină Wimereux încheie ziua.",
+        "en": "By car, you can easily access the city's distinct areas. Start in the historic Upper Town, then drive to Napoleon's Column for the view. Enjoy lunch at the port before spending the afternoon at Nausicaá. A short bonus trip to nearby Wimereux rounds off the day perfectly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Îlot Vert",
+            "tip": "Schickes Restaurant in der Altstadt (Oberstadt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Îlot Vert",
+            "tip": "Elegáns étterem az óvárosban (felsőváros)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Îlot Vert",
+            "tip": "Restaurant elegant în centrul vechi (orașul de sus)."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Îlot Vert",
+            "tip": "Sophisticated dining in the heart of the Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wimereux Promenade",
+            "tip": "Ruhiger Spaziergang am Meer nach dem Trubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wimereux sétány",
+            "tip": "Csendes tengerparti séta a nyüzsgés után.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza din Wimereux",
+            "tip": "Plimbare liniștită pe malul mării după agitație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wimereux Promenade",
+            "tip": "Quiet seaside stroll away from the main city buzz.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Capécure",
+            "tip": "Großhandelsviertel für Fischprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Capécure",
+            "tip": "Haltermékek nagykereskedelmi negyede."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capécure",
+            "tip": "Cartierul en-gros pentru produse din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Capécure",
+            "tip": "Wholesale district for local seafood products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze in der Unterstadt sind im Sommer knapp.",
+          "Die Straße entlang der Küste nach Wimereux bietet tolle Ausblicke.",
+          "In der Oberstadt ist Parken oft kostenpflichtig."
+        ],
+        "hu": [
+          "Az alsóvárosi parkolók nyáron hamar megtelnek.",
+          "A Wimereux-be vezető tengerparti út remek kilátást nyújt.",
+          "A felsővárosban a parkolás gyakran fizetős."
+        ],
+        "ro": [
+          "Parcările din orașul de jos sunt limitate în timpul verii.",
+          "Drumul de coastă spre Wimereux oferă vederi superbe.",
+          "În orașul de sus, parcarea este adesea cu plată."
+        ],
+        "en": [
+          "Parking in the lower town can be scarce during summer.",
+          "The coastal road to Wimereux offers great scenic views.",
+          "Parking in the Upper Town is usually metered."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ville Haute (District A)",
+          "coords": [
+            1.614,
+            50.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie A oder F vom Bahnhof.",
+            "hu": "Használja az A vagy F buszvonalat a vasútállomástól.",
+            "ro": "Luați linia A sau F de la gară.",
+            "en": "Take bus line A or F from the train station."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame (District A)",
+          "coords": [
+            1.617,
+            50.726
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß innerhalb der Stadtmauern.",
+            "hu": "Gyalogosan a városfalakon belül.",
+            "ro": "Pe jos în interiorul zidurilor cetății.",
+            "en": "Short walk within the city walls."
+          }
+        },
+        {
+          "name": "Port de Pêche (District B)",
+          "coords": [
+            1.597,
+            50.725
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie F verbindet Ober- und Unterstadt.",
+            "hu": "Az F buszvonal köti össze a felső- és alsóvárost.",
+            "ro": "Linia de autobuz F leagă orașul de sus de cel de jos.",
+            "en": "Bus line F connects the Upper and Lower town."
+          }
+        },
+        {
+          "name": "Nausicaá (District B)",
+          "coords": [
+            1.594,
+            50.731
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 160,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Haltestelle 'Nausicaá' direkt vor dem Eingang.",
+            "hu": "'Nausicaá' megálló közvetlenül a bejárat előtt.",
+            "ro": "Stația 'Nausicaá' chiar în fața intrării.",
+            "en": "Stop 'Nausicaá' is right in front of the entrance."
+          }
+        },
+        {
+          "name": "Plage de Boulogne (District B)",
+          "coords": [
+            1.591,
+            50.733
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß von Nausicaá erreichbar.",
+            "hu": "Gyalogosan elérhető a Nausicaá-tól.",
+            "ro": "Accesibil pe jos de la Nausicaá.",
+            "en": "Easy walk from Nausicaá museum."
+          }
+        },
+        {
+          "name": "Ville Haute (Rückkehr)",
+          "coords": [
+            1.614,
+            50.725
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus zurück ins Zentrum.",
+            "hu": "Menjen vissza busszal a központba.",
+            "ro": "Luați autobuzul înapoi spre centru.",
+            "en": "Take the bus back to the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das städtische Bussystem, um mühelos zwischen der historischen Oberstadt und dem Hafenviertel zu pendeln. Vormittags Geschichte in der Altstadt, mittags Fisch am Hafen und nachmittags die Weltmeere in Nausicaá erleben, bevor es mit dem Bus zurückgeht.",
+        "hu": "Használja a városi buszhálózatot a történelmi felsőváros és a kikötő közötti ingázáshoz. Délelőtt történelem az óvárosban, délben hal a kikötőben, délután pedig a Nausicaá tengeri világa várja, mielőtt busszal visszatérne.",
+        "ro": "Utilizați sistemul local de autobuze pentru a pendula ușor între orașul istoric de sus și zona portului. Dimineața istorie în centrul vechi, la prânz pește în port, iar după-amiaza vizită la Nausicaá, înainte de a reveni cu autobuzul.",
+        "en": "Use the local bus network to effortlessly travel between the historic Upper Town and the harbor area. Spend your morning with history in the old town, enjoy fresh seafood at noon, and explore marine life at Nausicaá in the afternoon before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Industrie",
+            "tip": "Gute Brasserie am Quai Gambetta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Industrie",
+            "tip": "Kiváló söröző a Quai Gambetta mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Industrie",
+            "tip": "Braserie excelentă pe Quai Gambetta."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Industrie",
+            "tip": "Great brasserie located on Quai Gambetta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Palais",
+            "tip": "Kleiner Park in der Nähe des Rathauses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Palais",
+            "tip": "Kis park a városháza közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Palais",
+            "tip": "Parc mic lângă primărie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Palais",
+            "tip": "Small park near the City Hall.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulangerie-Pâtisserie",
+            "tip": "Probieren Sie den lokalen 'Plum pudding'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek",
+            "tip": "Kóstolja meg a helyi 'Plum pudding' süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării",
+            "tip": "Încercați produsul local 'Plum pudding'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "Try the local 'Plum pudding' specialty."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Fahrer.",
+          "Die Busse fahren regelmäßig zwischen Hafen und Oberstadt.",
+          "Achten Sie auf die Fahrpläne am Wochenende."
+        ],
+        "hu": [
+          "Vásároljon napijegyet közvetlenül a sofőrnél.",
+          "A buszok rendszeresen járnak a kikötő és a felsőváros között.",
+          "Hétvégén figyeljen a menetrendre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer.",
+          "Autobuzele circulă regulat între port și orașul de sus.",
+          "Verificați orarul autobuzelor în weekend."
+        ],
+        "en": [
+          "Buy a day pass directly from the bus driver.",
+          "Buses run frequently between the port and the Upper Town.",
+          "Be mindful of the reduced weekend schedules."
+        ]
+      }
+    }
+  }
+}

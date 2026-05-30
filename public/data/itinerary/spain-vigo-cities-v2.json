@@ -1,0 +1,1029 @@
+{
+  "city_id": "spain-vigo-cities-v2",
+  "anchor": {
+    "name": "Vigo",
+    "coords": [
+      -8.7207,
+      42.2406
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Casco Vello",
+            "hu": "Casco Vello óváros",
+            "ro": "Orașul Vechi Casco Vello",
+            "en": "Casco Vello Old Town"
+          },
+          "coords": [
+            -8.7258,
+            42.2401
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Praza da Constitución für einen morgendlichen Kaffee.",
+            "hu": "Igyon meg egy reggeli kávét a Praza da Constitución téren.",
+            "ro": "Vizitați Praza da Constitución pentru o cafea de dimineață.",
+            "en": "Visit Praza da Constitución for a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Konkathedrale Santa María",
+            "hu": "Santa María társszékesegyház",
+            "ro": "Concatedrala Santa María",
+            "en": "Concatedral de Santa María"
+          },
+          "coords": [
+            -8.7271,
+            42.2405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das neoklassizistische Altarbild im Inneren.",
+            "hu": "Csodálja meg a belső neoklasszicista oltárképet.",
+            "ro": "Admirați altarul neoclasic din interior.",
+            "en": "Admire the neoclassical altarpiece inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de la Piedra",
+            "hu": "Kőpiac (Mercado de la Piedra)",
+            "ro": "Mercado de la Piedra",
+            "en": "Mercado de la Piedra"
+          },
+          "coords": [
+            -8.7265,
+            42.2392
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Austern direkt am Straßenrand.",
+            "hu": "Kóstoljon friss osztrigát közvetlenül az utcai árusoknál.",
+            "ro": "Gustați stridii proaspete direct de la tarabele de pe stradă.",
+            "en": "Try fresh oysters directly from the street stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "MARCO Museum",
+            "hu": "MARCO Kortárs Művészeti Múzeum",
+            "ro": "Muzeul MARCO",
+            "en": "MARCO Museum"
+          },
+          "coords": [
+            -8.7225,
+            42.2358
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Gebäude war früher ein Gefängnis und Gerichtshof.",
+            "hu": "Az épület korábban börtönként és bíróságként funkcionált.",
+            "ro": "Clădirea a fost anterior o închisoare și un tribunal.",
+            "en": "The building was formerly a prison and courthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Castro",
+            "hu": "Castro-park",
+            "ro": "Parcul Castro",
+            "en": "Parque del Castro"
+          },
+          "coords": [
+            -8.7245,
+            42.2325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf den Hafen und die Ría de Vigo.",
+            "hu": "A legjobb panoráma a kikötőre és a Vigo-öbölre.",
+            "ro": "Cea mai bună vedere panoramică asupra portului și Ría de Vigo.",
+            "en": "Best panoramic view of the harbor and the Ría de Vigo."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo Marítimo",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada Maritimă",
+            "en": "Maritime Promenade"
+          },
+          "coords": [
+            -8.7235,
+            42.2425
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Anlegen der großen Kreuzfahrtschiffe.",
+            "hu": "Nézze meg a kikötőbe érkező hatalmas óceánjárókat.",
+            "ro": "Urmăriți andocarea marilor nave de croazieră.",
+            "en": "Watch the docking of large cruise ships."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Granitlabyrinth des Casco Vello und besuchen die Kathedrale. Mittags probieren Sie die berühmten Austern am Kaimarkt. Der Nachmittag gehört der Kunst im MARCO und dem Aufstieg zum Castro-Hügel für die beste Aussicht. Den Tag lassen Sie bei einem Spaziergang am Yachthafen ausklingen.",
+        "hu": "Reggel fedezze fel a Casco Vello gránit labirintusát és látogasson el a katedrálishoz. Ebédidőben kóstolja meg a híres osztrigákat a piaci negyedben. A délután a MARCO művészetéé és a Castro-domb megmászásáé a kilátásért. Napját a jachtkikötő melletti sétával zárhatja.",
+        "ro": "Dimineața explorați labirintul de granit din Casco Vello și vizitați catedrala. La prânz, gustați faimoasele stridii în zona pieței. După-amiaza este dedicată artei la MARCO și urcării pe dealul Castro pentru cea mai bună priveliște. Încheiați ziua cu o plimbare pe lângă portul de iahturi.",
+        "en": "In the morning, explore the granite labyrinth of Casco Vello and visit the cathedral. At lunchtime, taste the famous oysters in the market area. The afternoon is dedicated to art at MARCO and the climb to Castro Hill for the view. End your day with a stroll by the marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Austern in der Rúa das Ostras",
+            "tip": "Frisch von den Bänken der Ría, serviert mit Zitrone."
+          },
+          {
+            "name": "Pulpo a feira",
+            "tip": "Galicischer Oktopus mit Olivenöl und Paprika."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osztriga a Rúa das Ostras utcában",
+            "tip": "Frissen az öbölből, citrommal tálalva."
+          },
+          {
+            "name": "Pulpo a feira",
+            "tip": "Galíciai polip olívaolajjal és pirospaprikával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii pe Rúa das Ostras",
+            "tip": "Proaspete din golf, servite cu lămâie."
+          },
+          {
+            "name": "Pulpo a feira",
+            "tip": "Caracatiță galiciană cu ulei de măsline și boia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oysters at Rúa das Ostras",
+            "tip": "Fresh from the bay, served with lemon."
+          },
+          {
+            "name": "Pulpo a feira",
+            "tip": "Galician octopus with olive oil and paprika."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirador de O Castro",
+            "tip": "Ruhiger Aussichtspunkt fernab vom Verkehr.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "O Castro kilátó",
+            "tip": "Csendes kilátópont távol a város zajától.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mirador de O Castro",
+            "tip": "Punct de observație liniștit, departe de trafic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "O Castro Viewpoint",
+            "tip": "Quiet lookout point away from the traffic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rúa do Príncipe",
+            "tip": "Haupteinkaufsstraße mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rúa do Príncipe",
+            "tip": "A fő bevásárlóutca ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rúa do Príncipe",
+            "tip": "Principala stradă comercială cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rúa do Príncipe",
+            "tip": "Main shopping street with famous brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vigo ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Die Austernfrauen verkaufen die Ware pro Dutzend.",
+          "Sonntags sind viele Museen kostenlos.",
+          "Die Altstadt ist abends besonders belebt."
+        ],
+        "hu": [
+          "Vigo dombos város, kényelmes cipő kötelező.",
+          "Az osztrigás asszonyok tucatjával árulják a portékát.",
+          "Vasárnaponként sok múzeum ingyenesen látogatható.",
+          "Az óváros este különösen életteli."
+        ],
+        "ro": [
+          "Vigo este deluros, purtați pantofi confortabili.",
+          "Femeile care vând stridii vând marfa la duzină.",
+          "Duminica multe muzee sunt gratuite.",
+          "Orașul vechi este deosebit de plin de viață seara."
+        ],
+        "en": [
+          "Vigo is very hilly, wear comfortable shoes.",
+          "The oyster women sell their goods by the dozen.",
+          "Many museums are free on Sundays.",
+          "The old town is particularly lively in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 16.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Vello",
+            "hu": "Casco Vello",
+            "ro": "Casco Vello",
+            "en": "Casco Vello"
+          },
+          "coords": [
+            -8.7258,
+            42.2401
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vorsicht in den engen Gassen.",
+            "hu": "Vigyázzon a szűk utcákban.",
+            "ro": "Atenție în străzile înguste.",
+            "en": "Be careful in the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Castrelos",
+            "hu": "Castrelos-palota",
+            "ro": "Pazo de Castrelos",
+            "en": "Pazo de Castrelos"
+          },
+          "coords": [
+            -8.7405,
+            42.2135
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die französischen und englischen Gärten.",
+            "hu": "Látogassa meg a francia és angol kerteket.",
+            "ro": "Vizitați grădinile franceze și engleze.",
+            "en": "Visit the French and English gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Samil",
+            "hu": "Samil-strand",
+            "ro": "Plaja Samil",
+            "en": "Playa de Samil"
+          },
+          "coords": [
+            -8.7755,
+            42.2155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Radweg entlang der Küste ist flach und sonnig.",
+            "hu": "A part menti kerékpárút sík és napsütötte.",
+            "ro": "Pista de biciclete de-a lungul coastei este plată și însorită.",
+            "en": "The bike path along the coast is flat and sunny."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouzas Viertel",
+            "hu": "Bouzas negyed",
+            "ro": "Cartierul Bouzas",
+            "en": "Bouzas District"
+          },
+          "coords": [
+            -8.7555,
+            42.2255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein altes Fischerdorf mit eigenem Charakter.",
+            "hu": "Régi halászfalu sajátos karakterrel.",
+            "ro": "Un vechi sat de pescari cu caracter propriu.",
+            "en": "An old fishing village with its own character."
+          }
+        },
+        {
+          "name": {
+            "de": "Port of Vigo",
+            "hu": "Vigo kikötője",
+            "ro": "Portul Vigo",
+            "en": "Port of Vigo"
+          },
+          "coords": [
+            -8.7235,
+            42.2425
+          ],
+          "category": "industry",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour am Hafen.",
+            "hu": "Zárja a túrát a kikötőben.",
+            "ro": "Încheiați turul la port.",
+            "en": "Finish the tour at the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie vom Zentrum landeinwärts zum eleganten Castrelos-Palast und dann entlang der Küste zum weitläufigen Samil-Strand. Genießen Sie die frische Meeresbrise in Bouzas, bevor Sie zum Hafen zurückkehren.",
+        "hu": "Ez a kerékpártúra a központból befelé visz az elegáns Castrelos-palotához, majd a part mentén a tágas Samil-strandhoz. Élvezze a friss tengeri szellőt Bouzasban, mielőtt visszatérne a kikötőbe.",
+        "ro": "Acest tur cu bicicleta vă poartă din centru spre interior la elegantul Palat Castrelos, apoi de-a lungul coastei spre vasta plajă Samil. Bucurați-vă de briza mării în Bouzas înainte de a vă întoarce în port.",
+        "en": "This bike tour takes you from the center inland to the elegant Castrelos Palace, then along the coast to the wide Samil Beach. Enjoy the fresh sea breeze in Bouzas before returning to the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Samil Strandbars",
+            "tip": "Perfekt für eine Erfrischung zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samil strandbárok",
+            "tip": "Tökéletes egy frissítőhöz a túra közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chiringuitos la Samil",
+            "tip": "Perfect pentru o răcorire în timpul turului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samil Beach Bars",
+            "tip": "Perfect for a refreshment during the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardines de Castrelos",
+            "tip": "Schattige Wege und Teiche.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castrelos-kertek",
+            "tip": "Árnyas utak és tavak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castrelos",
+            "tip": "Alei umbrite și iazuri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castrelos Gardens",
+            "tip": "Shady paths and ponds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bouzas Markt",
+            "tip": "Lokaler Markt (meist sonntags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouzas piac",
+            "tip": "Helyi piac (főleg vasárnap)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bouzas",
+            "tip": "Piață locală (mai ales duminica)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouzas Market",
+            "tip": "Local market (mostly on Sundays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für den Rückweg ins Zentrum.",
+          "Die Küstenstraße ist flach, aber die Stadt ist steil."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a központba való visszatéréshez.",
+          "A parti út sík, de a város meredek."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru întoarcerea în centru.",
+          "Drumul de coastă este plat, dar orașul este abrupt."
+        ],
+        "en": [
+          "Rent an e-bike for the return to the center.",
+          "The coastal road is flat, but the city is steep."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 28.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Vello (Parken)",
+            "hu": "Casco Vello",
+            "ro": "Casco Vello",
+            "en": "Casco Vello"
+          },
+          "coords": [
+            -8.7258,
+            42.2401
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Hafen.",
+            "hu": "Használja a kikötői parkolóházat.",
+            "ro": "Folosiți parcarea de la port.",
+            "en": "Use the parking garage at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercado de la Piedra",
+            "hu": "Mercado de la Piedra",
+            "ro": "Mercado de la Piedra",
+            "en": "Mercado de la Piedra"
+          },
+          "coords": [
+            -8.7265,
+            42.2392
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalog elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "MARCO Museum",
+            "hu": "MARCO",
+            "ro": "MARCO",
+            "en": "MARCO"
+          },
+          "coords": [
+            -8.7225,
+            42.2358
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Einkaufsstraße Príncipe.",
+            "hu": "Nagyon közel a Príncipe bevásárlóutcához.",
+            "ro": "Foarte aproape de strada comercială Príncipe.",
+            "en": "Very close to Príncipe shopping street."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Castro",
+            "hu": "Castro-park",
+            "ro": "Parcul Castro",
+            "en": "Parque del Castro"
+          },
+          "coords": [
+            -8.7245,
+            42.2325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie oben am Aussichtspunkt.",
+            "hu": "Parkoljon fent a kilátópontnál.",
+            "ro": "Parcați sus la punctul de observație.",
+            "en": "Park up at the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Castrelos",
+            "hu": "Castrelos-palota",
+            "ro": "Pazo de Castrelos",
+            "en": "Pazo de Castrelos"
+          },
+          "coords": [
+            -8.7405,
+            42.2135
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schlossmuseum und weitläufige Gärten.",
+            "hu": "Kastélymúzeum és hatalmas kertek.",
+            "ro": "Muzeul castelului și grădini vaste.",
+            "en": "Castle museum and vast gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Samil",
+            "hu": "Samil-strand",
+            "ro": "Plaja Samil",
+            "en": "Playa de Samil"
+          },
+          "coords": [
+            -8.7755,
+            42.2155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Große kostenlose Parkplätze direkt am Strand.",
+            "hu": "Nagy ingyenes parkolók közvetlenül a strandnál.",
+            "ro": "Parcări mari gratuite direct la plajă.",
+            "en": "Large free parking lots directly at the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente de Rande Mirador",
+            "hu": "Rande-híd kilátó",
+            "ro": "Mirador Puente de Rande",
+            "en": "Puente de Rande Viewpoint"
+          },
+          "coords": [
+            -8.6655,
+            42.2855
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ikonische Hängebrücke über die Ría.",
+            "hu": "Ikonikus függőhíd az öböl felett.",
+            "ro": "Pod suspendat iconic peste golf.",
+            "en": "Iconic suspension bridge over the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verstreuten Highlights von Vigo. Nach dem Altstadtbummel fahren Sie zum Pazo de Castrelos und weiter zum Samil-Strand. Ein Highlight zum Abschluss ist die Fahrt zum Aussichtspunkt der Rande-Brücke.",
+        "hu": "Autóval kényelmesen elérheti Vigo szétszórt látnivalóit. Az óvárosi séta után hajtson a Castrelos-palotához, majd tovább a Samil-strandra. Zárásként a Rande-híd kilátópontjához érdemes ellátogatni.",
+        "ro": "Cu mașina puteți ajunge ușor la atracțiile dispersate din Vigo. După plimbarea prin orașul vechi, conduceți la Palatul Castrelos și apoi la plaja Samil. În final, merită vizitat punctul de observație al podului Rande.",
+        "en": "By car, you can easily reach Vigo's scattered highlights. After the old town walk, drive to Pazo de Castrelos and then on to Samil Beach. To finish, a visit to the Rande Bridge viewpoint is highly recommended."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurante El Castillo",
+            "tip": "Traditionelle Küche mit Ausblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Castillo étterem",
+            "tip": "Hagyományos konyha kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante El Castillo",
+            "tip": "Bucătărie tradițională cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurante El Castillo",
+            "tip": "Traditional cuisine with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cíes Inseln Blick von Samil",
+            "tip": "Besonders schön bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cíes-szigetek látványa",
+            "tip": "Különösen szép naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre Insulele Cíes",
+            "tip": "Deosebit de frumos la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cíes Islands View from Samil",
+            "tip": "Especially beautiful at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centro Comercial A Laxe",
+            "tip": "Einkaufszentrum direkt am Hafen mit Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Laxe bevásárlóközpont",
+            "tip": "Közvetlenül a kikötőben, parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centro Comercial A Laxe",
+            "tip": "Centru comercial în port, cu parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "A Laxe Shopping Center",
+            "tip": "Right by the harbor with parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Rande-Brücke ist mautpflichtig (AP-9).",
+          "In der Innenstadt sind Parkhäuser die beste Wahl."
+        ],
+        "hu": [
+          "A Rande-híd fizetős (AP-9).",
+          "A belvárosban a parkolóházak a legjobb megoldások."
+        ],
+        "ro": [
+          "Podul Rande este cu taxă (AP-9).",
+          "În centrul orașului parcările subterane sunt cea mai bună alegere."
+        ],
+        "en": [
+          "The Rande Bridge is a toll road (AP-9).",
+          "Underground parking is the best choice in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casco Vello / Hafen",
+            "hu": "Casco Vello / Kikötő",
+            "ro": "Casco Vello / Port",
+            "en": "Casco Vello / Port"
+          },
+          "coords": [
+            -8.7258,
+            42.2401
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt für viele Buslinien (Vitrasa).",
+            "hu": "Számos buszvonal csomópontja (Vitrasa).",
+            "ro": "Nod central pentru multe linii de autobuz.",
+            "en": "Hub for many bus lines (Vitrasa)."
+          }
+        },
+        {
+          "name": {
+            "de": "MARCO Museum",
+            "hu": "MARCO",
+            "ro": "MARCO",
+            "en": "MARCO"
+          },
+          "coords": [
+            -8.7225,
+            42.2358
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Hafenviertel erreichbar.",
+            "hu": "Gyalog elérhető a kikötői negyedtől.",
+            "ro": "Accesibil pe jos din zona portului.",
+            "en": "Accessible on foot from the harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del Castro",
+            "hu": "Castro-park",
+            "ro": "Parcul Castro",
+            "en": "Parque del Castro"
+          },
+          "coords": [
+            -8.7245,
+            42.2325
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Fußweg bergauf.",
+            "hu": "Rövid séta felfelé.",
+            "ro": "O mică urcare pe jos.",
+            "en": "A short walk uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Samil",
+            "hu": "Samil-strand",
+            "ro": "Plaja Samil",
+            "en": "Playa de Samil"
+          },
+          "coords": [
+            -8.7755,
+            42.2155
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Linie L10 oder L15 bringen Sie direkt zum Strand.",
+            "hu": "Az L10 vagy L15 busz közvetlenül a strandra visz.",
+            "ro": "Liniile L10 sau L15 vă duc direct la plajă.",
+            "en": "Lines L10 or L15 take you directly to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Port of Vigo",
+            "hu": "Vigo kikötője",
+            "ro": "Portul Vigo",
+            "en": "Port of Vigo"
+          },
+          "coords": [
+            -8.7235,
+            42.2425
+          ],
+          "category": "port",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Rückkehr mit dem Bus ins Zentrum.",
+            "hu": "Visszatérés busszal a központba.",
+            "ro": "Întoarcere cu autobuzul în centru.",
+            "en": "Return by bus to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vigo ist gut durch das Vitrasa-Bussystem vernetzt. Starten Sie im Zentrum, erkunden Sie den Castro-Park und nehmen Sie dann den Bus zum Samil-Strand für einen entspannten Nachmittag am Meer.",
+        "hu": "Vigo jól lefedett a Vitrasa buszhálózattal. Kezdjen a központban, fedezze fel a Castro-parkot, majd pattanjon buszra a Samil-strand felé egy pihentető délutánért.",
+        "ro": "Vigo este bine conectat prin sistemul de autobuze Vitrasa. Începeți în centru, explorați Parcul Castro și apoi luați autobuzul spre plaja Samil pentru o după-amiază relaxantă.",
+        "en": "Vigo is well connected by the Vitrasa bus system. Start in the center, explore Castro Park, and then hop on a bus to Samil Beach for a relaxing afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tapería A Retranca",
+            "tip": "Hervorragende Tapas im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tapería A Retranca",
+            "tip": "Kiváló tapasok a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapería A Retranca",
+            "tip": "Tapas excelente în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tapería A Retranca",
+            "tip": "Excellent tapas in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paseo de Alfonso XII",
+            "tip": "Schöner Olivenbaum-Garten mit Aussicht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paseo de Alfonso XII",
+            "tip": "Szép olajfás kert kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paseo de Alfonso XII",
+            "tip": "Grădină frumoasă cu măslini și vedere.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paseo de Alfonso XII",
+            "tip": "Beautiful olive tree garden with a view.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Großes Warenhaus im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Nagy áruház a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Magazin mare în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "El Corte Inglés",
+            "tip": "Large department store in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine PassVigo-Karte für günstigere Fahrten.",
+          "Die Busse fahren sehr häufig zum Strand."
+        ],
+        "hu": [
+          "Vásároljon PassVigo kártyát az olcsóbb utazáshoz.",
+          "A buszok gyakran járnak a strandra."
+        ],
+        "ro": [
+          "Cumpărați un card PassVigo pentru călătorii mai ieftine.",
+          "Autobuzele circulă foarte des spre plajă."
+        ],
+        "en": [
+          "Buy a PassVigo card for cheaper rides.",
+          "Buses run very frequently to the beach."
+        ]
+      }
+    }
+  }
+}

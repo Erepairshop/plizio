@@ -1,0 +1,999 @@
+{
+  "city_id": "fr-le-mans",
+  "anchor": {
+    "name": "Cité Plantagenêt",
+    "coords": [
+      0.1986,
+      48.0061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cité Plantagenêt",
+            "hu": "Cité Plantagenêt",
+            "ro": "Cité Plantagenêt",
+            "en": "Cité Plantagenêt"
+          },
+          "coords": [
+            0.197,
+            48.008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die bunten Türen und gepflasterten Gassen.",
+            "hu": "Figyeld a színes ajtókat és a középkori macskaköves utcákat.",
+            "ro": "Admirați ușile colorate și străzile medievale pietruite.",
+            "en": "Look for the colorful doors and medieval cobbled alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-römische Stadtmauer",
+            "hu": "Gallo-római városfal",
+            "ro": "Zidul galo-roman",
+            "en": "Gallo-Roman Walls"
+          },
+          "coords": [
+            0.1965,
+            48.009
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine der am besten erhaltenen römischen Mauern Europas.",
+            "hu": "Európa egyik legjobb állapotban megmaradt római fala.",
+            "ro": "Unul dintre cele mai bine conservate ziduri romane din Europa.",
+            "en": "One of the best-preserved Roman walls in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Julien",
+            "hu": "Szent Julián-székesegyház",
+            "ro": "Catedrala Saint-Julien",
+            "en": "Saint-Julien Cathedral"
+          },
+          "coords": [
+            0.1994,
+            48.0094
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Glasmalereien im Chor.",
+            "hu": "Csodáld meg a kórus lenyűgöző üvegablakait.",
+            "ro": "Admirați vitraliile magnifice din corul catedralei.",
+            "en": "Admire the magnificent stained glass in the choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré Plantagenêt",
+            "hu": "Carré Plantagenêt Múzeum",
+            "ro": "Muzeul Carré Plantagenêt",
+            "en": "Carré Plantagenêt Museum"
+          },
+          "coords": [
+            0.198,
+            48.0075
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Archäologie von Le Mans.",
+            "hu": "Merülj el Le Mans régészeti múltjában.",
+            "ro": "Explorați istoria arheologică a orașului Le Mans.",
+            "en": "Dive into the archaeological history of Le Mans."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Tessé",
+            "hu": "Tessé Múzeum",
+            "ro": "Muzeul de Tessé",
+            "en": "Musée de Tessé"
+          },
+          "coords": [
+            0.202,
+            48.013
+          ],
+          "category": "museums",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ägyptische Abteilung im Untergeschoss.",
+            "hu": "Nézd meg az egyiptomi gyűjteményt az alagsorban.",
+            "ro": "Vizitați secțiunea egipteană de la subsol.",
+            "en": "Visit the Egyptian department in the basement."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir die Cité Plantagenêt, ein Labyrinth aus Fachwerkhäusern und Renaissance-Palästen. Danach bestaunen wir die beeindruckende römische Stadtmauer und die gotische Kathedrale. Nach einer Mittagspause mit lokalen Rillettes widmen wir uns der Geschichte im Carré Plantagenêt und beenden den Tag im Musée de Tessé, bekannt für seine Kunstsammlungen und ägyptischen Schätze.",
+        "hu": "Reggel a Cité Plantagenêt labirintusszerű utcáit járjuk be, ahol gerendavázas házak és reneszánsz paloták várnak. Ezután megcsodáljuk a római városfalat és a gótikus katedrálist. Egy helyi rillettes-ebéd után a Carré Plantagenêt-ben kutatjuk a múltat, végül a Tessé Múzeum művészeti gyűjteményeivel és egyiptomi kincseivel zárjuk a napot.",
+        "ro": "Dimineața explorăm Cité Plantagenêt, un labirint de case cu bârne de lemn și palate renascentiste. Apoi admirăm impresionantul zid roman și catedrala gotică. După un prânz cu rillettes locale, ne dedicăm istoriei la Carré Plantagenêt și încheiem ziua la Muzeul de Tessé, faimos pentru colecțiile sale de artă și comorile egiptene.",
+        "en": "In the morning, we explore the Cité Plantagenêt, a labyrinth of half-timbered houses and Renaissance palaces. Next, we marvel at the impressive Roman walls and the Gothic cathedral. After a lunch break featuring local rillettes, we delve into history at Carré Plantagenêt and end the day at the Musée de Tessé, known for its art collections and Egyptian treasures."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rillettes du Mans",
+            "tip": "Grob gehacktes, im eigenen Saft gegartes Schweinefleisch."
+          },
+          {
+            "name": "Auberge des 7 Plats",
+            "tip": "Traditionelle Küche im Herzen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rillettes du Mans",
+            "tip": "Helyi sertéshús-pástétom, amit friss kenyérrel esznek."
+          },
+          {
+            "name": "Auberge des 7 Plats",
+            "tip": "Hagyományos konyha az óváros szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rillettes du Mans",
+            "tip": "Pastă de porc gătită în suc propriu, servită pe pâine."
+          },
+          {
+            "name": "Auberge des 7 Plats",
+            "tip": "Bucătărie tradițională în inima centrului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rillettes du Mans",
+            "tip": "Slow-cooked shredded pork pate, a local staple."
+          },
+          {
+            "name": "Auberge des 7 Plats",
+            "tip": "Traditional French cuisine in the old town heart."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ein prächtiger Park für eine ruhige Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sarthe-Ufer",
+            "tip": "Spaziergang entlang des Flusses bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Gyönyörű növénykert egy csendes pihenőhöz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sarthe-part",
+            "tip": "Séta a folyó mentén naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "O grădină botanică superbă pentru o pauză liniștită.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul râului Sarthe",
+            "tip": "Plimbare relaxantă la apus de soare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "A beautiful botanical garden for a quiet break.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sarthe River Banks",
+            "tip": "Relaxing walk by the river at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue des Minimes",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          },
+          {
+            "name": "Marché des Jacobins",
+            "tip": "Lokale Produkte am Fuße der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue des Minimes",
+            "tip": "A város fő bevásárlóutcája."
+          },
+          {
+            "name": "Marché des Jacobins",
+            "tip": "Helyi termelői piac a székesegyház lábánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue des Minimes",
+            "tip": "Principala stradă comercială a orașului."
+          },
+          {
+            "name": "Piața Jacobins",
+            "tip": "Produse locale la poalele catedralei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue des Minimes",
+            "tip": "The main shopping street in Le Mans."
+          },
+          {
+            "name": "Jacobins Market",
+            "tip": "Local produce market near the cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Die Kathedrale ist mittags oft für eine kurze Pause geschlossen.",
+          "Im Sommer gibt es abends oft Lichtshows (La Nuit des Chimères).",
+          "Probieren Sie unbedingt die echten Rillettes beim Metzger."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt az óvárosi macskakő miatt.",
+          "A katedrális délben néha zárva tart egy rövid időre.",
+          "Nyáron este látványos fényfestést (La Nuit des Chimères) láthatsz.",
+          "Mindenképpen kóstold meg az igazi rillettes-t egy hentesnél."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru piatra cubică din centrul vechi.",
+          "Catedrala poate fi închisă scurt timp la amiază.",
+          "Vara, seara au loc spectacole de lumini (La Nuit des Chimères).",
+          "Nu ratați rillettes autentice de la o măcelărie locală."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones in the old town.",
+          "The cathedral might close briefly during midday.",
+          "In summer, look out for the evening light shows (La Nuit des Chimères).",
+          "Be sure to try authentic rillettes from a local butcher."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 16.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cité Plantagenêt",
+            "hu": "Cité Plantagenêt",
+            "ro": "Cité Plantagenêt",
+            "en": "Cité Plantagenêt"
+          },
+          "coords": [
+            0.197,
+            48.008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vorsicht beim Radfahren auf dem Kopfsteinpflaster.",
+            "hu": "Vigyázz a biciklivel a macskaköves utakon.",
+            "ro": "Atenție la bicicletă pe străzile pietruite.",
+            "en": "Be careful cycling on the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Julien",
+            "hu": "Szent Julián-székesegyház",
+            "ro": "Catedrala Saint-Julien",
+            "en": "Saint-Julien Cathedral"
+          },
+          "coords": [
+            0.1994,
+            48.0094
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad am Place du Jet d'Eau ab.",
+            "hu": "Zárd le a biciklit a Place du Jet d'Eau-nál.",
+            "ro": "Încuiați bicicleta în Place du Jet d'Eau.",
+            "en": "Lock your bike at Place du Jet d'Eau."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Tessé",
+            "hu": "Tessé Múzeum",
+            "ro": "Muzeul de Tessé",
+            "en": "Musée de Tessé"
+          },
+          "coords": [
+            0.202,
+            48.013
+          ],
+          "category": "museums",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den angrenzenden Park.",
+            "hu": "Látogasd meg a szomszédos parkot is.",
+            "ro": "Vizitați parcul de lângă muzeu.",
+            "en": "Visit the adjacent park after the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye de l'Épau",
+            "hu": "Épau-apátság",
+            "ro": "Abația de l'Épau",
+            "en": "Abbaye de l'Épau"
+          },
+          "coords": [
+            0.243,
+            47.99
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Weg entlang des Flusses Huisne.",
+            "hu": "Gyönyörű út a Huisne folyó mentén.",
+            "ro": "Drum frumos de-a lungul râului Huisne.",
+            "en": "Beautiful path along the Huisne river."
+          }
+        },
+        {
+          "name": {
+            "de": "Circuit des 24 Heures",
+            "hu": "Le Mans-i versenypálya",
+            "ro": "Circuitul de 24 de ore",
+            "en": "Circuit des 24 Heures"
+          },
+          "coords": [
+            0.21,
+            47.955
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum der 24 Stunden.",
+            "hu": "Nézd meg a 24 órás verseny múzeumát.",
+            "ro": "Vizitați Muzeul celor 24 de ore.",
+            "en": "Visit the Museum of the 24 Hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour verbindet das historische Erbe mit der Leidenschaft für den Motorsport. Wir starten im Zentrum, fahren dann nach Osten zur beeindruckenden Abbaye de l'Épau und schließlich nach Süden zum legendären Circuit des 24 Heures. Eine abwechslungsreiche Fahrt durch Stadt und Natur.",
+        "hu": "Ez a túra ötvözi a történelmi örökséget és az autóversenyzés iránti szenvedélyt. A központból indulva keletre tekerünk a lenyűgöző Épau-apátsághoz, majd délre a legendás 24 órás versenypályához. Változatos út a városon és a természeten keresztül.",
+        "ro": "Acest tur combină moștenirea istorică cu pasiunea pentru sporturile cu motor. Pornim din centru, pedalăm spre est către Abația de l'Épau, apoi spre sud către legendarul circuit de 24 de ore. O cursă variată prin oraș și natură.",
+        "en": "This tour combines historical heritage with a passion for motorsport. Starting from the center, we cycle east to the impressive Abbaye de l'Épau and then south to the legendary 24 Hours Circuit. A varied ride through the city and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Distillerie du Maine",
+            "tip": "Lokale Spirituosen und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Distillerie du Maine",
+            "tip": "Helyi italok és falatok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Distillerie du Maine",
+            "tip": "Băuturi locale și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Distillerie du Maine",
+            "tip": "Local spirits and snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Boulevard de la Nature",
+            "tip": "Grüner Radweg um die Stadt.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulevard de la Nature",
+            "tip": "Zöld kerékpárút a város körül.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulevard de la Nature",
+            "tip": "Pistă verde de biciclete în jurul orașului.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulevard de la Nature",
+            "tip": "Green cycling path around the city.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Circuit",
+            "tip": "Offizielle Rennsport-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du Circuit",
+            "tip": "Hivatalos autóverseny-ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Circuit",
+            "tip": "Suveniruri oficiale de curse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du Circuit",
+            "tip": "Official racing souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den 'Boulevard de la Nature' für sicheres Radfahren.",
+          "Nehmen Sie ausreichend Wasser für die längere Fahrt zum Circuit mit."
+        ],
+        "hu": [
+          "Használd a 'Boulevard de la Nature' utat a biztonságos biciklizéshez.",
+          "Vigyél elég vizet a versenypályáig tartó hosszabb útra."
+        ],
+        "ro": [
+          "Folosiți 'Boulevard de la Nature' pentru o deplasare sigură.",
+          "Luați apă suficientă pentru drumul lung spre circuit."
+        ],
+        "en": [
+          "Use the 'Boulevard de la Nature' for safe cycling.",
+          "Take plenty of water for the longer ride to the circuit."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Julien",
+            "hu": "Szent Julián-székesegyház",
+            "ro": "Catedrala Saint-Julien",
+            "en": "Saint-Julien Cathedral"
+          },
+          "coords": [
+            0.1994,
+            48.0094
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkhaus 'Jacobins' direkt unter der Kathedrale.",
+            "hu": "A 'Jacobins' parkoló közvetlenül a katedrális alatt van.",
+            "ro": "Parcarea 'Jacobins' direct sub catedrală.",
+            "en": "Use 'Jacobins' parking garage right under the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Plantagenêt",
+            "hu": "Cité Plantagenêt",
+            "ro": "Cité Plantagenêt",
+            "en": "Cité Plantagenêt"
+          },
+          "coords": [
+            0.197,
+            48.008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Kathedrale aus erreichbar (Cluster-Walk).",
+            "hu": "Gyalogosan elérhető a katedrálistól (Cluster-séta).",
+            "ro": "Accesibil pe jos de la catedrală (Cluster-Walk).",
+            "en": "Accessible on foot from the cathedral (Cluster-Walk)."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Stadtmauer",
+            "hu": "Gallo-római városfal",
+            "ro": "Zidul galo-roman",
+            "en": "Gallo-Roman Walls"
+          },
+          "coords": [
+            0.1965,
+            48.009
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Sarthe für den besten Blick.",
+            "hu": "Sétálj a Sarthe mentén a legjobb kilátásért.",
+            "ro": "Plimbați-vă de-a lungul râului Sarthe pentru cea mai bună vedere.",
+            "en": "Walk along the Sarthe river for the best view of the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye de l'Épau",
+            "hu": "Épau-apátság",
+            "ro": "Abația de l'Épau",
+            "en": "Abbaye de l'Épau"
+          },
+          "coords": [
+            0.243,
+            47.99
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt vor der Abtei.",
+            "hu": "Ingyenes parkoló közvetlenül az apátság előtt.",
+            "ro": "Parcare gratuită chiar în fața abației.",
+            "en": "Free parking right in front of the abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "Circuit des 24 Heures",
+            "hu": "Le Mans-i versenypálya",
+            "ro": "Circuitul de 24 de ore",
+            "en": "Circuit des 24 Heures"
+          },
+          "coords": [
+            0.21,
+            47.955
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz am Museumseingang.",
+            "hu": "Nagy látogatói parkoló a múzeum bejáratánál.",
+            "ro": "Parcare mare pentru vizitatori la intrarea muzeului.",
+            "en": "Large visitor parking at the museum entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir das historische Zentrum mit den Highlights am Stadtrand. Wir parken zentral, um die Altstadt zu Fuß zu erkunden (Cluster A). Danach fahren wir zur ruhigen Abbaye de l'Épau im Osten und schließen den Tag mit dem PS-starken Erlebnis am Circuit des 24 Heures im Süden ab.",
+        "hu": "Autóval összekötjük a történelmi központot a külváros látnivalóival. Központilag parkolunk, hogy gyalog fedezzük fel az óvárost (A-klaszter). Ezután a nyugodt Épau-apátsághoz hajtunk keletre, majd a napot a déli versenypálya lóerőkkel teli élményével zárjuk.",
+        "ro": "Cu mașina conectăm centrul istoric cu atracțiile de la periferie. Parcăm central pentru a explora orașul vechi pe jos (Cluster A). Apoi conducem spre liniștita Abație de l'Épau în est și încheiem ziua cu experiența plină de adrenalină de la Circuitul celor 24 de ore în sud.",
+        "en": "By car, we link the historic center with highlights on the outskirts. We park centrally to explore the old town on foot (Cluster A). Then we drive to the peaceful Abbaye de l'Épau in the east and finish the day with the high-octane experience at the 24 Hours Circuit in the south."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Welcome",
+            "tip": "Restaurant direkt an der Rennstrecke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Welcome",
+            "tip": "Étterem közvetlenül a versenypályánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Welcome",
+            "tip": "Restaurant situat chiar lângă circuit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Welcome",
+            "tip": "Restaurant located right by the racetrack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klausur der Abtei",
+            "tip": "Tiefe Stille in den historischen Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az apátság kerengője",
+            "tip": "Mély csend a történelmi falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Claustrul abației",
+            "tip": "Liniște profundă între zidurile istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Cloisters",
+            "tip": "Deep silence within the historical walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial des Jacobins",
+            "tip": "Modernes Einkaufszentrum in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial des Jacobins",
+            "tip": "Modern bevásárlóközpont a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial des Jacobins",
+            "tip": "Centru comercial modern în oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jacobins Shopping Center",
+            "tip": "Modern shopping mall in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im 'Jacobins' für die Altstadt; es ist sicher und nah.",
+          "Der Verkehr kann während der Rennsaison sehr dicht sein."
+        ],
+        "hu": [
+          "Az óvároshoz parkolj a 'Jacobins'-ban; biztonságos és közeli.",
+          "A versenyszezon idején a forgalom nagyon sűrű lehet."
+        ],
+        "ro": [
+          "Parcați la 'Jacobins' pentru centrul vechi; este sigur și aproape.",
+          "Traficul poate fi foarte intens în timpul sezonului de curse."
+        ],
+        "en": [
+          "Park at 'Jacobins' for the old town; it is safe and central.",
+          "Traffic can be very heavy during the racing season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cité Plantagenêt",
+            "hu": "Cité Plantagenêt",
+            "ro": "Cité Plantagenêt",
+            "en": "Cité Plantagenêt"
+          },
+          "coords": [
+            0.197,
+            48.008
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Eperon' oder 'Mairie'.",
+            "hu": "'Eperon' vagy 'Mairie' megálló.",
+            "ro": "Stația 'Eperon' sau 'Mairie'.",
+            "en": "Exit at 'Eperon' or 'Mairie' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Julien",
+            "hu": "Szent Julián-székesegyház",
+            "ro": "Catedrala Saint-Julien",
+            "en": "Saint-Julien Cathedral"
+          },
+          "coords": [
+            0.1994,
+            48.0094
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Altstadt.",
+            "hu": "Rövid séta az óvároson keresztül.",
+            "ro": "O scurtă plimbare prin orașul vechi.",
+            "en": "Short walk through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré Plantagenêt",
+            "hu": "Carré Plantagenêt Múzeum",
+            "ro": "Muzeul Carré Plantagenêt",
+            "en": "Carré Plantagenêt Museum"
+          },
+          "coords": [
+            0.198,
+            48.0075
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gleich beim Place du Jet d'Eau.",
+            "hu": "Közvetlenül a Place du Jet d'Eau mellett.",
+            "ro": "Chiar lângă Place du Jet d'Eau.",
+            "en": "Located right by Place du Jet d'Eau."
+          }
+        },
+        {
+          "name": {
+            "de": "Circuit des 24 Heures",
+            "hu": "Le Mans-i versenypálya",
+            "ro": "Circuitul de 24 de ore",
+            "en": "Circuit des 24 Heures"
+          },
+          "coords": [
+            0.21,
+            47.955
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Straßenbahn T1 Richtung 'Antarès' bis zur Endstation.",
+            "hu": "T1 villamos 'Antarès' felé a végállomásig.",
+            "ro": "Tramvaiul T1 spre 'Antarès' până la capăt.",
+            "en": "Take Tram T1 towards 'Antarès' to the last stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Vert",
+            "hu": "Zöld Múzeum (Musée Vert)",
+            "ro": "Muzeul Verde",
+            "en": "Musée Vert"
+          },
+          "coords": [
+            0.185,
+            47.985
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Naturkundemuseum in einem ruhigen Viertel.",
+            "hu": "Természettudományi múzeum egy csendes negyedben.",
+            "ro": "Muzeu de istorie naturală într-un cartier liniștit.",
+            "en": "Natural history museum in a quiet district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der effizienten Straßenbahn T1 erreichen wir problemlos die wichtigsten Punkte. Wir starten in der Altstadt, besuchen die Kathedrale und das Archäologiemuseum. Dann bringt uns die Tram direkt zum berühmten Circuit im Süden und schließlich zum Musée Vert, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "A hatékony T1 villamosnak köszönhetően könnyen elérjük a főbb pontokat. Az óvárosban kezdünk, meglátogatjuk a katedrálist és a régészeti múzeumot. Ezután a villamos egyenesen a déli versenypályához visz, végül a Musée Vert-ben zárjuk a napot pihentetően.",
+        "ro": "Datorită tramvaiului eficient T1, ajungem ușor la punctele principale. Începem în orașul vechi, vizităm catedrala și muzeul de arheologie. Apoi tramvaiul ne duce direct la faimosul circuit în sud și, în final, la Muzeul Verde pentru a încheia ziua relaxat.",
+        "en": "Thanks to the efficient T1 tram, we easily reach the main highlights. We start in the old town, visit the cathedral and the archaeology museum. Then the tram takes us straight to the famous Circuit in the south, finishing at Musée Vert for a relaxed end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie L'Étoile",
+            "tip": "Perfekt für ein schnelles Sandwich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie L'Étoile",
+            "tip": "Tökéletes egy gyors szendvicshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie L'Étoile",
+            "tip": "Perfect pentru un sandviș rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie L'Étoile",
+            "tip": "Perfect for a quick sandwich."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Préfecture",
+            "tip": "Ruhiger Park in der Nähe der Straßenbahn.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Préfecture",
+            "tip": "Csendes park a villamos közelében.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de la Préfecture",
+            "tip": "Parc liniștit în apropierea tramvaiului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Préfecture",
+            "tip": "Quiet park near the tram line.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place de la République",
+            "tip": "Knotenpunkt mit vielen Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place de la République",
+            "tip": "Csomópont sok üzlettel.",
+            "emoji": "🛍️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place de la République",
+            "tip": "Nod central cu multe magazine.",
+            "emoji": "🛍️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place de la République",
+            "tip": "Central hub with many shops.",
+            "emoji": "🛍️"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Bus und Bahn.",
+          "Die T1 fährt alle paar Minuten Richtung Circuit."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra és villamosra.",
+          "A T1 percenként jár a versenypálya felé."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz și tramvai.",
+          "Tramvaiul T1 circulă frecvent spre circuit."
+        ],
+        "en": [
+          "Buy a day pass for bus and tram.",
+          "The T1 tram runs every few minutes towards the Circuit."
+        ]
+      }
+    }
+  }
+}

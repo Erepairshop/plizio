@@ -1,0 +1,1112 @@
+{
+  "city_id": "cherbourg-en-cotentin",
+  "anchor": {
+    "name": "Cherbourg-en-Cotentin",
+    "coords": [
+      49.633,
+      -1.622
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Basilique Sainte-Trinité",
+          "coords": [
+            49.6358,
+            -1.6241
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hängenden Schlusssteine im gotischen Stil.",
+            "hu": "Csodáld meg a gótikus stílusú függő záróköveket a mennyezeten.",
+            "ro": "Admirați cheile de boltă suspendate în stil gotic.",
+            "en": "Admire the Gothic-style hanging keystones on the ceiling."
+          }
+        },
+        {
+          "name": "Théâtre à l'italienne",
+          "coords": [
+            49.6378,
+            -1.6235
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eines der letzten italienischen Theater Frankreichs, schauen Sie auf die Fassade.",
+            "hu": "Franciaország utolsó olasz stílusú színházainak egyike, nézd meg a homlokzatát.",
+            "ro": "Unul dintre ultimele teatre italiene din Franța, priviți fațada.",
+            "en": "One of the last Italian-style theaters in France, check the facade."
+          }
+        },
+        {
+          "name": "Musée Thomas Henry",
+          "coords": [
+            49.6372,
+            -1.6227
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke von Jean-François Millet, einem lokalen Genie.",
+            "hu": "Fedezd fel Jean-François Millet, a helyi zseni műveit.",
+            "ro": "Descoperiți lucrările lui Jean-François Millet, un geniu local.",
+            "en": "Discover the works of Jean-François Millet, a local genius."
+          }
+        },
+        {
+          "name": "Le Quai des Mers (Lunch)",
+          "coords": [
+            49.6415,
+            -1.619
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Jakobsmuscheln mit Blick auf den Hafen.",
+            "hu": "Kóstolj friss fésűkagylót kikötői kilátással.",
+            "ro": "Gustați scoici proaspete cu vedere la port.",
+            "en": "Try fresh scallops with a view of the harbor."
+          }
+        },
+        {
+          "name": "Parc Emmanuel Liais",
+          "coords": [
+            49.6395,
+            -1.628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein botanisches Juwel mit exotischen Pflanzen aus der ganzen Welt.",
+            "hu": "Botanikai ékszerdoboz egzotikus növényekkel a világ minden tájáról.",
+            "ro": "O bijuterie botanică cu plante exotice din întreaga lume.",
+            "en": "A botanical gem with exotic plants from all over the world."
+          }
+        },
+        {
+          "name": "La Cité de la Mer",
+          "coords": [
+            49.6445,
+            -1.6175
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das U-Boot Le Redoutable im ehemaligen Transatlantik-Terminal.",
+            "hu": "Látogasd meg a Le Redoutable tengeralattjárót az egykori terminálban.",
+            "ro": "Vizitați submarinul Le Redoutable în fostul terminal transatlantic.",
+            "en": "Visit the Le Redoutable submarine in the former transatlantic terminal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Cherbourg an der prächtigen Basilika Sainte-Trinité. Nach einem kulturellen Vormittag mit Theaterarchitektur und bildender Kunst im Musée Thomas Henry genießen Sie Meeresfrüchte am Kai. Der Nachmittag führt Sie durch den exotischen Park Liais zur beeindruckenden Cité de la Mer, wo maritime Geschichte in einem Art-Déco-Gebäude lebendig wird.",
+        "hu": "A napot Cherbourg történelmi szívében, a pompás Sainte-Trinité bazilikánál kezded. A színházi építészetet és a Musée Thomas Henry képzőművészeti kincseit érintő kulturális délelőtt után tengeri herkentyűket kóstolhatsz a rakparton. Délután az egzotikus Liais parkon keresztül az impozáns Cité de la Mer-hez sétálsz, ahol a tengeri történelem kel életre egy Art Deco terminálban.",
+        "ro": "Ziua începe în inima istorică a orașului Cherbourg, la magnifica Bazilică Sainte-Trinité. După o dimineață culturală cu arhitectură de teatru și artă la Muzeul Thomas Henry, savurați fructe de mare pe chei. După-amiaza vă poartă prin parcul exotic Liais către impresionanta Cité de la Mer, unde istoria maritimă prinde viață într-o clădire Art Deco.",
+        "en": "Your day starts in the historic heart of Cherbourg at the magnificent Sainte-Trinité Basilica. After a cultural morning featuring theater architecture and fine arts at the Musée Thomas Henry, enjoy seafood by the quay. The afternoon takes you through the exotic Liais Park to the impressive Cité de la Mer, where maritime history comes alive in an Art Deco terminal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Quai des Mers",
+            "tip": "Frische Meeresfrüchte direkt in der Cité de la Mer."
+          },
+          {
+            "name": "Les Parapluies de Cherbourg",
+            "tip": "Genießen Sie einen Kaffee in der Nähe der berühmten Fabrik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Quai des Mers",
+            "tip": "Friss tengeri ételek közvetlenül a Cité de la Mer épületében."
+          },
+          {
+            "name": "Les Parapluies de Cherbourg",
+            "tip": "Igyál egy kávét a híres esernyőgyár közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Quai des Mers",
+            "tip": "Fructe de mare proaspete chiar în incinta Cité de la Mer."
+          },
+          {
+            "name": "Les Parapluies de Cherbourg",
+            "tip": "Savurați o cafea lângă faimoasa fabrică de umbrele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Quai des Mers",
+            "tip": "Fresh seafood right inside the Cité de la Mer building."
+          },
+          {
+            "name": "Les Parapluies de Cherbourg",
+            "tip": "Enjoy a coffee near the famous umbrella factory."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Emmanuel Liais",
+            "tip": "Ein ruhiger Rückzugsort im Stadtzentrum.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardin des serres",
+            "tip": "Entspannung zwischen tropischen Gewächshäusern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Emmanuel Liais",
+            "tip": "Csendes menedék a városközpontban.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardin des serres",
+            "tip": "Pihenés a trópusi üvegházak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Emmanuel Liais",
+            "tip": "Un refugiu liniștit în centrul orașului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardin des serres",
+            "tip": "Relaxare printre serele tropicale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Emmanuel Liais",
+            "tip": "A quiet sanctuary in the city center.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardin des serres",
+            "tip": "Relaxation among the tropical greenhouses.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Manufacture des Parapluies",
+            "tip": "Holen Sie sich den echten Cherbourg-Regenschirm."
+          },
+          {
+            "name": "Place de Gaulle Markt",
+            "tip": "Lokale Produkte jeden Donnerstag und Samstag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manufacture des Parapluies",
+            "tip": "Szerezz be egy valódi cherbourgi esernyőt."
+          },
+          {
+            "name": "Place de Gaulle piac",
+            "tip": "Helyi termékek minden csütörtökön és szombaton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Manufacture des Parapluies",
+            "tip": "Cumpărați o umbrelă veritabilă de Cherbourg."
+          },
+          {
+            "name": "Piața Place de Gaulle",
+            "tip": "Produse locale în fiecare joi și sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Manufacture des Parapluies",
+            "tip": "Get a genuine Cherbourg umbrella."
+          },
+          {
+            "name": "Place de Gaulle Market",
+            "tip": "Local products every Thursday and Saturday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cherbourg ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe.",
+          "Die Cité de la Mer benötigt viel Zeit, planen Sie mindestens 3 Stunden ein.",
+          "Das Wetter kann sich schnell ändern, ein Regenschirm ist Pflicht.",
+          "Die Museen sind montags oft geschlossen."
+        ],
+        "hu": [
+          "Cherbourg gyalogosbarát város, kényelmes cipőt válassz.",
+          "A Cité de la Mer sok időt igényel, legalább 3 órát szánj rá.",
+          "Az időjárás gyorsan változhat, egy esernyő kötelező kellék.",
+          "A múzeumok hétfőnként gyakran zárva tartanak."
+        ],
+        "ro": [
+          "Cherbourg este foarte prietenos cu pietonii, purtați pantofi comozi.",
+          "Cité de la Mer necesită mult timp, rezervați cel puțin 3 ore.",
+          "Vremea se poate schimba rapid, o umbrelă este obligatorie.",
+          "Muzeele sunt adesea închise lunea."
+        ],
+        "en": [
+          "Cherbourg is very pedestrian-friendly, wear comfortable shoes.",
+          "The Cité de la Mer needs a lot of time, allow at least 3 hours.",
+          "Weather can change quickly, an umbrella is a must-have.",
+          "Museums are often closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "La Cité de la Mer",
+          "coords": [
+            49.6445,
+            -1.6175
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Eingang des Terminals.",
+            "hu": "Zárd le a biciklit biztonságosan a terminál bejáratánál.",
+            "ro": "Parcați bicicleta în siguranță la intrarea în terminal.",
+            "en": "Park your bike safely at the terminal entrance."
+          }
+        },
+        {
+          "name": "Rade de Cherbourg",
+          "coords": [
+            49.6475,
+            -1.6135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der längsten künstlichen Reede der Welt.",
+            "hu": "Kerekezz a világ leghosszabb mesterséges kikötőgátja mentén.",
+            "ro": "Pedalați de-a lungul celei mai lungi rade artificiale din lume.",
+            "en": "Cycle along the longest artificial roadstead in the world."
+          }
+        },
+        {
+          "name": "Abbaye Notre-Dame du Vœu",
+          "coords": [
+            49.6418,
+            -1.6475
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Die Ruinen der Abtei bieten eine mystische Atmosphäre.",
+            "hu": "Az apátság romjai misztikus hangulatot árasztanak.",
+            "ro": "Ruinele abației oferă o atmosferă mistică.",
+            "en": "The ruins of the abbey offer a mystical atmosphere."
+          }
+        },
+        {
+          "name": "Le Plouc (Lunch)",
+          "coords": [
+            49.6385,
+            -1.625
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Ort für lokale normannische Spezialitäten.",
+            "hu": "Hangulatos hely helyi normandiai specialitásokkal.",
+            "ro": "Un loc primitor pentru specialități locale normande.",
+            "en": "A cozy spot for local Norman specialties."
+          }
+        },
+        {
+          "name": "Parc Emmanuel Liais",
+          "coords": [
+            49.6395,
+            -1.628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und spazieren Sie durch die Palmenalleen.",
+            "hu": "Tedd le a gépet és sétálj a pálmafák között.",
+            "ro": "Lăsați bicicleta și plimbați-vă printre palmieri.",
+            "en": "Park your bike and stroll through the palm avenues."
+          }
+        },
+        {
+          "name": "Fort du Roule",
+          "coords": [
+            49.6295,
+            -1.616
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber die Aussicht belohnt jede Anstrengung.",
+            "hu": "Meredek emelkedő, de a kilátás kárpótol mindenért.",
+            "ro": "O urcare abruptă, dar vederea răsplătește orice efort.",
+            "en": "A steep climb, but the view rewards every effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Cherbourg auf zwei Rädern, beginnend an der Cité de la Mer. Folgen Sie der Küstenlinie entlang der Reede, bevor Sie zur geschichtsträchtigen Abbaye du Vœu im Westen radeln. Nach einem herzhaften Mittagessen im Stadtzentrum erkunden Sie den Park Liais und fordern sich zum Abschluss mit dem Anstieg zum Fort du Roule für den ultimativen Panoramablick heraus.",
+        "hu": "Fedezd fel Cherbourgot két keréken, a Cité de la Mer-től indulva. Kerekezz a part mentén a hatalmas kikötőgát mellett, majd irány nyugatnak a történelmi Abbaye du Vœu. Egy kiadós belvárosi ebéd után fedezd fel a Liais parkot, végül küzdd le a Fort du Roule emelkedőjét a tökéletes panorámáért.",
+        "ro": "Explorați Cherbourg pe două roți, începând de la Cité de la Mer. Urmați linia țărmului pe lângă radă înainte de a pedala spre vest către istorica Abbaye du Vœu. După un prânz copios în centrul orașului, explorați Parcul Liais și finalizați cu provocarea urcării la Fort du Roule pentru cea mai bună panoramă.",
+        "en": "Explore Cherbourg on two wheels, starting at the Cité de la Mer. Follow the coastline along the roadstead before cycling west to the historic Abbaye du Vœu. After a hearty downtown lunch, explore Liais Park and finish by challenging yourself with the climb to Fort du Roule for the ultimate panoramic view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Plouc",
+            "tip": "Probieren Sie den Camembert aus dem Ofen."
+          },
+          {
+            "name": "Crêperie La ruelle",
+            "tip": "Klassische normannische Galettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Plouc",
+            "tip": "Próbáld ki a sült camembert-t."
+          },
+          {
+            "name": "Crêperie La ruelle",
+            "tip": "Klasszikus normandiai galette-ek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Plouc",
+            "tip": "Încercați camembert-ul la cuptor."
+          },
+          {
+            "name": "Crêperie La ruelle",
+            "tip": "Galette normande clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Plouc",
+            "tip": "Try the baked camembert."
+          },
+          {
+            "name": "Crêperie La ruelle",
+            "tip": "Classic Norman galettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Abbaye du Vœu Gärten",
+            "tip": "Stille unter alten Steinmauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Port Chantereyne",
+            "tip": "Beobachten Sie die Segelboote bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Abbaye du Vœu kertjei",
+            "tip": "Csend az ősi kőfalak alatt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Port Chantereyne",
+            "tip": "Figyeld a vitorlásokat naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Abbaye du Vœu",
+            "tip": "Liniște sub ziduri vechi de piatră.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Port Chantereyne",
+            "tip": "Urmăriți iahturile la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbaye du Vœu Gardens",
+            "tip": "Silence under ancient stone walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Port Chantereyne",
+            "tip": "Watch the sailboats at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Etwas außerhalb, aber ein Paradies für Süßschnäbel."
+          },
+          {
+            "name": "Rue des Portes",
+            "tip": "Kleine Boutiquen und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Kicsit kijjebb van, de édességrajongóknak kötelező."
+          },
+          {
+            "name": "Rue des Portes",
+            "tip": "Kis butikok és kézműves boltok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Puțin în afara orașului, dar un paradis al dulciurilor."
+          },
+          {
+            "name": "Rue des Portes",
+            "tip": "Mici buticuri și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "A bit outside, but a paradise for sweet lovers."
+          },
+          {
+            "name": "Rue des Portes",
+            "tip": "Small boutiques and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Uferpromenaden sind flach, aber die Stadt hat hügelige Bereiche.",
+          "In Cherbourg gibt es viele Fahrradwege im Hafenbereich.",
+          "Prüfen Sie den Wind – er kann an der Küste sehr stark sein.",
+          "Fahrradverleih ist am Port Chantereyne verfügbar."
+        ],
+        "hu": [
+          "A parti sétányok síkak, de a városon belül vannak dombos részek.",
+          "Cherbourgban sok kerékpárút van a kikötő környékén.",
+          "Ellenőrizd a szelet – a parton nagyon erős lehet.",
+          "Kerékpárkölcsönző a Port Chantereyne-nél található."
+        ],
+        "ro": [
+          "Promenadele de pe coastă sunt plate, dar orașul are zone deluroase.",
+          "În Cherbourg există multe piste de biciclete în zona portului.",
+          "Verificați vântul – poate fi foarte puternic pe coastă.",
+          "Închirieri de biciclete sunt disponibile la Port Chantereyne."
+        ],
+        "en": [
+          "Coastal promenades are flat, but the city has hilly areas.",
+          "Cherbourg has many bike paths around the harbor area.",
+          "Check the wind – it can be very strong on the coast.",
+          "Bike rentals are available at Port Chantereyne."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "La Cité de la Mer",
+          "coords": [
+            49.6445,
+            -1.6175
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz direkt am Eingang.",
+            "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare gratuită chiar la intrare.",
+            "en": "Large free parking lot right at the entrance."
+          }
+        },
+        {
+          "name": "Rade de Cherbourg",
+          "coords": [
+            49.6475,
+            -1.6135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie am Cluster 1 und laufen Sie zum Aussichtspunkt.",
+            "hu": "Parkolj le és sétálj ki a kilátóponthoz.",
+            "ro": "Parcați la Clusterul 1 și mergeți pe jos la punctul de belvedere.",
+            "en": "Park at Cluster 1 and walk to the viewpoint."
+          }
+        },
+        {
+          "name": "Le Yacht Club (Lunch)",
+          "coords": [
+            49.646,
+            -1.616
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hervorragende Meeresfrüchte-Platten.",
+            "hu": "Kiváló tenger gyümölcsei tálak.",
+            "ro": "Platouri excelente cu fructe de mare.",
+            "en": "Excellent seafood platters."
+          }
+        },
+        {
+          "name": "Fort du Roule",
+          "coords": [
+            49.6295,
+            -1.616
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis ganz nach oben zum Befreiungsmuseum.",
+            "hu": "Hajts fel egészen a csúcsig a Felszabadulási Múzeumhoz.",
+            "ro": "Conduceți până în vârf la Muzeul Eliberării.",
+            "en": "Drive all the way to the top to the Liberation Museum."
+          }
+        },
+        {
+          "name": "Abbaye Notre-Dame du Vœu",
+          "coords": [
+            49.6418,
+            -1.6475
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kostenloses Parken in der Nähe der Ruinen möglich.",
+            "hu": "Ingyenes parkolás a romok közelében.",
+            "ro": "Parcare gratuită disponibilă lângă ruine.",
+            "en": "Free parking available near the ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Facetten von Cherbourg. Der Vormittag gehört dem Hafen und der Cité de la Mer. Nach einem entspannten Mittagessen am Yachtclub fahren Sie zum Fort du Roule, um die Stadt von oben zu überblicken. Den Tag beschließen Sie bei den friedlichen Ruinen der Abbaye du Vœu im westlichen Teil der Stadt.",
+        "hu": "Autóval kényelmesen elérheted Cherbourg különböző arcait. A délelőtt a kikötőé és a Cité de la Mer-é. Egy pihentető ebéd után a Yacht Clubnál, hajts fel a Fort du Roule-hoz a városi panorámáért. A napot a város nyugati részén fekvő Abbaye du Vœu békés romjainál zárod.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele fațete ale orașului Cherbourg. Dimineața este dedicată portului și Cité de la Mer. După un prânz relaxat la Yacht Club, conduceți spre Fort du Roule pentru a vedea orașul de sus. Încheiați ziua la ruinele liniștite ale Abbaye du Vœu în partea de vest a orașului.",
+        "en": "By car, you can easily reach the different facets of Cherbourg. The morning is dedicated to the harbor and the Cité de la Mer. After a relaxed lunch at the Yacht Club, drive up to Fort du Roule to overlook the city. Finish the day at the peaceful ruins of Abbaye du Vœu in the western part of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Yacht Club",
+            "tip": "Probieren Sie die Moules-frites."
+          },
+          {
+            "name": "Le Vauban",
+            "tip": "Gehobene Küche im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Yacht Club",
+            "tip": "Kóstold meg a feketekagylót sült krumplival."
+          },
+          {
+            "name": "Le Vauban",
+            "tip": "Elegáns konyha a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Yacht Club",
+            "tip": "Încercați moules-frites."
+          },
+          {
+            "name": "Le Vauban",
+            "tip": "Bucătărie rafinată în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Yacht Club",
+            "tip": "Try the moules-frites."
+          },
+          {
+            "name": "Le Vauban",
+            "tip": "Fine dining in the city center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort du Roule Plateau",
+            "tip": "Spektakulärer Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Strand von Querqueville",
+            "tip": "Nur 10 Min. Fahrt für Meeresrauschen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort du Roule fennsík",
+            "tip": "Látványos panoráma.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Querqueville strand",
+            "tip": "Csak 10 perc autóval a tengerparti nyugalomért.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Fort du Roule",
+            "tip": "Panoramă spectaculoasă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plaja Querqueville",
+            "tip": "La doar 10 minute de condus pentru sunetul mării.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort du Roule Plateau",
+            "tip": "Spectacular panoramic view.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Querqueville Beach",
+            "tip": "Only 10 min drive for the sound of the sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Les Éléphants",
+            "tip": "Große Auswahl an Marken."
+          },
+          {
+            "name": "Local Cidrerie",
+            "tip": "Kaufen Sie echten normannischen Cidre direkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Éléphants bevásárlóközpont",
+            "tip": "Márkák széles választéka."
+          },
+          {
+            "name": "Helyi cidre-üzem",
+            "tip": "Vegyél valódi normandiai almabort közvetlenül a gyártótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Les Éléphants",
+            "tip": "O gamă largă de mărci."
+          },
+          {
+            "name": "Cidrărie locală",
+            "tip": "Cumpărați cidru normand veritabil direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Éléphants Shopping Center",
+            "tip": "Wide selection of brands."
+          },
+          {
+            "name": "Local Cidrerie",
+            "tip": "Buy genuine Norman cider directly."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie P+R.",
+          "Die Fahrt zum Fort du Roule ist eng, fahren Sie vorsichtig.",
+          "In Frankreich sind viele Tankstellen an Supermärkte angeschlossen (günstiger).",
+          "Achten Sie auf die Gezeiten, wenn Sie an den Strand fahren."
+        ],
+        "hu": [
+          "A központi parkolás nehéz lehet, használd a P+R parkolókat.",
+          "Az út a Fort du Roule-hoz szűk, vezess óvatosan.",
+          "Franciaországban sok benzinkút szupermarketek mellett van (olcsóbb).",
+          "Figyelj az árapályra, ha kimentek a partra."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți P+R.",
+          "Drumul spre Fort du Roule este îngust, conduceți cu atenție.",
+          "În Franța, multe benzinării sunt atașate supermarketurilor (mai ieftine).",
+          "Fiți atenți la maree dacă mergeți la plajă."
+        ],
+        "en": [
+          "Parking in the center can be difficult, use P+R lots.",
+          "The road to Fort du Roule is narrow, drive carefully.",
+          "In France, many gas stations are attached to supermarkets (cheaper).",
+          "Pay attention to the tides if you go to the beach."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Musée Thomas Henry",
+          "coords": [
+            49.6372,
+            -1.6227
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht mit der Buslinie 2 erreichbar.",
+            "hu": "A vasútállomástól a 2-es busszal könnyen elérhető.",
+            "ro": "Ușor de ajuns cu linia de autobuz 2 de la gară.",
+            "en": "Easily reachable by bus line 2 from the train station."
+          }
+        },
+        {
+          "name": "Basilique Sainte-Trinité",
+          "coords": [
+            49.6358,
+            -1.6241
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum durch die Altstadt.",
+            "hu": "Rövid séta a múzeumtól az óvároson át.",
+            "ro": "Scurtă plimbare de la muzeu prin orașul vechi.",
+            "en": "Short walk from the museum through the old town."
+          }
+        },
+        {
+          "name": "Le Grand Parapluie (Lunch)",
+          "coords": [
+            49.638,
+            -1.621
+          ],
+          "category": "gastro",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hervorragende Tagesgerichte im Herzen der Stadt.",
+            "hu": "Kiváló napi ajánlatok a város szívében.",
+            "ro": "Meniuri de prânz excelente în inima orașului.",
+            "en": "Excellent lunch specials in the heart of the city."
+          }
+        },
+        {
+          "name": "La Cité de la Mer",
+          "coords": [
+            49.6445,
+            -1.6175
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus zum Terminal.",
+            "hu": "Használd a transzferbuszt a terminálhoz.",
+            "ro": "Folosiți autobuzul de transfer către terminal.",
+            "en": "Use the shuttle bus to the terminal."
+          }
+        },
+        {
+          "name": "Fort du Roule",
+          "coords": [
+            49.6295,
+            -1.616
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Busse halten am Fuße des Hügels, planen Sie einen Aufstieg ein.",
+            "hu": "A buszok a domb alján állnak meg, számolj egy kis hegymenettel.",
+            "ro": "Autobuzele opresc la baza dealului, planificați o urcare pe jos.",
+            "en": "Buses stop at the foot of the hill, plan for a walk up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Cap Cotentin Busnetz, um Cherbourg stressfrei zu erleben. Starten Sie kulturell im Musée Thomas Henry und der Basilika. Nach einem gemütlichen Mittagessen bringt Sie der Bus zur Cité de la Mer. Den Abschluss bildet der Ausblick vom Fort du Roule, den Sie nach einer kurzen Busfahrt und einem Spaziergang erreichen.",
+        "hu": "Használd a Cap Cotentin buszhálózatot Cherbourg felfedezéséhez. Kezdj kulturálisan a Musée Thomas Henry-nél és a bazilikánál. Egy kellemes ebéd után a busz elvisz a Cité de la Mer-hez. A napot a Fort du Roule panorámája koronázza meg, amit egy rövid buszozás és séta után érhetsz el.",
+        "ro": "Folosiți rețeaua de autobuze Cap Cotentin pentru a experimenta Cherbourg fără stres. Începeți cultural la Muzeul Thomas Henry și bazilică. După un prânz plăcut, autobuzul vă duce la Cité de la Mer. Finalul este marcat de vederea de la Fort du Roule, accesibilă după o scurtă călătorie cu autobuzul și o plimbare.",
+        "en": "Use the Cap Cotentin bus network to experience Cherbourg stress-free. Start culturally at the Musée Thomas Henry and the Basilica. After a pleasant lunch, the bus takes you to the Cité de la Mer. The finale is the view from Fort du Roule, reached after a short bus ride and a walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Grand Parapluie",
+            "tip": "Frische Marktküche."
+          },
+          {
+            "name": "Boulangerie Jean",
+            "tip": "Holen Sie sich ein Baguette für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Grand Parapluie",
+            "tip": "Friss piaci konyha."
+          },
+          {
+            "name": "Boulangerie Jean",
+            "tip": "Vegyél egy bagettet útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Grand Parapluie",
+            "tip": "Bucătărie proaspătă de piață."
+          },
+          {
+            "name": "Boulangerie Jean",
+            "tip": "Luați o baghetă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Grand Parapluie",
+            "tip": "Fresh market cuisine."
+          },
+          {
+            "name": "Boulangerie Jean",
+            "tip": "Grab a baguette for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place Napoléon",
+            "tip": "Ein weitläufiger Platz zum Verweilen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de l'Ancien Arsenal",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Napoléon",
+            "tip": "Tágas tér a pihenéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de l'Ancien Arsenal",
+            "tip": "Csendes séta a vízparton.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place Napoléon",
+            "tip": "O piață spațioasă pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de l'Ancien Arsenal",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Napoléon",
+            "tip": "A spacious square to relax.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de l'Ancien Arsenal",
+            "tip": "Quiet walk by the water.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Cherbourg",
+            "tip": "Täglicher Markt für frische Produkte."
+          },
+          {
+            "name": "Cité de la Mer Shop",
+            "tip": "Tolle maritime Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Cherbourg",
+            "tip": "Napi piac friss árukkal."
+          },
+          {
+            "name": "Cité de la Mer bolt",
+            "tip": "Nagyszerű tengeri szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Cherbourg",
+            "tip": "Piață zilnică cu produse proaspete."
+          },
+          {
+            "name": "Magazinul Cité de la Mer",
+            "tip": "Suveniruri maritime deosebite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Cherbourg",
+            "tip": "Daily market for fresh produce."
+          },
+          {
+            "name": "Cité de la Mer Shop",
+            "tip": "Great maritime souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Ticket journée) für unbegrenzte Fahrten.",
+          "Die App 'Cap Cotentin' zeigt Abfahrten in Echtzeit.",
+          "Sonntags fahren die Busse seltener.",
+          "Winken Sie dem Busfahrer, damit er an der Haltestelle hält."
+        ],
+        "hu": [
+          "Vegyél napijegyet (Ticket journée) a korlátlan utazáshoz.",
+          "A 'Cap Cotentin' app valós időben mutatja az indulásokat.",
+          "Vasárnaponként a buszok ritkábban járnak.",
+          "Ints a buszsofőrnek, hogy megálljon a megállóban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Ticket journée) pentru călătorii nelimitate.",
+          "Aplicația 'Cap Cotentin' arată plecările în timp real.",
+          "Duminica, autobuzele circulă mai rar.",
+          "Faceți semn șoferului de autobuz pentru a opri în stație."
+        ],
+        "en": [
+          "Buy a day ticket (Ticket journée) for unlimited rides.",
+          "The 'Cap Cotentin' app shows real-time departures.",
+          "Buses run less frequently on Sundays.",
+          "Wave to the bus driver so they stop at the station."
+        ]
+      }
+    }
+  }
+}

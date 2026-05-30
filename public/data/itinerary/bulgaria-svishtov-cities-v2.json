@@ -1,90 +1,21 @@
 {
   "city_id": "bulgaria-svishtov-cities-v2",
   "anchor": {
-    "name": "Swischtow / Svishtov",
+    "name": "Swischtow",
     "coords": [
-      43.6167,
-      25.35
+      25.35,
+      43.6167
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 4,
+      "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 3.8,
-      "stop_count": 7,
+      "end_estimate": "19:32",
+      "total_km": 3.6,
+      "stop_count": 8,
       "stops": [
-        {
-          "name": {
-            "de": "Erste bulgarische Schule",
-            "hu": "Az első bolgár iskola",
-            "ro": "Prima școală bulgară",
-            "en": "First Bulgarian School"
-          },
-          "coords": [
-            43.6128,
-            25.3498
-          ],
-          "category": "museums",
-          "arrive_at": "09:10",
-          "stay_min": 100,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Gegründet 1815, Geburtsort des modernen bulgarischen Bildungswesens.",
-            "hu": "1815-ben alapították, a modern bolgár oktatás bölcsője.",
-            "ro": "Fondată în 1815, locul de naștere al educației bulgare moderne.",
-            "en": "Founded in 1815, the birthplace of modern Bulgarian education."
-          }
-        },
-        {
-          "name": {
-            "de": "Aleko-Konstantinow-Haus",
-            "hu": "Aleko Konsztantinov szülőháza",
-            "ro": "Casa memorială Aleko Konstantinov",
-            "en": "Aleko Konstantinov House"
-          },
-          "coords": [
-            43.6122,
-            25.3512
-          ],
-          "category": "famous residences",
-          "arrive_at": "10:55",
-          "stay_min": 60,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Das Herz des berühmten Schriftstellers wird hier in einem Glas aufbewahrt.",
-            "hu": "A híres író szívét egy üvegben őrzik az emlékházban.",
-            "ro": "Inima celebrului scriitor este păstrată aici într-un recipient de sticlă.",
-            "en": "The heart of the famous writer is kept here in a glass vessel."
-          }
-        },
-        {
-          "name": {
-            "de": "Kirche der Heiligen Dreifaltigkeit",
-            "hu": "Szentháromság-templom",
-            "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
-          },
-          "coords": [
-            43.6111,
-            25.3524
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "12:00",
-          "stay_min": 45,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Ein Meisterwerk von Kolyu Ficheto aus dem Jahr 1867.",
-            "hu": "Kolju Ficseto mesterműve 1867-ből, különleges kupolákkal.",
-            "ro": "O capodoperă a lui Kolio Ficeto, construită în 1867.",
-            "en": "A masterpiece by Kolyu Ficheto, built in 1867."
-          }
-        },
         {
           "name": {
             "de": "Der Uhrturm",
@@ -93,149 +24,313 @@
             "en": "The Clock Tower"
           },
           "coords": [
-            43.6135,
-            25.3531
+            25.349,
+            43.617
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "12:55",
+          "arrive_at": "09:10",
           "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "1763 erbaut, eines der Wahrzeichen im Stadtzentrum.",
-            "hu": "1763-ban épült, a városközpont egyik legrégebbi szimbóluma.",
-            "ro": "Construit în 1763, este un simbol al centrului orașului.",
-            "en": "Built in 1763, one of the landmarks of the city center."
+            "de": "Der perfekte Treffpunkt und Start für Ihre Tour. Genießen Sie den morgendlichen Trubel.",
+            "hu": "Tökéletes találkozási pont és a túra kiindulópontja. Élvezze a reggeli nyüzsgést!",
+            "ro": "Punctul de întâlnire perfect și startul turului. Bucurați-vă de agitația de dimineață.",
+            "en": "The perfect meeting point and start for your tour. Enjoy the morning bustle."
           }
         },
         {
           "name": {
-            "de": "Kaleto-Festung",
-            "hu": "Kaleto-erőd",
-            "ro": "Cetatea Kaleto",
-            "en": "Kaleto Fortress"
+            "de": "Aleko-Konstantinow-Haus",
+            "hu": "Aleko Konstantinov-ház",
+            "ro": "Casa Aleko Konstantinov",
+            "en": "Aleko Konstantinov House-Museum"
           },
           "coords": [
-            43.6145,
-            25.3542
+            25.348,
+            43.618
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "13:30",
-          "stay_min": 40,
-          "hop_from_prev_min": 10,
+          "category": "famous residences",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Ruinen einer mittelalterlichen Festung mit Blick auf die Donau.",
-            "hu": "Középkori erődromok, ahonnan belátni a Duna kanyarulatát.",
-            "ro": "Ruinele unei cetăți medievale cu vedere spre Dunăre.",
-            "en": "Ruins of a medieval fortress overlooking the Danube."
+            "de": "Tauchen Sie ein in das Leben des berühmten bulgarischen Schriftstellers. Achten Sie auf die Originalmöbel.",
+            "hu": "Merüljön el a híres bolgár író életében. Figyelje meg az eredeti bútorokat!",
+            "ro": "Pătrundeți în viața celebrului scriitor bulgar. Observați mobilierul original.",
+            "en": "Immerse yourself in the life of the famous Bulgarian writer. Look out for the original furniture."
           }
         },
         {
           "name": {
-            "de": "Militärdenkmal",
-            "hu": "Katonai emlékmű",
-            "ro": "Monumentul militar",
-            "en": "Military Monument"
+            "de": "Kirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Church of the Holy Trinity"
           },
           "coords": [
-            43.6165,
-            25.3555
+            25.345,
+            43.619
           ],
-          "category": "monuments/statues",
-          "arrive_at": "14:25",
-          "stay_min": 20,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 0.6,
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
           "tip_5lang": {
-            "de": "Denkmal für die Befreier Bulgariens im russisch-türkischen Krieg.",
-            "hu": "Emlékmű a bolgár felszabadító háború hőseinek.",
-            "ro": "Monument dedicat eliberatorilor Bulgariei din războiul ruso-turc.",
-            "en": "Monument to the liberators of Bulgaria in the Russo-Turkish War."
+            "de": "Bewundern Sie die Ikonostase des berühmten Meisters Kolyu Ficheto. Ein Meisterwerk der bulgarischen Wiedergeburt.",
+            "hu": "Csodálja meg a híres mester, Kolju Ficseto ikonostasisát. A bolgár újjászületés mesterműve.",
+            "ro": "Admirați iconostasul realizat de faimosul maestru Kolyu Ficheto. O capodoperă a Renașterii bulgare.",
+            "en": "Admire the iconostasis by the famous master Kolyu Ficheto. A masterpiece of the Bulgarian Revival."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebédszünet a központban",
+            "ro": "Pauză de prânz în centru",
+            "en": "Lunch Break in the Center"
+          },
+          "coords": [
+            25.346,
+            43.6185
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie eine traditionelle bulgarische Fischsuppe (Ribena Chorba) in einem der lokalen Restaurants.",
+            "hu": "Kóstoljon meg egy hagyományos bolgár halászlét (Ribena Chorba) valamelyik helyi étteremben.",
+            "ro": "Încercați o supă tradițională bulgărească de pește (Ribena Chorba) la unul dintre restaurantele locale.",
+            "en": "Try a traditional Bulgarian fish soup (Ribena Chorba) in one of the local restaurants."
           }
         },
         {
           "name": {
             "de": "Hafen von Swischtow",
-            "hu": "Szvistovi kikötő",
+            "hu": "Svishtov kikötője",
             "ro": "Portul Sviștov",
             "en": "Port of Svishtov"
           },
           "coords": [
-            43.6212,
-            25.3562
+            25.355,
+            43.623
           ],
           "category": "bridges/lighthouses",
-          "arrive_at": "15:05",
-          "stay_min": 100,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.4,
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Beobachten Sie den Schiffsverkehr auf der Donau bei Sonnenuntergang.",
-            "hu": "Figyelje a dunai hajóforgalmat a naplementében.",
-            "ro": "Urmăriți traficul fluvial pe Dunăre la apus.",
-            "en": "Watch the river traffic on the Danube at sunset."
+            "de": "Beobachten Sie die Schiffe auf der Donau und genießen Sie die frische Brise. Ein schöner Ort für Fotos.",
+            "hu": "Nézze a hajókat a Dunán és élvezze a friss szellőt. Remek hely a fotózáshoz.",
+            "ro": "Urmăriți navele pe Dunăre și bucurați-vă de briza proaspătă. Un loc frumos pentru fotografii.",
+            "en": "Watch the ships on the Danube and enjoy the fresh breeze. A beautiful spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pametnizite-Park",
+            "hu": "Pametnizite Park",
+            "ro": "Parcul Pametnizite",
+            "en": "Pametnizite Park"
+          },
+          "coords": [
+            25.365,
+            43.615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Hier finden Sie mehrere Denkmäler, die an die Befreiung Bulgariens erinnern. Ein ruhiger Ort zum Nachdenken.",
+            "hu": "Itt több emlékművet is talál, amelyek Bulgária felszabadítására emlékeztetnek. Csendes hely az elmélkedésre.",
+            "ro": "Aici veți găsi mai multe monumente care comemorează eliberarea Bulgariei. Un loc liniștit pentru reflecție.",
+            "en": "Here you will find several monuments commemorating the liberation of Bulgaria. A quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Erste bulgarische Schule",
+            "hu": "Első Bolgár Iskola",
+            "ro": "Prima școală bulgară",
+            "en": "First Bulgarian School"
+          },
+          "coords": [
+            25.347,
+            43.6175
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein wichtiges Zeugnis der bulgarischen Bildungsgeschichte. Schauen Sie sich die alten Klassenzimmer an.",
+            "hu": "A bolgár oktatástörténet fontos tanúbizonysága. Tekintse meg a régi osztálytermeket!",
+            "ro": "O mărturie importantă a istoriei educației bulgare. Aruncați o privire la vechile săli de clasă.",
+            "en": "An important testament to Bulgarian educational history. Take a look at the old classrooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaleto-Festung",
+            "hu": "Kaleto erőd",
+            "ro": "Cetatea Kaleto",
+            "en": "Kaleto Fortress"
+          },
+          "coords": [
+            25.335,
+            43.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für den Panoramablick über die Donau bei Sonnenuntergang.",
+            "hu": "A naplementekor a Dunára nyíló panorámáért megéri a fáradságot felmenni.",
+            "ro": "Urcușul merită pentru vederea panoramică asupra Dunării la apus.",
+            "en": "The climb is worth it for the panoramic view over the Danube at sunset."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Der Tag beginnt im historischen Viertel bei der ersten weltlichen Schule Bulgariens. Nach der Besichtigung der architektonischen Schätze von Kolyu Ficheto spazieren wir zum Uhrturm. Der Nachmittag gehört der alten Festung Kaleto, gefolgt von einem entspannten Ausklang am Donauhafen, wo die Handelsgeschichte der Stadt lebendig wird.",
-        "hu": "A nap az első bolgár világi iskolánál indul, majd Aleko Konsztantinov szülőházán keresztül jutunk el a város jelképéhez, a Szentháromság-templomhoz. Rövid emelkedő után a Kaleto-erőd romjaitól nézzük a Dunát, végül a folyóparti kikötőben zárjuk a sétát, ahol Románia partjai már karnyújtásnyira vannak.",
-        "ro": "Începeți ziua la prima școală bulgară, apoi vizitați casa memorială a lui Aleko Konstantinov. Admirați arhitectura unică a Bisericii Sfânta Treime înainte de a urca la cetatea medievală Kaleto. Încheiați traseul în portul dunărean, observând vapoarele și malul românesc al fluviului.",
-        "en": "Start your day at the first Bulgarian secular school, then visit the memorial house of Aleko Konstantinov. Admira the unique architecture of the Holy Trinity Church before climbing to the medieval Kaleto fortress. End your walk at the Danube port, watching the ships and the Romanian bank of the river."
+        "de": "Beginnen Sie Ihren Tag im Herzen von Swischtow am Uhrturm, einem Symbol der Stadt. Spazieren Sie durch die Straßen der Wiedergeburtszeit, besuchen Sie das Haus von Aleko Konstantinow und die beeindruckende Dreifaltigkeitskirche. Am Mittag genießen Sie die lokale Küche in einem der gemütlichen Restaurants im Zentrum. Am Nachmittag führt Sie Ihr Weg hinunter zur Donau. Spüren Sie die Brise am Hafen und entdecken Sie die Geschichte im Pametnizite-Park und der ersten bulgarischen Schule. Zum Abschluss des Tages steigen Sie zur Kaleto-Festung auf. Der atemberaubende Sonnenuntergang über der Donau ist die perfekte Belohnung für Ihre Erkundungstour durch diese geschichtsträchtige Stadt.",
+        "hu": "Kezdje a napot Svishtov szívében, a város szimbólumánál, az Óratoronynál. Sétáljon végig az újjászületés korának utcáin, látogasson el Aleko Konstantinov házába és a lenyűgöző Szentháromság-templomba. Délben kóstolja meg a helyi konyha remekeit a központ egyik hangulatos éttermében. Délután az út a Dunához vezet. Érezze a kikötői szellőt, és fedezze fel a történelmet a Pametnizite Parkban és az Első Bolgár Iskolában. A nap zárásaként másszon fel a Kaleto erődhöz. A Dunára nyíló lélegzetelállító naplemente tökéletes jutalom a történelmi város felfedezéséért.",
+        "ro": "Începeți ziua în inima orașului Sviștov, la Turnul cu Ceas, un simbol al orașului. Plimbați-vă pe străzile din perioada Renașterii, vizitați casa lui Aleko Konstantinov și impresionanta Biserică Sfânta Treime. La prânz, savurați bucătăria locală la unul dintre restaurantele primitoare din centru. După-amiaza, drumul vă duce spre Dunăre. Simțiți briza în port și descoperiți istoria în Parcul Pametnizite și la Prima Școală Bulgară. La sfârșitul zilei, urcați la Cetatea Kaleto. Apusul uluitor peste Dunăre este recompensa perfectă pentru explorarea acestui oraș încărcat de istorie.",
+        "en": "Start your day in the heart of Svishtov at the Clock Tower, a symbol of the city. Stroll through the streets of the Revival period, visit the house of Aleko Konstantinov, and the impressive Holy Trinity Church. At noon, enjoy the local cuisine in one of the cozy restaurants in the center. In the afternoon, your path leads you down to the Danube. Feel the breeze at the port and discover the history in Pametnizite Park and the First Bulgarian School. To end the day, climb up to the Kaleto Fortress. The breathtaking sunset over the Danube is the perfect reward for exploring this historic city."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Donau-Fischsuppe",
-            "tip": "Probieren Sie fangfrischen Fisch in den Restaurants am Flussufer."
+            "name": "Donau-Fischsuppe (Ribena Chorba)",
+            "tip": "Eine herzhafte und würzige Suppe, die perfekt für den Mittag ist."
+          },
+          {
+            "name": "Gegrillter Donaufisch",
+            "tip": "Frisch gefangen und einfach zubereitet, oft mit Knoblauch und Kräutern."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Die Donauebene ist bekannt für ihre Weißweine. Probieren Sie einen lokalen Dimyat oder Misket."
           }
         ],
         "hu": [
           {
-            "name": "Dunai halászlé",
-            "tip": "Kóstolja meg a frissen fogott halat a folyóparti éttermek egyikében."
+            "name": "Dunai halászlé (Ribena Chorba)",
+            "tip": "Kiadós és fűszeres leves, amely tökéletes ebédre."
+          },
+          {
+            "name": "Grillezett dunai hal",
+            "tip": "Frissen fogott és egyszerűen elkészített, gyakran fokhagymával és fűszernövényekkel."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "A Duna-menti síkság híres fehérborairól. Kóstoljon meg egy helyi Dimyatot vagy Misketet."
           }
         ],
         "ro": [
           {
-            "name": "Ciorbă de pește dunăreană",
-            "tip": "Gustați peștele proaspăt prins în restaurantele de pe malul fluviului."
+            "name": "Supă de pește de Dunăre (Ribena Chorba)",
+            "tip": "O supă consistentă și aromată, perfectă pentru prânz."
+          },
+          {
+            "name": "Pește de Dunăre la grătar",
+            "tip": "Proaspăt prins și preparat simplu, adesea cu usturoi și ierburi."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Câmpia Dunării este cunoscută pentru vinurile sale albe. Încercați un Dimyat sau Misket local."
           }
         ],
         "en": [
           {
-            "name": "Danube Fish Soup",
-            "tip": "Try fresh caught fish in one of the riverside restaurants."
+            "name": "Danube Fish Soup (Ribena Chorba)",
+            "tip": "A hearty and flavorful soup, perfect for lunch."
+          },
+          {
+            "name": "Grilled Danube Fish",
+            "tip": "Freshly caught and simply prepared, often with garlic and herbs."
+          },
+          {
+            "name": "Local Wine",
+            "tip": "The Danube Plain is known for its white wines. Try a local Dimyat or Misket."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Donau-Uferpromenade",
-            "tip": "Ruhiger Ort für einen Abendspaziergang.",
+            "name": "Sonnenuntergang bei der Kaleto-Festung",
+            "tip": "Der beste Panoramablick der Stadt.",
             "emoji": "🌅"
+          },
+          {
+            "name": "Donauufer abseits des Hafens",
+            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eine stille Ecke im Pametnizite-Park",
+            "tip": "Ein Ort der Besinnung unter alten Bäumen.",
+            "emoji": "🍃"
           }
         ],
         "hu": [
           {
-            "name": "Duna-parti sétány",
-            "tip": "Csendes hely egy esti sétához a víz mellett.",
+            "name": "Naplemente a Kaleto erődnél",
+            "tip": "A város legjobb panorámás kilátása.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Duna-part a kikötőtől távolabb",
+            "tip": "Keressen egy csendes padot, és nézze a vizet.",
             "emoji": "🏞️"
+          },
+          {
+            "name": "Egy csendes sarok a Pametnizite Parkban",
+            "tip": "Az elmélkedés helye öreg fák alatt.",
+            "emoji": "🍃"
           }
         ],
         "ro": [
           {
-            "name": "Promenada Dunării",
-            "tip": "Loc liniștit pentru o plimbare de seară.",
-            "emoji": "🧘"
+            "name": "Apus la Cetatea Kaleto",
+            "tip": "Cea mai bună priveliște panoramică din oraș.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul Dunării, departe de port",
+            "tip": "Găsiți o bancă liniștită și priviți apa.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Un colț liniștit în Parcul Pametnizite",
+            "tip": "Un loc de contemplare sub copaci bătrâni.",
+            "emoji": "🍃"
           }
         ],
         "en": [
           {
-            "name": "Danube Promenade",
-            "tip": "Quiet spot for an evening walk by the water.",
+            "name": "Sunset at Kaleto Fortress",
+            "tip": "The best panoramic view in the city.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Danube bank away from the port",
+            "tip": "Find a quiet bench and watch the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A quiet corner in Pametnizite Park",
+            "tip": "A place for contemplation under old trees.",
             "emoji": "🍃"
           }
         ]
@@ -243,49 +338,73 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Akademie-Viertel",
-            "tip": "Kleine Buchläden und Souvenirshops rund um die Wirtschaftsakademie."
+            "name": "Lokaler Markt",
+            "tip": "Suchen Sie nach lokalem Honig, Käse und saisonalem Obst."
+          },
+          {
+            "name": "Souvenirs zu Aleko Konstantinow",
+            "tip": "Im Museumsshop finden Sie Bücher und kleine Andenken."
           }
         ],
         "hu": [
           {
-            "name": "Akadémia negyed",
-            "tip": "Könyvesboltok és ajándékboltok a Gazdasági Akadémia környékén."
+            "name": "Helyi piac",
+            "tip": "Keressen helyi mézet, sajtot és szezonális gyümölcsöket."
+          },
+          {
+            "name": "Aleko Konstantinov ajándéktárgyak",
+            "tip": "A múzeumi boltban könyveket és apró emléktárgyakat talál."
           }
         ],
         "ro": [
           {
-            "name": "Cartierul Academiei",
-            "tip": "Librării și magazine de suveniruri în jurul Academiei de Economie."
+            "name": "Piața locală",
+            "tip": "Căutați miere locală, brânză și fructe de sezon."
+          },
+          {
+            "name": "Suveniruri Aleko Konstantinov",
+            "tip": "În magazinul muzeului veți găsi cărți și mici suveniruri."
           }
         ],
         "en": [
           {
-            "name": "Academy District",
-            "tip": "Bookstores and souvenir shops around the Academy of Economics."
+            "name": "Local Market",
+            "tip": "Look for local honey, cheese, and seasonal fruits."
+          },
+          {
+            "name": "Aleko Konstantinov Souvenirs",
+            "tip": "You'll find books and small mementos in the museum shop."
           }
         ]
       },
       "tips": {
         "de": [
-          "Die Stadt ist hügelig, tragen Sie bequeme Schuhe.",
-          "Die Wirtschaftsakademie ist ein imposantes Gebäude, ein kurzer Blick lohnt sich.",
-          "Am Hafen kann man oft kleine Boote für Rundfahrten mieten."
+          "Tragen Sie bequeme Schuhe, da das Zentrum Kopfsteinpflaster hat.",
+          "Der Aufstieg zur Kaleto-Festung ist steil, aber kurz.",
+          "Planen Sie am Nachmittag Zeit für eine Kaffeepause am Donauufer ein.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind leicht zu Fuß erreichbar.",
+          "Bringen Sie Wasser mit, besonders für den Weg zur Festung."
         ],
         "hu": [
-          "A város dombos, kényelmes cipő ajánlott.",
-          "A Gazdasági Akadémia épülete impozáns, érdemes kívülről megcsodálni.",
-          "A kikötőben gyakran bérelhetők kishajók rövid dunai kiránduláshoz."
+          "Viseljen kényelmes cipőt, mivel a központ macskaköves.",
+          "A Kaleto erődhöz vezető út meredek, de rövid.",
+          "Tervezzen egy délutáni kávészünetet a Duna-parton.",
+          "A legtöbb központi látnivaló könnyen megközelíthető gyalog.",
+          "Vigyen magával vizet, különösen az erődhöz vezető útra."
         ],
         "ro": [
-          "Orașul este deluros, purtați încălțăminte confortabilă.",
-          "Clădirea Academiei de Economie este impunătoare și merită văzută.",
-          "În port se pot închiria adesea bărci mici pentru excursii pe Dunăre."
+          "Purtați încălțăminte confortabilă, deoarece centrul este pavat cu piatră cubică.",
+          "Urcușul spre Cetatea Kaleto este abrupt, dar scurt.",
+          "Planificați o pauză de cafea pe malul Dunării după-amiaza.",
+          "Majoritatea atracțiilor din centru sunt ușor accesibile pe jos.",
+          "Luați apă cu dumneavoastră, mai ales pentru drumul spre cetate."
         ],
         "en": [
-          "The city is hilly, so wear comfortable shoes.",
-          "The Academy of Economics building is impressive and worth a look.",
-          "Small boats are often available for rent at the port for Danube trips."
+          "Wear comfortable shoes as the center has cobblestones.",
+          "The climb to Kaleto Fortress is steep but short.",
+          "Plan for a coffee break on the Danube bank in the afternoon.",
+          "Most sights in the center are easily accessible on foot.",
+          "Bring water, especially for the walk to the fortress."
         ]
       },
       "variants": {
@@ -509,305 +628,186 @@
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 12,
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "16:00",
-      "total_km": 11.5,
+      "end_estimate": "18:55",
+      "total_km": 5.9,
       "stop_count": 8,
       "stops": [
         {
           "name": {
-            "de": "Uhrturm",
+            "de": "Der Uhrturm",
             "hu": "Óratorony",
             "ro": "Turnul cu ceas",
-            "en": "Clock Tower"
+            "en": "The Clock Tower"
           },
           "coords": [
-            43.6135,
-            25.3531
+            25.349,
+            43.617
           ],
           "category": "castles/fortresses/towers",
           "arrive_at": "09:10",
-          "stay_min": 20,
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Zentraler Treffpunkt für Radfahrer.",
-            "hu": "Központi találkozóhely kerékpárosoknak.",
-            "ro": "Punct central de întâlnire pentru bicicliști.",
-            "en": "Central meeting point for cyclists."
-          }
-        },
-        {
-          "name": {
-            "de": "Erste bulgarische Schule",
-            "hu": "Az első bolgár iskola",
-            "ro": "Prima școală bulgară",
-            "en": "First Bulgarian School"
-          },
-          "coords": [
-            43.6128,
-            25.3498
-          ],
-          "category": "museums",
-          "arrive_at": "09:35",
-          "stay_min": 80,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Fahrradständer direkt vor dem Eingang vorhanden.",
-            "hu": "Kerékpártároló az épület előtt.",
-            "ro": "Suporturi pentru biciclete chiar în fața intrării.",
-            "en": "Bike racks available right in front of the entrance."
-          }
+          "hop_from_prev_km": 0
         },
         {
           "name": {
             "de": "Aleko-Konstantinow-Haus",
-            "hu": "Aleko Konsztantinov szülőháza",
-            "ro": "Casa memorială Aleko Konstantinov",
-            "en": "Aleko Konstantinov House"
+            "hu": "Aleko Konstantinov-ház",
+            "ro": "Casa Aleko Konstantinov",
+            "en": "Aleko Konstantinov House-Museum"
           },
           "coords": [
-            43.6122,
-            25.3512
+            25.348,
+            43.618
           ],
           "category": "famous residences",
-          "arrive_at": "11:00",
-          "stay_min": 50,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Ein Muss für Kulturliebhaber.",
-            "hu": "Kulturális alapvetés a városban.",
-            "ro": "O vizită obligatorie pentru iubitorii de cultură.",
-            "en": "A must-visit for culture lovers."
-          }
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Erste bulgarische Schule",
+            "hu": "Első Bolgár Iskola",
+            "ro": "Prima școală bulgară",
+            "en": "First Bulgarian School"
+          },
+          "coords": [
+            25.347,
+            43.6175
+          ],
+          "category": "museums",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2
         },
         {
           "name": {
             "de": "Kirche der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
+            "en": "Church of the Holy Trinity"
           },
           "coords": [
-            43.6111,
-            25.3524
+            25.345,
+            43.619
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "11:55",
+          "arrive_at": "12:40",
           "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Achten Sie auf die filigranen Steinarbeiten.",
-            "hu": "Figyelje meg a finom kőfaragásokat.",
-            "ro": "Admirați detaliile sculptate în piatră.",
-            "en": "Observe the delicate stonework."
-          }
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4
         },
         {
           "name": {
-            "de": "Pametnizite-Park",
-            "hu": "Pametnicite emlékpark",
-            "ro": "Parcul Pametnițite",
-            "en": "Pametnizite Park"
+            "de": "Mittagessen",
+            "hu": "Ebédszünet",
+            "ro": "Pauză de prânz",
+            "en": "Lunch Break"
           },
           "coords": [
-            43.6155,
-            25.3902
+            25.346,
+            43.621
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:55",
-          "stay_min": 60,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Schöne Radwege entlang der Denkmäler am Fluss.",
-            "hu": "Kellemes bicikliút a folyó menti emlékművek között.",
-            "ro": "Piste frumoase de biciclete pe lângă monumentele de pe mal.",
-            "en": "Nice bike paths along the monuments by the river."
-          }
-        },
-        {
-          "name": {
-            "de": "Militärdenkmal",
-            "hu": "Katonai emlékmű",
-            "ro": "Monumentul militar",
-            "en": "Military Monument"
-          },
-          "coords": [
-            43.6165,
-            25.3555
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "14:15",
-          "stay_min": 15,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.8,
-          "tip_5lang": {
-            "de": "Historisch bedeutender Ort der Stadt.",
-            "hu": "A város történelmének fontos helyszíne.",
-            "ro": "Loc de o mare importanță istorică pentru oraș.",
-            "en": "A place of great historical significance for the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Kaleto-Festung",
-            "hu": "Kaleto-erőd",
-            "ro": "Cetatea Kaleto",
-            "en": "Kaleto Fortress"
-          },
-          "coords": [
-            43.6145,
-            25.3542
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "14:35",
-          "stay_min": 30,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Kurzer, steiler Anstieg, aber tolle Aussicht.",
-            "hu": "Rövid de meredek emelkedő, megéri a kilátás miatt.",
-            "ro": "Urcare scurtă și abruptă, dar priveliștea merită.",
-            "en": "Short but steep climb, but the view is worth it."
-          }
+          "category": "gastro",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5
         },
         {
           "name": {
             "de": "Hafen von Swischtow",
-            "hu": "Szvistovi kikötő",
+            "hu": "Svishtov kikötője",
             "ro": "Portul Sviștov",
             "en": "Port of Svishtov"
           },
           "coords": [
-            43.6212,
-            25.3562
+            25.355,
+            43.623
           ],
           "category": "bridges/lighthouses",
-          "arrive_at": "15:15",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.3,
-          "tip_5lang": {
-            "de": "Ideal zum Ausruhen nach der Tour.",
-            "hu": "Ideális pihenőhely a túra végén.",
-            "ro": "Loc ideal pentru odihnă după tur.",
-            "en": "Ideal spot for resting after the tour."
-          }
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1
+        },
+        {
+          "name": {
+            "de": "Pametnizite-Park & Militärdenkmal",
+            "hu": "Pametnizite Park és Katonai Emlékmű",
+            "ro": "Parcul Pametnizite și Monumentul Militar",
+            "en": "Pametnizite Park & Military Monument"
+          },
+          "coords": [
+            25.365,
+            43.615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Kaleto-Festung",
+            "hu": "Kaleto erőd",
+            "ro": "Cetatea Kaleto",
+            "en": "Kaleto Fortress"
+          },
+          "coords": [
+            25.335,
+            43.618
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Fahrrad erkunden wir zuerst das Zentrum und fahren dann nach Osten zum Pametnizite-Park, dem Ort des russischen Donauübergangs von 1877. Die Strecke bietet flache Abschnitte am Fluss und einige Anstiege in der Stadt. Der Tag endet im geschäftigen Hafenviertel.",
-        "hu": "Biciklivel először a belváros történelmi magját fedezzük fel, majd kelet felé tekerünk a Pametnicite parkba, ahol 1877-ben az orosz seregek átkeltek a Dunán. A túra során váltakoznak a folyóparti sík szakaszok és a városi dombok, a zárás pedig a kikötő forgatagában lesz.",
-        "ro": "Cu bicicleta explorăm mai întâi centrul istoric, apoi pedalăm spre est către parcul Pametnițite, locul trecerii Dunării de către ruși în 1877. Traseul oferă secțiuni plane de-a lungul fluviului și câteva urcări în oraș, terminându-se în zona portului.",
-        "en": "By bike, we first explore the historical core, then cycle east to Pametnizite Park, the site of the 1877 Russian crossing of the Danube. The route features flat riverbank sections and some urban climbs, ending in the bustling port area."
+        "de": "Starten Sie Ihre Radtour am Uhrturm und erkunden Sie flexibel die historischen Stätten der Innenstadt, darunter das Aleko-Konstantinow-Haus und die prächtige Dreifaltigkeitskirche. Gönnen Sie sich mittags eine Pause, bevor Sie zum Donauhafen radeln, um die Aussicht zu genießen. Am Nachmittag führt Sie eine längere Tour zum Pametnizite-Park, einem Ort der Ruhe und Geschichte. Der letzte Anstieg zur Kaleto-Festung ist eine Herausforderung, aber der Panoramablick bei Sonnenuntergang über die Donau ist eine unvergessliche Belohnung. Swischtow mit dem Fahrrad zu entdecken, verbindet Kultur mit aktiver Erholung.",
+        "hu": "Kezdje a kerékpártúrát az Óratoronynál, és fedezze fel rugalmasan a belváros történelmi helyszíneit, köztük az Aleko Konstantinov-házat és a csodálatos Szentháromság-templomot. Tartson egy ebédszünetet, mielőtt a dunai kikötőhöz teker, hogy élvezze a kilátást. Délután egy hosszabb túra vezet a Pametnizite Parkba, a nyugalom és a történelem helyére. Az utolsó emelkedő a Kaleto erődhöz kihívást jelent, de a naplementekor a Dunára nyíló panoráma felejthetetlen jutalom. Svishtov felfedezése kerékpárral összeköti a kultúrát az aktív pihenéssel.",
+        "ro": "Începeți turul cu bicicleta la Turnul cu Ceas și explorați cu flexibilitate siturile istorice din centrul orașului, inclusiv casa Aleko Konstantinov și magnifica Biserică Sfânta Treime. Luați o pauză de prânz înainte de a pedala spre portul dunărean pentru a vă bucura de priveliște. După-amiaza, un tur mai lung vă duce la Parcul Pametnizite, un loc de liniște și istorie. Ultima urcare spre Cetatea Kaleto este o provocare, dar vederea panoramică la apus peste Dunăre este o recompensă de neuitat. Descoperirea orașului Sviștov cu bicicleta combină cultura cu recreerea activă.",
+        "en": "Start your bike tour at the Clock Tower and flexibly explore the historic sites of the city center, including the Aleko Konstantinov House and the magnificent Holy Trinity Church. Take a lunch break before cycling to the Danube port to enjoy the view. In the afternoon, a longer tour takes you to Pametnizite Park, a place of tranquility and history. The final climb to the Kaleto Fortress is a challenge, but the panoramic sunset view over the Danube is an unforgettable reward. Discovering Svishtov by bike combines culture with active recreation."
       },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Lokale Bäckerei",
-            "tip": "Probieren Sie Baniza als schnellen Snack für zwischendurch."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Helyi pékség",
-            "tip": "Kóstolja meg a banicát, mint gyors kerékpáros uzsonnát."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Brutărie locală",
-            "tip": "Încercați o banița ca gustare rapidă între vizite."
-          }
-        ],
-        "en": [
-          {
-            "name": "Local Bakery",
-            "tip": "Try banitsa as a quick cyclist snack."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Pametnizite-Denkmal",
-            "tip": "Großzügige Grünflächen direkt an der Donau.",
-            "emoji": "🏞️"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Pametnicite emlékmű",
-            "tip": "Tágas zöldfelületek közvetlenül a Duna partján.",
-            "emoji": "🍃"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Monumentul Pametnițite",
-            "tip": "Spații verzi generoase chiar pe malul Dunării.",
-            "emoji": "🧘"
-          }
-        ],
-        "en": [
-          {
-            "name": "Pametnizite Monument",
-            "tip": "Spacious green areas right by the Danube.",
-            "emoji": "🌅"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Marktplatz",
-            "tip": "Frisches Obst für die Radtour kaufen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Városi piac",
-            "tip": "Vásároljon friss gyümölcsöt a biciklitúrához."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Piața centrală",
-            "tip": "Cumpărați fructe proaspete pentru tura cu bicicleta."
-          }
-        ],
-        "en": [
-          {
-            "name": "Central Market",
-            "tip": "Buy fresh fruit for the bike ride."
-          }
-        ]
-      },
+      "gastro_picks": {},
+      "quiet_picks": {},
+      "shopping_picks": {},
       "tips": {
         "de": [
-          "Die Straße zum Pametnizite-Park ist gut befahrbar.",
-          "Vorsicht vor Kopfsteinpflaster in einigen Gassen der Altstadt.",
-          "In den Sommermonaten ausreichend Wasser mitnehmen."
+          "Die Uferpromenade ist ideal für eine entspannte Radtour.",
+          "Der Anstieg zur Festung erfordert gute Kondition oder Schieben.",
+          "Schließen Sie Ihr Fahrrad an den Hauptsehenswürdigkeiten gut an.",
+          "Achten Sie in den engen Gassen der Altstadt auf Fußgänger.",
+          "Einige Straßen haben Kopfsteinpflaster, das Fahren kann holprig sein."
         ],
         "hu": [
-          "A Pametnicite parkba vezető út jól biciklizhető.",
-          "Vigyázzon a macskakövekre az óvárosi szűk utcákban.",
-          "A nyári hónapokban vigyen magával elegendő vizet."
+          "A folyóparti sétány ideális egy laza kerékpártúrához.",
+          "Az erődhöz való feljutás jó erőnlétet vagy tolás igényel.",
+          "A fő látnivalóknál gondosan zárja le a kerékpárját.",
+          "Az óváros szűk utcáin figyeljen a gyalogosokra.",
+          "Néhány utca macskaköves, ami rázóssá teheti a kerékpározást."
         ],
         "ro": [
-          "Drumul spre parcul Pametnițite este ușor de parcurs cu bicicleta.",
-          "Atenție la porțiunile cu piatră cubică din centrul vechi.",
-          "Luați suficientă apă în lunile de vară."
+          "Promenada de pe malul apei este ideală pentru o plimbare relaxantă cu bicicleta.",
+          "Urcarea la cetate necesită o condiție fizică bună sau împingerea bicicletei.",
+          "Asigurați-vă bine bicicleta la principalele atracții turistice.",
+          "Fiți atenți la pietoni pe străduțele înguste din orașul vechi.",
+          "Unele străzi au piatră cubică, ceea ce poate face mersul pe bicicletă anevoios."
         ],
         "en": [
-          "The road to Pametnizite Park is good for cycling.",
-          "Watch out for cobblestones in some old town alleys.",
-          "Take enough water during the summer months."
+          "The waterfront promenade is ideal for a relaxed bike ride.",
+          "The climb to the fortress requires good fitness or pushing the bike.",
+          "Lock your bike securely at the main sights.",
+          "Watch out for pedestrians in the narrow streets of the old town.",
+          "Some streets have cobblestones, which can make for a bumpy ride."
         ]
       },
       "variants": {
@@ -1033,303 +1033,192 @@
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:30",
-      "total_km": 15.5,
+      "end_estimate": "19:15",
+      "total_km": 5.4,
       "stop_count": 8,
       "stops": [
         {
           "name": {
-            "de": "Erste bulgarische Schule (Cluster Altstadt)",
-            "hu": "Az első bolgár iskola (Óvárosi klaszter)",
-            "ro": "Prima școală bulgară (Cluster Centrul Vechi)",
-            "en": "First Bulgarian School (Old Town Cluster)"
+            "de": "Parken am Uhrturm (Cluster A)",
+            "hu": "Parkolás az Óratoronynál (A klaszter)",
+            "ro": "Parcare la Turnul cu Ceas (Cluster A)",
+            "en": "Parking at the Clock Tower (Cluster A)"
           },
           "coords": [
-            43.6128,
-            25.3498
+            25.349,
+            43.617
           ],
-          "category": "museums",
+          "category": "castles/fortresses/towers",
           "arrive_at": "09:10",
-          "stay_min": 90,
+          "stay_min": 25,
+          "hop_mode": "car",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Parken Sie am zentralen Platz und erkunden Sie diesen Bereich zu Fuß.",
-            "hu": "Parkoljon a központi téren, és fedezze fel ezt a részt gyalog.",
-            "ro": "Parcați în piața centrală și explorați această zonă pe jos.",
-            "en": "Park at the central square and explore this area on foot."
-          }
+          "hop_from_prev_km": 0
         },
         {
           "name": {
             "de": "Aleko-Konstantinow-Haus",
-            "hu": "Aleko Konsztantinov szülőháza",
-            "ro": "Casa memorială Aleko Konstantinov",
-            "en": "Aleko Konstantinov House"
+            "hu": "Aleko Konstantinov-ház",
+            "ro": "Casa Aleko Konstantinov",
+            "en": "Aleko Konstantinov House-Museum"
           },
           "coords": [
-            43.6122,
-            25.3512
+            25.348,
+            43.618
           ],
           "category": "famous residences",
-          "arrive_at": "10:45",
-          "stay_min": 50,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Wanderung innerhalb des Altstadt-Clusters (200m).",
-            "hu": "Gyalogos táv az óvárosi klaszterben (200m).",
-            "ro": "Deplasare pe jos în clusterul centrului vechi (200m).",
-            "en": "Walking distance within the old town cluster (200m)."
-          }
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Erste bulgarische Schule",
+            "hu": "Első Bolgár Iskola",
+            "ro": "Prima școală bulgară",
+            "en": "First Bulgarian School"
+          },
+          "coords": [
+            25.347,
+            43.6175
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
         },
         {
           "name": {
             "de": "Kirche der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
+            "en": "Church of the Holy Trinity"
           },
           "coords": [
-            43.6111,
-            25.3524
+            25.345,
+            43.619
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "11:40",
+          "arrive_at": "12:53",
           "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Letzter Stopp im ersten Cluster vor der Weiterfahrt.",
-            "hu": "Az utolsó megálló az első klaszterben továbbindulás előtt.",
-            "ro": "Ultima oprire din primul cluster înainte de plecare.",
-            "en": "Last stop in the first cluster before driving on."
-          }
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4
         },
         {
           "name": {
-            "de": "Pametnizite-Park (Cluster Ost)",
-            "hu": "Pametnicite park (Keleti klaszter)",
-            "ro": "Parcul Pametnițite (Cluster Est)",
-            "en": "Pametnizite Park (East Cluster)"
+            "de": "Hafen & Mittagessen (Cluster B)",
+            "hu": "Kikötő és ebéd (B klaszter)",
+            "ro": "Port și prânz (Cluster B)",
+            "en": "Port & Lunch (Cluster B)"
           },
           "coords": [
-            43.6155,
-            25.3902
+            25.355,
+            43.623
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Restaurant am Hafen",
+            "hu": "Étterem a kikötőben",
+            "ro": "Restaurant în port",
+            "en": "Restaurant at the Port"
+          },
+          "coords": [
+            25.356,
+            43.622
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Pametnizite-Park (Cluster C)",
+            "hu": "Pametnizite Park (C klaszter)",
+            "ro": "Parcul Pametnizite (Cluster C)",
+            "en": "Pametnizite Park (Cluster C)"
+          },
+          "coords": [
+            25.365,
+            43.615
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "12:35",
+          "arrive_at": "15:54",
           "stay_min": 75,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.5,
-          "tip_5lang": {
-            "de": "Großer Parkplatz am Eingang des Parks.",
-            "hu": "Nagy parkoló a park bejáratánál.",
-            "ro": "Parcare mare la intrarea în parc.",
-            "en": "Large parking lot at the park entrance."
-          }
-        },
-        {
-          "name": {
-            "de": "Militärdenkmal",
-            "hu": "Katonai emlékmű",
-            "ro": "Monumentul militar",
-            "en": "Military Monument"
-          },
-          "coords": [
-            43.6165,
-            25.3555
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "14:05",
-          "stay_min": 25,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 4.2,
-          "tip_5lang": {
-            "de": "Zufahrt direkt bis zum Denkmal möglich.",
-            "hu": "Az emlékműig közvetlen autós út vezet.",
-            "ro": "Acces auto direct până la monument.",
-            "en": "Direct car access to the monument."
-          }
+          "hop_mode": "car",
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2
         },
         {
           "name": {
             "de": "Kaleto-Festung",
-            "hu": "Kaleto-erőd",
+            "hu": "Kaleto erőd",
             "ro": "Cetatea Kaleto",
             "en": "Kaleto Fortress"
           },
           "coords": [
-            43.6145,
-            25.3542
+            25.335,
+            43.618
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "14:35",
-          "stay_min": 40,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Parken unterhalb der Ruinen möglich.",
-            "hu": "Parkolás a romok alatt lehetséges.",
-            "ro": "Parcare disponibilă sub ruine.",
-            "en": "Parking available below the ruins."
-          }
-        },
-        {
-          "name": {
-            "de": "Hafen von Swischtow (Cluster Fluss)",
-            "hu": "Szvistovi kikötő (Folyóparti klaszter)",
-            "ro": "Portul Sviștov (Cluster Fluviu)",
-            "en": "Port of Svishtov (River Cluster)"
-          },
-          "coords": [
-            43.6212,
-            25.3562
-          ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "15:25",
+          "arrive_at": "17:25",
           "stay_min": 80,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Besuchen Sie die Hafenanlagen und die Promenade.",
-            "hu": "Látogassa meg a kikötői létesítményeket és a sétányt.",
-            "ro": "Vizitați instalațiile portuare și promenada.",
-            "en": "Visit the port facilities and the promenade."
-          }
-        },
-        {
-          "name": {
-            "de": "Der Uhrturm",
-            "hu": "Óratorony",
-            "ro": "Turnul cu ceas",
-            "en": "The Clock Tower"
-          },
-          "coords": [
-            43.6135,
-            25.3531
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "16:55",
-          "stay_min": 35,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Abendlicher Abschluss im beleuchteten Stadtzentrum.",
-            "hu": "Esti zárás a kivilágított városközpontban.",
-            "ro": "Încheierea serii în centrul orașului iluminat.",
-            "en": "Evening conclusion in the illuminated city center."
-          }
+          "hop_mode": "car",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3
         }
       ],
       "narrative_4lang": {
-        "de": "Die Autotour verbindet die historischen Gebäude im Zentrum mit dem weitläufigen Pametnizite-Park im Osten. Wir nutzen das Auto, um bequem zwischen den drei Hauptclustern (Altstadt, Denkmalpark und Hafen) zu wechseln. Dies ermöglicht es uns, auch die weiter entfernten Gedenkstätten am Donauufer ohne Zeitdruck zu besuchen.",
-        "hu": "Az autós túra összeköti a belváros történelmi épületeit a távolabb eső keleti Pametnicite emlékparkkal. Az autót a három fő klaszter (Óváros, Emlékpark és Kikötő) közötti kényelmes közlekedésre használjuk. Így időt spórolunk, és a Duna-parti távolabbi helyszíneket is kényelmesen bejárhatjuk.",
-        "ro": "Turul cu mașina conectează clădirile istorice din centru cu parcul extins Pametnițite din est. Folosim mașina pentru a ne deplasa confortabil între cele trei clustere principale (Centrul Vechi, parcul monumentelor și Portul). Acest lucru ne permite să vizităm siturile mai îndepărtate de pe malul Dunării fără grabă.",
-        "en": "The car tour connects the historical buildings in the center with the sprawling Pametnizite Park in the east. We use the car to travel comfortably between the three main clusters (Old Town, Monument Park, and Port). This allows us to visit the more distant sites on the Danube bank without rushing."
+        "de": "Mit dem Auto erkunden Sie Swischtow effizient in Clustern. Parken Sie im historischen Zentrum (Cluster A) und entdecken Sie zu Fuß den Uhrturm, das Aleko-Konstantinow-Haus und die Dreifaltigkeitskirche. Fahren Sie dann zum Donauufer (Cluster B) für ein Mittagessen mit Aussicht und einen Spaziergang am Hafen. Am Nachmittag fahren Sie zum Pametnizite-Park (Cluster C), einem Ort der Geschichte und Ruhe. Den Abschluss bildet die kurze Fahrt zur Kaleto-Festung, von wo aus Sie einen unvergesslichen Sonnenuntergang über dem Fluss erleben. Diese Tour kombiniert bequemes Reisen mit intensiven Erkundungen zu Fuß.",
+        "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Svishtovot. Parkoljon a történelmi központban (A klaszter), és gyalogosan fedezze fel az Óratornyot, az Aleko Konstantinov-házat és a Szentháromság-templomot. Ezután hajtson le a Duna-parthoz (B klaszter) egy kilátással egybekötött ebédre és egy sétára a kikötőben. Délután utazzon el a Pametnizite Parkba (C klaszter), a történelem és a nyugalom helyére. A napot a Kaleto erődhöz vezető rövid út zárja, ahonnan felejthetetlen naplementét élvezhet a folyó felett. Ez a túra a kényelmes utazást az intenzív gyalogos felfedezéssel ötvözi.",
+        "ro": "Cu mașina, explorați Sviștovul eficient, pe clustere. Parcați în centrul istoric (Cluster A) și descoperiți pe jos Turnul cu Ceas, Casa Aleko Konstantinov și Biserica Sfânta Treime. Apoi, conduceți spre malul Dunării (Cluster B) pentru un prânz cu vedere și o plimbare în port. După-amiaza, mergeți la Parcul Pametnizite (Cluster C), un loc de istorie și liniște. Ziua se încheie cu o scurtă călătorie cu mașina până la Cetatea Kaleto, de unde veți avea parte de un apus de soare de neuitat peste fluviu. Acest tur combină călătoria confortabilă cu explorarea intensă pe jos.",
+        "en": "Explore Svishtov efficiently by car in clusters. Park in the historic center (Cluster A) and discover the Clock Tower, the Aleko Konstantinov House, and the Holy Trinity Church on foot. Then drive to the Danube bank (Cluster B) for lunch with a view and a stroll in the port. In the afternoon, travel to Pametnizite Park (Cluster C), a place of history and tranquility. The day concludes with a short drive to the Kaleto Fortress, where you can experience an unforgettable sunset over the river. This tour combines comfortable travel with intensive exploration on foot."
       },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Panorama-Restaurant",
-            "tip": "Hübsches Restaurant mit Blick auf die Donau und Parkplatz."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Panoráma étterem",
-            "tip": "Szép étterem kilátással a Dunára és saját parkolóval."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Restaurant Panorama",
-            "tip": "Restaurant drăguț cu vedere la Dunăre și parcare proprie."
-          }
-        ],
-        "en": [
-          {
-            "name": "Panorama Restaurant",
-            "tip": "Nice restaurant with a view of the Danube and its own parking."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Gedenkstätte am Fluss",
-            "tip": "Weitläufige Anlage für ruhige Momente.",
-            "emoji": "🌅"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Folyóparti emlékhely",
-            "tip": "Tágas terület a csendes percekhez.",
-            "emoji": "🏞️"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Memorialul de pe fluviu",
-            "tip": "Zonă vastă pentru momente de liniște.",
-            "emoji": "🧘"
-          }
-        ],
-        "en": [
-          {
-            "name": "Riverside Memorial",
-            "tip": "Spacious area for quiet moments.",
-            "emoji": "🍃"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Supermarkt am Stadtrand",
-            "tip": "Gute Auswahl an bulgarischen Weinen und Käse."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Városszéli szupermarket",
-            "tip": "Széles választék bolgár borokból és sajtokból."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Supermarket la marginea orașului",
-            "tip": "O selecție bună de vinuri și brânzeturi bulgărești."
-          }
-        ],
-        "en": [
-          {
-            "name": "Outskirts Supermarket",
-            "tip": "Good selection of Bulgarian wines and cheeses."
-          }
-        ]
-      },
+      "gastro_picks": {},
+      "quiet_picks": {},
+      "shopping_picks": {},
       "tips": {
         "de": [
-          "Die Straßen im Zentrum sind oft Einbahnstraßen.",
-          "Parken ist meist unkompliziert und kostenlos möglich.",
-          "Tanken Sie im Stadtzentrum, bevor Sie zu den Außenbezirken fahren."
+          "Nutzen Sie die Cluster-Philosophie: Parken Sie einmal und erkunden Sie den Bereich zu Fuß.",
+          "Parkplätze im Zentrum können knapp sein, planen Sie Zeit für die Suche ein.",
+          "Die Straßen können eng sein, fahren Sie vorsichtig.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
+          "Ein Auto ermöglicht auch Ausflüge in die umliegende Weinregion."
         ],
         "hu": [
-          "A belvárosi utcák gyakran egyirányúak.",
-          "A parkolás többnyire egyszerű és ingyenes.",
-          "Tankoljon a városközpontban, mielőtt a külső negyedekbe indulna."
+          "Használja a klaszter-filozófiát: parkoljon le egyszer, és fedezze fel a területet gyalog.",
+          "A központi parkolóhelyek szűkösek lehetnek, tervezzen időt a keresésre.",
+          "Az utcák szűkek lehetnek, vezessen óvatosan.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mivel az változhat.",
+          "Az autó lehetővé teszi a környező borvidék felfedezését is."
         ],
         "ro": [
-          "Străzile din centru sunt adesea cu sens unic.",
-          "Parcarea este în general simplă și gratuită.",
-          "Alimentați în centrul orașului înainte de a merge spre periferie."
+          "Utilizați filosofia clusterelor: parcați o dată și explorați zona pe jos.",
+          "Locurile de parcare din centru pot fi limitate, planificați timp pentru a găsi unul.",
+          "Străzile pot fi înguste, conduceți cu prudență.",
+          "Verificați în avans programul muzeelor, deoarece acesta poate varia.",
+          "O mașină permite, de asemenea, excursii în regiunea viticolă înconjurătoare."
         ],
         "en": [
-          "The center streets are often one-way.",
-          "Parking is usually straightforward and free of charge.",
-          "Refuel in the city center before driving to the outskirts."
+          "Use the cluster philosophy: park once and explore the area on foot.",
+          "Parking spaces in the center can be scarce, plan time for searching.",
+          "The streets can be narrow, drive carefully.",
+          "Check the opening hours of the museums in advance, as they can vary.",
+          "A car also allows for trips to the surrounding wine region."
         ]
       },
       "variants": {
@@ -1555,257 +1444,192 @@
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 6.2,
-      "stop_count": 6,
+      "end_estimate": "19:34",
+      "total_km": 5.5,
+      "stop_count": 8,
       "stops": [
         {
           "name": {
-            "de": "Uhrturm (Zentrum)",
-            "hu": "Óratorony (Központ)",
-            "ro": "Turnul cu ceas (Centru)",
-            "en": "Clock Tower (Center)"
+            "de": "Zentrum (Cluster A)",
+            "hu": "Központ (A klaszter)",
+            "ro": "Centru (Cluster A)",
+            "en": "Center (Cluster A)"
           },
           "coords": [
-            43.6135,
-            25.3531
+            25.349,
+            43.617
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "09:15",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Wichtiger Busknotenpunkt der Stadt.",
-            "hu": "Fontos autóbusz-csomópont a városban.",
-            "ro": "Nod important de autobuze în oraș.",
-            "en": "Important bus hub in the city."
-          }
-        },
-        {
-          "name": {
-            "de": "Erste bulgarische Schule",
-            "hu": "Az első bolgár iskola",
-            "ro": "Prima școală bulgară",
-            "en": "First Bulgarian School"
-          },
-          "coords": [
-            43.6128,
-            25.3498
-          ],
-          "category": "museums",
-          "arrive_at": "09:55",
-          "stay_min": 100,
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "transit",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Kurzer Fußweg vom zentralen Busstopp.",
-            "hu": "Rövid séta a központi buszmegállótól.",
-            "ro": "Scurtă plimbare de la stația centrală de autobuz.",
-            "en": "Short walk from the central bus stop."
-          }
+          "hop_from_prev_km": 0
         },
         {
           "name": {
             "de": "Aleko-Konstantinow-Haus",
-            "hu": "Aleko Konsztantinov szülőháza",
-            "ro": "Casa memorială Aleko Konstantinov",
-            "en": "Aleko Konstantinov House"
+            "hu": "Aleko Konstantinov-ház",
+            "ro": "Casa Aleko Konstantinov",
+            "en": "Aleko Konstantinov House-Museum"
           },
           "coords": [
-            43.6122,
-            25.3512
+            25.348,
+            43.618
           ],
           "category": "famous residences",
-          "arrive_at": "11:40",
-          "stay_min": 60,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "In der Nähe der Wirtschaftsakademie.",
-            "hu": "A Gazdasági Akadémia közelében.",
-            "ro": "În apropierea Academiei de Economie.",
-            "en": "Near the Academy of Economics."
-          }
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Dreifaltigkeit",
+            "hu": "Szentháromság-templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Church of the Holy Trinity"
+          },
+          "coords": [
+            25.345,
+            43.619
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5
+        },
+        {
+          "name": {
+            "de": "Erste bulgarische Schule",
+            "hu": "Első Bolgár Iskola",
+            "ro": "Prima școală bulgară",
+            "en": "First Bulgarian School"
+          },
+          "coords": [
+            25.347,
+            43.6175
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Hafen (Cluster B)",
+            "hu": "Kikötő (B klaszter)",
+            "ro": "Port (Cluster B)",
+            "en": "Port (Cluster B)"
+          },
+          "coords": [
+            25.355,
+            43.623
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.5
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Hafen",
+            "hu": "Ebéd a kikötőben",
+            "ro": "Prânz în port",
+            "en": "Lunch at the Port"
+          },
+          "coords": [
+            25.356,
+            43.622
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2
+        },
+        {
+          "name": {
+            "de": "Pametnizite-Park (Cluster C)",
+            "hu": "Pametnizite Park (C klaszter)",
+            "ro": "Parcul Pametnizite (Cluster C)",
+            "en": "Pametnizite Park (Cluster C)"
+          },
+          "coords": [
+            25.365,
+            43.615
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 2
         },
         {
           "name": {
             "de": "Kaleto-Festung",
-            "hu": "Kaleto-erőd",
+            "hu": "Kaleto erőd",
             "ro": "Cetatea Kaleto",
             "en": "Kaleto Fortress"
           },
           "coords": [
-            43.6145,
-            25.3542
+            25.335,
+            43.618
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "12:50",
-          "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.3,
-          "tip_5lang": {
-            "de": "Spaziergang bergauf durch die alten Gassen.",
-            "hu": "Séta felfelé az ódon utcákon.",
-            "ro": "Urcare pe jos prin străzile vechi.",
-            "en": "Uphill walk through the old alleys."
-          }
-        },
-        {
-          "name": {
-            "de": "Hafen von Swischtow",
-            "hu": "Szvistovi kikötő",
-            "ro": "Portul Sviștov",
-            "en": "Port of Svishtov"
-          },
-          "coords": [
-            43.6212,
-            25.3562
-          ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "13:50",
-          "stay_min": 100,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.2,
-          "tip_5lang": {
-            "de": "Mit dem lokalen Bus vom Zentrum zum Hafen.",
-            "hu": "Helyi busszal a központból a kikötőig.",
-            "ro": "Cu autobuzul local din centru până în port.",
-            "en": "Take the local bus from the center to the port."
-          }
-        },
-        {
-          "name": {
-            "de": "Militärdenkmal",
-            "hu": "Katonai emlékmű",
-            "ro": "Monumentul militar",
-            "en": "Military Monument"
-          },
-          "coords": [
-            43.6165,
-            25.3555
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "15:45",
-          "stay_min": 30,
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.1,
-          "tip_5lang": {
-            "de": "Rückfahrt zum Zentrum mit dem Bus.",
-            "hu": "Visszautazás busszal a központba.",
-            "ro": "Întoarcerea în centru cu autobuzul.",
-            "en": "Return to the center by bus."
-          }
+          "arrive_at": "17:44",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.3
         }
       ],
       "narrative_4lang": {
-        "de": "Die Transit-Tour nutzt das lokale Busnetz, um die Distanzen zwischen der höher gelegenen Altstadt und dem Donauufer zu überbrücken. Wir beginnen im lebendigen Zentrum und erkunden die historischen Schulen und Museen, bevor wir mit dem Bus zum Hafen hinunterfahren, um das maritime Flair zu genießen.",
-        "hu": "A tömegközlekedési túra a helyi buszhálózatot használja a magasabban fekvő óváros és a Duna-part közötti távolság leküzdésére. A nyüzsgő központban kezdünk a történelmi iskolákkal és múzeumokkal, majd busszal megyünk le a kikötőbe, hogy átéljük a folyóparti hangulatot.",
-        "ro": "Turul cu transportul public folosește rețeaua locală de autobuze pentru a parcurge distanța dintre centrul vechi și malul Dunării. Începem în centrul animat, explorând școlile istorice și muzeele, înainte de a lua autobuzul spre port pentru a ne bucura de atmosfera fluvială.",
-        "en": "The transit tour uses the local bus network to cover the distance between the higher-situated old town and the Danube bank. We start in the lively center, exploring the historical schools and museums, before taking the bus down to the port to enjoy the riverside atmosphere."
+        "de": "Entdecken Sie Swischtow bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im Zentrum (Cluster A) und erkunden Sie die wichtigsten historischen Stätten zu Fuß. Nehmen Sie dann den Bus zum Donauhafen (Cluster B) für Ihr Mittagessen und einen erfrischenden Spaziergang. Am Nachmittag bringt Sie ein weiterer Bus zum Pametnizite-Park (Cluster C). Von dort aus ist es ein kurzer Spaziergang zur Kaleto-Festung, wo Sie den Tag mit einem spektakulären Sonnenuntergang ausklingen lassen. Diese Tour ist ideal für alle, die eine entspannte und umweltfreundliche Art des Reisens bevorzugen.",
+        "hu": "Fedezze fel Svishtovot kényelmesen tömegközlekedéssel. Kezdje a központban (A klaszter), és gyalogosan járja be a legfontosabb történelmi helyszíneket. Ezután busszal menjen a dunai kikötőbe (B klaszter) ebédelni és egy frissítő sétát tenni. Délután egy másik busz viszi el a Pametnizite Parkba (C klaszter). Onnan egy rövid séta a Kaleto erődhöz, ahol egy látványos naplementével zárhatja a napot. Ez a túra ideális azok számára, akik a pihentető és környezetbarát utazási módot részesítik előnyben.",
+        "ro": "Descoperiți Sviștovul confortabil cu transportul public. Începeți în centru (Cluster A) și explorați principalele situri istorice pe jos. Apoi, luați autobuzul spre portul dunărean (Cluster B) pentru prânz și o plimbare revigorantă. După-amiaza, un alt autobuz vă duce la Parcul Pametnizite (Cluster C). De acolo, este o scurtă plimbare până la Cetatea Kaleto, unde puteți încheia ziua cu un apus de soare spectaculos. Acest tur este ideal pentru cei care preferă un mod de călătorie relaxant și ecologic.",
+        "en": "Discover Svishtov comfortably by public transport. Start in the center (Cluster A) and explore the most important historical sites on foot. Then take the bus to the Danube port (Cluster B) for lunch and a refreshing walk. In the afternoon, another bus takes you to Pametnizite Park (Cluster C). From there it's a short walk to the Kaleto Fortress, where you can end the day with a spectacular sunset. This tour is ideal for those who prefer a relaxed and environmentally friendly way of traveling."
       },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Bistro Akademie",
-            "tip": "Günstige und gute bulgarische Gerichte bei Studenten beliebt."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Akadémia bisztró",
-            "tip": "Olcsó és jó bolgár ételek, az egyetemisták kedvence."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Bistro Academia",
-            "tip": "Mâncare bulgărească ieftină și bună, populară printre studenți."
-          }
-        ],
-        "en": [
-          {
-            "name": "Academy Bistro",
-            "tip": "Cheap and good Bulgarian dishes, popular with students."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Platz der Heiligen Dreifaltigkeit",
-            "tip": "Ruhiger Platz mit Sitzbänken vor der Kirche.",
-            "emoji": "🧘"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Szentháromság tér",
-            "tip": "Csendes tér padokkal a templom előtt.",
-            "emoji": "🍃"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Piața Sfânta Treime",
-            "tip": "Piață liniștită cu bănci în fața bisericii.",
-            "emoji": "🌅"
-          }
-        ],
-        "en": [
-          {
-            "name": "Holy Trinity Square",
-            "tip": "Quiet square with benches in front of the church.",
-            "emoji": "🏞️"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Zentraler Kiosk",
-            "tip": "Kaufen Sie hier Busfahrkarten und Stadtpläne."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Központi újságos",
-            "tip": "Itt vásárolhat buszjegyeket és várostérképet."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Chioșc central",
-            "tip": "Cumpărați bilete de autobuz și hărți ale orașului de aici."
-          }
-        ],
-        "en": [
-          {
-            "name": "Central Kiosk",
-            "tip": "Buy bus tickets and city maps here."
-          }
-        ]
-      },
+      "gastro_picks": {},
+      "quiet_picks": {},
+      "shopping_picks": {},
       "tips": {
         "de": [
-          "Fahrpläne hängen meist an den Hauptstationen aus.",
-          "Fragen Sie die Einheimischen nach der nächsten Abfahrt, sie sind sehr hilfsbereit.",
-          "Kleingeld für den Fahrkartenkauf beim Fahrer bereithalten."
+          "Erkundigen Sie sich im Voraus nach den Busfahrplänen, da diese unregelmäßig sein können.",
+          "Eine Tageskarte kann günstiger sein als Einzelfahrscheine.",
+          "Planen Sie Wartezeiten an den Haltestellen ein.",
+          "Die Cluster-Methode funktioniert auch mit Bussen gut: An einer Haltestelle aussteigen und die Umgebung zu Fuß erkunden.",
+          "Fragen Sie Einheimische nach der richtigen Buslinie, wenn Sie unsicher sind."
         ],
         "hu": [
-          "A menetrendek általában a főbb megállókban vannak kifüggesztve.",
-          "Kérdezze a helyieket a következő járatról, nagyon segítőkészek.",
-          "Készítsen ki aprópénzt a jegyvásárláshoz a buszvezetőnél."
+          "Érdeklődjön előre a buszmenetrendről, mivel az rendszertelen lehet.",
+          "Egy napijegy olcsóbb lehet, mint a vonaljegyek.",
+          "Tervezzen be várakozási időt a megállókban.",
+          "A klaszter-módszer buszokkal is jól működik: szálljon le egy megállónál, és fedezze fel a környéket gyalog.",
+          "Kérdezze meg a helyieket a megfelelő buszjáratról, ha bizonytalan."
         ],
         "ro": [
-          "Orarele sunt de obicei afișate în stațiile principale.",
-          "Întrebați localnicii despre următoarea cursă, sunt foarte amabili.",
-          "Pregătiți mărunțiș pentru a cumpăra biletul de la șofer."
+          "Informați-vă în avans despre orarele autobuzelor, deoarece acestea pot fi neregulate.",
+          "Un bilet de o zi poate fi mai ieftin decât biletele individuale.",
+          "Planificați timpi de așteptare în stații.",
+          "Metoda clusterelor funcționează bine și cu autobuzele: coborâți la o stație și explorați zona pe jos.",
+          "Întrebați localnicii despre linia corectă de autobuz dacă nu sunteți sigur."
         ],
         "en": [
-          "Schedules are usually posted at the main stations.",
-          "Ask locals about the next departure; they are very helpful.",
-          "Have small change ready to buy tickets from the driver."
+          "Inquire about the bus schedules in advance, as they can be irregular.",
+          "A day ticket can be cheaper than single tickets.",
+          "Plan for waiting times at the bus stops.",
+          "The cluster method also works well with buses: get off at one stop and explore the area on foot.",
+          "Ask locals for the right bus line if you are unsure."
         ]
       },
       "variants": {
