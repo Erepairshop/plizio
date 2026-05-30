@@ -15,6 +15,8 @@ type Country = {
   vbVar: string;         // exported viewBox string name
   projFn: string;        // exported projectCoords function name
   names: Record<Lang, string>;
+  poiSourceIso?: string; // metro maps: load POIs from this country's JSON instead of <iso>.json
+  poiParent?: string;    // metro maps: keep only POIs whose parent === this (e.g. "FR-IDF")
 };
 
 const COUNTRIES: Country[] = [
@@ -28,6 +30,10 @@ const COUNTRIES: Country[] = [
     names:{ de:"Deutschland", hu:"Németország", ro:"Germania", en:"Germany" } },
   { iso:"fr", slug:"france", svgFile:"france.svg.ts", mapVar:"franceMap", vbVar:"franceViewBox", projFn:"projectCoordsFR",
     names:{ de:"Frankreich", hu:"Franciaország", ro:"Franța", en:"France" } },
+  // Metro map: Île-de-France (Paris) — departments background, POIs filtered by parent FR-IDF.
+  { iso:"paris", slug:"paris", svgFile:"parisMetro.svg.ts", mapVar:"parisMetroMap", vbVar:"parisMetroViewBox", projFn:"projectCoordsParis",
+    poiSourceIso:"FR", poiParent:"FR-IDF",
+    names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } },
   { iso:"it", slug:"italy", svgFile:"italy.svg.ts", mapVar:"italyMap", vbVar:"italyViewBox", projFn:"projectCoordsIT",
     names:{ de:"Italien", hu:"Olaszország", ro:"Italia", en:"Italy" } },
   { iso:"es", slug:"spain", svgFile:"spain.svg.ts", mapVar:"spainMap", vbVar:"spainViewBox", projFn:"projectCoordsES",
@@ -1181,13 +1187,14 @@ async function buildOne(c: Country): Promise<boolean> {
   }
   const { w: W, h: H } = parseViewBox(viewBox);
 
-  const isoUp = c.iso === "gb" ? "GB" : c.iso.toUpperCase();
+  const isoUp = c.poiSourceIso || (c.iso === "gb" ? "GB" : c.iso.toUpperCase());
   const poisJsonPath = path.join(process.cwd(), "public", "data", "pois", `${isoUp}.json`);
   let poisRaw: any[] = [];
   if (fs.existsSync(poisJsonPath)) {
     try {
       const j = JSON.parse(fs.readFileSync(poisJsonPath, "utf8"));
       poisRaw = j.pois || j;
+      if (c.poiParent) poisRaw = poisRaw.filter((p: any) => p && p.parent === c.poiParent);
     } catch {}
   }
   const seen = new Set<string>();
