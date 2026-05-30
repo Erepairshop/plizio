@@ -1,0 +1,1076 @@
+{
+  "city_id": "pforzheim-extra",
+  "anchor": {
+    "name": "Pforzheim",
+    "coords": [
+      8.7,
+      48.89
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schlosskirche St. Michael",
+            "hu": "Szent Mihály-vártemplom",
+            "ro": "Biserica Castelului Sf. Mihail",
+            "en": "St. Michael's Castle Church"
+          },
+          "coords": [
+            8.7022,
+            48.8915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Grablege der badischen Markgrafen.",
+            "hu": "Nézze meg a badeni őrgrófok sírhelyeit.",
+            "ro": "Vizitați mormintele margrafilor de Baden.",
+            "en": "Visit the burial site of the Baden margraves."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmuckmuseum Pforzheim",
+            "hu": "Pforzheimi Ékszermúzeum",
+            "ro": "Muzeul Bijuteriilor Pforzheim",
+            "en": "Pforzheim Jewelry Museum"
+          },
+          "coords": [
+            8.6991,
+            48.8885
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige Sammlung von der Antike bis zur Moderne.",
+            "hu": "Egyedülálló gyűjtemény az ókortól a modern korig.",
+            "ro": "Colecție unică din antichitate până în epoca modernă.",
+            "en": "Unique collection from antiquity to the modern era."
+          }
+        },
+        {
+          "name": {
+            "de": "Reuchlinhaus",
+            "hu": "Reuchlin-ház",
+            "ro": "Casa Reuchlin",
+            "en": "Reuchlin House"
+          },
+          "coords": [
+            8.6993,
+            48.8884
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der 1950er Jahre.",
+            "hu": "Csodálja meg az 1950-es évek modern építészetét.",
+            "ro": "Admirați arhitectura modernă din anii 1950.",
+            "en": "Admire the modern architecture of the 1950s."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz Mittagessen",
+            "hu": "Ebéd a piactéren",
+            "ro": "Prânz în Piața Centrală",
+            "en": "Lunch at the Marketplace"
+          },
+          "coords": [
+            8.7005,
+            48.8905
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Pforzheimer Dreck als Dessert.",
+            "hu": "Kóstolja meg a 'Pforzheimer Dreck' nevű édességet.",
+            "ro": "Încercați desertul local 'Pforzheimer Dreck'.",
+            "en": "Try the 'Pforzheimer Dreck' as dessert."
+          }
+        },
+        {
+          "name": {
+            "de": "Enzauenpark",
+            "hu": "Enzauen-park",
+            "ro": "Parcul Enzauen",
+            "en": "Enzauen Park"
+          },
+          "coords": [
+            8.715,
+            48.8902
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Enz zum Biergarten.",
+            "hu": "Sétáljon az Enz folyó mentén a sörkertig.",
+            "ro": "Plimbați-vă de-a lungul râului Enz până la terasa de bere.",
+            "en": "Walk along the Enz river to the beer garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer Pforzheim",
+            "hu": "Pforzheimi Gázométer",
+            "ro": "Gazometrul Pforzheim",
+            "en": "Pforzheim Gasometer"
+          },
+          "coords": [
+            8.7205,
+            48.8855
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das 360-Grad-Panorama von Yadegar Asisi ist magisch.",
+            "hu": "Yadegar Asisi 360 fokos panorámája lenyűgöző.",
+            "ro": "Panorama de 360 de grade a lui Yadegar Asisi este magică.",
+            "en": "Yadegar Asisi's 360-degree panorama is magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Pforzheim an der Schlosskirche, bevor Sie in die funkelnde Welt der Goldstadt im Schmuckmuseum eintauchen. Nach einem Mittagessen am Marktplatz führt Sie ein entspannter Spaziergang durch den Enzauenpark, das grüne Wohnzimmer der Stadt. Den krönenden Abschluss bildet das gigantische Rundgemälde im Gasometer, das Sie in ferne Welten oder vergangene Epochen entführt.",
+        "hu": "A napot Pforzheim történelmi szívében, a vártemplomnál kezdi, majd elmerül az Aranyváros csillogó világában az Ékszermúzeumban. A piactéren elköltött ebéd után egy pihentető séta következik az Enzauen-parkban, a város zöld oázisában. A napot a Gázométer monumentális körpanorámája koronázza meg, amely távoli világokba vagy letűnt korokba repíti a látogatót.",
+        "ro": "Ziua începe în inima istorică a orașului Pforzheim la Biserica Castelului, înainte de a pătrunde în lumea strălucitoare a 'Orașului Aurului' la Muzeul Bijuteriilor. După un prânz în Piața Centrală, o plimbare relaxantă prin Parcul Enzauen vă oferă liniște în mijlocul naturii. Finalul perfect este marcat de panorama gigantică de la Gazometru, care vă transportă în lumi îndepărtate sau epoci trecute.",
+        "en": "Your day starts in the historical heart of Pforzheim at the Castle Church, before diving into the sparkling world of the Gold City at the Jewelry Museum. After lunch at the marketplace, a relaxed walk through Enzauen Park offers a green escape. The day concludes with the monumental 360-degree panorama at the Gasometer, transporting you to distant worlds or bygone eras."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kupferhammer",
+            "tip": "Traditionelle badische Küche direkt an der Nagold."
+          },
+          {
+            "name": "Goldener Adler",
+            "tip": "Rustikale Atmosphäre am Marktplatz mit Maultaschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kupferhammer",
+            "tip": "Hagyományos badeni konyha közvetlenül a Nagold partján."
+          },
+          {
+            "name": "Goldener Adler",
+            "tip": "Rusztikus hangulat a piactéren, kiváló hústáskával (Maultaschen)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kupferhammer",
+            "tip": "Bucătărie tradițională din Baden, chiar pe malul râului Nagold."
+          },
+          {
+            "name": "Goldener Adler",
+            "tip": "Atmosferă rustică în piață, cu Maultaschen tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kupferhammer",
+            "tip": "Traditional Baden cuisine located right on the Nagold river."
+          },
+          {
+            "name": "Goldener Adler",
+            "tip": "Rustic atmosphere at the marketplace with local Maultaschen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Enzauenpark",
+            "tip": "Ruhige Bänke direkt am Flussufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosskirchen-Garten",
+            "tip": "Kleine Oase der Stille hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enzauen-park",
+            "tip": "Csendes padok közvetlenül a folyóparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vártemplom-kert",
+            "tip": "A nyugalom kis oázisa a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Enzauen",
+            "tip": "Bănci liniștite chiar pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Bisericii Castelului",
+            "tip": "Mică oază de liniște în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Enzauen Park",
+            "tip": "Quiet benches right by the riverbank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Castle Church Garden",
+            "tip": "A small oasis of silence behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schmuckwelten Pforzheim",
+            "tip": "Deutschlands größtes Schmuck- und Uhrenhaus."
+          },
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Spezialitäten direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schmuckwelten Pforzheim",
+            "tip": "Németország legnagyobb ékszer- és óraháza."
+          },
+          {
+            "name": "Heti piac",
+            "tip": "Regionális specialitások közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schmuckwelten Pforzheim",
+            "tip": "Cea mai mare casă de bijuterii și ceasuri din Germania."
+          },
+          {
+            "name": "Piața săptămânală",
+            "tip": "Specialități regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schmuckwelten Pforzheim",
+            "tip": "Germany's largest jewelry and watch department store."
+          },
+          {
+            "name": "Weekly Market",
+            "tip": "Regional specialties directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Spaziergang durch die Parks.",
+          "Die Tourist-Info am Marktplatz bietet gute Stadtpläne.",
+          "Buchen Sie Gasometer-Tickets am Wochenende im Voraus.",
+          "Montags sind die meisten Museen in Pforzheim geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parkokban való sétához.",
+          "A piactéri Tourist-Info jó várostérképeket kínál.",
+          "Hétvégén foglaljon előre jegyet a Gázométerbe.",
+          "Hétfőnként Pforzheim legtöbb múzeuma zárva tart."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru plimbarea prin parcuri.",
+          "Centrul de info turistică din piață oferă hărți bune.",
+          "Rezervați biletele pentru Gazometru în avans în weekend.",
+          "Lunea majoritatea muzeelor din Pforzheim sunt închise."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk through the parks.",
+          "The Tourist Info at the marketplace offers good city maps.",
+          "Book Gasometer tickets in advance on weekends.",
+          "Most museums in Pforzheim are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Schlosskirche",
+            "hu": "Vártemplom",
+            "ro": "Biserica Castelului",
+            "en": "Castle Church"
+          },
+          "coords": [
+            8.7022,
+            48.8915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im historischen Zentrum.",
+            "hu": "Kiindulópont a történelmi központban.",
+            "ro": "Punct de plecare în centrul istoric.",
+            "en": "Starting point in the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmuckmuseum",
+            "hu": "Ékszermúzeum",
+            "ro": "Muzeul Bijuteriilor",
+            "en": "Jewelry Museum"
+          },
+          "coords": [
+            8.6991,
+            48.8885
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher vor dem Reuchlinhaus.",
+            "hu": "Parkolja le a bringát a Reuchlin-ház előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața Casei Reuchlin.",
+            "en": "Park your bike safely in front of the Reuchlin House."
+          }
+        },
+        {
+          "name": {
+            "de": "Technikmuseum",
+            "hu": "Technikai Múzeum",
+            "ro": "Muzeul Tehnic",
+            "en": "Technical Museum"
+          },
+          "coords": [
+            8.6955,
+            48.8825
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Uhrenindustrie.",
+            "hu": "Ismerje meg az óragyártás történetét.",
+            "ro": "Aflați mai multe despre industria ceasornicăriei.",
+            "en": "Learn more about the watchmaking industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark Pforzheim",
+            "hu": "Pforzheimi Vadaspark",
+            "ro": "Parcul de Animale Pforzheim",
+            "en": "Pforzheim Wildlife Park"
+          },
+          "coords": [
+            8.7125,
+            48.8655
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Idyllischer Park mit Streichelzoo.",
+            "hu": "Idilli park állatsimogatóval.",
+            "ro": "Parc idilic cu zoo pentru copii.",
+            "en": "Idyllic park with a petting zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer",
+            "hu": "Gázométer",
+            "ro": "Gazometru",
+            "en": "Gasometer"
+          },
+          "coords": [
+            8.7205,
+            48.8855
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Panorama-Show.",
+            "hu": "Látványos körpanoráma-show.",
+            "ro": "Spectacol panoramic spectaculos.",
+            "en": "Spectacular panorama show."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallberg Aussicht",
+            "hu": "Wallberg-kilátó",
+            "ro": "Belvedere Wallberg",
+            "en": "Wallberg Viewpoint"
+          },
+          "coords": [
+            8.6655,
+            48.8855
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Bester Blick über die Goldstadt.",
+            "hu": "A legjobb kilátás az Aranyvárosra.",
+            "ro": "Cea mai bună vedere asupra Orașului Aurului.",
+            "en": "Best view over the Gold City."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie Pforzheim vom Zentrum bis in die Höhenlagen. Nach Kultur und Technik im Tal führt der Weg hinauf zum Wildpark und schließlich zum geschichtsträchtigen Wallberg, wo Sie den Sonnenuntergang über der Stadt genießen.",
+        "hu": "Kerékpárral Pforzheimet a központtól a magaslatokig fedezheti fel. A völgyben tett kulturális és technikai látogatás után az út felvezet a Vadasparkhoz, majd a történelmi Wallberghez, ahonnan csodás a naplemente.",
+        "ro": "Cu bicicleta explorați Pforzheim de la centru până la înălțimi. După cultura și tehnica din vale, drumul urcă spre Parcul de Animale și în final spre istoricul Wallberg, pentru un apus superb.",
+        "en": "By bike, explore Pforzheim from the center to the highlands. After culture and tech in the valley, the path leads up to the Wildlife Park and finally to the historic Wallberg for sunset views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biergarten Enzauen",
+            "tip": "Perfekter Stopp für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biergarten Enzauen",
+            "tip": "Tökéletes pihenő bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biergarten Enzauen",
+            "tip": "Oprire perfectă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biergarten Enzauen",
+            "tip": "Perfect stop for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wallberg",
+            "tip": "Ruhiger Moment mit Fernsicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wallberg",
+            "tip": "Csendes pillanat távoli kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wallberg",
+            "tip": "Moment de liniște cu vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wallberg",
+            "tip": "Quiet moment with a distant view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eisdiele am Markt",
+            "tip": "Belohnung nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagyizó a piacon",
+            "tip": "Jutalom a túra végén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelateria din Piață",
+            "tip": "Recompensă după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice cream at the market",
+            "tip": "Reward after the tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Enz und Nagold.",
+          "Der Aufstieg zum Wildpark erfordert etwas Kondition."
+        ],
+        "hu": [
+          "Használja az Enz és Nagold menti kerékpárutakat.",
+          "A Vadasparkhoz vezető emelkedőhöz kell némi kondíció."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul Enz și Nagold.",
+          "Urcarea spre Parcul de Animale necesită puțină condiție fizică."
+        ],
+        "en": [
+          "Use the bike paths along the Enz and Nagold.",
+          "The climb to the Wildlife Park requires some fitness."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkhaus Zentrum (Cluster A)",
+            "hu": "Belvárosi parkolóház",
+            "ro": "Parcare Centru",
+            "en": "City Center Parking"
+          },
+          "coords": [
+            8.7015,
+            48.891
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Idealer Ausgangspunkt für den Stadtkern.",
+            "hu": "Ideális kiindulópont a városmaghoz.",
+            "ro": "Punct ideal de plecare pentru centru.",
+            "en": "Ideal starting point for the city core."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosskirche",
+            "hu": "Vártemplom",
+            "ro": "Biserica Castelului",
+            "en": "Castle Church"
+          },
+          "coords": [
+            8.7022,
+            48.8915
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkhaus.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmuckmuseum",
+            "hu": "Ékszermúzeum",
+            "ro": "Muzeul Bijuteriilor",
+            "en": "Jewelry Museum"
+          },
+          "coords": [
+            8.6991,
+            48.8885
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "In der Nähe des Reuchlinhauses.",
+            "hu": "A Reuchlin-ház közelében.",
+            "ro": "În apropierea Casei Reuchlin.",
+            "en": "Near the Reuchlin House."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark (Cluster C)",
+            "hu": "Vadaspark",
+            "ro": "Parcul de Animale",
+            "en": "Wildlife Park"
+          },
+          "coords": [
+            8.7125,
+            48.8655
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.8,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vorhanden.",
+            "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
+            "ro": "Parcare mare gratuită disponibilă.",
+            "en": "Large free parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer (Cluster B)",
+            "hu": "Gázométer",
+            "ro": "Gazometru",
+            "en": "Gasometer"
+          },
+          "coords": [
+            8.7205,
+            48.8855
+          ],
+          "category": "museums",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Eigene Parkflächen am Gasometer.",
+            "hu": "Saját parkoló a Gázométernél.",
+            "ro": "Locuri de parcare proprii la Gazometru.",
+            "en": "Dedicated parking at the Gasometer."
+          }
+        },
+        {
+          "name": {
+            "de": "Wallberg Monument",
+            "hu": "Wallberg-emlékmű",
+            "ro": "Monumentul Wallberg",
+            "en": "Wallberg Monument"
+          },
+          "coords": [
+            8.6655,
+            48.8855
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Aussichtspunkt bequem per Pkw erreichbar.",
+            "hu": "A kilátópont autóval kényelmesen elérhető.",
+            "ro": "Punct de belvedere accesibil ușor cu mașina.",
+            "en": "Viewpoint easily accessible by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die Highlights Pforzheims mühelos. Sie parken zentral für die Altstadt und das Schmuckmuseum, fahren dann hinaus ins Grüne zum Wildpark und beenden die Tour mit der beeindruckenden Gasometer-Show und dem Panorama am Wallberg.",
+        "hu": "Autóval kényelmesen összekötheti Pforzheim legfőbb látnivalóit. A belvárosban parkolva megnézi az óvárost és az Ékszermúzeumot, majd kikocsikázik a Vadasparkba, végül a Gázométer és a Wallberg panorámája zárja a napot.",
+        "ro": "Cu mașina conectați ușor punctele de interes din Pforzheim. Parcați central pentru centrul vechi și Muzeul Bijuteriilor, apoi conduceți spre Parcul de Animale și încheiați turul cu Gazometrul și panorama de la Wallberg.",
+        "en": "By car, you can effortlessly link Pforzheim's highlights. Park centrally for the old town and Jewelry Museum, then drive out to the Wildlife Park, ending with the Gasometer show and Wallberg panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratskeller",
+            "tip": "Im Rathaus, gut erreichbar vom Parkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratskeller",
+            "tip": "A városházán, közel a parkolóházhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratskeller",
+            "tip": "În primărie, ușor accesibil de la parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratskeller",
+            "tip": "In the town hall, easily accessible from the parking garage."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wallberg",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wallberg",
+            "tip": "Tökéletes a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wallberg",
+            "tip": "Perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wallberg",
+            "tip": "Perfect for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Parken im angeschlossenen Parkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Parkolás a kapcsolódó parkolóházban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Parcare în garajul conectat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Parking in the connected garage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren im Zentrum sind moderat.",
+          "Vermeiden Sie den Berufsverkehr auf der B10."
+        ],
+        "hu": [
+          "A belvárosi parkolási díjak mérsékeltek.",
+          "Kerülje a csúcsforgalmat a B10-es úton."
+        ],
+        "ro": [
+          "Taxele de parcare în centru sunt moderate.",
+          "Evitați traficul de vârf pe drumul B10."
+        ],
+        "en": [
+          "Parking fees in the center are moderate.",
+          "Avoid rush hour traffic on the B10 road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leopoldplatz (Zentrum)",
+            "hu": "Leopoldplatz (Központ)",
+            "ro": "Leopoldplatz (Centru)",
+            "en": "Leopoldplatz (Center)"
+          },
+          "coords": [
+            8.7005,
+            48.8905
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central de autobuze.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Schmuckmuseum",
+            "hu": "Ékszermúzeum",
+            "ro": "Muzeul Bijuteriilor",
+            "en": "Jewelry Museum"
+          },
+          "coords": [
+            8.6991,
+            48.8885
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wenige Minuten zu Fuß vom Leopoldplatz.",
+            "hu": "Pár perc séta a Leopoldplatztól.",
+            "ro": "Câteva minute pe jos de la Leopoldplatz.",
+            "en": "A few minutes walk from Leopoldplatz."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasometer",
+            "hu": "Gázométer",
+            "ro": "Gazometru",
+            "en": "Gasometer"
+          },
+          "coords": [
+            8.7205,
+            48.8855
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 6 bis Haltestelle Gasometer.",
+            "hu": "6-os busz a Gázométer megállóig.",
+            "ro": "Linia 6 de autobuz până la stația Gasometer.",
+            "en": "Bus line 6 to the Gasometer stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Wildpark",
+            "hu": "Vadaspark",
+            "ro": "Parcul de Animale",
+            "en": "Wildlife Park"
+          },
+          "coords": [
+            8.7125,
+            48.8655
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Buslinie 5 hält direkt am Wildpark.",
+            "hu": "5-ös busz közvetlenül a Vadasparknál áll meg.",
+            "ro": "Linia 5 oprește chiar la Parcul de Animale.",
+            "en": "Bus line 5 stops right at the Wildlife Park."
+          }
+        },
+        {
+          "name": {
+            "de": "Enzauenpark",
+            "hu": "Enzauen-park",
+            "ro": "Parcul Enzauen",
+            "en": "Enzauen Park"
+          },
+          "coords": [
+            8.715,
+            48.8902
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Rückfahrt Richtung Zentrum.",
+            "hu": "Visszautazás a központ felé.",
+            "ro": "Întoarcere spre centru.",
+            "en": "Return journey towards the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das dichte Busnetz bringt Sie bequem zu allen Sights. Vom zentralen Leopoldplatz erreichen Sie Museen, den faszinierenden Gasometer und den Wildpark ohne Parkplatzsorgen.",
+        "hu": "A sűrű buszhálózat kényelmesen elviszi minden látnivalóhoz. A központi Leopoldplatztól elérheti a múzeumokat, a Gázométert és a Vadasparkot anélkül, hogy parkolóért aggódna.",
+        "ro": "Rețeaua densă de autobuze vă duce confortabil la toate obiectivele. De la Leopoldplatz central ajungeți la muzee, Gazometru și Parcul de Animale fără grija parcării.",
+        "en": "The dense bus network takes you comfortably to all sights. From the central Leopoldplatz, you can reach museums, the fascinating Gasometer, and the Wildlife Park without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Parkhotel Restaurant",
+            "tip": "Gehobene Küche nahe Leopoldplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parkhotel Restaurant",
+            "tip": "Színvonalas konyha a Leopoldplatz közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parkhotel Restaurant",
+            "tip": "Bucătărie rafinată lângă Leopoldplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parkhotel Restaurant",
+            "tip": "Fine dining near Leopoldplatz."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nagoldquelle",
+            "tip": "Ruhiger Ort am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nagold-part",
+            "tip": "Csendes hely a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Nagold",
+            "tip": "Loc liniștit lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nagold Riverbank",
+            "tip": "Quiet spot by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Direkt am Leopoldplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Közvetlenül a Leopoldplatznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Chiar la Leopoldplatz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Schmuckwelten",
+            "tip": "Right at Leopoldplatz."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Tageskarte für den Stadtverkehr Pforzheim.",
+          "Die Busse fahren am Wochenende seltener."
+        ],
+        "hu": [
+          "Használja a napijegyet a pforzheimi tömegközlekedéshez.",
+          "Hétvégén a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Utilizați biletul de o zi pentru transportul public din Pforzheim.",
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Use a day ticket for Pforzheim's public transport.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

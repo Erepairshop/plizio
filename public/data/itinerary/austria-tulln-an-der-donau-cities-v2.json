@@ -1,0 +1,1404 @@
+{
+  "city_id": "austria-tulln-an-der-donau-cities-v2",
+  "anchor": {
+    "name": "Tulln an der Donau",
+    "coords": [
+      16.0522,
+      48.3306
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Stephan",
+            "hu": "Szent István plébániatemplom",
+            "ro": "Biserica parohială Sf. Ștefan",
+            "en": "Parish Church of St. Stephen"
+          },
+          "coords": [
+            16.053,
+            48.33
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Doppelturmfassade und das barocke Innere.",
+            "hu": "Csodálja meg a lenyűgöző kettős tornyú homlokzatot és a barokk belső teret.",
+            "ro": "Admirați fațada impresionantă cu turnuri gemene și interiorul baroc.",
+            "en": "Admire the impressive twin-tower facade and the baroque interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Tullner Karner",
+            "hu": "Tullni csontház",
+            "ro": "Osuarul din Tulln",
+            "en": "Tulln Ossuary"
+          },
+          "coords": [
+            16.0532,
+            48.3298
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:57",
+          "stay_min": 30,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein einzigartiges romanisches Bauwerk; die Fresken im Inneren sind ein Muss.",
+            "hu": "Egyedülálló román stílusú építmény; a belső freskók kihagyhatatlanok.",
+            "ro": "O clădire romanică unică; frescele din interior sunt de neratat.",
+            "en": "A unique Romanesque structure; the frescoes inside are a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenbrunnen",
+            "hu": "Nibelung-kút",
+            "ro": "Fântâna Nibelungilor",
+            "en": "Nibelungen Fountain"
+          },
+          "coords": [
+            16.055,
+            48.3315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:32",
+          "stay_min": 20,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um die Verbindung Tullns zum Nibelungenlied zu verstehen.",
+            "hu": "Tökéletes hely, hogy megértsük Tulln kapcsolatát a Nibelung-énekkel.",
+            "ro": "Locul perfect pentru a înțelege legătura orașului Tulln cu Cântecul Nibelungilor.",
+            "en": "The perfect spot to understand Tulln's connection to the Nibelungenlied."
+          }
+        },
+        {
+          "name": {
+            "de": "Egon Schiele Museum",
+            "hu": "Egon Schiele Múzeum",
+            "ro": "Muzeul Egon Schiele",
+            "en": "Egon Schiele Museum"
+          },
+          "coords": [
+            16.059,
+            48.3325
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit ein, um die weltweit größte Sammlung von Schieles Frühwerken zu sehen.",
+            "hu": "Szánjon elegendő időt Schiele korai műveinek világ legnagyobb gyűjteményére.",
+            "ro": "Planificați suficient timp pentru a vedea cea mai mare colecție din lume de lucrări timpurii ale lui Schiele.",
+            "en": "Allow plenty of time to see the world's largest collection of Schiele's early works."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen",
+            "hu": "Ebédszünet",
+            "ro": "Pauza de prânz",
+            "en": "Lunch Break"
+          },
+          "coords": [
+            16.058,
+            48.332
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Gasthaus in der Nähe des Museums für authentische österreichische Küche.",
+            "hu": "Próbáljon ki egy helyi vendéglőt a múzeum közelében az autentikus osztrák konyháért.",
+            "ro": "Încercați un han local lângă muzeu pentru bucătărie austriacă autentică.",
+            "en": "Try a local guesthouse near the museum for authentic Austrian cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaulände",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            16.06,
+            48.3333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein entspannender Spaziergang entlang des Flusses ist der perfekte Abschluss des Nachmittags.",
+            "hu": "Egy pihentető séta a folyó mentén tökéletes lezárása a délutánnak.",
+            "ro": "O plimbare relaxantă de-a lungul râului este modul perfect de a încheia după-amiaza.",
+            "en": "A relaxing walk along the river is the perfect way to end the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerturm",
+            "hu": "Római torony",
+            "ro": "Turnul Roman",
+            "en": "Roman Tower"
+          },
+          "coords": [
+            16.0575,
+            48.332
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für einen tollen Blick über die Stadt und die Donau.",
+            "hu": "Másszon fel a toronyba a városra és a Dunára nyíló nagyszerű kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște minunată asupra orașului și a Dunării.",
+            "en": "Climb the tower for a great view over the city and the Danube."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Tulln, umgeben von heiliger Architektur. Der Vormittag ist Egon Schiele gewidmet, dem berühmtesten Sohn der Stadt. Nach einem traditionellen österreichischen Mittagessen verbringen Sie einen entspannten Nachmittag an der Donau, bevor Sie in die römische Vergangenheit der Stadt eintauchen. Der Abend klingt gemütlich in einem der charmanten Cafés aus.",
+        "hu": "Kezdje a napját Tulln szívében, szent építészeti alkotásokkal körülvéve. A délelőttöt Egon Schielének, a város leghíresebb szülöttének szentelje. Egy hagyományos osztrák ebéd után töltsön egy pihentető délutánt a Duna partján, mielőtt elmerülne a város római kori múltjában. Az estét egy hangulatos kávézóban zárja.",
+        "ro": "Începeți ziua în inima orașului Tulln, înconjurat de arhitectură sacră. Dimineața este dedicată lui Egon Schiele, cel mai faimos fiu al orașului. După un prânz tradițional austriac, petreceți o după-amiază relaxantă pe malul Dunării înainte de a vă cufunda în trecutul roman al orașului. Seara se încheie plăcut la una dintre cafenelele fermecătoare.",
+        "en": "Start your day in the heart of Tulln, surrounded by sacred architecture. The morning is dedicated to Egon Schiele, the city's most famous son. After a traditional Austrian lunch, spend a relaxing afternoon on the Danube before delving into the city's Roman past. The evening concludes cozily in one of the charming cafes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sodoma Wirtshaus",
+            "tip": "Ein Muss für Feinschmecker, bekannt für seine exzellente regionale Küche."
+          },
+          {
+            "name": "Gasthaus zum Roten Wolf",
+            "tip": "Probieren Sie das klassische Wiener Schnitzel in einem traditionellen Ambiente."
+          },
+          {
+            "name": "Apfelstrudel",
+            "tip": "Kein Besuch in Österreich ist komplett ohne ein Stück warmen Apfelstrudel mit Vanillesauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sodoma Wirtshaus",
+            "tip": "Az ínyenceknek kötelező, kiváló regionális konyhájáról ismert."
+          },
+          {
+            "name": "Gasthaus zum Roten Wolf",
+            "tip": "Kóstolja meg a klasszikus bécsi szeletet egy hagyományos környezetben."
+          },
+          {
+            "name": "Almás rétes",
+            "tip": "Egyetlen ausztriai látogatás sem teljes egy szelet meleg almás rétes nélkül vaníliaszósszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sodoma Wirtshaus",
+            "tip": "O necesitate pentru gurmanzi, cunoscut pentru bucătăria sa regională excelentă."
+          },
+          {
+            "name": "Gasthaus zum Roten Wolf",
+            "tip": "Încercați clasicul Wiener Schnitzel într-un cadru tradițional."
+          },
+          {
+            "name": "Ștrudel cu mere",
+            "tip": "Nicio vizită în Austria nu este completă fără o felie de ștrudel cu mere cald cu sos de vanilie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sodoma Wirtshaus",
+            "tip": "A must for foodies, known for its excellent regional cuisine."
+          },
+          {
+            "name": "Gasthaus zum Roten Wolf",
+            "tip": "Try the classic Wiener Schnitzel in a traditional setting."
+          },
+          {
+            "name": "Apple Strudel",
+            "tip": "No visit to Austria is complete without a slice of warm apple strudel with vanilla sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Donaulände",
+            "tip": "Finden Sie eine Bank am Flussufer für einen Moment der Ruhe und beobachten Sie die vorbeiziehenden Schiffe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pfarrplatz",
+            "tip": "Der ruhige Platz um die Kirche ist perfekt, um dem Trubel zu entkommen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-parti sétány",
+            "tip": "Keressen egy padot a folyóparton egy csendes pillanatra, és nézze a hajókat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plébánia tér",
+            "tip": "A templom körüli csendes tér tökéletes a nyüzsgés elől való elvonulásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Dunării",
+            "tip": "Găsiți o bancă pe malul râului pentru un moment de liniște, privind navele care trec.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Parohială",
+            "tip": "Piața liniștită din jurul bisericii este perfectă pentru a scăpa de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Danube Promenade",
+            "tip": "Find a bench on the riverbank for a moment of peace, watching the ships go by.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parish Square",
+            "tip": "The quiet square around the church is perfect for escaping the bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Egon Schiele Museum Shop",
+            "tip": "Finden Sie hochwertige Drucke, Bücher und Souvenirs rund um den Künstler."
+          },
+          {
+            "name": "Bauernmarkt am Hauptplatz",
+            "tip": "Jeden Freitag können Sie hier lokale Produkte und Spezialitäten kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egon Schiele Múzeum boltja",
+            "tip": "Találjon minőségi nyomatokat, könyveket és emléktárgyakat a művészről."
+          },
+          {
+            "name": "Termelői piac a Fő téren",
+            "tip": "Minden pénteken helyi termékeket és különlegességeket vásárolhat itt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Muzeului Egon Schiele",
+            "tip": "Găsiți printuri de înaltă calitate, cărți și suveniruri legate de artist."
+          },
+          {
+            "name": "Piața fermierilor din Hauptplatz",
+            "tip": "În fiecare vineri, puteți cumpăra produse și specialități locale aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Egon Schiele Museum Shop",
+            "tip": "Find high-quality prints, books, and souvenirs related to the artist."
+          },
+          {
+            "name": "Farmers' Market on Hauptplatz",
+            "tip": "Every Friday, you can buy local produce and specialties here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da Sie den größten Teil des Tages zu Fuß unterwegs sein werden.",
+          "Prüfen Sie die Öffnungszeiten der Museen im Voraus.",
+          "Viele Geschäfte und einige Restaurants schließen sonntags früh.",
+          "Halten Sie eine wiederverwendbare Wasserflasche bereit; es gibt mehrere Brunnen in der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mivel a nap nagy részében gyalogolni fog.",
+          "Előre ellenőrizze a múzeumok nyitvatartási idejét.",
+          "Sok üzlet és néhány étterem korán zár vasárnap.",
+          "Tartson magánál egy újratölthető vizes palackot; a városban több ivókút is található."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece veți merge pe jos cea mai mare parte a zilei.",
+          "Verificați în avans orele de funcționare ale muzeelor.",
+          "Multe magazine și unele restaurante se închid devreme duminica.",
+          "Păstrați la îndemână o sticlă de apă reutilizabilă; există mai multe fântâni în oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes as you'll be walking for most of the day.",
+          "Check the opening hours of museums in advance.",
+          "Many shops and some restaurants close early on Sundays.",
+          "Keep a reusable water bottle handy; there are several fountains around the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Egon Schiele Geburtshaus",
+            "hu": "Egon Schiele szülőháza",
+            "ro": "Casa natală a lui Egon Schiele",
+            "en": "Egon Schiele's Birthplace"
+          },
+          "coords": [
+            16.0501,
+            48.3289
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour am Bahnhof, um die Wurzeln des Künstlers zu entdecken.",
+            "hu": "Kezdje a túrát a vasútállomáson, hogy felfedezze a művész gyökereit.",
+            "ro": "Începeți turul la gară pentru a descoperi rădăcinile artistului.",
+            "en": "Start your tour at the train station to discover the artist's roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Egon Schiele Museum",
+            "hu": "Egon Schiele Múzeum",
+            "ro": "Muzeul Egon Schiele",
+            "en": "Egon Schiele Museum"
+          },
+          "coords": [
+            16.059,
+            48.3325
+          ],
+          "category": "museums",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie in die Kunst eintauchen.",
+            "hu": "Zárja le biztonságosan a kerékpárját, mielőtt elmerül a művészetben.",
+            "ro": "Asigurați-vă bine bicicleta înainte de a vă cufunda în artă.",
+            "en": "Lock your bike securely before immersing yourself in the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Donaulände",
+            "hu": "Duna-parti sétány",
+            "ro": "Promenada Dunării",
+            "en": "Danube Promenade"
+          },
+          "coords": [
+            16.06,
+            48.3333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:39",
+          "stay_min": 45,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kurze Radtour entlang des berühmten Donauradwegs.",
+            "hu": "Élvezzen egy rövid biciklitúrát a híres Duna menti kerékpárúton.",
+            "ro": "Bucurați-vă de o scurtă plimbare cu bicicleta de-a lungul faimoasei piste de biciclete de pe Dunăre.",
+            "en": "Enjoy a short ride along the famous Danube cycle path."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Garten Tulln",
+            "hu": "Die Garten Tulln",
+            "ro": "Grădinile Tulln",
+            "en": "The Tulln Gardens"
+          },
+          "coords": [
+            16.08,
+            48.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:36",
+          "stay_min": 180,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Planen Sie hier Ihr Mittagessen und erkunden Sie die über 70 ökologischen Schaugärten.",
+            "hu": "Tervezze ide az ebédjét, és fedezze fel a több mint 70 ökológiai bemutatókertet.",
+            "ro": "Planificați-vă prânzul aici și explorați cele peste 70 de grădini ecologice demonstrative.",
+            "en": "Plan your lunch here and explore the 70+ ecological show gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenbrunnen",
+            "hu": "Nibelung-kút",
+            "ro": "Fântâna Nibelungilor",
+            "en": "Nibelungen Fountain"
+          },
+          "coords": [
+            16.055,
+            48.3315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:51",
+          "stay_min": 20,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Stopp auf dem Rückweg ins Stadtzentrum.",
+            "hu": "Egy szép megálló a városközpont felé visszavezető úton.",
+            "ro": "O oprire frumoasă pe drumul de întoarcere spre centrul orașului.",
+            "en": "A nice stop on your way back to the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Karner",
+            "hu": "Plébániatemplom és Csontház",
+            "ro": "Biserica Parohială și Osuar",
+            "en": "Parish Church & Ossuary"
+          },
+          "coords": [
+            16.053,
+            48.33
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:14",
+          "stay_min": 60,
+          "hop_mode": "bike",
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit der Besichtigung der beiden wichtigsten Sakralbauten der Stadt.",
+            "hu": "Fejezze be a túrát a város két legfontosabb szakrális épületének megtekintésével.",
+            "ro": "Încheiați-vă turul vizitând cele mai importante două clădiri sacre ale orașului.",
+            "en": "End your tour by visiting the two most important sacred buildings in the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt bei Schieles Geburtshaus und führt zum ihm gewidmeten Museum. Am Vormittag radeln Sie entlang der Donau zu den prächtigen Gärten von Tulln, dem Herzstück Ihres Tages. Nach einem langen, entspannten Nachmittag in den Gärten kehren Sie ins Stadtzentrum zurück, um die historischen und mythologischen Wahrzeichen zu erkunden. Der Abend bietet eine wohlverdiente Pause in einem Heurigen.",
+        "hu": "A kerékpártúra Schiele szülőházánál kezdődik, majd a neki szentelt múzeumhoz vezet. Délelőtt a Duna mentén tekerhet a csodálatos Tullni kertekhez, a nap fénypontjához. A kertekben eltöltött hosszú, pihentető délután után visszatér a városközpontba, hogy felfedezze a történelmi és mitológiai nevezetességeket. Az este jól megérdemelt pihenést kínál egy heurigerben.",
+        "ro": "Turul cu bicicleta începe la casa natală a lui Schiele și continuă la muzeul dedicat lui. În timpul dimineții, pedalați de-a lungul Dunării până la magnificele Grădini din Tulln, piesa centrală a zilei dumneavoastră. După o după-amiază lungă și relaxantă în grădini, vă întoarceți în centrul orașului pentru a explora reperele istorice și mitologice. Seara oferă o pauză binemeritată la o tavernă Heuriger.",
+        "en": "The bike tour starts at Schiele's birthplace and proceeds to the museum dedicated to him. During the morning, you'll cycle along the Danube to the magnificent Tulln Gardens, the centerpiece of your day. After a long, relaxing afternoon in the gardens, you'll return to the city center to explore the historical and mythological landmarks. The evening offers a well-deserved rest at a Heuriger wine tavern."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heuriger",
+            "tip": "Besuchen Sie eine lokale Weinstube, um den Grünen Veltliner der Region zu probieren."
+          },
+          {
+            "name": "Die Garten Tulln Restaurant",
+            "tip": "Perfekt für ein Mittagessen mit frischen, lokalen Zutaten inmitten der Gärten."
+          },
+          {
+            "name": "Eis-Salon",
+            "tip": "Gönnen Sie sich nach der Radtour ein handwerklich hergestelltes Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heuriger",
+            "tip": "Látogasson el egy helyi borozóba, és kóstolja meg a régió Grüner Veltliner borát."
+          },
+          {
+            "name": "Die Garten Tulln étterem",
+            "tip": "Tökéletes egy ebédhez friss, helyi alapanyagokból a kertek közepén."
+          },
+          {
+            "name": "Fagylaltozó",
+            "tip": "Kényeztesse magát egy kézműves fagylalttal a biciklizés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Heuriger",
+            "tip": "Vizitați o tavernă locală de vinuri pentru a gusta vinul Grüner Veltliner din regiune."
+          },
+          {
+            "name": "Restaurantul Die Garten Tulln",
+            "tip": "Perfect pentru un prânz cu ingrediente locale proaspete în mijlocul grădinilor."
+          },
+          {
+            "name": "Gelaterie",
+            "tip": "Răsfățați-vă cu o înghețată artizanală după plimbarea cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Heuriger",
+            "tip": "Visit a local wine tavern to taste the region's Grüner Veltliner wine."
+          },
+          {
+            "name": "Die Garten Tulln Restaurant",
+            "tip": "Perfect for a lunch with fresh, local ingredients amidst the gardens."
+          },
+          {
+            "name": "Ice Cream Parlor",
+            "tip": "Treat yourself to an artisanal ice cream after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ein stiller Winkel in Die Garten Tulln",
+            "tip": "Finden Sie einen abgelegenen Garten, um zu lesen oder zu meditieren.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sonnenuntergang am Donauufer",
+            "tip": "Der Radweg bietet perfekte, ungestörte Ausblicke auf den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egy csendes sarok a Die Garten Tulln-ban",
+            "tip": "Keressen egy eldugott kertet olvasáshoz vagy meditációhoz.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Naplemente a Duna-parton",
+            "tip": "A kerékpárút tökéletes, zavartalan kilátást nyújt a naplementére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Un colț liniștit în Die Garten Tulln",
+            "tip": "Găsiți o grădină retrasă pentru a citi sau a medita.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Apus de soare pe malul Dunării",
+            "tip": "Pista de biciclete oferă vederi perfecte și neîntrerupte ale apusului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "A quiet corner in Die Garten Tulln",
+            "tip": "Find a secluded garden to read or meditate.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Sunset on the Danube bank",
+            "tip": "The cycle path offers perfect, unobstructed sunset views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradgeschäfte",
+            "tip": "In Tulln gibt es mehrere Geschäfte für Zubehör oder schnelle Reparaturen."
+          },
+          {
+            "name": "Gartenshop in Die Garten Tulln",
+            "tip": "Kaufen Sie Samen, Pflanzen und gartenbezogene Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárboltok",
+            "tip": "Tullnban több üzlet is található kiegészítőkért vagy gyors javításokért."
+          },
+          {
+            "name": "Kertészeti bolt a Die Garten Tulln-ban",
+            "tip": "Vásároljon magokat, növényeket és kertészettel kapcsolatos ajándékokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de biciclete",
+            "tip": "Există mai multe magazine în Tulln pentru accesorii sau reparații rapide."
+          },
+          {
+            "name": "Magazinul de grădinărit de la Die Garten Tulln",
+            "tip": "Cumpărați semințe, plante și cadouri legate de grădinărit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Shops",
+            "tip": "There are several shops in Tulln for accessories or quick repairs."
+          },
+          {
+            "name": "Garden Shop at Die Garten Tulln",
+            "tip": "Buy seeds, plants, and garden-related gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs, wenn Sie keines dabeihaben.",
+          "Der Donauradweg ist flach und für alle Fitnesslevel geeignet.",
+          "Schließen Sie Ihr Fahrrad immer an festen Objekten ab.",
+          "Nehmen Sie viel Wasser mit, besonders an warmen Tagen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a vasútállomás közelében, ha nincs sajátja.",
+          "A Duna menti kerékpárút sík és minden edzettségi szintnek megfelel.",
+          "Mindig zárja le a kerékpárját rögzített tárgyakhoz.",
+          "Vigyen magával sok vizet, különösen meleg napokon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară dacă nu aveți una.",
+          "Pista de biciclete de pe Dunăre este plată și potrivită pentru toate nivelurile de fitness.",
+          "Legați întotdeauna bicicleta de obiecte fixe.",
+          "Luați multă apă cu dumneavoastră, mai ales în zilele calde."
+        ],
+        "en": [
+          "Rent a bike near the train station if you don't have one.",
+          "The Danube cycle path is flat and suitable for all fitness levels.",
+          "Always lock your bike to a fixed object.",
+          "Bring plenty of water, especially on warm days."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parken und Start am Hauptplatz",
+            "hu": "Parkolás és indulás a Fő tértől",
+            "ro": "Parcare și start în Piața Principală",
+            "en": "Park and Start at the Main Square"
+          },
+          "coords": [
+            16.0522,
+            48.3306
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen zentralen Parkplatz für den Vormittag. Die meisten sind gebührenpflichtig.",
+            "hu": "Keressen egy központi parkolót a délelőttre. A legtöbb fizetős.",
+            "ro": "Găsiți o parcare centrală pentru dimineață. Majoritatea sunt cu plată.",
+            "en": "Find a central parking spot for the morning. Most are paid."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche & Karner",
+            "hu": "Plébániatemplom és Csontház",
+            "ro": "Biserica Parohială și Osuar",
+            "en": "Parish Church & Ossuary"
+          },
+          "coords": [
+            16.053,
+            48.33
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Hauptplatz zu diesen architektonischen Juwelen.",
+            "hu": "Egy rövid séta a Fő térről ezekhez az építészeti gyöngyszemekhez.",
+            "ro": "O scurtă plimbare din Piața Principală la aceste bijuterii arhitecturale.",
+            "en": "A short walk from the main square to these architectural gems."
+          }
+        },
+        {
+          "name": {
+            "de": "Egon Schiele Museum",
+            "hu": "Egon Schiele Múzeum",
+            "ro": "Muzeul Egon Schiele",
+            "en": "Egon Schiele Museum"
+          },
+          "coords": [
+            16.059,
+            48.3325
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang der Donaulände zum Museum.",
+            "hu": "Tegyen egy kényelmes sétát a Duna-parton a múzeumhoz.",
+            "ro": "Faceți o plimbare agale de-a lungul promenadei Dunării până la muzeu.",
+            "en": "Take a leisurely stroll along the Danube promenade to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            16.055,
+            48.331
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie eines der vielen Restaurants rund um den Hauptplatz.",
+            "hu": "Válasszon a Fő tér körüli számos étterem közül.",
+            "ro": "Alegeți unul dintre numeroasele restaurante din jurul Pieței Principale.",
+            "en": "Choose one of the many restaurants around the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Garten Tulln",
+            "hu": "Die Garten Tulln",
+            "ro": "Grădinile Tulln",
+            "en": "The Tulln Gardens"
+          },
+          "coords": [
+            16.08,
+            48.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 150,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum zweiten Cluster des Tages. Es gibt reichlich Parkplätze vor Ort.",
+            "hu": "Vezessen a nap második klaszteréhez. A helyszínen bőséges parkolási lehetőség áll rendelkezésre.",
+            "ro": "Conduceți la al doilea cluster al zilei. Există parcare amplă la fața locului.",
+            "en": "Drive to the second cluster of the day. There is ample parking on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Baumwipfelweg",
+            "hu": "Lombkorona sétány",
+            "ro": "Potecă în vârful copacilor",
+            "en": "Treetop Walkway"
+          },
+          "coords": [
+            16.081,
+            48.3315
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Innerhalb der Gärten Tulln; bietet eine spektakuläre Aussicht aus 30 Metern Höhe.",
+            "hu": "A Tullni Kerteken belül; 30 méter magasból nyújt látványos kilátást.",
+            "ro": "În interiorul Grădinilor Tulln; oferă o priveliște spectaculoasă de la 30 de metri înălțime.",
+            "en": "Inside the Tulln Gardens; offers a spectacular view from 30 meters high."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zurück ins Zentrum/Abendessen",
+            "hu": "Visszaút a központba/Vacsora",
+            "ro": "Întoarcere în centru/Cină",
+            "en": "Drive back to Center/Dinner"
+          },
+          "coords": [
+            16.054,
+            48.331
+          ],
+          "category": "gastro",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_mode": "car",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück in die Stadt, um den Tag mit einem Abendessen ausklingen zu lassen.",
+            "hu": "Vezessen vissza a városba, hogy egy vacsorával zárja a napot.",
+            "ro": "Conduceți înapoi în oraș pentru a încheia ziua cu cina.",
+            "en": "Drive back into town to end the day with dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag mit dem Auto gliedert sich in zwei Teile. Am Vormittag parken Sie im Zentrum und erkunden zu Fuß die historischen und künstlerischen Highlights von Tulln. Nach dem Mittagessen fahren Sie zum weitläufigen Gelände von Die Garten Tulln für einen Nachmittag voller Natur und atemberaubender Ausblicke vom Baumwipfelweg. Der Abend endet wieder im Stadtzentrum, wo Sie eine große Auswahl an Restaurants finden.",
+        "hu": "Az autós nap két részre oszlik. Délelőtt a központban parkol, és gyalog fedezi fel Tulln történelmi és művészeti nevezetességeit. Ebéd után a tágas Die Garten Tulln területére hajt egy természetben gazdag délutánért és a lombkorona sétányról nyíló lélegzetelállító kilátásért. Az este ismét a városközpontban ér véget, ahol számos étterem közül választhat.",
+        "ro": "Ziua cu mașina este împărțită în două. Dimineața, parcați în centru și explorați pe jos atracțiile istorice și artistice din Tulln. După prânz, conduceți la terenul extins al Die Garten Tulln pentru o după-amiază de natură și priveliști uluitoare de pe pasarela din vârful copacilor. Seara se încheie înapoi în centrul orașului, cu o gamă largă de restaurante la alegere.",
+        "en": "The day by car is divided in two. In the morning, you park in the center and explore Tulln's historical and artistic highlights on foot. After lunch, you drive to the expansive grounds of Die Garten Tulln for an afternoon of nature and breathtaking views from the treetop walkway. The evening finishes back in the city center, with a wide choice of restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "S'Pfandl",
+            "tip": "Bekannt für seine riesigen Schnitzel und gemütliche Atmosphäre."
+          },
+          {
+            "name": "Weinquadrat",
+            "tip": "Eine moderne Vinothek mit einer großen Auswahl an österreichischen Weinen und kleinen Speisen."
+          },
+          {
+            "name": "Kardamom",
+            "tip": "Wenn Sie Lust auf etwas anderes haben, probieren Sie dieses hoch bewertete indische Restaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "S'Pfandl",
+            "tip": "Hatalmas szeleteiről és hangulatos légköréről ismert."
+          },
+          {
+            "name": "Weinquadrat",
+            "tip": "Modern vinotéka osztrák borok és falatok széles választékával."
+          },
+          {
+            "name": "Kardamom",
+            "tip": "Ha valami másra vágyik, próbálja ki ezt a magasan értékelt indiai éttermet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "S'Pfandl",
+            "tip": "Cunoscut pentru șnițelele sale uriașe și atmosfera sa primitoare."
+          },
+          {
+            "name": "Weinquadrat",
+            "tip": "O vinotecă modernă cu o selecție largă de vinuri austriece și gustări."
+          },
+          {
+            "name": "Kardamom",
+            "tip": "Dacă aveți poftă de ceva diferit, încercați acest restaurant indian foarte apreciat."
+          }
+        ],
+        "en": [
+          {
+            "name": "S'Pfandl",
+            "tip": "Known for its giant schnitzels and cozy atmosphere."
+          },
+          {
+            "name": "Weinquadrat",
+            "tip": "A modern wine bar with a wide selection of Austrian wines and small dishes."
+          },
+          {
+            "name": "Kardamom",
+            "tip": "If you're in the mood for something different, try this highly-rated Indian restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wasserpark Tulln",
+            "tip": "Ein ruhiger Spaziergang um den See in der Nähe von Die Garten Tulln.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Die Rosenarkaden in Die Garten Tulln",
+            "tip": "Ein duftender und friedlicher Ort, um auf einer Bank zu sitzen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tullni Vízipark",
+            "tip": "Egy csendes séta a tó körül a Die Garten Tulln közelében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "A Rózsa-árkádok a Die Garten Tulln-ban",
+            "tip": "Illatos és békés hely, ahol leülhet egy padra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul acvatic Tulln",
+            "tip": "O plimbare liniștită în jurul lacului de lângă Die Garten Tulln.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Arcadele cu trandafiri din Die Garten Tulln",
+            "tip": "Un loc parfumat și liniștit pentru a sta pe o bancă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tulln Water Park",
+            "tip": "A quiet walk around the lake near Die Garten Tulln.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Rose Arcades in Die Garten Tulln",
+            "tip": "A fragrant and peaceful place to sit on a bench.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rosenarcade Einkaufszentrum",
+            "tip": "Wenn Sie eine größere Auswahl an Geschäften benötigen, finden Sie diese hier."
+          },
+          {
+            "name": "Lokale Bäckereien",
+            "tip": "Kaufen Sie frisches Gebäck oder Brot für einen Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosenarcade bevásárlóközpont",
+            "tip": "Ha nagyobb üzletválasztékra van szüksége, itt megtalálja."
+          },
+          {
+            "name": "Helyi pékségek",
+            "tip": "Vásároljon friss péksüteményt vagy kenyeret útközbeni harapnivalónak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Rosenarcade",
+            "tip": "Dacă aveți nevoie de o selecție mai largă de magazine, o veți găsi aici."
+          },
+          {
+            "name": "Brutării locale",
+            "tip": "Cumpărați produse de patiserie proaspete sau pâine pentru o gustare pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rosenarcade Shopping Center",
+            "tip": "If you need a wider selection of shops, you'll find them here."
+          },
+          {
+            "name": "Local Bakeries",
+            "tip": "Buy some fresh pastries or bread for a snack on the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkzonen und -zeiten im Stadtzentrum, um Strafzettel zu vermeiden.",
+          "Die Garten Tulln hat einen großen, kostenlosen Parkplatz.",
+          "Planen Sie Ihre Route mit einer GPS-App, um den Verkehr zu meiden.",
+          "Das Auto gibt Ihnen die Flexibilität, auch nahegelegene Heurigen außerhalb der Stadt zu besuchen."
+        ],
+        "hu": [
+          "Figyeljen a parkolási zónákra és időpontokra a városközpontban a bírságok elkerülése érdekében.",
+          "A Die Garten Tulln nagy, ingyenes parkolóval rendelkezik.",
+          "Tervezze meg az útvonalat egy GPS-alkalmazással a forgalom elkerülése érdekében.",
+          "Az autó rugalmasságot biztosít a városon kívüli közeli heurigerek meglátogatásához is."
+        ],
+        "ro": [
+          "Fiți atenți la zonele și orele de parcare din centrul orașului pentru a evita amenzile.",
+          "Die Garten Tulln are o parcare mare și gratuită.",
+          "Planificați-vă traseul cu o aplicație GPS pentru a evita traficul.",
+          "Mașina vă oferă flexibilitatea de a vizita și tavernele Heuriger din apropiere, în afara orașului."
+        ],
+        "en": [
+          "Pay attention to parking zones and times in the city center to avoid fines.",
+          "Die Garten Tulln has a large, free parking lot.",
+          "Plan your route with a GPS app to avoid traffic.",
+          "The car gives you the flexibility to also visit nearby Heuriger taverns outside the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Tulln Bahnhof",
+            "hu": "Érkezés a Tullni vasútállomásra",
+            "ro": "Sosire la Gara Tulln",
+            "en": "Arrival at Tulln Train Station"
+          },
+          "coords": [
+            16.0501,
+            48.3289
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag am Verkehrsknotenpunkt der Stadt. Hier befindet sich auch Schieles Geburtshaus.",
+            "hu": "Kezdje a napot a város közlekedési csomópontjánál. Itt található Schiele szülőháza is.",
+            "ro": "Începeți ziua la nodul de transport al orașului. Casa natală a lui Schiele este, de asemenea, situată aici.",
+            "en": "Start your day at the city's transport hub. Schiele's birthplace is also located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zum Hauptplatz",
+            "hu": "Busz a Fő térre",
+            "ro": "Autobuz spre Piața Principală",
+            "en": "Bus to the Main Square"
+          },
+          "coords": [
+            16.0522,
+            48.3306
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie einen lokalen Bus, um ins Herz der Stadt zu gelangen und den ersten Spaziergang-Cluster zu beginnen.",
+            "hu": "Menjen helyi busszal a város szívébe, hogy megkezdje az első gyalogos klasztert.",
+            "ro": "Luați un autobuz local pentru a ajunge în inima orașului și a începe primul cluster de mers pe jos.",
+            "en": "Take a local bus to get to the heart of the city and start the first walking cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Egon Schiele Museum & Römerturm",
+            "hu": "Egon Schiele Múzeum és Római torony",
+            "ro": "Muzeul Egon Schiele și Turnul Roman",
+            "en": "Egon Schiele Museum & Roman Tower"
+          },
+          "coords": [
+            16.059,
+            48.3325
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beiden Attraktionen liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
+            "hu": "Ez a két látnivaló közel van egymáshoz, és könnyen megközelíthető gyalog.",
+            "ro": "Aceste două atracții sunt apropiate și ușor de explorat pe jos.",
+            "en": "These two attractions are close together and easy to explore on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zu Die Garten Tulln",
+            "hu": "Busz a Die Garten Tulln-hoz",
+            "ro": "Autobuz spre Grădinile Tulln",
+            "en": "Bus to The Tulln Gardens"
+          },
+          "coords": [
+            16.08,
+            48.331
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Es gibt regelmäßige Busverbindungen zu den Gärten. Planen Sie hier Ihr Mittagessen.",
+            "hu": "Rendszeres buszjáratok közlekednek a kertekhez. Tervezze ide az ebédjét.",
+            "ro": "Există servicii regulate de autobuz către grădini. Planificați-vă prânzul aici.",
+            "en": "There are regular bus services to the gardens. Plan your lunch here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang zur Donaulände",
+            "hu": "Séta a Duna-parti sétányhoz",
+            "ro": "Plimbare spre Promenada Dunării",
+            "en": "Walk to Danube Promenade"
+          },
+          "coords": [
+            16.06,
+            48.3333
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_mode": "walk",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Von den Gärten aus ist es ein angenehmer Spaziergang zurück in Richtung Stadt entlang des Flusses.",
+            "hu": "A kertekből kellemes séta vezet vissza a város felé a folyó mentén.",
+            "ro": "De la grădini, este o plimbare plăcută înapoi spre oraș de-a lungul râului.",
+            "en": "From the gardens, it's a pleasant walk back towards the city along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Bus zurück zum Bahnhof",
+            "hu": "Busz vissza a vasútállomásra",
+            "ro": "Autobuz înapoi la gară",
+            "en": "Bus back to the Train Station"
+          },
+          "coords": [
+            16.0501,
+            48.3289
+          ],
+          "category": "transport",
+          "arrive_at": "16:55",
+          "stay_min": 20,
+          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour dort, wo sie begonnen hat.",
+            "hu": "Fejezze be a túrát ott, ahol elkezdte.",
+            "ro": "Încheiați-vă turul de unde a început.",
+            "en": "End your tour where it began."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Tulln in Clustern. Sie beginnen am Bahnhof, fahren mit dem Bus ins Zentrum, um die Kunst- und Geschichtsszene zu Fuß zu erkunden. Ein weiterer Bus bringt Sie am Mittag zu den weitläufigen Gartenanlagen. Den Nachmittag verbringen Sie mit einem Spaziergang von den Gärten entlang der Donau zurück in die Stadt, bevor Sie den Bus zurück zum Bahnhof für Ihre Abreise nehmen.",
+        "hu": "Tömegközlekedéssel klaszterekben fedezi fel Tullnt. A vasútállomáson kezd, busszal a központba utazik, hogy gyalog fedezze fel a művészeti és történelmi helyszíneket. Délben egy másik busz viszi a tágas kertekhez. A délutánt a kertektől a Duna mentén a városba visszasétálva tölti, mielőtt visszabuszozna a vasútállomásra az induláshoz.",
+        "ro": "Folosind transportul public, explorați Tulln în clustere. Începeți de la gară, luați un autobuz spre centru pentru a explora pe jos scena artistică și istorică. Un alt autobuz vă duce la amiază la complexul de grădini întins. După-amiaza o petreceți plimbându-vă de la grădini de-a lungul Dunării înapoi în oraș, înainte de a lua autobuzul înapoi la gară pentru plecare.",
+        "en": "Using public transport, you explore Tulln in clusters. You start at the train station, take a bus to the center to explore the art and history scene on foot. Another bus takes you at noon to the expansive garden complex. The afternoon is spent walking from the gardens along the Danube back into the city, before taking the bus back to the station for your departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Bahnhof",
+            "tip": "Holen Sie sich einen Kaffee und ein Gebäck, um den Tag zu beginnen."
+          },
+          {
+            "name": "Restaurant in Die Garten Tulln",
+            "tip": "Genießen Sie ein Mittagessen mit Blick auf die wunderschönen Gärten."
+          },
+          {
+            "name": "Café am Hauptplatz",
+            "tip": "Ein idealer Ort für eine Pause am Nachmittag, bevor Sie weiterziehen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a vasútállomáson",
+            "tip": "Kezdje a napot egy kávéval és egy péksüteménnyel."
+          },
+          {
+            "name": "Étterem a Die Garten Tulln-ban",
+            "tip": "Élvezze az ebédet a gyönyörű kertekre néző kilátással."
+          },
+          {
+            "name": "Kávézó a Fő téren",
+            "tip": "Ideális hely egy délutáni szünetre, mielőtt továbbmenne."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria de la gară",
+            "tip": "Luați o cafea și un produs de patiserie pentru a începe ziua."
+          },
+          {
+            "name": "Restaurant la Die Garten Tulln",
+            "tip": "Bucurați-vă de prânz cu vedere la grădinile frumoase."
+          },
+          {
+            "name": "Cafenea în Piața Principală",
+            "tip": "Un loc ideal pentru o pauză de după-amiază înainte de a merge mai departe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery at the train station",
+            "tip": "Grab a coffee and a pastry to start the day."
+          },
+          {
+            "name": "Restaurant at Die Garten Tulln",
+            "tip": "Enjoy lunch with a view of the beautiful gardens."
+          },
+          {
+            "name": "Café on the Main Square",
+            "tip": "An ideal spot for an afternoon break before moving on."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Donau",
+            "tip": "Ein Spaziergang am späten Nachmittag entlang des Flusses ist sehr friedlich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Der englische Garten in Die Garten Tulln",
+            "tip": "Ein besonders ruhiger und klassisch gestalteter Teil der Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duna-part",
+            "tip": "Egy késő délutáni séta a folyó mentén nagyon békés.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Az angol kert a Die Garten Tulln-ban",
+            "tip": "A kertek egy különösen csendes és klasszikusan kialakított része.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dunării",
+            "tip": "O plimbare târzie după-amiaza de-a lungul râului este foarte pașnică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina engleză din Die Garten Tulln",
+            "tip": "O parte deosebit de liniștită și cu design clasic a grădinilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bank of the Danube",
+            "tip": "A late afternoon walk along the river is very peaceful.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The English Garden in Die Garten Tulln",
+            "tip": "A particularly quiet and classically designed part of the gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen am Museum",
+            "tip": "Der beste Ort für kunstbezogene Andenken."
+          },
+          {
+            "name": "Geschäfte in der Wiener Straße",
+            "tip": "Die Haupteinkaufsstraße der Stadt für eine Vielzahl von Bedürfnissen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emléktárgybolt a múzeumnál",
+            "tip": "A legjobb hely a művészettel kapcsolatos emléktárgyak beszerzésére."
+          },
+          {
+            "name": "Üzletek a Wiener Straßén",
+            "tip": "A város fő bevásárlóutcája különféle igények kielégítésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la muzeu",
+            "tip": "Cel mai bun loc pentru suveniruri legate de artă."
+          },
+          {
+            "name": "Magazine pe Wiener Straße",
+            "tip": "Strada principală de cumpărături a orașului pentru o varietate de nevoi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop at the museum",
+            "tip": "The best place for art-related keepsakes."
+          },
+          {
+            "name": "Shops on Wiener Straße",
+            "tip": "The city's main shopping street for a variety of needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
+          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt.",
+          "Die VOR AnachB App ist nützlich für die Routenplanung in Echtzeit.",
+          "Beachten Sie, dass die Busse sonntags und an Feiertagen seltener fahren."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
+          "Előre ellenőrizze a buszmenetrendet, különösen az utolsó visszajáratot.",
+          "A VOR AnachB alkalmazás hasznos a valós idejű útvonaltervezéshez.",
+          "Ne feledje, hogy a buszok ritkábban közlekednek vasárnap és ünnepnapokon."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
+          "Verificați programul autobuzelor în avans, în special pentru ultima călătorie de întoarcere.",
+          "Aplicația VOR AnachB este utilă pentru planificarea rutelor în timp real.",
+          "Rețineți că autobuzele circulă mai rar duminica și de sărbătorile legale."
+        ],
+        "en": [
+          "Buy a day ticket for public transport to save money.",
+          "Check the bus schedule in advance, especially for the last return trip.",
+          "The VOR AnachB app is useful for real-time route planning.",
+          "Be aware that buses run less frequently on Sundays and public holidays."
+        ]
+      }
+    }
+  }
+}

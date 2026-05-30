@@ -1,0 +1,1135 @@
+{
+  "city_id": "angouleme",
+  "anchor": {
+    "name": "Angoulême",
+    "coords": [
+      0.161,
+      45.648
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Angoulême",
+            "hu": "Városháza (Angoulême)",
+            "ro": "Primăria din Angoulême",
+            "en": "Angoulême Town Hall"
+          },
+          "coords": [
+            0.1614,
+            45.6484
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den Garten im Innenhof des ehemaligen Schlosses.",
+            "hu": "Nézze meg az egykori várudvar belső kertjét.",
+            "ro": "Vizitați grădina interioară a fostului castel.",
+            "en": "Visit the interior garden of the former castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-André",
+            "hu": "Szent András-templom",
+            "ro": "Biserica Saint-André",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            0.1625,
+            45.6492
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruhe in den Gassen rund um die Kirche.",
+            "hu": "Csodálja meg a templom körüli utcák nyugalmát.",
+            "ro": "Admirați liniștea de pe străduțele din jurul bisericii.",
+            "en": "Admire the quiet in the alleys around the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Bemalte Wände (Rundgang)",
+            "hu": "Festett falak (Képregény-útvonal)",
+            "ro": "Zidurile pictate (Circuitul BD)",
+            "en": "Painted Walls (Comic Circuit)"
+          },
+          "coords": [
+            0.1605,
+            45.6515
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach der Lucky-Luke-Wand in der Nähe.",
+            "hu": "Keresse a Lucky Luke-falfestményt a közelben.",
+            "ro": "Căutați pictura murală Lucky Luke din apropiere.",
+            "en": "Look for the Lucky Luke mural nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Angoulême",
+            "hu": "Angoulême-i Múzeum",
+            "ro": "Muzeul din Angoulême",
+            "en": "Angoulême Museum"
+          },
+          "coords": [
+            0.1585,
+            45.6488
+          ],
+          "category": "museums",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Helm von Agris ist das absolute Highlight der Sammlung.",
+            "hu": "Az agrisi sisak a gyűjtemény legfontosabb darabja.",
+            "ro": "Casca de la Agris este piesa centrală a colecției.",
+            "en": "The helmet of Agris is the absolute highlight of the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            0.1595,
+            45.6495
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten aus dem Charente-Tal.",
+            "hu": "Kóstolja meg a Charente-völgy helyi specialitásait.",
+            "ro": "Gustați specialitățile locale din valea Charente.",
+            "en": "Try local specialties from the Charente valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            0.1578,
+            45.6483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die romanische Fassade zeigt über 70 detaillierte Skulpturen.",
+            "hu": "A román stílusú homlokzaton több mint 70 szobor látható.",
+            "ro": "Fațada romanică prezintă peste 70 de sculpturi detaliate.",
+            "en": "The Romanesque facade features over 70 detailed sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Stadtmauern (Ramparts)",
+            "hu": "Városfalak (Ramparts)",
+            "ro": "Zidurile cetății",
+            "en": "The City Walls (Ramparts)"
+          },
+          "coords": [
+            0.1565,
+            45.6485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über das Tal der Charente.",
+            "hu": "Élvezze a kilátást a Charente folyó völgyére.",
+            "ro": "Bucurați-vă de panorama asupra văii râului Charente.",
+            "en": "Enjoy the panoramic view over the Charente river valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das historische Plateau von Angoulême. Sie beginnen beim prachtvollen Rathaus, das in den Türmen des alten Schlosses untergebracht ist. Danach folgen Sie dem 'Circuit des Murs Peints', um die berühmten Comic-Wände zu entdecken. Der Nachmittag gehört der beeindruckenden romanischen Kathedrale und dem Museum, bevor Sie den Tag mit einem Spaziergang auf den historischen Stadtmauern bei Sonnenuntergang ausklingen lassen.",
+        "hu": "Reggel Angoulême történelmi fennsíkját fedezheti fel. A régi vár tornyaiban berendezett városházától indulva a 'Festett falak' útvonalát követve ismerheti meg a képregények világát. Délután a lenyűgöző román stílusú székesegyház és a múzeum kincsei várják, majd a napot a városfalakon tett sétával zárhatja, ahonnan csodás kilátás nyílik a folyó völgyére.",
+        "ro": "Dimineața este dedicată explorării platoului istoric din Angoulême. Începeți de la primăria spectaculoasă, situată în turnurile vechiului castel, apoi urmați circuitul zidurilor pictate pentru a descoperi legătura orașului cu benzile desenate. După-amiaza vizitați catedrala romanică și muzeul local, încheind ziua cu o plimbare pe fortificațiile orașului pentru o panoramă superbă asupra văii.",
+        "en": "In the morning, explore Angoulême's historic plateau. Start at the town hall, housed in the towers of the former castle, and follow the 'Circuit des Murs Peints' to discover the city's famous comic book murals. The afternoon is dedicated to the impressive Romanesque cathedral and the local museum, before ending your day with a walk along the historic ramparts as the sun sets over the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Macarons d'Angoulême",
+            "tip": "Traditionelle Makronen nach einem Rezept aus dem 16. Jahrhundert."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Ein lokaler Aperitif aus Traubenmost und Cognac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Macarons d'Angoulême",
+            "tip": "Hagyományos makron sütemény egy 16. századi recept alapján."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Helyi aperitív, amely szőlőmust és cognac keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Macarons d'Angoulême",
+            "tip": "Macarons tradiționale după o rețetă din secolul al XVI-lea."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Un aperitiv local din must de struguri și coniac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Macarons d'Angoulême",
+            "tip": "Traditional macarons based on a 16th-century recipe."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "A local aperitif made from grape must and cognac."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Vert",
+            "tip": "Ein ruhiger Park unterhalb der Stadtmauern.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rempart de l'Est",
+            "tip": "Weniger begangener Teil der Mauern für stille Momente.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Vert",
+            "tip": "Csendes park a városfalak tövében.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Keleti várfal",
+            "tip": "Kevésbé forgalmas falrészlet a nyugodt pillanatokhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Vert",
+            "tip": "Un parc liniștit situat sub zidurile cetății.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rempart de l'Est",
+            "tip": "O secțiune mai puțin circulată a zidurilor pentru momente de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Vert",
+            "tip": "A quiet park located below the city walls.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "East Rampart",
+            "tip": "A less-visited section of the walls for quiet moments.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles d'Angoulême",
+            "tip": "Marktplatz in einer Glas- und Eisenkonstruktion aus dem 19. Jahrhundert."
+          },
+          {
+            "name": "Chocolaterie Duceau",
+            "tip": "Historischer Laden mit den berühmten 'Marguerites d'Angoulême'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles d'Angoulême",
+            "tip": "Vásárcsarnok egy 19. századi üveg- és vasszerkezetben."
+          },
+          {
+            "name": "Chocolaterie Duceau",
+            "tip": "Történelmi édességbolt a híres 'Angoulême-i Margit' csokoládéval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles d'Angoulême",
+            "tip": "Piață într-o structură de sticlă și fier din secolul al XIX-lea."
+          },
+          {
+            "name": "Chocolaterie Duceau",
+            "tip": "Magazin istoric cu celebrele 'Marguerites d'Angoulême'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles d'Angoulême",
+            "tip": "Market hall in a 19th-century glass and iron structure."
+          },
+          {
+            "name": "Chocolaterie Duceau",
+            "tip": "Historic shop featuring the famous 'Marguerites d'Angoulême'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Plateau ist steil; tragen Sie bequeme Schuhe für die Gassen.",
+          "Die Touristeninformation bietet Karten für den Comic-Rundgang an.",
+          "Mittagessen sollten Sie in den Gassen rund um das Rathaus suchen.",
+          "Achten Sie auf die Straßenschilder, die oft in Sprechblasen-Form sind."
+        ],
+        "hu": [
+          "A fennsík meredek, viseljen kényelmes cipőt az utcákhoz.",
+          "A turisztikai irodában kérjen térképet a képregény-útvonalhoz.",
+          "Az ebédet a városháza körüli kisutcákban érdemes keresni.",
+          "Figyelje az utcatáblákat, amelyek gyakran szóbuborék alakúak."
+        ],
+        "ro": [
+          "Platoul este abrupt; purtați încălțăminte comodă pentru străduțe.",
+          "Biroul de turism oferă hărți pentru circuitul benzilor desenate.",
+          "Căutați restaurante pentru prânz pe străduțele din jurul primăriei.",
+          "Observați indicatoarele stradale, adesea în formă de bule de dialog."
+        ],
+        "en": [
+          "The plateau is steep; wear comfortable shoes for the narrow streets.",
+          "The tourist office offers maps for the comic book circuit.",
+          "Look for lunch spots in the alleys around the town hall.",
+          "Note the street signs, which are often shaped like speech bubbles."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtmauern-Rundfahrt",
+            "hu": "Városfal-körút",
+            "ro": "Circuitul zidurilor",
+            "en": "Ramparts Loop"
+          },
+          "coords": [
+            0.156,
+            45.649
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie die gesamte Runde für Panoramablicke in alle Richtungen.",
+            "hu": "Tekerjen végig a teljes körön a panorámás kilátásért.",
+            "ro": "Parcurgeți întregul circuit pentru panorame în toate direcțiile.",
+            "en": "Ride the full loop for panoramic views in all directions."
+          }
+        },
+        {
+          "name": {
+            "de": "Comic-Museum (Cité de la BD)",
+            "hu": "Képregény-múzeum",
+            "ro": "Muzeul Benzilor Desenate",
+            "en": "Comic Museum (Cité de la BD)"
+          },
+          "coords": [
+            0.1532,
+            45.6555
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke zum Museumskomplex.",
+            "hu": "Menjen át a gyalogoshídon a múzeumkomplexumhoz.",
+            "ro": "Traversați podul pietonal către complexul muzeal.",
+            "en": "Cross the pedestrian bridge to the museum complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Nil (Papiermuseum)",
+            "hu": "Le Nil (Papírmúzeum)",
+            "ro": "Le Nil (Muzeul Hârtiei)",
+            "en": "Le Nil (Paper Museum)"
+          },
+          "coords": [
+            0.1528,
+            45.6538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Papierindustrie an der Charente.",
+            "hu": "Ismerje meg a Charente-parti papírgyártás történetét.",
+            "ro": "Aflați mai multe despre industria hârtiei de pe râul Charente.",
+            "en": "Learn about the history of the paper industry on the Charente."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick am Flussufer",
+            "hu": "Piknik a folyóparton",
+            "ro": "Picnic pe malul râului",
+            "en": "Riverside Picnic"
+          },
+          "coords": [
+            0.1515,
+            45.657
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kühle Brise direkt am Wasser.",
+            "hu": "Élvezze a hűvös szellőt közvetlenül a vízparton.",
+            "ro": "Bucurați-vă de briza răcoroasă chiar lângă apă.",
+            "en": "Enjoy the cool breeze right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Aufstieg zum Plateau",
+            "hu": "Felkapaszkodás a fennsíkra",
+            "ro": "Urcarea pe platou",
+            "en": "Climb to the Plateau"
+          },
+          "coords": [
+            0.16,
+            45.651
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Serpentinen für einen moderaten Aufstieg.",
+            "hu": "Használja a szerpentineket a mérsékeltebb emelkedéshez.",
+            "ro": "Folosiți serpentinele pentru o urcare mai moderată.",
+            "en": "Use the serpentines for a more moderate climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            0.1578,
+            45.6483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad vor dem Hauptportal sicher ab.",
+            "hu": "Zárja le biztonságosan a biciklit a főbejárat előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața portalului principal.",
+            "en": "Park your bike securely in front of the main portal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Oberstadt mit dem charmanten Flussufer. Nach einer Panorama-Runde auf den Mauern fahren Sie hinunter zur Charente. Dort besuchen Sie das weltberühmte Comic-Museum und das Papiermuseum in einer alten Fabrik. Nach einem entspannten Picknick am Fluss bewältigen Sie den Aufstieg zurück zum Plateau, um die Architektur der Kathedrale zu bewundern.",
+        "hu": "Ez a kerékpáros túra összeköti a felsővárost a hangulatos folyóparttal. A várfalakon tett panorámakör után legurulhat a Charente partjára. Itt meglátogathatja a világhírű képregény-múzeumot és a régi papírgyárban berendezett múzeumot. Egy folyóparti pihenő után következik a visszatérés a fennsíkra, ahol a székesegyház látványa várja.",
+        "ro": "Acest tur cu bicicleta face legătura între orașul de sus și malul fermecător al râului. După un circuit panoramic pe ziduri, coborâți spre râul Charente. Aici veți vizita celebrul Muzeu al Benzilor Desenate și Muzeul Hârtiei, situat într-o veche fabrică. După un picnic relaxant pe mal, veți urca înapoi pe platou pentru a admira arhitectura catedralei.",
+        "en": "This bike tour connects the upper town with the charming riverbank. After a panoramic loop along the ramparts, ride down to the Charente river. There, visit the world-famous Comic Museum and the Paper Museum in an old factory. After a relaxed riverside picnic, tackle the climb back to the plateau to admire the cathedral's architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie am Fluss",
+            "tip": "Holen Sie sich frisches Baguette für Ihr Picknick am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti pékség",
+            "tip": "Vegyön friss bagettet a vízparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria de pe mal",
+            "tip": "Luați o baghetă proaspătă pentru picnicul de pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Bakery",
+            "tip": "Pick up a fresh baguette for your picnic by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Coulée Verte",
+            "tip": "Ein grüner Weg entlang des Flusses, ideal zum Radfahren.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coulée Verte",
+            "tip": "Zöld útvonal a folyó mentén, ideális kerékpározáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coulée Verte",
+            "tip": "O cale verde de-a lungul râului, ideală pentru ciclism.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coulée Verte",
+            "tip": "A green path along the river, ideal for cycling.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Librairie de la Cité",
+            "tip": "Riesige Auswahl an Comics direkt im Museumskomplex."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Librairie de la Cité",
+            "tip": "Hatalmas képregényválaszték közvetlenül a múzeumnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librairie de la Cité",
+            "tip": "O selecție uriașă de benzi desenate chiar în complexul muzeal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Librairie de la Cité",
+            "tip": "Huge selection of comics right in the museum complex."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Abstieg zum Fluss ist schnell, der Rückweg erfordert Kraft.",
+          "Nutzen Sie die Brücke 'Passerelle Magelis' für eine Abkürzung.",
+          "Entlang der Charente ist das Gelände flach und sehr angenehm.",
+          "Die Stadt bietet Leihräder am Bahnhof und im Zentrum an."
+        ],
+        "hu": [
+          "A lejtő a folyóhoz gyors, de a visszaút erőt igényel.",
+          "Használja a 'Passerelle Magelis' hidat rövidítésként.",
+          "A Charente mentén a terep sík és nagyon kellemes.",
+          "A városban bérelhető kerékpárok találhatók az állomásnál és a központban."
+        ],
+        "ro": [
+          "Coborârea spre râu este rapidă, dar drumul de întoarcere necesită efort.",
+          "Folosiți podul 'Passerelle Magelis' ca scurtătură.",
+          "De-a lungul râului Charente terenul este plat și foarte plăcut.",
+          "Orașul oferă biciclete de închiriat la gară și în centru."
+        ],
+        "en": [
+          "The descent to the river is fast, but the way back requires some effort.",
+          "Use the 'Passerelle Magelis' bridge as a shortcut.",
+          "The terrain along the Charente is flat and very pleasant.",
+          "The city offers rental bikes at the station and in the center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plateau Cluster: Rathaus",
+            "hu": "Fennsík negyed: Városháza",
+            "ro": "Cluster Platou: Primăria",
+            "en": "Plateau Cluster: Town Hall"
+          },
+          "coords": [
+            0.1614,
+            45.6484
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Halles' für den Plateau-Besuch.",
+            "hu": "Parkoljon a 'Halles' parkolóházban a fennsík meglátogatásához.",
+            "ro": "Parcați în parcarea 'Halles' pentru a vizita platoul.",
+            "en": "Park in the 'Halles' parking garage for the plateau visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateau Cluster: Kathedrale",
+            "hu": "Fennsík negyed: Székesegyház",
+            "ro": "Cluster Platou: Catedrala",
+            "en": "Plateau Cluster: Cathedral"
+          },
+          "coords": [
+            0.1578,
+            45.6483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Rathaus erreichbar (Walk-Hop).",
+            "hu": "Gyalogosan elérhető a városházától.",
+            "ro": "Accesibil pe jos de la primărie.",
+            "en": "Accessible on foot from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen auf dem Plateau",
+            "hu": "Ebéd a fennsíkon",
+            "ro": "Prânz pe platou",
+            "en": "Lunch on the Plateau"
+          },
+          "coords": [
+            0.1595,
+            45.6495
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Aussichtsterrasse.",
+            "hu": "Válasszon éttermet kilátással rendelkező terasszal.",
+            "ro": "Alegeți un restaurant cu terasă panoramică.",
+            "en": "Choose a restaurant with a panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Cybard Cluster: Comic-Museum",
+            "hu": "St. Cybard negyed: Képregény-múzeum",
+            "ro": "Cluster St. Cybard: Muzeul BD",
+            "en": "St. Cybard Cluster: Comic Museum"
+          },
+          "coords": [
+            0.1532,
+            45.6555
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrt zum Flussufer (Car-Hop). Parkplatz direkt vor Ort.",
+            "hu": "Autózás a folyópartra. Parkoló közvetlenül a helyszínen.",
+            "ro": "Drum spre malul râului. Parcare disponibilă la fața locului.",
+            "en": "Drive to the riverbank. Parking available on site."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Cybard Cluster: Le Nil",
+            "hu": "St. Cybard negyed: Le Nil",
+            "ro": "Cluster St. Cybard: Le Nil",
+            "en": "St. Cybard Cluster: Le Nil"
+          },
+          "coords": [
+            0.1528,
+            45.6538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Comic-Museum aus.",
+            "hu": "Rövid séta a képregény-múzeumtól.",
+            "ro": "Scurtă plimbare de la Muzeul Benzilor Desenate.",
+            "en": "Short walk from the Comic Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Saint-Michel",
+            "hu": "Saint-Michel kilátópont",
+            "ro": "Punctul de belvedere Saint-Michel",
+            "en": "Saint-Michel Viewpoint"
+          },
+          "coords": [
+            0.115,
+            45.645
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Blick auf die Silhouette von Angoulême aus der Ferne.",
+            "hu": "Kilátás Angoulême sziluettjére a távolból.",
+            "ro": "Vedere asupra siluetei orașului Angoulême de la distanță.",
+            "en": "View of the Angoulême skyline from a distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das historische Zentrum auf dem Plateau mit dem modernen Museumsviertel am Fluss. Vormittags parken Sie in der Oberstadt, um Rathaus und Kathedrale zu Fuß zu erkunden. Nach dem Mittagessen fahren Sie hinunter zum Flussufer für die Cité de la BD. Zum Abschluss führt Sie eine kurze Fahrt zu einem Aussichtspunkt außerhalb, um die Stadt in ihrer ganzen Pracht von weitem zu sehen.",
+        "hu": "Autóval kényelmesen összekötheti a fennsíkon található történelmi központot a folyóparti múzeumi negyeddel. Délelőtt a felsővárosban parkolva gyalog fedezheti fel a városházát és a székesegyházat. Ebéd után a folyópartra autózva látogathatja meg a képregények városát, végül egy rövid autózással egy külső kilátópontról csodálhatja meg a város sziluettjét.",
+        "ro": "Cu mașina, puteți combina centrul istoric de pe platou cu cartierul modern al muzeelor de pe malul râului. Dimineața, parcați în orașul de sus pentru a explora pe jos primăria și catedrala. După prânz, conduceți spre malul apei pentru Cité de la BD. La final, o scurtă călătorie vă va duce la un punct de belvedere exterior pentru a vedea orașul în toată splendoarea sa.",
+        "en": "By car, you can combine the historic center on the plateau with the modern museum district by the river. In the morning, park in the upper town to explore the town hall and cathedral on foot. After lunch, drive down to the riverbank for the Cité de la BD. Finally, a short drive takes you to an outside viewpoint to see the city in all its glory from afar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir de Brice",
+            "tip": "Moderne Küche in der Nähe der Markthallen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Comptoir de Brice",
+            "tip": "Modern konyha a vásárcsarnok közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Comptoir de Brice",
+            "tip": "Bucătărie modernă în apropierea halei pieței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir de Brice",
+            "tip": "Modern cuisine near the market halls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bords de Charente",
+            "tip": "Ruhiges Flussufer mit Parkplätzen in der Nähe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Charente-part",
+            "tip": "Nyugodt folyópart közeli parkolókkal.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Charente",
+            "tip": "Mal liniștit al râului cu parcări în apropiere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Charente",
+            "tip": "Quiet riverbank with parking nearby.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkladen Cité BD",
+            "tip": "Große Auswahl an Sammlerstücken und Postern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cité BD ajándékbolt",
+            "tip": "Gyűjtői darabok és poszterek nagy választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de cadouri Cité BD",
+            "tip": "O selecție mare de piese de colecție și postere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cité BD Gift Shop",
+            "tip": "Wide selection of collectibles and posters."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkhäuser am Plateau sind oft eng; nutzen Sie 'Bouillaud' oder 'Halles'.",
+          "Fahren Sie vorsichtig in den schmalen Einbahnstraßen der Altstadt.",
+          "Am Flussufer (Cité de la BD) gibt es kostenlose Parkplätze.",
+          "Planen Sie für den Wechsel zwischen Plateau und Fluss 10-15 Min Fahrt ein."
+        ],
+        "hu": [
+          "A fennsíkon a parkolóházak szűkek lehetnek, használja a 'Bouillaud' vagy 'Halles' parkolót.",
+          "Vezessen óvatosan az óváros szűk, egyirányú utcáiban.",
+          "A folyóparton (Cité de la BD) ingyenes parkolóhelyek is vannak.",
+          "A fennsík és a folyópart közötti váltáshoz 10-15 perc autózással számoljon."
+        ],
+        "ro": [
+          "Parcările supraetajate de pe platou sunt adesea înguste; folosiți 'Bouillaud' sau 'Halles'.",
+          "Conduceți cu atenție pe străzile înguste cu sens unic din orașul vechi.",
+          "Pe malul râului (Cité de la BD) există locuri de parcare gratuite.",
+          "Planificați 10-15 minute pentru deplasarea între platou și râu."
+        ],
+        "en": [
+          "Parking garages on the plateau are often narrow; use 'Bouillaud' or 'Halles'.",
+          "Drive carefully in the narrow one-way streets of the Old Town.",
+          "There are free parking spots available along the riverbank near Cité de la BD.",
+          "Allow 10-15 minutes for the drive between the plateau and the river."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville (Plateau)",
+            "hu": "Városháza (Fennsík)",
+            "ro": "Primăria (Platou)",
+            "en": "Town Hall (Plateau)"
+          },
+          "coords": [
+            0.1614,
+            45.6484
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der STGA-Busse.",
+            "hu": "Az STGA buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuzele STGA.",
+            "en": "Central hub for STGA buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Bemalte Wände (Zentrum)",
+            "hu": "Festett falak (Központ)",
+            "ro": "Zidurile pictate (Centru)",
+            "en": "Painted Walls (Center)"
+          },
+          "coords": [
+            0.1605,
+            45.6515
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Rathaus aus bequem zu Fuß erreichbar.",
+            "hu": "A városházától kényelmesen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos de la primărie.",
+            "en": "Easily accessible on foot from the Town Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            0.1578,
+            45.6483
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wichtiger Haltepunkt am Rande des Plateaus.",
+            "hu": "Fontos megállóhely a fennsík szélén.",
+            "ro": "Punct de oprire important la marginea platoului.",
+            "en": "Important stop at the edge of the plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen Marktviertel",
+            "hu": "Ebéd a piaci negyedben",
+            "ro": "Prânz în zona pieței",
+            "en": "Lunch in the Market Area"
+          },
+          "coords": [
+            0.1595,
+            45.6495
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Rund um Les Halles gibt es viele Bistros.",
+            "hu": "A Les Halles környékén számos bisztró található.",
+            "ro": "Există multe bistrouri în jurul Les Halles.",
+            "en": "There are many bistros around Les Halles."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité de la BD (Busfahrt)",
+            "hu": "Cité de la BD (Buszos út)",
+            "ro": "Cité de la BD (Călătorie cu autobuzul)",
+            "en": "Cité de la BD (Bus Trip)"
+          },
+          "coords": [
+            0.1532,
+            45.6555
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie BHNS A für eine schnelle Verbindung.",
+            "hu": "Használja a BHNS A vonalat a gyors összeköttetéshez.",
+            "ro": "Folosiți linia BHNS A pentru o conexiune rapidă.",
+            "en": "Use the BHNS A line for a quick connection."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Nil",
+            "hu": "Le Nil",
+            "ro": "Le Nil",
+            "en": "Le Nil"
+          },
+          "coords": [
+            0.1528,
+            45.6538
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Museum aus.",
+            "hu": "Rövid séta a múzeumtól.",
+            "ro": "Scurtă plimbare de la muzeu.",
+            "en": "Short walk from the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem effizienten Bussystem STGA erkunden Sie Angoulême mühelos. Vormittags nutzen Sie die Haltestellen auf dem Plateau für das historische Zentrum. Ein Bus bringt Sie dann bequem hinunter zur Charente, um die Comic-Welt zu besuchen, ohne den steilen Aufstieg zu Fuß bewältigen zu müssen. Ideal, um die verschiedenen Ebenen der Stadt stressfrei zu erleben.",
+        "hu": "Az STGA hatékony buszhálózatával könnyedén felfedezheti Angoulême-t. Délelőtt a fennsíkon lévő megállókat használva járhatja be a történelmi központot. Ezután egy busz kényelmesen leviszi a Charente partjára a képregények világához, így megkíméli magát a meredek gyaloglástól. Ideális a város különböző szintjeinek stresszmentes megismeréséhez.",
+        "ro": "Cu sistemul eficient de autobuze STGA, explorați Angoulême fără efort. Dimineața, folosiți stațiile de pe platou pentru centrul istoric. Un autobuz vă va duce apoi confortabil jos, la râul Charente, pentru a vizita lumea benzilor desenate, evitând urcușul abrupt pe jos. Ideal pentru a experimenta diferitele niveluri ale orașului fără stres.",
+        "en": "With the efficient STGA bus system, you can explore Angoulême effortlessly. In the morning, use the stops on the plateau for the historic center. A bus will then take you comfortably down to the Charente river to visit the comic book world, saving you from the steep climb on foot. Ideal for experiencing the different levels of the city stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Lokale Produkte und kleine Snacks an den Marktständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "Helyi termékek és falatok a piaci árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Produse locale și gustări la tarabele din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Local products and small snacks at the market stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place Saint-Pierre",
+            "tip": "Ein ruhiger Platz vor der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Saint-Pierre",
+            "tip": "Csendes tér a székesegyház előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place Saint-Pierre",
+            "tip": "O piață liniștită în fața catedralei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Saint-Pierre",
+            "tip": "A quiet square in front of the cathedral.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Hergé",
+            "tip": "Die Haupteinkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Hergé",
+            "tip": "A központ fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Hergé",
+            "tip": "Principala stradă comercială din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Hergé",
+            "tip": "The main shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Busfahrer oder per App.",
+          "Die Linien BHNS A und B sind die Hauptadern der Stadt.",
+          "Achten Sie auf die elektronischen Anzeigen an den Haltestellen.",
+          "Am Wochenende fahren die Busse seltener; prüfen Sie den Fahrplan."
+        ],
+        "hu": [
+          "Vegyen napijegyet a buszvezetőnél vagy az alkalmazáson keresztül.",
+          "A BHNS A és B vonalak a város fő közlekedési ütőerei.",
+          "Figyelje a megállókban kihelyezett elektronikus kijelzőket.",
+          "Hétvégén a buszok ritkábban járnak, ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șoferul de autobuz sau prin aplicație.",
+          "Liniile BHNS A și B sunt arterele principale ale orașului.",
+          "Urmăriți afișajele electronice din stații.",
+          "În weekend, autobuzele circulă mai rar; verificați orarul."
+        ],
+        "en": [
+          "Buy a day ticket directly from the bus driver or via the app.",
+          "Lines BHNS A and B are the main transit arteries of the city.",
+          "Check the electronic displays at the bus stops.",
+          "Buses run less frequently on weekends; check the timetable."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1037 @@
+{
+  "city_id": "italy-imola-cities-v2",
+  "anchor": {
+    "name": "Imola",
+    "coords": [
+      11.713,
+      44.3547
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale San Cassiano",
+            "hu": "San Cassiano székesegyház",
+            "ro": "Catedrala San Cassiano",
+            "en": "Duomo di San Cassiano"
+          },
+          "coords": [
+            11.7103,
+            44.354
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Kreuzgang für einen Moment der Stille.",
+            "hu": "Látogasson el a kerengőbe egy kis nyugalomért.",
+            "ro": "Vizitați claustrul pentru un moment de liniște.",
+            "en": "Visit the cloister for a moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Tozzoni",
+            "hu": "Palazzo Tozzoni",
+            "ro": "Palatul Tozzoni",
+            "en": "Palazzo Tozzoni"
+          },
+          "coords": [
+            11.7114,
+            44.3531
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekt erhaltenes Beispiel für ein Adelsheim.",
+            "hu": "Tökéletesen megőrzött példája egy nemesi otthonnak.",
+            "ro": "Un exemplu perfect conservat de reședință nobiliară.",
+            "en": "A perfectly preserved example of a noble home."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Rocca Sforzesca",
+            "hu": "Rocca Sforzesca erőd",
+            "ro": "Cetatea Rocca Sforzesca",
+            "en": "Rocca Sforzesca Fortress"
+          },
+          "coords": [
+            11.7126,
+            44.3538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Aussicht von den Türmen über die Stadt ist fantastisch.",
+            "hu": "A tornyokból nyíló kilátás a városra fantasztikus.",
+            "ro": "Priveliștea de pe turnuri asupra orașului este fantastică.",
+            "en": "The view from the towers over the city is fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Apotheke",
+            "hu": "Történelmi Patika",
+            "ro": "Farmacia Istorică",
+            "en": "Historic Pharmacy"
+          },
+          "coords": [
+            11.7145,
+            44.3552
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die handbemalten Majolika-Gefäße.",
+            "hu": "Csodálja meg a kézzel festett majolika edényeket.",
+            "ro": "Admirați vasele de majolică pictate manual.",
+            "en": "Admire the hand-painted majolica jars."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Matteotti & Palazzo Comunale",
+            "hu": "Piazza Matteotti és Városháza",
+            "ro": "Piazza Matteotti și Primăria",
+            "en": "Piazza Matteotti & Palazzo Comunale"
+          },
+          "coords": [
+            11.7148,
+            44.3555
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ideal für einen Kaffee und um das lokale Leben zu beobachten.",
+            "hu": "Ideális egy kávéra és a helyi élet megfigyelésére.",
+            "ro": "Ideal pentru o cafea și pentru a observa viața locală.",
+            "en": "Ideal for a coffee and watching local life."
+          }
+        },
+        {
+          "name": {
+            "de": "San Domenico Museum",
+            "hu": "San Domenico Múzeum",
+            "ro": "Muzeul San Domenico",
+            "en": "San Domenico Museum"
+          },
+          "coords": [
+            11.7135,
+            44.3562
+          ],
+          "category": "museums",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pinakothek im ehemaligen Kloster.",
+            "hu": "Fedezze fel a képtárat az egykori kolostorban.",
+            "ro": "Descoperiți pinacoteca din fosta mănăstire.",
+            "en": "Explore the art gallery in the former convent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im religiösen Herzen Imolas bei der Kathedrale San Cassiano, gefolgt von einem Einblick in das luxuriöse Leben vergangener Jahrhunderte im Palazzo Tozzoni. Mittags erkunden Sie die imposante Rocca Sforzesca, bevor Sie zur Piazza Matteotti schlendern, um die historische Apotheke zu bewundern und emilianische Spezialitäten zu genießen. Der Nachmittag endet kulturell im San Domenico Museum, eingebettet in einen charmanten Klosterkomplex.",
+        "hu": "A napot Imola vallási szívében, a San Cassiano székesegyháznál kezdjük, majd bepillantást nyerünk az elmúlt évszázadok luxuséletébe a Palazzo Tozzoniban. Délben felfedezzük a lenyűgöző Rocca Sforzesca erődöt, mielőtt a Piazza Matteotti felé vennénk az irányt, hogy megcsodáljuk a történelmi patikát és megkóstoljuk a helyi specialitásokat. A délután kulturális élményekkel zárul a San Domenico Múzeumban, egy bájos kolostoregyüttesben.",
+        "ro": "Ziua începe în inima religioasă a Imolei, la Catedrala San Cassiano, urmată de o incursiune în viața luxoasă a secolelor trecute la Palatul Tozzoni. La prânz explorăm impunătoarea cetate Rocca Sforzesca, înainte de a ne îndrepta spre Piazza Matteotti pentru a admira farmacia istorică și a gusta specialități emiliene. După-amiaza se încheie cultural la Muzeul San Domenico, situat într-un complex monastic fermecător.",
+        "en": "The day begins in the religious heart of Imola at the San Cassiano Cathedral, followed by a glimpse into the luxurious life of past centuries at Palazzo Tozzoni. At noon, explore the imposing Rocca Sforzesca fortress before heading to Piazza Matteotti to admire the historic pharmacy and enjoy Emilian specialties. The afternoon ends culturally at the San Domenico Museum, set within a charming former convent complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Osteria del Vicolo Nuovo",
+            "tip": "Probieren Sie die handgemachten Garganelli mit Ragù."
+          },
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Ein schneller Snack mit Squacquerone-Käse und Rucola."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Osteria del Vicolo Nuovo",
+            "tip": "Kóstolja meg a kézzel készített Garganelli tésztát raguval."
+          },
+          {
+            "name": "Piadina Romagnola",
+            "tip": "Gyors snack Squacquerone sajttal és madársalátával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Osteria del Vicolo Nuovo",
+            "tip": "Încercați pastele Garganelli făcute manual cu ragù."
+          },
+          {
+            "name": "Piadina Romagnola",
+            "tip": "O gustare rapidă cu brânză Squacquerone și rucola."
+          }
+        ],
+        "en": [
+          {
+            "name": "Osteria del Vicolo Nuovo",
+            "tip": "Try the handmade Garganelli pasta with ragù."
+          },
+          {
+            "name": "Piadina Romagnola",
+            "tip": "A quick snack with Squacquerone cheese and rocket."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino di San Domenico",
+            "tip": "Ein ruhiger Kreuzgang für Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Domenico kertje",
+            "tip": "Csendes kerengő az elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina San Domenico",
+            "tip": "Un claustru liniștit pentru meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Domenico Garden",
+            "tip": "A quiet cloister for meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Lokale Produkte und frische Pasta zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fedett Piac (Mercato Coperto)",
+            "tip": "Helyi termékek és friss tészta elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Produse locale și paste proaspete de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mercato Coperto",
+            "tip": "Local products and fresh pasta to take away."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist kompakt und ideal zu Fuß erkunden.",
+          "Viele Paläste sind montags geschlossen.",
+          "Die Piazza Matteotti ist das soziale Herz der Stadt."
+        ],
+        "hu": [
+          "A történelmi központ kompakt, gyalogosan is könnyen bejárható.",
+          "Sok palota hétfőn zárva tart.",
+          "A Piazza Matteotti a város társasági élete."
+        ],
+        "ro": [
+          "Centrul istoric este compact și ideal de explorat pe jos.",
+          "Multe palate sunt închise lunea.",
+          "Piazza Matteotti este inima socială a orașului."
+        ],
+        "en": [
+          "The historic center is compact and ideal to explore on foot.",
+          "Many palaces are closed on Mondays.",
+          "Piazza Matteotti is the social heart of the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rocca Sforzesca",
+            "hu": "Rocca Sforzesca",
+            "ro": "Rocca Sforzesca",
+            "en": "Rocca Sforzesca"
+          },
+          "coords": [
+            11.7126,
+            44.3538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich direkt am Eingang.",
+            "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók.",
+            "ro": "Suporturile pentru biciclete sunt chiar la intrare.",
+            "en": "Bike racks are located right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Autodromo Enzo e Dino Ferrari",
+            "hu": "Autodromo Enzo e Dino Ferrari",
+            "ro": "Autodromo Enzo e Dino Ferrari",
+            "en": "Autodromo Enzo e Dino Ferrari"
+          },
+          "coords": [
+            11.711,
+            44.341
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Senna-Denkmal an der Tamburello-Kurve.",
+            "hu": "Látogasson el a Senna-emlékműhöz a Tamburello kanyarnál.",
+            "ro": "Vizitați monumentul Senna de la virajul Tamburello.",
+            "en": "Visit the Senna monument at the Tamburello curve."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Acque Minerali",
+            "hu": "Ásványvizek parkja",
+            "ro": "Parcul Acque Minerali",
+            "en": "Mineral Waters Park"
+          },
+          "coords": [
+            11.719,
+            44.3435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Wege im Park sind perfekt für Radfahrer.",
+            "hu": "A park ösvényei tökéletesek a kerékpárosoknak.",
+            "ro": "Aleile din parc sunt perfecte pentru bicicliști.",
+            "en": "The paths in the park are perfect for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza Matteotti",
+            "hu": "Piazza Matteotti",
+            "ro": "Piazza Matteotti",
+            "en": "Piazza Matteotti"
+          },
+          "coords": [
+            11.7148,
+            44.3555
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis in einer der Konditoreien.",
+            "hu": "Élvezzen egy fagyit az egyik cukrászdában.",
+            "ro": "Savurați o înghețată la una dintre cofetării.",
+            "en": "Enjoy an ice cream at one of the pastry shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Cassiano",
+            "hu": "San Cassiano székesegyház",
+            "ro": "Catedrala San Cassiano",
+            "en": "Duomo di San Cassiano"
+          },
+          "coords": [
+            11.7103,
+            44.354
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Barockfassade.",
+            "hu": "Csodálja meg a barokk homlokzatot.",
+            "ro": "Admirați fațada barocă.",
+            "en": "Admire the Baroque facade."
+          }
+        },
+        {
+          "name": {
+            "de": "San Domenico Museum",
+            "hu": "San Domenico Múzeum",
+            "ro": "Muzeul San Domenico",
+            "en": "San Domenico Museum"
+          },
+          "coords": [
+            11.7135,
+            44.3562
+          ],
+          "category": "museums",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Hinterlassen Sie Ihr Rad sicher im Innenhof.",
+            "hu": "Hagyja kerékpárját biztonságban a belső udvaron.",
+            "ro": "Lăsați bicicleta în siguranță în curtea interioară.",
+            "en": "Leave your bike safely in the inner courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad kombinieren Sie das historische Zentrum mit der legendären Welt des Motorsports. Nach der Festung Rocca Sforzesca radeln Sie direkt zum Autodrom, wo Sie die Atmosphäre der Rennstrecke einatmen. Der Rückweg führt durch den grünen Park der Mineralwässer zurück in die Altstadt zur Piazza Matteotti und zur Kathedrale.",
+        "hu": "Kerékpárral kombinálhatja a történelmi központot a motorsport legendás világával. A Rocca Sforzesca erőd után egyenesen az Autodromhoz tekerünk, ahol beszippantjuk a versenypálya hangulatát. A visszaút az Ásványvizek zöld parkján keresztül vezet az óvárosba, a Piazza Matteottihoz és a székesegyházhoz.",
+        "ro": "Cu bicicleta combinați centrul istoric cu lumea legendară a sportului cu motor. După cetatea Rocca Sforzesca, pedalați direct spre Autodrom, unde respirați atmosfera circuitului. Drumul de întoarcere trece prin parcul verde al apelor minerale înapoi în orașul vechi, la Piazza Matteotti și catedrală.",
+        "en": "By bike, you can combine the historic center with the legendary world of motorsport. After the Rocca Sforzesca fortress, cycle straight to the Autodrom, where you can breathe in the atmosphere of the racetrack. The return journey leads through the green Mineral Waters Park back to the old town, to Piazza Matteotti and the cathedral."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar Mezzavia",
+            "tip": "Ein beliebter Treffpunkt für Radfahrer am Rande des Zentrums."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar Mezzavia",
+            "tip": "Népszerű találkozóhely kerékpárosoknak a központ szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar Mezzavia",
+            "tip": "Un loc de întâlnire popular pentru bicicliști la marginea centrului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar Mezzavia",
+            "tip": "A popular meeting spot for cyclists on the edge of the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco delle Acque Minerali",
+            "tip": "Riesige Grünflächen direkt an der Rennstrecke.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ásványvizek parkja",
+            "tip": "Hatalmas zöldterületek közvetlenül a versenypálya mellett.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Acque Minerali",
+            "tip": "Spații verzi vaste chiar lângă circuit.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mineral Waters Park",
+            "tip": "Vast green spaces right next to the racetrack.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ferrari Shop near Autodromo",
+            "tip": "Offizielle Fanartikel für Motorsport-Fans."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ferrari Shop az Autodromnál",
+            "tip": "Hivatalos emléktárgyak motorsport rajongóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Ferrari lângă Autodrom",
+            "tip": "Articole oficiale pentru fanii sportului cu motor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferrari Shop near Autodromo",
+            "tip": "Official merchandise for motorsport fans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Imola ist fahrradfreundlich mit vielen flachen Wegen.",
+          "Passen Sie beim Radfahren in der Nähe des Autodroms auf den Verkehr auf.",
+          "Ein Schloss ist für Museumsbesuche unerlässlich."
+        ],
+        "hu": [
+          "Imola kerékpárosbarát város, sok sík úttal.",
+          "Vigyázzon a forgalomra az Autodrom környékén.",
+          "A múzeumlátogatásokhoz elengedhetetlen egy lakat."
+        ],
+        "ro": [
+          "Imola este prietenoasă cu bicicliștii, având multe drumuri plate.",
+          "Aveți grijă la trafic în apropierea Autodromului.",
+          "Un lacăt este esențial pentru vizitele la muzee."
+        ],
+        "en": [
+          "Imola is bike-friendly with many flat paths.",
+          "Watch out for traffic near the Autodromo.",
+          "A lock is essential for museum visits."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rocca Sforzesca (Cluster A)",
+            "hu": "Rocca Sforzesca (A klaszter)",
+            "ro": "Rocca Sforzesca (Cluster A)",
+            "en": "Rocca Sforzesca (Cluster A)"
+          },
+          "coords": [
+            11.7126,
+            44.3538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Parkplatz an der Viale Saffi.",
+            "hu": "Parkoljon a Viale Saffi melletti parkolóban.",
+            "ro": "Parcați în parcarea de pe Viale Saffi.",
+            "en": "Park in the lot near Viale Saffi."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Cassiano",
+            "hu": "San Cassiano székesegyház",
+            "ro": "Catedrala San Cassiano",
+            "en": "Duomo di San Cassiano"
+          },
+          "coords": [
+            11.7103,
+            44.354
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Festung (Cluster-Walking).",
+            "hu": "Rövid séta az erődtől (klaszter-séta).",
+            "ro": "Scurtă plimbare de la cetate (mers pe jos în cluster).",
+            "en": "Short walk from the fortress (cluster walking)."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Tozzoni",
+            "hu": "Palazzo Tozzoni",
+            "ro": "Palatul Tozzoni",
+            "en": "Palazzo Tozzoni"
+          },
+          "coords": [
+            11.7114,
+            44.3531
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein prächtiger Stadtpalast, nur wenige Schritte entfernt.",
+            "hu": "Pompás városi palota, csak pár lépésre.",
+            "ro": "Un palat urban magnific, la doar câțiva pași.",
+            "en": "A magnificent city palace, just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Autodromo Ferrari (Cluster B)",
+            "hu": "Autodromo Ferrari (B klaszter)",
+            "ro": "Autodromo Ferrari (Cluster B)",
+            "en": "Autodromo Ferrari (Cluster B)"
+          },
+          "coords": [
+            11.711,
+            44.341
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Autodrom, Parkplatz am Eingang verfügbar.",
+            "hu": "Autózás az Autodromhoz, parkoló a bejáratnál.",
+            "ro": "Drum spre Autodrom, parcare disponibilă la intrare.",
+            "en": "Drive to the Autodrome, parking available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Acque Minerali",
+            "hu": "Ásványvizek parkja",
+            "ro": "Parcul Acque Minerali",
+            "en": "Mineral Waters Park"
+          },
+          "coords": [
+            11.719,
+            44.3435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Autodrom erreichbar.",
+            "hu": "Gyalogosan elérhető az Autodromtól.",
+            "ro": "Accesibil pe jos de la Autodrom.",
+            "en": "Accessible on foot from the Autodrome."
+          }
+        },
+        {
+          "name": {
+            "de": "Dozza (Ausflug)",
+            "hu": "Dozza (kirándulás)",
+            "ro": "Dozza (excursie)",
+            "en": "Dozza (excursion)"
+          },
+          "coords": [
+            11.628,
+            44.359
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Das Dorf der bemalten Wände, 10 Min. Fahrt.",
+            "hu": "A festett falak faluja, 10 perc autóval.",
+            "ro": "Satul pereților pictați, la 10 minute de mers cu mașina.",
+            "en": "The village of painted walls, 10 min drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Imola in effizienten Clustern. Wir beginnen im Zentrum mit der Festung, der Kathedrale und dem Palazzo Tozzoni – alles in einem kurzen Spaziergang erreichbar. Danach fahren wir zum Autodrom und dem angrenzenden Park. Zum Abschluss des Tages machen wir einen kurzen Abstecher in das nahe gelegene Hügeldorf Dozza, das für seine Wandmalereien bekannt ist.",
+        "hu": "Autóval hatékony klaszterekben fedezhetjük fel Imolát. A központban kezdünk az erőddel, a székesegyházzal és a Palazzo Tozzonival – mindez egy rövid sétával elérhető. Ezután átvezetünk az Autodromhoz és a mellette lévő parkhoz. A nap végén teszünk egy rövid kitérőt a közeli Dozza dombvidéki falujába, amely falfestményeiről híres.",
+        "ro": "Cu mașina explorăm Imola în clustere eficiente. Începem în centru cu cetatea, catedrala și Palatul Tozzoni – toate accesibile printr-o scurtă plimbare. Apoi conducem spre Autodrom și parcul adiacent. La finalul zilei, facem o scurtă incursiune în satul de deal Dozza, situat în apropiere și faimos pentru picturile sale murale.",
+        "en": "By car, explore Imola in efficient clusters. We start in the center with the fortress, the cathedral, and Palazzo Tozzoni – all within a short walking distance. Then we drive to the Autodrom and the adjacent park. To finish the day, we take a short detour to the nearby hilltop village of Dozza, famous for its murals."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ristorante San Domenico",
+            "tip": "Zwei Michelin-Sterne, berühmt für das Ei im Raviolo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ristorante San Domenico",
+            "tip": "Két Michelin-csillag, híres a Raviolo-ban lévő tojásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ristorante San Domenico",
+            "tip": "Două stele Michelin, faimos pentru oul în raviolo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ristorante San Domenico",
+            "tip": "Two Michelin stars, famous for the egg in raviolo."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dozza Hills",
+            "tip": "Wunderschöne Aussicht auf die Weinberge.",
+            "emoji": "🍷"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dozza dombjai",
+            "tip": "Gyönyörű kilátás a szőlőültetvényekre.",
+            "emoji": "🍷"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Dozza",
+            "tip": "Priveliști frumoase asupra podgoriilor.",
+            "emoji": "🍷"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dozza Hills",
+            "tip": "Beautiful views over the vineyards.",
+            "emoji": "🍷"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Enoteca Regionale Emilia Romagna",
+            "tip": "In Dozza, die besten Weine der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Enoteca Regionale Emilia Romagna",
+            "tip": "Dozzában, a régió legjobb borai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Enoteca Regionale Emilia Romagna",
+            "tip": "În Dozza, cele mai bune vinuri din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Enoteca Regionale Emilia Romagna",
+            "tip": "In Dozza, the best wines of the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die ZTL-Zonen (verkehrsberuhigte Zonen) im Zentrum.",
+          "Kostenloses Parken ist oft etwas außerhalb der Stadtmauer möglich.",
+          "Die Fahrt nach Dozza bietet tolle Panoramablicke."
+        ],
+        "hu": [
+          "Ügyeljen a ZTL zónákra (korlátozott forgalmú övezetek) a központban.",
+          "Ingyenes parkolás gyakran a városfalon kívül lehetséges.",
+          "Az út Dozzába remek panorámát kínál."
+        ],
+        "ro": [
+          "Atenție la zonele ZTL (zone cu trafic limitat) din centru.",
+          "Parcarea gratuită este adesea posibilă chiar în afara zidurilor orașului.",
+          "Drumul spre Dozza oferă vederi panoramice deosebite."
+        ],
+        "en": [
+          "Watch out for ZTL zones (restricted traffic) in the center.",
+          "Free parking is often available just outside the city walls.",
+          "The drive to Dozza offers great panoramic views."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazza Matteotti (Cluster A)",
+            "hu": "Piazza Matteotti (A klaszter)",
+            "ro": "Piazza Matteotti (Cluster A)",
+            "en": "Piazza Matteotti (Cluster A)"
+          },
+          "coords": [
+            11.7148,
+            44.3555
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus mit dem Bus in 5 Min. erreichbar.",
+            "hu": "A vasútállomástól busszal 5 perc alatt elérhető.",
+            "ro": "Accesibil de la gară cu autobuzul în 5 minute.",
+            "en": "Accessible from the train station by bus in 5 min."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Apotheke",
+            "hu": "Történelmi Patika",
+            "ro": "Farmacia Istorică",
+            "en": "Historic Pharmacy"
+          },
+          "coords": [
+            11.7145,
+            44.3552
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt an der Piazza (Cluster-Walking).",
+            "hu": "Közvetlenül a téren (klaszter-séta).",
+            "ro": "Chiar în piață (mers pe jos în cluster).",
+            "en": "Right on the square (cluster walking)."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Sforzesca",
+            "hu": "Rocca Sforzesca",
+            "ro": "Rocca Sforzesca",
+            "en": "Rocca Sforzesca"
+          },
+          "coords": [
+            11.7126,
+            44.3538
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang durch die historischen Gassen.",
+            "hu": "Rövid séta a történelmi utcákon keresztül.",
+            "ro": "Scurtă plimbare prin străzile istorice.",
+            "en": "Short walk through the historic streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Autodromo Ferrari (Cluster B)",
+            "hu": "Autodromo Ferrari (B klaszter)",
+            "ro": "Autodromo Ferrari (Cluster B)",
+            "en": "Autodromo Ferrari (Cluster B)"
+          },
+          "coords": [
+            11.711,
+            44.341
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 1 oder 2 vom Zentrum zum Autodrom.",
+            "hu": "1-es vagy 2-es buszjárat a központból az Autodromhoz.",
+            "ro": "Linia de autobuz 1 sau 2 din centru către Autodrom.",
+            "en": "Bus line 1 or 2 from the center to the Autodrome."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco delle Acque Minerali",
+            "hu": "Ásványvizek parkja",
+            "ro": "Parcul Acque Minerali",
+            "en": "Mineral Waters Park"
+          },
+          "coords": [
+            11.719,
+            44.3435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Park vor der Rückfahrt zum Bahnhof.",
+            "hu": "Pihenjen a parkban, mielőtt visszatérne az állomásra.",
+            "ro": "Relaxați-vă în parc înainte de a reveni la gară.",
+            "en": "Relax in the park before returning to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erkunden wir Imola entspannt. Wir beginnen an der Piazza Matteotti im Zentrum, besuchen die historische Apotheke und die Festung. Danach bringt uns ein kurzer Bustransfer zum legendären Autodrom und zum Park der Mineralwässer, wo wir den Nachmittag im Grünen verbringen, bevor wir zum Bahnhof zurückkehren.",
+        "hu": "Tömegközlekedéssel kényelmesen fedezhetjük fel Imolát. A központi Piazza Matteottinál kezdünk, meglátogatjuk a történelmi patikát és az erődöt. Ezután egy rövid buszos utazás visz el a legendás Autodromhoz és az Ásványvizek parkjához, ahol a délutánt a zöldben töltjük, mielőtt visszatérnénk a vasútállomásra.",
+        "ro": "Cu transportul public explorăm Imola relaxați. Începem în Piazza Matteotti din centru, vizităm farmacia istorică și cetatea. Apoi, un scurt transfer cu autobuzul ne duce la legendarul Autodrom și la parcul apelor minerale, unde petrecem după-amiaza în aer liber înainte de a ne întoarce la gară.",
+        "en": "With public transport, explore Imola in a relaxed way. We start at Piazza Matteotti in the center, visit the historic pharmacy and the fortress. Then a short bus ride takes us to the legendary Autodrom and the Mineral Waters Park, where we spend the afternoon in the greenery before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bar del Parco",
+            "tip": "Ein entspannter Ort für ein Sandwich im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bar del Parco",
+            "tip": "Kellemes hely egy szendvicsre a parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bar del Parco",
+            "tip": "Un loc relaxat pentru un sandviș în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bar del Parco",
+            "tip": "A relaxed spot for a sandwich in the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parco Acque Minerali",
+            "tip": "Viele schattige Plätze zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ásványvizek parkja",
+            "tip": "Sok árnyékos hely a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Acque Minerali",
+            "tip": "Multe locuri umbroase pentru odihnă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mineral Waters Park",
+            "tip": "Many shady spots to rest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Boutiquen und Geschäfte im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Butikok és üzletek a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Boutique-uri și magazine în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Mazzini",
+            "tip": "Boutiques and shops in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tickets für den Stadtbus können im Tabakladen (Tabaccheria) gekauft werden.",
+          "Der Bahnhof ist nur 10 Gehminuten von der Piazza Matteotti entfernt.",
+          "Die Busse fahren regelmäßig, aber seltener am Sonntag."
+        ],
+        "hu": [
+          "A városi buszjegyek a dohányboltokban (Tabaccheria) vásárolhatók meg.",
+          "A vasútállomás mindössze 10 perc sétára van a Piazza Matteottitól.",
+          "A buszok rendszeresen járnak, de vasárnap ritkábban."
+        ],
+        "ro": [
+          "Biletele pentru autobuzul urban pot fi cumpărate de la chioșcurile de tutun (Tabaccheria).",
+          "Gara se află la doar 10 minute de mers pe jos de Piazza Matteotti.",
+          "Autobuzele circulă regulat, dar mai rar duminica."
+        ],
+        "en": [
+          "Tickets for the city bus can be bought at tobacco shops (Tabaccheria).",
+          "The train station is only a 10-minute walk from Piazza Matteotti.",
+          "Buses run regularly but less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

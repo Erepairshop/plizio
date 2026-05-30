@@ -1,0 +1,872 @@
+{
+  "city_id": "france-dunkerque-cities-v2",
+  "anchor": {
+    "name": "Dunkerque Centre",
+    "coords": [
+      2.3768,
+      51.0343
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Beffroi de Saint-Éloi",
+          "coords": [
+            2.377,
+            51.0357
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Stadt und den Hafen.",
+            "hu": "Élvezd a panorámát a városra és a kikötőre.",
+            "ro": "Bucurați-vă de panorama asupra orașului și portului.",
+            "en": "Enjoy the panoramic view over the city and the port."
+          }
+        },
+        {
+          "name": "Église Saint-Éloi",
+          "coords": [
+            2.3765,
+            51.0355
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur direkt gegenüber dem Belfried.",
+            "hu": "Csodáld meg a gótikus építészetet közvetlenül a harangtoronnyal szemben.",
+            "ro": "Admirați arhitectura gotică chiar vizavi de turn.",
+            "en": "Admire the Gothic architecture right across from the belfry."
+          }
+        },
+        {
+          "name": "Musée Portuaire",
+          "coords": [
+            2.3715,
+            51.0395
+          ],
+          "category": "museums",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historischen Schiffe, die im Dock liegen.",
+            "hu": "Látogasd meg a dokkban horgonyzó történelmi hajókat.",
+            "ro": "Vizitați navele istorice ancorate în doc.",
+            "en": "Visit the historic ships moored in the dock."
+          }
+        },
+        {
+          "name": "Musée de l'Opération Dynamo",
+          "coords": [
+            2.3845,
+            51.0485
+          ],
+          "category": "museums",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte der Evakuierung von 1940.",
+            "hu": "Merülj el az 1940-es evakuálás történetében.",
+            "ro": "Aflați povestea evacuării din 1940.",
+            "en": "Dive into the history of the 1940 evacuation."
+          }
+        },
+        {
+          "name": "LAAC",
+          "coords": [
+            2.3835,
+            51.0465
+          ],
+          "category": "museums",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den Skulpturengarten rund um das Museum.",
+            "hu": "Sétálj végig a múzeum körüli szoborparkon.",
+            "ro": "Plimbați-vă prin grădina cu sculpturi din jurul muzeului.",
+            "en": "Stroll through the sculpture garden surrounding the museum."
+          }
+        },
+        {
+          "name": "Plage de Malo-les-Bains",
+          "coords": [
+            2.405,
+            51.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Spaziergang an der Promenade.",
+            "hu": "Zárd a napot egy sétával a tengerparti sétányon.",
+            "ro": "Încheiați ziua cu o plimbare pe faleza de la malul mării.",
+            "en": "End the day with a walk along the seafront promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum mit dem Aufstieg auf den UNESCO-geschützten Belfried. Nach einem Besuch im Hafenmuseum spazieren Sie zum Bastion 32, um mehr über die dramatische Operation Dynamo zu erfahren. Der Nachmittag gehört der modernen Kunst im LAAC und dem weiten Sandstrand von Malo-les-Bains, wo Sie den Abend bei Meeresfrüchten ausklingen lassen können.",
+        "hu": "Kezdje a napot a történelmi központban az UNESCO-listás harangtorony megmászásával. A kikötői múzeum után sétáljon el a 32-es bástyához, hogy megismerje a Dynamo-hadművelet drámai történetét. A délután a LAAC modern művészetéé és a Malo-les-Bains tágas homokos strandjáé, ahol a napot friss tengeri ételekkel zárhatja.",
+        "ro": "Începeți ziua în centrul istoric urcând în turnul Beffroi protejat de UNESCO. După o vizită la muzeul portuar, mergeți la Bastionul 32 pentru a învăța despre dramatica Operațiune Dynamo. După-amiaza este dedicată artei moderne la LAAC și plajei întinse din Malo-les-Bains, unde puteți încheia seara cu fructe de mare proaspete.",
+        "en": "Start your day in the historic center by climbing the UNESCO-listed belfry. After visiting the Port Museum, walk to Bastion 32 to learn about the dramatic Operation Dynamo. The afternoon is dedicated to modern art at LAAC and the vast sandy beach of Malo-les-Bains, where you can wrap up the day with fresh seafood by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Frische Miesmuscheln mit Pommes direkt an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Friss feketekagyló sült krumplival közvetlenül a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Midi proaspete cu cartofi prăjiți chiar pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Fresh mussels with fries right on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de sculptures du LAAC",
+            "tip": "Ein ruhiger Ort zwischen moderner Kunst und Dünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "LAAC szoborpark",
+            "tip": "Csendes hely a modern művészet és a dűnék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina de sculpturi LAAC",
+            "tip": "Un loc liniștit între arta modernă și dune.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "LAAC Sculpture Garden",
+            "tip": "A quiet spot between modern art and the dunes.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place Jean Bart",
+            "tip": "Regionale Produkte auf dem Wochenmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Jean Bart",
+            "tip": "Regionális termékek a heti piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Jean Bart",
+            "tip": "Produse regionale la piața săptămânală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Jean Bart",
+            "tip": "Regional products at the weekly market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Dünkirchen ist flach und ideal zum Wandern.",
+          "Der Wind am Strand kann stark sein, nehmen Sie eine Jacke mit."
+        ],
+        "hu": [
+          "Dunkerque lapos, így ideális a gyalogos felfedezéshez.",
+          "A parton erős lehet a szél, vigyen magával kabátot."
+        ],
+        "ro": [
+          "Dunkerque este plat, ideal pentru explorarea pe jos.",
+          "Vântul pe plajă poate fi puternic, luați o jachetă."
+        ],
+        "en": [
+          "Dunkerque is flat and ideal for walking.",
+          "The wind on the beach can be strong, bring a jacket."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Tour du Leughenaer",
+          "coords": [
+            2.3735,
+            51.0385
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der älteste Turm der Stadt, einst ein Leuchtturm.",
+            "hu": "A város legrégebbi tornya, egykor világítótorony volt.",
+            "ro": "Cel mai vechi turn din oraș, fost far.",
+            "en": "The oldest tower in the city, formerly a lighthouse."
+          }
+        },
+        {
+          "name": "Musée Portuaire",
+          "coords": [
+            2.3715,
+            51.0395
+          ],
+          "category": "museums",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher vor dem Haupteingang.",
+            "hu": "Parkold le a bringát biztonságosan a főbejárat előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața intrării principale.",
+            "en": "Park your bike safely in front of the main entrance."
+          }
+        },
+        {
+          "name": "FRAC Grand Large",
+          "coords": [
+            2.3815,
+            51.0475
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in einer spektakulären ehemaligen Werfthalle.",
+            "hu": "Kortárs művészet egy látványos egykori hajógyári csarnokban.",
+            "ro": "Artă contemporană într-o spectaculoasă fostă hală a șantierului naval.",
+            "en": "Contemporary art in a spectacular former shipyard hall."
+          }
+        },
+        {
+          "name": "Musée de l'Opération Dynamo",
+          "coords": [
+            2.3845,
+            51.0485
+          ],
+          "category": "museums",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Direkt am Deich gelegen, perfekt mit dem Fahrrad erreichbar.",
+            "hu": "Közvetlenül a gátnál található, kerékpárral tökéletesen megközelíthető.",
+            "ro": "Situat chiar lângă dig, perfect accesibil cu bicicleta.",
+            "en": "Located right by the dike, perfectly accessible by bike."
+          }
+        },
+        {
+          "name": "LAAC",
+          "coords": [
+            2.3835,
+            51.0465
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kultureller Stopp inmitten einer grünen Oase.",
+            "hu": "Kulturális megálló egy zöld oázis közepén.",
+            "ro": "O oprire culturală în mijlocul unei oaze verzi.",
+            "en": "A cultural stop in the middle of a green oasis."
+          }
+        },
+        {
+          "name": "Plage de Malo-les-Bains",
+          "coords": [
+            2.405,
+            51.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Radeln Sie den kilometerlangen Sandstrand entlang.",
+            "hu": "Bringázz végig a több kilométeres homokos parton.",
+            "ro": "Pedalați de-a lungul plajei cu nisip de câțiva kilometri.",
+            "en": "Cycle along the miles of sandy beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Dünkirchen auf zwei Rädern! Starten Sie am Tour du Leughenaer und erkunden Sie die Hafenbecken. Radeln Sie entlang des Meeres zum beeindruckenden FRAC und dem Dynamo-Museum. Die Tour endet am lebhaften Strand von Malo-les-Bains, wo die Radwege direkt am Meer verlaufen.",
+        "hu": "Fedezze fel Dunkerque-et két keréken! Kezdjen a Tour du Leughenaer-nél, és fedezze fel a kikötői medencéket. Tekerjen a tengerpart mentén a lenyűgöző FRAC-ig és a Dynamo-múzeumig. A túra Malo-les-Bains élénk strandján ér véget, ahol a kerékpárutak közvetlenül a víz mellett haladnak.",
+        "ro": "Descoperiți Dunkerque pe două roți! Începeți la Tour du Leughenaer și explorați bazinele portuare. Pedalați de-a lungul mării până la impresionantul FRAC și muzeul Dynamo. Turul se încheie pe plaja plină de viață din Malo-les-Bains, unde pistele de biciclete trec chiar pe lângă apă.",
+        "en": "Discover Dunkerque on two wheels! Start at the Tour du Leughenaer and explore the port basins. Cycle along the seafront to the impressive FRAC and the Dynamo Museum. The tour ends at the lively beach of Malo-les-Bains, where bike paths run right by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Reinitas",
+            "tip": "Beliebtes Bistro für eine Pause während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Reinitas",
+            "tip": "Népszerű bisztró egy kis szünethez tekerés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Reinitas",
+            "tip": "Un bistro popular pentru o pauză în timpul plimbării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Reinitas",
+            "tip": "Popular bistro for a break during the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Digue de Mer",
+            "tip": "Radeln Sie in den ruhigeren Abschnitten Richtung Osten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengeri gát",
+            "tip": "Tekerj a csendesebb szakaszokon kelet felé.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digue de Mer",
+            "tip": "Pedalați spre est în secțiunile mai liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Digue de Mer",
+            "tip": "Cycle towards the quieter sections to the east.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Malo Markt",
+            "tip": "Dienstags am Place Turenne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malo piac",
+            "tip": "Keddenként a Place Turenne-en."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Malo",
+            "tip": "Marțea în Piața Turenne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Malo Market",
+            "tip": "Tuesdays at Place Turenne."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Vélos en libre-service' der Stadt.",
+          "Die Uferpromenade ist fast vollständig befahrbar."
+        ],
+        "hu": [
+          "Használd a város közösségi kerékpárjait.",
+          "A tengerparti sétány szinte végig kerékpározható."
+        ],
+        "ro": [
+          "Utilizați sistemul de bike-sharing al orașului.",
+          "Promenada de pe malul mării este aproape în întregime practicabilă."
+        ],
+        "en": [
+          "Use the city's self-service bikes.",
+          "The seafront promenade is almost entirely cycleable."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Beffroi de Saint-Éloi",
+          "coords": [
+            2.377,
+            51.0357
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Centre' für einen einfachen Zugang.",
+            "hu": "Parkolj a 'Centre' parkolóházban a könnyű bejutáshoz.",
+            "ro": "Parcați în parcarea 'Centre' pentru acces facil.",
+            "en": "Park in the 'Centre' parking garage for easy access."
+          }
+        },
+        {
+          "name": "Musée Portuaire",
+          "coords": [
+            2.3715,
+            51.0395
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Stadtzentrum zum historischen Hafen.",
+            "hu": "Rövid séta a városközpontból a történelmi kikötőhöz.",
+            "ro": "Scurtă plimbare din centrul orașului către portul istoric.",
+            "en": "Short walk from the city center to the historic harbor."
+          }
+        },
+        {
+          "name": "Musée de l'Opération Dynamo",
+          "coords": [
+            2.3845,
+            51.0485
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor dem Eingang des Museums.",
+            "hu": "Nagy parkoló közvetlenül a múzeum bejárata előtt.",
+            "ro": "Parcare mare chiar în fața intrării în muzeu.",
+            "en": "Large parking lot right in front of the museum entrance."
+          }
+        },
+        {
+          "name": "LAAC",
+          "coords": [
+            2.3835,
+            51.0465
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Kunstjuwel nur wenige Minuten vom Dynamo-Museum entfernt.",
+            "hu": "Látogasd meg ezt a művészeti ékszerdobozt pár percre a Dynamo-múzeumtól.",
+            "ro": "Vizitați această bijuterie artistică la doar câteva minute de muzeul Dynamo.",
+            "en": "Visit this artistic gem just minutes from the Dynamo Museum."
+          }
+        },
+        {
+          "name": "Plage de Malo-les-Bains",
+          "coords": [
+            2.405,
+            51.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in den Seitenstraßen hinter der Promenade.",
+            "hu": "Keress parkolót a sétány mögötti mellékutcákban.",
+            "ro": "Căutați parcare pe străzile laterale din spatele falezei.",
+            "en": "Look for parking in the side streets behind the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster Dünkirchens. Starten Sie im Zentrum (Belfried/Hafen), fahren Sie dann zum historischen Sektor der Bastion 32 und beenden Sie den Tag im Badeort Malo-les-Bains. Diese Route minimiert die Parkplatzsuche durch strategische Cluster-Stopps.",
+        "hu": "Autóval kényelmesen elérheti Dunkerque különböző negyedeit. Kezdjen a központban (Harangtorony/Kikötő), majd hajtson át a Bastion 32 történelmi szektorába, végül zárja a napot Malo-les-Bains üdülőhelyén. Ez az útvonal stratégiai megállókkal minimalizálja a parkolókeresést.",
+        "ro": "Cu mașina puteți ajunge confortabil în diferitele cartiere ale Dunkerque-ului. Începeți în centru (Beffroi/Port), apoi mergeți spre sectorul istoric Bastion 32 și încheiați ziua în stațiunea Malo-les-Bains. Acest traseu minimizează căutarea parcării prin opriri strategice în clustere.",
+        "en": "By car, you can easily reach Dunkerque's different districts. Start in the center (Belfry/Port), then drive to the Bastion 32 historic sector, and end your day in the seaside resort of Malo-les-Bains. This route minimizes parking hassles through strategic cluster stops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Comme Vous Voulez",
+            "tip": "Hervorragendes Restaurant am Malo-Strand mit Meeresblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Comme Vous Voulez",
+            "tip": "Kiváló étterem a Malo-strandon, tengerre néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Comme Vous Voulez",
+            "tip": "Restaurant excelent pe plaja Malo, cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Comme Vous Voulez",
+            "tip": "Excellent restaurant on Malo beach with a sea view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petit-Fort-Philippe",
+            "tip": "Ein kurzer Abstecher (20km) zu diesem malerischen Leuchtturm lohnt sich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petit-Fort-Philippe",
+            "tip": "Egy rövid kitérő (20km) ehhez a festői világítótoronyhoz megéri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petit-Fort-Philippe",
+            "tip": "O scurtă excursie (20 km) până la acest far pitoresc merită efortul.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petit-Fort-Philippe",
+            "tip": "A short detour (20km) to this picturesque lighthouse is worth it.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pôle Marine",
+            "tip": "Einkaufszentrum direkt im Hafenbereich mit großem Parkplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pôle Marine",
+            "tip": "Bevásárlóközpont a kikötőben, nagy parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pôle Marine",
+            "tip": "Centru comercial chiar în zona portului, cu parcare mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pôle Marine",
+            "tip": "Shopping mall right in the port area with a large parking lot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum ist oft kostenpflichtig, aber am Stadtrand gibt es P+R Plätze.",
+          "Die Autobahn A16 bietet einen schnellen Zugang zur Stadt."
+        ],
+        "hu": [
+          "A belvárosi parkolás gyakran fizetős, de a város szélén vannak P+R parkolók.",
+          "Az A16-os autópálya gyors bejutást biztosít a városba."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este adesea cu plată, dar există parcări P+R la periferie.",
+          "Autostrada A16 oferă acces rapid în oraș."
+        ],
+        "en": [
+          "Parking in the city center is often paid, but there are P+R lots on the outskirts.",
+          "The A16 motorway provides fast access to the city."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Beffroi de Saint-Éloi",
+          "coords": [
+            2.377,
+            51.0357
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Alle Busse halten in der Nähe des Rathauses (Hôtel de Ville).",
+            "hu": "Minden busz megáll a városháza (Hôtel de Ville) közelében.",
+            "ro": "Toate autobuzele opresc în apropierea primăriei (Hôtel de Ville).",
+            "en": "All buses stop near the City Hall (Hôtel de Ville)."
+          }
+        },
+        {
+          "name": "Musée Portuaire",
+          "coords": [
+            2.3715,
+            51.0395
+          ],
+          "category": "museums",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Zentrum zum Quai de la Citadelle.",
+            "hu": "Rövid gyalogút a központból a Quai de la Citadelle-ig.",
+            "ro": "Scurtă plimbare din centru până la Quai de la Citadelle.",
+            "en": "Short walk from the center to Quai de la Citadelle."
+          }
+        },
+        {
+          "name": "Musée de l'Opération Dynamo",
+          "coords": [
+            2.3845,
+            51.0485
+          ],
+          "category": "museums",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie C1 oder C2 Richtung Malo.",
+            "hu": "Használd a C1-es vagy C2-es vonalat Malo irányába.",
+            "ro": "Folosiți linia C1 sau C2 în direcția Malo.",
+            "en": "Take line C1 or C2 towards Malo."
+          }
+        },
+        {
+          "name": "LAAC",
+          "coords": [
+            2.3835,
+            51.0465
+          ],
+          "category": "museums",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Haltestelle 'LAAC' befindet sich direkt neben dem Dynamo-Museum.",
+            "hu": "A 'LAAC' megálló közvetlenül a Dynamo-múzeum mellett van.",
+            "ro": "Stația 'LAAC' se află chiar lângă muzeul Dynamo.",
+            "en": "The 'LAAC' stop is located right next to the Dynamo Museum."
+          }
+        },
+        {
+          "name": "Plage de Malo-les-Bains",
+          "coords": [
+            2.405,
+            51.05
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:37",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Malo Plage' aus.",
+            "hu": "Szállj le a 'Malo Plage' megállónál.",
+            "ro": "Coborâți la stația 'Malo Plage'.",
+            "en": "Get off at the 'Malo Plage' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dünkirchen hat das modernste kostenlose Bussystem Frankreichs! Nutzen Sie die leuchtend bunten Busse, um bequem vom Stadtzentrum zum Hafen und weiter zum Strand von Malo zu gelangen. Sie benötigen kein Ticket – steigen Sie einfach ein und entdecken Sie die Stadt stressfrei.",
+        "hu": "Dunkerque rendelkezik Franciaország legmodernebb ingyenes buszhálózatával! Használja a színes buszokat, hogy kényelmesen eljusson a belvárosból a kikötőbe, majd tovább a Malo-strandra. Nincs szükség jegyre – csak szálljon fel, és fedezze fel a várost stresszmentesen.",
+        "ro": "Dunkerque are cel mai modern sistem de transport gratuit din Franța! Folosiți autobuzele colorate pentru a ajunge confortabil din centru în port și apoi la plaja Malo. Nu aveți nevoie de bilet – pur și simplu urcați și descoperiți orașul fără stres.",
+        "en": "Dunkerque boasts France's most modern free bus system! Use the bright, colorful buses to travel comfortably from the city center to the port and on to Malo beach. No ticket needed – just hop on and explore the city stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aux Delices de Malo",
+            "tip": "Beste Eiscreme an der Promenade nach der Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aux Delices de Malo",
+            "tip": "A legjobb fagylalt a sétányon a buszozás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aux Delices de Malo",
+            "tip": "Cea mai bună înghețată de pe faleză după călătoria cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aux Delices de Malo",
+            "tip": "Best ice cream on the promenade after the bus ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Marine",
+            "tip": "Eine grüne Pause direkt am Wasser im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Marine",
+            "tip": "Zöld pihenőhely közvetlenül a vízparton a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de la Marine",
+            "tip": "O pauză verde chiar lângă apă, în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Marine",
+            "tip": "A green break right by the water in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Ville",
+            "tip": "Zahlreiche Geschäfte rund um den Place Jean Bart."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belváros",
+            "tip": "Számos üzlet a Place Jean Bart környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul orașului",
+            "tip": "Numeroase magazine în jurul Pieței Jean Bart."
+          }
+        ],
+        "en": [
+          {
+            "name": "City Center",
+            "tip": "Numerous shops around Place Jean Bart."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Alle DK'Bus Linien sind für jeden kostenlos.",
+          "Die Busse fahren tagsüber alle 10 Minuten auf den Hauptlinien."
+        ],
+        "hu": [
+          "Minden DK'Bus vonal ingyenes mindenki számára.",
+          "Napközben a fővonalakon 10 percenként járnak a buszok."
+        ],
+        "ro": [
+          "Toate liniile DK'Bus sunt gratuite pentru toată lumea.",
+          "Autobuzele circulă la fiecare 10 minute pe liniile principale în timpul zilei."
+        ],
+        "en": [
+          "All DK'Bus lines are free for everyone.",
+          "Buses run every 10 minutes on main lines during the day."
+        ]
+      }
+    }
+  }
+}

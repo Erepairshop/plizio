@@ -1,0 +1,1120 @@
+{
+  "city_id": "rosenheim-extra",
+  "anchor": {
+    "name": "Rosenheim",
+    "coords": [
+      47.85,
+      12.12
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Max-Josefs-Platz",
+            "hu": "Max-Josefs-Platz",
+            "ro": "Max-Josefs-Platz",
+            "en": "Max-Josefs-Platz"
+          },
+          "coords": [
+            12.1265,
+            47.8565
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Bürgerhäuser im Inn-Salzach-Stil.",
+            "hu": "Csodálja meg az Inn-Salzach stílusú polgárházakat.",
+            "ro": "Admirați casele burgheze în stil Inn-Salzach.",
+            "en": "Admire the magnificent Inn-Salzach style townhouses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittertor",
+            "hu": "Mittertor",
+            "ro": "Mittertor",
+            "en": "Mittertor"
+          },
+          "coords": [
+            12.1275,
+            47.856
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das älteste Tor der Stadt, heute Sitz des Städtischen Museums.",
+            "hu": "A város legöregebb kapuja, ma a városi múzeum otthona.",
+            "ro": "Cea mai veche poartă a orașului, azi sediul muzeului local.",
+            "en": "The oldest city gate, now housing the municipal museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós plébániatemplom",
+            "ro": "Biserica Sfântul Nicolae",
+            "en": "St. Nicholas Parish Church"
+          },
+          "coords": [
+            12.1285,
+            47.8562
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der markante Zwiebelturm ist das Wahrzeichen von Rosenheim.",
+            "hu": "A jellegzetes hagyma alakú torony Rosenheim jelképe.",
+            "ro": "Turnul cu bulb de ceapă este simbolul orașului Rosenheim.",
+            "en": "The distinctive onion dome tower is the landmark of Rosenheim."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedergarten",
+            "hu": "Riedergarten",
+            "ro": "Riedergarten",
+            "en": "Riedergarten"
+          },
+          "coords": [
+            12.129,
+            47.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ehemaliger Apothekergarten, ideal für eine kurze Pause.",
+            "hu": "Egykori gyógyszerészkert, ideális egy rövid pihenőre.",
+            "ro": "O fostă grădină farmaceutică, ideală pentru o scurtă pauză.",
+            "en": "A former pharmacist's garden, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Holztechnisches Museum",
+            "hu": "Fatechnikai Múzeum",
+            "ro": "Muzeul Tehnologiei Lemnului",
+            "en": "Wood Technology Museum"
+          },
+          "coords": [
+            12.127,
+            47.8568
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Einzigartiges Museum über die Geschichte der Holzverarbeitung.",
+            "hu": "Egyedülálló múzeum a fafeldolgozás történetéről.",
+            "ro": "Muzeu unic despre istoria prelucrării lemnului.",
+            "en": "Unique museum about the history of wood processing."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokschuppen",
+            "hu": "Lokschuppen kiállítóhely",
+            "ro": "Lokschuppen",
+            "en": "Lokschuppen Exhibition Center"
+          },
+          "coords": [
+            12.1205,
+            47.8505
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein international renommiertes Ausstellungszentrum im alten Lokschuppen.",
+            "hu": "Nemzetközi hírű kiállítóhely az egykori mozdonyfűtőházban.",
+            "ro": "Centru expozițional renumit internațional într-un fost depou.",
+            "en": "An internationally renowned exhibition center in an old engine shed."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinengarten",
+            "hu": "Salinengarten",
+            "ro": "Salinengarten",
+            "en": "Salinengarten"
+          },
+          "coords": [
+            12.122,
+            47.852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erinnert an die Zeit, als Rosenheim eine bedeutende Salzstadt war.",
+            "hu": "Emléket állít az időnek, amikor Rosenheim fontos sóváros volt.",
+            "ro": "Amintește de vremea când Rosenheim era un oraș important al sării.",
+            "en": "Commemorates the time when Rosenheim was an important salt town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am malerischen Max-Josefs-Platz, dem Herzen der Altstadt. Nach einem Besuch der Stadtpfarrkirche schlendern Sie durch den Riedergarten zum Holztechnischen Museum. Der Nachmittag gehört der Kultur im Lokschuppen, bevor Sie den Tag entspannt im Salinengarten ausklingen lassen.",
+        "hu": "A nap a festői Max-Josefs-Platzon indul, az óváros szívében. A plébániatemplom megtekintése után a Riedergartenen át sétálunk a Fatechnikai Múzeumhoz. A délutánt a Lokschuppen kiállításai töltik meg, végül a Salinengartenben pihenhetünk meg.",
+        "ro": "Ziua începe în pitoreasca Max-Josefs-Platz, inima centrului vechi. După o vizită la biserica parohială, vă plimbați prin Riedergarten către Muzeul Lemnului. După-amiaza este dedicată culturii la Lokschuppen, înainte de a încheia ziua relaxat în Salinengarten.",
+        "en": "Your day begins at the picturesque Max-Josefs-Platz, the heart of the old town. After visiting the parish church, stroll through the Riedergarten to the Wood Technology Museum. The afternoon is dedicated to culture at Lokschuppen, before ending the day relaxed in the Salinengarten."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flötzinger Bräustüberl",
+            "tip": "Probieren Sie das lokale Bier und eine bayerische Brotzeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flötzinger Bräustüberl",
+            "tip": "Kóstolja meg a helyi sört és a bajor hidegtálat (Brotzeit)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flötzinger Bräustüberl",
+            "tip": "Încercați berea locală și un platou tradițional bavarez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flötzinger Bräustüberl",
+            "tip": "Try the local beer and a traditional Bavarian snack (Brotzeit)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riedergarten",
+            "tip": "Ein ruhiger Rückzugsort direkt im Zentrum.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riedergarten",
+            "tip": "Csendes menedék közvetlenül a központban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riedergarten",
+            "tip": "O retragere liniștită chiar în centru.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riedergarten",
+            "tip": "A quiet retreat right in the center.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Max-Josefs-Platz",
+            "tip": "Kleine Boutiquen und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Max-Josefs-Platz",
+            "tip": "Kis butikok és regionális specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Max-Josefs-Platz",
+            "tip": "Boutique-uri mici și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Max-Josefs-Platz",
+            "tip": "Small boutiques and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rosenheim ist eine Stadt der kurzen Wege, perfekt zu Fuß erkundbar.",
+          "Achten Sie auf die 'Inn-Salzach'-Architektur mit ihren Scheinfassaden."
+        ],
+        "hu": [
+          "Rosenheim kis távolságok városa, tökéletesen bejárható gyalog.",
+          "Figyelje meg az 'Inn-Salzach' építészetet a jellegzetes álhordozókkal."
+        ],
+        "ro": [
+          "Rosenheim este un oraș al distanțelor scurte, perfect de explorat pe jos.",
+          "Observați arhitectura 'Inn-Salzach' cu fațadele sale specifice."
+        ],
+        "en": [
+          "Rosenheim is a city of short distances, perfectly explorable on foot.",
+          "Look out for the 'Inn-Salzach' architecture with its characteristic false facades."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Max-Josefs-Platz",
+            "hu": "Max-Josefs-Platz",
+            "ro": "Max-Josefs-Platz",
+            "en": "Max-Josefs-Platz"
+          },
+          "coords": [
+            12.1265,
+            47.8565
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Kiindulópont a város szívében.",
+            "ro": "Punct de pornire în inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpfarrkirche St. Nikolaus",
+            "hu": "Szent Miklós templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            12.1285,
+            47.8562
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Wahrzeichen.",
+            "hu": "Rövid megálló a jelképnél.",
+            "ro": "Scurtă oprire la simbolul orașului.",
+            "en": "Short stop at the landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedergarten",
+            "hu": "Riedergarten",
+            "ro": "Riedergarten",
+            "en": "Riedergarten"
+          },
+          "coords": [
+            12.129,
+            47.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Grüne Oase für Radfahrer.",
+            "hu": "Zöld oázis kerékpárosoknak.",
+            "ro": "Oază verde pentru bicicliști.",
+            "en": "Green oasis for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangfallpark",
+            "hu": "Mangfallpark",
+            "ro": "Mangfallpark",
+            "en": "Mangfallpark"
+          },
+          "coords": [
+            12.125,
+            47.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gelände der Landesgartenschau mit viel Platz zum Radeln.",
+            "hu": "A tartományi kertészeti kiállítás helyszíne, sok térrel.",
+            "ro": "Locația expoziției horticole, cu mult spațiu pentru pedalat.",
+            "en": "Site of the state garden show with plenty of space for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinengarten",
+            "hu": "Salinengarten",
+            "ro": "Salinengarten",
+            "en": "Salinengarten"
+          },
+          "coords": [
+            12.122,
+            47.852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Historischer Boden der Salzgewinnung.",
+            "hu": "A sókitermelés történelmi helyszíne.",
+            "ro": "Teren istoric al extracției de sare.",
+            "en": "Historical ground of salt production."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokschuppen",
+            "hu": "Lokschuppen",
+            "ro": "Lokschuppen",
+            "en": "Lokschuppen"
+          },
+          "coords": [
+            12.1205,
+            47.8505
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die aktuelle Sonderausstellung.",
+            "hu": "Látogassa meg az aktuális időszaki kiállítást.",
+            "ro": "Vizitați expoziția temporară actuală.",
+            "en": "Visit the current special exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Holztechnisches Museum",
+            "hu": "Fatechnikai Múzeum",
+            "ro": "Muzeul Lemnului",
+            "en": "Wood Technology Museum"
+          },
+          "coords": [
+            12.127,
+            47.8568
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Interaktive Stationen zum Thema Holz.",
+            "hu": "Interaktív állomások a fa témakörében.",
+            "ro": "Stații interactive pe tema lemnului.",
+            "en": "Interactive stations on the topic of wood."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittertor",
+            "hu": "Mittertor",
+            "ro": "Mittertor",
+            "en": "Mittertor"
+          },
+          "coords": [
+            12.1275,
+            47.856
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss am historischen Stadttor.",
+            "hu": "Zárás a történelmi városkapunál.",
+            "ro": "Final la poarta istorică a orașului.",
+            "en": "Closing at the historical city gate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Rosenheim besonders effizient. Vom Stadtzentrum geht es zum weitläufigen Mangfallpark und zurück über den Salinengarten zum Lokschuppen. Die Tour verbindet Natur an den Flüssen mit der spannenden Technikgeschichte der Stadt.",
+        "hu": "Kerékpárral különösen hatékonyan fedezheti fel Rosenheimet. A belvárosból a tágas Mangfallparkba tekerünk, majd a Salinengartenen át vissza a Lokschuppenhez. A túra ötvözi a folyóparti természetet a város izgalmas technikai múltjával.",
+        "ro": "Cu bicicleta explorați Rosenheim deosebit de eficient. Din centru mergeți către Mangfallpark și înapoi prin Salinengarten la Lokschuppen. Turul combină natura de pe malul râurilor cu istoria tehnică captivantă a orașului.",
+        "en": "Explore Rosenheim particularly efficiently by bike. From the city center, head to the extensive Mangfallpark and back via the Salinengarten to Lokschuppen. The tour combines nature by the rivers with the city's exciting technical history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gasthof Stockhammer",
+            "tip": "Bayerische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gasthof Stockhammer",
+            "tip": "Bajor konyha barátságos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gasthof Stockhammer",
+            "tip": "Bucătărie bavareză într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gasthof Stockhammer",
+            "tip": "Bavarian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mangfallpark",
+            "tip": "Viel Platz am Wasser zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mangfallpark",
+            "tip": "Sok hely a vízparton a kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mangfallpark",
+            "tip": "Mult spațiu lângă apă pentru relaxare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mangfallpark",
+            "tip": "Plenty of space by the water to relax.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Auerbräu Shop",
+            "tip": "Lokale Bierspezialitäten als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auerbräu Shop",
+            "tip": "Helyi sörkülönlegességek ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auerbräu Shop",
+            "tip": "Specialități locale de bere ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auerbräu Shop",
+            "tip": "Local beer specialties as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Mangfall für eine längere Tour.",
+          "Die Stadt ist flach und sehr fahrradfreundlich."
+        ],
+        "hu": [
+          "Használja a Mangfall menti kerékpárutakat egy hosszabb túrához.",
+          "A város sík és nagyon kerékpárosbarát."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul râului Mangfall pentru un tur mai lung.",
+          "Orașul este plat și foarte prietenos cu bicicliștii."
+        ],
+        "en": [
+          "Use the bike paths along the Mangfall for a longer tour.",
+          "The city is flat and very bike-friendly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Max-Josefs-Platz (Parkhaus P1)",
+            "hu": "Max-Josefs-Platz (P1 parkoló)",
+            "ro": "Max-Josefs-Platz (Parcare P1)",
+            "en": "Max-Josefs-Platz (Parking P1)"
+          },
+          "coords": [
+            12.1265,
+            47.8565
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den Platz zu Fuß (Cluster 1).",
+            "hu": "Parkoljon központilag és fedezze fel a teret gyalog (1. klaszter).",
+            "ro": "Parcați central și explorați piața pe jos (Cluster 1).",
+            "en": "Park centrally and explore the square on foot (Cluster 1)."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittertor & St. Nikolaus",
+            "hu": "Mittertor és Szent Miklós templom",
+            "ro": "Mittertor și Sf. Nicolae",
+            "en": "Mittertor & St. Nicholas"
+          },
+          "coords": [
+            12.1275,
+            47.8562
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkhaus erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolóháztól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokschuppen (Parkplatz Loko)",
+            "hu": "Lokschuppen (Loko parkoló)",
+            "ro": "Lokschuppen (Parcare Loko)",
+            "en": "Lokschuppen (Parking Loko)"
+          },
+          "coords": [
+            12.1205,
+            47.8505
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Cluster 2: Kurze Fahrt zum Ausstellungszentrum.",
+            "hu": "2. klaszter: Rövid utazás a kiállítóhelyhez.",
+            "ro": "Cluster 2: Scurtă călătorie către centrul expozițional.",
+            "en": "Cluster 2: Short drive to the exhibition center."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinengarten",
+            "hu": "Salinengarten",
+            "ro": "Salinengarten",
+            "en": "Salinengarten"
+          },
+          "coords": [
+            12.122,
+            47.852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Lokschuppen erreichbar.",
+            "hu": "Gyalogosan elérhető a Lokschuppentől.",
+            "ro": "Accesibil pe jos de la Lokschuppen.",
+            "en": "Accessible on foot from Lokschuppen."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangfallpark Süd (Parkplatz)",
+            "hu": "Déli Mangfallpark (parkoló)",
+            "ro": "Mangfallpark Sud (parcare)",
+            "en": "Mangfallpark South (parking)"
+          },
+          "coords": [
+            12.125,
+            47.848
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Cluster 3: Erholung am Zusammenfluss von Inn und Mangfall.",
+            "hu": "3. klaszter: Kikapcsolódás az Inn és Mangfall összefolyásánál.",
+            "ro": "Cluster 3: Relaxare la confluența râurilor Inn și Mangfall.",
+            "en": "Cluster 3: Relaxation at the confluence of Inn and Mangfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Holztechnisches Museum",
+            "hu": "Fatechnikai Múzeum",
+            "ro": "Muzeul Lemnului",
+            "en": "Wood Technology Museum"
+          },
+          "coords": [
+            12.127,
+            47.8568
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abschluss zurück in der Altstadt.",
+            "hu": "Zárás vissza az óvárosban.",
+            "ro": "Final înapoi în centrul vechi.",
+            "en": "Closing back in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour nutzt drei strategische Parkpunkte, um Rosenheim stressfrei zu entdecken. Wir starten im historischen Zentrum, wechseln dann zum Lokschuppen und Salinengarten, und genießen den Nachmittag im Mangfallpark. So minimieren wir Parkplatzsuche und maximieren die Gehzeit in den schönsten Ecken.",
+        "hu": "Ez az autós túra három stratégiai parkolópontot használ Rosenheim stresszmentes felfedezéséhez. A történelmi központban kezdünk, majd a Lokschuppenhez és a Salinengartenhez hajtunk, a délutánt pedig a Mangfallparkban élvezzük. Így minimalizáljuk a parkolókeresést és maximalizáljuk a sétát a legszebb részeken.",
+        "ro": "Acest tur auto folosește trei puncte strategice de parcare pentru a descoperi Rosenheim fără stres. Începem în centrul istoric, schimbăm apoi către Lokschuppen și Salinengarten, și ne bucurăm de după-amiază în Mangfallpark. Astfel minimizăm căutarea parcării și maximizăm timpul de plimbare în cele mai frumoase zone.",
+        "en": "This car tour uses three strategic parking points to discover Rosenheim stress-free. We start in the historic center, then move to Lokschuppen and Salinengarten, and enjoy the afternoon in Mangfallpark. This way we minimize parking searches and maximize walking time in the most beautiful corners."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Happinger Hof",
+            "tip": "Etwas außerhalb, aber sehr beliebt für bayerische Schmankerl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Happinger Hof",
+            "tip": "Kicsit kijjebb esik, de nagyon népszerű bajor finomságai miatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Happinger Hof",
+            "tip": "Puțin în afara centrului, dar foarte popular pentru delicii bavareze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Happinger Hof",
+            "tip": "A bit outside, but very popular for Bavarian delicacies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innlände",
+            "tip": "Ruhiger Spaziergang direkt am Inn-Ufer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Innlände",
+            "tip": "Csendes séta közvetlenül az Inn partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Innlände",
+            "tip": "Plimbare liniștită direct pe malul râului Inn.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Innlände",
+            "tip": "Quiet walk directly on the banks of the Inn.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "City-Center Rosenheim",
+            "tip": "Modernes Einkaufszentrum mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "City-Center Rosenheim",
+            "tip": "Modern bevásárlóközpont sok parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "City-Center Rosenheim",
+            "tip": "Centru comercial modern cu multe locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "City-Center Rosenheim",
+            "tip": "Modern shopping center with plenty of parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem, um freie Plätze in den Parkhäusern zu finden.",
+          "Die P1 bis P4 Parkhäuser liegen ideal um die Altstadt."
+        ],
+        "hu": [
+          "Használja a parkolási irányítórendszert a szabad helyek megtalálásához.",
+          "A P1-től P4-ig terjedő parkolóházak ideálisan helyezkednek el az óváros körül."
+        ],
+        "ro": [
+          "Folosiți sistemul de ghidare a parcării pentru a găsi locuri libere în parcări.",
+          "Parcările P1 până la P4 sunt situate ideal în jurul centrului vechi."
+        ],
+        "en": [
+          "Use the parking guidance system to find free spaces in the parking garages.",
+          "The P1 to P4 parking garages are ideally located around the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Rosenheim (Cluster 1)",
+            "hu": "Rosenheim vasútállomás (1. klaszter)",
+            "ro": "Gara Rosenheim (Cluster 1)",
+            "en": "Rosenheim Station (Cluster 1)"
+          },
+          "coords": [
+            12.12,
+            47.85
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokschuppen",
+            "hu": "Lokschuppen",
+            "ro": "Lokschuppen",
+            "en": "Lokschuppen"
+          },
+          "coords": [
+            12.1205,
+            47.8505
+          ],
+          "category": "museums",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bahnhof entfernt.",
+            "hu": "Csak pár perc séta az állomástól.",
+            "ro": "La doar câteva minute de mers pe jos de gară.",
+            "en": "Just a few minutes' walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinengarten",
+            "hu": "Salinengarten",
+            "ro": "Salinengarten",
+            "en": "Salinengarten"
+          },
+          "coords": [
+            12.122,
+            47.852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Grüner Weg Richtung Innenstadt.",
+            "hu": "Zöld út a belváros felé.",
+            "ro": "Cale verde către centrul orașului.",
+            "en": "Green path towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Max-Josefs-Platz (Cluster 2)",
+            "hu": "Max-Josefs-Platz (2. klaszter)",
+            "ro": "Max-Josefs-Platz (Cluster 2)",
+            "en": "Max-Josefs-Platz (Cluster 2)"
+          },
+          "coords": [
+            12.1265,
+            47.8565
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt mit dem Stadtbus zur Haltestelle Stadtmitte.",
+            "hu": "Utazás helyi busszal a Stadtmitte megállóig.",
+            "ro": "Călătorie cu autobuzul local până la stația Stadtmitte.",
+            "en": "Take the city bus to the Stadtmitte stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittertor & St. Nikolaus",
+            "hu": "Mittertor és Szent Miklós templom",
+            "ro": "Mittertor și Sf. Nicolae",
+            "en": "Mittertor & St. Nicholas"
+          },
+          "coords": [
+            12.1275,
+            47.8562
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ganz in der Nähe der Bushaltestelle.",
+            "hu": "Nagyon közel a buszmegállóhoz.",
+            "ro": "Foarte aproape de stația de autobuz.",
+            "en": "Very close to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Riedergarten",
+            "hu": "Riedergarten",
+            "ro": "Riedergarten",
+            "en": "Riedergarten"
+          },
+          "coords": [
+            12.129,
+            47.8575
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannung im Herzen der Stadt.",
+            "hu": "Kikapcsolódás a város szívében.",
+            "ro": "Relaxare în inima orașului.",
+            "en": "Relaxation in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangfallpark (Nord)",
+            "hu": "Északi Mangfallpark",
+            "ro": "Mangfallpark (Nord)",
+            "en": "Mangfallpark (North)"
+          },
+          "coords": [
+            12.127,
+            47.85
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück Richtung Bahnhofsnähe (Cluster 3).",
+            "hu": "Busszal vissza az állomás közelébe (3. klaszter).",
+            "ro": "Cu autobuzul înapoi spre zona gării (Cluster 3).",
+            "en": "By bus back towards the station area (Cluster 3)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des effizienten Stadtbussystems erreichen Sie alle Sehenswürdigkeiten problemlos ohne Auto. Wir starten am Bahnhof mit dem Lokschuppen, fahren dann ins Herz der Altstadt zum Max-Josefs-Platz und beschließen den Tag im grünen Mangfallpark, von wo aus es nur ein Katzensprung zurück zum Zug ist.",
+        "hu": "A hatékony helyi buszhálózatnak köszönhetően autó nélkül is könnyen elérhet minden látnivalót. Az állomásnál kezdünk a Lokschuppennel, majd az óváros szívébe, a Max-Josefs-Platzra utazunk, végül a zöld Mangfallparkban zárjuk a napot, ahonnan csak egy ugrás a vonat.",
+        "ro": "Datorită sistemului eficient de autobuze locale, ajungeți la toate atracțiile fără probleme și fără mașină. Începem la gară cu Lokschuppen, mergem apoi în inima centrului vechi la Max-Josefs-Platz și încheiem ziua în Mangfallpark, de unde este doar un pas înapoi la tren.",
+        "en": "Thanks to the efficient city bus system, you can easily reach all the sights without a car. We start at the station with Lokschuppen, then travel to the heart of the old town at Max-Josefs-Platz, and end the day in the green Mangfallpark, from where it's just a stone's throw back to the train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bergmeister",
+            "tip": "Bekannt für hervorragendes Gebäck und Konditoreiwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bergmeister",
+            "tip": "Kiváló süteményeiről és cukrászdájáról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bergmeister",
+            "tip": "Cunoscut pentru produse de patiserie și cofetărie excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bergmeister",
+            "tip": "Known for excellent pastries and confectionery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Salinengarten",
+            "tip": "Ruhiges Plätzchen zwischen Bahnhof und Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salinengarten",
+            "tip": "Csendes hely az állomás és a központ között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salinengarten",
+            "tip": "Loc liniștit între gară și centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salinengarten",
+            "tip": "Quiet spot between the station and center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Einkaufsstraße, die den Bahnhof mit der Altstadt verbindet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Bevásárlóutca, amely az állomást köti össze az óvárossal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Stradă comercială care leagă gara de centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Shopping street connecting the station with the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Tagesticket für den Stadtbus lohnt sich schon ab drei Fahrten.",
+          "Die Busse fahren im Takt und sind sehr pünktlich."
+        ],
+        "hu": [
+          "A napi buszjegy már három utazástól megéri.",
+          "A buszok ütemesen és nagyon pontosan közlekednek."
+        ],
+        "ro": [
+          "Un bilet de o zi pentru autobuz merită deja de la trei călătorii.",
+          "Autobuzele circulă regulat și sunt foarte punctuale."
+        ],
+        "en": [
+          "A day ticket for the city bus is worth it starting from three trips.",
+          "Buses run at regular intervals and are very punctual."
+        ]
+      }
+    }
+  }
+}

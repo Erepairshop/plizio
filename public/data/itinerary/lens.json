@@ -1,0 +1,906 @@
+{
+  "city_id": "lens",
+  "anchor": {
+    "name": "Lens",
+    "coords": [
+      2.826,
+      50.433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place Jean Jaurès",
+          "coords": [
+            2.831,
+            50.43
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus im Art-déco-Stil am Platz.",
+            "hu": "Csodáld meg a városháza Art Deco stílusát a téren.",
+            "ro": "Admirați primăria în stil Art Deco din piață.",
+            "en": "Admire the Art Deco style of the town hall on the square."
+          }
+        },
+        {
+          "name": "Église Saint-Léger",
+          "coords": [
+            2.829,
+            50.431
+          ],
+          "category": "churches",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehenswert sind die Glasmalereien im Inneren.",
+            "hu": "Érdemes megnézni a belső ólomüveg ablakokat.",
+            "ro": "Merită văzute vitraliile din interior.",
+            "en": "The stained glass windows inside are worth seeing."
+          }
+        },
+        {
+          "name": "Gare de Lens",
+          "coords": [
+            2.826,
+            50.426
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Gebäude ähnelt einer Dampflokomotive.",
+            "hu": "Az épület egy gőzmozdonyt formáz.",
+            "ro": "Clădirea seamănă cu o locomotivă cu abur.",
+            "en": "The building resembles a steam locomotive."
+          }
+        },
+        {
+          "name": "Monument aux morts",
+          "coords": [
+            2.823,
+            50.428
+          ],
+          "category": "monuments",
+          "arrive_at": "11:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein emotionales Denkmal für die Bergleute des Krieges.",
+            "hu": "Érzelmes emlékmű a háború bányászainak.",
+            "ro": "Un monument emoționant pentru minerii din război.",
+            "en": "An emotional monument to the miners of the war."
+          }
+        },
+        {
+          "name": "Louvre-Lens",
+          "coords": [
+            2.814,
+            50.432
+          ],
+          "category": "museums",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Galerie der Zeit.",
+            "hu": "Látogasd meg az Idő Galériáját.",
+            "ro": "Vizitați Galeria Timpului.",
+            "en": "Visit the Gallery of Time."
+          }
+        },
+        {
+          "name": "Stade Bollaert-Delelis",
+          "coords": [
+            2.818,
+            50.435
+          ],
+          "category": "cultural centres",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Kathedrale des Fußballs in Nordfrankreich.",
+            "hu": "Észak-Franciaország futballkatedrálisa.",
+            "ro": "Catedrala fotbalului din nordul Franței.",
+            "en": "The cathedral of football in Northern France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das Herz von Lens zu Fuß. Wir beginnen am zentralen Jean-Jaurès-Platz, bevor wir die historische Saint-Léger-Kirche besichtigen. Der Bahnhof beeindruckt durch seine einzigartige Architektur. Den Vormittag verbringen wir in der beeindruckenden Galerie des Louvre-Lens. Zum Abschluss blicken wir auf das legendäre Stadion Bollaert, das Wahrzeichen der Stadtidentität.",
+        "hu": "Fedezze fel Lens szívét gyalogosan. A központi Place Jean Jaurès-nél kezdünk, majd megtekintjük a történelmi Saint-Léger templomot. A vasútállomás egyedülálló építészetével nyűgöz le. A délelőttöt a Louvre-Lens lenyűgöző galériájában töltjük. Végül megtekintjük a legendás Bollaert stadiont, amely a város identitásának jelképe.",
+        "ro": "Descoperiți inima orașului Lens la pas. Începem în centrul Place Jean Jaurès, înainte de a vizita biserica istorică Saint-Léger. Gara impresionează prin arhitectura sa unică. Petrecem dimineața în galeria impresionantă a Louvre-Lens. La final, privim legendarul stadion Bollaert, simbolul identității orașului.",
+        "en": "Discover the heart of Lens on foot. We start at the central Place Jean Jaurès before visiting the historic Saint-Léger church. The railway station impresses with its unique architecture. We spend the morning in the impressive gallery of the Louvre-Lens. Finally, we look at the legendary Bollaert stadium, the symbol of the city's identity."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Atelier de Marc Meurin",
+            "tip": "Gourmet-Küche direkt am Louvre-Lens."
+          },
+          {
+            "name": "Le Pain de la Bouche",
+            "tip": "Probieren Sie den 'Welsh', eine lokale Käsespezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Atelier de Marc Meurin",
+            "tip": "Gourmet konyha közvetlenül a Louvre-Lens mellett."
+          },
+          {
+            "name": "Le Pain de la Bouche",
+            "tip": "Kóstolja meg a 'Welsh'-t, a helyi sajtos különlegességet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Atelier de Marc Meurin",
+            "tip": "Bucătărie gourmet chiar lângă Louvre-Lens."
+          },
+          {
+            "name": "Le Pain de la Bouche",
+            "tip": "Încercați 'Welsh', o specialitate locală cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Atelier de Marc Meurin",
+            "tip": "Gourmet cuisine right next to the Louvre-Lens."
+          },
+          {
+            "name": "Le Pain de la Bouche",
+            "tip": "Try the 'Welsh', a local cheese specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Louvre-Lens",
+            "tip": "Ein weitläufiger Park auf ehemaligem Bergbaugelände.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc du Louvre-Lens",
+            "tip": "Hatalmas park az egykori bányaterületen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc du Louvre-Lens",
+            "tip": "Un parc vast pe fostul teren minier.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc du Louvre-Lens",
+            "tip": "A vast park on former mining land.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Pavé de Lens",
+            "tip": "Kaufen Sie diese Schokoladen-Spezialität als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Pavé de Lens",
+            "tip": "Vásárolja ezt a csokoládé különlegességet ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Pavé de Lens",
+            "tip": "Cumpărați această specialitate de ciocolată ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Pavé de Lens",
+            "tip": "Buy this chocolate specialty as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Park am Louvre.",
+          "Die meisten Sehenswürdigkeiten liegen nah beieinander."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Louvre parkjához.",
+          "A legtöbb látnivaló közel van egymáshoz."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru parcul de la Louvre.",
+          "Majoritatea obiectivelor sunt aproape unele de altele."
+        ],
+        "en": [
+          "Wear comfortable shoes for the park at the Louvre.",
+          "Most sights are close to each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Lens",
+          "coords": [
+            2.826,
+            50.426
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit toller Art-déco-Fassade.",
+            "hu": "Kiindulópont nagyszerű Art Deco homlokzattal.",
+            "ro": "Punct de plecare cu o fațadă Art Deco superbă.",
+            "en": "Starting point with a great Art Deco facade."
+          }
+        },
+        {
+          "name": "Stade Bollaert-Delelis",
+          "coords": [
+            2.818,
+            50.435
+          ],
+          "category": "cultural centres",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie einmal um das Stadion herum.",
+            "hu": "Kerülje meg egyszer a stadiont.",
+            "ro": "Ocoliți stadionul o dată.",
+            "en": "Ride around the stadium once."
+          }
+        },
+        {
+          "name": "Louvre-Lens",
+          "coords": [
+            2.814,
+            50.432
+          ],
+          "category": "museums",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Es gibt sichere Fahrradabstellplätze.",
+            "hu": "Biztonságos kerékpártárolók állnak rendelkezésre.",
+            "ro": "Există locuri sigure de parcare pentru biciclete.",
+            "en": "There are secure bicycle parking spaces."
+          }
+        },
+        {
+          "name": "Base 11/19",
+          "coords": [
+            2.782,
+            50.443
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die höchsten Halden Europas.",
+            "hu": "Másszon fel Európa legmagasabb meddőhányóira.",
+            "ro": "Urcați pe cele mai înalte halde din Europa.",
+            "en": "Climb the highest slag heaps in Europe."
+          }
+        },
+        {
+          "name": "Place Jean Jaurès",
+          "coords": [
+            2.831,
+            50.43
+          ],
+          "category": "squares",
+          "arrive_at": "14:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Getränk nach der Tour.",
+            "hu": "Élvezzen egy italt a túra után.",
+            "ro": "Savurați o băutură după tur.",
+            "en": "Enjoy a drink after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die Bergbaugeschichte von Lens. Wir starten am Bahnhof und fahren am Stadion vorbei zum Louvre-Lens. Das Highlight ist die Base 11/19 mit ihren riesigen Halden, die eine tolle Aussicht bieten. Die Tour endet gemütlich im Stadtzentrum auf dem Jean-Jaurès-Platz.",
+        "hu": "Kerékpárral fedezzük fel Lens bányászati múltját. Az állomástól indulunk, a stadion mellett elhaladva a Louvre-Lens-hez. A fénypont a Base 11/19 óriási meddőhányóival, amelyek nagyszerű kilátást nyújtanak. A túra kellemesen ér véget a városközpontban, a Jean Jaurès téren.",
+        "ro": "Explorăm istoria minieră a orașului Lens cu bicicleta. Plecăm de la gară, trecem pe lângă stadion către Louvre-Lens. Punctul culminant este Base 11/19 cu haldele sale uriașe, care oferă o priveliște minunată. Turul se încheie relaxat în centrul orașului, în Place Jean Jaurès.",
+        "en": "By bike, we explore the mining history of Lens. We start at the station, passing the stadium to the Louvre-Lens. The highlight is Base 11/19 with its giant slag heaps, which offer a great view. The tour ends comfortably in the city center on Place Jean Jaurès."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Galibot",
+            "tip": "Traditionelle Gerichte in Bergbau-Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Galibot",
+            "tip": "Hagyományos ételek bányászati hangulatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Galibot",
+            "tip": "Mâncăruri tradiționale într-o atmosferă minieră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Galibot",
+            "tip": "Traditional dishes in a mining atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sommet des terrils (Base 11/19)",
+            "tip": "Panoramablick über das Becken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sommet des terrils (Base 11/19)",
+            "tip": "Panorámás kilátás a medencére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sommet des terrils (Base 11/19)",
+            "tip": "Vedere panoramică asupra bazinului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sommet des terrils (Base 11/19)",
+            "tip": "Panoramic view over the basin.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Louvre-Lens",
+            "tip": "Kunstbücher und exklusive Objekte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du Louvre-Lens",
+            "tip": "Művészeti könyvek és exkluzív tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Louvre-Lens",
+            "tip": "Cărți de artă și obiecte exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du Louvre-Lens",
+            "tip": "Art books and exclusive objects."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege zu den Halden können steil sein.",
+          "Nutzen Sie die markierten Radwege im Park."
+        ],
+        "hu": [
+          "A meddőhányókhoz vezető utak meredekek lehetnek.",
+          "Használja a kijelölt kerékpárutakat a parkban."
+        ],
+        "ro": [
+          "Drumurile către halde pot fi abrupte.",
+          "Folosiți pistele de biciclete marcate în parc."
+        ],
+        "en": [
+          "The paths to the slag heaps can be steep.",
+          "Use the marked cycle paths in the park."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Jean Jaurès",
+          "coords": [
+            2.831,
+            50.43
+          ],
+          "category": "squares",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus im Zentrum.",
+            "hu": "Parkoljon a központi parkolóházban.",
+            "ro": "Parcați în parcarea din centru.",
+            "en": "Park in the parking garage in the center."
+          }
+        },
+        {
+          "name": "Église Saint-Léger",
+          "coords": [
+            2.829,
+            50.431
+          ],
+          "category": "churches",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Platz aus.",
+            "hu": "Rövid séta a térről.",
+            "ro": "Scurtă plimbare din piață.",
+            "en": "Short walk from the square."
+          }
+        },
+        {
+          "name": "Gare de Lens",
+          "coords": [
+            2.826,
+            50.426
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige Art-déco-Architektur.",
+            "hu": "Egyedülálló Art Deco építészet.",
+            "ro": "Arhitectură Art Deco unică.",
+            "en": "Unique Art Deco architecture."
+          }
+        },
+        {
+          "name": "Louvre-Lens",
+          "coords": [
+            2.814,
+            50.432
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz vorhanden.",
+            "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
+            "ro": "Parcare mare gratuită disponibilă.",
+            "en": "Large free parking available."
+          }
+        },
+        {
+          "name": "Stade Bollaert-Delelis",
+          "coords": [
+            2.818,
+            50.435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Fanshop des RC Lens.",
+            "hu": "Látogasson el az RC Lens szurkolói boltjába.",
+            "ro": "Vizitați magazinul pentru fani al RC Lens.",
+            "en": "Visit the RC Lens fan shop."
+          }
+        },
+        {
+          "name": "Base 11/19",
+          "coords": [
+            2.782,
+            50.443
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Das UNESCO-Welterbe der Bergbauregion.",
+            "hu": "A bányavidék UNESCO világörökségi helyszíne.",
+            "ro": "Sit UNESCO din regiunea minieră.",
+            "en": "UNESCO World Heritage site of the mining region."
+          }
+        },
+        {
+          "name": "Maison syndicale des mineurs",
+          "coords": [
+            2.825,
+            50.433
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Zentrum der Bergbaugeschichte.",
+            "hu": "A bányászati történelem központja.",
+            "ro": "Centrul istoriei miniere.",
+            "en": "Center of mining history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert das Stadtzentrum von Lens mit den wichtigsten Industrie-Highlights. Nach einem Besuch im Art-déco-Zentrum fahren wir zum Louvre-Lens und zum berühmten Bollaert-Stadion. Den Nachmittag verbringen wir an der Base 11/19, wo die höchsten Abraumhalden Europas einen weiten Blick über die Region bieten.",
+        "hu": "Ez az autós túra ötvözi Lens városközpontját a legfontosabb ipari látnivalókkal. Az Art Deco központ meglátogatása után a Louvre-Lens-hez és a híres Bollaert stadionhoz hajtunk. A délutánt a Base 11/19-nél töltjük, ahol Európa legmagasabb meddőhányói nyújtanak széles kilátást a régióra.",
+        "ro": "Acest tur cu mașina combină centrul orașului Lens cu cele mai importante obiective industriale. După o vizită în centrul Art Deco, mergem la Louvre-Lens și la faimosul stadion Bollaert. Petrecem după-amiaza la Base 11/19, unde cele mai înalte halde din Europa oferă o vedere panoramică asupra regiunii.",
+        "en": "This car tour combines Lens city center with the most important industrial highlights. After a visit to the Art Deco center, we drive to the Louvre-Lens and the famous Bollaert stadium. We spend the afternoon at Base 11/19, where the highest slag heaps in Europe offer a wide view over the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Loco",
+            "tip": "Restaurant direkt gegenüber dem Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Loco",
+            "tip": "Étterem közvetlenül a vasútállomással szemben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Loco",
+            "tip": "Restaurant direct vizavi de gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Loco",
+            "tip": "Restaurant right opposite the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Base 11/19 Halden",
+            "tip": "Ruhe und Weite über der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Base 11/19 meddőhányók",
+            "tip": "Csend és tágasság a város felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Base 11/19 halde",
+            "tip": "Liniște și spațiu deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Base 11/19 heaps",
+            "tip": "Quiet and vastness over the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "RC Lens Shop",
+            "tip": "Trikots und Fanartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "RC Lens Shop",
+            "tip": "Mezek és szurkolói cikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "RC Lens Shop",
+            "tip": "Tricouri și articole pentru fani."
+          }
+        ],
+        "en": [
+          {
+            "name": "RC Lens Shop",
+            "tip": "Jerseys and fan articles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "An Spieltagen ist das Parken am Stadion schwierig.",
+          "Die Base 11/19 ist nur 10 Autominuten vom Zentrum entfernt."
+        ],
+        "hu": [
+          "Meccsnapokon nehéz a parkolás a stadionnál.",
+          "A Base 11/19 mindössze 10 perc autóval a központtól."
+        ],
+        "ro": [
+          "În zilele de meci, parcarea la stadion este dificilă.",
+          "Base 11/19 este la doar 10 minute cu mașina de centru."
+        ],
+        "en": [
+          "On match days, parking at the stadium is difficult.",
+          "Base 11/19 is only a 10-minute drive from the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Lens",
+          "coords": [
+            2.826,
+            50.426
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Verkehrsknotenpunkt.",
+            "hu": "Központi közlekedési csomópont.",
+            "ro": "Nod central de transport.",
+            "en": "Central transport hub."
+          }
+        },
+        {
+          "name": "Place Jean Jaurès",
+          "coords": [
+            2.831,
+            50.43
+          ],
+          "category": "squares",
+          "arrive_at": "09:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Az állomástól könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": "Louvre-Lens",
+          "coords": [
+            2.814,
+            50.432
+          ],
+          "category": "museums",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kostenlosen Shuttlebus 'Bulle'.",
+            "hu": "Használja az ingyenes 'Bulle' ingajáratot.",
+            "ro": "Folosiți autobuzul gratuit 'Bulle'.",
+            "en": "Use the free 'Bulle' shuttle bus."
+          }
+        },
+        {
+          "name": "Stade Bollaert-Delelis",
+          "coords": [
+            2.818,
+            50.435
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nahe am Louvre-Lens gelegen.",
+            "hu": "A Louvre-Lens közelében található.",
+            "ro": "Situat aproape de Louvre-Lens.",
+            "en": "Located near the Louvre-Lens."
+          }
+        },
+        {
+          "name": "Base 11/19",
+          "coords": [
+            2.782,
+            50.443
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit dem Bus (Linie 11).",
+            "hu": "Busszal elérhető (11-es vonal).",
+            "ro": "Accesibil cu autobuzul (linia 11).",
+            "en": "Accessible by bus (line 11)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Lens lässt sich hervorragend mit dem öffentlichen Nahverkehr entdecken. Wir starten am Bahnhof und erkunden das Stadtzentrum. Der kostenlose Shuttle bringt Sie direkt zum Louvre-Lens. Zum Abschluss fahren wir mit dem Bus zur Base 11/19, um das industrielle Erbe hautnah zu erleben.",
+        "hu": "Lens kiválóan felfedezhető tömegközlekedéssel. Az állomástól indulunk, és felfedezzük a városközpontot. Az ingyenes ingajárat közvetlenül a Louvre-Lens-hez viszi. Végül busszal utazunk a Base 11/19-hez, hogy testközelből tapasztaljuk meg az ipari örökséget.",
+        "ro": "Lens poate fi descoperit excelent cu transportul public. Începem de la gară și explorăm centrul orașului. Naveta gratuită vă duce direct la Louvre-Lens. La final, mergem cu autobuzul la Base 11/19 pentru a experimenta moștenirea industrială îndeaproape.",
+        "en": "Lens is excellent to discover by public transport. We start at the station and explore the city center. The free shuttle takes you directly to the Louvre-Lens. Finally, we take the bus to Base 11/19 to experience the industrial heritage firsthand."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Al'Fosse 7",
+            "tip": "Typische Brasserie-Gerichte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Al'Fosse 7",
+            "tip": "A régió jellegzetes brasserie ételei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Al'Fosse 7",
+            "tip": "Mâncăruri tipice de braserie din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Al'Fosse 7",
+            "tip": "Typical brasserie dishes of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Louvre-Lens",
+            "tip": "Moderne Landschaftsarchitektur zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Louvre-Lens kertje",
+            "tip": "Modern tájépítészet a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Louvre-Lens",
+            "tip": "Arhitectură peisajeră modernă pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Louvre-Lens Garden",
+            "tip": "Modern landscape architecture for relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Lens",
+            "tip": "Dienstags und Freitags lokaler Markt am Place Salengro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché de Lens",
+            "tip": "Kedd és péntek helyi piac a Place Salengro-n."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché de Lens",
+            "tip": "Piață locală marțea și vinerea în Place Salengro."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché de Lens",
+            "tip": "Local market on Tuesdays and Fridays at Place Salengro."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrpläne der Busse vorab.",
+          "Das 'Tadao' Netzwerk verbindet alle Bergbaustätten."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendeket.",
+          "A 'Tadao' hálózat összeköti az összes bányászati helyszínt."
+        ],
+        "ro": [
+          "Verificați orarele autobuzelor în prealabil.",
+          "Rețeaua 'Tadao' conectează toate siturile miniere."
+        ],
+        "en": [
+          "Check the bus schedules in advance.",
+          "The 'Tadao' network connects all mining sites."
+        ]
+      }
+    }
+  }
+}

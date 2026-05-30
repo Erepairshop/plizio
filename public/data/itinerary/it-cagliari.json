@@ -1,0 +1,996 @@
+{
+  "city_id": "it-cagliari",
+  "anchor": {
+    "name": "Cagliari",
+    "coords": [
+      9.114,
+      39.216
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Quartiere Castello",
+          "coords": [
+            9.117,
+            39.218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die engen mittelalterlichen Gassen.",
+            "hu": "Sétáljon végig a szűk középkori utcákon.",
+            "ro": "Plimbați-vă pe străzile medievale înguste.",
+            "en": "Stroll through the narrow medieval streets."
+          }
+        },
+        {
+          "name": "Torre dell'Elefante",
+          "coords": [
+            9.115,
+            39.218
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie die kleine Elefantenstatue an der Wand.",
+            "hu": "Keresse meg a falon lévő kis elefántszobrot.",
+            "ro": "Căutați mica statuie de elefant de pe perete.",
+            "en": "Look for the small elephant statue on the wall."
+          }
+        },
+        {
+          "name": "Cattedrale di Santa Maria",
+          "coords": [
+            9.117,
+            39.219
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta der Märtyrer unter dem Altar.",
+            "hu": "Látogassa meg a mártírok kriptáját az oltár alatt.",
+            "ro": "Vizitați cripta martirilor de sub altar.",
+            "en": "Visit the crypt of the martyrs beneath the altar."
+          }
+        },
+        {
+          "name": "Museo Archeologico Nazionale",
+          "coords": [
+            9.117,
+            39.223
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentalen Giganten vom Monte Prama.",
+            "hu": "Csodálja meg a Monte Prama monumentális óriásait.",
+            "ro": "Admirați giganții monumentali de la Monte Prama.",
+            "en": "Admire the monumental Giants of Monte Prama."
+          }
+        },
+        {
+          "name": "Bastione di Saint Remy",
+          "coords": [
+            9.117,
+            39.216
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt und den Hafen.",
+            "hu": "Élvezze a panorámát a városra és a kikötőre.",
+            "ro": "Bucurați-vă de panorama asupra orașului și portului.",
+            "en": "Enjoy the panoramic view over the city and the harbor."
+          }
+        },
+        {
+          "name": "Orto Botanico",
+          "coords": [
+            9.11,
+            39.221
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die riesigen Ficus-Bäume und römischen Ruinen.",
+            "hu": "Fedezze fel az óriási fikuszfákat és római romokat.",
+            "ro": "Descoperiți ficușii giganți și ruinele romane.",
+            "en": "Discover the giant ficus trees and Roman ruins."
+          }
+        },
+        {
+          "name": "Anfiteatro Romano",
+          "coords": [
+            9.112,
+            39.222
+          ],
+          "category": "landmark",
+          "arrive_at": "17:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das direkt in den Fels gehauene Theater.",
+            "hu": "Csodálja meg a közvetlenül a sziklába vájt színházat.",
+            "ro": "Admirați teatrul săpat direct în stâncă.",
+            "en": "Marvel at the theater carved directly into the rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Castello-Viertel, dem Herz von Cagliari. Vormittags erkunden Sie die Kathedrale und das Archäologische Museum mit seinen prähistorischen Schätzen. Mittags genießen Sie die Aussicht vom Bastione di Saint Remy. Der Nachmittag gehört der Natur im Botanischen Garten und der antiken Geschichte im Römischen Amphitheater.",
+        "hu": "Kezdje a napot a történelmi Castello negyedben, Cagliari szívében. Délelőtt fedezze fel a székesegyházat és a Régészeti Múzeumot prehisztorikus kincseivel. Délben élvezze a kilátást a Saint Remy bástyáról. A délután a természeté a Botanikus Kertben és az ókori történelemé a Római Amfiteátrumban.",
+        "ro": "Începeți ziua în cartierul istoric Castello, inima orașului Cagliari. Dimineața, explorați catedrala și Muzeul Arheologic cu comorile sale preistorice. La prânz, bucurați-vă de priveliștea de la Bastione di Saint Remy. După-amiaza este dedicată naturii în Grădina Botanică și istoriei antice la Amfiteatrul Roman.",
+        "en": "Start your day in the historic Castello district, the heart of Cagliari. In the morning, explore the cathedral and the Archaeological Museum with its prehistoric treasures. At noon, enjoy the view from the Bastione di Saint Remy. The afternoon belongs to nature in the Botanical Garden and ancient history at the Roman Amphitheater."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Malloreddus alla Campidanese",
+            "tip": "Sardische Gnocchi mit Salsiccia und Safran."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malloreddus alla Campidanese",
+            "tip": "Szardíniai gnocchi kolbásszal és sáfránnyal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malloreddus alla Campidanese",
+            "tip": "Gnocchi sarde cu cârnați și șofran."
+          }
+        ],
+        "en": [
+          {
+            "name": "Malloreddus alla Campidanese",
+            "tip": "Sardinian gnocchi with sausage and saffron."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Ein schattiger Rückzugsort im Stadtzentrum.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Árnyas menedék a városközpontban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orto Botanico",
+            "tip": "Un refugiu umbros în centrul orașului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orto Botanico",
+            "tip": "A shady retreat in the city center.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via Manno",
+            "tip": "Die Haupteinkaufsstraße für Mode und Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via Manno",
+            "tip": "A fő bevásárlóutca divatcikkekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via Manno",
+            "tip": "Principala stradă comercială pentru modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via Manno",
+            "tip": "The main shopping street for fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Castello.",
+          "Viele Museen sind montags geschlossen.",
+          "Die Mittagshitze verbringt man am besten im Botanischen Garten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Castello macskaköves utcáihoz.",
+          "Sok múzeum hétfőn zárva tart.",
+          "A déli hőséget legjobb a Botanikus Kertben tölteni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile cu piatră cubică din Castello.",
+          "Multe muzee sunt închise lunea.",
+          "Căldura de la prânz este cel mai bine suportată în Grădina Botanică."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in Castello.",
+          "Many museums are closed on Mondays.",
+          "The midday heat is best spent in the Botanical Garden."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Harbor",
+          "coords": [
+            9.112,
+            39.213
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hafen und genießen Sie die Meeresbrise.",
+            "hu": "Kezdjen a kikötőben és élvezze a tengeri szellőt.",
+            "ro": "Începeți la port și bucurați-vă de briza mării.",
+            "en": "Start at the harbor and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": "Santuario di Bonaria",
+          "coords": [
+            9.125,
+            39.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein wichtiger Wallfahrtsort mit Blick auf das Meer.",
+            "hu": "Fontos zarándokhely kilátással a tengerre.",
+            "ro": "Un loc important de pelerinaj cu vedere la mare.",
+            "en": "An important pilgrimage site with sea views."
+          }
+        },
+        {
+          "name": "Parco di Molentargius",
+          "coords": [
+            9.15,
+            39.23
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die wilden rosa Flamingos in den Salzpfannen.",
+            "hu": "Figyelje meg a vad rózsaszín flamingókat a sós tavaknál.",
+            "ro": "Observați flamingii roz sălbatici în saline.",
+            "en": "Observe the wild pink flamingos in the salt pans."
+          }
+        },
+        {
+          "name": "Spiaggia del Poetto",
+          "coords": [
+            9.17,
+            39.22
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der 8 km langen Strandpromenade.",
+            "hu": "Kerékpározzon végig a 8 km hosszú tengerparti sétányon.",
+            "ro": "Mergeți cu bicicleta de-a lungul promenadei de 8 km.",
+            "en": "Cycle along the 8 km long beach promenade."
+          }
+        },
+        {
+          "name": "Sella del Diavolo Viewpoint",
+          "coords": [
+            9.162,
+            39.189
+          ],
+          "category": "landmark",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, der mit einer unglaublichen Aussicht belohnt wird.",
+            "hu": "Meredek emelkedő, amit hihetetlen kilátás jutalmaz.",
+            "ro": "O urcare abruptă recompensată cu o priveliște incredibilă.",
+            "en": "A steep climb rewarded with an incredible view."
+          }
+        },
+        {
+          "name": "Marina Harbor",
+          "coords": [
+            9.112,
+            39.213
+          ],
+          "category": "landmark",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit einem Gelato am Hafen.",
+            "hu": "Zárja a túrát egy fagyival a kikötőben.",
+            "ro": "Încheiați turul cu o înghețată în port.",
+            "en": "Finish the tour with a gelato at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie aus dem Stadtzentrum heraus zu den Naturschönheiten Cagliaris. Nach einem Besuch der Bonaria-Basilika radeln Sie durch das Molentargius-Feuchtgebiet, um Flamingos zu sehen. Den Rest des Tages verbringen Sie am weitläufigen Poetto-Strand, bevor Sie für den Sonnenuntergang zurückkehren.",
+        "hu": "Ez a kerékpártúra kivezeti Önt a városközpontból Cagliari természeti szépségeihez. A Bonaria-bazilika meglátogatása után tekerjen át a Molentargius vizesélőhelyen flamingókat nézni. A nap hátralévő részét a tágas Poetto strandon töltheti, mielőtt naplementére visszatérne.",
+        "ro": "Acest tur cu bicicleta vă scoate din centrul orașului către frumusețile naturale din Cagliari. După o vizită la Basilica Bonaria, pedalați prin zona umedă Molentargius pentru a vedea flamingi. Petreceți restul zilei pe plaja întinsă Poetto înainte de a vă întoarce pentru apus.",
+        "en": "This bike tour takes you out of the city center to the natural beauties of Cagliari. After a visit to the Bonaria Basilica, cycle through the Molentargius wetlands to see flamingos. Spend the rest of the day at the expansive Poetto beach before returning for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Frittierte Meeresfrüchte direkt am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Sült tenger gyümölcsei közvetlenül a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fructe de mare prăjite direct pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritto Misto",
+            "tip": "Fried seafood served directly on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Molentargius Park",
+            "tip": "Friedliche Naturbeobachtung abseits des Trubels.",
+            "emoji": "🦩"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molentargius Park",
+            "tip": "Békés természetmegfigyelés távol a nyüzsgéstől.",
+            "emoji": "🦩"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Molentargius",
+            "tip": "Observarea liniștită a naturii departe de agitație.",
+            "emoji": "🦩"
+          }
+        ],
+        "en": [
+          {
+            "name": "Molentargius Park",
+            "tip": "Peaceful nature watching away from the crowds.",
+            "emoji": "🦩"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strandkioske am Poetto",
+            "tip": "Sardisches Kunsthandwerk und Strandmode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poetto strandbüfék",
+            "tip": "Szardíniai kézműves termékek és stranddivat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcurile de pe Poetto",
+            "tip": "Artizanat sard și modă de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poetto Beach Kiosks",
+            "tip": "Sardinian handicrafts and beachwear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege am Poetto.",
+          "Viel Wasser mitnehmen, es gibt wenig Schatten.",
+          "Ein Fernglas ist ideal für die Flamingo-Beobachtung."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat a Poetto mentén.",
+          "Vigyen sok vizet, kevés az árnyék.",
+          "Egy távcső ideális a flamingók megfigyeléséhez."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete marcate de pe Poetto.",
+          "Luați multă apă, este puțină umbră.",
+          "Un binoclu este ideal pentru observarea flamingilor."
+        ],
+        "en": [
+          "Use the marked bike paths along Poetto.",
+          "Take plenty of water, there is little shade.",
+          "Binoculars are ideal for flamingo spotting."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cattedrale di Santa Maria",
+          "coords": [
+            9.117,
+            39.219
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Bastione-Parkplatz und laufen Sie ins Castello.",
+            "hu": "Parkoljon a Bastione parkolóban, és sétáljon be a Castellóba.",
+            "ro": "Parcați la parcarea Bastione și mergeți pe jos în Castello.",
+            "en": "Park at the Bastione parking and walk into Castello."
+          }
+        },
+        {
+          "name": "Quartiere Castello",
+          "coords": [
+            9.117,
+            39.218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Cluster-Stop: Erkunden Sie die Altstadt zu Fuß.",
+            "hu": "Cluster-stop: Fedezze fel az óvárost gyalog.",
+            "ro": "Oprire cluster: Explorați orașul vechi pe jos.",
+            "en": "Cluster stop: Explore the old town on foot."
+          }
+        },
+        {
+          "name": "Torre dell'Elefante",
+          "coords": [
+            9.115,
+            39.218
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Teil des Castello-Clusters.",
+            "hu": "A Castello-cluster része.",
+            "ro": "Parte a clusterului Castello.",
+            "en": "Part of the Castello cluster."
+          }
+        },
+        {
+          "name": "Santuario di Bonaria",
+          "coords": [
+            9.125,
+            39.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Bonaria-Hügel.",
+            "hu": "Rövid autóút a Bonaria-dombhoz.",
+            "ro": "Drum scurt cu mașina până la dealul Bonaria.",
+            "en": "Short drive to Bonaria hill."
+          }
+        },
+        {
+          "name": "Spiaggia del Poetto",
+          "coords": [
+            9.17,
+            39.22
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz verfügbar. Mittagessen am Meer.",
+            "hu": "Nagy parkoló elérhető. Ebéd a tengerparton.",
+            "ro": "Parcare mare disponibilă. Prânz la malul mării.",
+            "en": "Large parking available. Lunch by the sea."
+          }
+        },
+        {
+          "name": "Parco di Molentargius",
+          "coords": [
+            9.15,
+            39.23
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eingang über Via la Palma.",
+            "hu": "Bejárat a Via la Palma felől.",
+            "ro": "Intrarea prin Via la Palma.",
+            "en": "Entrance via Via la Palma."
+          }
+        },
+        {
+          "name": "Anfiteatro Romano",
+          "coords": [
+            9.112,
+            39.222
+          ],
+          "category": "landmark",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Universität.",
+            "hu": "Parkoljon az egyetem közelében.",
+            "ro": "Parcați în apropierea universității.",
+            "en": "Park near the university."
+          }
+        },
+        {
+          "name": "Bastione di Saint Remy",
+          "coords": [
+            9.117,
+            39.216
+          ],
+          "category": "landmark",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abschluss mit Blick auf die Stadt.",
+            "hu": "Zárás kilátással a városra.",
+            "ro": "Final de zi cu vedere la oraș.",
+            "en": "Finish with a view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie mühelos das historische Zentrum mit der Küste. Am Vormittag erkunden Sie das Castello-Viertel zu Fuß (Cluster-Stop), fahren dann zur prächtigen Bonaria-Basilika und genießen den Nachmittag am Poetto-Strand und im Naturpark Molentargius, bevor Sie den Tag am Bastione ausklingen lassen.",
+        "hu": "Autóval könnyedén összekötheti a történelmi központot a tengerparttal. Délelőtt fedezze fel a Castello negyedet gyalog (cluster-stop), majd hajtson el a pompás Bonaria-bazilikához, és élvezze a délutánt a Poetto strandon és a Molentargius natúrparkban, mielőtt a napot a bástyánál zárná.",
+        "ro": "Cu mașina, conectați fără efort centrul istoric cu coasta. Dimineața, explorați cartierul Castello pe jos (oprire cluster), apoi mergeți la splendida Basilica Bonaria și bucurați-vă de după-amiază pe plaja Poetto și în parcul natural Molentargius, înainte de a încheia ziua la Bastione.",
+        "en": "By car, you can easily connect the historic center with the coast. In the morning, explore the Castello district on foot (cluster stop), then drive to the magnificent Bonaria Basilica and enjoy the afternoon at Poetto Beach and Molentargius Nature Park before ending the day at the Bastione."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Porceddu",
+            "tip": "Traditionelles sardisches Spanferkel (oft im Umland besser)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porceddu",
+            "tip": "Hagyományos szardíniai sült malac (vidéken gyakran jobb)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porceddu",
+            "tip": "Purceluș de lapte tradițional sard (adesea mai bun în împrejurimi)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porceddu",
+            "tip": "Traditional Sardinian suckling pig (often better in the outskirts)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Santuario di Bonaria",
+            "tip": "Ruhiger Garten hinter dem Kloster.",
+            "emoji": "🙏"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santuario di Bonaria",
+            "tip": "Csendes kert a kolostor mögött.",
+            "emoji": "🙏"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Santuario di Bonaria",
+            "tip": "Grădină liniștită în spatele mănăstirii.",
+            "emoji": "🙏"
+          }
+        ],
+        "en": [
+          {
+            "name": "Santuario di Bonaria",
+            "tip": "Quiet garden behind the monastery.",
+            "emoji": "🙏"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mercato di San Benedetto",
+            "tip": "Einer der größten Lebensmittelmärkte Italiens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Benedetto piac",
+            "tip": "Olaszország egyik legnagyobb élelmiszerpiaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mercato di San Benedetto",
+            "tip": "Una dintre cele mai mari piețe de alimente din Italia."
+          }
+        ],
+        "en": [
+          {
+            "name": "San Benedetto Market",
+            "tip": "One of Italy's largest indoor food markets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist schwierig, nutzen Sie Parkhäuser.",
+          "ZTL-Zonen (eingeschränkter Verkehr) im Castello beachten.",
+          "Der Parkplatz am Poetto ist im Sommer gebührenpflichtig."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használjon parkolóházakat.",
+          "Ügyeljen a ZTL (korlátozott forgalmú) zónákra a Castellóban.",
+          "A Poetto parkolója nyáron díjköteles."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă, folosiți parcările etajate.",
+          "Atenție la zonele ZTL (trafic restricționat) din Castello.",
+          "Parcarea de la Poetto este cu plată pe timpul verii."
+        ],
+        "en": [
+          "Parking in the center is difficult; use multi-story car parks.",
+          "Watch out for ZTL (restricted traffic zones) in Castello.",
+          "The Poetto parking area requires a fee in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Quartiere Castello",
+          "coords": [
+            9.117,
+            39.218
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie 7 oder den Aufzug von Piazza Yenne.",
+            "hu": "Használja a 7-es buszt vagy a liftet a Piazza Yennéről.",
+            "ro": "Luați linia 7 sau liftul de la Piazza Yenne.",
+            "en": "Take line 7 or the elevator from Piazza Yenne."
+          }
+        },
+        {
+          "name": "Museo Archeologico Nazionale",
+          "coords": [
+            9.117,
+            39.223
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang innerhalb des Castello-Distrikts.",
+            "hu": "Gyalogos séta a Castello negyeden belül.",
+            "ro": "Plimbare în cadrul districtului Castello.",
+            "en": "Walk within the Castello district."
+          }
+        },
+        {
+          "name": "Bastione di Saint Remy",
+          "coords": [
+            9.117,
+            39.216
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für Busse.",
+            "hu": "Központi átszállási pont buszokhoz.",
+            "ro": "Punct central de transfer pentru autobuze.",
+            "en": "Central transfer point for buses."
+          }
+        },
+        {
+          "name": "Santuario di Bonaria",
+          "coords": [
+            9.125,
+            39.208
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie PF oder PQ Richtung Küste.",
+            "hu": "PF vagy PQ buszvonal a part felé.",
+            "ro": "Linia de autobuz PF sau PQ spre coastă.",
+            "en": "Bus line PF or PQ towards the coast."
+          }
+        },
+        {
+          "name": "Spiaggia del Poetto",
+          "coords": [
+            9.17,
+            39.22
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Zahlreiche Haltestellen entlang des Strandes.",
+            "hu": "Számos megálló a strand mentén.",
+            "ro": "Numeroase stații de-a lungul plajei.",
+            "en": "Numerous stops along the beach."
+          }
+        },
+        {
+          "name": "Parco di Molentargius",
+          "coords": [
+            9.15,
+            39.23
+          ],
+          "category": "natural features",
+          "arrive_at": "16:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle Via la Palma.",
+            "hu": "Rövid séta a Via la Palma megállótól.",
+            "ro": "Scurtă plimbare de la stația Via la Palma.",
+            "en": "Short walk from the Via la Palma stop."
+          }
+        },
+        {
+          "name": "Piazza Yenne",
+          "coords": [
+            9.112,
+            39.216
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Stadtzentrum für Aperitivo.",
+            "hu": "Visszatérés a városközpontba egy aperitivóra.",
+            "ro": "Întoarcerea în centrul orașului pentru un aperitiv.",
+            "en": "Return to the city center for an aperitivo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cagliari ist gut mit Bussen vernetzt. Starten Sie im Castello (erreichbar mit dem Minibus), besuchen Sie das Museum und den Bastione. Dann nutzen Sie die Strandlinien (PF/PQ), um zur Bonaria-Basilika und zum Poetto-Strand zu gelangen. Den Tag beenden Sie auf der belebten Piazza Yenne.",
+        "hu": "Cagliari jól lefedi buszhálózattal. Kezdjen a Castellóban (kisbusszal elérhető), látogassa meg a múzeumot és a bástyát. Ezután használja a tengerparti járatokat (PF/PQ), hogy eljusson a Bonaria-bazilikához és a Poetto strandhoz. A napot a pezsgő Piazza Yennén zárja.",
+        "ro": "Cagliari este bine conectat prin autobuze. Începeți în Castello (accesibil cu microbuzul), vizitați muzeul și bastionul. Apoi folosiți liniile spre plajă (PF/PQ) pentru a ajunge la Basilica Bonaria și plaja Poetto. Încheiați ziua în animata Piazza Yenne.",
+        "en": "Cagliari is well-connected by buses. Start in Castello (accessible by minibus), visit the museum and the Bastione. Then use the beach lines (PF/PQ) to reach the Bonaria Basilica and Poetto Beach. End the day at the lively Piazza Yenne."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Culurgiones",
+            "tip": "Gefüllte Teigtaschen mit Kartoffeln, Pecorino und Minze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Culurgiones",
+            "tip": "Burgonyával, pecorinóval és mentával töltött tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Culurgiones",
+            "tip": "Paste umplute cu cartofi, pecorino și mentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Culurgiones",
+            "tip": "Stuffed pasta with potatoes, pecorino, and mint."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Basilica di Bonaria",
+            "tip": "Ein Ort der Stille mit weitem Meerblick.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bonaria bazilika",
+            "tip": "A csend helye tágas tengeri kilátással.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Basilica di Bonaria",
+            "tip": "Un loc al liniștii cu vedere largă la mare.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bonaria Basilica",
+            "tip": "A place of silence with a wide sea view.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Largo Carlo Felice",
+            "tip": "Geschäfte und Cafés im unteren Teil der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Largo Carlo Felice",
+            "tip": "Üzletek és kávézók a város alsó részén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Largo Carlo Felice",
+            "tip": "Magazine și cafenele în partea de jos a orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Largo Carlo Felice",
+            "tip": "Shops and cafes in the lower part of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab (Tabacchi) oder per App.",
+          "Die Linie 7 ist ideal für die Castello-Hügel.",
+          "Busse zum Poetto fahren sehr häufig."
+        ],
+        "hu": [
+          "Vegyen buszjegyet előre (dohányboltban) vagy appon keresztül.",
+          "A 7-es járat ideális a Castello dombjaihoz.",
+          "A Poettóhoz közlekedő buszok nagyon gyakoriak."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans (Tabacchi) sau prin aplicație.",
+          "Linia 7 este ideală pentru dealurile din Castello.",
+          "Autobuzele către Poetto circulă foarte frecvent."
+        ],
+        "en": [
+          "Buy bus tickets in advance (Tabacchi) or via the app.",
+          "Line 7 is ideal for the Castello hills.",
+          "Buses to Poetto run very frequently."
+        ]
+      }
+    }
+  }
+}

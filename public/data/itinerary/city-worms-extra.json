@@ -1,0 +1,1074 @@
+{
+  "city_id": "city-worms-extra",
+  "anchor": {
+    "name": "Worms",
+    "coords": [
+      8.3606,
+      49.6317
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wormser Dom St. Peter",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "Worms Cathedral"
+          },
+          "coords": [
+            8.358,
+            49.63
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur.",
+            "hu": "Csodálja meg a román stílusú építészetet.",
+            "ro": "Admirați arhitectura romanică.",
+            "en": "Admire the Romanesque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherdenkmal",
+            "hu": "Luther-emlékmű",
+            "ro": "Monumentul lui Luther",
+            "en": "Luther Monument"
+          },
+          "coords": [
+            8.36,
+            49.632
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das größte Reformationsdenkmal der Welt.",
+            "hu": "A világ legnagyobb reformációs emlékműve.",
+            "ro": "Cel mai mare monument al Reformei din lume.",
+            "en": "The largest Reformation monument in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Worms",
+            "hu": "Wormsi zsinagóga",
+            "ro": "Sinagoga din Worms",
+            "en": "Worms Synagogue"
+          },
+          "coords": [
+            8.366,
+            49.633
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das jüdische Viertel.",
+            "hu": "Látogasson el a zsidó negyedbe.",
+            "ro": "Vizitați cartierul evreiesc.",
+            "en": "Visit the Jewish quarter."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenmuseum",
+            "hu": "Nibelung-múzeum",
+            "ro": "Muzeul Nibelungilor",
+            "en": "Nibelungen Museum"
+          },
+          "coords": [
+            8.366,
+            49.63
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Multimedia-Erlebnis zur Heldensage.",
+            "hu": "Multimédiás élmény a hősregéről.",
+            "ro": "Experiență multimedia despre saga eroică.",
+            "en": "Multimedia experience of the heroic saga."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof Heiliger Sand",
+            "hu": "Heiliger Sand zsidó temető",
+            "ro": "Cimitirul Evreiesc Heiliger Sand",
+            "en": "Jewish Cemetery Heiliger Sand"
+          },
+          "coords": [
+            8.356,
+            49.629
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der älteste jüdische Friedhof Europas.",
+            "hu": "Európa legrégebbi zsidó temetője.",
+            "ro": "Cel mai vechi cimitir evreiesc din Europa.",
+            "en": "Europe's oldest Jewish cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenbrücke",
+            "hu": "Nibelung-híd",
+            "ro": "Podul Nibelungilor",
+            "en": "Nibelungen Bridge"
+          },
+          "coords": [
+            8.378,
+            49.632
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schöner Blick auf den Rhein.",
+            "hu": "Szép kilátás a Rajnára.",
+            "ro": "Vedere frumoasă spre Rin.",
+            "en": "Beautiful view of the Rhine."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Liebfrauenkirche",
+            "ro": "Biserica Liebfrauen",
+            "en": "Liebfrauenkirche"
+          },
+          "coords": [
+            8.368,
+            49.643
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Umgeben von Weinbergen.",
+            "hu": "Szőlőültetvényekkel körülvéve.",
+            "ro": "Înconjurată de podgorii.",
+            "en": "Surrounded by vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Worms empfängt Sie mit seiner über 2000-jährigen Geschichte. Der Vormittag steht im Zeichen des Doms und Luthers. Nachmittags tauchen Sie in die Nibelungensage und das reiche jüdische Erbe ein. Den Tag lassen Sie bei einem Spaziergang am Rhein oder in den Weinbergen ausklingen.",
+        "hu": "Worms több mint 2000 éves történelemmel várja Önt. A délelőtt a dóm és Luther jegyében telik. Délután a Nibelung-regébe és a gazdag zsidó örökségbe merülhet el. A napot egy rajnai sétával vagy a szőlőskertek között zárhatja.",
+        "ro": "Worms vă întâmpină cu o istorie de peste 2000 de ani. Dimineața este marcată de Catedrală și de Luther. După-amiaza vă scufundați în saga Nibelungilor și în bogata moștenire evreiască. Încheiați ziua cu o plimbare pe Rin sau printre podgorii.",
+        "en": "Worms welcomes you with over 2000 years of history. The morning is dedicated to the Cathedral and Luther. In the afternoon, dive into the Nibelungen saga and the rich Jewish heritage. End the day with a walk along the Rhine or among the vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brauhaus Zwölf Apostel",
+            "tip": "Deftige Pfälzer Küche und hausgebrautes Bier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brauhaus Zwölf Apostel",
+            "tip": "Kiadós rajnai ételek és házi készítésű sör."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brauhaus Zwölf Apostel",
+            "tip": "Bucătărie copioasă din Palatinat și bere artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brauhaus Zwölf Apostel",
+            "tip": "Hearty Palatinate cuisine and home-brewed beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rheinpromenade",
+            "tip": "Ruhiger Weg entlang des Flusses.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rajna-sétány",
+            "tip": "Csendes út a folyó mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Rinului",
+            "tip": "Cale liniștită de-a lungul râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rhine Promenade",
+            "tip": "Quiet path along the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fußgängerzone Worms",
+            "tip": "Lokale Weine und Nibelungen-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wormsi sétálóutca",
+            "tip": "Helyi borok és Nibelung-szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona pietonală Worms",
+            "tip": "Vinuri locale și suveniruri Nibelungen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Worms Pedestrian Zone",
+            "tip": "Local wines and Nibelungen souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und gut zu Fuß erkunden.",
+          "Probieren Sie den berühmten Liebfrauenmilch Wein direkt am Weinberg."
+        ],
+        "hu": [
+          "Az óváros kompakt, gyalogosan könnyen bejárható.",
+          "Kóstolja meg a híres Liebfrauenmilch bort közvetlenül a szőlőhegyen."
+        ],
+        "ro": [
+          "Orașul vechi este foarte compact și ușor de explorat la pas.",
+          "Gustați faimosul vin Liebfrauenmilch direct la podgorie."
+        ],
+        "en": [
+          "The old town is very compact and easy to explore on foot.",
+          "Try the famous Liebfrauenmilch wine directly at the vineyard."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wormser Dom St. Peter",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "Worms Cathedral"
+          },
+          "coords": [
+            8.358,
+            49.63
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze direkt am Dom.",
+            "hu": "Kerékpártárolók közvetlenül a dómnál.",
+            "ro": "Parcare pentru biciclete chiar la catedrală.",
+            "en": "Bicycle parking right at the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherdenkmal",
+            "hu": "Luther-emlékmű",
+            "ro": "Monumentul lui Luther",
+            "en": "Luther Monument"
+          },
+          "coords": [
+            8.36,
+            49.632
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Zentrum.",
+            "hu": "Rövid megálló a központban.",
+            "ro": "Scurtă oprire în centru.",
+            "en": "Short stop in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Worms",
+            "hu": "Wormsi zsinagóga",
+            "ro": "Sinagoga din Worms",
+            "en": "Worms Synagogue"
+          },
+          "coords": [
+            8.366,
+            49.633
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ruhiges Viertel, ideal für Räder.",
+            "hu": "Csendes negyed, ideális bringázáshoz.",
+            "ro": "Cartier liniștit, ideal pentru biciclete.",
+            "en": "Quiet quarter, ideal for bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenbrücke",
+            "hu": "Nibelung-híd",
+            "ro": "Podul Nibelungilor",
+            "en": "Nibelungen Bridge"
+          },
+          "coords": [
+            8.378,
+            49.632
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Rhein per Rad.",
+            "hu": "Kerekezzen át a Rajnán.",
+            "ro": "Traversați Rinul cu bicicleta.",
+            "en": "Cross the Rhine by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Liebfrauenkirche",
+            "hu": "Liebfrauenkirche",
+            "ro": "Biserica Liebfrauen",
+            "en": "Liebfrauenkirche"
+          },
+          "coords": [
+            8.368,
+            49.643
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schöner Weg durch die Reben.",
+            "hu": "Szép út a szőlőtőkék között.",
+            "ro": "Drum frumos prin vii.",
+            "en": "Beautiful path through the vines."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Herrnsheim",
+            "hu": "Herrnsheimi kastély",
+            "ro": "Castelul Herrnsheim",
+            "en": "Herrnsheim Castle"
+          },
+          "coords": [
+            8.337,
+            49.664
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Schlosspark.",
+            "hu": "Látogasson el a kastélyparkba.",
+            "ro": "Vizitați parcul castelului.",
+            "en": "Visit the castle park."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof Heiliger Sand",
+            "hu": "Heiliger Sand zsidó temető",
+            "ro": "Cimitirul Evreiesc Heiliger Sand",
+            "en": "Jewish Cemetery Heiliger Sand"
+          },
+          "coords": [
+            8.356,
+            49.629
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille.",
+            "hu": "A csend helyszíne.",
+            "ro": "Un loc al liniștii.",
+            "en": "A place of silence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Per Rad erkunden Sie nicht nur das Zentrum, sondern auch das prächtige Schloss Herrnsheim im Norden. Die Tour führt entlang des Rheins und durch die berühmten Weinlagen von Worms.",
+        "hu": "Kerékpárral nemcsak a központot, hanem a tőle északra fekvő pompás Herrnsheim-kastélyt is felfedezheti. A túra a Rajna mentén és Worms híres szőlőültetvényein keresztül vezet.",
+        "ro": "Cu bicicleta explorați nu doar centrul, ci și magnificul Castel Herrnsheim din nord. Turul vă poartă de-a lungul Rinului și prin faimoasele podgorii din Worms.",
+        "en": "By bike, you explore not only the center but also the magnificent Herrnsheim Castle in the north. The tour leads along the Rhine and through the famous vineyards of Worms."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hagenbräu",
+            "tip": "Restaurant direkt am Rheinufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagenbräu",
+            "tip": "Étterem közvetlenül a Rajna-parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hagenbräu",
+            "tip": "Restaurant chiar pe malul Rinului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hagenbräu",
+            "tip": "Restaurant directly on the Rhine bank."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herrnsheimer Schlosspark",
+            "tip": "Englischer Garten zum Entspannen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herrnsheimi kastélypark",
+            "tip": "Angolkert a pihenéshez.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Herrnsheim",
+            "tip": "Grădină englezească pentru relaxare.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herrnsheim Castle Park",
+            "tip": "English garden for relaxing.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Winzergenossenschaft",
+            "tip": "Kaufen Sie Wein direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bortermelői szövetkezet",
+            "tip": "Vásároljon bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa viticolă",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vintners' Cooperative",
+            "tip": "Buy wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Rheinradweg bietet eine tolle Aussicht auf die Stadt.",
+          "Achten Sie auf Kopfsteinpflaster in der Altstadt."
+        ],
+        "hu": [
+          "A Rajna menti kerékpárút remek kilátást nyújt a városra.",
+          "Ügyeljen a macskakövekre az óvárosban."
+        ],
+        "ro": [
+          "Pista de biciclete de pe Rin oferă o vedere excelentă asupra orașului.",
+          "Atenție la pavajul cu piatră cubică din orașul vechi."
+        ],
+        "en": [
+          "The Rhine cycle path offers a great view of the city.",
+          "Watch out for cobblestones in the old town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wormser Dom (Cluster Altstadt)",
+            "hu": "Szent Péter-dóm (Óváros)",
+            "ro": "Catedrala Worms (Centrul Vechi)",
+            "en": "Worms Cathedral (Old Town Cluster)"
+          },
+          "coords": [
+            8.358,
+            49.63
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkhaus am Dom nutzen.",
+            "hu": "Használja a dóm melletti parkolóházat.",
+            "ro": "Folosiți parcarea de la catedrală.",
+            "en": "Use the parking garage at the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherdenkmal",
+            "hu": "Luther-emlékmű",
+            "ro": "Monumentul lui Luther",
+            "en": "Luther Monument"
+          },
+          "coords": [
+            8.36,
+            49.632
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Dom.",
+            "hu": "Rövid séta a dómtól.",
+            "ro": "Scurtă plimbare de la catedrală.",
+            "en": "Short walk from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenmuseum",
+            "hu": "Nibelung-múzeum",
+            "ro": "Muzeul Nibelungilor",
+            "en": "Nibelungen Museum"
+          },
+          "coords": [
+            8.366,
+            49.63
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Highlight für Fans der Sage.",
+            "hu": "A saga kedvelőinek kötelező.",
+            "ro": "Punct culminant pentru fanii sagi.",
+            "en": "Highlight for fans of the saga."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge Worms",
+            "hu": "Wormsi zsinagóga",
+            "ro": "Sinagoga din Worms",
+            "en": "Worms Synagogue"
+          },
+          "coords": [
+            8.366,
+            49.633
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Abschluss des Altstadt-Spaziergangs.",
+            "hu": "Az óvárosi séta lezárása.",
+            "ro": "Finalul plimbării în orașul vechi.",
+            "en": "Completion of the old town walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenbrücke (Cluster Rhein)",
+            "hu": "Nibelung-híd (Rajna negyed)",
+            "ro": "Podul Nibelungilor (Cluster Rin)",
+            "en": "Nibelungen Bridge (Rhine Cluster)"
+          },
+          "coords": [
+            8.378,
+            49.632
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken am Rheinufer.",
+            "hu": "Parkolás a Rajna-parton.",
+            "ro": "Parcare pe malul Rinului.",
+            "en": "Parking on the Rhine bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Herrnsheim",
+            "hu": "Herrnsheimi kastély",
+            "ro": "Castelul Herrnsheim",
+            "en": "Herrnsheim Castle"
+          },
+          "coords": [
+            8.337,
+            49.664
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking lot available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie bequem die historische Altstadt mit dem weitläufigen Schloss Herrnsheim. Parken Sie zentral für die Domanlagen und später direkt am Rhein für eine Pause am Wasser.",
+        "hu": "Autóval kényelmesen összekötheti a történelmi óvárost a tágas Herrnsheim-kastéllyal. Parkoljon a központban a dóm környékén, később pedig közvetlenül a Rajnánál egy vízparti pihenőhöz.",
+        "ro": "Cu mașina conectați confortabil centrul vechi istoric cu vastul Castel Herrnsheim. Parcați central pentru zona Catedralei și ulterior direct la Rin pentru o pauză la malul apei.",
+        "en": "By car, you conveniently connect the historic old town with the spacious Herrnsheim Castle. Park centrally for the cathedral grounds and later directly at the Rhine for a break by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Altes Kesselhaus",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Altes Kesselhaus",
+            "tip": "Színvonalas konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Altes Kesselhaus",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Altes Kesselhaus",
+            "tip": "Upscale cuisine in a historical ambiance."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herrnsheimer Schlosspark",
+            "tip": "Ideal für einen ruhigen Spaziergang.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herrnsheimi kastélypark",
+            "tip": "Ideális egy csendes sétához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Castelului Herrnsheim",
+            "tip": "Ideal pentru o plimbare liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herrnsheim Castle Park",
+            "tip": "Ideal for a quiet walk.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaiser Passage Worms",
+            "tip": "Großes Einkaufszentrum im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaiser Passage Worms",
+            "tip": "Nagy bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaiser Passage Worms",
+            "tip": "Centru comercial mare în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaiser Passage Worms",
+            "tip": "Large shopping center in the heart of the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Parkleitsystem in der Innenstadt.",
+          "Worms ist ein guter Ausgangspunkt für Ausflüge in die Pfalz."
+        ],
+        "hu": [
+          "Használja a belvárosi parkolási tájékoztató rendszert.",
+          "Worms jó kiindulópont a rajnai borvidék felfedezéséhez."
+        ],
+        "ro": [
+          "Utilizați sistemul de ghidare a parcării în centrul orașului.",
+          "Worms este un punct de plecare bun pentru excursii în Palatinat."
+        ],
+        "en": [
+          "Use the parking guidance system in the city center.",
+          "Worms is a good starting point for excursions into the Palatinate."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Worms Hauptbahnhof",
+            "hu": "Wormsi főpályaudvar",
+            "ro": "Gara Centrală Worms",
+            "en": "Worms Central Station"
+          },
+          "coords": [
+            8.358,
+            49.636
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Busse und Züge.",
+            "hu": "A buszok és vonatok kiindulópontja.",
+            "ro": "Punct de plecare pentru autobuze și trenuri.",
+            "en": "Starting point for buses and trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Wormser Dom",
+            "hu": "Szent Péter-dóm",
+            "ro": "Catedrala Sf. Petru",
+            "en": "Worms Cathedral"
+          },
+          "coords": [
+            8.358,
+            49.63
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Linienbus 401 hält in der Nähe.",
+            "hu": "A 401-es busz megáll a közelben.",
+            "ro": "Linia 401 oprește în apropiere.",
+            "en": "Bus line 401 stops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Jüdischer Friedhof",
+            "hu": "Heiliger Sand temető",
+            "ro": "Cimitirul Evreiesc",
+            "en": "Jewish Cemetery"
+          },
+          "coords": [
+            8.356,
+            49.629
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Dom erreichbar.",
+            "hu": "Gyalogosan elérhető a dómtól.",
+            "ro": "Accesibil pe jos de la catedrală.",
+            "en": "Accessible on foot from the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenmuseum",
+            "hu": "Nibelung-múzeum",
+            "ro": "Muzeul Nibelungilor",
+            "en": "Nibelungen Museum"
+          },
+          "coords": [
+            8.366,
+            49.63
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kultur-Spaziergang durch die Stadt.",
+            "hu": "Kulturális séta a városon keresztül.",
+            "ro": "Plimbare culturală prin oraș.",
+            "en": "Cultural walk through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Nibelungenbrücke",
+            "hu": "Nibelung-híd",
+            "ro": "Podul Nibelungilor",
+            "en": "Nibelungen Bridge"
+          },
+          "coords": [
+            8.378,
+            49.632
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie zum Rheinufer nutzen.",
+            "hu": "Használja a Rajna-parti buszt.",
+            "ro": "Utilizați linia de autobuz spre Rin.",
+            "en": "Use the bus line to the Rhine bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Herrnsheim",
+            "hu": "Herrnsheimi kastély",
+            "ro": "Castelul Herrnsheim",
+            "en": "Herrnsheim Castle"
+          },
+          "coords": [
+            8.337,
+            49.664
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bus 431 ab HBF Richtung Herrnsheim.",
+            "hu": "431-es busz a főpályaudvarról Herrnsheim felé.",
+            "ro": "Autobuzul 431 de la gară spre Herrnsheim.",
+            "en": "Bus 431 from central station towards Herrnsheim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Worms lässt sich hervorragend mit dem dichten Busnetz erkunden. Vom Hauptbahnhof aus erreichen Sie alle wichtigen Sehenswürdigkeiten, einschließlich des Schlosses Herrnsheim, das direkt mit dem Bus angebunden ist.",
+        "hu": "Worms kiválóan felfedezhető a sűrű autóbusz-hálózattal. A főpályaudvarról minden fontos látnivaló elérhető, beleértve a Herrnsheim-kastélyt is, amely közvetlen buszjárattal rendelkezik.",
+        "ro": "Worms poate fi explorat excelent cu rețeaua densă de autobuze. De la gara centrală puteți ajunge la toate obiectivele importante, inclusiv la Castelul Herrnsheim, care este conectat direct prin autobuz.",
+        "en": "Worms can be explored excellently with the dense bus network. From the central station, you can reach all important sights, including Herrnsheim Castle, which is directly connected by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Karpfenstein",
+            "tip": "Helles, modernes Restaurant in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karpfenstein",
+            "tip": "Világos, modern étterem a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Karpfenstein",
+            "tip": "Restaurant luminos și modern lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karpfenstein",
+            "tip": "Bright, modern restaurant near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Albert-Schulte-Park",
+            "tip": "Kleine Oase direkt am Bahnhof.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Albert-Schulte-Park",
+            "tip": "Kis oázis közvetlenül a pályaudvar mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Albert Schulte",
+            "tip": "Mică oază chiar lângă gară.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Albert Schulte Park",
+            "tip": "Small oasis right next to the station.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Viele kleine Läden und Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pályaudvar utca",
+            "tip": "Sok kis üzlet és kávézó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Gării",
+            "tip": "Multe magazine mici și cafenele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bahnhofstraße",
+            "tip": "Many small shops and cafes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das VRN-Tagesticket ist ideal für Touristen.",
+          "Die Busse fahren am Wochenende seltener."
+        ],
+        "hu": [
+          "A VRN napijegy ideális turisták számára.",
+          "Hétvégén a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Biletul de zi VRN este ideal pentru turiști.",
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "The VRN day ticket is ideal for tourists.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1068 @@
+{
+  "city_id": "aschersleben-extra",
+  "anchor": {
+    "name": "Marktplatz Aschersleben",
+    "coords": [
+      51.7542,
+      11.4552
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Aschersleben",
+            "hu": "Ascherslebeni városháza",
+            "ro": "Primăria Aschersleben",
+            "en": "Aschersleben Town Hall"
+          },
+          "coords": [
+            51.7544,
+            11.4555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die astronomische Uhr am Turm.",
+            "hu": "Nézze meg a torony csillagászati óráját.",
+            "ro": "Admirați ceasul astronomic de pe turn.",
+            "en": "Admire the astronomical clock on the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Stephani Kirche",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sf. Ștefan",
+            "en": "St. Stephani Church"
+          },
+          "coords": [
+            51.7551,
+            11.4572
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der bedeutendsten spätgotischen Hallenkirchen.",
+            "hu": "Az egyik legjelentősebb késő gótikus csarnoktemplom.",
+            "ro": "Una dintre cele mai importante biserici de tip hală gotice.",
+            "en": "One of the most important late Gothic hall churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Aschersleben",
+            "hu": "Ascherslebeni Múzeum",
+            "ro": "Muzeul Aschersleben",
+            "en": "Aschersleben Museum"
+          },
+          "coords": [
+            51.7543,
+            11.4548
+          ],
+          "category": "museums",
+          "arrive_at": "10:43",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die älteste Stadt Sachsen-Anhalts.",
+            "hu": "Ismerje meg Szász-Anhalt legrégebbi városát.",
+            "ro": "Aflați totul despre cel mai vechi oraș din Saxonia-Anhalt.",
+            "en": "Learn all about the oldest town in Saxony-Anhalt."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriminalpanoptikum",
+            "hu": "Bűnügyi Panoptikum",
+            "ro": "Panopticul Criminal",
+            "en": "Criminal Panopticon"
+          },
+          "coords": [
+            51.7555,
+            11.4512
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige Einblicke in die Justizgeschichte im alten Gefängnis.",
+            "hu": "Egyedülálló betekintés az igazságszolgáltatásba a börtönben.",
+            "ro": "O perspectivă unică asupra istoriei judiciare în fosta închisoare.",
+            "en": "Unique insights into judicial history in the old prison."
+          }
+        },
+        {
+          "name": {
+            "de": "Graf-Hellmann-Promenade",
+            "hu": "Graf-Hellmann sétány",
+            "ro": "Promenada Graf-Hellmann",
+            "en": "Graf-Hellmann Promenade"
+          },
+          "coords": [
+            51.7505,
+            11.4602
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der gut erhaltenen Stadtmauer.",
+            "hu": "Séta a jól megőrzött városfal mentén.",
+            "ro": "Plimbare de-a lungul zidului vechi al orașului.",
+            "en": "Walk along the well-preserved city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Bestehornhaus",
+            "hu": "Bestehorn-ház",
+            "ro": "Casa Bestehorn",
+            "en": "Bestehorn House"
+          },
+          "coords": [
+            51.7518,
+            11.4585
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das kulturelle Herz der Stadt mit prächtiger Fassade.",
+            "hu": "A város kulturális szíve pompás homlokzattal.",
+            "ro": "Inima culturală a orașului, cu o fațadă magnifică.",
+            "en": "The cultural heart of the city with a magnificent facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbefestigung (Halser Turm)",
+            "hu": "Városerődítmény (Halser-torony)",
+            "ro": "Fortificațiile orașului (Turnul Halser)",
+            "en": "City Fortifications (Halser Tower)"
+          },
+          "coords": [
+            51.7565,
+            11.4532
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Wehranlage aus dem Mittelalter.",
+            "hu": "Lenyűgöző középkori védelmi rendszer.",
+            "ro": "Sistem defensiv impresionant din Evul Mediu.",
+            "en": "Impressive defensive system from the Middle Ages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Aschersleben am historischen Marktplatz. Vormittags erkunden Sie die prächtige St. Stephani Kirche und tauchen im Stadtmuseum in die reiche Geschichte ein. Nach einem Mittagessen in der Altstadt führt der Weg zum Kriminalpanoptikum, bevor Sie den Nachmittag entspannt an der grünen Stadtbefestigung und der Promenade ausklingen lassen.",
+        "hu": "Kezdje a napot Aschersleben szívében, a történelmi piactéren. Délelőtt fedezze fel a pompás Szent István-templomot, és merüljön el a város gazdag történelmében a helyi múzeumban. Egy óvárosi ebéd után látogasson el a különleges Bűnügyi Panoptikumba, majd töltse a délutánt pihentető sétával a városfal mentén és a Graf-Hellmann sétányon.",
+        "ro": "Începeți ziua în inima orașului Aschersleben, în piața istorică a orașului. Dimineața, explorați magnifica biserică Sf. Ștefan și cufundați-vă în istoria bogată la muzeul municipal. După un prânz în centrul vechi, mergeți la Panopticul Criminal, înainte de a încheia după-amiaza cu o plimbare relaxantă de-a lungul fortificațiilor verzi și a promenadei.",
+        "en": "Start your day in the heart of Aschersleben at the historical market square. In the morning, explore the magnificent St. Stephani Church and dive into the rich history at the city museum. After lunch in the old town, visit the unique Criminal Panopticon, before spending a relaxing afternoon walking along the green city fortifications and the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grauer Hof",
+            "tip": "Historisches Ambiente mit regionaler Küche."
+          },
+          {
+            "name": "Ascherslebener Möhren",
+            "tip": "Probieren Sie Gerichte mit den berühmten lokalen Möhren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grauer Hof",
+            "tip": "Történelmi környezet regionális konyhával."
+          },
+          {
+            "name": "Ascherslebeni répa",
+            "tip": "Kóstolja meg a híres helyi répából készült ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grauer Hof",
+            "tip": "Ambiantă istorică cu bucătărie regională."
+          },
+          {
+            "name": "Morcovi de Aschersleben",
+            "tip": "Gustați preparate cu faimoșii morcovi locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grauer Hof",
+            "tip": "Historical ambiance with regional cuisine."
+          },
+          {
+            "name": "Aschersleben Carrots",
+            "tip": "Try dishes featuring the famous local carrots."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Herrenbreite",
+            "tip": "Großzügige Parkanlage zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Stadtmauer-Gärten",
+            "tip": "Ruhige Ecken entlang der Wehranlage.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Herrenbreite",
+            "tip": "Tágas parkos terület a kikapcsolódáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Városfal-kertek",
+            "tip": "Csendes zugok a védművek mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Herrenbreite",
+            "tip": "Parc generos pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădinile zidului",
+            "tip": "Colțuri liniștite de-a lungul fortificațiilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Herrenbreite",
+            "tip": "Spacious park area for relaxation.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "City Wall Gardens",
+            "tip": "Quiet spots along the fortifications.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte direkt am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Regionális termékek közvetlenül a piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Produse regionale direct în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Regional products directly at the market square."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist ideal zu Fuß zu erkunden, da die meisten Sehenswürdigkeiten nah beieinander liegen.",
+          "Achten Sie auf die moderne Kunst im öffentlichen Raum (Drive Thru Gallery).",
+          "Ein Kombiticket für die Museen lohnt sich oft."
+        ],
+        "hu": [
+          "A város gyalogosan kiválóan felfedezhető, a látnivalók közel vannak egymáshoz.",
+          "Figyelje a modern köztéri művészeti alkotásokat (Drive Thru Gallery).",
+          "Érdemes kombinált jegyet váltani a múzeumokba."
+        ],
+        "ro": [
+          "Orașul este ideal de explorat pe jos, majoritatea atracțiilor fiind aproape una de alta.",
+          "Fiți atenți la arta modernă în spațiul public (Drive Thru Gallery).",
+          "Un bilet combinat pentru muzee merită adesea."
+        ],
+        "en": [
+          "The town is ideal for exploring on foot as most sights are close to each other.",
+          "Look out for modern public art (Drive Thru Gallery).",
+          "A combined ticket for the museums is often worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            51.7542,
+            11.4552
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt für die Radtour.",
+            "hu": "A biciklitúra kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul cu bicicleta.",
+            "en": "Starting point for the bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Aschersleben",
+            "hu": "Ascherslebeni Állatkert",
+            "ro": "Grădina Zoologică Aschersleben",
+            "en": "Aschersleben Zoo"
+          },
+          "coords": [
+            51.7455,
+            11.4352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bekannt für weiße Tiger und die Lage im Grünen.",
+            "hu": "Fehér tigriseiről és zöld környezetéről híres.",
+            "ro": "Cunoscut pentru tigrii albi și locația în natură.",
+            "en": "Famous for white tigers and its green setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Graf-Hellmann-Promenade",
+            "hu": "Graf-Hellmann sétány",
+            "ro": "Promenada Graf-Hellmann",
+            "en": "Graf-Hellmann Promenade"
+          },
+          "coords": [
+            51.7505,
+            11.4602
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Radfahren entlang der historischen Stadtmauer.",
+            "hu": "Kerékpározás a történelmi városfal mentén.",
+            "ro": "Ciclism de-a lungul zidului istoric al orașului.",
+            "en": "Cycling along the historical city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtbefestigung (Türme-Rundweg)",
+            "hu": "Városfal (Tornyok körútja)",
+            "ro": "Fortificații (Traseul turnurilor)",
+            "en": "City Walls (Tower Circuit)"
+          },
+          "coords": [
+            51.7572,
+            11.4525
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die 15 erhaltenen Türme der Stadt.",
+            "hu": "Fedezze fel a város 15 megmaradt tornyát.",
+            "ro": "Descoperiți cele 15 turnuri rămase ale orașului.",
+            "en": "Discover the 13 remaining towers of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Bestehornhaus",
+            "hu": "Bestehorn-ház",
+            "ro": "Casa Bestehorn",
+            "en": "Bestehorn House"
+          },
+          "coords": [
+            51.7518,
+            11.4585
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Kulturzentrum.",
+            "hu": "Rövid megálló a kulturális központnál.",
+            "ro": "Scurtă oprire la centrul cultural.",
+            "en": "Short stop at the cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Stephani Kirche",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sf. Ștefan",
+            "en": "St. Stephani Church"
+          },
+          "coords": [
+            51.7551,
+            11.4572
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besichtigung des imposanten Innenraums.",
+            "hu": "Az impozáns belső tér megtekintése.",
+            "ro": "Vizitarea interiorului impunător.",
+            "en": "Visit the impressive interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Aschersleben und seine grüne Umgebung mit dem Fahrrad. Nach dem Start im Zentrum fahren Sie zum idyllisch gelegenen Zoo. Danach geht es entlang der Promenade und der Stadtbefestigung einmal rund um den historischen Kern, wobei Sie die beeindruckenden Wehrtürme aus nächster Nähe sehen.",
+        "hu": "Fedezze fel Ascherslebent és zöld környezetét kerékpárral. A központból indulva tekerjen el az idilli fekvésű állatkertbe. Ezt követően a sétányon és a városfal mentén kerülje meg a történelmi magot, testközelből megcsodálva a lenyűgöző védőtornyokat.",
+        "ro": "Explorați Aschersleben și împrejurimile sale verzi cu bicicleta. După plecarea din centru, pedalați către grădina zoologică situată idilic. Ulterior, urmați promenada și fortificațiile pentru a înconjura nucleul istoric, admirând de aproape turnurile de apărare impresionante.",
+        "en": "Explore Aschersleben and its green surroundings by bike. Starting from the center, cycle to the idyllically located zoo. Then, follow the promenade and the city fortifications around the historical core, seeing the impressive defensive towers up close."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Snack-Pause direkt im Grünen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Gyors büfé a természetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zoo-Bistro",
+            "tip": "Pauză de gustare direct în natură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zoo Bistro",
+            "tip": "Snack break directly in the greenery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenadenring",
+            "tip": "Ruhiges Radfahren im Schatten alter Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétánygyűrű",
+            "tip": "Csendes bringázás az öreg fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Inelul promenadei",
+            "tip": "Ciclism liniștit la umbra arborilor bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Ring",
+            "tip": "Quiet cycling in the shade of old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Service",
+            "tip": "Lokale Werkstätten für kleine Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicikli szerviz",
+            "tip": "Helyi műhelyek kisebb javításokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Service biciclete",
+            "tip": "Ateliere locale pentru mici reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Service",
+            "tip": "Local workshops for minor repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Promenadenring bietet eine fast kreisfreie Route um die Innenstadt.",
+          "Nutzen Sie die gut ausgebauten Radwege im Umland für längere Touren."
+        ],
+        "hu": [
+          "A sétánygyűrű szinte teljesen autómentes útvonalat kínál a belváros körül.",
+          "Használja a jól kiépített környékbeli kerékpárutakat hosszabb túrákhoz."
+        ],
+        "ro": [
+          "Inelul promenadei oferă o rută aproape fără mașini în jurul centrului.",
+          "Folosiți pistele de biciclete bine amenajate din împrejurimi pentru tururi mai lungi."
+        ],
+        "en": [
+          "The promenade ring offers an almost car-free route around the city center.",
+          "Use the well-developed cycle paths in the surrounding area for longer tours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz Herrenbreite (Cluster A)",
+            "hu": "Herrenbreite parkoló",
+            "ro": "Parcare Herrenbreite",
+            "en": "Herrenbreite Parking"
+          },
+          "coords": [
+            51.7525,
+            11.458
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz, ideal für den Stadtrundgang.",
+            "hu": "Központi parkoló, ideális a városi sétához.",
+            "ro": "Parcare centrală, ideală pentru vizitarea orașului.",
+            "en": "Central parking, ideal for starting the city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bestehornhaus (Walk A)",
+            "hu": "Bestehorn-ház",
+            "ro": "Casa Bestehorn",
+            "en": "Bestehorn House"
+          },
+          "coords": [
+            51.7518,
+            11.4585
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Within walking distance from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz & Rathaus (Walk A)",
+            "hu": "Piactér és Városháza",
+            "ro": "Piața și Primăria",
+            "en": "Market Square & Town Hall"
+          },
+          "coords": [
+            51.7544,
+            11.4555
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Zentrum zu Fuß.",
+            "hu": "Látogassa meg a történelmi központot gyalog.",
+            "ro": "Vizitați centrul istoric pe jos.",
+            "en": "Visit the historical center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriminalpanoptikum (Walk A)",
+            "hu": "Bűnügyi Panoptikum",
+            "ro": "Panopticul Criminal",
+            "en": "Criminal Panopticon"
+          },
+          "coords": [
+            51.7555,
+            11.4512
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der skurrilsten Museen der Region.",
+            "hu": "A régió egyik legkülönlegesebb múzeuma.",
+            "ro": "Unul dintre cele mai bizare muzee din regiune.",
+            "en": "One of the most quirky museums in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Aschersleben (Cluster B)",
+            "hu": "Ascherslebeni Állatkert",
+            "ro": "Grădina Zoologică Aschersleben",
+            "en": "Aschersleben Zoo"
+          },
+          "coords": [
+            51.7455,
+            11.4352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Zoo am Stadtrand.",
+            "hu": "Rövid autóút a város szélén lévő állatkerthez.",
+            "ro": "Scurtă deplasare cu mașina la zoo de la marginea orașului.",
+            "en": "Short drive to the zoo at the edge of town."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm / Aussichtspunkt",
+            "hu": "Víztorony / Kilátó",
+            "ro": "Turnul de apă / Belvedere",
+            "en": "Water Tower / Viewpoint"
+          },
+          "coords": [
+            51.7385,
+            11.4652
+          ],
+          "category": "landmarks",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schöner Panoramablick über die Region.",
+            "hu": "Szép panoráma a környékre.",
+            "ro": "Vedere panoramică frumoasă asupra regiunii.",
+            "en": "Beautiful panoramic view over the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die historische Altstadt bequem mit den Attraktionen am Stadtrand. Vormittags parken Sie zentral und erkunden den Stadtkern sowie das Kriminalpanoptikum zu Fuß. Nach dem Mittagessen fahren Sie zum Zoo und genießen zum Abschluss einen weiten Blick über die älteste Stadt Sachsen-Anhalts.",
+        "hu": "Autóval kényelmesen összekötheti a történelmi óvárost a város szélén található látnivalókkal. Délelőtt parkoljon a központban, és fedezze fel gyalogosan az óvárost és a Bűnügyi Panoptikumot. Ebéd után autózzon el az állatkertbe, végül pedig élvezze a kilátást Szász-Anhalt legrégebbi városára.",
+        "ro": "Cu mașina puteți combina confortabil orașul vechi istoric cu atracțiile de la periferie. Dimineața, parcați central și explorați nucleul orașului și Panopticul Criminal pe jos. După prânz, mergeți cu mașina la grădina zoologică și bucurați-vă în final de o vedere largă asupra celui mai vechi oraș din Saxonia-Anhalt.",
+        "en": "By car, you can comfortably combine the historical old town with attractions on the outskirts. In the morning, park centrally and explore the city core and the Criminal Panopticon on foot. After lunch, drive to the zoo and conclude with a wide view over the oldest town in Saxony-Anhalt."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Speisekammer",
+            "tip": "Moderne Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Speisekammer",
+            "tip": "Modern konyha barátságos légkörben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Speisekammer",
+            "tip": "Bucătărie modernă într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Speisekammer",
+            "tip": "Modern cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wilslebener See",
+            "tip": "Ruhiger Ort in der Nähe für eine kurze Pause.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wilslebener-tó",
+            "tip": "Csendes hely a közelben egy rövid szünetre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Wilsleben",
+            "tip": "Loc liniștit în apropiere pentru o scurtă pauză.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wilsleben Lake",
+            "tip": "Quiet spot nearby for a short break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Einkaufszentrum Aschersleben",
+            "tip": "Größere Geschäfte am Stadtrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ascherslebeni bevásárlóközpont",
+            "tip": "Nagyobb üzletek a város szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Aschersleben",
+            "tip": "Magazine mai mari la marginea orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aschersleben Shopping Center",
+            "tip": "Larger shops on the outskirts of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze im Zentrum sind gut ausgeschildert.",
+          "Die Fahrt zum Zoo dauert vom Zentrum aus nur ca. 8 Minuten."
+        ],
+        "hu": [
+          "A központi parkolók jól ki vannak táblázva.",
+          "Az állatkertbe az út a központból csak kb. 8 percet vesz igénybe."
+        ],
+        "ro": [
+          "Parcările din centru sunt bine semnalizate.",
+          "Călătoria la grădina zoologică durează doar aproximativ 8 minute din centru."
+        ],
+        "en": [
+          "Parking lots in the center are well signposted.",
+          "The drive to the zoo takes only about 8 minutes from the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Aschersleben",
+            "hu": "Aschersleben vasútállomás",
+            "ro": "Gara Aschersleben",
+            "en": "Aschersleben Station"
+          },
+          "coords": [
+            51.7585,
+            11.4655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt für Fern- und Regionalverkehr.",
+            "hu": "Érkezési pont a távolsági és regionális közlekedéshez.",
+            "ro": "Punctul de sosire pentru transportul regional și la distanță.",
+            "en": "Arrival point for long-distance and regional transport."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz (District A)",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            51.7542,
+            11.4552
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Buslinie 140 bringt Sie direkt ins Herz der Stadt.",
+            "hu": "A 140-es busz közvetlenül a város szívébe viszi.",
+            "ro": "Linia de autobuz 140 vă duce direct în inima orașului.",
+            "en": "Bus line 140 takes you directly to the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Aschersleben (District A)",
+            "hu": "Ascherslebeni Múzeum",
+            "ro": "Muzeul Aschersleben",
+            "en": "Aschersleben Museum"
+          },
+          "coords": [
+            51.7543,
+            11.4548
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Marktplatz.",
+            "hu": "Gyalogosan elérhető a piactértől.",
+            "ro": "Accesibil pe jos de la piață.",
+            "en": "Within walking distance from the market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Aschersleben (District B)",
+            "hu": "Ascherslebeni Állatkert",
+            "ro": "Grădina Zoologică Aschersleben",
+            "en": "Aschersleben Zoo"
+          },
+          "coords": [
+            51.7455,
+            11.4352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus zum Zoo.",
+            "hu": "Használja a helyi buszjáratot az állatkerthez.",
+            "ro": "Folosiți autobuzul local către grădina zoologică.",
+            "en": "Use the local bus to reach the zoo."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenadenring (District A)",
+            "hu": "Sétánygyűrű",
+            "ro": "Inelul promenadei",
+            "en": "Promenade Ring"
+          },
+          "coords": [
+            51.7505,
+            11.4602
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Rückfahrt in die Innenstadt mit dem Bus.",
+            "hu": "Visszautazás a belvárosba busszal.",
+            "ro": "Întoarcerea în centrul orașului cu autobuzul.",
+            "en": "Return to the city center by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des gut ausgebauten Busnetzes erreichen Sie alle wichtigen Punkte in Aschersleben bequem. Vom Bahnhof gelangen Sie schnell ins Zentrum zum Marktplatz und Museum. Ein lokaler Bus bringt Sie direkt zum Zoo, bevor Sie den Tag entspannt an der Promenade im Stadtkern ausklingen lassen.",
+        "hu": "A jól kiépített autóbuszhálózatnak köszönhetően Aschersleben minden fontos pontja kényelmesen elérhető. A vasútállomástól gyorsan bejuthat a központba, a piactérhez és a múzeumhoz. Helyi busz viszi ki az állatkertbe, majd a nap végén térjen vissza egy óvárosi sétára.",
+        "ro": "Datorită rețelei de autobuze bine dezvoltate, puteți ajunge confortabil la toate punctele importante din Aschersleben. De la gară ajungeți rapid în centru, la piață și muzeu. Un autobuz local vă duce direct la grădina zoologică, înainte de a încheia ziua relaxat la promenada din centrul orașului.",
+        "en": "Thanks to the well-developed bus network, you can comfortably reach all important points in Aschersleben. From the train station, you quickly reach the center for the market square and museum. A local bus takes you directly to the zoo, before concluding the day with a relaxing stroll along the promenade in the city core."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant am Markt",
+            "tip": "Gute Erreichbarkeit mit allen Buslinien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant am Markt",
+            "tip": "Kiváló elérhetőség minden buszjárattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant am Markt",
+            "tip": "Accesibilitate bună cu toate liniile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant am Markt",
+            "tip": "Good accessibility with all bus lines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eine-Terrassen",
+            "tip": "Terrassengarten am Fluss Eine.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eine-teraszok",
+            "tip": "Teraszos kert az Eine-folyó partján.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasele Eine",
+            "tip": "Grădină terasată lângă râul Eine.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Eine Terraces",
+            "tip": "Terraced garden by the river Eine.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofs-Shop",
+            "tip": "Reisebedarf und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasútállomási bolt",
+            "tip": "Utazási kellékek és apró ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul gării",
+            "tip": "Articole de călătorie și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Shop",
+            "tip": "Travel supplies and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan der VGS.",
+          "Das Sachsen-Anhalt-Ticket gilt in vielen regionalen Bussen."
+        ],
+        "hu": [
+          "Ellenőrizze a VGS aktuális buszmenetrendjét.",
+          "A Sachsen-Anhalt-Ticket számos regionális buszjáraton érvényes."
+        ],
+        "ro": [
+          "Verificați orarul actualizat al autobuzelor VGS.",
+          "Biletul Saxonia-Anhalt este valabil pe multe autobuze regionale."
+        ],
+        "en": [
+          "Check the current VGS bus schedule.",
+          "The Saxony-Anhalt Ticket is valid on many regional buses."
+        ]
+      }
+    }
+  }
+}

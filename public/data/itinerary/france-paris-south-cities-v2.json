@@ -1,0 +1,1067 @@
+{
+  "city_id": "france-paris-south-cities-v2",
+  "anchor": {
+    "name": "Paris-Sud (13e & 14e)",
+    "coords": [
+      48.82,
+      2.36
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Italie",
+            "hu": "Place d'Italie",
+            "ro": "Place d'Italie",
+            "en": "Place d'Italie"
+          },
+          "coords": [
+            2.358,
+            48.831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie im Einkaufszentrum Italie Deux für Proviant.",
+            "hu": "Kezdje a napot az Italie Deux központban egy kávéval.",
+            "ro": "Începeți ziua la centrul comercial Italie Deux.",
+            "en": "Start at the Italie Deux mall for some supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Butte-aux-Cailles",
+            "hu": "Butte-aux-Cailles negyed",
+            "ro": "Butte-aux-Cailles",
+            "en": "Butte-aux-Cailles District"
+          },
+          "coords": [
+            2.351,
+            48.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der Street Art an den Fassaden.",
+            "hu": "Figyelje a homlokzatokon látható graffitiket és mozaikokat.",
+            "ro": "Căutați arta stradală pe fațadele clădirilor.",
+            "en": "Look for the street art on the building facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Montsouris",
+            "hu": "Montsouris park",
+            "ro": "Parcul Montsouris",
+            "en": "Parc Montsouris"
+          },
+          "coords": [
+            2.338,
+            48.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Picknick am See ist hier ein Muss.",
+            "hu": "A tóparti pihenő kötelező program a parkban.",
+            "ro": "O pauză lângă lac este obligatorie aici.",
+            "en": "A break by the lake is a must in this park."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Internationale Universitaire",
+            "hu": "Nemzetközi Egyetemi Város",
+            "ro": "Cité Internationale Universitaire",
+            "en": "Cité Internationale Universitaire"
+          },
+          "coords": [
+            2.338,
+            48.819
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Maison du Mexique oder den Schweizer Pavillon.",
+            "hu": "Nézze meg a mexikói házat vagy a svájci pavilont.",
+            "ro": "Vizitați Maison du Mexique sau pavilionul elvețian.",
+            "en": "Visit the Maison du Mexique or the Swiss pavilion."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von Paris",
+            "hu": "Párizsi katakombák",
+            "ro": "Catacombele Parisului",
+            "en": "Catacombs of Paris"
+          },
+          "coords": [
+            2.332,
+            48.834
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets Wochen im Voraus online.",
+            "hu": "Foglaljon jegyet online hetekkel előre.",
+            "ro": "Rezervați biletele online cu câteva săptămâni înainte.",
+            "en": "Book tickets online weeks in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Cartier",
+            "hu": "Cartier Alapítvány",
+            "ro": "Fundația Cartier",
+            "en": "Fondation Cartier"
+          },
+          "coords": [
+            2.331,
+            48.837
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Glasarchitektur von Jean Nouvel.",
+            "hu": "Csodálja meg Jean Nouvel üvegarchitektúráját.",
+            "ro": "Admirați arhitectura din sticlă a lui Jean Nouvel.",
+            "en": "Admire the glass architecture by Jean Nouvel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Tag im weniger touristischen Süden von Paris. Wir beginnen am lebhaften Place d'Italie und steigen hinauf zum charmanten Butte-aux-Cailles, das wie ein Dorf wirkt. Nach einem entspannten Mittagessen im Parc Montsouris erkunden wir die Architektur der Cité Universitaire. Den Nachmittag verbringen wir in der geheimnisvollen Unterwelt der Katakomben, bevor wir moderne Kunst in der Fondation Cartier genießen.",
+        "hu": "Fedezze fel Párizs déli, autentikus arcát. A Place d'Italie forgatagából indulva felsétálunk a Butte-aux-Cailles falusias dombjára. Ebéd után a Montsouris park hűvösében pihenünk, majd a Nemzetközi Egyetemi Város pavilonjait csodáljuk meg. A nap fénypontja a Katakombák rejtélyes világa, végül a Cartier Alapítvány modern üvegpalotájában zárjuk a túrát.",
+        "ro": "O zi în sudul mai puțin turistic al Parisului. Începem în Place d'Italie și urcăm spre fermecătorul Butte-aux-Cailles, care pare un sat. După un prânz relaxat în Parcul Montsouris, explorăm arhitectura Cité Universitaire. După-amiaza o petrecem în lumea misterioasă a Catacombelor, înainte de a ne bucura de artă modernă la Fundația Cartier.",
+        "en": "A day in the less touristy south of Paris. We start at the lively Place d'Italie and climb up to the charming Butte-aux-Cailles, which feels like a village. After a relaxed lunch in Parc Montsouris, we explore the architecture of Cité Universitaire. We spend the afternoon in the mysterious underworld of the Catacombs before enjoying modern art at the Fondation Cartier."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Gladines",
+            "tip": "Baskische Küche und riesige Salate im Butte-aux-Cailles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Gladines",
+            "tip": "Baszk konyha és hatalmas saláták a Butte-aux-Cailles-en."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Gladines",
+            "tip": "Bucătărie bască și salate uriașe în Butte-aux-Cailles."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Gladines",
+            "tip": "Basque cuisine and huge salads in Butte-aux-Cailles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Montsouris See",
+            "tip": "Ruhiger Spot zum Beobachten von Enten und Schwänen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montsouris-tó",
+            "tip": "Csendes hely a kacsák és hattyúk megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Montsouris",
+            "tip": "Loc liniștit pentru a observa rațele și lebădele.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Montsouris Lake",
+            "tip": "Quiet spot for watching ducks and swans.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Italie Deux",
+            "tip": "Großes Einkaufszentrum direkt an der Metro-Station."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Italie Deux",
+            "tip": "Nagy bevásárlóközpont közvetlenül a metróállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Italie Deux",
+            "tip": "Centru comercial mare chiar lângă stația de metrou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Italie Deux",
+            "tip": "Large shopping mall right by the metro station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gutes Schuhwerk ist wichtig, da Butte-aux-Cailles kopfsteingepflastert ist.",
+          "Die Katakomben sind kühl (14°C), bringen Sie eine Jacke mit.",
+          "Sonntags sind viele kleine Bistros im 13. Arrondissement sehr belebt."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott, mert a Butte-aux-Cailles macskaköves.",
+          "A Katakombákban hűvös van (14°C), vigyen magával pulóvert.",
+          "Vasárnap a 13. kerület kis bisztrói nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Încălțămintea comodă este esențială, deoarece Butte-aux-Cailles are piatră cubică.",
+          "În Catacombe este răcoare (14°C), aduceți o jachetă.",
+          "Duminica, multe bistrouri mici din arondismentul 13 sunt foarte animate."
+        ],
+        "en": [
+          "Comfortable shoes are important as Butte-aux-Cailles is cobblestoned.",
+          "The Catacombs are cool (14°C), bring a jacket.",
+          "On Sundays, many small bistros in the 13th arrondissement are very busy."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bibliothèque François-Mitterrand",
+            "hu": "Francia Nemzeti Könyvtár",
+            "ro": "Bibliothèque François-Mitterrand",
+            "en": "François-Mitterrand Library"
+          },
+          "coords": [
+            2.376,
+            48.834
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die vier bücherförmigen Türme am Seine-Ufer.",
+            "hu": "Csodálja meg a Szajna-parti négy könyv alakú tornyot.",
+            "ro": "Admirați cele patru turnuri în formă de carte de pe malul Senei.",
+            "en": "Admire the four book-shaped towers on the Seine bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Italie",
+            "hu": "Place d'Italie",
+            "ro": "Place d'Italie",
+            "en": "Place d'Italie"
+          },
+          "coords": [
+            2.358,
+            48.831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Zentraler Verkehrsknotenpunkt mit vielen Radwegen.",
+            "hu": "Központi közlekedési csomópont sok kerékpárúttal.",
+            "ro": "Nod central de transport cu multe piste de biciclete.",
+            "en": "Central transport hub with many bike paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Butte-aux-Cailles",
+            "hu": "Butte-aux-Cailles",
+            "ro": "Butte-aux-Cailles",
+            "en": "Butte-aux-Cailles"
+          },
+          "coords": [
+            2.351,
+            48.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und gehen Sie die Gassen zu Fuß.",
+            "hu": "Parkolja le a bringát, és sétáljon a szűk utcákban.",
+            "ro": "Lăsați bicicleta și plimbați-vă pe jos pe străduțe.",
+            "en": "Park your bike and walk the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Montsouris",
+            "hu": "Montsouris park",
+            "ro": "Parcul Montsouris",
+            "en": "Parc Montsouris"
+          },
+          "coords": [
+            2.338,
+            48.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radfahren ist auf den Hauptwegen erlaubt.",
+            "hu": "A kerékpározás a főutakon megengedett.",
+            "ro": "Ciclismul este permis pe aleile principale.",
+            "en": "Cycling is allowed on the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Internationale Universitaire",
+            "hu": "Nemzetközi Egyetemi Város",
+            "ro": "Cité Internationale Universitaire",
+            "en": "Cité Internationale Universitaire"
+          },
+          "coords": [
+            2.338,
+            48.819
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Campus mit Weltarchitektur zum Durchradeln.",
+            "hu": "Világhírű építészettel teli kampusz, tökéletes átkerekezni.",
+            "ro": "Un campus cu arhitectură mondială prin care să pedalați.",
+            "en": "A campus with world architecture to cycle through."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von Paris",
+            "hu": "Párizsi katakombák",
+            "ro": "Catacombele Parisului",
+            "en": "Catacombs of Paris"
+          },
+          "coords": [
+            2.332,
+            48.834
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahrradständer gibt es am Place Denfert-Rochereau.",
+            "hu": "Kerékpártárolók a Place Denfert-Rochereau téren találhatók.",
+            "ro": "Suporturi de biciclete se găsesc în Place Denfert-Rochereau.",
+            "en": "Bike racks are available at Place Denfert-Rochereau."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc André Citroën",
+            "hu": "André Citroën park",
+            "ro": "Parcul André Citroën",
+            "en": "Parc André Citroën"
+          },
+          "coords": [
+            2.274,
+            48.841
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fliegen Sie mit dem Heißluftballon über Paris.",
+            "hu": "Repüljön a hőlégballonnal Párizs felett.",
+            "ro": "Zboară cu balonul cu aer cald deasupra Parisului.",
+            "en": "Fly with the hot air balloon over Paris."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die moderne Architektur der BNF mit den grünen Lungen des Südens. Wir starten am Seine-Ufer, durchqueren das dörfliche Butte-aux-Cailles und den Montsouris-Park. Nach einem Halt in der Cité Universitaire und den Katakomben radeln wir nach Westen zum futuristischen Parc André Citroën, wo der Blick aus dem Ballon den perfekten Abschluss bietet.",
+        "hu": "Ez a kerékpáros túra a modern BNF-et köti össze a dél-párizsi zöldövezetekkel. A Szajna-partról indulunk, átvágunk a falusias Butte-aux-Cailles-en és a Montsouris parkon. Az Egyetemi Város és a Katakombák után nyugat felé tekerünk a futurisztikus André Citroën parkig, ahol a hőlégballonról nyíló kilátás tökéletes zárása a napnak.",
+        "ro": "Acest tur cu bicicleta leagă arhitectura modernă a BNF de zonele verzi din sud. Începem pe malul Senei, traversăm cartierul Butte-aux-Cailles și parcul Montsouris. După o oprire la Cité Universitaire și Catacombe, pedalăm spre vest până la parcul futurist André Citroën, unde vederea din balon oferă finalul perfect.",
+        "en": "This bike tour connects the modern architecture of the BNF with the green lungs of the south. We start on the Seine bank, cross the village-like Butte-aux-Cailles and Montsouris Park. After a stop at Cité Universitaire and the Catacombs, we cycle west to the futuristic Parc André Citroën, where the balloon view provides the perfect ending."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie L'Essentiel",
+            "tip": "Hervorragendes Gebäck am Boulevard Auguste-Blanqui."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie L'Essentiel",
+            "tip": "Kiváló péksütemények az Auguste-Blanqui sugárúton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie L'Essentiel",
+            "tip": "Patiserie excelentă pe Boulevard Auguste-Blanqui."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie L'Essentiel",
+            "tip": "Excellent pastries on Boulevard Auguste-Blanqui."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ballon de Paris",
+            "tip": "Stille in 150m Höhe über der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ballon de Paris",
+            "tip": "Csend 150 méter magasban a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ballon de Paris",
+            "tip": "Liniște la 150 m înălțime deasupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ballon de Paris",
+            "tip": "Quiet at 150m height above the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marche Auguste Blanqui",
+            "tip": "Authentischer Pariser Markt (Di, Fr, So)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marche Auguste Blanqui",
+            "tip": "Autentikus párizsi piac (Kedd, Péntek, Vasárnap)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marche Auguste Blanqui",
+            "tip": "Piață pariziană autentică (Marți, Vineri, Duminică)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marche Auguste Blanqui",
+            "tip": "Authentic Parisian market (Tue, Fri, Sun)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Vélib-System, es gibt Stationen an jedem Sight.",
+          "Vermeiden Sie die großen Boulevards während der Stoßzeiten.",
+          "Die Strecke zum Parc André Citroën führt teilweise am Seine-Quai entlang."
+        ],
+        "hu": [
+          "Használja a Vélib rendszert, minden látnivalónál van állomás.",
+          "Kerülje a nagy sugárutakat a csúcsidőben.",
+          "Az André Citroën park felé vezető út részben a Szajna-parton halad."
+        ],
+        "ro": [
+          "Folosiți sistemul Vélib, există stații la fiecare obiectiv.",
+          "Evitați bulevardele mari în orele de vârf.",
+          "Traseul către Parcul André Citroën trece parțial pe malul Senei."
+        ],
+        "en": [
+          "Use the Vélib system, there are stations at every sight.",
+          "Avoid the major boulevards during rush hours.",
+          "The route to Parc André Citroën partly follows the Seine quayside."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bibliothèque François-Mitterrand",
+            "hu": "Francia Nemzeti Könyvtár",
+            "ro": "Bibliothèque François-Mitterrand",
+            "en": "François-Mitterrand Library"
+          },
+          "coords": [
+            2.376,
+            48.834
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus unter der Bibliothek nutzen (teuer, aber sicher).",
+            "hu": "Használja a könyvtár alatti parkolót (drága, de biztonságos).",
+            "ro": "Folosiți parcarea de sub bibliotecă (scumpă, dar sigură).",
+            "en": "Use the parking under the library (expensive but safe)."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Italie",
+            "hu": "Place d'Italie",
+            "ro": "Place d'Italie",
+            "en": "Place d'Italie"
+          },
+          "coords": [
+            2.358,
+            48.831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Italie Deux Parkhaus.",
+            "hu": "Rövid megálló az Italie Deux parkolóházában.",
+            "ro": "Oprire scurtă la parcarea Italie Deux.",
+            "en": "Short stop at the Italie Deux parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Butte-aux-Cailles",
+            "hu": "Butte-aux-Cailles",
+            "ro": "Butte-aux-Cailles",
+            "en": "Butte-aux-Cailles"
+          },
+          "coords": [
+            2.351,
+            48.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie den Hügel zu Fuß.",
+            "hu": "Hagyja az autót a parkolóban, és sétáljon fel a dombra.",
+            "ro": "Lăsați mașina în parcare și explorați dealul pe jos.",
+            "en": "Leave the car in the garage and explore the hill on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Montsouris",
+            "hu": "Montsouris park",
+            "ro": "Parcul Montsouris",
+            "en": "Parc Montsouris"
+          },
+          "coords": [
+            2.338,
+            48.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie entlang des Boulevard Jourdan.",
+            "hu": "Parkoljon a Boulevard Jourdan mentén.",
+            "ro": "Parcați de-a lungul Boulevard Jourdan.",
+            "en": "Park along Boulevard Jourdan."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von Paris",
+            "hu": "Párizsi katakombák",
+            "ro": "Catacombele Parisului",
+            "en": "Catacombs of Paris"
+          },
+          "coords": [
+            2.332,
+            48.834
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Öffentlicher Parkplatz direkt am Place Denfert-Rochereau.",
+            "hu": "Publikus parkoló közvetlenül a Place Denfert-Rochereau-nál.",
+            "ro": "Parcare publică chiar în Place Denfert-Rochereau.",
+            "en": "Public parking right at Place Denfert-Rochereau."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc André Citroën",
+            "hu": "André Citroën park",
+            "ro": "Parcul André Citroën",
+            "en": "Parc André Citroën"
+          },
+          "coords": [
+            2.274,
+            48.841
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Das Parkhaus Citroën Cévennes liegt direkt am Park.",
+            "hu": "A Citroën Cévennes parkolóház közvetlenül a parknál van.",
+            "ro": "Parcarea Citroën Cévennes este chiar lângă parc.",
+            "en": "The Citroën Cévennes parking garage is right by the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route nutzt das Auto, um die Distanzen zwischen den drei großen Bezirken des Südens (13., 14., 15.) zu überbrücken. Wir parken an Clustern wie Butte-aux-Cailles oder Montsouris, um diese zu Fuß zu erkunden. Der Tag endet im Westen der Stadt im weitläufigen André Citroën Park, der mit dem Auto leicht erreichbar ist.",
+        "hu": "Ez az útvonal az autót használja a déli kerületek (13., 14., 15.) közötti távolságok áthidalására. A főbb pontokon (mint Butte-aux-Cailles vagy Montsouris) leparkolunk, és gyalog fedezzük fel a környéket. A napot a város nyugati részén, a tágas André Citroën parkban zárjuk, amely autóval könnyen megközelíthető.",
+        "ro": "Acest traseu folosește mașina pentru a parcurge distanțele dintre cele trei mari districte din sud (13, 14, 15). Parcăm în clustere precum Butte-aux-Cailles sau Montsouris pentru a le explora pe jos. Ziua se încheie în vestul orașului, în parcul spațios André Citroën, ușor accesibil cu mașina.",
+        "en": "This route uses the car to bridge the distances between the three major southern districts (13th, 14th, 15th). We park at clusters like Butte-aux-Cailles or Montsouris to explore them on foot. The day ends in the west of the city in the spacious André Citroën Park, which is easily accessible by car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Merle Moqueur",
+            "tip": "Gemütliches Bistro mit Pariser Flair im Butte-aux-Cailles."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Merle Moqueur",
+            "tip": "Hangulatos bisztró párizsi hangulattal a Butte-aux-Cailles-en."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Merle Moqueur",
+            "tip": "Bistrou primitor cu atmosferă pariziană în Butte-aux-Cailles."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Merle Moqueur",
+            "tip": "Cozy bistro with Parisian flair in Butte-aux-Cailles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Serres",
+            "tip": "Tropische Gewächshäuser im Parc André Citroën.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Serres",
+            "tip": "Trópusi üvegházak az André Citroën parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Serres",
+            "tip": "Sere tropicale în parcul André Citroën.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Serres",
+            "tip": "Tropical greenhouses in Parc André Citroën.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beaugrenelle",
+            "tip": "Modernes Einkaufszentrum in der Nähe vom Parc André Citroën."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beaugrenelle",
+            "tip": "Modern bevásárlóközpont az André Citroën park közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beaugrenelle",
+            "tip": "Centru comercial modern lângă Parcul André Citroën."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beaugrenelle",
+            "tip": "Modern shopping mall near Parc André Citroën."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Crit'Air-Plakette, Paris ist eine Umweltzone.",
+          "Parken am Straßenrand ist fast unmöglich, nutzen Sie Tiefgaragen.",
+          "Vermeiden Sie den Boulevard Périphérique zur Rushhour."
+        ],
+        "hu": [
+          "Ügyeljen a Crit'Air matricára, Párizs környezetvédelmi zóna.",
+          "Az utcai parkolás szinte lehetetlen, használja a mélygarázsokat.",
+          "Kerülje a Boulevard Périphérique-et csúcsidőben."
+        ],
+        "ro": [
+          "Atenție la vigneta Crit'Air, Parisul este zonă cu emisii reduse.",
+          "Parcarea la bordură este aproape imposibilă, folosiți parcări subterane.",
+          "Evitați Boulevard Périphérique la orele de vârf."
+        ],
+        "en": [
+          "Watch out for the Crit'Air sticker, Paris is a low-emission zone.",
+          "Street parking is almost impossible, use underground garages.",
+          "Avoid the Boulevard Périphérique during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bibliothèque François-Mitterrand",
+            "hu": "Francia Nemzeti Könyvtár",
+            "ro": "Bibliothèque François-Mitterrand",
+            "en": "François-Mitterrand Library"
+          },
+          "coords": [
+            2.376,
+            48.834
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Metro-Linie 14 bringt Sie direkt hierher.",
+            "hu": "A 14-es metró közvetlenül ide hoz.",
+            "ro": "Linia 14 de metrou vă aduce direct aici.",
+            "en": "Metro line 14 brings you directly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Italie",
+            "hu": "Place d'Italie",
+            "ro": "Place d'Italie",
+            "en": "Place d'Italie"
+          },
+          "coords": [
+            2.358,
+            48.831
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein wichtiger Umsteigebahnhof für die Linien 5, 6 und 7.",
+            "hu": "Fontos átszállóhely az 5-ös, 6-os és 7-es metróvonalakhoz.",
+            "ro": "Un nod important de schimb pentru liniile 5, 6 și 7.",
+            "en": "An important interchange station for lines 5, 6, and 7."
+          }
+        },
+        {
+          "name": {
+            "de": "Butte-aux-Cailles",
+            "hu": "Butte-aux-Cailles",
+            "ro": "Butte-aux-Cailles",
+            "en": "Butte-aux-Cailles"
+          },
+          "coords": [
+            2.351,
+            48.828
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Station Corvisart (Linie 6).",
+            "hu": "Rövid séta a Corvisart állomástól (6-os metró).",
+            "ro": "Scurtă plimbare de la stația Corvisart (Linia 6).",
+            "en": "Short walk from Corvisart station (Line 6)."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Montsouris",
+            "hu": "Montsouris park",
+            "ro": "Parcul Montsouris",
+            "en": "Parc Montsouris"
+          },
+          "coords": [
+            2.338,
+            48.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Direkt an der RER B Station 'Cité Universitaire'.",
+            "hu": "Közvetlenül az RER B 'Cité Universitaire' megállójánál.",
+            "ro": "Chiar lângă stația RER B 'Cité Universitaire'.",
+            "en": "Right by the RER B station 'Cité Universitaire'."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von Paris",
+            "hu": "Párizsi katakombák",
+            "ro": "Catacombele Parisului",
+            "en": "Catacombs of Paris"
+          },
+          "coords": [
+            2.332,
+            48.834
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Station Denfert-Rochereau (Metro 4, 6 und RER B).",
+            "hu": "Denfert-Rochereau állomás (4-es, 6-os metró és RER B).",
+            "ro": "Stația Denfert-Rochereau (Metrou 4, 6 și RER B).",
+            "en": "Denfert-Rochereau station (Metro 4, 6 and RER B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Cartier",
+            "hu": "Cartier Alapítvány",
+            "ro": "Fundația Cartier",
+            "en": "Fondation Cartier"
+          },
+          "coords": [
+            2.331,
+            48.837
+          ],
+          "category": "museums",
+          "arrive_at": "15:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten zu Fuß von der Station Raspail.",
+            "hu": "Csak 5 perc séta a Raspail állomástól.",
+            "ro": "La doar 5 minute de mers pe jos de stația Raspail.",
+            "en": "Only a 5-minute walk from Raspail station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Metro-Linie 6 und des RER B sind alle Highlights im Süden schnell erreichbar. Wir starten bei der futuristischen BNF, tauchen ein in die Geschichte am Place d'Italie und Butte-aux-Cailles. Nach einer Pause im Montsouris-Park nutzen wir den schnellen Transit zu den Katakomben und beenden die Tour an der Fondation Cartier – alles stressfrei ohne Auto.",
+        "hu": "A 6-os metró és az RER B segítségével a déli rész minden fontos pontja gyorsan elérhető. A futurisztikus BNF-től indulunk, felfedezzük a Place d'Italie és a Butte-aux-Cailles történelmi hangulatát. A Montsouris parkban tartott pihenő után gyorsan átjutunk a Katakombákhoz, és a Cartier Alapítványnál zárjuk a túrát – mindezt autó nélküli kényelemben.",
+        "ro": "Datorită liniei 6 de metrou și RER B, toate punctele importante din sud sunt rapid accesibile. Începem la futurista BNF, explorăm atmosfera istorică din Place d'Italie și Butte-aux-Cailles. După o pauză în Parcul Montsouris, folosim tranzitul rapid către Catacombe și încheiem turul la Fundația Cartier – totul fără stresul mașinii.",
+        "en": "Thanks to Metro line 6 and the RER B, all highlights in the south are quickly accessible. We start at the futuristic BNF, dive into history at Place d'Italie and Butte-aux-Cailles. After a break in Montsouris Park, we take the quick transit to the Catacombs and end the tour at the Fondation Cartier – all stress-free without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Temps des Cerises",
+            "tip": "Legendäres Restaurant im Butte-aux-Cailles mit politischer Geschichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Temps des Cerises",
+            "tip": "Legendás étterem a Butte-aux-Cailles-en, politikai múlttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Temps des Cerises",
+            "tip": "Restaurant legendar în Butte-aux-Cailles cu istorie politică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Temps des Cerises",
+            "tip": "Legendary restaurant in Butte-aux-Cailles with political history."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cité Universitaire Gärten",
+            "tip": "Weitläufige, ruhige Grünflächen zwischen den Pavillons.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egyetemi Város kertjei",
+            "tip": "Hatalmas, csendes zöldterületek a pavilonok között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Cité Universitaire",
+            "tip": "Spații verzi vaste și liniștite între pavilioane.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cité Universitaire Gardens",
+            "tip": "Vast, quiet green spaces between the pavilions.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue du Maine",
+            "tip": "Viele kleine Boutiquen in der Nähe der Katakomben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue du Maine",
+            "tip": "Sok kis butik a Katakombák közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue du Maine",
+            "tip": "Multe buticuri mici lângă Catacombe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue du Maine",
+            "tip": "Many small boutiques near the Catacombs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie einen 'Navigo Easy' Pass für den Tag.",
+          "Die Metro-Linie 6 ist oberirdisch und bietet tolle Ausblicke.",
+          "Der RER B ist oft überfüllt, achten Sie auf Ihre Taschen."
+        ],
+        "hu": [
+          "Vásároljon 'Navigo Easy' bérletet a napra.",
+          "A 6-os metró a felszínen halad, nagyszerű kilátást nyújtva.",
+          "Az RER B gyakran zsúfolt, figyeljen az értékeire."
+        ],
+        "ro": [
+          "Cumpărați un card 'Navigo Easy' pentru întreaga zi.",
+          "Linia 6 de metrou este aeriană și oferă priveliști superbe.",
+          "RER B este adesea aglomerat, aveți grijă la buzunare."
+        ],
+        "en": [
+          "Buy a 'Navigo Easy' pass for the day.",
+          "Metro line 6 is elevated and offers great views.",
+          "RER B is often crowded, watch your belongings."
+        ]
+      }
+    }
+  }
+}

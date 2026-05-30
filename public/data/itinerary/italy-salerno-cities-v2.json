@@ -1,0 +1,1211 @@
+{
+  "city_id": "italy-salerno-cities-v2",
+  "anchor": {
+    "name": "Salerno",
+    "coords": [
+      14.7594,
+      40.678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Comunale di Salerno",
+            "hu": "Salerno Városi Park",
+            "ro": "Grădina Municipală Salerno",
+            "en": "Villa Comunale di Salerno"
+          },
+          "coords": [
+            14.7538,
+            40.6775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die üppigen Gärten nahe dem Meer.",
+            "hu": "Sétáljon a dús kertekben a tengerpart mellett.",
+            "ro": "Plimbați-vă prin grădinile luxuriante de lângă mare.",
+            "en": "Stroll through the lush gardens near the seafront."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Giuseppe Verdi",
+            "hu": "Giuseppe Verdi Színház",
+            "ro": "Teatrul Giuseppe Verdi",
+            "en": "Giuseppe Verdi Theatre"
+          },
+          "coords": [
+            14.7532,
+            40.6772
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prachtvolle neoklassizistische Fassade.",
+            "hu": "Csodálja meg a pompás neoklasszicista homlokzatot.",
+            "ro": "Admirați fațada neoclasică splendidă.",
+            "en": "Admire the splendid neoclassical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino della Minerva",
+            "hu": "Minerva kertje",
+            "ro": "Grădina Minervei",
+            "en": "Minerva's Garden"
+          },
+          "coords": [
+            14.7565,
+            40.6795
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie den ältesten botanischen Garten Europas.",
+            "hu": "Látogasson el Európa legrégebbi botanikus kertjébe.",
+            "ro": "Vizitați cea mai veche grădină botanică din Europa.",
+            "en": "Visit the oldest botanical garden in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Sofia Komplex",
+            "hu": "Santa Sofia Komplexum",
+            "ro": "Complexul Santa Sofia",
+            "en": "Santa Sofia Complex"
+          },
+          "coords": [
+            14.7585,
+            40.679
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ehemaliges Kloster, heute ein modernes Kulturzentrum.",
+            "hu": "Egykori kolostor, ma modern kulturális központ.",
+            "ro": "Fostă mănăstire, acum centru cultural modern.",
+            "en": "Former monastery, now a modern cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Salerno",
+            "hu": "Salernói székesegyház",
+            "ro": "Catedrala din Salerno",
+            "en": "Salerno Cathedral"
+          },
+          "coords": [
+            14.7608,
+            40.6798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta des Apostels Matthäus.",
+            "hu": "Látogassa meg Máté apostol kriptáját.",
+            "ro": "Vizitați cripta Sfântului Apostol Matei.",
+            "en": "Visit the crypt of St. Matthew the Apostle."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzielles Archäologisches Museum",
+            "hu": "Tartományi Régészeti Múzeum",
+            "ro": "Muzeul Provincial de Arheologie",
+            "en": "Provincial Archaeological Museum"
+          },
+          "coords": [
+            14.7615,
+            40.6785
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie den berühmten Apollo-Bronzekopf.",
+            "hu": "Nézze meg a híres Apollón bronzfejet.",
+            "ro": "Vedeți celebrul cap de bronz al lui Apollo.",
+            "en": "See the famous bronze head of Apollo."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giorgio",
+            "hu": "San Giorgio templom",
+            "ro": "Biserica San Giorgio",
+            "en": "San Giorgio Church"
+          },
+          "coords": [
+            14.759,
+            40.6782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die prachtvollste Barockkirche der Stadt.",
+            "hu": "A város legpompásabb barokk temploma.",
+            "ro": "Cea mai frumoasă biserică barocă din oraș.",
+            "en": "The most beautiful Baroque church in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Trieste",
+            "hu": "Trieste tengerparti sétány",
+            "ro": "Faleza Trieste",
+            "en": "Lungomare Trieste"
+          },
+          "coords": [
+            14.763,
+            40.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Hafen.",
+            "hu": "Élvezze a naplementét a kikötőben.",
+            "ro": "Bucurați-vă de apusul de soare la port.",
+            "en": "Enjoy the sunset by the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im grünen Herzen der Villa Comunale, bevor Sie die neoklassische Eleganz des Verdi-Theaters bewundern. Mittags steigen Sie zum Giardino della Minerva auf, um Heilkräuter und Aussichten zu entdecken. Der Nachmittag gehört der prachtvollen Kathedrale und den archäologischen Schätzen. Zum Abschluss schlendern Sie über den Lungomare Trieste im warmen Licht des Abends.",
+        "hu": "A napot a Villa Comunale zöld szívében kezdi, majd megcsodálja a Verdi Színház neoklasszikus eleganciáját. Délben felkapaszkodik a Minerva-kertbe, hogy gyógynövényeket és kilátást fedezzen fel. A délután a pompás székesegyházé és a régészeti kincseké. Zárásként sétáljon végig a Trieste sétányon az este meleg fényeiben.",
+        "ro": "Ziua începe în inima verde a Villei Comunale, înainte de a admira eleganța neoclasică a Teatrului Verdi. La prânz, urcați la Grădina Minervei pentru a descoperi plante medicinale și priveliști. După-amiaza aparține splendidei Catedrale și comorilor arheologice. La final, plimbați-vă pe Lungomare Trieste în lumina caldă a serii.",
+        "en": "Your day begins in the green heart of Villa Comunale before admiring the neoclassical elegance of the Verdi Theatre. At midday, climb to Minerva's Garden to discover medicinal herbs and views. The afternoon belongs to the magnificent Cathedral and archaeological treasures. To finish, stroll along Lungomare Trieste in the warm evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Frische Pasta mit Meeresfrüchten, eine Spezialität der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Friss tészta tenger gyümölcseivel, a partvidék specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Paste proaspete cu fructe de mare, o specialitate a coastei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Scialatielli ai Frutti di Mare",
+            "tip": "Fresh pasta with seafood, a specialty of the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Giardino della Minerva",
+            "tip": "Ruhe zwischen terrassierten Kräutergärten.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Minerva kertje",
+            "tip": "Csend a teraszos fűszerkertek között.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Minervei",
+            "tip": "Liniște printre grădinile de plante medicinale terasate.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Minerva's Garden",
+            "tip": "Tranquility among terraced herb gardens.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Via dei Mercanti",
+            "tip": "Die historische Einkaufsstraße mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Via dei Mercanti",
+            "tip": "A történelmi bevásárlóutca helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Via dei Mercanti",
+            "tip": "Strada istorică de cumpărături cu produse de artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Via dei Mercanti",
+            "tip": "The historical shopping street with local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen der Altstadt.",
+          "Die meisten Sehenswürdigkeiten machen eine Mittagspause.",
+          "Probieren Sie das lokale Eis am Lungomare.",
+          "Abends füllt sich die Via dei Mercanti für die 'Passeggiata'."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros meredek utcáihoz.",
+          "A legtöbb látnivaló ebédszünetet tart.",
+          "Kóstolja meg a helyi fagyit a tengerparti sétányon.",
+          "Este a Via dei Mercanti megtelik a korzózókkal."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte din centrul vechi.",
+          "Majoritatea obiectivelor turistice au pauză de prânz.",
+          "Încercați înghețata locală pe faleză.",
+          "Seara, Via dei Mercanti se umple pentru 'Passeggiata'."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep alleys of the old town.",
+          "Most sights take a midday break.",
+          "Try the local gelato on the seafront promenade.",
+          "In the evening, Via dei Mercanti fills up for the 'Passeggiata'."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lungomare Trieste",
+            "hu": "Trieste tengerparti sétány",
+            "ro": "Faleza Trieste",
+            "en": "Lungomare Trieste"
+          },
+          "coords": [
+            14.7635,
+            40.6755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekt für eine morgendliche Fahrt entlang des Meeres.",
+            "hu": "Tökéletes egy reggeli tekeréshez a tenger mentén.",
+            "ro": "Perfect pentru o plimbare matinală cu bicicleta pe malul mării.",
+            "en": "Perfect for a morning ride along the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo di Città",
+            "hu": "Városháza",
+            "ro": "Palatul Primăriei",
+            "en": "Palazzo di Città"
+          },
+          "coords": [
+            14.755,
+            40.677
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Prachtvolles Gebäude im faschistischen Stil.",
+            "hu": "Pompás épület fasiszta stílusban.",
+            "ro": "Clădire splendidă în stil fascist.",
+            "en": "Magnificent building in fascist style."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Városi Park",
+            "ro": "Grădina Municipală",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            14.7538,
+            40.6775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und genießen Sie den Schatten.",
+            "hu": "Tegye le a biciklit és élvezze az árnyékot.",
+            "ro": "Parcați bicicleta și bucurați-vă de umbră.",
+            "en": "Park your bike and enjoy the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Salerno",
+            "hu": "Salernói székesegyház",
+            "ro": "Catedrala din Salerno",
+            "en": "Salerno Cathedral"
+          },
+          "coords": [
+            14.7608,
+            40.6798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt im Herzen des Zentrums.",
+            "hu": "A város jelképe a központ szívében.",
+            "ro": "Simbolul orașului în inima centrului.",
+            "en": "The landmark of the city in the heart of the center."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giorgio",
+            "hu": "San Giorgio templom",
+            "ro": "Biserica San Giorgio",
+            "en": "San Giorgio Church"
+          },
+          "coords": [
+            14.759,
+            40.6782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für barocke Fresken.",
+            "hu": "Rövid megálló a barokk freskókhoz.",
+            "ro": "Oprire scurtă pentru fresce baroce.",
+            "en": "Short stop for Baroque frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Arechi",
+            "hu": "Arechi-vár",
+            "ro": "Castelul Arechi",
+            "en": "Arechi Castle"
+          },
+          "coords": [
+            14.754,
+            40.684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Herausfordernde Steigung, aber die Aussicht lohnt sich!",
+            "hu": "Kihívást jelentő emelkedő, de a kilátás megéri!",
+            "ro": "Urcare provocatoare, dar priveliștea merită!",
+            "en": "Challenging climb, but the view is worth it!"
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Trieste (Südende)",
+            "hu": "Trieste tengerparti sétány (déli rész)",
+            "ro": "Faleza Trieste (capătul sudic)",
+            "en": "Lungomare Trieste (South end)"
+          },
+          "coords": [
+            14.768,
+            40.672
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang am Wasser.",
+            "hu": "Pihentető lezárás a víznél.",
+            "ro": "Final relaxant lângă apă.",
+            "en": "Relaxing finish by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie entlang der Meeresbrise des Lungomare zum Palazzo di Città. Nach einer Pause in der Villa Comunale erkunden Sie die Kathedrale. Die größte Herausforderung ist die Fahrt hinauf zum Castello di Arechi, belohnt mit dem besten Panorama der Stadt, bevor Sie zum Hafen zurückkehren.",
+        "hu": "Ez a kerékpártúra a tengeri szellő kíséretében vezet a Trieste sétányon a Városházáig. A Városi Parkban tartott pihenő után felfedezi a székesegyházat. A legnagyobb kihívás az Arechi-várba való feljutás, amelyet a város legjobb panorámája hálál meg, mielőtt visszatérne a kikötőbe.",
+        "ro": "Acest tur cu bicicleta vă conduce de-a lungul brizei mării pe Lungomare până la Primărie. După o pauză în Villa Comunale, explorați Catedrala. Cea mai mare provocare este urcarea la Castelul Arechi, răsplătită cu cea mai bună panoramă a orașului, înainte de a reveni în port.",
+        "en": "This bike tour takes you along the sea breeze of Lungomare to the City Hall. After a break in Villa Comunale, explore the Cathedral. The biggest challenge is the ride up to Arechi Castle, rewarded with the city's best panorama before returning to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sfogliatella Santa Rosa",
+            "tip": "Gebäck aus der Region, gefüllt mit Creme und Sauerkirschen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sfogliatella Santa Rosa",
+            "tip": "Regionális sütemény, krémmel és meggyel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sfogliatella Santa Rosa",
+            "tip": "Produs de patiserie regional, umplut cu cremă și vișine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sfogliatella Santa Rosa",
+            "tip": "Regional pastry filled with cream and sour cherries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panoramaterrasse Castello",
+            "tip": "Weitblick über den Golf von Salerno.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vár panorámaterasza",
+            "tip": "Kilátás a Salernói-öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa panoramică a Castelului",
+            "tip": "Vedere panoramică asupra Golfului Salerno.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Panoramic Terrace",
+            "tip": "Wide view over the Gulf of Salerno.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt am Hafen",
+            "tip": "Authentisches Erlebnis am frühen Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac a kikötőben",
+            "tip": "Autentikus élmény kora délelőtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește din port",
+            "tip": "Experiență autentică în cursul dimineții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market at the Harbor",
+            "tip": "Authentic experience in the early morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Lungomare hat breite Wege, ideal zum Radfahren.",
+          "Meiden Sie die Hauptverkehrsstraßen während der Stoßzeiten.",
+          "Die Fahrt zum Schloss erfordert gute Kondition oder ein E-Bike.",
+          "Nutzen Sie die Fahrradständer nahe der Kathedrale."
+        ],
+        "hu": [
+          "A tengerparti sétányon széles utak vannak, ideális biciklizéshez.",
+          "Kerülje a főutakat a csúcsforgalom idején.",
+          "A várba való feljutás jó kondíciót vagy elektromos biciklit igényel.",
+          "Használja a székesegyház közeli kerékpártárolókat."
+        ],
+        "ro": [
+          "Faleza are alei late, ideale pentru mersul cu bicicleta.",
+          "Evitați străzile principale în orele de vârf.",
+          "Urcarea la castel necesită o condiție fizică bună sau o bicicletă electrică.",
+          "Folosiți suporturile de biciclete de lângă Catedrală."
+        ],
+        "en": [
+          "The seafront has wide paths, ideal for cycling.",
+          "Avoid main roads during peak hours.",
+          "The ride to the castle requires good fitness or an e-bike.",
+          "Use the bike racks near the Cathedral."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Arechi",
+            "hu": "Arechi-vár",
+            "ro": "Castelul Arechi",
+            "en": "Arechi Castle"
+          },
+          "coords": [
+            14.754,
+            40.684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Schloss und genießen Sie die kühle Morgenbrise.",
+            "hu": "Parkoljon közvetlenül a várnál és élvezze a hűvös reggeli szellőt.",
+            "ro": "Parcați direct la castel și bucurați-vă de briza răcoroasă a dimineții.",
+            "en": "Park directly at the castle and enjoy the cool morning breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Salerno (Cluster Altstadt)",
+            "hu": "Salernói székesegyház (Óváros klaszter)",
+            "ro": "Catedrala din Salerno (Cluster Centru Vechi)",
+            "en": "Salerno Cathedral (Old Town Cluster)"
+          },
+          "coords": [
+            14.7608,
+            40.6798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am 'Piazza Amendola' und erkunden Sie das Zentrum zu Fuß.",
+            "hu": "Parkoljon a Piazza Amendolán és fedezze fel a központot gyalog.",
+            "ro": "Parcați la 'Piazza Amendola' și explorați centrul pe jos.",
+            "en": "Park at 'Piazza Amendola' and explore the center on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzielles Archäologisches Museum",
+            "hu": "Tartományi Régészeti Múzeum",
+            "ro": "Muzeul Provincial de Arheologie",
+            "en": "Provincial Archaeological Museum"
+          },
+          "coords": [
+            14.7615,
+            40.6785
+          ],
+          "category": "museums",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg von der Kathedrale entfernt.",
+            "hu": "Csak egy rövid séta a székesegyháztól.",
+            "ro": "Doar o scurtă plimbare de la Catedrală.",
+            "en": "Just a short walk from the Cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giorgio",
+            "hu": "San Giorgio templom",
+            "ro": "Biserica San Giorgio",
+            "en": "San Giorgio Church"
+          },
+          "coords": [
+            14.759,
+            40.6782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Barocke Juwele in Gehweite.",
+            "hu": "Barokk ékszerdoboz sétatávolságra.",
+            "ro": "Bijuterie barocă la mică distanță de mers pe jos.",
+            "en": "Baroque jewel within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale (Cluster West)",
+            "hu": "Városi Park (Nyugati klaszter)",
+            "ro": "Grădina Municipală (Cluster Vest)",
+            "en": "Villa Comunale (West Cluster)"
+          },
+          "coords": [
+            14.7538,
+            40.6775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Fahren Sie zum Hafenparkplatz.",
+            "hu": "Hajtson a kikötői parkolóhoz.",
+            "ro": "Conduceți spre parcarea din port.",
+            "en": "Drive to the harbor parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino della Minerva",
+            "hu": "Minerva kertje",
+            "ro": "Grădina Minervei",
+            "en": "Minerva's Garden"
+          },
+          "coords": [
+            14.7565,
+            40.6795
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang bergauf von der Villa Comunale.",
+            "hu": "Séta felfelé a Városi Parkból.",
+            "ro": "Plimbare la deal de la Grădina Municipală.",
+            "en": "Walk uphill from Villa Comunale."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo di Città",
+            "hu": "Városháza",
+            "ro": "Palatul Primăriei",
+            "en": "Palazzo di Città"
+          },
+          "coords": [
+            14.755,
+            40.677
+          ],
+          "category": "famous residences",
+          "arrive_at": "17:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Rückkehr zum Parkplatz über die Architektur des 20. Jhd.",
+            "hu": "Visszatérés a parkolóhoz a 20. századi építészeten át.",
+            "ro": "Revenire la parcare prin arhitectura secolului XX.",
+            "en": "Return to parking via 20th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Trieste",
+            "hu": "Trieste tengerparti sétány",
+            "ro": "Faleza Trieste",
+            "en": "Lungomare Trieste"
+          },
+          "coords": [
+            14.763,
+            40.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Letzter Stopp für ein Abendessen am Meer.",
+            "hu": "Utolsó megálló egy tengerparti vacsorához.",
+            "ro": "Ultima oprire pentru o cină la malul mării.",
+            "en": "Last stop for dinner by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie zuerst das hochgelegene Castello di Arechi für den perfekten Überblick. Danach nutzen Sie Park-Cluster: Zuerst in der Altstadt für Kathedrale und Museum, dann am Westhafen für die Villa Comunale und den Minerva-Garten. Den Tag beenden Sie entspannt am Lungomare.",
+        "hu": "Autóval először a magasan fekvő Arechi-várat éri el a tökéletes áttekintéshez. Ezután parkolási klasztereket használ: először az óvárosban a székesegyházhoz és múzeumhoz, majd a nyugati kikötőnél a Városi Parkhoz és Minerva-kerthez. A napot pihentetően zárja a tengerparti sétányon.",
+        "ro": "Cu mașina, ajungeți mai întâi la Castelul Arechi situat la înălțime pentru o vedere de ansamblu perfectă. Apoi folosiți clustere de parcare: mai întâi în centrul vechi pentru Catedrală și Muzeu, apoi la portul de vest pentru Grădina Municipală și Grădina Minervei. Încheiați ziua relaxat pe faleză.",
+        "en": "By car, you first reach the high Arechi Castle for a perfect overview. Then use parking clusters: first in the old town for the Cathedral and Museum, then at the west harbor for Villa Comunale and Minerva's Garden. End the day relaxed on the seafront promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mozzarella di Bufala Campana",
+            "tip": "In Salerno finden Sie die beste Büffelmozzarella der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mozzarella di Bufala Campana",
+            "tip": "Salernóban találja a régió legjobb bivalymozzarelláját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mozzarella di Bufala Campana",
+            "tip": "În Salerno veți găsi cea mai bună mozzarella de bivoliță din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mozzarella di Bufala Campana",
+            "tip": "In Salerno, you'll find the region's best buffalo mozzarella."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Castello di Arechi Gärten",
+            "tip": "Ruhiger Spaziergang abseits des Stadtlärms.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arechi-vár kertjei",
+            "tip": "Csendes séta távol a város zajától.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Arechi",
+            "tip": "Plimbare liniștită departe de zgomotul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arechi Castle Gardens",
+            "tip": "Quiet walk away from city noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Die moderne Fußgängerzone zum Shoppen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Modern sétálóutca vásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "Zona pietonală modernă pentru cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corso Vittorio Emanuele",
+            "tip": "The modern pedestrian zone for shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann schwierig sein, nutzen Sie bewachte Parkhäuser.",
+          "Die Fahrt zum Schloss ist eng und kurvig, fahren Sie vorsichtig.",
+          "ZTL-Zonen (verkehrsberuhigt) in der Altstadt beachten!",
+          "Parkplätze am Lungomare sind abends sehr begehrt."
+        ],
+        "hu": [
+          "A parkolás a központban nehéz lehet, használjon őrzött parkolóházakat.",
+          "A várhoz vezető út szűk és kanyargós, vezessen óvatosan.",
+          "Ügyeljen a ZTL (forgalomkorlátozott) zónákra az óvárosban!",
+          "A tengerparti parkolók este nagyon népszerűek."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă, folosiți parcări păzite.",
+          "Drumul spre castel este îngust și virajat, conduceți cu atenție.",
+          "Atenție la zonele ZTL (trafic limitat) din centrul vechi!",
+          "Locurile de parcare pe faleză sunt foarte căutate seara."
+        ],
+        "en": [
+          "Parking in the center can be difficult, use guarded parking garages.",
+          "The drive to the castle is narrow and winding, drive carefully.",
+          "Watch out for ZTL (restricted traffic) zones in the old town!",
+          "Parking spaces on the seafront are very popular in the evening."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Salerno",
+            "hu": "Salernói székesegyház",
+            "ro": "Catedrala din Salerno",
+            "en": "Salerno Cathedral"
+          },
+          "coords": [
+            14.7608,
+            40.6798
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im religiösen Herz der Stadt.",
+            "hu": "Kiindulópont a város vallási szívében.",
+            "ro": "Punct de plecare în inima religioasă a orașului.",
+            "en": "Starting point in the religious heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Sofia Komplex",
+            "hu": "Santa Sofia Komplexum",
+            "ro": "Complexul Santa Sofia",
+            "en": "Santa Sofia Complex"
+          },
+          "coords": [
+            14.7585,
+            40.679
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die historischen Gassen.",
+            "hu": "Rövid séta a történelmi utcákon keresztül.",
+            "ro": "O scurtă plimbare prin străzile istorice.",
+            "en": "A short walk through the historical alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Arechi",
+            "hu": "Arechi-vár",
+            "ro": "Castelul Arechi",
+            "en": "Arechi Castle"
+          },
+          "coords": [
+            14.754,
+            40.684
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 19 zum Schloss hinauf.",
+            "hu": "Szálljon fel a 19-es buszra a várhoz.",
+            "ro": "Luați autobuzul 19 până la castel.",
+            "en": "Take bus 19 up to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Giuseppe Verdi",
+            "hu": "Giuseppe Verdi Színház",
+            "ro": "Teatrul Giuseppe Verdi",
+            "en": "Giuseppe Verdi Theatre"
+          },
+          "coords": [
+            14.7532,
+            40.6772
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück in die Unterstadt.",
+            "hu": "Busszal vissza az alsóvárosba.",
+            "ro": "Cu autobuzul înapoi în orașul de jos.",
+            "en": "By bus back to the lower town."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Comunale",
+            "hu": "Városi Park",
+            "ro": "Grădina Municipală",
+            "en": "Villa Comunale"
+          },
+          "coords": [
+            14.7538,
+            40.6775
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Grüne Oase direkt neben der Bushaltestelle.",
+            "hu": "Zöld oázis közvetlenül a buszmegálló mellett.",
+            "ro": "Oază verde chiar lângă stația de autobuz.",
+            "en": "Green oasis right next to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Provinzielles Archäologisches Museum",
+            "hu": "Tartományi Régészeti Múzeum",
+            "ro": "Muzeul Provincial de Arheologie",
+            "en": "Provincial Archaeological Museum"
+          },
+          "coords": [
+            14.7615,
+            40.6785
+          ],
+          "category": "museums",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linienbusse entlang der Hauptstraße.",
+            "hu": "Használja a menetrend szerinti buszokat a főút mentén.",
+            "ro": "Folosiți autobuzele de linie de-a lungul străzii principale.",
+            "en": "Use the local buses along the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Lungomare Trieste",
+            "hu": "Trieste tengerparti sétány",
+            "ro": "Faleza Trieste",
+            "en": "Lungomare Trieste"
+          },
+          "coords": [
+            14.763,
+            40.676
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang zum Abschluss bis zum Bahnhof.",
+            "hu": "Záró séta a vasútállomásig.",
+            "ro": "Plimbare finală până la gară.",
+            "en": "Closing stroll to the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Bus und Fußwegen erkunden Sie Salerno effizient. Sie starten in der Altstadt, fahren mit dem Bus hinauf zum majestätischen Arechi-Schloss und kehren zurück, um die kulturellen Highlights der Unterstadt zu sehen. Der Tag endet mit einem entspannten Spaziergang am Lungomare in Richtung Bahnhof.",
+        "hu": "Busszal és gyalogosan hatékonyan fedezheti fel Salernót. Az óvárosban kezd, busszal felmegy a fenséges Arechi-várhoz, majd visszatér, hogy megnézze az alsóváros kulturális látnivalóit. A napot pihentető sétával zárja a tengerparton a vasútállomás felé.",
+        "ro": "Cu autobuzul și pe jos explorați Salerno în mod eficient. Începeți în centrul vechi, luați autobuzul până la maiestuosul Castel Arechi și reveniți pentru a vedea atracțiile culturale din orașul de jos. Ziua se încheie cu o plimbare relaxantă pe faleză spre gară.",
+        "en": "Using bus and walking paths, explore Salerno efficiently. Start in the old town, take the bus up to the majestic Arechi Castle, and return to see the lower town's cultural highlights. The day ends with a relaxed stroll along the seafront towards the train station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cuoppo di Pesce Fritto",
+            "tip": "Frittierter Fisch in einer Papiertüte, idealer Snack am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cuoppo di Pesce Fritto",
+            "tip": "Sült hal papírtölcsérben, ideális nasi a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cuoppo di Pesce Fritto",
+            "tip": "Pește prăjit într-un cornet de hârtie, gustarea ideală la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cuoppo di Pesce Fritto",
+            "tip": "Fried fish in a paper cone, ideal snack by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang der Kathedrale",
+            "tip": "Ein Ort der Stille im Herzen der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Székesegyház keresztfolyosója",
+            "tip": "A csend helye a város szívében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cloastrul Catedralei",
+            "tip": "Un loc de liniște în inima orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Cloister",
+            "tip": "A place of silence in the heart of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antiquitätenläden",
+            "tip": "In den Gassen hinter der Kathedrale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antikváriumok",
+            "tip": "A székesegyház mögötti kisutcákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de antichități",
+            "tip": "Pe străduțele din spatele Catedralei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antique Shops",
+            "tip": "In the alleys behind the Cathedral."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab im 'Tabacchi' oder Kiosk.",
+          "Die App 'Unico Campania' hilft bei Fahrplänen.",
+          "Der Bus 19 zum Schloss fährt unregelmäßig, Plan checken!",
+          "Die Züge nach Vietri sul Mare sind eine gute Ergänzung."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre a 'Tabacchi'-ban vagy újságosnál.",
+          "Az 'Unico Campania' app segít a menetrendekben.",
+          "A 19-es busz a várhoz ritkán jár, ellenőrizze a tervet!",
+          "A Vietri sul Maréba tartó vonatok jó kiegészítő programot jelentenek."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la 'Tabacchi' sau chioșc.",
+          "Aplicația 'Unico Campania' vă ajută cu orarele.",
+          "Autobuzul 19 spre castel circulă neregulat, verificați programul!",
+          "Trenurile spre Vietri sul Mare sunt o completare bună."
+        ],
+        "en": [
+          "Buy bus tickets in advance at a 'Tabacchi' or kiosk.",
+          "The 'Unico Campania' app helps with schedules.",
+          "Bus 19 to the castle runs irregularly, check the schedule!",
+          "Trains to Vietri sul Mare are a good addition."
+        ]
+      }
+    }
+  }
+}
