@@ -1121,6 +1121,16 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     }
     return "";
   }
+  // Itinerary stop image: photos were fetched per stop (name + city_id coords)
+  // into sight-image-map.json. The key was built from the stop name in some
+  // language (often EN), so try every name variant to find the matching image.
+  function stopImg(rawName: any): string | undefined {
+    const variants = typeof rawName === "string"
+      ? [rawName]
+      : (rawName && typeof rawName === "object" ? Object.values(rawName).filter((v) => typeof v === "string") : []);
+    for (const n of variants) { const u = lookupSightImage(n as string, poi.id); if (u) return u; }
+    return undefined;
+  }
   function renderStopCard(s: any, i: number, prevCoords: [number, number] | null, mode: string): string {
     const name = pickStr(s.name);
     const tip = pickStr((s.tip_5lang || {})[lang] || s.tip_5lang);
@@ -1146,7 +1156,12 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     const moreHtml = moreBtns.length ? `<details class="plz-itin-more"><summary>🔗</summary>${moreBtns.join("")}</details>` : "";
     const stopKey = `${poi.id}::${mode}::${i}::${name}`;
     const checkBtn = `<button class="plz-itin-check" type="button" data-stop="${escapeHtml(stopKey)}" aria-label="mark visited" title="✓"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></button>`;
-    return `<div class="plz-itin-card" data-type="sight" data-stop-card="${escapeHtml(stopKey)}">${checkBtn}<div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(name)}</h3><div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
+    const imgUrl = stopImg(s.name);
+    const imgAlt = `${name} — ${pickStr(poi.name)}`;
+    const imgHtml = imgUrl
+      ? `<button type="button" class="plz-sight-img-btn plz-itin-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(imgAlt)}" aria-label="${escapeHtml(name)}" style="display:block;width:100%;margin:4px 0 6px;padding:0;border:0;background:none;cursor:zoom-in"><img src="${escapeHtml(imgUrl)}" alt="${escapeHtml(imgAlt)}" loading="lazy" style="width:100%;height:130px;object-fit:cover;border-radius:10px;display:block"/></button>`
+      : "";
+    return `<div class="plz-itin-card" data-type="sight" data-stop-card="${escapeHtml(stopKey)}">${checkBtn}<div class="plz-itin-cat">${icon}</div><div class="plz-itin-time">${escapeHtml(s.arrive_at)} · ${s.stay_min}'</div><h3>${escapeHtml(name)}</h3>${imgHtml}<div class="plz-itin-tip">${escapeHtml(tip)}</div><div class="plz-itin-links">${visibleBtns.join("")}${moreHtml}</div></div>`;
   }
 
   function renderExtras(picks: any, kind: string): string {
