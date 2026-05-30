@@ -748,18 +748,25 @@ const GEN_LIMIT = Number(process.env.GEN_LIMIT || 0);
 // is not a route in output:"export" mode and 404s).
 const MAP_SLUGS: Set<string> = (() => {
   const out = new Set<string>();
-  try {
-    for (const f of fs.readdirSync(path.resolve("app"))) {
-      if (f.endsWith("-map")) out.add(f);
-    }
-  } catch {}
+  // Static country/metro maps live in public/ (build-static-maps output), NOT app/.
+  // (Reading from app/ left this empty, so every map CTA 404'd to a state path.)
+  for (const dir of ["public", "app"]) {
+    try {
+      for (const f of fs.readdirSync(path.resolve(dir))) {
+        if (f.endsWith("-map")) out.add(f);
+      }
+    } catch {}
+  }
   return out;
 })();
-// Manual aliases where the folder name does not match a countryId with dashes
-// stripped (e.g. United Arab Emirates → "uae-map" not "unitedarabemirates-map").
+// Manual aliases where the map folder name does not match the English countryId
+// with dashes stripped (UAE/DRC) or uses a native-language slug (de→deutschland,
+// hu→magyarorszag — the two primary-language maps).
 const COUNTRY_MAP_ALIASES: Record<string, string> = {
   "united-arab-emirates": "uae-map",
   "democratic-republic-of-congo": "drcongo-map",
+  "germany": "deutschland-map",
+  "hungary": "magyarorszag-map",
 };
 function countryMapUrl(countryId: string): string | null {
   const alias = COUNTRY_MAP_ALIASES[countryId];
