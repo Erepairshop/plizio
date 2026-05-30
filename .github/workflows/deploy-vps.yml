@@ -219,14 +219,23 @@ jobs:
           fi
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
-          # Safer cleanup: only delete dirs older than 24h AND not the current target.
-          # The previous `ls -1dt | tail | xargs rm` somehow deleted the just-deployed
-          # dir on 2026-05-19 (170731 vanished moments after DEPLOYED logged), leaving
-          # a dangling symlink → 404 on the live site. Disable mass-deletion until
-          # rootcause is found; keep 24h-stale prune so disk doesn't grow forever.
+          # Release rotation: keep the newest KEEP_RELEASES, delete older ones.
+          # Count-based (not age-based): many same-day deploys used to pile up under
+          # the old 24h-stale rule and filled the disk (2026-05-30 incident).
+          # The current target is ALWAYS protected by explicit resolved-path match,
+          # so a deploy/prune race can never delete the live release (2026-05-19 bug).
+          KEEP="${KEEP_RELEASES:-2}"
           CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
-          find "${{ env.RELEASE_BASE }}/releases" -mindepth 1 -maxdepth 1 -type d -mmin +1440 \
-            ! -path "$CURRENT_TARGET" -print -exec rm -rf {} + || true
+          n=0
+          for d in $(ls -1dt "${{ env.RELEASE_BASE }}/releases"/*/ 2>/dev/null); do
+            full=$(readlink -f "$d")
+            n=$((n+1))
+            if [ "$full" = "$CURRENT_TARGET" ]; then continue; fi   # never delete live release
+            if [ "$n" -le "$KEEP" ]; then continue; fi              # keep the newest KEEP
+            echo "pruning old release: $full"
+            rm -rf "$full" || true
+          done
+          echo "release rotation: kept newest $KEEP (+ current), $(ls -1d "${{ env.RELEASE_BASE }}/releases"/*/ 2>/dev/null | wc -l) remain"
           # Restore static nginx config if proxy was set
           if ! cmp -s deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
             sudo cp deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf
