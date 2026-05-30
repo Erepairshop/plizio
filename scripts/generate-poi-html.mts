@@ -612,6 +612,48 @@ function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }
   return out;
 }
 
+// Nearby CITIES (settlements only) for the PlizioGo "explore nearby" block:
+// "go visit this city" suggestions that link to our own POI HTML so the user
+// discovers an unfamiliar town from within our system. City-like types only —
+// no streets/landmarks. Grid is already indexable-only (buildNearbyGrid).
+const CITY_TYPES = new Set(["city", "capital", "town", "village", "municipality", "commune"]);
+function getNearbyCities(poi: POI, limit = 6, maxKm = 90, minKm = 4): { p: POI; km: number }[] {
+  const c0 = coordLatLon(poi.coords);
+  if (!c0) return [];
+  const [lat0, lon0] = c0;
+  if (!_nearbyGrid) _nearbyGrid = buildNearbyGrid();
+  const cosLat = Math.max(0.2, Math.cos(lat0 * Math.PI / 180));
+  const latR = Math.ceil(maxKm / 111) + 1;
+  const lonR = Math.ceil(maxKm / (111 * cosLat)) + 1;
+  const flat = Math.floor(lat0), flon = Math.floor(lon0);
+  const found: { p: POI; km: number }[] = [];
+  for (let dla = -latR; dla <= latR; dla++) {
+    for (let dlo = -lonR; dlo <= lonR; dlo++) {
+      const cell = _nearbyGrid.get((flat + dla) + "|" + (flon + dlo));
+      if (!cell) continue;
+      for (const e of cell) {
+        if (e.p.id === poi.id || !CITY_TYPES.has(e.p.type)) continue;
+        // same country/region only — a day-trip suggestion, not across borders
+        if (poi.parent && e.p.parent && poi.parent.split("-")[0] !== e.p.parent.split("-")[0]) continue;
+        const km = haversineKm(lat0, lon0, e.lat, e.lon);
+        if (km < minKm || km > maxKm) continue;
+        found.push({ p: e.p, km });
+      }
+    }
+  }
+  found.sort((a, b) => a.km - b.km);
+  const seen = new Set<string>();
+  const out: { p: POI; km: number }[] = [];
+  for (const e of found) {
+    const nm = ((getLocalized(e.p.name, "en") as string) || e.p.id).toLowerCase();
+    if (seen.has(nm)) continue;
+    seen.add(nm);
+    out.push(e);
+    if (out.length >= limit) break;
+  }
+  return out;
+}
+
 // "Constellation" mini-map: a night-sky / flight-map style SVG with the current
 // POI as a pulsing star at the center and nearby POIs placed at their TRUE
 // relative bearing, sized/brightened by proximity. Arcs link them to the
@@ -1253,6 +1295,24 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   const logoSvg = `<svg class="plz-go-logo" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" aria-label="PlizioGo"><defs><linearGradient id="plzgoGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4cc6ff"/><stop offset="50%" stop-color="#7dd87a"/><stop offset="100%" stop-color="#ffae5c"/></linearGradient></defs><text x="0" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="800" font-size="36" fill="#e6ecf3" letter-spacing="-1">Plizio</text><text x="118" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="900" font-size="36" fill="url(#plzgoGrad)" letter-spacing="-1.5">Go</text><circle cx="200" cy="14" r="5" fill="#4cc6ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle></svg>`;
   const goBtn = `<button type="button" class="plz-itin-go" id="plz-itin-go" aria-expanded="true"><span class="plz-itin-go-label">${escapeHtml(C.goLabel || "Mehet")}</span><span class="plz-itin-go-arrow">▼</span></button>`;
 
+  // PlizioGo "explore nearby cities": link unfamiliar nearby towns to our own POI
+  // pages so the user discovers them from within our system. City-like POIs only.
+  const _nc = getNearbyCities(poi, 6, 90, 4);
+  const _ncLabel = ({ de: "Entdecke Städte in der Nähe", hu: "Fedezd fel a közeli városokat", ro: "Descoperă orașe din apropiere", en: "Discover nearby cities", fr: "Découvrez les villes proches", tr: "Yakındaki şehirleri keşfet" } as Record<string, string>)[lang] || "Discover nearby cities";
+  const nearbyCitiesHtml = _nc.length >= 3
+    ? `<section style="margin-top:14px;padding:14px;background:linear-gradient(135deg,#0e1633,#0a0f24);border:1px solid #2a3a66;border-radius:14px"><h3 style="margin:0 0 10px;font-size:15px;color:#cfe3ff">🧭 ${escapeHtml(_ncLabel)}</h3><div style="display:flex;gap:10px;overflow-x:auto;padding-bottom:4px">`
+      + _nc.map(({ p, km }) => {
+        const nm = escapeHtml((getLocalized(p.name, lang) as string) || p.id);
+        const href = buildPoiPath(lang, p);
+        const img = (p as { image?: string }).image;
+        const thumb = img
+          ? `<img src="${escapeHtml(img)}" alt="${nm}" loading="lazy" width="56" height="56" style="width:56px;height:56px;border-radius:10px;object-fit:cover;flex-shrink:0"/>`
+          : `<span style="width:56px;height:56px;border-radius:10px;display:flex;align-items:center;justify-content:center;background:#1a2238;font-size:24px;flex-shrink:0">🏙️</span>`;
+        return `<a href="${href}" style="display:flex;flex-direction:column;align-items:center;gap:5px;min-width:84px;text-decoration:none;color:#e6ecf3"><span style="display:flex;width:56px;height:56px">${thumb}</span><span style="font-size:12px;font-weight:600;text-align:center;line-height:1.2">${nm}</span><span style="font-size:11px;color:#8fa3c8">${Math.round(km)} km</span></a>`;
+      }).join("")
+      + `</div></section>`
+    : "";
+
   // ---- SEO: TouristTrip JSON-LD for the default mode (walk + sunny) ----
   // Google "Things to do" rich result eligibility. The itinerary body is now
   // also shown by default (no `hidden` attr) so the full content is indexed
@@ -1301,7 +1361,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj).replace(/</g, "\\u003c")}</script>`;
   }
 
-  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>
+  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}${nearbyCitiesHtml}</div></section>
 <script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var ws=r.querySelectorAll('[data-weather]'),bs=r.querySelectorAll('[data-mode]'),cs=r.querySelectorAll('[data-mw]'),go=document.getElementById('plz-itin-go'),body=document.getElementById('plz-itin-body');var curW='sunny',curM='walk';function apply(){ws.forEach(function(x){x.setAttribute('aria-selected',x.dataset.weather===curW?'true':'false')});bs.forEach(function(x){x.setAttribute('aria-selected',x.dataset.mode===curM?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.mw===curM+'-'+curW)})}ws.forEach(function(w){w.addEventListener('click',function(){curW=w.dataset.weather;apply()})});bs.forEach(function(b){b.addEventListener('click',function(){curM=b.dataset.mode;apply()})});if(go){go.addEventListener('click',function(){body.scrollIntoView({behavior:'smooth',block:'start'})})}apply();
 // Swipe-dots scroll-sync: per active mw-block, update dots based on current scroll position
 function syncDots(track){var dots=track.parentElement.querySelectorAll('.plz-itin-dot');if(!dots.length)return;var w=track.clientWidth;var idx=Math.round(track.scrollLeft/(w*0.85));dots.forEach(function(d,i){d.classList.toggle('active',i===idx)})}
