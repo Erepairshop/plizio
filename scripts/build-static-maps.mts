@@ -7,6 +7,15 @@ import path from "node:path";
 type Lang = "de" | "hu" | "ro" | "en";
 const LANGS: Lang[] = ["de", "hu", "ro", "en"];
 
+// Dedup blocklist — same set build-seo-index/split/generate-poi-html honor, so map
+// markers never show a duplicate POI even if the pois/<ISO>.json is not yet re-split.
+const DEDUP_BLOCK: Set<string> = (() => {
+  try {
+    return new Set<string>(JSON.parse(fs.readFileSync(
+      path.resolve(process.cwd(), "lib/visualLab/data/_dedup_blocklist.json"), "utf8")));
+  } catch { return new Set<string>(); }
+})();
+
 type Country = {
   iso: string;           // lowercase, matches /data/pois/<ISO>.json (uppercased)
   slug: string;          // URL slug = English country name
@@ -1194,6 +1203,7 @@ async function buildOne(c: Country): Promise<boolean> {
     try {
       const j = JSON.parse(fs.readFileSync(poisJsonPath, "utf8"));
       poisRaw = j.pois || j;
+      poisRaw = poisRaw.filter((p: any) => p && !DEDUP_BLOCK.has(p.id));
       if (c.poiParent) poisRaw = poisRaw.filter((p: any) => p && p.parent === c.poiParent);
     } catch {}
   }
