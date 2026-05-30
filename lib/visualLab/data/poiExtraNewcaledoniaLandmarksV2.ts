@@ -4,6 +4,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
 
   {
     id: "newcaledonia-st-joseph-cathedral-landmarks-v2",
+    parent: "NC",
     type: "cathedral",
     name: { de: "Kathedrale Saint-Joseph von Nouméa", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
     coords: [166.4439, -22.2708],
@@ -48,6 +49,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-tjibaou-cultural-centre-landmarks-v2",
+    parent: "NC",
     type: "museum",
     name: { de: "Centre Culturel Tjibaou", hu: "Tjibaou Kulturális Központ", ro: "Centrul Cultural Tjibaou", en: "Tjibaou Cultural Centre" },
     coords: [166.4817, -22.2572],
@@ -92,6 +94,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-mouli-bridge-landmarks-v2",
+    parent: "NC",
     type: "bridge",
     name: { de: "Pont de Mouli", hu: "Mouli-híd", ro: "Podul Mouli", en: "Mouli Bridge" },
     coords: [166.4258, -20.7188],
@@ -136,6 +139,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-noumea-city-hall-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Hôtel de Ville de Nouméa", hu: "Nouméai városháza", ro: "Primăria din Nouméa", en: "Nouméa City Hall" },
     coords: [166.4452, -22.2721],
@@ -180,6 +184,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-prony-penal-ruins-landmarks-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Ruinen von Prony", hu: "Prony fegyenckolónia romjai", ro: "Ruinele de la Prony", en: "Prony Penal Colony Ruins" },
     coords: [166.85, -22.3167],
@@ -224,6 +229,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-prison-ile-des-pins-landmarks-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Gefängnisruinen der Île des Pins", hu: "Fenyő-szigeti börtönromok", ro: "Ruinele închisorii de pe Insula Pinilor", en: "Ile des Pins Prison Ruins" },
     coords: [167.4333, -22.6583],
@@ -268,6 +274,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-hienghene-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Hienghène", hu: "Hienghène-i templom", ro: "Biserica din Hienghène", en: "Hienghène Church" },
     coords: [164.9333, -20.6833],
@@ -312,6 +319,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-tye-mission-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Missionskirche von Tyé", hu: "Tyé-i missziós templom", ro: "Biserica misiunii din Tyé", en: "Tyé Mission Church" },
     coords: [165.3167, -21.0333],
@@ -356,6 +364,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-balade-mission-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Balade", hu: "Balade-i templom", ro: "Biserica din Balade", en: "Balade Church" },
     coords: [164.4833, -20.3167],
@@ -400,6 +409,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-tadine-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Tadine", hu: "Tadine-i templom", ro: "Biserica din Tadine", en: "Tadine Church" },
     coords: [167.8833, -21.55],
@@ -444,6 +454,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-we-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Wé", hu: "Wé temploma", ro: "Biserica din Wé", en: "Wé Church" },
     coords: [167.2667, -20.9167],
@@ -488,6 +499,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-kiosque-musique-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Kiosque à Musique", hu: "Zene-kioszk", ro: "Chioșcul de muzică", en: "Bandstand of Place des Cocotiers" },
     coords: [166.4428, -22.2714],
@@ -532,6 +544,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-celeste-fountain-landmarks-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Fontaine Céleste", hu: "Céleste-szökőkút", ro: "Fântâna Céleste", en: "Celeste Fountain" },
     coords: [166.4419, -22.2711],
@@ -576,6 +589,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-monument-to-the-dead-landmarks-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Monument aux Morts", hu: "Hősi emlékmű", ro: "Monumentul Eroilor", en: "Monument to the Dead" },
     coords: [166.4442, -22.2725],
@@ -620,6 +634,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-olry-statue-landmarks-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Statue d'Olry", hu: "Olry-szobor", ro: "Statuia lui Olry", en: "Olry Statue" },
     coords: [166.4431, -22.2717],
@@ -664,6 +679,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-theatre-ile-landmarks-v2",
+    parent: "NC",
     type: "theater",
     name: { de: "Théâtre de l'Île", hu: "Sziget Színház", ro: "Teatrul Insulei", en: "Theatre de l'Ile" },
     coords: [166.4183, -22.2858],
@@ -708,6 +724,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-paita-railway-station-landmarks-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Ruinen des Bahnhofs von Païta", hu: "Païtai vasútállomás romjai", ro: "Ruinele gării din Païta", en: "Païta Railway Station Ruins" },
     coords: [166.3667, -22.1333],
@@ -752,6 +769,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-villa-saint-louis-landmarks-v2",
+    parent: "NC",
     type: "palace",
     name: { de: "Villa de Saint-Louis", hu: "Szent Lajos-villa", ro: "Vila din Saint-Louis", en: "Villa de Saint-Louis" },
     coords: [166.55, -22.2333],
@@ -796,6 +814,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-laperouse-monument-landmarks-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Monument Lapérouse", hu: "Lapérouse-emlékmű", ro: "Monumentul Lapérouse", en: "Lapérouse Monument" },
     coords: [166.43, -22.28],
@@ -840,6 +859,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-free-france-monument-landmarks-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Monument de la France Libre", hu: "Szabad Franciaország emlékmű", ro: "Monumentul Franței Libere", en: "Free France Monument" },
     coords: [166.4422, -22.2806],
@@ -884,6 +904,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-centenary-monument-landmarks-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Monument du Centenaire", hu: "Centenáriumi emlékmű", ro: "Monumentul Centenarului", en: "Centenary Monument" },
     coords: [166.435, -22.275],
@@ -928,6 +949,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-gaston-bourret-hospital-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Ancien Hôpital Gaston-Bourret", hu: "Régi Gaston-Bourret Kórház", ro: "Vechiul Spital Gaston-Bourret", en: "Old Gaston-Bourret Hospital" },
     coords: [166.4367, -22.2711],
@@ -972,6 +994,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-tabu-lighthouse-landmarks-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Phare de Tabu", hu: "Tabu-világítótorony", ro: "Farul Tabu", en: "Tabu Lighthouse" },
     coords: [166.75, -22.4833],
@@ -1016,6 +1039,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-signal-islet-lighthouse-landmarks-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Phare de l'Îlot Signal", hu: "Signal-szigeti világítótorony", ro: "Farul de pe Îlot Signal", en: "Signal Islet Lighthouse" },
     coords: [166.2917, -22.2983],
@@ -1060,6 +1084,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-cap-ndua-lighthouse-landmarks-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Phare du Cap N'Dua", hu: "Cap N'Dua-világítótorony", ro: "Farul de la Cap N'Dua", en: "Cap N'Dua Lighthouse" },
     coords: [166.9167, -22.3833],
@@ -1104,6 +1129,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-joun-lighthouse-landmarks-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Phare de Joun", hu: "Joun-világítótorony", ro: "Farul Joun", en: "Joun Lighthouse" },
     coords: [167.8167, -21.4167],
@@ -1148,6 +1174,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-easo-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Easo", hu: "Easo temploma", ro: "Biserica din Easo", en: "Easo Church" },
     coords: [167.1167, -20.9167],
@@ -1192,6 +1219,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-saint-gabriel-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche Saint-Gabriel", hu: "Szent Gábriel-templom", ro: "Biserica Sfântul Gabriel", en: "Saint Gabriel Church" },
     coords: [165.95, -21.5167],
@@ -1236,6 +1264,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-poum-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Poum", hu: "Poumi templom", ro: "Biserica din Poum", en: "Poum Church" },
     coords: [164.0167, -20.2333],
@@ -1280,6 +1309,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-kone-city-hall-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Hôtel de Ville de Koné", hu: "Koné városháza", ro: "Primăria din Koné", en: "Koné City Hall" },
     coords: [164.8667, -21.0583],
@@ -1324,6 +1354,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-bourail-museum-landmarks-v2",
+    parent: "NC",
     type: "museum",
     name: { de: "Musée de Bourail", hu: "Bourail Múzeum", ro: "Muzeul din Bourail", en: "Bourail Museum" },
     coords: [165.49, -21.57],
@@ -1368,6 +1399,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-moindou-post-office-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Alte Post von Moindou", hu: "Moindoui régi posta", ro: "Vechea poștă din Moindou", en: "Old Moindou Post Office" },
     coords: [165.6833, -21.7],
@@ -1412,6 +1444,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-koumac-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Koumac", hu: "Koumaci templom", ro: "Biserica din Koumac", en: "Koumac Church" },
     coords: [164.2833, -20.55],
@@ -1456,6 +1489,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-artillerie-bridge-landmarks-v2",
+    parent: "NC",
     type: "bridge",
     name: { de: "Pont de l'Artillerie", hu: "Tüzérségi híd", ro: "Podul Artileriei", en: "Artillerie Bridge" },
     coords: [166.435, -22.2783],
@@ -1500,6 +1534,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-tindu-lazaret-ruins-landmarks-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Lazarett-Ruinen von Tindu", hu: "Tindui lazarett-romok", ro: "Ruinele lazaretului din Tindu", en: "Tindu Lazaret Ruins" },
     coords: [166.4, -22.25],
@@ -1544,6 +1579,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-saint-louis-mission-school-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Missionsschule von Saint-Louis", hu: "Szent Lajos missziós iskola", ro: "Școala misiunii Saint-Louis", en: "Saint-Louis Mission School" },
     coords: [166.54, -22.23],
@@ -1588,6 +1624,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-immaculate-conception-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche der Unbefleckten Empfängnis", hu: "Szeplőtelen Fogantatás templom", ro: "Biserica Imaculata Concepție", en: "Immaculate Conception Church" },
     coords: [166.455, -22.245],
@@ -1632,6 +1669,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-notre-dame-des-flots-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Notre Dame des Flots", hu: "Hullámok Asszonya templom", ro: "Notre Dame des Flots", en: "Our Lady of the Waves" },
     coords: [166.6333, -20.4],
@@ -1676,6 +1714,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-ponerihouen-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Ponérihouen", hu: "Ponérihoueni templom", ro: "Biserica din Ponérihouen", en: "Ponérihouen Church" },
     coords: [165.4, -21.0667],
@@ -1720,6 +1759,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-chateau-hagen-landmarks-v2",
+    parent: "NC",
     type: "castle",
     name: { de: "Château Hagen", hu: "Hagen-kastély", ro: "Castelul Hagen", en: "Château Hagen" },
     coords: [166.4467, -22.275],
@@ -1764,6 +1804,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-museum-new-caledonia-landmarks-v2",
+    parent: "NC",
     type: "museum",
     name: { de: "Musée de Nouvelle-Calédonie", hu: "Új-Kaledóniai Múzeum", ro: "Muzeul Noii Caledonii", en: "Museum of New Caledonia" },
     coords: [166.4394, -22.2736],
@@ -1808,6 +1849,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-old-market-noumea-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Ancien Marché de Nouméa", hu: "Nouméai régi piac", ro: "Vechea piață din Nouméa", en: "Old Nouméa Market" },
     coords: [166.44, -22.275],
@@ -1852,6 +1894,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-noumea-semaphore-landmarks-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Ancien Sémaphore de Nouméa", hu: "Nouméai régi szemafor", ro: "Vechiul semafor din Nouméa", en: "Old Nouméa Semaphore" },
     coords: [166.438, -22.268],
@@ -1896,6 +1939,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-saint-gabriel-canala-landmarks-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Mission Saint-Gabriel de Canala", hu: "Canala-i Szent Gábriel misszió", ro: "Misiunea Sfântul Gabriel din Canala", en: "Saint-Gabriel Mission of Canala" },
     coords: [165.96, -21.52],
@@ -1940,6 +1984,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-paita-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Païta", hu: "Païtai templom", ro: "Biserica din Païta", en: "Païta Church" },
     coords: [166.36, -22.13],
@@ -1984,6 +2029,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
   },
   {
     id: "newcaledonia-sarramela-church-landmarks-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Sarraméa", hu: "Sarraméai templom", ro: "Biserica din Sarraméa", en: "Sarraméa Church" },
     coords: [165.85, -21.65],

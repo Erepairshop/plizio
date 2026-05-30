@@ -4,6 +4,7 @@ export const newcaledoniaCitiesV2: POI[] = [
 
   {
     id: "newcaledonia-noumea-cities-v2",
+    parent: "NC",
     type: "capital",
     name: { de: "Nouméa", hu: "Nouméa", ro: "Nouméa", en: "Nouméa" },
     coords: [166.4444, -22.2736],
@@ -48,6 +49,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-dumbea-cities-v2",
+    parent: "NC",
     type: "city",
     name: { de: "Dumbéa", hu: "Dumbéa", ro: "Dumbéa", en: "Dumbéa" },
     coords: [166.45, -22.15],
@@ -92,6 +94,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-paita-cities-v2",
+    parent: "NC",
     type: "city",
     name: { de: "Païta", hu: "Païta", ro: "Païta", en: "Païta" },
     coords: [166.3667, -22.1333],
@@ -136,6 +139,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-kone-cities-v2",
+    parent: "NC",
     type: "city",
     name: { de: "Koné", hu: "Koné", ro: "Koné", en: "Koné" },
     coords: [164.8658, -21.0594],
@@ -180,6 +184,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-bourail-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Bourail", hu: "Bourail", ro: "Bourail", en: "Bourail" },
     coords: [165.4833, -21.5667],
@@ -224,6 +229,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-koumac-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Koumac", hu: "Koumac", ro: "Koumac", en: "Koumac" },
     coords: [164.2831, -20.5567],
@@ -268,6 +274,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-poindimie-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Poindimié", hu: "Poindimié", ro: "Poindimié", en: "Poindimié" },
     coords: [165.3333, -20.9333],
@@ -312,6 +319,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-houailou-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Houaïlou", hu: "Houaïlou", ro: "Houaïlou", en: "Houaïlou" },
     coords: [165.6167, -21.2833],
@@ -356,6 +364,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-canala-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Canala", hu: "Canala", ro: "Canala", en: "Canala" },
     coords: [165.95, -21.5167],
@@ -400,6 +409,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-thio-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Thio", hu: "Thio", ro: "Thio", en: "Thio" },
     coords: [166.2167, -21.6167],
@@ -444,6 +454,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-hienghene-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Hienghène", hu: "Hienghène", ro: "Hienghène", en: "Hienghène" },
     coords: [164.9333, -20.6833],
@@ -488,6 +499,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-la-foa-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "La Foa", hu: "La Foa", ro: "La Foa", en: "La Foa" },
     coords: [165.8278, -21.7111],
@@ -532,6 +544,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-voh-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Voh", hu: "Voh", ro: "Voh", en: "Voh" },
     coords: [164.7, -20.9667],
@@ -576,6 +589,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-pouembout-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Pouembout", hu: "Pouembout", ro: "Pouembout", en: "Pouembout" },
     coords: [164.9, -21.1333],
@@ -620,6 +634,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ouegoa-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Ouégoa", hu: "Ouégoa", ro: "Ouégoa", en: "Ouégoa" },
     coords: [164.4333, -20.35],
@@ -664,6 +679,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-puebo-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Pouébo", hu: "Pouébo", ro: "Pouébo", en: "Pouébo" },
     coords: [164.5667, -20.3833],
@@ -708,6 +724,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-touho-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Touho", hu: "Touho", ro: "Touho", en: "Touho" },
     coords: [165.25, -20.7833],
@@ -752,6 +769,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ponerihouen-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Ponérihouen", hu: "Ponérihouen", ro: "Ponérihouen", en: "Ponérihouen" },
     coords: [165.4, -21.0667],
@@ -796,6 +814,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-poya-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Poya", hu: "Poya", ro: "Poya", en: "Poya" },
     coords: [165.15, -21.35],
@@ -840,6 +859,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-kaala-gomen-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Kaala-Gomen", hu: "Kaala-Gomen", ro: "Kaala-Gomen", en: "Kaala-Gomen" },
     coords: [164.4, -20.6667],
@@ -884,6 +904,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-boulouparis-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Boulouparis", hu: "Boulouparis", ro: "Boulouparis", en: "Boulouparis" },
     coords: [166.05, -21.8667],
@@ -928,6 +949,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-yate-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Yaté", hu: "Yaté", ro: "Yaté", en: "Yaté" },
     coords: [166.9167, -22.15],
@@ -972,6 +994,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-sarramea-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Sarraméa", hu: "Sarraméa", ro: "Sarraméa", en: "Sarraméa" },
     coords: [165.85, -21.65],
@@ -1016,6 +1039,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-farino-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Farino", hu: "Farino", ro: "Farino", en: "Farino" },
     coords: [165.7833, -21.6667],
@@ -1060,6 +1084,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-moindou-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Moindou", hu: "Moindou", ro: "Moindou", en: "Moindou" },
     coords: [165.6833, -21.55],
@@ -1104,6 +1129,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-poum-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Poum", hu: "Poum", ro: "Poum", en: "Poum" },
     coords: [164.0167, -20.2333],
@@ -1148,6 +1174,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-kouaoua-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Kouaoua", hu: "Kouaoua", ro: "Kouaoua", en: "Kouaoua" },
     coords: [165.8333, -21.4],
@@ -1192,6 +1219,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-lifou-cities-v2",
+    parent: "NC",
     type: "island",
     name: { de: "Lifou", hu: "Lifou", ro: "Lifou", en: "Lifou" },
     coords: [167.2667, -20.9167],
@@ -1236,6 +1264,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-mare-cities-v2",
+    parent: "NC",
     type: "island",
     name: { de: "Maré", hu: "Maré", ro: "Maré", en: "Maré" },
     coords: [167.8833, -21.55],
@@ -1280,6 +1309,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ouvea-cities-v2",
+    parent: "NC",
     type: "island",
     name: { de: "Ouvéa", hu: "Ouvéa", ro: "Ouvéa", en: "Ouvéa" },
     coords: [166.5333, -20.65],
@@ -1324,6 +1354,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ile-des-pins-cities-v2",
+    parent: "NC",
     type: "island",
     name: { de: "Île des Pins", hu: "Fenyő-sziget", ro: "Insula Pinilor", en: "Isle of Pines" },
     coords: [167.4833, -22.6167],
@@ -1368,6 +1399,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-belep-cities-v2",
+    parent: "NC",
     type: "island",
     name: { de: "Bélep", hu: "Bélep", ro: "Bélep", en: "Bélep" },
     coords: [163.6667, -19.7167],
@@ -1412,6 +1444,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-tadine-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Tadine", hu: "Tadine", ro: "Tadine", en: "Tadine" },
     coords: [167.882, -21.551],
@@ -1456,6 +1489,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-fayaoue-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Fayaoué", hu: "Fayaoué", ro: "Fayaoué", en: "Fayaoué" },
     coords: [166.535, -20.655],
@@ -1500,6 +1534,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-vao-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Vao", hu: "Vao", ro: "Vao", en: "Vao" },
     coords: [167.516, -22.666],
@@ -1544,6 +1579,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-tontouta-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "La Tontouta", hu: "La Tontouta", ro: "La Tontouta", en: "La Tontouta" },
     coords: [166.216, -22.016],
@@ -1588,6 +1624,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-plum-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Plum", hu: "Plum", ro: "Plum", en: "Plum" },
     coords: [166.633, -22.283],
@@ -1632,6 +1669,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-prony-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Prony", hu: "Prony", ro: "Prony", en: "Prony" },
     coords: [166.816, -22.316],
@@ -1676,6 +1714,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-goro-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Goro", hu: "Goro", ro: "Goro", en: "Goro" },
     coords: [166.983, -22.3],
@@ -1720,6 +1759,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-chepenehe-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Chépénéhé", hu: "Chépénéhé", ro: "Chépénéhé", en: "Chépénéhé" },
     coords: [167.116, -20.916],
@@ -1764,6 +1804,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-mouli-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Mouli", hu: "Mouli", ro: "Mouli", en: "Mouli" },
     coords: [166.416, -20.716],
@@ -1808,6 +1849,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-la-roche-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "La Roche", hu: "La Roche", ro: "La Roche", en: "La Roche" },
     coords: [168.033, -21.466],
@@ -1852,6 +1894,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-eni-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Eni", hu: "Eni", ro: "Eni", en: "Eni" },
     coords: [167.983, -21.616],
@@ -1896,6 +1939,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-anse-vata-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Anse Vata", hu: "Anse Vata", ro: "Anse Vata", en: "Anse Vata" },
     coords: [166.444, -22.3],
@@ -1940,6 +1984,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-baie-des-citrons-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Baie des Citrons", hu: "Citrom-öböl", ro: "Baie des Citrons", en: "Lemon Bay" },
     coords: [166.436, -22.293],
@@ -1984,6 +2029,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ducos-cities-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Ducos", hu: "Ducos", ro: "Ducos", en: "Ducos" },
     coords: [166.433, -22.25],
@@ -2028,6 +2074,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-magenta-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Magenta", hu: "Magenta", ro: "Magenta", en: "Magenta" },
     coords: [166.475, -22.258],
@@ -2072,6 +2119,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-riviere-salee-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Rivière-Salée", hu: "Rivière-Salée", ro: "Rivière-Salée", en: "Rivière-Salée" },
     coords: [166.458, -22.233],
@@ -2116,6 +2164,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-vallee-des-colons-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Vallée des Colons", hu: "Vallée des Colons", ro: "Vallée des Colons", en: "Vallée des Colons" },
     coords: [166.458, -22.266],
@@ -2160,6 +2209,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-koutio-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Koutio", hu: "Koutio", ro: "Koutio", en: "Koutio" },
     coords: [166.466, -22.216],
@@ -2204,6 +2254,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-yahoue-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Yahoué", hu: "Yahoué", ro: "Yahoué", en: "Yahoué" },
     coords: [166.491, -22.216],
@@ -2248,6 +2299,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-robinson-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Robinson", hu: "Robinson", ro: "Robinson", en: "Robinson" },
     coords: [166.525, -22.258],
@@ -2292,6 +2344,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-boulari-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Boulari", hu: "Boulari", ro: "Boulari", en: "Boulari" },
     coords: [166.533, -22.275],
@@ -2336,6 +2389,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-doniambo-cities-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Doniambo", hu: "Doniambo", ro: "Doniambo", en: "Doniambo" },
     coords: [166.433, -22.258],
@@ -2380,6 +2434,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-tina-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Tina", hu: "Tina", ro: "Tina", en: "Tina" },
     coords: [166.491, -22.25],
@@ -2424,6 +2479,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-normandia-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Normandia", hu: "Normandia", ro: "Normandia", en: "Normandia" },
     coords: [166.475, -22.216],
@@ -2468,6 +2524,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-port-boise-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Port-Boisé", hu: "Port-Boisé", ro: "Port-Boisé", en: "Port-Boisé" },
     coords: [166.966, -22.35],
@@ -2512,6 +2569,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-nessadiou-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Nessadiou", hu: "Nessadiou", ro: "Nessadiou", en: "Nessadiou" },
     coords: [165.533, -21.616],
@@ -2556,6 +2614,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-la-conception-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "La Conception", hu: "La Conception", ro: "La Conception", en: "La Conception" },
     coords: [166.516, -22.25],
@@ -2600,6 +2659,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-port-laguerre-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Port-Laguerre", hu: "Port-Laguerre", ro: "Port-Laguerre", en: "Port-Laguerre" },
     coords: [166.3, -22.1],
@@ -2644,6 +2704,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-gadji-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Gadji", hu: "Gadji", ro: "Gadji", en: "Gadji" },
     coords: [166.35, -22.183],
@@ -2688,6 +2749,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-yahoue-bridge-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Pont de Yahoué", hu: "Yahoué-híd", ro: "Pont de Yahoué", en: "Yahoué Bridge" },
     coords: [166.475, -22.216],
@@ -2732,6 +2794,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-tina-sur-mer-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Tina-sur-Mer", hu: "Tina-sur-Mer", ro: "Tina-sur-Mer", en: "Tina-sur-Mer" },
     coords: [166.491, -22.241],
@@ -2776,6 +2839,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-vallee-du-tir-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Vallée du Tir", hu: "Vallée du Tir", ro: "Vallée du Tir", en: "Vallée du Tir" },
     coords: [166.441, -22.258],
@@ -2820,6 +2884,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ouemo-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Ouémo", hu: "Ouémo", ro: "Ouémo", en: "Ouémo" },
     coords: [166.475, -22.275],
@@ -2864,6 +2929,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-normandie-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Normandie", hu: "Normandie", ro: "Normandie", en: "Normandie" },
     coords: [166.483, -22.216],
@@ -2908,6 +2974,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-port-laguerre-center-cities-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Village de Port-Laguerre", hu: "Port-Laguerre falu", ro: "Satul Port-Laguerre", en: "Port-Laguerre Village" },
     coords: [166.308, -22.108],
@@ -2952,6 +3019,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-pont-des-francais-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Pont-des-Français", hu: "Pont-des-Français", ro: "Pont-des-Français", en: "Pont-des-Français" },
     coords: [166.5, -22.25],
@@ -2996,6 +3064,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-sainte-marie-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Sainte-Marie", hu: "Sainte-Marie", ro: "Sainte-Marie", en: "Sainte-Marie" },
     coords: [166.475, -22.283],
@@ -3040,6 +3109,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-ouemo-pointe-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Pointe d'Ouémo", hu: "Ouémo-fok", ro: "Pointe d'Ouémo", en: "Ouémo Point" },
     coords: [166.483, -22.283],
@@ -3084,6 +3154,7 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-vallee-des-colons-east-cities-v2",
+    parent: "NC",
     type: "town",
     name: { de: "Vallée des Colons Est", hu: "Kelet-Vallée des Colons", ro: "Vallée des Colons Est", en: "East Vallée des Colons" },
     coords: [166.466, -22.266],

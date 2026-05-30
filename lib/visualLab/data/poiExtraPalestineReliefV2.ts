@@ -4,6 +4,7 @@ export const palestineReliefV2: POI[] = [
 
   {
     id: "palestine-baal-hazor-relief-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Baal-Hazor", hu: "Baal-Hácór", ro: "Baal-Hazor", en: "Baal-Hazor" },
     coords: [35.2408, 31.9928],
@@ -48,6 +49,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-dead-sea-basin-relief-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Holt-tenger-medence", hu: "Holt-tengeri medence", ro: "Bazinul Mării Moarte", en: "Dead Sea Basin" },
     coords: [35.48, 31.5],
@@ -92,6 +94,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-sartaba-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Sartaba", hu: "Szartaba", ro: "Sartaba", en: "Mount Sartaba" },
     coords: [35.4628, 32.0944],
@@ -136,6 +139,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-samarian-highlands-relief-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Samarisches Hochland", hu: "Szamáriai-hegyvidék", ro: "Podișul Samariei", en: "Samarian Highlands" },
     coords: [35.25, 32.15],
@@ -180,6 +184,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-wadi-ghazza-relief-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi Ghazza", hu: "Vádi Gáza", ro: "Wadi Ghazza", en: "Wadi Ghazza" },
     coords: [34.41, 31.445],
@@ -224,6 +229,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-muntar-relief-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Muntar-Hügel", hu: "Muntar-domb", ro: "Dealul Muntar", en: "Mount Muntar" },
     coords: [34.472, 31.503],
@@ -268,6 +274,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-tamun-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Tamun", hu: "Tamun-hegy", ro: "Muntele Tamun", en: "Mount Tamun" },
     coords: [35.352, 32.258],
@@ -312,6 +319,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-herodium-hill-relief-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Herodium", hu: "Heródion", ro: "Herodium", en: "Herodium Hill" },
     coords: [35.2414, 31.6658],
@@ -356,6 +364,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-munidhra-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Munidhra", hu: "Munidhra-hegy", ro: "Muntele Munidhra", en: "Mount Munidhra" },
     coords: [35.305, 32.312],
@@ -400,6 +409,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-jenin-hills-relief-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Hügelland von Jenin", hu: "Dzsenini-dombság", ro: "Dealurile Jeninului", en: "Jenin Hills" },
     coords: [35.21, 32.44],
@@ -444,6 +454,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-aziur-relief-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Berg 'Aziur", hu: "Aziur-hegy", ro: "Muntele 'Aziur", en: "Mount 'Aziur" },
     coords: [35.111, 31.611],
@@ -488,6 +499,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-kanub-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Kanub", hu: "Kanub-hegy", ro: "Muntele Kanub", en: "Mount Kanub" },
     coords: [35.185, 31.565],
@@ -532,6 +544,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-jebel-abu-ghneim-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Jebel Abu Ghneim", hu: "Dzsebel Abu Gneim", ro: "Jebel Abu Ghneim", en: "Jebel Abu Ghneim" },
     coords: [35.215, 31.722],
@@ -576,6 +589,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-gilo-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Gilo", hu: "Giló-hegy", ro: "Muntele Gilo", en: "Mount Gilo" },
     coords: [35.182, 31.721],
@@ -620,6 +634,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-jebel-juhar-relief-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Jebel Juhar", hu: "Dzsebel Dzsuhar", ro: "Jebel Juhar", en: "Jebel Juhar" },
     coords: [35.125, 31.52],
@@ -664,6 +679,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-jebel-mukabbir-relief-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Jebel Mukabbir", hu: "Dzsebel Mukabbir", ro: "Jebel Mukabbir", en: "Jebel Mukabbir" },
     coords: [35.235, 31.75],
@@ -708,6 +724,7 @@ export const palestineReliefV2: POI[] = [
   },
   {
     id: "palestine-mount-salman-relief-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Salman", hu: "Szalman-hegy", ro: "Muntele Salman", en: "Mount Salman" },
     coords: [35.232, 32.185],

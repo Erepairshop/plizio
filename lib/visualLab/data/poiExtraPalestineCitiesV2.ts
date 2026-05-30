@@ -4,6 +4,7 @@ export const palestineCitiesV2: POI[] = [
 
   {
     id: "palestine-east-jerusalem-cities-v2",
+    parent: "PS",
     type: "capital",
     name: { de: "Ostjerusalem", hu: "Kelet-Jeruzsálem", ro: "Ierusalimul de Est", en: "East Jerusalem" },
     coords: [35.2333, 31.7833],
@@ -48,6 +49,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-gaza-city-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Gaza-Stadt", hu: "Gázaváros", ro: "Gaza", en: "Gaza City" },
     coords: [34.4667, 31.5],
@@ -92,6 +94,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-hebron-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Hebron", hu: "Hebron", ro: "Hebron", en: "Hebron" },
     coords: [35.0944, 31.5333],
@@ -136,6 +139,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-nablus-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Nablus", hu: "Nablusz", ro: "Nablus", en: "Nablus" },
     coords: [35.2544, 32.2211],
@@ -180,6 +184,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-khan-yunis-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Chan Yunis", hu: "Hán Júnisz", ro: "Khan Yunis", en: "Khan Yunis" },
     coords: [34.3033, 31.345],
@@ -224,6 +229,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jabalia-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Dschabaliya", hu: "Dzsabalija", ro: "Jabalia", en: "Jabalia" },
     coords: [34.4981, 31.5289],
@@ -268,6 +274,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-rafah-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Rafah", hu: "Rafah", ro: "Rafah", en: "Rafah" },
     coords: [34.2508, 31.2844],
@@ -312,6 +319,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-tulkarm-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Tulkarm", hu: "Tulkarm", ro: "Tulkarm", en: "Tulkarm" },
     coords: [35.0253, 32.3117],
@@ -356,6 +364,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-qalqilya-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Qalqilya", hu: "Kalkilja", ro: "Qalqilya", en: "Qalqilya" },
     coords: [34.9739, 32.1933],
@@ -400,6 +409,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jenin-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Dschenin", hu: "Dzsenín", ro: "Jenin", en: "Jenin" },
     coords: [35.2978, 32.4578],
@@ -444,6 +454,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beit-hanoun-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Beit Hanun", hu: "Bét Hanún", ro: "Beit Hanoun", en: "Beit Hanoun" },
     coords: [34.535, 31.5414],
@@ -488,6 +499,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beit-lahiya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Beit Lahiya", hu: "Bét Lahija", ro: "Beit Lahiya", en: "Beit Lahiya" },
     coords: [34.505, 31.5539],
@@ -532,6 +544,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-deir-al-balah-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Deir al-Balah", hu: "Dejr el-Balah", ro: "Deir al-Balah", en: "Deir al-Balah" },
     coords: [34.3503, 31.4178],
@@ -576,6 +589,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jericho-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Jericho", hu: "Jerikó", ro: "Ierihon", en: "Jericho" },
     coords: [35.45, 31.85],
@@ -620,6 +634,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beit-jala-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Beit Dschala", hu: "Bét Dzsala", ro: "Beit Jala", en: "Beit Jala" },
     coords: [35.1867, 31.7144],
@@ -664,6 +679,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beit-sahour-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Beit Sahur", hu: "Bét Szahúr", ro: "Beit Sahour", en: "Beit Sahour" },
     coords: [35.2281, 31.7011],
@@ -708,6 +724,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-ramallah-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Ramallah", hu: "Rámalláh", ro: "Ramallah", en: "Ramallah" },
     coords: [35.2006, 31.9025],
@@ -752,6 +769,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-bireh-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "al-Bira", hu: "el-Bíra", ro: "Al-Bireh", en: "Al-Bireh" },
     coords: [35.21, 31.91],
@@ -796,6 +814,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-salfit-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Salfit", hu: "Szalfít", ro: "Salfit", en: "Salfit" },
     coords: [35.1833, 32.0833],
@@ -840,6 +859,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-tubas-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Tubas", hu: "Tubász", ro: "Tubas", en: "Tubas" },
     coords: [35.3694, 32.32],
@@ -884,6 +904,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-halhul-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Halhul", hu: "Halhúl", ro: "Halhul", en: "Halhul" },
     coords: [35.1111, 31.5833],
@@ -928,6 +949,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-dura-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Dura", hu: "Dúra", ro: "Dura", en: "Dura" },
     coords: [35.0333, 31.5],
@@ -972,6 +994,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-yatta-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Yatta", hu: "Jatta", ro: "Yatta", en: "Yatta" },
     coords: [35.0933, 31.4608],
@@ -1016,6 +1039,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-bani-naim-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Bani Naim", hu: "Bani Naim", ro: "Bani Na'im", en: "Bani Na'im" },
     coords: [35.1667, 31.5167],
@@ -1060,6 +1084,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-ad-dhahiriya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "ad-Dhahiriya", hu: "ed-Dahirijja", ro: "Ad-Dhahiriya", en: "Ad-Dhahiriya" },
     coords: [34.9708, 31.4422],
@@ -1104,6 +1129,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beit-ummar-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Beit Ummar", hu: "Bét Ummar", ro: "Beit Ummar", en: "Beit Ummar" },
     coords: [35.1008, 31.6233],
@@ -1148,6 +1174,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-surif-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Surif", hu: "Szuríf", ro: "Surif", en: "Surif" },
     coords: [35.0667, 31.65],
@@ -1192,6 +1219,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-sair-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Sa'ir", hu: "Száír", ro: "Sa'ir", en: "Sa'ir" },
     coords: [35.1333, 31.5833],
@@ -1236,6 +1264,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-ash-shuyukh-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "ash-Shuyukh", hu: "es-Sujúh", ro: "Ash-Shuyukh", en: "Ash-Shuyukh" },
     coords: [35.15, 31.58],
@@ -1280,6 +1309,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-idhna-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Idhna", hu: "Idna", ro: "Idhna", en: "Idhna" },
     coords: [34.9833, 31.5583],
@@ -1324,6 +1354,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-tarqumiya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Tarqumiya", hu: "Tarkumijja", ro: "Tarqumiya", en: "Tarqumiya" },
     coords: [35.0, 31.5833],
@@ -1368,6 +1399,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-kharas-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Charas", hu: "Harász", ro: "Kharas", en: "Kharas" },
     coords: [35.03, 31.61],
@@ -1412,6 +1444,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-nuba-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Nuba", hu: "Nuba", ro: "Nuba", en: "Nuba" },
     coords: [35.02, 31.59],
@@ -1456,6 +1489,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beit-kahel-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Beit Kahel", hu: "Bét Kahel", ro: "Beit Kahel", en: "Beit Kahel" },
     coords: [35.075, 31.5667],
@@ -1500,6 +1534,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-tafpuh-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Taffuh", hu: "Taffuh", ro: "Taffuh", en: "Taffuh" },
     coords: [35.04, 31.52],
@@ -1544,6 +1579,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-as-samu-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "as-Samu", hu: "es-Szamu", ro: "As-Samu", en: "As-Samu" },
     coords: [35.0664, 31.4022],
@@ -1588,6 +1624,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-eizariya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Eizariya", hu: "el-Ajzaríjja", ro: "Al-Eizariya", en: "Al-Eizariya" },
     coords: [35.26, 31.77],
@@ -1632,6 +1669,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-abu-dis-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Abu Dis", hu: "Abu Disz", ro: "Abu Dis", en: "Abu Dis" },
     coords: [35.2667, 31.7667],
@@ -1676,6 +1714,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-ram-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Ram", hu: "er-Ram", ro: "Al-Ram", en: "Al-Ram" },
     coords: [35.23, 31.85],
@@ -1720,6 +1759,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-anata-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Anata", hu: "Anata", ro: "Anata", en: "Anata" },
     coords: [35.26, 31.81],
@@ -1764,6 +1804,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-birzeit-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Bir Zait", hu: "Bírzeit", ro: "Birzeit", en: "Birzeit" },
     coords: [35.1811, 31.9694],
@@ -1808,6 +1849,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-beitunia-cities-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Beitunia", hu: "Bétunja", ro: "Beitunia", en: "Beitunia" },
     coords: [35.17, 31.89],
@@ -1852,6 +1894,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-silwad-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Silwad", hu: "Szilvád", ro: "Silwad", en: "Silwad" },
     coords: [35.26, 31.98],
@@ -1896,6 +1939,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-mazraa-ash-sharqiya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Mazra'a ash-Sharqiya", hu: "el-Mazraa es-Sarkijja", ro: "Al-Mazra'a ash-Sharqiya", en: "Al-Mazra'a ash-Sharqiya" },
     coords: [35.27, 32.0],
@@ -1940,6 +1984,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-turmus-ayya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Turmus Ayya", hu: "Turmusz Ajja", ro: "Turmus Ayya", en: "Turmus Ayya" },
     coords: [35.27, 32.03],
@@ -1984,6 +2029,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-sinjil-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Sindschil", hu: "Szindzsíl", ro: "Sinjil", en: "Sinjil" },
     coords: [35.25, 32.03],
@@ -2028,6 +2074,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jalazone-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Dschalazun", hu: "Dzsalazun", ro: "Jalazone", en: "Jalazone" },
     coords: [35.22, 31.95],
@@ -2072,6 +2119,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-azzun-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Azzun", hu: "Azzun", ro: "Azzun", en: "Azzun" },
     coords: [35.02, 32.1933],
@@ -2116,6 +2164,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-hableh-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Habla", hu: "Habla", ro: "Hableh", en: "Hableh" },
     coords: [34.99, 32.17],
@@ -2160,6 +2209,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jayyous-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Dschayyus", hu: "Dzsajjúsz", ro: "Jayyous", en: "Jayyous" },
     coords: [35.04, 32.22],
@@ -2204,6 +2254,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-kafr-thulth-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Kafr Thulth", hu: "Kafr Thulth", ro: "Kafr Thulth", en: "Kafr Thulth" },
     coords: [35.06, 32.17],
@@ -2248,6 +2299,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-yabad-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Ya'bad", hu: "Jabad", ro: "Ya'bad", en: "Ya'bad" },
     coords: [35.1667, 32.45],
@@ -2292,6 +2344,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-arraba-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Arraba", hu: "Arraba", ro: "Arraba", en: "Arraba" },
     coords: [35.205, 32.405],
@@ -2336,6 +2389,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-qabatiya-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Qabatiya", hu: "Kabatija", ro: "Qabatiya", en: "Qabatiya" },
     coords: [35.28, 32.41],
@@ -2380,6 +2434,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jaba-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Dschaba", hu: "Dzsuba", ro: "Jaba'", en: "Jaba'" },
     coords: [35.24, 32.34],
@@ -2424,6 +2479,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-silat-ad-dhahr-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Silat ad-Dhahr", hu: "Szilat ed-Dahr", ro: "Silat ad-Dhahr", en: "Silat ad-Dhahr" },
     coords: [35.22, 32.32],
@@ -2468,6 +2524,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-burqin-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Burqin", hu: "Burkin", ro: "Burqin", en: "Burqin" },
     coords: [35.2667, 32.45],
@@ -2512,6 +2569,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-tamun-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Tamun", hu: "Tamun", ro: "Tamun", en: "Tamun" },
     coords: [35.38, 32.29],
@@ -2556,6 +2614,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-yamun-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Yamun", hu: "el-Jamun", ro: "Al-Yamun", en: "Al-Yamun" },
     coords: [35.23, 32.48],
@@ -2600,6 +2659,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-bani-suheila-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Bani Suheila", hu: "Bani Szuhejla", ro: "Bani Suheila", en: "Bani Suheila" },
     coords: [34.34, 31.34],
@@ -2644,6 +2704,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-abasan-al-kabira-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "Abasan al-Kabira", hu: "Abaszan el-Kabíra", ro: "Abasan al-Kabira", en: "Abasan al-Kabira" },
     coords: [34.35, 31.33],
@@ -2688,6 +2749,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-zawayda-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Zawaida", hu: "ez-Zavajda", ro: "Al-Zawayda", en: "Al-Zawayda" },
     coords: [34.39, 31.43],
@@ -2732,6 +2794,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-nuseirat-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "an-Nuseirat", hu: "en-Nuszejrát", ro: "Al-Nuseirat", en: "Al-Nuseirat" },
     coords: [34.4, 31.45],
@@ -2776,6 +2839,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-bureij-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Bureidsch", hu: "el-Burejdzs", ro: "Al-Bureij", en: "Al-Bureij" },
     coords: [34.41, 31.44],
@@ -2820,6 +2884,7 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-al-maghazi-cities-v2",
+    parent: "PS",
     type: "town",
     name: { de: "al-Maghazi", hu: "el-Magázi", ro: "Al-Maghazi", en: "Al-Maghazi" },
     coords: [34.42, 31.43],

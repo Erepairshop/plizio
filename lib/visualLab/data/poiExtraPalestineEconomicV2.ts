@@ -4,6 +4,7 @@ export const palestineEconomicV2: POI[] = [
 
   {
     id: "palestine-hebron-shoe-industry-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Schuhindustrie von Hebron", hu: "Hebroni cipőipar", ro: "Industria de încălțăminte din Hebron", en: "Hebron Shoe Industry" },
     coords: [35.092, 31.532],
@@ -48,6 +49,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-nablus-soap-factories-economic-v2",
+    parent: "PS",
     type: "factory",
     name: { de: "Seifenfabriken von Nablus", hu: "Nabuluszi szappangyárak", ro: "Fabricile de săpun din Nablus", en: "Nablus Soap Factories" },
     coords: [35.259, 32.221],
@@ -92,6 +94,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-securities-exchange-economic-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Palesinänsische Börse", hu: "Palesztin Értéktőzsde", ro: "Bursa de Valori din Palestina", en: "Palestine Securities Exchange" },
     coords: [35.271, 32.226],
@@ -136,6 +139,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-jericho-date-plantations-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Dattelplantagen von Jericho", hu: "Jerikói dátumültetvények", ro: "Plantațiile de curmali din Ierihon", en: "Jericho Date Plantations" },
     coords: [35.459, 31.865],
@@ -180,6 +184,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-hebron-stone-quarries-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Steinbrüche von Hebron", hu: "Hebroni kőbányák", ro: "Carierele de piatră din Hebron", en: "Hebron Stone Quarries" },
     coords: [35.115, 31.518],
@@ -224,6 +229,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-gaza-fishing-port-economic-v2",
+    parent: "PS",
     type: "port",
     name: { de: "Fischereihafen von Gaza", hu: "Gázai halászkikötő", ro: "Portul de pescuit din Gaza", en: "Gaza Fishing Port" },
     coords: [34.435, 31.517],
@@ -268,6 +274,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-jenin-agro-industrial-park-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Agrar-Industriepark Jenin", hu: "Dzsenini Agrár-Ipari Park", ro: "Parcul Agro-Industrial Jenin", en: "Jenin Agro-Industrial Park" },
     coords: [35.295, 32.491],
@@ -312,6 +319,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-rawabi-tech-hub-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Rawabi Technologiezentrum", hu: "Rawabi Technológiai Központ", ro: "Centrul Tehnologic Rawabi", en: "Rawabi Tech Hub" },
     coords: [35.185, 32.011],
@@ -356,6 +364,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-bethlehem-handicraft-workshops-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Bethlehemer Kunsthandwerk", hu: "Betlehemi kézműves műhelyek", ro: "Atelierele de artizanat din Betleem", en: "Bethlehem Handicraft Workshops" },
     coords: [35.202, 31.704],
@@ -400,6 +409,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-qalqilya-greenhouses-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Gewächshäuser von Qalqilya", hu: "Kalkiljai üvegházak", ro: "Serele din Qalqilya", en: "Qalqilya Greenhouses" },
     coords: [34.975, 32.192],
@@ -444,6 +454,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-gaza-power-plant-economic-v2",
+    parent: "PS",
     type: "factory",
     name: { de: "Kraftwerk Gaza", hu: "Gázai erőmű", ro: "Centrala Electrică din Gaza", en: "Gaza Power Plant" },
     coords: [34.401, 31.439],
@@ -488,6 +499,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-nablus-furniture-industry-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Möbelindustrie von Nablus", hu: "Nabuluszi bútoripar", ro: "Industria de mobilier din Nablus", en: "Nablus Furniture Industry" },
     coords: [35.241, 32.222],
@@ -532,6 +544,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-tulkarm-industrial-zone-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Industriezone Tulkarm", hu: "Tulkarm ipari zóna", ro: "Zona Industrială Tulkarm", en: "Tulkarm Industrial Zone" },
     coords: [35.025, 32.315],
@@ -576,6 +589,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-halhul-vineyards-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Weinberge von Halhul", hu: "Halhuli szőlőültetvények", ro: "Podgoriile din Halhul", en: "Halhul Vineyards" },
     coords: [35.105, 31.583],
@@ -620,6 +634,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-bethlehem-industrial-park-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Industriepark Bethlehem", hu: "Betlehemi Ipari Park", ro: "Parcul Industrial Betleem", en: "Bethlehem Industrial Park" },
     coords: [35.215, 31.701],
@@ -664,6 +679,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-gaza-industrial-estate-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Industriegebiet Gaza", hu: "Gázai ipari övezet", ro: "Zona Industrială Gaza", en: "Gaza Industrial Estate" },
     coords: [34.481, 31.475],
@@ -708,6 +724,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-birzeit-pharmaceuticals-economic-v2",
+    parent: "PS",
     type: "factory",
     name: { de: "Pharmaunternehmen Birzeit", hu: "Birzeiti gyógyszergyár", ro: "Compania Farmaceutică Birzeit", en: "Birzeit Pharmaceutical Company" },
     coords: [35.191, 31.961],
@@ -752,6 +769,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-salfit-olive-oil-presses-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Ölmühlen von Salfit", hu: "Szalfiti olajütők", ro: "Presele de ulei din Salfit", en: "Salfit Olive Oil Presses" },
     coords: [35.178, 32.121],
@@ -796,6 +814,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-jericho-agro-industrial-park-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Agrar-Industriepark Jericho", hu: "Jerikói Agrár-Ipari Park", ro: "Parcul Agro-Industrial Ierihon", en: "Jericho Agro-Industrial Park" },
     coords: [35.451, 31.835],
@@ -840,6 +859,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-tubas-agriculture-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Landwirtschaftliches Zentrum Tubas", hu: "Tubaszi mezőgazdasági központ", ro: "Centrul Agricol Tubas", en: "Tubas Agricultural Center" },
     coords: [35.371, 32.321],
@@ -884,6 +904,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-deir-al-balah-dates-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Dattelpalmen von Deir al-Balah", hu: "Deir al-Balah-i datolyapálmák", ro: "Curmalii din Deir al-Balah", en: "Deir al-Balah Date Palms" },
     coords: [34.349, 31.415],
@@ -928,6 +949,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-hebron-glass-ceramics-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Hebroner Glas und Keramik", hu: "Hebroni üveg és kerámia", ro: "Sticla și ceramica din Hebron", en: "Hebron Glass and Ceramics" },
     coords: [35.085, 31.545],
@@ -972,6 +994,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-khan-yunis-trade-center-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Handelszentrum Khan Yunis", hu: "Hán Júnisz kereskedelmi központ", ro: "Centrul Comercial Khan Yunis", en: "Khan Yunis Trade Center" },
     coords: [34.301, 31.345],
@@ -1016,6 +1039,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-rafah-commercial-crossing-economic-v2",
+    parent: "PS",
     type: "port",
     name: { de: "Handelsübergang Rafah", hu: "Rafahi kereskedelmi átkelő", ro: "Punctul de Trecere Rafah", en: "Rafah Commercial Crossing" },
     coords: [34.251, 31.241],
@@ -1060,6 +1084,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-beit-jala-cremisan-winery-economic-v2",
+    parent: "PS",
     type: "factory",
     name: { de: "Cremisan Weingut Beit Jala", hu: "Cremisan borászat Beit Jala", ro: "Crama Cremisan Beit Jala", en: "Beit Jala Cremisan Winery" },
     coords: [35.181, 31.715],
@@ -1104,6 +1129,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-dhahiriya-livestock-market-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Viehmarkt von Dhahiriya", hu: "Dahírijai állatvásár", ro: "Piața de animale din Dhahiriya", en: "Dhahiriya Livestock Market" },
     coords: [34.975, 31.439],
@@ -1148,6 +1174,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-gaza-textile-sector-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Textilsektor Gaza", hu: "Gázai textilágazat", ro: "Sectorul Textil din Gaza", en: "Gaza Textile Sector" },
     coords: [34.455, 31.511],
@@ -1192,6 +1219,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-nablus-stone-processing-economic-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Steinverarbeitung Nablus", hu: "Nabuluszi kőfeldolgozás", ro: "Prelucrarea Pietrei din Nablus", en: "Nablus Stone Processing" },
     coords: [35.285, 32.215],
@@ -1236,6 +1264,7 @@ export const palestineEconomicV2: POI[] = [
   },
   {
     id: "palestine-paltel-headquarters-economic-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Paltel Hauptquartier", hu: "Paltel székház", ro: "Sediul Paltel", en: "Paltel Headquarters" },
     coords: [35.195, 31.911],

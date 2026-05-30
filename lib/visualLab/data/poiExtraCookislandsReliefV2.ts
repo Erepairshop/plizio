@@ -4,6 +4,7 @@ export const cookislandsReliefV2: POI[] = [
 
   {
     id: "cookislands-te-rua-manga-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Te Rua Manga", hu: "Te Rua Manga", ro: "Te Rua Manga", en: "Te Rua Manga" },
     coords: [-159.7892, -21.2351],
@@ -48,6 +49,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-maungapu-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Maungapu", hu: "Maungapu", ro: "Maungapu", en: "Maungapu" },
     coords: [-159.7914, -18.8472],
@@ -92,6 +94,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-raemaru-relief-v2",
+    parent: "CK",
     type: "mountain",
     name: { de: "Raemaru", hu: "Raemaru", ro: "Raemaru", en: "Raemaru" },
     coords: [-159.8181, -21.2305],
@@ -136,6 +139,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-ikurangi-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Ikurangi", hu: "Ikurangi", ro: "Ikurangi", en: "Ikurangi" },
     coords: [-159.7643, -21.2214],
@@ -180,6 +184,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-te-kou-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Te Kou", hu: "Te Kou", ro: "Te Kou", en: "Te Kou" },
     coords: [-159.7745, -21.2468],
@@ -224,6 +229,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-rangimotia-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Rangimotia", hu: "Rangimotia", ro: "Rangimotia", en: "Rangimotia" },
     coords: [-157.9254, -21.9161],
@@ -268,6 +274,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-maungatea-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Maungatea", hu: "Maungatea", ro: "Maungatea", en: "Maungatea" },
     coords: [-159.7803, -21.2282],
@@ -312,6 +319,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-te-atukura-relief-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Te Atukura", hu: "Te Atukura", ro: "Te Atukura", en: "Te Atukura" },
     coords: [-159.7731, -21.2392],
@@ -356,6 +364,7 @@ export const cookislandsReliefV2: POI[] = [
   },
   {
     id: "cookislands-orovaru-relief-v2",
+    parent: "CK",
     type: "mountain",
     name: { de: "Orovaru", hu: "Orovaru", ro: "Orovaru", en: "Orovaru" },
     coords: [-159.8055, -21.2421],

@@ -4,6 +4,7 @@ export const cookislandsLifeV2: POI[] = [
 
   {
     id: "cookislands-takitumu-conservation-area-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Takitumu Schutzgebiet", hu: "Takitumu Természetvédelmi Terület", ro: "Zona de Conservare Takitumu", en: "Takitumu Conservation Area" },
     coords: [-159.752, -21.258],
@@ -48,6 +49,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-suwarrow-national-park-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Suwarrow-Nationalpark", hu: "Suwarrow Nemzeti Park", ro: "Parcul Național Suwarrow", en: "Suwarrow National Park" },
     coords: [-163.102, -13.251],
@@ -92,6 +94,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-takutea-wildlife-sanctuary-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Wildtierschutzgebiet Takutea", hu: "Takutea Vadvédelmi Terület", ro: "Sanctuarul de Viață Sălbatică Takutea", en: "Takutea Wildlife Sanctuary" },
     coords: [-158.284, -19.814],
@@ -136,6 +139,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-atiu-bird-sanctuary-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Atiu Vogelschutzgebiet", hu: "Atiu Madárrezervátum", ro: "Rezervația de Păsări Atiu", en: "Atiu Bird Sanctuary" },
     coords: [-158.115, -18.723],
@@ -180,6 +184,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-manuae-marine-park-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Manuae Meerespark", hu: "Manuae Tengeri Park", ro: "Parcul Marin Manuae", en: "Manuae Marine Park" },
     coords: [-158.934, -19.262],
@@ -224,6 +229,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-aitutaki-clam-reserve-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Aitutaki Riesenmuschel-Reservat", hu: "Aitutaki Óriáskagyló-rezervátum", ro: "Rezervația de Scoici Gigante Aitutaki", en: "Aitutaki Giant Clam Reserve" },
     coords: [-159.764, -18.852],
@@ -268,6 +274,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-ngatangiia-mangroves-life-v2",
+    parent: "CK",
     type: "forest",
     name: { de: "Ngatangiia Mangroven", hu: "Ngatangiia Mangroveerdő", ro: "Mangrovele din Ngatangiia", en: "Ngatangiia Mangroves" },
     coords: [-159.734, -21.252],
@@ -312,6 +319,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-muri-lagoon-reserve-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Muri Lagunen-Schutzgebiet", hu: "Muri-lagúna Rezervátum", ro: "Rezervația Lagunei Muri", en: "Muri Lagoon Reserve" },
     coords: [-159.731, -21.264],
@@ -356,6 +364,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-raemaru-forest-reserve-life-v2",
+    parent: "CK",
     type: "forest",
     name: { de: "Raemaru Waldreservat", hu: "Raemaru Erdőrezervátum", ro: "Rezervația Forestieră Raemaru", en: "Raemaru Forest Reserve" },
     coords: [-159.812, -21.231],
@@ -400,6 +409,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-te-manga-cloud-forest-life-v2",
+    parent: "CK",
     type: "forest",
     name: { de: "Te Manga Nebelwald", hu: "Te Manga Köderdő", ro: "Pădurea de Ceață Te Manga", en: "Te Manga Cloud Forest" },
     coords: [-159.761, -21.242],
@@ -444,6 +454,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-palmerston-seabird-colony-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Palmerston Seevogelkolonie", hu: "Palmerston tengerimadár-kolónia", ro: "Colonia de Păsări din Palmerston", en: "Palmerston Seabird Colony" },
     coords: [-163.192, -18.053],
@@ -488,6 +499,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-pukapuka-lagoon-reserve-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Pukapuka Lagunenschutz", hu: "Pukapuka-lagúna Rezervátum", ro: "Rezervația Lagunei Pukapuka", en: "Pukapuka Lagoon Reserve" },
     coords: [-165.852, -10.884],
@@ -532,6 +544,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-penrhyn-shark-sanctuary-life-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Penrhyn Hai-Schutzgebiet", hu: "Penrhyn Cáparezervátum", ro: "Sanctuarul de Rechini Penrhyn", en: "Penrhyn Shark Sanctuary" },
     coords: [-157.974, -8.982],
@@ -576,6 +589,7 @@ export const cookislandsLifeV2: POI[] = [
   },
   {
     id: "cookislands-mauke-biodiversity-forest-life-v2",
+    parent: "CK",
     type: "forest",
     name: { de: "Mauke Biodiversitätswald", hu: "Mauke Biodiverzitás-erdő", ro: "Pădurea de Biodiversitate Mauke", en: "Mauke Biodiversity Forest" },
     coords: [-157.352, -20.154],

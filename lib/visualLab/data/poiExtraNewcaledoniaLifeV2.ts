@@ -4,6 +4,7 @@ export const newcaledoniaLifeV2: POI[] = [
 
   {
     id: "newcaledonia-riviere-bleue-park-life-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Provvinzpark Rivière Bleue", hu: "Rivière Bleue Tartományi Park", ro: "Parcul Provincial Rivière Bleue", en: "Rivière Bleue Provincial Park" },
     coords: [166.7558, -22.1022],
@@ -48,6 +49,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-noumea-zoo-forest-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Zoologischer und Forstpark Michel Corbasson", hu: "Michel Corbasson Állat- és Erdőpark", ro: "Parcul Zoologic și Forestier Michel Corbasson", en: "Michel Corbasson Zoological and Forest Park" },
     coords: [166.4566, -22.2541],
@@ -92,6 +94,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-grandes-fougeres-park-life-v2",
+    parent: "NC",
     type: "forest",
     name: { de: "Provvinzpark Grandes Fougères", hu: "Grandes Fougères Tartományi Park", ro: "Parcul Provincial Grandes Fougères", en: "Grandes Fougères Provincial Park" },
     coords: [165.7789, -21.6145],
@@ -136,6 +139,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-coral-sea-park-life-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Naturpark Korallenmeer", hu: "Korall-tenger Natúrpark", ro: "Parcul Natural al Mării de Corali", en: "Coral Sea Natural Park" },
     coords: [160.0, -19.0],
@@ -180,6 +184,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-amedee-island-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Meeresschutzgebiet Amédée-Leuchtturm", hu: "Amédée-világítótorony Tengeri Rezervátum", ro: "Rezervația Marină Farul Amédée", en: "Amédée Lighthouse Marine Reserve" },
     coords: [166.4741, -22.4777],
@@ -224,6 +229,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-duck-island-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Île aux Canards", hu: "Île aux Canards Természetvédelmi Terület", ro: "Rezervația Naturală Île aux Canards", en: "Île aux Canards Nature Reserve" },
     coords: [166.4361, -22.3128],
@@ -268,6 +274,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-roche-percee-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Roche Percée", hu: "Roche Percée Rezervátum", ro: "Rezervația Roche Percée", en: "Roche Percée Reserve" },
     coords: [165.4516, -21.6111],
@@ -312,6 +319,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-domaine-deva-life-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Naturgebiet Deva", hu: "Deva Természeti Terület", ro: "Domeniul Natural Deva", en: "Deva Natural Domain" },
     coords: [165.3458, -21.5744],
@@ -356,6 +364,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-noumea-botanical-garden-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Botanischer Garten Nouméa", hu: "Nouméa-i Botanikus Kert", ro: "Grădina Botanică Nouméa", en: "Nouméa Botanical Garden" },
     coords: [166.4552, -22.2536],
@@ -400,6 +409,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-panie-reserve-life-v2",
+    parent: "NC",
     type: "forest",
     name: { de: "Naturschutzgebiet Mont Panié", hu: "Mont Panié Természetvédelmi Terület", ro: "Rezervația Naturală Mont Panié", en: "Mont Panié Nature Reserve" },
     coords: [164.7708, -20.5888],
@@ -444,6 +454,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-ilot-maitre-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Îlot Maître", hu: "Îlot Maître Rezervátum", ro: "Rezervația Îlot Maître", en: "Îlot Maître Reserve" },
     coords: [166.4111, -22.3364],
@@ -488,6 +499,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-white-river-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Rivière Blanche", hu: "Rivière Blanche Rezervátum", ro: "Rezervația Rivière Blanche", en: "Rivière Blanche Reserve" },
     coords: [166.7167, -22.1333],
@@ -532,6 +544,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-signal-island-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Îlot Signal", hu: "Îlot Signal Természetvédelmi Terület", ro: "Rezervația Naturală Îlot Signal", en: "Îlot Signal Nature Reserve" },
     coords: [166.2917, -22.2961],
@@ -576,6 +589,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-yves-merlet-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Integrales Reservat Yves Merlet", hu: "Yves Merlet Integrált Rezervátum", ro: "Rezervația Integrală Yves Merlet", en: "Yves Merlet Integral Reserve" },
     coords: [167.0, -22.7],
@@ -620,6 +634,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-ouen-toro-forest-life-v2",
+    parent: "NC",
     type: "forest",
     name: { de: "Waldschutzgebiet Ouen Toro", hu: "Ouen Toro Erdőrezervátum", ro: "Rezervația Forestieră Ouen Toro", en: "Ouen Toro Forest Reserve" },
     coords: [166.4528, -22.3025],
@@ -664,6 +679,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-ouamenie-mangroves-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Mangroven von Ouaménie", hu: "Ouaménie mangrovék", ro: "Mangrovele din Ouaménie", en: "Ouaménie Mangroves" },
     coords: [166.0167, -21.8667],
@@ -708,6 +724,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-ouvea-atoll-lagoon-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Lagune des Ouvéa-Atolls", hu: "Ouvéa-atoll lagúnája", ro: "Laguna Atolului Ouvéa", en: "Ouvéa Atoll Lagoon" },
     coords: [166.55, -20.6167],
@@ -752,6 +769,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-prony-bay-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Bucht von Prony", hu: "Prony-öböl Rezervátum", ro: "Rezervația Golful Prony", en: "Prony Bay Reserve" },
     coords: [166.85, -22.3167],
@@ -796,6 +814,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-entrecasteaux-reefs-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Entrecasteaux-Riffe", hu: "Entrecasteaux-zátonyok", ro: "Recifele Entrecasteaux", en: "Entrecasteaux Reefs" },
     coords: [163.0, -18.0],
@@ -840,6 +859,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-netcha-reserve-life-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Naturschutzgebiet Netcha", hu: "Netcha Természetvédelmi Terület", ro: "Rezervația Naturală Netcha", en: "Netcha Nature Reserve" },
     coords: [166.8333, -22.1833],
@@ -884,6 +904,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-saille-forest-life-v2",
+    parent: "NC",
     type: "forest",
     name: { de: "Wald von Saille", hu: "Saille-erdő", ro: "Pădurea Saille", en: "Saille Forest" },
     coords: [165.9167, -21.4667],
@@ -928,6 +949,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-poindimie-marine-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Meeresschutzgebiet Poindimié", hu: "Poindimié Tengeri Rezervátum", ro: "Rezervația Marină Poindimié", en: "Poindimié Marine Reserve" },
     coords: [165.3333, -20.9333],
@@ -972,6 +994,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-upi-bay-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Bucht von Upi", hu: "Upi-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Golful Upi", en: "Upi Bay Nature Reserve" },
     coords: [167.5167, -22.6333],
@@ -1016,6 +1039,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-boulari-pass-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Boulari-Passage", hu: "Boulari-átjáró Rezervátum", ro: "Rezervația Pasul Boulari", en: "Boulari Pass Reserve" },
     coords: [166.4167, -22.4833],
@@ -1060,6 +1084,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-sarcelle-forest-life-v2",
+    parent: "NC",
     type: "forest",
     name: { de: "Waldschutzgebiet Sarcelle", hu: "Sarcelle Erdőrezervátum", ro: "Rezervația Forestieră Sarcelle", en: "Sarcelle Forest Reserve" },
     coords: [166.25, -21.6],
@@ -1104,6 +1129,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-laregnere-island-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Îlot Larégnère", hu: "Îlot Larégnère Rezervátum", ro: "Rezervația Îlot Larégnère", en: "Îlot Larégnère Reserve" },
     coords: [166.3056, -22.3308],
@@ -1148,6 +1174,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-bellona-reefs-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Bellona-Riffe", hu: "Bellona-zátonyok", ro: "Recifele Bellona", en: "Bellona Reefs" },
     coords: [159.0, -21.3],
@@ -1192,6 +1219,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-voh-heart-mangrove-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Herz von Voh Mangroven", hu: "Voh-szív mangrovék", ro: "Inima din Voh Mangrove", en: "Heart of Voh Mangroves" },
     coords: [164.65, -20.9333],
@@ -1236,6 +1264,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-turtle-bay-reserve-life-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Schutzgebiet Schildkrötenbucht", hu: "Teknős-öböl Rezervátum", ro: "Rezervația Golful Tortues", en: "Turtle Bay Reserve" },
     coords: [165.4333, -21.6167],
@@ -1280,6 +1309,7 @@ export const newcaledoniaLifeV2: POI[] = [
   },
   {
     id: "newcaledonia-madeleine-waterfalls-reserve-life-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Schutzgebiet Madeleine-Wasserfälle", hu: "Madeleine-vízesés Rezervátum", ro: "Rezervația Cascada Madeleine", en: "Madeleine Waterfalls Reserve" },
     coords: [166.8667, -22.15],

@@ -4,6 +4,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
 
   {
     id: "frenchpolynesia-harrison-smith-garden-life-v2",
+    parent: "PF",
     type: "park",
     name: { de: "Harrison Smith Botanischer Garten", hu: "Harrison Smith Botanikus Kert", ro: "Grădina Botanică Harrison Smith", en: "Harrison Smith Botanical Garden" },
     coords: [-149.3015, -17.7691],
@@ -48,6 +49,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fakarava-biosphere-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Fakarava UNESCO-Biosphärenreservat", hu: "Fakarava UNESCO Bioszféra-rezervátum", ro: "Rezervația Biosferei UNESCO Fakarava", en: "Fakarava UNESCO Biosphere Reserve" },
     coords: [-145.6212, -16.3045],
@@ -92,6 +94,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-te-faaiti-park-life-v2",
+    parent: "PF",
     type: "park",
     name: { de: "Te Fa'aiti Naturpark", hu: "Te Fa'aiti Natúrpark", ro: "Parcul Natural Te Fa'aiti", en: "Te Fa'aiti Natural Park" },
     coords: [-149.4215, -17.6325],
@@ -136,6 +139,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tetiaroa-birds-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Tetiaroa Vogelschutzgebiet", hu: "Tetiaroa Madárrezervátum", ro: "Rezervația de Păsări Tetiaroa", en: "Tetiaroa Bird Sanctuary" },
     coords: [-149.5622, -17.0125],
@@ -180,6 +184,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rimatara-ura-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Rimatara Ura-Vogelreservat", hu: "Rimatara Ura Madárrezervátum", ro: "Rezervația de Păsări Ura din Rimatara", en: "Rimatara Ura Bird Reserve" },
     coords: [-152.8105, -22.6512],
@@ -224,6 +229,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-ua-huka-garden-life-v2",
+    parent: "PF",
     type: "park",
     name: { de: "Ua Huka Botanischer Garten", hu: "Ua Huka Botanikus Kert", ro: "Grădina Botanică Ua Huka", en: "Ua Huka Botanical Garden" },
     coords: [-139.5512, -8.9325],
@@ -268,6 +274,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-eiao-reserve-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Eiao Insel-Naturreservat", hu: "Eiao-szigeti Természetvédelmi Terület", ro: "Rezervația Naturală Insula Eiao", en: "Eiao Island Nature Reserve" },
     coords: [-140.7025, -7.9812],
@@ -312,6 +319,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mohotani-reserve-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Mohotani Naturreservat", hu: "Mohotani Természetvédelmi Terület", ro: "Rezervația Naturală Mohotani", en: "Mohotani Nature Reserve" },
     coords: [-138.8312, -9.9525],
@@ -356,6 +364,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hatutu-reserve-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Hatutu Naturschutzgebiet", hu: "Hatutu Természetvédelmi Terület", ro: "Rezervația Naturală Hatutu", en: "Hatutu Nature Reserve" },
     coords: [-140.5745, -7.9215],
@@ -400,6 +409,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fataua-valley-life-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Fataua-Tal Naturschutzgebiet", hu: "Fataua-völgy Természetvédelmi Terület", ro: "Rezervația Naturală Valea Fataua", en: "Fataua Valley Nature Area" },
     coords: [-149.5415, -17.5712],
@@ -444,6 +454,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papenoo-valley-life-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Papenoo-Tal Wildtierkorridor", hu: "Papenoo-völgy Vadvilági Folyosó", ro: "Coridorul de Faună Valea Papenoo", en: "Papenoo Valley Nature Reserve" },
     coords: [-149.4312, -17.6045],
@@ -488,6 +499,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-opunohu-valley-life-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Opunohu-Tal Ökosystem", hu: "Opunohu-völgy Ökoszisztéma", ro: "Ecosistemul Valea Opunohu", en: "Opunohu Valley Nature Area" },
     coords: [-149.8415, -17.5312],
@@ -532,6 +544,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faaroa-reserve-life-v2",
+    parent: "PF",
     type: "river",
     name: { de: "Faaroa-Fluss Naturreservat", hu: "Faaroa-folyó Természetvédelmi Terület", ro: "Rezervația Naturală Râul Faaroa", en: "Faaroa River Nature Reserve" },
     coords: [-151.4245, -16.8215],
@@ -576,6 +589,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rangiroa-lagoon-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Rangiroa Lagunen-Schutzgebiet", hu: "Rangiroa Lagúna-védelmi Terület", ro: "Zona de Protecție a Lagunei Rangiroa", en: "Rangiroa Lagoon Sanctuary" },
     coords: [-147.6512, -15.1245],
@@ -620,6 +634,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-moorea-lagoonarium-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Moorea Lagoonarium", hu: "Moorea Lagoonarium", ro: "Lagoonarium Moorea", en: "Moorea Lagoonarium" },
     coords: [-149.7712, -17.5345],
@@ -664,6 +679,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-bora-bora-turtles-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Bora Bora Meeresschildkröten-Zentrum", hu: "Bora Bora Tengeri Teknős Központ", ro: "Centrul de Țestoase Marine Bora Bora", en: "Bora Bora Turtle Center" },
     coords: [-151.7125, -16.4812],
@@ -708,6 +724,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-toau-wildlife-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Toau Atoll Wildtiergebiet", hu: "Toau Atoll Vadvilági Terület", ro: "Zona de Faună Sălbatică Atolul Toau", en: "Toau Atoll Wildlife Area" },
     coords: [-146.0215, -15.8212],
@@ -752,6 +769,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-makatea-birds-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Makatea Vogelplateau", hu: "Makatea Madár-fennsík", ro: "Podișul de Păsări Makatea", en: "Makatea Bird Plateau" },
     coords: [-148.2512, -15.8325],
@@ -796,6 +814,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tahiti-lagoonarium-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Tahiti Lagoonarium", hu: "Tahiti Lagoonarium", ro: "Lagoonarium Tahiti", en: "Tahiti Lagoonarium" },
     coords: [-149.6145, -17.5912],
@@ -840,6 +859,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaiare-trail-life-v2",
+    parent: "PF",
     type: "park",
     name: { de: "Vaiare-Paopao Naturpfad", hu: "Vaiare-Paopao Tanösvény", ro: "Traseul Natural Vaiare-Paopao", en: "Vaiare-Paopao Nature Trail" },
     coords: [-149.7812, -17.5215],
@@ -884,6 +904,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-rotui-life-v2",
+    parent: "PF",
     type: "mountain",
     name: { de: "Berg Rotui Naturgebiet", hu: "Rotui-hegy Természeti Terület", ro: "Zona Naturală Muntele Rotui", en: "Mount Rotui Nature Area" },
     coords: [-149.8312, -17.5025],
@@ -928,6 +949,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-moorea-tropical-garden-life-v2",
+    parent: "PF",
     type: "park",
     name: { de: "Tropischer Garten Moorea", hu: "Moorea Trópusi Kert", ro: "Grădina Tropicală Moorea", en: "Moorea Tropical Garden" },
     coords: [-149.8612, -17.4945],
@@ -972,6 +994,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-te-pari-cliffs-life-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Te Pari Klippenreservat", hu: "Te Pari Sziklák Rezervátum", ro: "Rezervația Falezelor Te Pari", en: "Te Pari Cliffs Reserve" },
     coords: [-149.2045, -17.8412],
@@ -1016,6 +1039,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaipo-nature-life-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Vaipo Naturschutzgebiet", hu: "Vaipo Természetvédelmi Terület", ro: "Rezervația Naturală Vaipo", en: "Vaipo Nature Area" },
     coords: [-140.1612, -8.9215],
@@ -1060,6 +1084,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rurutu-whales-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Rurutu Wal-Schutzgebiet", hu: "Rurutu Bálnarezervátum", ro: "Rezervația de Balene Rurutu", en: "Rurutu Whale Sanctuary" },
     coords: [-151.3512, -22.4512],
@@ -1104,6 +1129,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tahaa-coral-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Taha'a Korallengarten", hu: "Taha'a Korallkert", ro: "Grădina de Corali Taha'a", en: "Taha'a Coral Garden" },
     coords: [-151.5245, -16.5812],
@@ -1148,6 +1174,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-bora-bora-rays-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Leopardenrochen-Graben Bora Bora", hu: "Leopárdrája-árok Bora Bora", ro: "Groapa Raze-Leopard Bora Bora", en: "Bora Bora Leopard Ray Trench" },
     coords: [-151.7012, -16.5112],
@@ -1192,6 +1219,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-maupiti-mantas-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Maupiti Mantarochen-Punkt", hu: "Maupiti Mantarája-pont", ro: "Punctul de Raze Manta Maupiti", en: "Maupiti Manta Ray Point" },
     coords: [-152.2512, -16.4512],
@@ -1236,6 +1264,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tetiaroa-lagoon-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Tetiaroa Lagunen-Reservat", hu: "Tetiaroa Lagúna-rezervátum", ro: "Rezervația Lagunei Tetiaroa", en: "Tetiaroa Lagoon Reserve" },
     coords: [-149.5712, -17.0215],
@@ -1280,6 +1309,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
   },
   {
     id: "frenchpolynesia-ahe-oysters-life-v2",
+    parent: "PF",
     type: "wildlife",
     name: { de: "Ahe Perlaustern-Biotop", hu: "Ahe Gyöngykagyló Biotóp", ro: "Biotopul de Scoici Perliere Ahe", en: "Ahe Pearl Oyster Habitat" },
     coords: [-146.3615, -14.4712],

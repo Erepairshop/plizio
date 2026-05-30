@@ -4,6 +4,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
 
   {
     id: "frenchpolynesia-papeete-cathedral-landmarks-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "Kathedrale von Papeete", hu: "Papeete-i székesegyház", ro: "Catedrala din Papeete", en: "Papeete Cathedral" },
     coords: [-149.5694, -17.5389],
@@ -48,6 +49,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-robert-wan-pearl-museum-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Robert Wan Perlenmuseum", hu: "Robert Wan Gyöngymúzeum", ro: "Muzeul Perlei Robert Wan", en: "Robert Wan Pearl Museum" },
     coords: [-149.5639, -17.5333],
@@ -92,6 +94,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-james-norman-hall-museum-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "James Norman Hall Museum", hu: "James Norman Hall Múzeum", ro: "Muzeul James Norman Hall", en: "James Norman Hall Museum" },
     coords: [-149.5264, -17.5181],
@@ -136,6 +139,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-point-venus-lighthouse-landmarks-v2",
+    parent: "PF",
     type: "tower",
     name: { de: "Leuchtturm von Point Venus", hu: "Point Venus világítótorony", ro: "Farul de la Point Venus", en: "Point Venus Lighthouse" },
     coords: [-149.4958, -17.4975],
@@ -180,6 +184,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paofai-temple-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Paofai Tempel", hu: "Paofai templom", ro: "Templul Paofai", en: "Paofai Temple" },
     coords: [-149.5742, -17.5392],
@@ -224,6 +229,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-war-memorial-papeete-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Kriegerdenkmal von Papeete", hu: "Papeete-i háborús emlékmű", ro: "Monumentul Eroilor din Papeete", en: "War Memorial Papeete" },
     coords: [-149.5692, -17.5408],
@@ -268,6 +274,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paul-gauguin-museum-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Paul Gauguin Museum", hu: "Paul Gauguin Múzeum", ro: "Muzeul Paul Gauguin", en: "Paul Gauguin Museum" },
     coords: [-149.2981, -17.7664],
@@ -312,6 +319,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-taata-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Ta'ata", hu: "Marae Ta'ata", ro: "Marae Ta'ata", en: "Marae Ta'ata" },
     coords: [-149.6056, -17.6144],
@@ -356,6 +364,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-notre-dame-fatima-moorea-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Notre Dame de Fatima (Moorea)", hu: "Notre Dame de Fatima templom (Moorea)", ro: "Notre Dame de Fatima (Moorea)", en: "Notre Dame de Fatima Moorea" },
     coords: [-149.7761, -17.5258],
@@ -400,6 +409,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-st-joseph-church-faanui-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "St. Joseph Kirche (Bora Bora)", hu: "Szent József templom (Bora Bora)", ro: "Biserica Sfântul Iosif (Bora Bora)", en: "St. Joseph Church Faanui" },
     coords: [-151.7408, -16.4889],
@@ -444,6 +454,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marine-museum-bora-bora-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Schifffahrtsmuseum Bora Bora", hu: "Bora Bora Tengerészeti Múzeum", ro: "Muzeul Marinei din Bora Bora", en: "Marine Museum Bora Bora" },
     coords: [-151.7244, -16.4522],
@@ -488,6 +499,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-wwii-cannons-bora-bora-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "WK II Kanonen von Bora Bora", hu: "II. világháborús ágyúk (Bora Bora)", ro: "Tunurile din al Doilea Război Mondial", en: "WWII Cannons Bora Bora" },
     coords: [-151.7611, -16.4958],
@@ -532,6 +544,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-st-michael-cathedral-rikitea-landmarks-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "St. Michael Kathedrale (Rikitea)", hu: "Szent Mihály-székesegyház (Rikitea)", ro: "Catedrala Sfântul Mihail (Rikitea)", en: "St. Michael's Cathedral Rikitea" },
     coords: [-134.9658, -23.1203],
@@ -576,6 +589,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-uturoa-town-hall-landmarks-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Rathaus von Uturoa", hu: "Uturoa-i városháza", ro: "Primăria din Uturoa", en: "Uturoa Town Hall" },
     coords: [-151.4422, -16.7336],
@@ -620,6 +634,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-moorea-shell-museum-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Muschelmuseum Moorea", hu: "Moorea-i Kagylómúzeum", ro: "Muzeul Scoicilor din Moorea", en: "Moorea Shell Museum" },
     coords: [-149.8847, -17.4853],
@@ -664,6 +679,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-taiohae-landmarks-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "Kathedrale von Taiohae", hu: "Taiohae-i székesegyház", ro: "Catedrala din Taiohae", en: "Notre Dame Cathedral Taiohae" },
     coords: [-140.1011, -8.9136],
@@ -708,6 +724,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-kamuihei-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Kamuihei", hu: "Marae Kamuihei", ro: "Marae Kamuihei", en: "Marae Kamuihei" },
     coords: [-140.1336, -8.8686],
@@ -752,6 +769,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-statue-of-the-virgin-hiva-oa-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Statue der Jungfrau (Hiva Oa)", hu: "A Szűz szobra (Hiva Oa)", ro: "Statuia Fecioarei (Hiva Oa)", en: "Statue of the Virgin Hiva Oa" },
     coords: [-139.0411, -9.8033],
@@ -796,6 +814,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-te-fare-tauhiti-nui-landmarks-v2",
+    parent: "PF",
     type: "theater",
     name: { de: "Te Fare Tauhiti Nui (Haus der Kultur)", hu: "Te Fare Tauhiti Nui (Kultúrház)", ro: "Te Fare Tauhiti Nui (Casa Culturii)", en: "Te Fare Tauhiti Nui" },
     coords: [-149.5772, -17.5358],
@@ -840,6 +859,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-bounty-monument-mahina-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Bounty Denkmal (Mahina)", hu: "Bounty emlékmű (Mahina)", ro: "Monumentul Bounty (Mahina)", en: "Bounty Monument Mahina" },
     coords: [-149.4953, -17.4972],
@@ -884,6 +904,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-st-paul-church-tautira-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "St. Paul Kirche (Tautira)", hu: "Szent Pál templom (Tautira)", ro: "Biserica Sfântul Paul (Tautira)", en: "St. Paul Church Tautira" },
     coords: [-149.1556, -17.7342],
@@ -928,6 +949,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fare-potee-huahine-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Fare Pote'e (Huahine Museum)", hu: "Fare Pote'e (Huahine Múzeum)", ro: "Fare Pote'e (Muzeul Huahine)", en: "Fare Potee Huahine" },
     coords: [-151.0181, -16.7214],
@@ -972,6 +994,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-st-anne-church-fatu-hiva-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "St. Anna Kirche (Fatu Hiva)", hu: "Szent Anna templom (Fatu Hiva)", ro: "Biserica Sfânta Ana (Fatu Hiva)", en: "St. Anne Church Fatu Hiva" },
     coords: [-138.6658, -10.4789],
@@ -1016,6 +1039,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-assembly-of-french-polynesia-landmarks-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Versammlung von Französisch-Polynesien", hu: "Francia Polinézia Gyűlése", ro: "Adunarea Polineziei Franceze", en: "Assembly of French Polynesia" },
     coords: [-149.5694, -17.5422],
@@ -1060,6 +1084,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-high-commissioner-residence-landmarks-v2",
+    parent: "PF",
     type: "palace",
     name: { de: "Residenz des Hochkommissars", hu: "Főbiztosi rezidencia", ro: "Reședința Înaltului Comisar", en: "High Commissioner's Residence" },
     coords: [-149.5708, -17.5431],
@@ -1104,6 +1129,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tomb-of-king-pomare-v-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Grab von König Pomare V.", hu: "V. Pomare király sírja", ro: "Mormântul regelui Pomare V", en: "Tomb of King Pomare V" },
     coords: [-149.5447, -17.5142],
@@ -1148,6 +1174,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-captain-cook-monument-mahina-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Captain Cook Denkmal (Mahina)", hu: "Captain Cook emlékmű (Mahina)", ro: "Monumentul Căpitanului Cook (Mahina)", en: "Captain Cook Monument Mahina" },
     coords: [-149.4951, -17.4975],
@@ -1192,6 +1219,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-afareaito-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Afareaito", hu: "Marae Afareaito", ro: "Marae Afareaito", en: "Marae Afareaito" },
     coords: [-149.7892, -17.5586],
@@ -1236,6 +1264,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papetoai-octagonal-church-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Oktogonale Kirche von Papetoai", hu: "Papetoai-i nyolcszögletű templom", ro: "Biserica octogonală din Papetoai", en: "Papetoai Octagonal Church" },
     coords: [-149.8731, -17.4947],
@@ -1280,6 +1309,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-nuutere-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Nuutere", hu: "Marae Nuutere", ro: "Marae Nuutere", en: "Marae Nuutere" },
     coords: [-149.3333, -17.5833],
@@ -1324,6 +1354,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-fare-rua-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Fare Rua", hu: "Marae Fare Rua", ro: "Marae Fare Rua", en: "Marae Fare Rua" },
     coords: [-151.0183, -16.7125],
@@ -1368,6 +1399,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-alain-despert-gallery-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Galerie Alain Despert", hu: "Alain Despert Galéria", ro: "Galeria Alain Despert", en: "Alain Despert Gallery" },
     coords: [-151.7456, -16.5122],
@@ -1412,6 +1444,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-opunohu-temple-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Tempel von Opunohu", hu: "Opunohu templom", ro: "Templul din Opunohu", en: "Opunohu Temple" },
     coords: [-149.8511, -17.5114],
@@ -1456,6 +1489,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-haapiti-church-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Kirche von Haapiti", hu: "Haapiti templom", ro: "Biserica din Haapiti", en: "Haapiti Church" },
     coords: [-149.8789, -17.5681],
@@ -1500,6 +1534,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-rauhuru-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Rauhuru", hu: "Marae Rauhuru", ro: "Marae Rauhuru", en: "Marae Rauhuru" },
     coords: [-151.0186, -16.7111],
@@ -1544,6 +1579,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-missionaries-monument-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Denkmal der Missionare", hu: "Misszionáriusok emlékműve", ro: "Monumentul Misionarilor", en: "Monument of the Missionaries" },
     coords: [-149.4964, -17.4981],
@@ -1588,6 +1624,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-kanti-chinese-temple-landmarks-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Kanti Chinesischer Tempel", hu: "Kanti kínai templom", ro: "Templul chinezesc Kanti", en: "Kanti Chinese Temple" },
     coords: [-149.5539, -17.5458],
@@ -1620,6 +1657,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paofai-protestant-church-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Evangelische Kirche Paofai", hu: "Paofai evangélikus templom", ro: "Biserica Protestantă Paofai", en: "Paofai Protestant Church" },
     coords: [-149.5744, -17.5394],
@@ -1664,6 +1702,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-uturoa-war-memorial-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Kriegerdenkmal von Uturoa", hu: "Uturoa-i háborús emlékmű", ro: "Monumentul Eroilor din Uturoa", en: "Uturoa War Memorial" },
     coords: [-151.4419, -16.7331],
@@ -1708,6 +1747,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-marae-taata-v2-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Marae Taata (Zweite Anlage)", hu: "Marae Marae Taata (második helyszín)", ro: "Marae Marae Taata (al doilea sit)", en: "Marae Marae Taata" },
     coords: [-149.6053, -17.6147],
@@ -1752,6 +1792,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-nuku-hiva-landmarks-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "Kathedrale Notre-Dame (Nuku Hiva)", hu: "Notre-Dame székesegyház (Nuku Hiva)", ro: "Catedrala Notre-Dame (Nuku Hiva)", en: "Notre Dame Cathedral Nuku Hiva" },
     coords: [-140.1014, -8.9139],
@@ -1796,6 +1837,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fare-potee-maeva-landmarks-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Fare Pote'e in Maeva", hu: "Fare Pote'e (Maeva)", ro: "Fare Pote'e din Maeva", en: "Fare Potee Maeva" },
     coords: [-151.0186, -16.7217],
@@ -1840,6 +1882,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-memorial-to-the-bounty-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Denkmal der Bounty (Tahiti)", hu: "Bounty emlékmű (Tahiti)", ro: "Memorialul Bounty (Tahiti)", en: "Bounty Memorial Tahiti" },
     coords: [-149.4955, -17.4972],
@@ -1884,6 +1927,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-titiroa-moorea-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Titiroa (Moorea)", hu: "Marae Titiroa (Moorea)", ro: "Marae Titiroa (Moorea)", en: "Marae Titiroa Moorea" },
     coords: [-149.8319, -17.5342],
@@ -1928,6 +1972,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paofai-gardens-monument-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Denkmal in den Paofai-Gärten", hu: "Paofai-kertek emlékműve", ro: "Monumentul din Grădinile Paofai", en: "Paofai Gardens Monument" },
     coords: [-149.5761, -17.5386],
@@ -1972,6 +2017,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-memorial-to-nuclear-testing-landmarks-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Mahnmal für die Atomtests", hu: "Atomkísérletek emlékműve", ro: "Memorialul testelor nucleare", en: "Memorial to Nuclear Testing" },
     coords: [-149.5756, -17.5383],
@@ -2016,6 +2062,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaima-center-landmarks-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Vaima Zentrum", hu: "Vaima Központ", ro: "Centrul Vaima", en: "Vaima Center" },
     coords: [-149.5683, -17.5381],
@@ -2060,6 +2107,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-church-of-st-jean-baptiste-landmarks-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Kirche St. Jean Baptiste", hu: "Keresztelő Szent János templom", ro: "Biserica Sfântul Ioan Botezătorul", en: "Church of St. Jean Baptiste" },
     coords: [-149.4444, -17.5406],
@@ -2104,6 +2152,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-lighthouse-at-pointe-de-maatea-landmarks-v2",
+    parent: "PF",
     type: "tower",
     name: { de: "Leuchtturm von Maatea", hu: "Maatea világítótorony", ro: "Farul din Maatea", en: "Lighthouse at Maatea" },
     coords: [-149.7781, -17.5922],
@@ -2148,6 +2197,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-borabora-valley-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae im Tal von Bora Bora", hu: "Bora Bora-völgyi marae", ro: "Marae din valea Bora Bora", en: "Marae in Bora Bora Valley" },
     coords: [-151.7289, -16.4914],
@@ -2192,6 +2242,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papeete-lighthouse-landmarks-v2",
+    parent: "PF",
     type: "tower",
     name: { de: "Hafenleuchtturm Papeete", hu: "Papeete-i kikötői világítótorony", ro: "Farul portului Papeete", en: "Papeete Port Lighthouse" },
     coords: [-149.5747, -17.5281],
@@ -2236,6 +2287,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-uturoa-public-library-landmarks-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Öffentliche Bibliothek Uturoa", hu: "Uturoa-i nyilvános könyvtár", ro: "Biblioteca publică din Uturoa", en: "Uturoa Public Library" },
     coords: [-151.4425, -16.7339],
@@ -2280,6 +2332,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-fare-potee-landmarks-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Fare Pote'e", hu: "Marae Fare Pote'e", ro: "Marae Fare Pote'e", en: "Marae Fare Pote'e" },
     coords: [-151.0189, -16.7219],
@@ -2324,6 +2377,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-rikitea-v2-landmarks-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "Kathedrale Notre-Dame (Rikitea)", hu: "Notre-Dame székesegyház (Rikitea)", ro: "Catedrala Notre-Dame (Rikitea)", en: "Notre Dame Cathedral Rikitea" },
     coords: [-134.9661, -23.1206],

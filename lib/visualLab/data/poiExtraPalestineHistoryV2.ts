@@ -4,6 +4,7 @@ export const palestineHistoryV2: POI[] = [
 
   {
     id: "palestine-tell-es-sultan-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell es-Sultan", hu: "Tell es-Szultán", ro: "Tell es-Sultan", en: "Tell es-Sultan" },
     coords: [35.4444, 31.8708],
@@ -48,6 +49,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-hishams-palace-history-v2",
+    parent: "PS",
     type: "palace",
     name: { de: "Hischam-Palast", hu: "Hisám-palota", ro: "Palatul lui Hisham", en: "Hisham's Palace" },
     coords: [35.4597, 31.8825],
@@ -92,6 +94,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-sebastia-ruins-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Sebastia", hu: "Sebastia", ro: "Sebastia", en: "Sebastia" },
     coords: [35.1908, 32.2764],
@@ -136,6 +139,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-hebron-old-city-history-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Hebron Altstadt", hu: "Hebron óvárosa", ro: "Orașul vechi Hebron", en: "Hebron Old City" },
     coords: [35.1086, 31.5242],
@@ -180,6 +184,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-cave-patriarchs-history-v2",
+    parent: "PS",
     type: "monument",
     name: { de: "Höhle der Patriarchen", hu: "Pátriárkák sírja", ro: "Peștera Patriarhilor", en: "Cave of the Patriarchs" },
     coords: [35.1107, 31.5247],
@@ -224,6 +229,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-church-nativity-history-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Geburtskirche", hu: "Születés Temploma", ro: "Biserica Nașterii Domnului", en: "Church of the Nativity" },
     coords: [35.2076, 31.7044],
@@ -268,6 +274,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-solomons-pools-history-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Salomons Teiche", hu: "Salamon tavai", ro: "Bazinele lui Solomon", en: "Solomon's Pools" },
     coords: [35.1683, 31.6894],
@@ -312,6 +319,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-mar-saba-monastery-history-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Kloster Mar Saba", hu: "Már Szába kolostor", ro: "Mănăstirea Mar Saba", en: "Mar Saba Monastery" },
     coords: [35.3312, 31.7052],
@@ -356,6 +364,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-monastery-temptation-history-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Kloster der Versuchung", hu: "Megkísértés kolostora", ro: "Mănăstirea Ispitirii", en: "Monastery of the Temptation" },
     coords: [35.4319, 31.8744],
@@ -400,6 +409,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-st-georges-monastery-history-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Kloster St. Georg", hu: "Szent György kolostor", ro: "Mănăstirea Sf. Gheorghe", en: "St. George's Monastery" },
     coords: [35.4142, 31.8439],
@@ -444,6 +454,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-tell-balata-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell Balata", hu: "Tell Balata", ro: "Tell Balata", en: "Tell Balata" },
     coords: [35.2825, 32.2133],
@@ -488,6 +499,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-jacobs-well-history-v2",
+    parent: "PS",
     type: "monument",
     name: { de: "Jakobsbrunnen", hu: "Jákob kútja", ro: "Fântâna lui Iacov", en: "Jacob's Well" },
     coords: [35.2853, 32.2094],
@@ -532,6 +544,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-battir-history-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Battir", hu: "Battir", ro: "Battir", en: "Battir" },
     coords: [35.1383, 31.7297],
@@ -576,6 +589,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-saint-hilarion-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Kloster St. Hilarion", hu: "Szent Hilárión kolostor", ro: "Mănăstirea Sf. Ilarion", en: "Saint Hilarion Monastery" },
     coords: [34.3731, 31.4483],
@@ -620,6 +634,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-great-mosque-gaza-history-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Große Moschee von Gaza", hu: "Gázai nagymecset", ro: "Marea Moschee din Gaza", en: "Great Mosque of Gaza" },
     coords: [34.4633, 31.5042],
@@ -664,6 +679,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-qasr-al-basha-history-v2",
+    parent: "PS",
     type: "palace",
     name: { de: "Qasr al-Basha", hu: "Kaszr al-Basa", ro: "Qasr al-Basha", en: "Qasr al-Basha" },
     coords: [34.4664, 31.5055],
@@ -708,6 +724,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-anthedon-harbor-history-v2",
+    parent: "PS",
     type: "port",
     name: { de: "Anthedon Hafen", hu: "Anthedon kikötő", ro: "Portul Anthedon", en: "Anthedon Harbor" },
     coords: [34.4533, 31.5383],
@@ -752,6 +769,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-saint-porphyrius-history-v2",
+    parent: "PS",
     type: "church",
     name: { de: "St.-Porphyrius-Kirche", hu: "Szent Porphyrius-templom", ro: "Biserica Sf. Porfirie", en: "Church of Saint Porphyrius" },
     coords: [34.4611, 31.5033],
@@ -796,6 +814,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-tell-es-sakan-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell es-Sakan", hu: "Tell es-Szakan", ro: "Tell es-Sakan", en: "Tell es-Sakan" },
     coords: [34.4175, 31.4742],
@@ -840,6 +859,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-jabalia-byzantine-church-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Byzantinische Kirche Jabalia", hu: "Jabaliai bizánci templom", ro: "Biserica bizantină din Jabalia", en: "Byzantine Church of Jabalia" },
     coords: [34.4983, 31.5333],
@@ -884,6 +904,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-nablus-old-city-history-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Altstadt von Nablus", hu: "Nablusz óvárosa", ro: "Orașul vechi Nablus", en: "Nablus Old City" },
     coords: [35.2611, 32.2197],
@@ -928,6 +949,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-burqin-church-history-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Burqin-Kirche", hu: "Burkini templom", ro: "Biserica din Burqin", en: "Burqin Church" },
     coords: [35.2683, 32.4633],
@@ -972,6 +994,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-birzeit-old-city-history-v2",
+    parent: "PS",
     type: "city",
     name: { de: "Birzeit Altstadt", hu: "Birzeit óvárosa", ro: "Orașul vechi Birzeit", en: "Birzeit Old City" },
     coords: [35.1825, 31.9686],
@@ -1016,6 +1039,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-taybeh-ruins-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Taybeh Ruinen", hu: "Taybeh romjai", ro: "Ruinele din Taybeh", en: "Taybeh Ruins" },
     coords: [35.2994, 31.9542],
@@ -1060,6 +1084,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-nebi-musa-history-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Nabi Musa", hu: "Nabi Músza", ro: "Nabi Musa", en: "Nebi Musa" },
     coords: [35.4311, 31.7875],
@@ -1104,6 +1129,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-tell-en-nasbeh-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell en-Nasbeh", hu: "Tell en-Naszbe", ro: "Tell en-Nasbeh", en: "Tell en-Nasbeh" },
     coords: [35.2167, 31.8853],
@@ -1148,6 +1174,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-shiloh-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Schilo", hu: "Siló", ro: "Shiloh", en: "Shiloh" },
     coords: [35.2894, 32.0558],
@@ -1192,6 +1219,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-beitin-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Beitin", hu: "Bejtin", ro: "Beitin", en: "Beitin" },
     coords: [35.2367, 31.9275],
@@ -1236,6 +1264,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-tell-el-farah-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell el-Far'ah", hu: "Tell el-Far'ah", ro: "Tell el-Far'ah", en: "Tell el-Far'ah" },
     coords: [35.3383, 32.2856],
@@ -1280,6 +1309,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-tell-taannek-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell Taannek", hu: "Tell Taannek", ro: "Tell Taannek", en: "Tell Taannek" },
     coords: [35.2214, 32.5186],
@@ -1324,6 +1354,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-tel-dothan-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Tell Dothan", hu: "Tell Dotán", ro: "Tell Dothan", en: "Tel Dothan" },
     coords: [35.2425, 32.4142],
@@ -1368,6 +1399,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-archelais-history-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Archelais", hu: "Archelaisz", ro: "Archelais", en: "Archelais" },
     coords: [35.4514, 31.9442],
@@ -1412,6 +1444,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-baptism-site-history-v2",
+    parent: "PS",
     type: "monument",
     name: { de: "Taufstelle Qasr el-Yahud", hu: "Kaszer el-Jahud", ro: "Qasr el-Yahud", en: "Baptism Site" },
     coords: [35.5458, 31.8375],
@@ -1456,6 +1489,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-khan-al-lubban-history-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Khan al-Lubban", hu: "Hán al-Lubbán", ro: "Khan al-Lubban", en: "Khan al-Lubban" },
     coords: [35.2433, 32.0675],
@@ -1500,6 +1534,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-deir-ghassaneh-history-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Deir Ghassaneh", hu: "Deir Gasszane", ro: "Deir Ghassaneh", en: "Deir Ghassaneh" },
     coords: [35.0994, 32.0356],
@@ -1544,6 +1579,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-aboud-history-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Aboud", hu: "Abúd", ro: "Aboud", en: "Aboud" },
     coords: [35.0817, 32.0333],
@@ -1588,6 +1624,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-jifna-history-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Jifna", hu: "Dzsiszna", ro: "Jifna", en: "Jifna" },
     coords: [35.2167, 31.9633],
@@ -1632,6 +1669,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-kur-village-history-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Kur", hu: "Kur", ro: "Kur", en: "Kur" },
     coords: [35.0975, 32.2183],
@@ -1676,6 +1714,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-arraba-palaces-history-v2",
+    parent: "PS",
     type: "palace",
     name: { de: "Paläste von Arraba", hu: "Arraba palotái", ro: "Palatele din Arraba", en: "Arraba Palaces" },
     coords: [35.2025, 32.4042],
@@ -1720,6 +1759,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-sanur-citadel-history-v2",
+    parent: "PS",
     type: "castle",
     name: { de: "Zitadelle von Sanur", hu: "Szannúr citadellája", ro: "Cetatea din Sanur", en: "Sanur Citadel" },
     coords: [35.2442, 32.3556],
@@ -1764,6 +1804,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-via-dolorosa-history-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Via Dolorosa", hu: "Via Dolorosa", ro: "Via Dolorosa", en: "Via Dolorosa" },
     coords: [35.2319, 31.7797],
@@ -1808,6 +1849,7 @@ export const palestineHistoryV2: POI[] = [
   },
   {
     id: "palestine-rachel-tomb-history-v2",
+    parent: "PS",
     type: "monument",
     name: { de: "Rahels Grab", hu: "Ráchel sírja", ro: "Mormântul Rahelei", en: "Rachel's Tomb" },
     coords: [35.2019, 31.7208],

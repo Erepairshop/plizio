@@ -4,6 +4,7 @@ export const newcaledoniaNatureV2: POI[] = [
 
   {
     id: "newcaledonia-mont-panie-nature-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Panié", hu: "Mont Panié", ro: "Muntele Panié", en: "Mont Panié" },
     coords: [164.7708, -20.5888],
@@ -48,6 +49,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-humboldt-nature-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Humboldt", hu: "Mont Humboldt", ro: "Muntele Humboldt", en: "Mont Humboldt" },
     coords: [166.4167, -21.8833],
@@ -92,6 +94,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-riviere-bleue-nature-v2",
+    parent: "NC",
     type: "river",
     name: { de: "Rivière Bleue", hu: "Kék-folyó", ro: "Râul Albastru", en: "Blue River" },
     coords: [166.675, -22.1083],
@@ -136,6 +139,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-lac-en-huit-nature-v2",
+    parent: "NC",
     type: "lake",
     name: { de: "Lac en Huit", hu: "Nyolcas-tó", ro: "Lacul în formă de opt", en: "Lake en Huit" },
     coords: [166.8667, -22.2514],
@@ -180,6 +184,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-chutes-madeleine-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Chutes de la Madeleine", hu: "Madeleine-vízesés", ro: "Cascadele Madeleine", en: "Madeleine Waterfalls" },
     coords: [166.8572, -22.2356],
@@ -224,6 +229,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-baie-upi-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Baie d'Upi", hu: "Upi-öböl", ro: "Golful Upi", en: "Upi Bay" },
     coords: [167.5167, -22.6167],
@@ -268,6 +274,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-baie-kanumera-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Baie de Kanumera", hu: "Kanumera-öböl", ro: "Golful Kanumera", en: "Kanumera Bay" },
     coords: [167.4475, -22.6561],
@@ -312,6 +319,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-grottes-adio-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Grottes d'Adio", hu: "Adio-barlangok", ro: "Peșterile Adio", en: "Adio Caves" },
     coords: [165.25, -21.25],
@@ -356,6 +364,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-coeur-de-voh-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Cœur de Voh", hu: "Voh szíve", ro: "Inima din Voh", en: "Heart of Voh" },
     coords: [164.6617, -20.9419],
@@ -400,6 +409,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-falaises-jokin-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Falaises de Jokin", hu: "Jokin-sziklák", ro: "Falezele Jokin", en: "Jokin Cliffs" },
     coords: [167.2417, -20.9167],
@@ -444,6 +454,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-baie-ouvea-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Baie d'Ouvéa", hu: "Ouvéa-öböl", ro: "Golful Ouvéa", en: "Ouvéa Bay" },
     coords: [166.5667, -20.65],
@@ -488,6 +499,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-trou-bleu-hanawa-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Trou Bleu d'Hanawa", hu: "Hanawa kék lyuk", ro: "Ochiul Albastru din Hanawa", en: "Hanawa Blue Hole" },
     coords: [166.6333, -20.575],
@@ -532,6 +544,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-grotte-troisieme-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Grotte de la Troisième", hu: "Harmadik-barlang", ro: "Peștera a Treia", en: "Third Cave" },
     coords: [166.4833, -22.3333],
@@ -576,6 +589,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-plateau-dogny-nature-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Plateau de Dogny", hu: "Dogny-fennsík", ro: "Platoul Dogny", en: "Dogny Plateau" },
     coords: [165.8833, -21.6167],
@@ -620,6 +634,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-massif-koniambo-nature-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Massif du Koniambo", hu: "Koniambo-masszívum", ro: "Masivul Koniambo", en: "Koniambo Massif" },
     coords: [164.8167, -21.0167],
@@ -664,6 +679,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-roche-percee-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Roche Percée", hu: "Átfúrt szikla", ro: "Stânca Străpunsă", en: "Roche Percée" },
     coords: [165.4417, -21.6117],
@@ -708,6 +724,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-mou-nature-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Mont Mou", hu: "Mont Mou", ro: "Muntele Mou", en: "Mont Mou" },
     coords: [166.3417, -22.0667],
@@ -752,6 +769,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-baie-prony-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Baie de Prony", hu: "Prony-öböl", ro: "Golful Prony", en: "Prony Bay" },
     coords: [166.85, -22.35],
@@ -796,6 +814,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-aiguilles-prony-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Aiguille de Prony", hu: "Prony-tű", ro: "Acul Prony", en: "Prony Needle" },
     coords: [166.8667, -22.3333],
@@ -840,6 +859,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-ilot-maitre-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Îlot Maître", hu: "Maître-szigetecske", ro: "Insulița Maître", en: "Îlot Maître" },
     coords: [166.4111, -22.3361],
@@ -884,6 +904,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-ilot-canard-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Îlot Canard", hu: "Kacsa-sziget", ro: "Insulița Canard", en: "Îlot Canard" },
     coords: [166.4367, -22.3117],
@@ -928,6 +949,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-plage-luengoni-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Plage de Luengöni", hu: "Luengöni strand", ro: "Plaja Luengöni", en: "Luengöni Beach" },
     coords: [167.4167, -21.0417],
@@ -972,6 +994,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-baie-jinek-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Baie de Jinek", hu: "Jinek-öböl", ro: "Golful Jinek", en: "Jinek Bay" },
     coords: [167.2333, -20.9083],
@@ -1016,6 +1039,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-pic-grand-kaori-nature-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Pic du Grand Kaori", hu: "Nagy Kaori-csúcs", ro: "Vârful Marelui Kaori", en: "Great Kaori Peak" },
     coords: [166.7167, -22.1333],
@@ -1060,6 +1084,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-cascade-tao-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Cascade de Tao", hu: "Tao-vízesés", ro: "Cascada Tao", en: "Tao Waterfall" },
     coords: [164.8167, -20.55],
@@ -1104,6 +1129,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-recif-astrolabe-nature-v2",
+    parent: "NC",
     type: "wildlife",
     name: { de: "Récif de l'Astrolabe", hu: "Asztrolábium-zátony", ro: "Reciful Astrolabe", en: "Astrolabe Reefs" },
     coords: [166.5, -20.0],
@@ -1148,6 +1174,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-parc-riviere-bleue-nature-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Parc de la Rivière Bleue", hu: "Kék-folyó Tartományi Park", ro: "Parcul Provincial Râul Albastru", en: "Blue River Provincial Park" },
     coords: [166.65, -22.1],
@@ -1192,6 +1219,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-chutes-tao-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Chutes de Tao", hu: "Tao-vízesések", ro: "Cascadele Tao", en: "Tao Falls" },
     coords: [164.821, -20.551],
@@ -1236,6 +1264,7 @@ export const newcaledoniaNatureV2: POI[] = [
   },
   {
     id: "newcaledonia-falaises-lekini-nature-v2",
+    parent: "NC",
     type: "landmark",
     name: { de: "Falaises de Lékiny", hu: "Lékiny-sziklák", ro: "Falezele Lékiny", en: "Lékiny Cliffs" },
     coords: [166.5333, -20.6667],

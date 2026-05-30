@@ -4,6 +4,7 @@ export const cookislandsNatureV2: POI[] = [
 
   {
     id: "cookislands-rarotonga-island-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Rarotonga", hu: "Rarotonga", ro: "Rarotonga", en: "Rarotonga" },
     coords: [-159.7833, -21.2333],
@@ -48,6 +49,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-aitutaki-lagoon-nature-v2",
+    parent: "CK",
     type: "lake",
     name: { de: "Aitutaki-Lagune", hu: "Aitutaki-lagúna", ro: "Laguna Aitutaki", en: "Aitutaki Lagoon" },
     coords: [-159.7833, -18.8833],
@@ -92,6 +94,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-te-manga-peak-nature-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Te Manga", hu: "Te Manga", ro: "Te Manga", en: "Te Manga" },
     coords: [-159.7611, -21.2425],
@@ -136,6 +139,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-atiu-island-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Atiu", hu: "Atiu", ro: "Atiu", en: "Atiu" },
     coords: [-158.1167, -19.9833],
@@ -180,6 +184,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-mangaia-island-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Mangaia", hu: "Mangaia", ro: "Mangaia", en: "Mangaia" },
     coords: [-157.9167, -21.9167],
@@ -224,6 +229,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-suwarrow-atoll-nature-v2",
+    parent: "CK",
     type: "park",
     name: { de: "Suwarrow", hu: "Suwarrow", ro: "Suwarrow", en: "Suwarrow" },
     coords: [-163.1, -13.25],
@@ -268,6 +274,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-muri-lagoon-nature-v2",
+    parent: "CK",
     type: "lake",
     name: { de: "Muri-Lagune", hu: "Muri-lagúna", ro: "Laguna Muri", en: "Muri Lagoon" },
     coords: [-159.7283, -21.2583],
@@ -312,6 +319,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-te-rua-manga-peak-nature-v2",
+    parent: "CK",
     type: "peak",
     name: { de: "Te Rua Manga (The Needle)", hu: "Te Rua Manga (A Tű)", ro: "Te Rua Manga (Acul)", en: "Te Rua Manga (The Needle)" },
     coords: [-159.78, -21.24],
@@ -356,6 +364,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-mitiaro-island-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Mitiaro", hu: "Mitiaro", ro: "Mitiaro", en: "Mitiaro" },
     coords: [-157.7, -19.85],
@@ -400,6 +409,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-mauke-island-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Mauke", hu: "Mauke", ro: "Mauke", en: "Mauke" },
     coords: [-157.35, -20.15],
@@ -444,6 +454,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-takutea-island-nature-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Takutea", hu: "Takutea", ro: "Takutea", en: "Takutea" },
     coords: [-158.2833, -19.8167],
@@ -488,6 +499,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-penrhyn-atoll-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Penrhyn (Tongareva)", hu: "Penrhyn (Tongareva)", ro: "Penrhyn (Tongareva)", en: "Penrhyn (Tongareva)" },
     coords: [-158.0, -9.0],
@@ -532,6 +544,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-manihiki-atoll-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Manihiki", hu: "Manihiki", ro: "Manihiki", en: "Manihiki" },
     coords: [-161.0, -10.4],
@@ -576,6 +589,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-manuae-atoll-nature-v2",
+    parent: "CK",
     type: "wildlife",
     name: { de: "Manuae", hu: "Manuae", ro: "Manuae", en: "Manuae" },
     coords: [-158.9667, -19.25],
@@ -620,6 +634,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-palmerston-atoll-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Palmerston", hu: "Palmerston", ro: "Palmerston", en: "Palmerston" },
     coords: [-163.1667, -18.0667],
@@ -664,6 +679,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-lake-tiriara-nature-v2",
+    parent: "CK",
     type: "lake",
     name: { de: "Tiriara-See", hu: "Tiriara-tó", ro: "Lacul Tiriara", en: "Lake Tiriara" },
     coords: [-157.935, -21.9444],
@@ -708,6 +724,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-avana-valley-nature-v2",
+    parent: "CK",
     type: "valley",
     name: { de: "Avana-Tal", hu: "Avana-völgy", ro: "Valea Avana", en: "Avana Valley" },
     coords: [-159.74, -21.23],
@@ -752,6 +769,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-pukapuka-atoll-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Pukapuka", hu: "Pukapuka", ro: "Pukapuka", en: "Pukapuka" },
     coords: [-165.85, -10.8833],
@@ -796,6 +814,7 @@ export const cookislandsNatureV2: POI[] = [
   },
   {
     id: "cookislands-rakahanga-atoll-nature-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Rakahanga", hu: "Rakahanga", ro: "Rakahanga", en: "Rakahanga" },
     coords: [-161.1, -10.0333],

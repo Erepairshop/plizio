@@ -4,6 +4,7 @@ export const palestineLifeV2: POI[] = [
 
   {
     id: "palestine-wadi-qelt-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi Qelt Naturschutzgebiet", hu: "Wadi Qelt természetvédelmi terület", ro: "Rezervația Naturală Wadi Qelt", en: "Wadi Qelt Nature Reserve" },
     coords: [35.4131, 31.8439],
@@ -48,6 +49,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-gaza-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi Gaza Naturschutzgebiet", hu: "Wadi Gaza természetvédelmi terület", ro: "Rezervația Naturală Wadi Gaza", en: "Wadi Gaza Nature Reserve" },
     coords: [34.4019, 31.4481],
@@ -92,6 +94,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-al-quff-life-v2",
+    parent: "PS",
     type: "forest",
     name: { de: "Wadi al-Quff Naturschutzgebiet", hu: "Wadi al-Quff természetvédelmi terület", ro: "Rezervația Naturală Wadi al-Quff", en: "Wadi al-Quff Nature Reserve" },
     coords: [35.0514, 31.5786],
@@ -136,6 +139,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-umm-ar-rihan-life-v2",
+    parent: "PS",
     type: "forest",
     name: { de: "Umm ar-Rihan Wald", hu: "Umm ar-Rihan erdő", ro: "Pădurea Umm ar-Rihan", en: "Umm ar-Rihan Forest" },
     coords: [35.15, 32.5167],
@@ -180,6 +184,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-ein-feshkha-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Ein Feshkha Quellen", hu: "Ein Feshkha források", ro: "Izvoarele Ein Feshkha", en: "Ein Feshkha Springs" },
     coords: [35.4522, 31.7114],
@@ -224,6 +229,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-kanah-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi Kanah Naturschutzgebiet", hu: "Wadi Kanah természetvédelmi terület", ro: "Rezervația Naturală Wadi Kanah", en: "Wadi Kanah Nature Reserve" },
     coords: [35.0972, 32.1383],
@@ -268,6 +274,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-battir-terraces-life-v2",
+    parent: "PS",
     type: "park",
     name: { de: "Kulturlandschaft von Battir", hu: "Battir ókori teraszai", ro: "Terasele Agricole din Battir", en: "Battir Cultural Landscape" },
     coords: [35.1328, 31.7225],
@@ -312,6 +319,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-solomons-pools-life-v2",
+    parent: "PS",
     type: "lake",
     name: { de: "Teiche Salomos Naturbereich", hu: "Salamon tavai természetvédelmi terület", ro: "Bazinele lui Solomon", en: "Solomon's Pools Nature Area" },
     coords: [35.1764, 31.6894],
@@ -356,6 +364,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-mount-gerizim-life-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Garizim Naturbereich", hu: "Garizim-hegy természetvédelmi terület", ro: "Muntele Garizim", en: "Mount Gerizim Nature Area" },
     coords: [35.2631, 32.2003],
@@ -400,6 +409,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-mount-ebal-life-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg Ebal Naturbereich", hu: "Ebál-hegy természetvédelmi terület", ro: "Muntele Ebal", en: "Mount Ebal Nature Area" },
     coords: [35.2742, 32.2333],
@@ -444,6 +454,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-al-fara-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi al-Far'a Naturschutzgebiet", hu: "Wadi al-Far'a természetvédelmi terület", ro: "Rezervația Naturală Wadi al-Far'a", en: "Wadi al-Far'a Nature Reserve" },
     coords: [35.3722, 32.2908],
@@ -488,6 +499,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-an-nar-life-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi an-Nar Tal", hu: "Wadi an-Nar völgy", ro: "Valea Wadi an-Nar", en: "Wadi an-Nar Valley" },
     coords: [35.2858, 31.7136],
@@ -532,6 +544,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-makkuk-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi el-Makkuk Naturschutzgebiet", hu: "Wadi el-Makkuk természetvédelmi terület", ro: "Rezervația Naturală Wadi el-Makkuk", en: "Wadi el-Makkuk Nature Reserve" },
     coords: [35.385, 31.8622],
@@ -576,6 +589,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-og-life-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi Og Naturbereich", hu: "Wadi Og természetvédelmi terület", ro: "Valea Wadi Og", en: "Wadi Og Nature Area" },
     coords: [35.4314, 31.7825],
@@ -620,6 +634,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-jericho-oasis-life-v2",
+    parent: "PS",
     type: "park",
     name: { de: "Oase von Jericho", hu: "Jerikói oázis", ro: "Oaza Ierihon", en: "Jericho Oasis" },
     coords: [35.46, 31.86],
@@ -664,6 +679,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-dead-sea-west-life-v2",
+    parent: "PS",
     type: "lake",
     name: { de: "Totes Meer Westufer", hu: "Holt-tenger nyugati part", ro: "Malul vestic al Mării Moarte", en: "Dead Sea West Shore" },
     coords: [35.5, 31.75],
@@ -708,6 +724,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-al-badhan-life-v2",
+    parent: "PS",
     type: "river",
     name: { de: "Wadi al-Badhan Naturbereich", hu: "Wadi al-Badhan természetvédelmi terület", ro: "Valea Wadi al-Badhan", en: "Wadi al-Badhan Nature Area" },
     coords: [35.3128, 32.2614],
@@ -752,6 +769,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-al-dilb-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi al-Dilb Naturschutzgebiet", hu: "Wadi al-Dilb természetvédelmi terület", ro: "Rezervația Naturală Wadi al-Dilb", en: "Wadi al-Dilb Nature Reserve" },
     coords: [35.1436, 31.9125],
@@ -796,6 +814,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-fukin-life-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi Fukin Tal", hu: "Wadi Fukin völgy", ro: "Valea Wadi Fukin", en: "Wadi Fukin Valley" },
     coords: [35.1028, 31.7111],
@@ -840,6 +859,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-al-auja-spring-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Al-Auja Quelle", hu: "Al-Auja forrás", ro: "Izvorul Al-Auja", en: "Al-Auja Spring" },
     coords: [35.4314, 31.9422],
@@ -884,6 +904,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-ez-zarka-life-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi ez-Zarka Naturbereich", hu: "Wadi ez-Zarka természetvédelmi terület", ro: "Valea Wadi ez-Zarka", en: "Wadi ez-Zarka Nature Area" },
     coords: [35.1028, 32.0514],
@@ -928,6 +949,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-hafi-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi el-Hafi Naturbereich", hu: "Wadi el-Hafi természetvédelmi terület", ro: "Valea Wadi el-Hafi", en: "Wadi el-Hafi Nature Area" },
     coords: [35.0525, 32.3211],
@@ -972,6 +994,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-gaza-coastal-dunes-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Gaza Küstendünen", hu: "Gázai tengerparti dűnék", ro: "Dunele de Coastă din Gaza", en: "Gaza Coastal Dunes" },
     coords: [34.45, 31.5],
@@ -1016,6 +1039,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-al-qattamine-life-v2",
+    parent: "PS",
     type: "forest",
     name: { de: "Al-Qattamine Naturbereich", hu: "Al-Qattamine természetvédelmi terület", ro: "Zona Naturală Al-Qattamine", en: "Al-Qattamine Nature Area" },
     coords: [35.0836, 31.6528],
@@ -1060,6 +1084,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-arayis-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi el-Arayis Naturbereich", hu: "Wadi el-Arayis természetvédelmi terület", ro: "Valea Wadi el-Arayis", en: "Wadi el-Arayis Nature Area" },
     coords: [35.2536, 31.7514],
@@ -1104,6 +1129,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-mount-of-temptation-life-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg der Versuchung Naturbereich", hu: "Megkísértés hegye természetvédelmi terület", ro: "Muntele Ispitirii", en: "Mount of Temptation Slopes" },
     coords: [35.4317, 31.8739],
@@ -1148,6 +1174,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-ein-es-sultan-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Ein es-Sultan Quelle", hu: "Ein es-Sultan forrás", ro: "Izvorul Ein es-Sultan", en: "Ein es-Sultan Spring" },
     coords: [35.4444, 31.8656],
@@ -1192,6 +1219,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-mureijat-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi el-Mureijat Naturbereich", hu: "Wadi el-Mureijat természetvédelmi terület", ro: "Rezervația Wadi el-Mureijat", en: "Wadi el-Mureijat Nature Area" },
     coords: [35.3514, 31.8825],
@@ -1236,6 +1264,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-asalah-life-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi el-Asalah Naturbereich", hu: "Wadi el-Asalah természetvédelmi terület", ro: "Valea Wadi el-Asalah", en: "Wadi el-Asalah Nature Area" },
     coords: [35.1528, 31.5514],
@@ -1280,6 +1309,7 @@ export const palestineLifeV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-loz-life-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi el-Loz (Mandeltal)", hu: "Wadi el-Loz (Mandula-völgy)", ro: "Wadi el-Loz (Valea Migdalilor)", en: "Wadi el-Loz (Almond Valley)" },
     coords: [35.1514, 31.7025],

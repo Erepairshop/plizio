@@ -4,6 +4,7 @@ export const newcaledoniaEconomicV2: POI[] = [
 
   {
     id: "newcaledonia-doniambo-smelter-economic-v2",
+    parent: "NC",
     type: "factory",
     name: { de: "Doniambo-Hütte", hu: "Doniambo nikkelkohó", ro: "Combinatul Doniambo", en: "Doniambo Smelter" },
     coords: [166.4354, -22.2572],
@@ -48,6 +49,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-port-of-noumea-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Hafen von Nouméa", hu: "Nouméa kikötője", ro: "Portul Nouméa", en: "Port of Noumea" },
     coords: [166.4391, -22.2685],
@@ -92,6 +94,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-goro-nickel-plant-economic-v2",
+    parent: "NC",
     type: "factory",
     name: { de: "Goro-Nickel-Werk", hu: "Goro nikkelüzem", ro: "Uzina Goro Nickel", en: "Goro Nickel Plant" },
     coords: [166.9167, -22.3167],
@@ -136,6 +139,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-koniambo-nickel-plant-economic-v2",
+    parent: "NC",
     type: "factory",
     name: { de: "Koniambo-Nickel-Werk", hu: "Koniambo nikkelüzem", ro: "Uzina Koniambo Nickel", en: "Koniambo Nickel Plant" },
     coords: [164.7125, -20.9583],
@@ -180,6 +184,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-thio-nickel-mines-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Nickelminen von Thio", hu: "Thio nikkelbányái", ro: "Minele de nichel din Thio", en: "Thio Nickel Mines" },
     coords: [166.2167, -21.6114],
@@ -224,6 +229,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-yate-dam-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Yaté-Talsperre", hu: "Yaté-gát", ro: "Barajul Yaté", en: "Yate Dam" },
     coords: [166.9083, -22.1583],
@@ -268,6 +274,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-kouaoua-serpentine-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Kouaoua-Serpentine", hu: "Kouaoua Serpentine", ro: "Serpentina Kouaoua", en: "Kouaoua Serpentine" },
     coords: [165.8283, -21.3917],
@@ -312,6 +319,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-nepoui-nickel-port-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Exporthafen Népoui", hu: "Népoui nikkelkikötő", ro: "Portul de nichel Népoui", en: "Nepoui Nickel Port" },
     coords: [165.0042, -21.3325],
@@ -356,6 +364,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-poro-mining-center-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Bergbauzentrum Poro", hu: "Poro bányászati központ", ro: "Centrul minier Poro", en: "Poro Mining Center" },
     coords: [165.7167, -21.2958],
@@ -400,6 +409,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-kopeto-mine-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Kopéto-Mine", hu: "Kopéto-bánya", ro: "Mina Kopéto", en: "Kopeto Mine" },
     coords: [165.0167, -21.1833],
@@ -444,6 +454,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-tontouta-logistics-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Logistikzentrum La Tontouta", hu: "La Tontouta logisztikai központ", ro: "Centrul logistic La Tontouta", en: "Tontouta Logistics Center" },
     coords: [166.2133, -22.0158],
@@ -488,6 +499,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-ducos-industrial-zone-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Industriezone Ducos", hu: "Ducos ipari zóna", ro: "Zona industrială Ducos", en: "Ducos Industrial Zone" },
     coords: [166.4258, -22.2458],
@@ -532,6 +544,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-numbo-shipyards-economic-v2",
+    parent: "NC",
     type: "factory",
     name: { de: "Schiffswerften von Numbo", hu: "Numbo hajógyárai", ro: "Șantierele navale din Numbo", en: "Numbo Shipyards" },
     coords: [166.4167, -22.2417],
@@ -576,6 +589,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-dore-bottling-economic-v2",
+    parent: "NC",
     type: "factory",
     name: { de: "Abfüllwerk Mont-Dore", hu: "Mont-Dore palackozóüzem", ro: "Fabrica de îmbuteliere Mont-Dore", en: "Mont-Dore Bottling Plant" },
     coords: [166.5833, -22.2717],
@@ -620,6 +634,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-boulouparis-solar-farm-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Solarpark Boulouparis", hu: "Boulouparis napelemfarm", ro: "Parcul solar Boulouparis", en: "Boulouparis Solar Farm" },
     coords: [166.0417, -21.875],
@@ -664,6 +679,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-kone-economic-pole-economic-v2",
+    parent: "NC",
     type: "city",
     name: { de: "Wirtschaftszentrum Koné", hu: "Koné gazdasági központja", ro: "Polul economic Koné", en: "Kone Economic Pole" },
     coords: [164.8667, -21.0583],
@@ -708,6 +724,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-port-of-we-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Hafen von Wé", hu: "Wé kikötője", ro: "Portul din Wé", en: "Port of We" },
     coords: [167.265, -20.915],
@@ -752,6 +769,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-port-of-tadine-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Hafen von Tadine", hu: "Tadine kikötője", ro: "Portul din Tadine", en: "Port of Tadine" },
     coords: [167.8817, -21.5517],
@@ -796,6 +814,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-poum-mining-site-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Bergbaustandort Poum", hu: "Poum bányászati terület", ro: "Situl minier Poum", en: "Poum Mining Site" },
     coords: [164.0217, -20.2317],
@@ -840,6 +859,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-nakety-mine-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Nakéty-Mine", hu: "Nakéty-bánya", ro: "Mina Nakéty", en: "Nakety Mine" },
     coords: [165.9867, -21.5233],
@@ -884,6 +904,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-ouaco-cattle-station-economic-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Viehzuchtstation Ouaco", hu: "Ouaco állattenyésztő telep", ro: "Stația de creștere a vitelor Ouaco", en: "Ouaco Cattle Station" },
     coords: [164.4583, -20.8583],
@@ -928,6 +949,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-moindou-prawn-farm-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Garnelenfarm Moindou", hu: "Moindou garnélafarm", ro: "Ferma de creveți Moindou", en: "Moindou Prawn Farm" },
     coords: [165.675, -21.5583],
@@ -972,6 +994,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-prony-wind-farm-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Windpark Prony", hu: "Prony szélfarm", ro: "Parcul eolian Prony", en: "Prony Wind Farm" },
     coords: [166.825, -22.3417],
@@ -1016,6 +1039,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-port-of-touho-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Hafen von Touho", hu: "Touho kikötője", ro: "Portul din Touho", en: "Port of Touho" },
     coords: [165.2333, -20.7817],
@@ -1060,6 +1084,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-goro-port-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Industriehafen Goro", hu: "Goro ipari kikötője", ro: "Portul industrial Goro", en: "Goro Industrial Port" },
     coords: [166.9333, -22.3333],
@@ -1104,6 +1129,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-paita-meat-processing-economic-v2",
+    parent: "NC",
     type: "factory",
     name: { de: "Fleischverarbeitungszentrum Païta", hu: "Païta húsfeldolgozó központ", ro: "Centrul de procesare a cărnii Païta", en: "Paita Meat Processing Center" },
     coords: [166.3667, -22.1333],
@@ -1148,6 +1174,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-port-moselle-commercial-economic-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Handelshafen Port Moselle", hu: "Port Moselle kereskedelmi kikötő", ro: "Port Moselle - sectorul comercial", en: "Port Moselle Commercial Hub" },
     coords: [166.4417, -22.275],
@@ -1192,6 +1219,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-vavouto-industrial-area-economic-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Industriegebiet Vavouto", hu: "Vavouto ipari terület", ro: "Zona industrială Vavouto", en: "Vavouto Industrial Area" },
     coords: [164.7167, -20.9833],
@@ -1236,6 +1264,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-sln-plateau-mine-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Plateau-Mine (SLN)", hu: "Plateau-bánya (SLN)", ro: "Mina Plateau (SLN)", en: "Plateau Mine (SLN)" },
     coords: [166.1833, -21.5833],
@@ -1280,6 +1309,7 @@ export const newcaledoniaEconomicV2: POI[] = [
   },
   {
     id: "newcaledonia-tiebaghi-mine-economic-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Tiébaghi-Mine", hu: "Tiébaghi-bánya", ro: "Mina Tiébaghi", en: "Tiebaghi Mine" },
     coords: [164.2167, -20.4417],

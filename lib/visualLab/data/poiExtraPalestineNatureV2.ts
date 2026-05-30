@@ -4,6 +4,7 @@ export const palestineNatureV2: POI[] = [
 
   {
     id: "palestine-wadi-qelt-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi Qelt", hu: "Vádi Kelt", ro: "Wadi Qelt", en: "Wadi Qelt" },
     coords: [35.41, 31.84],
@@ -48,6 +49,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-mount-temptation-nature-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Berg der Versuchung", hu: "Kísértés hegye", ro: "Muntele Ispitirii", en: "Mount of Temptation" },
     coords: [35.43, 31.87],
@@ -92,6 +94,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-gaza-nature-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Wadi Gaza", hu: "Vádi Gáza", ro: "Wadi Gaza", en: "Wadi Gaza" },
     coords: [34.42, 31.45],
@@ -136,6 +139,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-judean-desert-nature-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Judäische Wüste", hu: "Júdeai-sivatag", ro: "Pustiul Iudeii", en: "Judean Desert" },
     coords: [35.32, 31.65],
@@ -180,6 +184,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-ein-feshkha-nature-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Ein Feshkha", hu: "Ein Feshkha", ro: "Ein Feshkha", en: "Ein Feshkha" },
     coords: [35.45, 31.71],
@@ -224,6 +229,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-auja-nature-v2",
+    parent: "PS",
     type: "river",
     name: { de: "Wadi Auja", hu: "Vádi Audzsa", ro: "Wadi Auja", en: "Wadi Auja" },
     coords: [35.42, 31.94],
@@ -268,6 +274,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-kidron-valley-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Kidrontal", hu: "Kidron-völgy", ro: "Valea Cedronului", en: "Kidron Valley" },
     coords: [35.24, 31.77],
@@ -312,6 +319,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-marj-sanur-nature-v2",
+    parent: "PS",
     type: "lake",
     name: { de: "Marj Sanur", hu: "Mardzs Szanúr", ro: "Marj Sanur", en: "Marj Sanur" },
     coords: [35.26, 32.34],
@@ -356,6 +364,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-el-fara-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi el-Far'a", hu: "Vádi el-Fára", ro: "Wadi el-Far'a", en: "Wadi el-Far'a" },
     coords: [35.35, 32.29],
@@ -400,6 +409,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-en-nar-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi en-Nar", hu: "Vádi en-Nár", ro: "Wadi en-Nar", en: "Wadi en-Nar" },
     coords: [35.34, 31.73],
@@ -444,6 +454,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-hinnom-valley-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Hinnomtal", hu: "Hinnom-völgy", ro: "Valea Hinom", en: "Hinnom Valley" },
     coords: [35.22, 31.77],
@@ -488,6 +499,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-battir-terraces-nature-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Battir Terrassen", hu: "Battíri teraszok", ro: "Terasele de la Battir", en: "Battir Terraces" },
     coords: [35.13, 31.72],
@@ -532,6 +544,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-al-makhrour-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi al-Makhrour", hu: "Vádi al-Makhrúr", ro: "Wadi al-Makhrour", en: "Wadi al-Makhrour" },
     coords: [35.16, 31.7],
@@ -576,6 +589,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-al-quff-forest-nature-v2",
+    parent: "PS",
     type: "forest",
     name: { de: "Al-Quff Wald", hu: "Al-Quff erdő", ro: "Pădurea Al-Quff", en: "Al-Quff Forest" },
     coords: [35.05, 31.59],
@@ -620,6 +634,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-gaza-coastline-nature-v2",
+    parent: "PS",
     type: "sea",
     name: { de: "Küste von Gaza", hu: "Gázai tengerpart", ro: "Coasta Gazei", en: "Gaza Coastline" },
     coords: [34.36, 31.42],
@@ -664,6 +679,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-sartaba-peak-nature-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Sartaba", hu: "Szartaba", ro: "Sartaba", en: "Sartaba" },
     coords: [35.46, 32.1],
@@ -708,6 +724,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-mount-kabir-nature-v2",
+    parent: "PS",
     type: "peak",
     name: { de: "Berg Kabir", hu: "Kabir-hegy", ro: "Muntele Kabir", en: "Mount Kabir" },
     coords: [35.34, 32.22],
@@ -752,6 +769,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-zarqa-al-ulwi-nature-v2",
+    parent: "PS",
     type: "river",
     name: { de: "Wadi Zarqa al-Ulwi", hu: "Vádi Zarka al-Ulvi", ro: "Wadi Zarqa al-Ulwi", en: "Wadi Zarqa al-Ulwi" },
     coords: [35.11, 32.07],
@@ -796,6 +814,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-shair-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi Shair", hu: "Vádi Saír", ro: "Wadi Shair", en: "Wadi Shair" },
     coords: [35.12, 32.25],
@@ -840,6 +859,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-wadi-natuf-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Wadi Natuf", hu: "Vádi Natúf", ro: "Wadi Natuf", en: "Wadi Natuf" },
     coords: [35.1, 31.97],
@@ -884,6 +904,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-hebron-hills-nature-v2",
+    parent: "PS",
     type: "mountain",
     name: { de: "Hebron-Hügelland", hu: "Hebroni-dombság", ro: "Dealurile Hebronului", en: "Hebron Hills" },
     coords: [35.09, 31.53],
@@ -928,6 +949,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-ein-sultan-spring-nature-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Ein Sultan Quelle", hu: "Ein Sultan-forrás", ro: "Izvorul Ein Sultan", en: "Ein Sultan Spring" },
     coords: [35.44, 31.87],
@@ -972,6 +994,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-nablus-valley-nature-v2",
+    parent: "PS",
     type: "valley",
     name: { de: "Tal von Nablus", hu: "Nábluszi-völgy", ro: "Valea Nablusului", en: "Nablus Valley" },
     coords: [35.26, 32.22],
@@ -1016,6 +1039,7 @@ export const palestineNatureV2: POI[] = [
   },
   {
     id: "palestine-gaza-sand-dunes-nature-v2",
+    parent: "PS",
     type: "wildlife",
     name: { de: "Sanddünen von Gaza", hu: "Gázai homokdűnék", ro: "Dunele de nisip din Gaza", en: "Gaza Sand Dunes" },
     coords: [34.3, 31.35],

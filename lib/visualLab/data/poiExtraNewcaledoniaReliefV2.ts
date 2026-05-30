@@ -4,6 +4,7 @@ export const newcaledoniaReliefV2: POI[] = [
 
   {
     id: "newcaledonia-chaine-centrale-relief-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Chaîne Centrale", hu: "Chaîne Centrale", ro: "Chaîne Centrale", en: "Chaîne Centrale" },
     coords: [165.6, -21.4],
@@ -48,6 +49,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-koghi-relief-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Monts Koghi", hu: "Monts Koghi", ro: "Munții Koghi", en: "Monts Koghi" },
     coords: [166.505, -22.176],
@@ -92,6 +94,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-aoupinie-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Aoupinié", hu: "Mont Aoupinié", ro: "Mont Aoupinié", en: "Mont Aoupinié" },
     coords: [165.267, -21.183],
@@ -136,6 +139,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-plateau-de-dogny-relief-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Plateau de Dogny", hu: "Plateau de Dogny", ro: "Plateau de Dogny", en: "Plateau de Dogny" },
     coords: [165.867, -21.625],
@@ -180,6 +184,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-ignambi-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Ignambi", hu: "Mont Ignambi", ro: "Mont Ignambi", en: "Mont Ignambi" },
     coords: [164.598, -20.463],
@@ -224,6 +229,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-colnett-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Colnett", hu: "Mont Colnett", ro: "Mont Colnett", en: "Mont Colnett" },
     coords: [164.733, -20.504],
@@ -268,6 +274,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-plaine-des-lacs-relief-v2",
+    parent: "NC",
     type: "valley",
     name: { de: "Plaine des Lacs", hu: "Plaine des Lacs", ro: "Plaine des Lacs", en: "Plaine des Lacs" },
     coords: [166.833, -22.25],
@@ -312,6 +319,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-do-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Do", hu: "Mont Do", ro: "Mont Do", en: "Mont Do" },
     coords: [166.002, -21.755],
@@ -356,6 +364,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-massif-du-grand-sud-relief-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Massif du Grand Sud", hu: "Massif du Grand Sud", ro: "Masivul Grand Sud", en: "Massif du Grand Sud" },
     coords: [166.85, -22.2],
@@ -400,6 +409,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-col-d-amieu-relief-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Col d'Amieu", hu: "Col d'Amieu", ro: "Pasul Amieu", en: "Col d'Amieu" },
     coords: [165.8, -21.583],
@@ -444,6 +454,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-boulinda-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Boulinda", hu: "Mont Boulinda", ro: "Mont Boulinda", en: "Mont Boulinda" },
     coords: [165.017, -21.317],
@@ -488,6 +499,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-kaala-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Kaala", hu: "Mont Kaala", ro: "Mont Kaala", en: "Mont Kaala" },
     coords: [164.383, -20.617],
@@ -532,6 +544,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-tsibai-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Tsibaï", hu: "Mont Tsibaï", ro: "Mont Tsibaï", en: "Mont Tsibaï" },
     coords: [164.867, -20.817],
@@ -576,6 +589,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-arago-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Arago", hu: "Mont Arago", ro: "Mont Arago", en: "Mont Arago" },
     coords: [165.55, -21.433],
@@ -620,6 +634,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-maoya-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Maoya", hu: "Mont Maoya", ro: "Mont Maoya", en: "Mont Maoya" },
     coords: [165.333, -21.383],
@@ -664,6 +679,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-ouin-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Ouin", hu: "Mont Ouin", ro: "Mont Ouin", en: "Mont Ouin" },
     coords: [166.45, -22.017],
@@ -708,6 +724,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-nakada-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Nakada", hu: "Mont Nakada", ro: "Mont Nakada", en: "Mont Nakada" },
     coords: [166.083, -21.583],
@@ -752,6 +769,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-sindoa-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Sindoa", hu: "Mont Sindoa", ro: "Mont Sindoa", en: "Mont Sindoa" },
     coords: [165.45, -21.25],
@@ -796,6 +814,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-nekandi-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Nékandi", hu: "Mont Nékandi", ro: "Mont Nékandi", en: "Mont Nékandi" },
     coords: [166.25, -21.717],
@@ -840,6 +859,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-katepahi-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Katépahi", hu: "Mont Katépahi", ro: "Mont Katépahi", en: "Mont Katépahi" },
     coords: [164.85, -21.083],
@@ -884,6 +904,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-mu-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Mu", hu: "Mont Mu", ro: "Mont Mu", en: "Mont Mu" },
     coords: [166.417, -22.15],
@@ -928,6 +949,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-dzumac-relief-v2",
+    parent: "NC",
     type: "mountain",
     name: { de: "Mont Dzumac", hu: "Mont Dzumac", ro: "Mont Dzumac", en: "Mont Dzumac" },
     coords: [166.467, -22.05],
@@ -972,6 +994,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-canala-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Canala", hu: "Mont Canala", ro: "Mont Canala", en: "Mont Canala" },
     coords: [165.95, -21.517],
@@ -1016,6 +1039,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-grandie-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Grandié", hu: "Mont Grandié", ro: "Mont Grandié", en: "Mont Grandié" },
     coords: [165.35, -21.2],
@@ -1060,6 +1084,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-tandji-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Tandji", hu: "Mont Tandji", ro: "Mont Tandji", en: "Mont Tandji" },
     coords: [166.25, -21.917],
@@ -1104,6 +1129,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-ningua-relief-v2",
+    parent: "NC",
     type: "peak",
     name: { de: "Mont Ningua", hu: "Mont Ningua", ro: "Mont Ningua", en: "Mont Ningua" },
     coords: [166.155, -21.745],
@@ -1148,6 +1174,7 @@ export const newcaledoniaReliefV2: POI[] = [
   },
   {
     id: "newcaledonia-vallon-dore-relief-v2",
+    parent: "NC",
     type: "valley",
     name: { de: "Vallon-Dore", hu: "Vallon-Dore", ro: "Vallon-Dore", en: "Vallon-Dore" },
     coords: [166.6, -22.25],

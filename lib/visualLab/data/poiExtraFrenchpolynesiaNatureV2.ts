@@ -4,6 +4,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
 
   {
     id: "frenchpolynesia-mount-orohena-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Orohena", hu: "Mount Orohena", ro: "Muntele Orohena", en: "Mount Orohena" },
     coords: [-149.4797, -17.6214],
@@ -48,6 +49,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-aorai-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Aorai", hu: "Mount Aorai", ro: "Muntele Aorai", en: "Mount Aorai" },
     coords: [-149.5, -17.6133],
@@ -92,6 +94,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fautaua-waterfall-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Fautaua Wasserfall", hu: "Fautaua-vízesés", ro: "Cascada Fautaua", en: "Fautaua Waterfall" },
     coords: [-149.5333, -17.5833],
@@ -136,6 +139,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-lake-vaihiria-nature-v2",
+    parent: "PF",
     type: "lake",
     name: { de: "Vaihiria-See", hu: "Vaihiria-tó", ro: "Lacul Vaihiria", en: "Lake Vaihiria" },
     coords: [-149.4, -17.6942],
@@ -180,6 +184,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papenoo-valley-nature-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Papenoo-Tal", hu: "Papenoo-völgy", ro: "Valea Papenoo", en: "Papenoo Valley" },
     coords: [-149.4167, -17.6],
@@ -224,6 +229,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-teahupoo-coast-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Teahupoo-Küste", hu: "Teahupoo-part", ro: "Coasta Teahupoo", en: "Teahupoo Coast" },
     coords: [-149.2667, -17.85],
@@ -268,6 +274,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-maraa-grotto-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Maraa-Grotte", hu: "Maraa-barlang", ro: "Grota Maraa", en: "Maraa Grotto" },
     coords: [-149.5786, -17.7472],
@@ -312,6 +319,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-rotui-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Rotui", hu: "Mount Rotui", ro: "Muntele Rotui", en: "Mount Rotui" },
     coords: [-149.8333, -17.4833],
@@ -356,6 +364,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-tohivea-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Tohivea", hu: "Mount Tohivea", ro: "Muntele Tohivea", en: "Mount Tohivea" },
     coords: [-149.8186, -17.5114],
@@ -400,6 +409,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-opunohu-bay-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Opunohu-Bucht", hu: "Opunohu-öböl", ro: "Golful Opunohu", en: "Opunohu Bay" },
     coords: [-149.8517, -17.4917],
@@ -444,6 +454,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-cooks-bay-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Cook's Bay", hu: "Cook-öböl", ro: "Golful Cook", en: "Cook's Bay" },
     coords: [-149.8136, -17.4911],
@@ -488,6 +499,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-otemanu-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Otemanu", hu: "Mount Otemanu", ro: "Muntele Otemanu", en: "Mount Otemanu" },
     coords: [-151.7336, -16.4983],
@@ -532,6 +544,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-pahia-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Pahia", hu: "Mount Pahia", ro: "Muntele Pahia", en: "Mount Pahia" },
     coords: [-151.7483, -16.5058],
@@ -576,6 +589,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-blue-lagoon-rangiroa-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Blaue Lagune (Rangiroa)", hu: "Kék-lagúna (Rangiroa)", ro: "Laguna Albastră (Rangiroa)", en: "Blue Lagoon (Rangiroa)" },
     coords: [-147.9667, -15.0167],
@@ -620,6 +634,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tiputa-pass-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Tiputa-Pass", hu: "Tiputa-szoros", ro: "Pasul Tiputa", en: "Tiputa Pass" },
     coords: [-147.625, -14.975],
@@ -664,6 +679,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaipo-waterfall-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Vaipo Wasserfall", hu: "Vaipo-vízesés", ro: "Cascada Vaipo", en: "Vaipo Waterfall" },
     coords: [-140.1667, -8.9333],
@@ -708,6 +724,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hakaui-valley-nature-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Hakaui-Tal", hu: "Hakaui-völgy", ro: "Valea Hakaui", en: "Hakaui Valley" },
     coords: [-140.1667, -8.9167],
@@ -752,6 +769,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-taipivai-valley-nature-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Taipivai-Tal", hu: "Taipivai-völgy", ro: "Valea Taipivai", en: "Taipivai Valley" },
     coords: [-140.0333, -8.8667],
@@ -796,6 +814,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-muake-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Muake", hu: "Mount Muake", ro: "Muntele Muake", en: "Mount Muake" },
     coords: [-140.1, -8.9167],
@@ -840,6 +859,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-bay-of-virgins-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Bucht der Jungfrauen", hu: "Szüzek-öble", ro: "Golful Fecioarelor", en: "Bay of Virgins" },
     coords: [-138.65, -10.4667],
@@ -884,6 +904,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-hiro-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Hiro", hu: "Mount Hiro", ro: "Muntele Hiro", en: "Mount Hiro" },
     coords: [-147.6667, -23.8667],
@@ -928,6 +949,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-duff-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Duff", hu: "Mount Duff", ro: "Muntele Duff", en: "Mount Duff" },
     coords: [-134.9667, -23.1167],
@@ -972,6 +994,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-temehani-nature-v2",
+    parent: "PF",
     type: "mountain",
     name: { de: "Mount Temehani", hu: "Mount Temehani", ro: "Muntele Temehani", en: "Mount Temehani" },
     coords: [-151.4667, -16.7833],
@@ -1016,6 +1039,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faaroa-river-nature-v2",
+    parent: "PF",
     type: "river",
     name: { de: "Faaroa-Fluss", hu: "Faaroa-folyó", ro: "Râul Faaroa", en: "Faaroa River" },
     coords: [-151.4167, -16.8167],
@@ -1060,6 +1084,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-garuae-pass-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Garuae-Pass", hu: "Garuae-szoros", ro: "Pasul Garuae", en: "Garuae Pass" },
     coords: [-145.7167, -16.0333],
@@ -1104,6 +1129,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tetamanu-pass-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Tetamanu-Pass", hu: "Tetamanu-szoros", ro: "Pasul Tetamanu", en: "Tetamanu Pass" },
     coords: [-145.45, -16.4833],
@@ -1148,6 +1174,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-pink-sands-tikehau-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Rosa Sandstrände (Tikehau)", hu: "Rózsaszín homokos partok (Tikehau)", ro: "Plajele cu nisip roz (Tikehau)", en: "Pink Sand Beaches (Tikehau)" },
     coords: [-148.1667, -15.1167],
@@ -1192,6 +1219,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-perau-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Perau", hu: "Mount Perau", ro: "Muntele Perau", en: "Mount Perau" },
     coords: [-144.3333, -27.5833],
@@ -1236,6 +1264,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-arahoho-blowhole-nature-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Arahoho Blowhole", hu: "Arahoho-szuszogó", ro: "Găura de suflat Arahoho", en: "Arahoho Blowhole" },
     coords: [-149.4333, -17.5167],
@@ -1280,6 +1309,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-tapioi-nature-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Mount Tapioi", hu: "Mount Tapioi", ro: "Muntele Tapioi", en: "Mount Tapioi" },
     coords: [-151.45, -16.7333],

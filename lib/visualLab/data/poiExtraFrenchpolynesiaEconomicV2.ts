@@ -4,6 +4,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
 
   {
     id: "frenchpolynesia-papeete-port-economic-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Hafen von Papeete", hu: "Papeete kikötője", ro: "Portul Papeete", en: "Port of Papeete" },
     coords: [-149.5671, -17.5332],
@@ -48,6 +49,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faaa-airport-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Internationaler Flughafen Faa'a", hu: "Faa'a nemzetközi repülőtér", ro: "Aeroportul Internațional Faa'a", en: "Faa'a International Airport" },
     coords: [-149.6101, -17.5531],
@@ -92,6 +94,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-punaruu-industrial-zone-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Industriezone Punaruu", hu: "Punaruu ipari övezet", ro: "Zona Industrială Punaruu", en: "Punaruu Industrial Zone" },
     coords: [-149.6005, -17.6335],
@@ -136,6 +139,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-taravao-plateau-agriculture-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Taravao-Plateau", hu: "Taravao-fennsík", ro: "Podișul Taravao", en: "Taravao Plateau" },
     coords: [-149.3001, -17.7331],
@@ -180,6 +184,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-manihi-pearl-farms-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Perlenfarmen von Manihi", hu: "Manihi gyöngyfarmok", ro: "Fermele de perle din Manihi", en: "Manihi Pearl Farms" },
     coords: [-146.0668, -14.4168],
@@ -224,6 +229,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-moorea-juice-factory-economic-v2",
+    parent: "PF",
     type: "factory",
     name: { de: "Saftfabrik von Moorea", hu: "Moorea gyümölcslégyár", ro: "Fabrica de sucuri din Moorea", en: "Moorea Juice Factory" },
     coords: [-149.8501, -17.4831],
@@ -268,6 +274,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rangiroa-vineyard-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Weinberg von Rangiroa", hu: "Rangiroa szőlőültetvény", ro: "Podgoria din Rangiroa", en: "Rangiroa Vineyard" },
     coords: [-147.6671, -14.9501],
@@ -312,6 +319,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-huahine-vanilla-farms-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Vanillefarmen von Huahine", hu: "Huahine vaníliafarmok", ro: "Fermele de vanilie din Huahine", en: "Huahine Vanilla Farms" },
     coords: [-151.0171, -16.7335],
@@ -356,6 +364,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tahaa-vanilla-valley-economic-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Vanille-Tal von Taha'a", hu: "Taha'a vanília-völgy", ro: "Valea Vaniliei din Taha'a", en: "Taha'a Vanilla Valley" },
     coords: [-151.5001, -16.6331],
@@ -400,6 +409,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-makatea-phosphate-mine-economic-v2",
+    parent: "PF",
     type: "mine",
     name: { de: "Makatea Phosphatmine", hu: "Makatea foszfátbánya", ro: "Mina de fosfat Makatea", en: "Makatea Phosphate Mine" },
     coords: [-148.2501, -15.8335],
@@ -444,6 +454,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-uturoa-port-economic-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Hafen von Uturoa", hu: "Uturoa kikötője", ro: "Portul Uturoa", en: "Uturoa Port" },
     coords: [-151.4335, -16.7331],
@@ -488,6 +499,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papeete-market-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Markt von Papeete", hu: "Papeete piac", ro: "Piața din Papeete", en: "Papeete Market" },
     coords: [-149.5668, -17.5365],
@@ -532,6 +544,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rikitea-pearl-center-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Perlenzentrum Rikitea", hu: "Rikitea gyöngyközpont", ro: "Centrul de perle Rikitea", en: "Rikitea Pearl Center" },
     coords: [-134.9671, -23.1171],
@@ -576,6 +589,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tubuai-agriculture-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Landwirtschaft von Tubuai", hu: "Tubuai mezőgazdaság", ro: "Agricultura din Tubuai", en: "Tubuai Agriculture" },
     coords: [-149.4835, -23.3671],
@@ -620,6 +634,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-taiohae-fishing-port-economic-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Fischereihafen von Taiohae", hu: "Taiohae halászkikötő", ro: "Portul de pescuit Taiohae", en: "Taiohae Fishing Port" },
     coords: [-140.1001, -8.9171],
@@ -664,6 +679,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-arue-commercial-zone-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Gewerbegebiet Arue", hu: "Arue kereskedelmi övezet", ro: "Zona Comercială Arue", en: "Arue Commercial Zone" },
     coords: [-149.5165, -17.5225],
@@ -708,6 +724,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-punaauia-business-center-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Geschäftszentrum Punaauia", hu: "Punaauia üzleti központ", ro: "Centrul de Afaceri Punaauia", en: "Punaauia Business Center" },
     coords: [-149.6171, -17.5835],
@@ -752,6 +769,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hitiaa-energy-complex-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Energiekomplex Hitia'a", hu: "Hitia'a energiakomplexum", ro: "Complexul energetic Hitia'a", en: "Hitia'a Energy Complex" },
     coords: [-149.3175, -17.6001],
@@ -796,6 +814,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-raivavae-taro-fields-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Tarofelder von Raivavae", hu: "Raivavae taro-földek", ro: "Câmpurile de taro din Raivavae", en: "Raivavae Taro Fields" },
     coords: [-147.6675, -23.8671],
@@ -840,6 +859,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rurutu-copra-production-economic-v2",
+    parent: "PF",
     type: "factory",
     name: { de: "Kopra-Produktion Rurutu", hu: "Rurutu kopra-termelés", ro: "Producția de copra din Rurutu", en: "Rurutu Copra Production" },
     coords: [-151.3335, -22.4501],
@@ -884,6 +904,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fakarava-pearl-farms-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Perlenfarmen von Fakarava", hu: "Fakarava gyöngyfarmok", ro: "Fermele de perle din Fakarava", en: "Fakarava Pearl Farms" },
     coords: [-145.6171, -16.0835],
@@ -928,6 +949,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-maupiti-fishing-harbor-economic-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Fischereihafen von Maupiti", hu: "Maupiti halászkikötő", ro: "Portul de pescuit Maupiti", en: "Maupiti Fishing Harbor" },
     coords: [-152.2505, -16.4501],
@@ -972,6 +994,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tikehau-trade-center-economic-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Handelszentrum Tikehau", hu: "Tikehau kereskedelmi központ", ro: "Centrul comercial Tikehau", en: "Tikehau Trade Center" },
     coords: [-148.2331, -14.9835],
@@ -1016,6 +1039,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-atuona-economic-hub-economic-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Wirtschaftshub Atuona", hu: "Atuona gazdasági központ", ro: "Hub-ul economic Atuona", en: "Atuona Economic Hub" },
     coords: [-139.0335, -9.8001],
@@ -1060,6 +1084,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaitape-harbor-economic-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Hafen von Vaitape", hu: "Vaitape kikötő", ro: "Portul Vaitape", en: "Vaitape Harbor" },
     coords: [-151.7505, -16.5001],
@@ -1104,6 +1129,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fare-port-economic-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Hafen von Fare", hu: "Fare kikötő", ro: "Portul Fare", en: "Fare Port" },
     coords: [-151.0335, -16.7171],
@@ -1148,6 +1174,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-afareaitu-pineapples-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Ananasfelder von Afareaitu", hu: "Afareaitu ananászföldek", ro: "Câmpurile de ananas Afareaitu", en: "Afareaitu Pineapples" },
     coords: [-149.7835, -17.5501],
@@ -1192,6 +1219,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papara-agriculture-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Landwirtschaft Papara", hu: "Papara mezőgazdaság", ro: "Agricultura din Papara", en: "Papara Agriculture" },
     coords: [-149.5505, -17.7501],
@@ -1236,6 +1264,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tahiti-iti-coffee-economic-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Kaffeeplantagen Tahiti Iti", hu: "Tahiti Iti kávéültetvények", ro: "Plantațiile de cafea Tahiti Iti", en: "Tahiti Iti Coffee" },
     coords: [-149.2505, -17.8001],
@@ -1280,6 +1309,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
   },
   {
     id: "frenchpolynesia-makemo-energy-economic-v2",
+    parent: "PF",
     type: "industry",
     name: { de: "Energieprojekt Makemo", hu: "Makemo energia-projekt", ro: "Proiectul energetic Makemo", en: "Makemo Energy Project" },
     coords: [-143.5671, -16.6335],

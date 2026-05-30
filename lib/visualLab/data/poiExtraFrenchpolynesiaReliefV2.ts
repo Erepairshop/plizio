@@ -4,6 +4,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
 
   {
     id: "frenchpolynesia-mount-mouaputa-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Mouaputa", hu: "Mouaputa-hegy", ro: "Muntele Mouaputa", en: "Mount Mouaputa" },
     coords: [-149.8, -17.5167],
@@ -48,6 +49,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-marau-relief-v2",
+    parent: "PF",
     type: "mountain",
     name: { de: "Berg Marau", hu: "Marau-hegy", ro: "Muntele Marau", en: "Mount Marau" },
     coords: [-149.55, -17.61],
@@ -92,6 +94,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-ronui-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Ronui", hu: "Ronui-hegy", ro: "Muntele Ronui", en: "Mount Ronui" },
     coords: [-149.2167, -17.8167],
@@ -136,6 +139,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-tekao-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Tekao", hu: "Tekao-hegy", ro: "Muntele Tekao", en: "Mount Tekao" },
     coords: [-140.1667, -8.85],
@@ -180,6 +184,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-oave-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Oave", hu: "Oave-hegy", ro: "Muntele Oave", en: "Mount Oave" },
     coords: [-140.0833, -9.3833],
@@ -224,6 +229,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-temetiu-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Temetiu", hu: "Temetiu-hegy", ro: "Muntele Temetiu", en: "Mount Temetiu" },
     coords: [-139.0833, -9.8],
@@ -268,6 +274,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-heani-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Heani", hu: "Heani-hegy", ro: "Muntele Heani", en: "Mount Heani" },
     coords: [-139.03, -9.77],
@@ -312,6 +319,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-hitikau-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Hitikau", hu: "Hitikau-hegy", ro: "Muntele Hitikau", en: "Mount Hitikau" },
     coords: [-139.54, -8.91],
@@ -356,6 +364,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-vaiua-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Vaiua", hu: "Vaiua-hegy", ro: "Muntele Vaiua", en: "Mount Vaiua" },
     coords: [-139.09, -9.94],
@@ -400,6 +409,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-teurafaatiu-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Teurafaatiu", hu: "Teurafaatiu-hegy", ro: "Muntele Teurafaatiu", en: "Mount Teurafaatiu" },
     coords: [-152.261, -16.443],
@@ -444,6 +454,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-taitaa-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Taitaa", hu: "Taitaa-hegy", ro: "Muntele Taitaa", en: "Mount Taitaa" },
     coords: [-149.4667, -23.3833],
@@ -488,6 +499,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-opunohu-valley-relief-v2",
+    parent: "PF",
     type: "valley",
     name: { de: "Opunohu-Tal", hu: "Opunohu-völgy", ro: "Valea Opunohu", en: "Opunohu Valley" },
     coords: [-149.85, -17.51],
@@ -532,6 +544,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-toovii-plateau-relief-v2",
+    parent: "PF",
     type: "mountain",
     name: { de: "Toovii-Plateau", hu: "Toovii-fennsík", ro: "Platoul Toovii", en: "Toovii Plateau" },
     coords: [-140.1, -8.85],
@@ -576,6 +589,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-atiheu-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Atiheu", hu: "Atiheu-hegy", ro: "Muntele Atiheu", en: "Mount Atiheu" },
     coords: [-140.1, -8.81],
@@ -620,6 +634,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-popoti-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Popoti", hu: "Popoti-hegy", ro: "Muntele Popoti", en: "Mount Popoti" },
     coords: [-151.01, -16.71],
@@ -664,6 +679,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mount-tapinga-relief-v2",
+    parent: "PF",
     type: "peak",
     name: { de: "Berg Tapinga", hu: "Tapinga-hegy", ro: "Muntele Tapinga", en: "Mount Tapinga" },
     coords: [-147.652, -23.868],

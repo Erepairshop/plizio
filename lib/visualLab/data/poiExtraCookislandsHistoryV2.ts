@@ -4,6 +4,7 @@ export const cookislandsHistoryV2: POI[] = [
 
   {
     id: "cookislands-marae-arai-te-tonga-history-v2",
+    parent: "CK",
     type: "ruins",
     name: { de: "Marae Arai-te-tonga", hu: "Marae Arai-te-tonga", ro: "Marae Arai-te-tonga", en: "Marae Arai-te-tonga" },
     coords: [-159.761, -21.214],
@@ -48,6 +49,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-para-o-tane-palace-history-v2",
+    parent: "CK",
     type: "palace",
     name: { de: "Para-O-Tane Palast", hu: "Para-O-Tane palota", ro: "Palatul Para-O-Tane", en: "Para-O-Tane Palace" },
     coords: [-159.775, -21.204],
@@ -92,6 +94,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-cicc-avarua-history-v2",
+    parent: "CK",
     type: "church",
     name: { de: "CICC Avarua", hu: "Avarua-i keresztény templom", ro: "Biserica Creștină Avarua", en: "CICC Avarua" },
     coords: [-159.777, -21.205],
@@ -136,6 +139,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-seven-canoe-altar-history-v2",
+    parent: "CK",
     type: "monument",
     name: { de: "Vaka-Altar der sieben Kanus", hu: "Hét kenu kőoltár", ro: "Altarul celor șapte canoe", en: "Seven Canoe Stone Altar" },
     coords: [-159.733, -21.25],
@@ -180,6 +184,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-takamoa-college-history-v2",
+    parent: "CK",
     type: "university",
     name: { de: "Takamoa Theological College", hu: "Takamoa Teológiai Kollégium", ro: "Colegiul Teologic Takamoa", en: "Takamoa Theological College" },
     coords: [-159.778, -21.206],
@@ -224,6 +229,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-pa-arikis-palace-history-v2",
+    parent: "CK",
     type: "palace",
     name: { de: "Pa Arikis Palast", hu: "Pa Ariki palotája", ro: "Palatul lui Pa Ariki", en: "Pa Ariki's Palace" },
     coords: [-159.735, -21.251],
@@ -268,6 +274,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-arutanga-church-history-v2",
+    parent: "CK",
     type: "church",
     name: { de: "Arutanga-Kirche", hu: "Arutanga templom", ro: "Biserica Arutanga", en: "Arutanga Church" },
     coords: [-159.789, -18.868],
@@ -312,6 +319,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-te-kai-nuku-marae-history-v2",
+    parent: "CK",
     type: "ruins",
     name: { de: "Te-Kai-Nuku Marae", hu: "Te-Kai-Nuku Marae", ro: "Marae Te-Kai-Nuku", en: "Te-Kai-Nuku Marae" },
     coords: [-157.925, -21.921],
@@ -356,6 +364,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-anatakitaki-cave-history-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Anatakitaki-Höhle", hu: "Anatakitaki-barlang", ro: "Peștera Anatakitaki", en: "Anatakitaki Cave" },
     coords: [-158.112, -19.983],
@@ -400,6 +409,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-palmerston-settlement-history-v2",
+    parent: "CK",
     type: "village",
     name: { de: "Palmerston Siedlung", hu: "Palmerstoni település", ro: "Așezarea Palmerston", en: "Palmerston Settlement" },
     coords: [-163.16, -18.06],
@@ -444,6 +454,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-tinomana-palace-history-v2",
+    parent: "CK",
     type: "palace",
     name: { de: "Tinomana Palast", hu: "Tinomana palota", ro: "Palatul Tinomana", en: "Tinomana Palace" },
     coords: [-159.815, -21.24],
@@ -488,6 +499,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-omoka-church-history-v2",
+    parent: "CK",
     type: "church",
     name: { de: "Omoka-Kirche", hu: "Omoka-i templom", ro: "Biserica din Omoka", en: "Omoka Church" },
     coords: [-158.055, -9.032],
@@ -532,6 +544,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-rakahanga-landing-history-v2",
+    parent: "CK",
     type: "monument",
     name: { de: "Landeplatz von Quirós", hu: "Quirós partraszállási helye", ro: "Locul de debarcare a lui Quirós", en: "Rakahanga Landing Site" },
     coords: [-161.095, -10.035],
@@ -576,6 +589,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-suwarrow-island-history-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Suwarrow Atoll", hu: "Suwarrow-atoll", ro: "Atolul Suwarrow", en: "Suwarrow Island" },
     coords: [-163.11, -13.25],
@@ -620,6 +634,7 @@ export const cookislandsHistoryV2: POI[] = [
   },
   {
     id: "cookislands-ziona-church-mauke-history-v2",
+    parent: "CK",
     type: "church",
     name: { de: "Ziona-Kirche Mauke", hu: "Ziona templom, Mauke", ro: "Biserica Ziona Mauke", en: "Ziona Church Mauke" },
     coords: [-157.352, -20.155],

@@ -4,6 +4,7 @@ export const cookislandsLandmarksV2: POI[] = [
 
   {
     id: "cookislands-avarua-cicc-landmarks-v2",
+    parent: "CK",
     type: "church",
     name: { de: "Christliche Kirche von Avarua", hu: "Avaruai Keresztény Templom", ro: "Biserica Creștină din Avarua", en: "Avarua Cook Islands Christian Church" },
     coords: [-159.7735, -21.2036],
@@ -48,6 +49,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-national-museum-landmarks-v2",
+    parent: "CK",
     type: "museum",
     name: { de: "Nationalmuseum der Cookinseln", hu: "Cook-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Insulelor Cook", en: "National Museum of the Cook Islands" },
     coords: [-159.7754, -21.2048],
@@ -92,6 +94,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-ss-maitai-wreck-landmarks-v2",
+    parent: "CK",
     type: "monument",
     name: { de: "Wrack der SS Maitai", hu: "Az SS Maitai roncsa", ro: "Epava SS Maitai", en: "Wreck of the SS Maitai" },
     coords: [-159.7712, -21.2015],
@@ -136,6 +139,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-seven-canoes-monument-landmarks-v2",
+    parent: "CK",
     type: "monument",
     name: { de: "Denkmal der Sieben Kanus", hu: "Hét Kenu Emlékmű", ro: "Monumentul celor Șapte Canoe", en: "Seven Canoes Monument" },
     coords: [-159.7335, -21.2505],
@@ -180,6 +184,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-national-culture-centre-landmarks-v2",
+    parent: "CK",
     type: "museum",
     name: { de: "Nationales Kulturzentrum", hu: "Nemzeti Kulturális Központ", ro: "Centrul Cultural Național", en: "National Culture Centre" },
     coords: [-159.7772, -21.2055],
@@ -224,6 +229,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-beachcomber-building-landmarks-v2",
+    parent: "CK",
     type: "monument",
     name: { de: "Beachcomber-Gebäude", hu: "Beachcomber-épület", ro: "Clădirea Beachcomber", en: "Beachcomber Building" },
     coords: [-159.7761, -21.2032],
@@ -268,6 +274,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-arutanga-church-landmarks-v2",
+    parent: "CK",
     type: "church",
     name: { de: "Arutanga CICC Kirche", hu: "Arutangai CICC Templom", ro: "Biserica CICC din Arutanga", en: "Arutanga CICC Church" },
     coords: [-159.7915, -18.8681],
@@ -312,6 +319,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-maire-nui-gardens-landmarks-v2",
+    parent: "CK",
     type: "park",
     name: { de: "Maire Nui Botanischer Garten", hu: "Maire Nui Botanikus Kert", ro: "Grădina Botanică Maire Nui", en: "Maire Nui Botanical Gardens" },
     coords: [-159.7525, -21.2725],
@@ -356,6 +364,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-library-museum-society-landmarks-v2",
+    parent: "CK",
     type: "museum",
     name: { de: "Bibliotheks- und Museumsgesellschaft", hu: "Könyvtári és Múzeumi Társaság", ro: "Societatea Bibliotecii și Muzeului", en: "Library and Museum Society" },
     coords: [-159.7788, -21.2045],
@@ -400,6 +409,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-pa-ariki-palace-landmarks-v2",
+    parent: "CK",
     type: "palace",
     name: { de: "Pa Arikis Palast", hu: "Pa Ariki palotája", ro: "Palatul lui Pa Ariki", en: "Pa Ariki's Palace" },
     coords: [-159.7422, -21.2658],
@@ -444,6 +454,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-te-vara-nui-landmarks-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Te Vara Nui Dorf", hu: "Te Vara Nui falu", ro: "Satul Te Vara Nui", en: "Te Vara Nui Village" },
     coords: [-159.7318, -21.2525],
@@ -488,6 +499,7 @@ export const cookislandsLandmarksV2: POI[] = [
   },
   {
     id: "cookislands-ngatangiia-church-landmarks-v2",
+    parent: "CK",
     type: "church",
     name: { de: "Ngatangiia CICC Kirche", hu: "Ngatangiiai CICC Templom", ro: "Biserica CICC din Ngatangiia", en: "Ngatangiia CICC Church" },
     coords: [-159.7345, -21.2492],

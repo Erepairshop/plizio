@@ -4,6 +4,7 @@ export const cookislandsCitiesV2: POI[] = [
 
   {
     id: "cookislands-avarua-cities-v2",
+    parent: "CK",
     type: "capital",
     name: { de: "Avarua", hu: "Avarua", ro: "Avarua", en: "Avarua" },
     coords: [-159.776, -21.207],
@@ -48,6 +49,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-arutanga-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Arutanga", hu: "Arutanga", ro: "Arutanga", en: "Arutanga" },
     coords: [-159.791, -18.864],
@@ -92,6 +94,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-oneroa-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Oneroa", hu: "Oneroa", ro: "Oneroa", en: "Oneroa" },
     coords: [-157.961, -21.916],
@@ -136,6 +139,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-areora-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Areora", hu: "Areora", ro: "Areora", en: "Areora" },
     coords: [-158.113, -19.988],
@@ -180,6 +184,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-oiretumu-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Oiretumu", hu: "Oiretumu", ro: "Oiretumu", en: "Oiretumu" },
     coords: [-157.348, -20.155],
@@ -224,6 +229,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-takaue-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Takaue", hu: "Takaue", ro: "Takaue", en: "Takaue" },
     coords: [-157.708, -19.851],
@@ -268,6 +274,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-omoka-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Omoka", hu: "Omoka", ro: "Omoka", en: "Omoka" },
     coords: [-158.053, -9.032],
@@ -312,6 +319,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-tauhunu-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Tauhunu", hu: "Tauhunu", ro: "Tauhunu", en: "Tauhunu" },
     coords: [-161.026, -10.435],
@@ -356,6 +364,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-wale-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Wale", hu: "Wale", ro: "Wale", en: "Wale" },
     coords: [-165.864, -10.88],
@@ -400,6 +409,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-arorangi-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Arorangi", hu: "Arorangi", ro: "Arorangi", en: "Arorangi" },
     coords: [-159.821, -21.233],
@@ -444,6 +454,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-ngatangiia-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Ngatangiia", hu: "Ngatangiia", ro: "Ngatangiia", en: "Ngatangiia" },
     coords: [-159.734, -21.243],
@@ -488,6 +499,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-titikaveka-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Titikaveka", hu: "Titikaveka", ro: "Titikaveka", en: "Titikaveka" },
     coords: [-159.757, -21.268],
@@ -532,6 +544,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-matavera-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Matavera", hu: "Matavera", ro: "Matavera", en: "Matavera" },
     coords: [-159.734, -21.221],
@@ -576,6 +589,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-nikao-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Nikao", hu: "Nikao", ro: "Nikao", en: "Nikao" },
     coords: [-159.803, -21.201],
@@ -620,6 +634,7 @@ export const cookislandsCitiesV2: POI[] = [
   },
   {
     id: "cookislands-vaipae-cities-v2",
+    parent: "CK",
     type: "town",
     name: { de: "Vaipae", hu: "Vaipae", ro: "Vaipae", en: "Vaipae" },
     coords: [-159.771, -18.841],

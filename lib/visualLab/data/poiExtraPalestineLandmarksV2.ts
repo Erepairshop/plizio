@@ -4,6 +4,7 @@ export const palestineLandmarksV2: POI[] = [
 
   {
     id: "palestine-hishams-palace-landmarks-v2",
+    parent: "PS",
     type: "palace",
     name: { de: "Hischam-Palast", hu: "Hisám-palota", ro: "Palatul lui Hisham", en: "Hisham's Palace" },
     coords: [35.4597, 31.8817],
@@ -48,6 +49,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-mount-of-temptation-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Kloster der Versuchung", hu: "Megkísértés kolostora", ro: "Mănăstirea Ispitirii", en: "Mount of Temptation Monastery" },
     coords: [35.4325, 31.8744],
@@ -92,6 +94,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-ibrahimi-mosque-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Ibrahimi-Moschee", hu: "Ibrahimi-mecset", ro: "Moscheea Ibrahimi", en: "Ibrahimi Mosque" },
     coords: [35.1107, 31.5247],
@@ -136,6 +139,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-st-georges-monastery-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "St. Georg Kloster", hu: "Szent György-kolostor", ro: "Mănăstirea Sfântul Gheorghe", en: "St. George's Monastery" },
     coords: [35.4137, 31.8443],
@@ -180,6 +184,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-jacobs-well-landmarks-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Jakobsbrunnen", hu: "Jákob kútja", ro: "Fântâna lui Iacob", en: "Jacob's Well" },
     coords: [35.2851, 32.2093],
@@ -224,6 +229,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-sebastia-ruins-landmarks-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Sebastia Ruinen", hu: "Szebasztié romjai", ro: "Ruinele de la Sebastia", en: "Sebastia Archaeological Park" },
     coords: [35.1972, 32.2764],
@@ -268,6 +274,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-pashas-palace-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Pascha-Palast", hu: "Pasa-palota", ro: "Palatul Pașei", en: "Pashas Palace Museum" },
     coords: [34.4639, 31.505],
@@ -312,6 +319,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-st-hilarion-monastery-landmarks-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Hilarionkloster", hu: "Szent Hilárión-kolostor", ro: "Mănăstirea Sfântul Ilarion", en: "St. Hilarion Monastery" },
     coords: [34.3758, 31.4503],
@@ -356,6 +364,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-hamam-al-samra-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Hamam al-Samra", hu: "Hamam al-Samra", ro: "Hamam al-Samra", en: "Hamam al-Samra" },
     coords: [34.4647, 31.5036],
@@ -400,6 +409,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-nebi-musa-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Nabi Musa", hu: "Nabi Musa", ro: "Nabi Musa", en: "Nabi Musa" },
     coords: [35.4319, 31.7867],
@@ -444,6 +454,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-arafat-museum-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Jassir-Arafat-Museum", hu: "Jasszer Arafat Múzeum", ro: "Muzeul Yasser Arafat", en: "Yasser Arafat Museum" },
     coords: [35.2008, 31.9056],
@@ -488,6 +499,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-darwish-museum-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Mahmoud-Darwish-Museum", hu: "Mahmúd Darvis Múzeum", ro: "Muzeul Mahmoud Darwish", en: "Mahmoud Darwish Museum" },
     coords: [35.195, 31.8967],
@@ -532,6 +544,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-palestinian-museum-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Das Palästinensische Museum", hu: "Palesztin Múzeum", ro: "Muzeul Palestinian", en: "The Palestinian Museum" },
     coords: [35.1783, 31.9583],
@@ -576,6 +589,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-rawabi-amphitheater-landmarks-v2",
+    parent: "PS",
     type: "theater",
     name: { de: "Rawabi-Amphitheater", hu: "Rawabi amfiteátrum", ro: "Amfiteatrul Rawabi", en: "Rawabi Amphitheater" },
     coords: [35.1814, 32.0125],
@@ -620,6 +634,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-herodium-fortress-landmarks-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Herodium", hu: "Herodium", ro: "Herodium", en: "Herodium Fortress" },
     coords: [35.2414, 31.6658],
@@ -664,6 +679,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-solomons-pools-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Teiche Salomos", hu: "Salamon tavai", ro: "Bazinele lui Solomon", en: "Solomon's Pools" },
     coords: [35.1678, 31.6894],
@@ -708,6 +724,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-manger-square-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Krippenplatz", hu: "Jászol tér", ro: "Piața Ieslei", en: "Manger Square" },
     coords: [35.2067, 31.7047],
@@ -752,6 +769,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-milk-grotto-landmarks-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Milchgrotte", hu: "Tej-barlang", ro: "Grota Laptelui", en: "Milk Grotto Church" },
     coords: [35.2086, 31.7031],
@@ -796,6 +814,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-shepherds-field-landmarks-v2",
+    parent: "PS",
     type: "church",
     name: { de: "Hirtenfelder", hu: "Pásztorok mezeje", ro: "Câmpul Păstorilor", en: "Shepherd's Field Chapel" },
     coords: [35.2267, 31.7058],
@@ -840,6 +859,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-great-mosque-nablus-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Große Moschee von Nablus", hu: "Nabuluszi nagymecset", ro: "Marea Moschee din Nablus", en: "Great Mosque of Nablus" },
     coords: [35.2611, 32.2214],
@@ -884,6 +904,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-mount-gerizim-site-landmarks-v2",
+    parent: "PS",
     type: "ruins",
     name: { de: "Berg Gerizim", hu: "Gerizim-hegy", ro: "Muntele Garizim", en: "Mount Gerizim Site" },
     coords: [35.2736, 32.1994],
@@ -928,6 +949,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-josephs-tomb-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Josefsgrab", hu: "József sírja", ro: "Mormântul lui Iosif", en: "Joseph's Tomb" },
     coords: [35.2853, 32.2131],
@@ -972,6 +994,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-taybeh-old-city-landmarks-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Altstadt von Taybeh", hu: "Tajbe óvárosa", ro: "Orașul vechi Taybeh", en: "Taybeh Old City" },
     coords: [35.2997, 31.9547],
@@ -1016,6 +1039,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-saint-gerasimus-monastery-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Kloster St. Gerasimos", hu: "Szent Geraszimosz-kolostor", ro: "Mănăstirea Sfântul Gherasim", en: "Monastery of Saint Gerasimus" },
     coords: [35.5039, 31.8158],
@@ -1060,6 +1084,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-oak-of-mamre-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Eiche von Mamre", hu: "Mamré tölgye", ro: "Stejarul din Mamre", en: "Oak of Mamre" },
     coords: [35.1053, 31.5414],
@@ -1104,6 +1129,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-old-city-hebron-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Altstadt von Hebron", hu: "Hebron óvárosa", ro: "Orașul vechi Hebron", en: "Old City of Hebron" },
     coords: [35.11, 31.5244],
@@ -1148,6 +1174,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-hebron-glass-factory-landmarks-v2",
+    parent: "PS",
     type: "industry",
     name: { de: "Hebroner Glasfabrik", hu: "Hebroni üveggyár", ro: "Fabrica de sticlă din Hebron", en: "Hebron Glass Factory" },
     coords: [35.0933, 31.5425],
@@ -1192,6 +1219,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-al-qarara-museum-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Al-Qarara Kulturmuseum", hu: "Al-Qarara Kulturális Múzeum", ro: "Muzeul Cultural Al-Qarara", en: "Al-Qarara Cultural Museum" },
     coords: [34.3467, 31.3714],
@@ -1236,6 +1264,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-khan-yunis-castle-landmarks-v2",
+    parent: "PS",
     type: "castle",
     name: { de: "Schloss von Khan Yunis", hu: "Hán Júnisz vára", ro: "Castelul din Khan Yunis", en: "Khan Yunis Castle" },
     coords: [34.3011, 31.3439],
@@ -1280,6 +1309,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-kur-throne-village-landmarks-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Kur Thron-Dorf", hu: "Kur trónfalu", ro: "Satul Kur", en: "Kur Throne Village" },
     coords: [35.1053, 32.2344],
@@ -1324,6 +1354,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-birzeit-university-building-landmarks-v2",
+    parent: "PS",
     type: "university",
     name: { de: "Birzeit Universität", hu: "Birzeit Egyetem", ro: "Universitatea Birzeit", en: "Birzeit University Building" },
     coords: [35.1764, 31.9567],
@@ -1368,6 +1399,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-rachels-tomb-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Rahels Grab", hu: "Rákhel sírja", ro: "Mormântul Rahelei", en: "Rachel's Tomb" },
     coords: [35.2011, 31.7144],
@@ -1412,6 +1444,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-star-street-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Sternstraße", hu: "Csillag utca", ro: "Strada Stelei", en: "Star Street" },
     coords: [35.2047, 31.7061],
@@ -1456,6 +1489,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-walled-off-hotel-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Walled Off Hotel", hu: "Walled Off Hotel", ro: "Walled Off Hotel", en: "Banksy Walled Off Hotel" },
     coords: [35.1978, 31.7161],
@@ -1500,6 +1534,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-russian-museum-jericho-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Russisches Museum Jericho", hu: "Jerikói Orosz Múzeum", ro: "Muzeul Rus din Ierihon", en: "Russian Museum Jericho" },
     coords: [35.4542, 31.8581],
@@ -1544,6 +1579,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-zacchaeus-tree-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Maulbeerfeigenbaum des Zachäus", hu: "Zákeus fügefája", ro: "Sicomorul lui Zaheu", en: "Zacchaeus Sycamore Tree" },
     coords: [35.4539, 31.8583],
@@ -1588,6 +1624,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-jericho-synagogue-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Schalom-Al-Yisrael-Synagoge", hu: "Shalom Al Yisrael zsinagóga", ro: "Sinagoga Shalom Al Yisrael", en: "Shalom Al Yisrael Synagogue" },
     coords: [35.4497, 31.8753],
@@ -1632,6 +1669,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-old-city-ramallah-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Altstadt von Ramallah", hu: "Rāmalláh óvárosa", ro: "Orașul vechi Ramallah", en: "Old City of Ramallah" },
     coords: [35.1978, 31.9022],
@@ -1676,6 +1714,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-dar-al-karima-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Dar al-Karima", hu: "Dar al-Karima", ro: "Dar al-Karima", en: "Dar al-Karima" },
     coords: [35.2014, 31.7053],
@@ -1720,6 +1759,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-mosque-of-omar-bethlehem-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Omar-Moschee", hu: "Omari-mecset", ro: "Moscheea lui Omar", en: "Mosque of Omar (Bethlehem)" },
     coords: [35.2061, 31.7049],
@@ -1764,6 +1804,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-pales-museum-birzeit-landmarks-v2",
+    parent: "PS",
     type: "museum",
     name: { de: "Palästinensisches Nationalmuseum", hu: "Palesztin Nemzeti Múzeum", ro: "Muzeul Național Palestinian", en: "Palestinian Museum (Birzeit)" },
     coords: [35.1785, 31.9585],
@@ -1808,6 +1849,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-arraba-throne-village-landmarks-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Arraba Thron-Dorf", hu: "Arraba trónfalu", ro: "Satul Arraba", en: "Arraba Throne Village" },
     coords: [35.2014, 32.4047],
@@ -1852,6 +1894,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-jaba-throne-village-landmarks-v2",
+    parent: "PS",
     type: "village",
     name: { de: "Jaba Thron-Dorf", hu: "Dzseba trónfalu", ro: "Satul Jaba", en: "Jaba' Throne Village" },
     coords: [35.2167, 32.3167],
@@ -1896,6 +1939,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-al-nasr-mosque-nablus-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Al-Nasr-Moschee", hu: "Al-Nasr-mecset", ro: "Moscheea Al-Nasr", en: "Al-Nasr Mosque (Nablus)" },
     coords: [35.2614, 32.2217],
@@ -1940,6 +1984,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-rafah-crossing-landmarks-v2",
+    parent: "PS",
     type: "port",
     name: { de: "Grenzübergang Rafah", hu: "Rafahi határátkelő", ro: "Punctul de trecere Rafah", en: "Rafah Border Crossing" },
     coords: [34.2547, 31.2464],
@@ -1984,6 +2029,7 @@ export const palestineLandmarksV2: POI[] = [
   },
   {
     id: "palestine-khan-el-zeit-landmarks-v2",
+    parent: "PS",
     type: "landmark",
     name: { de: "Khan el-Zeit", hu: "Khan el-Zeit", ro: "Khan el-Zeit", en: "Khan el-Zeit" },
     coords: [35.2306, 31.7803],

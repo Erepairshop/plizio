@@ -4,6 +4,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
 
   {
     id: "frenchpolynesia-marae-arahurahu-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Arahurahu", hu: "Marae Arahurahu", ro: "Marae Arahurahu", en: "Marae Arahurahu" },
     coords: [-149.5441, -17.6744],
@@ -48,6 +49,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-taputapuatea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Taputapuatea", hu: "Marae Taputapuatea", ro: "Marae Taputapuatea", en: "Marae Taputapuatea" },
     coords: [-151.3575, -16.8433],
@@ -92,6 +94,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-point-venus-history-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Point Venus", hu: "Vénusz-pont", ro: "Point Venus", en: "Point Venus" },
     coords: [-149.4925, -17.4975],
@@ -136,6 +139,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-pomare-v-tomb-history-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "Grabmal von Pomare V.", hu: "V. Pomare sírja", ro: "Mormântul lui Pomare V", en: "Tomb of Pomare V" },
     coords: [-149.5215, -17.5255],
@@ -180,6 +184,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-taata-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Ta'ata", hu: "Marae Ta'ata", ro: "Marae Ta'ata", en: "Marae Ta'ata" },
     coords: [-149.5938, -17.6152],
@@ -224,6 +229,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-mahaiatea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Mahaiatea", hu: "Marae Mahaiatea", ro: "Marae Mahaiatea", en: "Marae Mahaiatea" },
     coords: [-149.4505, -17.7505],
@@ -268,6 +274,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-titiroa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Titiroa", hu: "Marae Titiroa", ro: "Marae Titiroa", en: "Marae Titiroa" },
     coords: [-149.8255, -17.5302],
@@ -312,6 +319,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-protestant-church-papetoai-history-v2",
+    parent: "PF",
     type: "church",
     name: { de: "Protestantische Kirche von Papetoai", hu: "Papetoai protestáns templom", ro: "Biserica Protestantă din Papetoai", en: "Protestant Church of Papetoai" },
     coords: [-149.8732, -17.4935],
@@ -356,6 +364,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-anini-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Anini", hu: "Marae Anini", ro: "Marae Anini", en: "Marae Anini" },
     coords: [-150.9785, -16.7971],
@@ -400,6 +409,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-manunu-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Manunu", hu: "Marae Manunu", ro: "Marae Manunu", en: "Marae Manunu" },
     coords: [-151.0112, -16.7115],
@@ -444,6 +454,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faahia-site-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Fa'ahia Archäologische Stätte", hu: "Fa'ahia régészeti lelőhely", ro: "Situl arheologic Fa'ahia", en: "Fa'ahia Archaeological Site" },
     coords: [-151.0205, -16.7155],
@@ -488,6 +499,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-marotetini-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Marotetini", hu: "Marae Marotetini", ro: "Marae Marotetini", en: "Marae Marotetini" },
     coords: [-151.7552, -16.4855],
@@ -532,6 +544,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-wwii-cannons-bora-bora-history-v2",
+    parent: "PF",
     type: "monument",
     name: { de: "WWII-Kanonen von Bora Bora", hu: "Bora Bora második világháborús ágyúi", ro: "Tunurile din al Doilea Război Mondial din Bora Bora", en: "WWII Cannons of Bora Bora" },
     coords: [-151.7605, -16.4805],
@@ -576,6 +589,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tohua-kamuihei-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Tohua Kamuihei", hu: "Tohua Kamuihei", ro: "Tohua Kamuihei", en: "Tohua Kamuihei" },
     coords: [-140.0952, -8.8655],
@@ -620,6 +634,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-meae-ipona-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Me'ae Ipona", hu: "Me'ae Ipona", ro: "Me'ae Ipona", en: "Me'ae Ipona" },
     coords: [-138.8255, -9.7552],
@@ -664,6 +679,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-calvary-cemetery-atuona-history-v2",
+    parent: "PF",
     type: "landmark",
     name: { de: "Calvary Friedhof Atuona", hu: "Atuona kálvária-temető", ro: "Cimitirul Calvarului din Atuona", en: "Calvary Cemetery Atuona" },
     coords: [-139.0352, -9.8055],
@@ -708,6 +724,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-st-michaels-cathedral-rikitea-history-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "Kathedrale St. Michael Rikitea", hu: "Szent Mihály-székesegyház Rikitea", ro: "Catedrala Sf. Mihail din Rikitea", en: "St. Michael's Cathedral Rikitea" },
     coords: [-134.9655, -23.1255],
@@ -752,6 +769,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-kings-palace-ruins-rikitea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Ruinen des Königspalastes Rikitea", hu: "Rikitea királyi palota romjai", ro: "Ruinele palatului regal din Rikitea", en: "King's Palace Ruins Rikitea" },
     coords: [-134.9665, -23.1265],
@@ -796,6 +814,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fort-of-taravao-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Fort von Taravao", hu: "Taravao erőd", ro: "Fortul din Taravao", en: "Fort of Taravao" },
     coords: [-149.3055, -17.7255],
@@ -840,6 +859,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-james-norman-hall-home-history-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "James Norman Hall Haus", hu: "James Norman Hall otthona", ro: "Casa lui James Norman Hall", en: "James Norman Hall Home" },
     coords: [-149.5105, -17.5202],
@@ -884,6 +904,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-museum-of-tahiti-history-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Museum von Tahiti und den Inseln", hu: "Tahiti és a Szigetek Múzeuma", ro: "Muzeul din Tahiti și Insule", en: "Museum of Tahiti and the Islands" },
     coords: [-149.6152, -17.6355],
@@ -928,6 +949,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-nuupure-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Nuupure", hu: "Marae Nuupure", ro: "Marae Nuupure", en: "Marae Nuupure" },
     coords: [-149.6155, -17.7052],
@@ -972,6 +994,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tainuu-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tainuu", hu: "Marae Tainuu", ro: "Marae Tainuu", en: "Marae Tainuu" },
     coords: [-151.4855, -16.7352],
@@ -1016,6 +1039,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-umarea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Umarea", hu: "Marae Umarea", ro: "Marae Umarea", en: "Marae Umarea" },
     coords: [-149.7952, -17.5555],
@@ -1060,6 +1084,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-fare-opu-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Fare Opu", hu: "Marae Fare Opu", ro: "Marae Fare Opu", en: "Marae Fare Opu" },
     coords: [-151.7405, -16.4755],
@@ -1104,6 +1129,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paeke-archaeological-site-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Paeke Archäologische Stätte", hu: "Paeke régészeti lelőhely", ro: "Situl arheologic Paeke", en: "Paeke Archaeological Site" },
     coords: [-140.0852, -8.8855],
@@ -1148,6 +1174,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-matairea-ahi-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Mata'irea-ahi", hu: "Marae Mata'irea-ahi", ro: "Marae Mata'irea-ahi", en: "Marae Mata'irea-ahi" },
     coords: [-151.0125, -16.7125],
@@ -1192,6 +1219,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-hauviri-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Hauviri", hu: "Marae Hauviri", ro: "Marae Hauviri", en: "Marae Hauviri" },
     coords: [-151.3585, -16.8435],
@@ -1236,6 +1264,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tefano-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tefano", hu: "Marae Tefano", ro: "Marae Tefano", en: "Marae Tefano" },
     coords: [-151.0135, -16.7132],
@@ -1280,6 +1309,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-nuurua-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Nuurua", hu: "Marae Nuurua", ro: "Marae Nuurua", en: "Marae Nuurua" },
     coords: [-150.0055, -17.4955],
@@ -1324,6 +1354,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-hitiaa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Hitia'a", hu: "Marae Hitia'a", ro: "Marae Hitia'a", en: "Marae Hitia'a" },
     coords: [-149.3152, -17.6055],
@@ -1368,6 +1399,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-rahuru-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Rahuru", hu: "Marae Rahuru", ro: "Marae Rahuru", en: "Marae Rahuru" },
     coords: [-151.0182, -16.7155],
@@ -1412,6 +1444,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tohua-koueva-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Tohua Koueva", hu: "Tohua Koueva", ro: "Tohua Koueva", en: "Tohua Koueva" },
     coords: [-140.1102, -8.9155],
@@ -1456,6 +1489,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tohua-hikokua-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Tohua Hikokua", hu: "Tohua Hikokua", ro: "Tohua Hikokua", en: "Tohua Hikokua" },
     coords: [-140.1005, -8.8755],
@@ -1500,6 +1534,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-vaiotaha-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Vaiotaha", hu: "Marae Vaiotaha", ro: "Marae Vaiotaha", en: "Marae Vaiotaha" },
     coords: [-151.7455, -16.4955],
@@ -1544,6 +1579,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-arahurahu-museum-history-v2",
+    parent: "PF",
     type: "museum",
     name: { de: "Marae Arahurahu Freilichtmuseum", hu: "Marae Arahurahu szabadtéri múzeum", ro: "Muzeul în aer liber Marae Arahurahu", en: "Marae Arahurahu Open Air Museum" },
     coords: [-149.5445, -17.6745],
@@ -1588,6 +1624,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-oroae-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Oroae", hu: "Marae Oroae", ro: "Marae Oroae", en: "Marae Oroae" },
     coords: [-149.6155, -17.7555],
@@ -1632,6 +1669,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tohua-pehekua-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Tohua Pehekua", hu: "Tohua Pehekua", ro: "Tohua Pehekua", en: "Tohua Pehekua" },
     coords: [-140.0652, -9.3855],
@@ -1676,6 +1714,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-opoa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Opoa", hu: "Marae Opoa", ro: "Marae Opoa", en: "Marae Opoa" },
     coords: [-151.3555, -16.8455],
@@ -1720,6 +1759,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-pofatuuraa-fort-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Pofatuuraa Fort", hu: "Pofatuuraa erőd", ro: "Fortul Pofatuuraa", en: "Pofatuuraa Fort" },
     coords: [-151.7655, -16.4852],
@@ -1764,6 +1804,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-arituitui-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Arituitui", hu: "Marae Arituitui", ro: "Marae Arituitui", en: "Marae Arituitui" },
     coords: [-151.7605, -16.4902],
@@ -1808,6 +1849,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-taianapa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Taianapa", hu: "Marae Taianapa", ro: "Marae Taianapa", en: "Marae Taianapa" },
     coords: [-151.7555, -16.5055],
@@ -1852,6 +1894,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-ohuu-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Ohu'u", hu: "Marae Ohu'u", ro: "Marae Ohu'u", en: "Marae Ohu'u" },
     coords: [-151.7505, -16.5152],
@@ -1896,6 +1939,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-haapiti-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Haapiti", hu: "Marae Haapiti", ro: "Marae Haapiti", en: "Marae Haapiti" },
     coords: [-149.8855, -17.5655],
@@ -1940,6 +1984,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-ati-tahito-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Ati-Tahito", hu: "Marae Ati-Tahito", ro: "Marae Ati-Tahito", en: "Marae Ati-Tahito" },
     coords: [-149.2555, -17.8255],
@@ -1984,6 +2029,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-orohiti-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Orohiti", hu: "Marae Orohiti", ro: "Marae Orohiti", en: "Marae Orohiti" },
     coords: [-149.5555, -17.6555],
@@ -2028,6 +2074,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-faremiro-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Faremiro", hu: "Marae Faremiro", ro: "Marae Faremiro", en: "Marae Faremiro" },
     coords: [-151.7455, -16.5255],
@@ -2072,6 +2119,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-nonoha-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Nonoha", hu: "Marae Nonoha", ro: "Marae Nonoha", en: "Marae Nonoha" },
     coords: [-149.4055, -17.7155],
@@ -2116,6 +2164,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tehoro-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tehoro", hu: "Marae Tehoro", ro: "Marae Tehoro", en: "Marae Tehoro" },
     coords: [-149.4255, -17.7552],
@@ -2160,6 +2209,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-papeete-history-v2",
+    parent: "PF",
     type: "cathedral",
     name: { de: "Kathedrale Notre-Dame von Papeete", hu: "Papeete-i Notre-Dame-székesegyház", ro: "Catedrala Notre-Dame din Papeete", en: "Notre Dame Cathedral Papeete" },
     coords: [-149.5678, -17.5422],
@@ -2204,6 +2254,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-maeva-marae-complex-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Maeva Marae Komplex", hu: "Maeva marae-komplexum", ro: "Complexul Marae din Maeva", en: "Maeva Marae Complex" },
     coords: [-151.0115, -16.7112],
@@ -2248,6 +2299,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fort-de-l-ouest-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Fort de l'Ouest", hu: "Nyugati erőd", ro: "Fortul de Vest", en: "Fort de l'Ouest" },
     coords: [-151.7705, -16.4882],
@@ -2292,6 +2344,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papeete-town-hall-history-v2",
+    parent: "PF",
     type: "palace",
     name: { de: "Rathaus von Papeete", hu: "Papeete-i városháza", ro: "Primăria din Papeete", en: "Papeete Town Hall" },
     coords: [-149.5655, -17.5405],
@@ -2336,6 +2389,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tara-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tara", hu: "Marae Tara", ro: "Marae Tara", en: "Marae Tara" },
     coords: [-151.7505, -16.5052],
@@ -2380,6 +2434,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-ahu-o-mahine-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Ahu-o-Mahine", hu: "Marae Ahu-o-Mahine", ro: "Marae Ahu-o-Mahine", en: "Marae Ahu-o-Mahine" },
     coords: [-149.8252, -17.5252],
@@ -2424,6 +2479,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-nonoha-punaauia-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Nonoha (Punaauia)", hu: "Marae Nonoha (Punaauia)", ro: "Marae Nonoha (Punaauia)", en: "Marae Nonoha (Punaauia)" },
     coords: [-149.6155, -17.6552],
@@ -2468,6 +2524,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-vaiahu-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Vaiahu", hu: "Marae Vaiahu", ro: "Marae Vaiahu", en: "Marae Vaiahu" },
     coords: [-151.0185, -16.7355],
@@ -2512,6 +2569,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tainuu-tevaitoa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tainuu (Tevaitoa)", hu: "Marae Tainuu (Tevaitoa)", ro: "Marae Tainuu (Tevaitoa)", en: "Marae Tainuu (Tevaitoa)" },
     coords: [-151.4865, -16.7365],
@@ -2556,6 +2614,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-manunu-huahine-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Manunu (Huahine Iti)", hu: "Marae Manunu (Huahine Iti)", ro: "Marae Manunu (Huahine Iti)", en: "Marae Manunu (Huahine Iti)" },
     coords: [-150.9755, -16.7952],
@@ -2600,6 +2659,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-taata-punaauia-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Ta'ata (Punaauia)", hu: "Marae Ta'ata (Punaauia)", ro: "Marae Ta'ata (Punaauia)", en: "Marae Ta'ata (Punaauia)" },
     coords: [-149.6055, -17.6355],
@@ -2644,6 +2704,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-punaauia-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Punaauia", hu: "Marae Punaauia", ro: "Marae Punaauia", en: "Marae Punaauia" },
     coords: [-149.6155, -17.6455],
@@ -2688,6 +2749,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-nonoha-mataiea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Nonoha (Mataiea)", hu: "Marae Nonoha (Mataiea)", ro: "Marae Nonoha (Mataiea)", en: "Marae Nonoha (Mataiea)" },
     coords: [-149.4355, -17.7655],
@@ -2732,6 +2794,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-vaiahu-tevaitoa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Vaiahu (Tevaitoa)", hu: "Marae Vaiahu (Tevaitoa)", ro: "Marae Vaiahu (Tevaitoa)", en: "Marae Vaiahu (Tevaitoa)" },
     coords: [-151.4875, -16.7375],
@@ -2776,6 +2839,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tahiti-iti-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae von Tahiti Iti", hu: "Tahiti Iti maraéja", ro: "Marae din Tahiti Iti", en: "Marae of Tahiti Iti" },
     coords: [-149.2355, -17.8055],
@@ -2820,6 +2884,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-vaiotaha-bora-bora-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Vaiotaha (Süd-Bora Bora)", hu: "Marae Vaiotaha (Dél-Bora Bora)", ro: "Marae Vaiotaha (Sud Bora Bora)", en: "Marae Vaiotaha (South Bora Bora)" },
     coords: [-151.7555, -16.5255],
@@ -2864,6 +2929,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-hauviri-opoa-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Hauviri (Opoa)", hu: "Marae Hauviri (Opoa)", ro: "Marae Hauviri (Opoa)", en: "Marae Hauviri (Opoa)" },
     coords: [-151.3565, -16.8445],
@@ -2908,6 +2974,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tara-mataiea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tara (Mataiea)", hu: "Marae Tara (Mataiea)", ro: "Marae Tara (Mataiea)", en: "Marae Tara (Mataiea)" },
     coords: [-149.4352, -17.7662],
@@ -2952,6 +3019,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tahiti-west-coast-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae der Westküste Tahitis", hu: "Tahiti nyugati partjának maraéja", ro: "Marae de pe coasta de vest a Tahitiului", en: "Marae of Tahiti West Coast" },
     coords: [-149.5855, -17.6552],
@@ -2996,6 +3064,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-vaiahu-huahine-iti-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Vaiahu (Huahine Iti)", hu: "Marae Vaiahu (Huahine Iti)", ro: "Marae Vaiahu (Huahine Iti)", en: "Marae Vaiahu (Huahine Iti)" },
     coords: [-150.9855, -16.8055],
@@ -3040,6 +3109,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-tainuu-raiatea-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Tainuu (Raiatea)", hu: "Marae Tainuu (Raiatea)", ro: "Marae Tainuu (Raiatea)", en: "Marae Tainuu (Raiatea)" },
     coords: [-151.4955, -16.7455],
@@ -3084,6 +3154,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
   },
   {
     id: "frenchpolynesia-marae-vaiahu-maeva-history-v2",
+    parent: "PF",
     type: "ruins",
     name: { de: "Marae Vaiahu (Maeva)", hu: "Marae Vaiahu (Maeva)", ro: "Marae Vaiahu (Maeva)", en: "Marae Vaiahu (Maeva)" },
     coords: [-151.0155, -16.7155],

@@ -4,6 +4,7 @@ export const cookislandsEconomicV2: POI[] = [
 
   {
     id: "cookislands-avatiu-harbour-economic-v2",
+    parent: "CK",
     type: "port",
     name: { de: "Hafen von Avatiu", hu: "Avatiu kikötő", ro: "Portul Avatiu", en: "Avatiu Harbour" },
     coords: [-159.7824, -21.2031],
@@ -48,6 +49,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-manihiki-pearl-farms-economic-v2",
+    parent: "CK",
     type: "industry",
     name: { de: "Perlenfarmen von Manihiki", hu: "Manihiki igazgyöngyfarmok", ro: "Fermele de perle din Manihiki", en: "Manihiki Pearl Farms" },
     coords: [-161.0025, -10.4312],
@@ -92,6 +94,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-aitutaki-airport-economic-v2",
+    parent: "CK",
     type: "industry",
     name: { de: "Flughafen Aitutaki", hu: "Aitutaki repülőtér", ro: "Aeroportul Aitutaki", en: "Aitutaki Airport" },
     coords: [-159.7641, -18.8314],
@@ -136,6 +139,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-punanga-nui-market-economic-v2",
+    parent: "CK",
     type: "landmark",
     name: { de: "Punanga Nui Markt", hu: "Punanga Nui piac", ro: "Piața Punanga Nui", en: "Punanga Nui Market" },
     coords: [-159.7852, -21.2045],
@@ -180,6 +184,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-atiu-coffee-factory-economic-v2",
+    parent: "CK",
     type: "factory",
     name: { de: "Atiu Kaffeefabrik", hu: "Atiu kávégyár", ro: "Fabrica de cafea din Atiu", en: "Atiu Coffee Factory" },
     coords: [-158.1255, -20.0035],
@@ -224,6 +229,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-te-mana-uira-solar-farm-economic-v2",
+    parent: "CK",
     type: "industry",
     name: { de: "Solarpark Te Mana Uira", hu: "Te Mana Uira naperőmű", ro: "Parcul solar Te Mana Uira", en: "Te Mana Uira Solar Farm" },
     coords: [-159.8055, -21.2052],
@@ -268,6 +274,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-citc-warehouse-complex-economic-v2",
+    parent: "CK",
     type: "industry",
     name: { de: "CITC Lagerkomplex", hu: "CITC raktárkomplexum", ro: "Complexul de depozite CITC", en: "CITC Warehouse Complex" },
     coords: [-159.7758, -21.2105],
@@ -312,6 +319,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-mangaia-pineapple-plantations-economic-v2",
+    parent: "CK",
     type: "industry",
     name: { de: "Ananasplantagen von Mangaia", hu: "Mangaiai ananászültetvények", ro: "Plantațiile de ananas din Mangaia", en: "Mangaia Pineapple Plantations" },
     coords: [-157.9312, -21.9215],
@@ -356,6 +364,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-rarotonga-brewery-economic-v2",
+    parent: "CK",
     type: "factory",
     name: { de: "Rarotonga Brauerei", hu: "Rarotonga sörfőzde", ro: "Berăria Rarotonga", en: "Rarotonga Brewery" },
     coords: [-159.7451, -21.2224],
@@ -400,6 +409,7 @@ export const cookislandsEconomicV2: POI[] = [
   },
   {
     id: "cookislands-penrhyn-marine-resources-economic-v2",
+    parent: "CK",
     type: "industry",
     name: { de: "Penrhyn Meeresressourcen-Zentrum", hu: "Penrhyn tengeri erőforrások központja", ro: "Centrul de resurse marine din Penrhyn", en: "Penrhyn Marine Resources" },
     coords: [-157.9605, -8.9812],

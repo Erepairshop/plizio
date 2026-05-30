@@ -4,6 +4,7 @@ export const newcaledoniaHistoryV2: POI[] = [
 
   {
     id: "newcaledonia-fort-teremba-history-v2",
+    parent: "NC",
     type: "fort",
     name: { de: "Fort Teremba", hu: "Fort Teremba", ro: "Fort Teremba", en: "Fort Teremba" },
     coords: [165.7139, -21.7247],
@@ -48,6 +49,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-cathedrale-saint-joseph-history-v2",
+    parent: "NC",
     type: "cathedral",
     name: { de: "Kathedrale Saint-Joseph", hu: "Szent József-székesegyház", ro: "Catedrala Sfântul Iosif", en: "St. Joseph's Cathedral" },
     coords: [166.4439, -22.2711],
@@ -92,6 +94,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-phare-amedee-history-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Amedee-Leuchtturm", hu: "Amédée-világítótorony", ro: "Farul Amédée", en: "Amedee Lighthouse" },
     coords: [166.4678, -22.4772],
@@ -136,6 +139,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-prony-village-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Prony-Dorf", hu: "Prony falu", ro: "Satul Prony", en: "Prony Village" },
     coords: [166.8208, -22.3194],
@@ -180,6 +184,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-balade-mission-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Mission von Balade", hu: "Balade misszió", ro: "Misiunea de la Balade", en: "Balade Mission" },
     coords: [164.4842, -20.3014],
@@ -224,6 +229,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-maison-celieres-history-v2",
+    parent: "NC",
     type: "palace",
     name: { de: "Maison Célières", hu: "Célières-ház", ro: "Casa Célières", en: "Maison Celieres" },
     coords: [166.4528, -22.2756],
@@ -268,6 +274,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-bourail-nz-cemetery-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Neuseeland-Kriegsfriedhof Bourail", hu: "Bouraili új-zélandi katonai temető", ro: "Cimitirul de Război din Noua Zeelandă Bourail", en: "Bourail New Zealand War Cemetery" },
     coords: [165.4856, -21.5742],
@@ -312,6 +319,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-lapita-site-kone-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Lapita-Ausgrabungsstätte", hu: "Lapita régészeti lelőhely", ro: "Situl arheologic Lapita", en: "Lapita Archaeological Site" },
     coords: [164.8144, -21.0911],
@@ -356,6 +364,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-chateau-hagen-history-v2",
+    parent: "NC",
     type: "palace",
     name: { de: "Schloss Hagen", hu: "Hagen-kastély", ro: "Castelul Hagen", en: "Hagen Castle" },
     coords: [166.4428, -22.2797],
@@ -400,6 +409,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-bagnes-ile-des-pins-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Ruinen des Gefängnisses auf der Insel Pins", hu: "Fenyő-szigeti börtönromok", ro: "Ruinele închisorii de pe Insula Pinilor", en: "Isle of Pines Prison Ruins" },
     coords: [167.4439, -22.6617],
@@ -444,6 +454,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-biblio-bernheim-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Bernheim-Bibliothek", hu: "Bernheim Könyvtár", ro: "Biblioteca Bernheim", en: "Bernheim Library" },
     coords: [166.4411, -22.2725],
@@ -488,6 +499,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-thio-mine-museum-history-v2",
+    parent: "NC",
     type: "museum",
     name: { de: "Bergbaumuseum Thio", hu: "Thio Bányászati Múzeum", ro: "Muzeul Mineritului din Thio", en: "Thio Mining Museum" },
     coords: [166.2167, -21.6117],
@@ -532,6 +544,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-poya-petroglyphs-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Petroglyphen von Poya", hu: "Poyai sziklarajzok", ro: "Petroglifele de la Poya", en: "Poya Petroglyphs" },
     coords: [165.1528, -21.3508],
@@ -576,6 +589,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-oubatche-historic-site-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Historische Stätte Oubatche", hu: "Oubatche történelmi helyszín", ro: "Situl istoric Oubatche", en: "Oubatche Historic Site" },
     coords: [164.6339, -20.4339],
@@ -620,6 +634,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-arab-cemetery-nessadiou-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Arabischer Friedhof von Nessadiou", hu: "Nessadioui arab temető", ro: "Cimitirul arab din Nessadiou", en: "Arab Cemetery of Nessadiou" },
     coords: [165.5136, -21.6114],
@@ -664,6 +679,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-fort-anse-vata-history-v2",
+    parent: "NC",
     type: "fort",
     name: { de: "Fort von Anse Vata", hu: "Anse Vata-erőd", ro: "Fortul din Anse Vata", en: "Fort of Anse Vata" },
     coords: [166.4428, -22.3014],
@@ -708,6 +724,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-puebo-mission-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Mission von Pouébo", hu: "Pouébo misszió", ro: "Misiunea de la Pouébo", en: "Pouébo Mission" },
     coords: [164.5772, -20.3958],
@@ -752,6 +769,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-anse-du-tir-history-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Anse du Tir", hu: "Anse du Tir", ro: "Anse du Tir", en: "Anse du Tir" },
     coords: [166.4389, -22.2617],
@@ -796,6 +814,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-semaphore-noumea-history-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Sémaphore von Nouméa", hu: "Nouméai szemafor", ro: "Semaforul din Nouméa", en: "Semaphore of Nouméa" },
     coords: [166.4464, -22.2619],
@@ -840,6 +859,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-vaillon-dore-estates-history-v2",
+    parent: "NC",
     type: "palace",
     name: { de: "Historische Güter von Vallon-Dore", hu: "Vallon-Dore történelmi birtokai", ro: "Domeniile istorice din Vallon-Dore", en: "Vallon-Dore Historic Estates" },
     coords: [166.5811, -22.2817],
@@ -884,6 +904,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-paita-pioneers-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Pionierviertel von Païta", hu: "Païtai úttörőnegyed", ro: "Cartierul pionierilor din Païta", en: "Païta Pioneer District" },
     coords: [166.3622, -22.1311],
@@ -928,6 +949,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-dumbea-dam-history-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Dumbéa-Staudamm (Historisch)", hu: "Dumbéa-gát (történelmi)", ro: "Barajul Dumbéa (Istoric)", en: "Dumbea Dam (Historic)" },
     coords: [166.4811, -22.1439],
@@ -972,6 +994,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-yate-old-village-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Altes Dorf von Yaté", hu: "Yaté régi faluja", ro: "Satul vechi din Yaté", en: "Yaté Old Village" },
     coords: [166.9311, -22.1417],
@@ -1016,6 +1039,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-canala-mine-history-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Canala-Minenregion", hu: "Canala bányavidék", ro: "Regiunea minieră Canala", en: "Canala Mining Region" },
     coords: [165.9528, -21.5117],
@@ -1060,6 +1084,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-saint-louis-mission-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Mission von Saint-Louis", hu: "Saint-Louis misszió", ro: "Misiunea Saint-Louis", en: "Saint-Louis Mission" },
     coords: [166.5511, -22.2217],
@@ -1104,6 +1129,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-place-cocotiers-history-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Place des Cocotiers", hu: "Place des Cocotiers", ro: "Place des Cocotiers", en: "Place des Cocotiers" },
     coords: [166.4417, -22.2714],
@@ -1148,6 +1174,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-kiosque-musique-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Musikpavillon von Nouméa", hu: "Nouméai zenepavilon", ro: "Chioșcul de muzică din Nouméa", en: "Noumea Bandstand" },
     coords: [166.4419, -22.2711],
@@ -1192,6 +1219,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-maritime-museum-history-v2",
+    parent: "NC",
     type: "museum",
     name: { de: "Schifffahrtsmuseum von Neukaledonien", hu: "Új-Kaledóniai Tengerészeti Múzeum", ro: "Muzeul Maritim al Noii Caledonii", en: "Maritime Museum of New Caledonia" },
     coords: [166.4367, -22.2647],
@@ -1236,6 +1264,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-world-war-2-museum-history-v2",
+    parent: "NC",
     type: "museum",
     name: { de: "Zweiter Weltkrieg Museum", hu: "Második Világháború Múzeuma", ro: "Muzeul celui de-al Doilea Război Mondial", en: "World War II Museum" },
     coords: [166.4389, -22.2639],
@@ -1280,6 +1309,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-monument-morts-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Gefallenen-Denkmal von Nouméa", hu: "Nouméai hősi emlékmű", ro: "Monumentul Eroilor din Nouméa", en: "Nouméa War Memorial" },
     coords: [166.4447, -22.2742],
@@ -1324,6 +1354,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-quai-volontaires-history-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Quai des Volontaires", hu: "Quai des Volontaires", ro: "Quai des Volontaires", en: "Volunteers Quay" },
     coords: [166.4361, -22.2689],
@@ -1368,6 +1399,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-tontouta-airbase-history-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Historische Tontouta-Luftwaffenbasis", hu: "Tontouta történelmi légibázis", ro: "Baza aeriană istorică Tontouta", en: "Tontouta Historical Airbase" },
     coords: [166.2128, -22.0156],
@@ -1412,6 +1444,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-route-territoriale-1-history-v2",
+    parent: "NC",
     type: "bridge",
     name: { de: "Historische Route Territoriale 1", hu: "Történelmi Route Territoriale 1", ro: "Drumul Teritorial istoric 1", en: "Historic Route Territoriale 1" },
     coords: [166.0422, -21.8911],
@@ -1456,6 +1489,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-koumac-old-village-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Altes Dorf Koumac", hu: "Koumac régi faluja", ro: "Satul vechi Koumac", en: "Koumac Old Village" },
     coords: [164.2811, -20.5614],
@@ -1500,6 +1534,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-port-laguerre-station-history-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Forschungsstation Port-Laguerre", hu: "Port-Laguerre kutatóállomás", ro: "Stația de cercetare Port-Laguerre", en: "Port-Laguerre Research Station" },
     coords: [166.3011, -22.1017],
@@ -1544,6 +1579,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-puebo-cathedral-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kathedrale von Pouébo", hu: "Pouébói székesegyház", ro: "Catedrala din Pouébo", en: "Pouébo Cathedral" },
     coords: [164.5728, -20.3917],
@@ -1588,6 +1624,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-hienghene-cultural-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Kulturhistorisches Hienghène", hu: "Hienghène kultúrtörténeti helyszín", ro: "Hienghène - istorie culturală", en: "Hienghene Cultural History" },
     coords: [164.9389, -20.6811],
@@ -1632,6 +1669,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-magent-fort-history-v2",
+    parent: "NC",
     type: "fort",
     name: { de: "Magenta-Fort", hu: "Magenta-erőd", ro: "Fortul Magenta", en: "Magenta Fort" },
     coords: [166.4639, -22.2517],
@@ -1676,6 +1714,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-ile-nou-prison-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Gefängnis Île Nou", hu: "Île Nou börtön", ro: "Închisoarea Île Nou", en: "Ile Nou Prison" },
     coords: [166.4111, -22.2681],
@@ -1720,6 +1759,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-ducos-leper-colony-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Leprastation auf der Ducos-Halbinsel", hu: "Ducos-félszigeti lepratelep", ro: "Leprozeria de pe peninsula Ducos", en: "Ducos Peninsula Leper Colony" },
     coords: [166.4167, -22.2417],
@@ -1764,6 +1804,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-briqueterie-plum-history-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Alte Ziegelei von Plum", hu: "Plumi régi téglagyár", ro: "Vechea fabrică de cărămidă din Plum", en: "Plum Old Brickworks" },
     coords: [166.6311, -22.2814],
@@ -1808,6 +1849,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-deva-archaeology-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Archäologische Stätte Deva", hu: "Deva régészeti lelőhely", ro: "Situl arheologic Deva", en: "Deva Archaeological Site" },
     coords: [165.3428, -21.5117],
@@ -1852,6 +1894,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-troisieme-cave-ww2-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Grotte de la Troisième (WWII)", hu: "Grotte de la Troisième (2. vh.)", ro: "Grotte de la Troisième (Al Doilea Război Mondial)", en: "Troisieme Cave (WWII)" },
     coords: [166.4439, -22.1811],
@@ -1896,6 +1939,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-hotel-ville-noumea-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Altes Rathaus von Nouméa", hu: "Nouméai régi városháza", ro: "Vechea primărie din Nouméa", en: "Nouméa Old City Hall" },
     coords: [166.4381, -22.2719],
@@ -1940,6 +1984,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-vao-church-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Kirche von Vao", hu: "Vaói templom", ro: "Biserica din Vao", en: "Vao Church" },
     coords: [167.4467, -22.6611],
@@ -1984,6 +2029,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-foue-penal-station-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Landwirtschaftliche Strafstation Foué", hu: "Foué-i mezőgazdasági büntetőtelep", ro: "Stația penală agricolă Foué", en: "Foué Agricultural Penal Station" },
     coords: [164.8211, -21.0942],
@@ -2028,6 +2074,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-petit-train-mine-history-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Historische Minenbahn", hu: "Történelmi bányavasút", ro: "Trenulețul minier istoric", en: "Historical Mining Train" },
     coords: [166.2111, -21.6139],
@@ -2072,6 +2119,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-oubi-village-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Historisches Oubi-Dorf", hu: "Oubi történelmi falu", ro: "Satul istoric Oubi", en: "Oubi Historic Village" },
     coords: [165.2111, -21.1417],
@@ -2116,6 +2164,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-semaphore-bourail-history-v2",
+    parent: "NC",
     type: "tower",
     name: { de: "Sémaphore von Bourail", hu: "Bouraili szemafor", ro: "Semaforul din Bourail", en: "Semaphore of Bourail" },
     coords: [165.4111, -21.6117],
@@ -2160,6 +2209,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-point-zero-noumea-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Nullpunkt von Nouméa", hu: "Nouméa nullpontja", ro: "Punctul Zero din Nouméa", en: "Point Zero of Noumea" },
     coords: [166.4411, -22.2714],
@@ -2204,6 +2254,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-la-foa-bridge-history-v2",
+    parent: "NC",
     type: "bridge",
     name: { de: "Marguerite-Brücke in La Foa", hu: "La Foa Marguerite-hídja", ro: "Podul Marguerite din La Foa", en: "La Foa Marguerite Bridge" },
     coords: [165.8311, -21.7117],
@@ -2248,6 +2299,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-sarramea-agriculture-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Historisches Sarraméa", hu: "Történelmi Sarraméa", ro: "Sarraméa istorică", en: "Historic Sarraméa" },
     coords: [165.8511, -21.6417],
@@ -2292,6 +2344,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-farino-pioneers-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Pionierdorf Farino", hu: "Farino úttörőfalu", ro: "Satul de pionieri Farino", en: "Farino Pioneer Village" },
     coords: [165.7728, -21.6511],
@@ -2336,6 +2389,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-ponérihouen-mission-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Mission von Ponérihouen", hu: "Ponérihouen misszió", ro: "Misiunea Ponérihouen", en: "Ponérihouen Mission" },
     coords: [165.4011, -21.0717],
@@ -2380,6 +2434,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-poum-mining-history-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Historischer Bergbau in Poum", hu: "Poum történelmi bányászata", ro: "Mineritul istoric din Poum", en: "Poum Historical Mining" },
     coords: [164.0111, -20.2311],
@@ -2424,6 +2479,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-st-joseph-mission-ouv-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Mission St. Joseph (Ouvéa)", hu: "Szent József-misszió (Ouvéa)", ro: "Misiunea Sf. Iosif (Ouvéa)", en: "St. Joseph Mission (Ouvéa)" },
     coords: [166.5811, -20.4011],
@@ -2468,6 +2524,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-mare-archaeology-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Archäologie auf Maré", hu: "Maré-szigeti régészet", ro: "Arheologia pe Maré", en: "Maré Archaeology" },
     coords: [167.9528, -21.5011],
@@ -2512,6 +2569,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-lifou-mission-history-v2",
+    parent: "NC",
     type: "church",
     name: { de: "Mission von Lifou", hu: "Lifou misszió", ro: "Misiunea din Lifou", en: "Lifou Mission" },
     coords: [167.2411, -20.9117],
@@ -2556,6 +2614,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-thierry-mine-history-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Thierry-Mine (Historisch)", hu: "Thierry-bánya (történelmi)", ro: "Mina Thierry (Istorică)", en: "Thierry Mine (Historic)" },
     coords: [165.9111, -21.4311],
@@ -2600,6 +2659,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-voh-pioneers-history-v2",
+    parent: "NC",
     type: "village",
     name: { de: "Pioniergeschichte von Voh", hu: "Voh úttörő történelme", ro: "Istoria pionierilor din Voh", en: "Voh Pioneer History" },
     coords: [164.6928, -20.9614],
@@ -2644,6 +2704,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-mont-dore-mining-history-v2",
+    parent: "NC",
     type: "mine",
     name: { de: "Bergbaugeschichte am Mont-Dore", hu: "Mont-Dore bányászati történelme", ro: "Istoria mineritului la Mont-Dore", en: "Mont-Dore Mining History" },
     coords: [166.5811, -22.2817],
@@ -2688,6 +2749,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-petroglyphs-mont-mou-history-v2",
+    parent: "NC",
     type: "ruins",
     name: { de: "Petroglyphen vom Mont Mou", hu: "Mont Mou-i sziklarajzok", ro: "Petroglifele de pe Muntele Mou", en: "Mont Mou Petroglyphs" },
     coords: [166.3311, -22.0617],
@@ -2732,6 +2794,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-st-joseph-cathedral-interior-history-v2",
+    parent: "NC",
     type: "monument",
     name: { de: "Innenraum der Kathedrale St. Joseph", hu: "Szent József-székesegyház belső tere", ro: "Interiorul Catedralei Sf. Iosif", en: "St. Joseph's Cathedral Interior" },
     coords: [166.4439, -22.2711],
@@ -2776,6 +2839,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-noumea-wharf-history-v2",
+    parent: "NC",
     type: "port",
     name: { de: "Historischer Kai von Nouméa", hu: "Nouméai történelmi rakpart", ro: "Cheiul istoric din Nouméa", en: "Historic Noumea Wharf" },
     coords: [166.4356, -22.2711],
@@ -2820,6 +2884,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-chateau-hagen-gardens-history-v2",
+    parent: "NC",
     type: "park",
     name: { de: "Gärten von Schloss Hagen", hu: "Hagen-kastély kertjei", ro: "Grădinile Castelului Hagen", en: "Chateau Hagen Gardens" },
     coords: [166.4428, -22.2797],
@@ -2864,6 +2929,7 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-païta-old-railway-history-v2",
+    parent: "NC",
     type: "industry",
     name: { de: "Alte Eisenbahn von Païta", hu: "Païtai régi vasút", ro: "Vechea cale ferată din Païta", en: "Païta Old Railway" },
     coords: [166.3611, -22.1339],

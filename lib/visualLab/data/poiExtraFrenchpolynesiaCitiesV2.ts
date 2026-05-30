@@ -4,6 +4,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
 
   {
     id: "frenchpolynesia-papeete-cities-v2",
+    parent: "PF",
     type: "capital",
     name: { de: "Papeete", hu: "Papeete", ro: "Papeete", en: "Papeete" },
     coords: [-149.5667, -17.5333],
@@ -48,6 +49,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faaa-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Faa'a", hu: "Faa'a", ro: "Faa'a", en: "Faa'a" },
     coords: [-149.6001, -17.5501],
@@ -92,6 +94,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-punaauia-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Puna'auia", hu: "Puna'auia", ro: "Puna'auia", en: "Puna'auia" },
     coords: [-149.6, -17.6333],
@@ -136,6 +139,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-pirae-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Pirae", hu: "Pirae", ro: "Pirae", en: "Pirae" },
     coords: [-149.53, -17.53],
@@ -180,6 +184,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mahina-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Mahina", hu: "Mahina", ro: "Mahina", en: "Mahina" },
     coords: [-149.49, -17.51],
@@ -224,6 +229,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paea-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Paea", hu: "Paea", ro: "Paea", en: "Paea" },
     coords: [-149.5833, -17.6833],
@@ -268,6 +274,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papara-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Papara", hu: "Papara", ro: "Papara", en: "Papara" },
     coords: [-149.5333, -17.75],
@@ -312,6 +319,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-arue-cities-v2",
+    parent: "PF",
     type: "city",
     name: { de: "Arue", hu: "Arue", ro: "Arue", en: "Arue" },
     coords: [-149.5, -17.52],
@@ -356,6 +364,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-taravao-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Taravao", hu: "Taravao", ro: "Taravao", en: "Taravao" },
     coords: [-149.302, -17.727],
@@ -400,6 +409,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-afareaitu-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Afareaitu", hu: "Afareaitu", ro: "Afareaitu", en: "Afareaitu" },
     coords: [-149.782, -17.545],
@@ -444,6 +454,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaitape-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Vaitape", hu: "Vaitape", ro: "Vaitape", en: "Vaitape" },
     coords: [-151.751, -16.505],
@@ -488,6 +499,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-uturoa-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Uturoa", hu: "Uturoa", ro: "Uturoa", en: "Uturoa" },
     coords: [-151.44, -16.73],
@@ -532,6 +544,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fare-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Fare", hu: "Fare", ro: "Fare", en: "Fare" },
     coords: [-151.033, -16.713],
@@ -576,6 +589,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-taiohae-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Taiohae", hu: "Taiohae", ro: "Taiohae", en: "Taiohae" },
     coords: [-140.1, -8.91],
@@ -620,6 +634,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-atuona-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Atuona", hu: "Atuona", ro: "Atuona", en: "Atuona" },
     coords: [-139.032, -9.803],
@@ -664,6 +679,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rikitea-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Rikitea", hu: "Rikitea", ro: "Rikitea", en: "Rikitea" },
     coords: [-134.97, -23.12],
@@ -708,6 +724,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-avatoru-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Avatoru", hu: "Avatoru", ro: "Avatoru", en: "Avatoru" },
     coords: [-147.71, -14.94],
@@ -752,6 +769,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-rotoava-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Rotoava", hu: "Rotoava", ro: "Rotoava", en: "Rotoava" },
     coords: [-145.62, -16.05],
@@ -796,6 +814,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mataura-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Mataura", hu: "Mataura", ro: "Mataura", en: "Mataura" },
     coords: [-149.48, -23.35],
@@ -840,6 +859,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-moerai-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Moerai", hu: "Moerai", ro: "Moerai", en: "Moerai" },
     coords: [-151.33, -22.43],
@@ -884,6 +904,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-ahurei-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Ahurei", hu: "Ahurei", ro: "Ahurei", en: "Ahurei" },
     coords: [-144.33, -27.6],
@@ -928,6 +949,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hakahau-cities-v2",
+    parent: "PF",
     type: "town",
     name: { de: "Hakahau", hu: "Hakahau", ro: "Hakahau", en: "Hakahau" },
     coords: [-140.05, -9.35],
@@ -972,6 +994,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-patio-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Patio", hu: "Patio", ro: "Patio", en: "Patio" },
     coords: [-151.5, -16.58],
@@ -1016,6 +1039,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mataiea-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Mataiea", hu: "Mataiea", ro: "Mataiea", en: "Mataiea" },
     coords: [-149.433, -17.766],
@@ -1060,6 +1084,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papeari-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Papeari", hu: "Papeari", ro: "Papeari", en: "Papeari" },
     coords: [-149.36, -17.76],
@@ -1104,6 +1129,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hitiaa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hitia'a", hu: "Hitia'a", ro: "Hitia'a", en: "Hitia'a" },
     coords: [-149.3, -17.6],
@@ -1148,6 +1174,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papenoo-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Papenoo", hu: "Papenoo", ro: "Papenoo", en: "Papenoo" },
     coords: [-149.43, -17.51],
@@ -1192,6 +1219,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tiarei-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tiarei", hu: "Tiarei", ro: "Tiarei", en: "Tiarei" },
     coords: [-149.38, -17.53],
@@ -1236,6 +1264,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-mahaena-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Mahaena", hu: "Mahaena", ro: "Mahaena", en: "Mahaena" },
     coords: [-149.33, -17.56],
@@ -1280,6 +1309,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vairao-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Vairao", hu: "Vairao", ro: "Vairao", en: "Vairao" },
     coords: [-149.28, -17.78],
@@ -1324,6 +1354,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-teahupoo-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Teahupo'o", hu: "Teahupo'o", ro: "Teahupo'o", en: "Teahupo'o" },
     coords: [-149.267, -17.847],
@@ -1368,6 +1399,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-toahotu-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Toahotu", hu: "Toahotu", ro: "Toahotu", en: "Toahotu" },
     coords: [-149.29, -17.74],
@@ -1412,6 +1444,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-afaahiti-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Afaahiti", hu: "Afaahiti", ro: "Afaahiti", en: "Afaahiti" },
     coords: [-149.28, -17.73],
@@ -1456,6 +1489,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-pueu-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Pueu", hu: "Pueu", ro: "Pueu", en: "Pueu" },
     coords: [-149.23, -17.72],
@@ -1500,6 +1534,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tautira-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tautira", hu: "Tautira", ro: "Tautira", en: "Tautira" },
     coords: [-149.15, -17.733],
@@ -1544,6 +1579,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-paopao-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Paopao", hu: "Paopao", ro: "Paopao", en: "Paopao" },
     coords: [-149.817, -17.483],
@@ -1588,6 +1624,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-papetoai-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Papetoai", hu: "Papetoai", ro: "Papetoai", en: "Papetoai" },
     coords: [-149.873, -17.493],
@@ -1632,6 +1669,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-haapiti-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Haapiti", hu: "Haapiti", ro: "Haapiti", en: "Haapiti" },
     coords: [-149.88, -17.57],
@@ -1676,6 +1714,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-teavaro-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Teavaro", hu: "Teavaro", ro: "Teavaro", en: "Teavaro" },
     coords: [-149.76, -17.5],
@@ -1720,6 +1759,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaiare-cities-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Vaiare", hu: "Vaiare", ro: "Vaiare", en: "Vaiare" },
     coords: [-149.77, -17.52],
@@ -1764,6 +1804,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-avera-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Avera", hu: "Avera", ro: "Avera", en: "Avera" },
     coords: [-151.39, -16.78],
@@ -1808,6 +1849,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-opoa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Opoa", hu: "Opoa", ro: "Opoa", en: "Opoa" },
     coords: [-151.36, -16.84],
@@ -1852,6 +1894,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tevaitoa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tevaitoa", hu: "Tevaitoa", ro: "Tevaitoa", en: "Tevaitoa" },
     coords: [-151.5, -16.8],
@@ -1896,6 +1939,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaiaau-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Vaiaau", hu: "Vaiaau", ro: "Vaiaau", en: "Vaiaau" },
     coords: [-151.48, -16.85],
@@ -1940,6 +1984,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-haamene-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Haamene", hu: "Haamene", ro: "Haamene", en: "Haamene" },
     coords: [-151.46, -16.63],
@@ -1984,6 +2029,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaitoare-cities-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Vaitoare", hu: "Vaitoare", ro: "Vaitoare", en: "Vaitoare" },
     coords: [-151.48, -16.68],
@@ -2028,6 +2074,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faaaha-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Faaaha", hu: "Faaaha", ro: "Faaaha", en: "Faaaha" },
     coords: [-151.45, -16.6],
@@ -2072,6 +2119,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-maeva-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Maeva", hu: "Maeva", ro: "Maeva", en: "Maeva" },
     coords: [-150.98, -16.7],
@@ -2116,6 +2164,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-parea-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Parea", hu: "Parea", ro: "Parea", en: "Parea" },
     coords: [-150.97, -16.81],
@@ -2160,6 +2209,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fitii-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Fitii", hu: "Fitii", ro: "Fitii", en: "Fitii" },
     coords: [-151.02, -16.73],
@@ -2204,6 +2254,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faanui-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Faanui", hu: "Faanui", ro: "Faanui", en: "Faanui" },
     coords: [-151.73, -16.48],
@@ -2248,6 +2299,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-anau-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Anau", hu: "Anau", ro: "Anau", en: "Anau" },
     coords: [-151.71, -16.49],
@@ -2292,6 +2344,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tiputa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tiputa", hu: "Tiputa", ro: "Tiputa", en: "Tiputa" },
     coords: [-147.62, -14.97],
@@ -2336,6 +2389,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-otepa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Otepa", hu: "Otepa", ro: "Otepa", en: "Otepa" },
     coords: [-140.9, -18.2],
@@ -2380,6 +2434,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tuherahera-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tuherahera", hu: "Tuherahera", ro: "Tuherahera", en: "Tuherahera" },
     coords: [-148.24, -15.11],
@@ -2424,6 +2479,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaiuru-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Vaiuru", hu: "Vaiuru", ro: "Vaiuru", en: "Vaiuru" },
     coords: [-147.66, -23.88],
@@ -2468,6 +2524,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-teruore-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Teruore", hu: "Teruore", ro: "Teruore", en: "Teruore" },
     coords: [-152.81, -22.65],
@@ -2512,6 +2569,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaipaee-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Vaipaee", hu: "Vaipaee", ro: "Vaipaee", en: "Vaipaee" },
     coords: [-139.58, -8.93],
@@ -2556,6 +2614,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaitahu-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Vaitahu", hu: "Vaitahu", ro: "Vaitahu", en: "Vaitahu" },
     coords: [-139.11, -9.93],
@@ -2600,6 +2659,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-omoa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Omoa", hu: "Omoa", ro: "Omoa", en: "Omoa" },
     coords: [-138.68, -10.51],
@@ -2644,6 +2704,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hurepiti-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hurepiti", hu: "Hurepiti", ro: "Hurepiti", en: "Hurepiti" },
     coords: [-151.52, -16.63],
@@ -2688,6 +2749,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-haamene-alt-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hipu", hu: "Hipu", ro: "Hipu", en: "Hipu" },
     coords: [-151.46, -16.58],
@@ -2732,6 +2794,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tiva-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tiva", hu: "Tiva", ro: "Tiva", en: "Tiva" },
     coords: [-151.53, -16.62],
@@ -2776,6 +2839,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tapuamu-cities-v2",
+    parent: "PF",
     type: "port",
     name: { de: "Tapuamu", hu: "Tapuamu", ro: "Tapuamu", en: "Tapuamu" },
     coords: [-151.53, -16.6],
@@ -2820,6 +2884,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-fetuna-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Fetuna", hu: "Fetuna", ro: "Fetuna", en: "Fetuna" },
     coords: [-151.45, -16.89],
@@ -2864,6 +2929,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hine-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Niua", hu: "Niua", ro: "Niua", en: "Niua" },
     coords: [-151.48, -16.59],
@@ -2908,6 +2974,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-haapu-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Haapu", hu: "Haapu", ro: "Haapu", en: "Haapu" },
     coords: [-151.02, -16.78],
@@ -2952,6 +3019,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-maroe-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Maroe", hu: "Maroe", ro: "Maroe", en: "Maroe" },
     coords: [-150.99, -16.75],
@@ -2996,6 +3064,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-faie-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Faie", hu: "Faie", ro: "Faie", en: "Faie" },
     coords: [-150.99, -16.71],
@@ -3040,6 +3109,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tefarerii-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tefarerii", hu: "Tefarerii", ro: "Tefarerii", en: "Tefarerii" },
     coords: [-150.96, -16.79],
@@ -3084,6 +3154,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hane-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hane", hu: "Hane", ro: "Hane", en: "Hane" },
     coords: [-139.53, -8.93],
@@ -3128,6 +3199,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-vaitahu-alt-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hapatoni", hu: "Hapatoni", ro: "Hapatoni", en: "Hapatoni" },
     coords: [-139.13, -9.97],
@@ -3172,6 +3244,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hanavave-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hanavave", hu: "Hanavave", ro: "Hanavave", en: "Hanavave" },
     coords: [-138.66, -10.46],
@@ -3216,6 +3289,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-ahu-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Puamau", hu: "Puamau", ro: "Puamau", en: "Puamau" },
     coords: [-138.86, -9.75],
@@ -3260,6 +3334,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-hanaiapa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Hanaiapa", hu: "Hanaiapa", ro: "Hanaiapa", en: "Hanaiapa" },
     coords: [-139.0, -9.7],
@@ -3304,6 +3379,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-garumaoa-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Garumaoa", hu: "Garumaoa", ro: "Garumaoa", en: "Garumaoa" },
     coords: [-145.62, -16.03],
@@ -3348,6 +3424,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
   },
   {
     id: "frenchpolynesia-tetamanu-cities-v2",
+    parent: "PF",
     type: "village",
     name: { de: "Tetamanu", hu: "Tetamanu", ro: "Tetamanu", en: "Tetamanu" },
     coords: [-145.4, -16.3],
