@@ -20,14 +20,23 @@ function slugify(v: string): string {
   return s || "ort";
 }
 
-// --- localized vocabulary ---
-const SIGHTS_SLUG: Record<Lang, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions" };
-const T = {
+// --- localized vocabulary (category-driven; reassigned for non-default categories) ---
+let SIGHTS_SLUG: Record<Lang, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions" };
+let T: Record<Lang, any> = {
   de: { heading: (c: string) => `Sehenswürdigkeiten in ${c}`, sub: "Die Top 50", intro: (c: string) => `Die schönsten Sehenswürdigkeiten in ${c} auf einen Blick: Burgen, Naturwunder, historische Altstädte und mehr. Jeder Ort führt zur ausführlichen Seite mit Karte, Tipps und Fotos.`, onMap: "Alle auf der Karte ansehen", more: "Mehr erfahren", home: "Startseite", cats: { nature: "Natur", history: "Kultur & Geschichte", urban: "Städte & Bauwerke", other: "Weitere Highlights" }, faqH: "Häufige Fragen", titleTpl: (c: string) => `Sehenswürdigkeiten in ${c}: Die Top 50 (2026)`, metaTpl: (c: string) => `Die 50 schönsten Sehenswürdigkeiten in ${c}: Burgen, Natur, Altstädte – mit Karte, Fotos und Reisetipps.` },
   hu: { heading: (c: string) => `${c} látnivalói`, sub: "A top 50", intro: (c: string) => `${c} legszebb látnivalói egy helyen: várak, természeti csodák, történelmi óvárosok és még sok más. Minden hely a részletes oldalra vezet térképpel, tippekkel és fotókkal.`, onMap: "Mind a térképen", more: "Tovább", home: "Főoldal", cats: { nature: "Természet", history: "Kultúra és történelem", urban: "Városok és épületek", other: "További látnivalók" }, faqH: "Gyakori kérdések", titleTpl: (c: string) => `${c} látnivalói: a top 50 (2026)`, metaTpl: (c: string) => `${c} 50 legszebb látnivalója: várak, természet, óvárosok – térképpel, fotókkal és úti tippekkel.` },
   ro: { heading: (c: string) => `Obiective turistice în ${c}`, sub: "Top 50", intro: (c: string) => `Cele mai frumoase obiective turistice din ${c} la un loc: cetăți, minuni ale naturii, centre istorice și multe altele. Fiecare loc duce la pagina detaliată cu hartă, sfaturi și fotografii.`, onMap: "Vezi toate pe hartă", more: "Află mai mult", home: "Acasă", cats: { nature: "Natură", history: "Cultură și istorie", urban: "Orașe și clădiri", other: "Alte atracții" }, faqH: "Întrebări frecvente", titleTpl: (c: string) => `Obiective turistice în ${c}: Top 50 (2026)`, metaTpl: (c: string) => `Cele mai frumoase 50 de obiective turistice din ${c}: cetăți, natură, centre istorice – cu hartă, fotografii și sfaturi.` },
   en: { heading: (c: string) => `Attractions in ${c}`, sub: "The Top 50", intro: (c: string) => `The finest attractions in ${c} at a glance: castles, natural wonders, historic old towns and more. Each place links to a detailed page with map, tips and photos.`, onMap: "See all on the map", more: "Learn more", home: "Home", cats: { nature: "Nature", history: "Culture & History", urban: "Cities & Architecture", other: "More highlights" }, faqH: "Frequently asked questions", titleTpl: (c: string) => `Top 50 Attractions in ${c} (2026)`, metaTpl: (c: string) => `The 50 best attractions in ${c}: castles, nature, old towns – with map, photos and travel tips.` },
-} as const;
+};
+
+// --- category: national parks & nature ---
+const NATURE_SLUG: Record<Lang, string> = { de: "nationalparks", hu: "nemzeti-parkok", ro: "parcuri-nationale", en: "national-parks" };
+const T_NATURE: Record<Lang, any> = {
+  de: { heading: (c: string) => `Nationalparks & Natur in ${c}`, sub: "Top-Naturziele", intro: (c: string) => `Die Nationalparks und schönsten Naturwunder in ${c}: Wasserfälle, Seen, Inseln und Berge. Jeder Ort führt zur ausführlichen Seite mit Karte, Tipps und Fotos.`, onMap: "Alle auf der Karte ansehen", more: "Mehr erfahren", home: "Startseite", cats: { nature: "Natur & Nationalparks", history: "Kultur & Geschichte", urban: "Städte & Bauwerke", other: "Weitere Naturziele" }, faqH: "Häufige Fragen", titleTpl: (c: string) => `Nationalparks in ${c}: die schönsten Naturwunder (2026)`, metaTpl: (c: string) => `Die Nationalparks und Naturwunder in ${c}: Wasserfälle, Seen, Inseln, Berge – mit Karte, Fotos und Reisetipps.` },
+  hu: { heading: (c: string) => `${c} nemzeti parkjai és természeti csodái`, sub: "Top természeti célok", intro: (c: string) => `${c} nemzeti parkjai és legszebb természeti csodái: vízesések, tavak, szigetek és hegyek. Minden hely a részletes oldalra vezet térképpel, tippekkel és fotókkal.`, onMap: "Mind a térképen", more: "Tovább", home: "Főoldal", cats: { nature: "Természet és nemzeti parkok", history: "Kultúra és történelem", urban: "Városok és épületek", other: "További természeti célok" }, faqH: "Gyakori kérdések", titleTpl: (c: string) => `${c} nemzeti parkjai: a legszebb természeti csodák (2026)`, metaTpl: (c: string) => `${c} nemzeti parkjai és természeti csodái: vízesések, tavak, szigetek, hegyek – térképpel, fotókkal és úti tippekkel.` },
+  ro: { heading: (c: string) => `Parcuri naționale și natură în ${c}`, sub: "Top destinații naturale", intro: (c: string) => `Parcurile naționale și cele mai frumoase minuni ale naturii din ${c}: cascade, lacuri, insule și munți. Fiecare loc duce la pagina detaliată cu hartă, sfaturi și fotografii.`, onMap: "Vezi toate pe hartă", more: "Află mai mult", home: "Acasă", cats: { nature: "Natură și parcuri naționale", history: "Cultură și istorie", urban: "Orașe și clădiri", other: "Alte destinații naturale" }, faqH: "Întrebări frecvente", titleTpl: (c: string) => `Parcuri naționale în ${c}: cele mai frumoase minuni naturale (2026)`, metaTpl: (c: string) => `Parcurile naționale și minunile naturii din ${c}: cascade, lacuri, insule, munți – cu hartă, fotografii și sfaturi.` },
+  en: { heading: (c: string) => `National Parks & Nature in ${c}`, sub: "Top nature spots", intro: (c: string) => `The national parks and finest natural wonders in ${c}: waterfalls, lakes, islands and mountains. Each place links to a detailed page with map, tips and photos.`, onMap: "See all on the map", more: "Learn more", home: "Home", cats: { nature: "Nature & National Parks", history: "Culture & History", urban: "Cities & Architecture", other: "More nature spots" }, faqH: "Frequently asked questions", titleTpl: (c: string) => `National Parks in ${c}: the finest natural wonders (2026)`, metaTpl: (c: string) => `The national parks and natural wonders of ${c}: waterfalls, lakes, islands, mountains – with map, photos and travel tips.` },
+};
 
 // localized type badge labels (subset; fallback = raw type)
 const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
@@ -64,6 +73,10 @@ function bucket(t: string): "nature" | "history" | "urban" | "other" {
   if (URBAN.has(t)) return "urban";
   return "other";
 }
+
+// category inclusion filter (reassigned for non-default categories)
+type POIType = { type?: string };
+let CAT_FILTER: (p: POIType) => boolean = (p) => !!p.type && !EXCLUDE.has(p.type);
 
 type POI = { id: string; type?: string; parent?: string; coords?: number[]; image?: string; name?: Record<string,string>; description?: Record<string,string>; descriptionAdvanced?: Record<string,string>; tier?: number; population?: number };
 
@@ -121,7 +134,7 @@ function km(a: number[], b: number[]): number {
 }
 
 function selectTop(pois: POI[]): POI[] {
-  const attractions = pois.filter(p => p.type && !EXCLUDE.has(p.type) && p.coords);
+  const attractions = pois.filter(p => p.type && CAT_FILTER(p) && p.coords);
   const TYPE_W: Record<string,number> = { landmark: 60, castle: 55, cathedral: 50, church: 30, monastery: 40, ruins: 35, palace: 55, waterfall: 65, lake: 55, peak: 35, mountain: 30, park: 60, wildlife: 45, museum: 35, fortress: 50, monument: 30, tower: 30, bridge: 30, nature: 55, coast: 45, gorge: 45, canyon: 45 };
   function score(p: POI): number {
     let s = 0;
@@ -277,6 +290,18 @@ function buildOne(c: CountryCfg): void {
 }
 
 const target = (process.argv[2] || "all").toLowerCase();
+const category = (process.argv[3] || "attractions").toLowerCase();
+if (category === "nature" || category === "nationalparks") {
+  SIGHTS_SLUG = NATURE_SLUG;
+  T = T_NATURE;
+  // Many iconic national parks are typed "landmark" (Plitvice "Plitvicer Seen",
+  // Krka "Nationalpark Krka", Kornati/Brijuni "...-Inseln"), so also include any
+  // POI whose name carries a nature / national-park keyword.
+  const NAT_RE = /national\s?park|nationalpark|nemzeti\s?park|parc(ul)?\s?nat|naturpark|nature park|\bseen?\b|\blakes?\b|tavak|\bt[oó]\b|jezer|insel|island|\botok\b|sziget|wasserfall|waterfall|v[ií]zes|\bslap|\bberg(e|massiv)?\b|mountain|\bhegy|gebirge|gorge|canyon|schlucht|\bfalls?\b/i;
+  CAT_FILTER = (p: any) => !!p.type && !EXCLUDE.has(p.type) &&
+    (NATURE.has(p.type) || Object.values((p.name || {}) as Record<string, string>).some((n) => NAT_RE.test(n || "")));
+  console.log("category: national parks & nature");
+}
 const list = target === "all" ? COUNTRIES : COUNTRIES.filter(c => target.split(",").includes(c.iso));
 if (!list.length) { console.error(`No country '${target}' configured`); process.exit(1); }
 for (const c of list) buildOne(c);
