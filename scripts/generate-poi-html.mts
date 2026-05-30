@@ -688,7 +688,7 @@ function renderConstellation(poi: POI, lang: Lang): string {
     + `</svg></div>`
     + `<div class="plz-cst-nodes">${nodeHtml}</div>`
     + `</div>`
-    + `<script>(function(){var ns=[].slice.call(document.querySelectorAll('.plz-cst-node'));if(!ns.length)return;function close(){ns.forEach(function(m){m.classList.remove('open');});}ns.forEach(function(n){var d=n.querySelector('.plz-cst-dot');function tog(e){e.preventDefault();e.stopPropagation();var was=n.classList.contains('open');close();if(!was)n.classList.add('open');}d.addEventListener('click',tog);d.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')tog(e);});});document.addEventListener('click',close);})();</script>`
+    + `<script>(function(){var ns=[].slice.call(document.querySelectorAll('.plz-cst-node'));if(!ns.length)return;var oAt=0;function close(){ns.forEach(function(m){m.classList.remove('open');});}ns.forEach(function(n){var d=n.querySelector('.plz-cst-dot');var card=n.querySelector('.plz-cst-card');function tog(e){e.preventDefault();e.stopPropagation();var was=n.classList.contains('open');close();if(!was){n.classList.add('open');oAt=Date.now();}}d.addEventListener('click',tog);d.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')tog(e);});if(card)card.addEventListener('click',function(e){if(Date.now()-oAt<450){e.preventDefault();e.stopPropagation();}});});document.addEventListener('click',close);})();</script>`
     + `</section>`;
 }
 
