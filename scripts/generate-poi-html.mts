@@ -229,6 +229,21 @@ function lookupSightImage(name: string, poiId: string): string | undefined {
   const key = `${slugifySight(name)}-${poiId}`;
   return SIGHT_IMG_MAP[key];
 }
+// Images are keyed by ONE language's name-slug (usually EN, from the fetcher);
+// the same sight on a de/hu/ro page has a different name → try every variant so
+// one fetched image displays on all languages.
+function lookupSightImageMulti(names: string[], poiId: string): string | undefined {
+  for (const n of names) { const u = lookupSightImage(n, poiId); if (u) return u; }
+  return undefined;
+}
+// All-language names of the sight at index `idx` (for cross-lang image lookup).
+function sightNameVariantsAt(obj: any, idx: number, fallback: string): string[] {
+  const out = new Set<string>(); if (fallback) out.add(fallback);
+  if (obj) for (const l of ["en", "de", "hu", "ro"]) {
+    const a = obj[l]; if (Array.isArray(a) && a[idx] && a[idx].name) out.add(a[idx].name);
+  }
+  return [...out];
+}
 
 // Sight → POI internal link map: same-country name matches only (350 entries).
 // Key format: "<host_poi_id>|<sight_name>" → "<linked_poi_id>"
@@ -1635,10 +1650,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       : escapeHtml(a.author);
     return `<span class="plz-sight-attr">📷 ${link}${licShort}</span>`;
   };
-  const renderSightCard = (s: SightItem, withDistance: boolean): string => {
+  const renderSightCard = (s: SightItem, withDistance: boolean, nameVariants?: string[]): string => {
     if (!s?.name) return "";
     // Inject image from sight-image-map.json if the sight itself lacks one.
-    const imgUrl = s.image || lookupSightImage(s.name, poi.id);
+    // Try all language name variants so an EN-keyed image shows on de/hu/ro too.
+    const imgUrl = s.image || lookupSightImageMulti(nameVariants && nameVariants.length ? nameVariants : [s.name], poi.id);
     const img = imgUrl
       ? `<button type="button" class="plz-sight-img-btn" data-plzimg="${escapeHtml(imgUrl)}" data-plzalt="${escapeHtml(buildAlt(s.name, name))}" aria-label="${escapeHtml(s.name)}"><img class="plz-sight-img" src="${escapeHtml(imgUrl)}" alt="${escapeHtml(buildAlt(s.name, name))}" loading="lazy"/></button>`
       : "";
@@ -1656,13 +1672,20 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights
     || (sidecarSightsFor(poi) as Record<string, SightItem[]> | null);
   const sightsArr = (getLocalized(sightsObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];
+  // Only trust cross-lang index alignment when present lang arrays share length.
+  const sAligned = !!sightsObj && ["en", "de", "hu", "ro"].every((l) => {
+    const a = (sightsObj as any)[l]; return !Array.isArray(a) || a.length === sightsArr.length;
+  });
   const sightsHtml = sightsArr.length > 0
-    ? `<section class="plz-sights"><h2>${I("sightsInTown", lang)} ${name} (${sightsArr.length})</h2>${sightsArr.map((s) => renderSightCard(s, false)).join("")}</section>`
+    ? `<section class="plz-sights"><h2>${I("sightsInTown", lang)} ${name} (${sightsArr.length})</h2>${sightsArr.map((s, i) => renderSightCard(s, false, sAligned ? sightNameVariantsAt(sightsObj, i, s.name as string) : undefined)).join("")}</section>`
     : "";
   const nearbyObj = (poi as { nearbySights?: Record<string, SightItem[]> }).nearbySights;
   const nearbyArr = (getLocalized(nearbyObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];
+  const nAligned = !!nearbyObj && ["en", "de", "hu", "ro"].every((l) => {
+    const a = (nearbyObj as any)[l]; return !Array.isArray(a) || a.length === nearbyArr.length;
+  });
   const nearbyHtml = nearbyArr.length > 0
-    ? `<section class="plz-sights plz-sights-nearby"><h2>${I("nearbySights", lang)} (${nearbyArr.length})</h2>${nearbyArr.map((s) => renderSightCard(s, true)).join("")}</section>`
+    ? `<section class="plz-sights plz-sights-nearby"><h2>${I("nearbySights", lang)} (${nearbyArr.length})</h2>${nearbyArr.map((s, i) => renderSightCard(s, true, nAligned ? sightNameVariantsAt(nearbyObj, i, s.name as string) : undefined)).join("")}</section>`
     : "";
 
   // Weather widget HTML + JS (client-side fetch of Open-Meteo)
