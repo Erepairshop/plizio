@@ -70,8 +70,11 @@ for (const p of rawAll) {
   const prev = byId.get(p.id);
   if (!prev || richness(p) > richness(prev)) byId.set(p.id, p);
 }
-const allPois = Array.from(byId.values());
-console.log(`Combined POIs (V1+V2 deduped, with full text): ${allPois.length}`);
+const _DEDUP_BLOCK = new Set<string>(
+  JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "lib/visualLab/data/_dedup_blocklist.json"), "utf-8")),
+);
+const allPois = Array.from(byId.values()).filter((p: any) => !_DEDUP_BLOCK.has(p.id));
+console.log(`Combined POIs (V1+V2 deduped, with full text): ${allPois.length} (dedup-block: ${_DEDUP_BLOCK.size})`);
 
 // Map ISO2_TO_COUNTRY's countryId values back to ISO codes for cc bucketing.
 const COUNTRY_TO_ISO2: Record<string, string> = {

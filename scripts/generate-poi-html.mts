@@ -248,6 +248,12 @@ function lookupSightPoiLink(hostPoiId: string, sightName: string): string | unde
 // in this standalone tsx process. slugs.ts can't import these heavy files because
 // the Next.js build workers would OOM, but this script runs separately with a 16GB
 // heap and only Node, so it tolerates the heavy graph.
+// Duplicate-city blocklist: ids that are redundant duplicates of a richer POI
+// (same place, ≤2km). Excluded everywhere so the kept (richest) POI owns the
+// canonical sitemap slug — fixes dup pages + 404 map markers. See _dedup_final.json.
+const DEDUP_BLOCK: Set<string> = new Set(
+  JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "lib/visualLab/data/_dedup_blocklist.json"), "utf-8")),
+);
 async function loadFullPois(): Promise<POI[]> {
   const [
     { pois: dePois },
@@ -305,8 +311,8 @@ async function loadFullPois(): Promise<POI[]> {
     const prev = byId.get(p.id);
     if (!prev || richness(p) > richness(prev)) byId.set(p.id, p);
   }
-  const out = Array.from(byId.values());
-  console.log(`[generate-poi-html] loaded ${out.length} full POIs`);
+  const out = Array.from(byId.values()).filter((p) => !DEDUP_BLOCK.has(p.id));
+  console.log(`[generate-poi-html] loaded ${out.length} full POIs (dedup-block: ${DEDUP_BLOCK.size})`);
   return out;
 }
 const pois: POI[] = await loadFullPois();

@@ -55,8 +55,12 @@ async function main() {
     return n;
   }
 
-  const allSources: POI[] = (ALL_POI_SOURCES as POI[]).concat([vaticanCountry as POI]);
-  console.log(`[build-seo-index] raw sources: ${allSources.length}`);
+  const _DEDUP_BLOCK = new Set<string>(
+    JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "lib/visualLab/data/_dedup_blocklist.json"), "utf-8")),
+  );
+  const allSources: POI[] = (ALL_POI_SOURCES as POI[]).concat([vaticanCountry as POI])
+    .filter((p) => !(p && p.id && _DEDUP_BLOCK.has(p.id)));
+  console.log(`[build-seo-index] raw sources: ${allSources.length} (dedup-block: ${_DEDUP_BLOCK.size})`);
 
   for (const p of allSources) {
     if (!p || !p.id) continue;
