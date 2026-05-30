@@ -11,11 +11,25 @@ interface LangContextType {
 
 const LangContext = createContext<LangContextType>({ lang: "hu", setLang: () => {} });
 
-export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLangState] = useState<Language>("hu");
+export function LanguageProvider({
+  children,
+  initialLang,
+}: {
+  children: React.ReactNode;
+  /** Force a language (per-lang routes like /de/astromath). When set, this lang
+   *  is used for the static (build-time) render AND persisted, so the prerendered
+   *  HTML is correctly localized for search engines instead of the "hu" default. */
+  initialLang?: Language;
+}) {
+  const [lang, setLangState] = useState<Language>(initialLang ?? "hu");
 
   useEffect(() => {
-    setLangState(getLanguage());
+    if (initialLang) {
+      setLangState(initialLang);
+      saveLanguage(initialLang);
+    } else {
+      setLangState(getLanguage());
+    }
 
     const handleStorage = () => {
       setLangState(getLanguage());
@@ -23,7 +37,7 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
 
     window.addEventListener("storage", handleStorage);
     return () => window.removeEventListener("storage", handleStorage);
-  }, []);
+  }, [initialLang]);
 
   const setLang = (l: Language) => {
     setLangState(l);
