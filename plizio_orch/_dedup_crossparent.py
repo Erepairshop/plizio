@@ -15,6 +15,11 @@ DRY = "--dry" in sys.argv
 CITY = {"city", "capital", "state-capital", "town", "village", "municipality", "commune"}
 
 itin_ids = set(os.path.splitext(f)[0] for f in os.listdir(ITIN)) if os.path.isdir(ITIN) else set()
+# url-index = which ids actually have a routable page; keeping a non-routable id orphans the page.
+try:
+    URLIDX = set(json.load(open(os.path.join(REPO, "public/data/_poi-url-index.json"), encoding="utf-8")).keys())
+except Exception:
+    URLIDX = set()
 
 def norm(s):
     s = (s or "").lower()
@@ -31,7 +36,9 @@ def score(p):
     pid = p.get("id", "")
     # never keep a malformed id (space / non-slug chars) over a clean twin
     if re.search(r"[^a-z0-9-]", pid): s -= 5_000_000
-    # GO signal dominates
+    # ROUTABLE id wins above all — keeping a non-routable id orphans the live page.
+    if pid in URLIDX: s += 50_000_000
+    # GO signal next
     if p.get("hasSights"): s += 1_000_000
     if pid in itin_ids: s += 1_000_000
     # content richness
@@ -96,6 +103,14 @@ else:
     shutil.copy(BLOCK, BLOCK + f".before_crossparent.{int(time.time())}.bak")
     json.dump(new_ids, open(BLOCK, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print("WROTE blocklist + .bak")
+    # Remap itineraries: if a removed id holds the day-plan but the kept (routable)
+    # id has none, move the file so the surviving page still renders the itinerary.
+    moved = 0
+    for lid, kid, _iso, _nm in removals:
+        lp = os.path.join(ITIN, lid + ".json"); kp = os.path.join(ITIN, kid + ".json")
+        if os.path.exists(lp) and not os.path.exists(kp):
+            shutil.move(lp, kp); moved += 1
+    print(f"itineraries remapped (removed-id -> kept-id): {moved}")
     # affected country slugs for map rebuild hint
     isos = sorted({iso for _, _, iso, _ in removals})
     print("affected country JSONs:", isos)
