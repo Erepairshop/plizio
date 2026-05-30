@@ -1226,7 +1226,8 @@ async function buildOne(c: Country): Promise<boolean> {
 
 async function main() {
   const target = process.argv[2] || "all";
-  const list = target === "all" ? COUNTRIES : COUNTRIES.filter(c => c.iso === target);
+  const isos = new Set(target.split(",").map(s => s.trim().toLowerCase()).filter(Boolean));
+  const list = target === "all" ? COUNTRIES : COUNTRIES.filter(c => isos.has(c.iso));
   if (!list.length) { console.error(`No country '${target}'`); process.exit(1); }
   let ok = 0, fail = 0;
   for (const c of list) {
