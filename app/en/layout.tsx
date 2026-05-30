@@ -1,21 +1,22 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "PLIZIO - Free Online Browser Games | Play Instantly",
+  title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
   description:
-    "Play free online browser games instantly – no download needed! Racing, quiz, memory, reflex and adventure games. Play on any device.",
+    "Free learning for kids: practice tests, interactive subject games and explorable maps for math, science, history and geography. 4 languages, no sign-up.",
   openGraph: {
-    title: "PLIZIO - Free Online Browser Games",
+    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
     description:
-      "Free online games, no download, no sign-up. Racing, quiz, memory and reflex games for all devices.",
+      "Practice tests, interactive subject games and explorable maps for kids. Math, science, history, geography. 4 languages.",
     url: "https://plizio.com/en/",
     locale: "en_US",
+    images: ["/logo.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PLIZIO - Free Online Browser Games",
-    description: "Free online games – play instantly in your browser!",
-    images: ["/icon-512.png"],
+    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
+    description: "Free learning for kids: tests, games and maps. 4 languages, no sign-up.",
+    images: ["/logo.png"],
   },
   alternates: {
     canonical: "https://plizio.com/en/",

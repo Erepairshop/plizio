@@ -1,21 +1,22 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "PLIZIO - Ingyenes Online Böngészős Játékok | Játssz Azonnal",
+  title: "Plizio: Ingyenes tanulás gyerekeknek, tesztek, játékok, térképek",
   description:
-    "Játssz ingyenes online böngészős játékokkal – letöltés nélkül! Versenyautós, kvíz, memória, reflex és kalandjátékok. Bármilyen eszközön játszható.",
+    "Ingyenes tanulás gyerekeknek: gyakorló tesztek, interaktív tantárgyi játékok és felfedezhető térképek. Matek, természettudomány, történelem, földrajz. 4 nyelv, regisztráció nélkül.",
   openGraph: {
-    title: "PLIZIO - Ingyenes Online Böngészős Játékok",
+    title: "Plizio: Ingyenes tanulás gyerekeknek, tesztek, játékok, térképek",
     description:
-      "Ingyenes online játékok, letöltés és regisztráció nélkül. Versenyautós, kvíz, memória és reflex játékok.",
+      "Gyakorló tesztek, interaktív tantárgyi játékok és felfedezhető térképek gyerekeknek. Matek, természettudomány, történelem, földrajz. 4 nyelv.",
     url: "https://plizio.com/hu/",
     locale: "hu_HU",
+    images: ["/logo.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PLIZIO - Ingyenes Online Böngészős Játékok",
-    description: "Ingyenes online játékok – azonnal játszható böngészőben!",
-    images: ["/icon-512.png"],
+    title: "Plizio: Ingyenes tanulás gyerekeknek, tesztek, játékok, térképek",
+    description: "Ingyenes tanulás gyerekeknek: tesztek, játékok, térképek. 4 nyelv, regisztráció nélkül.",
+    images: ["/logo.png"],
   },
   alternates: {
     canonical: "https://plizio.com/hu/",

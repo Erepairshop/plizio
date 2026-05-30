@@ -1,21 +1,22 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "PLIZIO - Jocuri Online Gratuite în Browser | Joacă Imediat",
+  title: "Plizio: Învățare gratuită pentru copii, teste, jocuri, hărți",
   description:
-    "Joacă jocuri online gratuite în browser – fără descărcare! Jocuri de curse, quiz, memorie, reflexe și aventură. Disponibil pe orice dispozitiv.",
+    "Învățare gratuită pentru copii: teste de exersare, jocuri interactive pe materii și hărți explorabile. Matematică, științe, istorie, geografie. 4 limbi, fără cont.",
   openGraph: {
-    title: "PLIZIO - Jocuri Online Gratuite în Browser",
+    title: "Plizio: Învățare gratuită pentru copii, teste, jocuri, hărți",
     description:
-      "Jocuri online gratuite, fără descărcare, fără înregistrare. Jocuri de curse, quiz, memorie și reflexe.",
+      "Teste de exersare, jocuri interactive și hărți explorabile pentru copii. Matematică, științe, istorie, geografie. 4 limbi.",
     url: "https://plizio.com/ro/",
     locale: "ro_RO",
+    images: ["/logo.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PLIZIO - Jocuri Online Gratuite în Browser",
-    description: "Jocuri online gratuite – joacă imediat în browser!",
-    images: ["/icon-512.png"],
+    title: "Plizio: Învățare gratuită pentru copii, teste, jocuri, hărți",
+    description: "Învățare gratuită pentru copii: teste, jocuri, hărți. 4 limbi, fără cont.",
+    images: ["/logo.png"],
   },
   alternates: {
     canonical: "https://plizio.com/ro/",

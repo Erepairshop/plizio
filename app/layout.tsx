@@ -19,30 +19,28 @@ const caveat = Caveat({
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
   title: {
-    default: "PLIZIO - Free Online Browser Games | Play Instantly",
+    default: "Plizio: Free Learning for Kids with Tests, Games and Maps",
     template: "%s | PLIZIO",
   },
   description:
-    "Play free online browser games instantly - no download needed! Racing, driving, platformer, quiz, memory and reflex games. Play on any device.",
+    "Free learning for kids: practice tests, interactive subject games and explorable maps for math, science, history and geography. 4 languages, no sign-up.",
   keywords: [
     // English
-    "free online games", "browser games", "no download games", "play online free",
-    "racing game", "quiz game", "memory game", "reflex game", "driving game",
-    "word game", "number game", "spot the difference game", "instant play games", "mobile browser games",
+    "free learning games for kids", "online school tests", "interactive map for kids",
+    "math games for kids", "science games", "history quiz", "geography map",
+    "educational games free", "learn online free", "study games", "exam practice tests",
     // Magyar (Hungarian)
-    "ingyenes online játékok", "böngésző játékok", "letöltés nélküli játékok",
-    "ingyenes autós játék", "kvíz játék", "memória játék", "reflex játék",
-    "szókirakós játék", "számjáték", "különbségkereső játék", "milliomosok játék",
-    "online játékok gyerekeknek", "iskolai játékok", "tanulós játékok",
+    "ingyenes tanulójátékok", "online teszt gyerekeknek", "interaktív térkép",
+    "matek játék gyerekeknek", "természettudomány játék", "történelem kvíz", "földrajz térkép",
+    "oktató játékok ingyen", "tanulás online", "gyakorló teszt",
     // Deutsch (German)
-    "kostenlose Online-Spiele", "Browser-Spiele", "Spiele ohne Download",
-    "Rennspiel kostenlos", "Quiz-Spiel", "Gedächtnisspiel", "Reaktionsspiel",
-    "Wortspiel online", "Zahlenspiel", "Unterschiede finden Spiel", "Millionär Spiel",
-    "Online-Spiele für Kinder", "Lernspiele kostenlos",
+    "kostenlose Lernspiele für Kinder", "Online-Tests Schule", "interaktive Karte für Kinder",
+    "Mathe-Spiele Kinder", "Wissenschaftsspiele", "Geschichte Quiz", "Geografie Karte",
+    "Lernspiele kostenlos", "online lernen kostenlos", "Übungstests Schule",
     // Română (Romanian)
-    "jocuri online gratuite", "jocuri browser", "jocuri fără descărcare",
-    "joc de curse gratuit", "joc quiz", "joc memorie", "joc reflexe",
-    "joc cuvinte", "joc numere", "gaseste diferentele joc", "jocuri pentru copii",
+    "jocuri educative gratuite", "teste școlare online", "hartă interactivă pentru copii",
+    "jocuri matematică copii", "jocuri știință", "quiz istorie", "hartă geografie",
+    "învățare online gratuit", "teste de exersare", "jocuri pentru copii",
   ],
   manifest: "/manifest.json",
   appleWebApp: {
@@ -53,25 +51,25 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "PLIZIO",
-    title: "PLIZIO - Free Online Browser Games | Play Instantly",
+    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
     description:
-      "Play free online browser games instantly - no download, no sign-up. Racing, driving, platformer, quiz, memory and reflex games on any device.",
+      "Free learning for kids: practice tests, interactive subject games and explorable maps for math, science, history and geography. 4 languages, no sign-up.",
     url: "https://plizio.com",
     images: [
       {
-        url: "/icon-512.png",
-        width: 512,
-        height: 512,
-        alt: "PLIZIO - Online Games",
+        url: "/logo.png",
+        width: 600,
+        height: 409,
+        alt: "Plizio: learning for kids with tests, games and maps",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PLIZIO - Free Online Browser Games",
+    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
     description:
-      "Play free browser games instantly. Racing, quiz, memory, reflex games and more!",
-    images: ["/icon-512.png"],
+      "Free learning for kids: practice tests, interactive games and explorable maps. Math, science, history, geography. 4 languages, no sign-up.",
+    images: ["/logo.png"],
   },
   robots: {
     index: true,
