@@ -28,7 +28,18 @@ type Country = {
   poiParent?: string;    // metro maps: keep only POIs whose parent === this (e.g. "FR-IDF")
   excludeParents?: string[]; // country maps: drop POIs with these parents (moved to a metro map)
   metroLink?: { mapSlug: string; lon: number; lat: number; names: Record<Lang, string> }; // clickable marker -> metro map
+  poiBBox?: BBox;          // metro maps: keep only POIs whose coords fall in this box (parent-independent, catches mis-tagged POIs)
+  excludeBBoxes?: BBox[];  // country maps: drop POIs inside these boxes (moved to a metro map)
 };
+type BBox = { minLon: number; maxLon: number; minLat: number; maxLat: number };
+// Paris metro catchment (== parisMetro.svg.ts projection bbox). Used to keep IDF
+// POIs on /paris-map/ and drop them from the France map regardless of (mis)parent.
+const PARIS_BBOX: BBox = { minLon: 1.3597, maxLon: 3.6216, minLat: 48.0773, maxLat: 49.2750 };
+function inBBox(coords: [number, number] | undefined, b: BBox): boolean {
+  if (!coords || coords.length < 2) return false;
+  const [lon, lat] = coords;
+  return lon >= b.minLon && lon <= b.maxLon && lat >= b.minLat && lat <= b.maxLat;
+}
 
 const COUNTRIES: Country[] = [
   { iso:"hr", slug:"croatia", svgFile:"croatia.svg.ts", mapVar:"croatiaMap", vbVar:"croatiaViewBox", projFn:"projectCoordsHR",
@@ -40,13 +51,13 @@ const COUNTRIES: Country[] = [
   { iso:"de", slug:"deutschland", svgFile:"deutschland.svg.ts", mapVar:"deutschlandMap", vbVar:"deutschlandViewBox", projFn:"projectCoords",
     names:{ de:"Deutschland", hu:"Németország", ro:"Germania", en:"Germany" } },
   { iso:"fr", slug:"france", svgFile:"france.svg.ts", mapVar:"franceMap", vbVar:"franceViewBox", projFn:"projectCoordsFR",
-    excludeParents:["FR-IDF"],
+    excludeParents:["FR-IDF"], excludeBBoxes:[PARIS_BBOX],
     metroLink:{ mapSlug:"paris", lon:2.3522, lat:48.8566,
       names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } },
     names:{ de:"Frankreich", hu:"Franciaország", ro:"Franța", en:"France" } },
   // Metro map: Île-de-France (Paris) — departments background, POIs filtered by parent FR-IDF.
   { iso:"paris", slug:"paris", svgFile:"parisMetro.svg.ts", mapVar:"parisMetroMap", vbVar:"parisMetroViewBox", projFn:"projectCoordsParis",
-    poiSourceIso:"FR", poiParent:"FR-IDF",
+    poiSourceIso:"FR", poiBBox:PARIS_BBOX,
     names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } },
   { iso:"it", slug:"italy", svgFile:"italy.svg.ts", mapVar:"italyMap", vbVar:"italyViewBox", projFn:"projectCoordsIT",
     names:{ de:"Italien", hu:"Olaszország", ro:"Italia", en:"Italy" } },
@@ -1223,9 +1234,13 @@ async function buildOne(c: Country): Promise<boolean> {
       poisRaw = j.pois || j;
       poisRaw = poisRaw.filter((p: any) => p && !DEDUP_BLOCK.has(p.id));
       if (c.poiParent) poisRaw = poisRaw.filter((p: any) => p && p.parent === c.poiParent);
+      if (c.poiBBox) poisRaw = poisRaw.filter((p: any) => p && inBBox(p.coords, c.poiBBox!));
       if (c.excludeParents && c.excludeParents.length) {
         const ex = new Set(c.excludeParents);
         poisRaw = poisRaw.filter((p: any) => !(p && ex.has(p.parent)));
+      }
+      if (c.excludeBBoxes && c.excludeBBoxes.length) {
+        poisRaw = poisRaw.filter((p: any) => !(p && c.excludeBBoxes!.some((b) => inBBox(p.coords, b))));
       }
     } catch {}
   }
