@@ -4,6 +4,7 @@ import Breadcrumb from "@/components/seo/Breadcrumb";
 import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
 import StructuredData, { createStateStructuredData } from "@/components/seo/StructuredData";
 import { bundeslandSubregions } from "@/lib/visualLab/maps/bundeslandSubregions";
+import { mapSlugForCountry } from "@/lib/seo/countryMapSlug";
 import {
   COUNTRY_COPY,
   getCountryCopy,
@@ -100,6 +101,9 @@ export default async function StatePage({
   const countryCopy = getCountryCopy(countryId, lang);
   const groups = groupPoisForState(region.id);
   const subregions = (bundeslandSubregions as any)[region.id];
+  const mapSlug = mapSlugForCountry(countryId);
+  const mapHref = mapSlug ? `/${mapSlug}-map/${lang === "hu" ? "" : lang + "/"}` : null;
+  const MAP_CTA = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map" } as const)[lang];
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -143,17 +147,29 @@ export default async function StatePage({
             </div>
             <div className="w-full max-w-md rounded-3xl border border-cyan-500/15 bg-[#07111b]/80 p-4">
               {subregions ? (
-                <svg viewBox={subregions.viewBox} className="h-auto w-full">
-                  {subregions.children.map((entry: any) => (
-                    <path
-                      key={entry.id}
-                      d={entry.path}
-                      fill="rgba(8, 47, 73, 0.75)"
-                      stroke="rgba(34, 211, 238, 0.28)"
-                      strokeWidth="0.8"
-                    />
-                  ))}
-                </svg>
+                <>
+                  <svg viewBox={subregions.viewBox} className="h-auto w-full">
+                    {subregions.children.map((entry: any) => (
+                      <path
+                        key={entry.id}
+                        d={entry.path}
+                        fill="rgba(8, 47, 73, 0.75)"
+                        stroke="rgba(34, 211, 238, 0.28)"
+                        strokeWidth="0.8"
+                      />
+                    ))}
+                  </svg>
+                  {mapHref ? (
+                    <a href={mapHref} className="mt-3 flex items-center justify-center gap-2 rounded-2xl border border-cyan-400/25 bg-cyan-500/10 px-4 py-2 text-sm font-medium text-cyan-100 transition hover:border-cyan-300/50 hover:bg-cyan-500/20">
+                      {MAP_CTA} →
+                    </a>
+                  ) : null}
+                </>
+              ) : mapHref ? (
+                <a href={mapHref} className="group flex aspect-[4/3] flex-col items-center justify-center gap-2 rounded-2xl border border-cyan-400/25 bg-cyan-500/[0.06] text-center transition hover:border-cyan-300/50 hover:bg-cyan-500/[0.12]">
+                  <span className="flex h-12 w-12 items-center justify-center rounded-full border border-cyan-400/30 bg-cyan-500/15 text-2xl text-cyan-200 transition group-hover:scale-105" aria-hidden>🗺️</span>
+                  <span className="px-4 text-sm font-medium text-cyan-100">{MAP_CTA} →</span>
+                </a>
               ) : (
                 <div className="flex aspect-[4/3] items-center justify-center rounded-2xl border border-white/10 bg-white/[0.03] text-sm text-white/45">
                   Visual Lab

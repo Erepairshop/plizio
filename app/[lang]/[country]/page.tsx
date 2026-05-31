@@ -9,9 +9,7 @@ import {
   typeSlugFor,
 } from "@/lib/seo/typeIndex";
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
-import { deutschlandMap, deutschlandViewBox } from "@/lib/visualLab/maps/deutschland.svg";
-import { romaniaMap, romaniaViewBox } from "@/lib/visualLab/maps/romania.svg";
-import { magyarorszagMap, magyarorszagViewBox } from "@/lib/visualLab/maps/magyarorszag.svg";
+import { mapSlugForCountry } from "@/lib/seo/countryMapSlug";
 import {
   COUNTRY_COPY,
   getCountryCopy,
@@ -91,39 +89,17 @@ export default async function CountryPage({
     }
   });
 
-  let mapData = deutschlandMap;
-  let viewBox = deutschlandViewBox;
-
-  if (countryId === "romania") {
-    mapData = romaniaMap;
-    viewBox = romaniaViewBox;
-  } else if (countryId === "hungary") {
-    // Map HU-XX IDs to descriptive IDs used in regions
-    const idMap: Record<string, string> = {
-      "HU-BU": "budapest",
-      "HU-BA": "baranya",
-      "HU-BK": "bacs-kiskun",
-      "HU-BE": "bekes",
-      "HU-BZ": "borsod-abauj-zemplen",
-      "HU-CS": "csongrad-csanad",
-      "HU-FE": "fejer",
-      "HU-GS": "gyor-moson-sopron",
-      "HU-HB": "hajdu-bihar",
-      "HU-HE": "heves",
-      "HU-KE": "komarom-esztergom",
-      "HU-NO": "nograd",
-      "HU-PE": "pest",
-      "HU-SO": "somogy",
-      "HU-SZ": "szabolcs-szatmar-bereg",
-      "HU-JN": "jasz-nagykun-szolnok",
-      "HU-TO": "tolna",
-      "HU-VA": "vas",
-      "HU-VE": "veszprem",
-      "HU-ZA": "zala"
-    };
-    mapData = magyarorszagMap.map(m => ({ ...m, id: idMap[m.id] || m.id }));
-    viewBox = magyarorszagViewBox;
-  }
+  // Link to the rich static interactive map (public/<slug>-map/) instead of the
+  // old inline SVG, which only had DE/RO/HU shapes and rendered Germany for every
+  // other country. mapSlug is null for the handful without a static map.
+  const mapSlug = mapSlugForCountry(countryId);
+  const mapHref = mapSlug ? `/${mapSlug}-map/${lang === "hu" ? "" : lang + "/"}` : null;
+  const ML = ({
+    de: { kicker: "Interaktive Karte", cta: `${countryCopy.name} entdecken`, sub: "Sehenswürdigkeiten, Städte, Karte & Suche", world: "Weltkarte ansehen", open: "Karte öffnen" },
+    hu: { kicker: "Interaktív térkép", cta: `${countryCopy.name} felfedezése`, sub: "Látnivalók, városok, térkép és kereső", world: "Világtérkép", open: "Térkép megnyitása" },
+    ro: { kicker: "Hartă interactivă", cta: `Explorează ${countryCopy.name}`, sub: "Obiective, orașe, hartă și căutare", world: "Harta lumii", open: "Deschide harta" },
+    en: { kicker: "Interactive map", cta: `Explore ${countryCopy.name}`, sub: "Sights, cities, map & search", world: "World map", open: "Open map" },
+  } as const)[lang as Lang];
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -135,49 +111,58 @@ export default async function CountryPage({
           ]}
         />
 
-        <div className="mt-6 grid gap-8 lg:grid-cols-[1.15fr_0.85fr]">
+        <div className={`mt-6 grid gap-8 ${countryRegions.length ? "lg:grid-cols-[1.15fr_0.85fr]" : ""}`}>
           <div className="rounded-[28px] border border-cyan-500/15 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.12),_transparent_55%),linear-gradient(180deg,rgba(7,17,27,0.98),rgba(2,4,8,0.98))] p-6">
             <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Visual Lab</p>
             <h1 className="mt-3 text-3xl font-semibold tracking-tight sm:text-5xl">{countryCopy.title}</h1>
             <p className="mt-4 max-w-2xl text-base leading-7 text-white/72">{countryCopy.description}</p>
-            <div className="mt-8 overflow-hidden rounded-3xl border border-cyan-500/15 bg-[#07111b]/90 p-4">
-              <svg viewBox={viewBox} className="h-auto w-full">
-                {mapData.map((state) => (
-                  <a key={state.id} href={buildStatePath(lang, state.id)}>
-                    <path
-                      d={state.path}
-                      fill="rgba(8, 47, 73, 0.85)"
-                      stroke="rgba(34, 211, 238, 0.35)"
-                      strokeWidth="1.1"
-                    />
-                  </a>
-                ))}
-              </svg>
-            </div>
+
+            {/* Interactive static-map CTA card (replaces the old inline SVG that only had DE/RO/HU shapes). */}
+            {mapHref ? (
+              <a
+                href={mapHref}
+                className="group mt-8 flex items-center justify-between gap-4 rounded-3xl border border-cyan-500/20 bg-[#07111b]/90 p-5 transition hover:border-cyan-300/50 hover:bg-cyan-500/[0.06]"
+              >
+                <div className="min-w-0">
+                  <p className="text-[0.7rem] uppercase tracking-[0.24em] text-cyan-300/80">{ML.kicker}</p>
+                  <p className="mt-1 text-lg font-semibold text-white">{ML.cta}</p>
+                  <p className="mt-0.5 text-sm text-white/55">{ML.sub}</p>
+                </div>
+                <span className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full border border-cyan-400/30 bg-cyan-500/10 text-xl text-cyan-200 transition group-hover:translate-x-0.5 group-hover:bg-cyan-500/20" aria-hidden>
+                  →
+                </span>
+              </a>
+            ) : (
+              <a href={`/${lang}/`} className="mt-8 inline-flex items-center gap-2 rounded-full border border-cyan-500/20 bg-cyan-500/8 px-5 py-2 text-sm text-cyan-100/90 hover:border-cyan-300/40">
+                {ML.world} →
+              </a>
+            )}
           </div>
 
-          <div className="rounded-[28px] border border-cyan-500/15 bg-white/[0.03] p-6">
-            <h2 className="text-lg font-semibold text-white">{copy.states}</h2>
-            <div className="mt-4 grid gap-3 sm:grid-cols-2">
-              {countryRegions.map((state) => (
-                <a
-                  key={state.id}
-                  href={buildStatePath(lang, state.id)}
-                  className="rounded-2xl border border-white/10 bg-white/[0.03] p-4 transition hover:border-cyan-400/40"
-                >
-                  <div className="flex items-start gap-3">
-                    {state.coa ? (
-                      <img src={state.coa} alt="" loading="lazy" className="h-12 w-12 rounded-xl border border-white/10 bg-white/5 object-contain p-1.5" />
-                    ) : null}
-                    <div className="min-w-0">
-                      <h3 className="text-sm font-semibold text-white">{state.name[lang] || state.name.de}</h3>
-                      <p className="mt-1 text-xs leading-5 text-white/60">{state.description?.[lang] || state.description?.de || ""}</p>
+          {countryRegions.length ? (
+            <div className="rounded-[28px] border border-cyan-500/15 bg-white/[0.03] p-6">
+              <h2 className="text-lg font-semibold text-white">{copy.states}</h2>
+              <div className="mt-4 grid gap-3 sm:grid-cols-2">
+                {countryRegions.map((state) => (
+                  <a
+                    key={state.id}
+                    href={buildStatePath(lang, state.id)}
+                    className="rounded-2xl border border-white/10 bg-white/[0.03] p-4 transition hover:border-cyan-400/40 hover:bg-white/[0.05]"
+                  >
+                    <div className="flex items-start gap-3">
+                      {state.coa ? (
+                        <img src={state.coa} alt="" loading="lazy" className="h-12 w-12 rounded-xl border border-white/10 bg-white/5 object-contain p-1.5" />
+                      ) : null}
+                      <div className="min-w-0">
+                        <h3 className="text-sm font-semibold text-white">{state.name[lang] || state.name.de}</h3>
+                        <p className="mt-1 text-xs leading-5 text-white/60">{state.description?.[lang] || state.description?.de || ""}</p>
+                      </div>
                     </div>
-                  </div>
-                </a>
-              ))}
+                  </a>
+                ))}
+              </div>
             </div>
-          </div>
+          ) : null}
         </div>
 
         {TYPE_INDEX_COUNTRIES.includes(countryId) ? (

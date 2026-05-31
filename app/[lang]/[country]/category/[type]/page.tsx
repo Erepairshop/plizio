@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/seo/Breadcrumb";
+import { mapSlugForCountry } from "@/lib/seo/countryMapSlug";
 import { COUNTRY_COPY, getCountryCopy, SEO_COPY, absoluteUrl, isLang } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
@@ -105,6 +106,17 @@ export default async function TypeIndexPage({ params }: { params: Promise<{ lang
           <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">{countryCopy.name}</p>
           <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{heading}</h1>
           <p className="mt-3 text-sm text-white/55">{items.length} {heading.toLowerCase()}</p>
+          {(() => {
+            const ms = mapSlugForCountry(r.countryId);
+            if (!ms) return null;
+            const href = `/${ms}-map/${r.lang === "hu" ? "" : r.lang + "/"}`;
+            const label = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map" } as const)[r.lang];
+            return (
+              <a href={href} className="mt-4 inline-flex items-center gap-2 rounded-full border border-cyan-400/25 bg-cyan-500/10 px-4 py-1.5 text-sm font-medium text-cyan-100 transition hover:border-cyan-300/50 hover:bg-cyan-500/20">
+                🗺️ {label} →
+              </a>
+            );
+          })()}
         </header>
 
         <ul className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
