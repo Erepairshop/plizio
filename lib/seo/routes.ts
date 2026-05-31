@@ -352,7 +352,7 @@ export function getStateByRouteParams(lang: Lang, country: string, state: string
   }
   if (!countryId) return null;
 
-  let region = findRegionByStateSlug(lang, state);
+  let region = findRegionByStateSlug(lang, state, country);
   if (!region) {
     const poiInState = pois.find((p) => p.parent && (stateSlugFor(p.parent, lang) === state || p.parent.toLowerCase() === state));
     if (poiInState) {

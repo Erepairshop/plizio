@@ -416,8 +416,17 @@ export function poiSlug(poi: POI, lang: Lang) {
   return POI_SLUGS[poi.id]?.[lang] ?? localizedPoiBaseSlug(poi, lang);
 }
 
-export function findRegionByStateSlug(lang: Lang, stateSlug: string) {
-  return regions.find((region): region is POI => isDefinedPoi(region) && stateSlugFor(region.id, lang) === stateSlug) ?? null;
+export function findRegionByStateSlug(lang: Lang, stateSlug: string, countrySlug?: string) {
+  const matches = regions.filter((region): region is POI => isDefinedPoi(region) && stateSlugFor(region.id, lang) === stateSlug);
+  if (matches.length === 0) return null;
+  // Two regions in DIFFERENT countries can share a state slug (e.g. "oascher-land"
+  // → Oaș Country/RO). The country URL segment disambiguates: prefer the match whose
+  // country matches it, else fall back to the first (preserves old behaviour).
+  if (countrySlug) {
+    const exact = matches.find((region) => countrySlugFor(lang, getCountryId(region.id)) === countrySlug);
+    if (exact) return exact;
+  }
+  return matches[0];
 }
 
 export function findPoiBySlug(lang: Lang, poiSlugValue: string) {

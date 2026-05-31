@@ -52,7 +52,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang, country, state } = await params;
   if (!isLang(lang)) return {};
-  const region = findRegionByStateSlug(lang, state);
+  const region = findRegionByStateSlug(lang, state, country);
   if (!region) return {};
 
   const countryId = getCountryId(region.id);
@@ -91,7 +91,9 @@ export default async function StatePage({
 }) {
   const { lang, country, state } = await params;
   if (!isLang(lang)) notFound();
-  const region = findRegionByStateSlug(lang, state);
+  // Pass the country segment so a shared state slug across countries resolves to the
+  // region that actually belongs to this country (fixes /de/rumaenien/oascher-land/ 404).
+  const region = findRegionByStateSlug(lang, state, country);
   if (!region) notFound();
 
   const countryId = getCountryId(region.id);
