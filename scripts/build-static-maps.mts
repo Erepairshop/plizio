@@ -691,7 +691,7 @@ function backfillUrlsByCoord(pois: SlimPoi[]): void {
   }
 }
 
-function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number, searchExtra: { name: any; submap: string }[] = []): string {
+function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number, searchExtra: { name: any; submap: string }[] = [], initView?: { s: number; tx: number; ty: number }): string {
   // Search-only entries: POIs moved to a sub-map (island/metro). Not drawn as
   // markers, but searchable — a hit links to the sub-map where the POI lives.
   const SEARCH_EXTRA_JS = searchExtra.map((e) => {
@@ -983,8 +983,9 @@ const POI_CARD=${JSON.stringify(Object.fromEntries(pois.filter(p => p.img || (p.
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=3.5;
-let s=1,tx=0,ty=0;
+let s=${initView ? initView.s : 1},tx=${initView ? initView.tx : 0},ty=${initView ? initView.ty : 0};
 function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE);if(typeof closeMapcard==='function')closeMapcard();if(typeof closeBurst==='function')closeBurst()}
+${initView ? "ap();/* island: frame the island bbox on load */" : ""}
 function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
@@ -1267,19 +1268,26 @@ async function buildOne(c: Country): Promise<boolean> {
     console.log(`SKIP ${c.iso}: missing exports (map=${!!map}, vb=${!!viewBox}, proj=${typeof proj})`);
     return false;
   }
-  // Island/region zoom: crop the shared country SVG's viewBox to the poiBBox.
+  const { w: W, h: H } = parseViewBox(viewBox);
+  // Island/region maps: KEEP the full country viewBox (so markers/labels render
+  // at normal size and the pan/zoom centering math stays valid), and frame the
+  // island via the INITIAL JS transform — same mechanism as the search auto-zoom
+  // (s=scale, tx/ty=translate). Cropping the viewBox instead made fixed-px markers
+  // look giant and fought the pan/zoom JS (off-center / whole-country fallback).
+  let initView: { s: number; tx: number; ty: number } | undefined;
   if (c.zoomToPoiBBox && c.poiBBox) {
     const b = c.poiBBox;
     const cs = [proj(b.minLon, b.minLat), proj(b.minLon, b.maxLat), proj(b.maxLon, b.minLat), proj(b.maxLon, b.maxLat)];
     const xs = cs.map((p: number[]) => p[0]), ys = cs.map((p: number[]) => p[1]);
     const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
-    const px = (x1 - x0) * 0.12, py = (y1 - y0) * 0.12;
-    viewBox = `${(x0 - px).toFixed(1)} ${(y0 - py).toFixed(1)} ${(x1 - x0 + 2 * px).toFixed(1)} ${(y1 - y0 + 2 * py).toFixed(1)}`;
+    const bw = Math.max(1, x1 - x0), bh = Math.max(1, y1 - y0);
+    const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+    // Fit the island bbox into the viewport with ~35% margin; clamp scale so a
+    // tiny island doesn't over-zoom (markers would grow) nor a big one stay tiny.
+    let zs = Math.min(W / (bw * 1.35), H / (bh * 1.35));
+    zs = Math.max(2, Math.min(7, zs));
+    initView = { s: +zs.toFixed(3), tx: +(W / 2 - cx * zs).toFixed(1), ty: +(H / 2 - cy * zs).toFixed(1) };
   }
-  const { w: W, h: H } = parseViewBox(viewBox);
-  // slimPoi bounds: POIs are projected in the FULL country pixel space, so always
-  // validate against the original viewBox (the zoomed one would reject island POIs).
-  const { w: fullW, h: fullH } = parseViewBox(mod[c.vbVar]);
 
   const isoUp = c.poiSourceIso || (c.iso === "gb" ? "GB" : c.iso.toUpperCase());
   const poisJsonPath = path.join(process.cwd(), "public", "data", "pois", `${isoUp}.json`);
@@ -1316,7 +1324,7 @@ async function buildOne(c: Country): Promise<boolean> {
   for (const p of poisRaw) {
     if (seen.has(p.id)) continue;
     seen.add(p.id);
-    const s = slimPoi(p, proj, fullW, fullH);
+    const s = slimPoi(p, proj, W, H);
     if (s) pois.push(s);
   }
   backfillUrlsByCoord(pois);
@@ -1336,11 +1344,11 @@ async function buildOne(c: Country): Promise<boolean> {
   }));
   const outDir = path.join(process.cwd(), "public", `${c.slug}-map`);
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, "index.html"), renderHtml(c, "hu", regions, pois, viewBox, W, H, searchExtra), "utf8");
+  fs.writeFileSync(path.join(outDir, "index.html"), renderHtml(c, "hu", regions, pois, viewBox, W, H, searchExtra, initView), "utf8");
   for (const l of LANGS) {
     const sub = path.join(outDir, l);
     fs.mkdirSync(sub, { recursive: true });
-    fs.writeFileSync(path.join(sub, "index.html"), renderHtml(c, l, regions, pois, viewBox, W, H, searchExtra), "utf8");
+    fs.writeFileSync(path.join(sub, "index.html"), renderHtml(c, l, regions, pois, viewBox, W, H, searchExtra, initView), "utf8");
   }
   const sz = fs.statSync(path.join(outDir, "index.html")).size;
   console.log(`OK   ${c.iso} ${c.slug.padEnd(18)} regions=${regions.length.toString().padStart(3)} pois=${pois.length.toString().padStart(4)} html=${(sz/1024).toFixed(0)}KB`);

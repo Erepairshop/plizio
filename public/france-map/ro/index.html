@@ -209,6 +209,7 @@ const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=docum
 const EXPAND_SCALE=3.5;
 let s=1,tx=0,ty=0;
 function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE);if(typeof closeMapcard==='function')closeMapcard();if(typeof closeBurst==='function')closeBurst()}
+
 function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
