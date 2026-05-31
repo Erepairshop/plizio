@@ -687,6 +687,7 @@ import * as _src_poiExtraHongkongNatureV2 from "./poiExtraHongkongNatureV2";
 import * as _src_poiExtraHongkongReliefV2 from "./poiExtraHongkongReliefV2";
 import * as _src_poiExtraHrV1 from "./poiExtraHrV1";
 import * as _src_poiExtraHrV2 from "./poiExtraHrV2";
+import * as _src_poiExtraHrV3 from "./poiExtraHrV3";
 import * as _src_poiExtraHu1_lite from "./poiExtraHu1.lite";
 import * as _src_poiExtraHu1 from "./poiExtraHu1";
 import * as _src_poiExtraHu2_lite from "./poiExtraHu2.lite";
@@ -2447,6 +2448,7 @@ const _raw: any[] = [
   ...((_src_poiExtraHongkongReliefV2 as any).hongkongReliefV2 as any[]),
   ...((_src_poiExtraHrV1 as any).poiExtraHrV1 as any[]),
   ...((_src_poiExtraHrV2 as any).poiExtraHrV2 as any[]),
+  ...((_src_poiExtraHrV3 as any).poiExtraHrV3 as any[]),
   ...((_src_poiExtraHu1_lite as any).poiExtraHu1 as any[]),
   ...((_src_poiExtraHu1 as any).poiExtraHu1 as any[]),
   ...((_src_poiExtraHu2_lite as any).poiExtraHu2 as any[]),
