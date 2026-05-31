@@ -77,6 +77,10 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
 
   const rootUrls = [
     createEntry("/", "app/page.tsx", 1),
+    createEntry("/de/", "app/de/page.tsx", 1),
+    createEntry("/hu/", "app/hu/page.tsx", 1),
+    createEntry("/ro/", "app/ro/page.tsx", 1),
+    createEntry("/en/", "app/en/page.tsx", 1),
     createEntry("/learn", "app/learn/page.tsx", 0.9),
     createEntry("/europe-map", "app/europe-map/page.tsx", 0.9),
     createEntry("/deutschland-map", "app/deutschland-map/page.tsx", 0.9),
@@ -109,6 +113,25 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
     createEntry("/astro-ai", "app/astro-ai/page.tsx", 0.9),
     createEntry("/aitest", "app/aitest/page.tsx", 0.9),
   ];
+
+  // Per-language learning game + test routes. Each has an app/[lang]/<route>/
+  // SSG wrapper that prerenders localized static HTML + a 4-lang hreflang cluster
+  // (de/hu/ro/en), so Google can surface them in all four markets.
+  const GAME_ROUTES = [
+    // astro / interactive games
+    "astromath", "astro-ai", "astro-biologie", "astro-geographie", "astro-geschichte",
+    "astro-physik", "astro-sachkunde", "astrodeutsch", "astroenglish", "astrokemia",
+    "astromagyar", "astroromana", "astrinformatika", "codekids",
+    // written school tests
+    "deutschtest", "mathtest", "romaniantest", "biologietest", "physiktest", "kemiatest",
+    "geographietest", "geschichtetest", "sachkundetest", "englishtest", "informatikatest",
+    "aitest", "codekidstest",
+  ];
+  const gameUrls = SUPPORTED_LANGS.flatMap((lang) =>
+    GAME_ROUTES.map((route) =>
+      createEntry(`/${lang}/${route}/`, `app/[lang]/${route}/page.tsx`, 0.85),
+    ),
+  );
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
     regions.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
@@ -155,6 +178,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   // argument-count limit (RangeError). Use push-loop instead.
   const all: ReturnType<typeof createEntry>[] = [];
   for (const u of rootUrls) all.push(u);
+  for (const u of gameUrls) all.push(u);
   for (const u of countryUrls) all.push(u);
   for (const u of stateUrls) all.push(u);
   for (const u of poiUrls) all.push(u);
