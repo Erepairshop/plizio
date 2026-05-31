@@ -837,6 +837,11 @@ header .langs{display:flex;gap:.25rem}
 #svg.drag{cursor:grabbing}
 .region{fill:#161e3a;stroke:#6f9bf0;stroke-width:1.1;stroke-opacity:.7;transition:fill .15s}
 .region:hover{fill:#28356e}
+/* Island maps: the single island shape is decorative — don't let it grab taps
+   (no sticky hover-highlight on touch, POI markers stay easy to tap). Pan still
+   works via the svg background. */
+#gR.noint .region{pointer-events:none}
+#gR.noint .region:hover{fill:#161e3a}
 .label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
 .poi{cursor:pointer}
 .poi circle{fill:#9ca3af;stroke:#0a0f20;stroke-width:.5;transition:r .12s,opacity .12s}
@@ -973,7 +978,7 @@ header .langs{display:flex;gap:.25rem}
 </div>
 <div id="stage">
   <svg id="svg" viewBox="${viewBox}" preserveAspectRatio="xMidYMid meet" aria-label="${t}">
-    <g id="gR">${regions.map(r => `<path class="region" data-id="${escAttr(r.id)}" d="${r.path}"/>`).join("")}</g>
+    <g id="gR"${c.islandRingsSlug ? ' class="noint"' : ''}>${regions.map(r => `<path class="region" data-id="${escAttr(r.id)}" d="${r.path}"/>`).join("")}</g>
     <g id="gL">${regions.filter(r => r.labelX && r.labelY).map(r => `<text class="label" x="${r.labelX}" y="${r.labelY}">${escText((r.name && (r.name[lang] || r.name.en)) || r.id)}</text>`).join("")}</g>
     <g id="gP">${pois.map(p => {
       const url = p.urls?.[lang];
