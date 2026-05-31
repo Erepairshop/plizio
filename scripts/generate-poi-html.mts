@@ -194,7 +194,7 @@ function renderFAQ(poi: POI, lang: Lang): string {
     const q = (it.q?.[lang] || it.q?.en || it.q?.de || "").trim();
     const a = (it.a?.[lang] || it.a?.en || it.a?.de || "").trim();
     if (!q || !a) return "";
-    return `<details class="plz-faq-item"${i === 0 ? " open" : ""}><summary>${escapeHtml(q)}</summary><p>${escapeHtml(a)}</p></details>`;
+    return `<details class="plz-faq-item"${i === 0 ? " open" : ""}><summary><span class="plz-faq-q">${escapeHtml(q)}</span><svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></summary><div class="plz-faq-a">${escapeHtml(a)}</div></details>`;
   }).filter(Boolean).join("");
   if (!accordion) return "";
   // Schema.org FAQPage JSON-LD (lang-aware)
@@ -287,6 +287,7 @@ async function loadFullPois(): Promise<POI[]> {
     { poiExtraHrV2 },
     { poiExtraItalyV2 },
     { poiExtraEsV2 },
+    { poiExtraHrV3 },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
@@ -304,6 +305,7 @@ async function loadFullPois(): Promise<POI[]> {
     import("../lib/visualLab/data/poiExtraHrV2"),
     import("../lib/visualLab/data/poiExtraItalyV2"),
     import("../lib/visualLab/data/poiExtraEsV2"),
+    import("../lib/visualLab/data/poiExtraHrV3"),
   ]);
   const all = ([] as POI[]).concat(
     dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
@@ -311,6 +313,7 @@ async function loadFullPois(): Promise<POI[]> {
     poiExtraDeV1 as POI[], poiExtraRoV1 as POI[], poiExtraHuV4 as POI[], poiExtraFrV1 as POI[],
     poiExtraUkV1 as POI[], poiExtraUkMissingV1 as POI[], poiExtraAtChMissingV1 as POI[],
     poiExtraHrV1 as POI[], poiExtraHrV2 as POI[], poiExtraItalyV2 as POI[], poiExtraEsV2 as POI[],
+    poiExtraHrV3 as POI[],
   );
   // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
   const byId = new Map<string, POI>();
@@ -1398,7 +1401,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj).replace(/</g, "\\u003c")}</script>`;
   }
 
-  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}${nearbyCitiesHtml}</div></section>
+  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>
 <script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var ws=r.querySelectorAll('[data-weather]'),bs=r.querySelectorAll('[data-mode]'),cs=r.querySelectorAll('[data-mw]'),go=document.getElementById('plz-itin-go'),body=document.getElementById('plz-itin-body');var curW='sunny',curM='walk';function apply(){ws.forEach(function(x){x.setAttribute('aria-selected',x.dataset.weather===curW?'true':'false')});bs.forEach(function(x){x.setAttribute('aria-selected',x.dataset.mode===curM?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.mw===curM+'-'+curW)})}ws.forEach(function(w){w.addEventListener('click',function(){curW=w.dataset.weather;apply()})});bs.forEach(function(b){b.addEventListener('click',function(){curM=b.dataset.mode;apply()})});if(go){go.addEventListener('click',function(){body.scrollIntoView({behavior:'smooth',block:'start'})})}apply();
 // Swipe-dots scroll-sync: per active mw-block, update dots based on current scroll position
 function syncDots(track){var dots=track.parentElement.querySelectorAll('.plz-itin-dot');if(!dots.length)return;var w=track.clientWidth;var idx=Math.round(track.scrollLeft/(w*0.85));dots.forEach(function(d,i){d.classList.toggle('active',i===idx)})}
@@ -1621,11 +1624,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const a = getLocalized(f.answer || f.a, lang);
         if (!q || !a) return "";
         faqItems.push({ q, a });
-        return `<details class="plz-faq"><summary>${escapeHtml(q)}</summary><p>${escapeHtml(a)}</p></details>`;
+        return `<details class="plz-faq-item"><summary><span class="plz-faq-q">${escapeHtml(q)}</span><svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></summary><div class="plz-faq-a">${escapeHtml(a)}</div></details>`;
       })
       .filter(Boolean)
       .join("");
-    if (items) faqHtml = `<section><h2>FAQ</h2>${items}</section>`;
+    if (items) faqHtml = `<section class="plz-faq"><h2>FAQ</h2>${items}</section>`;
   }
 
   // Sights — per-city landmarks rendered as cards with thumbnail + text.
@@ -2038,10 +2041,10 @@ document.addEventListener('click',function(e){
   var a=e.target.closest('a[href]');
   if(a){
     var h=a.getAttribute('href')||'';
-    var ext=/^https?:\/\//.test(h)&&!h.includes(location.host);
+    var ext=/^https?:[/][/]/.test(h)&&!h.includes(location.host);
     if(ext){
       var rel=(a.getAttribute('rel')||'').toLowerCase();
-      var kind=rel.includes('sponsored')?'affiliate':(/wikipedia\.org/.test(h)?'wiki':(/google\.[a-z.]+\/maps/.test(h)?'gmaps':(/openstreetmap\.org/.test(h)?'osm':(/ticketmaster|datatourisme/.test(h)?'event':'external'))));
+      var kind=rel.includes('sponsored')?'affiliate':(/wikipedia\.org/.test(h)?'wiki':(/google\.[a-z.]+[/]maps/.test(h)?'gmaps':(/openstreetmap\.org/.test(h)?'osm':(/ticketmaster|datatourisme/.test(h)?'event':'external'))));
       t('outbound',{kind:kind,url:h.slice(0,200)});
     }
   }
@@ -2114,6 +2117,16 @@ ready();})();</script>
 .plz-lightbox-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid rgba(255,255,255,.2);font-size:1.6rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
 .plz-lightbox-close:hover{background:rgba(0,0,0,.8)}
 @media (max-width:640px){.plz-lightbox img{max-width:95vw;max-height:80vh}}
+.plz-faq{margin:1.8rem 0}
+.plz-faq-item{border:1px solid rgba(120,150,200,.18);border-radius:14px;margin:.55rem 0;background:linear-gradient(180deg,rgba(255,255,255,.025),rgba(255,255,255,0));overflow:hidden;transition:border-color .2s,background .2s}
+.plz-faq-item[open]{border-color:rgba(120,180,255,.42);background:rgba(120,180,255,.06)}
+.plz-faq-item summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:.85rem;padding:.9rem 1.05rem;font-weight:600;font-size:.98rem;color:#eaf2ff}
+.plz-faq-item summary::-webkit-details-marker{display:none}
+.plz-faq-item summary:hover{color:#fff}
+.plz-faq-q{flex:1}
+.plz-faq-chev{flex:none;transition:transform .25s ease;opacity:.65;color:#7fb4ff}
+.plz-faq-item[open] .plz-faq-chev{transform:rotate(180deg);opacity:1}
+.plz-faq-a{padding:0 1.05rem 1rem;line-height:1.62;color:rgba(255,255,255,.82);font-size:.94rem}
 .plz-constel-sec{margin:1.6rem 0}
 .plz-constel-sub{margin:.15rem 0 .8rem;opacity:.65;font-size:.9rem}
 .plz-constel{position:relative;width:100%;max-width:560px;margin:0 auto;aspect-ratio:4/3}
@@ -2452,10 +2465,10 @@ document.addEventListener('click',function(e){
   var a=e.target.closest('a[href]');
   if(a){
     var h=a.getAttribute('href')||'';
-    var ext=/^https?:\/\//.test(h)&&!h.includes(location.host);
+    var ext=/^https?:[/][/]/.test(h)&&!h.includes(location.host);
     if(ext){
       var rel=(a.getAttribute('rel')||'').toLowerCase();
-      var kind=rel.includes('sponsored')?'affiliate':(/wikipedia\.org/.test(h)?'wiki':(/google\.[a-z.]+\/maps/.test(h)?'gmaps':(/openstreetmap\.org/.test(h)?'osm':(/ticketmaster|datatourisme/.test(h)?'event':'external'))));
+      var kind=rel.includes('sponsored')?'affiliate':(/wikipedia\.org/.test(h)?'wiki':(/google\.[a-z.]+[/]maps/.test(h)?'gmaps':(/openstreetmap\.org/.test(h)?'osm':(/ticketmaster|datatourisme/.test(h)?'event':'external'))));
       t('outbound',{kind:kind,url:h.slice(0,200)});
     }
   }

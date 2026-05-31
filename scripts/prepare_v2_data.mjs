@@ -43,7 +43,7 @@ function nearestState(cc, lng, lat) {
 
 // === STEP 2: Load all V2 POI files via dynamic import (dedup by id, first-wins) ===
 const files = fs.readdirSync(DATA)
-  .filter((f) => /^poiExtra.*V2\.ts$/.test(f) && !f.includes(".bak"))
+  .filter((f) => /^poiExtra.*V[23]\.ts$/.test(f) && !f.includes(".bak"))
   .sort();
 console.log(`Loading ${files.length} V2 files...`);
 
