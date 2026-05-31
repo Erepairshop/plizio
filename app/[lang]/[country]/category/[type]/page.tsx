@@ -35,16 +35,17 @@ export async function generateStaticParams() {
       }
     }
   }
-  const LIMIT = Number(process.env.GSP_LIMIT ?? -1);
-  if (LIMIT === 0) {
-    console.error("[gSP category] GSP_LIMIT=0, returning 1 sample");
-    return [out[0] || FALLBACK_SAMPLE];
-  }
+  // NOTE: this route deliberately does NOT honor GSP_LIMIT=0. That flag makes the
+  // giant per-POI route emit only 1 sample (the static-HTML overlay generates all
+  // POI pages instead). These category HUB pages (~400: 12 countries × buckets × 4
+  // langs, ≥4 POIs each) are NOT produced by the overlay, so they must always be
+  // statically generated here — otherwise the country/state/poi pages link to them
+  // and 404 (those links are already indexed by Google).
   if (out.length === 0) {
     console.error("[gSP category] empty params! returning fallback");
     return [FALLBACK_SAMPLE];
   }
-  console.error("[gSP category] returning", out.length);
+  console.error("[gSP category] returning", out.length, "(GSP_LIMIT ignored — hub pages)");
   return out;
 }
 
