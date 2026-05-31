@@ -1991,8 +1991,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // Admin-only "bad image" flag button (gated by ?flag=1 → localStorage).
   // Fires an Umami `bad_image` event so we can later list POIs needing image swap.
   const flagBtnHtml = heroImages.length > 0
-    ? `<button type="button" class="plz-imgflag" data-poi="${escapeHtml(poi.id)}" aria-label="Rossz kép jelölése" hidden>⚑</button>`
-      + `<script>(function(){try{var s=location.search;if(s.indexOf('flag=1')>=0)localStorage.setItem('plzflag','1');if(s.indexOf('flag=0')>=0)localStorage.removeItem('plzflag');if(localStorage.getItem('plzflag')!=='1')return;}catch(e){return;}var b=document.querySelector('.plz-imgflag');if(!b)return;b.hidden=false;b.addEventListener('click',function(){var id=b.getAttribute('data-poi');try{if(window.umami&&window.umami.track)window.umami.track('bad_image',{poi:id,lang:${JSON.stringify(lang)}});}catch(e){}b.textContent='\\u2713';b.disabled=true;b.classList.add('done');});})();</script>`
+    ? `<button type="button" class="plz-imgflag" data-poi="${escapeHtml(poi.id)}" data-img="hero" aria-label="Rossz kép jelölése" hidden>⚑</button>`
+      + `<script>(function(){try{var s=location.search;if(s.indexOf('flag=1')>=0)localStorage.setItem('plzflag','1');if(s.indexOf('flag=0')>=0)localStorage.removeItem('plzflag');if(localStorage.getItem('plzflag')!=='1')return;}catch(e){return;}var POI=${JSON.stringify(poi.id)},LANG=${JSON.stringify(lang)};document.body.classList.add('plz-flagmode');function flag(img,el){try{if(window.umami&&window.umami.track)window.umami.track('bad_image',{poi:POI,img:img||'',lang:LANG});}catch(e){}if(el){el.classList.add('plz-flagged');}}var b=document.querySelector('.plz-imgflag');if(b){b.hidden=false;b.addEventListener('click',function(){flag('hero',null);b.textContent='\\u2713';b.disabled=true;b.classList.add('done');});}document.addEventListener('click',function(e){var t=e.target&&e.target.closest?e.target.closest('.plz-sight-img-btn'):null;if(!t)return;e.preventDefault();e.stopPropagation();flag(t.getAttribute('data-plzimg'),t);},true);})();</script>`
     : "";
 
   // Coat of arms (city/region badge)
@@ -2193,6 +2193,8 @@ ready();})();</script>
 .plz-imgflag{position:absolute;top:8px;right:8px;z-index:6;width:34px;height:34px;border-radius:50%;border:1px solid rgba(255,255,255,.45);background:rgba(190,32,32,.82);color:#fff;font-size:1rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;box-shadow:0 2px 8px rgba(0,0,0,.45)}
 .plz-imgflag:hover{background:rgba(210,40,40,.95)}
 .plz-imgflag.done{background:rgba(30,140,60,.88);cursor:default;border-color:rgba(255,255,255,.6)}
+.plz-flagmode .plz-sight-img-btn{outline:2px dashed rgba(255,90,90,.92);outline-offset:-2px}
+.plz-sight-img-btn.plz-flagged{outline:3px solid #2ecc71!important;outline-offset:-2px}
 ${EXPLORE_CSS}
 </style>
 <script>(function(){var box=document.getElementById('plz-lightbox');if(!box)return;var img=box.querySelector('img');var btn=box.querySelector('.plz-lightbox-close');function open(src,alt){img.src=src;img.alt=alt||'';box.classList.add('open');box.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';}function close(){box.classList.remove('open');box.setAttribute('aria-hidden','true');img.src='';document.body.style.overflow='';}document.addEventListener('click',function(e){var t=e.target.closest('.plz-sight-img-btn');if(t){e.preventDefault();open(t.dataset.plzimg,t.dataset.plzalt);}});btn.addEventListener('click',close);box.addEventListener('click',function(e){if(e.target===box)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>
