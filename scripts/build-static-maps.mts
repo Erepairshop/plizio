@@ -27,9 +27,10 @@ type Country = {
   poiSourceIso?: string; // metro maps: load POIs from this country's JSON instead of <iso>.json
   poiParent?: string;    // metro maps: keep only POIs whose parent === this (e.g. "FR-IDF")
   excludeParents?: string[]; // country maps: drop POIs with these parents (moved to a metro map)
-  metroLink?: { mapSlug: string; lon: number; lat: number; names: Record<Lang, string> }; // clickable marker -> metro map
-  poiBBox?: BBox;          // metro maps: keep only POIs whose coords fall in this box (parent-independent, catches mis-tagged POIs)
-  excludeBBoxes?: BBox[];  // country maps: drop POIs inside these boxes (moved to a metro map)
+  metroLinks?: { mapSlug: string; lon: number; lat: number; names: Record<Lang, string> }[]; // clickable markers -> sub-maps (metro/island)
+  poiBBox?: BBox;          // sub-maps: keep only POIs whose coords fall in this box (parent-independent, catches mis-tagged POIs)
+  excludeBBoxes?: BBox[];  // country maps: drop POIs inside these boxes (moved to a sub-map)
+  zoomToPoiBBox?: boolean; // crop the viewBox to poiBBox (island/region zoom on a shared country SVG)
 };
 type BBox = { minLon: number; maxLon: number; minLat: number; maxLat: number };
 // Paris metro catchment (== parisMetro.svg.ts projection bbox). Used to keep IDF
@@ -41,8 +42,35 @@ function inBBox(coords: [number, number] | undefined, b: BBox): boolean {
   return lon >= b.minLon && lon <= b.maxLon && lat >= b.minLat && lat <= b.maxLat;
 }
 
+// Croatian islands: each gets a zoomed sub-map (shared croatia.svg, cropped to the
+// island bbox, POIs filtered by bbox). The Croatia map shows one clickable pin per
+// island and excludes the island POIs (declutter + "enter the island").
+const HR_ISLANDS: { slug: string; name: string; bbox: BBox; lon: number; lat: number }[] = [
+  { slug: "krk",        name: "Krk",        bbox: { minLon: 14.45, maxLon: 14.80, minLat: 44.95, maxLat: 45.30 }, lon: 14.60, lat: 45.10 },
+  { slug: "cres",       name: "Cres",       bbox: { minLon: 14.18, maxLon: 14.46, minLat: 44.52, maxLat: 45.20 }, lon: 14.34, lat: 44.90 },
+  { slug: "losinj",     name: "Lošinj",     bbox: { minLon: 14.34, maxLon: 14.56, minLat: 44.50, maxLat: 44.74 }, lon: 14.45, lat: 44.62 },
+  { slug: "rab",        name: "Rab",        bbox: { minLon: 14.66, maxLon: 14.88, minLat: 44.68, maxLat: 44.84 }, lon: 14.77, lat: 44.76 },
+  { slug: "pag",        name: "Pag",        bbox: { minLon: 14.83, maxLon: 15.22, minLat: 44.28, maxLat: 44.64 }, lon: 15.02, lat: 44.46 },
+  { slug: "dugi-otok",  name: "Dugi Otok",  bbox: { minLon: 14.83, maxLon: 15.18, minLat: 43.86, maxLat: 44.14 }, lon: 15.00, lat: 44.00 },
+  { slug: "ugljan",     name: "Ugljan i Pašman", bbox: { minLon: 14.98, maxLon: 15.46, minLat: 43.90, maxLat: 44.12 }, lon: 15.20, lat: 44.01 },
+  { slug: "solta",      name: "Šolta",      bbox: { minLon: 16.18, maxLon: 16.44, minLat: 43.34, maxLat: 43.44 }, lon: 16.30, lat: 43.39 },
+  { slug: "brac",       name: "Brač",       bbox: { minLon: 16.32, maxLon: 16.94, minLat: 43.22, maxLat: 43.42 }, lon: 16.63, lat: 43.32 },
+  { slug: "hvar",       name: "Hvar",       bbox: { minLon: 16.33, maxLon: 17.22, minLat: 43.08, maxLat: 43.24 }, lon: 16.75, lat: 43.16 },
+  { slug: "vis",        name: "Vis",        bbox: { minLon: 16.04, maxLon: 16.34, minLat: 42.96, maxLat: 43.12 }, lon: 16.19, lat: 43.04 },
+  { slug: "korcula",    name: "Korčula",    bbox: { minLon: 16.64, maxLon: 17.16, minLat: 42.88, maxLat: 43.04 }, lon: 16.90, lat: 42.96 },
+  { slug: "mljet",      name: "Mljet",      bbox: { minLon: 17.28, maxLon: 17.82, minLat: 42.68, maxLat: 42.84 }, lon: 17.55, lat: 42.76 },
+];
+const islandNames = (n: string): Record<Lang, string> => ({ de: n, hu: n, ro: n, en: n });
+const ISLAND_COUNTRIES: Country[] = HR_ISLANDS.map((i) => ({
+  iso: i.slug, slug: i.slug, svgFile: "croatia.svg.ts", mapVar: "croatiaMap", vbVar: "croatiaViewBox", projFn: "projectCoordsHR",
+  poiSourceIso: "HR", poiBBox: i.bbox, zoomToPoiBBox: true, names: islandNames(i.name),
+}));
+const HR_ISLAND_LINKS = HR_ISLANDS.map((i) => ({ mapSlug: i.slug, lon: i.lon, lat: i.lat, names: islandNames(i.name) }));
+const HR_ISLAND_BBOXES = HR_ISLANDS.map((i) => i.bbox);
+
 const COUNTRIES: Country[] = [
   { iso:"hr", slug:"croatia", svgFile:"croatia.svg.ts", mapVar:"croatiaMap", vbVar:"croatiaViewBox", projFn:"projectCoordsHR",
+    metroLinks:HR_ISLAND_LINKS, excludeBBoxes:HR_ISLAND_BBOXES,
     names:{ de:"Kroatien", hu:"Horvátország", ro:"Croația", en:"Croatia" } },
   { iso:"hu", slug:"magyarorszag", svgFile:"magyarorszag.svg.ts", mapVar:"magyarorszagMap", vbVar:"magyarorszagViewBox", projFn:"projectCoordsHU",
     names:{ de:"Ungarn", hu:"Magyarország", ro:"Ungaria", en:"Hungary" } },
@@ -52,8 +80,8 @@ const COUNTRIES: Country[] = [
     names:{ de:"Deutschland", hu:"Németország", ro:"Germania", en:"Germany" } },
   { iso:"fr", slug:"france", svgFile:"france.svg.ts", mapVar:"franceMap", vbVar:"franceViewBox", projFn:"projectCoordsFR",
     excludeParents:["FR-IDF"], excludeBBoxes:[PARIS_BBOX],
-    metroLink:{ mapSlug:"paris", lon:2.3522, lat:48.8566,
-      names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } },
+    metroLinks:[{ mapSlug:"paris", lon:2.3522, lat:48.8566,
+      names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } }],
     names:{ de:"Frankreich", hu:"Franciaország", ro:"Franța", en:"France" } },
   // Metro map: Île-de-France (Paris) — departments background, POIs filtered by parent FR-IDF.
   { iso:"paris", slug:"paris", svgFile:"parisMetro.svg.ts", mapVar:"parisMetroMap", vbVar:"parisMetroViewBox", projFn:"projectCoordsParis",
@@ -447,6 +475,7 @@ const COUNTRIES: Country[] = [
     names:{ de:"Tuvalu", hu:"Tuvalu", ro:"Tuvalu", en:"Tuvalu" } },
   { iso:"ck", slug:"cookislands", svgFile:"cookislands.svg.ts", mapVar:"cookislandsMap", vbVar:"cookislandsViewBox", projFn:"projectCoordsCK",
     names:{ de:"Cookinseln", hu:"Cook-szigetek", ro:"Insulele Cook", en:"Cook Islands" } },
+  ...ISLAND_COUNTRIES,
 ];
 
 const HINT: Record<Lang, string> = {
@@ -662,7 +691,15 @@ function backfillUrlsByCoord(pois: SlimPoi[]): void {
   }
 }
 
-function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number): string {
+function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number, searchExtra: { name: any; submap: string }[] = []): string {
+  // Search-only entries: POIs moved to a sub-map (island/metro). Not drawn as
+  // markers, but searchable — a hit links to the sub-map where the POI lives.
+  const SEARCH_EXTRA_JS = searchExtra.map((e) => {
+    const nm = (e.name && (e.name[lang] || e.name.en || e.name.de)) || "";
+    const alln = [e.name?.de, e.name?.hu, e.name?.ro, e.name?.en].filter(Boolean)
+      .map((n: any) => String(n).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")).join("|");
+    return { n: nm, s: alln, u: `/${e.submap}-map/${lang === "hu" ? "" : lang + "/"}` };
+  }).filter((x) => x.n);
   const t = `${c.names[lang]} ${TITLE_SUFFIX[lang]}`;
   const hint = HINT[lang], more = MORE[lang], back = BACK[lang], searchPh = SEARCH_PH[lang];
   const langLinks = LANGS.map(l => l === lang
@@ -937,6 +974,7 @@ header .langs{display:flex;gap:.25rem}
 const LANG=${JSON.stringify(lang)},W=${W},H=${H};
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null, cx:p.cx, cy:p.cy}))))};
+const SEARCH_EXTRA=${JSON.stringify(SEARCH_EXTRA_JS)};
 const POI_CARD=${JSON.stringify(Object.fromEntries(pois.filter(p => p.img || (p.desc && p.desc[lang]) || (p.facts && p.facts[lang])).map(p => [p.id, {
   i: p.img || undefined,
   s: (p.desc && p.desc[lang]) || undefined,
@@ -1110,10 +1148,13 @@ function applySearch(){
     if(!e.search.includes(q))continue;
     if(hits.length<50)hits.push({id,...e});
   }
+  // Search-only entries (POIs on a sub-map): match by name, navigate to the sub-map.
+  const extraHits=[];
+  for(const e of SEARCH_EXTRA){if(e.s.includes(q)&&extraHits.length<20)extraHits.push(e)}
   // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
   // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
   // Compute by examining current cluster visibility (already set in Phase 2 above).
-  if(hits.length>0){
+  if(hits.length>0&&extraHits.length===0){
     // Map: poi-id -> cluster index it belongs to (if any)
     const poiToCluster={};
     for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
@@ -1164,12 +1205,13 @@ function applySearch(){
       }
     }
   }
-  if(hits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  if(hits.length===0&&extraHits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
   // Show first N by default; rest behind a "+more" button so the dropdown
   // stops covering the map when a query has many matches.
   const FIRST_N=8;
   const row=h=>'<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+String(h.grp)+'</span></a>';
-  let html=hits.slice(0,FIRST_N).map(row).join('');
+  const exRow=e=>'<a data-extra="1" href="'+e.u+'"><span class="dot" style="background:#ffd54a"></span><span class="nm">'+e.n.replace(/[<>]/g,'')+'</span><span class="gr">›</span></a>';
+  let html=hits.slice(0,FIRST_N).map(row).join('')+extraHits.map(exRow).join('');
   if(hits.length>FIRST_N){
     const rest=hits.slice(FIRST_N).map(row).join('');
     const moreLabel=LANG==='hu'?'Még':LANG==='de'?'Mehr':LANG==='ro'?'Mai mult':'More';
@@ -1185,6 +1227,8 @@ sIn.addEventListener('input',applySearch);
 sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
 // Click on dropdown item: zoom-pan to POI AND open its popup (same as clicking the marker).
 sRes.addEventListener('click',e=>{
+  const ax=e.target.closest('a[data-extra]');
+  if(ax)return; // sub-map link: let the browser navigate
   const a=e.target.closest('a[data-id]');
   if(!a)return;
   e.preventDefault();
@@ -1217,17 +1261,30 @@ async function buildOne(c: Country): Promise<boolean> {
     return false;
   }
   const map = mod[c.mapVar];
-  const viewBox = mod[c.vbVar];
+  let viewBox = mod[c.vbVar];
   const proj = mod[c.projFn];
   if (!Array.isArray(map) || !viewBox || typeof proj !== "function") {
     console.log(`SKIP ${c.iso}: missing exports (map=${!!map}, vb=${!!viewBox}, proj=${typeof proj})`);
     return false;
   }
+  // Island/region zoom: crop the shared country SVG's viewBox to the poiBBox.
+  if (c.zoomToPoiBBox && c.poiBBox) {
+    const b = c.poiBBox;
+    const cs = [proj(b.minLon, b.minLat), proj(b.minLon, b.maxLat), proj(b.maxLon, b.minLat), proj(b.maxLon, b.maxLat)];
+    const xs = cs.map((p: number[]) => p[0]), ys = cs.map((p: number[]) => p[1]);
+    const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+    const px = (x1 - x0) * 0.12, py = (y1 - y0) * 0.12;
+    viewBox = `${(x0 - px).toFixed(1)} ${(y0 - py).toFixed(1)} ${(x1 - x0 + 2 * px).toFixed(1)} ${(y1 - y0 + 2 * py).toFixed(1)}`;
+  }
   const { w: W, h: H } = parseViewBox(viewBox);
+  // slimPoi bounds: POIs are projected in the FULL country pixel space, so always
+  // validate against the original viewBox (the zoomed one would reject island POIs).
+  const { w: fullW, h: fullH } = parseViewBox(mod[c.vbVar]);
 
   const isoUp = c.poiSourceIso || (c.iso === "gb" ? "GB" : c.iso.toUpperCase());
   const poisJsonPath = path.join(process.cwd(), "public", "data", "pois", `${isoUp}.json`);
   let poisRaw: any[] = [];
+  const searchExtra: { name: any; submap: string }[] = [];
   if (fs.existsSync(poisJsonPath)) {
     try {
       const j = JSON.parse(fs.readFileSync(poisJsonPath, "utf8"));
@@ -1240,7 +1297,17 @@ async function buildOne(c: Country): Promise<boolean> {
         poisRaw = poisRaw.filter((p: any) => !(p && ex.has(p.parent)));
       }
       if (c.excludeBBoxes && c.excludeBBoxes.length) {
-        poisRaw = poisRaw.filter((p: any) => !(p && c.excludeBBoxes!.some((b) => inBBox(p.coords, b))));
+        const links = c.metroLinks || [];
+        const kept: any[] = [];
+        for (const p of poisRaw) {
+          let hit = -1;
+          if (p && p.coords) for (let i = 0; i < c.excludeBBoxes.length; i++) { if (inBBox(p.coords, c.excludeBBoxes[i])) { hit = i; break; } }
+          if (hit >= 0) {
+            const submap = (links[hit] || links[0] || {}).mapSlug;
+            if (submap && p.name) searchExtra.push({ name: p.name, submap });
+          } else kept.push(p);
+        }
+        poisRaw = kept;
       }
     } catch {}
   }
@@ -1249,15 +1316,14 @@ async function buildOne(c: Country): Promise<boolean> {
   for (const p of poisRaw) {
     if (seen.has(p.id)) continue;
     seen.add(p.id);
-    const s = slimPoi(p, proj, W, H);
+    const s = slimPoi(p, proj, fullW, fullH);
     if (s) pois.push(s);
   }
   backfillUrlsByCoord(pois);
-  // Inject a clickable marker pointing to a dedicated metro map (declutters the country map).
-  if (c.metroLink) {
-    const [mx, my] = proj(c.metroLink.lon, c.metroLink.lat);
+  // Inject clickable markers pointing to dedicated sub-maps (metro/island) — declutters the country map.
+  for (const ml of (c.metroLinks || [])) {
+    const [mx, my] = proj(ml.lon, ml.lat);
     if (Number.isFinite(mx) && Number.isFinite(my)) {
-      const ml = c.metroLink;
       const urls: Record<string, string> = {};
       for (const l of LANGS) urls[l] = `/${ml.mapSlug}-map/${l === "hu" ? "" : l + "/"}`;
       pois.push({ id: `metro-${ml.mapSlug}`, type: "metro", grp: "city", cx: mx, cy: my, name: ml.names, urls } as SlimPoi);
@@ -1270,11 +1336,11 @@ async function buildOne(c: Country): Promise<boolean> {
   }));
   const outDir = path.join(process.cwd(), "public", `${c.slug}-map`);
   fs.mkdirSync(outDir, { recursive: true });
-  fs.writeFileSync(path.join(outDir, "index.html"), renderHtml(c, "hu", regions, pois, viewBox, W, H), "utf8");
+  fs.writeFileSync(path.join(outDir, "index.html"), renderHtml(c, "hu", regions, pois, viewBox, W, H, searchExtra), "utf8");
   for (const l of LANGS) {
     const sub = path.join(outDir, l);
     fs.mkdirSync(sub, { recursive: true });
-    fs.writeFileSync(path.join(sub, "index.html"), renderHtml(c, l, regions, pois, viewBox, W, H), "utf8");
+    fs.writeFileSync(path.join(sub, "index.html"), renderHtml(c, l, regions, pois, viewBox, W, H, searchExtra), "utf8");
   }
   const sz = fs.statSync(path.join(outDir, "index.html")).size;
   console.log(`OK   ${c.iso} ${c.slug.padEnd(18)} regions=${regions.length.toString().padStart(3)} pois=${pois.length.toString().padStart(4)} html=${(sz/1024).toFixed(0)}KB`);
