@@ -10,6 +10,10 @@ const nextConfig: NextConfig = {
   experimental: {
     workerThreads: false,
     cpus: 2,
+    // Turbopack persistent build cache → incremental `next build` (cold compile
+    // was ~14 min every deploy; cached recompile is a few min). Cache dir is
+    // .next/cache, persisted by actions/cache in deploy-vps.yml.
+    turbopackFileSystemCacheForBuild: true,
   },
 };
 
