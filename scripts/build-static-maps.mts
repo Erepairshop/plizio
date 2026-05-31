@@ -33,6 +33,7 @@ type Country = {
   zoomToPoiBBox?: boolean; // crop the viewBox to poiBBox (island/region zoom on a shared country SVG)
   islandRingsSlug?: string;   // island maps: refine poiBBox to POIs inside/near this island's coastline polygon
   excludeIslandSlugs?: string[]; // country maps: drop POIs inside/near these islands' polygons (routed to the island sub-map)
+  parentMap?: string;         // sub-maps (island/metro): back button returns to /<parentMap>-map/ instead of "/"
 };
 type BBox = { minLon: number; maxLon: number; minLat: number; maxLat: number };
 // Paris metro catchment (== parisMetro.svg.ts projection bbox). Used to keep IDF
@@ -111,11 +112,11 @@ const ISLAND_COUNTRIES: Country[] = HR_ISLANDS.map((i) => {
         // Dedicated SVG: assign POIs by the actual coastline polygon (+buffer), not
         // the rough bbox — keeps mainland-coast POIs across the channel off the island.
         iso: i.slug, slug: i.slug, svgFile: `${camel}.svg.ts`, mapVar: `${camel}Map`, vbVar: `${camel}ViewBox`, projFn: "projectIsland",
-        poiSourceIso: "HR", poiBBox: i.bbox, islandRingsSlug: i.slug, names: islandNames(i.name),
+        poiSourceIso: "HR", poiBBox: i.bbox, islandRingsSlug: i.slug, parentMap: "croatia", names: islandNames(i.name),
       }
     : {
         iso: i.slug, slug: i.slug, svgFile: "croatia.svg.ts", mapVar: "croatiaMap", vbVar: "croatiaViewBox", projFn: "projectCoordsHR",
-        poiSourceIso: "HR", poiBBox: i.bbox, zoomToPoiBBox: true, names: islandNames(i.name),
+        poiSourceIso: "HR", poiBBox: i.bbox, zoomToPoiBBox: true, parentMap: "croatia", names: islandNames(i.name),
       };
 });
 const HR_ISLAND_LINKS = HR_ISLANDS.map((i) => ({ mapSlug: i.slug, lon: i.lon, lat: i.lat, names: islandNames(i.name) }));
@@ -138,7 +139,7 @@ const COUNTRIES: Country[] = [
     names:{ de:"Frankreich", hu:"Franciaország", ro:"Franța", en:"France" } },
   // Metro map: Île-de-France (Paris) — departments background, POIs filtered by parent FR-IDF.
   { iso:"paris", slug:"paris", svgFile:"parisMetro.svg.ts", mapVar:"parisMetroMap", vbVar:"parisMetroViewBox", projFn:"projectCoordsParis",
-    poiSourceIso:"FR", poiBBox:PARIS_BBOX,
+    poiSourceIso:"FR", poiBBox:PARIS_BBOX, parentMap:"france",
     names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } },
   { iso:"it", slug:"italy", svgFile:"italy.svg.ts", mapVar:"italyMap", vbVar:"italyViewBox", projFn:"projectCoordsIT",
     names:{ de:"Italien", hu:"Olaszország", ro:"Italia", en:"Italy" } },
@@ -968,7 +969,7 @@ header .langs{display:flex;gap:.25rem}
 </head>
 <body>
 <header>
-<a class="back" href="/" aria-label="${back}">‹</a>
+<a class="back" href="${c.parentMap ? `/${c.parentMap}-map/${lang === "hu" ? "" : lang + "/"}` : "/"}" aria-label="${back}">‹</a>
 <h1>${t}</h1>
 <div class="langs">${langLinks}</div>
 </header>
